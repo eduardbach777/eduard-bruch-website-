@@ -5,14 +5,15 @@ import { motion } from "framer-motion";
 interface Video {
   src: string;
   name: string;
+  type: string;
 }
 
 // Static video list - add new videos here
 const videos: Video[] = [
-  { src: "/videos/reel/999%20ausschnitt.mp4", name: "999" },
-  { src: "/videos/reel/casting%20demons%201%20eduard%20bruch.mp4", name: "Casting Demons 1" },
-  { src: "/videos/reel/casting%20demons%202.mp4", name: "Casting Demons 2" },
-  { src: "/videos/reel/THE%20VANISHED%20WITNESS%20Rough%20Cut%202%20%5BeF9vYs6z6BU%5D%20Kopie.MOV", name: "The Vanished Witness" },
+  { src: "/videos/reel/999%20ausschnitt.mp4", name: "999", type: "video/mp4" },
+  { src: "/videos/reel/casting%20demons%201%20eduard%20bruch.mp4", name: "Casting Demons 1", type: "video/mp4" },
+  { src: "/videos/reel/casting%20demons%202.mp4", name: "Casting Demons 2", type: "video/mp4" },
+  { src: "/videos/reel/THE%20VANISHED%20WITNESS%20Rough%20Cut%202%20%5BeF9vYs6z6BU%5D%20Kopie.MOV", name: "The Vanished Witness", type: "video/quicktime" },
 ];
 
 export default function ReelPage() {
@@ -68,10 +69,11 @@ export default function ReelPage() {
                 <div className="relative aspect-video bg-white/5">
                   <video
                     controls
+                    playsInline
                     className="w-full h-full"
-                    preload="metadata"
+                    preload="auto"
                   >
-                    <source src={video.src} type="video/mp4" />
+                    <source src={video.src} type={video.type} />
                     Your browser does not support the video tag.
                   </video>
                 </div>
