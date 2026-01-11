@@ -11,9 +11,9 @@ interface Video {
 // To get the ID: from https://www.youtube.com/watch?v=XXXXX, the ID is XXXXX
 const videos: Video[] = [
   { youtubeId: "D3rnVWu00Ws", name: "999" },
-  { youtubeId: "YXubRh1TxAk", name: "Casting Demons 1" },
+  { youtubeId: "WrLpPx3PEpc", name: "Casting Demons 1" },
   { youtubeId: "Xv8LJVgs4iU", name: "Casting Demons 2" },
-  { youtubeId: "WrLpPx3PEpc", name: "The Vanished Witness" },
+  { youtubeId: "YXubRh1TxAk", name: "The Vanished Witness" },
 ];
 
 export default function ReelPage() {
