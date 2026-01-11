@@ -1,6 +1,5 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 
 interface Video {
@@ -8,24 +7,16 @@ interface Video {
   name: string;
 }
 
-export default function ReelPage() {
-  const [videos, setVideos] = useState<Video[]>([]);
-  const [loading, setLoading] = useState(true);
+// Static video list - add new videos here
+const videos: Video[] = [
+  { src: "/videos/reel/999 ausschnitt.mp4", name: "999" },
+  { src: "/videos/reel/casting demons 1 eduard bruch.mp4", name: "Casting Demons 1" },
+  { src: "/videos/reel/casting demons 2.mp4", name: "Casting Demons 2" },
+  { src: "/videos/reel/THE VANISHED WITNESS Rough Cut 2 [eF9vYs6z6BU] Kopie.MOV", name: "The Vanished Witness" },
+];
 
-  useEffect(() => {
-    async function fetchVideos() {
-      try {
-        const res = await fetch("/api/videos");
-        const data = await res.json();
-        setVideos(data.videos);
-      } catch (error) {
-        console.error("Error fetching videos:", error);
-      } finally {
-        setLoading(false);
-      }
-    }
-    fetchVideos();
-  }, []);
+export default function ReelPage() {
+  const loading = false;
 
   return (
     <section className="min-h-screen flex flex-col">
