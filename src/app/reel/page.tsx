@@ -9,10 +9,10 @@ interface Video {
 
 // Static video list - add new videos here
 const videos: Video[] = [
-  { src: "/videos/reel/999 ausschnitt.mp4", name: "999" },
-  { src: "/videos/reel/casting demons 1 eduard bruch.mp4", name: "Casting Demons 1" },
-  { src: "/videos/reel/casting demons 2.mp4", name: "Casting Demons 2" },
-  { src: "/videos/reel/THE VANISHED WITNESS Rough Cut 2 [eF9vYs6z6BU] Kopie.MOV", name: "The Vanished Witness" },
+  { src: "/videos/reel/999%20ausschnitt.mp4", name: "999" },
+  { src: "/videos/reel/casting%20demons%201%20eduard%20bruch.mp4", name: "Casting Demons 1" },
+  { src: "/videos/reel/casting%20demons%202.mp4", name: "Casting Demons 2" },
+  { src: "/videos/reel/THE%20VANISHED%20WITNESS%20Rough%20Cut%202%20%5BeF9vYs6z6BU%5D%20Kopie.MOV", name: "The Vanished Witness" },
 ];
 
 export default function ReelPage() {
