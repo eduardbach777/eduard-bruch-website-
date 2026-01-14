@@ -59,7 +59,7 @@ export default function ReelPage() {
           >
             {videos.map((video, index) => (
               <motion.div
-                key={video.src}
+                key={video.youtubeId}
                 initial={{ opacity: 0, y: 30 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true, margin: "-100px" }}
@@ -68,11 +68,12 @@ export default function ReelPage() {
               >
                 <div className="relative aspect-video bg-white/5 overflow-hidden rounded-sm">
                   <iframe
-                    src={`https://www.youtube.com/embed/${video.youtubeId}?rel=0&modestbranding=1`}
+                    src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}?rel=0&modestbranding=1`}
                     title={video.name}
-                    className="absolute inset-0 w-full h-full"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    className="absolute inset-0 w-full h-full border-0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowFullScreen
+                    loading="lazy"
                   />
                 </div>
                 <p className="text-center text-white/50 text-sm tracking-wider uppercase">
