@@ -7,26 +7,6 @@ import HorizontalGallery from "@/components/HorizontalGallery";
 export default function Home() {
   return (
     <>
-      {/* Showreel Video Section */}
-      <section className="pt-32 pb-16 px-6">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 1 }}
-          className="max-w-5xl mx-auto"
-        >
-          <div className="aspect-video w-full">
-            <iframe
-              src="https://www.youtube.com/embed/RYViCj1ebkM"
-              title="Eduard Bruch Showreel"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="w-full h-full"
-            />
-          </div>
-        </motion.div>
-      </section>
-
       {/* Hero Section with Gallery */}
       <section className="relative min-h-screen flex flex-col justify-center py-32">
         <div className="relative z-10 text-center px-6 mb-12">
