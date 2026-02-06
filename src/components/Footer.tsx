@@ -38,10 +38,24 @@ export default function Footer() {
             </Link>
           </div>
 
-          {/* Copyright */}
-          <p className="text-white/30 text-xs tracking-wider">
-            © {new Date().getFullYear()}
-          </p>
+          {/* Legal + Copyright */}
+          <div className="flex items-center gap-6">
+            <Link
+              href="/pdfcreator/impressum"
+              className="text-xs tracking-[0.15em] text-white/40 hover:text-white transition-colors uppercase"
+            >
+              Impressum
+            </Link>
+            <Link
+              href="/pdfcreator/privacy"
+              className="text-xs tracking-[0.15em] text-white/40 hover:text-white transition-colors uppercase"
+            >
+              Privacy
+            </Link>
+            <p className="text-white/30 text-xs tracking-wider">
+              © {new Date().getFullYear()}
+            </p>
+          </div>
         </div>
       </div>
     </footer>
