@@ -8,7 +8,7 @@ const navLinks = [
   { href: "/reel", label: "Reel" },
   { href: "/gallery", label: "Gallery" },
   { href: "/about", label: "About" },
-  { href: "/creative", label: "Creative" },
+  { href: "/creative", label: "Software" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -44,7 +44,6 @@ export default function Navbar() {
           <Link
             href="/"
             className="text-xs tracking-[0.25em] font-light hover:opacity-70 transition-opacity"
-            style={{ marginLeft: '100px' }}
           >
             EDUARD BRUCH
           </Link>

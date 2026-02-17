@@ -8,13 +8,13 @@ export default function Home() {
   return (
     <>
       {/* Hero Section with Gallery */}
-      <section className="relative min-h-screen flex flex-col justify-center py-32">
-        <div className="relative z-10 text-center px-6 mb-12">
+      <section className="relative min-h-screen flex flex-col justify-center pt-32 pb-40">
+        <div className="relative z-10 text-center px-6 mb-16">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.3 }}
-            className="text-2xl md:text-3xl lg:text-4xl font-light tracking-[0.3em] mb-8"
+            className="text-3xl md:text-4xl lg:text-5xl font-light tracking-[0.3em] mb-10"
           >
             EDUARD BRUCH
           </motion.h1>
@@ -47,7 +47,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 1 }}
-          className="text-center mt-12"
+          className="text-center mt-16"
         >
           <Link
             href="/gallery"
@@ -65,7 +65,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 1.5 }}
-          className="absolute bottom-12 left-1/2 -translate-x-1/2"
+          className="absolute bottom-16 left-1/2 -translate-x-1/2"
         >
           <div className="flex flex-col items-center gap-3">
             <span className="text-white/30 text-xs tracking-[0.2em] uppercase">Scroll</span>
@@ -79,7 +79,7 @@ export default function Home() {
       </section>
 
       {/* Reel Section */}
-      <section className="py-32 md:py-48 border-t border-white/10">
+      <section className="py-40 md:py-56 border-t border-white/10">
         <div className="flex flex-col items-center justify-center px-6">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -88,10 +88,10 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="flex flex-col items-center"
           >
-            <h2 className="text-2xl md:text-3xl font-light tracking-[0.2em] mb-6 text-center">
+            <h2 className="text-3xl md:text-4xl font-light tracking-[0.2em] mb-8 text-center">
               SHOWREEL
             </h2>
-            <div className="w-12 h-px bg-white/30 mb-10" />
+            <div className="w-16 h-px bg-white/20 mb-10" />
             <p className="text-white/50 text-base md:text-lg tracking-wide mb-16 max-w-lg leading-relaxed text-center">
               Selected work from film, television, and stage productions
             </p>
@@ -103,7 +103,7 @@ export default function Home() {
       </section>
 
       {/* Contact Section */}
-      <section className="py-32 md:py-48 border-t border-white/10">
+      <section className="py-40 md:py-56 border-t border-white/10">
         <div className="flex flex-col items-center justify-center px-6">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -112,10 +112,10 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="flex flex-col items-center"
           >
-            <h2 className="text-2xl md:text-3xl font-light tracking-[0.2em] mb-6 text-center">
+            <h2 className="text-3xl md:text-4xl font-light tracking-[0.2em] mb-8 text-center">
               GET IN TOUCH
             </h2>
-            <div className="w-12 h-px bg-white/30 mb-10" />
+            <div className="w-16 h-px bg-white/20 mb-10" />
             <p className="text-white/50 text-base md:text-lg tracking-wide mb-16 max-w-lg leading-relaxed text-center">
               Available for film, television, and commercial projects
             </p>
