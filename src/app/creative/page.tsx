@@ -130,48 +130,47 @@ export default function SoftwareDevelopmentPage() {
           <h1 style={{ marginBottom: '24px' }} className="text-2xl md:text-4xl font-light tracking-[0.25em]">
             SOFTWARE DEVELOPMENT
           </h1>
-          <p style={{ marginBottom: '0' }} className="text-white/35 text-xs md:text-sm tracking-[0.15em]">
+          <p style={{ marginBottom: '0', fontSize: '15px', color: 'rgba(255,255,255,0.4)', letterSpacing: '0.1em' }}>
             {totalApps} iOS applications across {categories.length} categories
           </p>
         </motion.div>
       </header>
 
       {/* App Categories */}
-      <div className="max-w-3xl mx-auto px-10 md:px-16 pb-40">
+      <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 40px 160px 40px' }}>
         {categories.map((category, catIndex) => (
           <motion.section
             key={category.title}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.05 * catIndex }}
-            className="mb-24 last:mb-0"
+            style={{ marginBottom: '100px' }}
           >
             {/* Category Title */}
-            <div className="flex items-baseline justify-between mb-8">
-              <h2 className="text-xs md:text-sm tracking-[0.2em] text-white/80 uppercase">
+            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: '32px', borderBottom: '1px solid rgba(255,255,255,0.08)', paddingBottom: '16px' }}>
+              <h2 style={{ fontSize: '14px', letterSpacing: '0.2em', color: 'rgba(255,255,255,0.9)', textTransform: 'uppercase' }}>
                 {category.title}
-                <span className="text-white/20 ml-4">
+                <span style={{ color: 'rgba(255,255,255,0.25)', marginLeft: '12px' }}>
                   {category.apps.length}
                 </span>
               </h2>
               <Link
                 href={category.privacyUrl}
-                className="text-[10px] md:text-xs tracking-[0.1em] text-white/20 hover:text-white/50 transition-colors"
+                className="hover:text-white/60 transition-colors"
+                style={{ fontSize: '12px', letterSpacing: '0.1em', color: 'rgba(255,255,255,0.3)' }}
               >
                 Privacy
               </Link>
             </div>
 
-            <div className="w-full h-px bg-white/5 mb-10" />
-
             {/* Apps */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-x-20 md:gap-y-8">
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '32px 60px' }}>
               {category.apps.map((app) => (
                 <div key={app.name}>
-                  <p className="text-sm text-white/80 tracking-wide mb-1">
+                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.9)', letterSpacing: '0.02em', marginBottom: '6px' }}>
                     {app.name}
                   </p>
-                  <p className="text-xs text-white/25 leading-relaxed">
+                  <p style={{ fontSize: '14px', color: 'rgba(255,255,255,0.45)', lineHeight: '1.6' }}>
                     {app.description}
                   </p>
                 </div>
@@ -185,21 +184,19 @@ export default function SoftwareDevelopmentPage() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
-          className="mt-32"
+          style={{ marginTop: '60px' }}
         >
           <a
             href="https://angelcompanysolutions.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="block group text-center py-24 border border-white/5 hover:border-white/15 transition-all duration-500"
+            className="block group"
+            style={{ textAlign: 'center', padding: '80px 0', border: '1px solid rgba(255,255,255,0.08)' }}
           >
-            <p className="text-xs tracking-[0.3em] text-white/20 uppercase mb-4">
-              Also visit
-            </p>
-            <h2 className="text-base md:text-lg font-light tracking-[0.25em] text-white/60 group-hover:text-white transition-colors mb-3">
+            <h2 className="group-hover:text-white transition-colors" style={{ fontSize: '18px', fontWeight: '300', letterSpacing: '0.25em', color: 'rgba(255,255,255,0.6)', marginBottom: '12px' }}>
               ANGEL COMPANY SOLUTIONS
             </h2>
-            <p className="text-xs tracking-[0.15em] text-white/20">
+            <p style={{ fontSize: '13px', letterSpacing: '0.15em', color: 'rgba(255,255,255,0.25)' }}>
               Creative production and digital solutions
             </p>
           </a>
