@@ -38,23 +38,23 @@ export default function Navbar() {
         scrolled ? "bg-black/95 backdrop-blur-sm" : "bg-transparent"
       }`}
     >
-      <div className="w-full px-6 md:px-12 lg:px-24">
-        <div className="flex items-center justify-between h-20 max-w-6xl mx-auto">
+      <div className="max-w-5xl mx-auto px-8 md:px-12">
+        <div className="flex items-center justify-between h-24">
           {/* Logo */}
           <Link
             href="/"
-            className="text-xs tracking-[0.25em] font-light hover:opacity-70 transition-opacity"
+            className="text-xs tracking-[0.3em] font-light hover:opacity-70 transition-opacity"
           >
             EDUARD BRUCH
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center gap-10">
+          <div className="hidden md:flex items-center gap-12">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-xs tracking-[0.15em] text-white/60 hover:text-white transition-colors uppercase"
+                className="text-[11px] tracking-[0.2em] text-white/50 hover:text-white transition-colors uppercase"
               >
                 {link.label}
               </Link>
@@ -94,7 +94,7 @@ export default function Navbar() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.3 }}
-            className="md:hidden fixed inset-0 top-20 bg-black z-40"
+            className="md:hidden fixed inset-0 top-24 bg-black z-40"
           >
             <div className="flex flex-col items-center justify-center h-full gap-12">
               {navLinks.map((link, index) => (

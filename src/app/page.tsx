@@ -8,13 +8,13 @@ export default function Home() {
   return (
     <>
       {/* Hero Section with Gallery */}
-      <section className="relative min-h-screen flex flex-col justify-center pt-32 pb-40">
-        <div className="relative z-10 text-center px-6 mb-16">
+      <section className="relative min-h-screen flex flex-col justify-center pt-36 pb-48">
+        <div className="relative z-10 text-center px-8 md:px-12 mb-20">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.3 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-light tracking-[0.3em] mb-10"
+            className="text-3xl md:text-4xl lg:text-5xl font-light tracking-[0.3em] mb-12"
           >
             EDUARD BRUCH
           </motion.h1>
@@ -47,7 +47,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 1 }}
-          className="text-center mt-16"
+          className="text-center mt-20"
         >
           <Link
             href="/gallery"
@@ -65,7 +65,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 1.5 }}
-          className="absolute bottom-16 left-1/2 -translate-x-1/2"
+          className="absolute bottom-20 left-1/2 -translate-x-1/2"
         >
           <div className="flex flex-col items-center gap-3">
             <span className="text-white/30 text-xs tracking-[0.2em] uppercase">Scroll</span>
@@ -79,8 +79,8 @@ export default function Home() {
       </section>
 
       {/* Reel Section */}
-      <section className="py-40 md:py-56 border-t border-white/10">
-        <div className="flex flex-col items-center justify-center px-6">
+      <section className="py-48 md:py-64">
+        <div className="flex flex-col items-center justify-center px-8 md:px-12">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -88,11 +88,11 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="flex flex-col items-center"
           >
-            <h2 className="text-3xl md:text-4xl font-light tracking-[0.2em] mb-8 text-center">
+            <h2 className="text-3xl md:text-4xl font-light tracking-[0.25em] mb-8 text-center">
               SHOWREEL
             </h2>
-            <div className="w-16 h-px bg-white/20 mb-10" />
-            <p className="text-white/50 text-base md:text-lg tracking-wide mb-16 max-w-lg leading-relaxed text-center">
+            <div className="w-12 h-px bg-white/20 mb-10" />
+            <p className="text-white/40 text-sm md:text-base tracking-wide mb-16 max-w-md leading-relaxed text-center">
               Selected work from film, television, and stage productions
             </p>
             <Link href="/reel" className="btn btn-outline">
@@ -103,8 +103,8 @@ export default function Home() {
       </section>
 
       {/* Contact Section */}
-      <section className="py-40 md:py-56 border-t border-white/10">
-        <div className="flex flex-col items-center justify-center px-6">
+      <section className="py-48 md:py-64">
+        <div className="flex flex-col items-center justify-center px-8 md:px-12">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -112,11 +112,11 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="flex flex-col items-center"
           >
-            <h2 className="text-3xl md:text-4xl font-light tracking-[0.2em] mb-8 text-center">
+            <h2 className="text-3xl md:text-4xl font-light tracking-[0.25em] mb-8 text-center">
               GET IN TOUCH
             </h2>
-            <div className="w-16 h-px bg-white/20 mb-10" />
-            <p className="text-white/50 text-base md:text-lg tracking-wide mb-16 max-w-lg leading-relaxed text-center">
+            <div className="w-12 h-px bg-white/20 mb-10" />
+            <p className="text-white/40 text-sm md:text-base tracking-wide mb-16 max-w-md leading-relaxed text-center">
               Available for film, television, and commercial projects
             </p>
             <Link href="/contact" className="btn btn-primary">
