@@ -10,7 +10,6 @@ interface App {
 
 interface Category {
   title: string;
-  count: number;
   privacyUrl: string;
   apps: App[];
 }
@@ -18,7 +17,6 @@ interface Category {
 const categories: Category[] = [
   {
     title: "Spiritual & Esotherik",
-    count: 35,
     privacyUrl: "/esotherik/privacy",
     apps: [
       { name: "Tarot Reader", description: "Daily tarot card readings and interpretations" },
@@ -60,7 +58,6 @@ const categories: Category[] = [
   },
   {
     title: "Vault & Privacy",
-    count: 8,
     privacyUrl: "/vault/privacy",
     apps: [
       { name: "CalcVault", description: "Secret photo and video vault disguised as a calculator" },
@@ -75,7 +72,6 @@ const categories: Category[] = [
   },
   {
     title: "Quit Addiction",
-    count: 5,
     privacyUrl: "/apps/privacy",
     apps: [
       { name: "Quit Vaping", description: "Track your vaping cessation journey" },
@@ -87,7 +83,6 @@ const categories: Category[] = [
   },
   {
     title: "Religious Study",
-    count: 6,
     privacyUrl: "/apps/privacy",
     apps: [
       { name: "Bible Study", description: "Read and study the Holy Bible" },
@@ -100,7 +95,6 @@ const categories: Category[] = [
   },
   {
     title: "Utility & Productivity",
-    count: 7,
     privacyUrl: "/apps/privacy",
     apps: [
       { name: "PDF Creator", description: "Create, scan, edit, and manage PDF documents" },
@@ -114,7 +108,6 @@ const categories: Category[] = [
   },
   {
     title: "Health & Family",
-    count: 1,
     privacyUrl: "/apps/privacy",
     apps: [
       { name: "BabyBump", description: "Track your pregnancy journey week by week" },
@@ -126,98 +119,96 @@ const totalApps = categories.reduce((sum, c) => sum + c.apps.length, 0);
 
 export default function SoftwareDevelopmentPage() {
   return (
-    <section className="min-h-screen">
-      {/* Header */}
-      <div className="pt-44 pb-20 md:pt-52 md:pb-28">
+    <div className="min-h-screen">
+      {/* Hero / Page Header */}
+      <header className="pt-48 pb-24 md:pt-56 md:pb-32 text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="max-w-4xl mx-auto px-8 md:px-12 text-center"
         >
+          <p className="text-xs tracking-[0.3em] text-white/30 uppercase mb-6">
+            Eduard Bruch
+          </p>
           <h1 className="text-2xl md:text-4xl font-light tracking-[0.25em] mb-8">
             SOFTWARE DEVELOPMENT
           </h1>
-          <div className="w-12 h-px bg-white/20 mx-auto mb-8" />
-          <p className="text-white/40 text-sm tracking-[0.15em] leading-relaxed">
+          <div className="w-12 h-px bg-white/15 mx-auto mb-8" />
+          <p className="text-white/35 text-xs md:text-sm tracking-[0.15em]">
             {totalApps} iOS applications across {categories.length} categories
           </p>
         </motion.div>
-      </div>
+      </header>
 
-      {/* Categories */}
-      <div className="max-w-5xl mx-auto px-8 md:px-12 pb-32 space-y-28">
+      {/* App Categories */}
+      <div className="max-w-3xl mx-auto px-10 md:px-16 pb-40">
         {categories.map((category, catIndex) => (
-          <motion.div
+          <motion.section
             key={category.title}
-            initial={{ opacity: 0, y: 30 }}
+            initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.06 * catIndex }}
+            transition={{ duration: 0.5, delay: 0.05 * catIndex }}
+            className="mb-24 last:mb-0"
           >
-            {/* Category Header */}
-            <div className="flex items-baseline justify-between mb-10 border-b border-white/10 pb-6">
-              <div>
-                <h2 className="text-base md:text-lg font-light tracking-[0.2em] text-white uppercase">
-                  {category.title}
-                </h2>
-                <p className="text-xs text-white/25 tracking-[0.15em] mt-2">
-                  {category.count} {category.count !== 1 ? "Apps" : "App"}
-                </p>
-              </div>
+            {/* Category Title */}
+            <div className="flex items-baseline justify-between mb-8">
+              <h2 className="text-xs md:text-sm tracking-[0.2em] text-white/80 uppercase">
+                {category.title}
+                <span className="text-white/20 ml-4">
+                  {category.apps.length}
+                </span>
+              </h2>
               <Link
                 href={category.privacyUrl}
-                className="text-xs tracking-[0.1em] text-white/30 hover:text-white/60 transition-colors"
+                className="text-[10px] md:text-xs tracking-[0.1em] text-white/20 hover:text-white/50 transition-colors"
               >
-                Privacy Policy
+                Privacy
               </Link>
             </div>
 
-            {/* App Grid */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-8">
+            <div className="w-full h-px bg-white/5 mb-10" />
+
+            {/* Apps */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-x-20 md:gap-y-8">
               {category.apps.map((app) => (
                 <div key={app.name}>
-                  <p className="text-white/90 text-sm tracking-wide">
+                  <p className="text-sm text-white/80 tracking-wide mb-1">
                     {app.name}
                   </p>
-                  <p className="text-white/30 text-xs mt-1 leading-relaxed">
+                  <p className="text-xs text-white/25 leading-relaxed">
                     {app.description}
                   </p>
                 </div>
               ))}
             </div>
-          </motion.div>
+          </motion.section>
         ))}
 
         {/* Angel Company Solutions */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.5 }}
-          className="pt-12"
+          transition={{ duration: 0.8, delay: 0.4 }}
+          className="mt-32"
         >
           <a
             href="https://angelcompanysolutions.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="block group"
+            className="block group text-center py-24 border border-white/5 hover:border-white/15 transition-all duration-500"
           >
-            <div className="border border-white/10 py-20 md:py-28 text-center transition-all duration-500 hover:border-white/25">
-              <h2 className="text-lg md:text-xl font-light tracking-[0.25em] mb-4 text-white/70 group-hover:text-white transition-colors">
-                ANGEL COMPANY SOLUTIONS
-              </h2>
-              <p className="text-white/25 text-xs tracking-[0.15em] mb-10">
-                Creative production and digital solutions
-              </p>
-              <span className="inline-flex items-center gap-3 text-white/25 text-xs tracking-[0.2em] uppercase group-hover:text-white/60 transition-colors">
-                Visit Website
-                <svg className="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </span>
-            </div>
+            <p className="text-xs tracking-[0.3em] text-white/20 uppercase mb-4">
+              Also visit
+            </p>
+            <h2 className="text-base md:text-lg font-light tracking-[0.25em] text-white/60 group-hover:text-white transition-colors mb-3">
+              ANGEL COMPANY SOLUTIONS
+            </h2>
+            <p className="text-xs tracking-[0.15em] text-white/20">
+              Creative production and digital solutions
+            </p>
           </a>
         </motion.div>
       </div>
-    </section>
+    </div>
   );
 }
