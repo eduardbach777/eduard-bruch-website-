@@ -130,7 +130,7 @@ export default function SoftwareDevelopmentPage() {
           <h1 style={{ marginBottom: '24px' }} className="text-2xl md:text-4xl font-light tracking-[0.25em]">
             SOFTWARE DEVELOPMENT
           </h1>
-          <p style={{ marginBottom: '0', fontSize: '15px', color: 'rgba(255,255,255,0.4)', letterSpacing: '0.1em' }}>
+          <p style={{ marginBottom: '0', fontSize: '17px', color: 'rgba(255,255,255,0.55)', letterSpacing: '0.1em' }}>
             {totalApps} iOS applications across {categories.length} categories
           </p>
         </motion.div>
@@ -167,10 +167,10 @@ export default function SoftwareDevelopmentPage() {
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '32px 60px' }}>
               {category.apps.map((app) => (
                 <div key={app.name}>
-                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.9)', letterSpacing: '0.02em', marginBottom: '6px' }}>
+                  <p style={{ fontSize: '18px', color: 'rgba(255,255,255,0.95)', letterSpacing: '0.02em', marginBottom: '6px' }}>
                     {app.name}
                   </p>
-                  <p style={{ fontSize: '14px', color: 'rgba(255,255,255,0.45)', lineHeight: '1.6' }}>
+                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.6' }}>
                     {app.description}
                   </p>
                 </div>
