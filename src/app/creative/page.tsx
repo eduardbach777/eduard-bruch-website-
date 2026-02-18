@@ -121,20 +121,16 @@ export default function SoftwareDevelopmentPage() {
   return (
     <div className="min-h-screen">
       {/* Hero / Page Header */}
-      <header className="pt-48 pb-24 md:pt-56 md:pb-32 text-center">
+      <header style={{ paddingTop: '160px', paddingBottom: '80px' }} className="text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-xs tracking-[0.3em] text-white/30 uppercase mb-6">
-            Eduard Bruch
-          </p>
-          <h1 className="text-2xl md:text-4xl font-light tracking-[0.25em] mb-8">
+          <h1 style={{ marginBottom: '24px' }} className="text-2xl md:text-4xl font-light tracking-[0.25em]">
             SOFTWARE DEVELOPMENT
           </h1>
-          <div className="w-12 h-px bg-white/15 mx-auto mb-8" />
-          <p className="text-white/35 text-xs md:text-sm tracking-[0.15em]">
+          <p style={{ marginBottom: '0' }} className="text-white/35 text-xs md:text-sm tracking-[0.15em]">
             {totalApps} iOS applications across {categories.length} categories
           </p>
         </motion.div>
