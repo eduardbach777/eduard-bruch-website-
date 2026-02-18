@@ -175,8 +175,8 @@ export default function SoftwareDevelopmentPage() {
                   </p>
                   <Link
                     href={category.privacyUrl}
-                    className="hover:text-white/70 transition-colors"
-                    style={{ fontSize: '13px', color: 'rgba(255,255,255,0.35)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.15)' }}
+                    className="hover:text-white transition-colors"
+                    style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.4)' }}
                   >
                     Datenschutz / Privacy
                   </Link>
