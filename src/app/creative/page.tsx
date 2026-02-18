@@ -170,9 +170,16 @@ export default function SoftwareDevelopmentPage() {
                   <p style={{ fontSize: '18px', color: 'rgba(255,255,255,0.95)', letterSpacing: '0.02em', marginBottom: '6px' }}>
                     {app.name}
                   </p>
-                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.6' }}>
+                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.6', marginBottom: '6px' }}>
                     {app.description}
                   </p>
+                  <Link
+                    href={category.privacyUrl}
+                    className="hover:text-white/70 transition-colors"
+                    style={{ fontSize: '13px', color: 'rgba(255,255,255,0.35)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.15)' }}
+                  >
+                    Datenschutz / Privacy
+                  </Link>
                 </div>
               ))}
             </div>
