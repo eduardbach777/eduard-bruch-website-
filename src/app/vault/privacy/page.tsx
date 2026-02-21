@@ -6,19 +6,19 @@ export const metadata = {
 
 export default function VaultPrivacy() {
   return (
-    <main className="mx-auto max-w-2xl px-6 py-16 sm:py-24 text-neutral-300 leading-relaxed">
+    <main className="mx-auto max-w-2xl px-6 py-16 sm:py-24 text-white text-lg leading-relaxed">
       {/* Header */}
       <header className="mb-12 border-b border-neutral-800 pb-8">
         <h1 className="text-3xl sm:text-4xl font-bold text-white tracking-tight">
           Privacy Policy
         </h1>
-        <p className="mt-2 text-lg text-neutral-400">Vault Apps</p>
-        <p className="mt-1 text-sm text-neutral-500">
+        <p className="mt-2 text-xl text-neutral-300">Vault Apps</p>
+        <p className="mt-1 text-base text-neutral-400">
           Last updated: February 17, 2026
         </p>
       </header>
 
-      <p className="mb-10 text-[15px]">
+      <p className="mb-10">
         This privacy policy applies to the following applications published by
         Eduard Bruch: BrowserVault, CameraVault, FitnessVault, GameVault,
         MailVault, MusicVault, TranslatorVault, and CalcVault (collectively,
@@ -43,14 +43,14 @@ export default function VaultPrivacy() {
         <SubSection title="2.1 PIN Code">
           Your PIN is stored as a cryptographic hash (SHA-256) in the
           device&apos;s secure storage (iOS Keychain / Android Secure Storage).
-          Your PIN is <strong className="text-white">never stored in plaintext</strong> and
+          Your PIN is <strongnever stored in plaintext</strong> and
           cannot be recovered by us or anyone else.
         </SubSection>
 
         <SubSection title="2.2 Photos and Videos">
           Media files you store in the vault are encrypted using AES-256
           encryption and stored{" "}
-          <strong className="text-white">locally on your device only</strong>. They are
+          <stronglocally on your device only</strong>. They are
           never transmitted to any external server, never included in device
           backups (unless you explicitly enable this), and never accessible to
           us or any third party.
@@ -64,7 +64,7 @@ export default function VaultPrivacy() {
         <SubSection title="2.4 Biometric Data (Face ID / Touch ID)">
           If you enable biometric unlock, authentication is handled entirely by
           the operating system (iOS LocalAuthentication framework). The App{" "}
-          <strong className="text-white">
+          <strong
             never receives, stores, or processes your biometric data
           </strong>
           . It only receives a success/failure result from the system.
@@ -76,14 +76,14 @@ export default function VaultPrivacy() {
               When the intruder detection feature is enabled and an incorrect PIN
               is entered, the App may capture a photo using the front-facing
               camera. These photos are{" "}
-              <strong className="text-white">stored locally on your device and encrypted</strong>.
+              <strongstored locally on your device and encrypted</strong>.
               They are{" "}
-              <strong className="text-white">never transmitted to any external server</strong>{" "}
+              <strongnever transmitted to any external server</strong>{" "}
               and are only accessible within the App after successful
               authentication. You can delete intruder photos at any time from
               within the App.
             </p>
-            <p className="mt-3 text-sm text-neutral-400">
+            <p className="mt-3 text-base text-neutral-300">
               Legal basis: Art. 6(1)(f) GDPR (legitimate interest in device
               security) and Art. 6(1)(a) GDPR (your consent when enabling the
               feature).
@@ -123,7 +123,7 @@ export default function VaultPrivacy() {
       {/* 3 */}
       <Section number="3" title="On-Device Storage Only">
         <p>
-          <strong className="text-white">
+          <strong
             We do not operate any servers that store your data.
           </strong>{" "}
           All vault content (photos, videos, notes, browsing data) is stored
@@ -169,31 +169,31 @@ export default function VaultPrivacy() {
         <ul className="space-y-3">
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Access</strong> (Art. 15) — request what data we hold</span>
+            <span><strongAccess</strong> (Art. 15) — request what data we hold</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Rectification</strong> (Art. 16) — correct inaccurate data</span>
+            <span><strongRectification</strong> (Art. 16) — correct inaccurate data</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Erasure</strong> (Art. 17) — delete your data via app settings or by uninstalling</span>
+            <span><strongErasure</strong> (Art. 17) — delete your data via app settings or by uninstalling</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Restriction</strong> (Art. 18) — restrict processing</span>
+            <span><strongRestriction</strong> (Art. 18) — restrict processing</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Data Portability</strong> (Art. 20) — receive data in portable format</span>
+            <span><strongData Portability</strong> (Art. 20) — receive data in portable format</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Object</strong> (Art. 21) — object to processing</span>
+            <span><strongObject</strong> (Art. 21) — object to processing</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strong className="text-white">Withdraw Consent</strong> (Art. 7(3)) — withdraw consent at any time</span>
+            <span><strongWithdraw Consent</strong> (Art. 7(3)) — withdraw consent at any time</span>
           </li>
         </ul>
       </Section>
@@ -225,7 +225,7 @@ export default function VaultPrivacy() {
       {/* 10 */}
       <Section number="10" title="Analytics and Tracking">
         <p>
-          The Apps do <strong className="text-white">not</strong> use any analytics,
+          The Apps do <strongnot</strong> use any analytics,
           advertising, or tracking frameworks. No usage data is collected or
           transmitted.
         </p>
@@ -266,10 +266,10 @@ function Section({
 }) {
   return (
     <section className="mb-10">
-      <h2 className="mb-4 text-lg font-semibold text-white">
+      <h2 className="mb-4 text-xl font-semibold text-white">
         {number}. {title}
       </h2>
-      <div className="text-[15px] space-y-3">{children}</div>
+      <div className="space-y-3">{children}</div>
     </section>
   );
 }
@@ -283,8 +283,8 @@ function SubSection({
 }) {
   return (
     <div className="mt-5 first:mt-0">
-      <h3 className="mb-2 text-[15px] font-medium text-neutral-200">{title}</h3>
-      <div className="text-[15px]">{children}</div>
+      <h3 className="mb-2 text-lg font-medium text-white">{title}</h3>
+      <div>{children}</div>
     </div>
   );
 }
