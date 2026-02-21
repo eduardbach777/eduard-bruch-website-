@@ -43,14 +43,14 @@ export default function VaultPrivacy() {
         <SubSection title="2.1 PIN Code">
           Your PIN is stored as a cryptographic hash (SHA-256) in the
           device&apos;s secure storage (iOS Keychain / Android Secure Storage).
-          Your PIN is <strongnever stored in plaintext</strong> and
+          Your PIN is <strong>never stored in plaintext</strong> and
           cannot be recovered by us or anyone else.
         </SubSection>
 
         <SubSection title="2.2 Photos and Videos">
           Media files you store in the vault are encrypted using AES-256
           encryption and stored{" "}
-          <stronglocally on your device only</strong>. They are
+          <strong>locally on your device only</strong>. They are
           never transmitted to any external server, never included in device
           backups (unless you explicitly enable this), and never accessible to
           us or any third party.
@@ -64,7 +64,7 @@ export default function VaultPrivacy() {
         <SubSection title="2.4 Biometric Data (Face ID / Touch ID)">
           If you enable biometric unlock, authentication is handled entirely by
           the operating system (iOS LocalAuthentication framework). The App{" "}
-          <strong
+          <strong>
             never receives, stores, or processes your biometric data
           </strong>
           . It only receives a success/failure result from the system.
@@ -76,9 +76,9 @@ export default function VaultPrivacy() {
               When the intruder detection feature is enabled and an incorrect PIN
               is entered, the App may capture a photo using the front-facing
               camera. These photos are{" "}
-              <strongstored locally on your device and encrypted</strong>.
+              <strong>stored locally on your device and encrypted</strong>.
               They are{" "}
-              <strongnever transmitted to any external server</strong>{" "}
+              <strong>never transmitted to any external server</strong>{" "}
               and are only accessible within the App after successful
               authentication. You can delete intruder photos at any time from
               within the App.
@@ -123,7 +123,7 @@ export default function VaultPrivacy() {
       {/* 3 */}
       <Section number="3" title="On-Device Storage Only">
         <p>
-          <strong
+          <strong>
             We do not operate any servers that store your data.
           </strong>{" "}
           All vault content (photos, videos, notes, browsing data) is stored
@@ -169,31 +169,31 @@ export default function VaultPrivacy() {
         <ul className="space-y-3">
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongAccess</strong> (Art. 15) — request what data we hold</span>
+            <span><strong>Access</strong> (Art. 15) — request what data we hold</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongRectification</strong> (Art. 16) — correct inaccurate data</span>
+            <span><strong>Rectification</strong> (Art. 16) — correct inaccurate data</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongErasure</strong> (Art. 17) — delete your data via app settings or by uninstalling</span>
+            <span><strong>Erasure</strong> (Art. 17) — delete your data via app settings or by uninstalling</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongRestriction</strong> (Art. 18) — restrict processing</span>
+            <span><strong>Restriction</strong> (Art. 18) — restrict processing</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongData Portability</strong> (Art. 20) — receive data in portable format</span>
+            <span><strong>Data Portability</strong> (Art. 20) — receive data in portable format</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongObject</strong> (Art. 21) — object to processing</span>
+            <span><strong>Object</strong> (Art. 21) — object to processing</span>
           </li>
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span><strongWithdraw Consent</strong> (Art. 7(3)) — withdraw consent at any time</span>
+            <span><strong>Withdraw Consent</strong> (Art. 7(3)) — withdraw consent at any time</span>
           </li>
         </ul>
       </Section>
@@ -225,7 +225,7 @@ export default function VaultPrivacy() {
       {/* 10 */}
       <Section number="10" title="Analytics and Tracking">
         <p>
-          The Apps do <strongnot</strong> use any analytics,
+          The Apps do <strong>not</strong> use any analytics,
           advertising, or tracking frameworks. No usage data is collected or
           transmitted.
         </p>
