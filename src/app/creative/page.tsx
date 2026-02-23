@@ -6,6 +6,7 @@ import Link from "next/link";
 interface App {
   name: string;
   description: string;
+  privacyUrl?: string;
 }
 
 interface Category {
@@ -97,7 +98,7 @@ const categories: Category[] = [
     title: "Utility & Productivity",
     privacyUrl: "/apps/privacy",
     apps: [
-      { name: "PDF Creator", description: "Create, scan, edit, and manage PDF documents" },
+      { name: "PDF Creator", description: "Create, scan, edit, and manage PDF documents", privacyUrl: "/pdfcreator/privacy" },
       { name: "Double Calculator", description: "Dual-screen calculator for quick math" },
       { name: "Unit Convert", description: "Convert between hundreds of measurement units" },
       { name: "Voice Recorder", description: "High-quality audio recording and playback" },
@@ -174,7 +175,7 @@ export default function SoftwareDevelopmentPage() {
                     {app.description}
                   </p>
                   <Link
-                    href={category.privacyUrl}
+                    href={app.privacyUrl || category.privacyUrl}
                     className="hover:text-white transition-colors"
                     style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.4)' }}
                   >
