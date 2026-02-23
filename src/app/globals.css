@@ -11,11 +11,7 @@
   --font-serif: var(--font-cormorant);
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* Tailwind v4 Preflight handles margin/padding/box-sizing reset */
 
 html {
   scroll-behavior: smooth;
