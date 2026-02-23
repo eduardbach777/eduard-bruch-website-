@@ -52,7 +52,7 @@ export default function PrivacyPolicy() {
 
       <h3 className="mb-2 mt-4 font-medium text-white">3.3 In-App Purchases</h3>
       <p className="mb-4">
-        The App offers a one-time in-app purchase processed by Apple through the App Store.
+        The App offers auto-renewable subscriptions (weekly, monthly, and annual plans) processed by Apple through the App Store.
         We do not have access to your payment information. Purchase validation is handled by
         RevenueCat, Inc. (USA), which processes anonymized transaction data (purchase tokens,
         transaction IDs, device identifiers) to verify entitlements. RevenueCat acts as a data

@@ -111,6 +111,15 @@ const niches: AppNiche[] = [
     ],
   },
   {
+    name: "PDF Creator",
+    description:
+      "Scan documents, merge, split, compress & edit PDFs. All-in-one PDF toolkit.",
+    privacyUrl: "/pdfcreator/privacy",
+    termsUrl: "/pdfcreator/terms",
+    color: "border-indigo-500",
+    apps: ["PDF Creator"],
+  },
+  {
     name: "Utility & Productivity",
     description: "Everyday tools for scanning, recording, converting, and more.",
     privacyUrl: "/apps/privacy",
@@ -122,7 +131,6 @@ const niches: AppNiche[] = [
       "Voice Recorder",
       "QR Scanner",
       "Teleprompter",
-      "PDF Scanner",
     ],
   },
   {
