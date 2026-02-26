@@ -13,7 +13,6 @@ interface AppNiche {
   termsUrl: string;
   apps: string[];
   color: string;
-  appLinks?: Record<string, { privacyUrl: string; termsUrl: string }>;
 }
 
 const niches: AppNiche[] = [
@@ -110,9 +109,6 @@ const niches: AppNiche[] = [
       "Dhamma Study",
       "Guru Granth",
     ],
-    appLinks: {
-      "Quran Study": { privacyUrl: "/quranstudy/privacy", termsUrl: "/quranstudy/terms" },
-    },
   },
   {
     name: "PDF Creator",
@@ -191,27 +187,12 @@ export default function AppsPage() {
             {/* App List */}
             <div className="flex flex-wrap gap-2">
               {niche.apps.map((app) => (
-                <div key={app} className="flex flex-col items-start gap-1">
-                  <span className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-sm text-neutral-300">
-                    {app}
-                  </span>
-                  {niche.appLinks?.[app] && (
-                    <div className="flex gap-2 pl-1">
-                      <Link
-                        href={niche.appLinks[app].privacyUrl}
-                        className="text-xs text-white/50 hover:text-white/80 transition-colors"
-                      >
-                        Privacy
-                      </Link>
-                      <Link
-                        href={niche.appLinks[app].termsUrl}
-                        className="text-xs text-white/50 hover:text-white/80 transition-colors"
-                      >
-                        Terms
-                      </Link>
-                    </div>
-                  )}
-                </div>
+                <span
+                  key={app}
+                  className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-sm text-neutral-300"
+                >
+                  {app}
+                </span>
               ))}
             </div>
 
