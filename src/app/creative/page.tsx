@@ -7,6 +7,7 @@ interface App {
   name: string;
   description: string;
   privacyUrl?: string;
+  termsUrl?: string;
 }
 
 interface Category {
@@ -87,7 +88,7 @@ const categories: Category[] = [
     privacyUrl: "/apps/privacy",
     apps: [
       { name: "Bible Study", description: "Read and study the Holy Bible" },
-      { name: "Quran Study", description: "Read and study the Holy Quran" },
+      { name: "Quran Study", description: "Read and study the Holy Quran", privacyUrl: "/quranstudy/privacy", termsUrl: "/quranstudy/terms" },
       { name: "Gita Study", description: "Read and study the Bhagavad Gita" },
       { name: "Torah Study", description: "Read and study the Torah" },
       { name: "Dhamma Study", description: "Read and study Buddhist teachings" },
@@ -174,13 +175,24 @@ export default function SoftwareDevelopmentPage() {
                   <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.6', marginBottom: '6px' }}>
                     {app.description}
                   </p>
-                  <Link
-                    href={app.privacyUrl || category.privacyUrl}
-                    className="hover:text-white transition-colors"
-                    style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.4)' }}
-                  >
-                    Datenschutz / Privacy
-                  </Link>
+                  <div style={{ display: 'flex', gap: '16px' }}>
+                    <Link
+                      href={app.privacyUrl || category.privacyUrl}
+                      className="hover:text-white transition-colors"
+                      style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.4)' }}
+                    >
+                      Datenschutz / Privacy
+                    </Link>
+                    {app.termsUrl && (
+                      <Link
+                        href={app.termsUrl}
+                        className="hover:text-white transition-colors"
+                        style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.4)' }}
+                      >
+                        Terms
+                      </Link>
+                    )}
+                  </div>
                 </div>
               ))}
             </div>
