@@ -62,14 +62,7 @@ const categories: Category[] = [
     title: "Vault & Privacy",
     privacyUrl: "/vault/privacy",
     apps: [
-      { name: "CalcVault", description: "Secret photo and video vault disguised as a calculator" },
-      { name: "CameraVault", description: "Encrypted media vault disguised as a camera app" },
-      { name: "BrowserVault", description: "Private encrypted web browser with vault storage" },
-      { name: "FitnessVault", description: "Private vault hidden behind a fitness tracker" },
-      { name: "GameVault", description: "Encrypted media vault disguised as a game" },
-      { name: "MailVault", description: "Secure vault hidden behind a mail client" },
-      { name: "MusicVault", description: "Private vault disguised as a music player" },
-      { name: "TranslatorVault", description: "Encrypted vault hidden behind a translator" },
+      { name: "Stash: Private Photo Vault", description: "Encrypted file vault with three disguise modes — hide photos, videos, PDFs, documents, and any file behind a calculator, fitness tracker, or music player", privacyUrl: "/vault/privacy", termsUrl: "/vault/terms" },
     ],
   },
   {

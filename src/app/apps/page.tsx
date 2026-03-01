@@ -64,19 +64,12 @@ const niches: AppNiche[] = [
   {
     name: "Vault & Privacy",
     description:
-      "Secure, encrypted on-device storage apps disguised as everyday utilities.",
+      "Encrypted file vault with three disguise modes — hide photos, videos, PDFs, documents, and any file behind a calculator, fitness tracker, or music player.",
     privacyUrl: "/vault/privacy",
     termsUrl: "/vault/terms",
     color: "border-amber-500",
     apps: [
-      "CalcVault",
-      "CameraVault",
-      "BrowserVault",
-      "FitnessVault",
-      "GameVault",
-      "MailVault",
-      "MusicVault",
-      "TranslatorVault",
+      "Stash: Private Photo Vault",
     ],
   },
   {
