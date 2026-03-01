@@ -125,7 +125,7 @@ export default function SoftwareDevelopmentPage() {
           <h1 style={{ marginBottom: '24px' }} className="text-2xl md:text-4xl font-light tracking-[0.25em]">
             SOFTWARE DEVELOPMENT
           </h1>
-          <p style={{ marginBottom: '0', fontSize: '17px', color: 'rgba(255,255,255,0.75)', letterSpacing: '0.1em' }}>
+          <p style={{ marginBottom: '0', fontSize: '17px', color: 'rgba(255,255,255,0.9)', letterSpacing: '0.1em' }}>
             {totalApps} iOS applications across {categories.length} categories
           </p>
         </motion.div>
@@ -142,17 +142,17 @@ export default function SoftwareDevelopmentPage() {
             style={{ marginBottom: '100px' }}
           >
             {/* Category Title */}
-            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: '32px', borderBottom: '1px solid rgba(255,255,255,0.15)', paddingBottom: '16px' }}>
-              <h2 style={{ fontSize: '14px', letterSpacing: '0.2em', color: 'rgba(255,255,255,1)', textTransform: 'uppercase' }}>
+            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: '32px', borderBottom: '1px solid rgba(255,255,255,0.25)', paddingBottom: '16px' }}>
+              <h2 style={{ fontSize: '14px', letterSpacing: '0.2em', color: '#fff', textTransform: 'uppercase' }}>
                 {category.title}
-                <span style={{ color: 'rgba(255,255,255,0.5)', marginLeft: '12px' }}>
+                <span style={{ color: 'rgba(255,255,255,0.7)', marginLeft: '12px' }}>
                   {category.apps.length}
                 </span>
               </h2>
               <Link
                 href={category.privacyUrl}
                 className="hover:text-white transition-colors"
-                style={{ fontSize: '12px', letterSpacing: '0.1em', color: 'rgba(255,255,255,0.6)' }}
+                style={{ fontSize: '12px', letterSpacing: '0.1em', color: 'rgba(255,255,255,0.8)' }}
               >
                 Privacy
               </Link>
@@ -165,14 +165,14 @@ export default function SoftwareDevelopmentPage() {
                   <p style={{ fontSize: '18px', color: 'rgba(255,255,255,1)', letterSpacing: '0.02em', marginBottom: '6px' }}>
                     {app.name}
                   </p>
-                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.85)', lineHeight: '1.6', marginBottom: '6px' }}>
+                  <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.95)', lineHeight: '1.6', marginBottom: '6px' }}>
                     {app.description}
                   </p>
                   <div style={{ display: 'flex', gap: '16px' }}>
                     <Link
                       href={app.privacyUrl || category.privacyUrl}
                       className="hover:text-white transition-colors"
-                      style={{ fontSize: '13px', color: 'rgba(255,255,255,1)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.6)' }}
+                      style={{ fontSize: '13px', color: '#fff', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.8)' }}
                     >
                       Datenschutz / Privacy
                     </Link>
@@ -180,7 +180,7 @@ export default function SoftwareDevelopmentPage() {
                       <Link
                         href={app.termsUrl}
                         className="hover:text-white transition-colors"
-                        style={{ fontSize: '13px', color: 'rgba(255,255,255,1)', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.6)' }}
+                        style={{ fontSize: '13px', color: '#fff', textDecoration: 'underline', textUnderlineOffset: '3px', textDecorationColor: 'rgba(255,255,255,0.8)' }}
                       >
                         Terms
                       </Link>
@@ -204,12 +204,12 @@ export default function SoftwareDevelopmentPage() {
             target="_blank"
             rel="noopener noreferrer"
             className="block group"
-            style={{ textAlign: 'center', padding: '80px 0', border: '1px solid rgba(255,255,255,0.15)' }}
+            style={{ textAlign: 'center', padding: '80px 0', border: '1px solid rgba(255,255,255,0.25)' }}
           >
-            <h2 className="group-hover:text-white transition-colors" style={{ fontSize: '18px', fontWeight: '300', letterSpacing: '0.25em', color: 'rgba(255,255,255,0.85)', marginBottom: '12px' }}>
+            <h2 className="group-hover:text-white transition-colors" style={{ fontSize: '18px', fontWeight: '300', letterSpacing: '0.25em', color: 'rgba(255,255,255,0.95)', marginBottom: '12px' }}>
               ANGEL COMPANY SOLUTIONS
             </h2>
-            <p style={{ fontSize: '13px', letterSpacing: '0.15em', color: 'rgba(255,255,255,0.5)' }}>
+            <p style={{ fontSize: '13px', letterSpacing: '0.15em', color: 'rgba(255,255,255,0.7)' }}>
               Creative production and digital solutions
             </p>
           </a>
