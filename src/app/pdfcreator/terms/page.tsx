@@ -12,7 +12,7 @@ export default function PdfCreatorTerms() {
       </h1>
       <p className="mb-2 text-lg text-neutral-300">PDF Creator</p>
       <p className="mb-10 text-sm text-neutral-500">
-        Last updated: February 23, 2026
+        Last updated: March 17, 2026
       </p>
 
       <p className="mb-6">
@@ -57,21 +57,43 @@ export default function PdfCreatorTerms() {
         2. App Description and Intended Use
       </h2>
       <p className="mb-4">
-        PDF Creator is a document scanner and PDF toolkit that allows you to
-        scan documents using your device&apos;s camera, and merge, split,
-        compress, and edit PDF files.
+        PDF Creator is a document scanner and PDF toolkit offering 29
+        professional tools, including but not limited to:
       </p>
-      <ul className="mb-6 list-disc pl-6 space-y-2">
-        <li>The App uses your device camera solely for document scanning.</li>
+      <ul className="mb-4 list-disc pl-6 space-y-2">
         <li>
-          All document processing occurs locally on your device. No documents
-          are uploaded to external servers.
+          <strong>Scan & Capture:</strong> Document scanning, ID scanning,
+          passport photo creation, QR code scanning, and long screenshot capture
         </li>
         <li>
-          You retain full ownership of all documents you create, scan, or
-          process using the App.
+          <strong>Convert:</strong> PDF to image, image to PDF, and web page to
+          PDF conversion
+        </li>
+        <li>
+          <strong>Edit Pages:</strong> Merge, split, reorder, rotate, delete,
+          insert, and duplicate PDF pages
+        </li>
+        <li>
+          <strong>Annotate & Sign:</strong> Drawing, highlighting, text
+          annotation, digital signatures, watermarks, smart erase, and file
+          renaming
+        </li>
+        <li>
+          <strong>Protect & Optimize:</strong> Password lock and unlock, file
+          compression, page numbering, metadata editing, and timestamps
+        </li>
+        <li>
+          <strong>Extract & Generate:</strong> OCR text extraction, QR code
+          generation, photo enhancement, and printing
         </li>
       </ul>
+      <p className="mb-6">
+        The App uses your device camera for document and QR code scanning, and
+        your photo library for image import. All document processing occurs
+        locally on your device unless you explicitly enable cloud sync features
+        (iCloud or Google Drive). You retain full ownership of all documents you
+        create, scan, or process using the App.
+      </p>
 
       {/* 3. Subscriptions and Payments */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -79,7 +101,7 @@ export default function PdfCreatorTerms() {
       </h2>
       <p className="mb-4">
         The App offers premium features through auto-renewable subscriptions
-        with three tiers: weekly, monthly, and annual.
+        with two tiers: weekly and annual.
       </p>
       <ul className="mb-6 list-disc pl-6 space-y-2">
         <li>
@@ -147,48 +169,60 @@ export default function PdfCreatorTerms() {
         provided, in accordance with Art. 16(m) of Directive 2011/83/EU.
       </p>
 
-      {/* 6. Camera Permission and Usage */}
+      {/* 6. Camera and Photo Library Permissions */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        6. Camera Permission and Usage
+        6. Camera and Photo Library Permissions
       </h2>
       <ul className="mb-6 list-disc pl-6 space-y-2">
         <li>
-          The App requests camera access solely for the purpose of scanning
-          documents.
+          The App requests camera access for the purpose of scanning documents,
+          ID cards, passports, and QR codes.
         </li>
         <li>
-          All camera data is processed locally on your device and is never
-          uploaded or transmitted to external servers.
+          The App may request photo library access for importing images to
+          convert to PDF or for photo enhancement.
+        </li>
+        <li>
+          All camera and photo data is processed locally on your device and is
+          never uploaded or transmitted to external servers (unless you
+          explicitly enable cloud sync).
         </li>
         <li>The App does not record video or audio.</li>
         <li>
-          You can revoke camera access at any time through{" "}
-          <strong>iOS Settings → Privacy & Security → Camera</strong>.
+          You can revoke camera or photo library access at any time through{" "}
+          <strong>iOS Settings → Privacy & Security</strong>.
         </li>
       </ul>
 
-      {/* 7. Local Data Storage */}
+      {/* 7. Data Storage and Cloud Sync */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        7. Local Data Storage
+        7. Data Storage and Cloud Sync
       </h2>
-      <ul className="mb-6 list-disc pl-6 space-y-2">
+      <p className="mb-4">
+        By default, all documents you scan, create, or process are stored
+        exclusively on your device. Deleting the App will remove all locally
+        stored documents.
+      </p>
+      <p className="mb-4">
+        The App offers two optional cloud sync features:
+      </p>
+      <ul className="mb-4 list-disc pl-6 space-y-2">
         <li>
-          All documents you scan, create, or process are stored exclusively on
-          your device.
+          <strong>iCloud Sync:</strong> When enabled, your documents are uploaded
+          to your personal Apple iCloud account. This is governed by Apple&apos;s
+          iCloud Terms of Service.
         </li>
         <li>
-          No document data is transmitted to any cloud service or external
-          server.
-        </li>
-        <li>
-          Deleting the App will remove all locally stored documents from your
-          device.
-        </li>
-        <li>
-          You are responsible for maintaining your own backups of important
-          documents.
+          <strong>Google Drive Sync:</strong> When enabled, you authenticate via
+          Google Sign-In and your documents are uploaded to your personal Google
+          Drive account. This is governed by Google&apos;s Terms of Service.
         </li>
       </ul>
+      <p className="mb-6">
+        Both cloud sync features are disabled by default and only activated at
+        your explicit request. You are responsible for maintaining your own
+        backups of important documents.
+      </p>
 
       {/* 8. No Analytics or Tracking */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -322,6 +356,31 @@ export default function PdfCreatorTerms() {
           distribution (
           <a
             href="https://www.apple.com/legal/privacy/"
+            className="text-indigo-400 underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Privacy Policy
+          </a>
+          )
+        </li>
+        <li>
+          <strong>Apple iCloud</strong> — for optional cloud document sync (
+          <a
+            href="https://www.apple.com/legal/privacy/"
+            className="text-indigo-400 underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Privacy Policy
+          </a>
+          )
+        </li>
+        <li>
+          <strong>Google Drive & Google Sign-In</strong> — for optional cloud
+          document sync and authentication (
+          <a
+            href="https://policies.google.com/privacy"
             className="text-indigo-400 underline"
             target="_blank"
             rel="noopener noreferrer"
