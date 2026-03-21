@@ -19,7 +19,7 @@ export default function AppsPrivacy() {
         This privacy policy applies to the following applications published by
         Eduard Bruch: Quit Vaping, Quit Nicotine Pouches, Quit Smoking Tracker,
         Quit Weed, Quit Porn, Bible Study, Quran Study, Gita Study, Torah
-        Study, Dhamma Study, Guru Granth, Double Calculator, Unit Convert, Voice
+        Study, Dhamma Study, Guru Granth, Unit Convert, Voice
         Recorder, QR Scanner, Teleprompter, PDF Scanner, and BabyBump
         (collectively, &quot;the Apps&quot;).
       </p>
@@ -163,7 +163,7 @@ export default function AppsPrivacy() {
           Section D — Utility &amp; Productivity Apps
         </h2>
         <p className="mb-2 text-sm text-neutral-400">
-          Double Calculator, Unit Convert, Voice Recorder, QR Scanner,
+          Unit Convert, Voice Recorder, QR Scanner,
           Teleprompter, PDF Scanner
         </p>
 
@@ -188,8 +188,8 @@ export default function AppsPrivacy() {
             only.
           </li>
           <li>
-            <strong>Double Calculator / Unit Convert:</strong> Minimal data
-            collection. App preferences stored via on-device UserDefaults.
+            <strong>Unit Convert:</strong> Minimal data collection. App
+            preferences stored via on-device UserDefaults.
           </li>
         </ul>
       </div>

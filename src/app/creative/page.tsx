@@ -93,7 +93,7 @@ const categories: Category[] = [
     privacyUrl: "/apps/privacy",
     apps: [
       { name: "PDF Creator", description: "Create, scan, edit, and manage PDF documents", privacyUrl: "/pdfcreator/privacy" },
-      { name: "Double Calculator", description: "Dual-screen calculator for quick math" },
+      { name: "Double Calculator", description: "Dual-screen calculator for quick math", privacyUrl: "/double-calculator/privacy", termsUrl: "/double-calculator/terms" },
       { name: "Unit Convert", description: "Convert between hundreds of measurement units" },
       { name: "Voice Recorder", description: "High-quality audio recording and playback" },
       { name: "QR Scanner", description: "Scan QR codes and barcodes instantly" },

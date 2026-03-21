@@ -113,13 +113,21 @@ const niches: AppNiche[] = [
     apps: ["PDF Creator"],
   },
   {
+    name: "Double Calculator",
+    description:
+      "Dual-screen calculator with VAT & tax rates for 40+ countries, scientific mode, and pinned results.",
+    privacyUrl: "/double-calculator/privacy",
+    termsUrl: "/double-calculator/terms",
+    color: "border-orange-500",
+    apps: ["Double Calculator"],
+  },
+  {
     name: "Utility & Productivity",
     description: "Everyday tools for scanning, recording, converting, and more.",
     privacyUrl: "/apps/privacy",
     termsUrl: "/apps/terms",
     color: "border-neutral-400",
     apps: [
-      "Double Calculator",
       "Unit Convert",
       "Voice Recorder",
       "QR Scanner",

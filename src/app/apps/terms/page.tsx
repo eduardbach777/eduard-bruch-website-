@@ -20,7 +20,7 @@ export default function AppsTerms() {
         following applications published by Eduard Bruch: Quit Vaping, Quit
         Nicotine Pouches, Quit Smoking Tracker, Quit Weed, Quit Porn, Bible
         Study, Quran Study, Gita Study, Torah Study, Dhamma Study, Guru Granth,
-        Double Calculator, Unit Convert, Voice Recorder, QR Scanner,
+        Unit Convert, Voice Recorder, QR Scanner,
         Teleprompter, PDF Scanner, and BabyBump (collectively, &quot;the
         Apps&quot;). By downloading, installing, or using any of the Apps, you
         agree to these Terms.
