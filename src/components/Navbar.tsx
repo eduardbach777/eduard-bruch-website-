@@ -3,18 +3,20 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
+import { useLanguage } from "@/context/LanguageContext";
+import { t } from "@/lib/translations";
 
 const navLinks = [
-  { href: "/reel", label: "Reel" },
-  { href: "/gallery", label: "Gallery" },
-  { href: "/about", label: "About" },
-  { href: "/creative", label: "Software" },
-  { href: "/contact", label: "Contact" },
+  { href: "/reel", key: "reel" as const },
+  { href: "/about", key: "about" as const },
+  { href: "/creative", key: "software" as const },
+  { href: "/contact", key: "contact" as const },
 ];
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const { lang, toggleLang } = useLanguage();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -56,9 +58,16 @@ export default function Navbar() {
                 href={link.href}
                 className="text-[11px] tracking-[0.2em] text-white/50 hover:text-white transition-colors uppercase"
               >
-                {link.label}
+                {t.nav[link.key][lang]}
               </Link>
             ))}
+            <button
+              onClick={toggleLang}
+              className="text-sm ml-2 hover:opacity-70 transition-opacity"
+              aria-label={lang === "en" ? "Switch to German" : "Switch to English"}
+            >
+              {lang === "en" ? "🇩🇪" : "🇺🇸"}
+            </button>
           </div>
 
           {/* Mobile Menu Button */}
@@ -109,10 +118,23 @@ export default function Navbar() {
                     onClick={() => setIsOpen(false)}
                     className="text-2xl tracking-[0.2em] text-white/70 hover:text-white transition-colors uppercase"
                   >
-                    {link.label}
+                    {t.nav[link.key][lang]}
                   </Link>
                 </motion.div>
               ))}
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.4, delay: navLinks.length * 0.1 }}
+              >
+                <button
+                  onClick={toggleLang}
+                  className="text-2xl hover:opacity-70 transition-opacity"
+                  aria-label={lang === "en" ? "Switch to German" : "Switch to English"}
+                >
+                  {lang === "en" ? "🇩🇪" : "🇺🇸"}
+                </button>
+              </motion.div>
             </div>
           </motion.div>
         )}

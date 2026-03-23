@@ -2,9 +2,12 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import HorizontalGallery from "@/components/HorizontalGallery";
+import { useLanguage } from "@/context/LanguageContext";
+import { t } from "@/lib/translations";
 
 export default function Home() {
+  const { lang } = useLanguage();
+
   return (
     <>
       {/* Hero Section with Gallery */}
@@ -26,39 +29,14 @@ export default function Home() {
             className="flex flex-col sm:flex-row items-center justify-center gap-6"
           >
             <Link href="/reel" className="btn btn-primary">
-              Reel
+              {t.home.reel[lang]}
             </Link>
             <Link href="/contact" className="btn btn-outline">
-              Contact
+              {t.home.contact[lang]}
             </Link>
           </motion.div>
         </div>
 
-        {/* Gallery in Hero */}
-        <motion.div
-          initial={{ opacity: 0, scale: 0.95 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1.2, ease: [0.25, 0.1, 0.25, 1], delay: 0.4 }}
-        >
-          <HorizontalGallery />
-        </motion.div>
-
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.8, delay: 1 }}
-          className="text-center mt-20"
-        >
-          <Link
-            href="/gallery"
-            className="text-white/50 text-sm tracking-[0.15em] uppercase hover:text-white transition-colors inline-flex items-center gap-3"
-          >
-            View All
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-            </svg>
-          </Link>
-        </motion.div>
 
         {/* Scroll Indicator */}
         <motion.div
@@ -68,7 +46,7 @@ export default function Home() {
           className="absolute bottom-20 left-1/2 -translate-x-1/2"
         >
           <div className="flex flex-col items-center gap-3">
-            <span className="text-white/30 text-xs tracking-[0.2em] uppercase">Scroll</span>
+            <span className="text-white/30 text-xs tracking-[0.2em] uppercase">{t.home.scroll[lang]}</span>
             <motion.div
               animate={{ y: [0, 8, 0] }}
               transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
@@ -89,14 +67,14 @@ export default function Home() {
             className="flex flex-col items-center"
           >
             <h2 className="text-3xl md:text-4xl font-light tracking-[0.25em] mb-8 text-center">
-              SHOWREEL
+              {t.home.showreel[lang]}
             </h2>
             <div className="w-12 h-px bg-white/20 mb-10" />
             <p className="text-white/40 text-sm md:text-base tracking-wide mb-16 max-w-md leading-relaxed text-center">
-              Selected work from film, television, and stage productions
+              {t.home.showreelDesc[lang]}
             </p>
             <Link href="/reel" className="btn btn-outline">
-              Watch Reel
+              {t.home.watchReel[lang]}
             </Link>
           </motion.div>
         </div>
@@ -113,14 +91,14 @@ export default function Home() {
             className="flex flex-col items-center"
           >
             <h2 className="text-3xl md:text-4xl font-light tracking-[0.25em] mb-8 text-center">
-              GET IN TOUCH
+              {t.home.getInTouch[lang]}
             </h2>
             <div className="w-12 h-px bg-white/20 mb-10" />
             <p className="text-white/40 text-sm md:text-base tracking-wide mb-16 max-w-md leading-relaxed text-center">
-              Available for film, television, and commercial projects
+              {t.home.getInTouchDesc[lang]}
             </p>
             <Link href="/contact" className="btn btn-primary">
-              Contact
+              {t.home.contact[lang]}
             </Link>
           </motion.div>
         </div>
