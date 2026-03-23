@@ -3,6 +3,8 @@
 import { useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
+import { useLanguage } from "@/context/LanguageContext";
+import { t } from "@/lib/translations";
 
 interface LightboxProps {
   isOpen: boolean;
@@ -13,6 +15,8 @@ interface LightboxProps {
 }
 
 export default function Lightbox({ isOpen, imageSrc, onClose, onPrev, onNext }: LightboxProps) {
+  const { lang } = useLanguage();
+
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
@@ -110,9 +114,9 @@ export default function Lightbox({ isOpen, imageSrc, onClose, onPrev, onNext }: 
 
           {/* Keyboard hint */}
           <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-4 text-white/30 text-xs tracking-wider">
-            <span>ESC to close</span>
+            <span>{t.lightbox.escToClose[lang]}</span>
             <span className="w-px h-3 bg-white/20" />
-            <span>Arrow keys to navigate</span>
+            <span>{t.lightbox.arrowKeys[lang]}</span>
           </div>
         </motion.div>
       )}

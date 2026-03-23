@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import { useLanguage } from "@/context/LanguageContext";
+import { t } from "@/lib/translations";
 
 interface Video {
   youtubeId: string;
@@ -24,6 +26,7 @@ export default function ReelPage() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const { lang } = useLanguage();
 
   useEffect(() => {
     async function checkAuth() {
@@ -83,9 +86,9 @@ export default function ReelPage() {
           className="w-full max-w-sm px-6"
         >
           <div className="text-center mb-10">
-            <h1 className="text-2xl md:text-3xl font-normal tracking-[0.15em] mb-3">REEL</h1>
+            <h1 className="text-2xl md:text-3xl font-normal tracking-[0.15em] mb-3">{t.reel.heading[lang]}</h1>
             <p className="text-white/40 text-sm tracking-wider">
-              Enter password to view reel
+              {t.reel.enterPassword[lang]}
             </p>
           </div>
 
@@ -97,13 +100,13 @@ export default function ReelPage() {
                 setPassword(e.target.value);
                 setError(false);
               }}
-              placeholder="Password"
+              placeholder={t.reel.password[lang]}
               autoFocus
               className="w-full bg-white/5 border border-white/10 px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-white/30 transition-colors tracking-wider"
             />
             {error && (
               <p className="text-red-400/80 text-xs tracking-wider text-center">
-                Incorrect password
+                {t.reel.incorrect[lang]}
               </p>
             )}
             <button
@@ -111,7 +114,7 @@ export default function ReelPage() {
               disabled={submitting || !password}
               className="w-full border border-white/20 py-3 text-xs tracking-[0.2em] uppercase text-white/70 hover:text-white hover:border-white/40 transition-all disabled:opacity-30 disabled:cursor-not-allowed"
             >
-              {submitting ? "..." : "Enter"}
+              {submitting ? "..." : t.reel.enter[lang]}
             </button>
           </form>
         </motion.div>
@@ -131,7 +134,7 @@ export default function ReelPage() {
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
-          <h1 className="text-4xl md:text-5xl font-normal tracking-[0.2em] mb-4">REEL</h1>
+          <h1 className="text-4xl md:text-5xl font-normal tracking-[0.2em] mb-4">{t.reel.heading[lang]}</h1>
           <div className="w-12 h-px bg-white/30 mx-auto" />
         </motion.div>
 
@@ -141,7 +144,7 @@ export default function ReelPage() {
             animate={{ opacity: 1 }}
             className="flex-1 flex flex-col items-center justify-center text-center"
           >
-            <p className="text-white/60 text-lg tracking-wider mb-4">No videos yet</p>
+            <p className="text-white/60 text-lg tracking-wider mb-4">{t.reel.noVideos[lang]}</p>
             <p className="text-white/40 text-sm">
               Add videos to <code className="bg-white/10 px-2 py-1 rounded">/public/videos/reel/</code>
             </p>

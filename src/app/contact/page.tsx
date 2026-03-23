@@ -2,10 +2,13 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
+import { useLanguage } from "@/context/LanguageContext";
+import { t } from "@/lib/translations";
 
 export default function ContactPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const { lang } = useLanguage();
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -28,7 +31,7 @@ export default function ContactPage() {
             transition={{ duration: 0.8 }}
             className="text-center mb-16"
           >
-            <h1 className="text-4xl md:text-5xl font-light tracking-[0.2em] mb-4">CONTACT</h1>
+            <h1 className="text-4xl md:text-5xl font-light tracking-[0.2em] mb-4">{t.contact.heading[lang]}</h1>
             <div className="w-12 h-px bg-white/30 mx-auto" />
           </motion.div>
 
@@ -53,19 +56,19 @@ export default function ContactPage() {
           >
             {isSubmitted ? (
               <div className="text-center py-16">
-                <p className="text-white/60 text-lg mb-8">Message sent. Thank you.</p>
+                <p className="text-white/60 text-lg mb-8">{t.contact.messageSent[lang]}</p>
                 <button
                   onClick={() => setIsSubmitted(false)}
                   className="text-white/40 hover:text-white transition-colors text-xs tracking-[0.15em] uppercase"
                 >
-                  Send Another
+                  {t.contact.sendAnother[lang]}
                 </button>
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-10">
                 <div>
                   <label htmlFor="name" className="block text-xs tracking-[0.15em] text-white/40 mb-3 uppercase">
-                    Name
+                    {t.contact.name[lang]}
                   </label>
                   <input
                     type="text"
@@ -77,7 +80,7 @@ export default function ContactPage() {
 
                 <div>
                   <label htmlFor="email" className="block text-xs tracking-[0.15em] text-white/40 mb-3 uppercase">
-                    Email
+                    {t.contact.email[lang]}
                   </label>
                   <input
                     type="email"
@@ -89,7 +92,7 @@ export default function ContactPage() {
 
                 <div>
                   <label htmlFor="message" className="block text-xs tracking-[0.15em] text-white/40 mb-3 uppercase">
-                    Message
+                    {t.contact.message[lang]}
                   </label>
                   <textarea
                     id="message"
@@ -105,7 +108,7 @@ export default function ContactPage() {
                     disabled={isSubmitting}
                     className="btn btn-primary disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    {isSubmitting ? "Sending..." : "Send"}
+                    {isSubmitting ? t.contact.sending[lang] : t.contact.send[lang]}
                   </button>
                 </div>
               </form>

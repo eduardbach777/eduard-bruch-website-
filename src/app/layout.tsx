@@ -4,6 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import ClientProviders from "@/components/ClientProviders";
 
 const cormorant = Cormorant_Garamond({
   variable: "--font-cormorant",
@@ -24,9 +25,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${cormorant.variable} antialiased bg-black text-white font-serif`}>
-        <Navbar />
-        <main>{children}</main>
-        <Footer />
+        <ClientProviders>
+          <Navbar />
+          <main>{children}</main>
+          <Footer />
+        </ClientProviders>
         <Analytics />
       </body>
     </html>

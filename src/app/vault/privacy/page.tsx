@@ -16,7 +16,7 @@ export default function VaultPrivacy() {
           Stash: Private Photo Vault
         </p>
         <p className="mt-1 text-base text-neutral-400">
-          Last updated: March 1, 2026
+          Last updated: March 18, 2026
         </p>
       </header>
 
@@ -90,21 +90,30 @@ export default function VaultPrivacy() {
 
         <SubSection title="3.2 PIN Code">
           <p>
-            Your PIN is stored as a <strong>SHA-256 cryptographic hash</strong>{" "}
-            in the device&apos;s local database. The original PIN is never
-            stored in plaintext. Because SHA-256 is a one-way hash function,
-            your PIN cannot be reverse-engineered, recovered, or read by us or
-            anyone else — including law enforcement.
+            Your PIN is stored as a{" "}
+            <strong>salted SHA-256 cryptographic hash</strong> in the
+            device&apos;s local database. A unique random salt is generated for
+            each PIN and stored alongside the hash. The original PIN is never
+            stored in plaintext. Because SHA-256 is a one-way hash function and
+            the salt prevents precomputed attacks, your PIN cannot be
+            reverse-engineered, recovered, or read by us or anyone else —
+            including law enforcement.
+          </p>
+          <p className="mt-3">
+            To protect against brute-force attacks, the App enforces a lockout
+            policy after multiple failed PIN attempts: 30 seconds after 5
+            failed attempts, 5 minutes after 10, and 30 minutes after 15 or
+            more.
           </p>
         </SubSection>
 
         <SubSection title="3.3 Decoy PIN">
           <p>
-            If you set up a decoy PIN, it is stored as a separate SHA-256 hash
-            under the same conditions as the main PIN. The decoy PIN opens a
-            separate vault containing only items you have explicitly marked as
-            decoy content. This feature exists to provide plausible deniability
-            under duress.
+            If you set up a decoy PIN, it is stored as a separate salted
+            SHA-256 hash with its own unique salt, under the same conditions as
+            the main PIN. The decoy PIN opens a separate vault containing only
+            items you have explicitly marked as decoy content. This feature
+            exists to provide plausible deniability under duress.
           </p>
         </SubSection>
 
@@ -140,6 +149,13 @@ export default function VaultPrivacy() {
               the device&apos;s front-facing camera. These photographs are:
             </p>
             <ul className="mt-3 space-y-2">
+              <li className="flex gap-3">
+                <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-amber-400" />
+                <span>
+                  <strong>Encrypted</strong> using the same AES-256-CBC
+                  encryption as vault files before being saved to disk
+                </span>
+              </li>
               <li className="flex gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-amber-400" />
                 <span>
@@ -191,10 +207,12 @@ export default function VaultPrivacy() {
         <SubSection title="3.8 Private Browser">
           <p>
             The built-in private browser uses a standard WebView component.
-            Browsing history is not persistently saved by the App. Cookies and
+            Browsing history (URLs and page titles) is stored locally in the
+            App&apos;s database and can be cleared at any time from within the
+            App using the &quot;Clear browsing data&quot; option. Cookies and
             local storage created by visited websites are stored by the WebView
-            engine and can be cleared manually from within the App. The App
-            itself does not log, monitor, or transmit your browsing activity.
+            engine and are also cleared when you clear browsing data. The App
+            does not transmit your browsing activity to any external server.
             Websites you visit may independently collect data according to their
             own privacy policies.
           </p>
@@ -219,7 +237,36 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.11 App Settings and Preferences">
+        <SubSection title="3.11 Recovery Key">
+          <p>
+            If you generate a recovery key, the App stores a{" "}
+            <strong>salted SHA-256 hash</strong> of the key along with a
+            PBKDF2-wrapped copy of your encryption master key (100,000
+            iterations). The recovery key plaintext is shown to you once and is
+            never stored by the App. The wrapped master key can only be
+            unwrapped with the correct recovery key. This data is stored
+            locally and never transmitted externally.
+          </p>
+        </SubSection>
+
+        <SubSection title="3.12 Cloud Backup (iCloud / Google Drive)">
+          <p>
+            Stash offers optional encrypted backup to iCloud or Google Drive.
+            When you create a backup, the App wraps your encryption master key
+            using <strong>PBKDF2-HMAC-SHA256</strong> (100,000 iterations)
+            derived from your PIN, then uploads the encrypted vault files, a
+            copy of the database, and the wrapped key to your personal cloud
+            storage account. All files remain AES-256 encrypted throughout.
+          </p>
+          <p className="mt-3">
+            We do not have access to your iCloud or Google Drive account. The
+            backup is stored in your personal cloud storage and can only be
+            decrypted with your PIN. Backups are initiated manually by you and
+            are never created automatically.
+          </p>
+        </SubSection>
+
+        <SubSection title="3.13 App Settings and Preferences">
           <p>
             Your app settings (disguise mode selection, biometrics toggle,
             intruder detection toggle, auto-lock preferences, etc.) are stored
@@ -264,7 +311,40 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="4.2 Google Fonts">
+        <SubSection title="4.2 iCloud and Google Drive (Optional Backup)">
+          <p>
+            If you choose to use the cloud backup feature, encrypted backup
+            data is uploaded to your personal iCloud (Apple) or Google Drive
+            (Google) account. Authentication with Google Drive uses the
+            standard Google Sign-In SDK. We do not receive or store your Google
+            or Apple credentials. The backup data stored in your cloud account
+            is fully encrypted and cannot be read without your PIN.
+          </p>
+          <p className="mt-3">
+            Legal basis: Art. 6(1)(a) GDPR (your explicit consent when
+            initiating a backup). See{" "}
+            <a
+              href="https://policies.google.com/privacy"
+              className="text-indigo-400 hover:text-indigo-300 underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Google&apos;s Privacy Policy
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.apple.com/legal/privacy/"
+              className="text-indigo-400 hover:text-indigo-300 underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Apple&apos;s Privacy Policy
+            </a>
+            .
+          </p>
+        </SubSection>
+
+        <SubSection title="4.3 Google Fonts">
           <p>
             The App uses Google Fonts for typography. Font files may be
             downloaded from Google&apos;s servers on first launch. This is a
@@ -338,10 +418,12 @@ export default function VaultPrivacy() {
       <Section number="7" title="Data Sharing">
         <p>
           We do not sell, rent, lease, trade, or share your personal data with
-          any third party. The only third-party service that receives any data
-          is RevenueCat for subscription verification, as described in Section
-          4.1. No vault content, personal files, notes, browsing data, or
-          biometric information is ever shared with anyone.
+          any third party. The only third-party services that receive any data
+          are RevenueCat for subscription verification (Section 4.1) and,
+          optionally, iCloud or Google Drive for encrypted backups you
+          explicitly initiate (Section 4.2). No vault content is ever shared
+          in unencrypted form. No biometric information is ever shared with
+          anyone.
         </p>
       </Section>
 
@@ -388,8 +470,37 @@ export default function VaultPrivacy() {
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
             <span>
-              <strong>PIN storage:</strong> SHA-256 one-way hash — not
-              reversible
+              <strong>PIN storage:</strong> Salted SHA-256 one-way hash with a
+              unique random salt per PIN — not reversible
+            </span>
+          </li>
+          <li className="flex gap-3">
+            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
+            <span>
+              <strong>Brute-force protection:</strong> Exponential lockout
+              after failed PIN attempts (30s at 5 attempts, 5min at 10, 30min
+              at 15+)
+            </span>
+          </li>
+          <li className="flex gap-3">
+            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
+            <span>
+              <strong>Recovery key:</strong> PBKDF2-HMAC-SHA256 with 100,000
+              iterations for master key wrapping
+            </span>
+          </li>
+          <li className="flex gap-3">
+            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
+            <span>
+              <strong>Intruder photos:</strong> Encrypted with AES-256-CBC
+              before being written to disk
+            </span>
+          </li>
+          <li className="flex gap-3">
+            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
+            <span>
+              <strong>File naming:</strong> Encrypted files use randomized UUID
+              filenames that reveal no information about the original file
             </span>
           </li>
           <li className="flex gap-3">
@@ -553,10 +664,12 @@ export default function VaultPrivacy() {
       {/* 14 */}
       <Section number="14" title="International Data Transfers">
         <p>
-          The only international data transfer occurs through RevenueCat
-          (USA) for subscription verification. This transfer is protected under
-          the EU-U.S. Data Privacy Framework. All other data remains on your
-          device and is never transferred internationally.
+          International data transfers occur through RevenueCat (USA) for
+          subscription verification and, if you opt in, through Apple (iCloud)
+          or Google (Google Drive) for encrypted backups. These transfers are
+          protected under the EU-U.S. Data Privacy Framework. All backup data
+          transferred to cloud services remains AES-256 encrypted. All other
+          data remains on your device and is never transferred internationally.
         </p>
       </Section>
 

@@ -4,6 +4,8 @@ import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Lightbox from "./Lightbox";
+import { useLanguage } from "@/context/LanguageContext";
+import { t } from "@/lib/translations";
 
 interface GalleryImage {
   src: string;
@@ -18,6 +20,7 @@ export default function HorizontalGallery() {
   const scrollRef = useRef<HTMLDivElement>(null);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(true);
+  const { lang } = useLanguage();
 
   useEffect(() => {
     async function fetchImages() {
@@ -106,7 +109,7 @@ export default function HorizontalGallery() {
                 <circle cx="12" cy="12" r="10" strokeWidth={1.5} />
               )}
             </svg>
-            {isColorMode ? "Color" : "B/W"}
+            {isColorMode ? t.gallery.color[lang] : t.gallery.bw[lang]}
           </button>
         </div>
 
@@ -170,7 +173,7 @@ export default function HorizontalGallery() {
         {/* Scroll Indicator */}
         <div className="flex justify-center gap-2 mt-8">
           <span className="text-white/30 text-xs tracking-[0.3em] uppercase">
-            Scroll or swipe
+            {t.home.scrollOrSwipe[lang]}
           </span>
           <svg className="w-4 h-4 text-white/30 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M17 8l4 4m0 0l-4 4m4-4H3" />

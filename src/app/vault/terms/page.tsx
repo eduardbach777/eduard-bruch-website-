@@ -16,7 +16,7 @@ export default function VaultTerms() {
           Stash: Private Photo Vault
         </p>
         <p className="mt-1 text-base text-neutral-400">
-          Last updated: March 1, 2026
+          Last updated: March 18, 2026
         </p>
       </header>
 
@@ -85,10 +85,11 @@ export default function VaultTerms() {
       <Section number="3" title="Data Loss and Recovery">
         <div className="border-l-4 border-red-500 pl-4">
           <p>
-            All data is stored <strong>only on your device</strong>. The App
-            does not offer cloud backup, cloud sync, or any remote storage
-            capability. If you uninstall the App, forget your PIN, perform a
-            factory reset on your device, or lose or damage your device, your
+            All vault data is stored <strong>on your device</strong> by
+            default. The App offers optional encrypted backup to iCloud or
+            Google Drive, which you must manually initiate. If you have not
+            created a backup and you uninstall the App, forget your PIN,
+            perform a factory reset, or lose or damage your device, your
             encrypted data{" "}
             <strong>
               cannot be recovered — by you, by us, or by anyone else
@@ -96,11 +97,17 @@ export default function VaultTerms() {
             .
           </p>
           <p className="mt-3">
-            You are solely responsible for maintaining any backups of your
-            original files before importing them into the vault. Eduard Bruch is
-            not liable for any data loss resulting from device failure,
-            uninstallation, operating system updates, PIN loss, hardware
-            malfunction, theft, or any other cause.
+            If you have set up a recovery key, you can use it to regain access
+            if you forget your PIN. The recovery key is shown to you once at
+            the time of creation — we do not store it and cannot retrieve it
+            for you.
+          </p>
+          <p className="mt-3">
+            You are solely responsible for maintaining backups and storing your
+            recovery key safely. Eduard Bruch is not liable for any data loss
+            resulting from device failure, uninstallation, operating system
+            updates, PIN loss, lost recovery key, hardware malfunction, theft,
+            or any other cause.
           </p>
         </div>
       </Section>
@@ -110,16 +117,24 @@ export default function VaultTerms() {
         <p>
           You are solely responsible for creating, remembering, and keeping your
           PIN confidential. We do not have access to your PIN — it is stored as
-          a one-way cryptographic hash (SHA-256) on your device. We cannot
-          reset, retrieve, or bypass your PIN under any circumstances. If you
-          forget your PIN, your encrypted data becomes permanently
-          inaccessible.
+          a one-way salted cryptographic hash (SHA-256 with unique random salt)
+          on your device. We cannot reset, retrieve, or bypass your PIN under
+          any circumstances.
         </p>
         <p className="mt-3">
-          If you share your PIN with others, grant physical access to your
-          unlocked vault, or use an easily guessable PIN, you do so at your own
-          risk. We recommend using a PIN that is at least 4 digits long and
-          not easily associated with you.
+          If you forget your PIN and have not set up a recovery key, your
+          encrypted data becomes permanently inaccessible. The App provides a
+          recovery key feature that allows you to regain access — it is your
+          responsibility to generate and safely store this key.
+        </p>
+        <p className="mt-3">
+          To protect against unauthorized access, the App enforces a lockout
+          after repeated failed PIN attempts (30 seconds after 5 failed
+          attempts, escalating to 30 minutes after 15+). If you share your PIN
+          with others, grant physical access to your unlocked vault, or use an
+          easily guessable PIN, you do so at your own risk. We recommend using
+          a PIN that is at least 6 digits long and not easily associated with
+          you.
         </p>
       </Section>
 
@@ -172,8 +187,8 @@ export default function VaultTerms() {
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
             <span>
-              Intruder photos are stored locally on your device and are your
-              responsibility to manage and delete
+              Intruder photos are encrypted and stored locally on your device
+              and are your responsibility to manage and delete
             </span>
           </li>
           <li className="flex gap-3">
@@ -224,10 +239,10 @@ export default function VaultTerms() {
       <Section number="8" title="Subscriptions and Payments">
         <SubSection title="8.1 Free Tier">
           <p>
-            The free version of the App allows you to store up to 25 items with
-            full AES-256 encryption. Certain features (intruder detection, all
-            disguise modes, decoy vault, unlimited storage) require a premium
-            subscription.
+            The free version of the App allows you to store up to 20 files and
+            3 secure notes with full AES-256 encryption. Certain features
+            (intruder detection, all disguise modes, decoy vault, cloud backup,
+            unlimited storage) require a premium subscription.
           </p>
         </SubSection>
 
