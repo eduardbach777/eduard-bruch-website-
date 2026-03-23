@@ -7,7 +7,6 @@ import { useLanguage } from "@/context/LanguageContext";
 import { t } from "@/lib/translations";
 
 const navLinks = [
-  { href: "/reel", key: "reel" as const },
   { href: "/about", key: "about" as const },
   { href: "/creative", key: "software" as const },
   { href: "/contact", key: "contact" as const },

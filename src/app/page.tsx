@@ -28,8 +28,8 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="flex flex-col sm:flex-row items-center justify-center gap-6"
           >
-            <Link href="/reel" className="btn btn-primary">
-              {t.home.reel[lang]}
+            <Link href="/creative" className="btn btn-primary">
+              {t.nav.software[lang]}
             </Link>
             <Link href="/contact" className="btn btn-outline">
               {t.home.contact[lang]}
@@ -54,30 +54,6 @@ export default function Home() {
             />
           </div>
         </motion.div>
-      </section>
-
-      {/* Reel Section */}
-      <section className="py-48 md:py-64">
-        <div className="flex flex-col items-center justify-center px-8 md:px-12">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
-            transition={{ duration: 0.8 }}
-            className="flex flex-col items-center"
-          >
-            <h2 className="text-3xl md:text-4xl font-light tracking-[0.25em] mb-8 text-center">
-              {t.home.showreel[lang]}
-            </h2>
-            <div className="w-12 h-px bg-white/20 mb-10" />
-            <p className="text-white/40 text-sm md:text-base tracking-wide mb-16 max-w-md leading-relaxed text-center">
-              {t.home.showreelDesc[lang]}
-            </p>
-            <Link href="/reel" className="btn btn-outline">
-              {t.home.watchReel[lang]}
-            </Link>
-          </motion.div>
-        </div>
       </section>
 
       {/* Contact Section */}
