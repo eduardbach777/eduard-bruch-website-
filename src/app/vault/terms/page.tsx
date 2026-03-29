@@ -530,6 +530,12 @@ export default function VaultTerms() {
           </p>
         </div>
       </Section>
+      {/* Navigation */}
+      <nav className="mt-16 pt-8 border-t border-neutral-800 flex gap-6 text-base text-neutral-400">
+        <a href="/vault/privacy" className="hover:text-white transition-colors">Privacy</a>
+        <span className="text-white">Terms</span>
+        <a href="/vault/blog" className="hover:text-white transition-colors">Blog</a>
+      </nav>
     </main>
   );
 }

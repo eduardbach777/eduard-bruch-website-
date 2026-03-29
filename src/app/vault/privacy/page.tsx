@@ -705,6 +705,12 @@ export default function VaultPrivacy() {
           </p>
         </div>
       </Section>
+      {/* Navigation */}
+      <nav className="mt-16 pt-8 border-t border-neutral-800 flex gap-6 text-base text-neutral-400">
+        <span className="text-white">Privacy</span>
+        <a href="/vault/terms" className="hover:text-white transition-colors">Terms</a>
+        <a href="/vault/blog" className="hover:text-white transition-colors">Blog</a>
+      </nav>
     </main>
   );
 }
