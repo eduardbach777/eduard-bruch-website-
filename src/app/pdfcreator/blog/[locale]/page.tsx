@@ -234,18 +234,18 @@ export default async function LocaleBlogPage({
 
   return (
     <main
-      className="min-h-screen bg-white text-neutral-900"
+      className="min-h-screen bg-neutral-950 text-white"
       dir={isRtl ? "rtl" : undefined}
     >
       {/* Hero */}
       <section className="px-6 pt-20 pb-16 sm:pt-28 sm:pb-20 max-w-6xl mx-auto">
-        <p className="text-sm font-semibold uppercase tracking-widest text-rose-500 mb-4">
+        <p className="text-sm font-semibold uppercase tracking-widest text-rose-400 mb-4">
           {l.tagline}
         </p>
-        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-neutral-900 leading-[1.05] tracking-tight max-w-4xl whitespace-pre-line">
+        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-[1.05] tracking-tight max-w-4xl whitespace-pre-line">
           {l.heading}
         </h1>
-        <p className="mt-6 text-xl sm:text-2xl text-neutral-500 font-light max-w-2xl leading-relaxed">
+        <p className="mt-6 text-xl sm:text-2xl text-neutral-300 font-light max-w-2xl leading-relaxed">
           {l.subtitle}
         </p>
 
@@ -258,7 +258,7 @@ export default async function LocaleBlogPage({
               className={`rounded-full px-5 py-2 text-sm font-medium transition-all ${
                 loc.code === locale
                   ? "bg-rose-500 text-white shadow-lg shadow-rose-500/25"
-                  : "bg-neutral-100 text-neutral-600 hover:bg-neutral-200 hover:text-neutral-900"
+                  : "bg-neutral-800 text-neutral-300 hover:bg-neutral-700 hover:text-white"
               }`}
             >
               {loc.label}
@@ -269,7 +269,7 @@ export default async function LocaleBlogPage({
 
       {/* Divider */}
       <div className="max-w-6xl mx-auto px-6">
-        <div className="h-px bg-neutral-200" />
+        <div className="h-px bg-neutral-800" />
       </div>
 
       {/* Article Grid */}
@@ -279,18 +279,18 @@ export default async function LocaleBlogPage({
             <Link
               key={article.slug}
               href={`/pdfcreator/blog/${locale}/${article.slug}`}
-              className="group rounded-2xl border border-neutral-200 bg-white p-7 transition-all hover:border-rose-300 hover:shadow-xl hover:shadow-rose-500/5 flex flex-col"
+              className="group rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-rose-500/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-rose-500/5 flex flex-col"
             >
-              <time className="text-xs font-medium uppercase tracking-wider text-neutral-400">
+              <time className="text-xs font-medium uppercase tracking-wider text-neutral-500">
                 {article.date}
               </time>
-              <h2 className="mt-3 text-xl font-bold text-neutral-900 leading-snug group-hover:text-rose-500 transition-colors">
+              <h2 className="mt-3 text-xl font-bold text-white leading-snug group-hover:text-rose-400 transition-colors">
                 {article.title}
               </h2>
-              <p className="mt-3 text-sm text-neutral-500 leading-relaxed flex-1">
+              <p className="mt-3 text-sm text-neutral-400 leading-relaxed flex-1">
                 {article.description}
               </p>
-              <span className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-rose-500 group-hover:gap-2 transition-all">
+              <span className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-rose-400 group-hover:gap-2 transition-all">
                 {l.readMore}
                 <svg
                   className="w-4 h-4"
@@ -313,11 +313,11 @@ export default async function LocaleBlogPage({
 
       {/* CTA */}
       <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto text-center">
-        <div className="rounded-3xl bg-gradient-to-br from-rose-50 to-orange-50 border border-rose-200 px-8 py-14 sm:px-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-neutral-900">
+        <div className="rounded-3xl bg-gradient-to-br from-rose-600/20 to-rose-900/20 border border-rose-500/20 px-8 py-14 sm:px-16">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">
             {l.ctaTitle}
           </h2>
-          <p className="mt-4 text-lg text-neutral-600 max-w-lg mx-auto">
+          <p className="mt-4 text-lg text-neutral-300 max-w-lg mx-auto">
             {l.ctaDesc}
           </p>
           <a
@@ -332,24 +332,18 @@ export default async function LocaleBlogPage({
       </section>
 
       {/* Footer */}
-      <footer className="px-6 py-10 max-w-6xl mx-auto border-t border-neutral-200">
+      <footer className="px-6 py-10 max-w-6xl mx-auto border-t border-neutral-800">
         <nav
-          className="flex items-center justify-center gap-6 text-sm text-neutral-400"
+          className="flex items-center justify-center gap-6 text-sm text-neutral-500"
           dir="ltr"
         >
-          <Link
-            href="/pdfcreator/privacy"
-            className="hover:text-neutral-900 transition"
-          >
+          <Link href="/pdfcreator/privacy" className="hover:text-white transition">
             Privacy
           </Link>
-          <Link
-            href="/pdfcreator/terms"
-            className="hover:text-neutral-900 transition"
-          >
+          <Link href="/pdfcreator/terms" className="hover:text-white transition">
             Terms
           </Link>
-          <span className="text-rose-500 font-medium">Blog</span>
+          <span className="text-rose-400 font-medium">Blog</span>
         </nav>
       </footer>
     </main>
