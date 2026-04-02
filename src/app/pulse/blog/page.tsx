@@ -1,18 +1,30 @@
 import Link from "next/link";
-import { getContent } from "./_data/content";
-import { getAllArticles } from "./blog/_data";
+import { getAllArticles } from "./_data";
+import type { Metadata } from "next";
 
-export const metadata = {
-  title: "Pulse - System Monitor for Mac | CPU, Memory, Network & More",
+export const metadata: Metadata = {
+  title: "Pulse Blog — Mac System Monitor Guides, CPU Temperature, Memory Pressure",
   description:
-    "Monitor your Mac's CPU, memory, network speed, battery health, temperature, and disk usage from the menu bar. The modern alternative to iStat Menus.",
+    "In-depth guides on Mac performance monitoring — CPU temperature, memory pressure, network speed, battery health, and system monitor app comparisons for Pulse: System Monitor.",
+  keywords: [
+    "mac system monitor",
+    "cpu temperature mac",
+    "memory pressure mac",
+    "best system monitor mac",
+    "network speed mac",
+    "battery health macbook",
+    "istat menus alternative",
+    "mac running slow fix",
+    "mac performance monitor",
+    "menu bar monitor mac",
+  ],
 };
 
 const LOCALES = [
   { code: "en", label: "English" },
   { code: "de", label: "Deutsch" },
-  { code: "es", label: "Español" },
   { code: "fr", label: "Français" },
+  { code: "es", label: "Español" },
   { code: "pt", label: "Português" },
   { code: "it", label: "Italiano" },
   { code: "nl", label: "Nederlands" },
@@ -26,9 +38,8 @@ const LOCALES = [
   { code: "sv", label: "Svenska" },
 ];
 
-export default function PulseLanding() {
-  const c = getContent("en");
-  const blogArticles = getAllArticles("en");
+export default function BlogIndexPage() {
+  const articles = getAllArticles("en");
 
   return (
     <main className="min-h-screen bg-neutral-950 text-white">
@@ -39,12 +50,11 @@ export default function PulseLanding() {
         </p>
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-[1.05] tracking-tight max-w-4xl">
           Mac Performance<br />
-          Guides & FAQ
+          Guides
         </h1>
         <p className="mt-6 text-xl sm:text-2xl text-neutral-300 font-light max-w-2xl leading-relaxed">
-          How to monitor CPU, memory, temperature, network speed, battery
-          health, and disk usage on your Mac. Answers to the most common
-          questions.
+          How to monitor CPU temperature, memory pressure, network speed, battery health,
+          and diagnose performance issues on your Mac.
         </p>
 
         {/* Language Switcher */}
@@ -52,7 +62,7 @@ export default function PulseLanding() {
           {LOCALES.map((loc) => (
             <Link
               key={loc.code}
-              href={`/pulse/${loc.code}`}
+              href={`/pulse/blog/${loc.code}`}
               className={`rounded-full px-5 py-2 text-sm font-medium transition-all ${
                 loc.code === "en"
                   ? "bg-indigo-500 text-white shadow-lg shadow-indigo-500/25"
@@ -70,10 +80,10 @@ export default function PulseLanding() {
         <div className="h-px bg-neutral-800" />
       </div>
 
-      {/* Blog Articles */}
+      {/* Article Grid */}
       <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {blogArticles.map((article) => (
+          {articles.map((article) => (
             <Link
               key={article.slug}
               href={`/pulse/blog/en/${article.slug}`}
@@ -90,61 +100,8 @@ export default function PulseLanding() {
               </p>
               <span className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-indigo-400 group-hover:gap-2 transition-all">
                 Read more
-                <svg
-                  className="w-4 h-4"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth={2}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M9 5l7 7-7 7"
-                  />
-                </svg>
-              </span>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* Q&A Categories */}
-      <section className="px-6 pb-16 sm:pb-20 max-w-6xl mx-auto">
-        <h2 className="text-2xl font-bold text-white mb-8">Frequently Asked Questions</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {c.sections.map((section) => (
-            <Link
-              key={section.title}
-              href="/pulse/en"
-              className="group rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-indigo-500/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-indigo-500/5 flex flex-col"
-            >
-              <span className="text-xs font-medium uppercase tracking-wider text-neutral-500">
-                {section.qas.length} questions
-              </span>
-              <h2 className="mt-3 text-xl font-bold text-white leading-snug group-hover:text-indigo-400 transition-colors">
-                {section.title}
-              </h2>
-              <p className="mt-3 text-sm text-neutral-400 leading-relaxed flex-1">
-                {section.qas
-                  .slice(0, 3)
-                  .map((qa) => qa.q)
-                  .join(" · ")}
-              </p>
-              <span className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-indigo-400 group-hover:gap-2 transition-all">
-                Read more
-                <svg
-                  className="w-4 h-4"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth={2}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M9 5l7 7-7 7"
-                  />
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
                 </svg>
               </span>
             </Link>

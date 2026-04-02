@@ -1,6 +1,7 @@
 import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index";
 import { getAllArticles as getPdfArticles } from "@/app/pdfcreator/blog/_data/index";
 import { getContent as getPulseContent } from "@/app/pulse/_data/content";
+import { getAllArticles as getPulseArticles } from "@/app/pulse/blog/_data/index";
 
 export interface ArticleCard {
   title: string;
@@ -199,18 +200,21 @@ export function getAppSections(locale: string): AppSection[] {
     }),
   );
 
-  // Pulse: Q&A sections as virtual articles
+  // Pulse: blog articles + Q&A sections
+  const pulseBlogArticles: ArticleCard[] = getPulseArticles(locale as never).map(
+    (a) => ({
+      title: a.title,
+      description: a.description || getExcerpt(a.content),
+      href: `/pulse/blog/${locale}/${a.slug}`,
+      date: a.date,
+    }),
+  );
+
   const pulseData = getPulseContent(locale);
-  const pulseArticles: ArticleCard[] = [
-    {
-      title: pulseData.meta.title,
-      description: pulseData.meta.description,
-      href: `/pulse/${locale}`,
-    },
-  ];
+  const pulseQaCards: ArticleCard[] = [];
   for (const section of pulseData.sections) {
     if (section.title === "About Pulse") continue;
-    pulseArticles.push({
+    pulseQaCards.push({
       title: section.title,
       description: section.qas
         .slice(0, 3)
@@ -219,6 +223,8 @@ export function getAppSections(locale: string): AppSection[] {
       href: `/pulse/${locale}`,
     });
   }
+
+  const pulseArticles: ArticleCard[] = [...pulseBlogArticles, ...pulseQaCards];
 
   return [
     {
