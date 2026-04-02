@@ -4,6 +4,7 @@ export const t = {
     gallery: { en: "Gallery", de: "Galerie" },
     about: { en: "About", de: "Über mich" },
     software: { en: "Software", de: "Software" },
+    blog: { en: "Pulse App", de: "Pulse App" },
     contact: { en: "Contact", de: "Kontakt" },
   },
   home: {

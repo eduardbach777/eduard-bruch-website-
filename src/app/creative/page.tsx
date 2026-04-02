@@ -92,6 +92,7 @@ const categories: Category[] = [
     title: "Utility & Productivity",
     privacyUrl: "/apps/privacy",
     apps: [
+      { name: "Pulse - System Monitor", description: "Beautiful macOS menu bar system monitor — CPU, memory, disk, network, battery, GPU, temperature, fans, and widgets", privacyUrl: "/pulse/privacy", termsUrl: "/pulse/terms" },
       { name: "PDF Creator", description: "Create, scan, edit, and manage PDF documents", privacyUrl: "/pdfcreator/privacy" },
       { name: "Double Calculator", description: "Dual-screen calculator for quick math", privacyUrl: "/double-calculator/privacy", termsUrl: "/double-calculator/terms" },
       { name: "Unit Convert", description: "Convert between hundreds of measurement units" },

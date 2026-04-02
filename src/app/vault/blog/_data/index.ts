@@ -1,3 +1,9 @@
+import { newEnArticles } from "./new-en";
+import { newDeArticles } from "./new-de";
+import { newEsArticles } from "./new-es";
+import { arArticles } from "./ar";
+import { frArticles } from "./fr";
+
 export type Locale = "en" | "de" | "es" | "ar" | "fr";
 
 export interface Article {
@@ -1557,8 +1563,8 @@ const deArticles: ArticleSet = {
 };
 
 export const articles: Record<Locale, ArticleSet> = {
-  en: enArticles,
-  de: deArticles,
+  en: { ...enArticles, ...newEnArticles },
+  de: { ...deArticles, ...newDeArticles },
   es: {
     "calculator-vault-apps-explained": {
       slug: "calculator-vault-apps-explained",
@@ -2492,9 +2498,10 @@ export const articles: Record<Locale, ArticleSet> = {
 <p>Deja de dejar rastros. <a href="https://apps.apple.com/app/id6759871587">Descarga Stash</a> desde la App Store y navega dentro de una bóveda cifrada donde ninguna evidencia escapa, ni a tu historial, ni a tu caché, ni a ningún otro lugar de tu dispositivo.</p>
 `,
     },
+    ...newEsArticles,
   },
-  ar: {},
-  fr: {},
+  ar: arArticles,
+  fr: frArticles,
 };
 
 export function getArticle(
