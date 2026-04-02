@@ -97,14 +97,14 @@ export default async function ArticlePage({
 
   return (
     <main
-      className="min-h-screen bg-white text-neutral-900"
+      className="min-h-screen bg-neutral-950 text-white"
       dir={isRtl ? "rtl" : undefined}
     >
       {/* Top Bar */}
       <div className="px-6 pt-10 sm:pt-16 max-w-4xl mx-auto">
         <Link
           href={`/pdfcreator/blog/${locale}`}
-          className="inline-flex items-center gap-2 text-sm font-medium text-neutral-400 hover:text-neutral-900 transition group"
+          className="inline-flex items-center gap-2 text-sm font-medium text-neutral-400 hover:text-white transition group"
         >
           <svg
             className={`w-4 h-4 transition group-hover:-translate-x-1 ${isRtl ? "rotate-180" : ""}`}
@@ -113,11 +113,7 @@ export default async function ArticlePage({
             stroke="currentColor"
             strokeWidth={2}
           >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              d="M15 19l-7-7 7-7"
-            />
+            <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
           </svg>
           {l.back}
         </Link>
@@ -133,7 +129,7 @@ export default async function ArticlePage({
               className={`rounded-full px-4 py-1.5 text-xs font-medium transition-all ${
                 loc.code === locale
                   ? "bg-rose-500 text-white"
-                  : "bg-neutral-100 text-neutral-500 hover:bg-neutral-200 hover:text-neutral-900"
+                  : "bg-neutral-800 text-neutral-400 hover:bg-neutral-700 hover:text-white"
               }`}
             >
               {loc.label}
@@ -144,20 +140,20 @@ export default async function ArticlePage({
 
       {/* Article Header */}
       <header className="px-6 pt-12 pb-10 sm:pt-16 sm:pb-14 max-w-4xl mx-auto">
-        <time className="text-sm font-medium uppercase tracking-wider text-rose-500">
+        <time className="text-sm font-medium uppercase tracking-wider text-rose-400">
           {article.date}
         </time>
-        <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-neutral-900 leading-[1.1] tracking-tight">
+        <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-[1.1] tracking-tight">
           {article.title}
         </h1>
-        <p className="mt-6 text-xl text-neutral-500 font-light leading-relaxed max-w-2xl">
+        <p className="mt-6 text-xl text-neutral-300 font-light leading-relaxed max-w-2xl">
           {article.description}
         </p>
       </header>
 
       {/* Divider */}
       <div className="max-w-4xl mx-auto px-6">
-        <div className="h-px bg-neutral-200" />
+        <div className="h-px bg-neutral-800" />
       </div>
 
       {/* Article Content */}
@@ -166,18 +162,18 @@ export default async function ArticlePage({
           className={[
             "max-w-3xl",
             "text-[17px] leading-[1.8]",
-            "[&_h2]:text-2xl [&_h2]:sm:text-3xl [&_h2]:font-bold [&_h2]:text-neutral-900 [&_h2]:mt-12 [&_h2]:mb-4 [&_h2]:leading-tight [&_h2]:tracking-tight",
-            "[&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-neutral-900 [&_h3]:mt-8 [&_h3]:mb-3 [&_h3]:leading-snug",
-            "[&_p]:text-neutral-700 [&_p]:mb-5",
-            "[&_ul]:space-y-2 [&_ul]:mb-6 [&_ul]:text-neutral-700 [&_ul]:list-disc [&_ul]:pl-5",
-            "[&_ol]:space-y-2 [&_ol]:mb-6 [&_ol]:text-neutral-700 [&_ol]:list-decimal [&_ol]:pl-5",
+            "[&_h2]:text-2xl [&_h2]:sm:text-3xl [&_h2]:font-bold [&_h2]:text-white [&_h2]:mt-12 [&_h2]:mb-4 [&_h2]:leading-tight [&_h2]:tracking-tight",
+            "[&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-white [&_h3]:mt-8 [&_h3]:mb-3 [&_h3]:leading-snug",
+            "[&_p]:text-neutral-200 [&_p]:mb-5",
+            "[&_ul]:space-y-2 [&_ul]:mb-6 [&_ul]:text-neutral-200 [&_ul]:list-disc [&_ul]:pl-5",
+            "[&_ol]:space-y-2 [&_ol]:mb-6 [&_ol]:text-neutral-200 [&_ol]:list-decimal [&_ol]:pl-5",
             "[&_li]:pl-1 [&_li]:leading-relaxed",
-            "[&_a]:text-rose-500 [&_a]:hover:text-rose-400 [&_a]:underline [&_a]:underline-offset-2",
-            "[&_strong]:text-neutral-900 [&_strong]:font-semibold",
+            "[&_a]:text-rose-400 [&_a]:hover:text-rose-300 [&_a]:underline [&_a]:underline-offset-2",
+            "[&_strong]:text-white [&_strong]:font-semibold",
             "[&_table]:w-full [&_table]:border-collapse [&_table]:mb-6 [&_table]:text-sm",
-            "[&_th]:border [&_th]:border-neutral-200 [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:text-neutral-900 [&_th]:bg-neutral-50 [&_th]:font-semibold",
-            "[&_td]:border [&_td]:border-neutral-200 [&_td]:px-4 [&_td]:py-3 [&_td]:text-neutral-700",
-            "[&_blockquote]:border-l-4 [&_blockquote]:border-rose-300 [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-600 [&_blockquote]:my-6",
+            "[&_th]:border [&_th]:border-neutral-700 [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:text-white [&_th]:bg-neutral-800/80 [&_th]:font-semibold",
+            "[&_td]:border [&_td]:border-neutral-700 [&_td]:px-4 [&_td]:py-3 [&_td]:text-neutral-200",
+            "[&_blockquote]:border-l-4 [&_blockquote]:border-rose-500 [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
           ].join(" ")}
           dangerouslySetInnerHTML={{ __html: article.content }}
         />
@@ -185,11 +181,11 @@ export default async function ArticlePage({
 
       {/* CTA Banner */}
       <section className="px-6 py-16 max-w-4xl mx-auto">
-        <div className="rounded-3xl bg-gradient-to-br from-rose-50 to-orange-50 border border-rose-200 px-8 py-12 sm:px-14 text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-neutral-900">
+        <div className="rounded-3xl bg-gradient-to-br from-rose-600/20 to-rose-900/20 border border-rose-500/20 px-8 py-12 sm:px-14 text-center">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">
             Try PDF Creator for Free
           </h2>
-          <p className="mt-4 text-lg text-neutral-600 max-w-md mx-auto">
+          <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
             29 PDF tools. Scan with OCR. Merge, split, compress, watermark.
             Everything on your iPhone.
           </p>
@@ -205,26 +201,20 @@ export default async function ArticlePage({
       </section>
 
       {/* Footer */}
-      <footer className="px-6 py-10 max-w-4xl mx-auto border-t border-neutral-200">
+      <footer className="px-6 py-10 max-w-4xl mx-auto border-t border-neutral-800">
         <nav
-          className="flex items-center justify-center gap-6 text-sm text-neutral-400"
+          className="flex items-center justify-center gap-6 text-sm text-neutral-500"
           dir="ltr"
         >
-          <Link
-            href="/pdfcreator/privacy"
-            className="hover:text-neutral-900 transition"
-          >
+          <Link href="/pdfcreator/privacy" className="hover:text-white transition">
             Privacy
           </Link>
-          <Link
-            href="/pdfcreator/terms"
-            className="hover:text-neutral-900 transition"
-          >
+          <Link href="/pdfcreator/terms" className="hover:text-white transition">
             Terms
           </Link>
           <Link
             href={`/pdfcreator/blog/${locale}`}
-            className="text-rose-500 font-medium hover:text-rose-400 transition"
+            className="text-rose-400 font-medium hover:text-rose-300 transition"
           >
             Blog
           </Link>

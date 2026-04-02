@@ -19,7 +19,7 @@ export async function generateMetadata({
     description: c.meta.description,
     alternates: {
       languages: Object.fromEntries(
-        LOCALES.map((l) => [l.code, `/pulse/${l.code}`])
+        LOCALES.map((l) => [l.code, `/pulse/${l.code}`]),
       ),
     },
   };
@@ -38,61 +38,81 @@ export default async function PulseLocalePage({
 
   return (
     <main
-      className="mx-auto max-w-3xl px-6 py-20 text-neutral-200"
+      className="min-h-screen bg-neutral-950 text-white"
       dir={isRtl ? "rtl" : undefined}
     >
-      {/* Language switcher */}
-      <div className="mb-12 flex flex-wrap justify-center gap-2">
-        {LOCALES.map((l) => (
-          <Link
-            key={l.code}
-            href={`/pulse/${l.code}`}
-            className={`rounded-full border px-3 py-1 text-xs transition-colors ${
-              l.code === locale
-                ? "border-indigo-400 bg-indigo-400/10 text-indigo-300"
-                : "border-white/10 text-white/40 hover:border-white/25 hover:text-white/70"
-            }`}
+      {/* Top Bar */}
+      <div className="px-6 pt-10 sm:pt-16 max-w-4xl mx-auto">
+        <Link
+          href="/pulse"
+          className="inline-flex items-center gap-2 text-sm font-medium text-neutral-400 hover:text-white transition group"
+        >
+          <svg
+            className={`w-4 h-4 transition group-hover:-translate-x-1 ${isRtl ? "rotate-180" : ""}`}
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            strokeWidth={2}
           >
-            {l.flag} {l.label}
-          </Link>
-        ))}
+            <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
+          </svg>
+          Back
+        </Link>
       </div>
 
-      {/* Hero */}
-      <section className="mb-20 text-center">
-        <h1 className="mb-4 text-4xl font-light tracking-[0.25em] text-white">
-          PULSE
-        </h1>
-        <p className="mb-2 text-lg tracking-wide text-white/70">
+      {/* Language Switcher */}
+      <div className="px-6 pt-6 max-w-4xl mx-auto">
+        <nav className="flex flex-wrap gap-2" dir="ltr">
+          {LOCALES.map((l) => (
+            <Link
+              key={l.code}
+              href={`/pulse/${l.code}`}
+              className={`rounded-full px-4 py-1.5 text-xs font-medium transition-all ${
+                l.code === locale
+                  ? "bg-indigo-500 text-white"
+                  : "bg-neutral-800 text-neutral-400 hover:bg-neutral-700 hover:text-white"
+              }`}
+            >
+              {l.label}
+            </Link>
+          ))}
+        </nav>
+      </div>
+
+      {/* Hero Header */}
+      <header className="px-6 pt-12 pb-10 sm:pt-16 sm:pb-14 max-w-4xl mx-auto">
+        <span className="text-sm font-medium uppercase tracking-wider text-indigo-400">
+          Pulse — System Monitor
+        </span>
+        <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-[1.1] tracking-tight">
           {c.hero.subtitle}
-        </p>
-        <p className="mx-auto mb-10 max-w-lg text-sm leading-relaxed text-neutral-400">
+        </h1>
+        <p className="mt-6 text-xl text-neutral-300 font-light leading-relaxed max-w-2xl">
           {c.hero.description}
         </p>
-        <a
-          href="https://apps.apple.com/app/pulse-system-monitor/id6744194761"
-          className="btn btn-primary"
-        >
-          DOWNLOAD ON THE MAC APP STORE
-        </a>
-      </section>
+      </header>
+
+      {/* Divider */}
+      <div className="max-w-4xl mx-auto px-6">
+        <div className="h-px bg-neutral-800" />
+      </div>
 
       {/* Features Grid */}
-      <section className="mb-20">
-        <h2 className="mb-8 text-center text-xl font-semibold tracking-[0.15em] text-white">
+      <section className="px-6 py-12 sm:py-16 max-w-4xl mx-auto">
+        <h2 className="mb-8 text-2xl font-bold text-white">
           {c.featuresTitle}
         </h2>
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3">
           {c.features.map((f) => (
             <div
               key={f.label}
-              className="rounded-lg border border-white/10 bg-white/[0.03] p-4"
+              className="rounded-xl border border-neutral-800 bg-neutral-900/50 p-5"
             >
               <span className="mb-2 block text-xs font-semibold tracking-widest text-indigo-400">
                 {f.icon}
               </span>
-              <p className="mb-1 text-sm font-medium text-white">{f.label}</p>
-              <p className="text-xs leading-relaxed text-neutral-500">
+              <p className="mb-1 text-base font-medium text-white">{f.label}</p>
+              <p className="text-sm leading-relaxed text-neutral-300">
                 {f.desc}
               </p>
             </div>
@@ -101,20 +121,22 @@ export default async function PulseLocalePage({
       </section>
 
       {/* Q&A Sections */}
-      <section className="mb-20">
-        <h2 className="mb-10 text-center text-xl font-semibold tracking-[0.15em] text-white">
+      <section className="px-6 py-12 sm:py-16 max-w-4xl mx-auto">
+        <h2 className="mb-10 text-2xl font-bold text-white">
           {c.faqTitle}
         </h2>
 
         {c.sections.map((section) => (
-          <div key={section.title} className="mb-12">
-            <h2 className="mb-6 text-lg font-semibold text-white">
+          <div key={section.title} className="mb-14">
+            <h2 className="mb-8 text-xl font-bold text-white">
               {section.title}
             </h2>
             {section.qas.map((qa) => (
-              <div key={qa.q} className="mb-6">
-                <h3 className="mb-1 font-medium text-white">{qa.q}</h3>
-                <p className="text-sm leading-relaxed text-neutral-400">
+              <div key={qa.q} className="mb-8">
+                <h3 className="mb-2 text-lg font-semibold text-white">
+                  {qa.q}
+                </h3>
+                <p className="text-[17px] leading-[1.8] text-neutral-200">
                   {qa.a}
                 </p>
               </div>
@@ -123,54 +145,49 @@ export default async function PulseLocalePage({
         ))}
       </section>
 
-      {/* CTA */}
-      <section className="mb-16 text-center">
-        <div className="rounded-xl border border-white/10 bg-white/[0.02] px-8 py-12">
-          <h2 className="mb-3 text-2xl font-light tracking-[0.15em] text-white">
+      {/* CTA Banner */}
+      <section className="px-6 py-16 max-w-4xl mx-auto">
+        <div className="rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-12 sm:px-14 text-center">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">
             {c.cta.headline}
           </h2>
-          <p className="mb-8 text-sm text-neutral-400">{c.cta.sub}</p>
+          <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
+            {c.cta.sub}
+          </p>
           <a
             href="https://apps.apple.com/app/pulse-system-monitor/id6744194761"
-            className="btn btn-primary"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"
           >
             {c.cta.button}
           </a>
         </div>
       </section>
 
-      {/* Next article funnel */}
-      <section className="mb-12">
-        <Link
-          href={c.next.href}
-          className="group flex items-center justify-between rounded-lg border border-white/10 p-5 transition-colors hover:border-white/25 hover:bg-white/[0.02]"
+      {/* Footer */}
+      <footer className="px-6 py-10 max-w-4xl mx-auto border-t border-neutral-800">
+        <nav
+          className="flex items-center justify-center gap-6 text-sm text-neutral-500"
+          dir="ltr"
         >
-          <div>
-            <span className="mb-1 block text-xs tracking-widest text-indigo-400">
-              {c.next.label}
-            </span>
-            <span className="text-sm font-medium text-white">
-              {c.next.title}
-            </span>
-          </div>
-          <span className="text-lg text-white/30 transition-transform group-hover:translate-x-1">
-            &rarr;
-          </span>
-        </Link>
-      </section>
-
-      {/* Footer Links */}
-      <div className="flex justify-center gap-6 text-xs text-neutral-500">
-        <Link href="/pulse/support" className="hover:text-neutral-300">
-          Support
-        </Link>
-        <Link href="/pulse/privacy" className="hover:text-neutral-300">
-          Privacy Policy
-        </Link>
-        <Link href="/pulse/terms" className="hover:text-neutral-300">
-          Terms of Service
-        </Link>
-      </div>
+          <Link href="/pulse/support" className="hover:text-white transition">
+            Support
+          </Link>
+          <Link href="/pulse/privacy" className="hover:text-white transition">
+            Privacy
+          </Link>
+          <Link href="/pulse/terms" className="hover:text-white transition">
+            Terms
+          </Link>
+          <Link
+            href="/pulse"
+            className="text-indigo-400 font-medium hover:text-indigo-300 transition"
+          >
+            Blog
+          </Link>
+        </nav>
+      </footer>
     </main>
   );
 }
