@@ -9,7 +9,9 @@ import { t } from "@/lib/translations";
 const navLinks = [
   { href: "/about", key: "about" as const },
   { href: "/creative", key: "software" as const },
-  { href: "/blog", key: "blog" as const },
+  { href: "/pdfcreator/blog", key: "pdfScanner" as const },
+  { href: "/pulse", key: "pulseApp" as const },
+  { href: "/vault/blog", key: "stashVault" as const },
   { href: "/contact", key: "contact" as const },
 ];
 
@@ -51,7 +53,7 @@ export default function Navbar() {
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center gap-12">
+          <div className="hidden md:flex items-center gap-7">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
