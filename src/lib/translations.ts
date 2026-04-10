@@ -7,6 +7,7 @@ export const t = {
     pdfScanner: { en: "PDF Scanner", de: "PDF Scanner" },
     pulseApp: { en: "Pulse App", de: "Pulse App" },
     stashVault: { en: "Stash Vault", de: "Stash Vault" },
+    blog: { en: "Blog", de: "Blog" },
     contact: { en: "Contact", de: "Kontakt" },
   },
   home: {
@@ -96,9 +97,5 @@ export const t = {
     impressum: { en: "Impressum", de: "Impressum" },
     datenschutz: { en: "Datenschutz", de: "Datenschutz" },
     support: { en: "Support", de: "Support" },
-  },
-  lightbox: {
-    escToClose: { en: "ESC to close", de: "ESC zum Schließen" },
-    arrowKeys: { en: "Arrow keys to navigate", de: "Pfeiltasten zum Navigieren" },
   },
 } as const;

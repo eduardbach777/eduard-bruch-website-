@@ -1,7 +1,8 @@
 import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index";
-import { getAllArticles as getPdfArticles } from "@/app/pdfcreator/blog/_data/index";
+import { getAllArticles as getPdfArticles, type Locale as PdfLocale } from "@/app/pdfcreator/blog/_data/index";
 import { getContent as getPulseContent } from "@/app/pulse/_data/content";
-import { getAllArticles as getPulseArticles } from "@/app/pulse/blog/_data/index";
+import { getAllArticles as getPulseArticles, type Locale as PulseLocale } from "@/app/pulse/blog/_data/index";
+import { getAllArticles as getGuideArticles } from "./articles/_data";
 
 export interface ArticleCard {
   title: string;
@@ -42,6 +43,7 @@ const VAULT_LOCALES = ["en", "de", "es", "ar", "fr"];
 interface HubLabels {
   heading: string;
   subtitle: string;
+  guidesName?: string;
   vaultName: string;
   pdfName: string;
   pulseName: string;
@@ -51,6 +53,7 @@ const labels: Record<string, HubLabels> = {
   en: {
     heading: "BLOG",
     subtitle: "Guides, tips, and how-tos across all apps.",
+    guidesName: "Guides",
     vaultName: "Stash — Secret File Vault",
     pdfName: "PDF Creator & Scanner",
     pulseName: "Pulse — System Monitor",
@@ -179,6 +182,19 @@ export function getHubLabels(locale: string): HubLabels {
 export function getAppSections(locale: string): AppSection[] {
   const l = getHubLabels(locale);
 
+  // Guides: general English-only SEO articles. Only shown on the English
+  // hub for now — other locales fall back to per-app content until these
+  // are translated.
+  const guideArticles: ArticleCard[] =
+    locale === "en"
+      ? getGuideArticles().map((a) => ({
+          title: a.title,
+          description: a.description,
+          href: `/blog/articles/${a.slug}`,
+          date: a.date,
+        }))
+      : [];
+
   // Vault: only 5 locales — fall back to English for others
   const vaultLocale = VAULT_LOCALES.includes(locale) ? locale : "en";
   const vaultArticles: ArticleCard[] = getVaultArticles(
@@ -191,7 +207,7 @@ export function getAppSections(locale: string): AppSection[] {
   }));
 
   // PDF: supports all 16 locales (falls back to English internally)
-  const pdfArticles: ArticleCard[] = getPdfArticles(locale as never).map(
+  const pdfArticles: ArticleCard[] = getPdfArticles(locale as PdfLocale).map(
     (a) => ({
       title: a.title,
       description: a.description || getExcerpt(a.content),
@@ -201,7 +217,7 @@ export function getAppSections(locale: string): AppSection[] {
   );
 
   // Pulse: blog articles + Q&A sections
-  const pulseBlogArticles: ArticleCard[] = getPulseArticles(locale as never).map(
+  const pulseBlogArticles: ArticleCard[] = getPulseArticles(locale as PulseLocale).map(
     (a) => ({
       title: a.title,
       description: a.description || getExcerpt(a.content),
@@ -226,7 +242,17 @@ export function getAppSections(locale: string): AppSection[] {
 
   const pulseArticles: ArticleCard[] = [...pulseBlogArticles, ...pulseQaCards];
 
-  return [
+  const sections: AppSection[] = [];
+
+  if (guideArticles.length > 0) {
+    sections.push({
+      name: l.guidesName ?? "Guides",
+      articles: guideArticles,
+      accent: "border-l-emerald-500",
+    });
+  }
+
+  sections.push(
     {
       name: l.vaultName,
       articles: vaultArticles,
@@ -238,5 +264,7 @@ export function getAppSections(locale: string): AppSection[] {
       articles: pulseArticles,
       accent: "border-l-indigo-500",
     },
-  ];
+  );
+
+  return sections;
 }
