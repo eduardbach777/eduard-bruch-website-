@@ -98,4 +98,8 @@ export const t = {
     datenschutz: { en: "Datenschutz", de: "Datenschutz" },
     support: { en: "Support", de: "Support" },
   },
+  lightbox: {
+    escToClose: { en: "ESC to close", de: "ESC zum Schließen" },
+    arrowKeys: { en: "Arrow keys to navigate", de: "Pfeiltasten zum Navigieren" },
+  },
 } as const;
