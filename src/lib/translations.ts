@@ -7,7 +7,7 @@ export const t = {
     pdfScanner: { en: "PDF Scanner", de: "PDF Scanner" },
     pulseApp: { en: "Pulse App", de: "Pulse App" },
     stashVault: { en: "Stash Vault", de: "Stash Vault" },
-    blog: { en: "Blog", de: "Blog" },
+    notchPal: { en: "NotchPal", de: "NotchPal" },
     contact: { en: "Contact", de: "Kontakt" },
   },
   home: {

@@ -20,7 +20,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${article.title} — Eduard Bruch`,
+    title: `${article.title} — NotchPal Blog`,
     description: article.description,
     openGraph: {
       title: article.title,
@@ -29,12 +29,12 @@ export async function generateMetadata({
       publishedTime: article.date,
     },
     alternates: {
-      canonical: `/blog/articles/${slug}`,
+      canonical: `/notchpal/blog/${slug}`,
     },
   };
 }
 
-export default async function ArticlePage({
+export default async function NotchPalArticlePage({
   params,
 }: {
   params: Promise<{ slug: string }>;
@@ -51,7 +51,7 @@ export default async function ArticlePage({
       {/* Top bar */}
       <div className="px-6 pt-36 max-w-4xl mx-auto">
         <Link
-          href="/blog"
+          href="/notchpal/blog"
           className="inline-flex items-center gap-2 text-sm font-medium text-neutral-400 hover:text-white transition group"
         >
           <svg
@@ -69,10 +69,10 @@ export default async function ArticlePage({
 
       {/* Header */}
       <header className="px-6 pt-12 pb-10 sm:pt-16 sm:pb-14 max-w-4xl mx-auto">
-        <div className="flex items-center gap-3 text-sm font-medium uppercase tracking-wider text-white/50">
+        <div className="flex items-center gap-3 text-sm font-medium uppercase tracking-wider text-purple-400">
           <time>{article.date}</time>
-          <span className="text-white/20">·</span>
-          <span>{article.readTime}</span>
+          <span className="text-neutral-700">·</span>
+          <span className="text-neutral-500">{article.readTime}</span>
         </div>
         <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-[1.1] tracking-tight">
           {article.title}
@@ -99,21 +99,39 @@ export default async function ArticlePage({
             "[&_ul]:space-y-2 [&_ul]:mb-6 [&_ul]:text-neutral-200 [&_ul]:list-disc [&_ul]:pl-5",
             "[&_ol]:space-y-2 [&_ol]:mb-6 [&_ol]:text-neutral-200 [&_ol]:list-decimal [&_ol]:pl-5",
             "[&_li]:pl-1 [&_li]:leading-relaxed",
-            "[&_a]:text-white [&_a]:underline [&_a]:underline-offset-2 [&_a]:decoration-white/30 [&_a]:hover:decoration-white",
+            "[&_a]:text-purple-400 [&_a]:hover:text-purple-300 [&_a]:underline [&_a]:underline-offset-2",
             "[&_strong]:text-white [&_strong]:font-semibold",
+            "[&_em]:text-neutral-100 [&_em]:italic",
             "[&_code]:text-[0.9em] [&_code]:bg-white/[0.08] [&_code]:text-white [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:rounded",
-            "[&_pre]:bg-white/[0.04] [&_pre]:border [&_pre]:border-white/[0.08] [&_pre]:rounded-lg [&_pre]:p-4 [&_pre]:mb-6 [&_pre]:overflow-x-auto",
-            "[&_pre_code]:bg-transparent [&_pre_code]:px-0 [&_pre_code]:py-0 [&_pre_code]:text-sm [&_pre_code]:text-neutral-200",
-            "[&_blockquote]:border-l-4 [&_blockquote]:border-white/20 [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
+            "[&_blockquote]:border-l-4 [&_blockquote]:border-purple-500 [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
           ].join(" ")}
           dangerouslySetInnerHTML={{ __html: article.content }}
         />
       </article>
 
+      {/* CTA */}
+      <section className="px-6 py-16 max-w-4xl mx-auto">
+        <div className="rounded-3xl bg-gradient-to-br from-purple-600/20 to-purple-900/20 border border-purple-500/20 px-8 py-12 sm:px-14 text-center">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">
+            NotchPal — Coming Soon
+          </h2>
+          <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
+            A Nook for widgets, a tray for files, and live activities for every
+            notification you care about. macOS 14.6+.
+          </p>
+          <Link
+            href="/notchpal/blog"
+            className="mt-8 inline-block rounded-full bg-purple-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-purple-400 shadow-lg shadow-purple-500/30"
+          >
+            Read the Blog
+          </Link>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="px-6 py-10 max-w-4xl mx-auto border-t border-neutral-800">
         <nav className="flex items-center justify-center gap-6 text-sm text-neutral-500">
-          <Link href="/blog" className="hover:text-white transition">
+          <Link href="/notchpal/blog" className="hover:text-white transition">
             All Articles
           </Link>
           <Link href="/about" className="hover:text-white transition">

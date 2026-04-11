@@ -2,7 +2,7 @@ import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index
 import { getAllArticles as getPdfArticles, type Locale as PdfLocale } from "@/app/pdfcreator/blog/_data/index";
 import { getContent as getPulseContent } from "@/app/pulse/_data/content";
 import { getAllArticles as getPulseArticles, type Locale as PulseLocale } from "@/app/pulse/blog/_data/index";
-import { getAllArticles as getGuideArticles } from "./articles/_data";
+import { getAllArticles as getNotchPalArticles } from "@/app/notchpal/blog/_data";
 
 export interface ArticleCard {
   title: string;
@@ -43,7 +43,7 @@ const VAULT_LOCALES = ["en", "de", "es", "ar", "fr"];
 interface HubLabels {
   heading: string;
   subtitle: string;
-  guidesName?: string;
+  notchPalName?: string;
   vaultName: string;
   pdfName: string;
   pulseName: string;
@@ -53,7 +53,7 @@ const labels: Record<string, HubLabels> = {
   en: {
     heading: "BLOG",
     subtitle: "Guides, tips, and how-tos across all apps.",
-    guidesName: "Guides",
+    notchPalName: "NotchPal — macOS Notch Utility",
     vaultName: "Stash — Secret File Vault",
     pdfName: "PDF Creator & Scanner",
     pulseName: "Pulse — System Monitor",
@@ -182,15 +182,13 @@ export function getHubLabels(locale: string): HubLabels {
 export function getAppSections(locale: string): AppSection[] {
   const l = getHubLabels(locale);
 
-  // Guides: general English-only SEO articles. Only shown on the English
-  // hub for now — other locales fall back to per-app content until these
-  // are translated.
-  const guideArticles: ArticleCard[] =
+  // NotchPal: English-only for now — only shown on the English hub.
+  const notchPalArticles: ArticleCard[] =
     locale === "en"
-      ? getGuideArticles().map((a) => ({
+      ? getNotchPalArticles().map((a) => ({
           title: a.title,
           description: a.description,
-          href: `/blog/articles/${a.slug}`,
+          href: `/notchpal/blog/${a.slug}`,
           date: a.date,
         }))
       : [];
@@ -244,11 +242,11 @@ export function getAppSections(locale: string): AppSection[] {
 
   const sections: AppSection[] = [];
 
-  if (guideArticles.length > 0) {
+  if (notchPalArticles.length > 0) {
     sections.push({
-      name: l.guidesName ?? "Guides",
-      articles: guideArticles,
-      accent: "border-l-emerald-500",
+      name: l.notchPalName ?? "NotchPal",
+      articles: notchPalArticles,
+      accent: "border-l-purple-500",
     });
   }
 
