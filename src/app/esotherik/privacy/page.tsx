@@ -10,17 +10,17 @@ export default function EsotherikPrivacy() {
       <h1 className="mb-4 text-4xl font-bold text-white">Privacy Policy</h1>
       <p className="mb-2 text-lg text-neutral-300">Esotherik Apps</p>
       <p className="mb-10 text-sm text-neutral-500">
-        Last updated: February 17, 2026
+        Last updated: June 3, 2026
       </p>
 
       <p className="mb-6">
         This privacy policy applies to all spiritual and entertainment
         applications published under the Esotherik brand by Eduard Bruch,
-        including: SpellBook, Witch&apos;s Herbal, Tarot Reader, Aura Reader,
-        Daily Horoscope, Dream Dictionary, Human Design, Manifestation Timer,
-        Moon Calendar, Palm Reader, Witch&apos;s Calendar, Zodiac
-        Compatibility, Affirmation Cards, Astrology Memes, Biorhythm, Birth
-        Chart, Chakra Scanner, Chinese Zodiac, Coffee Cup Reading, Face
+        including: Aurum Tarot, SpellBook, Witch&apos;s Herbal, Tarot Reader,
+        Aura Reader, Daily Horoscope, Dream Dictionary, Human Design,
+        Manifestation Timer, Moon Calendar, Palm Reader, Witch&apos;s Calendar,
+        Zodiac Compatibility, Affirmation Cards, Astrology Memes, Biorhythm,
+        Birth Chart, Chakra Scanner, Chinese Zodiac, Coffee Cup Reading, Face
         Reading, I Ching, Lucid Dreaming, Mercury Retrograde, Numerology,
         Oracle Cards, Past Life, Pendulum, Reiki Timer, Rune Reading, Sigil
         Generator, Smudging Guide, Soul Name, Sound Healing, Spirit Animal, and
@@ -54,7 +54,8 @@ export default function EsotherikPrivacy() {
       <p className="mb-4">
         We store your app preferences (theme, notification settings, feature
         selections) using on-device storage (UserDefaults). This data never
-        leaves your device.
+        leaves your device and is strictly necessary for the functioning of
+        the Apps (§ 25(2) Nr. 2 TTDSG).
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
@@ -64,10 +65,13 @@ export default function EsotherikPrivacy() {
         If you purchase a subscription, the transaction is processed by Apple
         through the App Store. We use RevenueCat, Inc. (USA) as a data
         processor to verify your subscription status. RevenueCat receives
-        anonymized transaction data (purchase tokens, transaction IDs, and an
-        anonymous app user ID). We do not have access to your payment
-        information. Legal basis: Art. 6(1)(b) GDPR (performance of a
-        contract). See{" "}
+        anonymized transaction data (purchase tokens, transaction IDs, and a
+        pseudonymous app user ID). We do not have access to your payment
+        information. RevenueCat retains this data for the duration of your
+        subscription and a reasonable period thereafter for legal obligations.
+        Legal basis: Art. 6(1)(b) GDPR (performance of a contract). Data
+        transfer to the USA is secured under the EU-U.S. Data Privacy
+        Framework. See{" "}
         <a
           href="https://www.revenuecat.com/privacy"
           className="text-indigo-400 underline"
@@ -104,15 +108,67 @@ export default function EsotherikPrivacy() {
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
-        2.5 Journal Entries (Dream Dictionary, Lucid Dreaming)
+        2.5 Journal Entries (Dream Dictionary, Lucid Dreaming, Aurum Tarot)
       </h3>
       <p className="mb-4">
-        Dream journal entries and personal notes are stored on your device only.
-        They are not transmitted externally.
+        Dream journal entries, tarot reading history, and personal notes are
+        stored on your device only. They are not transmitted externally. This
+        data is retained until you delete it via the app&apos;s &quot;Delete All
+        My Data&quot; function or by uninstalling the app.
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
-        2.6 Analytics and Tracking
+        2.6 AI-Powered Interpretations (Aurum Tarot)
+      </h3>
+      <p className="mb-4">
+        Aurum Tarot offers optional AI-powered tarot interpretations as a
+        premium feature. When you request an AI interpretation, the following
+        data is sent to our server for processing:
+      </p>
+      <ul className="mb-4 list-disc pl-6 space-y-1">
+        <li>Card names, positions, and orientation (upright/reversed)</li>
+        <li>Your question or intention (if entered)</li>
+        <li>Your selected mood (if entered)</li>
+        <li>A pseudonymous device identifier for rate limiting</li>
+      </ul>
+      <p className="mb-4">
+        This data is processed by our Cloudflare Worker (EU/US infrastructure)
+        which forwards it to <strong>DeepSeek</strong>, a third-party AI
+        service operated by DeepSeek Inc. (People&apos;s Republic of China),
+        to generate the interpretation. DeepSeek&apos;s servers are located in
+        China and are subject to Chinese data protection laws (PIPL,
+        Cybersecurity Law). <strong>There is no adequacy decision by the
+        European Commission for China</strong>, meaning the level of data
+        protection may not be equivalent to that in the EU/EEA. In particular,
+        Chinese authorities may have access to data under local law.
+      </p>
+      <p className="mb-4">
+        <strong>No personal information</strong> (name, email, account data) is
+        included in the data sent. We do not store your questions or AI
+        responses on our servers. The AI response is returned directly to your
+        device and saved locally. For DeepSeek&apos;s own data handling
+        practices, please refer to{" "}
+        <a
+          href="https://www.deepseek.com/privacy"
+          className="text-indigo-400 underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          DeepSeek&apos;s Privacy Policy
+        </a>
+        .
+      </p>
+      <p className="mb-4">
+        Before your first AI interpretation, the app will ask for your explicit
+        consent. You can use all other app features without any data leaving
+        your device. You may withdraw your consent at any time by deleting
+        your data in the app settings. Legal basis: Art. 6(1)(a) GDPR (your
+        explicit consent); data transfer to China: Art. 49(1)(a) GDPR
+        (explicit consent after being informed of the risks).
+      </p>
+
+      <h3 className="mb-2 mt-4 font-medium text-white">
+        2.7 Analytics and Tracking
       </h3>
       <p className="mb-6">
         The Apps do <strong>not</strong> use any analytics, advertising, or
@@ -138,29 +194,73 @@ export default function EsotherikPrivacy() {
       <ul className="mb-6 list-disc pl-6 space-y-2">
         <li>
           <strong>Art. 6(1)(a) GDPR — Consent:</strong> Camera access,
-          notification permissions.
+          notification permissions, AI interpretation data transfer (Aurum
+          Tarot).
         </li>
         <li>
           <strong>Art. 6(1)(b) GDPR — Contract:</strong> Subscription
           processing, core app functionality.
         </li>
+        <li>
+          <strong>§ 25(2) Nr. 2 TTDSG:</strong> Storing app preferences on
+          your device (strictly necessary for the service).
+        </li>
       </ul>
 
       {/* 5. Data Sharing */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        5. Data Sharing
+        5. Data Sharing and International Transfers
       </h2>
-      <p className="mb-6">
+      <p className="mb-4">
         We do not sell, rent, or share your personal data with third parties for
-        marketing purposes. The only third-party service receiving any data is
-        RevenueCat for subscription verification, as described above. Data
-        transfer to the USA is secured under the EU-U.S. Data Privacy
-        Framework.
+        marketing purposes. Third-party services that may receive data:
       </p>
+      <ul className="mb-6 list-disc pl-6 space-y-2">
+        <li>
+          <strong>RevenueCat, Inc.</strong> (USA) — subscription verification.
+          Data transfer to the USA is secured under the EU-U.S. Data Privacy
+          Framework (adequacy decision of July 10, 2023). See{" "}
+          <a href="https://www.revenuecat.com/privacy" className="text-indigo-400 underline" target="_blank" rel="noopener noreferrer">RevenueCat&apos;s Privacy Policy</a>.
+        </li>
+        <li>
+          <strong>Cloudflare, Inc.</strong> (USA) — request routing and rate
+          limiting for AI interpretations. Data transfer secured under the
+          EU-U.S. Data Privacy Framework.
+        </li>
+        <li>
+          <strong>DeepSeek Inc.</strong> (People&apos;s Republic of China) — AI
+          interpretation processing in Aurum Tarot only, when you explicitly
+          request an AI reading. No adequacy decision exists for China. Data
+          transfer is based on your explicit consent after being informed of
+          the risks (Art. 49(1)(a) GDPR). See section 2.6 for details.
+        </li>
+      </ul>
 
-      {/* 6. CCPA */}
+      {/* 6. Data Retention */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        6. California Residents (CCPA)
+        6. Data Retention
+      </h2>
+      <ul className="mb-6 list-disc pl-6 space-y-2">
+        <li>
+          <strong>On-device data</strong> (readings, journal, preferences):
+          Retained until you delete it via &quot;Delete All My Data&quot; in
+          Settings or by uninstalling the app.
+        </li>
+        <li>
+          <strong>Subscription data</strong> (RevenueCat): Retained for the
+          duration of your subscription and as required by applicable tax and
+          accounting laws.
+        </li>
+        <li>
+          <strong>AI interpretation requests</strong>: Not stored on our
+          servers. Cloudflare rate-limiting data (pseudonymous device ID and IP
+          address) expires automatically after 1 hour.
+        </li>
+      </ul>
+
+      {/* 7. CCPA */}
+      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
+        7. California Residents (CCPA)
       </h2>
       <p className="mb-6">
         We do not sell personal information. We do not share personal
@@ -169,9 +269,9 @@ export default function EsotherikPrivacy() {
         rights under the CCPA.
       </p>
 
-      {/* 7. Your Rights */}
+      {/* 8. Your Rights */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        7. Your Rights (GDPR)
+        8. Your Rights (GDPR)
       </h2>
       <p className="mb-3">
         Under the GDPR, you have the right to:
@@ -187,7 +287,7 @@ export default function EsotherikPrivacy() {
         <li>
           <strong>Erasure</strong> (Art. 17) — request deletion of your data.
           Since all data is on-device, you can delete it via the app&apos;s
-          settings (&quot;Delete My Data&quot;) or by uninstalling the app.
+          settings (&quot;Delete All My Data&quot;) or by uninstalling the app.
         </li>
         <li>
           <strong>Restriction</strong> (Art. 18) — restrict processing
@@ -201,13 +301,14 @@ export default function EsotherikPrivacy() {
         </li>
         <li>
           <strong>Withdraw Consent</strong> (Art. 7(3)) — withdraw consent at
-          any time without affecting the lawfulness of prior processing
+          any time without affecting the lawfulness of prior processing. You
+          can withdraw AI consent by deleting your data in the app settings.
         </li>
       </ul>
 
-      {/* 8. Complaint */}
+      {/* 9. Complaint */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        8. Right to Lodge a Complaint
+        9. Right to Lodge a Complaint
       </h2>
       <p className="mb-2">
         You may lodge a complaint with the supervisory authority:
@@ -228,29 +329,31 @@ export default function EsotherikPrivacy() {
         </a>
       </p>
 
-      {/* 9. Children */}
+      {/* 10. Children */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        9. Children&apos;s Privacy
+        10. Children&apos;s Privacy
       </h2>
       <p className="mb-6">
-        The Apps are not directed at children under the age of 13. We do not
-        knowingly collect personal information from children under 13 (COPPA) or
-        under 16 (GDPR). If you believe a child has provided us with personal
-        information, please contact us so we can take appropriate action.
+        The Apps are not directed at children under the age of 16. We do not
+        knowingly collect personal information from children under 16 (GDPR
+        Art. 8) or under 13 (COPPA). If you believe a child has provided us
+        with personal information, please contact us so we can take appropriate
+        action.
       </p>
 
-      {/* 10. Changes */}
+      {/* 11. Changes */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        10. Changes to This Policy
+        11. Changes to This Policy
       </h2>
       <p className="mb-6">
-        We may update this privacy policy from time to time. Changes will be
-        reflected on this page with an updated date.
+        We may update this privacy policy from time to time. Material changes
+        will be communicated to you through the app before they take effect.
+        The updated policy will be reflected on this page with an updated date.
       </p>
 
-      {/* 11. Contact */}
+      {/* 12. Contact */}
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        11. Contact
+        12. Contact
       </h2>
       <p>
         For questions about this privacy policy or your data, contact:{" "}
