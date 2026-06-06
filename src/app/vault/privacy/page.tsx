@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Privacy Policy — Stash: Private Photo Vault",
   description:
-    "Privacy policy for Stash: Private Photo Vault — encrypted file vault with disguise modes.",
+    "Privacy policy for Stash: Private Photo Vault — encrypted file vault with AES-256 encryption.",
 };
 
 export default function VaultPrivacy() {
@@ -16,7 +16,7 @@ export default function VaultPrivacy() {
           Stash: Private Photo Vault
         </p>
         <p className="mt-1 text-base text-neutral-400">
-          Last updated: March 18, 2026
+          Last updated: June 6, 2026
         </p>
       </header>
 
@@ -25,9 +25,8 @@ export default function VaultPrivacy() {
         Photo Vault&quot; (&quot;Stash&quot;, &quot;the App&quot;), published by
         Eduard Bruch. Stash is an encrypted file vault that allows users to
         securely store photos, videos, documents, audio files, and other files
-        on their device. The App includes disguise modes (calculator, fitness
-        tracker, music player), a decoy vault, intruder detection, a private
-        browser, and secure notes.
+        on their device. The App includes a guest vault, intruder detection, a
+        private browser, and secure notes.
       </p>
 
       <p className="mb-10">
@@ -107,13 +106,13 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.3 Decoy PIN">
+        <SubSection title="3.3 Guest PIN">
           <p>
-            If you set up a decoy PIN, it is stored as a separate salted
+            If you set up a guest PIN, it is stored as a separate salted
             SHA-256 hash with its own unique salt, under the same conditions as
-            the main PIN. The decoy PIN opens a separate vault containing only
-            items you have explicitly marked as decoy content. This feature
-            exists to provide plausible deniability under duress.
+            the main PIN. The guest PIN opens a separate vault containing only
+            items you have explicitly placed in the guest vault. This feature
+            provides an additional layer of privacy.
           </p>
         </SubSection>
 
@@ -193,18 +192,7 @@ export default function VaultPrivacy() {
           </div>
         </SubSection>
 
-        <SubSection title="3.7 Disguise Modes">
-          <p>
-            Stash includes three disguise modes: a fully functional calculator,
-            a fitness tracker, and a music player. Each disguise stores
-            non-sensitive surface-level data (calculator history, simulated step
-            counts, or music library metadata) locally on your device. This data
-            exists solely to make the disguise appear genuine and is never
-            transmitted externally.
-          </p>
-        </SubSection>
-
-        <SubSection title="3.8 Private Browser">
+        <SubSection title="3.7 Private Browser">
           <p>
             The built-in private browser uses a standard WebView component.
             Browsing history (URLs and page titles) is stored locally in the
@@ -218,7 +206,7 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.9 Recovery Email">
+        <SubSection title="3.8 Recovery Email">
           <p>
             If you choose to provide a recovery email address, it is stored
             locally in plaintext in the App&apos;s database on your device. It
@@ -227,7 +215,7 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.10 Temporary Decrypted Files">
+        <SubSection title="3.9 Temporary Decrypted Files">
           <p>
             When you open a file to view or share it, the App temporarily writes
             a decrypted copy to the device&apos;s temporary directory. These
@@ -237,7 +225,7 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.11 Recovery Key">
+        <SubSection title="3.10 Recovery Key">
           <p>
             If you generate a recovery key, the App stores a{" "}
             <strong>salted SHA-256 hash</strong> of the key along with a
@@ -249,7 +237,7 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.12 Cloud Backup (iCloud / Google Drive)">
+        <SubSection title="3.11 Cloud Backup (iCloud / Google Drive)">
           <p>
             Stash offers optional encrypted backup to iCloud or Google Drive.
             When you create a backup, the App wraps your encryption master key
@@ -266,12 +254,11 @@ export default function VaultPrivacy() {
           </p>
         </SubSection>
 
-        <SubSection title="3.13 App Settings and Preferences">
+        <SubSection title="3.12 App Settings and Preferences">
           <p>
-            Your app settings (disguise mode selection, biometrics toggle,
-            intruder detection toggle, auto-lock preferences, etc.) are stored
-            locally in the App&apos;s SQLite database. These are never
-            transmitted externally.
+            Your app settings (biometrics toggle, intruder detection toggle,
+            auto-lock preferences, etc.) are stored locally in the App&apos;s
+            SQLite database. These are never transmitted externally.
           </p>
         </SubSection>
       </Section>

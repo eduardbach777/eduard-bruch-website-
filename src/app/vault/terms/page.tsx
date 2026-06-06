@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Terms of Service — Stash: Private Photo Vault",
   description:
-    "Terms of service for Stash: Private Photo Vault — encrypted file vault with disguise modes.",
+    "Terms of service for Stash: Private Photo Vault — encrypted file vault with AES-256 encryption.",
 };
 
 export default function VaultTerms() {
@@ -16,7 +16,7 @@ export default function VaultTerms() {
           Stash: Private Photo Vault
         </p>
         <p className="mt-1 text-base text-neutral-400">
-          Last updated: March 18, 2026
+          Last updated: June 6, 2026
         </p>
       </header>
 
@@ -33,8 +33,7 @@ export default function VaultTerms() {
         <p>
           Stash is a privacy application that provides encrypted on-device
           storage for files including photos, videos, documents, audio files,
-          and other file types. The App features three disguise modes
-          (calculator, fitness tracker, music player), a decoy vault, intruder
+          and other file types. The App features a guest vault, intruder
           detection, a private browser, and secure notes. All data is stored
           exclusively on your device using AES-256 encryption.
         </p>
@@ -68,13 +67,6 @@ export default function VaultTerms() {
               <span>
                 Physical access to an unlocked device may compromise vault
                 security
-              </span>
-            </li>
-            <li className="flex gap-3">
-              <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-amber-400" />
-              <span>
-                The disguise modes are designed to deter casual observation but
-                are not guaranteed to withstand forensic examination
               </span>
             </li>
           </ul>
@@ -139,9 +131,9 @@ export default function VaultTerms() {
       </Section>
 
       {/* 5 */}
-      <Section number="5" title="Decoy Vault">
+      <Section number="5" title="Guest Vault">
         <p>
-          The decoy vault feature allows you to set up a secondary PIN that
+          The guest vault feature allows you to set up a secondary PIN that
           opens a separate vault with different content. This feature is
           provided for privacy purposes. You acknowledge that:
         </p>
@@ -149,7 +141,7 @@ export default function VaultTerms() {
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
             <span>
-              The decoy vault is intended to provide plausible deniability and
+              The guest vault is intended to provide additional privacy and
               may not withstand forensic analysis of the device
             </span>
           </li>
@@ -163,7 +155,7 @@ export default function VaultTerms() {
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
             <span>
-              Use of the decoy vault is your sole responsibility
+              Use of the guest vault is your sole responsibility
             </span>
           </li>
         </ul>
@@ -202,51 +194,17 @@ export default function VaultTerms() {
       </Section>
 
       {/* 7 */}
-      <Section number="7" title="Disguise Modes">
-        <p>
-          Stash offers three disguise modes (calculator, fitness tracker, music
-          player) that make the App appear as a different application on your
-          home screen. These disguises include functional surface-level features
-          (e.g., a working calculator, simulated step tracking, a music
-          library). You acknowledge that:
-        </p>
-        <ul className="mt-3 space-y-2">
-          <li className="flex gap-3">
-            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span>
-              Disguise modes are designed to deter casual observation, not to
-              guarantee concealment
-            </span>
-          </li>
-          <li className="flex gap-3">
-            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span>
-              The App may still be identifiable through system-level inspection
-              (e.g., storage settings, App Store purchase history)
-            </span>
-          </li>
-          <li className="flex gap-3">
-            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
-            <span>
-              The fitness tracker disguise shows simulated data and is not a
-              medical device or health tracker
-            </span>
-          </li>
-        </ul>
-      </Section>
-
-      {/* 8 */}
-      <Section number="8" title="Subscriptions and Payments">
-        <SubSection title="8.1 Free Tier">
+      <Section number="7" title="Subscriptions and Payments">
+        <SubSection title="7.1 Free Tier">
           <p>
-            The free version of the App allows you to store up to 20 files and
+            The free version of the App allows you to store up to 5 files and
             3 secure notes with full AES-256 encryption. Certain features
-            (intruder detection, all disguise modes, decoy vault, cloud backup,
-            unlimited storage) require a premium subscription.
+            (intruder detection, guest vault, cloud backup, unlimited storage)
+            require a premium subscription.
           </p>
         </SubSection>
 
-        <SubSection title="8.2 Premium Subscriptions">
+        <SubSection title="7.2 Premium Subscriptions">
           <ul className="space-y-2">
             <li className="flex gap-3">
               <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
@@ -287,7 +245,7 @@ export default function VaultTerms() {
           </ul>
         </SubSection>
 
-        <SubSection title="8.3 Lifetime Purchase">
+        <SubSection title="7.3 Lifetime Purchase">
           <p>
             A one-time lifetime purchase option grants permanent access to all
             premium features. This is a non-recurring payment. Lifetime access
@@ -296,7 +254,7 @@ export default function VaultTerms() {
           </p>
         </SubSection>
 
-        <SubSection title="8.4 Refunds">
+        <SubSection title="7.4 Refunds">
           <p>
             Refund requests are handled by Apple (App Store) or Google (Google
             Play) according to their respective refund policies. We do not
@@ -313,8 +271,8 @@ export default function VaultTerms() {
         </SubSection>
       </Section>
 
-      {/* 9 */}
-      <Section number="9" title="Acceptable Use">
+      {/* 8 */}
+      <Section number="8" title="Acceptable Use">
         <p>
           You agree to use the App only for lawful purposes. You are solely
           responsible for the content you store in the vault. We do not monitor,
@@ -352,8 +310,8 @@ export default function VaultTerms() {
         </ul>
       </Section>
 
-      {/* 10 */}
-      <Section number="10" title="Intellectual Property">
+      {/* 9 */}
+      <Section number="9" title="Intellectual Property">
         <p>
           All app designs, user interface elements, graphics, icons, software
           code, and documentation are the intellectual property of Eduard Bruch
@@ -364,8 +322,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 11 */}
-      <Section number="11" title="Disclaimer of Warranties">
+      {/* 10 */}
+      <Section number="10" title="Disclaimer of Warranties">
         <p>
           The App is provided on an &quot;as is&quot; and &quot;as
           available&quot; basis without warranties of any kind, either express
@@ -396,15 +354,15 @@ export default function VaultTerms() {
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
             <span>
-              Warranties regarding the effectiveness of disguise modes in any
+              Warranties regarding the effectiveness of security features in any
               specific scenario
             </span>
           </li>
         </ul>
       </Section>
 
-      {/* 12 */}
-      <Section number="12" title="Limitation of Liability">
+      {/* 11 */}
+      <Section number="11" title="Limitation of Liability">
         <p>
           To the maximum extent permitted by applicable law, Eduard Bruch shall
           not be liable for any indirect, incidental, special, consequential, or
@@ -429,7 +387,7 @@ export default function VaultTerms() {
           <li className="flex gap-3">
             <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-indigo-400" />
             <span>
-              Damages arising from reliance on the disguise or decoy features
+              Damages arising from reliance on the guest vault or security features
             </span>
           </li>
           <li className="flex gap-3">
@@ -445,8 +403,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 13 */}
-      <Section number="13" title="Indemnification">
+      {/* 12 */}
+      <Section number="12" title="Indemnification">
         <p>
           You agree to indemnify, defend, and hold harmless Eduard Bruch from
           and against any claims, liabilities, damages, losses, and expenses
@@ -456,8 +414,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 14 */}
-      <Section number="14" title="Termination">
+      {/* 13 */}
+      <Section number="13" title="Termination">
         <p>
           You may terminate your use of the App at any time by uninstalling it.
           Upon uninstallation, all locally stored data is permanently deleted.
@@ -467,8 +425,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 15 */}
-      <Section number="15" title="Governing Law and Jurisdiction">
+      {/* 14 */}
+      <Section number="14" title="Governing Law and Jurisdiction">
         <p>
           These Terms are governed by and construed in accordance with the laws
           of the Federal Republic of Germany, without regard to its conflict of
@@ -480,8 +438,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 16 */}
-      <Section number="16" title="Severability">
+      {/* 15 */}
+      <Section number="15" title="Severability">
         <p>
           If any provision of these Terms is held to be invalid, illegal, or
           unenforceable, the remaining provisions shall continue in full force
@@ -490,8 +448,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 17 */}
-      <Section number="17" title="Entire Agreement">
+      {/* 16 */}
+      <Section number="16" title="Entire Agreement">
         <p>
           These Terms, together with the Privacy Policy, constitute the entire
           agreement between you and Eduard Bruch regarding your use of the App,
@@ -500,8 +458,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 18 */}
-      <Section number="18" title="Changes to These Terms">
+      {/* 17 */}
+      <Section number="17" title="Changes to These Terms">
         <p>
           We may update these Terms from time to time. Changes will be reflected
           on this page with an updated &quot;Last updated&quot; date. Continued
@@ -511,8 +469,8 @@ export default function VaultTerms() {
         </p>
       </Section>
 
-      {/* 19 */}
-      <Section number="19" title="Contact">
+      {/* 18 */}
+      <Section number="18" title="Contact">
         <p>
           For questions or concerns about these Terms, contact:
         </p>
