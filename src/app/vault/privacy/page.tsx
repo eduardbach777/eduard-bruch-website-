@@ -220,7 +220,7 @@ export default function VaultPrivacy() {
             When you open a file to view or share it, the App temporarily writes
             a decrypted copy to the device&apos;s temporary directory. These
             temporary files are automatically deleted when the vault is locked,
-            when the App moves to the background (if auto-lock is enabled), or
+            when the App moves to the background, or
             when the operating system clears temporary storage.
           </p>
         </SubSection>
