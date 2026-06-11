@@ -227,21 +227,19 @@ function AppSection({
           {app.description}
         </p>
         <div style={{ display: "flex", gap: "24px" }}>
-          <Link
+          <a
             href={app.privacyUrl}
-            className="hover:text-white transition-colors"
-            style={{ fontSize: "14px", color: "#fff", textDecoration: "underline", textUnderlineOffset: "4px", textDecorationColor: "rgba(255,255,255,0.6)" }}
+            style={{ fontSize: "14px", color: "#ffffff", textDecoration: "underline", textUnderlineOffset: "4px", textDecorationColor: "#ffffff" }}
           >
             Privacy
-          </Link>
+          </a>
           {app.termsUrl && (
-            <Link
+            <a
               href={app.termsUrl}
-              className="hover:text-white transition-colors"
-              style={{ fontSize: "14px", color: "#fff", textDecoration: "underline", textUnderlineOffset: "4px", textDecorationColor: "rgba(255,255,255,0.6)" }}
+              style={{ fontSize: "14px", color: "#ffffff", textDecoration: "underline", textUnderlineOffset: "4px", textDecorationColor: "#ffffff" }}
             >
               Terms
-            </Link>
+            </a>
           )}
         </div>
       </div>
