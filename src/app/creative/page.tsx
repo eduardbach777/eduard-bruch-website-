@@ -151,12 +151,23 @@ function AppSection({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-100px" }}
       transition={{ duration: 0.7, ease: "easeOut" }}
-      className="flex flex-col md:flex-row items-center gap-8 md:gap-16 py-20 md:py-28"
-      style={{ flexDirection: isEven ? undefined : undefined }}
+      style={{
+        display: "grid",
+        gridTemplateColumns: "1fr 1fr",
+        gap: "0",
+        alignItems: "center",
+        minHeight: "600px",
+        padding: "80px 0",
+      }}
     >
-      {/* Screenshot — left on even, right on odd */}
+      {/* Screenshot */}
       <div
-        className={`w-full md:w-1/2 flex justify-center ${!isEven ? "md:order-2" : ""}`}
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          order: isEven ? 0 : 1,
+        }}
       >
         {app.screenshot ? (
           <motion.div
@@ -166,54 +177,68 @@ function AppSection({
               repeat: Infinity,
               ease: "easeInOut",
             }}
-            className="relative w-full max-w-md"
+            style={{ width: "100%", maxWidth: "480px" }}
           >
             <Image
               src={app.screenshot}
               alt={`${app.name} screenshot`}
-              width={800}
-              height={1200}
-              className="w-full h-auto rounded-2xl"
-              style={{ objectFit: "contain" }}
+              width={960}
+              height={1440}
+              style={{ width: "100%", height: "auto", borderRadius: "16px", objectFit: "contain" }}
               priority={index < 2}
             />
           </motion.div>
         ) : (
-          <div className="w-full max-w-md aspect-[3/4] rounded-2xl bg-neutral-900 border border-neutral-800 flex items-center justify-center">
-            <span className="text-neutral-600 text-sm tracking-widest uppercase">
+          <div style={{
+            width: "100%",
+            maxWidth: "480px",
+            aspectRatio: "3/4",
+            borderRadius: "16px",
+            backgroundColor: "rgb(23,23,23)",
+            border: "1px solid rgb(38,38,38)",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          }}>
+            <span style={{ color: "rgb(82,82,82)", fontSize: "14px", letterSpacing: "0.2em", textTransform: "uppercase" }}>
               Coming Soon
             </span>
           </div>
         )}
       </div>
 
-      {/* Info — right on even, left on odd */}
+      {/* Info */}
       <div
-        className={`w-full md:w-1/2 ${!isEven ? "md:order-1" : ""}`}
+        style={{
+          order: isEven ? 1 : 0,
+          padding: isEven ? "0 0 0 60px" : "0 60px 0 0",
+        }}
       >
-        <p className="text-xs tracking-[0.2em] uppercase text-neutral-500 mb-2">
+        <p style={{ fontSize: "13px", letterSpacing: "0.25em", textTransform: "uppercase", color: "rgba(255,255,255,0.4)", marginBottom: "12px" }}>
           {app.platform}
         </p>
-        <h2 className="text-3xl md:text-4xl font-light text-white mb-2 tracking-wide">
+        <h2 style={{ fontSize: "42px", fontWeight: 300, color: "#fff", marginBottom: "8px", letterSpacing: "0.02em", lineHeight: 1.1 }}>
           {app.name}
         </h2>
-        <p className="text-lg text-neutral-400 mb-6 tracking-wide">
+        <p style={{ fontSize: "20px", color: "rgba(255,255,255,0.5)", marginBottom: "32px", letterSpacing: "0.05em" }}>
           {app.tagline}
         </p>
-        <p className="text-base text-neutral-300 leading-relaxed mb-8 max-w-lg">
+        <p style={{ fontSize: "17px", color: "rgba(255,255,255,0.75)", lineHeight: 1.8, marginBottom: "40px", maxWidth: "500px" }}>
           {app.description}
         </p>
-        <div className="flex gap-6">
+        <div style={{ display: "flex", gap: "24px" }}>
           <Link
             href={app.privacyUrl}
-            className="text-sm text-neutral-500 hover:text-white transition-colors underline underline-offset-4 decoration-neutral-700"
+            className="hover:text-white transition-colors"
+            style={{ fontSize: "14px", color: "rgba(255,255,255,0.5)", textDecoration: "underline", textUnderlineOffset: "4px", textDecorationColor: "rgba(255,255,255,0.3)" }}
           >
             Privacy
           </Link>
           {app.termsUrl && (
             <Link
               href={app.termsUrl}
-              className="text-sm text-neutral-500 hover:text-white transition-colors underline underline-offset-4 decoration-neutral-700"
+              className="hover:text-white transition-colors"
+              style={{ fontSize: "14px", color: "rgba(255,255,255,0.5)", textDecoration: "underline", textUnderlineOffset: "4px", textDecorationColor: "rgba(255,255,255,0.3)" }}
             >
               Terms
             </Link>
@@ -244,7 +269,7 @@ export default function SoftwareDevelopmentPage() {
       </header>
 
       {/* Apps */}
-      <div className="max-w-6xl mx-auto px-6 md:px-16 pb-40">
+      <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "0 40px 160px 40px" }}>
         {apps.map((app, index) => (
           <AppSection key={app.name} app={app} index={index} />
         ))}
