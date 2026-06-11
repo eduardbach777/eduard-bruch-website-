@@ -10,13 +10,14 @@ export default function EsotherikTerms() {
       <h1 className="mb-4 text-4xl font-bold text-white">Terms of Service</h1>
       <p className="mb-2 text-lg text-neutral-300">Esotherik Apps</p>
       <p className="mb-10 text-sm text-neutral-500">
-        Last updated: June 3, 2026
+        Last updated: June 11, 2026
       </p>
 
       <p className="mb-6">
         These Terms of Service (&quot;Terms&quot;) govern your use of the
         spiritual and entertainment applications published under the Esotherik
-        brand by Eduard Bruch, including Aurum Tarot (collectively, &quot;the
+        brand by Eduard Bruch, including 369 Manifest, Aurum Tarot, Dream
+        Journal, and all other Esotherik apps (collectively, &quot;the
         Apps&quot;). By downloading, installing, or using any of the Apps, you
         agree to these Terms.
       </p>
@@ -37,6 +38,21 @@ export default function EsotherikTerms() {
         financial advice. You should not make important life decisions based
         solely on content provided by the Apps. Always consult qualified
         professionals for medical, legal, financial, or psychological matters.
+      </p>
+
+      {/* 1b. Manifestation & Journaling Disclaimer */}
+      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
+        1b. Manifestation &amp; Journaling Disclaimer (369 Manifest)
+      </h2>
+      <p className="mb-6">
+        The 369 method, affirmation cards, sound frequencies, and all
+        manifestation-related content in 369 Manifest are presented as a
+        journaling and self-reflection framework. The app does not guarantee any
+        specific outcomes. Sound frequencies (Solfeggio, Chakra, Brainwave,
+        Planetary) are provided for meditation and ambient focus purposes only
+        and are not medical treatments. No therapeutic, healing, or health
+        claims are made. The app is not a substitute for professional medical,
+        psychological, or financial advice.
       </p>
 
       {/* 2. Subscriptions */}

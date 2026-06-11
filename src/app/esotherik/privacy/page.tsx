@@ -10,15 +10,15 @@ export default function EsotherikPrivacy() {
       <h1 className="mb-4 text-4xl font-bold text-white">Privacy Policy</h1>
       <p className="mb-2 text-lg text-neutral-300">Esotherik Apps</p>
       <p className="mb-10 text-sm text-neutral-500">
-        Last updated: June 3, 2026
+        Last updated: June 11, 2026
       </p>
 
       <p className="mb-6">
         This privacy policy applies to all spiritual and entertainment
         applications published under the Esotherik brand by Eduard Bruch,
-        including: Aurum Tarot, SpellBook, Witch&apos;s Herbal, Tarot Reader,
-        Aura Reader, Daily Horoscope, Dream Dictionary, Human Design,
-        Manifestation Timer, Moon Calendar, Palm Reader, Witch&apos;s Calendar,
+        including: 369 Manifest, Aurum Tarot, SpellBook, Witch&apos;s Herbal,
+        Tarot Reader, Aura Reader, Daily Horoscope, Dream Dictionary, Dream
+        Journal, Human Design, Moon Calendar, Palm Reader, Witch&apos;s Calendar,
         Zodiac Compatibility, Affirmation Cards, Astrology Memes, Biorhythm,
         Birth Chart, Chakra Scanner, Chinese Zodiac, Coffee Cup Reading, Face
         Reading, I Ching, Lucid Dreaming, Mercury Retrograde, Numerology,
@@ -108,7 +108,8 @@ export default function EsotherikPrivacy() {
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
-        2.5 Journal Entries (Dream Dictionary, Lucid Dreaming, Aurum Tarot)
+        2.5 Journal Entries (Dream Dictionary, Dream Journal, Lucid Dreaming,
+        Aurum Tarot)
       </h3>
       <p className="mb-4">
         Dream journal entries, tarot reading history, and personal notes are
@@ -118,7 +119,19 @@ export default function EsotherikPrivacy() {
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
-        2.6 AI-Powered Interpretations (Aurum Tarot)
+        2.6 Manifestation &amp; Gratitude Data (369 Manifest)
+      </h3>
+      <p className="mb-4">
+        369 Manifest stores the following data exclusively on your device using
+        SwiftData: manifestation goals and desires, daily writing session
+        entries, gratitude journal entries, favorite affirmation cards, streak
+        and progress data, and notification preferences. None of this data is
+        transmitted to any server. The app works fully offline. No user account
+        or sign-up is required. All data can be deleted by uninstalling the app.
+      </p>
+
+      <h3 className="mb-2 mt-4 font-medium text-white">
+        2.7 AI-Powered Interpretations (Aurum Tarot)
       </h3>
       <p className="mb-4">
         Aurum Tarot offers optional AI-powered tarot interpretations as a
@@ -168,7 +181,7 @@ export default function EsotherikPrivacy() {
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
-        2.7 Analytics and Tracking
+        2.8 Analytics and Tracking
       </h3>
       <p className="mb-6">
         The Apps do <strong>not</strong> use any analytics, advertising, or
