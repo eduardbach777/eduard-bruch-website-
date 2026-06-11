@@ -171,9 +171,9 @@ function AppSection({
       >
         {app.screenshot ? (
           <motion.div
-            animate={{ y: [0, -8, 0] }}
+            animate={{ y: [0, -18, 0], scale: [1, 1.02, 1] }}
             transition={{
-              duration: 4,
+              duration: 5,
               repeat: Infinity,
               ease: "easeInOut",
             }}
