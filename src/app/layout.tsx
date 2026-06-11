@@ -19,8 +19,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Eduard Bruch",
-  description: "Eduard Bruch - Actor",
+  title: "Eduard Bruch — Actor & Software Developer",
+  description:
+    "Eduard Bruch — actor and software developer based in Hamburg. Film, theatre, and iOS/macOS app development.",
 };
 
 export default function RootLayout({

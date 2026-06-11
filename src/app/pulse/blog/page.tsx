@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllArticles } from "./_data";
+import { getPulseAppStoreUrl } from "../app-store-links";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -120,7 +121,7 @@ export default function BlogIndexPage() {
             monitoring — all from your menu bar.
           </p>
           <a
-            href="https://apps.apple.com/app/pulse-system-monitor/id6744194761"
+            href={getPulseAppStoreUrl("en")}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"

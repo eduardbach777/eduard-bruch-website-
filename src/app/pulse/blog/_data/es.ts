@@ -30,7 +30,7 @@ export const esArticles: ArticleSet = {
 
 <h2>Método 3: Apps de barra de menú</h2>
 <h3>Pulse</h3>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> es un monitor de sistema moderno construido con SwiftUI para macOS 14+. Muestra temperatura CPU, GPU, sensores, ventiladores, carga CPU, presión de memoria, velocidad de red, salud de batería y uso de disco — todo desde widgets compactos en la barra de menú.</p>
+<p><a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> es un monitor de sistema moderno construido con SwiftUI para macOS 14+. Muestra temperatura CPU, GPU, sensores, ventiladores, carga CPU, presión de memoria, velocidad de red, salud de batería y uso de disco — todo desde widgets compactos en la barra de menú.</p>
 
 <h3>iStat Menus</h3>
 <p>El monitor de sistema de referencia para usuarios avanzados de Mac durante más de una década.</p>
@@ -48,7 +48,7 @@ export const esArticles: ArticleSet = {
 </ol>
 
 <h2>Monitorear la temperatura a lo largo del tiempo</h2>
-<p>Apps como <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> muestran gráficos en tiempo real de la temperatura CPU junto con la carga CPU, facilitando correlacionar temperaturas altas con cargas de trabajo específicas.</p>
+<p>Apps como <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> muestran gráficos en tiempo real de la temperatura CPU junto con la carga CPU, facilitando correlacionar temperaturas altas con cargas de trabajo específicas.</p>
 
 <h2>Resumen</h2>
 <p>Verificar la temperatura de la CPU de tu Mac en 2026 es sencillo. El monitoreo regular te ayuda a detectar problemas temprano, mantener el rendimiento óptimo y prolongar la vida de tu hardware.</p>
@@ -90,10 +90,10 @@ export const esArticles: ArticleSet = {
 </ul>
 
 <h2>Monitoreo con apps de barra de menú</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> muestra la presión de memoria directamente en tu barra de menú como un indicador codificado por colores.</p>
+<p><a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> muestra la presión de memoria directamente en tu barra de menú como un indicador codificado por colores.</p>
 
 <h2>Resumen</h2>
-<p>La presión de memoria es la métrica de memoria más importante en macOS. Ignora el número bruto de memoria usada — enfócate en la presión. Herramientas como <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> facilitan este monitoreo.</p>
+<p>La presión de memoria es la métrica de memoria más importante en macOS. Ignora el número bruto de memoria usada — enfócate en la presión. Herramientas como <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> facilitan este monitoreo.</p>
 `,
   },
 
@@ -119,7 +119,7 @@ export const esArticles: ArticleSet = {
 <p>Especialista en temperatura y control de ventiladores. 20 $.</p>
 
 <h2>Pulse</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> ofrece cobertura completa comparable a iStat Menus por 5,99 $ con interfaz SwiftUI moderna. Disponible en el Mac App Store.</p>
+<p><a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> ofrece cobertura completa comparable a iStat Menus por 5,99 $ con interfaz SwiftUI moderna. Disponible en el Mac App Store.</p>
 
 <h2>Tabla comparativa</h2>
 <table>
@@ -133,7 +133,7 @@ export const esArticles: ArticleSet = {
 </table>
 
 <h2>Resumen</h2>
-<p>La mejor elección depende de tus prioridades. <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> ofrece la mejor relación calidad-precio para monitoreo completo.</p>
+<p>La mejor elección depende de tus prioridades. <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> ofrece la mejor relación calidad-precio para monitoreo completo.</p>
 `,
   },
 
@@ -153,13 +153,13 @@ export const esArticles: ArticleSet = {
 <p><strong>nettop</strong> para vista en tiempo real. <strong>speedtest-cli</strong> para test de velocidad puntual.</p>
 
 <h2>Método 3: Apps de barra de menú</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> muestra velocidad upload/download en tiempo real en la barra de menú con gráficos de throughput, IP local e IP pública.</p>
+<p><a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> muestra velocidad upload/download en tiempo real en la barra de menú con gráficos de throughput, IP local e IP pública.</p>
 
 <h2>Solución de problemas de red lenta</h2>
 <ol>
 <li>Ejecutar test de velocidad para descartar el ISP.</li>
 <li>Verificar señal Wi-Fi (RSSI).</li>
-<li>Identificar apps que consumen ancho de banda con <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a>.</li>
+<li>Identificar apps que consumen ancho de banda con <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a>.</li>
 <li>Cambiar a Ethernet.</li>
 <li>Cambiar servidores DNS (1.1.1.1 o 8.8.8.8).</li>
 <li>Verificar overhead de VPN.</li>
@@ -192,7 +192,7 @@ export const esArticles: ArticleSet = {
 <p>Revisa las pestañas CPU, Memoria y Disco para identificar el problema.</p>
 
 <h2>Paso 3: Monitor de barra de menú</h2>
-<p>Un monitor como <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> mantiene las métricas siempre visibles.</p>
+<p>Un monitor como <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> mantiene las métricas siempre visibles.</p>
 
 <h2>Solucionar limitaciones de CPU</h2>
 <ol>
@@ -218,7 +218,7 @@ export const esArticles: ArticleSet = {
 </ol>
 
 <h2>Resumen</h2>
-<p>Diagnosticar un Mac lento requiere identificar si el cuello de botella es CPU, memoria, disco o red. Usa el Monitor de Actividad y <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> para monitoreo continuo.</p>
+<p>Diagnosticar un Mac lento requiere identificar si el cuello de botella es CPU, memoria, disco o red. Usa el Monitor de Actividad y <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> para monitoreo continuo.</p>
 `,
   },
 
@@ -247,7 +247,7 @@ export const esArticles: ArticleSet = {
 <p><strong>system_profiler SPPowerDataType</strong> para info completa. <strong>pmset -g batt</strong> para porcentaje actual.</p>
 
 <h2>Método 4: Apps de barra de menú</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> muestra salud de batería, ciclos, vataje y tiempo restante directamente en la barra de menú.</p>
+<p><a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> muestra salud de batería, ciclos, vataje y tiempo restante directamente en la barra de menú.</p>
 
 <h2>Cuándo reemplazar la batería</h2>
 <ul>
@@ -264,7 +264,7 @@ export const esArticles: ArticleSet = {
 </ul>
 
 <h2>Resumen</h2>
-<p>Verificar la salud de la batería es fácil con las herramientas de Apple y aún más con un monitor de barra de menú como <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a>. Las métricas clave son capacidad máxima y ciclos de carga.</p>
+<p>Verificar la salud de la batería es fácil con las herramientas de Apple y aún más con un monitor de barra de menú como <a href="https://apps.apple.com/es/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a>. Las métricas clave son capacidad máxima y ciclos de carga.</p>
 `,
   },
 };

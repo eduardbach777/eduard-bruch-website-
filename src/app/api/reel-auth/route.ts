@@ -2,7 +2,11 @@ import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(request: NextRequest) {
   const { password } = await request.json();
-  const correctPassword = process.env.REEL_PASSWORD || "reel2026";
+  const correctPassword = process.env.REEL_PASSWORD;
+
+  if (!correctPassword) {
+    return NextResponse.json({ success: false, error: "Not configured" }, { status: 503 });
+  }
 
   if (password === correctPassword) {
     const response = NextResponse.json({ success: true });

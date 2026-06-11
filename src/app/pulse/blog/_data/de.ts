@@ -43,7 +43,7 @@ export const deArticles: ArticleSet = {
 <p>Für die kontinuierliche Überwachung ist ein Menüleisten-Programm weitaus praktischer als Terminal-Befehle. Es gibt mehrere Optionen:</p>
 
 <h3>Pulse</h3>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> ist ein moderner Systemmonitor, der mit SwiftUI für macOS 14 und neuer entwickelt wurde. Er zeigt CPU-Temperatur, GPU-Temperatur, Sensor-Werte, Lüftergeschwindigkeiten, CPU-Last, Speicherdruck, Netzwerkgeschwindigkeit, Akkugesundheit und Festplattennutzung an — alles über kompakte Menüleisten-Widgets. Pulse unterstützt sowohl Apple Silicon als auch Intel Macs und ist auf minimalen Ressourcenverbrauch ausgelegt. Er ist im Mac App Store erhältlich.</p>
+<p><a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> ist ein moderner Systemmonitor, der mit SwiftUI für macOS 14 und neuer entwickelt wurde. Er zeigt CPU-Temperatur, GPU-Temperatur, Sensor-Werte, Lüftergeschwindigkeiten, CPU-Last, Speicherdruck, Netzwerkgeschwindigkeit, Akkugesundheit und Festplattennutzung an — alles über kompakte Menüleisten-Widgets. Pulse unterstützt sowohl Apple Silicon als auch Intel Macs und ist auf minimalen Ressourcenverbrauch ausgelegt. Er ist im Mac App Store erhältlich.</p>
 
 <h3>iStat Menus</h3>
 <p>iStat Menus ist seit über einem Jahrzehnt der Standard-Systemmonitor für Mac-Power-User. Es bietet hochgradig anpassbare Menüleisten-Anzeigen und Dropdown-Panels für CPU, Speicher, Festplatten, Netzwerk, Sensoren und Akku. Es unterstützt sowohl Apple Silicon als auch Intel, hat aber einen höheren Preis und wird als Abo über Setapp oder als Einmalkauf über die Website des Entwicklers verkauft.</p>
@@ -69,7 +69,7 @@ export const deArticles: ArticleSet = {
 </ol>
 
 <h2>Temperatur über die Zeit überwachen</h2>
-<p>Eine einzelne Temperaturmessung ist nützlich, aber Trends erzählen eine vollständigere Geschichte. Apps wie <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> können Echtzeit-Grafiken der CPU-Temperatur zusammen mit der CPU-Last anzeigen, sodass hohe Temperaturen leicht mit bestimmten Arbeitslasten korreliert werden können. Wenn Sie bemerken, dass Ihr Mac während eines Videoanrufs 95 °C erreicht, aber beim Surfen bei 60 °C bleibt, ist die Ursache klar.</p>
+<p>Eine einzelne Temperaturmessung ist nützlich, aber Trends erzählen eine vollständigere Geschichte. Apps wie <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> können Echtzeit-Grafiken der CPU-Temperatur zusammen mit der CPU-Last anzeigen, sodass hohe Temperaturen leicht mit bestimmten Arbeitslasten korreliert werden können. Wenn Sie bemerken, dass Ihr Mac während eines Videoanrufs 95 °C erreicht, aber beim Surfen bei 60 °C bleibt, ist die Ursache klar.</p>
 
 <h2>Zusammenfassung</h2>
 <p>Die CPU-Temperatur Ihres Macs im Jahr 2026 zu überprüfen ist unkompliziert, ob Sie Terminal-Befehle, kostenlose Open-Source-Tools oder polierte Menüleisten-Apps bevorzugen. Die wichtigste Erkenntnis ist, dass regelmäßige Überwachung Ihnen hilft, Probleme frühzeitig zu erkennen, Spitzenleistung zu erhalten und die Lebensdauer Ihrer Hardware zu verlängern. Wählen Sie die Methode, die zu Ihrem Arbeitsablauf passt, und gewöhnen Sie sich an, einen Blick auf Ihre Thermaldaten zu werfen — besonders bei anspruchsvollen Aufgaben.</p>
@@ -123,7 +123,7 @@ export const deArticles: ArticleSet = {
 
 <h2>Speicherdruck mit Menüleisten-Apps überwachen</h2>
 <p>Die Aktivitätsanzeige erfordert, dass Sie eine separate Anwendung öffnen und einen kleinen Graphen interpretieren. Für Benutzer, die den Speicherdruck auf einen Blick überwachen möchten, sind Menüleisten-Programme weitaus praktischer.</p>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> zeigt den Speicherdruck direkt in Ihrer Menüleiste als farbcodierten Indikator zusammen mit numerischen Werten für verwendeten, komprimierten und Swap-Speicher an. So sehen Sie auf einen Blick, ob Ihr System grün, gelb oder rot ist, ohne Ihren Arbeitsablauf zu unterbrechen.</p>
+<p><a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> zeigt den Speicherdruck direkt in Ihrer Menüleiste als farbcodierten Indikator zusammen mit numerischen Werten für verwendeten, komprimierten und Swap-Speicher an. So sehen Sie auf einen Blick, ob Ihr System grün, gelb oder rot ist, ohne Ihren Arbeitsablauf zu unterbrechen.</p>
 
 <h2>Wie viel RAM brauchen Sie wirklich?</h2>
 <p>Apples Unified-Memory-Architektur bei Apple Silicon bedeutet, dass RAM zwischen CPU, GPU und Neural Engine geteilt wird. Dies nutzt jeden Gigabyte effizient, bedeutet aber auch, dass GPU-intensive Aufgaben RAM verbrauchen, der sonst für Anwendungen verfügbar wäre.</p>
@@ -139,7 +139,7 @@ export const deArticles: ArticleSet = {
 <p>Bedenken Sie, dass Apple-Silicon-Macs verlöteten RAM haben, der nach dem Kauf nicht aufgerüstet werden kann. Dies macht die anfängliche RAM-Konfiguration zu einer kritischen Entscheidung. Im Zweifelsfall wählen Sie die nächsthöhere Stufe.</p>
 
 <h2>Zusammenfassung</h2>
-<p>Speicherdruck ist die wichtigste Speicher-Metrik unter macOS. Er sagt Ihnen auf einen Blick, ob Ihr System Reserven hat (grün), belastet aber funktionsfähig ist (gelb) oder kämpft und Maßnahmen braucht (rot). Ignorieren Sie die reine Zahl des „verwendeten Speichers" — konzentrieren Sie sich stattdessen auf den Druck. Tools wie die Aktivitätsanzeige und <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> machen es einfach, diese Metrik zu überwachen und Leistungsproblemen zuvorzukommen.</p>
+<p>Speicherdruck ist die wichtigste Speicher-Metrik unter macOS. Er sagt Ihnen auf einen Blick, ob Ihr System Reserven hat (grün), belastet aber funktionsfähig ist (gelb) oder kämpft und Maßnahmen braucht (rot). Ignorieren Sie die reine Zahl des „verwendeten Speichers" — konzentrieren Sie sich stattdessen auf den Druck. Tools wie die Aktivitätsanzeige und <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> machen es einfach, diese Metrik zu überwachen und Leistungsproblemen zuvorzukommen.</p>
 `,
   },
 
@@ -200,7 +200,7 @@ export const deArticles: ArticleSet = {
 <p><strong>Nachteile:</strong> Nur nützlich, wenn Temperatur Ihr Hauptanliegen ist. Der Preis von 20 $ ist steil für ein Einzelzweck-Tool.</p>
 
 <h2>Pulse</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> ist ein neuerer Eintrag in der Systemmonitor-Kategorie, von Grund auf mit SwiftUI für macOS 14+ entwickelt:</p>
+<p><a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> ist ein neuerer Eintrag in der Systemmonitor-Kategorie, von Grund auf mit SwiftUI für macOS 14+ entwickelt:</p>
 <ul>
 <li><strong>Metriken:</strong> CPU (pro Kern, Lastdurchschnitte), GPU, Speicher (Druck, App/Gebunden/Komprimiert/Swap), Netzwerk, Akku (Gesundheit, Zyklen, Wattage), Temperatur, Festplatte, Lüfter und Top-Prozesse.</li>
 <li><strong>Preis:</strong> 5,99 $ Einmalkauf im Mac App Store.</li>
@@ -225,7 +225,7 @@ export const deArticles: ArticleSet = {
 <li><strong>Maximale Anpassung:</strong> iStat Menus bleibt der König der Konfigurierbarkeit.</li>
 <li><strong>Kostenlos und Open Source:</strong> Stats ist der klare Gewinner.</li>
 <li><strong>Temperatur und Lüftersteuerung:</strong> TG Pro ist der Spezialist.</li>
-<li><strong>Bestes Preis-Leistungs-Verhältnis:</strong> <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> bietet einen Funktionsumfang vergleichbar mit iStat Menus für 5,99 $ mit einer modernen, leichtgewichtigen Oberfläche.</li>
+<li><strong>Bestes Preis-Leistungs-Verhältnis:</strong> <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> bietet einen Funktionsumfang vergleichbar mit iStat Menus für 5,99 $ mit einer modernen, leichtgewichtigen Oberfläche.</li>
 <li><strong>Minimal und einfach:</strong> MenuMeters ist die schnörkellose Option.</li>
 </ul>
 
@@ -268,7 +268,7 @@ export const deArticles: ArticleSet = {
 <p>Der praktischste Ansatz für den Alltag ist eine Menüleisten-App, die die Live-Netzwerkgeschwindigkeit neben Uhr, Akku und anderen Indikatoren anzeigt.</p>
 
 <h3>Pulse</h3>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> zeigt Ihre aktuelle Upload- und Download-Geschwindigkeit direkt in der Menüleiste an. Ein Klick auf das Widget öffnet ein detailliertes Panel mit Netzwerk-Durchsatz-Graphen, Ihrer lokalen IP-Adresse, öffentlichen IP-Adresse und aktiven Schnittstelle. Es ist leichtgewichtig und visuell sauber gestaltet. Pulse überwacht auch CPU, Speicher, Temperatur, Akku und Festplatte und dient so als All-in-One-Systemmonitor.</p>
+<p><a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> zeigt Ihre aktuelle Upload- und Download-Geschwindigkeit direkt in der Menüleiste an. Ein Klick auf das Widget öffnet ein detailliertes Panel mit Netzwerk-Durchsatz-Graphen, Ihrer lokalen IP-Adresse, öffentlichen IP-Adresse und aktiven Schnittstelle. Es ist leichtgewichtig und visuell sauber gestaltet. Pulse überwacht auch CPU, Speicher, Temperatur, Akku und Festplatte und dient so als All-in-One-Systemmonitor.</p>
 
 <h3>iStat Menus</h3>
 <p>iStat Menus bietet ein Netzwerkmodul mit anpassbarer Formatierung (Pfeile, Graphen, Zahlen). Das Dropdown-Panel zeigt historische Durchsatz-Graphen und eine Liste aktiver Verbindungen.</p>
@@ -286,7 +286,7 @@ export const deArticles: ArticleSet = {
 <p>Ein RSSI-Wert von -30 bis -50 ist ausgezeichnet, -50 bis -70 akzeptabel, und alles unter -70 zeigt ein schwaches Signal an.</p>
 
 <h3>Schritt 3: Bandbreiten-Fresser identifizieren</h3>
-<p>Öffnen Sie den Netzwerk-Tab der Aktivitätsanzeige oder nutzen Sie ein Tool wie <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a>, um zu sehen, welche Anwendungen die meiste Bandbreite verbrauchen.</p>
+<p>Öffnen Sie den Netzwerk-Tab der Aktivitätsanzeige oder nutzen Sie ein Tool wie <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a>, um zu sehen, welche Anwendungen die meiste Bandbreite verbrauchen.</p>
 
 <h3>Schritt 4: Auf Ethernet wechseln</h3>
 <p>Eine kabelgebundene Verbindung eliminiert WLAN-Variablen vollständig. Wenn sich die Geschwindigkeiten über Ethernet dramatisch verbessern, liegt das Problem in Ihrer WLAN-Umgebung.</p>
@@ -339,7 +339,7 @@ export const deArticles: ArticleSet = {
 <p>Schauen Sie auf den <strong>Speicherdruck</strong>-Graphen unten. Grün ist in Ordnung. Gelb bedeutet, Sie stoßen an Grenzen. Rot heißt, Ihr Mac hungert nach Speicher. Prüfen Sie auch den <strong>Swap-Verbrauch</strong>.</p>
 
 <h2>Schritt 3: Menüleisten-Monitor für kontinuierliche Sichtbarkeit</h2>
-<p>Die Aktivitätsanzeige gibt Ihnen eine Momentaufnahme, aber Leistungsprobleme sind oft intermittierend. Ein Menüleisten-Systemmonitor wie <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> hält wichtige Metriken jederzeit sichtbar, damit Sie den Moment erfassen können, in dem die Dinge langsamer werden.</p>
+<p>Die Aktivitätsanzeige gibt Ihnen eine Momentaufnahme, aber Leistungsprobleme sind oft intermittierend. Ein Menüleisten-Systemmonitor wie <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> hält wichtige Metriken jederzeit sichtbar, damit Sie den Moment erfassen können, in dem die Dinge langsamer werden.</p>
 
 <h2>Schritt 4: CPU-gebundene Verlangsamungen beheben</h2>
 <ol>
@@ -380,7 +380,7 @@ export const deArticles: ArticleSet = {
 </ul>
 
 <h2>Zusammenfassung</h2>
-<p>Die Diagnose eines langsamen Macs erfordert die Identifizierung, ob der Engpass CPU, Speicher, Festplatte oder Netzwerk ist. Nutzen Sie die Aktivitätsanzeige für punktuelle Diagnosen und ein Menüleisten-Tool wie <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> für kontinuierliche Überwachung. Beheben Sie den spezifischen Engpass mit gezielten Maßnahmen, warten Sie Ihr System mit regelmäßigen Neustarts und Updates und ziehen Sie neue Hardware nur in Betracht, wenn Software-Optimierungen nicht ausreichen.</p>
+<p>Die Diagnose eines langsamen Macs erfordert die Identifizierung, ob der Engpass CPU, Speicher, Festplatte oder Netzwerk ist. Nutzen Sie die Aktivitätsanzeige für punktuelle Diagnosen und ein Menüleisten-Tool wie <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> für kontinuierliche Überwachung. Beheben Sie den spezifischen Engpass mit gezielten Maßnahmen, warten Sie Ihr System mit regelmäßigen Neustarts und Updates und ziehen Sie neue Hardware nur in Betracht, wenn Software-Optimierungen nicht ausreichen.</p>
 `,
   },
 
@@ -430,7 +430,7 @@ export const deArticles: ArticleSet = {
 <p><strong>pmset -g batt</strong></p>
 
 <h2>Methode 4: Menüleisten-Apps</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> zeigt Akkugesundheit in Prozent, Ladezyklenzahl, aktuelle Wattage, verbleibende Zeit und Ladestatus direkt in der Menüleiste an. Da Pulse auch CPU, Speicher, Netzwerk, Temperatur und Festplatte überwacht, erhalten Sie umfassende Systemüberwachung ohne mehrere Apps installieren zu müssen.</p>
+<p><a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> zeigt Akkugesundheit in Prozent, Ladezyklenzahl, aktuelle Wattage, verbleibende Zeit und Ladestatus direkt in der Menüleiste an. Da Pulse auch CPU, Speicher, Netzwerk, Temperatur und Festplatte überwacht, erhalten Sie umfassende Systemüberwachung ohne mehrere Apps installieren zu müssen.</p>
 <p>Andere Optionen sind iStat Menus (mit dediziertem Akkumodul) und coconutBattery (eine kostenlose App speziell für Akkudiagnose).</p>
 
 <h2>Ladezyklenzahl verstehen</h2>
@@ -465,7 +465,7 @@ export const deArticles: ArticleSet = {
 <p>Wenn Sie ein MacBook für längere Zeit lagern, empfiehlt Apple, es auf ca. 50 % aufzuladen und an einem kühlen, trockenen Ort zu lagern.</p>
 
 <h2>Akkugesundheit über die Zeit überwachen</h2>
-<p>Statt die Akkugesundheit einmal zu prüfen und zu vergessen, hilft regelmäßige Überwachung, Degradationstrends zu verfolgen. Ein Tool wie <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> macht dies mühelos, da Akkugesundheit und Ladezyklenzahl immer in Ihrer Menüleiste sichtbar sind.</p>
+<p>Statt die Akkugesundheit einmal zu prüfen und zu vergessen, hilft regelmäßige Überwachung, Degradationstrends zu verfolgen. Ein Tool wie <a href="https://apps.apple.com/de/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> macht dies mühelos, da Akkugesundheit und Ladezyklenzahl immer in Ihrer Menüleiste sichtbar sind.</p>
 
 <h2>Zusammenfassung</h2>
 <p>Die Akkugesundheit Ihres MacBooks zu prüfen ist einfach mit den von Apple bereitgestellten Tools und noch einfacher mit einem Menüleisten-Monitor. Die wichtigsten Metriken sind maximale Kapazität und Ladezyklenzahl. Pflegen Sie gute Ladegewohnheiten — nutzen Sie optimiertes Laden, vermeiden Sie extreme Temperaturen und halten Sie den Ladestand zwischen 20–80 % — um die Lebensdauer Ihres Akkus zu maximieren.</p>

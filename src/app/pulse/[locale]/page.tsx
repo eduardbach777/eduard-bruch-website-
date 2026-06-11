@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { getPulseAppStoreUrl } from "../app-store-links";
 import { LOCALES, VALID_LOCALES, getContent } from "../_data/content";
 
 export function generateStaticParams() {
@@ -35,6 +36,7 @@ export default async function PulseLocalePage({
 
   const c = getContent(locale);
   const isRtl = locale === "ar";
+  const appStoreUrl = getPulseAppStoreUrl(locale);
 
   return (
     <main
@@ -155,7 +157,7 @@ export default async function PulseLocalePage({
             {c.cta.sub}
           </p>
           <a
-            href="https://apps.apple.com/app/pulse-system-monitor/id6744194761"
+            href={appStoreUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"

@@ -11,11 +11,22 @@ interface AppNiche {
   description: string;
   privacyUrl: string;
   termsUrl: string;
+  supportUrl?: string;
   apps: string[];
   color: string;
 }
 
 const niches: AppNiche[] = [
+  {
+    name: "Photo & Video",
+    description:
+      "Live fisheye camera for stylized photos and videos with selectable lens strengths, an in-app gallery, sharing, and local saving.",
+    privacyUrl: "/fisheye/privacy",
+    termsUrl: "/fisheye/terms",
+    supportUrl: "/fisheye/support",
+    color: "border-sky-500",
+    apps: ["Fisheye Camera - WideEye"],
+  },
   {
     name: "Spiritual & Esotherik",
     description:
@@ -182,6 +193,14 @@ export default function AppsPage() {
                 >
                   Terms of Service
                 </Link>
+                {niche.supportUrl ? (
+                  <Link
+                    href={niche.supportUrl}
+                    className="inline-flex items-center gap-1.5 rounded bg-white/10 px-3 py-1.5 text-sm text-white/80 transition-colors hover:bg-white/20 hover:text-white"
+                  >
+                    Support
+                  </Link>
+                ) : null}
               </div>
             </div>
 

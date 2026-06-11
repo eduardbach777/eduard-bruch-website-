@@ -43,7 +43,7 @@ export const enArticles: ArticleSet = {
 <p>For continuous monitoring, a menu bar utility is far more practical than Terminal commands. Several options exist:</p>
 
 <h3>Pulse</h3>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> is a modern system monitor built with SwiftUI for macOS 14 and later. It displays CPU temperature, GPU temperature, per-sensor thermal readings, fan speeds, CPU load, memory pressure, network speed, battery health, and disk usage — all from compact menu bar widgets. Pulse supports both Apple Silicon and Intel Macs and is designed to be lightweight with minimal resource usage. It is available on the Mac App Store.</p>
+<p><a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> is a modern system monitor built with SwiftUI for macOS 14 and later. It displays CPU temperature, GPU temperature, per-sensor thermal readings, fan speeds, CPU load, memory pressure, network speed, battery health, and disk usage — all from compact menu bar widgets. Pulse supports both Apple Silicon and Intel Macs and is designed to be lightweight with minimal resource usage. It is available on the Mac App Store.</p>
 
 <h3>iStat Menus</h3>
 <p>iStat Menus has been the go-to system monitor for Mac power users for over a decade. It offers highly customizable menu bar readouts and dropdown panels for CPU, memory, disks, network, sensors, and battery. It supports both Apple Silicon and Intel, though it carries a higher price tag and is sold as a subscription through Setapp or a one-time purchase from the developer's website.</p>
@@ -69,7 +69,7 @@ export const enArticles: ArticleSet = {
 </ol>
 
 <h2>Monitoring Temperature Over Time</h2>
-<p>A single temperature reading is useful, but trends tell a more complete story. Apps like <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> can display real-time graphs of CPU temperature alongside CPU load, making it easy to correlate high temperatures with specific workloads. If you notice your Mac hitting 95 °C during a video call but staying at 60 °C while browsing, the culprit is clear.</p>
+<p>A single temperature reading is useful, but trends tell a more complete story. Apps like <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> can display real-time graphs of CPU temperature alongside CPU load, making it easy to correlate high temperatures with specific workloads. If you notice your Mac hitting 95 °C during a video call but staying at 60 °C while browsing, the culprit is clear.</p>
 <p>For users who want to log data, some tools allow exporting temperature history to a CSV file for later analysis. This is particularly useful for IT administrators managing a fleet of Macs or developers benchmarking applications.</p>
 
 <h2>Summary</h2>
@@ -124,7 +124,7 @@ export const enArticles: ArticleSet = {
 
 <h2>Monitoring Memory Pressure with Menu Bar Apps</h2>
 <p>Activity Monitor requires you to open a separate application, switch to the Memory tab, and interpret a small graph. For users who want to keep an eye on memory pressure at a glance, menu bar utilities are far more practical.</p>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> displays memory pressure directly in your menu bar as a color-coded indicator alongside numeric values for used, compressed, and swap memory. This means you can see at a glance whether your system is green, yellow, or red without interrupting your workflow. When memory pressure starts creeping into yellow territory, you know it is time to close a few tabs or quit an unused app before things slow down.</p>
+<p><a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> displays memory pressure directly in your menu bar as a color-coded indicator alongside numeric values for used, compressed, and swap memory. This means you can see at a glance whether your system is green, yellow, or red without interrupting your workflow. When memory pressure starts creeping into yellow territory, you know it is time to close a few tabs or quit an unused app before things slow down.</p>
 <p>Other tools like iStat Menus and Stats also display memory information in the menu bar, though the level of detail and presentation varies.</p>
 
 <h2>How Much RAM Do You Actually Need?</h2>
@@ -141,7 +141,7 @@ export const enArticles: ArticleSet = {
 <p>Keep in mind that Apple Silicon Macs have soldered RAM that cannot be upgraded after purchase. This makes the initial RAM configuration decision critical. When in doubt, opt for the next tier up. The cost of extra RAM at purchase time is far less than the cost of replacing an entire machine a year later because 8 GB was not enough.</p>
 
 <h2>Summary</h2>
-<p>Memory pressure is the single most important memory metric on macOS. It tells you at a glance whether your system has headroom (green), is coping but strained (yellow), or is struggling and needs intervention (red). Ignore the raw "memory used" number — focus on pressure instead. Tools like Activity Monitor and <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> make it easy to monitor this metric and stay ahead of performance issues before they disrupt your workflow.</p>
+<p>Memory pressure is the single most important memory metric on macOS. It tells you at a glance whether your system has headroom (green), is coping but strained (yellow), or is struggling and needs intervention (red). Ignore the raw "memory used" number — focus on pressure instead. Tools like Activity Monitor and <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> make it easy to monitor this metric and stay ahead of performance issues before they disrupt your workflow.</p>
 `,
   },
 
@@ -210,7 +210,7 @@ export const enArticles: ArticleSet = {
 <p><strong>Cons:</strong> Only useful if temperature is your primary concern. Lacks comprehensive CPU, memory, network, and disk monitoring. The $20 price point is steep for a single-purpose tool. No Mac App Store availability.</p>
 
 <h2>Pulse</h2>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> is a newer entry in the system monitor category, built from scratch with SwiftUI and designed specifically for macOS 14 and later:</p>
+<p><a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> is a newer entry in the system monitor category, built from scratch with SwiftUI and designed specifically for macOS 14 and later:</p>
 <ul>
 <li><strong>Metrics:</strong> CPU (per-core, load averages), GPU, memory (pressure, app/wired/compressed/swap), network (upload/download speed, local and public IP), battery (health, cycle count, wattage, time remaining), temperature (CPU, GPU, per-sensor), disk (usage, read/write), fans, and top processes.</li>
 <li><strong>Menu bar:</strong> Compact, modern widgets with real-time graphs. Each metric can be toggled on or off. The dropdown panels use native macOS styling for a cohesive look.</li>
@@ -243,7 +243,7 @@ export const enArticles: ArticleSet = {
 <li><strong>Maximum customization and depth:</strong> iStat Menus remains the king of configurability. If you want to tweak every pixel of your menu bar readout and need access to obscure sensors, it is the safest bet.</li>
 <li><strong>Free and open-source:</strong> Stats is the clear winner. It covers the essentials at zero cost and is good enough for the majority of users.</li>
 <li><strong>Temperature and fan control:</strong> TG Pro is the specialist. If thermal management is your primary concern, nothing else comes close.</li>
-<li><strong>Best value for comprehensive monitoring:</strong> <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> offers a feature set comparable to iStat Menus at $5.99 with a modern, lightweight interface and Mac App Store convenience. It is the strongest choice for users who want everything in one place without overpaying.</li>
+<li><strong>Best value for comprehensive monitoring:</strong> <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> offers a feature set comparable to iStat Menus at $5.99 with a modern, lightweight interface and Mac App Store convenience. It is the strongest choice for users who want everything in one place without overpaying.</li>
 <li><strong>Minimal and simple:</strong> MenuMeters is the no-frills option for users who just want CPU, memory, and network in the menu bar without any complexity.</li>
 </ul>
 
@@ -291,7 +291,7 @@ export const enArticles: ArticleSet = {
 <p>The most practical approach for everyday use is a menu bar app that displays live network speed alongside your clock, battery, and other indicators.</p>
 
 <h3>Pulse</h3>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> displays your current upload and download speed directly in the menu bar. Clicking the widget opens a detailed panel showing network throughput graphs, your local IP address, public IP address, and active interface. It is designed to be lightweight and visually clean, using minimal menu bar space. Pulse also monitors CPU, memory, temperature, battery, and disk, so it serves as an all-in-one system monitor rather than a single-purpose network tool.</p>
+<p><a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> displays your current upload and download speed directly in the menu bar. Clicking the widget opens a detailed panel showing network throughput graphs, your local IP address, public IP address, and active interface. It is designed to be lightweight and visually clean, using minimal menu bar space. Pulse also monitors CPU, memory, temperature, battery, and disk, so it serves as an all-in-one system monitor rather than a single-purpose network tool.</p>
 
 <h3>iStat Menus</h3>
 <p>iStat Menus offers a network module that displays upload/download speed in the menu bar with customizable formatting (arrows, graphs, numbers). The dropdown panel shows historical throughput graphs and a list of active connections. It is one of the most configurable options available.</p>
@@ -316,7 +316,7 @@ export const enArticles: ArticleSet = {
 <p>Use the Option-click Wi-Fi trick mentioned above. An RSSI value of -30 to -50 is excellent, -50 to -70 is acceptable, and anything below -70 indicates a weak signal that will cause slow speeds and dropped connections. Move closer to your router, remove physical obstructions, or consider a mesh Wi-Fi system.</p>
 
 <h3>Step 3: Identify Bandwidth Hogs</h3>
-<p>Open Activity Monitor's Network tab or use a menu bar tool like <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> to see which applications are using the most bandwidth. Common culprits include cloud backup services (iCloud, Dropbox, Backblaze), software updates downloading in the background, and browser tabs streaming media.</p>
+<p>Open Activity Monitor's Network tab or use a menu bar tool like <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> to see which applications are using the most bandwidth. Common culprits include cloud backup services (iCloud, Dropbox, Backblaze), software updates downloading in the background, and browser tabs streaming media.</p>
 
 <h3>Step 4: Switch to Ethernet</h3>
 <p>If your Mac has an Ethernet port (or you use a USB-C to Ethernet adapter), a wired connection eliminates Wi-Fi variables entirely. If speeds improve dramatically on Ethernet, the problem is with your Wi-Fi environment, not your ISP or Mac.</p>
@@ -332,7 +332,7 @@ export const enArticles: ArticleSet = {
 
 <h2>Monitoring Network Speed Over Time</h2>
 <p>One-time speed tests are useful, but they only capture a moment. For a complete picture, you want to monitor speed continuously throughout the day. This helps you identify patterns — for example, slow speeds during evening hours (indicating ISP congestion) or periodic drops every few minutes (indicating a faulty router or interference).</p>
-<p>Menu bar apps like <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> make this effortless because the speed readout is always visible. You do not need to remember to run a test — the data is always there, and you can glance at it whenever things feel slow.</p>
+<p>Menu bar apps like <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> make this effortless because the speed readout is always visible. You do not need to remember to run a test — the data is always there, and you can glance at it whenever things feel slow.</p>
 
 <h2>Summary</h2>
 <p>Monitoring your Mac's network speed in real time helps you understand your connection, identify bottlenecks, and troubleshoot problems efficiently. Activity Monitor and Terminal commands provide basic data, but a menu bar app gives you continuous, at-a-glance visibility. Combine real-time monitoring with the troubleshooting steps above to get the most out of your internet connection.</p>
@@ -376,7 +376,7 @@ export const enArticles: ArticleSet = {
 <p>Look at the <strong>Bytes Written</strong> and <strong>Bytes Read</strong> columns. If a process is generating massive disk I/O, it can slow everything down. This often correlates with heavy swap usage or a backup service working in the background (Time Machine, cloud backups).</p>
 
 <h2>Step 3: Use a Menu Bar Monitor for Continuous Visibility</h2>
-<p>Activity Monitor gives you a snapshot, but performance issues are often intermittent. A menu bar system monitor like <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> keeps key metrics visible at all times, so you can catch the moment when things slow down. Seeing CPU spike to 100% or memory pressure turn red as you perform a specific action immediately tells you what is wrong.</p>
+<p>Activity Monitor gives you a snapshot, but performance issues are often intermittent. A menu bar system monitor like <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> keeps key metrics visible at all times, so you can catch the moment when things slow down. Seeing CPU spike to 100% or memory pressure turn red as you perform a specific action immediately tells you what is wrong.</p>
 
 <h2>Step 4: Fix CPU-Bound Slowdowns</h2>
 <p>If your Mac is slow because the CPU is maxed out:</p>
@@ -425,7 +425,7 @@ export const enArticles: ArticleSet = {
 </ul>
 
 <h2>Summary</h2>
-<p>Diagnosing a slow Mac requires identifying whether the bottleneck is CPU, memory, disk, or network. Use Activity Monitor for point-in-time diagnosis and a menu bar tool like <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> for continuous monitoring. Address the specific bottleneck with targeted fixes, maintain your system with regular restarts and updates, and consider new hardware only when software-level optimizations are not enough. With the right approach, most performance issues can be resolved without spending a dime.</p>
+<p>Diagnosing a slow Mac requires identifying whether the bottleneck is CPU, memory, disk, or network. Use Activity Monitor for point-in-time diagnosis and a menu bar tool like <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> for continuous monitoring. Address the specific bottleneck with targeted fixes, maintain your system with regular restarts and updates, and consider new hardware only when software-level optimizations are not enough. With the right approach, most performance issues can be resolved without spending a dime.</p>
 `,
   },
 
@@ -491,7 +491,7 @@ export const enArticles: ArticleSet = {
 
 <h2>Method 4: Menu Bar Apps</h2>
 <p>The methods above require you to navigate through menus or open Terminal each time you want to check. A menu bar app provides always-visible battery information.</p>
-<p><a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> displays battery health percentage, cycle count, current wattage, time remaining, and charge status directly in the menu bar. Click the widget to see a detailed panel with all battery metrics at a glance. Because Pulse also monitors CPU, memory, network, temperature, and disk, you get comprehensive system monitoring without installing multiple apps.</p>
+<p><a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> displays battery health percentage, cycle count, current wattage, time remaining, and charge status directly in the menu bar. Click the widget to see a detailed panel with all battery metrics at a glance. Because Pulse also monitors CPU, memory, network, temperature, and disk, you get comprehensive system monitoring without installing multiple apps.</p>
 <p>Other options include iStat Menus (which has a dedicated battery module showing health, cycles, and temperature) and coconutBattery (a free app focused exclusively on battery diagnostics that also shows the battery's manufacture date and age).</p>
 
 <h2>Understanding Cycle Count</h2>
@@ -533,7 +533,7 @@ export const enArticles: ArticleSet = {
 <p>Using a charger with insufficient wattage will not damage your battery but will charge more slowly and may cause the battery to drain while under heavy load even while plugged in. Using a charger with higher wattage than required is safe — the MacBook only draws what it needs.</p>
 
 <h2>Monitoring Battery Health Over Time</h2>
-<p>Rather than checking battery health once and forgetting about it, periodic monitoring helps you track degradation trends. A tool like <a href="https://apps.apple.com/app/pulse-system-monitor/id6744194761">Pulse</a> makes this effortless because the battery health percentage and cycle count are always visible in your menu bar. You can observe how your battery degrades over months and make an informed decision about when to schedule a replacement.</p>
+<p>Rather than checking battery health once and forgetting about it, periodic monitoring helps you track degradation trends. A tool like <a href="https://apps.apple.com/us/app/pulse-system-monitor/id6761375793?mt=12">Pulse System Monitor app</a> makes this effortless because the battery health percentage and cycle count are always visible in your menu bar. You can observe how your battery degrades over months and make an informed decision about when to schedule a replacement.</p>
 <p>Some users track their battery stats in a spreadsheet, recording the date, cycle count, and maximum capacity every month. This gives a clear picture of the degradation curve and helps predict when the battery will reach the 80% threshold.</p>
 
 <h2>Summary</h2>

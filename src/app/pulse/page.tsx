@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getContent } from "./_data/content";
 import { getAllArticles } from "./blog/_data";
+import { getPulseAppStoreUrl } from "./app-store-links";
 
 export const metadata = {
   title: "Pulse - System Monitor for Mac | CPU, Memory, Network & More",
@@ -163,7 +164,7 @@ export default function PulseLanding() {
             monitoring — all from your menu bar.
           </p>
           <a
-            href="https://apps.apple.com/app/pulse-system-monitor/id6744194761"
+            href={getPulseAppStoreUrl("en")}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"

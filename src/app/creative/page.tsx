@@ -31,7 +31,7 @@ const apps: AppEntry[] = [
     tagline: "Secret File Vault",
     description:
       "Encrypted vault disguised as a calculator, fitness tracker, or music player. Hide photos, videos, PDFs, and any file behind a passcode with Face ID. Intruder detection, guest mode, and iCloud backup. Your privacy, protected.",
-    screenshot: "/apps/stash.png",
+    screenshot: "/apps/stash-v2.png",
     platform: "iOS",
     privacyUrl: "/vault/privacy",
     termsUrl: "/vault/terms",

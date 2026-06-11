@@ -6,15 +6,19 @@ import { useLanguage } from "@/context/LanguageContext";
 import { t } from "@/lib/translations";
 
 export default function ContactPage() {
-  const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const { lang } = useLanguage();
 
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    setIsSubmitting(true);
-    await new Promise((resolve) => setTimeout(resolve, 1500));
-    setIsSubmitting(false);
+    const form = e.currentTarget;
+    const name = (form.elements.namedItem("name") as HTMLInputElement).value;
+    const email = (form.elements.namedItem("email") as HTMLInputElement).value;
+    const message = (form.elements.namedItem("message") as HTMLTextAreaElement).value;
+
+    const subject = encodeURIComponent(`Contact from ${name}`);
+    const body = encodeURIComponent(`From: ${name}\nEmail: ${email}\n\n${message}`);
+    window.location.href = `mailto:contact@eduardbruch.com?subject=${subject}&body=${body}`;
     setIsSubmitted(true);
   };
 
@@ -105,10 +109,9 @@ export default function ContactPage() {
                 <div className="pt-8 text-center">
                   <button
                     type="submit"
-                    disabled={isSubmitting}
-                    className="btn btn-primary disabled:opacity-50 disabled:cursor-not-allowed"
+                    className="btn btn-primary"
                   >
-                    {isSubmitting ? t.contact.sending[lang] : t.contact.send[lang]}
+                    {t.contact.send[lang]}
                   </button>
                 </div>
               </form>

@@ -1,5 +1,7 @@
 export const metadata = {
   title: "Support — Pulse - System Monitor",
+  description:
+    "Get help with Pulse, the macOS system monitor. FAQs, system requirements, and contact support.",
 };
 
 export default function PulseSupport() {

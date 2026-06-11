@@ -1,5 +1,7 @@
 export const metadata = {
   title: "Privacy Policy — Pulse - System Monitor",
+  description:
+    "Privacy policy for Pulse, the macOS system monitor. No analytics, no telemetry — your data stays on your Mac.",
 };
 
 export default function PulsePrivacyPolicy() {
