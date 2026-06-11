@@ -2,7 +2,7 @@ import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index
 import { getAllArticles as getPdfArticles, type Locale as PdfLocale } from "@/app/pdfcreator/blog/_data/index";
 import { getContent as getPulseContent } from "@/app/pulse/_data/content";
 import { getAllArticles as getPulseArticles, type Locale as PulseLocale } from "@/app/pulse/blog/_data/index";
-import { getAllArticles as getNotchPalArticles } from "@/app/notchpal/blog/_data";
+import { getAllArticles as getSoundDialArticles } from "@/app/sounddial/blog/_data";
 
 export interface ArticleCard {
   title: string;
@@ -43,7 +43,7 @@ const VAULT_LOCALES = ["en", "de", "es", "ar", "fr"];
 interface HubLabels {
   heading: string;
   subtitle: string;
-  notchPalName?: string;
+  soundDialName?: string;
   vaultName: string;
   pdfName: string;
   pulseName: string;
@@ -53,7 +53,7 @@ const labels: Record<string, HubLabels> = {
   en: {
     heading: "BLOG",
     subtitle: "Guides, tips, and how-tos across all apps.",
-    notchPalName: "NotchPal — macOS Notch Utility",
+    soundDialName: "SoundDial — Per-App Volume Mixer",
     vaultName: "Stash — Secret File Vault",
     pdfName: "PDF Creator & Scanner",
     pulseName: "Pulse — System Monitor",
@@ -182,13 +182,13 @@ export function getHubLabels(locale: string): HubLabels {
 export function getAppSections(locale: string): AppSection[] {
   const l = getHubLabels(locale);
 
-  // NotchPal: English-only for now — only shown on the English hub.
-  const notchPalArticles: ArticleCard[] =
+  // SoundDial: English-only for now — only shown on the English hub.
+  const soundDialArticles: ArticleCard[] =
     locale === "en"
-      ? getNotchPalArticles().map((a) => ({
+      ? getSoundDialArticles().map((a) => ({
           title: a.title,
           description: a.description,
-          href: `/notchpal/blog/${a.slug}`,
+          href: `/sounddial/blog/${a.slug}`,
           date: a.date,
         }))
       : [];
@@ -242,10 +242,10 @@ export function getAppSections(locale: string): AppSection[] {
 
   const sections: AppSection[] = [];
 
-  if (notchPalArticles.length > 0) {
+  if (soundDialArticles.length > 0) {
     sections.push({
-      name: l.notchPalName ?? "NotchPal",
-      articles: notchPalArticles,
+      name: l.soundDialName ?? "SoundDial",
+      articles: soundDialArticles,
       accent: "border-l-purple-500",
     });
   }

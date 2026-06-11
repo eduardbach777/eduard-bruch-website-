@@ -3,22 +3,22 @@ import type { Metadata } from "next";
 import { getAllArticles } from "./_data";
 
 export const metadata: Metadata = {
-  title: "NotchPal Blog — Make Your MacBook Notch Useful",
+  title: "SoundDial Blog — Per-App Volume Mixer for Mac",
   description:
-    "Guides on making the MacBook Pro and Air notch actually do something: widgets, a clipboard tray, file drop zone, and live activities.",
+    "Guides on controlling per-app volume on macOS: independent sliders, profiles, auto-ducking, and more.",
   keywords: [
-    "macbook notch",
-    "notch app mac",
-    "notchnook alternative",
-    "macbook pro notch apps",
-    "macbook air notch",
-    "dynamic island mac",
-    "menu bar mac",
-    "mac notch utility",
+    "mac volume mixer",
+    "per app volume mac",
+    "macos volume control",
+    "app volume control mac",
+    "sounddial",
+    "mac audio mixer",
+    "per app audio mac",
+    "macos per app volume",
   ],
 };
 
-export default function NotchPalBlogIndex() {
+export default function SoundDialBlogIndex() {
   const articles = getAllArticles();
 
   return (
@@ -26,16 +26,16 @@ export default function NotchPalBlogIndex() {
       {/* Hero */}
       <section className="px-6 pt-36 pb-16 sm:pb-20 max-w-6xl mx-auto">
         <p className="text-sm font-semibold uppercase tracking-widest text-purple-400 mb-4">
-          NotchPal — macOS Notch Utility
+          SoundDial — Per-App Volume Mixer
         </p>
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-[1.05] tracking-tight max-w-4xl">
-          Make Your
+          Control Every
           <br />
-          Notch Useful
+          App&apos;s Volume
         </h1>
         <p className="mt-6 text-xl sm:text-2xl text-neutral-300 font-light max-w-2xl leading-relaxed">
-          Widgets, a clipboard tray, a drop zone for files, and live activities
-          — all living inside the little black cutout at the top of your Mac.
+          Independent volume sliders, profiles, auto-ducking, and per-app mute
+          — the volume mixer macOS should have built in.
         </p>
       </section>
 
@@ -50,7 +50,7 @@ export default function NotchPalBlogIndex() {
           {articles.map((article) => (
             <Link
               key={article.slug}
-              href={`/notchpal/blog/${article.slug}`}
+              href={`/sounddial/blog/${article.slug}`}
               className="group rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-purple-500/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-purple-500/5 flex flex-col"
             >
               <div className="flex items-center gap-3 text-xs font-medium uppercase tracking-wider text-neutral-500">

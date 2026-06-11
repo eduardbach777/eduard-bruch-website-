@@ -20,7 +20,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${article.title} — NotchPal Blog`,
+    title: `${article.title} — SoundDial Blog`,
     description: article.description,
     openGraph: {
       title: article.title,
@@ -29,12 +29,12 @@ export async function generateMetadata({
       publishedTime: article.date,
     },
     alternates: {
-      canonical: `/notchpal/blog/${slug}`,
+      canonical: `/sounddial/blog/${slug}`,
     },
   };
 }
 
-export default async function NotchPalArticlePage({
+export default async function SoundDialArticlePage({
   params,
 }: {
   params: Promise<{ slug: string }>;
@@ -51,7 +51,7 @@ export default async function NotchPalArticlePage({
       {/* Top bar */}
       <div className="px-6 pt-36 max-w-4xl mx-auto">
         <Link
-          href="/notchpal/blog"
+          href="/sounddial/blog"
           className="inline-flex items-center gap-2 text-sm font-medium text-neutral-400 hover:text-white transition group"
         >
           <svg
@@ -113,14 +113,14 @@ export default async function NotchPalArticlePage({
       <section className="px-6 py-16 max-w-4xl mx-auto">
         <div className="rounded-3xl bg-gradient-to-br from-purple-600/20 to-purple-900/20 border border-purple-500/20 px-8 py-12 sm:px-14 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold text-white">
-            NotchPal — Coming Soon
+            SoundDial — Per-App Volume Mixer
           </h2>
           <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
-            A Nook for widgets, a tray for files, and live activities for every
-            notification you care about. macOS 14.6+.
+            Independent volume sliders for every app. Profiles, auto-ducking,
+            and per-app mute. The volume mixer macOS should have built in.
           </p>
           <Link
-            href="/notchpal/blog"
+            href="/sounddial/blog"
             className="mt-8 inline-block rounded-full bg-purple-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-purple-400 shadow-lg shadow-purple-500/30"
           >
             Read the Blog
@@ -131,7 +131,7 @@ export default async function NotchPalArticlePage({
       {/* Footer */}
       <footer className="px-6 py-10 max-w-4xl mx-auto border-t border-neutral-800">
         <nav className="flex items-center justify-center gap-6 text-sm text-neutral-500">
-          <Link href="/notchpal/blog" className="hover:text-white transition">
+          <Link href="/sounddial/blog" className="hover:text-white transition">
             All Articles
           </Link>
           <Link href="/about" className="hover:text-white transition">
