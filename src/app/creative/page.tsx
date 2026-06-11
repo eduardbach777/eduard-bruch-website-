@@ -214,16 +214,16 @@ function AppSection({
           padding: isEven ? "0 0 0 60px" : "0 60px 0 0",
         }}
       >
-        <p style={{ fontSize: "13px", letterSpacing: "0.25em", textTransform: "uppercase", color: "rgba(255,255,255,0.4)", marginBottom: "12px" }}>
+        <p style={{ fontSize: "14px", letterSpacing: "0.25em", textTransform: "uppercase", color: "rgba(255,255,255,0.6)", marginBottom: "14px" }}>
           {app.platform}
         </p>
-        <h2 style={{ fontSize: "42px", fontWeight: 300, color: "#fff", marginBottom: "8px", letterSpacing: "0.02em", lineHeight: 1.1 }}>
+        <h2 style={{ fontSize: "52px", fontWeight: 300, color: "#fff", marginBottom: "10px", letterSpacing: "0.02em", lineHeight: 1.1, textShadow: "0 0 40px rgba(255,255,255,0.15), 0 0 80px rgba(255,255,255,0.08)" }}>
           {app.name}
         </h2>
-        <p style={{ fontSize: "20px", color: "rgba(255,255,255,0.5)", marginBottom: "32px", letterSpacing: "0.05em" }}>
+        <p style={{ fontSize: "22px", color: "rgba(255,255,255,0.7)", marginBottom: "32px", letterSpacing: "0.05em", textShadow: "0 0 30px rgba(255,255,255,0.1)" }}>
           {app.tagline}
         </p>
-        <p style={{ fontSize: "17px", color: "rgba(255,255,255,0.75)", lineHeight: 1.8, marginBottom: "40px", maxWidth: "500px" }}>
+        <p style={{ fontSize: "19px", color: "rgba(255,255,255,0.9)", lineHeight: 1.85, marginBottom: "40px", maxWidth: "500px" }}>
           {app.description}
         </p>
         <div style={{ display: "flex", gap: "24px" }}>
