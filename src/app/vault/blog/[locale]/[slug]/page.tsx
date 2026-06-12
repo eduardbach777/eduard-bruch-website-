@@ -1,20 +1,16 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import {
   getArticle,
   getAllSlugs,
+  getLocaleConfig,
+  getLocaleUi,
   LOCALES,
 } from "../../_data";
 import type { Locale } from "../../_data";
 import type { Metadata } from "next";
-
-const labels: Record<string, { back: string; download: string }> = {
-  en: { back: "Back to Blog", download: "Download Stash Free" },
-  de: { back: "Zurück zum Blog", download: "Stash Kostenlos Laden" },
-  es: { back: "Volver al Blog", download: "Descargar Stash Gratis" },
-  ar: { back: "العودة إلى المدونة", download: "تحميل Stash مجاناً" },
-  fr: { back: "Retour au Blog", download: "Télécharger Stash Gratuit" },
-};
+import { getAppScreenshot, getAppStoreUrl } from "../../_data/store";
 
 const VALID_LOCALES = LOCALES.map((l) => l.code);
 
@@ -24,12 +20,14 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
   const { locale, slug } = await params;
-  const article = getArticle(locale as Locale, slug);
+  const typedLocale = locale as Locale;
+  const article = getArticle(typedLocale, slug);
 
   if (!article) {
     return { title: "Article Not Found" };
   }
 
+  const localeUi = getLocaleUi(typedLocale);
   const alternates: Record<string, string> = {};
   for (const loc of LOCALES) {
     const locArticle = getArticle(loc.code, slug);
@@ -38,12 +36,37 @@ export async function generateMetadata({
     }
   }
 
+  const canonical = `https://www.eduardbruch.com/vault/blog/${locale}/${slug}`;
+
   return {
     title: `${article.title} — Stash Blog`,
     description: article.description,
     alternates: {
+      canonical,
       languages: alternates,
     },
+    openGraph: {
+      type: "article",
+      url: canonical,
+      title: article.title,
+      description: article.description,
+      publishedTime: article.date,
+      images: [
+        {
+          url: getAppScreenshot(typedLocale),
+          alt: localeUi.screenshotAlt,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      images: [getAppScreenshot(typedLocale)],
+    },
+    keywords: article.primaryIntent
+      ? [article.primaryIntent, article.cluster ?? "private file vault", "Stash"]
+      : undefined,
   };
 }
 
@@ -79,13 +102,101 @@ export default async function ArticlePage({
     notFound();
   }
 
-  const l = labels[locale] ?? labels.en;
-  const isRtl = locale === "ar";
+  const typedLocale = locale as Locale;
+  const l = getLocaleUi(typedLocale);
+  const isRtl = getLocaleConfig(typedLocale).dir === "rtl";
+  const appStoreUrl = getAppStoreUrl(typedLocale);
+  const appScreenshot = getAppScreenshot(typedLocale);
 
   const availableLocales = LOCALES.filter((loc) => getArticle(loc.code, slug));
+  const relatedArticles = (article.relatedSlugs ?? [])
+    .map((relatedSlug) => getArticle(typedLocale, relatedSlug))
+    .filter((related): related is NonNullable<typeof related> => Boolean(related));
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.description,
+    datePublished: article.date,
+    dateModified: article.date,
+    inLanguage: locale,
+    mainEntityOfPage: `https://www.eduardbruch.com/vault/blog/${locale}/${slug}`,
+    image: `https://www.eduardbruch.com${appScreenshot}`,
+    author: {
+      "@type": "Person",
+      name: "Eduard Bruch",
+      url: "https://www.eduardbruch.com",
+    },
+    publisher: {
+      "@type": "Person",
+      name: "Eduard Bruch",
+    },
+  };
+  const appSchema = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "Stash: Secret File Vault",
+    applicationCategory: "UtilitiesApplication",
+    operatingSystem: "iOS",
+    downloadUrl: appStoreUrl,
+  };
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Stash Blog",
+        item: `https://www.eduardbruch.com/vault/blog/${locale}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: article.title,
+        item: `https://www.eduardbruch.com/vault/blog/${locale}/${slug}`,
+      },
+    ],
+  };
+  const faqSchema = article.faqs?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: article.faqs.map((faq) => ({
+          "@type": "Question",
+          name: faq.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: faq.answer,
+          },
+        })),
+      }
+    : null;
 
   return (
-    <main className="min-h-screen bg-neutral-950 text-white" dir={isRtl ? "rtl" : undefined}>
+    <main
+      className="min-h-screen bg-neutral-950 text-white"
+      dir={isRtl ? "rtl" : undefined}
+      lang={locale}
+    >
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(appSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {faqSchema ? (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      ) : null}
       {/* Top Bar */}
       <div className="px-6 pt-10 sm:pt-16 max-w-4xl mx-auto">
         <Link
@@ -142,6 +253,26 @@ export default async function ArticlePage({
         <div className="h-px bg-neutral-800" />
       </div>
 
+      {/* Linked localized app image */}
+      <section className="px-6 pt-12 sm:pt-16 max-w-4xl mx-auto">
+        <a
+          href={appStoreUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group block overflow-hidden rounded-3xl border border-neutral-800 bg-neutral-900"
+          aria-label={l.download}
+        >
+          <Image
+            src={appScreenshot}
+            alt={l.screenshotAlt}
+            width={1290}
+            height={2796}
+            priority
+            className="mx-auto h-auto max-h-[720px] w-auto transition duration-500 group-hover:scale-[1.01]"
+          />
+        </a>
+      </section>
+
       {/* Article Content */}
       <article className="px-6 py-12 sm:py-16 max-w-4xl mx-auto">
         <div
@@ -165,18 +296,58 @@ export default async function ArticlePage({
         />
       </article>
 
+      {relatedArticles.length > 0 ? (
+        <section className="px-6 pb-8 max-w-4xl mx-auto">
+          <div className="border-t border-neutral-800 pt-12">
+            <h2 className="text-2xl sm:text-3xl font-bold text-white">
+              {l.relatedTitle}
+            </h2>
+            <p className="mt-2 text-neutral-400">{l.relatedDescription}</p>
+            <div className="mt-6 grid gap-4 sm:grid-cols-3">
+              {relatedArticles.map((related) => (
+                <Link
+                  key={related.slug}
+                  href={`/vault/blog/${locale}/${related.slug}`}
+                  className="rounded-2xl border border-neutral-800 bg-neutral-900/60 p-5 transition hover:border-indigo-500/60 hover:bg-neutral-900"
+                >
+                  <h3 className="font-semibold leading-snug text-white">
+                    {related.title}
+                  </h3>
+                  <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-neutral-400">
+                    {related.description}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
+
       {/* CTA Banner */}
       <section className="px-6 py-16 max-w-4xl mx-auto">
-        <div className="rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-12 sm:px-14 text-center">
+        <div className="overflow-hidden rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-12 sm:px-14 text-center">
+          <a
+            href={appStoreUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={l.download}
+          >
+            <Image
+              src={appScreenshot}
+              alt={l.screenshotAlt}
+              width={1290}
+              height={2796}
+              className="mx-auto mb-8 h-64 w-auto rounded-2xl border border-white/10 object-cover object-top shadow-2xl"
+            />
+          </a>
           <h2 className="text-3xl sm:text-4xl font-bold text-white">
-            Try Stash for Free
+            {l.appTitle}
           </h2>
           <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
-            AES-256 encryption. 3 disguise modes. Decoy vault.
-            Intruder detection. No data leaves your device.
+            {l.appDescription}
           </p>
           <a
-            href="https://apps.apple.com/app/id6759871587"
+            href={appStoreUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"

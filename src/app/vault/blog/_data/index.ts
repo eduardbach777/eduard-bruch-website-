@@ -3,8 +3,11 @@ import { newDeArticles } from "./new-de";
 import { newEsArticles } from "./new-es";
 import { arArticles } from "./ar";
 import { frArticles } from "./fr";
+import { infidelityArticles } from "./infidelity";
+import { directInfidelityArticles } from "./direct-infidelity";
+import generatedDirectLocales from "./generated-direct-locales.json";
 
-export type Locale = "en" | "de" | "es" | "ar" | "fr";
+export type BaseLocale = "en" | "de" | "es" | "ar" | "fr";
 
 export interface Article {
   slug: string;
@@ -12,19 +15,86 @@ export interface Article {
   description: string;
   date: string;
   content: string; // HTML content
+  faqs?: { question: string; answer: string }[];
+  primaryIntent?: string;
+  cluster?: string;
+  relatedSlugs?: string[];
 }
 
 export interface ArticleSet {
   [slug: string]: Article;
 }
 
-export const LOCALES: { code: Locale; label: string; dir: "ltr" | "rtl" }[] = [
-  { code: "en", label: "English", dir: "ltr" },
-  { code: "de", label: "Deutsch", dir: "ltr" },
-  { code: "es", label: "Español", dir: "ltr" },
-  { code: "ar", label: "العربية", dir: "rtl" },
-  { code: "fr", label: "Français", dir: "ltr" },
-];
+export const LOCALES = [
+  { code: "en", label: "English", dir: "ltr", storefront: "us", screenshotLocale: "en-US" },
+  { code: "de", label: "Deutsch", dir: "ltr", storefront: "de", screenshotLocale: "de-DE" },
+  { code: "es", label: "Español", dir: "ltr", storefront: "es", screenshotLocale: "es-ES" },
+  { code: "ar", label: "العربية", dir: "rtl", storefront: "sa", screenshotLocale: "ar-SA" },
+  { code: "fr", label: "Français", dir: "ltr", storefront: "fr", screenshotLocale: "fr-FR" },
+  { code: "bn-BD", label: "বাংলা", dir: "ltr", storefront: "bd", screenshotLocale: "bn-BD" },
+  { code: "ca", label: "Català", dir: "ltr", storefront: "es", screenshotLocale: "ca" },
+  { code: "cs", label: "Čeština", dir: "ltr", storefront: "cz", screenshotLocale: "cs" },
+  { code: "da", label: "Dansk", dir: "ltr", storefront: "dk", screenshotLocale: "da" },
+  { code: "el", label: "Ελληνικά", dir: "ltr", storefront: "gr", screenshotLocale: "el" },
+  { code: "en-AU", label: "English (Australia)", dir: "ltr", storefront: "au", screenshotLocale: "en-AU" },
+  { code: "en-CA", label: "English (Canada)", dir: "ltr", storefront: "ca", screenshotLocale: "en-CA" },
+  { code: "en-GB", label: "English (UK)", dir: "ltr", storefront: "gb", screenshotLocale: "en-GB" },
+  { code: "es-MX", label: "Español (México)", dir: "ltr", storefront: "mx", screenshotLocale: "es-MX" },
+  { code: "fi", label: "Suomi", dir: "ltr", storefront: "fi", screenshotLocale: "fi" },
+  { code: "fr-CA", label: "Français (Canada)", dir: "ltr", storefront: "ca", screenshotLocale: "fr-CA" },
+  { code: "he", label: "עברית", dir: "rtl", storefront: "il", screenshotLocale: "he" },
+  { code: "hi", label: "हिन्दी", dir: "ltr", storefront: "in", screenshotLocale: "hi" },
+  { code: "hr", label: "Hrvatski", dir: "ltr", storefront: "hr", screenshotLocale: "hr" },
+  { code: "hu", label: "Magyar", dir: "ltr", storefront: "hu", screenshotLocale: "hu" },
+  { code: "id", label: "Bahasa Indonesia", dir: "ltr", storefront: "id", screenshotLocale: "id" },
+  { code: "it", label: "Italiano", dir: "ltr", storefront: "it", screenshotLocale: "it" },
+  { code: "ja", label: "日本語", dir: "ltr", storefront: "jp", screenshotLocale: "ja" },
+  { code: "kn-IN", label: "ಕನ್ನಡ", dir: "ltr", storefront: "in", screenshotLocale: "kn-IN" },
+  { code: "ko", label: "한국어", dir: "ltr", storefront: "kr", screenshotLocale: "ko" },
+  { code: "ml-IN", label: "മലയാളം", dir: "ltr", storefront: "in", screenshotLocale: "ml-IN" },
+  { code: "mr-IN", label: "मराठी", dir: "ltr", storefront: "in", screenshotLocale: "mr-IN" },
+  { code: "ms", label: "Bahasa Melayu", dir: "ltr", storefront: "my", screenshotLocale: "ms" },
+  { code: "nl-NL", label: "Nederlands", dir: "ltr", storefront: "nl", screenshotLocale: "nl-NL" },
+  { code: "no", label: "Norsk", dir: "ltr", storefront: "no", screenshotLocale: "no" },
+  { code: "or-IN", label: "ଓଡ଼ିଆ", dir: "ltr", storefront: "in", screenshotLocale: "or-IN" },
+  { code: "pa-IN", label: "ਪੰਜਾਬੀ", dir: "ltr", storefront: "in", screenshotLocale: "pa-IN" },
+  { code: "pl", label: "Polski", dir: "ltr", storefront: "pl", screenshotLocale: "pl" },
+  { code: "pt-BR", label: "Português (Brasil)", dir: "ltr", storefront: "br", screenshotLocale: "pt-BR" },
+  { code: "pt-PT", label: "Português (Portugal)", dir: "ltr", storefront: "pt", screenshotLocale: "pt-PT" },
+  { code: "ro", label: "Română", dir: "ltr", storefront: "ro", screenshotLocale: "ro" },
+  { code: "ru", label: "Русский", dir: "ltr", storefront: "ru", screenshotLocale: "ru" },
+  { code: "sk", label: "Slovenčina", dir: "ltr", storefront: "sk", screenshotLocale: "sk" },
+  { code: "sl-SI", label: "Slovenščina", dir: "ltr", storefront: "si", screenshotLocale: "sl-SI" },
+  { code: "sv", label: "Svenska", dir: "ltr", storefront: "se", screenshotLocale: "sv" },
+  { code: "ta-IN", label: "தமிழ்", dir: "ltr", storefront: "in", screenshotLocale: "ta-IN" },
+  { code: "te-IN", label: "తెలుగు", dir: "ltr", storefront: "in", screenshotLocale: "te-IN" },
+  { code: "th", label: "ไทย", dir: "ltr", storefront: "th", screenshotLocale: "th" },
+  { code: "tr", label: "Türkçe", dir: "ltr", storefront: "tr", screenshotLocale: "tr" },
+  { code: "uk", label: "Українська", dir: "ltr", storefront: "ua", screenshotLocale: "uk" },
+  { code: "ur-PK", label: "اردو", dir: "rtl", storefront: "pk", screenshotLocale: "ur-PK" },
+  { code: "vi", label: "Tiếng Việt", dir: "ltr", storefront: "vn", screenshotLocale: "vi" },
+  { code: "zh-Hans", label: "简体中文", dir: "ltr", storefront: "cn", screenshotLocale: "zh-Hans" },
+  { code: "zh-Hant", label: "繁體中文", dir: "ltr", storefront: "tw", screenshotLocale: "zh-Hant" },
+] as const;
+
+export type Locale = (typeof LOCALES)[number]["code"];
+
+export interface LocaleUi {
+  back: string;
+  download: string;
+  appTitle: string;
+  appDescription: string;
+  screenshotAlt: string;
+  relatedTitle: string;
+  relatedDescription: string;
+  tagline: string;
+  indexHeading: string;
+  indexSubtitle: string;
+  readMore: string;
+  indexCtaTitle: string;
+  indexCtaDescription: string;
+  indexCtaButton: string;
+}
 
 const enArticles: ArticleSet = {
   "calculator-vault-apps-explained": {
@@ -1562,9 +1632,19 @@ const deArticles: ArticleSet = {
   },
 };
 
-export const articles: Record<Locale, ArticleSet> = {
-  en: { ...enArticles, ...newEnArticles },
-  de: { ...deArticles, ...newDeArticles },
+const baseArticles: Record<BaseLocale, ArticleSet> = {
+  en: {
+    ...enArticles,
+    ...newEnArticles,
+    ...infidelityArticles.en,
+    ...directInfidelityArticles.en,
+  },
+  de: {
+    ...deArticles,
+    ...newDeArticles,
+    ...infidelityArticles.de,
+    ...directInfidelityArticles.de,
+  },
   es: {
     "calculator-vault-apps-explained": {
       slug: "calculator-vault-apps-explained",
@@ -2499,22 +2579,194 @@ export const articles: Record<Locale, ArticleSet> = {
 `,
     },
     ...newEsArticles,
+    ...infidelityArticles.es,
+    ...directInfidelityArticles.es,
   },
-  ar: arArticles,
-  fr: frArticles,
+  ar: {
+    ...arArticles,
+    ...infidelityArticles.ar,
+    ...directInfidelityArticles.ar,
+  },
+  fr: {
+    ...frArticles,
+    ...infidelityArticles.fr,
+    ...directInfidelityArticles.fr,
+  },
 };
+
+type GeneratedLocale = {
+  articles: ArticleSet;
+  ui: LocaleUi & Record<string, string>;
+};
+
+type GeneratedLocaleEntry = GeneratedLocale | { $copy: BaseLocale };
+
+const generatedLocales = generatedDirectLocales as Record<
+  string,
+  GeneratedLocaleEntry
+>;
+const directSlugs = new Set([
+  ...Object.keys(infidelityArticles.en),
+  ...Object.keys(directInfidelityArticles.en),
+]);
+
+function getDirectArticles(locale: BaseLocale): ArticleSet {
+  return Object.fromEntries(
+    Object.entries(baseArticles[locale]).filter(([slug]) =>
+      directSlugs.has(slug),
+    ),
+  );
+}
+
+export const articles = Object.fromEntries(
+  LOCALES.map(({ code }) => {
+    if (code in baseArticles) {
+      return [code, baseArticles[code as BaseLocale]];
+    }
+
+    const generated = generatedLocales[code];
+    if (!generated) {
+      return [code, {}];
+    }
+    if ("$copy" in generated) {
+      return [code, getDirectArticles(generated.$copy)];
+    }
+    return [code, generated.articles];
+  }),
+) as Record<Locale, ArticleSet>;
+
+const baseUi: Record<BaseLocale, LocaleUi> = {
+  en: {
+    back: "Back to Blog",
+    download: "Download Stash Free",
+    appTitle: "Protect Private Photos and Files",
+    appDescription:
+      "AES-256 encryption, three disguise modes, a decoy vault, and intruder records on your iPhone.",
+    screenshotAlt: "Stash encrypted private file vault on iPhone",
+    relatedTitle: "Related cheating and privacy guides",
+    relatedDescription: "Continue with the closest matching situation.",
+    tagline: "Stash - Secret File Vault",
+    indexHeading: "Cheating, Affair and Privacy Guides",
+    indexSubtitle:
+      "Direct guides for hiding affair photos, protecting secret relationship files, checking cloud exposure, and understanding what a vault cannot hide.",
+    readMore: "Read more",
+    indexCtaTitle: "Protect Private Affair Photos and Files",
+    indexCtaDescription:
+      "Encrypted local storage, calculator disguise, decoy vault, and intruder records.",
+    indexCtaButton: "Download Stash Free",
+  },
+  de: {
+    back: "Zurück zum Blog",
+    download: "Stash kostenlos laden",
+    appTitle: "Private Fotos und Dateien schützen",
+    appDescription:
+      "AES-256-Verschlüsselung, drei Tarnmodi, Köder-Tresor und Einbruchsprotokoll auf deinem iPhone.",
+    screenshotAlt: "Verschlüsselter Stash-Dateitresor auf dem iPhone",
+    relatedTitle: "Ähnliche Ratgeber zu Untreue und Privatsphäre",
+    relatedDescription: "Lies mit der passendsten Situation weiter.",
+    tagline: "Stash - Geheimer Dateitresor",
+    indexHeading: "Fremdgehen, Affären und Privatsphäre",
+    indexSubtitle:
+      "Direkte Ratgeber zu Affärenfotos, geheimen Beziehungsdateien, Cloud-Spuren und den Grenzen eines Tresors.",
+    readMore: "Weiterlesen",
+    indexCtaTitle: "Private Affärenfotos und Dateien schützen",
+    indexCtaDescription:
+      "Verschlüsselter lokaler Speicher, Taschenrechner-Tarnung, Köder-Tresor und Einbruchsprotokoll.",
+    indexCtaButton: "Stash kostenlos laden",
+  },
+  es: {
+    back: "Volver al blog",
+    download: "Descargar Stash gratis",
+    appTitle: "Protege fotos y archivos privados",
+    appDescription:
+      "Cifrado AES-256, tres modos de disfraz, bóveda señuelo y registro de intrusos en tu iPhone.",
+    screenshotAlt: "Bóveda cifrada Stash para archivos privados en iPhone",
+    relatedTitle: "Guías relacionadas sobre infidelidad y privacidad",
+    relatedDescription: "Continúa con la situación más cercana.",
+    tagline: "Stash - Bóveda secreta de archivos",
+    indexHeading: "Guías de infidelidad, aventuras y privacidad",
+    indexSubtitle:
+      "Guías directas para ocultar fotos de una aventura, proteger archivos de relaciones secretas y comprobar rastros en la nube.",
+    readMore: "Leer más",
+    indexCtaTitle: "Protege fotos y archivos privados de una aventura",
+    indexCtaDescription:
+      "Almacenamiento local cifrado, disfraz de calculadora, bóveda señuelo y registro de intrusos.",
+    indexCtaButton: "Descargar Stash gratis",
+  },
+  ar: {
+    back: "العودة إلى المدونة",
+    download: "تحميل Stash مجاناً",
+    appTitle: "احمِ الصور والملفات الخاصة",
+    appDescription:
+      "تشفير AES-256 وثلاثة أوضاع تمويه وخزنة وهمية وسجل للمتطفلين على iPhone.",
+    screenshotAlt: "خزنة Stash المشفرة للملفات الخاصة على iPhone",
+    relatedTitle: "أدلة مرتبطة بالخيانة والخصوصية",
+    relatedDescription: "تابع مع الحالة الأقرب إلى وضعك.",
+    tagline: "Stash - خزنة الملفات السرية",
+    indexHeading: "أدلة الخيانة والعلاقات والخصوصية",
+    indexSubtitle:
+      "أدلة مباشرة لحماية صور العلاقات السرية وملفاتها وفحص آثار السحابة وفهم حدود الخزنة.",
+    readMore: "اقرأ المزيد",
+    indexCtaTitle: "احمِ صور وملفات العلاقات الخاصة",
+    indexCtaDescription:
+      "تخزين محلي مشفر وتمويه آلة حاسبة وخزنة وهمية وسجل للمتطفلين.",
+    indexCtaButton: "تحميل Stash مجاناً",
+  },
+  fr: {
+    back: "Retour au blog",
+    download: "Télécharger Stash gratuitement",
+    appTitle: "Protégez vos photos et fichiers privés",
+    appDescription:
+      "Chiffrement AES-256, trois déguisements, coffre leurre et journal d'intrusion sur iPhone.",
+    screenshotAlt: "Coffre chiffré Stash pour fichiers privés sur iPhone",
+    relatedTitle: "Guides liés à l'infidélité et à la confidentialité",
+    relatedDescription: "Continuez avec la situation la plus proche.",
+    tagline: "Stash - Coffre-fort secret",
+    indexHeading: "Guides sur l'infidélité, les liaisons et la confidentialité",
+    indexSubtitle:
+      "Des guides directs pour protéger les photos de liaison, les fichiers de relations secrètes et vérifier les traces cloud.",
+    readMore: "Lire la suite",
+    indexCtaTitle: "Protégez les photos et fichiers privés d'une liaison",
+    indexCtaDescription:
+      "Stockage local chiffré, déguisement calculatrice, coffre leurre et journal d'intrusion.",
+    indexCtaButton: "Télécharger Stash gratuitement",
+  },
+};
+
+export function getLocaleConfig(locale: Locale) {
+  return LOCALES.find((candidate) => candidate.code === locale) ?? LOCALES[0];
+}
+
+export function getLocaleUi(locale: Locale): LocaleUi {
+  if (locale in baseUi) {
+    return baseUi[locale as BaseLocale];
+  }
+
+  const generated = generatedLocales[locale];
+  if (generated && "$copy" in generated) {
+    return baseUi[generated.$copy];
+  }
+  return generated && "ui" in generated ? generated.ui : baseUi.en;
+}
+
+const REDIRECTED_SLUGS = new Set(["best-apps-to-hide-photos-2026"]);
 
 export function getArticle(
   locale: Locale,
   slug: string,
 ): Article | undefined {
+  if (REDIRECTED_SLUGS.has(slug)) {
+    return undefined;
+  }
   return articles[locale]?.[slug];
 }
 
 export function getAllArticles(locale: Locale): Article[] {
-  return Object.values(articles[locale] || articles.en);
+  return Object.values(articles[locale] || articles.en)
+    .filter((article) => !REDIRECTED_SLUGS.has(article.slug))
+    .sort((a, b) => b.date.localeCompare(a.date));
 }
 
 export function getAllSlugs(): string[] {
-  return Object.keys(articles.en);
+  return Object.keys(articles.en).filter((slug) => !REDIRECTED_SLUGS.has(slug));
 }

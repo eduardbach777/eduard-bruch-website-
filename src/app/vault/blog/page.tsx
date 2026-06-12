@@ -1,6 +1,8 @@
 import Link from "next/link";
-import { getAllArticles } from "./_data";
+import Image from "next/image";
+import { getAllArticles, LOCALES } from "./_data";
 import type { Metadata } from "next";
+import { getAppScreenshot, getAppStoreUrl } from "./_data/store";
 
 export const metadata: Metadata = {
   title: "Stash Blog — Secret Photo Vault App, Calculator Vault, Hide Photos iPhone",
@@ -20,16 +22,10 @@ export const metadata: Metadata = {
   ],
 };
 
-const LOCALES = [
-  { code: "en", label: "English" },
-  { code: "de", label: "Deutsch" },
-  { code: "es", label: "Español" },
-  { code: "ar", label: "العربية" },
-  { code: "fr", label: "Français" },
-];
-
 export default function BlogIndexPage() {
   const articles = getAllArticles("en");
+  const appStoreUrl = getAppStoreUrl("en");
+  const appScreenshot = getAppScreenshot("en");
 
   return (
     <main className="min-h-screen bg-neutral-950 text-white">
@@ -102,6 +98,20 @@ export default function BlogIndexPage() {
       {/* CTA */}
       <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto text-center">
         <div className="rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-14 sm:px-16">
+          <a
+            href={appStoreUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Download Stash Free"
+          >
+            <Image
+              src={appScreenshot}
+              alt="Stash encrypted private file vault on iPhone"
+              width={1290}
+              height={2796}
+              className="mx-auto mb-8 h-72 w-auto rounded-2xl border border-white/10 object-cover object-top shadow-2xl"
+            />
+          </a>
           <h2 className="text-3xl sm:text-4xl font-bold text-white">
             Hide Photos, Videos & Files
           </h2>
@@ -110,7 +120,7 @@ export default function BlogIndexPage() {
             Everything stays on your device.
           </p>
           <a
-            href="https://apps.apple.com/app/id6759871587"
+            href={appStoreUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"

@@ -1,6 +1,16 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  async redirects() {
+    return [
+      {
+        source: "/vault/blog/:locale/best-apps-to-hide-photos-2026",
+        destination:
+          "/vault/blog/:locale/best-secret-photo-vault-apps-iphone",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

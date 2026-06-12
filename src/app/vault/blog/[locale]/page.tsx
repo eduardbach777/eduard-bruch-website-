@@ -1,77 +1,15 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getAllArticles, LOCALES } from "../_data";
+import {
+  getAllArticles,
+  getLocaleConfig,
+  getLocaleUi,
+  LOCALES,
+} from "../_data";
 import type { Locale } from "../_data";
 import type { Metadata } from "next";
-
-const labels: Record<
-  string,
-  {
-    tagline: string;
-    heading: string;
-    subtitle: string;
-    readMore: string;
-    ctaTitle: string;
-    ctaDesc: string;
-    ctaButton: string;
-  }
-> = {
-  en: {
-    tagline: "Stash — Secret File Vault",
-    heading: "Privacy Guides &\nSecurity Tips",
-    subtitle:
-      "How to hide photos, protect files, and keep your digital life private. Guides for calculator vault apps, decoy passwords, break-in alerts, and more.",
-    readMore: "Read more",
-    ctaTitle: "Hide Photos, Videos & Files",
-    ctaDesc:
-      "AES-256 encryption. Calculator disguise. Decoy vault. Intruder detection. Everything stays on your device.",
-    ctaButton: "Download Stash Free",
-  },
-  de: {
-    tagline: "Stash — Geheimer Foto Tresor",
-    heading: "Datenschutz-Tipps &\nSicherheitsratgeber",
-    subtitle:
-      "Fotos verstecken, Dateien schützen, digitale Privatsphäre wahren. Ratgeber zu Taschenrechner-Tresoren, Tarn-Passwörtern, Einbruchswarnungen und mehr.",
-    readMore: "Weiterlesen",
-    ctaTitle: "Fotos, Videos & Dateien Verstecken",
-    ctaDesc:
-      "AES-256-Verschlüsselung. Taschenrechner-Tarnung. Tarn-Tresor. Einbruchserkennung. Alles bleibt auf deinem Gerät.",
-    ctaButton: "Stash Kostenlos Laden",
-  },
-  es: {
-    tagline: "Stash — Bóveda Secreta de Archivos",
-    heading: "Guías de Privacidad &\nConsejos de Seguridad",
-    subtitle:
-      "Cómo ocultar fotos, proteger archivos y mantener tu vida digital privada. Guías sobre apps de calculadora secreta, contraseñas señuelo, alertas de intrusos y más.",
-    readMore: "Leer más",
-    ctaTitle: "Oculta Fotos, Videos y Archivos",
-    ctaDesc:
-      "Cifrado AES-256. Disfraz de calculadora. Bóveda señuelo. Detección de intrusos. Todo permanece en tu dispositivo.",
-    ctaButton: "Descargar Stash Gratis",
-  },
-  ar: {
-    tagline: "Stash — خزنة الملفات السرية",
-    heading: "أدلة الخصوصية و\nنصائح الأمان",
-    subtitle:
-      "كيفية إخفاء الصور وحماية الملفات والحفاظ على خصوصية حياتك الرقمية. أدلة حول تطبيقات الآلة الحاسبة السرية وكلمات المرور الوهمية وتنبيهات الاختراق والمزيد.",
-    readMore: "اقرأ المزيد",
-    ctaTitle: "إخفاء الصور والفيديوهات والملفات",
-    ctaDesc:
-      "تشفير AES-256. تمويه الآلة الحاسبة. خزنة وهمية. كشف المتطفلين. كل شيء يبقى على جهازك.",
-    ctaButton: "تحميل Stash مجاناً",
-  },
-  fr: {
-    tagline: "Stash — Coffre-Fort Secret",
-    heading: "Guides de\nConfidentialité",
-    subtitle:
-      "Comment cacher des photos, protéger des fichiers et garder votre vie numérique privée. Guides sur les apps calculatrice coffre-fort, mots de passe leurres, alertes d'intrusion et plus.",
-    readMore: "Lire la suite",
-    ctaTitle: "Cachez Photos, Vidéos & Fichiers",
-    ctaDesc:
-      "Chiffrement AES-256. Déguisement calculatrice. Coffre leurre. Détection d'intrus. Tout reste sur votre appareil.",
-    ctaButton: "Télécharger Stash Gratuit",
-  },
-};
+import { getAppScreenshot, getAppStoreUrl } from "../_data/store";
 
 const VALID_LOCALES = LOCALES.map((l) => l.code);
 
@@ -81,10 +19,10 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const l = labels[locale] ?? labels.en;
+  const l = getLocaleUi(locale as Locale);
   return {
-    title: `${l.tagline} Blog — ${l.heading.replace("\n", " ")}`,
-    description: l.subtitle,
+    title: `${l.tagline} Blog - ${l.indexHeading}`,
+    description: l.indexSubtitle,
   };
 }
 
@@ -108,21 +46,28 @@ export default async function LocaleBlogPage({
     articles = getAllArticles("en");
   }
 
-  const l = labels[locale] ?? labels.en;
-  const isRtl = locale === "ar";
+  const typedLocale = locale as Locale;
+  const l = getLocaleUi(typedLocale);
+  const isRtl = getLocaleConfig(typedLocale).dir === "rtl";
+  const appStoreUrl = getAppStoreUrl(typedLocale);
+  const appScreenshot = getAppScreenshot(typedLocale);
 
   return (
-    <main className="min-h-screen bg-neutral-950 text-white" dir={isRtl ? "rtl" : undefined}>
+    <main
+      className="min-h-screen bg-neutral-950 text-white"
+      dir={isRtl ? "rtl" : undefined}
+      lang={locale}
+    >
       {/* Hero */}
       <section className="px-6 pt-20 pb-16 sm:pt-28 sm:pb-20 max-w-6xl mx-auto">
         <p className="text-sm font-semibold uppercase tracking-widest text-indigo-400 mb-4">
           {l.tagline}
         </p>
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-[1.05] tracking-tight max-w-4xl whitespace-pre-line">
-          {l.heading}
+          {l.indexHeading}
         </h1>
         <p className="mt-6 text-xl sm:text-2xl text-neutral-300 font-light max-w-2xl leading-relaxed">
-          {l.subtitle}
+          {l.indexSubtitle}
         </p>
 
         {/* Language Switcher */}
@@ -180,19 +125,33 @@ export default async function LocaleBlogPage({
       {/* CTA */}
       <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto text-center">
         <div className="rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-14 sm:px-16">
+          <a
+            href={appStoreUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={l.indexCtaButton}
+          >
+            <Image
+              src={appScreenshot}
+              alt={l.screenshotAlt}
+              width={1290}
+              height={2796}
+              className="mx-auto mb-8 h-72 w-auto rounded-2xl border border-white/10 object-cover object-top shadow-2xl"
+            />
+          </a>
           <h2 className="text-3xl sm:text-4xl font-bold text-white">
-            {l.ctaTitle}
+            {l.indexCtaTitle}
           </h2>
           <p className="mt-4 text-lg text-neutral-300 max-w-lg mx-auto">
-            {l.ctaDesc}
+            {l.indexCtaDescription}
           </p>
           <a
-            href="https://apps.apple.com/app/id6759871587"
+            href={appStoreUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"
           >
-            {l.ctaButton}
+            {l.indexCtaButton}
           </a>
         </div>
       </section>
