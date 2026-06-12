@@ -11,7 +11,7 @@ const navLinks = [
   { href: "/creative", key: "software" as const },
   { href: "/pdfcreator/blog", key: "pdfScanner" as const },
   { href: "/pulse/blog", key: "pulseApp" as const },
-  { href: "/sounddial/blog", key: "soundDial" as const },
+  { href: "/sounddial/blog/en", key: "soundDial" as const },
   { href: "/vault/blog", key: "stashVault" as const },
   { href: "/contact", key: "contact" as const },
 ];

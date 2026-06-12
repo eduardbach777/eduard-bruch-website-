@@ -2,7 +2,7 @@ import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index
 import { getAllArticles as getPdfArticles, type Locale as PdfLocale } from "@/app/pdfcreator/blog/_data/index";
 import { getContent as getPulseContent } from "@/app/pulse/_data/content";
 import { getAllArticles as getPulseArticles, type Locale as PulseLocale } from "@/app/pulse/blog/_data/index";
-import { getAllArticles as getSoundDialArticles } from "@/app/sounddial/blog/_data";
+import { getAllArticles as getSoundDialArticles } from "@/app/sounddial/blog/_data/index";
 
 export interface ArticleCard {
   title: string;
@@ -182,16 +182,14 @@ export function getHubLabels(locale: string): HubLabels {
 export function getAppSections(locale: string): AppSection[] {
   const l = getHubLabels(locale);
 
-  // SoundDial: English-only for now — only shown on the English hub.
+  // SoundDial: show articles in the current locale (falls back to English).
   const soundDialArticles: ArticleCard[] =
-    locale === "en"
-      ? getSoundDialArticles().map((a) => ({
-          title: a.title,
-          description: a.description,
-          href: `/sounddial/blog/${a.slug}`,
-          date: a.date,
-        }))
-      : [];
+    getSoundDialArticles("en").map((a) => ({
+      title: a.title,
+      description: a.description,
+      href: `/sounddial/blog/${locale}/${a.slug}`,
+      date: a.date,
+    }));
 
   // Vault: only 5 locales — fall back to English for others
   const vaultLocale = VAULT_LOCALES.includes(locale) ? locale : "en";

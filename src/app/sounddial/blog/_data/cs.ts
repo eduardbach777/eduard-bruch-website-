@@ -1,24 +1,13 @@
-// SoundDial blog. English-only for now — structured the same way as the
-// per-app blogs so more languages can be layered in later without a
-// rewrite.
+import type { ArticleSet } from "./index";
 
-export interface Article {
-  slug: string;
-  title: string;
-  description: string;
-  date: string;
-  readTime: string;
-  content: string; // HTML
-}
-
-export const articles: Record<string, Article> = {
+export const csArticles: ArticleSet = {
   "mac-audio-podcasting-setup": {
     slug: "mac-audio-podcasting-setup",
     title: "Mac Audio for Podcasting: Control What You Hear While Recording",
     description:
       "Recording a podcast while monitoring levels, hearing your guest, and managing notifications — all competing for one volume slider. Here's a better setup.",
     date: "2026-03-05",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're recording a podcast on your Mac. You need to hear your guest (via Zoom, Riverside, or SquadCast) clearly. You need to monitor your DAW's recording levels. You need Slack muted so no pings end up in the recording. And you need system notification sounds completely silenced — a macOS "ding" in the middle of an interview is unusable audio.</p>
 
@@ -85,7 +74,7 @@ export const articles: Record<string, Article> = {
     description:
       "MacBook Pro speakers are great — until they're blasting. If even moderate volume settings feel too loud, here's how to get more precise audio control.",
     date: "2026-03-08",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>Apple's newer MacBook Pro models (14" and 16") have remarkably powerful speakers for a laptop. So powerful that moderate volume levels can be genuinely loud — especially in a quiet room, late at night, or with headphones. The gap between "comfortable" and "too much" is sometimes just one or two volume steps.</p>
 
@@ -130,7 +119,7 @@ export const articles: Record<string, Article> = {
     description:
       "Slack huddles compete with your music and notifications for the same volume. Here's how to control huddle audio independently from everything else on Mac.",
     date: "2026-03-10",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Slack huddles are convenient — you click a button and you're in a voice call without scheduling a meeting. But the audio is a mess. The huddle is at the same volume as your Spotify. Slack notification sounds ping at the same level as the call. And when someone shares music or a screen with audio in the huddle, it's either inaudible or deafening.</p>
 
@@ -187,7 +176,7 @@ export const articles: Record<string, Article> = {
     description:
       "New apps launch at full volume by default. Here's how to make every new app start at a comfortable level — so nothing catches you off guard.",
     date: "2026-03-12",
-    readTime: "3 min read",
+    readTime: "3 min čtení",
     content: `
 <p>You install a new app. It launches for the first time. It immediately plays audio — an intro sound, a notification, a tutorial video — at full system volume. You weren't expecting it. Your headphones are on. Your ears ring.</p>
 
@@ -230,7 +219,7 @@ export const articles: Record<string, Article> = {
     description:
       "The Mac startup chime blasts at full volume every time you restart — especially awkward in meetings and quiet rooms. Here's how to silence or control it.",
     date: "2026-03-15",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>You restart your Mac in a quiet office. The meeting room is dead silent. Then — <em>BONG</em> — the startup chime blasts at full volume. Everyone looks at you. The chime is iconic, but it's also uncontrollable and often embarrassingly loud.</p>
 
@@ -275,7 +264,7 @@ export const articles: Record<string, Article> = {
     description:
       "Webex calls are barely audible on your Mac. Here's every fix — from Webex audio settings to boosting call volume past 100% with a per-app mixer.",
     date: "2026-03-18",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Webex is one of the most used video conferencing tools in corporate environments — and one of the most complained about for audio quality on Mac. Low call volume, muffled voices, and audio that seems quieter than Zoom or Teams at the same system volume. If you can barely hear your Webex calls, you're not alone.</p>
 
@@ -328,7 +317,7 @@ export const articles: Record<string, Article> = {
     description:
       "Music and a podcast. A lecture and notes video. A call and background music. macOS makes you choose one volume for both — here's how to balance them.",
     date: "2026-03-20",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>You want to listen to two audio sources at the same time. Music while on a call. A podcast while watching a tutorial. Background ambiance while studying. Two things, two different ideal volumes. macOS gives you one slider for both.</p>
 
@@ -388,7 +377,7 @@ export const articles: Record<string, Article> = {
     description:
       "Dialog is inaudible, then explosions shake the walls. Here's how to tame movie audio for late-night watching on Mac — without missing a word.",
     date: "2026-03-22",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>It's 1 AM. You're watching a movie on your MacBook in bed. The characters are whispering — you turn the volume up. Then a car chase starts and suddenly your entire apartment can hear it. You lunge for the volume key. This cycle repeats for two hours.</p>
 
@@ -446,7 +435,7 @@ export const articles: Record<string, Article> = {
     description:
       "Every time your Mac wakes from sleep, the volume is wrong — reset to max, dropped to zero, or switched to the wrong output. Here's why and how to fix it.",
     date: "2026-03-25",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You close your MacBook lid. You open it later. The volume is different. Maybe it's at maximum when you had it at 40%. Maybe it switched from headphones to speakers. Maybe it's at zero. It was fine before sleep — now it's wrong.</p>
 
@@ -504,7 +493,7 @@ export const articles: Record<string, Article> = {
     description:
       "Using Logic Pro or Ableton while on a Discord call? Here's how to hear your DAW at full fidelity while keeping voice chat at a comfortable level.",
     date: "2026-03-28",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're producing music in Logic Pro (or Ableton, or FL Studio). You're also on Discord with a collaborator. The problem: your DAW output and Discord are fighting for the same volume level. Turn up Logic to hear your mix clearly and Discord is blasting in your ears. Turn down for Discord and your mix is too quiet to evaluate properly.</p>
 
@@ -559,7 +548,7 @@ export const articles: Record<string, Article> = {
     description:
       "Apple Music at max volume on your Mac but still too quiet? Check Sound Check, EQ settings, and learn how to boost Apple Music past 100%.",
     date: "2026-03-30",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Apple Music is at full volume. Your Mac is at full volume. A song you know should be loud is barely audible. Meanwhile, switching to Spotify — same song, same volume — it's noticeably louder. What's going on?</p>
 
@@ -610,7 +599,7 @@ export const articles: Record<string, Article> = {
     description:
       "Looking for a free per-app volume mixer for Mac? Here's an honest breakdown of what free options offer, what they're missing, and when it's worth paying.",
     date: "2026-04-03",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>If you search for "free volume mixer for Mac," you'll find one main result: <strong>Background Music</strong>. It's the only notable free, open-source per-app volume control app for macOS. Let's look at what you actually get — and what you give up.</p>
 
@@ -688,7 +677,7 @@ export const articles: Record<string, Article> = {
     description:
       "Music is too loud over Discord. Or the call is too quiet under Spotify. macOS doesn't let you balance them — here's how to set the perfect ratio.",
     date: "2026-04-05",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>You want to listen to music while talking to friends on Discord (or Zoom, or FaceTime). The music needs to be present but not overpowering. The voice chat needs to be clear and dominant. Simple request. macOS makes it impossible.</p>
 
@@ -739,7 +728,7 @@ export const articles: Record<string, Article> = {
     description:
       "Everything you need to know about controlling audio on macOS — from basic keyboard shortcuts to per-app volume, output switching, and automation.",
     date: "2026-06-12",
-    readTime: "12 min read",
+    readTime: "12 min čtení",
     content: `
 <p>macOS gives you a volume slider and a mute button. That's the extent of Apple's built-in audio control. But your Mac actually has far more audio capabilities than the surface suggests — hidden keyboard shortcuts, per-app volume tools, output device management, and automation features that most users never discover.</p>
 
@@ -842,7 +831,7 @@ export const articles: Record<string, Article> = {
     description:
       "VLC at max volume but a video is still too quiet? VLC has a built-in 200% boost — plus you can go even further with a per-app volume mixer.",
     date: "2026-04-08",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>You're watching a video in VLC. The dialog is quiet. You turn VLC's volume all the way up. You turn your Mac's volume all the way up. Still can't hear properly. The video was just recorded too quietly.</p>
 
@@ -889,7 +878,7 @@ export const articles: Record<string, Article> = {
     description:
       "macOS or your apps keep lowering your music during calls without asking. Here's how to stop unwanted audio ducking — or replace it with ducking you actually control.",
     date: "2026-04-10",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You join a Zoom call. Your music drops to almost nothing. You didn't touch any volume control — something did it for you. This is <strong>audio ducking</strong>: the automatic lowering of background audio when a call or important audio source is active.</p>
 
@@ -948,7 +937,7 @@ export const articles: Record<string, Article> = {
     description:
       "Your Bluetooth headphones work fine on your phone but sound quiet on Mac. Here's every cause — from codec issues to macOS volume limits — and how to fix each one.",
     date: "2026-04-12",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>Your Bluetooth headphones are plenty loud on your phone. You connect them to your Mac — and everything is quieter. Music sounds muffled. Calls are hard to hear. You've maxed the volume but it's still not enough. What gives?</p>
 
@@ -1011,7 +1000,7 @@ export const articles: Record<string, Article> = {
     description:
       "Streaming on Mac with OBS? Your viewers hear everything at the same volume — game, music, alerts, Discord. Here's how to balance audio sources properly.",
     date: "2026-04-15",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>You're streaming on your Mac with OBS. Your game audio is blasting. Your Discord call is running. Spotify is playing background music. Alert sounds fire when someone subscribes. Your viewers hear all of this at the same volume — a chaotic mess where Discord callouts compete with explosions and the music drowns out your commentary.</p>
 
@@ -1072,7 +1061,7 @@ export const articles: Record<string, Article> = {
     description:
       "Every time you restart Spotify or relaunch Zoom, you have to re-adjust the volume. Here's how to make macOS remember each app's volume level automatically.",
     date: "2026-04-18",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>You spend five minutes getting your audio levels perfect. Spotify at 30%, Zoom at 100%, Slack at 15%. Then you restart your Mac. Or Slack crashes and relaunches. Or you close Spotify and reopen it later. Every app resets to its default volume. You re-adjust everything. Again.</p>
 
@@ -1125,7 +1114,7 @@ export const articles: Record<string, Article> = {
     description:
       "Some podcasts are whisper-quiet on Mac even at max volume. Here's why — and how to boost podcast audio past 100% without affecting other apps.",
     date: "2026-04-20",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're listening to a podcast on your Mac. The host sounds fine, but the guest — recording from a laptop mic in their kitchen — is barely audible. You crank the volume to 100%. The host is now too loud, but the guest is still quiet. There's no way to win because the problem is in the recording, not your Mac.</p>
 
@@ -1176,7 +1165,7 @@ export const articles: Record<string, Article> = {
     description:
       "Watching a lecture while taking notes, Googling references, and chatting classmates — all at different volumes. Here's how to manage student audio on Mac.",
     date: "2026-04-22",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're a student attending an online lecture on Zoom. You have a YouTube tutorial open in another tab for reference. Your classmates are chatting on Discord. Spotify is playing lo-fi beats in the background. Your Mac treats all of these as one volume. Turn down the lo-fi and you can't hear your professor. Turn up the lecture and the Discord pings shatter your concentration.</p>
 
@@ -1239,7 +1228,7 @@ export const articles: Record<string, Article> = {
     description:
       "You updated macOS and now your sound is gone, crackling, or stuck at the wrong volume. Here's every fix to get your Mac audio working again.",
     date: "2026-04-25",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>You updated macOS. Everything seemed fine — until you noticed there's no sound. Or sound is crackling. Or the volume is stuck. Or your audio output device is gone. Post-update audio issues happen with nearly every macOS release, and they range from mildly annoying to completely silent.</p>
 
@@ -1315,7 +1304,7 @@ export const articles: Record<string, Article> = {
     description:
       "Need instant silence? The mute key mutes everything — but unmuting resets your carefully balanced volumes. Here's a better way to mute and restore on Mac.",
     date: "2026-04-28",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>Someone walks into the room. Your boss calls unexpectedly. A client shares their screen on a call and your music starts playing through their speakers. You need instant silence. Right now.</p>
 
@@ -1373,7 +1362,7 @@ export const articles: Record<string, Article> = {
     description:
       "Voices on Google Meet are barely audible even at max volume. Here's why Meet runs through Chrome, what that means for audio, and how to boost it.",
     date: "2026-05-01",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Google Meet doesn't have a native Mac app — it runs inside your browser. This means Meet's audio is part of Chrome's (or Safari's) audio stream, and any volume issues are tangled up with how your browser handles audio. Let's untangle it.</p>
 
@@ -1424,7 +1413,7 @@ export const articles: Record<string, Article> = {
     description:
       "macOS has a hidden alert volume slider, but it only covers system sounds. Here's how to truly separate notification and media volume on Mac.",
     date: "2026-05-02",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Your music is at a perfect level. Then a macOS alert sound fires — the "Funk" or "Tink" sound effect — and it's painfully loud compared to your music. Or the opposite: your alerts are inaudible because your system volume is low for quiet background music.</p>
 
@@ -1496,7 +1485,7 @@ export const articles: Record<string, Article> = {
     description:
       "FaceTime audio is barely audible on your Mac even at full volume. Here's every fix — from sound settings to boosting FaceTime past 100%.",
     date: "2026-05-04",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>FaceTime calls on your iPhone are fine. But on your Mac, the other person sounds like they're whispering from three rooms away. Volume is maxed. You've checked everything you can think of. Still too quiet.</p>
 
@@ -1547,7 +1536,7 @@ export const articles: Record<string, Article> = {
     description:
       "Beyond the basic volume keys — fine-grained control, muting specific apps, and per-app volume shortcuts. Every Mac audio keyboard trick explained.",
     date: "2026-05-06",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Every Mac user knows the volume up/down/mute keys. Press them and the system volume changes. But macOS has several hidden keyboard tricks for audio control that most people never discover — plus third-party shortcuts that make volume management dramatically faster.</p>
 
@@ -1613,7 +1602,7 @@ export const articles: Record<string, Article> = {
     description:
       "The free Background Music app stopped working after a macOS update? Here's why it breaks, what to do, and the best alternatives that actually work in 2026.",
     date: "2026-06-08",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Background Music is a popular free, open-source Mac app that gives you basic per-app volume control. It works by installing a virtual audio device and routing all audio through it. The problem: it breaks. Regularly.</p>
 
@@ -1677,7 +1666,7 @@ export const articles: Record<string, Article> = {
     description:
       "SoundSource is powerful but expensive and complex. If you just need per-app volume control without the audio engineering toolkit, here's what to use instead.",
     date: "2026-06-06",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>SoundSource by Rogue Amoeba is the longest-running per-app volume control app for Mac. It's powerful, well-made, and comes with features like per-app EQ, audio effect chains, and per-app output routing. It's also $39, requires a system audio driver (ACE), and has more features than most people will ever use.</p>
 
@@ -1794,7 +1783,7 @@ export const articles: Record<string, Article> = {
     description:
       "Even at the lowest volume notch, your Mac is too loud — especially late at night with headphones. Here's how to get finer volume control and go below the minimum.",
     date: "2026-05-08",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>It's midnight. You're wearing headphones. You press the volume-down key until you're at the lowest notch — one bar. It's still too loud. The next press is mute. There's nothing in between. You want volume at 3% but macOS jumps from ~6% to 0%.</p>
 
@@ -1842,7 +1831,7 @@ export const articles: Record<string, Article> = {
     description:
       "The left AirPod is quieter than the right (or vice versa). Here's every cause — from earwax to macOS balance settings — and how to fix it.",
     date: "2026-05-10",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>One AirPod sounds fine. The other is noticeably quieter. Music feels off-center. Voices sound like they're coming from one side. This is one of the most common AirPods complaints, and it usually has a simple fix.</p>
 
@@ -1921,7 +1910,7 @@ export const articles: Record<string, Article> = {
     description:
       "Dialog is whisper-quiet, then an explosion shakes the room. Here's how to fix streaming audio levels on Mac — and boost quiet content past 100%.",
     date: "2026-05-17",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're watching a movie on Netflix. Two characters are having a conversation — you can barely hear them. You turn up the volume. An action scene starts. The explosions are deafening. You scramble for the volume key. This is the most common complaint about streaming audio, and it's worse on Mac's built-in speakers.</p>
 
@@ -1980,7 +1969,7 @@ export const articles: Record<string, Article> = {
     description:
       "Calls, music, notifications, and focus time — all on one Mac. Here's how to set up your audio so nothing fights for your attention.",
     date: "2026-05-12",
-    readTime: "8 min read",
+    readTime: "8 min čtení",
     content: `
 <p>Remote work on a Mac means your computer is simultaneously your office phone, your radio, your notification center, and your deep work station. These are four fundamentally different audio modes, and macOS treats them all the same: one volume slider, everything at the same level, no way to prioritize.</p>
 
@@ -2091,7 +2080,7 @@ export const articles: Record<string, Article> = {
     description:
       "A background tab starts playing audio out of nowhere. Ads, videos, news sites — here's how to silence rogue tabs and control browser audio on macOS.",
     date: "2026-05-14",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You have twenty tabs open. You're working in one of them. Suddenly — audio starts playing from somewhere. A video ad. An auto-playing news clip. A tab you opened an hour ago that decided now is the time to start making noise. You scramble to find which tab it is, clicking through them one by one.</p>
 
@@ -2150,7 +2139,7 @@ export const articles: Record<string, Article> = {
     description:
       "Discord is blasting over your game, or too quiet to hear teammates. Here's how to control Discord's volume independently from everything else on macOS.",
     date: "2026-05-21",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Discord has two volume problems on Mac. Either it's too loud — notification sounds blast over your game and music — or it's too quiet — you can't hear your teammates over the game audio. The problem is that macOS doesn't let you adjust Discord's volume independently. It's locked to the same system slider as everything else.</p>
 
@@ -2215,7 +2204,7 @@ export const articles: Record<string, Article> = {
     description:
       "Switching between speakers, headphones, and monitors on Mac takes too many clicks. Here are faster ways to change your audio output device instantly.",
     date: "2026-05-19",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You unplug your headphones and want audio to go to your speakers. Or you connect AirPods and macOS picks the wrong device. Or you walk into a meeting room and need to switch to the conference speaker. Every time, it's: System Settings → Sound → Output → scroll → click. Too many clicks for something that should take one.</p>
 
@@ -2270,7 +2259,7 @@ export const articles: Record<string, Article> = {
     description:
       "Your Mac's audio crackles, pops, or stutters — during music, calls, or video playback. Here's every known cause and fix for macOS audio glitches.",
     date: "2026-05-16",
-    readTime: "8 min read",
+    readTime: "8 min čtení",
     content: `
 <p>You're listening to music and hear a pop. Then a crackle. Then a stutter where the audio cuts out for a fraction of a second and comes back. It's not the song — it's your Mac. Audio crackling on macOS is maddeningly common, and it has at least six different causes.</p>
 
@@ -2350,7 +2339,7 @@ export const articles: Record<string, Article> = {
     description:
       "Can barely hear people on Teams even at max volume? Here's every cause — from Teams settings to Bluetooth codecs — and how to boost call audio past 100%.",
     date: "2026-06-04",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>You're in a Teams meeting. Your coworker is presenting, but their voice sounds like it's coming through a tin can from three rooms away. Your Mac volume is at 100%. Teams' volume is at 100%. You've turned up everything you can find. Still too quiet.</p>
 
@@ -2413,7 +2402,7 @@ export const articles: Record<string, Article> = {
     description:
       "macOS gives you one volume slider for everything. Here's how to get individual volume controls for every app — and why it matters more than you think.",
     date: "2026-05-20",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>You're on a video call. Slack keeps dinging. Music is playing in the background. You reach for the volume key and — everything gets quieter. The call, the music, the notifications. macOS has exactly one volume slider, and it controls everything at once.</p>
 
@@ -2486,7 +2475,7 @@ export const articles: Record<string, Article> = {
     description:
       "Slack notifications keep interrupting your focus, but you don't want to silence your music or calls. Here's how to mute just Slack on macOS.",
     date: "2026-05-24",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're deep in focus work. Spotify is playing the perfect concentration playlist. Then — <em>knock brush</em> — Slack pings. And again. And again. Three channels, two DMs, and a thread notification in thirty seconds. You want to mute Slack but keep your music. macOS says: mute everything or mute nothing.</p>
 
@@ -2543,7 +2532,7 @@ export const articles: Record<string, Article> = {
     description:
       "Different volume setups for meetings, focus work, gaming, and relaxing — switchable with one click. Here's how volume profiles work on macOS.",
     date: "2026-06-02",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>At 9 AM you're on a Zoom call — you want Zoom at 100%, Spotify muted, Slack muted. At 10 AM the call ends — you want Spotify at 40%, Slack at 15%, Zoom doesn't matter. At noon you're gaming — game at 60%, Discord at 100%, everything else muted. By 6 PM you're watching YouTube — browser at 80%, everything else quiet.</p>
 
@@ -2626,7 +2615,7 @@ export const articles: Record<string, Article> = {
     description:
       "You can barely hear people on Zoom even at max volume. Here's every fix — from Zoom settings to boosting call audio beyond 100% with a per-app volume mixer.",
     date: "2026-05-26",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>You're on a Zoom call. The other person is talking, but their voice is barely audible. Your Mac volume is at maximum. Zoom's speaker volume is at maximum. You're leaning into your screen, straining to hear. This shouldn't be this hard.</p>
 
@@ -2688,7 +2677,7 @@ export const articles: Record<string, Article> = {
     description:
       "You want Spotify as background music, but turning it down with the volume keys makes your call and everything else quieter too. Here's the fix.",
     date: "2026-05-30",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>You're working. Spotify is playing background music. It's a little too loud — competing with the podcast in another tab or making it hard to focus. You tap the volume-down key. Spotify gets quieter. But so does everything else — your Zoom call, your notification sounds, your browser audio. All quieter. That's not what you wanted.</p>
 
@@ -2733,7 +2722,7 @@ export const articles: Record<string, Article> = {
     description:
       "macOS Tahoe (macOS 26) brought major updates, but did Apple finally add a volume mixer? Here's the answer — and how to get per-app volume control right now.",
     date: "2026-06-12",
-    readTime: "4 min read",
+    readTime: "4 min čtení",
     content: `
 <p>Every year, Mac users hope the next macOS release will finally include a volume mixer. Every year, they're disappointed. With macOS Tahoe (macOS 26), Apple delivered a redesigned interface, new system features, and major under-the-hood improvements. But did they add per-app volume control?</p>
 
@@ -2789,7 +2778,7 @@ export const articles: Record<string, Article> = {
     description:
       "Want Spotify on your desk speakers and Zoom in your AirPods at the same time? macOS doesn't make this easy — here's what actually works.",
     date: "2026-05-15",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>Here's a reasonable thing you might want to do: play music through your desk speakers while taking a Zoom call through your AirPods. The music fills the room, the call is private in your ears. Makes perfect sense.</p>
 
@@ -2842,7 +2831,7 @@ export const articles: Record<string, Article> = {
     description:
       "Your Mac's volume randomly jumps up, drops down, or resets to a different level. Here's every known cause and how to stop it.",
     date: "2026-05-18",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>You set your Mac volume to a comfortable level. You look away. When you come back, it's different. Louder. Quieter. Reset to maximum. It keeps happening, and you can't figure out why.</p>
 
@@ -2908,7 +2897,7 @@ export const articles: Record<string, Article> = {
     description:
       "A no-nonsense comparison of every Mac app that gives you per-app volume control. Features, pricing, and which one is actually worth using.",
     date: "2026-06-12",
-    readTime: "10 min read",
+    readTime: "10 min čtení",
     content: `
 <p>macOS doesn't have a built-in volume mixer. If you want to control the volume of individual apps — turn down Spotify without affecting Zoom, mute Slack without muting everything — you need a third-party app.</p>
 
@@ -3090,7 +3079,7 @@ export const articles: Record<string, Article> = {
     description:
       "Some YouTube videos are barely audible even at max volume. Here's why browser audio is often quieter than other apps — and how to boost it past 100% on Mac.",
     date: "2026-05-22",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You click on a YouTube video. The creator is speaking, but you can barely hear them. System volume is at max. YouTube's player volume is at max. You lean closer to your speakers. Still too quiet. You open Spotify — music blasts at full volume. So it's not your speakers. It's YouTube. Or more precisely, it's the video.</p>
 
@@ -3143,7 +3132,7 @@ export const articles: Record<string, Article> = {
     description:
       "Slack pings and macOS alerts are painfully loud in your headphones while your music is fine. Here's why notification volume is different — and how to tame it.",
     date: "2026-05-25",
-    readTime: "5 min read",
+    readTime: "5 min čtení",
     content: `
 <p>You're wearing headphones, listening to music at a comfortable 40% volume. A Slack notification fires. <em>DING.</em> It's deafeningly loud compared to your music. Your ears ring. You rip off your headphones.</p>
 
@@ -3199,7 +3188,7 @@ export const articles: Record<string, Article> = {
     description:
       "Every time you join a Zoom call, your music drops or disappears. Here's why it happens and how to control what gets quieter during calls — on your terms.",
     date: "2026-05-28",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>You join a Zoom call. Spotify was playing at a comfortable volume. The call connects and — your music vanishes or drops to almost nothing. You didn't touch anything. Zoom (or macOS) decided to lower your music for you, without asking.</p>
 
@@ -3273,7 +3262,7 @@ export const articles: Record<string, Article> = {
     description:
       "AirPods sound quiet on your Mac even at full volume? Here are all the causes — from headphone safety limits to Bluetooth quirks — and how to fix them.",
     date: "2026-06-08",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>Your AirPods work fine on your iPhone. They're plenty loud. But plug them into your Mac — wirelessly, obviously — and suddenly everything is too quiet. System volume is at max. Spotify is at max. The AirPods just... aren't loud enough.</p>
 
@@ -3340,7 +3329,7 @@ export const articles: Record<string, Article> = {
     description:
       "Spotify at max volume but still too quiet on your Mac? This guide covers every cause — from Spotify's built-in limiter to macOS settings — and how to boost it past 100%.",
     date: "2026-06-11",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>Spotify is at full volume. Your Mac is at full volume. And it's still not loud enough. This is one of the most common Spotify complaints on Mac, and it has multiple causes — most of which aren't obvious.</p>
 
@@ -3415,7 +3404,7 @@ export const articles: Record<string, Article> = {
     description:
       "Game explosions drowning out your teammates on Discord? Here's how to independently control game audio and voice chat volume on macOS.",
     date: "2026-06-10",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>You're gaming on your Mac. An explosion goes off in-game. Your Discord teammates are talking, but you can't hear them over the gunfire. You turn down the volume — now Discord is quieter too. You turn it back up — the explosions are deafening again.</p>
 
@@ -3481,7 +3470,7 @@ export const articles: Record<string, Article> = {
     description:
       "Windows has had per-app volume control since 2006. It's 2026 and macOS still doesn't. Here's the real reason — and how to get one anyway.",
     date: "2026-06-09",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>Every version of Windows since Vista (2006) has included a volume mixer. Right-click the speaker icon, click "Volume Mixer," and you see every app with its own volume slider. You can mute Chrome without affecting Spotify. You can lower Discord without touching your game.</p>
 
@@ -3551,7 +3540,7 @@ export const articles: Record<string, Article> = {
     description:
       "Your Mac is at full volume and it's still too quiet. Here's why that happens and how to amplify audio up to 200% without external speakers.",
     date: "2026-06-07",
-    readTime: "8 min read",
+    readTime: "8 min čtení",
     content: `
 <p>Your Mac volume is at 100%. The slider is all the way to the right. And it's still not loud enough. The podcast is too quiet. The video call participant sounds like they're whispering. The YouTube video was recorded too low. You've maxed out — and it's not enough.</p>
 
@@ -3634,7 +3623,7 @@ export const articles: Record<string, Article> = {
     description:
       "Every time a Zoom call starts, you scramble to pause Spotify. There's a better way — auto-ducking lowers your music automatically when your mic activates.",
     date: "2026-06-05",
-    readTime: "7 min read",
+    readTime: "7 min čtení",
     content: `
 <p>The call starts. You're sharing your screen. Your music is still blasting. You frantically switch to Spotify, hit pause, switch back to Zoom — but everyone already heard ten seconds of your playlist. It happens to everyone, and it happens because macOS has no connection between "a call just started" and "maybe lower the music."</p>
 
@@ -3736,7 +3725,7 @@ export const articles: Record<string, Article> = {
     description:
       "Slack is pinging. You're on a call. You want to mute Slack but keep hearing your call. macOS doesn't let you — here's how to do it anyway.",
     date: "2026-06-03",
-    readTime: "6 min read",
+    readTime: "6 min čtení",
     content: `
 <p>You're on a Zoom call. Slack keeps making notification sounds. A YouTube tab you forgot about starts auto-playing. You hit the mute key — and now you can't hear your call either. macOS mutes <em>everything</em>. There's no built-in way to mute just one app.</p>
 
@@ -3809,7 +3798,7 @@ export const articles: Record<string, Article> = {
     description:
       "Windows has had a volume mixer since 2006. Here's why macOS still doesn't — and the best way to get per-app volume control on your Mac in 2026.",
     date: "2026-06-01",
-    readTime: "9 min read",
+    readTime: "9 min čtení",
     content: `
 <p>Right-click the speaker icon on any Windows PC and you'll find the Volume Mixer — a panel that shows every application currently making sound, each with its own independent volume slider. You can turn Spotify down to 20% while keeping your Zoom call at 100%. You can mute Chrome without touching anything else. It's been there since Windows Vista in 2006.</p>
 
@@ -3902,15 +3891,3 @@ export const articles: Record<string, Article> = {
 `,
   },
 };
-
-export function getArticle(slug: string): Article | undefined {
-  return articles[slug];
-}
-
-export function getAllArticles(): Article[] {
-  return Object.values(articles).sort((a, b) => b.date.localeCompare(a.date));
-}
-
-export function getAllSlugs(): string[] {
-  return Object.keys(articles);
-}
