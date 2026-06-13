@@ -9,7 +9,28 @@ import { esArticles } from "./es";
 import { ptArticles } from "./pt";
 import { thArticles } from "./th";
 import { elArticles } from "./el";
-// import { trArticles } from "./tr"; // incomplete — re-translate later
+import { arArticles } from "./ar";
+import { deArticles } from "./de";
+import { idArticles } from "./id";
+import { itArticles } from "./it";
+import { koArticles } from "./ko";
+import { msArticles } from "./ms";
+import { roArticles } from "./ro";
+import { ruArticles } from "./ru";
+import { viArticles } from "./vi";
+import { frArticles } from "./fr";
+import { heArticles } from "./he";
+import { hiArticles } from "./hi";
+import { plArticles } from "./pl";
+import { svArticles } from "./sv";
+import { zhHantArticles } from "./zh-Hant";
+import { caArticles } from "./ca";
+import { daArticles } from "./da";
+import { fiArticles } from "./fi";
+import { huArticles } from "./hu";
+import { noArticles } from "./no";
+import { trArticles } from "./tr";
+import { zhArticles } from "./zh";
 
 export type Locale =
   | "en" | "de" | "fr" | "es" | "pt" | "it" | "nl"
@@ -67,22 +88,40 @@ export const LOCALES: { code: Locale; label: string; dir: "ltr" | "rtl" }[] = [
   { code: "hi", label: "हिन्दी", dir: "ltr" },
 ];
 
-// Add locale imports here as translation files are created.
-// Example: import { deArticles } from "./de";
-// Then add to the articles map: de: deArticles,
 const articles: Record<string, ArticleSet> = {
   en: enArticles,
+  ar: arArticles,
   cs: csArticles,
-  hr: hrArticles,
-  ja: jaArticles,
-  nl: nlArticles,
-  sk: skArticles,
-  uk: ukArticles,
-  es: esArticles,
-  pt: ptArticles,
-  th: thArticles,
+  de: deArticles,
   el: elArticles,
-  // tr: trArticles, // incomplete
+  es: esArticles,
+  fr: frArticles,
+  he: heArticles,
+  hi: hiArticles,
+  hr: hrArticles,
+  hu: huArticles,
+  id: idArticles,
+  it: itArticles,
+  ja: jaArticles,
+  ko: koArticles,
+  ms: msArticles,
+  nl: nlArticles,
+  no: noArticles,
+  pl: plArticles,
+  pt: ptArticles,
+  ro: roArticles,
+  ru: ruArticles,
+  sk: skArticles,
+  sv: svArticles,
+  th: thArticles,
+  tr: trArticles,
+  uk: ukArticles,
+  vi: viArticles,
+  ca: caArticles,
+  da: daArticles,
+  fi: fiArticles,
+  zh: zhArticles,
+  "zh-Hant": zhHantArticles,
 };
 
 export function getArticle(locale: Locale, slug: string): Article | undefined {
