@@ -25,18 +25,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(article.date),
       changeFrequency: "monthly" as const,
       priority: article.cluster ? 0.75 : 0.6,
-      alternates: {
-        languages: Object.fromEntries(
-          LOCALES.filter((candidate) =>
-            getAllArticles(candidate.code).some(
-              (localizedArticle) => localizedArticle.slug === article.slug,
-            ),
-          ).map((candidate) => [
-            candidate.code,
-            `${SITE_URL}/vault/blog/${candidate.code}/${article.slug}`,
-          ]),
-        ),
-      },
     })),
   );
 
