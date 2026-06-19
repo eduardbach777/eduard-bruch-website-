@@ -4,6 +4,7 @@ export const t = {
     gallery: { en: "Gallery", de: "Galerie" },
     about: { en: "About", de: "Über mich" },
     software: { en: "Software", de: "Software" },
+    tarot: { en: "Tarot", de: "Tarot" },
     pdfScanner: { en: "PDF Scanner", de: "PDF Scanner" },
     pulseApp: { en: "Pulse App", de: "Pulse App" },
     stashVault: { en: "Stash Vault", de: "Stash Vault" },

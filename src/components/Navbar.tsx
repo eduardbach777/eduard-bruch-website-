@@ -9,6 +9,7 @@ import { t } from "@/lib/translations";
 const navLinks = [
   { href: "/about", key: "about" as const },
   { href: "/creative", key: "software" as const },
+  { href: "/tarot/blog/en", key: "tarot" as const },
   { href: "/pdfcreator/blog", key: "pdfScanner" as const },
   { href: "/pulse/blog", key: "pulseApp" as const },
   { href: "/sounddial/blog/en", key: "soundDial" as const },
