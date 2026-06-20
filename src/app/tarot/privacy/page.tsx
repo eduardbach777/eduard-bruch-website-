@@ -12,7 +12,7 @@ export default function TarotPrivacy() {
       </h1>
       <p className="mb-2 text-lg text-neutral-300">Aurum Tarot</p>
       <p className="mb-10 text-sm text-neutral-500">
-        Last updated: June 3, 2026
+        Last updated: June 20, 2026
       </p>
 
       {/* 1. Data Controller */}
@@ -48,7 +48,8 @@ export default function TarotPrivacy() {
       <ul className="mb-4 list-disc pl-6 space-y-1">
         <li>Tarot reading history (cards drawn, spread type, date)</li>
         <li>Journal entries and personal notes</li>
-        <li>Your question or intention (if entered)</li>
+        <li>Your question, intention, mood, or goal (if entered)</li>
+        <li>Onboarding personalization (your first name, zodiac sign, and chosen focus area)</li>
         <li>App preferences (theme, notification settings, reversed cards toggle)</li>
       </ul>
       <p className="mb-4">
@@ -93,49 +94,42 @@ export default function TarotPrivacy() {
       </p>
       <ul className="mb-4 list-disc pl-6 space-y-1">
         <li>Card names, positions, and orientation (upright/reversed)</li>
-        <li>Your question or intention (if entered)</li>
-        <li>Your selected mood (if entered)</li>
-        <li>A pseudonymous device identifier for rate limiting</li>
+        <li>Your question, intention, mood, or goal (if entered)</li>
+        <li>For follow-up questions, the recent conversation context of that reading</li>
+        <li>Your first name and zodiac sign, and your device language &mdash; used to personalize and translate the response</li>
+        <li>A pseudonymous identifier used to verify your subscription status and apply rate limits</li>
       </ul>
       <p className="mb-4">
         This data is processed by our <strong>Cloudflare Worker</strong>{" "}
-        (EU/US infrastructure) which forwards it to{" "}
-        <strong>DeepSeek</strong>, a third-party AI service operated by
-        DeepSeek Inc. (People&apos;s Republic of China), to generate the
-        interpretation. DeepSeek&apos;s servers are located in China and are
-        subject to Chinese data protection laws (PIPL, Cybersecurity Law).{" "}
-        <strong>
-          There is no adequacy decision by the European Commission for China
-        </strong>
-        , meaning the level of data protection may not be equivalent to that
-        in the EU/EEA. In particular, Chinese authorities may have access to
-        data under local law.
+        (EU/US infrastructure) which forwards it to a{" "}
+        <strong>third-party AI service provider</strong> to generate the
+        interpretation. This provider may process the data on servers located{" "}
+        <strong>outside the EU/EEA, in a country that has not received an
+        adequacy decision from the European Commission</strong>, meaning the
+        level of data protection may not be equivalent to that in the EU/EEA
+        and that local authorities may have access to data under applicable
+        law. The transfer takes place only after your explicit, informed
+        consent.
       </p>
       <p className="mb-4">
-        <strong>No personal information</strong> (name, email, account data)
-        is included in the data sent. A PII scrubber removes email addresses,
-        phone numbers, and URLs from your text before it reaches the AI
-        service. We do not store your questions or AI responses on our
-        servers. The AI response is returned directly to your device and saved
-        locally. For DeepSeek&apos;s own data handling practices, please
-        refer to{" "}
-        <a
-          href="https://www.deepseek.com/privacy"
-          className="text-indigo-400 underline"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          DeepSeek&apos;s Privacy Policy
-        </a>
-        .
+        We minimize the personal data involved. Before your text is sent, a
+        PII scrubber removes email addresses, phone numbers, ID and
+        payment-card-like numbers, and URLs. The only identifying details
+        included are your <strong>first name and zodiac sign</strong> (used
+        solely to personalize the wording of the response) together with a
+        pseudonymous identifier. We do not send your email or account data,
+        and we do not store your questions or AI responses on our servers
+        &mdash; the response is returned directly to your device and saved
+        locally.
       </p>
       <p className="mb-4">
         Before your first AI interpretation, the app will ask for your
         explicit consent. You can use all other app features without any data
         leaving your device. You may withdraw your consent at any time by
         deleting your data in the app settings. Legal basis: Art. 6(1)(a)
-        GDPR (your explicit consent); data transfer to China: Art. 49(1)(a)
-        GDPR (explicit consent after being informed of the risks).
+        GDPR (your explicit consent); transfer to a third country without an
+        adequacy decision: Art. 49(1)(a) GDPR (explicit consent after being
+        informed of the risks).
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
@@ -198,11 +192,12 @@ export default function TarotPrivacy() {
           the EU-U.S. Data Privacy Framework.
         </li>
         <li>
-          <strong>DeepSeek Inc.</strong> (People&apos;s Republic of China)
-          &mdash; AI interpretation processing, only when you explicitly
-          request an AI reading. No adequacy decision exists for China. Data
-          transfer is based on your explicit consent after being informed of
-          the risks (Art. 49(1)(a) GDPR).
+          <strong>A third-party AI service provider</strong> &mdash; AI
+          interpretation processing, only when you explicitly request an AI
+          reading. The provider may process data outside the EU/EEA in a
+          country without an EU adequacy decision; the transfer is based on
+          your explicit consent after being informed of the risks
+          (Art. 49(1)(a) GDPR).
         </li>
       </ul>
 
@@ -224,7 +219,7 @@ export default function TarotPrivacy() {
         <li>
           <strong>AI interpretation requests</strong>: Not stored on our
           servers. Rate-limiting data (pseudonymous device ID and IP address)
-          expires automatically after 1 hour.
+          expires automatically within 24 hours.
         </li>
       </ul>
 
