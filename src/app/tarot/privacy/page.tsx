@@ -101,15 +101,11 @@ export default function TarotPrivacy() {
       </ul>
       <p className="mb-4">
         This data is processed by our <strong>Cloudflare Worker</strong>{" "}
-        (EU/US infrastructure) which forwards it to a{" "}
-        <strong>third-party AI service provider</strong> to generate the
-        interpretation. This provider may process the data on servers located{" "}
-        <strong>outside the EU/EEA, in a country that has not received an
-        adequacy decision from the European Commission</strong>, meaning the
-        level of data protection may not be equivalent to that in the EU/EEA
-        and that local authorities may have access to data under applicable
-        law. The transfer takes place only after your explicit, informed
-        consent.
+        (EU/US infrastructure) which forwards it to{" "}
+        <strong>DeepSeek</strong>, a third-party AI service, to generate the
+        interpretation. Data may be processed on servers located outside the
+        EU/EEA; the transfer takes place only after your explicit, informed
+        consent (Art. 49(1)(a) GDPR).
       </p>
       <p className="mb-4">
         We minimize the personal data involved. Before your text is sent, a
@@ -127,9 +123,8 @@ export default function TarotPrivacy() {
         explicit consent. You can use all other app features without any data
         leaving your device. You may withdraw your consent at any time by
         deleting your data in the app settings. Legal basis: Art. 6(1)(a)
-        GDPR (your explicit consent); transfer to a third country without an
-        adequacy decision: Art. 49(1)(a) GDPR (explicit consent after being
-        informed of the risks).
+        GDPR (your explicit consent); transfer of data outside the EU/EEA:
+        Art. 49(1)(a) GDPR (explicit consent).
       </p>
 
       <h3 className="mb-2 mt-4 font-medium text-white">
@@ -192,12 +187,10 @@ export default function TarotPrivacy() {
           the EU-U.S. Data Privacy Framework.
         </li>
         <li>
-          <strong>A third-party AI service provider</strong> &mdash; AI
-          interpretation processing, only when you explicitly request an AI
-          reading. The provider may process data outside the EU/EEA in a
-          country without an EU adequacy decision; the transfer is based on
-          your explicit consent after being informed of the risks
-          (Art. 49(1)(a) GDPR).
+          <strong>DeepSeek</strong> &mdash; AI interpretation processing, only
+          when you explicitly request an AI reading. Data may be processed on
+          servers outside the EU/EEA; the transfer is based on your explicit
+          consent (Art. 49(1)(a) GDPR).
         </li>
       </ul>
 
