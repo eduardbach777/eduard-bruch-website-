@@ -40,7 +40,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you build a clean recording environment by controlling each app independently:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podcasting setup — guest audio, monitoring, and notifications at independent levels" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podcasting setup — guest audio, monitoring, and notifications at independent levels" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Recording profile</h3>
 <ul>
@@ -98,7 +98,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives each app its own volume slider with <strong>1% increments</strong> from 0% to 200%. That's 200 levels of precision per app, compared to macOS's 16 (or 64 with the modifier) system-wide steps.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% precision on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% precision on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Set your system volume to a moderate base level (50-60%), then use SoundDial to fine-tune each app:</p>
 <ul>
@@ -149,7 +149,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Slack its own volume slider, separate from every other app. Since Slack's huddle audio and notification sounds are part of the same app, the slider controls both — but that's actually what you want most of the time.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling Slack volume independently during a huddle while music plays at a different level" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling Slack volume independently during a huddle while music plays at a different level" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Huddle-optimized setup</h3>
 <ul>
@@ -198,7 +198,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> has a <strong>configurable default volume</strong> for new apps. In settings, you set what volume level newly detected apps should start at — for example, 70%. The first time any app launches and produces audio, SoundDial sets it to 70% instead of 100%.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial default volume setting — new apps start at a configured level instead of full blast" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial default volume setting — new apps start at a configured level instead of full blast" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This means:</p>
 <ul>
@@ -253,7 +253,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app on your Mac its own volume slider. Set notification apps low, music at a comfortable level, and calls at full volume — all independently. Save configurations as profiles and switch with one click.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for managing all Mac audio sources independently" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for managing all Mac audio sources independently" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const skArticles: ArticleSet = {
 
 <p>If settings are maxed and participants are still too quiet, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost Webex to <strong>200%</strong>. This amplifies the call audio beyond Webex's built-in maximum — useful when a participant has a bad mic or when Webex's audio processing reduces the signal too much.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Cisco Webex call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Cisco Webex call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial also helps during back-to-back Webex meetings: use auto-ducking to automatically lower your background music when each meeting starts, and restore it during the breaks. Save a "Meetings" volume profile to instantly set your preferred audio balance for the workday.</p>
 
@@ -347,7 +347,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> puts every app in one menu bar panel with independent volume sliders. Both audio sources, side by side, each with their own level. Adjust one without touching the other.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing two audio sources at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing two audio sources at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Example setups:</p>
 
@@ -411,7 +411,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you create the perfect late-night setup:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial late-night movie setup — streaming app at moderate volume, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial late-night movie setup — streaming app at moderate volume, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Late-night movie profile</h3>
 <ul>
@@ -473,7 +473,7 @@ export const skArticles: ArticleSet = {
 
 <p>Even if the system volume resets after sleep, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> protects your <em>per-app</em> volume balance. Its <strong>volume memory</strong> feature saves each app's volume independently and restores it after wake, restart, or app relaunch.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial preserving per-app volume levels after Mac sleep and wake cycles" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial preserving per-app volume levels after Mac sleep and wake cycles" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>So even if macOS resets the system volume to 80% after sleep, your per-app balance stays intact:</p>
 <ul>
@@ -518,7 +518,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you set exact volumes for every app independently:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separating DAW output from Discord and reference tracks on macOS for music production" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separating DAW output from Discord and reference tracks on macOS for music production" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Production setup</h3>
 <ul>
@@ -586,7 +586,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost Apple Music to <strong>200%</strong>. The audio signal is amplified at the system level before it reaches your speakers or headphones. Only Apple Music gets louder — Zoom, Slack, and your browser stay at their current levels.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Apple Music volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Apple Music volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is also useful for the opposite problem: if Apple Music is too loud relative to your Zoom call, lower Apple Music to 25% in SoundDial while keeping Zoom at 100%. Per-app control means you never have to compromise one app's volume for another's.</p>
 
@@ -666,7 +666,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> costs €14.99 — one time, not a subscription. For context, that's less than two months of a Spotify subscription, for a tool you'll use every day. It's less than half the price of SoundSource ($39), and includes features (profiles, auto-ducking) that SoundSource doesn't have.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — reliable per-app volume mixer for Mac with profiles, auto-ducking, and 200% boost" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — reliable per-app volume mixer for Mac with profiles, auto-ducking, and 200% boost" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Available on the <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — Apple-reviewed, sandboxed, no system drivers. €14.99 one-time, no subscription, macOS 14.2+.</p>
 `,
@@ -700,7 +700,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> puts both Spotify and Discord in the same panel with independent volume sliders. Set the ratio you want and leave it:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balancing Spotify and Discord at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balancing Spotify and Discord at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>The golden ratio for music + voice chat</h3>
 <p>Based on how most people use this:</p>
@@ -805,7 +805,7 @@ export const skArticles: ArticleSet = {
 
 <p>All five of these are available with <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — a native macOS menu bar app that adds the volume mixer Apple never built.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume control, profiles, auto-ducking, and 200% boost for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control, profiles, auto-ducking, and 200% boost for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Part 6: Per-app volume with SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const skArticles: ArticleSet = {
 
 <p>This is extreme amplification and will introduce distortion on some content, but for extremely quiet source material it might be what you need.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting VLC volume at the system level on macOS for quiet video files" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting VLC volume at the system level on macOS for quiet video files" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>More importantly, SoundDial lets you boost VLC <strong>independently</strong>. Your music player, browser, and communication apps stay at their normal levels while only VLC gets louder. If you boost VLC to 180% in SoundDial, Spotify doesn't change. This is something VLC's built-in boost can't do — VLC's boost only affects VLC, but macOS's single system volume still ties everything else together.</p>
 
@@ -924,7 +924,7 @@ export const skArticles: ArticleSet = {
   <li><strong>Easy toggle:</strong> Turn auto-ducking on or off in SoundDial's settings. When you don't want it, disable it. When you want it back, enable it.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial configurable auto-ducking — control exactly how much background audio is lowered during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configurable auto-ducking — control exactly how much background audio is lowered during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The difference: instead of some app deciding your music should go to zero during every call, you decide it should go to 25%. Instead of losing control, you gain it. And instead of trying to disable a hidden feature in three different apps, you have one toggle in one place.</p>
 
@@ -987,7 +987,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> boosts any app's volume up to <strong>200%</strong>. If Spotify through your Bluetooth headphones is too quiet, drag its slider to 160%. The audio signal is amplified before it reaches your headphones, effectively doubling the available volume for that app.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting app volume for Bluetooth headphones on Mac with per-app sliders to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting app volume for Bluetooth headphones on Mac with per-app sliders to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Per-app boosting is better than a system-wide volume boost because you can amplify only the quiet app. If your podcast is quiet but music is fine, boost the podcast app to 170% while keeping Spotify at 80%. Each app stays at the right level.</p>
 
@@ -1024,7 +1024,7 @@ export const skArticles: ArticleSet = {
 
 <p>This is exactly what <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> does. Set each app to the level you want your viewers to hear:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balancing game, Discord, and music audio levels for OBS streaming on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balancing game, Discord, and music audio levels for OBS streaming on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typical streaming audio setup</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> has a <strong>Volume Memory</strong> feature. When enabled, it saves each app's volume level by its bundle identifier. When the app quits and relaunches — whether you restart it, it crashes, or you restart your Mac — SoundDial automatically restores it to its saved volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume memory — automatically remembers and restores per-app volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume memory — automatically remembers and restores per-app volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>How it works</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const skArticles: ArticleSet = {
 
 <p>The universal fix is amplifying your podcast app beyond macOS's 100% limit. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app a volume slider up to <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Apple Podcasts volume to 180% on Mac for quiet podcast episodes" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Apple Podcasts volume to 180% on Mac for quiet podcast episodes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Set Apple Podcasts or your podcast app to 160-180% while keeping Spotify music at 40% and Slack at 15%. The podcast gets louder without making everything else painfully loud. When you switch back to music, just drop the podcast app back to normal — or let SoundDial's volume memory remember it automatically.</p>
 
@@ -1189,7 +1189,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives each app its own volume slider, so you can build the ideal study audio setup:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial student setup — lecture at full volume, study music low, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial student setup — lecture at full volume, study music low, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Lecture profile</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const skArticles: ArticleSet = {
     readTime: "7 min čítania",
     content: `
 <p>You updated macOS. Everything seemed fine — until you noticed there's no sound. Or sound is crackling. Or the volume is stuck. Or your audio output device is gone. Post-update audio issues happen with nearly every macOS release, and they range from mildly annoying to completely silent.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Here's a systematic guide to fixing Mac audio after a macOS update, covering every known issue and solution.</p>
 
@@ -1335,7 +1338,7 @@ export const skArticles: ArticleSet = {
   <li>Spotify goes back to 30%, Zoom to 100%, Slack to 15% — perfectly restored</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial mute-all shortcut — Control+Option+M to mute and unmute all apps with volume restore" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mute-all shortcut — Control+Option+M to mute and unmute all apps with volume restore" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The difference from the system mute key:</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Chrome its own volume slider that goes up to <strong>200%</strong>. Since Google Meet runs inside Chrome, boosting Chrome boosts Meet. Drag the slider to 150% or 180% and the call audio is amplified in real-time.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Google Meet (Chrome) volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Google Meet (Chrome) volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This also works with Safari if you use Meet in Safari. SoundDial controls each browser independently — boost Safari for Meet while keeping Chrome at normal volume for everything else.</p>
 
@@ -1450,7 +1453,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app its own volume slider. You can set notification-heavy apps to a subtle level that's noticeable but not jarring, while keeping media apps at a comfortable listening volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separating notification app volume from media app volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separating notification app volume from media app volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Example setup</h3>
 <p><strong>Media apps:</strong></p>
@@ -1523,7 +1526,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost FaceTime's volume up to <strong>200%</strong>. Open the menu bar panel, find FaceTime, and drag its slider past 100%. The call audio is amplified in real-time without affecting any other app.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting FaceTime call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting FaceTime call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial also helps the reverse: if FaceTime's ringtone or notification sounds are too loud during focus time, lower FaceTime to 20% or mute it while keeping your music playing. One click to mute, one click to unmute.</p>
 
@@ -1577,7 +1580,7 @@ export const skArticles: ArticleSet = {
 <h3>Mute all apps: Control + Option + M</h3>
 <p>Press <strong>⌃⌥M</strong> to instantly mute every app's audio. Press it again to unmute everything, restoring each app to its previous volume. This is an "instant silence" button that's faster than reaching for the mute key — and unlike the system mute key, it restores per-app volumes when you unmute.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial keyboard shortcuts — Control+Option+S to toggle, Control+Option+M to mute all" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial keyboard shortcuts — Control+Option+S to toggle, Control+Option+M to mute all" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>The keyboard-driven workflow</h2>
 
@@ -1642,7 +1645,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> uses the modern Audio Tap API — no virtual audio device, no system driver, no kernel extensions. It taps into each app's audio stream directly using Apple's supported API, which means it doesn't break when macOS updates.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — a Background Music alternative that doesn't install virtual audio devices" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — a Background Music alternative that doesn't install virtual audio devices" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>What you get over Background Music:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const skArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — a lighter, focused SoundSource alternative with volume profiles and auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — a lighter, focused SoundSource alternative with volume profiles and auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Which should you choose?</h2>
 
@@ -1809,7 +1812,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives you per-app volume sliders with fine-grained control — each slider moves in 1% increments from 0% to 200%. You can set Spotify to 5% and Zoom to 40% at the same time. The level of control is dramatically finer than macOS's 16 system steps.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% increments on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% increments on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>For late-night headphone use:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const skArticles: ArticleSet = {
     readTime: "5 min čítania",
     content: `
 <p>One AirPod sounds fine. The other is noticeably quieter. Music feels off-center. Voices sound like they're coming from one side. This is one of the most common AirPods complaints, and it usually has a simple fix.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Clean your AirPods</h2>
 
@@ -1948,7 +1954,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app to <strong>200%</strong>. If Safari or the Netflix app is too quiet, drag its slider past 100%. The audio is amplified before it reaches your speakers, effectively doubling the maximum volume for that app only.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Netflix audio to 180% on Mac for clearer dialog and streaming audio" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Netflix audio to 180% on Mac for clearer dialog and streaming audio" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is especially useful when:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> fills this gap by giving every app its own volume slider. Set up your remote work audio exactly how you want it:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial remote work audio setup — different volume levels for Zoom, Spotify, and Slack on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial remote work audio setup — different volume levels for Zoom, Spotify, and Slack on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Save profiles for each mode</h3>
 
@@ -2126,7 +2132,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives your browser its own volume slider, independent from every other app. Lower Safari to 30% while keeping Zoom at 100%. Mute Chrome entirely while keeping Spotify playing. One click.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling browser volume independently from other apps on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling browser volume independently from other apps on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is the fastest way to handle a surprise auto-playing tab: instead of hunting for which tab is making noise, click SoundDial in the menu bar and mute the browser. Everything else keeps playing. When you've found and closed the offending tab, unmute the browser and its volume returns to where it was.</p>
 
@@ -2168,7 +2174,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Discord its own volume slider in your menu bar, independent from every other app. Set Discord to exactly the level you want — 100% for clear voice chat, 40% for subtle background, or muted entirely — without touching your game, music, or anything else.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling Discord volume independently from game and music on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling Discord volume independently from game and music on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Common setups</h3>
 
@@ -2244,7 +2250,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> includes an output device picker right in its menu bar popover — alongside your per-app volume sliders. One click to open SoundDial, one click to switch devices. No digging through System Settings.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial with audio output device switching and per-app volume control in one menu bar panel" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial with audio output device switching and per-app volume control in one menu bar panel" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The advantage of switching devices inside SoundDial: you can switch your output <em>and</em> adjust per-app volumes in the same panel. Switch to AirPods and immediately lower Spotify while boosting your call — all without leaving the popover.</p>
 
@@ -2262,6 +2268,9 @@ export const skArticles: ArticleSet = {
     readTime: "8 min čítania",
     content: `
 <p>You're listening to music and hear a pop. Then a crackle. Then a stutter where the audio cuts out for a fraction of a second and comes back. It's not the song — it's your Mac. Audio crackling on macOS is maddeningly common, and it has at least six different causes.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>This guide covers every known cause of audio crackling, popping, and stuttering on Mac, from software fixes to the one hardware issue you should know about.</p>
 
@@ -2389,7 +2398,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume to <strong>200%</strong>, including Microsoft Teams. Drag Teams' slider to 150% or 180% and the audio is amplified in real-time. Only Teams gets louder — your music, browser, and other apps stay at their current levels.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Microsoft Teams call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Microsoft Teams call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial also helps with the reverse problem: if Teams notification sounds are too loud during focus time, lower Teams to 15% or mute it entirely while keeping your music playing. One click to mute, one click to unmute.</p>
 
@@ -2405,6 +2414,9 @@ export const skArticles: ArticleSet = {
     readTime: "7 min čítania",
     content: `
 <p>You're on a video call. Slack keeps dinging. Music is playing in the background. You reach for the volume key and — everything gets quieter. The call, the music, the notifications. macOS has exactly one volume slider, and it controls everything at once.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows has had a per-app volume mixer since Vista in 2006. Twenty years later, macOS still doesn't. If you want to turn down Spotify without affecting your Zoom call, Apple has no built-in answer for you.</p>
 
@@ -2512,7 +2524,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Slack its own independent volume slider. Set it to whatever level works for you — or mute it entirely with one click. When you're ready to pay attention to Slack again, unmute it and the volume returns to where it was.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial with Slack muted and Spotify playing at normal volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial with Slack muted and Spotify playing at normal volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>The ideal Slack workflow</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const skArticles: ArticleSet = {
 <h3>Switching profiles</h3>
 <p>Your saved profiles appear as buttons in SoundDial's popover. Click one and every app instantly switches to the volumes saved in that profile. One click replaces five or six manual adjustments.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume profiles — one-click switching between Meeting, Focus, and Chill modes on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume profiles — one-click switching between Meeting, Focus, and Chill modes on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Example profiles</h3>
 
@@ -2662,7 +2674,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume to <strong>200%</strong> — including Zoom. If a participant is too quiet, drag Zoom's slider to 150% or 180%. The audio signal is amplified beyond Zoom's built-in maximum, making even the quietest voices audible.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Zoom call volume to 180% on Mac for clearer audio during video calls" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Zoom call volume to 180% on Mac for clearer audio during video calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The key advantage: boosting Zoom doesn't affect anything else. Your music, notifications, and other apps stay at their current levels. Only Zoom gets louder.</p>
 
@@ -2701,7 +2713,7 @@ export const skArticles: ArticleSet = {
 
 <p>Done. Spotify is quieter. Zoom is unchanged. Notifications are unchanged. Everything else is unchanged. You didn't leave your current app — the menu bar popover opens right where you are.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial lowering Spotify volume independently while keeping other apps at full volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial lowering Spotify volume independently while keeping other apps at full volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Even better: save it as a profile</h2>
 
@@ -2754,7 +2766,7 @@ export const skArticles: ArticleSet = {
 
 <p>Since Apple won't build it, third-party apps fill the gap. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> is a native macOS menu bar app that gives you a volume mixer — independent volume sliders for every running application.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial providing per-app volume control on macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial providing per-app volume control on macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial is fully compatible with macOS Tahoe and uses Apple's modern Core Audio Tap API — no third-party audio drivers or kernel extensions required. It works cleanly with macOS's security model and doesn't interfere with other audio apps.</p>
 
@@ -2816,7 +2828,7 @@ export const skArticles: ArticleSet = {
 
 <p>Your call is crystal clear. Music is a subtle background. No device switching needed.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing Zoom at full volume and Spotify lowered during a call on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing Zoom at full volume and Spotify lowered during a call on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Even better: SoundDial's <strong>auto-ducking</strong> does this automatically. When you join a call, it detects your microphone activating and lowers all background apps to a level you configure (default 30%). When the call ends, everything returns to normal. No manual slider adjustment needed.</p>
 
@@ -2877,7 +2889,7 @@ export const skArticles: ArticleSet = {
 
 <p>Even if you can't prevent macOS from changing the system volume, you can protect your <em>per-app</em> volume balance. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> remembers the volume level of every app independently. When an app restarts or when your Mac wakes from sleep, SoundDial restores each app to its saved volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial remembering per-app volume levels across restarts on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial remembering per-app volume levels across restarts on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This means even if the system volume changes, your app-level balance stays consistent:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const skArticles: ArticleSet = {
 
 <p>SoundDial uses Apple's modern Core Audio Tap API for clean per-process audio control. It's lightweight, runs entirely in the menu bar, and doesn't require complex setup. At €14.99, it's significantly cheaper than SoundSource ($39) while including features SoundSource lacks — volume profiles and auto-ducking. And because it's on the Mac App Store, it's Apple-reviewed, sandboxed, and installs cleanly without downloading DMGs or installing system audio drivers.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial per-app volume mixer showing individual app volume sliders on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial per-app volume mixer showing individual app volume sliders on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Amoeba)</h3>
 
@@ -3113,7 +3125,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> solves this by giving every app — including Safari and Chrome — an independent volume slider that goes from 0% to <strong>200%</strong>. If a YouTube video is too quiet, drag your browser's slider to 150% or 180%. The audio is amplified in real-time without affecting any other app.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Safari browser volume to 180% for quiet YouTube videos on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Safari browser volume to 180% for quiet YouTube videos on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is especially useful because:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> does. It gives every app its own volume slider, so you can set notification-heavy apps like Slack, Mail, and Calendar to a much lower volume while keeping your media apps at a comfortable level.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing Slack at low volume and Spotify at normal volume — independent notification control on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing Slack at low volume and Spotify at normal volume — independent notification control on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>A typical headphone-friendly setup</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives you exactly this. Its auto-ducking feature monitors your microphone and automatically adjusts background audio when a call starts — but <strong>you control the duck level</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial auto-ducking settings — configurable volume reduction during Zoom calls on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial auto-ducking settings — configurable volume reduction during Zoom calls on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>How it works</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume up to <strong>200%</strong>. If Spotify is too quiet through your AirPods, drag Spotify's slider to 150% or 180% in SoundDial. The audio signal is amplified before it's sent to your AirPods, effectively making them louder than Apple intended.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting app volume for AirPods on Mac with per-app volume sliders up to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting app volume for AirPods on Mac with per-app volume sliders up to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The advantage of per-app boosting: you can boost the quiet app without making everything else louder. If your video call is fine at 100% but Spotify needs 170%, SoundDial lets you set each independently.</p>
 
@@ -3387,7 +3399,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume up to <strong>200%</strong> — including Spotify. It intercepts Spotify's audio stream and amplifies it beyond the app's built-in maximum, without affecting any other app's volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Spotify volume to 200% on macOS while keeping other apps at normal volume" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Spotify volume to 200% on macOS while keeping other apps at normal volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Here's the key difference: a system-wide volume boost would make <em>everything</em> louder — notifications, calls, system sounds — not just Spotify. SoundDial boosts Spotify <em>independently</em>. Set Spotify to 160% while your browser stays at 80% and Zoom stays at 100%.</p>
 
@@ -3440,7 +3452,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> sits in your menu bar and gives every app its own volume slider. You can set your game to 35% and Discord to 100% — or whatever ratio works for you. Change one and the other stays put.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing independent volume sliders for a game and Discord on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing independent volume sliders for a game and Discord on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typical gaming setup</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const skArticles: ArticleSet = {
 
 <p>The answer is a third-party menu bar app. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> is a native macOS volume mixer that does exactly what the Windows volume mixer does — plus more.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — the volume mixer for macOS, showing per-app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — the volume mixer for macOS, showing per-app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>What you get:</p>
 
@@ -3590,7 +3602,7 @@ export const skArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app on your Mac an independent volume slider that goes from 0% to <strong>200%</strong>. If a specific app is too quiet — a podcast player, a browser tab, a video call — you can boost just that app beyond 100% without touching anything else.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume boost — per-app volume control with 200% amplification on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume boost — per-app volume control with 200% amplification on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is particularly useful for:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const skArticles: ArticleSet = {
 <h3>Configuring the duck level</h3>
 <p>In SoundDial's settings, you can adjust the <strong>duck level</strong> — how much background audio is reduced during a call. The slider ranges from 10% (barely audible) to 80% (still quite present). The default of 30% works well for most people: music is noticeable but doesn't interfere with conversation.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial auto-ducking feature automatically lowering music volume during a Zoom call on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial auto-ducking feature automatically lowering music volume during a Zoom call on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Why auto-ducking is better than pausing</h2>
 
@@ -3763,7 +3775,7 @@ export const skArticles: ArticleSet = {
 
 <p>This is exactly what a per-app volume mixer does. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> sits in your menu bar and shows every running app with its own volume slider and mute button.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing per-app mute buttons for each application in the macOS menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing per-app mute buttons for each application in the macOS menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>To mute one app:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const skArticles: ArticleSet = {
 
 <p>It sits in your menu bar and shows every running application with its own volume slider. Drag a slider to adjust that app's volume from 0% to 200%. Click the speaker icon to mute it instantly. Switch between saved profiles for different situations. Enable auto-ducking and your music automatically gets quieter when a call starts.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume mixer for macOS showing individual app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume mixer for macOS showing individual app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Key features:</p>
 <ul>
@@ -3889,5 +3901,2353 @@ export const skArticles: ArticleSet = {
 
 <p>One-time purchase. No subscription. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Najlepšia alternatíva Background Music pre Mac (2026)",
+    description: "Background Music sa pokazí na novšom macOS? Najspoľahlivejšou alternatívou miešania hlasitosti pre jednotlivé aplikácie je SoundDial – aplikácia Mac App Store v karanténe s podporou a profilmi.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak Background Music prestal fungovať po aktualizácii macOS, najspoľahlivejšou alternatívou je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — panel s ponukami pre jednotlivé aplikácie zo Mac App Store. Každej aplikácii dáva vlastný posuvník hlasitosti, pridáva stlmenie, zosilnenie, profily hlasitosti a automatické znižovanie hlasitosti a je plne izolované a skontrolované spoločnosťou Apple, takže pri ďalšom vydaní macOS nie sú potrebné žiadne zvukové ovládače.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – najlepšia alternatíva Background Music pre Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo sa Background Music pokazí na novšom macOS</h2>
+
+<p>Background Music je skutočne šikovný bezplatný projekt s otvoreným zdrojom. Používateľom Mac to dalo niečo, čo Apple nikdy nemal: mixér hlasitosti pre jednotlivé aplikácie, aký má Windows už roky. Ale jeho dizajn je tiež dôvodom, prečo stále zlyháva.</p>
+
+<p>Na smerovanie a ovládanie zvuku nainštaluje Background Music virtuálne zvukové zariadenie – ovládač na systémovej úrovni, ktorý zachytáva zvuk vášho Mac. Tento prístup fungoval dobre na staršom macOS, ale každé hlavné vydanie sprísňuje zabezpečenie rozšírení jadra a zvuku. Bežné príznaky, ktoré používatelia hlásia:</p>
+
+<ul>
+<li>Po inštalácii alebo po aktualizácii operačného systému nie je žiadny zvuk.</li>
+<li>Virtuálne zariadenie sa nepodarí načítať, takže smerovanie zvuku sa ticho zastaví.</li>
+<li>Na obnovenie aplikácie je potrebné preinštalovať, reštartovať alebo manuálne odstrániť ovládač.</li>
+<li>Vývoj je riadený komunitou a tempom dobrovoľníkov, takže opravy nového macOS môžu zaostávať.</li>
+</ul>
+
+<p>Nič z toho nerobí Background Music „zlým“. Znamená to len, že bezplatný nástroj založený na ovládačoch je svojou povahou krehký, a ak sa každý deň spoliehate na objem jednotlivých aplikácií, táto krehkosť rýchlo zostarne.</p>
+
+<h2>Čo hľadať pri náhrade</h2>
+
+<p>Pred výberom akejkoľvek alternatívy sa rozhodnite, čo skutočne potrebujete:</p>
+
+<ul>
+<li><strong>Spoľahlivosť v rámci aktualizácií macOS.</strong> Ak nainštaluje jadro alebo rozšírenie zvuku, počítajte s občasným rozbitím.</li>
+<li><strong>Skutočné ovládanie podľa aplikácie.</strong> Základom je nezávislá hlasitosť a stlmenie pre každú aplikáciu.</li>
+<li><strong>Boost.</strong> Niektoré aplikácie (nástroje na tiché stretnutia, určité prehliadače) sú jednoducho príliš tiché – chcete sa dostať cez 100 %.</li>
+<li><strong>Pohodlné funkcie.</strong> Profily a automatické uhýbanie sú to, čo premení nástroj na niečo, čo máte otvorené celý deň.</li>
+<li><strong>Bezpečná inštalácia.</strong> Aplikácia Mac App Store v karanténe sa nemôže dotknúť vnútorných častí systému, takže odinštalovanie je čisté a aktualizácie sú automatické.</li>
+</ul>
+
+<h2>Prečo je SoundDial spoľahlivý výber</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> bol vytvorený tak, aby presne vyriešil problém, s ktorým sa stretávajú používatelia Background Music: chcú objem pre jednotlivé aplikácie, ale nechcú strážiť vodiča. Žije vo vašom paneli s ponukami a dobre robí základnú prácu:</p>
+
+<ul>
+<li><strong>Nezávislá hlasitosť pre každú aplikáciu</strong>so stlmením pre jednotlivé aplikácie na rovnakom paneli.</li>
+<li><strong>Zosilnenie podľa aplikácie</strong> aby boli tiché aplikácie dostatočne hlasné, aby ich skutočne počuli.</li>
+<li><strong>Objemové profily</strong> — uložiť mix (povedzme „stretnutie“ alebo „hranie“) a okamžite prepínať namiesto presúvania posúvačov zakaždým.</li>
+<li><strong>Auto-ducking</strong>, takže zvuk na pozadí sa automaticky zníži, keď by mal.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> medzi reproduktormi, slúchadlami a inými zariadeniami.</li>
+</ul>
+
+<p>Väčší rozdiel je v spôsobe inštalácie. SoundDial sa dodáva prostredníctvom Mac App Store, čo znamená, že je skontrolovaný spoločnosťou Apple a v karanténe. Neexistuje žiadny DMG na pretiahnutie, žiadny zvukový ovládač alebo systémové rozšírenie a žiadny prístup k jadru. To je jediný najdôležitejší dôvod, prečo sa nezlomí tak, ako to robí Background Music, keď príde nový macOS – nie je zapojený do častí systému, ktoré Apple neustále blokuje.</p>
+
+<p>To stojí <strong>14,99 € jednorazovo</strong>. Nie je to zadarmo, ale nie je tam žiadne predplatné a platíte za niečo udržiavané a bezpečné na inštaláciu.</p>
+
+<h2>SoundDial vs. Background Music vs. bezplatné nástroje</h2>
+
+<p>Background Music nie je vašou jedinou bezplatnou možnosťou, takže tu je poctivý pozemok:</p>
+
+<ul>
+<li><strong>Background Music (zadarmo, open-source):</strong> objem na aplikáciu, ale založený na ovládači, náchylný na zlomenie na novšom macOS a chýba mu podpora, profily a automatické stláčanie.</li>
+<li><strong>FineTune (zadarmo, open-source):</strong> ľahká aplikácia na úpravu hlasitosti pre jednotlivé aplikácie. Dobré, ak je zadarmo, je vašou jedinou požiadavkou, ale tenké na doplnky.</li>
+<li><strong>eqMac (zadarmo):</strong> primárne systémový ekvalizér a zosilňovač, nie skutočný mixér pre jednotlivé aplikácie.</li>
+<li><strong>SoundSource od Rogue Amoeba (~ 39 USD):</strong> možnosť profesionálnej úrovne s ekvalizérom pre jednotlivé aplikácie a úplným výstupným smerovaním. Vynikajúce, ale je to viac ako dvojnásobok ceny SoundDial a stále vyžaduje stiahnutie plus ovládač na zachytávanie zvuku.</li>
+<li><strong>SoundDial (14,99 EUR, Mac App Store):</strong> stredná cesta – skutočná hlasitosť jednotlivých aplikácií, stlmenie, zosilnenie, profily a skracovanie, dodávané ako čistá izolovaná inštalácia bez ovládačov.</li>
+</ul>
+
+<p>Ak potrebujete EQ pre jednotlivé aplikácie alebo komplexné smerovanie štúdia, SoundSource stojí za peniaze navyše. Ak chcete bezplatný drotársky nástroj a dokážete tolerovať občasné rozbitie, FineTune alebo Background Music vám poslúži. Ak je však vaším cieľom „dať každej aplikácii jej vlastný objem a prestať ju rušiť pri každej aktualizácii macOS“, SoundDial zasiahne tento cieľ s čo najmenšími problémami.</p>
+
+<h2>Kontext macOS, ktorý to vyžaduje</h2>
+
+<p>Stojí za to povedať jasne: macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden už roky vo svojej objemovej ponuke, ale na Mac systémový posuvník ovláda všetko naraz. Táto medzera je hlavným dôvodom existencie nástrojov ako Background Music a SoundDial. Keďže to Apple nenapĺňa, praktickou otázkou je, ktorému prístupu tretej strany dôverujete – bezplatnému ovládaču, ktorý bojuje s OS, alebo aplikácii v karanténe, ktorá s ním spolupracuje.</p>
+
+<p>Ste pripravení prestať bojovať s nefunkčnými zvukovými ovládačmi? Získajte <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 € a spoľahlivo ovládajte hlasitosť každej aplikácie.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial: Ktorá aplikácia Mac Volume vyhráva?",
+    description: "SoundSource (39 USD, pro-grade) oproti SoundDial (14,99 EUR, App Store). Porovnajte hlasitosť, zosilnenie, profily a automatické znižovanie hlasitosti jednotlivých aplikácií a vyberte si ten správny mixér Mac pre vás.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak chcete iba ovládanie hlasitosti pre jednotlivé aplikácie, ktoré sa inštaluje čisto a stojí menej, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je lepšia kúpa pre väčšinu ľudí: 14,99 € jednorazovo, od Mac App Store, s hlasitosťou na aplikáciu, stlmením, zosilnením, profilmi a automatickým znížením hlasitosti. Vyberte si SoundSource od Rogue Amoeba (~ 39 $) iba vtedy, ak konkrétne potrebujete EQ pre jednotlivé aplikácie a pokročilé smerovanie výstupu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial: Ktorá aplikácia Mac Volume vyhrá?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Krátka verzia</h2>
+<p>macOS stále nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows ho má už roky, ale na Mac posúvač hlasitosti systému posúva všetko naraz. SoundSource aj SoundDial existujú, aby túto medzeru napravili. Len sa zameriavajú na rôznych kupujúcich.</p>
+<ul>
+<li><strong>SoundDial</strong> — 14,99 € jednorazovo, Mac App Store, aplikácia na lište menu. Nezávislá hlasitosť na aplikáciu, stlmenie podľa aplikácie, zosilnenie podľa aplikácie, uložené profily, automatické stlmenie a rýchle prepínanie výstupu. V karanténe a skontrolované spoločnosťou Apple, takže žiadna inštalácia ovládača.</li>
+<li><strong>SoundSource</strong> — ~ 39 USD, priame stiahnutie zo Rogue Amoeba. Všetko vyššie plus ekvalizér pre jednotlivé aplikácie, pokročilé smerovanie výstupu a zvukové efekty. Vyžaduje inštaláciu malého ovládača na zachytávanie zvuku.</li>
+</ul>
+
+<h2>Cena a ako to kupujete</h2>
+<p>Toto je najjasnejšie rozdelenie. SoundSource stojí zhruba 39 dolárov a predáva ho priamo Rogue Amoeba. SoundDial stojí 14,99 EUR ako jednorazový nákup na Mac App Store – o niečo viac ako tretina ceny.</p>
+<p>Pretože <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodáva sa cez App Store, je v sandboxe, notársky overený a skontrolovaný spoločnosťou Apple. Kliknete na tlačidlo Získať, nainštaluje sa a je hotovo. Neexistuje žiadne pripojenie DMG, žiadne povolenia na udelenie komponentu susediacemu s jadrom a žiadny zvukový ovládač alebo rozšírenie systému. Funguje tiež spolu s bežným tokom aktualizácie App Store a synchronizuje sa s ostatnými Mac na rovnakom Apple ID.</p>
+<p>SoundSource sa stiahne mimo App Store a nainštaluje ovládač na zachytávanie zvuku, aby mohol zachytiť a spracovať zvuk každej aplikácie. To odomyká jeho profesionálne funkcie, no znamená to aj ďalší krok inštalácie a komponent, ktorý žije hlbšie v systéme.</p>
+
+<h2>Čo SoundSource robí, čo SoundDial nie</h2>
+<p>SoundSource získava svoju cenu pre špecifický druh používateľov. Ak vás niektorá z týchto možností vystihuje, stojí to za peniaze navyše:</p>
+<ul>
+<li><strong>EQ podľa aplikácie.</strong> Chcete 10-pásmový ekvalizér na, povedzme, Spotify, zatiaľ čo Zoom necháte plochý. SoundDial robí hlasitosť, nie EQ.</li>
+<li><strong>Pokročilé smerovanie výstupu.</strong> Odosielanie jednej aplikácie do reproduktorov a druhej do slúchadiel alebo špecifického rozhrania s jemným ovládaním.</li>
+<li><strong>Zvukové efekty a doplnky.</strong> SoundSource môže hostiť efekty na základe jednotlivých aplikácií – skutočne profesionálne územie.</li>
+</ul>
+<p>Rogue Amoeba má dlhú a dôveryhodnú históriu. SoundSource je seriózny nástroj a má rovnakú cenu. Ak ste audio profík alebo náročný používateľ s viacerými výstupmi, je to tá správna voľba.</p>
+
+<h2>Čo SoundDial robí lepšie pre každodenné použitie</h2>
+<p>Väčšina ľudí, ktorí hľadajú „Mac volume mixer“, nepotrebuje EQ. Potrebujú jednu aplikáciu tichšiu ako druhú a nechcú bojovať s inštalatérom, aby ju získali. SoundDial to čisto pokrýva a pridáva niekoľko vecí, ktoré stojí za zmienku:</p>
+<ul>
+<li><strong>Zosilnenie podľa aplikácie.</strong> Niektoré aplikácie a videá sú príliš tiché aj pri 100 %. SoundDial dokáže posunúť jedinú aplikáciu nad svoj normálny strop, takže konečne bude počuť tiché stretnutie alebo podcast.</li>
+<li><strong>Objemové profily.</strong> Uložte si úplné nastavenie – hudba je nízka, prehliadač je stlmený, volajte aplikáciu nahlas – a okamžite si ho vyvolajte. Skvelé na prepínanie medzi „zameraním“, „stretnutím“ a „hraním“ bez ťahania piatich posúvačov.</li>
+<li><strong>Auto-ducking.</strong> Automaticky ponorte zvuk na pozadí (napríklad hudbu), keď sa spustí iný zdroj, aby sa upozornenia, hovory alebo video nezastavili.</li>
+<li><strong>Rýchle prepínanie výstupov.</strong> Preskakujte medzi reproduktormi, slúchadlami a inými zariadeniami z panela s ponukami.</li>
+</ul>
+<p>To všetko sa spúšťa z rozbaľovacej ponuky na paneli s ponukami, takže po zvyšok času stačí kliknúť a z vašej tváre von.</p>
+
+<h2>Bezplatné alternatívy, stručne</h2>
+<p>V rovnakých vyhľadávaniach sa zobrazí niekoľko bezplatných možností. Oplatí sa o nich vedieť:</p>
+<ul>
+<li><strong>Background Music</strong> — bezplatný a open source, poskytuje základný objem pre jednotlivé aplikácie. Môže sa však zlomiť na novších vydaniach macOS a nemá žiadne zosilnenie, profily ani automatické sklopenie.</li>
+<li><strong>FineTune</strong> — bezplatná aplikácia na hlasitosť panela s ponukami s otvoreným zdrojom. Jednoduché, ale s obmedzeným rozsahom.</li>
+<li><strong>eqMac</strong> — bezplatný ekvalizér a zosilňovač systému, viac systémový nástroj EQ ako skutočný mixér pre jednotlivé aplikácie.</li>
+</ul>
+<p>Zadarmo je skvelé, ak to funguje pre vás. Kompromisom je kompatibilita a podpora: zvukové nástroje s otvoreným zdrojovým kódom môžu zaostávať za aktualizáciami macOS a funkcie ako profily a uhýbanie vo všeobecnosti neexistujú. Ak je vaše nastavenie dôležité pre váš pracovný deň, zaplatiť raz za niečo skontrolované a udržiavané je zvyčajne pokojnejšia cesta.</p>
+
+<h2>Ktorý by ste si mali kúpiť?</h2>
+<p>Odpovedzte na jednu otázku: potrebujete EQ pre každú aplikáciu alebo pokročilé smerovanie výstupu?</p>
+<ul>
+<li><strong>áno</strong> - kúpiť SoundSource. Je na to stvorený a ~39 $ je spravodlivých za profesionálny nástroj s motorom na úrovni vodiča.</li>
+<li><strong>Nie, chcem len objem jednotlivých aplikácií, podporu a čistú inštaláciu</strong> - kúpiť SoundDial. Dostanete mixovanie, na ktorom skutočne záleží každý deň, plus profily a automatické stláčanie za 14,99 EUR a nulové problémy s vodičom.</li>
+</ul>
+<p>Pre veľkú väčšinu používateľov Mac je toto druhé vedro úprimnou odpoveďou. Platíte za ovládanie hlasitosti, nie za štúdio.</p>
+
+<p><strong>Ste pripravení opraviť objem Mac jednoduchým spôsobom?</strong> Získajte <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> — 14,99 EUR jednorazovo, bez ovládačov, bez DMG. Hlasitosť jednotlivých aplikácií, zvýšenie, profily a automatické zníženie na jedno kliknutie.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Lacnejšia alternatíva SoundSource pre objem jednotlivých aplikácií na Mac",
+    description: "Chcete objem na aplikáciu v štýle SoundSource bez ceny 39 USD? SoundDial je 14,99 EUR Mac App Store panelový mixpult s podporou, profilmi a automatickým stláčaním.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak chcete na svojom Mac ovládať hlasitosť v štýle SoundSource pre jednotlivé aplikácie, ale 39 dolárov sa zdá byť strmých, najrýchlejšia spoľahlivá oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Je to 14,99 EUR jednorazový mix panel s ponukami od Mac App Store, ktorý každej aplikácii poskytuje vlastný posuvník hlasitosti, stlmenie a zosilnenie – plus profily a automatické stláčanie – bez potreby sťahovania alebo inštalácie ovládača zvuku.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – lacnejšia alternatíva SoundSource pre objem jednotlivých aplikácií na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo ľudia hľadajú alternatívu SoundSource</h2>
+<p>SoundSource od Rogue Amoeba je vynikajúci softvér. Je to skutočne profesionálne: ekvalizéry pre jednotlivé aplikácie, zvukové efekty a smerovanie výstupu, ktoré vám umožní poslať jednu aplikáciu do slúchadiel a druhú do reproduktorov. Ale táto sila prichádza s dvoma trecími bodmi. Po prvé, cena - okolo 39 dolárov. Po druhé, nainštaluje ovládač na zachytávanie zvuku na systémovej úrovni mimo App Store, na čo sú niektorí ľudia na pracovnom stroji opatrní alebo jednoducho nechcú spravovať aktualizácie macOS.</p>
+<p>Pre väčšinu ľudí je skutočná potreba oveľa jednoduchšia: vypnúť Spotify bez toho, aby ste sa dotkli hovoru Zoom, stlmiť hlučnú aplikáciu na karte prehliadača alebo zvýšiť tichý prehrávač videa na viac ako 100 %. Ak ste to vy, platíte profesionálne peniaze za funkcie, ktoré nikdy neotvoríte.</p>
+
+<h2>Čo robí SoundDial – a čo to stojí</h2>
+<p>SoundDial sa zameriava na prácu s objemom jednotlivých aplikácií a robí to čisto. Otvorte panel s ponukami a získate živý zoznam všetkého, čo vydáva zvuk, každý s vlastným ovládaním:</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — jeden posuvník na aplikáciu, upravený v reálnom čase.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — Okamžite stíšiť jednu aplikáciu bez pozastavenia čohokoľvek iného.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> — posuňte tiché aplikácie nad ich normálne maximum, keď je video alebo hovor príliš tichý.</li>
+<li><strong>Objemové profily</strong> – uložte mix (napr. „Zameranie“, „Hry“, „Stretnutie“) a prepínajte jedným kliknutím.</li>
+<li><strong>Auto-ducking</strong> — automaticky ponorte ďalšie aplikácie, keď sa začne hrať niečo dôležitejšie.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — preskakovanie medzi reproduktormi, slúchadlami a inými zariadeniami z rovnakej ponuky.</li>
+</ul>
+<p>Cena je <strong>14,99 €, platí sa raz</strong> — žiadne predplatné. To je zhruba tretina nákladov na SoundSource vzhľadom na objemové funkcie, po ktorých väčšina používateľov skutočne siaha.</p>
+
+<h2>Rozdiel App Store</h2>
+<p>Pretože SoundDial sa dodáva cez <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, je to skontrolované spoločnosťou Apple a v karanténe. Neexistuje žiadny DMG na pretiahnutie, žiadne rozšírenie jadra alebo ovládač na zachytávanie zvuku na schválenie a žiadny samostatný aktualizátor. Nainštalujete ju ako ktorúkoľvek inú aplikáciu App Store a funguje to. Keď sa aktualizuje macOS, nebudete sa pýtať, či nízkoúrovňový audio komponent stále funguje.</p>
+<blockquote>macOS stále nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows ho má už roky, ale na Mac je systémový objem všetko alebo nič – čo je presne medzera, ktorú tieto nástroje zapĺňajú.</blockquote>
+
+<h2>Ako je to v porovnaní s bezplatnými možnosťami</h2>
+<p>SoundSource nie je vašou jedinou alternatívou. Existujú bezplatné nástroje a je dôležité, aby ste o nich boli úprimní:</p>
+<ul>
+<li><strong>Background Music</strong> je bezplatná aplikácia s otvoreným zdrojom pre jednotlivé aplikácie. Funguje to pre mnohých ľudí, ale pri novších vydaniach macOS sa to môže zlomiť, aktualizácie sú nepravidelné a nemá to žiadnu podporu, žiadne profily a žiadne automatické stláčanie.</li>
+<li><strong>FineTune</strong> je bezplatná aplikácia na hlasitosť v paneli s ponukami s otvoreným zdrojovým kódom – ľahká a praktická, ale opäť jej chýbajú funkcie profilu a zmenšovania.</li>
+<li><strong>eqMac</strong> je bezplatný EQ a systémový zosilňovač. Je to skôr nástroj na ekvalizér/posilnenie než skutočný mixér pre jednotlivé aplikácie a nezameriava sa na jednotlivé posúvače aplikácií.</li>
+</ul>
+<p>Zadarmo je legitímna voľba. Kompromisom je spoľahlivosť a funkcie: audio nástroje s otvoreným zdrojovým kódom závisia od dobrovoľnej údržby a môžu zaostávať za zmenami macOS a žiadna z bezplatných možností nezdružuje profily plus automatické uhýbanie, ako to robí SoundDial. Ak je vaše nastavenie jednoduché a nevadí vám občasné rozbitie, môže stačiť bezplatná aplikácia. Ak chcete niečo, čo je udržiavané, pieskované a jednoducho funguje, za 14,99 € dostanete presne to.</p>
+
+<h2>Sprievodca rýchlym rozhodovaním</h2>
+<ul>
+<li><strong>Potrebujete ekvalizér pre jednotlivé aplikácie, zvukové efekty a smerovanie jednej aplikácie do iného výstupného zariadenia</strong> → SoundSource stojí za svoju cenu. Nič to tu plne nenahradí.</li>
+<li><strong>Potrebujete hlavne hlasitosť aplikácie, stlmenie, zosilnenie, profily a zníženie hlasitosti – bez ovládačov</strong> → SoundDial za 14,99 EUR je cenovo výhodnejšia voľba.</li>
+<li><strong>Chcete zadarmo a nevadí vám riziko údržby</strong> → najprv vyskúšajte Background Music, FineTune alebo eqMac.</li>
+</ul>
+
+<h2>Nastavenie</h2>
+<p>Spustenie trvá približne minútu:</p>
+<ul>
+<li>Nainštalujte SoundDial zo Mac App Store – žiadne externé sťahovanie.</li>
+<li>Udeľte povolenie na zvuk, na ktoré vás macOS vyzve pri prvom spustení.</li>
+<li>Prehrajte zvuk v niekoľkých aplikáciách a otvorte ikonu na paneli s ponukami; uvidíte každý s vlastným posúvačom.</li>
+<li>Potiahnutím nastavíte úrovne, klepnutím stlmíte alebo posunutím nad 100 % zvýšite.</li>
+<li>Uložte si nastavenie ako profil a zapnite automatické stlmenie, ak chcete, aby sa ostatné aplikácie počas hovorov alebo médií stlmili.</li>
+</ul>
+<p>To je celý pracovný postup – žiadne konfiguračné súbory, žiadne reštartovanie, žiadne rozšírenie systému.</p>
+
+<h2>Spodný riadok</h2>
+<p>SoundSource je výkonnejší nástroj, ale väčšina ľudí, ktorí ho hľadajú, chce iba objem podľa aplikácie, ktorý sa správa. SoundDial to poskytuje za približne tretinovú cenu, bezpečne sa dodáva cez App Store a navrch pridáva profily a automatické sklopenie – bez inštalácie jediného ovládača.</p>
+
+<p>Ste pripravení ovládať hlasitosť každej aplikácie nezávisle? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za 14,99 €, jednorazovo.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune Alternatíva pre Mac: Podporovaný mixér hlasitosti podľa aplikácie",
+    description: "Vyskúšali ste bezplatnú aplikáciu na paneli s ponukami FineTune a chcete niečo udržiavané a bezpečné pre App Store? Tu je najlepšia alternatíva FineTune pre objem jednotlivých aplikácií na Mac.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak sa vám páčil FineTune, ale chcete niečo aktívne udržiavať a inštalovať z dôveryhodného zdroja, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je najrýchlejšia spoľahlivá oprava. Je to Mac App Store panel s ponukami pre jednotlivé aplikácie s nezávislým hlasitosťou, stlmením zvuku podľa aplikácie, zvýšením hlasitosti, uloženými profilmi a automatickým znížením hlasitosti. Po recenzii od spoločnosti Apple a v karanténe stojí raz 14,99 EUR bez inštalácie ovládačov.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – FineTune Alternatíva pre Mac: Podporovaný mixér hlasitosti podľa aplikácie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo vôbec hľadať alternatívu FineTune?</h2>
+
+<p>FineTune je pekný nápad: bezplatná aplikácia na paneli s ponukami s otvoreným zdrojovým kódom, ktorá vám umožňuje ovládať hlasitosť jednotlivých aplikácií na macOS, čo Apple stále odmieta zabudovať (Windows má mixér pre jednotlivé aplikácie už roky). Pre veľa ľudí to robí základnú prácu. Existujú však skutočné dôvody, prečo používatelia hľadajú niečo iné.</p>
+
+<ul>
+<li><strong>Údržba je neistá.</strong> Open-source hobby projekty žijú a umierajú vo voľnom čase jedného správcu. Keď macOS dodáva veľkú aktualizáciu, aplikácie súvisiace so zvukom sa často pokazia ako prvé a vy čakáte na dobrovoľnú opravu, ktorá nemusí nikdy prísť.</li>
+<li><strong>Charakteristický strop.</strong> FineTune pokrýva objem jednotlivých aplikácií a nič viac. Ak chcete zvýšenie nad 100 %, uložené profily alebo automatické uhýbanie, musíte použiť iné nástroje.</li>
+<li><strong>Dôvera a aktualizácie.</strong> Inštalácia surovej zostavy mimo App Store znamená žiadnu automatickú kontrolu, žiadne záruky sandboxu a manuálne aktualizácie, ktoré musíte sledovať sami.</li>
+</ul>
+
+<p>Nič z toho nerobí FineTune zlým. Znamená to len, že ak sa každý deň spoliehate na zvuk z jednotlivých aplikácií, pravdepodobne budete chcieť niečo s modelom podpory.</p>
+
+<h2>Čo robí SoundDial inak</h2>
+
+<p>SoundDial vychádza z rovnakej základnej myšlienky, mixéra s panelom ponúk s posuvným ovládačom pre každú spustenú aplikáciu, a potom ide ešte ďalej s funkciami, ktoré pokročilí používatelia skutočne požadujú.</p>
+
+<ul>
+<li><strong>Nezávislý objem na aplikáciu.</strong> Vypnite Spotify, udržujte hovor na plnej hlasitosti, úplne stlmte hlučnú aplikáciu na karte prehliadača, to všetko v jednej ponuke.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie.</strong> Posuňte tichú aplikáciu nad jej normálny strop, keď bol podcast alebo video zvládnuté príliš nízko. FineTune to nerobí.</li>
+<li><strong>Objemové profily.</strong> Uložte si mix, „zamerajte sa“, „hranie“, „stretnutia“ a prepnite celé nastavenie jediným kliknutím namiesto posúvania piatich posúvačov.</li>
+<li><strong>Auto-ducking.</strong> Automaticky znížte zvuk na pozadí, keď sa začne hrať niečo dôležitejšie, takže hudba pri prichádzajúcom hovore klesá.</li>
+<li><strong>Rýchle prepínanie výstupov.</strong> Preskakujte medzi reproduktormi, slúchadlami a inými výstupmi bez toho, aby ste sa museli ponoriť do nastavení systému.</li>
+</ul>
+
+<p>Pretože <a href="https://apps.apple.com/app/id6772792641">SoundDial sa dodáva prostredníctvom Mac App Store</a>, je skontrolovaná spoločnosťou Apple a v karanténe, inštaluje sa čisto a aktualizuje sa rovnakým mechanizmom ako každá iná aplikácia App Store. Neexistuje žiadny DMG na pretiahnutie, žiadny zvukový ovládač alebo systémové rozšírenie a žiadna bezpečnostná výzva, ktorá by vás požiadala o povolenie komponentu na úrovni jadra.</p>
+
+<h2>SoundDial vs. FineTune a ďalšie bezplatné nástroje</h2>
+
+<p>FineTune nie je jediná bezplatná možnosť a pomáha úprimne vidieť celú krajinu.</p>
+
+<ul>
+<li><strong>FineTune</strong> — Bezplatný, open source, panel s ponukami pre každú aplikáciu. Jednoduché a ľahké, ale bez podpory, bez profilov, bez uhýbania a údržba závisí od komunity.</li>
+<li><strong>Background Music</strong> - Bezplatný a otvorený zdroj, smeruje a upravuje zvuk pre jednotlivé aplikácie. Skutočne užitočné, ale na novších vydaniach macOS sa môže zlomiť a chýba mu podpora, profily a klesanie.</li>
+<li><strong>eqMac</strong> — Voľný EQ a zosilňovač systému. Skvelé, ak chcete hlavne ekvalizér, ale nie je to mixér pre jednotlivé aplikácie.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - Profesionálna možnosť za približne 39 dolárov s ekvalizérom pre aplikáciu a výstupným smerovaním. Vynikajúce, ale vyžaduje si to stiahnutie plus ovládač na zachytávanie zvuku a stojí to viac ako dvakrát toľko.</li>
+<li><strong>SoundDial</strong> — 14,99 € jednorazovo, App Store-bezpečné, bez ovládačov. Pridáva zvýšenie, profily a automatické znižovanie k základom hlasitosti jednotlivých aplikácií.</li>
+</ul>
+
+<p>Úprimné zhrnutie: ak chcete úplne najlacnejšiu vec a potrebujete iba základný objem na aplikáciu, bezplatné nástroje môžu fungovať. Ak chcete EQ a smerovanie podľa aplikácie a nevadí vám zaplatiť a nainštalovať ovládač, SoundSource je ťažká váha. SoundDial sedí na sladkom mieste, je schopnejší ako bezplatné aplikácie, výrazne lacnejší ako SoundSource a bezpečnejší na inštaláciu, pretože ho Apple kontroluje a ukladá do karantény.</p>
+
+<h2>Prechod zo FineTune</h2>
+
+<p>Prepínanie trvá niekoľko minút a nie je tu žiadny čistiaci rituál.</p>
+
+<ul>
+<li>Nainštalujte SoundDial zo Mac App Store. Žiadny inštalačný program, žiadne schválenie ovládača, žiadny reštart.</li>
+<li>Kliknutím na ikonu SoundDial na lište ponuky zobrazíte posúvač pre každú spustenú aplikáciu.</li>
+<li>Nastavte si svoj každodenný mix a potom ho uložte ako profil, aby ste si ho mohli okamžite vyvolať.</li>
+<li>Voliteľne zapnite automatické stlmenie zvuku, aby sa zvuk na pozadí ustúpil pre hovory a upozornenia.</li>
+<li>Keď ste spokojní, ukončite FineTune. Keďže ani jedna aplikácia neinštaluje systémové ovládače, nie je potrebné nič odinštalovať.</li>
+</ul>
+
+<p>Ponecháte si to, čo sa vám páčilo na FineTune, čistom mixážnom paneli s ponukami, ktorý vám Apple nikdy nedal, a získate podporu, profily, zmenšovanie a dlhodobú podporu, ktorú poskytuje udržiavaná aplikácia App Store.</p>
+
+<h2>Spodný riadok</h2>
+
+<p>FineTune dokazuje koncept: hlasitosť jednotlivých aplikácií patrí do panela s ponukami. Takto vyzerá koncept SoundDial so skutočným modelom podpory, viacerými funkciami a bezpečnosťou App Store za jednorazových 14,99 EUR namiesto stávky na dobrovoľnú údržbu.</p>
+
+<p>Ste pripravení na mixér pre jednotlivé aplikácie, ktorý zostane zachovaný? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a ovládajte hlasitosť každej aplikácie v priebehu niekoľkých sekúnd.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Alternatíva pre skutočný objem na aplikáciu na Mac",
+    description: "Páčilo sa vám zlepšenie eqMac, ale potrebujete správnu hlasitosť, stlmenie a profily pre jednotlivé aplikácie? SoundDial je najrýchlejšia oprava Mac App Store – 14,99 EUR, v sandboxe, bez ovládačov.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak ste použili eqMac na ekvalizér a zvýšenie hlasitosti, ale naozaj chcete nezávislú hlasitosť pre každú aplikáciu – plus stlmenie, zosilnenie a uložené profily – najrýchlejšia spoľahlivá oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Je to Mac App Store panelový mixážny pult: nastavte úroveň pre každú aplikáciu, zosilnite tie tiché a okamžite prepínajte profily. 14,99 EUR jednorazovo, v karanténe, bez inštalácie ovládačov.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – eqMac Alternatíva pre skutočný objem na aplikáciu na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac vs. to, čo skutočne potrebujete</h2>
+
+<p>eqMac je solídny bezplatný nástroj a jeho systémový ekvalizér a zosilňovač hlasitosti sú skutočne užitočné. Ale eqMac je postavený na jednom hlavnom EQ a jednom hlavnom výstupe. Neposkytuje vám skutočný mixér hlasitosti pre jednotlivé aplikácie – to, čo má Windows už roky a macOS sa stále nedodáva natívne.</p>
+
+<p>Takže ak je váš skutočný problém „Spotify je príliš hlasný, keď telefonujem“ alebo „táto hra mi fúka uši, ale všetko ostatné je v poriadku“, eqMac nie je ten správny tvar pre túto prácu. Nakoniec budete jazdiť na jednom hlavnom posúvači alebo si pohrať s vnútorným objemom každej aplikácie. To je medzera, ktorú vypĺňa SoundDial.</p>
+
+<h2>Čo SoundDial robí, čo eqMac nie</h2>
+
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — Hudba na 40 %, prehliadač na 100 %, videohovor na 70 %, všetko naraz, všetko zapamätané.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> - okamžite stíšte jednu hlučnú aplikáciu bez toho, aby ste sa dotkli čohokoľvek iného.</li>
+<li><strong>Zosilnenie podľa aplikácie</strong> — posuňte tichú aplikáciu za jej normálny strop, ako to robí zosilňovač eqMac, ale je zameraný na jednu aplikáciu namiesto celého systému.</li>
+<li><strong>Objemové profily</strong> — uložte nastavenia ako „Zameranie“, „Hry“ alebo „Stretnutie“ a prepnite celý mix jediným kliknutím.</li>
+<li><strong>Auto-ducking</strong> — automaticky pustiť zvuk na pozadí, keď sa začne niečo dôležitejšie, aby ste počas hovoru nemuseli hľadať posúvač.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami a inými výstupmi z panela ponuky.</li>
+</ul>
+
+<p>Prekrytie so eqMac je v podstate podpora. Všetko ostatné – mixážny pult, stlmenie zvuku, profily, skrútenie – je oblasť, ktorú eqMac nikdy nepokrýval.</p>
+
+<h2>Stále chcete EQ?</h2>
+
+<p>Buďte úprimní v tom, ktorý problém riešite. Ak skutočne potrebujete frekvenčný ekvalizér – rezanie basov, skrotenie drsných výšok, tvarovanie tónu celého vášho systému – potom má eqMac stále miesto a je zadarmo. SoundDial je mixér hlasitosti, nie ekvalizér.</p>
+
+<p>Väčšina ľudí však siahne po zosilňovači eqMac nie preto, že by chceli tvarovať frekvencie, ale chcú jednu aplikáciu hlasnejšiu alebo vyvážený mix. Ak ste to vy, vyhradený mixér je čistejšou odpoveďou. Môžete dokonca spustiť oboje: ponechajte eqMac pre krivku EQ pre celý systém a použite SoundDial pre úrovne podľa aplikácie. Nehádajú sa o rovnakú prácu.</p>
+
+<h2>Ako sa porovnáva s ostatnými zvukovými nástrojmi Mac</h2>
+
+<p>Keďže už lovíte nástroje, tu je úprimná krajina:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — Profesionálna možnosť za približne 39 USD s ekvalizérom na aplikáciu a úplným výstupným smerovaním. Výkonný, ale vyžaduje priame stiahnutie a nainštaluje ovládač na zachytávanie zvuku. Prehnané a drahšie, ak chcete iba objem jednotlivých aplikácií s profilmi.</li>
+<li><strong>Background Music</strong> — bezplatný a otvorený zdroj, ale na novších vydaniach macOS sa môže zlomiť a nemá žiadne zosilnenie, žiadne profily a žiadne automatické stláčanie. Skvelé, keď to funguje, frustrujúce, keď to nefunguje.</li>
+<li><strong>FineTune</strong> - bezplatná aplikácia s otvoreným zdrojom s ponukami. Stojí za to pozrieť sa, ak je tvrdá požiadavka 0 USD, hoci je ľahší na funkcie a lesk.</li>
+<li><strong>eqMac</strong> - bezplatný EQ plus booster, ale žiadny skutočný mixér pre jednotlivé aplikácie, ako je uvedené vyššie.</li>
+</ul>
+
+<p>SoundDial sedí na najlepšom mieste: sústredenejšie a lacnejšie ako SoundSource, schopnejšie a spoľahlivejšie ako bezplatné možnosti a robí prácu pre aplikáciu, ktorú eqMac nie.</p>
+
+<h2>Prečo tu na Mac App Store záleží</h2>
+
+<p>Niektoré z týchto nástrojov vyžadujú priame stiahnutie a ovládač zvuku na úrovni jadra alebo zachytávania. Tie fungujú, ale sú to také veci, ktoré môžu zablokovať aktualizáciu macOS alebo zakopnúť na zablokovanom pracovnom Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> namiesto toho sa dodáva prostredníctvom Mac App Store. To znamená, že je skontrolovaný spoločnosťou Apple a v karanténe, nainštaluje sa čisto bez DMG na ťahanie a neexistujú žiadne zvukové ovládače ani systémové rozšírenia na schválenie. Aktualizácie prichádzajú cez App Store ako každá iná aplikácia a odinštalovanie je normálnym odstránením. Pre nástroj na paneli s ponukami, ktorý sa dotýka vášho zvuku, táto cesta s nižším trením a nižším rizikom stojí veľa.</p>
+
+<h2>Rýchle nastavenie</h2>
+
+<ul>
+<li>Nainštalujte SoundDial zo Mac App Store – bez reštartu, bez výzvy ovládača.</li>
+<li>Otvorte ikonu panela s ponukami; každá aplikácia, ktorá práve vydáva zvuk, sa zobrazí s vlastným posúvačom.</li>
+<li>Nastavte úrovne, stlmte to, čo nepotrebujete, a zosilnite všetko, čo je príliš tiché.</li>
+<li>Uložte usporiadanie ako profil a potom vytvorte ďalšie pre hranie hier, hovory alebo zameranie.</li>
+<li>Zapnite automatické stlmenie zvuku, aby sa zvuk na pozadí automaticky ustúpil.</li>
+</ul>
+
+<p>To je celá slučka. V priebehu niekoľkých minút budete mať iba naznačený zosilňovač eqMac pre jednotlivé aplikácie.</p>
+
+<p><strong>Ste pripravení na skutočný objem jednotlivých aplikácií na svojom Mac?</strong> <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> — 14,99 EUR jednorazovo, v karanténe, bez ovládačov a robí presne to, čo by mal panelový mixér.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "Najlacnejší dobrý objemový mixér pre Mac v roku 2026",
+    description: "Hľadáte najlacnejší dobrý mixér hlasitosti na aplikáciu pre Mac v roku 2026? Porovnajte SoundDial, SoundSource, Background Music, FineTune a eqMac z hľadiska ceny, bezpečnosti a funkcií.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Mac v roku 2026 s najlepšou hodnotou na aplikáciu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikácia na paneli s ponukami na Mac App Store za jednorazovú cenu 14,99 EUR. Poskytuje každej aplikácii vlastný posuvník hlasitosti, plus stlmenie, zosilnenie, profily a automatické znižovanie hlasitosti – žiadne ovládače, žiadne predplatné a žiadne riskantné sťahovanie. Je to najlacnejšia platená možnosť, ktorá skutočne funguje spoľahlivo.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Najlacnejší dobrý objemový mixér pre Mac v roku 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo „najlacnejšie“ potrebuje definíciu</h2>
+<p>Pre Mac existujú bezplatné nástroje na objem, takže ak je jediným cieľom nulové výdavky, máte možnosti. Ale zadarmo vás zvyčajne stojí niekde inde: krehkosť nových verzií macOS, chýbajúce funkcie, ako je podpora alebo profily, alebo proces inštalácie, ktorý zahŕňa ovládač na zachytávanie zvuku, ktorému musíte dôverovať. „Najlacnejšie dobré“ znamená najnižšiu cenu, vďaka ktorej získate stabilný a plnohodnotný mixér, ktorý budete aj naďalej používať. To je objektív, ktorý tu použijeme.</p>
+
+<h2>Po prvé, vec, ktorú macOS nerobí</h2>
+<p>Windows má už roky mixér hlasitosti pre jednotlivé aplikácie – kliknite pravým tlačidlom myši na ikonu reproduktora a nastavte každú aplikáciu samostatne. macOS stále nemá zabudované nič ekvivalentné. Získate jeden hlavný zväzok a akýkoľvek interný posúvač, ktorý aplikácia náhodou dodá (hudba, niektoré prehliadače). Neexistuje žiadny systémový spôsob, ako urobiť Slack tichším ako Spotify, alebo zvýšiť tichý videohovor nad všetko ostatné. Na vyplnenie tejto medzery existuje každá možnosť nižšie.</p>
+
+<h2>Uchádzači, ceny čestne</h2>
+
+<h2>SoundDial — 14,99 EUR, jednorazovo</h2>
+<p>SoundDial žije vo vašom paneli s ponukami a poskytuje každej spustenej aplikácii nezávislý posuvník hlasitosti. Okrem základov pridáva funkcie, po ktorých ľudia skutočne siahajú:</p>
+<ul>
+<li><strong>Zosilnenie podľa aplikácie</strong> — posuňte príliš tichú aplikáciu nad 100 % namiesto toho, aby ste sa snažili ju počuť.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšiť jednu aplikáciu bez toho, aby ste sa dotkli ostatných.</li>
+<li><strong>Objemové profily</strong> — uložiť mix „pracovný hovor“ alebo „filmový večer“ a okamžite si ho vyvolať.</li>
+<li><strong>Auto-ducking</strong> — automaticky pustiť zvuk na pozadí, keď hrá niečo dôležitejšie.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami a inými zariadeniami z rovnakej ponuky.</li>
+</ul>
+<p>Pretože je to na Mac App Store, je v sandboxe, skontrolované spoločnosťou Apple a inštaluje sa čisto – žiadne DMG, žiadne rozšírenie jadra, žiadny zvukový ovládač na schválenie. Vy platíte <a href="https://apps.apple.com/app/id6772792641">14,99 € raz</a> a vlastniť ho. Pre väčšinu ľudí je toto sladké miesto: dosť lacné na to, aby to bolo jednoduché áno, dostatočne úplné, aby ste z neho nevyrástli.</p>
+
+<h2>SoundSource – ~ 39 USD, profesionálna možnosť</h2>
+<p>Rogue Amoeba SoundSource je zlatým štandardom pre náročných používateľov. Robí hlasitosť a stlmenie podľa aplikácie ako SoundDial, ale ide ešte ďalej s ekvalizérmi pre jednotlivé aplikácie a úplným smerovaním výstupu (odoslanie jednej aplikácie do slúchadiel, inej do reproduktorov). Je skutočne vynikajúci – stojí však približne 39 dolárov a inštaluje sa mimo App Store s komponentom na zachytávanie zvuku, ktorému musíte udeliť povolenie. Ak potrebujete ekvalizér pre jednotlivé aplikácie alebo zložité smerovanie, oplatí sa to. Ak chcete iba čistý a lacný mixér, platíte za schopnosti, ktorých sa možno nikdy nedotknete.</p>
+
+<h2>Background Music — bezplatný, open source</h2>
+<p>Background Music je známa bezplatná aplikácia s otvoreným zdrojom, ktorá ponúka objem pre jednotlivé aplikácie a automatické pozastavenie. Háčik: zapája sa hlboko do Core Audio prostredníctvom virtuálneho ovládača a má za sebou dlhú históriu lámania nových verzií macOS, ktoré niekedy vyžadujú manuálne opravy alebo preinštalovanie po aktualizáciách. Chýba mu tiež boost, uložené profily a auto-ducking. Skvelé pre majstrov, ktorým nevadí údržba; frustrujúce, ak chcete, aby to fungovalo.</p>
+
+<h2>FineTune — zadarmo, panel s ponukami</h2>
+<p>FineTune je bezplatná aplikácia na hlasitosť panela s ponukami s otvoreným zdrojom. Je ľahký a príjemný a na jednoduché nastavenie podľa aplikácie to môže stačiť. Ale keďže ide o malý bezplatný projekt, nezodpovedá hĺbke funkcií – žiadne profily, žiadne automatické znižovanie a manipulácia so zosilnením/výstupom nie sú obmedzené. Nulové náklady, menej záruk na dlhú životnosť a podporu.</p>
+
+<h2>eqMac — zadarmo, EQ + zosilňovač</h2>
+<p>eqMac je bezplatný systémový ekvalizér so zosilňovačom hlasitosti. Ide skôr o tvarovanie tónu a hlasitosti v rámci celého vášho Mac než o miešanie jednotlivých aplikácií, takže ide o iný nástroj na inú prácu. Ak chcete konkrétne ovládanie podľa aplikácie, eqMac nie je v skutočnosti riešením, aj keď je to skvelý bezplatný ekvalizér.</p>
+
+<h2>Cena vs. hodnota: poctivý stôl</h2>
+<ul>
+<li><strong>Naozaj zadarmo, ale s kompromismi:</strong> Background Music (krehký, založený na ovládači), FineTune (tenké funkcie), eqMac (EQ, nie mixér).</li>
+<li><strong>Najlacnejšia kompletná platená aplikácia:</strong> SoundDial za 14,99 € — boost, profily, skrútenie, App Store bezpečnosť.</li>
+<li><strong>Premium/Pro:</strong> SoundSource za ~ 39 $ – EQ a smerovanie, inštalácia mimo App-Store.</li>
+</ul>
+<p>Inak povedané: SoundDial stojí zhruba tretinu SoundSource, pričom pokryje funkcie, ktoré skutočne chce 90 % ľudí. A na rozdiel od bezplatných možností sa po aktualizácii macOS ticho nezlomí, pretože sa nespolieha na krehký zvukový ovládač na systémovej úrovni.</p>
+
+<h2>Ktoré by ste si mali vybrať?</h2>
+<p>Ak ste profesionál, ktorý potrebuje ekvalizér pre jednotlivé aplikácie a nasmerovanie aplikácií na rôzne výstupy, kúpte si SoundSource – zarába si svoju cenu. Ak máte radi open-source a nevadí vám občasné rozbitie, vyskúšajte Background Music alebo FineTune zadarmo. Ak však chcete najlacnejšiu možnosť, ktorá jednoducho funguje – nezávislá hlasitosť, zosilnenie, stlmenie, uložené profily a automatické stlmenie, bezpečne nainštalované zo App Store – SoundDial je jasným víťazom hodnoty v roku 2026.</p>
+
+<blockquote>Najlepší mixér nie je ten, ktorý má najviac funkcií alebo najnižšiu cenu – je to ten, ktorý si raz nastavíte a zabudnete naň. So SoundDial za 14,99 € je to jednoduché dorovnať.</blockquote>
+
+<p>Ste pripravení dať každej aplikácii vlastný objem? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za jednorazových 14,99 € — žiadne predplatné, žiadne ovládače, žiadne riziko.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Windows Volume Mixer pre Mac: Získajte ovládanie hlasitosti podľa aplikácie",
+    description: "Chýba vám Windows Volume Mixer na vašom Mac? macOS nemá vstavané ovládanie hlasitosti pre jednotlivé aplikácie. Tu je najrýchlejší spôsob, ako to získať: SoundDial, 14,99 € mixpult s menu.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá vstavaný mixér hlasitosti ako Windows, takže v nastaveniach systému nemôžete nastaviť hlasitosť pre jednotlivé aplikácie. Najrýchlejšia a najspoľahlivejšia oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikácia na paneli s ponukami v hodnote 14,99 EUR od Mac App Store. Každej aplikácii dáva vlastný posuvník hlasitosti, stlmenie a zosilnenie – žiadne ovládače, žiadne DMG, žiadne riskantné inštalácie.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows Volume Mixer pre Mac: Získajte ovládanie hlasitosti podľa aplikácie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo Windows Volume Mixer nemá ekvivalent Mac</h2>
+
+<p>Ak ste prešli zo Windows, jedna z prvých vecí, ktoré vám budú chýbať, je Zmiešavač hlasitosti: kliknite pravým tlačidlom myši na ikonu reproduktora a každá spustená aplikácia dostane svoj vlastný posúvač. Vypnite Chrome, nechajte Discord nahlas, stlmte Spotify – všetko na jednom mieste.</p>
+
+<p>macOS to jednoducho nedodáva. Ovládanie hlasitosti od Apple je jediným posúvačom pre celý systém. Akákoľvek úroveň, ktorú nastavíte, platí pre všetko naraz. V nastaveniach systému nie je skrytá žiadna možnosť pre aplikáciu, žiadny príkaz Terminal, žiadne prepínanie dostupnosti. Je to skutočná medzera a je to tak už roky.</p>
+
+<p>Dôvod je architektonický: aplikácie smerujú zvuk cez Core Audio do vášho výstupného zariadenia a OS nevystavuje používateľsky orientovaný mixér pre jednotlivé streamy. Ak chcete znova vytvoriť zážitok so Windows, potrebujete aplikáciu tretej strany, ktorá sedí v tejto zvukovej ceste a poskytuje vám ovládacie prvky, ktoré Apple vynechal.</p>
+
+<h2>Najbližší zápas: SoundDial</h2>
+
+<p>SoundDial je panel s ponukami pre jednotlivé aplikácie vytvorený špeciálne na tento účel. Kliknite na jeho ikonu a získate prehľadný zoznam všetkého, čo prehráva zvuk, každý s vlastným posúvačom. Je to najpriamejší "Windows Volume Mixer pre Mac", ktorý môžete nainštalovať, a robí niekoľko vecí, ktoré Windows mixer nikdy nedokázal:</p>
+
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — základná vlastnosť. Nastavte Chrome na 40 %, Zoom na 100 %, hudbu na 20 %.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšiť jednu aplikáciu bez toho, aby ste sa dotkli ostatných.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> - stlačte tichú aplikáciu <em>vyššie</em> 100 %, keď je jeho vlastný zvuk príliš nízky.</li>
+<li><strong>Objemové profily</strong> — uložiť mix (napr. „pracovný hovor“ alebo „hranie“) a okamžite ho vyvolať namiesto opätovného presúvania posúvačov.</li>
+<li><strong>Auto-ducking</strong> — automaticky zníži zvuk na pozadí, keď začne niečo dôležitejšie, napríklad hovor.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — preskakovanie medzi reproduktormi, slúchadlami a inými zariadeniami z rovnakej ponuky.</li>
+</ul>
+
+<p>Pretože je to na <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, je to skontrolované spoločnosťou Apple a v karanténe. Inštaluje sa čisto jediným kliknutím – žiadne DMG na preťahovanie, žiadny zvukový ovládač alebo systémové rozšírenie na schválenie, žiadne bezpečnostné výzvy. Za 14,99 EUR jednorazovo (bez predplatného) je to najjednoduchší spôsob, ako vyplniť medzeru.</p>
+
+<h2>Ako nastaviť hlasitosť pre jednotlivé aplikácie na vašom Mac</h2>
+
+<ol>
+<li>Nainštalujte SoundDial zo Mac App Store.</li>
+<li>Udeľte jednorazové povolenie na prehrávanie zvuku, ktoré požaduje pri prvom spustení.</li>
+<li>Kliknite na ikonu SoundDial na lište ponuky.</li>
+<li>Potiahnutím posúvača vedľa ľubovoľnej aplikácie nastavte jej hlasitosť alebo stlačte tlačidlo stlmiť/zvýšiť.</li>
+<li>Voliteľne môžete uložiť aktuálny mix ako profil, aby ste ho mohli neskôr obnoviť.</li>
+</ol>
+
+<p>To je celý pracovný postup. Správa sa ako mixér Windows, ktorý už poznáte, len z panela s ponukami namiesto kliknutia pravým tlačidlom myši na panel úloh.</p>
+
+<h2>Ako sa SoundDial porovnáva s inými možnosťami</h2>
+
+<p>SoundDial nie je jediným nástrojom v tomto priestore, takže tu je úprimný pohľad na alternatívy.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - okolo 39 dolárov a skutočne profi: EQ na aplikáciu, smerovanie výstupu na aplikáciu, efekty. Vyžaduje si to však priame stiahnutie plus ovládač na zachytávanie zvuku a je to prehnané (a drahšie), ak chcete iba objem jednotlivých aplikácií. Vyberte si ho, ak potrebujete EQ a smerovanie; vyberte SoundDial, ak chcete mixér bez zložitosti alebo ovládača.</li>
+<li><strong>Background Music</strong> — bezplatný a open-source, čo je skvelé. Háčik: na novších verziách macOS sa môže zlomiť a chýba mu podpora, uložené profily a automatické sklopenie. Dobre, ak vám vyhovuje riešenie problémov s open source zvukovými ovládačmi; menej ideálne, ak chcete niečo, čo jednoducho funguje.</li>
+<li><strong>FineTune</strong> - bezplatná aplikácia s otvoreným zdrojom s ponukami. Ľahký a stojí za to si ho pozrieť, ak je prioritou rozpočet, ale leštidlo, profily a bezpečnosť App Store obchodujete zadarmo.</li>
+<li><strong>eqMac</strong> — bezplatný EQ a zosilňovač pre celý systém. Je to najprv ekvalizér, nie mixér pre jednotlivé aplikácie, takže rieši iný problém.</li>
+</ul>
+
+<p>Kompromis je jednoduchý. Bezplatné nástroje nestoja nič, ale môžu byť krehké alebo tenké. SoundSource je výkonný, ale drahý a založený na ovládačoch. SoundDial sedí na najlepšom mieste: jednorazová cena 14,99 €, bezpečnosť App Store a sandboxing a profily + automatické uhýbanie, ktoré bezplatné možnosti preskočia.</p>
+
+<blockquote>Ak všetko, čo chcete, je Windows Volume Mixer – posúvače pre jednotlivé aplikácie, stlmenie a zosilnenie, bezpečne nainštalované v priebehu niekoľkých sekúnd – SoundDial je najpriamejšia zhoda.</blockquote>
+
+<h2>Spodný riadok</h2>
+
+<p>macOS vám mixér hlasitosti nedá a pravdepodobne ani nikdy nedá. Nemusíte však žiť s jedným celosystémovým posúvačom. Vyhradený mix panel s ponukami obnovuje ovládanie jednotlivých aplikácií, ktoré ste mali na Windows, a pridáva navrch, profily a automatické sklopenie.</p>
+
+<p>Ste pripravení získať objem pre jednotlivé aplikácie jednoduchým spôsobom? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za 14,99 EUR – jednorazovo, v karanténe a inštalácia trvá niekoľko sekúnd.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Nastavte hlasitosť aplikácie ako Windows – na svojom Mac",
+    description: "Windows má mixér hlasitosti pre jednotlivé aplikácie, ale macOS nie. Tu je návod, ako nastaviť nezávislú hlasitosť pre každú aplikáciu na vašom Mac – rýchlo, bezpečne a bez ovládačov.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie, ako je ten v Windows, takže najrýchlejšia spoľahlivá oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikácia na paneli ponuky Mac App Store, ktorá každej aplikácii poskytuje vlastný posuvník hlasitosti, stlmenie zvuku pre každú aplikáciu a zvýšenie hlasitosti. Je v sandboxe, skontrolovaný spoločnosťou Apple, inštaluje sa bez ovládačov a raz stojí 14,99 EUR.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Nastavte hlasitosť aplikácie ako Windows — na vašom Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo to Windows dokáže a macOS nie</h2>
+<p>Ak ste použili Windows, poznáte cvik: kliknite pravým tlačidlom myši na ikonu reproduktora, otvorte Volume Mixer a potiahnite samostatný posuvník pre Chrome, Spotify, Discord a čokoľvek iné, čo vytvára hluk. Je to jednoduché a jednoducho to funguje.</p>
+<p>macOS nikdy nedodal ekvivalent. Ovládanie zvuku od Apple je globálne – jedna hlavná hlasitosť pre celý systém. Aplikáciu môžete stlmiť tak, že stlmíte zdroj v tejto aplikácii (ak má dokonca ovládací prvok), ale neexistuje jednotné miesto na to, aby ste povedali „udržať hudbu na 40 %, kým moja schôdza zostane na 100 %. Táto medzera je presne dôvod, prečo existujú mixéry tretích strán.</p>
+
+<h2>Najrýchlejšia oprava: panelový mixér</h2>
+<p>Najbližšie k zážitku Windows je aplikácia na paneli s ponukami, ktorá zobrazuje vaše spustené zvukové aplikácie a každej z nich poskytuje posúvač. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> robí presne toto. Kliknite na jeho ikonu na paneli s ponukami a získate:</p>
+<ul>
+<li><strong>Nezávislá hlasitosť pre každú aplikáciu</strong> — potiahnite Spotify nadol bez toho, aby ste sa dotkli hovoru.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — Okamžite stíšte jednu hlučnú aplikáciu, ostatné nechajte hrať.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> – stlačte príliš tichú aplikáciu <em>vyššie</em> 100%, keď je jeho vlastné maximum stále príliš mäkké.</li>
+<li><strong>Objemové profily</strong> — uložiť mix „Práca“ alebo „Hry“ a vyvolať ho jedným kliknutím.</li>
+<li><strong>Auto-ducking</strong> — automaticky zníži zvuk na pozadí, keď začne niečo dôležitejšie.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami a inými výstupmi z rovnakej ponuky.</li>
+</ul>
+<p>Pretože je na Mac App Store, je izolovaný a skontrolovaný spoločnosťou Apple, inštaluje sa čisto a nie je potrebné pretiahnuť DMG, žiadne rozšírenie jadra a žiadny zvukový ovládač na schválenie v nastaveniach systému. Na tejto poslednej časti záleží viac, ako to znie – nástroje založené na ovládačoch sú tie, ktoré majú tendenciu sa po aktualizáciách macOS zlomiť.</p>
+
+<h2>Ako to nastaviť (asi dve minúty)</h2>
+<ul>
+<li><strong>1.</strong> Nainštalujte SoundDial zo Mac App Store a spustite ho.</li>
+<li><strong>2.</strong> Udeľte povolenie na zvuk, na ktoré vás macOS vyzve – vďaka tomu môže aplikácia vidieť streamy jednotlivých aplikácií.</li>
+<li><strong>3.</strong> Kliknite na ikonu SoundDial na lište ponuky. Každá aplikácia, ktorá práve prehráva zvuk, sa zobrazuje s vlastným posúvačom.</li>
+<li><strong>4.</strong> Potiahnutím posúvača ľubovoľnej aplikácie nastavte jej úroveň alebo stlačte tlačidlo stlmiť. Zvýšte úroveň nad 100 %, keď je aplikácia príliš tichá.</li>
+<li><strong>5.</strong> (Voliteľné) Uložte svoj aktuálny mix ako profil, aby ste ho mohli neskôr obnoviť, a zapnite automatické stlmenie zvuku, ak chcete, aby sa zvuk na pozadí automaticky pustil.</li>
+</ul>
+<p>To je celý pracovný postup. Správa sa ako Windows Volume Mixer, ktorý už poznáte, bez nastavenia trenia.</p>
+
+<h2>A čo bezplatné a profesionálne alternatívy?</h2>
+<p>Existujú aj iné spôsoby, ako získať objem jednotlivých aplikácií na Mac. Oplatí sa ich poznať, aby ste si mohli poctivo vyberať.</p>
+<blockquote>Bezplatné nástroje vymieňajú peniaze za spoľahlivosť a funkcie; profesionálne nástroje vymieňajú peniaze a nastavenia pre hĺbku, ktorú možno nepotrebujete.</blockquote>
+<p><strong>Background Music</strong> je bezplatný a s otvoreným zdrojom a poskytuje objem pre jednotlivé aplikácie. Háčik: zapadá hlboko do audio systému a má za sebou históriu lámania na novších vydaniach macOS a chýba mu boost, profily a auto-duck. Ak to funguje na vašom nastavení, skvelé - ale je to hazard s aktualizáciami.</p>
+<p><strong>FineTune</strong> je bezplatná aplikácia na paneli s ponukami s otvoreným zdrojovým kódom v rovnakom duchu ako SoundDial. Je to dobrý východiskový bod, ak je rozpočet jediným problémom, hoci je to komunitný projekt bez profilov a nevýrazného lesku.</p>
+<p><strong>eqMac</strong> je bezplatný systémový ekvalizér a zosilňovač. Je to skvelé na formovanie celkového zvuku, ale nie je to skutočný mixér pre jednotlivé aplikácie – upravujete celý výstup, nie jednotlivé aplikácie.</p>
+<p><strong>SoundSource</strong> od Rogue Amoeba (približne 39 dolárov) je profesionálna možnosť: EQ pre každú aplikáciu, smerovanie výstupu na aplikáciu a seriózne funkcie zvukového inžiniera. Je to vynikajúce - ale vyžaduje si priame stiahnutie a inštaláciu komponentu na zachytávanie zvuku a stojí to viac ako dvojnásobok toho, čo robí SoundDial. Ak chcete smerovanie a EQ na úrovni štúdia, je to voľba. Ak chcete iba mixér v štýle Windows, je to prehnané.</p>
+
+<h2>Ktorý by ste si mali zaobstarať?</h2>
+<p>Ak je vaším cieľom „aby môj Mac fungoval ako Windows Volume Mixer“ bez sťahovania, ovládačov alebo rizika, SoundDial je najčistejšia odpoveď. Získate hlasitosť aplikácie, stlmenie, zosilnenie, profily a automatické stlmenie, všetko bezpečné App Store, za jednorazovú cenu 14,99 EUR – bez predplatného. Namiesto toho si vyberte SoundSource iba vtedy, ak konkrétne potrebujete ekvalizér a smerovanie výstupu pre jednotlivé aplikácie a vyskúšajte bezplatné možnosti, ak vám vyhovuje ich riešenie v rámci aktualizácií macOS.</p>
+
+<p><strong>Ste pripravení dať každej aplikácii vlastný objem?</strong> <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a nastavte svoj prvý mix za približne dve minúty.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "Ako zvýšiť hlasitosť vášho Mac na počúvanie ťažko počujúcich",
+    description: "Máte problém počuť svoj Mac aj pri maximálnej hlasitosti? Naučte sa, ako vylepšiť a objasniť zvuk pre každú aplikáciu pre nepočujúcich, vrátane SoundDial a vstavaných tipov.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak váš Mac nie je dostatočne hlasný ani pri maximálnej hlasitosti, najrýchlejšie spoľahlivé riešenie je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store panelový mixážny pult, ktorý vám umožní vylepšiť akúkoľvek aplikáciu nad 100 % a stlmiť všetko ostatné. To znamená hlasnejšiu a jasnejšiu reč z prehrávača FaceTime, videa alebo filmov bez toho, aby ste museli spustiť celý systém. Je to 14,99 €, jednorazovo.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Ako urobiť svoj Mac hlasnejším pre počúvanie ťažko počujúcich" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo maximalizovať posuvník hlasitosti stále nestačí</h2>
+<p>Pre slabo počujúcich poslucháčov má posuvník hlasitosti macOS dva frustrujúce limity. Po prvé, obmedzuje na 100 % toho, čo produkuje samotná aplikácia. Ak bol podcast, video alebo hovor zaznamenaný potichu, „plná hlasitosť“ je stále príliš tichá. Po druhé, macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden už roky, ale na Mac každá aplikácia zdieľa jednu hlavnú úroveň. Takže keď všetko zapnete, aby ste počuli jemný hlas, hudba na pozadí a zvuky upozornení budú tiež nepríjemne hlasné.</p>
+<p>To, čo skutočne potrebujete, je schopnosť robiť <em>jeden</em> aplikáciu hlasnejšie ako ostatné, posuňte ju za bežný strop a obmedzte konkurenčné zvuky, aby reč vynikla. To je presne medzera, ktorú tieto nástroje vypĺňajú.</p>
+
+<h2>Najprv použite bezplatné nastavenia dostupnosti macOS</h2>
+<p>Pred pridaním akejkoľvek aplikácie sa oplatí nastaviť to, čo už macOS ponúka. Pomáhajú jasnosti, hoci nepridávajú hrubú hlasitosť:</p>
+<ul>
+<li><strong>Mono zvuk:</strong> Systémové nastavenia &rarr; Prístupnosť &rarr; Audio, zapnite „Prehrávať stereo zvuk ako mono“. Ak je váš sluch silnejší na jedno ucho, vysiela sa plný signál obom, takže nestratíte polovicu dialógu.</li>
+<li><strong>Úprava zostatku:</strong> V nastaveniach systému &rarr; Sound potiahnite vyváženie vľavo/vpravo smerom k silnejšiemu uchu.</li>
+<li><strong>Znížte zvuky na pozadí:</strong> Znížte hudbu a atmosféru v aplikáciách, ktoré to umožňujú, takže hlasy nebudú bojovať so zvukovou stopou.</li>
+<li><strong>Ubytovanie pre slúchadlá:</strong> Ak používate AirPods alebo Beats, Systémové nastavenia &rarr; Prístupnosť &rarr; Zvuk &rarr; Prispôsobenie slúchadiel môže zosilniť jemné zvuky a naladiť reč.</li>
+</ul>
+<p>Sú skutočne užitočné a nič nestoja. Ale nikto z nich nevytvára jedinú tichú aplikáciu <em>hlasnejšie ako 100 %</em>, a to je zvyčajne skutočný problém.</p>
+
+<h2>Ako vylepšiť jednu aplikáciu o 100 % pomocou SoundDial</h2>
+<p>SoundDial žije vo vašom paneli s ponukami a zobrazuje posúvač pre každú aplikáciu, ktorá práve prehráva zvuk. Tu je pracovný postup, ktorý najviac pomáha pri počúvaní nepočujúcich:</p>
+<ul>
+<li><strong>Vylepšite aplikáciu, ktorú počúvate.</strong> Potiahnutím posúvača nad 100 % zosilníte tichý videohovor alebo podcast nad rámec toho, čo aplikácia umožňuje sama.</li>
+<li><strong>Stlmte alebo znížte všetko ostatné.</strong> Stiahnite si hudbu, karty prehliadača alebo zvuky upozornení, aby nič nekonkurovalo hlasu, ktorý sa snažíte nasledovať.</li>
+<li><strong>Zapnite automatické stláčanie.</strong> Keď začnete hovoriť počas hovoru, SoundDial automaticky pohltí ďalší zvuk, aby osoba, s ktorou hovoríte, jasne prešla a potom ho obnoví.</li>
+<li><strong>Uložte profil hlasitosti.</strong> Vytvorte si profil „videohovorov“, v ktorom je vaša konferenčná aplikácia vylepšená a všetko ostatné je tiché, a potom naň okamžite prepnite namiesto toho, aby ste ho zakaždým znova upravovali.</li>
+<li><strong>Rýchlo prepínajte výstup.</strong> Preskakujte medzi reproduktormi, náhlavnou súpravou alebo zariadením pripojeným k načúvaciemu zariadeniu z rovnakej ponuky bez toho, aby ste museli prehrabávať nastavenia systému.</li>
+</ul>
+<p>Funkcia boost je tu kľúčová. Pretože to zvyšuje výstup aplikácie nad jej prirodzené maximum, šepot tichý záznam sa stáva niečím, čo môžete skutočne počuť, zatiaľ čo zvyšok vášho systému zostáva na pohodlnej úrovni.</p>
+
+<h2>Rýchle slovo o skreslení</h2>
+<p>Akékoľvek zosilnenie softvéru zosilní čokoľvek, čo je v signáli, takže posunutie ďaleko za 100 % už aj tak hlasitého zvuku môže spôsobiť orezanie. V praxi posilňovanie <em>ticho</em> obsah až po pohodlnú a zrozumiteľnú úroveň znie čisto. Začnite skromne, zvýšte, kým nebude reč čistá, a ustúpte, ak začne znieť drsne. Na ochrane vášho zostávajúceho sluchu záleží, preto sa zamerajte skôr na čistotu než na maximálnu hlasitosť.</p>
+
+<h2>Ako sa SoundDial porovnáva s alternatívami</h2>
+<p>Máte niekoľko možností a úprimnosť vám pomôže vybrať si tú správnu:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~ 39 USD):</strong> Skutočne profesionálny, s ekvalizérom pre jednotlivé aplikácie a výstupným smerovaním. Ak chcete vyrezávať frekvencie pre stratu sluchu, je to mocné. Ale stojí to viac ako dvakrát toľko, vyžaduje si priame stiahnutie a inštaluje ovládač na zachytávanie zvuku. To je viac nastavení a prístupu k systému, ako si mnohí ľudia želajú.</li>
+<li><strong>Background Music (zadarmo, open-source):</strong> Ponúka hlasitosť pre jednotlivé aplikácie zadarmo, ale chýba mu podpora, profily a automatické stláčanie a na novších verziách macOS sa môže zlomiť, pretože sa zapája hlboko do audio systému.</li>
+<li><strong>FineTune (zadarmo, open-source):</strong> Ľahká aplikácia na ovládanie hlasitosti na paneli s ponukami. Dobré pre základy, ale bez podpory, profilov a skracovania, o ktoré sa opierajú slabo počujúci poslucháči.</li>
+<li><strong>eqMac (zadarmo):</strong> Ekvalizér s posilňovačom. Užitočné na tvarovanie zvuku, ale je postavené skôr na EQ než na čistom mixovaní a profiloch jednotlivých aplikácií.</li>
+</ul>
+<p>Kde <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Vyniká vyváženosťou ceny, bezpečnosti a špecifických vlastností, na ktorých záleží. Pretože je na Mac App Store, je skontrolovaný a upravený spoločnosťou Apple, inštaluje sa čisto bez DMG a nepotrebuje žiadne zvukové ovládače ani systémové rozšírenia. V rámci jednej aplikácie získate zosilnenie, stlmenie, profily hlasitosti a automatické stlmenie zvuku v rámci jedného jednorazového nákupu v hodnote 14,99 EUR bez toho, aby ste sa museli hrabať v audio zásobníku macOS.</p>
+
+<h2>Spodný riadok</h2>
+<p>Najprv si nastavte bezplatné možnosti dostupnosti macOS, ktoré sa oplatí mať. Ak je však skutočným problémom to, že jedna aplikácia je jednoducho príliš tichá, potrebujete nástroj, ktorý dokáže jednu aplikáciu posunúť nad 100 % a zvyšok stíšiť. To je celý zmysel zvýšenia jednotlivých aplikácií a macOS to nerobí sám o sebe.</p>
+
+<p>Ste pripravení skutočne počuť svoj Mac? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za 14,99 €, vylepšite aplikáciu, ktorú potrebujete, a nechajte automatické stláčanie a profily, aby bola reč čistá.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Ako posilniť tichú aplikáciu na Mac (minulý maximálny objem)",
+    description: "Jedna aplikácia je príliš tichá aj pri 100 %? Vylepšite práve túto aplikáciu nad jej maximum na Mac pomocou SoundDial, mixéra hlasitosti pre jednotlivé aplikácie. Tu je najrýchlejšia oprava plus alternatívy.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak je jedna aplikácia príliš tichá aj pri maximálnej hlasitosti, najrýchlejšia spoľahlivá oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, panel s ponukami pre jednotlivé aplikácie pre macOS. Poskytuje každej aplikácii vlastný posúvač a hlasitosť <strong>posilniť</strong> ktorý posúva jednu aplikáciu nad 100 %, takže tichý videohovor alebo karta prehliadača budú hlasnejšie bez toho, aby ste sa dotkli hlasitosti systému. Je to jednorazová aplikácia v hodnote 14,99 EUR na Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Ako posilniť tichú aplikáciu na Mac (minulý maximálny objem)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo je jedna aplikácia tichá aj na 100 %</h2>
+<p>macOS má iba jeden hlavný zväzok. Keď ho zdvihnete, všetko sa razom zosilní. Každá aplikácia však vydáva zvuk aj na svojej vlastnej internej úrovni a táto úroveň sa veľmi líši. Ticho zvládnutý klip YouTube, volajúci Zoom so zlým mikrofónom, hra s nízkym mixovaním dialógov alebo karta prehliadača s jemným streamom, to všetko môže sedieť ďaleko pod všetkým ostatným, dokonca aj s vaším Mac naplno.</p>
+<p>Skutočný problém: macOS má <strong>žiadny vstavaný mixér hlasitosti pre jednotlivé aplikácie</strong>. Windows má jeden už roky (Zmiešavač hlasitosti, kliknite pravým tlačidlom myši na ikonu reproduktora). Na Mac neexistuje žiadny natívny spôsob, ako zapnúť jednu aplikáciu, zatiaľ čo ostatné nechať na pokoji, a rozhodne žiadny spôsob, ako zosilniť jednu aplikáciu. <em>vyššie</em> jeho normálne maximum. To je tá medzera, na ktorú narážate.</p>
+
+<h2>Najrýchlejšia oprava: vylepšite iba jednu aplikáciu</h2>
+<p>Mixér pre jednotlivé aplikácie to rieši vložením medzi vaše aplikácie a váš výstup, takže môže každý stream nezávisle zvýšiť alebo znížiť a jeden zosilniť nad 100 %. S <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, tok je krátky:</p>
+<ul>
+<li>Nainštalujte zo Mac App Store a otvorte ho. Žije vo vašom paneli s ponukami, nie v plávajúcom okne.</li>
+<li>Kliknutím na ikonu na paneli s ponukami zobrazíte posúvač pre každú aplikáciu, ktorá práve prehráva zvuk.</li>
+<li>Nájdite tichú aplikáciu a presuňte jej posúvač nad 100 %, aby ste použili zosilnenie. Zosilňuje iba túto aplikáciu.</li>
+<li>Všetko ostatné nechajte tam, kde to je. Hlasitosť vášho systému a ďalšie aplikácie zostanú nedotknuté.</li>
+</ul>
+<p>Pretože podpora je na aplikáciu, môžete posunúť tichý videohovor na pohodlnú úroveň a zároveň zabrániť tomu, aby hudba alebo upozornenia trhali uši. To je hlavná vec, ktorú vstavané ovládacie prvky macOS jednoducho nedokážu.</p>
+
+<h2>Poznámka o zosilnení a orezaní</h2>
+<p>Boost je skutočne užitočný, ale je to zosilnenie, nie kúzlo. Ak je pôvodný zvuk aplikácie veľmi tichý alebo už skreslený, jeho prudké zatáčanie môže spôsobiť orezanie alebo jasnejšie syčanie pozadia. V praxi mierne zosilnenie vyrieši prevažnú väčšinu situácií „tento hovor je príliš tichý“. Posúvajte ho, kým sa aplikácia nebude cítiť pohodlne, namiesto toho, aby ste ňou buchli o strop, a zvuk zostane čistý.</p>
+
+<h2>Okrem posilňovania: čo ešte pomáha</h2>
+<p>Akonáhle budete mať kontrolu pre jednotlivé aplikácie, niekoľko funkcií spôsobí, že problém s tichou aplikáciou navždy zmizne:</p>
+<ul>
+<li><strong>Objemové profily</strong> — uložiť nastavenie (napr. „zosilniť Zoom, znížiť Spotify, stlmiť Slack“) a vyvolať ho jedným kliknutím namiesto opätovného presúvania posúvačov pri každom stretnutí.</li>
+<li><strong>Auto-ducking</strong> — pri prehrávaní zvolenej aplikácie automaticky prepínajú ostatné aplikácie, takže cez zvuk na pozadí bude zreteľne počuť zosilnený hovor.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšiť jednu hlučnú aplikáciu bez pozastavenia čohokoľvek iného.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami alebo externým rozhraním z rovnakej ponuky.</li>
+</ul>
+
+<h2>A čo bezplatné a profesionálne alternatívy?</h2>
+<p>Máte možnosti a tu záleží na úprimnosti, takže tu je skutočná krajina.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) je profesionálna voľba za približne 39 dolárov. Robí objem na aplikáciu plus ekvalizér na aplikáciu a plné výstupné smerovanie, viac energie, než väčšina ľudí potrebuje. Kompromisy: stojí to viac ako dvojnásobok, je to skôr priame stiahnutie ako App Store a na svoju prácu inštaluje ovládač na zachytávanie zvuku. Ak chcete sadu nástrojov zvukového inžiniera, je to vynikajúce. Ak chcete len jednu aplikáciu hlasnejšiu, je to prehnané.</p>
+<p><strong>Background Music</strong> je bezplatný a s otvoreným zdrojom a dokáže vytvoriť základný objem pre jednotlivé aplikácie. Ale je to komunitný projekt, ktorý má za sebou históriu prelomenia na novších verziách macOS a chýba mu podpora nad 100 %, profily a automatické uhýbanie. Skvelé, ak je zadarmo jedinou požiadavkou a nevadí vám občasné rozbitie.</p>
+<p><strong>FineTune</strong> je bezplatná aplikácia s otvoreným zdrojom ponuky a <strong>eqMac</strong> je bezplatný EQ a systémový zosilňovač. Oboje sa oplatí vyskúšať, ak je váš rozpočet nulový. Len vedzte, že sú spravované komunitou, zameriavajú sa na EQ alebo sú jednoduchšie na správu jednotlivých aplikácií, a nespájajte profily a schovávajte sa do jedného elegantného balíka.</p>
+<p>Kde <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pristane: je to stredná cesta. Lacnejší ako SoundSource, schopnejší a spoľahlivejší ako bezplatné nástroje, a je na svete <strong>Mac App Store</strong>, čo znamená, že skontrolované spoločnosťou Apple, v karanténe a nainštaluje sa čisto s <strong>žiadne DMG a žiadne zvukové ovládače alebo rozšírenia</strong> pripevniť k vášmu systému. Pre väčšinu ľudí je úprimné odporúčanie jednoduché: ak chcete opravu s najmenšími problémami, ktorá vám tiež poskytne podporu, profily a automatické uhýbanie, je to najlepšia hodnota za 14,99 EUR jednorazovo.</p>
+
+<h2>Rýchla odpoveď, znovu</h2>
+<blockquote>Ak chcete, aby bola jedna aplikácia Mac hlasnejšia, než je jej maximum, použite zosilnený mixér hlasitosti pre jednotlivé aplikácie. Otvorte SoundDial z panela s ponukami, nájdite posúvač tichej aplikácie a potiahnite ho za hranicu 100 %. Iba táto aplikácia je hlasnejšia.</blockquote>
+
+<p>Prestaňte bojovať s jediným posúvačom hlasitosti pre celý váš Mac. Získajte <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 EUR raz, vylepšite túto tichú aplikáciu nad limit v priebehu niekoľkých sekúnd a uložte si profil, aby ste na to už nikdy nemuseli myslieť.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Ako zosilniť tiché videá a podcasty na vašom Mac",
+    description: "Niektoré videá, podcasty a prednášky YouTube sú príliš tiché aj pri 100 %. Tu je návod, ako zvýšiť objem jednotlivých aplikácií nad maximum na macOS pomocou SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Najrýchlejšia a najspoľahlivejšia oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store panelový mixážny pult, ktorý dáva každej aplikácii vlastný posuvník hlasitosti a skutočný <strong>posilniť</strong> čo presahuje 100%. Otvorte prehliadač alebo prehrávač podcastov, potiahnite jeho posúvač nad maximum a tiché video alebo prednáška sa okamžite zosilnia – žiadne ovládače, žiadne reštartovanie.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Ako zosilniť tiché videá a podcasty na vašom Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo sú niektoré videá a podcasty príliš tiché</h2>
+<p>Natočíte svoj Mac na 100 % a rozhovor je stále len šepot. Toto nie je tvoja predstava. Zvuk je zvládnutý na veľmi odlišných úrovniach hlasitosti – webinár zaznamenaný na mikrofóne prenosného počítača, tichý nezávislý podcast alebo nahraná stará prednáška môže sedieť 15–20 dB pod profesionálne vyrobeným videom YouTube. Hlasitosť vášho systému je už maximalizovaná, takže vám už nezostáva žiadny priestor.</p>
+<p>Tu je háčik: macOS má <strong>žiadny vstavaný mixér hlasitosti pre jednotlivé aplikácie</strong>. Windows má jeden už roky (zmiešavač hlasitosti v systémovej lište), ale na Mac sa tlačidlá hlasitosti posúvajú o jednu globálnu úroveň pre všetko. Neexistuje žiadny natívny spôsob, ako povedať „zvýšiť iba túto kartu prehliadača“ – nehovoriac o prekročení 100 % jednej aplikácie.</p>
+
+<h2>Skutočná oprava: zvýšenie hlasitosti na aplikáciu</h2>
+<p>Ak chcete, aby bol tichý zdroj hlasnejší, než vaše reproduktory bežne umožňujú, potrebujete softvér, ktorý aplikuje zosilnenie <em>konkrétne tú aplikáciu</em> a môže sa zvýšiť nad 100 % strop. To je presne to, čo robí mixér pre jednotlivé aplikácie s funkciou boost.</p>
+<p>S <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, každá spustená aplikácia sa zobrazí v zozname na lište ponuky s vlastným posúvačom. Posuňte tichú aplikáciu až o 150 % alebo 200 % a zvuk sa zosilní v reálnom čase. Pretože podpora je pre každú aplikáciu, všetko ostatné – vaša hudba, upozornenia, hovor v inom okne – zostane na normálnej úrovni. Nenabíjate celý systém, aby ste počuli jeden jemný podcast.</p>
+<blockquote>Globálna hlasitosť sa pýta: „Ako hlasný je Mac?“ Mixér pre jednotlivé aplikácie sa pýta: „Ako je to nahlas <em>toto</em> aplikáciu?" — čo je otázka, na ktorej skutočne záleží, keď je jedno video tiché a ostatné sú v poriadku.</blockquote>
+
+<h2>Ako zosilniť tiché video alebo podcast, krok za krokom</h2>
+<ul>
+<li><strong>Nainštalujte SoundDial</strong> z modelu Mac App Store. Je v sandboxe a skontrolovaná spoločnosťou Apple, takže sa inštaluje čisto ako ktorákoľvek iná aplikácia – žiadne samostatné sťahovanie, žiadny zvukový ovládač, žiadna rukavica na povolenie.</li>
+<li><strong>Začnite hrať</strong> tiché video, epizóda podcastu alebo prednáška v akejkoľvek aplikácii, ktorú používate – Safari, Chrome, klient podcastov, VLC.</li>
+<li><strong>Kliknite na ikonu SoundDial</strong> v paneli s ponukami. Pre každú aplikáciu, ktorá momentálne vydáva zvuk, sa zobrazí posúvač.</li>
+<li><strong>Presuňte posúvač danej aplikácie nad 100 %</strong> — najprv skúste 150 % a potom zatlačte vyššie, ak je stále príliš mäkké. Zmena je okamžitá.</li>
+<li><strong>Všetko ostatné nechajte tak.</strong> Hlasnejšia bude iba aplikácia, ktorú ste posilnili; váš systém zostane vyvážený.</li>
+</ul>
+<p>Ak zistíte, že každý deň vylepšujete tie isté aplikácie – povedzme prehrávač podcastov a váš prehliadač – môžete toto nastavenie uložiť ako <strong>objemový profil</strong> a vyvolať ho jedným kliknutím namiesto toho, aby ste ho zakaždým znova upravovali.</p>
+
+<h2>Pozor pri posilňovaní</h2>
+<p>Zosilnenie nad 100 % pridáva zisk a zisk má limity. Zatlačte na veľmi tichú nahrávku nízkej kvality dostatočne silno a môžete počuť sekanie alebo skreslenie – to je zdroj bez čistého signálu, nie chyba v aplikácii. Zosilňujte, kým nebude pohodlne počuteľné, a potom ustúpte, ak to začne znieť drsne. Na vstavaných reproduktoroch notebooku môže extrémne zosilnenie zaťažiť aj vodičov, takže tam choďte jednoduchšie ako s dobrými slúchadlami alebo externými reproduktormi.</p>
+
+<h2>A čo bezplatné alebo vstavané možnosti?</h2>
+<p>Máte alternatívy a stojí za to byť k nim úprimný:</p>
+<ul>
+<li><strong>Systémová hlasitosť + posuvníky na úrovni aplikácie.</strong> Niektoré prehrávače (VLC, niekoľko prehliadačov prostredníctvom rozšírení) vám umožňujú zosilniť vlastný zvuk. Dobre, ak to niekedy potrebujete iba v jednej aplikácii – ale nemusíte konfigurovať každú aplikáciu samostatne, bez jednotného ovládania a bez profilov.</li>
+<li><strong>eqMac</strong> je bezplatný EQ a booster. Môže zvýšiť hlasitosť v celom systéme, ale je to globálny nástroj, nie čistý mixér pre jednotlivé aplikácie a funguje na úrovni celého výstupu.</li>
+<li><strong>Background Music</strong> je bezplatný a otvorený zdroj a ponúka objem pre jednotlivé aplikácie. Spolieha sa však na nastavenie zachytávania zvuku, ktoré sa môže zlomiť na novších verziách macOS, a chýba mu vyhradené zosilnenie, profily a automatické stláčanie.</li>
+<li><strong>FineTune</strong> je bezplatná aplikácia na paneli s ponukami s otvoreným zdrojom – ľahká možnosť, ak chcete základy a nevadí vám softvér spravovaný komunitou.</li>
+<li><strong>SoundSource</strong> od Rogue Amoeba (~ 39 $) je profesionálna ťažká váha: EQ na aplikáciu, výstupné smerovanie, funguje. Vyžaduje tiež stiahnutie a ovládač na zachytávanie zvuku a stojí viac ako dvojnásobok SoundDial. Overkill, ak všetko, čo chcete, je urobiť tichý zvuk hlasnejším.</li>
+</ul>
+
+<h2>Prečo je SoundDial praktickou voľbou</h2>
+<p>SoundDial je ideálnym miestom pre tento presný problém. to je <strong>14,99 € jednorazovo</strong> — bez predplatného — a žije na <strong>Mac App Store</strong>, čo znamená, že je v karanténe, skontrolovaný spoločnosťou Apple a inštaluje sa bez akéhokoľvek rozšírenia DMG alebo systému, ktorému by ste mohli dôverovať. Získate podporu pre každú aplikáciu, pre ktorú ste skutočne prišli, plus profily, stlmenie zvuku podľa aplikácie, rýchle prepínanie výstupu a <strong>auto-ducking</strong> ktoré potopia ostatné aplikácie, keď sa potrebujete sústrediť na jednu. Robí to nahlas jednoducho a zvyšok robí dobre.</p>
+
+<p><strong>Už vás nebaví počúvať tiché videá a podcasty?</strong> <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za 14,99 EUR a dajte každej aplikácii vlastný objem – s podporou, aby ste čokoľvek počuli jasne.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Ako nastaviť inú hlasitosť pre každú aplikáciu na Mac",
+    description: "macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Tu je návod, ako nastaviť nezávislé, trvalé úrovne hlasitosti pre každú aplikáciu na Mac pomocou SoundDial a alternatív.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá vstavaný spôsob, ako nastaviť inú hlasitosť pre každú aplikáciu, takže potrebujete mixér hlasitosti na paneli s ponukami. Najrýchlejšia a najspoľahlivejšia oprava je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikácia Mac App Store, ktorá každej aplikácii poskytuje vlastný posuvník hlasitosti, stlmenie zvuku pre každú aplikáciu a podporu, ktorá posúva tiché aplikácie nad 100 %. Nastavte si úrovne raz a budú sa držať.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ako nastaviť inú hlasitosť pre každú aplikáciu na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo Mac nemá ovládanie hlasitosti pre jednotlivé aplikácie</h2>
+<p>Ak ste prešli zo Windows, pravdepodobne ste hľadali ekvivalent Windows Volume Mixer, malý panel, kde má každá aplikácia svoj vlastný posuvník. Nie je tam. macOS ponúka iba jeden globálny systémový zväzok. Či už ide o video YouTube, hovor Zoom, Spotify alebo hru, všetky zdieľajú rovnakú majstrovskú úroveň.</p>
+<p>To je v poriadku, kým nie je. Discord chat prehluší vašu hudbu. Reklama v prehliadači sa spustí na plnú hlasitosť, zatiaľ čo sa podcast ticho prehráva. Vaša hra je ohlušujúca, ale hlasový hovor na pozadí je príliš tichý. Jediným „riešením“, ktoré vám Apple ponúka, je otvoriť každú aplikáciu a manuálne upraviť jej internú hlasitosť, ak ju aplikácia vôbec má, a opakovať to pri každej relácii.</p>
+<p>Ak chcete získať skutočnú kontrolu pre jednotlivé aplikácie, potrebujete malý nástroj, ktorý sa nachádza medzi vašimi aplikáciami a výstupným zariadením. Nižšie je uvedený postup, ako to urobiť správne, plus úprimné poznámky o alternatívach.</p>
+
+<h2>Najrýchlejší spôsob: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> žije vo vašom paneli s ponukami a zobrazuje všetky aplikácie, ktoré práve prehrávajú zvuk. Každý z nich má samostatný posúvač. Tu je celý pracovný postup:</p>
+<ul>
+<li><strong>Nainštalujte zo Mac App Store.</strong> Je skontrolovaný spoločnosťou Apple a v karanténe, takže nie je potrebné schváliť žiadne DMG, žiadny zvukový ovládač a žiadne rozšírenie jadra alebo systému. Inštaluje sa ako každá normálna aplikácia a dá sa odstrániť rovnakým spôsobom.</li>
+<li><strong>Kliknite na ikonu panela s ponukami.</strong> Uvidíte posúvač pre každú aktívnu aplikáciu a hlavný ovládací prvok.</li>
+<li><strong>Potiahnutím nastavíte úrovne.</strong> Zapnite Discord, posuňte Spotify nahor a úplne stlmte hlučnú aplikáciu na karte prehliadača jediným kliknutím.</li>
+<li><strong>Posilnite tiché aplikácie.</strong> Ak je aplikácia príliš mäkká aj pri 100 %, posuňte ju nad 100 % s podporou pre jednotlivé aplikácie.</li>
+<li><strong>Uložiť profil.</strong> Uložte si svoj „herný“, „pracovný hovor“ alebo „hudbu“ a okamžite medzi nimi prepínajte namiesto toho, aby ste každý deň preťahovali posúvače.</li>
+</ul>
+<p>Za zmienku stoja dve funkcie, pretože riešia tie najnepríjemnejšie scenáre:</p>
+<ul>
+<li><strong>Auto-ducking</strong> automaticky zníži úroveň ostatných aplikácií, keď sa prehráva zvolená aplikácia, takže vaša hudba sa pri prichádzajúcom hovore zníži a potom sa vráti späť, žiadne manuálne hranie.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> umožňuje preskakovať medzi slúchadlami a reproduktormi z rovnakej ponuky bez toho, aby ste museli prejsť do nastavení systému.</li>
+</ul>
+<p>Keďže úrovne sa pamätajú pre každú aplikáciu a ukladajú sa do profilov, toto je časť, ktorú väčšina ľudí v skutočnosti chce: nastavíte ju raz a <em>pobyty</em> nastaviť.</p>
+
+<h2>Bezplatné a platené alternatívy, úprimne porovnané</h2>
+<p>SoundDial nie je jedinou možnosťou a v závislosti od vašich potrieb môže stačiť bezplatný nástroj. Tu je spravodlivý prehľad.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource je profesionálna ťažká váha. Okrem hlasitosti pre jednotlivé aplikácie robí EQ pre každú aplikáciu a úplné smerovanie výstupu, takže jednu aplikáciu môžete poslať do slúchadiel a druhú do reproduktorov. Je to skutočne vynikajúce. Kompromisy: stojí to okolo 39 dolárov a nie je to čistá inštalácia App Store, je to priame stiahnutie, ktoré si vyžaduje pridanie ovládača na zachytávanie zvuku do vášho systému. Ak ste audio profesionál, ktorý potrebuje EQ a smerovanie, stojí to za to. Ak chcete, aby každá aplikácia mala správnu hlasitosť, je to viac nástrojov a viac nastavení, ako potrebujete.</p>
+
+<h2>Background Music (open-source, zadarmo)</h2>
+<p>Background Music je bezplatná aplikácia s otvoreným zdrojom, ktorá ponúka objem pre jednotlivé aplikácie a automatické pozastavenie. Háčik je v spoľahlivosti: nainštaluje virtuálne zvukové zariadenie a v novších vydaniach macOS má históriu porúch, ktoré si niekedy vyžadujú preinštalovanie alebo opravy po aktualizáciách. Chýba mu tiež podpora, uložené profily a skutočné automatické uhýbanie. Skvelé, ak chcete zadarmo a nevadí vám občasná údržba.</p>
+
+<h2>FineTune a eqMac</h2>
+<p>FineTune je bezplatná aplikácia na paneli s ponukami s otvoreným zdrojovým kódom, ktorá predstavuje jednoduchý východiskový bod. eqMac je bezplatný ekvalizér s celosystémovým zosilňovačom, ktorý je zameraný skôr na ekvalizér a celkový zisk, než na to, aby každej aplikácii dal vlastný trvalý posúvač. Oboje sa oplatí vyskúšať, ak je vaša potreba úzka, ale ani jedno sa nezameriava na pracovný postup „iný objem na aplikáciu, uložené ako profily“.</p>
+
+<h2>Ktoré by ste si mali vybrať?</h2>
+<ul>
+<li><strong>Chcete, aby to fungovalo čisto, s profilmi a automatickým sklopením?</strong> SoundDial za 14,99 EUR jednorazovo, od App Store, bez inštalácie ovládačov.</li>
+<li><strong>Potrebujete ekvalizér a smerovanie zvuku podľa aplikácie a nevadí vám cena alebo ovládač?</strong> SoundSource.</li>
+<li><strong>Chcete zadarmo a ste v poriadku, keď sa aktualizujete macOS?</strong> Background Music, FineTune alebo eqMac.</li>
+</ul>
+<p>Skutočnou výhodou SoundDial je kombinácia: nezávislá hlasitosť, stlmenie a zosilnenie pre každú aplikáciu, uložené do prepínateľných profilov, s automatickým zmenšením, to všetko v rámci stiahnutého súboru App Store v karanténe, ktorému môžete dôverovať a odinštalovať ho jediným kliknutím, za jednorazovú cenu 14,99 EUR namiesto predplatného.</p>
+
+<blockquote>Žiadny ovládač, žiadne rozšírenie, žiadne DMG. Nastavte hlasitosť každej aplikácie raz, uložte ju ako profil a o zvyšok sa postará automatické znižovanie hlasitosti.</blockquote>
+
+<p>Ste pripravení dať každej aplikácii vlastný objem? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a nastavte si dokonalú zmes asi za minútu.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Urobte jednu aplikáciu tichšiu ako všetko ostatné na Mac",
+    description: "Jedna hlasná aplikácia, ktorá prehluší zvyšok vášho Mac? Tu je najrýchlejší a spoľahlivý spôsob, ako stíšiť hlasitosť jednej aplikácie bez toho, aby ste sa dotkli ostatných.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak chcete vypnúť jednu aplikáciu, zatiaľ čo všetko ostatné zostane na mieste, použite <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, panel s ponukami pre jednotlivé aplikácie pre macOS. Otvorte ju, nájdite hlasnú aplikáciu v zozname a potiahnite jej posúvač nadol. Táto aplikácia je okamžite tichšia, zatiaľ čo vaša hudba, hovory a ďalší zvuk si zachovávajú svoju vlastnú úroveň. Je to najrýchlejšia a najspoľahlivejšia oprava.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Urobte jednu aplikáciu tichšou ako všetko ostatné na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo to macOS robí tak ťažkým</h2>
+
+<p>Tu je frustrujúca pravda: macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows ho má už roky (kliknite pravým tlačidlom myši na ikonu hlasitosti, otvorte Mixér hlasitosti, hotovo), ale na Mac tlačidlá hlasitosti a posúvač na paneli s ponukami ovládajú iba jednu vec: hlavný výstup. Stíšte to a všetko spolu pôjde tichšie. Zapnite to a hlasná aplikácia bude stále hlasná, len hlasnejšia spolu so zvyškom.</p>
+
+<p>Takže keď sú zvukové efekty hry výbušné, karta prehliadača automaticky prehráva reklamu alebo sa vo vašom podcaste neustále šíria upozornenia, vaše jediné natívne možnosti sú neohrabané: stlmiť celý systém, prehrabať sa vlastným nastavením hlasitosti každej aplikácie (ak vôbec nejaké má) alebo úplne ukončiť páchateľa. Nič z toho vám neumožňuje jednoducho povedať „urobte túto aplikáciu tichšou a nechajte všetko ostatné na pokoji“.</p>
+
+<h2>Rýchla oprava: mixér hlasitosti na aplikáciu</h2>
+
+<p>Mixér hlasitosti pre jednotlivé aplikácie dáva každej spustenej aplikácii vlastný nezávislý posúvač. To je presne to ovládanie, ktoré vám chýba. S <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> vyzerá to takto:</p>
+
+<ul>
+<li><strong>Otvorte panelový mixér s ponukami.</strong> Kliknite na ikonu SoundDial a uvidíte živý zoznam všetkých aplikácií, ktoré práve prehrávajú zvuk.</li>
+<li><strong>Nájdite toho hlasného.</strong> Hra, prehliadač, videohovor, zvuky upozornení, čokoľvek, čo utopí zvyšok.</li>
+<li><strong>Potiahnite jeho posúvač nadol.</strong> Nastavte ho na 40%, 20%, kdekoľvek sa to cíti vyvážene. Zmena je okamžitá a týka sa iba danej aplikácie.</li>
+<li><strong>Všetko ostatné nechajte tak.</strong> Váš hudobný prehrávač, váš hovor, vaše ďalšie karty, všetky zachovávajú hlasitosť, ktorú ste im nastavili.</li>
+</ul>
+
+<p>Môžete tiež úplne stlmiť jednu aplikáciu jedným kliknutím, zatiaľ čo ostatné hrajú, alebo zvýšiť tichú aplikáciu nad 100 %, ak je príliš tichá. Žiadne reštartovanie aplikácie, žiadne potápanie v menu.</p>
+
+<h2>Bežné prípady, kedy vás to zachráni</h2>
+
+<ul>
+<li><strong>Hlasná hra cez hudbu na pozadí.</strong> Pustite hru na pohodlnú úroveň a udržujte pod ňou svoj zoznam skladieb na plnej hlasitosti.</li>
+<li><strong>Reklamy v prehliadači a video, ktoré prudko stúpajú.</strong> Pripnite si prehliadač nižšie, aby vás prekvapivé automatické prehrávanie nikdy nezlomilo.</li>
+<li><strong>Oznámenie zvoní cez hovor alebo podcast.</strong> Vypnite aplikáciu s množstvom upozornení bez toho, aby ste stlmili zvuk, na ktorom vám skutočne záleží.</li>
+<li><strong>Tichý videohovor pod hlasnými médiami.</strong> Namiesto stlmenia hlasitej aplikácie zvýšte hovor nad 100 %, aby ste ľudí jasne počuli.</li>
+</ul>
+
+<h2>Nastavte ho raz pomocou profilov hlasitosti a automatického zníženia hlasitosti</h2>
+
+<p>Oprava jednej hlasnej aplikácie je pekná, ale pravdepodobne budete chcieť, aby zostala opravená. SoundDial má dve funkcie, vďaka ktorým je toto trvalé:</p>
+
+<p><strong>Objemové profily</strong> vám umožní uložiť množinu úrovní pre jednotlivé aplikácie a vyvolať ich jediným kliknutím. Zostavte si profil „Hry“, kde hra sedí na 30 % a hudba na 100 %, a profil „Práca“, kde sú hovory posilnené a všetko ostatné je utlmené. Prepínajte kontexty bez opätovného presúvania posúvačov zakaždým.</p>
+
+<p><strong>Auto-ducking</strong> automaticky zníži úroveň ostatných aplikácií, keď sa vybraná aplikácia prehrá, a potom ich vráti späť, takže hlasná aplikácia nikdy úplne nezachytí váš zvuk. Medzi profilmi, znížením hlasitosti a rýchlym prepínaním výstupu (preskakovanie medzi reproduktormi a slúchadlami bez otvorenia nastavení systému) raz nastavíte rovnováhu a prestanete strážiť hlasitosť.</p>
+
+<h2>Ako sa SoundDial porovnáva s alternatívami</h2>
+
+<p>Existujú aj iné spôsoby, ako získať objem jednotlivých aplikácií na Mac. Tu je úprimný pohľad:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~ 39 USD)</strong> je skutočne profesionálny: ekvalizér pre jednotlivé aplikácie a plné výstupné smerovanie nad ovládaním hlasitosti. Stojí to však viac ako dvojnásobok a vyžaduje si samostatné stiahnutie a ovládač na zachytávanie zvuku. Ak chcete sadu nástrojov na úrovni štúdia, je to vynikajúce. Ak chcete vypnúť iba jednu aplikáciu, je to viac, ako potrebujete.</li>
+<li><strong>Background Music</strong> je zadarmo a s otvoreným zdrojom, čo je skvelé, ale na novších verziách macOS sa môže zlomiť a chýba mu zvýšenie hlasitosti, profily a automatické stláčanie.</li>
+<li><strong>FineTune</strong> je bezplatná aplikácia s otvoreným zdrojom ponuky a <strong>eqMac</strong> je bezplatný EQ s boosterom. Oboje sa oplatí vyskúšať, ak je vašou prioritou bezplatné, ale za cenu vymieňate lesk, spoľahlivosť a funkcie.</li>
+</ul>
+
+<p>SoundDial je na sladkom mieste: 14,99 EUR jednorazovo, bez predplatného. Pretože je to na Mac App Store, je skontrolované spoločnosťou Apple a v sandboxe a inštaluje sa čisto bez DMG, bez zvukových ovládačov a bez systémových rozšírení na schválenie. Získate funkcie, ktoré sú pre tento problém skutočne dôležité, objem jednotlivých aplikácií, stlmenie, zosilnenie, profily a automatické stlmenie bez cenovky 39 dolárov alebo krehkého bezplatného nástroja.</p>
+
+<h2>Spodný riadok</h2>
+
+<p>macOS vám nedovolí vypnúť jedinú aplikáciu, ale to je medzera, ktorú môžete zatvoriť v priebehu niekoľkých sekúnd. Nainštalujte mixér pre jednotlivé aplikácie, potiahnite posúvač hlasnej aplikácie nadol a zvyšok zvuku zostane presne tam, kde ho chcete mať. Uložte si profil a už nikdy s tým nebudete bojovať.</p>
+
+<p><strong>Ste pripravení umlčať jednu aplikáciu, ktorá neustále utápa zvyšok?</strong> Získajte <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 €, jedna platba, bez ovládačov, bez predplatného.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac Audio Mixer pre streamery: Vyváženie mikrofónu, hier a hudby",
+    description: "Najrýchlejší spôsob vyváženia mikrofónu, zvuku hry, hudby a upozornení pri streamovaní na Mac. SoundDial vám ponúka mixér hlasitosti pre každú aplikáciu s profilmi a znížením hlasitosti.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Na vyváženie mikrofónu, hry, hudby a upozornení pri streamovaní na Mac je najrýchlejšia spoľahlivá oprava <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, panel s ponukami pre jednotlivé aplikácie. macOS nemá vstavaný mixážny pult, takže SoundDial vám umožňuje nastaviť nezávislé úrovne pre každú aplikáciu, zosilniť tiché zdroje, uložiť profily streamovania a automaticky spustiť hudbu, keď hovoríte.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Audio Mixer pre streamery: Vyváženie mikrofónu, hier a hudby" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Problém: macOS nemá ovládanie hlasitosti pre jednotlivé aplikácie</h2>
+<p>Windows má už roky mixér hlasitosti. macOS sa stále nedodáva. Posúvač hlasitosti systému posúva všetko naraz, čo je naživo zbytočné. Počas streamu žonglujete aspoň so štyrmi zdrojmi, ktoré všetky bojujú o rovnaký výstup:</p>
+<ul>
+<li><strong>Monitorovanie vášho hlasu / mikrofónu</strong> — potrebuje sedieť nad všetkým.</li>
+<li><strong>Zvuk hry</strong> — hlasné, dynamické a náchylné na špičky počas akcie.</li>
+<li><strong>Hudba na pozadí</strong> - mal by zostať ticho pod vaším komentárom.</li>
+<li><strong>Upozornenia a zvuky chatu</strong> — Discord, Stream Deck, upozornenia sledovateľov, upozornenia.</li>
+</ul>
+<p>Bez ovládania jednotlivých aplikácií skončíte tak, že budete jazdiť na posúvači hry v aplikácii, ručne stlmíte Spotify a budete sa modliť, aby hlasná prestrihová scéna nesfúkla vašich divákov. To nie je mix, je to kontrola poškodenia.</p>
+
+<h2>Čo musí robiť správny streamovací mixér</h2>
+<p>Nastavenie zvuku zamerané na tvorcu na Mac by vám malo poskytnúť štyri veci: nezávislé úrovne pre jednotlivé aplikácie, možnosť zosilniť zdroj, ktorý je príliš tichý, uložené konfigurácie, ktoré si môžete okamžite vyvolať, a automatické stlmenie, takže hudba padne v momente, keď hovoríte. SoundDial pokrýva všetky štyri z panela s ponukami.</p>
+
+<h3>1. Nezávislá hlasitosť pre každú aplikáciu</h3>
+<p>Nastavte hru na 60 %, hudbu na 25 %, Discord na 80 % a prehliadač na 40 % – každá aplikácia má svoj vlastný posúvač. Nič nekrváca do ničoho iného. Môžete tiež okamžite vypnúť zvuk pre každú aplikáciu, keď sa zdroj v strede streamu správa nesprávne, bez toho, aby ste sa dotkli samotnej aplikácie.</p>
+
+<h3>2. Zvýšenie hlasitosti pre tiché zdroje</h3>
+<p>Niektoré aplikácie a hry sú jednoducho príliš tiché aj pri 100 %. Zosilnenie SoundDial pre jednotlivé aplikácie posúva zdroj za jeho normálny strop, takže mrmlavá hra alebo video s nízkou hlasitosťou sa zmestí tam, kde ich potrebujete – žiadne prekódovanie, žiadne doplnky.</p>
+
+<h3>3. Profily hlasitosti pre rôzne scény</h3>
+<p>Toto je funkcia, ktorá šetrí streamerom najviac času. Váš mix „Just Chatting“ (hudba hore, hra dole) sa líši od vášho mixu „Boss Fight“ (hra hore, hudba takmer tichá), čo sa líši od vášho mixu „BRB“. Uložte si každý ako profil a prepínajte jedným kliknutím namiesto ťahania štyroch posuvníkov naživo.</p>
+
+<h3>4. Auto-ducking, takže hudba pod vašim hlasom ustúpi</h3>
+<p>Automatické stlmenie zvuku automaticky zníži zvuk na pozadí, keď hovoríte, a vráti ho späť, keď prestanete. Pre sólo streamerov je to rozdiel medzi komentárom, ktorý je jasný, a hudbou, ktorá neustále pochováva váš hlas – spracovávaný automaticky namiesto manuálneho.</p>
+
+<h2>Kde sa zmestí OBS</h2>
+<p>OBS je váš nástroj na vysielanie, nie váš stolný mixér hlasitosti. OBS ovláda, aké úrovne idú do streamu, prostredníctvom panelu Audio Mixer a filtrov, ale funguje zo zdrojov zvuku, ktoré zachytáva – nesiaha do jednotlivých aplikácií macOS a neznižuje ich na systémovej úrovni. Na Mac bolo získanie čistého zvuku pre jednotlivé aplikácie do OBS vždy tou bolestivou časťou.</p>
+<p>Praktický pracovný postup: použite SoundDial na nastavenie skutočných úrovní pre jednotlivé aplikácie na vašom Mac, takže to, čo vyjde, je už vyvážené, potom nechajte OBS zachytiť a doladiť úrovne vysielania. Nastavte mix raz pri zdroji a OBS má oveľa menej na boj. Rýchle prepínanie výstupu v SoundDial vám tiež umožňuje preskakovať medzi slúchadlami a reproduktormi bez toho, aby ste sa museli ponárať do nastavení systému medzi scénami.</p>
+
+<h2>SoundDial vs. alternatívy</h2>
+<p>Máte možnosti a tu záleží na úprimnosti:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~ 39 USD)</strong> — Pro-grade s ekvalizérom pre jednotlivé aplikácie a úplným výstupným smerovaním. Je to vynikajúce, ale stojí viac ako dvojnásobok, vyžaduje priame stiahnutie a inštaluje ovládač na zachytávanie zvuku. Overkill, ak potrebujete hlavne čisté úrovne pre jednotlivé aplikácie, zvýšenie a zníženie.</li>
+<li><strong>Background Music (zadarmo, open-source)</strong> - skutočne užitočné a bezplatné, ale na novších verziách macOS sa môže zlomiť a nemá žiadne zosilnenie, žiadne profily a žiadne automatické uhýbanie - presné funkcie, o ktoré sa opierajú streamery.</li>
+<li><strong>FineTune (bezplatná aplikácia s otvoreným zdrojom na paneli s ponukami)</strong> — ľahké ovládanie pre jednotlivé aplikácie, ale komunitný projekt bez kombinácie profilov a zníženia postavenia na živé vysielanie.</li>
+<li><strong>eqMac (bezplatný ekvalizér + zosilňovač)</strong> — dobré na tvarovanie a zvýraznenie tónov, ale je to ekvalizér, nie streamovací mixér pre jednotlivé aplikácie.</li>
+</ul>
+<p>Uhol SoundDial: je to a <strong>14,99 € jednorazovo</strong> nákup na <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Skontrolované spoločnosťou Apple, v karanténe a nainštaluje sa čisto bez DMG a bez zvukových ovládačov alebo systémových rozšírení. Na tejto poslednej časti záleží pre streamerov: menej komponentov na úrovni jadra znamená menej prekvapení, keď sa macOS aktualizuje noc pred streamom.</p>
+
+<h2>Úprimný kompromis</h2>
+<p>Ak potrebujete EQ na úrovni vysielania a komplexné smerovacie reťazce, SoundSource zarobí svoju cenu. Ak chcete bezplatný drotársky nástroj a nevadí vám občasné rozbitie, Background Music alebo FineTune vám poslúži. Ak však chcete mix, ktorý si streamovanie skutočne vyžaduje – úrovne pre jednotlivé aplikácie, zosilnenie, profily uložených scén a automatické stláčanie – od bezpečnej inštalácie App Store, ktorá prežije aktualizácie macOS, SoundDial je najpriamejšia cesta za peniaze.</p>
+
+<p><strong>Ste pripravení opraviť zvuk streamu?</strong> Získajte <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 € — nastavte si úroveň mikrofónu, hry, hudby a upozornení raz, uložte si ich ako profily a nechajte automatické stlmenie hlasu na vrchole.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "Ako opraviť praskanie a praskanie zvuku na macOS Tahoe",
+    description: "Praskajúci alebo praskajúci zvuk po aktualizácii na macOS Tahoe 26? Opravte to prispôsobením vzorkovacej frekvencie, resetovaním CoreAudio, skontrolovaním kodeku Bluetooth a odstránením konfliktov doplnkov. Tu je úplné poradie riešenia problémov.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Praskanie a praskanie po aktualizácii na macOS Tahoe 26 je takmer vždy nesúladom vzorkovacej frekvencie, nestálym vyjednávaním kodeku Bluetooth alebo zaseknutým procesom CoreAudio. Opravte to prispôsobením výstupnej vzorkovacej frekvencie v nastavení Audio MIDI, resetovaním <code>coreaudiod</code>, zabudnutie a opätovné spárovanie slúchadiel Bluetooth a ukončenie hostiteľov audio zásuvných modulov. Postupujte podľa nižšie uvedeného poradia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Ako opraviť praskanie a praskanie zvuku na macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Začnite s lacnými opravami</h2>
+
+<p>Predtým, ako sa dotknete niečoho technického, vylúčte dve veci, ktoré vyriešia väčšinu prípadov za menej ako minútu:</p>
+
+<ul>
+<li><strong>Reštartujte Mac.</strong> Aktualizácia Tahoe prekvapivo často ponecháva zvukových démonov v polovičnom migrovanom stave. Čistý reštart znova načíta CoreAudio od začiatku a odstráni väčšinu praskania po aktualizácii.</li>
+<li><strong>Odpojte a znova pripojte výstupné zariadenie.</strong> Ak ide o USB DAC, dock alebo audio rozhranie, odpojte ho, počkajte niekoľko sekúnd a znova ho pripojte. Vyskúšajte aj iný USB port, ideálne jeden priamo na Mac a nie cez rozbočovač. Rozbočovače a displeje, ktoré prenášajú zvuk, sú bežným zdrojom praskania.</li>
+</ul>
+
+<p>Ak hluk prežije reštart, ide o problém s konfiguráciou, nie o závadu. Pokračuj.</p>
+
+<h2>Prispôsobte vzorkovaciu frekvenciu (najčastejšia príčina)</h2>
+
+<p>Klasické praskanie Tahoe pochádza z nesúladu vzorkovacej frekvencie medzi tým, čo vaše zariadenie chce, a tým, čo posiela macOS. Keď aplikácia prehráva zvuk s frekvenciou 44,1 kHz a systém je uzamknutý na frekvencii 48 kHz (alebo naopak), prevzorkovanie môže koktať alebo praskať.</p>
+
+<ul>
+<li>Otvorte <strong>Nastavenie MIDI zvuku</strong> (v Aplikáciách → Pomôcky alebo vyhľadajte Spotlight).</li>
+<li>V ľavom bočnom paneli vyberte svoje výstupné zariadenie.</li>
+<li>Pozrite sa na <strong>Formátovať</strong> rozbaľovacia ponuka. Skúste to nastaviť na <strong>48000,0 Hz, 2ch-24bit Integer</strong> a testovať.</li>
+<li>Ak praskanie pokračuje, prepnite na <strong>44100,0 Hz</strong> a znova otestujte.</li>
+<li>V prípade rozhraní sa uistite, že vzorkovacia frekvencia zodpovedá projektovej frekvencii vášho DAW.</li>
+</ul>
+
+<p>Prepnutie formátu tiež prinúti CoreAudio znovu dohodnúť spojenie, čo samo o sebe vyrieši veľa prípadov, aj keď sa dostanete späť na rovnakú hodnotu.</p>
+
+<h2>Resetovať CoreAudio</h2>
+
+<p>CoreAudio beží ako démon na pozadí <code>coreaudiod</code>. Po veľkej aktualizácii macOS môže udržiavať zastaraný stav zariadenia. Reštartovanie je bezpečné a prejaví sa okamžite, bez reštartu.</p>
+
+<p>Otvorte Terminal a spustite:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Po zobrazení výzvy zadajte svoje heslo. Váš zvuk sa na sekundu preruší, potom sa démon automaticky znova spustí s čistým štítom. Toto je jediná najúčinnejšia oprava praskania, ktorá sa objavuje z ničoho nič na počítači, ktorý bol pred aktualizáciou v poriadku.</p>
+
+<h2>Skontrolujte slúchadlá a kodek Bluetooth</h2>
+
+<p>Ak sa praskanie vyskytuje iba na slúchadlách AirPods alebo iných slúchadlách Bluetooth, problémom je zvyčajne vyjednávanie kodeku, nie vaše reproduktory. Kvalita bezdrôtového zvuku sa zhoršuje, keď je pripojenie preťažené alebo keď macOS prejde do režimu hovoru s nízkou šírkou pásma.</p>
+
+<ul>
+<li><strong>Zabudnite a znova spárujte zariadenie.</strong> Prejdite do Nastavenia systému → Bluetooth, vyberte slúchadlá a potom ich znova spárujte. Tým sa resetuje dohodnutý kodek.</li>
+<li><strong>Sledujte pokles režimu hovoru.</strong> Keď aplikácia otvorí mikrofón, macOS prepne slúchadlá Bluetooth na obojsmerný profil nízkej kvality, ktorý znie chrumkavo. Ukončite konferenčné a hlasové aplikácie, ktoré nepoužívate, a vernosť sa vráti.</li>
+<li><strong>Znížte rušenie.</strong> Choďte preč z preplnených 2,4 GHz prostredí a odpojte Bluetooth zariadenia, ktoré nepotrebujete. Rušné rozhlasové pásmo produkuje prerušované zvuky.</li>
+<li><strong>Vypnite mikrofónny vstup</strong> v nastaveniach aplikácie, ak potrebujete iba počúvať, takže macOS zachováva vysokokvalitný profil prehrávania.</li>
+</ul>
+
+<h2>Ukončite hostiteľov audio doplnkov a virtuálne ovládače</h2>
+
+<p>Zvukový softvér tretej strany, ktorý inštaluje systémové rozšírenie alebo virtuálne zariadenie, je po skoku operačného systému častým páchateľom, pretože rozšírenia jadra a zvuku často potrebujú aktualizáciu na novú verziu macOS. Medzi podozrivých patria virtuálne audio smerovače, aplikácie ekvalizéra, nástroje spätnej slučky a staršie nástroje založené na ovládačoch.</p>
+
+<ul>
+<li>Ukončite akýkoľvek ekvalizér, audio smerovač alebo aplikáciu na spätnú väzbu a otestujte, či praskanie prestane.</li>
+<li>Skontrolujte Nastavenia systému → Všeobecné → Položky prihlásenia Rozšírenia &amp; pre zvukové rozšírenia, ktoré môžu vyžadovať aktualizáciu alebo odstránenie.</li>
+<li>Aktualizujte tieto aplikácie na ich vydania kompatibilné s Tahoe alebo odinštalujte tie, ktoré už nepoužívate. Naskladané zvukové ovládače po veľkej aktualizácii často navzájom kolidujú.</li>
+</ul>
+
+<p>Ak ukončenie jednej z týchto aplikácií stíši praskanie, našli ste svojho vinníka. Preinštalujte aktuálnu verziu alebo ju nechajte vypnutú.</p>
+
+<h2>Zúžte to: celý systém alebo jedna aplikácia?</h2>
+
+<p>Zistite, či sa hluk vyskytuje všade alebo len v konkrétnom softvéri. Prehrajte miestny zvukový súbor, potom video prehliadača a potom hudobnú aplikáciu. Ak praskne iba jedna aplikácia, opravou sú vlastné nastavenia zvuku alebo aktualizácia tejto aplikácie, nie macOS. Ak ide o celý systém, odpoveď sa nachádza v krokoch vyššie.</p>
+
+<p>Keď ste stále uviazli, spustite systém v núdzovom režime (podržte tlačidlo napájania na silikóne Apple a potom vyberte spúšťací disk a súčasne podržte kláves Shift). Núdzový režim nenačítava žiadne rozšírenia tretích strán. Ak je tam zvuk čistý, príčinou je prihlasovacia položka alebo ovládač a môžete ich po jednom znova povoliť, aby ste ich našli.</p>
+
+<h2>Keď je váš zvuk čistý</h2>
+
+<p>Praskanie je problém s ovládačom a vzorkovacou frekvenciou, takže vyššie uvedené opravy ho skutočne riešia. Keď je však prehrávanie stabilné, môžete si všimnúť iné obmedzenie: macOS stále nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie, ako to robí Windows. Hlasitú aplikáciu nemôžete vypnúť bez toho, aby ste stlmili všetko.</p>
+
+<p>To je tá medzera <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> vypĺňa. Je to mix panel s ponukami, ktorý každej aplikácii poskytuje vlastný posuvník hlasitosti, stlmenie zvuku pre každú aplikáciu a dokonca zvýšenie hlasitosti pre tiché aplikácie, plus rýchle prepínanie výstupu. Praskanie to neopraví, ale akonáhle je váš zvuk zdravý, značne zjednoduší každodenné ovládanie.</p>
+
+<p>Vykonajte vyššie uvedené kroky v uvedenom poradí a začnite reštartovaním a kontrolou vzorkovacej frekvencie. Ak neskôr budete chcieť skutočnú kontrolu podľa aplikácie vo svojom nastavení čistého zvuku, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je jednorazový nákup za 14,99 EUR na Mac App Store v karanténe bez ovládačov alebo inštalácie DMG.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Zajakávanie alebo vyrezávanie na Mac (Tahoe Fix)",
+    description: "AirPods koktanie, vystrihovanie alebo vypadávanie zvuku na macOS Tahoe je takmer vždy rušenie Bluetooth alebo automatické prepínanie. Tu je návod, ako znova spárovať, znížiť preťaženie 2,4 GHz a zastaviť prerušenia, ktoré prerušujú prehrávanie.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Zajakávanie alebo vysekávanie AirPods na macOS Tahoe je takmer vždy rušenie Bluetooth, nie rozbitá náhlavná súprava. Obvyklými vinníkmi sú 2,4 GHz Wi-Fi a preťaženie smerovača, agresívne automatické prepínanie zariadení a zastarané párovanie. Opätovne spárujte AirPods, vypnite automatické prepínanie a vzdiaľte sa od preplnených 2,4 GHz kanálov, aby ste vyriešili väčšinu prípadov.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Zajakávanie alebo vysekávanie na Mac (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo AirPods klesnúť na Mac konkrétne</h2>
+
+<p>AirPods používa Bluetooth, ktorý zdieľa preplnené rádiové pásmo 2,4 GHz s Wi-Fi, mikrovlnami, zariadeniami USB 3 a takmer každou inteligentnou zásuvkou vo vašej domácnosti. Váš Mac je rušné rádio: žongluje s funkciami Wi-Fi, Bluetooth, AirDrop a Continuity na prekrývajúcich sa anténach. Keď sa toto pásmo zahltí, zvuk Bluetooth sa zasekne ako prvé, pretože nedokáže tolerovať zahodené pakety ako prenos súborov.</p>
+
+<p>Tahoe zázračne nezhoršil váš AirPods, ale čerstvá inštalácia macOS často resetuje správanie rádia, znova povolí odovzdávanie kontinuity a znovu vyjednáva kodeky. Preto sa zdá, že problémy sa objavujú hneď po aktualizácii. Dobrá správa: opravy sú dobre pochopené a väčšinou bezplatné.</p>
+
+<h2>Oprava 1: Znovu spárujte AirPods (urobte to ako prvé)</h2>
+
+<p>Zastarané alebo poškodené párovanie prežije reštarty a spôsobuje občasné poklesy, ktoré vyzerajú náhodne. Úplne odstráňte a znova pridajte pripojenie:</p>
+
+<ul>
+<li>Otvorte <strong>Systémové nastavenia, Bluetooth</strong>.</li>
+<li>Kliknite na tlačidlo info (i) vedľa vášho AirPods a vyberte si <strong>Zabudnite na toto zariadenie</strong>.</li>
+<li>Vložte AirPods do puzdra, zatvorte veko, počkajte 15 sekúnd a potom ho otvorte.</li>
+<li>Podržte tlačidlo na zadnej strane puzdra, kým svetlo nezačne blikať nabielo.</li>
+<li>Znova spárujte zo zoznamu Bluetooth.</li>
+</ul>
+
+<p>Keď ste tam, uistite sa, že firmvér AirPods je aktuálny. Neexistuje žiadny manuálny aktualizátor, ale ak ich na chvíľu necháte v puzdre v blízkosti pripojeného iPhonu alebo Mac, budú sa aktualizovať na pozadí.</p>
+
+<h2>Oprava 2: Vypnite automatické prepínanie</h2>
+
+<p>Toto je jediná najväčšia príčina „odrezania sa“ pre ľudí v ekosystéme Apple. Váš AirPods sa vás snaží sledovať medzi zariadeniami Mac, iPhone a iPad. Zakaždým, keď si váš telefón myslí, že by mal zachytiť zvuk, pripojenie na vašom Mac sa zasekne a vytvorí polsekundový výpadok uprostred podcastu.</p>
+
+<ul>
+<li>Na Mac: Bluetooth kliknite na (i) vedľa AirPods, nastavte <strong>Pripojte sa k tomuto Mac</strong> do <strong>Pri poslednom pripojení k tomuto Mac</strong> namiesto Automaticky.</li>
+<li>Na iPhone: Nastavenia klepnite na svoj AirPods, <strong>Pripojte sa k tomuto iPhone</strong>, vyberte si <strong>Pri poslednom pripojení k tomuto iPhone</strong>.</li>
+</ul>
+
+<p>Tým sa zastaví ťahanice medzi zariadeniami. Manuálne si vyberiete, kam ide zvuk, čo je nízka cena za stabilné prehrávanie.</p>
+
+<h2>Oprava 3: Znížte preťaženie 2,4 GHz</h2>
+
+<p>Ak dôjde k poklesu počas videohovorov, sťahovania alebo pri streamovaní iných ľudí, vaše rádiové pásmo je preplnené. Niekoľko praktických krokov:</p>
+
+<ul>
+<li><strong>Použite pásmo Wi-Fi 5 GHz</strong> na vašom Mac. V nastaveniach smerovača pomenujte 5GHz sieť a pripojte sa k nej. Tým sa uvoľní pásmo 2,4 GHz pre Bluetooth.</li>
+<li><strong>Presuňte rozbočovače USB 3 a Thunderbolt preč</strong> z vášho Mac a AirPods. USB 3 je notoricky známy 2,4 GHz zdroj hluku; rozbočovač, ktorý sa nachádza vedľa vášho notebooku, môže zničiť Bluetooth na niekoľko centimetrov.</li>
+<li><strong>Zmeňte 2,4 GHz kanál smerovača</strong> na 1, 6 alebo 11 (neprekrývajúce sa možnosti) a vyhnite sa preplneným kanálom, ktoré používajú vaši susedia.</li>
+<li><strong>Udržujte priamy výhľad.</strong> Telá a steny absorbujú 2,4 GHz. Ak je váš Mac za vami alebo vo vrecku, kvapky sa zhoršujú.</li>
+</ul>
+
+<blockquote>Smerovače Wi-Fi 6E a Wi-Fi 7 môžu pomôcť nepriamo: presunutím vašich zariadení na 6 GHz sa vymaže pásmo 2,4 GHz, na ktorom závisí Bluetooth. Ale zle nakonfigurovaná sieť, ktorá vás nasmeruje späť na 2,4 GHz, môže situáciu zhoršiť. Skontrolujte, na ktorej kapele vlastne ste.</blockquote>
+
+<h2>Oprava 4: Resetujte zásobník Bluetooth a kontinuity</h2>
+
+<p>Ak opätovné spárovanie neprebehlo, resetujte samotné rádiá:</p>
+
+<ul>
+<li>Vypnite a zapnite Bluetooth na paneli s ponukami a potom reštartujte Mac. Reštartovanie vymaže prekvapivý počet prechodných zvukových porúch.</li>
+<li>Resetujte SMC/NVRAM na Intel Mac alebo jednoducho úplne vypnite (nie reštartujte) na 30 sekúnd na Apple Silicon.</li>
+<li>Ak nepoužívate AirDrop alebo Handoff, zakázanie Handoff v Nastaveniach systému, Všeobecné, AirDrop &amp; Handoff obmedzí chvenie rádia na pozadí.</li>
+</ul>
+
+<h2>Čo to nevyrieši (a čo vlastne robí mixér na objem)</h2>
+
+<p>Aby bolo jasné, pokiaľ ide o rozsah: nič z toho nie je problém so softvérom a žiadna aplikácia na meranie objemu nedokáže opraviť prepojenie Bluetooth. Ak je váš zvuk <em>zhadzovanie</em>, rieš problém s rádiom vyššie. Aplikácie ako <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ovládajú hlasitosť jednotlivých aplikácií, stlmenie a prepínanie výstupu, nedotýkajú sa zásobníka Bluetooth, takže neprestanú koktať. Tam, kde mixér skutočne pomáha, je susedná nepríjemnosť, ktorú si mnohí používatelia AirPods spájajú s výpadkami: jedna aplikácia beží, zatiaľ čo iná je príliš tichá, alebo potrebujú rýchlo preskočiť výstupy. To je problém s vyvážením hlasitosti, nie s pripojením.</p>
+
+<p>Diagnostikujte čestne. Ak sa zvuk na chvíľu vypne a vráti sa, ide o rušenie alebo automatické prepnutie. Ak sú úrovne medzi aplikáciami nerovnomerné, je to problém miešania, ktorý môžete skutočne vyriešiť pomocou softvéru.</p>
+
+<h2>Rýchly kontrolný zoznam</h2>
+
+<ul>
+<li>Zabudnite a znova spárujte AirPods.</li>
+<li>Nastavte Mac aj iPhone na <strong>Pri poslednom pripojení</strong>, nie Automaticky.</li>
+<li>Presuňte svoj Mac na 5GHz Wi-Fi; držte rozbočovače USB 3 mimo dosahu.</li>
+<li>Nastavte 2,4 GHz na kanál 1, 6 alebo 11.</li>
+<li>Reštartujte po prepnutí Bluetooth.</li>
+</ul>
+
+<p>Keď výpadky zmiznú a budete chcieť mať len lepšiu kontrolu nad hlasitosťou jednotlivých aplikácií, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pridáva správny mixér hlasitosti pre jednotlivé aplikácie, stlmenie, zosilnenie a rýchle prepínanie výstupu, ktoré macOS stále neobsahuje. Je to 14,99 EUR jednorazový nákup na Mac App Store v karanténe, bez inštalácie ovládačov.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Nefunkčný pravý reproduktor na Mac po aktualizácii Tahoe? Ako to opraviť",
+    description: "Jeden reproduktor alebo kanál prestal fungovať po aktualizácii na macOS Tahoe? Začnite posuvníkom vyváženia zvuku, potom resetujte Core Audio, vyskúšajte núdzový režim a vylúčte hardvér. Prehľadný sprievodca riešením problémov.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak sa váš pravý reproduktor po aktualizácii na macOS Tahoe odmlčal, skontrolujte zvuk <strong>posúvač rovnováhy</strong> prvý — môže sa počas aktualizácie posunúť. Prejdite na Nastavenia systému &gt; Zvuk &gt; Výstup a skontrolujte, či je vyváženie v mŕtvom strede. Ak je to v poriadku, reštartujte Core Audio, spustite systém v núdzovom režime a potom vylúčte hardvér. Väčšina prípadov je softvér.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Nefunkčný pravý reproduktor na Mac po aktualizácii Tahoe? Ako to opraviť" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Po prvé: posuvník vyváženia (toto opravuje častejšie, ako by ste si mysleli)</h2>
+
+<p>Zaseknutý alebo posunutý posuvník vyváženia je najčastejším dôvodom, prečo sa jeden kanál stíši – a aktualizácie macOS ho občas postrčia. Predtým, ako si predstavíte to najhoršie:</p>
+
+<ul>
+<li>Otvorte <strong>Systémové nastavenia Zvuk &gt;</strong>.</li>
+<li>Kliknite na <strong>Výstup</strong> a vyberte svoje reproduktory (vstavané alebo externé zariadenie).</li>
+<li>Nájdite <strong>Zostatok</strong> posúvač a potiahnite ho presne do stredu. Ak by ste ho potiahli doľava, váš pravý kanál by znel ako mŕtvy.</li>
+</ul>
+
+<p>Urobte toto <em>na výstupné zariadenie</em>. Nastavenie vyváženia sa zapamätá samostatne pre vstavané reproduktory, slúchadlá a každé externé rozhranie – takže vycentrované vstavané vyváženie nepomôže, ak je problém vo vašom USB DAC.</p>
+
+<h2>Otestujte, či je to skutočne hardvérový kanál</h2>
+
+<p>Ovládajte hardvér rýchlo. Zahrajte si stereo stopu, ktorú dobre poznáte, a potom pripojte pár káblových slúchadiel. Ak oba kanály fungujú v slúchadlách, ale nie cez reproduktory, problém je za zvukovým motorom (hardvér reproduktorov alebo výstupná cesta). Ak je rovnaký kanál mŕtvy aj v slúchadlách, je pravdepodobnejšie, že ide o softvér alebo zvukový kodek logickej dosky.</p>
+
+<p>Môžete tiež otvoriť <strong>Hudba</strong> alebo QuickTime, zahrajte si niečo a prepnite vyváženie prudko doľava a potom doprava. Ak sa zvuk medzi kanálmi pohybuje čisto, oba reproduktory sú živé a je to čisto problém s nastaveniami.</p>
+
+<h2>Reštartujte Core Audio</h2>
+
+<p>macOS vedie všetok zvuk cez <strong>coreaudiod</strong> proces. Po veľkej aktualizácii sa jeho stav môže zakliniť – výstupy zmiznú, kanály klesnú alebo sa hlasitosť správa zvláštne. Reštartovanie je bezpečné a prinúti macOS znovu zostaviť zvukový graf:</p>
+
+<ul>
+<li>Otvorte <strong>Terminal</strong> (Aplikácie &gt; Utility).</li>
+<li>Spustiť: <code>sudo killall coreaudiod</code></li>
+<li>Zadajte svoje heslo. Zvukový démon sa automaticky znova spustí v priebehu sekundy alebo dvoch.</li>
+</ul>
+
+<p>Nič sa neodstráni – týmto sa iba reštartuje zvukový subsystém. Hneď potom znova otestujte pravý reproduktor.</p>
+
+<h2>Reštartujte správne a potom skúste núdzový režim</h2>
+
+<p>Úplný reštart odstráni prechodné zvukové chyby, ktoré zabíjačka nedokáže. Ak je kanál stále mŕtvy, spustite ho <strong>bezpečný režim</strong>, ktorý načíta minimálny systém a preskočí zvukové rozšírenia a prihlasovacie položky tretích strán:</p>
+
+<ul>
+<li><strong>Jablkový kremík:</strong> Vypnúť. Podržte tlačidlo napájania, kým sa nezobrazí „Načítanie možností spustenia“. Vyberte svoj disk a podržte ho <strong>Shift</strong> a kliknite na „Pokračovať v núdzovom režime“.</li>
+<li><strong>Intel:</strong> Reštartujte a podržte <strong>Shift</strong> kým sa nezobrazí prihlasovacie okno.</li>
+</ul>
+
+<p>Ak oba reproduktory fungujú v núdzovom režime, zvukový ovládač tretej strany, virtuálne zariadenie alebo pomôcka na paneli s ponukami nainštalovaná pred aktualizáciou je v konflikte s novým zvukovým zásobníkom Tahoe. Spustite systém späť do normálu a odstráňte alebo aktualizujte nedávno nainštalovaný zvukový softvér (bežnými vinníkmi sú rekordéry obrazovky, aplikácie na schôdze a kexty na smerovanie zvuku).</p>
+
+<h2>Resetovať NVRAM (iba Intel Mac)</h2>
+
+<p>Na zariadeniach Intel Mac sú nastavenia zvuku a reproduktorov uložené v pamäti NVRAM/PRAM a zastaraná hodnota môže prežiť aktualizáciu. Resetujte ho: vypnite, potom zapnite a okamžite podržte <strong>Option + Command + P + R</strong> na približne 20 sekúnd, pričom sa nechá Mac raz reštartovať. Toto sa nevzťahuje na Apple Silicon Mac – spravujú to automaticky, takže ak používate počítač série M, preskočte to.</p>
+
+<h2>Aktualizujte znova – a skontrolujte, či nedošlo k uvoľneniu bodu</h2>
+
+<p>Skoré vydania akejkoľvek hlavnej verzie macOS sa dodávajú s chybami zvukových ovládačov, ktoré budú neskôr opravené. Zamierte k <strong>Nastavenia systému &gt; Všeobecné Aktualizácia softvéru &gt;</strong> a nainštalujte akékoľvek čakajúce uvoľnenie bodu Tahoe (14.x.1, 14.x.2 atď.). Ak existuje doplnková aktualizácia, často rieši presne tieto regresie zvuku po aktualizácii.</p>
+
+<h2>Keď je to skutočne hardvér</h2>
+
+<p>Ak zlyhá núdzový režim, reštart Core Audio a čistá opätovná inštalácia – a ten istý kanál je mŕtvy v slúchadlách – možno sa pozeráte na chybu hardvéru. Načasovanie s aktualizáciou môže byť náhodné; zosilňovače reproduktorov a zvukové kodeky zlyhávajú. Bežať <strong>Diagnostika Apple</strong> (vypnite, potom podržte tlačidlo napájania na Apple Silicon a vyberte Diagnostics, alebo podržte <strong>D</strong> na Intel pri spustení). Ak označí zvukový komponent, kontaktujte <strong>Podpora spoločnosti Apple</strong> alebo autorizovaného poskytovateľa služieb. Neutrácajte peniaze za softvér pre prefúknutý reproduktor.</p>
+
+<blockquote>Rýchle pravidlo: ak sa zvuk posúva správne pomocou posúvača vyváženia, oba reproduktory sú fyzicky v poriadku a oprava je v softvéri. Ak sa nikdy nepohne na mŕtvu stranu, podozrievajte hardvér.</blockquote>
+
+<h2>Kam sa objemový softvér hodí (a kam nie)</h2>
+
+<p>Aby bolo jasné: mŕtvy kanál reproduktora nie je niečo, čo by opravila aplikácia hlasitosti – vyššie uvedené kontroly sú vašou cestou. To znamená, že keď bude váš zvuk opäť zdravý, macOS stále chýba niečo, čo má Windows už roky: skutočný mixér hlasitosti pre jednotlivé aplikácie. Ak ste sa pristihli pri prehrabávaní sa v nastaveniach zvuku, pretože jedna aplikácia šlapala, zatiaľ čo iná bola príliš tichá, použite panel s ponukami, ako je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> umožňuje nastaviť nezávislú hlasitosť, stlmenie a dokonca zosilnenie pre každú aplikáciu bez toho, aby ste sa dotkli vyváženia systému. Je to praktický nástroj na každodenné miešanie, nie oprava problému v tomto článku.</p>
+
+<h2>Krátka verzia</h2>
+
+<ul>
+<li>Vycentrujte <strong>Zostatok</strong> posuvník — na výstupné zariadenie.</li>
+<li>Otestujte pomocou slúchadiel, aby ste izolovali hardvér.</li>
+<li>Bežať <code>sudo killall coreaudiod</code>, potom reštartujte.</li>
+<li>Skúste <strong>bezpečný režim</strong> zachytiť konflikty vodičov.</li>
+<li>Obnovte NVRAM na Intel; nainštalujte ľubovoľné bodové uvoľnenie Tahoe.</li>
+<li>Stále mŕtvy v slúchadlách? Spustite Apple Diagnostics a zavolajte spoločnosti Apple.</li>
+</ul>
+
+<p>Keď sa vaše reproduktory vrátia do normálu, ak je žonglovanie s hlasitosťou jednotlivých aplikácií každodennou nepríjemnosťou, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodáva mixér macOS vždy chýbal — 14,99 €, jednorazový, v sandboxe, bez ovládačov.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods Zaseknutý pri polovičnej hlasitosti na vašom Mac? Tu je Oprava",
+    description: "Prečo sa AirPods pripája k vášmu Mac s polovičnou hlasitosťou – zvyčajne pomocou kodeku Bluetooth prepnete na profil mikrofónu handsfree – plus opravy opätovného spárovania a ako zvýšiť úroveň natrvalo.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>AirPods zvyčajne klesnú na polovičnú hlasitosť na Mac, pretože macOS ich prepol z vysokokvalitného zvukového profilu A2DP na nízkokvalitný profil hands-free (HFP), ktorý je vytvorený na použitie mikrofónu na telefonovanie. Tento režim obmedzuje výstup a kvalitu. Opravte to tak, že prinútite Mac späť na zvuk iba pre slúchadlá, potom zvýšte úroveň, aby ste ho tam udržali.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Zaseknutý pri polovičnej hlasitosti na vašom Mac? Tu je Oprava" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo sa to stane: prepínač kodeku</h2>
+
+<p>Zvukové zariadenia Bluetooth ako AirPods fungujú v jednom z dvoch režimov. Keď práve počúvate, macOS používa A2DP – plné stereo, plná hlasitosť, čistá kvalita. Ale v momente, keď aplikácia chce váš mikrofón, macOS prepne celé pripojenie na HFP (Hands-Free Profile). HFP je obojsmerný telefónny kodek. Znie tenký, monofónny a výrazne tichší, pretože bol navrhnutý na hlasové hovory, nie na hudbu.</p>
+
+<p>Problém je v tom, že macOS často zostáva zaseknutý v HFP aj po dokončení aplikácie, ktorá chytila mikrofón – alebo sa do nej prepne v okamihu, keď otvoríte Zoom, FaceTime, Teams, Discord alebo kartu prehliadača s povolením mikrofónu. Takže vaše AirPods znejú, ako keby mali „polovičnú hlasitosť“, nie preto, že by sa posúvač hlasitosti posunul, ale preto, že sa pod vami znížil celý zvukový profil.</p>
+
+<p>Poznáte to: zvuk zrazu stíchne a utlmí sa, AirPods sa zobrazí dvakrát vo vašich nastaveniach zvuku (raz ako výstup, raz ako mikrofón) a úplné zvýšenie hlasitosti systému sotva pomáha.</p>
+
+<h2>Riešenie pre opätovné spárovanie a kodek</h2>
+
+<p>Toto sú úprimné prvé kroky. Prepracujte sa cez ne v poradí – jeden z prvých to zvyčajne vymaže.</p>
+
+<ul>
+<li><strong>Zmeňte svoje vstupné zariadenie.</strong> Otvorte Nastavenia systému → Zvuk → Vstup a namiesto AirPods vyberte vstavaný mikrofón vášho Mac. Tým sa zabráni macOS držať AirPods v režime HFP, takže výstup sa môže vrátiť späť na plnú kvalitu A2DP. Toto je jediná najúčinnejšia oprava.</li>
+<li><strong>Vypnite a zapnite Bluetooth.</strong> Rýchly reset pripojenia často znovu vyjednáva A2DP čisto, najmä ak sa AirPods zasekne po ukončení hovoru.</li>
+<li><strong>Znovu pripojte AirPods.</strong> Zatvorte puzdro, počkajte niekoľko sekúnd, znova ho otvorte v blízkosti Mac a znova ich vyberte ako výstupné zariadenie.</li>
+<li><strong>Ukončite aplikáciu, ktorá chytila mikrofón.</strong> Úplne zatvorte Zoom, Teams, Discord alebo príslušnú kartu prehliadača. Niektoré aplikácie držia reláciu mikrofónu otvorenú na pozadí a pripínajú HFP, kým nezmiznú.</li>
+<li><strong>Znova spárujte od začiatku.</strong> Odstráňte AirPods v časti Nastavenia systému → Bluetooth (kliknite na tlačidlo informácií → Zabudnúť toto zariadenie) a potom znova spárujte. Tým sa vymaže poškodené vyjednávanie profilu, ktoré samotné prepínanie nevyrieši.</li>
+<li><strong>Resetujte AirPods.</strong> Keď sú v otvorenom veku puzdra, podržte tlačidlo nastavenia na zadnej strane, kým svetlo nezačne blikať oranžovo a potom bielo. Potom znova spárujte. Toto je jadrová možnosť pre podivnosti na úrovni firmvéru.</li>
+<li><strong>Aktualizujte firmvér macOS a AirPods.</strong> Apple dodal v bodových vydaniach opravy zvuku Bluetooth. Firmvér AirPods sa aktualizuje potichu, keď sa nabíjajú v blízkosti pripojeného zariadenia – nechajte ich preto cez noc v puzdre v blízkosti zariadenia Mac.</li>
+</ul>
+
+<blockquote><p>Vzor, ktorý treba sledovať: ak sa hlasitosť zníži hneď, ako sa pripojíte k hovoru, a obnoví sa, keď sa hovor skončí, je to prepínač HFP – nie pokazený reproduktor alebo chyba nastavení.</p></blockquote>
+
+<h2>Prečo sa opravy nie vždy držia</h2>
+
+<p>Tu je tá frustrujúca časť. Dokonca aj po opätovnom spárovaní, macOS šťastne prepne váš AirPods späť do tichého hands-free režimu, keď sa nabudúce akákoľvek aplikácia dotkne mikrofónu. Toto správanie nemôžete natrvalo zakázať v systémových nastaveniach – Apple to považuje za automatické. Takže skončíte tak, že niekoľkokrát denne zopakujete trik so vstupným zariadením a kedykoľvek bude váš AirPods v hovore alebo v aplikácii hladnej po mikrofóne, bude opäť obmedzený na tejto nižšej úrovni.</p>
+
+<p>Existuje aj druhý, samostatný problém, ktorý si ľudia spájajú s týmto: niektoré aplikácie sú pri maximálnej hlasitosti systému tichšie ako iné. Prehrávač podcastov alebo karta prehliadača môže sedieť hlboko pod tým, čo vaše uši chcú, aj keď na AirPods beží čistý A2DP. macOS vám ponúka jeden posúvač hlasitosti pre všetko a žiadne ovládanie podľa aplikácie, takže neexistuje žiadny natívny spôsob, ako posunúť jednu tichú aplikáciu späť.</p>
+
+<h2>Zvýšte úroveň späť - a udržte ju tam</h2>
+
+<p>Tu si svoje miesto zasluhuje mixér hlasitosti na aplikáciu. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je aplikácia na paneli s ponukami pre macOS, ktorá dáva každej spustenej aplikácii vlastný nezávislý posuvník hlasitosti – vrátane zvýšenia nad 100 %. Takže keď sa váš AirPods vráti z hovoru na nižšej efektívnej úrovni alebo je konkrétna aplikácia jednoducho príliš tichá, potiahnete túto aplikáciu za normálny strop a zostane tam.</p>
+
+<p>Konkrétne to znamená:</p>
+
+<ul>
+<li><strong>ZVÝŠENIE hlasitosti jednotlivých aplikácií.</strong> Posuňte tichú aplikáciu nad štandardné maximum namiesto toho, aby ste sa namáhali, aby ste ju počuli pri „plnej“ hlasitosti systému.</li>
+<li><strong>Objemové profily.</strong> Uložte si sadu úrovní – vylepšený prehliadač, jemnejšia hudba, hlasné videohovory – a prepnite celé usporiadanie jediným kliknutím, aby ste sa nemuseli znova prispôsobovať po každom opätovnom pripojení.</li>
+<li><strong>Rýchle prepínanie výstupov.</strong> Preskakujte medzi AirPods, reproduktormi notebooku a externým DAC z panela s ponukami bez prehrabávania sa v nastaveniach systému, čo pomáha, keď si vynucujete nové vyjednávanie profilu.</li>
+<li><strong>Stlmenie a automatické stlmenie pre jednotlivé aplikácie.</strong> Stlmte jednu aplikáciu bez toho, aby ste sa dotkli ostatných, a nechajte médiá automaticky ponoriť, keď sa prehrá niečo dôležitejšie.</li>
+</ul>
+
+<p>Stojí za to mať jasno v tom, čo to robí a čo nie. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> nedonúti macOS zostať v A2DP – vyššie uvedený trik so vstupným zariadením je stále vaším nástrojom pre samotný kodek. To, čo robí, je vrátiť vám hlasitosť, ktorú vám ukradli downgrade, pre každú aplikáciu, takže tichá relácia AirPods alebo tvrdohlavo mäkká aplikácia je oprava jedným ťahom namiesto strateného prípadu. A keďže ide o aplikáciu Mac App Store v sandboxe, nie je potrebné inštalovať žiadny zvukový ovládač, žiadne DMG, žiadne rozšírenie jadra – jednoducho beží.</p>
+
+<h2>Krátka verzia</h2>
+
+<p>Ak váš AirPods znie na vašom Mac ticho a tlmene, vypnite vstupné zariadenie AirPods, aby ste ho vynútili z režimu handsfree, a ak to zlyhá, znova ho spárujte. Keď úroveň stále nedosahuje, kam chcete – alebo je jedna aplikácia príliš mäkká – siahnite po zosilnení pre každú aplikáciu, takže ju nastavte raz a pokračujte ďalej.</p>
+
+<p>Už vás nebaví bojovať s posúvačom hlasitosti zakaždým, keď prijmete hovor? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> — jednorazovo 14,99 €, bez predplatného, bez ovládačov — a každej aplikácii dajte vlastný objem.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Mac Volume sa stále resetuje na Tahoe? Ako to navždy uzamknúť",
+    description: "Od macOS Tahoe veľa Mac náhle zmení alebo resetuje svoju hlasitosť samo. Tu je dôvod, prečo sa to deje, ako zastaviť vstavané príčiny a ako uzamknúť pevný zväzok pre aplikáciu, aby zostal na mieste.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak sa hlasitosť vášho Mac od macOS Tahoe neustále resetuje, opravou je eliminovať automatické nastavovacie prvky: deaktivujte tlmenie zvuku a „Prehrať zvuk pri spustení“, resetujte nastavenia zvuku a znova čisto pripojte akýkoľvek výstup Bluetooth. Pre úrovne pre jednotlivé aplikácie, ktoré preskakujú, uzamknite pevnú hlasitosť pre každú aplikáciu pomocou mixéra, aby sa už nikdy nehýbala.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Volume sa stále resetuje na Tahoe? Ako to navždy uzamknúť" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo sa váš objem po Tahoe zmení sám od seba</h2>
+
+<p>Hlasitosť, ktorá sa pohybuje bez toho, aby ste sa jej dotkli, pôsobí ako hardvérová chyba, no takmer vždy o vašej úrovni rozhoduje softvér. macOS má niekoľko automatických správaní, ktoré potichu posúvajú alebo resetujú výstup, a zmeny v zásobníku zvuku Tahoe urobili niekoľko z nich viditeľnejšími. Predtým, ako sa domnievate, že je aplikácia alebo Mac nefunkčné, pomôže vám presne vedieť, ktorý systém chytí posúvač.</p>
+
+<ul>
+<li><strong>Stlmenie zvuku:</strong> macOS zníži ostatné zvuky, keď si myslí, že hrá niečo dôležitejšie (Siri, oznámenia o dostupnosti, upozornenia). Po ukončení spúšťača sa úroveň niekedy nevráti úplne späť.</li>
+<li><strong>Bluetooth sa resetuje handshake:</strong> AirPods a ďalšie zariadenia Bluetooth opätovne dohodnú objem pri pripojení. Opätovné pripojenie uprostred relácie môže prepnúť výstup na predvolenú alebo na oveľa hlasnejšiu/tichšiu úroveň.</li>
+<li><strong>Prepínanie výstupných zariadení:</strong> Keď odpojíte slúchadlá, dok alebo prepnete na reproduktory monitora, každý výstup si zapamätá svoju vlastnú hlasitosť. Prepínanie tam a späť vyzerá ako „náhodné“ resetovanie.</li>
+<li><strong>Predvolené nastavenia pre jednotlivé aplikácie:</strong> Niektoré aplikácie (prehliadače, prehrávače videa, konferenčné nástroje) nastavujú svoj vlastný zisk pri spustení alebo pri spustení nového streamu, čím prepíšu všetko, čo ste mali.</li>
+<li><strong>Zvuk pri spustení a stav prihlásenia:</strong> Bootovací zvonček a prihlásenie môžu posunúť hlasitosť systému späť na predvolenú úroveň, ktorú ste si nevybrali.</li>
+</ul>
+
+<h2>Najprv opravte vstavané príčiny</h2>
+
+<p>Prepracujte ich v poradí. Väčšina sťažností „samo sa resetuje“ zmizne, keď sa stiahne a Bluetooth sa vylúči.</p>
+
+<ul>
+<li><strong>Vypnite zvuk pri spustení.</strong> Systémové nastavenia → Zvuk → zrušte začiarknutie <em>Prehrať zvuk pri spustení</em>. Tým sa zabráni tomu, aby zvonček pri spustení obnovil vašu základnú úroveň.</li>
+<li><strong>Znížte alebo zakážte spúšťače klesania.</strong> V Nastaveniach systému → Prístupnosť → Hovorený obsah a Siri vypnite hovorené oznámenia, ktoré nepotrebujete. Menej spúšťačov znamená menej okamihov, kedy macOS zníži zvuk a zabudne ho obnoviť.</li>
+<li><strong>Opätovne spárujte problémové zariadenia Bluetooth.</strong> Odstráňte AirPods alebo slúchadlá z nastavení Bluetooth a znova ich spárujte. Zastaraný profil je častou príčinou zaseknutia zväzku pri pripojení.</li>
+<li><strong>Každé výstupné zariadenie nastavte zámerne.</strong> Pripojte každý výstup, ktorý používate (vstavaný, monitor, slúchadlá) a nastavte jeho hlasitosť raz. macOS ukladá hlasitosť na zariadenie, takže ich nastavením všetky odstránite prekvapenie pri prepínaní.</li>
+<li><strong>Resetujte Core Audio, ak je zaseknuté.</strong> Otvorte Terminal a spustite <code>sudo killall coreaudiod</code>. Toto reštartuje zvukového démona bez reštartu a vymaže zamrznutý stav, ktorý môže spôsobiť nepravidelné úrovne.</li>
+<li><strong>Aktualizujte a potom reštartujte.</strong> Early Tahoe point vydáva dodávané zvukové opravy. Uistite sa, že máte najnovšiu zostavu a po aktualizácii reštartujte.</li>
+</ul>
+
+<p>Ak sa resetovanie zastaví, jeden z vyššie uvedených bol vaším vinníkom. Ak váš <em>systém</em> hlasitosť je stabilná, ale jednotlivé aplikácie sú stále hlasnejšie alebo tichšie ako všetky ostatné, narazili ste na limit toho, čo dokážu vstavané ovládacie prvky.</p>
+
+<h2>Skutočná medzera: macOS nedokáže uzamknúť hlasitosť na aplikáciu</h2>
+
+<p>Tu je tá frustrujúca časť. Windows má už roky mixér hlasitosti pre jednotlivé aplikácie – otvoríte ho, potiahnete posúvač jednej aplikácie a zostane tam. macOS ešte nikdy nedodal. Existuje presne jeden posúvač hlasitosti systému a každá aplikácia sa oň poháda. Takže keď karta prehliadača spustí automaticky prehrávanú reklamu alebo sa videohovor ozve dvakrát hlasnejšie ako vaša hudba, vašou jedinou možnosťou je manuálne nastaviť hlavnú hlasitosť – čo je presne tá slučka „prečo sa to stále mení“, ktorej sa snažíte uniknúť.</p>
+
+<blockquote>Systémový posuvník je jeden zdieľaný číselník. Bez mixéra pre jednotlivé aplikácie nie je možné „nastaviť a zabudnúť“ na sklade macOS – vždy vás niečo prekoná.</blockquote>
+
+<h2>Uzamknite pevnú hlasitosť pre aplikáciu pomocou SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodáva, že chýba mixér macOS pre jednotlivé aplikácie. Žije vo vašom paneli s ponukami a dáva každej spustenej aplikácii vlastný posuvník hlasitosti, nezávislý od predlohy. Pretože si pamätá úroveň, ktorú ste nastavili pre každú aplikáciu, priamo rieši problém „samotného resetovania“: rozhodnete sa raz a táto aplikácia sa zakaždým otvorí pri tejto hlasitosti.</p>
+
+<ul>
+<li><strong>Nezávislý objem na aplikáciu:</strong> držte hudbu na 40 % a videohovor na 80 % súčasne, bez žonglovania s majstrovským posúvačom.</li>
+<li><strong>Stlmenie a zosilnenie pre jednotlivé aplikácie:</strong> okamžite stíšte hlučnú aplikáciu alebo posuňte príliš tichú aplikáciu nad 100 %, keď je jej vlastný zvuk slabý.</li>
+<li><strong>Objemové profily:</strong> uložte nastavenia pre „prácu“, „hranie“ alebo „zameranie“ a prepnite celý mix jediným kliknutím.</li>
+<li><strong>Auto-duck podľa vašich podmienok:</strong> automaticky spúšťať aplikácie na pozadí, keď hovoríte alebo keď je vybraná aplikácia aktívna – namiesto rozhodovania macOS.</li>
+<li><strong>Rýchle prepínanie výstupu:</strong> preskakujte medzi reproduktormi, slúchadlami a monitorujte zvuk z panela s ponukami bez toho, aby ste sa ponorili do nastavení.</li>
+</ul>
+
+<p>Je to 14,99 EUR jednorazový nákup od Mac App Store – žiadne predplatné, žiadne ovládače, žiadne DMG a žiadne rozšírenia jadra. Pretože je plne sandboxovaný a distribuovaný App Store, neinštalujete starý zvukový kext, ktorý by Tahoe mohlo zablokovať pri ďalšej aktualizácii. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> nastavuje úrovne pomocou podporovaných rozhraní API, aby vaše zapamätané objemy prežili aktualizácie a reštarty.</p>
+
+<h2>Aký prístup vlastne potrebujete?</h2>
+
+<p>Ak hlasitosť celého vášho systému vyskočí, začnite s vyššie uvedenými vstavanými opravami – vo väčšine prípadov klesanie, Bluetooth a zvuk pri spustení. Ak je namiesto toho problém v tom, že jedna aplikácia je vždy tá nepárna, alebo ste unavení z toho, že hlavný posúvač je kompromisom, jedinou skutočnou odpoveďou je mixér pre jednotlivé aplikácie. macOS ho nepridá, takže nástroj na paneli s ponukami je praktickou cestou k mixu, ktorý skutočne zostane tam, kde ho vložíte.</p>
+
+<p>Už vás nebaví naháňať posúvač hlasitosti na Tahoe? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a uzamknite zapamätaný objem pre každú aplikáciu – 14,99 EUR raz, žiadne predplatné, žiadne ovládače.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Ovládajte hlasitosť monitora DAW oddelene od systémového zvuku na Mac",
+    description: "macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie, takže váš DAW a systémové zvuky zdieľajú jednu úroveň. Tu je návod, ako ovládať hlasitosť monitora Logic, Ableton alebo GarageBand nezávisle od vášho prehliadača a upozornení.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie, takže váš DAW a všetko ostatné zdieľajú jeden systémový posúvač. Ak chcete nastaviť úroveň monitora nezávisle od prehliadačov, Slack a upozornení, potrebujete ovládanie hlasitosti pre jednotlivé aplikácie. Menu-bar mixér ako <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dáva Logic, Ableton a GarageBand vlastnú hlasitosť, oddelenú od systémového zvuku.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ovládajte hlasitosť monitora DAW oddelene od systémového zvuku na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo jeden posúvač hlasitosti ničí vaše monitorovanie</h2>
+
+<p>Keď produkujete, váš DAW je len jednou z mnohých vecí, ktoré vytvárajú zvuk. Na karte prehliadača sa prehrá referenčná skladba. Prichádzajú pingy Slack. Výukový program YouTube beží na druhom monitore. Na Windows vám mixér hlasitosti umožňuje vyvážiť všetky tieto nezávisle. Na macOS spoločnosť Apple nikdy nedodala ekvivalent - tlačidlá hlasitosti a posúvač na lište ponuky sa pohybujú <em>všetko</em> naraz.</p>
+
+<p>To vytvára skutočný problém pre každého, kto mieša podľa ucha. Vytočíte pohodlnú úroveň monitorovania v Logic, potom sa na rovnakej úrovni ozve upozornenie a vyfúkne vám uši. Alebo vypnete systém, aby ste si chránili sluch počas hlasnej pasáže, a teraz je vaša referenčná skladba príliš tichá na porovnanie. Vaša monitorovacia referencia už nie je stabilná a stabilná referencia je hlavným bodom miešania.</p>
+
+<blockquote>Monitorovanie na konzistentnej úrovni je jedným z mála návykov, ktoré merateľne zlepšujú vaše mixy. Ak vás systémové zvuky neustále nútia posúvať hlavný posúvač, strácate túto konzistenciu.</blockquote>
+
+<h2>Čo vlastne znamená „samostatný zväzok DAW“.</h2>
+
+<p>Výrobcovia tu spájajú dve rôzne veci a stojí za to ich oddeliť:</p>
+
+<ul>
+<li><strong>Úroveň rozhrania / hlavného výstupu</strong> — hardvérový gombík na vašom audio rozhraní alebo ovládači monitora. Tým sa nastaví absolútna hlasitosť počúvania a po kalibrácii by mala zostať nastavená.</li>
+<li><strong>Objem softvéru podľa aplikácie</strong> — ako hlasné sú jednotlivé aplikácie <em>predtým</em> dosiahne tento výstup. Toto macOS chýba. To vám umožní udržať DAW v jednote a zároveň znížiť zvuk Chrome, hudby alebo upozornení na úroveň postele pod ním.</li>
+</ul>
+
+<p>Chceš to druhé. Cieľom nie je stíšiť váš DAW – je to stíšiť všetko ostatné vzhľadom k nemu, takže DAW zostane vaším najhlasnejším a najkonzistentnejším zdrojom a rušivé prvky budú ticho sedieť v pozadí.</p>
+
+<h2>Ako to urobiť pomocou mixéra pre jednotlivé aplikácie</h2>
+
+<p>Menu-bar mixer ako napr <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> obsahuje zoznam všetkých aplikácií, ktoré práve prehrávajú zvuk, a dáva každej z nich vlastný posuvník. Pracovný postup producenta vyzerá takto:</p>
+
+<ul>
+<li><strong>Raz kalibrujte svoje rozhranie.</strong> Nastavte svoje zvukové rozhranie alebo ovládač monitora na pohodlnú, opakovateľnú referenčnú úroveň a nechajte ju. Toto je vaša pevná kotva.</li>
+<li><strong>Nastavte svoj DAW na 100 %.</strong> V mixéri ponechajte Logic, Ableton alebo GarageBand pri plnej softvérovej hlasitosti, aby prešiel jednotne. Vlastný hlavný fader vášho DAW stále robí jemné mixovanie.</li>
+<li><strong>Všetko ostatné stiahnite dole.</strong> Znížte úroveň Chrome, Safari, Music a Slack – povedzme 40 – 60 % – takže referenčné skladby a správy budú sedieť pod vaším mixom, namiesto toho, aby s ním súťažili.</li>
+<li><strong>Stlmte hlučné veci.</strong> Stlmenie pre jednotlivé aplikácie vám umožňuje úplne stíšiť prehliadač alebo chatovaciu aplikáciu bez toho, aby ste sa dotkli monitorovacieho reťazca. Jedno kliknutie a váš DAW bude hrať nedotknutý.</li>
+</ul>
+
+<p>Pretože posúvač DAW sa nikdy nehýbe, vaša referencia monitorovania zostáva pevná počas celej relácie. Môžete spustiť referenčnú stopu pre rýchle A/B, potom ju stlmiť a úroveň vášho mixu sa neposunie ani o decibel.</p>
+
+<h2>Posilnite tichú aplikáciu namiesto toho, aby ste ostatných odmietli</h2>
+
+<p>Niekedy problém prebieha opačným smerom. Hrubý ukážkový odraz, hlasová poznámka alebo tichá referencia sa prehrávajú hlboko pod úrovňou vašej relácie. Keď nastavíte svoje rozhranie, aby ste to počuli, všetko ostatné je teraz príliš hlasné. Podľa aplikácie <strong>zvýšenie hlasitosti</strong> umožňuje posunúť jedinú tichú aplikáciu nad 100 %, aby zodpovedala vašej pracovnej úrovni – bez toho, aby ste sa dotkli vášho kalibrovaného výstupu. Je to kus Windows' mixpultu, ktorý ste nikdy nemali, a jeden z užitočnejších nástrojov, keď skúšate materiál mimo vášho DAW.</p>
+
+<h2>Profily pre rôzne typy relácií</h2>
+
+<p>Vaša ideálna rovnováha nie je rovnaká pre každú úlohu. Sledovanie, miešanie a bežné počúvanie vyžadujú inú kombináciu úrovní aplikácie. Profily hlasitosti vám umožňujú uložiť nastavenie a okamžite ho vyvolať:</p>
+
+<ul>
+<li><strong>Miešanie:</strong> DAW na 100 %, prehliadač a hudba sú nízke, chat je stlmený.</li>
+<li><strong>Referenčné počúvanie:</strong> Hudba alebo streamovacia aplikácia hore, DAW dole.</li>
+<li><strong>Hovory / spolupráca:</strong> konferenčnú aplikáciu, DAW stiahol späť, aby do hovoru nekrvácal.</li>
+</ul>
+
+<p>Prepínanie profilov prekonáva ručné nastavenie piatich posuvných ovládačov pri každom preradení.</p>
+
+<h2>Auto-ducking a rýchle prepínanie výstupu</h2>
+
+<p>V štúdiu sú dôležité ešte dve veci. <strong>Auto-ducking</strong> môže automaticky prepínať aplikácie na pozadí, keď hovorí alebo hrá prioritný zdroj, takže hovor alebo dôležitý zvuk sa vždy prerušia. A <strong>rýchle prepínanie výstupov</strong> z panela s ponukami vám umožňuje preskakovať medzi rozhraním, monitormi a slúchadlami bez toho, aby ste sa museli prehrabávať v nastaveniach systému – čo je neustála úloha pri kontrole mixu na rôznych systémoch.</p>
+
+<h2>Prečo nie virtuálny zvukový ovládač?</h2>
+
+<p>Niektoré nástroje na smerovanie to riešia inštaláciou virtuálneho zvukového ovládača na úrovni jadra. Sú výkonné, ale ťažké: môžu sa po aktualizáciách macOS zlomiť, pridať latenciu a vyžadovať hlboké systémové povolenia. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je v karanténe a dodáva sa cez Mac App Store – žiadne ovládače, žiadne DMG, žiadne nastavenie agregovaného zariadenia. Konkrétne pre ovládanie na úrovni aplikácie je to oveľa jednoduchšia cesta ako prestavba smerovania zvuku.</p>
+
+<p>Ste pripravení udržať úroveň monitorovania stabilnú, zatiaľ čo všetko ostatné zostane na svojom mieste? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za jednorazových 14,99 € a dajte svojmu DAW vlastný objem.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Jednoduchšia alternatíva Audio Hijack pre objem jednotlivých aplikácií na Mac",
+    description: "Ak chcete iba nezávislý objem na aplikáciu na macOS, Audio Hijack je prehnané. Tu je ľahšia a lacnejšia alternatíva panela s ponukami, ktorá robí hlasitosť, stlmenie a zosilnenie jednotlivých aplikácií bez smerovania zvuku.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak všetko, čo chcete, je nezávislý objem na aplikáciu na macOS, Audio Hijack je viac nástrojom, než potrebujete. Je to profesionálny balík na smerovanie a nahrávanie zvuku (približne 79 USD) vytvorený na snímanie, efekty a grafy relácie. Na jednoduché otočenie jednej aplikácie smerom nadol a inú nahor môžete použiť ľahký mixér s ponukami <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je rýchlejší, lacnejší a vždy pripravený.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Jednoduchšia alternatíva Audio Hijack pre objem jednotlivých aplikácií na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo ľudia siahajú po Audio Hijack na prvom mieste</h2>
+
+<p>macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden už roky vo svojom Volume Mixer, ale na Mac tlačidlá hlasitosti a posúvač na paneli s ponukami posúvajú iba jednu vec: hlavný systém. Neexistuje spôsob prvej strany, ako povedať „udržať Spotify na 40 %, ale nechať môj videohovor na 100 %.</p>
+
+<p>Ľudia teda hľadajú riešenie a dostanú sa na Audio Hijack. to <em>môže</em> robiť hlasitosť pre jednotlivé aplikácie, pretože dokáže zachytiť a spracovať zvuk z akejkoľvek jednej aplikácie. Táto schopnosť je však vedľajším efektom toho, na čo je v skutočnosti navrhnutá: nahrávanie zvuku z aplikácií a hardvéru, reťazenie efektov, smerovanie medzi virtuálnymi zariadeniami a vytváranie opakovane použiteľných kanálov relácií. V tom je to naozaj vynikajúce. Je to len ťažká odpoveď na ľahkú otázku.</p>
+
+<h2>Kde sa Audio Hijack stáva prehnaným</h2>
+
+<p>Niekoľko vecí má tendenciu frustrovať ľudí, ktorí chceli iba posúvač hlasitosti:</p>
+
+<ul>
+<li><strong>Cena.</strong> Audio Hijack stojí okolo 79 dolárov. To je fér pre nahrávacie štúdio v aplikácii; je to veľa na vypnutie karty prehliadača.</li>
+<li><strong>Musí to bežať ďalej.</strong> Jeho spracovanie pre jednotlivé aplikácie funguje iba vtedy, keď je aplikácia otvorená a príslušná relácia je aktívna. Ukončite to a vaše objemy sa vrátia späť. Ponechávate si úplnú zvukovú pracovnú stanicu, len aby ste držali posúvač na mieste.</li>
+<li><strong>Myslenie založené na reláciách.</strong> Vytvárate relácie s blokmi a spojeniami. Výkonné na snímanie, ale je to veľa koncepčnej réžie, keď je vaším cieľom „táto aplikácia je tichšia, tá aplikácia hlasnejšia“.</li>
+<li><strong>Rozhranie je hlboké.</strong> Efekty, smerovanie, merače, blokové vedenie – bohatá plocha, ktorú budete väčšinou ignorovať, ak nikdy nič nezaznamenáte.</li>
+</ul>
+
+<blockquote>Základné pravidlo: ak chcete <em>záznam alebo trasa</em> audio, Audio Hijack si svoju cenu zarába. Ak len chcete <em>rovnováhu</em> zvuk medzi aplikáciami, platíte za workshop, keď ste potrebovali gombík.</blockquote>
+
+<h2>Jednoduchšia alternatíva: mixážny pult hlasitosti</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> berie jedinú prácu, za ktorou väčšina ľudí skutočne prišla a robí len to. Žije vo vašom paneli s ponukami. Kliknite na ikonu a získate živý zoznam každej aplikácie, ktorá práve prehráva zvuk, pričom každá má svoj vlastný posúvač. Potiahnite Spotify na 30 %, ponechajte hovor na 100 %, úplne stlmte Slack – hotovo, nie je potrebné vytvárať reláciu.</p>
+
+<p>Čo pokrýva:</p>
+
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — každý zdroj zvuku má svoj vlastný posuvník, ktorý je možné nastaviť v reálnom čase.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stlmte jednu hlučnú aplikáciu kliknutím bez toho, aby ste sa dotkli čohokoľvek iného.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> - stlačte tichú aplikáciu <em>vyššie</em> 100%, keď je jeho vlastné maximum stále príliš mäkké. Toto je kúsok, ktorý systémový posúvač nikdy nedokáže.</li>
+<li><strong>Objemové profily</strong> — uložiť celý mix (hudba nízka, hovory nahlas, upozornenia stlmené) a vyvolať ho jedným kliknutím pre daný kontext.</li>
+<li><strong>Auto-ducking</strong> — automaticky stiahne zvuk na pozadí, keď sa začne niečo dôležitejšie, takže hovor alebo video nezostanú v zozname skladieb.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi slúchadlami, reproduktormi a inými výstupmi z rovnakej ponuky.</li>
+</ul>
+
+<h2>Praktické: ovládanie jednotlivých aplikácií za menej ako minútu</h2>
+
+<p>Rozdiel v nastavení je základ. Pomocou smerovacieho nástroja by ste vytvorili reláciu, pridali zdrojový blok, prepojili ho a nechali aplikáciu spustenú. Tu je v podstate:</p>
+
+<ul>
+<li>Inštalovať <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z modelu Mac App Store.</li>
+<li>Prehrajte zvuk v niekoľkých aplikáciách, aby sa zobrazili v zozname.</li>
+<li>Kliknite na ikonu na paneli s ponukami a potiahnite posúvač každej aplikácie podľa chuti.</li>
+<li>Tento mix si môžete uložiť ako profil alebo zvýšiť úroveň príliš tichej aplikácie nad 100 %.</li>
+</ul>
+
+<p>Pretože je distribuovaný prostredníctvom Mac App Store, je v karanténe a inštaluje sa ako každá normálna aplikácia – nie <code>.dmg</code> na pretiahnutie, žiadne rozšírenie jadra, žiadny zvukový ovládač na schválenie v nastaveniach zabezpečenia a nič, čo by bolo potrebné opätovne schváliť po aktualizácii macOS. Na poslednom bode záleží: mixéry založené na ovládačoch sa historicky pokazia pri aktualizáciách OS a vyžadujú preinštalovanie komponentu na systémovej úrovni. Aplikácia App Store v karanténe sa vyhýba celej tejto kategórii údržby.</p>
+
+<h2>Ktorý by ste si mali vybrať?</h2>
+
+<p>Buďte v práci úprimní. Vyberte si <strong>Audio Hijack</strong> ak potrebujete zaznamenať zvuk aplikácie alebo hardvéru, použiť efekty v reálnom čase alebo vytvoriť grafy smerovania medzi virtuálnymi zariadeniami. To je jeho domov a stojí to tam za každý dolár.</p>
+
+<p>Ak skutočne potrebujete „dovoľte mi nastaviť hlasitosť každej aplikácie nezávisle“, vyberte si vyhradený panelový mixér. Raz utratíte 14,99 EUR namiesto ~79 EUR, preskočíte vytváranie relácie a získate podporu, stlmenie, profily a stlmenie na paneli, ktorý otvoríte z panela s ponukami. Žiadne funkcie nahrávania, ktorých sa nikdy nedotknete, žiadna pracovná stanica bežiaca na pozadí, ktorá by držala posúvač na mieste.</p>
+
+<p>Väčšina ľudí, ktorí vyskúšali Audio Hijack na vyváženie objemu, riešila malý problém s veľkým nástrojom. Ak ste to vy, malý nástroj sa hodí lepšie – a stojí len zlomok.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za 14,99 EUR, jednorazovo – hlasitosť na aplikáciu, zosilnenie, stlmenie, profily a automatické stlmenie priamo z panela s ponukami.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D Alternatíva: Objem na aplikáciu bez nadúvania (Mac)",
+    description: "Ak ste Boom 3D používali hlavne na zosilnenie zvuku, ale naozaj ste chceli ovládanie hlasitosti podľa aplikácie, SoundDial je štíhlejšia alternatíva Mac: nezávislá hlasitosť na aplikáciu, stlmenie a zosilnenie na aplikáciu, jednorazová cena, žiadny systémový ekvalizér alebo ovládače.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak ste siahli po Boom 3D na zvýšenie hlasitosti, ale v skutočnosti ste chceli ovládať každú aplikáciu samostatne, chcete iný nástroj. Boom 3D je systémový zosilňovač hlasitosti a EQ. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je cielený mixér hlasitosti pre jednotlivé aplikácie: nezávislá hlasitosť, stlmenie a zosilnenie pre každú aplikáciu, jednorazovo 14,99 €, bez EQ, bez ovládačov.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D Alternatíva: Objem na aplikáciu bez nadúvania (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Čo Boom 3D skutočne robí (a nerobí)</h2>
+<p>Boom 3D je postavený na troch veciach: zosilnenie hlasitosti v celom systéme, 31-pásmový ekvalizér a 3D „priestorové“ efekty. Týka sa to tých <em>všetko</em> váš Mac sa prehrá naraz. To je skutočne užitočné, ak je vaším cieľom hlasnejší prenosný počítač alebo krivka basov, ktoré sa vám páčia.</p>
+<p>Na čo Boom 3D nie je stavaný, je zaobchádzanie s aplikáciami ako s nezávislými kanálmi. Neexistuje čistý spôsob, ako povedať „Spotify na 40 %, môj videohovor na 100 % a táto karta prehliadača je stlmená.“ Jeho posúvač posúva celý mix. A pretože nainštaluje zvukový ovládač, ktorý bude sedieť v signálovej ceste, dotkne sa vášho systému na nižšej úrovni ako nástroj v karanténe. Je tiež umiestnený ako platený produkt s cyklami aktualizácie a nie ako malý jednorazový nástroj.</p>
+<blockquote><p>Bežný príbeh: ľudia si nainštalujú Boom 3D, aby bola jedna tichá aplikácia hlasnejšia, a potom si uvedomia, že skutočným problémom bolo, že macOS nemá vôbec žiadny mixér hlasitosti pre jednotlivé aplikácie.</p></blockquote>
+
+<h2>Medzera: macOS nemá mixér objemu</h2>
+<p>To prekvapuje ľudí prichádzajúcich zo Windows. Windows má už roky mixér hlasitosti pre jednotlivé aplikácie – kliknite pravým tlačidlom myši na reproduktor a nastavte úroveň každej aplikácie jednotlivo. macOS to jednoducho nedodáva. Získate jeden hlavný zväzok a akýkoľvek interný posúvač, ktorý každá aplikácia odhalí. Na úrovni operačného systému neexistuje spôsob, ako vyvážiť Slack proti karte YouTube oproti hre.</p>
+<p>Takže keď hudobná aplikácia prehlušuje váš hovor, vaše jediné prirodzené možnosti sú hrubé: stíšiť hlavný ovládač (čo všetko stíši) alebo sa prehrabať vo vlastných nastaveniach každej aplikácie v nádeji, že má ovládanie hlasitosti. Boom 3D túto medzeru tiež neutesňuje – robí celý mix hlasnejším, nie každú aplikáciu.</p>
+
+<h2>Kde sa zmestí SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je chýbajúci mixér. Žije vo vašom paneli s ponukami a dáva každej spustenej aplikácii vlastný riadok s vlastným posúvačom. To je hlavný rozdiel oproti Boom 3D: namiesto jedného globálneho efektu získate kontrolu podľa zdroja.</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — nastavte Spotify na 30 %, kým váš videohovor zostane na 100 %.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> - okamžite stíšte jednu hlučnú aplikáciu bez toho, aby ste sa dotkli čohokoľvek iného.</li>
+<li><strong>Zosilnenie podľa aplikácie</strong> — Ak sa vám páčil trik Boom 3D, ktorý je hlasnejší ako 100 %, SoundDial si ho ponechá, ale je zameraný na jednu aplikáciu namiesto celého systému. Tiché aplikácie sa samy dostanú za bežný strop.</li>
+<li><strong>Objemové profily</strong> — uložiť rozloženie mixéra (napr. „hry“, „stretnutie“, „hudba“) a vyvolať ho jediným kliknutím namiesto opätovného vyvažovania posúvačov zakaždým.</li>
+<li><strong>Auto-ducking</strong> — automaticky stiahne zvuk na pozadí, keď sa začne niečo dôležité, takže hovor alebo hranie nie je skryté pod hudbou.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi slúchadlami, reproduktormi a inými výstupmi z rovnakej ponuky.</li>
+</ul>
+<p>Čo SoundDial zámerne nerobí, je zvyšok rozľahlosti funkcií Boom 3D. Neexistuje žiadny 31-pásmový ekvalizér, žiadne faux-surround spracovanie, žiadny systémový efektový reťazec. Ak chcete masteringový ekvalizér, Boom 3D alebo špeciálny audio balík je tou správnou voľbou. Ak ste vlastne stále otvárali Boom 3D <em>objem</em>, tá plocha je nafúknutá, za ktorú platíte.</p>
+
+<h2>Boost, bez ovládača</h2>
+<p>Otázka „posilňovania“ si zaslúži priamu odpoveď, pretože to je zvyčajne dôvod, prečo používatelia Boom 3D nakupujú alternatívy. Posilnenie Boom 3D je globálne a založené na ovládačoch. Zosilnenie SoundDial je pre každú aplikáciu a beží v modeli App-sandbox od spoločnosti Apple – distribuuje sa prostredníctvom Mac App Store, takže neexistuje žiadny samostatný inštalačný program, žiadny ovládač na úrovni jadra ani žiadne zvyšné systémové komponenty, ktoré by ste mohli neskôr odinštalovať. Dosiahnete výsledok „urobte túto tichú aplikáciu hlasnejšou“ bez toho, aby ste museli ovládať celú vašu zvukovú cestu vodičom.</p>
+
+<h2>Cena: jednorazová vs</h2>
+<p>Boom 3D je platená aplikácia s vlastným aktualizačným a licenčným modelom a ceny sa líšia podľa platformy a verzie. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je jednorazový nákup za 14,99 EUR – kúpte si ho raz, ponechajte si ho, bez predplatného a bez spätného nákupu podľa verzie, aby mixér fungoval. V prípade nástroja, ktorý necháte bežať v paneli s ponukami každý deň, má paušálna cena tendenciu starnúť sa lepšie ako produkt, ktorý musíte znova nakupovať.</p>
+
+<h2>Ktorý by ste si mali vybrať?</h2>
+<ul>
+<li><strong>Vyberte Boom 3D</strong> ak je vašou skutočnou potrebou seriózny ekvalizér a zvukové efekty pre celý systém a nevadí vám zvukový ovládač v mixe.</li>
+<li><strong>Vyberte SoundDial</strong> ak chcete to, čo používatelia Windows považujú za samozrejmosť – skutočný mixér hlasitosti pre jednotlivé aplikácie – plus cielené zvýšenie, profily a automatické znižovanie, za jednorazovú cenu a bez inštalácie ovládačov.</li>
+</ul>
+<p>Väčšina ľudí, ktorí sa odrazia od Boom 3D, spadá do druhej skupiny. Nechceli ladiť frekvencie; chceli, aby bol prehliadač tichší ako hovor. Presne na to je SoundDial stvorený.</p>
+
+<p><strong>Chcete na svojom Mac ovládať hlasitosť podľa aplikácie bez nadúvania EQ alebo predplatného?</strong> <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> — 14,99 EUR raz, v karanténe, bez ovládačov a každá aplikácia má svoj vlastný posúvač.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Ako stlmiť všetko okrem jednej aplikácie na vašom Mac",
+    description: "macOS nemá žiadny mixér hlasitosti pre jednotlivé aplikácie, takže na stlmenie každej aplikácie okrem jednej je potrebný pomocník. Tu je návod, ako počuť iba váš hovor, stream alebo hru, zatiaľ čo všetko ostatné zostane stlmené.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá žiadny vstavaný spôsob, ako stlmiť jednotlivé aplikácie, takže na počúvanie iba jednej aplikácie potrebujete mixér hlasitosti pre každú aplikáciu. Inštalovať <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, otvorte mixér s panelom s ponukami, stlmte každú aplikáciu okrem tej, ktorú chcete počuť, a táto aplikácia sa bude ďalej prehrávať, zatiaľ čo ostatné sa okamžite odmlčia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Ako stlmiť všetko okrem jednej aplikácie na vašom Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo to macOS nedokáže sám o sebe</h2>
+<p>Windows má mixér hlasitosti už viac ako desať rokov: kliknite pravým tlačidlom myši na ikonu reproduktora a každá spustená aplikácia dostane svoj vlastný posúvač. macOS toto ešte nikdy nedodal. Tlačidlá hlasitosti na vašom Mac ovládajú iba jednu vec, hlavnú výstupnú úroveň. Keď vypnete systém, všetko pôjde dole naraz. Keď stlmíte, všetko sa stlmí.</p>
+<p>To je v poriadku, kým nebudete mať päť vecí, ktoré vydávajú hluk naraz. Zúčastňujete sa videohovoru, ale na karte prehliadača sa automaticky prehráva reklama, Spotify je stále spustené, hra pinguje na pozadí a Slack zvoní. Jedinou natívnou možnosťou je ukončiť aplikácie, stlmiť ich jednu po druhej vo vlastných nastaveniach každej aplikácie (ak túto možnosť vôbec má) alebo strhnúť slúchadlá. Nič z toho vám nedovolí povedať „toto si nechajte, zvyšok umlčte“.</p>
+
+<h2>Priamy spôsob: zvyšok stlmte mixérom</h2>
+<p>Mixér pre jednotlivé aplikácie je umiestnený medzi vašimi aplikáciami a výstupným zariadením a dáva každej aplikácii vlastné ovládanie hlasitosti a stlmenia. Po spustení jednej aplikácie trvá izolácia jednej aplikácie niekoľko sekúnd:</p>
+<ul>
+<li>Otvorte mixér z panela s ponukami. Uvidíte živý zoznam každej aplikácie, ktorá momentálne produkuje zvuk.</li>
+<li>Nájdite jedinú aplikáciu, ktorú chcete počuť, váš hovor, stream, vašu hru.</li>
+<li>Stlmiť všetko ostatné. Klepnite na prepínač stlmenia vedľa aplikácie alebo potiahnite jeho posúvač na nulu.</li>
+<li>To je všetko. Jedna aplikácia, ktorú ste nechali osamote, pokračuje v prehrávaní pri plnej hlasitosti, zatiaľ čo ostatné zostávajú tiché.</li>
+</ul>
+<p>S <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, každá aplikácia v zozname má vlastný posúvač a vlastné tlačidlo stlmenia, takže ide o niekoľko kliknutí. Nové aplikácie, ktoré sa začnú prehrávať neskôr, sa zobrazia automaticky, takže ak sa zvuk upozornenia pokúsi vkradnúť, môžete ho na mieste stíšiť bez toho, aby ste sa dotkli sústredenej aplikácie.</p>
+
+<blockquote>Trik je v tom, že stlmenie „všetkého okrem jednej“ je len opakom stlmenia jednej aplikácie. Nestíšite svoj Mac, ale stíšite hluk okolo veci, na ktorej vám skutočne záleží.</blockquote>
+
+<h2>Uložte si ho ako profil, aby ste to nezopakovali</h2>
+<p>Ak je toto nastavenie, po ktorom často siahate, robte to ručne vždy, keď zostarnete. Povedzme, že chcete, aby bola vaša aplikácia na volanie počas stretnutí vždy nahlas a všetko ostatné vypnuté, alebo chcete, aby bol váš stream v popredí a v strede, zatiaľ čo hry a prehliadače zostali tiché. Objemový profil ukladá tieto presné nastavenia pre jednotlivé aplikácie a znova ich použije jedným kliknutím.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> umožňuje uložiť profily ako „Stretnutie“ alebo „Iba stream“ a potom na ne prepínať v okamihu, keď ich potrebujete. Nastavte to raz a izolovanie vašej jednej aplikácie sa stane jedinou akciou na paneli s ponukami namiesto práce s piatimi posuvníkmi.</p>
+
+<h2>Inteligentnejšia verzia: automatické stlmenie namiesto tvrdého stlmenia</h2>
+<p>Niekedy nechcete, aby ostatné aplikácie úplne zmizli, len chcete, aby zmizli z cesty, keď sa začne niečo dôležitejšie. To je auto-ducking. Keď sa prehráva vaša prioritná aplikácia, aplikácie na pozadí automaticky klesnú na nízku úroveň a po zastavení sa opäť zdvihnú.</p>
+<p>To je ideálne pre hovory a streamy. Keď niekto začne hovoriť, vaša hudba sa zníži, takže ho budete počuť, a keď sa hovor skončí, hudba sa sama spustí. Získate výsledok „jasne počuť jednu aplikáciu“ bez manuálneho stlmenia a zapínania vždy, keď sa situácia zmení. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> obsahuje automatické stlmenie spolu s ručným mixérom, takže si môžete vybrať tvrdé stlmenie pre úplné ticho alebo stlmenie pre jemnejšie pozadie.</p>
+
+<h2>Posilnenie jednej aplikácie, ktorú ste si nechali</h2>
+<p>Izolácia jedinej aplikácie má bonus: môžete ju tiež zvýšiť hlasitosťou, než váš Mac bežne umožňuje. Niektoré aplikácie, najmä tiché videohovory alebo zle zvládnuté streamy, sú sotva počuteľné aj pri maximálnej hlasitosti. Posilnenie pre jednotlivé aplikácie posunie individuálnu aplikáciu nad 100 % bez toho, aby naštartoval váš systémový výstup, čo by len zosilnilo aplikácie, ktoré ste už stlmili.</p>
+<p>Takže úplný krok je: stlmiť hluk, ponechať jednu aplikáciu a ak je táto aplikácia príliš tichá, zvýšte ju. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ovláda všetky tri v rovnakom okne mixéra.</p>
+
+<h2>Na čo sa neprihlásite</h2>
+<p>Bežnou obavou zvukových nástrojov Mac je, že vyžadujú rozšírenia jadra, virtuálne zvukové ovládače alebo tieňové inštalátory stiahnuté z náhodnej webovej stránky. Je to legitímna obava, a preto sa niektorí ľudia týmto aplikáciám úplne vyhýbajú.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je na Mac App Store, v karanténe a inštaluje sa ako každá normálna aplikácia, žiadne ovládače, žiadne DMG, žiadne systémové rozšírenia na schválenie. Ide o jednorazový nákup v hodnote 14,99 EUR a nie o predplatné, takže zaplatíte raz a ponecháte si ho. To je dôležité pre niečo, čo necháte bežať na paneli s ponukami celý deň.</p>
+
+<h2>Rýchla rekapitulácia</h2>
+<ul>
+<li>macOS nemá natívne ovládanie hlasitosti pre jednotlivé aplikácie, takže na to potrebujete mixér.</li>
+<li>Otvorte mixér, ponechajte si jednu aplikáciu, stlmte alebo vynulujte všetko ostatné.</li>
+<li>Uložte si ho ako profil pre hovory alebo streamy, ktoré často uskutočňujete.</li>
+<li>Ak chcete, aby sa aplikácie na pozadí radšej stlmili, než aby ste ich zabili, použite automatické sťahovanie.</li>
+<li>Vylepšite svoju uloženú aplikáciu, ak je sama o sebe príliš tichá.</li>
+</ul>
+
+<p>Chcete počuť len to, na čom záleží, a zvyšok umlčať? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a nastavte si svoj prvý profil stlmenia – všetko ostatné za menej ako minútu.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Udržujte inú hlasitosť pre reproduktory a slúchadlá na Mac",
+    description: "macOS zabudne mix hlasitosti na úrovni aplikácie, keď prepnete medzi reproduktormi a slúchadlami. Tu je dôvod, prečo sa to deje, manuálne limity a ako to opravuje pamäť objemu pre jednotlivé aplikácie.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS si v skutočnosti pamätá samostatnú systémovú hlasitosť pre každé výstupné zariadenie, no pri každom prepnutí zabudne na rovnováhu na úrovni aplikácie. Slúchadlá a reproduktory si teda zachovávajú svoju vlastnú celkovú úroveň, no v momente, keď ich odpojíte, jedna aplikácia sa spustí a ďalšia zmizne. Opravou je pamäť objemu pre jednotlivé aplikácie, ktorá vydrží prepínače zariadení, na ktoré macOS nemá žiadny natívny nástroj.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Zachovajte inú hlasitosť pre reproduktory a slúchadlá na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Čo si macOS pamätá a čo nie</h2>
+
+<p>Existuje všeobecný názor, že macOS zaobchádza s každým výstupným zariadením rovnako. To nie. Každé výstupné zariadenie ukladá svoj vlastný systémový zväzok. Nastavte reproduktory MacBook na 30 % a AirPods na 80 % a macOS ponechá tieto dve čísla oddelené. Zapojte, odpojte, znova pripojte a každé zariadenie sa vráti tam, kde ste ho nechali.</p>
+
+<p>Prečo sa teda táto skúsenosť stále cíti zlomená? Pretože táto pamäť sa zastaví na jedinom globálnom posúvači. macOS má presne jeden ovládač hlasitosti pre všetko, čo sa hrá na danom zariadení. Nepamätá si, aké hlasné boli jednotlivé aplikácie. Keď prepnete z reproduktorov na slúchadlá, rovnováha medzi Spotify, hovorom Zoom a záložkou YouTube sa nezachová, pretože táto rovnováha nikdy neexistovala. Každá aplikácia zdieľa rovnaký posúvač.</p>
+
+<p>Výsledkom je frustrácia, ktorú ľudia opisujú ako „inú hlasitosť pre reproduktory a slúchadlá“. To, čo zvyčajne chcú, nie je len iná hlavná úroveň pre každé zariadenie, ale zapamätateľný mix: tichá hudba, hlasné hovory, stíšenie upozornení a to neporušené, či už sú na stolných reproduktoroch alebo slúchadlách.</p>
+
+<h2>Manuálne riešenia a ich nedostatky</h2>
+
+<p>Môžete sa tam dostať pomocou vstavaných nástrojov a predtým, ako siahnete po čomkoľvek inom, stojí za to poznať strop.</p>
+
+<ul>
+<li><strong>Nastavte hlasitosť systému každého zariadenia raz.</strong> Prehrávajte zvuk cez reproduktory, nastavte úroveň, potom prepnite výstup na slúchadlá a nastavte túto úroveň. macOS zachováva oboje. Toto spracováva hlavnú hlasitosť na zariadenie, ale nič na aplikáciu.</li>
+<li><strong>Použite objem jednotlivých aplikácií tam, kde to aplikácia ponúka.</strong> Spotify, VLC a väčšina prehliadačov má svoj vlastný interný zväzok. Hlasnú aplikáciu môžete orezať v samotnej aplikácii. Háčik: toto nastavenie žije v aplikácii, nie v zariadení, takže sa nezmení, keď prepnete na slúchadlá, a väčšina aplikácií (Slack, Zoom, systémové upozornenia, Mail) takéto ovládanie vôbec nemá.</li>
+<li><strong>Prepnite výstup z ovládacieho centra alebo z panela s ponukami.</strong> Ak chcete rýchlo prechádzať medzi zariadeniami, kliknite na ikonu hlasitosti na paneli s ponukami. Rýchle, ale posúva iba hlavnú úroveň, neobnovuje mix jednotlivých aplikácií.</li>
+</ul>
+
+<p>Získate tak hlavný objem pre každé zariadenie. Žiadna z nich vám neposkytne zapamätaný zostatok podľa aplikácie, ktorý vás sleduje naprieč zariadeniami. Táto medzera je presne to, kde žije nepríjemnosť, a je štrukturálna: OS jednoducho nemá žiadny mixér pre jednotlivé aplikácie, na rozdiel od Windows, ktorý ho dodáva už roky.</p>
+
+<h2>Pamäť objemu pre jednotlivé aplikácie a prečo je prepínanie zariadení skutočným problémom</h2>
+
+<p>Hlbšou opravou je dať každej aplikácii vlastný objem a tieto nastavenia zachovať. To je to, čo má mixér podľa aplikácií rád <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je stavaný pre. Nachádza sa vo vašom paneli s ponukami, zobrazuje všetky aplikácie, ktoré momentálne produkujú zvuk, a každej z nich poskytuje nezávislý posuvník, prepínač stlmenia a dokonca zvýšenie o viac ako 100 % pre tiché aplikácie.</p>
+
+<p>Časť, ktorá je dôležitá pre problém reproduktorov a slúchadiel: tieto úrovne sú zapamätané. Nastavte si hudbu na 40 %, hovory na 90 % a chatovaciu aplikáciu stlmte a <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> udržuje ten mix. Keď odpojíte slúchadlá a vrátite sa k reproduktorom, nebudete zakaždým ručne vyrovnávať tri aplikácie.</p>
+
+<p>Objemové profily to posúvajú ďalej. Môžete si uložiť pomenovanú množinu úrovní pre jednotlivé aplikácie a vyvolať ju jedným kliknutím, takže mix „slúchadlá, sústredená práca“ a mix „reproduktory, stretnutia“ predstavujú jeden výber, nie manuálne resetovanie.</p>
+
+<blockquote><p>Mentálny posun: prestaňte myslieť na jeden hlavný posúvač, ktorý stále ťaháte, a začnite premýšľať o uloženom mixe pre každú situáciu. Prepínanie zariadení prestáva byť úlohou opätovného vyvažovania.</p></blockquote>
+
+<h2>Rýchle prepínanie výstupu bez straty mixu</h2>
+
+<p>Spínacie zariadenia by mali byť rýchle a nedeštruktívne. Na tom istom paneli s ponukami môžete zmeniť svoje výstupné zariadenie, takže prechod z reproduktorov na slúchadlá je jedným kliknutím a vaše úrovne pre jednotlivé aplikácie sa objavia namiesto toho, aby sa zrútili späť na jediné globálne číslo.</p>
+
+<p>Súvisiaca funkcia, ktorá stojí za zmienku, je automatické stlmenie zvuku: keď sa zvuk dostane do vášho mikrofónu (začnete hovoriť alebo začne hovor), ostatné aplikácie sa automaticky prepnú, aby vás bolo počuť, a potom sa vrátia na nastavenú úroveň. Je to rovnaký princíp aplikovaný skôr na pozornosť ako na zariadenia, ďalšia vec macOS sama o sebe neurobí.</p>
+
+<h2>Ako to nastaviť</h2>
+
+<ul>
+<li>Inštalovať <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z modelu Mac App Store. Je v sandboxe, takže nie je potrebné schváliť žiadny ovládač, DMG ani rozšírenie jadra.</li>
+<li>Prehrávajte zvuk v aplikáciách, ktoré používate najčastejšie, aby sa zobrazili v mixéri.</li>
+<li>Nastavte úroveň každej aplikácie, stlmte všetko, čo nechcete, a zosilnite všetko, čo je príliš tiché.</li>
+<li>Uložte si toto usporiadanie ako profil, napríklad jeden vyladený pre slúchadlá a jeden pre reproduktory.</li>
+<li>Keď zmeníte zariadenia, vyvolajte zodpovedajúci profil alebo jednoducho nechajte preniesť uložené úrovne jednotlivých aplikácií.</li>
+</ul>
+
+<p>Úprimné zhrnutie: macOS si pamätá hlasitosť na výstupné zariadenie na hlavnej úrovni, ale nikdy si nezapamätá váš mix pre jednotlivé aplikácie, pretože nemá mix pre jednotlivé aplikácie. Ak je vaším skutočným cieľom konzistentná rovnováha medzi hudbou, hovormi a upozorneniami, ktorá prežije každé prepnutie medzi reproduktormi a slúchadlami, potrebujete navrchu operačného systému pamäť pre jednotlivé aplikácie.</p>
+
+<p>Chcete, aby si reproduktory a slúchadlá zachovali svoj vlastný mix bez prestavovania každej aplikácie? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> za jednorazovo 14,99 €, bez predplatného, bez ovládačov.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control ukončené? Najlepšia náhrada objemu za aplikáciu Mac (2026)",
+    description: "Sound Control od Static Z Software je ukončený a prestáva fungovať na modernom macOS. Tu je dôvod, prečo to prestalo fungovať, čo to urobilo a najlepší mixér hlasitosti pre aplikáciu, na ktorý môžete prejsť v roku 2026.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Sound Control od Static Z Software je prerušený a už sa nepredáva ani neaktualizuje a na modernom macOS čoraz viac zlyháva, pretože sa spoliehal na zvukový ovládač na úrovni jadra, ktorý Apple uzamkol. Ak dnes potrebujete objem jednotlivých aplikácií, najčistejšia náhrada je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, sandboxový mixér Mac App Store bez ovládačov.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control ukončené? Najlepšia náhrada objemu Mac na aplikáciu (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Čo vlastne Sound Control dokázal</h2>
+<p>Sound Control bol roky hlavnou odpoveďou na skutočnú medzeru macOS: na Mac stále nie je vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden vo svojom Volume Mixer od Vista, ale macOS vám poskytuje iba jeden hlavný posuvník. Sound Control vyplnil túto dieru prehľadným panelom s ponukami, ktorý vám umožní:</p>
+<ul>
+<li>Nastavte nezávislú úroveň hlasitosti pre každú spustenú aplikáciu.</li>
+<li>Stlmte jednotlivé aplikácie bez toho, aby ste sa dotkli zvyšku systémového zvuku.</li>
+<li>Zvýšte tiché aplikácie nad 100 percent.</li>
+<li>Použite ekvalizér a úpravy vyváženia pre jednotlivé aplikácie.</li>
+<li>Smerujte zvuk a pripnite aplikácie na konkrétne výstupné zariadenia.</li>
+</ul>
+<p>Pre každého, kto mal niekedy odpálený hovor Zoom, zatiaľ čo karta YouTube na pozadí šepká, bolo ovládanie pomocou aplikácie transformačné. Stala sa tichou základňou na mnohých počítačoch náročných používateľov Mac.</p>
+
+<h2>Prečo to prestalo fungovať</h2>
+<p>Tu záleží na poctivom technickom príbehu, pretože vysvetľuje, prečo to nie je chyba, ktorú môže niekto jednoducho opraviť. Sound Control fungoval tak, že nainštaloval systémový zvukový ovládač – rozšírenie jadra (kext), ktoré sa vložilo do zvukového potrubia macOS, aby mohlo zachytiť a pretvoriť výstup každej aplikácie. Tento hlboký háčik je presne to, čo umožnilo funkcie EQ a boost.</p>
+<p>Počnúc verziou macOS 10.15 Catalina a zrýchľovaním cez Big Sur a prechod Apple Silicon Apple začal zavrhovať rozšírenia jadra v prospech alternatív používateľského priestoru. V prípade zariadení Apple Silicon Mac si načítanie zariadení kext od tretích strán vyžaduje zníženie zabezpečenia systému v režime obnovenia a spoločnosť Apple dala jasne najavo, že staré zvukové zariadenia kext sú vypožičané. Static Z Software nakoniec prestal predávať a vyvíjať Sound Control. Výsledok: v najnovších verziách macOS inštalácie zlyhajú, zvuk vypadáva alebo ovládač jednoducho odmietne načítať bez zníženia zabezpečenia, ktoré väčšina ľudí právom nechce urobiť.</p>
+<blockquote>Toto nie je zanedbanie zo strany developera. Ide o posun na úrovni platformy. Apple zavrel dvere za nízkoúrovňovým zvukovým ovládačom Sound Control, na ktorom bol postavený, a žiadna aktualizácia ho nedokáže úplne znova otvoriť.</blockquote>
+
+<h2>Čo sa zmenilo na modernom macOS</h2>
+<p>Apple pridal jednu relevantnú vec: Core Audio teraz ponúka Tap API (zavedené v macOS 14.2 Sonoma), ktoré umožňuje aplikáciám zachytávať a spracovávať zvuk podľa jednotlivých procesov z používateľského priestoru – žiadne kext, žiadne zníženie zabezpečenia, žiadne reštartovanie do obnovy. Toto je schválená moderná cesta pre zvuk pre jednotlivé aplikácie a na tom by mal stavať súčasný mixér. Kompromis je úprimný: klepnutia v používateľskom priestore sú obmedzenejšie ako starý ovládač jadra, takže by ste mali očakávať čistý objem jednotlivých aplikácií, stlmenie a zosilnenie namiesto úplného parametrického EQ Sound Control, ktoré ponúka.</p>
+
+<h2>Najlepšia náhrada: SoundDial</h2>
+<p>Ak chcete jadro toho, čo robil Sound Control – nezávislý objem na aplikáciu – na Mac môžete skutočne udržiavať bezpečnosť a aktuálnosť, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je najbližšia možnosť čistej migrácie v roku 2026. Ide o mixážny pult hlasitosti pre jednotlivé aplikácie vytvorený pre moderný zvukový zásobník macOS. Čo sa prenáša z pracovného postupu Sound Control:</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — jeden posúvač na každú spustenú aplikáciu, priamo v lište ponuky.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšiť jednu aplikáciu, zatiaľ čo všetko ostatné sa hrá.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> — posuňte tichú aplikáciu nad jej normálny strop.</li>
+<li><strong>Objemové profily</strong> — uložiť nastavenia mixéra pre rôzne kontexty (hovory, hudba, hranie hier) a prepínať medzi nimi.</li>
+<li><strong>Auto-ducking</strong> — automaticky zníži hlasitosť aplikácií na pozadí, čo je užitočné, keď začnete hovoriť alebo prichádza hovor.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — preskakujte medzi reproduktormi, slúchadlami a inými zariadeniami bez toho, aby ste museli prejsť do nastavení systému.</li>
+</ul>
+<p>Praktické rozdiely, ktoré sú dôležité pre migráciu: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodáva sa cez Mac App Store, je v karanténe a neinštaluje žiadne ovládače ani DMG. To znamená, že žiadne rozšírenie jadra na schválenie, žiadny režim obnovy a žiadne znižovanie bezpečnostnej pozície vášho Mac – presne tie bolestivé body, ktoré zabili Sound Control. Ide o jednorazový nákup za 14,99 €, nie o predplatné.</p>
+
+<h2>Ako prepínať, krok za krokom</h2>
+<ul>
+<li><strong>Odinštalujte Sound Control čisto.</strong> Pretože nainštaloval ovládač, pred inštaláciou čohokoľvek nového použite jeho vlastný odinštalačný program, ak stále beží, alebo odstráňte jeho súčasti ovládača zvuku. Dva konkurenčné zvukové háčiky môžu spôsobiť poruchy.</li>
+<li><strong>Nainštalujte SoundDial zo App Store.</strong> Nevyžaduje sa reštart ani bezpečnostné zmeny.</li>
+<li><strong>Udeľte požadované zvukové povolenie.</strong> To mu umožňuje čítať a ovládať výstup jednotlivých aplikácií na modernom macOS.</li>
+<li><strong>Otvorte panel s ponukami a nastavte úrovne.</strong> Vaše spustené aplikácie sa zobrazia s jednotlivými posuvníkmi; upravte, stlmte alebo zosilnite podľa potreby.</li>
+<li><strong>Uložiť profil.</strong> Ak ste mali obľúbené nastavenia Sound Control, vytvorte ich znova ako profily, aby ste ich mohli prepínať jedným kliknutím.</li>
+</ul>
+
+<h2>Úprimné očakávania</h2>
+<p>Ak vaším jediným dôvodom na používanie Sound Control bola hlasitosť, stlmenie a zosilnenie jednotlivých aplikácií, moderný mixpult v izolovanom priestore vás plne pokrýva. Ak ste sa silne opierali o jeho ekvalizér pre jednotlivé aplikácie, uvedomte si, že hlboký ekvalizér bol prepojený so starým modelom ovládača a je to najťažšia funkcia, ktorú je možné podľa súčasných pravidiel spoločnosti Apple čisto reprodukovať. Podľa toho nastavte očakávania a nebudete prekvapení.</p>
+
+<p>Ste pripravení získať späť objem jednotlivých aplikácií bez toho, aby vodiča bolela hlava? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> — jednorazovo 14,99 EUR, v karanténe, bez predplatného, bez ovládačov.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny je preč – moderná aplikácia Mac na objem aplikácie, ktorá ju nahradí",
+    description: "SoundBunny od spoločnosti Prosoft je ukončená. Tu je aktuálny, aktívne udržiavaný mixér hlasitosti macOS pre jednotlivé aplikácie, ktorý ho nahradí – plus ako migrovať nastavenie zvuku podľa aplikácie bez ovládačov jadra.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak SoundBunny prestal fungovať alebo sa už nepredáva, moderná náhrada áno <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, panel s ponukami pre jednotlivé aplikácie vytvorený pre aktuálny macOS. Poskytuje vám rovnakú základnú úlohu – nezávislý objem, stlmenie a zosilnenie na aplikáciu – ako jednorazový nákup Mac App Store v hodnote 14,99 EUR bez ovládača jadra, DMG alebo predplatného na správu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – SoundBunny je preč – moderná aplikácia Mac na objem aplikácií, ktorá ju nahradí" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Čo sa stalo so SoundBunny?</h2>
+<p>SoundBunny bola pomôcka spoločnosti Prosoft Engineering pre objem jednotlivých aplikácií pre macOS. Umožní vám nastaviť inú úroveň hlasitosti pre každú spustenú aplikáciu priamo z panela s ponukami – tichá hudba, hlasný hovor, prehliadač niekde medzi tým. Celé roky to bol jeden z mála nástrojov, ktoré vyplnili medzeru, ktorú Apple nikdy neuzavrel.</p>
+<p>Problém je v tom, že SoundBunny je starší softvér. Neudržal krok s hlbokými zmenami, ktoré spoločnosť Apple urobila v oblasti zvuku a zabezpečenia macOS – Apple Silicon, sprísnený runtime, sprísnené pravidlá pre rozšírenie systému a odstránenie starších zvukových háčikov. Keď pomôcka, ako je táto, prestane dostávať aktualizácie, nakoniec sa pokazí: nepodarí sa spustiť, stratí kontrolu nad streamovaním aplikácií po aktualizácii operačného systému alebo sa jednoducho nedá čisto nainštalovať na moderný Mac. Ak ste tam, nerobíte nič zlé. Aplikácia je pozadu, nie vy.</p>
+
+<h2>Prečo macOS stále potrebuje mixér tretej strany</h2>
+<p>Tu je úprimná časť: toto je skutočná medzera v macOS, nie chyba, ktorú môžete opraviť v nastaveniach. Windows dodáva mixér hlasitosti pre jednotlivé aplikácie už viac ako desať rokov. macOS ešte nikdy nemal. Posúvač hlasitosti systému a nastavenia zvuku ovládajú váš <em>výstupné zariadenie</em> ako celok – každá aplikácia má rovnakú majstrovskú úroveň. Neexistuje žiadny vstavaný spôsob, ako povedať „udržať Safari na 40 %, ale Zoom na 100 %.</p>
+<p>To je dôvod, prečo nástroje ako SoundBunny existovali a prečo je dnes stále potrebná výmena. Potreba nezmizla, keď sa to stalo s aplikáciou – spoločnosť Apple to stále neriešila.</p>
+
+<h2>Moderná náhrada: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je mixér hlasitosti pre jednotlivé aplikácie, ktorý žije vo vašom paneli s ponukami a robí veci, na ktoré sa používatelia SoundBunny spoliehali, postavený oproti dnešnému macOS namiesto včerajšieho. Prekrytie funkcií pokrýva podstatné:</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — jeden posuvník na spustenú aplikáciu, presne mentálny model SoundBunny.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšiť jednu hlučnú aplikáciu bez toho, aby ste sa dotkli všetkého ostatného.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> - stlačte tichú aplikáciu <em>vyššie</em> 100 %, keď je video alebo hovor nahraný príliš nízko. SoundBunny nedokázal spoľahlivo zosilniť minulé systémové maximum na modernom macOS; boost je tu skutočný upgrade.</li>
+<li><strong>Objemové profily</strong> — Uložte si sadu úrovní pre jednotlivé aplikácie ("pracovný" mix, "herný" mix) a prepínajte medzi nimi namiesto posúvania posúvačov po jednom.</li>
+<li><strong>Auto-ducking</strong> — automaticky zníži hlasitosť aplikácie na pozadí, keď sa aktivuje iný zdroj zvuku (napríklad váš mikrofón pri hovore).</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami a inými výstupmi z rovnakej ponuky.</li>
+</ul>
+
+<h2>Ako vlastne migrácia vyzerá</h2>
+<p>Neexistuje žiadny krok importu – úrovne hlasitosti jednotlivých aplikácií nie sú súbor, ktorý prenášate – ale prepnutie je rýchle:</p>
+<ul>
+<li><strong>Správne odstráňte SoundBunny.</strong> Ukončite ju a potom aplikáciu odstráňte. Ak nainštaloval akúkoľvek pomocnú alebo prihlasovaciu položku, odstráňte ju tiež, aby sa dva nástroje nehádali o rovnaké zvukové toky.</li>
+<li><strong>Nainštalujte SoundDial zo Mac App Store.</strong> Je uložený v karanténe a distribuovaný cez obchod, takže nie je potrebné pripojiť DMG a žiadne upozornenie „neidentifikovaného vývojára“. Jeden nákup spojený s vaším Apple ID.</li>
+<li><strong>Pri prvom spustení udeľte prístup k zvuku.</strong> macOS si vyžiada povolenie pre SoundDial na zobrazenie zvuku aplikácie. Toto je moderná, schválená cesta, ktorú Apple poskytuje – žiadne rozšírenie jadra, žiadne reštartovanie, žiadne zníženie zabezpečenia systému. Udeľte to a vaše spustené aplikácie sa zobrazia ako posúvače.</li>
+<li><strong>Obnovte svoj mix.</strong> Nastavte svoje bežné aplikácie a potom uložte toto usporiadanie ako profil, aby ste ho už nikdy nemuseli opakovať.</li>
+</ul>
+
+<h2>Praktické rozdiely oproti SoundBunny</h2>
+<p>Najdôležitejší rozdiel je v tom <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je aktuálny softvér. Beží natívne na Apple Silicon, používa Apple podporované audio API a je to aplikácia Mac App Store – čo znamená, že aktualizácie prichádzajú cez obchod a je postavená tak, aby prežila upgrady operačného systému, nie aby sa na nich pokazila. To, že je v karanténe, tiež znamená, že nemôže dosiahnuť mimo svojho pruhu, čo je upokojujúce pre niečo, čo sedí medzi vašimi aplikáciami a reproduktormi.</p>
+<p>Pár úprimných upozornení, takže očakávania sú správne. Pretože SoundDial funguje v rámci audio rámca Apple, ovládanie je najlepšie pre štandardné aplikácie, ktoré smerujú cez normálny systémový výstup. Niektorý softvér prehráva zvuk vlastnou cestou alebo exkluzívnym zariadením a žiadny mixážny pult – vrátane SoundBunny – ich nedokáže plne ovládať. A objem jednotlivých aplikácií je neodmysliteľne softvérovou vrstvou nad macOS; nie je to hardvérový mixér. V rámci týchto skutočných limitov robí prácu, ktorú robil SoundBunny.</p>
+
+<blockquote>Ak ste prešli na Mac zo Windows s očakávaním mixéra hlasitosti pre jednotlivé aplikácie, toto je nástroj, ktorý vyplní túto medzeru – a teraz je to ten, ktorý sa skutočne udržiava.</blockquote>
+
+<p>SoundBunny mal dobrý chod, ale je to dedičstvo. Ak potrebujete hlasitosť, stlmenie a zosilnenie jednotlivých aplikácií na modernom Mac, <a href="https://apps.apple.com/app/id6772792641">získajte SoundDial na Mac App Store</a> — 14,99 EUR raz, bez predplatného, bez ovládačov.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Alternatíva pre Mac: Objem na aplikáciu bez dodatočného predaja Boom 3D",
+    description: "Boom 2 je starý a neustále vás posúva k Boom 3D. Ak chcete iba objem jednotlivých aplikácií a jednoduché zvýšenie moderného modelu macOS, tu je zameraná alternatíva a ako to funguje.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Ak sa vám páčilo Boom 2 pre podporu celého systému, ale chcete jednoduché <strong>na aplikáciu</strong> objem na aktuálnom Mac, úprimná odpoveď je, že Boom 2 je starý a už nie ten správny nástroj. Sústredená alternatíva je <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, panelový mixpult, ktorý každej aplikácii poskytuje vlastný posuvník hlasitosti, stlmenie a zvýšenie hlasitosti, za 14,99 EUR raz, bez potreby väčšieho balíka.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Boom 2 Alternatíva pre Mac: Objem podľa aplikácie bez dodatočného predaja Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo sa už Boom 2 nehodí</h2>
+<p>Boom 2 bola obľúbená aplikácia z konkrétneho dôvodu: zvýšila celkovú hlasitosť vášho Mac nad systémové maximum a pridala ekvalizér. Robilo to v celom systéme, nie na aplikáciu. To bolo v poriadku v roku 2015. V roku 2026 má dva problémy.</p>
+<p>Po prvé, je to dedičstvo. Global Delight očividne presunul svoju energiu do Boom 3D a ak otvoríte produktovú stránku Boom 2, takmer okamžite sa ocitnete v ťahu smerom k novšej, drahšej aplikácii. Boom 2 stále existuje, ale je to odrazový mostík, ktorý predajca používa na predaj Boom 3D, nie produkt získavajúci aktívnu lásku.</p>
+<p>Po druhé, a to je dôležitejšie: Boom 2 nikdy nebol mixpultom hlasitosti pre jednotlivé aplikácie. Zvyšuje a formuje jeden hlavný výstup. Ak je vašou skutočnou bolesťou to, že ping Slack je hlasnejší ako vaša hudba, alebo karta prehliadača prehlušuje hovor, Boom 2 to nerieši. Spolu to robí všetko hlasnejším. To je iná práca.</p>
+
+<h2>Čo v skutočnosti znamená „objem na aplikáciu“ na macOS</h2>
+<p>Tu je úprimný kontext, ktorý väčšina alternatívnych zhrnutí preskočí: macOS nemá vôbec žiadny vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden už roky – kliknite pravým tlačidlom myši na reproduktor, otvorte Volume Mixer a nastavte Chrome na 40 % a Spotify na 80 %. Apple to nikdy neposlal. Tlačidlo hlasitosti macOS posúva iba jednu hlavnú úroveň.</p>
+<p>Takže keď hľadáte „alternatívu Boom 2“, to, čo často skutočne hľadáte, nie je hlasnejšie Mac – je to ovládanie jednotlivých aplikácií, ktoré používatelia Windows považujú za samozrejmosť. Toto je skutočná medzera v operačnom systéme, nie niečo, čo by Boom 2 alebo ktorákoľvek jednotlivá aplikácia zabudla vytvoriť.</p>
+
+<h2>Kde sa zmestí SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je postavený špeciálne pre túto medzeru. Nachádza sa na paneli s ponukami a obsahuje zoznam aplikácií, ktoré aktuálne prehrávajú zvuk, pričom každá má svoj vlastný posúvač. Úrovne nastavujete pre každú aplikáciu namiesto toho, aby ste postrčili jeden hlavný ovládací prvok a dúfali v to najlepšie.</p>
+<p>Čo to robí:</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — upokojte prehliadač, ponechajte hudbu tam, kde ju chcete, bez globálnych kompromisov.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšte jednu hlučnú aplikáciu bez toho, aby ste sa dotkli čohokoľvek iného.</li>
+<li><strong>Zosilnenie podľa aplikácie</strong> — posuňte individuálnu aplikáciu za jej normálny strop, keď je video alebo hovor zaznamenaný príliš ticho. Toto je kúsok, ktorý fanúšikom Boom 2 zvyčajne chýba, až na to, že tu je zameraný na jednu aplikáciu a nie na celý systém.</li>
+<li><strong>Objemové profily</strong> — Uložte si rozloženia ako „zameranie“, „stretnutie“ alebo „hranie“ a prepínajte jedným kliknutím.</li>
+<li><strong>Auto-ducking</strong> — automaticky zníži ostatné aplikácie, keď začnete hovoriť, čo je užitočné pri hovoroch a nahrávaní.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami a inými výstupmi z rovnakej ponuky.</li>
+</ul>
+
+<h2>Ako to nastaviť</h2>
+<p>Pracovný postup je krátky:</p>
+<ul>
+<li>Inštalovať <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zo Mac App Store — bez DMG, bez ovládača, bez reštartu.</li>
+<li>Kliknutím na ikonu na paneli s ponukami zobrazíte všetky aplikácie, ktoré momentálne produkujú zvuk.</li>
+<li>Potiahnite posúvač každej aplikácie na požadovanú úroveň; stlmiť alebo zosilniť individuálne podľa potreby.</li>
+<li>Uložte usporiadanie ako profil, ak ho chcete neskôr znova použiť.</li>
+</ul>
+<p>Pretože sa dodáva cez App Store, je v sandboxe a inštaluje sa čisto. To stojí za zmienku, pretože niektoré staršie zvukové nástroje sa spoliehali na rozšírenia jadra alebo virtuálne zvukové ovládače – niečomu, čomu moderný macOS čoraz viac odoláva. SoundDial od vás nežiada, aby ste nainštalovali ovládač alebo znížili nastavenia zabezpečenia.</p>
+
+<h2>Úprimné obmedzenie</h2>
+<p>Zosilnenie podľa aplikácie je skutočné, ale nie magické. Ak je zdrojový zvuk aplikácie skutočne tichý alebo zle zaznamenaný, jeho zosilnením sa spolu so signálom zvýši hladina hluku, takže veľmi tichý materiál môže pri silnom zatlačení znieť syčavo. To je fyzikálny limit zosilnenia, nie chyba v žiadnej konkrétnej aplikácii – zosilnenie systému Boom 2 malo rovnaký kompromis. Zosilnenie berte ako priestor pre praktické prípady, nie záchranu pre nefunkčný zvuk.</p>
+
+<h2>Boom 2 vs. sústredený mixér</h2>
+<p>Ak to, čo ste na Boom 2 milovali, bola celosystémová hlasitosť plus ekvalizér a nestaráte sa o ovládanie podľa aplikácie, Boom 3D je zamýšľaným nástupcom predajcu – to je spravodlivá cesta a nebudeme predstierať opak. Ak ste však vyskúšali Boom 2 a uvedomili ste si, že to, čo ste vlastne chceli, bolo zapnúť jednu aplikáciu nadol alebo nahor bez toho, aby ste všetko posunuli, balík EQ a zosilnenia je nesprávny tvar nástroja.</p>
+<blockquote>Boom 2 robí celý Mac hlasnejším. Mixér pre jednotlivé aplikácie vám umožňuje rozhodnúť sa, ktorá aplikácia je hlasnejšia. Tie riešia rôzne problémy.</blockquote>
+<p>Cenový rozdiel sa tiež oplatí jasne pomenovať. SoundDial je jednorazovo 14,99 EUR. Neexistuje žiadne predplatné, žiadna skúšobná verzia, ktorá prejde do väčšieho plánu, a žiadna cesta v aplikácii, ktorá vás nasmeruje na drahšiu úroveň. Kúpite mixér, vlastníte mixér.</p>
+
+<p>Ak je objem jednotlivých aplikácií – nie systémový ekvalizér – to, čo ste skutočne chceli, <a href="https://apps.apple.com/app/id6772792641">vyskúšajte SoundDial na Mac App Store</a> a nastavte si úrovne tak, ako vám to macOS malo umožniť.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: Bezplatný open-source vs. platený objem za aplikáciu na Mac",
+    description: "FineTune je bezplatná aplikácia s otvoreným zdrojom pre jednotlivé aplikácie pre Mac; SoundDial je platená aplikácia App Store v karanténe s podporou, profilmi a podporou. Tu je úprimné porovnanie, ktoré vám pomôže pri výbere.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>FineTune je bezplatný mixpult hlasitosti pre jednotlivé aplikácie s otvoreným zdrojom pre macOS, takže ak je vašou jedinou starosťou cena, je to skutočná možnosť. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je platená (14,99 EUR, jednorazová) aplikácia Mac App Store, ktorá pridáva zvýšenie objemu pre jednotlivé aplikácie, uložené profily, automatické sťahovanie a podporu dodávateľa. Skutočná voľba je bezplatná a vlastná verzus karanténa a podporovaná.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – FineTune vs SoundDial: Bezplatný open-source vs. platený objem za aplikáciu na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Problém riešia obe aplikácie</h2>
+
+<p>macOS stále nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden už roky – kliknite pravým tlačidlom myši na ikonu reproduktora, otvorte mixér hlasitosti a každá aplikácia dostane svoj vlastný posúvač. Na Mac získate presne jeden posúvač hlasitosti systému pre všetko: zdieľajú to vašu hudbu, videohovor, YouTube, upozornenia a hru. Ak je váš hovor príliš tichý a Spotify príliš hlasný, vašou jedinou opravou je úplné stlmenie zvuku Spotify.</p>
+
+<p>Na vyplnenie tejto medzery existujú FineTune aj SoundDial. Dávajú každej spustenej aplikácii vlastné ovládanie hlasitosti, takže môžete, povedzme, udržať schôdzu na 100 % a zároveň stiahnuť hudbu na pozadí na 20 % – bez toho, aby ste sa dotkli hlavného posúvača.</p>
+
+<h2>Čo je správne FineTune</h2>
+
+<p>FineTune je novšia, bezplatná aplikácia s otvoreným zdrojovým kódom v duchu SoundSource. Buďme spravodliví, pokiaľ ide o jeho silné stránky, pretože sú skutočné:</p>
+
+<ul>
+  <li><strong>Nič to nestojí.</strong> Žiadna licencia, žiadna skúšobná verzia, žiadna inovácia.</li>
+  <li><strong>Zdroj je otvorený.</strong> Môžete si prečítať, čo presne robí, skontrolovať súkromie a – ak poznáte Swift – upraviť alebo rozvetviť.</li>
+  <li><strong>Je to poháňané komunitou.</strong> Chyby môže opraviť ktokoľvek a kód prežije každú jednu spoločnosť.</li>
+  <li><strong>Pokrýva základnú potrebu.</strong> Nezávislý objem jednotlivých aplikácií, čo je funkcia, ktorú skutočne hľadá 90 % ľudí.</li>
+</ul>
+
+<p>Ak je vašou jedinou požiadavkou „dovoľte mi vypnúť jednu aplikáciu bez toho, aby som stlačil všetko,“ a vyhovuje vám softvér, ktorý sa dodáva bez formálnej podpory, FineTune je legitímna odpoveď. Odporúčať to tu nie je ústupok – je to úprimné.</p>
+
+<h2>Poctivé kompromisy DIY cesty</h2>
+
+<p>Bezplatný a open-source prináša skutočné náklady, ktoré sa nezobrazujú na cenovke. Toto nie sú údery konkrétne na FineTune – ide o povahu prístupu:</p>
+
+<ul>
+  <li><strong>Inštalácia je manuálna.</strong> Zvukové nástroje s otvoreným zdrojovým kódom sa zvyčajne distribuujú ako stiahnutá zostava alebo vzorec Homebrew, nie prostredníctvom App Store. Inštalujete mimo recenziu spoločnosti Apple a ste na háku, aby ste ju aktualizovali.</li>
+  <li><strong>Zachytávanie zvuku v rámci aplikácie je svojou povahou krehké.</strong> Smerovanie zvuku inej aplikácie je hĺbková systémová práca. Keď spoločnosť Apple odošle aktualizáciu macOS, ktorá zmení zásobník zvuku, tieto nástroje sa môžu pokaziť, kým ich niekto neopraví. S dobrovoľníckym projektom môže byť „niekto“ v ten mesiac zaneprázdnený.</li>
+  <li><strong>Podpora je najlepším úsilím.</strong> Ak sa niečo pokazí, vaše riešenie je problém GitHubu a čakáte. Neexistuje žiadna zaručená odpoveď a nikto nie je povinný to opraviť.</li>
+  <li><strong>Rozsah funkcií závisí od toho, čo dodajú správcovia.</strong> Ovládanie hlasitosti jadra je pravdepodobne pokryté; extra závisia výlučne od času prispievateľa.</li>
+</ul>
+
+<blockquote>Poctivé usporiadanie: FineTune vymieňa peniaze za zodpovednosť za údržbu. Ušetríte 14,99 EUR a beriete na seba riziko, že aktualizácia operačného systému ho nechá pokazený, kým to komunita nedobehne.</blockquote>
+
+<h2>Kde SoundDial je iný</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> podniká opačný obchod. Zaplatíte raz a na oplátku získate produkt App Store s dodávateľom za ním a širšou súpravou funkcií postavenou na objeme jednotlivých aplikácií:</p>
+
+<ul>
+  <li><strong>Hlasitosť a stlmenie jednotlivých aplikácií</strong> — zdieľanú základnú líniu poskytujú obe aplikácie.</li>
+  <li><strong>ZVÝŠENIE hlasitosti jednotlivých aplikácií</strong> — posuňte príliš tichú aplikáciu nad 100 %. Užitočné pre aplikácie so slabým zvukovým výstupom, kde stíšenie ostatných stále nestačí.</li>
+  <li><strong>Objemové profily</strong> — uložte celé mixy („Stretnutie“, „Zameranie“, „Hry“) a prepínajte jedným kliknutím namiesto toho, aby ste zakaždým prepínali.</li>
+  <li><strong>Auto-ducking</strong> — automaticky zníži aplikácie na pozadí, keď hovoríte alebo keď sa zvolená aplikácia aktivuje, takže hovory sa prerušia bez manuálneho hrania.</li>
+  <li><strong>Rýchle prepínanie výstupov</strong> — skok medzi reproduktormi, slúchadlami a inými výstupmi z panela ponuky.</li>
+</ul>
+
+<p>Rovnako dôležité je <em>ako</em> odosiela sa. SoundDial je izolovaný a distribuovaný cez Mac App Store – žiadne samostatné DMG, žiadne ovládače jadra, žiadna inštalácia ovládača zvuku. Aktualizácie prichádzajú cez App Store ako ktorákoľvek iná aplikácia a je tu skutočný vývojár, ktorý vám pošle e-mail, keď niečo nie je v poriadku. To je konkrétna hodnota 14,99 EUR: nielen viac funkcií, ale niekto zodpovedný za to, aby fungovali vo všetkých vydaniach macOS.</p>
+
+<h2>Úprimné upozornenie, ktoré platí pre oboch</h2>
+
+<p>Žiadna aplikácia tretej strany nemôže urobiť zo zvukového systému macOS Windows' Volume Mixer, pretože Apple nevystavuje čisté verejné API pre zvuk pre jednotlivé aplikácie. Každý nástroj v tejto kategórii – bezplatný alebo platený, otvorený alebo zatvorený – obchádza toto obmedzenie pomocou zvukových techník na úrovni systému. To znamená, že FineTune aj SoundDial môžu byť ovplyvnené veľkými zmenami zvuku macOS. Rozdiel je v tom, kto je zodpovedný za následnú opravu: dobrovoľnícka komunita alebo platený predajca, od ktorého závisí produkt.</p>
+
+<h2>Ktoré by ste si mali vybrať?</h2>
+
+<ul>
+  <li><strong>Vyberte FineTune, ak</strong> chcete nulové náklady, ceníte si transparentnosť open source, potrebujete iba základný objem pre jednotlivé aplikácie a pohodlne sa inštalujú mimo App Store a sú samonosné, keď sa veci pokazia.</li>
+  <li><strong>Vyberte SoundDial, ak</strong> chcete inštaláciu App Store na jedno kliknutie, doplnky ako boost, profily a auto-ducking a ubezpečenie o aktualizáciách a podpore od predajcu s skinom v hre.</li>
+</ul>
+
+<p>Obidve sú platné. Skutočne záleží na tom, či by ste radšej míňali peniaze alebo venovali pozornosť. Ak by ste si radšej kúpili podporovanú aplikáciu v karanténe a už o tom nikdy nepremýšľali, <a href="https://apps.apple.com/app/id6772792641">získajte SoundDial na Mac App Store</a> za jednorazových 14,99 EUR — žiadne predplatné, žiadne ovládače, žiadne DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Stačí bezplatný mixér hlasitosti Mac?",
+    description: "Spravodlivý súboj medzi bezplatnou aplikáciou Background Music a platenou aplikáciou SoundDial. Kde funguje bezplatný prístup pomocou virtuálnych ovládačov, kde sa zlomí a kedy sa oplatí natívny mixér v hodnote 14,99 €.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Background Music je zadarmo a skutočne dobrý v základoch: dáva každej aplikácii vlastný posuvník hlasitosti a dokáže automaticky pozastaviť hudbu, keď hrá iná aplikácia. Ak je to všetko, čo potrebujete, použite to. Spolieha sa však na virtuálny zvukový ovládač, ktorý sa môže po aktualizáciách macOS pokaziť a chýba mu podpora pre jednotlivé aplikácie, profily a prepínanie výstupov. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> vymení peniaze za podporovanú alternatívu bez ovládača, izolovanú v karanténe.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: Stačí bezplatný mixér hlasitosti Mac?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Po prvé, úprimná pravda o macOS</h2>
+<p>macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows má jeden už viac ako desať rokov vo svojom Volume Mixer, ale na Mac posúva systémový posuvník všetko naraz. Neexistuje žiadne rozhranie API podporované spoločnosťou Apple, ktoré by aplikácii tretej strany umožňovalo čisto zachytávať a vyvažovať jednotlivé prúdy aplikácií. Táto jediná medzera je dôvodom, prečo nástroje ako Background Music a SoundDial vôbec existujú a je hlavnou príčinou väčšiny kompromisov uvedených nižšie.</p>
+
+<h2>Čo robí Background Music dobre</h2>
+<p>Background Music je open source aplikácia s panelom s ponukami, ktorá existuje už roky a má lojálnych fanúšikov z dobrého dôvodu. Poskytuje vám:</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — základná vlastnosť. Otočte Spotify nadol a hovor nechajte nahlas.</li>
+<li><strong>Automatické pozastavenie</strong> — môže pozastaviť váš hudobný prehrávač, keď sa zvuk spustí inde, čo je príjemné na stretnutia.</li>
+<li><strong>Hlasitosť zariadenia, ktorá vás sleduje</strong> a jednoduché, nezmyselné rozhranie.</li>
+<li><strong>Nulové náklady</strong> — je zadarmo a kód je verejný.</li>
+</ul>
+<p>Pre veľa ľudí to stačí. Ak je celý váš zoznam želaní „urob jednu hlučnú aplikáciu tichšiu bez toho, aby ste sa dotkli ostatných“, Background Music to pokrýva a nemali by ste platiť za niečo, čo nepotrebujete. Na férovosti tu záleží: ide o legitímne užitočný nástroj.</p>
+
+<h2>Kde voľný prístup ukazuje svoje švy</h2>
+<p>Háčik je v tom <em>ako</em> Background Music dosahuje objem na aplikáciu. Pretože macOS neposkytuje žiadnu oficiálnu cestu, nainštaluje virtuálny zvukový ovládač (upravená verzia starého prístupu Soundflower), ktorý vedie váš systémový zvuk cez seba. Táto architektúra je šikovná, ale prináša skutočné náklady:</p>
+<ul>
+<li><strong>Po aktualizáciách macOS sa pokazí.</strong> Virtuálne zvukové ovládače sú hlboko v systéme a hlavné vydania macOS ich historicky deaktivovali alebo destabilizovali. Používatelia bežne hlásia ticho, skreslenie alebo potrebu opätovnej inštalácie po inovácii. Keď sa to zlomí, často ste na to sami.</li>
+<li><strong>Inštalácia je ťažšia.</strong> Do svojho Mac pridávate zvukové zariadenie susediace s jadrom, nielen aplikáciu. Čisté odinštalovanie môže byť nešikovné.</li>
+<li><strong>Stane sa vaším predvoleným výstupným zariadením.</strong> Pretože je všetko smerované cez virtuálne zariadenie, niektoré pro-audio, konferenčné alebo herné aplikácie sa môžu správať zvláštne a prepínanie vášho skutočného výstupu je krok navyše.</li>
+<li><strong>Vývoj ide tempom komunity.</strong> Neexistuje žiadny podporný stôl. Opravy prichádzajú, keď má dobrovoľník čas, čo je pre zvukový nástroj, ktorý môže náhle stíšiť, zmysluplné riziko.</li>
+</ul>
+<p>Nič z toho nerobí Background Music zlým. To z neho robí bezplatný nástroj s výhodami bezplatného nástroja.</p>
+
+<h2>Za čo vlastne platíte so SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je aplikácia Mac App Store, ktorá formuje to, čo to je. Pretože aplikácie App Store sú izolované a nemôžu dodávať druh nízkoúrovňového virtuálneho ovládača, ktorý používa Background Music, SoundDial je skonštruovaný tak, aby fungoval bez inštalácie samostatného zvukového zariadenia alebo DMG. To znamená:</p>
+<ul>
+<li><strong>Žiadne vtipy s virtuálnym ovládačom.</strong> Neexistuje žiadne ďalšie výstupné zariadenie, ktoré by zneškodnilo váš zvukový reťazec, a nie je potrebné nič preinštalovať, keď sa systém zmení.</li>
+<li><strong>Aktualizácie macOS prežíva oveľa elegantnejšie.</strong> Distribúcia App Store a karanténa znamenajú, že je postavená na podporovaných cestách a aktualizuje sa prostredníctvom obchodu, takže je oveľa menej pravdepodobné, že by vás inovácia operačného systému nechala ticho.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie.</strong> Toto je skutočný rozdiel funkcií: SoundDial môže tlačiť aplikáciu <em>vyššie</em> 100 % pre tiché zdroje – podcast nahraný príliš nízko, tlmený videohovor. Background Music iba tlmí.</li>
+<li><strong>Objemové profily.</strong> Uložte si množinu úrovní pre jednotlivé aplikácie ("Stretnutie", "Hudba", "Hry") a prepínajte jedným kliknutím namiesto toho, aby ste zakaždým posúvali posúvače.</li>
+<li><strong>Auto-ducking.</strong> Automaticky znížte hlasitosť iných aplikácií pri prehrávaní zvoleného zdroja – lepšie konfigurovateľné riešenie myšlienky automatického pozastavenia.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> zapečené do panela s ponukami a stlmenie pre jednotlivé aplikácie.</li>
+<li><strong>Skutočná podpora.</strong> Je to platený produkt s niekým zodpovedným, keď sa niečo pokazí.</li>
+</ul>
+
+<h2>Úprimné rozhodnutie</h2>
+<blockquote>Ak chcete zadarmo a potrebujete iba základný objem pre jednotlivé aplikácie a po aktualizáciách macOS vám vyhovuje riešenie problémov, Background Music je solídna voľba. Ak chcete podporu, profily, zmenšovanie, prepínanie výstupov, žiadnu krehkosť virtuálneho ovládača a niekoho, komu by ste chceli poslať e-mail, keď sa pokazí, SoundDial má hodnotu 14,99 EUR.</blockquote>
+<p>Niekoľko konkrétnych tajbrejkov. Ak sa pravidelne stretávate s príliš tichými zdrojmi, samotné zosilnenie ospravedlňuje cenu – Background Music jednoducho nedokáže urobiť zvuk hlasnejším ako zdroj. Ak sa obávate každoročného hazardu „prežije môj zvuk aktualizáciu“, aplikácia sandboxed store túto úzkosť odstráni. Ak máte radi scény s nastavením a zabudnutím, profily ušetria skutočné trenie. A ide o jednorazovú sumu 14,99 EUR, nie o predplatné, takže porovnanie predstavuje jeden nákup oproti času strávenému údržbou bezplatného ovládača.</p>
+<p>Naopak, ak ste drotár, ktorý má rád open source, chce si prečítať kód a väčšinou len vypne jednu aplikáciu – ušetrite peniaze. Oba nástroje riešia rovnaký základný problém; líšia sa robustnosťou, hĺbkou funkcií a tým, kto vás chytí, keď sa pod nimi zmení macOS.</p>
+
+<p>Chcete objem jednotlivých aplikácií bez hazardu s virtuálnym ovládačom? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> — jednorazová cena 14,99 EUR, v karanténe, bez ovládačov, so zabudovaným vylepšením, profilmi a automatickým sklopením.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "Stojí SoundSource za 39 dolárov? Lacnejšia jednorazová alternatíva Mac",
+    description: "SoundSource je výkonný zvukový nástroj Mac za cenu ~ 39 USD, ale je to prehnané, ak potrebujete iba hlasitosť a zvýšenie hlasitosti jednotlivých aplikácií. Tu je úprimné porovnanie a jednorazová alternatíva za 14,99 EUR.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>SoundSource stojí za to, ak potrebujete kompletnú súpravu nástrojov: hlasitosť na aplikáciu, 10-pásmový ekvalizér na aplikáciu, smerovanie zvuku medzi zariadeniami a efekty pre celý systém. Ale za približne 39 dolárov je to prehnané, ak chcete hlavne objem na aplikáciu, stlmenie zvuku na aplikáciu a zvýšenie hlasitosti. Pre tú užšiu prácu, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> stojí 14,99 € raz.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Stojí SoundSource 39 dolárov? Lacnejšia jednorazová alternatíva Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Čo vlastne SoundSource robí</h2>
+<p>Rogue Amoeba SoundSource je skutočne vynikajúci softvér a je dôležité byť v tomto spravodlivý. Nie je to len objemový mixér. Poskytuje vám:</p>
+<ul>
+<li><strong>Ovládanie hlasitosti podľa aplikácie</strong> z panela s ponukami, funkcia, pre ktorú prichádza väčšina ľudí.</li>
+<li><strong>Plný 10-pásmový ekvalizér</strong> môžete použiť na aplikáciu alebo celý systém, plus ďalšie zvukové efekty (prostredníctvom doplnkov Audio Unit).</li>
+<li><strong>Smerovanie výstupu/vstupu</strong>vrátane odoslania jednej aplikácie na iné výstupné zariadenie ako zvyšok systému.</li>
+<li><strong>Rýchle prepínanie zariadení</strong> a predvoľby EQ špecifické pre slúchadlá.</li>
+</ul>
+<p>Ak ste podcaster, streamer alebo audio blbec, ktorý chce vyladiť ekvalizér na svojich slúchadlách, presmerovať zvuk jednej aplikácie do samostatného reproduktora alebo naskladať efekty zvukovej jednotky, SoundSource zarába svoju cenu. Nič tu na to neklepe.</p>
+
+<h2>Otázka ceny</h2>
+<p>SoundSource je platená, jednorazová licencia okolo 39 USD (cena sa líši podľa verzie a akcií). Nejde o opakujúce sa predplatné v zmysle Netflixu, ale riadi sa klasickým vzorom platenej aplikácie: kúpite si hlavnú verziu a budúce veľké inovácie sú zvyčajne zľavnené platené aktualizácie, a nie navždy zadarmo. Za niekoľko rokov je to viac ako jeden nákup. Pre mnohých používateľov Mac je úprimná otázka: platím 39 dolárov za súpravu smerovania a ekvalizéra, keď všetko, čoho sa skutočne dotýkam, sú posúvače hlasitosti jednotlivých aplikácií?</p>
+
+<blockquote>Ak ste otvorili SoundSource a používali ste iba posúvače hlasitosti a tlačidlá stlmenia, platíte za sadu, aby ste mohli používať jednu zásuvku.</blockquote>
+
+<h2>Prečo problém vôbec existuje</h2>
+<p>Tu je úprimná hlavná príčina: macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie. Windows ho má už roky, ale na Mac je systémová hlasitosť všetko alebo nič. Neexistuje žiadny spôsob od spoločnosti Apple, ako udržať Spotify tichý, zatiaľ čo videohovor zostáva hlasný, alebo ako stlmiť jednu aplikáciu bez toho, aby ste sa dotkli všetkých ostatných. Táto medzera je presne dôvodom, prečo nástroje ako SoundSource a <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> existujú. Je to skutočné obmedzenie operačného systému, nie niečo, čo by niektorá z aplikácií vymyslela ako problém na vyriešenie.</p>
+
+<h2>Kde sa hodí ľahšia, lacnejšia možnosť</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je panel s ponukami pre jednotlivé aplikácie, ktorý bol vytvorený skôr pre bežný prípad než pre prípad pre audio. Zahŕňa:</p>
+<ul>
+<li><strong>Nezávislý objem na aplikáciu</strong> — pustite hudbu, kým schôdza zostane na plnej úrovni.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> — stíšiť jednu aplikáciu bez stlmenia Mac.</li>
+<li><strong>Zvýšenie hlasitosti podľa aplikácie</strong> — posuňte tichú aplikáciu nad jej normálnych 100 %, keď je zdroj príliš mäkký.</li>
+<li><strong>Objemové profily</strong> – uložte si sadu úrovní pre jednotlivé aplikácie (napr. rozloženie „zameranie“ alebo „hovor“) a prepínajte jedným kliknutím.</li>
+<li><strong>Auto-ducking</strong> — automaticky zníži ostatné aplikácie, keď začnete hovoriť alebo keď sa prehrá vybratá aplikácia.</li>
+<li><strong>Rýchle prepínanie výstupov</strong> — preskakovanie medzi reproduktormi, slúchadlami a inými zariadeniami z panela ponuky.</li>
+</ul>
+<p>to je <strong>14,99 € jednorazovo</strong>, predáva sa prostredníctvom Mac App Store, takže je v karanténe a nie je potrebné inštalovať žiadne samostatné DMG, žiadne rozšírenie jadra a žiadny zvukový ovládač. Stiahnete si ju ako ktorúkoľvek aplikáciu App Store a aktualizuje sa cez obchod.</p>
+
+<h2>Úprimné porovnanie</h2>
+<p>Majte jasné oči ohľadom kompromisu. SoundSource dokáže viac ako SoundDial a ak vám na niektorom z nasledujúcich záleží, SoundSource je lepšia kúpa:</p>
+<ul>
+<li>Chcete skutočnú aplikáciu alebo systém <strong>ekvalizér</strong> a efekty Audio Unit.</li>
+<li>Musíte <strong>nasmerovať jednu aplikáciu do iného výstupného zariadenia</strong> než všetko ostatné.</li>
+<li>Spoliehate sa na <strong>predvoľby EQ špecifické pre slúchadlá</strong> a jemnozrnné spracovanie zvuku.</li>
+</ul>
+<p>SoundDial nevykonáva EQ ani smerovanie zariadení podľa aplikácie. Je zámerne užší. Na oplátku vám prináša nižšiu cenu, ľahší pôdorys a sústredené rozhranie panela s ponukami pre to, čo väčšina ľudí skutočne chcela: udržanie každej aplikácie na úrovni, ktorú si vyberiete, s podporou a profilmi navrchu.</p>
+
+<h2>Takže, stojí SoundSource za to?</h2>
+<p>Áno, ak použijete EQ a smerovanie. Je to vyspelý, dobre podporovaný softvér od uznávaného vývojára a cena odráža skutočné schopnosti. Ale "stojí za to" závisí od toho, čoho sa dotknete. Ak otvoríte aplikáciu a upravíte len posuvné ovládače hlasitosti, stlmíte aplikáciu alebo si želáte, aby bola jedna tichá aplikácia hlasnejšia, platíte prémiové peniaze za základné potreby mixéra. V takom prípade je rozumnejším riešením jednorazový nástroj v hodnote 14,99 EUR a vždy môžete prejsť na SoundSource neskôr, ak vaše potreby prerastú do EQ a smerovania.</p>
+
+<p>Ak vám ide iba o hlasitosť, zosilnenie, stlmenie zvuku, profily a automatické stlmenie jednotlivých aplikácií, <a href="https://apps.apple.com/app/id6772792641">získajte SoundDial na Mac App Store</a> — 14,99 EUR raz, bez predplatného, bez ovládačov.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Príliš hlasné na Mac? Vypnite jeden prehliadač bez stlmenia všetkého",
+    description: "Chrome je hlasnejšie ako vaše ostatné aplikácie na Mac? Naučte sa vstavané opravy (stlmenie jednotlivých kariet, nastavenia zvuku lokality) a ako nastaviť skutočnú hlasitosť pre jednotlivé aplikácie pre Chrome, aby zostal tichší ako všetko ostatné.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá vstavanú hlasitosť pre jednotlivé aplikácie, takže nemôžete natívne vypnúť Chrome a ostatné aplikácie ponechať na plnej hlasitosti. Najrýchlejšie bezplatné opravy sú stlmenie hlučných kariet, zníženie hlasitosti v každom prehrávači videa alebo blokovanie zvuku pre jednotlivé stránky v nastaveniach Chrome. Pre skutočnú a trvalú úroveň hlasitosti iba Chrome potrebujete mixér pre jednotlivé aplikácie.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Príliš hlasné na Mac? Vypnite jeden prehliadač bez stlmenia všetkého" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo Chrome znie hlasnejšie ako všetko ostatné</h2>
+<p>Chrome nie je nevyhnutne „hlasnejšie“ z hľadiska dizajnu – ide o to, že Chrome smeruje zvuk z mnohých nezávislých zdrojov: YouTube, automaticky sa prehrávajúce reklamy, videohovory, karty s hudbou na pozadí a webové aplikácie, z ktorých každá dodáva svoju vlastnú hlasitosť. Niektoré stránky sú ovládané horúco, reklamy sú notoricky hlasné a Chrome ich všetky prehráva na plnej výstupnej úrovni vášho systému. Vaša hudobná aplikácia alebo hovor môžu byť tichšie, takže mixu dominuje Chrome.</p>
+<p>Na Windows by ste jednoducho otvorili Volume Mixer a potiahli posúvač Chrome nadol. macOS jednoducho túto funkciu neobsahuje. Systémové tlačidlo hlasitosti ovláda všetko naraz, takže otočením Chrome nadol sa zníži aj vaša hudba, upozornenia a hovory. To je hlavné obmedzenie – a je to medzera v operačnom systéme, nie niečo, čo robíte zle.</p>
+
+<h2>Vstavané opravy, ktoré nič nestoja</h2>
+<p>Pred inštaláciou čohokoľvek vyskúšajte tieto. Neposkytnú vám ani jeden ovládač hlasitosti Chrome, ale vyriešia väčšinu problémov s „jedným hlasným tabulátorom“.</p>
+<ul>
+<li><strong>Stlmiť hlučnú kartu.</strong> Kliknite pravým tlačidlom myši na kartu a vyberte možnosť „Stlmiť stránku“ alebo kliknite na malú ikonu reproduktora, ktorá sa zobrazí na karte prehrávajúcej zvuk. Toto stíši túto kartu úplne bez toho, aby ste sa dotkli zvyšku Chrome.</li>
+<li><strong>Znížte hlasitosť vo vnútri prehrávača.</strong> Najspoľahlivejší trik: potiahnite posúvač hlasitosti nadol vo vnútri YouTube, Netflix alebo čohokoľvek, čo sa prehráva. Weboví hráči si pamätajú svoju vlastnú úroveň pre každú stránku, takže tichší YouTube zostane tichý aj nabudúce.</li>
+<li><strong>Blokovať zvuk pre jednotlivé stránky.</strong> Prejsť na <em>chrome://settings/content/sound</em>. Stránky môžete prepínať medzi „povolenými“ a „stlmenými“ a pridať konkrétne domény do zoznamu ignorovaných. Skvelé na trvalé stíšenie stránok, ktoré sa automaticky prehrávajú.</li>
+<li><strong>Zabiť automaticky prehrávané reklamy.</strong> Zvuk reklamy je často skutočným vinníkom. Blokovanie obsahu alebo stlmenie karty, kým nebudete pripravení pozerať, odstráni väčšinu prekvapení hlasitosti.</li>
+</ul>
+<blockquote>Tieto sú skutočne užitočné a bezplatné. Všimnite si však, čo nedokážu: stlmia alebo spravujú jednotlivé karty. Žiadna z nich vám nedovolí povedať „udržať všetky Chrome na 40 %, kým moja hudba zostane na 100 %.</blockquote>
+
+<h2>Úprimné obmedzenie: žiadny objem na aplikáciu v macOS</h2>
+<p>Ak je vaším skutočným cieľom „Chrome by mal byť vždy tichší ako moje ostatné aplikácie“, vstavané nástroje zaostávajú. Stlmenie pre jednotlivé karty je všetko alebo nič. Posuvníky prehrávača sa resetujú, keď si ich stránka nepamätá a musia sa neustále opakovať. A systémová hlasitosť presúva všetko dohromady.</p>
+<p>Toto je skutočné obmedzenie macOS, nie chyba, ktorú môžete nakonfigurovať. Spoločnosť Apple nikdy nedodala objemový mixér v štýle Windows. Jediným spôsobom, ako získať trvalú, nezávislú úroveň hlasitosti konkrétne pre Chrome, je aplikácia tretej strany, ktorá je umiestnená medzi vašimi aplikáciami a výstupným zariadením a aplikuje zisk na aplikáciu.</p>
+
+<h2>Nastavte skutočný objem na aplikáciu pre Chrome</h2>
+<p>Menu-bar mixér ako <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dáva macOS ovládanie hlasitosti podľa aplikácie, ktoré chýba. Obsahuje zoznam všetkých aplikácií, ktoré práve prehrávajú zvuk, a každej z nich dáva vlastný posuvník – takže môžete Chrome stiahnuť na pohodlnú úroveň a nechať Spotify, vaše hovory a systémové zvuky presne tam, kde sú.</p>
+<p>Tu je návod, ako by ste s ním skrotili hlasný Chrome:</p>
+<ul>
+<li>Otvorte panel s ponukami a nájdite Chrome v zozname aktívnych aplikácií.</li>
+<li>Potiahnite posúvač Chrome nadol, povedzme, na 40 až 50 percent. Ostatné aplikácie zostanú nedotknuté.</li>
+<li>Ak je to aj konkrétna aplikácia <em>ticho</em> namiesto toho — aplikáciu na volanie, ktorá šepká — použite <a href="https://apps.apple.com/app/id6772792641">zvýšenie hlasitosti na aplikáciu</a> posunúť ju nad 100 percent a zároveň udržať nízku hodnotu Chrome.</li>
+<li>Okamžite stlmte zvuk Chrome pomocou stlmenia pre každú aplikáciu, keď potrebujete ticho bez zatvárania kariet.</li>
+</ul>
+<p>Pretože je úroveň viazaná na aplikáciu, drží sa. Chrome zostáva na zvolenej hlasitosti na kartách, stránkach a reštartoch – žiadne opätovné presúvanie posúvačov prehrávača pri každom otvorení nového videa.</p>
+
+<h2>Ideme ešte ďalej: profily, klesanie a prepínanie výstupov</h2>
+<p>Akonáhle budete mať ovládanie pre jednotlivé aplikácie, oplatí sa mať pri sebe niekoľko doplnkov. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> umožňuje ušetriť hlasitosť <strong>profilov</strong> — napríklad profil „zaostrenia“, kde je Chrome tichý a hudba hlasná, a profil „sledovania“, v ktorom dominuje Chrome – a prepínať medzi nimi jediným kliknutím. Automatické sklopenie môže automaticky vypnúť ďalšie aplikácie pri spustení zvoleného zdroja (praktické, takže hovor nikdy nie je skrytý pod hlasnou kartou prehliadača). A rýchle prepínanie výstupov vám umožní preskakovať medzi reproduktormi, slúchadlami a inými zariadeniami bez toho, aby ste museli prejsť do nastavení systému.</p>
+<p>Je to 14,99 EUR jednorazový nákup na Mac App Store – žiadne predplatné, žiadne ovládače na inštaláciu, žiadne DMG alebo rozšírenie jadra. Pretože je to sandboxované a distribuované cez App Store, nevyžaduje, aby útržkovitý zvukový ovládač inštaloval staršie mixážne nástroje, na ktoré sa spolieha.</p>
+
+<h2>Ktorú opravu by ste mali použiť?</h2>
+<p>Ak máte občas len jednu nepríjemnú kartu, použite vstavané stlmenie zvuku Chrome a nastavenia zvuku stránky – sú zadarmo a fungujú. Ak si neustále želáte, aby sa Chrome jednoducho stíšil, zatiaľ čo všetko ostatné zostalo na mieste, to je presná medzera, ktorú macOS necháva otvorenú a mixér pre jednotlivé aplikácie je čistým riešením.</p>
+
+<p>Chcete Chrome trvalo tichšie bez stlmenia hudby alebo hovorov? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a dať každej aplikácii vlastný posuvník hlasitosti.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "Oznámenie WhatsApp a Telegram znie na Mac príliš hlasno? Odmietnite ich",
+    description: "Opravte zvuky upozornení na pracovnej ploche WhatsApp a Telegram, ktoré sú na vašom Mac príliš hlasné. Začnite so vstavanými nastaveniami každej aplikácie a potom znížte alebo stlmte celú aplikáciu, keď vám macOS neposkytne žiadnu kontrolu pre jednotlivé aplikácie.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>Začnite v každej aplikácii: WhatsApp a Telegram vám umožňujú stlmiť alebo zmeniť zvuky upozornení v ich vlastných nastaveniach, čo je najčistejšia oprava. macOS však nemá posúvač hlasitosti upozornení pre jednotlivé aplikácie, takže ak je vlastný zvuk aplikácie stále príliš hlasný, vašou jedinou skutočnou pákou je znížiť alebo stlmiť zvuk celej aplikácie pomocou nástroja na nastavenie hlasitosti pre jednotlivé aplikácie.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Upozornenie WhatsApp &amp; Telegram znie na Mac príliš hlasno? Odmietnite ich" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Najprv použite vlastné nastavenia upozornení aplikácie</h2>
+
+<p>WhatsApp aj Telegram dodávajú svoje vlastné ovládacie prvky zvuku a tu by ste mali vždy začať. Je to najpresnejšia oprava a nedotýka sa ničoho iného na vašom Mac.</p>
+
+<p><strong>WhatsApp Desktop:</strong> Otvorte WhatsApp, kliknite <em>Nastavenia</em> (ikona ozubeného kolieska), potom <em>Upozornenia</em>. Môžete vypnúť <em>Zvuky</em> úplne pri zachovaní bannerov alebo zakázať náhľady upozornení. WhatsApp neponúka posuvník hlasitosti, takže je v podstate zapnutý alebo vypnutý pre samotný zvuk.</p>
+
+<p><strong>Telegram Desktop:</strong> Otvorte <em>Nastavenia → Upozornenia a zvuky</em>. Telegram je tu flexibilnejší. Zvuk upozornení môžete globálne vypnúť, stlmiť jednotlivé chaty alebo nastaviť vlastné (tichšie) tóny. Môžete tiež stíšiť jednu hlučnú skupinu tak, že ju otvoríte a vyberiete <em>Stlmiť</em>. Pre väčšinu ľudí stlmenie najhlasnejších rozhovorov vyrieši problém bez toho, aby všade stíchli.</p>
+
+<p>Ak je zvuk v poriadku, ale príliš častý, vypnite konkrétne chaty alebo kanály, ktoré sa spúšťajú najčastejšie, namiesto zabíjania zvuku v celej aplikácii. Vďaka tomu budú dôležité upozornenia počuť.</p>
+
+<h2>Vypnite zvuky upozornení v nastaveniach systému macOS</h2>
+
+<p>macOS má druhú vrstvu ovládania, ktorá v niektorých prípadoch prepíše aplikáciu. Prejsť na <em>Systémové nastavenia → Upozornenia</em>, v zozname vyberte WhatsApp alebo Telegram a vypnite <em>Prehrať zvuk pre upozornenia</em>. Tým sa stlmí výstražný signál pre danú aplikáciu, pričom sa budú stále zobrazovať bannery.</p>
+
+<p>Toto je skutočne dobrá oprava, ak chcete, aby bola aplikácia tichá iba pri upozorneniach a nestarali sa o jej ďalší zvuk (hovory, video). V kombinácii s vlastnými nastaveniami aplikácie pokrýva väčšinu sťažností typu „ping je nepríjemný“.</p>
+
+<h2>Skutočné obmedzenie: macOS nemá objem pre jednotlivé aplikácie</h2>
+
+<p>Tu je úprimná časť. Vyššie uvedené kroky predstavujú vypínače. Čo nemôžu urobiť, je otočiť WhatsApp alebo Telegram <em>dole</em> na, povedzme, 40 % pri zachovaní plnej hlasitosti. Windows má už roky mixážny pult pre jednotlivé aplikácie. macOS jednoducho jeden neobsahuje a neexistuje žiadne skryté nastavenie ani príkaz Terminal, ktorý by ho pridal.</p>
+
+<p>To je dôležité, keď problémom nie je konkrétne zvonenie upozornení, ale príliš hlasná celá aplikácia:</p>
+
+<ul>
+<li>WhatsApp alebo Telegram <strong>hlasové hovory a videohovory</strong> že zvuk na plnej hlasitosti vzhľadom na vašu hudbu alebo stretnutie</li>
+<li>Zvuk upozornenia, ktorý chcete ponechať, ale na nižšej úrovni, nie úplne vypnutý</li>
+<li>Vyzváňacie tóny, ktoré výrazne prevyšujú čokoľvek iné, čo počúvate</li>
+<li>Chcete, aby bola aplikácia počuteľná, ale potichu na pozadí, zatiaľ čo sa sústredíte na niečo iné</li>
+</ul>
+
+<p>Nič z toho nie je riešiteľné vstavanými nástrojmi, pretože ponúkajú iba stlmenie, nie úroveň. Táto medzera je skutočným obmedzením macOS, nie niečo, čo vám chýba.</p>
+
+<h2>Nastavte hlasitosť pre jednotlivé aplikácie pomocou SoundDial</h2>
+
+<p>Ak chcete namiesto vypnutia vypnúť jednu aplikáciu, potrebujete mixér hlasitosti pre jednotlivé aplikácie. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je aplikácia na paneli s ponukami, ktorá poskytuje macOS ovládanie hlasitosti pre jednotlivé aplikácie, s ktorým nikdy nebolo dodané. Uvádza zoznam všetkých aplikácií, ktoré práve prehrávajú zvuk, a každej z nich dáva vlastný posuvník.</p>
+
+<p>Pre tento konkrétny problém:</p>
+
+<ul>
+<li>Otvorte <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z panela s ponukami a v zozname nájdite WhatsApp alebo Telegram.</li>
+<li>Potiahnite jeho posúvač nadol na pohodlnú úroveň, napríklad 30–40 %, pričom svoju hudbu, prehliadač alebo videohovor ponechajte nedotknuté.</li>
+<li>Použite jednotlivé aplikácie <strong>stlmiť</strong> tlačidlo na okamžité stlmenie tejto aplikácie počas hovoru alebo schôdze a následné zapnutie zvuku neskôr bez prehrabávania sa v nastaveniach.</li>
+<li>Ak by ste niekedy potrebovali opak, tichú aplikáciu, ktorá je príliš mäkká, pre každú aplikáciu <strong>posilniť</strong> môže to posunúť nad 100%.</li>
+</ul>
+
+<p>Pretože nastavuje úroveň pre každú aplikáciu, SoundDial ponecháva zvonenie upozornení a zvuk hovoru počuteľný, ale primeraný, namiesto voľby všetko alebo nič, ktorú na vás nútia vstavané možnosti. Môžete tiež ušetriť <strong>objemové profily</strong>, takže nastavenie „zamerania“, ktoré udržiava chatové aplikácie na nízkej úrovni, je dostupné jediným kliknutím.</p>
+
+<blockquote>Jedno úprimné upozornenie: Znížením celkovej hlasitosti aplikácie v SoundDial sa zníži aj jej zvonenie upozornení, pretože v prípade macOS ide o zvuk tej istej aplikácie. Ak chcete, aby boli upozornenia úplne vypnuté, ale hovory s plnou hlasitosťou, použite vlastné stlmenie aplikácie plus systémové nastavenia pre zvonček a na nastavenie všeobecnej úrovne si vyhraďte SoundDial.</blockquote>
+
+<p>SoundDial je jednorazový nákup za 14,99 EUR na Mac App Store, v karanténe, bez predplatného, bez ovládačov jadra a bez DMG na bočné načítanie. Je to praktická odpoveď, keď oprava, ktorú skutočne chcete, vypnutie jednej aplikácie namiesto vypnutia, nie je niečo, čo macOS dokáže sám.</p>
+
+<h2>Ktorú opravu by ste mali použiť?</h2>
+
+<p>Pracujte zhora nadol. Najprv vyskúšajte vlastné nastavenia upozornení aplikácie a potom macOS System Settings, aby ste ukončili zvonenie. Ak skutočne chcete znížiť hlasitosť WhatsApp alebo Telegram na konkrétnu hlasitosť, alebo stlmiť iba túto aplikáciu za behu počas hovorov, tu si svoje miesto zasluhuje mixpult pre jednotlivé aplikácie.</p>
+
+<p>Už vás nebaví vyberať si medzi plným výbuchom a úplným tichom pre vaše chatovacie aplikácie? <a href="https://apps.apple.com/app/id6772792641">Získajte SoundDial na Mac App Store</a> a dať každej aplikácii vlastný ovládač hlasitosti.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Zvuk hry hlasnejší ako Discord na Mac? Ako vyvážiť hlasitosť hry a hlasu",
+    description: "Vaša hra prehlušuje hlasový chat Discord na Mac a nie je tu žiadny vstavaný mixér hlasitosti. Tu je dôvod, prečo macOS postráda hlasitosť jednotlivých aplikácií v štýle Windows a ako vypnúť hru a zároveň zachovať hlasitosť.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá vstavaný mixér hlasitosti pre jednotlivé aplikácie, takže nemôžete natívne obmedziť hru a zároveň nechať Discord nahlas. Oprava je aplikácia na paneli s ponukami, ktorá nastavuje nezávislú hlasitosť pre každú aplikáciu. Znížte hru na 40 – 50 %, ponechajte hlasový rozhovor na 100 % a obe zostanú vyvážené bez toho, aby ste sa dotkli posúvačov v hre.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Zvuk hry hlasnejší ako Discord na Mac? Ako vyvážiť hlasitosť hry a hlasu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo sa to deje na Mac (a nie na Windows)</h2>
+
+<p>Ak ste hrali na Windows, poznáte mixér hlasitosti: kliknite pravým tlačidlom myši na ikonu reproduktora a každá spustená aplikácia dostane svoj vlastný posúvač. Zahodíte hru, zvýšite Discord, hotovo. macOS túto funkciu jednoducho nikdy nedodával. V systémových nastaveniach je uložený jeden hlavný výstupný objem a niekoľko prepínačov na úrovni aplikácie, ale pre ľubovoľné aplikácie nie je možné ovládať úroveň jednotlivých aplikácií.</p>
+
+<p>Takže keď je mix hry hotový, jeho explózie, hudba a streľba sa ozývajú na rovnakej výstupnej úrovni ako hlasy vašich priateľov. Niektoré hry odhaľujú hlavný posuvník hlasitosti, ale veľa z nich nie je dostatočne nízke a mnohé spúšťače, prehliadače a samostatné tituly neponúkajú žiadne užitočné ovládanie. Samotný Discord vám umožňuje upravovať iba hlasitosť prichádzajúcich používateľov, nie hru, ktorá im konkuruje.</p>
+
+<p>Úprimne povedané, ide o medzeru na úrovni operačného systému, nie o chybu, ktorú môžete odstrániť. Zvukový zásobník spoločnosti Apple smeruje všetko do jedného výstupného toku a neexistuje žiadne používateľské rozhranie prvej strany, ktoré by to rozdelilo podľa aplikácie. Preto potrebujete nástroj tretej strany, ktorý je umiestnený medzi vašimi aplikáciami a výstupným zariadením.</p>
+
+<h2>Manuálne riešenia (a prečo chýbajú)</h2>
+
+<p>Než siahnete po softvéri, stojí za to poznať bezplatné možnosti a ich limity:</p>
+
+<ul>
+<li><strong>Znížte hlasitosť hry v aplikácii.</strong> Funguje, ak má hra hlavný posuvník s dostatočne jemnými krokmi. Mnohé sa zastavia na 10% prírastkoch alebo spájajú hudbu a efekty, takže nemôžete skrotiť len hlasné časti.</li>
+<li><strong>Vychovávajte svojich priateľov v Discord.</strong> Kliknite pravým tlačidlom myši na každého používateľa a zvýšte jeho hlasitosť. To trochu pomáha, ale vylepšuje to a nedotýka sa hry, v ktorej je vlastne problém.</li>
+<li><strong>Používajte slúchadlá s hardvérovým ovládačom hlasitosti.</strong> Mení len celkovú úroveň, nie rovnováhu medzi hrou a hlasom.</li>
+<li><strong>Smerujte zvuk cez virtuálne zariadenie.</strong> Nástroje ako Loopback alebo BlackHole dokážu rozdeliť streamy, ale sú zamerané na profesionálov, majú skutočné nastavenie a sú prehnané na to, aby „urobili hru tichšou“.</li>
+</ul>
+
+<p>Žiadna z nich vám neposkytuje jednu vec, ktorú používatelia Windows považujú za samozrejmosť: rýchly posúvač pre každú aplikáciu. To je tá medzera <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je stavaný na naplnenie.</p>
+
+<h2>Priama oprava: nezávislý objem na aplikáciu</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je panel s ponukami pre jednotlivé aplikácie pre macOS. Zobrazuje každú aplikáciu, ktorá práve prehráva zvuk, a každej z nich dáva vlastný posuvník, presne ako Windows Volume Mixer. V prípade problému hra verzus hlas je pracovný postup krátky:</p>
+
+<ul>
+<li>Kliknite na ikonu SoundDial na paneli s ponukami, keď je spustená hra aj Discord.</li>
+<li>Nájdite hru v zozname a potiahnite jej posuvník nadol približne na 40-50%.</li>
+<li>Nechajte Discord (alebo Slack, Zoom alebo vašu hlasovú aplikáciu) na 100 %.</li>
+<li>Prispôsobujte sa za behu počas hry – posuňte hru ďalej v hlasnej prestrelke a ustúpte počas tichého prieskumu.</li>
+</ul>
+
+<p>Pretože úrovne sú pre aplikáciu, nastavíte ich raz a držia sa. Hra zostáva obmedzená bez ohľadu na to, ako horúci je jej vlastný mix, a vaši priatelia sú cez ňu jasne počuteľní.</p>
+
+<h2>Zosilnenie, stlmenie a profily pre zvyšok vášho nastavenia</h2>
+
+<p>Rovnaký nástroj pokrýva susedné nepríjemnosti, ktoré prichádzajú s hlasovým hraním:</p>
+
+<ul>
+<li><strong>Zosilnenie podľa aplikácie.</strong> Ak je mikrofón spoluhráča tichý aj pri maxime Discord, môžete stlačiť hlasovú aplikáciu <em>vyššie</em> 100%, takže to skôr presekne hru, než aby sa pochovalo.</li>
+<li><strong>Stlmenie pre jednotlivé aplikácie.</strong> Okamžite stlmte kartu prehliadača na pozadí alebo hudobnú aplikáciu bez prerušenia prehrávania.</li>
+<li><strong>Objemové profily.</strong> Uložte si „herný“ profil s hrou na 45 % a vylepšené Discord, potom sa jedným kliknutím prepnite späť na „normálny“ profil na každodenné použitie – žiadne opätovné presúvanie posúvačov pri každej relácii.</li>
+<li><strong>Auto-ducking.</strong> Nechajte hru automaticky spadnúť, keď niekto hovorí, takže popisky vždy pristanú na vrchole akcie.</li>
+<li><strong>Rýchle prepínanie výstupov.</strong> Preskakujte medzi slúchadlami a reproduktormi z rovnakej ponuky bez toho, aby ste sa ponorili do nastavení systému.</li>
+</ul>
+
+<blockquote><p>Mentálny model je jednoduchý: jeden posúvač na aplikáciu, ako to už roky robí Windows. macOS to nikdy neposkytol, takže paritu obnoví malý nástroj.</p></blockquote>
+
+<h2>Čo úprimne očakávať</h2>
+
+<p>Mixér pre jednotlivé aplikácie rieši problém s rovnováhou čisto, ale správne nastavuje očakávania. Ovláda výstupné úrovne softvéru – nedokáže opraviť hru, ktorej vlastný zvuk je zle zvládnutý, a nedokáže vyvolať signál, ktorý nikdy nebol zachytený (skutočne pokazený mikrofón stále potrebuje opravu hardvéru). Boost pridáva skutočný zisk, takže posunutie tichého zdroja ďaleko za hranicu 100 % môže spôsobiť skreslenie, presne ako keď zapnete akýkoľvek zosilňovač príliš vysoko. Pri rozumnom používaní však väčšina nastavení potrebuje skromnú hernú čiapku a malé zvýšenie hlasu.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je v karanténe a inštaluje sa priamo zo Mac App Store – žiadne ovládače, žiadne rozšírenia jadra, žiadne DMG, ktorým by ste mohli dôverovať. Je to jednorazová cena 14,99 EUR bez predplatného a podporuje ovládanie hlasitosti macOS v 28 jazykoch.</p>
+
+<p>Prestaňte bojovať so svojimi posúvačmi v hre. Chytiť <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a>, vypnite hru, nechajte svoj tím nahlas a nakoniec získajte mixér hlasitosti v štýle Windows macOS, ktorý ste zabudli dodať.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Reproduktory externého monitora sú príliš hlasné alebo zaseknuté na Mac? Opravte hlasitosť HDMI/DisplayPort",
+    description: "Prečo tlačidlá hlasitosti vášho Mac neovládajú reproduktory monitora HDMI alebo DisplayPort a ako opraviť zvuk, ktorý je príliš hlasný, zaseknutý alebo neupraviteľný pomocou OSD monitora, nastavenia Audio MIDI a lepšieho smerovania výstupu.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak sú tlačidlá hlasitosti vášho Mac sivé alebo nerobia nič pre monitor pripojený cez HDMI alebo DisplayPort, zvyčajne to nie je chyba. Zvuk digitálneho displeja sa často odosiela na pevnej úrovni a hlasitosť ovláda vlastný hardvér monitora. Opravou je úprava zobrazenia, presmerovanie výstupu alebo použitie iného zvukového zariadenia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Reproduktory externého monitora sú príliš hlasné alebo zaseknuté na Mac? Opravte hlasitosť HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo tlačidlá hlasitosti Mac prestanú fungovať cez HDMI/DisplayPort</h2>
+
+<p>HDMI a DisplayPort prenášajú zvuk ako digitálny stream. Mnohé monitory prijímajú tento tok na pevnej výstupnej úrovni a očakávajú, že budete ovládať hlasitosť na samotnom displeji, nie na zdrojovom zariadení. Keď to macOS zistí, deaktivuje posuvník hlasitosti na obrazovke a zošedí klávesy F11/F12, pričom po ich stlačení zobrazí symbol „zákaz vstupu“.</p>
+
+<p>Toto je obmedzenie hardvéru a protokolu, nie niečo, čo môže softvér na Mac prepísať. Zvuk nikdy neprejde cez fázu, kde ho macOS môže stlmiť. Žiadna aplikácia, ovládač ani nastavenie nedokáže vložiť ovládanie hlasitosti do prúdu, ktorý displej vyžaduje na plnej úrovni. Ak budete v tom úprimní, ušetríte si hodiny hľadania nesprávnej opravy.</p>
+
+<h2>Oprava 1: Použite vlastné ovládacie prvky monitora (OSD)</h2>
+
+<p>Toto je skutočné riešenie pre väčšinu ľudí. Takmer každý monitor so vstavanými reproduktormi má ponuku na obrazovke ovládanú fyzickými tlačidlami alebo joystickom na zadnej alebo spodnej strane panela.</p>
+
+<ul>
+<li>Stlačením tlačidla OSD/menu otvorte nastavenia monitora.</li>
+<li>Vyhľadajte sekciu Zvuk alebo Hlasitosť.</li>
+<li>Znížte úroveň – toto je ovládanie, ktoré skutočne funguje cez HDMI/DP.</li>
+</ul>
+
+<p>Niektoré monitory ponúkajú aj sprievodnú aplikáciu alebo podporu DDC/CI, takže môžete ovládať OSD zo macOS. Pomôcky tretích strán, ktoré hovoria DDC, dokážu namapovať tlačidlá hlasitosti vášho Mac na hardvérovú hlasitosť monitora, čo stojí za vyskúšanie, ak nenávidíte siahanie po tlačidlách na paneli.</p>
+
+<h2>Oprava 2: Skontrolujte nastavenie Audio MIDI</h2>
+
+<p>Otvorte <strong>Nastavenie MIDI zvuku</strong> (v /Aplikácie/Pomôcky). Vyberte svoj monitor v zozname zariadení. Ak sa na pravej strane zobrazí posúvač hlasitosti, potiahnite ho nadol – niekedy sa na displeji zobrazí úroveň ovládateľnej softvérom, aj keď sú tlačidlá na paneli ponuky vypnuté. Ak posuvník chýba alebo je sivý, displej potvrdzuje, že akceptuje iba zvuk s pevnou úrovňou a mali by ste sa vrátiť k OSD.</p>
+
+<p>Keď ste tu, potvrďte, že je vybraté správne výstupné zariadenie. Je bežné, že zvuk je ticho smerovaný na monitor, o ktorom ste zabudli, že bol pripojený, čo vysvetľuje náhly hlasný alebo chýbajúci zvuk.</p>
+
+<h2>Oprava 3: Nasmerujte zvuk niekam, kde ho môžete skutočne ovládať</h2>
+
+<p>Ak sú reproduktory vášho monitora aj tak priemerné (väčšina áno) a jeho ovládanie hlasitosti je nemotorné, najčistejším riešením je prestať ich používať:</p>
+
+<ul>
+<li>Zapojte reproduktory alebo slúchadlá do výstupného konektora pre slúchadlá na monitore, ak ho má – tento analógový výstup je zvyčajne možné ovládať z displeja.</li>
+<li>Použite USB DAC, USB reproduktory alebo výstup Bluetooth. USB a analógové výstupy poskytujú macOS plné softvérové ​​ovládanie hlasitosti, takže vaše klávesy opäť fungujú normálne.</li>
+<li>Vyberte si vstavané reproduktory vášho Mac pre rýchle zvuky a monitor si ponechajte iba pre video.</li>
+</ul>
+
+<p>Akonáhle ste na výstupe, ktorý macOS skutočne dokáže stlmiť, tlačidlá hlasitosti systému sa správajú a vy opäť získate jemné ovládanie namiesto preskakovania medzi hrubými OSD krokmi monitora.</p>
+
+<h2>Keď výstup funguje, ovládajte hlasitosť pre každú aplikáciu</h2>
+
+<p>Získanie kontrolovateľného výstupu späť rieši problém „príliš hlasný/zaseknutý“. Ale macOS vám stále poskytuje iba jednu hlavnú hlasitosť pre všetko. Mac nemá vstavaný mixér pre jednotlivé aplikácie – Windows ho má už roky, ale Apple nikdy nedodal ekvivalent. Hlasité video, hra a tichý hovor teda zdieľajú rovnaký posúvač.</p>
+
+<p>To je tá medzera <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> vypĺňa. Ide o panelový mixážny pult, ktorý dáva každej aplikácii vlastnú nezávislú hlasitosť, takže môžete vypnúť kartu prehliadača bez toho, aby ste sa dotkli hudby, okamžite stlmiť jednu aplikáciu alebo zvýšiť tichú aplikáciu nad jej normálny strop. Môžete uložiť profily hlasitosti pre rôzne nastavenia a rýchlo prepínať výstupy z panela ponuky.</p>
+
+<p>Aby bolo jasné o rozsahu: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ovláda softvérovú hlasitosť zvuku prechádzajúceho cez macOS. Nemôže prepísať monitor, ktorý ignoruje hlasitosť systému cez HDMI – to je správanie displeja s pevnou úrovňou a opraví ho iba OSD alebo iný výstup. Keď sa dostanete na ovládateľný výstup, aplikácia žiari v ovládaní podľa aplikácie.</p>
+
+<h2>Rýchly kontrolný zoznam</h2>
+
+<ul>
+<li>Tlačidlá cez HDMI/DP sivé? Použite hlasitosť OSD monitora – to je očakávané správanie.</li>
+<li>Skontrolujte nastavenie Audio MIDI, či neobsahuje skrytý softvérový posúvač.</li>
+<li>Skontrolujte, či je vybraté správne výstupné zariadenie.</li>
+<li>Pre skutočné ovládanie nasmerujte zvuk do výstupu pre slúchadlá, USB alebo Bluetooth.</li>
+<li>Potom pomocou mixéra pre jednotlivé aplikácie vyvážte jednotlivé aplikácie.</li>
+</ul>
+
+<p>Akonáhle je váš výstup pod kontrolou, dajte <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pohľad. Je to jednorazový nákup v hodnote 14,99 EUR od Mac App Store – žiadne predplatné, žiadne ovládače, žiadne DMG – a konečne prináša do macOS skutočný mixér hlasitosti pre jednotlivé aplikácie.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "Hlasitosť USB DAC sa na Mac neupraví? Získajte softvérové ovládanie hlasitosti späť",
+    description: "Prečo macOS pre mnohé USB DAC skryje posuvník hlasitosti, čo to znamená a ako vrátiť funkčné softvérové ovládanie hlasitosti späť na váš Mac bez zníženia kvality zvuku.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Ak je posúvač hlasitosti vášho USB DAC na Mac sivý, zvyčajne to nie je chyba. macOS deaktivuje hlasitosť svojho softvéru, keď DAC hlási, že nemá žiadnu ovládateľnú hlasitosť, pričom sa očakáva, že použijete vlastný hardvérový gombík DAC. Ak chcete obnoviť hlasitosť softvéru, použite napríklad zoslabovač na úrovni aplikácie <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Hlasitosť sa na Mac neupraví? Získajte softvérové ovládanie hlasitosti späť" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo macOS stmaví hlasitosť niektorých USB DAC</h2>
+
+<p>Keď pripojíte zvukové zariadenie USB, macOS sa ho opýta, čo dokáže cez protokol USB Audio Class (UAC). Súčasťou tohto podávania rúk je súprava ovládacích prvkov „feature unit“ vrátane ovládača hlasitosti. Ak DAC deklaruje ovládanie hlasitosti, macOS ho prepojí s klávesmi hlasitosti na klávesnici a posúvačom na paneli s ponukami. Ak DAC vyhlási, že nemá hlasitosť nastaviteľnú hostiteľom, macOS úplne zošedí.</p>
+
+<p>Mnoho vysoko kvalitných DAC a zosilňovačov robí presne to druhé, zámerne. Predpoklad dizajnéra je, že do DAC budete privádzať plnohodnotný, bitovo dokonalý digitálny signál a ovládanie hlasitosti pomocou analógového ovládača hlasitosti na samotnej jednotke. K tomuto analógovému zoslabeniu dochádza po konverzii z digitálneho na analógový, takže nedochádza k vyhadzovaniu bitov a je to skutočne cesta, ktorú uprednostňujú audiofili. Je to vlastnosť, nie chyba.</p>
+
+<blockquote>Základné pravidlo: ak má váš DAC fyzický ovládač hlasitosti a posúvač Mac je sivý, výrobca chce, aby ste ovládač použili. Signál sa vysiela na 100 % podľa návrhu.</blockquote>
+
+<h2>Keď je zašednutý posúvač vlastne problém</h2>
+
+<p>Odpoveď „stačí použiť gombík“ sa v skutočných nastaveniach rozpadne:</p>
+
+<ul>
+<li><strong>DAC nemá žiadny gombík.</strong> Množstvo kompaktných USB DAC, hardvérových kľúčov a profesionálnych rozhraní nevystavuje žiadne ovládanie hlasitosti ani ovládanie hostiteľa. Ste zaseknutý na akejkoľvek úrovni, na ktorú je nastavený downstream zosilňovač alebo napájané reproduktory.</li>
+<li><strong>Gombík je mimo dosahu.</strong> Stolný počítač DAC za monitorom alebo jednotka napájajúca zosilňovač s pevným ziskom znamená, že nastavenie hlasitosti sa namiesto stláčania klávesov stáva fyzickou prácou.</li>
+<li><strong>Potrebujete rovnováhu medzi jednotlivými aplikáciami, nielen majstrovskú úroveň.</strong> Dokonca aj dokonalý hardvérový gombík je jediným globálnym ovládacím prvkom. Nedokáže urobiť hovor Zoom tichším ako vaša hudba ani skrátiť hru, keď sa spustí upozornenie.</li>
+</ul>
+
+<p>Žiadna z nich nie je opravená macOS, pretože z pohľadu OS sa zariadenie správa správne. Toto je čestné obmedzenie: je to funkcia hlásená zariadením a v nastaveniach systému nie je žiadny prepínač, ktorý by ju prepísal.</p>
+
+<h2>Čestné riešenia skôr, ako čokoľvek nainštalujete</h2>
+
+<p>Najprv vyskúšajte tieto, pretože nič nestojí:</p>
+
+<ul>
+<li><strong>Použite hardvérový gombík alebo dolnú hlasitosť.</strong> Ak váš DAC alebo vaše napájané reproduktory/zosilňovač majú ovládanie, je to najčistejšia možnosť a zachováva plné digitálne rozlíšenie.</li>
+<li><strong>Skontrolujte vlastnú aplikáciu alebo firmvér DAC.</strong> Niektoré DAC (a herne orientované jednotky) dodávajú ovládací panel alebo nastavenie firmvéru, ktoré umožňuje hlasitosť hostiteľa. Ak existuje možnosť „Hlasitosť USB“ alebo „Hlasitosť softvéru“, jej zapnutím sa posúvač macOS znova spustí.</li>
+<li><strong>Skúste iný režim USB.</strong> Niekoľko zariadení uvádza rôzne možnosti v režime „kompatibilný s triedou“ v porovnaní s režimom proprietárneho ovládača. Inštalácia alebo odstránenie ovládača dodávateľa môže zmeniť, či macOS uvidí ovládanie hlasitosti.</li>
+<li><strong>Pozrite sa do Audio MIDI Setup.</strong> Otvorte nastavenie Audio MIDI, vyberte zariadenie a skontrolujte, či sa tam zobrazuje hlavná hlasitosť alebo hlasitosť jednotlivých kanálov. Príležitostne je na tomto paneli k dispozícii posuvník, aj keď je panel ponuky sivý.</li>
+</ul>
+
+<p>Ak neplatí nič z toho, potrebujete softvérový útlm na strane Mac.</p>
+
+<h2>Softvérové ovládanie hlasitosti s tlmením podľa aplikácie</h2>
+
+<p>Keď hardvér neakceptuje príkaz hlasitosti, zostávajúcou možnosťou je stlmiť zvuk v softvéri skôr, ako dosiahne DAC. Presne toto <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> robí. Nachádza sa na paneli s ponukami a dáva každej spustenej aplikácii vlastnú nezávislú hlasitosť, stlmenie a dokonca zosilnenie bez ohľadu na to, či váš DAC odhaľuje hardvérové ​​ovládanie.</p>
+
+<p>Ak ho chcete použiť pre sivý DAC:</p>
+
+<ul>
+<li>Inštalovať <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zo Mac App Store a otvorte ho z panela s ponukami.</li>
+<li>Nechajte svoj DAC vybraný ako systémový výstup; môžete tiež použiť rýchle prepínanie výstupu SoundDial na prepínanie medzi DAC, reproduktormi a slúchadlami bez toho, aby ste museli prejsť do nastavení systému.</li>
+<li>Nastavte úrovne pre jednotlivé aplikácie: zrušte prehliadač, zdvihnite prehrávač hudby, stlmte čokoľvek, čo nechcete. Každá aplikácia streamuje hlasitosť, ktorú si zvolíte, a zmiešaný výsledok ide do DAC.</li>
+<li>Uložte si profily hlasitosti pre rôzne scenáre (hovory vs. počúvanie) a povoľte automatické sťahovanie aplikácií na pozadí, keď začne hrať niečo dôležitejšie.</li>
+</ul>
+
+<h2>Poctivý kompromis za kvalitu zvuku</h2>
+
+<p>Softvérové ​​zoslabenie znižuje digitálnu úroveň pred konverziou, takže teoreticky zahodí malé množstvo rozlíšenia v porovnaní s analógovou hlasitosťou na samotnom DAC. V praxi je na moderných 24-bitových a vyšších cestách pri normálnych úrovniach počúvania redukcia hlboko pod všetko počuteľné a vy si zachováte plný dynamický rozsah DAC pre čokoľvek hrané takmer v plnom rozsahu. Ak ste purista s dobrým analógovým gombíkom na dosah, použite gombík. Ak nemáte žiadne použiteľné hardvérové ​​ovládanie alebo potrebujete vyváženie jednotlivých aplikácií, ktoré macOS jednoducho nedokáže poskytnúť, objem softvéru je tým správnym kompromisom a prekonáva posúvač, ktorý nič nerobí.</p>
+
+<p>SoundDial je jednorazový nákup v hodnote 14,99 EUR, v karanténe, bez ovládačov, rozšírení jadra alebo inštalátorov DMG. Ak je hlasitosť vášho USB DAC sivá a siahnuť po gombíku nie je možné, <a href="https://apps.apple.com/app/id6772792641">získajte SoundDial na Mac App Store</a> a vráťte funkčné ovládanie hlasitosti späť do panela s ponukami.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Obmedzte maximálnu hlasitosť jednej hlasitej aplikácie na Mac (Chráňte svoj sluch)",
+    description: "macOS nemá žiadne obmedzenie hlasitosti pre jednotlivé aplikácie, takže jedna hlasná aplikácia vás môže vybuchnúť na plnú hlasitosť systému. Tu je návod, ako nastaviť strop maximálnej hlasitosti pre jednu aplikáciu na Mac s mixérom pre jednotlivé aplikácie a prečo záleží na hardvérových obmedzeniach.",
+    date: "2026-07-23",
+    readTime: "5 min čítania",
+    content: `<p>macOS nemá žiadny vstavaný spôsob, ako obmedziť maximálnu hlasitosť jednej aplikácie, takže hlasný program sa prehráva pri akomkoľvek nastavení vášho systémového posúvača. Ak chcete nastaviť strop pre jednu aplikáciu, použite napríklad panel s ponukami pre jednotlivé aplikácie <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: podržte túto aplikáciu na, povedzme, 40 percent, zatiaľ čo hlasitosť vášho systému zostane vyššia pre všetko ostatné.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Obmedzte maximálnu hlasitosť jednej hlasitej aplikácie na Mac (Chráňte svoj sluch)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Prečo vás jedna aplikácia môže náhle odpáliť na Mac</h2>
+
+<p>Na macOS je posuvník hlasitosti na paneli s ponukami alebo v ovládacom centre jediným celosystémovým ovládacím prvkom. Každá aplikácia sa naleje do rovnakého výstupu na rovnakej úrovni. V operačnom systéme nie je zabudovaný žiadny mixér hlasitosti pre jednotlivé aplikácie, ako ho má Windows už roky s panelom Volume Mixer.</p>
+
+<p>Tento dizajn má skutočný vplyv na vaše uši. Ak nastavíte vysokú hlasitosť systému, aby ste mohli počuť tichý podcast alebo tichý videohovor, potom prepnite na hru, upozornenie Discord, webovú stránku s množstvom reklám alebo video, ktoré bolo ovládané oveľa hlasnejšie, táto aplikácia sa tiež prehrá na úrovni celého systému. Výsledkom je klasické vystrašenie: náhla zvuková stena s hlasitosťou, ktorú ste nikdy nezamýšľali pre túto konkrétnu aplikáciu.</p>
+
+<p>Pre každého, kto má tinnitus, citlivosť na zvuk alebo si jednoducho váži svoj sluch, je problémom táto nepredvídateľnosť. Nesnažíte sa všetko urobiť tichším. Snažíte sa zaručiť, že jedna konkrétna hlasná aplikácia nikdy nemôže prekročiť úroveň, o ktorej ste sa rozhodli, že je bezpečná.</p>
+
+<h2>Čo tu macOS môže a čo nemôže robiť</h2>
+
+<p>Dovoľte mi byť úprimný o limitoch predtým, ako niečo odporučím.</p>
+
+<ul>
+<li><strong>Hlasitosť systému</strong> znižuje všetko naraz. Stíšte ho, aby ste skrotili jednu aplikáciu a vaše tiché aplikácie sa stanú nepočuteľnými.</li>
+<li><strong>Posúvače hlasitosti v aplikácii</strong> existujú v niektorých aplikáciách (prehrávače médií, niektoré prehliadače na karte), ale nie vo väčšine. Hra, videohovor alebo natívna aplikácia často nemajú žiadne nezávislé ovládanie hlasitosti.</li>
+<li><strong>Hardvérový strop je skutočný.</strong> Žiadny softvér nedokáže tlačiť signál hlasnejšie, ako je maximum vášho výstupného zariadenia. Naopak, vlastné ovládanie hlasitosti aplikácie, plus váš DAC a slúchadlá nastavia, akú hlasitosť budete skutočne cítiť na 100 percent. Softvér dokáže spoľahlivo znížiť úroveň jednotlivých aplikácií, ale nedokáže prepísať fyziku vašich slúchadiel.</li>
+</ul>
+
+<p>Úprimným cieľom teda nie je magické obmedzenie hlasitosti na úrovni vodiča. Ide o praktický a spoľahlivý útlm pre jednotlivé aplikácie: držte vybranú aplikáciu na pevnom zlomku výstupného systému, aby vás nikdy nemohla prekvapiť.</p>
+
+<h2>Ako obmedziť hlasitosť jednej aplikácie pomocou mixéra pre jednotlivé aplikácie</h2>
+
+<p>Mixér hlasitosti pre jednotlivé aplikácie zachytáva zvuk každej aplikácie a umožňuje vám nezávisle nastaviť jej úroveň. Tu je pracovný postup s <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, ktorý sa nachádza na paneli s ponukami:</p>
+
+<ul>
+<li><strong>Otvorte mixér.</strong> Kliknite na ikonu na lište ponuky SoundDial. Zobrazí sa zoznam všetkých aplikácií, ktoré aktuálne prehrávajú zvuk, pričom každá má svoj vlastný posúvač.</li>
+<li><strong>Nájdite hlasnú aplikáciu.</strong> Nájdite aplikáciu, ktorú chcete obmedziť, napríklad hru, prehliadač alebo nástroj na videokonferencie.</li>
+<li><strong>Nastavte jej strop.</strong> Posuňte posúvač danej aplikácie nadol na bezpečnú úroveň, povedzme 35 až 50 percent. Táto aplikácia sa teraz prehráva s týmto zlomkom výstupného systému, zatiaľ čo všetky ostatné aplikácie zostávajú tam, kde boli.</li>
+<li><strong>Nechajte svoj systémový zväzok tam, kde ho potrebujete.</strong> Udržujte systémový posúvač dostatočne vysoko pre vaše tiché aplikácie. Obmedzená aplikácia zostane bez ohľadu na to.</li>
+</ul>
+
+<p>Pretože úroveň je pre každú aplikáciu, efektívne nastavujete maximum pre tento jeden program. Aj keď sa snaží prehrať svoj najhlasnejší obsah, najhlasnejší je teraz vami vybraný zlomok plného obsahu.</p>
+
+<h2>Urobte čiapku držať s profilmi</h2>
+
+<p>Pomôže jediné manuálne nastavenie, ale úrovne aplikácií sa môžu po ukončení a opätovnom spustení resetovať. Ak chcete vytvoriť nastavenie bezpečné pre sluch, ktoré prežije reštarty, použite <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>objemové profily používateľa. Uložte si profil s preferovanými úrovňami pre jednotlivé aplikácie, napríklad „tichá herná noc“ s hrou na úrovni 40 percent, hudobnou aplikáciou na úrovni 70 percent a aplikáciou na volanie na úrovni 90 percent. Pripomeňte si ho jedným kliknutím, kedykoľvek si sadnete. Váš strop pre hlasnú aplikáciu sa vráti presne tak, ako ste si ho nastavili.</p>
+
+<p>Pri ochrane sluchu sa oplatí poznať ďalšie dve funkcie:</p>
+
+<ul>
+<li><strong>Stlmenie pre jednotlivé aplikácie</strong> umožňuje okamžite umlčať jedného páchateľa bez toho, aby ste sa dotkli čohokoľvek iného, čo je užitočné pre aplikáciu, ktorá rozosiela hlasné upozornenia.</li>
+<li><strong>Auto-ducking</strong> automaticky zníži zvuk na pozadí, keď sa spustí niečo dôležitejšie, takže nebudete chytení medzi dvoma hlasnými zdrojmi naraz.</li>
+</ul>
+
+<blockquote><p>Softvérové zoslabenie je skutočne účinné na obmedzenie aplikácie, ale je to jedna vrstva ochrany, nie lekárska ochrana. Ak máte tinitus alebo citlivosť na zvuk, spárujte strop podľa aplikácie s rozumnými celkovými úrovňami počúvania a prestávkami. Žiadna aplikácia nenahradí starostlivé návyky na objem.</p></blockquote>
+
+<h2>Poznámka k podpore a prečo je to oddelené</h2>
+
+<p>Rovnaký mixér pre jednotlivé aplikácie, ktorý obmedzuje hlasnú aplikáciu, môže tiež zvýšiť príliš tichú aplikáciu nad 100 percent, čo je užitočné pre aplikáciu, ktorej vlastná hlasitosť je ovládaná príliš nízko. Toto sú dve strany toho istého ovládacieho prvku: vy rozhodujete o úrovni každej aplikácie, hore alebo dole. Pre ochranu sluchu jednoducho zvolíte smer „dole“ a podržíte ho tam.</p>
+
+<h2>Krátka verzia</h2>
+
+<p>macOS vám nedovolí obmedziť objem jednej aplikácie samostatne, a to je skutočná medzera operačného systému, nie chyba používateľa. Panel s ponukami pre jednotlivé aplikácie ju zatvorí: nastavte hlasitú aplikáciu na pevný zlomok, uložte ju do profilu a už vás to nikdy nezničí, kým ostatné aplikácie zostanú počuť.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je jednorazový nákup za 14,99 EUR na Mac App Store v karanténe bez ovládačov alebo inštalácie DMG. Ak je cieľom chrániť vaše uši pred jednou nepredvídateľnou aplikáciou, je to najjednoduchší spôsob, ako nastaviť tento strop a udržať ho.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Rozdielne vyváženie vľavo/vpravo na aplikáciu na Mac – je to možné?",
+    description: "Môžete nastaviť iné stereo vyváženie vľavo/vpravo pre každú aplikáciu na macOS? Úprimne povedané, nie - nie natívne a nie s väčšinou nástrojov. Tu je to, čo je vlastne možné a kde sú skutočné limity.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Úprimne povedané, nie – macOS vám neumožňuje nastaviť iné stereo vyváženie vľavo/vpravo pre každú aplikáciu a takmer žiadny nástroj tretej strany neodhalí skutočné posúvanie podľa aplikácie. Môžete nastaviť jeden globálny zostatok pre vaše výstupné zariadenie a môžete ovládať každú aplikáciu <em>objem</em>, ale nezávisle na aplikácii <em>panvicu</em> nie je funkcia, ktorú macOS sprístupňuje.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Rozdielne vyváženie vľavo/vpravo na aplikáciu na Mac — Je to možné?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Rovnováha vs. objem – nie je to to isté</h2>
+
+<p>Stojí za to oddeliť dva nápady, ktoré sa často zamieňajú:</p>
+<ul>
+  <li><strong>Objem</strong> – celková hlasitosť aplikácie. Toto je jedna úroveň aplikovaná na oba kanály.</li>
+  <li><strong>Váha (panvica)</strong> — ako je zvuk distribuovaný medzi ľavý a pravý reproduktor. Rovnováha „úplnej ľavice“ posiela všetko do ľavého kanála a stíši pravý.</li>
+</ul>
+
+<p>Ľudia, ktorí požadujú „iné vyváženie na aplikáciu“, zvyčajne chcú jednu z dvoch vecí: pretlačiť zvuk jednej aplikácie do jedného ucha (povedzme hovor do ľavého ucha, hudbu do pravého) alebo opraviť rozdiel v sluchu alebo zlý reproduktor na jednej strane – ale len pre určité aplikácie. To sú legitímne ciele. Problém je v tom, kde žije kontrola.</p>
+
+<h2>Prečo to macOS nedokáže natívne</h2>
+
+<p>macOS má presne jeden ovládač vyváženia a žije na úrovni výstupného zariadenia. Nájdete ho pod <strong>Systémové nastavenia → Zvuk → Výstup</strong>, kde a <em>Zostatok</em> posúvač posúva celý mix doľava alebo doprava. Čokoľvek, na čo je posuvník nastavený, platí <em>všetko</em> smerované do tohto zariadenia – každá aplikácia, každý systémový zvuk, všetko naraz.</p>
+
+<p>V štandardnom zásobníku zvuku macOS nie je žiadne rozhranie API, ktoré hovorí „vykresliť zvuk tejto aplikácie doľava, tá aplikácia je doprava“. Aplikácie odovzdajú svoj zvuk do systému, ktorý je už zmiešaný, a systém použije jednu hlavnú rovnováhu na ceste k reproduktorom. Takže vrstvu, na ktorej by ste chceli posúvať jednotlivé aplikácie, operačný systém jednoducho nezobrazuje. Toto je skutočné obmedzenie operačného systému, nie niečo, čo môže nástroj na paneli s ponukami zdvorilo obísť.</p>
+
+<blockquote>Na rozdiel od jednotlivých aplikácií <em>objem</em> — ktoré macOS tiež natívne postráda, ale ktoré aplikácie môžu implementovať klepnutím na zvukový stream – pre každú aplikáciu <em>rovnováhu</em> by vyžadovalo opätovné posúvanie prúdu každej aplikácie nezávisle a tento háčik nie je dostupný pre aplikácie v karanténe.</blockquote>
+
+<h2>Čo robí SoundDial – a úprimne povedané, čo nie</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> vám dáva ovládanie podľa aplikácie macOS chýba: nezávislé <strong>objem</strong> pre každú spustenú aplikáciu, pre každú aplikáciu <strong>stlmiť</strong>, objem na aplikáciu <strong>posilniť</strong> nad 100 %, zachrániteľný objem <strong>profilov</strong>, automatické stláčanie a rýchle prepínanie výstupu z lišty ponuky.</p>
+
+<p>Aby som bol priamo s vami: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> ovládacie prvky pre každú aplikáciu <em>hlasitosť a stlmenie</em>, nie stereo podľa aplikácie <em>ryžovanie</em>. Do ľavého ucha vám nepošle Safari a do pravého Spotify. Ak vám niekto povie, že mixážny pult s ponukami robí na macOS skutočnú rovnováhu L/R podľa aplikácie, buďte skeptický – toto nie je kontrola, ktorú vám OS rozdáva. Čo SoundDial skutočne rieši, je oveľa bežnejšia frustrácia: jedna aplikácia je príliš hlasná alebo príliš tichá v porovnaní s inou.</p>
+
+<h2>Skutočné riešenia pre rovnováhu medzi jednotlivými aplikáciami</h2>
+
+<p>Ak skutočne potrebujete zvuk rozdelený vedľa seba, tu sú čestné možnosti, zhruba od najjednoduchších po najzaujímavejšie:</p>
+
+<ul>
+  <li><strong>Globálna rovnováha (všetky aplikácie):</strong> Použite Nastavenia systému → Zvuk → Výstup → Vyváženie. Toto je vaša jediná vstavaná možnosť a ovplyvňuje každú aplikáciu. Užitočné na korekciu miestnosti alebo asymetrie sluchu, zbytočné na izoláciu jednej aplikácie.</li>
+  <li><strong>Samostatné výstupné zariadenia:</strong> Toto je najbližšie k skutočnému zostatku jednotlivých aplikácií. Nasmerujte aplikáciu A do jedného výstupného zariadenia a aplikáciu B do iného a potom nastavte vyváženie každého zariadenia nezávisle. macOS vám umožňuje vybrať výstupné zariadenie v niektorých aplikáciách (a prehliadače/komunikačné aplikácie často odhaľujú svoj vlastný výber výstupu). Ak aplikácia A ukazuje na zariadenie posunuté doľava a aplikácia B na zariadenie posunuté doprava, efektívne získate rovnováhu medzi aplikáciami – pokiaľ vám obe aplikácie umožnia vybrať si ich výstup.</li>
+  <li><strong>Nástroje na virtuálne smerovanie zvuku:</strong> Pomôcky, ktoré vytvárajú virtuálne zariadenia a interný mixér, môžu v niektorých konfiguráciách smerovať konkrétne aplikácie do konkrétnych kanálov. Toto je výkonné, ale nešikovné, pridáva komponent v štýle vodiča a pre väčšinu ľudí je to prehnané. Je to doména streamerov a zvukových inžinierov, nie obyčajná oprava „hovor jedným uchom“.</li>
+  <li><strong>Rozdelenie hardvéru:</strong> Ak ide o fyzické reproduktory alebo rozdiel v sluchu, hardvérový mixér alebo audio rozhranie s ovládaním jednotlivých kanálov úplne obchádza softvérový problém.</li>
+</ul>
+
+<h2>Keď je objem jednotlivých aplikácií skutočne to, čo ste potrebovali</h2>
+
+<p>Veľa žiadostí typu „chcem iný zostatok na aplikáciu“ je v skutočnosti „jedna aplikácia prehlušuje druhú“. Ak je cieľom videohovor, ktorý môžete počuť pri svojej hudbe, alebo hra, ktorá je pri chate Discord príliš hlasná, vyváženie nie je nástroj – nezávislá hlasitosť áno. To je presne to, čo mixér pre jednotlivé aplikácie zvláda čisto, bez virtuálnych ovládačov alebo gymnastiky smerovania.</p>
+
+<p>Takže úprimné zhrnutie: skutočné vyváženie vľavo/vpravo podľa aplikácie nie je funkciou macOS a žiadna aplikácia na mixovanie to presvedčivo nefalšuje. Vaše skutočné trasy sú posúvač globálnej rovnováhy alebo smerovanie výstupu podľa aplikácie do zariadení s oddeleným posúvaním. Ale ak je základnou bolesťou relatívna hlasitosť, je to vyriešený problém.</p>
+
+<p>Chcete nezávislú hlasitosť, stlmenie a zosilnenie pre každú aplikáciu na svojom Mac, s profilmi, ktoré je možné uložiť, a bez ovládačov? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Získajte SoundDial na Mac App Store</a> — 14,99 €, jednorazovo, v pieskovisku.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Prečo sú niektoré aplikácie na Mac oveľa hlasnejšie ako iné? (A ako ich vyrovnať)",
+    description: "Aplikácie znejú na Mac úplne inak, pretože každá z nich je upravená podľa vlastného cieľa hlasitosti a macOS nemá vstavané ovládanie hlasitosti pre jednotlivé aplikácie. Tu je dôvod, prečo sa to deje a ako nastaviť úroveň aplikácií.",
+    date: "2026-07-23",
+    readTime: "6 min čítania",
+    content: `<p>Aplikácie znejú na vašom Mac úplne inak, pretože každá z nich je vytvorená, zvládnutá a normalizovaná na svoj vlastný cieľ hlasitosti a macOS nemá vstavaný ovládač hlasitosti pre jednotlivé aplikácie, ktorý by ich zosúladil. Spotify, YouTube, Zoom a systémové upozornenia prechádzajú cez rovnaký hlavný posuvník, takže neustále jazdíte hore a dole.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Prečo sú niektoré aplikácie na Mac oveľa hlasnejšie ako iné? (A ako ich vyrovnať)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Nie je to váš Mac – je to samotný zvuk</h2>
+
+<p>Jediný posúvač systémovej hlasitosti na macOS ovláda konečnú výstupnú úroveň pre všetko. Nedotýka sa relatívnej hlasitosti v audio streame každej aplikácie. Táto základná línia je nastavená dlho predtým, ako sa zvuk dostane do vašich reproduktorov, a výrazne sa líši od zdroja k zdroju.</p>
+
+<p>Tieto rozdiely spôsobujú tri veci:</p>
+
+<ul>
+<li><strong>Zvládnutie úrovní.</strong> Výrazná popová skladba je zvládnutá oveľa horlivejšie ako tichá akustická nahrávka alebo hovorený podcast. Film zmiešaný pre kino zámerne zachováva ticho a explózie nahlas – to je dynamický rozsah a znamená to, že priemerná úroveň je nízka.</li>
+<li><strong>Ciele normalizácie hlasitosti.</strong> Streamovacie platformy prispôsobujú prehrávanie cieľu meranému v LUFS (jednotky hlasitosti vo vzťahu k plnej škále). Spotify mieri okolo -14 LUFS, YouTube zhruba -14 LUFS, Apple Music okolo -16 LUFS. Aplikácia pre videokonferencie alebo hra úplne využíva svoj vlastný zisk. Dve aplikácie „normalizované“ na rôzne ciele sa nikdy navzájom nezhodujú.</li>
+<li><strong>Žiadne vyrovnávanie medzi aplikáciami.</strong> Každá aplikácia normalizuje iba svoj vlastný obsah. Nič nekoordinuje Spotify proti Zoom proti hre v prehliadači. macOS ich len sčíta a odošle mix.</li>
+</ul>
+
+<h2>Prečo je LUFS dôležitý (zjednodušene povedané)</h2>
+
+<p>Špičková úroveň vám povie jeden najhlasnejší okamih signálu. LUFS vám povie, aké hlasné je niečo v skutočnosti <em>cíti</em> v priebehu času vážené podľa toho, ako funguje ľudský sluch. Tento rozdiel je dôvod, prečo môžu podcast a tanečná skladba dosiahnuť rovnaký vrchol, no zároveň cítiť oddelené svety v hlasitosti – skladba trávi oveľa viac času pri strope.</p>
+
+<blockquote>Tichší cieľ LUFS znamená viac priestoru na hlavu a väčší dynamický rozsah. Hlasnejší cieľ znamená konzistentnejšiu, „vždy plnú“ zvukovú stenu. Ani jedno nie je zlé – ale keď sa aplikácie zameriavajú na rôzne čísla, máte pocit, že jedna aplikácia kričí a druhá mrmle.</blockquote>
+
+<p>To je úprimná hlavná príčina. Nie je to chyba, ktorú môžete opraviť. Je to fyzika toho, ako sa zvuk vytvára a dodáva, znásobený v desiatkach aplikácií, ktoré nikdy neboli navrhnuté tak, aby navzájom súhlasili.</p>
+
+<h2>Medzera macOS zostáva otvorená</h2>
+
+<p>Tu je časť, ktorá ľudí skutočne frustruje: Windows už roky dodáva mixér hlasitosti pre jednotlivé aplikácie. Priamo na paneli úloh môžete jednu aplikáciu potiahnuť nadol a ďalšiu nahor. macOS to nikdy nezahŕňalo. Predvoľby zvuku vám poskytujú iba hlavný posúvač a výber výstupného zariadenia.</p>
+
+<p>Takže na Mac boli vaše možnosti tradične obmedzené:</p>
+
+<ul>
+<li>Upravte pre každú aplikáciu vlastný vnútorný posúvač hlasitosti – ak ho vôbec má. Mnoho aplikácií (Zoom, väčšina hier, systémové zvonkohry) neodhaľuje použiteľnú aplikáciu.</li>
+<li>Pri každom prepnutí kontextu prejdite na hlavný posúvač manuálne.</li>
+<li>Úplne stlmte jednu vec, ktorá je tupá oprava, ktorá v skutočnosti nič nevyváži.</li>
+</ul>
+
+<p>Žiadna z nich si nepamätá vaše preferencie. Ukončite a znova spustite aplikáciu a ste späť na začiatku.</p>
+
+<h2>Praktická oprava: zapamätaný objem na aplikáciu</h2>
+
+<p>Keďže nemôžete prinútiť každú službu, aby prerobila svoj katalóg, funkčným riešením je pridať chýbajúcu vrstvu macOS, ktorá sa nikdy nedodala: nezávislý, zapamätaný objem pre každú aplikáciu. To je presne ono <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> robí. Žije vo vašom paneli s ponukami a dáva každej spustenej aplikácii vlastný posúvač, takže hlasnú aplikáciu môžete stiahnuť nadol a tichú posunúť nahor, kým nebude sedieť na úrovni, ktorá vám bude vyhovovať.</p>
+
+<p>Ak chcete vyrovnať svoje aplikácie v praxi:</p>
+
+<ul>
+<li>Otvorte <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z panela s ponukami a uvidíte každú aktívnu aplikáciu s vlastným ovládacím prvkom.</li>
+<li>Znížte všetko, čo bije – zvyčajne hudobnú alebo video aplikáciu zvládnutú za tepla – na približne 60 – 70 %.</li>
+<li>Nechajte svoju tichú referenčnú aplikáciu (často aplikáciu na volanie alebo podcast) na 100 % a použite každú aplikáciu <strong>posilniť</strong> pretlačiť ho cez 100 %, ak je stále príliš mäkké.</li>
+<li>Nastavte úrovne raz. SoundDial si pamätá hlasitosť každej aplikácie, takže zostatok zostane zachovaný aj pri ďalšom otvorení.</li>
+</ul>
+
+<p>Väčšinu práce s levelovaním tu robia dve funkcie. <strong>Boost</strong> záleží, pretože veľa aplikácií je jednoducho príliš tichých aj na maximum – posúvač pre jednotlivé aplikácie, ktorý iba znižuje hlasitosť, ich nemôže zachrániť, ale ten, ktorý dokáže zosilniť viac ako 100 % áno. A <strong>objemové profily</strong> Umožní vám uložiť celú sadu úrovní – povedzme profil „zameraná hudba nízka, hlasné hovory“ pre prácu v porovnaní s iným mixom pre hranie hier – a okamžite medzi nimi prepínať namiesto toho, aby ste museli znova upravovať aplikáciu po aplikácii.</p>
+
+<h2>Kde to pomáha najviac</h2>
+
+<p>Najbežnejšou úľavou je skok medzi hudbou a stretnutím: streamovanie hudby nahlas, potom aplikácia na volanie, ktorá v porovnaní znie slabo. Nastavte aplikáciu hovoru vyššie (alebo zosilnite), stiahnite hudbu nadol a prekvapivé kolísanie hlasitosti zmizne. To isté platí pre tichú hru v prehliadači proti hlasnému prehrávaču videa alebo systémové upozornenia, ktoré preskakujú všetko.</p>
+
+<p>Aby bolo jasné, aké sú limity: SoundDial vyvažuje výstup vašich aplikácií. Nedokáže prerobiť zle vytvorenú stopu a nedokáže vymyslieť detaily vo zvuku, ktorý bol zmiešaný s veľmi širokým dynamickým rozsahom. Poskytuje vám jeden ovládací prvok macOS, ktorý ste vynechali – stabilné úrovne pre jednotlivé aplikácie, ktoré zostanú nezmenené.</p>
+
+<p>Už vás nebaví jazdiť na hlavnom posúvači pri každom prepínaní aplikácií? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> je jednorazová cena 14,99 EUR na Mac App Store – v karanténe, bez ovládačov, bez DMG – a konečne dáva každej aplikácii vlastný zapamätaný objem.</p>`,
   },
 };

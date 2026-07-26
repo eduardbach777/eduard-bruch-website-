@@ -1,74 +1,51 @@
 "use client";
 
 import Link from "next/link";
-import { useLanguage } from "@/context/LanguageContext";
-import { t } from "@/lib/translations";
+
+const links = [
+  { name: "Work", href: "/#work" },
+  { name: "Guides", href: "/#guides" },
+  { name: "About", href: "/about" },
+  { name: "Impressum", href: "/impressum" },
+  { name: "Datenschutz", href: "/datenschutz" },
+  { name: "Support", href: "/support" },
+];
 
 export default function Footer() {
-  const { lang } = useLanguage();
-
   return (
-    <footer className="bg-neutral-950 pt-24 pb-16 md:pt-32 md:pb-20">
-      <div className="max-w-5xl mx-auto px-8 md:px-12">
-        {/* Logo */}
-        <div className="text-center mb-16">
-          <Link
-            href="/"
-            className="text-xs tracking-[0.3em] font-light text-white hover:opacity-70 transition-opacity"
-          >
-            EDUARD BRUCH
-          </Link>
+    <footer style={{ borderTop: "1px solid var(--ac-line)" }} className="py-16">
+      <div className="mx-auto flex max-w-[1280px] flex-wrap items-center justify-between gap-5 px-6 md:px-10">
+        <div className="flex items-center gap-2.5 text-[13px] font-semibold uppercase tracking-[0.16em]">
+          <span style={{ color: "var(--ac-gold)", fontFamily: "var(--font-fraunces)", fontSize: 15 }}>✦</span>
+          Eduard Bruch — Angel Company
         </div>
-
-        {/* Navigation */}
-        <nav className="flex flex-wrap items-center justify-center gap-10 md:gap-14 mb-20">
-          <Link
-            href="/creative"
-            className="text-[11px] tracking-[0.2em] text-white/40 hover:text-white transition-colors uppercase"
-          >
-            {t.footer.software[lang]}
-          </Link>
-          <Link
-            href="/contact"
-            className="text-[11px] tracking-[0.2em] text-white/40 hover:text-white transition-colors uppercase"
-          >
-            {t.footer.contact[lang]}
-          </Link>
-          <Link
-            href="/apps"
-            className="text-[11px] tracking-[0.2em] text-white/40 hover:text-white transition-colors uppercase"
-          >
-            {t.footer.apps[lang]}
-          </Link>
-        </nav>
-
-        {/* Legal */}
-        <nav className="flex flex-wrap items-center justify-center gap-10 mb-16">
-          <Link
-            href="/impressum"
-            className="text-[11px] tracking-[0.15em] text-white/25 hover:text-white/50 transition-colors"
-          >
-            {t.footer.impressum[lang]}
-          </Link>
-          <Link
-            href="/datenschutz"
-            className="text-[11px] tracking-[0.15em] text-white/25 hover:text-white/50 transition-colors"
-          >
-            {t.footer.datenschutz[lang]}
-          </Link>
-          <Link
-            href="/support"
-            className="text-[11px] tracking-[0.15em] text-white/25 hover:text-white/50 transition-colors"
-          >
-            {t.footer.support[lang]}
-          </Link>
-        </nav>
-
-        {/* Copyright */}
-        <p className="text-white/20 text-[11px] tracking-[0.15em] text-center">
-          &copy; {new Date().getFullYear()} Eduard Bruch
-        </p>
+        <div className="flex flex-wrap gap-x-6 gap-y-2">
+          {links.map((l) => (
+            <Link
+              key={l.name}
+              href={l.href}
+              className="ac-fl text-[12.5px] font-medium uppercase tracking-[0.08em]"
+              style={{ color: "var(--ac-mut)" }}
+            >
+              {l.name}
+            </Link>
+          ))}
+        </div>
+        <div
+          className="text-[12px] tracking-[0.14em]"
+          style={{ color: "var(--ac-soft)", fontFamily: "var(--font-geist-mono)" }}
+        >
+          © 2026 · Hamburg
+        </div>
       </div>
+      <style jsx global>{`
+        .ac-fl {
+          transition: color 0.2s;
+        }
+        .ac-fl:hover {
+          color: var(--ac-gold) !important;
+        }
+      `}</style>
     </footer>
   );
 }

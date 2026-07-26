@@ -40,7 +40,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala zbudować czyste środowisko nagrywania, sterując każdą aplikacją niezależnie:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — konfiguracja nagrywania podcastu z niezależnymi poziomami dla audio gościa, monitorowania i powiadomień" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — konfiguracja nagrywania podcastu z niezależnymi poziomami dla audio gościa, monitorowania i powiadomień" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Profil nagrywania</h3>
 <ul>
@@ -98,7 +98,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje każdej aplikacji własny suwak głośności z <strong>przyrostami 1%</strong> od 0% do 200%. To 200 poziomów precyzji na aplikację, w porównaniu z 16 (lub 64 z modyfikatorem) ogólnosystemowymi stopniami macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — precyzyjna kontrola głośności dla każdej aplikacji z przyrostami 1% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — precyzyjna kontrola głośności dla każdej aplikacji z przyrostami 1% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ustaw głośność systemową na umiarkowany poziom bazowy (50-60%), a następnie użyj SoundDial do precyzyjnego dostrojenia każdej aplikacji:</p>
 <ul>
@@ -149,7 +149,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje Slack własny suwak głośności, oddzielony od każdej innej aplikacji. Ponieważ audio huddle Slack i dźwięki powiadomień są częścią tej samej aplikacji, suwak kontroluje oba — ale to właśnie tego chcesz przez większość czasu.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial kontrolujący głośność Slack niezależnie podczas huddle, podczas gdy muzyka gra na innym poziomie" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial kontrolujący głośność Slack niezależnie podczas huddle, podczas gdy muzyka gra na innym poziomie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Konfiguracja zoptymalizowana pod huddle</h3>
 <ul>
@@ -198,7 +198,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ma <strong>konfigurowalną domyślną głośność</strong> dla nowych aplikacji. W ustawieniach określasz, na jakim poziomie głośności nowo wykryte aplikacje powinny startować — na przykład 70%. Za pierwszym razem, gdy jakakolwiek aplikacja uruchomi się i wyprodukuje audio, SoundDial ustawia ją na 70% zamiast 100%.</p>
 
-<img src="/apps/sounddial.png" alt="Ustawienie domyślnej głośności SoundDial — nowe aplikacje startują na skonfigurowanym poziomie zamiast na pełnej głośności" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Ustawienie domyślnej głośności SoundDial — nowe aplikacje startują na skonfigurowanym poziomie zamiast na pełnej głośności" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Oznacza to:</p>
 <ul>
@@ -253,7 +253,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje każdej aplikacji na twoim Macu własny suwak głośności. Ustaw aplikacje powiadomień nisko, muzykę na komfortowym poziomie, a rozmowy na pełnej głośności — wszystko niezależnie. Zapisz konfiguracje jako profile i przełączaj jednym kliknięciem.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — kontrola głośności dla każdej aplikacji, zarządzanie wszystkimi źródłami audio Mac niezależnie" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kontrola głośności dla każdej aplikacji, zarządzanie wszystkimi źródłami audio Mac niezależnie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Pobierz SoundDial z Mac App Store</a> — jednorazowy zakup za €14,99, bez subskrypcji, macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const plArticles: ArticleSet = {
 
 <p>Jeśli ustawienia są na maksimum, a uczestnicy nadal są zbyt cicho, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala wzmocnić Webex do <strong>200%</strong>. Amplifikuje to audio rozmowy poza wbudowane maksimum Webex — przydatne gdy uczestnik ma słaby mikrofon lub gdy przetwarzanie audio Webex zbyt bardzo redukuje sygnał.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zwiększający głośność rozmów Cisco Webex powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zwiększający głośność rozmów Cisco Webex powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial pomaga też podczas kolejnych spotkań Webex: użyj automatycznego tłumienia, aby automatycznie obniżyć muzykę w tle gdy każde spotkanie się rozpoczyna, i przywrócić ją podczas przerw. Zapisz profil głośności "Spotkania", aby natychmiast ustawić preferowany balans audio na dzień roboczy.</p>
 
@@ -347,7 +347,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> umieszcza każdą aplikację w jednym panelu paska menu z niezależnymi suwakami głośności. Oba źródła audio, obok siebie, każde z własnym poziomem. Dostosuj jedno bez dotykania drugiego.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pokazujący dwa źródła audio na różnych poziomach głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pokazujący dwa źródła audio na różnych poziomach głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Przykładowe konfiguracje:</p>
 
@@ -411,7 +411,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala stworzyć idealną konfigurację na noc:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — nocna konfiguracja filmowa z umiarkowaną głośnością streamingu i wyciszonymi powiadomieniami" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — nocna konfiguracja filmowa z umiarkowaną głośnością streamingu i wyciszonymi powiadomieniami" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Nocny profil filmowy</h3>
 <ul>
@@ -473,7 +473,7 @@ export const plArticles: ArticleSet = {
 
 <p>Nawet jeśli głośność systemowa resetuje się po uśpieniu, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> chroni twój <em>balans</em> głośności dla poszczególnych aplikacji. Jego funkcja <strong>pamięci głośności</strong> zapisuje głośność każdej aplikacji niezależnie i przywraca ją po budzeniu, restarcie lub ponownym uruchomieniu aplikacji.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zachowujący poziomy głośności dla poszczególnych aplikacji po cyklach uśpienia i budzenia Maca" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zachowujący poziomy głośności dla poszczególnych aplikacji po cyklach uśpienia i budzenia Maca" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Więc nawet jeśli macOS resetuje głośność systemową do 80% po uśpieniu, twój balans dla poszczególnych aplikacji pozostaje nienaruszony:</p>
 <ul>
@@ -518,7 +518,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala ustawić dokładne głośności dla każdej aplikacji niezależnie:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial oddzielający wyjście DAW od Discord i ścieżek referencyjnych na macOS do produkcji muzycznej" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial oddzielający wyjście DAW od Discord i ścieżek referencyjnych na macOS do produkcji muzycznej" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Konfiguracja produkcyjna</h3>
 <ul>
@@ -586,7 +586,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala wzmocnić Apple Music do <strong>200%</strong>. Sygnał audio jest amplifikowany na poziomie systemowym przed dotarciem do głośników lub słuchawek. Tylko Apple Music staje się głośniejsza — Zoom, Slack i przeglądarka pozostają na swoich aktualnych poziomach.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zwiększający głośność Apple Music powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zwiększający głośność Apple Music powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Jest to też przydatne dla odwrotnego problemu: jeśli Apple Music jest zbyt głośna w stosunku do rozmowy Zoom, zmniejsz Apple Music do 25% w SoundDial zachowując Zoom na 100%. Kontrola dla każdej aplikacji oznacza, że nigdy nie musisz kompromitować głośności jednej aplikacji dla drugiej.</p>
 
@@ -666,7 +666,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> kosztuje €14,99 — jednorazowo, nie subskrypcja. Dla kontekstu, to mniej niż dwa miesiące subskrypcji Spotify, za narzędzie, którego będziesz używać każdego dnia. To mniej niż połowa ceny SoundSource ($39), i zawiera funkcje (profile, automatyczne tłumienie), których SoundSource nie ma.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — niezawodny mikser głośności dla Maca z profilami, automatycznym tłumieniem i wzmocnieniem 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — niezawodny mikser głośności dla Maca z profilami, automatycznym tłumieniem i wzmocnieniem 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Dostępny w <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — przeglądany przez Apple, w piaskownicy, bez sterowników systemowych. Jednorazowy zakup €14,99, bez subskrypcji, macOS 14.2+.</p>
 `,
@@ -700,7 +700,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> umieszcza zarówno Spotify jak i Discord w tym samym panelu z niezależnymi suwakami głośności. Ustaw stosunek, który chcesz i zostaw go:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balansujący Spotify i Discord na różnych poziomach głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balansujący Spotify i Discord na różnych poziomach głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Złoty stosunek dla muzyki + czat głosowy</h3>
 <p>Na podstawie tego, jak większość ludzi tego używa:</p>
@@ -800,7 +800,7 @@ export const plArticles: ArticleSet = {
 
 <p>Wszystkie pięć z tych opcji jest dostępnych w <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — natywna aplikacja paska menu macOS, która dodaje mikser głośności, którego Apple nigdy nie zbudował.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — kontrola głośności dla każdej aplikacji, profile, automatyczne tłumienie i wzmocnienie 200% dla macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kontrola głośności dla każdej aplikacji, profile, automatyczne tłumienie i wzmocnienie 200% dla macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Część 6: Głośność dla każdej aplikacji z SoundDial</h2>
 
@@ -860,7 +860,7 @@ export const plArticles: ArticleSet = {
 
 <p>To ekstremalne wzmocnienie i wprowadzi zniekształcenie na niektórych treściach, ale dla ekstremalnie cichego materiału źródłowego może być tym, czego potrzebujesz.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność VLC na poziomie systemu na macOS dla cichych plików wideo" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność VLC na poziomie systemu na macOS dla cichych plików wideo" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Co ważniejsze, SoundDial pozwala wzmocnić VLC <strong>niezależnie</strong>. Twój odtwarzacz muzyki, przeglądarka i aplikacje komunikacyjne pozostają na normalnych poziomach, podczas gdy tylko VLC staje się głośniejszy. Jeśli wzmocnisz VLC do 180% w SoundDial, Spotify się nie zmieni. To coś, czego wbudowane wzmocnienie VLC nie potrafi — wzmocnienie VLC wpływa tylko na VLC, ale systemowa głośność macOS nadal łączy wszystko inne razem.</p>
 
@@ -919,7 +919,7 @@ export const plArticles: ArticleSet = {
   <li><strong>Łatwy przełącznik:</strong> Włącz lub wyłącz auto-ducking w ustawieniach SoundDial. Gdy go nie chcesz, wyłącz. Gdy chcesz z powrotem, włącz.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial konfigurowalny auto-ducking — kontroluj dokładnie, ile ściszany jest dźwięk w tle podczas połączeń" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial konfigurowalny auto-ducking — kontroluj dokładnie, ile ściszany jest dźwięk w tle podczas połączeń" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Różnica: zamiast jakiejś aplikacji decydującej, że twoja muzyka ma spaść do zera podczas każdego połączenia, ty decydujesz, że ma spaść do 25%. Zamiast tracić kontrolę, ją zyskujesz. I zamiast próbować wyłączyć ukrytą funkcję w trzech różnych aplikacjach, masz jeden przełącznik w jednym miejscu.</p>
 
@@ -982,7 +982,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> wzmacnia głośność dowolnej aplikacji do <strong>200%</strong>. Jeśli Spotify przez twoje słuchawki Bluetooth jest zbyt cichy, przeciągnij suwak do 160%. Sygnał audio jest wzmacniany przed dotarciem do słuchawek, skutecznie podwajając dostępną głośność dla tej aplikacji.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność aplikacji dla słuchawek Bluetooth na Macu z suwakami per aplikacja do 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność aplikacji dla słuchawek Bluetooth na Macu z suwakami per aplikacja do 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Wzmocnienie per aplikacja jest lepsze niż ogólnosystemowe wzmocnienie głośności, ponieważ możesz wzmocnić tylko cichą aplikację. Jeśli podcast jest cichy, ale muzyka jest w porządku, wzmocnij aplikację do podcastów do 170%, zachowując Spotify na 80%. Każda aplikacja pozostaje na właściwym poziomie.</p>
 
@@ -1019,7 +1019,7 @@ export const plArticles: ArticleSet = {
 
 <p>Dokładnie to robi <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>. Ustaw każdą aplikację na poziom, który chcesz, żeby słyszeli widzowie:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balansujący poziomy audio gry, Discord i muzyki dla streamowania OBS na Macu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balansujący poziomy audio gry, Discord i muzyki dla streamowania OBS na Macu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typowa konfiguracja audio do streamowania</h3>
 <ul>
@@ -1072,7 +1072,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ma funkcję <strong>Pamięci głośności</strong>. Po włączeniu zapisuje poziom głośności każdej aplikacji według jej identyfikatora bundle. Gdy aplikacja kończy pracę i restartuje — czy ją restartujesz, zawiesza się, czy restartujesz Maca — SoundDial automatycznie przywraca ją do zapisanej głośności.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pamięć głośności — automatycznie zapamiętuje i przywraca poziomy głośności per aplikacja na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pamięć głośności — automatycznie zapamiętuje i przywraca poziomy głośności per aplikacja na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Jak to działa</h3>
 <ol>
@@ -1139,7 +1139,7 @@ export const plArticles: ArticleSet = {
 
 <p>Uniwersalnym rozwiązaniem jest wzmocnienie aplikacji podcastowej powyżej limitu 100% macOS. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje każdej aplikacji suwak głośności do <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność Apple Podcasts do 180% na Macu dla cichych odcinków podcastów" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność Apple Podcasts do 180% na Macu dla cichych odcinków podcastów" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ustaw Apple Podcasts lub aplikację podcastową na 160-180%, zachowując muzykę Spotify na 40% i Slack na 15%. Podcast staje się głośniejszy bez sprawiania, że wszystko inne jest boleśnie głośne. Gdy wrócisz do muzyki, po prostu obniż aplikację podcastową z powrotem do normy — lub pozwól pamięci głośności SoundDial zapamiętać to automatycznie.</p>
 
@@ -1184,7 +1184,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje każdej aplikacji własny suwak głośności, dzięki czemu możesz zbudować idealną konfigurację audio do nauki:</p>
 
-<img src="/apps/sounddial.png" alt="Konfiguracja studenta SoundDial — wykład na pełnej głośności, muzyka do nauki cicho, powiadomienia wyciszone" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Konfiguracja studenta SoundDial — wykład na pełnej głośności, muzyka do nauki cicho, powiadomienia wyciszone" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Profil wykładowy</h3>
 <ul>
@@ -1226,6 +1226,9 @@ export const plArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Zaktualizowałeś macOS. Wszystko wyglądało dobrze — aż zauważyłeś, że nie ma dźwięku. Albo dźwięk trzeszczy. Albo głośność utkwiła. Albo twoje urządzenie wyjścia audio zniknęło. Problemy z audio po aktualizacji zdarzają się przy prawie każdym wydaniu macOS, i wahają się od miernie irytujących do całkowicie niemych.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Oto systematyczny przewodnik naprawy audio Mac po aktualizacji macOS, obejmujący każdy znany problem i rozwiązanie.</p>
 
@@ -1330,7 +1333,7 @@ export const plArticles: ArticleSet = {
   <li>Spotify wraca do 30%, Zoom do 100%, Slack do 15% — idealnie przywrócone</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="Skrót wyciszenia wszystkich SoundDial — Control+Option+M do wyciszania i wyłączania wyciszenia wszystkich aplikacji z przywracaniem głośności" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Skrót wyciszenia wszystkich SoundDial — Control+Option+M do wyciszania i wyłączania wyciszenia wszystkich aplikacji z przywracaniem głośności" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Różnica od klawisza wyciszenia systemu:</p>
 <ul>
@@ -1393,7 +1396,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje Chrome własny suwak głośności do <strong>200%</strong>. Ponieważ Google Meet działa wewnątrz Chrome, wzmocnienie Chrome wzmacnia Meet. Przeciągnij suwak do 150% lub 180%, a audio połączenia jest wzmacniane w czasie rzeczywistym.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność Google Meet (Chrome) powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność Google Meet (Chrome) powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Działa też z Safari, jeśli używasz Meet w Safari. SoundDial kontroluje każdą przeglądarkę niezależnie — wzmocnij Safari dla Meet, zachowując Chrome na normalnej głośności dla wszystkiego innego.</p>
 
@@ -1445,7 +1448,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> daje każdej aplikacji własny suwak głośności. Możesz ustawić aplikacje obfite w powiadomienia na subtelny poziom, który jest zauważalny, ale nie irytujący, zachowując aplikacje medialne na komfortowym poziomie słuchania.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial oddzielający głośność aplikacji z powiadomieniami od głośności aplikacji medialnych na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial oddzielający głośność aplikacji z powiadomieniami od głośności aplikacji medialnych na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Przykładowa konfiguracja</h3>
 <p><strong>Aplikacje medialne:</strong></p>
@@ -1518,7 +1521,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala wzmocnić głośność FaceTime do <strong>200%</strong>. Otwórz panel paska menu, znajdź FaceTime i przeciągnij suwak powyżej 100%. Audio połączenia jest wzmacniane w czasie rzeczywistym bez wpływu na żadną inną aplikację.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność połączenia FaceTime powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wzmacniający głośność połączenia FaceTime powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial pomaga też w odwrotnym problemie: jeśli dźwięk dzwonka lub powiadomienia FaceTime jest za głośny podczas czasu skupienia, obniż FaceTime do 20% lub wycisz zachowując grającą muzykę. Jedno kliknięcie do wyciszenia, jedno do wyłączenia wyciszenia.</p>
 
@@ -1572,7 +1575,7 @@ export const plArticles: ArticleSet = {
 <h3>Wycisz wszystkie aplikacje: Control + Option + M</h3>
 <p>Naciśnij <strong>⌃⌥M</strong>, żeby natychmiast wyciszyć audio każdej aplikacji. Naciśnij ponownie, żeby wyłączyć wyciszenie wszystkiego, przywracając każdą aplikację do poprzedniej głośności. To jest przycisk "natychmiastowej ciszy" szybszy niż sięganie po klawisz wyciszenia — i w przeciwieństwie do klawisza wyciszenia systemu, przywraca głośności per aplikacja przy wyłączeniu wyciszenia.</p>
 
-<img src="/apps/sounddial.png" alt="Skróty klawiszowe SoundDial — Control+Option+S aby przełączyć, Control+Option+M aby wyciszyć wszystko" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Skróty klawiszowe SoundDial — Control+Option+S aby przełączyć, Control+Option+M aby wyciszyć wszystko" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Workflow sterowany klawiaturą</h2>
 
@@ -1637,7 +1640,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> korzysta z nowoczesnego API Audio Tap — bez wirtualnego urządzenia audio, bez sterownika systemowego, bez rozszerzeń jądra. Bezpośrednio podłącza się do strumienia audio każdej aplikacji, korzystając z obsługiwanego API Apple, co oznacza, że nie psuje się podczas aktualizacji macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — alternatywa dla muzyki w tle, która nie instaluje wirtualnych urządzeń audio" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — alternatywa dla muzyki w tle, która nie instaluje wirtualnych urządzeń audio" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Co zyskujesz po muzyce w tle:</p>
 <ul>
@@ -1760,7 +1763,7 @@ export const plArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — lżejsza, skupiona alternatywa dla SoundSource z profilami głośności i automatycznym duckingiem" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — lżejsza, skupiona alternatywa dla SoundSource z profilami głośności i automatycznym duckingiem" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Który powinieneś wybrać?</h2>
 
@@ -1804,7 +1807,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Daje suwaki głośności w każdej aplikacji z precyzyjną kontrolą — każdy suwak przesuwa się w krokach 1% od 0% do 200%. Możesz jednocześnie ustawić Spotify na 5% i Zoom na 40%. Poziom kontroli jest znacznie bardziej precyzyjny niż w 16 etapach systemowych macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial precyzyjną kontrolę głośności w każdej aplikacji z przyrostami 1% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial precyzyjną kontrolę głośności w każdej aplikacji z przyrostami 1% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Do nocnego używania słuchawek:</p>
 <ul>
@@ -1829,6 +1832,9 @@ export const plArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>Jeden AirPod brzmi dobrze. Drugi jest wyraźnie cichszy. Muzyka wydaje się nie w centrum centra. Głosy brzmią, jakby dochodziły z jednej strony. To jedna z najczęstszych skarg na AirPods i zwykle daje się ją łatwo rozwiązać.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Wyczyść AirPods</h2>
 
@@ -1943,7 +1949,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> pozwala ci wzmocnić dowolną aplikację do <strong>200%</strong>. Jeśli Safari lub aplikacja Netflix są zbyt ciche, przeciągnij suwak powyżej 100%. Dźwięk jest wzmacniany zanim dotrze do głośników, co skutecznie podwaja maksymalną głośność tylko w tej aplikacji.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podbijanie dźwięku Netflix do 180% na Mac dla wyraźniejszych dialogów i strumieniowania dźwięku" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podbijanie dźwięku Netflix do 180% na Mac dla wyraźniejszych dialogów i strumieniowania dźwięku" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Jest to szczególnie przydatne, gdy:</p>
 <ul>
@@ -2026,7 +2032,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> wypełnia tę lukę, nadając każdej aplikacji własny suwak głośności. Ustaw dźwięk do pracy zdalnej dokładnie tak, jak chcesz:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial konfiguracja audio do pracy zdalnej — różne poziomy głośności dla Zooma, Spotify i Slacka na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial konfiguracja audio do pracy zdalnej — różne poziomy głośności dla Zooma, Spotify i Slacka na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Profile zapisu dla każdego trybu</h3>
 
@@ -2121,7 +2127,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Nadaje Twojej przeglądarce własny suwak głośności, niezależny od innych aplikacji. Obniż Safari do 30%, a Zoom pozostaje na 100%. Wycisz Chrome całkowicie, zostawiając odtwarzane Spotify. Jedno kliknięcie.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial kontrolować głośność przeglądarki niezależnie od innych aplikacji na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial kontrolować głośność przeglądarki niezależnie od innych aplikacji na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>To najszybszy sposób na niespodziewaną kartę automatycznie odtwarzaną: zamiast szukać, która karta wydaje dźwięk, kliknij SoundDial w pasku menu i wycisz przeglądarkę. Wszystko inne gra dalej. Gdy znajdziesz i zamkniesz problematyczną kartę, odcisz przeglądarkę i jej wolumin wróci do poprzedniego stanu.</p>
 
@@ -2163,7 +2169,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Daje Discordowi własny suwak głośności w pasku menu, niezależny od innych aplikacji. Ustaw Discord dokładnie na poziom, jaki chcesz — 100% dla wyraźnego czatu głosowego, 40% dla subtelnego tła lub całkowicie wyciszony — bez dotykania gry, muzyki czy czegokolwiek innego.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial kontrolować głośność Discorda niezależnie od gry i muzyki na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial kontrolować głośność Discorda niezależnie od gry i muzyki na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typowe ustawienia</h3>
 
@@ -2239,7 +2245,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Zawiera wybieracz urządzeń wyjściowych bezpośrednio w wyskakującym panelu menu — obok suwaków głośności w poszczególnych aplikacjach. Jedno kliknięcie, by otworzyć SoundDial, drugie, by zmienić urządzenie. Nie trzeba grzebać w ustawieniach systemu.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial z przełączaniem urządzeń audio wyjściowych i regulacją głośności w zależności od aplikacji w jednym panelu menu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial z przełączaniem urządzeń audio wyjściowych i regulacją głośności w zależności od aplikacji w jednym panelu menu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Zaletą przełączania urządzeń wewnątrz SoundDial: możesz przełączać wyjście <em>oraz</em> Dostosowuj głośność w poszczególnych aplikacjach w tym samym panelu. Przełącz się na AirPods i natychmiast wyłącz Spotify, wzmacniając rozmowę — wszystko to bez opuszczania popovera.</p>
 
@@ -2257,6 +2263,9 @@ export const plArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>Słuchasz muzyki i słyszysz "p" dźwięk. Potem trzeszcz. Potem zacinanie się, podczas którego dźwięk na ułamek sekundy się przerywa i wraca. To nie jest piosenka — to twoja Mac. Trzaski dźwiękowe na macOS są irytująco powszechne i mają co najmniej sześć różnych przyczyn.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Ten przewodnik omawia wszystkie znane przyczyny trzaskania, trzaskania i zacinania się dźwięku na Mac, od poprawek programowych po jeden sprzętowy problem, o którym powinieneś wiedzieć.</p>
 
@@ -2384,7 +2393,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Pozwala podnieść głośność dowolnej aplikacji do poziomu <strong>200%</strong>, w tym Microsoft Teams. Suwak Drag Teams do 150% lub 180% i dźwięk jest wzmacniany w czasie rzeczywistym. Only Teams robi się głośniejszy — muzyka, przeglądarka i inne aplikacje pozostają na obecnym poziomie.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zwiększenie liczby połączeń w Microsoft Teams powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zwiększenie liczby połączeń w Microsoft Teams powyżej 100% na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial też pomaga w odwrotnym problemie: jeśli dźwięki powiadomień Teams są zbyt głośne podczas skupienia, obniż Teams do 15% lub całkowicie wycisz, jednocześnie utrzymując muzykę włączoną. Jedno kliknięcie wyciszyć, jedno odciszać.</p>
 
@@ -2400,6 +2409,9 @@ export const plArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Jesteś na wideorozmowie. Luz ciągle dzwoni. W tle gra muzyka. Sięgasz po klawisz głośności i — wszystko robi się cichsze. Telefon, muzyka, powiadomienia. macOS ma dokładnie jeden suwak głośności i steruje wszystkim naraz.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows ma mikser głośności w każdej aplikacji od czasów Visty w 2006 roku. Dwadzieścia lat później macOS nadal nie działa. Jeśli chcesz wyłączyć Spotify bez wpływu na rozmowę na Zoomie, Apple nie ma dla Ciebie wbudowanego rozwiązania.</p>
 
@@ -2507,7 +2519,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Slack daje własny, niezależny suwak głośności. Ustaw ją na poziomie, który ci odpowiada — albo wycisz ją całkowicie jednym kliknięciem. Gdy będziesz gotowy, by znów skupić się na Slacku, wyłącz go i głośność wróci do poprzedniego poziomu.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial z wyciszonym Slackiem i odtwarzającym Spotify na normalnej głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial z wyciszonym Slackiem i odtwarzającym Spotify na normalnej głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Idealny workflow Slacka</h3>
 <ul>
@@ -2559,7 +2571,7 @@ export const plArticles: ArticleSet = {
 <h3>Profile przełączające</h3>
 <p>Twoje zapisane profile pojawiają się jako przyciski w wyskakującym okienku SoundDial. Kliknij jedną i każda aplikacja natychmiast przełącza się na objętości zapisane w tym profilu. Jedno kliknięcie zastępuje pięć lub sześć ręcznych regulacji.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial profile głośności — jednym kliknięciem przełączasz się między trybami Spotkania, Skupienia i Relaksu na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial profile głośności — jednym kliknięciem przełączasz się między trybami Spotkania, Skupienia i Relaksu na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Przykładowe profile</h3>
 
@@ -2657,7 +2669,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Pozwala podnieść głośność dowolnej aplikacji do poziomu <strong>200%</strong> — w tym Zoom. Jeśli uczestnik jest zbyt cichy, przeciągnij suwak Zooma do 150% lub 180%. Sygnał audio jest wzmacniany ponad wbudowany maksimum Zooma, dzięki czemu nawet najcichsze głosy są słyszalne.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zwiększenie głośności rozmów na Zoomie do 180% na Mac dla czystszego dźwięku podczas rozmów wideo" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zwiększenie głośności rozmów na Zoomie do 180% na Mac dla czystszego dźwięku podczas rozmów wideo" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Kluczowa zaleta: zwiększenie Zoomu nie wpływa na nic innego. Twoja muzyka, powiadomienia i inne aplikacje pozostają na obecnym poziomie. Tylko Zoom robi się głośniejszy.</p>
 
@@ -2696,7 +2708,7 @@ export const plArticles: ArticleSet = {
 
 <p>Gotowe. Spotify jest cichsze. Zoom pozostał bez zmian. Powiadomienia pozostają bez zmian. Wszystko inne pozostaje bez zmian. Nie opuściłeś swojej obecnej aplikacji — wyskakujący panel paska menu otwiera się dokładnie tam, gdzie jesteś.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial niezależne obniżanie głośności Spotify, podczas gdy inne aplikacje są na pełnej głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial niezależne obniżanie głośności Spotify, podczas gdy inne aplikacje są na pełnej głośności na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Jeszcze lepiej: zapisz to jako profil</h2>
 
@@ -2749,7 +2761,7 @@ export const plArticles: ArticleSet = {
 
 <p>Ponieważ Apple nie zamierza go zbudować, lukę wypełniają aplikacje firm trzecich. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> to natywna aplikacja macOS menu paska, która daje mikser głośności — niezależne suwaki głośności dla każdej działającej aplikacji.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zapewnienie regulacji głośności w zależności od aplikacji na macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zapewnienie regulacji głośności w zależności od aplikacji na macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial jest w pełni kompatybilny z macOS Tahoe i korzysta z nowoczesnego API Apple Core Audio Tap — nie wymaga żadnych zewnętrznych sterowników audio ani rozszerzeń jądra. Działa to czysto z modelem bezpieczeństwa macOS i nie zakłóca innych aplikacji audio.</p>
 
@@ -2811,7 +2823,7 @@ export const plArticles: ArticleSet = {
 
 <p>Twoja decyzja jest krystalicznie jasna. Muzyka to subtelne tło. Nie trzeba przełączać się między urządzeniami.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pokazywał Zoom na pełnej głośności i obniżony Spotify podczas rozmowy na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pokazywał Zoom na pełnej głośności i obniżony Spotify podczas rozmowy na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Jeszcze lepiej: SoundDial's <strong>automatyczne kaczowanie</strong> robi to automatycznie. Gdy dołączasz do połączenia, wykrywa aktywację mikrofonu i obniża wszystkie aplikacje w tle do poziomu, który sam skonfigurujesz (domyślnie 30%). Gdy połączenie się kończy, wszystko wraca do normy. Nie trzeba ręcznie regulować suwaków.</p>
 
@@ -2872,7 +2884,7 @@ export const plArticles: ArticleSet = {
 
 <p>Nawet jeśli nie możesz zapobiec macOS zmianie głośności systemu, możesz chronić swoje <em>Na aplikację</em> Równowaga objętości. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Zapamiętuje poziom głośności każdej aplikacji osobno. Gdy aplikacja się restartuje lub gdy Mac budzi się ze stanu uśpienia, SoundDial przywraca każdą aplikację do zapisanej głośności.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zapamiętywanie poziomów objętości w zależności od aplikacji przy wznowieniu macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zapamiętywanie poziomów objętości w zależności od aplikacji przy wznowieniu macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Oznacza to, że nawet jeśli zmieni się głośność systemu, równowaga na poziomie aplikacji pozostaje stała:</p>
 <ul>
@@ -2935,7 +2947,7 @@ export const plArticles: ArticleSet = {
 
 <p>SoundDial korzysta z nowoczesnego API Apple Core Audio Tap do czystej kontroli dźwięku na proces. Jest lekki, działa całkowicie na pasku menu i nie wymaga skomplikowanych konfiguracji. Za 14,99 € jest znacznie tańszy niż SoundSource (39 USD), a zawiera funkcje, których SoundSource nie ma — profile głośności i automatyczne ducking. A ponieważ jest dostępny w Mac App Store, jest recenzowany przez Apple, sandboxowany i instaluje się bez konieczności pobierania DMG czy instalowania sterowników dźwięku systemowego.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mikser głośności w aplikacji pokazujący suwaki głośności w aplikacji na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mikser głośności w aplikacji pokazujący suwaki głośności w aplikacji na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Ameba)</h3>
 
@@ -3108,7 +3120,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> rozwiązuje to, nadając każdej aplikacji — w tym Safari i Chrome — niezależny suwak głośności od 0% do <strong>200%</strong>. Jeśli film na YouTube jest zbyt cichy, przeciągnij suwak przeglądarki na 150% lub 180%. Dźwięk jest wzmacniany w czasie rzeczywistym, nie wpływając na żadną inną aplikację.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zwiększenie głośności przeglądarki Safari do 180% dla cichych filmów na YouTube na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zwiększenie głośności przeglądarki Safari do 180% dla cichych filmów na YouTube na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Jest to szczególnie przydatne, ponieważ:</p>
 <ul>
@@ -3160,7 +3172,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Robi. Każda aplikacja daje własny suwak głośności, dzięki czemu możesz ustawić aplikacje z dużą ilością powiadomień, takie jak Slack, Mail czy Kalendarz, na znacznie niższy poziom, jednocześnie utrzymując aplikacje multimedialne na komfortowym poziomie.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wyświetlanie Slacka na niskim poziomie i Spotify na normalnej głośności — niezależna kontrola powiadomień na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wyświetlanie Slacka na niskim poziomie i Spotify na normalnej głośności — niezależna kontrola powiadomień na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typowy zestaw przyjazny słuchawkom</h3>
 <ul>
@@ -3229,7 +3241,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Daje ci dokładnie to. Funkcja automatycznego duckingu monitoruje mikrofon i automatycznie koryguje dźwięk tła na początku rozmowy — ale <strong>Kontrolujesz poziom kaczki</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ustawienia automatycznego duckingu — konfigurowalne zmniejszenie głośności podczas rozmów Zoom na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ustawienia automatycznego duckingu — konfigurowalne zmniejszenie głośności podczas rozmów Zoom na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Jak to działa</h3>
 <ol>
@@ -3311,7 +3323,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Pozwala podnieść głośność dowolnej aplikacji do poziomu <strong>200%</strong>. Jeśli Spotify jest zbyt ciche przez AirPods, przeciągnij suwak Spotify na 150% lub 180% w SoundDial. Sygnał audio jest wzmacniany zanim trafi do AirPods, co sprawia, że są głośniejsze niż Apple zamierzało.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial zwiększenie głośności aplikacji AirPods na Mac z suwakami głośności dostosowanymi do aplikacji do 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial zwiększenie głośności aplikacji AirPods na Mac z suwakami głośności dostosowanymi do aplikacji do 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Zaletą boostingu w poszczególnych aplikacjach jest to, że możesz podbić cichą aplikację bez poddawania głośności całej innej aplikacji. Jeśli twoja rozmowa wideo działa dobrze na 100%, ale Spotify potrzebuje 170%, SoundDial pozwala ustawić je osobno.</p>
 
@@ -3382,7 +3394,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Pozwala podnieść głośność dowolnej aplikacji do poziomu <strong>200%</strong> — w tym Spotify. Przechwytuje strumień audio Spotify i wzmacnia go ponad wbudowane maksymalne wartości aplikacji, nie wpływając na głośność innych aplikacji.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podbijanie głośności Spotify do 200% na macOS podczas normalnej głośności innych aplikacji" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podbijanie głośności Spotify do 200% na macOS podczas normalnej głośności innych aplikacji" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Oto kluczowa różnica: system podwyższenia głośności dałby <em>wszystko</em> głośniej — powiadomienia, połączenia, dźwięki systemowe — nie tylko Spotify. SoundDial wspiera Spotify <em>niezależnie</em>. Ustaw Spotify na 160%, podczas gdy przeglądarka pozostaje na 80%, a Zoom na 100%.</p>
 
@@ -3435,7 +3447,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Znajduje się w pasku menu i nadaje każdej aplikacji własny suwak głośności. Możesz ustawić grę na 35%, a Discord na 100% — lub dowolny dla ciebie stosunek. Zmień jedną, a drugą zostaje.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wyświetlanie niezależnych suwaków głośności dla gry i Discorda na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wyświetlanie niezależnych suwaków głośności dla gry i Discorda na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typowy zestaw do gier</h3>
 <ul>
@@ -3509,7 +3521,7 @@ export const plArticles: ArticleSet = {
 
 <p>Odpowiedź to aplikacja na pasku menu firm trzecich. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> to natywny mikser macOS głośności, który robi dokładnie to, co mikser głośności Windows — i to jeszcze więcej.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — mikser głośności dla macOS, pokazujący suwaki głośności w zależności od aplikacji na pasku menu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — mikser głośności dla macOS, pokazujący suwaki głośności w zależności od aplikacji na pasku menu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Co dostajesz:</p>
 
@@ -3585,7 +3597,7 @@ export const plArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Każdej aplikacji na twoim Mac daje niezależny suwak głośności od 0% do <strong>200%</strong>. Jeśli konkretna aplikacja jest zbyt cicha — odtwarzacz podcastów, zakładka przeglądarki, rozmowa wideo — możesz podnieść napięcie samej aplikacji powyżej 100% bez dotykania czegokolwiek innego.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Volume Boost — regulacja głośności w zależności od aplikacji z 200% wzmocnieniem na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Volume Boost — regulacja głośności w zależności od aplikacji z 200% wzmocnieniem na macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Jest to szczególnie przydatne dla:</p>
 <ul>
@@ -3687,7 +3699,7 @@ export const plArticles: ArticleSet = {
 <h3>Konfiguracja poziomu kaczki</h3>
 <p>W ustawieniach SoundDial możesz dostosować <strong>poziom kaczki</strong> — o ile dźwięku tła jest redukowane podczas rozmowy. Suwak waha się od 10% (ledwo słyszalne) do 80% (wciąż dość widoczny). Domyślne 30% sprawdza się dobrze dla większości osób: muzyka jest zauważalna, ale nie przeszkadza w rozmowie.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial funkcja automatycznego kaczenia automatycznie obniża głośność muzyki podczas rozmowy Zoom na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial funkcja automatycznego kaczenia automatycznie obniża głośność muzyki podczas rozmowy Zoom na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Dlaczego automatyczne duckowanie jest lepsze niż pauzowanie</h2>
 
@@ -3758,7 +3770,7 @@ export const plArticles: ArticleSet = {
 
 <p>Dokładnie to robi mikser głośności w aplikacji aplikującej. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Znajduje się w pasku menu i pokazuje każdą działającą aplikację z własnym suwakiem głośności i przyciskiem wyciszenia.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial wyświetlanie przycisków wyciszania każdej aplikacji dla każdej aplikacji na pasku menu macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial wyświetlanie przycisków wyciszania każdej aplikacji dla każdej aplikacji na pasku menu macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Aby wyciszyć jedną aplikację:</p>
 <ol>
@@ -3869,7 +3881,7 @@ export const plArticles: ArticleSet = {
 
 <p>Znajduje się w pasku menu i pokazuje każdą działającą aplikację z własnym suwakiem głośności. Przeciągnij suwak, aby dostosować głośność aplikacji z 0% do 200%. Kliknij ikonę głośnika, aby natychmiast wyciszyć dźwięk. Przełącz się między zapisanymi profilami w zależności od sytuacji. Włącz automatyczne duckowanie, a muzyka automatycznie cichnie, gdy rozpoczęje się rozmowę.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — mikser głośności w aplikacji macOS wyświetlający suwaki głośności poszczególnych aplikacji na pasku menu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — mikser głośności w aplikacji macOS wyświetlający suwaki głośności poszczególnych aplikacji na pasku menu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Kluczowe cechy:</p>
 <ul>
@@ -3884,5 +3896,2353 @@ export const plArticles: ArticleSet = {
 
 <p>Jednorazowy zakup. Brak subskrypcji. macOS 14,2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Sprawdź SoundDial w Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Najlepsza alternatywa Background Music dla Mac (2026)",
+    description: "Background Music psuje się na nowszym macOS? Najbardziej niezawodną alternatywą dla miksera głośności dla poszczególnych aplikacji jest SoundDial — aplikacja Mac App Store w trybie piaskownicy ze wzmocnieniem i profilami.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli Background Music przestał działać po aktualizacji macOS, najbardziej niezawodną alternatywą jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — mikser głośności na pasku menu dla poszczególnych aplikacji z Mac App Store. Daje każdej aplikacji własny suwak głośności, dodaje wyciszenie, wzmocnienie, profile głośności i automatyczne wyciszanie, a także jest w pełni piaskownicą i sprawdzona przez Apple, więc nie ma żadnych sterowników audio, które można by zepsuć w następnej wersji macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — najlepsza alternatywa Background Music dla Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego Background Music psuje się na nowszym macOS</h2>
+
+<p>Background Music to naprawdę sprytny, darmowy projekt typu open source. Dało to użytkownikom Mac coś, czego Apple nigdy nie miało: mikser głośności dla poszczególnych aplikacji, taki, jaki Windows miał od lat. Ale jego konstrukcja jest również powodem, dla którego ciągle zawodzi.</p>
+
+<p>Aby kierować i sterować dźwiękiem, Background Music instaluje wirtualne urządzenie audio — sterownik na poziomie systemu, który przechwytuje dźwięk Twojego Mac. To podejście sprawdziło się dobrze na starszych macOS, ale każda większa wersja zwiększa bezpieczeństwo jądra i rozszerzeń audio. Typowe objawy zgłaszane przez użytkowników:</p>
+
+<ul>
+<li>Brak dźwięku po instalacji lub aktualizacji systemu operacyjnego.</li>
+<li>Nie można załadować urządzenia wirtualnego, więc routing audio zostaje cicho zatrzymany.</li>
+<li>Aby odzyskać aplikację, należy ją ponownie zainstalować, ponownie uruchomić lub ręcznie usunąć sterownik.</li>
+<li>Rozwój jest napędzany przez społeczność i ochotników, więc poprawki dla nowego macOS mogą działać z opóźnieniem.</li>
+</ul>
+
+<p>Nic z tego nie czyni Background Music „złym”. Oznacza to po prostu, że bezpłatne narzędzie oparte na sterownikach jest z natury delikatne i jeśli codziennie polegasz na liczbie aplikacji, ta kruchość szybko się starzeje.</p>
+
+<h2>Na co zwrócić uwagę przy zamienniku</h2>
+
+<p>Zanim wybierzesz jakąkolwiek alternatywę, zdecyduj, czego właściwie potrzebujesz:</p>
+
+<ul>
+<li><strong>Niezawodność w aktualizacjach macOS.</strong> Jeśli instaluje jądro lub rozszerzenie audio, należy spodziewać się sporadycznych awarii.</li>
+<li><strong>Prawdziwa kontrola nad aplikacją.</strong> Niezależna głośność i wyciszenie dla każdej aplikacji to podstawa.</li>
+<li><strong>Wzmocnienie.</strong> Niektóre aplikacje (narzędzia do cichych spotkań, niektóre przeglądarki) są po prostu zbyt ciche — chcesz przekroczyć 100%.</li>
+<li><strong>Funkcje zapewniające wygodę.</strong> Profile i automatyczne wyciszanie sprawiają, że narzędzie staje się czymś, co można pozostawić otwarte przez cały dzień.</li>
+<li><strong>Bezpieczna instalacja.</strong> Aplikacja Mac App Store w trybie piaskownicy nie może dotykać elementów wewnętrznych systemu, więc odinstalowanie jest bezproblemowe, a aktualizacje automatyczne.</li>
+</ul>
+
+<h2>Dlaczego SoundDial to niezawodny wybór</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> został zbudowany, aby rozwiązać dokładnie problem, na który napotykają użytkownicy Background Music: chcą głośności przypadającej na aplikację, ale nie chcą opiekować się kierowcą. Znajduje się na pasku menu i dobrze wykonuje podstawową pracę:</p>
+
+<ul>
+<li><strong>Niezależna głośność dla każdej aplikacji</strong>, z wyciszeniem poszczególnych aplikacji w tym samym panelu.</li>
+<li><strong>Zwiększenie liczby aplikacji</strong> aby ciche aplikacje były wystarczająco głośne, aby można było je usłyszeć.</li>
+<li><strong>Profile głośności</strong> — zapisz miks (powiedzmy „spotkanie” lub „gra”) i przełączaj się natychmiast, zamiast za każdym razem przeciągać suwaki.</li>
+<li><strong>Automatyczne wyciszanie</strong>, więc dźwięk w tle jest automatycznie przyciszany, kiedy powinien.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> pomiędzy głośnikami, słuchawkami i innymi urządzeniami.</li>
+</ul>
+
+<p>Większa różnica polega na sposobie instalacji. SoundDial jest dostarczany z Mac App Store, co oznacza, że ​​został sprawdzony przez Apple i przetestowany w trybie piaskownicy. Nie ma żadnego DMG do przeciągnięcia, żadnego sterownika audio ani rozszerzenia systemowego, ani dostępu do jądra. To najważniejszy powód, dla którego nie zepsuje się tak samo, jak Background Music, gdy pojawi się nowy macOS — nie jest podłączony do części systemu, które Apple ciągle blokuje.</p>
+
+<p>To kosztuje <strong>14,99 € jednorazowo</strong>. Nie za darmo, ale nie ma subskrypcji i płacisz za coś, co jest utrzymywane i bezpieczne w instalacji.</p>
+
+<h2>SoundDial kontra Background Music kontra darmowe narzędzia</h2>
+
+<p>Background Music nie jest jedyną bezpłatną opcją, więc oto uczciwy opis terenu:</p>
+
+<ul>
+<li><strong>Background Music (bezpłatny, open source):</strong> głośność na aplikację, ale oparta na sterownikach, podatna na awarie w nowszych macOS i pozbawiona wzmocnienia, profili i automatycznego wyciszania.</li>
+<li><strong>FineTune (bezpłatny, open source):</strong> lekka aplikacja obsługująca głośność na pasku menu. Dobrze, jeśli jest bezpłatny, to twoje jedyne wymaganie, ale cienkie w zakresie dodatków.</li>
+<li><strong>eqMac (bezpłatny):</strong> przede wszystkim systemowy korektor i wzmacniacz, a nie prawdziwy mikser dla poszczególnych aplikacji.</li>
+<li><strong>SoundSource autorstwa Rogue Amoeba (~39 USD):</strong> opcja profesjonalna z korektorem dla poszczególnych aplikacji i pełnym routingiem wyjściowym. Doskonale, ale jest ponad dwukrotnie droższy od SoundDial i nadal wymaga pobrania oraz sterownika przechwytywania dźwięku.</li>
+<li><strong>SoundDial (14,99 EUR, Mac App Store):</strong> środek — rzeczywista głośność dla każdej aplikacji, wyciszenie, wzmocnienie, profile i wyciszanie, dostarczane jako czysta instalacja w piaskownicy bez sterowników.</li>
+</ul>
+
+<p>Jeśli potrzebujesz korektora dla poszczególnych aplikacji lub złożonego routingu w studiu, SoundSource jest warte dodatkowych pieniędzy. Jeśli potrzebujesz darmowego narzędzia majsterkowicza i tolerujesz sporadyczne uszkodzenia, wystarczą FineTune lub Background Music. Jeśli jednak Twoim celem jest „nadanie każdej aplikacji własnej głośności i zapobiegnięcie psuciu się przy każdej aktualizacji macOS”, SoundDial osiągnie ten cel przy najmniejszym wysiłku.</p>
+
+<h2>Kontekst macOS, który sprawia, że jest to konieczne</h2>
+
+<p>Warto powiedzieć wprost: macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma od lat jeden z wysuwanych przycisków głośności, ale w Mac suwak systemowy steruje wszystkim na raz. Ta luka jest powodem istnienia narzędzi takich jak Background Music i SoundDial. Ponieważ Apple go nie wypełnia, praktycznym pytaniem jest, któremu podejściu strony trzeciej ufasz — darmowemu sterownikowi, który walczy z systemem operacyjnym, czy współpracującej z nim aplikacji w trybie piaskownicy.</p>
+
+<p>Gotowy, aby przestać walczyć z uszkodzonymi sterownikami audio? Zdobądź <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 € i niezawodnie kontroluj głośność każdej aplikacji.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial: Która aplikacja zbiorcza Mac wygrywa?",
+    description: "SoundSource (39 USD, wersja profesjonalna) vs SoundDial (14,99 EUR, App Store). Porównaj głośność, wzmocnienie, profile i automatyczne wyciszanie dla poszczególnych aplikacji, aby wybrać odpowiedni dla siebie mikser Mac.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli chcesz tylko kontroli głośności dla poszczególnych aplikacji, która instaluje się czysto i kosztuje mniej, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to lepszy zakup dla większości ludzi: 14,99 euro jednorazowo za Mac App Store, z regulacją głośności dla poszczególnych aplikacji, wyciszeniem, wzmocnieniem, profilami i automatycznym wyciszaniem. Wybierz SoundSource Rogue Amoeba (~39 USD) tylko jeśli potrzebujesz korektora dla poszczególnych aplikacji i zaawansowanego routingu wyjściowego.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource kontra SoundDial: Która aplikacja zbiorcza Mac wygrywa?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Krótka wersja</h2>
+<p>macOS nadal nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki system od lat, ale w Mac suwak głośności systemu przesuwa wszystko na raz. Zarówno SoundSource, jak i SoundDial istnieją, aby wypełnić tę lukę. Po prostu celują w różnych nabywców.</p>
+<ul>
+<li><strong>SoundDial</strong> — 14,99 € jednorazowo, Mac App Store, aplikacja na pasku menu. Niezależna głośność dla każdej aplikacji, wyciszenie dla każdej aplikacji, wzmocnienie dla każdej aplikacji, zapisane profile, automatyczne wyciszanie i szybkie przełączanie wyjścia. Wersja piaskownicowa i sprawdzona przez firmę Apple, więc nie wymaga instalacji sterowników.</li>
+<li><strong>SoundSource</strong> — ~39 USD, bezpośrednie pobranie z Rogue Amoeba. Wszystko powyżej plus korektor dla poszczególnych aplikacji, zaawansowane routing wyjścia i efekty dźwiękowe. Wymaga zainstalowania małego sterownika przechwytywania dźwięku.</li>
+</ul>
+
+<h2>Cena i sposób zakupu</h2>
+<p>To jest najbardziej wyraźny podział. SoundSource kosztuje około 39 dolarów i jest sprzedawany bezpośrednio przez Rogue Amoeba. SoundDial kosztuje 14,99 euro przy jednorazowym zakupie w porównaniu z Mac App Store — nieco ponad jedną trzecią ceny.</p>
+<p>Ponieważ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest dostarczany przez App Store, jest piaskownicą, poświadczony notarialnie i sprawdzony przez Apple. Klikasz Pobierz, instaluje się i gotowe. Nie trzeba montować DMG, nie ma uprawnień do nadawania komponentowi sąsiadującemu z jądrem, ani sterownika audio ani rozszerzenia systemowego. Działa również zgodnie ze zwykłym przepływem aktualizacji App Store i synchronizuje się z innymi Twoimi Mac na tym samym Apple ID.</p>
+<p>SoundSource pobiera poza App Store i instaluje sterownik przechwytywania dźwięku, dzięki czemu może przechwytywać i przetwarzać dźwięk każdej aplikacji. To właśnie odblokowuje funkcje profesjonalne, ale oznacza także dodatkowy etap instalacji i komponent znajdujący się głębiej w systemie.</p>
+
+<h2>Co SoundSource robi, czego nie robi SoundDial</h2>
+<p>SoundSource zarabia swoją cenę dla określonego rodzaju użytkownika. Jeśli którykolwiek z nich Cię opisuje, warto dopłacić:</p>
+<ul>
+<li><strong>Korektor dla aplikacji.</strong> Chcesz, aby 10-pasmowy korektor był włączony, powiedzmy, Spotify, pozostawiając Zoom na płasko. SoundDial odpowiada za głośność, a nie EQ.</li>
+<li><strong>Zaawansowane routing wyjściowy.</strong> Wysyłanie jednej aplikacji do głośników, a drugiej do słuchawek lub określonego interfejsu, z precyzyjną kontrolą.</li>
+<li><strong>Efekty dźwiękowe i wtyczki.</strong> SoundSource może hostować efekty dla poszczególnych aplikacji — to naprawdę profesjonalne rozwiązanie.</li>
+</ul>
+<p>Rogue Amoeba ma długą i godną zaufania historię. SoundSource to poważne narzędzie i ma podobną cenę. Jeśli jesteś profesjonalistą w dziedzinie audio lub intensywnie korzystasz z wielu wyjść, jest to właściwy wybór.</p>
+
+<h2>Co SoundDial robi lepiej w codziennym użytkowaniu</h2>
+<p>Większość osób poszukujących „miksera głośności Mac” nie potrzebuje korektora. Potrzebują jednej aplikacji cichszej od drugiej i nie chcą walczyć z instalatorem, aby ją zdobyć. SoundDial wyjaśnia ten problem i dodaje kilka rzeczy, na które warto zwrócić uwagę:</p>
+<ul>
+<li><strong>Zwiększenie liczby aplikacji.</strong> Niektóre aplikacje i filmy są po prostu zbyt ciche nawet przy 100%. SoundDial może wysunąć pojedynczą aplikację ponad jej normalny sufit, dzięki czemu w końcu będzie słychać ciche spotkanie lub podcast.</li>
+<li><strong>Profile głośności.</strong> Zapisz pełną konfigurację — cicha muzyka, wyciszona przeglądarka, głośno nawiązujące połączenie z aplikacją — i natychmiast ją przywołaj. Świetnie nadaje się do przełączania między „skupieniem”, „spotkaniem” i „grą” bez konieczności przeciągania pięciu suwaków.</li>
+<li><strong>Automatyczne wyciszanie.</strong> Automatycznie ściszaj dźwięk tła (np. muzykę), gdy uruchamia się inne źródło, aby powiadomienia, połączenia i filmy nie zostały zagłuszone.</li>
+<li><strong>Szybkie przełączanie wyjścia.</strong> Przechodź między głośnikami, słuchawkami i innymi urządzeniami z paska menu.</li>
+</ul>
+<p>Wszystko to odbywa się z menu rozwijanego na pasku menu, więc przez resztę czasu wystarczy jedno kliknięcie.</p>
+
+<h2>Krótko o bezpłatnych alternatywach</h2>
+<p>W tych samych wyszukiwaniach zobaczysz kilka bezpłatnych opcji. Warto o nich wiedzieć:</p>
+<ul>
+<li><strong>Background Music</strong> — bezpłatny i open source, zapewnia podstawową pojemność dla każdej aplikacji. Może się jednak zepsuć w nowszych wersjach macOS i nie ma wzmocnienia, profili ani automatycznego wyciszania.</li>
+<li><strong>FineTune</strong> — bezpłatna aplikacja do regulacji głośności na pasku menu o otwartym kodzie źródłowym. Proste, ale o ograniczonym zakresie.</li>
+<li><strong>eqMac</strong> — bezpłatny korektor i wzmacniacz systemowy, bardziej ogólnosystemowe narzędzie EQ niż prawdziwy mikser dla poszczególnych aplikacji.</li>
+</ul>
+<p>Bezpłatne jest świetne, jeśli działa dla Ciebie. Kompromisem jest kompatybilność i wsparcie: narzędzia audio typu open source mogą pozostawać w tyle za aktualizacjami macOS, a funkcje takie jak profile i wyciszanie zazwyczaj nie są dostępne. Jeśli konfiguracja ma znaczenie dla Twojego dnia pracy, zazwyczaj spokojniejszą ścieżką jest płacenie jednorazowo za coś sprawdzonego i konserwowanego.</p>
+
+<h2>Który warto kupić?</h2>
+<p>Odpowiedz na jedno pytanie: czy potrzebujesz korektora dla poszczególnych aplikacji czy zaawansowanego routingu wyjściowego?</p>
+<ul>
+<li><strong>Tak</strong> — kupić SoundSource. Jest do tego stworzony, a cena ~39 USD jest uczciwa jak na profesjonalne narzędzie z silnikiem na poziomie sterownika.</li>
+<li><strong>Nie, chcę tylko zwiększyć głośność aplikacji, zwiększyć jej wydajność i przeprowadzić czystą instalację</strong> — kupić SoundDial. Otrzymujesz miksowanie, które naprawdę ma znaczenie na co dzień, a także profile i funkcję automatycznego wyciszania, za 14,99 EUR i zero kłopotów ze sterownikami.</li>
+</ul>
+<p>Dla zdecydowanej większości użytkowników Mac to drugie wiadro jest uczciwą odpowiedzią. Płacisz za kontrolę nad głośnością, a nie za studio.</p>
+
+<p><strong>Chcesz w prosty sposób naprawić głośność Mac?</strong> Zdobądź <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> — 14,99 € jednorazowo, bez sterowników, bez DMG. Głośność aplikacji, wzmocnienie, profile i automatyczne wyciszanie jednym kliknięciem.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Tańsza alternatywa SoundSource dla woluminu na aplikację w Mac",
+    description: "Chcesz liczbę aplikacji w stylu SoundSource bez ceny 39 USD? SoundDial to mikser z paskiem menu Mac App Store za 14,99 euro z funkcją boost, profilami i funkcją automatycznego wyciszania.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli chcesz regulować głośność w aplikacji w stylu SoundSource na swoim Mac, ale 39 USD wydaje się wysokie, najszybszym i niezawodnym rozwiązaniem jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Jest to jednorazowy mikser z paskiem menu o wartości 14,99 euro z modelu Mac App Store, który zapewnia każdej aplikacji własny suwak głośności, wyciszenie i wzmocnienie — a także profile i automatyczne wyciszanie — bez pobierania ani instalowania sterownika audio.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — tańsza alternatywa SoundSource dla woluminu na aplikację w Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego ludzie szukają alternatywy dla SoundSource</h2>
+<p>SoundSource firmy Rogue Amoeba to doskonałe oprogramowanie. To naprawdę profesjonalna jakość: korektory dla poszczególnych aplikacji, efekty dźwiękowe i routing wyjściowy, dzięki któremu możesz wysłać jedną aplikację do słuchawek, a drugą do głośników. Ale ta moc ma dwa punkty tarcia. Po pierwsze, cena – około 39 dolarów. Po drugie, instaluje sterownik przechwytywania dźwięku na poziomie systemu poza App Store, co do którego niektórzy ludzie są ostrożni na komputerze roboczym lub po prostu nie chcą zarządzać aktualizacjami macOS.</p>
+<p>Dla większości ludzi rzeczywista potrzeba jest znacznie prostsza: wyłącz Spotify bez dotykania połączenia Zoom, wycisz głośną aplikację na karcie przeglądarki lub wzmocnij cichy odtwarzacz wideo powyżej 100%. Jeśli to ty, płacisz profesjonalistom za funkcje, których nigdy nie otworzysz.</p>
+
+<h2>Co potrafi SoundDial — i ile to kosztuje</h2>
+<p>SoundDial skupia się na wolumenie przypadającym na aplikację i robi to w sposób przejrzysty. Otwórz pasek menu, a otrzymasz na żywo listę wszystkiego, co wydaje dźwięk, każdy z własną kontrolą:</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — jeden suwak na aplikację, regulowany w czasie rzeczywistym.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — natychmiast wycisz jedną aplikację, nie wstrzymując niczego innego.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — przesuwaj ciche aplikacje powyżej normalnego maksimum, gdy wideo lub połączenie jest zbyt ciche.</li>
+<li><strong>Profile głośności</strong> — zapisz miks (np. „Focus”, „Gaming”, „Meeting”) i przełączaj jednym kliknięciem.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie wyłączaj inne aplikacje, gdy zacznie odtwarzać coś ważniejszego.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przechodź między głośnikami, słuchawkami i innymi urządzeniami z tego samego menu.</li>
+</ul>
+<p>Cena jest <strong>14,99 €, płatne jednorazowo</strong> — brak subskrypcji. To mniej więcej jedna trzecia kosztu SoundSource, biorąc pod uwagę funkcje głośności, po które faktycznie sięga większość użytkowników.</p>
+
+<h2>Różnica App Store</h2>
+<p>Ponieważ SoundDial jest dostarczany przez <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, został sprawdzony przez firmę Apple i poddany piaskownicy. Nie ma żadnego DMG do przeciągnięcia, żadnego rozszerzenia jądra ani sterownika przechwytywania dźwięku do zatwierdzenia, ani osobnego aktualizatora. Instalujesz ją jak każdą inną aplikację App Store i działa. Po aktualizacji macOS nie będziesz się zastanawiać, czy komponent audio niskiego poziomu nadal działa.</p>
+<blockquote>macOS nadal nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki system od lat, ale w Mac głośność systemu jest typu „wszystko albo nic” — i właśnie taką lukę wypełniają te narzędzia.</blockquote>
+
+<h2>Porównanie z opcjami bezpłatnymi</h2>
+<p>SoundSource nie jest jedyną alternatywą. Istnieją bezpłatne narzędzia i uczciwość w ich stosowaniu ma znaczenie:</p>
+<ul>
+<li><strong>Background Music</strong> to bezpłatna aplikacja typu open source przeznaczona do obsługi poszczególnych aplikacji. Działa dla wielu osób, ale może się zepsuć w nowszych wersjach macOS, aktualizacje są nieregularne i nie ma wzmocnienia, profili ani automatycznego wyciszania.</li>
+<li><strong>FineTune</strong> to bezpłatna aplikacja typu open source z paskiem menu — lekka i poręczna, ale znowu brakuje jej funkcji profilu i wyciszania.</li>
+<li><strong>eqMac</strong> to darmowy korektor i wzmacniacz systemu. To bardziej narzędzie do korekcji/wzmacniania niż prawdziwy mikser dla poszczególnych aplikacji i nie koncentruje się na suwakach poszczególnych aplikacji.</li>
+</ul>
+<p>Bezpłatność to uzasadniony wybór. Kompromisem jest niezawodność i funkcje: narzędzia audio typu open source zależą od ochotniczej konserwacji i mogą pozostawać w tyle za zmianami w macOS, a także żaden z bezpłatnych profili pakietu opcji oraz automatyczne wyciszanie, tak jak robi to SoundDial. Jeśli konfiguracja jest prosta i nie przeszkadzają Ci sporadyczne awarie, wystarczy bezpłatna aplikacja. Jeśli chcesz czegoś, co jest utrzymywane, piaskowane i po prostu działa, za 14,99 € kupisz dokładnie to.</p>
+
+<h2>Szybki przewodnik po decyzjach</h2>
+<ul>
+<li><strong>Potrzebujesz korektora dźwięku dla poszczególnych aplikacji, efektów dźwiękowych i przekierowania jednej aplikacji do innego urządzenia wyjściowego</strong> → SoundSource jest wart swojej ceny. Nic tutaj tego w pełni nie zastąpi.</li>
+<li><strong>Potrzebujesz głównie głośności, wyciszenia, wzmocnienia, profili i wyciszenia poszczególnych aplikacji – bez sterowników</strong> → SoundDial za 14,99 € to wybór o lepszej wartości.</li>
+<li><strong>Chcesz za darmo i nie przejmujesz się ryzykiem związanym z konserwacją</strong> → wypróbuj najpierw Background Music, FineTune lub eqMac.</li>
+</ul>
+
+<h2>Konfigurowanie</h2>
+<p>Rozpoczęcie zajmuje około minuty:</p>
+<ul>
+<li>Zainstaluj SoundDial z Mac App Store — bez konieczności pobierania z zewnątrz.</li>
+<li>Przyznaj uprawnienia audio, o które macOS pyta przy pierwszym uruchomieniu.</li>
+<li>Odtwórz dźwięk w kilku aplikacjach i otwórz ikonę na pasku menu; zobaczysz każdy z własnym suwakiem.</li>
+<li>Przeciągnij, aby ustawić poziomy, dotknij, aby wyciszyć lub przesuń powyżej 100%, aby zwiększyć.</li>
+<li>Zapisz konfigurację jako profil i włącz automatyczne wyciszanie, jeśli chcesz, aby inne aplikacje wyciszały się podczas połączeń lub multimediów.</li>
+</ul>
+<p>Na tym polega cały przebieg pracy — bez plików konfiguracyjnych, bez ponownego uruchamiania, bez konieczności rozbudowy systemu.</p>
+
+<h2>Najważniejsze</h2>
+<p>SoundSource to potężniejsze narzędzie, ale większość ludzi, którzy go szukają, chce po prostu zachować odpowiednią głośność dla każdej aplikacji. SoundDial zapewnia to za około jedną trzecią ceny, jest bezpiecznie dostarczany z App Store i dodaje profile oraz funkcję automatycznego wyciszania na górze — bez konieczności instalowania ani jednego sterownika.</p>
+
+<p>Gotowy do niezależnego kontrolowania głośności każdej aplikacji? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za 14,99 € jednorazowo.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune Alternatywa dla Mac: obsługiwany mikser głośności dla poszczególnych aplikacji",
+    description: "Wypróbowałeś bezpłatną aplikację na pasku menu FineTune i chcesz czegoś utrzymanego i bezpiecznego dla App Store? Oto najlepsza alternatywa FineTune dla głośności aplikacji na Mac.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli spodobał Ci się FineTune, ale chcesz czegoś aktywnie utrzymywanego i instalowanego z zaufanego źródła, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to najszybsza i niezawodna poprawka. Jest to mikser głośności na pasku menu Mac App Store dla poszczególnych aplikacji, z niezależną głośnością, wyciszaniem dla poszczególnych aplikacji, zwiększaniem głośności, zapisanymi profilami i automatycznym wyciszaniem. Sprawdzony przez Apple i piaskownicowy, kosztuje 14,99 € jednorazowo bez sterowników do zainstalowania.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune Alternatywa dla Mac: obsługiwany mikser głośności dla poszczególnych aplikacji" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Po co w ogóle szukać alternatywy dla FineTune?</h2>
+
+<p>FineTune to niezły pomysł: bezpłatna aplikacja z paskiem menu o otwartym kodzie źródłowym, która umożliwia kontrolę głośności poszczególnych aplikacji w macOS, czego Apple wciąż nie chce wbudować (Windows ma mikser dla poszczególnych aplikacji od lat). Dla wielu osób spełnia podstawową funkcję. Istnieją jednak prawdziwe powody, dla których użytkownicy szukają czegoś innego.</p>
+
+<ul>
+<li><strong>Konserwacja jest niepewna.</strong> Hobbystyczne projekty typu open source żyją i umierają w wolnym czasie jednego opiekuna. Kiedy macOS dostarcza poważną aktualizację, aplikacje związane z dźwiękiem często psują się jako pierwsze, a Ty musisz czekać na dobrowolną poprawkę, która może nigdy nie nadejść.</li>
+<li><strong>Sufit funkcjonalny.</strong> FineTune obejmuje głośność przypadającą na aplikację i niewiele więcej. Jeśli chcesz zwiększyć moc powyżej 100%, zapisać profile lub automatycznie wycofywać się, musisz skorzystać z innych narzędzi.</li>
+<li><strong>Zaufaj i aktualizuj.</strong> Zainstalowanie surowej kompilacji poza App Store oznacza brak automatycznego sprawdzania, brak gwarancji piaskownicy i ręczne aktualizacje, które trzeba śledzić samodzielnie.</li>
+</ul>
+
+<p>Nic z tego nie sprawia, że FineTune jest zły. Oznacza to po prostu, że jeśli na co dzień polegasz na dźwięku z poszczególnych aplikacji, prawdopodobnie potrzebujesz czegoś z modelem wsparcia.</p>
+
+<h2>Co SoundDial robi inaczej</h2>
+
+<p>SoundDial zaczyna się od tego samego podstawowego pomysłu – miksera na pasku menu z suwakiem dla każdej działającej aplikacji, a następnie idzie dalej, oferując funkcje, o które naprawdę proszą zaawansowani użytkownicy.</p>
+
+<ul>
+<li><strong>Niezależna głośność na aplikację.</strong> Ścisz Spotify, utrzymuj pełną głośność rozmów, całkowicie wyciszaj hałaśliwą aplikację na karcie przeglądarki – wszystko z jednego menu.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach.</strong> Jeśli mastering podcastu lub wideo jest zbyt niski, przesuń cichą aplikację ponad jej normalny sufit. FineTune tego nie robi.</li>
+<li><strong>Profile głośności.</strong> Zapisz miks, „skupienie”, „gry”, „spotkania” i zmień całą konfigurację jednym kliknięciem, zamiast przesuwać pięć suwaków.</li>
+<li><strong>Automatyczne wyciszanie.</strong> Automatycznie ściszaj dźwięk w tle, gdy zaczyna odtwarzać się coś ważniejszego, aby muzyka przycichła po nadejściu połączenia.</li>
+<li><strong>Szybkie przełączanie wyjścia.</strong> Przeskakuj między głośnikami, słuchawkami i innymi wyjściami bez zagłębiania się w Ustawienia systemowe.</li>
+</ul>
+
+<p>Ponieważ <a href="https://apps.apple.com/app/id6772792641">SoundDial jest dostarczany przez Mac App Store</a>, jest sprawdzona przez Apple i piaskownica, instaluje się bezproblemowo i aktualizuje za pomocą tego samego mechanizmu, co każda inna aplikacja App Store. Nie ma żadnego DMG do przeciągnięcia, żadnego sterownika audio ani rozszerzenia systemowego, ani żadnego monitu bezpieczeństwa z prośbą o zezwolenie na komponent na poziomie jądra.</p>
+
+<h2>SoundDial kontra FineTune i inne darmowe narzędzia</h2>
+
+<p>FineTune nie jest jedyną bezpłatną opcją i pomaga uczciwie zobaczyć cały krajobraz.</p>
+
+<ul>
+<li><strong>FineTune</strong> — Bezpłatny, open source, głośność paska menu dla każdej aplikacji. Prosty i lekki, ale bez wspomagania, bez profili, bez schylania się, a utrzymanie zależy od społeczności.</li>
+<li><strong>Background Music</strong> — Bezpłatny i open source, kieruje i dostosowuje dźwięk dla poszczególnych aplikacji. Naprawdę przydatne, ale może się zepsuć w nowszych wersjach macOS i brakuje mu wzmocnienia, profili i wyciszenia.</li>
+<li><strong>eqMac</strong> — Bezpłatny korektor i wzmacniacz systemu. Świetnie, jeśli potrzebujesz głównie korektora, ale nie jest to mikser dla poszczególnych aplikacji.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — Opcja profesjonalna za około 39 USD, z korektorem dla poszczególnych aplikacji i routingiem wyjściowym. Doskonale, ale wymaga pobrania i sterownika do przechwytywania dźwięku, a kosztuje ponad dwa razy więcej.</li>
+<li><strong>SoundDial</strong> — 14,99 € jednorazowo, App Store-safe, bez sterowników. Dodaje wzmocnienie, profile i automatyczne wyciszanie oprócz podstawowych informacji o głośności poszczególnych aplikacji.</li>
+</ul>
+
+<p>Uczciwe podsumowanie: jeśli chcesz absolutnie najtańszej rzeczy i potrzebujesz tylko podstawowej objętości na aplikację, bezpłatne narzędzia mogą działać. Jeśli potrzebujesz korekcji i routingu dla poszczególnych aplikacji i nie masz nic przeciwko płaceniu i instalowaniu sterownika, SoundSource jest rozwiązaniem wagi ciężkiej. SoundDial znajduje się w idealnym miejscu, ma większe możliwości niż bezpłatne aplikacje, jest znacznie tańszy niż SoundSource i bezpieczniejszy w instalacji niż którykolwiek z nich, ponieważ Apple sprawdza go i testuje w piaskownicy.</p>
+
+<h2>Przejście z FineTune</h2>
+
+<p>Przełączanie zajmuje kilka minut i nie wymaga rytuału czyszczenia.</p>
+
+<ul>
+<li>Zainstaluj SoundDial z Mac App Store. Bez instalatora, bez zgody sterownika, bez ponownego uruchamiania.</li>
+<li>Kliknij ikonę SoundDial na pasku menu, aby wyświetlić suwak dla każdej działającej aplikacji.</li>
+<li>Ustaw swój codzienny miks, a następnie zapisz go jako profil, aby móc go natychmiast przywołać.</li>
+<li>Opcjonalnie włącz automatyczne wyciszanie, aby dźwięk w tle był pomijany w przypadku połączeń i alertów.</li>
+<li>Kiedy będziesz szczęśliwy, opuść FineTune. Ponieważ żadna z aplikacji nie instaluje sterowników systemowych, nie trzeba już nic odinstalowywać.</li>
+</ul>
+
+<p>Zachowujesz to, co lubisz w FineTune, przejrzysty mikser z paskami menu, którego Apple nigdy ci nie dał, a zyskujesz wzmocnienie, profile, wyciszanie i długoterminowe wsparcie, które zapewnia utrzymywana aplikacja App Store.</p>
+
+<h2>Najważniejsze</h2>
+
+<p>FineTune potwierdza tę koncepcję: głośność poszczególnych aplikacji znajduje się na pasku menu. SoundDial tak wygląda ta koncepcja z prawdziwym modelem wsparcia, większą liczbą funkcji i bezpieczeństwem App Store za jednorazową kwotę 14,99 € zamiast zakładu na utrzymanie wolontariuszy.</p>
+
+<p>Gotowy na mikser dla aplikacji, który pozostaje niezmienny? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i kontroluj głośność każdej aplikacji w ciągu kilku sekund.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Alternatywa dla rzeczywistej głośności aplikacji w Mac",
+    description: "Podobało Ci się wzmocnienie eqMac, ale potrzebujesz odpowiedniej głośności, wyciszenia i profili dla poszczególnych aplikacji? SoundDial to najszybsza poprawka Mac App Store — 14,99 EUR, piaskownica, bez sterowników.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli korzystałeś z eqMac do korektora i wzmacniacza głośności, ale naprawdę chcesz niezależnej głośności dla każdej aplikacji — plus wyciszenie, wzmocnienie i zapisane profile — najszybszym i niezawodnym rozwiązaniem jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. To mikser na pasku menu Mac App Store: ustaw poziom dla każdej aplikacji, wzmocnij ciche i natychmiast przełączaj profile. 14,99 € jednorazowo, w trybie piaskownicy, bez konieczności instalowania sterowników.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — eqMac Alternatywa dla rzeczywistej głośności przypadającej na aplikację w Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac a to, czego faktycznie potrzebujesz</h2>
+
+<p>eqMac to solidne, bezpłatne narzędzie, a jego ogólnosystemowy korektor i wzmacniacz głośności są naprawdę przydatne. Ale eqMac jest zbudowany wokół jednego głównego korektora i jednego głównego wyjścia. Nie zapewnia prawdziwego miksera głośności dla poszczególnych aplikacji — tego, co Windows ma od lat, a macOS nadal nie jest dostarczany natywnie.</p>
+
+<p>Jeśli więc Twoim prawdziwym problemem jest „Spotify jest zbyt głośny, gdy prowadzę rozmowę” lub „Ta jedna gra wysadza mi uszy, ale wszystko inne jest w porządku”, eqMac nie jest odpowiednim kształtem do tego zadania. Skończy się na korzystaniu z jednego głównego suwaka lub majstrowaniu przy wewnętrznej głośności każdej aplikacji. To luka, którą wypełnia SoundDial.</p>
+
+<h2>Co SoundDial robi, czego nie robi eqMac</h2>
+
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — Muzyka na 40%, przeglądarka na 100%, rozmowa wideo na 70%, wszystko na raz, wszystko zapamiętane.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — natychmiast wycisz jedną hałaśliwą aplikację, nie dotykając niczego innego.</li>
+<li><strong>Zwiększenie liczby aplikacji</strong> — wypchnij cichą aplikację poza jej normalny pułap, tak jak robi to wzmacniacz eqMac, ale ukierunkowany na pojedynczą aplikację, a nie na cały system.</li>
+<li><strong>Profile głośności</strong> — zapisuj ustawienia takie jak „Fokus”, „Gry” lub „Spotkanie” i przełączaj cały miks jednym kliknięciem.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie wyłącza dźwięk w tle, gdy zaczyna się coś ważniejszego, dzięki czemu nie musisz szukać suwaka w trakcie rozmowy.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi wyjściami z paska menu.</li>
+</ul>
+
+<p>Nakładanie się na eqMac jest w zasadzie wzmocnieniem. Wszystko inne — mikser, wyciszenie, profile, wyciszanie — to obszar, do którego eqMac nigdy nie został zaprojektowany.</p>
+
+<h2>Czy nadal chcesz EQ?</h2>
+
+<p>Bądź szczery w kwestii problemu, który rozwiązujesz. Jeśli naprawdę potrzebujesz korektora częstotliwości — wycinania basów, ujarzmiania ostrych wysokich tonów, kształtowania brzmienia całego systemu — to eqMac wciąż ma dla Ciebie miejsce i jest darmowy. SoundDial to mikser głośności, a nie korektor.</p>
+
+<p>Jednak większość ludzi sięga po wzmacniacz eqMac nie dlatego, że chcą kształtować częstotliwości, ale chcą, aby jedna aplikacja była głośniejsza lub aby miks był zrównoważony. Jeśli to ty, dedykowany mikser jest czystszym rozwiązaniem. Możesz nawet uruchomić oba: zachowaj eqMac dla ogólnosystemowej krzywej EQ i użyj SoundDial dla poziomów dla poszczególnych aplikacji. Nie kłócą się o tę samą pracę.</p>
+
+<h2>Porównanie z innymi narzędziami audio Mac</h2>
+
+<p>Ponieważ już polujesz na narzędzia, oto uczciwy krajobraz:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — opcja profesjonalna za około 39 USD, z korektorem dla poszczególnych aplikacji i pełnym routingiem wyjściowym. Potężny, ale wymaga bezpośredniego pobrania i zainstalowania sterownika przechwytywania dźwięku. Przesada i droższa, jeśli chcesz tylko głośności na aplikację z profilami.</li>
+<li><strong>Background Music</strong> — darmowy i open source, ale może się zepsuć w nowszych wersjach macOS i nie ma wzmocnienia, profili ani automatycznego wyciszania. Świetne, gdy działa, frustrujące, gdy nie działa.</li>
+<li><strong>FineTune</strong> — bezpłatna aplikacja z paskiem menu o otwartym kodzie źródłowym. Warto sprawdzić, jeśli twardym wymaganiem jest 0 USD, chociaż jest lżejszy pod względem funkcji i dopracowania.</li>
+<li><strong>eqMac</strong> — bezpłatny korektor i wzmacniacz, ale bez prawdziwego miksera dla aplikacji, jak opisano powyżej.</li>
+</ul>
+
+<p>SoundDial znajduje się w idealnym punkcie: jest bardziej skoncentrowany i tańszy niż SoundSource, ma większe możliwości i jest bardziej niezawodny niż bezpłatne opcje, a ponadto wykonuje zadania związane z aplikacją, których nie wykonuje eqMac.</p>
+
+<h2>Dlaczego Mac App Store ma tutaj znaczenie</h2>
+
+<p>Kilka z tych narzędzi wymaga bezpośredniego pobrania i sterownika audio na poziomie jądra lub sterownika przechwytywania. Działają, ale mogą zaczepić się o aktualizację macOS lub potknąć się o zablokowaną pracę Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zamiast tego są wysyłane przez Mac App Store. Oznacza to, że został sprawdzony przez Apple i poddany piaskownicy, instaluje się bezproblemowo, bez konieczności przeciągania DMG i nie wymaga zatwierdzenia żadnych sterowników audio ani rozszerzeń systemowych. Aktualizacje są dostarczane przez App Store jak każdą inną aplikację, a odinstalowanie jest normalnym usunięciem. W przypadku narzędzia z paskiem menu, które dotyka Twojego dźwięku, ta ścieżka o niższym tarciu i niższym ryzyku jest dużo warta.</p>
+
+<h2>Szybka konfiguracja</h2>
+
+<ul>
+<li>Zainstaluj SoundDial z Mac App Store — bez ponownego uruchamiania, bez monitu o sterownik.</li>
+<li>Otwórz ikonę paska menu; każda aplikacja aktualnie generująca dźwięk wyświetla się z własnym suwakiem.</li>
+<li>Ustaw poziomy, wycisz to, czego nie potrzebujesz i wzmocnij wszystko, co jest zbyt ciche.</li>
+<li>Zapisz aranżację jako profil, a następnie utwórz więcej do grania, rozmów lub skupienia.</li>
+<li>Włącz automatyczne wyciszanie, aby dźwięk w tle automatycznie schodził na bok.</li>
+</ul>
+
+<p>To cała pętla. W ciągu kilku minut uzyskasz kontrolę nad aplikacją, o której tylko zasugerowano wzmacniacz eqMac.</p>
+
+<p><strong>Gotowy na rzeczywistą liczbę aplikacji na Mac?</strong> <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> — 14,99 € jednorazowo, w trybie piaskownicy, bez sterowników i robi dokładnie to, co powinien mikser z paskiem menu.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "Najtańszy dobry mikser głośności dla Mac w 2026 r",
+    description: "Szukasz najtańszego, dobrego miksera głośności na aplikację dla Mac w 2026 roku? Porównaj SoundDial, SoundSource, Background Music, FineTune i eqMac pod względem ceny, bezpieczeństwa i funkcji.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Najlepszy mikser głośności na aplikację dla Mac w 2026 r. to <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikacja na pasku menu w Mac App Store za jednorazową kwotę 14,99 €. Daje każdej aplikacji własny suwak głośności, a także wyciszenie, wzmocnienie, profile i automatyczne wyciszanie — bez sterowników, bez subskrypcji i bez ryzykownych pobrań. To najtańsza płatna opcja, która faktycznie działa niezawodnie.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — najtańszy dobry mikser głośności dla Mac w 2026 r." style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego „najtańszy” wymaga definicji</h2>
+<p>Istnieją bezpłatne narzędzia do obsługi wolumenu dla Mac, więc jeśli jedynym celem jest zerowe wydawanie pieniędzy, masz opcje. Ale bezpłatna wersja zwykle kosztuje Cię gdzie indziej: kruchość nowych wersji macOS, brakujące funkcje, takie jak wzmocnienie lub profile, lub proces instalacji obejmujący sterownik przechwytywania dźwięku, któremu musisz zaufać. „Najtańszy dobry” oznacza najniższą cenę, która mimo wszystko zapewni Ci stabilny, w pełni funkcjonalny mikser, którego będziesz nadal używać. To właśnie tego obiektywu będziemy tutaj używać.</p>
+
+<h2>Po pierwsze, rzecz, której macOS nie robi</h2>
+<p>Windows od lat ma mikser głośności dla poszczególnych aplikacji — kliknij prawym przyciskiem myszy ikonę głośnika i ustaw każdą aplikację niezależnie. macOS nadal nie ma wbudowanego żadnego równoważnego rozwiązania. Otrzymujesz jeden główny poziom głośności i dowolny wewnętrzny suwak dostarczany przez aplikację (muzyka, niektóre przeglądarki). Nie ma ogólnosystemowego sposobu, aby uczynić Slack cichszym niż Spotify lub zwiększyć cichą rozmowę wideo ponad wszystko inne. Każda opcja poniżej istnieje, aby wypełnić tę lukę.</p>
+
+<h2>Konkurenci wycenili uczciwie</h2>
+
+<h2>SoundDial — 14,99 €, jednorazowo</h2>
+<p>SoundDial znajduje się na pasku menu i zapewnia każdej działającej aplikacji niezależny suwak głośności. Oprócz podstaw dodaje funkcje, po które ludzie faktycznie sięgają:</p>
+<ul>
+<li><strong>Zwiększenie liczby aplikacji</strong> — wciśnij zbyt cichą aplikację powyżej 100%, zamiast wysilać się, aby ją usłyszeć.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną aplikację, nie dotykając pozostałych.</li>
+<li><strong>Profile głośności</strong> — zapisz składankę „połączenia służbowego” lub „wieczoru filmowego” i natychmiast ją przywołaj.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie wyłącza dźwięk tła, gdy odtwarzane jest coś ważniejszego.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi urządzeniami z tego samego menu.</li>
+</ul>
+<p>Ponieważ znajduje się na platformie Mac App Store, jest piaskownicą, sprawdzona przez Apple i instaluje się bezproblemowo — bez DMG, bez rozszerzenia jądra, bez sterownika audio do zatwierdzenia. Płacisz <a href="https://apps.apple.com/app/id6772792641">Jednorazowo 14,99 €</a> i posiadaj to. Dla większości ludzi jest to najlepszy wybór: wystarczająco tani, aby łatwo było odpowiedzieć „tak”, na tyle kompletny, że z niego nie wyrośnie.</p>
+
+<h2>SoundSource — ~39 USD, opcja profesjonalna</h2>
+<p>SoundSource firmy Rogue Amoeba to złoty standard dla zaawansowanych użytkowników. Reguluje głośność i wyciszenie dla poszczególnych aplikacji, podobnie jak SoundDial, ale idzie dalej dzięki korektorom dla poszczególnych aplikacji i pełnemu routingowi wyjściowemu (wyślij jedną aplikację do słuchawek, drugą do głośników). Jest naprawdę doskonały — ale kosztuje około 39 dolarów i można go zainstalować poza App Store wraz z komponentem do przechwytywania dźwięku, na który trzeba uzyskać pozwolenie. Jeśli potrzebujesz korektora dla poszczególnych aplikacji lub złożonego routingu, jest to warte swojej ceny. Jeśli chcesz po prostu czystego i taniego miksera, płacisz za możliwości, których być może nigdy nie dotkniesz.</p>
+
+<h2>Background Music — darmowy, open source</h2>
+<p>Background Music to dobrze znana bezpłatna aplikacja typu open source, która oferuje głośność dla poszczególnych aplikacji i automatyczne wstrzymywanie. Haczyk: łączy się głęboko z Core Audio za pośrednictwem wirtualnego sterownika i ma długą historię psucia się w nowych wydaniach macOS, czasami wymagając ręcznych poprawek lub ponownej instalacji po aktualizacjach. Brakuje również wzmocnienia, zapisanych profili i automatycznego wyciszenia. Świetne dla majsterkowiczów, którym nie przeszkadza konserwacja; frustrujące, jeśli chcesz, żeby po prostu działało.</p>
+
+<h2>FineTune — bezpłatny, pasek menu</h2>
+<p>FineTune to bezpłatna aplikacja typu open source służąca do regulacji głośności na pasku menu. Jest lekki i przyjemny, a do prostej regulacji dla poszczególnych aplikacji może wystarczyć. Ponieważ jest to mały, darmowy projekt, nie odpowiada on głębi funkcji — brak profili, brak automatycznego tłumienia i obsługa wzmocnienia/wyjścia są ograniczone. Zerowy koszt, mniej gwarancji trwałości i wsparcia.</p>
+
+<h2>eqMac — darmowy, EQ + wzmacniacz</h2>
+<p>eqMac to darmowy ogólnosystemowy korektor ze wzmacniaczem głośności. Chodzi bardziej o kształtowanie tonu i głośności w całym Mac niż o miksowanie poszczególnych aplikacji, więc jest to inne narzędzie do innego zadania. Jeśli szczególnie zależy Ci na kontroli z poziomu aplikacji, eqMac nie jest tak naprawdę rozwiązaniem, chociaż jest to dobry, darmowy korektor.</p>
+
+<h2>Cena a wartość: uczciwy stół</h2>
+<ul>
+<li><strong>Naprawdę za darmo, ale z kompromisami:</strong> Background Music (delikatny, oparty na sterownikach), FineTune (cienkie funkcje), eqMac (EQ, a nie mikser).</li>
+<li><strong>Najtańsza kompletna płatna aplikacja:</strong> SoundDial za 14,99 € — doładowanie, profile, tłumienie, bezpieczeństwo App Store.</li>
+<li><strong>Premium/pro:</strong> SoundSource za ~39 USD — EQ i routing, instalacja spoza App Store.</li>
+</ul>
+<p>Inaczej mówiąc: SoundDial kosztuje mniej więcej jedną trzecią SoundSource, a jednocześnie oferuje funkcje, których faktycznie pragnie 90% ludzi. I w przeciwieństwie do bezpłatnych opcji, nie ulegnie cichej awarii po aktualizacji macOS, ponieważ nie opiera się na delikatnym sterowniku audio na poziomie systemu.</p>
+
+<h2>Które wybrać?</h2>
+<p>Jeśli jesteś profesjonalistą, który potrzebuje korektora dla poszczególnych aplikacji i kierowania aplikacji do różnych wyjść, kup SoundSource — to zasługuje na swoją cenę. Jeśli lubisz oprogramowanie typu open source i nie przeszkadzają Ci sporadyczne awarie, wypróbuj Background Music lub FineTune za darmo. Jeśli jednak chcesz najtańszą opcję, która po prostu działa — niezależną głośność, wzmocnienie, wyciszenie, profile z możliwością zapisu i automatyczne wyciszanie, zainstalowaną bezpiecznie z App Store — SoundDial będzie zdecydowanym zwycięzcą pod względem wartości w 2026 roku.</p>
+
+<blockquote>Najlepszy mikser to nie ten, który ma najwięcej funkcji i najniższą cenę — to ten, który skonfigurujesz raz i o którym zapomnisz. Za 14,99 € SoundDial sprawia, że ​​jest to łatwe połączenie.</blockquote>
+
+<p>Gotowy, aby nadać każdej aplikacji własną głośność? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za jednorazową kwotę 14,99 € — bez subskrypcji, bez sterowników, bez ryzyka.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Mikser głośności Windows dla Mac: Uzyskaj kontrolę głośności z poziomu aplikacji",
+    description: "Brakuje Ci miksera głośności Windows w Twoim Mac? macOS nie ma wbudowanej regulacji głośności dla poszczególnych aplikacji. Oto najszybszy sposób na zdobycie tego: SoundDial, mikser z paskiem menu za 14,99 euro.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanego miksera głośności, takiego jak Windows, więc nie można ustawić głośności dla poszczególnych aplikacji w Ustawieniach systemu. Najszybszą i niezawodną poprawką jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikacja na pasku menu za 14,99 euro z Mac App Store. Daje każdej aplikacji własny suwak głośności, wyciszenie i wzmocnienie — bez sterowników, bez DMG, bez ryzykownych instalacji.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mikser głośności Windows dla Mac: Uzyskaj kontrolę głośności z poziomu aplikacji" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego mikser głośności Windows nie ma odpowiednika Mac</h2>
+
+<p>Jeśli przerzuciłeś się z Windows, jedną z pierwszych rzeczy, które przegapisz, będzie Mikser głośności: kliknij prawym przyciskiem myszy ikonę głośnika, a każda działająca aplikacja otrzyma swój własny suwak. Ścisz Chrome, ustaw głośno Discord, wycisz Spotify — wszystko w jednym miejscu.</p>
+
+<p>macOS po prostu tego nie dostarcza. Regulacja głośności Apple to pojedynczy suwak obejmujący cały system. Niezależnie od tego, jaki poziom ustawisz, będzie on dotyczył wszystkiego naraz. W Ustawieniach systemu nie ma ukrytych opcji dla poszczególnych aplikacji, nie ma polecenia Terminal, nie ma przełącznika dostępności. To autentyczna luka i tak jest od lat.</p>
+
+<p>Powód jest architektoniczny: aplikacje kierują dźwięk przez Core Audio do urządzenia wyjściowego, a system operacyjny nie udostępnia miksera skierowanego do użytkownika dla poszczególnych strumieni. Aby odtworzyć wrażenia z Windows, potrzebujesz aplikacji innej firmy, która obsługuje tę ścieżkę audio i zapewnia sterowanie, o którym Apple zapomniał.</p>
+
+<h2>Najbliższe dopasowanie: SoundDial</h2>
+
+<p>SoundDial to mikser głośności z paskiem menu dla poszczególnych aplikacji, stworzony specjalnie do tego celu. Kliknij jego ikonę, a otrzymasz czystą listę wszystkich odtwarzanych plików audio, każdy z własnym suwakiem. Jest to najbardziej bezpośredni „mikser głośności Windows dla Mac”, jaki możesz zainstalować, i robi kilka rzeczy, których mikser Windows nigdy nie byłby w stanie:</p>
+
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> – podstawowa cecha. Ustaw Chrome na 40%, Zoom na 100%, muzykę na 20%.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną aplikację, nie dotykając pozostałych.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — naciśnij cichą aplikację <em>powyżej</em> 100%, gdy własny dźwięk jest zbyt cichy.</li>
+<li><strong>Profile głośności</strong> — zapisz miks (np. „rozmowa służbowa” lub „gra”) i przywołaj go natychmiast, zamiast ponownie przeciągać suwaki.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie ścisza dźwięk w tle, gdy zaczyna się coś ważniejszego, na przykład rozmowa.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przechodź między głośnikami, słuchawkami i innymi urządzeniami z tego samego menu.</li>
+</ul>
+
+<p>Ponieważ jest na <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, został sprawdzony przez firmę Apple i poddany piaskownicy. Instaluje się jednym kliknięciem — bez konieczności przeciągania DMG, bez konieczności zatwierdzania sterownika audio lub rozszerzenia systemowego, bez monitów bezpieczeństwa. Jednorazowa opłata za 14,99 EUR (bez subskrypcji) to najprostszy sposób na wypełnienie luki.</p>
+
+<h2>Jak skonfigurować głośność dla poszczególnych aplikacji w Mac</h2>
+
+<ol>
+<li>Zainstaluj SoundDial z Mac App Store.</li>
+<li>Przyznaj jednorazowe pozwolenie na dźwięk, o które prosi przy pierwszym uruchomieniu.</li>
+<li>Kliknij ikonę SoundDial na pasku menu.</li>
+<li>Przeciągnij suwak obok dowolnej aplikacji, aby ustawić jej głośność, lub naciśnij przycisk wyciszenia/wzmocnienia.</li>
+<li>Opcjonalnie zapisz bieżący miks jako profil, aby móc go później przywrócić.</li>
+</ol>
+
+<p>To jest cały przepływ pracy. Zachowuje się jak znany już mikser Windows, tylko z paska menu, a nie poprzez kliknięcie prawym przyciskiem myszy na pasku zadań.</p>
+
+<h2>Porównanie SoundDial z innymi opcjami</h2>
+
+<p>SoundDial nie jest jedynym narzędziem w tej przestrzeni, więc oto uczciwe spojrzenie na alternatywy.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — około 39 dolarów i naprawdę profesjonalna jakość: korektor dla każdej aplikacji, routing wyjściowy dla każdej aplikacji, efekty. Wymaga to jednak bezpośredniego pobrania oraz sterownika przechwytywania dźwięku i jest przesadą (i droższą), jeśli chcesz tylko głośności dla poszczególnych aplikacji. Wybierz tę opcję, jeśli potrzebujesz korektora i routingu; wybierz SoundDial, jeśli chcesz mieć mikser bez złożoności i sterownika.</li>
+<li><strong>Background Music</strong> — darmowy i open source, co jest świetne. Haczyk: może się zepsuć w nowszych wersjach macOS i brakuje mu wzmocnienia, zapisanych profili i automatycznego wyciszania. Dobrze, jeśli potrafisz rozwiązywać problemy ze sterownikami audio typu open source; mniej idealne, jeśli chcesz czegoś, co po prostu działa.</li>
+<li><strong>FineTune</strong> — bezpłatna aplikacja z paskiem menu o otwartym kodzie źródłowym. Lekki i warty uwagi, jeśli budżet jest priorytetem, ale handlujesz lakierem, profilami i bezpieczeństwem App Store za darmo.</li>
+<li><strong>eqMac</strong> — darmowy korektor i wzmacniacz ogólnosystemowy. Jest to najpierw korektor, a nie mikser dla poszczególnych aplikacji, więc rozwiązuje inny problem.</li>
+</ul>
+
+<p>Kompromis jest prosty. Bezpłatne narzędzia nic nie kosztują, ale mogą być delikatne lub mało funkcjonalne. SoundSource jest wydajny, ale drogi i oparty na sterownikach. SoundDial ma najlepszy punkt: jednorazowa cena 14,99 euro, bezpieczeństwo i sandboxing App Store oraz profile + automatyczne wyciszanie, które pomijają bezpłatne opcje.</p>
+
+<blockquote>Jeśli wszystko, czego potrzebujesz, to mikser głośności Windows — suwaki dla poszczególnych aplikacji, wyciszanie i zwiększanie głośności, instalowane bezpiecznie w ciągu kilku sekund — SoundDial jest najbardziej bezpośrednim rozwiązaniem.</blockquote>
+
+<h2>Najważniejsze</h2>
+
+<p>macOS nie zapewni miksera głośności i prawdopodobnie nigdy tego nie zrobi. Ale nie musisz żyć z jednym suwakiem obejmującym cały system. Dedykowany mikser na pasku menu przywraca kontrolę nad aplikacjami, którą miałeś w Windows, a dodatkowo dodaje wzmocnienie, profile i automatyczne wyciszanie.</p>
+
+<p>Chcesz w prosty sposób uzyskać liczbę przypadającą na aplikację? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za 14,99 € — jednorazowo, w trybie piaskownicy i instaluje się w ciągu kilku sekund.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Ustaw głośność aplikacji tak jak Windows — na swoim Mac",
+    description: "Windows ma mikser głośności dla poszczególnych aplikacji, ale macOS nie. Oto jak ustawić niezależną głośność dla każdej aplikacji na Mac — szybko, bezpiecznie i bez sterowników.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji, takiego jak ten w Windows, więc najszybszym i niezawodnym rozwiązaniem jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikacja na pasku menu Mac App Store, która zapewnia każdej aplikacji własny suwak głośności, wyciszenie poszczególnych aplikacji i zwiększenie głośności. Działa w trybie piaskownicy, został sprawdzony przez Apple, instaluje się bez sterowników i kosztuje 14,99 euro jednorazowo.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ustaw głośność aplikacji tak jak Windows — na swoim Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego Windows może to zrobić, a macOS nie</h2>
+<p>Jeśli korzystałeś z Windows, znasz wiertło: kliknij prawym przyciskiem myszy ikonę głośnika, otwórz Mikser głośności i przeciągnij osobny suwak dla Chrome, Spotify, Discord i wszystkiego innego, co hałasuje. To proste i po prostu działa.</p>
+<p>macOS nigdy nie dostarczył odpowiednika. Sterowanie dźwiękiem Apple jest globalne — jedna główna głośność dla całego systemu. Możesz wyciszyć aplikację, wyciszając źródło w tej aplikacji (jeśli w ogóle ma ona kontrolę), ale nie ma jednolitego miejsca, w którym można by powiedzieć „utrzymuj moją muzykę na poziomie 40%, podczas gdy moje spotkanie pozostanie na 100%”. Właśnie z powodu tej luki istnieją miksery innych firm.</p>
+
+<h2>Najszybsze rozwiązanie: mikser na pasku menu</h2>
+<p>Najbardziej zbliżoną do funkcjonalności Windows jest aplikacja na pasku menu, która wyświetla listę uruchomionych aplikacji audio i wyświetla dla każdej z nich suwak. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> robi dokładnie to. Kliknij jego ikonę na pasku menu, a otrzymasz:</p>
+<ul>
+<li><strong>Niezależna głośność dla każdej aplikacji</strong> — przeciągnij Spotify w dół, nie dotykając połączenia.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — natychmiast wycisz jedną hałaśliwą aplikację, a resztę zostaw grającą.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — wciśnij zbyt cichą aplikację <em>powyżej</em> 100%, gdy jego własne maksimum jest nadal zbyt miękkie.</li>
+<li><strong>Profile głośności</strong> — zapisz miks „Work” lub „Gaming” i przywołaj go jednym kliknięciem.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie ścisza dźwięk w tle, gdy zaczyna się coś ważniejszego.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi wyjściami z tego samego menu.</li>
+</ul>
+<p>Ponieważ znajduje się na Mac App Store, jest piaskownicą i sprawdzony przez Apple, instaluje się czysto i nie ma żadnego DMG do przeciągnięcia, żadnego rozszerzenia jądra ani sterownika audio do zatwierdzenia w Ustawieniach systemu. Ta ostatnia część ma większe znaczenie, niż się wydaje — narzędzia oparte na sterownikach to te, które mają tendencję do psucia się po aktualizacjach macOS.</p>
+
+<h2>Jak to skonfigurować (około dwóch minut)</h2>
+<ul>
+<li><strong>1.</strong> Zainstaluj SoundDial z Mac App Store i uruchom go.</li>
+<li><strong>2.</strong> Przyznaj uprawnienia audio, o które prosi macOS — dzięki temu aplikacja może widzieć strumienie poszczególnych aplikacji.</li>
+<li><strong>3.</strong> Kliknij ikonę SoundDial na pasku menu. Każda aplikacja aktualnie odtwarzająca dźwięk wyświetla się z własnym suwakiem.</li>
+<li><strong>4.</strong> Przeciągnij suwak dowolnej aplikacji, aby ustawić jej poziom, lub naciśnij przycisk wyciszenia. Zwiększaj wydajność powyżej 100%, gdy aplikacja działa zbyt cicho.</li>
+<li><strong>5.</strong> (Opcjonalnie) Zapisz bieżący miks jako profil, aby móc go później przywrócić, i włącz automatyczne wyciszanie, jeśli chcesz, aby dźwięk w tle był automatycznie wyciszany.</li>
+</ul>
+<p>To jest cały przepływ pracy. Zachowuje się jak mikser głośności Windows, który już znasz, z wyjątkiem tarć związanych z konfiguracją.</p>
+
+<h2>A co z darmowymi i profesjonalnymi alternatywami?</h2>
+<p>Istnieją inne sposoby uzyskania głośności dla poszczególnych aplikacji w Mac. Warto je poznać, żeby móc uczciwie wybierać.</p>
+<blockquote>Bezpłatne narzędzia wymieniają pieniądze na niezawodność i funkcje; profesjonalne narzędzia handlują pieniędzmi i konfigurują głębokość, której możesz nie potrzebować.</blockquote>
+<p><strong>Background Music</strong> jest darmowy i open source i zapewnia głośność dla każdej aplikacji. Haczyk: zaczepia się głęboko w systemie audio i ma historię psucia się w nowszych wersjach macOS, a ponadto brakuje mu wzmocnienia, profili i automatycznego wyciszania. Jeśli to zadziała w Twojej konfiguracji, świetnie – ale jest to ryzykowne w przypadku aktualizacji.</p>
+<p><strong>FineTune</strong> to darmowa aplikacja typu open source z paskiem menu, utrzymana w tym samym duchu co SoundDial. Jest to dobry punkt wyjścia, jeśli jedynym zmartwieniem jest budżet, choć jest to projekt społecznościowy bez profili i polerowania.</p>
+<p><strong>eqMac</strong> to darmowy, ogólnosystemowy korektor i wzmacniacz. Świetnie nadaje się do kształtowania ogólnego dźwięku, ale nie jest to prawdziwy mikser dla poszczególnych aplikacji — dostosowujesz cały sygnał wyjściowy, a nie poszczególne aplikacje.</p>
+<p><strong>SoundSource</strong> autorstwa Rogue Amoeba (około 39 USD) to opcja klasy profesjonalnej: korektor dla każdej aplikacji, routing wyjściowy dla każdej aplikacji i poważne funkcje inżyniera dźwięku. Jest doskonały — ale wymaga bezpośredniego pobrania i zainstalowania komponentu do przechwytywania dźwięku, a kosztuje ponad dwukrotnie więcej niż SoundDial. Jeśli chcesz routingu i korektora na poziomie studyjnym, to jest to wybór. Jeśli chcesz tylko miksera w stylu Windows, to przesada.</p>
+
+<h2>Który powinieneś dostać?</h2>
+<p>Jeśli Twoim celem jest „sprawić, by mój Mac działał jak mikser głośności Windows” bez pobierania, sterowników i ryzyka, SoundDial jest najczystszym rozwiązaniem. Otrzymujesz głośność, wyciszenie, wzmocnienie, profile i automatyczne wyciszanie dla poszczególnych aplikacji, a wszystko to w sposób bezpieczny dla App Store, za jednorazową kwotę 14,99 EUR — bez subskrypcji. Zamiast tego wybierz SoundSource tylko wtedy, gdy potrzebujesz korektora i routingu dla poszczególnych aplikacji, a także wypróbuj bezpłatne opcje, jeśli nie masz problemu z rozwiązywaniem problemów w aktualizacjach macOS.</p>
+
+<p><strong>Gotowy, aby nadać każdej aplikacji własną głośność?</strong> <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i skonfiguruj swój pierwszy miks w około dwie minuty.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "Jak zwiększyć głośność Mac dla osób niedosłyszących",
+    description: "Masz problemy ze słyszeniem Mac nawet przy maksymalnej głośności? Dowiedz się, jak poprawić i poprawić dźwięk za pomocą aplikacji w przypadku osób niedosłyszących, w tym SoundDial i wbudowanych wskazówek.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli Twój Mac nie jest wystarczająco głośny nawet przy maksymalnej głośności, najszybszym i niezawodnym rozwiązaniem jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser na pasku menu Mac App Store, który pozwala zwiększyć wydajność dowolnej aplikacji powyżej 100% i wyciszyć wszystko inne. Oznacza to głośniejszą i wyraźniejszą mowę z FaceTime, wideo lub odtwarzacza filmów bez konieczności uruchamiania całego systemu. Jednorazowa opłata wynosi 14,99 €.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — jak zwiększyć głośność Mac dla osób niedosłyszących" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego maksymalne ustawienie suwaka głośności nadal nie wystarczy</h2>
+<p>Dla niedosłyszących słuchaczy suwak głośności macOS ma dwa frustrujące ograniczenia. Po pierwsze, ogranicza do 100% tego, co generuje sama aplikacja. Jeśli podcast, wideo lub rozmowa została nagrana cicho, „pełna głośność” jest nadal zbyt cicha. Po drugie, macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki system od lat, ale w Mac każda aplikacja ma ten sam poziom główny. Kiedy więc podkręcisz wszystko, aby usłyszeć cichy głos, muzyka w tle i dźwięki powiadomień również staną się nieprzyjemnie głośne.</p>
+<p>Tak naprawdę potrzebujesz umiejętności tworzenia <em>jeden</em> aplikację głośniej niż pozostałe, wypchnij ją poza normalny pułap i wytnij konkurencyjne dźwięki, aby mowa była wyraźniejsza. Właśnie tę lukę wypełniają te narzędzia.</p>
+
+<h2>Najpierw skorzystaj z bezpłatnych ustawień dostępności macOS</h2>
+<p>Przed dodaniem jakiejkolwiek aplikacji warto skonfigurować to, co już oferuje macOS. Pomagają one w przejrzystości, chociaż nie dodają surowej głośności:</p>
+<ul>
+<li><strong>Dźwięk monofoniczny:</strong> Ustawienia systemowe &rarr; Dostępność &rarr; Audio, włącz „Odtwarzaj dźwięk stereo jako mono”. Jeśli Twój słuch jest silniejszy w jednym uchu, pełny sygnał zostanie wysłany do obu, dzięki czemu nie stracisz połowy dialogu.</li>
+<li><strong>Regulacja balansu:</strong> W Ustawieniach systemowych Dźwięk &rarr; przeciągnij balans lewy/prawy w stronę silniejszego ucha.</li>
+<li><strong>Zmniejsz dźwięki tła:</strong> Obniż poziom muzyki i nastroju w aplikacjach, które na to pozwalają, aby głosy nie walczyły ze ścieżką dźwiękową.</li>
+<li><strong>Miejsca na słuchawki:</strong> Jeśli używasz AirPods lub Beats, ustawienia systemowe &rarr; Dostępność &rarr; Dźwięk &rarr; Słuchawki mogą wzmacniać ciche dźwięki i dostrajać je do mowy.</li>
+</ul>
+<p>Są one naprawdę przydatne i nic nie kosztują. Ale żaden z nich nie tworzy ani jednej cichej aplikacji <em>głośniej niż 100%</em>i to jest zazwyczaj prawdziwy problem.</p>
+
+<h2>Jak zwiększyć wydajność jednej aplikacji powyżej 100% za pomocą SoundDial</h2>
+<p>SoundDial znajduje się na pasku menu i wyświetla suwak dla każdej aplikacji odtwarzającej aktualnie dźwięk. Oto procedura, która najbardziej pomaga osobom niedosłyszącym:</p>
+<ul>
+<li><strong>Ulepsz aplikację, której słuchasz.</strong> Przeciągnij jego suwak powyżej 100%, aby wzmocnić cichą rozmowę wideo lub podcast poza to, na co pozwala sama aplikacja.</li>
+<li><strong>Wycisz lub obniż wszystko inne.</strong> Wyłącz muzykę, karty przeglądarki lub dźwięki powiadomień, aby nic nie mogło konkurować z głosem, za którym chcesz podążać.</li>
+<li><strong>Włącz automatyczne wyciszanie.</strong> Gdy zaczniesz rozmawiać podczas połączenia, SoundDial automatycznie wyciszy inne dźwięki, aby osoba, z którą rozmawiasz, wyraźnie słyszała dźwięk, a następnie go przywróci.</li>
+<li><strong>Zapisz profil głośności.</strong> Utwórz profil „rozmowy wideo”, w którym Twoja aplikacja do obsługi konferencji będzie działała wydajniej, a wszystko inne będzie ciche, a następnie przełącz się na niego natychmiast, zamiast dopasowywać za każdym razem.</li>
+<li><strong>Szybko przełączaj wyjście.</strong> Przechodź między głośnikami, zestawem słuchawkowym lub urządzeniem podłączonym do aparatu słuchowego z tego samego menu, bez konieczności przeglądania Ustawień systemowych.</li>
+</ul>
+<p>Funkcja wzmocnienia jest tutaj kluczowa. Ponieważ zwiększa wydajność aplikacji powyżej natywnego maksimum, ciche nagranie staje się czymś, co faktycznie słyszysz, podczas gdy reszta systemu pozostaje na komfortowym poziomie.</p>
+
+<h2>Krótkie słowo na temat zniekształceń</h2>
+<p>Każde wzmocnienie programowe wzmacnia wszystko, co jest w sygnale, więc przekroczenie 100% w przypadku już głośnego dźwięku może spowodować przesterowanie. W praktyce wzmacnianie <em>cicho</em> treść do wygodnego, zrozumiałego poziomu brzmi czysto. Zacznij skromnie, podnoś, aż mowa będzie wyraźna i cofnij się, jeśli zacznie brzmieć ostro. Ochrona pozostałych elementów słuchu, dlatego staraj się uzyskać klarowność, a nie maksymalną głośność.</p>
+
+<h2>Porównanie SoundDial z alternatywami</h2>
+<p>Masz kilka opcji, a uczciwość pomoże Ci wybrać tę właściwą:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39 USD):</strong> Prawdziwie profesjonalna klasa, z korektorem dla poszczególnych aplikacji i routingiem wyjściowym. Jeśli chcesz wyrzeźbić częstotliwości dla ubytku słuchu, jest to potężne narzędzie. Ale kosztuje ponad dwa razy więcej, wymaga bezpośredniego pobrania i instaluje sterownik przechwytywania dźwięku. To więcej ustawień i dostępu do systemu, niż wielu ludzi by sobie życzyło.</li>
+<li><strong>Background Music (bezpłatny, open source):</strong> Oferuje bezpłatną głośność dla każdej aplikacji, ale brakuje jej wzmocnienia, profili i automatycznego wyciszania, a także może się zepsuć w nowszych wersjach macOS, ponieważ łączy się głęboko z systemem audio.</li>
+<li><strong>FineTune (bezpłatny, open source):</strong> Lekka aplikacja do regulacji głośności na pasku menu. Dobry do podstaw, ale bez wzmocnienia, profili i wyciszenia, na których opierają się niedosłyszący słuchacze.</li>
+<li><strong>eqMac (bezpłatny):</strong> Korektor ze wzmacniaczem. Przydatny do kształtowania dźwięku, ale opiera się na korekcji dźwięku, a nie na czystym miksowaniu i profilach dla poszczególnych aplikacji.</li>
+</ul>
+<p>Gdzie <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> wyróżnia się równowaga ceny, bezpieczeństwa i specyfiki, która ma tutaj znaczenie. Ponieważ znajduje się na Mac App Store, został sprawdzony przez Apple i poddany piaskownicy, instaluje się bez problemu bez DMG i nie wymaga sterowników audio ani rozszerzeń systemowych. Otrzymujesz wzmocnienie, wyciszenie, profile głośności i automatyczne wyciszanie dla każdej aplikacji w ramach jednego jednorazowego zakupu za 14,99 €, bez konieczności kopania w stosie audio macOS.</p>
+
+<h2>Najważniejsze</h2>
+<p>Najpierw skonfiguruj bezpłatne opcje dostępności macOS, warto je mieć. Jeśli jednak prawdziwym problemem jest to, że jedna aplikacja działa po prostu zbyt cicho, potrzebujesz narzędzia, które może przyspieszyć działanie jednej aplikacji powyżej 100% i wyciszyć resztę. Na tym polega cały sens zwiększania wydajności poszczególnych aplikacji, a macOS nie robi tego samodzielnie.</p>
+
+<p>Gotowy, aby naprawdę usłyszeć swój Mac? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za 14,99 € ulepsz potrzebną aplikację i pozwól, aby automatyczne wyciszanie i profile zapewniały wyraźną mowę.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Jak zwiększyć cichą aplikację w Mac (poprzednia maksymalna głośność)",
+    description: "Jedna aplikacja za cicha nawet przy 100%? Zwiększaj tę aplikację do maksimum na Mac za pomocą SoundDial, miksera głośności dla poszczególnych aplikacji. Oto najszybsza poprawka i alternatywy.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli jedna aplikacja działa zbyt cicho nawet przy maksymalnej głośności, najszybszym i niezawodnym rozwiązaniem jest jej usunięcie <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser głośności na pasku menu dla każdej aplikacji dla macOS. Daje każdej aplikacji własny suwak i głośność <strong>wzmocnienie</strong> co powoduje, że pojedyncza aplikacja przekracza 100%, dzięki czemu cicha rozmowa wideo lub karta przeglądarki stają się głośniejsze bez wpływu na głośność systemu. Jest to jednorazowa aplikacja o wartości 14,99 EUR na Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Jak zwiększyć cichą aplikację w Mac (poprzednia maksymalna głośność)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego jedna aplikacja jest cicha nawet przy 100%</h2>
+<p>macOS ma tylko jeden główny wolumen. Gdy go podniesiesz, wszystko razem stanie się głośniejsze. Ale każda aplikacja generuje również dźwięk na własnym poziomie wewnętrznym, a poziom ten jest bardzo zróżnicowany. Cicho zmasterowany klip YouTube, rozmówca Zoom ze złym mikrofonem, gra z niskim miksowaniem dialogów lub karta przeglądarki z miękkim strumieniem mogą znajdować się daleko poza wszystkim innym, nawet przy pełnym działaniu Mac.</p>
+<p>Prawdziwy problem: macOS ma <strong>brak wbudowanego miksera głośności dla poszczególnych aplikacji</strong>. Windows ma go od lat (Mikser głośności, kliknij prawym przyciskiem myszy ikonę głośnika). W przypadku Mac nie ma natywnego sposobu na zwiększenie wydajności jednej aplikacji, pozostawiając resztę w spokoju, a na pewno nie ma możliwości wzmocnienia pojedynczej aplikacji <em>powyżej</em> to normalne maksimum. To jest luka, którą uderzasz.</p>
+
+<h2>Najszybsze rozwiązanie: ulepsz tylko tę jedną aplikację</h2>
+<p>Mikser dla poszczególnych aplikacji rozwiązuje ten problem, umieszczając się pomiędzy aplikacjami a materiałem wyjściowym, dzięki czemu może niezależnie podnosić lub obniżać każdy strumień i zwiększać jeden powyżej 100%. Z <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, przepływ jest krótki:</p>
+<ul>
+<li>Zainstaluj z Mac App Store i otwórz go. Znajduje się na pasku menu, a nie w ruchomym oknie.</li>
+<li>Kliknij ikonę na pasku menu, aby wyświetlić suwak dla każdej aplikacji odtwarzającej aktualnie dźwięk.</li>
+<li>Znajdź cichą aplikację i przeciągnij jej suwak poza 100%, aby zastosować wzmocnienie. Wzmacnia tylko tę aplikację.</li>
+<li>Wszystko inne zostaw tam, gdzie jest. Głośność systemu i inne aplikacje pozostają nietknięte.</li>
+</ul>
+<p>Ponieważ wzmocnienie przypada na aplikację, możesz zwiększyć płynną rozmowę wideo do komfortowego poziomu, jednocześnie zapobiegając uciążliwościom muzyki i powiadomień. To podstawowa rzecz, której wbudowane elementy sterujące macOS po prostu nie potrafią zrobić.</p>
+
+<h2>Uwaga na temat wzmocnienia i przycinania</h2>
+<p>Wzmocnienie jest naprawdę przydatne, ale to wzmocnienie, a nie magia. Jeśli oryginalny dźwięk aplikacji jest bardzo cichy lub już zniekształcony, mocne podkręcenie może spowodować przycinanie lub sprawić, że syczenie w tle stanie się bardziej widoczne. W praktyce umiarkowane wzmocnienie rozwiązuje zdecydowaną większość sytuacji „to połączenie jest zbyt ciche”. Przesuwaj go w górę, aż aplikacja będzie wygodna, zamiast uderzać nim w sufit, a dźwięk będzie czysty.</p>
+
+<h2>Poza wspomaganiem: co jeszcze pomaga</h2>
+<p>Gdy uzyskasz kontrolę nad każdą aplikacją, kilka funkcji sprawi, że problem z cichą aplikacją zniknie na dobre:</p>
+<ul>
+<li><strong>Profile głośności</strong> — zapisz konfigurację (np. „zwiększ Zoom, obniż Spotify, wycisz Slack”) i przywołaj ją jednym kliknięciem, zamiast przeciągać suwaki przy każdym spotkaniu.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie wyłączaj inne aplikacje podczas odtwarzania wybranej aplikacji, dzięki czemu wzmocnione połączenie będzie wyraźnie słyszalne w tle.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną hałaśliwą aplikację, nie wstrzymując niczego innego.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przechodź między głośnikami, słuchawkami lub interfejsem zewnętrznym z tego samego menu.</li>
+</ul>
+
+<h2>A co z darmowymi i profesjonalnymi alternatywami?</h2>
+<p>Masz wybór i tutaj liczy się uczciwość, więc oto prawdziwy krajobraz.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) to wybór klasy profesjonalnej w cenie około 39 USD. Zapewnia głośność na aplikację, korektor na aplikację i pełne routing wyjściowy, więcej mocy, niż potrzebuje większość ludzi. Kompromisy: kosztuje ponad dwukrotnie, można go pobrać bezpośrednio, a nie App Store, a do tego instalowany jest sterownik przechwytywania dźwięku. Jeśli potrzebujesz zestawu narzędzi dla inżyniera dźwięku, jest on doskonały. Jeśli chcesz tylko jedną aplikację głośniej, to przesada.</p>
+<p><strong>Background Music</strong> jest darmowy i open source i może wykonywać podstawową głośność dla każdej aplikacji. Jest to jednak projekt społecznościowy, który ma historię psucia się w nowszych wersjach macOS i brakuje mu wzmocnienia powyżej 100%, profili i automatycznego wyciszania. Świetnie, jeśli jedynym wymaganiem jest wolność i nie masz nic przeciwko okazjonalnym awariom.</p>
+<p><strong>FineTune</strong> to bezpłatna aplikacja z paskiem menu o otwartym kodzie źródłowym i <strong>eqMac</strong> to darmowy korektor i wzmacniacz systemu. Obydwa są warte wypróbowania, jeśli Twój budżet wynosi zero. Po prostu wiedz, że są utrzymywane przez społeczność, skupiają się na EQ lub są lżejsze w zarządzaniu dla poszczególnych aplikacji i nie łączą profili i ukrywania ich w jednym dopracowanym pakiecie.</p>
+<p>Gdzie <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lądy: to środkowa ścieżka. Tańsze niż SoundSource, wydajniejsze i bardziej niezawodne niż bezpłatne narzędzia, a do tego dostępne na rynku <strong>Mac App Store</strong>, co oznacza, że został sprawdzony przez Apple, poddany piaskownicy i instaluje się bezproblemowo <strong>bez DMG i bez sterowników audio i rozszerzeń</strong> aby przykręcić się do twojego systemu. Dla większości ludzi szczera rekomendacja jest prosta: jeśli chcesz najmniej kłopotliwej poprawki, która zapewnia również wzmocnienie, profile i automatyczne wyciszanie, jest to najlepsza wartość za 14,99 € jednorazowo.</p>
+
+<h2>Szybka odpowiedź, powtórzona</h2>
+<blockquote>Aby ustawić jedną aplikację Mac głośniej niż maksymalna, użyj miksera głośności dla poszczególnych aplikacji ze wzmocnieniem. Otwórz SoundDial z paska menu, znajdź suwak cichej aplikacji i przeciągnij go poza 100%. Tylko ta aplikacja staje się głośniejsza.</blockquote>
+
+<p>Przestań walczyć z jednym suwakiem głośności w całym Mac. Zdobądź <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 € jednorazowo, w ciągu kilku sekund rozbuduj tę cichą aplikację do granic możliwości i zapisz profil, aby nigdy więcej nie musieć o tym myśleć.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Jak wzmocnić ciche filmy i podcasty na swoim Mac",
+    description: "Niektóre filmy, podcasty i wykłady YouTube są po prostu zbyt ciche nawet przy 100%. Oto jak zwiększyć głośność aplikacji powyżej maksymalnej w macOS za pomocą SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Najszybszą i niezawodną poprawką jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser na pasku menu Mac App Store, który daje każdej aplikacji własny suwak głośności i real <strong>wzmocnienie</strong> co przekracza 100%. Otwórz przeglądarkę lub odtwarzacz podcastów, przeciągnij suwak powyżej wartości maksymalnej, a cichy film lub wykład natychmiast stanie się głośniejszy — bez sterowników i bez ponownego uruchamiania.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — jak wzmocnić ciche filmy i podcasty na swoim Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego niektóre filmy i podcasty są po prostu zbyt ciche</h2>
+<p>Rozkręcasz Mac na 100%, a rozmowa kwalifikacyjna nadal pozostaje szeptem. To nie jest twoja wyobraźnia. Dźwięk jest masterowany przy bardzo różnych poziomach głośności — seminarium internetowe nagrane za pomocą mikrofonu laptopa, cichy podcast niezależny lub przesłany stary wykład może być o 15–20 dB niższy od profesjonalnie wyprodukowanego wideo YouTube. Głośność systemu jest już maksymalna, więc nie ma już miejsca na rezerwę.</p>
+<p>Oto haczyk: macOS ma <strong>brak wbudowanego miksera głośności dla poszczególnych aplikacji</strong>. Windows ma go od lat (mikser głośności w zasobniku systemowym), ale w Mac klawisze głośności przesuwają się o jeden globalny poziom dla wszystkiego. Nie ma natywnego sposobu na powiedzenie „zwiększ głośność tylko tej karty przeglądarki” — nie mówiąc już o przekroczeniu 100% wydajności pojedynczej aplikacji.</p>
+
+<h2>Prawdziwe rozwiązanie: zwiększenie głośności poszczególnych aplikacji</h2>
+<p>Aby ciche źródło było głośniejsze, niż zwykle pozwalają na to głośniki, potrzebujesz oprogramowania, które dostosuje wzmocnienie <em>konkretnie ta aplikacja</em> i może wzmacniać się powyżej 100% pułapu. Właśnie to robi mikser dla aplikacji z funkcją wzmocnienia.</p>
+<p>Z <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, każda działająca aplikacja pojawi się na liście na pasku menu z własnym suwakiem. Przesuń cichą aplikację do 150% lub 200%, a dźwięk zostanie wzmocniony w czasie rzeczywistym. Ponieważ wzmocnienie dotyczy każdej aplikacji, wszystko inne – Twoja muzyka, powiadomienia, połączenie w innym oknie – pozostaje na normalnym poziomie. Nie wysadzasz w powietrze całego systemu, aby usłyszeć jeden miękki podcast.</p>
+<blockquote>Globalna głośność pyta „Jak głośny jest Mac?” Mikser dla poszczególnych aplikacji pyta „Jak głośno jest <em>to</em> aplikacja?” — to jest pytanie, które faktycznie ma znaczenie, gdy jeden film jest cichy, a reszta jest w porządku.</blockquote>
+
+<h2>Jak ulepszyć cichy film lub podcast, krok po kroku</h2>
+<ul>
+<li><strong>Zainstaluj SoundDial</strong> z Mac App Store. Jest uruchamiana w trybie piaskownicy i sprawdzona przez Apple, więc instaluje się ją tak samo, jak każdą inną aplikację — bez osobnego pobierania, bez sterownika audio, bez konieczności sprawdzania uprawnień.</li>
+<li><strong>Zacznij grać</strong> cichy film, odcinek podcastu lub wykład w dowolnej aplikacji, której używasz — Safari, Chrome, klient podcastów, VLC.</li>
+<li><strong>Kliknij ikonę SoundDial</strong> na pasku menu. Zobaczysz suwak dla każdej aplikacji, która aktualnie wydaje dźwięk.</li>
+<li><strong>Przeciągnij suwak tej aplikacji powyżej 100%</strong> — najpierw spróbuj 150%, a następnie zwiększ moc, jeśli nadal jest zbyt miękka. Zmiana jest natychmiastowa.</li>
+<li><strong>Zostaw wszystko inne w spokoju.</strong> Tylko wzmocniona aplikacja staje się głośniejsza; Twój system pozostaje zrównoważony.</li>
+</ul>
+<p>Jeśli codziennie korzystasz z tych samych aplikacji — powiedzmy odtwarzacza podcastów i przeglądarki — możesz zapisać tę konfigurację jako plik <strong>profil głośności</strong> i przywołaj je jednym kliknięciem, zamiast każdorazowo zmieniać ustawienia.</p>
+
+<h2>Słowo ostrzeżenia dotyczące wzmacniania</h2>
+<p>Wzmocnienie powyżej 100% dodaje wzmocnienie, a wzmocnienie ma ograniczenia. Wciśnij wystarczająco mocno bardzo ciche nagranie o niskiej jakości, aby usłyszeć przesterowanie lub zniekształcenie — jest to źródło braku czystego sygnału, a nie wada aplikacji. Zwiększ głośność, aż będzie komfortowo słyszalna, a następnie zmniejsz, jeśli zacznie brzmieć ostro. W przypadku wbudowanych głośników laptopa ekstremalne wzmocnienie może również obciążać sterowniki, więc idź tam łatwiej niż z dobrymi słuchawkami lub głośnikami zewnętrznymi.</p>
+
+<h2>A co z opcjami darmowymi lub wbudowanymi?</h2>
+<p>Masz alternatywy i warto być wobec nich szczerym:</p>
+<ul>
+<li><strong>Głośność systemowa + suwaki na poziomie aplikacji.</strong> Niektóre odtwarzacze (VLC, kilka przeglądarek poprzez rozszerzenia) pozwalają na wzmocnienie własnego dźwięku. W porządku, jeśli potrzebujesz go tylko w jednej aplikacji, ale utkniesz w konfigurowaniu każdej aplikacji osobno, bez ujednoliconej kontroli i bez profili.</li>
+<li><strong>eqMac</strong> to darmowy korektor i wzmacniacz. Może zwiększyć głośność w całym systemie, ale jest to narzędzie globalne, a nie czysty mikser dla poszczególnych aplikacji i działa na poziomie całego wyjścia.</li>
+<li><strong>Background Music</strong> jest darmowym oprogramowaniem typu open source i oferuje liczbę przypadającą na aplikację. Opiera się jednak na konfiguracji przechwytywania dźwięku, która może zepsuć się w nowszych wersjach macOS i brakuje mu dedykowanego wzmocnienia, profili i automatycznego wyciszania.</li>
+<li><strong>FineTune</strong> to bezpłatna aplikacja z paskiem menu o otwartym kodzie źródłowym — lekka opcja, jeśli chcesz poznać podstawy i nie masz nic przeciwko oprogramowaniu obsługiwanemu przez społeczność.</li>
+<li><strong>SoundSource</strong> autorstwa Rogue Amoeba (~39 USD) to profesjonalny sprzęt wagi ciężkiej: korektor dla aplikacji, routing wyjściowy, wszystko gotowe. Wymaga również pobrania i sterownika przechwytywania dźwięku, a kosztuje ponad dwukrotnie więcej niż SoundDial. Przesada, jeśli chcesz tylko zwiększyć głośność cichego dźwięku.</li>
+</ul>
+
+<h2>Dlaczego SoundDial to praktyczny wybór</h2>
+<p>SoundDial idealnie sprawdza się w przypadku tego właśnie problemu. Jego <strong>14,99 € jednorazowo</strong> — bez subskrypcji — i żyje na <strong>Mac App Store</strong>, co oznacza, że jest piaskownicą, sprawdzoną przez Apple i instalowaną bez żadnego DMG ani rozszerzenia systemowego, któremu można by zaufać. Otrzymujesz zwiększenie wydajności w poszczególnych aplikacjach, o które tak naprawdę prosiłeś, a także profile, wyciszenie poszczególnych aplikacji, szybkie przełączanie wyjść i <strong>automatyczne wyciszanie</strong> to pomija inne aplikacje, gdy musisz skupić się na jednej. Po prostu robi głośno, a resztę robi dobrze.</p>
+
+<p><strong>Masz dość wytężonego słuchania cichych filmów i podcastów?</strong> <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za 14,99 € i nadaj każdej aplikacji własną głośność — ze wzmocnieniem, aby wszystko było wyraźnie słyszalne.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Jak ustawić inną głośność dla każdej aplikacji w Mac",
+    description: "macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Oto jak ustawić niezależne, stałe poziomy głośności dla każdej aplikacji na Mac przy użyciu SoundDial i alternatyw.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanej możliwości ustawienia innej głośności dla każdej aplikacji, dlatego potrzebny jest mikser głośności na pasku menu. Najszybszą i najbardziej niezawodną poprawką jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikacja Mac App Store, która zapewnia każdej aplikacji własny suwak głośności, wyciszenie poszczególnych aplikacji i wzmocnienie, które sprawia, że ciche aplikacje przekraczają 100%. Ustaw swoje poziomy raz i będą się trzymać.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Jak ustawić inną głośność dla każdej aplikacji w Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego Mac nie ma regulacji głośności dla poszczególnych aplikacji</h2>
+<p>Jeśli przerzuciłeś się z Windows, prawdopodobnie szukałeś odpowiednika miksera głośności Windows, tego małego panelu, w którym każda aplikacja ma swój własny suwak. Nie ma go tam. macOS oferuje tylko jeden globalny wolumin systemowy. Niezależnie od tego, czy jest to wideo YouTube, połączenie Zoom, Spotify czy gra, wszystkie mają ten sam poziom mistrzowski.</p>
+<p>Wszystko w porządku, dopóki tak nie jest. Czat Discord zagłusza Twoją muzykę. Reklama w przeglądarce odtwarza się z pełną głośnością, a podcast odtwarzany jest cicho. Twoja gra jest ogłuszająca, ale połączenie głosowe w tle jest zbyt ciche. Jedynym „rozwiązaniem” oferowanym przez firmę Apple jest ręczne otwarcie każdej aplikacji i ręczne dostosowanie jej głośności wewnętrznej, jeśli aplikacja w ogóle ją posiada, oraz powtarzanie tej czynności przy każdej sesji.</p>
+<p>Aby uzyskać rzeczywistą kontrolę poszczególnych aplikacji, potrzebujesz małego narzędzia, które znajduje się pomiędzy aplikacjami a urządzeniem wyjściowym. Poniżej znajduje się instrukcja, jak to zrobić poprawnie, oraz szczere uwagi na temat alternatyw.</p>
+
+<h2>Najszybszy sposób: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> znajduje się na pasku menu i wyświetla listę wszystkich aplikacji, które aktualnie odtwarzają dźwięk. Każdy z nich otrzymuje niezależny suwak. Oto cały przebieg pracy:</p>
+<ul>
+<li><strong>Zainstaluj z Mac App Store.</strong> Został sprawdzony przez Apple i poddany piaskownicy, więc nie ma DMG, żadnego sterownika audio ani żadnego jądra ani rozszerzenia systemowego do zatwierdzenia. Instaluje się jak każdą normalną aplikację i można ją usunąć w ten sam sposób.</li>
+<li><strong>Kliknij ikonę na pasku menu.</strong> Zobaczysz suwak dla każdej aktywnej aplikacji oraz główną kontrolę.</li>
+<li><strong>Przeciągnij, aby ustawić poziomy.</strong> Wyłącz Discord, przesuń Spotify w górę i całkowicie wycisz głośną aplikację na karcie przeglądarki jednym kliknięciem.</li>
+<li><strong>Zwiększ ciche aplikacje.</strong> Jeśli aplikacja jest zbyt miękka nawet przy 100%, przesuń ją powyżej 100% dzięki wzmocnieniu na aplikację.</li>
+<li><strong>Zapisz profil.</strong> Przechowuj miks „do gier”, „połączeń służbowych” lub „muzyki” i przełączaj się między nimi natychmiast, zamiast codziennie przeciągać suwaki.</li>
+</ul>
+<p>Warto wyróżnić dwie funkcje, ponieważ rozwiązują najbardziej irytujące scenariusze:</p>
+<ul>
+<li><strong>Automatyczne wyciszanie</strong> automatycznie wyłącza inne aplikacje, gdy wybrana aplikacja jest odtwarzana, więc muzyka cichnie po nadejściu połączenia i powraca później, bez konieczności ręcznego manipulowania.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> umożliwia przeskakiwanie między słuchawkami i głośnikami z tego samego menu bez konieczności zagłębiania się w Ustawienia systemowe.</li>
+</ul>
+<p>Ponieważ poziomy są zapamiętywane dla każdej aplikacji i zapisywane w profilach, jest to część, której większość ludzi tak naprawdę pragnie: ustawiasz ją raz i tyle <em>zostaje</em> zestaw.</p>
+
+<h2>Szczerze porównane bezpłatne i płatne alternatywy</h2>
+<p>SoundDial nie jest jedyną opcją i w zależności od potrzeb może wystarczyć darmowe narzędzie. Oto uczciwe zestawienie.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource to profesjonalna waga ciężka. Oprócz głośności dla poszczególnych aplikacji zapewnia korekcję dźwięku dla poszczególnych aplikacji i pełne kierowanie wyjścia, dzięki czemu możesz wysyłać jedną aplikację do słuchawek, a drugą do głośników. Jest naprawdę znakomicie. Kompromisy: kosztuje około 39 dolarów i nie jest to czysta instalacja App Store, to bezpośrednie pobranie, które wymaga dodania do systemu sterownika przechwytywania dźwięku. Jeśli jesteś profesjonalistą w dziedzinie dźwięku i potrzebujesz korektora dźwięku i routingu, warto. Jeśli chcesz, aby każda aplikacja miała odpowiednią głośność, jest to więcej narzędzi i więcej konfiguracji, niż potrzebujesz.</p>
+
+<h2>Background Music (open source, bezpłatny)</h2>
+<p>Background Music to bezpłatna aplikacja typu open source, która oferuje głośność dla poszczególnych aplikacji i automatyczne wstrzymywanie. Haczyk polega na niezawodności: instaluje wirtualne urządzenie audio i ma historię psucia się w nowszych wersjach macOS, czasami wymagając ponownej instalacji lub poprawek po aktualizacjach. Brakuje mu również wzmocnienia, zapisanych profili i prawdziwego automatycznego wyciszenia. Świetne, jeśli chcesz za darmo i nie masz nic przeciwko okazjonalnym konserwacjom.</p>
+
+<h2>FineTune i eqMac</h2>
+<p>FineTune to bezpłatna aplikacja typu open source z paskiem menu, stanowiąca lekki punkt wyjścia. eqMac to darmowy korektor z ogólnosystemowym wzmacniaczem, ukierunkowany bardziej na korekcję dźwięku i ogólne wzmocnienie, niż na nadanie każdej aplikacji własnego, trwałego suwaka. Obydwa są warte wypróbowania, jeśli Twoje potrzeby są wąskie, ale żadne z nich nie skupia się na przepływie pracy „różna głośność na aplikację, zapisana jako profile”.</p>
+
+<h2>Które wybrać?</h2>
+<ul>
+<li><strong>Chcesz, żeby po prostu działało, czysto, z profilami i funkcją automatycznego wyciszania?</strong> SoundDial za 14,99 € jednorazowo, z App Store, bez sterowników do zainstalowania.</li>
+<li><strong>Potrzebujesz korektora dźwięku i routingu audio dla poszczególnych aplikacji i nie przeszkadza Ci cena ani sterownik?</strong> SoundSource.</li>
+<li><strong>Chcesz za darmo i możesz majstrować przy aktualizacjach macOS?</strong> Background Music, FineTune lub eqMac.</li>
+</ul>
+<p>Prawdziwą zaletą SoundDial jest połączenie: niezależna głośność, wyciszenie i wzmocnienie dla każdej aplikacji, zapisane w przełączalnych profilach, z automatycznym wyciszaniem, a wszystko to w ramach piaskownicy do pobrania App Store, któremu możesz zaufać i odinstalować jednym kliknięciem, za jednorazową kwotę 14,99 € zamiast subskrypcji.</p>
+
+<blockquote>Bez sterownika, bez rozszerzenia, bez DMG. Ustaw głośność każdej aplikacji raz, zapisz ją jako profil i pozwól, aby automatyczne wyciszanie zajęło się resztą.</blockquote>
+
+<p>Gotowy, aby nadać każdej aplikacji własną głośność? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i przygotuj idealną miksturę w około minutę.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Spraw, aby jedna aplikacja była cichsza niż wszystkie inne na Mac",
+    description: "Jedna głośna aplikacja zagłuszająca resztę na Twoim Mac? Oto najszybszy i niezawodny sposób na zmniejszenie głośności jednej aplikacji bez dotykania pozostałych.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Aby wyłączyć jedną aplikację, a wszystkie inne pozostaną niezmienione, użyj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser głośności na pasku menu dla każdej aplikacji dla macOS. Otwórz, znajdź głośną aplikację na liście i przeciągnij jej suwak w dół. Aplikacja natychmiast się wycisza, a muzyka, połączenia i inne dźwięki zachowują swój własny poziom. To najszybsza i najbardziej niezawodna metoda.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — spraw, aby jedna aplikacja była cichsza niż wszystkie inne na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego macOS sprawia, że jest to takie trudne</h2>
+
+<p>Oto frustrująca prawda: macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki model od lat (kliknij prawym przyciskiem myszy ikonę głośności, otwórz Mikser głośności i gotowe), ale w Mac klawisze głośności i suwak na pasku menu kontrolują tylko jedną rzecz: wyjście główne. Wyłącz go, a wszystko stanie się cichsze. Włącz go, a głośna aplikacja będzie nadal głośna, tylko głośniej wraz z resztą.</p>
+
+<p>Kiedy więc w grze słychać efekty dźwiękowe, karta przeglądarki automatycznie odtwarza reklamę lub w podcaście stale słychać dźwięki powiadomień, jedyne natywne opcje są niezgrabne: wyciszenie całego systemu, sprawdzenie ustawień głośności każdej aplikacji (jeśli w ogóle takie posiada) lub całkowite zamknięcie przestępcy. Nic z tego nie pozwala po prostu powiedzieć „wycisz tę jedną aplikację i zostaw wszystko inne w spokoju”.</p>
+
+<h2>Szybkie rozwiązanie: mikser głośności dla poszczególnych aplikacji</h2>
+
+<p>Mikser głośności dla poszczególnych aplikacji zapewnia każdej działającej aplikacji własny, niezależny suwak. To jest dokładnie ta kontrola, której ci brakuje. Z <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> wygląda to tak:</p>
+
+<ul>
+<li><strong>Otwórz mikser na pasku menu.</strong> Kliknij ikonę SoundDial, a zobaczysz na żywo listę wszystkich aplikacji aktualnie odtwarzających dźwięk.</li>
+<li><strong>Znajdź ten głośny.</strong> Gra, przeglądarka, rozmowa wideo, dźwięki powiadomień, cokolwiek zagłusza resztę.</li>
+<li><strong>Przeciągnij jego suwak w dół.</strong> Ustaw go na 40%, 20%, gdziekolwiek czujesz, że jest zrównoważony. Zmiana jest natychmiastowa i dotyczy tylko tej aplikacji.</li>
+<li><strong>Zostaw wszystko inne w spokoju.</strong> Twój odtwarzacz muzyki, Twoje połączenia, inne karty – wszystkie zachowują ustawioną dla nich głośność.</li>
+</ul>
+
+<p>Możesz także całkowicie wyciszyć pojedynczą aplikację jednym kliknięciem, podczas gdy inne grają dalej, lub zwiększyć cichą aplikację do poziomu powyżej 100%, jeśli jest zbyt cicha. Bez ponownego uruchamiania aplikacji, bez przeglądania menu.</p>
+
+<h2>Typowe przypadki, w których to Cię oszczędza</h2>
+
+<ul>
+<li><strong>Głośna gra przy muzyce w tle.</strong> Ustaw grę na wygodnym poziomie i ustaw pod nią pełną głośność playlisty.</li>
+<li><strong>Reklamy i filmy w przeglądarce gwałtownie rosną.</strong> Przypnij przeglądarkę niżej, aby autoodtwarzanie-niespodzianka nigdy Cię nie zaskoczyła.</li>
+<li><strong>Powiadomienia dzwonią w przypadku połączenia lub podcastu.</strong> Wyłącz aplikację obsługującą wiele powiadomień, nie wyciszając dźwięku, na którym naprawdę Ci zależy.</li>
+<li><strong>Cicha rozmowa wideo przy głośnych mediach.</strong> Zamiast ściszać głośną aplikację, zwiększ głośność powyżej 100%, aby wyraźnie słyszeć ludzi.</li>
+</ul>
+
+<h2>Ustaw go raz z profilami głośności i funkcją automatycznego wyciszania</h2>
+
+<p>Naprawienie jednej głośnej aplikacji jest fajne, ale prawdopodobnie chcesz, aby pozostało naprawione. SoundDial ma dwie funkcje, które sprawiają, że jest to trwałe:</p>
+
+<p><strong>Profile głośności</strong> pozwalają zapisać zestaw poziomów dla poszczególnych aplikacji i przywołać je jednym kliknięciem. Utwórz profil „Gry”, w którym gra jest na poziomie 30%, a muzyka na 100%, oraz profil „Praca”, w którym połączenia są wzmocnione, a wszystko inne jest stonowane. Przełączaj konteksty bez konieczności ponownego przeciągania suwaków za każdym razem.</p>
+
+<p><strong>Automatyczne wyciszanie</strong> automatycznie wyłącza inne aplikacje podczas odtwarzania wybranej aplikacji, a następnie przywraca je później, więc głośna aplikacja nigdy w pełni nie przejmuje kontroli nad dźwiękiem. Pomiędzy profilami, wyciszaniem i szybkim przełączaniem wyjścia (przeskakiwanie między głośnikami i słuchawkami bez otwierania Ustawień systemowych) raz ustawiasz balans i przestajesz nadzorować głośność.</p>
+
+<h2>Porównanie SoundDial z alternatywami</h2>
+
+<p>Istnieją inne sposoby uzyskania głośności dla poszczególnych aplikacji w Mac. Oto szczere spojrzenie:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39 USD)</strong> jest naprawdę profesjonalny: korektor dla poszczególnych aplikacji i pełne routing wyjściowy oprócz regulacji głośności. Ale kosztuje ponad dwukrotnie i wymaga osobnego pobrania oraz sterownika przechwytywania dźwięku. Jeśli potrzebujesz zestawu narzędzi na poziomie studyjnym, jest on doskonały. Jeśli chcesz wyłączyć tylko jedną aplikację, to więcej, niż potrzebujesz.</li>
+<li><strong>Background Music</strong> jest darmowy i ma open source, co jest świetne, ale może się zepsuć w nowszych wersjach macOS i brakuje mu zwiększania głośności, profili i automatycznego wyciszania.</li>
+<li><strong>FineTune</strong> to bezpłatna aplikacja z paskiem menu o otwartym kodzie źródłowym i <strong>eqMac</strong> to darmowy EQ ze wzmacniaczem. Obydwa są warte wypróbowania, jeśli Twoim priorytetem jest bezpłatna, ale handlujesz trwałością, niezawodnością i funkcjami za tę cenę.</li>
+</ul>
+
+<p>SoundDial znajduje się w idealnym miejscu: 14,99 € jednorazowo, bez subskrypcji. Ponieważ znajduje się na Mac App Store, został sprawdzony przez Apple i poddany piaskownicy, a także instaluje się bez problemów, bez DMG, sterowników audio i rozszerzeń systemowych do zatwierdzenia. Otrzymujesz funkcje, które faktycznie mają znaczenie w przypadku tego problemu, głośność dla każdej aplikacji, wyciszenie, wzmocnienie, profile i automatyczne wyciszanie, bez ceny 39 USD lub delikatnego bezpłatnego narzędzia.</p>
+
+<h2>Najważniejsze</h2>
+
+<p>macOS nie pozwoli Ci samodzielnie odrzucić żadnej aplikacji, ale jest to luka, którą możesz wypełnić w ciągu kilku sekund. Zainstaluj mikser dla poszczególnych aplikacji, przeciągnij suwak głośnej aplikacji w dół, a reszta dźwięku pozostanie dokładnie tam, gdzie chcesz. Zapisz profil, a już nigdy więcej nie będziesz się z tym zmagał.</p>
+
+<p><strong>Chcesz wyciszyć jedną aplikację, która zagłusza resztę?</strong> Zdobądź <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 €, jedna płatność, bez sterowników i bez abonamentu.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac Mikser audio dla streamerów: balans mikrofonu, gry i muzyka",
+    description: "Najszybszy sposób na zrównoważenie mikrofonu, dźwięku z gier, muzyki i alertów podczas przesyłania strumieniowego na Mac. SoundDial zapewnia mikser głośności dla poszczególnych aplikacji z profilami i wyciszaniem.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Aby zrównoważyć mikrofon, grę, muzykę i alerty podczas przesyłania strumieniowego na Mac, najszybszym i niezawodnym rozwiązaniem jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser głośności na pasku menu dla poszczególnych aplikacji. macOS nie ma wbudowanego miksera, więc SoundDial umożliwia ustawienie niezależnych poziomów dla każdej aplikacji, wzmocnienie cichych źródeł, zapisanie profili przesyłania strumieniowego i automatyczne wyciszanie muzyki podczas rozmowy.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Mikser audio dla streamerów: mikrofon balansowy, gry i muzyka" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Problem: macOS nie ma możliwości regulacji głośności dla poszczególnych aplikacji</h2>
+<p>Windows ma mikser głośności od lat. macOS nadal go nie dostarcza. Suwak głośności systemu przesuwa wszystko na raz, co jest bezużyteczne, gdy jesteś na żywo. Podczas transmisji żonglujesz co najmniej czterema źródłami, które walczą o ten sam wynik:</p>
+<ul>
+<li><strong>Monitorowanie Twojego głosu/mikrofonu</strong> — musi siedzieć ponad wszystkim.</li>
+<li><strong>Dźwięk gry</strong> — głośny, dynamiczny i podatny na skoki podczas akcji.</li>
+<li><strong>Muzyka w tle</strong> — powinien zachować ciszę pod twoim komentarzem.</li>
+<li><strong>Alerty i dźwięki czatu</strong> — Discord, platforma strumieniowa, alerty obserwujących, powiadomienia.</li>
+</ul>
+<p>Bez kontroli poszczególnych aplikacji będziesz musiał korzystać z suwaka w aplikacji, ręcznie wyciszać Spotify i modlić się, aby głośna scenka przerywnikowa nie zdmuchnęła widzów. To nie jest mieszanka, to kontrola szkód.</p>
+
+<h2>Co musi zrobić odpowiedni mikser strumieniowy</h2>
+<p>Skoncentrowana na twórcy konfiguracja dźwięku w Mac powinna zapewniać cztery rzeczy: niezależne poziomy dla poszczególnych aplikacji, możliwość wzmocnienia zbyt cichego źródła, zapisane konfiguracje, które można natychmiast przywołać, oraz automatyczne wyciszanie, dzięki któremu muzyka cichnie w momencie, gdy mówisz. SoundDial obsługuje wszystkie cztery z paska menu.</p>
+
+<h3>1. Niezależna głośność dla każdej aplikacji</h3>
+<p>Ustaw grę na 60%, muzykę na 25%, Discord na 80%, a przeglądarkę na 40% — każda aplikacja ma swój własny suwak. Nic nie przelewa się na nic innego. Możesz także natychmiastowo wyciszyć aplikację, gdy źródło niewłaściwie zachowuje się w trakcie transmisji, bez dotykania samej aplikacji.</p>
+
+<h3>2. Zwiększanie głośności w przypadku cichych źródeł</h3>
+<p>Niektóre aplikacje i gry działają po prostu zbyt cicho nawet przy 100%. Zwiększenie wydajności aplikacji w SoundDial przesuwa źródło poza jego normalny pułap, dzięki czemu bełkotliwa gra lub cichy film wideo znajdują się tam, gdzie ich potrzebujesz – bez ponownego kodowania i wtyczek.</p>
+
+<h3>3. Profile głośności dla różnych scen</h3>
+<p>Jest to funkcja, która oszczędza streamerom najwięcej czasu. Twój miks „Just Chatting” (muzyka w górę, gra w dół) różni się od miksu „Boss Fight” (gra w górę, muzyka prawie cicha), który różni się od miksu „BRB”. Zapisz każdy jako profil i przełączaj się jednym kliknięciem, zamiast przeciągać na żywo cztery suwaki.</p>
+
+<h3>4. Automatyczne wyciszanie, dzięki któremu muzyka zanika pod Twoim głosem</h3>
+<p>Funkcja automatycznego wyciszania automatycznie ścisza dźwięk tła podczas rozmowy i przywraca go, gdy przestajesz mówić. W przypadku streamerów solowych taka jest różnica między wyraźnym komentarzem a muzyką, która stale zagłusza Twój głos – obsługiwaną automatycznie, a nie ręcznie.</p>
+
+<h2>Gdzie pasuje OBS</h2>
+<p>OBS to narzędzie do transmisji, a nie mikser głośności na pulpicie. OBS kontroluje, jakie poziomy trafiają do strumienia za pomocą panelu Mikser audio i filtrów, ale działa na podstawie przechwytywanych źródeł dźwięku — nie sięga do poszczególnych aplikacji macOS i nie ścisza ich na poziomie systemowym. W przypadku Mac uzyskanie czystego dźwięku z komputera stacjonarnego dla każdej aplikacji w OBS zawsze było bolesną częścią.</p>
+<p>Praktyczny przebieg pracy: użyj SoundDial, aby ustawić rzeczywiste poziomy dla poszczególnych aplikacji w Mac, tak aby to, co wychodzi, było już zrównoważone, a następnie pozwól OBS przechwycić i dostroić poziomy transmisji. Ustaw miks raz u źródła, a OBS będzie miał znacznie mniej problemów. Szybkie przełączanie wyjścia w SoundDial pozwala także na przeskakiwanie pomiędzy słuchawkami i głośnikami bez konieczności zagłębiania się w Ustawienia systemowe pomiędzy scenami.</p>
+
+<h2>SoundDial a alternatywy</h2>
+<p>Masz wybór, a uczciwość ma tutaj znaczenie:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39 USD)</strong> — profesjonalna klasa z korektorem dla poszczególnych aplikacji i pełnym routingiem wyjściowym. Jest doskonały, ale kosztuje ponad dwukrotnie, wymaga bezpośredniego pobrania i instaluje sterownik przechwytywania dźwięku. Przesada, jeśli potrzebujesz głównie czystych poziomów dla poszczególnych aplikacji, wzmocnienia i wyciszenia.</li>
+<li><strong>Background Music (bezpłatny, open source)</strong> — naprawdę przydatny i darmowy, ale może zepsuć się w nowszych wersjach macOS i nie ma wzmocnienia, profili ani automatycznego wyciszania — dokładnie na tych funkcjach opierają się streamerzy.</li>
+<li><strong>FineTune (bezpłatna aplikacja z paskiem menu typu open source)</strong> — lekka kontrola dla poszczególnych aplikacji, ale projekt społecznościowy bez kombinacji profili i wyciszania stworzonej do przesyłania strumieniowego na żywo.</li>
+<li><strong>eqMac (darmowy EQ + wzmacniacz)</strong> — dobry do kształtowania i wzmacniania tonów, ale to korektor, a nie mikser strumieniowy dla poszczególnych aplikacji.</li>
+</ul>
+<p>Kąt SoundDial: to a <strong>14,99 € jednorazowo</strong> zakup na <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Sprawdzony przez Apple, w trybie piaskownicy i instaluje się czysto, bez DMG i sterowników audio ani rozszerzeń systemowych. Ta ostatnia część ma znaczenie dla streamerów: mniej komponentów na poziomie jądra oznacza mniej niespodziewanych awarii, gdy macOS aktualizuje się w noc poprzedzającą transmisję.</p>
+
+<h2>Uczciwy kompromis</h2>
+<p>Jeśli potrzebujesz korektora klasy nadawczej i złożonych łańcuchów routingu, SoundSource zasługuje na swoją cenę. Jeśli potrzebujesz darmowego narzędzia majsterkowicza i nie przeszkadzają Ci sporadyczne uszkodzenia, wystarczą Background Music lub FineTune. Jeśli jednak chcesz miksu, jakiego faktycznie wymaga przesyłanie strumieniowe — poziomów dla aplikacji, wzmocnienia, zapisanych profili scen i automatycznego wyciszania — z bezpiecznej instalacji App Store, która przetrwa aktualizacje macOS, SoundDial jest najbardziej bezpośrednią ścieżką do pieniędzy.</p>
+
+<p><strong>Chcesz naprawić dźwięk w strumieniu?</strong> Zdobądź <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a> za 14,99 € — jednorazowo ustaw poziom mikrofonu, gry, muzyki i alertów, zapisz je jako profile i pozwól, aby automatyczne wyciszanie utrzymało Twój głos na szczycie.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "Jak naprawić trzaski i trzaski dźwięku w macOS Tahoe",
+    description: "Trzeszczący lub trzaskający dźwięk po aktualizacji do macOS Tahoe 26? Napraw to, dopasowując częstotliwość próbkowania, resetując CoreAudio, sprawdzając kodek Bluetooth i usuwając konflikty wtyczek. Oto pełna kolejność rozwiązywania problemów.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Trzaski i trzaski po aktualizacji do macOS Tahoe 26 są prawie zawsze spowodowane niedopasowaniem częstotliwości próbkowania, niestabilną negocjacją kodeka Bluetooth lub zablokowanym procesem CoreAudio. Napraw to, dopasowując częstotliwość próbkowania wyjściowego w konfiguracji Audio MIDI i resetując <code>coreaudiod</code>, zapomnienie i ponowne sparowanie słuchawek Bluetooth oraz zamknięcie hostów wtyczek audio. Przeanalizuj je w poniższej kolejności.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — jak naprawić trzaski i trzaski dźwięku w macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Zacznij od tanich poprawek</h2>
+
+<p>Zanim dotkniesz czegokolwiek technicznego, wyklucz dwie rzeczy, które rozwiązują większość przypadków w czasie krótszym niż minuta:</p>
+
+<ul>
+<li><strong>Uruchom ponownie Mac.</strong> Aktualizacja Tahoe zaskakująco często pozostawia demony audio w stanie półmigrowanym. Czyste ponowne uruchomienie powoduje ponowne załadowanie CoreAudio od zera i usunięcie większości trzasków powstałych po aktualizacji.</li>
+<li><strong>Odłącz i ponownie podłącz urządzenie wyjściowe.</strong> Jeśli jest to przetwornik cyfrowo-analogowy USB, stacja dokująca lub interfejs audio, odłącz go, poczekaj kilka sekund i podłącz ponownie. Wypróbuj także inny port USB, najlepiej bezpośrednio w Mac, a nie przez koncentrator. Koncentratory i wyświetlacze przesyłające dźwięk są częstym źródłem trzasków.</li>
+</ul>
+
+<p>Jeśli hałas nie ustąpi po ponownym uruchomieniu, oznacza to problem z konfiguracją, a nie usterkę. Kontynuować.</p>
+
+<h2>Dopasuj częstotliwość próbkowania (najczęstsza przyczyna)</h2>
+
+<p>Klasyczne trzaski Tahoe wynikają z niedopasowania częstotliwości próbkowania pomiędzy tym, czego chce Twoje urządzenie, a tym, co wysyła macOS. Gdy aplikacja odtwarza dźwięk o częstotliwości 44,1 kHz, a system jest zablokowany na 48 kHz (lub odwrotnie), ponowne próbkowanie może się zacinać lub trzaskać.</p>
+
+<ul>
+<li>Otwórz <strong>Konfiguracja MIDI audio</strong> (w Aplikacje → Narzędzia lub wyszukaj Spotlight).</li>
+<li>Wybierz urządzenie wyjściowe na lewym pasku bocznym.</li>
+<li>Spójrz na <strong>Sformatuj</strong> menu rozwijane. Spróbuj to ustawić <strong>48000,0 Hz, 2 kanały – 24 bity Liczba całkowita</strong> i przetestuj.</li>
+<li>Jeśli wyskakiwanie będzie się powtarzać, przełącz na <strong>44100,0 Hz</strong> i przetestuj ponownie.</li>
+<li>W przypadku interfejsów upewnij się, że częstotliwość próbkowania odpowiada częstotliwości projektu DAW.</li>
+</ul>
+
+<p>Przełączenie formatu zmusza również CoreAudio do renegocjacji połączenia, co samo w sobie rozwiązuje wiele przypadków, nawet jeśli wrócisz do tej samej wartości.</p>
+
+<h2>Zresetuj CoreAudio</h2>
+
+<p>CoreAudio działa jako demon działający w tle o nazwie <code>coreaudiod</code>. Po dużej aktualizacji macOS może utrzymać nieaktualny stan urządzenia. Ponowne uruchomienie jest bezpieczne i zaczyna działać natychmiast, bez konieczności ponownego uruchamiania.</p>
+
+<p>Otwórz Terminal i uruchom:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Wprowadź hasło, gdy zostaniesz o to poproszony. Dźwięk zostanie wyłączony na sekundę, a następnie demon uruchomi się automatycznie ponownie z czystym kontem. Jest to najskuteczniejsza poprawka dotycząca trzaskania, które pojawia się nie wiadomo skąd na komputerze, na którym przed aktualizacją wszystko działało prawidłowo.</p>
+
+<h2>Sprawdź słuchawki i kodek Bluetooth</h2>
+
+<p>Jeśli trzeszczenie występuje tylko na słuchawkach AirPods lub innych słuchawkach Bluetooth, problemem zwykle jest negocjacja kodeka, a nie głośniki. Jakość dźwięku bezprzewodowego pogarsza się, gdy połączenie jest przeciążone lub gdy macOS przechodzi w tryb połączenia o niskiej przepustowości.</p>
+
+<ul>
+<li><strong>Zapomnij i ponownie sparuj urządzenie.</strong> Przejdź do Ustawień systemowych → Bluetooth, odłącz słuchawki, a następnie sparuj je ponownie. Spowoduje to zresetowanie wynegocjowanego kodeka.</li>
+<li><strong>Uważaj na spadek trybu połączenia.</strong> Gdy aplikacja otwiera mikrofon, macOS przełącza zestawy słuchawkowe Bluetooth na profil dwukierunkowy niskiej jakości, który brzmi chrupiąc. Zakończ konferencje i aplikacje głosowe, których nie używasz, a wierność powróci.</li>
+<li><strong>Zmniejsz zakłócenia.</strong> Odejdź od zatłoczonych środowisk 2,4 GHz i odłącz urządzenia Bluetooth, których nie potrzebujesz. Zapracowane pasmo radiowe wydaje sporadyczne popy.</li>
+<li><strong>Wyłącz wejście mikrofonowe</strong> w ustawieniach aplikacji, jeśli chcesz tylko słuchać, więc macOS utrzymuje profil odtwarzania wysokiej jakości.</li>
+</ul>
+
+<h2>Zamknij hosty wtyczek audio i sterowniki wirtualne</h2>
+
+<p>Oprogramowanie audio innych firm, które instaluje rozszerzenie systemowe lub urządzenie wirtualne, często popełnia błędy po skoku systemu operacyjnego, ponieważ jądro i rozszerzenia audio często wymagają aktualizacji do nowej wersji macOS. Podejrzani obejmują wirtualne routery audio, aplikacje korektora, narzędzia pętli zwrotnej i starsze narzędzia oparte na sterownikach.</p>
+
+<ul>
+<li>Zamknij dowolny korektor, router audio lub aplikację z pętlą zwrotną i sprawdź, czy trzeszczenie ustało.</li>
+<li>Sprawdź Ustawienia systemowe → Ogólne → Elementy logowania &amp; Rozszerzenia pod kątem rozszerzeń audio, które mogą wymagać aktualizacji lub usunięcia.</li>
+<li>Zaktualizuj te aplikacje do wersji zgodnych z Tahoe lub odinstaluj te, których już nie używasz. Skumulowane sterowniki audio często powodują konflikty ze sobą po większej aktualizacji.</li>
+</ul>
+
+<p>Jeśli zamknięcie jednej z tych aplikacji wyciszy trzaski, znalazłeś winowajcę. Zainstaluj ponownie bieżącą wersję lub zostaw ją.</p>
+
+<h2>Zawęzić zakres: cały system czy jedna aplikacja?</h2>
+
+<p>Dowiedz się, czy hałas występuje wszędzie, czy tylko w konkretnym oprogramowaniu. Odtwórz lokalny plik audio, następnie wideo w przeglądarce, a następnie aplikację muzyczną. Jeśli trzeszczy tylko jedna aplikacja, rozwiązaniem są ustawienia audio tej aplikacji lub aktualizacja, a nie macOS. Jeśli dotyczy to całego systemu, odpowiedzią są powyższe kroki.</p>
+
+<p>Jeśli nadal utkniesz, uruchom komputer w trybie awaryjnym (przytrzymaj przycisk zasilania na krzemie Apple, a następnie wybierz dysk startowy, trzymając Shift). Tryb awaryjny nie ładuje żadnych rozszerzeń innych firm. Jeśli dźwięk jest tam czysty, przyczyną jest element logowania lub sterownik. Możesz je ponownie włączyć pojedynczo, aby go znaleźć.</p>
+
+<h2>Gdy dźwięk będzie czysty</h2>
+
+<p>Trzaski to problem ze sterownikiem i częstotliwością próbkowania, więc powyższe poprawki faktycznie go rozwiązują. Jednak gdy odtwarzanie będzie stabilne, możesz zauważyć inne ograniczenie: macOS nadal nie ma wbudowanego miksera głośności dla poszczególnych aplikacji, tak jak ma to miejsce w Windows. Nie można wyciszyć głośnej aplikacji bez ściszenia wszystkiego.</p>
+
+<p>To jest ta luka <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> wypełnia. To mikser na pasku menu, który zapewnia każdej aplikacji własny suwak głośności, wyciszenie poszczególnych aplikacji, a nawet zwiększenie głośności w przypadku cichych aplikacji oraz szybkie przełączanie wyjścia. Nie naprawi to trzasków, ale gdy dźwięk będzie zdrowy, codzienna kontrola będzie znacznie łatwiejsza.</p>
+
+<p>Wykonaj powyższe kroki w podanej kolejności i zacznij od ponownego uruchomienia komputera i sprawdzenia częstotliwości próbkowania. Jeśli później będziesz potrzebować prawdziwej kontroli z poziomu aplikacji nad swoją czystą konfiguracją audio, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to jednorazowy zakup za 14,99 EUR na Mac App Store, w trybie piaskownicy, bez sterowników i DMG do zainstalowania.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Zacinanie się lub wycinanie w Mac (poprawka Tahoe)",
+    description: "Zacinanie się, wycinanie lub upuszczanie dźwięku AirPods na macOS Tahoe prawie zawsze oznacza zakłócenia Bluetooth lub rezygnację z automatycznego przełączania. Poniżej opisano, jak ponownie sparować, zmniejszyć przeciążenie pasma 2,4 GHz i zatrzymać przełączenia zakłócające odtwarzanie.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Zacinanie się lub zacinanie się AirPods w macOS Tahoe to prawie zawsze zakłócenia Bluetooth, a nie uszkodzony zestaw słuchawkowy. Typowymi winowajcami są Wi-Fi 2,4 GHz i przeciążenie routera, agresywne automatyczne przełączanie urządzeń i nieaktualne parowanie. Sparuj ponownie AirPods, wyłącz automatyczne przełączanie i odejdź od zatłoczonych kanałów 2,4 GHz, aby rozwiązać większość przypadków.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Zacinanie się lub wycinanie w Mac (poprawka Tahoe)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego AirPods spada konkretnie na Mac</h2>
+
+<p>AirPods korzysta z Bluetooth, który współdzieli zatłoczone pasmo radiowe 2,4 GHz z Wi-Fi, kuchenkami mikrofalowymi, urządzeniami USB 3 i prawie każdą inteligentną wtyczką w domu. Twoje radio Mac to zajęte radio: łączy funkcje Wi-Fi, Bluetooth, AirDrop i Continuity na nakładających się antenach. Kiedy to pasmo jest przeciążone, dźwięk Bluetooth jest pierwszą rzeczą, która się zacina, ponieważ nie toleruje utraconych pakietów tak jak w przypadku transferu plików.</p>
+
+<p>Tahoe nie pogorszył w magiczny sposób Twojego AirPods, ale świeża instalacja macOS często resetuje zachowanie radia, ponownie włącza przekazywanie ciągłości i ponownie negocjuje kodeki. Dlatego problemy wydają się pojawiać zaraz po aktualizacji. Dobra wiadomość: poprawki są dobrze znane i w większości bezpłatne.</p>
+
+<h2>Poprawka 1: ponownie sparuj AirPods (zrób to najpierw)</h2>
+
+<p>Nieaktualne lub uszkodzone parowanie przetrwa ponowne uruchomienie i powoduje sporadyczne spadki, które wyglądają losowo. Całkowicie usuń i ponownie dodaj połączenie:</p>
+
+<ul>
+<li>Otwórz <strong>Ustawienia systemowe, Bluetooth</strong>.</li>
+<li>Kliknij przycisk informacji (i) obok AirPods i wybierz <strong>Zapomnij o tym urządzeniu</strong>.</li>
+<li>Umieść AirPods w etui, zamknij pokrywę, odczekaj 15 sekund, a następnie otwórz je.</li>
+<li>Przytrzymaj przycisk z tyłu obudowy, aż dioda zacznie migać na biało.</li>
+<li>Sparuj ponownie z listy Bluetooth.</li>
+</ul>
+
+<p>Będąc na miejscu, upewnij się, że oprogramowanie sprzętowe AirPods jest aktualne. Nie ma ręcznego aktualizatora, ale pozostawienie ich w etui w pobliżu podłączonego iPhone'a lub Mac na chwilę pozwala na aktualizację w tle.</p>
+
+<h2>Poprawka 2: Wyłącz automatyczne przełączanie</h2>
+
+<p>Jest to najczęstsza przyczyna „wycinania” ludzi w ekosystemie Apple. Twój AirPods próbuje podążać za Tobą pomiędzy Mac, iPhonem i iPadem. Za każdym razem, gdy telefon myśli, że powinien pobrać dźwięk, połączenie na Mac ulega zerwaniu, powodując półsekundową przerwę w połowie podcastu.</p>
+
+<ul>
+<li>Na Mac: Bluetooth kliknij (i) obok AirPods, ustaw <strong>Połącz się z tym Mac</strong> do <strong>Kiedy ostatnio łączono się z tym Mac</strong> zamiast Automatycznie.</li>
+<li>Na iPhonie: Ustawienia, dotknij AirPods, <strong>Połącz się z tym iPhonem</strong>, wybierz <strong>Kiedy ostatnio połączono się z tym iPhonem</strong>.</li>
+</ul>
+
+<p>Zatrzymuje to przeciąganie liny między urządzeniami. Ręcznie wybierzesz, dokąd ma trafiać dźwięk, a to niewielka cena za stabilne odtwarzanie.</p>
+
+<h2>Poprawka 3: Zmniejsz przeciążenie 2,4 GHz</h2>
+
+<p>Jeśli podczas rozmów wideo, pobierania plików lub gdy inne osoby przesyłają strumieniowo, Twoje pasmo radiowe jest nasycone. Kilka praktycznych ruchów:</p>
+
+<ul>
+<li><strong>Użyj pasma Wi-Fi 5 GHz</strong> na Twoim Mac. W ustawieniach routera nadaj sieci 5 GHz odrębną nazwę i połącz się z nią. Spowoduje to zwolnienie pasma 2,4 GHz dla Bluetooth.</li>
+<li><strong>Odsuń koncentratory USB 3 i Thunderbolt</strong> z Twoich Mac i AirPods. USB 3 jest notorycznym źródłem szumów o częstotliwości 2,4 GHz; koncentrator umieszczony obok laptopa może zniszczyć Bluetooth z odległości kilku centymetrów.</li>
+<li><strong>Zmień kanał 2,4 GHz routera</strong> na 1, 6 lub 11 (opcje nienakładające się) i unikaj zatłoczonych kanałów, na których korzystają Twoi sąsiedzi.</li>
+<li><strong>Zachowaj linię wzroku.</strong> Korpusy i ściany pochłaniają częstotliwość 2,4 GHz. Jeśli Twój Mac znajduje się za tobą lub w torbie, upadki będą się nasilać.</li>
+</ul>
+
+<blockquote>Routery Wi-Fi 6E i Wi-Fi 7 mogą pomóc pośrednio: przełączenie urządzeń na częstotliwość 6 GHz zwalnia pasmo 2,4 GHz, od którego zależy Bluetooth. Ale źle skonfigurowana siatka, która ciągle kieruje Cię z powrotem do 2,4 GHz, może pogorszyć sytuację. Sprawdź, w jakim zespole właściwie jesteś.</blockquote>
+
+<h2>Poprawka 4: Zresetuj stos Bluetooth i ciągłości</h2>
+
+<p>Jeśli ponowne parowanie nie udało się, zresetuj same radia:</p>
+
+<ul>
+<li>Wyłącz i włącz Bluetooth na pasku menu, a następnie uruchom ponownie Mac. Ponowne uruchomienie usuwa zaskakującą liczbę przejściowych usterek audio.</li>
+<li>Zresetuj SMC/NVRAM w Intel Mac lub po prostu całkowicie wyłącz (nie uruchamiaj ponownie) na 30 sekund w Apple Silicon.</li>
+<li>Jeśli nie korzystasz z funkcji AirDrop ani Handoff, wyłączenie funkcji Handoff w Ustawieniach systemowych, Ogólne, AirDrop &amp; Handoff zmniejsza drgania radia w tle.</li>
+</ul>
+
+<h2>Co tego nie naprawi (i co właściwie robi mikser głośności)</h2>
+
+<p>Aby było jasne, co do zakresu: żaden z tych problemów nie jest problemem związanym z wolumenem oprogramowania i żadna aplikacja wolumenowa nie może naprawić łącza Bluetooth. Jeśli Twój dźwięk jest <em>spada</em>, kontynuuj powyższy problem z radiem. Aplikacje takie jak <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> kontroluj głośność aplikacji, wyciszanie i przełączanie wyjść, nie dotykają stosu Bluetooth, więc nie przestaną się jąkać. Tam, gdzie mikser naprawdę pomaga, jest towarzysząca mu irytacja, którą wielu użytkowników AirPods utożsamia z przerwami w działaniu: jedna aplikacja działa błyskawicznie, podczas gdy inna działa zbyt cicho lub musi szybko przełączać wyjścia. To problem z balansem głośności, a nie z połączeniem.</p>
+
+<p>Diagnozuj szczerze. Jeśli dźwięk zaniknie na czas i powróci, oznacza to zakłócenia lub automatyczne przełączanie. Jeśli poziomy między aplikacjami są po prostu nierówne, jest to problem mieszania, który można rozwiązać za pomocą oprogramowania.</p>
+
+<h2>Szybka lista kontrolna</h2>
+
+<ul>
+<li>Zapomnij i ponownie sparuj AirPods.</li>
+<li>Ustaw zarówno Mac, jak i iPhone'a na <strong>Kiedy ostatnio połączono</strong>, nie automatycznie.</li>
+<li>Przenieś swój Mac do Wi-Fi 5 GHz; trzymaj koncentratory USB 3 z daleka.</li>
+<li>Ustaw częstotliwość 2,4 GHz na kanał 1, 6 lub 11.</li>
+<li>Uruchom ponownie po przełączeniu Bluetooth.</li>
+</ul>
+
+<p>Gdy znikną przerwy i chcesz po prostu mieć lepszą kontrolę nad głośnością odtwarzania każdej aplikacji, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodaje odpowiedni mikser głośności dla poszczególnych aplikacji, wyciszenie, wzmocnienie i szybkie przełączanie wyjścia, których macOS wciąż nie obejmuje. Jest to jednorazowy zakup za 14,99 euro na Mac App Store, w trybie piaskownicy, bez sterowników do zainstalowania.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Prawy głośnik nie działa w Mac po aktualizacji Tahoe? Jak to naprawić",
+    description: "Jeden głośnik lub kanał przestał działać po aktualizacji do macOS Tahoe? Zacznij od suwaka balansu dźwięku, następnie zresetuj Core Audio, wypróbuj tryb awaryjny i wyklucz sprzęt. Przejrzysty przewodnik rozwiązywania problemów.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli po aktualizacji do macOS Tahoe prawy głośnik zamilkł, sprawdź dźwięk <strong>suwak równowagi</strong> po pierwsze — może się przesunąć podczas aktualizacji. Przejdź do Ustawień systemowych &gt; Dźwięk &gt; Wyjście i upewnij się, że balans znajduje się dokładnie w środku. Jeśli wszystko jest w porządku, uruchom ponownie Core Audio, uruchom komputer w trybie awaryjnym, a następnie wyklucz sprzęt. Większość przypadków to oprogramowanie.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Prawy głośnik nie działa w Mac po aktualizacji Tahoe? Jak to naprawić" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Po pierwsze: suwak balansu (naprawia ten problem częściej niż myślisz)</h2>
+
+<p>Zablokowany lub przesunięty suwak balansu to najczęstsza przyczyna wyciszenia jednego kanału — a aktualizacje macOS czasami go zakłócają. Zanim założysz najgorsze:</p>
+
+<ul>
+<li>Otwórz <strong>Ustawienia systemowe &gt; Dźwięk</strong>.</li>
+<li>Kliknij <strong>Wyjście</strong> i wybierz głośniki (wbudowane lub urządzenie zewnętrzne).</li>
+<li>Znajdź <strong>Równowaga</strong> suwak i przeciągnij go dokładnie na środek. Gdyby został przeciągnięty w lewo, prawy kanał brzmiałby martwo.</li>
+</ul>
+
+<p>Zrób to <em>na urządzenie wyjściowe</em>. Ustawienie balansu jest zapamiętywane oddzielnie dla wbudowanych głośników, słuchawek i każdego interfejsu zewnętrznego — dlatego wbudowany balans wyśrodkowany nie pomoże, jeśli problem dotyczy przetwornika cyfrowo-analogowego USB.</p>
+
+<h2>Sprawdź, czy rzeczywiście jest to kanał sprzętowy</h2>
+
+<p>Szybko kontroluj i wyłączaj sprzęt. Odtwórz dobrze znany utwór stereo, a następnie podłącz słuchawki przewodowe. Jeśli oba kanały działają w słuchawkach, ale nie przez głośniki, problem leży za silnikiem audio (sprzęt głośnikowy lub ścieżka wyjściowa). Jeśli ten sam kanał nie działa także w słuchawkach, jest to bardziej prawdopodobne, że przyczyną jest oprogramowanie lub kodek audio płyty głównej.</p>
+
+<p>Możesz także otworzyć <strong>Muzyka</strong> lub QuickTime, zagraj coś i przełącz balans mocno w lewo, a następnie mocno w prawo. Jeśli dźwięk przechodzi płynnie między kanałami, oba głośniki działają i jest to wyłącznie problem z ustawieniami.</p>
+
+<h2>Uruchom ponownie Core Audio</h2>
+
+<p>macOS kieruje cały dźwięk przez <strong>rdzeńaudio</strong> proces. Po większej aktualizacji jego stan może się zaklinować – wyjścia znikają, kanały spadają lub głośność zachowuje się dziwnie. Ponowne uruchomienie jest bezpieczne i zmusza macOS do odbudowania wykresu audio:</p>
+
+<ul>
+<li>Otwórz <strong>Terminal</strong> (Aplikacje &gt; Narzędzia).</li>
+<li>Uruchom: <code>sudo killall coreaudiod</code></li>
+<li>Wpisz swoje hasło. Demon audio uruchamia się automatycznie w ciągu sekundy lub dwóch.</li>
+</ul>
+
+<p>Nic nie jest usuwane — powoduje to po prostu ponowne uruchomienie podsystemu audio. Zaraz potem ponownie przetestuj prawy głośnik.</p>
+
+<h2>Uruchom ponownie poprawnie, a następnie wypróbuj tryb awaryjny</h2>
+
+<p>Pełny restart usuwa przejściowe zakłócenia dźwięku, których nie da się zabić za pomocą Killall. Jeśli kanał nadal nie działa, uruchom system <strong>tryb bezpieczny</strong>, który ładuje minimalny system i pomija rozszerzenia audio i elementy logowania innych firm:</p>
+
+<ul>
+<li><strong>Jabłkowy krzem:</strong> Zamknij się. Przytrzymaj przycisk zasilania, aż pojawi się „Ładowanie opcji uruchamiania”. Wybierz dysk i przytrzymaj <strong>Przesunięcie</strong> i kliknij „Kontynuuj w trybie awaryjnym”.</li>
+<li><strong>Intela:</strong> Uruchom ponownie i przytrzymaj <strong>Przesunięcie</strong> aż do pojawienia się okna logowania.</li>
+</ul>
+
+<p>Jeśli oba głośniki działają w trybie awaryjnym, sterownik audio innej firmy, urządzenie wirtualne lub narzędzie paska menu zainstalowane przed aktualizacją powoduje konflikt z nowym stosem audio Tahoe. Uruchom ponownie system normalnie i usuń lub zaktualizuj ostatnio zainstalowane oprogramowanie audio (częstymi winowajcami są rejestratory ekranu, aplikacje do spotkań i kexty do routingu audio).</p>
+
+<h2>Zresetuj NVRAM (tylko modele Intel Mac)</h2>
+
+<p>W procesorach Intel Mac ustawienia dźwięku i głośników znajdują się w pamięci NVRAM/PRAM, a nieaktualne wartości mogą przetrwać aktualizację. Zresetuj: wyłącz, następnie włącz i natychmiast przytrzymaj <strong>Opcja + Polecenie + P + R</strong> przez około 20 sekund, umożliwiając jednokrotne ponowne uruchomienie Mac. Nie dotyczy to Apple Silicon Mac — zarządzają tym automatycznie, więc pomiń to, jeśli korzystasz z komputera z serii M.</p>
+
+<h2>Zaktualizuj ponownie — i sprawdź dostępność punktu</h2>
+
+<p>Wczesne wydania dowolnej większej wersji macOS zawierają błędy sterownika audio, które później zostaną załatane. Udaj się do <strong>Ustawienia systemowe &gt; Ogólne &gt; Aktualizacja oprogramowania</strong> i zainstaluj dowolną oczekującą wersję punktu Tahoe (14.x.1, 14.x.2 itp.). Jeśli istnieje aktualizacja uzupełniająca, często rozwiązuje ona dokładnie te regresje dźwięku po aktualizacji.</p>
+
+<h2>Kiedy jest to naprawdę sprzęt</h2>
+
+<p>Jeśli tryb awaryjny, ponowne uruchomienie Core Audio i czysta ponowna instalacja nie powiodą się – a ten sam kanał w słuchawkach nie działa – być może masz do czynienia z usterką sprzętową. Moment aktualizacji może być przypadkowy; wzmacniacze głośnikowe i kodeki audio zawodzą. Biegnij <strong>Diagnostyka Apple</strong> (wyłącz, następnie przytrzymaj przycisk zasilania Apple Silicon i wybierz Diagnostyka lub przytrzymaj <strong>D</strong> na Intelu przy uruchomieniu). Jeśli oznaczy komponent audio, skontaktuj się z nami <strong>Wsparcie Apple</strong> lub autoryzowanego usługodawcę. Nie wydawaj pieniędzy na oprogramowanie dla przepalonego głośnika.</p>
+
+<blockquote>Krótka zasada: jeśli dźwięk przesuwa się prawidłowo za pomocą suwaka balansu, oba głośniki są fizycznie w porządku, a poprawkę można rozwiązać w oprogramowaniu. Jeśli nigdy nie przejdzie na martwą stronę, podejrzewaj sprzęt.</blockquote>
+
+<h2>Gdzie pasuje oprogramowanie wolumenowe (a gdzie nie)</h2>
+
+<p>Dla jasności: martwy kanał głośnikowy nie jest czymś, co naprawia aplikacja regulująca głośność — powyższe kontrole to Twoja ścieżka. To powiedziawszy, gdy dźwięk znów będzie zdrowy, macOS nadal będzie pozbawiony tego, co Windows miał od lat: prawdziwego miksera głośności dla poszczególnych aplikacji. Jeśli szperasz w ustawieniach dźwięku, ponieważ jedna aplikacja działa, a inna jest zbyt cicha, jak mikser na pasku menu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> umożliwia ustawienie niezależnej głośności, wyciszenia, a nawet wzmocnienia dla każdej aplikacji bez naruszania równowagi systemu. Jest to wygodne narzędzie do codziennego miksowania, a nie rozwiązanie problemu opisanego w tym artykule.</p>
+
+<h2>Krótka wersja</h2>
+
+<ul>
+<li>Wyśrodkuj <strong>Równowaga</strong> suwak — na urządzenie wyjściowe.</li>
+<li>Przetestuj ze słuchawkami, aby odizolować sprzęt.</li>
+<li>Biegnij <code>sudo killall coreaudiod</code>, a następnie uruchom ponownie.</li>
+<li>Spróbuj <strong>tryb bezpieczny</strong> aby wychwycić konflikty sterowników.</li>
+<li>Zresetuj NVRAM w Intelu; zainstaluj dowolną wersję punktową Tahoe.</li>
+<li>Nadal martwy w słuchawkach? Uruchom Diagnostykę Apple i zadzwoń do Apple.</li>
+</ul>
+
+<p>Gdy głośniki powrócą do normalnego stanu, a regulacja głośności w poszczególnych aplikacjach jest codzienną irytacją, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodaje mikser macOS, którego zawsze brakowało — 14,99 €, jednorazowo, w trybie piaskownicy, bez sterowników.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods Utknąłeś przy połowie głośności w swoim Mac? Oto poprawka",
+    description: "Dlaczego AirPods łączy się z Mac przy połowie głośności — zwykle kodek Bluetooth przełącza się na profil mikrofonu zestawu głośnomówiącego — plus poprawki dotyczące ponownego parowania i sposoby na dobre zwiększenie poziomu głośności.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>AirPods zwykle zmniejsza głośność w modelu Mac do połowy, ponieważ macOS przełączył je z wysokiej jakości profilu audio A2DP na profil zestawu głośnomówiącego niskiej jakości (HFP) — ten przeznaczony do używania mikrofonu do rozmów telefonicznych. Tryb ten ogranicza wydajność i jakość. Napraw to, zmuszając Mac do powrotu do dźwięku tylko przez słuchawki, a następnie zwiększ poziom, aby go utrzymać.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Zatrzymałeś się na połowie głośności w swoim Mac? Oto poprawka" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego tak się dzieje: przełącznik kodeka</h2>
+
+<p>Urządzenia audio Bluetooth, takie jak AirPods, działają w jednym z dwóch trybów. Kiedy po prostu słuchasz, macOS wykorzystuje A2DP — pełne stereo, pełna głośność i czysta jakość. Ale w momencie, gdy aplikacja potrzebuje Twojego mikrofonu, macOS przełącza całe połączenie na HFP (profil zestawu głośnomówiącego). HFP to dwukierunkowy kodek telefoniczny. Brzmi cienko, monofonicznie i zauważalnie ciszej, ponieważ został zaprojektowany do rozmów głosowych, a nie do muzyki.</p>
+
+<p>Problem polega na tym, że macOS często pozostaje w HFP nawet po zakończeniu działania aplikacji, która przejęła mikrofon — lub przełącza się na nią w momencie otwarcia Zoom, FaceTime, Teams, Discord lub karty przeglądarki z uprawnieniami do mikrofonu. Zatem Twój AirPods brzmi tak, jakby był ustawiony na „połowę głośności” nie dlatego, że suwak głośności się przesunął, ale dlatego, że cały profil audio uległ obniżeniu pod Tobą.</p>
+
+<p>Rozpoznasz to: dźwięk nagle staje się cichy i stłumiony, AirPods pojawia się dwukrotnie w ustawieniach dźwięku (raz jako wyjście, raz jako mikrofon), a maksymalne zwiększenie głośności systemu ledwo pomaga.</p>
+
+<h2>Obejścia dotyczące ponownego parowania i kodeków</h2>
+
+<p>To są pierwsze uczciwe kroki. Przepracuj je w odpowiedniej kolejności — zazwyczaj usuwa je jeden z pierwszych.</p>
+
+<ul>
+<li><strong>Zmień urządzenie wejściowe.</strong> Otwórz Ustawienia systemu → Dźwięk → Wejście i wybierz wbudowany mikrofon Mac zamiast AirPods. Uniemożliwia to macOS utrzymywanie AirPods w trybie HFP, dzięki czemu wydruk może powrócić do pełnej jakości A2DP. To jest najskuteczniejsza poprawka.</li>
+<li><strong>Wyłącz i włącz Bluetooth.</strong> Szybki reset połączenia często pozwala na czystą ponowną negocjację A2DP, zwłaszcza jeśli AirPods utknął po zakończeniu połączenia.</li>
+<li><strong>Podłącz ponownie AirPods.</strong> Zamknij obudowę, odczekaj kilka sekund, otwórz ją ponownie w pobliżu Mac i ponownie wybierz je jako urządzenie wyjściowe.</li>
+<li><strong>Zamknij aplikację, która złapała mikrofon.</strong> Całkowicie zamknij Zoom, Teams, Discord lub tę kartę przeglądarki. Niektóre aplikacje utrzymują sesję mikrofonu otwartą w tle i przypinają HFP, dopóki nie znikną.</li>
+<li><strong>Sparuj ponownie od zera.</strong> Usuń AirPods w Ustawieniach systemu → Bluetooth (kliknij przycisk informacji → Zapomnij to urządzenie), a następnie sparuj ponownie. Spowoduje to usunięcie uszkodzonych negocjacji profili, których samo przełączanie nie naprawi.</li>
+<li><strong>Zresetuj AirPods.</strong> Trzymając je w otwartej pokrywie etui, przytrzymaj przycisk konfiguracji z tyłu, aż lampka zacznie migać na pomarańczowo, a następnie na biało. Później ponownie sparuj. Jest to opcja nuklearna dziwaczności na poziomie oprogramowania sprzętowego.</li>
+<li><strong>Zaktualizuj oprogramowanie sprzętowe macOS i AirPods.</strong> Firma Apple dostarczyła poprawki audio Bluetooth w wydaniach punktowych. Oprogramowanie sprzętowe AirPods aktualizuje się cicho, gdy ładują się w pobliżu podłączonego urządzenia — więc zostaw je w etui w pobliżu Mac na noc.</li>
+</ul>
+
+<blockquote><p>Należy zwrócić uwagę na wzór: jeśli głośność spada w momencie dołączenia do połączenia i powraca do normy po zakończeniu połączenia, jest to wina przełącznika HFP, a nie uszkodzonego głośnika lub usterki ustawień.</p></blockquote>
+
+<h2>Dlaczego poprawki nie zawsze się sprawdzają</h2>
+
+<p>Oto frustrująca część. Nawet po ponownym sparowaniu macOS z radością przełączy AirPods z powrotem w cichy tryb głośnomówiący, gdy następnym razem jakakolwiek aplikacja dotknie mikrofonu. Nie można trwale wyłączyć tego zachowania w ustawieniach systemu — Apple traktuje je jako automatyczne. W rezultacie kilka razy dziennie powtarzasz sztuczkę z urządzeniem wejściowym i za każdym razem, gdy Twój AirPods prowadzi rozmowę lub korzysta z aplikacji wymagającej dostępu do mikrofonu, jego poziom znów jest ograniczony do niższego poziomu.</p>
+
+<p>Istnieje również drugi, odrębny problem, który ludzie łączą z tym: niektóre aplikacje działają po prostu ciszej niż inne przy maksymalnej głośności systemu. Odtwarzacz podcastów lub karta przeglądarki mogą znajdować się znacznie poniżej tego, czego oczekują Twoje uszy, nawet jeśli AirPods działa z czystym A2DP. macOS zapewnia jeden suwak głośności do wszystkiego i nie pozwala na kontrolę poszczególnych aplikacji, więc nie ma natywnego sposobu na przywrócenie pojedynczej cichej aplikacji.</p>
+
+<h2>Zwiększ ponownie poziom — i tak go utrzymuj</h2>
+
+<p>To tutaj znajduje się mikser głośności dla poszczególnych aplikacji. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to aplikacja na pasku menu dla macOS, która zapewnia każdej działającej aplikacji własny niezależny suwak głośności — w tym zwiększenie powyżej 100%. Jeśli więc Twój AirPods wróci z połączenia na niższym efektywnym poziomie lub konkretna aplikacja będzie po prostu zbyt cicha, przeciągniesz ją poza normalny sufit i pozostanie tam.</p>
+
+<p>Konkretnie oznacza to:</p>
+
+<ul>
+<li><strong>ZWIĘKSZENIE głośności na aplikację.</strong> Naciśnij cichą aplikację powyżej standardowego maksimum, zamiast wysilać się, aby usłyszeć ją przy „pełnej” głośności systemu.</li>
+<li><strong>Profile głośności.</strong> Zapisz zestaw poziomów — ulepszona przeglądarka, cichsza muzyka, głośne rozmowy wideo — i zmień cały układ jednym kliknięciem, aby nie trzeba było ponownie dostosowywać po każdym ponownym połączeniu.</li>
+<li><strong>Szybkie przełączanie wyjścia.</strong> Przeskakuj między AirPods, głośnikami laptopa i zewnętrznym przetwornikiem cyfrowo-analogowym z paska menu bez konieczności przeglądania Ustawień systemowych, co jest pomocne, gdy wymuszasz negocjacje nowego profilu.</li>
+<li><strong>Wyciszanie poszczególnych aplikacji i automatyczne wyciszanie.</strong> Wycisz jedną aplikację, nie dotykając pozostałych, i pozwól, aby multimedia automatycznie się wyłączały, gdy odtwarzane jest coś ważniejszego.</li>
+</ul>
+
+<p>Warto jasno określić, co to powoduje, a czego nie. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> nie zmusi macOS do pozostania w trybie A2DP — powyższa sztuczka z urządzeniem wejściowym jest nadal narzędziem dla samego kodeka. Powoduje to przywrócenie głośności, którą ukradła niższa wersja dla każdej aplikacji, więc cicha sesja AirPods lub uparcie miękka aplikacja to rozwiązanie jednym przeciągnięciem, a nie stracona sprawa. A ponieważ jest to aplikacja Mac App Store działająca w trybie piaskownicy, nie trzeba instalować żadnego sterownika audio, żadnego DMG ani rozszerzenia jądra — po prostu działa.</p>
+
+<h2>Krótka wersja</h2>
+
+<p>Jeśli Twój AirPods wydaje cichy i stłumiony dźwięk na Twoim Mac, wyłącz urządzenie wejściowe AirPods, aby wymusić ich wyjście z trybu głośnomówiącego, a jeśli to się nie powiedzie, sparuj ponownie. Gdy poziom nadal nie jest osiągany tam, gdzie chcesz — lub pojedyncza aplikacja jest po prostu zbyt miękka — sięgnij po wzmocnienie dla poszczególnych aplikacji, aby ustawić je raz i przejść dalej.</p>
+
+<p>Masz dość walki z suwakiem głośności za każdym razem, gdy odbierasz połączenie? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> — jednorazowa opłata 14,99 EUR, bez subskrypcji i sterowników — i nadaj każdej aplikacji własny wolumen.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Głośność Mac ciągle resetuje się na Tahoe? Jak zablokować to na dobre",
+    description: "Od czasu macOS Tahoe wiele modeli Mac nagle samodzielnie zmienia lub resetuje głośność. Oto dlaczego tak się dzieje, jak zatrzymać wbudowane przyczyny i jak zablokować stały wolumin dla każdej aplikacji, aby pozostał niezmieniony.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli głośność Mac ciągle się resetuje od czasu macOS Tahoe, rozwiązaniem jest wyeliminowanie automatycznych regulatorów: wyłącz wyciszanie dźwięku i opcję „Odtwórz dźwięk przy uruchomieniu”, zresetuj ustawienia dźwięku i ponownie podłącz w czysty sposób dowolne wyjście Bluetooth. W przypadku przeskakujących poziomów dla poszczególnych aplikacji zablokuj stałą głośność dla aplikacji za pomocą miksera, aby nigdy więcej nie dryfowała.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Głośność ciągle resetuje się na Tahoe? Jak zablokować to na dobre" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego głośność zmienia się sama po Tahoe</h2>
+
+<p>Wolumin, który porusza się bez dotykania go przez Ciebie, wydaje się być usterką sprzętu, ale prawie zawsze to oprogramowanie decyduje za Ciebie o poziomie głośności. macOS ma kilka automatycznych zachowań, które cicho szturchają lub resetują wyjście, a zmiany stosu audio Tahoe sprawiły, że kilka z nich stało się bardziej zauważalnych. Zanim założysz, że aplikacja lub Mac jest uszkodzony, warto dokładnie wiedzieć, który system chwyta suwak.</p>
+
+<ul>
+<li><strong>Wyciszanie dźwięku:</strong> macOS ścisza inne dźwięki, gdy uważa, że odtwarza coś ważniejszego (Siri, powiadomienia o dostępności, powiadomienia). Po zakończeniu wyzwalacza poziom czasami nie wraca do końca.</li>
+<li><strong>Resetowanie uścisku dłoni Bluetooth:</strong> AirPods i inne urządzenia Bluetooth renegocjują głośność po podłączeniu. Ponowne podłączenie w połowie sesji może przywrócić domyślny poziom sygnału wyjściowego lub znacznie głośniej/ciszej.</li>
+<li><strong>Przełączanie urządzeń wyjściowych:</strong> Po odłączeniu słuchawek, zadokowaniu lub przełączeniu na głośniki monitora każde wyjście zapamiętuje własną głośność. Przełączanie tam i z powrotem wygląda jak „losowe” resetowanie.</li>
+<li><strong>Wartości domyślne dla poszczególnych aplikacji:</strong> Niektóre aplikacje (przeglądarki, odtwarzacze wideo, narzędzia do obsługi konferencji) ustawiają własne wzmocnienie po uruchomieniu lub rozpoczęciu nowego strumienia, zastępując wszystko, co masz.</li>
+<li><strong>Dźwięk uruchamiania i stan logowania:</strong> Gong startowy i logowanie mogą przywrócić głośność systemu do domyślnego poziomu, który nie został wybrany.</li>
+</ul>
+
+<h2>Najpierw napraw wbudowane przyczyny</h2>
+
+<p>Przepracuj je w odpowiedniej kolejności. Większość skarg związanych z „samoczynnym resetowaniem” znika po wykluczeniu przyłożenia i Bluetooth.</p>
+
+<ul>
+<li><strong>Wyłącz dźwięk uruchamiania.</strong> Ustawienia systemowe → Dźwięk → odznacz <em>Odtwórz dźwięk przy uruchomieniu</em>. Dzięki temu dźwięk rozruchowy nie resetuje poziomu bazowego.</li>
+<li><strong>Zmniejsz lub wyłącz wyzwalacze wyciszania.</strong> W Ustawieniach systemu → Dostępność → Treść mówiona i Siri wyłącz niepotrzebne powiadomienia głosowe. Mniej wyzwalaczy oznacza mniej momentów, w których macOS obniża dźwięk i zapomina go przywrócić.</li>
+<li><strong>Ponownie sparuj problematyczne urządzenia Bluetooth.</strong> Usuń AirPods lub słuchawki z ustawień Bluetooth i sparuj je na nowo. Nieaktualny profil jest częstą przyczyną przyciągania woluminów podczas łączenia.</li>
+<li><strong>Ustaw każde urządzenie wyjściowe celowo.</strong> Podłącz każde wyjście, którego używasz (wbudowane, monitor, słuchawki) i jednokrotnie ustaw jego głośność. macOS przechowuje głośność dla każdego urządzenia, więc ustawienie ich wszystkich eliminuje niespodziankę podczas przełączania.</li>
+<li><strong>Zresetuj Core Audio, jeśli utknął.</strong> Otwórz Terminal i uruchom <code>sudo killall coreaudiod</code>. Spowoduje to ponowne uruchomienie demona audio bez konieczności ponownego uruchamiania i usunięcie stanu zawieszenia, który może powodować nieprawidłowe poziomy.</li>
+<li><strong>Zaktualizuj, a następnie uruchom ponownie.</strong> Wczesne wydania Tahoe Point zawierają poprawki audio. Upewnij się, że korzystasz z najnowszej wersji i uruchom ponownie komputer raz po aktualizacji.</li>
+</ul>
+
+<p>Jeśli resetowanie ustanie, przyczyną jest jeden z powyższych. Jeśli Twoje <em>systemu</em> głośność jest stabilna, ale poszczególne aplikacje działają głośniej lub ciszej niż wszystko inne, osiągnąłeś limit możliwości wbudowanych elementów sterujących.</p>
+
+<h2>Prawdziwa luka: macOS nie może zablokować głośności dla każdej aplikacji</h2>
+
+<p>Oto frustrująca część. Windows od lat ma mikser głośności dla poszczególnych aplikacji — otwierasz go, przeciągasz suwak jednej aplikacji i tak pozostaje. macOS nigdy takiego nie dostarczył. Jest dokładnie jeden suwak głośności systemu i każda aplikacja o niego walczy. Kiedy więc karta przeglądarki wyświetla reklamę odtwarzającą się automatycznie lub połączenie wideo jest dwa razy głośniejsze niż muzyka, jedyną opcją jest ręczne ustawienie głośności głównej — czyli właśnie pętla „dlaczego to się ciągle zmienia”, przed którą próbujesz uciec.</p>
+
+<blockquote>Suwak systemowy to pojedyncze wspólne pokrętło. Bez miksera dla poszczególnych aplikacji „ustaw i zapomnij” w przypadku standardowego macOS nie jest możliwe — zawsze coś Cię zastąpi.</blockquote>
+
+<h2>Zablokuj stałą głośność dla każdej aplikacji za pomocą SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dodaje brak miksera dla aplikacji macOS. Znajduje się na pasku menu i zapewnia każdej działającej aplikacji własny suwak głośności, niezależny od urządzenia głównego. Ponieważ zapamiętuje poziom ustawiony dla każdej aplikacji, bezpośrednio rozwiązuje problem „samoczynnego resetowania”: decydujesz raz, a aplikacja otwiera się za każdym razem z tą głośnością.</p>
+
+<ul>
+<li><strong>Niezależna głośność na aplikację:</strong> Utrzymuj muzykę na poziomie 40% i rozmowę wideo na poziomie 80% w tym samym czasie, bez konieczności przełączania suwaka głównego.</li>
+<li><strong>Wyciszanie i wzmacnianie poszczególnych aplikacji:</strong> natychmiast wycisz hałaśliwą aplikację lub przesuń zbyt cichą aplikację powyżej 100%, gdy jej własny dźwięk jest słaby.</li>
+<li><strong>Profile głośności:</strong> zapisz konfiguracje do „pracy”, „gier” lub „koncentracji” i przełączaj cały miks jednym kliknięciem.</li>
+<li><strong>Automatyczne wyciszanie na Twoich warunkach:</strong> automatycznie obniżaj aplikacje działające w tle, gdy mówisz lub gdy wybrana aplikacja jest aktywna — zamiast decydować o tym macOS.</li>
+<li><strong>Szybkie przełączanie wyjścia:</strong> przeskakuj między głośnikami, słuchawkami i monitoruj dźwięk z paska menu bez konieczności zagłębiania się w ustawienia.</li>
+</ul>
+
+<p>Jest to jednorazowy zakup za 14,99 euro od Mac App Store — bez subskrypcji, bez sterowników, bez DMG i bez rozszerzeń jądra. Ponieważ jest w pełni piaskownicowy i dystrybuowany w App Store, nie instalujesz starszego kextu audio, który Tahoe mógłby zablokować przy następnej aktualizacji. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ustawia poziomy za pomocą obsługiwanych interfejsów API, dzięki czemu zapamiętane woluminy przetrwają aktualizacje i ponowne uruchomienie.</p>
+
+<h2>Którego podejścia faktycznie potrzebujesz?</h2>
+
+<p>Jeśli głośność całego systemu skacze, zacznij od wbudowanych poprawek powyżej — w większości przypadków wyciszanie, Bluetooth i dźwięk uruchamiania. Jeśli zamiast tego problem polega na tym, że jedna aplikacja zawsze jest nieparzysta lub masz dość tego, że główny suwak jest kompromisem, jedynym prawdziwym rozwiązaniem jest mikser dla poszczególnych aplikacji. macOS nie doda żadnego, więc narzędzie na pasku menu to praktyczna droga do miksu, który naprawdę pozostanie tam, gdzie go umieścisz.</p>
+
+<p>Masz dość gonienia za suwakiem głośności w Tahoe? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i zablokuj zapamiętaną głośność dla każdej aplikacji — 14,99 € jednorazowo, bez subskrypcji i sterowników.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Steruj głośnością monitora DAW niezależnie od dźwięku systemowego na Mac",
+    description: "macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji, więc DAW i dźwięki systemowe mają ten sam poziom. Oto jak kontrolować głośność monitora Logic, Ableton lub GarageBand niezależnie od przeglądarki i powiadomień.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji, więc DAW i wszystkie inne urządzenia korzystają z jednego suwaka systemowego. Aby ustawić poziom monitora niezależnie od przeglądarek, Slack i powiadomień, potrzebujesz kontroli głośności dla poszczególnych aplikacji. Mikser podobny do paska menu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zapewnia Logic, Ableton i GarageBand własną głośność, niezależną od dźwięku systemowego.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kontroluj głośność monitora DAW niezależnie od dźwięku systemowego na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego jeden suwak głośności psuje monitorowanie</h2>
+
+<p>Kiedy produkujesz, Twój DAW jest tylko jednym z wielu urządzeń wytwarzających dźwięk. Ścieżka referencyjna odtwarza się na karcie przeglądarki. Pojawiają się pingi Slack. Samouczek YouTube działa na drugim monitorze. W Windows mikser głośności umożliwia niezależne równoważenie wszystkich tych parametrów. W modelu macOS firma Apple nigdy nie dostarczała odpowiednika — klawisze głośności i suwak paska menu poruszają się <em>wszystko</em> na raz.</p>
+
+<p>Stwarza to prawdziwy problem dla każdego, kto miksuje ze słuchu. Wybierasz wygodny poziom monitorowania w Logic, a następnie rozbrzmiewa powiadomienie na tym samym poziomie i wysadzasz uszy. Albo ściszyłeś system, aby chronić swój słuch podczas głośnego przejścia, a teraz ścieżka referencyjna jest zbyt cicha, aby ją porównać. Twoje odniesienie do monitorowania nie jest już stabilne, a stabilne odniesienie jest całym punktem miksowania.</p>
+
+<blockquote>Monitorowanie na stałym poziomie to jeden z niewielu nawyków, który wymiernie poprawia Twoje miksy. Jeśli dźwięki systemowe będą zmuszać Cię do przesuwania głównego suwaka, utracisz tę spójność.</blockquote>
+
+<h2>Co właściwie oznacza „oddzielny wolumin DAW”.</h2>
+
+<p>Producenci mylą tutaj dwie różne rzeczy i warto je rozdzielić:</p>
+
+<ul>
+<li><strong>Interfejs/główny poziom wyjściowy</strong> — pokrętło sprzętowe interfejsu audio lub kontrolera monitora. Ustawia całkowitą głośność odsłuchu i powinna pozostać niezmieniona po skalibrowaniu.</li>
+<li><strong>Ilość oprogramowania dla poszczególnych aplikacji</strong> — jak głośno jest każda aplikacja <em>wcześniej</em> osiąga ten wynik. Tego właśnie brakuje macOS. Pozwala utrzymać jedność DAW, jednocześnie ściszając Chrome, muzykę lub dźwięki powiadomień do poziomu łóżka pod spodem.</li>
+</ul>
+
+<p>Chcesz tego drugiego. Celem nie jest wyciszenie DAW — chodzi o wyciszenie wszystkiego innego w stosunku do niego, tak aby DAW pozostał najgłośniejszym i najbardziej spójnym źródłem, a wszystko, co rozprasza, pozostaje cicho w tle.</p>
+
+<h2>Jak to zrobić za pomocą miksera dla poszczególnych aplikacji</h2>
+
+<p>Mikser z paskiem menu, taki jak <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> wyświetla listę wszystkich aplikacji aktualnie odtwarzających dźwięk i udostępnia każdemu własny suwak. Przepływ pracy dla producenta wygląda następująco:</p>
+
+<ul>
+<li><strong>Skalibruj swój interfejs raz.</strong> Ustaw interfejs audio lub kontroler monitora na wygodny, powtarzalny poziom odniesienia i zostaw go. To jest Twoja stała kotwica.</li>
+<li><strong>Ustaw DAW na 100%.</strong> W mikserze pozostaw Logic, Ableton lub GarageBand przy pełnej głośności oprogramowania, aby przeszło przy jedności. Własny tłumik główny Twojego DAW nadal dobrze miksuje.</li>
+<li><strong>Ściągnij wszystko inne w dół.</strong> Zmniejsz poziom Chrome, Safari, Music i Slack na niższy poziom — powiedzmy 40–60% — tak aby referencyjne utwory i wiadomości znajdowały się pod Twoim miksem, zamiast z nim konkurować.</li>
+<li><strong>Wycisz hałaśliwe rzeczy.</strong> Wyciszenie poszczególnych aplikacji pozwala całkowicie wyciszyć przeglądarkę lub aplikację do czatowania bez dotykania łańcucha monitorowania. Jedno kliknięcie, a Twój DAW będzie mógł grać dalej bez zmian.</li>
+</ul>
+
+<p>Ponieważ suwak DAW nigdy się nie porusza, Twoje odniesienie do monitorowania pozostaje solidne przez całą sesję. Możesz podkręcić ścieżkę referencyjną, aby uzyskać szybkie A/B, a następnie ją wyciszyć, a poziom miksu nie zmienił się ani o decybel.</p>
+
+<h2>Ulepszanie cichej aplikacji zamiast odrzucania innych</h2>
+
+<p>Czasami problem działa w drugą stronę. Nieostrożne odbicie demo, notatka głosowa lub ciche odniesienie jest odtwarzane znacznie poniżej poziomu sesji. Podkręcenie interfejsu, aby to usłyszeć, oznacza, że ​​wszystko inne jest teraz zbyt głośne. Na aplikację <strong>zwiększenie głośności</strong> pozwala przyspieszyć pojedynczą cichą aplikację powyżej 100%, tak aby odpowiadała Twojemu poziomowi pracy — bez dotykania skalibrowanego wyjścia. Jest to element, którego mikser Windows nigdy nie miał i jedno z bardziej przydatnych narzędzi podczas odsłuchiwania materiału spoza DAW.</p>
+
+<h2>Profile dla różnych typów sesji</h2>
+
+<p>Idealna równowaga nie jest taka sama w przypadku każdego zadania. Śledzenie, miksowanie i swobodne słuchanie wymagają innej kombinacji poziomów aplikacji. Profile głośności umożliwiają zapisanie konfiguracji i natychmiastowe jej przywołanie:</p>
+
+<ul>
+<li><strong>Mieszanie:</strong> DAW na 100%, przeglądarka i muzyka na niskim poziomie, czat wyciszony.</li>
+<li><strong>Odsłuch referencyjny:</strong> Aplikacja do odtwarzania muzyki lub przesyłania strumieniowego w górę, DAW w dół.</li>
+<li><strong>Rozmowy / współpraca:</strong> aplikacji do konferencji, DAW cofnął się, aby nie przedostawał się do połączenia.</li>
+</ul>
+
+<p>Przełączanie profili jest lepsze niż ręczna regulacja pięciu suwaków przy każdej zmianie biegów.</p>
+
+<h2>Automatyczne wyciszanie i szybkie przełączanie wyjścia</h2>
+
+<p>W studiu liczą się jeszcze dwie rzeczy. <strong>Automatyczne wyciszanie</strong> może automatycznie wyłączać aplikacje działające w tle, gdy źródło priorytetowe mówi lub odtwarza, dzięki czemu połączenie lub ważny dźwięk zawsze zostanie usłyszany. I <strong>szybkie przełączanie wyjść</strong> z paska menu umożliwia przeskakiwanie między interfejsem, monitorami i słuchawkami bez konieczności zagłębiania się w Ustawienia systemowe – co jest stałym zadaniem podczas sprawdzania miksu w różnych systemach.</p>
+
+<h2>Dlaczego nie wirtualny sterownik audio?</h2>
+
+<p>Niektóre narzędzia do routingu rozwiązują ten problem, instalując wirtualny sterownik audio na poziomie jądra. Są potężne, ale ciężkie: mogą się zepsuć po aktualizacjach macOS, zwiększyć opóźnienia i wymagać głębokich uprawnień systemowych. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest piaskownicą i jest dostarczany przez Mac App Store — bez sterowników, bez DMG, bez konfiguracji urządzeń zbiorczych. W szczególności w przypadku kontroli na poziomie aplikacji jest to znacznie prostsza ścieżka niż zmiana architektury routingu audio.</p>
+
+<p>Gotowy, aby poziom monitorowania był stabilny, podczas gdy wszystko inne pozostaje na swoim miejscu? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za jednorazową kwotę 14,99 € i nadaj swojemu DAW własną objętość.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Prostsza alternatywa Audio Hijack dla głośności poszczególnych aplikacji w Mac",
+    description: "Jeśli chcesz mieć niezależną głośność na aplikację tylko na macOS, Audio Hijack to przesada. Oto lżejsza i tańsza alternatywa paska menu, która reguluje głośność, wyciszanie i wzmacnianie poszczególnych aplikacji bez kierowania dźwięku.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli potrzebujesz tylko niezależnej głośności dla każdej aplikacji w macOS, Audio Hijack to więcej narzędzi, niż potrzebujesz. To profesjonalny pakiet do routingu i nagrywania dźwięku (około 79 USD), stworzony do przechwytywania, efektów i wykresów sesji. Aby po prostu wyłączyć jedną aplikację, a drugą włączyć, wystarczy lekki mikser z paskiem menu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest szybszy, tańszy i zawsze gotowy.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — prostsza alternatywa Audio Hijack dla głośności poszczególnych aplikacji w Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego ludzie w pierwszej kolejności sięgają po Audio Hijack</h2>
+
+<p>macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma go od lat w swoim mikserze głośności, ale w Mac klawisze głośności i suwak paska menu poruszają tylko jedną rzeczą: głównym systemem. Nie ma bezpośredniego sposobu, aby powiedzieć „utrzymuj Spotify na poziomie 40%, ale zostaw moją rozmowę wideo na poziomie 100%”.</p>
+
+<p>Dlatego ludzie szukają obejścia i lądują na Audio Hijack. To <em>może</em> wykonaj głośność dla każdej aplikacji, ponieważ może przechwytywać i przetwarzać dźwięk z dowolnej pojedynczej aplikacji. Ale ta możliwość jest efektem ubocznym tego, do czego została zaprojektowana: nagrywanie dźwięku z aplikacji i sprzętu, łączenie efektów, routing między urządzeniami wirtualnymi i budowanie potoków sesji wielokrotnego użytku. Jest w tym naprawdę świetny. To po prostu ciężka odpowiedź na lekkie pytanie.</p>
+
+<h2>Gdzie Audio Hijack staje się przesadą</h2>
+
+<p>Kilka rzeczy zwykle frustruje ludzi, którzy chcieli tylko suwaka głośności:</p>
+
+<ul>
+<li><strong>Cena.</strong> Audio Hijack kosztuje około 79 dolarów. To uczciwe w przypadku studia nagrań w aplikacji; to dużo, jak na zamknięcie karty przeglądarki.</li>
+<li><strong>Musi działać dalej.</strong> Przetwarzanie dla poszczególnych aplikacji działa tylko wtedy, gdy aplikacja jest otwarta i odpowiednia sesja jest aktywna. Przestań, a Twoje wolumeny powrócą. Utrzymujesz pełną stację roboczą audio tylko po to, aby przytrzymać suwak na miejscu.</li>
+<li><strong>Myślenie oparte na sesji.</strong> Budujesz sesje z bloków i połączeń. Potężny do przechwytywania, ale wiąże się to z dużym obciążeniem koncepcyjnym, gdy Twoim celem jest „ta aplikacja cichsza, tamta aplikacja głośniej”.</li>
+<li><strong>Interfejs jest głęboki.</strong> Efekty, routing, mierniki, okablowanie blokowe — bogaty obszar, który w większości zignorujesz, jeśli nigdy niczego nie nagrywasz.</li>
+</ul>
+
+<blockquote>Zasada ogólna: jeśli chcesz <em>rekord lub trasę</em> audio, Audio Hijack zasługuje na swoją cenę. Jeśli tylko chcesz <em>równowaga</em> audio pomiędzy aplikacjami, płacisz za warsztat, gdy potrzebowałeś pokrętła.</blockquote>
+
+<h2>Prostsza alternatywa: mikser głośności na pasku menu</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> bierze tę jedną pracę, po którą właściwie przychodzi większość ludzi, i robi tylko to. Znajduje się na pasku menu. Kliknij ikonę, a otrzymasz na żywo listę wszystkich aplikacji odtwarzających dźwięk, każda z własnym suwakiem. Przeciągnij Spotify do 30%, pozostaw połączenie na 100%, całkowicie wycisz Slack — gotowe, nie trzeba budować sesji.</p>
+
+<p>Co obejmuje:</p>
+
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — każde źródło dźwięku ma swój własny suwak, regulowany w czasie rzeczywistym.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną hałaśliwą aplikację jednym kliknięciem, nie dotykając niczego innego.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — naciśnij cichą aplikację <em>powyżej</em> 100%, gdy jego własne maksimum jest nadal zbyt miękkie. To jest element, którego suwak systemowy nigdy nie jest w stanie wykonać.</li>
+<li><strong>Profile głośności</strong> — zapisz cały miks (muzyka cicha, rozmowy głośne, powiadomienia wyciszone) i przywołaj go jednym kliknięciem dla danego kontekstu.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie ściszaj dźwięk w tle, gdy zaczyna się coś ważniejszego, aby połączenie lub film nie zostały zakopane pod listą odtwarzania.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między słuchawkami, głośnikami i innymi wyjściami z tego samego menu.</li>
+</ul>
+
+<h2>Praktyczne: kontrola poszczególnych aplikacji w mniej niż minutę</h2>
+
+<p>Istotą jest różnica w konfiguracji. Za pomocą narzędzia do routingu możesz utworzyć sesję, dodać blok źródłowy, połączyć go i utrzymać działanie aplikacji. Tutaj jest zasadniczo:</p>
+
+<ul>
+<li>Zainstaluj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z Mac App Store.</li>
+<li>Odtwórz dźwięk w kilku aplikacjach, aby pojawiły się na liście.</li>
+<li>Kliknij ikonę na pasku menu i przeciągnij suwak każdej aplikacji do smaku.</li>
+<li>Opcjonalnie zapisz tę mieszankę jako profil lub zwiększ zbyt cichą aplikację powyżej 100%.</li>
+</ul>
+
+<p>Ponieważ jest dystrybuowany za pośrednictwem Mac App Store, jest piaskownicą i instaluje się jak każdą normalną aplikację — nie <code>.dmg</code> do przeciągnięcia, bez rozszerzenia jądra, bez sterownika audio do zatwierdzenia w ustawieniach zabezpieczeń i niczego, co wymagałoby ponownego zatwierdzenia po aktualizacji macOS. Ta ostatnia kwestia ma znaczenie: miksery oparte na sterownikach w przeszłości psuły się przy aktualizacjach systemu operacyjnego i wymagały ponownej instalacji komponentu na poziomie systemu. Aplikacja App Store w trybie piaskownicy pozwala uniknąć całej tej kategorii konserwacji.</p>
+
+<h2>Który wybrać?</h2>
+
+<p>Bądź szczery w kwestii pracy. Wybierz <strong>Audio Hijack</strong> jeśli chcesz nagrać dźwięk z aplikacji lub sprzętu, zastosować efekty w czasie rzeczywistym lub zbudować wykresy tras między urządzeniami wirtualnymi. To jego ojczyzna i jest tam warte każdego dolara.</p>
+
+<p>Wybierz dedykowany mikser na pasku menu, jeśli faktycznie potrzebujesz „pozwól mi ustawić głośność każdej aplikacji niezależnie”. Jednorazowo wydasz 14,99 EUR zamiast ~ 79 USD, pominiesz budowanie sesji i uzyskasz wzmocnienie, wyciszenie, profile i wyciszanie w panelu otwieranym z paska menu. Żadnych funkcji nagrywania, których nigdy nie dotkniesz, żadnej stacji roboczej działającej w tle, która przytrzymuje suwak w miejscu.</p>
+
+<p>Większość osób, które wypróbowały Audio Hijack do równoważenia głośności, rozwiązywały mały problem za pomocą dużego narzędzia. Jeśli to Ty, to małe narzędzie pasuje lepiej i kosztuje ułamek tej kwoty.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za 14,99 € jednorazowo — głośność aplikacji, zwiększanie głośności, wyciszanie, profile i automatyczne wyciszanie bezpośrednio z paska menu.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D Alternatywa: głośność na aplikację bez wzdęć (Mac)",
+    description: "Jeśli używasz Boom 3D głównie do wzmacniania dźwięku, ale naprawdę potrzebujesz kontroli głośności dla poszczególnych aplikacji, SoundDial jest cieńszą alternatywą dla Mac: niezależna głośność dla każdej aplikacji, wyciszanie i wzmacnianie dla każdej aplikacji, jednorazowa cena, brak ogólnosystemowego korektora i sterowników.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli sięgnąłeś po Boom 3D, aby zwiększyć głośność, ale tak naprawdę chciałeś sterować każdą aplikacją osobno, potrzebujesz innego narzędzia. Boom 3D to ogólnosystemowy wzmacniacz głośności i korektor dźwięku. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to mikser głośności dostosowany do poszczególnych aplikacji: niezależna głośność, wyciszenie i wzmocnienie dla każdej aplikacji, jednorazowe 14,99 €, bez korektora, bez sterowników.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D Alternatywa: głośność na aplikację bez wzdęć (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Co faktycznie Boom 3D robi (a czego nie robi)</h2>
+<p>Boom 3D opiera się na trzech elementach: ogólnosystemowym zwiększeniu głośności, 31-pasmowym korektorze i efektach surround 3D. Dotyczy to <em>wszystko</em> Twój Mac gra jednocześnie. Jest to naprawdę przydatne, jeśli Twoim celem jest głośniejszy laptop lub krzywa basu, która Ci się podoba.</p>
+<p>Boom 3D nie jest przeznaczony do traktowania aplikacji jako niezależnych kanałów. Nie ma prostego sposobu, aby powiedzieć: „Spotify na poziomie 40%, moja rozmowa wideo na poziomie 100%, a ta karta przeglądarki jest wyciszona”. Jego suwak przesuwa cały miks. A ponieważ instaluje sterownik audio, który znajduje się na ścieżce sygnału, wpływa na system na niższym poziomie niż narzędzie działające w trybie piaskownicy. Jest również pozycjonowany jako produkt płatny z cyklami aktualizacji, a nie małe jednorazowe narzędzie.</p>
+<blockquote><p>Typowa historia: ludzie instalują Boom 3D, aby zwiększyć głośność jednej cichej aplikacji, a potem zdają sobie sprawę, że prawdziwym problemem było to, że macOS nie ma w ogóle miksera głośności dla poszczególnych aplikacji.</p></blockquote>
+
+<h2>Luka: macOS nie ma miksera głośności</h2>
+<p>To zaskakuje ludzi pochodzących z Windows. Windows od lat oferuje mikser głośności dla poszczególnych aplikacji — kliknij głośnik prawym przyciskiem myszy i ustaw poziom każdej aplikacji indywidualnie. macOS po prostu tego nie dostarcza. Otrzymujesz jeden główny wolumin i dowolny wewnętrzny suwak, który ujawnia każda aplikacja. Nie ma sposobu na zrównoważenie karty Slack na poziomie systemu operacyjnego z kartą YouTube w grze.</p>
+<p>Kiedy więc aplikacja muzyczna zagłusza Twoją rozmowę, jedyne natywne opcje są prymitywne: ścisz urządzenie główne (co wszystko wycisza) lub przeglądaj własne ustawienia każdej aplikacji, mając nadzieję, że ma ona regulację głośności. Boom 3D również nie wypełnia tej luki — sprawia, że ​​cały miks jest głośniejszy, a nie każda aplikacja.</p>
+
+<h2>Gdzie pasuje SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to brakujący mikser. Znajduje się na pasku menu i zapewnia każdej działającej aplikacji własny wiersz z własnym suwakiem. Na tym właśnie polega podstawowa różnica w porównaniu z Boom 3D: zamiast jednego globalnego efektu, masz kontrolę nad każdym źródłem.</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — ustaw Spotify na 30%, podczas gdy połączenie wideo pozostanie na poziomie 100%.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — natychmiast wycisz jedną hałaśliwą aplikację, nie dotykając niczego innego.</li>
+<li><strong>Zwiększenie liczby aplikacji</strong> — jeśli spodobała Ci się sztuczka Boom 3D z głośniejszym dźwiękiem niż 100%, SoundDial ją zachowa, ale skupioną na pojedynczej aplikacji, a nie na całym systemie. Ciche aplikacje same wypychają się poza swój normalny pułap.</li>
+<li><strong>Profile głośności</strong> — zapisz układ miksera (np. „gra”, „spotkanie”, „muzyka”) i przywołaj go jednym kliknięciem, zamiast za każdym razem zmieniać balans suwaków.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie ścisza dźwięk tła, gdy zaczyna się coś ważnego, aby połączenie lub sygnał gry nie został zagłuszony muzyką.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między słuchawkami, głośnikami i innymi wyjściami z tego samego menu.</li>
+</ul>
+<p>To, czego SoundDial celowo nie robi, to reszta funkcji Boom 3D. Nie ma 31-pasmowego korektora, żadnego przetwarzania sztucznego dźwięku przestrzennego, żadnego łańcucha efektów obejmującego cały system. Jeśli potrzebujesz korektora klasy masteringowej, właściwym wyborem będzie Boom 3D lub dedykowany pakiet audio. Jeśli tak naprawdę otwierałeś Boom 3D, to <em>objętość</em>, ta powierzchnia jest wzdęta, za jej noszenie płacisz.</p>
+
+<h2>Boost, bez sterownika</h2>
+<p>Pytanie „wzmocnienie” zasługuje na bezpośrednią odpowiedź, ponieważ zazwyczaj to właśnie dlatego użytkownicy Boom 3D szukają alternatyw. Ulepszenie Boom 3D ma charakter globalny i opiera się na sterownikach. Ulepszenie SoundDial dotyczy poszczególnych aplikacji i działa w modelu piaskownicy aplikacji firmy Apple — jest dystrybuowane za pośrednictwem Mac App Store, więc nie ma osobnego instalatora, sterownika na poziomie jądra ani resztek komponentów systemowych do późniejszego odinstalowania. Otrzymujesz efekt „zwiększ głośność tej jednej cichej aplikacji” bez przekazywania kierowcy kontroli nad całą ścieżką audio.</p>
+
+<h2>Cena: jednorazowa vs. stała</h2>
+<p>Boom 3D to płatna aplikacja z własnym modelem aktualizacji i licencjonowania, a ceny różnią się w zależności od platformy i wersji. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to jednorazowy jednorazowy zakup za 14,99 € — kup raz, zachowaj, bez subskrypcji i bez wykupu kolejnych wersji, aby mikser działał. W przypadku narzędzia, które codziennie zostawiasz uruchomione na pasku menu, stała cena zwykle starzeje się szybciej niż produkt, do którego musisz ciągle dokupować.</p>
+
+<h2>Który wybrać?</h2>
+<ul>
+<li><strong>Wybierz Boom 3D</strong> jeśli naprawdę potrzebujesz korektora dźwięku i efektów dźwiękowych obejmujących cały system, a nie masz nic przeciwko sterownikowi audio w miksie.</li>
+<li><strong>Wybierz SoundDial</strong> jeśli chcesz tego, co użytkownicy Windows uważają za oczywiste — prawdziwego miksera głośności dla poszczególnych aplikacji — plus ukierunkowane wzmocnienie, profile i automatyczne wyciszanie, za jednorazową cenę i bez konieczności instalowania sterowników.</li>
+</ul>
+<p>Większość osób, które odbijają się od Boom 3D, należy do drugiej grupy. Nie chcieli dostrajać częstotliwości; chcieli, aby przeglądarka była cichsza niż połączenie. Właśnie do takich zadań stworzono SoundDial.</p>
+
+<p><strong>Chcesz kontrolować głośność poszczególnych aplikacji w swoim Mac bez wzdęć EQ i subskrypcji?</strong> <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> — 14,99 € jednorazowo, w trybie piaskownicy, bez sterowników, a każda aplikacja ma swój własny suwak.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Jak wyciszyć wszystko oprócz jednej aplikacji w Mac",
+    description: "macOS nie ma miksera głośności dla poszczególnych aplikacji, więc wyciszenie każdej aplikacji z wyjątkiem jednej wymaga pomocy. Oto, jak słyszeć tylko połączenie, transmisję strumieniową lub grę, podczas gdy wszystko inne pozostaje wyciszone.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanej możliwości wyciszenia poszczególnych aplikacji, więc aby słyszeć tylko jedną aplikację, potrzebujesz miksera głośności dla każdej aplikacji. Zainstaluj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, otwórz mikser na pasku menu, wycisz wszystkie aplikacje z wyjątkiem tej, której chcesz słuchać, a ta aplikacja będzie odtwarzać dalej, podczas gdy reszta natychmiast wyciszy się.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — jak wyciszyć wszystko oprócz jednej aplikacji w Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego macOS nie może tego zrobić samodzielnie</h2>
+<p>Windows ma mikser głośności od ponad dziesięciu lat: kliknij prawym przyciskiem myszy ikonę głośnika, a każda działająca aplikacja otrzyma własny suwak. macOS nigdy tego nie wysyłał. Klawisze głośności na Mac kontrolują tylko jedną rzecz – główny poziom wyjściowy. Kiedy wyłączysz system, wszystko razem się wyłączy. Kiedy wyciszysz, wszystko zostanie wyciszone.</p>
+<p>Nie ma w tym nic złego, dopóki nie będziesz mieć pięciu rzeczy, które będą hałasować na raz. Prowadzisz rozmowę wideo, ale karta przeglądarki automatycznie odtwarza reklamę, Spotify nadal działa, gra emituje sygnał ping w tle, a Slack dzwoni. Jedyne natywne opcje to zamykanie aplikacji, wyciszanie ich jedna po drugiej w ustawieniach każdej aplikacji (jeśli w ogóle ma taką opcję) lub szarpanie słuchawek. Żadne z tych stwierdzeń nie pozwala powiedzieć: „Zachowaj to, wycisz resztę”.</p>
+
+<h2>Sposób prosty: resztę wycisz mikserem</h2>
+<p>Mikser dla poszczególnych aplikacji znajduje się pomiędzy aplikacjami a urządzeniem wyjściowym i zapewnia każdej aplikacji własną kontrolę głośności i wyciszenia. Po uruchomieniu jednej aplikacji izolowanie pojedynczej aplikacji zajmuje kilka sekund:</p>
+<ul>
+<li>Otwórz mikser z paska menu. Zobaczysz na żywo listę wszystkich aplikacji, które aktualnie produkują dźwięk.</li>
+<li>Znajdź jedną aplikację, którą chcesz usłyszeć, swoją rozmowę, swój strumień, swoją grę.</li>
+<li>Wycisz wszystko inne. Stuknij przełącznik wyciszenia obok każdej aplikacji lub przesuń jego suwak do zera.</li>
+<li>To wszystko. Jedna aplikacja, którą pozostawiłeś samą, odtwarza z pełną głośnością, podczas gdy reszta pozostaje cicha.</li>
+</ul>
+<p>Z <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, każda aplikacja na liście ma własny suwak i przycisk wyciszenia, więc wystarczy kilka kliknięć. Nowe aplikacje, które rozpoczynają odtwarzanie później, pojawiają się automatycznie, więc jeśli spróbuje się przedostać dźwięk powiadomienia, możesz go natychmiast wyciszyć, bez dotykania wybranej aplikacji.</p>
+
+<blockquote>Sztuczka polega na tym, że wyciszenie „wszystko oprócz jednej” jest odwrotnością wyciszenia jednej aplikacji. Nie wyciszasz swojego Mac, wyciszasz hałas wokół rzeczy, na której Ci naprawdę zależy.</blockquote>
+
+<h2>Zapisz go jako profil, aby go nie powtarzać</h2>
+<p>Jeśli jest to konfiguracja, po którą często sięgasz, rób to ręcznie za każdym razem, gdy się zestarzeje. Załóżmy, że podczas spotkań chcesz, aby aplikacja do rozmów była zawsze głośna, a wszystko inne wyłączone, albo chcesz, aby transmisja strumieniowa znajdowała się z przodu i na środku, podczas gdy gry i przeglądarki milczały. Profil woluminu przechowuje dokładnie te ustawienia dla poszczególnych aplikacji i ponownie stosuje je jednym kliknięciem.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pozwala zapisywać profile, takie jak „Spotkanie” lub „Tylko transmisja”, a następnie przełączać się do nich, gdy tylko ich potrzebujesz. Skonfiguruj to raz, a izolowanie jednej aplikacji stanie się pojedynczą czynnością na pasku menu, a nie pracą z pięcioma suwakami.</p>
+
+<h2>Inteligentniejsza wersja: automatyczne wyciszanie zamiast całkowitego wyciszenia</h2>
+<p>Czasami nie chcesz, aby inne aplikacje całkowicie zniknęły, chcesz po prostu, aby zniknęły z drogi, gdy zacznie się coś ważniejszego. To automatyczne wycofywanie się. Gdy odtwarzana jest Twoja aplikacja priorytetowa, poziom aplikacji działających w tle automatycznie spada do niskiego poziomu, a następnie ponownie podnosi się, gdy się zatrzyma.</p>
+<p>Jest to idealne rozwiązanie do połączeń i transmisji strumieniowych. Kiedy ktoś zaczyna mówić, muzyka cichnie, dzięki czemu możesz go usłyszeć, a kiedy połączenie się kończy, muzyka powraca sama. Efekt „słyszysz wyraźnie jedną aplikację” nie wymaga ręcznego wyciszania i wyłączania wyciszenia za każdym razem, gdy zmienia się sytuacja. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> obejmuje automatyczne wyciszanie wraz z ręcznym mikserem, dzięki czemu możesz wybrać mocne wyciszenie, aby uzyskać całkowitą ciszę, lub wyciszenie, aby uzyskać bardziej miękkie tło.</p>
+
+<h2>Ulepszanie jednej aplikacji, którą zachowałeś</h2>
+<p>Wyizolowanie pojedynczej aplikacji ma dodatkową zaletę: możesz także ustawić ją głośniej, niż zwykle pozwala na to Mac. Niektóre aplikacje, zwłaszcza ciche rozmowy wideo lub źle zmasterowane strumienie, są ledwo słyszalne nawet przy maksymalnej głośności. Zwiększenie wydajności poszczególnych aplikacji powoduje zwiększenie wydajności pojedynczej aplikacji powyżej 100% bez zwiększania wydajności systemu, co tylko wzmocniłoby aplikacje, które już wyciszyłeś.</p>
+<p>Zatem pełny ruch jest następujący: wycisz hałas, zachowaj jedną aplikację, a jeśli ta aplikacja jest zbyt cicha, wzmocnij ją. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> obsługuje wszystkie trzy w tym samym oknie miksera.</p>
+
+<h2>Na co się nie zapisujesz</h2>
+<p>Częstym problemem związanym z narzędziami audio Mac jest to, że wymagają one rozszerzeń jądra, wirtualnych sterowników audio lub podejrzanych instalatorów pobranych z losowej strony internetowej. Jest to uzasadniona obawa i dlatego niektórzy ludzie całkowicie unikają tych aplikacji.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> znajduje się na Mac App Store, w trybie piaskownicy i instaluje się jak każdą normalną aplikację, bez sterowników, bez DMG, bez rozszerzeń systemowych do zatwierdzenia. Jest to jednorazowy zakup za 14,99 EUR, a nie subskrypcja, więc płacisz raz i zachowujesz ją. Ma to znaczenie w przypadku czegoś, co pozostawisz uruchomione na pasku menu przez cały dzień.</p>
+
+<h2>Szybkie podsumowanie</h2>
+<ul>
+<li>macOS nie ma natywnej regulacji głośności dla poszczególnych aplikacji, więc potrzebujesz do tego miksera.</li>
+<li>Otwórz mikser, zachowaj jedną aplikację, wycisz lub wyzeruj wszystko inne.</li>
+<li>Zapisz go jako profil dla często wykonywanych połączeń lub transmisji strumieniowych.</li>
+<li>Użyj automatycznego wyciszania, jeśli chcesz, aby aplikacje działające w tle były wyciszane, a nie zabijane.</li>
+<li>Wzmocnij posiadaną aplikację, jeśli sama w sobie jest zbyt cicha.</li>
+</ul>
+
+<p>Chcesz usłyszeć tylko to, co ważne i wyciszyć resztę? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i skonfiguruj swój pierwszy profil wyciszenia wszystkiego innego w niecałą minutę.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Zachowaj inną głośność dla głośników i słuchawek w Mac",
+    description: "macOS zapomina miks głośności na poziomie aplikacji, gdy przełączasz się między głośnikami i słuchawkami. Oto dlaczego tak się dzieje, ręczne ograniczenia i sposób, w jaki rozwiązuje to pamięć woluminu dla poszczególnych aplikacji.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS faktycznie zapamiętuje oddzielną głośność systemową dla każdego urządzenia wyjściowego, ale zapomina o saldzie na poziomie aplikacji przy każdej zmianie. Dzięki temu słuchawki i głośniki utrzymują swój ogólny poziom, ale w momencie odłączenia jedna aplikacja działa, a druga znika. Rozwiązaniem jest pamięć wolumenowa dla aplikacji, która przetrwa zmiany urządzeń, do czego macOS nie ma natywnego narzędzia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Zachowaj inną głośność głośników i słuchawek w Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Co macOS pamięta, a czego nie</h2>
+
+<p>Panuje powszechne przekonanie, że macOS traktuje każde urządzenie wyjściowe w identyczny sposób. Tak nie jest. Każde urządzenie wyjściowe przechowuje swój własny wolumin systemowy. Ustaw głośniki MacBook na 30% i AirPods na 80%, a macOS zachowa te dwie wartości oddzielnie. Podłącz, odłącz, podłącz ponownie, a każde urządzenie powróci tam, gdzie je pozostawiłeś.</p>
+
+<p>Dlaczego więc to doświadczenie nadal sprawia wrażenie zepsutego? Ponieważ ta pamięć zatrzymuje się na pojedynczym, globalnym suwaku. macOS ma dokładnie jedną regulację głośności dla wszystkiego odtwarzanego na danym urządzeniu. Nie pamięta, jak głośne były poszczególne aplikacje. Po przełączeniu z głośników na słuchawki równowaga pomiędzy Spotify, połączeniem Zoom i zakładką YouTube nie zostaje zachowana, ponieważ ta równowaga nigdy nie istniała. Każda aplikacja ma ten sam suwak.</p>
+
+<p>Rezultatem jest frustracja, którą ludzie określają jako „różną głośność głośników i słuchawek”. Zwykle oczekują nie tylko innego poziomu głośności dla każdego urządzenia, ale zapamiętanego miksu: cichej muzyki, głośnych połączeń, wyciszonych powiadomień i tego miksu w nienaruszonym stanie, niezależnie od tego, czy korzystają z głośników biurkowych, czy słuchawek.</p>
+
+<h2>Ręczne obejścia i miejsca, w których zawiodły</h2>
+
+<p>Dzięki wbudowanym narzędziom możesz do tego dojść częściowo, a warto poznać sufit, zanim sięgniesz po cokolwiek innego.</p>
+
+<ul>
+<li><strong>Ustaw głośność systemową każdego urządzenia raz.</strong> Odtwarzaj dźwięk przez głośniki, ustaw poziom, a następnie przełącz wyjście na słuchawki i ustaw odpowiedni poziom. macOS zachowuje oba. Obsługuje to głośność główną na urządzenie, ale nic na aplikację.</li>
+<li><strong>Użyj głośności dla poszczególnych aplikacji, jeśli aplikacja to oferuje.</strong> Spotify, VLC i większość przeglądarek ma własny wolumin wewnętrzny. Możesz przyciąć głośną aplikację w samej aplikacji. Haczyk: to ustawienie jest zapisane w aplikacji, a nie na urządzeniu, więc nie zmienia się po przełączeniu na słuchawki, a większość aplikacji (Slack, Zoom, powiadomienia systemowe, Mail) w ogóle nie ma takiej kontroli.</li>
+<li><strong>Przełącz wyjście z Centrum sterowania lub paska menu.</strong> Kliknij z klawiszem Option ikonę głośności na pasku menu, aby szybko przełączać się między urządzeniami. Szybki, ale przesuwa tylko poziom główny, nie przywraca miksu dla poszczególnych aplikacji.</li>
+</ul>
+
+<p>Dzięki temu uzyskasz głośność główną dla każdego urządzenia. Żadne z nich nie zapewnia zapamiętanego salda dla poszczególnych aplikacji, które podąża za Tobą na różnych urządzeniach. Właśnie ta luka kryje się w irytacji i ma charakter strukturalny: system operacyjny po prostu nie ma miksera dla poszczególnych aplikacji, w przeciwieństwie do Windows, który jest dostarczany od lat.</p>
+
+<h2>Pamięć wolumenowa dla aplikacji i dlaczego przełączanie urządzeń jest prawdziwym problemem</h2>
+
+<p>Głębszym rozwiązaniem jest nadanie każdej aplikacji własnego woluminu i zachowanie tych ustawień. Tak właśnie działa mikser dla poszczególnych aplikacji <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest zbudowany dla. Znajduje się na pasku menu, wyświetla listę wszystkich aplikacji aktualnie wytwarzających dźwięk i zapewnia dla każdej z nich niezależny suwak, przełącznik wyciszenia, a nawet wzmocnienie powyżej 100% w przypadku cichych aplikacji.</p>
+
+<p>Część, która ma znaczenie w przypadku problemu głośników i słuchawek: te poziomy są zapamiętywane. Ustaw muzykę na 40%, połączenia na 90% i wyciszoną aplikację do rozmów <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> utrzymuje tę mieszankę. Kiedy odłączysz słuchawki i wrócisz do głośników, nie będziesz za każdym razem ręcznie równoważyć trzech aplikacji.</p>
+
+<p>Profile głośności idą dalej. Możesz zapisać nazwany zestaw poziomów dla poszczególnych aplikacji i przywołać go jednym kliknięciem, dzięki czemu miks „słuchawki, praca skupiona” i miks „głośniki, spotkania” to pojedynczy wybór, a nie resetowanie ręczne.</p>
+
+<blockquote><p>Zmiana mentalna: przestań myśleć o jednym głównym suwaku, który ciągle przeciągasz, i zacznij myśleć o zapisanym miksie dla każdej sytuacji. Przełączanie urządzeń przestaje być zadaniem przywracania równowagi.</p></blockquote>
+
+<h2>Szybkie przełączanie wyjścia bez utraty miksu</h2>
+
+<p>Przełączanie urządzeń powinno być szybkie i nieniszczące. Z tego samego panelu paska menu możesz zmienić urządzenie wyjściowe, więc przejście z głośników na słuchawki to jedno kliknięcie, a poziomy dla poszczególnych aplikacji zostaną zastosowane, a nie zwinięte z powrotem do jednej liczby globalnej.</p>
+
+<p>Powiązaną funkcją, o której warto wspomnieć, jest automatyczne wyciszanie: gdy w Twoim mikrofonie pojawi się dźwięk (zaczniesz mówić lub rozpocznie się połączenie), inne aplikacje automatycznie przycichną, aby Cię słychać, a następnie powrócą do ustawionego poziomu. Tę samą zasadę stosuje się do uwagi, a nie do urządzeń – jest to kolejna rzecz, której macOS nie zrobi samodzielnie.</p>
+
+<h2>Jak to skonfigurować</h2>
+
+<ul>
+<li>Zainstaluj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z Mac App Store. Działa w trybie piaskownicy, więc nie ma sterownika, DMG ani rozszerzenia jądra do zatwierdzenia.</li>
+<li>Odtwarzaj dźwięk w najczęściej używanych aplikacjach, aby pojawił się w mikserze.</li>
+<li>Ustaw poziom każdej aplikacji, wycisz wszystko, czego nie chcesz i wzmocnij wszystko, co jest zbyt ciche.</li>
+<li>Zapisz tę aranżację jako profil, na przykład jeden dostrojony dla słuchawek i drugi dla głośników.</li>
+<li>Po zmianie urządzenia przywołaj pasujący profil lub po prostu pozwól, aby zapisane poziomy dla poszczególnych aplikacji zostały przeniesione.</li>
+</ul>
+
+<p>Szczere podsumowanie: macOS zapamiętuje głośność na urządzenie wyjściowe na poziomie głównym, ale nigdy nie zapamięta miksu dla poszczególnych aplikacji, ponieważ nie ma miksera dla poszczególnych aplikacji. Jeśli Twoim prawdziwym celem jest stała równowaga między muzyką, połączeniami telefonicznymi i powiadomieniami, która przetrwa każde przełączenie między głośnikami a słuchawkami, potrzebujesz pamięci dla aplikacji oprócz systemu operacyjnego.</p>
+
+<p>Chcesz, aby głośniki i słuchawki zachowywały swój własny miks bez konieczności ponownego dostosowywania każdej aplikacji? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> za jednorazową kwotę 14,99 €, bez subskrypcji i bez sterowników.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control wycofane? Najlepsza wymiana woluminów Mac na aplikację (2026)",
+    description: "Sound Control firmy Static Z Software zostało wycofane i zepsuło się w nowoczesnym macOS. Oto dlaczego przestał działać, co zrobił i jaki jest najlepszy mikser głośności dla poszczególnych aplikacji, na który można przejść w 2026 r.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Sound Control firmy Static Z Software zostało wycofane i nie jest już sprzedawane ani aktualizowane, a także coraz częściej zawodzi na nowoczesnym macOS, ponieważ opierało się na sterowniku audio na poziomie jądra, który Apple zablokował. Jeśli dzisiaj potrzebujesz głośności na aplikację, najczystszym zamiennikiem jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser Mac App Store w trybie sandbox bez sterowników.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control wycofane? Najlepsza wymiana woluminów Mac na aplikację (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Co faktycznie zrobił Sound Control</h2>
+<p>Sound Control był przez lata najlepszą odpowiedzią na prawdziwą lukę w macOS: w Mac nadal nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma jeden w swoim mikserze głośności od wersji Vista, ale macOS oferuje tylko jeden główny suwak. Sound Control wypełnił tę lukę schludnym panelem menu, który umożliwia:</p>
+<ul>
+<li>Ustaw niezależny poziom głośności dla każdej działającej aplikacji.</li>
+<li>Wycisz poszczególne aplikacje bez dotykania reszty dźwięku systemowego.</li>
+<li>Zwiększ ciche aplikacje powyżej 100 procent.</li>
+<li>Zastosuj korektor i balans dla poszczególnych aplikacji.</li>
+<li>Kieruj aplikacje audio i przypinaj do określonych urządzeń wyjściowych.</li>
+</ul>
+<p>Dla każdego, kto kiedykolwiek korzystał z połączenia Zoom, podczas gdy w tle szeptała zakładka YouTube, ta kontrola z poziomu aplikacji była rewolucyjna. Stał się cichym elementem wyposażenia wielu komputerów zaawansowanych użytkowników Mac.</p>
+
+<h2>Dlaczego przestało działać</h2>
+<p>Szczera historia techniczna ma tutaj znaczenie, ponieważ wyjaśnia, dlaczego nie jest to błąd, który można po prostu załatać. Sound Control działał poprzez zainstalowanie systemowego sterownika audio — rozszerzenia jądra (kext), które wstawiało się do potoku audio macOS, aby mogło przechwytywać i przekształcać dane wyjściowe każdej aplikacji. Właśnie ten głęboki hak umożliwił korzystanie z funkcji EQ i Boost.</p>
+<p>Począwszy od macOS 10.15 Catalina i przyspieszając przez Big Sur i przejście na Apple Silicon, Apple zaczął wycofywać rozszerzenia jądra na rzecz alternatyw dla przestrzeni użytkownika. W przypadku Apple Silicon Mac ładowanie kext innych firm wymaga obniżenia zabezpieczeń systemu w trybie odzyskiwania, a firma Apple jasno dała do zrozumienia, że ​​starsze modele audio kext korzystają z pożyczonego czasu. Static Z Software ostatecznie zaprzestał sprzedaży i rozwoju Sound Control. Skutek: w najnowszych wersjach macOS instalacja kończy się niepowodzeniem, występują zakłócenia dźwięku lub sterownik po prostu odmawia załadowania bez obniżenia poziomu zabezpieczeń, którego większość ludzi słusznie nie chce robić.</p>
+<blockquote>Nie jest to zaniedbanie ze strony dewelopera. Jest to zmiana na poziomie platformy. Firma Apple zamknęła drzwi dla niskopoziomowego sterownika audio Sound Control, na którym zbudowano i żadna aktualizacja nie jest w stanie go w pełni otworzyć.</blockquote>
+
+<h2>Co zmieniło się w nowoczesnym macOS</h2>
+<p>Apple dodał jednak jedną istotną rzecz: Core Audio oferuje teraz interfejs API Tap (wprowadzony w macOS 14.2 Sonoma), który umożliwia aplikacjom przechwytywanie i przetwarzanie dźwięku w poszczególnych procesach z przestrzeni użytkownika — bez kext, bez obniżania poziomu zabezpieczeń, bez ponownego uruchamiania w trybie odzyskiwania. Jest to usankcjonowana nowoczesna ścieżka dla dźwięku dla poszczególnych aplikacji i na tym powinien opierać się obecny mikser. Kompromis jest uczciwy: dotknięcia przestrzeni użytkownika są bardziej ograniczone niż stary sterownik jądra, więc powinieneś spodziewać się czystej głośności, wyciszenia i wzmocnienia dla każdej aplikacji, a nie pełnego oferowanego przez aplikację parametrycznego korektora Sound Control.</p>
+
+<h2>Najlepszy zamiennik: SoundDial</h2>
+<p>Jeśli chcesz mieć rdzeń tego, co zrobił Sound Control — niezależną głośność dla każdej aplikacji — na Mac, możesz faktycznie zachować bezpieczeństwo i aktualność, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to najbliższa opcja czystej migracji w 2026 r. Jest to mikser głośności z paskiem menu dla poszczególnych aplikacji, zbudowany dla nowoczesnego stosu audio macOS. Co przenosi się z przepływu pracy Sound Control:</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — jeden suwak na każdą uruchomioną aplikację, bezpośrednio na pasku menu.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną aplikację, podczas gdy wszystko inne gra dalej.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — wypchnij cichą aplikację ponad jej normalny sufit.</li>
+<li><strong>Profile głośności</strong> — zapisuj ustawienia miksera dla różnych kontekstów (połączenia, muzyka, gry) i przełączaj się między nimi.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie zmniejszaj głośność aplikacji działającej w tle, przydatne, gdy zaczynasz rozmawiać lub przychodzi połączenie.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi urządzeniami bez zagłębiania się w Ustawienia systemowe.</li>
+</ul>
+<p>Praktyczne różnice, które mają znaczenie w przypadku migracji: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest dostarczany przez Mac App Store, działa w trybie piaskownicy i nie instaluje żadnych sterowników ani DMG. Oznacza to brak konieczności zatwierdzania rozszerzenia jądra, brak trybu odzyskiwania i brak obniżania poziomu bezpieczeństwa Mac — czyli dokładnie te problemy, które spowodowały śmierć Sound Control. Jest to jednorazowy zakup za 14,99 €, a nie subskrypcja.</p>
+
+<h2>Jak dokonać zmiany, krok po kroku</h2>
+<ul>
+<li><strong>Odinstaluj Sound Control w czysty sposób.</strong> Ponieważ zainstalował sterownik, użyj własnego dezinstalatora, jeśli nadal działa, lub usuń składniki sterownika audio przed zainstalowaniem czegokolwiek nowego. Dwa konkurencyjne zaczepy audio mogą powodować zakłócenia.</li>
+<li><strong>Zainstaluj SoundDial z App Store.</strong> Nie jest wymagane ponowne uruchomienie ani zmiany zabezpieczeń.</li>
+<li><strong>Udziel pozwolenia na dźwięk, o które prosi.</strong> Dzięki temu może odczytywać i kontrolować dane wyjściowe poszczególnych aplikacji w nowoczesnym macOS.</li>
+<li><strong>Otwórz panel menu i ustaw poziomy.</strong> Twoje uruchomione aplikacje pojawiają się z indywidualnymi suwakami; w razie potrzeby dostosuj, wycisz lub wzmocnij.</li>
+<li><strong>Zapisz profil.</strong> Jeśli masz ulubione konfiguracje Sound Control, odtwórz je jako profile, aby móc przełączać się jednym kliknięciem.</li>
+</ul>
+
+<h2>Szczere oczekiwania</h2>
+<p>Jeśli jedynym powodem korzystania z Sound Control była głośność, wyciszenie i wzmocnienie poszczególnych aplikacji, nowoczesny mikser w trybie piaskownicy spełni Twoje oczekiwania. Jeśli mocno polegałeś na korektorze dla poszczególnych aplikacji, pamiętaj, że głęboki korektor był powiązany ze starym modelem sterownika i jest funkcją, którą najtrudniej odtworzyć w czysty sposób zgodnie z obecnymi zasadami Apple. Ustaw odpowiednio oczekiwania, a nie będziesz zaskoczony.</p>
+
+<p>Gotowy do odzyskania głośności dla poszczególnych aplikacji bez problemów ze sterownikami? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> — jednorazowa opłata 14,99 €, sandbox, bez subskrypcji i bez sterowników.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny już nie ma — zastąpi go nowoczesna aplikacja Mac do obsługi wolumenów na aplikację",
+    description: "SoundBunny firmy Prosoft został wycofany. Oto aktualny, aktywnie utrzymywany mikser głośności dla poszczególnych aplikacji macOS, który go zastępuje — oraz instrukcje migracji konfiguracji audio dla poszczególnych aplikacji bez sterowników jądra.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli SoundBunny przestał działać lub nie jest już sprzedawany, można zastosować nowoczesny zamiennik <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser głośności na pasku menu dla poszczególnych aplikacji, zbudowany dla bieżącego modelu macOS. Zapewnia to samo podstawowe zadanie — niezależną głośność, wyciszenie i wzmocnienie dla każdej aplikacji — co jednorazowy zakup Mac App Store za 14,99 EUR, bez sterownika jądra, DMG ani subskrypcji do zarządzania.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny już nie ma — zastąpi go nowoczesna aplikacja Mac wolumenowa na aplikację" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Co się stało z SoundBunny?</h2>
+<p>SoundBunny było narzędziem firmy Prosoft Engineering obsługującym wolumen aplikacji dla macOS. Pozwala ustawić inny poziom głośności dla każdej uruchomionej aplikacji bezpośrednio z paska menu — cicha muzyka, głośna rozmowa, przeglądarka gdzieś pomiędzy. Przez lata było to jedno z niewielu narzędzi wypełniających lukę, której Apple nigdy nie zamknął.</p>
+<p>Problem polega na tym, że SoundBunny jest starszym oprogramowaniem. Nie nadąża za głębokimi zmianami wprowadzonymi przez Apple w zakresie dźwięku i bezpieczeństwa macOS — Apple Silicon, ulepszone środowisko wykonawcze, zaostrzone zasady rozszerzania systemu i usunięcie starszych zaczepów audio. Kiedy takie narzędzie przestaje otrzymywać aktualizacje, w końcu się psuje: nie uruchamia się, traci kontrolę nad strumieniami aplikacji po aktualizacji systemu operacyjnego lub po prostu nie można go zainstalować na nowoczesnym Mac. Jeśli tak właśnie jest, nie robisz nic złego. Aplikacja jest w tyle, nie Ty.</p>
+
+<h2>Dlaczego macOS w ogóle potrzebuje miksera innej firmy</h2>
+<p>Oto szczera część: jest to autentyczna luka w macOS, a nie błąd, który można naprawić w Ustawieniach. Od ponad dekady Windows dostarcza mikser głośności dla poszczególnych aplikacji. macOS nigdy takiego nie miał. Suwak głośności systemu i ustawienia dźwięku kontrolują Twoje <em>urządzenie wyjściowe</em> jako całość — każda aplikacja ma ten sam poziom mistrzowski. Nie ma wbudowanego sposobu, aby powiedzieć „utrzymuj Safari na 40%, ale Zoom na 100%”.</p>
+<p>Dlatego właśnie istniały narzędzia takie jak SoundBunny i dlatego nadal konieczna jest ich wymiana. Potrzeba nie zniknęła wraz z aplikacją – Apple nadal jej nie rozwiązał.</p>
+
+<h2>Nowoczesny zamiennik: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to mikser głośności dla poszczególnych aplikacji, który znajduje się na pasku menu i robi to, na czym polegali użytkownicy SoundBunny, zbudowany w oparciu o dzisiejszy macOS, a nie wczorajszy. Nakładanie się funkcji obejmuje najważniejsze elementy:</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — jeden suwak na uruchomioną aplikację, dokładnie taki model mentalny SoundBunny.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną hałaśliwą aplikację, nie dotykając wszystkiego innego.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — naciśnij cichą aplikację <em>powyżej</em> 100%, gdy wideo lub rozmowa jest nagrywana zbyt cicho. SoundBunny nie mógł niezawodnie wzmocnić maksymalnych wartości systemu w nowoczesnym macOS; boost jest tutaj prawdziwym ulepszeniem.</li>
+<li><strong>Profile głośności</strong> — zapisz zestaw poziomów dla poszczególnych aplikacji (miks „do pracy”, miks „do gier”) i przełączaj się między nimi, zamiast przesuwać suwaki pojedynczo.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie zmniejszaj głośność aplikacji działającej w tle, gdy inne źródło dźwięku (np. mikrofon podczas połączenia) stanie się aktywne.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi wyjściami z tego samego menu.</li>
+</ul>
+
+<h2>Jak faktycznie wygląda migracja</h2>
+<p>Nie ma etapu importowania — poziomy głośności poszczególnych aplikacji nie są plikiem, który można przenieść — ale zmiana jest szybka:</p>
+<ul>
+<li><strong>Usuń prawidłowo SoundBunny.</strong> Zakończ, a następnie usuń aplikację. Jeśli zainstalował pomocnika lub element logowania, usuń go również, aby dwa narzędzia nie walczyły o te same strumienie audio.</li>
+<li><strong>Zainstaluj SoundDial z Mac App Store.</strong> Jest piaskownicą i dystrybuowany przez sklep, więc nie ma DMG do zamontowania i nie ma ostrzeżenia o „niezidentyfikowanym programiście”. Jeden zakup powiązany z Twoim Apple ID.</li>
+<li><strong>Przyznaj dostęp do dźwięku przy pierwszym uruchomieniu.</strong> macOS poprosi SoundDial o pozwolenie na obejrzenie dźwięku aplikacji. To nowoczesna, usankcjonowana ścieżka oferowana przez Apple — bez przedłużania jądra, bez ponownego uruchamiania, bez obniżania bezpieczeństwa systemu. Przyznaj to, a uruchomione aplikacje pojawią się jako suwaki.</li>
+<li><strong>Odbuduj swoją mieszankę.</strong> Ustaw swoje popularne aplikacje, a następnie zapisz to ustawienie jako profil, aby nigdy nie musieć tego powtarzać.</li>
+</ul>
+
+<h2>Praktyczne różnice w stosunku do SoundBunny</h2>
+<p>Najważniejsza różnica polega na tym <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest aktualne oprogramowanie. Działa natywnie na platformie Apple Silicon, korzysta z obsługiwanych przez Apple interfejsów API audio i jest aplikacją Mac App Store — co oznacza, że ​​aktualizacje docierają do sklepu i jest zbudowana tak, aby przetrwać aktualizacje systemu operacyjnego, a nie je psuć. Bycie w trybie piaskownicy oznacza również, że nie może sięgnąć poza swój pas, co uspokaja w przypadku czegoś, co znajduje się pomiędzy aplikacjami a głośnikami.</p>
+<p>Kilka uczciwych zastrzeżeń, więc oczekiwania są słuszne. Ponieważ SoundDial działa w środowisku audio Apple, sterowanie jest najlepsze w przypadku standardowych aplikacji przesyłających sygnał przez normalne wyjście systemu. Niektóre programy odtwarzają dźwięk własną ścieżką lub za pomocą ekskluzywnego urządzenia i żaden mikser na pasku menu – w tym SoundBunny – nie jest w stanie w pełni nimi sterować. Ilość przypadająca na aplikację jest z natury warstwą oprogramowania znajdującą się na wierzchu macOS; to nie jest mikser sprzętowy. W tych rzeczywistych granicach wykonuje pracę, którą zwykle wykonywał SoundBunny.</p>
+
+<blockquote>Jeśli przesiadłeś się na Mac z Windows, oczekując miksera głośności dla poszczególnych aplikacji, jest to narzędzie, które wypełnia tę lukę — i teraz jest to narzędzie, które faktycznie jest utrzymywane.</blockquote>
+
+<p>SoundBunny miał dobrą passę, ale to dziedzictwo. Jeśli potrzebujesz głośności, wyciszenia i wzmocnienia poszczególnych aplikacji w nowoczesnym Mac, <a href="https://apps.apple.com/app/id6772792641">zdobądź SoundDial na Mac App Store</a> — 14,99 € jednorazowo, bez subskrypcji, bez sterowników.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Alternatywa dla Mac: Wolumen na aplikację bez sprzedaży dodatkowej Boom 3D",
+    description: "Boom 2 jest starszą wersją i wciąż popycha Cię do Boom 3D. Jeśli chcesz po prostu zwiększyć głośność aplikacji i proste zwiększenie wydajności w nowoczesnym macOS, oto alternatywna alternatywa i opis jej działania.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Jeśli spodobał Ci się Boom 2 do wzmocnienia całego systemu, ale chcesz prostoty <strong>na aplikację</strong> Jeśli chodzi o obecny model Mac, szczera odpowiedź jest taka, że Boom 2 to przestarzałe rozwiązanie i nie jest już właściwym narzędziem. Skoncentrowaną alternatywą jest <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mikser na pasku menu, który zapewnia każdej aplikacji własny suwak głośności, wyciszenie i wzmocnienie, za 14,99 euro jednorazowo, bez konieczności przechodzenia na większy pakiet.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Alternatywa dla Mac: wolumen na aplikację bez sprzedaży dodatkowej Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego Boom 2 już nie pasuje</h2>
+<p>Boom 2 była popularną aplikacją z konkretnego powodu: zwiększyła ogólną głośność Mac powyżej maksimum systemowego i dodała korektor. Zrobiło to w całym systemie, a nie w poszczególnych aplikacjach. W 2015 r. wszystko było w porządku. W 2026 r. występują dwa problemy.</p>
+<p>Po pierwsze, to dziedzictwo. Global Delight wyraźnie przeniósł swoją energię na Boom 3D, a jeśli otworzysz stronę produktu Boom 2, niemal natychmiast zostaniesz popchnięty w stronę nowszej, droższej aplikacji. Boom 2 nadal istnieje, ale jest to odskocznia, której sprzedawca używa do sprzedaży Boom 3D, a nie produkt cieszący się aktywną miłością.</p>
+<p>Po drugie i ważniejsze: Boom 2 nigdy nie był mikserem głośności dla poszczególnych aplikacji. Podnosi i kształtuje jedno główne wyjście. Jeśli Twoim prawdziwym problemem jest to, że ping Slack jest głośniejszy niż Twoja muzyka lub karta przeglądarki zagłusza połączenie, Boom 2 nie rozwiąże tego problemu. To sprawia, że ​​wszystko razem staje się głośniejsze. To inna praca.</p>
+
+<h2>Co właściwie oznacza „objętość aplikacji” w macOS</h2>
+<p>Oto szczery kontekst pomijany przez większość alternatywnych podsumowań: macOS nie ma w ogóle wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki system od lat — kliknij głośnik prawym przyciskiem myszy, otwórz Mikser głośności i ustaw Chrome na 40%, a Spotify na 80%. Apple nigdy tego nie wysyłało. Klawisz głośności macOS przesuwa tylko jeden poziom główny.</p>
+<p>Kiedy więc szukasz „alternatywy dla Boom 2”, tak naprawdę często szukasz nie głośniejszego Mac — lecz kontroli z poziomu aplikacji, którą użytkownicy Windows uważają za oczywistość. To prawdziwa luka w systemie operacyjnym, a nie coś, o czym Boom 2 lub jakakolwiek aplikacja zapomniała zbudować.</p>
+
+<h2>Gdzie pasuje SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest zbudowany specjalnie dla tej luki. Znajduje się na pasku menu i zawiera listę aplikacji aktualnie odtwarzających dźwięk, każda z własnym suwakiem. Ustawiasz poziomy dla każdej aplikacji, zamiast szturchać jedną główną kontrolę i mieć nadzieję na najlepsze.</p>
+<p>Co robi:</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — wycisz przeglądarkę, przechowuj muzykę tam, gdzie chcesz, bez globalnych kompromisów.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną hałaśliwą aplikację, nie dotykając niczego innego.</li>
+<li><strong>Zwiększenie liczby aplikacji</strong> — wypchnij pojedynczą aplikację poza normalny pułap, gdy wideo lub rozmowa jest nagrywana zbyt cicho. Jest to element, którego zwykle brakuje fanom Boom 2, z tą różnicą, że tutaj jest on ukierunkowany na jedną aplikację, a nie na cały system.</li>
+<li><strong>Profile głośności</strong> — zapisuj układy takie jak „skupienie”, „spotkanie” lub „gra” i przełączaj jednym kliknięciem.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie obniżaj inne aplikacje, gdy zaczynasz mówić, przydatne podczas rozmów i nagrywania.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi wyjściami z tego samego menu.</li>
+</ul>
+
+<h2>Jak to skonfigurować</h2>
+<p>Przebieg pracy jest krótki:</p>
+<ul>
+<li>Zainstaluj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z Mac App Store — bez DMG, bez sterownika, bez ponownego uruchamiania.</li>
+<li>Kliknij ikonę na pasku menu, aby wyświetlić wszystkie aplikacje aktualnie generujące dźwięk.</li>
+<li>Przeciągnij suwak każdej aplikacji do żądanego poziomu; w razie potrzeby wycisz lub wzmocnij indywidualnie.</li>
+<li>Zapisz aranżację jako profil, jeśli chcesz ją później wykorzystać ponownie.</li>
+</ul>
+<p>Ponieważ jest dostarczany przez App Store, jest piaskownicą i instaluje się bezproblemowo. Warto to podkreślić, ponieważ niektóre starsze narzędzia audio opierały się na rozszerzeniach jądra lub wirtualnych sterownikach audio — czemu nowoczesny macOS coraz bardziej się opiera. SoundDial nie prosi o instalację sterownika ani o obniżenie jakichkolwiek ustawień zabezpieczeń.</p>
+
+<h2>Uczciwe ograniczenie</h2>
+<p>Zwiększenie liczby aplikacji jest realne, ale nie magiczne. Jeśli dźwięk źródłowy aplikacji jest naprawdę cichy lub źle nagrany, jego wzmocnienie podnosi poziom szumów wraz z sygnałem, przez co bardzo cichy materiał może wydawać syczący dźwięk przy mocnym naciśnięciu. To fizyczny limit wzmocnienia, a nie wada żadnej konkretnej aplikacji — wzmocnienie systemu Boom 2 wiązało się z tym samym kompromisem. Traktuj wzmocnienie jako rezerwę w praktycznych przypadkach, a nie ratunek dla zepsutego dźwięku.</p>
+
+<h2>Boom 2 kontra mikser skupiony</h2>
+<p>Jeśli w Boom 2 podobała Ci się głośność w całym systemie plus korektor, a nie zależy Ci na kontroli poszczególnych aplikacji, Boom 3D jest zamierzonym następcą dostawcy — to uczciwa droga i nie będziemy udawać, że jest inaczej. Jeśli jednak wypróbowałeś Boom 2 i zdałeś sobie sprawę, że tak naprawdę chciałeś zmniejszyć lub zwiększyć jedną aplikację bez przenoszenia wszystkiego, pakiet EQ i Boost to narzędzie o złym kształcie.</p>
+<blockquote>Boom 2 sprawia, że cały Mac jest głośniejszy. Mikser dla poszczególnych aplikacji pozwala zdecydować, która aplikacja jest głośniejsza. Rozwiązują różne problemy.</blockquote>
+<p>Warto również wyraźnie wymienić różnicę w cenie. Jednorazowa cena SoundDial wynosi 14,99 €. Nie ma subskrypcji, żadnego okresu próbnego, który przechodzi w większy plan, ani ścieżki w aplikacji prowadzącej na droższy poziom. Kupujesz mikser, jesteś jego właścicielem.</p>
+
+<p>Jeśli tak naprawdę chodziło Ci o głośność na aplikację, a nie o ogólnosystemowy korektor, <a href="https://apps.apple.com/app/id6772792641">spróbuj SoundDial na Mac App Store</a> i ustaw swoje poziomy w sposób, w jaki macOS powinien ci na to pozwolić.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: Wolumen open source vs płatny za aplikację na Mac",
+    description: "FineTune to bezpłatna aplikacja typu open source przeznaczona do obsługi zbiorczej aplikacji dla Mac; SoundDial to płatna aplikacja App Store w trybie piaskownicy z możliwością wzmocnienia, profilami i wsparciem. Oto uczciwe porównanie, które pomoże Ci wybrać.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>FineTune to darmowy mikser głośności typu open source dla poszczególnych aplikacji dla macOS, więc jeśli interesuje Cię tylko cena, jest to prawdziwa opcja. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to płatna (14,99 EUR, jednorazowa) aplikacja Mac App Store, która dodaje zwiększenie głośności dla każdej aplikacji, zapisywanie profili, automatyczne wyciszanie i obsługę dostawców. Prawdziwy wybór to wersja bezpłatna i majsterkowanie w porównaniu z piaskownicą i obsługą.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune vs SoundDial: Wolumen open source vs płatny za aplikację na Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Problem rozwiązują obie aplikacje</h2>
+
+<p>macOS nadal nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki system od lat — kliknij prawym przyciskiem myszy ikonę głośnika, otwórz Mikser głośności, a każda aplikacja otrzyma własny suwak. Na Mac masz dokładnie jeden suwak głośności systemowej do wszystkiego: muzyki, połączeń wideo, YouTube, sygnałów powiadomień i gry, a wszystko to udostępnia. Jeśli Twoje połączenie jest zbyt ciche, a Spotify zbyt głośne, jedyną „poprawką” jest całkowite wyciszenie Spotify.</p>
+
+<p>Zarówno FineTune, jak i SoundDial istnieją, aby wypełnić tę lukę. Dają każdej działającej aplikacji własną kontrolę głośności, dzięki czemu możesz, powiedzmy, prowadzić spotkanie na 100%, jednocześnie ściszając muzykę w tle do 20% – bez dotykania głównego suwaka.</p>
+
+<h2>Co FineTune robi dobrze</h2>
+
+<p>FineTune to nowsza, bezpłatna aplikacja typu open source w duchu SoundSource. Bądźmy uczciwi co do jego mocnych stron, bo są realne:</p>
+
+<ul>
+  <li><strong>To nic nie kosztuje.</strong> Żadnej licencji, żadnego okresu próbnego, żadnych problemów z aktualizacją.</li>
+  <li><strong>Źródło jest otwarte.</strong> Możesz przeczytać dokładnie, co robi, sprawdzić go pod kątem prywatności i – jeśli znasz Swifta – zmodyfikować go lub rozwidlić.</li>
+  <li><strong>Działa na rzecz społeczności.</strong> Każdy może naprawić błędy, a kod przetrwa każdą firmę.</li>
+  <li><strong>Zaspokaja podstawową potrzebę.</strong> Niezależny wolumen aplikacji, czyli funkcja, której faktycznie szuka 90% osób.</li>
+</ul>
+
+<p>Jeśli Twoim jedynym wymaganiem jest „pozwól mi wyłączyć jedną aplikację bez wyłączania wszystkich” i nie przeszkadza Ci oprogramowanie, które nie jest dostarczane z formalnym wsparciem, FineTune jest uzasadnioną odpowiedzią. Polecanie go tutaj nie jest ustępstwem — jest szczere.</p>
+
+<h2>Uczciwe kompromisy na drodze do majsterkowania</h2>
+
+<p>Bezpłatne i otwarte oprogramowanie wiąże się z rzeczywistymi kosztami, które nie są widoczne na metce. Nie są to konkretnie uderzenia w FineTune — to natura podejścia:</p>
+
+<ul>
+  <li><strong>Instalacja jest ręczna.</strong> Narzędzia audio typu open source są zazwyczaj dystrybuowane w postaci pobranej kompilacji lub formuły Homebrew, a nie za pośrednictwem App Store. Instalujesz poza recenzją Apple i nie możesz się doczekać, aby ją aktualizować.</li>
+  <li><strong>Przechwytywanie dźwięku przez aplikację jest z natury delikatne.</strong> Kierowanie dźwięku innej aplikacji to praca głęboko systemowa. Gdy Apple wypuści aktualizację macOS zmieniającą stos audio, narzędzia te mogą się zepsuć, dopóki ktoś ich nie załata. W przypadku projektu wolontariatu „ktoś” może być zajęty w tym miesiącu.</li>
+  <li><strong>Wsparcie to najlepszy wysiłek.</strong> Jeśli coś się zepsuje, możesz skorzystać z problemu z GitHubem i poczekać. Nie ma gwarantowanej odpowiedzi i nikt nie jest zobowiązany do jej naprawienia.</li>
+  <li><strong>Zakres funkcji jest taki, jaki dostarczają opiekunowie.</strong> Prawdopodobnie objęta jest regulacja głośności rdzenia; dodatki zależą całkowicie od czasu współpracownika.</li>
+</ul>
+
+<blockquote>Uczciwe kadrowanie: FineTune zamienia pieniądze na odpowiedzialność za konserwację. Oszczędzasz 14,99 € i bierzesz na siebie ryzyko, że aktualizacja systemu operacyjnego spowoduje jego uszkodzenie, dopóki społeczność nie nadrobi zaległości.</blockquote>
+
+<h2>Gdzie SoundDial jest inny</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zajmuje się handlem odwrotnym. Płacisz raz, a w zamian otrzymujesz produkt App Store z dostawcą i szerszym zestawem funkcji zbudowanym w oparciu o liczbę aplikacji:</p>
+
+<ul>
+  <li><strong>Głośność i wyciszenie poszczególnych aplikacji</strong> — wspólny poziom bazowy zapewniany przez obie aplikacje.</li>
+  <li><strong>ZWIĘKSZENIE głośności na aplikację</strong> — przesuń zbyt cichą aplikację powyżej 100%. Przydatne w aplikacjach ze słabym wyjściem audio, gdzie wyłączenie innych nadal nie wystarczy.</li>
+  <li><strong>Profile głośności</strong> — zapisuj całe miksy („Spotkanie”, „Fokus”, „Gry”) i przełączaj jednym kliknięciem, zamiast za każdym razem resetować suwaki.</li>
+  <li><strong>Automatyczne wyciszanie</strong> — automatycznie wyłączaj aplikacje działające w tle, gdy mówisz lub gdy wybrana aplikacja staje się aktywna, dzięki czemu połączenia są przerywane bez ręcznego manipulowania.</li>
+  <li><strong>Szybkie przełączanie wyjścia</strong> — przeskakuj między głośnikami, słuchawkami i innymi wyjściami z paska menu.</li>
+</ul>
+
+<p>Równie ważne jest <em>jak</em> to wysyła. SoundDial działa w trybie piaskownicy i jest dystrybuowany poprzez Mac App Store — bez osobnego DMG, bez sterowników jądra i bez instalowania sterowników audio. Aktualizacje są przesyłane przez App Store jak każdą inną aplikację, a gdy coś jest nie tak, możesz wysłać e-mail do prawdziwego programisty. Oto konkretna wartość 14,99 euro: nie tylko więcej funkcji, ale także ktoś odpowiedzialny za zapewnienie ich działania w wersjach macOS.</p>
+
+<h2>Szczere zastrzeżenie, które dotyczy obu</h2>
+
+<p>Żadna aplikacja innej firmy nie może przekształcić systemu audio macOS w mikser głośności Windows, ponieważ Apple nie udostępnia czystego publicznego interfejsu API dla dźwięku dla poszczególnych aplikacji. Każde narzędzie w tej kategorii — bezpłatne lub płatne, otwarte lub zamknięte — pozwala obejść to ograniczenie, korzystając z technik audio na poziomie systemu. Oznacza to, że zarówno FineTune, jak i SoundDial mogą podlegać poważnym zmianom audio w macOS. Różnica polega na tym, kto jest później odpowiedzialny za naprawę: społeczność wolontariuszy czy płatny sprzedawca, którego produkt jest od niej zależny.</p>
+
+<h2>Które wybrać?</h2>
+
+<ul>
+  <li><strong>Wybierz FineTune, jeśli</strong> chcesz zerowych kosztów, cenisz przejrzystość oprogramowania typu open source, potrzebujesz jedynie podstawowej liczby aplikacji na aplikację, możesz wygodnie instalować poza App Store i zapewniać samowystarczalność w przypadku awarii.</li>
+  <li><strong>Wybierz SoundDial, jeśli</strong> chcesz zainstalować App Store jednym kliknięciem, dodatki takie jak wzmocnienie, profile i automatyczne wyciszanie, a także pewność aktualizacji i wsparcia ze strony dostawcy ze skórką w grze.</li>
+</ul>
+
+<p>Obydwa są ważne. To naprawdę sprowadza się do tego, czy wolisz wydawać pieniądze, czy poświęcać uwagę. Jeśli wolisz kupić obsługiwaną aplikację w trybie piaskownicy i nigdy więcej o tym nie myśleć, <a href="https://apps.apple.com/app/id6772792641">zdobądź SoundDial na Mac App Store</a> za jednorazową kwotę 14,99 € — bez subskrypcji, bez sterowników, bez DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Czy darmowy mikser głośności Mac wystarczy?",
+    description: "Uczciwe porównanie bezpłatnej aplikacji Background Music z płatną aplikacją SoundDial. Gdzie sprawdza się podejście z darmowym wirtualnym sterownikiem, gdzie się psuje i kiedy warto kupić natywny mikser za 14,99 euro.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Background Music jest darmowy i naprawdę dobry w podstawach: daje każdej aplikacji własny suwak głośności i może automatycznie wstrzymywać muzykę, gdy odtwarzana jest inna aplikacja. Jeśli to wszystko, czego potrzebujesz, użyj tego. Opiera się jednak na wirtualnym sterowniku audio, który może się zepsuć po aktualizacji macOS i brakuje mu wzmocnienia dla poszczególnych aplikacji, profili i przełączania wyjścia. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zamienia pieniądze na pozbawioną sterowników, obsługiwaną w trybie piaskownicy i obsługiwaną alternatywę.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: Czy darmowy mikser głośności Mac wystarczy?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Najpierw szczera prawda o macOS</h2>
+<p>macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki element w swoim mikserze głośności od ponad dziesięciu lat, ale w Mac suwak systemowy przesuwa wszystko na raz. Nie ma interfejsu API obsługiwanego przez firmę Apple, który umożliwiałby aplikacji innej firmy czyste przechwytywanie i przywracanie równowagi poszczególnych strumieni aplikacji. Ta pojedyncza luka jest powodem, dla którego w ogóle istnieją narzędzia takie jak Background Music i SoundDial i jest główną przyczyną większości poniższych kompromisów.</p>
+
+<h2>Co Background Music robi dobrze</h2>
+<p>Background Music to aplikacja z paskiem menu typu open source, która istnieje od lat i nie bez powodu ma lojalnych fanów. Daje Ci:</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> – podstawowa cecha. Ścisz Spotify, utrzymując głośność połączenia.</li>
+<li><strong>Automatyczna pauza</strong> — może wstrzymać odtwarzanie muzyki, gdy dźwięk zacznie się gdzie indziej, co jest miłym akcentem podczas spotkań.</li>
+<li><strong>Głośność urządzenia, która podąża za Tobą</strong> i prosty, rozsądny interfejs.</li>
+<li><strong>Koszt zerowy</strong> — jest bezpłatny, a kod jest publiczny.</li>
+</ul>
+<p>Dla wielu osób to wystarczy. Jeśli cała Twoja lista życzeń brzmi: „wycisz jedną hałaśliwą aplikację bez dotykania pozostałych”, Background Music to uwzględnia i nie powinieneś płacić za coś, czego nie potrzebujesz. Uczciwość ma tutaj znaczenie: jest to narzędzie przydatne z prawnego punktu widzenia.</p>
+
+<h2>Gdzie swobodne podejście pokazuje swoje szwy</h2>
+<p>Haczyk jest <em>jak</em> Background Music osiąga głośność na aplikację. Ponieważ macOS nie podaje oficjalnej ścieżki, instaluje wirtualny sterownik audio (zmodyfikowaną wersję starego podejścia Soundflower), który sam kieruje dźwiękiem systemu. Ta architektura jest sprytna, ale niesie ze sobą realne koszty:</p>
+<ul>
+<li><strong>Psuje się po aktualizacjach macOS.</strong> Wirtualne sterowniki audio znajdują się głęboko w systemie, a główne wydania macOS historycznie je wyłączały lub destabilizowały. Użytkownicy rutynowo zgłaszają ciszę, zniekształcenia lub potrzebę ponownej instalacji po aktualizacji. Kiedy się zepsuje, często jesteś sam.</li>
+<li><strong>Instalacja jest cięższa.</strong> Dodajesz do Mac urządzenie audio sąsiadujące z jądrem, a nie tylko aplikację. Odinstalowanie na czysto może być kłopotliwe.</li>
+<li><strong>Stanie się domyślnym urządzeniem wyjściowym.</strong> Ponieważ wszystko jest kierowane przez urządzenie wirtualne, niektóre aplikacje do profesjonalnego audio, obsługi konferencji lub gier mogą zachowywać się dziwnie, a przełączenie rzeczywistego wyjścia jest dodatkowym krokiem.</li>
+<li><strong>Rozwój napędzany jest przez społeczność.</strong> Nie ma punktu wsparcia. Poprawki pojawiają się, gdy wolontariusz ma czas, co w przypadku narzędzia audio, które może nagle przestać działać, stanowi znaczące ryzyko.</li>
+</ul>
+<p>Nic z tego nie sprawia, że Background Music jest zły. To sprawia, że ​​jest to darmowe narzędzie z kompromisami darmowego narzędzia.</p>
+
+<h2>Za co faktycznie płacisz dzięki SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to aplikacja Mac App Store, która kształtuje to, czym jest. Ponieważ aplikacje App Store działają w trybie piaskownicy i nie mogą dostarczać tego rodzaju wirtualnego sterownika niskiego poziomu, z którego korzysta Background Music, SoundDial można uruchomić bez instalowania osobnego urządzenia audio lub DMG. To oznacza:</p>
+<ul>
+<li><strong>Żadnych dziwactw związanych z wirtualnym sterownikiem.</strong> Nie ma żadnego dodatkowego urządzenia wyjściowego przejmującego kontrolę nad łańcuchem audio i nie trzeba niczego ponownie instalować po zmianie systemu.</li>
+<li><strong>O wiele lepiej radzi sobie z aktualizacjami macOS.</strong> Dystrybucja i piaskownica App Store oznaczają, że jest on zbudowany w oparciu o obsługiwane ścieżki i jest aktualizowany za pośrednictwem sklepu, więc aktualizacja systemu operacyjnego jest znacznie mniej prawdopodobna, że nie będziesz milczał.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach.</strong> To jest prawdziwa różnica w funkcjach: SoundDial może przesyłać aplikacje <em>powyżej</em> 100% dla cichych źródeł – podcast nagrany za cicho, stłumiona rozmowa wideo. Background Music jedynie tłumi.</li>
+<li><strong>Profile głośności.</strong> Zapisz zestaw poziomów dla poszczególnych aplikacji („Spotkania”, „Muzyka”, „Gry”) i przełączaj się jednym kliknięciem, zamiast za każdym razem przeciągać suwaki.</li>
+<li><strong>Automatyczne wyciszanie.</strong> Automatycznie zmniejszaj głośność innych aplikacji podczas odtwarzania wybranego źródła — bardziej konfigurowalne podejście do koncepcji automatycznego wstrzymywania.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> zapiekane na pasku menu, a także wyciszenie poszczególnych aplikacji.</li>
+<li><strong>Prawdziwe wsparcie.</strong> Jest to produkt płatny, za który ktoś odpowiada, gdy coś pójdzie nie tak.</li>
+</ul>
+
+<h2>Uczciwa decyzja</h2>
+<blockquote>Jeśli chcesz bezpłatnie i potrzebujesz tylko podstawowej ilości danych na aplikację i nie masz problemu z rozwiązywaniem problemów po aktualizacjach macOS, Background Music to solidny wybór. Jeśli chcesz wzmocnienia, profili, wyciszenia, przełączania wyjść, braku kruchości wirtualnego sterownika i kogoś, kto może wysłać e-mail w przypadku awarii, SoundDial jest wart 14,99 EUR.</blockquote>
+<p>Kilka konkretnych remisów. Jeśli regularnie masz do czynienia ze zbyt cichymi źródłami, samo wzmocnienie uzasadnia cenę — Background Music po prostu nie jest w stanie sprawić, że dźwięk będzie głośniejszy niż źródło. Jeśli boisz się corocznego ryzyka „czy mój dźwięk przetrwa aktualizację”, aplikacja sklepu w trybie piaskownicy rozwiewa ten niepokój. Jeśli lubisz sceny, które można „ustawić i zapomnieć”, profile oszczędzają prawdziwe tarcia. Jest to jednorazowe 14,99 €, a nie subskrypcja, więc porównanie dotyczy pojedynczego zakupu i czasu poświęconego na utrzymanie bezpłatnego sterownika.</p>
+<p>I odwrotnie, jeśli jesteś majsterkowiczem, który lubi oprogramowanie open source, chce przeczytać kod i najczęściej po prostu wyłącza jedną aplikację – zaoszczędź pieniądze. Obydwa narzędzia rozwiązują ten sam podstawowy problem; różnią się solidnością, głębią funkcji i tym, kto cię złapie, gdy macOS zmieni się pod nimi.</p>
+
+<p>Chcesz zwiększyć głośność na aplikację bez ryzyka związanego z wirtualnym sterownikiem? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> — jednorazowa opłata 14,99 €, sandbox, bez sterowników, z wbudowanym boostem, profilami i funkcją automatycznego wyciszania.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "Czy SoundSource jest wart 39 dolarów? Tańsza jednorazowa alternatywa Mac",
+    description: "SoundSource to potężne narzędzie audio Mac w cenie ~39 USD, ale to przesada, jeśli potrzebujesz tylko głośności i wzmocnienia dla każdej aplikacji. Oto uczciwe porównanie i jednorazowa alternatywa za 14,99 €.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>SoundSource jest tego wart, jeśli potrzebujesz pełnego zestawu narzędzi: głośności dla każdej aplikacji, 10-pasmowego korektora dla każdej aplikacji, routingu audio między urządzeniami i efektów ogólnosystemowych. Ale przy cenie około 39 USD jest to przesada, jeśli zależy Ci głównie na głośności poszczególnych aplikacji, wyciszeniu poszczególnych aplikacji i zwiększeniu głośności. Do tej węższej pracy, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> kosztuje 14,99 € jednorazowo.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — czy SoundSource jest wart 39 dolarów? Tańsza jednorazowa alternatywa Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Co właściwie robi SoundSource</h2>
+<p>SoundSource Rogue Amoeba to naprawdę doskonałe oprogramowanie i ważne jest, aby podejść do tego uczciwie. To nie tylko mikser głośności. Daje Ci:</p>
+<ul>
+<li><strong>Regulacja głośności dla poszczególnych aplikacji</strong> z paska menu, czyli funkcji, po którą sięga większość ludzi.</li>
+<li><strong>Pełny 10-pasmowy korektor</strong> możesz zastosować dla każdej aplikacji lub całego systemu, a także inne efekty dźwiękowe (za pośrednictwem wtyczek Audio Unit).</li>
+<li><strong>Trasowanie wyjścia/wejścia</strong>, w tym wysyłanie pojedynczej aplikacji na inne urządzenie wyjściowe niż reszta systemu.</li>
+<li><strong>Szybkie przełączanie urządzeń</strong> oraz wstępne ustawienia EQ dla słuchawek.</li>
+</ul>
+<p>Jeśli jesteś podcasterem, streamerem lub maniakiem audio, który chce dostroić korektor dźwięku w słuchawkach, przekierować dźwięk z jednej aplikacji do osobnego głośnika lub zastosować efekty modułu audio, SoundSource zasługuje na swoją cenę. Nic tu nie jest powalające.</p>
+
+<h2>Pytanie o cenę</h2>
+<p>SoundSource to płatna, jednorazowa licencja, której koszt wynosi 39 USD (ceny różnią się w zależności od wersji i promocji). Nie jest to subskrypcja cykliczna w sensie Netflixa, ale działa zgodnie z klasycznym wzorcem płatnej aplikacji: kupujesz wersję główną, a przyszłe główne aktualizacje są zazwyczaj płatnymi aktualizacjami z rabatem, a nie bezpłatnymi na zawsze. W ciągu kilku lat to więcej niż jeden zakup. Dla wielu użytkowników Mac szczere pytanie brzmi: czy płacę 39 dolarów za zestaw routingu i korektora, podczas gdy jedyne, czego tak naprawdę dotykam, to suwaki głośności dla poszczególnych aplikacji?</p>
+
+<blockquote>Jeśli otworzyłeś SoundSource i kiedykolwiek korzystałeś tylko z suwaków głośności i przycisków wyciszania, płacisz za zestaw i korzystasz z jednej szuflady.</blockquote>
+
+<h2>Dlaczego problem w ogóle istnieje</h2>
+<p>Oto uczciwa przyczyna: macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji. Windows ma taki system od lat, ale w Mac głośność systemu jest typu „wszystko albo nic”. Firma Apple nie zapewnia żadnego sposobu na wyciszenie Spotify, podczas gdy rozmowa wideo pozostaje głośna, ani na wyciszenie jednej aplikacji bez dotykania pozostałych. Właśnie z powodu tej luki narzędzia takie jak SoundSource i <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> istnieć. To prawdziwe ograniczenie systemu operacyjnego, a nie coś, co żadna aplikacja wymyśliła jako problem do rozwiązania.</p>
+
+<h2>Tam, gdzie pasuje lżejsza i tańsza opcja</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to mikser głośności z paskiem menu dla poszczególnych aplikacji, stworzony dla typowych przypadków, a nie dla profesjonalnych urządzeń audio. Obejmuje:</p>
+<ul>
+<li><strong>Niezależna głośność na aplikację</strong> — wyłącz muzykę, podczas gdy spotkanie będzie odtwarzane na pełnym poziomie.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> — wycisz jedną aplikację bez wyciszania Mac.</li>
+<li><strong>Zwiększenie głośności w poszczególnych aplikacjach</strong> — przesuń cichą aplikację powyżej normalnego 100%, gdy źródło jest po prostu zbyt ciche.</li>
+<li><strong>Profile głośności</strong> — zapisz zestaw poziomów dla poszczególnych aplikacji (np. układ „fokus” lub „połączenie”) i przełączaj jednym kliknięciem.</li>
+<li><strong>Automatyczne wyciszanie</strong> — automatycznie obniżaj inne aplikacje, gdy zaczniesz mówić lub uruchomi się wybrana aplikacja.</li>
+<li><strong>Szybkie przełączanie wyjścia</strong> — przechodź między głośnikami, słuchawkami i innymi urządzeniami z paska menu.</li>
+</ul>
+<p>To jest <strong>14,99 € jednorazowo</strong>, sprzedawany za pośrednictwem Mac App Store, więc jest w trybie piaskownicy i nie ma osobnego DMG, żadnego rozszerzenia jądra ani sterownika audio do zainstalowania. Pobierasz ją jak każdą aplikację App Store i aktualizuje się za pośrednictwem sklepu.</p>
+
+<h2>Uczciwe porównanie</h2>
+<p>Bądź ostrożny w kwestii kompromisu. SoundSource robi więcej niż SoundDial, a jeśli którakolwiek z poniższych kwestii jest dla Ciebie istotna, lepszym zakupem będzie SoundSource:</p>
+<ul>
+<li>Chcesz prawdziwej aplikacji lub systemu <strong>korektor</strong> i efekty modułu audio.</li>
+<li>Musisz <strong>kieruj pojedynczą aplikację do innego urządzenia wyjściowego</strong> niż wszystko inne.</li>
+<li>Polegasz <strong>Wstępne ustawienia EQ dla słuchawek</strong> i precyzyjne przetwarzanie dźwięku.</li>
+</ul>
+<p>SoundDial nie obsługuje korektora ani routingu urządzeń według aplikacji. Jest celowo węższy. W zamian daje niższą cenę, mniejszą powierzchnię i interfejs paska menu skupiający się na tym, czego właściwie chciała większość ludzi: utrzymywaniu każdej aplikacji na wybranym poziomie, z ulepszeniami i profilami na górze.</p>
+
+<h2>Czy zatem SoundSource jest tego wart?</h2>
+<p>Tak, jeśli będziesz używać korektora i routingu. To dojrzałe, dobrze wspierane oprogramowanie od szanowanego programisty, a cena odzwierciedla rzeczywiste możliwości. Ale „warto” zależy od tego, czego dotkniesz. Jeśli otworzysz aplikację i tylko dostosujesz suwaki głośności, wyciszysz aplikację lub chcesz, aby jedna cicha aplikacja była głośniejsza, płacisz za pakiet premium za podstawowe potrzeby miksera. W takim przypadku jednorazowe narzędzie za 14,99 € jest bardziej rozsądne i zawsze możesz przejść na SoundSource później, jeśli Twoje potrzeby wzrosną w zakresie EQ i routingu.</p>
+
+<p>Jeśli potrzebujesz głośności, wzmocnienia, wyciszenia, profili i automatycznego wyciszania poszczególnych aplikacji, <a href="https://apps.apple.com/app/id6772792641">zdobądź SoundDial na Mac App Store</a> — 14,99 € jednorazowo, bez subskrypcji, bez sterowników.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Za głośno na Mac? Wyłącz jedną przeglądarkę bez wyciszania wszystkiego",
+    description: "Chrome działa głośniej niż inne aplikacje na Mac? Poznaj wbudowane poprawki (wyciszenie każdej karty, ustawienia dźwięku w witrynie) i dowiedz się, jak ustawić rzeczywistą głośność dla każdej aplikacji dla Chrome, aby działała ciszej niż wszystko inne.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanej głośności dla poszczególnych aplikacji, więc nie można natywnie ściszyć Chrome, pozostawiając inne aplikacje przy pełnej głośności. Najszybsze bezpłatne rozwiązania to wyciszanie hałaśliwych kart, zmniejszanie głośności w każdym odtwarzaczu wideo lub blokowanie dźwięku w poszczególnych witrynach w ustawieniach Chrome. Aby uzyskać prawdziwy, trwały poziom głośności dostępny tylko w Chrome, potrzebujesz miksera dla poszczególnych aplikacji.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Za głośno w Mac? Wyłącz jedną przeglądarkę bez wyciszania wszystkiego" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego Chrome brzmi głośniej niż wszystko inne</h2>
+<p>Chrome niekoniecznie jest „głośniejszy” z założenia — po prostu Chrome kieruje dźwięk z wielu niezależnych źródeł: YouTube, automatycznie odtwarzanych reklam, rozmów wideo, zakładek z muzyką w tle i aplikacji internetowych, z których każda ma własną głośność. Niektóre strony są opracowywane na gorąco, reklamy są notorycznie głośne, a Chrome odtwarza je wszystkie z pełną mocą wyjściową systemu. Tymczasem Twoja aplikacja muzyczna lub połączenie mogą być cichsze, więc Chrome dominuje w miksie.</p>
+<p>W przypadku Windows wystarczy otworzyć Mikser głośności i przeciągnąć suwak Chrome w dół. macOS po prostu nie zawiera tej funkcji. Klawisz głośności systemu steruje wszystkim na raz, więc wyłączenie Chrome powoduje również wyciszenie muzyki, powiadomień i połączeń. To jest podstawowe ograniczenie — luka w systemie operacyjnym, a nie coś, co robisz źle.</p>
+
+<h2>Wbudowane poprawki, które nic nie kosztują</h2>
+<p>Zanim cokolwiek zainstalujesz, wypróbuj te. Nie dadzą ci pojedynczego pokrętła głośności Chrome, ale rozwiązują większość problemów związanych z „jedną głośną zakładką”.</p>
+<ul>
+<li><strong>Wycisz hałaśliwą kartę.</strong> Kliknij kartę prawym przyciskiem myszy i wybierz opcję „Wycisz witrynę” lub kliknij ikonę małego głośnika wyświetloną na karcie odtwarzającej dźwięk. Spowoduje to całkowite wyciszenie tej zakładki bez dotykania reszty Chrome.</li>
+<li><strong>Zmniejsz głośność wewnątrz odtwarzacza.</strong> Najbardziej niezawodna sztuczka: przeciągnij suwak głośności w dół do YouTube, Netflix lub czegokolwiek, co odtwarza. Gracze sieciowi zapamiętują swój własny poziom dla każdej witryny, więc cichszy YouTube następnym razem pozostanie cichy.</li>
+<li><strong>Blokuj dźwięk na witrynę.</strong> Idź do <em>chrome://settings/content/sound</em>. Możesz przełączać witryny między „dozwolonymi” i „wyciszonymi” oraz dodawać określone domeny do listy ignorowanych. Świetnie nadaje się do trwałego wyciszania witryn odtwarzających się automatycznie.</li>
+<li><strong>Zabij reklamy odtwarzające się automatycznie.</strong> Dźwięk reklam jest często prawdziwym winowajcą. Blokowanie treści lub wyciszenie karty do czasu, aż będziesz gotowy do oglądania, usuwa większość niespodziewanych dźwięków.</li>
+</ul>
+<blockquote>Są one naprawdę przydatne i bezpłatne. Ale zauważ, czego nie mogą zrobić: wyciszają poszczególne karty lub zarządzają nimi. Żaden z nich nie pozwala powiedzieć „utrzymaj wszystkie Chrome na 40%, podczas gdy moja muzyka pozostanie na 100%”.</blockquote>
+
+<h2>Szczere ograniczenie: brak wolumenu przypadającego na aplikację w macOS</h2>
+<p>Jeśli Twoim prawdziwym celem jest „Chrome powinien zawsze działać ciszej niż inne moje aplikacje”, wbudowane narzędzia nie będą wystarczające. Wyciszenie poszczególnych kart to wszystko albo nic. Suwaki odtwarzacza resetują się, gdy witryna ich nie pamięta i trzeba je ciągle powtarzać. A głośność systemu przenosi wszystko razem.</p>
+<p>Jest to prawdziwe ograniczenie macOS, a nie błąd, który można skonfigurować. Apple nigdy nie dostarczało miksera głośności w stylu Windows. Jedynym sposobem na uzyskanie stałego, niezależnego poziomu głośności dla Chrome jest aplikacja innej firmy, która znajduje się pomiędzy Twoimi aplikacjami a urządzeniem wyjściowym i stosuje wzmocnienie dla każdej aplikacji.</p>
+
+<h2>Ustaw rzeczywistą głośność dla każdej aplikacji dla Chrome</h2>
+<p>Mikser podobny do paska menu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> zapewnia macOS kontrolę głośności w poszczególnych aplikacjach, której brakuje. Wyświetla listę wszystkich aplikacji aktualnie odtwarzających dźwięk i przydziela każdej z nich własny suwak — dzięki czemu możesz obniżyć Chrome do wygodnego poziomu i pozostawić Spotify, połączenia i dźwięki systemowe dokładnie tam, gdzie się znajdują.</p>
+<p>Oto, jak okiełznać za jego pomocą głośny Chrome:</p>
+<ul>
+<li>Otwórz mikser na pasku menu i znajdź Chrome na liście aktywnych aplikacji.</li>
+<li>Przeciągnij suwak Chrome w dół, powiedzmy, od 40 do 50 procent. Inne aplikacje pozostają nietknięte.</li>
+<li>Jeśli konkretna aplikacja też <em>cicho</em> zamiast tego — użyj szepczącej aplikacji do połączeń <a href="https://apps.apple.com/app/id6772792641">zwiększenie głośności na aplikację</a> aby podnieść go powyżej 100 procent, utrzymując Chrome na niskim poziomie.</li>
+<li>Natychmiastowe wyciszenie Chrome za pomocą wyciszenia dla każdej aplikacji, gdy potrzebujesz ciszy bez zamykania zakładek.</li>
+</ul>
+<p>Ponieważ poziom jest powiązany z aplikacją, pozostaje przyklejony. Chrome utrzymuje wybraną głośność na kartach, stronach i przy ponownym uruchomieniu — bez konieczności ponownego przeciągania suwaków odtwarzacza za każdym razem, gdy otwierasz nowy film.</p>
+
+<h2>Idąc dalej: profile, wyciszanie i przełączanie wyjść</h2>
+<p>Gdy już uzyskasz kontrolę nad każdą aplikacją, warto mieć ją przy sobie dzięki kilku dodatkom. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pozwala zaoszczędzić głośność <strong>profile</strong> — na przykład profil „fokus”, w którym Chrome jest cichy, a muzyka głośna, oraz profil „oglądanie”, w którym dominuje Chrome — i przełączaj się między nimi jednym kliknięciem. Automatyczne wyciszanie może automatycznie wyłączyć inne aplikacje po uruchomieniu wybranego źródła (przydatne, aby połączenie nigdy nie zostało ukryte pod głośną kartą przeglądarki). Szybkie przełączanie wyjść pozwala przełączać się między głośnikami, słuchawkami i innymi urządzeniami bez konieczności zagłębiania się w ustawienia systemu.</p>
+<p>Jest to jednorazowy zakup Mac App Store za 14,99 EUR — bez subskrypcji, bez sterowników do zainstalowania, bez DMG ani rozszerzenia jądra. Ponieważ jest piaskownicą i dystrybuowany poprzez App Store, nie wymaga instalacji sterownika audio, na którym opierają się starsze narzędzia miksera.</p>
+
+<h2>Której poprawki należy użyć?</h2>
+<p>Jeśli od czasu do czasu masz tylko jedną okropną kartę, użyj wbudowanego wyciszenia Chrome i ustawień dźwięku witryny — są one bezpłatne i działają. Jeśli ciągle pragniesz, aby Chrome można było po prostu odrzucić, a wszystko inne pozostało bez zmian, to jest dokładnie ta luka, którą macOS pozostawia otwartą, a mikser dla poszczególnych aplikacji jest rozwiązaniem.</p>
+
+<p>Chcesz, aby Chrome był trwale cichszy, bez wyciszania muzyki i połączeń? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i nadaj każdej aplikacji własny suwak głośności.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "Powiadomienia WhatsApp i Telegram brzmią zbyt głośno w Mac? Wyłącz je",
+    description: "Napraw dźwięki powiadomień na pulpicie WhatsApp i Telegram, które są zbyt głośne na Twoim Mac. Zacznij od wbudowanych ustawień każdej aplikacji, a następnie obniż lub wycisz całą aplikację, gdy macOS nie zapewnia kontroli poszczególnych aplikacji.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>Zacznij od każdej aplikacji: WhatsApp i Telegram umożliwiają wyciszenie lub zmianę dźwięków powiadomień w ich własnych ustawieniach, co jest najprostszą poprawką. Jednak macOS nie ma suwaka głośności powiadomień dla poszczególnych aplikacji, więc jeśli dźwięk aplikacji jest nadal zbyt głośny, jedyną realną dźwignią jest obniżenie lub wyciszenie dźwięku całej aplikacji za pomocą narzędzia głośności dla poszczególnych aplikacji.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Powiadomienia WhatsApp i Telegram brzmią zbyt głośno w Mac? Wyłącz je" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Najpierw użyj własnych ustawień powiadomień aplikacji</h2>
+
+<p>Zarówno WhatsApp, jak i Telegram mają własne elementy sterujące dźwiękiem i od tego zawsze należy zaczynać. Jest to najbardziej precyzyjna poprawka, która nie wpływa na nic innego w Twoim Mac.</p>
+
+<p><strong>Pulpit WhatsApp:</strong> Otwórz WhatsApp, kliknij <em>Ustawienia</em> (ikona koła zębatego), następnie <em>Powiadomienia</em>. Możesz wyłączyć <em>Brzmi</em> całkowicie, zachowując banery, lub wyłącz podgląd powiadomień. WhatsApp nie oferuje suwaka głośności, więc zasadniczo można go włączyć lub wyłączyć dla samego dźwięku.</p>
+
+<p><strong>Pulpit Telegram:</strong> Otwórz <em>Ustawienia → Powiadomienia i dźwięki</em>. Telegram jest tutaj bardziej elastyczny. Możesz wyłączyć dźwięk powiadomienia globalnie, wyciszyć poszczególne czaty lub ustawić własne (cichsze) dźwięki. Możesz także wyciszyć pojedynczą hałaśliwą grupę, otwierając ją i wybierając <em>Wycisz</em>. W przypadku większości ludzi wyciszenie najgłośniejszych rozmów rozwiązuje problem bez wyciszania wszędzie.</p>
+
+<p>Jeśli dźwięk jest w porządku, ale jest zbyt częsty, wycisz określone czaty lub kanały, które uruchamiają się najczęściej, zamiast wyłączać dźwięk w całej aplikacji. Dzięki temu ważne alerty są słyszalne.</p>
+
+<h2>Wyłącz dźwięki powiadomień w Ustawieniach systemowych macOS</h2>
+
+<p>macOS posiada drugi poziom kontroli, który w niektórych przypadkach zastępuje aplikację. Idź do <em>Ustawienia systemowe → Powiadomienia</em>, wybierz na liście WhatsApp lub Telegram i wyłącz <em>Odtwórz dźwięk powiadomień</em>. Spowoduje to wyciszenie dźwięku alertu dla tej aplikacji, przy jednoczesnym wyświetlaniu banerów.</p>
+
+<p>To naprawdę dobre rozwiązanie, jeśli chcesz, aby aplikacja wyciszyła tylko powiadomienia i nie dbała o inne dźwięki (połączenia, wideo). W połączeniu z własnymi ustawieniami aplikacji, pokrywa większość skarg dotyczących „pingowania”.</p>
+
+<h2>Prawdziwe ograniczenie: macOS nie ma głośności dla poszczególnych aplikacji</h2>
+
+<p>Oto szczera część. Powyższe kroki dotyczą włączenia/wyłączenia. Jedyne, czego nie mogą zrobić, to obrócić WhatsApp lub Telegram <em>w dół</em> do, powiedzmy, 40%, przy jednoczesnym zachowaniu pełnej głośności wszystkich pozostałych. Windows od lat ma mikser głośności dla poszczególnych aplikacji. macOS po prostu go nie zawiera i nie ma żadnego ukrytego ustawienia ani polecenia Terminal, które by je dodało.</p>
+
+<p>Ma to znaczenie, gdy problemem nie jest konkretnie dzwonek powiadomienia, ale cała aplikacja jest zbyt głośna:</p>
+
+<ul>
+<li>WhatsApp lub Telegram <strong>połączenia głosowe i wideo</strong> które brzmią z pełną głośnością w zależności od muzyki lub spotkania</li>
+<li>Dźwięk powiadomienia, który chcesz zachować, ale na niższym poziomie, a nie całkowicie wyłączony</li>
+<li>Dzwonki, które znacznie przewyższają wszystko, czego słuchasz</li>
+<li>Chcesz, aby aplikacja była słyszalna, ale cicho w tle, podczas gdy Ty możesz skupić się na czymś innym</li>
+</ul>
+
+<p>Żadnego z tych problemów nie da się rozwiązać za pomocą wbudowanych narzędzi, ponieważ oferują one jedynie wyciszenie, a nie poziom. Ta luka jest prawdziwym ograniczeniem macOS, a nie czymś, czego Ci brakuje.</p>
+
+<h2>Ustaw głośność dla poszczególnych aplikacji za pomocą SoundDial</h2>
+
+<p>Aby faktycznie wyłączyć pojedynczą aplikację, potrzebujesz miksera głośności dla każdej aplikacji. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to aplikacja z paskiem menu, która zapewnia macOS kontrolę głośności dla poszczególnych aplikacji, z którą nigdy nie była dostarczana. Wyświetla listę wszystkich aplikacji aktualnie odtwarzających dźwięk i daje każdemu własny suwak.</p>
+
+<p>W przypadku tego konkretnego problemu:</p>
+
+<ul>
+<li>Otwórz <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z paska menu i znajdź na liście WhatsApp lub Telegram.</li>
+<li>Przeciągnij jego suwak w dół do wygodnego poziomu, na przykład 30–40%, pozostawiając muzykę, przeglądarkę lub rozmowę wideo nietkniętą.</li>
+<li>Użyj aplikacji <strong>wyciszyć</strong> przycisk, aby natychmiast wyciszyć tylko tę aplikację podczas połączenia lub spotkania, a następnie wyłączyć wyciszenie później, bez konieczności przeglądania ustawień.</li>
+<li>Jeśli kiedykolwiek będziesz potrzebować czegoś przeciwnego, cicha aplikacja, która jest zbyt miękka, na aplikację <strong>wzmocnienie</strong> może przekroczyć 100%.</li>
+</ul>
+
+<p>Ponieważ ustawia poziom dla każdej aplikacji, SoundDial sprawia, że sygnały dźwiękowe powiadomień i dźwięki połączeń są słyszalne, ale proporcjonalne, a wbudowane opcje nie wymuszają wyboru „wszystko albo nic”. Możesz także zapisać <strong>profile głośności</strong>, więc od ustawienia „skoncentrowania”, które utrzymuje aplikacje do czatowania na niskim poziomie, wystarczy jedno kliknięcie.</p>
+
+<blockquote>Jedno szczere zastrzeżenie: zmniejszenie ogólnej głośności aplikacji w SoundDial powoduje również obniżenie dzwonków powiadomień, ponieważ w macOS są to dźwięki tej samej aplikacji. Jeśli chcesz, aby powiadomienia były całkowicie wyłączone, ale połączenia miały pełną głośność, użyj własnego wyciszenia aplikacji i ustawień systemowych dla gongu i zarezerwuj SoundDial do ustawienia poziomu ogólnego.</blockquote>
+
+<p>SoundDial to jednorazowy zakup za 14,99 EUR na Mac App Store, w trybie piaskownicy, bez subskrypcji, bez sterowników jądra i bez DMG do bocznego ładowania. To praktyczna odpowiedź, gdy rozwiązanie, którego naprawdę potrzebujesz, czyli wyłączenie jednej aplikacji, nie jest czymś, co macOS może zrobić sam.</p>
+
+<h2>Której poprawki należy użyć?</h2>
+
+<p>Pracuj od góry do dołu. Wypróbuj najpierw własne ustawienia powiadomień aplikacji, a następnie Ustawienia systemowe macOS, aby wyłączyć dzwonek. Jeśli naprawdę chcesz zmniejszyć głośność WhatsApp lub Telegram do określonego poziomu lub wyciszyć na bieżąco tylko tę aplikację podczas połączeń, właśnie w tym miejscu znajdzie się mikser dla poszczególnych aplikacji.</p>
+
+<p>Masz dość wybierania pomiędzy pełnym dźwiękiem a całkowitą ciszą w aplikacjach do czatowania? <a href="https://apps.apple.com/app/id6772792641">Zdobądź SoundDial na Mac App Store</a> i nadaj każdej aplikacji własne pokrętło głośności.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Dźwięk w grze głośniejszy niż Discord na Mac? Jak zrównoważyć głośność gry i głosu",
+    description: "Twoja gra zagłusza czat głosowy Discord na Mac i nie ma wbudowanego miksera głośności. Oto dlaczego macOS nie ma głośności w aplikacji w stylu Windows i jak wyłączyć grę, utrzymując głos w górze.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanego miksera głośności dla poszczególnych aplikacji, więc nie możesz natywnie ograniczać gry, utrzymując głośność Discord. Poprawka to aplikacja na pasku menu, która ustawia niezależną głośność dla każdej aplikacji. Zmniejsz grę do 40-50%, pozostaw czat głosowy na 100%, a oba pozostaną zrównoważone bez dotykania suwaków w grze.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Dźwięk w grze głośniejszy niż Discord na Mac? Jak zrównoważyć głośność gry i głosu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego tak się dzieje w przypadku Mac (a nie w przypadku Windows)</h2>
+
+<p>Jeśli grałeś na Windows, znasz Mikser głośności: kliknij prawym przyciskiem myszy ikonę głośnika, a każda działająca aplikacja otrzyma własny suwak. Rzucasz grę, podbijasz Discord i gotowe. macOS po prostu nigdy nie dostarczał tej funkcji. Jest jedna główna głośność wyjściowa i kilka przełączników na poziomie aplikacji ukrytych w ustawieniach systemu, ale nie ma kontroli poziomu poszczególnych aplikacji dla dowolnych aplikacji.</p>
+
+<p>Kiedy więc miks gry zostanie zmasterowany na gorąco, eksplozje, muzyka i strzały będą miały ten sam poziom wyjściowy, co głosy Twoich znajomych. Niektóre gry udostępniają główny suwak głośności, ale wiele z nich nie jest wystarczająco niski, a wiele programów uruchamiających, przeglądarek i samodzielnych tytułów nie oferuje żadnej użytecznej kontroli. Sam Discord pozwala jedynie regulować głośność przychodzących użytkowników, a nie konkurującej z nimi gry.</p>
+
+<p>Szczerze mówiąc, jest to luka na poziomie systemu operacyjnego, a nie błąd, który można wyłączyć. Stos audio Apple kieruje wszystko do jednego strumienia wyjściowego i nie ma własnego interfejsu użytkownika, który umożliwiałby dzielenie go na aplikację. Dlatego potrzebujesz narzędzia innej firmy, które będzie znajdować się pomiędzy Twoimi aplikacjami a urządzeniem wyjściowym.</p>
+
+<h2>Ręczne obejścia (i dlaczego zawiodły)</h2>
+
+<p>Zanim sięgniemy po oprogramowanie warto poznać darmowe możliwości i ich ograniczenia:</p>
+
+<ul>
+<li><strong>Zmniejsz głośność gry w aplikacji.</strong> Działa, jeśli gra ma główny suwak z wystarczająco drobnymi krokami. Wiele z nich zatrzymuje się na przyrostach co 10% lub łączy muzykę i efekty, więc nie można ujarzmić tylko głośnych partii.</li>
+<li><strong>Wychowaj swoich znajomych w Discord.</strong> Kliknij prawym przyciskiem myszy każdego użytkownika i zwiększ jego głośność. To trochę pomaga, ale jest maksymalne i nie wpływa na grę, która jest właściwie problemem.</li>
+<li><strong>Używaj słuchawek ze sprzętowym potencjometrem głośności.</strong> Zmienia jedynie ogólny poziom, a nie równowagę pomiędzy grą a głosem.</li>
+<li><strong>Kieruj dźwięk przez urządzenie wirtualne.</strong> Narzędzia takie jak Loopback czy BlackHole mogą dzielić strumienie, ale są przeznaczone dla profesjonalistów, wymagają prawdziwej konfiguracji i są przesadą, ponieważ „wyciszają grę”.</li>
+</ul>
+
+<p>Żadne z nich nie zapewnia jednej rzeczy, którą użytkownicy Windows uważają za oczywistą: szybkiego suwaka dla każdej aplikacji. To jest ta luka <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest zbudowany do wypełnienia.</p>
+
+<h2>Bezpośrednie rozwiązanie: niezależna głośność na aplikację</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to mikser głośności na pasku menu dla każdej aplikacji dla macOS. Pokazuje każdą aplikację aktualnie odtwarzającą dźwięk i daje każdemu własny suwak, dokładnie tak jak mikser głośności Windows. W przypadku problemu gra kontra głos przepływ pracy jest krótki:</p>
+
+<ul>
+<li>Kliknij ikonę SoundDial na pasku menu, gdy gra i Discord są uruchomione.</li>
+<li>Znajdź grę na liście i przesuń jej suwak w dół do około 40-50%.</li>
+<li>Pozostaw Discord (lub Slack, Zoom lub aplikację głosową) na 100%.</li>
+<li>Dostosuj grę na bieżąco — zepchnij grę dalej w głośną strzelaninę, a cofnij się podczas cichej eksploracji.</li>
+</ul>
+
+<p>Ponieważ poziomy dotyczą poszczególnych aplikacji, ustawiasz je raz i obowiązują. Gra pozostaje ograniczona, niezależnie od tego, jak gorąca jest jej własna mieszanka, a Twoi znajomi są przez nią wyraźnie słyszalni.</p>
+
+<h2>Wzmacnianie, wyciszanie i profile do końca konfiguracji</h2>
+
+<p>To samo narzędzie rozwiązuje problemy związane z grami głosowymi:</p>
+
+<ul>
+<li><strong>Zwiększenie liczby aplikacji.</strong> Jeśli mikrofon członka drużyny jest cichy nawet przy maksymalnej głośności Discord, możesz włączyć aplikację głosową <em>powyżej</em> Na 100%, więc przecina grę, a nie zostaje pogrzebany.</li>
+<li><strong>Wyciszenie dla poszczególnych aplikacji.</strong> Natychmiast wycisz kartę przeglądarki działającej w tle lub aplikację muzyczną, bez konieczności naciskania klawisza Alt lub przerywania odtwarzania.</li>
+<li><strong>Profile głośności.</strong> Zapisz profil „grający” z grą na poziomie 45% i wzmocnionym Discord, a następnie jednym kliknięciem przełącz się z powrotem na „normalny” profil do codziennego użytku — bez konieczności ponownego przeciągania suwaków w każdej sesji.</li>
+<li><strong>Automatyczne wyciszanie.</strong> Pozwól, aby gra automatycznie się wyłączała, gdy ktoś mówi, aby objaśnienia zawsze pojawiały się na szczycie akcji.</li>
+<li><strong>Szybkie przełączanie wyjścia.</strong> Przechodź między słuchawkami i głośnikami z tego samego menu, bez konieczności zagłębiania się w Ustawienia systemowe.</li>
+</ul>
+
+<blockquote><p>Model mentalny jest prosty: jeden suwak na aplikację, tak jak Windows robi to od lat. macOS po prostu nigdy tego nie zapewniał, więc małe narzędzie przywraca parzystość.</p></blockquote>
+
+<h2>Czego się spodziewać szczerze</h2>
+
+<p>Mikser dla poszczególnych aplikacji rozwiązuje problem równowagi, ale prawidłowo ustawia oczekiwania. Kontroluje poziomy wyjściowe oprogramowania — nie może naprawić gry, której dźwięk jest źle zmasterowany, ani nie może podnieść sygnału, który nigdy nie został przechwycony (naprawdę zepsuty mikrofon nadal wymaga naprawy sprzętowej). Funkcja Boost dodaje realne wzmocnienie, więc przesunięcie cichego źródła znacznie powyżej 100% może wprowadzić zniekształcenia, dokładnie tak, jak zwiększenie mocy dowolnego wzmacniacza. Jednak rozsądnie stosowane, skromne ograniczenie gry i niewielkie wzmocnienie głosu to wszystko, czego potrzebuje większość konfiguracji.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> jest piaskownicą i instaluje się bezpośrednio z Mac App Store — bez sterowników, bez rozszerzeń jądra, bez DMG, któremu można zaufać. Kosztuje to jednorazowe 14,99 euro bez subskrypcji i obsługuje regulację głośności macOS w 28 językach.</p>
+
+<p>Przestań walczyć z suwakami w grze. Chwyć <a href="https://apps.apple.com/app/id6772792641">SoundDial na Mac App Store</a>, ścisz grę, zachowaj głośno swoją drużynę i wreszcie zdobądź mikser głośności w stylu Windows, macOS, który zapomniałeś wysłać.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Głośniki monitora zewnętrznego są za głośne lub zawieszają się w Mac? Napraw głośność HDMI/DisplayPort",
+    description: "Dlaczego klawisze głośności Mac nie sterują głośnikami monitora HDMI lub DisplayPort i jak naprawić zbyt głośny, zablokowany lub niemożliwy do regulacji dźwięk za pomocą menu OSD monitora, konfiguracji MIDI Audio i lepszego routingu wyjściowego.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli klawisze głośności Twojego Mac są wyszarzone lub nie działają w przypadku monitora podłączonego przez HDMI lub DisplayPort, zwykle nie jest to usterka. Dźwięk z wyświetlacza cyfrowego jest często przesyłany na stałym poziomie, a głośność reguluje sprzęt monitora. Rozwiązanie polega na dostosowaniu wyświetlacza, przekierowaniu wyjścia lub użyciu innego urządzenia audio.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Głośniki monitora zewnętrznego są za głośne lub zawieszają się w Mac? Napraw głośność HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego klawisze głośności Mac przestają działać przez HDMI/DisplayPort</h2>
+
+<p>HDMI i DisplayPort przesyłają dźwięk jako strumień cyfrowy. Wiele monitorów odbiera ten strumień ze stałym poziomem wyjściowym i oczekuje, że głośność będziesz kontrolować na samym wyświetlaczu, a nie na urządzeniu źródłowym. Gdy macOS to wykryje, wyłącza ekranowy suwak głośności i wyszarza klawisze F11/F12, wyświetlając po ich naciśnięciu symbol „braku wpisu”.</p>
+
+<p>Jest to ograniczenie sprzętowe i protokołowe, a nie coś, co oprogramowanie Mac może obejść. Dźwięk nigdy nie przechodzi przez etap, w którym macOS może go wyciszyć. Żadna aplikacja, sterownik ani ustawienie nie jest w stanie zapewnić regulacji głośności w strumieniu, który wyświetlacz chce odbierać na pełnym poziomie. Bycie szczerym w tej kwestii pozwala zaoszczędzić wiele godzin szukania niewłaściwej poprawki.</p>
+
+<h2>Poprawka 1: Użyj własnych elementów sterujących monitora (OSD)</h2>
+
+<p>To jest prawdziwe rozwiązanie dla większości ludzi. Prawie każdy monitor z wbudowanymi głośnikami ma menu ekranowe obsługiwane za pomocą fizycznych przycisków lub joysticka z tyłu lub na spodzie panelu.</p>
+
+<ul>
+<li>Naciśnij przycisk OSD/menu, aby otworzyć ustawienia monitora.</li>
+<li>Poszukaj sekcji Audio lub Głośność.</li>
+<li>Obniż tam poziom — to jest sterowanie, które faktycznie działa przez HDMI/DP.</li>
+</ul>
+
+<p>Niektóre monitory udostępniają także aplikację towarzyszącą lub obsługę DDC/CI, dzięki czemu można sterować OSD z macOS. Narzędzia innych firm obsługujące DDC mogą mapować klawisze głośności Mac na głośność sprzętową monitora, co warto wypróbować, jeśli nie lubisz sięgać po przyciski panelu.</p>
+
+<h2>Poprawka 2: Sprawdź konfigurację MIDI audio</h2>
+
+<p>Otwórz <strong>Konfiguracja MIDI audio</strong> (w /Aplikacje/Narzędzia). Wybierz swój monitor na liście urządzeń. Jeśli po prawej stronie pojawi się suwak głośności, przeciągnij go w dół — czasami wyświetlacz pokazuje poziom kontrolowany programowo, nawet jeśli klawisze paska menu są wyłączone. Jeśli brakuje suwaka lub jest on wyszarzony, wyświetlacz potwierdza, że ​​akceptuje tylko dźwięk o stałym poziomie i należy powrócić do menu OSD.</p>
+
+<p>Będąc tutaj, potwierdź, że wybrano właściwe urządzenie wyjściowe. Często zdarza się, że dźwięk jest dyskretnie kierowany do monitora, o którym zapomniałeś, że jest podłączony, co wyjaśnia nagły głośny lub nieobecny dźwięk.</p>
+
+<h2>Poprawka 3: Przekieruj dźwięk do miejsca, nad którym możesz faktycznie kontrolować</h2>
+
+<p>Jeśli głośniki twojego monitora i tak są przeciętne (większość jest), a regulacja głośności jest niewygodna, najprostszą metodą jest zaprzestanie ich używania:</p>
+
+<ul>
+<li>Podłącz głośniki lub słuchawki do gniazda wyjściowego słuchawek monitora, jeśli je posiada — poziom głośności tego wyjścia analogowego można zwykle regulować z poziomu wyświetlacza.</li>
+<li>Użyj USB DAC, głośników USB lub wyjścia Bluetooth. Wyjścia USB i analogowe zapewniają macOS pełną programową kontrolę głośności, dzięki czemu klawisze znów działają normalnie.</li>
+<li>Wybierz wbudowane głośniki Mac, aby uzyskać szybkie dźwięki i używaj monitora tylko do odtwarzania wideo.</li>
+</ul>
+
+<p>Po wybraniu sygnału wyjściowego, który macOS może faktycznie wyciszyć, klawisze głośności systemu zachowują się i odzyskujesz pełną kontrolę zamiast przeskakiwać pomiędzy zgrubnymi krokami OSD monitora.</p>
+
+<h2>Gdy wyjście zacznie działać, kontroluj głośność dla każdej aplikacji</h2>
+
+<p>Odzyskanie kontrolowanego wyjścia rozwiązuje problem „zbyt głośno/zablokowania”. Ale macOS nadal zapewnia tylko jeden główny poziom głośności dla wszystkiego. W Mac nie ma wbudowanego miksera dla poszczególnych aplikacji — Windows ma taki mikser od lat, ale Apple nigdy nie dostarczył jego odpowiednika. Zatem głośny film, gra i cicha rozmowa korzystają z tego samego suwaka.</p>
+
+<p>To jest ta luka <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> wypełnia. To mikser na pasku menu, który nadaje każdej aplikacji niezależną głośność, dzięki czemu możesz ściszyć kartę przeglądarki bez dotykania muzyki, natychmiast wyciszyć jedną aplikację lub zwiększyć cichą aplikację powyżej normalnego pułapu. Możesz zapisywać profile głośności dla różnych konfiguracji i szybko przełączać wyjścia z paska menu.</p>
+
+<p>Aby było jasne co do zakresu: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> steruje głośnością oprogramowania dla dźwięku przepływającego przez macOS. Nie może zastąpić monitora, który ignoruje głośność systemu przez HDMI — jest to zachowanie wyświetlacza na stałym poziomie i naprawia to tylko menu OSD lub inne wyjście. Gdy już uzyskasz kontrolowane wyjście, kontrola poszczególnych aplikacji będzie tym, gdzie aplikacja błyszczy.</p>
+
+<h2>Szybka lista kontrolna</h2>
+
+<ul>
+<li>Klawisze wyszarzone w przypadku HDMI/DP? Użyj głośności OSD monitora — to oczekiwane zachowanie.</li>
+<li>Sprawdź konfigurację MIDI Audio pod kątem ukrytego suwaka oprogramowania.</li>
+<li>Upewnij się, że wybrano właściwe urządzenie wyjściowe.</li>
+<li>Aby uzyskać prawdziwą kontrolę, skieruj dźwięk do wyjścia słuchawkowego, USB lub Bluetooth.</li>
+<li>Następnie użyj miksera dla poszczególnych aplikacji, aby zrównoważyć poszczególne aplikacje.</li>
+</ul>
+
+<p>Gdy wyniki będą już pod kontrolą, daj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> spojrzenie. Jest to jednorazowy zakup za 14,99 euro od Mac App Store — bez subskrypcji, bez sterowników, bez DMG — i wreszcie zapewnia prawdziwy mikser głośności dla każdej aplikacji w macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "Głośność USB DAC nie reguluje się w Mac? Odzyskaj programową kontrolę głośności",
+    description: "Dlaczego macOS przyciemnia suwak głośności w wielu modelach USB DAC, co to oznacza i jak przywrócić działającą programową kontrolę głośności w Mac bez utraty jakości dźwięku.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Jeśli suwak głośności Twojego USB DAC jest wyszarzony w Mac, zwykle nie jest to błąd. macOS wyłącza głośność programową, gdy DAC zgłasza, że ​​nie ma kontrolowanej głośności, oczekując, że użyjesz własnego pokrętła sprzętowego DAC. Aby przywrócić głośność oprogramowania, użyj tłumika na poziomie aplikacji, np <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Głośność nie reguluje się w Mac? Odzyskaj programową kontrolę głośności" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego macOS przyciemnia głośność w niektórych modelach USB DAC</h2>
+
+<p>Po podłączeniu urządzenia audio USB macOS zapyta je, co może zrobić za pośrednictwem protokołu USB Audio Class (UAC). Częścią tego uścisku dłoni jest zestaw elementów sterujących „jednostką funkcyjną”, w tym regulacja głośności. Jeśli DAC deklaruje kontrolę głośności, macOS łączy ją z klawiszami głośności klawiatury i suwakiem paska menu. Jeśli DAC zadeklaruje, że nie ma regulowanej głośności przez hosta, macOS całkowicie wyszarzi suwak.</p>
+
+<p>Wiele wysokiej jakości DAC i wzmacniaczy robi dokładnie to drugie, celowo. Projektant założył, że do DAC będziesz dostarczać pełnowymiarowy, bit-perfekcyjny sygnał cyfrowy i kontrolować głośność za pomocą analogowego pokrętła głośności na samym urządzeniu. To tłumienie sygnału analogowego następuje po konwersji sygnału cyfrowego na analogowy, co pozwala uniknąć wyrzucania bitów i jest rzeczywiście preferowaną ścieżką audiofilską. To cecha, a nie wada.</p>
+
+<blockquote>Ogólna zasada: jeśli Twój DAC ma fizyczne pokrętło głośności, a suwak Mac jest wyszarzony, producent chce, abyś używał tego pokrętła. Zgodnie z projektem sygnał jest wysyłany w 100%.</blockquote>
+
+<h2>Kiedy wyszarzony suwak faktycznie stanowi problem</h2>
+
+<p>Odpowiedź „po prostu użyj pokrętła” nie sprawdza się w rzeczywistych konfiguracjach:</p>
+
+<ul>
+<li><strong>DAC nie ma pokrętła.</strong> Mnóstwo kompaktowych USB DAC, kluczy sprzętowych i profesjonalnych interfejsów nie zapewnia żadnej kontroli głośności ani kontroli hosta. Utknąłeś na poziomie ustawionym na poziomie wzmacniacza lub głośników aktywnych.</li>
+<li><strong>Pokrętło jest poza zasięgiem.</strong> Pulpit DAC umieszczony za monitorem lub jednostka zasilająca wzmacniacz o stałym wzmocnieniu oznacza, że regulacja głośności staje się fizyczną czynnością, a nie naciśnięciem klawisza.</li>
+<li><strong>Potrzebujesz równowagi dla poszczególnych aplikacji, a nie tylko poziomu głównego.</strong> Nawet doskonałe pokrętło sprzętowe to pojedyncza globalna kontrola. Nie może sprawić, że połączenie Zoom będzie cichsze od odtwarzanej muzyki ani przerwać grę po uruchomieniu powiadomienia.</li>
+</ul>
+
+<p>Żaden z nich nie został naprawiony przez macOS, ponieważ z punktu widzenia systemu operacyjnego urządzenie zachowuje się poprawnie. To jest uczciwe ograniczenie: jest to funkcja zgłaszana przez urządzenie i nie ma przełącznika w Ustawieniach systemu, który mógłby ją zastąpić.</p>
+
+<h2>Uczciwe obejścia, zanim cokolwiek zainstalujesz</h2>
+
+<p>Wypróbuj najpierw te, bo to nic nie kosztuje:</p>
+
+<ul>
+<li><strong>Użyj pokrętła sprzętowego lub głośności poniżej.</strong> Jeśli Twój DAC lub aktywne głośniki/wzmacniacz mają sterowanie, jest to najczystsza opcja i zachowuje pełną cyfrową rozdzielczość.</li>
+<li><strong>Sprawdź własną aplikację lub oprogramowanie sprzętowe DAC.</strong> Niektóre modele DAC (i jednostki zorientowane na gry) są dostarczane z panelem sterowania lub ustawieniem oprogramowania sprzętowego, które umożliwia głośność hosta. Jeśli istnieje opcja „wolumin USB” lub „wolumin programowy”, włączenie jej powoduje ponowne działanie suwaka macOS.</li>
+<li><strong>Wypróbuj inny tryb USB.</strong> Kilka urządzeń zgłasza różne możliwości w trybie „zgodnym z klasą” w porównaniu z zastrzeżonym trybem sterownika. Zainstalowanie lub usunięcie sterownika dostawcy może zmienić to, czy macOS widzi kontrolę głośności.</li>
+<li><strong>Poszukaj w Konfiguratorze MIDI Audio.</strong> Otwórz aplikację Audio MIDI Setup, wybierz urządzenie i sprawdź, czy pojawia się tam głośność główna czy na kanał. Czasami w tym panelu dostępny jest suwak, nawet jeśli pasek menu jest wyszarzony.</li>
+</ul>
+
+<p>Jeśli żaden z nich nie ma zastosowania, potrzebujesz tłumienia programowego po stronie Mac.</p>
+
+<h2>Programowa regulacja głośności z tłumieniem dla poszczególnych aplikacji</h2>
+
+<p>Jeśli sprzęt nie akceptuje polecenia dotyczącego głośności, pozostałą opcją jest wyciszenie dźwięku w oprogramowaniu, zanim dotrze on do DAC. To jest dokładnie to, co <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> robi. Znajduje się na pasku menu i zapewnia każdej działającej aplikacji własną niezależną głośność, wyciszenie, a nawet wzmocnienie, niezależnie od tego, czy DAC udostępnia kontrolę sprzętową.</p>
+
+<p>Aby użyć go dla wyszarzonego DAC:</p>
+
+<ul>
+<li>Zainstaluj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z Mac App Store i otwórz go z paska menu.</li>
+<li>Pozostaw DAC wybrany jako wyjście systemowe; możesz także skorzystać z szybkiego przełączania wyjścia SoundDial, aby przełączać się między DAC, głośnikami i słuchawkami bez konieczności zagłębiania się w Ustawienia systemowe.</li>
+<li>Ustaw poziomy dla poszczególnych aplikacji: opuść przeglądarkę, podnieś odtwarzacz muzyki, wycisz wszystko, czego nie chcesz. Każda aplikacja przesyła strumieniowo z wybraną głośnością, a mieszany wynik trafia do DAC.</li>
+<li>Zapisz profile głośności dla różnych scenariuszy (rozmowy lub słuchanie) i pozwól na automatyczne wyciszanie aplikacji działających w tle, gdy zacznie grać coś ważniejszego.</li>
+</ul>
+
+<h2>Uczciwy kompromis w zakresie jakości dźwięku</h2>
+
+<p>Tłumienie programowe zmniejsza poziom cyfrowy przed konwersją, więc teoretycznie odrzuca niewielką część rozdzielczości w porównaniu z głośnością analogową w samym DAC. W praktyce, na nowoczesnych ścieżkach 24-bitowych i wyższych, przy normalnym poziomie odsłuchu, redukcja jest znacznie niższa od wszystkiego, co jest słyszalne, a pełny zakres dynamiki DAC jest zachowywany w przypadku wszystkiego, co odtwarzane jest w pobliżu pełnej skali. Jeśli jesteś purystą i masz w zasięgu ręki dobre pokrętło analogowe, użyj tego pokrętła. Jeśli nie masz użytecznej kontroli nad sprzętem lub potrzebujesz równowagi dla poszczególnych aplikacji, której macOS po prostu nie może zapewnić, ilość oprogramowania jest właściwym kompromisem i jest lepsza od suwaka, który nic nie robi.</p>
+
+<p>SoundDial to jednorazowy zakup za 14,99 euro, w trybie piaskownicy, bez sterowników, rozszerzeń jądra i instalatorów DMG. Jeśli głośność USB DAC jest wyszarzona i sięgnięcie po pokrętło nie wchodzi w grę, <a href="https://apps.apple.com/app/id6772792641">zdobądź SoundDial na Mac App Store</a> i umieść roboczą kontrolę głośności z powrotem na pasku menu.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Ogranicz maksymalną głośność jednej głośnej aplikacji w Mac (chroń swój słuch)",
+    description: "macOS nie ma ograniczenia głośności dla poszczególnych aplikacji, więc jedna głośna aplikacja może wywołać pełną głośność systemu. Oto jak ustawić maksymalny poziom głośności dla pojedynczej aplikacji na Mac za pomocą miksera dla poszczególnych aplikacji i dlaczego ograniczenia sprzętowe mają znaczenie.",
+    date: "2026-07-23",
+    readTime: "5 min czytania",
+    content: `<p>macOS nie ma wbudowanego sposobu ograniczenia maksymalnej głośności jednej aplikacji, więc głośny program jest odtwarzany niezależnie od ustawienia suwaka systemowego. Aby ustawić limit dla pojedynczej aplikacji, użyj miksera na pasku menu dla poszczególnych aplikacji, np <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: przytrzymaj tę aplikację na, powiedzmy, 40 procent, podczas gdy głośność systemu pozostanie wyższa we wszystkich innych przypadkach.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ograniczenie maksymalnej głośności jednej głośnej aplikacji w Mac (chroń swój słuch)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Dlaczego jedna aplikacja może nagle wysadzić Cię w Mac</h2>
+
+<p>W macOS suwak głośności na pasku menu lub w Centrum sterowania to pojedynczy element sterujący obejmujący cały system. Każda aplikacja generuje te same dane wyjściowe na tym samym poziomie. W systemie operacyjnym nie ma wbudowanego miksera głośności dla poszczególnych aplikacji, tak jak Windows ma go od lat z panelem Mikser głośności.</p>
+
+<p>Ten projekt ma realne konsekwencje dla Twoich uszu. Jeśli ustawisz wysoki poziom głośności systemu, aby móc słyszeć cichy podcast lub cichą rozmowę wideo, a następnie przełączysz się na grę, powiadomienie Discord, stronę internetową z dużą ilością reklam lub film, który został zmasterowany znacznie głośniej, ta aplikacja będzie odtwarzana również na poziomie pełnego systemu. Rezultatem jest klasyczny jump-scare: nagła ściana dźwięku o głośności, która nigdy nie była przeznaczona dla tej konkretnej aplikacji.</p>
+
+<p>Dla każdego, kto ma szumy uszne, jest wrażliwy na dźwięki lub po prostu ceni swój słuch, problemem jest nieprzewidywalność. Nie próbujesz uciszyć wszystkiego. Próbujesz zagwarantować, że jedna konkretna głośna aplikacja nigdy nie przekroczy poziomu, który uznasz za bezpieczny.</p>
+
+<h2>Co macOS może, a czego nie może tutaj zrobić</h2>
+
+<p>Zanim cokolwiek zarekomenduję, pozwól mi być szczerym w kwestii ograniczeń.</p>
+
+<ul>
+<li><strong>Głośność systemowa</strong> obniża wszystko na raz. Ścisz go, aby okiełznać jedną aplikację, a Twoje ciche aplikacje staną się niesłyszalne.</li>
+<li><strong>Suwaki głośności w aplikacji</strong> istnieją w niektórych aplikacjach (odtwarzacze multimedialne, niektóre przeglądarki na karcie), ale nie w większości. Gra, rozmowa wideo lub aplikacja natywna często nie mają żadnej niezależnej regulacji głośności.</li>
+<li><strong>Sufit sprzętowy jest prawdziwy.</strong> Żadne oprogramowanie nie może wygenerować sygnału głośniejszego niż maksymalna wartość urządzenia wyjściowego. I odwrotnie, funkcja masteringu głośności wykonywana przez aplikację, a także DAC i słuchawki pozwalają ustawić, jak głośno będzie faktycznie odczuwać „100 procent”. Oprogramowanie może niezawodnie obniżyć poziom dla poszczególnych aplikacji, ale nie może zmienić fizyki słuchawek.</li>
+</ul>
+
+<p>Zatem uczciwym celem nie jest magiczne ograniczanie głośności na poziomie przetwornika. Jest to praktyczne i niezawodne tłumienie dla każdej aplikacji: trzymaj wybraną aplikację na stałym ułamku sygnału wyjściowego systemu, aby nigdy Cię nie zaskoczyła.</p>
+
+<h2>Jak ograniczyć głośność pojedynczej aplikacji za pomocą miksera dla poszczególnych aplikacji</h2>
+
+<p>Mikser głośności dla poszczególnych aplikacji przechwytuje dźwięk każdej aplikacji i umożliwia niezależne ustawienie jego poziomu. Oto przepływ pracy z <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, który znajduje się na pasku menu:</p>
+
+<ul>
+<li><strong>Otwórz mikser.</strong> Kliknij ikonę paska menu SoundDial. Zobaczysz listę wszystkich aplikacji aktualnie odtwarzających dźwięk, każda z własnym suwakiem.</li>
+<li><strong>Znajdź głośną aplikację.</strong> Znajdź aplikację, którą chcesz ograniczyć, na przykład grę, przeglądarkę lub narzędzie do wideokonferencji.</li>
+<li><strong>Ustaw jego sufit.</strong> Przeciągnij suwak tej aplikacji w dół do bezpiecznego poziomu, powiedzmy 35 do 50 procent. Ta aplikacja odtwarza teraz tę część mocy wyjściowej systemu, podczas gdy wszystkie inne aplikacje pozostają tam, gdzie były.</li>
+<li><strong>Zostaw głośność systemową tam, gdzie jej potrzebujesz.</strong> Utrzymuj suwak systemowy wystarczająco wysoko, aby umożliwić ciche aplikacje. Niezależnie od tego, ograniczona aplikacja pozostaje pod kontrolą.</li>
+</ul>
+
+<p>Ponieważ poziom jest przypisany do aplikacji, faktycznie ustawiasz maksimum dla tego jednego programu. Nawet jeśli próbuje odtworzyć najgłośniejszą zawartość, najgłośniejszy jest teraz wybrany przez Ciebie ułamek całości.</p>
+
+<h2>Przymocuj czapkę do profili</h2>
+
+<p>Pojedyncza ręczna regulacja pomaga, ale poziomy aplikacji mogą zostać zresetowane po zamknięciu i ponownym uruchomieniu. Aby stworzyć bezpieczną dla słuchu konfigurację, która przetrwa ponowne uruchomienie, użyj <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>profile głośności. Zapisz profil z preferowanymi poziomami dla poszczególnych aplikacji, na przykład „cichy wieczór z grami” z grą na poziomie 40 procent, aplikacją muzyczną na poziomie 70 procent i aplikacją do połączeń na 90 procent. Przywołaj to jednym kliknięciem, gdy usiądziesz. Sufit dla głośnej aplikacji powraca dokładnie tak, jak go ustawiłeś.</p>
+
+<p>Warto poznać jeszcze dwie funkcje dotyczące ochrony słuchu:</p>
+
+<ul>
+<li><strong>Wyciszenie dla poszczególnych aplikacji</strong> pozwala natychmiastowo uciszyć pojedynczego przestępcę, nie dotykając niczego innego, co jest przydatne w przypadku aplikacji, która spamuje głośnymi powiadomieniami.</li>
+<li><strong>Automatyczne wyciszanie</strong> automatycznie ścisza dźwięk w tle, gdy zaczyna się coś ważniejszego, dzięki czemu nie jesteś uwięziony między dwoma głośnymi źródłami jednocześnie.</li>
+</ul>
+
+<blockquote><p>Tłumienie oprogramowania jest naprawdę skuteczne w przypadku ograniczania aplikacji, ale jest to jeden poziom ochrony, a nie zabezpieczenie medyczne. Jeśli masz szumy uszne lub nadwrażliwość na dźwięk, sparuj sufit dla poszczególnych aplikacji z rozsądnymi ogólnymi poziomami odsłuchu i przerwami. Żadna aplikacja nie zastąpi ostrożnych nawyków związanych z głośnością.</p></blockquote>
+
+<h2>Uwaga na temat wzmocnienia i dlaczego jest oddzielna</h2>
+
+<p>Ten sam mikser dla poszczególnych aplikacji, który ogranicza głośną aplikację, może również zwiększyć głośność zbyt cichej aplikacji powyżej 100 procent, co jest przydatne w przypadku aplikacji, której głośność jest zbyt niska. To dwie strony tej samej kontroli: Ty decydujesz o poziomie każdej aplikacji, w górę lub w dół. W przypadku ochrony słuchu wystarczy wybrać kierunek „w dół” i przytrzymać go w tym miejscu.</p>
+
+<h2>Krótka wersja</h2>
+
+<p>macOS nie pozwala na samodzielne ograniczenie głośności pojedynczej aplikacji i jest to prawdziwa luka w systemie operacyjnym, a nie błąd użytkownika. Zamyka go mikser dla poszczególnych aplikacji na pasku menu: ustaw głośną aplikację na stałą część, zapisz ją w profilu i już nigdy więcej nie będzie Cię drażnić, podczas gdy inne aplikacje pozostaną słyszalne.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to jednorazowy zakup za 14,99 EUR na Mac App Store, w trybie piaskownicy, bez sterowników i DMG do zainstalowania. Jeśli celem jest ochrona uszu przed jedną nieprzewidywalną aplikacją, jest to najprostszy sposób na ustalenie tego pułapu i jego utrzymanie.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Różne balanse lewej/prawej strony w każdej aplikacji w Mac — czy to możliwe?",
+    description: "Czy dla każdej aplikacji w macOS możesz ustawić inny balans stereo lewy/prawy? Szczerze mówiąc, nie – nie natywnie i nie z większością narzędzi. Oto, co jest faktycznie możliwe i gdzie są prawdziwe ograniczenia.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Szczerze mówiąc, nie — macOS nie pozwala ustawić innego balansu stereo lewy/prawy dla każdej aplikacji i prawie żadne narzędzie innych firm nie udostępnia prawdziwego panoramowania dla każdej aplikacji. Możesz ustawić jedno globalne saldo dla swojego urządzenia wyjściowego i możesz sterować każdą aplikacją <em>objętość</em>, ale niezależne dla poszczególnych aplikacji <em>patelnia</em> nie jest funkcją udostępnianą przez macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Różne balanse lewej/prawej strony w zależności od aplikacji w Mac — czy to możliwe?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Równowaga a głośność – to nie to samo</h2>
+
+<p>Warto oddzielić dwa pojęcia, które często są mylone:</p>
+<ul>
+  <li><strong>Objętość</strong> — ogólnie jak głośna jest aplikacja. Jest to pojedynczy poziom stosowany do obu kanałów.</li>
+  <li><strong>Balans (panel)</strong> — sposób dystrybucji dźwięku pomiędzy lewym i prawym głośnikiem. Bilans „pełnego lewego” wysyła wszystko do lewego kanału i wycisza prawy.</li>
+</ul>
+
+<p>Osoby proszące o „różną równowagę w każdej aplikacji” zazwyczaj chcą jednej z dwóch rzeczy: przesunąć dźwięk jednej aplikacji do jednego ucha (powiedzmy rozmowa w lewym uchu, muzyka w prawym) lub skorygować różnicę słuchu lub słaby głośnik po jednej stronie – ale tylko w przypadku niektórych aplikacji. To są uzasadnione cele. Problem polega na tym, gdzie mieszka kontrola.</p>
+
+<h2>Dlaczego macOS nie może tego zrobić natywnie</h2>
+
+<p>macOS ma dokładnie jedną kontrolę balansu i działa na poziomie urządzenia wyjściowego. Znajdziesz to pod <strong>Ustawienia systemowe → Dźwięk → Wyjście</strong>, gdzie A <em>Równowaga</em> suwak przesuwa cały miks w lewo lub w prawo. Dotyczy to wszystkiego, na co ustawiony jest ten suwak <em>wszystko</em> kierowane do tego urządzenia — każda aplikacja, każdy dźwięk systemowy, wszystko na raz.</p>
+
+<p>W standardowym stosie audio macOS nie ma interfejsu API, który mówi „renderuj dźwięk tej aplikacji po lewej stronie, tamta aplikacja jest po prawej”. Aplikacje przekazują dźwięk do systemu już zmiksowanego, a system stosuje jeden balans główny w drodze do głośników. Zatem warstwa, w której chcesz przesuwać poszczególne aplikacje, po prostu nie jest widoczna w systemie operacyjnym. Jest to prawdziwe ograniczenie systemu operacyjnego, a nie coś, co narzędzie paska menu może uprzejmie obejść.</p>
+
+<blockquote>W przeciwieństwie do aplikacji <em>objętość</em> — którego natywnie brakuje również w macOS, ale które aplikacje można wdrożyć, dotykając strumienia audio — na aplikację <em>równowaga</em> wymagałoby niezależnego ponownego panoramowania strumienia każdej aplikacji, a ten hak nie jest dostępny dla aplikacji w piaskownicy.</blockquote>
+
+<h2>Co potrafi SoundDial — i szczerze mówiąc, czego nie robi</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> zapewnia kontrolę z poziomu aplikacji, której brakuje macOS: niezależność <strong>objętość</strong> dla każdej działającej aplikacji, na aplikację <strong>wyciszyć</strong>, wolumen na aplikację <strong>wzmocnienie</strong> powyżej 100%, możliwa do zapisania objętość <strong>profile</strong>, automatyczne wyciszanie i szybkie przełączanie wyjść z paska menu.</p>
+
+<p>Aby być z tobą szczerym: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> kontroluje każdą aplikację <em>głośność i wyciszenie</em>, a nie stereo dla poszczególnych aplikacji <em>panoramowanie</em>. Nie wyśle ​​Safari do lewego ucha i Spotify do prawego. Jeśli ktoś powie Ci, że mikser na pasku menu zapewnia prawdziwy balans L/R dla poszczególnych aplikacji w macOS, bądź sceptyczny — to nie jest kontrola, którą zapewnia system operacyjny. Tym, co SoundDial naprawdę rozwiązuje, jest znacznie częstsza frustracja: jedna aplikacja jest za głośna lub za cicha w stosunku do drugiej.</p>
+
+<h2>Prawdziwe obejścia równowagi dla poszczególnych aplikacji</h2>
+
+<p>Jeśli naprawdę potrzebujesz podziału dźwięku obok siebie, oto uczciwe opcje, z grubsza od najprostszych do najbardziej skomplikowanych:</p>
+
+<ul>
+  <li><strong>Saldo globalne (wszystkie aplikacje):</strong> Użyj opcji Ustawienia systemowe → Dźwięk → Wyjście → Balans. To jedyna wbudowana opcja, która ma wpływ na każdą aplikację. Przydatne do korygowania asymetrii pomieszczenia lub słuchu, bezużyteczne do izolowania jednej aplikacji.</li>
+  <li><strong>Oddzielne urządzenia wyjściowe:</strong> Jest to najbardziej zbliżone do rzeczywistego salda na aplikację. Skieruj aplikację A do jednego urządzenia wyjściowego i aplikację B do drugiego, a następnie ustaw równowagę każdego urządzenia niezależnie. macOS pozwala wybrać urządzenie wyjściowe w niektórych aplikacjach (a przeglądarki/aplikacje komunikacyjne często udostępniają własny selektor wyjściowy). Jeśli aplikacja A wskazuje na urządzenie przesunięte w lewo, a aplikacja B na urządzenie przesunięte w prawo, w efekcie uzyskujesz równowagę dla poszczególnych aplikacji — pod warunkiem, że obie aplikacje pozwalają wybrać swoje dane wyjściowe.</li>
+  <li><strong>Narzędzia do wirtualnego routingu audio:</strong> Narzędzia tworzące urządzenia wirtualne i wewnętrzny mikser mogą w niektórych konfiguracjach kierować określone aplikacje do określonych kanałów. Jest to potężne, ale kłopotliwe, dodaje komponent w stylu sterownika i jest przesadą dla większości ludzi. To domena streamerów i inżynierów dźwięku, a nie zwykłe rozwiązanie typu „rozmowa jednym uchem”.</li>
+  <li><strong>Podział sprzętu:</strong> Jeśli chodzi o fizyczne głośniki lub różnicę w słyszeniu, mikser sprzętowy lub interfejs audio z kontrolą poszczególnych kanałów całkowicie omijają problem oprogramowania.</li>
+</ul>
+
+<h2>Kiedy objętość przypadająca na aplikację jest rzeczywiście tym, czego potrzebujesz</h2>
+
+<p>Wiele żądań typu „Chcę innego salda dla każdej aplikacji” tak naprawdę oznacza, że „jedna aplikacja zagłusza drugą”. Jeśli celem jest rozmowa wideo, którą można usłyszeć przy muzyce, lub gra, która jest zbyt głośna w pobliżu czatu Discord, równowaga nie jest tu właściwym narzędziem – lecz niezależna głośność. Dokładnie z tym radzi sobie mikser per-aplikacja, bez wirtualnych sterowników i gimnastyki routingu.</p>
+
+<p>Zatem uczciwe podsumowanie: prawdziwy balans lewej/prawej aplikacji dla każdej aplikacji nie jest funkcją macOS i żadna aplikacja miksera nie udaje tego w przekonujący sposób. Twoje prawdziwe trasy to suwak równowagi globalnej lub routing danych wyjściowych dla poszczególnych aplikacji do oddzielnie przeglądanych urządzeń. Ale jeśli podstawowym bólem jest względna głośność, jest to problem rozwiązany.</p>
+
+<p>Chcesz niezależnej głośności, wyciszenia i wzmocnienia dla każdej aplikacji na swoim Mac, z możliwością zapisania profili i bez sterowników? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Zdobądź SoundDial na Mac App Store</a> — 14,99 €, jednorazowo, w trybie piaskownicy.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Dlaczego niektóre aplikacje w Mac są o wiele głośniejsze od innych? (I jak je wyrównać)",
+    description: "Aplikacje brzmią zupełnie inaczej na Mac, ponieważ każda z nich jest zmasterowana do własnej docelowej głośności, a macOS nie ma wbudowanej regulacji głośności dla poszczególnych aplikacji. Oto dlaczego tak się dzieje i jak wyrównać swoje aplikacje.",
+    date: "2026-07-23",
+    readTime: "6 min czytania",
+    content: `<p>Aplikacje brzmią zupełnie inaczej na Twoim Mac, ponieważ każda z nich została napisana, zmasterowana i znormalizowana do własnego docelowego poziomu głośności, a macOS nie ma wbudowanej regulacji głośności dla poszczególnych aplikacji, która umożliwiałaby ich pogodzenie. Spotify, YouTube, Zoom i alerty systemowe przechodzą przez ten sam główny suwak, więc utkniesz w ciągłym poruszaniu się w górę i w dół.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Dlaczego niektóre aplikacje na Mac działają o wiele głośniej niż inne? (I jak je wyrównać)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>To nie jest Twój Mac — to sam dźwięk</h2>
+
+<p>Pojedynczy suwak głośności systemu w macOS kontroluje ostateczny poziom wyjściowy wszystkiego. Nie wpływa na względną głośność zapisaną w strumieniu audio każdej aplikacji. Ta wartość bazowa jest ustalana na długo przed tym, zanim dźwięk dotrze do głośników i różni się znacznie w zależności od źródła.</p>
+
+<p>Trzy rzeczy decydują o tych różnicach:</p>
+
+<ul>
+<li><strong>Poziomy opanowania.</strong> Mocny popowy utwór jest zmasterowany znacznie lepiej niż ciche nagranie akustyczne lub podcast mówiony. Film zmiksowany na potrzeby kina celowo wycisza szepty i głośno wybuchy — to zakres dynamiki, a to oznacza, że ​​średni poziom jest niski.</li>
+<li><strong>Cele normalizacji głośności.</strong> Platformy streamingowe dostosowują odtwarzanie do docelowej wartości mierzonej w LUFS (jednostki głośności w stosunku do pełnej skali). Spotify ma na celu około -14 LUFS, YouTube około -14 LUFS, Apple Music około -16 LUFS. Aplikacja lub gra do wideokonferencji wykorzystuje wyłącznie własne korzyści. Dwie aplikacje „znormalizowane” do różnych celów nigdy nie będą do siebie pasować.</li>
+<li><strong>Brak poziomowania między aplikacjami.</strong> Każda aplikacja normalizuje tylko własną treść. Nic nie koordynuje Spotify z Zoom z grą przeglądarkową. macOS po prostu je sumuje i wysyła miks.</li>
+</ul>
+
+<h2>Dlaczego LUFS ma znaczenie (w prostych słowach)</h2>
+
+<p>Poziom szczytowy informuje o najgłośniejszym momencie sygnału. LUFS informuje Cię, jak głośno coś faktycznie <em>czuje</em> z upływem czasu, ważone pod kątem działania ludzkiego słuchu. To rozróżnienie powoduje, że podcast i utwór taneczny mogą osiągnąć ten sam szczyt, a jednocześnie odczuwać zupełnie inną głośność – utwór spędza znacznie więcej czasu w pobliżu sufitu.</p>
+
+<blockquote>Cichszy cel LUFS oznacza większy zapas mocy i większy zakres dynamiki. Głośniejszy cel oznacza bardziej spójną, „zawsze pełną” ścianę dźwięku. Żadne z nich nie jest złe — ale gdy aplikacje celują w różne liczby, czujesz, że jedna aplikacja krzyczy, a druga mamrocze.</blockquote>
+
+<p>To jest prawdziwa przyczyna. To nie jest błąd, który można załatać. To fizyka wytwarzania i dostarczania dźwięku, zwielokrotniona w kilkunastu aplikacjach, które nigdy nie zostały zaprojektowane tak, aby się ze sobą zgadzały.</p>
+
+<h2>Lukę macOS pozostawia otwartą</h2>
+
+<p>Oto część, która naprawdę frustruje ludzi: Windows od lat dostarcza mikser głośności dla poszczególnych aplikacji. Możesz przeciągnąć jedną aplikację w dół i przesunąć inną w górę bezpośrednio z paska zadań. macOS nigdy tego nie uwzględniało. Preferencje dźwięku umożliwiają jedynie wybór głównego suwaka i urządzenia wyjściowego.</p>
+
+<p>Zatem w przypadku Mac Twoje możliwości były tradycyjnie ograniczone:</p>
+
+<ul>
+<li>Dostosuj wewnętrzny suwak głośności każdej aplikacji – jeśli w ogóle taki posiada. Wiele aplikacji (Zoom, większość gier, dzwonki systemowe) nie udostępnia żadnej użytecznej.</li>
+<li>Przesuń suwak główny ręcznie za każdym razem, gdy zmieniasz kontekst.</li>
+<li>Całkowicie wycisz jedną rzecz, co jest tępą poprawką, która w rzeczywistości niczego nie równoważy.</li>
+</ul>
+
+<p>Żadne z nich nie zapamiętuje Twoich preferencji. Zamknij i uruchom ponownie aplikację, a wrócisz do punktu wyjścia.</p>
+
+<h2>Praktyczne rozwiązanie: zapamiętana głośność na aplikację</h2>
+
+<p>Ponieważ nie można zmusić każdej usługi do ponownego zremasterowania swojego katalogu, praktycznym rozwiązaniem jest dodanie brakującej warstwy macOS, która nigdy nie została wysłana: niezależny, zapamiętywany wolumen dla każdej aplikacji. Właśnie to <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> robi. Znajduje się na pasku menu i zapewnia każdej działającej aplikacji własny suwak, dzięki czemu możesz przesunąć głośną aplikację w dół i przesunąć cichą w górę, aż osiągną poziom, który będzie nawet dla Ciebie odpowiedni.</p>
+
+<p>Aby wyrównać swoje aplikacje w praktyce:</p>
+
+<ul>
+<li>Otwórz <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> z paska menu, a zobaczysz każdą aktywną aplikację z własną kontrolą.</li>
+<li>Zmniejsz wszystko, co gra – zwykle jest to aplikacja muzyczna lub wideo nagrana na gorąco – do około 60–70%.</li>
+<li>Pozostaw cichą aplikację referencyjną (często aplikację do połączeń lub podcast) w trybie 100% i korzystaj z poszczególnych aplikacji <strong>wzmocnienie</strong> aby przekroczyć 100%, jeśli nadal jest zbyt miękki.</li>
+<li>Ustaw poziomy raz. SoundDial zapamiętuje głośność każdej aplikacji, więc saldo utrzymuje się przy następnym otwarciu.</li>
+</ul>
+
+<p>Dwie funkcje wykonują tutaj większość pracy związanej z poziomowaniem. <strong>Wzmocnienie</strong> ma znaczenie, ponieważ wiele aplikacji jest po prostu zbyt cichych nawet przy maksymalnej głośności — suwak dla poszczególnych aplikacji, który jedynie zmniejsza głośność, nie jest w stanie ich uratować, ale taki, który może wzmocnić powyżej 100%, może. I <strong>profile głośności</strong> pozwalają zapisać cały zestaw poziomów — powiedzmy profil „koncentruj się na muzyce nisko, głośno rozmawiaj” do pracy w porównaniu z innym miksem do gier — i przełączaj się między nimi natychmiastowo, zamiast dostosowywać aplikację po aplikacji.</p>
+
+<h2>Gdzie to najbardziej pomaga</h2>
+
+<p>Najczęstszą ulgą jest przeskok pomiędzy muzyką a spotkaniem: strumieniowe przesyłanie muzyki nagranej głośno, a następnie aplikacja do połączeń, która w porównaniu z tym brzmi słabo. Ustaw aplikację do rozmów wyżej (lub wzmocnij), ścisz muzykę, a zaskakująca zmiana głośności zniknie. To samo dotyczy cichej gry przeglądarkowej przeciwko głośnemu odtwarzaczowi wideo lub alertów systemowych, które przeskakują wszystko.</p>
+
+<p>Aby było jasne, co do limitów: SoundDial równoważy to, co generują aplikacje. Nie zremasteruje źle wyprodukowanego utworu i nie będzie w stanie wydobyć szczegółów w dźwięku zmiksowanym w bardzo szerokim zakresie dynamiki. Zapewnia jedyną kontrolę, którą pominięto w macOS — stałe poziomy dla poszczególnych aplikacji, które pozostają niezmienione.</p>
+
+<p>Masz dość korzystania z głównego suwaka za każdym razem, gdy przełączasz aplikacje? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> to jednorazowa opłata za Mac App Store wynosząca 14,99 EUR — w trybie piaskownicy, bez sterowników, bez DMG — i w końcu nadaje każdej aplikacji własny, zapamiętywany wolumin.</p>`,
   },
 };

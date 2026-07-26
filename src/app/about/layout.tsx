@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About — Eduard Bruch",
+  title: "About — Eduard Bruch (Angel Company)",
   description:
-    "Eduard Bruch — actor and software developer based in Hamburg, Germany. Born 2003, fluent in German, English, and Russian.",
+    "Eduard Bruch — an independent software developer in Hamburg. One person building native iOS & macOS apps end to end, under the name Angel Company.",
 };
 
 export default function AboutLayout({

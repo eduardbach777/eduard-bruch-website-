@@ -40,7 +40,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet construir un entorn de gravació net controlant cada aplicació de manera independent:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial configuració de podcasting — àudio convidat, monitoratge i notificacions a nivells independents" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configuració de podcasting — àudio convidat, monitoratge i notificacions a nivells independents" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Perfil de gravació</h3>
 <ul>
@@ -98,7 +98,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Cada aplicació dóna el seu propi control lliscant de volum amb <strong>Increments de l'1%</strong> del 0% al 200%. Això són 200 nivells de precisió per aplicació, en comparació amb els 16 (o 64 amb el modificador) passos de macOS a tot el sistema.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial control de volum de gra fi per aplicació amb un 1% de precisió en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial control de volum de gra fi per aplicació amb un 1% de precisió en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Configura el volum del sistema a un nivell base moderat (50-60%) i després utilitza SoundDial per ajustar cada aplicació:</p>
 <ul>
@@ -149,7 +149,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> dóna a Slack el seu propi control lliscant de volum, separat de la resta d'aplicacions. Com que l'àudio de la concentració i els sons de notificació de Slack formen part de la mateixa aplicació, el control lliscant controla ambdós — però en realitat això és el que vols la majoria de vegades.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlar el volum de Slack de manera independent durant un huddle mentre la música sona a un nivell diferent" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlar el volum de Slack de manera independent durant un huddle mentre la música sona a un nivell diferent" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Configuració optimitzada per a l'huddle</h3>
 <ul>
@@ -198,7 +198,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> té un <strong>Volum per defecte configurable</strong> Per a noves aplicacions. A la configuració, configures quin nivell de volum han de començar les aplicacions detectades — per exemple, al 70%. La primera vegada que una aplicació s'inicia i produeix àudio, SoundDial el posa al 70% en lloc del 100%.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial configuració de volum per defecte — les aplicacions noves comencen a un nivell configurat en lloc de a tot volum" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configuració de volum per defecte — les aplicacions noves comencen a un nivell configurat en lloc de a tot volum" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això significa:</p>
 <ul>
@@ -253,7 +253,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Cada aplicació del teu Mac té el seu propi control de volum. Posa les aplicacions de notificacions baixes, la música a un nivell còmode i les trucades a tot volum — tot de manera independent. Desa configuracions com a perfils i canvia amb un sol clic.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — control de volum per aplicació per gestionar totes les Mac fonts d'àudio de manera independent" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control de volum per aplicació per gestionar totes les Mac fonts d'àudio de manera independent" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Aconsegueix SoundDial a la Mac App Store</a> — 14,99 € compra única, sense subscripció, macOS 14,2+.</p>
 `,
@@ -304,7 +304,7 @@ export const caArticles: ArticleSet = {
 
 <p>Si la configuració està al màxim i els participants encara són massa silenciosos, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> et permet potenciar Webex a <strong>200%</strong>. Això amplifica l'àudio de la trucada més enllà del màxim integrat de Webex — útil quan un participant té un micròfon defectuós o quan el processament d'àudio de Webex redueix massa el senyal.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de trucades Cisco Webex més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de trucades Cisco Webex més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial també ajuda durant les reunions Webex consecutives: utilitza l'auto-ducking per baixar automàticament la música de fons quan comença cada reunió, i restaura-la durant les pauses. Desa un perfil de volum "Reunions" per establir instantàniament el teu equilibri d'àudio preferit per a la jornada laboral.</p>
 
@@ -347,7 +347,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Posa totes les aplicacions en un únic panell de barra de menú amb controls de volum independents. Ambdues fonts d'àudio, una al costat de l'altra, cadascuna amb el seu propi nivell. Ajusta'n un sense tocar l'altre.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mostrant dues fonts d'àudio a nivells de volum diferents a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mostrant dues fonts d'àudio a nivells de volum diferents a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Exemples de configuració:</p>
 
@@ -411,7 +411,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet crear la configuració perfecta per a la nit tardana:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial configuració de pel·lícules nocturnes — aplicació de streaming a volum moderat, notificacions silenciades" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configuració de pel·lícules nocturnes — aplicació de streaming a volum moderat, notificacions silenciades" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Perfil de pel·lícules nocturnes</h3>
 <ul>
@@ -473,7 +473,7 @@ export const caArticles: ArticleSet = {
 
 <p>Fins i tot si el volum del sistema es reinicia després de dormir, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> protegeix el teu <em>per aplicació</em> Equilibri de volum. És <strong>Memòria de volum</strong> La funció desa el volum de cada aplicació de manera independent i el restaura després de despertar-se, reiniciar o reiniciar l'aplicació.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial preservar els nivells de volum per aplicació després de Mac cicles de son i despertar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial preservar els nivells de volum per aplicació després de Mac cicles de son i despertar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Així que, fins i tot si macOS reinicia el volum del sistema al 80% després de dormir, el teu saldo per aplicació es manté intacte:</p>
 <ul>
@@ -518,7 +518,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet establir volums exactes per a cada aplicació de manera independent:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separar la sortida DAW de Discord i les pistes de referència a macOS per a la producció musical" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separar la sortida DAW de Discord i les pistes de referència a macOS per a la producció musical" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Configuració de producció</h3>
 <ul>
@@ -586,7 +586,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> et permet potenciar Apple Music a <strong>200%</strong>. El senyal d'àudio s'amplifica a nivell de sistema abans d'arribar als altaveus o auriculars. Només Apple Music fa més volum — Zoom, Slack i el teu navegador es mantenen als nivells actuals.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum d'Apple Music més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum d'Apple Music més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això també és útil per al problema contrari: si Apple Music està massa fort respecte a la teva trucada de Zoom, baixa Apple Music al 25% en SoundDial mantenint Zoom al 100%. El control per aplicació significa que mai hauràs de comprometre el volum d'una aplicació pel d'una altra.</p>
 
@@ -666,7 +666,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> costa 14,99 € — una sola vegada, no una subscripció. Per posar-ho en context, això són menys de dos mesos d'una subscripció a Spotify, per a una eina que faràs servir cada dia. Costa menys de la meitat del preu de SoundSource (39 $), i inclou funcions (perfils, auto-ducking) que SoundSource no té.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — mesclador de volum fiable per a Mac amb perfils, auto-ducking i un augment del 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — mesclador de volum fiable per a Mac amb perfils, auto-ducking i un augment del 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Disponible a la <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — Revisat per Apple, sandbox, sense controladors de sistema. 14,99 € únic, sense subscripció, macOS 14,2+.</p>
 `,
@@ -700,7 +700,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> posa tant Spotify com Discord al mateix panell amb controls de volum independents. Estableix la proporció que vols i deixa-la:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial equilibrar Spotify i Discord a diferents nivells de volum a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial equilibrar Spotify i Discord a diferents nivells de volum a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>La proporció d'or per a música + xat de veu</h3>
 <p>Basat en com la majoria de gent utilitza això:</p>
@@ -805,7 +805,7 @@ export const caArticles: ArticleSet = {
 
 <p>Tots cinc estan disponibles amb <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — una aplicació nativa macOS barra de menú que afegeix el mesclador de volum que Apple mai va construir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — control de volum per aplicació, perfils, auto-ducking i augment del 200% per a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control de volum per aplicació, perfils, auto-ducking i augment del 200% per a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Part 6: Volum per aplicació amb SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const caArticles: ArticleSet = {
 
 <p>Això és una amplificació extrema i introduirà distorsió en alguns continguts, però per a material d'origen extremadament silenciós pot ser el que necessites.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de VLC a nivell de sistema a macOS per a fitxers de vídeo silenciosos" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de VLC a nivell de sistema a macOS per a fitxers de vídeo silenciosos" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Més important encara, SoundDial et permet potenciar VLC <strong>independentment</strong>. El teu reproductor de música, navegador i aplicacions de comunicació es mantenen als nivells normals mentre que només VLC puja de volum. Si puges VLC al 180% en SoundDial, Spotify no canvia. Això és una cosa que el turbo integrat del VLC no pot fer — el turbo del VLC només afecta el VLC, però el volum d'un sol sistema de macOS encara lliga la resta.</p>
 
@@ -924,7 +924,7 @@ export const caArticles: ArticleSet = {
   <li><strong>Fàcil d'activar:</strong> Activa o desactiva l'auto-ducking a la configuració de SoundDial. Quan no el vulguis, desactiva'l. Quan el vulguis recuperar, activat-lo.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial auto-ducking configurable — controla exactament quanta quantitat d'àudio en segon pla es redueix durant les trucades" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial auto-ducking configurable — controla exactament quanta quantitat d'àudio en segon pla es redueix durant les trucades" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>La diferència: en lloc que una aplicació decideixi que la teva música ha d'anar a zero en cada trucada, tu decideixes que hauria d'anar al 25%. En comptes de perdre el control, el guanyes. I en comptes d'intentar desactivar una funció oculta en tres aplicacions diferents, tens un interruptor en un sol lloc.</p>
 
@@ -987,7 +987,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> augmenta el volum de qualsevol aplicació fins a <strong>200%</strong>. Si Spotify a través dels teus auriculars Bluetooth és massa silenciós, arrossega el seu control lliscant al 160%. El senyal d'àudio s'amplifica abans d'arribar als auriculars, duplicant efectivament el volum disponible per a aquella aplicació.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de l'aplicació per a auriculars Bluetooth a Mac amb controls lliscants per aplicació al 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de l'aplicació per a auriculars Bluetooth a Mac amb controls lliscants per aplicació al 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>L'augment per aplicació és millor que un augment de volum a nivell de sistema perquè només pots amplificar l'aplicació silenciosa. Si el teu podcast és tranquil però la música està bé, puja l'aplicació del podcast al 170% mantenint Spotify al 80%. Cada aplicació es manté al nivell correcte.</p>
 
@@ -1024,7 +1024,7 @@ export const caArticles: ArticleSet = {
 
 <p>Això és exactament el que <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> sí. Configura cada aplicació al nivell que vulguis que els teus espectadors escoltin:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial equilibrar els nivells d'àudio del joc, Discord i música per a la transmissió d'OBS a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial equilibrar els nivells d'àudio del joc, Discord i música per a la transmissió d'OBS a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Configuració típica d'àudio en streaming</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> té un <strong>Memòria de volum</strong> Característica. Quan està activat, desa el nivell de volum de cada aplicació mitjançant el seu identificador de paquet. Quan l'aplicació tanca i es reinicia — tant si la reinicies, es bloqueja com si reinicies el Mac — SoundDial la restaura automàticament al volum que ha guardat.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial memòria de volum — recorda i restaura automàticament els nivells de volum per aplicació a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial memòria de volum — recorda i restaura automàticament els nivells de volum per aplicació a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Com funciona</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const caArticles: ArticleSet = {
 
 <p>La solució universal és amplificar la teva aplicació de podcasts més enllà del límit del 100% d'macOS. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Dóna a cada aplicació un control lliscant de volum fins a <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum d'Apple Podcasts al 180% a Mac per a episodis tranquils de podcast" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum d'Apple Podcasts al 180% a Mac per a episodis tranquils de podcast" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Configura Apple Podcasts o la teva aplicació de podcasts al 160-180% mantenint Spotify Music al 40% i Slack al 15%. El podcast es fa més fort sense fer que la resta soni dolorosament fort. Quan tornis a la música, simplement deixa l'aplicació del podcast a la normalitat — o deixa que la memòria de volum de SoundDial la recordi automàticament.</p>
 
@@ -1189,7 +1189,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Cada aplicació dóna el seu propi control lliscant de volum, així pots construir la configuració d'àudio d'estudi ideal:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial configuració de l'estudiant — classe a tot volum, música d'estudi baixa, notificacions apagades" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configuració de l'estudiant — classe a tot volum, música d'estudi baixa, notificacions apagades" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Perfil de la conferència</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const caArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Has actualitzat macOS. Tot semblava anar bé — fins que vas notar que no hi havia cap so. O el so és crepitant. O el volum està encallat. O el teu dispositiu de sortida d'àudio ha desaparegut. Els problemes d'àudio després de l'actualització passen amb gairebé totes les macOS llançaments, i van des d'una mica molestos fins a completament silenciosos.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Aquí tens una guia sistemàtica per arreglar l'àudio Mac després d'una actualització macOS, que cobreix tots els problemes i solucions coneguts.</p>
 
@@ -1335,7 +1338,7 @@ export const caArticles: ArticleSet = {
   <li>Spotify torna al 30%, Zoom al 100%, Slack al 15% — perfectament restaurat</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial drecera mute-all — Control+Opció+M per silenciar i desactivar totes les aplicacions amb restauració de volum" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial drecera mute-all — Control+Opció+M per silenciar i desactivar totes les aplicacions amb restauració de volum" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>La diferència respecte a la tecla de silenci del sistema:</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Dóna a Chrome el seu propi control lliscant de volum que arriba fins a <strong>200%</strong>. Com que Google Meet funciona dins de Chrome, potenciar Chrome impulsa Meet. Arrossega el control lliscant al 150% o 180% i l'àudio de la trucada s'amplifica en temps real.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de Google Meet (Chrome) més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de Google Meet (Chrome) més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això també funciona amb Safari si utilitzes Meet in Safari. SoundDial controla cada navegador de manera independent — augmenta Safari per a Meet mentre mantén Chrome en volum normal per a la resta.</p>
 
@@ -1450,7 +1453,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Cada aplicació dóna el seu propi control de volum. Pots configurar les aplicacions amb moltes notificacions a un nivell subtil que es noti però no desconcerti, mantenint les aplicacions multimèdia a un volum d'escolta còmode.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separar el volum de l'aplicació de notificacions del volum de l'aplicació multimèdia a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separar el volum de l'aplicació de notificacions del volum de l'aplicació multimèdia a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Exemple de configuració</h3>
 <p><strong>Aplicacions multimèdia:</strong></p>
@@ -1523,7 +1526,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet augmentar el volum de FaceTime fins a <strong>200%</strong>. Obre el panell de la barra de menú, busca FaceTime i arrossega el seu control lliscant més enllà del 100%. L'àudio de la trucada s'amplifica en temps real sense afectar cap altra aplicació.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de trucades de FaceTime més enllà del 100% a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de trucades de FaceTime més enllà del 100% a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial també ajuda a l'inrevés: si el to de trucada o les notificacions de FaceTime són massa forts durant el temps d'enfocament, baixa FaceTime al 20% o silencia'l mentre continues sonant la música. Un clic per silenciar, un clic per desactivar el silenci.</p>
 
@@ -1577,7 +1580,7 @@ export const caArticles: ArticleSet = {
 <h3>Silencia totes les aplicacions: Control + Opció + M</h3>
 <p>Premsa <strong>⌃⌥M</strong> per silenciar instantàniament l'àudio de totes les aplicacions. Prem-lo de nou per desactivar el silenci de tot, restaurant cada aplicació al seu volum anterior. Aquest és un botó de "silenci instantani" que és més ràpid que agafar la tecla de silenci — i a diferència de la tecla de silenci del sistema, restaura els volums per aplicació quan desactives.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial dreceres de teclat — Control+Opció+S per alternar, Control+Opció+M per silenciar-ho tot" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial dreceres de teclat — Control+Opció+S per alternar, Control+Opció+M per silenciar-ho tot" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>El flux de treball impulsat pel teclat</h2>
 
@@ -1642,7 +1645,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> utilitza l'API moderna Audio Tap — sense dispositiu d'àudio virtual, sense controlador del sistema, sense extensions del nucli. Accedeix directament al flux d'àudio de cada aplicació utilitzant l'API compatible amb Apple, cosa que significa que no es trenca quan macOS actualitza.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — una alternativa a música de fons que no instal·la dispositius d'àudio virtuals" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — una alternativa a música de fons que no instal·la dispositius d'àudio virtuals" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>El que obtens amb la música de fons:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const caArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — una alternativa més lleugera i enfocada a SoundSource amb perfils de volum i auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — una alternativa més lleugera i enfocada a SoundSource amb perfils de volum i auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Quina hauries de triar?</h2>
 
@@ -1809,7 +1812,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et dona controls de volum per aplicació amb un control detallat — cada lliscador es mou en increments de l'1% del 0% al 200%. Pots posar Spotify al 5% i Zoom al 40% al mateix temps. El nivell de control és molt més fi que els 16 passos del sistema d'macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial control de volum detallat per aplicació amb increments de l'1% a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial control de volum detallat per aplicació amb increments de l'1% a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Per a l'ús nocturn dels auriculars:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const caArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>Un AirPod sona bé. L'altra és notablement més silenciosa. La música sembla descentrada. Les veus semblen venir d'un costat. Aquesta és una de les queixes més comunes dels AirPods, i normalment té una solució senzilla.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Neteja els teus AirPods</h2>
 
@@ -1948,7 +1954,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet potenciar qualsevol aplicació a <strong>200%</strong>. Si Safari o l'aplicació de Netflix són massa silencioses, arrossega el seu control lliscant més enllà del 100%. L'àudio s'amplifica abans d'arribar als altaveus, duplicant efectivament el volum màxim només per a aquesta aplicació.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pujant l'àudio de Netflix al 180% en Mac per a diàlegs més clars i àudio en streaming" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pujant l'àudio de Netflix al 180% en Mac per a diàlegs més clars i àudio en streaming" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això és especialment útil quan:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Omple aquest buit donant a cada aplicació el seu propi control lliscant de volum. Configura l'àudio de la teva feina remota exactament com vols:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial configuració d'àudio de treball remot — diferents nivells de volum per a Zoom, Spotify i Slack a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configuració d'àudio de treball remot — diferents nivells de volum per a Zoom, Spotify i Slack a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Desa perfils per a cada mode</h3>
 
@@ -2126,7 +2132,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Dóna al teu navegador el seu propi control lliscant de volum, independent de qualsevol altra aplicació. Redueix Safari al 30% mantenint Zoom al 100%. Silencia completament Chrome mentre segueixes reproduint Spotify. Un clic.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlar el volum del navegador de manera independent d'altres aplicacions a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlar el volum del navegador de manera independent d'altres aplicacions a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Aquesta és la manera més ràpida de gestionar una pestanya sorpresa que es reprodueix automàticament: en comptes de buscar quina pestanya fa soroll, fes clic SoundDial a la barra de menú i silencia el navegador. Tot la resta segueix sonant. Quan hagis trobat i tancat la pestanya problemàtica, desactiva el silenci del navegador i el seu volum torna al lloc on era.</p>
 
@@ -2168,7 +2174,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Dóna a Discord el seu propi control lliscant de volum a la barra de menú, independent de qualsevol altra aplicació. Configura Discord exactament al nivell que vols — 100% per a xat de veu clar, 40% per a un fons subtil, o silenciat completament — sense tocar el joc, la música ni res més.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlar el volum de Discord de manera independent del joc i la música a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlar el volum de Discord de manera independent del joc i la música a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Configuracions comunes</h3>
 
@@ -2244,7 +2250,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Inclou un selector de dispositius de sortida directament a la barra de menú — juntament amb els controls lliscants de volum per a cada aplicació. Un clic per obrir SoundDial, un clic per canviar de dispositiu. No cal remenar a la configuració del sistema.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial amb commutació de dispositius de sortida d'àudio i control de volum per aplicació en un únic panell de la barra de menús" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial amb commutació de dispositius de sortida d'àudio i control de volum per aplicació en un únic panell de la barra de menús" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>L'avantatge de canviar de dispositiu dins SoundDial: pots canviar la sortida <em>i</em> Ajusta els volums per aplicació al mateix panell. Canvia als AirPods i immediatament baixa Spotify mentre augmentes la trucada — tot sense sortir del popover.</p>
 
@@ -2262,6 +2268,9 @@ export const caArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>Estàs escoltant música i sents un pop. Llavors un cruixit. Després hi ha un entrebancari on l'àudio es talla durant una fracció de segon i torna. No és la cançó — és la teva Mac. El cruixit d'àudio en macOS és esgotadorament comú, i té almenys sis causes diferents.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Aquesta guia cobreix totes les causes conegudes de crepitacions, cruixits i entrebancs d'àudio en Mac, des de solucions de programari fins al problema de maquinari que hauries de conèixer.</p>
 
@@ -2389,7 +2398,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet augmentar el volum de qualsevol aplicació a <strong>200%</strong>, incloent-hi Microsoft Teams. Arrossega el control lliscant de Teams al 150% o 180% i l'àudio s'amplifica en temps real. Només Teams es fa més fort — la teva música, navegador i altres aplicacions es mantenen als nivells actuals.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de trucades de Microsoft Teams més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de trucades de Microsoft Teams més enllà del 100% en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial també ajuda amb el problema invers: si els sons de notificació de Teams són massa forts durant el temps de concentració, baixa Teams al 15% o silencia-ho completament mentre continues sonant la música. Un clic per silenciar, un clic per desactivar el silenci.</p>
 
@@ -2405,6 +2414,9 @@ export const caArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Estàs en una videotrucada. El Slack no para de sonar. Sona música de fons. Agafes la tecla de volum i — tot es torna més silenciós. La trucada, la música, les notificacions. macOS té exactament un control lliscant de volum i controla tot alhora.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows té un mesclador de volum per aplicació des de Vista el 2006. Vint anys després, encara macOS no ho fa. Si vols baixar Spotify sense afectar la teva trucada de Zoom, Apple no té cap resposta integrada per a tu.</p>
 
@@ -2512,7 +2524,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> dóna a Slack el seu propi control lliscant de volum independent. Configura-la al nivell que et funcioni — o silencia-la completament amb un sol clic. Quan estiguis preparat per tornar a fixar-te en Slack, desactiva'l i el volum torna a ser com abans.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial amb Slack silenciat i Spotify sonant a volum normal a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial amb Slack silenciat i Spotify sonant a volum normal a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>El flux de treball ideal de Slack</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const caArticles: ArticleSet = {
 <h3>Commutació de perfils</h3>
 <p>Els teus perfils desats apareixen com a botons al popover de SoundDial. Fes clic en una i totes les aplicacions canvien instantàniament als volums guardats en aquell perfil. Un clic substitueix cinc o sis ajustos manuals.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial perfils de volum — canviant amb un clic entre els modes Reunió, Focus i Chill en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial perfils de volum — canviant amb un clic entre els modes Reunió, Focus i Chill en macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Perfils d'exemple</h3>
 
@@ -2662,7 +2674,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet augmentar el volum de qualsevol aplicació a <strong>200%</strong> — incloent-hi Zoom. Si un participant és massa silenciós, arrossega el control lliscant de Zoom al 150% o 180%. El senyal d'àudio s'amplifica més enllà del màxim integrat de Zoom, fent que fins i tot les veus més baixes siguin audibles.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de les trucades de Zoom al 180% en Mac per a un àudio més clar durant les videotrucades" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de les trucades de Zoom al 180% en Mac per a un àudio més clar durant les videotrucades" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>L'avantatge clau: augmentar el Zoom no afecta res més. La teva música, notificacions i altres aplicacions es mantenen als nivells actuals. Només que Zoom s'enfà més fort.</p>
 
@@ -2701,7 +2713,7 @@ export const caArticles: ArticleSet = {
 
 <p>Fet. Spotify és més silenciós. Zoom no ha canviat. Les notificacions no han canviat. Tot la resta no ha canviat. No has sortit de l'aplicació actual — la finestra emergent de la barra de menú s'obre just on ets.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial baixant el volum de Spotify de manera independent mentre mantens altres aplicacions a volum complet a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial baixant el volum de Spotify de manera independent mentre mantens altres aplicacions a volum complet a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Encara millor: desa-ho com a perfil</h2>
 
@@ -2754,7 +2766,7 @@ export const caArticles: ArticleSet = {
 
 <p>Com que Apple no el vol fabricar, les aplicacions de tercers cobreixen aquest buit. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> és una aplicació nativa macOS barra de menús que et proporciona un mesclador de volum — controls lliscants de volum independents per a cada aplicació en execució.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial proporcionant control de volum per aplicació a macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial proporcionant control de volum per aplicació a macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial és totalment compatible amb macOS Tahoe i utilitza l'API moderna Core Audio Tap d'Apple — sense necessitat de controladors d'àudio ni extensions de nucli de tercers. Funciona perfectament amb el model de seguretat de macOS i no interfereix amb altres aplicacions d'àudio.</p>
 
@@ -2816,7 +2828,7 @@ export const caArticles: ArticleSet = {
 
 <p>La teva decisió és claríssima. La música és un fons subtil. No cal canviar de dispositiu.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mostrant Zoom al màxim volum i Spotify baixant durant una trucada a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mostrant Zoom al màxim volum i Spotify baixant durant una trucada a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Encara millor: SoundDial's <strong>Ànec automàtic</strong> Això ho fa automàticament. Quan t'uneixes a una trucada, detecta que el micròfon s'activa i redueix totes les aplicacions en segon pla a un nivell que configures (per defecte del 30%). Quan la trucada acaba, tot torna a la normalitat. No cal ajustar el control lliscant manualment.</p>
 
@@ -2877,7 +2889,7 @@ export const caArticles: ArticleSet = {
 
 <p>Encara que no puguis evitar que macOS canviï el volum del sistema, pots protegir el teu <em>per aplicació</em> Equilibri de volum. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> recorda el nivell de volum de cada aplicació de manera independent. Quan una aplicació es reinicia o quan el teu Mac es desperta del repòs, SoundDial restaura cada aplicació al seu volum desat.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial recordar els nivells de volum per aplicació durant els reinicis de macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial recordar els nivells de volum per aplicació durant els reinicis de macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això vol dir que, fins i tot si el volum del sistema canvia, l'equilibri a nivell d'aplicació es manté consistent:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const caArticles: ArticleSet = {
 
 <p>SoundDial utilitza l'API moderna Core Audio Tap d'Apple per a un control net d'àudio per procés. És lleuger, funciona completament a la barra de menú i no requereix una configuració complexa. Amb un cost de 14,99 €, és significativament més barat que SoundSource (39 $) i inclou característiques que SoundSource no té — perfils de volum i auto-ducking. I com que està a la Mac App Store, està revisat per Apple, en sandbox, i s'instal·la netament sense descarregar DMGs ni instal·lar controladors d'àudio del sistema.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mesclador de volum per aplicació que mostra els controls lliscants de volum individuals a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mesclador de volum per aplicació que mostra els controls lliscants de volum individuals a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Amoeba)</h3>
 
@@ -3113,7 +3125,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> resol això donant a cada aplicació — incloent-hi Safari i Chrome — un control de volum independent que va del 0% al <strong>200%</strong>. Si un vídeo de YouTube és massa baix, arrossega el control lliscant del navegador al 150% o 180%. L'àudio s'amplifica en temps real sense afectar cap altra aplicació.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum del navegador Safari al 180% per a vídeos tranquils de YouTube a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum del navegador Safari al 180% per a vídeos tranquils de YouTube a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això és especialment útil perquè:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> sí. Dóna a cada aplicació el seu propi control lliscant de volum, així que pots configurar aplicacions amb moltes notificacions com Slack, Mail i Calendar a un volum molt més baix mantenint les teves aplicacions multimèdia en un nivell còmode.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mostrant Slack a baix volum i Spotify a volum normal — control independent de notificacions a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mostrant Slack a baix volum i Spotify a volum normal — control independent de notificacions a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Una configuració típica apta per a auriculars</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et dóna exactament això. La seva funció d'auto-ducking monitoritza el teu micròfon i ajusta automàticament l'àudio en segon pla quan comença una trucada — però <strong>Tu controles el nivell d'ànec</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial configuració d'auto-ducking — reducció de volum configurable durant les trucades de Zoom a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configuració d'auto-ducking — reducció de volum configurable durant les trucades de Zoom a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Com funciona</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet augmentar el volum de qualsevol aplicació fins a <strong>200%</strong>. Si Spotify està massa silenciós amb els teus AirPods, arrossega el control lliscant de Spotify al 150% o 180% en SoundDial. El senyal d'àudio s'amplifica abans d'enviar-se als teus AirPods, fent-los més forts del que Apple pretenia.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de l'aplicació per als AirPods a Mac amb controls lliscants de volum per aplicació fins al 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augmentant el volum de l'aplicació per als AirPods a Mac amb controls lliscants de volum per aplicació fins al 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>L'avantatge de l'augment per aplicació: pots augmentar l'aplicació en silenci sense fer que la resta sigui més sorollosa. Si la teva videotrucada està bé al 100% però Spotify necessita el 170%, SoundDial et permet configurar cadascuna de manera independent.</p>
 
@@ -3387,7 +3399,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Et permet augmentar el volum de qualsevol aplicació fins a <strong>200%</strong> — incloent-hi Spotify. Intercepta el flux d'àudio de Spotify i l'amplifica més enllà del màxim integrat de l'aplicació, sense afectar el volum de cap altra aplicació.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pujant el volum de Spotify al 200% en macOS mentre mantens altres aplicacions al volum normal" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pujant el volum de Spotify al 200% en macOS mentre mantens altres aplicacions al volum normal" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Aquí està la diferència clau: un augment de volum a tot el sistema faria <em>tot</em> més fort — notificacions, trucades, sons del sistema — no només Spotify. SoundDial impulsa Spotify <em>independentment</em>. Configura Spotify al 160% mentre el navegador es manté al 80% i Zoom al 100%.</p>
 
@@ -3440,7 +3452,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Es col·loca a la barra de menú i dóna a cada aplicació el seu propi control de volum. Pots posar el teu joc al 35% i Discord al 100% — o la proporció que et vagi bé. Canvia'n un i l'altre es queda al seu lloc.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mostrant controls lliscants de volum independents per a un joc i Discord a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mostrant controls lliscants de volum independents per a un joc i Discord a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Configuració típica de joc</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const caArticles: ArticleSet = {
 
 <p>La resposta és una aplicació de barra de menú de tercers. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> és un mesclador natiu macOS volum que fa exactament el que fa el mesclador de volum de Windows — i més.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — el mesclador de volum per a macOS, que mostra els controls lliscants de volum per aplicació a la barra de menú" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — el mesclador de volum per a macOS, que mostra els controls lliscants de volum per aplicació a la barra de menú" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>El que obtens:</p>
 
@@ -3590,7 +3602,7 @@ export const caArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Dóna a cada aplicació del teu Mac un control lliscant de volum independent que va del 0% al <strong>200%</strong>. Si una aplicació específica és massa silenciosa — un reproductor de podcast, una pestanya de navegador, una videotrucada — pots potenciar només aquesta aplicació més enllà del 100% sense tocar res més.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial augment de volum — control de volum per aplicació amb amplificació del 200% a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial augment de volum — control de volum per aplicació amb amplificació del 200% a macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Això és especialment útil per:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const caArticles: ArticleSet = {
 <h3>Configuració del nivell de l'ànec</h3>
 <p>A la configuració de SoundDial, pots ajustar la <strong>nivell ànec</strong> — quant d'àudio de fons es redueix durant una trucada. El control lliscant oscil·la entre el 10% (gairebé inaudible) i el 80% (encara força present). El valor per defecte del 30% funciona bé per a la majoria de gent: la música es nota però no interfereix en la conversa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial funció d'auto-ducking que redueix automàticament el volum de la música durant una trucada de Zoom a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial funció d'auto-ducking que redueix automàticament el volum de la música durant una trucada de Zoom a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Per què l'auto-ducking és millor que pausar</h2>
 
@@ -3763,7 +3775,7 @@ export const caArticles: ArticleSet = {
 
 <p>Això és exactament el que fa un mesclador de volum per aplicació. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Es troba a la barra de menú i mostra cada aplicació de córrer amb el seu propi control de volum i botó de silenci.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mostrant botons de silenci per a cada aplicació a la barra de menú macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mostrant botons de silenci per a cada aplicació a la barra de menú macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Per silenciar una aplicació:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const caArticles: ArticleSet = {
 
 <p>Es troba a la barra de menú i mostra cada aplicació en execució amb el seu propi control de volum. Arrossega un control lliscant per ajustar el volum de l'aplicació del 0% al 200%. Fes clic a la icona de l'altaveu per silenciar-lo instantàniament. Canvia entre perfils desats per a diferents situacions. Activa l'auto-ducking i la teva música es torna automàticament més baixa quan comença una trucada.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — mesclador de volum per a cada aplicació per a macOS mostra els controls lliscants de volum individuals de l'aplicació a la barra de menú" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — mesclador de volum per a cada aplicació per a macOS mostra els controls lliscants de volum individuals de l'aplicació a la barra de menú" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Característiques clau:</p>
 <ul>
@@ -3889,5 +3901,2353 @@ export const caArticles: ArticleSet = {
 
 <p>Compra única. No hi ha subscripció. macOS 14,2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Aconsegueix SoundDial a la Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "La millor alternativa a Background Music per a Mac (2026)",
+    description: "Background Music trencant-se amb macOS més recent? L'alternativa de mesclador de volum per aplicació més fiable és SoundDial: una aplicació Mac App Store amb espai de sorra amb reforç i perfils.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si Background Music ha deixat de funcionar després d'una actualització de macOS, l'alternativa més fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> - un mesclador de volum per aplicació de la barra de menús del Mac App Store. Ofereix a cada aplicació el seu propi control lliscant de volum, afegeix silenci, augment, perfils de volum i desactivació automàtica, i està totalment encaixat i revisat per Apple, de manera que no hi ha controladors d'àudio per trencar a la propera versió de macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: la millor alternativa a Background Music per a Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què Background Music es trenca a macOS més recent</h2>
+
+<p>Background Music és un projecte gratuït i de codi obert realment intel·ligent. Va donar als usuaris de Mac alguna cosa que Apple mai té: un mesclador de volum per aplicació, el tipus que Windows ha tingut durant anys. Però el seu disseny també és el motiu pel qual segueix fallant.</p>
+
+<p>Per encaminar i controlar l'àudio, Background Music instal·la un dispositiu d'àudio virtual: un controlador a nivell de sistema que intercepta el so del vostre Mac. Aquest enfocament va funcionar bé a macOS més antic, però cada versió important reforça la seguretat al voltant del nucli i les extensions d'àudio. Els símptomes comuns que informen els usuaris:</p>
+
+<ul>
+<li>No hi ha cap so després de la instal·lació o després d'una actualització del sistema operatiu.</li>
+<li>El dispositiu virtual no es pot carregar, de manera que l'encaminament d'àudio s'atura en silenci.</li>
+<li>L'aplicació necessita una reinstal·lació, un reinici o l'eliminació manual del controlador per recuperar-se.</li>
+<li>El desenvolupament és impulsat per la comunitat i al ritme dels voluntaris, de manera que les correccions per a un nou macOS poden retardar.</li>
+</ul>
+
+<p>Res d'això fa que Background Music sigui "dolent". Només vol dir que una eina gratuïta basada en controladors és fràgil per naturalesa i, si confieu en el volum de l'aplicació cada dia, aquesta fragilitat s'envelleix ràpidament.</p>
+
+<h2>Què buscar en un substitut</h2>
+
+<p>Abans de triar qualsevol alternativa, decidiu què necessiteu realment:</p>
+
+<ul>
+<li><strong>Fiabilitat en les actualitzacions de macOS.</strong> Si instal·la un nucli o una extensió d'àudio, espereu trencaments ocasionals.</li>
+<li><strong>Control real per aplicació.</strong> El volum independent i el silenci per a cada aplicació és la línia de base.</li>
+<li><strong>Impulsar.</strong> Algunes aplicacions (eines de reunions silencioses, determinats navegadors) són massa silencioses; voleu superar el 100%.</li>
+<li><strong>Característiques de comoditat.</strong> Els perfils i l'acoblament automàtic són els que converteixen una utilitat en una cosa que manteniu obert tot el dia.</li>
+<li><strong>Instal·lació segura.</strong> Una aplicació Mac App Store amb sorra no pot tocar els elements interns del sistema, de manera que la desinstal·lació és neta i les actualitzacions són automàtiques.</li>
+</ul>
+
+<h2>Per què SoundDial és la selecció fiable</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> es va crear per resoldre exactament el problema amb el qual es troben els usuaris de Background Music: volen un volum per aplicació, però no volen cuidar un conductor. Viu a la barra de menús i fa bé la feina principal:</p>
+
+<ul>
+<li><strong>Volum independent per a cada aplicació</strong>, amb silenci per aplicació al mateix tauler.</li>
+<li><strong>Augment per aplicació</strong> per fer que les aplicacions silencioses siguin prou forts per escoltar-les.</li>
+<li><strong>Perfils de volum</strong> — deseu una combinació (per exemple, "reunió" o "joc") i canvieu a l'instant en lloc d'arrossegar els controls lliscants cada vegada.</li>
+<li><strong>Agafement automàtic</strong>, de manera que l'àudio de fons cau automàticament quan cal.</li>
+<li><strong>Canvi ràpid de sortida</strong> entre altaveus, auriculars i altres dispositius.</li>
+</ul>
+
+<p>La diferència més gran és com s'instal·la. SoundDial s'envia a través del Mac App Store, la qual cosa significa que està revisat per Apple i en una caixa de sorra. No hi ha DMG per arrossegar, ni controlador d'àudio ni extensió del sistema, ni accés al nucli. Aquesta és la raó més important per la qual no es trencarà com ho fa Background Music quan arriba un nou macOS: no està connectat a les parts del sistema que Apple segueix bloquejant.</p>
+
+<p>Costa <strong>14,99 € únic</strong>. No és gratuït, però no hi ha subscripció i pagueu per alguna cosa que es mantingui i que es pugui instal·lar segur.</p>
+
+<h2>SoundDial vs. Background Music vs. les eines gratuïtes</h2>
+
+<p>Background Music no és la vostra única opció gratuïta, així que aquí teniu una descripció honesta de la terra:</p>
+
+<ul>
+<li><strong>Background Music (gratuït, codi obert):</strong> volum per aplicació, però basat en controladors, propens a trencar-se amb el macOS més recent, i li falta impuls, perfils i desactivació automàtica.</li>
+<li><strong>FineTune (gratuït, codi obert):</strong> una aplicació de volum lleugera de barra de menú per aplicació. Bé si el teu únic requisit és gratuït, però poc en els extres.</li>
+<li><strong>eqMac (gratuït):</strong> principalment un EQ i un reforç del sistema, no un veritable mesclador per aplicació.</li>
+<li><strong>SoundSource per Rogue Amoeba (~$39):</strong> l'opció de grau professional, amb EQ per aplicació i encaminament de sortida complet. Excel·lent, però és més del doble del preu de SoundDial i encara requereix una descàrrega i un controlador de captura d'àudio.</li>
+<li><strong>SoundDial (14,99 €, Mac App Store):</strong> el terme mitjà: volum real per aplicació, silenci, impuls, perfils i ajudes, lliurat com una instal·lació neta sense controladors.</li>
+</ul>
+
+<p>Si necessiteu un EQ per aplicació o un enrutament d'estudi complex, SoundSource val la pena els diners addicionals. Si voleu una eina de manipulació gratuïta i podeu tolerar el trencament ocasional, FineTune o Background Music ho faran. Però si el vostre objectiu és "donar a cada aplicació el seu propi volum i deixar que trenqui cada actualització de macOS", SoundDial assoleix aquest objectiu amb la menor molèstia.</p>
+
+<h2>El context macOS que ho fa necessari</h2>
+
+<p>Val la pena dir-ho clarament: macOS no té cap mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys al menú desplegable de volum, però en un Mac el control lliscant del sistema ho controla tot alhora. Aquesta bretxa és la raó per la qual existeixen eines com Background Music i SoundDial. Com que Apple no l'omple, la pregunta pràctica és en quin enfocament de tercers confieu: un controlador gratuït que lluiti contra el sistema operatiu o una aplicació sandbox que funcioni amb ell.</p>
+
+<p>Preparat per deixar de lluitar contra els controladors d'àudio trencats? Aconsegueix <a href="https://apps.apple.com/app/id6772792641">SoundDial al Mac App Store</a> per 14,99 € i controla el volum de cada aplicació de manera fiable.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial: quina aplicació de volum Mac guanya?",
+    description: "SoundSource (39 $, grau professional) vs SoundDial (14,99 €, App Store). Compareu el volum per aplicació, l'augment, els perfils i l'acoblament automàtic per triar el mesclador Mac adequat per a vosaltres.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si només voleu un control de volum per aplicació que s'instal·li de manera neta i que costi menys, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és la millor compra per a la majoria de la gent: 14,99 € únic, del Mac App Store, amb volum per aplicació, silenci, boost, perfils i desactivació automàtica. Trieu el SoundSource de Rogue Amoeba (~$ 39) només si necessiteu específicament un EQ per aplicació i un enrutament de sortida avançat.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial: quina aplicació de volum Mac guanya?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>La versió curta</h2>
+<p>macOS encara no té un mesclador de volum per aplicació integrat. Windows fa anys que en té un, però en un Mac el control lliscant de volum del sistema ho mou tot alhora. Tant SoundSource com SoundDial existeixen per solucionar aquest buit. Només apunten a diferents compradors.</p>
+<ul>
+<li><strong>SoundDial</strong> — 14,99 € únic, Mac App Store, aplicació de la barra de menús. Volum independent per aplicació, silenci per aplicació, millora per aplicació, perfils desats, desactivació automàtica i canvi ràpid de sortida. Sandbox i revisat per Apple, de manera que no hi ha instal·lació de controladors.</li>
+<li><strong>SoundSource</strong> — ~$39, baixada directa des de Rogue Amoeba. Tot el que hi ha a dalt, més EQ per aplicació, enrutament de sortida avançat i efectes d'àudio. Cal instal·lar un petit controlador de captura d'àudio.</li>
+</ul>
+
+<h2>Preu i com el compreu</h2>
+<p>Aquesta és la divisió més clara. SoundSource costa aproximadament 39 dòlars i es ven directament per Rogue Amoeba. SoundDial és de 14,99 € com a compra única al Mac App Store, una mica més d'un terç del preu.</p>
+<p>Perquè <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> s'envia a través de la App Store, es troba en una caixa de sorra, està certificada per notari i revisada per Apple. Feu clic a Obtén, s'instal·la i ja està. No hi ha DMG per muntar, no hi ha permisos per concedir a un component adjacent al nucli, ni controlador d'àudio ni extensió del sistema. També funciona juntament amb el vostre flux d'actualització normal de App Store i es sincronitza amb els vostres altres Mac amb el mateix ID d'Apple.</p>
+<p>SoundSource es descarrega fora de App Store i instal·la un controlador de captura d'àudio perquè pugui interceptar i processar l'àudio de cada aplicació. Això és el que desbloqueja les seves funcions professionals, però també significa un pas d'instal·lació addicional i un component que viu més en el sistema.</p>
+
+<h2>Què fa SoundSource que SoundDial no</h2>
+<p>SoundSource guanya el seu preu per a un tipus específic d'usuari. Si algun d'aquests et descriu, val la pena els diners addicionals:</p>
+<ul>
+<li><strong>EQ per aplicació.</strong> Voleu un equalitzador de 10 bandes activat, per exemple, Spotify mentre deixeu Zoom plana. SoundDial fa volum, no EQ.</li>
+<li><strong>Encaminament de sortida avançat.</strong> Enviament d'una aplicació als altaveus i una altra als auriculars o una interfície específica, amb un control fi.</li>
+<li><strong>Efectes d'àudio i complements.</strong> SoundSource pot allotjar efectes per aplicació, un territori realment professional.</li>
+</ul>
+<p>Rogue Amoeba té un historial llarg i de confiança. SoundSource és una eina seriosa i té un preu semblant. Si sou un professional de l'àudio o un usuari de múltiples sortides, aquesta és la trucada correcta.</p>
+
+<h2>El que SoundDial fa millor per a l'ús diari</h2>
+<p>La majoria de les persones que cerquen un "mesclador de volum Mac" no necessiten un EQ. Necessiten una aplicació més silenciosa que una altra i no volen lluitar contra un instal·lador per aconseguir-la. SoundDial ho cobreix netament i afegeix un parell de coses que val la pena destacar:</p>
+<ul>
+<li><strong>Augment per aplicació.</strong> Algunes aplicacions i vídeos són massa silenciosos fins i tot al 100%. SoundDial pot empènyer una sola aplicació per sobre del seu sostre normal, de manera que finalment s'escolta una reunió o un podcast tranquils.</li>
+<li><strong>Perfils de volum.</strong> Deseu una configuració completa (música baixa, navegador silenciat, truca a l'aplicació en veu alta) i recordeu-la a l'instant. Ideal per canviar entre "enfocament", "reunió" i "jocs" sense arrossegar cinc controls lliscants.</li>
+<li><strong>Agafement automàtic.</strong> Submergeix automàticament l'àudio de fons (com la música) quan s'inicia una altra font, de manera que les notificacions, les trucades o el vídeo no s'enterran.</li>
+<li><strong>Canvi ràpid de sortida.</strong> Salta entre altaveus, auriculars i altres dispositius des de la barra de menú.</li>
+</ul>
+<p>Tot això s'executa des d'un menú desplegable de la barra de menús, de manera que és un clic de distància i fora de la cara la resta del temps.</p>
+
+<h2>Les alternatives lliures, breument</h2>
+<p>Veureu algunes opcions gratuïtes esmentades a les mateixes cerques. Val la pena saber-ne:</p>
+<ul>
+<li><strong>Background Music</strong> — gratuït i de codi obert, us ofereix un volum bàsic per aplicació. Però pot trencar-se amb les versions més recents de macOS i no té cap impuls, perfils ni captació automàtica.</li>
+<li><strong>FineTune</strong> — una aplicació gratuïta de codi obert per a la barra de menús de volum. Simple, però d'abast limitat.</li>
+<li><strong>eqMac</strong> — EQ gratuït i reforç del sistema, més una eina d'EQ per a tot el sistema que un veritable mesclador per aplicació.</li>
+</ul>
+<p>Gratuït és fantàstic si et funciona. La compensació és la compatibilitat i el suport: les eines d'àudio de codi obert poden quedar-se endarrerides amb les actualitzacions de macOS i, en general, no hi ha funcions com els perfils i l'escàndol. Si la vostra configuració és important per a la vostra jornada laboral, pagar una vegada per alguna cosa revisada i mantinguda sol ser el camí més tranquil.</p>
+
+<h2>Quin hauríeu de comprar?</h2>
+<p>Respon a una pregunta: necessiteu un EQ per aplicació o un enrutament de sortida avançat?</p>
+<ul>
+<li><strong>Sí</strong> - comprar SoundSource. Està creat per a això, i els ~ $ 39 són justos per a una eina professional amb un motor de nivell de controlador.</li>
+<li><strong>No, només vull volum per aplicació, augment i una instal·lació neta</strong> - comprar SoundDial. Aconseguiu la barreja que realment importa el dia a dia, a més de perfils i desviació automàtica, per 14,99 € i sense molèsties al conductor.</li>
+</ul>
+<p>Per a la gran majoria dels usuaris de Mac, aquest segon cub és la resposta honesta. Pagueu pel control del volum, no per un estudi.</p>
+
+<p><strong>Preparat per arreglar el volum Mac de la manera fàcil?</strong> Aconsegueix <a href="https://apps.apple.com/app/id6772792641">SoundDial al Mac App Store</a> — 14,99 € únic, sense conductors, sense DMG. Volum per aplicació, augment, perfils i desactivació automàtica amb un sol clic.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Una alternativa més barata de SoundSource per al volum per aplicació a Mac",
+    description: "Voleu un volum per aplicació a l'estil SoundSource sense el preu de 39 dòlars? SoundDial és un mesclador de barra de menús Mac App Store de 14,99 € amb impuls, perfils i desviació automàtica.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si voleu un control de volum per aplicació a l'estil SoundSource al vostre Mac, però 39 dòlars se senten alts, la solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Es tracta d'un mesclador de barra de menú d'un sol 14,99 € del Mac App Store que ofereix a cada aplicació el seu propi control lliscant de volum, silenci i augment, a més de perfils i desactivació automàtica, sense descàrrega ni controlador d'àudio per instal·lar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: una alternativa més barata de SoundSource per al volum per aplicació a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què la gent busca una alternativa a SoundSource</h2>
+<p>SoundSource de Rogue Amoeba és un programari excel·lent. És realment professional: equalitzadors per aplicació, efectes d'àudio i encaminament de sortida que us permeten enviar una aplicació als vostres auriculars i una altra als altaveus. Però aquesta potència ve amb dos punts de fricció. En primer lloc, el preu: uns 39 dòlars. En segon lloc, instal·la un controlador de captura d'àudio a nivell de sistema fora del App Store, que algunes persones tenen precaució en una màquina de treball o simplement no volen gestionar amb les actualitzacions de macOS.</p>
+<p>Per a la majoria de la gent, la necessitat real és molt més senzilla: baixar Spotify sense tocar una trucada Zoom, silenciar l'aplicació d'una pestanya del navegador sorollosa o augmentar un reproductor de vídeo silenciós més enllà del 100%. Si ets tu, estàs pagant diners professional per funcions que mai obriràs.</p>
+
+<h2>Què fa SoundDial i el que costa</h2>
+<p>SoundDial se centra en el treball de volum per aplicació i ho fa de manera neta. Obriu la barra de menús i obtindreu una llista en directe de tot el que fa so, cadascun amb el seu propi control:</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> — un control lliscant per aplicació, ajustat en temps real.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació a l'instant sense aturar res més.</li>
+<li><strong>Augment del volum per aplicació</strong> — empènyer les aplicacions silencioses per sobre del seu màxim normal quan un vídeo o una trucada són massa suaus.</li>
+<li><strong>Perfils de volum</strong> — deseu una combinació (per exemple, "Enfocament", "Jocs", "Reunió") i canvieu amb un sol clic.</li>
+<li><strong>Agafement automàtic</strong> — submergir automàticament altres aplicacions quan comenci a jugar alguna cosa més important.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres dispositius des del mateix menú.</li>
+</ul>
+<p>El preu és <strong>14,99 €, pagats una vegada</strong> - Sense subscripció. Això és aproximadament un terç del cost de SoundSource, per les funcions de volum que la majoria dels usuaris aconsegueixen.</p>
+
+<h2>La diferència App Store</h2>
+<p>Perquè SoundDial s'envia a través del <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, és revisat per Apple i en una caixa de sorra. No hi ha DMG per arrossegar, cap extensió del nucli o controlador de captura d'àudio per aprovar, ni cap actualitzador independent. L'instal·leu com qualsevol altra aplicació App Store i funciona. Quan macOS s'actualitza, no us quedareu preguntant-vos si un component d'àudio de baix nivell encara funciona.</p>
+<blockquote>macOS encara no té un mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys, però en un Mac el volum del sistema és tot o res, que és exactament el buit que omplen aquestes eines.</blockquote>
+
+<h2>Com es compara amb les opcions gratuïtes</h2>
+<p>SoundSource no és la vostra única alternativa. Hi ha eines gratuïtes, i ser honest sobre elles és important:</p>
+<ul>
+<li><strong>Background Music</strong> és una aplicació de volum per aplicació gratuïta i de codi obert. Funciona per a moltes persones, però pot trencar-se amb les versions més recents de macOS, les actualitzacions són irregulars i no té cap impuls, no té perfils i no té cap desactivació automàtica.</li>
+<li><strong>FineTune</strong> és una aplicació de volum de barra de menú gratuïta i de codi obert: lleugera i pràctica, però de nou no té el perfil i les funcions d'escapament.</li>
+<li><strong>eqMac</strong> és un EQ gratuït i un reforç del sistema. És més una eina d'equalitzador/impuls que un veritable mesclador per aplicació, i no es centra en els controls lliscants d'aplicacions individuals.</li>
+</ul>
+<p>La llibertat és una opció legítima. La compensació és la fiabilitat i les característiques: les eines d'àudio de codi obert depenen del manteniment voluntari i poden quedar-se endarrerides amb els canvis de macOS, i cap dels perfils de paquet d'opcions gratuïtes més l'acoblament automàtic com ho fa SoundDial. Si la vostra configuració és senzilla i no us importen trencaments ocasionals, una aplicació gratuïta pot ser suficient. Si vols alguna cosa que es mantingui, amb sorra i que funcioni, els 14,99 € t'estan comprant exactament això.</p>
+
+<h2>Guia de decisió ràpida</h2>
+<ul>
+<li><strong>Necessiteu EQ per aplicació, efectes d'àudio i encaminament d'una aplicació a un dispositiu de sortida diferent</strong> → SoundSource val la pena el seu preu. Res aquí no substitueix completament això.</li>
+<li><strong>Necessiteu principalment volum per aplicació, silenciar, augmentar, perfils i desviar, sense controladors</strong> → SoundDial a 14,99 € és la millor opció.</li>
+<li><strong>Vols gratis i no t'importa el risc de manteniment</strong> → proveu primer Background Music, FineTune o eqMac.</li>
+</ul>
+
+<h2>Configurant-ho</h2>
+<p>Per començar triga aproximadament un minut:</p>
+<ul>
+<li>Instal·leu SoundDial des del Mac App Store, sense descàrrega externa.</li>
+<li>Concedeix el permís d'àudio que demana macOS al primer llançament.</li>
+<li>Reprodueix so en un parell d'aplicacions i obriu la icona de la barra de menús; veureu cadascun amb el seu propi control lliscant.</li>
+<li>Arrossegueu per establir nivells, toqueu per silenciar o premeu més enllà del 100% per augmentar.</li>
+<li>Deseu la vostra configuració com a perfil i activeu l'acoblament automàtic si voleu que altres aplicacions es silenciin durant les trucades o els mitjans.</li>
+</ul>
+<p>Aquest és tot el flux de treball: sense fitxers de configuració, sense reinici, sense extensió del sistema per beneir.</p>
+
+<h2>La línia de fons</h2>
+<p>SoundSource és l'eina més potent, però la majoria de les persones que la busquen només volen un volum per aplicació que es comporti. SoundDial ofereix això per aproximadament un terç del preu, s'envia de manera segura a través del App Store i afegeix perfils i ajudes automàtics a la part superior, sense un sol controlador per instal·lar.</p>
+
+<p>Estàs preparat per controlar el volum de cada aplicació de manera independent? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per 14,99 €, una vegada.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune Alternativa per a Mac: un mesclador de volum per aplicació compatible",
+    description: "Heu provat l'aplicació gratuïta de la barra de menús FineTune i voleu que es mantingui alguna cosa i sigui segura per a App Store? Aquí teniu la millor alternativa a FineTune per al volum per aplicació a Mac.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si us ha agradat FineTune però voleu que alguna cosa es mantingui i instal·leu activament des d'una font de confiança, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és la solució més ràpida i fiable. És un mesclador de volum per aplicació de barra de menús Mac App Store amb volum independent, silenci per aplicació, augment de volum, perfils desats i desactivació automàtica. Revisat per Apple i amb caixa de sorra, costa 14,99 € una vegada sense controladors per instal·lar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune Alternativa per a Mac: un mesclador de volum per aplicació compatible" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què buscar una alternativa a FineTune?</h2>
+
+<p>FineTune és una bona idea: una aplicació gratuïta de barra de menús de codi obert que us ofereix control de volum per aplicació a macOS, cosa que Apple encara es nega a incorporar (Windows fa anys que té un mesclador per aplicació). Per a molta gent fa la feina bàsica. Però hi ha motius reals pels quals els usuaris busquen una altra cosa.</p>
+
+<ul>
+<li><strong>El manteniment és incert.</strong> Els projectes d'aficions de codi obert viuen i moren en el temps lliure d'un sol responsable. Quan macOS envia una actualització important, les aplicacions relacionades amb l'àudio solen ser les primeres a trencar-se i us deixeu esperant una solució voluntària que potser no arribarà mai.</li>
+<li><strong>Característica sostre.</strong> FineTune cobreix el volum per aplicació i poca cosa més. Si voleu un augment superior al 100%, perfils desats o desviació automàtica, heu de connectar-vos amb altres eines.</li>
+<li><strong>Confiança i actualitzacions.</strong> La instal·lació d'una compilació en brut fora del App Store significa que no hi ha cap revisió automàtica, cap garantia de sandbox i actualitzacions manuals que heu de fer un seguiment.</li>
+</ul>
+
+<p>Res d'això fa que FineTune sigui dolent. Només vol dir que si confieu en l'àudio per aplicació cada dia, probablement vulgueu alguna cosa amb un model de suport al darrere.</p>
+
+<h2>Què fa SoundDial de manera diferent</h2>
+
+<p>SoundDial parteix de la mateixa idea bàsica, un mesclador de barra de menús amb un control lliscant per a cada aplicació en execució, i després va més enllà amb les funcions que realment demanen els usuaris potents.</p>
+
+<ul>
+<li><strong>Volum independent per aplicació.</strong> Baixeu Spotify, mantingueu la trucada a tot volum, silencieu completament l'aplicació d'una pestanya del navegador sorollosa, tot des d'un menú.</li>
+<li><strong>Augment del volum per aplicació.</strong> Empènyer una aplicació silenciosa per sobre del seu sostre normal quan un podcast o un vídeo s'ha dominat massa baix. FineTune no fa això.</li>
+<li><strong>Perfils de volum.</strong> Deseu una combinació, "focus", "jocs", "reunions" i canvieu tota la configuració amb un sol clic en comptes de moure cinc controls lliscants.</li>
+<li><strong>Agafement automàtic.</strong> Redueix automàticament l'àudio de fons quan comença a reproduir-se alguna cosa més important, de manera que la música baixa quan arriba una trucada.</li>
+<li><strong>Canvi ràpid de sortida.</strong> Salta entre altaveus, auriculars i altres sortides sense capbussar-te a la configuració del sistema.</li>
+</ul>
+
+<p>Perquè <a href="https://apps.apple.com/app/id6772792641">SoundDial s'envia a través del Mac App Store</a>, està revisat per Apple i s'instal·la en una caixa de sorra, s'instal·la netament i s'actualitza mitjançant el mateix mecanisme que qualsevol altra aplicació App Store. No hi ha cap DMG per arrossegar, cap controlador d'àudio o extensió del sistema, ni cap missatge de seguretat que us demani que permeteu un component a nivell del nucli.</p>
+
+<h2>SoundDial vs. FineTune i les altres eines gratuïtes</h2>
+
+<p>FineTune no és l'única opció gratuïta i ajuda a veure tot el paisatge amb honestedat.</p>
+
+<ul>
+<li><strong>FineTune</strong> - Gratuït, codi obert, volum de la barra de menús per aplicació. Senzill i lleuger, però sense impuls, sense perfils, sense ajudes i el manteniment depèn de la comunitat.</li>
+<li><strong>Background Music</strong> — Gratuït i de codi obert, encamina i ajusta l'àudio per aplicació. Veritablement útil, però pot trencar-se amb les versions més recents de macOS i no té impuls, perfils i ajudes.</li>
+<li><strong>eqMac</strong> — EQ gratuït i reforç del sistema. Genial si voleu principalment un equalitzador, però no és un mesclador per aplicació.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — L'opció de grau professional al voltant de 39 dòlars, amb EQ per aplicació i encaminament de sortida. Excel·lent, però necessita una descàrrega més un controlador de captura d'àudio i costa més del doble.</li>
+<li><strong>SoundDial</strong> — 14,99 € únic, segur App Store, sense conductors. Afegeix un impuls, perfils i desconnexió automàtica a sobre dels conceptes bàsics de volum per aplicació.</li>
+</ul>
+
+<p>El resum honest: si voleu el més barat i només necessiteu un volum bàsic per aplicació, les eines gratuïtes poden funcionar. Si voleu un EQ i un enrutament per aplicació i no us importa pagar i instal·lar un controlador, SoundSource és el pes pesat. SoundDial es troba al punt dolç, més capaç que les aplicacions gratuïtes, dramàticament més barat que SoundSource i més segur d'instal·lar que qualsevol dels dos perquè Apple ho revisa i ho fa.</p>
+
+<h2>Passant de FineTune</h2>
+
+<p>El canvi triga un parell de minuts i no hi ha cap ritual de neteja.</p>
+
+<ul>
+<li>Instal·leu SoundDial des del Mac App Store. Sense instal·lador, sense aprovació del controlador, sense reinici.</li>
+<li>Feu clic a la icona SoundDial de la barra de menú per veure un control lliscant per a cada aplicació en execució.</li>
+<li>Configureu la vostra combinació diària i, a continuació, deseu-la com a perfil perquè pugueu recordar-la a l'instant.</li>
+<li>Opcionalment, activeu l'acoblament automàtic de manera que l'àudio de fons es deixi de banda per a les trucades i les alertes.</li>
+<li>Quan estiguis feliç, surt de FineTune. Com que cap aplicació instal·la controladors del sistema, no hi ha res per desinstal·lar.</li>
+</ul>
+
+<p>Conserveu el que us va agradar de FineTune, un mesclador de barra de menús net que Apple mai us va donar, i obteniu l'impuls, els perfils, l'esgotament i el suport a llarg termini que ofereix una aplicació App Store mantinguda.</p>
+
+<h2>La línia de fons</h2>
+
+<p>FineTune demostra el concepte: el volum per aplicació pertany a la barra de menús. SoundDial és l'aspecte d'aquest concepte amb un model de suport real, més funcions i seguretat App Store, per 14,99 € únics en comptes d'una aposta pel manteniment voluntari.</p>
+
+<p>Preparat per a un mesclador per aplicació que es mantingui? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i controla el volum de cada aplicació en segons.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Alternativa per al volum real per aplicació a Mac",
+    description: "T'ha agradat l'impuls de eqMac, però necessites el volum, el silenci i els perfils adequats per a cada aplicació? SoundDial és la solució més ràpida de Mac App Store: 14,99 €, amb sorra, sense controladors.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si heu utilitzat eqMac per al seu EQ i reforç de volum, però realment voleu un volum independent per a cada aplicació, a més de silenciar, augmentar i desar els perfils, la solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. És un mesclador de barra de menús Mac App Store: estableix un nivell per aplicació, augmenta els silenciosos i canvia de perfil a l'instant. 14,99 € únic, amb sorra, sense controladors per instal·lar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — eqMac alternativa per al volum real per aplicació a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac vs. el que realment necessiteu</h2>
+
+<p>eqMac és una eina gratuïta sòlida, i el seu equalitzador per a tot el sistema i el reforç de volum són realment útils. Però eqMac es construeix al voltant d'un EQ mestre i una sortida mestra. No us ofereix un mesclador de volum real per aplicació: el que Windows ha tingut durant anys i macOS encara no s'envia de manera nativa.</p>
+
+<p>Per tant, si el vostre problema real és "Spotify és massa fort mentre estic en una trucada" o "aquest joc em fa volar les orelles, però tota la resta està bé", eqMac no és la forma adequada per a la feina. Acabeu muntant un únic control lliscant mestre o jugant amb el volum intern de cada aplicació. Aquest és el buit que ocupa SoundDial.</p>
+
+<h2>Què fa SoundDial que eqMac no</h2>
+
+<ul>
+<li><strong>Volum independent per aplicació</strong> — Música al 40%, un navegador al 100%, una videotrucada al 70%, tot alhora, tot recordat.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació sorollosa a l'instant sense tocar res més.</li>
+<li><strong>Augment per aplicació</strong> — empènyer una aplicació silenciosa més enllà del seu sostre normal, com ho fa el reforç de eqMac, però dirigida a una única aplicació en lloc de tot el sistema.</li>
+<li><strong>Perfils de volum</strong> — deseu configuracions com ara "Enfocament", "Jocs" o "Reunió" i canvieu tota la combinació amb un sol clic.</li>
+<li><strong>Agafement automàtic</strong> — deixeu anar automàticament l'àudio de fons quan comenci alguna cosa més important, de manera que no us calgui un control lliscant a mitja trucada.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres sortides des de la barra de menú.</li>
+</ul>
+
+<p>La superposició amb eqMac és bàsicament l'impuls. Tota la resta (el mesclador, el silenci, els perfils, el ducking) és un territori que eqMac mai no va ser dissenyat per cobrir.</p>
+
+<h2>Encara vols EQ?</h2>
+
+<p>Sigues honest sobre quin problema estàs resolent. Si realment necessiteu un EQ de freqüència (tallar els baixos, domar els alts durs, donar forma al to de tot el vostre sistema), aleshores eqMac encara té un lloc i és gratuït. SoundDial és un mesclador de volum, no un equalitzador.</p>
+
+<p>Però la majoria de la gent aconsegueix el reforç de eqMac no perquè vulgui donar forma a les freqüències, sinó perquè vol una aplicació més forta o la barreja equilibrada. Si ets tu, un mesclador dedicat és la resposta més neta. Fins i tot podeu executar tots dos: manteniu eqMac per a una corba d'EQ a tot el sistema i utilitzeu SoundDial per als nivells per aplicació. No es barallen per la mateixa feina.</p>
+
+<h2>Com es compara amb les altres eines d'àudio Mac</h2>
+
+<p>Com que ja esteu buscant eines, aquí teniu el paisatge honest:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - l'opció de grau professional al voltant de 39 dòlars, amb EQ per aplicació i encaminament de sortida complet. Potent, però necessita una descàrrega directa i instal·la un controlador de captura d'àudio. Excés i més car si tot el que voleu és volum per aplicació amb perfils.</li>
+<li><strong>Background Music</strong> — Gratuït i de codi obert, però pot trencar-se amb les versions més recents de macOS i no té cap impuls, no té perfils i no té cap desviació automàtica. Genial quan funciona, frustrant quan no funciona.</li>
+<li><strong>FineTune</strong> — una aplicació gratuïta de barra de menús de codi obert. Val la pena mirar-ho si 0 dòlars és el requisit difícil, tot i que és més lleuger en funcions i poliment.</li>
+<li><strong>eqMac</strong> - EQ gratuït i reforç, però no hi ha un veritable mesclador per aplicació, tal com es descriu anteriorment.</li>
+</ul>
+
+<p>SoundDial es troba al millor punt: més concentrat i més barat que SoundSource, més capaç i més fiable que les opcions gratuïtes i fa la feina per aplicació que eqMac no fa.</p>
+
+<h2>Per què el Mac App Store és important aquí</h2>
+
+<p>Algunes d'aquestes eines requereixen una descàrrega directa i un controlador d'àudio a nivell de nucli o de captura. Funcionen, però són el tipus de coses que es poden enganxar en una actualització macOS o enganxar-se en una feina bloquejada Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> s'envia a través del Mac App Store. Això vol dir que està revisat per Apple i amb una caixa de sorra, s'instal·la netament sense DMG per arrossegar i no hi ha controladors d'àudio ni extensions del sistema per aprovar. Les actualitzacions arriben a través del App Store com qualsevol altra aplicació, i la desinstal·lació és una supressió normal. Per a una utilitat de la barra de menús que toca el vostre àudio, aquest camí de menor fricció i de menor risc val molt la pena.</p>
+
+<h2>La configuració ràpida</h2>
+
+<ul>
+<li>Instal·leu SoundDial des del Mac App Store: sense reinici, sense indicació del controlador.</li>
+<li>Obriu la icona de la barra de menús; cada aplicació que fa so actualment apareix amb el seu propi control lliscant.</li>
+<li>Estableix nivells, silencia allò que no necessites i augmenta el que sigui massa silenciós.</li>
+<li>Desa l'arranjament com a perfil i després crea'n més per a jocs, trucades o enfocament.</li>
+<li>Activa l'acoblament automàtic perquè l'àudio de fons s'allunyi automàticament.</li>
+</ul>
+
+<p>Això és tot el bucle. En un parell de minuts, només s'ha insinuat el reforç de control per aplicació eqMac.</p>
+
+<p><strong>Preparat per al volum real per aplicació al vostre Mac?</strong> <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> — 14,99 € únics, amb sorra, sense controladors i fa exactament el que hauria de fer un mesclador de barra de menú.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "El mesclador de volum més barat per a Mac el 2026",
+    description: "Esteu buscant el mesclador de volum per aplicació més barat per a Mac el 2026? Compareu SoundDial, SoundSource, Background Music, FineTune i eqMac pel que fa al preu, la seguretat i les característiques.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>El mesclador de volum per aplicació amb millor valor per a Mac el 2026 és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, una aplicació de barra de menús al Mac App Store per 14,99 €. Ofereix a cada aplicació el seu propi control lliscant de volum, a més de silenciar, augmentar, perfils i eliminar automàticament: sense controladors, sense subscripció i sense descàrregues arriscades. És l'opció de pagament més barata que realment funciona de manera fiable.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: el mesclador de volum més barat per a Mac el 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què "el més barat" necessita una definició</h2>
+<p>Hi ha eines de volum gratuïtes per a Mac, de manera que si l'únic objectiu és gastar zero, teniu opcions. Però la gratuïtat acostuma a costar-vos en un altre lloc: fragilitat a les noves versions de macOS, característiques que falten com ara l'impuls o els perfils, o un procés d'instal·lació que implica un controlador de captura d'àudio en el qual heu de confiar. "El bé més barat" significa el preu més baix que encara us ofereix un mesclador estable i amb totes les funcions que seguireu utilitzant. Aquesta és la lent que farem servir aquí.</p>
+
+<h2>En primer lloc, el que macOS no fa</h2>
+<p>Windows ha tingut un mesclador de volum per aplicació durant anys: feu clic amb el botó dret a la icona de l'altaveu i configureu cada aplicació de manera independent. macOS encara no té res d'equivalent integrat. Obteniu un volum mestre i qualsevol control lliscant intern que enviï una aplicació (música, alguns navegadors). No hi ha cap manera a tot el sistema de fer que Slack sigui més silenciós que Spotify, o d'impulsar una videotrucada tranquil·la per sobre de tota la resta. Totes les opcions següents existeixen per omplir aquest buit.</p>
+
+<h2>Els contendents, amb un preu honest</h2>
+
+<h2>SoundDial — 14,99 €, únic</h2>
+<p>SoundDial viu a la barra de menús i ofereix a cada aplicació en execució un control lliscant de volum independent. Més enllà dels conceptes bàsics, afegeix les funcions a les quals la gent realment aconsegueix:</p>
+<ul>
+<li><strong>Augment per aplicació</strong> — empènyer una aplicació massa silenciosa per sobre del 100% en lloc d'esforçar-se per escoltar-la.</li>
+<li><strong>Silència per aplicació</strong> - silenciar una aplicació sense tocar la resta.</li>
+<li><strong>Perfils de volum</strong> — deseu una barreja de "trucada de treball" o "nit de pel·lícules" i recordeu-la a l'instant.</li>
+<li><strong>Agafement automàtic</strong> — deixa anar automàticament l'àudio de fons quan es reprodueix alguna cosa més important.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres dispositius des del mateix menú.</li>
+</ul>
+<p>Com que es troba al Mac App Store, està en una caixa de sorra, revisat per Apple i s'instal·la de manera neta: sense DMG, sense extensió del nucli, sense controlador d'àudio per aprovar. Tu pagues <a href="https://apps.apple.com/app/id6772792641">14,99 € una vegada</a> i el posseeix. Per a la majoria de la gent, aquest és el punt dolç: prou barat com per ser un sí fàcil, prou complet com per no superar-lo.</p>
+
+<h2>SoundSource — ~ 39 dòlars, l'opció professional</h2>
+<p>El SoundSource de Rogue Amoeba és l'estàndard d'or per als usuaris avançats. Fa volum per aplicació i silencia com SoundDial, però va més enllà amb equalitzadors per aplicació i encaminament de sortida complet (envia una aplicació als auriculars, una altra als altaveus). És realment excel·lent, però costa aproximadament 39 dòlars i s'instal·la fora del App Store amb un component de captura d'àudio al qual heu de concedir permís. Si necessiteu un EQ per aplicació o un enrutament complex, val la pena els diners. Si només voleu una batedora neta i barata, pagueu per capacitats que potser no tocareu mai.</p>
+
+<h2>Background Music — gratuït, de codi obert</h2>
+<p>Background Music és una coneguda aplicació gratuïta i de codi obert que ofereix volum per aplicació i pausa automàtica. El problema: s'enganxa profundament a Core Audio mitjançant un controlador virtual i té un llarg historial de trencament de les noves versions de macOS, de vegades necessitant solucions manuals o una reinstal·lació després de les actualitzacions. També li falta impuls, perfils desats i ajudes automàtica. Genial per als aparelladors als quals no els importa el manteniment; frustrant si només vols que funcioni.</p>
+
+<h2>FineTune: barra de menú gratuïta</h2>
+<p>FineTune és una aplicació de volum de barra de menú gratuïta i de codi obert. És lleuger i agradable, i amb un ajust senzill per aplicació pot ser suficient. Però com que és un petit projecte gratuït, no coincideix amb la profunditat de les funcions: no hi ha perfils, cap desviació automàtica i el maneig de l'impuls / sortida és limitat. Cost zero, menys garanties de longevitat i suport.</p>
+
+<h2>eqMac — gratuït, EQ + reforç</h2>
+<p>eqMac és un equalitzador gratuït per a tot el sistema amb un reforç de volum. Es tracta més de donar forma al to i la sonoritat a tot el vostre Mac que no pas barrejar aplicacions individuals, de manera que és una eina diferent per a una feina diferent. Si voleu específicament un control per aplicació, eqMac no és realment la resposta, tot i que és un bon EQ gratuït.</p>
+
+<h2>Preu vs. valor: la taula honesta</h2>
+<ul>
+<li><strong>Veritablement gratuït, però amb avantatges:</strong> Background Music (fràgil, basat en controladors), FineTune (funcions primes), eqMac (EQ, no un mesclador).</li>
+<li><strong>L'aplicació completa de pagament més barata:</strong> SoundDial a 14,99 € — impuls, perfils, ducking, seguretat App Store.</li>
+<li><strong>Premium/pro:</strong> SoundSource a ~ $ 39 — EQ i enrutament, instal·lació que no és App-Store.</li>
+</ul>
+<p>Dit d'una altra manera: SoundDial costa aproximadament un terç de SoundSource mentre cobreix les funcions que el 90% de la gent realment vol. I a diferència de les opcions gratuïtes, no es trencarà en silenci després d'una actualització macOS, perquè no depèn d'un controlador d'àudio fràgil a nivell del sistema.</p>
+
+<h2>Quina hauries de triar?</h2>
+<p>Si sou un professional que necessita EQ per aplicació i per dirigir aplicacions a diferents sortides, compra SoundSource: guanya el seu preu. Si us agrada el codi obert i no us importen trencaments ocasionals, proveu Background Music o FineTune gratuïtament. Però si voleu l'opció més barata que només funcioni: volum independent, augmentar, silenciar, perfils que es poden desar i desactivació automàtica, instal·lada de manera segura des del App Store, SoundDial és el guanyador clar de valor el 2026.</p>
+
+<blockquote>El millor mesclador no és el que té més característiques o el preu més baix, és el que heu configurat una vegada i us oblideu. Amb 14,99 €, SoundDial fa que sigui una trucada fàcil.</blockquote>
+
+<p>Estàs preparat per donar a cada aplicació el seu propi volum? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per un sol 14,99 €: sense subscripció, sense conductors, sense risc.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Mesclador de volum Windows per a Mac: obteniu control de volum per aplicació",
+    description: "Trobeu a faltar el mesclador de volum Windows al vostre Mac? macOS no té control de volum per aplicació integrat. Aquí teniu la manera més ràpida d'aconseguir-ho: SoundDial, un mesclador de barra de menú de 14,99 €.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té un mesclador de volum integrat com Windows, de manera que no podeu configurar el volum per aplicació des de la configuració del sistema. La solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, una aplicació de barra de menús de 14,99 € del Mac App Store. Ofereix a cada aplicació el seu propi control lliscant de volum, silenci i augment: sense controladors, sense DMG, sense instal·lacions arriscades.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mesclador de volum Windows per a Mac: obteniu control de volum per aplicació" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què el mesclador de volum Windows no té cap equivalent a Mac</h2>
+
+<p>Si heu canviat de Windows, una de les primeres coses que us trobareu a faltar és el Mesclador de volum: feu clic amb el botó dret a la icona de l'altaveu i cada aplicació en execució tindrà el seu propi control lliscant. Baixeu Chrome, mantingueu Discord fort, silencieu Spotify, tot en un sol lloc.</p>
+
+<p>macOS simplement no l'envia. El control de volum d'Apple és un control lliscant únic per a tot el sistema. Sigui quin sigui el nivell que establiu, s'aplica a tot alhora. No hi ha cap opció per a l'aplicació amagada a la configuració del sistema, cap ordre Terminal, cap commutació d'accessibilitat. És un buit genuí, i fa anys que és així.</p>
+
+<p>El motiu és arquitectònic: les aplicacions encaminen l'àudio a través de Core Audio al dispositiu de sortida i el sistema operatiu no exposa un mesclador orientat a l'usuari per als fluxos individuals. Per recrear l'experiència Windows, necessiteu una aplicació de tercers que es trobi en aquest camí d'àudio i us ofereixi els controls que Apple va deixar fora.</p>
+
+<h2>La coincidència més semblant: SoundDial</h2>
+
+<p>SoundDial és un mesclador de volum per aplicació de barra de menús creat específicament per a això. Feu clic a la seva icona i obtindreu una llista neta de tot el que es reprodueix àudio, cadascun amb el seu propi control lliscant. És el "Mezclador de volum Windows per a Mac" més directe que podeu instal·lar i fa algunes coses que el mesclador Windows mai podria:</p>
+
+<ul>
+<li><strong>Volum independent per aplicació</strong> - la característica bàsica. Estableix Chrome al 40%, Zoom al 100%, la música al 20%.</li>
+<li><strong>Silència per aplicació</strong> - silenciar una aplicació sense tocar la resta.</li>
+<li><strong>Augment del volum per aplicació</strong> - empènyer una aplicació silenciosa <em>a dalt</em> 100% quan el seu propi àudio és massa baix.</li>
+<li><strong>Perfils de volum</strong> — deseu una barreja (per exemple, "trucada de treball" o "jocs") i recordeu-la a l'instant en lloc de tornar a arrossegar els controls lliscants.</li>
+<li><strong>Agafement automàtic</strong> — baixa automàticament l'àudio de fons quan comença alguna cosa més important, com ara una trucada.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres dispositius des del mateix menú.</li>
+</ul>
+
+<p>Perquè està a la <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, és revisat per Apple i en una caixa de sorra. S'instal·la netament amb un sol clic: sense DMG per arrossegar, cap controlador d'àudio o extensió del sistema per aprovar, sense instruccions de seguretat. Amb 14,99 € únics (sense subscripció), és la manera més senzilla de reduir la diferència.</p>
+
+<h2>Com configurar el volum per aplicació al vostre Mac</h2>
+
+<ol>
+<li>Instal·leu SoundDial des del Mac App Store.</li>
+<li>Concediu el permís d'àudio únic que sol·licita al primer llançament.</li>
+<li>Feu clic a la icona SoundDial de la barra de menús.</li>
+<li>Arrossegueu el control lliscant que hi ha al costat de qualsevol aplicació per ajustar-ne el volum o premeu silenciar/augmentar.</li>
+<li>Opcionalment, deseu la combinació actual com a perfil perquè pugueu restaurar-la més tard.</li>
+</ol>
+
+<p>Aquest és tot el flux de treball. Es comporta com el mesclador Windows que ja coneixeu, només des de la barra de menús en lloc de fer clic amb el botó dret a la barra de tasques.</p>
+
+<h2>Com es compara SoundDial amb altres opcions</h2>
+
+<p>SoundDial no és l'única eina en aquest espai, així que aquí teniu una visió honesta de les alternatives.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - al voltant de 39 dòlars, i realment de grau professional: EQ per aplicació, encaminament de sortida per aplicació, efectes. Però requereix una descàrrega directa més un controlador de captura d'àudio, i és excessiu (i més car) si només voleu un volum per aplicació. Trieu-lo si necessiteu EQ i encaminament; trieu SoundDial si voleu el mesclador sense la complexitat ni el controlador.</li>
+<li><strong>Background Music</strong> — gratuït i de codi obert, que és fantàstic. El problema: pot trencar-se en les versions més noves de macOS, i no té un impuls, perfils desats i desactivació automàtica. Bé si us sentiu còmode resolent els controladors d'àudio de codi obert; menys ideal si vols alguna cosa que funcioni.</li>
+<li><strong>FineTune</strong> — una aplicació gratuïta de barra de menús de codi obert. Lleuger i val la pena mirar-lo si el pressupost és la prioritat, però estàs intercanviant poliment, perfils i seguretat App Store de forma gratuïta.</li>
+<li><strong>eqMac</strong> — un EQ gratuït i un reforç per a tot el sistema. Primer és un equalitzador, no un mesclador per aplicació, de manera que resol un problema diferent.</li>
+</ul>
+
+<p>La compensació és senzilla. Les eines gratuïtes no costen res, però poden ser fràgils o poc funcionals. SoundSource és potent però car i basat en controladors. SoundDial es troba al millor punt: 14,99 € únics, seguretat i sandboxing App Store, i els perfils + agafement automàtic que salten les opcions gratuïtes.</p>
+
+<blockquote>Si tot el que voleu és l'experiència del mesclador de volum Windows: control lliscant per aplicació, silenci i augment, instal·lat de manera segura en segons, SoundDial és la coincidència més directa.</blockquote>
+
+<h2>La línia de fons</h2>
+
+<p>macOS no us donarà un mesclador de volum, i probablement no ho farà mai. Però no cal que viviu amb un control lliscant per a tot el sistema. Un mesclador de barra de menús dedicat restaura el control per aplicació que teníeu a Windows i afegeix impuls, perfils i atenuació automàtica a la part superior.</p>
+
+<p>Estàs preparat per obtenir el volum per aplicació de la manera fàcil? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per 14,99 €: únic, amb caixa de sorra i instal·lació en segons.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Estableix el volum de l'aplicació com ho fa Windows, al teu Mac",
+    description: "Windows té un mesclador de volum per aplicació, però macOS no. A continuació s'explica com configurar el volum independent per a cada aplicació del vostre Mac, de manera ràpida, segura i sense controladors.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té cap mesclador de volum per aplicació integrat com el de Windows, de manera que la solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, una aplicació de barra de menús Mac App Store que ofereix a cada aplicació el seu propi control lliscant de volum, silenci per aplicació i augment de volum. Està en una caixa de sorra, revisat per Apple, s'instal·la sense controladors i costa 14,99 € una vegada.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - Establiu el volum de l&#x27;aplicació com ho fa Windows - al vostre Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què Windows pot fer això i macOS no</h2>
+<p>Si heu utilitzat Windows, ja coneixeu l'exercici: feu clic amb el botó dret a la icona de l'altaveu, obriu el Mesclador de volum i arrossegueu un control lliscant separat per a Chrome, Spotify, Discord i qualsevol altra cosa que faci soroll. És senzill i funciona.</p>
+<p>macOS mai no va enviar un equivalent. Els controls d'àudio d'Apple són globals: un volum principal per a tot el sistema. Podeu silenciar una aplicació silenciant la font dins d'aquesta aplicació (si fins i tot té un control), però no hi ha cap lloc unificat per dir "mantingueu la meva música al 40% mentre la meva reunió es mantingui al 100%.". Aquest buit és exactament el motiu pel qual existeixen els mescladors de tercers.</p>
+
+<h2>La solució més ràpida: un mesclador de barra de menús</h2>
+<p>La coincidència més semblant a l'experiència Windows és una aplicació de barra de menús que enumera les vostres aplicacions d'àudio en funcionament i ofereix a cadascuna un control lliscant. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> fa precisament això. Feu clic a la seva icona a la barra de menú i obtindreu:</p>
+<ul>
+<li><strong>Volum independent per a cada aplicació</strong> — arrossegueu Spotify cap avall sense tocar la trucada.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació sorollosa a l'instant, deixeu que la resta jugui.</li>
+<li><strong>Augment del volum per aplicació</strong> — empènyer una aplicació massa silenciosa <em>a dalt</em> 100% quan el seu màxim encara és massa tou.</li>
+<li><strong>Perfils de volum</strong> — deseu una barreja "Treball" o "Gaming" i recordeu-la amb un sol clic.</li>
+<li><strong>Agafement automàtic</strong> - baixa automàticament l'àudio de fons quan comença alguna cosa més important.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres sortides des del mateix menú.</li>
+</ul>
+<p>Com que es troba al Mac App Store, Apple l'ha revisat i s'instal·la de manera neta i no hi ha cap DMG per arrossegar, cap extensió del nucli i cap controlador d'àudio per aprovar a la configuració del sistema. Aquesta última part importa més del que sembla: les eines basades en controladors són les que solen trencar-se després de les actualitzacions de macOS.</p>
+
+<h2>Com configurar-lo (uns dos minuts)</h2>
+<ul>
+<li><strong>1.</strong> Instal·leu SoundDial des del Mac App Store i inicieu-lo.</li>
+<li><strong>2.</strong> Concediu el permís d'àudio que sol·licita macOS; això és el que permet que l'aplicació vegi els fluxos per aplicació.</li>
+<li><strong>3.</strong> Feu clic a la icona SoundDial de la barra de menús. Cada aplicació que reprodueix àudio actualment es mostra amb el seu propi control lliscant.</li>
+<li><strong>4.</strong> Arrossegueu el control lliscant de qualsevol aplicació per establir-ne el nivell o premeu silenci. Augmenta el 100% quan una aplicació és massa silenciosa.</li>
+<li><strong>5.</strong> (Opcional) Deseu la vostra combinació actual com a perfil perquè pugueu restaurar-la més tard i activeu l'acoblament automàtic si voleu que l'àudio de fons caigui automàticament.</li>
+</ul>
+<p>Aquest és tot el flux de treball. Es comporta com el mesclador de volum Windows que ja coneixeu, menys la fricció de configuració.</p>
+
+<h2>Què passa amb les alternatives gratuïtes i professionals?</h2>
+<p>Hi ha altres maneres d'aconseguir el volum per aplicació en un Mac. Val la pena conèixer-los perquè pugueu triar honestament.</p>
+<blockquote>Les eines gratuïtes intercanvien diners per fiabilitat i funcions; les eines professionals intercanvien diners i configuren la profunditat que potser no necessiteu.</blockquote>
+<p><strong>Background Music</strong> és gratuït i de codi obert, i proporciona volum per aplicació. El problema: s'enganxa profundament al sistema d'àudio i té un historial de trencament de les versions més recents de macOS, i no té un impuls, perfils i desactivació automàtica. Si funciona a la vostra configuració, genial, però és una aposta per les actualitzacions.</p>
+<p><strong>FineTune</strong> és una aplicació gratuïta de barra de menús de codi obert amb el mateix esperit que SoundDial. És un bon punt de partida si l'única preocupació és el pressupost, tot i que es tracta d'un projecte comunitari sense perfils ni poliment.</p>
+<p><strong>eqMac</strong> és un EQ i un amplificador gratuïts per a tot el sistema. És ideal per donar forma al so general, però no és un veritable mesclador per aplicació: esteu ajustant tota la sortida, no aplicacions individuals.</p>
+<p><strong>SoundSource</strong> de Rogue Amoeba (al voltant de 39 dòlars) és l'opció de grau professional: EQ per aplicació, enrutament de sortida per aplicació i funcions serioses d'enginyer d'àudio. És excel·lent, però necessita una descàrrega directa i instal·la un component de captura d'àudio, i costa més del doble del que fa SoundDial. Si voleu un enrutament i un EQ a nivell d'estudi, aquesta és la millor opció. Si només voleu el mesclador d'estil Windows, és excessiu.</p>
+
+<h2>Quin hauríeu d'aconseguir?</h2>
+<p>Si el vostre objectiu és "fer que el meu Mac funcioni com el Mesclador de volums Windows" sense descàrregues, controladors ni risc, SoundDial és la resposta més neta. Obteniu volum per aplicació, silenci, reforç, perfils i desactivació automàtica, tot segur per a App Store, per 14,99 € únic, sense subscripció. Trieu SoundSource només si necessiteu específicament l'EQ per a l'aplicació i l'encaminament de sortida, i proveu les opcions gratuïtes si us sentiu còmode resolent-los amb les actualitzacions de macOS.</p>
+
+<p><strong>Estàs preparat per donar a cada aplicació el seu propi volum?</strong> <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i configureu la vostra primera barreja en uns dos minuts.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "Com fer que el vostre Mac sigui més fort per a audicions amb dificultats auditives",
+    description: "Teniu problemes per escoltar el vostre Mac fins i tot al màxim volum? Obteniu informació sobre com augmentar i aclarir l'àudio per aplicació per a audicions amb dificultats auditives, inclosos SoundDial i consells integrats.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si el vostre Mac no és prou fort fins i tot al volum màxim, la solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de barra de menús Mac App Store que us permet augmentar qualsevol aplicació més enllà del 100% i silenciar tota la resta. Això significa un discurs més fort i més clar des de FaceTime, un vídeo o un reproductor de pel·lícules sense activar tot el sistema. Són 14,99 €, una vegada.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: com fer que el vostre Mac sigui més fort per a escoltar amb problemes d&#x27;audició" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què augmentar el control lliscant de volum encara no és suficient</h2>
+<p>Per als oients amb dificultats auditives, el control lliscant de volum macOS té dos límits frustrants. En primer lloc, limita al 100% del que produeix l'aplicació. Si un podcast, un vídeo o una trucada s'han gravat en silenci, el "volum complet" encara és massa suau. En segon lloc, macOS no té un mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys, però en un Mac cada aplicació comparteix un únic nivell mestre. Així, quan ho apuges tot per escoltar una veu suau, la música de fons i els sons de notificació també es fan incòmode.</p>
+<p>El que realment necessites és la capacitat de fer <em>un</em> aplicació més forta que la resta, empeny-la més enllà del seu sostre normal i retalla els sons competitius perquè la parla destaqui. Aquest és exactament el buit que omplen aquestes eines.</p>
+
+<h2>Primer, utilitzeu la configuració gratuïta d'accessibilitat macOS</h2>
+<p>Abans d'afegir qualsevol aplicació, val la pena configurar el que ja ofereix macOS. Aquests ajuden a la claredat, tot i que no afegeixen un volum brut:</p>
+<ul>
+<li><strong>Àudio mono:</strong> Configuració del sistema &rarr; Accessibilitat &rarr; Àudio, activeu "Reprodueix àudio estèreo com a mono". Si la vostra audició és més forta en una orella, això envia el senyal complet a totes dues, de manera que no perdeu la meitat del diàleg.</li>
+<li><strong>Ajust de saldo:</strong> A la configuració del sistema So &rarr;, arrossegueu l'equilibri esquerra/dreta cap a la vostra oïda més forta.</li>
+<li><strong>Reduir els sons de fons:</strong> Redueix la música i l'ambient a les aplicacions que ho permeten, de manera que les veus no lluiten contra una banda sonora.</li>
+<li><strong>Allotjament d'auriculars:</strong> Si utilitzeu AirPods o Beats, Configuració del sistema &rarr; Accessibilitat &rarr; Àudio &rarr; Allotjaments per a auriculars poden amplificar sons suaus i afinar la veu.</li>
+</ul>
+<p>Són realment útils i no costen res. Però cap d'ells fa una única aplicació silenciosa <em>més fort que el 100%</em>, i aquest sol ser el veritable problema.</p>
+
+<h2>Com augmentar una aplicació més enllà del 100% amb SoundDial</h2>
+<p>SoundDial viu a la barra de menús i mostra un control lliscant per a cada aplicació que està reproduint so. Aquest és el flux de treball que més ajuda per escoltar amb problemes d'audició:</p>
+<ul>
+<li><strong>Potencia l'aplicació que estàs escoltant.</strong> Arrossegueu el control lliscant per sobre del 100% per amplificar una videotrucada tranquil·la o un podcast més enllà del que permet l'aplicació per si sola.</li>
+<li><strong>Silencia o baixa tota la resta.</strong> Baixeu la música, les pestanyes del navegador o els sons de notificació perquè res no competeixi amb la veu que intenteu seguir.</li>
+<li><strong>Activa l'acoblament automàtic.</strong> Quan comenceu a parlar en una trucada, SoundDial redueix automàticament un altre àudio perquè la persona amb qui parleu surti clarament i després el restaura.</li>
+<li><strong>Desa un perfil de volum.</strong> Creeu un perfil de "videotrucades" on la vostra aplicació de conferències s'ampliï i tota la resta estigui en silenci i, a continuació, canvieu-hi a l'instant en comptes de tornar-lo a ajustar cada vegada.</li>
+<li><strong>Canvia la sortida ràpidament.</strong> Salta entre altaveus, auriculars o dispositiu connectat a un audiòfon des del mateix menú, sense buscar a la configuració del sistema.</li>
+</ul>
+<p>La funció d'impuls és la clau aquí. Com que augmenta la sortida de l'aplicació per sobre del seu màxim natiu, una gravació silenciosa es converteix en una cosa que realment podeu escoltar, mentre que la resta del vostre sistema es manté a un nivell còmode.</p>
+
+<h2>Una paraula ràpida sobre la distorsió</h2>
+<p>Qualsevol augment del programari amplifica tot el que hi ha al senyal, de manera que avançar molt més enllà del 100% en un àudio ja fort pot introduir retalls. A la pràctica, potenciant <em>tranquil</em> contingut fins a un nivell còmode i intel·ligible sona net. Comenceu amb modestia, aixequeu fins que el discurs sigui clar i feu marxa enrere si comença a sonar dur. La protecció de la resta de l'audició és important, així que procura la claredat en lloc de la màxima sonoritat.</p>
+
+<h2>Com es compara SoundDial amb les alternatives</h2>
+<p>Tens algunes opcions i l'honestedat t'ajuda a triar la correcta:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39):</strong> Veritablement professional, amb EQ per aplicació i encaminament de sortida. Si voleu esculpir freqüències per a la pèrdua auditiva, és potent. Però costa més del doble, requereix una descàrrega directa i instal·la un controlador de captura d'àudio. Això és més configuració i accés al sistema del que moltes persones volen.</li>
+<li><strong>Background Music (gratuït, codi obert):</strong> Ofereix un volum per aplicació de manera gratuïta, però no té un impuls, perfils i desactivació automàtica, i es pot trencar amb les versions macOS més noves, ja que s'enganxa profundament al sistema d'àudio.</li>
+<li><strong>FineTune (gratuït, codi obert):</strong> Una aplicació lleugera de volum de la barra de menús. Bé per als conceptes bàsics, però sense l'impuls, els perfils i l'escàndol en què es recolzen els oients amb dificultats auditives.</li>
+<li><strong>eqMac (gratuït):</strong> Un equalitzador amb un reforç. Útil per donar forma al so, però està construït al voltant de l'EQ en lloc de la barreja i els perfils nets per aplicació.</li>
+</ul>
+<p>On <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> destaca és l'equilibri de preu, seguretat i les característiques específiques que importen aquí. Com que es troba al Mac App Store, està revisat per Apple i s'instal·la de manera neta sense DMG i no necessita controladors d'àudio ni extensions del sistema. Obteniu perfils d'augment per aplicació, silenciació, volum i desactivació automàtica en una compra única de 14,99 €, sense que res s'enfoqui a la pila d'àudio macOS.</p>
+
+<h2>La línia de fons</h2>
+<p>Configureu primer les opcions d'accessibilitat gratuïtes macOS, val la pena tenir-les. Però si el veritable problema és que una aplicació és massa silenciosa, necessiteu una eina que pugui empènyer una sola aplicació més enllà del 100% i silenciar la resta. Aquest és l'objectiu d'un impuls per aplicació, i macOS no ho fa per si sol.</p>
+
+<p>Estàs preparat per escoltar el teu Mac? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per 14,99 €, millora l'aplicació que necessites i deixa que l'acoblament automàtic i els perfils mantinguin la parla clara.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Com augmentar una aplicació silenciosa a Mac (volum màxim passat)",
+    description: "Una aplicació massa silenciosa fins i tot al 100%? Potencia només aquesta aplicació més enllà del seu màxim a Mac amb SoundDial, un mesclador de volum per aplicació. Aquí teniu la solució més ràpida i les alternatives.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si una aplicació és massa silenciosa fins i tot al volum màxim, la solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de volum per aplicació de la barra de menús per a macOS. Ofereix a cada aplicació el seu propi control lliscant més un volum <strong>impulsar</strong> això fa que una sola aplicació superi el 100%, de manera que una videotrucada o una pestanya del navegador silencioses s'agreugen sense tocar el volum del sistema. És una aplicació única de 14,99 € al Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: com augmentar una aplicació silenciosa a Mac (volum màxim passat)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què una aplicació és silenciosa fins i tot al 100%</h2>
+<p>macOS només té un volum mestre. Quan l'aixeques, tot es fa més fort junt. Però cada aplicació també emet so al seu propi nivell intern, i aquest nivell varia moltíssim. Un clip YouTube dominat en silenci, una persona que truca a Zoom amb un micròfon dolent, un joc amb poca barreja de diàlegs o una pestanya del navegador amb un flux suau poden situar-se molt per sota de tota la resta, fins i tot amb el vostre Mac a tota velocitat.</p>
+<p>El veritable problema: macOS té <strong>cap mesclador de volum per aplicació integrat</strong>. Windows n'ha tingut un durant anys (el mesclador de volum, feu clic amb el botó dret a la icona de l'altaveu). En un Mac, no hi ha cap manera nativa d'activar una aplicació deixant la resta sola, i definitivament no hi ha manera d'amplificar una sola aplicació. <em>a dalt</em> el seu màxim normal. Aquest és el buit que estàs fent.</p>
+
+<h2>La solució més ràpida: augmenta només aquesta aplicació</h2>
+<p>Un mesclador per aplicació soluciona això inserint-se entre les vostres aplicacions i la vostra sortida, de manera que pot augmentar o baixar cada flux de manera independent i augmentar-ne un més enllà del 100%. Amb <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, el flux és curt:</p>
+<ul>
+<li>Instal·leu-lo des del Mac App Store i obriu-lo. Viu a la barra de menús, no a una finestra flotant.</li>
+<li>Feu clic a la icona de la barra de menú per veure un control lliscant per a cada aplicació que està reproduint àudio.</li>
+<li>Trobeu l'aplicació silenciosa i arrossegueu el control lliscant més enllà del 100% per aplicar l'impuls. Només amplifica aquesta aplicació.</li>
+<li>Deixeu tota la resta on estigui. El volum del vostre sistema i altres aplicacions no es toquen.</li>
+</ul>
+<p>Com que l'augment és per aplicació, podeu impulsar una videotrucada suau fins a un nivell còmode mentre eviteu que la música o les notificacions es converteixin en una orella. Aquesta és la cosa bàsica que els controls integrats macOS simplement no poden fer.</p>
+
+<h2>Una nota sobre l'impuls i el retall</h2>
+<p>Boost és realment útil, però és amplificació, no màgia. Si l'àudio original d'una aplicació és molt silenciós o ja està distorsionat, fer-ho amb força pot introduir retalls o fer que el fons sigui més evident. A la pràctica, un impuls moderat soluciona la gran majoria de situacions d'"aquesta trucada és massa tranquil·la" de manera clara. Feu-lo cap amunt fins que l'aplicació sigui còmoda en lloc de colpejar-la al sostre i mantindreu el so net.</p>
+
+<h2>Més enllà de l'impuls: què més ajuda</h2>
+<p>Un cop tingueu el control per aplicació, algunes funcions fan que el problema de l'aplicació silenciosa desaparegui definitivament:</p>
+<ul>
+<li><strong>Perfils de volum</strong> — deseu una configuració (per exemple, "augmenta Zoom, baixa Spotify, silencia Slack") i recordeu-la amb un sol clic en lloc de tornar a arrossegar els controls lliscants a cada reunió.</li>
+<li><strong>Agafement automàtic</strong> — submergir automàticament altres aplicacions quan es reprodueix una aplicació escollida, de manera que una trucada reforçada s'escolta clarament sobre l'àudio de fons.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació sorollosa sense aturar res més.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars o una interfície externa des del mateix menú.</li>
+</ul>
+
+<h2>Què passa amb les alternatives gratuïtes i professionals?</h2>
+<p>Teniu opcions, i l'honestedat és important aquí, així que aquí teniu el paisatge real.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) és l'opció professional al voltant de 39 dòlars. Fa volum per aplicació més EQ per aplicació i enrutament de sortida complet, més potència del que necessita la majoria de la gent. Els avantatges: costa més del doble, és una descàrrega directa en lloc de App Store i instal·la un controlador de captura d'àudio per fer la seva feina. Si voleu un conjunt d'eines d'enginyer d'àudio, és excel·lent. Si només voleu una aplicació més forta, és excessiva.</p>
+<p><strong>Background Music</strong> és gratuït i de codi obert, i pot fer un volum bàsic per aplicació. Però és un projecte comunitari que té un historial de trencament de les versions més noves de macOS, i no té un impuls més enllà del 100%, els perfils i l'apagament automàtic. Genial si gratuït és l'únic requisit i no t'importa trencar-se ocasionalment.</p>
+<p><strong>FineTune</strong> és una aplicació gratuïta de barra de menús de codi obert i <strong>eqMac</strong> és un EQ gratuït i un reforç del sistema. Val la pena provar tots dos si el vostre pressupost és zero. Només s'ha de saber que es mantenen per la comunitat, es centren en l'EQ o són més lleugers en la gestió per aplicació, i no agrupeu perfils i agafeu-los en un sol paquet.</p>
+<p>On <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> terres: és el camí del mig. Més barat que SoundSource, més capaç i més fiable que les eines gratuïtes, i està a la <strong>Mac App Store</strong>, que vol dir que Apple ha revisat, amb una caixa de sorra i s'instal·la de manera neta <strong>sense DMG i sense controladors d'àudio ni extensions</strong> per connectar-se al vostre sistema. Per a la majoria de la gent, la recomanació honesta és senzilla: si voleu la solució amb menys molèsties que també us ofereixi un impuls, perfils i desviació automàtica, és el millor valor a 14,99 € una vegada.</p>
+
+<h2>Resposta ràpida, repetida</h2>
+<blockquote>Per fer que una aplicació Mac sigui més forta que la seva màxima, utilitzeu un mesclador de volum per aplicació amb boost. Obriu SoundDial des de la barra de menús, cerqueu el control lliscant de l'aplicació silenciosa i arrossegueu-lo més enllà del 100%. Només aquesta aplicació es fa més forta.</blockquote>
+
+<p>Deixeu de lluitar contra un control lliscant de volum per a tot el vostre Mac. Aconsegueix <a href="https://apps.apple.com/app/id6772792641">SoundDial al Mac App Store</a> per 14,99 € una vegada, augmenta aquesta aplicació tranquil·la més enllà del seu límit en segons i desa un perfil perquè no hagis de pensar-hi mai més.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Com amplificar vídeos i podcasts silenciosos al vostre Mac",
+    description: "Alguns vídeos, podcasts i conferències de YouTube són massa silenciosos fins i tot al 100%. A continuació s'explica com augmentar el volum per aplicació més enllà del màxim a macOS amb SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>La solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de barra de menús Mac App Store que ofereix a cada aplicació el seu propi control lliscant de volum i un real <strong>impulsar</strong> que supera el 100%. Obriu el vostre navegador o reproductor de podcasts, arrossegueu el control lliscant per sobre del màxim, i un vídeo o una conferència tranquil·la es farà més fort a l'instant: sense controladors, sense reiniciar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Com amplificar vídeos i podcasts silenciosos al vostre Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què alguns vídeos i podcasts són massa silenciosos</h2>
+<p>Poseu el vostre Mac al 100% i l'entrevista encara és un xiuxiueig. Això no és la teva imaginació. L'àudio es domina a nivells de sonoritat molt diferents: un seminari web gravat en un micròfon d'un ordinador portàtil, un podcast independent tranquil o una càrrega antiga de conferències poden situar-se entre 15 i 20 dB per sota d'un vídeo YouTube produït professionalment. El volum del vostre sistema ja està al màxim, de manera que no hi ha marge per donar.</p>
+<p>Aquí teniu la captura: macOS té <strong>cap mesclador de volum per aplicació integrat</strong>. Windows n'ha tingut un durant anys (el mesclador de volum a la safata del sistema), però en un Mac, les tecles de volum mouen un nivell global per a tot. No hi ha cap manera nativa de dir "feu que només aquesta pestanya del navegador sigui més alta", i molt menys impulsar una sola aplicació més enllà del 100%.</p>
+
+<h2>La veritable solució: augment del volum per aplicació</h2>
+<p>Per fer que una font tranquil·la sigui més alta del que permeten normalment els altaveus, necessiteu un programari que li aplique guany <em>concretament aquesta aplicació</em> i pot amplificar més enllà del sostre del 100%. Això és exactament el que fa un mesclador per aplicació amb una funció d'impuls.</p>
+<p>Amb <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, cada aplicació en execució apareix en una llista de la barra de menús amb el seu propi control lliscant. Feu lliscar una aplicació silenciosa fins a un 150% o un 200% i l'àudio s'amplifica en temps real. Com que l'impuls és per aplicació, tota la resta (la vostra música, notificacions, una trucada en una altra finestra) es manté en un nivell normal. No estàs explotant tot el teu sistema per escoltar un podcast suau.</p>
+<blockquote>El volum global pregunta "Quan fort és el Mac?" Un mesclador per aplicació pregunta "Quan fort és <em>això</em> aplicació?" — que és la pregunta que realment importa quan un vídeo està en silenci i la resta està bé.</blockquote>
+
+<h2>Com potenciar un vídeo o podcast silenciós, pas a pas</h2>
+<ul>
+<li><strong>Instal·leu SoundDial</strong> de la Mac App Store. Té una caixa de sorra i revisat per Apple, de manera que s'instal·la netament com qualsevol altra aplicació: sense descàrrega independent, sense controlador d'àudio, sense guant de permís.</li>
+<li><strong>Comença a jugar</strong> el vídeo silenciós, l'episodi de podcast o la conferència en qualsevol aplicació que utilitzeu: Safari, Chrome, un client de podcast, VLC.</li>
+<li><strong>Feu clic a la icona SoundDial</strong> a la barra de menús. Veureu un control lliscant per a cada aplicació que fa so.</li>
+<li><strong>Arrossegueu el control lliscant d'aquesta aplicació per sobre del 100%</strong> — Proveu primer el 150% i, a continuació, premeu més si encara és massa tou. El canvi és instantani.</li>
+<li><strong>Deixa tota la resta en pau.</strong> Només l'aplicació que has potenciat es fa més forta; el vostre sistema es manté equilibrat.</li>
+</ul>
+<p>Si us trobeu potenciant les mateixes aplicacions cada dia (per exemple, un reproductor de podcasts i el vostre navegador), podeu desar aquesta configuració com a <strong>perfil de volum</strong> i recordeu-lo amb un clic en comptes de tornar-lo a ajustar cada vegada.</p>
+
+<h2>Una paraula de precaució sobre l'impuls</h2>
+<p>Amplificar més enllà del 100% afegeix guany i el guany té límits. Premeu una gravació molt tranquil·la i de baixa qualitat amb prou força i és possible que escolteu retalls o distorsió: aquesta és la font que s'esgota el senyal net, no un defecte a l'aplicació. Augmenta fins que sigui audible còmodament, després retira si comença a sonar dur. En els altaveus d'ordinador portàtils integrats, l'impuls extrem també pot esforçar els controladors, així que aneu-hi més fàcil que amb bons auriculars o altaveus externs.</p>
+
+<h2>Què passa amb les opcions gratuïtes o integrades?</h2>
+<p>Tens alternatives, i val la pena ser sincer sobre elles:</p>
+<ul>
+<li><strong>Volum del sistema + control lliscant a nivell d'aplicació.</strong> Alguns reproductors (VLC, alguns navegadors mitjançant extensions) us permeten augmentar el seu propi àudio. Està bé si només ho necessiteu en una aplicació, però us heu quedat bloquejat configurant cada aplicació per separat, sense control unificat i sense perfils.</li>
+<li><strong>eqMac</strong> és un EQ i un reforç gratuïts. Pot augmentar la sonoritat a tot el sistema, però és una eina global, no un mesclador net per aplicació, i funciona a nivell de sortida total.</li>
+<li><strong>Background Music</strong> és gratuït i de codi obert i ofereix volum per aplicació. Però es basa en una configuració de captura d'àudio que pot trencar-se amb les versions més noves de macOS, i no té un impuls, perfils i desactivació automàtica dedicats.</li>
+<li><strong>FineTune</strong> és una aplicació gratuïta de barra de menús de codi obert: una opció lleugera si voleu els conceptes bàsics i no us importa el programari mantingut per la comunitat.</li>
+<li><strong>SoundSource</strong> de Rogue Amoeba (~ 39 dòlars) és el pes pesat professional: EQ per aplicació, encaminament de sortida, les obres. També requereix una descàrrega i un controlador de captura d'àudio, i costa més del doble de SoundDial. Excés si tot el que voleu és fer més fort l'àudio silenciós.</li>
+</ul>
+
+<h2>Per què SoundDial és l'opció pràctica</h2>
+<p>SoundDial es troba al punt dolç per a aquest problema exacte. És <strong>14,99 € únic</strong> — sense subscripció — i viu del <strong>Mac App Store</strong>, el que significa que està en una caixa de sorra, revisada per Apple i s'instal·la sense cap DMG ni extensió del sistema en què confiar. Obteniu l'impuls per aplicació que realment vau obtenir, a més de perfils, silenci per aplicació, canvi ràpid de sortida i <strong>auto-anegació</strong> que enfonsa altres aplicacions quan necessiteu centrar-vos en una. Fa el soroll senzillament i la resta fa bé.</p>
+
+<p><strong>Cansat d'esforçar-se per escoltar vídeos i podcasts tranquils?</strong> <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per 14,99 € i donar a cada aplicació el seu propi volum, amb l'impuls per escoltar qualsevol cosa amb claredat.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Com configurar un volum diferent per a cada aplicació a Mac",
+    description: "macOS no té cap mesclador de volum per aplicació integrat. A continuació s'explica com establir nivells de volum independents i persistents per a cada aplicació a Mac mitjançant SoundDial i les alternatives.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té cap manera integrada de configurar un volum diferent per a cada aplicació, de manera que necessiteu un mesclador de volum de la barra de menús. La solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, una aplicació Mac App Store que ofereix a cada aplicació el seu propi control lliscant de volum, silenci per aplicació i un impuls que fa que les aplicacions silencioses superin el 100%. Estableix els teus nivells una vegada i s'enganxen.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Com configurar un volum diferent per a cada aplicació a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què Mac no té control de volum per aplicació</h2>
+<p>Si heu canviat de Windows, probablement heu anat a buscar l'equivalent al mesclador de volum Windows, aquest petit panell on cada aplicació té el seu propi control lliscant. No hi és. macOS només ofereix un volum de sistema global. Tant si es tracta d'un vídeo YouTube, una trucada Zoom, Spotify o un joc, tots comparteixen el mateix nivell mestre.</p>
+<p>Això està bé fins que no ho sigui. El xat Discord ofega la teva música. Un anunci del navegador esclata a tot volum mentre el vostre podcast es reprodueix en silenci a sota. El teu joc és ensordidor, però la trucada de veu de fons és massa suau. L'única "solució" que Apple us ofereix és obrir cada aplicació i ajustar el seu volum intern manualment, si l'aplicació fins i tot en té una, i tornar-la a fer cada sessió.</p>
+<p>Per obtenir un control real per aplicació, necessiteu una petita utilitat que es trobi entre les vostres aplicacions i el vostre dispositiu de sortida. A continuació es mostra com fer-ho correctament, a més de notes honestes sobre les alternatives.</p>
+
+<h2>La manera més ràpida: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> viu a la barra de menús i enumera totes les aplicacions que estan reproduint àudio. Cadascun té un control lliscant independent. Aquí teniu tot el flux de treball:</p>
+<ul>
+<li><strong>Instal·leu des del Mac App Store.</strong> Està revisat per Apple i en una caixa de sorra, de manera que no hi ha DMG, ni controlador d'àudio ni cap extensió del nucli o del sistema per aprovar. S'instal·la com qualsevol aplicació normal i es pot eliminar de la mateixa manera.</li>
+<li><strong>Feu clic a la icona de la barra de menús.</strong> Veureu un control lliscant per a cada aplicació activa, a més d'un control mestre.</li>
+<li><strong>Arrossegueu per establir nivells.</strong> Baixeu Discord, aixequeu Spotify, silencieu completament l'aplicació d'una pestanya del navegador sorollosa amb un sol clic.</li>
+<li><strong>Potencia les aplicacions silencioses.</strong> Si una aplicació és massa suau fins i tot al 100%, empeny-la per sobre del 100% amb un impuls per aplicació.</li>
+<li><strong>Desa un perfil.</strong> Emmagatzema la teva barreja de "jocs", "trucada de treball" o "música" i canvia entre elles a l'instant en lloc de tornar a arrossegar els controls lliscants cada dia.</li>
+</ul>
+<p>Val la pena destacar dues funcions perquè resolen els escenaris més molests:</p>
+<ul>
+<li><strong>Agafement automàtic</strong> redueix automàticament altres aplicacions quan es reprodueix una aplicació escollida, de manera que la vostra música baixa quan arriba una trucada i torna després, sense tocar manualment.</li>
+<li><strong>Canvi ràpid de sortida</strong> us permet saltar entre auriculars i altaveus des del mateix menú sense capbussar-vos a la configuració del sistema.</li>
+</ul>
+<p>Com que els nivells es recorden per aplicació i es guarden als perfils, aquesta és la part que la majoria de la gent realment vol: ho configureu una vegada i ho <em>estades</em> conjunt.</p>
+
+<h2>Les alternatives gratuïtes i de pagament, sincerament comparades</h2>
+<p>SoundDial no és l'única opció i, depenent de les vostres necessitats, una eina gratuïta pot ser suficient. Aquí teniu un resum just.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource és el pes pesat professional. A més del volum per aplicació, fa un EQ per aplicació i un enrutament de sortida complet, de manera que podeu enviar una aplicació als auriculars i una altra als altaveus. És realment excel·lent. Els avantatges: costa uns 39 dòlars i no és una instal·lació neta de App Store, és una descàrrega directa que requereix afegir un controlador de captura d'àudio al vostre sistema. Si sou un professional de l'àudio que necessita EQ i enrutament, val la pena. Si només voleu que cada aplicació tingui el volum adequat, és més eina i més configuració de la que necessiteu.</p>
+
+<h2>Background Music (codi obert, gratuït)</h2>
+<p>Background Music és una aplicació gratuïta i de codi obert que ofereix volum per aplicació i pausa automàtica. El problema és la fiabilitat: instal·la un dispositiu d'àudio virtual i té un historial de trencaments en versions més recents de macOS, de vegades requereixen reinstal·lacions o correccions després de les actualitzacions. També li falta un impuls, perfils desats i un veritable descàrrega automàtica. Genial si vols gratuït i no t'importa el manteniment ocasional.</p>
+
+<h2>FineTune i eqMac</h2>
+<p>FineTune és una aplicació gratuïta de barra de menús de codi obert, un punt de partida lleuger. eqMac és un equalitzador gratuït amb un reforç de tot el sistema, dirigit més a l'EQ i al guany general que a donar a cada aplicació el seu propi control lliscant persistent. Val la pena provar tots dos si la vostra necessitat és limitada, però cap de les dues se centra en el flux de treball de "volum diferent per aplicació, desat com a perfils".</p>
+
+<h2>Quina hauries de triar?</h2>
+<ul>
+<li><strong>Voleu que només funcioni, de manera neta, amb perfils i agafement automàtic?</strong> SoundDial a 14,99 € únic, del App Store, sense controladors per instal·lar.</li>
+<li><strong>Necessites EQ per aplicació i enrutament d'àudio i no t'importa el preu o el controlador?</strong> SoundSource.</li>
+<li><strong>Voleu ser gratuït i esteu bé jugant quan macOS s'actualitzi?</strong> Background Music, FineTune o eqMac.</li>
+</ul>
+<p>El veritable avantatge de SoundDial és la combinació: volum independent, silenci i boost per a cada aplicació, desat en perfils commutables, amb aïllament automàtic, tot dins d'una descàrrega App Store amb sorra que podeu confiar i desinstal·lar amb un clic, per un sol 14,99 € en lloc d'una subscripció.</p>
+
+<blockquote>Sense controlador, sense extensió, sense DMG. Configureu el volum de cada aplicació una vegada, deseu-lo com a perfil i deixeu que l'acoblament automàtic s'ocupi de la resta.</blockquote>
+
+<p>Estàs preparat per donar a cada aplicació el seu propi volum? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i configureu la vostra barreja perfecta en aproximadament un minut.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Feu que una aplicació sigui més silenciosa que tota la resta a Mac",
+    description: "Una aplicació forta que ofega la resta al vostre Mac? Aquesta és la manera més ràpida i fiable de baixar el volum d'una sola aplicació sense tocar les altres.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Per desactivar una aplicació mentre la resta es manté, utilitza <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de volum per aplicació de la barra de menús per a macOS. Obriu-lo, cerqueu l'aplicació forta a la llista i arrossegueu el control lliscant cap avall. Aquesta aplicació es fa més silenciosa a l'instant mentre la teva música, trucades i altres àudio mantenen els seus propis nivells. És la solució més ràpida i fiable.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: feu que una aplicació sigui més silenciosa que tota la resta a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què macOS fa que això sigui tan difícil</h2>
+
+<p>Aquesta és la veritat frustrant: macOS no té cap mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys (feu clic amb el botó dret a la icona de volum, obriu el Mesclador de volum, fet), però en un Mac les tecles de volum i el control lliscant de la barra de menú només controlen una cosa: la sortida mestra. Baixeu-lo i tot va més tranquil junt. Augmenteu-lo i l'aplicació alta continuarà sent alta, només més alta juntament amb la resta.</p>
+
+<p>Així, quan els efectes de so d'un joc es disparan, una pestanya del navegador reprodueix automàticament un anunci o les notificacions no deixen de pujar al vostre podcast, les vostres úniques opcions natives són maldestres: silencieu tot el sistema, aprofundiu en la configuració de volum de cada aplicació (si fins i tot en té una) o deixeu el delinqüent completament. Res d'això us permet dir simplement "feu que aquesta aplicació sigui més silenciosa i deixeu-ho tota la resta".</p>
+
+<h2>La solució ràpida: un mesclador de volum per aplicació</h2>
+
+<p>Un mesclador de volum per aplicació ofereix a cada aplicació en execució el seu propi control lliscant independent. Aquest és exactament el control que us falta. Amb <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> es veu així:</p>
+
+<ul>
+<li><strong>Obriu el mesclador de la barra de menús.</strong> Feu clic a la icona SoundDial i veureu una llista en directe de totes les aplicacions que estan reproduint àudio.</li>
+<li><strong>Troba el fort.</strong> El joc, el navegador, la videotrucada, els sons de notificació, el que sigui que ofega la resta.</li>
+<li><strong>Arrossegueu el control lliscant cap avall.</strong> Estableix-lo al 40%, 20%, allà on se senti equilibrat. El canvi és instantani i només afecta aquesta aplicació.</li>
+<li><strong>Deixa tota la resta en pau.</strong> El teu reproductor de música, la teva trucada, les teves altres pestanyes, tots mantenen el volum que has configurat per a ells.</li>
+</ul>
+
+<p>També podeu silenciar completament una sola aplicació amb un sol clic mentre altres continuen jugant, o augmentar una aplicació silenciosa per sobre del 100% si és massa suau. Sense reiniciar l'aplicació, sense cap mena de busseig.</p>
+
+<h2>Casos habituals en què això us salva</h2>
+
+<ul>
+<li><strong>Un joc fort sobre música de fons.</strong> Posa el joc a un nivell còmode i mantén la teva llista de reproducció a tot el volum a sota.</li>
+<li><strong>Els anuncis i els vídeos del navegador augmenten.</strong> Fixeu el vostre navegador més avall perquè una reproducció automàtica sorpresa mai us sorprengui.</li>
+<li><strong>La notificació sona en una trucada o podcast.</strong> Baixeu l'aplicació amb molta notificació sense silenciar l'àudio que realment us importa.</li>
+<li><strong>Una videotrucada tranquil·la amb mitjans forts.</strong> En lloc d'apagar l'aplicació en veu alta, augmenta la trucada per sobre del 100% perquè pugueu escoltar la gent clarament.</li>
+</ul>
+
+<h2>Configureu-lo una vegada amb els perfils de volum i l'acoblament automàtic</h2>
+
+<p>Arreglar una aplicació forta és bo, però probablement voldreu que es mantingui fixa. SoundDial té dues característiques que ho fan permanent:</p>
+
+<p><strong>Perfils de volum</strong> us permet desar un conjunt de nivells per aplicació i recuperar-los amb un clic. Creeu un perfil de "jocs" on el joc estigui al 30% i la música al 100%, i un perfil "de treball" on les trucades s'ampliïn i tota la resta s'atenuï. Canvia de context sense tornar a arrossegar els controls lliscants cada vegada.</p>
+
+<p><strong>Agafement automàtic</strong> redueix automàticament altres aplicacions quan es reprodueix una aplicació escollida i després les torna, de manera que una aplicació forta mai no segresta completament el vostre àudio. Entre perfils, ajudes i canvi ràpid de sortida (saltar entre els altaveus i els auriculars sense obrir la configuració del sistema), configureu el vostre balanç una vegada i deixeu de cuidar el volum.</p>
+
+<h2>Com es compara SoundDial amb les alternatives</h2>
+
+<p>Hi ha altres maneres d'aconseguir el volum per aplicació en un Mac. Aquí teniu una mirada honesta:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39 $)</strong> és realment professional: EQ per aplicació i encaminament de sortida complet a la part superior del control de volum. Però costa més del doble i necessita una descàrrega independent i un controlador de captura d'àudio. Si voleu un conjunt d'eines a nivell d'estudi, és excel·lent. Si només voleu desactivar una aplicació, és més del que necessiteu.</li>
+<li><strong>Background Music</strong> és gratuït i de codi obert, la qual cosa és genial, però pot trencar-se amb les versions més noves de macOS i no té un augment de volum, perfils i desactivació automàtica.</li>
+<li><strong>FineTune</strong> és una aplicació gratuïta de barra de menús de codi obert i <strong>eqMac</strong> és un EQ gratuït amb un reforç. Val la pena provar tots dos si la vostra prioritat és la gratuïtat, però esteu intercanviant poliment, fiabilitat i funcions pel preu.</li>
+</ul>
+
+<p>SoundDial es troba al millor punt: 14,99 € únic, sense subscripció. Com que està al Mac App Store, està revisat per Apple i s'instal·la de manera neta sense DMG, sense controladors d'àudio i sense extensions del sistema per aprovar. Obteniu les funcions que realment importen per a aquest problema, el volum per aplicació, la silenciació, l'augment, els perfils i l'acoblament automàtic, sense un preu de 39 dòlars ni una eina gratuïta fràgil.</p>
+
+<h2>La línia de fons</h2>
+
+<p>macOS no us permetrà rebutjar una sola aplicació per si sol, però aquest és un buit que podeu tancar en qüestió de segons. Instal·leu un mesclador per aplicació, arrossegueu el control lliscant de l'aplicació forta cap avall i la resta del vostre àudio es mantindrà exactament on voleu. Desa un perfil i no tornaràs a lluitar contra això.</p>
+
+<p><strong>Preparat per silenciar l'única aplicació que segueix ofegant la resta?</strong> Aconsegueix <a href="https://apps.apple.com/app/id6772792641">SoundDial al Mac App Store</a> per 14,99 €, un pagament, sense conductors, sense subscripció.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac Mesclador d'àudio per a streamers: equilibri de micròfon, joc i música",
+    description: "La manera més ràpida d'equilibrar el micròfon, l'àudio del joc, la música i les alertes mentre es reprodueix a Mac. SoundDial us ofereix un mesclador de volum per aplicació amb perfils i ducking.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Per equilibrar el micròfon, el joc, la música i les alertes mentre es reprodueix en un Mac, la solució més ràpida i fiable és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de volum per aplicació de la barra de menús. macOS no té un mesclador integrat, de manera que SoundDial us permet establir nivells independents per aplicació, augmentar les fonts silencioses, desar perfils de transmissió i desactivar automàticament la música quan parleu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mesclador d&#x27;àudio Mac per a streamers: equilibri de micròfon, joc i música" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>El problema: macOS no té control de volum per aplicació</h2>
+<p>Windows fa anys que té el mesclador de volum. macOS encara no n'envia cap. El control lliscant de volum del sistema ho mou tot alhora, cosa que és inútil quan esteu en directe. Durant un flux, feu malabars amb almenys quatre fonts que lluiten per la mateixa sortida:</p>
+<ul>
+<li><strong>Supervisió de la teva veu / micròfon</strong> - Cal seure per sobre de tot.</li>
+<li><strong>Àudio del joc</strong> — fort, dinàmic i propens a picades durant l'acció.</li>
+<li><strong>Música de fons</strong> - hauria de romandre en silenci sota el teu comentari.</li>
+<li><strong>Alertes i sons de xat</strong> — Discord, Stream Deck, alertes de seguidors, notificacions.</li>
+</ul>
+<p>Sense control per aplicació, acabeu muntant el control lliscant dins de l'aplicació del joc, silenciant Spotify a mà i pregant que una escena sonora no exploti els vostres espectadors. Això no és una barreja, és control de danys.</p>
+
+<h2>Què ha de fer un mesclador de streaming adequat</h2>
+<p>Una configuració d'àudio centrada en els creadors a Mac us hauria de donar quatre coses: nivells independents per aplicació, la possibilitat d'augmentar una font massa silenciosa, configuracions desades que podeu recordar a l'instant i desviació automàtica perquè la música baixi en el moment que parleu. SoundDial cobreix els quatre des de la barra de menú.</p>
+
+<h3>1. Volum independent per a cada aplicació</h3>
+<p>Estableix el joc al 60%, la música al 25%, Discord al 80% i el teu navegador al 40%: cada aplicació té el seu propi control lliscant. Res no sagna a res més. També podeu silenciar per aplicació a l'instant quan una font es comporta malament a mig flux, sense tocar l'aplicació.</p>
+
+<h3>2. Augment de volum per a fonts tranquil·les</h3>
+<p>Algunes aplicacions i jocs són massa silenciosos fins i tot al 100%. L'impuls per aplicació de SoundDial fa que una font més enllà del seu sostre normal, de manera que un joc de murmuració o un vídeo de baix volum es troba on el necessiteu a la barreja: sense re-codificació, sense connectors.</p>
+
+<h3>3. Perfils de volum per a diferents escenes</h3>
+<p>Aquesta és la funció que estalvia més temps als streamers. La teva combinació de "Just Chatting" (música amunt, joc avall) és diferent de la teva barreja de "Boss Fight" (joc amunt, música gairebé en silenci), que és diferent de la teva barreja "BRB". Deseu cadascun com a perfil i canvieu amb un sol clic en lloc d'arrossegar quatre controls lliscants en directe.</p>
+
+<h3>4. Agafeu automàticament perquè la música s'enganxi sota la vostra veu</h3>
+<p>L'acoblament automàtic redueix automàticament l'àudio de fons quan parles i el torna quan pares. Per als streamers en solitari, aquesta és la diferència entre els comentaris clars i la música que enterra constantment la vostra veu, que es gestiona automàticament en lloc de manualment.</p>
+
+<h2>On encaixa OBS</h2>
+<p>OBS és la vostra eina de difusió, no el vostre mesclador de volum d'escriptori. OBS controla quins nivells entren al flux mitjançant el tauler i els filtres del mesclador d'àudio, però funciona des de les fonts d'àudio que captura; no arriba a les aplicacions macOS individuals i les redueix a nivell de sistema. A Mac, aconseguir àudio net per a l'escriptori per aplicació a OBS sempre ha estat la part dolorosa.</p>
+<p>El flux de treball pràctic: utilitzeu SoundDial per establir els nivells reals per aplicació al vostre Mac, de manera que el que surt ja estigui equilibrat, després deixeu que OBS capture i afini els nivells d'emissió. Establiu la barreja una vegada a la font i OBS té molt menys per lluitar. El canvi ràpid de sortida a SoundDial també us permet saltar entre auriculars i altaveus sense capbussar-vos a la configuració del sistema entre escenes.</p>
+
+<h2>SoundDial contra les alternatives</h2>
+<p>Tens opcions i l'honestedat és important aquí:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39 $)</strong> — Grau professional amb EQ per aplicació i encaminament de sortida complet. És excel·lent, però costa més del doble, requereix una descàrrega directa i instal·la un controlador de captura d'àudio. Excés si necessiteu principalment nivells nets per a l'aplicació, augments i ajudes.</li>
+<li><strong>Background Music (gratuït, codi obert)</strong> - realment útil i gratuït, però pot trencar-se amb les versions més noves de macOS i no té cap impuls, no té perfils i no hi ha cap tipus d'apagament automàtic: les característiques exactes en què es recolzen els streamers.</li>
+<li><strong>FineTune (aplicació gratuïta de barra de menús de codi obert)</strong> — Control lleuger per aplicació, però un projecte comunitari sense la combinació de perfils i ajudes creada per a la transmissió en directe.</li>
+<li><strong>eqMac (EQ gratuït + reforç)</strong> — bo per donar forma i augmentar el to, però és un equalitzador, no un mesclador de transmissió per aplicació.</li>
+</ul>
+<p>Angle de SoundDial: és a <strong>14,99 € únic</strong> compra a la <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Revisat per Apple, amb caixa de sorra i s'instal·la netament sense DMG i sense controladors d'àudio ni extensions del sistema. Aquesta última part és important per als streamers: menys components a nivell del nucli significa menys trencaments per sorpresa quan macOS s'actualitza la nit abans de la reproducció.</p>
+
+<h2>La compensació honesta</h2>
+<p>Si necessiteu un EQ de qualitat de difusió i cadenes d'encaminament complexes, SoundSource guanya el seu preu. Si voleu una eina de manipulació gratuïta i no us importen trencaments ocasionals, Background Music o FineTune ho faran. Però si voleu la combinació que realment exigeix ​​la transmissió (nivells per aplicació, augment, perfils d'escena desats i desactivació automàtica) d'una instal·lació segura de App Store que sobreviu a les actualitzacions de macOS, SoundDial és el camí més directe per guanyar diners.</p>
+
+<p><strong>Estàs preparat per arreglar l'àudio de la reproducció?</strong> Aconsegueix <a href="https://apps.apple.com/app/id6772792641">SoundDial al Mac App Store</a> per 14,99 €: configureu el micròfon, el joc, la música i els nivells d'alerta una vegada, deseu-los com a perfils i deixeu que l'acoblament automàtic mantingui la vostra veu al màxim.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "Com solucionar el crack i l'esclat d'àudio a macOS Tahoe",
+    description: "L'àudio crepitja o esclata després d'actualitzar a macOS Tahoe 26? Solucioneu-lo fent coincidir la freqüència de mostreig, restablir CoreAudio, comprovar el vostre còdec Bluetooth i esborrar els conflictes de connectors. Aquí teniu l'ordre de resolució de problemes completa.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Crepitjar i esclatar després d'actualitzar a macOS Tahoe 26 gairebé sempre és un desajust de la freqüència de mostreig, una negociació de còdec Bluetooth escamosa o un procés CoreAudio bloquejat. Solucioneu-lo fent coincidir la freqüència de mostreig de sortida a la configuració d'àudio MIDI, reiniciant-lo <code>coreaudiod</code>, oblidant i tornant a emparellar els auriculars Bluetooth i abandonar els amfitrions de connectors d'àudio. Treballeu-los en l'ordre següent.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: com arreglar el crack i l&#x27;explosió d&#x27;àudio a macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Comenceu amb les solucions barates</h2>
+
+<p>Abans de tocar qualsevol cosa tècnica, descarta les dues coses que resolen la majoria dels casos en menys d'un minut:</p>
+
+<ul>
+<li><strong>Reinicieu el Mac.</strong> Una actualització de Tahoe deixa els dimonis d'àudio en un estat mig migrat amb una freqüència sorprenent. Un reinici net torna a carregar CoreAudio des de zero i elimina la majoria de crepitjades posteriors a l'actualització.</li>
+<li><strong>Desconnecteu i torneu a connectar el dispositiu de sortida.</strong> Si es tracta d'un DAC USB, dock o interfície d'àudio, desconnecteu-lo, espereu uns segons i torneu a connectar-lo. Proveu també un port USB diferent, idealment un directament al Mac en lloc de fer-ho a través d'un concentrador. Els concentradors i les pantalles que passen l'àudio són una font habitual de pops.</li>
+</ul>
+
+<p>Si el soroll sobreviu a un reinici, és un problema de configuració, no un error. Seguiu endavant.</p>
+
+<h2>Coincideix amb la freqüència de mostreig (la causa més comuna)</h2>
+
+<p>El crackle clàssic de Tahoe prové d'un desajust de freqüència de mostreig entre el que vol el vostre dispositiu i el que envia macOS. Quan una aplicació reprodueix àudio de 44,1 kHz i el sistema està bloquejat a 48 kHz (o viceversa), el remuestreig pot tartamudejar o esclatar.</p>
+
+<ul>
+<li>Obert <strong>Configuració d'àudio MIDI</strong> (a Aplicacions → Utilitats, o cerqueu Spotlight).</li>
+<li>Seleccioneu el vostre dispositiu de sortida a la barra lateral esquerra.</li>
+<li>Mira el <strong>Format</strong> desplegable. Prova de configurar-lo <strong>48000,0 Hz, sencer de 2 canals a 24 bits</strong> i prova.</li>
+<li>Si el pop continua, canvieu a <strong>44100,0 Hz</strong> i torna a provar.</li>
+<li>Per a les interfícies, assegureu-vos que la freqüència de mostreig coincideixi amb la taxa de projecte del vostre DAW.</li>
+</ul>
+
+<p>Commutar el format també obliga CoreAudio a renegociar la connexió, cosa que soluciona molts casos fins i tot quan torneu al mateix valor.</p>
+
+<h2>Restableix CoreAudio</h2>
+
+<p>CoreAudio s'executa com un dimoni de fons anomenat <code>coreaudiod</code>. Després d'una actualització important de macOS, pot mantenir l'estat del dispositiu obsolet. Reiniciar-lo és segur i té efecte a l'instant, sense reiniciar-lo.</p>
+
+<p>Obriu Terminal i executeu:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Introduïu la vostra contrasenya quan se us demani. El vostre àudio es tallarà durant un segon, i després el dimoni es rellançarà automàticament amb una pissarra neta. Aquesta és la solució més eficaç per al crackling que apareix del no-res en una màquina que estava bé abans de l'actualització.</p>
+
+<h2>Comproveu els vostres auriculars i còdec Bluetooth</h2>
+
+<p>Si el crepitjat només es produeix en AirPods o en altres auriculars Bluetooth, el problema sol ser la negociació del còdec, no els altaveus. La qualitat de l'àudio sense fil es degrada quan la connexió està congestionada o quan macOS passa a un mode de trucada de baix ample de banda.</p>
+
+<ul>
+<li><strong>Oblida't i torna a vincular el dispositiu.</strong> Aneu a Configuració del sistema → Bluetooth, traieu els auriculars i torneu-los a vincular. Això restableix el còdec negociat.</li>
+<li><strong>Compte amb la baixada del mode de trucada.</strong> Quan una aplicació obre el micròfon, macOS canvia els auriculars Bluetooth a un perfil bidireccional de baixa qualitat, que sona cruixent. Surt de les aplicacions de veu i conferències que no utilitzeu i la fidelitat tornarà.</li>
+<li><strong>Reduir les interferències.</strong> Allunyeu-vos dels entorns plens de 2,4 GHz i desconnecteu els dispositius Bluetooth que no necessiteu. Una banda de ràdio ocupada produeix pops intermitents.</li>
+<li><strong>Apagueu l'entrada del micròfon</strong> a la configuració d'una aplicació si només cal escoltar, de manera que macOS manté el perfil de reproducció d'alta qualitat.</li>
+</ul>
+
+<h2>Sortiu dels amfitrions de connectors d'àudio i dels controladors virtuals</h2>
+
+<p>El programari d'àudio de tercers que instal·la una extensió del sistema o un dispositiu virtual és un delinqüent freqüent després d'un salt del sistema operatiu, perquè les extensions d'àudio i del nucli sovint necessiten actualitzar-se per a una versió nova de macOS. Els sospitosos inclouen encaminadors d'àudio virtuals, aplicacions d'equalitzador, eines de loopback i utilitats antigues basades en controladors.</p>
+
+<ul>
+<li>Tanqueu qualsevol aplicació d'equalitzador, encaminador d'àudio o loopback i comproveu si s'atura el crepitjat.</li>
+<li>Comproveu Configuració del sistema → General → Elements d'inici de sessió &amp; Extensions per a les extensions d'àudio que poden necessitar una actualització o eliminació.</li>
+<li>Actualitzeu aquestes aplicacions a les seves versions compatibles amb Tahoe o desinstal·leu les que ja no feu servir. Els controladors d'àudio apilats sovint entren en conflicte després d'una actualització important.</li>
+</ul>
+
+<p>Si sortir d'una d'aquestes aplicacions silencia els pop, heu trobat el vostre culpable. Torneu a instal·lar la versió actual o deixeu-la desactivada.</p>
+
+<h2>Limiteu-ho: a tot el sistema o a una aplicació?</h2>
+
+<p>Esbrineu si el soroll passa a tot arreu o només en un programari específic. Reprodueix un fitxer d'àudio local, després un vídeo del navegador i després una aplicació de música. Si només crepitja una aplicació, la solució és la configuració d'àudio pròpia d'aquesta aplicació o una actualització, no macOS. Si és a tot el sistema, els passos anteriors són on viu la resposta.</p>
+
+<p>Quan encara estigueu encallat, arrenqueu en mode segur (prem el botó d'engegada d'Apple Silicon i, a continuació, trieu el vostre disc d'inici mentre premeu Majúscula). El mode segur no carrega cap extensió de tercers. Si l'àudio està net allà, un element d'inici de sessió o un controlador és la causa, i podeu tornar-los a activar un a un per trobar-lo.</p>
+
+<h2>Un cop el vostre àudio estigui net</h2>
+
+<p>El crackling és un problema de controlador i de freqüència de mostreig, de manera que les solucions anteriors són les que realment el resolen. Però un cop la reproducció sigui estable, és possible que observeu una limitació diferent: macOS encara no té un mesclador de volum per aplicació integrat, com ho fa Windows. No pots baixar una aplicació forta sense baixar-ho tot.</p>
+
+<p>Aquesta és la bretxa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> omple. És un mesclador de barra de menús que ofereix a cada aplicació el seu propi control lliscant de volum, silenci per aplicació i fins i tot un augment de volum per a aplicacions silencioses, a més d'un canvi ràpid de sortida. No solucionarà el crepitjat, però una vegada que l'àudio estigui saludable, facilita molt el control diari.</p>
+
+<p>Seguiu els passos anteriors en ordre i comenceu amb el reinici i la comprovació de la freqüència de mostreig. Si més endavant voleu un control real per aplicació a la vostra configuració d'àudio net, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una compra única de 14,99 € al Mac App Store, sense controladors o DMG per instal·lar.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Tartamudeig o tall a Mac (Tahoe Fix)",
+    description: "AirPods tartamudejar, tallar o deixar caure l'àudio a macOS Tahoe gairebé sempre és una interferència Bluetooth o un canvi automàtic. A continuació s'explica com tornar a emparellar, reduir la congestió de 2,4 GHz i aturar les transferències que interrompen la reproducció.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>AirPods tartamudejar o tallar macOS Tahoe gairebé sempre és una interferència Bluetooth, no un auricular trencat. Els culpables habituals són la congestió de la connexió Wi-Fi i l'encaminador de 2,4 GHz, la commutació automàtica agressiva de dispositius i un aparellament obsolet. Torneu a vincular el AirPods, desactiveu l'interruptor automàtic i allunyeu-vos dels canals atapeïts de 2,4 GHz per solucionar la majoria dels casos.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Tartamudeig o tall a Mac (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què AirPods baixa a Mac específicament</h2>
+
+<p>AirPods utilitza Bluetooth, que comparteix la banda de ràdio multitudinària de 2,4 GHz amb Wi-Fi, microones, dispositius USB 3 i gairebé tots els endolls intel·ligents de casa teva. El vostre Mac és una ràdio ocupada: fa malabars amb les funcions de Wi-Fi, Bluetooth, AirDrop i Continuity en antenes superposades. Quan aquesta banda es congestiona, l'àudio Bluetooth és el primer que tartamudeja, perquè no pot tolerar els paquets caiguts com ho pot fer una transferència de fitxers.</p>
+
+<p>Tahoe no va empitjorar màgicament el vostre AirPods, però una instal·lació nova de macOS sovint restableix el comportament de la ràdio, torna a habilitar les transferències de continuïtat i torna a negociar els còdecs. És per això que els problemes semblen aparèixer just després d'una actualització. La bona notícia: les correccions s'entenen bé i, en la seva majoria, són gratuïtes.</p>
+
+<h2>Solució 1: torna a emparellar el AirPods (fes-ho primer)</h2>
+
+<p>Un aparellament obsolet o danyat sobreviu als reinicis i provoca caigudes intermitents que semblen aleatòries. Elimineu completament i torneu a afegir la connexió:</p>
+
+<ul>
+<li>Obert <strong>Configuració del sistema, Bluetooth</strong>.</li>
+<li>Feu clic al botó d'informació (i) que hi ha al costat del vostre AirPods i trieu <strong>Oblida't d'aquest dispositiu</strong>.</li>
+<li>Poseu el AirPods al seu estoig, tanqueu la tapa, espereu 15 segons i, a continuació, obriu-lo.</li>
+<li>Mantingueu premut el botó de la part posterior de la funda fins que la llum parpellegi en blanc.</li>
+<li>Torna a emparellar des de la llista Bluetooth.</li>
+</ul>
+
+<p>Mentre sou allà, assegureu-vos que el microprogramari AirPods estigui actual. No hi ha cap actualització manual, però deixar-los al cas a prop d'un iPhone o Mac connectat durant un temps els permet actualitzar-los en segon pla.</p>
+
+<h2>Solució 2: desactiveu el canvi automàtic</h2>
+
+<p>Aquesta és la principal causa de "tallar" per a les persones de l'ecosistema d'Apple. El vostre AirPods prova de seguir-vos entre el vostre Mac, iPhone i iPad. Cada vegada que el vostre telèfon creu que hauria d'agafar àudio, la connexió s'interromp al vostre Mac, produint un podcast mitjà d'abandonament de mig segon.</p>
+
+<ul>
+<li>Al Mac: Bluetooth, feu clic a (i) al costat del AirPods, configureu <strong>Connecteu-vos a aquest Mac</strong> a <strong>Quan es va connectar per última vegada a aquest Mac</strong> en lloc de automàticament.</li>
+<li>A l'iPhone: Configuració, toqueu el vostre AirPods, <strong>Connecta't a aquest iPhone</strong>, tria <strong>Quan es va connectar per última vegada a aquest iPhone</strong>.</li>
+</ul>
+
+<p>Això atura l'estira-i-arronsa entre dispositius. Escolliu manualment on va l'àudio, que és un petit preu per a una reproducció estable.</p>
+
+<h2>Solució 3: retalla la congestió de 2,4 GHz</h2>
+
+<p>Si es produeixen caigudes durant les videotrucades, les descàrregues o quan altres persones estan en streaming, la vostra banda de ràdio està saturada. Alguns moviments pràctics:</p>
+
+<ul>
+<li><strong>Utilitzeu la banda Wi-Fi de 5 GHz</strong> al vostre Mac. A la configuració del vostre encaminador, doneu un nom diferent a la xarxa de 5 GHz i connecteu-hi. Això allibera la banda de 2,4 GHz per a Bluetooth.</li>
+<li><strong>Allunyeu els concentradors USB 3 i Thunderbolt</strong> del vostre Mac i AirPods. USB 3 és una coneguda font de soroll de 2,4 GHz; un concentrador assegut al costat del vostre ordinador portàtil pot destrossar Bluetooth des de polzades de distància.</li>
+<li><strong>Canvia el canal de 2,4 GHz del teu encaminador</strong> a 1, 6 o 11 (les opcions que no es superposen) i eviteu els canals plens dels vostres veïns.</li>
+<li><strong>Mantingueu la línia de visió.</strong> Cossos i parets absorbeixen 2,4 GHz. Si el vostre Mac està darrere vostre o en una bossa, les gotes empitjoren.</li>
+</ul>
+
+<blockquote>Els encaminadors Wi-Fi 6E i Wi-Fi 7 poden ajudar indirectament: empènyer els vostres dispositius a 6GHz esborra la banda de 2,4GHz de la qual depèn Bluetooth. Però una malla mal configurada que et fa tornar a 2,4 GHz pot empitjorar les coses. Comprova a quina banda estàs realment.</blockquote>
+
+<h2>Solució 4: restabliu la pila Bluetooth i Continuity</h2>
+
+<p>Si no s'ha pogut tornar a emparellar, reinicieu les ràdios:</p>
+
+<ul>
+<li>Activa i desactiva Bluetooth des de la barra de menús i reinicia el Mac. Un reinici esborra un nombre sorprenent d'errors d'àudio transitoris.</li>
+<li>Restabliu l'SMC/NVRAM als dispositius Intel Mac o simplement apagueu completament (no reinicieu) durant 30 segons a Apple Silicon.</li>
+<li>Si no feu servir AirDrop o Handoff, desactivar Handoff a Configuració del sistema, General, AirDrop &amp; Handoff redueix la xerrada de ràdio de fons.</li>
+</ul>
+
+<h2>Què no ho solucionarà (i què fa realment un mesclador de volum)</h2>
+
+<p>Per tenir clar l'abast: res d'això és un problema de volum de programari i cap aplicació de volum pot reparar un enllaç Bluetooth. Si el vostre àudio és <em>caient</em>, persegueix el problema de la ràdio anterior. Aplicacions com <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> controlen el volum per aplicació, el silenci i la commutació de sortida, no toquen la pila Bluetooth, de manera que no deixaran de tartamudejar. Allà on un mesclador realment ajuda és la molèstia adjacent que molts usuaris de AirPods combinen amb abandonaments: una aplicació explota mentre una altra és massa silenciosa o necessiten saltar les sortides ràpidament. Aquest és un problema de balanç de volum, no de connexió.</p>
+
+<p>Diagnosticar honestament. Si l'àudio s'atura durant un ritme i torna, és una interferència o un canvi automàtic. Si els nivells són desiguals entre les aplicacions, aquest és un problema de barreja que podeu resoldre amb el programari.</p>
+
+<h2>Llista de verificació ràpida</h2>
+
+<ul>
+<li>Oblida't i torna a emparellar el AirPods.</li>
+<li>Configureu Mac i iPhone a <strong>Quan es va connectar per darrera vegada</strong>, no automàticament.</li>
+<li>Mou el teu Mac a Wi-Fi de 5 GHz; mantenir els concentradors USB 3 allunyats.</li>
+<li>Estableix 2,4 GHz al canal 1, 6 o 11.</li>
+<li>Reinicieu després de canviar Bluetooth.</li>
+</ul>
+
+<p>Un cop hagin desaparegut els abandonaments i només voleu un control més net sobre el volum de cada aplicació, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> afegeix un mesclador de volum per aplicació adequat, silenciar, augmentar i canviar de sortida ràpid que macOS encara no inclou. Es tracta d'una compra única de 14,99 € al Mac App Store, sense controladors per instal·lar.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "L'altaveu dret mort a Mac després de l'actualització de Tahoe? Com solucionar-ho",
+    description: "Un altaveu o canal ha deixat de funcionar després d'actualitzar a macOS Tahoe? Comenceu amb el control lliscant de balanç d'àudio, després restableix el Core Audio, proveu el mode segur i descarteu el maquinari. Una guia clara de resolució de problemes.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si l'altaveu dret es va quedar en silenci després d'actualitzar a macOS Tahoe, comproveu l'àudio <strong>control lliscant d'equilibri</strong> primer: pot canviar durant una actualització. Aneu a Configuració del sistema &gt; Sortida de so &gt; i assegureu-vos que Balance es troba al centre. Si està bé, reinicieu Core Audio, arrenqueu en mode segur i, a continuació, descarteu el maquinari. La majoria dels casos són programari.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: l&#x27;altaveu dret mort a Mac després de l&#x27;actualització de Tahoe? Com solucionar-ho" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Primer: el control lliscant de l'equilibri (ho soluciona més sovint del que et penses)</h2>
+
+<p>Un control lliscant d'equilibri enganxat o desplaçat és l'única raó per la qual un canal es queda en silenci, i les actualitzacions de macOS de tant en tant l'impulsen. Abans d'assumir el pitjor:</p>
+
+<ul>
+<li>Obert <strong>Configuració del sistema &gt; So</strong>.</li>
+<li>Feu clic a <strong>Sortida</strong> pestanya i seleccioneu els vostres altaveus (incorporats o el vostre dispositiu extern).</li>
+<li>Troba el <strong>Balanç</strong> control lliscant i arrossegueu-lo fins al centre exacte. Si s'estirés cap a l'esquerra, el teu canal dret sonaria mort.</li>
+</ul>
+
+<p>Fes això <em>per dispositiu de sortida</em>. La configuració de l'equilibri es recorda per separat per als altaveus integrats, els auriculars i cada interfície externa, de manera que un balanç integrat centrat no ajudarà si el problema es troba al vostre DAC USB.</p>
+
+<h2>Comproveu si realment es tracta d'un canal de maquinari</h2>
+
+<p>Controleu l'entrada o sortida del maquinari ràpidament. Reprodueix una pista estèreo que coneixes bé i, a continuació, connecta un parell d'auriculars amb cable. Si els dos canals funcionen als auriculars però no a través dels altaveus, el problema és aigües avall del motor d'àudio (maquinari dels altaveus o la ruta de sortida). Si el mateix canal també està mort als auriculars, és més probable que sigui el programari o el còdec d'àudio de la placa lògica.</p>
+
+<p>També pots obrir <strong>Música</strong> o QuickTime, reproduïu alguna cosa i canvieu l'equilibri completament a l'esquerra i després a la dreta. Si l'àudio es mou netament entre els canals, els dos altaveus estan vius i això és només un problema de configuració.</p>
+
+<h2>Reinicieu Core Audio</h2>
+
+<p>macOS encamina tot el so a través del <strong>coreaudio</strong> procés. Després d'una actualització important, el seu estat es pot encaixar: les sortides desapareixen, els canals cauen o el volum es comporta de manera estranya. Reiniciar-lo és segur i obliga a macOS a reconstruir el gràfic d'àudio:</p>
+
+<ul>
+<li>Obert <strong>Terminal</strong> (Aplicacions &gt; Utilitats).</li>
+<li>Executar: <code>sudo killall coreaudiod</code></li>
+<li>Introduïu la vostra contrasenya. El dimoni d'àudio es rellança automàticament en un o dos segons.</li>
+</ul>
+
+<p>No s'elimina res; això només reinicia el subsistema d'àudio. Torneu a provar l'altaveu dret immediatament després.</p>
+
+<h2>Reinicieu correctament i, a continuació, proveu el mode segur</h2>
+
+<p>Un reinici complet esborra errors d'àudio transitoris que un killll no farà. Si el canal encara està mort, engegueu <strong>mode segur</strong>, que carrega un sistema mínim i omet les extensions d'àudio i els elements d'inici de sessió de tercers:</p>
+
+<ul>
+<li><strong>Apple Silicon:</strong> Apagueu. Manteniu premut el botó d'engegada fins que aparegui "Càrrega d'opcions d'inici". Seleccioneu el vostre disc i manteniu premut <strong>Canvi</strong> i feu clic a "Continua en mode segur".</li>
+<li><strong>Intel:</strong> Reinicieu i manteniu premut <strong>Canvi</strong> fins que aparegui la finestra d'inici de sessió.</li>
+</ul>
+
+<p>Si els dos altaveus funcionen en mode segur, un controlador d'àudio de tercers, un dispositiu virtual o una utilitat de barra de menú instal·lat abans de l'actualització entra en conflicte amb la nova pila d'àudio de Tahoe. Torneu a la normalitat i suprimiu o actualitzeu el programari d'àudio instal·lat recentment (els gravadors de pantalla, les aplicacions de reunions i els kexts d'enrutament d'àudio són els culpables habituals).</p>
+
+<h2>Restableix la NVRAM (només Intel Mac)</h2>
+
+<p>Als dispositius Intel Mac, la configuració del so i dels altaveus viu a NVRAM/PRAM, i un valor obsolet pot sobreviure a una actualització. Restabliu-lo: apagueu-lo, engegueu-lo i mantingueu premut immediatament <strong>Opció + Ordre + P + R</strong> durant uns 20 segons, deixant que el Mac es reiniciï una vegada. Això no és aplicable als Apple Silicon Mac; ho gestionen automàticament, així que ometeu-lo si esteu en una màquina de la sèrie M.</p>
+
+<h2>Torneu a actualitzar i comproveu si hi ha un llançament de punts</h2>
+
+<p>Les primeres versions de qualsevol versió important de macOS s'envien amb errors del controlador d'àudio que després es corregen. Dirigiu-vos a <strong>Configuració del sistema &gt; General &gt; Actualització de programari</strong> i instal·leu qualsevol llançament de punt Tahoe pendent (14.x.1, 14.x.2, etc.). Si existeix una actualització addicional, sovint aborda exactament aquestes regressions d'àudio posteriors a l'actualització.</p>
+
+<h2>Quan és realment maquinari</h2>
+
+<p>Si el mode segur, un reinici de Core Audio i una reinstal·lació neta fallen, i el mateix canal està mort als auriculars, és possible que estigueu observant una fallada de maquinari. El moment amb una actualització pot ser casual; els amplificadors d'altaveus i els còdecs d'àudio fallen. Corre <strong>Apple Diagnostics</strong> (apaga i mantén premut el botó d'engegada de l'Apple Silicon i selecciona Diagnòstics o mantén premut <strong>D</strong> a Intel a l'inici). Si marca un component d'àudio, poseu-vos en contacte <strong>Suport d'Apple</strong> o un proveïdor de serveis autoritzat. No gasteu diners en programari per a un altaveu trencat.</p>
+
+<blockquote>Regla bàsica ràpida: si l'àudio es mou correctament amb el control lliscant d'equilibri, els dos altaveus estan físicament bé i la solució es troba al programari. Si mai no es mou al costat mort, sospiteu el maquinari.</blockquote>
+
+<h2>On encaixa el programari de volum (i on no)</h2>
+
+<p>Per ser clar: un canal d'altaveu mort no és una cosa que soluciona una aplicació de volum; les comprovacions anteriors són el vostre camí. Dit això, una vegada que el vostre àudio torni a estar saludable, a macOS encara li falta alguna cosa que Windows ha tingut durant anys: un veritable mesclador de volum per aplicació. Si us trobeu investigant la configuració de so perquè una aplicació funcionava mentre una altra era massa silenciosa, un mesclador de barra de menú com <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> us permet configurar el volum independent, silenciar i fins i tot augmentar per aplicació sense tocar el balanç del vostre sistema. És una eina convenient per a la barreja diària, no una reparació del problema d'aquest article.</p>
+
+<h2>La versió curta</h2>
+
+<ul>
+<li>Centre el <strong>Balanç</strong> control lliscant — per dispositiu de sortida.</li>
+<li>Prova amb auriculars per aïllar el maquinari.</li>
+<li>Corre <code>sudo killall coreaudiod</code>, després reinicieu.</li>
+<li>Prova <strong>mode segur</strong> per detectar conflictes de conductors.</li>
+<li>Restableix la NVRAM a Intel; instal·leu qualsevol versió del punt Tahoe.</li>
+<li>Encara estàs mort als auriculars? Executeu Apple Diagnostics i truqueu a Apple.</li>
+</ul>
+
+<p>Un cop els altaveus tornin a la normalitat, si fer malabars amb el volum per aplicació és una molèstia diària, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> afegeix que el mesclador macOS sempre ha faltat: 14,99 €, únic, amb caixa de sorra, sense controladors.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods Enganxat a la meitat del volum al vostre Mac? Aquí teniu la correcció",
+    description: "Per què AirPods es connecta al vostre Mac a mig volum, normalment un commutador de còdec Bluetooth al perfil de micròfon mans lliures, a més de les correccions de tornada a emparellament i com augmentar el nivell per sempre.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>AirPods sol baixar a la meitat del volum en un Mac perquè macOS els va canviar del perfil d'àudio A2DP d'alta qualitat al perfil mans lliures (HFP) de baixa qualitat, el creat per a l'ús del micròfon de trucada telefònica. Aquest mode limita la producció i la qualitat. Arregleu-lo forçant el Mac a tornar a l'àudio només per a auriculars i, a continuació, augmenta el nivell per mantenir-lo allà.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Enganxat a la meitat del volum al vostre Mac? Aquí teniu la correcció" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què passa això: l'interruptor de còdec</h2>
+
+<p>Els dispositius d'àudio Bluetooth com AirPods funcionen en un dels dos modes. Quan només esteu escoltant, macOS utilitza A2DP: estèreo complet, sonoritat total, qualitat neta. Però en el moment que una aplicació vol el vostre micròfon, macOS canvia tota la connexió a HFP (perfil mans lliures). HFP és un còdec de telefonia bidireccional. Sona prim, mono-ish i notablement més silenciós, perquè va ser dissenyat per a trucades de veu, no per a música.</p>
+
+<p>El problema és que macOS sovint es queda bloquejat a HFP fins i tot després que l'aplicació que ha agafat el micròfon estigui acabada, o s'hi canvia en el moment en què obriu Zoom, FaceTime, Teams, Discord o una pestanya del navegador amb permís de micròfon. Per tant, el vostre AirPods sona com si estigués a "mig volum" no perquè el control lliscant de volum es mogués, sinó perquè tot el perfil d'àudio s'ha rebaixat sota vostre.</p>
+
+<p>Ho reconeixereu: l'àudio es fa silenciós i s'apaga, el AirPods apareix dues vegades a la configuració de so (una vegada com a sortida, una altra com a micròfon) i pujar el volum del sistema amb prou feines ajuda.</p>
+
+<h2>Les solucions alternatives de sincronització i còdec</h2>
+
+<p>Aquests són els primers passos honestos. Treballeu-los en ordre: un dels primers normalment ho neteja.</p>
+
+<ul>
+<li><strong>Canvia el dispositiu d'entrada.</strong> Obriu Configuració del sistema → So → Entrada i trieu el micròfon integrat del vostre Mac en lloc del AirPods. Això impedeix que macOS mantingui el AirPods en mode HFP, de manera que la sortida pot tornar a la qualitat A2DP completa. Aquesta és la solució més eficaç.</li>
+<li><strong>Activa i desactiva Bluetooth.</strong> Un restabliment ràpid de la connexió sovint torna a negociar l'A2DP de manera neta, sobretot si el AirPods s'ha quedat encallat després d'acabar una trucada.</li>
+<li><strong>Torneu a connectar el AirPods.</strong> Tanqueu el cas, espereu uns segons, torneu-lo a obrir a prop del Mac i torneu a seleccionar-los com a dispositiu de sortida.</li>
+<li><strong>Surt de l'aplicació que ha agafat el micròfon.</strong> Tanqueu completament Zoom, Teams, Discord o aquesta pestanya del navegador. Algunes aplicacions mantenen la sessió del micròfon oberta en segon pla i fixen HFP fins que desapareguin.</li>
+<li><strong>Torna a emparellar des de zero.</strong> Traieu el AirPods a Configuració del sistema → Bluetooth (feu clic al botó d'informació → Oblida aquest dispositiu) i torna a vincular-lo. Això s'esborra una negociació de perfil danyada que la commutació sola no solucionarà.</li>
+<li><strong>Restableix el AirPods.</strong> Amb ells a la tapa de la caixa oberta, manteniu premut el botó de configuració a la part posterior fins que la llum parpellegi en color ambre i després en blanc. Torna a emparellar després. Aquesta és l'opció nuclear per a les estranyeses a nivell de firmware.</li>
+<li><strong>Actualitzeu el firmware macOS i AirPods.</strong> Apple ha enviat correccions d'àudio Bluetooth en versions puntuals. El microprogramari AirPods s'actualitza en silenci quan es carreguen a prop d'un dispositiu connectat; així que deixeu-los a la funda a prop del vostre Mac durant la nit.</li>
+</ul>
+
+<blockquote><p>El patró a veure: si el volum baixa en el moment en què us uniu a una trucada i es recupera quan la trucada s'acaba, és l'interruptor HFP, no un altaveu trencat o un error de configuració.</p></blockquote>
+
+<h2>Per què les correccions no sempre es mantenen</h2>
+
+<p>Aquí està la part frustrant. Fins i tot després de tornar a emparellar-se, macOS tornarà a canviar el vostre AirPods al mode mans lliures la propera vegada que qualsevol aplicació toqui el micròfon. No podeu desactivar permanentment aquest comportament a la configuració del sistema: Apple el tracta com a automàtic. Així que acabeu tornant a fer el truc del dispositiu d'entrada diverses vegades al dia i, en qualsevol moment, el vostre AirPods està en una trucada o en una aplicació amb fam de micròfons, tornen a estar limitats a aquest nivell inferior.</p>
+
+<p>També hi ha un segon problema separat que la gent combina amb aquest: algunes aplicacions són més silencioses que altres amb el volum màxim del sistema. Un reproductor de podcasts o una pestanya del navegador poden situar-se molt per sota del que volen les vostres orelles, fins i tot quan el AirPods està executant A2DP net. macOS us ofereix un control lliscant de volum per a tot i sense control per aplicació, de manera que no hi ha cap manera nativa de fer una còpia de seguretat d'una única aplicació silenciosa.</p>
+
+<h2>Augmenta el nivell i mantén-lo allà</h2>
+
+<p>Aquí és on un mesclador de volum per aplicació es guanya el seu lloc. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una aplicació de barra de menú per a macOS que ofereix a cada aplicació en execució el seu propi control lliscant de volum independent, inclòs un augment superior al 100%. Així, quan el vostre AirPods torna d'una trucada a un nivell efectiu inferior, o una aplicació específica simplement és massa silenciosa, arrossegueu aquesta aplicació més enllà del sostre normal i es queda allà.</p>
+
+<p>Concretament, això vol dir:</p>
+
+<ul>
+<li><strong>BOOST de volum per aplicació.</strong> Premeu una aplicació tranquil·la per sobre del màxim estàndard en comptes d'esforçar-vos per escoltar-la al volum del sistema "complet".</li>
+<li><strong>Perfils de volum.</strong> Deseu un conjunt de nivells (navegador millorat, música més suau, videotrucades fortes) i canvieu tota la disposició amb un sol clic perquè no us torneu a ajustar després de cada reconnexió.</li>
+<li><strong>Canvi ràpid de sortida.</strong> Passeu entre AirPods, altaveus portàtils i un DAC extern des de la barra de menús sense haver d'aprofundir en la configuració del sistema, cosa que us ajuda quan esteu forçant una nova negociació del perfil.</li>
+<li><strong>Silència per aplicació i desactivació automàtica.</strong> Silencia una aplicació sense tocar-ne la resta i deixa que els continguts multimèdia baixin automàticament quan es reprodueixi alguna cosa més important.</li>
+</ul>
+
+<p>Val la pena tenir clar què fa i què no. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> no obligarà macOS a romandre a A2DP; el truc del dispositiu d'entrada anterior segueix sent la vostra eina per al còdec en si. El que fa és tornar-vos la sonoritat que va robar la baixada, per aplicació, de manera que una sessió AirPods tranquil·la o una aplicació tossudament suau és una solució d'un sol arrossegament en lloc d'una causa perduda. I com que és una aplicació Mac App Store amb sorra, no hi ha controlador d'àudio per instal·lar, ni DMG, ni extensió del nucli; només s'executa.</p>
+
+<h2>La versió curta</h2>
+
+<p>Si el vostre AirPods sona silenciós i apagat al vostre Mac, apagueu el dispositiu d'entrada del AirPods per obligar-los a sortir del mode mans lliures i torneu-lo a emparellar si això falla. Quan el nivell encara no arribi a on el voleu, o una sola aplicació és massa suau, aconseguiu l'augment per aplicació perquè el configureu una vegada i continueu.</p>
+
+<p>Estàs cansat de lluitar contra el control lliscant de volum cada vegada que fas una trucada? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> — 14,99 € únic, sense subscripció, sense controladors, i doneu a cada aplicació el seu propi volum.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "El volum de Mac es continua reiniciant a Tahoe? Com bloquejar-lo definitivament",
+    description: "Des de macOS Tahoe, molts Mac de sobte canvien o restableixen el seu volum per si mateixos. A continuació s'explica per què passa, com aturar les causes integrades i com bloquejar un volum fix per aplicació perquè es mantingui.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si el volum del vostre Mac es reinicia des del macOS Tahoe, la solució és eliminar els ajustadors automàtics: desactiveu l'ajudes d'àudio i "Reprodueix el so a l'inici", restabliu la configuració del so i torneu a connectar qualsevol sortida Bluetooth de forma neta. Per als nivells per aplicació que salten, bloquegeu un volum fix per aplicació amb un mesclador perquè no torni a derivar mai més.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — El volum Mac es restablit a Tahoe? Com bloquejar-lo definitivament" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què el vostre volum canvia per si sol després de Tahoe</h2>
+
+<p>Un volum que es mou sense que el toquis sembla una fallada de maquinari, però gairebé sempre és un programari que decideix el teu nivell. macOS té diversos comportaments automàtics que impulsen o restableixen la sortida de manera silenciosa, i els canvis de pila d'àudio de Tahoe van fer que alguns d'ells siguin més notables. Abans de suposar que l'aplicació o el Mac està trencat, és útil saber exactament quin sistema agafa el control lliscant.</p>
+
+<ul>
+<li><strong>Aviació d'àudio:</strong> macOS redueix altres àudios quan creu que s'està reproduint alguna cosa més important (Siri, anuncis d'accessibilitat, notificacions). Un cop acaba el disparador, de vegades el nivell no torna del tot.</li>
+<li><strong>Restableix l'encaix de mans Bluetooth:</strong> AirPods i altres dispositius Bluetooth renegocien el volum en connectar-se. Tornar a connectar a mitja sessió pot ajustar la sortida a un nivell predeterminat o a un nivell molt més alt/silenciós.</li>
+<li><strong>Canvi de dispositiu de sortida:</strong> Quan desconnecteu els auriculars, la base o canvieu als altaveus d'un monitor, cada sortida recorda el seu propi volum. El canvi d'anada i tornada sembla restabliment "aleatori".</li>
+<li><strong>Valors predeterminats per aplicació:</strong> Algunes aplicacions (navegadors, reproductors de vídeo, eines de conferència) estableixen els seus propis guanys en llançar-se o quan s'inicia un nou flux, anul·lant el que tinguéssiu.</li>
+<li><strong>So d'inici i estat d'inici de sessió:</strong> El timbre d'arrencada i l'inici de sessió poden tornar el volum del sistema cap a un nivell predeterminat que no heu triat.</li>
+</ul>
+
+<h2>Corregiu primer les causes integrades</h2>
+
+<p>Treballeu-los en ordre. La majoria de les queixes de "reinicialització" desapareixen un cop es descarten i Bluetooth.</p>
+
+<ul>
+<li><strong>Apagueu el so d'inici.</strong> Configuració del sistema → So → desmarqueu <em>Reprodueix el so a l'inici</em>. Això impedeix que el timbre d'arrencada restableixi el nivell de base.</li>
+<li><strong>Reduïu o desactiveu els activadors d'ajudes.</strong> A Configuració del sistema → Accessibilitat → Contingut parlat i Siri, desactiveu els anuncis parlats que no necessiteu. Menys activadors significa menys moments en què macOS redueix l'àudio i s'oblida de restaurar-lo.</li>
+<li><strong>Torneu a vincular els dispositius Bluetooth amb problemes.</strong> Traieu el AirPods o els auriculars de la configuració del Bluetooth i aparelleu-los de nou. Un perfil obsolet és una de les causes habituals de l'ajustament del volum a la connexió.</li>
+<li><strong>Configureu cada dispositiu de sortida deliberadament.</strong> Connecteu cada sortida que utilitzeu (incorporada, monitor, auriculars) i configureu-ne el volum una vegada. macOS emmagatzema el volum per dispositiu, de manera que establir-los tots elimina la sorpresa quan canvieu.</li>
+<li><strong>Restableix Core Audio si està encallat.</strong> Obriu Terminal i executeu <code>sudo killall coreaudiod</code>. Això reinicia el dimoni d'àudio sense reiniciar i esborra un estat bloquejat que pot provocar nivells erràtics.</li>
+<li><strong>Actualitza i després reinicia.</strong> Les primeres versions de Tahoe Point van enviar correccions d'àudio. Assegureu-vos que esteu a la darrera compilació i reinicieu una vegada després de l'actualització.</li>
+</ul>
+
+<p>Si els restabliments s'aturen, un dels anteriors va ser el vostre culpable. Si el teu <em>sistema</em> el volum és estable, però les aplicacions individuals segueixen sent més fort o més silencioses que tota la resta, heu arribat al límit del que poden fer els controls integrats.</p>
+
+<h2>La bretxa real: macOS no pot bloquejar el volum per aplicació</h2>
+
+<p>Aquí està la part frustrant. Windows fa anys que té un mesclador de volum per aplicació: l'obres, arrossegueu el control lliscant d'una aplicació i es queda allà. macOS mai n'ha enviat cap. Hi ha exactament un control lliscant de volum del sistema i totes les aplicacions lluiten. Així, quan una pestanya del navegador fa explosió d'un anunci de reproducció automàtica o una videotrucada arriba el doble de so que la teva música, l'única opció és pujar el volum principal manualment, que és el mateix bucle "per què això segueix canviant" del qual estàs intentant escapar.</p>
+
+<blockquote>El control lliscant del sistema és un únic dial compartit. Sense un mesclador per aplicació, "configureu-lo i oblideu-lo" és impossible a l'estoc macOS: alguna cosa sempre us anul·larà.</blockquote>
+
+<h2>Bloqueja un volum fix per aplicació amb SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> afegeix que falta el mesclador per aplicació macOS. Viu a la barra de menús i ofereix a cada aplicació en execució el seu propi control lliscant de volum, independentment del mestre. Com que recorda el nivell que heu establert per a cada aplicació, soluciona directament el problema de "restablir-se": tu decideixes una vegada i aquesta aplicació s'obre a aquest volum cada vegada.</p>
+
+<ul>
+<li><strong>Volum independent per aplicació:</strong> mantenir la música al 40% i una videotrucada al 80% al mateix temps, sense malabars amb el control lliscant mestre.</li>
+<li><strong>Silenciar i augmentar per aplicació:</strong> silencieu una aplicació sorollosa a l'instant o premeu una aplicació massa silenciosa més enllà del 100% quan el seu propi àudio és feble.</li>
+<li><strong>Perfils de volum:</strong> deseu les configuracions per a "treball", "jocs" o "enfocament" i canvieu tota la combinació amb un sol clic.</li>
+<li><strong>Avatar automàticament segons els vostres termes:</strong> baixa les aplicacions de fons automàticament quan parles o quan una aplicació escollida està activa, en lloc de decidir macOS.</li>
+<li><strong>Canvi ràpid de sortida:</strong> saltar entre els altaveus, els auriculars i l'àudio del monitor des de la barra de menú sense capbussar-se en la configuració.</li>
+</ul>
+
+<p>Es tracta d'una compra única de 14,99 € al Mac App Store: sense subscripció, sense controladors, sense DMG i sense extensions del nucli. Com que està totalment encaixat i distribuït per App Store, no esteu instal·lant un audio kext heretat que Tahoe podria bloquejar a la propera actualització. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> estableix els vostres nivells mitjançant API admeses, de manera que els vostres volums recordats sobrevisquin a les actualitzacions i als reinicis.</p>
+
+<h2>Quin enfocament necessites realment?</h2>
+
+<p>Si el volum de tot el vostre sistema salta, comenceu amb les solucions integrades anteriors: agafement, Bluetooth i el so d'inici en la majoria dels casos. Si, en canvi, el problema és que una aplicació sempre és estranya o estàs cansat que el control lliscant principal sigui un compromís, un mesclador per aplicació és l'única resposta real. macOS no n'afegirà cap, de manera que una eina de barra de menú és la ruta pràctica cap a una barreja que realment es queda on la poseu.</p>
+
+<p>Cansat de perseguir el control lliscant de volum a Tahoe? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i bloqueja un volum recordat per a cada aplicació: 14,99 € una vegada, sense subscripcions, sense controladors.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Controleu el volum del vostre monitor DAW per separat de l'àudio del sistema a Mac",
+    description: "macOS no té un mesclador de volum per aplicació integrat, de manera que el vostre DAW i els sons del sistema comparteixen un nivell. A continuació s'explica com controlar el volum del monitor Logic, Ableton o GarageBand independentment del navegador i de les notificacions.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>macOS no té un mesclador de volum per aplicació integrat, de manera que el vostre DAW i tota la resta comparteixen un control lliscant del sistema. Per establir el nivell de monitor independentment dels navegadors, Slack i notificacions, necessiteu un control de volum per aplicació. Un mesclador de barra de menús com <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ofereix a Logic, Ableton i GarageBand el seu propi volum, independent de l'àudio del sistema.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: controleu el volum del vostre monitor DAW per separat de l&#x27;àudio del sistema a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què un control lliscant de volum arruïna la vostra supervisió</h2>
+
+<p>Quan esteu produint, el vostre DAW és només una de moltes coses que fan so. Es reprodueix una pista de referència en una pestanya del navegador. Arriben els pings Slack. Un tutorial YouTube s'executa en un segon monitor. A Windows, el mesclador de volum us permet equilibrar tots aquests de manera independent. A macOS, Apple mai va enviar un equivalent: les tecles de volum i el control lliscant de la barra de menú es mouen <em>tot</em> alhora.</p>
+
+<p>Això crea un veritable problema per a qualsevol que es barregi d'oïda. Marqueu un nivell de vigilància còmode a Logic i, a continuació, apareix una notificació al mateix nivell i us explota les orelles. O abaixeu el sistema per protegir la vostra audició durant un pas fort i ara la vostra pista de referència és massa silenciosa per comparar-la. La vostra referència de monitorització ja no és estable i la referència estable és el punt de barreja.</p>
+
+<blockquote>El seguiment a un nivell coherent és un dels pocs hàbits que millora de manera mesurable les vostres barreges. Si els sons del sistema continuen forçant-vos a moure el control lliscant mestre, perdràs aquesta consistència.</blockquote>
+
+<h2>Què significa realment "volum DAW separat".</h2>
+
+<p>Hi ha dues coses diferents que els productors combinen aquí, i val la pena separar-les:</p>
+
+<ul>
+<li><strong>Interfície / nivell de sortida mestre</strong> — el botó de maquinari de la interfície d'àudio o el controlador del monitor. Això estableix la vostra sonoritat d'escolta absoluta i s'ha de mantenir una vegada calibrat.</li>
+<li><strong>Volum de programari per aplicació</strong> — el volum de cada aplicació <em>abans</em> arriba a aquesta sortida. Això és el que falta macOS. Us permet mantenir el DAW a la unitat mentre baixeu el Chrome, la música o els sons de notificació a un nivell de llit a sota.</li>
+</ul>
+
+<p>Vols el segon. L'objectiu no és baixar el vostre DAW, sinó baixar tota la resta en relació amb ell, de manera que el DAW es manté la vostra font més sonora i coherent i les distraccions s'asseuen en silenci al fons.</p>
+
+<h2>Com fer-ho amb un mesclador per aplicació</h2>
+
+<p>Un mesclador de barra de menús com ara <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> enumera totes les aplicacions que estan reproduint àudio i ofereix a cadascuna el seu propi control lliscant. El flux de treball per a un productor és el següent:</p>
+
+<ul>
+<li><strong>Calibreu la vostra interfície una vegada.</strong> Configureu la vostra interfície d'àudio o el controlador del monitor a un nivell de referència còmode i repetible i deixeu-lo. Aquesta és la teva àncora fixa.</li>
+<li><strong>Estableix el teu DAW al 100%.</strong> Al mesclador, deixeu Logic, Ableton o GarageBand a tot el volum del programari perquè passi a la unitat. El fader mestre del vostre DAW encara fa la mescla fina.</li>
+<li><strong>Tira tota la resta cap avall.</strong> Deixeu Chrome, Safari, Música i Slack a un nivell inferior, per exemple, del 40 al 60%, de manera que les pistes i els missatges de referència se situen sota la vostra combinació en lloc de competir amb ella.</li>
+<li><strong>Silencia les coses sorolloses.</strong> El silenci per aplicació us permet silenciar completament un navegador o una aplicació de xat sense tocar la vostra cadena de supervisió. Un clic i el vostre DAW continua jugant sense tocar.</li>
+</ul>
+
+<p>Com que el control lliscant del DAW no es mou mai, la vostra referència de monitorització es manté sòlida durant tota una sessió. Podeu activar una pista de referència per obtenir un A/B ràpid, després silenciar-lo i el vostre nivell de barreja no ha canviat ni un decibel.</p>
+
+<h2>Potenciar una aplicació silenciosa en lloc de rebutjar altres</h2>
+
+<p>De vegades, el problema passa per una altra banda. Un rebot de demostració aproximat, una nota de veu o una referència silenciosa es reprodueix molt per sota del nivell de sessió. Si activeu la vostra interfície per escoltar-la, vol dir que ara tota la resta és massa forta. Per aplicació <strong>augment de volum</strong> us permet impulsar una única aplicació silenciosa per sobre del 100% perquè coincideixi amb el vostre nivell de treball, sense tocar la vostra sortida calibrada. És la peça que mai va tenir el mesclador Windows i una de les eines més útils quan estàs audicionant material des de fora del teu DAW.</p>
+
+<h2>Perfils per a diferents tipus de sessions</h2>
+
+<p>El vostre equilibri ideal no és el mateix per a totes les tasques. El seguiment, la mescla i l'escolta casual volen una combinació diferent de nivells d'aplicació. Els perfils de volum us permeten desar una configuració i recuperar-la a l'instant:</p>
+
+<ul>
+<li><strong>Mescla:</strong> DAW al 100%, navegador i música baixes, xat silenciat.</li>
+<li><strong>Audició de referència:</strong> Aplicació de música o transmissió amunt, DAW avall.</li>
+<li><strong>Convocatòries / col·laboració:</strong> aplicació de conferències, DAW es va retirar perquè no sagni a la trucada.</li>
+</ul>
+
+<p>Canviar de perfil supera l'ajustament manual de cinc controls lliscants cada vegada que canvieu de marxa.</p>
+
+<h2>Funcionament automàtic i canvi ràpid de sortida</h2>
+
+<p>Dues coses més importen en un estudi. <strong>Agafement automàtic</strong> pot submergir automàticament les aplicacions de fons quan una font prioritària parla o es reprodueix, de manera que una trucada o un àudio important sempre s'interrompen. I <strong>canvi ràpid de sortida</strong> des de la barra de menús us permet saltar entre la vostra interfície, els vostres monitors i els auriculars sense entrar a la configuració del sistema, una tasca constant quan comproveu una barreja en diferents sistemes.</p>
+
+<h2>Per què no un controlador d'àudio virtual?</h2>
+
+<p>Algunes eines d'encaminament solucionen això instal·lant un controlador d'àudio virtual a nivell del nucli. Són potents però pesats: es poden trencar després de les actualitzacions de macOS, afegir latència i requerir permisos profunds del sistema. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> es troba en una caixa de sorra i s'envia a través del Mac App Store: sense controladors, sense DMG, sense configuració de dispositiu agregat. Específicament, per al control de nivell per aplicació, aquest és un camí molt més senzill que tornar a dissenyar l'encaminament d'àudio.</p>
+
+<p>Preparat per mantenir estable el vostre nivell de monitorització mentre la resta es manté al seu lloc? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per un sol 14,99 € i doneu el seu propi volum al vostre DAW.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Una alternativa Audio Hijack més senzilla per al volum per aplicació a Mac",
+    description: "Si només voleu un volum independent per aplicació a macOS, Audio Hijack és excessiu. Aquí hi ha una alternativa a la barra de menús més lleugera i econòmica que fa volum per aplicació, silencia i augmenta sense enrutament d'àudio.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si tot el que voleu és un volum independent per aplicació a macOS, Audio Hijack és més eina de la que necessiteu. És una suite d'enrutament i gravació d'àudio professional (al voltant de 79 dòlars) creada per capturar, efectes i gràfics de sessió. Per simplement baixar una aplicació i una altra cap amunt, com un mesclador de barra de menú lleuger <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és més ràpid, més barat i sempre llest.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: una alternativa més senzilla de Audio Hijack per al volum per aplicació a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què la gent arriba a Audio Hijack en primer lloc</h2>
+
+<p>macOS no té cap mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys al seu Mesclador de volum, però en un Mac les tecles de volum i el control lliscant de la barra de menú només mouen una cosa: el mestre del sistema. No hi ha cap manera pròpia de dir "mantingueu Spotify al 40%, però deixeu la meva videotrucada al 100%".</p>
+
+<p>Així que la gent cerca una solució alternativa i arriba a Audio Hijack. Això <em>pot</em> feu el volum per aplicació, perquè pot interceptar i processar l'àudio des de qualsevol aplicació. Però aquesta capacitat és un efecte secundari del que realment està dissenyat: gravar àudio d'aplicacions i maquinari, encadenar efectes, encaminar entre dispositius virtuals i crear canalitzacions de sessions reutilitzables. És realment excel·lent en això. És només una resposta pesada a una pregunta lleugera.</p>
+
+<h2>On Audio Hijack esdevé exagerat</h2>
+
+<p>Algunes coses solen frustrar les persones que només volien un control lliscant de volum:</p>
+
+<ul>
+<li><strong>Preu.</strong> Audio Hijack té uns 79 dòlars. Això és just per a un estudi de gravació en una aplicació; és molt per desactivar una pestanya del navegador.</li>
+<li><strong>Ha de seguir corrent.</strong> El seu processament per aplicació només funciona mentre l'aplicació està oberta i la sessió corresponent està activa. Sortiu i els vostres volums es revertiran. Manteniu un resident complet d'una estació de treball d'àudio només per mantenir un control lliscant al seu lloc.</li>
+<li><strong>Pensament basat en sessió.</strong> Creeu sessions amb blocs i connexions. Potent per capturar, però és una gran sobrecàrrega conceptual quan el vostre objectiu és "aquesta aplicació més silenciosa, aquesta aplicació més forta".</li>
+<li><strong>La interfície és profunda.</strong> Efectes, encaminament, comptadors, cablejat de blocs: una superfície rica que la majoria ignoraràs si mai no enregistres res.</li>
+</ul>
+
+<blockquote>Regla general: si vols <em>registre o ruta</em> àudio, Audio Hijack guanya el seu preu. Si només vols <em>equilibri</em> àudio entre aplicacions, pagueu per un taller quan necessiteu un botó.</blockquote>
+
+<h2>L'alternativa més senzilla: un mesclador de volum de la barra de menús</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pren l'única feina a la qual va venir la majoria de la gent i només fa això. Viu a la barra de menús. Feu clic a la icona i obtindreu una llista en directe de totes les aplicacions que estan reproduint àudio, cadascuna amb el seu propi control lliscant. Arrossegueu Spotify al 30%, deixeu la trucada al 100%, silencieu Slack completament; fet, no cal crear cap sessió.</p>
+
+<p>Què cobreix:</p>
+
+<ul>
+<li><strong>Volum independent per aplicació</strong> — Cada font d'àudio té el seu propi control lliscant, ajustable en temps real.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació sorollosa amb un clic sense tocar res més.</li>
+<li><strong>Augment del volum per aplicació</strong> - empènyer una aplicació silenciosa <em>a dalt</em> 100% quan el seu màxim encara és massa tou. Aquesta és la peça que el control lliscant del sistema mai pot fer.</li>
+<li><strong>Perfils de volum</strong> — Deseu tota una barreja (música baixa, trucades en veu alta, notificacions silenciades) i recordeu-la amb un sol clic per a un context determinat.</li>
+<li><strong>Agafement automàtic</strong> — submergir automàticament l'àudio de fons quan comença alguna cosa més important, de manera que una trucada o un vídeo no queden enterrat a la vostra llista de reproducció.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre auriculars, altaveus i altres sortides des del mateix menú.</li>
+</ul>
+
+<h2>Pràctic: obtenir control per aplicació en menys d'un minut</h2>
+
+<p>La diferència de configuració és tot el punt. Amb una eina d'encaminament, podeu crear una sessió, afegir un bloc font, connectar-lo i mantenir l'aplicació en funcionament. Aquí està bàsicament:</p>
+
+<ul>
+<li>Instal·lar <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> de la Mac App Store.</li>
+<li>Reprodueix àudio en un parell d'aplicacions perquè apareguin a la llista.</li>
+<li>Feu clic a la icona de la barra de menús i arrossegueu el control lliscant de cada aplicació al gust.</li>
+<li>Opcionalment, deseu aquesta combinació com a perfil o milloreu una aplicació massa silenciosa més enllà del 100%.</li>
+</ul>
+
+<p>Com que es distribueix a través del Mac App Store, es troba en una caixa de sorra i s'instal·la com qualsevol aplicació normal, no <code>.dmg</code> arrossegar, sense extensió del nucli, sense controlador d'àudio per aprovar a la configuració de seguretat i res que calgui tornar a aprovar després d'una actualització macOS. Aquest últim punt és important: els mescladors basats en controladors s'interrompen històricament en les actualitzacions del sistema operatiu i requereixen la reinstal·lació d'un component a nivell del sistema. Una aplicació App Store amb sorra evita tota aquesta categoria de manteniment.</p>
+
+<h2>Quin hauríeu de triar?</h2>
+
+<p>Sigues honest amb la feina. Tria <strong>Audio Hijack</strong> si necessiteu gravar àudio de l'aplicació o del maquinari, aplicar efectes en temps real o crear gràfics d'encaminament entre dispositius virtuals. Aquest és el seu territori i val la pena cada dòlar que hi ha.</p>
+
+<p>Trieu un mesclador de barra de menús dedicat si la vostra necessitat real és "permeteu-me configurar el volum de cada aplicació de manera independent". Gastaràs 14,99 € una vegada en comptes de 79 $, saltaràs la creació de sessions i obtindràs l'impuls, el silenci, els perfils i l'esgotament en un tauler que obriu des de la barra de menús. No hi ha funcions d'enregistrament que mai tocareu, cap estació de treball que s'executi en segon pla per mantenir un control lliscant al seu lloc.</p>
+
+<p>La majoria de les persones que van provar Audio Hijack per equilibrar el volum estaven resolent un petit problema amb una gran eina. Si ets tu, la petita eina s'adapta millor i costa una fracció tant.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per 14,99 €, únic: volum per aplicació, reforç, silenci, perfils i desactivació automàtica, directament des de la barra de menú.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Alternativa Boom 3D: volum per aplicació sense inflor (Mac)",
+    description: "Si vau utilitzar Boom 3D principalment per augmentar l'àudio, però realment volia controlar el volum per aplicació, SoundDial és l'alternativa més fina de Mac: volum independent per aplicació, silenci i reforç per aplicació, preu únic, sense EQ ni controladors per a tot el sistema.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si heu arribat a Boom 3D per augmentar el volum, però realment voleu controlar cada aplicació per separat, voleu una eina diferent. Boom 3D és un amplificador de volum i un ecualitzador de tot el sistema. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és un mesclador de volum per aplicació enfocat: volum independent, silenci i impuls per a cada aplicació, 14,99 € únic, sense EQ, sense controladors.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Alternativa Boom 3D: volum per aplicació sense inflor (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Què fa (i no) Boom 3D realment</h2>
+<p>Boom 3D es basa en tres coses: un augment de volum a tot el sistema, un equalitzador de 31 bandes i efectes "surround" 3D. Els aplica a <em>tot</em> el teu Mac es reprodueix alhora. Això és realment útil si el vostre objectiu és un ordinador portàtil més fort o una corba de greus que us agradi a tot el tauler.</p>
+<p>El que Boom 3D no està dissenyat és tractar les aplicacions com a canals independents. No hi ha una manera clara de dir "Spotify al 40%, la meva videotrucada al 100% i aquesta pestanya del navegador està silenciada". El seu control lliscant mou tota la barreja. I com que instal·la un controlador d'àudio per situar-se a la ruta del senyal, toca el vostre sistema a un nivell inferior al que fa una utilitat sandbox. També es posiciona com un producte de pagament amb cicles d'actualització en lloc d'una petita eina única.</p>
+<blockquote><p>La història comuna: la gent instal·la Boom 3D per fer una aplicació tranquil·la més forta, i després s'adona que el problema real era que macOS no té cap mesclador de volum per aplicació.</p></blockquote>
+
+<h2>El buit: macOS no té mesclador de volum</h2>
+<p>Això sorprèn a la gent que ve de Windows. Windows fa anys que té un mesclador de volum per aplicació: feu clic amb el botó dret a l'altaveu i configureu el nivell de cada aplicació individualment. macOS simplement no envia això. Obteniu un volum mestre i qualsevol control lliscant intern que cada aplicació exposa. No hi ha cap manera a nivell de sistema operatiu d'equilibrar Slack amb una pestanya YouTube contra un joc.</p>
+<p>Així, quan una aplicació de música ofega la vostra trucada, les vostres úniques opcions natives són crues: abaixar el mestre (que ho silencia tot) o investigar la configuració de cada aplicació amb l'esperança que tingui un control de volum. Boom 3D tampoc tanca aquesta bretxa: fa que tota la barreja sigui més forta, no cada aplicació.</p>
+
+<h2>On encaixa SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és el mesclador que falta. Viu a la barra de menús i ofereix a cada aplicació en execució la seva pròpia fila amb el seu propi control lliscant. Aquesta és la diferència bàsica amb Boom 3D: en comptes d'un efecte global, obteniu control per font.</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> — Establiu Spotify al 30% mentre la vostra videotrucada es manté al 100%.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació sorollosa a l'instant sense tocar res més.</li>
+<li><strong>Augment per aplicació</strong> - si us va agradar el truc més fort que el 100% de Boom 3D, SoundDial ho manté, però dirigit a una única aplicació en lloc de tot el sistema. Les aplicacions silencioses passen pel seu sostre normal per si soles.</li>
+<li><strong>Perfils de volum</strong> — Deseu un disseny del mesclador (per exemple, "jocs", "reunió", "música") i recordeu-lo amb un sol clic en lloc de tornar a equilibrar els controls lliscants cada vegada.</li>
+<li><strong>Agafement automàtic</strong> — submergir automàticament l'àudio de fons quan comença alguna cosa important, de manera que una trucada o una indicació de joc no s'enterra sota la música.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre auriculars, altaveus i altres sortides des del mateix menú.</li>
+</ul>
+<p>El que SoundDial no fa deliberadament és la resta de l'expansió de les funcions Boom 3D. No hi ha EQ de 31 bandes, no hi ha processament envoltant fals, ni cadena d'efectes a tot el sistema. Si voleu un EQ de grau de masterització, Boom 3D o una suite d'àudio dedicada és l'opció correcta. Si el que realment vas obrir Boom 3D va ser <em>volum</em>, aquesta superfície és inflor que estàs pagant per portar.</p>
+
+<h2>Boost, sense conductor</h2>
+<p>La pregunta "impuls" mereix una resposta directa, perquè normalment és per això que els usuaris de Boom 3D compren alternatives. L'impuls de Boom 3D és global i basat en controladors. L'impuls de SoundDial és per aplicació i s'executa dins del model d'app-sandbox d'Apple: es distribueix a través del Mac App Store, de manera que no hi ha instal·lador independent, ni controlador a nivell de nucli ni components del sistema sobrants per desinstal·lar més tard. Obteniu el resultat "feu que aquesta aplicació silenciosa sigui més forta" sense haver de controlar el controlador de tota la ruta d'àudio.</p>
+
+<h2>Preu: únic vs. en curs</h2>
+<p>Boom 3D és una aplicació de pagament amb el seu propi model d'actualització i llicència, i el preu varia segons la plataforma i la versió. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una única compra única a 14,99 €: compra-la una vegada, conserva-la, sense subscripció i sense recompra per versió per mantenir el mesclador funcionant. Per a una utilitat que deixareu funcionar a la barra de menús cada dia, un preu pla tendeix a envellir millor que un producte que heu de tornar a comprar.</p>
+
+<h2>Quin hauríeu de triar?</h2>
+<ul>
+<li><strong>Trieu Boom 3D</strong> si la vostra necessitat real és un equalitzador seriós i efectes d'àudio per a tot el sistema, i no us importa un controlador d'àudio a la barreja.</li>
+<li><strong>Trieu SoundDial</strong> si voleu el que els usuaris de Windows donen per fet: un veritable mesclador de volum per aplicació, a més d'un impuls, perfils i desactivació automàtica, a un preu únic i sense controladors per instal·lar.</li>
+</ul>
+<p>La majoria de les persones que reboten en Boom 3D cauen al segon grup. No volien sintonitzar freqüències; volien que el navegador fos més silenciós que la trucada. Aquesta és exactament la feina per a la qual està dissenyat SoundDial.</p>
+
+<p><strong>Voleu controlar el volum per aplicació al vostre Mac sense la inflor de l'EQ ni una subscripció?</strong> <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> — 14,99 € una vegada, amb sorra, sense controladors i cada aplicació té el seu propi control lliscant.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Com silenciar-ho tot excepte una aplicació al vostre Mac",
+    description: "macOS no té un mesclador de volum per aplicació, de manera que silenciar totes les aplicacions excepte una requereix un ajudant. A continuació s'explica com escoltar només la trucada, la reproducció en temps real o el joc mentre la resta està silenciada.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té cap manera integrada de silenciar aplicacions individuals, de manera que per escoltar només una aplicació necessiteu un mesclador de volum per aplicació. Instal·lar <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, obriu el mesclador de la barra de menús, silencieu totes les aplicacions excepte la que vulgueu escoltar i aquesta aplicació continua jugant mentre la resta es silencia a l'instant.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: com silenciar-ho tot excepte una aplicació al vostre Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què macOS no pot fer-ho per si sol</h2>
+<p>Windows té el mesclador de volum durant més d'una dècada: feu clic amb el botó dret a la icona de l'altaveu i cada aplicació en execució tindrà el seu propi control lliscant. macOS mai no ha enviat això. Les tecles de volum del vostre Mac només controlen una cosa, el nivell de sortida principal. Quan apagueu el sistema, tot cau. Quan silencies, tot es silencia.</p>
+<p>Això està bé fins que tinguis cinc coses que fan soroll alhora. Esteu fent una videotrucada, però una pestanya del navegador reprodueix automàticament un anunci, Spotify encara s'està executant, un joc fa ping en segon pla i Slack sona. Les vostres úniques opcions natives són sortir de les aplicacions, silenciar-les una per una dins de la configuració de cada aplicació (si fins i tot té aquesta opció) o treure els auriculars. Res d'això us permet dir "guardeu aquest, silencieu la resta".</p>
+
+<h2>La manera senzilla: silenciar la resta amb una batedora</h2>
+<p>Un mesclador per aplicació es troba entre les vostres aplicacions i el vostre dispositiu de sortida i ofereix a cada aplicació el seu propi control de volum i silenci. Un cop en tens una en execució, aïllar una sola aplicació triga segons:</p>
+<ul>
+<li>Obriu el mesclador des de la barra de menús. Veureu una llista en directe de totes les aplicacions que produeixen àudio actualment.</li>
+<li>Trobeu l'aplicació que voleu escoltar, la vostra trucada, el vostre flux, el vostre joc.</li>
+<li>Silencia tota la resta. Toqueu el commutador de silenci al costat de l'aplicació o estireu el control lliscant a zero.</li>
+<li>Això és tot. L'única aplicació que vas deixar sola continua jugant a tot volum mentre que la resta es manté en silenci.</li>
+</ul>
+<p>Amb <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, cada aplicació de la llista té el seu propi control lliscant i el seu propi botó de silenci, de manera que es tracta d'un grapat de clics. Les aplicacions noves que comencen a reproduir-se més tard es mostren automàticament, de manera que si un so de notificació intenta colar-se, podeu silenciar-lo al moment sense tocar la vostra aplicació enfocada.</p>
+
+<blockquote>El truc és que silenciar "tot menys un" és només la inversa de silenciar una aplicació. No estàs silenciant el teu Mac, estàs silenciant el soroll al voltant del que realment t'importa.</blockquote>
+
+<h2>Deseu-lo com a perfil per no tornar-lo a fer</h2>
+<p>Si es tracta d'una configuració a la qual us acosteu sovint, feu-ho a mà cada vegada que envelleixi. Diguem que sempre vols que la teva aplicació de trucades sigui alta i tota la resta apagada durant les reunions, o que vols que la reproducció estigui al davant i al centre mentre els jocs i els navegadors es mantenen en silenci. Un perfil de volum emmagatzema aquestes configuracions exactes per aplicació i les torna a aplicar amb un sol clic.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> us permet desar perfils com ara "Reunió" o "Només en streaming", i després canviar-los en el moment que els necessiteu. Configureu-lo una vegada i aïllar la vostra aplicació es converteix en una única acció de la barra de menú en lloc d'una tasca de cinc controls lliscants.</p>
+
+<h2>La versió més intel·ligent: ànec automàtic en lloc de silenciament dur</h2>
+<p>De vegades no voleu que les altres aplicacions desapareguin completament, només voleu que surtin del camí quan comenci alguna cosa més important. Això és l'acoblament automàtic. Quan es reprodueix la vostra aplicació prioritària, les aplicacions en segon pla cauen automàticament a un nivell baix i, a continuació, augmenten quan s'atura.</p>
+<p>Això és ideal per a trucades i reproduccions. Quan algú comença a parlar, la teva música baixa perquè puguis escoltar-la i, quan finalitza la trucada, la música torna a sonar sola. Obteniu el resultat "escolta una aplicació clarament" sense silenciar i activar manualment cada vegada que la situació canvia. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> inclou l'acoblament automàtic al costat del mesclador manual, de manera que podeu triar el silenci dur per a un silenci total o l'acoblament per a un fons més suau.</p>
+
+<h2>Potenciant l'aplicació que vas mantenir</h2>
+<p>Hi ha un avantatge per aïllar una sola aplicació: també podeu fer-la més fort del que normalment permet el vostre Mac. Algunes aplicacions, especialment les videotrucades silencioses o els fluxos mal dominats, amb prou feines s'escolten fins i tot al volum màxim. Un augment per aplicació impulsa una aplicació individual per sobre del 100% sense activar la sortida del vostre sistema, cosa que només amplificaria les aplicacions que ja heu silenciat.</p>
+<p>Per tant, el moviment complet és: silenciar el soroll, mantenir la vostra única aplicació i, si aquesta aplicació és massa silenciosa, augmentar-la. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> maneja els tres a la mateixa finestra del mesclador.</p>
+
+<h2>El que no t'estàs apuntant</h2>
+<p>Una preocupació habitual amb les eines d'àudio Mac és que requereixen extensions del nucli, controladors d'àudio virtuals o instal·ladors ombrívols descarregats d'un lloc web aleatori. Aquesta és una preocupació legítima, i és per això que algunes persones eviten aquestes aplicacions completament.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> es troba al Mac App Store, en una caixa de sorra i s'instal·la com qualsevol aplicació normal, sense controladors, sense DMG, sense extensions del sistema per aprovar. Es tracta d'una compra única de 14,99 € en lloc d'una subscripció, de manera que pagueu una vegada i la conserveu. Això és important per a alguna cosa que deixareu funcionant a la barra de menús durant tot el dia.</p>
+
+<h2>Recapitulació ràpida</h2>
+<ul>
+<li>macOS no té control de volum natiu per aplicació, de manera que necessiteu un mesclador per fer-ho.</li>
+<li>Obriu el mesclador, manteniu la vostra única aplicació, silencieu o apagueu tota la resta.</li>
+<li>Deseu-lo com a perfil per a les trucades o les reproduccions que feu sovint.</li>
+<li>Utilitzeu l'acoblament automàtic si voleu que les aplicacions en segon pla siguin silenciades en lloc de suprimir-les.</li>
+<li>Augmenteu la vostra aplicació conservada si és massa silenciosa per si sola.</li>
+</ul>
+
+<p>Vols escoltar només el que importa i silenciar la resta? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i configura el teu primer perfil de silenci-tota la resta en menys d'un minut.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Mantingueu un volum diferent per als altaveus i els auriculars a Mac",
+    description: "macOS oblida la vostra barreja de volum a nivell d'aplicació quan canvieu entre els altaveus i els auriculars. Heus aquí per què passa, els límits manuals i com ho soluciona la memòria de volum per aplicació.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>En realitat, macOS recorda un volum del sistema independent per a cada dispositiu de sortida, però oblida el vostre saldo a nivell d'aplicació cada vegada que canvieu. Així, els auriculars i els altaveus mantenen el seu propi nivell general, però en el moment que us desconnecteu, una aplicació explota i una altra desapareix. La solució és la memòria de volum per aplicació que sobreviu als interruptors del dispositiu, per a la qual macOS no té cap eina nativa.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: manteniu un volum diferent per als altaveus i els auriculars a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Què recorda macOS i què no</h2>
+
+<p>Hi ha una creença comuna que macOS tracta tots els dispositius de sortida de manera idèntica. No ho fa. Cada dispositiu de sortida emmagatzema el seu propi volum del sistema. Estableix els altaveus MacBook al 30% i el teu AirPods al 80%, i macOS manté aquests dos números separats. Connecta, desconnecta, torna a connectar i cada dispositiu tornarà al lloc on el vas deixar.</p>
+
+<p>Aleshores, per què l'experiència encara se sent trencada? Perquè aquesta memòria s'atura a l'únic control lliscant global. macOS té exactament un control de volum per a tot el que es reprodueix en un dispositiu determinat. No recorda el volum de les aplicacions individuals. Quan canvieu dels altaveus als auriculars, l'equilibri entre Spotify, una trucada Zoom i una pestanya YouTube no es conserva, perquè aquest equilibri mai no va existir. Cada aplicació comparteix el mateix control lliscant.</p>
+
+<p>El resultat és la frustració que la gent descriu com a "volum diferent per als altaveus i els auriculars". El que solen voler no és només un nivell de mestre diferent per dispositiu, sinó una combinació recordada: música tranquil·la, trucades fortes, notificacions desactivades i aquesta barreja intacta tant si es troben als altaveus de l'escriptori com als auriculars.</p>
+
+<h2>Les solucions manuals i on es queden curts</h2>
+
+<p>Podeu arribar-hi a mig camí amb eines integrades, i val la pena conèixer el sostre abans d'arribar a qualsevol altra cosa.</p>
+
+<ul>
+<li><strong>Estableix el volum del sistema de cada dispositiu una vegada.</strong> Reprodueix l'àudio a través dels altaveus, configura el nivell, després canvia la sortida als auriculars i configura aquest nivell. macOS conserva tots dos. Això gestiona el volum mestre per dispositiu, però res per aplicació.</li>
+<li><strong>Utilitzeu el volum per aplicació allà on l'ofereixi.</strong> Spotify, VLC i la majoria dels navegadors tenen el seu propi volum intern. Podeu retallar una aplicació forta dins de l'aplicació. El problema: aquesta configuració es troba a l'aplicació, no al dispositiu, de manera que no canvia quan canvieu als auriculars, i la majoria de les aplicacions (Slack, Zoom, notificacions del sistema, correu) no tenen aquest control.</li>
+<li><strong>Canvia la sortida des del Centre de control o de la barra de menús.</strong> Fes clic amb l'opció Opció a la icona de volum a la barra de menú per saltar ràpidament entre dispositius. Ràpid, però només mou el nivell mestre, no restaura una barreja per aplicació.</li>
+</ul>
+
+<p>Això us ofereix un volum mestre per dispositiu. El que cap d'ells us ofereix és un saldo recordat per aplicació que us segueix a través de dispositius. Aquest buit és exactament on viu la molèstia, i és estructural: el sistema operatiu simplement no té cap mesclador per aplicació, a diferència de Windows, que n'ha enviat un durant anys.</p>
+
+<h2>Memòria de volum per aplicació i per què el canvi de dispositiu és el veritable problema</h2>
+
+<p>La solució més profunda és donar a cada aplicació el seu propi volum i que aquesta configuració persisteixi. Això és el que sembla un mesclador per aplicació <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> està construït per. Es troba a la barra de menús, enumera totes les aplicacions que produeixen so actualment i ofereix a cadascuna un control lliscant independent, un commutador de silenci i fins i tot un augment del 100% per a aplicacions silencioses.</p>
+
+<p>La part que importa per al problema dels altaveus contra els auriculars: es recorden aquests nivells. Estableix la teva música al 40%, les teves trucades al 90% i una aplicació conversa a silenciada i <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> manté aquesta barreja. Quan desconnecteu els auriculars i torneu als altaveus, no torneu a equilibrar tres aplicacions a mà cada vegada.</p>
+
+<p>Els perfils de volum porten això més enllà. Podeu desar un conjunt de nivells per aplicació amb nom i recordar-lo amb un sol clic, de manera que una barreja "auriculars, treball centrat" ​​i una barreja "altaveus, reunions" són cadascuna una selecció única en lloc d'un restabliment manual.</p>
+
+<blockquote><p>El canvi mental: deixeu de pensar en un control lliscant mestre que aneu arrossegant i comenceu a pensar en una barreja desada per situació. El canvi de dispositiu deixa de ser una tasca de reequilibri.</p></blockquote>
+
+<h2>Canvi ràpid de sortida sense perdre la barreja</h2>
+
+<p>Els dispositius de commutació han de ser ràpids i no destructius. Des del mateix panell de la barra de menús, podeu canviar el vostre dispositiu de sortida, de manera que passar dels altaveus als auriculars és un clic i els vostres nivells per aplicació apareixen en lloc de tornar-se a reduir a un únic número global.</p>
+
+<p>Una característica relacionada que val la pena esmentar és l'acoblament automàtic: quan entra l'àudio al micròfon (comenceu a parlar o comença una trucada), altres aplicacions es redueixen automàticament perquè us puguin escoltar i després tornen al nivell establert. És el mateix principi aplicat a l'atenció més que als dispositius, una altra cosa que macOS no farà per si sol.</p>
+
+<h2>Com configurar-lo</h2>
+
+<ul>
+<li>Instal·lar <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> de la Mac App Store. Està en zona de sorra, de manera que no hi ha controlador, ni DMG ni extensió del nucli per aprovar.</li>
+<li>Reprodueix àudio a les aplicacions que més fas servir perquè apareguin al mesclador.</li>
+<li>Estableix el nivell de cada aplicació, silencia qualsevol cosa que no vulguis i augmenta qualsevol cosa massa silenciosa.</li>
+<li>Deseu aquesta disposició com a perfil, per exemple, un ajustat per a auriculars i un altre per a altaveus.</li>
+<li>Quan canvieu de dispositiu, recordeu el perfil coincident o deixeu que els vostres nivells desats per aplicació es continuïn.</li>
+</ul>
+
+<p>El resum honest: macOS recorda el volum per dispositiu de sortida al nivell mestre, però mai recordarà la vostra barreja per aplicació, perquè no té cap mesclador per aplicació. Si el vostre objectiu real és un equilibri consistent entre música, trucades i notificacions que sobreviu a cada canvi entre altaveus i auriculars, necessiteu memòria per aplicació a la part superior del sistema operatiu.</p>
+
+<p>Voleu que els altaveus i els auriculars mantinguin la seva pròpia barreja sense reajustar totes les aplicacions? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> per un sol 14,99 €, sense subscripció, sense conductors.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control Descatalogat? La millor substitució de volum per aplicació Mac (2026)",
+    description: "Sound Control de Static Z Software es deixa de fabricar i es trenca a la macOS moderna. Aquí és per què va deixar de funcionar, què va fer i el millor mesclador de volum per aplicació per canviar-lo el 2026.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Sound Control de Static Z Software s'ha deixat de fabricar i ja no es ven ni s'actualitza, i cada cop falla més en el macOS modern perquè es basava en un controlador d'àudio a nivell del nucli que Apple ha bloquejat. Si necessiteu un volum per aplicació avui, el reemplaçament més net és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador Mac App Store amb sorra sense controladors.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control Descatalogat? La millor substitució de volum per aplicació de Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Què va fer realment Sound Control</h2>
+<p>Sound Control va ser, durant anys, la resposta a un autèntic buit macOS: encara no hi ha un mesclador de volum per aplicació integrat al Mac. Windows n'ha tingut un al seu Volum Mixer des de Vista, però macOS només us ofereix un únic control lliscant mestre. Sound Control va omplir aquest forat amb un tauler de barra de menú ordenat que us permetia:</p>
+<ul>
+<li>Estableix un nivell de volum independent per a cada aplicació en funcionament.</li>
+<li>Silencia les aplicacions individuals sense tocar la resta de l'àudio del sistema.</li>
+<li>Augmenta les aplicacions silencioses per sobre del 100%.</li>
+<li>Apliqueu l'equalitzador per aplicació i els ajustos d'equilibri.</li>
+<li>Encamina les aplicacions d'àudio i fixa'ls a dispositius de sortida específics.</li>
+</ul>
+<p>Per a qualsevol persona que hagi tingut una trucada Zoom mentre xiuxiueja una pestanya de fons YouTube, aquest control per aplicació va ser transformador. Es va convertir en un element bàsic silenciós en moltes màquines d'usuaris avançats Mac.</p>
+
+<h2>Per què va deixar de funcionar</h2>
+<p>La història tècnica honesta és important aquí, perquè explica per què no es tracta d'un error que algú pugui corregir. Sound Control va funcionar instal·lant un controlador d'àudio del sistema: una extensió del nucli (kext) que es va inserir a la canalització d'àudio macOS perquè pogués interceptar i remodelar la sortida de cada aplicació. Aquest ganxo profund és exactament el que va fer possible l'EQ i les funcions d'augment.</p>
+<p>A partir de macOS 10.15 Catalina i accelerant-se a través de Big Sur i la transició d'Apple Silicon, Apple va començar a abandonar les extensions del nucli a favor d'alternatives d'espai d'usuari. A Apple Silicon Mac, carregar kext de tercers requereix reduir la seguretat del sistema en mode de recuperació, i Apple ha deixat clar que els kext d'àudio heretats estan en temps prestat. El programari Static Z finalment va deixar de vendre i desenvolupar Sound Control. El resultat: a les versions recents de macOS, les instal·lacions fallen, l'àudio falla o el controlador simplement es nega a carregar sense rebaixes de seguretat que la majoria de la gent correctament no vol fer.</p>
+<blockquote>Això no és una negligència per part del desenvolupador. És un canvi a nivell de plataforma. Apple va tancar la porta al tipus de controlador d'àudio de baix nivell que es va crear Sound Control i cap actualització no pot reobrir-lo completament.</blockquote>
+
+<h2>Què va canviar a la macOS moderna</h2>
+<p>Apple va afegir una cosa rellevant: Core Audio ara ofereix una API Tap (introduïda a macOS 14.2 Sonoma) que permet a les aplicacions capturar i processar àudio per procés des de l'espai d'usuari: sense kext, sense baixada de seguretat, sense reiniciar a Recovery. Aquest és el camí modern sancionat per a l'àudio per aplicació, i és el que s'ha de construir un mesclador actual. La compensació és honesta: els tocs de l'espai d'usuari són més restringits que un controlador antic del nucli, per la qual cosa hauríeu d'esperar un volum net per a l'aplicació, silenciar i augmentar en lloc de l'EQ paramètric complet per a l'aplicació que ofereix Sound Control.</p>
+
+<h2>El millor substitut: SoundDial</h2>
+<p>Si voleu el nucli del que va fer Sound Control (volum independent per aplicació) en un Mac, podeu mantenir-vos segur i actualitzat, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és l'opció de migració neta més propera l'any 2026. És un mesclador de volum per aplicació de barra de menús creat per a la moderna pila d'àudio macOS. Què passa del flux de treball Sound Control:</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> — un control lliscant per aplicació en execució, just a la barra de menús.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació mentre la resta continua jugant.</li>
+<li><strong>Augment del volum per aplicació</strong> — empènyer una aplicació silenciosa per sobre del seu sostre normal.</li>
+<li><strong>Perfils de volum</strong> — deseu les configuracions del mesclador per a diferents contextos (trucades, música, jocs) i canvieu entre ells.</li>
+<li><strong>Agafement automàtic</strong> - baixa automàticament el volum de l'aplicació de fons, útil quan comenceu a parlar o rebeu una trucada.</li>
+<li><strong>Canvi ràpid de sortida</strong> - saltar entre altaveus, auriculars i altres dispositius sense capbussar-se a la configuració del sistema.</li>
+</ul>
+<p>Les diferències pràctiques que importen per a una migració: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> s'envia a través del Mac App Store, està en una caixa de sorra i no instal·la cap controlador ni DMG. Això significa que no cal aprovar cap extensió del nucli, no hi ha cap mode de recuperació i no hi ha cap reducció de la postura de seguretat del vostre Mac: els punts de dolor exactes que van matar Sound Control. És una compra única de 14,99 €, no una subscripció.</p>
+
+<h2>Com canviar, pas a pas</h2>
+<ul>
+<li><strong>Desinstal·leu Sound Control netament.</strong> Com que va instal·lar un controlador, utilitzeu el seu propi desinstal·lador si encara s'executa, o traieu els components del controlador d'àudio abans d'instal·lar res nou. Dos ganxos d'àudio que competeixen poden causar errors.</li>
+<li><strong>Instal·leu SoundDial des del App Store.</strong> No cal reiniciar ni fer canvis de seguretat.</li>
+<li><strong>Concediu el permís d'àudio que demana.</strong> Això és el que li permet llegir i controlar la sortida per aplicació al macOS modern.</li>
+<li><strong>Obriu el tauler de la barra de menús i establiu nivells.</strong> Les vostres aplicacions en execució apareixen amb controls lliscants individuals; ajustar, silenciar o augmentar segons sigui necessari.</li>
+<li><strong>Desa un perfil.</strong> Si teníeu configuracions preferides de Sound Control, recrea-les com a perfils perquè pugueu canviar amb un sol clic.</li>
+</ul>
+
+<h2>Expectatives honestes</h2>
+<p>Si el vostre únic motiu per utilitzar Sound Control era el volum per aplicació, el silenci i l'augment, un mesclador modern amb caixa de sorra us cobreix completament. Si us heu recolzat molt en el seu equalitzador per aplicació, tingueu en compte que l'EQ profund estava lligat al model de controlador antic i és la característica més difícil de reproduir netament segons les regles actuals d'Apple. Establiu les expectatives en conseqüència i no us sorprendrà.</p>
+
+<p>Estàs preparat per recuperar el volum per aplicació sense els mals de cap del conductor? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> — 14,99 euros únics, sense abonament, sense conductors.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny ha desaparegut: la moderna aplicació de volum per aplicació Mac per substituir-la",
+    description: "SoundBunny de Prosoft no està disponible. Aquí teniu el mesclador de volum per aplicació macOS actual i mantingut activament per substituir-lo, a més de com migrar la vostra configuració d'àudio per aplicació sense controladors del nucli.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si SoundBunny va deixar de funcionar o ja no es ven, el reemplaçament modern ho és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de volum per aplicació de barra de menús creat per a macOS actual. Us ofereix la mateixa feina bàsica (volum independent, silenciació i augment per aplicació) que una compra única de Mac App Store de 14,99 €, sense controlador de nucli, DMG o subscripció per gestionar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny s&#x27;ha anat — la moderna aplicació de volum per aplicació Mac per substituir-la" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Què va passar amb SoundBunny?</h2>
+<p>SoundBunny era la utilitat de volum per aplicació de Prosoft Engineering per a macOS. Us permet establir un nivell de volum diferent per a cada aplicació en execució directament des de la barra de menú: música en silenci, una trucada en veu alta, un navegador en algun punt intermedi. Durant anys va ser una de les poques eines que va omplir un buit que Apple mai va tancar.</p>
+<p>El problema és que SoundBunny és un programari heretat. No ha seguit el ritme dels canvis profunds que Apple va fer a l'àudio i la seguretat macOS: Apple Silicon, el temps d'execució endurit, les regles d'extensió del sistema més endurides i l'eliminació de ganxos d'àudio més antics. Quan una utilitat com aquesta deixa de rebre actualitzacions, finalment es trenca: no s'inicia, perd el control dels fluxos d'aplicacions després d'una actualització del sistema operatiu o simplement no es pot instal·lar de manera neta en un Mac modern. Si és on ets, no estàs fent res malament. L'aplicació està darrere, no tu.</p>
+
+<h2>Per què macOS encara necessita un mesclador de tercers?</h2>
+<p>Aquí teniu la part honesta: aquest és un buit genuí a macOS, no un error que podeu solucionar a Configuració. Windows ha enviat un mesclador de volum per aplicació durant més d'una dècada. macOS mai n'ha tingut cap. El control lliscant del volum del sistema i la configuració de so controlen el vostre <em>dispositiu de sortida</em> en conjunt: totes les aplicacions tenen el mateix nivell mestre. No hi ha cap manera integrada de dir "mantingueu Safari al 40%, però Zoom al 100%".</p>
+<p>És per això que existien eines com SoundBunny, i per això encara és necessari un reemplaçament avui dia. La necessitat no va desaparèixer quan ho va fer l'aplicació: Apple encara no ho ha resolt.</p>
+
+<h2>El reemplaçament modern: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és un mesclador de volum per aplicació que viu a la barra de menús i fa les coses en què confiaven els usuaris de SoundBunny, construït contra el macOS d'avui en lloc del d'ahir. La superposició de funcions cobreix els elements essencials:</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> — un control lliscant per aplicació en execució, exactament el model mental SoundBunny.</li>
+<li><strong>Silència per aplicació</strong> — silencieu una única aplicació sorollosa sense tocar-ne tota la resta.</li>
+<li><strong>Augment del volum per aplicació</strong> - empènyer una aplicació silenciosa <em>a dalt</em> 100% quan un vídeo o una trucada s'enregistren massa baix. SoundBunny no va poder amplificar de manera fiable el màxim del sistema passat al macOS modern; boost és una actualització real aquí.</li>
+<li><strong>Perfils de volum</strong> — Deseu un conjunt de nivells per aplicació (una barreja de "treball", una barreja de "jocs") i canvieu entre ells en lloc d'impulsar els controls lliscants d'un en un.</li>
+<li><strong>Agafement automàtic</strong> - baixa automàticament el volum de l'aplicació de fons quan una altra font d'àudio (com el micròfon en una trucada) s'activa.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres sortides des del mateix menú.</li>
+</ul>
+
+<h2>Com és realment la migració</h2>
+<p>No hi ha cap pas d'importació: els nivells de volum per aplicació no són un fitxer que porteu, però el canvi és ràpid:</p>
+<ul>
+<li><strong>Elimineu SoundBunny correctament.</strong> Sortiu i suprimiu l'aplicació. Si ha instal·lat algun element d'ajuda o d'inici de sessió, elimineu-lo també perquè dues utilitats no es barallin pels mateixos fluxos d'àudio.</li>
+<li><strong>Instal·leu SoundDial des del Mac App Store.</strong> Es troba en una caixa de sorra i es distribueix a través de la botiga, de manera que no hi ha cap DMG per muntar ni cap avís de "desenvolupador no identificat". Una compra, vinculada al vostre ID d'Apple.</li>
+<li><strong>Concedeix accés a l'àudio al primer llançament.</strong> macOS demanarà permís a SoundDial per veure l'àudio de l'aplicació. Aquest és el camí modern i sancionat que ofereix Apple: sense extensió del nucli, sense reiniciar, sense reduir la seguretat del sistema. Concedeix-ho i les teves aplicacions en execució apareixeran com a control lliscant.</li>
+<li><strong>Reconstrueix la teva barreja.</strong> Configureu les vostres aplicacions comunes i, a continuació, deseu aquesta disposició com a perfil perquè no ho hàgiu de tornar a fer mai.</li>
+</ul>
+
+<h2>Les diferències pràctiques de SoundBunny</h2>
+<p>La diferència més important és això <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és el programari actual. S'executa de manera nativa a Apple Silicon, utilitza les API d'àudio compatibles d'Apple i és una aplicació Mac App Store, cosa que significa que les actualitzacions arriben a la botiga i està dissenyada per sobreviure a les actualitzacions del sistema operatiu en lloc de trencar-s'hi. Estar en una caixa de sorra també significa que no pot arribar fora del seu carril, cosa que és tranquil·litzador per a alguna cosa que es troba entre les vostres aplicacions i els vostres altaveus.</p>
+<p>Un parell de advertències honestes perquè les expectatives siguin correctes. Com que SoundDial funciona dins del marc d'àudio d'Apple, el control és millor per a les aplicacions estàndard que passen per la sortida normal del sistema. Alguns programaris reprodueixen l'àudio a través del seu propi camí o d'un dispositiu exclusiu, i cap mesclador de barra de menús, inclòs SoundBunny, els pot governar completament. I el volum per aplicació és inherentment una capa de programari a la part superior de macOS; no és un mesclador de maquinari. Dins d'aquests límits reals, fa la feina que solia fer SoundBunny.</p>
+
+<blockquote>Si heu canviat a un Mac de Windows esperant un Mesclador de volum per aplicació, aquesta és l'eina que omple aquest buit, i ara és una que en realitat s'està mantenint.</blockquote>
+
+<p>SoundBunny va tenir una bona carrera, però és un llegat. Si necessiteu volum per aplicació, silenciar i augmentar en un Mac modern, <a href="https://apps.apple.com/app/id6772792641">obteniu SoundDial al Mac App Store</a> — 14,99 € una vegada, sense subscripció, sense conductors.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Alternativa per a Mac: volum per aplicació sense la venda addicional Boom 3D",
+    description: "Boom 2 és un llegat i us segueix impulsant a Boom 3D. Si només voleu un volum per aplicació i un augment senzill al macOS modern, aquí teniu una alternativa centrada i com funciona.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Si us ha agradat Boom 2 per augmentar tot el sistema, però voleu senzill <strong>per aplicació</strong> volum en un Mac actual, la resposta honesta és que Boom 2 és un llegat i ja no és l'eina adequada. Una alternativa centrada és <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, un mesclador de barra de menús que ofereix a cada aplicació el seu propi control lliscant de volum, silenci i augment, per 14,99 € una vegada, sense empenta a un paquet més gran.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Alternativa per a Mac: volum per aplicació sense la venda addicional Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què Boom 2 ja no encaixa</h2>
+<p>Boom 2 va ser una aplicació molt estimada per una raó específica: va augmentar el volum general del vostre Mac més enllà del màxim del sistema i va afegir un equalitzador. Ho va fer a tot el sistema, no per aplicació. Això va estar bé el 2015. El 2026 té dos problemes.</p>
+<p>Primer, és el llegat. Global Delight ha traslladat clarament la seva energia a Boom 3D, i si obriu la pàgina del producte Boom 2, us trobareu apropat a l'aplicació més nova i més cara gairebé immediatament. Boom 2 encara existeix, però és un trampolí que el venedor utilitza per vendre Boom 3D, no un producte que aconsegueix amor actiu.</p>
+<p>En segon lloc, i més important: Boom 2 mai va ser un mesclador de volum per aplicació. Aixeca i dóna forma a una sortida mestra. Si el vostre dolor real és que un ping Slack és més fort que la vostra música, o si una pestanya del navegador està ofegant una trucada, Boom 2 no ho soluciona. Tot plegat fa més fort. Això és una feina diferent.</p>
+
+<h2>Què significa realment "volum per aplicació" a macOS</h2>
+<p>Aquest és el context honest que salten la majoria de resums alternatius: macOS no té cap mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys: feu clic amb el botó dret a l'altaveu, obriu el mesclador de volum i configureu Chrome al 40% i Spotify al 80%. Apple no ho va enviar mai. La tecla de volum macOS només mou un nivell mestre.</p>
+<p>Així, quan busqueu una "alternativa Boom 2", el que sovint busqueu no és un Mac més fort, sinó el control per aplicació que els usuaris de Windows donen per fet. Això és un buit genuí en el sistema operatiu, no una cosa que Boom 2 o cap aplicació s'hagi oblidat de crear.</p>
+
+<h2>On encaixa SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> està construït específicament per a aquest buit. Viu a la barra de menús i enumera les aplicacions que estan reproduint àudio, cadascuna amb el seu propi control lliscant. Estableixes nivells per aplicació en lloc d'impulsar un control principal i esperar el millor.</p>
+<p>Què fa:</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> — silencieu el navegador, manteniu la música on vulgueu, sense cap compromís global.</li>
+<li><strong>Silència per aplicació</strong> - silenciar una aplicació sorollosa sense tocar res més.</li>
+<li><strong>Augment per aplicació</strong> — empènyer una aplicació individual més enllà del seu sostre normal quan un vídeo o una trucada s'enregistren massa en silenci. Aquesta és la peça que solen perdre els fans de Boom 2, excepte que aquí està dirigida a una aplicació en lloc de tot el sistema.</li>
+<li><strong>Perfils de volum</strong> — deseu dissenys com ara "enfocament", "reunió" o "jocs" i canvieu-los amb un sol clic.</li>
+<li><strong>Agafement automàtic</strong> — baixa automàticament altres aplicacions quan comences a parlar, útil per trucar i gravar.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres sortides des del mateix menú.</li>
+</ul>
+
+<h2>Com configurar-lo</h2>
+<p>El flux de treball és curt:</p>
+<ul>
+<li>Instal·lar <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> des del Mac App Store: sense DMG, sense controlador, sense reiniciar.</li>
+<li>Feu clic a la icona de la barra de menú per veure totes les aplicacions que produeixen so actualment.</li>
+<li>Arrossegueu el control lliscant de cada aplicació al nivell que vulgueu; silenciar o augmentar individualment segons sigui necessari.</li>
+<li>Deseu l'arranjament com a perfil si voleu reutilitzar-lo més tard.</li>
+</ul>
+<p>Com que s'envia a través del App Store, es troba en una caixa de sorra i s'instal·la netament. Val la pena fer-ho, perquè algunes eines d'àudio més antigues es basaven en extensions del nucli o controladors d'àudio virtuals, el tipus de cosa que macOS moderna resisteix cada cop més. SoundDial no us demana que instal·leu cap controlador ni baixeu cap configuració de seguretat.</p>
+
+<h2>Una limitació honesta</h2>
+<p>L'augment per aplicació és real però no màgic. Si l'àudio font d'una aplicació és realment silenciós o mal gravat, augmentar-lo augmenta el soroll de fons juntament amb el senyal, de manera que el material molt silenciós pot semblar xiulós quan es pressiona amb força. Aquest és un límit físic de l'amplificació, no un defecte en cap aplicació en particular: l'impuls del sistema de Boom 2 va tenir el mateix compromís. Tracteu l'impuls com un marge per a casos pràctics, no un rescat per a l'àudio trencat.</p>
+
+<h2>Boom 2 vs. un mesclador centrat</h2>
+<p>Si el que us va agradar de Boom 2 era la sonoritat de tot el sistema més un EQ, i no us importa el control per aplicació, Boom 3D és el successor previst del venedor; aquest és un camí just, i no pretendrem el contrari. Però si vau provar Boom 2 i us vau adonar que el que realment volíeu era abaixar o augmentar una aplicació sense moure-ho tot, un paquet d'EQ i boost és la forma d'eina incorrecta.</p>
+<blockquote>Boom 2 fa que tot el Mac sigui més fort. Un mesclador per aplicació us permet decidir quina aplicació és més forta. Aquests resolen diferents problemes.</blockquote>
+<p>La diferència de preus també val la pena esmentar clarament. SoundDial és de 14,99 € una vegada. No hi ha cap subscripció, cap prova que caigui en un pla més gran i cap camí a l'aplicació que us condueixi a un nivell més car. Compreu la batedora, sou propietari de la batedora.</p>
+
+<p>Si el volum per aplicació, no un EQ per a tot el sistema, és el que buscaves realment, <a href="https://apps.apple.com/app/id6772792641">proveu SoundDial al Mac App Store</a> i establiu els vostres nivells com macOS us hauria d'haver deixat.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: codi obert gratuït i volum per aplicació de pagament a Mac",
+    description: "FineTune és una aplicació de volum per aplicació gratuïta i de codi obert per a Mac; SoundDial és una aplicació App Store sandbox pagada amb impuls, perfils i suport. Aquí teniu una comparació honesta per ajudar-vos a triar.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>FineTune és un mesclador de volum per aplicació gratuït i de codi obert per a macOS, de manera que si el preu és la vostra única preocupació, és una opció genuïna. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una aplicació Mac App Store de pagament (14,99 €, únic) que afegeix un augment de volum per aplicació, perfils desats, desactivació automàtica i assistència per a proveïdors. L'elecció real és gratuïta i bricolatge versus sandbox i compatible.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune vs SoundDial: codi obert gratuït i volum per aplicació de pagament a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>El problema que solucionen ambdues aplicacions</h2>
+
+<p>macOS encara no té un mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys: feu clic amb el botó dret a la icona de l'altaveu, obriu el Mesclador de volum i cada aplicació tindrà el seu propi control lliscant. En un Mac, obteniu exactament un control lliscant de volum del sistema per a tot: la vostra música, una videotrucada, YouTube, notificacions i un joc ho comparteixen. Si la trucada és massa silenciosa i el Spotify és massa fort, la vostra única "solució" és silenciar completament el Spotify.</p>
+
+<p>Tant FineTune com SoundDial existeixen per omplir aquest buit. Ofereixen a cada aplicació en execució el seu propi control de volum perquè pugueu, per exemple, mantenir una reunió al 100% mentre baixeu la música de fons al 20%, sense tocar el control lliscant principal.</p>
+
+<h2>El que FineTune encerta</h2>
+
+<p>FineTune és una aplicació més nova, gratuïta i de codi obert amb l'esperit de SoundSource. Siguem justos sobre els seus punts forts, perquè són reals:</p>
+
+<ul>
+  <li><strong>No costa res.</strong> Sense llicència, sense prova, sense cap problema d'actualització.</li>
+  <li><strong>La font és oberta.</strong> Podeu llegir exactament què fa, auditar-lo per a la privadesa i, si coneixeu Swift, modificar-lo o bifurcar-lo.</li>
+  <li><strong>Està impulsat per la comunitat.</strong> Qualsevol pot solucionar els errors i el codi sobreviu a qualsevol empresa.</li>
+  <li><strong>Cobreix la necessitat bàsica.</strong> Volum independent per aplicació, que és la característica que el 90% de la gent està buscant.</li>
+</ul>
+
+<p>Si el vostre únic requisit és "permeteu-me desactivar una aplicació sense desactivar-ho tot" i us sentiu còmode amb el programari que no inclou un servei d'assistència formal, FineTune és una resposta legítima. Recomanar-ho aquí no és una concessió, és honest.</p>
+
+<h2>Els compromisos honestos de la ruta del bricolatge</h2>
+
+<p>Gratuït i de codi obert comporta costos reals que no apareixen en una etiqueta de preu. Aquests no són els trucs a FineTune específicament; són la naturalesa de l'enfocament:</p>
+
+<ul>
+  <li><strong>La instal·lació és manual.</strong> Les eines d'àudio de codi obert normalment es distribueixen com una versió descarregada o una fórmula Homebrew, no a través del App Store. Instal·leu fora de la revisió d'Apple i esteu pendent de mantenir-lo actualitzat.</li>
+  <li><strong>La intercepció d'àudio per aplicació és fràgil per naturalesa.</strong> L'encaminament de l'àudio d'una altra aplicació és un treball profund del sistema. Quan Apple envia una actualització macOS que canvia la pila d'àudio, aquestes eines es poden trencar fins que algú les pegat. Amb un projecte de voluntariat, "algú" pot estar ocupat aquell mes.</li>
+  <li><strong>El suport és el millor esforç.</strong> Si es trenca alguna cosa, el vostre recurs és un problema de GitHub i una espera. No hi ha resposta garantida i ningú està obligat a solucionar-ho.</li>
+  <li><strong>L'abast de les funcions és el que enviïn els mantenedors.</strong> És probable que el control del volum del nucli estigui cobert; els extres depenen completament del temps del col·laborador.</li>
+</ul>
+
+<blockquote>L'enquadrament honest: FineTune intercanvia diners per responsabilitat de manteniment. Estalvieu 14,99 € i assumeix el risc que una actualització del sistema operatiu el deixi trencat fins que la comunitat es posa al dia.</blockquote>
+
+<h2>On SoundDial és diferent</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> pren el comerç contrari. Pagueu una vegada i, a canvi, obteniu un producte App Store amb un venedor al darrere i un conjunt de funcions més ampli integrat al volum per aplicació:</p>
+
+<ul>
+  <li><strong>Volum per aplicació i silenci</strong> — la línia de base compartida que ofereixen ambdues aplicacions.</li>
+  <li><strong>BOOST de volum per aplicació</strong> — empènyer una aplicació massa silenciosa més enllà del 100%. Útil per a aplicacions amb una sortida d'àudio feble on no n'hi ha prou amb desactivar altres.</li>
+  <li><strong>Perfils de volum</strong> — deseu mescles senceres ("Reunió", "Enfocament", "Jocs") i canvieu amb un sol clic en lloc de restablir els controls lliscants cada vegada.</li>
+  <li><strong>Agafement automàtic</strong> — baixa automàticament les aplicacions de fons quan parles o quan una aplicació escollida s'activa, de manera que les trucades es redueixen sense tocar manualment.</li>
+  <li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres sortides des de la barra de menú.</li>
+</ul>
+
+<p>Igual d'important és <em>com</em> s'envia. SoundDial es troba en una caixa de sorra i es distribueix a través del Mac App Store: sense DMG separat, sense controladors del nucli, sense instal·lació de controladors d'àudio. Les actualitzacions arriben a través de la App Store com qualsevol altra aplicació, i hi ha un desenvolupador real per enviar un correu electrònic quan alguna cosa no funciona. Aquest és el valor concret dels 14,99 €: no només més funcions, sinó algú responsable de mantenir-les treballant a totes les versions de macOS.</p>
+
+<h2>Una advertència honesta que s'aplica a tots dos</h2>
+
+<p>Cap aplicació de tercers pot convertir el sistema d'àudio de macOS en Windows' Volume Mixer, perquè Apple no exposa una API pública neta per a l'àudio per aplicació. Totes les eines d'aquesta categoria, gratuïtes o de pagament, obertes o tancades, funcionen amb aquesta limitació mitjançant tècniques d'àudio a nivell de sistema. Això significa que tant FineTune com SoundDial es poden veure afectats pels canvis d'àudio importants de macOS. La diferència és qui és el responsable de la solució després: una comunitat de voluntaris o un venedor de pagament el producte del qual en depèn.</p>
+
+<h2>Quina hauries de triar?</h2>
+
+<ul>
+  <li><strong>Trieu FineTune si</strong> Voleu un cost zero, un valor de transparència de codi obert, només necessiteu un volum bàsic per aplicació i us sentiu còmode instal·lant fora del App Store i s'autosuporten quan les coses es trenquin.</li>
+  <li><strong>Trieu SoundDial si</strong> voleu una instal·lació de App Store amb un sol clic, extres com ara l'impuls, els perfils i l'acoblament automàtic, i la tranquil·litat de les actualitzacions i el suport d'un venedor amb aspecte al joc.</li>
+</ul>
+
+<p>Tots dos són vàlids. Realment es redueix a si prefereixes gastar diners o dedicar atenció. Si prefereixes comprar una aplicació de sorra compatible i no pensar-hi mai més, <a href="https://apps.apple.com/app/id6772792641">obteniu SoundDial al Mac App Store</a> per un sol 14,99 €: sense subscripció, sense conductors, sense DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: és suficient el mesclador de volum Mac gratuït?",
+    description: "Un enfrontament just entre l'aplicació gratuïta Background Music i la SoundDial de pagament. On funciona l'enfocament gratuït del controlador virtual, on es trenca i quan val la pena un mesclador natiu de 14,99 €.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Background Music és gratuït i realment bo en els conceptes bàsics: ofereix a cada aplicació el seu propi control lliscant de volum i pot posar en pausa automàtica la música quan es reprodueix una altra aplicació. Si això és tot el que necessites, fes-lo servir. Però es basa en un controlador d'àudio virtual que es pot trencar després de les actualitzacions de macOS i no té un impuls per aplicació, perfils i canvi de sortida. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> intercanvia diners per una alternativa sense conductor, amb sorra i compatible.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: és suficient el mesclador de volum Mac gratuït?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>En primer lloc, la veritat honesta sobre macOS</h2>
+<p>macOS no té cap mesclador de volum per aplicació integrat. Windows n'ha tingut un durant més d'una dècada al seu Mesclador de volum, però al Mac el control lliscant del sistema ho mou tot alhora. No hi ha cap API compatible amb Apple que permeti a una aplicació de tercers interceptar i reequilibrar netament els fluxos d'aplicacions individuals. Aquesta única bretxa és la raó per la qual existeixen eines com Background Music i SoundDial, i és la causa principal de la majoria de les compensacions següents.</p>
+
+<h2>El que Background Music fa bé</h2>
+<p>Background Music és una aplicació de barra de menús de codi obert que fa anys que existeix i que té un seguit fidel per una bona raó. Et dóna:</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> - la característica bàsica. Baixeu Spotify mentre feu una trucada en veu alta.</li>
+<li><strong>Pausa automàtica</strong> — pot posar en pausa el reproductor de música quan l'àudio comença en un altre lloc, cosa que és un bon toc per a reunions.</li>
+<li><strong>Un volum del dispositiu que us segueix</strong> i una interfície senzilla i sense sentit.</li>
+<li><strong>Cost zero</strong> — és gratuït i el codi és públic.</li>
+</ul>
+<p>Per a molta gent n'hi ha prou. Si tota la vostra llista de desitjos és "fer una aplicació sorollosa més silenciosa sense tocar la resta", Background Music la cobreix i no hauríeu de pagar per alguna cosa que no necessiteu. Ser just aquí és important: aquesta és una eina legítimament útil.</p>
+
+<h2>On l'enfocament lliure mostra les seves costures</h2>
+<p>La trampa és <em>com</em> Background Music aconsegueix un volum per aplicació. Com que macOS no ofereix cap camí oficial, instal·la un controlador d'àudio virtual (una versió modificada de l'antic enfocament de Soundflower) que encamina l'àudio del vostre sistema per si mateix. Aquesta arquitectura és intel·ligent, però comporta costos reals:</p>
+<ul>
+<li><strong>Es trenca després de les actualitzacions de macOS.</strong> Els controladors d'àudio virtuals es troben al fons del sistema i les principals versions de macOS els han desactivat o desestabilitzat històricament. Els usuaris denuncien habitualment el silenci, la distorsió o la necessitat de reinstal·lar-los després de l'actualització. Quan es trenca, sovint estàs sol.</li>
+<li><strong>La instal·lació és més pesada.</strong> Esteu afegint un dispositiu d'àudio adjacent al nucli al vostre Mac, no només una aplicació. La desinstal·lació neta pot ser complicat.</li>
+<li><strong>Es converteix en el vostre dispositiu de sortida predeterminat.</strong> Com que tot s'encamina a través del dispositiu virtual, algunes aplicacions d'àudio, conferències o jocs professionals poden comportar-se de manera estranya i canviar la sortida real és un pas addicional.</li>
+<li><strong>El desenvolupament és al ritme de la comunitat.</strong> No hi ha taulell de suport. Les correccions arriben quan un voluntari té temps, cosa que per a una eina d'àudio que de sobte es pot callar és un risc significatiu.</li>
+</ul>
+<p>Res d'això fa que Background Music sigui dolent. La converteix en una eina gratuïta amb avantatges d'una eina gratuïta.</p>
+
+<h2>El que realment pagueu amb SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una aplicació Mac App Store, que dóna forma al que és. Com que les aplicacions App Store es troben en una caixa de sorra i no poden enviar el tipus de controlador virtual de baix nivell que utilitza Background Music, SoundDial està dissenyat per funcionar sense instal·lar un dispositiu d'àudio separat o DMG. Això vol dir:</p>
+<ul>
+<li><strong>No hi ha cap peculiaritat del controlador virtual.</strong> No hi ha cap dispositiu de sortida addicional que segresti la vostra cadena d'àudio, ni res per reinstal·lar quan canviï el sistema.</li>
+<li><strong>Sobreviu a les actualitzacions macOS amb molta més gràcia.</strong> La distribució App Store i el sandboxing significa que es construeix amb camins compatibles i s'actualitza a través de la botiga, de manera que és molt menys probable que una actualització del sistema operatiu us deixi silenci.</li>
+<li><strong>Augment del volum per aplicació.</strong> Aquesta és una diferència de característica real: SoundDial pot impulsar una aplicació <em>a dalt</em> 100% per a fonts silencioses: un podcast gravat massa baix, una videotrucada apagada. Background Music només atenua.</li>
+<li><strong>Perfils de volum.</strong> Deseu un conjunt de nivells per aplicació ("Reunió", "Música", "Jocs") i canvieu amb un sol clic en lloc d'arrossegar els controls lliscants cada vegada.</li>
+<li><strong>Agafement automàtic.</strong> Baixa automàticament el volum d'altres aplicacions quan es reprodueix una font escollida: una visió més configurable de la idea de la pausa automàtica.</li>
+<li><strong>Canvi ràpid de sortida</strong> al forn a la barra de menús, a més de silenciar per aplicació.</li>
+<li><strong>Suport real.</strong> És un producte de pagament amb algú responsable quan alguna cosa va malament.</li>
+</ul>
+
+<h2>La decisió honesta</h2>
+<blockquote>Si voleu gratuït i només necessiteu un volum bàsic per aplicació, i us sentiu còmode resolent problemes després de les actualitzacions de macOS, Background Music és una opció sòlida. Si voleu un impuls, perfils, desviació, canvi de sortida, sense fragilitat del controlador virtual i algú a qui enviar un correu electrònic quan es trenqui, SoundDial val 14,99 €.</blockquote>
+<p>Uns quants desempats concrets. Si tracteu regularment amb fonts massa silencioses, només l'impuls justifica el preu: Background Music simplement no pot fer que l'àudio sigui més fort que la font. Si us fa por l'aposta anual "el meu àudio sobreviurà a l'actualització", l'aplicació de la botiga sandbox elimina aquesta ansietat. Si t'agraden les escenes ambientades i oblidades, els perfils estalvien fricció real. I és un únic 14,99 €, no una subscripció, de manera que la comparació és una compra única en comparació amb el temps que dediqueu a mantenir un conductor gratuït.</p>
+<p>Per contra, si sou un fanàtic que us agrada el codi obert, vol llegir el codi i, sobretot, només desactiva una aplicació, estalvieu els vostres diners. Ambdues eines resolen el mateix problema central; es diferencien en robustesa, profunditat de característiques i qui t'atrapa quan macOS canvia per sota.</p>
+
+<p>Voleu volum per aplicació sense l'aposta del controlador virtual? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> — 14,99 euros únics, amb sorra, sense conductors, amb boost, perfils i autoducking integrats.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "SoundSource val 39 dòlars? Una alternativa més barata d'un sol cop Mac",
+    description: "SoundSource és una potent eina d'àudio Mac a uns 39 dòlars, però és excessiu si només necessiteu el volum i l'augment de l'aplicació. Aquí teniu una comparació honesta i una alternativa única de 14,99 €.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>SoundSource val la pena si necessiteu el seu conjunt d'eines complet: volum per aplicació, un EQ de 10 bandes per aplicació, encaminament d'àudio entre dispositius i efectes per a tot el sistema. Però al voltant de 39 dòlars és excessiu si voleu principalment un volum per aplicació, un silenci per aplicació i un augment de volum. Per a aquesta feina més estreta, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> costa 14,99 € una vegada.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: SoundSource val 39 dòlars? Una alternativa més barata d&#x27;una sola vegada a Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Què fa realment SoundSource</h2>
+<p>El SoundSource de Rogue Amoeba és un programari realment excel·lent, i és important ser just al respecte. No és només un mesclador de volum. Et dóna:</p>
+<ul>
+<li><strong>Control de volum per aplicació</strong> des de la barra de menús, la funció a la qual acudeix la majoria de la gent.</li>
+<li><strong>Un equalitzador complet de 10 bandes</strong> podeu aplicar per aplicació o per a tot el sistema, a més d'altres efectes d'àudio (mitjançant els connectors d'Audio Unit).</li>
+<li><strong>Encaminament de sortida/entrada</strong>, inclòs l'enviament d'una única aplicació a un dispositiu de sortida diferent al de la resta del sistema.</li>
+<li><strong>Canvi ràpid de dispositiu</strong> i preajustos d'EQ específics per als auriculars.</li>
+</ul>
+<p>Si sou un podcaster, un streamer o un nerd d'àudio que voleu sintonitzar l'equalització dels vostres auriculars, redirigir el so d'una aplicació a un altaveu independent o apilar efectes de la unitat d'àudio, SoundSource guanya el seu preu. Res aquí és un cop.</p>
+
+<h2>La qüestió del preu</h2>
+<p>SoundSource és una llicència única de pagament d'uns 39 dòlars (el preu varia segons la versió i les promocions). No és una subscripció recurrent en el sentit de Netflix, però segueix el patró clàssic d'aplicacions de pagament: compreu una versió principal i les actualitzacions importants futures solen ser actualitzacions de pagament amb descompte en lloc de gratuïtes per sempre. Durant diversos anys, això és més que una sola compra. Per a molts usuaris de Mac, la pregunta honesta és: estic pagant 39 dòlars per una suite d'encaminament i ecualització quan tot el que realment toco són els controls lliscants de volum per aplicació?</p>
+
+<blockquote>Si heu obert SoundSource i només heu utilitzat els controls lliscants de volum i els botons de silenci, pagueu per una suite per utilitzar-ne un calaix.</blockquote>
+
+<h2>Per què existeix el problema</h2>
+<p>Aquesta és la causa arrel honesta: macOS no té un mesclador de volum per aplicació integrat. Windows n'ha tingut un durant anys, però al Mac, el volum del sistema és tot o res. No hi ha cap manera proporcionada per Apple de mantenir el Spotify en silenci mentre una videotrucada es manté alta, o de silenciar una aplicació sense tocar tota la resta. Aquest buit és exactament el motiu pel qual eines com SoundSource i <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> existir. És una limitació real del sistema operatiu, no una cosa que cap aplicació hagi inventat un problema per resoldre.</p>
+
+<h2>On hi cabe una opció més lleugera i més barata</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és un mesclador de volum per aplicació de la barra de menús creat per al cas comú en lloc del cas pro-àudio. Cobreix:</p>
+<ul>
+<li><strong>Volum independent per aplicació</strong> — deixa anar la teva música mentre una reunió es manté a nivell complet.</li>
+<li><strong>Silència per aplicació</strong> - silencieu una aplicació sense silenciar el Mac.</li>
+<li><strong>Augment del volum per aplicació</strong> — empènyer una aplicació silenciosa per sobre del seu 100% normal quan la font és massa suau.</li>
+<li><strong>Perfils de volum</strong> — deseu un conjunt de nivells per aplicació (per exemple, un disseny de "focus" o "trucada") i canvieu-lo amb un sol clic.</li>
+<li><strong>Agafement automàtic</strong> — baixa automàticament altres aplicacions quan comences a parlar o quan es reprodueix una aplicació escollida.</li>
+<li><strong>Canvi ràpid de sortida</strong> — saltar entre altaveus, auriculars i altres dispositius des de la barra de menú.</li>
+</ul>
+<p>És <strong>14,99 € únic</strong>, venut a través del Mac App Store, de manera que està en una caixa de sorra i no hi ha cap DMG separat, cap extensió del nucli i cap controlador d'àudio per instal·lar. La descarregueu com qualsevol aplicació App Store i s'actualitza a través de la botiga.</p>
+
+<h2>Una comparació honesta</h2>
+<p>Tingueu els ulls clars sobre la compensació. SoundSource fa més que SoundDial, i si alguna de les coses següents us interessa, SoundSource és la millor compra:</p>
+<ul>
+<li>Voleu una aplicació o sistema real <strong>equalitzador</strong> i efectes de la unitat d'àudio.</li>
+<li>Necessites <strong>encaminar una única aplicació a un dispositiu de sortida diferent</strong> que tota la resta.</li>
+<li>Tu confies <strong>Preajustos d'EQ específics per als auriculars</strong> i processament d'àudio de gran fi.</li>
+</ul>
+<p>SoundDial no fa EQ ni encaminament de dispositius per aplicació. És deliberadament més estret. El que us ofereix a canvi és un preu més baix, una empremta més lleugera i una interfície de barra de menú centrada per al que la majoria de la gent realment volia: mantenir cada aplicació al nivell que trieu, amb un impuls i perfils a la part superior.</p>
+
+<h2>Aleshores, val la pena SoundSource?</h2>
+<p>Sí, si feu servir l'EQ i l'encaminament. És un programari madur i ben recolzat d'un desenvolupador respectat i el preu reflecteix la capacitat real. Però "val la pena" depèn del que toquis. Si obriu l'aplicació i només ajusteu els controls lliscants de volum, silencieu una aplicació o voleu que una aplicació tranquil·la fos més forta, esteu pagant diners de la suite premium per a les necessitats bàsiques del mesclador. En aquest cas, una eina única de 14,99 € és la millor opció, i sempre podeu passar a SoundSource més tard si les vostres necessitats creixen en EQ i encaminament.</p>
+
+<p>Si tot el que busques és el volum per aplicació, l'augment, el silenci, els perfils i l'acoblament automàtic, <a href="https://apps.apple.com/app/id6772792641">obteniu SoundDial al Mac App Store</a> — 14,99 € una vegada, sense subscripció, sense conductors.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Massa fort a Mac? Desactiva un navegador sense silenciar-ho tot",
+    description: "Chrome és més fort que les altres aplicacions a Mac? Apreneu les correccions integrades (silenciació per pestanya, configuració de so del lloc) i com establir un volum real per aplicació per a Chrome perquè es mantingui més silenciós que tota la resta.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té un volum per aplicació integrat, de manera que no podeu baixar Chrome de manera nativa mentre deixeu altres aplicacions a tot el volum. Les vostres solucions gratuïtes més ràpides són silenciar les pestanyes sorolloses, baixar el volum dins de cada reproductor de vídeo o bloquejar el so per lloc a la configuració de Chrome. Per obtenir un nivell de volum real i persistent només per a Chrome, necessiteu un mesclador per aplicació.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Massa fort a Mac? Desactiva un navegador sense silenciar-ho tot" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què Chrome sona més fort que tota la resta</h2>
+<p>Chrome no és necessàriament "més fort" per disseny; és que Chrome encamina l'àudio de moltes fonts independents: YouTube, anuncis de reproducció automàtica, videotrucades, pestanyes de música de fons i aplicacions web que ofereixen cadascuna la seva sonoritat. Alguns llocs estan dominats en calent, els anuncis són notòriament forts i Chrome els reprodueix tots al nivell de sortida complet del vostre sistema. Mentrestant, la vostra aplicació de música o una trucada pot ser més silenciosa, de manera que Chrome domina la barreja.</p>
+<p>A Windows, només hauríeu d'obrir el Mesclador de volum i arrossegar el control lliscant Chrome cap avall. macOS simplement no inclou aquesta funció. La tecla de volum del sistema ho controla tot alhora, de manera que baixar Chrome també disminueix la música, les notificacions i les trucades. Aquesta és la limitació bàsica, i és una bretxa del sistema operatiu, no una cosa que esteu fent malament.</p>
+
+<h2>Correccions integrades que no costen res</h2>
+<p>Abans d'instal·lar qualsevol cosa, proveu-los. No us donaran un sol dial de volum Chrome, però resolen la majoria dels problemes d'"una pestanya alta".</p>
+<ul>
+<li><strong>Silencia una pestanya sorollosa.</strong> Feu clic amb el botó dret a la pestanya i trieu "Silencia el lloc" o feu clic a la icona d'altaveu petit que apareix en una pestanya que reprodueix àudio. Això silencia aquesta pestanya completament sense tocar la resta de Chrome.</li>
+<li><strong>Baixeu el volum dins del reproductor.</strong> El truc més fiable: arrossegueu el control lliscant de volum cap avall dins de YouTube, Netflix o el que es reprodueixi. Els jugadors web recorden el seu propi nivell per lloc, de manera que un YouTube més silenciós es mantindrà en silenci la propera vegada.</li>
+<li><strong>Bloqueja el so per lloc.</strong> Vés a <em>chrome://settings/content/sound</em>. Podeu canviar els llocs entre "permès" i "silenciat" i afegir dominis específics a una llista de silenci. Ideal per silenciar permanentment els llocs que es reprodueixen automàticament.</li>
+<li><strong>Elimina els anuncis de reproducció automàtica.</strong> L'àudio dels anuncis és sovint el veritable culpable. Un bloquejador de contingut o silenciar la pestanya fins que estiguis a punt per veure-la elimina la majoria de la sonoritat sorpresa.</li>
+</ul>
+<blockquote>Aquests són realment útils i gratuïts. Però observeu què no poden fer: silencien o gestionen pestanyes individuals. Cap d'ells us permet dir "mantingueu tot el Chrome al 40% mentre la meva música es mantingui al 100%.</blockquote>
+
+<h2>La limitació honesta: no hi ha volum per aplicació a macOS</h2>
+<p>Si el vostre objectiu real és "Chrome sempre hauria de ser més silenciós que les meves altres aplicacions", les eines integrades es queden curtes. El silenci per pestanya és tot o res. Els controls lliscants del jugador es restableixen quan un lloc no els recorda i s'han de tornar a fer constantment. I el volum del sistema ho mou tot junt.</p>
+<p>Aquesta és una limitació real de macOS, no un error que podeu configurar. Apple mai ha enviat un mesclador de volum d'estil Windows. L'única manera d'aconseguir un nivell de volum persistent i independent per a Chrome, concretament, és una aplicació de tercers que es troba entre les vostres aplicacions i el vostre dispositiu de sortida i s'aplica un guany per aplicació.</p>
+
+<h2>Estableix un volum real per aplicació per a Chrome</h2>
+<p>Un mesclador de barra de menús com <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ofereix a macOS el control de volum per aplicació que li falta. Llista totes les aplicacions que estan reproduint àudio i ofereix a cadascuna el seu propi control lliscant, de manera que podeu baixar Chrome a un nivell còmode i deixar Spotify, les vostres trucades i els sons del sistema exactament on es troben.</p>
+<p>A continuació s'explica com domaríeu un Chrome fort amb ell:</p>
+<ul>
+<li>Obriu el mesclador de la barra de menús i cerqueu Chrome a la llista d'aplicacions actives.</li>
+<li>Arrossegueu el control lliscant de Chrome cap avall fins, per exemple, entre un 40 i un 50 per cent. Altres aplicacions es mantenen intactes.</li>
+<li>Si una aplicació específica també ho és <em>tranquil</em> en canvi, utilitzeu una aplicació de trucades que xiuxiueja <a href="https://apps.apple.com/app/id6772792641">augment del volum per aplicació</a> per empènyer-lo per sobre del 100 per cent, mantenint Chrome baix.</li>
+<li>Silencia Chrome a l'instant amb un silenci per aplicació quan necessites silenci sense tancar les pestanyes.</li>
+</ul>
+<p>Com que el nivell està lligat a l'aplicació, s'enganxa. Chrome es manté al volum escollit a través de les pestanyes, els llocs i els reinicis, sense tornar a arrossegar els controls lliscants del reproductor cada vegada que obriu un vídeo nou.</p>
+
+<h2>Anem més enllà: perfils, ducking i canvi de sortida</h2>
+<p>Un cop tingueu el control per aplicació, alguns extres fan que valgui la pena mantenir-lo. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> et permet estalviar volum <strong>perfils</strong> — per exemple, un perfil de "focus" on Chrome és silenciós i la música és alta, i un perfil de "mirar" on domina Chrome, i canvieu entre ells amb un sol clic. L'acoblament automàtic pot submergir altres aplicacions automàticament quan s'inicia una font escollida (pràctic perquè una trucada mai s'enterra sota una pestanya del navegador sorollosa). I el canvi ràpid de sortida us permet saltar entre altaveus, auriculars i altres dispositius sense capbussar-vos a la configuració del sistema.</p>
+<p>Es tracta d'una compra única de 14,99 € al Mac App Store: sense subscripció, sense controladors per instal·lar, sense DMG ni extensió del nucli. Com que es troba en una caixa de sorra i es distribueix a través del App Store, no requereix que el controlador d'àudio incomplet instal·li eines de mescladores més antigues en les quals es basa.</p>
+
+<h2>Quina solució hauríeu d'utilitzar?</h2>
+<p>Si només teniu una pestanya desagradable de tant en tant, utilitzeu el silenci integrat de Chrome i la configuració de so del lloc: són gratuïts i funcionen. Si constantment us trobeu desitjant que Chrome es pugui rebutjar mentre tota la resta es manté, aquest és el buit exacte que macOS deixa obert, i un mesclador per aplicació és la solució.</p>
+
+<p>Voleu que Chrome sigui més silenciós permanentment sense silenciar la vostra música o trucades? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i doneu a cada aplicació el seu propi control lliscant de volum.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "La notificació WhatsApp i Telegram sona massa forta a Mac? Rebutja'ls",
+    description: "Corregiu els sons de notificació de l'escriptori WhatsApp i Telegram que són massa forts al vostre Mac. Comenceu amb la configuració integrada de cada aplicació i, a continuació, baixeu o silencieu tota l'aplicació quan macOS no us ofereixi cap control per aplicació.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>Comenceu dins de cada aplicació: WhatsApp i Telegram us permeten silenciar o canviar els sons de notificació a la seva pròpia configuració, que és la solució més neta. Però macOS no té cap control lliscant de volum de notificació per aplicació, de manera que si el so propi de l'aplicació encara és massa fort, la vostra única palanca real és baixar o silenciar l'àudio complet d'aquesta aplicació amb una eina de volum per a l'aplicació.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — La notificació WhatsApp i Telegram sona massa forta a Mac? Rebutja&#x27;ls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Primer, utilitzeu la configuració de notificacions de l'aplicació</h2>
+
+<p>Tant WhatsApp com Telegram envien els seus propis controls de so, i aquí és on sempre hauríeu de començar. És la solució més precisa i no toca res més al vostre Mac.</p>
+
+<p><strong>WhatsApp Escriptori:</strong> Obriu WhatsApp, feu clic <em>Configuració</em> (la icona d'engranatge), llavors <em>Notificacions</em>. Podeu desactivar-lo <em>Sons</em> completament mantenint els bàners o desactivant les visualitzacions prèvies de notificacions. WhatsApp no ofereix un control lliscant de volum, de manera que bàsicament està activat o desactivat per al so en si.</p>
+
+<p><strong>Telegram Escriptori:</strong> Obert <em>Configuració → Notificacions i sons</em>. Telegram és més flexible aquí. Pots desactivar el so de notificació globalment, silenciar els xats individuals o establir tons personalitzats (més tranquils). També podeu silenciar un únic grup sorollós obrint-lo i triant <em>Silenciar</em>. Per a la majoria de la gent, silenciar els xats més forts soluciona el problema sense callar a tot arreu.</p>
+
+<p>Si el so és bo però massa freqüent, silencieu els xats o canals específics que s'encenen amb més freqüència en lloc de matar el so a tota l'aplicació. Això manté les alertes importants audibles.</p>
+
+<h2>Desactiveu els sons de notificació a la configuració del sistema macOS</h2>
+
+<p>macOS té una segona capa de control que anul·la l'aplicació en alguns casos. Vés a <em>Configuració del sistema → Notificacions</em>, seleccioneu WhatsApp o Telegram a la llista i apagueu <em>Reprodueix so per a les notificacions</em>. Això silencia el timbre d'alerta d'aquesta aplicació mentre segueix mostrant pancartes.</p>
+
+<p>Aquesta és una solució realment bona si només voleu que l'aplicació estigui en silenci a les notificacions i no us preocupeu per la resta d'àudio (trucades, vídeo). Combinat amb la configuració pròpia de l'aplicació, cobreix la majoria de les queixes "el ping és molest".</p>
+
+<h2>La veritable limitació: macOS no té volum per aplicació</h2>
+
+<p>Aquí està la part honesta. Els passos anteriors són interruptors d'encesa/apagada. El que no poden fer és girar WhatsApp o Telegram <em>cap avall</em> a, per exemple, un 40% mantenint tota la resta a tot volum. Windows fa anys que té un mesclador de volum per aplicació. macOS simplement no n'inclou cap i no hi ha cap configuració oculta o comanda Terminal que l'afegeixi.</p>
+
+<p>Això importa quan el problema no és el timbre de notificació específicament, sinó que tota l'aplicació és massa forta:</p>
+
+<ul>
+<li>WhatsApp o Telegram <strong>trucades de veu i videotrucades</strong> que esclaten a tot volum en relació amb la vostra música o una reunió</li>
+<li>Un so de notificació que voleu mantenir però a un nivell més baix, no del tot</li>
+<li>Tons de trucada que surten molt per sobre de qualsevol altra cosa que escolteu</li>
+<li>Voleu que l'aplicació sigui audible però en silenci en segon pla mentre us centreu en una altra cosa</li>
+</ul>
+
+<p>Res d'això es pot resoldre amb les eines integrades, perquè només ofereixen silenci, no un nivell. Aquest buit és una limitació real de macOS, no una cosa que us perdeu.</p>
+
+<h2>Estableix un volum per aplicació amb SoundDial</h2>
+
+<p>Per desactivar una única aplicació en lloc de desactivar-se, necessiteu un mesclador de volum per aplicació. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una aplicació de barra de menús que ofereix a macOS el control de volum per aplicació amb què mai s'ha enviat. Llista totes les aplicacions que estan reproduint àudio i ofereix a cadascuna el seu propi control lliscant.</p>
+
+<p>Per a aquest problema específic:</p>
+
+<ul>
+<li>Obert <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> des de la barra de menús i cerqueu WhatsApp o Telegram a la llista.</li>
+<li>Arrossegueu el control lliscant cap avall fins a un nivell còmode, per exemple, del 30 al 40%, sense tocar la vostra música, navegador o videotrucada.</li>
+<li>Utilitzeu la per aplicació <strong>mut</strong> botó per silenciar aquesta aplicació a l'instant durant una trucada o una reunió, i després activar el so més tard sense buscar la configuració.</li>
+<li>Si mai necessiteu el contrari, una aplicació silenciosa massa suau, la per aplicació <strong>impulsar</strong> pot empènyer-lo per sobre del 100%.</li>
+</ul>
+
+<p>Com que estableix un nivell per aplicació, SoundDial manté els sons de notificació i l'àudio de les trucades audibles però proporcionats, en lloc de l'opció de tot o res que les opcions integrades us obliguen. També pots desar <strong>perfils de volum</strong>, de manera que una configuració de "focus" que manté baixes les aplicacions de xat és a un clic de distància.</p>
+
+<blockquote>Una advertència honesta: reduir el volum general d'una aplicació a SoundDial també redueix els seus timbres de notificació, ja que per a macOS són l'àudio de la mateixa aplicació. Si voleu que les notificacions estiguin completament desactivades però les trucades a tot volum, utilitzeu el silenci de l'aplicació més la configuració del sistema per al timbre i reserveu SoundDial per establir el nivell general.</blockquote>
+
+<p>SoundDial és una compra única de 14,99 € a la Mac App Store, amb caixa de sorra, sense subscripció, sense controladors del nucli i sense DMG per carregar lateralment. És la resposta pràctica quan la solució que realment voleu, apagar una aplicació en lloc d'apagar, no és una cosa que macOS pot fer.</p>
+
+<h2>Quina solució hauríeu d'utilitzar?</h2>
+
+<p>Treballar de dalt a baix. Proveu primer la configuració de notificació de l'aplicació i després la configuració del sistema macOS per apagar el timbre. Si el que realment voleu és baixar WhatsApp o Telegram a un volum específic, o silenciar aquesta aplicació sobre la marxa durant les trucades, aquí és on un mesclador per aplicació es guanya el seu lloc.</p>
+
+<p>Estàs cansat d'escollir entre una explosió total i un silenci total per a les teves aplicacions de xat? <a href="https://apps.apple.com/app/id6772792641">Obteniu SoundDial al Mac App Store</a> i doneu a cada aplicació el seu propi marcador de volum.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Àudio del joc més fort que Discord a Mac? Com equilibrar el volum del joc i la veu",
+    description: "El vostre joc està ofegant el xat de veu Discord a Mac i no hi ha cap mesclador de volum integrat. Heus aquí per què a macOS no li falta el volum per aplicació d'estil Windows i com baixar el joc mentre manté la veu alta.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té un mesclador de volum per aplicació integrat, de manera que no podeu limitar el vostre joc de manera nativa mentre manteniu Discord fort. La solució és una aplicació de barra de menú que estableix un volum independent per aplicació. Redueix el joc al 40-50%, deixa el xat de veu al 100% i tots dos es mantenen equilibrats sense tocar els controls lliscants del joc.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Àudio del joc més fort que Discord a Mac? Com equilibrar el volum del joc i la veu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què passa això a Mac (i no a Windows)</h2>
+
+<p>Si heu jugat a Windows, coneixeu el mesclador de volum: feu clic amb el botó dret a la icona de l'altaveu i cada aplicació en execució tindrà el seu propi control lliscant. Deixes el joc, aixeques Discord, fet. macOS simplement mai no va enviar aquesta funció. Hi ha un volum de sortida principal i un grapat de commutadors a nivell d'aplicació enterrats a la configuració del sistema, però no hi ha control de nivell per aplicació per a aplicacions arbitràries.</p>
+
+<p>Així, quan la barreja d'un joc es domina en calent, les seves explosions, música i trets arriben al mateix nivell de sortida que les veus dels teus amics. Alguns jocs exposen un control lliscant de volum mestre, però molts no baixen prou, i molts llançadors, navegadors i títols autònoms no ofereixen cap control útil. El mateix Discord només us permet ajustar el volum dels usuaris entrants, no el joc que competeix amb ells.</p>
+
+<p>Per ser honest, es tracta d'un buit a nivell del sistema operatiu, no d'un error que podeu desactivar. La pila d'àudio d'Apple encamina tot a un sol flux de sortida i no hi ha cap interfície d'usuari per dividir-lo per aplicació. És per això que necessiteu una eina de tercers que es trobi entre les vostres aplicacions i el dispositiu de sortida.</p>
+
+<h2>Les solucions manuals (i per què es queden curtes)</h2>
+
+<p>Abans d'arribar al programari, val la pena conèixer les opcions gratuïtes i els seus límits:</p>
+
+<ul>
+<li><strong>Baixa el volum de l'aplicació del joc.</strong> Funciona si el joc té un control lliscant mestre amb passos prou fins. Molts s'aturen amb increments del 10% o agrupen música i efectes junts, de manera que no pugueu domar només les parts fortes.</li>
+<li><strong>Cria els teus amics a Discord.</strong> Feu clic amb el botó dret a cada usuari i augmenta el seu volum. Això ajuda una mica, però supera, i no toca el joc que és realment el problema.</li>
+<li><strong>Utilitzeu auriculars amb un botó de volum de maquinari.</strong> Només canvia el nivell general, no l'equilibri entre joc i veu.</li>
+<li><strong>Encamina l'àudio a través d'un dispositiu virtual.</strong> Eines com Loopback o BlackHole poden dividir els fluxos, però estan dirigides als professionals, tenen una configuració real i són excessives per "fer el joc més tranquil".</li>
+</ul>
+
+<p>Cap d'aquests us ofereix l'única cosa que els usuaris de Windows donen per fet: un control lliscant ràpid per aplicació. Aquesta és la bretxa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> està construït per omplir.</p>
+
+<h2>La solució directa: volum independent per aplicació</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és un mesclador de volum per aplicació de la barra de menús per a macOS. Mostra totes les aplicacions que estan reproduint so i ofereix a cadascuna el seu propi control lliscant, exactament com el mesclador de volum Windows. Per al problema del joc contra la veu, el flux de treball és curt:</p>
+
+<ul>
+<li>Feu clic a la icona SoundDial de la barra de menú mentre el joc i Discord s'estan executant.</li>
+<li>Trobeu el joc a la llista i tireu el control lliscant cap avall fins a aproximadament un 40-50%.</li>
+<li>Deixeu Discord (o Slack, Zoom o la vostra aplicació de veu) al 100%.</li>
+<li>Ajusta't sobre la marxa durant el joc: baixa el joc encara més en un fort tiroteig, fes una còpia de seguretat durant l'exploració tranquil·la.</li>
+</ul>
+
+<p>Com que els nivells són per aplicació, els configureu una vegada i es mantenen. El joc es manté limitat per molt que sigui la seva pròpia barreja, i els teus amics s'escolten clarament.</p>
+
+<h2>Potencia, silencia i perfils per a la resta de la configuració</h2>
+
+<p>La mateixa eina cobreix les molèsties adjacents que vénen amb els jocs de veu:</p>
+
+<ul>
+<li><strong>Augment per aplicació.</strong> Si el micròfon d'un company d'equip està en silenci fins i tot al màxim de Discord, podeu empènyer l'aplicació de veu <em>a dalt</em> 100%, de manera que talla el joc en lloc d'enterrar-se.</li>
+<li><strong>Silència per aplicació.</strong> Silencia una pestanya del navegador de fons o una aplicació de música a l'instant sense utilitzar pestanyes altes ni eliminar la reproducció.</li>
+<li><strong>Perfils de volum.</strong> Deseu un perfil de "joc" amb el joc al 45% i Discord augmentat i, a continuació, torneu a un perfil "normal" per a l'ús diari amb un sol clic, sense tornar a arrossegar els controls lliscants cada sessió.</li>
+<li><strong>Agafement automàtic.</strong> Feu que el joc baixi automàticament quan algú parli, de manera que els missatges destacats sempre caiguin al damunt de l'acció.</li>
+<li><strong>Canvi ràpid de sortida.</strong> Salta entre auriculars i altaveus des del mateix menú sense capbussar-te a la configuració del sistema.</li>
+</ul>
+
+<blockquote><p>El model mental és senzill: un control lliscant per aplicació, com ho ha fet durant anys Windows. macOS no ho va proporcionar mai, de manera que una petita utilitat restaura la paritat.</p></blockquote>
+
+<h2>Què esperar sincerament</h2>
+
+<p>Un mesclador per aplicació resol el problema de l'equilibri de manera neta, però defineix les expectatives correctament. Controla els nivells de sortida del programari: no pot arreglar un joc el propi àudio del qual està mal dominat i no pot generar un senyal que mai no s'ha capturat (un micròfon realment trencat encara necessita una solució de maquinari). Boost afegeix guany real, de manera que empènyer una font tranquil·la molt més enllà del 100% pot introduir distorsió, exactament com si s'aixequi massa un amplificador. Utilitzat amb raó, però, un límit de joc modest i un petit augment de veu és tot el que necessiten la majoria de les configuracions.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> es troba en una caixa de sorra i s'instal·la directament des del Mac App Store: sense controladors, sense extensions del nucli, sense DMG en què confiar. És un preu únic de 14,99 € sense subscripció i admet el control de volum macOS en 28 idiomes.</p>
+
+<p>Deixa de lluitar contra els controls lliscants del joc. Agafa <a href="https://apps.apple.com/app/id6772792641">SoundDial al Mac App Store</a>, baixa el joc, mantén el teu equip fort i, finalment, aconsegueix que el mesclador de volum d'estil Windows macOS s'ha oblidat d'enviar.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Els altaveus del monitor extern són massa forts o estan enganxats a Mac? Arregla el volum HDMI/DisplayPort",
+    description: "Per què les tecles de volum del vostre Mac no controlen els altaveus del monitor HDMI o DisplayPort, i com arreglar l'àudio que és massa fort, enganxat o no ajustable mitjançant l'OSD del monitor, la configuració d'àudio MIDI i un millor enrutament de sortida.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si les tecles de volum del vostre Mac estan en gris o no fan res per a un monitor connectat a HDMI o DisplayPort, normalment no és un error. Sovint, l'àudio de la pantalla digital s'envia a un nivell fix i el maquinari del monitor controla el volum. La solució és ajustar la pantalla, redirigir la sortida o utilitzar un dispositiu d'àudio diferent.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Els altaveus del monitor extern són massa forts o estan enganxats a Mac? Arregla el volum HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què les tecles de volum Mac deixen de funcionar a través de HDMI/DisplayPort</h2>
+
+<p>HDMI i DisplayPort transporten àudio com a flux digital. Molts monitors reben aquest flux a un nivell de sortida fix i esperen que controleu el volum a la pantalla mateixa, no al dispositiu d'origen. Quan macOS ho detecta, desactiva el control lliscant de volum de la pantalla i atenua les tecles F11/F12, mostrant un símbol de "sense entrada" quan les premeu.</p>
+
+<p>Aquesta és una limitació de maquinari i protocol, no quelcom que el programari del Mac pugui anul·lar. L'àudio no passa mai per un escenari on macOS pugui atenuar-lo. Cap aplicació, controlador o configuració pot injectar control de volum en un flux que la pantalla insisteix a rebre a nivell complet. Ser honest sobre això us estalvia hores de perseguir la solució equivocada.</p>
+
+<h2>Solució 1: utilitzeu els controls propis del monitor (OSD)</h2>
+
+<p>Aquesta és la solució real per a la majoria de la gent. Gairebé tots els monitors amb altaveus integrats tenen un menú de visualització en pantalla impulsat per botons físics o un joystick a la part posterior o inferior del panell.</p>
+
+<ul>
+<li>Premeu el botó OSD/menú per obrir la configuració del monitor.</li>
+<li>Cerqueu una secció d'àudio o volum.</li>
+<li>Baixeu el nivell allà: aquest és el control que realment funciona amb HDMI/DP.</li>
+</ul>
+
+<p>Alguns monitors també exposen una aplicació complementària o un suport DDC/CI perquè pugueu conduir l'OSD des de macOS. Les utilitats de tercers que parlen DDC poden assignar les tecles de volum del vostre Mac al volum del maquinari del monitor, cosa que val la pena provar si no us detesteu arribar als botons del panell.</p>
+
+<h2>Solució 2: comproveu la configuració d'àudio MIDI</h2>
+
+<p>Obert <strong>Configuració d'àudio MIDI</strong> (a /Aplicacions/Utilitats). Seleccioneu el vostre monitor a la llista de dispositius. Si apareix un control lliscant de volum a la dreta, arrossegueu-lo cap avall; de vegades, la pantalla exposa un nivell controlable pel programari fins i tot quan les tecles de la barra de menú estan desactivades. Si falta el control lliscant o està en gris, la pantalla confirma que només accepta àudio de nivell fix i hauríeu de tornar a l'OSD.</p>
+
+<p>Mentre siguis aquí, confirma que s'ha seleccionat el dispositiu de sortida correcte. És habitual que l'àudio s'enviï en silenci a un monitor que oblideu que estava connectat, la qual cosa explica un so sobtat fort o absent.</p>
+
+<h2>Solució 3: encamineu l'àudio a un lloc que realment pugueu controlar</h2>
+
+<p>Si els altaveus del monitor són mediocres de totes maneres (la majoria ho són) i el seu control de volum és maldestre, la solució més neta és deixar d'utilitzar-los:</p>
+
+<ul>
+<li>Connecteu els altaveus o els auriculars a la presa de sortida dels auriculars del monitor si en té una; aquesta sortida analògica sol ser controlada pel volum des de la pantalla.</li>
+<li>Utilitzeu un USB DAC, altaveus USB o una sortida Bluetooth. Les sortides USB i analògiques donen a macOS un control complet de volum del programari, de manera que les tecles tornen a funcionar amb normalitat.</li>
+<li>Seleccioneu els altaveus integrats del vostre Mac per obtenir sons ràpids i mantingueu el monitor només per al vídeo.</li>
+</ul>
+
+<p>Un cop us trobeu a una sortida que macOS pot atenuar, les tecles de volum del sistema es comporten i recupereu un control fi en lloc de saltar entre els passos gruixuts de l'OSD del monitor.</p>
+
+<h2>Un cop funcioni la sortida, controleu el volum per aplicació</h2>
+
+<p>Recuperar una sortida controlable soluciona el problema "massa fort / encallat". Però macOS encara us ofereix només un volum mestre per a tot. No hi ha cap mesclador per aplicació integrat al Mac: Windows n'ha tingut un des de fa anys, però Apple mai va enviar un equivalent. Així, un vídeo fort, un joc i una trucada silenciosa comparteixen el mateix control lliscant.</p>
+
+<p>Aquesta és la bretxa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> omple. És un mesclador de barra de menús que ofereix a cada aplicació el seu propi volum independent, de manera que podeu baixar una pestanya del navegador sense tocar la vostra música, silenciar una aplicació a l'instant o augmentar una aplicació silenciosa per sobre del seu sostre normal. Podeu desar perfils de volum per a diferents configuracions i canviar les sortides ràpidament des de la barra de menú.</p>
+
+<p>Per tenir clar l'abast: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> controla el volum del programari per a l'àudio que flueix a través de macOS. No pot anul·lar un monitor que ignora el volum del sistema a través d'HDMI: aquest és el comportament de nivell fix de la pantalla i només el soluciona l'OSD o una sortida diferent. Un cop tingueu una sortida controlable, el control per aplicació és on l'aplicació brilla.</p>
+
+<h2>Llista de verificació ràpida</h2>
+
+<ul>
+<li>Tecles grises per HDMI/DP? Utilitzeu el volum OSD del monitor: aquest és el comportament esperat.</li>
+<li>Comproveu la configuració d'àudio MIDI per trobar un control lliscant de programari ocult.</li>
+<li>Confirmeu que s'ha seleccionat el dispositiu de sortida correcte.</li>
+<li>Per a un control real, encamineu l'àudio a la sortida dels auriculars, USB o Bluetooth.</li>
+<li>A continuació, utilitzeu un mesclador per aplicació per equilibrar aplicacions individuals.</li>
+</ul>
+
+<p>Un cop la vostra sortida estigui sota control, doneu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> una mirada. Es tracta d'una compra única de 14,99 € al Mac App Store, sense subscripció, sense controladors, sense DMG, i finalment aporta un mesclador de volum per aplicació real a macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "El volum USB DAC no s'ajustarà a Mac? Torna el control de volum del programari",
+    description: "Per què macOS atenua el control lliscant de volum per a molts USB DAC, què significa i com recuperar el control de volum del programari que funcioni al vostre Mac sense perjudicar la qualitat de l'àudio.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Si el control lliscant de volum del vostre USB DAC està en gris a Mac, normalment no és un error. macOS desactiva el seu volum de programari quan un DAC informa que no té un volum controlable, esperant que utilitzeu el botó de maquinari propi del DAC. Per recuperar el volum del programari, utilitzeu un atenuador a nivell d'aplicació com ara <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — El volum USB DAC no s&#x27;ajustarà a Mac? Torna el control de volum del programari" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què macOS atenua el volum d'alguns USB DAC</h2>
+
+<p>Quan connecteu un dispositiu d'àudio USB, macOS li pregunta què pot fer mitjançant el protocol USB Audio Class (UAC). Part d'aquesta encaixada de mans és un conjunt de controls de la "unitat de funcions", inclòs un control de volum. Si el DAC declara un control de volum, macOS el connecta a les tecles de volum del teclat i al control lliscant de la barra de menús. Si el DAC declara que no té volum ajustable per l'amfitrió, macOS atenua completament el control lliscant.</p>
+
+<p>Molts DAC i amplificadors d'alta qualitat fan exactament això últim, a propòsit. La hipòtesi del dissenyador és que alimentaràs el DAC amb un senyal digital a gran escala i perfecte i controlaràs la sonoritat amb el botó de volum analògic de la unitat. Aquesta atenuació analògica es produeix després de la conversió de digital a analògic, de manera que evita llençar bits i és realment el camí preferit pels audiòfils. És una característica, no un error.</p>
+
+<blockquote>Regla general: si el vostre DAC té un botó de volum físic i el control lliscant Mac està en gris, el fabricant vol que utilitzeu el botó. El senyal s'està enviant al 100% per disseny.</blockquote>
+
+<h2>Quan el control lliscant en gris és realment un problema</h2>
+
+<p>La resposta "només utilitza el botó" es descompon en configuracions reals:</p>
+
+<ul>
+<li><strong>El DAC no té botó.</strong> Un munt de USB DAC compactes, dongles i interfícies professionals no exposen cap control de volum ni control d'amfitrió. Estàs atrapat al nivell al qual estiguin configurats l'amplificador avall o els altaveus alimentats.</li>
+<li><strong>El botó està fora de l'abast.</strong> Un escriptori DAC darrere del monitor, o una unitat que alimenta un amplificador de guany fix, significa que ajustar el volum es converteix en una tasca física en lloc de prémer una tecla.</li>
+<li><strong>Necessites un saldo per aplicació, no només un nivell mestre.</strong> Fins i tot un botó de maquinari perfecte és un únic control global. No pot fer una trucada Zoom més silenciosa que la teva música, ni esquivar un joc quan s'activa una notificació.</li>
+</ul>
+
+<p>macOS no soluciona cap d'aquests, perquè des de la perspectiva del sistema operatiu, el dispositiu es comporta correctament. Aquesta és la limitació honesta: és una capacitat informada pel dispositiu i no hi ha cap commutació a la configuració del sistema per anul·lar-la.</p>
+
+<h2>Solucions alternatives honestes abans d'instal·lar res</h2>
+
+<p>Prova aquests primers, perquè no costen res:</p>
+
+<ul>
+<li><strong>Utilitzeu el botó de maquinari o el volum aigües avall.</strong> Si el vostre DAC o els vostres altaveus/amplificador tenen un control, aquesta és l'opció més neta i conserva la resolució digital completa.</li>
+<li><strong>Comproveu l'aplicació o el microprogramari del DAC.</strong> Alguns DAC (i unitats orientades als jocs) envien un tauler de control o una configuració de microprogramari que permet el volum de l'amfitrió. Si existeix una opció de "volum USB" o "volum de programari", activar-la fa que el control lliscant macOS torni a funcionar.</li>
+<li><strong>Prova un altre mode USB.</strong> Alguns dispositius informen de diferents capacitats en el mode "compatible amb la classe" i en el mode de controlador propietari. Instal·lar o eliminar el controlador del proveïdor pot canviar si macOS veu un control de volum.</li>
+<li><strong>Mireu a Configuració d'àudio MIDI.</strong> Obriu la configuració d'àudio MIDI, seleccioneu el dispositiu i comproveu si hi apareix un volum mestre o per canal. De tant en tant, hi ha disponible un control lliscant en aquest tauler fins i tot quan la barra de menús està en gris.</li>
+</ul>
+
+<p>Si cap d'aquests s'aplica, necessiteu una atenuació de programari al costat Mac.</p>
+
+<h2>Control de volum de programari amb atenuació per aplicació</h2>
+
+<p>Quan el maquinari no accepta una comanda de volum, l'opció restant és atenuar l'àudio del programari abans que arribi al DAC. Això és exactament el que <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> fa. Es troba a la barra de menús i ofereix a cada aplicació en execució el seu propi volum independent, silenci i fins i tot un impuls, independentment de si el vostre DAC exposa un control de maquinari.</p>
+
+<p>Per utilitzar-lo per a un DAC en gris:</p>
+
+<ul>
+<li>Instal·lar <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> des del Mac App Store i obriu-lo des de la barra de menú.</li>
+<li>Mantingueu el vostre DAC seleccionat com a sortida del sistema; també podeu utilitzar el canvi ràpid de sortida de SoundDial per moure's entre el DAC, els altaveus i els auriculars sense capbussar-vos a la configuració del sistema.</li>
+<li>Establiu nivells per aplicació: deixeu anar el navegador, aixequeu el reproductor de música, silencieu el que no vulgueu. Cada aplicació es reprodueix al volum que trieu i el resultat mixt va al DAC.</li>
+<li>Deseu els perfils de volum per a diferents escenaris (trucades o escoltes) i deixeu que les aplicacions de fons baixes es desenvolupin automàticament quan comenci a reproduir alguna cosa més important.</li>
+</ul>
+
+<h2>El compromís honest amb la qualitat d'àudio</h2>
+
+<p>L'atenuació del programari redueix el nivell digital abans de la conversió, de manera que, en teoria, descarta una petita quantitat de resolució en comparació amb el volum analògic del mateix DAC. A la pràctica, en camins moderns de 24 bits i superiors a nivells d'escolta normals, la reducció està molt per sota de qualsevol cosa audible, i manteniu el rang dinàmic complet del DAC per a qualsevol cosa que es reprodueixi a tota escala. Si sou un purista amb un bon comandament analògic a l'abast, feu servir el botó. Si no teniu cap control de maquinari utilitzable o necessiteu un saldo per aplicació que macOS simplement no us pot proporcionar, el volum del programari és la compensació adequada i supera un control lliscant que no fa res.</p>
+
+<p>SoundDial és una compra única de 14,99 €, sense controladors, extensions del nucli ni instal·ladors de DMG. Si el volum del vostre USB DAC està en gris i cercar un botó no és una opció, <a href="https://apps.apple.com/app/id6772792641">obteniu SoundDial al Mac App Store</a> i torneu a posar el control de volum de treball a la barra de menús.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Limiteu el volum màxim d'una aplicació forta a Mac (protegiu la vostra audició)",
+    description: "macOS no té cap límit de volum per aplicació, de manera que una aplicació sorollosa us pot disparar a tot el volum del sistema. A continuació s'explica com establir un sostre de volum màxim per a una única aplicació a Mac amb un mesclador per aplicació i per què els límits del maquinari són importants.",
+    date: "2026-07-23",
+    readTime: "5 min de lectura",
+    content: `<p>macOS no té cap manera integrada de limitar el volum màxim d'una aplicació, de manera que es reprodueix un programa fort a qualsevol que estigui configurat el control lliscant del vostre sistema. Per establir un sostre per a una sola aplicació, utilitzeu un mesclador de barra de menús per aplicació com <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: manteniu aquesta aplicació, per exemple, al 40 per cent mentre el volum del vostre sistema es manté més alt per a la resta.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: limita el volum màxim d&#x27;una aplicació forta a Mac (protegeix la teva audició)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Per què una aplicació us pot explotar de sobte en un Mac</h2>
+
+<p>A macOS, el control lliscant de volum a la barra de menús o al Centre de control és un control únic per a tot el sistema. Cada aplicació s'aboca a la mateixa sortida al mateix nivell. No hi ha cap mesclador de volum per aplicació integrat al sistema operatiu de la mateixa manera que Windows n'ha tingut un durant anys amb el seu tauler Mesclador de volum.</p>
+
+<p>Aquest disseny té una veritable conseqüència per a les teves orelles. Si configureu el volum del vostre sistema alt perquè pugueu escoltar un podcast silenciós o una videotrucada suau, canvieu a un joc, una notificació Discord, un lloc web amb molta publicitat o un vídeo que s'ha dominat molt més fort, aquesta aplicació també es reprodueix a tot el nivell del sistema. El resultat és el clàssic salt d'espant: una paret de so sobtada a un volum que mai no heu pensat per a aquesta aplicació específica.</p>
+
+<p>Per a qualsevol persona amb tinnitus, sensibilitat al so o que simplement valora la seva audició, aquesta impredictibilitat és el problema. No estàs intentant fer-ho tot més tranquil. Esteu intentant garantir que una aplicació forta específica mai pot superar un nivell que heu decidit que és segur.</p>
+
+<h2>El que macOS pot i no pot fer aquí</h2>
+
+<p>Permeteu-me ser honest sobre els límits abans de recomanar res.</p>
+
+<ul>
+<li><strong>Volum del sistema</strong> rebaixa tot alhora. Baixeu-lo per domesticar una aplicació i les vostres aplicacions silencioses es tornen inaudibles.</li>
+<li><strong>Controls lliscants de volum a l'aplicació</strong> existeixen en algunes aplicacions (reproductors multimèdia, alguns navegadors per pestanya), però no la majoria. Un joc, una videotrucada o una aplicació nativa sovint no tenen cap control de volum independent.</li>
+<li><strong>El sostre de maquinari és real.</strong> Cap programari pot empènyer un senyal més fort que el màxim del dispositiu de sortida. Per contra, el domini de la sonoritat d'una aplicació, més el vostre DAC i els auriculars, configuren el fort "100 per cent" que se sent realment. El programari pot reduir un nivell per aplicació de manera fiable, però no pot reescriure la física dels vostres auriculars.</li>
+</ul>
+
+<p>Per tant, l'objectiu honest no és limitar la sonoritat màgica al nivell del conductor. És una atenuació pràctica i fiable per aplicació: manteniu una aplicació escollida en una fracció fixa de la sortida del sistema perquè mai no us sorprengui.</p>
+
+<h2>Com limitar el volum d'una sola aplicació amb un mesclador per aplicació</h2>
+
+<p>Un mesclador de volum per aplicació intercepta l'àudio de cada aplicació i us permet establir-ne el nivell de manera independent. Aquí teniu el flux de treball amb <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, que es troba a la barra de menús:</p>
+
+<ul>
+<li><strong>Obriu la batedora.</strong> Feu clic a la icona de la barra de menús SoundDial. Veureu una llista de totes les aplicacions que estan reproduint àudio, cadascuna amb el seu propi control lliscant.</li>
+<li><strong>Trobeu l'aplicació forta.</strong> Localitzeu l'aplicació que voleu limitar, per exemple, un joc, un navegador o una eina de videoconferència.</li>
+<li><strong>Col·loca el seu sostre.</strong> Arrossegueu el control lliscant d'aquesta aplicació fins al vostre nivell segur, per exemple, del 35 al 50 per cent. Aquesta aplicació ara es reprodueix en aquesta fracció de la sortida del sistema mentre que totes les altres es mantenen on era.</li>
+<li><strong>Deixeu el volum del vostre sistema on el necessiteu.</strong> Manteniu el control lliscant del sistema prou alt per a les vostres aplicacions silencioses. L'aplicació limitada es manté controlada independentment.</li>
+</ul>
+
+<p>Com que el nivell és per aplicació, esteu establint un màxim per a aquest programa. Fins i tot quan intenta reproduir el contingut més fort, ara el més fort és la fracció completa que trieu.</p>
+
+<h2>Feu que la tapa s'enganxi amb els perfils</h2>
+
+<p>Un únic ajust manual ajuda, però els nivells de l'aplicació es poden restablir quan sortiu i torneu a iniciar. Per fer una configuració segura per a l'audició que sobrevisqui als reinicis, feu servir <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>perfils de volum de. Deseu un perfil amb els vostres nivells preferits per aplicació, per exemple, "nit de joc tranquil" amb el joc al 40%, la vostra aplicació de música al 70% i la vostra aplicació de trucades al 90%. Recordeu-ho amb un sol clic sempre que us assegueu. El teu sostre per a l'aplicació forta torna exactament tal com l'has configurat.</p>
+
+<p>Val la pena conèixer dues funcions més per a la protecció auditiva:</p>
+
+<ul>
+<li><strong>Silència per aplicació</strong> us permet silenciar a l'instant un únic delinqüent sense tocar res més, útil per a una aplicació que envia notificacions de correu brossa.</li>
+<li><strong>Agafement automàtic</strong> redueix automàticament l'àudio de fons quan comença alguna cosa més important, de manera que no et quedis atrapat entre dues fonts fortes alhora.</li>
+</ul>
+
+<blockquote><p>L'atenuació del programari és realment eficaç per limitar una aplicació, però és una capa de protecció, no una salvaguarda mèdica. Si teniu tinnitus o sensibilitat al so, emparelleu un sostre per aplicació amb nivells d'escolta i pauses generals raonables. Cap aplicació substitueix els hàbits de volum acurats.</p></blockquote>
+
+<h2>Una nota sobre l'impuls i per què està separat</h2>
+
+<p>El mateix mesclador per aplicació que limita una aplicació forta també pot augmentar una de massa silenciosa per sobre del 100 per cent, cosa que és útil per a una aplicació el volum de la qual està dominat massa baix. Aquestes són dues cares del mateix control: tu decideixes el nivell de cada aplicació, amunt o avall. Per a la protecció auditiva, simplement trieu la direcció "avall" i manteniu-la allà.</p>
+
+<h2>La versió curta</h2>
+
+<p>macOS no us permetrà limitar el volum d'una sola aplicació per si sol, i això és un autèntic buit del sistema operatiu, no un error de l'usuari. Un mesclador de barra de menús per aplicació el tanca: configureu l'aplicació forta en una fracció fixa, deseu-la en un perfil i mai no us tornarà a explotar mentre les vostres altres aplicacions es mantinguin audibles.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és una compra única de 14,99 € al Mac App Store, sense controladors o DMG per instal·lar. Si l'objectiu és protegir les orelles d'una aplicació imprevisible, és la manera més senzilla d'establir aquest sostre i mantenir-lo.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Balanç esquerra/dreta diferent per aplicació a Mac: és possible?",
+    description: "Podeu establir un equilibri estèreo esquerra/dreta diferent per a cada aplicació a macOS? Sincerament, no, no de manera nativa, ni amb la majoria de les eines. Aquí teniu el que és realment possible i on són els límits reals.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Sincerament, no, macOS no us permet establir un equilibri estèreo esquerra/dreta diferent per aplicació, i gairebé cap eina de tercers tampoc exposa la veritable panoràmica per aplicació. Podeu establir un saldo global per al vostre dispositiu de sortida i podeu controlar per aplicació <em>volum</em>, però independent per aplicació <em>paella</em> no és una característica que macOS ofereix.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: equilibri esquerra/dreta diferent per aplicació a Mac: és possible?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Balanç vs volum: no són el mateix</h2>
+
+<p>Val la pena separar dues idees que sovint es confonen:</p>
+<ul>
+  <li><strong>Volum</strong> — el volum d'una aplicació en general. Aquest és un sol nivell aplicat als dos canals.</li>
+  <li><strong>Balanç (pan)</strong> — com es distribueix l'àudio entre els altaveus esquerre i dret. Un equilibri de "esquerra total" envia tot al canal esquerre i silencia el dret.</li>
+</ul>
+
+<p>Les persones que demanen "equilibri diferent per aplicació" solen voler una d'aquestes dues coses: portar el so d'una aplicació a una orella (per exemple, una trucada a l'orella esquerra, música a la dreta) o corregir una diferència d'audició o un altaveu dolent d'un costat, però només per a determinades aplicacions. Són objectius legítims. El problema és on viu el control.</p>
+
+<h2>Per què macOS no pot fer-ho de manera nativa</h2>
+
+<p>macOS té exactament un control d'equilibri i viu al nivell del dispositiu de sortida. El trobareu a sota <strong>Configuració del sistema → So → Sortida</strong>, on a <em>Balanç</em> el control lliscant desplaça tota la barreja cap a l'esquerra o cap a la dreta. S'aplica a tot el que s'aplica aquest control lliscant <em>tot</em> dirigit a aquest dispositiu: cada aplicació, cada so del sistema, tot alhora.</p>
+
+<p>No hi ha cap API a la pila d'àudio estàndard macOS que digui "reprodueix l'àudio d'aquesta aplicació a l'esquerra, aquesta aplicació a la dreta". Les aplicacions transmeten el seu àudio al sistema ja barrejat, i el sistema aplica un equilibri principal en el camí cap als altaveus. Per tant, el sistema operatiu no exposa la capa on voleu fer una panoràmica per aplicació. Aquesta és una limitació del sistema operatiu genuïna, no una utilitat de la barra de menús que pugui treballar educadament.</p>
+
+<blockquote>A diferència de per aplicació <em>volum</em> - que macOS també manca de manera nativa, però quines aplicacions poden implementar tocant el flux d'àudio - per aplicació <em>equilibri</em> requeriria tornar a panoràmicament el flux de cada aplicació de manera independent i aquest ganxo no està disponible per a les aplicacions de sorra.</blockquote>
+
+<h2>Què fa SoundDial i, sincerament, què no</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> us ofereix el control per aplicació que falta macOS: independent <strong>volum</strong> per a cada aplicació en execució, per aplicació <strong>mut</strong>, un volum per aplicació <strong>impulsar</strong> per sobre del 100%, volum estalviable <strong>perfils</strong>, agafement automàtic i canvi ràpid de sortida des de la barra de menú.</p>
+
+<p>Per ser directe amb tu: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> controls per aplicació <em>sonoritat i silenciament</em>, no estèreo per aplicació <em>panoràmica</em>. No enviarà Safari a l'orella esquerra i Spotify a la dreta. Si algú us diu que un mesclador de barra de menús fa un veritable equilibri L/R per aplicació a macOS, sigueu escèptics, no és un control que el sistema operatiu ofereix. El que SoundDial resol realment és la frustració molt més comuna: una aplicació és massa forta o massa silenciosa en relació amb una altra.</p>
+
+<h2>Les solucions alternatives reals per a l'equilibri per aplicació</h2>
+
+<p>Si realment necessiteu l'àudio dividit al costat, aquí teniu les opcions honestes, aproximadament des de la més simple fins a la més implicada:</p>
+
+<ul>
+  <li><strong>Balanç global (totes les aplicacions):</strong> Utilitzeu Configuració del sistema → So → Sortida → Balanç. Aquesta és la vostra única opció integrada i afecta totes les aplicacions. Útil per corregir una habitació o una asimetria auditiva, inútil per aïllar una aplicació.</li>
+  <li><strong>Dispositius de sortida separats:</strong> Això és el més semblant al saldo real per aplicació. Encamineu l'aplicació A a un dispositiu de sortida i l'aplicació B a un altre i, a continuació, configureu el saldo de cada dispositiu de manera independent. macOS us permet triar un dispositiu de sortida dins d'algunes aplicacions (i els navegadors/aplicacions de comunicació sovint exposen el seu propi selector de sortida). Si l'aplicació A apunta a un dispositiu desplaçat a l'esquerra i l'aplicació B a un dispositiu desplaçat a la dreta, obtindreu efectivament un saldo per aplicació, sempre que ambdues aplicacions us permetin triar la seva sortida.</li>
+  <li><strong>Eines d'encaminament d'àudio virtual:</strong> Les utilitats que creen dispositius virtuals i un mesclador intern poden, en algunes configuracions, encaminar aplicacions específiques a canals específics. Això és potent però complicat, afegeix un component d'estil de controlador i és excessiu per a la majoria de la gent. És el domini dels streamers i els enginyers d'àudio, no una solució casual de "trucada a una orella".</li>
+  <li><strong>Divisió de maquinari:</strong> Si es tracta d'altaveus físics o d'una diferència d'audició, un mesclador de maquinari o una interfície d'àudio amb control per canal evita completament el problema del programari.</li>
+</ul>
+
+<h2>Quan el volum per aplicació és realment el que necessiteu</h2>
+
+<p>Moltes sol·licituds de "Vull saldo diferent per aplicació" són realment "una aplicació n'està ofegant una altra". Si l'objectiu és una videotrucada que pots escoltar a través de la teva música o un joc que és massa fort al costat d'un xat Discord, l'equilibri no és l'eina, sinó el volum independent. Això és exactament el que un mesclador per aplicació gestiona netament, sense controladors virtuals ni gimnàstica d'encaminament.</p>
+
+<p>Així doncs, el resum honest: el veritable equilibri esquerra/dreta per aplicació no és una funció macOS, i cap aplicació de mesclador ho simula de manera convincent. Les vostres rutes reals són el control lliscant del balanç global o l'encaminament de sortida per aplicació a dispositius amb panoràmica separada. Però si el dolor subjacent és una intensitat relativa, aquest és un problema resolt.</p>
+
+<p>Vols un volum independent, silenciar i augmentar cada aplicació del teu Mac, amb perfils desables i sense controladors? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Obteniu SoundDial al Mac App Store</a> — 14,99 €, únic, amb sorra.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Per què algunes aplicacions són molt més altes que altres a Mac? (I com igualar-los)",
+    description: "Les aplicacions sonen molt diferents a Mac perquè cadascuna està dominada amb el seu propi objectiu de sonoritat i macOS no té control de volum per aplicació integrat. A continuació s'explica per què passa i com s'anivella les teves aplicacions.",
+    date: "2026-07-23",
+    readTime: "6 min de lectura",
+    content: `<p>Les aplicacions sonen molt diferents al vostre Mac perquè cadascuna està creada, dominada i normalitzada per al seu propi objectiu de sonoritat, i macOS no té control de volum per aplicació integrat per conciliar-les. Spotify, YouTube, Zoom i les alertes del sistema passen pel mateix control lliscant principal, de manera que us enganxeu pujant i baixant constantment.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Per què algunes aplicacions són molt més fortes que altres a Mac? (I com igualar-los)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>No és el vostre Mac, és l'àudio en si</h2>
+
+<p>El control lliscant de volum del sistema únic a macOS controla el nivell de sortida final de tot. No toca la sonoritat relativa incorporada al flux d'àudio de cada aplicació. Aquesta línia de base s'estableix molt abans que el so arribi als vostres altaveus i varia enormement d'una font a una altra.</p>
+
+<p>Tres coses generen aquestes diferències:</p>
+
+<ul>
+<li><strong>Nivells de domini.</strong> Una cançó pop punyent es domina molt més que una gravació acústica tranquil·la o un podcast de paraules parlades. Una pel·lícula barrejada per a un cinema manté els xiuxiueigs en silenci i les explosions forts a propòsit: això és un rang dinàmic i significa que el nivell mitjà és baix.</li>
+<li><strong>Objectius de normalització de la sonoritat.</strong> Les plataformes de streaming ajusten la reproducció a un objectiu mesurat en LUFS (Unitats de sonoritat en relació a l'escala completa). Spotify apunta al voltant de -14 LUFS, YouTube aproximadament -14 LUFS, Apple Music al voltant de -16 LUFS. Una aplicació de videoconferència o un joc aplica el seu propi benefici completament. Dues aplicacions "normalitzades" a diferents objectius mai no coincidiran.</li>
+<li><strong>Sense nivell d'aplicacions creuades.</strong> Cada aplicació només normalitza el seu propi contingut. Res no coordina Spotify contra Zoom contra un joc de navegador. macOS només els suma i envia la barreja.</li>
+</ul>
+
+<h2>Per què és important LUFS (en termes senzills)</h2>
+
+<p>El nivell màxim us indica l'instant més fort d'un senyal. LUFS us indica el fort que hi ha alguna cosa <em>se sent</em> al llarg del temps, ponderat per com funciona l'oïda humana. Aquesta distinció és la raó per la qual un podcast i una pista de ball poden arribar al mateix cim però sentir mons separats en la sonoritat: la pista passa molt més temps a prop del seu sostre.</p>
+
+<blockquote>Un objectiu LUFS més silenciós significa més marge i un rang més dinàmic. Un objectiu més fort significa un mur de so més consistent i "sempre ple". Cap dels dos està malament, però quan les aplicacions s'orienten a números diferents, ho sents com una aplicació cridant i una altra murmurant.</blockquote>
+
+<p>Aquesta és l'arrel honesta. No és un error que pugueu corregir. És la física de com es produeix i s'entrega l'àudio, multiplicada per una dotzena d'aplicacions que mai van ser dissenyades per coincidir entre elles.</p>
+
+<h2>El buit macOS deixa obert</h2>
+
+<p>Aquesta és la part que realment frustra la gent: Windows ha enviat un mesclador de volum per aplicació durant anys. Podeu tirar una aplicació cap avall i empènyer una altra cap amunt, directament des de la barra de tasques. macOS no ho ha inclòs mai. Les preferències de so només us proporcionen el control lliscant principal i la selecció del dispositiu de sortida.</p>
+
+<p>Així, en un Mac, les vostres opcions han estat tradicionalment limitades:</p>
+
+<ul>
+<li>Ajusteu el control lliscant de volum intern de cada aplicació, si fins i tot en té un. Moltes aplicacions (Zoom, la majoria de jocs, campanes del sistema) no n'exposen una utilitzable.</li>
+<li>Utilitzeu el control lliscant principal manualment cada vegada que canvieu de context.</li>
+<li>Silencia una cosa completament, que és una solució contundent que en realitat no equilibra res.</li>
+</ul>
+
+<p>Cap d'aquests recorda la teva preferència. Sortiu i reinicieu l'aplicació i torneu a la primera.</p>
+
+<h2>La solució pràctica: un volum recordat per aplicació</h2>
+
+<p>Com que no podeu forçar tots els serveis a tornar a dominar el seu catàleg, la solució viable és afegir la capa que falta macOS mai enviada: volum independent i recordat per a cada aplicació. Això és exactament el que <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> fa. Viu a la barra de menús i ofereix a cada aplicació en execució el seu propi control lliscant, de manera que podeu baixar la forta i fer pujar la més tranquil·la fins que s'asseuen a un nivell que us sentiu igual.</p>
+
+<p>Per igualar les vostres aplicacions a la pràctica:</p>
+
+<ul>
+<li>Obert <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> des de la barra de menús i veureu cada aplicació activa amb el seu propi control.</li>
+<li>Reduïu el que sigui explosiu (normalment una aplicació de música o vídeo dominada en calent) a una cosa així com un 60-70%.</li>
+<li>Deixeu la vostra aplicació de referència silenciosa (sovint una aplicació de trucades o un podcast) al 100% i feu servir per aplicació <strong>impulsar</strong> per empènyer-lo més enllà del 100% si encara és massa tou.</li>
+<li>Estableix els nivells una vegada. SoundDial recorda el volum de cada aplicació, de manera que el saldo es manté la propera vegada que l'obris.</li>
+</ul>
+
+<p>Dues funcions fan la major part del treball d'anivellament aquí. <strong>Impulsar</strong> importa perquè moltes aplicacions són simplement massa silencioses fins i tot com a màxim: un control lliscant per aplicació que només redueix el volum no les pot rescatar, però una que pot amplificar més enllà del 100% sí. I <strong>perfils de volum</strong> us permeten desar tot un conjunt de nivells, per exemple, un perfil de "música de concentració baixa, trucades en veu alta" per a la feina en comparació amb una combinació diferent per als jocs, i canviar entre ells a l'instant en lloc de reajustar aplicació per aplicació.</p>
+
+<h2>On això ajuda més</h2>
+
+<p>L'alleujament més comú és el salt de la música versus la reunió: la reproducció de música dominada en veu alta, després una aplicació de trucades que sona dèbil en comparació. Estableix l'aplicació de trucades més alta (o augmentada), fes baixar la música i desapareix el sorprenent swing de volum. El mateix s'aplica a un joc de navegador silenciós contra un reproductor de vídeo fort o a les alertes del sistema que salten per sobre de tot.</p>
+
+<p>Per tenir clar els límits: SoundDial equilibra el que produeixen les vostres aplicacions. No remasteritzarà una pista mal produïda, i no pot inventar detalls en l'àudio que es barregen amb un rang dinàmic molt ampli. El que fa és donar-vos l'únic control que macOS va deixar fora: nivells constants per aplicació que es mantenen.</p>
+
+<p>Estàs cansat de pujar al control lliscant principal cada vegada que canvies d'aplicació? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> és un únic 14,99 € al Mac App Store (sandbox, sense controladors, sense DMG) i finalment dóna a cada aplicació el seu propi volum recordat.</p>`,
   },
 };

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Why is FaceTime so quiet on my Mac — and how to fix it — SoundDial Guides</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Geist:wght@400;500;600&family=Geist+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#050506;--fg:#f6f4ee;--mut:#d7d4cc;--soft:#a7a49c;--faint:#87847c;--line:rgba(255,255,255,.12);
+        --gold:#d4ad5e;--goldsoft:rgba(212,173,94,.5);--card:#0c0c0e}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--fg);font-family:'Geist',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  .serif{font-family:'Fraunces',serif}.mono{font-family:'Geist Mono',monospace}
+  a{color:inherit}
+  .wrap{max-width:1280px;margin:0 auto;padding:0 40px}
+  #prog{position:fixed;top:0;left:0;height:2px;width:32%;background:linear-gradient(90deg,transparent,var(--gold));z-index:100}
+  nav{position:sticky;top:0;z-index:80;background:rgba(5,5,6,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  nav .wrap{height:66px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+  .mk{display:flex;align-items:center;gap:11px;font-size:13px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;white-space:nowrap}
+  .mk .g{color:var(--gold);font-size:15px}
+  .nl{display:flex;gap:22px}.nl a{font-size:12.5px;color:#e7e4dc;font-weight:500;letter-spacing:.04em}.nl a:hover{color:var(--gold)}
+  .art{max-width:720px;margin:0 auto;padding:0 32px}
+  .back{display:inline-flex;align-items:center;gap:8px;margin-top:56px;font-size:13px;color:var(--soft);font-weight:500}
+  .back:hover{color:var(--gold)}
+  .head{padding:26px 0 40px;border-bottom:1px solid var(--line);margin-bottom:44px}
+  .kick{font-family:'Geist Mono';font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:22px}
+  h1{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(34px,5vw,56px);line-height:1.06;letter-spacing:-.02em}
+  .byline{margin-top:24px;display:flex;align-items:center;gap:14px;font-size:14px;color:var(--soft)}
+  .byline .dot{width:4px;height:4px;border-radius:50%;background:var(--faint)}
+  .byline b{color:var(--fg);font-weight:600}
+  .langs{margin-top:20px;display:flex;gap:8px;flex-wrap:wrap}
+  .langs a{font-family:'Geist Mono';font-size:11px;color:var(--soft);border:1px solid var(--line);border-radius:4px;padding:4px 9px}
+  .langs a:hover{border-color:var(--goldsoft);color:var(--gold)}
+  .body{font-size:19px;line-height:1.78;color:var(--mut)}
+  .body p{margin:0 0 26px}
+  .body .lead{font-size:21px;line-height:1.7;color:var(--fg)}
+  .body h2{font-family:'Fraunces',serif;font-weight:500;font-size:29px;letter-spacing:-.01em;color:var(--fg);margin:54px 0 20px;line-height:1.15}
+  .body a{color:var(--fg);text-decoration:underline;text-decoration-color:var(--goldsoft);text-underline-offset:3px}
+  .body a:hover{color:var(--gold)}
+  .body strong{color:var(--fg);font-weight:600}
+  .body ul{margin:0 0 26px;padding-left:0;list-style:none}
+  .body ul li{position:relative;padding-left:28px;margin-bottom:12px}
+  .body ul li::before{content:"✦";position:absolute;left:0;top:1px;color:var(--gold);font-size:13px}
+  .body blockquote{margin:36px 0;padding:6px 0 6px 28px;border-left:2px solid var(--gold);
+    font-family:'Fraunces',serif;font-style:italic;font-size:23px;line-height:1.5;color:var(--fg)}
+  .figure{margin:40px 0}
+  .figure img{width:100%;border:1px solid var(--line);border-radius:12px;display:block}
+  .figure figcaption{margin-top:12px;font-size:13.5px;color:var(--soft);text-align:center}
+  kbd{font-family:'Geist Mono';font-size:.85em;background:#17171a;border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:2px 7px;color:var(--fg)}
+  .cta{margin:44px 0;border:1px solid var(--line);border-radius:14px;padding:28px 30px;display:flex;align-items:center;gap:22px;
+    background:radial-gradient(120% 160% at 100% 0%,rgba(212,173,94,.12),var(--card) 60%)}
+  .cta .ic{font-family:'Fraunces',serif;font-size:40px;color:var(--gold);line-height:1}
+  .cta .tx h4{font-family:'Fraunces',serif;font-weight:500;font-size:22px;margin-bottom:4px}
+  .cta .tx p{font-size:14.5px;color:var(--soft);margin:0}
+  .cta .btn{margin-left:auto;background:var(--gold);color:#141007;font-weight:600;font-size:14px;padding:13px 22px;border-radius:8px;white-space:nowrap}
+  .cta .btn:hover{background:#e0bd72}
+  .next{max-width:720px;margin:60px auto 0;padding:30px 32px;border-top:1px solid var(--line)}
+  .next .k{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);margin-bottom:10px}
+  .next a{font-family:'Fraunces',serif;font-size:24px;font-weight:500;color:var(--fg)}
+  .next a:hover{color:var(--gold)}
+  footer{border-top:1px solid var(--line);padding:56px 0;margin-top:80px}
+  .frow{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:20px}
+  .frow .lk a{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-right:24px;font-weight:500}
+  .frow .lk a:hover{color:var(--gold)}
+  .frow .cp{font-size:12px;letter-spacing:.14em;color:var(--soft)}
+  @media(max-width:700px){.nl{display:none}.body{font-size:18px}}
+</style>
+</head>
+<body>
+<div id="prog"></div>
+<nav><div class="wrap">
+  <div class="mk"><span class="g serif">✦</span> Eduard Bruch — Angel Company</div>
+  <div class="nl"><a href="#">SoundDial</a><a href="#">Guides</a><a href="#">About</a><a href="#">Contact</a></div>
+</div></nav>
+
+<article class="art">
+  <a class="back" href="/sounddial/blog">← SoundDial Guides</a>
+  <div class="head">
+    <div class="kick">SoundDial · Guide</div>
+    <h1 class="serif">Why is FaceTime so quiet on my Mac — and how to fix it</h1>
+    <div class="byline"><span>By <b>Eduard Bruch</b></span><span class="dot"></span><span>8 min read</span><span class="dot"></span><span>Updated July 2026</span></div>
+    <div class="langs"><a href="#">EN</a><a href="#">DE</a><a href="#">FR</a><a href="#">ES</a><a href="#">日本語</a><a href="#">+28</a></div>
+  </div>
+
+  <div class="body">
+    <p class="lead">You're on a FaceTime call, the other person is talking, and you've cranked your Mac to full volume — but you can still barely hear them. Then a notification chimes and nearly blows your speakers. Here's why it happens, and how to fix it for good.</p>
+
+    <p>The short version: macOS gives every app the <strong>same system volume</strong>. FaceTime, your music, Slack pings, a YouTube tab — they all share one slider. So when FaceTime's own audio is mastered quietly, your only lever is the master volume, which turns <em>everything</em> up with it.</p>
+
+    <h2>Why FaceTime ends up so quiet</h2>
+    <p>FaceTime prioritises clarity and echo-cancellation over loudness. Combined with a quiet-talking caller and the Mac's small built-in speakers, the result is a call that sits well below your music or videos. Turning up the master volume "works" — until any other sound arrives at that same, now-much-louder level.</p>
+
+    <ul>
+      <li>The caller's microphone gain is low on their end.</li>
+      <li>macOS applies a single output volume to every app at once.</li>
+      <li>Built-in Mac speakers have limited headroom for voice.</li>
+      <li>Notification and system sounds share that same slider.</li>
+    </ul>
+
+    <blockquote>The problem was never your Mac. It's that macOS never gave you a volume knob per app.</blockquote>
+
+    <h2>The proper fix: per-app volume</h2>
+    <p>Instead of riding the master slider, set FaceTime <strong>louder than everything else</strong> and leave it there. With a per-app mixer you can push FaceTime to 100%, keep music at 60%, and drop notifications to 20% — so a Slack ping at 2&nbsp;a.m. never detonates mid-call.</p>
+
+    <figure class="figure">
+      <img src="../public/apps/sounddial.png" alt="SoundDial per-app volume mixer showing independent sliders for FaceTime, Music and notifications">
+      <figcaption>SoundDial — an independent volume slider for every running app, from the menu bar.</figcaption>
+    </figure>
+
+    <p>Open the mixer from your menu bar, find FaceTime in the list, and slide it up. Save it as a <strong>"Calls"</strong> profile so one click restores those exact levels whenever you jump on a call. Press <kbd>⌥</kbd> <kbd>F1</kbd> and you're set.</p>
+
+    <div class="cta">
+      <span class="ic serif">✦</span>
+      <div class="tx"><h4>Get SoundDial</h4><p>Per-app volume for macOS — profiles, auto-ducking, per-app mute.</p></div>
+      <a class="btn" href="https://apps.apple.com/app/id6772792641">Download →</a>
+    </div>
+
+    <h2>If you'd rather not install anything</h2>
+    <p>You can partly work around it: raise the caller's mic on their side, use headphones (which have their own amplification), or mute notifications with Focus while you're on a call. None of it gives you true per-app control — but it takes the edge off until you set up a mixer.</p>
+  </div>
+</article>
+
+<div class="next">
+  <div class="k">Next guide</div>
+  <a href="#">How to fix per-app volume on a Mac — the complete guide →</a>
+</div>
+
+<footer><div class="wrap"><div class="frow">
+  <div class="mk"><span class="g serif">✦</span> Eduard Bruch — Angel Company</div>
+  <div class="lk"><a href="/sounddial/blog">Guides</a><a href="#">About</a><a href="/impressum">Impressum</a><a href="/datenschutz">Datenschutz</a><a href="/support">Support</a></div>
+  <div class="cp mono">© 2026 · Hamburg</div>
+</div></div></footer>
+</body>
+</html>

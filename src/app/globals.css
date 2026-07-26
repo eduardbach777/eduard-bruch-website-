@@ -1,14 +1,25 @@
 @import "tailwindcss";
 
 :root {
-  --background: #000000;
-  --foreground: #ffffff;
+  --background: #050506;
+  --foreground: #f6f4ee;
+  /* Angel Company palette */
+  --ac-bg: #050506;
+  --ac-fg: #f6f4ee;
+  --ac-mut: #d7d4cc;
+  --ac-soft: #a7a49c;
+  --ac-faint: #87847c;
+  --ac-line: rgba(255, 255, 255, 0.12);
+  --ac-gold: #d4ad5e;
+  --ac-goldsoft: rgba(212, 173, 94, 0.5);
+  --ac-card: #0c0c0e;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-serif: var(--font-cormorant);
+  --font-serif: var(--font-fraunces);
+  --font-sans: var(--font-geist);
 }
 
 /* Tailwind v4 Preflight handles margin/padding/box-sizing reset */
@@ -18,9 +29,10 @@ html {
 }
 
 body {
-  background: #000000;
-  color: #ffffff;
-  font-family: var(--font-cormorant), 'Cormorant Garamond', Georgia, serif;
+  background: var(--ac-bg);
+  color: var(--ac-fg);
+  font-family: var(--font-geist), system-ui, -apple-system, sans-serif;
+  letter-spacing: -0.01em;
   overflow-x: hidden;
 }
 

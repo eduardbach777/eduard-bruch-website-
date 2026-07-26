@@ -40,7 +40,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να δημιουργήσετε ένα καθαρό περιβάλλον εγγραφής ελέγχοντας κάθε εφαρμογή ανεξάρτητα:</p>
 
-<img src="/apps/sounddial.png" alt="Ρύθμιση SoundDial για podcasting — ήχος καλεσμένου, παρακολούθηση και ειδοποιήσεις σε ανεξάρτητα επίπεδα" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Ρύθμιση SoundDial για podcasting — ήχος καλεσμένου, παρακολούθηση και ειδοποιήσεις σε ανεξάρτητα επίπεδα" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Προφίλ εγγραφής</h3>
 <ul>
@@ -98,7 +98,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης με <strong>αυξήσεις 1%</strong> από 0% έως 200%. Αυτά είναι 200 επίπεδα ακρίβειας ανά εφαρμογή, σε σύγκριση με τα 16 (ή 64 με τον τροποποιητή) βήματα του macOS σε επίπεδο συστήματος.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial λεπτομερής έλεγχος έντασης ανά εφαρμογή με ακρίβεια 1% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial λεπτομερής έλεγχος έντασης ανά εφαρμογή με ακρίβεια 1% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ρυθμίστε την ένταση του συστήματος σε μέτριο βασικό επίπεδο (50-60%), στη συνέχεια χρησιμοποιήστε το SoundDial για ρύθμιση κάθε εφαρμογής:</p>
 <ul>
@@ -149,7 +149,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει στο Slack το δικό του ρυθμιστικό έντασης, ξεχωριστό από κάθε άλλη εφαρμογή. Δεδομένου ότι ο ήχος huddle και οι ήχοι ειδοποιήσεων του Slack είναι μέρος της ίδιας εφαρμογής, το ρυθμιστικό ελέγχει και τα δύο — αλλά αυτό είναι στην πραγματικότητα αυτό που θέλετε τις περισσότερες φορές.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ελέγχει ανεξάρτητα την ένταση Slack κατά τη διάρκεια huddle ενώ παίζει μουσική σε διαφορετικό επίπεδο" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ελέγχει ανεξάρτητα την ένταση Slack κατά τη διάρκεια huddle ενώ παίζει μουσική σε διαφορετικό επίπεδο" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Ρύθμιση βελτιστοποιημένη για huddle</h3>
 <ul>
@@ -198,7 +198,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> έχει <strong>ρυθμιζόμενη προεπιλεγμένη ένταση</strong> για νέες εφαρμογές. Στις ρυθμίσεις, ορίζετε σε ποιο επίπεδο έντασης πρέπει να ξεκινούν οι νεοανιχνευόμενες εφαρμογές — για παράδειγμα, 70%. Την πρώτη φορά που οποιαδήποτε εφαρμογή ξεκινά και παράγει ήχο, το SoundDial τη ρυθμίζει στο 70% αντί για 100%.</p>
 
-<img src="/apps/sounddial.png" alt="Ρύθμιση προεπιλεγμένης έντασης SoundDial — οι νέες εφαρμογές ξεκινούν σε ρυθμισμένο επίπεδο αντί για πλήρη ένταση" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Ρύθμιση προεπιλεγμένης έντασης SoundDial — οι νέες εφαρμογές ξεκινούν σε ρυθμισμένο επίπεδο αντί για πλήρη ένταση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό σημαίνει:</p>
 <ul>
@@ -253,7 +253,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει σε κάθε εφαρμογή στο Mac σας το δικό της ρυθμιστικό έντασης. Ρυθμίστε τις εφαρμογές ειδοποιήσεων χαμηλά, τη μουσική σε άνετο επίπεδο και τις κλήσεις σε πλήρη ένταση — όλα ανεξάρτητα. Αποθηκεύστε ρυθμίσεις ως προφίλ και αλλάξτε με ένα κλικ.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — έλεγχος έντασης ανά εφαρμογή για διαχείριση όλων των πηγών ήχου Mac ανεξάρτητα" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — έλεγχος έντασης ανά εφαρμογή για διαχείριση όλων των πηγών ήχου Mac ανεξάρτητα" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> — €14,99 εφάπαξ αγορά, χωρίς συνδρομή, macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const elArticles: ArticleSet = {
 
 <p>Αν οι ρυθμίσεις είναι στο μέγιστο και οι συμμετέχοντες είναι ακόμα πολύ χαμηλοί, το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να ενισχύσετε το Webex στο <strong>200%</strong>. Αυτό ενισχύει τον ήχο κλήσης πέρα από το ενσωματωμένο μέγιστο του Webex — χρήσιμο όταν κάποιος συμμετέχων έχει κακό μικρόφωνο ή όταν η επεξεργασία ήχου του Webex μειώνει πολύ το σήμα.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ενισχύει την ένταση κλήσης Cisco Webex πέρα από 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ενισχύει την ένταση κλήσης Cisco Webex πέρα από 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το SoundDial βοηθά επίσης κατά τη διάρκεια διαδοχικών συναντήσεων Webex: χρησιμοποιήστε auto-ducking για αυτόματη μείωση της μουσικής φόντου όταν ξεκινά κάθε συνάντηση, και επαναφορά κατά τα διαλείμματα. Αποθηκεύστε ένα προφίλ "Συναντήσεις" για άμεση ρύθμιση της ηχητικής ισορροπίας που προτιμάτε για τη δουλειά.</p>
 
@@ -347,7 +347,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> τοποθετεί κάθε εφαρμογή σε ένα πάνελ γραμμής μενού με ανεξάρτητα ρυθμιστικά. Και οι δύο πηγές ήχου, δίπλα-δίπλα, κάθε μία με το δικό της επίπεδο. Ρυθμίστε τη μία χωρίς να αγγίζετε την άλλη.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial εμφανίζει δύο πηγές ήχου σε διαφορετικά επίπεδα έντασης στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial εμφανίζει δύο πηγές ήχου σε διαφορετικά επίπεδα έντασης στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Παραδείγματα ρυθμίσεων:</p>
 
@@ -411,7 +411,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να δημιουργήσετε την τέλεια νυχτερινή ρύθμιση:</p>
 
-<img src="/apps/sounddial.png" alt="Νυχτερινή ρύθμιση SoundDial — εφαρμογή streaming σε μέτρια ένταση, ειδοποιήσεις σε σίγαση" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Νυχτερινή ρύθμιση SoundDial — εφαρμογή streaming σε μέτρια ένταση, ειδοποιήσεις σε σίγαση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Προφίλ νυχτερινής ταινίας</h3>
 <ul>
@@ -473,7 +473,7 @@ export const elArticles: ArticleSet = {
 
 <p>Ακόμα κι αν η ένταση συστήματος επαναφέρεται μετά τον ύπνο, το <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> προστατεύει την ισορροπία έντασης <em>ανά εφαρμογή</em>. Η λειτουργία <strong>μνήμης έντασης</strong> αποθηκεύει ανεξάρτητα την ένταση κάθε εφαρμογής και την επαναφέρει μετά αφύπνιση, επανεκκίνηση ή επανεκκίνηση εφαρμογής.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial διατηρεί τα επίπεδα έντασης ανά εφαρμογή μετά τον ύπνο και αφύπνιση Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial διατηρεί τα επίπεδα έντασης ανά εφαρμογή μετά τον ύπνο και αφύπνιση Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Άρα ακόμα κι αν το macOS επαναφέρει την ένταση συστήματος στο 80% μετά τον ύπνο, η ισορροπία ανά εφαρμογή παραμένει:</p>
 <ul>
@@ -518,7 +518,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να ορίσετε τους ακριβείς τόμους για κάθε εφαρμογή ανεξάρτητα:</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial διαχωρίζει την έξοδο DAW από το Discord και τα κομμάτια αναφοράς στο macOS για μουσική παραγωγή" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial διαχωρίζει την έξοδο DAW από το Discord και τα κομμάτια αναφοράς στο macOS για μουσική παραγωγή" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Ρύθμιση παραγωγής</h3>
 <ul>
@@ -586,7 +586,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να ενισχύσετε το Apple Music σε <strong>200%</strong>. Το ηχητικό σήμα ενισχύεται σε επίπεδο συστήματος πριν φτάσει στα ηχεία ή τα ακουστικά σας. Μόνο το Apple Music γίνεται πιο δυνατό — Το Zoom, το Slack και το πρόγραμμα περιήγησής σας παραμένουν στα τρέχοντα επίπεδα.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση ήχου της Apple Music πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση ήχου της Apple Music πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό είναι επίσης χρήσιμο για το αντίθετο πρόβλημα: εάν το Apple Music είναι πολύ δυνατό σε σχέση με την κλήση Zoom, μειώστε το Apple Music στο 25% στο SoundDial ενώ διατηρείτε το Zoom στο 100%. Ο έλεγχος ανά εφαρμογή σημαίνει ότι δεν χρειάζεται ποτέ να συμβιβάσετε τον όγκο μιας εφαρμογής για κάποια άλλη.</p>
 
@@ -666,7 +666,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> κοστίζει 14,99 € — εφάπαξ, όχι συνδρομή. Για το περιβάλλον, αυτό είναι λιγότερο από δύο μήνες συνδρομής στο Spotify, για ένα εργαλείο που θα χρησιμοποιείτε καθημερινά. Είναι λιγότερο από το μισό της τιμής του SoundSource (39 $) και περιλαμβάνει χαρακτηριστικά (προφίλ, αυτόματη παύση) που δεν διαθέτει το SoundSource.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — αξιόπιστος μίκτης έντασης ανά εφαρμογή για Mac με προφίλ, αυτόματη εκτόνωση και 200% ενίσχυση" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — αξιόπιστος μίκτης έντασης ανά εφαρμογή για Mac με προφίλ, αυτόματη εκτόνωση και 200% ενίσχυση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Διατίθεται στο <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — Ελεγμένο από την Apple, sandboxed, χωρίς προγράμματα οδήγησης συστήματος. 14,99 € εφάπαξ, χωρίς συνδρομή, macOS 14,2+.</p>
 `,
@@ -700,7 +700,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> τοποθετεί το Spotify και το Discord στον ίδιο πίνακα με ανεξάρτητα ρυθμιστικά έντασης. Ορίστε την αναλογία που θέλετε και αφήστε την:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial εξισορρόπηση Spotify και Discord σε διαφορετικά επίπεδα έντασης στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial εξισορρόπηση Spotify και Discord σε διαφορετικά επίπεδα έντασης στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Η χρυσή τομή για μουσική + φωνητική συνομιλία</h3>
 <p>Με βάση τον τρόπο με τον οποίο οι περισσότεροι άνθρωποι χρησιμοποιούν αυτό:</p>
@@ -805,7 +805,7 @@ export const elArticles: ArticleSet = {
 
 <p>Και τα πέντε από αυτά είναι διαθέσιμα με <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — μια εγγενής εφαρμογή γραμμής μενού macOS που προσθέτει τον μίκτη έντασης ήχου που δεν κατασκεύασε ποτέ η Apple.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — Έλεγχος έντασης ήχου ανά εφαρμογή, προφίλ, αυτόματη μείωση και 200% ενίσχυση για το macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Έλεγχος έντασης ήχου ανά εφαρμογή, προφίλ, αυτόματη μείωση και 200% ενίσχυση για το macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Μέρος 6: Τόμος ανά εφαρμογή με SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const elArticles: ArticleSet = {
 
 <p>Αυτό είναι ακραία ενίσχυση και θα εισάγει παραμόρφωση σε κάποιο περιεχόμενο, αλλά για εξαιρετικά αθόρυβο υλικό πηγής μπορεί να είναι αυτό που χρειάζεστε.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση του VLC σε επίπεδο συστήματος στο macOS για αθόρυβα αρχεία βίντεο" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση του VLC σε επίπεδο συστήματος στο macOS για αθόρυβα αρχεία βίντεο" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το πιο σημαντικό, το SoundDial σάς επιτρέπει να ενισχύσετε το VLC <strong>ανεξάρτητα</strong>. Το πρόγραμμα αναπαραγωγής μουσικής, το πρόγραμμα περιήγησης και οι εφαρμογές επικοινωνίας παραμένουν στα κανονικά τους επίπεδα, ενώ μόνο το VLC γίνεται πιο δυνατό. Εάν ενισχύσετε το VLC στο 180% στο SoundDial, το Spotify δεν αλλάζει. Αυτό είναι κάτι που δεν μπορεί να κάνει η ενσωματωμένη ενίσχυση του VLC — η ενίσχυση του VLC επηρεάζει μόνο το VLC, αλλά ο όγκος ενός συστήματος του macOS εξακολουθεί να συνδέει όλα τα άλλα.</p>
 
@@ -924,7 +924,7 @@ export const elArticles: ArticleSet = {
   <li><strong>Εύκολη εναλλαγή:</strong> Ενεργοποιήστε ή απενεργοποιήστε το auto-ducking στις ρυθμίσεις του SoundDial. Όταν δεν το θέλετε, απενεργοποιήστε το. Όταν το θέλετε πίσω, ενεργοποιήστε το.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial με δυνατότητα ρύθμισης αυτόματου παπάκι — ελέγξτε ακριβώς πόσο μειώνεται ο ήχος παρασκηνίου κατά τη διάρκεια των κλήσεων" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial με δυνατότητα ρύθμισης αυτόματου παπάκι — ελέγξτε ακριβώς πόσο μειώνεται ο ήχος παρασκηνίου κατά τη διάρκεια των κλήσεων" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Η διαφορά: αντί κάποια εφαρμογή να αποφασίζει ότι η μουσική σας πρέπει να μηδενίζεται κατά τη διάρκεια κάθε κλήσης, εσείς αποφασίζετε ότι πρέπει να πάει στο 25%. Αντί να χάσεις τον έλεγχο, τον αποκτάς. Και αντί να προσπαθείτε να απενεργοποιήσετε μια κρυφή λειτουργία σε τρεις διαφορετικές εφαρμογές, έχετε μία εναλλαγή σε ένα μέρος.</p>
 
@@ -987,7 +987,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> αυξάνει την ένταση του ήχου οποιασδήποτε εφαρμογής <strong>200%</strong>. Εάν το Spotify μέσω των ακουστικών Bluetooth είναι πολύ αθόρυβο, σύρετε το ρυθμιστικό του στο 160%. Το ηχητικό σήμα ενισχύεται πριν φτάσει στα ακουστικά σας, διπλασιάζοντας ουσιαστικά τη διαθέσιμη ένταση για αυτήν την εφαρμογή.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο της εφαρμογής για ακουστικά Bluetooth στο Mac με ρυθμιστικά ανά εφαρμογή στο 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο της εφαρμογής για ακουστικά Bluetooth στο Mac με ρυθμιστικά ανά εφαρμογή στο 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Η ενίσχυση ανά εφαρμογή είναι καλύτερη από την αύξηση της έντασης σε όλο το σύστημα, επειδή μπορείτε να ενισχύσετε μόνο την αθόρυβη εφαρμογή. Εάν το podcast σας είναι αθόρυβο αλλά η μουσική είναι καλή, ενισχύστε την εφαρμογή podcast στο 170% διατηρώντας το Spotify στο 80%. Κάθε εφαρμογή παραμένει στο σωστό επίπεδο.</p>
 
@@ -1024,7 +1024,7 @@ export const elArticles: ArticleSet = {
 
 <p>Αυτό ακριβώς είναι <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> κάνει. Ρυθμίστε κάθε εφαρμογή στο επίπεδο που θέλετε να ακούσουν οι θεατές σας:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial εξισορροπητικό παιχνίδι, Discord και επίπεδα ήχου μουσικής για ροή OBS στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial εξισορροπητικό παιχνίδι, Discord και επίπεδα ήχου μουσικής για ροή OBS στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Τυπική ρύθμιση ήχου ροής</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> έχει ένα <strong>Μνήμη τόμου</strong> χαρακτηριστικό. Όταν είναι ενεργοποιημένο, αποθηκεύει το επίπεδο έντασης ήχου κάθε εφαρμογής από το αναγνωριστικό της δέσμης. Όταν η εφαρμογή τερματιστεί και επανεκκινηθεί — είτε την επανεκκινήσετε, κολλάει, είτε κάνετε επανεκκίνηση του Mac — το SoundDial την επαναφέρει αυτόματα στον αποθηκευμένο όγκο του.</p>
 
-<img src="/apps/sounddial.png" alt="Μνήμη έντασης SoundDial — θυμάται αυτόματα και επαναφέρει τα επίπεδα έντασης ήχου ανά εφαρμογή στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Μνήμη έντασης SoundDial — θυμάται αυτόματα και επαναφέρει τα επίπεδα έντασης ήχου ανά εφαρμογή στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Πώς λειτουργεί</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const elArticles: ArticleSet = {
 
 <p>Η καθολική επιδιόρθωση ενισχύει την εφαρμογή podcast πέρα από το όριο 100% του macOS. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει σε κάθε εφαρμογή ένα ρυθμιστικό έντασης έως <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο των Apple Podcast στο 180% στο Mac για ήσυχα επεισόδια podcast" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο των Apple Podcast στο 180% στο Mac για ήσυχα επεισόδια podcast" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ρυθμίστε τα Apple Podcasts ή την εφαρμογή podcast σας στο 160-180% διατηρώντας παράλληλα τη μουσική Spotify στο 40% και το Slack στο 15%. Το podcast γίνεται πιο δυνατό χωρίς να κάνει όλα τα άλλα οδυνηρά δυνατά. Όταν επιστρέψετε στη μουσική, απλώς επαναφέρετε την εφαρμογή podcast στο κανονικό — ή αφήστε τη μνήμη έντασης ήχου του SoundDial να τη θυμάται αυτόματα.</p>
 
@@ -1189,7 +1189,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, ώστε να μπορείτε να δημιουργήσετε την ιδανική ρύθμιση ήχου μελέτης:</p>
 
-<img src="/apps/sounddial.png" alt="Ρύθμιση σπουδαστών SoundDial — διάλεξη σε πλήρη ένταση, μελέτη μουσικής χαμηλή, ειδοποιήσεις σε σίγαση" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Ρύθμιση σπουδαστών SoundDial — διάλεξη σε πλήρη ένταση, μελέτη μουσικής χαμηλή, ειδοποιήσεις σε σίγαση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Προφίλ διάλεξης</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const elArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Ενημερώσατε το macOS. Όλα φαίνονταν καλά — μέχρι να παρατηρήσετε ότι δεν ακούγεται ήχος. Ή ο ήχος είναι τρίξιμο. Ή η ένταση έχει κολλήσει. Ή η συσκευή εξόδου ήχου έχει φύγει. Προβλήματα ήχου μετά την ενημέρωση συμβαίνουν σχεδόν σε κάθε έκδοση macOS και κυμαίνονται από ήπια ενοχλητικά έως εντελώς αθόρυβα.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Ακολουθεί ένας συστηματικός οδηγός για τη διόρθωση του ήχου Mac μετά από μια ενημέρωση macOS, που καλύπτει κάθε γνωστό πρόβλημα και λύση.</p>
 
@@ -1335,7 +1338,7 @@ export const elArticles: ArticleSet = {
   <li>Το Spotify επιστρέφει στο 30%, το ζουμ στο 100%, το Slack στο 15% — έχει αποκατασταθεί τέλεια</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial συντόμευση σίγασης όλων — Control+Option+M για σίγαση και κατάργηση σίγασης όλων των εφαρμογών με επαναφορά έντασης ήχου" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial συντόμευση σίγασης όλων — Control+Option+M για σίγαση και κατάργηση σίγασης όλων των εφαρμογών με επαναφορά έντασης ήχου" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Η διαφορά από το κλειδί σίγασης συστήματος:</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει στο Chrome το δικό του ρυθμιστικό έντασης που ανεβαίνει <strong>200%</strong>. Εφόσον το Google Meet εκτελείται εντός του Chrome, η ενίσχυση του Chrome ενισχύει το Meet. Σύρετε το ρυθμιστικό στο 150% ή 180% και ο ήχος κλήσης ενισχύεται σε πραγματικό χρόνο.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο του Google Meet (Chrome) πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο του Google Meet (Chrome) πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό λειτουργεί επίσης με το Safari εάν χρησιμοποιείτε το Meet στο Safari. Το SoundDial ελέγχει κάθε πρόγραμμα περιήγησης ανεξάρτητα — ενισχύστε το Safari για Meet διατηρώντας παράλληλα το Chrome σε κανονική ένταση για οτιδήποτε άλλο.</p>
 
@@ -1450,7 +1453,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης. Μπορείτε να ρυθμίσετε τις εφαρμογές που απαιτούν πολλές ειδοποιήσεις σε ένα διακριτικό επίπεδο που είναι αισθητό αλλά όχι ενοχλητικό, ενώ διατηρείτε τις εφαρμογές πολυμέσων σε άνετη ένταση ακρόασης.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial διαχωρίζει τον όγκο της εφαρμογής ειδοποιήσεων από τον τόμο της εφαρμογής πολυμέσων στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial διαχωρίζει τον όγκο της εφαρμογής ειδοποιήσεων από τον τόμο της εφαρμογής πολυμέσων στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Παράδειγμα ρύθμισης</h3>
 <p><strong>Εφαρμογές πολυμέσων:</strong></p>
@@ -1523,7 +1526,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να αυξήσετε την ένταση του FaceTime μέχρι <strong>200%</strong>. Ανοίξτε το πλαίσιο της γραμμής μενού, βρείτε το FaceTime και σύρετε το ρυθμιστικό του πέρα ​​από το 100%. Ο ήχος κλήσης ενισχύεται σε πραγματικό χρόνο χωρίς να επηρεάζει καμία άλλη εφαρμογή.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο κλήσεων FaceTime πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο κλήσεων FaceTime πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το SoundDial βοηθά επίσης το αντίστροφο: εάν ο ήχος κλήσης ή οι ήχοι ειδοποίησης του FaceTime είναι πολύ δυνατοί κατά τη διάρκεια της εστίασης, μειώστε το FaceTime στο 20% ή κάντε σίγαση ενώ συνεχίζετε να παίζει η μουσική σας. Ένα κλικ για σίγαση, ένα κλικ για κατάργηση σίγασης.</p>
 
@@ -1577,7 +1580,7 @@ export const elArticles: ArticleSet = {
 <h3>Σίγαση όλων των εφαρμογών: Control + Option + M</h3>
 <p>Πατήστε <strong>⌃⌥Μ</strong> για άμεση σίγαση του ήχου κάθε εφαρμογής. Πατήστε το ξανά για να καταργήσετε τη σίγαση όλων, επαναφέροντας κάθε εφαρμογή στον προηγούμενο τόμο της. Αυτό είναι ένα κουμπί "άμεσης σίγασης" που είναι πιο γρήγορο από το να πιάσετε το πλήκτρο σίγασης — και σε αντίθεση με το κλειδί σίγασης συστήματος, επαναφέρει τους τόμους ανά εφαρμογή όταν καταργείτε τη σίγαση.</p>
 
-<img src="/apps/sounddial.png" alt="Συντομεύσεις πληκτρολογίου SoundDial — Control+Option+S για εναλλαγή, Control+Option+M για σίγαση όλων" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Συντομεύσεις πληκτρολογίου SoundDial — Control+Option+S για εναλλαγή, Control+Option+M για σίγαση όλων" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Η ροή εργασίας που βασίζεται στο πληκτρολόγιο</h2>
 
@@ -1642,7 +1645,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> χρησιμοποιεί το σύγχρονο Audio Tap API — χωρίς εικονική συσκευή ήχου, χωρίς πρόγραμμα οδήγησης συστήματος, χωρίς επεκτάσεις πυρήνα. Ακουμπάει στη ροή ήχου κάθε εφαρμογής απευθείας χρησιμοποιώντας το υποστηριζόμενο API της Apple, πράγμα που σημαίνει ότι δεν χαλάει όταν ενημερώνεται το macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — μια εναλλακτική μουσική φόντου που δεν εγκαθιστά εικονικές συσκευές ήχου" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — μια εναλλακτική μουσική φόντου που δεν εγκαθιστά εικονικές συσκευές ήχου" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Τι παίρνετε από τη μουσική στο παρασκήνιο:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const elArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — μια ελαφρύτερη, εστιασμένη εναλλακτική SoundSource με προφίλ έντασης και αυτόματη μείωση" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — μια ελαφρύτερη, εστιασμένη εναλλακτική SoundSource με προφίλ έντασης και αυτόματη μείωση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Ποιο να επιλέξετε;</h2>
 
@@ -1809,7 +1812,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σάς παρέχει ρυθμιστικά έντασης ήχου ανά εφαρμογή με λεπτό έλεγχο — κάθε ρυθμιστικό μετακινείται με βήματα 1% από 0% έως 200%. Μπορείτε να ρυθμίσετε το Spotify στο 5% και το Ζουμ στο 40% ταυτόχρονα. Το επίπεδο ελέγχου είναι δραματικά πιο λεπτό από τα 16 βήματα συστήματος του macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial λεπτόκοκκος έλεγχος έντασης ανά εφαρμογή με αυξήσεις 1% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial λεπτόκοκκος έλεγχος έντασης ανά εφαρμογή με αυξήσεις 1% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Για τη χρήση ακουστικών αργά τη νύχτα:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const elArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>Ένα AirPod ακούγεται μια χαρά. Το άλλο είναι αισθητά πιο ήσυχο. Η μουσική φαίνεται εκτός κέντρου. Οι φωνές ακούγονται σαν να έρχονται από τη μια πλευρά. Αυτό είναι ένα από τα πιο κοινά παράπονα για τα AirPods και συνήθως έχει μια απλή επιδιόρθωση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Καθαρίστε τα AirPods σας</h2>
 
@@ -1948,7 +1954,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να ενισχύσετε οποιαδήποτε εφαρμογή σε <strong>200%</strong>. Εάν το Safari ή η εφαρμογή Netflix είναι πολύ αθόρυβη, σύρετε το ρυθμιστικό του πέρα ​​από το 100%. Ο ήχος ενισχύεται πριν φτάσει στα ηχεία σας, διπλασιάζοντας ουσιαστικά τη μέγιστη ένταση μόνο για αυτήν την εφαρμογή.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον ήχο Netflix στο 180% στο Mac για καθαρότερο διάλογο και ροή ήχου" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον ήχο Netflix στο 180% στο Mac για καθαρότερο διάλογο και ροή ήχου" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό είναι ιδιαίτερα χρήσιμο όταν:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> γεμίζει αυτό το κενό δίνοντας σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης. Ρυθμίστε τον ήχο της απομακρυσμένης εργασίας σας όπως ακριβώς θέλετε:</p>
 
-<img src="/apps/sounddial.png" alt="Ρύθμιση ήχου απομακρυσμένης εργασίας SoundDial — διαφορετικά επίπεδα έντασης για Zoom, Spotify και Slack στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Ρύθμιση ήχου απομακρυσμένης εργασίας SoundDial — διαφορετικά επίπεδα έντασης για Zoom, Spotify και Slack στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Αποθηκεύστε προφίλ για κάθε λειτουργία</h3>
 
@@ -2126,7 +2132,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει στο πρόγραμμα περιήγησής σας το δικό του ρυθμιστικό έντασης, ανεξάρτητα από κάθε άλλη εφαρμογή. Μειώστε το Safari στο 30% διατηρώντας το Zoom στο 100%. Σίγασε πλήρως το Chrome ενώ συνεχίζει να παίζει το Spotify. Ένα κλικ.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial έλεγχος της έντασης του προγράμματος περιήγησης ανεξάρτητα από άλλες εφαρμογές στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial έλεγχος της έντασης του προγράμματος περιήγησης ανεξάρτητα από άλλες εφαρμογές στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτός είναι ο πιο γρήγορος τρόπος για να χειριστείτε μια καρτέλα αυτόματης αναπαραγωγής έκπληξη: αντί να αναζητάτε ποια καρτέλα κάνει θόρυβο, κάντε κλικ στο SoundDial στη γραμμή μενού και κάντε σίγαση του προγράμματος περιήγησης. Όλα τα άλλα συνεχίζουν να παίζουν. Όταν βρείτε και κλείσετε την προσβλητική καρτέλα, καταργήστε τη σίγαση του προγράμματος περιήγησης και ο όγκος του επανέρχεται στο σημείο που ήταν.</p>
 
@@ -2168,7 +2174,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει στο Discord το δικό του ρυθμιστικό έντασης στη γραμμή μενού σας, ανεξάρτητα από κάθε άλλη εφαρμογή. Ρυθμίστε το Discord ακριβώς στο επίπεδο που θέλετε — 100% για καθαρή φωνητική συνομιλία, 40% για διακριτικό φόντο ή εντελώς σίγαση — χωρίς να αγγίξετε το παιχνίδι, τη μουσική ή οτιδήποτε άλλο.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ελέγχει την ένταση του Discord ανεξάρτητα από το παιχνίδι και τη μουσική στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ελέγχει την ένταση του Discord ανεξάρτητα από το παιχνίδι και τη μουσική στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Κοινές ρυθμίσεις</h3>
 
@@ -2244,7 +2250,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> περιλαμβάνει ένα εργαλείο επιλογής συσκευής εξόδου απευθείας στο αναδυόμενο παράθυρο της γραμμής μενού — μαζί με τα ρυθμιστικά έντασης ήχου ανά εφαρμογή. Ένα κλικ για να ανοίξετε το SoundDial, ένα κλικ για να αλλάξετε συσκευές. Δεν υπάρχει αναζήτηση στις Ρυθμίσεις συστήματος.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial με εναλλαγή συσκευής εξόδου ήχου και έλεγχο έντασης ήχου ανά εφαρμογή σε ένα πάνελ γραμμής μενού" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial με εναλλαγή συσκευής εξόδου ήχου και έλεγχο έντασης ήχου ανά εφαρμογή σε ένα πάνελ γραμμής μενού" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το πλεονέκτημα της εναλλαγής συσκευών μέσα στο SoundDial: μπορείτε να αλλάξετε την έξοδο σας <em>και</em> προσαρμόστε τους όγκους ανά εφαρμογή στον ίδιο πίνακα. Μεταβείτε σε AirPods και κατεβάστε αμέσως το Spotify ενώ ενισχύετε την κλήση σας — όλα αυτά χωρίς να αφήσετε το popover.</p>
 
@@ -2262,6 +2268,9 @@ export const elArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>Ακούς μουσική και ακούς ποπ. Μετά ένα κροτάλισμα. Έπειτα ένα τραύλισμα όπου ο ήχος κόβεται για ένα κλάσμα του δευτερολέπτου και επανέρχεται. Δεν είναι το τραγούδι — είναι το δικό σου Mac. Το τρίξιμο ήχου στο macOS είναι εξωφρενικά κοινό και έχει τουλάχιστον έξι διαφορετικές αιτίες.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Αυτός ο οδηγός καλύπτει κάθε γνωστή αιτία τριξίματος ήχου, σκάσιμο και τραυλισμό στο Mac, από επιδιορθώσεις λογισμικού έως το ένα πρόβλημα υλικού που πρέπει να γνωρίζετε.</p>
 
@@ -2389,7 +2398,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να αυξήσετε τον όγκο οποιασδήποτε εφαρμογής <strong>200%</strong>, συμπεριλαμβανομένων των ομάδων της Microsoft. Σύρετε το ρυθμιστικό του Teams στο 150% ή 180% και ο ήχος ενισχύεται σε πραγματικό χρόνο. Μόνο το Teams γίνεται πιο δυνατό - η μουσική, το πρόγραμμα περιήγησής σας και άλλες εφαρμογές παραμένουν στα τρέχοντα επίπεδά τους.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο κλήσεων του Microsoft Teams πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο κλήσεων του Microsoft Teams πέραν του 100% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το SoundDial βοηθά επίσης με το αντίστροφο πρόβλημα: εάν οι ήχοι ειδοποιήσεων Teams είναι πολύ δυνατοί κατά τη διάρκεια του χρόνου εστίασης, μειώστε το Teams στο 15% ή θέστε το σε πλήρη σίγαση ενώ συνεχίζετε να αναπαράγεται η μουσική σας. Ένα κλικ για σίγαση, ένα κλικ για κατάργηση σίγασης.</p>
 
@@ -2405,6 +2414,9 @@ export const elArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Βρίσκεστε σε βιντεοκλήση. Το Slack συνεχίζει να βουίζει. Η μουσική παίζει στο παρασκήνιο. Παίρνετε το πλήκτρο έντασης και — όλα γίνονται πιο ήσυχα. Η κλήση, η μουσική, οι ειδοποιήσεις. Το macOS έχει ακριβώς ένα ρυθμιστικό έντασης και ελέγχει τα πάντα ταυτόχρονα.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Τα Windows είχαν έναν μείκτη τόμου ανά εφαρμογή από τα Vista το 2006. Είκοσι χρόνια αργότερα, το macOS εξακολουθεί να μην το έχει. Εάν θέλετε να απορρίψετε το Spotify χωρίς να επηρεάσετε την κλήση Zoom, η Apple δεν έχει ενσωματωμένη απάντηση για εσάς.</p>
 
@@ -2512,7 +2524,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει στο Slack το δικό του ανεξάρτητο ρυθμιστικό έντασης. Ρυθμίστε το σε οποιοδήποτε επίπεδο λειτουργεί για εσάς — ή απενεργοποιήστε το εντελώς με ένα κλικ. Όταν είστε έτοιμοι να δώσετε ξανά προσοχή στο Slack, απενεργοποιήστε το και η ένταση επανέρχεται στο σημείο που ήταν.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial με σίγαση Slack και Spotify που παίζει σε κανονική ένταση στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial με σίγαση Slack και Spotify που παίζει σε κανονική ένταση στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Η ιδανική ροή εργασίας Slack</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const elArticles: ArticleSet = {
 <h3>Εναλλαγή προφίλ</h3>
 <p>Τα αποθηκευμένα προφίλ σας εμφανίζονται ως κουμπιά στο popover του SoundDial. Κάντε κλικ σε μία και κάθε εφαρμογή μεταβαίνει αμέσως στους τόμους που είναι αποθηκευμένοι σε αυτό το προφίλ. Ένα κλικ αντικαθιστά πέντε ή έξι χειροκίνητες ρυθμίσεις.</p>
 
-<img src="/apps/sounddial.png" alt="Προφίλ έντασης ήχου SoundDial — εναλλαγή με ένα κλικ μεταξύ των λειτουργιών Συνάντηση, Εστίαση και Ψυχρή λειτουργία στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Προφίλ έντασης ήχου SoundDial — εναλλαγή με ένα κλικ μεταξύ των λειτουργιών Συνάντηση, Εστίαση και Ψυχρή λειτουργία στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Παραδείγματα προφίλ</h3>
 
@@ -2662,7 +2674,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σας επιτρέπει να αυξήσετε τον όγκο οποιασδήποτε εφαρμογής <strong>200%</strong> — συμπεριλαμβανομένου του Zoom. Εάν ένας συμμετέχων είναι πολύ ήσυχος, σύρετε το ρυθμιστικό του Zoom στο 150% ή στο 180%. Το ηχητικό σήμα ενισχύεται πέρα ​​από το ενσωματωμένο μέγιστο του Zoom, κάνοντας ακόμα και τις πιο ήσυχες φωνές να ακούγονται.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση κλήσης Zoom στο 180% στο Mac για καθαρότερο ήχο κατά τη διάρκεια βιντεοκλήσεων" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση κλήσης Zoom στο 180% στο Mac για καθαρότερο ήχο κατά τη διάρκεια βιντεοκλήσεων" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το βασικό πλεονέκτημα: η ενίσχυση του Zoom δεν επηρεάζει τίποτα άλλο. Η μουσική, οι ειδοποιήσεις και άλλες εφαρμογές σας παραμένουν στα τρέχοντα επίπεδά τους. Μόνο το Zoom γίνεται πιο δυνατό.</p>
 
@@ -2701,7 +2713,7 @@ export const elArticles: ArticleSet = {
 
 <p>Έγινε. Το Spotify είναι πιο ήσυχο. Το ζουμ είναι αμετάβλητο. Οι ειδοποιήσεις παραμένουν αμετάβλητες. Όλα τα άλλα είναι αμετάβλητα. Δεν φύγατε από την τρέχουσα εφαρμογή σας — το αναδυόμενο παράθυρο της γραμμής μενού ανοίγει ακριβώς εκεί που βρίσκεστε.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial μειώνει ανεξάρτητα την ένταση του Spotify ενώ διατηρεί τις άλλες εφαρμογές σε πλήρη ένταση στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial μειώνει ανεξάρτητα την ένταση του Spotify ενώ διατηρεί τις άλλες εφαρμογές σε πλήρη ένταση στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Ακόμα καλύτερα: αποθηκεύστε το ως προφίλ</h2>
 
@@ -2754,7 +2766,7 @@ export const elArticles: ArticleSet = {
 
 <p>Δεδομένου ότι η Apple δεν θα το κατασκευάσει, οι εφαρμογές τρίτων καλύπτουν το κενό. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> είναι μια εγγενής εφαρμογή γραμμής μενού macOS που σας προσφέρει έναν μείκτη έντασης ήχου — ανεξάρτητα ρυθμιστικά έντασης για κάθε εφαρμογή που εκτελείται.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial παρέχει έλεγχο έντασης ανά εφαρμογή στο macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial παρέχει έλεγχο έντασης ανά εφαρμογή στο macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το SoundDial είναι πλήρως συμβατό με το macOS Tahoe και χρησιμοποιεί το σύγχρονο Core Audio Tap API της Apple — δεν απαιτούνται προγράμματα οδήγησης ήχου τρίτων ή επεκτάσεις πυρήνα. Λειτουργεί καθαρά με το μοντέλο ασφαλείας του macOS και δεν παρεμβαίνει σε άλλες εφαρμογές ήχου.</p>
 
@@ -2816,7 +2828,7 @@ export const elArticles: ArticleSet = {
 
 <p>Η κλήση σας είναι πεντακάθαρη. Η μουσική είναι ένα λεπτό υπόβαθρο. Δεν απαιτείται αλλαγή συσκευής.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial εμφανίζει ζουμ σε πλήρη ένταση και το Spotify χαμηλώνει κατά τη διάρκεια μιας κλήσης στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial εμφανίζει ζουμ σε πλήρη ένταση και το Spotify χαμηλώνει κατά τη διάρκεια μιας κλήσης στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ακόμα καλύτερα: SoundDial's <strong>αυτόματο παπάκι</strong> το κάνει αυτόματα. Όταν συμμετέχετε σε μια κλήση, ανιχνεύει το μικρόφωνό σας να ενεργοποιείται και χαμηλώνει όλες τις εφαρμογές παρασκηνίου σε ένα επίπεδο που ρυθμίζετε εσείς (προεπιλογή 30%). Όταν τελειώσει η κλήση, όλα επιστρέφουν στο κανονικό. Δεν απαιτείται χειροκίνητη ρύθμιση του ολισθητήρα.</p>
 
@@ -2877,7 +2889,7 @@ export const elArticles: ArticleSet = {
 
 <p>Ακόμα κι αν δεν μπορείτε να εμποδίσετε το macOS να αλλάξει την ένταση του συστήματος, μπορείτε να προστατέψετε <em>ανά εφαρμογή</em> ισορροπία όγκου. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> θυμάται το επίπεδο έντασης κάθε εφαρμογής ανεξάρτητα. Όταν μια εφαρμογή επανεκκινείται ή όταν το Mac αφυπνίζεται από τον ύπνο, το SoundDial επαναφέρει κάθε εφαρμογή στον αποθηκευμένο όγκο της.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial θυμάται τα επίπεδα έντασης ανά εφαρμογή κατά τις επανεκκινήσεις στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial θυμάται τα επίπεδα έντασης ανά εφαρμογή κατά τις επανεκκινήσεις στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό σημαίνει ότι ακόμα κι αν αλλάξει ο όγκος του συστήματος, το υπόλοιπο σε επίπεδο εφαρμογής παραμένει σταθερό:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const elArticles: ArticleSet = {
 
 <p>Το SoundDial χρησιμοποιεί το σύγχρονο Core Audio Tap API της Apple για καθαρό έλεγχο ήχου ανά διαδικασία. Είναι ελαφρύ, τρέχει εξ ολοκλήρου στη γραμμή μενού και δεν απαιτεί περίπλοκη ρύθμιση. Στα 14,99 €, είναι σημαντικά φθηνότερο από το SoundSource (39 $), ενώ περιλαμβάνει χαρακτηριστικά που στερούνται το SoundSource — προφίλ έντασης και αυτόματη μείωση του πάκου. Και επειδή βρίσκεται στο App Store Mac, είναι ελεγμένο από την Apple, σε sandbox και εγκαθίσταται καθαρά χωρίς λήψη DMG ή εγκατάσταση προγραμμάτων οδήγησης ήχου συστήματος.</p>
 
-<img src="/apps/sounddial.png" alt="Μίκτης τόμου SoundDial ανά εφαρμογή που εμφανίζει μεμονωμένα ρυθμιστικά όγκου εφαρμογών στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Μίκτης τόμου SoundDial ανά εφαρμογή που εμφανίζει μεμονωμένα ρυθμιστικά όγκου εφαρμογών στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Amoeba)</h3>
 
@@ -3113,7 +3125,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> το λύνει αυτό δίνοντας σε κάθε εφαρμογή - συμπεριλαμβανομένων του Safari και του Chrome - ένα ανεξάρτητο ρυθμιστικό έντασης που πηγαίνει από 0% σε <strong>200%</strong>. Εάν ένα βίντεο YouTube είναι πολύ αθόρυβο, σύρετε το ρυθμιστικό του προγράμματος περιήγησής σας στο 150% ή στο 180%. Ο ήχος ενισχύεται σε πραγματικό χρόνο χωρίς να επηρεάζει καμία άλλη εφαρμογή.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση του προγράμματος περιήγησης Safari στο 180% για ήσυχα βίντεο YouTube στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση του προγράμματος περιήγησης Safari στο 180% για ήσυχα βίντεο YouTube στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό είναι ιδιαίτερα χρήσιμο γιατί:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> κάνει. Δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, ώστε να μπορείτε να ρυθμίσετε τις εφαρμογές που απαιτούν πολλές ειδοποιήσεις όπως το Slack, το Mail και το Ημερολόγιο σε πολύ χαμηλότερη ένταση, διατηρώντας παράλληλα τις εφαρμογές πολυμέσων σας σε άνετο επίπεδο.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial δείχνει Slack σε χαμηλή ένταση και Spotify σε κανονική ένταση — ανεξάρτητος έλεγχος ειδοποιήσεων στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial δείχνει Slack σε χαμηλή ένταση και Spotify σε κανονική ένταση — ανεξάρτητος έλεγχος ειδοποιήσεων στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Μια τυπική ρύθμιση φιλική προς τα ακουστικά</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σου δίνει ακριβώς αυτό. Η λειτουργία αυτόματου παπάκι παρακολουθεί το μικρόφωνό σας και προσαρμόζει αυτόματα τον ήχο φόντου όταν ξεκινά μια κλήση — αλλά <strong>ελέγχετε το επίπεδο της πάπιας</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ρυθμίσεις αυτόματου πάπου — ρυθμιζόμενη μείωση της έντασης κατά τη διάρκεια κλήσεων Zoom στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ρυθμίσεις αυτόματου πάπου — ρυθμιζόμενη μείωση της έντασης κατά τη διάρκεια κλήσεων Zoom στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Πώς λειτουργεί</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σάς επιτρέπει να αυξήσετε την ένταση ήχου οποιασδήποτε εφαρμογής μέχρι <strong>200%</strong>. Εάν το Spotify είναι πολύ αθόρυβο μέσω των AirPods σας, σύρετε το ρυθμιστικό του Spotify στο 150% ή στο 180% στο SoundDial. Το ηχητικό σήμα ενισχύεται προτού σταλεί στα AirPods σας, πράγμα που τα κάνει πιο δυνατά από ό,τι σχεδίαζε η Apple.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο της εφαρμογής για AirPods στο Mac με ρυθμιστικά όγκου ανά εφαρμογή έως και 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει τον όγκο της εφαρμογής για AirPods στο Mac με ρυθμιστικά όγκου ανά εφαρμογή έως και 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Το πλεονέκτημα της ενίσχυσης ανά εφαρμογή: μπορείτε να ενισχύσετε την αθόρυβη εφαρμογή χωρίς να κάνετε οτιδήποτε άλλο πιο δυνατό. Εάν η βιντεοκλήση σας είναι καλή στο 100%, αλλά το Spotify χρειάζεται 170%, το SoundDial σάς επιτρέπει να ρυθμίσετε το καθένα ανεξάρτητα.</p>
 
@@ -3387,7 +3399,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> σάς επιτρέπει να αυξήσετε την ένταση ήχου οποιασδήποτε εφαρμογής μέχρι <strong>200%</strong> — συμπεριλαμβανομένου του Spotify. Αναχαιτίζει τη ροή ήχου του Spotify και την ενισχύει πέρα ​​από το ενσωματωμένο μέγιστο της εφαρμογής, χωρίς να επηρεάζει την ένταση ήχου οποιασδήποτε άλλης εφαρμογής.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση του Spotify στο 200% στο macOS ενώ διατηρεί τις άλλες εφαρμογές σε κανονική ένταση" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial ενισχύει την ένταση του Spotify στο 200% στο macOS ενώ διατηρεί τις άλλες εφαρμογές σε κανονική ένταση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Εδώ είναι η βασική διαφορά: μια αύξηση της έντασης σε όλο το σύστημα θα είχε αποτέλεσμα <em>τα πάντα</em> πιο δυνατά — ειδοποιήσεις, κλήσεις, ήχοι συστήματος — όχι μόνο το Spotify. Το SoundDial ενισχύει το Spotify <em>ανεξάρτητα</em>. Ρυθμίστε το Spotify στο 160% ενώ το πρόγραμμα περιήγησής σας παραμένει στο 80% και το Zoom παραμένει στο 100%.</p>
 
@@ -3440,7 +3452,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> κάθεται στη γραμμή μενού σας και δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης. Μπορείτε να ρυθμίσετε το παιχνίδι σας στο 35% και το Discord στο 100% — ή οποιαδήποτε αναλογία λειτουργεί για εσάς. Αλλάξτε το ένα και το άλλο μένει στη θέση του.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial εμφανίζει ανεξάρτητα ρυθμιστικά έντασης για ένα παιχνίδι και το Discord στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial εμφανίζει ανεξάρτητα ρυθμιστικά έντασης για ένα παιχνίδι και το Discord στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Τυπική ρύθμιση παιχνιδιών</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const elArticles: ArticleSet = {
 
 <p>Η απάντηση είναι μια εφαρμογή γραμμής μενού τρίτου μέρους. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> είναι ένας εγγενής μείκτης τόμου macOS που κάνει ακριβώς αυτό που κάνει ο μείκτης τόμου των Windows — συν περισσότερα.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — ο μείκτης έντασης ήχου για το macOS, που εμφανίζει ρυθμιστικά έντασης ήχου ανά εφαρμογή στη γραμμή μενού" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ο μείκτης έντασης ήχου για το macOS, που εμφανίζει ρυθμιστικά έντασης ήχου ανά εφαρμογή στη γραμμή μενού" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Τι παίρνετε:</p>
 
@@ -3590,7 +3602,7 @@ export const elArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> δίνει σε κάθε εφαρμογή στο Mac ένα ανεξάρτητο ρυθμιστικό έντασης που πηγαίνει από 0% σε <strong>200%</strong>. Εάν μια συγκεκριμένη εφαρμογή είναι πολύ αθόρυβη - ένα πρόγραμμα αναπαραγωγής podcast, μια καρτέλα προγράμματος περιήγησης, μια κλήση βίντεο - μπορείτε να ενισχύσετε αυτήν ακριβώς την εφαρμογή πέρα ​​από το 100% χωρίς να αγγίξετε τίποτα άλλο.</p>
 
-<img src="/apps/sounddial.png" alt="Ενίσχυση έντασης SoundDial — έλεγχος έντασης ανά εφαρμογή με ενίσχυση 200% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Ενίσχυση έντασης SoundDial — έλεγχος έντασης ανά εφαρμογή με ενίσχυση 200% στο macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Αυτό είναι ιδιαίτερα χρήσιμο για:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const elArticles: ArticleSet = {
 <h3>Διαμόρφωση του επιπέδου πάπιας</h3>
 <p>Στις ρυθμίσεις του SoundDial, μπορείτε να προσαρμόσετε το <strong>επίπεδο πάπιας</strong> — πόσο μειώνεται ο ήχος παρασκηνίου κατά τη διάρκεια μιας κλήσης. Το ρυθμιστικό κυμαίνεται από 10% (ελάχιστα ακούγεται) έως 80% (ακόμα είναι αρκετά παρόν). Η προεπιλογή του 30% λειτουργεί καλά για τους περισσότερους ανθρώπους: η μουσική είναι αισθητή αλλά δεν παρεμβαίνει στη συνομιλία.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial δυνατότητα αυτόματης μείωσης της έντασης της μουσικής κατά τη διάρκεια μιας κλήσης Zoom στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial δυνατότητα αυτόματης μείωσης της έντασης της μουσικής κατά τη διάρκεια μιας κλήσης Zoom στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Γιατί το αυτόματο παπάκι είναι καλύτερο από το παύση</h2>
 
@@ -3763,7 +3775,7 @@ export const elArticles: ArticleSet = {
 
 <p>Αυτό ακριβώς κάνει ένας μείκτης τόμου ανά εφαρμογή. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> κάθεται στη γραμμή μενού σας και εμφανίζει κάθε εφαρμογή που εκτελείται με το δικό της ρυθμιστικό έντασης και κουμπί σίγασης.</p>
 
-<img src="/apps/sounddial.png" alt="Το SoundDial εμφανίζει κουμπιά σίγασης ανά εφαρμογή για κάθε εφαρμογή στη γραμμή μενού macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Το SoundDial εμφανίζει κουμπιά σίγασης ανά εφαρμογή για κάθε εφαρμογή στη γραμμή μενού macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Για σίγαση μιας εφαρμογής:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const elArticles: ArticleSet = {
 
 <p>Βρίσκεται στη γραμμή μενού σας και εμφανίζει κάθε εφαρμογή που εκτελείται με το δικό της ρυθμιστικό έντασης. Σύρετε ένα ρυθμιστικό για να προσαρμόσετε την ένταση του ήχου αυτής της εφαρμογής από 0% σε 200%. Κάντε κλικ στο εικονίδιο του ηχείου για άμεση σίγαση. Εναλλαγή μεταξύ αποθηκευμένων προφίλ για διαφορετικές καταστάσεις. Ενεργοποιήστε το auto-ducking και η μουσική σας γίνεται αυτόματα πιο αθόρυβη όταν ξεκινά μια κλήση.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — Μίκτης τόμου ανά εφαρμογή για macOS που εμφανίζει μεμονωμένα ρυθμιστικά όγκου εφαρμογών στη γραμμή μενού" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Μίκτης τόμου ανά εφαρμογή για macOS που εμφανίζει μεμονωμένα ρυθμιστικά όγκου εφαρμογών στη γραμμή μενού" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Βασικά χαρακτηριστικά:</p>
 <ul>
@@ -3889,5 +3901,2353 @@ export const elArticles: ArticleSet = {
 
 <p>Εφάπαξ αγορά. Χωρίς συνδρομή. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Αποκτήστε το SoundDial στο App Store Mac</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Η καλύτερη εναλλακτική λύση Background Music για το Mac (2026)",
+    description: "Το Background Music σπάει σε νεότερο macOS; Η πιο αξιόπιστη εναλλακτική λύση μείκτη όγκου ανά εφαρμογή είναι το SoundDial — μια εφαρμογή Mac App Store με sandbox με ενίσχυση και προφίλ.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν το Background Music έχει σταματήσει να λειτουργεί μετά από μια ενημέρωση macOS, η πιο αξιόπιστη εναλλακτική είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — μια γραμμή μενού ανά εφαρμογή μείκτη έντασης ήχου από το Mac App Store. Δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, προσθέτει σίγαση, ενίσχυση, προφίλ έντασης και αυτόματη μείωση του όγκου και είναι πλήρως ενσωματωμένο στο sandbox και αξιολογείται από την Apple, επομένως δεν υπάρχουν προγράμματα οδήγησης ήχου για διακοπή στην επόμενη κυκλοφορία του macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Η καλύτερη εναλλακτική λύση Background Music για Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το Background Music χαλάει σε νεότερο macOS</h2>
+
+<p>Το Background Music είναι ένα πραγματικά έξυπνο δωρεάν έργο ανοιχτού κώδικα. Έδωσε στους χρήστες Mac κάτι που η Apple δεν έχει ποτέ: έναν μείκτη όγκου ανά εφαρμογή, όπως το Windows που είχε εδώ και χρόνια. Αλλά ο σχεδιασμός του είναι και ο λόγος που συνεχίζει να αποτυγχάνει.</p>
+
+<p>Για τη δρομολόγηση και τον έλεγχο του ήχου, το Background Music εγκαθιστά μια εικονική συσκευή ήχου — ένα πρόγραμμα οδήγησης σε επίπεδο συστήματος που παρεμποδίζει τον ήχο του Mac. Αυτή η προσέγγιση λειτούργησε καλά σε παλαιότερο macOS, αλλά κάθε σημαντική έκδοση ενισχύει την ασφάλεια γύρω από τον πυρήνα και τις επεκτάσεις ήχου. Τα κοινά συμπτώματα που αναφέρουν οι χρήστες:</p>
+
+<ul>
+<li>Δεν υπάρχει καθόλου ήχος μετά την εγκατάσταση ή μετά από μια ενημέρωση του λειτουργικού συστήματος.</li>
+<li>Η εικονική συσκευή αποτυγχάνει να φορτώσει, επομένως η δρομολόγηση ήχου σταματάει αθόρυβα.</li>
+<li>Η εφαρμογή χρειάζεται επανεγκατάσταση, επανεκκίνηση ή μη αυτόματη αφαίρεση προγράμματος οδήγησης για ανάκτηση.</li>
+<li>Η ανάπτυξη βασίζεται στην κοινότητα και ρυθμίζεται εθελοντικά, επομένως οι διορθώσεις για ένα νέο macOS μπορεί να καθυστερήσουν.</li>
+</ul>
+
+<p>Τίποτα από αυτά δεν κάνει το Background Music "κακό". Σημαίνει απλώς ότι ένα δωρεάν εργαλείο που βασίζεται σε προγράμματα οδήγησης είναι από τη φύση του εύθραυστο και αν βασίζεστε στον όγκο ανά εφαρμογή κάθε μέρα, αυτή η ευθραυστότητα παλιώνει γρήγορα.</p>
+
+<h2>Τι να ψάξετε σε μια αντικατάσταση</h2>
+
+<p>Πριν επιλέξετε οποιαδήποτε εναλλακτική, αποφασίστε τι χρειάζεστε πραγματικά:</p>
+
+<ul>
+<li><strong>Αξιοπιστία σε όλες τις ενημερώσεις macOS.</strong> Εάν εγκαταστήσει έναν πυρήνα ή μια επέκταση ήχου, να περιμένετε περιστασιακή θραύση.</li>
+<li><strong>Πραγματικός έλεγχος ανά εφαρμογή.</strong> Η ανεξάρτητη ένταση και η σίγαση για κάθε εφαρμογή είναι η γραμμή βάσης.</li>
+<li><strong>Ενίσχυση.</strong> Ορισμένες εφαρμογές (εργαλεία αθόρυβης συνάντησης, ορισμένα προγράμματα περιήγησης) είναι απλώς πολύ αθόρυβες — θέλετε να ξεπεράσετε το 100%.</li>
+<li><strong>Χαρακτηριστικά ευκολίας.</strong> Τα προφίλ και το auto-ducking είναι αυτά που μετατρέπουν ένα βοηθητικό πρόγραμμα σε κάτι που κρατάτε ανοιχτό όλη μέρα.</li>
+<li><strong>Ασφαλής εγκατάσταση.</strong> Μια εφαρμογή Mac App Store με sandbox δεν μπορεί να αγγίξει τα εσωτερικά του συστήματος, επομένως η απεγκατάσταση είναι καθαρή και οι ενημερώσεις είναι αυτόματες.</li>
+</ul>
+
+<h2>Γιατί το SoundDial είναι η αξιόπιστη επιλογή</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> κατασκευάστηκε για να λύσει ακριβώς το πρόβλημα που αντιμετωπίζουν οι χρήστες Background Music: θέλουν όγκο ανά εφαρμογή, αλλά δεν θέλουν να κάνουν babysit έναν οδηγό. Ζει στη γραμμή μενού σας και κάνει καλά τη βασική δουλειά:</p>
+
+<ul>
+<li><strong>Ανεξάρτητος όγκος για κάθε εφαρμογή</strong>, με σίγαση ανά εφαρμογή στον ίδιο πίνακα.</li>
+<li><strong>Ενίσχυση ανά εφαρμογή</strong> για να κάνετε τις αθόρυβες εφαρμογές αρκετά δυνατές ώστε να ακούγονται πραγματικά.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια μίξη (ας πούμε, "σύσκεψη" ή "παιχνίδι") και αλλάξτε αμέσως αντί να σύρετε ρυθμιστικά κάθε φορά.</li>
+<li><strong>Αυτόματη πάπια</strong>, έτσι ο ήχος παρασκηνίου μειώνεται αυτόματα όταν χρειάζεται.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> μεταξύ ηχείων, ακουστικών και άλλων συσκευών.</li>
+</ul>
+
+<p>Η μεγαλύτερη διαφορά είναι ο τρόπος εγκατάστασης. Το SoundDial αποστέλλεται μέσω του Mac App Store, πράγμα που σημαίνει ότι έχει αξιολογηθεί από την Apple και έχει εγκατασταθεί σε sandbox. Δεν υπάρχει DMG για μεταφορά, πρόγραμμα οδήγησης ήχου ή επέκταση συστήματος και πρόσβαση στον πυρήνα. Αυτός είναι ο μοναδικός πιο σημαντικός λόγος που δεν θα χαλάσει τον τρόπο που κάνει το Background Music όταν έρχεται ένα νέο macOS — δεν είναι συνδεδεμένο με τα μέρη του συστήματος που η Apple συνεχίζει να κλειδώνει.</p>
+
+<p>Κοστίζει <strong>14,99 € εφάπαξ</strong>. Δεν είναι δωρεάν, αλλά δεν υπάρχει συνδρομή και πληρώνετε για κάτι συντηρημένο και ασφαλές για εγκατάσταση.</p>
+
+<h2>SoundDial εναντίον Background Music έναντι των δωρεάν εργαλείων</h2>
+
+<p>Το Background Music δεν είναι η μόνη δωρεάν επιλογή σας, επομένως εδώ είναι μια ειλικρινής τοποθέτηση της γης:</p>
+
+<ul>
+<li><strong>Background Music (δωρεάν, ανοιχτού κώδικα):</strong> όγκος ανά εφαρμογή, αλλά βασίζεται σε προγράμματα οδήγησης, είναι επιρρεπής στο σπάσιμο σε νεότερο macOS και δεν διαθέτει ενίσχυση, προφίλ και αυτόματη απενεργοποίηση.</li>
+<li><strong>FineTune (δωρεάν, ανοιχτού κώδικα):</strong> μια ελαφριά γραμμή μενού ανά εφαρμογή όγκου εφαρμογής. Καλό αν είναι δωρεάν είναι η μόνη σας απαίτηση, αλλά λεπτό στα έξτρα.</li>
+<li><strong>eqMac (δωρεάν):</strong> κυρίως ένα σύστημα EQ και ενισχυτής, όχι ένας πραγματικός μίκτης ανά εφαρμογή.</li>
+<li><strong>SoundSource από Rogue Amoeba (~ $39):</strong> η επιλογή pro-grade, με EQ ανά εφαρμογή και πλήρη δρομολόγηση εξόδου. Εξαιρετικό, αλλά είναι υπερδιπλάσια της τιμής του SoundDial και εξακολουθεί να απαιτεί λήψη συν ένα πρόγραμμα οδήγησης καταγραφής ήχου.</li>
+<li><strong>SoundDial (14,99 €, Mac App Store):</strong> η μέση λύση — πραγματικός όγκος ανά εφαρμογή, σίγαση, ενίσχυση, προφίλ και πάπια, που παραδίδεται ως καθαρή εγκατάσταση sandbox χωρίς προγράμματα οδήγησης.</li>
+</ul>
+
+<p>Εάν χρειάζεστε EQ ανά εφαρμογή ή σύνθετη δρομολόγηση στούντιο, το SoundSource αξίζει τα επιπλέον χρήματα. Εάν θέλετε ένα δωρεάν εργαλείο τεχνίτη και μπορείτε να ανεχτείτε το περιστασιακό σπάσιμο, το FineTune ή το Background Music θα το κάνει. Αλλά αν ο στόχος σας είναι "να δώσετε σε κάθε εφαρμογή τον δικό της όγκο και να σταματήσετε να διακόπτει κάθε ενημέρωση macOS", το SoundDial πετυχαίνει αυτόν τον στόχο με τη μικρότερη ταλαιπωρία.</p>
+
+<h2>Το πλαίσιο macOS που το καθιστά απαραίτητο</h2>
+
+<p>Αξίζει να πούμε ξεκάθαρα: Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows είχε ένα εδώ και χρόνια στην ένταση του ήχου, αλλά σε ένα Mac το ρυθμιστικό συστήματος ελέγχει τα πάντα ταυτόχρονα. Αυτό το κενό είναι ο λόγος που υπάρχουν εργαλεία όπως το Background Music και το SoundDial. Εφόσον η Apple δεν το συμπληρώνει, το πρακτικό ερώτημα είναι ποια προσέγγιση τρίτου μέρους εμπιστεύεστε — ένα δωρεάν πρόγραμμα οδήγησης που καταπολεμά το λειτουργικό σύστημα ή μια εφαρμογή sandbox που λειτουργεί με αυτό.</p>
+
+<p>Είστε έτοιμοι να σταματήσετε να πολεμάτε τα κατεστραμμένα προγράμματα οδήγησης ήχου; Αποκτήστε <a href="https://apps.apple.com/app/id6772792641">SoundDial στο Mac App Store</a> για 14,99 € και ελέγξτε τον όγκο κάθε εφαρμογής με αξιόπιστο τρόπο.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource εναντίον SoundDial: Ποια εφαρμογή τόμου Mac κερδίζει;",
+    description: "SoundSource (39 $, pro-grade) έναντι SoundDial (14,99 €, App Store). Συγκρίνετε τον όγκο, την ενίσχυση, τα προφίλ και το αυτόματο παπάκι ανά εφαρμογή για να επιλέξετε τον κατάλληλο μίκτη Mac για εσάς.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν θέλετε απλώς έλεγχο έντασης ήχου ανά εφαρμογή που εγκαθίσταται καθαρά και κοστίζει λιγότερο, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι η καλύτερη αγορά για τους περισσότερους ανθρώπους: 14,99 € εφάπαξ, από το Mac App Store, με ένταση ήχου ανά εφαρμογή, σίγαση, ενίσχυση, προφίλ και αυτόματη απενεργοποίηση. Επιλέξτε το SoundSource του Rogue Amoeba (~$39) μόνο εάν χρειάζεστε ειδικά EQ ανά εφαρμογή και προηγμένη δρομολόγηση εξόδου.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource εναντίον SoundDial: Ποια εφαρμογή τόμου Mac κερδίζει;" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Η σύντομη έκδοση</h2>
+<p>Το macOS εξακολουθεί να μην έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows είχε ένα εδώ και χρόνια, αλλά σε ένα Mac το ρυθμιστικό έντασης του συστήματος μετακινεί τα πάντα ταυτόχρονα. Τόσο το SoundSource όσο και το SoundDial υπάρχουν για να διορθώσουν αυτό το κενό. Απλώς στοχεύουν σε διαφορετικούς αγοραστές.</p>
+<ul>
+<li><strong>SoundDial</strong> — 14,99 € εφάπαξ, Mac App Store, εφαρμογή γραμμής μενού. Ανεξάρτητη ένταση ήχου ανά εφαρμογή, σίγαση ανά εφαρμογή, ενίσχυση ανά εφαρμογή, αποθηκευμένα προφίλ, αυτόματη απενεργοποίηση και γρήγορη εναλλαγή εξόδου. Sandboxed και αναθεωρημένο από την Apple, οπότε δεν υπάρχει εγκατάσταση προγράμματος οδήγησης.</li>
+<li><strong>SoundSource</strong> — ~ 39$, απευθείας λήψη από το Rogue Amoeba. Όλα τα παραπάνω συν EQ ανά εφαρμογή, προηγμένη δρομολόγηση εξόδου και εφέ ήχου. Απαιτείται η εγκατάσταση ενός μικρού προγράμματος οδήγησης καταγραφής ήχου.</li>
+</ul>
+
+<h2>Τιμή και πώς το αγοράζετε</h2>
+<p>Αυτή είναι η πιο ξεκάθαρη διαίρεση. Το SoundSource κοστίζει περίπου 39 $ και πωλείται απευθείας από την Rogue Amoeba. Το SoundDial είναι 14,99 € ως εφάπαξ αγορά στο Mac App Store — λίγο περισσότερο από το ένα τρίτο της τιμής.</p>
+<p>Διότι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> αποστέλλεται μέσω του App Store, είναι ενσωματωμένο στο sandbox, συμβολαιογραφικό και ελεγμένο από την Apple. Κάνετε κλικ στο Get, εγκαθίσταται και είναι έτοιμο. Δεν υπάρχει DMG για προσάρτηση, δεν υπάρχουν άδειες για παραχώρηση σε ένα στοιχείο που βρίσκεται δίπλα στον πυρήνα και δεν υπάρχει πρόγραμμα οδήγησης ήχου ή επέκταση συστήματος. Οδηγεί επίσης μαζί με την κανονική ροή ενημέρωσης App Store και συγχρονίζεται με τα άλλα Mac στο ίδιο Apple ID.</p>
+<p>Το SoundSource πραγματοποιεί λήψη εκτός του App Store και εγκαθιστά ένα πρόγραμμα οδήγησης καταγραφής ήχου, ώστε να μπορεί να παρακολουθεί και να επεξεργάζεται τον ήχο κάθε εφαρμογής. Αυτό είναι που ξεκλειδώνει τις επαγγελματικές του δυνατότητες, αλλά σημαίνει επίσης ένα επιπλέον βήμα εγκατάστασης και ένα στοιχείο που ζει πιο βαθιά στο σύστημα.</p>
+
+<h2>Αυτό που κάνει το SoundSource δεν το κάνει το SoundDial</h2>
+<p>Το SoundSource κερδίζει την τιμή του για ένα συγκεκριμένο είδος χρήστη. Αν κάποιο από αυτά σας περιγράφει, αξίζει τα επιπλέον χρήματα:</p>
+<ul>
+<li><strong>EQ ανά εφαρμογή.</strong> Θέλετε έναν ισοσταθμιστή 10 ζωνών σε, ας πούμε, Spotify ενώ αφήνετε το Zoom σε επίπεδη θέση. Το SoundDial κάνει όγκο, όχι EQ.</li>
+<li><strong>Προηγμένη δρομολόγηση εξόδου.</strong> Αποστολή μιας εφαρμογής στα ηχεία σας και μιας άλλης στα ακουστικά ή σε μια συγκεκριμένη διεπαφή, με καλό έλεγχο.</li>
+<li><strong>Ηχητικά εφέ και πρόσθετα.</strong> Το SoundSource μπορεί να φιλοξενήσει εφέ ανά εφαρμογή — πραγματικά επαγγελματίας.</li>
+</ul>
+<p>Το Rogue Amoeba έχει μακρά, αξιόπιστη ιστορία. Το SoundSource είναι ένα σοβαρό εργαλείο και η τιμή του είναι σαν ένα. Εάν είστε επαγγελματίας ήχου ή βαρύς χρήστης πολλαπλών εξόδων, είναι η σωστή κλήση.</p>
+
+<h2>Τι κάνει καλύτερα το SoundDial για καθημερινή χρήση</h2>
+<p>Οι περισσότεροι άνθρωποι που αναζητούν έναν "μίκτη έντασης ήχου Mac" δεν χρειάζονται EQ. Χρειάζονται μια εφαρμογή πιο αθόρυβη από μια άλλη και δεν θέλουν να παλέψουν με ένα πρόγραμμα εγκατάστασης για να την αποκτήσουν. Το SoundDial το καλύπτει καθαρά και προσθέτει μερικά πράγματα που αξίζει να προσέξετε:</p>
+<ul>
+<li><strong>Ενίσχυση ανά εφαρμογή.</strong> Ορισμένες εφαρμογές και βίντεο είναι πολύ αθόρυβα ακόμη και στο 100%. Το SoundDial μπορεί να ωθήσει μια μεμονωμένη εφαρμογή πάνω από το κανονικό της ανώτατο όριο, ώστε τελικά να ακούγεται μια ήσυχη συνάντηση ή podcast.</li>
+<li><strong>Προφίλ τόμου.</strong> Αποθηκεύστε μια πλήρη ρύθμιση — χαμηλή μουσική, σίγαση του προγράμματος περιήγησης, καλέστε την εφαρμογή δυνατά — και ανακαλέστε την αμέσως. Ιδανικό για εναλλαγή μεταξύ "εστίασης", "συνάντησης" και "παιχνιδιού" χωρίς να σύρετε πέντε ρυθμιστικά.</li>
+<li><strong>Αυτόματη πάπια.</strong> Βυθίστε αυτόματα τον ήχο παρασκηνίου (όπως μουσική) όταν ξεκινά μια άλλη πηγή, έτσι ώστε οι ειδοποιήσεις, οι κλήσεις ή τα βίντεο να μην θάβονται.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου.</strong> Μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών από τη γραμμή μενού.</li>
+</ul>
+<p>Όλα αυτά εκτελούνται από ένα αναπτυσσόμενο μενού γραμμής μενού, επομένως είναι ένα κλικ μακριά και μακριά από το πρόσωπό σας τον υπόλοιπο χρόνο.</p>
+
+<h2>Οι δωρεάν εναλλακτικές, εν συντομία</h2>
+<p>Θα δείτε μερικές δωρεάν επιλογές που αναφέρονται στις ίδιες αναζητήσεις. Αξίζει να γνωρίζετε για:</p>
+<ul>
+<li><strong>Background Music</strong> — δωρεάν και ανοιχτού κώδικα, σας δίνει βασικό όγκο ανά εφαρμογή. Ωστόσο, μπορεί να σπάσει σε νεότερες εκδόσεις macOS και δεν έχει καμία ενίσχυση, προφίλ ή αυτόματη εκτόξευση.</li>
+<li><strong>FineTune</strong> — μια δωρεάν εφαρμογή όγκου γραμμής μενού ανοιχτού κώδικα. Απλό, αλλά περιορισμένο σε εύρος.</li>
+<li><strong>eqMac</strong> — δωρεάν EQ και ενισχυτής συστήματος, περισσότερο ένα εργαλείο EQ σε όλο το σύστημα παρά ένας πραγματικός μίκτης ανά εφαρμογή.</li>
+</ul>
+<p>Το δωρεάν είναι υπέροχο εάν λειτουργεί για εσάς. Η αντιστάθμιση είναι η συμβατότητα και η υποστήριξη: τα εργαλεία ήχου ανοιχτού κώδικα μπορεί να υστερούν σε σχέση με τις ενημερώσεις macOS και χαρακτηριστικά όπως τα προφίλ και το ducking γενικά δεν υπάρχουν. Εάν η ρύθμισή σας έχει σημασία για την εργάσιμη ημέρα σας, το να πληρώσετε μία φορά για κάτι που αναθεωρήθηκε και συντηρήθηκε είναι συνήθως η πιο ήρεμη διαδρομή.</p>
+
+<h2>Ποιο να αγοράσετε;</h2>
+<p>Απαντήστε σε μια ερώτηση: χρειάζεστε EQ ανά εφαρμογή ή προηγμένη δρομολόγηση εξόδου;</p>
+<ul>
+<li><strong>Ναι</strong> — αγοράστε SoundSource. Είναι κατασκευασμένο για αυτό και τα ~ 39$ είναι δίκαια για ένα επαγγελματικό εργαλείο με κινητήρα επιπέδου οδηγού.</li>
+<li><strong>Όχι, θέλω μόνο όγκο ανά εφαρμογή, ενίσχυση και καθαρή εγκατάσταση</strong> — αγοράστε SoundDial. Λαμβάνετε τη μίξη που πραγματικά έχει σημασία καθημερινά, συν τα προφίλ και το auto-ducking, με 14,99 € και μηδενική ταλαιπωρία του οδηγού.</li>
+</ul>
+<p>Για τη μεγάλη πλειοψηφία των χρηστών Mac, αυτός ο δεύτερος κάδος είναι η ειλικρινής απάντηση. Πληρώνετε για τον έλεγχο της έντασης, όχι για ένα στούντιο.</p>
+
+<p><strong>Είστε έτοιμοι να διορθώσετε την ένταση ήχου Mac με τον εύκολο τρόπο;</strong> Αποκτήστε <a href="https://apps.apple.com/app/id6772792641">SoundDial στο Mac App Store</a> — 14,99 € εφάπαξ, χωρίς προγράμματα οδήγησης, χωρίς DMG. Όγκος ανά εφαρμογή, ενίσχυση, προφίλ και αυτόματη απελευθέρωση με ένα κλικ.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Μια φθηνότερη εναλλακτική λύση SoundSource για όγκο ανά εφαρμογή στο Mac",
+    description: "Θέλετε όγκο ανά εφαρμογή σε στυλ SoundSource χωρίς την τιμή των 39 $; Το SoundDial είναι ένας μίκτης γραμμών μενού Mac App Store 14,99 € με ώθηση, προφίλ και αυτόματο πάπωμα.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν θέλετε έλεγχο έντασης ήχου ανά εφαρμογή σε στυλ SoundSource στο Mac, αλλά τα 39 $ είναι απότομα, η πιο γρήγορη αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Είναι ένας μείκτης γραμμών μενού 14,99 € μιας χρήσης από το Mac App Store που δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, σίγαση και ενίσχυση — συν προφίλ και αυτόματη παύση — χωρίς λήψη ή πρόγραμμα οδήγησης ήχου για εγκατάσταση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Μια φθηνότερη εναλλακτική λύση SoundSource για τον όγκο ανά εφαρμογή στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί οι άνθρωποι αναζητούν μια εναλλακτική λύση SoundSource</h2>
+<p>Το SoundSource by Rogue Amoeba είναι εξαιρετικό λογισμικό. Είναι πραγματικά προνομιακό: ισοσταθμιστές ανά εφαρμογή, εφέ ήχου και δρομολόγηση εξόδου που σας επιτρέπει να στέλνετε μια εφαρμογή στα ακουστικά σας και μια άλλη στα ηχεία σας. Αλλά αυτή η ισχύς έρχεται με δύο σημεία τριβής. Πρώτον, η τιμή - περίπου 39 $. Δεύτερον, εγκαθιστά ένα πρόγραμμα οδήγησης καταγραφής ήχου σε επίπεδο συστήματος εκτός του App Store, το οποίο μερικοί άνθρωποι είναι προσεκτικοί σε ένα μηχάνημα εργασίας ή απλώς δεν θέλουν να το διαχειριστούν σε όλες τις ενημερώσεις macOS.</p>
+<p>Για τους περισσότερους ανθρώπους, η πραγματική ανάγκη είναι πολύ πιο απλή: απενεργοποιήστε το Spotify χωρίς να αγγίξετε μια κλήση Zoom, σίγαση της εφαρμογής μιας θορυβώδους καρτέλας προγράμματος περιήγησης ή ενισχύστε ένα αθόρυβο πρόγραμμα αναπαραγωγής βίντεο στο 100%. Εάν είστε εσείς, πληρώνετε pro χρήματα για λειτουργίες που δεν θα ανοίξετε ποτέ.</p>
+
+<h2>Τι κάνει το SoundDial — και τι κοστίζει</h2>
+<p>Το SoundDial εστιάζει στην εργασία όγκου ανά εφαρμογή και το κάνει καθαρά. Ανοίξτε τη γραμμή μενού και θα λάβετε μια ζωντανή λίστα με οτιδήποτε παράγει ήχο, το καθένα με τον δικό του έλεγχο:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — ένα ρυθμιστικό ανά εφαρμογή, προσαρμοσμένο σε πραγματικό χρόνο.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας εφαρμογής αμέσως χωρίς παύση τίποτα άλλο.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — ωθήστε τις αθόρυβες εφαρμογές πάνω από το κανονικό τους μέγιστο όταν ένα βίντεο ή μια κλήση είναι πολύ απαλό.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια μίξη (π.χ. "Εστίαση", "Παιχνίδια", "Συνάντηση") και εναλλαγή με ένα κλικ.</li>
+<li><strong>Αυτόματη πάπια</strong> — βυθίστε αυτόματα άλλες εφαρμογές όταν αρχίσει να παίζει κάτι πιο σημαντικό.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών από το ίδιο μενού.</li>
+</ul>
+<p>Η τιμή είναι <strong>€14,99, πληρώθηκε μία φορά</strong> — χωρίς συνδρομή. Αυτό είναι περίπου το ένα τρίτο του κόστους του SoundSource, για τις δυνατότητες όγκου που προσεγγίζουν πραγματικά οι περισσότεροι χρήστες.</p>
+
+<h2>Η διαφορά App Store</h2>
+<p>Επειδή το SoundDial αποστέλλεται μέσω του <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, έχει αξιολογηθεί από την Apple και έχει εγκατασταθεί σε sandbox. Δεν υπάρχει DMG για μεταφορά, επέκταση πυρήνα ή πρόγραμμα οδήγησης καταγραφής ήχου για έγκριση και ξεχωριστό πρόγραμμα ενημέρωσης. Την εγκαθιστάτε όπως κάθε άλλη εφαρμογή App Store και λειτουργεί. Όταν το macOS ενημερώνεται, δεν αναρωτιέστε εάν εξακολουθεί να λειτουργεί ένα στοιχείο ήχου χαμηλού επιπέδου.</p>
+<blockquote>Το macOS εξακολουθεί να μην έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows είχε ένα εδώ και χρόνια, αλλά σε ένα Mac ο όγκος του συστήματος είναι όλα ή τίποτα — αυτό ακριβώς είναι το κενό που συμπληρώνουν αυτά τα εργαλεία.</blockquote>
+
+<h2>Πώς συγκρίνεται με τις δωρεάν επιλογές</h2>
+<p>Το SoundSource δεν είναι η μόνη σας εναλλακτική. Υπάρχουν δωρεάν εργαλεία και η ειλικρίνεια με αυτά έχει σημασία:</p>
+<ul>
+<li><strong>Background Music</strong> είναι μια δωρεάν εφαρμογή όγκου ανοιχτού κώδικα ανά εφαρμογή. Λειτουργεί για πολλούς ανθρώπους, αλλά μπορεί να χαλάσει σε νεότερες εκδόσεις macOS, οι ενημερώσεις είναι ακανόνιστες και δεν έχει καμία ενίσχυση, χωρίς προφίλ και χωρίς αυτόματη διέλευση.</li>
+<li><strong>FineTune</strong> είναι μια δωρεάν εφαρμογή όγκου γραμμής μενού ανοιχτού κώδικα — ελαφριά και εύχρηστη, αλλά και πάλι δεν διαθέτει το προφίλ και τις δυνατότητες κοπής.</li>
+<li><strong>eqMac</strong> είναι ένας δωρεάν ενισχυτής EQ και συστήματος. Είναι περισσότερο ένα εργαλείο ισοσταθμιστή/ενίσχυσης παρά ένας πραγματικός μίκτης ανά εφαρμογή και δεν εστιάζει σε μεμονωμένα ρυθμιστικά εφαρμογών.</li>
+</ul>
+<p>Το δωρεάν είναι μια νόμιμη επιλογή. Η αντιστάθμιση είναι η αξιοπιστία και τα χαρακτηριστικά: τα εργαλεία ήχου ανοιχτού κώδικα εξαρτώνται από εθελοντική συντήρηση και μπορεί να υστερούν σε σχέση με τις αλλαγές macOS, και καμία από τις δωρεάν δέσμες επιλογών δεν περιλαμβάνει προφίλ και αυτόματη αναρρόφηση όπως κάνει το SoundDial. Εάν η ρύθμιση σας είναι απλή και δεν σας πειράζει περιστασιακά το σπάσιμο, μια δωρεάν εφαρμογή μπορεί να είναι αρκετή. Αν θέλετε κάτι που να συντηρείται, να είναι σε sandbox και να λειτουργεί, τα 14,99€ σας αγοράζουν ακριβώς αυτό.</p>
+
+<h2>Οδηγός γρήγορης απόφασης</h2>
+<ul>
+<li><strong>Χρειάζεστε EQ ανά εφαρμογή, εφέ ήχου και δρομολόγηση μιας εφαρμογής σε διαφορετική συσκευή εξόδου</strong> → Το SoundSource αξίζει την τιμή του. Τίποτα εδώ δεν το αντικαθιστά πλήρως.</li>
+<li><strong>Χρειάζεστε κυρίως ένταση ήχου ανά εφαρμογή, σίγαση, ενίσχυση, προφίλ και διακοπή — χωρίς προγράμματα οδήγησης</strong> → Το SoundDial στα 14,99 € είναι η καλύτερη επιλογή.</li>
+<li><strong>Θέλετε δωρεάν και δεν σας πειράζει ο κίνδυνος συντήρησης</strong> → δοκιμάστε πρώτα τα Background Music, FineTune ή eqMac.</li>
+</ul>
+
+<h2>Ρύθμιση του</h2>
+<p>Η έναρξη διαρκεί περίπου ένα λεπτό:</p>
+<ul>
+<li>Εγκαταστήστε το SoundDial από το Mac App Store — χωρίς εξωτερική λήψη.</li>
+<li>Εκχωρήστε την άδεια ήχου που ζητά το macOS κατά την πρώτη εκκίνηση.</li>
+<li>Παίξτε ήχο σε μερικές εφαρμογές και ανοίξτε το εικονίδιο της γραμμής μενού. θα δείτε το καθένα με το δικό του ρυθμιστικό.</li>
+<li>Σύρετε για να ορίσετε επίπεδα, πατήστε για σίγαση ή περάστε το 100% για ενίσχυση.</li>
+<li>Αποθηκεύστε τη ρύθμισή σας ως προφίλ και ενεργοποιήστε το auto-ducking εάν θέλετε οι άλλες εφαρμογές να ησυχάζουν κατά τη διάρκεια κλήσεων ή πολυμέσων.</li>
+</ul>
+<p>Αυτή είναι η όλη ροή εργασίας — χωρίς αρχεία διαμόρφωσης, χωρίς επανεκκίνηση, χωρίς επέκταση συστήματος για ευλογία.</p>
+
+<h2>Η ουσία</h2>
+<p>Το SoundSource είναι το πιο ισχυρό εργαλείο, αλλά οι περισσότεροι άνθρωποι που το αναζητούν θέλουν απλώς να συμπεριφέρεται ο όγκος ανά εφαρμογή. Το SoundDial προσφέρει αυτό για περίπου το ένα τρίτο της τιμής, αποστέλλεται με ασφάλεια μέσω του App Store και προσθέτει προφίλ και αυτόματο παπάκι από πάνω — χωρίς ούτε ένα πρόγραμμα οδήγησης για εγκατάσταση.</p>
+
+<p>Είστε έτοιμοι να ελέγξετε ανεξάρτητα την ένταση ήχου κάθε εφαρμογής; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για 14,99 €, εφάπαξ.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune Εναλλακτική λύση για το Mac: Υποστηριζόμενος μείκτης τόμου ανά εφαρμογή",
+    description: "Δοκίμασες τη δωρεάν εφαρμογή γραμμής μενού FineTune και θέλετε κάτι συντηρημένο και ασφαλές για το App Store; Εδώ είναι η καλύτερη εναλλακτική λύση FineTune για όγκο ανά εφαρμογή στο Mac.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν σας άρεσε το FineTune αλλά θέλετε κάτι ενεργά να συντηρηθεί και να εγκατασταθεί από μια αξιόπιστη πηγή, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι η ταχύτερη αξιόπιστη λύση. Είναι μια γραμμή μενού Mac App Store μείκτη έντασης ήχου ανά εφαρμογή με ανεξάρτητη ένταση ήχου, σίγαση ανά εφαρμογή, ενίσχυση έντασης, αποθηκευμένα προφίλ και αυτόματη απαγωγή. Ελεγμένο από την Apple και sandbox, κοστίζει 14,99 € μία φορά χωρίς προγράμματα οδήγησης για εγκατάσταση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune Εναλλακτική λύση για Mac: Υποστηριζόμενος μείκτης τόμου ανά εφαρμογή" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί να αναζητήσετε μια εναλλακτική λύση FineTune;</h2>
+
+<p>Το FineTune είναι μια ωραία ιδέα: μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα που σας δίνει έλεγχο έντασης ήχου ανά εφαρμογή στο macOS, κάτι που η Apple εξακολουθεί να αρνείται να ενσωματώσει (το Windows έχει μίκτη ανά εφαρμογή εδώ και χρόνια). Για πολλούς ανθρώπους κάνει τη βασική δουλειά. Αλλά υπάρχουν πραγματικοί λόγοι που οι χρήστες αναζητούν κάτι άλλο.</p>
+
+<ul>
+<li><strong>Η συντήρηση είναι αβέβαιη.</strong> Τα έργα χόμπι ανοιχτού κώδικα ζουν και πεθαίνουν στον ελεύθερο χρόνο ενός μόνο συντηρητή. Όταν το macOS αποστέλλει μια σημαντική ενημέρωση, οι εφαρμογές που σχετίζονται με τον ήχο είναι συχνά οι πρώτες που σπάνε και μένεις να περιμένεις μια εθελοντική επιδιόρθωση που μπορεί να μην έρθει ποτέ.</li>
+<li><strong>Χαρακτηριστικό ταβάνι.</strong> Το FineTune καλύπτει τον όγκο ανά εφαρμογή και τίποτα άλλο. Εάν θέλετε ενίσχυση πάνω από 100%, αποθηκευμένα προφίλ ή αυτόματη εκκένωση, πρέπει να βιδώσετε σε άλλα εργαλεία.</li>
+<li><strong>Εμπιστοσύνη και ενημερώσεις.</strong> Η εγκατάσταση μιας ακατέργαστης έκδοσης εκτός του App Store σημαίνει ότι δεν υπάρχει αυτόματος έλεγχος, δεν υπάρχουν εγγυήσεις sandbox και μη αυτόματες ενημερώσεις που πρέπει να παρακολουθείτε.</li>
+</ul>
+
+<p>Τίποτα από αυτά δεν κάνει το FineTune κακό. Σημαίνει απλώς ότι αν βασίζεστε στον ήχο ανά εφαρμογή κάθε μέρα, πιθανότατα θέλετε κάτι με ένα μοντέλο υποστήριξης πίσω από αυτό.</p>
+
+<h2>Τι κάνει διαφορετικά το SoundDial</h2>
+
+<p>Το SoundDial ξεκινά από την ίδια βασική ιδέα, έναν μίκτη στη γραμμή μενού με ένα ρυθμιστικό για κάθε εφαρμογή που εκτελείται, και στη συνέχεια προχωρά περαιτέρω με τις δυνατότητες που πραγματικά ζητούν οι ισχυροί χρήστες.</p>
+
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή.</strong> Απενεργοποιήστε το Spotify, διατηρήστε την κλήση σας σε πλήρη ένταση, απενεργοποιήστε εντελώς την εφαρμογή μιας θορυβώδους καρτέλας προγράμματος περιήγησης, όλα από ένα μενού.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή.</strong> Πιέστε μια αθόρυβη εφαρμογή πάνω από το κανονικό της ανώτατο όριο όταν ένα podcast ή ένα βίντεο κατακτήθηκε πολύ χαμηλά. Το FineTune δεν το κάνει αυτό.</li>
+<li><strong>Προφίλ τόμου.</strong> Αποθηκεύστε μια μίξη, "εστίαση", "gaming", "συσκέψεις" και αλλάξτε ολόκληρη τη ρύθμιση με ένα κλικ αντί να ωθήσετε πέντε ρυθμιστικά.</li>
+<li><strong>Αυτόματη πάπια.</strong> Χαμηλώστε αυτόματα τον ήχο του παρασκηνίου όταν αρχίζει να παίζει κάτι πιο σημαντικό, έτσι η μουσική μειώνεται όταν έρχεται μια κλήση.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου.</strong> Μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων εξόδων χωρίς να βουτήξετε στις Ρυθμίσεις συστήματος.</li>
+</ul>
+
+<p>Διότι <a href="https://apps.apple.com/app/id6772792641">Το SoundDial αποστέλλεται μέσω του Mac App Store</a>, έχει ελεγχθεί και εγκατασταθεί σε sandbox από την Apple, εγκαθίσταται καθαρά και ενημερώνεται μέσω του ίδιου μηχανισμού με κάθε άλλη εφαρμογή App Store. Δεν υπάρχει DMG για μεταφορά, κανένα πρόγραμμα οδήγησης ήχου ή επέκταση συστήματος και κανένα μήνυμα ασφαλείας που σας ζητά να επιτρέψετε ένα στοιχείο σε επίπεδο πυρήνα.</p>
+
+<h2>SoundDial εναντίον FineTune και τα άλλα δωρεάν εργαλεία</h2>
+
+<p>Το FineTune δεν είναι η μόνη δωρεάν επιλογή και σας βοηθά να δείτε ολόκληρο το τοπίο με ειλικρίνεια.</p>
+
+<ul>
+<li><strong>FineTune</strong> — Δωρεάν τόμος ανοιχτού κώδικα, γραμμή μενού ανά εφαρμογή. Απλό και ελαφρύ, αλλά χωρίς ώθηση, χωρίς προφίλ, χωρίς πάπια, και η συντήρηση εξαρτάται από την κοινότητα.</li>
+<li><strong>Background Music</strong> — Δωρεάν και ανοιχτού κώδικα, δρομολογεί και προσαρμόζει τον ήχο ανά εφαρμογή. Πραγματικά χρήσιμο, αλλά μπορεί να σπάσει σε νεότερες εκδόσεις macOS και στερείται ενίσχυσης, προφίλ και πάπιας.</li>
+<li><strong>eqMac</strong> — Δωρεάν EQ και ενισχυτής συστήματος. Εξαιρετικό αν θέλετε κυρίως ισοσταθμιστή, αλλά δεν είναι μίκτη ανά εφαρμογή.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — Η επιλογή pro-grade στα 39 $ περίπου, με EQ ανά εφαρμογή και δρομολόγηση εξόδου. Εξαιρετικό, αλλά χρειάζεται λήψη συν ένα πρόγραμμα οδήγησης καταγραφής ήχου και κοστίζει περισσότερο από το διπλάσιο.</li>
+<li><strong>SoundDial</strong> — 14,99 € εφάπαξ, App Store-ασφαλές, χωρίς προγράμματα οδήγησης. Προσθέτει ενίσχυση, προφίλ και αυτόματη απελευθέρωση πάνω από τα βασικά στοιχεία του όγκου ανά εφαρμογή.</li>
+</ul>
+
+<p>Η ειλικρινής περίληψη: αν θέλετε το απολύτως φθηνότερο πράγμα και χρειάζεστε μόνο βασικό όγκο ανά εφαρμογή, τα δωρεάν εργαλεία μπορούν να λειτουργήσουν. Εάν θέλετε EQ και δρομολόγηση ανά εφαρμογή και δεν σας πειράζει να πληρώσετε και να εγκαταστήσετε ένα πρόγραμμα οδήγησης, το SoundSource είναι το βαρύ. Το SoundDial βρίσκεται στην καλύτερη θέση, πιο ικανό από τις δωρεάν εφαρμογές, δραματικά φθηνότερο από το SoundSource και ασφαλέστερο στην εγκατάσταση από το καθένα επειδή η Apple το εξετάζει και το δοκιμάζει.</p>
+
+<h2>Μετακίνηση από το FineTune</h2>
+
+<p>Η εναλλαγή διαρκεί μερικά λεπτά και δεν υπάρχει τελετουργικό καθαρισμού.</p>
+
+<ul>
+<li>Εγκαταστήστε το SoundDial από το Mac App Store. Χωρίς πρόγραμμα εγκατάστασης, χωρίς έγκριση προγράμματος οδήγησης, χωρίς επανεκκίνηση.</li>
+<li>Κάντε κλικ στο εικονίδιο SoundDial στη γραμμή μενού σας για να δείτε ένα ρυθμιστικό για κάθε εφαρμογή που εκτελείται.</li>
+<li>Ρυθμίστε το καθημερινό σας μείγμα και, στη συνέχεια, αποθηκεύστε το ως προφίλ για να μπορείτε να το ανακαλέσετε αμέσως.</li>
+<li>Προαιρετικά, ενεργοποιήστε το auto-ducking, ώστε ο ήχος στο παρασκήνιο να παραμερίζεται για κλήσεις και ειδοποιήσεις.</li>
+<li>Όταν είστε χαρούμενοι, σταματήστε το FineTune. Δεδομένου ότι καμία εφαρμογή δεν εγκαθιστά προγράμματα οδήγησης συστήματος, δεν υπάρχει τίποτα που να καθυστερεί να απεγκαταστήσετε.</li>
+</ul>
+
+<p>Κρατάτε αυτό που σας άρεσε στο FineTune, έναν καθαρό μίκτη στη γραμμή μενού που δεν σας έδωσε ποτέ η Apple, και κερδίζετε την ώθηση, τα προφίλ, την πάπια και τη μακροπρόθεσμη υποστήριξη που παρέχει μια διατηρημένη εφαρμογή App Store.</p>
+
+<h2>Η ουσία</h2>
+
+<p>Το FineTune αποδεικνύει την ιδέα: ο όγκος ανά εφαρμογή ανήκει στη γραμμή μενού. Το SoundDial μοιάζει με αυτό το concept με ένα πραγματικό μοντέλο υποστήριξης, περισσότερες δυνατότητες και ασφάλεια App Store, με 14,99 € εφάπαξ αντί για στοιχηματισμό σε εθελοντική συντήρηση.</p>
+
+<p>Είστε έτοιμοι για έναν μίκτη ανά εφαρμογή που διατηρείται; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και ελέγξτε την ένταση ήχου κάθε εφαρμογής σε δευτερόλεπτα.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Εναλλακτική για πραγματικό όγκο ανά εφαρμογή στο Mac",
+    description: "Σας άρεσε η ώθηση του eqMac αλλά χρειάζεστε κατάλληλο όγκο, σίγαση και προφίλ ανά εφαρμογή; Το SoundDial είναι η ταχύτερη επιδιόρθωση Mac App Store — 14,99 €, σε sandbox, χωρίς προγράμματα οδήγησης.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν χρησιμοποιήσατε το eqMac για το EQ και τον ενισχυτή όγκου, αλλά θέλετε πραγματικά ανεξάρτητη ένταση ήχου για κάθε εφαρμογή — συν σίγαση, ενίσχυση και αποθηκευμένα προφίλ — η πιο γρήγορη και αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Είναι ένας μίκτης γραμμής μενού Mac App Store: ορίστε ένα επίπεδο ανά εφαρμογή, ενισχύστε τις αθόρυβες και αλλάξτε προφίλ αμέσως. 14,99 € εφάπαξ, σε sandbox, χωρίς προγράμματα οδήγησης για εγκατάσταση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — eqMac Εναλλακτική λύση για πραγματικό όγκο ανά εφαρμογή στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac έναντι αυτού που πραγματικά χρειάζεστε</h2>
+
+<p>Το eqMac είναι ένα σταθερό δωρεάν εργαλείο και ο ισοσταθμιστής σε όλο το σύστημα και ο ενισχυτής έντασης είναι πραγματικά χρήσιμοι. Αλλά το eqMac είναι χτισμένο γύρω από ένα κύριο EQ και μια κύρια έξοδο. Δεν σας προσφέρει έναν πραγματικό μίκτη όγκου ανά εφαρμογή — αυτό που είχε το Windows εδώ και χρόνια και το macOS εξακολουθεί να μην αποστέλλεται εγγενώς.</p>
+
+<p>Επομένως, εάν το πραγματικό σας πρόβλημα είναι "Το Spotify είναι πολύ δυνατό ενώ είμαι σε κλήση" ή "αυτό το παιχνίδι βγάζει τα αυτιά μου, αλλά όλα τα άλλα είναι καλά", το eqMac δεν είναι το κατάλληλο σχήμα για τη δουλειά. Καταλήγετε να χρησιμοποιείτε ένα μόνο κύριο ρυθμιστικό ή να ασχολείστε με τον εσωτερικό όγκο κάθε εφαρμογής. Αυτό είναι το κενό που καλύπτει το SoundDial.</p>
+
+<h2>Αυτό που κάνει το SoundDial δεν το κάνει το eqMac</h2>
+
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — Μουσική στο 40%, πρόγραμμα περιήγησης στο 100%, βιντεοκλήση στο 70%, όλα ταυτόχρονα, όλα απομνημονευμένα.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας θορυβώδους εφαρμογής αμέσως χωρίς να αγγίξετε τίποτα άλλο.</li>
+<li><strong>Ενίσχυση ανά εφαρμογή</strong> — ωθήστε μια ήσυχη εφαρμογή πέρα από το κανονικό της ανώτατο όριο, όπως κάνει ο ενισχυτής του eqMac, αλλά στοχεύστε σε μία μόνο εφαρμογή αντί για ολόκληρο το σύστημα.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε ρυθμίσεις όπως "Εστίαση", "Παιχνίδια" ή "Συνάντηση" και αλλάξτε ολόκληρη τη μίξη με ένα κλικ.</li>
+<li><strong>Αυτόματη πάπια</strong> — αυτόματη απόρριψη του ήχου παρασκηνίου όταν ξεκινά κάτι πιο σημαντικό, ώστε να μην αναζητάτε ένα ρυθμιστικό κατά τη διάρκεια της κλήσης.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων εξόδων από τη γραμμή μενού.</li>
+</ul>
+
+<p>Η επικάλυψη με το eqMac είναι βασικά η ώθηση. Οτιδήποτε άλλο — το μίξερ, η σίγαση, τα προφίλ, η πάπια — είναι μια περιοχή που δεν σχεδιάστηκε ποτέ να καλύπτει το eqMac.</p>
+
+<h2>Θέλετε ακόμα EQ;</h2>
+
+<p>Να είστε ειλικρινείς σχετικά με το πρόβλημα που λύνετε. Εάν χρειάζεστε ειλικρινά EQ συχνότητας — να κόβετε μπάσα, να δαμάζετε δυνατές υψηλές, διαμορφώνοντας τον τόνο ολόκληρου του συστήματός σας — τότε το eqMac έχει ακόμα μια θέση και είναι δωρεάν. Το SoundDial είναι μίκτης όγκου, όχι ισοσταθμιστής.</p>
+
+<p>Αλλά οι περισσότεροι άνθρωποι επιδιώκουν τον ενισχυτή του eqMac όχι επειδή θέλουν να διαμορφώσουν τις συχνότητες, θέλουν μια εφαρμογή πιο δυνατή ή το μείγμα ισορροπημένο. Εάν είστε εσείς, η πιο καθαρή απάντηση είναι ένας ειδικός αναμίκτης. Μπορείτε ακόμη και να εκτελέσετε και τα δύο: διατηρήστε το eqMac για μια καμπύλη EQ σε όλο το σύστημα και χρησιμοποιήστε το SoundDial για επίπεδα ανά εφαρμογή. Δεν τσακώνονται για την ίδια δουλειά.</p>
+
+<h2>Πώς συγκρίνεται με τα άλλα εργαλεία ήχου Mac</h2>
+
+<p>Εφόσον είστε ήδη κυνήγι εργαλείων, ορίστε το ειλικρινές τοπίο:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — η επιλογή pro-grade στα 39 $ περίπου, με EQ ανά εφαρμογή και πλήρη δρομολόγηση εξόδου. Ισχυρό, αλλά χρειάζεται απευθείας λήψη και εγκαθιστά ένα πρόγραμμα οδήγησης καταγραφής ήχου. Υπερβολικό και ακριβότερο, αν το μόνο που θέλετε είναι όγκος ανά εφαρμογή με προφίλ.</li>
+<li><strong>Background Music</strong> — δωρεάν και ανοιχτού κώδικα, αλλά μπορεί να διακοπεί σε νεότερες εκδόσεις macOS και δεν έχει καμία ενίσχυση, χωρίς προφίλ και χωρίς αυτόματη απελευθέρωση. Εξαιρετικό όταν λειτουργεί, απογοητευτικό όταν δεν λειτουργεί.</li>
+<li><strong>FineTune</strong> — μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα. Αξίζει να το κοιτάξετε αν το 0$ είναι η σκληρή απαίτηση, αν και είναι πιο ελαφρύ σε χαρακτηριστικά και στιλβωτικό.</li>
+<li><strong>eqMac</strong> — δωρεάν ενισχυτής EQ plus, αλλά όχι αληθινός μίκτης ανά εφαρμογή, όπως καλύπτεται παραπάνω.</li>
+</ul>
+
+<p>Το SoundDial βρίσκεται στο γλυκό σημείο: πιο εστιασμένο και φθηνότερο από το SoundSource, πιο ικανό και πιο αξιόπιστο από τις δωρεάν επιλογές και κάνει τη δουλειά ανά εφαρμογή που δεν κάνει το eqMac.</p>
+
+<h2>Γιατί το Mac App Store έχει σημασία εδώ</h2>
+
+<p>Πολλά από αυτά τα εργαλεία απαιτούν άμεση λήψη και πρόγραμμα οδήγησης ήχου σε επίπεδο πυρήνα ή λήψης. Αυτά λειτουργούν, αλλά είναι το είδος του πράγματος που μπορεί να εμποδίσει μια ενημέρωση macOS ή να σκοντάψει σε μια κλειδωμένη εργασία Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> αντ' αυτού αποστέλλεται μέσω του Mac App Store. Αυτό σημαίνει ότι είναι ελεγμένο από την Apple και sandbox, εγκαθίσταται καθαρά χωρίς DMG για μεταφορά και δεν υπάρχουν προγράμματα οδήγησης ήχου ή επεκτάσεις συστήματος για έγκριση. Οι ενημερώσεις φτάνουν μέσω του App Store όπως κάθε άλλη εφαρμογή και η απεγκατάσταση είναι μια κανονική διαγραφή. Για ένα βοηθητικό πρόγραμμα γραμμής μενού που αγγίζει τον ήχο σας, αυτή η διαδρομή χαμηλότερης τριβής και χαμηλότερου κινδύνου αξίζει πολλά.</p>
+
+<h2>Η γρήγορη ρύθμιση</h2>
+
+<ul>
+<li>Εγκαταστήστε το SoundDial από το Mac App Store — χωρίς επανεκκίνηση, χωρίς προτροπή προγράμματος οδήγησης.</li>
+<li>Ανοίξτε το εικονίδιο της γραμμής μενού. κάθε εφαρμογή που παράγει ήχο εμφανίζεται με το δικό της ρυθμιστικό.</li>
+<li>Ορίστε επίπεδα, κάντε σίγαση ό,τι δεν χρειάζεστε και ενισχύστε οτιδήποτε πολύ ήσυχο.</li>
+<li>Αποθηκεύστε τη διάταξη ως προφίλ και, στη συνέχεια, δημιουργήστε περισσότερα για παιχνίδια, κλήσεις ή εστίαση.</li>
+<li>Ενεργοποιήστε το auto-ducking, ώστε ο ήχος στο παρασκήνιο να παραμερίζεται αυτόματα.</li>
+</ul>
+
+<p>Αυτός είναι όλος ο βρόχος. Μέσα σε λίγα λεπτά θα έχετε μόνο υπαινιγμό για τον ενισχυτή του eqMac ελέγχου ανά εφαρμογή.</p>
+
+<p><strong>Είστε έτοιμοι για πραγματικό όγκο ανά εφαρμογή στο Mac;</strong> <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> — 14,99 € εφάπαξ, σε sandbox, χωρίς προγράμματα οδήγησης, και κάνει ακριβώς αυτό που πρέπει να κάνει ένας μίκτης μενού-μπαρ.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "Ο φθηνότερος μίξερ καλής έντασης για το Mac το 2026",
+    description: "Αναζητάτε τον φθηνότερο καλό μείκτη όγκου ανά εφαρμογή για το Mac το 2026; Συγκρίνετε τα SoundDial, SoundSource, Background Music, FineTune και eqMac σχετικά με την τιμή, την ασφάλεια και τα χαρακτηριστικά.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Ο καλύτερος μείκτης όγκου αξίας ανά εφαρμογή για το Mac το 2026 είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια εφαρμογή γραμμής μενού στο Mac App Store με 14,99 € εφάπαξ. Δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης ήχου, καθώς και σίγαση, ενίσχυση, προφίλ και αυτόματη απελευθέρωση — χωρίς προγράμματα οδήγησης, χωρίς συνδρομή και χωρίς επικίνδυνες λήψεις. Είναι η φθηνότερη επί πληρωμή επιλογή που λειτουργεί πραγματικά αξιόπιστα.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ο φθηνότερος καλός μίξερ όγκου για το Mac το 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το «φθηνότερο» χρειάζεται ορισμό</h2>
+<p>Υπάρχουν δωρεάν εργαλεία όγκου για το Mac, οπότε αν ο μόνος στόχος είναι να ξοδέψετε μηδενικά, έχετε επιλογές. Αλλά το δωρεάν συνήθως σας κοστίζει κάπου αλλού: ευθραυστότητα στις νέες εκδόσεις macOS, λειτουργίες που λείπουν όπως η ενίσχυση ή τα προφίλ ή μια διαδικασία εγκατάστασης που περιλαμβάνει ένα πρόγραμμα οδήγησης καταγραφής ήχου που πρέπει να εμπιστευτείτε. "Το φθηνότερο αγαθό" σημαίνει τη χαμηλότερη τιμή που εξακολουθεί να σας εξασφαλίζει έναν σταθερό μίκτη με πλήρεις δυνατότητες που θα συνεχίσετε να χρησιμοποιείτε. Αυτός είναι ο φακός που θα χρησιμοποιήσουμε εδώ.</p>
+
+<h2>Πρώτον, αυτό που δεν κάνει το macOS</h2>
+<p>Το Windows διαθέτει μείκτη έντασης ήχου ανά εφαρμογή εδώ και χρόνια — κάντε δεξί κλικ στο εικονίδιο του ηχείου και ρυθμίστε κάθε εφαρμογή ανεξάρτητα. Το macOS δεν έχει ακόμα τίποτα αντίστοιχο ενσωματωμένο. Παίρνετε έναν κύριο τόμο και όποιο εσωτερικό ρυθμιστικό τυχαίνει να αποσταλεί μια εφαρμογή (Μουσική, ορισμένα προγράμματα περιήγησης). Δεν υπάρχει τρόπος σε όλο το σύστημα να κάνετε το Slack πιο αθόρυβο από το Spotify ή να ενισχύσετε μια αθόρυβη βιντεοκλήση πάνω από οτιδήποτε άλλο. Κάθε επιλογή παρακάτω υπάρχει για να καλύψει αυτό το κενό.</p>
+
+<h2>Οι υποψήφιοι, τιμολογήθηκαν με ειλικρίνεια</h2>
+
+<h2>SoundDial — 14,99 €, εφάπαξ</h2>
+<p>Το SoundDial ζει στη γραμμή μενού σας και δίνει σε κάθε εφαρμογή που εκτελείται ένα ανεξάρτητο ρυθμιστικό έντασης. Πέρα από τα βασικά, προσθέτει τα χαρακτηριστικά που προσεγγίζουν πραγματικά οι άνθρωποι:</p>
+<ul>
+<li><strong>Ενίσχυση ανά εφαρμογή</strong> — ωθήστε μια πολύ αθόρυβη εφαρμογή πάνω από το 100% αντί να ζοριστείτε για να την ακούσετε.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας εφαρμογής χωρίς να αγγίξετε την υπόλοιπη.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια μίξη "εργασίας" ή "βραδιά ταινίας" και ανακαλέστε την αμέσως.</li>
+<li><strong>Αυτόματη πάπια</strong> — αυτόματη απόρριψη ήχου παρασκηνίου όταν παίζει κάτι πιο σημαντικό.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών από το ίδιο μενού.</li>
+</ul>
+<p>Επειδή είναι στο Mac App Store, είναι sandbox, ελεγμένο από την Apple και εγκαθίσταται καθαρά — χωρίς DMG, χωρίς επέκταση πυρήνα, χωρίς πρόγραμμα οδήγησης ήχου για έγκριση. Πληρώνεις <a href="https://apps.apple.com/app/id6772792641">14,99 € μία φορά</a> και να το κατέχεις. Για τους περισσότερους ανθρώπους, αυτό είναι το γλυκό σημείο: αρκετά φθηνό για να είναι ένα εύκολο ναι, αρκετά ολοκληρωμένο που δεν θα το ξεπεράσετε.</p>
+
+<h2>SoundSource — ~ 39$, η επαγγελματική επιλογή</h2>
+<p>Το SoundSource του Rogue Amoeba είναι το χρυσό πρότυπο για ισχυρούς χρήστες. Κάνει ένταση ήχου ανά εφαρμογή και σίγαση όπως το SoundDial, αλλά προχωρά περαιτέρω με ισοσταθμιστές ανά εφαρμογή και πλήρη δρομολόγηση εξόδου (στείλτε μια εφαρμογή στα ακουστικά και μια άλλη στα ηχεία). Είναι πραγματικά εξαιρετικό — αλλά κοστίζει περίπου 39 $ και εγκαθίσταται εκτός του App Store με ένα στοιχείο λήψης ήχου για το οποίο πρέπει να χορηγήσετε άδεια. Αν χρειάζεστε EQ ανά εφαρμογή ή σύνθετη δρομολόγηση, αξίζει τα χρήματα. Εάν θέλετε απλώς ένα καθαρό, φθηνό μίξερ, πληρώνετε για δυνατότητες που μπορεί να μην αγγίξετε ποτέ.</p>
+
+<h2>Background Music — δωρεάν, ανοιχτού κώδικα</h2>
+<p>Το Background Music είναι μια πολύ γνωστή δωρεάν εφαρμογή ανοιχτού κώδικα που προσφέρει όγκο ανά εφαρμογή και αυτόματη παύση. Το πρόβλημά του: γαντζώνεται βαθιά στο Core Audio μέσω ενός εικονικού προγράμματος οδήγησης και έχει μακρά ιστορία διακοπής στις νέες εκδόσεις macOS, μερικές φορές χρειάζεται μη αυτόματες επιδιορθώσεις ή επανεγκατάσταση μετά από ενημερώσεις. Επίσης, στερείται ενίσχυσης, αποθηκευμένων προφίλ και αυτόματης εκκίνησης. Ιδανικό για τεχνίτες που δεν τους πειράζει η συντήρηση. απογοητευτικό αν θέλετε απλώς να λειτουργήσει.</p>
+
+<h2>FineTune — δωρεάν, γραμμή μενού</h2>
+<p>Το FineTune είναι μια δωρεάν εφαρμογή όγκου γραμμής μενού ανοιχτού κώδικα. Είναι ελαφρύ και ευχάριστο και για απλή προσαρμογή ανά εφαρμογή μπορεί να είναι αρκετή. Ωστόσο, ως ένα μικρό δωρεάν έργο, δεν ταιριάζει με το βάθος των χαρακτηριστικών — κανένα προφίλ, καμία αυτόματη εκτόξευση και ο χειρισμός ενίσχυσης/εξόδου δεν είναι περιορισμένοι. Μηδενικό κόστος, λιγότερες εγγυήσεις μακροζωίας και υποστήριξης.</p>
+
+<h2>eqMac — δωρεάν, ενισχυτής EQ +</h2>
+<p>Ο eqMac είναι ένας δωρεάν ισοσταθμιστής σε όλο το σύστημα με ενισχυτή έντασης. Έχει να κάνει περισσότερο με τη διαμόρφωση του τόνου και της έντασης σε ολόκληρο το Mac παρά με τη μίξη μεμονωμένων εφαρμογών, επομένως είναι ένα διαφορετικό εργαλείο για μια διαφορετική εργασία. Εάν θέλετε συγκεκριμένα έλεγχο ανά εφαρμογή, το eqMac δεν είναι πραγματικά η απάντηση, αν και είναι ένα εξαιρετικό δωρεάν EQ.</p>
+
+<h2>Τιμή έναντι αξίας: το τίμιο τραπέζι</h2>
+<ul>
+<li><strong>Πραγματικά δωρεάν, αλλά με ανταλλαγές:</strong> Background Music (εύθραυστο, βασισμένο σε προγράμματα οδήγησης), FineTune (λεπτά χαρακτηριστικά), eqMac (EQ, όχι μείκτη).</li>
+<li><strong>Η φθηνότερη ολοκληρωμένη εφαρμογή επί πληρωμή:</strong> SoundDial στα 14,99 € — ενίσχυση, προφίλ, πάπια, ασφάλεια App Store.</li>
+<li><strong>Premium/pro:</strong> SoundSource στα ~39$ — EQ και δρομολόγηση, εγκατάσταση εκτός App-Store.</li>
+</ul>
+<p>Με άλλα λόγια: Το SoundDial κοστίζει περίπου το ένα τρίτο του SoundSource, ενώ καλύπτει τα χαρακτηριστικά που πραγματικά θέλουν το 90% των ανθρώπων. Και σε αντίθεση με τις δωρεάν επιλογές, δεν θα σπάσει ήσυχα μετά από μια ενημέρωση macOS, επειδή δεν βασίζεται σε ένα εύθραυστο πρόγραμμα οδήγησης ήχου σε επίπεδο συστήματος.</p>
+
+<h2>Ποιο να διαλέξεις;</h2>
+<p>Εάν είστε επαγγελματίας που χρειάζεται EQ ανά εφαρμογή και για να δρομολογείτε εφαρμογές σε διαφορετικές εξόδους, αγοράστε το SoundSource — κερδίζει την τιμή του. Αν σας αρέσει ο ανοιχτός κώδικας και δεν σας πειράζει το περιστασιακό σπάσιμο, δοκιμάστε το Background Music ή το FineTune δωρεάν. Αλλά αν θέλετε τη φθηνότερη επιλογή που λειτουργεί - ανεξάρτητη ένταση ήχου, ενίσχυση, σίγαση, προφίλ με δυνατότητα αποθήκευσης και αυτόματη απενεργοποίηση, εγκατεστημένη με ασφάλεια από το App Store - το SoundDial είναι ο ξεκάθαρος νικητής της αξίας για το 2026.</p>
+
+<blockquote>Ο καλύτερος μίκτης δεν είναι αυτός με τις περισσότερες δυνατότητες ή τη χαμηλότερη τιμή — είναι αυτός που ρυθμίζετε μια φορά και τον ξεχνάτε. Στα 14,99 €, το SoundDial το κάνει μια εύκολη κλήση.</blockquote>
+
+<p>Είστε έτοιμοι να δώσετε σε κάθε εφαρμογή τον δικό της όγκο; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για εφάπαξ €14,99 — χωρίς συνδρομή, χωρίς προγράμματα οδήγησης, χωρίς κίνδυνο.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Windows Volume Mixer για Mac: Αποκτήστε έλεγχο έντασης ανά εφαρμογή",
+    description: "Σας λείπει το Volume Mixer Windows στο Mac; Το macOS δεν διαθέτει ενσωματωμένο έλεγχο έντασης ήχου ανά εφαρμογή. Εδώ είναι ο πιο γρήγορος τρόπος για να το αποκτήσετε: SoundDial, ένα μίξερ μενού-μπαρ 14,99 €.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένο Volume Mixer όπως το Windows, επομένως δεν μπορείτε να ρυθμίσετε την ένταση ήχου ανά εφαρμογή από τις Ρυθμίσεις συστήματος. Η πιο γρήγορη, αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια εφαρμογή γραμμής μενού 14,99 € από το Mac App Store. Δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, σίγαση και ενίσχυση — χωρίς προγράμματα οδήγησης, χωρίς DMG, χωρίς επικίνδυνες εγκαταστάσεις.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows Volume Mixer για Mac: Λήψη ελέγχου έντασης ανά εφαρμογή" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το Windows Volume Mixer δεν έχει ισοδύναμο Mac</h2>
+
+<p>Εάν αλλάξατε από το Windows, ένα από τα πρώτα πράγματα που θα χάσετε είναι το Volume Mixer: κάντε δεξί κλικ στο εικονίδιο του ηχείου και κάθε εφαρμογή που εκτελείται έχει το δικό της ρυθμιστικό. Χαμηλώστε το Chrome, διατηρήστε το Discord δυνατά, σίγαση του Spotify — όλα σε ένα μέρος.</p>
+
+<p>Το macOS απλά δεν το στέλνει. Ο έλεγχος έντασης ήχου της Apple είναι ένας ενιαίος ρυθμιστής σε όλο το σύστημα. Όποιο επίπεδο κι αν ορίσετε ισχύει για όλα ταυτόχρονα. Δεν υπάρχει καμία επιλογή ανά εφαρμογή κρυμμένη στις Ρυθμίσεις συστήματος, καμία εντολή Terminal, καμία εναλλαγή προσβασιμότητας. Είναι ένα πραγματικό κενό, και είναι έτσι εδώ και χρόνια.</p>
+
+<p>Ο λόγος είναι αρχιτεκτονικός: οι εφαρμογές δρομολογούν τον ήχο μέσω του Core Audio στη συσκευή εξόδου σας και το λειτουργικό σύστημα δεν εκθέτει έναν μίκτη που βλέπει τον χρήστη για τις μεμονωμένες ροές. Για να αναδημιουργήσετε την εμπειρία Windows, χρειάζεστε μια εφαρμογή τρίτου κατασκευαστή που βρίσκεται σε αυτήν τη διαδρομή ήχου και σας δίνει τα στοιχεία ελέγχου που η Apple άφησε έξω.</p>
+
+<h2>Το πιο κοντινό ταίριασμα: SoundDial</h2>
+
+<p>Το SoundDial είναι ένας μίκτης έντασης ήχου γραμμής μενού ανά εφαρμογή που έχει κατασκευαστεί ειδικά για αυτό. Κάντε κλικ στο εικονίδιό του και θα λάβετε μια καθαρή λίστα με οτιδήποτε παίζει ήχο, το καθένα με το δικό του ρυθμιστικό. Είναι το πιο άμεσο "Windows Volume Mixer για Mac" που μπορείτε να εγκαταστήσετε και κάνει μερικά πράγματα που ο μίκτης Windows δεν θα μπορούσε ποτέ:</p>
+
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — το βασικό χαρακτηριστικό. Ρυθμίστε το Chrome στο 40%, το Zoom στο 100%, τη μουσική στο 20%.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας εφαρμογής χωρίς να αγγίξετε την υπόλοιπη.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — σπρώξτε μια αθόρυβη εφαρμογή <em>παραπάνω</em> 100% όταν ο δικός του ήχος είναι πολύ χαμηλός.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια μίξη (π.χ. "κλήση εργασίας" ή "παιχνίδι") και ανακαλέστε την αμέσως αντί να σύρετε ξανά τα ρυθμιστικά.</li>
+<li><strong>Αυτόματη πάπια</strong> — μειώνει αυτόματα τον ήχο παρασκηνίου όταν ξεκινά κάτι πιο σημαντικό, όπως μια κλήση.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών από το ίδιο μενού.</li>
+</ul>
+
+<p>Επειδή είναι στο <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, έχει αξιολογηθεί από την Apple και έχει εγκατασταθεί σε sandbox. Εγκαθίσταται καθαρά με ένα κλικ — χωρίς DMG για μεταφορά, χωρίς πρόγραμμα οδήγησης ήχου ή επέκταση συστήματος για έγκριση, χωρίς μηνύματα ασφαλείας. Με 14,99 € εφάπαξ (χωρίς συνδρομή), είναι ο απλούστερος τρόπος για να κλείσετε τη διαφορά.</p>
+
+<h2>Πώς να ρυθμίσετε τον τόμο ανά εφαρμογή στο Mac</h2>
+
+<ol>
+<li>Εγκαταστήστε το SoundDial από το Mac App Store.</li>
+<li>Εκχωρήστε την εφάπαξ άδεια ήχου που ζητά κατά την πρώτη εκκίνηση.</li>
+<li>Κάντε κλικ στο εικονίδιο SoundDial στη γραμμή μενού σας.</li>
+<li>Σύρετε το ρυθμιστικό δίπλα σε οποιαδήποτε εφαρμογή για να ρυθμίσετε την ένταση του ήχου ή πατήστε Mute/boost.</li>
+<li>Προαιρετικά, αποθηκεύστε την τρέχουσα μίξη ως προφίλ, ώστε να μπορείτε να την επαναφέρετε αργότερα.</li>
+</ol>
+
+<p>Αυτή είναι όλη η ροή εργασίας. Συμπεριφέρεται όπως ο μίκτης Windows που ήδη γνωρίζετε, μόνο από τη γραμμή μενού αντί για δεξί κλικ στη γραμμή εργασιών.</p>
+
+<h2>Πώς το SoundDial συγκρίνεται με άλλες επιλογές</h2>
+
+<p>Το SoundDial δεν είναι το μόνο εργαλείο σε αυτόν τον χώρο, επομένως εδώ είναι μια ειλικρινής ματιά στις εναλλακτικές λύσεις.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — περίπου 39 $ και πραγματικά προνομιακό: EQ ανά εφαρμογή, δρομολόγηση εξόδου ανά εφαρμογή, εφέ. Αλλά απαιτεί άμεση λήψη συν ένα πρόγραμμα οδήγησης καταγραφής ήχου και είναι υπερβολικό (και ακριβότερο) αν θέλετε απλώς τον όγκο ανά εφαρμογή. Επιλέξτε το εάν χρειάζεστε EQ και δρομολόγηση. επιλέξτε SoundDial εάν θέλετε το μίξερ χωρίς την πολυπλοκότητα ή το πρόγραμμα οδήγησης.</li>
+<li><strong>Background Music</strong> — δωρεάν και ανοιχτού κώδικα, το οποίο είναι υπέροχο. Το πρόβλημά του: μπορεί να σπάσει σε νεότερες εκδόσεις macOS και δεν διαθέτει ενίσχυση, αποθηκευμένα προφίλ και αυτόματη εκτόξευση. Ωραία εάν αισθάνεστε άνετα με την αντιμετώπιση προβλημάτων προγραμμάτων οδήγησης ήχου ανοιχτού κώδικα. λιγότερο ιδανικό αν θέλετε κάτι που απλά λειτουργεί.</li>
+<li><strong>FineTune</strong> — μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα. Ελαφρύ και αξίζει να το δείτε αν ο προϋπολογισμός είναι η προτεραιότητα, αλλά διαπραγματεύεστε δωρεάν βερνίκια, προφίλ και ασφάλεια App Store.</li>
+<li><strong>eqMac</strong> — δωρεάν EQ και ενισχυτής σε όλο το σύστημα. Είναι πρώτα ένας ισοσταθμιστής, όχι ένας μίκτης ανά εφαρμογή, οπότε λύνει ένα διαφορετικό πρόβλημα.</li>
+</ul>
+
+<p>Η αντιστάθμιση είναι απλή. Τα δωρεάν εργαλεία δεν κοστίζουν τίποτα, αλλά μπορεί να είναι εύθραυστα ή λεπτά. Το SoundSource είναι ισχυρό αλλά ακριβό και βασίζεται σε προγράμματα οδήγησης. Το SoundDial βρίσκεται στη γλυκιά θέση: ένα εφάπαξ 14,99 €, App Store ασφάλεια και sandboxing, και τα προφίλ + αυτόματη πάπια που παραλείπουν οι δωρεάν επιλογές.</p>
+
+<blockquote>Αν το μόνο που θέλετε είναι η εμπειρία μείκτη έντασης ήχου Windows — ρυθμιστικά ανά εφαρμογή, σίγαση και ενίσχυση, εγκατεστημένη με ασφάλεια σε δευτερόλεπτα — Το SoundDial είναι η πιο άμεση αντιστοίχιση.</blockquote>
+
+<h2>Η ουσία</h2>
+
+<p>Το macOS δεν θα σας δώσει Volume Mixer και πιθανότατα δεν θα το κάνει ποτέ. Αλλά δεν χρειάζεται να ζείτε με ένα ρυθμιστικό σε όλο το σύστημα. Ένας αποκλειστικός μίκτης γραμμής μενού επαναφέρει τον έλεγχο ανά εφαρμογή που είχατε στο Windows και προσθέτει ενίσχυση, προφίλ και αυτόματο πάπινγκ από πάνω.</p>
+
+<p>Είστε έτοιμοι να αποκτήσετε τον όγκο ανά εφαρμογή με τον εύκολο τρόπο; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για 14,99 € — εφάπαξ, σε sandbox και εγκατάσταση σε δευτερόλεπτα.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Ρυθμίστε την ένταση της εφαρμογής όπως κάνει το Windows — στο Mac σας",
+    description: "Το Windows διαθέτει μίκτη έντασης ανά εφαρμογή, αλλά το macOS δεν έχει. Δείτε πώς μπορείτε να ορίσετε ανεξάρτητη ένταση ήχου για κάθε εφαρμογή στο Mac — γρήγορα, με ασφάλεια και χωρίς προγράμματα οδήγησης.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένο μίκτη όγκου ανά εφαρμογή όπως αυτό στο Windows, επομένως η πιο γρήγορη αξιόπιστη επιδιόρθωση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια εφαρμογή γραμμής μενού Mac App Store που δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, σίγαση ανά εφαρμογή και ενίσχυση έντασης. Είναι sandboxed, έχει ελεγχθεί από την Apple, εγκαθίσταται χωρίς προγράμματα οδήγησης και κοστίζει 14,99 € μία φορά.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ρυθμίστε την ένταση της εφαρμογής όπως το Windows — στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το Windows μπορεί να το κάνει αυτό και το macOS όχι</h2>
+<p>Εάν έχετε χρησιμοποιήσει το Windows, γνωρίζετε το τρυπάνι: κάντε δεξί κλικ στο εικονίδιο του ηχείου, ανοίξτε το Volume Mixer και σύρετε ένα ξεχωριστό ρυθμιστικό για τα Chrome, Spotify, Discord και οτιδήποτε άλλο κάνει θόρυβο. Είναι απλό και απλά λειτουργεί.</p>
+<p>Το macOS δεν έστειλε ποτέ το αντίστοιχο. Τα χειριστήρια ήχου της Apple είναι καθολικά — μία κύρια ένταση για ολόκληρο το σύστημα. Μπορείτε να κάνετε σίγαση μιας εφαρμογής κλείνοντας την πηγή μέσα σε αυτήν την εφαρμογή (αν έχει καν έλεγχο), αλλά δεν υπάρχει ενοποιημένο μέρος για να πείτε "διατήρηση της μουσικής μου στο 40% ενώ η συνάντησή μου παραμένει στο 100%. Αυτό το κενό είναι ακριβώς ο λόγος για τον οποίο υπάρχουν μίκτες τρίτων.</p>
+
+<h2>Η πιο γρήγορη λύση: ένας μίκτης μενού-μπαρ</h2>
+<p>Η πιο κοντινή αντιστοίχιση με την εμπειρία Windows είναι μια εφαρμογή γραμμής μενού που παραθέτει τις εφαρμογές ήχου που εκτελούνται και δίνει σε καθεμία ένα ρυθμιστικό. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> κάνει ακριβώς αυτό. Κάντε κλικ στο εικονίδιο του στη γραμμή μενού και θα λάβετε:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος για κάθε εφαρμογή</strong> — σύρετε το Spotify προς τα κάτω χωρίς να αγγίξετε την κλήση σας.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας θορυβώδους εφαρμογής αμέσως, αφήστε τις υπόλοιπες να παίζουν.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — προωθήστε μια πολύ ήσυχη εφαρμογή <em>παραπάνω</em> 100% όταν το δικό του μέγιστο είναι ακόμα πολύ μαλακό.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια μίξη "Work" ή "Gaming" και ανακαλέστε την με ένα κλικ.</li>
+<li><strong>Αυτόματη πάπια</strong> — μειώνει αυτόματα τον ήχο παρασκηνίου όταν ξεκινά κάτι πιο σημαντικό.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων εξόδων από το ίδιο μενού.</li>
+</ul>
+<p>Επειδή είναι στο Mac App Store, έχει εγκριθεί και ελεγχθεί από την Apple, εγκαθίσταται καθαρά και δεν υπάρχει DMG για μεταφορά, καμία επέκταση πυρήνα και πρόγραμμα οδήγησης ήχου για έγκριση στις Ρυθμίσεις συστήματος. Αυτό το τελευταίο μέρος έχει μεγαλύτερη σημασία από ό,τι ακούγεται — τα εργαλεία που βασίζονται σε προγράμματα οδήγησης είναι αυτά που τείνουν να χαλάνε μετά τις ενημερώσεις macOS.</p>
+
+<h2>Πώς να το ρυθμίσετε (περίπου δύο λεπτά)</h2>
+<ul>
+<li><strong>1.</strong> Εγκαταστήστε το SoundDial από το Mac App Store και εκκινήστε το.</li>
+<li><strong>2.</strong> Εκχωρήστε την άδεια ήχου που ζητά το macOS — αυτό είναι που επιτρέπει στην εφαρμογή να βλέπει ροές ανά εφαρμογή.</li>
+<li><strong>3.</strong> Κάντε κλικ στο εικονίδιο SoundDial στη γραμμή μενού σας. Κάθε εφαρμογή που παίζει ήχο αυτή τη στιγμή εμφανίζεται με το δικό της ρυθμιστικό.</li>
+<li><strong>4.</strong> Σύρετε το ρυθμιστικό οποιασδήποτε εφαρμογής για να ορίσετε το επίπεδό της ή πατήστε σίγαση. Ενίσχυση πέραν του 100% όταν μια εφαρμογή είναι πολύ αθόρυβη.</li>
+<li><strong>5.</strong> (Προαιρετικό) Αποθηκεύστε την τρέχουσα μίξη σας ως προφίλ, ώστε να μπορείτε να την επαναφέρετε αργότερα και ενεργοποιήστε την αυτόματη αναπαραγωγή αν θέλετε να πέφτει αυτόματα ο ήχος παρασκηνίου.</li>
+</ul>
+<p>Αυτή είναι όλη η ροή εργασίας. Συμπεριφέρεται όπως το Windows Volume Mixer που ήδη γνωρίζετε, μείον την τριβή ρύθμισης.</p>
+
+<h2>Τι γίνεται με τις δωρεάν και τις υπέρ εναλλακτικές;</h2>
+<p>Υπάρχουν άλλοι τρόποι για να αποκτήσετε όγκο ανά εφαρμογή σε ένα Mac. Αξίζουν να τα γνωρίζετε, ώστε να μπορείτε να τα επιλέξετε με ειλικρίνεια.</p>
+<blockquote>Τα δωρεάν εργαλεία ανταλλάσσουν χρήματα για αξιοπιστία και χαρακτηριστικά. τα pro tools ανταλλάσσουν χρήματα και ρυθμίσεις για βάθος που μπορεί να μην χρειάζεστε.</blockquote>
+<p><strong>Background Music</strong> είναι δωρεάν και ανοιχτού κώδικα και παρέχει όγκο ανά εφαρμογή. Το πλεονέκτημα: αγκιστρώνεται βαθιά στο ηχοσύστημα και έχει ιστορικό θραύσης σε νεότερες εκδόσεις macOS και δεν έχει τόνωση, προφίλ και αυτόματη εκτόξευση. Αν λειτουργεί με τις ρυθμίσεις σας, είναι υπέροχο — αλλά είναι ένα στοίχημα με τις αναβαθμίσεις.</p>
+<p><strong>FineTune</strong> είναι μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα στο ίδιο πνεύμα με το SoundDial. Είναι ένα καλό σημείο εκκίνησης εάν ο προϋπολογισμός είναι η μόνη ανησυχία, αν και είναι ένα κοινοτικό έργο χωρίς προφίλ και βερνίκι πάπιας.</p>
+<p><strong>eqMac</strong> είναι ένας δωρεάν EQ και ενισχυτής σε όλο το σύστημα. Είναι εξαιρετικό για τη διαμόρφωση του συνολικού ήχου, αλλά δεν είναι ένας πραγματικός μίκτης ανά εφαρμογή - προσαρμόζετε ολόκληρη την έξοδο, όχι μεμονωμένες εφαρμογές.</p>
+<p><strong>SoundSource</strong> από το Rogue Amoeba (περίπου 39 $) είναι η επιλογή προνομιακής ποιότητας: EQ ανά εφαρμογή, δρομολόγηση εξόδου ανά εφαρμογή και σοβαρές λειτουργίες μηχανικού ήχου. Είναι εξαιρετικό — αλλά χρειάζεται απευθείας λήψη και εγκαθιστά ένα στοιχείο καταγραφής ήχου και κοστίζει περισσότερο από το διπλάσιο από αυτό που κάνει το SoundDial. Αν θέλετε δρομολόγηση και EQ σε επίπεδο στούντιο, είναι η επιλογή. Αν θέλετε απλώς το μίξερ τύπου Windows, είναι υπερβολικό.</p>
+
+<h2>Ποιο πρέπει να πάρετε;</h2>
+<p>Εάν ο στόχος σας είναι "να κάνω το Mac μου να λειτουργεί όπως το Windows Volume Mixer" χωρίς λήψεις, προγράμματα οδήγησης ή κίνδυνο, το SoundDial είναι η πιο καθαρή απάντηση. Λαμβάνετε τον όγκο ανά εφαρμογή, τη σίγαση, την ενίσχυση, τα προφίλ και το auto-ducking, όλα με ασφάλεια σε App Store, με 14,99 € μία φορά — χωρίς συνδρομή. Επιλέξτε SoundSource μόνο εάν χρειάζεστε ειδικά EQ ανά εφαρμογή και δρομολόγηση εξόδου και δοκιμάστε τις δωρεάν επιλογές, εάν αισθάνεστε άνετα να τις αντιμετωπίσετε στις ενημερώσεις macOS.</p>
+
+<p><strong>Είστε έτοιμοι να δώσετε σε κάθε εφαρμογή τον δικό της όγκο;</strong> <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και ρυθμίστε το πρώτο σας μείγμα σε περίπου δύο λεπτά.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "Πώς να κάνετε το Mac σας πιο δυνατό για βαρηκοΐα ακρόαση",
+    description: "Δυσκολεύεστε να ακούσετε το Mac σας ακόμα και στη μέγιστη ένταση; Μάθετε πώς μπορείτε να ενισχύσετε και να αποσαφηνίσετε τον ήχο ανά εφαρμογή για ακρόαση με προβλήματα ακοής, συμπεριλαμβανομένων των SoundDial και ενσωματωμένων συμβουλών.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν το Mac δεν είναι αρκετά δυνατό ακόμα και στη μέγιστη ένταση, η πιο γρήγορη και αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, ένας μίκτης γραμμής μενού Mac App Store που σας επιτρέπει να ενισχύσετε οποιαδήποτε εφαρμογή μετά το 100% και να κάνετε σίγαση όλων των άλλων. Αυτό σημαίνει πιο δυνατή, πιο καθαρή ομιλία από το FaceTime, βίντεο ή ένα πρόγραμμα αναπαραγωγής ταινιών χωρίς να χτυπά ολόκληρο το σύστημά σας. Είναι 14,99 €, εφάπαξ.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Πώς να κάνετε το Mac πιο δυνατό για βαρήκοους" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί η μεγιστοποίηση του ρυθμιστικού έντασης εξακολουθεί να μην είναι αρκετή</h2>
+<p>Για ακροατές με προβλήματα ακοής, το ρυθμιστικό έντασης ήχου macOS έχει δύο απογοητευτικά όρια. Πρώτον, περιορίζει το 100% αυτού που βγάζει η ίδια η εφαρμογή. Εάν ένα podcast, βίντεο ή κλήση εγγράφηκε αθόρυβα, η "πλήρης ένταση" εξακολουθεί να είναι πολύ απαλή. Δεύτερον, το macOS δεν έχει ενσωματωμένο μίκτη όγκου ανά εφαρμογή. Το Windows είχε ένα εδώ και χρόνια, αλλά σε ένα Mac κάθε εφαρμογή μοιράζεται ένα ενιαίο κύριο επίπεδο. Έτσι, όταν ενεργοποιείτε τα πάντα για να ακούσετε μια απαλή φωνή, η μουσική υπόκρουση και οι ήχοι ειδοποιήσεων γίνονται επίσης άβολα δυνατοί.</p>
+<p>Αυτό που πραγματικά χρειάζεστε είναι η ικανότητα να φτιάξετε <em>ένα</em> Εφαρμόστε πιο δυνατά από τα υπόλοιπα, σπρώξτε το πέρα από το κανονικό του ταβάνι και κόψτε τους ανταγωνιστικούς ήχους ώστε η ομιλία να ξεχωρίζει. Αυτό ακριβώς είναι το κενό που καλύπτουν αυτά τα εργαλεία.</p>
+
+<h2>Αρχικά, χρησιμοποιήστε τις δωρεάν ρυθμίσεις προσβασιμότητας macOS</h2>
+<p>Πριν προσθέσετε οποιαδήποτε εφαρμογή, αξίζει να ρυθμίσετε τι προσφέρει ήδη το macOS. Αυτά βοηθούν στη σαφήνεια, αν και δεν προσθέτουν ακατέργαστη ένταση:</p>
+<ul>
+<li><strong>Μονοφωνικός ήχος:</strong> Ρυθμίσεις συστήματος &rarr; Προσβασιμότητα &rarr; Ήχος, ενεργοποιήστε την "Αναπαραγωγή στερεοφωνικού ήχου ως μονοφωνική". Εάν η ακοή σας είναι πιο δυνατή στο ένα αυτί, αυτό στέλνει το πλήρες σήμα και στα δύο, ώστε να μην χάσετε το μισό διάλογο.</li>
+<li><strong>Προσαρμογή υπολοίπου:</strong> Στις Ρυθμίσεις συστήματος &rarr; Sound, σύρετε την ισορροπία αριστερά/δεξιά προς το πιο δυνατό αυτί σας.</li>
+<li><strong>Μειώστε τους ήχους φόντου:</strong> Χαμηλώστε τη μουσική και την ατμόσφαιρα στις εφαρμογές που το επιτρέπουν, έτσι ώστε οι φωνές να μην παλεύουν με το soundtrack.</li>
+<li><strong>Χώροι για ακουστικά:</strong> Εάν χρησιμοποιείτε AirPods ή Beats, οι ρυθμίσεις συστήματος &rarr; Προσβασιμότητα &rarr; Ήχος &rarr; Headphone Accommodations μπορούν να ενισχύσουν απαλούς ήχους και να συντονίσουν την ομιλία.</li>
+</ul>
+<p>Αυτά είναι πραγματικά χρήσιμα και δεν κοστίζουν τίποτα. Αλλά κανένα από αυτά δεν κάνει ούτε μια ήσυχη εφαρμογή <em>πιο δυνατά από 100%</em>, και συνήθως αυτό είναι το πραγματικό πρόβλημα.</p>
+
+<h2>Πώς να ενισχύσετε μία εφαρμογή μετά το 100% με το SoundDial</h2>
+<p>Το SoundDial βρίσκεται στη γραμμή μενού σας και εμφανίζει ένα ρυθμιστικό για κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή. Ακολουθεί η ροή εργασίας που βοηθά περισσότερο στην ακρόαση με προβλήματα ακοής:</p>
+<ul>
+<li><strong>Ενισχύστε την εφαρμογή που ακούτε.</strong> Σύρετε το ρυθμιστικό του πάνω από το 100% για να ενισχύσετε μια αθόρυβη βιντεοκλήση ή podcast πέρα από αυτό που επιτρέπει η εφαρμογή από μόνη της.</li>
+<li><strong>Σίγαση ή μείωση όλων των άλλων.</strong> Τραβήξτε προς τα κάτω τη μουσική, τις καρτέλες του προγράμματος περιήγησης ή τους ήχους ειδοποιήσεων, ώστε τίποτα να μην ανταγωνίζεται τη φωνή που προσπαθείτε να ακολουθήσετε.</li>
+<li><strong>Ενεργοποιήστε το auto-ducking.</strong> Όταν ξεκινάτε να μιλάτε σε μια κλήση, το SoundDial βυθίζει αυτόματα τον άλλο ήχο, έτσι ώστε το άτομο με το οποίο μιλάτε να περνάει καθαρά και μετά να τον επαναφέρει.</li>
+<li><strong>Αποθηκεύστε ένα προφίλ τόμου.</strong> Δημιουργήστε ένα προφίλ "βιντεοκλήσεις" όπου η εφαρμογή σας για συνδιάσκεψη είναι ενισχυμένη και οτιδήποτε άλλο είναι αθόρυβο και, στη συνέχεια, μεταβείτε σε αυτό αμέσως αντί να προσαρμόζετε εκ νέου κάθε φορά.</li>
+<li><strong>Εναλλαγή εξόδου γρήγορα.</strong> Μεταβείτε μεταξύ ηχείων, ακουστικών ή συσκευής συνδεδεμένης με ακουστικό βαρηκοΐας από το ίδιο μενού, χωρίς να κάνετε αναζήτηση στις Ρυθμίσεις συστήματος.</li>
+</ul>
+<p>Η δυνατότητα ενίσχυσης είναι το βασικό εδώ. Επειδή ανεβάζει την έξοδο της εφαρμογής πάνω από το εγγενές μέγιστο, μια αθόρυβη εγγραφή γίνεται κάτι που μπορείτε πραγματικά να ακούσετε, ενώ το υπόλοιπο σύστημά σας παραμένει σε άνετο επίπεδο.</p>
+
+<h2>Μια γρήγορη λέξη για την παραμόρφωση</h2>
+<p>Οποιαδήποτε ώθηση λογισμικού ενισχύει ό,τι υπάρχει στο σήμα, επομένως η υπέρβαση του 100% σε ήδη δυνατό ήχο μπορεί να δημιουργήσει αποκοπή. Στην πράξη, τόνωση <em>ήσυχο</em> περιεχόμενο σε ένα άνετο, κατανοητό επίπεδο ακούγεται καθαρό. Ξεκινήστε μέτρια, σηκώστε μέχρι να είναι καθαρή η ομιλία και κάντε πίσω αν αρχίσει να ακούγεται σκληρή. Η προστασία της ακοής σας που απομένει, επομένως στοχεύστε στη διαύγεια και όχι στη μέγιστη ένταση.</p>
+
+<h2>Πώς το SoundDial συγκρίνεται με τις εναλλακτικές</h2>
+<p>Έχετε μερικές επιλογές και η ειλικρίνεια σας βοηθά να επιλέξετε τη σωστή:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39$):</strong> Πραγματικά pro-grade, με EQ ανά εφαρμογή και δρομολόγηση εξόδου. Αν θέλετε να σμιλεύετε συχνότητες για απώλεια ακοής, είναι ισχυρό. Αλλά κοστίζει περισσότερο από το διπλάσιο, απαιτεί άμεση λήψη και εγκαθιστά ένα πρόγραμμα οδήγησης καταγραφής ήχου. Αυτό είναι περισσότερη ρύθμιση και πρόσβαση στο σύστημα από ό,τι θέλουν πολλοί άνθρωποι.</li>
+<li><strong>Background Music (δωρεάν, ανοιχτού κώδικα):</strong> Προσφέρει δωρεάν ένταση ήχου ανά εφαρμογή, αλλά στερείται ενίσχυσης, προφίλ και αυτόματης εκκένωσης και μπορεί να σπάσει σε νεότερες εκδόσεις macOS, καθώς γαντζώνεται βαθιά στο ηχοσύστημα.</li>
+<li><strong>FineTune (δωρεάν, ανοιχτού κώδικα):</strong> Μια ελαφριά εφαρμογή έντασης στη γραμμή μενού. Ωραία για τα βασικά, αλλά χωρίς την ενίσχυση, τα προφίλ και την πάπια που ακουμπούν οι ακροατές με προβλήματα ακοής.</li>
+<li><strong>eqMac (δωρεάν):</strong> Ισοσταθμιστής με ενισχυτή. Χρήσιμο για τη διαμόρφωση του ήχου, αλλά βασίζεται στο EQ αντί για καθαρή μίξη και προφίλ ανά εφαρμογή.</li>
+</ul>
+<p>Πού <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ξεχωρίζει η ισορροπία της τιμής, της ασφάλειας και των ειδικών χαρακτηριστικών που έχουν σημασία εδώ. Επειδή είναι στο Mac App Store, είναι ελεγμένο από την Apple και sandbox, εγκαθίσταται καθαρά χωρίς DMG και δεν χρειάζεται προγράμματα οδήγησης ήχου ή επεκτάσεις συστήματος. Λαμβάνετε ενίσχυση ανά εφαρμογή, σίγαση, προφίλ έντασης ήχου και αυτόματη απελευθέρωση με μία εφάπαξ αγορά 14,99 €, χωρίς να υπάρχει τίποτα στη στοίβα ήχου macOS.</p>
+
+<h2>Η ουσία</h2>
+<p>Ρυθμίστε πρώτα τις δωρεάν επιλογές προσβασιμότητας macOS, αξίζει να τις έχετε. Αλλά αν το πραγματικό πρόβλημα είναι ότι μια εφαρμογή είναι απλώς πολύ αθόρυβη, χρειάζεστε ένα εργαλείο που μπορεί να ωθήσει μια μεμονωμένη εφαρμογή πέραν του 100% και να σβήσει τις υπόλοιπες. Αυτό είναι όλο το νόημα μιας ενίσχυσης ανά εφαρμογή και το macOS δεν το κάνει από μόνο του.</p>
+
+<p>Είστε έτοιμοι να ακούσετε πραγματικά το Mac σας; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για 14,99 €, ενισχύστε την εφαρμογή που χρειάζεστε και αφήστε το auto-ducking και τα προφίλ να διατηρούν την ομιλία καθαρή.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Πώς να ενισχύσετε μια ήσυχη εφαρμογή στο Mac (Προηγούμενος μέγιστος όγκος)",
+    description: "Μια εφαρμογή είναι πολύ αθόρυβη ακόμα και στο 100%; Ενισχύστε ακριβώς αυτήν την εφαρμογή πέρα ​​από το μέγιστο σε Mac με το SoundDial, έναν μείκτη όγκου ανά εφαρμογή. Εδώ είναι η ταχύτερη επιδιόρθωση και εναλλακτικές λύσεις.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν μια εφαρμογή είναι πολύ αθόρυβη ακόμη και στη μέγιστη ένταση, η πιο γρήγορη και αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια γραμμή μενού ανά εφαρμογή μείκτη έντασης ήχου για macOS. Δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό συν έναν τόμο <strong>ώθηση</strong> που ξεπερνά το 100% μια μεμονωμένη εφαρμογή, έτσι μια αθόρυβη βιντεοκλήση ή η καρτέλα του προγράμματος περιήγησης γίνεται πιο δυνατή χωρίς να αγγίζει την ένταση του συστήματός σας. Είναι μια εφάπαξ εφαρμογή 14,99 € στο Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Πώς να ενισχύσετε μια ήσυχη εφαρμογή στο Mac (Προηγούμενος μέγιστος όγκος)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί μια εφαρμογή είναι αθόρυβη ακόμα και στο 100%</h2>
+<p>Το macOS έχει μόνο έναν κύριο τόμο. Όταν το ανεβάζεις, όλα γίνονται πιο δυνατά μαζί. Αλλά κάθε εφαρμογή εξάγει επίσης ήχο στο δικό της εσωτερικό επίπεδο και αυτό το επίπεδο ποικίλλει πάρα πολύ. Ένα κλιπ YouTube με αθόρυβη κυριαρχία, ένας καλών Zoom με κακό μικρόφωνο, ένα παιχνίδι με χαμηλή μίξη διαλόγων ή μια καρτέλα προγράμματος περιήγησης με απαλή ροή μπορούν όλα να βρίσκονται πολύ πιο κάτω από οτιδήποτε άλλο, ακόμη και με το Mac σας σε πλήρη έκρηξη.</p>
+<p>Το πραγματικό πρόβλημα: το macOS έχει <strong>δεν υπάρχει ενσωματωμένος μίκτης έντασης ανά εφαρμογή</strong>. Το Windows έχει ένα εδώ και χρόνια (το Volume Mixer, κάντε δεξί κλικ στο εικονίδιο του ηχείου). Σε ένα Mac, δεν υπάρχει εγγενής τρόπος να ενεργοποιήσετε μία εφαρμογή αφήνοντας τις υπόλοιπες μόνες τους και σίγουρα δεν υπάρχει τρόπος να ενισχύσετε μία μόνο εφαρμογή <em>παραπάνω</em> το κανονικό του μέγιστο. Αυτό είναι το κενό που χτυπάτε.</p>
+
+<h2>Η πιο γρήγορη λύση: ενισχύστε μόνο αυτή τη μία εφαρμογή</h2>
+<p>Ένας μίκτης ανά εφαρμογή το λύνει αυτό εισάγοντας τον εαυτό του μεταξύ των εφαρμογών σας και της εξόδου σας, ώστε να μπορεί να ανεβάσει ή να μειώσει κάθε ροή ανεξάρτητα και να ενισχύσει μία πέρα από το 100%. Με <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, η ροή είναι σύντομη:</p>
+<ul>
+<li>Εγκαταστήστε από το Mac App Store και ανοίξτε το. Ζει στη γραμμή μενού σας, όχι σε ένα αιωρούμενο παράθυρο.</li>
+<li>Κάντε κλικ στο εικονίδιο της γραμμής μενού για να δείτε ένα ρυθμιστικό για κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή.</li>
+<li>Βρείτε την αθόρυβη εφαρμογή και σύρετε το ρυθμιστικό της στο 100% για να εφαρμόσετε ενίσχυση. Ενισχύει μόνο αυτήν την εφαρμογή.</li>
+<li>Αφήστε όλα τα άλλα εκεί που είναι. Ο όγκος του συστήματός σας και οι άλλες εφαρμογές παραμένουν ανέγγιχτες.</li>
+</ul>
+<p>Επειδή η ώθηση είναι ανά εφαρμογή, μπορείτε να ωθήσετε μια ήπια βιντεοκλήση σε ένα άνετο επίπεδο, ενώ παράλληλα εμποδίζετε τη μουσική ή τις ειδοποιήσεις να γίνουν ακραία. Αυτό είναι το βασικό πράγμα που απλά δεν μπορούν να κάνουν τα ενσωματωμένα χειριστήρια macOS.</p>
+
+<h2>Μια σημείωση για την ενίσχυση και το απόκομμα</h2>
+<p>Το Boost είναι πραγματικά χρήσιμο, αλλά είναι ενίσχυση, όχι μαγικό. Εάν ο αρχικός ήχος μιας εφαρμογής είναι πολύ αθόρυβος ή έχει ήδη παραμορφωθεί, η δυνατότητά του μπορεί να δημιουργήσει απόκομμα ή να κάνει το σφύριγμα του φόντου πιο εμφανές. Στην πράξη, μια μέτρια ώθηση διορθώνει καθαρά τη συντριπτική πλειοψηφία των καταστάσεων "αυτή η κλήση είναι πολύ ήσυχη". Σπρώξτε το μέχρι η εφαρμογή να είναι άνετη αντί να την χτυπάτε στο ταβάνι και θα διατηρήσετε τον ήχο καθαρό.</p>
+
+<h2>Πέρα από την ενίσχυση: τι άλλο βοηθάει</h2>
+<p>Αφού έχετε τον έλεγχο ανά εφαρμογή, μερικές λειτουργίες εξαφανίζουν οριστικά το πρόβλημα της αθόρυβης εφαρμογής:</p>
+<ul>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια ρύθμιση (π.χ. "ενίσχυση Zoom, μείωση Spotify, σίγαση Slack") και ανάκλησή της με ένα κλικ αντί να σύρετε ξανά τα ρυθμιστικά σε κάθε συνάντηση.</li>
+<li><strong>Αυτόματη πάπια</strong> — βυθίστε αυτόματα άλλες εφαρμογές κατά την αναπαραγωγή μιας επιλεγμένης εφαρμογής, ώστε μια ενισχυμένη κλήση να ακούγεται καθαρά μέσω του ήχου παρασκηνίου.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας θορυβώδους εφαρμογής χωρίς να θέσετε σε παύση οτιδήποτε άλλο.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών ή εξωτερικής διεπαφής από το ίδιο μενού.</li>
+</ul>
+
+<h2>Τι γίνεται με τις δωρεάν και τις υπέρ εναλλακτικές;</h2>
+<p>Έχετε επιλογές και η ειλικρίνεια έχει σημασία εδώ, οπότε εδώ είναι το πραγματικό τοπίο.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) είναι η κατάλληλη επιλογή στα 39 $ περίπου. Κάνει όγκο ανά εφαρμογή συν EQ ανά εφαρμογή και πλήρη δρομολόγηση εξόδου, περισσότερη ισχύ από ό,τι χρειάζονται οι περισσότεροι άνθρωποι. Οι ανταλλαγές: κοστίζει υπερδιπλάσιο, είναι άμεση λήψη αντί για App Store και εγκαθιστά ένα πρόγραμμα οδήγησης καταγραφής ήχου για να κάνει τη δουλειά του. Αν θέλετε μια εργαλειοθήκη μηχανικού ήχου, είναι εξαιρετική. Εάν θέλετε απλώς μια εφαρμογή πιο δυνατά, είναι υπερβολικό.</p>
+<p><strong>Background Music</strong> είναι δωρεάν και ανοιχτού κώδικα και μπορεί να κάνει βασικό όγκο ανά εφαρμογή. Αλλά είναι ένα έργο κοινότητας που έχει ιστορικό διακοπής σε νεότερες εκδόσεις macOS και στερείται ενίσχυσης άνω του 100%, προφίλ και αυτόματης κοπής. Εξαιρετικό αν είναι δωρεάν είναι η μόνη απαίτηση και δεν σας πειράζει περιστασιακά σπάσιμο.</p>
+<p><strong>FineTune</strong> είναι μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα και <strong>eqMac</strong> είναι ένας δωρεάν ενισχυτής EQ και συστήματος. Αξίζει να δοκιμάσετε και τα δύο αν ο προϋπολογισμός σας είναι μηδέν. Απλώς ξέρετε ότι διατηρούνται στην κοινότητα, επικεντρώνονται στο EQ ή είναι πιο ελαφριά στη διαχείριση ανά εφαρμογή και μην ομαδοποιείτε προφίλ και παπί σε ένα γυαλισμένο πακέτο.</p>
+<p>Πού <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lands: είναι η μέση οδός. Φθηνότερο από το SoundSource, πιο ικανό και πιο αξιόπιστο από τα δωρεάν εργαλεία και είναι στο <strong>Mac App Store</strong>, που σημαίνει αναθεωρημένο από την Apple, σε sandbox και εγκαθίσταται καθαρά με <strong>χωρίς DMG και χωρίς προγράμματα οδήγησης ή επεκτάσεις ήχου</strong> να βιδωθεί στο σύστημά σας. Για τους περισσότερους ανθρώπους, η ειλικρινής σύσταση είναι απλή: αν θέλετε την λιγότερη ταλαιπωρία επισκευής που σας δίνει επίσης ώθηση, προφίλ και αυτόματο πάπωμα, είναι η καλύτερη τιμή στα 14,99 € εφάπαξ.</p>
+
+<h2>Γρήγορη απάντηση, επαναδιατύπωση</h2>
+<blockquote>Για να κάνετε μια εφαρμογή Mac πιο δυνατή από το μέγιστο, χρησιμοποιήστε έναν μείκτη έντασης ήχου ανά εφαρμογή με ενίσχυση. Ανοίξτε το SoundDial από τη γραμμή μενού, βρείτε το ρυθμιστικό της αθόρυβης εφαρμογής και σύρετέ το πέρα ​​από το 100%. Μόνο αυτή η εφαρμογή γίνεται πιο δυνατή.</blockquote>
+
+<p>Σταματήστε να παλεύετε με ένα μόνο ρυθμιστικό έντασης για ολόκληρο το Mac. Αποκτήστε <a href="https://apps.apple.com/app/id6772792641">SoundDial στο Mac App Store</a> για 14,99 € μία φορά, ενισχύστε αυτήν την αθόρυβη εφαρμογή που ξεπερνά το όριό της σε δευτερόλεπτα και αποθηκεύστε ένα προφίλ για να μην χρειαστεί να το σκεφτείτε ποτέ ξανά.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Πώς να ενισχύσετε ήσυχα βίντεο και podcast στο Mac σας",
+    description: "Ορισμένα βίντεο, podcast και διαλέξεις YouTube είναι πολύ ήσυχα ακόμα και στο 100%. Δείτε πώς μπορείτε να αυξήσετε τον όγκο ανά εφαρμογή πέρα ​​από το μέγιστο στο macOS με το SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Η πιο γρήγορη, αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, ένας μίκτης γραμμής μενού Mac App Store που δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης και ένα πραγματικό <strong>ώθηση</strong> που ξεπερνά το 100%. Ανοίξτε το πρόγραμμα περιήγησής σας ή το πρόγραμμα αναπαραγωγής podcast, σύρετε το ρυθμιστικό του πάνω από το μέγιστο και ένα ήσυχο βίντεο ή μια διάλεξη γίνεται αμέσως πιο δυνατό — χωρίς προγράμματα οδήγησης, χωρίς επανεκκίνηση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Πώς να ενισχύσετε ήσυχα βίντεο και podcast στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί ορισμένα βίντεο και podcast είναι πολύ αθόρυβα</h2>
+<p>Ανεβάζεις το Mac στο 100%, και η συνέντευξη είναι ακόμα ένας ψίθυρος. Αυτό δεν είναι η φαντασία σας. Ο ήχος κατακτάται σε εξαιρετικά διαφορετικά επίπεδα έντασης — ένα διαδικτυακό σεμινάριο που έχει εγγραφεί σε μικρόφωνο φορητού υπολογιστή, ένα ήσυχο indie podcast ή μια παλιά μεταφόρτωση διάλεξης μπορεί να βρίσκεται 15–20 dB κάτω από ένα βίντεο YouTube επαγγελματικής παραγωγής. Ο όγκος του συστήματός σας έχει ήδη μεγιστοποιηθεί, επομένως δεν υπάρχει ελεύθερος χώρος για να δώσετε.</p>
+<p>Εδώ είναι το αλιεύμα: macOS έχει <strong>δεν υπάρχει ενσωματωμένος μίκτης έντασης ανά εφαρμογή</strong>. Το Windows είχε ένα εδώ και χρόνια (το Volume Mixer στο δίσκο συστήματος), αλλά σε ένα Mac, τα πλήκτρα έντασης κινούνται σε ένα παγκόσμιο επίπεδο για τα πάντα. Δεν υπάρχει εγγενής τρόπος να πούμε "κάντε μόνο αυτή την καρτέλα του προγράμματος περιήγησης πιο δυνατά" — πόσο μάλλον να ωθήσετε μια μεμονωμένη εφαρμογή πάνω από το 100%.</p>
+
+<h2>Η πραγματική λύση: αύξηση όγκου ανά εφαρμογή</h2>
+<p>Για να κάνετε μια αθόρυβη πηγή πιο δυνατή από ό,τι επιτρέπουν συνήθως τα ηχεία σας, χρειάζεστε λογισμικό που να παρέχει κέρδος <em>συγκεκριμένα αυτή η εφαρμογή</em> και μπορεί να ενισχυθεί πέρα από το ανώτατο όριο του 100%. Αυτό ακριβώς κάνει ένας μείκτης ανά εφαρμογή με δυνατότητα ενίσχυσης.</p>
+<p>Με <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, κάθε εφαρμογή που εκτελείται εμφανίζεται σε μια λίστα γραμμών μενού με το δικό της ρυθμιστικό. Σύρετε μια αθόρυβη εφαρμογή έως και 150% ή 200% και ο ήχος ενισχύεται σε πραγματικό χρόνο. Επειδή η ενίσχυση είναι ανά εφαρμογή, όλα τα άλλα — η μουσική σας, οι ειδοποιήσεις, μια κλήση σε άλλο παράθυρο — παραμένουν σε κανονικό επίπεδο. Δεν καταρρίπτετε ολόκληρο το σύστημά σας για να ακούσετε ένα απαλό podcast.</p>
+<blockquote>Η παγκόσμια ένταση ρωτά "πόσο δυνατό είναι το Mac;" Ένας μίκτης ανά εφαρμογή ρωτά "πόσο δυνατό είναι <em>αυτό</em> εφαρμογή;" — η οποία είναι η ερώτηση που πραγματικά έχει σημασία όταν ένα βίντεο είναι ήσυχο και τα υπόλοιπα είναι καλά.</blockquote>
+
+<h2>Πώς να ενισχύσετε ένα ήσυχο βίντεο ή podcast, βήμα προς βήμα</h2>
+<ul>
+<li><strong>Εγκαταστήστε το SoundDial</strong> από το Mac App Store. Είναι σε sandbox και έχει ελεγχθεί από την Apple, επομένως εγκαθίσταται καθαρά όπως κάθε άλλη εφαρμογή — χωρίς ξεχωριστή λήψη, χωρίς πρόγραμμα οδήγησης ήχου, χωρίς γάντι άδειας.</li>
+<li><strong>Ξεκινήστε να παίζετε</strong> το ήσυχο βίντεο, το επεισόδιο podcast ή τη διάλεξη σε οποιαδήποτε εφαρμογή χρησιμοποιείτε — Safari, Chrome, πρόγραμμα-πελάτης podcast, VLC.</li>
+<li><strong>Κάντε κλικ στο εικονίδιο SoundDial</strong> στη γραμμή μενού σας. Θα δείτε ένα ρυθμιστικό για κάθε εφαρμογή που παράγει ήχο αυτήν τη στιγμή.</li>
+<li><strong>Σύρετε το ρυθμιστικό αυτής της εφαρμογής πάνω από 100%</strong> — δοκιμάστε πρώτα 150% και μετά πιέστε ψηλά αν είναι ακόμα πολύ μαλακό. Η αλλαγή είναι στιγμιαία.</li>
+<li><strong>Αφήστε όλα τα άλλα ήσυχα.</strong> Μόνο η εφαρμογή που ενισχύσατε γίνεται πιο δυνατή. το σύστημά σας παραμένει ισορροπημένο.</li>
+</ul>
+<p>Εάν ανακαλύπτετε ότι ενισχύετε τις ίδιες εφαρμογές κάθε μέρα - ας πούμε, ένα πρόγραμμα αναπαραγωγής podcast και το πρόγραμμα περιήγησής σας - μπορείτε να αποθηκεύσετε αυτήν τη ρύθμιση ως <strong>προφίλ όγκου</strong> και να το ανακαλέσετε με ένα κλικ αντί να το ρυθμίζετε εκ νέου κάθε φορά.</p>
+
+<h2>Μια λέξη προσοχής για την ενίσχυση</h2>
+<p>Η ενίσχυση πέραν του 100% προσθέτει κέρδος και το κέρδος έχει όρια. Σπρώξτε αρκετά σκληρά μια πολύ αθόρυβη, χαμηλής ποιότητας εγγραφή και μπορεί να ακούσετε απόκομμα ή παραμόρφωση — αυτή είναι η πηγή που εξαντλείται το καθαρό σήμα και όχι ένα ελάττωμα στην εφαρμογή. Ενισχύστε μέχρι να ακούγεται άνετα και, στη συνέχεια, αποχωρήστε εάν αρχίσει να ακούγεται σκληρό. Στα ενσωματωμένα ηχεία φορητού υπολογιστή, η ακραία ώθηση μπορεί επίσης να καταπονήσει τους οδηγούς, επομένως πηγαίνετε πιο εύκολα εκεί παρά με καλά ακουστικά ή εξωτερικά ηχεία.</p>
+
+<h2>Τι γίνεται με τις δωρεάν ή ενσωματωμένες επιλογές;</h2>
+<p>Έχετε εναλλακτικές λύσεις και αξίζει να είστε ειλικρινείς σχετικά με αυτές:</p>
+<ul>
+<li><strong>Όγκος συστήματος + ρυθμιστικά σε επίπεδο εφαρμογής.</strong> Ορισμένα προγράμματα αναπαραγωγής (VLC, μερικά προγράμματα περιήγησης μέσω επεκτάσεων) σάς επιτρέπουν να ενισχύσετε τον δικό τους ήχο. Ωραία αν τη χρειάζεστε μόνο σε μία εφαρμογή — αλλά έχετε κολλήσει να διαμορφώνετε κάθε εφαρμογή ξεχωριστά, χωρίς ενοποιημένο έλεγχο και χωρίς προφίλ.</li>
+<li><strong>eqMac</strong> είναι ένα δωρεάν EQ και ενισχυτικό. Μπορεί να αυξήσει την ένταση του συστήματος σε όλο το σύστημα, αλλά είναι ένα παγκόσμιο εργαλείο, όχι ένας καθαρός μίκτης ανά εφαρμογή και λειτουργεί σε επίπεδο εξόδου.</li>
+<li><strong>Background Music</strong> είναι δωρεάν και ανοιχτού κώδικα και προσφέρει όγκο ανά εφαρμογή. Αλλά βασίζεται σε μια ρύθμιση καταγραφής ήχου που μπορεί να σπάσει σε νεότερες εκδόσεις του macOS και δεν διαθέτει αποκλειστική ενίσχυση, προφίλ και αυτόματη εκτόξευση.</li>
+<li><strong>FineTune</strong> είναι μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα — μια ελαφριά επιλογή εάν θέλετε τα βασικά και δεν σας πειράζει λογισμικό που διατηρείται από την κοινότητα.</li>
+<li><strong>SoundSource</strong> από το Rogue Amoeba (~ 39 $) είναι το βαρέως τύπου pro-grade: EQ ανά εφαρμογή, δρομολόγηση εξόδου, τα αποτελέσματα. Απαιτεί επίσης λήψη και πρόγραμμα οδήγησης καταγραφής ήχου και κοστίζει περισσότερο από το διπλάσιο SoundDial. Overkill αν το μόνο που θέλετε είναι να κάνετε τον αθόρυβο ήχο πιο δυνατό.</li>
+</ul>
+
+<h2>Γιατί το SoundDial είναι η πρακτική επιλογή</h2>
+<p>Το SoundDial βρίσκεται στο γλυκό σημείο για αυτό ακριβώς το πρόβλημα. Του <strong>14,99 € εφάπαξ</strong> — χωρίς συνδρομή — και συνεχίζει να ισχύει <strong>Mac App Store</strong>, πράγμα που σημαίνει ότι είναι σε sandbox, ελέγχεται από την Apple και εγκαθίσταται χωρίς καμία DMG ή επέκταση συστήματος για να την εμπιστευτείτε. Λαμβάνετε την ώθηση ανά εφαρμογή για την οποία προέρχεστε πραγματικά, καθώς και προφίλ, σίγαση ανά εφαρμογή, γρήγορη εναλλαγή εξόδου και <strong>αυτόματο παπάκι</strong> που βυθίζει άλλες εφαρμογές όταν πρέπει να εστιάσετε σε μία. Κάνει τα δυνατά πράγματα απλά, και τα υπόλοιπα τα κάνει καλά.</p>
+
+<p><strong>Κουραστήκατε να ακούτε ήσυχα βίντεο και podcast;</strong> <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για 14,99 € και δώστε σε κάθε εφαρμογή τον δικό της όγκο — με την ώθηση να ακούτε οτιδήποτε καθαρά.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Πώς να ορίσετε διαφορετική ένταση ήχου για κάθε εφαρμογή στο Mac",
+    description: "Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Δείτε πώς μπορείτε να ορίσετε ανεξάρτητα, μόνιμα επίπεδα έντασης για κάθε εφαρμογή στο Mac χρησιμοποιώντας το SoundDial και τις εναλλακτικές λύσεις.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένο τρόπο για να ορίσετε διαφορετική ένταση ήχου για κάθε εφαρμογή, επομένως χρειάζεστε ένα μίκτη έντασης ήχου γραμμής μενού. Η πιο γρήγορη και αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια εφαρμογή Mac App Store που δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, σίγαση ανά εφαρμογή και μια ώθηση που ξεπερνά το 100% των αθόρυβων εφαρμογών. Ρυθμίστε τα επίπεδά σας μία φορά και κολλάνε.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Πώς να ορίσετε διαφορετική ένταση ήχου για κάθε εφαρμογή στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το Mac δεν έχει έλεγχο έντασης ανά εφαρμογή</h2>
+<p>Εάν έχετε αλλάξει από το Windows, πιθανότατα έχετε ψάξει για το αντίστοιχο του Windows Volume Mixer, αυτό το μικρό πάνελ όπου κάθε εφαρμογή έχει το δικό της ρυθμιστικό. Δεν είναι εκεί. Το macOS προσφέρει μόνο έναν παγκόσμιο όγκο συστήματος. Είτε πρόκειται για βίντεο YouTube, κλήση Zoom, Spotify ή παιχνίδι, όλα μοιράζονται το ίδιο κύριο επίπεδο.</p>
+<p>Είναι εντάξει μέχρι να μην είναι. Η συνομιλία Discord πνίγει τη μουσική σας. Μια διαφήμιση προγράμματος περιήγησης εκπέμπεται σε πλήρη ένταση ενώ το podcast σας παίζει ήσυχα από κάτω. Το παιχνίδι σας είναι εκκωφαντικό, αλλά η φωνητική κλήση στο παρασκήνιο είναι πολύ απαλή. Η μόνη «λύση» που σας δίνει η Apple είναι να ανοίξετε κάθε εφαρμογή και να προσαρμόσετε την εσωτερική της ένταση χειροκίνητα, αν η εφαρμογή έχει καν μία, και να την επαναλάβετε κάθε περίοδο λειτουργίας.</p>
+<p>Για να αποκτήσετε πραγματικό έλεγχο ανά εφαρμογή, χρειάζεστε ένα μικρό βοηθητικό πρόγραμμα που βρίσκεται ανάμεσα στις εφαρμογές σας και τη συσκευή εξόδου σας. Παρακάτω είναι πώς να το κάνετε σωστά, καθώς και ειλικρινείς σημειώσεις για τις εναλλακτικές λύσεις.</p>
+
+<h2>Ο πιο γρήγορος τρόπος: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ζει στη γραμμή μενού σας και παραθέτει κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή. Κάθε ένα παίρνει ένα ανεξάρτητο ρυθμιστικό. Εδώ είναι ολόκληρη η ροή εργασίας:</p>
+<ul>
+<li><strong>Εγκαταστήστε από το Mac App Store.</strong> Έχει αναθεωρηθεί από την Apple και έχει εγκριθεί, επομένως δεν υπάρχει DMG, πρόγραμμα οδήγησης ήχου και επέκταση πυρήνα ή συστήματος για έγκριση. Εγκαθίσταται όπως κάθε κανονική εφαρμογή και μπορεί να αφαιρεθεί με τον ίδιο τρόπο.</li>
+<li><strong>Κάντε κλικ στο εικονίδιο της γραμμής μενού.</strong> Θα δείτε ένα ρυθμιστικό για κάθε ενεργή εφαρμογή, καθώς και ένα κύριο στοιχείο ελέγχου.</li>
+<li><strong>Σύρετε για να ορίσετε επίπεδα.</strong> Απενεργοποιήστε το Discord, σπρώξτε το Spotify προς τα πάνω, απενεργοποιήστε εντελώς την εφαρμογή μιας θορυβώδους καρτέλας προγράμματος περιήγησης με ένα κλικ.</li>
+<li><strong>Ενισχύστε τις αθόρυβες εφαρμογές.</strong> Εάν μια εφαρμογή είναι πολύ μαλακή ακόμα και στο 100%, ωθήστε την πάνω από το 100% με ενίσχυση ανά εφαρμογή.</li>
+<li><strong>Αποθήκευση προφίλ.</strong> Αποθηκεύστε τη μίξη "παιχνιδιών", "κλήση εργασίας" ή "μουσική" και εναλλάξτε τα μεταξύ τους αμέσως αντί να σύρετε ξανά τα ρυθμιστικά κάθε μέρα.</li>
+</ul>
+<p>Δύο χαρακτηριστικά αξίζει να επισημανθούν επειδή επιλύουν τα πιο ενοχλητικά σενάρια:</p>
+<ul>
+<li><strong>Αυτόματη πάπια</strong> χαμηλώνει αυτόματα άλλες εφαρμογές κατά την αναπαραγωγή μιας επιλεγμένης εφαρμογής, έτσι ώστε η μουσική σας να πέφτει όταν έρχεται μια κλήση και να επιστρέφει μετά, χωρίς χειροκίνητο παιχνιδάκι.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> σας επιτρέπει να μεταβείτε μεταξύ ακουστικών και ηχείων από το ίδιο μενού χωρίς να βουτήξετε στις Ρυθμίσεις συστήματος.</li>
+</ul>
+<p>Επειδή τα επίπεδα απομνημονεύονται ανά εφαρμογή και αποθηκεύονται σε προφίλ, αυτό είναι το μέρος που θέλουν οι περισσότεροι άνθρωποι: το ορίζετε μία φορά και το <em>μένει</em> σετ.</p>
+
+<h2>Οι δωρεάν και επί πληρωμή εναλλακτικές, ειλικρινά σε σύγκριση</h2>
+<p>Το SoundDial δεν είναι η μόνη επιλογή και ανάλογα με τις ανάγκες σας, ένα δωρεάν εργαλείο μπορεί να είναι αρκετό. Εδώ είναι μια δίκαιη ανάλυση.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>Το SoundSource είναι το pro-grade βαρέων βαρών. Παράλληλα με τον όγκο ανά εφαρμογή, κάνει EQ ανά εφαρμογή και πλήρη δρομολόγηση εξόδου, ώστε να μπορείτε να στέλνετε μια εφαρμογή στα ακουστικά και μια άλλη στα ηχεία. Είναι πραγματικά εξαιρετικό. Οι ανταλλαγές: κοστίζει περίπου 39 $ και δεν είναι μια καθαρή εγκατάσταση App Store, είναι μια άμεση λήψη που απαιτεί την προσθήκη ενός προγράμματος οδήγησης καταγραφής ήχου στο σύστημά σας. Αν είστε επαγγελματίας ήχου που χρειάζεται EQ και δρομολόγηση, αξίζει τον κόπο. Αν θέλετε απλώς κάθε εφαρμογή στη σωστή ένταση, είναι περισσότερο εργαλείο και περισσότερες ρυθμίσεις από ό,τι χρειάζεστε.</p>
+
+<h2>Background Music (ανοιχτού κώδικα, δωρεάν)</h2>
+<p>Το Background Music είναι μια δωρεάν εφαρμογή ανοιχτού κώδικα που προσφέρει ένταση ήχου ανά εφαρμογή και αυτόματη παύση. Το κλειδί είναι η αξιοπιστία: εγκαθιστά μια εικονική συσκευή ήχου και έχει ιστορικό διακοπής σε νεότερες εκδόσεις macOS, μερικές φορές απαιτώντας επανεγκατάσταση ή επιδιορθώσεις μετά από ενημερώσεις. Επίσης, στερείται ενίσχυσης, αποθηκευμένων προφίλ και πραγματικής αυτόματης εκτόξευσης. Εξαιρετικό αν θέλετε δωρεάν και δεν σας πειράζει η περιστασιακή συντήρηση.</p>
+
+<h2>FineTune και eqMac</h2>
+<p>Το FineTune είναι μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα, ένα ελαφρύ σημείο εκκίνησης. Το eqMac είναι ένας δωρεάν ισοσταθμιστής με ενισχυτή σε όλο το σύστημα, που στοχεύει περισσότερο στο EQ και στο συνολικό κέρδος παρά στο να δώσει σε κάθε εφαρμογή το δικό της μόνιμο ρυθμιστικό. Αξίζει να δοκιμάσετε και τα δύο εάν η ανάγκη σας είναι περιορισμένη, αλλά κανένας από τους δύο δεν επικεντρώνεται στη ροή εργασίας "διαφορετικό όγκο ανά εφαρμογή, αποθηκευμένο ως προφίλ".</p>
+
+<h2>Ποιο να επιλέξετε;</h2>
+<ul>
+<li><strong>Θέλετε να λειτουργεί απλά, καθαρά, με προφίλ και αυτόματο παπάκι;</strong> SoundDial στα 14,99 € εφάπαξ, από το App Store, χωρίς προγράμματα οδήγησης για εγκατάσταση.</li>
+<li><strong>Χρειάζεστε EQ ανά εφαρμογή και δρομολόγηση ήχου και δεν σας πειράζει η τιμή ή το πρόγραμμα οδήγησης;</strong> SoundSource.</li>
+<li><strong>Θέλετε δωρεάν και είστε εντάξει όταν ενημερώνεται το macOS;</strong> Background Music, FineTune ή eqMac.</li>
+</ul>
+<p>Το πραγματικό πλεονέκτημα του SoundDial είναι ο συνδυασμός: ανεξάρτητη ένταση ήχου, σίγαση και ενίσχυση για κάθε εφαρμογή, αποθηκευμένη σε προφίλ με δυνατότητα εναλλαγής, με αυτόματη διέλευση, όλα μέσα σε μια λήψη App Store σε περιβάλλον δοκιμών, την οποία μπορείτε να εμπιστευτείτε και να απεγκαταστήσετε με ένα κλικ, για εφάπαξ 14,99 € αντί για συνδρομή.</p>
+
+<blockquote>Χωρίς πρόγραμμα οδήγησης, χωρίς επέκταση, χωρίς DMG. Ρυθμίστε την ένταση ήχου κάθε εφαρμογής μία φορά, αποθηκεύστε την ως προφίλ και αφήστε το auto-ducking να χειριστεί τα υπόλοιπα.</blockquote>
+
+<p>Είστε έτοιμοι να δώσετε σε κάθε εφαρμογή τον δικό της όγκο; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και ρυθμίστε το τέλειο μείγμα σε περίπου ένα λεπτό.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Κάντε μία εφαρμογή πιο ήσυχη από οτιδήποτε άλλο στο Mac",
+    description: "Μια δυνατή εφαρμογή που πνίγει τις υπόλοιπες στο Mac; Εδώ είναι ο πιο γρήγορος και αξιόπιστος τρόπος για να μειώσετε την ένταση ήχου μιας εφαρμογής χωρίς να αγγίξετε τις υπόλοιπες.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Για να απενεργοποιήσετε μία εφαρμογή ενώ όλα τα άλλα παραμένουν στη θέση τους, χρησιμοποιήστε το <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια γραμμή μενού ανά εφαρμογή μείκτη έντασης ήχου για macOS. Ανοίξτε την, βρείτε τη δυνατά εφαρμογή στη λίστα και σύρετε το ρυθμιστικό της προς τα κάτω. Αυτή η εφαρμογή γίνεται πιο αθόρυβη αμέσως, ενώ η μουσική, οι κλήσεις και ο άλλος ήχος διατηρούν τα δικά τους επίπεδα. Είναι η πιο γρήγορη και αξιόπιστη λύση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Κάντε μία εφαρμογή πιο ήσυχη από οτιδήποτε άλλο στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το macOS το κάνει τόσο δύσκολο</h2>
+
+<p>Εδώ είναι η απογοητευτική αλήθεια: Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows έχει ένα εδώ και χρόνια (κάντε δεξί κλικ στο εικονίδιο έντασης ήχου, ανοίξτε το Volume Mixer, τελειωμένο), αλλά σε ένα Mac τα πλήκτρα έντασης και το ρυθμιστικό της γραμμής μενού ελέγχουν μόνο ένα πράγμα: την κύρια έξοδο. Χαμηλώστε το και όλα πάνε πιο ήσυχα μαζί. Ενεργοποιήστε το και η δυνατή εφαρμογή είναι ακόμα δυνατή, απλά πιο δυνατά μαζί με τα υπόλοιπα.</p>
+
+<p>Έτσι, όταν τα ηχητικά εφέ ενός παιχνιδιού εκτινάσσονται, μια καρτέλα του προγράμματος περιήγησης αναπαράγει αυτόματα μια διαφήμιση ή οι ειδοποιήσεις συνεχίζουν να φουντώνουν πάνω από το podcast σας, οι μόνες εγγενείς επιλογές σας είναι αδέξιες: σίγαση ολόκληρου του συστήματος, σκάψιμο στη ρύθμιση έντασης ήχου της κάθε εφαρμογής (αν έχει ακόμη) ή τερματίστε εντελώς τον παραβάτη. Τίποτα από αυτά δεν σας επιτρέπει να πείτε απλώς "κάντε αυτήν την εφαρμογή πιο αθόρυβη και αφήστε όλα τα άλλα ήσυχα".</p>
+
+<h2>Η γρήγορη επιδιόρθωση: ένας μείκτης τόμου ανά εφαρμογή</h2>
+
+<p>Ένας μείκτης τόμου ανά εφαρμογή δίνει σε κάθε εφαρμογή που εκτελείται το δικό της ανεξάρτητο ρυθμιστικό. Αυτός ακριβώς είναι ο έλεγχος που σου λείπει. Με <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> μοιάζει με αυτό:</p>
+
+<ul>
+<li><strong>Ανοίξτε το μίκτη της γραμμής μενού.</strong> Κάντε κλικ στο εικονίδιο SoundDial και θα δείτε μια ζωντανή λίστα με κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή.</li>
+<li><strong>Βρείτε το δυνατό.</strong> Το παιχνίδι, το πρόγραμμα περιήγησης, η βιντεοκλήση, οι ήχοι ειδοποίησης, οτιδήποτε πνίγει τα υπόλοιπα.</li>
+<li><strong>Σύρετε το ρυθμιστικό του προς τα κάτω.</strong> Ρυθμίστε το στο 40%, 20%, όπου αισθάνεστε ισορροπημένο. Η αλλαγή είναι άμεση και επηρεάζει μόνο αυτήν την εφαρμογή.</li>
+<li><strong>Αφήστε όλα τα άλλα ήσυχα.</strong> Το πρόγραμμα αναπαραγωγής μουσικής σας, η κλήση σας, οι άλλες καρτέλες σας, όλα διατηρούν την ένταση που έχετε ορίσει για αυτά.</li>
+</ul>
+
+<p>Μπορείτε επίσης να κάνετε πλήρη σίγαση μιας μεμονωμένης εφαρμογής με ένα κλικ ενώ άλλες συνεχίζουν να παίζουν ή να ενισχύσετε μια αθόρυβη εφαρμογή πάνω από 100% εάν είναι πολύ μαλακή. Χωρίς επανεκκίνηση της εφαρμογής, χωρίς καταδύσεις μενού.</p>
+
+<h2>Συνήθεις περιπτώσεις που αυτό σας σώζει</h2>
+
+<ul>
+<li><strong>Ένα δυνατό παιχνίδι με μουσική υπόκρουση.</strong> Ρίξτε το παιχνίδι σε ένα άνετο επίπεδο και διατηρήστε τη λίστα αναπαραγωγής σας σε πλήρη ένταση κάτω από αυτό.</li>
+<li><strong>Διαφημίσεις προγράμματος περιήγησης και βίντεο που αυξάνονται.</strong> Καρφιτσώστε το πρόγραμμα περιήγησής σας πιο χαμηλά, ώστε μια αυτόματη αναπαραγωγή έκπληξη να μην σας εκπλήξει ποτέ.</li>
+<li><strong>Η ειδοποίηση χτυπά κατά τη διάρκεια μιας κλήσης ή podcast.</strong> Απενεργοποιήστε την εφαρμογή με πολλές ειδοποιήσεις χωρίς να σβήσετε τον ήχο που σας ενδιαφέρει πραγματικά.</li>
+<li><strong>Μια ήσυχη βιντεοκλήση κάτω από δυνατά μέσα.</strong> Αντί να χαμηλώσετε τη δυνατά εφαρμογή, ενισχύστε την κλήση πάνω από 100%, ώστε να μπορείτε να ακούτε τους ανθρώπους καθαρά.</li>
+</ul>
+
+<h2>Ρυθμίστε το μία φορά με προφίλ έντασης ήχου και αυτόματη απαγωγή</h2>
+
+<p>Η επιδιόρθωση μιας δυνατής εφαρμογής είναι ωραία, αλλά μάλλον θέλετε να παραμείνει σταθερή. Το SoundDial έχει δύο χαρακτηριστικά που το κάνουν μόνιμο:</p>
+
+<p><strong>Προφίλ τόμου</strong> σας επιτρέπει να αποθηκεύσετε ένα σύνολο επιπέδων ανά εφαρμογή και να τα ανακαλέσετε με ένα κλικ. Δημιουργήστε ένα προφίλ "Gaming" όπου το παιχνίδι βρίσκεται στο 30% και η μουσική στο 100%, και ένα προφίλ "Work" όπου οι κλήσεις ενισχύονται και οτιδήποτε άλλο μειώνεται. Αλλάξτε περιβάλλοντα χωρίς να σύρετε ξανά ρυθμιστικά κάθε φορά.</p>
+
+<p><strong>Αυτόματη πάπια</strong> χαμηλώνει αυτόματα άλλες εφαρμογές κατά την αναπαραγωγή μιας επιλεγμένης εφαρμογής, και στη συνέχεια τις επαναφέρει στη συνέχεια, έτσι ώστε μια θορυβώδης εφαρμογή να μην αποσπά ποτέ πλήρως τον ήχο σας από την αρχή. Ανάμεσα στα προφίλ, το παπάκι και τη γρήγορη εναλλαγή εξόδου (μεταπήδηση μεταξύ ηχείων και ακουστικών χωρίς να ανοίξετε τις Ρυθμίσεις συστήματος), ρυθμίζετε την ισορροπία σας μία φορά και σταματάτε να παρακολουθείτε την ένταση του ήχου.</p>
+
+<h2>Πώς το SoundDial συγκρίνεται με τις εναλλακτικές</h2>
+
+<p>Υπάρχουν άλλοι τρόποι για να αποκτήσετε όγκο ανά εφαρμογή σε ένα Mac. Εδώ είναι μια ειλικρινής ματιά:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39$)</strong> είναι πραγματικά pro-grade: EQ ανά εφαρμογή και πλήρης δρομολόγηση εξόδου πάνω από τον έλεγχο έντασης. Αλλά κοστίζει υπερδιπλάσιο και χρειάζεται ξεχωριστή λήψη συν ένα πρόγραμμα οδήγησης καταγραφής ήχου. Αν θέλετε μια εργαλειοθήκη σε επίπεδο στούντιο, είναι εξαιρετική. Εάν θέλετε απλώς να απορρίψετε μία εφαρμογή, είναι περισσότερο από ό,τι χρειάζεστε.</li>
+<li><strong>Background Music</strong> είναι δωρεάν και ανοιχτού κώδικα, κάτι που είναι υπέροχο, αλλά μπορεί να χαλάσει σε νεότερες εκδόσεις macOS και δεν έχει ενίσχυση έντασης, προφίλ και αυτόματη απαγωγή.</li>
+<li><strong>FineTune</strong> είναι μια δωρεάν εφαρμογή γραμμής μενού ανοιχτού κώδικα και <strong>eqMac</strong> είναι ένα δωρεάν EQ με ενισχυτή. Αξίζει να τα δοκιμάσετε και τα δύο, αν το δωρεάν είναι η προτεραιότητά σας, αλλά ανταλλάσσετε βερνίκια, αξιοπιστία και χαρακτηριστικά για την τιμή.</li>
+</ul>
+
+<p>Το SoundDial βρίσκεται στο γλυκό σημείο: 14,99 € εφάπαξ, χωρίς συνδρομή. Επειδή είναι στο Mac App Store, έχει ελεγχθεί από την Apple και έχει εγκριθεί με sandbox και εγκαθίσταται καθαρά χωρίς DMG, χωρίς προγράμματα οδήγησης ήχου και χωρίς επεκτάσεις συστήματος προς έγκριση. Λαμβάνετε τις δυνατότητες που πραγματικά έχουν σημασία για αυτό το πρόβλημα, όγκο ανά εφαρμογή, σίγαση, ενίσχυση, προφίλ και αυτόματη απεμπλοκή, χωρίς τιμή 39 $ ή ένα εύθραυστο δωρεάν εργαλείο.</p>
+
+<h2>Η ουσία</h2>
+
+<p>Το macOS δεν θα σας αφήσει να απορρίψετε μια εφαρμογή από μόνο του, αλλά αυτό είναι ένα κενό που μπορείτε να κλείσετε σε δευτερόλεπτα. Εγκαταστήστε έναν μίκτη ανά εφαρμογή, σύρετε το ρυθμιστικό της εφαρμογής δυνατά προς τα κάτω και ο υπόλοιπος ήχος σας παραμένει ακριβώς εκεί που θέλετε. Αποθηκεύστε ένα προφίλ και δεν θα το αντιμετωπίσετε ποτέ ξανά.</p>
+
+<p><strong>Είστε έτοιμοι να θέσετε σε σίγαση τη μία εφαρμογή που συνεχίζει να πνίγει τις υπόλοιπες;</strong> Αποκτήστε <a href="https://apps.apple.com/app/id6772792641">SoundDial στο Mac App Store</a> για 14,99 €, μία πληρωμή, χωρίς προγράμματα οδήγησης, χωρίς συνδρομή.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac Audio Mixer για Streamers: Balance Mic, Game & Music",
+    description: "Ο πιο γρήγορος τρόπος για να εξισορροπήσετε το μικρόφωνο, τον ήχο του παιχνιδιού, τη μουσική και τις ειδοποιήσεις κατά τη ροή στο Mac. Το SoundDial σάς προσφέρει έναν μείκτη όγκου ανά εφαρμογή με προφίλ και κούμπωμα.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Για να εξισορροπήσετε το μικρόφωνο, το παιχνίδι, τη μουσική και τις ειδοποιήσεις σας κατά τη ροή σε ένα Mac, η πιο γρήγορη αξιόπιστη λύση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια γραμμή μενού ανά εφαρμογή μείκτη έντασης ήχου. Το macOS δεν διαθέτει ενσωματωμένο μίκτη, επομένως το SoundDial σάς επιτρέπει να ορίζετε ανεξάρτητα επίπεδα ανά εφαρμογή, να ενισχύετε τις αθόρυβες πηγές, να αποθηκεύετε προφίλ ροής και να ακούτε αυτόματα μουσική όταν μιλάτε.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Audio Mixer για Streamers: Balance Mic, Game &amp; Music" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Το πρόβλημα: Το macOS δεν διαθέτει έλεγχο έντασης ήχου ανά εφαρμογή</h2>
+<p>Το Windows έχει το Volume Mixer εδώ και χρόνια. Το macOS εξακολουθεί να μην αποστέλλει ένα. Το ρυθμιστικό έντασης του συστήματός σας μετακινεί τα πάντα ταυτόχρονα, κάτι που είναι άχρηστο όταν είστε ζωντανά. Κατά τη διάρκεια μιας ροής ταχυδακτυλουργείτε με τουλάχιστον τέσσερις πηγές που όλες αγωνίζονται για την ίδια έξοδο:</p>
+<ul>
+<li><strong>Παρακολούθηση φωνής / μικροφώνου</strong> — πρέπει να κάθεσαι πάνω από όλα.</li>
+<li><strong>Ήχος παιχνιδιού</strong> — δυνατά, δυναμικά και επιρρεπή σε αιχμές κατά τη διάρκεια της δράσης.</li>
+<li><strong>Μουσική φόντου</strong> — θα πρέπει να μείνετε ήσυχοι κάτω από το σχόλιό σας.</li>
+<li><strong>Ειδοποιήσεις και ήχοι συνομιλίας</strong> — Discord, Stream Deck, ειδοποιήσεις ακολούθων, ειδοποιήσεις.</li>
+</ul>
+<p>Χωρίς έλεγχο ανά εφαρμογή, καταλήγετε να οδηγείτε το ρυθμιστικό εντός εφαρμογής του παιχνιδιού, να σβήνετε το Spotify με το χέρι και να προσεύχεστε ότι ένα δυνατό σκηνικό δεν εκπλήσσει τους θεατές σας. Αυτό δεν είναι μείγμα, είναι έλεγχος ζημιών.</p>
+
+<h2>Τι πρέπει να κάνει ένας σωστός μίκτης ροής</h2>
+<p>Μια ρύθμιση ήχου με εστίαση στον δημιουργό στο Mac θα πρέπει να σας προσφέρει τέσσερα πράγματα: ανεξάρτητα επίπεδα ανά εφαρμογή, δυνατότητα ενίσχυσης μιας πηγής που είναι πολύ αθόρυβη, αποθηκευμένες διαμορφώσεις που μπορείτε να ανακαλέσετε αμέσως και αυτόματο παπάκι ώστε η μουσική να πέφτει τη στιγμή που μιλάτε. Το SoundDial καλύπτει και τα τέσσερα από τη γραμμή μενού.</p>
+
+<h3>1. Ανεξάρτητος τόμος για κάθε εφαρμογή</h3>
+<p>Ρυθμίστε το παιχνίδι στο 60%, τη μουσική στο 25%, το Discord στο 80% και το πρόγραμμα περιήγησής σας στο 40% — κάθε εφαρμογή έχει το δικό της ρυθμιστικό. Τίποτα δεν αιμορραγεί σε τίποτα άλλο. Μπορείτε επίσης να κάνετε άμεση σίγαση ανά εφαρμογή όταν μια πηγή δεν συμπεριφέρεται σωστά κατά τη διάρκεια της ροής, χωρίς να αγγίζετε την ίδια την εφαρμογή.</p>
+
+<h3>2. Αύξηση έντασης για αθόρυβες πηγές</h3>
+<p>Ορισμένες εφαρμογές και παιχνίδια είναι απλά πολύ αθόρυβα ακόμη και στο 100%. Η ώθηση ανά εφαρμογή του SoundDial ωθεί μια πηγή πέρα ​​από το κανονικό της ανώτατο όριο, έτσι ώστε ένα βουβό παιχνίδι ή ένα βίντεο χαμηλής έντασης να βρίσκεται εκεί που το χρειάζεστε στη μίξη — χωρίς επανακωδικοποίηση, χωρίς πρόσθετα.</p>
+
+<h3>3. Προφίλ έντασης για διαφορετικές σκηνές</h3>
+<p>Αυτή είναι η δυνατότητα που εξοικονομεί περισσότερο χρόνο στους streamers. Η μίξη "Just Chatting" (μουσική επάνω, παιχνίδι κάτω) είναι διαφορετική από τη μίξη "Boss Fight" (παιχνίδι επάνω, μουσική σχεδόν αθόρυβη), η οποία είναι διαφορετική από τη μίξη "BRB". Αποθηκεύστε το καθένα ως προφίλ και κάντε εναλλαγή με ένα κλικ αντί να σύρετε ζωντανά τέσσερα ρυθμιστικά.</p>
+
+<h3>4. Αυτόματη πάπια έτσι ώστε η μουσική να σκάει κάτω από τη φωνή σας</h3>
+<p>Το Auto-ducking μειώνει αυτόματα τον ήχο στο παρασκήνιο όταν μιλάτε και τον επαναφέρει όταν σταματάτε. Για τους σόλο streamers αυτή είναι η διαφορά μεταξύ του σχολίου που είναι καθαρός και της μουσικής που θάβει συνεχώς τη φωνή σας — ο χειρισμός γίνεται αυτόματα αντί για χειροκίνητο.</p>
+
+<h2>Εκεί που ταιριάζει το OBS</h2>
+<p>Το OBS είναι το εργαλείο μετάδοσης και όχι ο μείκτης έντασης του υπολογιστή σας. Το OBS ελέγχει τα επίπεδα που πηγαίνουν στη ροή μέσω του πίνακα και των φίλτρων του Audio Mixer, αλλά λειτουργεί από τις πηγές ήχου που καταγράφει — δεν φτάνει σε μεμονωμένες εφαρμογές macOS και τις μειώνει σε επίπεδο συστήματος. Στο Mac, η εισαγωγή καθαρού ήχου επιφάνειας εργασίας ανά εφαρμογή στο OBS ήταν πάντα το οδυνηρό μέρος.</p>
+<p>Η πρακτική ροή εργασίας: χρησιμοποιήστε το SoundDial για να ρυθμίσετε τα πραγματικά επίπεδα ανά εφαρμογή στο Mac, ώστε ό,τι βγαίνει να είναι ήδη ισορροπημένο και, στη συνέχεια, αφήστε το OBS να καταγράψει και να ρυθμίσει με ακρίβεια τα επίπεδα μετάδοσης. Ρυθμίστε τη μίξη μία φορά στην πηγή και το OBS έχει πολύ λιγότερα να αντιμετωπίσει. Η γρήγορη εναλλαγή εξόδου στο SoundDial σάς επιτρέπει επίσης να μεταβείτε μεταξύ ακουστικών και ηχείων χωρίς να κάνετε κατάδυση στις Ρυθμίσεις συστήματος μεταξύ των σκηνών.</p>
+
+<h2>SoundDial εναντίον των εναλλακτικών</h2>
+<p>Έχετε επιλογές και η ειλικρίνεια έχει σημασία εδώ:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39$)</strong> — pro-grade με EQ ανά εφαρμογή και πλήρη δρομολόγηση εξόδου. Είναι εξαιρετικό, αλλά κοστίζει υπερδιπλάσιο, απαιτεί άμεση λήψη και εγκαθιστά ένα πρόγραμμα οδήγησης καταγραφής ήχου. Υπερσκοτώστε εάν χρειάζεστε κυρίως καθαρά επίπεδα ανά εφαρμογή, ώθηση και παπάκι.</li>
+<li><strong>Background Music (δωρεάν, ανοιχτού κώδικα)</strong> — Πραγματικά χρήσιμο και δωρεάν, αλλά μπορεί να χαλάσει σε νεότερες εκδόσεις macOS και δεν έχει καμία ενίσχυση, χωρίς προφίλ και χωρίς αυτόματη απαγωγή — τα ακριβή χαρακτηριστικά στα οποία βασίζονται οι streamers.</li>
+<li><strong>FineTune (δωρεάν, ανοιχτού κώδικα εφαρμογή γραμμής μενού)</strong> — Ελαφρύς έλεγχος ανά εφαρμογή, αλλά ένα έργο κοινότητας χωρίς τον συνδυασμό προφίλ-συν-παπιών που έχει δημιουργηθεί για ζωντανή ροή.</li>
+<li><strong>eqMac (δωρεάν EQ + ενισχυτής)</strong> — καλό για τη διαμόρφωση και την ενίσχυση του τόνου, αλλά είναι ισοσταθμιστής, όχι μίκτης ροής ανά εφαρμογή.</li>
+</ul>
+<p>Η γωνία του SoundDial: είναι α <strong>14,99 € εφάπαξ</strong> αγορά στο <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Ελεγμένο από την Apple, σε sandbox και εγκαθίσταται καθαρά χωρίς DMG και χωρίς προγράμματα οδήγησης ήχου ή επεκτάσεις συστήματος. Αυτό το τελευταίο μέρος έχει σημασία για τους streamers: λιγότερα στοιχεία σε επίπεδο πυρήνα σημαίνει λιγότερα αιφνιδιαστικά σπασίματα όταν το macOS ενημερώνεται το βράδυ πριν από τη ροή σας.</p>
+
+<h2>Το τίμιο αντάλλαγμα</h2>
+<p>Εάν χρειάζεστε EQ βαθμού εκπομπής και σύνθετες αλυσίδες δρομολόγησης, το SoundSource κερδίζει την τιμή του. Εάν θέλετε ένα δωρεάν εργαλείο τεχνίτη και δεν σας πειράζει το περιστασιακό σπάσιμο, το Background Music ή το FineTune θα το κάνουν. Αλλά αν θέλετε το μείγμα που πραγματικά απαιτεί η ροή - επίπεδα ανά εφαρμογή, ενίσχυση, αποθηκευμένα προφίλ σκηνής και αυτόματη απομάκρυνση - από μια ασφαλή εγκατάσταση App Store που επιβιώνει από ενημερώσεις macOS, το SoundDial είναι η πιο άμεση διαδρομή για τα χρήματα.</p>
+
+<p><strong>Είστε έτοιμοι να διορθώσετε τον ήχο ροής σας;</strong> Αποκτήστε <a href="https://apps.apple.com/app/id6772792641">SoundDial στο Mac App Store</a> για 14,99 € — ρυθμίστε τα επίπεδα μικροφώνου, παιχνιδιού, μουσικής και ειδοποίησης μία φορά, αποθηκεύστε τα ως προφίλ και αφήστε το αυτόματο πάπιο να κρατά τη φωνή σας στην κορυφή.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "Πώς να διορθώσετε το τρίξιμο και το σκάσιμο ήχου στο macOS Tahoe",
+    description: "Τραγούισμα ή αναπαραγωγή ήχου μετά την ενημέρωση σε macOS Tahoe 26; Διορθώστε το αντιστοιχίζοντας τον ρυθμό δειγματοληψίας, επαναφέροντας το CoreAudio, ελέγχοντας τον κωδικοποιητή Bluetooth και εκκαθαρίζοντας διενέξεις προσθηκών. Ακολουθεί η πλήρης σειρά αντιμετώπισης προβλημάτων.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Το τρίξιμο και το σκάσιμο μετά την ενημέρωση σε macOS Το Tahoe 26 είναι σχεδόν πάντα μια αναντιστοιχία ποσοστού δείγματος, μια ξεφλουδισμένη διαπραγμάτευση κωδικοποιητή Bluetooth ή μια κολλημένη διαδικασία CoreAudio. Διορθώστε το ταιριάζοντας τον ρυθμό δειγματοληψίας εξόδου στο Audio MIDI Setup, επαναφορά <code>coreaudiod</code>, ξεχνώντας και επανασυνδέοντας τα ακουστικά Bluetooth και τερματίζοντας τους κεντρικούς υπολογιστές προσθήκης ήχου. Δουλέψτε τα με τη σειρά παρακάτω.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Πώς να διορθώσετε το τρίξιμο και το σκάσιμο ήχου στο macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ξεκινήστε με τις φθηνές επιδιορθώσεις</h2>
+
+<p>Πριν αγγίξετε οτιδήποτε τεχνικό, αποκλείστε τα δύο πράγματα που επιλύουν τις περισσότερες περιπτώσεις σε λιγότερο από ένα λεπτό:</p>
+
+<ul>
+<li><strong>Επανεκκινήστε το Mac.</strong> Μια ενημέρωση Tahoe αφήνει τους ήχους δαίμονες σε μια κατάσταση μισής μετανάστευσης εκπληκτικά συχνά. Μια καθαρή επανεκκίνηση φορτώνει ξανά το CoreAudio από την αρχή και καθαρίζει το μεγαλύτερο μέρος των κροτίδων μετά την ενημέρωση.</li>
+<li><strong>Αποσυνδέστε και επανασυνδέστε τη συσκευή εξόδου.</strong> Εάν πρόκειται για USB DAC, βάση σύνδεσης ή διασύνδεση ήχου, αποσυνδέστε το, περιμένετε μερικά δευτερόλεπτα και επανασυνδεθείτε. Δοκιμάστε επίσης μια διαφορετική θύρα USB, ιδανικά απευθείας στο Mac και όχι μέσω διανομέα. Οι κόμβοι και οι οθόνες που μεταδίδουν ήχο είναι μια κοινή πηγή αναδυόμενων παραστάσεων.</li>
+</ul>
+
+<p>Εάν ο θόρυβος επιβιώσει από την επανεκκίνηση, είναι πρόβλημα διαμόρφωσης, όχι σφάλμα. Συνεχίζω.</p>
+
+<h2>Αντιστοίχιση του ποσοστού δειγματοληψίας (η πιο κοινή αιτία)</h2>
+
+<p>Το κλασικό κροτάλισμα Tahoe προέρχεται από μια αναντιστοιχία ποσοστού δείγματος μεταξύ αυτού που θέλει η συσκευή σας και αυτού που στέλνει το macOS. Όταν μια εφαρμογή αναπαράγει ήχο 44,1 kHz και το σύστημα είναι κλειδωμένο στα 48 kHz (ή αντίστροφα), η επαναδειγματοληψία μπορεί να τραυλίσει ή να σκάσει.</p>
+
+<ul>
+<li>Ανοίξτε <strong>Ρύθμιση ήχου MIDI</strong> (στο Εφαρμογές → Βοηθητικά προγράμματα ή αναζητήστε το Spotlight).</li>
+<li>Επιλέξτε τη συσκευή εξόδου στην αριστερή πλαϊνή γραμμή.</li>
+<li>Κοιτάξτε το <strong>Μορφοποίηση</strong> αναπτυσσόμενη λίστα. Δοκιμάστε να το ρυθμίσετε σε <strong>48000,0 Hz, 2ch-24bit Ακέραιος αριθμός</strong> και δοκιμή.</li>
+<li>Εάν το σκάσιμο συνεχίζεται, μεταβείτε σε <strong>44100,0 Hz</strong> και δοκιμάστε ξανά.</li>
+<li>Για τις διεπαφές, βεβαιωθείτε ότι ο ρυθμός δειγματοληψίας ταιριάζει με τον ρυθμό έργου του DAW.</li>
+</ul>
+
+<p>Η εναλλαγή της μορφής αναγκάζει επίσης το CoreAudio να επαναδιαπραγματευτεί τη σύνδεση, κάτι που από μόνο του διορθώνει πολλές περιπτώσεις ακόμα και όταν προσγειωθείτε στην ίδια τιμή.</p>
+
+<h2>Επαναφορά CoreAudio</h2>
+
+<p>Το CoreAudio εκτελείται ως δαίμονας φόντου που ονομάζεται <code>coreaudiod</code>. Μετά από μια σημαντική ενημέρωση macOS, μπορεί να κρατηθεί σε κατάσταση μπαγιάτικης συσκευής. Η επανεκκίνηση είναι ασφαλής και τίθεται σε ισχύ αμέσως, χωρίς επανεκκίνηση.</p>
+
+<p>Ανοίξτε το Terminal και εκτελέστε:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Εισαγάγετε τον κωδικό πρόσβασής σας όταν σας ζητηθεί. Ο ήχος σας θα διακοπεί για ένα δευτερόλεπτο και, στη συνέχεια, ο δαίμονας θα επανεκκινήσει αυτόματα με μια καθαρή πλάκα. Αυτή είναι η πιο αποτελεσματική λύση για το κράξιμο που εμφανίζεται από το πουθενά σε ένα μηχάνημα που ήταν καλά πριν από την ενημέρωση.</p>
+
+<h2>Ελέγξτε τα ακουστικά Bluetooth και τον κωδικοποιητή σας</h2>
+
+<p>Εάν το τρίξιμο συμβαίνει μόνο σε AirPods ή άλλα ακουστικά Bluetooth, το πρόβλημα είναι συνήθως η διαπραγμάτευση κωδικοποιητή και όχι τα ηχεία σας. Η ποιότητα του ασύρματου ήχου υποβαθμίζεται όταν η σύνδεση έχει συμφόρηση ή όταν το macOS πέφτει σε λειτουργία κλήσης χαμηλού εύρους ζώνης.</p>
+
+<ul>
+<li><strong>Ξεχάστε και αντιστοιχίστε ξανά τη συσκευή.</strong> Μεταβείτε στις Ρυθμίσεις συστήματος → Bluetooth, αφαιρέστε τα ακουστικά και, στη συνέχεια, αντιστοιχίστε τα ξανά. Αυτό επαναφέρει τον κωδικοποιητή διαπραγμάτευσης.</li>
+<li><strong>Παρακολουθήστε την πτώση της λειτουργίας κλήσης.</strong> Όταν μια εφαρμογή ανοίγει το μικρόφωνο, το macOS αλλάζει τα ακουστικά Bluetooth σε αμφίδρομο προφίλ χαμηλής ποιότητας, το οποίο ακούγεται τραγανό. Κλείστε τις εφαρμογές συνδιάσκεψης και φωνής που δεν χρησιμοποιείτε και η πιστότητα επιστρέφει.</li>
+<li><strong>Μειώστε τις παρεμβολές.</strong> Απομακρυνθείτε από πολυσύχναστα περιβάλλοντα 2,4 GHz και αποσυνδέστε τις συσκευές Bluetooth που δεν χρειάζεστε. Ένα πολυάσχολο ραδιοφωνικό συγκρότημα παράγει διακοπτόμενα pops.</li>
+<li><strong>Απενεργοποιήστε την είσοδο μικροφώνου</strong> στις ρυθμίσεις μιας εφαρμογής, εάν χρειάζεται μόνο να ακούσετε, έτσι το macOS διατηρεί το προφίλ αναπαραγωγής υψηλής ποιότητας.</li>
+</ul>
+
+<h2>Κλείστε τους κεντρικούς υπολογιστές προσθήκης ήχου και τα εικονικά προγράμματα οδήγησης</h2>
+
+<p>Το λογισμικό ήχου τρίτων που εγκαθιστά μια επέκταση συστήματος ή μια εικονική συσκευή είναι συχνός παραβάτης μετά από ένα άλμα στο λειτουργικό σύστημα, επειδή οι επεκτάσεις πυρήνα και ήχου συχνά χρειάζονται ενημέρωση για μια νέα έκδοση macOS. Οι ύποπτοι περιλαμβάνουν εικονικούς δρομολογητές ήχου, εφαρμογές ισοσταθμιστή, εργαλεία επαναφοράς και παλαιότερα βοηθητικά προγράμματα που βασίζονται σε προγράμματα οδήγησης.</p>
+
+<ul>
+<li>Κλείστε οποιαδήποτε εφαρμογή ισοσταθμιστή, δρομολογητή ήχου ή επαναφοράς και ελέγξτε αν σταματάει το τρίξιμο.</li>
+<li>Επιλέξτε Ρυθμίσεις συστήματος → Γενικά → Στοιχεία σύνδεσης &amp; Επεκτάσεις για επεκτάσεις ήχου που μπορεί να χρειάζονται ενημέρωση ή κατάργηση.</li>
+<li>Ενημερώστε αυτές τις εφαρμογές στις εκδόσεις τους που είναι συμβατές με Tahoe ή απεγκαταστήστε αυτές που δεν χρησιμοποιείτε πλέον. Τα στοιβαγμένα προγράμματα οδήγησης ήχου συχνά έρχονται σε διένεξη μεταξύ τους μετά από μια σημαντική ενημέρωση.</li>
+</ul>
+
+<p>Εάν η έξοδος από μία από αυτές τις εφαρμογές σιγήσει τα σκασμένα, έχετε βρει τον ένοχο σας. Επανεγκαταστήστε την τρέχουσα έκδοση ή αφήστε την εκτός λειτουργίας.</p>
+
+<h2>Περιορίστε το: σε όλο το σύστημα ή μία εφαρμογή;</h2>
+
+<p>Μάθετε εάν ο θόρυβος συμβαίνει παντού ή μόνο σε συγκεκριμένο λογισμικό. Παίξτε ένα τοπικό αρχείο ήχου, μετά ένα βίντεο προγράμματος περιήγησης και μετά μια εφαρμογή μουσικής. Αν μόνο μία εφαρμογή χτυπάει, η επιδιόρθωση είναι οι ρυθμίσεις ήχου της ίδιας της εφαρμογής ή μια ενημέρωση, όχι το macOS. Εάν είναι σε όλο το σύστημα, τα παραπάνω βήματα είναι εκεί που βρίσκεται η απάντηση.</p>
+
+<p>Όταν είστε ακόμα κολλημένοι, εκκινήστε σε ασφαλή λειτουργία (κρατήστε πατημένο το κουμπί λειτουργίας στο πυρίτιο της Apple και, στη συνέχεια, επιλέξτε τη δισκέτα εκκίνησης κρατώντας πατημένο το Shift). Η ασφαλής λειτουργία δεν φορτώνει επεκτάσεις τρίτων. Εάν ο ήχος είναι καθαρός εκεί, ένα στοιχείο σύνδεσης ή ένα πρόγραμμα οδήγησης είναι η αιτία και μπορείτε να τα ενεργοποιήσετε ξανά ένα κάθε φορά για να το βρείτε.</p>
+
+<h2>Μόλις ο ήχος είναι καθαρός</h2>
+
+<p>Το Crackling είναι ένα πρόβλημα προγράμματος οδήγησης και ρυθμού δείγματος, επομένως οι παραπάνω επιδιορθώσεις είναι αυτές που το επιλύουν πραγματικά. Αλλά όταν η αναπαραγωγή είναι σταθερή, μπορεί να παρατηρήσετε έναν διαφορετικό περιορισμό: το macOS εξακολουθεί να μην έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή, όπως κάνει το Windows. Δεν μπορείτε να απενεργοποιήσετε μια δυνατή εφαρμογή χωρίς να απενεργοποιήσετε τα πάντα.</p>
+
+<p>Αυτό είναι το κενό <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> γεμίζει. Είναι ένας μίκτης γραμμής μενού που δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης ήχου, σίγαση ανά εφαρμογή και ακόμη και αύξηση έντασης για αθόρυβες εφαρμογές, καθώς και γρήγορη εναλλαγή εξόδου. Δεν θα διορθώσει το τρίξιμο, αλλά όταν ο ήχος σας είναι υγιής, κάνει τον καθημερινό έλεγχο πολύ πιο εύκολο.</p>
+
+<p>Ακολουθήστε τα παραπάνω βήματα με τη σειρά και ξεκινήστε με την επανεκκίνηση και τον έλεγχο ρυθμού δείγματος. Εάν αργότερα θέλετε πραγματικό έλεγχο ανά εφαρμογή στην καθαρή ρύθμιση ήχου, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια εφάπαξ αγορά 14,99 € στο Mac App Store, σε sandbox χωρίς προγράμματα οδήγησης ή DMG για εγκατάσταση.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Τραυλισμός ή Κοπή στο Mac (Tahoe Fix)",
+    description: "Το τραύλισμα, η διακοπή ή η απόρριψη ήχου στο macOS Tahoe είναι σχεδόν πάντα παρεμβολή Bluetooth ή ανατροπή αυτόματης εναλλαγής. Δείτε πώς μπορείτε να κάνετε εκ νέου σύζευξη, να μειώσετε τη συμφόρηση στα 2,4 GHz και να σταματήσετε τις μεταβιβάσεις που διακόπτουν την αναπαραγωγή.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Ο τραυλισμός ή η αποκοπή του AirPods στο macOS Tahoe είναι σχεδόν πάντα παρεμβολή Bluetooth, όχι σπασμένο ακουστικό. Οι συνήθεις ένοχοι είναι η συμφόρηση Wi-Fi και δρομολογητή 2,4 GHz, η επιθετική αυτόματη εναλλαγή συσκευών και η μπαγιάτικη σύζευξη. Συνδέστε ξανά το AirPods, απενεργοποιήστε τον αυτόματο διακόπτη και απομακρυνθείτε από πολυσύχναστα κανάλια 2,4 GHz για να διορθώσετε τις περισσότερες περιπτώσεις.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Τραυλισμός ή κόψιμο στο Mac (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το AirPods πέφτει στο Mac συγκεκριμένα</h2>
+
+<p>Το AirPods χρησιμοποιεί το Bluetooth, το οποίο μοιράζεται τη γεμάτη ζώνη ραδιοφώνου 2,4 GHz με Wi-Fi, φούρνους μικροκυμάτων, συσκευές USB 3 και σχεδόν κάθε έξυπνο βύσμα στο σπίτι σας. Το Mac είναι ένα πολυάσχολο ραδιόφωνο: συνδυάζει τις λειτουργίες Wi-Fi, Bluetooth, AirDrop και Continuity σε επικαλυπτόμενες κεραίες. Όταν αυτό το συγκρότημα έχει συμφόρηση, ο ήχος Bluetooth είναι το πρώτο πράγμα που τραυλίζει, επειδή δεν μπορεί να ανεχθεί πακέτα που πέφτουν όπως μπορεί μια μεταφορά αρχείων.</p>
+
+<p>Το Tahoe δεν έκανε το AirPods χειρότερο, αλλά μια νέα εγκατάσταση macOS συχνά επαναφέρει τη συμπεριφορά του ραδιοφώνου, ενεργοποιεί εκ νέου τις παραδόσεις Continuity και επαναδιαπραγματεύεται κωδικοποιητές. Γι' αυτό φαίνεται να εμφανίζονται προβλήματα αμέσως μετά την ενημέρωση. Τα καλά νέα: οι διορθώσεις είναι καλά κατανοητές και ως επί το πλείστον δωρεάν.</p>
+
+<h2>Διόρθωση 1: Επανασυνδέστε το AirPods (κάντε αυτό πρώτα)</h2>
+
+<p>Μια μπαγιάτικη ή κατεστραμμένη σύζευξη επιβιώνει από τις επανεκκινήσεις και προκαλεί διακοπτόμενες πτώσεις που φαίνονται τυχαίες. Καταργήστε πλήρως και προσθέστε ξανά τη σύνδεση:</p>
+
+<ul>
+<li>Ανοίξτε <strong>Ρυθμίσεις συστήματος, Bluetooth</strong>.</li>
+<li>Κάντε κλικ στο κουμπί πληροφοριών (i) δίπλα στο AirPods και επιλέξτε <strong>Ξεχάστε αυτήν τη συσκευή</strong>.</li>
+<li>Βάλτε το AirPods στη θήκη τους, κλείστε το καπάκι, περιμένετε 15 δευτερόλεπτα και μετά ανοίξτε το.</li>
+<li>Κρατήστε πατημένο το κουμπί στο πίσω μέρος της θήκης έως ότου το φως να αναβοσβήσει λευκό.</li>
+<li>Εκ νέου σύζευξη από τη λίστα Bluetooth.</li>
+</ul>
+
+<p>Όσο βρίσκεστε εκεί, βεβαιωθείτε ότι το υλικολογισμικό AirPods είναι ενημερωμένο. Δεν υπάρχει μη αυτόματο πρόγραμμα ενημέρωσης, αλλά αφήνοντάς τα στη θήκη κοντά σε συνδεδεμένο iPhone ή Mac για λίγο, τους επιτρέπει να ενημερώνονται στο παρασκήνιο.</p>
+
+<h2>Διόρθωση 2: Απενεργοποιήστε την αυτόματη εναλλαγή</h2>
+
+<p>Αυτή είναι η μόνη μεγαλύτερη αιτία «αποκοπής» για τους ανθρώπους στο οικοσύστημα της Apple. Το AirPods προσπαθεί να σας ακολουθήσει μεταξύ του Mac, του iPhone και του iPad. Κάθε φορά που το τηλέφωνό σας πιστεύει ότι πρέπει να συλλάβει ήχο, η σύνδεση διακόπτεται στο Mac, προκαλώντας ένα μισό δευτερόλεπτο που εγκαταλείπει το μέσο του podcast.</p>
+
+<ul>
+<li>Στο Mac: Bluetooth, κάντε κλικ στο (i) δίπλα στο AirPods, ορίστε <strong>Συνδεθείτε σε αυτό το Mac</strong> να <strong>Πότε συνδέθηκε τελευταία φορά σε αυτό το Mac</strong> αντί για Αυτόματα.</li>
+<li>Στο iPhone: Ρυθμίσεις, πατήστε το AirPods, <strong>Συνδεθείτε σε αυτό το iPhone</strong>, επιλέξτε <strong>Πότε συνδέθηκε τελευταία φορά σε αυτό το iPhone</strong>.</li>
+</ul>
+
+<p>Αυτό σταματά τη διελκυστίνδα μεταξύ συσκευών. Θα επιλέξετε με μη αυτόματο τρόπο πού πηγαίνει ο ήχος, κάτι που είναι μια μικρή τιμή για σταθερή αναπαραγωγή.</p>
+
+<h2>Επίλυση 3: Μείωση συμφόρησης 2,4 GHz</h2>
+
+<p>Εάν σημειωθούν πτώσεις κατά τη διάρκεια βιντεοκλήσεων, λήψεων ή όταν άλλα άτομα κάνουν ροή, η μπάντα του ραδιοφώνου σας είναι κορεσμένη. Μερικές πρακτικές κινήσεις:</p>
+
+<ul>
+<li><strong>Χρησιμοποιήστε τη ζώνη Wi-Fi 5 GHz</strong> στο Mac σας. Στις ρυθμίσεις του δρομολογητή σας, δώστε στο δίκτυο 5 GHz ένα ξεχωριστό όνομα και συνδεθείτε σε αυτό. Αυτό ελευθερώνει τη ζώνη των 2,4 GHz για το Bluetooth.</li>
+<li><strong>Μετακινήστε τους διανομείς USB 3 και Thunderbolt μακριά</strong> από τα Mac και AirPods. Το USB 3 είναι μια περιβόητη πηγή θορύβου 2,4 GHz. ένας κόμβος που κάθεται δίπλα στον φορητό υπολογιστή σας μπορεί να καταστρέψει το Bluetooth από ίντσες μακριά.</li>
+<li><strong>Αλλάξτε το κανάλι 2,4 GHz του δρομολογητή σας</strong> στο 1, 6 ή 11 (οι μη επικαλυπτόμενες επιλογές) και αποφύγετε τα πολυσύχναστα κανάλια στα οποία βρίσκονται οι γείτονές σας.</li>
+<li><strong>Διατηρήστε οπτική επαφή.</strong> Τα σώματα και οι τοίχοι απορροφούν 2,4 GHz. Εάν το Mac είναι πίσω σας ή σε μια τσάντα, οι πτώσεις χειροτερεύουν.</li>
+</ul>
+
+<blockquote>Οι δρομολογητές Wi-Fi 6E και Wi-Fi 7 μπορούν να βοηθήσουν έμμεσα: η ώθηση των συσκευών σας στα 6 GHz διαγράφει τη ζώνη των 2,4 GHz από την οποία εξαρτάται το Bluetooth. Αλλά ένα κακώς διαμορφωμένο πλέγμα που σας οδηγεί στα 2,4 GHz μπορεί να κάνει τα πράγματα χειρότερα. Ελέγξτε σε ποιο συγκρότημα είστε πραγματικά.</blockquote>
+
+<h2>Διόρθωση 4: Επαναφέρετε τη στοίβα Bluetooth και Continuity</h2>
+
+<p>Εάν η επανασύζευξη δεν κράτησε, επαναφέρετε τα ίδια τα ραδιόφωνα:</p>
+
+<ul>
+<li>Απενεργοποιήστε και ενεργοποιήστε το Bluetooth από τη γραμμή μενού και, στη συνέχεια, επανεκκινήστε το Mac. Μια επανεκκίνηση διαγράφει έναν εκπληκτικό αριθμό παροδικών δυσλειτουργιών ήχου.</li>
+<li>Επαναφέρετε το SMC/NVRAM σε Intel Mac ή απλώς τερματίστε πλήρως (όχι επανεκκίνηση) για 30 δευτερόλεπτα στο Apple Silicon.</li>
+<li>Εάν δεν χρησιμοποιείτε το AirDrop ή το Handoff, η απενεργοποίηση του Handoff στις Ρυθμίσεις συστήματος, Γενικά, AirDrop &amp; Handoff μειώνει τη συνομιλία του ραδιοφώνου στο παρασκήνιο.</li>
+</ul>
+
+<h2>Τι δεν θα το διορθώσει (και τι κάνει στην πραγματικότητα ένας μίκτης έντασης)</h2>
+
+<p>Για να είμαστε σαφείς σχετικά με το εύρος: κανένα από αυτά δεν είναι πρόβλημα όγκου λογισμικού και καμία εφαρμογή τόμου δεν μπορεί να επιδιορθώσει έναν σύνδεσμο Bluetooth. Εάν ο ήχος σας είναι <em>πτώση</em>, κυνηγήστε το θέμα του ραδιοφώνου παραπάνω. Εφαρμογές όπως <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ελέγχουν την ένταση ήχου ανά εφαρμογή, τη σίγαση και την εναλλαγή εξόδου, δεν αγγίζουν τη στοίβα Bluetooth, επομένως δεν θα σταματήσουν να τραυλίζουν. Εκεί που βοηθάει πραγματικά ένας μίκτης είναι η παρακείμενη ενόχληση που συγχέουν πολλοί χρήστες του AirPods με την εγκατάλειψη: μια εφαρμογή εκτοξεύει ενώ μια άλλη είναι πολύ αθόρυβη ή χρειάζεται να μεταπηδήσουν γρήγορα τις εξόδους. Αυτό είναι πρόβλημα ισορροπίας όγκου, όχι σύνδεσης.</p>
+
+<p>Διάγνωση με ειλικρίνεια. Εάν ο ήχος κοπεί και επιστρέψει, είναι παρεμβολή ή αυτόματη εναλλαγή. Εάν τα επίπεδα είναι απλά άνισα μεταξύ των εφαρμογών, αυτό είναι ένα πρόβλημα ανάμειξης που μπορείτε πραγματικά να λύσετε με λογισμικό.</p>
+
+<h2>Γρήγορη λίστα ελέγχου</h2>
+
+<ul>
+<li>Ξεχάστε και αντιστοιχίστε ξανά το AirPods.</li>
+<li>Ρυθμίστε το Mac και το iPhone σε <strong>Πότε συνδέθηκε τελευταία</strong>, όχι Αυτόματα.</li>
+<li>Μετακινήστε το Mac σε Wi-Fi 5 GHz. κρατήστε μακριά τους διανομείς USB 3.</li>
+<li>Ρυθμίστε τα 2,4 GHz στο κανάλι 1, 6 ή 11.</li>
+<li>Κάντε επανεκκίνηση μετά την εναλλαγή του Bluetooth.</li>
+</ul>
+
+<p>Μόλις φύγουν οι εγκαταλείψεις και θέλετε απλώς πιο καθαρό έλεγχο του πόσο δυνατά παίζει κάθε εφαρμογή, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> προσθέτει έναν κατάλληλο μείκτη έντασης ήχου ανά εφαρμογή, σίγαση, ενίσχυση και γρήγορη εναλλαγή εξόδου που το macOS εξακολουθεί να μην περιλαμβάνει. Είναι μια εφάπαξ αγορά 14,99 € στο Mac App Store, σε sandbox, χωρίς προγράμματα οδήγησης για εγκατάσταση.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Το δεξί ηχείο νεκρό στο Mac Μετά την ενημέρωση του Tahoe; Πώς να το διορθώσετε",
+    description: "Ένα ηχείο ή ένα κανάλι σταμάτησε να λειτουργεί μετά την ενημέρωση σε macOS Tahoe; Ξεκινήστε με το ρυθμιστικό ισορροπίας ήχου και, στη συνέχεια, επαναφέρετε το Core Audio, δοκιμάστε την ασφαλή λειτουργία και αποκλείστε το υλικό. Ένας σαφής οδηγός αντιμετώπισης προβλημάτων.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν το δεξί σας ηχείο έμεινε αθόρυβο μετά την ενημέρωση σε macOS Tahoe, ελέγξτε τον ήχο <strong>ρυθμιστικό ισορροπίας</strong> πρώτα — μπορεί να αλλάξει κατά τη διάρκεια μιας ενημέρωσης. Μεταβείτε στις Ρυθμίσεις συστήματος &gt; Έξοδος ήχου &gt; και βεβαιωθείτε ότι η ισορροπία βρίσκεται στο νεκρό κέντρο. Εάν αυτό είναι εντάξει, επανεκκινήστε το Core Audio, εκκινήστε σε ασφαλή λειτουργία και, στη συνέχεια, αποκλείστε το υλικό. Οι περισσότερες περιπτώσεις είναι λογισμικό.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Το δεξί ηχείο νεκρό στο Mac Μετά την ενημέρωση του Tahoe; Πώς να το διορθώσετε" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Πρώτον: το ρυθμιστικό ισορροπίας (το διορθώνει πιο συχνά από όσο νομίζετε)</h2>
+
+<p>Ένα κολλημένο ή μετατοπισμένο ρυθμιστικό ισορροπίας είναι ο πιο συνηθισμένος λόγος για τον οποίο ένα κανάλι είναι αθόρυβο — και οι ενημερώσεις macOS περιστασιακά το σπρώχνουν. Πριν υποθέσετε το χειρότερο:</p>
+
+<ul>
+<li>Ανοίξτε <strong>Ρυθμίσεις συστήματος &gt; Ήχος</strong>.</li>
+<li>Κάντε κλικ στο <strong>Έξοδος</strong> και επιλέξτε τα ηχεία σας (ενσωματωμένα ή την εξωτερική σας συσκευή).</li>
+<li>Βρείτε το <strong>Ισορροπία</strong> ρυθμιστικό και σύρετέ το στο κέντρο ακριβώς. Εάν τραβήχτηκε αριστερά, το δεξί σας κανάλι θα ακουγόταν νεκρό.</li>
+</ul>
+
+<p>Κάντε αυτό <em>ανά συσκευή εξόδου</em>. Η ρύθμιση ισορροπίας απομνημονεύεται ξεχωριστά για τα ενσωματωμένα ηχεία, τα ακουστικά και κάθε εξωτερική διεπαφή — επομένως μια ενσωματωμένη ισορροπία στο κέντρο δεν θα βοηθήσει εάν το πρόβλημα βρίσκεται στο USB DAC σας.</p>
+
+<h2>Ελέγξτε αν πρόκειται για κανάλι υλικού</h2>
+
+<p>Ρυθμίστε γρήγορα το υλικό μέσα ή έξω. Παίξτε ένα στερεοφωνικό κομμάτι που γνωρίζετε καλά και, στη συνέχεια, συνδέστε ένα ζευγάρι ενσύρματα ακουστικά. Εάν και τα δύο κανάλια λειτουργούν σε ακουστικά αλλά όχι μέσω των ηχείων, το πρόβλημα είναι κατάντη της μηχανής ήχου (υλισμικό ηχείων ή διαδρομή εξόδου). Εάν το ίδιο κανάλι είναι νεκρό και στα ακουστικά, είναι πιο πιθανό το λογισμικό ή ο κωδικοποιητής ήχου του λογικού πίνακα.</p>
+
+<p>Μπορείτε επίσης να ανοίξετε <strong>Μουσική</strong> ή QuickTime, παίξτε κάτι και αλλάξτε την ισορροπία δυνατά αριστερά και μετά δεξιά δεξιά. Εάν ο ήχος κινείται καθαρά μεταξύ των καναλιών, και τα δύο ηχεία είναι ζωντανά και αυτό είναι καθαρά πρόβλημα ρυθμίσεων.</p>
+
+<h2>Κάντε επανεκκίνηση του Core Audio</h2>
+
+<p>Το macOS δρομολογεί όλο τον ήχο μέσω του <strong>coreaudiod</strong> διαδικασία. Μετά από μια σημαντική ενημέρωση, η κατάστασή του μπορεί να σφηνωθεί — οι έξοδοι εξαφανίζονται, τα κανάλια πέφτουν ή η ένταση του ήχου συμπεριφέρεται περίεργα. Η επανεκκίνηση είναι ασφαλής και αναγκάζει το macOS να ξαναχτίσει το ηχητικό γράφημα:</p>
+
+<ul>
+<li>Ανοίξτε <strong>Terminal</strong> (Εφαρμογές &gt; Utilities).</li>
+<li>Εκτέλεση: <code>sudo killall coreaudiod</code></li>
+<li>Εισαγάγετε τον κωδικό πρόσβασής σας. Ο δαίμονας ήχου επανεκκινεί αυτόματα μέσα σε ένα ή δύο δευτερόλεπτα.</li>
+</ul>
+
+<p>Τίποτα δεν διαγράφεται — αυτό απλώς επανεκκινεί το υποσύστημα ήχου. Δοκιμάστε ξανά το δεξί σας ηχείο αμέσως μετά.</p>
+
+<h2>Κάντε επανεκκίνηση σωστά και μετά δοκιμάστε την ασφαλή λειτουργία</h2>
+
+<p>Μια πλήρης επανεκκίνηση διαγράφει παροδικές δυσλειτουργίες ήχου που δεν θα κάνει ένα killall. Εάν το κανάλι είναι ακόμα νεκρό, εκκινήστε <strong>ασφαλής λειτουργία</strong>, το οποίο φορτώνει ένα ελάχιστο σύστημα και παρακάμπτει τις επεκτάσεις ήχου και τα στοιχεία σύνδεσης τρίτων:</p>
+
+<ul>
+<li><strong>Πυρίτιο της Apple:</strong> Κλείσε. Κρατήστε πατημένο το κουμπί λειτουργίας μέχρι να εμφανιστεί η "Φόρτωση επιλογών εκκίνησης". Επιλέξτε το δίσκο σας και μετά κρατήστε πατημένο <strong>Μετατόπιση</strong> και κάντε κλικ στο «Συνέχεια σε ασφαλή λειτουργία».</li>
+<li><strong>Intel:</strong> Κάντε επανεκκίνηση και κρατήστε πατημένο <strong>Μετατόπιση</strong> μέχρι να εμφανιστεί το παράθυρο σύνδεσης.</li>
+</ul>
+
+<p>Εάν και τα δύο ηχεία λειτουργούν σε ασφαλή λειτουργία, ένα πρόγραμμα οδήγησης ήχου τρίτου κατασκευαστή, μια εικονική συσκευή ή ένα βοηθητικό πρόγραμμα γραμμής μενού εγκατεστημένο πριν από την ενημέρωση έρχεται σε διένεξη με τη νέα στοίβα ήχου της Tahoe. Επανεκκινήστε στο κανονικό και αφαιρέστε ή ενημερώστε το πρόσφατα εγκατεστημένο λογισμικό ήχου (οι συσκευές εγγραφής οθόνης, οι εφαρμογές συσκέψεων και τα kexts δρομολόγησης ήχου είναι συνηθισμένοι ένοχοι).</p>
+
+<h2>Επαναφορά NVRAM (μόνο Intel Mac)</h2>
+
+<p>Σε Intel Mac, οι ρυθμίσεις ήχου και ηχείων είναι ζωντανές σε NVRAM/PRAM και μια μπαγιάτικη τιμή μπορεί να επιβιώσει μετά από ενημέρωση. Επαναφέρετε το: τερματίστε τη λειτουργία, μετά ενεργοποιήστε το και κρατήστε το αμέσως <strong>Επιλογή + Εντολή + P + R</strong> για περίπου 20 δευτερόλεπτα, αφήνοντας το Mac να επανεκκινηθεί μία φορά. Αυτό δεν ισχύει για τα Apple Silicon Mac — το διαχειρίζονται αυτόματα, επομένως παραλείψτε το εάν χρησιμοποιείτε μηχάνημα της σειράς M.</p>
+
+<h2>Ενημερώστε ξανά — και ελέγξτε για απελευθέρωση σημείου</h2>
+
+<p>Οι πρώτες εκδόσεις οποιασδήποτε σημαντικής έκδοσης macOS κυκλοφορούν με σφάλματα προγράμματος οδήγησης ήχου που αργότερα διορθώνονται. Κατευθυνθείτε προς <strong>Ρυθμίσεις συστήματος &gt; Γενικά &gt; Ενημέρωση λογισμικού</strong> και εγκαταστήστε οποιαδήποτε εκκρεμή απελευθέρωση σημείου Tahoe (14.x.1, 14.x.2, κ.λπ.). Εάν υπάρχει μια συμπληρωματική ενημέρωση, συχνά αντιμετωπίζει ακριβώς αυτές τις παλινδρομήσεις ήχου μετά την ενημέρωση.</p>
+
+<h2>Όταν είναι γνήσιο υλικό</h2>
+
+<p>Εάν η ασφαλής λειτουργία, η επανεκκίνηση του Core Audio και η καθαρή επανεγκατάσταση αποτύχουν - και το ίδιο κανάλι είναι νεκρό στα ακουστικά - μπορεί να βλέπετε ένα σφάλμα υλικού. Ο χρόνος με μια ενημέρωση μπορεί να είναι συμπτωματικός. Οι ενισχυτές ηχείων και οι κωδικοποιητές ήχου αποτυγχάνουν. Τρέξε <strong>Apple Diagnostics</strong> (Τερματίστε τη λειτουργία, μετά κρατήστε πατημένο το κουμπί λειτουργίας στο Apple Silicon και επιλέξτε Διαγνωστικά ή κρατήστε πατημένο <strong>Δ</strong> στην Intel κατά την εκκίνηση). Εάν επισημαίνει ένα στοιχείο ήχου, επικοινωνήστε <strong>Υποστήριξη Apple</strong> ή εξουσιοδοτημένο πάροχο υπηρεσιών. Μην ξοδεύετε χρήματα σε λογισμικό για φουσκωμένο ηχείο.</p>
+
+<blockquote>Γρήγορος εμπειρικός κανόνας: εάν ο ήχος μεταφέρεται σωστά με το ρυθμιστικό ισορροπίας, και τα δύο ηχεία είναι καλά και η επιδιόρθωση είναι σε λογισμικό. Εάν δεν μετακινηθεί ποτέ στη νεκρή πλευρά, υποψιαστείτε το υλικό.</blockquote>
+
+<h2>Πού ταιριάζει το λογισμικό όγκου (και πού όχι)</h2>
+
+<p>Για να είμαστε σαφείς: ένα νεκρό κανάλι ηχείου δεν είναι κάτι που διορθώνει η εφαρμογή έντασης ήχου — οι έλεγχοι παραπάνω είναι η πορεία σας. Τούτου λεχθέντος, όταν ο ήχος σας είναι και πάλι υγιής, το macOS εξακολουθεί να λείπει κάτι που το Windows είχε εδώ και χρόνια: έναν πραγματικό μίκτη έντασης ανά εφαρμογή. Εάν βρήκατε τον εαυτό σας να σκάβει τις ρυθμίσεις ήχου επειδή μια εφαρμογή εκτοξευόταν ενώ μια άλλη ήταν πολύ αθόρυβη, ένας μίκτης γραμμής μενού όπως <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> σας επιτρέπει να ορίσετε ανεξάρτητη ένταση, σίγαση και ακόμη και ενίσχυση ανά εφαρμογή χωρίς να αγγίζετε την ισορροπία του συστήματός σας. Είναι ένα βολικό εργαλείο για καθημερινή ανάμειξη, όχι για επισκευή του προβλήματος σε αυτό το άρθρο.</p>
+
+<h2>Η σύντομη έκδοση</h2>
+
+<ul>
+<li>Κέντρο το <strong>Ισορροπία</strong> ρυθμιστικό — ανά συσκευή εξόδου.</li>
+<li>Δοκιμή με ακουστικά για απομόνωση υλικού.</li>
+<li>Τρέξε <code>sudo killall coreaudiod</code>, μετά επανεκκίνηση.</li>
+<li>Προσπαθήστε <strong>ασφαλής λειτουργία</strong> για να συλλάβετε τις συγκρούσεις οδηγών.</li>
+<li>Επαναφορά NVRAM στην Intel. εγκαταστήστε οποιαδήποτε απελευθέρωση σημείου Tahoe.</li>
+<li>Ακόμα νεκρός στα ακουστικά; Εκτελέστε το Apple Diagnostics και καλέστε την Apple.</li>
+</ul>
+
+<p>Μόλις τα ηχεία σας επανέλθουν στο κανονικό, αν η ταχυδακτυλουργική ένταση ήχου ανά εφαρμογή είναι καθημερινή ενόχληση, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> προσθέτει το μίξερ macOS πάντα έλειπε — 14,99 €, εφάπαξ, σε sandbox, χωρίς προγράμματα οδήγησης.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "Το AirPods έχει κολλήσει στη μισή ένταση στο Mac; Εδώ είναι η Διόρθωση",
+    description: "Γιατί το AirPods συνδέεται με το Mac με τη μισή ένταση — συνήθως ένας διακόπτης κωδικοποιητή Bluetooth στο προφίλ μικροφώνου hands-free — συν τις διορθώσεις εκ νέου σύζευξης και πώς να ενισχύσετε το επίπεδο δημιουργίας αντιγράφων ασφαλείας για πάντα.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Το AirPods συνήθως πέφτει στο μισό της έντασης σε ένα Mac επειδή το macOS τα άλλαξε από το προφίλ ήχου υψηλής ποιότητας A2DP στο προφίλ χαμηλής ποιότητας hands-free (HFP) — αυτό που έχει κατασκευαστεί για χρήση μικροφώνου τηλεφωνικών κλήσεων. Αυτή η λειτουργία περιορίζει την απόδοση και την ποιότητα. Διορθώστε το αναγκάζοντας το Mac να επιστρέψει στον ήχο μόνο για ακουστικά και, στη συνέχεια, αυξήστε το επίπεδο για να το διατηρήσετε εκεί.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Κολλήθηκε στη μισή ένταση στο Mac; Εδώ είναι η Διόρθωση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί συμβαίνει αυτό: ο διακόπτης κωδικοποιητή</h2>
+
+<p>Οι συσκευές ήχου Bluetooth όπως το AirPods λειτουργούν σε μία από τις δύο λειτουργίες. Όταν απλώς ακούτε, το macOS χρησιμοποιεί A2DP — πλήρες στερεοφωνικό, πλήρη ένταση, καθαρή ποιότητα. Αλλά τη στιγμή που μια εφαρμογή θέλει το μικρόφωνό σας, το macOS αλλάζει ολόκληρη τη σύνδεση σε HFP (Hands-Free Profile). Το HFP είναι ένας αμφίδρομος κωδικοποιητής τηλεφωνίας. Ακούγεται λεπτό, μονόχρωμο και αισθητά πιο ήσυχο, επειδή σχεδιάστηκε για φωνητικές κλήσεις και όχι για μουσική.</p>
+
+<p>Το πρόβλημα είναι ότι το macOS συχνά παραμένει κολλημένο στο HFP ακόμα και μετά την ολοκλήρωση της εφαρμογής που άρπαξε το μικρόφωνο — ή μεταβαίνει σε αυτό τη στιγμή που ανοίγετε τα Zoom, FaceTime, Teams, Discord ή μια καρτέλα προγράμματος περιήγησης με άδεια μικροφώνου. Έτσι, τα AirPods σας ακούγονται σαν να είναι στη "μισή ένταση" όχι επειδή μετακινήθηκε το ρυθμιστικό έντασης, αλλά επειδή ολόκληρο το προφίλ ήχου υποβαθμίστηκε από κάτω σας.</p>
+
+<p>Θα το αναγνωρίσετε: ο ήχος ξαφνικά χαμηλώνει και σβήνει, το AirPods εμφανίζεται δύο φορές στις ρυθμίσεις ήχου σας (μία ως έξοδος, μία ως μικρόφωνο) και το να ανεβάζετε την ένταση του συστήματος σχεδόν δεν βοηθάει.</p>
+
+<h2>Οι λύσεις επανασύζευξης και κωδικοποιητή</h2>
+
+<p>Αυτά είναι τα ειλικρινή πρώτα βήματα. Δουλέψτε τα με τη σειρά - ένας από τους πρώτους συνήθως το καθαρίζει.</p>
+
+<ul>
+<li><strong>Αλλάξτε τη συσκευή εισόδου σας.</strong> Ανοίξτε τις Ρυθμίσεις συστήματος → Ήχος → Είσοδος και επιλέξτε το ενσωματωμένο μικρόφωνο του Mac αντί για το AirPods. Αυτό εμποδίζει το macOS να κρατά το AirPods σε λειτουργία HFP, ώστε η έξοδος να μπορεί να αναρριχηθεί σε πλήρη ποιότητα A2DP. Αυτή είναι η πιο αποτελεσματική λύση.</li>
+<li><strong>Απενεργοποιήστε και ενεργοποιήστε το Bluetooth.</strong> Μια γρήγορη επαναφορά της σύνδεσης συχνά επαναδιαπραγματεύεται το A2DP καθαρά, ειδικά εάν το AirPods κόλλησε μετά τον τερματισμό μιας κλήσης.</li>
+<li><strong>Επανασυνδέστε το AirPods.</strong> Κλείστε τη θήκη, περιμένετε μερικά δευτερόλεπτα, ανοίξτε την ξανά κοντά στο Mac και επιλέξτε τη ξανά ως συσκευή εξόδου.</li>
+<li><strong>Κλείστε την εφαρμογή που άρπαξε το μικρόφωνο.</strong> Κλείστε πλήρως τα Zoom, Teams, Discord ή αυτήν την καρτέλα προγράμματος περιήγησης. Ορισμένες εφαρμογές κρατούν την περίοδο λειτουργίας μικροφώνου ανοιχτή στο παρασκήνιο και καρφιτσώνουν το HFP μέχρι να εξαφανιστούν.</li>
+<li><strong>Επανασύζευξη από την αρχή.</strong> Αφαιρέστε το AirPods από τις Ρυθμίσεις συστήματος → Bluetooth (κάντε κλικ στο κουμπί πληροφοριών → Ξεχάστε αυτήν τη συσκευή) και κάντε ξανά σύζευξη. Αυτό διαγράφει μια κατεστραμμένη διαπραγμάτευση προφίλ που η εναλλαγή από μόνη της δεν θα διορθώσει.</li>
+<li><strong>Επαναφέρετε το AirPods.</strong> Με ανοιχτό το καπάκι της θήκης, κρατήστε πατημένο το κουμπί ρύθμισης στο πίσω μέρος μέχρι το φως να αναβοσβήσει πορτοκαλί και μετά λευκό. Εκ νέου ζεύξη μετά. Αυτή είναι η πυρηνική επιλογή για παραξενιές σε επίπεδο υλικολογισμικού.</li>
+<li><strong>Ενημερώστε το υλικολογισμικό macOS και AirPods.</strong> Η Apple έχει αποστείλει επιδιορθώσεις ήχου Bluetooth σε εκδόσεις σημείων. Το υλικολογισμικό AirPods ενημερώνεται σιωπηλά όταν φορτίζεται κοντά σε μια συνδεδεμένη συσκευή — επομένως αφήστε το στη θήκη κοντά στο Mac σας όλη τη νύχτα.</li>
+</ul>
+
+<blockquote><p>Το μοτίβο που πρέπει να παρακολουθήσετε: εάν η ένταση πέφτει τη στιγμή που λαμβάνετε μια κλήση και επανέρχεται όταν τελειώνει η κλήση, είναι ο διακόπτης HFP — όχι ένα σπασμένο ηχείο ή πρόβλημα στις ρυθμίσεις.</p></blockquote>
+
+<h2>Γιατί οι διορθώσεις δεν μένουν πάντα</h2>
+
+<p>Εδώ είναι το απογοητευτικό μέρος. Ακόμη και μετά την εκ νέου αντιστοίχιση, το macOS θα επαναφέρει το AirPods ξανά στην αθόρυβη λειτουργία hands-free την επόμενη φορά που οποιαδήποτε εφαρμογή αγγίξει το μικρόφωνο. Δεν μπορείτε να απενεργοποιήσετε μόνιμα αυτή τη συμπεριφορά στις ρυθμίσεις συστήματος — η Apple τη αντιμετωπίζει ως αυτόματη. Έτσι, καταλήγετε να επαναλαμβάνετε το κόλπο της συσκευής εισόδου πολλές φορές την ημέρα και κάθε στιγμή που το AirPods βρίσκεται σε μια κλήση ή σε μια εφαρμογή που διψά για μικρόφωνο, περιορίζεται ξανά σε αυτό το χαμηλότερο επίπεδο.</p>
+
+<p>Υπάρχει επίσης ένα δεύτερο, ξεχωριστό ζήτημα που μπερδεύουν οι άνθρωποι με αυτό: ορισμένες εφαρμογές είναι απλώς πιο αθόρυβες από άλλες στη μέγιστη ένταση του συστήματος. Ένα πρόγραμμα αναπαραγωγής podcast ή μια καρτέλα προγράμματος περιήγησης μπορεί να βρίσκεται πολύ κάτω από αυτό που θέλουν τα αυτιά σας, ακόμα και όταν το AirPods εκτελεί καθαρό A2DP. Το macOS σάς προσφέρει ένα ρυθμιστικό έντασης για τα πάντα και χωρίς έλεγχο ανά εφαρμογή, επομένως δεν υπάρχει εγγενής τρόπος για να δημιουργήσετε αντίγραφα ασφαλείας μιας ενιαίας αθόρυβης εφαρμογής.</p>
+
+<h2>Αυξήστε το επίπεδο πίσω — και κρατήστε το εκεί</h2>
+
+<p>Εδώ κερδίζει τη θέση του ένας μείκτης τόμου ανά εφαρμογή. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια εφαρμογή γραμμής μενού για το macOS που δίνει σε κάθε εφαρμογή που εκτελείται το δικό της ανεξάρτητο ρυθμιστικό έντασης — συμπεριλαμβανομένης μιας ενίσχυσης άνω του 100%. Έτσι, όταν το AirPods επιστρέφει από μια κλήση σε χαμηλότερο επίπεδο αποτελεσματικότητας ή μια συγκεκριμένη εφαρμογή είναι απλώς πολύ αθόρυβη, σύρετε αυτήν την εφαρμογή πέρα ​​από το κανονικό ανώτατο όριο και παραμένει εκεί.</p>
+
+<p>Συγκεκριμένα, αυτό σημαίνει:</p>
+
+<ul>
+<li><strong>ΕΝΙΣΧΥΣΗ όγκου ανά εφαρμογή.</strong> Πιέστε μια αθόρυβη εφαρμογή πάνω από το τυπικό μέγιστο αντί να πιέζετε για να την ακούσετε σε "πλήρη" ένταση του συστήματος.</li>
+<li><strong>Προφίλ τόμου.</strong> Αποθηκεύστε ένα σύνολο επιπέδων — ενισχυμένο πρόγραμμα περιήγησης, πιο απαλή μουσική, δυνατές βιντεοκλήσεις — και αλλάξτε ολόκληρη τη διάταξη με ένα κλικ, ώστε να μην προσαρμόζεστε ξανά μετά από κάθε επανασύνδεση.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου.</strong> Μεταβείτε μεταξύ του AirPods, των ηχείων φορητού υπολογιστή και ενός εξωτερικού DAC από τη γραμμή μενού χωρίς να ψάξετε στις Ρυθμίσεις συστήματος, κάτι που σας βοηθά όταν επιβάλλετε μια νέα διαπραγμάτευση προφίλ.</li>
+<li><strong>Σίγαση ανά εφαρμογή και αυτόματη απενεργοποίηση.</strong> Σιγάψτε μία εφαρμογή χωρίς να αγγίξετε τις υπόλοιπες και αφήστε τα μέσα να βυθίζονται αυτόματα όταν παίζει κάτι πιο σημαντικό.</li>
+</ul>
+
+<p>Αξίζει να είμαστε ξεκάθαροι για το τι κάνει αυτό και τι δεν κάνει. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> δεν θα αναγκάσει το macOS να παραμείνει στο A2DP — το παραπάνω τέχνασμα συσκευής εισόδου εξακολουθεί να είναι το εργαλείο σας για τον ίδιο τον κωδικοποιητή. Αυτό που κάνει είναι να σας επαναφέρει την ένταση που έκλεψε η υποβάθμιση, ανά εφαρμογή, επομένως μια ήσυχη περίοδος λειτουργίας AirPods ή μια πεισματικά απαλή εφαρμογή είναι μια λύση με ένα τράβηγμα αντί για χαμένη αιτία. Και επειδή είναι μια εφαρμογή Mac App Store με sandbox, δεν υπάρχει πρόγραμμα οδήγησης ήχου για εγκατάσταση, ούτε DMG, ούτε επέκταση πυρήνα — απλώς εκτελείται.</p>
+
+<h2>Η σύντομη έκδοση</h2>
+
+<p>Εάν το AirPods σας ακούγεται αθόρυβο και σιωπηλό στο Mac, απενεργοποιήστε τη συσκευή εισόδου σας από το AirPods για να το εξαναγκάσετε να βγει από τη λειτουργία ανοιχτής ακρόασης και πραγματοποιήστε σύζευξη ξανά εάν αυτό αποτύχει. Όταν το επίπεδο εξακολουθεί να μην φτάνει στο σημείο που θέλετε — ή μια μεμονωμένη εφαρμογή είναι πολύ απαλή — προσεγγίστε την ενίσχυση ανά εφαρμογή, ώστε να τη ρυθμίσετε μία φορά και να προχωρήσετε.</p>
+
+<p>Κουραστήκατε να παλεύετε με το ρυθμιστικό έντασης κάθε φορά που δέχεστε μια κλήση; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> — εφάπαξ 14,99 €, χωρίς συνδρομή, χωρίς προγράμματα οδήγησης — και δώστε σε κάθε εφαρμογή τον δικό της όγκο.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Ο τόμος Mac συνεχίζει να επαναφέρει τον εαυτό του στο Tahoe; Πώς να το κλειδώσετε για καλό",
+    description: "Από το macOS Tahoe, πολλά Mac αλλάζουν ξαφνικά ή επαναφέρουν την ένταση από μόνα τους. Δείτε γιατί συμβαίνει αυτό, πώς να σταματήσετε τις ενσωματωμένες αιτίες και πώς να κλειδώσετε μια σταθερή ένταση ήχου ανά εφαρμογή, ώστε να παραμένει σταθερή.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν η ένταση του ήχου Mac συνεχίζει να επαναφέρεται από το macOS Tahoe, η λύση είναι να εξαλειφθούν οι αυτόματες ρυθμίσεις ρύθμισης: απενεργοποιήστε την αναπαραγωγή ήχου και την "Αναπαραγωγή ήχου κατά την εκκίνηση", επαναφέρετε τις ρυθμίσεις ήχου και επανασυνδέστε καθαρά οποιαδήποτε έξοδο Bluetooth. Για επίπεδα ανά εφαρμογή που αναπηδούν, κλειδώστε μια σταθερή ένταση ήχου ανά εφαρμογή με ένα μίκτη, ώστε να μην μετακινείται ποτέ ξανά.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ο τόμος Mac συνεχίζει να επαναρυθμίζεται στο Tahoe; Πώς να το κλειδώσετε για καλό" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί ο όγκος σας αλλάζει από μόνος του μετά το Tahoe</h2>
+
+<p>Ένας όγκος που κινείται χωρίς να τον αγγίξετε μοιάζει με σφάλμα υλικού, αλλά σχεδόν πάντα είναι το λογισμικό που αποφασίζει το επίπεδό σας για εσάς. Το macOS έχει πολλές αυτόματες συμπεριφορές που ωθούν ή επαναφέρουν αθόρυβα την έξοδο, και οι αλλαγές στη στοίβα ήχου του Tahoe έκαναν μερικές από αυτές πιο αισθητές. Προτού υποθέσετε ότι η εφαρμογή ή το Mac είναι κατεστραμμένο, βοηθάει να γνωρίζετε ακριβώς ποιο σύστημα αρπάζει το ρυθμιστικό.</p>
+
+<ul>
+<li><strong>Ακουστική πάπια:</strong> Το macOS μειώνει τον άλλο ήχο όταν πιστεύει ότι παίζει κάτι πιο σημαντικό (Siri, ανακοινώσεις προσβασιμότητας, ειδοποιήσεις). Αφού τελειώσει η σκανδάλη, το επίπεδο μερικές φορές δεν επανέρχεται μέχρι το τέλος.</li>
+<li><strong>Επαναφέρει τη χειραψία Bluetooth:</strong> Το AirPods και άλλες συσκευές Bluetooth επαναδιαπραγματεύονται τον όγκο κατά τη σύνδεση. Η επανασύνδεση στη μέση της περιόδου σύνδεσης μπορεί να μεταφέρει την έξοδο σε προεπιλογή ή σε πολύ πιο δυνατό/αθόρυβο επίπεδο.</li>
+<li><strong>Εναλλαγή συσκευής εξόδου:</strong> Όταν αποσυνδέετε ακουστικά, συνδέετε ή αλλάζετε στα ηχεία μιας οθόνης, κάθε έξοδος θυμάται τη δική της ένταση. Η εναλλαγή εμπρός και πίσω μοιάζει με "τυχαίες" επαναφορές.</li>
+<li><strong>Προεπιλογές ανά εφαρμογή:</strong> Ορισμένες εφαρμογές (προγράμματα περιήγησης, προγράμματα αναπαραγωγής βίντεο, εργαλεία συνδιάσκεψης) καθορίζουν το δικό τους κέρδος κατά την εκκίνηση ή όταν ξεκινά μια νέα ροή, παρακάμπτοντας οτιδήποτε είχατε.</li>
+<li><strong>Ήχος εκκίνησης και κατάσταση σύνδεσης:</strong> Το ηχητικό σήμα εκκίνησης και η σύνδεση μπορούν να ωθήσουν τον όγκο του συστήματος πίσω σε ένα προεπιλεγμένο επίπεδο που δεν επιλέξατε.</li>
+</ul>
+
+<h2>Διορθώστε πρώτα τις ενσωματωμένες αιτίες</h2>
+
+<p>Δουλέψτε μέσα από αυτά με τη σειρά. Τα περισσότερα παράπονα "επαναφοράς" εξαφανίζονται μόλις αποκλειστεί το ducking και το Bluetooth.</p>
+
+<ul>
+<li><strong>Απενεργοποιήστε τον ήχο εκκίνησης.</strong> Ρυθμίσεις συστήματος → Ήχος → καταργήστε την επιλογή <em>Αναπαραγωγή ήχου κατά την εκκίνηση</em>. Αυτό εμποδίζει τον ήχο εκκίνησης να επαναφέρει το επίπεδο βάσης σας.</li>
+<li><strong>Μειώστε ή απενεργοποιήστε τις σκανδάλες σκανδάλης.</strong> Στις Ρυθμίσεις συστήματος → Προσβασιμότητα → Προφορικό περιεχόμενο και Siri, απενεργοποιήστε τις προφορικές ανακοινώσεις που δεν χρειάζεστε. Λιγότερες ενεργοποιήσεις σημαίνει λιγότερες στιγμές όπου το macOS μειώνει τον ήχο και ξεχνά να τον επαναφέρει.</li>
+<li><strong>Επιδιόρθωση προβληματικών συσκευών Bluetooth.</strong> Αφαιρέστε το AirPods ή τα ακουστικά από τις ρυθμίσεις Bluetooth και αντιστοιχίστε τα νέα. Ένα μπαγιάτικο προφίλ είναι μια κοινή αιτία σπασίματος της έντασης κατά τη σύνδεση.</li>
+<li><strong>Ρυθμίστε κάθε συσκευή εξόδου σκόπιμα.</strong> Συνδέστε κάθε έξοδο που χρησιμοποιείτε (ενσωματωμένη, οθόνη, ακουστικά) και ρυθμίστε την ένταση του ήχου μία φορά. Το macOS αποθηκεύει τον όγκο ανά συσκευή, επομένως η ρύθμιση όλων αφαιρεί την έκπληξη όταν αλλάζετε.</li>
+<li><strong>Επαναφέρετε τον ήχο πυρήνα εάν έχει κολλήσει.</strong> Ανοίξτε το Terminal και τρέξτε <code>sudo killall coreaudiod</code>. Αυτό επανεκκινεί τον δαίμονα ήχου χωρίς επανεκκίνηση και διαγράφει μια κατάσταση αναμονής που μπορεί να προκαλέσει ασταθή επίπεδα.</li>
+<li><strong>Ενημέρωση και μετά επανεκκίνηση.</strong> Το Early Tahoe point κυκλοφορεί αποσταλμένες επιδιορθώσεις ήχου. Βεβαιωθείτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση και κάντε επανεκκίνηση μία φορά μετά την ενημέρωση.</li>
+</ul>
+
+<p>Εάν σταματήσουν οι επαναφορές, ένα από τα παραπάνω ήταν ο ένοχος σας. Αν σας <em>σύστημα</em> Η ένταση είναι σταθερή, αλλά οι μεμονωμένες εφαρμογές συνεχίζουν να κινούνται πιο δυνατά ή πιο αθόρυβα από οτιδήποτε άλλο, έχετε φτάσει στο όριο του τι μπορούν να κάνουν τα ενσωματωμένα χειριστήρια.</p>
+
+<h2>Το πραγματικό κενό: Το macOS δεν μπορεί να κλειδώσει τον όγκο ανά εφαρμογή</h2>
+
+<p>Εδώ είναι το απογοητευτικό μέρος. Το Windows έχει έναν μείκτη τόμου ανά εφαρμογή εδώ και χρόνια — τον ανοίγετε, σύρετε το ρυθμιστικό μιας εφαρμογής και παραμένει εκεί. Το macOS δεν έχει στείλει ποτέ ένα. Υπάρχει ακριβώς ένα ρυθμιστικό έντασης συστήματος και κάθε εφαρμογή παλεύει για αυτό. Έτσι, όταν μια καρτέλα του προγράμματος περιήγησης εκτοξεύει μια διαφήμιση αυτόματης αναπαραγωγής ή μια βιντεοκλήση ακούγεται δύο φορές πιο δυνατά από τη μουσική σας, η μόνη σας επιλογή είναι να χρησιμοποιήσετε την κύρια ένταση χειροκίνητα — που είναι ο ίδιος ο βρόχος "γιατί αλλάζει συνεχώς" από τον οποίο προσπαθείτε να αποφύγετε.</p>
+
+<blockquote>Το ρυθμιστικό συστήματος είναι ένας κοινός επιλογέας. Χωρίς μίκτη ανά εφαρμογή, το "ρυθμίστε το και ξεχάστε το" είναι αδύνατο στο stock macOS — κάτι θα σας παρακάμπτει πάντα.</blockquote>
+
+<h2>Κλείδωμα σταθερού όγκου ανά εφαρμογή με το SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> προσθέτει το μείκτη ανά εφαρμογή που λείπει. Ζει στη γραμμή μενού σας και δίνει σε κάθε εφαρμογή που εκτελείται το δικό της ρυθμιστικό έντασης, ανεξάρτητα από την κύρια. Επειδή θυμάται το επίπεδο που ορίζετε για κάθε εφαρμογή, λύνει απευθείας το πρόβλημα "επαναφοράς": αποφασίζετε μία φορά και αυτή η εφαρμογή ανοίγει σε αυτήν την ένταση κάθε φορά.</p>
+
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή:</strong> διατηρήστε τη μουσική στο 40% και μια βιντεοκλήση στο 80% ταυτόχρονα, χωρίς ταχυδακτυλουργία με κύριο ρυθμιστικό.</li>
+<li><strong>Σίγαση και ενίσχυση ανά εφαρμογή:</strong> απενεργοποιήστε μια θορυβώδη εφαρμογή αμέσως ή πιέστε μια πολύ αθόρυβη εφαρμογή στο 100% όταν ο δικός της ήχος είναι αδύναμος.</li>
+<li><strong>Προφίλ τόμου:</strong> αποθηκεύστε ρυθμίσεις για "εργασία", "παιχνίδι" ή "εστίαση" και αλλάξτε ολόκληρο το μείγμα με ένα κλικ.</li>
+<li><strong>Αυτόματη εφαρμογή με τους όρους σας:</strong> χαμηλότερες εφαρμογές φόντου αυτόματα όταν μιλάτε ή όταν μια επιλεγμένη εφαρμογή είναι ενεργή — αντί να αποφασίζει το macOS.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου:</strong> μεταβείτε μεταξύ ηχείων, ακουστικών και παρακολουθήστε τον ήχο από τη γραμμή μενού χωρίς να βουτήξετε στις ρυθμίσεις.</li>
+</ul>
+
+<p>Είναι μια εφάπαξ αγορά 14,99 € από το Mac App Store — χωρίς συνδρομή, χωρίς προγράμματα οδήγησης, χωρίς DMG και χωρίς επεκτάσεις πυρήνα. Επειδή είναι πλήρως ενσωματωμένο στο sandbox και διανέμεται μέσω App Store, δεν εγκαθιστάτε ένα παλαιού τύπου kext ήχου που η Tahoe ενδέχεται να αποκλείσει στην επόμενη ενημέρωση. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ορίζει τα επίπεδά σας χρησιμοποιώντας υποστηριζόμενα API, ώστε οι τόμοι που θυμάστε να επιβιώνουν από ενημερώσεις και επανεκκινήσεις.</p>
+
+<h2>Ποια προσέγγιση χρειάζεστε πραγματικά;</h2>
+
+<p>Εάν η ένταση του ήχου ολόκληρου του συστήματός σας αυξηθεί, ξεκινήστε με τις ενσωματωμένες επιδιορθώσεις παραπάνω — ducking, Bluetooth και τον λογαριασμό ήχου εκκίνησης για τις περισσότερες περιπτώσεις. Αν, αντίθετα, το πρόβλημα είναι ότι μια εφαρμογή είναι πάντα η περίεργη ή έχετε βαρεθεί το κύριο ρυθμιστικό να είναι ένας συμβιβασμός, ο μείκτης ανά εφαρμογή είναι η μόνη πραγματική απάντηση. Το macOS δεν θα προσθέσει ένα, επομένως ένα εργαλείο γραμμής μενού είναι η πρακτική διαδρομή για ένα μείγμα που παραμένει πραγματικά εκεί που το βάζετε.</p>
+
+<p>Κουραστήκατε να κυνηγάτε το ρυθμιστικό έντασης στο Tahoe; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και κλειδώστε έναν απομνημονευμένο τόμο για κάθε εφαρμογή — 14,99 € μία φορά, χωρίς συνδρομές, χωρίς προγράμματα οδήγησης.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Ελέγξτε την ένταση του ήχου της οθόνης DAW ξεχωριστά από τον ήχο συστήματος στο Mac",
+    description: "Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ήχου ανά εφαρμογή, επομένως οι ήχοι του DAW και του συστήματος μοιράζονται ένα επίπεδο. Δείτε πώς μπορείτε να ελέγχετε την ένταση της οθόνης Logic, Ableton ή GarageBand ανεξάρτητα από το πρόγραμμα περιήγησής σας και τις ειδοποιήσεις σας.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή, επομένως το DAW και οτιδήποτε άλλο μοιράζονται ένα ρυθμιστικό συστήματος. Για να ρυθμίσετε το επίπεδο της οθόνης σας ανεξάρτητα από προγράμματα περιήγησης, Slack και ειδοποιήσεις, χρειάζεστε έλεγχο έντασης ήχου ανά εφαρμογή. Ένα μίξερ μενού-μπαρ όπως <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> δίνει στα Logic, Ableton και GarageBand τη δική τους ένταση, ξεχωριστά από τον ήχο του συστήματος.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ελέγξτε την ένταση του ήχου της οθόνης DAW ξεχωριστά από τον ήχο συστήματος στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί ένα ρυθμιστικό έντασης καταστρέφει την παρακολούθηση</h2>
+
+<p>Όταν παράγετε, το DAW είναι μόνο ένα από τα πολλά πράγματα που κάνουν ήχο. Ένα κομμάτι αναφοράς αναπαράγεται σε μια καρτέλα προγράμματος περιήγησης. Τα ping Slack φτάνουν. Ένα εκπαιδευτικό πρόγραμμα YouTube εκτελείται σε μια δεύτερη οθόνη. Στο Windows, το Volume Mixer σάς επιτρέπει να εξισορροπήσετε όλα αυτά ανεξάρτητα. Στο macOS, η Apple δεν έστειλε ποτέ κάτι αντίστοιχο — τα πλήκτρα έντασης και το ρυθμιστικό της γραμμής μενού μετακινούνται <em>τα πάντα</em> μονομιάς.</p>
+
+<p>Αυτό δημιουργεί πραγματικό πρόβλημα για οποιονδήποτε ανακατεύει με το αυτί. Κάνετε ένα άνετο επίπεδο παρακολούθησης στο Logic, στη συνέχεια μια ειδοποίηση εκτοξεύεται στο ίδιο επίπεδο και βγάζει τα αυτιά σας. Ή χαμηλώνετε το σύστημα για να προστατεύσετε την ακοή σας κατά τη διάρκεια ενός δυνατού περάσματος και τώρα το κομμάτι αναφοράς σας είναι πολύ αθόρυβο για σύγκριση. Η αναφορά παρακολούθησης δεν είναι πλέον σταθερή και η σταθερή αναφορά είναι το όλο νόημα της ανάμειξης.</p>
+
+<blockquote>Η παρακολούθηση σε σταθερό επίπεδο είναι μια από τις λίγες συνήθειες που βελτιώνει μετρήσιμα τα μείγματά σας. Εάν οι ήχοι συστήματος σας αναγκάζουν να μετακινήσετε το κύριο ρυθμιστικό, χάνετε αυτή τη συνοχή.</blockquote>
+
+<h2>Τι σημαίνει στην πραγματικότητα "ξεχωριστός τόμος DAW".</h2>
+
+<p>Υπάρχουν δύο διαφορετικά πράγματα που συγχέουν οι παραγωγοί εδώ και αξίζει να τα διαχωρίσουμε:</p>
+
+<ul>
+<li><strong>Διασύνδεση / βασικό επίπεδο εξόδου</strong> — το κουμπί υλικού στη διεπαφή ήχου ή στον ελεγκτή της οθόνης σας. Αυτό ρυθμίζει την απόλυτη ένταση ακρόασης και θα πρέπει να παραμείνει στη θέση του μόλις βαθμονομηθεί.</li>
+<li><strong>Όγκος λογισμικού ανά εφαρμογή</strong> — πόσο δυνατή είναι κάθε εφαρμογή <em>πριν</em> φτάνει σε αυτή την έξοδο. Αυτό λείπει από το macOS. Σας επιτρέπει να διατηρείτε το DAW σε ενότητα ενώ ρυθμίζετε τους ήχους Chrome, μουσικής ή ειδοποίησης σε επίπεδο κρεβατιού από κάτω.</li>
+</ul>
+
+<p>Θέλεις το δεύτερο. Ο στόχος δεν είναι να χαμηλώσετε το DAW - αλλά να μειώσετε όλα τα άλλα σχετικά με αυτό, έτσι ώστε το DAW να παραμένει η πιο δυνατή, πιο σταθερή πηγή σας και οι αποσπάσεις της προσοχής να βρίσκονται ήσυχα στο παρασκήνιο.</p>
+
+<h2>Πώς να το κάνετε με έναν μίκτη ανά εφαρμογή</h2>
+
+<p>Ένα μίξερ μενού-μπαρ όπως π.χ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> παραθέτει κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή και δίνει σε καθεμία το δικό της ρυθμιστικό. Η ροή εργασίας για έναν παραγωγό μοιάζει με αυτό:</p>
+
+<ul>
+<li><strong>Βαθμονόμηση της διεπαφής σας μία φορά.</strong> Ρυθμίστε τη διεπαφή ήχου ή τον ελεγκτή της οθόνης σας σε ένα άνετο, επαναλαμβανόμενο επίπεδο αναφοράς και αφήστε το. Αυτή είναι η σταθερή σας άγκυρα.</li>
+<li><strong>Ρυθμίστε το DAW στο 100%.</strong> Στο μίξερ, αφήστε τα Logic, Ableton ή GarageBand σε πλήρη ένταση λογισμικού, ώστε να περνάει σε ενότητα. Το κύριο fader του DAW εξακολουθεί να κάνει τη λεπτή μίξη.</li>
+<li><strong>Τραβήξτε όλα τα άλλα κάτω.</strong> Ρίξτε τα Chrome, Safari, Music και Slack σε χαμηλότερο επίπεδο — ας πούμε 40–60% — έτσι ώστε τα κομμάτια αναφοράς και τα μηνύματα να βρίσκονται κάτω από τη μίξη σας αντί να τα ανταγωνίζονται.</li>
+<li><strong>Σίγασε τα θορυβώδη πράγματα.</strong> Η σίγαση ανά εφαρμογή σάς επιτρέπει να θέσετε σε σίγαση ένα πρόγραμμα περιήγησης ή μια εφαρμογή συνομιλίας εντελώς χωρίς να αγγίξετε την αλυσίδα παρακολούθησης. Ένα κλικ και το DAW συνεχίζει να παίζει ανέγγιχτο.</li>
+</ul>
+
+<p>Επειδή το ρυθμιστικό του DAW δεν μετακινείται ποτέ, η αναφορά παρακολούθησης παραμένει σταθερή σε μια ολόκληρη περίοδο λειτουργίας. Μπορείτε να ενεργοποιήσετε ένα κομμάτι αναφοράς για ένα γρήγορο A/B και, στη συνέχεια, να το κάνετε σίγαση και το επίπεδο μίξης σας να μην έχει αλλάξει ούτε ντεσιμπέλ.</p>
+
+<h2>Ενισχύοντας μια ήσυχη εφαρμογή αντί να απορρίπτετε άλλες</h2>
+
+<p>Μερικές φορές το πρόβλημα τρέχει αντίστροφα. Μια πρόχειρη αναπήδηση επίδειξης, ένα φωνητικό σημείωμα ή μια αθόρυβη αναφορά αναπαράγεται πολύ κάτω από το επίπεδο της συνεδρίας σας. Αν ενεργοποιήσετε τη διεπαφή σας για να το ακούσετε σημαίνει ότι όλα τα άλλα είναι πλέον πολύ δυνατά. Ανά εφαρμογή <strong>αύξηση του όγκου</strong> σας επιτρέπει να ωθήσετε μία μόνο αθόρυβη εφαρμογή πάνω από το 100%, ώστε να ταιριάζει με το επίπεδο εργασίας σας — χωρίς να αγγίζετε τη βαθμονομημένη έξοδο. Είναι το κομμάτι που δεν είχε ποτέ ο μίξερ Windows και ένα από τα πιο χρήσιμα εργαλεία όταν κάνετε ακρόαση υλικού εκτός του DAW.</p>
+
+<h2>Προφίλ για διαφορετικούς τύπους συνεδρίας</h2>
+
+<p>Η ιδανική ισορροπία σας δεν είναι η ίδια για κάθε εργασία. Η παρακολούθηση, η μίξη και η περιστασιακή ακρόαση θέλουν διαφορετικό συνδυασμό επιπέδων εφαρμογής. Τα προφίλ τόμου σάς επιτρέπουν να αποθηκεύσετε μια ρύθμιση και να την ανακαλέσετε αμέσως:</p>
+
+<ul>
+<li><strong>Ανάμιξη:</strong> DAW στο 100%, χαμηλό πρόγραμμα περιήγησης και μουσική, σίγαση συνομιλίας.</li>
+<li><strong>Ακρόαση αναφοράς:</strong> Μουσική ή εφαρμογή ροής επάνω, DAW κάτω.</li>
+<li><strong>Κλήσεις / Συνεργασία:</strong> Εφαρμογή συνδιάσκεψης επάνω, το DAW τραβήχτηκε προς τα πίσω για να μην αιμορραγεί στην κλήση.</li>
+</ul>
+
+<p>Η αλλαγή προφίλ ξεπερνά τη χειροκίνητη ρύθμιση πέντε ρυθμιστικών κάθε φορά που αλλάζετε ταχύτητα.</p>
+
+<h2>Αυτόματη εκκένωση και γρήγορη εναλλαγή εξόδου</h2>
+
+<p>Δύο ακόμη πράγματα έχουν σημασία σε ένα στούντιο. <strong>Αυτόματη πάπια</strong> μπορεί να βυθίζει αυτόματα τις εφαρμογές παρασκηνίου όταν μιλά ή παίζει μια πηγή προτεραιότητας, έτσι ώστε μια κλήση ή ένας σημαντικός ήχος να διακόπτεται πάντα. Και <strong>γρήγορη εναλλαγή εξόδου</strong> από τη γραμμή μενού σάς επιτρέπει να μεταβείτε μεταξύ της διεπαφής, των οθονών και των ακουστικών σας χωρίς να σκάβετε στις Ρυθμίσεις συστήματος — μια συνεχής εργασία όταν ελέγχετε μια μίξη σε διαφορετικά συστήματα.</p>
+
+<h2>Γιατί όχι ένα εικονικό πρόγραμμα οδήγησης ήχου;</h2>
+
+<p>Ορισμένα εργαλεία δρομολόγησης το επιλύουν εγκαθιστώντας ένα πρόγραμμα οδήγησης εικονικού ήχου σε επίπεδο πυρήνα. Αυτά είναι ισχυρά αλλά βαριά: μπορούν να σπάσουν μετά από ενημερώσεις macOS, να προσθέσουν καθυστέρηση και να απαιτήσουν βαθιά δικαιώματα συστήματος. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι sandbox και αποστέλλεται μέσω του Mac App Store — χωρίς προγράμματα οδήγησης, χωρίς DMG, χωρίς ρύθμιση αθροιστικών συσκευών. Ειδικά για τον έλεγχο του επιπέδου ανά εφαρμογή, αυτή είναι μια πολύ πιο απλή διαδρομή από την εκ νέου αρχιτεκτονική της δρομολόγησης ήχου.</p>
+
+<p>Είστε έτοιμοι να διατηρήσετε το επίπεδο παρακολούθησης σταθερό ενώ όλα τα άλλα παραμένουν στη θέση τους; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για μία φορά 14,99 € και δώστε στο DAW τον δικό του όγκο.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Μια απλούστερη εναλλακτική λύση Audio Hijack για όγκο ανά εφαρμογή στο Mac",
+    description: "Εάν θέλετε μόνο ανεξάρτητο όγκο ανά εφαρμογή στο macOS, το Audio Hijack είναι υπερβολικό. Ακολουθεί μια ελαφρύτερη, φθηνότερη εναλλακτική της γραμμής μενού που προσφέρει ένταση ήχου ανά εφαρμογή, σίγαση και ενίσχυση χωρίς δρομολόγηση ήχου.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν το μόνο που θέλετε είναι ανεξάρτητος όγκος ανά εφαρμογή στο macOS, το Audio Hijack είναι περισσότερο εργαλείο από αυτό που χρειάζεστε. Είναι μια επαγγελματική σουίτα δρομολόγησης και εγγραφής ήχου (περίπου 79 $) που έχει σχεδιαστεί για λήψη, εφέ και γραφήματα συνεδρίας. Για να γυρίζετε απλώς μια εφαρμογή προς τα κάτω και μια άλλη προς τα πάνω, όπως ένα ελαφρύ μίκτη γραμμής μενού <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι πιο γρήγορο, φθηνότερο και πάντα έτοιμο.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Μια απλούστερη εναλλακτική λύση Audio Hijack για τον όγκο ανά εφαρμογή στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί οι άνθρωποι αναζητούν το Audio Hijack εξαρχής</h2>
+
+<p>Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows έχει ένα εδώ και χρόνια στο Volume Mixer του, αλλά σε ένα Mac τα πλήκτρα έντασης και το ρυθμιστικό της γραμμής μενού μετακινούν μόνο ένα πράγμα: την κύρια μονάδα συστήματος. Δεν υπάρχει τρόπος πρώτου μέρους για να πείτε "διατήρηση του Spotify στο 40% αλλά αφήστε τη βιντεοκλήση μου στο 100%.</p>
+
+<p>Έτσι, οι άνθρωποι αναζητούν μια λύση και προσγειώνονται στο Audio Hijack. Αυτό <em>μπορεί</em> κάνει ένταση ανά εφαρμογή, γιατί μπορεί να υποκλέψει και να επεξεργαστεί τον ήχο από οποιαδήποτε μεμονωμένη εφαρμογή. Αλλά αυτή η δυνατότητα είναι μια παρενέργεια αυτού για το οποίο είναι πραγματικά σχεδιασμένο: εγγραφή ήχου από εφαρμογές και υλικό, αλυσιδωτή εφέ, δρομολόγηση μεταξύ εικονικών συσκευών και δημιουργία επαναχρησιμοποιήσιμων αγωγών συνεδρίας. Είναι πραγματικά εξαιρετικό σε αυτό. Είναι απλώς μια βαριά απάντηση σε μια ελαφριά ερώτηση.</p>
+
+<h2>Όπου το Audio Hijack γίνεται υπερβολικό</h2>
+
+<p>Μερικά πράγματα τείνουν να απογοητεύουν τους ανθρώπους που ήθελαν μόνο ένα ρυθμιστικό έντασης:</p>
+
+<ul>
+<li><strong>Τιμή.</strong> Το Audio Hijack κοστίζει περίπου 79 $. Αυτό είναι δίκαιο για ένα στούντιο ηχογράφησης σε μια εφαρμογή. είναι πολύ για να απενεργοποιήσετε μια καρτέλα προγράμματος περιήγησης.</li>
+<li><strong>Πρέπει να συνεχίσει να τρέχει.</strong> Η επεξεργασία του ανά εφαρμογή λειτουργεί μόνο όταν η εφαρμογή είναι ανοιχτή και η σχετική περίοδος σύνδεσης είναι ενεργή. Κλείστε το και οι τόμοι σας επανέρχονται. Διατηρείτε έναν πλήρη σταθμό εργασίας ήχου μόνο για να κρατάτε ένα ρυθμιστικό στη θέση του.</li>
+<li><strong>Σκέψη βασισμένη σε συνεδρίες.</strong> Δημιουργείτε συνεδρίες με μπλοκ και συνδέσεις. Ισχυρό για λήψη, αλλά είναι πολύ εννοιολογικό κόστος όταν ο στόχος σας είναι "αυτή η εφαρμογή πιο αθόρυβη, αυτή η εφαρμογή πιο δυνατά".</li>
+<li><strong>Η διεπαφή είναι βαθιά.</strong> Εφέ, δρομολόγηση, μετρητές, καλωδίωση μπλοκ — μια πλούσια επιφάνεια που θα αγνοήσετε ως επί το πλείστον αν δεν εγγράψετε ποτέ τίποτα.</li>
+</ul>
+
+<blockquote>Εμπειρικός κανόνας: αν θέλετε <em>εγγραφή ή διαδρομή</em> ήχου, το Audio Hijack κερδίζει την τιμή του. Αν θέλεις μόνο <em>ισορροπία</em> ήχος μεταξύ εφαρμογών, πληρώνετε για ένα εργαστήριο όταν χρειάζεστε ένα κουμπί.</blockquote>
+
+<h2>Η απλούστερη εναλλακτική λύση: ένας μείκτης έντασης ήχου γραμμής μενού</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> παίρνει τη μία δουλειά για την οποία ήρθαν οι περισσότεροι και κάνει μόνο αυτή. Ζει στη γραμμή μενού σας. Κάντε κλικ στο εικονίδιο και θα λάβετε μια ζωντανή λίστα με κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή, η καθεμία με το δικό της ρυθμιστικό. Σύρετε το Spotify στο 30%, αφήστε την κλήση σας στο 100%, απενεργοποιήστε πλήρως το Slack — ολοκληρώθηκε, δεν υπάρχει περίοδος λειτουργίας για δημιουργία.</p>
+
+<p>Τι καλύπτει:</p>
+
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — κάθε πηγή ήχου έχει το δικό της ρυθμιστικό, ρυθμιζόμενο σε πραγματικό χρόνο.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας θορυβώδους εφαρμογής με ένα κλικ χωρίς να αγγίξετε τίποτα άλλο.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — σπρώξτε μια αθόρυβη εφαρμογή <em>παραπάνω</em> 100% όταν το δικό του μέγιστο είναι ακόμα πολύ μαλακό. Αυτό είναι το κομμάτι που δεν μπορεί ποτέ να κάνει το ρυθμιστικό συστήματος.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια ολόκληρη μίξη (μουσική χαμηλή, κλήσεις δυνατά, ειδοποιήσεις σε σίγαση) και ανακαλέστε τη με ένα κλικ για ένα δεδομένο περιβάλλον.</li>
+<li><strong>Αυτόματη πάπια</strong> — βυθίστε αυτόματα τον ήχο παρασκηνίου όταν ξεκινά κάτι πιο σημαντικό, έτσι ώστε μια κλήση ή ένα βίντεο να μην θαφτεί κάτω από τη λίστα αναπαραγωγής σας.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ακουστικών, ηχείων και άλλων εξόδων από το ίδιο μενού.</li>
+</ul>
+
+<h2>Πρακτικό: απόκτηση ελέγχου ανά εφαρμογή σε λιγότερο από ένα λεπτό</h2>
+
+<p>Η διαφορά ρύθμισης είναι η όλη ουσία. Με ένα εργαλείο δρομολόγησης δημιουργείτε μια περίοδο λειτουργίας, προσθέτετε ένα μπλοκ πηγής, το καλωδιώνετε και διατηρείτε την εφαρμογή σε λειτουργία. Εδώ είναι ουσιαστικά:</p>
+
+<ul>
+<li>Εγκατάσταση <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> από το Mac App Store.</li>
+<li>Αναπαραγωγή ήχου σε μερικές εφαρμογές ώστε να εμφανίζονται στη λίστα.</li>
+<li>Κάντε κλικ στο εικονίδιο της γραμμής μενού και σύρετε το ρυθμιστικό κάθε εφαρμογής για γεύση.</li>
+<li>Προαιρετικά αποθηκεύστε αυτό το μείγμα ως προφίλ ή ενισχύστε μια πολύ ήσυχη εφαρμογή πάνω από 100%.</li>
+</ul>
+
+<p>Επειδή διανέμεται μέσω του Mac App Store, είναι sandbox και εγκαθίσταται όπως κάθε κανονική εφαρμογή — όχι <code>.dmg</code> για μεταφορά, χωρίς επέκταση πυρήνα, χωρίς πρόγραμμα οδήγησης ήχου για έγκριση στις ρυθμίσεις ασφαλείας και τίποτα που χρειάζεται εκ νέου έγκριση μετά από μια ενημέρωση macOS. Αυτό το τελευταίο σημείο έχει σημασία: οι μίκτες που βασίζονται σε προγράμματα οδήγησης σπάνε ιστορικά στις αναβαθμίσεις του λειτουργικού συστήματος και απαιτούν επανεγκατάσταση ενός στοιχείου σε επίπεδο συστήματος. Μια εφαρμογή App Store με sandbox αποφεύγει όλη αυτή την κατηγορία συντήρησης.</p>
+
+<h2>Ποιο να επιλέξετε;</h2>
+
+<p>Να είστε ειλικρινείς για τη δουλειά. Επιλέξτε <strong>Audio Hijack</strong> εάν χρειάζεται να εγγράψετε ήχο εφαρμογής ή υλικού, να εφαρμόσετε εφέ σε πραγματικό χρόνο ή να δημιουργήσετε γραφήματα δρομολόγησης μεταξύ εικονικών συσκευών. Αυτός είναι ο χλοοτάπητας του και αξίζει κάθε δολάριο εκεί.</p>
+
+<p>Επιλέξτε έναν αποκλειστικό μίκτη γραμμής μενού, εάν η πραγματική σας ανάγκη είναι "επιτρέψτε μου να ρυθμίσω την ένταση του ήχου κάθε εφαρμογής ανεξάρτητα". Θα ξοδέψετε 14,99 € μία φορά αντί για ~79 €, θα παραλείψετε τη δημιουργία συνεδρίας και θα λάβετε ενίσχυση, σίγαση, προφίλ και πάπια σε ένα πλαίσιο που ανοίγετε από τη γραμμή μενού. Δεν υπάρχουν λειτουργίες εγγραφής που δεν θα αγγίξετε ποτέ, κανένας σταθμός εργασίας που λειτουργεί στο παρασκήνιο για να κρατήσει ένα ρυθμιστικό στη θέση του.</p>
+
+<p>Οι περισσότεροι άνθρωποι που δοκίμασαν το Audio Hijack για εξισορρόπηση όγκου έλυναν ένα μικρό πρόβλημα με ένα μεγάλο εργαλείο. Αν είστε εσείς, το μικρό εργαλείο ταιριάζει καλύτερα — και κοστίζει ένα κλάσμα.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για 14,99 €, εφάπαξ — όγκος ανά εφαρμογή, ενίσχυση, σίγαση, προφίλ και αυτόματη παύση, απευθείας από τη γραμμή μενού σας.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D Εναλλακτική: Όγκος ανά εφαρμογή χωρίς το φούσκωμα (Mac)",
+    description: "Εάν χρησιμοποιήσατε το Boom 3D κυρίως για να ενισχύσετε τον ήχο, αλλά θέλετε πραγματικά τον έλεγχο έντασης ανά εφαρμογή, το SoundDial είναι η πιο λιτή εναλλακτική λύση Mac: ανεξάρτητη ένταση ήχου ανά εφαρμογή, σίγαση και ενίσχυση ανά εφαρμογή, εφάπαξ τιμή, χωρίς EQ σε όλο το σύστημα ή προγράμματα οδήγησης.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν ζητήσατε το Boom 3D για να αυξήσετε τον όγκο, αλλά πραγματικά θέλετε να ελέγξετε κάθε εφαρμογή ξεχωριστά, θέλετε ένα διαφορετικό εργαλείο. Το Boom 3D είναι ένας ενισχυτής έντασης και EQ σε όλο το σύστημα. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι ένας εστιασμένος μείκτης έντασης ανά εφαρμογή: ανεξάρτητη ένταση, σίγαση και ενίσχυση για κάθε εφαρμογή, εφάπαξ 14,99 €, χωρίς EQ, χωρίς προγράμματα οδήγησης.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D Εναλλακτική λύση: Όγκος ανά εφαρμογή χωρίς το φούσκωμα (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Τι κάνει στην πραγματικότητα το Boom 3D (και δεν κάνει)</h2>
+<p>Το Boom 3D βασίζεται σε τρία πράγματα: μια ενίσχυση έντασης σε όλο το σύστημα, έναν ισοσταθμιστή 31 ζωνών και 3D εφέ "surround". Ισχύει αυτά για <em>τα πάντα</em> Το Mac παίζει ταυτόχρονα. Αυτό είναι πραγματικά χρήσιμο εάν ο στόχος σας είναι ένας πιο δυνατός φορητός υπολογιστής ή μια καμπύλη μπάσων που σας αρέσει σε όλη την επιφάνεια.</p>
+<p>Αυτό για το οποίο δεν έχει κατασκευαστεί το Boom 3D είναι να αντιμετωπίζει τις εφαρμογές ως ανεξάρτητα κανάλια. Δεν υπάρχει καθαρός τρόπος να πείτε "Spotify στο 40%, η βιντεοκλήση μου στο 100% και αυτή η καρτέλα του προγράμματος περιήγησης σε σίγαση." Το ρυθμιστικό του μετακινεί όλο το μείγμα. Και επειδή εγκαθιστά ένα πρόγραμμα οδήγησης ήχου για να βρίσκεται στη διαδρομή του σήματος, αγγίζει το σύστημά σας σε χαμηλότερο επίπεδο από ένα βοηθητικό πρόγραμμα sandboxed. Τοποθετείται επίσης ως προϊόν επί πληρωμή με κύκλους αναβάθμισης και όχι ως ένα μικρό εργαλείο μίας χρήσης.</p>
+<blockquote><p>Η κοινή ιστορία: οι άνθρωποι εγκαθιστούν το Boom 3D για να κάνουν μια αθόρυβη εφαρμογή πιο δυνατά και μετά συνειδητοποιούν ότι το πραγματικό πρόβλημα ήταν ότι το macOS δεν έχει καθόλου μίκτη έντασης ανά εφαρμογή.</p></blockquote>
+
+<h2>Το κενό: Το macOS δεν έχει μίκτη όγκου</h2>
+<p>Αυτό εκπλήσσει τους ανθρώπους που προέρχονται από το Windows. Το Windows διαθέτει έναν μείκτη έντασης ήχου ανά εφαρμογή εδώ και χρόνια — κάντε δεξί κλικ στο ηχείο, ρυθμίστε το επίπεδο κάθε εφαρμογής ξεχωριστά. Το macOS απλά δεν το στέλνει. Λαμβάνετε έναν κύριο τόμο και όποιο εσωτερικό ρυθμιστικό τυχαίνει να εκθέτει κάθε εφαρμογή. Δεν υπάρχει τρόπος σε επίπεδο λειτουργικού συστήματος να εξισορροπήσετε το Slack με μια καρτέλα YouTube με ένα παιχνίδι.</p>
+<p>Έτσι, όταν μια εφαρμογή μουσικής πνίγει την κλήση σας, οι μόνες εγγενείς επιλογές σας είναι ακατέργαστες: χαμηλώστε τον κύριο (που αποσιωπά τα πάντα) ή ψάξτε στις ρυθμίσεις κάθε εφαρμογής, ελπίζοντας ότι έχει έλεγχο έντασης. Το Boom 3D δεν κλείνει ούτε αυτό το κενό — κάνει όλο το μείγμα πιο δυνατό, όχι κάθε εφαρμογή.</p>
+
+<h2>Εκεί που ταιριάζει το SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι το μίξερ που λείπει. Ζει στη γραμμή μενού σας και δίνει σε κάθε εφαρμογή που εκτελείται τη δική της σειρά με το δικό της ρυθμιστικό. Αυτή είναι η βασική διαφορά από το Boom 3D: αντί για ένα παγκόσμιο εφέ, έχετε έλεγχο ανά πηγή.</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — ορίστε το Spotify στο 30% ενώ η βιντεοκλήση σας παραμένει στο 100%.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας θορυβώδους εφαρμογής αμέσως χωρίς να αγγίξετε τίποτα άλλο.</li>
+<li><strong>Ενίσχυση ανά εφαρμογή</strong> — αν σας άρεσε το πιο δυνατό από 100% κόλπο του Boom 3D, το SoundDial το διατηρεί, αλλά στοχεύει σε μία μόνο εφαρμογή αντί για ολόκληρο το σύστημα. Οι αθόρυβες εφαρμογές περνούν από μόνες τους το κανονικό τους ανώτατο όριο.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε μια διάταξη μίκτη (π.χ. "παιχνίδι", "σύσκεψη", "μουσική") και ανακαλέστε τη με ένα κλικ αντί να εξισορροπείτε ξανά τα ρυθμιστικά κάθε φορά.</li>
+<li><strong>Αυτόματη πάπια</strong> — βυθίζει αυτόματα τον ήχο στο παρασκήνιο όταν ξεκινά κάτι σημαντικό, έτσι ώστε μια κλήση ή ένα σύνθημα παιχνιδιού να μην κρύβεται κάτω από τη μουσική.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ακουστικών, ηχείων και άλλων εξόδων από το ίδιο μενού.</li>
+</ul>
+<p>Αυτό που σκόπιμα δεν κάνει το SoundDial είναι η υπόλοιπη εξάπλωση των δυνατοτήτων Boom 3D. Δεν υπάρχει EQ 31 ζωνών, καμία επεξεργασία faux-surround, καμία αλυσίδα εφέ σε όλο το σύστημα. Αν θέλετε ένα mastering EQ, το Boom 3D ή μια ειδική σουίτα ήχου είναι η σωστή επιλογή. Αν αυτό για το οποίο πραγματικά συνέχιζες να ανοίγεις το Boom 3D ήταν <em>όγκος</em>, αυτή η επιφάνεια είναι φουσκωμένη που πληρώνετε για να μεταφέρετε.</p>
+
+<h2>Boost, χωρίς τον οδηγό</h2>
+<p>Η ερώτηση "ενίσχυση" αξίζει μια άμεση απάντηση, γιατί συνήθως οι χρήστες του Boom 3D ψωνίζουν εναλλακτικές λύσεις. Η ενίσχυση του Boom 3D είναι παγκόσμια και βασίζεται στον οδηγό. Η ενίσχυση του SoundDial είναι ανά εφαρμογή και εκτελείται μέσα στο μοντέλο app-sandbox της Apple — διανέμεται μέσω του Mac App Store, επομένως δεν υπάρχει ξεχωριστό πρόγραμμα εγκατάστασης, πρόγραμμα οδήγησης σε επίπεδο πυρήνα και εναπομείναντα στοιχεία συστήματος για απεγκατάσταση αργότερα. Λαμβάνετε το αποτέλεσμα "κάντε αυτή τη μια ήσυχη εφαρμογή πιο δυνατά" χωρίς να δώσετε στον οδηγό τον έλεγχο ολόκληρης της διαδρομής ήχου σας.</p>
+
+<h2>Τιμή: εφάπαξ έναντι συνεχούς</h2>
+<p>Το Boom 3D είναι μια επί πληρωμή εφαρμογή με το δικό της μοντέλο αναβάθμισης και αδειοδότησης και η τιμολόγηση ποικίλλει ανάλογα με την πλατφόρμα και την έκδοση. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια εφάπαξ αγορά στα 14,99 € — αγοράστε το μία φορά, κρατήστε το, χωρίς συνδρομή και χωρίς επαναγορά ανά έκδοση για να συνεχίσει να λειτουργεί ο μείκτης. Για ένα βοηθητικό πρόγραμμα που θα αφήνετε να τρέχει στη γραμμή μενού κάθε μέρα, μια σταθερή τιμή τείνει να παλιώνει καλύτερα από ένα προϊόν που πρέπει να συνεχίσετε να αγοράζετε ξανά.</p>
+
+<h2>Ποιο να επιλέξετε;</h2>
+<ul>
+<li><strong>Επιλέξτε Boom 3D</strong> εάν η πραγματική σας ανάγκη είναι ένας σοβαρός ισοσταθμιστής και εφέ ήχου σε όλο το σύστημα και δεν σας πειράζει ένα πρόγραμμα οδήγησης ήχου στη μίξη.</li>
+<li><strong>Επιλέξτε SoundDial</strong> αν θέλετε αυτό που οι χρήστες του Windows θεωρούν δεδομένο - έναν πραγματικό μίκτη όγκου ανά εφαρμογή - συν στοχευμένη ενίσχυση, προφίλ και αυτόματη απελευθέρωση, σε εφάπαξ τιμή και χωρίς προγράμματα οδήγησης για εγκατάσταση.</li>
+</ul>
+<p>Οι περισσότεροι άνθρωποι που αναπηδούν από το Boom 3D ανήκουν στη δεύτερη ομάδα. Δεν ήθελαν να συντονίσουν τις συχνότητες. ήθελαν το πρόγραμμα περιήγησης πιο αθόρυβο από την κλήση. Για αυτήν ακριβώς τη δουλειά έχει κατασκευαστεί το SoundDial.</p>
+
+<p><strong>Θέλετε έλεγχο έντασης ήχου ανά εφαρμογή στο Mac χωρίς το EQ bloat ή συνδρομή;</strong> <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> — 14,99 € μία φορά, sandboxed, χωρίς προγράμματα οδήγησης και κάθε εφαρμογή έχει το δικό της ρυθμιστικό.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Πώς να κάνετε σίγαση σε όλα εκτός από μία εφαρμογή στο Mac",
+    description: "Το macOS δεν διαθέτει μίκτη έντασης ήχου ανά εφαρμογή, επομένως η σίγαση κάθε εφαρμογής εκτός από μία απαιτεί έναν βοηθό. Δείτε πώς μπορείτε να ακούσετε μόνο την κλήση, τη ροή ή το παιχνίδι σας ενώ όλα τα άλλα παραμένουν σε σίγαση.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένο τρόπο σίγασης μεμονωμένων εφαρμογών, επομένως για να ακούσετε μόνο μία εφαρμογή χρειάζεστε έναν μείκτη έντασης ήχου ανά εφαρμογή. Εγκατάσταση <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, ανοίξτε το μείκτη της γραμμής μενού του, απενεργοποιήστε κάθε εφαρμογή εκτός από αυτήν που θέλετε να ακούσετε και αυτή η εφαρμογή συνεχίζει να παίζει ενώ οι υπόλοιπες σιωπούν αμέσως.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Πώς να κάνετε σίγαση σε όλα εκτός από μία εφαρμογή στο Mac σας" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το macOS δεν μπορεί να το κάνει αυτό από μόνο του</h2>
+<p>Το Windows διαθέτει το Volume Mixer για πάνω από μια δεκαετία: κάντε δεξί κλικ στο εικονίδιο του ηχείου και κάθε εφαρμογή που εκτελείται αποκτά το δικό της ρυθμιστικό. Το macOS δεν το έχει στείλει ποτέ. Τα πλήκτρα έντασης στο Mac ελέγχουν ένα μόνο πράγμα, το κύριο επίπεδο εξόδου. Όταν απενεργοποιείτε το σύστημα, όλα πέφτουν μαζί. Όταν κάνεις σίγαση, όλα σβήνουν.</p>
+<p>Αυτό είναι εντάξει μέχρι να έχετε πέντε πράγματα που κάνουν θόρυβο ταυτόχρονα. Βρίσκεστε σε βιντεοκλήση, αλλά μια καρτέλα του προγράμματος περιήγησης αναπαράγει αυτόματα μια διαφήμιση, το Spotify εξακολουθεί να εκτελείται, ένα παιχνίδι κάνει ping στο παρασκήνιο και το Slack χτυπάει. Οι μόνες εγγενείς επιλογές σας είναι να κλείσετε τις εφαρμογές, να τις θέσετε σε σίγαση μία προς μία μέσα στις ρυθμίσεις κάθε εφαρμογής (αν έχει ακόμη και αυτή την επιλογή) ή να σηκώσετε τα ακουστικά σας. Τίποτα από αυτά δεν σε αφήνει να πεις «κράτα αυτό, σώπα τα υπόλοιπα».</p>
+
+<h2>Ο απλός τρόπος: σβήστε τα υπόλοιπα με ένα μίξερ</h2>
+<p>Ένας μείκτης ανά εφαρμογή βρίσκεται ανάμεσα στις εφαρμογές σας και τη συσκευή εξόδου σας και δίνει σε κάθε εφαρμογή τον δικό της έλεγχο έντασης και σίγασης. Μόλις εκτελεστεί μία, η απομόνωση μιας μεμονωμένης εφαρμογής διαρκεί δευτερόλεπτα:</p>
+<ul>
+<li>Ανοίξτε το μίξερ από τη γραμμή μενού σας. Θα δείτε μια ζωντανή λίστα με κάθε εφαρμογή που παράγει ήχο αυτήν τη στιγμή.</li>
+<li>Βρείτε τη μία εφαρμογή που θέλετε να ακούσετε, την κλήση σας, τη ροή σας, το παιχνίδι σας.</li>
+<li>Σίγασε όλα τα άλλα. Πατήστε το διακόπτη σίγασης δίπλα στην άλλη εφαρμογή ή τραβήξτε το ρυθμιστικό της στο μηδέν.</li>
+<li>Αυτό είναι όλο. Η μία εφαρμογή που αφήσατε μόνη συνεχίζει να παίζει σε πλήρη ένταση ενώ οι υπόλοιπες παραμένουν αθόρυβες.</li>
+</ul>
+<p>Με <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, κάθε εφαρμογή στη λίστα έχει το δικό της ρυθμιστικό και το δικό της κουμπί σίγασης, επομένως αυτό είναι μια χούφτα κλικ. Οι νέες εφαρμογές που αρχίζουν να αναπαράγονται αργότερα εμφανίζονται αυτόματα, επομένως εάν ένας ήχος ειδοποίησης προσπαθήσει να εισέλθει κρυφά, μπορείτε να τον θέσετε σε σίγαση επί τόπου χωρίς να αγγίξετε την εστιασμένη εφαρμογή σας.</p>
+
+<blockquote>Το κόλπο είναι ότι η σίγαση "όλα εκτός από ένα" είναι ακριβώς το αντίστροφο της σίγασης μιας εφαρμογής. Δεν αποσιωπάτε το Mac σας, αποσιωπάτε τον θόρυβο γύρω από αυτό που πραγματικά σας ενδιαφέρει.</blockquote>
+
+<h2>Αποθηκεύστε το ως προφίλ για να μην το επαναλάβετε</h2>
+<p>Εάν αυτή είναι μια ρύθμιση που επιδιώκετε συχνά, να την κάνετε με το χέρι κάθε φορά που παλιώνει. Ας υποθέσουμε ότι θέλετε πάντα η εφαρμογή κλήσεών σας δυνατά και οτιδήποτε άλλο απενεργοποιημένο κατά τη διάρκεια των συσκέψεων ή θέλετε η ροή σας να βρίσκεται μπροστά και στο κέντρο ενώ τα παιχνίδια και τα προγράμματα περιήγησης παραμένουν αθόρυβα. Ένα προφίλ τόμου αποθηκεύει αυτές τις ακριβείς ρυθμίσεις ανά εφαρμογή και τις εφαρμόζει ξανά με ένα κλικ.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> σάς επιτρέπει να αποθηκεύετε προφίλ όπως "Συνάντηση" ή "Μόνο ροή" και, στη συνέχεια, μεταβείτε σε αυτά τη στιγμή που τα χρειάζεστε. Ρυθμίστε το μία φορά και η απομόνωση μιας εφαρμογής σας γίνεται μια ενέργεια ενιαίας γραμμής μενού αντί για αγγαρεία πέντε ρυθμιστικών.</p>
+
+<h2>Η πιο έξυπνη έκδοση: auto-duck αντί για hard-mute</h2>
+<p>Μερικές φορές δεν θέλετε να εξαφανιστούν πλήρως οι άλλες εφαρμογές, απλώς θέλετε να απομακρυνθούν όταν ξεκινά κάτι πιο σημαντικό. Αυτό είναι αυτόματο. Όταν αναπαράγεται η εφαρμογή προτεραιότητας, οι εφαρμογές παρασκηνίου πέφτουν αυτόματα σε χαμηλό επίπεδο και, στη συνέχεια, ανεβαίνουν ξανά όταν σταματήσει.</p>
+<p>Αυτό είναι ιδανικό για κλήσεις και ροές. Όταν κάποιος αρχίζει να μιλάει, η μουσική σας πέφτει έτσι ώστε να μπορείτε να τον ακούσετε και όταν τελειώσει η κλήση, η μουσική επανέρχεται από μόνη της. Λαμβάνετε το αποτέλεσμα "ακρόαση μιας εφαρμογής καθαρά" χωρίς μη αυτόματη σίγαση και κατάργηση σίγασης κάθε φορά που αλλάζει η κατάσταση. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> περιλαμβάνει αυτόματη εκτόξευση μαζί με το χειροκίνητο μίξερ, ώστε να μπορείτε να επιλέξετε σκληρή σίγαση για απόλυτη σιωπή ή παπάκι για πιο απαλό φόντο.</p>
+
+<h2>Ενίσχυση της μίας εφαρμογής που κρατήσατε</h2>
+<p>Υπάρχει ένα μπόνους στην απομόνωση μιας μεμονωμένης εφαρμογής: μπορείτε επίσης να την κάνετε πιο δυνατή από ό,τι το Mac σας επιτρέπει συνήθως. Ορισμένες εφαρμογές, ειδικά οι αθόρυβες βιντεοκλήσεις ή οι ροές με κακή γνώση, μόλις και μετά βίας ακούγονται ακόμη και στη μέγιστη ένταση. Μια ώθηση ανά εφαρμογή ωθεί μια μεμονωμένη εφαρμογή πάνω από το 100% χωρίς να εκκινεί την έξοδο του συστήματός σας, κάτι που απλώς θα ενίσχυε τις εφαρμογές που έχετε ήδη θέσει σε σίγαση.</p>
+<p>Επομένως, η πλήρης κίνηση είναι: σίγαση του θορύβου, διατηρήστε τη μία εφαρμογή σας και αν αυτή η εφαρμογή είναι πολύ αθόρυβη, ενισχύστε την. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> χειρίζεται και τα τρία στο ίδιο παράθυρο μείκτη.</p>
+
+<h2>Αυτό στο οποίο δεν εγγράφεστε</h2>
+<p>Μια κοινή ανησυχία με τα εργαλεία ήχου Mac είναι ότι απαιτούν επεκτάσεις πυρήνα, προγράμματα οδήγησης εικονικού ήχου ή σκιερά προγράμματα εγκατάστασης που έχουν ληφθεί από έναν τυχαίο ιστότοπο. Αυτή είναι μια θεμιτή ανησυχία και γι' αυτό μερικοί άνθρωποι αποφεύγουν εντελώς αυτές τις εφαρμογές.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι στο Mac App Store, σε sandbox και εγκαθίσταται όπως κάθε κανονική εφαρμογή, χωρίς προγράμματα οδήγησης, χωρίς DMG, χωρίς επεκτάσεις συστήματος για έγκριση. Είναι μια εφάπαξ αγορά 14,99 € αντί για συνδρομή, επομένως πληρώνετε μία φορά και τη διατηρείτε. Αυτό έχει σημασία για κάτι που θα αφήσετε να τρέχει στη γραμμή μενού σας όλη μέρα.</p>
+
+<h2>Γρήγορη ανακεφαλαίωση</h2>
+<ul>
+<li>Το macOS δεν διαθέτει εγγενή έλεγχο έντασης ήχου ανά εφαρμογή, επομένως χρειάζεστε έναν μίκτη για να το κάνετε αυτό.</li>
+<li>Ανοίξτε το μίξερ, διατηρήστε τη μία εφαρμογή σας, απενεργοποιήστε ή μηδενίστε όλα τα άλλα.</li>
+<li>Αποθηκεύστε το ως προφίλ για κλήσεις ή ροές που κάνετε συχνά.</li>
+<li>Χρησιμοποιήστε το auto-ducking εάν θέλετε οι εφαρμογές παρασκηνίου να σβήσουν και όχι να σκοτωθούν.</li>
+<li>Ενισχύστε την εφαρμογή που διατηρείτε εάν είναι πολύ αθόρυβη από μόνη της.</li>
+</ul>
+
+<p>Θέλετε να ακούσετε μόνο ό,τι έχει σημασία και να αποσιωπήσετε τα υπόλοιπα; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και ρυθμίστε το πρώτο σας προφίλ σίγασης-ό,τι-άλλο σε λιγότερο από ένα λεπτό.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Διατηρήστε διαφορετική ένταση ήχου για ηχεία έναντι ακουστικών στο Mac",
+    description: "Το macOS ξεχνά τη μίξη έντασης ήχου σε επίπεδο εφαρμογής όταν κάνετε εναλλαγή μεταξύ ηχείων και ακουστικών. Δείτε γιατί συμβαίνει αυτό, τα χειροκίνητα όρια και πώς το διορθώνει η μνήμη όγκου ανά εφαρμογή.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS στην πραγματικότητα θυμάται έναν ξεχωριστό τόμο συστήματος για κάθε συσκευή εξόδου, αλλά ξεχνά την ισορροπία σε επίπεδο εφαρμογής κάθε φορά που αλλάζετε. Έτσι, τα ακουστικά και τα ηχεία διατηρούν το δικό τους συνολικό επίπεδο, ωστόσο τη στιγμή που αποσυνδέετε, μια εφαρμογή εκρήγνυται και μια άλλη εξαφανίζεται. Η επιδιόρθωση είναι η μνήμη όγκου ανά εφαρμογή που επιβιώνει από διακόπτες συσκευής, για την οποία το macOS δεν διαθέτει εγγενές εργαλείο.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Διατηρήστε διαφορετική ένταση ήχου για ηχεία έναντι ακουστικών στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Τι θυμάται το macOS και τι όχι</h2>
+
+<p>Υπάρχει μια κοινή πεποίθηση ότι το macOS αντιμετωπίζει κάθε συσκευή εξόδου με τον ίδιο τρόπο. Δεν το κάνει. Κάθε συσκευή εξόδου αποθηκεύει τον δικό της όγκο συστήματος. Ρυθμίστε τα ηχεία MacBook στο 30% και το AirPods στο 80%, και το macOS διατηρεί αυτούς τους δύο αριθμούς ξεχωριστούς. Συνδέστε, αποσυνδέστε, επανασυνδέστε και κάθε συσκευή επιστρέφει στο σημείο που την αφήσατε.</p>
+
+<p>Γιατί λοιπόν η εμπειρία εξακολουθεί να αισθάνεται σπασμένη; Επειδή αυτή η μνήμη σταματά στο ενιαίο, καθολικό ρυθμιστικό. Το macOS έχει ακριβώς ένα χειριστήριο έντασης για οτιδήποτε παίζει σε μια δεδομένη συσκευή. Δεν θυμάται πόσο δυνατές ήταν οι μεμονωμένες εφαρμογές. Όταν κάνετε εναλλαγή από ηχεία σε ακουστικά, η ισορροπία μεταξύ Spotify, κλήσης Zoom και καρτέλας YouTube δεν διατηρείται, επειδή αυτή η ισορροπία δεν υπήρξε ποτέ. Κάθε εφαρμογή μοιράζεται το ίδιο ρυθμιστικό.</p>
+
+<p>Το αποτέλεσμα είναι η απογοήτευση που οι άνθρωποι περιγράφουν ως «διαφορετική ένταση για ηχεία έναντι ακουστικών». Αυτό που συνήθως θέλουν δεν είναι απλώς ένα διαφορετικό επίπεδο master ανά συσκευή, αλλά μια απομνημονευμένη μίξη: ήσυχη μουσική, δυνατές κλήσεις, απορρίψεις ειδοποιήσεων και αυτό το μείγμα ανέπαφο είτε είναι στα ηχεία του γραφείου είτε στα ακουστικά.</p>
+
+<h2>Οι χειροκίνητες λύσεις και πού υπολείπονται</h2>
+
+<p>Μπορείτε να φτάσετε εκεί με ενσωματωμένα εργαλεία και αξίζει να γνωρίζετε την οροφή πριν πιάσετε οτιδήποτε άλλο.</p>
+
+<ul>
+<li><strong>Ρυθμίστε την ένταση του συστήματος κάθε συσκευής μία φορά.</strong> Παίξτε ήχο από τα ηχεία σας, ρυθμίστε το επίπεδο, μετά αλλάξτε την έξοδο στα ακουστικά και ρυθμίστε αυτό το επίπεδο. Το macOS διατηρεί και τα δύο. Αυτό χειρίζεται τον κύριο όγκο ανά συσκευή αλλά τίποτα ανά εφαρμογή.</li>
+<li><strong>Χρησιμοποιήστε τον τόμο ανά εφαρμογή όπου τον προσφέρει η εφαρμογή.</strong> Τα Spotify, VLC και τα περισσότερα προγράμματα περιήγησης έχουν τον δικό τους εσωτερικό όγκο. Μπορείτε να κόψετε μια δυνατή εφαρμογή μέσα στην ίδια την εφαρμογή. Η σύλληψη: αυτή η ρύθμιση ισχύει στην εφαρμογή, όχι στη συσκευή, επομένως δεν αλλάζει όταν αλλάζετε στα ακουστικά και οι περισσότερες εφαρμογές (Slack, Zoom, ειδοποιήσεις συστήματος, Mail) δεν έχουν καθόλου τέτοιο έλεγχο.</li>
+<li><strong>Εναλλαγή εξόδου από το Κέντρο Ελέγχου ή τη γραμμή μενού.</strong> Επιλογή-κλικ στο εικονίδιο έντασης ήχου στη γραμμή μενού για γρήγορη μετάβαση μεταξύ συσκευών. Γρήγορο, αλλά μετακινεί μόνο το κύριο επίπεδο, δεν επαναφέρει μια μίξη ανά εφαρμογή.</li>
+</ul>
+
+<p>Αυτά σας δίνουν έναν κύριο τόμο ανά συσκευή. Αυτό που κανένα από αυτά δεν σας δίνει είναι ένα απομνημονευμένο υπόλοιπο ανά εφαρμογή που σας ακολουθεί σε όλες τις συσκευές. Αυτό το κενό είναι ακριβώς το σημείο που ζει η ενόχληση, και είναι δομικό: το λειτουργικό σύστημα απλά δεν έχει μίκτη ανά εφαρμογή, σε αντίθεση με το Windows, το οποίο έχει αποσταλεί εδώ και χρόνια.</p>
+
+<h2>Μνήμη όγκου ανά εφαρμογή και γιατί η εναλλαγή συσκευής είναι το πραγματικό πρόβλημα</h2>
+
+<p>Η βαθύτερη λύση είναι να δώσετε σε κάθε εφαρμογή τον δικό της όγκο και να διατηρήσετε αυτές τις ρυθμίσεις. Αυτό αρέσει σε έναν μίκτη ανά εφαρμογή <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι κατασκευασμένο για. Βρίσκεται στη γραμμή μενού σας, παραθέτει κάθε εφαρμογή που παράγει ήχο αυτήν τη στιγμή και δίνει σε καθεμία ένα ανεξάρτητο ρυθμιστικό, μια εναλλαγή σίγασης και ακόμη και μια ενίσχυση άνω του 100% για αθόρυβες εφαρμογές.</p>
+
+<p>Το μέρος που έχει σημασία για το πρόβλημα των ηχείων έναντι των ακουστικών: αυτά τα επίπεδα απομνημονεύονται. Ρυθμίστε τη μουσική σας στο 40%, τις κλήσεις σας στο 90% και μια chatty εφαρμογή σε σίγαση και <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> κρατά αυτό το μείγμα. Όταν αποσυνδέετε τα ακουστικά σας και επιστρέφετε στα ηχεία, δεν εξισορροπείτε ξανά τρεις εφαρμογές με το χέρι κάθε φορά.</p>
+
+<p>Τα προφίλ όγκου προχωρούν περαιτέρω. Μπορείτε να αποθηκεύσετε ένα ονομασμένο σύνολο επιπέδων ανά εφαρμογή και να το ανακαλέσετε με ένα κλικ, επομένως μια μίξη "ακουστικά, εστιασμένη εργασία" και μια μίξη "ομιλητές, συσκέψεις" είναι το καθένα μια μεμονωμένη επιλογή και όχι μια μη αυτόματη επαναφορά.</p>
+
+<blockquote><p>Η νοητική αλλαγή: σταματήστε να σκέφτεστε ένα κύριο ρυθμιστικό που σέρνετε συνεχώς και αρχίστε να σκέφτεστε ένα αποθηκευμένο μείγμα ανά κατάσταση. Η εναλλαγή συσκευής σταματά να είναι μια αγγαρεία επανεξισορρόπησης.</p></blockquote>
+
+<h2>Γρήγορη εναλλαγή εξόδου χωρίς να χάσετε το μείγμα σας</h2>
+
+<p>Οι συσκευές μεταγωγής πρέπει να είναι γρήγορες και μη καταστροφικές. Από το ίδιο πάνελ γραμμής μενού μπορείτε να αλλάξετε τη συσκευή εξόδου σας, επομένως η μετάβαση από ηχεία σε ακουστικά είναι ένα κλικ και τα επίπεδα ανά εφαρμογή εμφανίζονται αντί να συμπτύσσονται σε έναν μόνο παγκόσμιο αριθμό.</p>
+
+<p>Ένα σχετικό χαρακτηριστικό που αξίζει να αναφερθεί είναι το auto-ducking: όταν ο ήχος μπαίνει στο μικρόφωνό σας (αρχίζετε να μιλάτε ή ξεκινά μια κλήση), οι άλλες εφαρμογές βυθίζονται αυτόματα ώστε να μπορείτε να ακούτε και μετά επιστρέφετε στο καθορισμένο επίπεδο. Είναι η ίδια αρχή που εφαρμόζεται στην προσοχή και όχι στις συσκευές, ένα άλλο πράγμα που το macOS δεν θα κάνει από μόνο του.</p>
+
+<h2>Πώς να το ρυθμίσετε</h2>
+
+<ul>
+<li>Εγκατάσταση <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> από το Mac App Store. Είναι sandbox, επομένως δεν υπάρχει πρόγραμμα οδήγησης, DMG και επέκταση πυρήνα για έγκριση.</li>
+<li>Αναπαραγωγή ήχου στις εφαρμογές που χρησιμοποιείτε περισσότερο, ώστε να εμφανίζονται στο mixer.</li>
+<li>Ρυθμίστε το επίπεδο κάθε εφαρμογής, κάντε σίγαση οτιδήποτε δεν θέλετε και ενισχύστε οτιδήποτε πολύ αθόρυβο.</li>
+<li>Αποθηκεύστε αυτή τη διάταξη ως προφίλ, για παράδειγμα ένα συντονισμένο για ακουστικά και ένα για ηχεία.</li>
+<li>Όταν αλλάζετε συσκευές, ανακαλέστε το αντίστοιχο προφίλ ή απλώς αφήστε τα αποθηκευμένα επίπεδα ανά εφαρμογή να μεταφερθούν.</li>
+</ul>
+
+<p>Η ειλικρινής περίληψη: Το macOS θυμάται τον όγκο ανά συσκευή εξόδου στο κύριο επίπεδο, αλλά δεν θα θυμάται ποτέ τη μίξη ανά εφαρμογή, επειδή δεν έχει μίκτη ανά εφαρμογή. Εάν ο πραγματικός σας στόχος είναι μια σταθερή ισορροπία μεταξύ μουσικής, κλήσεων και ειδοποιήσεων που επιβιώνει σε κάθε εναλλαγή μεταξύ ηχείων και ακουστικών, χρειάζεστε μνήμη ανά εφαρμογή πάνω από το λειτουργικό σύστημα.</p>
+
+<p>Θέλετε τα ηχεία και τα ακουστικά να διατηρούν το δικό τους μείγμα χωρίς να προσαρμόζετε ξανά κάθε εφαρμογή; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> για εφάπαξ €14,99, χωρίς συνδρομή, χωρίς προγράμματα οδήγησης.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control Διακόπηκε; Η καλύτερη αντικατάσταση όγκου Mac ανά εφαρμογή (2026)",
+    description: "Το Sound Control από το Static Z Software έχει διακοπεί και χαλάει στο σύγχρονο macOS. Αυτός είναι ο λόγος που σταμάτησε να λειτουργεί, τι έκανε και ο καλύτερος μείκτης έντασης ήχου ανά εφαρμογή για εναλλαγή το 2026.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το Sound Control από το Static Z Software διακόπτεται και δεν πωλείται ή ενημερώνεται πλέον και αποτυγχάνει όλο και περισσότερο στο σύγχρονο macOS επειδή βασιζόταν σε ένα πρόγραμμα οδήγησης ήχου σε επίπεδο πυρήνα που η Apple έχει κλειδώσει. Εάν χρειάζεστε όγκο ανά εφαρμογή σήμερα, η πιο καθαρή αντικατάσταση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, ένας μίκτης Mac App Store με sandbox χωρίς προγράμματα οδήγησης.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control Διακόπηκε; Η καλύτερη αντικατάσταση όγκου Mac ανά εφαρμογή (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Τι έκανε στην πραγματικότητα το Sound Control</h2>
+<p>Το Sound Control ήταν, για χρόνια, η καλύτερη απάντηση σε ένα γνήσιο κενό macOS: δεν υπάρχει ακόμα ενσωματωμένος μίκτης όγκου ανά εφαρμογή στο Mac. Το Windows έχει ένα στο Volume Mixer του από τα Vista, αλλά το macOS σάς δίνει μόνο ένα κύριο ρυθμιστικό. Το Sound Control γέμισε αυτήν την τρύπα με ένα τακτοποιημένο πάνελ γραμμής μενού που σας επιτρέπει:</p>
+<ul>
+<li>Ορίστε ένα ανεξάρτητο επίπεδο έντασης για κάθε εφαρμογή που εκτελείται.</li>
+<li>Σίγαση μεμονωμένων εφαρμογών χωρίς να αγγίξετε τον υπόλοιπο ήχο του συστήματός σας.</li>
+<li>Ενισχύστε τις αθόρυβες εφαρμογές πάνω από 100 τοις εκατό.</li>
+<li>Εφαρμόστε ισοσταθμιστή ανά εφαρμογή και προσαρμογές ισορροπίας.</li>
+<li>Δρομολογήστε εφαρμογές ήχου και καρφιτσώστε σε συγκεκριμένες συσκευές εξόδου.</li>
+</ul>
+<p>Για όποιον είχε ποτέ ανατίναξη κλήσης Zoom ενώ ψιθυρίζει μια καρτέλα φόντου YouTube, αυτός ο έλεγχος ανά εφαρμογή ήταν μεταμορφωτικός. Έγινε μια αθόρυβη βάση σε πολλά μηχανήματα δυναμικών χρηστών Mac.</p>
+
+<h2>Γιατί σταμάτησε να λειτουργεί</h2>
+<p>Η ειλικρινής τεχνική ιστορία έχει σημασία εδώ, γιατί εξηγεί γιατί αυτό δεν είναι ένα σφάλμα που κάποιος μπορεί απλά να διορθώσει. Το Sound Control λειτούργησε εγκαθιστώντας ένα πρόγραμμα οδήγησης ήχου συστήματος — μια επέκταση πυρήνα (kext) που εισήχθη στον αγωγό ήχου macOS, ώστε να μπορεί να παρεμποδίσει και να αναδιαμορφώσει την έξοδο κάθε εφαρμογής. Αυτό το βαθύ άγκιστρο είναι ακριβώς αυτό που έκανε δυνατές τις λειτουργίες EQ και boost.</p>
+<p>Ξεκινώντας με το macOS 10.15 Catalina και επιταχύνοντας μέσω του Big Sur και της μετάβασης του Apple Silicon, η Apple άρχισε να καταργεί τις επεκτάσεις πυρήνα υπέρ των εναλλακτικών του χώρου χρήστη. Στα Apple Silicon Mac, η φόρτωση kext τρίτων προϋποθέτει μείωση της ασφάλειας του συστήματος στη λειτουργία ανάκτησης και η Apple έχει καταστήσει σαφές ότι τα kext ήχου παλαιού τύπου βρίσκονται σε χρόνο δανεισμού. Το Static Z Software σταμάτησε τελικά να πουλά και να αναπτύσσει το Sound Control. Το αποτέλεσμα: στις πρόσφατες εκδόσεις του macOS, οι εγκαταστάσεις αποτυγχάνουν, ο ήχος διακόπτεται ή το πρόγραμμα οδήγησης απλώς αρνείται να φορτώσει χωρίς υποβαθμίσεις ασφαλείας που οι περισσότεροι άνθρωποι δικαίως δεν θέλουν να κάνουν.</p>
+<blockquote>Αυτό δεν είναι παραμέληση από την πλευρά του προγραμματιστή. Είναι μια μετατόπιση σε επίπεδο πλατφόρμας. Η Apple έκλεισε την πόρτα στο είδος του προγράμματος οδήγησης ήχου χαμηλού επιπέδου που δημιουργήθηκε γύρω από το Sound Control και καμία ενημέρωση δεν μπορεί να το ανοίξει πλήρως.</blockquote>
+
+<h2>Τι άλλαξε στο σύγχρονο macOS</h2>
+<p>Η Apple πρόσθεσε ένα σχετικό πράγμα: Το Core Audio προσφέρει τώρα ένα Tap API (που εισήχθη στο macOS 14.2 Sonoma) που επιτρέπει στις εφαρμογές να καταγράφουν και να επεξεργάζονται ήχο ανά διαδικασία από τον χώρο χρήστη — χωρίς kext, χωρίς υποβάθμιση ασφαλείας, χωρίς επανεκκίνηση στο Recovery. Αυτή είναι η εγκεκριμένη μοντέρνα διαδρομή για τον ήχο ανά εφαρμογή και σε αυτήν θα πρέπει να χτιστεί ένας τρέχων μίκτης. Η ανταλλαγή είναι ειλικρινής: τα πατήματα χώρου χρήστη είναι πιο περιορισμένα από ένα παλιό πρόγραμμα οδήγησης πυρήνα, επομένως θα πρέπει να περιμένετε καθαρό όγκο ανά εφαρμογή, σίγαση και ενίσχυση αντί για το πλήρες παραμετρικό EQ ανά εφαρμογή που προσφέρεται.</p>
+
+<h2>Η καλύτερη αντικατάσταση: SoundDial</h2>
+<p>Εάν θέλετε τον πυρήνα αυτού που έκανε το Sound Control — ανεξάρτητος όγκος ανά εφαρμογή — σε ένα Mac, μπορείτε πραγματικά να παραμείνετε ασφαλείς και ενημερωμένοι, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι η πλησιέστερη επιλογή καθαρής μετεγκατάστασης το 2026. Είναι ένας μείκτης έντασης ήχου γραμμής μενού ανά εφαρμογή που έχει σχεδιαστεί για τη σύγχρονη στοίβα ήχου macOS. Τι μεταφέρει από τη ροή εργασίας Sound Control:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — ένα ρυθμιστικό ανά εφαρμογή που εκτελείται, ακριβώς στη γραμμή μενού.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας εφαρμογής ενώ όλα τα άλλα συνεχίζουν να παίζουν.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — σπρώξτε μια αθόρυβη εφαρμογή πάνω από το κανονικό της ταβάνι.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθήκευση ρυθμίσεων μίκτη για διαφορετικά περιβάλλοντα (κλήσεις, μουσική, παιχνίδια) και εναλλαγή μεταξύ τους.</li>
+<li><strong>Αυτόματη πάπια</strong> — μειώνει αυτόματα την ένταση της εφαρμογής παρασκηνίου, χρήσιμη όταν ξεκινάτε να μιλάτε ή όταν έρχεται μια κλήση.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών χωρίς να βουτήξετε στις Ρυθμίσεις συστήματος.</li>
+</ul>
+<p>Οι πρακτικές διαφορές που έχουν σημασία για μια μετανάστευση: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> αποστέλλεται μέσω του Mac App Store, είναι sandbox και δεν εγκαθιστά κανένα πρόγραμμα οδήγησης και κανένα DMG. Αυτό σημαίνει ότι δεν υπάρχει επέκταση πυρήνα για έγκριση, καμία λειτουργία ανάκτησης και καμία μείωση της στάσης ασφαλείας του Mac — τα ακριβή σημεία πόνου που σκότωσαν το Sound Control. Είναι εφάπαξ αγορά 14,99 € και όχι συνδρομή.</p>
+
+<h2>Πώς να αλλάξετε, βήμα προς βήμα</h2>
+<ul>
+<li><strong>Απεγκαταστήστε το Sound Control καθαρά.</strong> Επειδή εγκατέστησε ένα πρόγραμμα οδήγησης, χρησιμοποιήστε το δικό του πρόγραμμα απεγκατάστασης εάν εξακολουθεί να εκτελείται ή αφαιρέστε τα στοιχεία του προγράμματος οδήγησης ήχου πριν εγκαταστήσετε οτιδήποτε νέο. Δύο ανταγωνιστικά άγκιστρα ήχου μπορεί να προκαλέσουν δυσλειτουργίες.</li>
+<li><strong>Εγκαταστήστε το SoundDial από το App Store.</strong> Δεν απαιτείται επανεκκίνηση ή αλλαγές ασφαλείας.</li>
+<li><strong>Εκχωρήστε την άδεια ήχου που ζητά.</strong> Αυτό είναι που του επιτρέπει να διαβάζει και να ελέγχει την έξοδο ανά εφαρμογή στο σύγχρονο macOS.</li>
+<li><strong>Ανοίξτε το πλαίσιο της γραμμής μενού και ορίστε τα επίπεδα.</strong> Οι εφαρμογές που εκτελούνται εμφανίζονται με μεμονωμένα ρυθμιστικά. προσαρμόστε, σίγαση ή ενισχύστε όπως απαιτείται.</li>
+<li><strong>Αποθήκευση προφίλ.</strong> Εάν είχατε αγαπημένες ρυθμίσεις Sound Control, δημιουργήστε τις ξανά ως προφίλ, ώστε να μπορείτε να κάνετε εναλλαγή με ένα κλικ.</li>
+</ul>
+
+<h2>Ειλικρινείς προσδοκίες</h2>
+<p>Εάν ο μόνος λόγος που χρησιμοποιήσατε το Sound Control ήταν η ένταση ήχου, η σίγαση και η ενίσχυση ανά εφαρμογή, ένας σύγχρονος μίκτης με sandbox σας καλύπτει πλήρως. Εάν βασίζεστε πολύ στον ισοσταθμιστή ανά εφαρμογή, να γνωρίζετε ότι το deep EQ ήταν συνδεδεμένο με το παλιό μοντέλο προγράμματος οδήγησης και είναι το πιο δύσκολο χαρακτηριστικό για καθαρή αναπαραγωγή σύμφωνα με τους τρέχοντες κανόνες της Apple. Θέστε τις προσδοκίες σας ανάλογα και δεν θα εκπλαγείτε.</p>
+
+<p>Είστε έτοιμοι να επαναφέρετε τον όγκο ανά εφαρμογή χωρίς πονοκεφάλους του προγράμματος οδήγησης; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> — εφάπαξ €14,99, sandboxed, χωρίς συνδρομή, χωρίς προγράμματα οδήγησης.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "Το SoundBunny έχει φύγει — η σύγχρονη εφαρμογή όγκου ανά εφαρμογή Mac για αντικατάσταση",
+    description: "Το SoundBunny της Prosoft διακόπτεται. Ακολουθεί ο τρέχων, ενεργά διατηρημένος μείκτης έντασης ήχου macOS ανά εφαρμογή για αντικατάσταση — καθώς και ο τρόπος μετεγκατάστασης της ρύθμισης ήχου ανά εφαρμογή χωρίς προγράμματα οδήγησης πυρήνα.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Εάν το SoundBunny σταμάτησε να λειτουργεί ή δεν πωλείται πλέον, η σύγχρονη αντικατάσταση είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, μια γραμμή μενού ανά εφαρμογή μείκτη τόμου που έχει δημιουργηθεί για το τρέχον macOS. Σας δίνει την ίδια βασική εργασία — ανεξάρτητο όγκο, σίγαση και ενίσχυση ανά εφαρμογή — ως μια εφάπαξ αγορά Mac App Store 14,99 €, χωρίς πρόγραμμα οδήγησης πυρήνα, DMG ή συνδρομή για διαχείριση.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Το SoundBunny έχει φύγει — η σύγχρονη εφαρμογή τόμου ανά εφαρμογή Mac για αντικατάσταση" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Τι έγινε με το SoundBunny;</h2>
+<p>Το SoundBunny ήταν το βοηθητικό πρόγραμμα τόμου ανά εφαρμογή της Prosoft Engineering για το macOS. Σας επιτρέπει να ορίσετε διαφορετικό επίπεδο έντασης για κάθε εφαρμογή που εκτελείται απευθείας από τη γραμμή μενού — Αθόρυβη μουσική, μια δυνατή κλήση, ένα πρόγραμμα περιήγησης κάπου ενδιάμεσα. Για χρόνια ήταν ένα από τα λίγα εργαλεία που κάλυπταν ένα κενό που η Apple δεν έκλεισε ποτέ.</p>
+<p>Το πρόβλημα είναι ότι το SoundBunny είναι λογισμικό παλαιού τύπου. Δεν συμβάδισε με τις βαθιές αλλαγές που έκανε η Apple στον ήχο και την ασφάλεια macOS — Apple Silicon, σκληρυμένο χρόνο εκτέλεσης, αυστηρότερους κανόνες επέκτασης συστήματος και αφαίρεση παλαιότερων αγκίστρων ήχου. Όταν ένα βοηθητικό πρόγραμμα όπως αυτό σταματά να λαμβάνει ενημερώσεις, τελικά χαλάει: αποτυγχάνει να ξεκινήσει, χάνει τον έλεγχο των ροών εφαρμογής μετά από μια ενημέρωση του λειτουργικού συστήματος ή απλά δεν μπορεί να εγκατασταθεί καθαρά σε ένα σύγχρονο Mac. Αν είσαι εκεί, δεν κάνεις τίποτα λάθος. Η εφαρμογή είναι πίσω, όχι εσείς.</p>
+
+<h2>Γιατί το macOS χρειάζεται ακόμα μίκτη τρίτου κατασκευαστή</h2>
+<p>Εδώ είναι το ειλικρινές μέρος: αυτό είναι ένα πραγματικό κενό στο macOS, όχι ένα σφάλμα που μπορείτε να διορθώσετε στις Ρυθμίσεις. Η Windows έχει αποστείλει ένα Volume Mixer ανά εφαρμογή για πάνω από μια δεκαετία. Το macOS δεν είχε ποτέ ένα. Το ρυθμιστικό έντασης του συστήματος και οι ρυθμίσεις ήχου ελέγχουν τη δική σας <em>συσκευή εξόδου</em> συνολικά — κάθε εφαρμογή έχει το ίδιο κύριο επίπεδο. Δεν υπάρχει ενσωματωμένος τρόπος να πούμε "κρατήστε το Safari στο 40% αλλά το Zoom στο 100%.</p>
+<p>Γι' αυτό υπήρχαν εργαλεία όπως το SoundBunny και γιατί η αντικατάσταση είναι ακόμα απαραίτητη σήμερα. Η ανάγκη δεν εξαφανίστηκε όταν η εφαρμογή το έκανε - η Apple απλώς δεν το έχει αντιμετωπίσει ακόμα.</p>
+
+<h2>Η σύγχρονη αντικατάσταση: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι ένας μείκτης έντασης ήχου ανά εφαρμογή που βρίσκεται στη γραμμή μενού σας και κάνει τα πράγματα στα οποία βασίστηκαν οι χρήστες του SoundBunny, χτισμένος σε σχέση με το σημερινό macOS αντί του χθεσινού. Η επικάλυψη χαρακτηριστικών καλύπτει τα βασικά:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — ένα ρυθμιστικό ανά εφαρμογή που εκτελείται, ακριβώς το νοητικό μοντέλο SoundBunny.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας μεμονωμένης θορυβώδους εφαρμογής χωρίς να αγγίξετε οτιδήποτε άλλο.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — σπρώξτε μια αθόρυβη εφαρμογή <em>παραπάνω</em> 100% όταν ένα βίντεο ή μια κλήση εγγράφεται πολύ χαμηλά. Το SoundBunny δεν μπορούσε να ενισχύσει αξιόπιστα το προηγούμενο μέγιστο σύστημα στο σύγχρονο macOS. Το boost είναι μια πραγματική αναβάθμιση εδώ.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε ένα σύνολο επιπέδων ανά εφαρμογή (μια μίξη "εργασίας", μια μίξη "παιχνιδιού") και εναλλάξτε τα μεταξύ τους αντί να ωθήσετε τα ρυθμιστικά ένα-ένα.</li>
+<li><strong>Αυτόματη πάπια</strong> — μειώνει αυτόματα την ένταση της εφαρμογής παρασκηνίου όταν ενεργοποιείται μια άλλη πηγή ήχου (όπως το μικρόφωνό σας σε μια κλήση).</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων εξόδων από το ίδιο μενού.</li>
+</ul>
+
+<h2>Πώς μοιάζει στην πραγματικότητα η μετανάστευση</h2>
+<p>Δεν υπάρχει βήμα εισαγωγής — τα επίπεδα όγκου ανά εφαρμογή δεν είναι ένα αρχείο που μεταφέρετε — αλλά η εναλλαγή είναι γρήγορη:</p>
+<ul>
+<li><strong>Αφαιρέστε σωστά το SoundBunny.</strong> Κλείστε το και, στη συνέχεια, διαγράψτε την εφαρμογή. Εάν έχει εγκαταστήσει κάποιο βοηθητικό στοιχείο ή στοιχείο σύνδεσης, αφαιρέστε το επίσης, ώστε δύο βοηθητικά προγράμματα να μην τσακώνονται για τις ίδιες ροές ήχου.</li>
+<li><strong>Εγκαταστήστε το SoundDial από το Mac App Store.</strong> Είναι σε sandbox και διανέμεται μέσω του καταστήματος, επομένως δεν υπάρχει DMG για προσάρτηση και καμία προειδοποίηση "μη αναγνωρισμένου προγραμματιστή". Μία αγορά, συνδεδεμένη με το Apple ID σας.</li>
+<li><strong>Παραχωρήστε πρόσβαση ήχου κατά την πρώτη εκκίνηση.</strong> Το macOS θα ζητήσει άδεια για το SoundDial να δει τον ήχο της εφαρμογής. Αυτή είναι η σύγχρονη, εγκεκριμένη διαδρομή που παρέχει η Apple — χωρίς επέκταση πυρήνα, χωρίς επανεκκίνηση, χωρίς μείωση της ασφάλειας του συστήματος. Παραχωρήστε το και οι εφαρμογές σας που εκτελούνται εμφανίζονται ως ρυθμιστικά.</li>
+<li><strong>Φτιάξτε ξανά το μείγμα σας.</strong> Ρυθμίστε τις κοινές εφαρμογές σας και, στη συνέχεια, αποθηκεύστε αυτήν τη ρύθμιση ως προφίλ, ώστε να μην χρειαστεί να την επαναλάβετε ποτέ.</li>
+</ul>
+
+<h2>Οι πρακτικές διαφορές από το SoundBunny</h2>
+<p>Η πιο σημαντική διαφορά είναι αυτή <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι τρέχον λογισμικό. Λειτουργεί εγγενώς στο Apple Silicon, χρησιμοποιεί τα υποστηριζόμενα API ήχου της Apple και είναι μια εφαρμογή Mac App Store — που σημαίνει ότι οι ενημερώσεις φτάνουν μέσω του καταστήματος και είναι κατασκευασμένο για να επιβιώνει από αναβαθμίσεις λειτουργικού συστήματος αντί να τις διακόπτει. Το ότι είναι sandbox σημαίνει επίσης ότι δεν μπορεί να φτάσει έξω από τη λωρίδα του, κάτι που είναι καθησυχαστικό για κάτι που βρίσκεται ανάμεσα στις εφαρμογές σας και τα ηχεία σας.</p>
+<p>Μερικές ειλικρινείς προειδοποιήσεις, οπότε οι προσδοκίες είναι σωστές. Επειδή το SoundDial λειτουργεί εντός του πλαισίου ήχου της Apple, ο έλεγχος είναι καλύτερος για τυπικές εφαρμογές που δρομολογούν την κανονική έξοδο του συστήματος. Κάποιο λογισμικό αναπαράγει τον ήχο μέσω της δικής του διαδρομής ή μιας αποκλειστικής συσκευής και κανένας μείκτης γραμμής μενού — συμπεριλαμβανομένου του SoundBunny — δεν μπορεί να τα κυβερνήσει πλήρως. Και ο όγκος ανά εφαρμογή είναι εγγενώς ένα επίπεδο λογισμικού πάνω από το macOS. δεν είναι μίξερ υλικού. Μέσα σε αυτά τα πραγματικά όρια, κάνει τη δουλειά που έκανε το SoundBunny.</p>
+
+<blockquote>Εάν αλλάξατε σε ένα Mac από το Windows αναμένοντας έναν μείκτη όγκου ανά εφαρμογή, αυτό είναι το εργαλείο που καλύπτει αυτό το κενό — και τώρα είναι ένα εργαλείο που πραγματικά διατηρείται.</blockquote>
+
+<p>Το SoundBunny είχε καλή πορεία, αλλά είναι κληρονομιά. Εάν χρειάζεστε ένταση ήχου ανά εφαρμογή, κάντε σίγαση και ενίσχυση σε ένα σύγχρονο Mac, <a href="https://apps.apple.com/app/id6772792641">αποκτήστε SoundDial στο Mac App Store</a> — €14,99 μία φορά, χωρίς συνδρομή, χωρίς προγράμματα οδήγησης.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Εναλλακτική λύση για Mac: Όγκος ανά εφαρμογή χωρίς την ανοδική πώληση Boom 3D",
+    description: "Το Boom 2 είναι κληρονομιά και συνεχίζει να σας ωθεί στο Boom 3D. Εάν θέλετε απλώς τον όγκο ανά εφαρμογή και μια απλή ώθηση στο σύγχρονο macOS, εδώ είναι μια εστιασμένη εναλλακτική και πώς λειτουργεί.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Αν σας άρεσε το Boom 2 για ενίσχυση σε όλο το σύστημα αλλά θέλετε απλό <strong>ανά εφαρμογή</strong> τόμος σε ένα τρέχον Mac, η ειλικρινής απάντηση είναι ότι το Boom 2 είναι παλαιού τύπου και δεν είναι πλέον το σωστό εργαλείο. Μια εστιασμένη εναλλακτική είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, ένας μίκτης γραμμής μενού που δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης, σίγαση και ενίσχυση, για 14,99 € μία φορά, χωρίς ώθηση σε μεγαλύτερο πακέτο.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Εναλλακτική λύση για Mac: Όγκος ανά εφαρμογή χωρίς την ανοδική πώληση Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το Boom 2 δεν ταιριάζει πια</h2>
+<p>Το Boom 2 ήταν μια δημοφιλής εφαρμογή για έναν συγκεκριμένο λόγο: αύξησε τη συνολική ένταση του Mac πέρα από το μέγιστο του συστήματος και πρόσθεσε έναν ισοσταθμιστή. Αυτό το έκανε σε όλο το σύστημα, όχι ανά εφαρμογή. Μια χαρά ήταν το 2015. Το 2026 έχει δύο προβλήματα.</p>
+<p>Πρώτον, είναι κληρονομιά. Το Global Delight έχει σαφώς μεταφέρει την ενέργειά του στο Boom 3D και αν ανοίξετε τη σελίδα προϊόντος Boom 2, θα βρεθείτε ωθημένοι προς τη νεότερη, ακριβότερη εφαρμογή σχεδόν αμέσως. Το Boom 2 εξακολουθεί να υπάρχει, αλλά είναι ένα σκαλοπάτι που χρησιμοποιεί ο πωλητής για να πουλήσει το Boom 3D, όχι ένα προϊόν που αγαπά ενεργά.</p>
+<p>Δεύτερον, και πιο σημαντικό: Το Boom 2 δεν ήταν ποτέ μίκτης τόμου ανά εφαρμογή. Ανυψώνει και διαμορφώνει μια κύρια έξοδο. Εάν ο πραγματικός πόνος σας είναι ότι ένα ping Slack είναι πιο δυνατό από τη μουσική σας ή μια καρτέλα του προγράμματος περιήγησης πνίγει μια κλήση, το Boom 2 δεν το λύνει. Κάνει τα πάντα πιο δυνατά μαζί. Αυτή είναι μια διαφορετική δουλειά.</p>
+
+<h2>Τι σημαίνει στην πραγματικότητα ο "τόμος ανά εφαρμογή" στο macOS</h2>
+<p>Εδώ είναι το ειλικρινές πλαίσιο που παραλείπουν οι περισσότερες εναλλακτικές στρογγυλοποιήσεις: Το macOS δεν έχει καθόλου ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows έχει ένα εδώ και χρόνια — κάντε δεξί κλικ στο ηχείο, ανοίξτε το Volume Mixer και ρυθμίστε το Chrome στο 40% και το Spotify στο 80%. Η Apple δεν το έστειλε ποτέ. Το πλήκτρο έντασης macOS μετακινεί μόνο ένα κύριο επίπεδο.</p>
+<p>Έτσι, όταν αναζητάτε μια "εναλλακτική λύση Boom 2", αυτό που συχνά αναζητάτε πραγματικά δεν είναι ένα πιο δυνατό Mac - είναι ο έλεγχος ανά εφαρμογή που οι χρήστες του Windows θεωρούν δεδομένο. Αυτό είναι ένα πραγματικό κενό στο λειτουργικό σύστημα, όχι κάτι που το Boom 2 ή οποιαδήποτε μεμονωμένη εφαρμογή ξέχασε να δημιουργήσει.</p>
+
+<h2>Εκεί που ταιριάζει το SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> έχει κατασκευαστεί ειδικά για αυτό το κενό. Ζει στη γραμμή μενού και παραθέτει τις εφαρμογές που παίζουν ήχο αυτήν τη στιγμή, η καθεμία με το δικό της ρυθμιστικό. Ορίζετε επίπεδα ανά εφαρμογή αντί να ωθήσετε ένα κύριο στοιχείο ελέγχου και να ελπίζετε για το καλύτερο.</p>
+<p>Τι κάνει:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — αθόρυβο το πρόγραμμα περιήγησης, διατηρήστε τη μουσική όπου θέλετε, χωρίς παγκόσμιο συμβιβασμό.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — σίγαση μιας θορυβώδους εφαρμογής χωρίς να αγγίξετε οτιδήποτε άλλο.</li>
+<li><strong>Ενίσχυση ανά εφαρμογή</strong> — ωθήστε μια μεμονωμένη εφαρμογή πέρα από το κανονικό της ανώτατο όριο όταν ένα βίντεο ή μια κλήση εγγράφεται πολύ αθόρυβα. Αυτό είναι το κομμάτι που συνήθως χάνουν οι θαυμαστές του Boom 2, εκτός από το ότι εδώ στοχεύει σε μία εφαρμογή και όχι σε ολόκληρο το σύστημα.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε διατάξεις όπως "εστίαση", "σύσκεψη" ή "παιχνίδι" και πραγματοποιήστε εναλλαγή με ένα κλικ.</li>
+<li><strong>Αυτόματη πάπια</strong> — χαμηλώνει αυτόματα άλλες εφαρμογές όταν ξεκινάτε να μιλάτε, χρήσιμο για κλήσεις και ηχογράφηση.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων εξόδων από το ίδιο μενού.</li>
+</ul>
+
+<h2>Πώς να το ρυθμίσετε</h2>
+<p>Η ροή εργασίας είναι σύντομη:</p>
+<ul>
+<li>Εγκατάσταση <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> από το Mac App Store — χωρίς DMG, χωρίς πρόγραμμα οδήγησης, χωρίς επανεκκίνηση.</li>
+<li>Κάντε κλικ στο εικονίδιο της γραμμής μενού για να δείτε κάθε εφαρμογή που παράγει ήχο αυτήν τη στιγμή.</li>
+<li>Σύρετε το ρυθμιστικό κάθε εφαρμογής στο επίπεδο που θέλετε. σίγαση ή ενίσχυση μεμονωμένα όπως απαιτείται.</li>
+<li>Αποθηκεύστε τη διάταξη ως προφίλ εάν θέλετε να τη χρησιμοποιήσετε ξανά αργότερα.</li>
+</ul>
+<p>Επειδή αποστέλλεται μέσω του App Store, είναι sandbox και εγκαθίσταται καθαρά. Αξίζει να το αναφέρουμε, επειδή ορισμένα παλαιότερα εργαλεία ήχου βασίζονταν σε επεκτάσεις πυρήνα ή εικονικά προγράμματα οδήγησης ήχου — στο είδος του πράγματος που αντιστέκεται όλο και περισσότερο στο σύγχρονο macOS. Το SoundDial δεν σας ζητά να εγκαταστήσετε πρόγραμμα οδήγησης ή να μειώσετε καμία ρύθμιση ασφαλείας.</p>
+
+<h2>Ένας ειλικρινής περιορισμός</h2>
+<p>Η ενίσχυση ανά εφαρμογή είναι πραγματική αλλά όχι μαγική. Εάν ο ήχος της πηγής μιας εφαρμογής είναι πραγματικά αθόρυβος ή κακώς εγγεγραμμένος, η ενίσχυσή του αυξάνει το επίπεδο θορύβου μαζί με το σήμα, επομένως το πολύ ήσυχο υλικό μπορεί να ακούγεται συριστικό όταν πιέζεται δυνατά. Αυτό είναι ένα όριο φυσικής ενίσχυσης, όχι ένα ελάττωμα σε κάποια συγκεκριμένη εφαρμογή — η ώθηση συστήματος του Boom 2 είχε τον ίδιο συμβιβασμό. Αντιμετωπίστε το boost ως χώρο κεφαλής για πρακτικές θήκες, όχι ως διάσωση για χαλασμένο ήχο.</p>
+
+<h2>Boom 2 εναντίον ενός εστιασμένου μίκτη</h2>
+<p>Εάν αυτό που σας άρεσε στο Boom 2 ήταν η ένταση του ήχου σε όλο το σύστημα συν ένα EQ και δεν σας ενδιαφέρει ο έλεγχος ανά εφαρμογή, το Boom 3D είναι ο επιδιωκόμενος διάδοχος του προμηθευτή — αυτός είναι ένας δίκαιος δρόμος και δεν θα υποκριθούμε το αντίθετο. Αλλά αν δοκιμάσατε το Boom 2 και συνειδητοποιούσατε ότι αυτό που πραγματικά θέλατε ήταν να απενεργοποιήσετε ή να αυξήσετε μία εφαρμογή χωρίς να μετακινήσετε τα πάντα, ένα πακέτο EQ-and-boost είναι το λάθος σχήμα εργαλείου.</p>
+<blockquote>Το Boom 2 κάνει όλο το Mac πιο δυνατό. Ένας μίκτης ανά εφαρμογή σάς επιτρέπει να αποφασίσετε ποια εφαρμογή είναι πιο δυνατή. Αυτά λύνουν διαφορετικά προβλήματα.</blockquote>
+<p>Η διαφορά τιμολόγησης αξίζει επίσης να ονομαστεί ξεκάθαρα. Το SoundDial είναι 14,99 € μία φορά. Δεν υπάρχει συνδρομή, καμία δοκιμή που να καταργείται σε ένα μεγαλύτερο σχέδιο και καμία διαδρομή εντός εφαρμογής που να σας οδηγεί σε πιο ακριβό επίπεδο. Αγοράζεις το μίξερ, σου ανήκει το μίξερ.</p>
+
+<p>Εάν ο όγκος ανά εφαρμογή - όχι ένα EQ σε όλο το σύστημα - είναι αυτό που πραγματικά αναζητούσατε, <a href="https://apps.apple.com/app/id6772792641">δοκιμάστε το SoundDial στο Mac App Store</a> και ρυθμίστε τα επίπεδά σας με τον τρόπο που το macOS θα έπρεπε να σας έχει επιτρέψει.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: Δωρεάν όγκος ανοιχτού κώδικα έναντι πληρωμής ανά εφαρμογή στο Mac",
+    description: "Το FineTune είναι μια δωρεάν εφαρμογή τόμου ανοιχτού κώδικα ανά εφαρμογή για το Mac. Το SoundDial είναι μια επί πληρωμή, Sandboxed εφαρμογή App Store με ενίσχυση, προφίλ και υποστήριξη. Εδώ είναι μια ειλικρινής σύγκριση που θα σας βοηθήσει να επιλέξετε.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Το FineTune είναι ένας δωρεάν μίκτης τόμου ανοιχτού κώδικα ανά εφαρμογή για το macOS, οπότε αν η τιμή είναι η μόνη σας ανησυχία, είναι μια γνήσια επιλογή. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια επί πληρωμή (14,99 €, εφάπαξ) εφαρμογή Mac App Store που προσθέτει αύξηση όγκου ανά εφαρμογή, αποθηκευμένα προφίλ, αυτόματη απομάκρυνση και υποστήριξη προμηθευτή. Η πραγματική επιλογή είναι το free-and-DIY έναντι του sandboxed-and-supported.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune vs SoundDial: Δωρεάν όγκος ανοιχτού κώδικα έναντι πληρωμένης ανά εφαρμογή στο Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Το πρόβλημα λύνουν και οι δύο εφαρμογές</h2>
+
+<p>Το macOS εξακολουθεί να μην έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows έχει ένα εδώ και χρόνια — κάντε δεξί κλικ στο εικονίδιο του ηχείου, ανοίξτε το Volume Mixer και κάθε εφαρμογή αποκτά το δικό της ρυθμιστικό. Σε ένα Mac, λαμβάνετε ακριβώς ένα ρυθμιστικό έντασης συστήματος για τα πάντα: τη μουσική σας, μια βιντεοκλήση, το YouTube, τις ειδοποιήσεις και ένα παιχνίδι, τα μοιράζονται όλα. Εάν η κλήση σας είναι πολύ αθόρυβη και το Spotify είναι πολύ δυνατό, η μόνη σας "διόρθωση" είναι η πλήρης σίγαση του Spotify.</p>
+
+<p>Τόσο το FineTune όσο και το SoundDial υπάρχουν για να καλύψουν αυτό το κενό. Δίνουν σε κάθε εφαρμογή που εκτελείται το δικό της έλεγχο έντασης, ώστε να μπορείτε, ας πούμε, να διατηρείτε μια σύσκεψη στο 100% ενώ μειώνετε τη μουσική υπόκρουση στο 20% — χωρίς να αγγίζετε το κύριο ρυθμιστικό.</p>
+
+<h2>Αυτό που κάνει σωστά το FineTune</h2>
+
+<p>Το FineTune είναι μια νεότερη, δωρεάν εφαρμογή ανοιχτού κώδικα στο πνεύμα του SoundSource. Ας είμαστε δίκαιοι για τα δυνατά του σημεία, γιατί είναι αληθινά:</p>
+
+<ul>
+  <li><strong>Δεν κοστίζει τίποτα.</strong> Χωρίς άδεια, χωρίς δοκιμή, χωρίς αναβάθμιση.</li>
+  <li><strong>Η πηγή είναι ανοιχτή.</strong> Μπορείτε να διαβάσετε τι ακριβώς κάνει, να το ελέγξετε για απόρρητο και — αν γνωρίζετε το Swift — να το τροποποιήσετε ή να το διαχωρίσετε.</li>
+  <li><strong>Οδηγείται από την κοινότητα.</strong> Τα σφάλματα μπορούν να διορθωθούν από οποιονδήποτε και ο κώδικας ζει περισσότερο από οποιαδήποτε εταιρεία.</li>
+  <li><strong>Καλύπτει τη βασική ανάγκη.</strong> Ανεξάρτητος όγκος ανά εφαρμογή, η οποία είναι η δυνατότητα που πραγματικά αναζητά το 90% των ανθρώπων.</li>
+</ul>
+
+<p>Εάν η μόνη σας απαίτηση είναι "επιτρέψτε μου να απενεργοποιήσω μία εφαρμογή χωρίς να απορρίψω τα πάντα" και αισθάνεστε άνετα με το λογισμικό που δεν συνοδεύεται από επίσημο γραφείο υποστήριξης, το FineTune είναι μια νόμιμη απάντηση. Το να το προτείνουμε εδώ δεν αποτελεί παραχώρηση — είναι ειλικρινές.</p>
+
+<h2>Οι ειλικρινείς ανταλλαγές της διαδρομής DIY</h2>
+
+<p>Το δωρεάν και ανοιχτού κώδικα συνεπάγεται πραγματικό κόστος που δεν εμφανίζεται σε μια ετικέτα τιμής. Αυτά δεν είναι χτυπήματα στο FineTune συγκεκριμένα — είναι η φύση της προσέγγισης:</p>
+
+<ul>
+  <li><strong>Η εγκατάσταση είναι χειροκίνητη.</strong> Τα εργαλεία ήχου ανοιχτού κώδικα συνήθως διανέμονται ως έκδοση λήψης ή τύπος Homebrew, όχι μέσω του App Store. Κάνετε εγκατάσταση εκτός της κριτικής της Apple και είστε έτοιμοι να το κρατήσετε ενημερωμένο.</li>
+  <li><strong>Η παρακολούθηση ήχου ανά εφαρμογή είναι από τη φύση της εύθραυστη.</strong> Η δρομολόγηση του ήχου μιας άλλης εφαρμογής είναι εργασία σε βάθος συστήματος. Όταν η Apple αποστέλλει μια ενημέρωση macOS που αλλάζει τη στοίβα ήχου, αυτά τα εργαλεία μπορεί να χαλάσουν μέχρι να τα διορθώσει κάποιος. Με ένα εθελοντικό έργο, «κάποιος» μπορεί να είναι απασχολημένος εκείνο το μήνα.</li>
+  <li><strong>Η υποστήριξη είναι η καλύτερη προσπάθεια.</strong> Εάν κάτι χαλάσει, η προσφυγή σας είναι ένα ζήτημα GitHub και μια αναμονή. Δεν υπάρχει εγγυημένη απάντηση και κανείς δεν είναι υποχρεωμένος να το διορθώσει.</li>
+  <li><strong>Το εύρος χαρακτηριστικών είναι ό,τι αποστέλλουν οι συντηρητές.</strong> Ο έλεγχος της έντασης του πυρήνα πιθανότατα καλύπτεται. τα πρόσθετα εξαρτώνται εξ ολοκλήρου από τον χρόνο του συντελεστή.</li>
+</ul>
+
+<blockquote>Το ειλικρινές πλαίσιο: Το FineTune ανταλλάσσει χρήματα για την ευθύνη συντήρησης. Εξοικονομείτε 14,99 € και αναλαμβάνετε τον κίνδυνο μια ενημέρωση λειτουργικού συστήματος να την αφήσει σπασμένη μέχρι να φτάσει η κοινότητα.</blockquote>
+
+<h2>Όπου το SoundDial είναι διαφορετικό</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> παίρνει το αντίθετο εμπόριο. Πληρώνετε μία φορά και σε αντάλλαγμα λαμβάνετε ένα προϊόν App Store με έναν προμηθευτή πίσω από αυτό και ένα ευρύτερο σύνολο λειτουργιών που βασίζεται στον όγκο ανά εφαρμογή:</p>
+
+<ul>
+  <li><strong>Ένταση έντασης ανά εφαρμογή και σίγαση</strong> — η κοινόχρηστη γραμμή βάσης παραδίδουν και οι δύο εφαρμογές.</li>
+  <li><strong>ΕΝΙΣΧΥΣΗ όγκου ανά εφαρμογή</strong> — ωθήστε μια πολύ ήσυχη εφαρμογή πάνω από το 100%. Χρήσιμο για εφαρμογές με αδύναμη έξοδο ήχου όπου η απόρριψη άλλων δεν είναι αρκετή.</li>
+  <li><strong>Προφίλ τόμου</strong> — αποθηκεύστε ολόκληρες μίξεις ("Συνάντηση", "Εστίαση", "Παιχνίδια") και πραγματοποιήστε εναλλαγή με ένα κλικ αντί να επαναφέρετε τα ρυθμιστικά κάθε φορά.</li>
+  <li><strong>Αυτόματη πάπια</strong> — χαμηλώνει αυτόματα τις εφαρμογές στο παρασκήνιο όταν μιλάτε ή όταν μια επιλεγμένη εφαρμογή γίνεται ενεργή, επομένως οι κλήσεις διακόπτονται χωρίς χειροκίνητο παιχνιδάκι.</li>
+  <li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων εξόδων από τη γραμμή μενού.</li>
+</ul>
+
+<p>Εξίσου σημαντικό είναι <em>πώς</em> αποστέλλεται. Το SoundDial είναι sandbox και διανέμεται μέσω του Mac App Store — χωρίς ξεχωριστό DMG, χωρίς προγράμματα οδήγησης πυρήνα, χωρίς εγκατάσταση προγράμματος οδήγησης ήχου. Οι ενημερώσεις γίνονται μέσω του App Store όπως κάθε άλλη εφαρμογή και υπάρχει ένας πραγματικός προγραμματιστής που στέλνει email όταν κάτι δεν πάει καλά. Αυτή είναι η συγκεκριμένη αξία των 14,99 €: όχι μόνο περισσότερες δυνατότητες, αλλά κάποιος υπεύθυνος για τη συνέχισή τους να λειτουργούν στις εκδόσεις macOS.</p>
+
+<h2>Μια ειλικρινής προειδοποίηση που ισχύει και για τα δύο</h2>
+
+<p>Καμία εφαρμογή τρίτου κατασκευαστή δεν μπορεί να μετατρέψει το σύστημα ήχου του macOS σε Windows' Volume Mixer, επειδή η Apple δεν εκθέτει ένα καθαρό δημόσιο API για ήχο ανά εφαρμογή. Κάθε εργαλείο αυτής της κατηγορίας — δωρεάν ή επί πληρωμή, ανοιχτό ή κλειστό — λειτουργεί γύρω από αυτόν τον περιορισμό χρησιμοποιώντας τεχνικές ήχου σε επίπεδο συστήματος. Αυτό σημαίνει ότι τόσο το FineTune όσο και το SoundDial μπορούν να επηρεαστούν από σημαντικές αλλαγές ήχου macOS. Η διαφορά είναι ποιος είναι υπεύθυνος για τη διόρθωση μετά: μια εθελοντική κοινότητα ή ένας επί πληρωμή πωλητής του οποίου το προϊόν εξαρτάται από αυτό.</p>
+
+<h2>Ποιο να διαλέξεις;</h2>
+
+<ul>
+  <li><strong>Επιλέξτε FineTune εάν</strong> θέλετε μηδενικό κόστος, αξία διαφάνειας ανοιχτού κώδικα, χρειάζεστε μόνο βασικό όγκο ανά εφαρμογή και έχετε άνετη εγκατάσταση εκτός του App Store και αυτοϋποστήριξη όταν τα πράγματα χαλάνε.</li>
+  <li><strong>Επιλέξτε SoundDial εάν</strong> θέλετε μια εγκατάσταση App Store με ένα κλικ, πρόσθετα, όπως boost, προφίλ και αυτόματη απομάκρυνση, καθώς και τη διαβεβαίωση ενημερώσεων και υποστήριξης από έναν προμηθευτή με skin στο παιχνίδι.</li>
+</ul>
+
+<p>Ισχύουν και τα δύο. Πραγματικά εξαρτάται από το αν προτιμάτε να ξοδέψετε χρήματα ή να ξοδέψετε την προσοχή σας. Εάν προτιμάτε να αγοράσετε μια υποστηριζόμενη εφαρμογή sandbox και να μην τη σκεφτείτε ποτέ ξανά, <a href="https://apps.apple.com/app/id6772792641">αποκτήστε SoundDial στο Mac App Store</a> για μία φορά 14,99 € — χωρίς συνδρομή, χωρίς προγράμματα οδήγησης, χωρίς DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Είναι αρκετός ο δωρεάν μίξερ όγκου Mac;",
+    description: "Μια δίκαιη συνάντηση μεταξύ της δωρεάν εφαρμογής Background Music και της επί πληρωμή SoundDial. Πού λειτουργεί η δωρεάν προσέγγιση εικονικού προγράμματος οδήγησης, πού χαλάει και όταν αξίζει έναν εγγενή μίκτη 14,99 €.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Το Background Music είναι δωρεάν και πραγματικά καλό στα βασικά: δίνει σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης και μπορεί να κάνει αυτόματη παύση της μουσικής όταν παίζει μια άλλη εφαρμογή. Εάν αυτό είναι το μόνο που χρειάζεστε, χρησιμοποιήστε το. Αλλά βασίζεται σε ένα εικονικό πρόγραμμα οδήγησης ήχου που μπορεί να σπάσει μετά από ενημερώσεις του macOS και στερείται ενίσχυσης ανά εφαρμογή, προφίλ και εναλλαγής εξόδου. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ανταλλάσσει χρήματα για μια εναλλακτική που υποστηρίζεται χωρίς οδηγό, με sandbox.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: Είναι αρκετός ο δωρεάν μίξερ έντασης Mac;" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Πρώτον, η ειλικρινής αλήθεια για το macOS</h2>
+<p>Το macOS δεν έχει ενσωματωμένο μίκτη έντασης ανά εφαρμογή. Το Windows έχει ένα για πάνω από μια δεκαετία στο Volume Mixer του, αλλά στο Mac το ρυθμιστικό συστήματος μετακινεί τα πάντα ταυτόχρονα. Δεν υπάρχει API που να υποστηρίζεται από την Apple που να επιτρέπει σε μια εφαρμογή τρίτου κατασκευαστή να παρεμποδίζει και να εξισορροπεί εκ νέου τις μεμονωμένες ροές εφαρμογών. Αυτό το μεμονωμένο κενό είναι ο λόγος που υπάρχουν εργαλεία όπως το Background Music και το SoundDial, και είναι η βασική αιτία των περισσότερων από τις παρακάτω συμβιβασμούς.</p>
+
+<h2>Αυτό που κάνει καλά το Background Music</h2>
+<p>Το Background Music είναι μια εφαρμογή γραμμής μενού ανοιχτού κώδικα που υπάρχει εδώ και χρόνια και έχει πιστούς ακόλουθους για καλό λόγο. Σου δίνει:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — το βασικό χαρακτηριστικό. Χαμηλώστε το Spotify ενώ κρατάτε μια κλήση δυνατά.</li>
+<li><strong>Αυτόματη παύση</strong> — μπορεί να διακόψει το πρόγραμμα αναπαραγωγής μουσικής σας όταν ο ήχος ξεκινά αλλού, κάτι που είναι μια ωραία πινελιά για συσκέψεις.</li>
+<li><strong>Ένας όγκος συσκευής που σας ακολουθεί</strong> και μια απλή διεπαφή χωρίς νόημα.</li>
+<li><strong>Μηδενικό κόστος</strong> — είναι δωρεάν και ο κωδικός είναι δημόσιος.</li>
+</ul>
+<p>Για πολλούς ανθρώπους αυτό είναι αρκετό. Εάν ολόκληρη η λίστα επιθυμιών σας είναι "κάντε μια θορυβώδη εφαρμογή πιο ήσυχη χωρίς να αγγίζετε τις υπόλοιπες", το Background Music το καλύπτει και δεν πρέπει να πληρώσετε για κάτι που δεν χρειάζεστε. Το να είσαι δίκαιος εδώ έχει σημασία: αυτό είναι ένα νόμιμα χρήσιμο εργαλείο.</p>
+
+<h2>Εκεί που η ελεύθερη προσέγγιση δείχνει τις ραφές της</h2>
+<p>Η σύλληψη είναι <em>πώς</em> Το Background Music επιτυγχάνει όγκο ανά εφαρμογή. Επειδή το macOS δεν παρέχει επίσημη διαδρομή, εγκαθιστά ένα εικονικό πρόγραμμα οδήγησης ήχου (μια τροποποιημένη έκδοση της παλιάς προσέγγισης Soundflower) που δρομολογεί τον ήχο του συστήματός σας μέσα από τον εαυτό του. Αυτή η αρχιτεκτονική είναι έξυπνη, αλλά έχει πραγματικό κόστος:</p>
+<ul>
+<li><strong>Χαλάει μετά από ενημερώσεις macOS.</strong> Τα προγράμματα οδήγησης εικονικού ήχου βρίσκονται βαθιά στο σύστημα και οι σημαντικές εκδόσεις macOS τα έχουν απενεργοποιήσει ή αποσταθεροποιήσει ιστορικά. Οι χρήστες αναφέρουν συνήθως σιωπή, παραμόρφωση ή ανάγκη επανεγκατάστασης μετά την αναβάθμιση. Όταν σπάει, συχνά είσαι μόνος σου.</li>
+<li><strong>Η εγκατάσταση είναι πιο βαριά.</strong> Προσθέτετε μια συσκευή ήχου δίπλα στον πυρήνα στο Mac, όχι απλώς μια εφαρμογή. Η καθαρή απεγκατάσταση μπορεί να είναι δύσκολη.</li>
+<li><strong>Γίνεται η προεπιλεγμένη συσκευή εξόδου σας.</strong> Επειδή τα πάντα δρομολογούνται μέσω της εικονικής συσκευής, ορισμένες εφαρμογές ήχου, διασκέψεων ή παιχνιδιών μπορεί να συμπεριφέρονται περίεργα και η αλλαγή της πραγματικής εξόδου σας είναι ένα επιπλέον βήμα.</li>
+<li><strong>Η ανάπτυξη είναι με κοινοτικό ρυθμό.</strong> Δεν υπάρχει γραφείο υποστήριξης. Οι διορθώσεις φτάνουν όταν ένας εθελοντής έχει χρόνο, κάτι που για ένα ηχητικό εργαλείο που μπορεί ξαφνικά να σιωπήσει είναι ένας σημαντικός κίνδυνος.</li>
+</ul>
+<p>Τίποτα από αυτά δεν κάνει το Background Music κακό. Το καθιστά ένα δωρεάν εργαλείο με τους συμβιβασμούς ενός δωρεάν εργαλείου.</p>
+
+<h2>Τι πληρώνετε πραγματικά με το SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια εφαρμογή Mac App Store, η οποία διαμορφώνει αυτό που είναι. Επειδή οι εφαρμογές App Store είναι sandbox και δεν μπορούν να στείλουν το είδος των εικονικών προγραμμάτων οδήγησης χαμηλού επιπέδου που χρησιμοποιεί το Background Music, το SoundDial είναι κατασκευασμένο για να εκτελείται χωρίς εγκατάσταση ξεχωριστής συσκευής ήχου ή DMG. Αυτό σημαίνει:</p>
+<ul>
+<li><strong>Χωρίς ιδιορρυθμίες εικονικού προγράμματος οδήγησης.</strong> Δεν υπάρχει καμία επιπλέον συσκευή εξόδου που να παρασύρει την αλυσίδα ήχου σας και τίποτα για επανεγκατάσταση όταν αλλάξει το σύστημα.</li>
+<li><strong>Επιβιώνει από τις ενημερώσεις macOS πολύ πιο χαριτωμένα.</strong> Η διανομή App Store και το sandboxing σημαίνουν ότι είναι χτισμένο σε υποστηριζόμενες διαδρομές και ενημερώνεται μέσω του καταστήματος, επομένως μια αναβάθμιση λειτουργικού συστήματος είναι πολύ λιγότερο πιθανό να σας αφήσει σιωπηλούς.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή.</strong> Αυτή είναι μια πραγματική διαφορά χαρακτηριστικών: Το SoundDial μπορεί να προωθήσει μια εφαρμογή <em>παραπάνω</em> 100% για αθόρυβες πηγές — ένα podcast ηχογραφημένο πολύ χαμηλά, μια βουβή βιντεοκλήση. Το Background Music εξασθενεί μόνο.</li>
+<li><strong>Προφίλ τόμου.</strong> Αποθηκεύστε ένα σύνολο επιπέδων ανά εφαρμογή ("Συνάντηση", "Μουσική", "Παιχνίδια") και πραγματοποιήστε εναλλαγή με ένα κλικ αντί να σύρετε ρυθμιστικά κάθε φορά.</li>
+<li><strong>Αυτόματη πάπια.</strong> Αυτόματη πτώση της έντασης του ήχου άλλων εφαρμογών κατά την αναπαραγωγή μιας επιλεγμένης πηγής — μια πιο διαμορφώσιμη άποψη για την ιδέα της αυτόματης παύσης.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> ψήνεται στη γραμμή μενού, συν τη σίγαση ανά εφαρμογή.</li>
+<li><strong>Πραγματική υποστήριξη.</strong> Είναι ένα προϊόν επί πληρωμή με κάποιον υπόλογο όταν κάτι πάει στραβά.</li>
+</ul>
+
+<h2>Η ειλικρινής απόφαση</h2>
+<blockquote>Εάν θέλετε δωρεάν και χρειάζεστε μόνο βασικό όγκο ανά εφαρμογή και αντιμετωπίζετε άνετα προβλήματα μετά από ενημερώσεις macOS, το Background Music είναι μια σταθερή επιλογή. Αν θέλετε boost, προφίλ, ducking, output switching, χωρίς ευθραυστότητα εικονικού προγράμματος οδήγησης και κάποιον να στείλει email όταν χαλάσει, το SoundDial αξίζει 14,99 €.</blockquote>
+<p>Λίγα τσιμεντένια τάι μπέρκα. Εάν ασχολείστε τακτικά με πολύ αθόρυβες πηγές, η ενίσχυση από μόνη της δικαιολογεί την τιμή — το Background Music απλά δεν μπορεί να κάνει τον ήχο πιο δυνατό από την πηγή. Αν φοβάστε το ετήσιο στοίχημα "θα επιβιώσει ο ήχος μου από την ενημέρωση", η εφαρμογή sandboxed store αφαιρεί αυτό το άγχος. Αν σας αρέσουν οι σκηνές που στήνουν και ξεχνούν, τα προφίλ εξοικονομούν πραγματική τριβή. Και είναι εφάπαξ 14,99 €, όχι συνδρομή, επομένως η σύγκριση είναι μία μόνο αγορά έναντι του χρόνου που αφιερώσατε για τη διατήρηση ενός δωρεάν προγράμματος οδήγησης.</p>
+<p>Αντίθετα, αν είστε τεχνίτης που του αρέσει ο ανοιχτός κώδικας, θέλει να διαβάσει τον κώδικα και ως επί το πλείστον απλώς απορρίψει μια εφαρμογή - εξοικονομήστε τα χρήματά σας. Και τα δύο εργαλεία λύνουν το ίδιο βασικό πρόβλημα. διαφέρουν ως προς τη στιβαρότητα, το βάθος των χαρακτηριστικών και το ποιος σας πιάνει όταν αλλάζει το macOS από κάτω τους.</p>
+
+<p>Θέλετε όγκο ανά εφαρμογή χωρίς τον τζόγο εικονικού προγράμματος οδήγησης; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> — ένα εφάπαξ 14,99 €, με sandbox, χωρίς προγράμματα οδήγησης, με ενσωματωμένη ενίσχυση, προφίλ και αυτόματο παπάκι.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "Αξίζει το SoundSource 39 $; Μια φθηνότερη εναλλακτική λύση μίας χρήσης Mac",
+    description: "Το SoundSource είναι ένα ισχυρό εργαλείο ήχου Mac στα ~39$, αλλά είναι υπερβολικό αν χρειάζεστε μόνο ένταση και ενίσχυση ανά εφαρμογή. Ακολουθεί μια ειλικρινής σύγκριση και μια εφάπαξ εναλλακτική λύση 14,99 €.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το SoundSource αξίζει τον κόπο, αν χρειάζεστε την πλήρη εργαλειοθήκη του: ένταση ανά εφαρμογή, EQ 10 ζωνών ανά εφαρμογή, δρομολόγηση ήχου μεταξύ συσκευών και εφέ σε όλο το σύστημα. Αλλά με περίπου 39 $ είναι υπερβολικό αν θέλετε κυρίως τον όγκο ανά εφαρμογή, τη σίγαση ανά εφαρμογή και την ενίσχυση του όγκου. Για αυτή τη στενότερη δουλειά, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> κοστίζει 14,99 € μία φορά.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Αξίζει το SoundSource 39 $; Μια φθηνότερη εναλλακτική λύση μίας χρήσης Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Τι κάνει στην πραγματικότητα το SoundSource</h2>
+<p>Το SoundSource του Rogue Amoeba είναι ένα πραγματικά εξαιρετικό λογισμικό και είναι σημαντικό να είμαστε δίκαιοι ως προς αυτό. Δεν είναι απλώς ένα μίξερ όγκου. Σου δίνει:</p>
+<ul>
+<li><strong>Έλεγχος έντασης ανά εφαρμογή</strong> από τη γραμμή μενού, το χαρακτηριστικό για το οποίο έρχονται οι περισσότεροι.</li>
+<li><strong>Ένας πλήρης ισοσταθμιστής 10 ζωνών</strong> μπορείτε να εφαρμόσετε ανά εφαρμογή ή σε όλο το σύστημα, καθώς και άλλα εφέ ήχου (μέσω των προσθηκών της μονάδας ήχου).</li>
+<li><strong>Δρομολόγηση εξόδου/εισόδου</strong>, συμπεριλαμβανομένης της αποστολής μιας μεμονωμένης εφαρμογής σε διαφορετική συσκευή εξόδου από το υπόλοιπο σύστημα.</li>
+<li><strong>Γρήγορη εναλλαγή συσκευής</strong> και προεπιλογές EQ ειδικά για ακουστικά.</li>
+</ul>
+<p>Αν είστε podcaster, streamer ή σπασίκλα ήχου που θέλει να συντονίσει το EQ στα ακουστικά σας, να ανακατευθύνει τον ήχο μιας εφαρμογής σε ένα ξεχωριστό ηχείο ή να στοιβάξει εφέ μονάδας ήχου, το SoundSource κερδίζει την τιμή του. Τίποτα εδώ δεν είναι ένα χτύπημα σε αυτό.</p>
+
+<h2>Η ερώτηση για την τιμή</h2>
+<p>Το SoundSource είναι μια πληρωμένη, εφάπαξ άδεια περίπου 39 $ (η τιμή ποικίλλει ανάλογα με την έκδοση και τις προσφορές). Δεν είναι μια επαναλαμβανόμενη συνδρομή με την έννοια του Netflix, αλλά ακολουθεί το κλασικό μοτίβο εφαρμογών επί πληρωμή: αγοράζετε μια κύρια έκδοση και οι μελλοντικές σημαντικές αναβαθμίσεις είναι συνήθως αναβαθμίσεις επί πληρωμή και όχι δωρεάν για πάντα. Για αρκετά χρόνια, αυτό είναι κάτι περισσότερο από μία μόνο αγορά. Για πολλούς χρήστες Mac, η ειλικρινής ερώτηση είναι: πληρώνω 39 $ για μια σουίτα δρομολόγησης και EQ όταν το μόνο που αγγίζω πραγματικά είναι τα ρυθμιστικά έντασης ανά εφαρμογή;</p>
+
+<blockquote>Εάν έχετε ανοίξει το SoundSource και χρησιμοποιήσατε μόνο τα ρυθμιστικά έντασης και τα κουμπιά σίγασης, πληρώνετε για μια σουίτα για να χρησιμοποιήσετε ένα συρτάρι της.</blockquote>
+
+<h2>Γιατί υπάρχει καθόλου το πρόβλημα</h2>
+<p>Εδώ είναι η ειλικρινής αιτία: Το macOS δεν έχει ενσωματωμένο μίκτη όγκου ανά εφαρμογή. Το Windows είχε ένα εδώ και χρόνια, αλλά στο Mac, ο όγκος του συστήματος είναι όλα ή τίποτα. Δεν υπάρχει τρόπος που παρέχεται από την Apple για να διατηρείτε το Spotify αθόρυβο ενώ μια βιντεοκλήση παραμένει δυνατά ή να κάνετε σίγαση μιας εφαρμογής χωρίς να αγγίζετε οτιδήποτε άλλο. Αυτό το κενό είναι ακριβώς ο λόγος που εργαλεία όπως το SoundSource και <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> υπάρχουν. Είναι ένας πραγματικός περιορισμός του λειτουργικού συστήματος, όχι κάτι που καμία από τις δύο εφαρμογές επινόησε ένα πρόβλημα για να λύσει.</p>
+
+<h2>Όπου ταιριάζει μια ελαφρύτερη, φθηνότερη επιλογή</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι ένας μίκτης έντασης ήχου γραμμής μενού ανά εφαρμογή που έχει σχεδιαστεί για την κοινή θήκη και όχι για την θήκη υπέρ ήχου. Καλύπτει:</p>
+<ul>
+<li><strong>Ανεξάρτητος όγκος ανά εφαρμογή</strong> — αφήστε τη μουσική σας όσο μια σύσκεψη παραμένει σε πλήρες επίπεδο.</li>
+<li><strong>Σίγαση ανά εφαρμογή</strong> — Σίγαση μιας εφαρμογής χωρίς σίγαση του Mac.</li>
+<li><strong>Αύξηση όγκου ανά εφαρμογή</strong> — ωθήστε μια αθόρυβη εφαρμογή πάνω από το κανονικό της 100% όταν η πηγή είναι πολύ απαλή.</li>
+<li><strong>Προφίλ τόμου</strong> — αποθηκεύστε ένα σύνολο επιπέδων ανά εφαρμογή (π.χ. διάταξη "εστίαση" ή "κλήση") και εναλλαγή με ένα κλικ.</li>
+<li><strong>Αυτόματη πάπια</strong> — χαμηλώστε αυτόματα άλλες εφαρμογές όταν ξεκινάτε να μιλάτε ή όταν παίζει μια επιλεγμένη εφαρμογή.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου</strong> — μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών από τη γραμμή μενού.</li>
+</ul>
+<p>Είναι <strong>14,99 € εφάπαξ</strong>, πωλείται μέσω του Mac App Store, επομένως είναι sandbox και δεν υπάρχει ξεχωριστό DMG, καμία επέκταση πυρήνα και πρόγραμμα οδήγησης ήχου για εγκατάσταση. Το κατεβάζετε όπως κάθε εφαρμογή App Store και ενημερώνεται μέσω του καταστήματος.</p>
+
+<h2>Ειλικρινής σύγκριση</h2>
+<p>Να είστε ξεκάθαροι σχετικά με την ανταλλαγή. Το SoundSource κάνει περισσότερα από το SoundDial και αν κάποιο από τα παρακάτω έχει σημασία για εσάς, το SoundSource είναι η καλύτερη αγορά:</p>
+<ul>
+<li>Θέλετε μια πραγματική εφαρμογή ανά εφαρμογή ή σύστημα <strong>ισοσταθμιστής</strong> και εφέ της μονάδας ήχου.</li>
+<li>Πρέπει να <strong>δρομολογήστε μια μεμονωμένη εφαρμογή σε διαφορετική συσκευή εξόδου</strong> από όλα τα άλλα.</li>
+<li>Βασίζεσαι σε <strong>προεπιλογές EQ ειδικά για ακουστικά</strong> και λεπτόκοκκη επεξεργασία ήχου.</li>
+</ul>
+<p>Το SoundDial δεν κάνει EQ ή δρομολόγηση συσκευής ανά εφαρμογή. Είναι εσκεμμένα πιο στενό. Αυτό που σας δίνει σε αντάλλαγμα είναι μια χαμηλότερη τιμή, ένα πιο ελαφρύ αποτύπωμα και μια εστιασμένη διεπαφή γραμμής μενού για αυτό που ήθελαν οι περισσότεροι: να διατηρείτε κάθε εφαρμογή στο επίπεδο που επιλέγετε, με ενίσχυση και προφίλ στην κορυφή.</p>
+
+<h2>Λοιπόν, αξίζει το SoundSource;</h2>
+<p>Ναι, αν θα χρησιμοποιήσετε το EQ και τη δρομολόγηση. Είναι ώριμο, καλά υποστηριζόμενο λογισμικό από έναν αξιοσέβαστο προγραμματιστή και η τιμή αντικατοπτρίζει την πραγματική ικανότητα. Αλλά το «αξίζει» εξαρτάται από το τι θα αγγίξετε. Εάν ανοίξετε την εφαρμογή και προσαρμόσετε μόνο τα ρυθμιστικά έντασης ήχου, θέσετε σε σίγαση μια εφαρμογή ή επιθυμείτε μια ήσυχη εφαρμογή να είναι πιο δυνατή, πληρώνετε χρήματα από τη σουίτα premium για τις βασικές ανάγκες του μίκτη. Σε αυτήν την περίπτωση, ένα εφάπαξ εργαλείο 14,99 € είναι η πιο λογική εφαρμογή και μπορείτε πάντα να μεταβείτε στο SoundSource αργότερα, εάν οι ανάγκες σας αυξηθούν σε EQ και δρομολόγηση.</p>
+
+<p>Εάν επιθυμείτε μόνο την ένταση ήχου, την ενίσχυση, τη σίγαση, τα προφίλ και την αυτόματη αφαίρεση ανά εφαρμογή, <a href="https://apps.apple.com/app/id6772792641">αποκτήστε SoundDial στο Mac App Store</a> — €14,99 μία φορά, χωρίς συνδρομή, χωρίς προγράμματα οδήγησης.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Πολύ δυνατά στο Mac; Απενεργοποιήστε ένα πρόγραμμα περιήγησης χωρίς σίγαση των πάντων",
+    description: "Το Chrome ανατινάζει πιο δυνατά από τις άλλες εφαρμογές σας στο Mac; Μάθετε τις ενσωματωμένες επιδιορθώσεις (σίγαση ανά καρτέλα, ρυθμίσεις ήχου ιστότοπου) και πώς να ορίσετε μια πραγματική ένταση ήχου ανά εφαρμογή για το Chrome, ώστε να παραμένει πιο αθόρυβο από οτιδήποτε άλλο.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένη ένταση ήχου ανά εφαρμογή, επομένως δεν μπορείτε να απενεργοποιήσετε εγγενώς το Chrome ενώ αφήνετε άλλες εφαρμογές σε πλήρη ένταση. Οι πιο γρήγορες δωρεάν επιδιορθώσεις σας είναι η σίγαση των θορυβωδών καρτελών, η μείωση της έντασης ήχου μέσα σε κάθε πρόγραμμα αναπαραγωγής βίντεο ή ο αποκλεισμός του ήχου ανά τοποθεσία στις ρυθμίσεις του Chrome. Για ένα πραγματικό, επίμονο επίπεδο έντασης μόνο Chrome, χρειάζεστε έναν μίκτη ανά εφαρμογή.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Πολύ δυνατά στο Mac; Απενεργοποιήστε ένα πρόγραμμα περιήγησης χωρίς σίγαση των πάντων" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το Chrome ακούγεται πιο δυνατά από οτιδήποτε άλλο</h2>
+<p>Το Chrome δεν είναι απαραίτητα πιο «δυνατό» από τη σχεδίασή του — είναι ότι το Chrome δρομολογεί ήχο από πολλές ανεξάρτητες πηγές: YouTube, διαφημίσεις αυτόματης αναπαραγωγής, βιντεοκλήσεις, καρτέλες μουσικής παρασκηνίου και εφαρμογές ιστού που η καθεμία έχει τη δική της ένταση. Ορισμένοι ιστότοποι κατακτώνται πολύ καλά, οι διαφημίσεις είναι διαβόητες δυνατές και το Chrome αναπαράγει όλους στο πλήρες επίπεδο εξόδου του συστήματός σας. Εν τω μεταξύ, η μουσική σας εφαρμογή ή μια κλήση μπορεί να είναι πιο αθόρυβη, οπότε το Chrome κυριαρχεί στη μίξη.</p>
+<p>Στο Windows, θα ανοίξατε απλώς το Volume Mixer και θα σύρατε το ρυθμιστικό Chrome προς τα κάτω. Το macOS απλά δεν περιλαμβάνει αυτή τη δυνατότητα. Το πλήκτρο έντασης του συστήματος ελέγχει τα πάντα ταυτόχρονα, επομένως η απενεργοποίηση του Chrome απενεργοποιεί επίσης τη μουσική, τις ειδοποιήσεις και τις κλήσεις σας. Αυτός είναι ο βασικός περιορισμός — και είναι ένα κενό στο λειτουργικό σύστημα, όχι κάτι που κάνετε λάθος.</p>
+
+<h2>Ενσωματωμένες επιδιορθώσεις που δεν κοστίζουν τίποτα</h2>
+<p>Πριν εγκαταστήσετε οτιδήποτε, δοκιμάστε αυτά. Δεν θα σας δώσουν ούτε έναν επιλογέα έντασης ήχου Chrome, αλλά λύνουν τα περισσότερα προβλήματα "μίας δυνατής καρτέλας".</p>
+<ul>
+<li><strong>Σίγαση μιας θορυβώδους καρτέλας.</strong> Κάντε δεξί κλικ στην καρτέλα και επιλέξτε "Σίγαση ιστότοπου" ή κάντε κλικ στο εικονίδιο του μικρού ηχείου που εμφανίζεται σε μια καρτέλα αναπαραγωγής ήχου. Αυτό σβήνει εντελώς την καρτέλα χωρίς να αγγίζει το υπόλοιπο Chrome.</li>
+<li><strong>Χαμηλώστε την ένταση στο εσωτερικό της συσκευής αναπαραγωγής.</strong> Το πιο αξιόπιστο κόλπο: σύρετε το ρυθμιστικό έντασης προς τα κάτω μέσα στο YouTube, το Netflix ή οτιδήποτε άλλο παίζει. Τα προγράμματα αναπαραγωγής ιστού θυμούνται το δικό τους επίπεδο ανά ιστότοπο, επομένως ένα πιο ήσυχο YouTube παραμένει ήσυχο την επόμενη φορά.</li>
+<li><strong>Αποκλεισμός ήχου ανά τοποθεσία.</strong> Πηγαίνετε στο <em>chrome://settings/content/sound</em>. Μπορείτε να αλλάξετε τοποθεσίες μεταξύ "επιτρεπόμενο" και "σίγαση" και να προσθέσετε συγκεκριμένους τομείς σε μια λίστα σίγασης. Ιδανικό για μόνιμη σίγαση ιστότοπων που αναπαράγουν αυτόματα.</li>
+<li><strong>Σκοτώστε τις διαφημίσεις αυτόματης αναπαραγωγής.</strong> Ο ήχος διαφήμισης είναι συχνά ο πραγματικός ένοχος. Ο αποκλεισμός περιεχομένου ή η σίγαση της καρτέλας μέχρι να είστε έτοιμοι να παρακολουθήσετε αφαιρεί το μεγαλύτερο μέρος της έντασης της έκπληξης.</li>
+</ul>
+<blockquote>Αυτά είναι πραγματικά χρήσιμα και δωρεάν. Προσέξτε όμως τι δεν μπορούν να κάνουν: κάνουν σίγαση ή διαχειρίζονται μεμονωμένες καρτέλες. Κανένας από αυτούς δεν σε αφήνει να πεις "κρατήστε όλο το Chrome στο 40% ενώ η μουσική μου παραμένει στο 100%.</blockquote>
+
+<h2>Ο ειλικρινής περιορισμός: δεν υπάρχει όγκος ανά εφαρμογή στο macOS</h2>
+<p>Εάν ο πραγματικός σας στόχος είναι "Το Chrome θα πρέπει να είναι πάντα πιο αθόρυβο από τις άλλες εφαρμογές μου", τα ενσωματωμένα εργαλεία υπολείπονται. Η σίγαση ανά καρτέλα είναι όλα ή τίποτα. Τα ρυθμιστικά του προγράμματος αναπαραγωγής επαναφέρονται όταν ένας ιστότοπος δεν τα θυμάται και πρέπει να επαναλαμβάνεται συνεχώς. Και η ένταση του συστήματος μετακινεί τα πάντα μαζί.</p>
+<p>Αυτός είναι ένας πραγματικός περιορισμός macOS, όχι ένα σφάλμα που μπορείτε να ρυθμίσετε. Η Apple δεν έχει στείλει ποτέ μίκτη έντασης ήχου τύπου Windows. Ο μόνος τρόπος για να αποκτήσετε ένα μόνιμο, ανεξάρτητο επίπεδο έντασης για το Chrome συγκεκριμένα είναι μια εφαρμογή τρίτου κατασκευαστή που βρίσκεται ανάμεσα στις εφαρμογές σας και τη συσκευή εξόδου σας και εφαρμόζει κέρδος ανά εφαρμογή.</p>
+
+<h2>Ορίστε έναν πραγματικό όγκο ανά εφαρμογή για το Chrome</h2>
+<p>Ένα μίξερ μενού-μπαρ όπως <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> δίνει στο macOS τον έλεγχο έντασης ήχου ανά εφαρμογή που του λείπει. Παραθέτει κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή και δίνει σε καθεμία το δικό της ρυθμιστικό — ώστε να μπορείτε να κατεβάσετε το Chrome σε ένα άνετο επίπεδο και να αφήσετε το Spotify, τις κλήσεις σας και τους ήχους του συστήματος ακριβώς εκεί που βρίσκονται.</p>
+<p>Δείτε πώς θα δαμάζατε ένα δυνατό Chrome με αυτό:</p>
+<ul>
+<li>Ανοίξτε το μείκτη της γραμμής μενού και βρείτε το Chrome στη λίστα των ενεργών εφαρμογών.</li>
+<li>Σύρετε το ρυθμιστικό του Chrome προς τα κάτω, ας πούμε, στο 40 έως 50 τοις εκατό. Άλλες εφαρμογές παραμένουν ανέγγιχτες.</li>
+<li>Εάν υπάρχει και μια συγκεκριμένη εφαρμογή <em>ήσυχο</em> αντί — μια εφαρμογή κλήσης που ψιθυρίζει — χρησιμοποιήστε <a href="https://apps.apple.com/app/id6772792641">ενίσχυση όγκου ανά εφαρμογή</a> για να το ωθήσει πάνω από το 100 τοις εκατό, διατηρώντας παράλληλα το Chrome χαμηλό.</li>
+<li>Σίγασε το Chrome άμεσα με σίγαση ανά εφαρμογή όταν χρειάζεσαι σίγαση χωρίς να κλείνεις καρτέλες.</li>
+</ul>
+<p>Επειδή το επίπεδο είναι συνδεδεμένο με την εφαρμογή, κολλάει. Το Chrome παραμένει στην ένταση που έχετε επιλέξει στις καρτέλες, τους ιστότοπους και τις επανεκκινήσεις — χωρίς να σύρετε ξανά τα ρυθμιστικά του προγράμματος αναπαραγωγής κάθε φορά που ανοίγετε ένα νέο βίντεο.</p>
+
+<h2>Πηγαίνοντας παρακάτω: προφίλ, υποχώρηση και εναλλαγή εξόδου</h2>
+<p>Αφού έχετε τον έλεγχο ανά εφαρμογή, μερικά πρόσθετα το κάνουν να αξίζει να το κρατάτε. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> σας επιτρέπει να εξοικονομήσετε ένταση <strong>προφίλ</strong> — για παράδειγμα, ένα προφίλ «εστίασης» όπου το Chrome είναι ήσυχο και η μουσική είναι δυνατή, και ένα προφίλ «παρακολούθησης» όπου κυριαρχεί το Chrome — και εναλλαγή μεταξύ τους με ένα κλικ. Το Auto-ducking μπορεί να βυθίσει άλλες εφαρμογές αυτόματα όταν ξεκινά μια επιλεγμένη πηγή (εύχρηστο, ώστε μια κλήση να μην κρύβεται ποτέ κάτω από μια δυνατή καρτέλα προγράμματος περιήγησης). Και η γρήγορη εναλλαγή εξόδου σάς επιτρέπει να μεταβείτε μεταξύ ηχείων, ακουστικών και άλλων συσκευών χωρίς να κάνετε κατάδυση στις Ρυθμίσεις συστήματος.</p>
+<p>Είναι μια εφάπαξ αγορά 14,99 € στο Mac App Store — χωρίς συνδρομή, χωρίς προγράμματα οδήγησης για εγκατάσταση, χωρίς DMG ή επέκταση πυρήνα. Επειδή είναι ενσωματωμένο στο sandbox και διανέμεται μέσω του App Store, δεν απαιτεί το πρόχειρο πρόγραμμα οδήγησης ήχου να εγκαθιστά παλαιότερα εργαλεία μίκτη στα οποία βασίζονται.</p>
+
+<h2>Ποια διόρθωση πρέπει να χρησιμοποιήσετε;</h2>
+<p>Εάν έχετε μόνο μια αντιπαθητική καρτέλα πότε πότε, χρησιμοποιήστε την ενσωματωμένη σίγαση του Chrome και τις ρυθμίσεις ήχου τοποθεσίας — είναι δωρεάν και λειτουργούν. Εάν διαρκώς εύχεστε να απορρίψετε το Chrome, ενώ όλα τα άλλα μένουν στη θέση τους, αυτό είναι το ακριβές κενό που αφήνει ανοιχτό το macOS και ο μείκτης ανά εφαρμογή είναι η καθαρή λύση.</p>
+
+<p>Θέλετε το Chrome μόνιμα πιο αθόρυβο χωρίς σίγαση της μουσικής ή των κλήσεων σας; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και δώστε σε κάθε εφαρμογή το δικό της ρυθμιστικό έντασης.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "Η ειδοποίηση WhatsApp & Telegram ακούγεται πολύ δυνατά στο Mac; Απορρίψτε τους",
+    description: "Διορθώστε τους ήχους ειδοποιήσεων επιφάνειας εργασίας WhatsApp και Telegram που είναι πολύ δυνατοί στο Mac σας. Ξεκινήστε με τις ενσωματωμένες ρυθμίσεις κάθε εφαρμογής και, στη συνέχεια, χαμηλώστε ή απενεργοποιήστε ολόκληρη την εφαρμογή όταν το macOS δεν σας παρέχει έλεγχο ανά εφαρμογή.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Ξεκινήστε μέσα από κάθε εφαρμογή: Το WhatsApp και το Telegram σάς επιτρέπουν να κάνετε σίγαση ή να αλλάξετε τους ήχους ειδοποιήσεων στις δικές τους ρυθμίσεις, που είναι η πιο καθαρή λύση. Ωστόσο, το macOS δεν διαθέτει ρυθμιστικό έντασης ειδοποιήσεων ανά εφαρμογή, οπότε αν ο ήχος της εφαρμογής εξακολουθεί να είναι πολύ δυνατός, ο μόνος πραγματικός σας μοχλός είναι να χαμηλώσετε ή να σβήσετε τον ήχο ολόκληρης της εφαρμογής με ένα εργαλείο έντασης ήχου ανά εφαρμογή.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — WhatsApp &amp; Telegram Η ειδοποίηση ακούγεται πολύ δυνατά στο Mac; Απορρίψτε τους" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Αρχικά, χρησιμοποιήστε τις ρυθμίσεις ειδοποιήσεων της εφαρμογής</h2>
+
+<p>Τόσο το WhatsApp όσο και το Telegram αποστέλλουν τα δικά τους χειριστήρια ήχου και από αυτό πρέπει πάντα να ξεκινάτε. Είναι η πιο ακριβής επιδιόρθωση και δεν αγγίζει τίποτα άλλο στο Mac σας.</p>
+
+<p><strong>WhatsApp Επιτραπέζιος υπολογιστής:</strong> Ανοίξτε το WhatsApp, κάντε κλικ <em>Ρυθμίσεις</em> (το εικονίδιο με το γρανάζι), λοιπόν <em>Ειδοποιήσεις</em>. Μπορείτε να απενεργοποιήσετε <em>Ήχοι</em> εξ ολοκλήρου ενώ διατηρείτε banner ή απενεργοποιήστε τις προεπισκοπήσεις ειδοποιήσεων. Το WhatsApp δεν προσφέρει ρυθμιστικό έντασης, επομένως είναι ουσιαστικά ενεργοποιημένο ή απενεργοποιημένο για τον ίδιο τον ήχο.</p>
+
+<p><strong>Telegram Επιτραπέζιος υπολογιστής:</strong> Ανοίξτε <em>Ρυθμίσεις → Ειδοποιήσεις και Ήχοι</em>. Το Telegram είναι πιο ευέλικτο εδώ. Μπορείτε να απενεργοποιήσετε τον ήχο ειδοποίησης καθολικά, να θέσετε σε σίγαση μεμονωμένες συνομιλίες ή να ορίσετε προσαρμοσμένους (πιο ήσυχους) ήχους. Μπορείτε επίσης να θέσετε σε σίγαση μια μεμονωμένη θορυβώδη ομάδα ανοίγοντάς την και επιλέγοντας <em>Σίγαση</em>. Για τους περισσότερους ανθρώπους, η σίγαση των πιο δυνατών συνομιλιών διορθώνει το πρόβλημα χωρίς να σιωπά παντού.</p>
+
+<p>Εάν ο ήχος είναι καλός αλλά πολύ συχνός, απενεργοποιήστε τις συγκεκριμένες συνομιλίες ή τα κανάλια που ενεργοποιούνται πιο συχνά αντί να σκοτώνουν τον ήχο σε όλη την εφαρμογή. Αυτό διατηρεί ηχητικές σημαντικές ειδοποιήσεις.</p>
+
+<h2>Απενεργοποιήστε τους ήχους ειδοποιήσεων στις Ρυθμίσεις συστήματος macOS</h2>
+
+<p>Το macOS έχει ένα δεύτερο επίπεδο ελέγχου που παρακάμπτει την εφαρμογή σε ορισμένες περιπτώσεις. Πηγαίνετε στο <em>Ρυθμίσεις συστήματος → Ειδοποιήσεις</em>, επιλέξτε WhatsApp ή Telegram στη λίστα και απενεργοποιήστε <em>Αναπαραγωγή ήχου για ειδοποιήσεις</em>. Αυτό θέτει σε σίγαση το ηχητικό σήμα ειδοποίησης για αυτήν την εφαρμογή, ενώ εξακολουθεί να εμφανίζει πανό.</p>
+
+<p>Αυτή είναι μια πραγματικά καλή λύση εάν θέλετε η εφαρμογή να είναι αθόρυβη στις ειδοποιήσεις και να μην σας ενδιαφέρει ο άλλος ήχος της (κλήσεις, βίντεο). Σε συνδυασμό με τις ρυθμίσεις της εφαρμογής, καλύπτει τα περισσότερα παράπονα "το ping είναι ενοχλητικό".</p>
+
+<h2>Ο πραγματικός περιορισμός: Το macOS δεν έχει όγκο ανά εφαρμογή</h2>
+
+<p>Εδώ είναι το ειλικρινές μέρος. Τα παραπάνω βήματα είναι διακόπτες ενεργοποίησης/απενεργοποίησης. Αυτό που δεν μπορούν να κάνουν είναι να γυρίσουν WhatsApp ή Telegram <em>κάτω</em> σε, ας πούμε, 40% διατηρώντας όλα τα άλλα σε πλήρη ένταση. Το Windows έχει έναν μείκτη όγκου ανά εφαρμογή εδώ και χρόνια. Το macOS απλά δεν περιλαμβάνει ένα και δεν υπάρχει κρυφή ρύθμιση ή εντολή Terminal που να το προσθέτει.</p>
+
+<p>Αυτό έχει σημασία όταν το πρόβλημα δεν είναι ο ήχος ειδοποιήσεων συγκεκριμένα, αλλά ολόκληρη η εφαρμογή είναι πολύ δυνατή:</p>
+
+<ul>
+<li>WhatsApp ή Telegram <strong>φωνητικές και βιντεοκλήσεις</strong> αυτή η έκρηξη σε πλήρη ένταση σε σχέση με τη μουσική σας ή μια συνάντηση</li>
+<li>Ένας ήχος ειδοποίησης που θέλετε να διατηρήσετε αλλά σε χαμηλότερο επίπεδο, όχι εντελώς απενεργοποιημένο</li>
+<li>Ήχοι κλήσης που ανεβαίνουν πολύ πάνω από οτιδήποτε άλλο ακούτε</li>
+<li>Θέλετε η εφαρμογή να ακούγεται αλλά αθόρυβα στο παρασκήνιο ενώ εστιάζετε σε κάτι άλλο</li>
+</ul>
+
+<p>Τίποτα από αυτά δεν επιλύεται με τα ενσωματωμένα εργαλεία, γιατί προσφέρουν μόνο σίγαση, όχι επίπεδο. Αυτό το κενό είναι ένας πραγματικός περιορισμός macOS, όχι κάτι που σας λείπει.</p>
+
+<h2>Ορίστε έναν τόμο ανά εφαρμογή με το SoundDial</h2>
+
+<p>Για να απενεργοποιήσετε μια μεμονωμένη εφαρμογή αντί να την απενεργοποιήσετε, χρειάζεστε έναν μίκτη έντασης ανά εφαρμογή. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια εφαρμογή γραμμής μενού που δίνει στο macOS τον έλεγχο έντασης ήχου ανά εφαρμογή με τον οποίο δεν εστάλη ποτέ. Παραθέτει κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή και δίνει σε καθεμία το δικό της ρυθμιστικό.</p>
+
+<p>Για το συγκεκριμένο πρόβλημα:</p>
+
+<ul>
+<li>Ανοίξτε <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> από τη γραμμή μενού και βρείτε το WhatsApp ή το Telegram στη λίστα.</li>
+<li>Σύρετε το ρυθμιστικό του προς τα κάτω σε ένα άνετο επίπεδο, για παράδειγμα 30–40%, αφήνοντας ανέγγιχτη τη μουσική, το πρόγραμμα περιήγησης ή τη βιντεοκλήση σας.</li>
+<li>Χρησιμοποιήστε την ανά εφαρμογή <strong>σίγαση</strong> κουμπί για άμεση σίγαση αυτής της εφαρμογής κατά τη διάρκεια μιας κλήσης ή μιας σύσκεψης και, στη συνέχεια, καταργήστε τη σίγαση αργότερα χωρίς να κάνετε αναζήτηση στις ρυθμίσεις.</li>
+<li>Αν χρειαστείτε ποτέ το αντίθετο, μια αθόρυβη εφαρμογή που είναι πολύ μαλακή, η ανά εφαρμογή <strong>ώθηση</strong> μπορεί να το ωθήσει πάνω από το 100%.</li>
+</ul>
+
+<p>Επειδή ορίζει ένα επίπεδο ανά εφαρμογή, το SoundDial διατηρεί τα κουδούνια ειδοποιήσεων και την κλήση ήχου ακούγονται αλλά αναλογικά, αντί για την επιλογή "όλα ή τίποτα", οι ενσωματωμένες επιλογές σας επιβάλλουν. Μπορείτε επίσης να αποθηκεύσετε <strong>προφίλ όγκου</strong>, επομένως μια ρύθμιση "εστίασης" που κρατά τις εφαρμογές συνομιλίας χαμηλά είναι ένα κλικ μακριά.</p>
+
+<blockquote>Μια ειλικρινής προειδοποίηση: η μείωση της συνολικής έντασης ήχου μιας εφαρμογής στο SoundDial μειώνει επίσης τους ήχους ειδοποιήσεων, καθώς για το macOS είναι ο ήχος της ίδιας εφαρμογής. Εάν θέλετε οι ειδοποιήσεις εντελώς απενεργοποιημένες αλλά κλήσεις σε πλήρη ένταση, χρησιμοποιήστε τη σίγαση της εφαρμογής και τις Ρυθμίσεις συστήματος για το ηχητικό σήμα και κρατήστε το SoundDial για τη ρύθμιση του γενικού επιπέδου.</blockquote>
+
+<p>Το SoundDial είναι μια εφάπαξ αγορά 14,99 € στο Mac App Store, σε sandbox, χωρίς συνδρομή, χωρίς προγράμματα οδήγησης πυρήνα και χωρίς DMG για sideload. Είναι η πρακτική απάντηση όταν η επιδιόρθωση που πραγματικά θέλετε, η απενεργοποίηση μιας εφαρμογής, δεν είναι κάτι που μπορεί να κάνει η ίδια η macOS.</p>
+
+<h2>Ποια διόρθωση πρέπει να χρησιμοποιήσετε;</h2>
+
+<p>Δουλέψτε από πάνω προς τα κάτω. Δοκιμάστε πρώτα τις ρυθμίσεις ειδοποιήσεων της εφαρμογής και, στη συνέχεια, τις Ρυθμίσεις συστήματος macOS για να σκοτώσετε τον ήχο. Αν αυτό που πραγματικά θέλετε είναι να χαμηλώσετε το WhatsApp ή το Telegram σε μια συγκεκριμένη ένταση ήχου ή να κάνετε σίγαση μόνο αυτής της εφαρμογής κατά τη διάρκεια των κλήσεων, εκεί κερδίζει τη θέση του ένας μείκτης ανά εφαρμογή.</p>
+
+<p>Κουραστήκατε να επιλέγετε μεταξύ πλήρους έκρηξης και απόλυτης σιωπής για τις εφαρμογές συνομιλίας σας; <a href="https://apps.apple.com/app/id6772792641">Αποκτήστε το SoundDial στο Mac App Store</a> και δώστε σε κάθε εφαρμογή το δικό της επιλογέα έντασης.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Ήχος παιχνιδιού πιο δυνατά από το Discord στο Mac; Πώς να εξισορροπήσετε την ένταση του παιχνιδιού έναντι της φωνής",
+    description: "Το παιχνίδι σας πνίγει τη φωνητική συνομιλία Discord στο Mac και δεν υπάρχει ενσωματωμένος μείκτης έντασης ήχου. Αυτός είναι ο λόγος για τον οποίο το macOS δεν διαθέτει ένταση ήχου ανά εφαρμογή σε στυλ Windows και πώς να μειώσετε το παιχνίδι ενώ διατηρείτε τη φωνή σας.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν διαθέτει ενσωματωμένο μίκτη έντασης ήχου ανά εφαρμογή, επομένως δεν μπορείτε να περιορίσετε εγγενώς το παιχνίδι σας ενώ διατηρείτε το Discord δυνατά. Η επιδιόρθωση είναι μια εφαρμογή γραμμής μενού που ορίζει ανεξάρτητη ένταση ήχου ανά εφαρμογή. Μειώστε το παιχνίδι στο 40-50%, αφήστε τη φωνητική συνομιλία στο 100% και παραμείνετε ισορροπημένοι χωρίς να αγγίζετε τα ρυθμιστικά εντός του παιχνιδιού.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ο ήχος του παιχνιδιού είναι πιο δυνατός από το Discord στο Mac; Πώς να εξισορροπήσετε την ένταση του παιχνιδιού έναντι της φωνής" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί συμβαίνει αυτό στο Mac (και όχι στο Windows)</h2>
+
+<p>Εάν έχετε παίξει στο Windows, γνωρίζετε το Volume Mixer: κάντε δεξί κλικ στο εικονίδιο του ηχείου και κάθε εφαρμογή που εκτελείται θα έχει το δικό της ρυθμιστικό. Ρίχνεις το παιχνίδι, σηκώνεις το Discord, τελειώνει. Το macOS απλά δεν απέστειλε ποτέ αυτό το χαρακτηριστικό. Υπάρχει ένας κύριος τόμος εξόδου και μια χούφτα εναλλαγές σε επίπεδο εφαρμογής θαμμένα στις ρυθμίσεις συστήματος, αλλά δεν υπάρχει έλεγχος επιπέδου ανά εφαρμογή για αυθαίρετες εφαρμογές.</p>
+
+<p>Έτσι, όταν η μίξη ενός παιχνιδιού γίνεται hot, οι εκρήξεις, η μουσική και οι πυροβολισμοί του έρχονται στο ίδιο επίπεδο εξόδου με τις φωνές των φίλων σας. Ορισμένα παιχνίδια εκθέτουν ένα κύριο ρυθμιστικό έντασης, αλλά πολλά δεν πέφτουν αρκετά και πολλοί εκτοξευτές, προγράμματα περιήγησης και αυτόνομοι τίτλοι δεν προσφέρουν καθόλου χρήσιμο έλεγχο. Το ίδιο το Discord σάς επιτρέπει να προσαρμόσετε μόνο τον όγκο των εισερχόμενων χρηστών και όχι το παιχνίδι που τους ανταγωνίζεται.</p>
+
+<p>Για να είμαι ειλικρινής, αυτό είναι ένα κενό σε επίπεδο λειτουργικού συστήματος, όχι ένα σφάλμα που μπορείτε να το λύσετε. Η στοίβα ήχου της Apple δρομολογεί τα πάντα σε μια ενιαία ροή εξόδου και δεν υπάρχει διεπαφή χρήστη πρώτου κατασκευαστή που να τη χωρίζει ανά εφαρμογή. Γι' αυτό χρειάζεστε ένα εργαλείο τρίτου κατασκευαστή που βρίσκεται ανάμεσα στις εφαρμογές σας και τη συσκευή εξόδου.</p>
+
+<h2>Οι χειροκίνητες λύσεις (και γιατί υπολείπονται)</h2>
+
+<p>Πριν ξεκινήσετε το λογισμικό, αξίζει να γνωρίζετε τις δωρεάν επιλογές και τα όριά τους:</p>
+
+<ul>
+<li><strong>Μειώστε την ένταση του παιχνιδιού εντός εφαρμογής.</strong> Λειτουργεί εάν το παιχνίδι έχει κύριο ρυθμιστικό με αρκετά λεπτά βήματα. Πολλοί σταματούν σε αυξήσεις 10% ή συνδυάζουν μουσική και εφέ μαζί, ώστε να μην μπορείτε να δαμάζετε μόνο τα δυνατά μέρη.</li>
+<li><strong>Μεγαλώστε τους φίλους σας στο Discord.</strong> Κάντε δεξί κλικ σε κάθε χρήστη και αυξήστε την ένταση του ήχου. Αυτό βοηθάει λίγο, αλλά ξεπερνάει και δεν αγγίζει το παιχνίδι που είναι στην πραγματικότητα το πρόβλημα.</li>
+<li><strong>Χρησιμοποιήστε ακουστικά με κουμπί έντασης ήχου υλικού.</strong> Αλλάζει μόνο το συνολικό επίπεδο, όχι η ισορροπία μεταξύ παιχνιδιού και φωνής.</li>
+<li><strong>Δρομολογήστε τον ήχο μέσω μιας εικονικής συσκευής.</strong> Εργαλεία όπως το Loopback ή το BlackHole μπορούν να χωρίσουν τις ροές, αλλά απευθύνονται σε επαγγελματίες, έχουν πραγματική εγκατάσταση και είναι υπερβολικά για να "κάνουν το παιχνίδι πιο ήσυχο".</li>
+</ul>
+
+<p>Κανένα από αυτά δεν σας δίνει το μόνο πράγμα που οι χρήστες του Windows θεωρούν δεδομένο: ένα γρήγορο ρυθμιστικό ανά εφαρμογή. Αυτό είναι το κενό <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι φτιαγμένο για να γεμίζει.</p>
+
+<h2>Η άμεση επιδιόρθωση: ανεξάρτητος όγκος ανά εφαρμογή</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια γραμμή μενού ανά εφαρμογή μείκτη τόμου για το macOS. Δείχνει κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή και δίνει σε καθεμία το δικό της ρυθμιστικό, ακριβώς όπως το Windows Volume Mixer. Για το πρόβλημα παιχνιδιού έναντι φωνής, η ροή εργασίας είναι σύντομη:</p>
+
+<ul>
+<li>Κάντε κλικ στο εικονίδιο SoundDial στη γραμμή μενού σας ενώ το παιχνίδι και το Discord εκτελούνται και τα δύο.</li>
+<li>Βρείτε το παιχνίδι στη λίστα και τραβήξτε το ρυθμιστικό του προς τα κάτω σε περίπου 40-50%.</li>
+<li>Αφήστε το Discord (ή Slack, Zoom ή την εφαρμογή φωνής σας) στο 100%.</li>
+<li>Προσαρμόστε εν κινήσει κατά τη διάρκεια του παιχνιδιού — ωθήστε το παιχνίδι πιο κάτω σε μια δυνατή μάχη, δημιουργήστε αντίγραφα ασφαλείας κατά τη διάρκεια ήρεμης εξερεύνησης.</li>
+</ul>
+
+<p>Επειδή τα επίπεδα είναι ανά εφαρμογή, τα ορίζετε μία φορά και διατηρούνται. Το παιχνίδι παραμένει περιορισμένο ανεξάρτητα από το πόσο ζεστό είναι το δικό του μείγμα και οι φίλοι σας ακούγονται ξεκάθαρα από πάνω του.</p>
+
+<h2>Ενίσχυση, σίγαση και προφίλ για την υπόλοιπη εγκατάσταση σας</h2>
+
+<p>Το ίδιο εργαλείο καλύπτει τις παρακείμενες ενοχλήσεις που έρχονται με το φωνητικό παιχνίδι:</p>
+
+<ul>
+<li><strong>Ενίσχυση ανά εφαρμογή.</strong> Εάν το μικρόφωνο ενός συμπαίκτη είναι αθόρυβο ακόμη και στο μέγιστο του Discord, μπορείτε να προωθήσετε την εφαρμογή φωνής <em>παραπάνω</em> 100% έτσι κόβει το παιχνίδι αντί να θάβεται.</li>
+<li><strong>Σίγαση ανά εφαρμογή.</strong> Σίγασε μια καρτέλα του προγράμματος περιήγησης στο παρασκήνιο ή μια εφαρμογή μουσικής αμέσως χωρίς alt-tab ή εξοντωτική αναπαραγωγή.</li>
+<li><strong>Προφίλ τόμου.</strong> Αποθηκεύστε ένα προφίλ "παιχνιδιού" με το παιχνίδι στο 45% και το Discord ενισχυμένο και, στη συνέχεια, επιστρέψτε σε ένα "κανονικό" προφίλ για καθημερινή χρήση με ένα κλικ — χωρίς να σύρετε ξανά ρυθμιστικά κάθε περίοδο λειτουργίας.</li>
+<li><strong>Αυτόματη πάπια.</strong> Βάλτε το παιχνίδι να βυθίζεται αυτόματα όταν κάποιος μιλάει, έτσι ώστε τα μηνύματα προώθησης να βρίσκονται πάντα στην κορυφή της δράσης.</li>
+<li><strong>Γρήγορη εναλλαγή εξόδου.</strong> Μεταβείτε μεταξύ ακουστικών και ηχείων από το ίδιο μενού χωρίς να βουτήξετε στις Ρυθμίσεις συστήματος.</li>
+</ul>
+
+<blockquote><p>Το νοητικό μοντέλο είναι απλό: ένα ρυθμιστικό ανά εφαρμογή, όπως το έκανε ο Windows εδώ και χρόνια. Το macOS δεν το παρείχε ποτέ, επομένως ένα μικρό βοηθητικό πρόγραμμα επαναφέρει την ισοτιμία.</p></blockquote>
+
+<h2>Τι να περιμένεις ειλικρινά</h2>
+
+<p>Ένας μίκτης ανά εφαρμογή λύνει το πρόβλημα ισορροπίας καθαρά, αλλά θέτει σωστά τις προσδοκίες. Ελέγχει τα επίπεδα εξόδου λογισμικού — δεν μπορεί να διορθώσει ένα παιχνίδι του οποίου ο ήχος του οποίου δεν είναι καλά κατακτημένος και δεν μπορεί να δώσει σήμα που δεν καταγράφηκε ποτέ (ένα πραγματικά σπασμένο μικρόφωνο χρειάζεται ακόμα επισκευή υλικού). Το Boost προσθέτει πραγματικό κέρδος, επομένως η ώθηση μιας αθόρυβης πηγής πέρα ​​από το 100% μπορεί να προκαλέσει παραμόρφωση, ακριβώς όπως αν ανεβάσετε οποιονδήποτε ενισχυτή πολύ ψηλά. Αν χρησιμοποιηθεί λογικά, ωστόσο, ένα μέτριο καπάκι παιχνιδιού συν μια μικρή φωνητική ενίσχυση είναι το μόνο που χρειάζονται οι περισσότερες ρυθμίσεις.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι sandbox και εγκαθίσταται απευθείας από το Mac App Store — χωρίς προγράμματα οδήγησης, χωρίς επεκτάσεις πυρήνα, χωρίς DMG για αξιοπιστία. Είναι εφάπαξ 14,99 € χωρίς συνδρομή και υποστηρίζει έλεγχο έντασης ήχου macOS σε 28 γλώσσες.</p>
+
+<p>Σταματήστε να παλεύετε με τα ρυθμιστικά εντός του παιχνιδιού. Αρπάξτε <a href="https://apps.apple.com/app/id6772792641">SoundDial στο Mac App Store</a>, χαμηλώστε το παιχνίδι, κρατήστε την ομάδα σας δυνατά και, επιτέλους, αποκτήστε τον μείκτη έντασης ήχου σε στυλ macOS macOS που ξεχάσατε να αποσταλεί.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Τα ηχεία της εξωτερικής οθόνης είναι πολύ δυνατά ή έχουν κολλήσει στο Mac; Διορθώστε την ένταση ήχου HDMI/DisplayPort",
+    description: "Γιατί τα πλήκτρα έντασης ήχου του Mac δεν ελέγχουν τα ηχεία της οθόνης HDMI ή DisplayPort και πώς να διορθώσετε τον ήχο που είναι πολύ δυνατός, κολλημένος ή μη ρυθμιζόμενος χρησιμοποιώντας την οθόνη OSD, το Audio MIDI Setup και την καλύτερη δρομολόγηση εξόδου.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν τα πλήκτρα έντασης ήχου του Mac είναι γκρι ή δεν κάνουν τίποτα για μια οθόνη συνδεδεμένη μέσω HDMI ή DisplayPort, αυτό συνήθως δεν είναι σφάλμα. Ο ήχος ψηφιακής οθόνης συχνά αποστέλλεται σε σταθερό επίπεδο και το υλικό της οθόνης ελέγχει την ένταση του ήχου. Η λύση είναι να προσαρμόσετε την οθόνη, να επαναδρομολογήσετε την έξοδο ή να χρησιμοποιήσετε διαφορετική συσκευή ήχου.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Τα ηχεία της εξωτερικής οθόνης είναι πολύ δυνατά ή έχουν κολλήσει στο Mac; Διορθώστε την ένταση ήχου HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί τα πλήκτρα έντασης ήχου Mac σταματούν να λειτουργούν μέσω HDMI/DisplayPort</h2>
+
+<p>Το HDMI και το DisplayPort μεταφέρουν ήχο ως ψηφιακή ροή. Πολλές οθόνες λαμβάνουν αυτή τη ροή σε ένα σταθερό επίπεδο εξόδου και αναμένουν από εσάς να ελέγχετε την ένταση στην ίδια την οθόνη και όχι στη συσκευή πηγής. Όταν το macOS το ανιχνεύσει αυτό, απενεργοποιεί το ρυθμιστικό έντασης στην οθόνη και γκριζάρει τα πλήκτρα F11/F12, εμφανίζοντας το σύμβολο "απαγορεύεται η είσοδος" όταν τα πατάτε.</p>
+
+<p>Αυτός είναι περιορισμός υλικού και πρωτοκόλλου, όχι κάτι που το λογισμικό στο Mac μπορεί να παρακάμψει. Ο ήχος δεν περνά ποτέ από ένα στάδιο όπου επιτρέπεται στο macOS να τον εξασθενήσει. Καμία εφαρμογή, πρόγραμμα οδήγησης ή ρύθμιση δεν μπορεί να εισάγει έλεγχο έντασης σε μια ροή που η οθόνη επιμένει να λαμβάνει σε πλήρη στάθμη. Το να είστε ειλικρινείς γι' αυτό σας εξοικονομεί ώρες από το να κυνηγάτε τη λάθος λύση.</p>
+
+<h2>Επιδιόρθωση 1: Χρησιμοποιήστε τα χειριστήρια της ίδιας της οθόνης (OSD)</h2>
+
+<p>Αυτή είναι η πραγματική λύση για τους περισσότερους ανθρώπους. Σχεδόν κάθε οθόνη με ενσωματωμένα ηχεία διαθέτει ένα μενού προβολής στην οθόνη που οδηγείται από φυσικά κουμπιά ή ένα joystick στο πίσω μέρος ή στο κάτω μέρος του πίνακα.</p>
+
+<ul>
+<li>Πατήστε το κουμπί OSD/μενού για να ανοίξετε τις ρυθμίσεις της οθόνης.</li>
+<li>Αναζητήστε μια ενότητα Ήχος ή Ένταση.</li>
+<li>Χαμηλώστε το επίπεδο εκεί — αυτός είναι ο έλεγχος που λειτουργεί στην πραγματικότητα μέσω HDMI/DP.</li>
+</ul>
+
+<p>Ορισμένες οθόνες εκθέτουν επίσης μια συνοδευτική εφαρμογή ή υποστήριξη DDC/CI, ώστε να μπορείτε να οδηγείτε το OSD από το macOS. Τα βοηθητικά προγράμματα τρίτων κατασκευαστών που μιλούν DDC μπορούν να αντιστοιχίσουν τα πλήκτρα έντασης ήχου του Mac στην ένταση του υλικού της οθόνης, κάτι που αξίζει να δοκιμάσετε αν δεν σας αρέσει να πιάνετε τα κουμπιά του πίνακα.</p>
+
+<h2>Διόρθωση 2: Ελέγξτε τη ρύθμιση MIDI ήχου</h2>
+
+<p>Ανοίξτε <strong>Ρύθμιση ήχου MIDI</strong> (στο /Applications/Utilities). Επιλέξτε την οθόνη σας στη λίστα συσκευών. Εάν ένα ρυθμιστικό έντασης εμφανίζεται στα δεξιά, σύρετέ το προς τα κάτω — μερικές φορές η οθόνη εκθέτει ένα επίπεδο ελεγχόμενο από λογισμικό, ακόμη και όταν τα πλήκτρα της γραμμής μενού είναι απενεργοποιημένα. Εάν το ρυθμιστικό λείπει ή είναι γκριζαρισμένο, η οθόνη επιβεβαιώνει ότι δέχεται μόνο ήχο σταθερού επιπέδου και θα πρέπει να επιστρέψετε στο OSD.</p>
+
+<p>Όσο βρίσκεστε εδώ, επιβεβαιώστε ότι έχει επιλεγεί η σωστή συσκευή εξόδου. Είναι σύνηθες να δρομολογείτε τον ήχο αθόρυβα σε μια οθόνη που ξεχάσατε ότι ήταν συνδεδεμένη, γεγονός που εξηγεί τον ξαφνικό δυνατό ή απουσία ήχου.</p>
+
+<h2>Επιδιόρθωση 3: Δρομολογήστε τον ήχο κάπου που μπορείτε πραγματικά να ελέγξετε</h2>
+
+<p>Εάν τα ηχεία της οθόνης σας είναι ούτως ή άλλως μέτρια (τα περισσότερα) και ο έλεγχος της έντασης είναι αδέξιος, η πιο καθαρή λύση είναι να σταματήσετε να τα χρησιμοποιείτε:</p>
+
+<ul>
+<li>Συνδέστε τα ηχεία ή τα ακουστικά στην υποδοχή εξόδου ακουστικών της οθόνης, εάν υπάρχει — αυτή η αναλογική έξοδος συνήθως ελέγχεται με ένταση ήχου από την οθόνη.</li>
+<li>Χρησιμοποιήστε USB DAC, ηχεία USB ή έξοδο Bluetooth. Οι έξοδοι USB και αναλογικές δίνουν στο macOS πλήρη έλεγχο της έντασης του λογισμικού, ώστε τα πλήκτρα σας να λειτουργούν ξανά κανονικά.</li>
+<li>Επιλέξτε τα ενσωματωμένα ηχεία του Mac για γρήγορους ήχους και διατηρήστε την οθόνη μόνο για βίντεο.</li>
+</ul>
+
+<p>Μόλις βρίσκεστε σε μια έξοδο που το macOS μπορεί πραγματικά να μειώσει, τα πλήκτρα έντασης του συστήματος συμπεριφέρονται και ανακτάτε τον καλό έλεγχο αντί να μεταπηδάτε ανάμεσα στα χοντρά βήματα της οθόνης OSD.</p>
+
+<h2>Μόλις λειτουργήσει η έξοδος, ελέγξτε τον όγκο ανά εφαρμογή</h2>
+
+<p>Η επιστροφή μιας ελεγχόμενης εξόδου λύνει το πρόβλημα "πολύ δυνατός / κολλημένος". Αλλά το macOS εξακολουθεί να σας δίνει μόνο έναν κύριο τόμο για τα πάντα. Δεν υπάρχει ενσωματωμένος μείκτη ανά εφαρμογή στο Mac — Το Windows είχε έναν εδώ και χρόνια, αλλά η Apple δεν έστειλε ποτέ αντίστοιχο. Έτσι, ένα δυνατό βίντεο, ένα παιχνίδι και μια αθόρυβη κλήση μοιράζονται το ίδιο ρυθμιστικό.</p>
+
+<p>Αυτό είναι το κενό <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> γεμίζει. Είναι ένας μίκτης γραμμής μενού που δίνει σε κάθε εφαρμογή τη δική της ανεξάρτητη ένταση ήχου, ώστε να μπορείτε να μειώσετε μια καρτέλα του προγράμματος περιήγησης χωρίς να αγγίξετε τη μουσική σας, να κάνετε σίγαση μιας εφαρμογής αμέσως ή να ενισχύσετε μια ήσυχη εφαρμογή πάνω από το κανονικό της ταβάνι. Μπορείτε να αποθηκεύσετε προφίλ έντασης για διαφορετικές ρυθμίσεις και να αλλάζετε γρήγορα εξόδους από τη γραμμή μενού.</p>
+
+<p>Για να είμαστε σαφείς σχετικά με το πεδίο εφαρμογής: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ελέγχει την ένταση του λογισμικού για τον ήχο που ρέει μέσω του macOS. Δεν μπορεί να παρακάμψει μια οθόνη που αγνοεί την ένταση του συστήματος μέσω HDMI — αυτή είναι η συμπεριφορά σταθερού επιπέδου της οθόνης και μόνο το OSD ή μια διαφορετική έξοδος το διορθώνει. Μόλις είστε σε μια ελεγχόμενη έξοδο, ο έλεγχος ανά εφαρμογή είναι το σημείο όπου η εφαρμογή λάμπει.</p>
+
+<h2>Γρήγορη λίστα ελέγχου</h2>
+
+<ul>
+<li>Τα πλήκτρα είναι γκριζαρισμένα μέσω HDMI/DP; Χρησιμοποιήστε την ένταση του OSD της οθόνης — αυτή είναι η αναμενόμενη συμπεριφορά.</li>
+<li>Ελέγξτε το Audio MIDI Setup για ένα κρυφό ρυθμιστικό λογισμικού.</li>
+<li>Επιβεβαιώστε ότι έχει επιλεγεί η σωστή συσκευή εξόδου.</li>
+<li>Για πραγματικό έλεγχο, δρομολογήστε τον ήχο σε έξοδο ακουστικών, USB ή Bluetooth.</li>
+<li>Στη συνέχεια, χρησιμοποιήστε έναν μίκτη ανά εφαρμογή για να εξισορροπήσετε μεμονωμένες εφαρμογές.</li>
+</ul>
+
+<p>Μόλις η παραγωγή σας είναι υπό έλεγχο, δώστε <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> μια ματιά. Είναι μια εφάπαξ αγορά 14,99 € από το Mac App Store — χωρίς συνδρομή, χωρίς προγράμματα οδήγησης, χωρίς DMG — και τελικά φέρνει έναν πραγματικό μίκτη όγκου ανά εφαρμογή στο macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "Η ένταση του ήχου USB DAC δεν ρυθμίζεται στο Mac; Λήψη ελέγχου έντασης λογισμικού πίσω",
+    description: "Γιατί το macOS γκριζάρει το ρυθμιστικό έντασης για πολλά USB DAC, τι σημαίνει και πώς να επαναφέρετε τον έλεγχο έντασης του λογισμικού εργασίας στο Mac χωρίς να επηρεαστεί η ποιότητα του ήχου.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Εάν το ρυθμιστικό έντασης του USB DAC είναι γκριζαρισμένο στο Mac, συνήθως δεν πρόκειται για σφάλμα. Το macOS απενεργοποιεί την ένταση του λογισμικού του όταν ένα DAC αναφέρει ότι δεν έχει ελεγχόμενη ένταση, περιμένοντας από εσάς να χρησιμοποιήσετε το κουμπί υλικού του DAC. Για να επαναφέρετε τον όγκο του λογισμικού, χρησιμοποιήστε έναν εξασθενητή σε επίπεδο εφαρμογής όπως <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Η ένταση ήχου δεν ρυθμίζεται στο Mac; Λήψη ελέγχου έντασης λογισμικού πίσω" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί το macOS γκριζάρει την ένταση για ορισμένα USB DAC</h2>
+
+<p>Όταν συνδέετε μια συσκευή ήχου USB, το macOS το ρωτά τι μπορεί να κάνει μέσω του πρωτοκόλλου USB Audio Class (UAC). Μέρος αυτής της χειραψίας είναι ένα σύνολο χειριστηρίων "μονάδας χαρακτηριστικών", συμπεριλαμβανομένου ενός ελέγχου έντασης. Εάν το DAC δηλώσει έναν έλεγχο έντασης, το macOS το συνδέει στα πλήκτρα έντασης του πληκτρολογίου σας και στο ρυθμιστικό της γραμμής μενού. Εάν το DAC δηλώσει ότι δεν έχει ρυθμιζόμενη από τον κεντρικό υπολογιστή ένταση, το macOS γκριζάρει εντελώς το ρυθμιστικό.</p>
+
+<p>Πολλοί DAC και ενισχυτές υψηλής ποιότητας κάνουν ακριβώς το τελευταίο, επίτηδες. Η υπόθεση του σχεδιαστή είναι ότι θα τροφοδοτήσετε το DAC ένα ψηφιακό σήμα πλήρους κλίμακας, τέλειο bit και θα ελέγξετε την ένταση του ήχου με το κουμπί αναλογικής έντασης στην ίδια τη μονάδα. Αυτή η αναλογική εξασθένηση συμβαίνει μετά τη μετατροπή ψηφιακού σε αναλογικό, επομένως αποφεύγει την απόρριψη κομματιών και είναι πραγματικά η προτιμώμενη διαδρομή για τους ηχοφίλους. Είναι χαρακτηριστικό, όχι λάθος.</p>
+
+<blockquote>Εμπειρικός κανόνας: εάν το DAC έχει φυσικό κουμπί έντασης και το ρυθμιστικό Mac είναι γκριζαρισμένο, ο κατασκευαστής θέλει να χρησιμοποιήσετε το κουμπί. Το σήμα αποστέλλεται στο 100% από το σχεδιασμό.</blockquote>
+
+<h2>Όταν το γκριζαρισμένο ρυθμιστικό είναι στην πραγματικότητα πρόβλημα</h2>
+
+<p>Η απάντηση "απλώς χρησιμοποιήστε το κουμπί" αναλύεται σε πραγματικές ρυθμίσεις:</p>
+
+<ul>
+<li><strong>Το DAC δεν έχει πόμολο.</strong> Πολλά συμπαγή USB DAC, dongles και επαγγελματικές διεπαφές δεν εκθέτουν ούτε έλεγχο έντασης ήχου ούτε έλεγχο κεντρικού υπολογιστή. Είστε κολλημένοι σε οποιοδήποτε επίπεδο έχουν ρυθμιστεί ο ενισχυτής ή τα ηχεία με ρεύμα.</li>
+<li><strong>Το πόμολο είναι απρόσιτο.</strong> Ένα επιτραπέζιο DAC πίσω από την οθόνη σας ή μια μονάδα που τροφοδοτεί έναν ενισχυτή σταθερής απολαβής, σημαίνει ότι η ρύθμιση της έντασης γίνεται σωματική αγγαρεία αντί για πάτημα πλήκτρων.</li>
+<li><strong>Χρειάζεστε υπόλοιπο ανά εφαρμογή, όχι μόνο κύριο επίπεδο.</strong> Ακόμη και ένα τέλειο κουμπί υλικού είναι ένα ενιαίο παγκόσμιο έλεγχο. Δεν μπορεί να κάνει μια κλήση Zoom πιο αθόρυβη από τη μουσική σας, ή να αποκλείσει ένα παιχνίδι όταν ενεργοποιείται μια ειδοποίηση.</li>
+</ul>
+
+<p>Κανένα από αυτά δεν διορθώνεται από το macOS, επειδή από την πλευρά του λειτουργικού συστήματος η συσκευή συμπεριφέρεται σωστά. Αυτός είναι ο ειλικρινής περιορισμός: είναι μια ικανότητα που αναφέρεται από τη συσκευή και δεν υπάρχει εναλλαγή στις Ρυθμίσεις συστήματος για να την παρακάμψετε.</p>
+
+<h2>Ειλικρινείς λύσεις πριν εγκαταστήσετε οτιδήποτε</h2>
+
+<p>Δοκιμάστε αυτά πρώτα, γιατί δεν κοστίζουν τίποτα:</p>
+
+<ul>
+<li><strong>Χρησιμοποιήστε το κουμπί υλικού ή την ένταση ήχου κατάντη.</strong> Εάν το DAC ή τα ηχεία/ενισχυτής σας διαθέτουν χειριστήριο, αυτή είναι η πιο καθαρή επιλογή και διατηρεί την πλήρη ψηφιακή ανάλυση.</li>
+<li><strong>Ελέγξτε την εφαρμογή ή το υλικολογισμικό του DAC.</strong> Ορισμένα DAC (και μονάδες προσανατολισμένες στα παιχνίδια) αποστέλλουν έναν πίνακα ελέγχου ή μια ρύθμιση υλικολογισμικού που επιτρέπει την ένταση του κεντρικού υπολογιστή. Εάν υπάρχει η επιλογή "Ένταση USB" ή "Ένταση λογισμικού", η ενεργοποίησή της κάνει το ρυθμιστικό macOS να λειτουργεί ξανά.</li>
+<li><strong>Δοκιμάστε μια διαφορετική λειτουργία USB.</strong> Μερικές συσκευές αναφέρουν διαφορετικές δυνατότητες σε "συμβατή με την κατηγορία" σε σύγκριση με μια ιδιόκτητη λειτουργία προγράμματος οδήγησης. Η εγκατάσταση ή η κατάργηση του προγράμματος οδήγησης προμηθευτή μπορεί να αλλάξει εάν το macOS βλέπει ένα στοιχείο ελέγχου έντασης ήχου.</li>
+<li><strong>Δείτε στο Audio MIDI Setup.</strong> Ανοίξτε το Audio MIDI Setup, επιλέξτε τη συσκευή και ελέγξτε αν εμφανίζεται μια κύρια ή ανά κανάλι ένταση ήχου. Περιστασιακά ένα ρυθμιστικό είναι διαθέσιμο σε αυτόν τον πίνακα, ακόμη και όταν η γραμμή μενού είναι γκριζαρισμένη.</li>
+</ul>
+
+<p>Εάν δεν ισχύει κανένα από αυτά, χρειάζεστε εξασθένηση λογισμικού στην πλευρά Mac.</p>
+
+<h2>Έλεγχος έντασης λογισμικού με εξασθένηση ανά εφαρμογή</h2>
+
+<p>Όταν το υλικό δεν δέχεται εντολή έντασης ήχου, η επιλογή που απομένει είναι να μειώσετε τον ήχο στο λογισμικό πριν φτάσει στο DAC. Αυτό ακριβώς είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> κάνει. Βρίσκεται στη γραμμή μενού σας και δίνει σε κάθε εφαρμογή που εκτελείται τη δική της ανεξάρτητη ένταση ήχου, σίγαση, ακόμη και ώθηση, ανεξάρτητα από το αν το DAC σας εκθέτει ένα στοιχείο ελέγχου υλικού.</p>
+
+<p>Για να το χρησιμοποιήσετε για ένα γκριζαρισμένο DAC:</p>
+
+<ul>
+<li>Εγκατάσταση <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> από το Mac App Store και ανοίξτε το από τη γραμμή μενού.</li>
+<li>Διατηρήστε το DAC επιλεγμένο ως έξοδο συστήματος. μπορείτε επίσης να χρησιμοποιήσετε τη γρήγορη εναλλαγή εξόδου του SoundDial για να μετακινηθείτε μεταξύ του DAC, των ηχείων και των ακουστικών χωρίς να βουτήξετε στις Ρυθμίσεις συστήματος.</li>
+<li>Ρυθμίστε τα επίπεδα ανά εφαρμογή: αφήστε το πρόγραμμα περιήγησης, ανεβάστε το πρόγραμμα αναπαραγωγής μουσικής, κάντε σίγαση ό,τι δεν θέλετε. Κάθε εφαρμογή μεταδίδεται με τον όγκο που επιλέγετε και το μικτό αποτέλεσμα πηγαίνει στο DAC.</li>
+<li>Αποθηκεύστε προφίλ έντασης για διαφορετικά σενάρια (κλήσεις έναντι ακρόασης) και αφήστε την αυτόματη απομάκρυνση των εφαρμογών χαμηλότερου φόντου όταν αρχίσει να παίζει κάτι πιο σημαντικό.</li>
+</ul>
+
+<h2>Η ειλικρινής ανταλλαγή για την ποιότητα ήχου</h2>
+
+<p>Η εξασθένηση λογισμικού μειώνει το ψηφιακό επίπεδο πριν από τη μετατροπή, επομένως θεωρητικά απορρίπτει μια μικρή ανάλυση σε σύγκριση με τον αναλογικό όγκο στο ίδιο το DAC. Στην πράξη, σε σύγχρονα μονοπάτια 24-bit και υψηλότερα σε κανονικά επίπεδα ακρόασης, η μείωση είναι πολύ χαμηλότερη από οτιδήποτε ακούγεται και διατηρείτε το πλήρες δυναμικό εύρος του DAC για οτιδήποτε παίζεται σχεδόν σε πλήρη κλίμακα. Εάν είστε καθαριστής με ένα καλό αναλογικό πόμολο σε κοντινή απόσταση, χρησιμοποιήστε το πόμολο. Εάν δεν διαθέτετε έλεγχο υλικού που να μπορεί να χρησιμοποιηθεί ή χρειάζεστε το υπόλοιπο ανά εφαρμογή που το macOS απλά δεν μπορεί να παράσχει, ο όγκος του λογισμικού είναι η σωστή αντιστάθμιση και ξεπερνά ένα ρυθμιστικό που δεν κάνει τίποτα.</p>
+
+<p>Το SoundDial είναι μια εφάπαξ αγορά 14,99 €, σε sandbox, χωρίς προγράμματα οδήγησης, επεκτάσεις πυρήνα ή προγράμματα εγκατάστασης DMG. Εάν η ένταση του ήχου του USB DAC είναι γκριζαρισμένη και το να πιάσετε ένα πόμολο δεν αποτελεί επιλογή, <a href="https://apps.apple.com/app/id6772792641">αποκτήστε SoundDial στο Mac App Store</a> και επαναφέρετε τον έλεγχο έντασης λειτουργίας στη γραμμή μενού σας.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Καλύψτε τη μέγιστη ένταση ήχου μιας εφαρμογής δυνατού στο Mac (Προστατέψτε την ακοή σας)",
+    description: "Το macOS δεν έχει ανώτατο όριο έντασης ανά εφαρμογή, επομένως μια δυνατή εφαρμογή μπορεί να σας εκτινάξει σε πλήρη ένταση του συστήματος. Δείτε πώς μπορείτε να ορίσετε ένα ανώτατο όριο μέγιστης έντασης για μια εφαρμογή στο Mac με έναν μείκτη ανά εφαρμογή και γιατί τα όρια υλικού έχουν σημασία.",
+    date: "2026-07-23",
+    readTime: "5 λεπτά ανάγνωση",
+    content: `<p>Το macOS δεν έχει ενσωματωμένο τρόπο να περιορίσει τη μέγιστη ένταση μιας εφαρμογής, επομένως ένα δυνατό πρόγραμμα παίζει σε ό,τι έχει ρυθμιστεί το ρυθμιστικό του συστήματός σας. Για να ορίσετε ένα ανώτατο όριο για μια μεμονωμένη εφαρμογή, χρησιμοποιήστε μια γραμμή μενού ανά εφαρμογή όπως π.χ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: κρατήστε αυτήν την εφαρμογή, για παράδειγμα, στο 40 τοις εκατό, ενώ η ένταση του συστήματός σας παραμένει υψηλότερη για οτιδήποτε άλλο.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Περιορίστε τη μέγιστη ένταση ήχου μιας δυνατής εφαρμογής στο Mac (Προστατέψτε την ακοή σας)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Γιατί μια εφαρμογή μπορεί ξαφνικά να σας εκτινάξει σε ένα Mac</h2>
+
+<p>Στο macOS, το ρυθμιστικό έντασης στη γραμμή μενού ή το Κέντρο Ελέγχου είναι ένα στοιχείο ελέγχου σε όλο το σύστημα. Κάθε εφαρμογή εκχύνεται στην ίδια έξοδο στο ίδιο επίπεδο. Δεν υπάρχει ενσωματωμένος μείκτη όγκου ανά εφαρμογή στο λειτουργικό σύστημα, όπως το Windows το είχε εδώ και χρόνια με τον πίνακα Volume Mixer.</p>
+
+<p>Αυτό το σχέδιο έχει μια πραγματική συνέπεια για τα αυτιά σας. Εάν ρυθμίσετε την ένταση του συστήματός σας σε υψηλά επίπεδα, ώστε να μπορείτε να ακούτε ένα ήσυχο podcast ή μια ήπια βιντεοκλήση, μετά μεταβείτε σε ένα παιχνίδι, μια ειδοποίηση Discord, έναν ιστότοπο γεμάτο διαφημίσεις ή ένα βίντεο που κατακτήθηκε πολύ πιο δυνατά, αυτή η εφαρμογή παίζει επίσης σε πλήρες επίπεδο συστήματος. Το αποτέλεσμα είναι το κλασικό jump-scare: ένας ξαφνικός τοίχος ήχου σε ένταση που δεν είχατε ποτέ σκοπό για τη συγκεκριμένη εφαρμογή.</p>
+
+<p>Για όποιον έχει εμβοές, ευαισθησία στον ήχο ή που εκτιμά απλώς την ακοή του, αυτή η απρόβλεπτη είναι το πρόβλημα. Δεν προσπαθείς να κάνεις τα πάντα πιο ήσυχα. Προσπαθείτε να εγγυηθείτε ότι μια συγκεκριμένη εφαρμογή με δυνατούς ήχους δεν μπορεί ποτέ να υπερβεί ένα επίπεδο που έχετε αποφασίσει ότι είναι ασφαλές.</p>
+
+<h2>Τι μπορεί και τι δεν μπορεί να κάνει εδώ το macOS</h2>
+
+<p>Επιτρέψτε μου να είμαι ειλικρινής σχετικά με τα όρια πριν προτείνω οτιδήποτε.</p>
+
+<ul>
+<li><strong>Όγκος συστήματος</strong> χαμηλώνει τα πάντα ταυτόχρονα. Χαμηλώστε το για να δαμάσει μια εφαρμογή και οι αθόρυβες εφαρμογές σας δεν ακούγονται.</li>
+<li><strong>Ρυθμιστικά έντασης εντός εφαρμογής</strong> υπάρχουν σε ορισμένες εφαρμογές (αναπαραγωγή πολυμέσων, ορισμένα προγράμματα περιήγησης ανά καρτέλα) αλλά όχι στις περισσότερες. Ένα παιχνίδι, μια βιντεοκλήση ή μια εγγενής εφαρμογή συχνά δεν έχει καθόλου ανεξάρτητο έλεγχο έντασης.</li>
+<li><strong>Το ταβάνι υλικού είναι πραγματικό.</strong> Κανένα λογισμικό δεν μπορεί να ωθήσει ένα σήμα πιο δυνατό από το μέγιστο της συσκευής εξόδου σας. Αντίθετα, το mastering έντασης μιας εφαρμογής, καθώς και το DAC και τα ακουστικά σας, καθορίζουν πόσο δυνατό θα αισθάνεται το "100 τοις εκατό". Το λογισμικό μπορεί να μειώσει αξιόπιστα ένα επίπεδο ανά εφαρμογή, αλλά δεν μπορεί να ξαναγράψει τη φυσική των ακουστικών σας.</li>
+</ul>
+
+<p>Έτσι, ο ειλικρινής στόχος δεν είναι η μαγική ένταση που περιορίζει σε επίπεδο οδηγού. Είναι μια πρακτική, αξιόπιστη εξασθένηση ανά εφαρμογή: κρατήστε μια επιλεγμένη εφαρμογή σε ένα σταθερό κλάσμα της εξόδου του συστήματος, ώστε να μην σας εκπλήξει ποτέ.</p>
+
+<h2>Πώς να περιορίσετε τον όγκο μιας εφαρμογής με έναν μίκτη ανά εφαρμογή</h2>
+
+<p>Ένας μείκτης έντασης ήχου ανά εφαρμογή παρεμποδίζει τον ήχο κάθε εφαρμογής και σας επιτρέπει να ρυθμίσετε το επίπεδό της ανεξάρτητα. Εδώ είναι η ροή εργασίας με <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, που βρίσκεται στη γραμμή μενού:</p>
+
+<ul>
+<li><strong>Ανοίξτε το μίξερ.</strong> Κάντε κλικ στο εικονίδιο της γραμμής μενού SoundDial. Θα δείτε μια λίστα με κάθε εφαρμογή που παίζει ήχο αυτήν τη στιγμή, η καθεμία με το δικό της ρυθμιστικό.</li>
+<li><strong>Βρείτε τη δυνατή εφαρμογή.</strong> Εντοπίστε την εφαρμογή που θέλετε να ορίσετε, για παράδειγμα ένα παιχνίδι, ένα πρόγραμμα περιήγησης ή ένα εργαλείο τηλεδιάσκεψης.</li>
+<li><strong>Τοποθετήστε το ταβάνι του.</strong> Σύρετε το ρυθμιστικό αυτής της εφαρμογής στο ασφαλές επίπεδο σας, ας πούμε 35 έως 50 τοις εκατό. Αυτή η εφαρμογή παίζει τώρα σε αυτό το κλάσμα της εξόδου του συστήματος ενώ κάθε άλλη εφαρμογή παραμένει εκεί που ήταν.</li>
+<li><strong>Αφήστε τον όγκο του συστήματός σας όπου τον χρειάζεστε.</strong> Διατηρήστε το ρυθμιστικό συστήματος αρκετά ψηλά για τις αθόρυβες εφαρμογές σας. Η περιορισμένη εφαρμογή παραμένει περιορισμένη ανεξάρτητα.</li>
+</ul>
+
+<p>Επειδή το επίπεδο είναι ανά εφαρμογή, ουσιαστικά ορίζετε ένα μέγιστο για το συγκεκριμένο πρόγραμμα. Ακόμη και όταν προσπαθεί να παίξει το πιο δυνατό περιεχόμενό του, το πιο δυνατό είναι πλέον το επιλεγμένο κλάσμα πλήρους.</p>
+
+<h2>Κάντε το καπάκι να κολλήσει με προφίλ</h2>
+
+<p>Μια μεμονωμένη χειροκίνητη προσαρμογή βοηθάει, αλλά τα επίπεδα της εφαρμογής μπορούν να επαναφερθούν όταν τερματίσετε και επανεκκινήσετε. Για να δημιουργήσετε μια ρύθμιση ασφαλή για την ακοή που επιβιώνει στις επανεκκινήσεις, χρησιμοποιήστε <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>προφίλ τόμου του. Αποθηκεύστε ένα προφίλ με τα επίπεδα που προτιμάτε ανά εφαρμογή, για παράδειγμα "ήσυχη βραδιά παιχνιδιού" με το παιχνίδι στο 40 τοις εκατό, την εφαρμογή μουσικής στο 70 τοις εκατό και την εφαρμογή κλήσεων στο 90 τοις εκατό. Ανακαλέστε το με ένα κλικ όποτε καθίσετε. Το ανώτατο όριο για τη δυνατή εφαρμογή επιστρέφει ακριβώς όπως τη ρυθμίσατε.</p>
+
+<p>Δύο ακόμη χαρακτηριστικά αξίζει να γνωρίζετε για την προστασία της ακοής:</p>
+
+<ul>
+<li><strong>Σίγαση ανά εφαρμογή</strong> σάς επιτρέπει να θέσετε αμέσως σίγαση ενός μεμονωμένου παραβάτη χωρίς να αγγίξετε τίποτα άλλο, χρήσιμο για μια εφαρμογή που στέλνει ανεπιθύμητα δυνατές ειδοποιήσεις.</li>
+<li><strong>Αυτόματη πάπια</strong> βυθίζει αυτόματα τον ήχο παρασκηνίου όταν ξεκινά κάτι πιο σημαντικό, ώστε να μην παγιδεύεστε ανάμεσα σε δύο δυνατές πηγές ταυτόχρονα.</li>
+</ul>
+
+<blockquote><p>Η εξασθένηση λογισμικού είναι πραγματικά αποτελεσματική για τον περιορισμό μιας εφαρμογής, αλλά είναι ένα επίπεδο προστασίας και όχι ιατρική προστασία. Εάν έχετε εμβοές ή ευαισθησία στον ήχο, συνδυάστε μια οροφή ανά εφαρμογή με λογικά συνολικά επίπεδα ακρόασης και διαλείμματα. Καμία εφαρμογή δεν αντικαθιστά τις προσεκτικές συνήθειες έντασης.</p></blockquote>
+
+<h2>Μια σημείωση για την ενίσχυση και γιατί είναι ξεχωριστό</h2>
+
+<p>Ο ίδιος μίκτης ανά εφαρμογή που περιορίζει μια δυνατή εφαρμογή μπορεί επίσης να ενισχύσει μια πολύ αθόρυβη εφαρμογή πάνω από 100 τοις εκατό, κάτι που είναι βολικό για μια εφαρμογή της οποίας η ένταση του ήχου είναι πολύ χαμηλή. Αυτές είναι οι δύο πλευρές του ίδιου ελέγχου: εσείς αποφασίζετε το επίπεδο κάθε εφαρμογής, πάνω ή κάτω. Για προστασία της ακοής απλά επιλέγετε την κατεύθυνση «κάτω» και την κρατάτε εκεί.</p>
+
+<h2>Η σύντομη έκδοση</h2>
+
+<p>Το macOS δεν θα σας επιτρέψει να περιορίσετε τον όγκο μιας εφαρμογής από μόνο του και αυτό είναι ένα γνήσιο κενό στο λειτουργικό σύστημα και όχι ένα σφάλμα χρήστη. Μια γραμμή μενού ανά εφαρμογή μίκτη την κλείνει: ρυθμίστε την εφαρμογή δυνατά σε ένα σταθερό κλάσμα, αποθηκεύστε την σε ένα προφίλ και δεν θα μπορεί ποτέ να σας εκτινάξει ξανά, ενώ οι άλλες εφαρμογές σας ακούγονται.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι μια εφάπαξ αγορά 14,99 € στο Mac App Store, σε sandbox χωρίς προγράμματα οδήγησης ή DMG για εγκατάσταση. Εάν ο στόχος είναι να προστατεύσετε τα αυτιά σας από μια απρόβλεπτη εφαρμογή, είναι ο απλούστερος τρόπος για να ορίσετε αυτό το ανώτατο όριο και να το διατηρήσετε.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Διαφορετική ισορροπία αριστερά/δεξιά ανά εφαρμογή στο Mac — Είναι δυνατό;",
+    description: "Μπορείτε να ορίσετε διαφορετική ισορροπία αριστερά/δεξιά στερεοφωνικό για κάθε εφαρμογή στο macOS; Ειλικρινά, όχι — όχι εγγενώς και όχι με τα περισσότερα εργαλεία. Εδώ είναι τι είναι πραγματικά δυνατό και πού είναι τα πραγματικά όρια.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Ειλικρινά, όχι — Το macOS δεν σας επιτρέπει να ορίσετε διαφορετική ισορροπία αριστερού/δεξιού στερεοφωνικού ήχου ανά εφαρμογή και σχεδόν κανένα εργαλείο τρίτου κατασκευαστή δεν εκθέτει την πραγματική μετατόπιση ανά εφαρμογή. Μπορείτε να ορίσετε ένα συνολικό υπόλοιπο για τη συσκευή εξόδου σας και μπορείτε να ελέγχετε ανά εφαρμογή <em>όγκος</em>, αλλά ανεξάρτητο ανά εφαρμογή <em>τηγάνι</em> δεν είναι ένα χαρακτηριστικό που το macOS διαθέτει.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Διαφορετική ισορροπία αριστερά/δεξιά ανά εφαρμογή στο Mac — Είναι δυνατό;" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ισορροπία έναντι όγκου — δεν είναι το ίδιο πράγμα</h2>
+
+<p>Αξίζει να διαχωρίσετε δύο ιδέες που συχνά συγχέονται:</p>
+<ul>
+  <li><strong>Όγκος</strong> — πόσο δυνατή είναι μια εφαρμογή συνολικά. Αυτό είναι ένα ενιαίο επίπεδο που εφαρμόζεται και στα δύο κανάλια.</li>
+  <li><strong>Ισορροπία (τηγάνι)</strong> — πώς κατανέμεται ο ήχος μεταξύ του αριστερού και του δεξιού ηχείου. Μια ισορροπία "πλήρους αριστερά" στέλνει τα πάντα στο αριστερό κανάλι και σιγεί το δεξί.</li>
+</ul>
+
+<p>Τα άτομα που ζητούν "διαφορετική ισορροπία ανά εφαρμογή" συνήθως θέλουν ένα από τα δύο πράγματα: να ωθήσουν τον ήχο μιας εφαρμογής στο ένα αυτί (ας πούμε, μια κλήση στο αριστερό σας αυτί, τη μουσική στο δεξί σας) ή να διορθώσουν τη διαφορά ακοής ή ένα κακό ηχείο στη μία πλευρά — αλλά μόνο για ορισμένες εφαρμογές. Αυτοί είναι νόμιμοι στόχοι. Το πρόβλημα είναι πού ζει ο έλεγχος.</p>
+
+<h2>Γιατί το macOS δεν μπορεί να το κάνει αυτό εγγενώς</h2>
+
+<p>Το macOS έχει ακριβώς ένα χειριστήριο ισορροπίας και ζει στο επίπεδο της συσκευής εξόδου. Θα το βρείτε από κάτω <strong>Ρυθμίσεις συστήματος → Ήχος → Έξοδος</strong>, όπου α <em>Ισορροπία</em> Το ρυθμιστικό μετατοπίζει ολόκληρο το μείγμα προς τα αριστερά ή προς τα δεξιά. Σε ό,τι κι αν έχει οριστεί αυτό το ρυθμιστικό ισχύει <em>τα πάντα</em> δρομολογείται σε αυτήν τη συσκευή — κάθε εφαρμογή, κάθε ήχος συστήματος, όλα ταυτόχρονα.</p>
+
+<p>Δεν υπάρχει API στην τυπική στοίβα ήχου macOS που να λέει "απόδοση του ήχου αυτής της εφαρμογής στα αριστερά, αυτή η εφαρμογή στα δεξιά." Οι εφαρμογές παραδίδουν τον ήχο τους στο σύστημα που έχει ήδη ανακατευτεί και το σύστημα εφαρμόζει μια κύρια ισορροπία καθ' οδόν προς τα ηχεία. Έτσι, το επίπεδο στο οποίο θέλετε να μεταφερθείτε ανά εφαρμογή απλά δεν εκτίθεται από το λειτουργικό σύστημα. Αυτός είναι ένας γνήσιος περιορισμός του λειτουργικού συστήματος, όχι κάτι που μπορεί να επιλύσει ευγενικά ένα βοηθητικό πρόγραμμα γραμμής μενού.</p>
+
+<blockquote>Σε αντίθεση με την εφαρμογή ανά εφαρμογή <em>όγκος</em> — το οποίο το macOS στερείται επίσης εγγενώς, αλλά ποιες εφαρμογές μπορούν να εφαρμόσουν πατώντας τη ροή ήχου — ανά εφαρμογή <em>ισορροπία</em> θα απαιτούσε εκ νέου πανοραμική λήψη της ροής κάθε εφαρμογής ανεξάρτητα και αυτό το άγκιστρο δεν είναι διαθέσιμο σε εφαρμογές με περιβάλλον δοκιμών.</blockquote>
+
+<h2>Τι κάνει το SoundDial — και ειλικρινά, τι δεν κάνει</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> σας δίνει τον έλεγχο ανά εφαρμογή που λείπει το macOS: ανεξάρτητο <strong>όγκος</strong> για κάθε εφαρμογή που εκτελείται, ανά εφαρμογή <strong>σίγαση</strong>, έναν τόμο ανά εφαρμογή <strong>ώθηση</strong> άνω του 100%, αποθηκευμένος όγκος <strong>προφίλ</strong>, αυτόματη απομάκρυνση και γρήγορη εναλλαγή εξόδου από τη γραμμή μενού.</p>
+
+<p>Για να είμαι ευθύς μαζί σας: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> στοιχεία ελέγχου ανά εφαρμογή <em>ηχηρότητα και σίγαση</em>, όχι στερεοφωνικό ανά εφαρμογή <em>πανοραμική λήψη</em>. Δεν θα στείλει το Safari στο αριστερό σας αυτί και το Spotify στο δεξί σας. Αν κάποιος σας πει ότι ο μείκτης γραμμής μενού κάνει αληθινή ισορροπία L/R ανά εφαρμογή στο macOS, να είστε δύσπιστοι — αυτό δεν είναι έλεγχος που δίνει το λειτουργικό σύστημα. Αυτό που λύνει πραγματικά το SoundDial είναι η πολύ πιο κοινή απογοήτευση: μια εφαρμογή είναι πολύ δυνατή ή πολύ αθόρυβη σε σχέση με μια άλλη.</p>
+
+<h2>Οι πραγματικές λύσεις για το υπόλοιπο ανά εφαρμογή</h2>
+
+<p>Εάν χρειάζεστε πραγματικά διαχωρισμό ήχου δίπλα-δίπλα, εδώ είναι οι ειλικρινείς επιλογές, περίπου από τις απλούστερες έως τις πιο εμπλεκόμενες:</p>
+
+<ul>
+  <li><strong>Παγκόσμιο υπόλοιπο (όλες οι εφαρμογές):</strong> Χρησιμοποιήστε τις Ρυθμίσεις συστήματος → Ήχος → Έξοδος → Ισορροπία. Αυτή είναι η μόνη ενσωματωμένη επιλογή σας και επηρεάζει κάθε εφαρμογή. Χρήσιμο για τη διόρθωση ενός δωματίου ή μιας ασυμμετρίας ακοής, άχρηστο για την απομόνωση μιας εφαρμογής.</li>
+  <li><strong>Ξεχωριστές συσκευές εξόδου:</strong> Αυτό είναι το πιο κοντινό πράγμα στο πραγματικό υπόλοιπο ανά εφαρμογή. Δρομολογήστε την εφαρμογή Α σε μια συσκευή εξόδου και την εφαρμογή Β σε μια άλλη και, στη συνέχεια, ορίστε την ισορροπία κάθε συσκευής ανεξάρτητα. Το macOS σάς επιτρέπει να επιλέξετε μια συσκευή εξόδου μέσα σε ορισμένες εφαρμογές (και τα προγράμματα περιήγησης/εφαρμογές επικοινωνίας συχνά εκθέτουν το δικό τους εργαλείο επιλογής εξόδου). Εάν η εφαρμογή Α δείχνει μια συσκευή με μετατόπιση προς τα αριστερά και την εφαρμογή Β σε μια συσκευή με μετατόπιση δεξιά, λαμβάνετε ουσιαστικά το υπόλοιπο ανά εφαρμογή — εφόσον και οι δύο εφαρμογές σας επιτρέπουν να επιλέξετε την έξοδο τους.</li>
+  <li><strong>Εικονικά εργαλεία δρομολόγησης ήχου:</strong> Τα βοηθητικά προγράμματα που δημιουργούν εικονικές συσκευές και έναν εσωτερικό μίκτη μπορούν, σε ορισμένες διαμορφώσεις, να δρομολογούν συγκεκριμένες εφαρμογές σε συγκεκριμένα κανάλια. Αυτό είναι ισχυρό, αλλά δυσνόητο, προσθέτει ένα στοιχείο τύπου οδηγού και είναι υπερβολικό για τους περισσότερους ανθρώπους. Είναι ο τομέας των streamers και των μηχανικών ήχου, όχι μια περιστασιακή επιδιόρθωση "call in one ear".</li>
+  <li><strong>Διαχωρισμός υλικού:</strong> Εάν πρόκειται για φυσικά ηχεία ή για διαφορά ακοής, ένας μείκτης υλικού ή μια διεπαφή ήχου με έλεγχο ανά κανάλι παρακάμπτει εντελώς το πρόβλημα λογισμικού.</li>
+</ul>
+
+<h2>Όταν ο όγκος ανά εφαρμογή είναι πραγματικά αυτό που χρειάζεστε</h2>
+
+<p>Πολλά από τα αιτήματα "Θέλω διαφορετικό υπόλοιπο ανά εφαρμογή" είναι στην πραγματικότητα "μια εφαρμογή πνίγει την άλλη". Εάν ο στόχος είναι μια βιντεοκλήση που μπορείτε να ακούσετε μέσω της μουσικής σας ή ένα παιχνίδι που είναι πολύ δυνατό δίπλα σε μια συνομιλία Discord, η ισορροπία δεν είναι το εργαλείο — η ανεξάρτητη ένταση είναι. Αυτό ακριβώς χειρίζεται καθαρά ένας μίκτης ανά εφαρμογή, χωρίς εικονικούς οδηγούς ή γυμναστική δρομολόγησης.</p>
+
+<p>Έτσι, η ειλικρινής περίληψη: η πραγματική ισορροπία αριστερά/δεξιά ανά εφαρμογή δεν είναι μια δυνατότητα macOS και καμία εφαρμογή μίκτη δεν την παραποιεί πειστικά. Οι πραγματικές διαδρομές σας είναι το ρυθμιστικό καθολικού υπολοίπου ή η δρομολόγηση εξόδου ανά εφαρμογή σε συσκευές με χωριστή πανοραμική λήψη. Αλλά αν ο υποκείμενος πόνος είναι η σχετική ένταση, αυτό είναι ένα λυμένο πρόβλημα.</p>
+
+<p>Θέλετε ανεξάρτητη ένταση, σίγαση και ενίσχυση για κάθε εφαρμογή στο Mac, με αποθηκευμένα προφίλ και χωρίς προγράμματα οδήγησης; <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Αποκτήστε το SoundDial στο Mac App Store</a> — €14,99, εφάπαξ, σε sandbox.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Γιατί ορισμένες εφαρμογές είναι τόσο πιο δυνατές από άλλες στο Mac; (Και πώς να τα εξισορροπήσετε)",
+    description: "Οι εφαρμογές ακούγονται πολύ διαφορετικές στο Mac, επειδή η καθεμία έχει εξοικειωθεί με τον δικό της στόχο έντασης και το macOS δεν έχει ενσωματωμένο έλεγχο έντασης ήχου ανά εφαρμογή. Δείτε γιατί συμβαίνει αυτό και πώς να ισοπεδώσετε τις εφαρμογές σας.",
+    date: "2026-07-23",
+    readTime: "6 λεπτά ανάγνωση",
+    content: `<p>Οι εφαρμογές ακούγονται πολύ διαφορετικές στο Mac, επειδή καθεμία έχει δημιουργηθεί, κυριαρχήσει και κανονικοποιηθεί στον δικό της στόχο έντασης, και το macOS δεν έχει ενσωματωμένο έλεγχο έντασης ήχου ανά εφαρμογή για να τις εναρμονίσει. Οι ειδοποιήσεις Spotify, YouTube, Zoom και συστήματος περνούν από το ίδιο κύριο ρυθμιστικό, ώστε να κολλάτε να το οδηγείτε συνεχώς πάνω-κάτω.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Γιατί ορισμένες εφαρμογές είναι τόσο πιο δυνατές από άλλες στο Mac; (Και πώς να τα εξισορροπήσετε)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Δεν είναι το Mac σας — είναι ο ίδιος ο ήχος</h2>
+
+<p>Το ενιαίο ρυθμιστικό έντασης συστήματος στο macOS ελέγχει το τελικό επίπεδο εξόδου για τα πάντα. Δεν αγγίζει τη σχετική ένταση που ψήνεται στη ροή ήχου κάθε εφαρμογής. Αυτή η γραμμή βάσης ορίζεται πολύ πριν ο ήχος φτάσει στα ηχεία σας και διαφέρει πάρα πολύ από πηγή σε πηγή.</p>
+
+<p>Τρία πράγματα οδηγούν αυτές τις διαφορές:</p>
+
+<ul>
+<li><strong>Mastering επίπεδα.</strong> Ένα δυνατό ποπ κομμάτι είναι πολύ πιο καυτό από μια ήσυχη ακουστική ηχογράφηση ή ένα προφορικό podcast. Μια ταινία που αναμιγνύεται για σινεμά κρατά τους ψιθύρους σιωπηλούς και τις εκρήξεις δυνατές επίτηδες — αυτό είναι το δυναμικό εύρος και σημαίνει ότι το μέσο επίπεδο είναι χαμηλό.</li>
+<li><strong>Στόχοι κανονικοποίησης έντασης.</strong> Οι πλατφόρμες ροής προσαρμόζουν την αναπαραγωγή σε έναν στόχο που μετράται σε LUFS (Μονάδες έντασης σε σχέση με την πλήρη κλίμακα). Το Spotify στοχεύει περίπου -14 LUFS, το YouTube περίπου -14 LUFS, το Apple Music περίπου -16 LUFS. Μια εφαρμογή τηλεδιάσκεψης ή ένα παιχνίδι έχει το δικό της κέρδος εξ ολοκλήρου. Δύο εφαρμογές "κανονικοποιημένες" σε διαφορετικούς στόχους δεν θα ταιριάζουν ποτέ μεταξύ τους.</li>
+<li><strong>Χωρίς ισοπέδωση μεταξύ εφαρμογών.</strong> Κάθε εφαρμογή κανονικοποιεί μόνο το δικό της περιεχόμενο. Τίποτα δεν συντονίζει το Spotify έναντι του Zoom έναντι ενός παιχνιδιού προγράμματος περιήγησης. Το macOS απλώς τα αθροίζει και στέλνει τη μίξη.</li>
+</ul>
+
+<h2>Γιατί το LUFS έχει σημασία (με απλούς όρους)</h2>
+
+<p>Το επίπεδο κορυφής σάς λέει την πιο δυνατή στιγμή σε ένα σήμα. Το LUFS σας λέει πόσο δυνατά είναι κάτι στην πραγματικότητα <em>αισθάνεται</em> με την πάροδο του χρόνου, σταθμισμένο για το πώς λειτουργεί η ανθρώπινη ακοή. Αυτή η διάκριση είναι γιατί ένα podcast και ένα χορευτικό κομμάτι μπορούν να φτάσουν στην ίδια κορυφή, αλλά να νιώθουν κόσμο χώρια σε ένταση - το κομμάτι περνά πολύ περισσότερο χρόνο κοντά στο ταβάνι του.</p>
+
+<blockquote>Ένας πιο αθόρυβος στόχος LUFS σημαίνει περισσότερο χώρο για το κεφάλι και πιο δυναμική εμβέλεια. Ένας πιο δυνατός στόχος σημαίνει έναν πιο συνεπή, "πάντα γεμάτο" τοίχο ήχου. Κανένα από τα δύο δεν είναι λάθος - αλλά όταν οι εφαρμογές στοχεύουν διαφορετικούς αριθμούς, το νιώθετε σαν μια εφαρμογή να ουρλιάζει και μια άλλη να μουρμουρίζει.</blockquote>
+
+<p>Αυτή είναι η ειλικρινής βασική αιτία. Δεν είναι ένα σφάλμα που μπορείτε να διορθώσετε. Είναι η φυσική του τρόπου με τον οποίο παράγεται και παραδίδεται ο ήχος, πολλαπλασιασμένος σε δώδεκα εφαρμογές που δεν σχεδιάστηκαν ποτέ για να συμφωνούν μεταξύ τους.</p>
+
+<h2>Το κενό macOS αφήνει ανοιχτό</h2>
+
+<p>Αυτό είναι το μέρος που πραγματικά απογοητεύει τους ανθρώπους: Η Windows έχει στείλει ένα Volume Mixer ανά εφαρμογή εδώ και χρόνια. Μπορείτε να τραβήξετε μια εφαρμογή προς τα κάτω και να σπρώξετε μια άλλη προς τα πάνω, απευθείας από τη γραμμή εργασιών. Το macOS δεν το έχει συμπεριλάβει ποτέ. Οι προτιμήσεις ήχου σάς δίνουν μόνο το κύριο ρυθμιστικό και την επιλογή συσκευής εξόδου.</p>
+
+<p>Έτσι, σε ένα Mac οι επιλογές σας ήταν παραδοσιακά περιορισμένες:</p>
+
+<ul>
+<li>Προσαρμόστε το εσωτερικό ρυθμιστικό έντασης κάθε εφαρμογής — αν έχει καν. Πολλές εφαρμογές (Zoom, τα περισσότερα παιχνίδια, κουδούνια συστήματος) δεν εκθέτουν μια χρησιμοποιήσιμη.</li>
+<li>Οδηγήστε το κύριο ρυθμιστικό χειροκίνητα κάθε φορά που αλλάζετε περιβάλλον.</li>
+<li>Σίγασε ένα πράγμα εντελώς, το οποίο είναι μια αμβλεία επιδιόρθωση που στην πραγματικότητα δεν εξισορροπεί τίποτα.</li>
+</ul>
+
+<p>Κανένα από αυτά δεν θυμάται την προτίμησή σας. Κλείστε και επανεκκινήστε την εφαρμογή και θα επιστρέψετε στην αρχή.</p>
+
+<h2>Η πρακτική λύση: ένας απομνημονευμένος τόμος ανά εφαρμογή</h2>
+
+<p>Δεδομένου ότι δεν μπορείτε να αναγκάσετε κάθε υπηρεσία να επανεξετάσει τον κατάλογό της, η εφαρμόσιμη λύση είναι να προσθέσετε το επίπεδο που λείπει. Αυτό ακριβώς είναι <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> κάνει. Ζει στη γραμμή μενού σας και δίνει σε κάθε εφαρμογή που εκτελείται το δικό της ρυθμιστικό, ώστε να μπορείτε να τραβήξετε το δυνατό προς τα κάτω και να σπρώξετε το αθόρυβο προς τα πάνω μέχρι να καθίσουν σε ένα επίπεδο που να αισθάνεστε ακόμα.</p>
+
+<p>Για να εξομαλύνετε τις εφαρμογές σας στην πράξη:</p>
+
+<ul>
+<li>Ανοίξτε <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> από τη γραμμή μενού και θα δείτε κάθε ενεργή εφαρμογή με τον δικό της έλεγχο.</li>
+<li>Μειώστε ό,τι εκτινάζει —συνήθως μια εφαρμογή μουσικής ή βίντεο που κυριαρχείται σε καυτά επίπεδα— σε περίπου 60-70%.</li>
+<li>Αφήστε την αθόρυβη εφαρμογή αναφοράς σας (συχνά μια εφαρμογή κλήσεων ή podcast) στο 100% και χρησιμοποιήστε ανά εφαρμογή <strong>ώθηση</strong> για να το ξεπεράσετε το 100% αν είναι ακόμα πολύ μαλακό.</li>
+<li>Ρυθμίστε τα επίπεδα μία φορά. Το SoundDial θυμάται τον τόμο κάθε εφαρμογής, επομένως το υπόλοιπο διατηρείται την επόμενη φορά που θα το ανοίξετε.</li>
+</ul>
+
+<p>Δύο χαρακτηριστικά κάνουν το μεγαλύτερο μέρος της εργασίας ισοπέδωσης εδώ. <strong>Ενίσχυση</strong> έχει σημασία γιατί πολλές εφαρμογές είναι απλά πολύ αθόρυβες, ακόμη και στο μέγιστο - ένα ρυθμιστικό ανά εφαρμογή που μειώνει μόνο τον όγκο δεν μπορεί να τις σώσει, αλλά ένα που μπορεί να ενισχύσει το 100%. Και <strong>προφίλ όγκου</strong> σάς επιτρέπει να αποθηκεύσετε ένα ολόκληρο σύνολο επιπέδων - ας πούμε, ένα προφίλ "εστίαση μουσικής χαμηλά, κλήσεις δυνατά" για εργασία έναντι μιας διαφορετικής μίξης για παιχνίδια - και να κάνετε εναλλαγή μεταξύ τους αμέσως αντί να προσαρμόζετε ξανά εφαρμογή ανά εφαρμογή.</p>
+
+<h2>Όπου αυτό βοηθάει περισσότερο</h2>
+
+<p>Η πιο συνηθισμένη ανακούφιση είναι το άλμα μουσικής εναντίον συνάντησης: η ροή μουσικής ελέγχεται δυνατά και μετά μια εφαρμογή κλήσης που ακούγεται αμυδρή συγκριτικά. Ρυθμίστε την εφαρμογή κλήσης υψηλότερα (ή ενισχυμένη), τραβήξτε τη μουσική προς τα κάτω και η εκπληκτική εναλλαγή της έντασης εξαφανίζεται. Το ίδιο ισχύει για ένα αθόρυβο παιχνίδι προγράμματος περιήγησης ενάντια σε ένα δυνατό πρόγραμμα αναπαραγωγής βίντεο ή ειδοποιήσεις συστήματος που ξεπερνούν τα πάντα.</p>
+
+<p>Για να είμαστε σαφείς σχετικά με τα όρια: Το SoundDial εξισορροπεί την έξοδο των εφαρμογών σας. Δεν θα ανακατασκευάσει ένα κομμάτι με κακή παραγωγή και δεν μπορεί να εφεύρει λεπτομέρειες στον ήχο που συνδυάζεται με πολύ μεγάλο δυναμικό εύρος. Αυτό που κάνει είναι να σας προσφέρει τον μοναδικό έλεγχο macOS που παραλείπεται — σταθερά επίπεδα ανά εφαρμογή που παραμένουν σταθερά.</p>
+
+<p>Κουραστήκατε να χρησιμοποιείτε το κύριο ρυθμιστικό κάθε φορά που αλλάζετε εφαρμογές; <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> είναι ένα εφάπαξ ποσό 14,99 € στο Mac App Store — σε sandbox, χωρίς προγράμματα οδήγησης, χωρίς DMG — και τελικά δίνει σε κάθε εφαρμογή τον δικό της όγκο που θυμάται.</p>`,
   },
 };

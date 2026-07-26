@@ -40,7 +40,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda membina persekitaran rakaman yang bersih dengan mengawal setiap aplikasi secara bebas:</p>
 
-<img src="/apps/sounddial.png" alt="Persediaan podcasting SoundDial — audio tetamu, pemantauan, dan pemberitahuan pada tahap bebas" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Persediaan podcasting SoundDial — audio tetamu, pemantauan, dan pemberitahuan pada tahap bebas" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Profil rakaman</h3>
 <ul>
@@ -98,7 +98,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi setiap aplikasi peluncur kelantangannya sendiri dengan <strong>kenaikan 1%</strong> dari 0% hingga 200%. Itu 200 tahap ketepatan per aplikasi, berbanding 16 (atau 64 dengan pengubah suai) langkah seluruh sistem macOS.</p>
 
-<img src="/apps/sounddial.png" alt="Kawalan kelantangan per-aplikasi SoundDial yang halus dengan ketepatan 1% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Kawalan kelantangan per-aplikasi SoundDial yang halus dengan ketepatan 1% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tetapkan kelantangan sistem anda ke tahap asas sederhana (50-60%), kemudian gunakan SoundDial untuk menala halus setiap aplikasi:</p>
 <ul>
@@ -149,7 +149,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi Slack peluncur kelantangannya sendiri, berasingan daripada setiap aplikasi lain. Oleh kerana audio huddle Slack dan bunyi pemberitahuan adalah sebahagian daripada aplikasi yang sama, peluncur mengawal kedua-duanya — tetapi itulah yang anda mahu kebanyakan masa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengawal kelantangan Slack secara bebas semasa huddle sambil muzik dimainkan pada tahap berbeza" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengawal kelantangan Slack secara bebas semasa huddle sambil muzik dimainkan pada tahap berbeza" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Persediaan dioptimumkan untuk huddle</h3>
 <ul>
@@ -198,7 +198,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> mempunyai <strong>kelantangan lalai yang boleh dikonfigurasi</strong> untuk aplikasi baharu. Dalam tetapan, anda menetapkan tahap kelantangan yang sepatutnya aplikasi yang baru dikesan bermula — contohnya, 70%. Kali pertama mana-mana aplikasi dilancarkan dan menghasilkan audio, SoundDial menetapkannya ke 70% dan bukannya 100%.</p>
 
-<img src="/apps/sounddial.png" alt="Tetapan kelantangan lalai SoundDial — aplikasi baharu bermula pada tahap yang dikonfigurasi dan bukannya kelantangan penuh" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Tetapan kelantangan lalai SoundDial — aplikasi baharu bermula pada tahap yang dikonfigurasi dan bukannya kelantangan penuh" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini bermakna:</p>
 <ul>
@@ -253,7 +253,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi setiap aplikasi pada Mac anda peluncur kelantangannya sendiri. Tetapkan aplikasi pemberitahuan rendah, muzik pada tahap yang selesa, dan panggilan pada kelantangan penuh — semuanya secara bebas. Simpan konfigurasi sebagai profil dan tukar dengan satu klik.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — kawalan kelantangan per-aplikasi untuk menguruskan semua sumber audio Mac secara bebas" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kawalan kelantangan per-aplikasi untuk menguruskan semua sumber audio Mac secara bebas" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Dapatkan SoundDial di Mac App Store</a> — €14.99 pembelian sekali, tiada langganan, macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const msArticles: ArticleSet = {
 
 <p>Jika tetapan dimaksimumkan dan peserta masih terlalu perlahan, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan Webex ke <strong>200%</strong>. Ini menguatkan audio panggilan melebihi maksimum terbina dalam Webex — berguna apabila peserta mempunyai mikrofon yang lemah atau apabila pemprosesan audio Webex mengurangkan isyarat terlalu banyak.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan panggilan Cisco Webex melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan panggilan Cisco Webex melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial juga membantu semasa mesyuarat Webex berturut-turut: gunakan auto-ducking untuk menurunkan muzik latar belakang anda secara automatik apabila setiap mesyuarat bermula, dan memulihkannya semasa rehat. Simpan profil kelantangan "Mesyuarat" untuk menetapkan keseimbangan audio pilihan anda dengan serta-merta untuk hari bekerja.</p>
 
@@ -347,7 +347,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> meletakkan setiap aplikasi dalam satu panel bar menu dengan peluncur kelantangan bebas. Kedua-dua sumber audio, bersebelahan, setiap satu dengan tahapnya sendiri. Laraskan satu tanpa menyentuh yang lain.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menunjukkan dua sumber audio pada tahap kelantangan berbeza pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menunjukkan dua sumber audio pada tahap kelantangan berbeza pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Contoh persediaan:</p>
 
@@ -411,7 +411,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda mencipta persediaan lewat malam yang sempurna:</p>
 
-<img src="/apps/sounddial.png" alt="Persediaan filem lewat malam SoundDial — aplikasi penstriman pada kelantangan sederhana, pemberitahuan disenyapkan" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Persediaan filem lewat malam SoundDial — aplikasi penstriman pada kelantangan sederhana, pemberitahuan disenyapkan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Profil filem lewat malam</h3>
 <ul>
@@ -473,7 +473,7 @@ export const msArticles: ArticleSet = {
 
 <p>Walaupun kelantangan sistem ditetapkan semula selepas tidur, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> melindungi keseimbangan kelantangan <em>per-aplikasi</em> anda. Ciri <strong>memori kelantangan</strong>nya menyimpan kelantangan setiap aplikasi secara bebas dan memulihkannya selepas bangun, mula semula, atau pelancaran semula aplikasi.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengekalkan tahap kelantangan per-aplikasi selepas kitaran tidur dan bangun Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengekalkan tahap kelantangan per-aplikasi selepas kitaran tidur dan bangun Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Jadi walaupun macOS menetapkan semula kelantangan sistem ke 80% selepas tidur, keseimbangan per-aplikasi anda kekal utuh:</p>
 <ul>
@@ -518,7 +518,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda menetapkan kelantangan tepat untuk setiap aplikasi secara bebas:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial memisahkan output DAW dari Discord dan trek rujukan pada macOS untuk pengeluaran muzik" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial memisahkan output DAW dari Discord dan trek rujukan pada macOS untuk pengeluaran muzik" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Persediaan pengeluaran</h3>
 <ul>
@@ -586,7 +586,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan Apple Music ke <strong>200%</strong>. Isyarat audio dikuatkan pada tahap sistem sebelum ia sampai ke pembesar suara atau fon kepala anda. Hanya Apple Music yang menjadi lebih kuat — Zoom, Slack, dan pelayar anda kekal pada tahap semasa mereka.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Apple Music melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Apple Music melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini juga berguna untuk masalah sebaliknya: jika Apple Music terlalu kuat berbanding panggilan Zoom anda, turunkan Apple Music ke 25% dalam SoundDial sambil mengekalkan Zoom pada 100%. Kawalan per-aplikasi bermakna anda tidak perlu berkompromi dengan kelantangan satu aplikasi untuk yang lain.</p>
 
@@ -666,7 +666,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> berharga €14.99 — sekali sahaja, bukan langganan. Untuk konteks, itu kurang daripada dua bulan langganan Spotify, untuk alat yang akan anda gunakan setiap hari. Ia kurang daripada separuh harga SoundSource ($39), dan termasuk ciri (profil, auto-ducking) yang SoundSource tidak ada.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — pengadun kelantangan per-aplikasi yang boleh dipercayai untuk Mac dengan profil, auto-ducking, dan peningkatan 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — pengadun kelantangan per-aplikasi yang boleh dipercayai untuk Mac dengan profil, auto-ducking, dan peningkatan 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tersedia di <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — disemak Apple, kotak pasir, tiada pemacu sistem. €14.99 sekali sahaja, tiada langganan, macOS 14.2+.</p>
 `,
@@ -700,7 +700,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> meletakkan kedua-dua Spotify dan Discord dalam panel yang sama dengan peluncur kelantangan bebas. Tetapkan nisbah yang anda mahu dan biarkan:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengimbangi Spotify dan Discord pada tahap kelantangan yang berbeza pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengimbangi Spotify dan Discord pada tahap kelantangan yang berbeza pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Nisbah emas untuk muzik + sembang suara</h3>
 <p>Berdasarkan cara kebanyakan orang menggunakan ini:</p>
@@ -805,7 +805,7 @@ export const msArticles: ArticleSet = {
 
 <p>Kelima-lima ini tersedia dengan <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — aplikasi bar menu macOS asli yang menambah pengadun kelantangan yang Apple tidak pernah bina.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — kawalan kelantangan per-aplikasi, profil, auto-ducking, dan peningkatan 200% untuk macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kawalan kelantangan per-aplikasi, profil, auto-ducking, dan peningkatan 200% untuk macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Bahagian 6: Kelantangan per-aplikasi dengan SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const msArticles: ArticleSet = {
 
 <p>Ini ialah penguatan yang melampau dan akan memperkenalkan herotan pada sesetengah kandungan, tetapi untuk bahan sumber yang sangat senyap ia mungkin yang anda perlukan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan VLC pada tahap sistem pada macOS untuk fail video yang senyap" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan VLC pada tahap sistem pada macOS untuk fail video yang senyap" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Lebih penting lagi, SoundDial membolehkan anda meningkatkan VLC <strong>secara bebas</strong>. Pemain muzik, pelayar, dan aplikasi komunikasi anda kekal pada tahap biasa mereka manakala hanya VLC menjadi lebih kuat. Jika anda meningkatkan VLC ke 180% dalam SoundDial, Spotify tidak berubah. Ini sesuatu yang peningkatan terbina dalam VLC tidak boleh lakukan — peningkatan VLC hanya mempengaruhi VLC, tetapi kelantangan sistem tunggal macOS masih mengikat segala-galanya bersama.</p>
 
@@ -924,7 +924,7 @@ export const msArticles: ArticleSet = {
   <li><strong>Togol mudah:</strong> Hidupkan atau matikan auto-ducking dalam tetapan SoundDial. Apabila anda tidak mahukannya, lumpuhkan. Apabila anda mahukannya kembali, aktifkan.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="Auto-ducking boleh dikonfigurasi SoundDial — kawal dengan tepat berapa banyak audio latar belakang diturunkan semasa panggilan" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Auto-ducking boleh dikonfigurasi SoundDial — kawal dengan tepat berapa banyak audio latar belakang diturunkan semasa panggilan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Perbezaannya: dan bukannya sesetengah aplikasi memutuskan muzik anda harus turun ke sifar semasa setiap panggilan, anda memutuskan ia harus turun ke 25%. Dan bukannya kehilangan kawalan, anda mendapatnya. Dan bukannya cuba melumpuhkan ciri tersembunyi dalam tiga aplikasi berbeza, anda mempunyai satu togol di satu tempat.</p>
 
@@ -987,7 +987,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> meningkatkan kelantangan mana-mana aplikasi sehingga <strong>200%</strong>. Jika Spotify melalui fon kepala Bluetooth anda terlalu perlahan, seret peluncurnya ke 160%. Isyarat audio dikuatkan sebelum ia sampai ke fon kepala anda, dengan berkesan menggandakan kelantangan yang tersedia untuk aplikasi itu.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan aplikasi untuk fon kepala Bluetooth pada Mac dengan peluncur per-aplikasi ke 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan aplikasi untuk fon kepala Bluetooth pada Mac dengan peluncur per-aplikasi ke 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Peningkatan per-aplikasi lebih baik daripada peningkatan kelantangan seluruh sistem kerana anda hanya boleh menguatkan aplikasi yang perlahan. Jika podcast anda perlahan tetapi muzik baik, tingkatkan aplikasi podcast ke 170% sambil mengekalkan Spotify pada 80%. Setiap aplikasi kekal pada tahap yang betul.</p>
 
@@ -1024,7 +1024,7 @@ export const msArticles: ArticleSet = {
 
 <p>Inilah yang <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lakukan. Tetapkan setiap aplikasi ke tahap yang anda mahu penonton anda dengar:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengimbangi tahap audio permainan, Discord, dan muzik untuk penstriman OBS pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengimbangi tahap audio permainan, Discord, dan muzik untuk penstriman OBS pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Persediaan audio penstriman biasa</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> mempunyai ciri <strong>Memori Kelantangan</strong>. Apabila diaktifkan, ia menyimpan tahap kelantangan setiap aplikasi mengikut pengecam bundlenya. Apabila aplikasi ditutup dan dilancarkan semula — sama ada anda memulakannya semula, ia ranap, atau anda memulakan semula Mac anda — SoundDial secara automatik memulihkannya ke kelantangan yang disimpan.</p>
 
-<img src="/apps/sounddial.png" alt="Memori kelantangan SoundDial — mengingati dan memulihkan tahap kelantangan per-aplikasi pada macOS secara automatik" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Memori kelantangan SoundDial — mengingati dan memulihkan tahap kelantangan per-aplikasi pada macOS secara automatik" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Cara ia berfungsi</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const msArticles: ArticleSet = {
 
 <p>Pembetulan universal ialah menguatkan aplikasi podcast anda melebihi had 100% macOS. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi setiap aplikasi peluncur kelantangan sehingga <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Apple Podcasts ke 180% pada Mac untuk episod podcast yang senyap" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Apple Podcasts ke 180% pada Mac untuk episod podcast yang senyap" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tetapkan Apple Podcasts atau aplikasi podcast anda ke 160-180% sambil mengekalkan muzik Spotify pada 40% dan Slack pada 15%. Podcast menjadi lebih kuat tanpa menjadikan segala-galanya lebih menyakitkan telinga. Apabila anda beralih kembali ke muzik, turunkan sahaja aplikasi podcast kembali ke normal — atau biarkan memori kelantangan SoundDial mengingatinya secara automatik.</p>
 
@@ -1189,7 +1189,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi setiap aplikasi peluncur kelantangannya sendiri, supaya anda boleh membina persediaan audio belajar yang ideal:</p>
 
-<img src="/apps/sounddial.png" alt="Persediaan pelajar SoundDial — kuliah pada kelantangan penuh, muzik belajar rendah, pemberitahuan disenyapkan" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Persediaan pelajar SoundDial — kuliah pada kelantangan penuh, muzik belajar rendah, pemberitahuan disenyapkan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Profil kuliah</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const msArticles: ArticleSet = {
     readTime: "7 min baca",
     content: `
 <p>Anda mengemas kini macOS. Semuanya kelihatan baik — sehingga anda perasan tiada bunyi. Atau bunyi berkeriut. Atau kelantangan tersekat. Atau peranti output audio anda hilang. Isu audio pasca-kemas kini berlaku dengan hampir setiap keluaran macOS, dan ia berjulat dari sedikit menjengkelkan hingga senyap sepenuhnya.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Inilah panduan sistematik untuk memperbaiki audio Mac selepas kemas kini macOS, meliputi setiap isu dan penyelesaian yang diketahui.</p>
 
@@ -1335,7 +1338,7 @@ export const msArticles: ArticleSet = {
   <li>Spotify kembali ke 30%, Zoom ke 100%, Slack ke 15% — dipulihkan dengan sempurna</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="Pintasan senyap-semua SoundDial — Control+Option+M untuk menyenyapkan dan menyahsenyapkan semua aplikasi dengan pemulihan kelantangan" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Pintasan senyap-semua SoundDial — Control+Option+M untuk menyenyapkan dan menyahsenyapkan semua aplikasi dengan pemulihan kelantangan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Perbezaan daripada kekunci senyap sistem:</p>
 <ul>
@@ -1399,7 +1402,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberikan setiap aplikasi peluncur kelantangannya sendiri. Anda boleh menetapkan aplikasi yang penuh pemberitahuan kepada tahap yang halus yang ketara tetapi tidak mengganggu, sambil mengekalkan aplikasi media pada kelantangan mendengar yang selesa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial memisahkan kelantangan aplikasi pemberitahuan daripada kelantangan aplikasi media pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial memisahkan kelantangan aplikasi pemberitahuan daripada kelantangan aplikasi media pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Contoh persediaan</h3>
 <p><strong>Aplikasi media:</strong></p>
@@ -1470,7 +1473,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi Chrome peluncur kelantangannya sendiri yang naik sehingga <strong>200%</strong>. Oleh kerana Google Meet berjalan dalam Chrome, meningkatkan Chrome meningkatkan Meet. Seret peluncur ke 150% atau 180% dan audio panggilan dikuatkan dalam masa nyata.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Google Meet (Chrome) melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Google Meet (Chrome) melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini juga berfungsi dengan Safari jika anda menggunakan Meet dalam Safari. SoundDial mengawal setiap pelayar secara bebas — tingkatkan Safari untuk Meet sambil mengekalkan Chrome pada kelantangan normal untuk segala-galanya.</p>
 
@@ -1523,7 +1526,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan kelantangan FaceTime sehingga <strong>200%</strong>. Buka panel bar menu, cari FaceTime dan seret gelangsarnya melepasi 100%. Audio panggilan dikuatkan dalam masa nyata tanpa menjejaskan mana-mana apl lain.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan volum panggilan FaceTime melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan volum panggilan FaceTime melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial juga membantu sebaliknya: jika nada dering atau bunyi pemberitahuan FaceTime terlalu kuat semasa masa fokus, turunkan FaceTime kepada 20% atau bisukannya sambil memastikan muzik anda dimainkan. Satu klik untuk membisukan, satu klik untuk menyahredamkan.</p>
 
@@ -1577,7 +1580,7 @@ export const msArticles: ArticleSet = {
 <h3>Bisukan semua apl: Kawalan + Opsyen + M</h3>
 <p>Akhbar <strong>⌃⌥M</strong> untuk meredamkan audio setiap apl serta-merta. Tekan sekali lagi untuk menyahredamkan segala-galanya, memulihkan setiap apl kepada kelantangan sebelumnya. Ini ialah butang "senyap segera" yang lebih pantas daripada mencapai kekunci bisu — dan tidak seperti kekunci bisu sistem, ia memulihkan kelantangan setiap apl apabila anda menyahredamkan.</p>
 
-<img src="/apps/sounddial.png" alt="Pintasan papan kekunci SoundDial — Kawalan + Pilihan + S untuk togol, Kawalan + Pilihan + M untuk meredamkan semua" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="Pintasan papan kekunci SoundDial — Kawalan + Pilihan + S untuk togol, Kawalan + Pilihan + M untuk meredamkan semua" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Aliran kerja dipacu papan kekunci</h2>
 
@@ -1642,7 +1645,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> menggunakan API Audio Tap moden — tiada peranti audio maya, tiada pemacu sistem, tiada sambungan kernel. Ia mengetuk strim audio setiap apl secara langsung menggunakan API yang disokong Apple, yang bermaksud ia tidak rosak apabila macOS kemas kini.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — alternatif Muzik Latar Belakang yang tidak memasang peranti audio maya" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — alternatif Muzik Latar Belakang yang tidak memasang peranti audio maya" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Apa yang anda dapat daripada Muzik Latar Belakang:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const msArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — alternatif SoundSource yang lebih ringan dan fokus dengan profil kelantangan dan auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — alternatif SoundSource yang lebih ringan dan fokus dengan profil kelantangan dan auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Mana yang patut anda pilih?</h2>
 
@@ -1809,7 +1812,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi anda peluncur kelantangan setiap apl dengan kawalan terperinci — setiap gelangsar bergerak dalam kenaikan 1% daripada 0% kepada 200%. Anda boleh menetapkan Spotify kepada 5% dan Zum kepada 40% pada masa yang sama. Tahap kawalan secara dramatik lebih halus daripada 16 langkah sistem macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial kawalan kelantangan setiap apl yang terperinci dengan kenaikan 1% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial kawalan kelantangan setiap apl yang terperinci dengan kenaikan 1% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Untuk penggunaan fon kepala larut malam:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const msArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>Satu AirPod kedengaran baik. Yang lain kelihatan lebih senyap. Muzik terasa di luar pusat. Suara kedengaran seperti datang dari satu sisi. Ini adalah salah satu aduan AirPods yang paling biasa, dan ia biasanya mempunyai penyelesaian mudah.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Bersihkan AirPods anda</h2>
 
@@ -1948,7 +1954,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda menggalakkan mana-mana apl untuk <strong>200%</strong>. Jika Safari atau apl Netflix terlalu senyap, seret gelangsarnya melepasi 100%. Audio dikuatkan sebelum ia sampai ke pembesar suara anda, dengan berkesan menggandakan kelantangan maksimum untuk apl itu sahaja.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan audio Netflix kepada 180% pada Mac untuk dialog yang lebih jelas dan audio penstriman" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan audio Netflix kepada 180% pada Mac untuk dialog yang lebih jelas dan audio penstriman" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini amat berguna apabila:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> mengisi jurang ini dengan memberikan setiap apl peluncur kelantangannya sendiri. Sediakan audio kerja jauh anda dengan tepat seperti yang anda mahukan:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial persediaan audio kerja jauh — tahap kelantangan yang berbeza untuk Zoom, Spotify dan Slack pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial persediaan audio kerja jauh — tahap kelantangan yang berbeza untuk Zoom, Spotify dan Slack pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Simpan profil untuk setiap mod</h3>
 
@@ -2126,7 +2132,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberikan penyemak imbas anda peluncur kelantangannya sendiri, bebas daripada setiap apl lain. Turunkan Safari kepada 30% sambil mengekalkan Zum pada 100%. Bisukan Chrome sepenuhnya sambil memastikan Spotify dimainkan. Satu klik.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengawal kelantangan penyemak imbas secara bebas daripada apl lain pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengawal kelantangan penyemak imbas secara bebas daripada apl lain pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini ialah cara terpantas untuk mengendalikan tab main automatik yang mengejutkan: daripada memburu tab mana yang membuat bising, klik SoundDial dalam bar menu dan bisukan penyemak imbas. Segala-galanya terus dimainkan. Apabila anda telah menemui dan menutup tab yang menyinggung perasaan, nyahredamkan penyemak imbas dan kelantangannya kembali ke tempat asalnya.</p>
 
@@ -2168,7 +2174,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberikan Discord gelangsar kelantangannya sendiri dalam bar menu anda, bebas daripada setiap apl lain. Tetapkan Discord ke tahap yang anda mahukan — 100% untuk sembang suara yang jelas, 40% untuk latar belakang halus atau disenyapkan sepenuhnya — tanpa menyentuh permainan, muzik atau apa-apa lagi anda.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengawal kelantangan Discord secara bebas daripada permainan dan muzik pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengawal kelantangan Discord secara bebas daripada permainan dan muzik pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Persediaan biasa</h3>
 
@@ -2244,7 +2250,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Termasuk pemilih peranti output terus dalam pop timbul bar menunya — bersama peluncur kelantangan setiap apl anda. Satu klik untuk membuka SoundDial, satu klik untuk menukar peranti. Tiada menggali Tetapan Sistem.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial dengan penukaran peranti output audio dan kawalan kelantangan setiap apl dalam satu panel bar menu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial dengan penukaran peranti output audio dan kawalan kelantangan setiap apl dalam satu panel bar menu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Kelebihan menukar peranti di dalam SoundDial: anda boleh menukar output anda <em>dan</em> laraskan volum setiap apl dalam panel yang sama. Tukar kepada AirPods dan segera turunkan Spotify sambil meningkatkan panggilan anda — semuanya tanpa meninggalkan popover.</p>
 
@@ -2262,6 +2268,9 @@ export const msArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>Anda mendengar muzik dan mendengar letupan. Kemudian berderak. Kemudian kegagapan di mana audio terputus selama sepersekian saat dan kembali. Ia bukan lagu - ia Mac anda. Berderak audio pada macOS adalah perkara biasa, dan ia mempunyai sekurang-kurangnya enam sebab yang berbeza.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Panduan ini merangkumi setiap punca audio yang diketahui berderak, meletup dan gagap pada Mac, daripada pembetulan perisian kepada satu isu perkakasan yang perlu anda ketahui.</p>
 
@@ -2389,7 +2398,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan kelantangan mana-mana apl kepada <strong>200%</strong>, termasuk Microsoft Teams. Seret gelangsar Pasukan kepada 150% atau 180% dan audio dikuatkan dalam masa nyata. Hanya Pasukan menjadi lebih kuat — muzik, penyemak imbas dan apl lain anda kekal pada tahap semasa mereka.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan volum panggilan Microsoft Teams melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan volum panggilan Microsoft Teams melebihi 100% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial juga membantu dengan masalah terbalik: jika bunyi pemberitahuan Pasukan terlalu kuat semasa masa fokus, turunkan Pasukan kepada 15% atau bisukannya sepenuhnya sambil memastikan muzik anda dimainkan. Satu klik untuk membisukan, satu klik untuk menyahredamkan.</p>
 
@@ -2405,6 +2414,9 @@ export const msArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Anda sedang dalam panggilan video. Kendur terus berbunyi. Muzik dimainkan di latar belakang. Anda mencapai kekunci kelantangan dan — semuanya menjadi lebih senyap. Panggilan, muzik, pemberitahuan. macOS mempunyai tepat satu peluncur kelantangan, dan ia mengawal segala-galanya sekaligus.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows telah mempunyai pengadun kelantangan setiap apl sejak Vista pada tahun 2006. Dua puluh tahun kemudian, macOS masih tidak. Jika anda ingin menolak Spotify tanpa menjejaskan panggilan Zoom anda, Apple tidak mempunyai jawapan terbina dalam untuk anda.</p>
 
@@ -2512,7 +2524,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberikan Slack peluncur kelantangan bebasnya sendiri. Tetapkannya ke mana-mana tahap yang sesuai untuk anda — atau bisukannya sepenuhnya dengan satu klik. Apabila anda sudah bersedia untuk memberi perhatian kepada Slack sekali lagi, nyahredamkannya dan kelantangan kembali ke tempat semula.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial dengan Slack disenyapkan dan Spotify dimainkan pada kelantangan biasa pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial dengan Slack disenyapkan dan Spotify dimainkan pada kelantangan biasa pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Aliran kerja Slack yang ideal</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const msArticles: ArticleSet = {
 <h3>Menukar profil</h3>
 <p>Profil anda yang disimpan muncul sebagai butang dalam popover SoundDial. Klik satu dan setiap apl bertukar serta-merta kepada volum yang disimpan dalam profil tersebut. Satu klik menggantikan lima atau enam pelarasan manual.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial profil kelantangan — penukaran satu klik antara mod Mesyuarat, Fokus dan Sejuk pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial profil kelantangan — penukaran satu klik antara mod Mesyuarat, Fokus dan Sejuk pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Contoh profil</h3>
 
@@ -2662,7 +2674,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan kelantangan mana-mana apl kepada <strong>200%</strong> — termasuk Zoom. Jika peserta terlalu senyap, seret gelangsar Zum kepada 150% atau 180%. Isyarat audio dikuatkan melebihi maksimum terbina dalam Zoom, menjadikan suara yang paling senyap pun boleh didengar.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan panggilan Zoom kepada 180% pada Mac untuk audio yang lebih jelas semasa panggilan video" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan panggilan Zoom kepada 180% pada Mac untuk audio yang lebih jelas semasa panggilan video" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Kelebihan utama: meningkatkan Zoom tidak menjejaskan apa-apa lagi. Muzik, pemberitahuan dan apl lain anda kekal pada tahap semasa. Hanya Zoom yang menjadi lebih kuat.</p>
 
@@ -2701,7 +2713,7 @@ export const msArticles: ArticleSet = {
 
 <p>Selesai. Spotify lebih senyap. Zum tidak berubah. Pemberitahuan tidak berubah. Segala-galanya tidak berubah. Anda tidak meninggalkan apl semasa anda — pop timbul bar menu dibuka betul-betul di tempat anda berada.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menurunkan kelantangan Spotify secara bebas sambil mengekalkan apl lain pada kelantangan penuh pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menurunkan kelantangan Spotify secara bebas sambil mengekalkan apl lain pada kelantangan penuh pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Lebih baik lagi: simpan sebagai profil</h2>
 
@@ -2754,7 +2766,7 @@ export const msArticles: ArticleSet = {
 
 <p>Memandangkan Apple tidak akan membinanya, apl pihak ketiga mengisi jurang. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ialah apl bar menu macOS asli yang memberi anda pengadun kelantangan — peluncur kelantangan bebas untuk setiap aplikasi yang sedang berjalan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menyediakan kawalan kelantangan setiap apl pada macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menyediakan kawalan kelantangan setiap apl pada macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial serasi sepenuhnya dengan macOS Tahoe dan menggunakan API Core Audio Tap moden Apple — tiada pemacu audio pihak ketiga atau sambungan kernel diperlukan. Ia berfungsi dengan bersih dengan model keselamatan macOS dan tidak mengganggu apl audio lain.</p>
 
@@ -2816,7 +2828,7 @@ export const msArticles: ArticleSet = {
 
 <p>Panggilan anda sangat jelas. Muzik ialah latar belakang yang halus. Tiada penukaran peranti diperlukan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menunjukkan Zum pada kelantangan penuh dan Spotify diturunkan semasa panggilan pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menunjukkan Zum pada kelantangan penuh dan Spotify diturunkan semasa panggilan pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Lebih baik lagi: SoundDial <strong>itik automatik</strong> melakukan ini secara automatik. Apabila anda menyertai panggilan, ia mengesan mikrofon anda diaktifkan dan menurunkan semua apl latar belakang ke tahap yang anda konfigurasikan (lalai 30%). Apabila panggilan tamat, semuanya kembali normal. Tiada pelarasan gelangsar manual diperlukan.</p>
 
@@ -2877,7 +2889,7 @@ export const msArticles: ArticleSet = {
 
 <p>Walaupun anda tidak dapat menghalang macOS daripada menukar kelantangan sistem, anda boleh melindungi anda <em>setiap aplikasi</em> baki kelantangan. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Mengingati tahap kelantangan setiap apl secara bebas. Apabila app dimulakan semula atau apabila Mac anda bangun daripada tidur, SoundDial memulihkan setiap app kepada kelantangan yang disimpan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial mengingati tahap volum setiap apl merentas permulaan semula pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mengingati tahap volum setiap apl merentas permulaan semula pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini bermakna walaupun volum sistem berubah, baki peringkat apl anda kekal konsisten:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const msArticles: ArticleSet = {
 
 <p>SoundDial menggunakan API Ketuk Audio Teras moden Apple untuk kawalan audio setiap proses yang bersih. Ia ringan, berjalan sepenuhnya dalam bar menu dan tidak memerlukan persediaan yang rumit. Pada €14.99, ia jauh lebih murah daripada SoundSource ($39) sambil menyertakan ciri yang tidak dimiliki SoundSource — profil kelantangan dan auto-ducking. Dan kerana ia berada di Mac App Store, ia disemak oleh Apple, kotak pasir dan dipasang dengan bersih tanpa memuat turun DMG atau memasang pemacu audio sistem.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pengadun kelantangan setiap apl yang menunjukkan peluncur kelantangan apl individu pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pengadun kelantangan setiap apl yang menunjukkan peluncur kelantangan apl individu pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Sumber Bunyi (Amoeba Penyangak)</h3>
 
@@ -3113,7 +3125,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> menyelesaikannya dengan memberikan setiap apl — termasuk Safari dan Chrome — gelangsar kelantangan bebas yang bermula daripada 0% kepada <strong>200%</strong>. Jika video YouTube terlalu senyap, seret gelangsar penyemak imbas anda kepada 150% atau 180%. Audio dikuatkan dalam masa nyata tanpa menjejaskan mana-mana apl lain.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan penyemak imbas Safari kepada 180% untuk video YouTube yang senyap pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan penyemak imbas Safari kepada 180% untuk video YouTube yang senyap pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini amat berguna kerana:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> melakukan. Ia memberikan setiap apl peluncur kelantangannya sendiri, jadi anda boleh menetapkan apl berat pemberitahuan seperti Slack, Mail dan Kalendar kepada kelantangan yang jauh lebih rendah sambil mengekalkan apl media anda pada tahap yang selesa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menunjukkan Slack pada kelantangan rendah dan Spotify pada kelantangan biasa — kawalan pemberitahuan bebas pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menunjukkan Slack pada kelantangan rendah dan Spotify pada kelantangan biasa — kawalan pemberitahuan bebas pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Persediaan mesra fon kepala biasa</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberi anda perkara ini. Ciri auto-duckingnya memantau mikrofon anda dan melaraskan audio latar belakang secara automatik apabila panggilan bermula — tetapi <strong>anda mengawal tahap itik</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tetapan auto-ducking — pengurangan kelantangan boleh dikonfigurasikan semasa panggilan Zum pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tetapan auto-ducking — pengurangan kelantangan boleh dikonfigurasikan semasa panggilan Zum pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Bagaimana ia berfungsi</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan kelantangan mana-mana apl sehingga <strong>200%</strong>. Jika Spotify terlalu senyap melalui AirPods anda, seret gelangsar Spotify kepada 150% atau 180% dalam SoundDial. Isyarat audio dikuatkan sebelum ia dihantar ke AirPods anda, dengan berkesan menjadikannya lebih kuat daripada yang dimaksudkan oleh Apple.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan apl untuk AirPods pada Mac dengan peluncur kelantangan setiap apl sehingga 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan apl untuk AirPods pada Mac dengan peluncur kelantangan setiap apl sehingga 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Kelebihan rangsangan setiap apl: anda boleh meningkatkan apl senyap tanpa menjadikan segala-galanya lebih kuat. Jika panggilan video anda baik-baik saja pada 100% tetapi Spotify memerlukan 170%, SoundDial membolehkan anda menetapkan setiap satu secara bebas.</p>
 
@@ -3387,7 +3399,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> membolehkan anda meningkatkan kelantangan mana-mana apl sehingga <strong>200%</strong> — termasuk Spotify. Ia memintas strim audio Spotify dan menguatkannya melebihi maksimum terbina dalam apl, tanpa menjejaskan kelantangan mana-mana apl lain.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Spotify kepada 200% pada macOS sambil mengekalkan apl lain pada kelantangan biasa" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial meningkatkan kelantangan Spotify kepada 200% pada macOS sambil mengekalkan apl lain pada kelantangan biasa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Inilah perbezaan utama: rangsangan kelantangan seluruh sistem akan membuat <em>segala-galanya</em> lebih kuat — pemberitahuan, panggilan, bunyi sistem — bukan hanya Spotify. SoundDial meningkatkan Spotify <em>secara bebas</em>. Tetapkan Spotify kepada 160% manakala penyemak imbas anda kekal pada 80% dan Zoom kekal pada 100%.</p>
 
@@ -3440,7 +3452,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> berada dalam bar menu anda dan memberikan setiap apl peluncur kelantangannya sendiri. Anda boleh menetapkan permainan anda kepada 35% dan Discord kepada 100% — atau apa sahaja nisbah yang sesuai untuk anda. Tukar satu dan yang lain kekal.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menunjukkan peluncur kelantangan bebas untuk permainan dan Discord pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menunjukkan peluncur kelantangan bebas untuk permainan dan Discord pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Persediaan permainan biasa</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const msArticles: ArticleSet = {
 
 <p>Jawapannya ialah apl bar menu pihak ketiga. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ialah pengadun kelantangan macOS asli yang melakukan apa yang dilakukan oleh pengadun kelantangan Windows — dan banyak lagi.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — pengadun kelantangan untuk macOS, menunjukkan gelangsar kelantangan setiap apl dalam bar menu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — pengadun kelantangan untuk macOS, menunjukkan gelangsar kelantangan setiap apl dalam bar menu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Apa yang anda dapat:</p>
 
@@ -3590,7 +3602,7 @@ export const msArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> memberikan setiap apl pada Mac anda gelangsar kelantangan bebas yang beralih daripada 0% kepada <strong>200%</strong>. Jika apl tertentu terlalu senyap — pemain podcast, tab penyemak imbas, panggilan video — anda boleh meningkatkan apl itu melebihi 100% tanpa menyentuh apa-apa lagi.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Peningkatan Kelantangan — Kawalan kelantangan setiap apl dengan penguatan 200% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Peningkatan Kelantangan — Kawalan kelantangan setiap apl dengan penguatan 200% pada macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ini amat berguna untuk:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const msArticles: ArticleSet = {
 <h3>Mengkonfigurasi tahap itik</h3>
 <p>Dalam tetapan SoundDial, anda boleh melaraskan <strong>Tahap itik</strong> — jumlah audio latar belakang yang dikurangkan semasa panggilan. Gelangsar berkisar antara 10% (hampir tidak kedengaran) hingga 80% (masih agak ada). Lalai 30% berfungsi dengan baik untuk kebanyakan orang: muzik ketara tetapi tidak mengganggu perbualan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ciri auto-ducking secara automatik menurunkan kelantangan muzik semasa panggilan Zum pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ciri auto-ducking secara automatik menurunkan kelantangan muzik semasa panggilan Zum pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Mengapa auto-ducking lebih baik daripada berhenti seketika</h2>
 
@@ -3763,7 +3775,7 @@ export const msArticles: ArticleSet = {
 
 <p>Inilah yang dilakukan oleh pengadun kelantangan setiap apl. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Terletak dalam bar menu anda dan menunjukkan setiap apl yang sedang berjalan dengan gelangsar kelantangan dan butang bisunya sendiri.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial menunjukkan butang bisu setiap apl untuk setiap aplikasi dalam bar menu macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial menunjukkan butang bisu setiap apl untuk setiap aplikasi dalam bar menu macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Untuk meredamkan satu apl:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const msArticles: ArticleSet = {
 
 <p>Ia terletak di bar menu anda dan menunjukkan setiap aplikasi yang sedang berjalan dengan peluncur kelantangannya sendiri. Seret gelangsar untuk melaraskan volum apl itu daripada 0% kepada 200%. Klik ikon pembesar suara untuk meredamkannya serta-merta. Tukar antara profil yang disimpan untuk situasi yang berbeza. Dayakan auto-ducking dan muzik anda secara automatik menjadi lebih senyap apabila panggilan bermula.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — pengadun kelantangan setiap apl untuk macOS menunjukkan gelangsar kelantangan apl individu dalam bar menu" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — pengadun kelantangan setiap apl untuk macOS menunjukkan gelangsar kelantangan apl individu dalam bar menu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ciri-ciri utama:</p>
 <ul>
@@ -3889,5 +3901,2353 @@ export const msArticles: ArticleSet = {
 
 <p>Pembelian sekali sahaja. Tiada langganan. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Dapatkan SoundDial di Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Alternatif Background Music Terbaik untuk Mac (2026)",
+    description: "Background Music berbuka pada macOS yang lebih baharu? Alternatif pengadun volum per apl yang paling boleh dipercayai ialah SoundDial — apl Mac App Store kotak pasir dengan rangsangan dan profil.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika Background Music telah berhenti berfungsi selepas kemas kini macOS, alternatif yang paling boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — pengadun volum per apl menu-bar daripada Mac App Store. Ia memberikan setiap apl penggelangsar kelantangannya sendiri, menambah redam, rangsangan, profil kelantangan dan auto-ducking, dan ia dikotak pasir sepenuhnya dan disemak Apple, jadi tiada pemacu audio untuk dipecahkan pada keluaran macOS seterusnya.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Alternatif Background Music Terbaik untuk Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa Background Music pecah pada macOS yang lebih baharu</h2>
+
+<p>Background Music ialah projek sumber terbuka yang bijak dan percuma. Ia memberikan pengguna Mac sesuatu yang Apple tidak pernah miliki: pengadun volum setiap apl, jenis Windows yang telah dimiliki selama bertahun-tahun. Tetapi reka bentuknya juga adalah sebab ia terus gagal.</p>
+
+<p>Untuk menghalakan dan mengawal audio, Background Music memasang peranti audio maya — pemacu peringkat sistem yang memintas bunyi Mac anda. Pendekatan itu berfungsi dengan baik pada macOS yang lebih lama, tetapi setiap keluaran utama mengetatkan keselamatan di sekitar sambungan kernel dan audio. Gejala biasa yang dilaporkan pengguna:</p>
+
+<ul>
+<li>Tiada bunyi langsung selepas memasang atau selepas kemas kini OS.</li>
+<li>Peranti maya gagal dimuatkan, jadi penghalaan audio terhenti secara senyap.</li>
+<li>Apl memerlukan pemasangan semula, but semula atau pengalihan keluar pemandu manual untuk pulih.</li>
+<li>Pembangunan adalah didorong oleh komuniti dan secara sukarela, jadi pembetulan untuk macOS baharu boleh ketinggalan.</li>
+</ul>
+
+<p>Tiada satu pun daripada ini menjadikan Background Music "buruk." Ini bermakna alat berasaskan pemandu percuma bersifat rapuh, dan jika anda bergantung pada volum setiap apl setiap hari, kerapuhan itu menjadi lama.</p>
+
+<h2>Apa yang perlu dicari sebagai pengganti</h2>
+
+<p>Sebelum memilih mana-mana alternatif, tentukan perkara yang anda perlukan:</p>
+
+<ul>
+<li><strong>Kebolehpercayaan merentas kemas kini macOS.</strong> Jika ia memasang kernel atau sambungan audio, jangkakan kerosakan sekali-sekala.</li>
+<li><strong>Kawalan per apl sebenar.</strong> Kelantangan bebas dan redam untuk setiap apl ialah garis dasar.</li>
+<li><strong>Boost.</strong> Sesetengah apl (alat mesyuarat senyap, penyemak imbas tertentu) terlalu senyap — anda mahu melepasi 100%.</li>
+<li><strong>Ciri-ciri kemudahan.</strong> Profil dan auto-ducking adalah perkara yang mengubah utiliti menjadi sesuatu yang anda terus buka sepanjang hari.</li>
+<li><strong>Pemasangan selamat.</strong> Apl Mac App Store berkotak pasir tidak boleh menyentuh dalaman sistem, jadi nyahpasang adalah bersih dan kemas kini adalah automatik.</li>
+</ul>
+
+<h2>Mengapa SoundDial ialah pilihan yang boleh dipercayai</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dibina untuk menyelesaikan masalah yang dihadapi pengguna Background Music dengan tepat: mereka mahukan volum setiap apl, tetapi mereka tidak mahu menjaga pemandu. Ia hidup dalam bar menu anda dan melakukan tugas teras dengan baik:</p>
+
+<ul>
+<li><strong>Kelantangan bebas untuk setiap apl</strong>, dengan redaman setiap apl dalam panel yang sama.</li>
+<li><strong>Rangsangan setiap apl</strong> untuk membuat apl senyap cukup kuat untuk benar-benar mendengar.</li>
+<li><strong>Profil volum</strong> — simpan campuran (katakan, "mesyuarat" atau "permainan") dan tukar serta-merta dan bukannya menyeret peluncur setiap kali.</li>
+<li><strong>Auto-ducking</strong>, jadi audio latar merosot secara automatik apabila sepatutnya.</li>
+<li><strong>Penukaran keluaran pantas</strong> antara pembesar suara, fon kepala dan peranti lain.</li>
+</ul>
+
+<p>Perbezaan yang lebih besar ialah cara ia dipasang. SoundDial dihantar melalui Mac App Store, yang bermaksud ia disemak Apple dan kotak pasir. Tiada DMG untuk diseret, tiada pemacu audio atau sambungan sistem, dan tiada akses kernel. Itulah satu-satunya sebab yang paling penting ia tidak akan memecahkan cara Background Music lakukan apabila macOS baharu tiba — ia tidak disambungkan ke bahagian sistem yang terus dikunci oleh Apple.</p>
+
+<p>Ia kos <strong>€14.99 sekali</strong>. Bukan percuma, tetapi tiada langganan dan anda membayar untuk sesuatu yang diselenggara dan selamat untuk dipasang.</p>
+
+<h2>SoundDial lwn. Background Music lwn. alatan percuma</h2>
+
+<p>Background Music bukan satu-satunya pilihan percuma anda, jadi berikut ialah tempat yang jujur:</p>
+
+<ul>
+<li><strong>Background Music (percuma, sumber terbuka):</strong> volum setiap apl, tetapi berasaskan pemandu, terdedah kepada pecah pada macOS yang lebih baharu, dan ia tidak mempunyai rangsangan, profil dan auto-ducking.</li>
+<li><strong>FineTune (percuma, sumber terbuka):</strong> apl volum setiap apl menu-bar yang ringan. Baik jika percuma adalah satu-satunya keperluan anda, tetapi nipis pada tambahan.</li>
+<li><strong>eqMac (percuma):</strong> terutamanya EQ sistem dan penggalak, bukan pengadun per apl yang benar.</li>
+<li><strong>SoundSource oleh Rogue Amoeba (~$39):</strong> pilihan pro-gred, dengan EQ setiap apl dan penghalaan output penuh. Cemerlang, tetapi harganya lebih daripada dua kali ganda harga SoundDial dan masih memerlukan muat turun serta pemacu tangkapan audio.</li>
+<li><strong>SoundDial (€14.99, Mac App Store):</strong> jalan tengah — volum setiap apl sebenar, senyapkan, rangsangan, profil dan sedutan, dihantar sebagai pemasangan kotak pasir yang bersih tanpa pemacu.</li>
+</ul>
+
+<p>Jika anda memerlukan EQ setiap apl atau penghalaan studio yang kompleks, SoundSource bernilai wang tambahan. Jika anda mahukan alat penipu percuma dan boleh bertolak ansur dengan kerosakan sekali-sekala, FineTune atau Background Music akan melakukannya. Tetapi jika matlamat anda ialah "berikan setiap apl volumnya sendiri dan hentikan ia memecahkan setiap kemas kini macOS", SoundDial mencapai sasaran itu untuk sekurang-kurangnya kerumitan.</p>
+
+<h2>Konteks macOS yang menjadikan ini perlu</h2>
+
+<p>Perlu dinyatakan dengan jelas: macOS tidak mempunyai pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun dalam flyout volumnya, tetapi pada Mac peluncur sistem mengawal semuanya sekaligus. Jurang itu adalah keseluruhan sebab alatan seperti Background Music dan SoundDial wujud. Memandangkan Apple tidak mengisinya, persoalan praktikalnya ialah pendekatan pihak ketiga yang anda percayai — pemacu percuma yang melawan OS, atau aplikasi kotak pasir yang berfungsi dengannya.</p>
+
+<p>Bersedia untuk berhenti melawan pemacu audio yang rosak? Dapatkan <a href="https://apps.apple.com/app/id6772792641">SoundDial pada Mac App Store</a> dengan harga €14.99 dan kawal volum setiap apl dengan cara yang boleh dipercayai.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource lwn SoundDial: Apl Jilid Mac Mana Yang Menang?",
+    description: "SoundSource ($39, pro-gred) lwn SoundDial (€14.99, App Store). Bandingkan volum setiap apl, rangsangan, profil dan auto-ducking untuk memilih pengadun Mac yang sesuai untuk anda.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika anda hanya mahukan kawalan volum setiap apl yang dipasang dengan bersih dan kos yang lebih murah, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adalah pembelian yang lebih baik untuk kebanyakan orang: €14.99 sekali, daripada Mac App Store, dengan volum setiap apl, redam, rangsangan, profil dan auto-itik. Pilih Rogue Amoeba SoundSource (~$39) hanya jika anda memerlukan EQ setiap apl dan penghalaan output lanjutan secara khusus.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource lwn SoundDial: Apl Jilid Mac Mana Yang Menang?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Versi pendek</h2>
+<p>macOS masih tiada pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun, tetapi pada Mac gelangsar volum sistem menggerakkan semuanya sekaligus. Kedua-dua SoundSource dan SoundDial wujud untuk membetulkan jurang itu. Mereka hanya menyasarkan pembeli yang berbeza.</p>
+<ul>
+<li><strong>SoundDial</strong> — €14.99 sekali, Mac App Store, aplikasi bar menu. Kelantangan bebas bagi setiap apl, redam bagi setiap apl, rangsangan setiap apl, profil yang disimpan, auto-ducking dan penukaran output pantas. Kotak pasir dan disemak oleh Apple, jadi tiada pemasangan pemacu.</li>
+<li><strong>SoundSource</strong> — ~$39, muat turun terus dari Rogue Amoeba. Segala-galanya di atas ditambah EQ setiap apl, penghalaan output lanjutan dan kesan audio. Memerlukan pemacu tangkapan audio kecil untuk dipasang.</li>
+</ul>
+
+<h2>Harga dan cara anda membelinya</h2>
+<p>Ini adalah perpecahan yang paling jelas. SoundSource adalah kira-kira $39 dan dijual terus oleh Rogue Amoeba. SoundDial ialah €14.99 sebagai pembelian sekali sahaja pada Mac App Store — lebih kurang satu pertiga daripada harga.</p>
+<p>Kerana <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dihantar melalui App Store, ia dikotak pasir, disahkan dan disemak oleh Apple. Anda klik Dapatkan, ia dipasang dan ia selesai. Tiada DMG untuk dipasang, tiada kebenaran untuk diberikan kepada komponen bersebelahan kernel, dan tiada pemacu audio atau sambungan sistem. Ia juga menunggang bersama dengan aliran kemas kini App Store biasa anda dan disegerakkan ke Mac anda yang lain pada Apple ID yang sama.</p>
+<p>SoundSource memuat turun di luar App Store dan memasang pemacu tangkapan audio supaya ia boleh memintas dan memproses setiap audio apl. Itulah yang membuka kunci ciri pronya, tetapi ini juga bermakna langkah pemasangan tambahan dan komponen yang hidup lebih dalam dalam sistem.</p>
+
+<h2>Apa yang SoundSource lakukan yang tidak dilakukan oleh SoundDial</h2>
+<p>SoundSource memperoleh harganya untuk jenis pengguna tertentu. Jika mana-mana daripada ini menggambarkan anda, ia berbaloi dengan wang tambahan:</p>
+<ul>
+<li><strong>EQ setiap apl.</strong> Anda mahukan penyamaan 10 jalur, katakan, Spotify sambil meninggalkan Zoom rata. SoundDial melakukan kelantangan, bukan EQ.</li>
+<li><strong>Penghalaan keluaran lanjutan.</strong> Menghantar satu apl ke pembesar suara anda dan satu lagi ke fon kepala atau antara muka tertentu, dengan kawalan halus.</li>
+<li><strong>Kesan audio dan pemalam.</strong> SoundSource boleh mengehoskan kesan berdasarkan setiap apl — wilayah yang benar-benar pro.</li>
+</ul>
+<p>Rogue Amoeba mempunyai rekod prestasi yang panjang dan dipercayai. SoundSource ialah alat yang serius dan ia berharga seperti satu. Jika anda seorang profesional audio atau pengguna berbilang output yang berat, ini adalah panggilan yang betul.</p>
+
+<h2>Apa yang SoundDial lakukan lebih baik untuk kegunaan harian</h2>
+<p>Kebanyakan orang yang mencari "pencampur volum Mac" tidak memerlukan EQ. Mereka memerlukan satu apl yang lebih senyap daripada yang lain, dan mereka tidak mahu melawan pemasang untuk mendapatkannya. SoundDial merangkumi perkara itu dengan bersih, dan menambah beberapa perkara yang patut dipanggil:</p>
+<ul>
+<li><strong>Rangsangan setiap apl.</strong> Sesetengah apl dan video terlalu senyap walaupun pada tahap 100%. SoundDial boleh menolak satu apl di atas siling biasa supaya mesyuarat atau podcast yang tenang akhirnya boleh didengari.</li>
+<li><strong>Profil volum.</strong> Simpan persediaan penuh — muzik rendah, penyemak imbas diredam, panggil apl dengan kuat — dan panggil semula serta-merta. Bagus untuk bertukar antara "fokus," "pertemuan" dan "permainan" tanpa menyeret lima peluncur.</li>
+<li><strong>Auto-ducking.</strong> Celupkan audio latar belakang secara automatik (seperti muzik) apabila sumber lain dimulakan, supaya pemberitahuan, panggilan atau video tidak terkubur.</li>
+<li><strong>Penukaran keluaran pantas.</strong> Lompat antara pembesar suara, fon kepala dan peranti lain dari bar menu.</li>
+</ul>
+<p>Semua itu dijalankan dari menu lungsur turun bawah, jadi ia hanya perlu klik sahaja dan keluar dari wajah anda sepanjang masa.</p>
+
+<h2>Alternatif percuma, secara ringkas</h2>
+<p>Anda akan melihat beberapa pilihan percuma yang disebut dalam carian yang sama. Mereka patut diketahui tentang:</p>
+<ul>
+<li><strong>Background Music</strong> — percuma dan sumber terbuka, memberikan anda volum asas setiap apl. Tetapi ia boleh pecah pada keluaran macOS yang lebih baharu, dan ia tidak mempunyai rangsangan, profil atau auto-ducking.</li>
+<li><strong>FineTune</strong> — apl volum bar menu sumber terbuka percuma. Mudah, tetapi skopnya terhad.</li>
+<li><strong>eqMac</strong> — EQ percuma dan penggalak sistem, lebih daripada alat EQ seluruh sistem daripada pengadun per apl yang sebenar.</li>
+</ul>
+<p>Percuma sangat bagus jika ia berfungsi untuk anda. Pertukarannya ialah keserasian dan sokongan: alatan audio sumber terbuka boleh ketinggalan di belakang kemas kini macOS, dan ciri seperti profil dan itik biasanya tiada. Jika persediaan anda penting pada hari kerja anda, membayar sekali untuk sesuatu yang disemak dan diselenggara biasanya merupakan jalan yang lebih tenang.</p>
+
+<h2>Yang mana satu patut anda beli?</h2>
+<p>Jawab satu soalan: adakah anda memerlukan EQ setiap apl atau penghalaan output lanjutan?</p>
+<ul>
+<li><strong>ya</strong> — beli SoundSource. Ia dibina untuk itu, dan ~$39 adalah adil untuk alat pro dengan enjin peringkat pemandu.</li>
+<li><strong>Tidak, saya hanya mahukan volum setiap apl, rangsangan dan pemasangan yang bersih</strong> — beli SoundDial. Anda mendapat percampuran yang sebenarnya penting dari hari ke hari, ditambah dengan profil dan auto-ducking, dengan harga €14.99 dan sifar kerumitan pemandu.</li>
+</ul>
+<p>Bagi majoriti besar pengguna Mac, baldi kedua itu adalah jawapan yang jujur. Anda membayar untuk kawalan kelantangan, bukan untuk studio.</p>
+
+<p><strong>Bersedia untuk membetulkan volum Mac dengan cara mudah?</strong> Dapatkan <a href="https://apps.apple.com/app/id6772792641">SoundDial pada Mac App Store</a> — €14.99 sekali, tiada pemandu, tiada DMG. Kelantangan setiap apl, rangsangan, profil dan auto-ducking dalam satu klik.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Alternatif SoundSource yang Lebih Murah untuk Volum Per Apl pada Mac",
+    description: "Mahukan volum setiap apl gaya SoundSource tanpa harga $39? SoundDial ialah pengadun bar menu Mac App Store €14.99 dengan rangsangan, profil dan auto-itik.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika anda mahukan kawalan kelantangan setiap apl gaya SoundSource pada Mac anda tetapi $39 terasa mahal, pembetulan terpantas yang boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Ia adalah pengadun bar menu sekali bernilai €14.99 daripada Mac App Store yang memberikan setiap apl penggelangsar volum sendiri, senyapkan dan rangsangan — ditambah dengan profil dan auto-ducking — tanpa muat turun atau pemacu audio untuk dipasang.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Alternatif SoundSource yang Lebih Murah untuk Kelantangan Per Apl pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa orang mencari alternatif SoundSource</h2>
+<p>SoundSource by Rogue Amoeba ialah perisian yang sangat baik. Ia benar-benar pro-gred: penyamaan setiap apl, kesan audio dan penghalaan output yang membolehkan anda menghantar satu apl ke fon kepala anda dan satu lagi ke pembesar suara anda. Tetapi kuasa itu datang dengan dua titik geseran. Pertama, harga - sekitar $39. Kedua, ia memasang pemacu tangkapan audio peringkat sistem di luar App Store, yang sesetengah orang berhati-hati pada mesin kerja atau hanya tidak mahu mengurus seluruh kemas kini macOS.</p>
+<p>Bagi kebanyakan orang, keperluan sebenar adalah lebih mudah: kurangkan Spotify tanpa menyentuh panggilan Zoom, redamkan apl tab penyemak imbas yang bising atau tingkatkan pemain video yang senyap melepasi 100%. Jika itu anda, anda membayar wang pro untuk ciri yang tidak akan anda buka.</p>
+
+<h2>Apa yang SoundDial lakukan — dan berapa kosnya</h2>
+<p>SoundDial memfokuskan pada kerja volum setiap apl dan melakukannya dengan bersih. Buka bar menu dan anda mendapat senarai langsung semua yang berbunyi, masing-masing dengan kawalannya sendiri:</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — satu peluncur bagi setiap aplikasi, dilaraskan dalam masa nyata.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu apl serta-merta tanpa menjeda apa-apa lagi.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak apl senyap melebihi maksimum biasa apabila video atau panggilan terlalu lembut.</li>
+<li><strong>Profil volum</strong> — simpan campuran (cth. "Fokus," "Perjudian," "Mesyuarat") dan tukar dalam satu klik.</li>
+<li><strong>Auto-ducking</strong> — secara automatik mencelupkan apl lain apabila sesuatu yang lebih penting mula dimainkan.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan peranti lain daripada menu yang sama.</li>
+</ul>
+<p>Harganya ialah <strong>€14.99, dibayar sekali</strong> — tiada langganan. Itu kira-kira satu pertiga daripada kos SoundSource, untuk ciri volum yang sebenarnya dicapai oleh kebanyakan pengguna.</p>
+
+<h2>Perbezaan App Store</h2>
+<p>Kerana SoundDial dihantar melalui <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, ia disemak Apple dan kotak pasir. Tiada DMG untuk diseret, tiada sambungan kernel atau pemacu tangkapan audio untuk diluluskan, dan tiada pengemas kini berasingan. Anda memasangnya seperti aplikasi App Store yang lain dan ia berfungsi. Apabila macOS mengemas kini, anda tidak akan tertanya-tanya sama ada komponen audio tahap rendah masih berfungsi.</p>
+<blockquote>macOS masih tiada pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun, tetapi pada Mac volum sistem adalah semua-atau-tiada — yang betul-betul jurang yang diisi oleh alat ini.</blockquote>
+
+<h2>Bagaimana ia dibandingkan dengan pilihan percuma</h2>
+<p>SoundSource bukan satu-satunya alternatif anda. Terdapat alat percuma, dan bersikap jujur tentangnya adalah penting:</p>
+<ul>
+<li><strong>Background Music</strong> ialah apl volum per apl sumber terbuka percuma. Ia berfungsi untuk ramai orang, tetapi ia boleh rosak pada keluaran macOS yang lebih baharu, kemas kini tidak teratur, dan ia tidak mempunyai rangsangan, tiada profil dan tiada auto-ducking.</li>
+<li><strong>FineTune</strong> ialah apl volum bar menu sumber terbuka percuma — ringan dan mudah digunakan, tetapi sekali lagi tidak mempunyai ciri profil dan mengelak.</li>
+<li><strong>eqMac</strong> adalah EQ percuma dan penggalak sistem. Ia lebih kepada alat penyama/peningkatan daripada pengadun per-apl sebenar, dan ia tidak tertumpu pada peluncur apl individu.</li>
+</ul>
+<p>Percuma adalah pilihan yang sah. Pertukarannya ialah kebolehpercayaan dan ciri: alatan audio sumber terbuka bergantung pada penyelenggaraan sukarelawan dan boleh ketinggalan di belakang perubahan macOS, dan tiada profil himpunan pilihan percuma serta auto-ducking cara SoundDial lakukan. Jika persediaan anda mudah dan anda tidak kisah sekali-sekala rosak, apl percuma mungkin sudah memadai. Jika anda mahukan sesuatu yang diselenggara, dikotak pasir, dan hanya berfungsi, €14.99 membeli anda dengan tepat.</p>
+
+<h2>Panduan keputusan pantas</h2>
+<ul>
+<li><strong>Anda memerlukan EQ setiap apl, kesan audio dan penghalaan satu apl ke peranti output yang berbeza</strong> → SoundSource berbaloi dengan harganya. Tiada apa-apa di sini menggantikan sepenuhnya.</li>
+<li><strong>Anda terutamanya memerlukan volum setiap apl, senyapkan, rangsangan, profil dan sedutan — tanpa pemandu</strong> → SoundDial pada €14.99 ialah pilihan bernilai lebih baik.</li>
+<li><strong>Anda mahu percuma dan tidak kisah risiko penyelenggaraan</strong> → cuba Background Music, FineTune atau eqMac dahulu.</li>
+</ul>
+
+<h2>Menetapkannya</h2>
+<p>Bermula mengambil masa kira-kira seminit:</p>
+<ul>
+<li>Pasang SoundDial daripada Mac App Store — tiada muat turun luaran.</li>
+<li>Berikan kebenaran audio gesaan macOS untuk pelancaran pertama.</li>
+<li>Mainkan bunyi dalam beberapa apl dan buka ikon bar menu; anda akan melihat setiap satu dengan peluncurnya sendiri.</li>
+<li>Seret untuk menetapkan tahap, ketik untuk meredam atau tolak melepasi 100% untuk meningkatkan.</li>
+<li>Simpan persediaan anda sebagai profil dan hidupkan auto-ducking jika anda mahu apl lain senyap semasa panggilan atau media.</li>
+</ul>
+<p>Itulah keseluruhan aliran kerja — tiada fail konfigurasi, tiada restart, tiada sambungan sistem untuk diberkati.</p>
+
+<h2>Kesimpulannya</h2>
+<p>SoundSource ialah alat yang lebih berkuasa, tetapi kebanyakan orang yang mencarinya hanya mahukan volum setiap apl yang berkelakuan. SoundDial menyampaikannya untuk kira-kira satu pertiga daripada harga, dihantar dengan selamat melalui App Store, dan menambah profil dan auto-ducking di atas — tanpa pemacu tunggal untuk dipasang.</p>
+
+<p>Bersedia untuk mengawal volum setiap apl secara bebas? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> untuk €14.99, sekali.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "Alternatif FineTune untuk Mac: Pengadun Kelantangan Per Apl yang Disokong",
+    description: "Mencuba aplikasi bar menu FineTune percuma dan mahukan sesuatu yang diselenggara dan App Store-selamat? Berikut ialah alternatif FineTune terbaik untuk volum setiap apl pada Mac.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika anda menyukai FineTune tetapi mahukan sesuatu yang diselenggara dan dipasang secara aktif daripada sumber yang dipercayai, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pembetulan terpantas yang boleh dipercayai. Ia ialah pengadun volum per apl bar menu Mac App Store dengan volum bebas, redam per apl, rangsangan volum, profil disimpan dan auto-ducking. Disemak Apple dan kotak pasir, ia berharga €14.99 sekali tanpa pemacu untuk dipasang.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune Alternatif untuk Mac: Pengadun Kelantangan Per-Apl yang Disokong" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa mencari alternatif FineTune sama sekali?</h2>
+
+<p>FineTune ialah idea yang bagus: aplikasi bar menu sumber terbuka percuma yang memberikan anda kawalan volum setiap apl pada macOS, sesuatu yang Apple masih enggan untuk dibina (Windows telah mempunyai pengadun per apl selama bertahun-tahun). Bagi kebanyakan orang ia melakukan kerja asas. Tetapi ada sebab sebenar pengguna mencari sesuatu yang lain.</p>
+
+<ul>
+<li><strong>Penyelenggaraan tidak menentu.</strong> Projek hobi sumber terbuka hidup dan mati pada masa lapang seorang penyelenggara. Apabila macOS menghantar kemas kini utama, apl berkaitan audio selalunya menjadi yang pertama rosak, dan anda dibiarkan menunggu pembetulan sukarela yang mungkin tidak akan datang.</li>
+<li><strong>Siling ciri.</strong> FineTune meliputi volum setiap apl dan sedikit lagi. Jika anda mahukan peningkatan melebihi 100%, profil yang disimpan atau itik automatik, anda perlu menggunakan alatan lain.</li>
+<li><strong>Amanah dan kemas kini.</strong> Memasang binaan mentah di luar App Store bermakna tiada semakan automatik, tiada jaminan kotak pasir dan kemas kini manual yang perlu anda jejaki sendiri.</li>
+</ul>
+
+<p>Tiada satu pun daripada ini menjadikan FineTune buruk. Ini bermakna jika anda bergantung pada audio setiap apl setiap hari, anda mungkin mahukan sesuatu dengan model sokongan di belakangnya.</p>
+
+<h2>Perkara yang dilakukan oleh SoundDial secara berbeza</h2>
+
+<p>SoundDial bermula daripada idea teras yang sama, pengadun bar menu dengan peluncur untuk setiap apl yang sedang berjalan, kemudian pergi lebih jauh dengan ciri yang sebenarnya diminta oleh pengguna kuasa.</p>
+
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl.</strong> Kurangkan Spotify, kekalkan panggilan anda pada kelantangan penuh, redamkan apl tab penyemak imbas yang bising sepenuhnya, semuanya daripada satu menu.</li>
+<li><strong>Peningkatan volum setiap apl.</strong> Tolak apl senyap di atas siling biasa apabila podcast atau video dikuasai terlalu rendah. FineTune tidak melakukan ini.</li>
+<li><strong>Profil volum.</strong> Simpan campuran, "fokus", "permainan", "mesyuarat", dan tukar keseluruhan persediaan anda dalam satu klik dan bukannya menyenggol lima peluncur.</li>
+<li><strong>Auto-ducking.</strong> Turunkan audio latar belakang secara automatik apabila sesuatu yang lebih penting mula dimainkan, jadi muzik menurun apabila panggilan masuk.</li>
+<li><strong>Penukaran keluaran pantas.</strong> Lompat antara pembesar suara, fon kepala dan output lain tanpa menyelam ke dalam Tetapan Sistem.</li>
+</ul>
+
+<p>Kerana <a href="https://apps.apple.com/app/id6772792641">SoundDial dihantar melalui Mac App Store</a>, ia disemak dan dikotak pasir oleh Apple, dipasang dengan bersih dan dikemas kini melalui mekanisme yang sama seperti setiap apl App Store yang lain. Tiada DMG untuk diseret, tiada pemacu audio atau sambungan sistem, dan tiada gesaan keselamatan yang meminta anda membenarkan komponen peringkat kernel.</p>
+
+<h2>SoundDial lwn. FineTune dan alatan percuma yang lain</h2>
+
+<p>FineTune bukan satu-satunya pilihan percuma, dan ia membantu untuk melihat keseluruhan landskap dengan jujur.</p>
+
+<ul>
+<li><strong>FineTune</strong> — Percuma, sumber terbuka, bar menu kelantangan setiap apl. Mudah dan ringan, tetapi tiada rangsangan, tiada profil, tiada itik, dan penyelenggaraan bergantung kepada komuniti.</li>
+<li><strong>Background Music</strong> — Percuma dan sumber terbuka, laluan dan melaraskan audio per apl. Benar-benar berguna, tetapi ia boleh rosak pada keluaran macOS yang lebih baharu dan tidak mempunyai rangsangan, profil, dan itik.</li>
+<li><strong>eqMac</strong> — EQ percuma dan penggalak sistem. Hebat jika anda mahukan penyamaan, tetapi ia bukan pengadun per apl.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — Pilihan pro-gred pada sekitar $39, dengan EQ setiap apl dan penghalaan output. Cemerlang, tetapi ia memerlukan muat turun serta pemacu tangkapan audio, dan kosnya lebih daripada dua kali ganda.</li>
+<li><strong>SoundDial</strong> — €14.99 sekali, App Store-selamat, tiada pemandu. Menambah rangsangan, profil dan auto-ducking di atas asas volum setiap apl.</li>
+</ul>
+
+<p>Ringkasan yang jujur: jika anda mahukan perkara yang paling murah dan hanya memerlukan volum asas setiap apl, alat percuma boleh berfungsi. Jika anda mahukan EQ dan penghalaan setiap apl dan tidak keberatan membayar dan memasang pemandu, SoundSource ialah kelas berat. SoundDial berada di tempat yang menarik, lebih berkebolehan daripada apl percuma, secara mendadak lebih murah daripada SoundSource, dan lebih selamat untuk dipasang daripada sama ada kerana Apple menyemak dan mengotakkannya.</p>
+
+<h2>Beralih dari FineTune</h2>
+
+<p>Penukaran mengambil masa beberapa minit dan tiada ritual pembersihan.</p>
+
+<ul>
+<li>Pasang SoundDial daripada Mac App Store. Tiada pemasang, tiada kelulusan pemandu, tiada restart.</li>
+<li>Klik ikon SoundDial dalam bar menu anda untuk melihat peluncur bagi setiap apl yang sedang berjalan.</li>
+<li>Tetapkan campuran harian anda, kemudian simpannya sebagai profil supaya anda boleh mengingatinya serta-merta.</li>
+<li>Secara pilihan, hidupkan auto-ducking supaya audio latar belakang mengetepikan untuk panggilan dan makluman.</li>
+<li>Apabila anda gembira, berhenti FineTune. Memandangkan kedua-dua apl tidak memasang pemacu sistem, tiada apa yang berlarutan untuk dinyahpasang.</li>
+</ul>
+
+<p>Anda menyimpan perkara yang anda suka tentang FineTune, pengadun bar menu yang bersih yang tidak pernah diberikan oleh Apple kepada anda, dan anda mendapat rangsangan, profil, pengsan dan sokongan jangka panjang yang disediakan oleh aplikasi App Store yang diselenggara.</p>
+
+<h2>Kesimpulannya</h2>
+
+<p>FineTune membuktikan konsep: volum setiap apl tergolong dalam bar menu. SoundDial ialah rupa konsep itu dengan model sokongan sebenar, lebih banyak ciri dan keselamatan App Store, untuk satu kali €14.99 dan bukannya pertaruhan untuk pemeliharaan sukarelawan.</p>
+
+<p>Bersedia untuk pengadun setiap apl yang kekal diselenggara? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan mengawal volum setiap apl dalam beberapa saat.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Alternatif untuk Volum Per Apl Sebenar pada Mac",
+    description: "Suka rangsangan eqMac tetapi memerlukan volum, redam dan profil setiap apl yang betul? SoundDial ialah pembetulan Mac App Store terpantas — €14.99, kotak pasir, tiada pemandu.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika anda menggunakan eqMac untuk EQ dan penggalak volum tetapi benar-benar mahukan volum bebas untuk setiap apl — ditambah redam, rangsangan dan profil yang disimpan — pembetulan terpantas yang boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Ia adalah pengadun bar menu Mac App Store: tetapkan tahap setiap apl, tingkatkan yang senyap dan tukar profil serta-merta. €14.99 sekali sahaja, kotak pasir, tiada pemacu untuk dipasang.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — eqMac Alternatif untuk Volum Per Apl Sebenar pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac berbanding apa yang anda perlukan sebenarnya</h2>
+
+<p>eqMac ialah alat percuma yang kukuh, dan penyamaan seluruh sistem dan penggalak volum benar-benar berguna. Tetapi eqMac dibina di sekitar satu EQ induk dan satu output induk. Ia tidak memberikan anda pengadun volum setiap apl sebenar — perkara yang Windows miliki selama bertahun-tahun dan macOS masih tidak dihantar secara asli.</p>
+
+<p>Oleh itu, jika masalah sebenar anda ialah "Spotify terlalu kuat semasa saya sedang menelefon" atau "permainan yang satu ini menyilaukan telinga saya tetapi semuanya baik-baik saja," eqMac bukanlah bentuk yang sesuai untuk tugas itu. Anda akhirnya menunggang gelangsar induk tunggal atau bermain-main dengan volum dalaman setiap apl. Itulah jurang yang diisi SoundDial.</p>
+
+<h2>Apa yang SoundDial lakukan yang tidak dilakukan oleh eqMac</h2>
+
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — Muzik pada 40%, penyemak imbas pada 100%, panggilan video pada 70%, sekaligus, semuanya diingati.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi yang bising serta-merta tanpa menyentuh apa-apa lagi.</li>
+<li><strong>Rangsangan setiap apl</strong> — tolak apl senyap melepasi siling biasa, seperti cara penggalak eqMac lakukan, tetapi disasarkan pada satu apl dan bukannya keseluruhan sistem.</li>
+<li><strong>Profil volum</strong> — simpan persediaan seperti "Fokus," "Perjudian" atau "Mesyuarat" dan tukar keseluruhan campuran dalam satu klik.</li>
+<li><strong>Auto-ducking</strong> — secara automatik menjatuhkan audio latar belakang apabila sesuatu yang lebih penting bermula, supaya anda tidak berebut untuk panggilan tengah gelangsar.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan output lain daripada bar menu.</li>
+</ul>
+
+<p>Pertindihan dengan eqMac pada dasarnya adalah rangsangan. Segala-galanya — pengadun, bisu, profil, itik — adalah wilayah eqMac yang tidak pernah direka bentuk untuk dilindungi.</p>
+
+<h2>Adakah anda masih mahukan EQ?</h2>
+
+<p>Jujurlah tentang masalah yang anda selesaikan. Jika anda benar-benar memerlukan frekuensi EQ — memotong bes, menjinakkan paras tertinggi yang keras, membentuk nada keseluruhan sistem anda — maka eqMac masih mempunyai tempat, dan ia percuma. SoundDial ialah pengadun volum, bukan penyama.</p>
+
+<p>Tetapi kebanyakan orang mencapai penggalak eqMac bukan kerana mereka mahu membentuk frekuensi, mereka mahu satu aplikasi lebih kuat atau campuran seimbang. Jika itu anda, pengadun khusus adalah jawapan yang lebih bersih. Anda juga boleh menjalankan kedua-duanya: kekalkan eqMac untuk keluk EQ seluruh sistem dan gunakan SoundDial untuk tahap setiap apl. Mereka tidak bergaduh kerana pekerjaan yang sama.</p>
+
+<h2>Bagaimana ia dibandingkan dengan alat audio Mac yang lain</h2>
+
+<p>Memandangkan anda sudah pun memburu alatan, berikut ialah landskap yang jujur:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — pilihan pro-gred pada sekitar $39, dengan EQ setiap apl dan penghalaan output penuh. Berkuasa, tetapi ia memerlukan muat turun terus dan memasang pemacu tangkapan audio. Terlalu banyak dan lebih mahal jika anda mahukan volum setiap apl dengan profil.</li>
+<li><strong>Background Music</strong> — sumber percuma dan terbuka, tetapi ia boleh rosak pada keluaran macOS yang lebih baharu dan tidak mempunyai rangsangan, tiada profil dan tiada auto-ducking. Hebat apabila ia berfungsi, mengecewakan apabila ia tidak.</li>
+<li><strong>FineTune</strong> — aplikasi bar menu sumber terbuka percuma. Berbaloi untuk dilihat jika $0 adalah keperluan yang sukar, walaupun ia lebih ringan pada ciri dan pengilat.</li>
+<li><strong>eqMac</strong> — penggalak tambah EQ percuma, tetapi tiada pengadun per apl yang benar, seperti yang dibincangkan di atas.</li>
+</ul>
+
+<p>SoundDial duduk di tempat yang menarik: lebih fokus dan lebih murah daripada SoundSource, lebih berkebolehan dan lebih dipercayai daripada pilihan percuma, dan ia melakukan tugas setiap apl eqMac tidak.</p>
+
+<h2>Mengapa Mac App Store penting di sini</h2>
+
+<p>Beberapa alat ini memerlukan muat turun terus dan pemacu audio peringkat kernel atau tangkapan. Ia berfungsi, tetapi ia adalah jenis perkara yang boleh mendapat kemas kini macOS atau tersandung pada kerja terkunci Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> sebaliknya dihantar melalui Mac App Store. Ini bermakna ia disemak Apple dan dikotak pasir, ia dipasang dengan bersih tanpa DMG untuk diseret, dan tiada pemacu audio atau sambungan sistem untuk diluluskan. Kemas kini tiba melalui App Store seperti mana-mana apl lain, dan menyahpasang adalah pemadaman biasa. Untuk utiliti bar menu yang menyentuh audio anda, laluan geseran yang lebih rendah dan berisiko rendah itu bernilai tinggi.</p>
+
+<h2>Persediaan pantas</h2>
+
+<ul>
+<li>Pasang SoundDial daripada Mac App Store — tiada restart, tiada gesaan pemacu.</li>
+<li>Buka ikon bar menu; setiap apl yang sedang membuat bunyi muncul dengan peluncurnya sendiri.</li>
+<li>Tetapkan tahap, redamkan perkara yang anda tidak perlukan dan tingkatkan apa-apa yang terlalu senyap.</li>
+<li>Simpan susunan sebagai profil, kemudian buat lagi untuk permainan, panggilan atau fokus.</li>
+<li>Hidupkan auto-ducking supaya audio latar belakang diketepikan secara automatik.</li>
+</ul>
+
+<p>Itulah keseluruhan gelung. Dalam masa beberapa minit, anda mempunyai penggalak kawalan setiap apl eqMac sahaja.</p>
+
+<p><strong>Bersedia untuk volum setiap apl sebenar pada Mac anda?</strong> <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> — €14.99 sekali, berkotak pasir, tiada pemandu, dan ia melakukan apa yang sepatutnya dilakukan oleh pengadun bar menu.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "Pengadun Isipadu Baik Termurah untuk Mac pada tahun 2026",
+    description: "Mencari pengadun volum per apl terbaik termurah untuk Mac pada tahun 2026? Bandingkan SoundDial, SoundSource, Background Music, FineTune dan eqMac pada harga, keselamatan dan ciri.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Pengadun volum setiap apl nilai terbaik untuk Mac pada tahun 2026 ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, aplikasi bar menu pada Mac App Store untuk sekali €14.99. Ia memberikan setiap apl penggelangsar volumnya sendiri, ditambah redam, rangsangan, profil dan auto-ducking — tiada pemacu, tiada langganan dan tiada muat turun berisiko. Ia adalah pilihan berbayar termurah yang sebenarnya berfungsi dengan pasti.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pengadun Isipadu Baik Termurah untuk Mac pada 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa "paling murah" memerlukan definisi</h2>
+<p>Terdapat alat volum percuma untuk Mac, jadi jika satu-satunya matlamat ialah membelanjakan sifar, anda mempunyai pilihan. Tetapi percuma biasanya membebankan anda di tempat lain: kerapuhan pada versi macOS baharu, ciri yang hilang seperti rangsangan atau profil, atau proses pemasangan yang melibatkan pemacu tangkapan audio yang anda perlu percayai. "Barang termurah" bermaksud harga terendah yang masih memberikan anda pengadun berciri penuh yang stabil yang anda akan terus gunakan. Itulah lensa yang akan kami gunakan di sini.</p>
+
+<h2>Pertama, perkara yang tidak dilakukan oleh macOS</h2>
+<p>Windows telah mempunyai pengadun volum setiap apl selama bertahun-tahun — klik kanan ikon pembesar suara dan tetapkan setiap apl secara berasingan. macOS masih tidak mempunyai apa-apa yang setara terbina dalam. Anda mendapat satu volum induk dan apa sahaja peluncur dalaman yang berlaku kepada aplikasi (Muzik, sesetengah penyemak imbas). Tiada cara seluruh sistem untuk menjadikan Slack lebih senyap daripada Spotify, atau untuk meningkatkan panggilan video yang senyap di atas segala-galanya. Setiap pilihan di bawah wujud untuk mengisi jurang itu.</p>
+
+<h2>Para pesaing, harga jujur</h2>
+
+<h2>SoundDial — €14.99, sekali</h2>
+<p>SoundDial tinggal dalam bar menu anda dan memberikan setiap apl yang sedang berjalan peluncur volum bebas. Di luar asas, ia menambahkan ciri yang sebenarnya dicapai oleh orang ramai:</p>
+<ul>
+<li><strong>Rangsangan setiap apl</strong> — tolak apl yang terlalu senyap melebihi 100% daripada berusaha keras untuk mendengarnya.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi tanpa menyentuh yang lain.</li>
+<li><strong>Profil volum</strong> — simpan campuran "panggilan kerja" atau "malam filem" dan ingatkannya serta-merta.</li>
+<li><strong>Auto-ducking</strong> — secara automatik menjatuhkan audio latar belakang apabila sesuatu yang lebih penting dimainkan.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan peranti lain daripada menu yang sama.</li>
+</ul>
+<p>Kerana ia berada pada Mac App Store, ia dikotak pasir, disemak oleh Apple dan dipasang dengan bersih — tiada DMG, tiada sambungan kernel, tiada pemacu audio untuk diluluskan. awak bayar <a href="https://apps.apple.com/app/id6772792641">€14.99 sekali</a> dan memilikinya. Bagi kebanyakan orang, ini adalah tempat yang menarik: cukup murah untuk menjadi ya yang mudah, cukup lengkap sehingga anda tidak akan mengatasinya.</p>
+
+<h2>SoundSource — ~$39, pilihan pro</h2>
+<p>Rogue Amoeba SoundSource ialah standard emas untuk pengguna kuasa. Ia melakukan volum setiap apl dan meredam seperti SoundDial, tetapi pergi lebih jauh dengan penyamaan setiap apl dan penghalaan output penuh (hantar satu apl ke fon kepala, satu lagi ke pembesar suara). Ia benar-benar hebat — tetapi harganya lebih kurang $39, dan ia dipasang di luar App Store dengan komponen tangkapan audio yang anda perlu berikan kebenaran. Jika anda memerlukan EQ setiap apl atau penghalaan kompleks, ia berbaloi. Jika anda hanya mahukan pengadun yang bersih dan murah, anda membayar untuk keupayaan yang mungkin anda tidak pernah sentuh.</p>
+
+<h2>Background Music — percuma, sumber terbuka</h2>
+<p>Background Music ialah aplikasi sumber terbuka percuma yang terkenal yang menawarkan volum setiap apl dan jeda automatik. Tangkapan: ia menghubungkan jauh ke Audio Teras melalui pemacu maya, dan ia mempunyai sejarah panjang untuk memecahkan keluaran macOS baharu, kadangkala memerlukan pembaikan manual atau pemasangan semula selepas kemas kini. Ia juga tidak mempunyai rangsangan, profil yang disimpan dan auto-ducking. Hebat untuk mereka yang tidak keberatan dengan penyelenggaraan; mengecewakan jika anda hanya mahu ia berfungsi.</p>
+
+<h2>FineTune — percuma, bar menu</h2>
+<p>FineTune ialah apl volum bar menu sumber terbuka percuma. Ia ringan dan menyenangkan, dan untuk pelarasan mudah setiap apl, ia sudah mencukupi. Tetapi sebagai projek percuma yang kecil, ia tidak sepadan dengan kedalaman ciri — tiada profil, tiada auto-ducking dan pengendalian rangsangan/output adalah terhad. Kos sifar, lebih sedikit jaminan untuk jangka hayat dan sokongan.</p>
+
+<h2>eqMac — percuma, EQ + booster</h2>
+<p>eqMac ialah penyamaan seluruh sistem percuma dengan penggalak volum. Ia lebih kepada membentuk nada dan kelantangan di seluruh Mac anda daripada mencampurkan apl individu, jadi ia adalah alat yang berbeza untuk kerja yang berbeza. Jika anda secara khusus mahukan kawalan setiap apl, eqMac bukanlah jawapannya, walaupun ia adalah EQ percuma yang bagus.</p>
+
+<h2>Harga berbanding nilai: jadual jujur</h2>
+<ul>
+<li><strong>Benar-benar percuma, tetapi dengan pertukaran:</strong> Background Music (rapuh, berasaskan pemandu), FineTune (ciri nipis), eqMac (EQ, bukan pengadun).</li>
+<li><strong>Apl berbayar lengkap termurah:</strong> SoundDial pada €14.99 — rangsangan, profil, itik, keselamatan App Store.</li>
+<li><strong>Premium/pro:</strong> SoundSource pada ~$39 — EQ dan penghalaan, pemasangan bukan App-Store.</li>
+</ul>
+<p>Dengan kata lain: SoundDial berharga kira-kira satu pertiga daripada SoundSource sambil meliputi ciri yang 90% orang sebenarnya inginkan. Dan tidak seperti pilihan percuma, ia tidak akan pecah secara senyap selepas kemas kini macOS, kerana ia tidak bergantung pada pemacu audio peringkat sistem yang rapuh.</p>
+
+<h2>Mana yang patut anda pilih?</h2>
+<p>Jika anda seorang profesional yang memerlukan EQ setiap apl dan untuk menghalakan apl ke output yang berbeza, beli SoundSource — ia memperoleh harganya. Jika anda menyukai sumber terbuka dan tidak kisah kerosakan sekali-sekala, cuba Background Music atau FineTune secara percuma. Tetapi jika anda mahukan pilihan termurah yang hanya berfungsi — volum bebas, rangsangan, redam, profil boleh simpan dan auto-itik, dipasang dengan selamat daripada App Store — SoundDial ialah pemenang nilai yang jelas pada tahun 2026.</p>
+
+<blockquote>Pengadun terbaik bukanlah yang mempunyai ciri paling banyak atau harga terendah — ia adalah yang anda sediakan sekali dan lupakan. Pada €14.99, SoundDial menjadikan panggilan itu mudah.</blockquote>
+
+<p>Bersedia untuk memberikan setiap apl volumnya sendiri? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> untuk satu kali €14.99 — tiada langganan, tiada pemandu, tiada risiko.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Pengadun Kelantangan Windows untuk Mac: Dapatkan Kawalan Kelantangan Per-Apl",
+    description: "Hilang Pengadun Volume Windows pada Mac anda? macOS tidak mempunyai kawalan kelantangan setiap apl terbina dalam. Berikut ialah cara terpantas untuk mendapatkannya: SoundDial, pengadun bar menu €14.99.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai Pengadun Kelantangan terbina dalam seperti Windows, jadi anda tidak boleh menetapkan volum setiap apl daripada Tetapan Sistem. Pembaikan terpantas dan boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, apl bar menu €14.99 daripada Mac App Store. Ia memberikan setiap apl penggelangsar volum sendiri, redam dan rangsangan — tiada pemacu, tiada DMG, tiada pemasangan berisiko.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pengadun Kelantangan Windows untuk Mac: Dapatkan Kawalan Kelantangan Per-Apl" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa Pengadun Isipadu Windows tidak mempunyai setara Mac</h2>
+
+<p>Jika anda beralih daripada Windows, salah satu perkara pertama yang anda akan terlepas ialah Pengadun Kelantangan: klik kanan ikon pembesar suara dan setiap apl yang sedang berjalan mendapat peluncurnya sendiri. Kurangkan Chrome, pastikan Discord kuat, redamkan Spotify — semuanya di satu tempat.</p>
+
+<p>macOS semata-mata tidak menghantar ini. Kawalan kelantangan Apple ialah gelangsar seluruh sistem tunggal. Apa-apa tahap yang anda tetapkan terpakai pada semua sekali gus. Tiada pilihan setiap apl tersembunyi dalam Tetapan Sistem, tiada perintah Terminal, tiada togol kebolehaksesan. Ia adalah jurang yang tulen, dan ia telah berlaku selama bertahun-tahun.</p>
+
+<p>Sebabnya adalah seni bina: apl mengarahkan audio melalui Audio Teras ke peranti output anda dan OS tidak mendedahkan pengadun yang menghadap pengguna untuk strim individu. Untuk mencipta semula pengalaman Windows, anda memerlukan apl pihak ketiga yang berada dalam laluan audio itu dan memberikan anda kawalan yang ditinggalkan oleh Apple.</p>
+
+<h2>Perlawanan terdekat: SoundDial</h2>
+
+<p>SoundDial ialah pengadun volum per apl menu-bar yang dibina khusus untuk ini. Klik ikonnya dan anda mendapat senarai bersih semua yang memainkan audio, masing-masing dengan peluncurnya sendiri. Ia adalah "Pengadun Kelantangan Windows untuk Mac" paling langsung yang boleh anda pasang, dan ia melakukan beberapa perkara yang tidak pernah dilakukan oleh pengadun Windows:</p>
+
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> - ciri teras. Tetapkan Chrome kepada 40%, Zoom kepada 100%, muzik kepada 20%.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi tanpa menyentuh yang lain.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak apl senyap <em>di atas</em> 100% apabila audio sendiri terlalu rendah.</li>
+<li><strong>Profil volum</strong> — simpan campuran (cth. "panggilan kerja" atau "permainan") dan ingatkannya serta-merta dan bukannya menyeret semula peluncur.</li>
+<li><strong>Auto-ducking</strong> — menurunkan audio latar belakang secara automatik apabila sesuatu yang lebih penting bermula, seperti panggilan.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan peranti lain daripada menu yang sama.</li>
+</ul>
+
+<p>Kerana ia pada <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, ia disemak Apple dan kotak pasir. Ia dipasang dengan bersih dengan satu klik — tiada DMG untuk diseret, tiada pemacu audio atau sambungan sistem untuk diluluskan, tiada gesaan keselamatan. Pada €14.99 sekali sahaja (tiada langganan), ia adalah cara paling mudah untuk merapatkan jurang.</p>
+
+<h2>Cara menyediakan volum setiap apl pada Mac anda</h2>
+
+<ol>
+<li>Pasang SoundDial daripada Mac App Store.</li>
+<li>Berikan kebenaran audio sekali sahaja yang diminta pada pelancaran pertama.</li>
+<li>Klik ikon SoundDial dalam bar menu anda.</li>
+<li>Seret peluncur di sebelah mana-mana apl untuk menetapkan kelantangannya, atau tekan redam/tingkatkan.</li>
+<li>Secara pilihan, simpan campuran semasa sebagai profil supaya anda boleh memulihkannya kemudian.</li>
+</ol>
+
+<p>Itulah keseluruhan aliran kerja. Ia berkelakuan seperti pengadun Windows yang anda sedia maklum, hanya dari bar menu dan bukannya klik kanan pada bar tugas.</p>
+
+<h2>Bagaimana SoundDial dibandingkan dengan pilihan lain</h2>
+
+<p>SoundDial bukan satu-satunya alat dalam ruang ini, jadi inilah pandangan jujur ​​pada alternatif.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — sekitar $39, dan benar-benar pro-gred: EQ setiap apl, penghalaan output bagi setiap apl, kesan. Tetapi ia memerlukan muat turun terus serta pemacu tangkapan audio, dan ia berlebihan (dan lebih mahal) jika anda hanya mahukan volum setiap apl. Pilihnya jika anda memerlukan EQ dan penghalaan; pilih SoundDial jika anda mahukan pengadun tanpa kerumitan atau pemandu.</li>
+<li><strong>Background Music</strong> — percuma dan sumber terbuka, yang sangat bagus. Tangkapan: ia boleh pecah pada versi macOS yang lebih baharu, dan ia tidak mempunyai rangsangan, profil yang disimpan dan auto-ducking. Baik jika anda selesa menyelesaikan masalah pemacu audio sumber terbuka; kurang ideal jika anda mahu sesuatu yang hanya berfungsi.</li>
+<li><strong>FineTune</strong> — aplikasi bar menu sumber terbuka percuma. Ringan dan patut dilihat jika belanjawan adalah keutamaan, tetapi anda berdagang penggilap, profil dan keselamatan App Store secara percuma.</li>
+<li><strong>eqMac</strong> — EQ percuma dan penggalak seluruh sistem. Ia adalah penyama dahulu, bukan pengadun per apl, jadi ia menyelesaikan masalah yang berbeza.</li>
+</ul>
+
+<p>Pertukaran adalah mudah. Alat percuma tiada kos tetapi boleh menjadi rapuh atau nipis ciri. SoundSource berkuasa tetapi mahal dan berasaskan pemandu. SoundDial berada di tempat yang menarik: €14.99 sekali sahaja, keselamatan dan kotak pasir App Store, dan profil + auto-itik yang dilangkau oleh pilihan percuma.</p>
+
+<blockquote>Jika anda mahukan pengalaman Pengadun Volume Windows — peluncur setiap apl, senyapkan dan rangsangan, dipasang dengan selamat dalam beberapa saat — SoundDial ialah padanan paling langsung.</blockquote>
+
+<h2>Kesimpulannya</h2>
+
+<p>macOS tidak akan memberikan anda Pengadun Volume, dan mungkin tidak akan pernah. Tetapi anda tidak perlu hidup dengan satu gelangsar seluruh sistem. Pengadun bar menu khusus memulihkan kawalan setiap apl yang anda miliki pada Windows dan menambah rangsangan, profil dan auto-itik di atas.</p>
+
+<p>Bersedia untuk mendapatkan volum setiap apl dengan cara mudah? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> untuk €14.99 — sekali sahaja, dikotak pasir dan dipasang dalam beberapa saat.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Tetapkan Kelantangan Apl Seperti Windows — pada Mac Anda",
+    description: "Windows mempunyai pengadun volum setiap apl, tetapi macOS tidak. Berikut ialah cara untuk menetapkan volum bebas untuk setiap apl pada Mac anda — pantas, selamat dan tanpa pemandu.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai pengadun volum per apl terbina dalam seperti yang ada dalam Windows, jadi pembetulan terpantas yang boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, apl bar menu Mac App Store yang memberikan setiap apl penggelangsar volum, redam per apl dan peningkatan volumnya sendiri. Ia adalah kotak pasir, disemak Apple, dipasang tanpa pemacu dan berharga €14.99 sekali.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Tetapkan Kelantangan Apl Seperti Windows — pada Mac Anda" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa Windows boleh melakukan ini dan macOS tidak boleh</h2>
+<p>Jika anda telah menggunakan Windows, anda tahu gerudinya: klik kanan ikon pembesar suara, buka Pengadun Kelantangan dan seret peluncur berasingan untuk Chrome, Spotify, Discord dan apa-apa lagi yang membuat bising. Ia mudah dan ia hanya berfungsi.</p>
+<p>macOS tidak pernah menghantar yang setara. Kawalan audio Apple adalah global — satu volum induk untuk keseluruhan sistem. Anda boleh meredamkan apl dengan meredamkan sumber di dalam apl itu (jika ia mempunyai kawalan), tetapi tiada tempat bersatu untuk mengatakan "kekalkan muzik saya pada 40% sementara mesyuarat saya kekal pada 100%." Jurang itulah sebabnya pengadun pihak ketiga wujud.</p>
+
+<h2>Pembaikan terpantas: pengadun bar menu</h2>
+<p>Padanan yang paling hampir dengan pengalaman Windows ialah apl bar menu yang menyenaraikan apl audio anda yang sedang berjalan dan memberikan setiap satu gelangsar. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> melakukan ini dengan tepat. Klik ikonnya dalam bar menu dan anda mendapat:</p>
+<ul>
+<li><strong>Kelantangan bebas untuk setiap apl</strong> — seret Spotify ke bawah tanpa menyentuh panggilan anda.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi yang bising serta-merta, biarkan yang lain bermain.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak aplikasi yang terlalu senyap <em>di atas</em> 100% apabila maksnya sendiri masih terlalu lembut.</li>
+<li><strong>Profil volum</strong> — simpan campuran "Kerja" atau "Perjudian" dan ingatkannya dalam satu klik.</li>
+<li><strong>Auto-ducking</strong> — menurunkan audio latar belakang secara automatik apabila sesuatu yang lebih penting bermula.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan output lain daripada menu yang sama.</li>
+</ul>
+<p>Oleh kerana ia berada pada Mac App Store, ia dikotak pasir dan disemak oleh Apple, ia dipasang dengan bersih, dan tiada DMG untuk diseret, tiada sambungan kernel dan tiada pemacu audio untuk diluluskan dalam Tetapan Sistem. Bahagian terakhir itu lebih penting daripada yang dikatakan — alatan berasaskan pemandu adalah alat yang cenderung rosak selepas kemas kini macOS.</p>
+
+<h2>Cara menyediakannya (kira-kira dua minit)</h2>
+<ul>
+<li><strong>1.</strong> Pasang SoundDial daripada Mac App Store dan lancarkannya.</li>
+<li><strong>2.</strong> Berikan kebenaran audio yang digesa macOS — inilah yang membolehkan apl melihat strim setiap apl.</li>
+<li><strong>3.</strong> Klik ikon SoundDial dalam bar menu anda. Setiap apl yang sedang memainkan audio dipaparkan dengan peluncurnya sendiri.</li>
+<li><strong>4.</strong> Seret peluncur mana-mana apl untuk menetapkan tahapnya atau tekan redam. Tingkatkan melepasi 100% apabila apl terlalu senyap.</li>
+<li><strong>5.</strong> (Pilihan) Simpan campuran semasa anda sebagai profil supaya anda boleh memulihkannya kemudian dan hidupkan auto-ducking jika anda mahu audio latar belakang digugurkan secara automatik.</li>
+</ul>
+<p>Itulah keseluruhan aliran kerja. Ia berkelakuan seperti Pengadun Jilid Windows yang anda sedia maklum, tolak geseran persediaan.</p>
+
+<h2>Bagaimana pula dengan alternatif percuma dan pro?</h2>
+<p>Terdapat cara lain untuk mendapatkan volum setiap apl pada Mac. Mereka patut diketahui supaya anda boleh memilih dengan jujur.</p>
+<blockquote>Alat percuma memperdagangkan wang untuk kebolehpercayaan dan ciri; alat pro memperdagangkan wang dan persediaan untuk kedalaman yang anda mungkin tidak perlukan.</blockquote>
+<p><strong>Background Music</strong> adalah percuma dan sumber terbuka, dan ia menyediakan volum setiap apl. Tangkapan: ia menghubungkan jauh ke dalam sistem audio dan mempunyai sejarah pecah pada keluaran macOS yang lebih baharu, dan ia tidak mempunyai rangsangan, profil dan auto-ducking. Jika ia berfungsi pada persediaan anda, bagus — tetapi ia adalah satu perjudian merentasi peningkatan.</p>
+<p><strong>FineTune</strong> ialah aplikasi bar menu sumber terbuka percuma dalam semangat yang sama seperti SoundDial. Ini adalah titik permulaan yang baik jika belanjawan adalah satu-satunya kebimbangan, walaupun ia adalah projek komuniti tanpa profil dan penggilap itik.</p>
+<p><strong>eqMac</strong> ialah EQ dan penggalak seluruh sistem percuma. Ia bagus untuk membentuk bunyi keseluruhan, tetapi ia bukan pengadun per apl yang benar — anda melaraskan keseluruhan output, bukan apl individu.</p>
+<p><strong>SoundSource</strong> oleh Rogue Amoeba (sekitar $39) ialah pilihan pro-gred: EQ setiap apl, penghalaan output bagi setiap apl dan ciri jurutera audio yang serius. Ia sangat baik — tetapi ia memerlukan muat turun terus dan memasang komponen tangkapan audio, dan kosnya lebih dua kali ganda daripada yang dilakukan oleh SoundDial. Jika anda mahukan penghalaan dan EQ peringkat studio, itu pilihannya. Jika anda hanya mahukan pengadun gaya Windows, ia adalah berlebihan.</p>
+
+<h2>Mana satu patut anda dapatkan?</h2>
+<p>Jika matlamat anda ialah "membuat Mac saya berfungsi seperti Pengadun Volume Windows" tanpa muat turun, pemacu atau risiko, SoundDial ialah jawapan yang paling bersih. Anda mendapat volum setiap apl, redam, rangsangan, profil dan auto-itik, semuanya App Store-selamat, untuk sekali €14.99 — tiada langganan. Pilih SoundSource sebaliknya hanya jika anda secara khusus memerlukan EQ per apl dan penghalaan output, dan cuba pilihan percuma jika anda selesa menyelesaikan masalah merentas kemas kini macOS.</p>
+
+<p><strong>Bersedia untuk memberikan setiap apl volumnya sendiri?</strong> <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan sediakan adunan pertama anda dalam masa dua minit.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "Cara Menjadikan Mac Anda Lebih Keras untuk Mendengar Sukar Pendengaran",
+    description: "Bergelut untuk mendengar Mac anda walaupun pada volum maksimum? Ketahui cara meningkatkan dan menjelaskan audio bagi setiap apl untuk pendengaran sukar pendengaran, termasuk SoundDial dan petua terbina dalam.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika Mac anda tidak cukup kuat walaupun pada volum maksimum, pembetulan terpantas yang boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun bar menu Mac App Store yang membolehkan anda meningkatkan mana-mana apl melepasi 100% dan meredamkan semua yang lain. Ini bermakna pertuturan yang lebih kuat dan jelas daripada FaceTime, video atau pemain filem tanpa menghidupkan seluruh sistem anda. Ia €14.99, sekali sahaja.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Cara Menjadikan Mac Anda Lebih Keras untuk Mendengar Sukar Pendengaran" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa memaksimumkan peluncur volum masih tidak mencukupi</h2>
+<p>Untuk pendengar yang kurang pendengaran, peluncur volum macOS mempunyai dua had yang mengecewakan. Pertama, ia menghadkan 100% daripada apa yang dikeluarkan oleh apl itu sendiri. Jika podcast, video atau panggilan dirakam secara senyap, "volum penuh" masih terlalu lembut. Kedua, macOS tidak mempunyai pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun, tetapi pada Mac setiap apl berkongsi tahap induk tunggal. Oleh itu, apabila anda menghidupkan segala-galanya untuk mendengar suara lembut, muzik latar belakang dan bunyi pemberitahuan menjadi tidak selesa juga kuat.</p>
+<p>Apa yang anda perlukan sebenarnya adalah keupayaan untuk membuat <em>satu</em> apl lebih kuat daripada yang lain, tolaknya melebihi siling biasa dan potong bunyi bersaing supaya pertuturan menonjol. Itulah jurang yang diisi oleh alat ini.</p>
+
+<h2>Mula-mula, gunakan tetapan kebolehaksesan macOS percuma</h2>
+<p>Sebelum menambah mana-mana apl, anda perlu menyediakan perkara yang telah ditawarkan oleh macOS. Ini membantu kejelasan, walaupun ia tidak menambah kenyaringan mentah:</p>
+<ul>
+<li><strong>Audio mono:</strong> Tetapan Sistem &rarr; Kebolehcapaian Audio &rarr;, hidupkan "Mainkan audio stereo sebagai mono." Jika pendengaran anda lebih kuat pada satu telinga, ini menghantar isyarat penuh kepada kedua-duanya, jadi anda tidak kehilangan separuh dialog.</li>
+<li><strong>Pelarasan baki:</strong> Dalam Tetapan Sistem Bunyi &rarr;, seret baki kiri/kanan ke arah telinga anda yang lebih kuat.</li>
+<li><strong>Kurangkan bunyi latar belakang:</strong> Muzik dan suasana yang lebih rendah dalam apl yang membenarkannya, jadi suara tidak melawan runut bunyi.</li>
+<li><strong>Penginapan fon kepala:</strong> Jika anda menggunakan AirPods atau Beats, Tetapan Sistem &rarr; Kebolehcapaian &rarr; Audio &rarr; Penginapan Fon Kepala boleh menguatkan bunyi lembut dan menala pertuturan.</li>
+</ul>
+<p>Ini benar-benar berguna dan tiada kos. Tetapi tiada seorang pun daripada mereka membuat satu apl senyap <em>lebih kuat daripada 100%</em>, dan itu biasanya masalah sebenar.</p>
+
+<h2>Cara meningkatkan satu apl melepasi 100% dengan SoundDial</h2>
+<p>SoundDial tinggal dalam bar menu anda dan menunjukkan peluncur untuk setiap apl yang sedang memainkan bunyi. Berikut ialah aliran kerja yang paling membantu untuk pendengaran yang sukar mendengar:</p>
+<ul>
+<li><strong>Tingkatkan apl yang anda sedang dengar.</strong> Seret peluncurnya melebihi 100% untuk menguatkan panggilan video atau podcast yang senyap melebihi apa yang dibenarkan oleh apl itu sendiri.</li>
+<li><strong>Redamkan atau rendahkan semua yang lain.</strong> Tarik ke bawah muzik, tab penyemak imbas atau bunyi pemberitahuan supaya tiada apa yang menandingi suara yang anda cuba ikuti.</li>
+<li><strong>Hidupkan auto-ducking.</strong> Apabila anda mula bercakap dalam panggilan, SoundDial secara automatik mencelupkan audio lain supaya orang yang anda bercakap dengan jelas melaluinya, kemudian memulihkannya selepas itu.</li>
+<li><strong>Simpan profil kelantangan.</strong> Buat profil "panggilan video" di mana apl persidangan anda dirangsang dan semua yang lain senyap, kemudian beralih kepadanya serta-merta dan bukannya melaraskan semula setiap kali.</li>
+<li><strong>Tukar output dengan cepat.</strong> Lompat antara pembesar suara, set kepala atau peranti yang disambungkan dengan alat bantu pendengaran daripada menu yang sama, tanpa menggali Tetapan Sistem.</li>
+</ul>
+<p>Ciri rangsangan adalah yang utama di sini. Kerana ia meningkatkan output apl melebihi maksimum asalnya, rakaman senyap berbisik menjadi sesuatu yang sebenarnya anda boleh dengar, manakala seluruh sistem anda kekal pada tahap yang selesa.</p>
+
+<h2>Satu perkataan cepat tentang herotan</h2>
+<p>Sebarang rangsangan perisian menguatkan apa sahaja yang ada dalam isyarat, jadi menolak jauh melebihi 100% pada audio yang sudah kuat boleh memperkenalkan keratan. Dalam amalan, meningkatkan <em>senyap</em> kandungan sehingga tahap yang selesa dan boleh difahami bunyinya bersih. Mulakan secara sederhana, naikkan sehingga pertuturan jelas, dan undur jika ia mula berbunyi kasar. Melindungi baki pendengaran anda adalah penting, jadi sasarkan untuk kejelasan dan bukannya kelantangan maksimum.</p>
+
+<h2>Bagaimana SoundDial dibandingkan dengan alternatif</h2>
+<p>Anda mempunyai beberapa pilihan dan kejujuran membantu anda memilih yang betul:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39):</strong> Benar-benar pro-gred, dengan EQ setiap apl dan penghalaan output. Jika anda ingin mengukir frekuensi untuk kehilangan pendengaran, ia sangat berkuasa. Tetapi kosnya lebih daripada dua kali ganda, memerlukan muat turun terus dan memasang pemacu tangkapan audio. Itu lebih banyak persediaan dan akses sistem daripada yang dikehendaki oleh ramai orang.</li>
+<li><strong>Background Music (percuma, sumber terbuka):</strong> Menawarkan volum setiap apl secara percuma, tetapi ia tidak mempunyai rangsangan, profil dan auto-ducking, dan ia boleh pecah pada versi macOS yang lebih baharu kerana ia menghubungkan jauh ke dalam sistem audio.</li>
+<li><strong>FineTune (percuma, sumber terbuka):</strong> Apl volum bar menu yang ringan. Baik untuk asas-asas, tetapi tanpa rangsangan, profil, dan pemerhatian yang menjadi tumpuan pendengar yang kurang pendengaran.</li>
+<li><strong>eqMac (percuma):</strong> Penyamaan dengan penggalak. Berguna untuk membentuk bunyi, tetapi ia dibina berdasarkan EQ dan bukannya pencampuran dan profil setiap apl yang bersih.</li>
+</ul>
+<p>di mana <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> yang menonjol ialah keseimbangan harga, keselamatan dan ciri khusus yang penting di sini. Oleh kerana ia berada pada Mac App Store, ia disemak dan dikotak pasir oleh Apple, dipasang dengan bersih tanpa DMG dan tidak memerlukan pemacu audio atau sambungan sistem. Anda mendapat rangsangan setiap apl, meredam, profil kelantangan dan auto-ducking dalam satu pembelian sekali €14.99, tanpa apa-apa yang perlu digali ke dalam tindanan audio macOS.</p>
+
+<h2>Kesimpulannya</h2>
+<p>Sediakan pilihan kebolehcapaian macOS percuma dahulu, ia berbaloi untuk dimiliki. Tetapi jika isu sebenar ialah satu apl terlalu senyap, anda memerlukan alat yang boleh menolak satu apl melepasi 100% dan senyap selebihnya. Itulah inti dari rangsangan setiap apl, dan macOS tidak melakukannya sendiri.</p>
+
+<p>Bersedia untuk mendengar Mac anda? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dengan harga €14.99, tingkatkan apl yang anda perlukan dan biarkan auto-ducking dan profil memastikan pertuturan jelas.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Cara Meningkatkan Apl Senyap pada Mac (Volume Maks Lepas)",
+    description: "Satu apl terlalu senyap walaupun pada 100%? Tingkatkan hanya apl itu melepasi maksimumnya pada Mac dengan SoundDial, pengadun volum setiap apl. Berikut ialah pembetulan terpantas ditambah alternatif.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika satu apl terlalu senyap walaupun pada volum maksimum, pembetulan terpantas yang boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun volum per apl menu-bar untuk macOS. Ia memberikan setiap apl penggelangsarnya sendiri ditambah kelantangan <strong>rangsangan</strong> yang menolak satu apl melepasi 100%, jadi panggilan video atau tab penyemak imbas yang senyap berbisik menjadi lebih kuat tanpa menyentuh volum sistem anda. Ia adalah apl €14.99 sekali sahaja pada Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Cara Meningkatkan Apl Senyap pada Mac (Volume Maks Lepas)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa satu apl senyap walaupun pada 100%</h2>
+<p>macOS hanya mempunyai satu volum induk. Apabila anda menaikkannya, semuanya menjadi lebih kuat bersama-sama. Tetapi setiap apl juga mengeluarkan bunyi pada tahap dalamannya sendiri, dan tahap itu berbeza-beza. Klip YouTube yang dikuasai secara senyap, pemanggil Zoom dengan mikrofon yang buruk, permainan dengan pencampuran dialog rendah atau tab penyemak imbas dengan aliran lembut semuanya boleh berada jauh di bawah segala-galanya, walaupun dengan Mac anda pada letupan penuh.</p>
+<p>Masalah sebenar: macOS ada <strong>tiada pengadun volum per apl terbina dalam</strong>. Windows telah memilikinya selama bertahun-tahun (Pengadun Kelantangan, klik kanan ikon pembesar suara). Pada Mac, tiada cara asli untuk menghidupkan satu apl sambil membiarkan yang lain bersendirian, dan pastinya tiada cara untuk menguatkan satu apl <em>di atas</em> maksimum biasa. Itulah jurang yang anda langgar.</p>
+
+<h2>Pembetulan terpantas: tingkatkan hanya satu apl itu</h2>
+<p>Pengadun per-apl menyelesaikan masalah ini dengan memasukkan sendiri antara apl anda dan output anda, supaya ia boleh menaikkan atau menurunkan setiap strim secara bebas dan meningkatkan satu strim melebihi 100%. Dengan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, alirannya pendek:</p>
+<ul>
+<li>Pasang dari Mac App Store dan bukanya. Ia tinggal dalam bar menu anda, bukan tetingkap terapung.</li>
+<li>Klik ikon bar menu untuk melihat peluncur bagi setiap apl yang sedang memainkan audio.</li>
+<li>Cari apl senyap dan seret peluncurnya melepasi 100% untuk menggunakan rangsangan. Ia menguatkan aplikasi itu sahaja.</li>
+<li>Tinggalkan semua yang lain di mana ia berada. Kelantangan sistem anda dan apl lain kekal tidak disentuh.</li>
+</ul>
+<p>Oleh kerana rangsangan adalah untuk setiap apl, anda boleh menolak panggilan video lembut ke tahap yang selesa sambil mengekalkan muzik atau pemberitahuan daripada memekakkan telinga. Itulah perkara teras yang tidak boleh dilakukan oleh kawalan macOS terbina dalam.</p>
+
+<h2>Nota tentang rangsangan dan keratan</h2>
+<p>Boost benar-benar berguna, tetapi ia adalah penguatan, bukan sihir. Jika audio asal apl sangat senyap atau sudah diherotkan, mengetuknya dengan kuat boleh memperkenalkan keratan atau menjadikan latar belakang mendesis lebih jelas. Dalam amalan, rangsangan sederhana membetulkan sebahagian besar situasi "panggilan ini terlalu senyap" dengan bersih. Dorong ke atas sehingga apl selesa dan bukannya menghempasnya ke siling, dan anda akan memastikan bunyi itu bersih.</p>
+
+<h2>Di luar dorongan: apa lagi yang membantu</h2>
+<p>Sebaik sahaja anda mempunyai kawalan setiap apl, beberapa ciri menjadikan masalah apl senyap hilang selamanya:</p>
+<ul>
+<li><strong>Profil volum</strong> — simpan persediaan (cth. "tingkatkan Zoom, rendahkan Spotify, redamkan Slack") dan panggil semula dalam satu klik dan bukannya menyeret semula peluncur setiap mesyuarat.</li>
+<li><strong>Auto-ducking</strong> — secara automatik mencelupkan apl lain apabila apl yang dipilih dimainkan, jadi panggilan yang dirangsang kedengaran dengan jelas melalui audio latar belakang.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi yang bising tanpa menjeda apa-apa lagi.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala atau antara muka luaran daripada menu yang sama.</li>
+</ul>
+
+<h2>Bagaimana pula dengan alternatif percuma dan pro?</h2>
+<p>Anda mempunyai pilihan, dan kejujuran penting di sini, jadi inilah landskap sebenar.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) ialah pilihan pro-gred pada sekitar $39. Ia melakukan volum setiap apl ditambah EQ setiap apl dan penghalaan output penuh, lebih kuasa daripada yang diperlukan oleh kebanyakan orang. Tukar ganti: kosnya lebih daripada dua kali ganda, muat turun terus dan bukannya App Store, dan ia memasang pemacu tangkapan audio untuk melakukan kerjanya. Jika anda mahukan kit alat jurutera audio, ia sangat bagus. Jika anda hanya mahu satu apl lebih kuat, ia adalah berlebihan.</p>
+<p><strong>Background Music</strong> adalah percuma dan sumber terbuka, dan ia boleh melakukan volum asas setiap apl. Tetapi ia adalah projek komuniti yang mempunyai sejarah pecah pada versi macOS yang lebih baharu, dan ia tidak mempunyai rangsangan melepasi 100%, profil dan auto-ducking. Hebat jika percuma adalah satu-satunya keperluan dan anda tidak kisah pecah sekali-sekala.</p>
+<p><strong>FineTune</strong> ialah aplikasi bar menu sumber terbuka percuma, dan <strong>eqMac</strong> adalah EQ percuma dan penggalak sistem. Kedua-duanya patut dicuba jika belanjawan anda sifar. Hanya tahu bahawa mereka diselenggarakan komuniti, tertumpu pada EQ atau lebih ringan pada pengurusan setiap apl, dan jangan gabungkan profil serta itik dalam satu pakej yang digilap.</p>
+<p>di mana <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tanah: ia adalah jalan tengah. Lebih murah daripada SoundSource, lebih berkebolehan dan lebih dipercayai daripada alat percuma, dan ia <strong>Mac App Store</strong>, yang bermaksud Apple disemak, kotak pasir dan dipasang dengan bersih dengan <strong>tiada DMG dan tiada pemacu audio atau sambungan</strong> untuk melekat pada sistem anda. Bagi kebanyakan orang, pengesyoran jujur ​​adalah mudah: jika anda mahukan pembetulan yang paling tidak menyusahkan yang turut memberi anda rangsangan, profil dan auto-ducking, ia adalah nilai terbaik pada €14.99 sekali.</p>
+
+<h2>Jawapan pantas, dinyatakan semula</h2>
+<blockquote>Untuk menjadikan satu apl Mac lebih kuat daripada maksimumnya, gunakan pengadun volum setiap apl dengan rangsangan. Buka SoundDial daripada bar menu, cari peluncur apl yang senyap dan seretnya melepasi 100%. Hanya apl itu menjadi lebih kuat.</blockquote>
+
+<p>Berhenti melawan gelangsar volum tunggal untuk keseluruhan Mac anda. Dapatkan <a href="https://apps.apple.com/app/id6772792641">SoundDial pada Mac App Store</a> dengan harga €14.99 sekali, tingkatkan apl senyap itu melepasi hadnya dalam beberapa saat dan simpan profil supaya anda tidak perlu memikirkannya lagi.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Cara Memperkuatkan Video & Podcast Senyap pada Mac Anda",
+    description: "Sesetengah video, podcast dan kuliah YouTube terlalu senyap walaupun pada 100%. Berikut ialah cara untuk meningkatkan volum setiap apl melepasi maksimum pada macOS dengan SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Pembaikan terpantas dan boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun bar menu Mac App Store yang memberikan setiap apl penggelangsar volumnya sendiri dan nyata <strong>rangsangan</strong> yang melepasi 100%. Buka penyemak imbas atau pemain podcast anda, seret peluncurnya melebihi maksimum, dan video atau kuliah yang senyap serta-merta menjadi lebih kuat — tiada pemacu, tiada mulakan semula.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Cara Memperkuatkan Video &amp; Podcast Senyap pada Mac Anda" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa sesetengah video dan podcast terlalu senyap</h2>
+<p>Anda menghidupkan Mac anda kepada 100%, dan temu bual itu masih berbisik. Ini bukan imaginasi anda. Audio dikuasai pada tahap kenyaringan yang sangat berbeza — webinar yang dirakam pada mikrofon komputer riba, podcast indie senyap atau muat naik kuliah lama boleh berada 15–20 dB di bawah video YouTube yang dihasilkan secara profesional. Kelantangan sistem anda sudah maksima, jadi tiada ruang kepala lagi untuk diberikan.</p>
+<p>Inilah tangkapan: macOS telah <strong>tiada pengadun volum per apl terbina dalam</strong>. Windows telah mempunyai satu selama bertahun-tahun (Pengadun Kelantangan dalam dulang sistem), tetapi pada Mac, kekunci kelantangan menggerakkan satu tahap global untuk segala-galanya. Tiada cara asli untuk mengatakan "jadikan hanya tab penyemak imbas ini lebih kuat" — apatah lagi menolak satu apl melepasi 100%.</p>
+
+<h2>Pembetulan sebenar: peningkatan volum setiap apl</h2>
+<p>Untuk menjadikan sumber senyap lebih kuat daripada pembesar suara anda biasanya, anda memerlukan perisian yang menggunakan keuntungan <em>aplikasi itu secara khusus</em> dan boleh menguatkan melebihi siling 100%. Itulah yang dilakukan oleh pengadun per apl dengan ciri rangsangan.</p>
+<p>Dengan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, setiap apl yang sedang berjalan dipaparkan dalam senarai bar menu dengan peluncurnya sendiri. Luncurkan apl senyap sehingga 150% atau 200% dan audio diperkuatkan dalam masa nyata. Oleh kerana rangsangan adalah setiap apl, segala-galanya — muzik anda, pemberitahuan, panggilan dalam tetingkap lain — kekal pada tahap biasa. Anda tidak meledakkan seluruh sistem anda untuk mendengar satu podcast lembut.</p>
+<blockquote>Kelantangan global bertanya "berapa kuatkah Mac?" Pengadun per apl bertanya "berapa kuatnya <em>ini</em> aplikasi?" — iaitu soalan yang sebenarnya penting apabila satu video senyap dan selebihnya baik.</blockquote>
+
+<h2>Cara meningkatkan video atau podcast yang senyap, langkah demi langkah</h2>
+<ul>
+<li><strong>Pasang SoundDial</strong> daripada Mac App Store. Ia berkotak pasir dan disemak Apple, jadi ia dipasang dengan bersih seperti mana-mana apl lain — tiada muat turun berasingan, tiada pemacu audio, tiada halangan kebenaran.</li>
+<li><strong>Mula bermain</strong> video senyap, episod podcast atau kuliah dalam apa jua apl yang anda gunakan — Safari, Chrome, pelanggan podcast, VLC.</li>
+<li><strong>Klik ikon SoundDial</strong> dalam bar menu anda. Anda akan melihat peluncur untuk setiap apl yang sedang mengeluarkan bunyi.</li>
+<li><strong>Seret peluncur apl itu melebihi 100%</strong> — cuba 150% dahulu, kemudian tolak lebih tinggi jika masih terlalu lembut. Perubahan adalah serta-merta.</li>
+<li><strong>Tinggalkan yang lain sahaja.</strong> Hanya apl yang anda rangsang menjadi lebih kuat; sistem anda kekal seimbang.</li>
+</ul>
+<p>Jika anda mendapati diri anda meningkatkan apl yang sama setiap hari — katakan, pemain podcast dan penyemak imbas anda — anda boleh menyimpan persediaan itu sebagai <strong>profil kelantangan</strong> dan mengingatnya dalam satu klik dan bukannya melaraskan semula setiap kali.</p>
+
+<h2>Satu perkataan berhati-hati untuk meningkatkan</h2>
+<p>Menguatkan 100% yang lalu menambah keuntungan, dan keuntungan mempunyai had. Tolak rakaman yang sangat senyap dan berkualiti rendah dengan cukup kuat dan anda mungkin mendengar keratan atau herotan — itulah punca kehabisan isyarat bersih, bukan kecacatan dalam apl. Tingkatkan sehingga ia boleh didengar dengan selesa, kemudian undur jika ia mula berbunyi kasar. Pada pembesar suara komputer riba terbina dalam, rangsangan melampau juga boleh membebankan pemandu, jadi pergi ke sana dengan lebih mudah berbanding dengan fon kepala yang baik atau pembesar suara luaran.</p>
+
+<h2>Bagaimana pula dengan pilihan percuma atau terbina dalam?</h2>
+<p>Anda mempunyai alternatif, dan anda harus jujur tentangnya:</p>
+<ul>
+<li><strong>Kelantangan sistem + peluncur peringkat apl.</strong> Sesetengah pemain (VLC, beberapa penyemak imbas melalui sambungan) membolehkan anda meningkatkan audio mereka sendiri. Baik jika anda hanya memerlukannya dalam satu apl — tetapi anda terperangkap dalam mengkonfigurasi setiap apl secara berasingan, tanpa kawalan bersatu dan tiada profil.</li>
+<li><strong>eqMac</strong> adalah EQ dan booster percuma. Ia boleh meningkatkan kenyaringan seluruh sistem, tetapi ia adalah alat global, bukan pengadun setiap apl yang bersih, dan ia berfungsi pada tahap keseluruhan output.</li>
+<li><strong>Background Music</strong> adalah percuma dan sumber terbuka serta menawarkan volum setiap apl. Tetapi ia bergantung pada persediaan tangkapan audio yang boleh pecah pada versi macOS yang lebih baharu, dan ia tidak mempunyai rangsangan khusus, profil dan auto-ducking.</li>
+<li><strong>FineTune</strong> ialah aplikasi bar menu sumber terbuka percuma — pilihan yang ringan jika anda mahukan asas dan tidak kisah dengan perisian yang diselenggara oleh komuniti.</li>
+<li><strong>SoundSource</strong> oleh Rogue Amoeba (~$39) ialah kelas berat pro-gred: EQ per-apl, penghalaan keluaran, kerja-kerja. Ia juga memerlukan muat turun dan pemacu tangkapan audio, dan kosnya lebih daripada dua kali ganda SoundDial. Terlalu banyak jika anda mahu membuat audio yang senyap lebih kuat.</li>
+</ul>
+
+<h2>Mengapa SoundDial adalah pilihan yang praktikal</h2>
+<p>SoundDial duduk di tempat yang baik untuk masalah yang tepat ini. ia adalah <strong>€14.99 sekali</strong> — tiada langganan — dan ia hidup di <strong>Mac App Store</strong>, yang bermaksud ia dikotak pasir, disemak oleh Apple dan dipasang tanpa sebarang DMG atau sambungan sistem untuk dipercayai. Anda mendapat rangsangan setiap apl yang sebenarnya anda perolehi, ditambah dengan profil, redaman setiap apl, penukaran output pantas dan <strong>auto-ducking</strong> yang melemahkan apl lain apabila anda perlu memfokus pada satu. Ia melakukan perkara yang kuat dengan mudah, dan melakukan yang lain dengan baik.</p>
+
+<p><strong>Bosan dengan bersusah payah mendengar video dan podcast yang senyap?</strong> <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dengan harga €14.99 dan berikan setiap apl volumnya sendiri — dengan dorongan untuk mendengar apa-apa dengan jelas.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Cara Menetapkan Kelantangan Berbeza untuk Setiap Apl pada Mac",
+    description: "macOS tidak mempunyai pengadun volum per apl terbina dalam. Berikut ialah cara untuk menetapkan tahap volum yang bebas dan berterusan untuk setiap apl pada Mac menggunakan SoundDial dan alternatifnya.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai cara terbina dalam untuk menetapkan volum yang berbeza bagi setiap apl, jadi anda memerlukan pengadun volum bar menu. Pembaikan terpantas, paling boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, apl Mac App Store yang memberikan setiap aplikasi penggelangsar volum sendiri, redam per apl dan rangsangan yang menolak apl senyap melepasi 100%. Tetapkan tahap anda sekali dan ia kekal.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Cara Menetapkan Kelantangan Berbeza untuk Setiap Apl pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa Mac tidak mempunyai kawalan kelantangan setiap apl</h2>
+<p>Jika anda telah beralih daripada Windows, anda mungkin telah mencari yang setara dengan Pengadun Volume Windows, panel kecil di mana setiap aplikasi mempunyai peluncurnya sendiri. Ia tidak ada. macOS hanya menawarkan satu volum sistem global. Sama ada video YouTube, panggilan Zoom, Spotify atau permainan, semuanya berkongsi tahap induk yang sama.</p>
+<p>Tidak mengapa sehingga tidak. Sembang Discord menenggelamkan muzik anda. Iklan penyemak imbas meledak pada volum penuh manakala podcast anda dimainkan secara senyap di bawahnya. Permainan anda memekakkan telinga tetapi panggilan suara di latar belakang terlalu lembut. Satu-satunya "penyelesaian" yang Apple berikan kepada anda ialah membuka setiap apl dan melaraskan volum dalamannya secara manual, jika apl itu mempunyai satu, dan buat semula setiap sesi.</p>
+<p>Untuk mendapatkan kawalan per apl sebenar, anda memerlukan utiliti kecil yang terletak di antara apl anda dan peranti output anda. Di bawah ialah cara melakukannya dengan betul, serta nota jujur ​​tentang alternatif.</p>
+
+<h2>Cara terpantas: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tinggal dalam bar menu anda dan menyenaraikan setiap apl yang sedang memainkan audio. Setiap satu mendapat peluncur bebas. Berikut ialah keseluruhan aliran kerja:</p>
+<ul>
+<li><strong>Pasang daripada Mac App Store.</strong> Ia disemak dan dikotak pasir oleh Apple, jadi tiada DMG, tiada pemacu audio dan tiada kernel atau sambungan sistem untuk diluluskan. Ia dipasang seperti mana-mana apl biasa dan boleh dialih keluar dengan cara yang sama.</li>
+<li><strong>Klik ikon bar menu.</strong> Anda akan melihat peluncur untuk setiap apl aktif, serta kawalan induk.</li>
+<li><strong>Seret untuk menetapkan tahap.</strong> Turunkan Discord, dorong Spotify ke atas, redamkan apl tab penyemak imbas yang bising sepenuhnya dengan satu klik.</li>
+<li><strong>Tingkatkan apl senyap.</strong> Jika apl terlalu lembut walaupun pada 100%, tolak apl itu melebihi 100% dengan rangsangan setiap apl.</li>
+<li><strong>Simpan profil.</strong> Simpan campuran "permainan," "panggilan kerja" atau "muzik" anda dan tukar antara mereka dengan serta-merta dan bukannya menyeret semula peluncur setiap hari.</li>
+</ul>
+<p>Dua ciri patut dipanggil kerana ia menyelesaikan senario yang paling menjengkelkan:</p>
+<ul>
+<li><strong>Auto-ducking</strong> merendahkan apl lain secara automatik apabila apl yang dipilih dimainkan, jadi muzik anda merosot apabila panggilan masuk dan kembali selepas itu, tiada pengubahan manual.</li>
+<li><strong>Penukaran keluaran pantas</strong> membolehkan anda melompat antara fon kepala dan pembesar suara dari menu yang sama tanpa menyelam ke dalam Tetapan Sistem.</li>
+</ul>
+<p>Kerana tahap diingati setiap apl dan disimpan ke dalam profil, ini adalah bahagian yang kebanyakan orang mahukan: anda menetapkannya sekali dan ia <em>tinggal</em> ditetapkan.</p>
+
+<h2>Alternatif percuma dan berbayar, secara jujur dibandingkan</h2>
+<p>SoundDial bukan satu-satunya pilihan, dan bergantung pada keperluan anda, alat percuma mungkin sudah mencukupi. Berikut adalah ringkasan yang adil.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource ialah kelas berat pro-gred. Di samping volum setiap apl ia melakukan EQ setiap apl dan penghalaan output penuh, jadi anda boleh menghantar satu apl ke fon kepala dan satu lagi ke pembesar suara. Ia benar-benar hebat. Ganti rugi: ia berharga sekitar $39, dan ia bukan pemasangan App Store yang bersih, ia adalah muat turun terus yang memerlukan pemacu tangkapan audio untuk ditambahkan pada sistem anda. Jika anda seorang profesional audio yang memerlukan EQ dan penghalaan, ia berbaloi. Jika anda hanya mahu setiap apl pada volum yang betul, ia lebih banyak alat dan lebih banyak persediaan daripada yang anda perlukan.</p>
+
+<h2>Background Music (sumber terbuka, percuma)</h2>
+<p>Background Music ialah apl sumber terbuka percuma yang menawarkan volum setiap apl dan jeda automatik. Tangkapan ialah kebolehpercayaan: ia memasang peranti audio maya dan mempunyai sejarah pecah pada keluaran macOS yang lebih baharu, kadangkala memerlukan pemasangan semula atau pembetulan selepas kemas kini. Ia juga tidak mempunyai rangsangan, profil yang disimpan dan auto-itik sebenar. Bagus jika anda mahukan percuma dan tidak kisah penyelenggaraan sekali-sekala.</p>
+
+<h2>FineTune dan eqMac</h2>
+<p>FineTune ialah apl bar menu sumber terbuka percuma, titik permulaan yang ringan. eqMac ialah penyamaan percuma dengan penggalak seluruh sistem, lebih menjurus kepada EQ dan keuntungan keseluruhan daripada memberikan setiap apl penggelangsar berterusannya sendiri. Kedua-duanya patut dicuba jika keperluan anda sempit, tetapi kedua-duanya tidak tertumpu pada aliran kerja "volume berbeza bagi setiap apl, disimpan sebagai profil".</p>
+
+<h2>Mana yang patut anda pilih?</h2>
+<ul>
+<li><strong>Mahukan ia berfungsi, bersih, dengan profil dan auto-ducking?</strong> SoundDial pada €14.99 sekali, daripada App Store, tanpa pemacu untuk dipasang.</li>
+<li><strong>Perlukan EQ setiap apl dan penghalaan audio dan tidak kisah harga atau pemandu?</strong> SoundSource.</li>
+<li><strong>Mahu percuma dan boleh bermain-main apabila macOS mengemas kini?</strong> Background Music, FineTune atau eqMac.</li>
+</ul>
+<p>Kelebihan sebenar SoundDial ialah gabungan: volum bebas, redam dan rangsangan untuk setiap apl, disimpan ke dalam profil boleh tukar, dengan itik automatik, semuanya di dalam muat turun App Store berkotak pasir yang anda boleh percayai dan nyahpasang dalam satu klik, untuk satu kali €14.99 dan bukannya langganan.</p>
+
+<blockquote>Tiada pemandu, tiada sambungan, tiada DMG. Tetapkan setiap volum apl sekali, simpan ia sebagai profil dan biarkan auto-ducking mengendalikan selebihnya.</blockquote>
+
+<p>Bersedia untuk memberikan setiap apl volumnya sendiri? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan tetapkan campuran sempurna anda dalam kira-kira satu minit.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Jadikan Satu Apl Lebih Senyap Daripada Segala-galanya di Mac",
+    description: "Satu aplikasi yang kuat menenggelamkan selebihnya pada Mac anda? Berikut ialah cara terpantas dan boleh dipercayai untuk mengecilkan volum apl tunggal tanpa menyentuh yang lain.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Untuk mengecilkan satu apl sementara semua yang lain kekal, gunakan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun volum per apl menu-bar untuk macOS. Bukanya, cari apl yang kuat dalam senarai dan seret peluncurnya ke bawah. Apl itu menjadi lebih senyap serta-merta manakala muzik, panggilan dan audio anda yang lain mengekalkan tahapnya sendiri. Ia adalah pembetulan yang paling pantas dan boleh dipercayai.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Jadikan Satu Apl Lebih Senyap Daripada Segala-galanya di Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa macOS menjadikannya begitu sukar</h2>
+
+<p>Inilah kebenaran yang mengecewakan: macOS tidak mempunyai pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun (klik kanan ikon kelantangan, buka Pengadun Kelantangan, selesai), tetapi pada Mac kekunci kelantangan dan peluncur bar menu hanya mengawal satu perkara: output induk. Tolak dan semuanya menjadi lebih senyap bersama-sama. Hidupkannya dan apl yang kuat masih kuat, hanya lebih kuat bersama-sama dengan yang lain.</p>
+
+<p>Oleh itu, apabila kesan bunyi permainan meledak, tab penyemak imbas sedang memainkan iklan secara automatik, atau bunyi pemberitahuan terus meningkat di podcast anda, satu-satunya pilihan asli anda adalah kekok: meredamkan seluruh sistem, gali tetapan volum setiap apl sendiri (jika ia mempunyai satu) atau berhenti sepenuhnya daripada pesalah. Tiada satu pun daripada itu membenarkan anda hanya berkata "jadikan satu apl ini lebih senyap dan biarkan yang lain sahaja."</p>
+
+<h2>Pembaikan pantas: pengadun volum setiap apl</h2>
+
+<p>Pengadun volum setiap apl memberikan setiap apl yang sedang berjalan peluncur bebasnya sendiri. Itulah kawalan yang anda hilang. Dengan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ia kelihatan seperti ini:</p>
+
+<ul>
+<li><strong>Buka pengadun bar menu.</strong> Klik ikon SoundDial dan anda akan melihat senarai langsung setiap apl yang sedang memainkan audio.</li>
+<li><strong>Cari yang kuat.</strong> Permainan, penyemak imbas, panggilan video, bunyi pemberitahuan, apa sahaja yang menenggelamkan selebihnya.</li>
+<li><strong>Seret peluncurnya ke bawah.</strong> Tetapkan kepada 40%, 20%, di mana-mana sahaja yang dirasakan seimbang. Perubahan itu berlaku serta-merta dan ia hanya mempengaruhi apl itu.</li>
+<li><strong>Tinggalkan yang lain sahaja.</strong> Pemain muzik anda, panggilan anda, tab anda yang lain, semuanya mengekalkan kelantangan yang anda tetapkan untuknya.</li>
+</ul>
+
+<p>Anda juga boleh meredamkan sepenuhnya satu apl dengan satu klik manakala yang lain terus bermain, atau meningkatkan apl senyap melebihi 100% jika ia terlalu lembut. Tiada memulakan semula apl, tiada menu-menyelam.</p>
+
+<h2>Kes biasa di mana ini menyelamatkan anda</h2>
+
+<ul>
+<li><strong>Permainan yang kuat pada muzik latar belakang.</strong> Lepaskan permainan ke tahap yang selesa dan pastikan senarai main anda pada kelantangan penuh di bawahnya.</li>
+<li><strong>Iklan penyemak imbas dan video yang melonjak.</strong> Sematkan penyemak imbas anda di bahagian bawah supaya automain mengejut tidak akan mengecewakan anda.</li>
+<li><strong>Pemberitahuan berbunyi melalui panggilan atau podcast.</strong> Tolak apl berat pemberitahuan tanpa menyenyapkan audio yang sebenarnya anda minati.</li>
+<li><strong>Panggilan video yang senyap di bawah media yang kuat.</strong> Daripada mengecilkan apl yang kuat, tingkatkan panggilan melebihi 100% supaya anda boleh mendengar orang dengan jelas.</li>
+</ul>
+
+<h2>Tetapkannya sekali dengan profil kelantangan dan auto-ducking</h2>
+
+<p>Membetulkan satu apl yang kuat adalah bagus, tetapi anda mungkin mahu apl itu kekal tetap. SoundDial mempunyai dua ciri yang menjadikan ini kekal:</p>
+
+<p><strong>Profil volum</strong> membolehkan anda menyimpan satu set tahap setiap apl dan mengingatinya dalam satu klik. Bina profil "Permainan" di mana permainan berada pada 30% dan muzik pada 100%, dan profil "Kerja" di mana panggilan dirangsang dan segala-galanya dilemahkan. Tukar konteks tanpa menyeret semula peluncur setiap kali.</p>
+
+<p><strong>Auto-ducking</strong> merendahkan apl lain secara automatik apabila apl yang dipilih dimainkan, kemudian membawanya kembali selepas itu, jadi apl yang kuat tidak pernah merampas audio anda sepenuhnya dari awal. Antara profil, menunduk dan menukar keluaran pantas (melompat antara pembesar suara dan fon kepala tanpa membuka Tetapan Sistem), anda menetapkan baki anda sekali dan berhenti menjaga kelantangan.</p>
+
+<h2>Bagaimana SoundDial dibandingkan dengan alternatif</h2>
+
+<p>Terdapat cara lain untuk mendapatkan volum setiap apl pada Mac. Inilah pandangan jujur:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> adalah benar-benar pro-gred: EQ setiap apl dan penghalaan output penuh di atas kawalan kelantangan. Tetapi kosnya lebih daripada dua kali ganda, dan ia memerlukan muat turun berasingan serta pemacu tangkapan audio. Jika anda mahukan kit alat peringkat studio, ia sangat bagus. Jika anda hanya mahu menolak satu apl, ia lebih daripada yang anda perlukan.</li>
+<li><strong>Background Music</strong> adalah percuma dan sumber terbuka, yang bagus, tetapi ia boleh pecah pada versi macOS yang lebih baharu, dan ia tidak mempunyai peningkatan volum, profil dan auto-ducking.</li>
+<li><strong>FineTune</strong> ialah aplikasi bar menu sumber terbuka percuma, dan <strong>eqMac</strong> adalah EQ percuma dengan penggalak. Kedua-duanya patut dicuba jika percuma adalah keutamaan anda, tetapi anda berdagang penggilap, kebolehpercayaan dan ciri untuk harga.</li>
+</ul>
+
+<p>SoundDial berada di tempat yang menarik: €14.99 sekali sahaja, tanpa langganan. Oleh kerana ia berada pada Mac App Store, ia disemak dan dikotak pasir oleh Apple, dan ia dipasang dengan bersih tanpa DMG, tiada pemacu audio dan tiada sambungan sistem untuk diluluskan. Anda mendapat ciri yang benar-benar penting untuk masalah ini, volum setiap apl, redamkan, rangsangan, profil dan auto-ducking, tanpa tanda harga $39 atau alat percuma yang rapuh.</p>
+
+<h2>Kesimpulannya</h2>
+
+<p>macOS tidak akan membenarkan anda menolak satu apl sendiri, tetapi itulah jurang yang anda boleh tutup dalam beberapa saat. Pasang pengadun setiap apl, seret peluncur apl yang kuat ke bawah dan audio anda yang lain kekal di tempat yang anda inginkan. Simpan profil dan anda tidak akan melawan perkara ini lagi.</p>
+
+<p><strong>Bersedia untuk menyenyapkan satu apl yang terus menenggelamkan yang lain?</strong> Dapatkan <a href="https://apps.apple.com/app/id6772792641">SoundDial pada Mac App Store</a> untuk €14.99, satu pembayaran, tiada pemandu, tiada langganan.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Pengadun Audio Mac untuk Penstrim: Baki Mic, Permainan & Muzik",
+    description: "Cara terpantas untuk mengimbangi mikrofon, audio permainan, muzik dan makluman semasa menstrim pada Mac. SoundDial memberikan anda pengadun volum setiap apl dengan profil dan itik.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Untuk mengimbangi mikrofon, permainan, muzik dan makluman anda semasa menstrim pada Mac, pembetulan terpantas yang boleh dipercayai ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun volum per apl menu-bar. macOS tidak mempunyai pengadun terbina dalam, jadi SoundDial membolehkan anda menetapkan tahap bebas bagi setiap apl, meningkatkan sumber senyap, menyimpan profil penstriman dan muzik auto-itik apabila anda bercakap.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pengadun Audio Mac untuk Penstrim: Baki Mikrofon, Permainan &amp; Muzik" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Masalahnya: macOS tidak mempunyai kawalan kelantangan setiap apl</h2>
+<p>Windows telah mempunyai Pengadun Volume selama bertahun-tahun. macOS masih tidak menghantar satu. Gelangsar kelantangan sistem anda menggerakkan semuanya sekaligus, yang tidak berguna apabila anda bersiaran langsung. Semasa strim anda menyulap sekurang-kurangnya empat sumber yang semuanya memperjuangkan output yang sama:</p>
+<ul>
+<li><strong>Pemantauan suara / mikrofon anda</strong> - perlu duduk di atas segala-galanya.</li>
+<li><strong>Audio permainan</strong> — kuat, dinamik dan terdedah kepada spiking semasa tindakan.</li>
+<li><strong>Muzik latar belakang</strong> — hendaklah berdiam diri di bawah ulasan anda.</li>
+<li><strong>Makluman dan bunyi sembang</strong> — Discord, Dek Strim, makluman pengikut, pemberitahuan.</li>
+</ul>
+<p>Tanpa kawalan setiap apl, anda akhirnya menunggang gelangsar dalam apl permainan, meredamkan Spotify dengan tangan dan berdoa dengan adegan pemotongan yang kuat tidak meledakkan penonton anda. Itu bukan campuran, ia adalah kawalan kerosakan.</p>
+
+<h2>Apa yang perlu dilakukan oleh pengadun penstriman yang betul</h2>
+<p>Persediaan audio tertumpu kepada pencipta pada Mac harus memberi anda empat perkara: tahap per-apl bebas, keupayaan untuk meningkatkan sumber yang terlalu senyap, konfigurasi tersimpan yang boleh anda ingat serta-merta dan merunduk automatik supaya muzik terhenti apabila anda bercakap. SoundDial merangkumi keempat-empat daripada bar menu.</p>
+
+<h3>1. Kelantangan bebas untuk setiap apl</h3>
+<p>Tetapkan permainan kepada 60%, muzik kepada 25%, Discord kepada 80% dan penyemak imbas anda kepada 40% — setiap apl mempunyai peluncur sendiri. Tiada apa-apa yang berdarah kepada apa-apa lagi. Anda juga boleh membisukan setiap apl serta-merta apabila sumber berkelakuan salah pada pertengahan strim, tanpa menyentuh apl itu sendiri.</p>
+
+<h3>2. Peningkatan kelantangan untuk sumber senyap</h3>
+<p>Sesetengah apl dan permainan terlalu senyap walaupun pada tahap 100%. Rangsangan setiap apl SoundDial mendorong sumber melepasi siling biasa supaya permainan bisu atau video volum rendah berada di tempat yang anda perlukan dalam campuran — tiada pengekodan semula, tiada pemalam.</p>
+
+<h3>3. Profil kelantangan untuk adegan yang berbeza</h3>
+<p>Ini adalah ciri yang paling menjimatkan masa. Campuran "Just Chatting" anda (muzik naik, turunkan permainan) berbeza daripada campuran "Boss Fight" anda (permainan naik, muzik hampir senyap), yang berbeza daripada campuran "BRB" anda. Simpan setiap satu sebagai profil dan tukar dengan satu klik dan bukannya menyeret empat peluncur secara langsung.</p>
+
+<h3>4. Auto-ducking jadi itik muzik di bawah suara anda</h3>
+<p>Auto-ducking merendahkan audio latar belakang secara automatik apabila anda bercakap dan membawanya kembali apabila anda berhenti. Untuk penstrim solo ini ialah perbezaan antara ulasan yang jelas dan muzik yang sentiasa menguburkan suara anda — dikendalikan secara automatik dan bukannya secara manual.</p>
+
+<h2>Di mana OBS sesuai</h2>
+<p>OBS ialah alat penyiaran anda, bukan pengadun volum desktop anda. OBS mengawal tahap apa yang masuk ke dalam strim melalui panel dan penapis Audio Mixernya, tetapi ia berfungsi daripada sumber audio yang ditangkap — ia tidak mencecah apl macOS individu dan menolaknya di peringkat sistem. Pada Mac, mendapatkan audio desktop setiap apl yang bersih ke dalam OBS sentiasa menjadi bahagian yang menyakitkan.</p>
+<p>Aliran kerja praktikal: gunakan SoundDial untuk menetapkan tahap setiap apl sebenar pada Mac anda supaya perkara yang keluar sudah seimbang, kemudian biarkan OBS menangkap dan memperhalusi tahap siaran. Tetapkan campuran sekali pada sumber dan OBS mempunyai lebih sedikit untuk melawan. Penukaran output pantas dalam SoundDial juga membolehkan anda melompat antara fon kepala dan pembesar suara tanpa menyelam ke dalam Tetapan Sistem antara adegan.</p>
+
+<h2>SoundDial lwn. alternatif</h2>
+<p>Anda mempunyai pilihan, dan kejujuran penting di sini:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> — gred pro dengan EQ setiap apl dan penghalaan output penuh. Ia sangat baik, tetapi kosnya lebih daripada dua kali ganda, memerlukan muat turun terus dan memasang pemacu tangkapan audio. Berlebih-lebihan jika anda terutamanya memerlukan tahap bersih setiap apl, rangsangan dan mengelak.</li>
+<li><strong>Background Music (percuma, sumber terbuka)</strong> — benar-benar berguna dan percuma, tetapi ia boleh pecah pada versi macOS yang lebih baharu, dan ia tidak mempunyai rangsangan, tiada profil dan tiada auto-ducking — ciri-ciri yang tepat yang digunakan oleh penstrim.</li>
+<li><strong>FineTune (percuma, apl bar menu sumber terbuka)</strong> — kawalan per apl yang ringan, tetapi projek komuniti tanpa kombo profil-plus-ducking yang dibina untuk penstriman langsung.</li>
+<li><strong>eqMac (EQ + penggalak percuma)</strong> — bagus untuk membentuk ton dan meningkatkan, tetapi ia adalah penyama, bukan pengadun penstriman setiap apl.</li>
+</ul>
+<p>Sudut SoundDial: ia adalah a <strong>€14.99 sekali</strong> pembelian pada <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Apple disemak, kotak pasir, dan ia dipasang dengan bersih tanpa DMG dan tiada pemacu audio atau sambungan sistem. Bahagian terakhir itu penting untuk penstrim: komponen peringkat kernel yang lebih sedikit bermakna lebih sedikit kerosakan mengejut apabila macOS mengemas kini malam sebelum strim anda.</p>
+
+<h2>Pertukaran yang jujur</h2>
+<p>Jika anda memerlukan EQ gred siaran dan rantaian penghalaan yang kompleks, SoundSource memperoleh harganya. Jika anda mahukan alat tinkerer percuma dan tidak kisah kerosakan sekali-sekala, Background Music atau FineTune akan melakukannya. Tetapi jika anda mahukan campuran yang sebenarnya dituntut oleh penstriman — tahap setiap apl, rangsangan, profil pemandangan yang disimpan dan auto-ducking — daripada pemasangan App Store selamat yang bertahan dalam kemas kini macOS, SoundDial ialah laluan paling langsung untuk mendapatkan wang itu.</p>
+
+<p><strong>Bersedia untuk membetulkan audio strim anda?</strong> Dapatkan <a href="https://apps.apple.com/app/id6772792641">SoundDial pada Mac App Store</a> dengan harga €14.99 — tetapkan mikrofon, permainan, muzik dan tahap makluman anda sekali, simpannya sebagai profil dan biarkan auto-ducking mengekalkan suara anda di atas.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "Cara Membaiki Keretakan Audio dan Meletus pada macOS Tahoe",
+    description: "Audio berderak atau meletus selepas mengemas kini kepada macOS Tahoe 26? Betulkannya dengan memadankan kadar sampel, menetapkan semula CoreAudio, menyemak codec Bluetooth anda dan mengosongkan konflik pemalam. Berikut ialah perintah penyelesaian masalah penuh.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Bergegar dan muncul selepas mengemas kini kepada macOS Tahoe 26 hampir selalu merupakan ketidakpadanan kadar sampel, rundingan codec Bluetooth yang terkelupas atau proses CoreAudio yang tersekat. Betulkannya dengan memadankan kadar sampel output dalam Persediaan MIDI Audio, menetapkan semula <code>coreaudiod</code>, melupakan dan memasangkan semula fon kepala Bluetooth, dan berhenti daripada hos pemalam audio. Kerjakan mereka mengikut urutan di bawah.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Bagaimana untuk Membetulkan Keretakan Audio dan Meletus pada macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mulakan dengan pembaikan yang murah</h2>
+
+<p>Sebelum anda menyentuh apa-apa perkara teknikal, tolak dua perkara yang menyelesaikan kebanyakan kes dalam masa kurang seminit:</p>
+
+<ul>
+<li><strong>Mulakan semula Mac.</strong> Kemas kini Tahoe selalunya membuatkan daemon audio berada dalam keadaan separuh berhijrah. But semula yang bersih memuatkan semula CoreAudio dari awal dan membersihkan sebahagian besar getaran selepas kemas kini.</li>
+<li><strong>Cabut dan pasang semula peranti output.</strong> Jika ia adalah USB DAC, dok atau antara muka audio, putuskan sambungannya, tunggu beberapa saat dan sambung semula. Cuba port USB yang berbeza juga, sebaik-baiknya satu terus pada Mac dan bukannya melalui hab. Hab dan paparan yang menghantar audio ialah sumber pop timbul.</li>
+</ul>
+
+<p>Jika bunyi bising itu terselamat daripada but semula, itu adalah masalah konfigurasi, bukan gangguan. Teruskan.</p>
+
+<h2>Padankan kadar sampel (sebab yang paling biasa)</h2>
+
+<p>Kerisik Tahoe klasik datang daripada ketidakpadanan kadar sampel antara perkara yang peranti anda inginkan dan apa yang dihantar oleh macOS. Apabila apl memainkan audio 44.1 kHz dan sistem dikunci kepada 48 kHz (atau sebaliknya), pensampelan semula boleh menjadi gagap atau meletus.</p>
+
+<ul>
+<li>Buka <strong>Persediaan MIDI Audio</strong> (dalam Aplikasi → Utiliti, atau cari Spotlight).</li>
+<li>Pilih peranti output anda di bar sisi kiri.</li>
+<li>Lihatlah <strong>Format</strong> jatuh turun. Cuba tetapkannya <strong>48000.0 Hz, Integer 2ch-24bit</strong> dan ujian.</li>
+<li>Jika muncul berterusan, tukar kepada <strong>44100.0 Hz</strong> dan menguji lagi.</li>
+<li>Untuk antara muka, pastikan kadar sampel sepadan dengan kadar projek DAW anda.</li>
+</ul>
+
+<p>Menogol format juga memaksa CoreAudio untuk merundingkan semula sambungan, yang sahaja membetulkan banyak kes walaupun apabila anda mendarat kembali pada nilai yang sama.</p>
+
+<h2>Tetapkan semula CoreAudio</h2>
+
+<p>CoreAudio berjalan sebagai daemon latar belakang yang dipanggil <code>coreaudiod</code>. Selepas kemas kini macOS utama, ia boleh mengekalkan keadaan peranti yang lapuk. Memulakan semula adalah selamat dan berkuat kuasa serta-merta, tanpa but semula.</p>
+
+<p>Buka Terminal dan jalankan:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Masukkan kata laluan anda apabila digesa. Audio anda akan terputus seketika, kemudian daemon dilancarkan semula secara automatik dengan batu tulis yang bersih. Ini adalah satu-satunya pembaikan yang paling berkesan untuk berderak yang muncul entah dari mana pada mesin yang baik sebelum kemas kini.</p>
+
+<h2>Periksa fon kepala dan codec Bluetooth anda</h2>
+
+<p>Jika bunyi berderak hanya berlaku pada AirPods atau fon kepala Bluetooth yang lain, masalahnya biasanya adalah perundingan codec, bukan pembesar suara anda. Kualiti audio wayarles merosot apabila sambungan sesak atau apabila macOS jatuh ke dalam mod panggilan lebar jalur rendah.</p>
+
+<ul>
+<li><strong>Lupakan dan pasangkan semula peranti.</strong> Pergi ke Tetapan Sistem → Bluetooth, keluarkan fon kepala, kemudian pasangkannya semula. Ini menetapkan semula codec yang dirundingkan.</li>
+<li><strong>Perhatikan penurunan mod panggilan.</strong> Apabila apl membuka mikrofon, macOS menukar set kepala Bluetooth kepada profil dua hala berkualiti rendah, yang kedengaran rangup. Hentikan persidangan dan apl suara yang anda tidak gunakan dan kesetiaan kembali.</li>
+<li><strong>Kurangkan gangguan.</strong> Beralih dari persekitaran 2.4 GHz yang sesak dan putuskan sambungan peranti Bluetooth yang anda tidak perlukan. Pancaragam radio yang sibuk menghasilkan pop sekejap-sekejap.</li>
+<li><strong>Matikan input mikrofon</strong> dalam tetapan apl jika anda hanya perlu mendengar, jadi macOS mengekalkan profil main balik berkualiti tinggi.</li>
+</ul>
+
+<h2>Keluar dari hos pemalam audio dan pemacu maya</h2>
+
+<p>Perisian audio pihak ketiga yang memasang sambungan sistem atau peranti maya adalah pesalah yang kerap selepas lompatan OS, kerana sambungan kernel dan audio sering memerlukan pengemaskinian untuk versi macOS baharu. Suspek termasuk penghala audio maya, apl penyama, alat gelung balik dan utiliti berasaskan pemandu yang lebih lama.</p>
+
+<ul>
+<li>Keluar dari mana-mana apl penyamaan, penghala audio atau gelung balik dan uji sama ada bunyi berderak berhenti.</li>
+<li>Semak Tetapan Sistem → Umum → Item Log Masuk &amp; Sambungan untuk sambungan audio yang mungkin memerlukan kemas kini atau pengalihan keluar.</li>
+<li>Kemas kini apl tersebut kepada keluaran yang serasi dengan Tahoe, atau nyahpasang apl yang tidak anda gunakan lagi. Pemacu audio bertindan kerap bercanggah antara satu sama lain selepas kemas kini utama.</li>
+</ul>
+
+<p>Jika berhenti daripada salah satu apl ini menyenyapkan pop, anda telah menemui punca anda. Pasang semula versi semasa atau biarkan ia dimatikan.</p>
+
+<h2>Kecilkan: seluruh sistem atau satu apl?</h2>
+
+<p>Tentukan sama ada bunyi bising berlaku di mana-mana atau hanya dalam perisian tertentu. Mainkan fail audio tempatan, kemudian video penyemak imbas, kemudian apl muzik. Jika hanya satu apl berderak, penyelesaiannya ialah tetapan audio apl itu sendiri atau kemas kini, bukan macOS. Jika ia di seluruh sistem, langkah di atas adalah tempat jawapannya.</p>
+
+<p>Apabila anda masih tersekat, but ke Mod Selamat (tahan butang kuasa pada silikon Apple, kemudian pilih cakera permulaan anda sambil menahan Shift). Mod Selamat tidak memuatkan sambungan pihak ketiga. Jika audio bersih di sana, item log masuk atau pemacu adalah puncanya, dan anda boleh mendayakannya semula satu demi satu untuk mencarinya.</p>
+
+<h2>Setelah audio anda bersih</h2>
+
+<p>Crackling ialah masalah pemacu dan kadar sampel, jadi pembetulan di atas adalah perkara yang sebenarnya menyelesaikannya. Tetapi apabila main balik stabil, anda mungkin melihat had yang berbeza: macOS masih tidak mempunyai pengadun volum per apl terbina dalam, seperti yang dilakukan oleh Windows. Anda tidak boleh mematikan apl yang kuat tanpa menolak segala-galanya.</p>
+
+<p>Itulah jurangnya <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengisi. Ia ialah pengadun bar menu yang memberikan setiap apl penggelangsar volumnya sendiri, redam per apl dan juga peningkatan volum untuk apl senyap, serta penukaran output pantas. Ia tidak akan menyelesaikan bunyi berderak, tetapi apabila audio anda sihat, ia menjadikan kawalan harian lebih mudah.</p>
+
+<p>Lakukan langkah di atas mengikut tertib, dan mulakan dengan but semula dan semakan kadar sampel. Jika anda kemudiannya mahukan kawalan setiap apl sebenar pada persediaan audio bersih anda, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pembelian sekali sahaja sebanyak €14.99 pada Mac App Store, kotak pasir tanpa pemacu atau DMG untuk dipasang.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Gagap atau Cutting Out pada Mac (Tahoe Fix)",
+    description: "AirPods gagap, memotong atau menjatuhkan audio pada macOS Tahoe hampir selalu merupakan gangguan Bluetooth atau putar auto suis. Berikut ialah cara untuk memasangkan semula, mengurangkan kesesakan 2.4GHz dan menghentikan serah tangan yang memutuskan main balik.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>AirPods gagap atau memotong pada macOS Tahoe hampir selalu menjadi gangguan Bluetooth, bukan set kepala yang rosak. Penyebab biasa ialah Wi-Fi 2.4GHz dan kesesakan penghala, pensuisan peranti automatik yang agresif dan gandingan yang lapuk. Pasangkan semula AirPods, matikan suis automatik dan jauhkan diri daripada saluran 2.4GHz yang sesak untuk membetulkan kebanyakan kes.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Gagap atau Cutting Out pada Mac (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa AirPods jatuh pada Mac secara khusus</h2>
+
+<p>AirPods menggunakan Bluetooth, yang berkongsi jalur radio 2.4GHz yang sesak dengan Wi-Fi, gelombang mikro, peranti USB 3 dan hampir setiap palam pintar di rumah anda. Mac anda ialah radio yang sibuk: ia menyesuaikan ciri Wi-Fi, Bluetooth, AirDrop dan Kesinambungan pada antena yang bertindih. Apabila jalur itu menjadi sesak, audio Bluetooth adalah perkara pertama yang akan tergagap, kerana ia tidak boleh bertolak ansur dengan paket yang tercicir seperti yang boleh dilakukan oleh pemindahan fail.</p>
+
+<p>Tahoe tidak secara ajaib memburukkan AirPods anda, tetapi pemasangan macOS yang baru sering menetapkan semula tingkah laku radio, mendayakan semula penyerahan Kesinambungan dan merundingkan semula codec. Itulah sebabnya masalah nampaknya muncul sejurus selepas kemas kini. Berita baik: pembaikan difahami dengan baik dan kebanyakannya percuma.</p>
+
+<h2>Betulkan 1: Pasang semula AirPods (buat ini dahulu)</h2>
+
+<p>Gandingan yang lapuk atau rosak dapat bertahan daripada but semula dan menyebabkan kejatuhan sekejap yang kelihatan rawak. Alih keluar sepenuhnya dan tambah semula sambungan:</p>
+
+<ul>
+<li>Buka <strong>Tetapan Sistem, Bluetooth</strong>.</li>
+<li>Klik butang maklumat (i) di sebelah AirPods anda dan pilih <strong>Lupakan Peranti Ini</strong>.</li>
+<li>Letakkan AirPods dalam bekasnya, tutup penutup, tunggu 15 saat, kemudian bukanya.</li>
+<li>Pegang butang di bahagian belakang sarung sehingga lampu berkelip putih.</li>
+<li>Pasang semula daripada senarai Bluetooth.</li>
+</ul>
+
+<p>Semasa anda berada di sana, pastikan perisian tegar AirPods adalah terkini. Tiada pengemas kini manual, tetapi meninggalkannya dalam bekas berhampiran iPhone atau Mac yang disambungkan untuk seketika membolehkan mereka mengemas kini di latar belakang.</p>
+
+<h2>Betulkan 2: Matikan pensuisan automatik</h2>
+
+<p>Ini adalah punca terbesar "memotong" orang dalam ekosistem Apple. AirPods anda cuba mengikuti anda antara Mac, iPhone dan iPad anda. Setiap kali telefon anda fikir ia patut merebut audio, sambungan tersekat pada Mac anda, menghasilkan setengah saat tercicir pertengahan podcast.</p>
+
+<ul>
+<li>Pada Mac: Bluetooth, klik (i) di sebelah AirPods, tetapkan <strong>Sambung ke Mac Ini</strong> kepada <strong>Apabila Terakhir Disambungkan ke Mac Ini</strong> bukannya Secara Automatik.</li>
+<li>Pada iPhone: Tetapan, ketik AirPods anda, <strong>Sambung ke iPhone Ini</strong>, pilih <strong>Apabila Terakhir Disambungkan ke iPhone Ini</strong>.</li>
+</ul>
+
+<p>Ini menghentikan tarik tali antara peranti. Anda akan memilih secara manual ke mana audio pergi, yang merupakan harga yang kecil untuk main balik yang stabil.</p>
+
+<h2>Betulkan 3: Potong kesesakan 2.4GHz</h2>
+
+<p>Jika penurunan berlaku semasa panggilan video, muat turun atau semasa orang lain menstrim, jalur radio anda tepu. Beberapa langkah praktikal:</p>
+
+<ul>
+<li><strong>Gunakan jalur Wi-Fi 5GHz</strong> pada Mac anda. Dalam tetapan penghala anda, berikan rangkaian 5GHz nama yang berbeza dan sambungkannya. Ini membebaskan jalur 2.4GHz untuk Bluetooth.</li>
+<li><strong>Alihkan hab USB 3 dan Thunderbolt</strong> daripada Mac dan AirPods anda. USB 3 ialah sumber hingar 2.4GHz yang terkenal; hab yang terletak di sebelah komputer riba anda boleh merosakkan Bluetooth dari jarak beberapa inci.</li>
+<li><strong>Tukar saluran 2.4GHz penghala anda</strong> kepada 1, 6 atau 11 (pilihan yang tidak bertindih) dan elakkan saluran yang sesak yang digunakan oleh jiran anda.</li>
+<li><strong>Kekalkan garis penglihatan.</strong> Badan dan dinding menyerap 2.4GHz. Jika Mac anda berada di belakang anda atau di dalam beg, jatuh menjadi lebih teruk.</li>
+</ul>
+
+<blockquote>Penghala Wi-Fi 6E dan Wi-Fi 7 boleh membantu secara tidak langsung: menolak peranti anda ke 6GHz mengosongkan jalur 2.4GHz yang Bluetooth bergantung. Tetapi jaringan yang dikonfigurasikan dengan buruk yang terus mengarahkan anda kembali ke 2.4GHz boleh memburukkan keadaan. Semak band yang anda gunakan sebenarnya.</blockquote>
+
+<h2>Betulkan 4: Tetapkan semula timbunan Bluetooth dan Kesinambungan</h2>
+
+<p>Jika pasangan semula tidak berjaya, tetapkan semula radio itu sendiri:</p>
+
+<ul>
+<li>Togol Bluetooth padam dan hidupkan daripada bar menu, kemudian but semula Mac. But semula memadamkan sejumlah besar gangguan audio sementara yang mengejutkan.</li>
+<li>Tetapkan semula SMC/NVRAM pada Intel Macs, atau hanya matikan sepenuhnya (bukan mulakan semula) selama 30 saat pada Apple Silicon.</li>
+<li>Jika anda tidak menggunakan AirDrop atau Handoff, melumpuhkan Handoff dalam System Settings, General, AirDrop &amp; Handoff mengurangkan perbualan radio latar belakang.</li>
+</ul>
+
+<h2>Perkara yang tidak akan membetulkannya (dan apa yang sebenarnya dilakukan oleh pengadun volum)</h2>
+
+<p>Untuk lebih jelas tentang skop: tiada satu pun daripada ini adalah masalah volum perisian dan tiada apl volum boleh membaiki pautan Bluetooth. Jika audio anda adalah <em>menjatuhkan</em>, kejar isu radio di atas. Apl seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengawal volum setiap apl, meredam dan menukar output, mereka tidak menyentuh tindanan Bluetooth, jadi mereka tidak akan berhenti gagap. Di mana pengadun benar-benar membantu ialah kegusaran bersebelahan ramai pengguna AirPods bercampur dengan keciciran: satu apl meledak manakala yang lain terlalu senyap, atau perlu melonjak keluaran dengan cepat. Itu masalah keseimbangan kelantangan, bukan masalah sambungan.</p>
+
+<p>Diagnosis dengan jujur. Jika audio terputus seketika dan kembali, itu adalah gangguan atau suis automatik. Jika tahap hanya tidak sekata antara apl, itu adalah masalah percampuran yang sebenarnya anda boleh selesaikan dengan perisian.</p>
+
+<h2>Senarai semak cepat</h2>
+
+<ul>
+<li>Lupakan dan pasangkan semula AirPods.</li>
+<li>Tetapkan kedua-dua Mac dan iPhone kepada <strong>Apabila Terakhir Disambungkan</strong>, bukan Secara automatik.</li>
+<li>Alihkan Mac anda ke Wi-Fi 5GHz; jauhkan hab USB 3.</li>
+<li>Tetapkan 2.4GHz kepada saluran 1, 6 atau 11.</li>
+<li>But semula selepas menogol Bluetooth.</li>
+</ul>
+
+<p>Setelah keciciran hilang dan anda hanya mahukan kawalan yang lebih bersih ke atas seberapa kuat setiap apl dimainkan, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menambah pengadun volum setiap apl yang betul, meredam, merangsang dan menukar keluaran pantas yang masih tidak disertakan dengan macOS. Ini adalah pembelian sekali sahaja pada Mac App Store dengan harga €14.99, kotak pasir, tanpa pemacu untuk dipasang.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Pembesar Suara Kanan Mati pada Mac Selepas Kemas Kini Tahoe? Cara Memperbaikinya",
+    description: "Satu pembesar suara atau saluran berhenti berfungsi selepas mengemas kini kepada macOS Tahoe? Mulakan dengan peluncur imbangan audio, kemudian tetapkan semula Audio Teras, cuba mod selamat dan tolak perkakasan. Panduan penyelesaian masalah yang jelas.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika pembesar suara kanan anda senyap selepas mengemas kini kepada macOS Tahoe, semak audio <strong>peluncur imbangan</strong> pertama — ia boleh beralih semasa kemas kini. Pergi ke Tetapan Sistem &gt; Sound &gt; Output dan pastikan Baki berada di tengah-tengah mati. Jika itu baik, mulakan semula Audio Teras, but ke mod selamat, dan kemudian tolak perkakasan. Kebanyakan kes adalah perisian.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pembesar Suara Kanan Mati pada Mac Selepas Kemas Kini Tahoe? Cara Memperbaikinya" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Pertama: peluncur baki (membetulkan ini lebih kerap daripada yang anda fikirkan)</h2>
+
+<p>Gelangsar baki yang tersekat atau dialihkan ialah satu-satunya sebab yang paling biasa satu saluran menjadi senyap — dan kemas kini macOS kadang-kadang mendorongnya. Sebelum anda menganggap yang paling teruk:</p>
+
+<ul>
+<li>Buka <strong>Tetapan Sistem Bunyi &gt;</strong>.</li>
+<li>Klik pada <strong>Output</strong> tab dan pilih pembesar suara anda (terbina dalam atau peranti luaran anda).</li>
+<li>Cari <strong>Baki</strong> peluncur dan seretnya ke tengah yang tepat. Jika ia ditarik ke kiri, saluran kanan anda akan berbunyi mati.</li>
+</ul>
+
+<p>Lakukan ini <em>setiap peranti output</em>. Tetapan imbangan diingati secara berasingan untuk pembesar suara terbina dalam, fon kepala dan setiap antara muka luaran — jadi keseimbangan terbina dalam yang berpusat tidak akan membantu jika masalah adalah pada DAC USB anda.</p>
+
+<h2>Uji sama ada ia sebenarnya saluran perkakasan</h2>
+
+<p>Kawal perkakasan masuk atau keluar dengan cepat. Mainkan trek stereo yang anda tahu dengan baik, kemudian pasangkan sepasang fon kepala berwayar. Jika kedua-dua saluran berfungsi dalam fon kepala tetapi tidak melalui pembesar suara, isunya ialah hiliran enjin audio (perkakasan pembesar suara atau laluan output). Jika saluran yang sama mati dalam fon kepala juga, kemungkinan besar perisian atau codec audio papan logik.</p>
+
+<p>Anda juga boleh membuka <strong>Muzik</strong> atau QuickTime, mainkan sesuatu dan togol baki keras ke kiri, kemudian keras ke kanan. Jika audio bergerak dengan bersih antara saluran, kedua-dua pembesar suara masih hidup dan ini adalah masalah tetapan semata-mata.</p>
+
+<h2>Mulakan semula Audio Teras</h2>
+
+<p>macOS mengarahkan semua bunyi melalui <strong>coreaudiod</strong> proses. Selepas kemas kini besar, keadaannya boleh terjepit — output hilang, saluran menurun atau volum berkelakuan aneh. Memulakan semula adalah selamat dan memaksa macOS membina semula graf audio:</p>
+
+<ul>
+<li>Buka <strong>Terminal</strong> (Aplikasi &gt; Utiliti).</li>
+<li>Jalankan: <code>sudo killall coreaudiod</code></li>
+<li>Masukkan kata laluan anda. Daemon audio dilancarkan semula secara automatik dalam masa satu atau dua saat.</li>
+</ul>
+
+<p>Tiada apa-apa yang dipadamkan — ini hanya but semula subsistem audio. Uji pembesar suara kanan anda sekali lagi selepas itu.</p>
+
+<h2>But semula dengan betul, kemudian cuba mod selamat</h2>
+
+<p>Mula semula penuh membersihkan gangguan audio sementara yang tidak akan dilakukan oleh pembunuhan. Jika saluran masih mati, but masuk <strong>mod selamat</strong>, yang memuatkan sistem minimum dan melangkau sambungan audio dan item log masuk pihak ketiga:</p>
+
+<ul>
+<li><strong>Apple Silicon:</strong> tutup. Tahan butang kuasa sehingga "Memuatkan pilihan permulaan" muncul. Pilih cakera anda, kemudian tahan <strong>Beralih</strong> dan klik "Teruskan dalam Mod Selamat."</li>
+<li><strong>Intel:</strong> Mulakan semula dan tahan <strong>Beralih</strong> sehingga tetingkap log masuk muncul.</li>
+</ul>
+
+<p>Jika kedua-dua pembesar suara berfungsi dalam mod selamat, pemacu audio pihak ketiga, peranti maya atau utiliti bar menu dipasang sebelum kemas kini bercanggah dengan tindanan audio baharu Tahoe. But semula kepada biasa dan alih keluar atau kemas kini perisian audio yang dipasang baru-baru ini (perakam skrin, apl mesyuarat dan kext penghalaan audio adalah punca biasa).</p>
+
+<h2>Tetapkan semula NVRAM (Intel Mac sahaja)</h2>
+
+<p>Pada Intel Macs, tetapan bunyi dan pembesar suara secara langsung dalam NVRAM/PRAM, dan nilai lapuk boleh bertahan dalam kemas kini. Tetapkan semula: tutup, kemudian hidupkan dan tahan serta-merta <strong>Pilihan + Perintah + P + R</strong> selama kira-kira 20 saat, membiarkan Mac dimulakan semula sekali. Ini tidak terpakai untuk Apple Silicon Macs — mereka menguruskan ini secara automatik, jadi langkau jika anda menggunakan mesin siri M.</p>
+
+<h2>Kemas kini sekali lagi — dan semak keluaran mata</h2>
+
+<p>Keluaran awal mana-mana versi macOS utama dihantar dengan pepijat pemacu audio yang kemudiannya ditampal. Menuju ke <strong>Tetapan Sistem &gt; Umum Kemas Kini Perisian &gt;</strong> dan pasang sebarang keluaran titik Tahoe yang belum selesai (14.x.1, 14.x.2, dsb.). Jika kemas kini tambahan wujud, ia selalunya menangani regresi audio pasca kemas kini ini dengan tepat.</p>
+
+<h2>Apabila ia benar-benar perkakasan</h2>
+
+<p>Jika mod selamat, Audio Teras dimulakan semula dan pemasangan semula yang bersih semuanya gagal — dan saluran yang sama mati dalam fon kepala — anda mungkin melihat kerosakan perkakasan. Masa dengan kemas kini boleh berlaku secara kebetulan; penguat pembesar suara dan codec audio gagal. Lari <strong>Diagnostik Apple</strong> (tutup, kemudian tahan butang kuasa pada Apple Silicon dan pilih Diagnostik, atau tahan <strong>D</strong> pada Intel semasa permulaan). Jika ia membenderakan komponen audio, hubungi <strong>Sokongan Apple</strong> atau pembekal perkhidmatan yang diberi kuasa. Jangan membelanjakan wang untuk perisian untuk pembesar suara yang ditiup.</p>
+
+<blockquote>Peraturan ringkas: jika audio menyorot dengan betul dengan penggelangsar imbangan, kedua-dua pembesar suara adalah baik secara fizikal dan pembetulan anda adalah dalam perisian. Jika ia tidak pernah berpindah ke bahagian mati, syak perkakasan.</blockquote>
+
+<h2>Di mana perisian volum sesuai (dan di mana ia tidak sesuai)</h2>
+
+<p>Untuk menjadi jelas: saluran pembesar suara yang mati bukanlah sesuatu yang dibetulkan oleh apl volum — semakan di atas ialah laluan anda. Walau bagaimanapun, apabila audio anda kembali sihat, macOS masih kekurangan sesuatu yang Windows miliki selama bertahun-tahun: pengadun volum per apl sebenar. Jika anda mendapati diri anda menggali tetapan Bunyi kerana satu apl meledak manakala yang lain terlalu senyap, pengadun bar menu seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> membolehkan anda menetapkan kelantangan bebas, meredam dan juga rangsangan setiap aplikasi tanpa menyentuh baki sistem anda. Ia adalah alat mudah untuk mencampurkan setiap hari, bukan pembaikan untuk masalah dalam artikel ini.</p>
+
+<h2>Versi pendek</h2>
+
+<ul>
+<li>Pusatkan <strong>Baki</strong> peluncur — setiap peranti output.</li>
+<li>Uji dengan fon kepala untuk mengasingkan perkakasan.</li>
+<li>Lari <code>sudo killall coreaudiod</code>, kemudian mulakan semula.</li>
+<li>Cubalah <strong>mod selamat</strong> untuk menangkap konflik pemandu.</li>
+<li>Tetapkan semula NVRAM pada Intel; pasang mana-mana keluaran titik Tahoe.</li>
+<li>Masih mati dalam fon kepala? Jalankan Diagnostik Apple dan hubungi Apple.</li>
+</ul>
+
+<p>Setelah pembesar suara anda kembali normal, jika menyulap volum setiap apl adalah gangguan harian, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menambah pengadun macOS sentiasa tiada — €14.99, sekali sahaja, kotak pasir, tiada pemandu.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods Tersekat pada Separuh Kelantangan pada Mac Anda? Inilah Pembaikan",
+    description: "Mengapa AirPods menyambung ke Mac anda pada separuh volum — biasanya suis codec Bluetooth ke profil mikrofon bebas tangan — ditambah dengan pembetulan pasangan semula dan cara meningkatkan tahap kembali untuk selamanya.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>AirPods biasanya menurun kepada separuh volum pada Mac kerana macOS menukarnya daripada profil audio A2DP berkualiti tinggi kepada profil bebas tangan (HFP) berkualiti rendah — yang dibina untuk kegunaan mikrofon panggilan telefon. Mod itu menghadkan output dan kualiti. Betulkan dengan memaksa Mac kembali kepada audio fon kepala sahaja, kemudian tingkatkan tahap untuk mengekalkannya.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Tersekat pada Separuh Kelantangan pada Mac Anda? Inilah Pembaikan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa ini berlaku: suis codec</h2>
+
+<p>Peranti audio Bluetooth seperti AirPods dijalankan dalam salah satu daripada dua mod. Apabila anda hanya mendengar, macOS menggunakan A2DP — stereo penuh, kelantangan penuh, kualiti bersih. Tetapi apabila apl mahukan mikrofon anda, macOS menukar keseluruhan sambungan kepada HFP (Profil Bebas Tangan). HFP ialah codec telefon dua hala. Bunyinya nipis, mono-ish dan nyata lebih senyap, kerana ia direka untuk panggilan suara, bukan muzik.</p>
+
+<p>Masalahnya ialah macOS sering terperangkap dalam HFP walaupun selepas apl yang mengambil mikrofon selesai — atau beralih ke dalamnya sebaik sahaja anda membuka Zoom, FaceTime, Teams, Discord atau tab penyemak imbas dengan kebenaran mikrofon. Jadi AirPods anda berbunyi seperti "separuh kelantangan" bukan kerana peluncur kelantangan bergerak, tetapi kerana keseluruhan profil audio diturunkan di bawah anda.</p>
+
+<p>Anda akan mengenalinya: audio tiba-tiba menjadi senyap dan tersekat-sekat, AirPods muncul dua kali dalam tetapan bunyi anda (sekali sebagai output, sekali sebagai mikrofon), dan meningkatkan kelantangan sistem hampir tidak membantu.</p>
+
+<h2>Penyelesaian pasangan semula dan codec</h2>
+
+<p>Ini adalah langkah pertama yang jujur. Selesaikan mereka dengan teratur — salah satu yang awal biasanya membersihkannya.</p>
+
+<ul>
+<li><strong>Tukar peranti input anda.</strong> Buka Tetapan Sistem → Bunyi → Input dan pilih mikrofon terbina dalam Mac anda dan bukannya AirPods. Ini menghentikan macOS daripada menahan AirPods dalam mod HFP, jadi output boleh naik semula ke kualiti A2DP penuh. Ini adalah satu-satunya pembaikan yang paling berkesan.</li>
+<li><strong>Togol Bluetooth padam dan hidupkan.</strong> Tetapan semula pantas sambungan selalunya merundingkan semula A2DP dengan bersih, terutamanya jika AirPods tersekat selepas panggilan ditamatkan.</li>
+<li><strong>Sambung semula AirPods.</strong> Tutup bekas, tunggu beberapa saat, buka semula berhampiran Mac dan pilih semula sebagai peranti output.</li>
+<li><strong>Keluar dari apl yang mengambil mikrofon.</strong> Berhenti sepenuhnya dari Zoom, Teams, Discord atau tab penyemak imbas itu. Sesetengah apl membuka sesi mikrofon di latar belakang dan menyemat HFP sehingga ia hilang.</li>
+<li><strong>Pasang semula dari awal.</strong> Alih keluar AirPods di bawah Tetapan Sistem → Bluetooth (klik butang maklumat → Lupakan Peranti Ini), kemudian pasangkan semula. Ini mengosongkan rundingan profil yang rosak yang menogol sahaja tidak akan membetulkan.</li>
+<li><strong>Tetapkan semula AirPods.</strong> Dengan mereka dalam penutup sarung terbuka, tahan butang persediaan di bahagian belakang sehingga lampu memancarkan ambar kemudian putih. Pasang semula selepas itu. Ini ialah pilihan nuklear untuk keanehan peringkat perisian tegar.</li>
+<li><strong>Kemas kini perisian tegar macOS dan AirPods.</strong> Apple telah menghantar pembetulan audio Bluetooth dalam keluaran titik. Perisian tegar AirPods mengemas kini secara senyap apabila ia mengecas berhampiran peranti yang disambungkan — jadi biarkan ia dalam bekas berhampiran Mac anda semalaman.</li>
+</ul>
+
+<blockquote><p>Corak untuk ditonton: jika kelantangan menurun sebaik sahaja anda menyertai panggilan dan pulih apabila panggilan ditamatkan, itu ialah suis HFP — bukan pembesar suara rosak atau gangguan tetapan.</p></blockquote>
+
+<h2>Mengapa pembetulan tidak selalu melekat</h2>
+
+<p>Inilah bahagian yang mengecewakan. Walaupun selepas berpasangan semula, macOS dengan senang hati akan menukar AirPods anda kembali ke mod bebas tangan senyap apabila mana-mana apl menyentuh mikrofon seterusnya. Anda tidak boleh melumpuhkan tingkah laku itu secara kekal dalam tetapan sistem — Apple menganggapnya sebagai automatik. Oleh itu, anda akhirnya melakukan semula helah peranti input beberapa kali sehari, dan pada bila-bila masa AirPods anda berada dalam panggilan atau apl lapar mikrofon, mereka dihadkan pada tahap yang lebih rendah itu lagi.</p>
+
+<p>Terdapat juga isu kedua yang berasingan yang disepakati orang dengan yang ini: sesetengah apl hanya lebih senyap daripada yang lain pada volum sistem maksimum. Pemain podcast atau tab penyemak imbas boleh berada jauh di bawah apa yang telinga anda inginkan, walaupun ketika AirPods menjalankan A2DP yang bersih. macOS memberi anda satu peluncur volum untuk segala-galanya dan tiada kawalan setiap apl, jadi tiada cara asli untuk menolak satu apl senyap sandaran.</p>
+
+<h2>Tingkatkan tahap semula — dan simpan di sana</h2>
+
+<p>Di sinilah pengadun volum setiap apl mendapat tempatnya. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah aplikasi bar menu untuk macOS yang memberikan setiap apl yang sedang berjalan peluncur volum bebasnya sendiri — termasuk rangsangan melebihi 100%. Oleh itu, apabila AirPods anda kembali daripada panggilan pada tahap berkesan yang lebih rendah, atau apl tertentu terlalu senyap, anda menyeret apl itu melepasi siling biasa dan ia kekal di sana.</p>
+
+<p>Secara konkrit, ini bermakna:</p>
+
+<ul>
+<li><strong>Kelantangan setiap apl TINGKATKAN.</strong> Tolak apl senyap melebihi maksimum standard dan bukannya berusaha untuk mendengarnya pada volum sistem "penuh".</li>
+<li><strong>Profil volum.</strong> Simpan satu set tahap — penyemak imbas yang dirangsang, muzik yang lebih lembut, panggilan video yang kuat — dan tukar keseluruhan susunan dalam satu klik supaya anda tidak melaraskan semula selepas setiap sambungan semula.</li>
+<li><strong>Penukaran keluaran pantas.</strong> Lompat antara AirPods, pembesar suara komputer riba dan DAC luaran daripada bar menu tanpa menggali Tetapan Sistem, yang membantu apabila anda memaksa perundingan profil baharu.</li>
+<li><strong>Redam per-apl dan auto-ducking.</strong> Senyapkan satu apl tanpa menyentuh yang lain, dan biarkan media mencelup secara automatik apabila sesuatu yang lebih penting dimainkan.</li>
+</ul>
+
+<p>Perlu dijelaskan dengan jelas tentang perkara yang dilakukan dan tidak dilakukan oleh ini. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tidak akan memaksa macOS untuk kekal dalam A2DP — helah peranti input di atas masih merupakan alat anda untuk codec itu sendiri. Apa yang dilakukannya ialah memberikan anda kembali kehebatan yang dicuri oleh penurunan taraf, setiap apl, jadi sesi AirPods yang senyap atau apl lembut yang degil adalah pembetulan sekali seret dan bukannya hilang punca. Dan kerana ia adalah aplikasi Mac App Store kotak pasir, tiada pemacu audio untuk dipasang, tiada DMG, tiada sambungan kernel — ia hanya berjalan.</p>
+
+<h2>Versi pendek</h2>
+
+<p>Jika AirPods anda berbunyi senyap dan tersekat pada Mac anda, matikan peranti input anda dari AirPods untuk memaksanya keluar daripada mod bebas tangan dan pasang semula jika gagal. Apabila tahap masih tidak mencapai tahap yang anda inginkan — atau satu apl terlalu lembut — capai rangsangan setiap apl supaya anda menetapkannya sekali dan teruskan.</p>
+
+<p>Bosan melawan penggelangsar kelantangan setiap kali anda menerima panggilan? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> — €14.99 sekali sahaja, tiada langganan, tiada pemandu — dan berikan setiap apl volumnya sendiri.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Kelantangan Mac Terus Menetapkan Semula Dirinya di Tahoe? Cara Menguncinya untuk Kebaikan",
+    description: "Sejak macOS Tahoe, banyak Mac tiba-tiba menukar atau menetapkan semula volum mereka sendiri. Inilah sebabnya ia berlaku, cara menghentikan punca terbina dalam dan cara mengunci volum tetap bagi setiap apl supaya ia kekal.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika volum Mac anda terus menetapkan semula dirinya sejak macOS Tahoe, penyelesaiannya adalah untuk menghapuskan penyelaras automatik: nyahdayakan penyedutan audio dan "Mainkan bunyi semasa permulaan," tetapkan semula tetapan bunyi dan sambung semula mana-mana output Bluetooth dengan bersih. Untuk tahap setiap apl yang melompat-lompat, kunci volum tetap bagi setiap apl dengan pengadun supaya ia tidak hanyut lagi.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kelantangan Mac Terus Menetapkan Semula Dirinya di Tahoe? Cara Menguncinya untuk Kebaikan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Sebab volum anda berubah dengan sendirinya selepas Tahoe</h2>
+
+<p>Kelantangan yang bergerak tanpa anda menyentuhnya terasa seperti kerosakan perkakasan, tetapi hampir selalu perisian itu menentukan tahap anda untuk anda. macOS mempunyai beberapa gelagat automatik yang menyenggol atau menetapkan semula output secara senyap, dan perubahan tindanan audio Tahoe menjadikan beberapa daripadanya lebih ketara. Sebelum anda menganggap apl atau Mac rosak, ia membantu untuk mengetahui dengan tepat sistem mana yang merebut peluncur.</p>
+
+<ul>
+<li><strong>Penyimpangan audio:</strong> macOS merendahkan audio lain apabila merasakan sesuatu yang lebih penting sedang dimainkan (Siri, pengumuman kebolehaksesan, pemberitahuan). Selepas pencetus tamat, tahap kadangkala tidak kembali sepenuhnya.</li>
+<li><strong>Bluetooth set semula jabat tangan:</strong> AirPods dan peranti Bluetooth lain merundingkan semula volum semasa menyambung. Menyambung semula pertengahan sesi boleh mengetuk output kepada lalai atau ke tahap yang lebih kuat/senyap.</li>
+<li><strong>Pertukaran peranti output:</strong> Apabila anda mencabut fon kepala, dok atau bertukar kepada pembesar suara monitor, setiap output mengingati volumnya sendiri. Beralih ke sana ke mari kelihatan seperti tetapan semula "rawak".</li>
+<li><strong>Lalai setiap apl:</strong> Sesetengah apl (penyemak imbas, pemain video, alat persidangan) menetapkan keuntungan mereka sendiri semasa pelancaran atau apabila strim baharu bermula, mengatasi apa sahaja yang anda miliki.</li>
+<li><strong>Bunyi permulaan dan keadaan log masuk:</strong> Loceng but dan log masuk boleh menolak kelantangan sistem kembali ke tahap lalai yang anda tidak pilih.</li>
+</ul>
+
+<h2>Betulkan punca terbina dalam dahulu</h2>
+
+<p>Kerjakan ini dengan teratur. Kebanyakan aduan "menetapkan semula dirinya" hilang sebaik sahaja mengelak dan Bluetooth diketepikan.</p>
+
+<ul>
+<li><strong>Matikan bunyi permulaan.</strong> Tetapan Sistem → Bunyi → nyahtanda <em>Mainkan bunyi semasa permulaan</em>. Ini menghentikan bunyi but daripada menetapkan semula tahap garis dasar anda.</li>
+<li><strong>Kurangkan atau lumpuhkan pencetus itik.</strong> Dalam Tetapan Sistem → Kebolehcapaian → Kandungan Pertuturan dan Siri, matikan pengumuman pertuturan yang anda tidak perlukan. Lebih sedikit pencetus bermakna lebih sedikit detik di mana macOS merendahkan audio dan lupa untuk memulihkannya.</li>
+<li><strong>Pasangkan semula peranti Bluetooth yang bermasalah.</strong> Alih keluar AirPods atau fon kepala daripada tetapan Bluetooth dan pasangkannya segar. Profil lapuk ialah punca biasa kelantangan tersentak pada sambungan.</li>
+<li><strong>Tetapkan setiap peranti output dengan sengaja.</strong> Sambungkan setiap output yang anda gunakan (terbina dalam, monitor, fon kepala) dan tetapkan kelantangannya sekali. macOS menyimpan volum bagi setiap peranti, jadi menetapkan kesemuanya menghilangkan kejutan apabila anda bertukar.</li>
+<li><strong>Tetapkan semula Audio Teras jika ia tersekat.</strong> Buka Terminal dan jalankan <code>sudo killall coreaudiod</code>. Ini memulakan semula daemon audio tanpa but semula dan mengosongkan keadaan tergantung yang boleh menyebabkan tahap tidak menentu.</li>
+<li><strong>Kemas kini, kemudian mulakan semula.</strong> Titik Tahoe awal mengeluarkan pembetulan audio yang dihantar. Pastikan anda menggunakan binaan terkini dan but semula sekali selepas mengemas kini.</li>
+</ul>
+
+<p>Jika tetapan semula berhenti, salah seorang di atas adalah punca anda. Jika anda <em>sistem</em> kelantangan adalah stabil tetapi apl individu terus melayang lebih kuat atau lebih senyap daripada yang lain, anda telah mencapai had yang boleh dilakukan oleh kawalan terbina dalam.</p>
+
+<h2>Jurang sebenar: macOS tidak boleh mengunci volum setiap apl</h2>
+
+<p>Inilah bahagian yang mengecewakan. Windows telah mempunyai pengadun volum setiap apl selama bertahun-tahun — anda membukanya, seret satu peluncur apl dan ia kekal di sana. macOS tidak pernah menghantar satu pun. Terdapat betul-betul satu peluncur volum sistem, dan setiap apl memperjuangkannya. Oleh itu, apabila tab penyemak imbas melancarkan iklan automain atau panggilan video datang dua kali lebih kuat daripada muzik anda, satu-satunya pilihan anda ialah menggunakan volum induk secara manual — iaitu gelung "mengapa ini terus berubah" yang anda cuba larikan.</p>
+
+<blockquote>Gelangsar sistem ialah dail kongsi tunggal. Tanpa pengadun setiap apl, "tetapkan dan lupakannya" adalah mustahil pada stok macOS — sesuatu akan sentiasa mengatasi anda.</blockquote>
+
+<h2>Kunci volum tetap setiap apl dengan SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menambah pengadun per apl macOS tiada. Ia tinggal dalam bar menu anda dan memberikan setiap apl yang sedang berjalan peluncur volumnya sendiri, bebas daripada induk. Kerana ia mengingati tahap yang anda tetapkan untuk setiap apl, ia secara langsung menyelesaikan masalah "menetapkan semula dirinya sendiri": anda membuat keputusan sekali dan apl itu dibuka pada volum itu setiap kali.</p>
+
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl:</strong> kekalkan muzik pada 40% dan panggilan video pada 80% pada masa yang sama, tanpa juggling master-slider.</li>
+<li><strong>Redam dan rangsangan setiap apl:</strong> senyapkan apl yang bising serta-merta, atau tolak apl yang terlalu senyap melepasi 100% apabila audionya sendiri lemah.</li>
+<li><strong>Profil volum:</strong> simpan persediaan untuk "kerja," "permainan" atau "fokus" dan tukar keseluruhan campuran dalam satu klik.</li>
+<li><strong>Auto-ducking mengikut syarat anda:</strong> apl latar belakang yang lebih rendah secara automatik apabila anda bercakap atau apabila apl yang dipilih aktif — bukannya macOS yang membuat keputusan.</li>
+<li><strong>Penukaran keluaran pantas:</strong> lompat antara pembesar suara, fon kepala dan monitor audio dari bar menu tanpa menyelam ke dalam tetapan.</li>
+</ul>
+
+<p>Ia adalah pembelian sekali sahaja €14.99 daripada Mac App Store — tiada langganan, tiada pemacu, tiada DMG dan tiada sambungan kernel. Oleh kerana kotak pasir sepenuhnya dan diedarkan App Store, anda tidak memasang kext audio lama yang mungkin disekat oleh Tahoe pada kemas kini seterusnya. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menetapkan tahap anda menggunakan API yang disokong, jadi volum anda yang diingati bertahan dalam kemas kini dan but semula.</p>
+
+<h2>Pendekatan mana yang anda perlukan sebenarnya?</h2>
+
+<p>Jika keseluruhan volum sistem anda melonjak, mulakan dengan pembetulan terbina dalam di atas — menunduk, Bluetooth dan akaun bunyi permulaan untuk kebanyakan kes. Jika sebaliknya masalahnya ialah satu apl selalunya yang ganjil, atau anda bosan dengan penggelongsor induk menjadi kompromi, pengadun per apl adalah satu-satunya jawapan yang sebenar. macOS tidak akan menambah satu, jadi alat bar menu ialah laluan praktikal kepada campuran yang benar-benar kekal di tempat anda meletakkannya.</p>
+
+<p>Bosan mengejar peluncur kelantangan di Tahoe? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan kunci volum yang diingati untuk setiap apl — €14.99 sekali, tiada langganan, tiada pemandu.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Kawal Kelantangan Monitor DAW Anda Secara Berasingan Daripada Audio Sistem pada Mac",
+    description: "macOS tidak mempunyai pengadun volum per apl terbina dalam, jadi DAW dan bunyi sistem anda berkongsi satu tahap. Berikut ialah cara mengawal volum monitor Logic, Ableton atau GarageBand secara bebas daripada penyemak imbas dan pemberitahuan anda.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>macOS tidak mempunyai pengadun volum per apl terbina dalam, jadi DAW anda dan semua yang lain berkongsi satu peluncur sistem. Untuk menetapkan tahap monitor anda secara bebas daripada penyemak imbas, Slack dan pemberitahuan, anda memerlukan kawalan kelantangan setiap apl. Pengadun menu-bar seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> memberikan Logic, Ableton dan GarageBand volumnya sendiri, berasingan daripada audio sistem.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kawal Kelantangan Monitor DAW Anda Secara Berasingan Dari Audio Sistem pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa satu gelangsar volum merosakkan pemantauan anda</h2>
+
+<p>Apabila anda menghasilkan, DAW anda hanyalah satu daripada banyak perkara yang menarik perhatian. Lagu rujukan dimainkan dalam tab penyemak imbas. Ping Slack tiba. Tutorial YouTube dijalankan pada monitor kedua. Pada Windows, Pengadun Kelantangan membolehkan anda mengimbangi semua ini secara bebas. Pada macOS, Apple tidak pernah menghantar yang setara — kekunci kelantangan dan pergerakan peluncur bar menu <em>segala-galanya</em> sekali gus.</p>
+
+<p>Itu menimbulkan masalah sebenar bagi sesiapa yang bercampur dengan telinga. Anda mendail dalam tahap pemantauan yang selesa dalam Logic, kemudian pemberitahuan meletup pada tahap yang sama dan meniup telinga anda. Atau anda menolak sistem untuk melindungi pendengaran anda semasa laluan yang kuat, dan kini trek rujukan anda terlalu senyap untuk dibandingkan. Rujukan pemantauan anda tidak lagi stabil, dan rujukan stabil ialah titik keseluruhan pencampuran.</p>
+
+<blockquote>Pemantauan pada tahap yang konsisten adalah salah satu daripada beberapa tabiat yang boleh mengukur campuran anda. Jika bunyi sistem terus memaksa anda untuk menggerakkan peluncur induk, anda kehilangan konsistensi itu.</blockquote>
+
+<h2>Maksud "isipadu DAW berasingan" sebenarnya</h2>
+
+<p>Terdapat dua perkara berbeza yang digabungkan oleh pengeluar di sini, dan ia patut dipisahkan:</p>
+
+<ul>
+<li><strong>Antara muka / tahap output induk</strong> — tombol perkakasan pada antara muka audio anda atau pengawal monitor anda. Ini menetapkan kelantangan pendengaran mutlak anda dan harus kekal diletakkan setelah ditentukur.</li>
+<li><strong>Kelantangan perisian per apl</strong> — betapa kuatnya setiap aplikasi <em>sebelum ini</em> ia mencapai output itu. Inilah yang macOS hilang. Ia membolehkan anda mengekalkan DAW dalam keadaan bersatu sambil menurunkan bunyi Chrome, Muzik atau pemberitahuan ke paras katil di bawahnya.</li>
+</ul>
+
+<p>Anda mahu yang kedua. Matlamatnya bukan untuk mengecilkan DAW anda — ia untuk mengecilkan segala-galanya berbanding dengannya, jadi DAW kekal sebagai sumber paling kuat, paling konsisten dan gangguan duduk di latar belakang.</p>
+
+<h2>Bagaimana untuk melakukannya dengan pengadun per apl</h2>
+
+<p>Pengadun bar menu seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menyenaraikan setiap aplikasi yang sedang memainkan audio dan memberikan setiap gelangsarnya sendiri. Aliran kerja untuk pengeluar kelihatan seperti ini:</p>
+
+<ul>
+<li><strong>Kalibrasi antara muka anda sekali.</strong> Tetapkan antara muka audio atau pengawal monitor anda kepada tahap rujukan yang selesa dan boleh diulang dan biarkan ia. Ini adalah sauh tetap anda.</li>
+<li><strong>Tetapkan DAW anda kepada 100%.</strong> Dalam pengadun, biarkan Logic, Ableton atau GarageBand pada volum perisian penuh supaya ia melepasi pada perpaduan. Pemudar induk DAW anda sendiri masih melakukan pencampuran yang halus.</li>
+<li><strong>Tarik semua yang lain ke bawah.</strong> Turunkan Chrome, Safari, Muzik dan Slack ke tahap yang lebih rendah — katakan 40–60% — jadi trek rujukan dan mesej berada di bawah campuran anda dan bukannya bersaing dengannya.</li>
+<li><strong>Redam bunyi bising.</strong> Redam per apl membolehkan anda menyenyapkan penyemak imbas atau apl sembang sepenuhnya tanpa menyentuh rantai pemantauan anda. Satu klik, dan DAW anda terus bermain tanpa disentuh.</li>
+</ul>
+
+<p>Oleh kerana peluncur DAW tidak pernah bergerak, rujukan pemantauan anda kekal kukuh sepanjang sesi. Anda boleh menghidupkan trek rujukan untuk A/B pantas, kemudian meredamkannya dan tahap campuran anda tidak menganjak satu desibel.</p>
+
+<h2>Meningkatkan apl yang senyap dan bukannya menolak orang lain</h2>
+
+<p>Kadang-kadang masalah berjalan dengan cara lain. Lantunan demo kasar, memo suara atau rujukan senyap dimainkan semula jauh di bawah tahap sesi anda. Menaikkan antara muka anda untuk mendengarnya bermakna segala-galanya kini terlalu kuat. Per-apl <strong>peningkatan volum</strong> membolehkan anda menolak satu aplikasi senyap melebihi 100% supaya ia sepadan dengan tahap kerja anda — tanpa menyentuh output anda yang ditentukur. Ia adalah sekeping pengadun Windows' yang tidak pernah dimiliki dan salah satu alat yang lebih berguna apabila anda menguji bahan dari luar DAW anda.</p>
+
+<h2>Profil untuk jenis sesi yang berbeza</h2>
+
+<p>Baki ideal anda tidak sama untuk setiap tugas. Penjejakan, pencampuran dan mendengar kasual masing-masing mahukan gabungan tahap apl yang berbeza. Profil volum membolehkan anda menyimpan persediaan dan mengingatnya serta-merta:</p>
+
+<ul>
+<li><strong>Pencampuran:</strong> DAW pada 100%, penyemak imbas dan Muzik rendah, sembang diredamkan.</li>
+<li><strong>Mendengar rujukan:</strong> Muzik atau apl penstriman ke atas, DAW ke bawah.</li>
+<li><strong>Panggilan / kerjasama:</strong> apl persidangan naik, DAW ditarik ke belakang supaya ia tidak masuk ke dalam panggilan.</li>
+</ul>
+
+<p>Menukar profil mengalahkan lima peluncur yang melaraskan tangan setiap kali anda menukar gear.</p>
+
+<h2>Auto-ducking dan penukaran output pantas</h2>
+
+<p>Dua lagi perkara penting dalam studio. <strong>Auto-ducking</strong> boleh mencelupkan apl latar belakang secara automatik apabila sumber keutamaan bercakap atau dimainkan, jadi panggilan atau audio penting sentiasa terputus. Dan <strong>pensuisan keluaran cepat</strong> daripada bar menu membolehkan anda melompat antara antara muka anda, monitor dan fon kepala anda tanpa menggali Tetapan Sistem — tugas yang berterusan apabila anda menyemak campuran pada sistem yang berbeza.</p>
+
+<h2>Mengapa bukan pemacu audio maya?</h2>
+
+<p>Sesetengah alat penghalaan menyelesaikannya dengan memasang pemacu audio maya peringkat kernel. Itu berkuasa tetapi berat: ia boleh pecah selepas kemas kini macOS, menambah kependaman dan memerlukan kebenaran sistem yang mendalam. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adalah kotak pasir dan dihantar melalui Mac App Store — tiada pemandu, tiada DMG, tiada persediaan peranti agregat. Untuk kawalan tahap setiap apl secara khusus, itu adalah jalan yang jauh lebih mudah daripada mengarkitek semula penghalaan audio anda.</p>
+
+<p>Bersedia untuk memastikan tahap pemantauan anda stabil sementara semua yang lain kekal pada tempatnya? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> untuk satu kali €14.99 dan berikan DAW anda volumnya sendiri.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Alternatif Audio Hijack yang Lebih Mudah untuk Kelantangan Per Apl pada Mac",
+    description: "Jika anda hanya mahukan volum bebas bagi setiap apl pada macOS, Audio Hijack adalah berlebihan. Berikut ialah alternatif bar menu yang lebih ringan dan lebih murah yang melakukan volum setiap apl, meredam dan meningkatkan tanpa penghalaan audio.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika anda hanya mahukan volum bebas bagi setiap apl pada macOS, Audio Hijack adalah lebih banyak alat daripada yang anda perlukan. Ia adalah suite penghalaan audio dan rakaman pro (sekitar $79) dibina untuk tangkapan, kesan dan graf sesi. Untuk hanya menurunkan satu apl dan satu lagi ke atas, pengadun bar menu yang ringan seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lebih pantas, lebih murah dan sentiasa bersedia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Alternatif Audio Hijack yang Lebih Ringkas untuk Kelantangan Per Apl pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa orang ramai mencapai Audio Hijack di tempat pertama</h2>
+
+<p>macOS tidak mempunyai pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun dalam Pengadun Kelantangannya, tetapi pada Mac kekunci kelantangan dan peluncur bar menu hanya menggerakkan satu perkara: induk sistem. Tiada cara pihak pertama untuk mengatakan "kekalkan Spotify pada 40% tetapi biarkan panggilan video saya pada 100%."</p>
+
+<p>Jadi orang ramai mencari jalan penyelesaian dan tiba di Audio Hijack. Ia <em>boleh</em> lakukan volum setiap apl, kerana ia boleh memintas dan memproses audio daripada mana-mana aplikasi tunggal. Tetapi keupayaan itu adalah kesan sampingan daripada apa yang sebenarnya direka untuknya: merakam audio daripada apl dan perkakasan, kesan rantaian, penghalaan antara peranti maya dan membina saluran paip sesi boleh guna semula. Ia benar-benar cemerlang dalam hal itu. Ia hanya jawapan yang berat kepada soalan yang ringan.</p>
+
+<h2>Di mana Audio Hijack menjadi berlebihan</h2>
+
+<p>Beberapa perkara cenderung mengecewakan orang yang hanya mahukan gelangsar kelantangan:</p>
+
+<ul>
+<li><strong>harga.</strong> Audio Hijack berharga sekitar $79. Itu adil untuk studio rakaman dalam apl; ia banyak untuk menolak tab penyemak imbas.</li>
+<li><strong>Ia perlu terus berjalan.</strong> Pemprosesan setiap aplnya hanya berfungsi semasa apl dibuka dan sesi yang berkaitan aktif. Berhenti, dan volum anda kembali. Anda menyimpan pemastautin stesen kerja audio penuh hanya untuk memegang gelangsar di tempatnya.</li>
+<li><strong>Pemikiran berasaskan sesi.</strong> Anda membina sesi dengan blok dan sambungan. Berkuasa untuk menangkap, tetapi ia merupakan overhed konseptual yang banyak apabila matlamat anda ialah "apl ini lebih senyap, apl itu lebih kuat."</li>
+<li><strong>Antara muka adalah dalam.</strong> Kesan, penghalaan, meter, pendawaian blok — kawasan permukaan yang kaya yang kebanyakannya akan anda abaikan jika anda tidak pernah merekodkan apa-apa.</li>
+</ul>
+
+<blockquote>Peraturan praktikal: jika anda mahu <em>rekod atau laluan</em> audio, Audio Hijack memperoleh harganya. Jika anda hanya mahu <em>imbangan</em> audio antara apl, anda membayar untuk bengkel apabila anda memerlukan tombol.</blockquote>
+
+<h2>Alternatif yang lebih mudah: pengadun volum menu-bar</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengambil satu pekerjaan yang kebanyakan orang datang dan melakukan itu sahaja. Ia tinggal dalam bar menu anda. Klik ikon dan anda mendapat senarai langsung setiap apl yang sedang memainkan audio, masing-masing dengan peluncurnya sendiri. Seret Spotify kepada 30%, biarkan panggilan anda pada 100%, redamkan Slack sepenuhnya — selesai, tiada sesi untuk dibina.</p>
+
+<p>Perkara yang merangkumi:</p>
+
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — setiap sumber audio mendapat penggelangsarnya sendiri, boleh laras dalam masa nyata.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi yang bising dengan satu klik tanpa menyentuh apa-apa lagi.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak apl senyap <em>di atas</em> 100% apabila maksnya sendiri masih terlalu lembut. Ini adalah bahagian yang tidak boleh dilakukan oleh peluncur sistem.</li>
+<li><strong>Profil volum</strong> — simpan keseluruhan campuran (muzik rendah, panggilan kuat, pemberitahuan diredam) dan ingat semula dalam satu klik untuk konteks tertentu.</li>
+<li><strong>Auto-ducking</strong> — secara automatik mencelupkan audio latar belakang apabila sesuatu yang lebih penting bermula, supaya panggilan atau video tidak terkubur di bawah senarai main anda.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara fon kepala, pembesar suara dan output lain daripada menu yang sama.</li>
+</ul>
+
+<h2>Praktikal: mendapatkan kawalan setiap apl dalam masa kurang seminit</h2>
+
+<p>Perbezaan persediaan adalah keseluruhannya. Dengan alat penghalaan anda akan membuat sesi, menambah blok sumber, menyambungkannya dan memastikan apl berjalan. Di sini pada dasarnya:</p>
+
+<ul>
+<li>Pasang <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daripada Mac App Store.</li>
+<li>Mainkan audio dalam beberapa apl supaya ia muncul dalam senarai.</li>
+<li>Klik ikon bar menu dan seret peluncur setiap apl untuk merasai.</li>
+<li>Simpan campuran itu sebagai profil secara pilihan atau tingkatkan apl yang terlalu senyap melepasi 100%.</li>
+</ul>
+
+<p>Kerana ia diedarkan melalui Mac App Store, ia dikotak pasir dan dipasang seperti mana-mana apl biasa — tidak <code>.dmg</code> untuk menyeret, tiada sambungan kernel, tiada pemacu audio untuk diluluskan dalam tetapan Keselamatan, dan tiada apa yang perlu diluluskan semula selepas kemas kini macOS. Perkara terakhir itu penting: pengadun berasaskan pemacu secara sejarah memecahkan peningkatan OS dan memerlukan pemasangan semula komponen peringkat sistem. Apl App Store kotak pasir mengelakkan keseluruhan kategori penyelenggaraan itu.</p>
+
+<h2>Mana satu patut anda pilih?</h2>
+
+<p>Jujurlah tentang pekerjaan itu. pilih <strong>Audio Hijack</strong> jika anda perlu merakam audio apl atau perkakasan, gunakan kesan masa nyata atau bina graf penghalaan antara peranti maya. Itulah kawasan asalnya dan ia bernilai setiap dolar di sana.</p>
+
+<p>Pilih pengadun bar menu khusus jika keperluan sebenar anda ialah "biar saya tetapkan volum setiap apl secara berasingan." Anda akan membelanjakan €14.99 sekali dan bukannya ~$79, langkau pembinaan sesi dan dapatkan rangsangan, senyapkan, profil dan sedutan dalam panel yang anda buka dari bar menu. Tiada ciri rakaman yang anda tidak akan pernah sentuh, tiada stesen kerja berjalan di latar belakang untuk memegang gelangsar di tempatnya.</p>
+
+<p>Kebanyakan orang yang mencuba Audio Hijack untuk pengimbangan volum sedang menyelesaikan masalah kecil dengan alat yang besar. Jika itu anda, alat kecil itu lebih sesuai — dan kosnya lebih rendah.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> untuk €14.99, sekali — volum setiap apl, rangsangan, redam, profil dan auto-itik, terus dari bar menu anda.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Alternatif Boom 3D: Kelantangan Per Apl Tanpa Kembung (Mac)",
+    description: "Jika anda menggunakan Boom 3D terutamanya untuk meningkatkan audio tetapi benar-benar mahukan kawalan kelantangan setiap apl, SoundDial ialah alternatif Mac yang lebih ramping: volum bebas bagi setiap apl, redam dan rangsangan setiap apl, harga sekali, tiada EQ atau pemacu seluruh sistem.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika anda mencapai Boom 3D untuk meningkatkan kelantangan tetapi sebenarnya ingin mengawal setiap apl secara berasingan, anda mahukan alat yang berbeza. Boom 3D ialah penggalak volum seluruh sistem dan EQ. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pengadun volum setiap apl terfokus: volum bebas, redam dan rangsangan untuk setiap apl, sekali €14.99, tiada EQ, tiada pemandu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Alternatif Boom 3D: Volum Per Apl Tanpa Kembung (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Perkara yang sebenarnya dilakukan oleh Boom 3D (dan tidak)</h2>
+<p>Boom 3D dibina berdasarkan tiga perkara: peningkatan volum seluruh sistem, penyamaan 31 jalur dan kesan "keliling" 3D. Ia terpakai kepada <em>segala-galanya</em> Mac anda dimainkan serentak. Itu benar-benar berguna jika matlamat anda ialah komputer riba yang lebih kuat atau lengkung bass yang anda sukai secara menyeluruh.</p>
+<p>Apa yang Boom 3D tidak dibina ialah menganggap apl sebagai saluran bebas. Tiada cara yang bersih untuk mengatakan "Spotify pada 40%, panggilan video saya pada 100% dan tab penyemak imbas ini diredamkan." Gelangsarnya menggerakkan keseluruhan adunan. Dan kerana ia memasang pemacu audio untuk duduk di laluan isyarat, ia menyentuh sistem anda pada tahap yang lebih rendah daripada utiliti kotak pasir. Ia juga diletakkan sebagai produk berbayar dengan kitaran peningkatan dan bukannya alat sekali sahaja.</p>
+<blockquote><p>Kisah biasa: orang memasang Boom 3D untuk menjadikan satu apl senyap lebih kuat, kemudian menyedari masalah sebenar ialah macOS tidak mempunyai pengadun volum setiap apl sama sekali.</p></blockquote>
+
+<h2>Jurang: macOS tidak mempunyai pengadun volum</h2>
+<p>Ini mengejutkan orang yang datang dari Windows. Windows telah mempunyai Pengadun Kelantangan setiap apl selama bertahun-tahun — klik kanan pembesar suara, tetapkan tahap setiap apl secara individu. macOS semata-mata tidak menghantar ini. Anda mendapat satu volum induk dan apa sahaja peluncur dalaman yang didedahkan oleh setiap apl. Tiada cara peringkat OS untuk mengimbangi Slack dengan tab YouTube dengan permainan.</p>
+<p>Jadi apabila apl muzik menenggelamkan panggilan anda, satu-satunya pilihan asli anda adalah kasar: kurangkan induk (yang menyenyapkan segala-galanya) atau gali setiap tetapan apl itu sendiri dengan harapan ia mempunyai kawalan kelantangan. Boom 3D juga tidak menutup jurang itu — ia menjadikan keseluruhan campuran lebih kuat, bukan setiap apl.</p>
+
+<h2>Di mana SoundDial sesuai</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adalah pengadun yang hilang. Ia tinggal dalam bar menu anda dan memberikan setiap apl berjalan barisnya sendiri dengan peluncurnya sendiri. Itulah perbezaan teras daripada Boom 3D: bukannya satu kesan global, anda mendapat kawalan setiap sumber.</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — tetapkan Spotify kepada 30% sementara panggilan video anda kekal pada 100%.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi yang bising serta-merta tanpa menyentuh apa-apa lagi.</li>
+<li><strong>Rangsangan setiap apl</strong> — jika anda menyukai helah Boom 3D yang lebih kuat daripada 100%, SoundDial menyimpannya, tetapi disasarkan pada satu apl dan bukannya keseluruhan sistem. Apl senyap ditolak sendiri melepasi siling biasa.</li>
+<li><strong>Profil volum</strong> — simpan susun atur pengadun (cth. "permainan," "mesyuarat," "muzik") dan panggil semula dalam satu klik dan bukannya mengimbangi semula peluncur setiap kali.</li>
+<li><strong>Auto-ducking</strong> — secara automatik mencelupkan audio latar belakang apabila sesuatu yang penting bermula, jadi panggilan atau isyarat permainan tidak terkubur di bawah muzik.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara fon kepala, pembesar suara dan output lain daripada menu yang sama.</li>
+</ul>
+<p>Apa yang SoundDial sengaja tidak lakukan ialah selebihnya ciri Boom 3D yang tersebar. Tiada EQ 31 jalur, tiada pemprosesan sekeliling palsu, tiada rantai kesan seluruh sistem. Jika anda mahukan EQ gred penguasaan, Boom 3D atau suite audio khusus ialah pilihan yang tepat. Jika anda sebenarnya terus membuka Boom 3D adalah <em>isipadu</em>, luas permukaan itu adalah kembung yang anda bayar untuk dibawa.</p>
+
+<h2>Boost, tanpa pemandu</h2>
+<p>Soalan "dorongan" patut mendapat jawapan langsung, kerana biasanya itulah sebabnya pengguna Boom 3D membeli-belah untuk alternatif. Rangsangan Boom 3D adalah global dan berasaskan pemandu. Rangsangan SoundDial adalah setiap apl dan dijalankan di dalam model kotak pasir aplikasi Apple — ia diedarkan melalui Mac App Store, jadi tiada pemasang berasingan, tiada pemacu peringkat kernel dan tiada komponen sistem sisa untuk dinyahpasang kemudian. Anda mendapat hasil "jadikan apl senyap ini lebih kuat" tanpa menyerahkan kawalan pemandu ke atas keseluruhan laluan audio anda.</p>
+
+<h2>Harga: sekali berbanding berterusan</h2>
+<p>Boom 3D ialah apl berbayar dengan model naik taraf dan pelesenannya sendiri, dan harga berbeza mengikut platform dan versi. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pembelian sekali sahaja pada harga €14.99 — beli sekali, simpan, tiada langganan dan tiada pembelian semula setiap versi untuk memastikan pengadun berfungsi. Untuk utiliti yang anda akan biarkan berjalan dalam bar menu setiap hari, harga rata cenderung menjadi lebih tua daripada produk yang anda perlu terus beli semula.</p>
+
+<h2>Mana satu patut anda pilih?</h2>
+<ul>
+<li><strong>Pilih Boom 3D</strong> jika keperluan sebenar anda ialah penyamaan yang serius dan kesan audio seluruh sistem, dan anda tidak keberatan pemacu audio dalam campuran.</li>
+<li><strong>Pilih SoundDial</strong> jika anda mahukan apa yang pengguna Windows ambil mudah — pengadun volum setiap apl sebenar — ditambah rangsangan sasaran, profil dan auto-ducking, pada harga sekali sahaja dan tanpa pemacu untuk dipasang.</li>
+</ul>
+<p>Kebanyakan orang yang melantun Boom 3D jatuh ke dalam kumpulan kedua. Mereka tidak mahu menala frekuensi; mereka mahukan penyemak imbas lebih senyap daripada panggilan. Itulah tugas SoundDial dibina.</p>
+
+<p><strong>Mahukan kawalan volum setiap apl pada Mac anda tanpa kelebihan EQ atau langganan?</strong> <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> — €14.99 sekali, berkotak pasir, tiada pemacu, dan setiap apl mendapat peluncurnya sendiri.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Cara Membisukan Semuanya Kecuali Satu Apl pada Mac Anda",
+    description: "macOS tidak mempunyai pengadun volum setiap apl, jadi menyenyapkan setiap apl kecuali satu memerlukan pembantu. Berikut ialah cara untuk mendengar panggilan, strim atau permainan anda sahaja sementara semua yang lain kekal diredam.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai cara terbina dalam untuk meredamkan apl individu, jadi untuk mendengar hanya satu apl anda memerlukan pengadun volum setiap apl. Pasang <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, buka pengadun bar menunya, redamkan setiap apl kecuali yang anda mahu dengar dan apl itu terus dimainkan manakala yang lain senyap serta-merta.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Cara Membisukan Semuanya Kecuali Satu Apl pada Mac Anda" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa macOS tidak boleh melakukan ini sendiri</h2>
+<p>Windows telah mempunyai Pengadun Kelantangan selama lebih sedekad: klik kanan ikon pembesar suara, dan setiap apl yang berjalan mendapat peluncurnya sendiri. macOS tidak pernah menghantar ini. Kekunci kelantangan pada Mac anda mengawal satu perkara sahaja, tahap output induk. Apabila anda menolak sistem, semuanya akan turun bersama-sama. Apabila anda membisukan, semuanya akan membisukan.</p>
+<p>Itu tidak mengapa sehingga anda mempunyai lima perkara yang membuat bising sekaligus. Anda sedang membuat panggilan video, tetapi tab penyemak imbas sedang memainkan iklan secara automatik, Spotify masih berjalan, permainan sedang ping di latar belakang dan Slack berbunyi. Satu-satunya pilihan asli anda ialah keluar dari apl, redamkannya satu per satu dalam tetapan setiap apl itu sendiri (jika apl itu mempunyai pilihan itu), atau tarik fon kepala anda. Tiada satu pun daripada itu membenarkan anda berkata "simpan yang ini, senyapkan yang lain."</p>
+
+<h2>Cara mudah: senyapkan selebihnya dengan pengadun</h2>
+<p>Pengadun per apl terletak di antara apl anda dan peranti output anda dan memberikan setiap apl kawalan kelantangan dan redamannya sendiri. Sebaik sahaja anda menjalankan satu apl, mengasingkan satu apl mengambil masa beberapa saat:</p>
+<ul>
+<li>Buka pengadun dari bar menu anda. Anda akan melihat senarai langsung setiap apl yang sedang menghasilkan audio.</li>
+<li>Cari satu apl yang anda mahu dengar, panggilan anda, strim anda, permainan anda.</li>
+<li>Redamkan semua yang lain. Ketik togol bisu di sebelah apl lain atau tarik peluncurnya kepada sifar.</li>
+<li>Itu sahaja. Satu apl yang anda tinggalkan sahaja terus bermain pada kelantangan penuh manakala selebihnya kekal senyap.</li>
+</ul>
+<p>Dengan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, setiap apl dalam senarai mempunyai peluncur sendiri dan butang redamnya sendiri, jadi ini adalah segelintir klik. Apl baharu yang mula dimainkan kemudian muncul secara automatik, jadi jika bunyi pemberitahuan cuba menyelinap masuk, anda boleh menyenyapkannya di tempat kejadian tanpa menyentuh apl fokus anda.</p>
+
+<blockquote>Caranya ialah meredamkan "semuanya kecuali satu" hanyalah songsang daripada meredam satu apl. Anda tidak menyenyapkan Mac anda, anda menyenyapkan bunyi di sekeliling perkara yang anda benar-benar mengambil berat.</blockquote>
+
+<h2>Simpannya sebagai profil supaya anda tidak melakukannya semula</h2>
+<p>Jika ini adalah persediaan yang sering anda capai, melakukannya dengan tangan setiap kali menjadi tua. Katakan anda sentiasa mahu apl panggilan anda kuat dan segala-galanya dimatikan semasa mesyuarat, atau anda mahu strim anda di hadapan dan tengah sementara permainan dan penyemak imbas kekal senyap. Profil volum menyimpan tetapan setiap apl yang tepat dan menggunakannya semula dalam satu klik.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> membolehkan anda menyimpan profil seperti "Mesyuarat" atau "Strim Sahaja", kemudian beralih kepada profil tersebut sebaik sahaja anda memerlukannya. Sediakannya sekali, dan mengasingkan satu apl anda menjadi satu tindakan bar menu dan bukannya tugas lima gelangsar.</p>
+
+<h2>Versi yang lebih pintar: auto-itik dan bukannya keras-redam</h2>
+<p>Kadangkala anda tidak mahu apl lain hilang sepenuhnya, anda hanya mahu apl itu hilang apabila sesuatu yang lebih penting bermula. Itu auto-ducking. Apabila apl keutamaan anda dimainkan, apl latar belakang secara automatik jatuh ke tahap yang rendah, kemudian naik semula apabila ia berhenti.</p>
+<p>Ini sesuai untuk panggilan dan strim. Apabila seseorang mula bercakap, muzik anda menurun supaya anda boleh mendengarnya dan apabila panggilan ditamatkan, muzik muncul semula dengan sendirinya. Anda mendapat hasil "mendengar satu apl dengan jelas" tanpa meredam dan menyahredam secara manual setiap kali situasi berubah. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> termasuk auto-ducking bersama-sama pengadun manual, jadi anda boleh memilih hard mute untuk senyap sepenuhnya atau ducking untuk latar belakang yang lebih lembut.</p>
+
+<h2>Meningkatkan satu apl yang anda simpan</h2>
+<p>Terdapat bonus untuk mengasingkan satu apl: anda juga boleh menjadikannya lebih kuat daripada yang biasanya dibenarkan oleh Mac anda. Sesetengah apl, terutamanya panggilan video yang senyap atau strim yang kurang dikuasai, hampir tidak boleh didengar walaupun pada volum maksimum. Rangsangan setiap apl mendorong apl individu melebihi 100% tanpa menghidupkan output sistem anda, yang hanya akan menguatkan apl yang telah anda redamkan.</p>
+<p>Jadi langkah penuh ialah: redamkan bunyi bising, kekalkan satu apl anda dan jika apl itu terlalu senyap, tingkatkannya. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengendalikan ketiga-tiga dalam tetingkap pengadun yang sama.</p>
+
+<h2>Perkara yang anda tidak mendaftar</h2>
+<p>Kebimbangan biasa dengan alat audio Mac ialah alat tersebut memerlukan sambungan kernel, pemacu audio maya atau pemasang rendang yang dimuat turun dari tapak web rawak. Itulah kebimbangan yang sah, dan itulah sebabnya sesetengah orang mengelakkan aplikasi ini sepenuhnya.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> berada pada Mac App Store, dikotak pasir dan dipasang seperti mana-mana apl biasa, tiada pemacu, tiada DMG, tiada sambungan sistem untuk diluluskan. Ia adalah pembelian sekali sahaja €14.99 dan bukannya langganan, jadi anda membayar sekali dan menyimpannya. Itu penting untuk sesuatu yang anda akan biarkan berjalan dalam bar menu anda sepanjang hari.</p>
+
+<h2>Imbas kembali cepat</h2>
+<ul>
+<li>macOS tidak mempunyai kawalan kelantangan per apl asli, jadi anda memerlukan pengadun untuk melakukan ini.</li>
+<li>Buka pengadun, kekalkan satu apl anda, senyapkan atau sifarkan semua yang lain.</li>
+<li>Simpannya sebagai profil untuk panggilan atau strim yang sering anda lakukan.</li>
+<li>Gunakan auto-ducking jika anda mahu apl latar belakang didiamkan daripada dibunuh.</li>
+<li>Tingkatkan apl disimpan anda jika ia terlalu senyap dengan sendirinya.</li>
+</ul>
+
+<p>Mahu mendengar sahaja perkara yang penting dan senyapkan yang lain? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan sediakan profil bisu-segalanya-lain pertama anda dalam masa kurang seminit.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Kekalkan Kelantangan Berbeza untuk Pembesar Suara lwn Fon Kepala pada Mac",
+    description: "macOS melupakan campuran volum peringkat apl anda apabila anda bertukar antara pembesar suara dan fon kepala. Inilah sebabnya ia berlaku, had manual dan cara memori volum setiap apl membetulkannya.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS sebenarnya mengingati volum sistem yang berasingan untuk setiap peranti output, tetapi ia melupakan baki peringkat apl anda setiap kali anda bertukar. Jadi fon kepala dan pembesar suara mengekalkan tahap keseluruhannya sendiri, namun sebaik sahaja anda mencabut palam, satu apl meletup dan satu lagi hilang. Penyelesaiannya ialah memori volum setiap apl yang bertahan dalam suis peranti, yang macOS tidak mempunyai alat asli untuknya.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kekalkan Kelantangan Berbeza untuk Pembesar Suara lwn Fon Kepala pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Apa yang macOS ingat dan apa yang tidak</h2>
+
+<p>Terdapat kepercayaan umum bahawa macOS merawat setiap peranti output secara sama. ia tidak. Setiap peranti output menyimpan volum sistemnya sendiri. Tetapkan pembesar suara MacBook anda kepada 30% dan AirPods anda kepada 80% dan macOS memastikan kedua-dua nombor itu berasingan. Palamkan masuk, cabut palam, sambung semula dan setiap peranti kembali ke tempat anda meninggalkannya.</p>
+
+<p>Jadi mengapa pengalaman itu masih terasa hancur? Kerana ingatan itu berhenti pada gelangsar global tunggal. macOS mempunyai tepat satu kawalan kelantangan untuk semua yang dimainkan pada peranti tertentu. Ia tidak ingat betapa kuatnya apl individu. Apabila anda bertukar daripada pembesar suara kepada fon kepala, keseimbangan antara Spotify, panggilan Zoom dan tab YouTube tidak dikekalkan, kerana baki itu tidak pernah wujud. Setiap apl berkongsi peluncur yang sama.</p>
+
+<p>Hasilnya ialah kekecewaan yang disifatkan orang sebagai "volum berbeza untuk pembesar suara vs fon kepala." Perkara yang biasanya mereka mahukan bukan hanya tahap induk yang berbeza bagi setiap peranti, tetapi campuran yang diingati: muzik senyap, panggilan kuat, pemberitahuan ditolak dan campuran itu utuh sama ada ia menggunakan pembesar suara meja atau fon kepala.</p>
+
+<h2>Penyelesaian manual dan di mana ia gagal</h2>
+
+<p>Anda boleh pergi ke sana dengan alat terbina dalam, dan ia berbaloi untuk mengetahui siling sebelum mencapai apa-apa lagi.</p>
+
+<ul>
+<li><strong>Tetapkan volum sistem setiap peranti sekali.</strong> Mainkan audio melalui pembesar suara anda, tetapkan tahap, kemudian tukar output kepada fon kepala dan tetapkan tahap itu. macOS mengekalkan kedua-duanya. Ini mengendalikan volum induk setiap peranti tetapi tiada apa-apa bagi setiap apl.</li>
+<li><strong>Gunakan volum setiap apl di mana apl menawarkannya.</strong> Spotify, VLC dan kebanyakan penyemak imbas mempunyai volum dalaman mereka sendiri. Anda boleh memangkas apl yang kuat di dalam apl itu sendiri. Tangkapan: tetapan ini hidup dalam apl, bukan peranti, jadi ia tidak berubah apabila anda bertukar kepada fon kepala dan kebanyakan apl (Slack, Zoom, pemberitahuan sistem, Mel) tidak mempunyai kawalan sedemikian sama sekali.</li>
+<li><strong>Tukar output daripada Pusat Kawalan atau bar menu.</strong> Pilihan-klik ikon kelantangan dalam bar menu untuk melompat antara peranti dengan cepat. Cepat, tetapi ia hanya menggerakkan tahap induk, ia tidak memulihkan campuran setiap apl.</li>
+</ul>
+
+<p>Ini memberi anda volum induk setiap peranti. Perkara yang tidak diberikan oleh mereka ialah baki setiap apl yang diingati yang mengikuti anda merentas peranti. Jurang itu ialah tempat kegusaran itu hidup, dan ia berstruktur: OS hanya tidak mempunyai pengadun per-apl, tidak seperti Windows, yang telah menghantar satu selama bertahun-tahun.</p>
+
+<h2>Memori volum setiap apl dan sebab penukaran peranti adalah masalah sebenar</h2>
+
+<p>Pembetulan yang lebih mendalam adalah untuk memberikan setiap apl volumnya sendiri dan tetapkan tetapan tersebut. Itulah yang disukai oleh pengadun per apl <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dibina untuk. Ia terletak dalam bar menu anda, menyenaraikan setiap apl yang sedang menghasilkan bunyi dan memberikan setiap satu peluncur bebas, togol senyap dan juga rangsangan melepasi 100% untuk apl senyap.</p>
+
+<p>Bahagian yang penting untuk masalah pembesar suara-vs-fon kepala: tahap tersebut diingati. Tetapkan muzik anda kepada 40%, panggilan anda kepada 90%, dan apl berbual untuk diredamkan, dan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengekalkan campuran itu. Apabila anda mencabut fon kepala anda dan kembali ke pembesar suara, anda tidak akan mengimbangi semula tiga apl menggunakan tangan setiap kali.</p>
+
+<p>Profil volum mengambil ini lebih jauh. Anda boleh menyimpan satu set peringkat setiap apl yang dinamakan dan mengingatinya dalam satu klik, jadi campuran "fon kepala, kerja fokus" dan campuran "penceramah, mesyuarat" masing-masing adalah pilihan tunggal dan bukannya tetapan semula manual.</p>
+
+<blockquote><p>Anjakan mental: berhenti memikirkan satu peluncur utama yang anda terus seret, dan mula memikirkan campuran yang disimpan setiap situasi. Penukaran peranti berhenti menjadi tugas pengimbangan semula.</p></blockquote>
+
+<h2>Penukaran keluaran pantas tanpa kehilangan campuran anda</h2>
+
+<p>Menukar peranti hendaklah pantas dan tidak merosakkan. Daripada panel bar menu yang sama, anda boleh menukar peranti output anda, jadi beralih daripada pembesar suara ke fon kepala hanya dengan satu klik, dan tahap setiap apl anda disertakan dan bukannya runtuh kembali kepada satu nombor global.</p>
+
+<p>Ciri berkaitan yang patut disebut ialah auto-ducking: apabila audio masuk pada mikrofon anda (anda mula bercakap, atau panggilan bermula), apl lain mencelup secara automatik supaya anda boleh didengari, kemudian kembali ke tahap yang ditetapkan selepas itu. Ia adalah prinsip yang sama digunakan untuk perhatian dan bukannya peranti, satu lagi perkara yang macOS tidak akan lakukan sendiri.</p>
+
+<h2>Bagaimana untuk menetapkannya</h2>
+
+<ul>
+<li>Pasang <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daripada Mac App Store. Ia berkotak pasir, jadi tiada pemacu, tiada DMG, dan tiada sambungan kernel untuk diluluskan.</li>
+<li>Mainkan audio dalam apl yang paling kerap anda gunakan supaya ia muncul dalam pengadun.</li>
+<li>Tetapkan tahap setiap apl, redamkan apa sahaja yang anda tidak mahu dan tingkatkan apa-apa yang terlalu senyap.</li>
+<li>Simpan susunan itu sebagai profil, contohnya satu ditala untuk fon kepala dan satu untuk pembesar suara.</li>
+<li>Apabila anda menukar peranti, ingat semula profil yang sepadan atau biarkan tahap setiap apl anda yang disimpan diteruskan.</li>
+</ul>
+
+<p>Ringkasan jujur: macOS memang mengingati volum setiap peranti output pada tahap induk, tetapi ia tidak akan mengingati campuran per apl anda, kerana ia tidak mempunyai pengadun per apl. Jika matlamat sebenar anda ialah keseimbangan yang konsisten antara muzik, panggilan dan pemberitahuan yang kekal dalam setiap suis antara pembesar suara dan fon kepala, anda memerlukan memori setiap apl di atas OS.</p>
+
+<p>Mahu pembesar suara dan fon kepala mengekalkan campuran mereka sendiri tanpa melaraskan semula setiap apl? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> untuk satu kali €14.99, tiada langganan, tiada pemandu.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control Dihentikan? Penggantian Kelantangan Per-Apl Mac Terbaik (2026)",
+    description: "Sound Control oleh Static Z Software dihentikan dan berhenti pada macOS moden. Inilah sebabnya ia berhenti berfungsi, apa yang dilakukannya dan pengadun volum setiap apl terbaik untuk ditukar pada tahun 2026.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Sound Control oleh Static Z Software dihentikan dan tidak lagi dijual atau dikemas kini, dan ia semakin gagal pada macOS moden kerana ia bergantung pada pemacu audio peringkat kernel yang telah dikunci oleh Apple. Jika anda memerlukan volum setiap apl hari ini, penggantian paling bersih ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun Mac App Store kotak pasir tanpa pemandu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control Dihentikan? Penggantian Kelantangan Per-Apl Mac Terbaik (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Apa yang Sound Control sebenarnya lakukan</h2>
+<p>Sound Control adalah, selama bertahun-tahun, jawapan kepada jurang macOS yang tulen: masih tiada pengadun volum setiap apl terbina dalam pada Mac. Windows telah mempunyai satu dalam Pengadun Volume sejak Vista, tetapi macOS hanya memberi anda satu peluncur induk. Sound Control mengisi lubang itu dengan panel bar menu yang kemas yang membolehkan anda:</p>
+<ul>
+<li>Tetapkan tahap kelantangan bebas untuk setiap apl yang sedang berjalan.</li>
+<li>Redamkan apl individu tanpa menyentuh seluruh audio sistem anda.</li>
+<li>Tingkatkan apl senyap melebihi 100 peratus.</li>
+<li>Gunakan penyamaan setiap apl dan pelarasan baki.</li>
+<li>Halakan audio dan pin apl ke peranti output tertentu.</li>
+</ul>
+<p>Bagi sesiapa yang pernah mengalami letupan panggilan Zoom semasa tab latar belakang YouTube berbisik, kawalan setiap apl itu adalah transformatif. Ia menjadi ruji yang tenang pada banyak mesin pengguna kuasa Mac.</p>
+
+<h2>Mengapa ia berhenti berfungsi</h2>
+<p>Cerita teknikal yang jujur penting di sini, kerana ia menerangkan mengapa ini bukan pepijat yang boleh ditampal oleh seseorang. Sound Control berfungsi dengan memasang pemacu audio sistem — sambungan kernel (kext) yang memasukkan dirinya ke dalam saluran paip audio macOS supaya ia boleh memintas dan membentuk semula setiap output apl. Cangkuk yang dalam itulah yang membolehkan ciri EQ dan rangsangan.</p>
+<p>Bermula dengan macOS 10.15 Catalina dan mempercepatkan melalui Big Sur dan peralihan Apple Silicon, Apple mula menghentikan sambungan kernel memihak kepada alternatif ruang pengguna. Pada Apple Silicon Macs, memuatkan kexts pihak ketiga memerlukan menurunkan keselamatan sistem dalam Mod Pemulihan, dan Apple telah menjelaskan dengan jelas bahawa kexts audio legasi berada pada masa yang dipinjam. Perisian Static Z akhirnya berhenti menjual dan membangunkan Sound Control. Hasilnya: pada versi macOS baru-baru ini, pemasangan gagal, gangguan audio, atau pemacu hanya enggan memuatkan tanpa menurunkan taraf keselamatan kebanyakan orang sememangnya tidak mahu melakukannya.</p>
+<blockquote>Ini bukan pengabaian di pihak pemaju. Ia adalah peralihan peringkat platform. Apple menutup pintu pada jenis pemacu audio tahap rendah Sound Control dibina di sekelilingnya, dan tiada kemas kini boleh membukanya semula sepenuhnya.</blockquote>
+
+<h2>Apa yang berubah pada macOS moden</h2>
+<p>Apple telah menambah satu perkara yang berkaitan: Audio Teras kini menawarkan API Ketik (diperkenalkan dalam macOS 14.2 Sonoma) yang membolehkan apl menangkap dan memproses audio setiap proses daripada ruang pengguna — tiada kext, tiada penurunan taraf keselamatan, tiada but semula ke dalam Pemulihan. Ini ialah laluan moden yang dibenarkan untuk audio setiap apl, dan itulah yang harus dibina pada pengadun semasa. Pertukaran adalah jujur: ketikan ruang pengguna lebih terhad daripada pemacu kernel lama, jadi anda harus mengharapkan volum bersih setiap apl, meredam dan rangsangan berbanding EQ parametrik per apl penuh Sound Control yang ditawarkan.</p>
+
+<h2>Pengganti terbaik: SoundDial</h2>
+<p>Jika anda mahukan teras apa yang Sound Control lakukan — volum bebas bagi setiap apl — pada Mac, anda sebenarnya boleh memastikan keselamatan dan kemas kini, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pilihan migrasi bersih yang paling hampir pada tahun 2026. Ia ialah pengadun volum setiap apl bar menu yang dibina untuk tindanan audio macOS moden. Perkara yang dibawa daripada aliran kerja Sound Control:</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — satu peluncur bagi setiap aplikasi yang sedang berjalan, betul-betul dalam bar menu.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi sementara yang lain terus bermain.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak apl senyap di atas siling biasa.</li>
+<li><strong>Profil volum</strong> — simpan persediaan pengadun untuk konteks yang berbeza (panggilan, muzik, permainan) dan tukar antaranya.</li>
+<li><strong>Auto-ducking</strong> — merendahkan volum apl latar belakang secara automatik, berguna apabila anda mula bercakap atau panggilan masuk.</li>
+<li><strong>Penukaran keluaran pantas</strong> — melompat antara pembesar suara, fon kepala dan peranti lain tanpa menyelam ke dalam Tetapan Sistem.</li>
+</ul>
+<p>Perbezaan praktikal yang penting untuk penghijrahan: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dihantar melalui Mac App Store, dikotak pasir, dan tidak memasang pemacu dan tiada DMG. Ini bermakna tiada sambungan kernel untuk diluluskan, tiada Mod Pemulihan dan tiada menurunkan postur keselamatan Mac anda — titik kesakitan yang tepat yang membunuh Sound Control. Ia adalah pembelian sekali sebanyak €14.99, bukan langganan.</p>
+
+<h2>Bagaimana untuk menukar, langkah demi langkah</h2>
+<ul>
+<li><strong>Nyahpasang Sound Control dengan bersih.</strong> Kerana ia memasang pemacu, gunakan penyahpasangnya sendiri jika ia masih berjalan, atau alih keluar komponen pemacu audionya sebelum memasang sesuatu yang baharu. Dua cangkuk audio yang bersaing boleh menyebabkan gangguan.</li>
+<li><strong>Pasang SoundDial daripada App Store.</strong> Tiada but semula atau perubahan keselamatan diperlukan.</li>
+<li><strong>Berikan kebenaran audio yang dimintanya.</strong> Inilah yang membolehkan ia membaca dan mengawal output setiap apl pada macOS moden.</li>
+<li><strong>Buka panel bar menu dan tetapkan tahap.</strong> Apl berjalan anda muncul dengan peluncur individu; laraskan, senyapkan atau tingkatkan mengikut keperluan.</li>
+<li><strong>Simpan profil.</strong> Jika anda mempunyai persediaan Sound Control kegemaran, cipta semula ia sebagai profil supaya anda boleh bertukar dalam satu klik.</li>
+</ul>
+
+<h2>Harapan yang jujur</h2>
+<p>Jika satu-satunya sebab anda menggunakan Sound Control ialah volum setiap apl, redam dan rangsangan, pengadun kotak pasir moden melindungi anda sepenuhnya. Jika anda banyak bersandar pada penyamaan setiap aplnya, ambil perhatian bahawa EQ mendalam terikat pada model pemacu lama dan merupakan ciri paling sukar untuk menghasilkan semula dengan bersih di bawah peraturan semasa Apple. Tetapkan jangkaan dengan sewajarnya, dan anda tidak akan terkejut.</p>
+
+<p>Bersedia untuk mendapatkan semula volum setiap apl tanpa pening kepala pemandu? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> — satu kali €14.99, kotak pasir, tiada langganan, tiada pemandu.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny Telah Hilang — Apl Jilid Per-Apl Mac Moden untuk Menggantikannya",
+    description: "SoundBunny oleh Prosoft dihentikan. Berikut ialah pengadun volum per apl macOS semasa yang diselenggara secara aktif untuk menggantikannya — serta cara memindahkan persediaan audio per apl anda tanpa pemacu kernel.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika SoundBunny berhenti berfungsi atau tidak lagi dijual, penggantian moden adalah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun volum per apl menu-bar dibina untuk macOS semasa. Ia memberi anda tugas teras yang sama — volum bebas, senyap dan rangsangan setiap aplikasi — sebagai €14.99 pembelian Mac App Store sekali, tanpa pemacu kernel, DMG, atau langganan untuk diurus.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny Telah Hilang — Apl Jilid Per-Apl Mac Moden untuk Menggantikannya" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Apa yang berlaku kepada SoundBunny?</h2>
+<p>SoundBunny ialah utiliti volum per apl Prosoft Engineering untuk macOS. Ia membolehkan anda menetapkan tahap kelantangan yang berbeza untuk setiap apl yang sedang berjalan terus dari bar menu — Muzik senyap, panggilan dengan kuat, penyemak imbas di suatu tempat di antaranya. Selama bertahun-tahun ia adalah salah satu daripada beberapa alat yang mengisi jurang yang tidak pernah ditutup oleh Apple.</p>
+<p>Masalahnya ialah SoundBunny ialah perisian warisan. Ia tidak mengikuti perubahan mendalam yang Apple lakukan kepada audio dan keselamatan macOS — Apple Silicon, masa jalan yang mengeras, peraturan sambungan sistem yang diperketatkan dan pengalihan keluar cangkuk audio yang lebih lama. Apabila utiliti seperti ini berhenti menerima kemas kini, ia akhirnya rosak: ia gagal dilancarkan, kehilangan kawalan strim aplikasi selepas kemas kini OS, atau tidak boleh dipasang dengan bersih pada Mac moden. Jika itu di mana anda berada, anda tidak melakukan apa-apa yang salah. Apl di belakang, bukan anda.</p>
+
+<h2>Mengapa macOS masih memerlukan pengadun pihak ketiga sama sekali</h2>
+<p>Inilah bahagian yang jujur: ini adalah jurang yang tulen dalam macOS, bukan pepijat yang boleh anda betulkan dalam Tetapan. Windows telah menghantar Pengadun Volume setiap apl selama lebih sedekad. macOS tidak pernah memilikinya. Gelangsar kelantangan sistem dan tetapan Bunyi mengawal anda <em>peranti keluaran</em> secara keseluruhan — setiap apl menggunakan tahap induk yang sama. Tiada cara terbina dalam untuk mengatakan "kekalkan Safari pada 40% tetapi Zoom pada 100%."</p>
+<p>Itulah sebabnya alat seperti SoundBunny wujud, dan sebab penggantian masih diperlukan hari ini. Keperluan itu tidak hilang apabila apl itu berlaku — Apple masih belum menanganinya.</p>
+
+<h2>Pengganti moden: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pengadun volum setiap apl yang terdapat dalam bar menu anda dan melakukan perkara yang pengguna harapkan SoundBunny, dibina berdasarkan macOS hari ini dan bukannya semalam. Pertindihan ciri merangkumi perkara penting:</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — satu peluncur bagi setiap aplikasi yang sedang berjalan, betul-betul model mental SoundBunny.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu apl bising tanpa menyentuh semua yang lain.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak apl senyap <em>di atas</em> 100% apabila video atau panggilan dirakam terlalu rendah. SoundBunny tidak dapat menguatkan maks sistem yang lalu pada macOS moden dengan pasti; boost ialah peningkatan sebenar di sini.</li>
+<li><strong>Profil volum</strong> — simpan satu set tahap setiap apl (campuran "kerja", campuran "permainan") dan tukar antara mereka dan bukannya menyenggol peluncur satu demi satu.</li>
+<li><strong>Auto-ducking</strong> — merendahkan volum apl latar belakang secara automatik apabila sumber audio lain (seperti mikrofon anda dalam panggilan) menjadi aktif.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan output lain daripada menu yang sama.</li>
+</ul>
+
+<h2>Apakah rupa sebenarnya berhijrah</h2>
+<p>Tiada langkah import — tahap volum setiap apl bukanlah fail yang anda bawa — tetapi suisnya pantas:</p>
+<ul>
+<li><strong>Keluarkan SoundBunny dengan betul.</strong> Keluar, kemudian padamkan apl itu. Jika ia memasang mana-mana item pembantu atau log masuk, alih keluar itu juga supaya dua utiliti tidak berebut strim audio yang sama.</li>
+<li><strong>Pasang SoundDial daripada Mac App Store.</strong> Ia dikotak pasir dan diedarkan melalui kedai, jadi tiada DMG untuk dipasang dan tiada amaran "pembangun tidak dikenali". Satu pembelian, terikat dengan ID Apple anda.</li>
+<li><strong>Berikan akses audio pada pelancaran pertama.</strong> macOS akan meminta kebenaran untuk SoundDial melihat audio apl. Ini adalah laluan moden yang disetujui oleh Apple — tiada sambungan kernel, tiada but semula, tiada keselamatan sistem yang merendahkan. Berikannya dan apl anda yang sedang berjalan muncul sebagai peluncur.</li>
+<li><strong>Bina semula campuran anda.</strong> Tetapkan apl biasa anda, kemudian simpan susunan itu sebagai profil supaya anda tidak perlu melakukannya semula.</li>
+</ul>
+
+<h2>Perbezaan praktikal dari SoundBunny</h2>
+<p>Perbezaan yang paling penting ialah itu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adalah perisian semasa. Ia berjalan secara asli pada Apple Silicon, menggunakan API audio yang disokong Apple dan merupakan aplikasi Mac App Store — yang bermaksud kemas kini tiba melalui kedai dan ia dibina untuk bertahan dalam peningkatan OS dan bukannya melanggarnya. Menjadi kotak pasir juga bermakna ia tidak boleh sampai ke luar lorongnya, yang meyakinkan untuk sesuatu yang terletak di antara apl anda dan pembesar suara anda.</p>
+<p>Beberapa kaveat jujur jadi jangkaan adalah tepat. Oleh kerana SoundDial berfungsi dalam rangka kerja audio Apple, kawalan adalah yang terbaik untuk apl standard yang menghalakan melalui output sistem biasa. Sesetengah perisian memainkan audio melalui laluannya sendiri atau peranti eksklusif, dan tiada pengadun bar menu — termasuk SoundBunny — boleh mengawalnya sepenuhnya. Dan volum setiap apl sememangnya merupakan lapisan perisian di atas macOS; ia bukan pengadun perkakasan. Dalam had sebenar tersebut, ia melakukan kerja yang SoundBunny biasa lakukan.</p>
+
+<blockquote>Jika anda bertukar kepada Mac daripada Windows menjangkakan Pengadun Volume setiap apl, ini ialah alat yang mengisi jurang itu — dan kini ia adalah alat yang sebenarnya sedang diselenggara.</blockquote>
+
+<p>SoundBunny mempunyai larian yang baik, tetapi ia adalah warisan. Jika anda memerlukan volum setiap apl, redamkan dan rangsang pada Mac moden, <a href="https://apps.apple.com/app/id6772792641">dapatkan SoundDial pada Mac App Store</a> — €14.99 sekali, tiada langganan, tiada pemandu.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Alternatif Boom 2 untuk Mac: Volum Per-Apl Tanpa Jualan Boom 3D",
+    description: "Boom 2 adalah warisan dan terus mendorong anda ke Boom 3D. Jika anda hanya mahukan volum setiap apl dan rangsangan mudah pada macOS moden, berikut ialah alternatif tertumpu dan cara ia berfungsi.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Jika anda menyukai Boom 2 untuk rangsangan seluruh sistem tetapi mahu mudah <strong>setiap apl</strong> volum pada Mac semasa, jawapan yang jujur ialah Boom 2 adalah warisan dan bukan lagi alat yang betul. Alternatif yang difokuskan ialah <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, pengadun bar menu yang memberikan setiap apl penggelangsar volum, redam dan rangsangannya sendiri, dengan harga €14.99 sekali, tanpa menolak ke himpunan yang lebih besar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Alternatif untuk Mac: Volum Per-Apl Tanpa Boom 3D Upsell" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa Boom 2 tidak lagi sesuai</h2>
+<p>Boom 2 ialah apl yang disukai ramai atas sebab tertentu: ia meningkatkan volum keseluruhan Mac anda melebihi maksimum sistem dan menambahkan penyamaan. Ia melakukannya di seluruh sistem, bukan setiap apl. Itu baik pada tahun 2015. Pada tahun 2026 ia mempunyai dua masalah.</p>
+<p>Pertama, ia adalah warisan. Global Delight jelas telah memindahkan tenaganya kepada Boom 3D, dan jika anda membuka halaman produk Boom 2, anda akan mendapati diri anda terdorong ke arah aplikasi yang lebih baharu dan lebih mahal dengan serta-merta. Boom 2 masih wujud, tetapi ia adalah batu loncatan yang digunakan vendor untuk menjual Boom 3D, bukan produk yang mendapat cinta aktif.</p>
+<p>Kedua, dan lebih penting: Boom 2 bukanlah pengadun volum setiap apl. Ia menaikkan dan membentuk satu keluaran induk. Jika kesakitan sebenar anda ialah ping Slack lebih kuat daripada muzik anda, atau tab penyemak imbas menenggelamkan panggilan, Boom 2 tidak menyelesaikannya. Ia menjadikan segala-galanya lebih kuat bersama-sama. Itu kerja yang berbeza.</p>
+
+<h2>Maksud " volum setiap apl " sebenarnya pada macOS</h2>
+<p>Berikut ialah konteks jujur yang dilangkau oleh kebanyakan pusingan alternatif: macOS tidak mempunyai pengadun volum per apl terbina dalam sama sekali. Windows telah mempunyai satu selama bertahun-tahun — klik kanan pembesar suara, buka Pengadun Kelantangan, dan tetapkan Chrome kepada 40% dan Spotify kepada 80%. Apple tidak pernah menghantarnya. Kekunci kelantangan macOS hanya menggerakkan satu tahap induk.</p>
+<p>Oleh itu, apabila anda mencari "alternatif Boom 2," perkara yang sering anda cari bukanlah Mac yang lebih kuat — ia adalah kawalan per apl yang pengguna Windows ambil mudah. Itulah jurang yang tulen dalam sistem pengendalian, bukan sesuatu yang Boom 2 atau mana-mana apl terlupa untuk dibina.</p>
+
+<h2>Di mana SoundDial sesuai</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dibina untuk jurang itu secara khusus. Ia tinggal dalam bar menu dan menyenaraikan apl yang sedang memainkan audio, masing-masing dengan peluncurnya sendiri. Anda menetapkan tahap setiap apl dan bukannya mendorong satu kawalan induk dan mengharapkan yang terbaik.</p>
+<p>Apa yang dilakukannya:</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — senyapkan penyemak imbas, simpan muzik di tempat yang anda inginkan, tiada kompromi global.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu aplikasi yang bising tanpa menyentuh apa-apa lagi.</li>
+<li><strong>Rangsangan setiap apl</strong> — tolak apl individu melepasi siling biasa apabila video atau panggilan dirakam terlalu senyap. Ini adalah bahagian yang biasanya dilepaskan oleh peminat Boom 2, kecuali di sini ia disasarkan pada satu apl dan bukannya keseluruhan sistem.</li>
+<li><strong>Profil volum</strong> — simpan reka letak seperti "fokus," "mesyuarat" atau "permainan" dan tukar dalam satu klik.</li>
+<li><strong>Auto-ducking</strong> — turunkan apl lain secara automatik apabila anda mula bercakap, berguna untuk panggilan dan rakaman.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan output lain daripada menu yang sama.</li>
+</ul>
+
+<h2>Bagaimana untuk menetapkannya</h2>
+<p>Aliran kerja adalah pendek:</p>
+<ul>
+<li>Pasang <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daripada Mac App Store — tiada DMG, tiada pemandu, tiada but semula.</li>
+<li>Klik ikon bar menu untuk melihat setiap apl yang sedang mengeluarkan bunyi.</li>
+<li>Seret peluncur setiap apl ke tahap yang anda mahu; bisu atau tingkatkan secara individu mengikut keperluan.</li>
+<li>Simpan susunan sebagai profil jika anda mahu menggunakannya semula kemudian.</li>
+</ul>
+<p>Disebabkan ia dihantar melalui App Store, ia dikotak pasir dan dipasang dengan bersih. Itu wajar dipanggil, kerana beberapa alat audio yang lebih lama bergantung pada sambungan kernel atau pemacu audio maya — jenis perkara yang macOS moden semakin menentang. SoundDial tidak meminta anda memasang pemacu atau menurunkan sebarang tetapan keselamatan.</p>
+
+<h2>Batasan yang jujur</h2>
+<p>Rangsangan setiap apl adalah nyata tetapi bukan sihir. Jika audio sumber apl benar-benar senyap atau dirakam dengan teruk, meningkatkan bunyi itu akan menaikkan tingkat hingar bersama-sama isyarat, jadi bahan yang sangat senyap boleh berbunyi mendesis apabila ditolak dengan kuat. Itu adalah had fizik penguatan, bukan kecacatan dalam mana-mana apl tertentu — rangsangan sistem Boom 2 mempunyai pertukaran yang sama. Anggap rangsangan sebagai ruang utama untuk kes praktikal, bukan penyelamat untuk audio yang rosak.</p>
+
+<h2>Boom 2 lwn. pengadun fokus</h2>
+<p>Jika perkara yang anda gemari tentang Boom 2 ialah kenyaringan seluruh sistem serta EQ, dan anda tidak mengambil berat tentang kawalan setiap apl, Boom 3D ialah pengganti yang dimaksudkan oleh vendor — itu adalah jalan yang adil dan kami tidak akan berpura-pura sebaliknya. Tetapi jika anda mencuba Boom 2 dan menyedari perkara yang anda mahukan ialah menurunkan atau menaikkan satu apl tanpa mengalihkan semuanya, himpunan EQ-and-boost ialah bentuk alat yang salah.</p>
+<blockquote>Boom 2 menjadikan seluruh Mac lebih kuat. Pengadun per apl membolehkan anda memutuskan apl yang lebih kuat. Mereka menyelesaikan masalah yang berbeza.</blockquote>
+<p>Perbezaan harga juga wajar diberi nama dengan jelas. SoundDial ialah €14.99 sekali. Tiada langganan, tiada percubaan yang berlaku kepada pelan yang lebih besar dan tiada laluan dalam apl yang membawa anda ke peringkat yang lebih mahal. Anda membeli pengadun, anda memiliki pengadun.</p>
+
+<p>Jika volum setiap apl — bukan EQ seluruh sistem — ialah perkara yang anda cari, <a href="https://apps.apple.com/app/id6772792641">cuba SoundDial pada Mac App Store</a> dan tetapkan tahap anda seperti yang sepatutnya macOS membenarkan anda selama ini.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune lwn SoundDial: Sumber Terbuka Percuma lwn Volum Per Apl Berbayar pada Mac",
+    description: "FineTune ialah apl volum per apl sumber terbuka percuma untuk Mac; SoundDial ialah apl App Store berbayar, kotak pasir dengan rangsangan, profil dan sokongan. Berikut ialah perbandingan jujur ​​untuk membantu anda memilih.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>FineTune ialah pengadun volum per apl sumber terbuka percuma untuk macOS, jadi jika harga adalah satu-satunya kebimbangan anda, itu adalah pilihan yang tulen. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah apl Mac App Store berbayar (€14.99, sekali) yang menambahkan peningkatan volum setiap apl, profil yang disimpan, auto-itik dan sokongan vendor. Pilihan sebenar adalah percuma-dan-DIY berbanding kotak pasir-dan-disokong.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune lwn SoundDial: Sumber Terbuka Percuma lwn Volum Per Apl Berbayar pada Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Masalahnya kedua-dua aplikasi selesaikan</h2>
+
+<p>macOS masih tiada pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun — klik kanan ikon pembesar suara, buka Pengadun Kelantangan dan setiap apl mendapat peluncurnya sendiri. Pada Mac, anda mendapat tepat satu peluncur volum sistem untuk segala-galanya: muzik anda, panggilan video, YouTube, bunyi pemberitahuan dan permainan semuanya berkongsinya. Jika panggilan anda terlalu senyap dan Spotify terlalu kuat, satu-satunya "pembetulan" anda ialah meredamkan Spotify sepenuhnya.</p>
+
+<p>Kedua-dua FineTune dan SoundDial wujud untuk mengisi jurang itu. Mereka memberikan setiap apl yang sedang berjalan kawalan kelantangannya sendiri supaya anda boleh, katakan, mengekalkan mesyuarat pada 100% sambil menurunkan muzik latar belakang kepada 20% — tanpa menyentuh peluncur induk.</p>
+
+<h2>Apa yang FineTune betul</h2>
+
+<p>FineTune ialah apl sumber terbuka yang lebih baharu, percuma dan berjiwa SoundSource. Mari kita bersikap adil tentang kekuatannya, kerana ia nyata:</p>
+
+<ul>
+  <li><strong>Tiada kos.</strong> Tiada lesen, tiada percubaan, tiada naik taraf.</li>
+  <li><strong>Sumbernya terbuka.</strong> Anda boleh membaca dengan tepat apa yang dilakukannya, mengauditnya untuk privasi, dan - jika anda tahu Swift - mengubah suai atau memotongnya.</li>
+  <li><strong>Ia didorong oleh komuniti.</strong> Pepijat boleh diperbaiki oleh sesiapa sahaja, dan kod itu melebihi mana-mana syarikat tunggal.</li>
+  <li><strong>Ia meliputi keperluan teras.</strong> Kelantangan setiap apl bebas, iaitu ciri yang sebenarnya dicari oleh 90% orang.</li>
+</ul>
+
+<p>Jika satu-satunya keperluan anda ialah "biar saya menolak satu apl tanpa menolak segala-galanya," dan anda selesa dengan perisian yang disertakan tanpa meja sokongan rasmi, FineTune ialah jawapan yang sah. Mengesyorkan di sini bukan satu konsesi — ia jujur.</p>
+
+<h2>Pertukaran jujur laluan DIY</h2>
+
+<p>Percuma dan sumber terbuka membawa kos sebenar yang tidak muncul pada tanda harga. Ini bukan ketukan pada FineTune secara khusus — ia adalah sifat pendekatan:</p>
+
+<ul>
+  <li><strong>Pemasangan adalah manual.</strong> Alat audio sumber terbuka biasanya diedarkan sebagai binaan yang dimuat turun atau formula Homebrew, bukan melalui App Store. Anda memasang di luar semakan Apple, dan anda bersedia untuk memastikannya dikemas kini.</li>
+  <li><strong>Pintasan audio setiap apl bersifat rapuh.</strong> Menghalakan audio apl lain ialah kerja sistem dalam. Apabila Apple menghantar kemas kini macOS yang mengubah tindanan audio, alatan ini boleh pecah sehingga seseorang menampalnya. Dengan projek sukarela, "seseorang" mungkin sibuk pada bulan itu.</li>
+  <li><strong>Sokongan adalah usaha terbaik.</strong> Jika sesuatu rosak, jalan keluar anda ialah isu GitHub dan menunggu. Tiada jawapan yang dijamin dan tiada siapa yang bertanggungjawab untuk membetulkannya.</li>
+  <li><strong>Skop ciri ialah apa sahaja yang dihantar oleh penyelenggara.</strong> Kawalan volum teras mungkin dilindungi; tambahan bergantung sepenuhnya pada masa penyumbang.</li>
+</ul>
+
+<blockquote>Pembingkaian yang jujur: FineTune memperdagangkan wang untuk tanggungjawab penyelenggaraan. Anda menjimatkan €14.99 dan mengambil risiko bahawa kemas kini OS menyebabkannya rosak sehingga komuniti mengejarnya.</blockquote>
+
+<h2>Di mana SoundDial berbeza</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengambil perdagangan yang bertentangan. Anda membayar sekali, dan sebagai balasannya anda mendapat produk App Store dengan vendor di belakangnya dan set ciri yang lebih luas dibina di atas volum setiap apl:</p>
+
+<ul>
+  <li><strong>Kelantangan setiap apl dan redam</strong> — garis dasar dikongsi kedua-dua apl disampaikan.</li>
+  <li><strong>Kelantangan setiap apl TINGKATKAN</strong> — tolak apl yang terlalu senyap melepasi 100%. Berguna untuk apl dengan output audio yang lemah di mana menolak yang lain masih tidak mencukupi.</li>
+  <li><strong>Profil volum</strong> — simpan keseluruhan campuran ("Mesyuarat," "Fokus," "Perjudian") dan tukar dalam satu klik dan bukannya menetapkan semula peluncur setiap kali.</li>
+  <li><strong>Auto-ducking</strong> — menurunkan apl latar belakang secara automatik apabila anda bercakap atau apabila apl yang dipilih menjadi aktif, jadi panggilan terputus tanpa mengutak-atik manual.</li>
+  <li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan output lain daripada bar menu.</li>
+</ul>
+
+<p>Sama pentingnya <em>bagaimana</em> ia dihantar. SoundDial dikotak pasir dan diedarkan melalui Mac App Store — tiada DMG berasingan, tiada pemacu kernel, tiada pemasangan pemacu audio. Kemas kini datang melalui App Store seperti mana-mana apl lain, dan terdapat pembangun sebenar untuk menghantar e-mel apabila ada masalah. Itulah nilai konkrit €14.99: bukan hanya lebih banyak ciri, tetapi seseorang yang bertanggungjawab untuk memastikannya berfungsi merentas keluaran macOS.</p>
+
+<h2>Kaveat jujur yang terpakai untuk kedua-duanya</h2>
+
+<p>Tiada apl pihak ketiga boleh menjadikan sistem audio macOS menjadi Pengadun Volume Windows, kerana Apple tidak mendedahkan API awam yang bersih untuk audio setiap apl. Setiap alat dalam kategori ini — percuma atau berbayar, terbuka atau tertutup — berfungsi mengatasi had tersebut menggunakan teknik audio peringkat sistem. Ini bermakna kedua-dua FineTune dan SoundDial boleh dipengaruhi oleh perubahan audio utama macOS. Perbezaannya ialah siapa yang bertanggungjawab untuk menyelesaikannya selepas itu: komuniti sukarelawan atau vendor berbayar yang produknya bergantung padanya.</p>
+
+<h2>Mana yang patut anda pilih?</h2>
+
+<ul>
+  <li><strong>Pilih FineTune jika</strong> anda mahukan kos sifar, nilai ketelusan sumber terbuka, hanya memerlukan volum asas setiap apl dan selesa memasang di luar App Store dan menyokong diri apabila keadaan rosak.</li>
+  <li><strong>Pilih SoundDial jika</strong> anda mahukan pemasangan App Store satu klik, tambahan seperti rangsangan, profil dan auto-ducking, dan jaminan kemas kini dan sokongan daripada vendor dengan kulit dalam permainan.</li>
+</ul>
+
+<p>Kedua-duanya adalah sah. Ia benar-benar bergantung kepada sama ada anda lebih suka membelanjakan wang atau membelanjakan perhatian. Jika anda lebih suka membeli apl kotak pasir yang disokong dan tidak pernah memikirkannya lagi, <a href="https://apps.apple.com/app/id6772792641">dapatkan SoundDial pada Mac App Store</a> untuk sekali €14.99 — tiada langganan, tiada pemandu, tiada DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Adakah Pengadun Volume Mac Percuma Cukup?",
+    description: "Pertemuan yang adil antara apl Background Music percuma dan SoundDial berbayar. Di mana pendekatan pemacu maya percuma berfungsi, di mana ia rosak, dan apabila pengadun asli €14.99 berbaloi.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Background Music adalah percuma dan benar-benar mahir dalam asasnya: ia memberikan setiap apl penggelangsar volumnya sendiri dan boleh menjeda muzik secara automatik apabila apl lain dimainkan. Jika itu sahaja yang anda perlukan, gunakannya. Tetapi ia bergantung pada pemacu audio maya yang boleh rosak selepas kemas kini macOS dan kekurangan rangsangan setiap apl, profil dan penukaran output. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> memperdagangkan wang untuk alternatif bebas pemandu, kotak pasir, disokong.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music lwn SoundDial: Adakah Pengadun Volume Mac Percuma Cukup?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Pertama, kebenaran jujur tentang macOS</h2>
+<p>macOS tidak mempunyai pengadun volum per apl terbina dalam. Windows telah mempunyai satu selama lebih sedekad dalam Pengadun Volumenya, tetapi pada Mac peluncur sistem menggerakkan semuanya sekaligus. Tiada API yang disokong Apple yang membenarkan apl pihak ketiga memintas dengan bersih dan mengimbangi semula aliran aplikasi individu. Jurang tunggal itulah sebab alat seperti Background Music dan SoundDial wujud sama sekali, dan ia adalah punca utama kebanyakan pertukaran di bawah.</p>
+
+<h2>Apa yang Background Music lakukan dengan baik</h2>
+<p>Background Music ialah aplikasi bar menu sumber terbuka yang telah wujud selama bertahun-tahun dan mempunyai pengikut setia atas sebab yang kukuh. Ia memberi anda:</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> - ciri teras. Turunkan Spotify sambil mengekalkan panggilan dengan kuat.</li>
+<li><strong>Auto-jeda</strong> — ia boleh menjeda pemain muzik anda apabila audio bermula di tempat lain, yang merupakan sentuhan yang bagus untuk mesyuarat.</li>
+<li><strong>Kelantangan peranti yang mengikuti anda</strong> dan antara muka yang ringkas dan tidak masuk akal.</li>
+<li><strong>Kos sifar</strong> — ia adalah percuma dan kodnya adalah awam.</li>
+</ul>
+<p>Bagi ramai orang itu sudah memadai. Jika keseluruhan senarai hajat anda ialah "jadikan satu aplikasi yang bising lebih senyap tanpa menyentuh yang lain," Background Music meliputinya dan anda tidak sepatutnya membayar untuk sesuatu yang anda tidak perlukan. Bersikap adil di sini penting: ini adalah alat yang sah berguna.</p>
+
+<h2>Di mana pendekatan bebas menunjukkan jahitannya</h2>
+<p>Tangkapannya ialah <em>bagaimana</em> Background Music mencapai volum setiap apl. Oleh kerana macOS tidak memberikan laluan rasmi, ia memasang pemacu audio maya (versi diubah suai pendekatan Soundflower lama) yang mengarahkan audio sistem anda melalui dirinya sendiri. Seni bina itu bijak, tetapi ia membawa kos sebenar:</p>
+<ul>
+<li><strong>Ia rosak selepas kemas kini macOS.</strong> Pemacu audio maya berada jauh di dalam sistem, dan keluaran macOS utama telah melumpuhkan atau menggugat kestabilan sejarahnya. Pengguna secara rutin melaporkan senyap, herotan atau keperluan untuk memasang semula selepas menaik taraf. Apabila ia pecah, anda sering bersendirian.</li>
+<li><strong>Pemasangan lebih berat.</strong> Anda sedang menambah peranti audio bersebelahan kernel pada Mac anda, bukan sekadar apl. Menyahpasang dengan bersih boleh dilakukan secara fiddly.</li>
+<li><strong>Ia menjadi peranti output lalai anda.</strong> Oleh kerana semuanya dialihkan melalui peranti maya, sesetengah apl pro-audio, persidangan atau permainan boleh berkelakuan aneh dan menukar output sebenar anda merupakan langkah tambahan.</li>
+<li><strong>Pembangunan adalah mengikut kadar masyarakat.</strong> Tiada meja sokongan. Pembaikan tiba apabila sukarelawan mempunyai masa, yang untuk alat audio yang tiba-tiba boleh senyap adalah risiko yang bermakna.</li>
+</ul>
+<p>Tiada satu pun daripada ini menjadikan Background Music buruk. Ia menjadikannya alat percuma dengan pertukaran alat percuma.</p>
+
+<h2>Perkara yang sebenarnya anda bayar dengan SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah apl Mac App Store, yang membentuk apa itu. Oleh kerana apl App Store dikotak pasir dan tidak boleh menghantar jenis pemacu maya peringkat rendah yang digunakan Background Music, SoundDial dibina untuk dijalankan tanpa memasang peranti audio atau DMG yang berasingan. Maksudnya:</p>
+<ul>
+<li><strong>Tiada ciri pemandu maya.</strong> Tiada peranti keluaran tambahan yang merampas rantai audio anda, dan tiada apa yang perlu dipasang semula apabila sistem berubah.</li>
+<li><strong>Ia bertahan dengan kemas kini macOS dengan lebih anggun.</strong> Pengedaran dan kotak pasir App Store bermakna ia dibina berdasarkan laluan yang disokong dan dikemas kini melalui kedai, jadi peningkatan OS tidak berkemungkinan menyebabkan anda senyap.</li>
+<li><strong>Peningkatan volum setiap apl.</strong> Ini adalah perbezaan ciri sebenar: SoundDial boleh menolak aplikasi <em>di atas</em> 100% untuk sumber senyap — podcast yang dirakam terlalu rendah, panggilan video tersekat. Background Music hanya melemahkan.</li>
+<li><strong>Profil volum.</strong> Simpan satu set tahap setiap apl ("Mesyuarat," "Muzik," "Perjudian") dan tukar dalam satu klik dan bukannya menyeret peluncur setiap kali.</li>
+<li><strong>Auto-ducking.</strong> Kurangkan volum apl lain secara automatik apabila sumber yang dipilih dimainkan — pengambilan yang lebih boleh dikonfigurasikan pada idea jeda automatik.</li>
+<li><strong>Penukaran keluaran pantas</strong> dipanggang ke dalam bar menu, serta redaman setiap apl.</li>
+<li><strong>Sokongan sebenar.</strong> Ia adalah produk berbayar dengan seseorang yang bertanggungjawab apabila berlaku masalah.</li>
+</ul>
+
+<h2>Keputusan yang jujur</h2>
+<blockquote>Jika anda mahukan percuma dan hanya memerlukan volum asas setiap apl, dan anda selesa menyelesaikan masalah selepas kemas kini macOS, Background Music ialah pilihan yang kukuh. Jika anda mahukan rangsangan, profil, itik, penukaran output, tiada kerapuhan pemacu maya dan seseorang untuk menghantar e-mel apabila ia rosak, SoundDial bernilai €14.99.</blockquote>
+<p>Beberapa pemecah seri konkrit. Jika anda kerap berurusan dengan sumber yang terlalu senyap, boost sahaja mewajarkan harga — Background Music sememangnya tidak boleh membuat audio lebih kuat daripada sumbernya. Jika anda takut dengan perjudian tahunan "akankah audio saya bertahan dalam kemas kini", aplikasi kedai kotak pasir menghilangkan kebimbangan itu. Jika anda suka set-dan-lupakan adegan, profil menjimatkan geseran sebenar. Dan ia adalah satu kali €14.99, bukan langganan, jadi perbandingan adalah pembelian tunggal berbanding masa yang anda habiskan untuk mengekalkan pemandu percuma.</p>
+<p>Sebaliknya, jika anda seorang yang suka bermain-main yang menyukai sumber terbuka, ingin membaca kod dan kebanyakannya hanya menolak satu apl — menjimatkan wang anda. Kedua-dua alat menyelesaikan masalah teras yang sama; mereka berbeza dalam keteguhan, kedalaman ciri dan siapa yang menangkap anda apabila macOS berubah di bawahnya.</p>
+
+<p>Mahukan volum setiap apl tanpa perjudian pemacu maya? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> — satu kali €14.99, kotak pasir, tanpa pemandu, dengan rangsangan, profil dan auto-ducking terbina dalam.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "Adakah SoundSource Bernilai $39? Alternatif Satu Kali Mac yang Lebih Murah",
+    description: "SoundSource ialah alat audio Mac yang berkuasa pada harga ~$39, tetapi ia berlebihan jika anda hanya memerlukan volum setiap apl dan peningkatan. Berikut ialah perbandingan yang jujur ​​dan alternatif sekali sahaja €14.99.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>SoundSource berbaloi jika anda memerlukan kit alat lengkapnya: volum setiap apl, EQ 10 jalur bagi setiap apl, penghalaan audio antara peranti dan kesan seluruh sistem. Tetapi pada kira-kira $39 ia adalah berlebihan jika anda mahukan volum setiap apl, redam setiap apl dan peningkatan volum. Untuk kerja yang lebih sempit itu, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> berharga €14.99 sekali.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Adakah SoundSource Bernilai $39? Alternatif Satu Kali Mac yang Lebih Murah" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Apa yang SoundSource sebenarnya lakukan</h2>
+<p>Rogue Amoeba's SoundSource ialah perisian yang sangat baik, dan adalah penting untuk bersikap adil tentang perkara itu. Ia bukan sekadar pengadun volum. Ia memberi anda:</p>
+<ul>
+<li><strong>Kawalan kelantangan setiap apl</strong> daripada bar menu, ciri yang digunakan oleh kebanyakan orang.</li>
+<li><strong>Penyamaan 10 jalur penuh</strong> anda boleh memohon setiap apl atau seluruh sistem, serta kesan audio lain (melalui pemalam Unit Audio).</li>
+<li><strong>Penghalaan output/input</strong>, termasuk menghantar satu apl ke peranti output yang berbeza daripada sistem yang lain.</li>
+<li><strong>Penukaran peranti pantas</strong> dan pratetap EQ khusus fon kepala.</li>
+</ul>
+<p>Jika anda seorang podcaster, strim atau nerd audio yang ingin menala EQ pada fon kepala anda, ubah hala satu bunyi apl ke pembesar suara yang berasingan atau tindanan kesan Unit Audio, SoundSource memperoleh harganya. Tiada apa-apa di sini yang mengetuknya.</p>
+
+<h2>Soalan harga</h2>
+<p>SoundSource ialah lesen sekali berbayar sekitar $39 (harga berbeza mengikut versi dan promosi). Ia bukan langganan berulang dalam erti kata Netflix, tetapi ia mengikut corak apl berbayar klasik: anda membeli versi utama, dan naik taraf utama pada masa hadapan lazimnya ialah naik taraf berbayar dengan diskaun dan bukannya percuma selama-lamanya. Selama beberapa tahun, itu lebih daripada satu pembelian. Bagi kebanyakan pengguna Mac, soalan jujurnya ialah: adakah saya membayar $39 untuk suite penghalaan-dan-EQ sedangkan yang saya benar-benar sentuh ialah peluncur volum setiap apl?</p>
+
+<blockquote>Jika anda telah membuka SoundSource dan hanya pernah menggunakan peluncur kelantangan dan butang senyap, anda membayar untuk suite untuk menggunakan satu laci laci itu.</blockquote>
+
+<h2>Mengapa masalah itu wujud sama sekali</h2>
+<p>Inilah punca sebenar: macOS tidak mempunyai pengadun volum setiap apl terbina dalam. Windows telah mempunyai satu selama bertahun-tahun, tetapi pada Mac, volum sistem adalah semua-atau-tiada. Tiada cara yang disediakan Apple untuk memastikan Spotify senyap semasa panggilan video kekal kuat, atau meredamkan satu apl tanpa menyentuh semua yang lain. Jurang itulah sebabnya alat seperti SoundSource dan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> wujud. Ia adalah had OS sebenar, bukan sesuatu yang sama ada aplikasi mencipta masalah untuk diselesaikan.</p>
+
+<h2>Di mana pilihan yang lebih ringan dan lebih murah sesuai</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pengadun volum per apl menu-bar yang dibina untuk kes biasa dan bukannya kes pro-audio. Ia meliputi:</p>
+<ul>
+<li><strong>Kelantangan bebas bagi setiap apl</strong> — lepaskan muzik anda semasa mesyuarat kekal pada tahap penuh.</li>
+<li><strong>Redam per apl</strong> — senyapkan satu apl tanpa meredamkan Mac.</li>
+<li><strong>Peningkatan volum setiap apl</strong> — tolak apl senyap melebihi 100% biasa apabila sumbernya terlalu lembut.</li>
+<li><strong>Profil volum</strong> — simpan satu set tahap setiap apl (cth. susun atur "fokus" atau "panggilan") dan tukar dalam satu klik.</li>
+<li><strong>Auto-ducking</strong> — turunkan apl lain secara automatik apabila anda mula bercakap atau apabila apl yang dipilih dimainkan.</li>
+<li><strong>Penukaran keluaran pantas</strong> — lompat antara pembesar suara, fon kepala dan peranti lain daripada bar menu.</li>
+</ul>
+<p>ia adalah <strong>€14.99 sekali</strong>, dijual melalui Mac App Store, jadi ia berkotak pasir dan tiada DMG yang berasingan, tiada sambungan kernel dan tiada pemacu audio untuk dipasang. Anda memuat turunnya seperti mana-mana aplikasi App Store dan ia dikemas kini melalui kedai.</p>
+
+<h2>Perbandingan yang jujur</h2>
+<p>Berhati-hati dengan mata yang jelas tentang pertukaran itu. SoundSource melakukan lebih daripada SoundDial, dan jika mana-mana perkara berikut kepada anda, SoundSource ialah pembelian yang lebih baik:</p>
+<ul>
+<li>Anda mahukan per apl atau sistem sebenar <strong>penyamaan</strong> dan kesan Unit Audio.</li>
+<li>Anda perlu <strong>halakan satu apl ke peranti output yang berbeza</strong> daripada segala-galanya.</li>
+<li>Anda bergantung pada <strong>pratetap EQ khusus fon kepala</strong> dan pemprosesan audio yang halus.</li>
+</ul>
+<p>SoundDial tidak melakukan penghalaan peranti EQ atau setiap apl. Ia sengaja lebih sempit. Apa yang ia berikan kepada anda sebagai balasan ialah harga yang lebih rendah, jejak yang lebih ringan dan antara muka bar menu yang difokuskan untuk perkara yang kebanyakan orang mahukan: mengekalkan setiap apl pada tahap yang anda pilih, dengan rangsangan dan profil di atas.</p>
+
+<h2>Jadi, adakah SoundSource berbaloi?</h2>
+<p>Ya, jika anda akan menggunakan EQ dan penghalaan. Ia adalah perisian yang matang dan disokong dengan baik daripada pembangun yang dihormati, dan harganya menggambarkan keupayaan sebenar. Tetapi "berbaloi" bergantung pada perkara yang akan anda sentuh. Jika anda membuka apl dan hanya melaraskan penggelangsar kelantangan, meredamkan apl atau berharap satu apl senyap lebih kuat, anda membayar wang suite premium untuk keperluan pengadun asas. Dalam kes itu, alat sekali sahaja €14.99 adalah lebih sesuai, dan anda sentiasa boleh beralih ke SoundSource kemudian jika keperluan anda berkembang menjadi EQ dan penghalaan.</p>
+
+<p>Jika volum setiap apl, rangsangan, redam, profil dan auto-itik adalah semua yang anda cari, <a href="https://apps.apple.com/app/id6772792641">dapatkan SoundDial pada Mac App Store</a> — €14.99 sekali, tiada langganan, tiada pemandu.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Terlalu Keras pada Mac? Matikan Satu Pelayar Tanpa Membisukan Semuanya",
+    description: "Chrome letupan lebih kuat daripada apl anda yang lain pada Mac? Ketahui pembetulan terbina dalam (senyap setiap tab, tetapan bunyi tapak) dan cara menetapkan volum setiap apl sebenar untuk Chrome supaya ia kekal lebih senyap daripada yang lain.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai volum setiap apl terbina dalam, jadi anda tidak boleh mengecilkan Chrome secara asli sambil membiarkan apl lain pada volum penuh. Pembaikan percuma terpantas anda ialah meredamkan tab bising, merendahkan kelantangan dalam setiap pemain video atau menyekat bunyi setiap tapak dalam tetapan Chrome. Untuk tahap volum Chrome sahaja yang sebenar dan berterusan, anda memerlukan pengadun setiap apl.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Terlalu Keras pada Mac? Matikan Satu Pelayar Tanpa Membisukan Semuanya" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa Chrome berbunyi lebih kuat daripada yang lain</h2>
+<p>Chrome tidak semestinya "lebih kuat" mengikut reka bentuk — Chrome mengarahkan audio daripada banyak sumber bebas: YouTube, iklan automain, panggilan video, tab muzik latar belakang dan apl web yang masing-masing menghantar kelantangan mereka sendiri. Sesetengah tapak dikuasai panas, iklan terkenal dengan lantang dan Chrome memainkan kesemuanya pada tahap output penuh sistem anda. Sementara itu, apl muzik atau panggilan anda mungkin lebih senyap, jadi Chrome mendominasi campuran.</p>
+<p>Pada Windows, anda hanya perlu membuka Pengadun Kelantangan dan seret peluncur Chrome ke bawah. macOS hanya tidak menyertakan ciri itu. Kekunci kelantangan sistem mengawal segala-galanya sekali gus, jadi mengurangkan Chrome turut mengurangkan muzik, pemberitahuan dan panggilan anda. Itulah had teras - dan ia adalah jurang OS, bukan sesuatu yang anda lakukan salah.</p>
+
+<h2>Pembaikan terbina dalam yang tiada kos</h2>
+<p>Sebelum memasang apa-apa, cuba ini. Mereka tidak akan memberi anda satu dail volum Chrome tunggal, tetapi mereka menyelesaikan kebanyakan masalah "satu tab kuat".</p>
+<ul>
+<li><strong>Redamkan tab yang bising.</strong> Klik kanan tab dan pilih "Redam tapak", atau klik ikon pembesar suara kecil yang muncul pada tab yang memainkan audio. Ini menyenyapkan tab itu sepenuhnya tanpa menyentuh Chrome yang lain.</li>
+<li><strong>Kurangkan kelantangan di dalam pemain.</strong> Helah yang paling boleh dipercayai: seret peluncur kelantangan ke bawah di dalam YouTube, Netflix atau apa sahaja yang sedang dimainkan. Pemain web mengingati tahap mereka sendiri setiap tapak, jadi YouTube yang lebih senyap kekal senyap pada masa akan datang.</li>
+<li><strong>Sekat bunyi setiap tapak.</strong> Pergi ke <em>chrome://settings/content/sound</em>. Anda boleh menyelak tapak antara "dibenarkan" dan "diredamkan," dan menambah domain tertentu pada senarai redam. Hebat untuk menyenyapkan tapak yang automain secara kekal.</li>
+<li><strong>Matikan iklan automain.</strong> Audio iklan selalunya menjadi punca sebenar. Penyekat kandungan atau meredamkan tab sehingga anda bersedia untuk menonton menghilangkan kebanyakan bunyi yang mengejutkan.</li>
+</ul>
+<blockquote>Ini benar-benar berguna dan percuma. Tetapi perhatikan perkara yang mereka tidak boleh lakukan: mereka membisukan atau mengurus tab individu. Tiada seorang pun daripada mereka membenarkan anda mengatakan "kekalkan semua Chrome pada 40% sementara muzik saya kekal pada 100%."</blockquote>
+
+<h2>Had yang jujur: tiada volum setiap apl dalam macOS</h2>
+<p>Jika matlamat sebenar anda ialah "Chrome harus sentiasa lebih senyap daripada apl saya yang lain", alatan terbina dalam tidak berfungsi. Peredaman setiap tab adalah semua-atau-tiada. Peluncur pemain ditetapkan semula apabila tapak tidak mengingatinya dan perlu dibuat semula secara berterusan. Dan volum sistem menggerakkan semuanya bersama-sama.</p>
+<p>Ini adalah had macOS sebenar, bukan pepijat yang boleh anda konfigurasikan. Apple tidak pernah menghantar pengadun volum gaya Windows. Satu-satunya cara untuk mendapatkan tahap volum bebas yang berterusan untuk Chrome secara khusus ialah apl pihak ketiga yang terletak di antara apl anda dan peranti output anda dan menggunakan keuntungan setiap apl.</p>
+
+<h2>Tetapkan volum setiap apl sebenar untuk Chrome</h2>
+<p>Pengadun menu-bar seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> memberikan macOS kawalan kelantangan setiap apl yang tiada. Ia menyenaraikan setiap apl yang sedang memainkan audio dan memberikan setiap satu penggelangsarnya sendiri — supaya anda boleh menarik Chrome ke tahap yang selesa dan membiarkan Spotify, panggilan anda dan sistem berbunyi tepat di tempatnya.</p>
+<p>Begini cara anda menjinakkan Chrome yang kuat dengannya:</p>
+<ul>
+<li>Buka pengadun bar menu dan cari Chrome dalam senarai apl aktif.</li>
+<li>Seret peluncur Chrome ke bawah, katakan, 40 hingga 50 peratus. Apl lain kekal tidak disentuh.</li>
+<li>Jika apl tertentu juga <em>senyap</em> sebaliknya — aplikasi panggilan yang berbisik — gunakan <a href="https://apps.apple.com/app/id6772792641">peningkatan volum setiap apl</a> untuk menolaknya melebihi 100 peratus, sambil mengekalkan Chrome rendah.</li>
+<li>Redamkan Chrome serta-merta dengan redaman setiap apl apabila anda memerlukan senyap tanpa menutup tab.</li>
+</ul>
+<p>Kerana tahap terikat pada aplikasi, ia melekat. Chrome kekal pada volum pilihan anda merentas tab, tapak dan mulakan semula — tiada penggelangsar pemain menyeret semula setiap kali anda membuka video baharu.</p>
+
+<h2>Melangkah lebih jauh: profil, itik dan penukaran output</h2>
+<p>Sebaik sahaja anda mempunyai kawalan setiap apl, beberapa tambahan menjadikannya berbaloi untuk disimpan. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> membolehkan anda menjimatkan kelantangan <strong>profil</strong> — contohnya profil "fokus" di mana Chrome senyap dan muzik kuat, dan profil "menonton" di mana Chrome mendominasi — dan bertukar antara mereka dalam satu klik. Auto-ducking boleh mencelupkan apl lain secara automatik apabila sumber yang dipilih dimulakan (mudah supaya panggilan tidak terkubur di bawah tab penyemak imbas yang kuat). Dan penukaran output pantas membolehkan anda melompat antara pembesar suara, fon kepala dan peranti lain tanpa menyelam ke dalam Tetapan Sistem.</p>
+<p>Ia adalah pembelian sekali sahaja pada €14.99 pada Mac App Store — tiada langganan, tiada pemacu untuk dipasang, tiada DMG atau sambungan kernel. Oleh kerana ia dikotak pasir dan diedarkan melalui App Store, ia tidak memerlukan pemacu audio yang samar-samar memasang alat pengadun lama yang bergantung kepada.</p>
+
+<h2>Pembetulan manakah yang patut anda gunakan?</h2>
+<p>Jika anda hanya mempunyai satu tab yang menjengkelkan sekarang dan kemudian, gunakan redam terbina dalam Chrome dan tetapan bunyi tapak — ia percuma dan ia berfungsi. Jika anda sentiasa berharap Chrome boleh ditolak sementara segala-galanya kekal, itulah jurang yang tepat macOS meninggalkan terbuka, dan pengadun per apl adalah penyelesaian yang bersih.</p>
+
+<p>Mahukan Chrome lebih senyap secara kekal tanpa meredamkan muzik atau panggilan anda? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan berikan setiap apl penggelangsar volumnya sendiri.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "Pemberitahuan WhatsApp & Telegram Bunyi Terlalu Keras pada Mac? Tolak Mereka",
+    description: "Betulkan bunyi pemberitahuan desktop WhatsApp dan Telegram yang terlalu kuat pada Mac anda. Mulakan dengan tetapan terbina dalam setiap apl, kemudian turunkan atau redamkan keseluruhan apl apabila macOS tidak memberi anda kawalan setiap apl.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>Mulakan dalam setiap apl: WhatsApp dan Telegram kedua-duanya membenarkan anda meredam atau menukar bunyi pemberitahuan dalam tetapan mereka sendiri, yang merupakan pembetulan yang paling bersih. Tetapi macOS tidak mempunyai peluncur volum pemberitahuan setiap apl, jadi jika bunyi apl itu sendiri masih terlalu kuat, satu-satunya tuil sebenar anda ialah merendahkan atau meredamkan keseluruhan audio apl itu dengan alat kelantangan setiap apl.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pemberitahuan WhatsApp &amp; Telegram Bunyi Terlalu Keras pada Mac? Tolak Mereka" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mula-mula, gunakan tetapan pemberitahuan apl itu sendiri</h2>
+
+<p>Kedua-dua WhatsApp dan Telegram menghantar kawalan bunyi mereka sendiri, dan di sinilah anda harus sentiasa bermula. Ia adalah pembetulan yang paling tepat dan ia tidak menyentuh apa-apa lagi pada Mac anda.</p>
+
+<p><strong>Desktop WhatsApp:</strong> Buka WhatsApp, klik <em>tetapan</em> (ikon gear), kemudian <em>Pemberitahuan</em>. Anda boleh mematikan <em>Bunyi</em> sepenuhnya sambil menyimpan sepanduk, atau lumpuhkan pratonton pemberitahuan. WhatsApp tidak menawarkan peluncur kelantangan, jadi ia pada asasnya hidup atau mati untuk bunyi itu sendiri.</p>
+
+<p><strong>Desktop Telegram:</strong> Buka <em>Tetapan → Pemberitahuan dan Bunyi</em>. Telegram lebih fleksibel di sini. Anda boleh mematikan bunyi pemberitahuan secara global, meredam sembang individu atau menetapkan nada tersuai (lebih senyap). Anda juga boleh menyenyapkan satu kumpulan yang bising dengan membukanya dan memilih <em>bisu</em>. Bagi kebanyakan orang, meredam sembang paling kuat menyelesaikan masalah tanpa senyap di mana-mana.</p>
+
+<p>Jika bunyi itu baik tetapi terlalu kerap, redamkan sembang atau saluran tertentu yang paling kerap menyala daripada membunuh bunyi di seluruh apl. Itu memastikan makluman penting boleh didengari.</p>
+
+<h2>Matikan bunyi pemberitahuan dalam Tetapan Sistem macOS</h2>
+
+<p>macOS mempunyai lapisan kawalan kedua yang mengatasi apl dalam beberapa kes. Pergi ke <em>Tetapan Sistem → Pemberitahuan</em>, pilih WhatsApp atau Telegram dalam senarai dan matikan <em>Mainkan bunyi untuk pemberitahuan</em>. Ini menyenyapkan loceng amaran untuk apl itu sambil masih menunjukkan sepanduk.</p>
+
+<p>Ini adalah penyelesaian yang benar-benar baik jika anda hanya mahu apl senyap pada pemberitahuan dan tidak mengambil berat tentang audionya yang lain (panggilan, video). Digabungkan dengan tetapan apl itu sendiri, ia merangkumi kebanyakan aduan "ping adalah menggelegar".</p>
+
+<h2>Had sebenar: macOS tidak mempunyai volum setiap apl</h2>
+
+<p>Inilah bahagian yang jujur. Langkah-langkah di atas ialah suis hidup/mati. Apa yang mereka tidak boleh lakukan ialah menghidupkan WhatsApp atau Telegram <em>turun</em> kepada, katakan, 40% sambil mengekalkan semua yang lain pada volum penuh. Windows telah mempunyai pengadun volum setiap apl selama bertahun-tahun. macOS hanya tidak termasuk satu, dan tiada tetapan tersembunyi atau perintah Terminal yang menambahkannya.</p>
+
+<p>Ini penting apabila masalahnya bukan bunyi pemberitahuan secara khusus, tetapi keseluruhan apl terlalu kuat:</p>
+
+<ul>
+<li>WhatsApp atau Telegram <strong>panggilan suara dan video</strong> letupan itu pada volum penuh berbanding muzik atau mesyuarat anda</li>
+<li>Bunyi pemberitahuan yang anda ingin simpan tetapi pada tahap yang lebih rendah, bukan padam sepenuhnya</li>
+<li>Nada dering yang melonjak jauh melebihi apa sahaja yang anda dengar</li>
+<li>Inginkan apl itu boleh didengar tetapi senyap di latar belakang semasa anda memfokuskan pada sesuatu yang lain</li>
+</ul>
+
+<p>Tiada satu pun daripada itu boleh diselesaikan dengan alatan terbina dalam, kerana ia hanya menawarkan senyap, bukan tahap. Jurang itu adalah had macOS sebenar, bukan sesuatu yang anda terlepas.</p>
+
+<h2>Tetapkan volum setiap apl dengan SoundDial</h2>
+
+<p>Untuk benar-benar mematikan satu apl dan bukannya mematikan, anda memerlukan pengadun volum setiap apl. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah aplikasi bar menu yang memberikan macOS kawalan kelantangan setiap apl yang tidak pernah dihantar bersamanya. Ia menyenaraikan setiap apl yang sedang memainkan audio dan memberikan setiap satu peluncurnya sendiri.</p>
+
+<p>Untuk masalah khusus ini:</p>
+
+<ul>
+<li>Buka <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daripada bar menu dan cari WhatsApp atau Telegram dalam senarai.</li>
+<li>Seret peluncurnya ke tahap yang selesa, contohnya 30–40%, sambil membiarkan muzik, penyemak imbas atau panggilan video anda tidak disentuh.</li>
+<li>Gunakan per-app <strong>bisu</strong> butang untuk menyenyapkan apl itu serta-merta semasa panggilan atau mesyuarat, kemudian nyahredam kemudian tanpa menyelongkar tetapan.</li>
+<li>Jika anda memerlukan sebaliknya, apl senyap yang terlalu lembut, per apl <strong>rangsangan</strong> boleh menolaknya melebihi 100%.</li>
+</ul>
+
+<p>Kerana ia menetapkan tahap bagi setiap apl, SoundDial mengekalkan loceng pemberitahuan dan memanggil audio boleh didengar tetapi berkadar, dan bukannya pilihan semua-atau-tiada pilihan terbina dalam memaksa anda. Anda juga boleh berjimat <strong>profil volum</strong>, jadi persediaan "fokus" yang memastikan apl sembang rendah hanya dengan satu klik sahaja.</p>
+
+<blockquote>Satu kaveat yang jujur: menurunkan volum keseluruhan apl dalam SoundDial juga merendahkan bunyi pemberitahuannya, kerana untuk macOS ia adalah audio apl yang sama. Jika anda mahu pemberitahuan dimatikan sepenuhnya tetapi membuat panggilan pada kelantangan penuh, gunakan redam apl itu sendiri serta Tetapan Sistem untuk loceng dan tempah SoundDial untuk menetapkan tahap umum.</blockquote>
+
+<p>SoundDial ialah pembelian sekali sahaja €14.99 pada Mac App Store, kotak pasir, tanpa langganan, tiada pemacu kernel dan tiada DMG untuk sideload. Ia adalah jawapan yang praktikal apabila pembetulan yang anda mahukan, mematikan satu apl dan bukannya mematikan, bukan sesuatu yang boleh dilakukan oleh macOS sendiri.</p>
+
+<h2>Pembetulan manakah yang patut anda gunakan?</h2>
+
+<p>Kerja dari atas ke bawah. Cuba tetapan pemberitahuan apl sendiri dahulu, kemudian Tetapan Sistem macOS untuk mematikan bunyi. Jika perkara yang anda mahukan ialah merendahkan WhatsApp atau Telegram kepada volum tertentu, atau meredamkan apl itu dengan segera semasa panggilan, di situlah pengadun per apl mendapat tempatnya.</p>
+
+<p>Bosan memilih antara letupan penuh dan senyap sepenuhnya untuk apl sembang anda? <a href="https://apps.apple.com/app/id6772792641">Dapatkan SoundDial pada Mac App Store</a> dan berikan setiap apl dail volumnya sendiri.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Audio Permainan Lebih Keras Daripada Discord pada Mac? Cara Mengimbangi Permainan vs Kelantangan Suara",
+    description: "Permainan anda menenggelamkan sembang suara Discord pada Mac dan tiada pengadun volum terbina dalam. Inilah sebabnya mengapa macOS kekurangan volum setiap apl gaya Windows, dan cara mengurangkan permainan sambil mengekalkan suara.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai pengadun volum per apl terbina dalam, jadi anda tidak boleh mengehadkan permainan anda secara asli sambil memastikan Discord kuat. Pembaikan ialah apl menu-bar yang menetapkan volum bebas bagi setiap aplikasi. Kurangkan permainan kepada 40-50%, biarkan sembang suara pada 100% dan kedua-duanya kekal seimbang tanpa menyentuh peluncur dalam permainan.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Audio Permainan Lebih Keras Daripada Discord pada Mac? Cara Mengimbangi Permainan vs Kelantangan Suara" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa ini berlaku pada Mac (dan bukan pada Windows)</h2>
+
+<p>Jika anda telah bermain di Windows, anda tahu Pengadun Kelantangan: klik kanan ikon pembesar suara dan setiap apl yang sedang berjalan mendapat peluncurnya sendiri. Anda menggugurkan permainan, menaikkan Discord, selesai. macOS tidak pernah menghantar ciri itu. Terdapat satu volum output induk dan segelintir togol peringkat apl terkubur dalam tetapan sistem, tetapi tiada kawalan peringkat setiap aplikasi untuk apl sewenang-wenangnya.</p>
+
+<p>Oleh itu, apabila campuran permainan dikuasai panas, letupan, muzik dan tembakannya datang pada tahap output yang sama seperti suara rakan anda. Sesetengah permainan mendedahkan peluncur volum induk, tetapi banyak yang tidak cukup rendah, dan banyak pelancar, penyemak imbas dan tajuk kendiri tidak menawarkan kawalan berguna sama sekali. Discord sendiri hanya membenarkan anda melaraskan volum pengguna masuk, bukan permainan yang bersaing dengan mereka.</p>
+
+<p>Sejujurnya, ini adalah jurang peringkat OS, bukan pepijat yang boleh anda togol. Tindanan audio Apple mengarahkan segala-galanya kepada satu aliran keluaran, dan tiada UI pihak pertama untuk membahagikannya bagi setiap apl. Itulah sebabnya anda memerlukan alat pihak ketiga yang terletak di antara apl anda dan peranti output.</p>
+
+<h2>Penyelesaian manual (dan mengapa ia gagal)</h2>
+
+<p>Sebelum mendapatkan perisian, anda perlu mengetahui pilihan percuma dan hadnya:</p>
+
+<ul>
+<li><strong>Kurangkan volum dalam apl permainan.</strong> Berfungsi jika permainan mempunyai peluncur induk dengan langkah yang cukup halus. Ramai yang berhenti pada kenaikan 10% atau menggabungkan muzik dan kesan bersama-sama, jadi anda tidak boleh menjinakkan bahagian yang kuat sahaja.</li>
+<li><strong>Angkat rakan anda dalam Discord.</strong> Klik kanan setiap pengguna dan tingkatkan volum mereka. Ini membantu sedikit tetapi mengatasi, dan ia tidak menyentuh permainan yang sebenarnya menjadi masalah.</li>
+<li><strong>Gunakan fon kepala dengan tombol kelantangan perkakasan.</strong> Hanya mengubah tahap keseluruhan, bukan keseimbangan antara permainan dan suara.</li>
+<li><strong>Halakan audio melalui peranti maya.</strong> Alat seperti Loopback atau BlackHole boleh memisahkan strim, tetapi ia bertujuan untuk profesional, mengambil persediaan sebenar dan berlebihan untuk "menjadikan permainan lebih senyap."</li>
+</ul>
+
+<p>Tiada satu pun daripada ini memberi anda satu perkara yang dianggap remeh oleh pengguna Windows: peluncur pantas setiap apl. Itulah jurangnya <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> dibina untuk mengisi.</p>
+
+<h2>Pembetulan langsung: volum bebas bagi setiap apl</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pengadun volum setiap apl menu-bar untuk macOS. Ia menunjukkan setiap apl sedang memainkan bunyi dan memberikan setiap satu gelangsarnya sendiri, sama seperti Pengadun Volume Windows. Untuk masalah permainan lawan suara, aliran kerja adalah pendek:</p>
+
+<ul>
+<li>Klik ikon SoundDial dalam bar menu anda semasa permainan dan Discord kedua-duanya berjalan.</li>
+<li>Cari permainan dalam senarai dan tarik peluncurnya ke bawah kepada kira-kira 40-50%.</li>
+<li>Biarkan Discord (atau Slack, Zoom atau apl suara anda) pada 100%.</li>
+<li>Laraskan dengan pantas semasa bermain — tolak permainan ke bawah lebih jauh dalam pertempuran tembakan yang kuat, sandarkan semasa penerokaan yang tenang.</li>
+</ul>
+
+<p>Oleh kerana tahap adalah setiap apl, anda menetapkannya sekali dan ia kekal. Permainan ini kekal dihadkan tidak kira betapa panas campurannya sendiri, dan rakan anda tetap dapat didengari dengan jelas.</p>
+
+<h2>Tingkatkan, redamkan dan profil untuk baki persediaan anda</h2>
+
+<p>Alat yang sama meliputi gangguan bersebelahan yang datang dengan permainan suara:</p>
+
+<ul>
+<li><strong>Rangsangan setiap apl.</strong> Jika mikrofon rakan sepasukan senyap walaupun pada tahap maksimum Discord, anda boleh menolak apl suara <em>di atas</em> 100% jadi ia memotong permainan daripada terkubur.</li>
+<li><strong>Redam per apl.</strong> Senyapkan tab penyemak imbas latar belakang atau apl muzik serta-merta tanpa tab alt atau mematikan main balik.</li>
+<li><strong>Profil volum.</strong> Simpan profil "permainan" dengan permainan pada 45% dan Discord dirangsang, kemudian tukar kembali ke profil "biasa" untuk kegunaan setiap hari dalam satu klik — tiada peluncur menyeret semula setiap sesi.</li>
+<li><strong>Auto-ducking.</strong> Pastikan permainan secara automatik meleleh apabila seseorang bercakap, jadi serlahan ciri sentiasa berada di atas tindakan.</li>
+<li><strong>Penukaran keluaran pantas.</strong> Lompat antara fon kepala dan pembesar suara dari menu yang sama tanpa menyelam ke dalam Tetapan Sistem.</li>
+</ul>
+
+<blockquote><p>Model mentalnya mudah: satu peluncur bagi setiap apl, cara Windows telah melakukannya selama bertahun-tahun. macOS tidak pernah menyediakannya, jadi utiliti kecil memulihkan pariti.</p></blockquote>
+
+<h2>Apa yang diharapkan dengan jujur</h2>
+
+<p>Pengadun per apl menyelesaikan masalah baki dengan bersih, tetapi tetapkan jangkaan dengan betul. Ia mengawal tahap output perisian — ia tidak dapat membetulkan permainan yang audionya sendiri dikuasai dengan teruk, dan ia tidak dapat menaikkan isyarat yang tidak pernah ditangkap (mikron yang benar-benar rosak masih memerlukan pembaikan perkakasan). Boost menambah keuntungan sebenar, jadi menolak sumber senyap melepasi 100% boleh menyebabkan herotan, sama seperti menaikkan mana-mana amp terlalu tinggi. Walau bagaimanapun, digunakan dengan bijak, topi permainan sederhana serta rangsangan suara yang kecil adalah semua yang diperlukan oleh kebanyakan persediaan.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adalah kotak pasir dan dipasang terus dari Mac App Store — tiada pemacu, tiada sambungan kernel, tiada DMG untuk dipercayai. Ia adalah €14.99 sekali sahaja tanpa langganan dan ia menyokong kawalan kelantangan macOS merentas 28 bahasa.</p>
+
+<p>Berhenti melawan peluncur dalam permainan anda. Grab <a href="https://apps.apple.com/app/id6772792641">SoundDial pada Mac App Store</a>, matikan permainan, pastikan skuad anda kuat, dan akhirnya dapatkan pengadun volum gaya Windows macOS terlupa untuk menghantar.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Pembesar Suara Monitor Luaran Terlalu Keras atau Terperangkap pada Mac? Betulkan Kelantangan HDMI/DisplayPort",
+    description: "Mengapa kekunci kelantangan Mac anda tidak mengawal pembesar suara monitor HDMI atau DisplayPort dan cara membetulkan audio yang terlalu kuat, tersekat atau tidak boleh laras menggunakan OSD monitor, Persediaan MIDI Audio dan penghalaan output yang lebih baik.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika kekunci kelantangan Mac anda dikelabukan atau tidak melakukan apa-apa untuk monitor yang disambungkan melalui HDMI atau DisplayPort, itu biasanya bukan pepijat. Audio paparan digital sering dihantar pada tahap tetap, dan perkakasan monitor sendiri mengawal kelantangan. Penyelesaiannya adalah untuk melaraskan paparan, laluan semula output atau menggunakan peranti audio yang berbeza.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pembesar Suara Monitor Luaran Terlalu Keras atau Tersekat pada Mac? Betulkan Kelantangan HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa kekunci kelantangan Mac berhenti berfungsi melalui HDMI/DisplayPort</h2>
+
+<p>HDMI dan DisplayPort membawa audio sebagai strim digital. Banyak monitor menerima strim itu pada tahap output tetap dan mengharapkan anda mengawal kelantangan pada paparan itu sendiri, bukan pada peranti sumber. Apabila macOS mengesan ini, ia melumpuhkan penggelangsar kelantangan pada skrin dan menghitamkan kekunci F11/F12, menunjukkan simbol "tiada kemasukan" apabila anda menekannya.</p>
+
+<p>Ini adalah had perkakasan dan protokol, bukan sesuatu perisian pada Mac boleh mengatasinya. Audio tidak pernah melalui peringkat di mana macOS dibenarkan untuk melemahkannya. Tiada apl, pemacu atau tetapan boleh menyuntik kawalan kelantangan ke dalam strim yang ingin diterima paparan pada tahap penuh. Bersikap jujur ​​tentang perkara itu menjimatkan berjam-jam anda mengejar pembetulan yang salah.</p>
+
+<h2>Betulkan 1: Gunakan kawalan monitor sendiri (OSD)</h2>
+
+<p>Ini adalah penyelesaian sebenar untuk kebanyakan orang. Hampir setiap monitor dengan pembesar suara terbina dalam mempunyai menu paparan pada skrin yang didorong oleh butang fizikal atau kayu bedik di bahagian belakang atau bahagian bawah panel.</p>
+
+<ul>
+<li>Tekan butang OSD/menu untuk membuka tetapan monitor.</li>
+<li>Cari bahagian Audio atau Kelantangan.</li>
+<li>Turunkan paras di sana — ini ialah kawalan yang sebenarnya berfungsi melalui HDMI/DP.</li>
+</ul>
+
+<p>Sesetengah monitor juga mendedahkan apl pendamping atau sokongan DDC/CI supaya anda boleh memacu OSD dari macOS. Utiliti pihak ketiga yang bercakap DDC boleh memetakan kekunci kelantangan Mac anda kepada kelantangan perkakasan monitor, yang patut dicuba jika anda tidak suka mencapai butang panel.</p>
+
+<h2>Betulkan 2: Semak Persediaan MIDI Audio</h2>
+
+<p>Buka <strong>Persediaan MIDI Audio</strong> (dalam /Applications/Utilities). Pilih monitor anda dalam senarai peranti. Jika peluncur kelantangan muncul di sebelah kanan, seretnya ke bawah — kadangkala paparan mendedahkan tahap yang boleh dikawal perisian walaupun apabila kekunci bar menu dilumpuhkan. Jika peluncur hilang atau dikelabukan, paparan mengesahkan ia hanya menerima audio tahap tetap dan anda harus kembali ke OSD.</p>
+
+<p>Semasa anda berada di sini, sahkan peranti output yang betul dipilih. Ia adalah perkara biasa untuk audio dihalakan secara senyap ke monitor yang anda terlupa telah disambungkan, yang menerangkan bunyi kuat secara tiba-tiba atau tiada bunyi.</p>
+
+<h2>Betulkan 3: Lalukan audio ke suatu tempat yang sebenarnya anda boleh kawal</h2>
+
+<p>Jika pembesar suara monitor anda biasa-biasa sahaja (kebanyakannya) dan kawalan kelantangannya kekok, penyelesaian paling bersih ialah berhenti menggunakannya:</p>
+
+<ul>
+<li>Palamkan pembesar suara atau fon kepala ke dalam bicu keluar fon kepala monitor jika ia mempunyai satu — output analog itu biasanya boleh dikawal kelantangan daripada paparan.</li>
+<li>Gunakan USB DAC, pembesar suara USB atau output Bluetooth. Output USB dan analog memberikan macOS kawalan kelantangan perisian penuh, jadi kekunci anda berfungsi seperti biasa semula.</li>
+<li>Pilih pembesar suara terbina dalam Mac anda untuk bunyi pantas dan pastikan monitor untuk video sahaja.</li>
+</ul>
+
+<p>Sebaik sahaja anda menggunakan output yang sebenarnya boleh dilemahkan oleh macOS, kekunci kelantangan sistem berfungsi dan anda mendapat semula kawalan yang baik dan bukannya melompat antara langkah OSD kasar monitor.</p>
+
+<h2>Setelah output berfungsi, kawal volum setiap apl</h2>
+
+<p>Mendapatkan kembali output yang boleh dikawal menyelesaikan masalah "terlalu kuat / tersekat". Tetapi macOS masih memberikan anda hanya satu volum induk untuk segala-galanya. Tiada pengadun per apl terbina dalam pada Mac — Windows telah mempunyai satu selama bertahun-tahun, tetapi Apple tidak pernah menghantar yang setara. Jadi, video yang kuat, permainan dan panggilan senyap semuanya berkongsi peluncur yang sama.</p>
+
+<p>Itulah jurangnya <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengisi. Ia adalah pengadun bar menu yang memberikan setiap apl kelantangan bebasnya sendiri, jadi anda boleh menurunkan tab penyemak imbas tanpa menyentuh muzik anda, meredamkan satu apl serta-merta atau meningkatkan apl senyap di atas siling biasa. Anda boleh menyimpan profil volum untuk persediaan yang berbeza dan menukar output dengan cepat daripada bar menu.</p>
+
+<p>Untuk lebih jelas tentang skop: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mengawal volum perisian untuk audio yang mengalir melalui macOS. Ia tidak boleh mengatasi monitor yang mengabaikan volum sistem melalui HDMI — itulah gelagat tahap tetap paparan dan hanya OSD atau output lain yang membetulkannya. Sebaik sahaja anda menggunakan output yang boleh dikawal, kawalan setiap apl ialah tempat apl itu bersinar.</p>
+
+<h2>Senarai semak cepat</h2>
+
+<ul>
+<li>Kekunci dikelabukan pada HDMI/DP? Gunakan volum OSD monitor — itu adalah tingkah laku yang dijangkakan.</li>
+<li>Semak Persediaan MIDI Audio untuk peluncur perisian tersembunyi.</li>
+<li>Sahkan peranti output yang betul dipilih.</li>
+<li>Untuk kawalan sebenar, halakan audio ke fon kepala keluar, USB atau Bluetooth.</li>
+<li>Kemudian gunakan pengadun setiap apl untuk mengimbangi apl individu.</li>
+</ul>
+
+<p>Setelah output anda terkawal, berikan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> satu pandangan. Ia adalah pembelian sekali sahaja €14.99 daripada Mac App Store — tiada langganan, tiada pemandu, tiada DMG — dan akhirnya ia membawakan pengadun volum setiap apl sebenar kepada macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "Kelantangan USB DAC Tidak Akan Melaraskan pada Mac? Dapatkan Kawalan Kelantangan Perisian Kembali",
+    description: "Mengapa macOS mengkelabukan penggelangsar kelantangan untuk banyak USB DAC, maksudnya dan cara mengembalikan kawalan kelantangan perisian yang berfungsi pada Mac anda tanpa menjejaskan kualiti audio.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Jika peluncur volum USB DAC anda dikelabukan pada Mac, ia biasanya bukan pepijat. macOS melumpuhkan volum perisiannya apabila DAC melaporkan bahawa ia tidak mempunyai volum boleh dikawal, mengharapkan anda menggunakan tombol perkakasan DAC sendiri. Untuk mendapatkan kembali volum perisian, gunakan pengecil peringkat apl seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kelantangan USB DAC Tidak Akan Melaraskan pada Mac? Dapatkan Kawalan Kelantangan Perisian Kembali" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa macOS mengkelabukan kelantangan untuk beberapa USB DAC</h2>
+
+<p>Apabila anda memalamkan peranti audio USB, macOS bertanya kepadanya apa yang boleh dilakukannya melalui protokol Kelas Audio USB (UAC). Sebahagian daripada jabat tangan itu ialah satu set kawalan "unit ciri", termasuk kawalan kelantangan. Jika DAC mengisytiharkan kawalan kelantangan, macOS menyambungkannya ke kekunci kelantangan papan kekunci anda dan peluncur bar menu. Jika DAC mengisytiharkan bahawa ia tidak mempunyai volum boleh laras hos, macOS mengkelabukan peluncur keluar sepenuhnya.</p>
+
+<p>Banyak DAC dan amp berkualiti tinggi melakukan yang kedua, dengan sengaja. Andaian pereka bentuk ialah anda akan memberi DAC isyarat digital berskala penuh, sempurna bit dan mengawal kenyaringan dengan tombol kelantangan analog pada unit itu sendiri. Pengecilan analog itu berlaku selepas penukaran digital-ke-analog, jadi ia mengelak daripada membuang bit dan benar-benar laluan pilihan audiophile. Ia adalah ciri, bukan kesalahan.</p>
+
+<blockquote>Peraturan praktikal: jika DAC anda mempunyai tombol kelantangan fizikal dan peluncur Mac dikelabukan, pengilang mahu anda menggunakan tombol tersebut. Isyarat dihantar pada 100% melalui reka bentuk.</blockquote>
+
+<h2>Apabila peluncur yang dikelabukan sebenarnya menjadi masalah</h2>
+
+<p>Jawapan "hanya gunakan tombol" rosak dalam persediaan sebenar:</p>
+
+<ul>
+<li><strong>DAC tidak mempunyai tombol.</strong> Banyak USB DAC, dongle dan antara muka pro padat tidak mendedahkan kawalan kelantangan dan tiada kawalan hos juga. Anda tersekat pada tahap mana pun amp hiliran atau pembesar suara berkuasa ditetapkan.</li>
+<li><strong>Tombol tidak dapat dicapai.</strong> DAC desktop di belakang monitor anda, atau unit yang menyuap amp perolehan tetap, bermakna melaraskan kelantangan menjadi tugas fizikal dan bukannya menekan kekunci.</li>
+<li><strong>Anda memerlukan baki setiap apl, bukan hanya tahap induk.</strong> Malah tombol perkakasan yang sempurna adalah satu kawalan global. Ia tidak boleh membuat panggilan Zoom lebih senyap daripada muzik anda, atau meredakan permainan apabila pemberitahuan berlaku.</li>
+</ul>
+
+<p>Tiada satu pun daripada ini diperbaiki oleh macOS, kerana dari perspektif OS peranti berfungsi dengan betul. Ini adalah had yang jujur: ia adalah keupayaan yang dilaporkan oleh peranti, dan tiada togol dalam Tetapan Sistem untuk mengatasinya.</p>
+
+<h2>Penyelesaian yang jujur sebelum anda memasang apa-apa</h2>
+
+<p>Cuba yang ini dahulu, kerana ia tiada kos:</p>
+
+<ul>
+<li><strong>Gunakan tombol perkakasan atau volum hiliran.</strong> Jika DAC anda atau pembesar suara/amp berkuasa anda mempunyai kawalan, itu adalah pilihan paling bersih dan mengekalkan resolusi digital penuh.</li>
+<li><strong>Semak apl atau perisian tegar DAC sendiri.</strong> Sesetengah DAC (dan unit berorientasikan permainan) menghantar panel kawalan atau tetapan perisian tegar yang membolehkan volum hos. Jika pilihan "Kelantangan USB" atau "kelantangan perisian" wujud, menghidupkannya menjadikan peluncur macOS berfungsi semula.</li>
+<li><strong>Cuba mod USB lain.</strong> Beberapa peranti melaporkan keupayaan yang berbeza dalam "mematuhi kelas" berbanding mod pemacu proprietari. Memasang atau mengalih keluar pemacu vendor boleh mengubah sama ada macOS melihat kawalan kelantangan.</li>
+<li><strong>Lihat dalam Persediaan MIDI Audio.</strong> Buka Persediaan MIDI Audio, pilih peranti dan semak sama ada volum induk atau setiap saluran muncul di sana. Kadangkala gelangsar tersedia dalam panel itu walaupun bar menu satu dikelabukan.</li>
+</ul>
+
+<p>Jika tiada satu pun daripada yang berkenaan, anda memerlukan pengecilan perisian pada bahagian Mac.</p>
+
+<h2>Kawalan kelantangan perisian dengan pengecilan setiap apl</h2>
+
+<p>Apabila perkakasan tidak menerima arahan kelantangan, pilihan yang tinggal adalah untuk melemahkan audio dalam perisian sebelum ia mencapai DAC. Inilah sebenarnya <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tidak. Ia terletak dalam bar menu anda dan memberikan setiap apl yang sedang berjalan kelantangan bebasnya sendiri, meredam dan juga rangsangan, tidak kira sama ada DAC anda mendedahkan kawalan perkakasan.</p>
+
+<p>Untuk menggunakannya untuk DAC yang dikelabukan:</p>
+
+<ul>
+<li>Pasang <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daripada Mac App Store dan bukanya dari bar menu.</li>
+<li>Pastikan DAC anda dipilih sebagai output sistem; anda juga boleh menggunakan suis keluaran pantas SoundDial untuk bergerak antara DAC, pembesar suara dan fon kepala tanpa menyelam ke dalam Tetapan Sistem.</li>
+<li>Tetapkan tahap setiap apl: lepaskan penyemak imbas, naikkan pemain muzik, redamkan apa sahaja yang anda tidak mahu. Setiap apl distrim mengikut volum yang anda pilih, dan hasil campuran pergi ke DAC.</li>
+<li>Simpan profil kelantangan untuk senario berbeza (panggilan lwn. mendengar) dan biarkan apl latar belakang merendahkan automatik apabila sesuatu yang lebih penting mula dimainkan.</li>
+</ul>
+
+<h2>Pertukaran jujur pada kualiti audio</h2>
+
+<p>Pengecilan perisian mengurangkan tahap digital sebelum penukaran, jadi secara teori ia membuang sejumlah kecil resolusi berbanding volum analog pada DAC itu sendiri. Dalam amalan, pada laluan 24-bit moden dan lebih tinggi pada tahap pendengaran biasa, pengurangan adalah jauh di bawah apa-apa yang boleh didengar, dan anda mengekalkan julat dinamik penuh DAC untuk apa-apa yang dimainkan berhampiran skala penuh. Jika anda seorang pemurni dengan tombol analog yang baik dalam jangkauan, gunakan tombol itu. Jika anda tidak mempunyai kawalan perkakasan yang boleh digunakan, atau anda memerlukan baki setiap apl yang macOS tidak dapat disediakan, volum perisian adalah pertukaran yang betul, dan ia mengalahkan peluncur yang tidak melakukan apa-apa.</p>
+
+<p>SoundDial ialah pembelian sekali sahaja €14.99, kotak pasir, tanpa pemacu, sambungan kernel atau pemasang DMG. Jika volum USB DAC anda dikelabukan dan mencapai tombol bukan pilihan, <a href="https://apps.apple.com/app/id6772792641">dapatkan SoundDial pada Mac App Store</a> dan letakkan semula kawalan kelantangan kerja dalam bar menu anda.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Hadkan Kelantangan Maksimum Satu Apl Kuat pada Mac (Lindungi Pendengaran Anda)",
+    description: "macOS tidak mempunyai had volum setiap apl, jadi satu apl yang kuat boleh meledakkan anda pada volum sistem penuh. Berikut ialah cara untuk menetapkan siling volum maksimum untuk satu apl pada Mac dengan pengadun setiap apl dan sebab had perkakasan penting.",
+    date: "2026-07-23",
+    readTime: "5 min bacaan",
+    content: `<p>macOS tidak mempunyai cara terbina dalam untuk mengehadkan volum maksimum satu apl, jadi program yang kuat dimainkan pada apa sahaja peluncur sistem anda ditetapkan. Untuk menetapkan siling untuk apl tunggal, gunakan pengadun per apl menu-bar seperti <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: tahan aplikasi itu pada, katakan, 40 peratus sementara volum sistem anda kekal lebih tinggi untuk semua yang lain.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Hadkan Kelantangan Maksimum Satu Apl Kuat pada Mac (Lindungi Pendengaran Anda)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mengapa satu apl tiba-tiba boleh meledakkan anda pada Mac</h2>
+
+<p>Pada macOS, peluncur kelantangan dalam bar menu atau Pusat Kawalan ialah satu kawalan seluruh sistem. Setiap apl mengalir ke dalam output yang sama pada tahap yang sama. Tiada pengadun volum setiap apl terbina dalam sistem pengendalian seperti yang Windows telah mempunyainya selama bertahun-tahun dengan panel Pengadun Kelantangannya.</p>
+
+<p>Reka bentuk itu mempunyai akibat sebenar untuk telinga anda. Jika anda menetapkan kelantangan sistem anda tinggi supaya anda boleh mendengar podcast yang senyap atau panggilan video yang lembut, kemudian beralih kepada permainan, pemberitahuan Discord, tapak web berat iklan atau video yang dikuasai dengan lebih kuat, apl itu juga dimainkan pada tahap sistem penuh. Hasilnya ialah lompat-menakutkan klasik: dinding bunyi secara tiba-tiba pada kelantangan yang tidak pernah anda maksudkan untuk apl khusus itu.</p>
+
+<p>Bagi sesiapa yang mengalami tinnitus, sensitiviti bunyi atau yang hanya menghargai pendengaran mereka, ketidakpastian itu adalah masalahnya. Anda tidak cuba untuk membuat segala-galanya lebih senyap. Anda cuba untuk menjamin bahawa satu apl lantang tertentu tidak boleh melebihi tahap yang anda telah putuskan sebagai selamat.</p>
+
+<h2>Perkara yang boleh dan tidak boleh dilakukan oleh macOS di sini</h2>
+
+<p>Biar saya jujur tentang had sebelum mengesyorkan apa-apa.</p>
+
+<ul>
+<li><strong>Isipadu sistem</strong> merendahkan semuanya sekaligus. Kurangkan ia untuk menjinakkan satu apl dan apl senyap anda menjadi tidak dapat didengari.</li>
+<li><strong>Peluncur volum dalam apl</strong> wujud dalam sesetengah apl (pemain media, sesetengah penyemak imbas setiap tab) tetapi bukan kebanyakannya. Permainan, panggilan video atau apl asli selalunya tidak mempunyai kawalan kelantangan bebas sama sekali.</li>
+<li><strong>Siling perkakasan adalah nyata.</strong> Tiada perisian boleh menolak isyarat lebih kuat daripada maksimum peranti output anda. Sebaliknya, penguasaan kelantangan apl itu sendiri, serta DAC dan fon kepala anda, menetapkan betapa kuatnya "100 peratus" sebenarnya. Perisian boleh menurunkan tahap setiap apl dengan pasti, tetapi ia tidak boleh menulis semula fizik fon kepala anda.</li>
+</ul>
+
+<p>Jadi matlamat yang jujur bukanlah kenyaringan ajaib yang mengehadkan pada tahap pemandu. Ia adalah pengecilan per apl yang praktikal dan boleh dipercayai: pegang apl yang dipilih pada pecahan tetap output sistem supaya ia tidak boleh mengejutkan anda.</p>
+
+<h2>Cara mengehadkan volum apl tunggal dengan pengadun per apl</h2>
+
+<p>Pengadun volum setiap apl memintas setiap audio apl dan membolehkan anda menetapkan tahapnya secara bebas. Berikut ialah aliran kerja dengan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, yang tinggal dalam bar menu:</p>
+
+<ul>
+<li><strong>Buka pengadun.</strong> Klik ikon bar menu SoundDial. Anda akan melihat senarai setiap apl yang sedang memainkan audio, setiap satu dengan peluncurnya sendiri.</li>
+<li><strong>Cari apl yang kuat.</strong> Cari apl yang ingin anda hadkan, contohnya permainan, penyemak imbas atau alat persidangan video.</li>
+<li><strong>Tetapkan silingnya.</strong> Seret peluncur apl itu ke tahap selamat anda, katakan 35 hingga 50 peratus. Apl itu kini dimainkan pada pecahan keluaran sistem itu sementara setiap apl lain kekal di tempatnya.</li>
+<li><strong>Biarkan volum sistem anda di tempat yang anda perlukan.</strong> Pastikan peluncur sistem cukup tinggi untuk apl senyap anda. Apl yang dihadkan akan tetap dikawal tanpa mengira.</li>
+</ul>
+
+<p>Oleh kerana tahap adalah per apl, anda menetapkan maksimum untuk satu program itu dengan berkesan. Walaupun ia cuba memainkan kandungannya yang paling kuat, yang paling kuat kini ialah pecahan penuh pilihan anda.</p>
+
+<h2>Buat penutup melekat dengan profil</h2>
+
+<p>Satu pelarasan manual membantu, tetapi tahap apl boleh ditetapkan semula apabila anda berhenti dan melancarkan semula. Untuk membuat persediaan selamat pendengaran yang bertahan dimulakan semula, gunakan <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>profil volum. Simpan profil dengan tahap setiap apl pilihan anda, contohnya "malam permainan yang tenang" dengan permainan pada 40 peratus, apl muzik anda pada 70 peratus dan apl panggilan anda pada 90 peratus. Ingat dalam satu klik setiap kali anda duduk. Siling anda untuk apl yang kuat kembali sama seperti yang anda tetapkan.</p>
+
+<p>Dua lagi ciri patut diketahui untuk perlindungan pendengaran:</p>
+
+<ul>
+<li><strong>Redam per apl</strong> membolehkan anda menyenyapkan seorang pesalah dengan serta-merta tanpa menyentuh apa-apa lagi, berguna untuk apl yang menghantar spam pemberitahuan yang kuat.</li>
+<li><strong>Auto-ducking</strong> secara automatik mencelupkan audio latar belakang apabila sesuatu yang lebih penting bermula, supaya anda tidak terperangkap di antara dua sumber yang kuat sekali gus.</li>
+</ul>
+
+<blockquote><p>Pengecilan perisian benar-benar berkesan untuk mengehadkan aplikasi, tetapi ia adalah satu lapisan perlindungan, bukan perlindungan perubatan. Jika anda mengalami tinnitus atau kepekaan bunyi, pasangkan siling setiap apl dengan tahap pendengaran dan rehat keseluruhan yang munasabah. Tiada apl menggantikan tabiat volum berhati-hati.</p></blockquote>
+
+<h2>Nota tentang rangsangan, dan sebab ia berasingan</h2>
+
+<p>Pengadun per apl yang sama yang mengehadkan apl yang kuat juga boleh meningkatkan apl yang terlalu senyap melebihi 100 peratus, yang berguna untuk apl yang volumnya sendiri dikuasai terlalu rendah. Ini adalah dua bahagian kawalan yang sama: anda menentukan tahap setiap apl, atas atau bawah. Untuk perlindungan pendengaran anda hanya memilih arah "bawah" dan menahannya di sana.</p>
+
+<h2>Versi pendek</h2>
+
+<p>macOS tidak akan membenarkan anda mengehadkan volum apl tunggal dengan sendirinya, dan itu adalah jurang OS yang tulen, bukan ralat pengguna. Pengadun per apl menu-bar menutupnya: tetapkan apl kuat kepada pecahan tetap, simpan dalam profil dan ia tidak boleh meledakkan anda lagi semasa apl anda yang lain kekal kedengaran.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah pembelian sekali sahaja €14.99 pada Mac App Store, kotak pasir tanpa pemacu atau DMG untuk dipasang. Jika melindungi telinga anda daripada satu apl yang tidak dapat diramalkan adalah matlamatnya, ini adalah cara paling mudah untuk menetapkan siling itu dan mengekalkannya.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Baki Kiri/Kanan Berbeza Setiap Apl pada Mac — Adakah Ia Mungkin?",
+    description: "Bolehkah anda menetapkan baki stereo kiri/kanan yang berbeza untuk setiap apl pada macOS? Sejujurnya, tidak — bukan secara asli, dan bukan dengan kebanyakan alatan. Inilah yang sebenarnya mungkin dan di mana had sebenar.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Secara jujur, tidak — macOS tidak membenarkan anda menetapkan baki stereo kiri/kanan yang berbeza bagi setiap aplikasi, dan hampir tiada alat pihak ketiga yang mendedahkan panning setiap apl yang benar sama ada. Anda boleh menetapkan satu baki global untuk peranti output anda dan anda boleh mengawal setiap apl <em>isipadu</em>, tetapi per apl bebas <em>kuali</em> bukan ciri yang disediakan oleh macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Baki Kiri/Kanan Berbeza Setiap Apl pada Mac — Adakah Mungkin?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Imbangan lwn volum — ia bukan perkara yang sama</h2>
+
+<p>Adalah wajar untuk memisahkan dua idea yang sering keliru:</p>
+<ul>
+  <li><strong>Kelantangan</strong> — betapa kuatnya apl secara keseluruhan. Ini ialah tahap tunggal yang digunakan untuk kedua-dua saluran.</li>
+  <li><strong>Baki (kuali)</strong> — cara audio diedarkan antara pembesar suara kiri dan kanan. Baki "kiri penuh" menghantar segala-galanya ke saluran kiri dan menyenyapkan kanan.</li>
+</ul>
+
+<p>Orang yang meminta "baki berbeza setiap apl" biasanya mahukan salah satu daripada dua perkara: untuk menolak satu bunyi apl ke satu telinga (katakan, panggilan di telinga kiri anda, muzik di sebelah kanan anda) atau untuk membetulkan perbezaan pendengaran atau pembesar suara yang buruk pada satu sisi — tetapi hanya untuk apl tertentu. Itu adalah matlamat yang sah. Masalahnya ialah di mana kawalan hidup.</p>
+
+<h2>Mengapa macOS tidak boleh melakukan ini secara asli</h2>
+
+<p>macOS mempunyai tepat satu kawalan imbangan, dan ia hidup pada tahap peranti output. Anda akan menemuinya di bawah <strong>Tetapan Sistem → Bunyi → Output</strong>, di mana a <em>Baki</em> peluncur mengalihkan keseluruhan campuran ke kiri atau kanan. Apa sahaja penggelongsor yang ditetapkan untuk digunakan <em>segala-galanya</em> dihalakan ke peranti itu — setiap apl, setiap bunyi sistem, sekaligus.</p>
+
+<p>Tiada API dalam tindanan audio macOS standard yang mengatakan "menjadikan audio apl ini ke kiri, apl itu ke kanan." Apl menyerahkan audio mereka kepada sistem yang sudah bercampur, dan sistem menggunakan satu baki induk dalam perjalanan ke pembesar suara. Jadi lapisan yang anda mahukan kuali per apl tidak didedahkan oleh sistem pengendalian. Ini adalah had OS yang tulen, bukan sesuatu yang boleh digunakan oleh utiliti bar menu dengan sopan.</p>
+
+<blockquote>Tidak seperti per-app <em>isipadu</em> — yang macOS juga kekurangan secara asli tetapi aplikasi mana yang boleh dilaksanakan dengan mengetik strim audio — per-apl <em>imbangan</em> memerlukan menyorot semula setiap strim apl secara bebas, dan cangkuk itu tidak tersedia untuk apl kotak pasir.</blockquote>
+
+<h2>Apa yang SoundDial lakukan — dan sejujurnya, apa yang tidak dilakukannya</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> memberikan anda kawalan setiap apl macOS tiada: bebas <strong>isipadu</strong> untuk setiap apl yang sedang berjalan, setiap apl <strong>bisu</strong>, volum setiap apl <strong>rangsangan</strong> melebihi 100%, volum boleh disimpan <strong>profil</strong>, auto-ducking dan penukaran output pantas daripada bar menu.</p>
+
+<p>Untuk terus terang dengan anda: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> kawalan setiap apl <em>kenyaringan dan senyap</em>, bukan stereo setiap apl <em>mendulang</em>. Ia tidak akan menghantar Safari ke telinga kiri anda dan Spotify ke kanan anda. Jika seseorang memberitahu anda pengadun bar menu melakukan baki L/R per apl yang benar pada macOS, ragu-ragu — itu bukan kawalan yang diberikan oleh OS. Perkara yang benar-benar diselesaikan oleh SoundDial ialah kekecewaan yang jauh lebih biasa: satu apl terlalu kuat atau terlalu senyap berbanding dengan yang lain.</p>
+
+<h2>Penyelesaian sebenar untuk baki setiap apl</h2>
+
+<p>Jika anda benar-benar memerlukan pemisahan audio menyebelah, berikut ialah pilihan yang jujur, kira-kira daripada yang paling mudah kepada yang paling terlibat:</p>
+
+<ul>
+  <li><strong>Baki global (semua apl):</strong> Gunakan Tetapan Sistem → Bunyi → Output → Baki. Ini adalah satu-satunya pilihan terbina dalam anda dan ia mempengaruhi setiap apl. Berguna untuk membetulkan bilik atau asimetri pendengaran, tidak berguna untuk mengasingkan satu apl.</li>
+  <li><strong>Peranti output berasingan:</strong> Ini adalah perkara yang paling hampir dengan baki setiap apl sebenar. Halakan Apl A ke satu peranti output dan Apl B ke peranti lain, kemudian tetapkan baki setiap peranti secara berasingan. macOS membolehkan anda memilih peranti output dalam sesetengah apl (dan penyemak imbas/apl komunikasi sering mendedahkan pemilih output mereka sendiri). Jika Apl A menghala ke peranti yang menyorot ke kiri dan Apl B ke peranti yang menyorot ke kanan, anda akan mendapat baki setiap apl dengan berkesan — selagi kedua-dua apl membenarkan anda memilih outputnya.</li>
+  <li><strong>Alat penghalaan audio maya:</strong> Utiliti yang mencipta peranti maya dan pengadun dalaman boleh, dalam beberapa konfigurasi, menghalakan apl tertentu ke saluran tertentu. Ini berkuasa tetapi fiddly, menambah komponen gaya pemandu, dan berlebihan untuk kebanyakan orang. Ia adalah domain penstrim dan jurutera audio, bukan pembetulan "panggilan dalam satu telinga" biasa.</li>
+  <li><strong>Pembahagian perkakasan:</strong> Jika ia mengenai pembesar suara fizikal atau perbezaan pendengaran, pengadun perkakasan atau antara muka audio dengan kawalan setiap saluran mengelakkan masalah perisian sepenuhnya.</li>
+</ul>
+
+<h2>Apabila volum setiap apl sebenarnya adalah apa yang anda perlukan</h2>
+
+<p>Banyak permintaan "Saya mahukan baki berbeza bagi setiap apl" benar-benar "satu apl menenggelamkan yang lain." Jika matlamatnya ialah panggilan video yang anda boleh dengar melalui muzik anda, atau permainan yang terlalu kuat di sebelah sembang Discord, keseimbangan bukanlah alat — kelantangan bebas adalah. Itulah yang dikendalikan oleh pengadun per apl dengan bersih, tanpa pemacu maya atau gimnastik penghalaan.</p>
+
+<p>Jadi ringkasan yang jujur: keseimbangan kiri/kanan setiap apl yang benar bukanlah ciri macOS dan tiada apl pengadun memalsukannya dengan meyakinkan. Laluan sebenar anda ialah peluncur imbangan global atau penghalaan keluaran setiap apl ke peranti yang disorot secara berasingan. Tetapi jika kesakitan yang mendasarinya adalah relatif kuat, itu masalah yang diselesaikan.</p>
+
+<p>Mahukan volum bebas, redam dan rangsangan untuk setiap apl pada Mac anda, dengan profil yang boleh disimpan dan tiada pemacu? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Dapatkan SoundDial pada Mac App Store</a> — €14.99, sekali, kotak pasir.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Mengapa Sesetengah Apl Jauh Lebih Keras Daripada Yang Lain di Mac? (Dan Bagaimana untuk Menyamakan Mereka)",
+    description: "Bunyi apl sangat berbeza pada Mac kerana setiap satu dikuasai kepada sasaran kelantangannya sendiri dan macOS tidak mempunyai kawalan kelantangan setiap apl terbina dalam. Inilah sebabnya ia berlaku dan cara untuk meratakan apl anda.",
+    date: "2026-07-23",
+    readTime: "6 min bacaan",
+    content: `<p>Bunyi apl sangat berbeza pada Mac anda kerana setiap satu dikarang, dikuasai dan dinormalkan mengikut sasaran kelantangannya sendiri, dan macOS tidak mempunyai kawalan kelantangan per apl terbina dalam untuk mendamaikannya. Spotify, YouTube, Zoom dan makluman sistem semuanya melalui peluncur induk yang sama, jadi anda terjebak menunggangnya ke atas dan ke bawah sentiasa.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mengapakah Sesetengah Apl Lebih Keras Daripada Yang Lain di Mac? (Dan Bagaimana untuk Menyamakan Mereka)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ia bukan Mac anda — ia adalah audio itu sendiri</h2>
+
+<p>Gelangsar volum sistem tunggal pada macOS mengawal tahap output akhir untuk segala-galanya. Ia tidak menyentuh kenyaringan relatif yang dipanggang ke dalam strim audio setiap apl. Garis dasar itu ditetapkan lama sebelum bunyi mencapai pembesar suara anda, dan ia sangat berbeza dari sumber ke sumber.</p>
+
+<p>Tiga perkara mendorong perbezaan tersebut:</p>
+
+<ul>
+<li><strong>Menguasai tahap.</strong> Lagu pop punchy dikuasai jauh lebih panas daripada rakaman akustik yang tenang atau podcast perkataan yang dituturkan. Filem bercampur untuk pawagam membuat bisikan senyap dan letupan kuat dengan sengaja — itu julat dinamik, dan ini bermakna tahap purata adalah rendah.</li>
+<li><strong>Sasaran normalisasi kenyaringan.</strong> Platform penstriman melaraskan main balik kepada sasaran yang diukur dalam LUFS (Unit Kelantangan berbanding Skala Penuh). Spotify mensasarkan sekitar -14 LUFS, YouTube kira-kira -14 LUFS, Apple Music sekitar -16 LUFS. Apl persidangan video atau permainan menggunakan keuntungannya sendiri sepenuhnya. Dua apl "dinormalkan" kepada sasaran yang berbeza tidak akan sepadan antara satu sama lain.</li>
+<li><strong>Tiada perataan silang apl.</strong> Setiap apl hanya menormalkan kandungannya sendiri. Tiada apa-apa menyelaraskan Spotify melawan Zoom terhadap permainan penyemak imbas. macOS hanya menjumlahkannya dan menghantar campuran keluar.</li>
+</ul>
+
+<h2>Mengapa LUFS penting (secara jelas)</h2>
+
+<p>Tahap puncak memberitahu anda satu-satunya segera yang paling kuat dalam isyarat. LUFS memberitahu anda betapa kuatnya sesuatu sebenarnya <em>terasa</em> dari semasa ke semasa, ditimbang untuk cara pendengaran manusia berfungsi. Perbezaan ini adalah sebab podcast dan trek tarian boleh mencapai kemuncak yang sama tetapi merasakan dunia yang berbeza dengan lantang - trek menghabiskan lebih banyak masa berhampiran silingnya.</p>
+
+<blockquote>Sasaran LUFS yang lebih senyap bermakna lebih banyak ruang kepala dan julat yang lebih dinamik. Sasaran yang lebih kuat bermakna dinding bunyi yang lebih konsisten dan "sentiasa penuh". Kedua-duanya tidak salah — tetapi apabila apl menyasarkan nombor yang berbeza, anda merasakannya sebagai satu apl menjerit dan satu lagi menggumam.</blockquote>
+
+<p>Itulah punca yang jujur. Ia bukan pepijat yang anda boleh tampal. Ia adalah fizik tentang cara audio dihasilkan dan dihantar, didarab merentas sedozen apl yang tidak pernah direka bentuk untuk bersetuju antara satu sama lain.</p>
+
+<h2>Jurang macOS terbuka</h2>
+
+<p>Inilah bahagian yang benar-benar mengecewakan orang: Windows telah menghantar Pengadun Volume setiap apl selama bertahun-tahun. Anda boleh menarik satu apl ke bawah dan menolak satu lagi ke atas, terus dari bar tugas. macOS tidak pernah memasukkan ini. Keutamaan bunyi hanya memberi anda gelangsar induk dan pemilihan peranti output.</p>
+
+<p>Jadi pada Mac pilihan anda secara tradisinya terhad:</p>
+
+<ul>
+<li>Laraskan gelangsar volum dalaman setiap apl — jika ia mempunyai satu. Banyak apl (Zoom, kebanyakan permainan, loceng sistem) tidak mendedahkan yang boleh digunakan.</li>
+<li>Tunggang peluncur induk secara manual setiap kali anda menukar konteks.</li>
+<li>Redamkan satu perkara sepenuhnya, iaitu pembetulan tumpul yang sebenarnya tidak mengimbangi apa-apa.</li>
+</ul>
+
+<p>Tiada satu pun daripada ini mengingati keutamaan anda. Berhenti dan lancarkan semula apl dan anda kembali kepada asal.</p>
+
+<h2>Pembaikan praktikal: volum yang diingati setiap apl</h2>
+
+<p>Memandangkan anda tidak boleh memaksa setiap perkhidmatan untuk menguasai semula katalognya, penyelesaian yang boleh dilaksanakan ialah menambah lapisan yang hilang macOS yang tidak pernah dihantar: volum bebas yang diingati untuk setiap apl. Itulah sebenarnya <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tidak. Ia tinggal dalam bar menu anda dan memberikan setiap apl yang sedang berjalan peluncurnya sendiri, jadi anda boleh menarik yang kuat ke bawah dan mendorong yang senyap ke atas sehingga mereka duduk pada tahap yang anda rasakan.</p>
+
+<p>Untuk meratakan apl anda dalam amalan:</p>
+
+<ul>
+<li>Buka <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daripada bar menu dan anda akan melihat setiap apl aktif dengan kawalannya sendiri.</li>
+<li>Kurangkan apa sahaja yang meledak — biasanya apl muzik atau video yang dikuasai panas — kepada kira-kira 60-70%.</li>
+<li>Biarkan apl rujukan senyap anda (selalunya apl panggilan atau podcast) pada 100% dan gunakan setiap apl <strong>rangsangan</strong> untuk menolaknya melepasi 100% jika ia masih terlalu lembut.</li>
+<li>Tetapkan tahap sekali. SoundDial mengingati volum setiap apl, jadi bakinya akan kekal apabila anda membukanya seterusnya.</li>
+</ul>
+
+<p>Dua ciri melakukan kebanyakan kerja meratakan di sini. <strong>Boost</strong> penting kerana banyak apl terlalu senyap walaupun pada tahap maksimum — peluncur setiap apl yang hanya mengurangkan kelantangan tidak dapat menyelamatkannya, tetapi yang boleh menguatkan 100% lepas boleh. Dan <strong>profil volum</strong> membolehkan anda menyimpan keseluruhan set tahap — katakan, profil "muzik fokus rendah, panggil kuat" untuk kerja berbanding campuran berbeza untuk permainan — dan bertukar antara mereka serta-merta dan bukannya melaraskan semula apl mengikut apl.</p>
+
+<h2>Di mana ini paling membantu</h2>
+
+<p>Kelegaan yang paling biasa ialah lompatan muzik lawan pertemuan: muzik penstriman dikuasai dengan kuat, kemudian apl panggilan yang kedengaran lemah jika dibandingkan. Tetapkan apl panggilan lebih tinggi (atau dirangsang), tarik muzik ke bawah, dan ayunan kelantangan yang mengejutkan hilang. Perkara yang sama berlaku untuk permainan penyemak imbas yang senyap terhadap pemain video yang kuat, atau amaran sistem yang melompat ke atas segala-galanya.</p>
+
+<p>Untuk lebih jelas tentang had: SoundDial mengimbangi perkara yang dikeluarkan oleh apl anda. Ia tidak akan menguasai semula lagu yang dihasilkan dengan teruk dan ia tidak boleh mencipta butiran dalam audio yang dicampur dengan julat dinamik yang sangat luas. Apa yang dilakukannya ialah memberi anda satu kawalan macOS yang ditinggalkan — tahap per-apl yang stabil dan kekal.</p>
+
+<p>Bosan dengan menunggang peluncur induk setiap kali anda menukar apl? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ialah €14.99 sekali sahaja pada Mac App Store — kotak pasir, tiada pemacu, tiada DMG — dan akhirnya memberikan setiap apl volum ingatannya sendiri.</p>`,
   },
 };

@@ -175,7 +175,7 @@ export default async function ArticlePage({
 
   return (
     <main
-      className="min-h-screen bg-neutral-950 text-white"
+      className="min-h-screen bg-[#050506] text-white"
       dir={isRtl ? "rtl" : undefined}
       lang={locale}
     >
@@ -225,7 +225,7 @@ export default async function ArticlePage({
               href={`/vault/blog/${loc.code}/${slug}`}
               className={`rounded-full px-4 py-1.5 text-xs font-medium transition-all ${
                 loc.code === locale
-                  ? "bg-indigo-500 text-white"
+                  ? "bg-[#d4ad5e] text-black"
                   : "bg-neutral-800 text-neutral-400 hover:bg-neutral-700 hover:text-white"
               }`}
             >
@@ -237,10 +237,10 @@ export default async function ArticlePage({
 
       {/* Article Header */}
       <header className="px-6 pt-12 pb-10 sm:pt-16 sm:pb-14 max-w-4xl mx-auto">
-        <time className="text-sm font-medium uppercase tracking-wider text-indigo-400">
+        <time className="text-sm font-medium uppercase tracking-wider text-[#d4ad5e]">
           {article.date}
         </time>
-        <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-[1.1] tracking-tight">
+        <h1 className="font-serif mt-4 text-4xl sm:text-5xl lg:text-6xl font-semibold text-white leading-[1.1] tracking-tight">
           {article.title}
         </h1>
         <p className="mt-6 text-xl text-neutral-300 font-light leading-relaxed max-w-2xl">
@@ -279,18 +279,18 @@ export default async function ArticlePage({
           className={[
             "max-w-3xl",
             "text-[17px] leading-[1.8]",
-            "[&_h2]:text-2xl [&_h2]:sm:text-3xl [&_h2]:font-bold [&_h2]:text-white [&_h2]:mt-12 [&_h2]:mb-4 [&_h2]:leading-tight [&_h2]:tracking-tight",
-            "[&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-white [&_h3]:mt-8 [&_h3]:mb-3 [&_h3]:leading-snug",
+            "[&_h2]:font-serif [&_h2]:text-2xl [&_h2]:sm:text-3xl [&_h2]:font-bold [&_h2]:text-white [&_h2]:mt-12 [&_h2]:mb-4 [&_h2]:leading-tight [&_h2]:tracking-tight",
+            "[&_h3]:font-serif [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-white [&_h3]:mt-8 [&_h3]:mb-3 [&_h3]:leading-snug",
             "[&_p]:text-neutral-200 [&_p]:mb-5",
             "[&_ul]:space-y-2 [&_ul]:mb-6 [&_ul]:text-neutral-200 [&_ul]:list-disc [&_ul]:pl-5",
             "[&_ol]:space-y-2 [&_ol]:mb-6 [&_ol]:text-neutral-200 [&_ol]:list-decimal [&_ol]:pl-5",
             "[&_li]:pl-1 [&_li]:leading-relaxed",
-            "[&_a]:text-indigo-400 [&_a]:hover:text-indigo-300 [&_a]:underline [&_a]:underline-offset-2",
+            "[&_a]:text-[#d4ad5e] [&_a]:hover:text-[#e0bd72] [&_a]:underline [&_a]:underline-offset-2",
             "[&_strong]:text-white [&_strong]:font-semibold",
             "[&_table]:w-full [&_table]:border-collapse [&_table]:mb-6 [&_table]:text-sm",
             "[&_th]:border [&_th]:border-neutral-700 [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:text-white [&_th]:bg-neutral-800/80 [&_th]:font-semibold",
             "[&_td]:border [&_td]:border-neutral-700 [&_td]:px-4 [&_td]:py-3 [&_td]:text-neutral-200",
-            "[&_blockquote]:border-l-4 [&_blockquote]:border-indigo-500 [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
+            "[&_blockquote]:border-l-4 [&_blockquote]:border-[#d4ad5e] [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
           ].join(" ")}
           dangerouslySetInnerHTML={{ __html: article.content }}
         />
@@ -299,7 +299,7 @@ export default async function ArticlePage({
       {relatedArticles.length > 0 ? (
         <section className="px-6 pb-8 max-w-4xl mx-auto">
           <div className="border-t border-neutral-800 pt-12">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white">
+            <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-white">
               {l.relatedTitle}
             </h2>
             <p className="mt-2 text-neutral-400">{l.relatedDescription}</p>
@@ -308,9 +308,9 @@ export default async function ArticlePage({
                 <Link
                   key={related.slug}
                   href={`/vault/blog/${locale}/${related.slug}`}
-                  className="rounded-2xl border border-neutral-800 bg-neutral-900/60 p-5 transition hover:border-indigo-500/60 hover:bg-neutral-900"
+                  className="rounded-2xl border border-neutral-800 bg-neutral-900/60 p-5 transition hover:border-[#d4ad5e]/60 hover:bg-neutral-900"
                 >
-                  <h3 className="font-semibold leading-snug text-white">
+                  <h3 className="font-serif font-semibold leading-snug text-white">
                     {related.title}
                   </h3>
                   <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-neutral-400">
@@ -325,7 +325,7 @@ export default async function ArticlePage({
 
       {/* CTA Banner */}
       <section className="px-6 py-16 max-w-4xl mx-auto">
-        <div className="overflow-hidden rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-12 sm:px-14 text-center">
+        <div className="overflow-hidden rounded-3xl bg-gradient-to-br from-[#d4ad5e]/[0.12] to-[#d4ad5e]/[0.03] border border-[#d4ad5e]/25 px-8 py-12 sm:px-14 text-center">
           <a
             href={appStoreUrl}
             target="_blank"
@@ -340,7 +340,7 @@ export default async function ArticlePage({
               className="mx-auto mb-8 h-64 w-auto rounded-2xl border border-white/10 object-cover object-top shadow-2xl"
             />
           </a>
-          <h2 className="text-3xl sm:text-4xl font-bold text-white">
+          <h2 className="font-serif text-3xl sm:text-4xl font-semibold text-white">
             {l.appTitle}
           </h2>
           <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
@@ -350,7 +350,7 @@ export default async function ArticlePage({
             href={appStoreUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"
+            className="mt-8 inline-block rounded-full bg-[#d4ad5e] text-black px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-[#e0bd72] shadow-lg shadow-[#d4ad5e]/30"
           >
             {l.download}
           </a>
@@ -368,7 +368,7 @@ export default async function ArticlePage({
           </Link>
           <Link
             href={`/vault/blog/${locale}`}
-            className="text-indigo-400 font-medium hover:text-indigo-300 transition"
+            className="text-[#d4ad5e] font-medium hover:text-[#e0bd72] transition"
           >
             Blog
           </Link>

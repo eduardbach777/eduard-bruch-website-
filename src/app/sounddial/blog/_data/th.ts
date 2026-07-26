@@ -40,7 +40,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ช่วยสร้างสภาพแวดล้อมการบันทึกที่สะอาดโดยควบคุมแต่ละแอปแยกกัน:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podcasting setup — guest audio, monitoring, and notifications at independent levels" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podcasting setup — guest audio, monitoring, and notifications at independent levels" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>โปรไฟล์การบันทึก</h3>
 <ul>
@@ -98,7 +98,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้แต่ละแอปมีสไลเดอร์ระดับเสียงของตัวเองที่ <strong>ปรับทีละ 1%</strong> จาก 0% ถึง 200% นั่นคือ 200 ระดับความแม่นยำต่อแอป เทียบกับ 16 (หรือ 64 ด้วยปุ่มพิเศษ) ของ macOS ทั้งระบบ</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% precision on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% precision on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ตั้งระดับเสียงระบบเป็นระดับฐานปานกลาง (50-60%) แล้วใช้ SoundDial ปรับแต่ละแอป:</p>
 <ul>
@@ -149,7 +149,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้ Slack มีสไลเดอร์ระดับเสียงของตัวเอง แยกจากทุกแอป เนื่องจากเสียง huddle และเสียงแจ้งเตือนของ Slack เป็นส่วนหนึ่งของแอปเดียวกัน สไลเดอร์ควบคุมทั้งสอง — แต่นั่นคือสิ่งที่คุณต้องการส่วนใหญ่</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling Slack volume independently during a huddle while music plays at a different level" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling Slack volume independently during a huddle while music plays at a different level" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>ตั้งค่าสำหรับ Huddle</h3>
 <ul>
@@ -198,7 +198,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> มี <strong>ระดับเสียงเริ่มต้นที่ปรับได้</strong> สำหรับแอปใหม่ ในการตั้งค่า คุณกำหนดระดับเสียงที่แอปที่ตรวจพบใหม่ควรเริ่มต้น — เช่น 70% ครั้งแรกที่แอปใดเปิดและสร้างเสียง SoundDial ตั้งเป็น 70% แทน 100%</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial default volume setting — new apps start at a configured level instead of full blast" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial default volume setting — new apps start at a configured level instead of full blast" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>หมายความว่า:</p>
 <ul>
@@ -253,7 +253,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้ทุกแอปบน Mac ของคุณมีสไลเดอร์ระดับเสียงของตัวเอง ตั้งแอปแจ้งเตือนเบาๆ เพลงที่ระดับสบาย และสายโทรเต็มที่ — ทั้งหมดแยกกัน บันทึกการตั้งค่าเป็นโปรไฟล์และสลับด้วยคลิกเดียว</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for managing all Mac audio sources independently" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for managing all Mac audio sources independently" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">ดาวน์โหลด SoundDial จาก Mac App Store</a> — €14.99 ซื้อครั้งเดียว ไม่มีสมัครสมาชิก macOS 14.2+</p>
 `,
@@ -304,7 +304,7 @@ export const thArticles: ArticleSet = {
 
 <p>ถ้าตั้งค่าเต็มแล้วและผู้เข้าร่วมยังเบาเกินไป <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มเสียง Webex ถึง <strong>200%</strong> เพิ่มเสียงสายเกินค่าสูงสุดในตัวของ Webex — มีประโยชน์เมื่อผู้เข้าร่วมมีไมค์ไม่ดีหรือเมื่อการประมวลผลเสียงของ Webex ลดสัญญาณมากเกินไป</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Cisco Webex call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Cisco Webex call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial ยังช่วยระหว่างประชุม Webex ต่อเนื่อง: ใช้การลดเสียงอัตโนมัติเพื่อลดเพลงพื้นหลังเมื่อแต่ละประชุมเริ่ม และคืนค่าระหว่างพัก บันทึกโปรไฟล์ระดับเสียง "Meetings" เพื่อตั้งสมดุลเสียงที่ต้องการสำหรับวันทำงานทันที</p>
 
@@ -347,7 +347,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> วางทุกแอปในแผงเมนูบาร์เดียวด้วยสไลเดอร์ระดับเสียงอิสระ ทั้งสองแหล่งเสียงเคียงข้างกัน แต่ละตัวมีระดับของตัวเอง ปรับตัวหนึ่งโดยไม่แตะอีกตัว</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing two audio sources at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing two audio sources at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ตัวอย่างการตั้งค่า:</p>
 
@@ -411,7 +411,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณสร้างการตั้งค่าดูดึกที่สมบูรณ์แบบ:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial late-night movie setup — streaming app at moderate volume, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial late-night movie setup — streaming app at moderate volume, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>โปรไฟล์ดูหนังดึก</h3>
 <ul>
@@ -473,7 +473,7 @@ export const thArticles: ArticleSet = {
 
 <p>แม้ระดับเสียงระบบรีเซ็ตหลังพักเครื่อง <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ปกป้องสมดุล <em>ต่อแอป</em> ของคุณ ฟีเจอร์ <strong>จดจำระดับเสียง</strong> บันทึกระดับเสียงแต่ละแอปแยกกันและคืนค่าหลังตื่น รีสตาร์ท หรือเปิดแอปใหม่</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial preserving per-app volume levels after Mac sleep and wake cycles" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial preserving per-app volume levels after Mac sleep and wake cycles" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ดังนั้นแม้ macOS รีเซ็ตระดับเสียงระบบเป็น 80% หลังพักเครื่อง สมดุลต่อแอปยังคงเดิม:</p>
 <ul>
@@ -518,7 +518,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณตั้งระดับเสียงที่แน่นอนสำหรับทุกแอปแยกกัน:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separating DAW output from Discord and reference tracks on macOS for music production" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separating DAW output from Discord and reference tracks on macOS for music production" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>การตั้งค่าสำหรับการผลิต</h3>
 <ul>
@@ -586,7 +586,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มเสียง Apple Music ถึง <strong>200%</strong> สัญญาณเสียงถูกขยายที่ระดับระบบก่อนถึงลำโพงหรือหูฟัง เฉพาะ Apple Music ที่ดังขึ้น — Zoom, Slack และเบราว์เซอร์ยังอยู่ที่ระดับปัจจุบัน</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Apple Music volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Apple Music volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สิ่งนี้ยังมีประโยชน์สำหรับปัญหาตรงข้าม: ถ้า Apple Music ดังเกินไปเทียบกับสาย Zoom ลด Apple Music เป็น 25% ใน SoundDial ขณะที่ Zoom อยู่ที่ 100% การควบคุมแยกแอปหมายความว่าไม่ต้องประนีประนอมระดับเสียงของแอปหนึ่งเพื่ออีกแอป</p>
 
@@ -621,7 +621,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> วาง Spotify และ Discord ในแผงเดียวด้วยสไลเดอร์ระดับเสียงอิสระ ตั้งอัตราส่วนที่ต้องการแล้วปล่อย:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balancing Spotify and Discord at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balancing Spotify and Discord at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>อัตราส่วนทองสำหรับเพลง + วอยซ์แชท</h3>
 <p>จากวิธีที่คนส่วนใหญ่ใช้:</p>
@@ -684,7 +684,7 @@ export const thArticles: ArticleSet = {
 
 <p>ทั้งห้าอย่างนี้มีใน <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — แอปเมนูบาร์ macOS ดั้งเดิมที่เพิ่มมิกเซอร์ระดับเสียงที่ Apple ไม่เคยสร้าง</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume control, profiles, auto-ducking, and 200% boost for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control, profiles, auto-ducking, and 200% boost for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>ส่วนที่ 6: ระดับเสียงแยกแอปด้วย SoundDial</h2>
 
@@ -777,7 +777,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ราคา €14.99 — ครั้งเดียว ไม่ใช่สมัครสมาชิก ถ้าเทียบ น้อยกว่า Spotify สมัครสมาชิกสองเดือน สำหรับเครื่องมือที่ใช้ทุกวัน น้อยกว่าครึ่งราคาของ SoundSource ($39) และมีฟีเจอร์ (โปรไฟล์ การลดเสียงอัตโนมัติ) ที่ SoundSource ไม่มี</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — reliable per-app volume mixer for Mac with profiles, auto-ducking, and 200% boost" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — reliable per-app volume mixer for Mac with profiles, auto-ducking, and 200% boost" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>มีบน <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — ตรวจสอบโดย Apple แซนด์บ็อกซ์ ไม่มีไดรเวอร์ระบบ €14.99 ครั้งเดียว ไม่มีสมัครสมาชิก macOS 14.2+</p>
 `,
@@ -822,7 +822,7 @@ export const thArticles: ArticleSet = {
 
 <p>นี่คือการขยายที่สุดขีดและอาจเกิดการบิดเบือนกับเนื้อหาบางอย่าง แต่สำหรับวัสดุต้นทางที่เบามากอาจเป็นสิ่งที่คุณต้องการ</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting VLC volume at the system level on macOS for quiet video files" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting VLC volume at the system level on macOS for quiet video files" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ที่สำคัญกว่านั้น SoundDial ให้คุณบูสต์ VLC <strong>อย่างอิสระ</strong> เพลย์เยอร์เพลง เบราว์เซอร์ และแอปสื่อสารยังคงอยู่ที่ระดับปกติ ในขณะที่เฉพาะ VLC จะดังขึ้น ถ้าคุณบูสต์ VLC ถึง 180% ใน SoundDial Spotify จะไม่เปลี่ยน นี่คือสิ่งที่การบูสต์ในตัว VLC ทำไม่ได้</p>
 
@@ -881,7 +881,7 @@ export const thArticles: ArticleSet = {
   <li><strong>สลับง่าย:</strong> เปิดหรือปิดการลดเสียงอัตโนมัติในการตั้งค่าของ SoundDial ได้ตามต้องการ</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial configurable auto-ducking — control exactly how much background audio is lowered during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configurable auto-ducking — control exactly how much background audio is lowered during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ความแตกต่าง: แทนที่แอปบางตัวจะตัดสินใจว่าเพลงของคุณควรเป็นศูนย์ระหว่างทุกการโทร คุณตัดสินใจเองว่าควรเป็น 25% แทนที่จะสูญเสียการควบคุม คุณได้ควบคุมคืนมา</p>
 
@@ -944,7 +944,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> บูสต์ระดับเสียงของแอปใดๆ ได้ถึง <strong>200%</strong> ถ้า Spotify ผ่านหูฟัง Bluetooth เบาเกินไป ลากแถบเป็น 160% สัญญาณเสียงจะถูกขยายก่อนถึงหูฟัง ซึ่งเท่ากับเพิ่มระดับเสียงสูงสุดสำหรับแอปนั้นเป็นสองเท่า</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting app volume for Bluetooth headphones on Mac with per-app sliders to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting app volume for Bluetooth headphones on Mac with per-app sliders to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>การบูสต์แยกแอปดีกว่าการบูสต์ระดับเสียงทั้งระบบเพราะคุณสามารถขยายเฉพาะแอปที่เบา ถ้าพอดแคสต์เบาแต่เพลงดีอยู่ บูสต์แอปพอดแคสต์เป็น 170% ในขณะที่ Spotify อยู่ที่ 80%</p>
 
@@ -979,7 +979,7 @@ export const thArticles: ArticleSet = {
 
 <p>นี่คือสิ่งที่ <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ทำ ตั้งค่าแต่ละแอปในระดับที่คุณต้องการให้ผู้ชมได้ยิน:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balancing game, Discord, and music audio levels for OBS streaming on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balancing game, Discord, and music audio levels for OBS streaming on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>การตั้งค่าเสียงสตรีมทั่วไป</h3>
 <ul>
@@ -1022,7 +1022,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> มีฟีเจอร์ <strong>Volume Memory</strong> เมื่อเปิดใช้ จะบันทึกระดับเสียงของแต่ละแอปตาม bundle identifier เมื่อแอปออกและเปิดใหม่ — ไม่ว่าคุณจะรีสตาร์ทมัน มันหยุดทำงาน หรือคุณรีสตาร์ท Mac — SoundDial จะคืนค่าระดับเสียงที่บันทึกไว้โดยอัตโนมัติ</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume memory — automatically remembers and restores per-app volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume memory — automatically remembers and restores per-app volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>วิธีทำงาน</h3>
 <ol>
@@ -1087,7 +1087,7 @@ export const thArticles: ArticleSet = {
 
 <p>การแก้ไขสากลคือการขยายแอปพอดคาสต์ของคุณเกินขีดจํากัด 100% ของ macOS <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้ทุกแอพมีแถบเลื่อนระดับเสียงสูงสุด <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงของ Apple Podcasts เป็น 180% บน Mac สําหรับตอนของพ็อดคาสท์ที่เงียบสงบ" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงของ Apple Podcasts เป็น 180% บน Mac สําหรับตอนของพ็อดคาสท์ที่เงียบสงบ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ตั้งค่า Apple Podcasts หรือแอพพอดแคสต์ของคุณเป็น 160-180% ในขณะที่คงเพลง Spotify ไว้ที่ 40% และ Slack ที่ 15% พอดคาสต์จะดังขึ้นโดยไม่ทําให้ทุกอย่างดังจนเจ็บปวด เมื่อคุณเปลี่ยนกลับไปใช้เพลง เพียงแค่วางแอปพอดแคสต์กลับเป็นปกติ หรือปล่อยให้หน่วยความจําระดับเสียงของ SoundDial จดจําโดยอัตโนมัติ</p>
 
@@ -1132,7 +1132,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้แถบเลื่อนระดับเสียงของแต่ละแอปเป็นของตัวเอง คุณจึงสามารถสร้างการตั้งค่าเสียงสําหรับการศึกษาในอุดมคติได้</p>
 
-<img src="/apps/sounddial.png" alt="การตั้งค่า SoundDial นักเรียน — บรรยายที่ระดับเสียงเต็ม, เรียนเพลงเบา, ปิดเสียงการแจ้งเตือน" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="การตั้งค่า SoundDial นักเรียน — บรรยายที่ระดับเสียงเต็ม, เรียนเพลงเบา, ปิดเสียงการแจ้งเตือน" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>โปรไฟล์การบรรยาย</h3>
 <ul>
@@ -1174,6 +1174,9 @@ export const thArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>คุณได้ปรับปรุง macOS ทุกอย่างดูเรียบร้อยดี จนกระทั่งคุณสังเกตเห็นว่าไม่มีเสียง หรือเสียงแตก หรือระดับเสียงค้าง หรืออุปกรณ์เอาต์พุตเสียงของคุณหายไป ปัญหาเสียงหลังการอัปเดตเกิดขึ้นกับเกือบทุกรุ่นของ macOS และมีตั้งแต่น่ารําคาญเล็กน้อยไปจนถึงเงียบสนิท</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>ต่อไปนี้เป็นคําแนะนําอย่างเป็นระบบในการแก้ไขเสียง Mac หลังจากการอัปเดต macOS ซึ่งครอบคลุมทุกปัญหาและวิธีแก้ไขที่ทราบ</p>
 
@@ -1278,7 +1281,7 @@ export const thArticles: ArticleSet = {
   <li>Spotify กลับไปเป็น 30%, ซูมเป็น 100%, Slack เป็น 15% — ได้รับการกู้คืนอย่างสมบูรณ์แบบ</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial ทางลัดปิดเสียงทั้งหมด — Control+Option+M เพื่อปิดเสียงและเปิดเสียงแอปทั้งหมดด้วยการคืนค่าระดับเสียง" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ทางลัดปิดเสียงทั้งหมด — Control+Option+M เพื่อปิดเสียงและเปิดเสียงแอปทั้งหมดด้วยการคืนค่าระดับเสียง" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ความแตกต่างจากปุ่มปิดเสียงของระบบ:</p>
 <ul>
@@ -1341,7 +1344,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้ Chrome แถบเลื่อนระดับเสียงของตัวเองที่ขึ้นไปถึง <strong>200%</strong>. เนื่องจาก Google Meet ทํางานภายใน Chrome การโปรโมท Chrome จึงช่วยเพิ่ม Meet ลากแถบเลื่อนไปที่ 150% หรือ 180% และเสียงการโทรจะถูกขยายแบบเรียลไทม์</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียง Google Meet (Chrome) ให้เกิน 100% บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียง Google Meet (Chrome) ให้เกิน 100% บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>วิธีนี้ยังใช้ได้กับ Safari หากคุณใช้ Meet ใน Safari SoundDial ควบคุมเบราว์เซอร์แต่ละตัวอย่างอิสระ — เพิ่ม Safari สําหรับ Meet ในขณะที่รักษา Chrome ให้อยู่ในระดับเสียงปกติสําหรับทุกสิ่งทุกอย่าง</p>
 
@@ -1393,7 +1396,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้แถบเลื่อนระดับเสียงของตัวเองแก่ทุกแอป คุณสามารถตั้งค่าแอปที่มีการแจ้งเตือนจํานวนมากให้อยู่ในระดับที่ละเอียดอ่อนซึ่งสังเกตเห็นได้ชัดเจน แต่ไม่สั่นสะเทือนในขณะที่รักษาแอปสื่อให้อยู่ในระดับเสียงที่ฟังสบาย</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial แยกระดับเสียงของแอปการแจ้งเตือนออกจากระดับเสียงของแอปสื่อบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial แยกระดับเสียงของแอปการแจ้งเตือนออกจากระดับเสียงของแอปสื่อบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>ตัวอย่างการตั้งค่า</h3>
 <p><strong>แอพสื่อ:</strong></p>
@@ -1466,7 +1469,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มระดับเสียงของ FaceTime ได้สูงสุด <strong>200%</strong>. เปิดแผงแถบเมนู ค้นหา FaceTime แล้วลากแถบเลื่อนเกิน 100% เสียงการโทรถูกขยายแบบเรียลไทม์โดยไม่ส่งผลกระทบต่อแอปอื่น</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงการโทร FaceTime ให้เกิน 100% เมื่อ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงการโทร FaceTime ให้เกิน 100% เมื่อ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial ยังช่วยในทางตรงกันข้าม: หากเสียงเรียกเข้าหรือเสียงแจ้งเตือนของ FaceTime ดังเกินไปในช่วงเวลาโฟกัส ให้ลด FaceTime ลงเหลือ 20% หรือปิดเสียงในขณะที่เล่นเพลงต่อไป คลิกเดียวเพื่อปิดเสียง คลิกเดียวเพื่อเปิดเสียง</p>
 
@@ -1520,7 +1523,7 @@ export const thArticles: ArticleSet = {
 <h3>ปิดเสียงแอปทั้งหมด: Control + Option + M</h3>
 <p>ข่าวประชา <strong>⌃⌥ม</strong> เพื่อปิดเสียงของทุกแอปทันที กดอีกครั้งเพื่อเปิดเสียงทุกอย่าง โดยคืนค่าแต่ละแอปกลับเป็นระดับเสียงก่อนหน้า นี่คือปุ่ม "ปิดเสียงทันที" ที่เร็วกว่าการเอื้อมมือไปที่ปุ่มปิดเสียง และไม่เหมือนกับปุ่มปิดเสียงของระบบตรงที่ปุ่มนี้จะคืนค่าระดับเสียงต่อแอปเมื่อคุณเปิดเสียง</p>
 
-<img src="/apps/sounddial.png" alt="แป้นพิมพ์ลัด SoundDial — Control+Option+S เพื่อสลับ, Control+Option+M เพื่อปิดเสียงทั้งหมด" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="แป้นพิมพ์ลัด SoundDial — Control+Option+S เพื่อสลับ, Control+Option+M เพื่อปิดเสียงทั้งหมด" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>เวิร์กโฟลว์ที่ขับเคลื่อนด้วยแป้นพิมพ์</h2>
 
@@ -1585,7 +1588,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ใช้ Audio Tap API ที่ทันสมัย — ไม่มีอุปกรณ์เสียงเสมือน ไม่มีไดรเวอร์ระบบ ไม่มีส่วนขยายเคอร์เนล มันแตะสตรีมเสียงของแต่ละแอปโดยตรงโดยใช้ API ที่รองรับของ Apple ซึ่งหมายความว่าจะไม่หยุดทํางานเมื่อ macOS อัปเดต</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — ทางเลือกเพลงประกอบที่ไม่ติดตั้งอุปกรณ์เสียงเสมือน" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือกเพลงประกอบที่ไม่ติดตั้งอุปกรณ์เสียงเสมือน" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สิ่งที่คุณได้รับจากเพลงประกอบ:</p>
 <ul>
@@ -1708,7 +1711,7 @@ export const thArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก SoundSource ที่เบากว่าและโฟกัสพร้อมโปรไฟล์ระดับเสียงและการลดอัตโนมัติ" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก SoundSource ที่เบากว่าและโฟกัสพร้อมโปรไฟล์ระดับเสียงและการลดอัตโนมัติ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>คุณควรเลือกแบบไหน?</h2>
 
@@ -1752,7 +1755,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้แถบเลื่อนระดับเสียงต่อแอปพร้อมการควบคุมแบบละเอียด โดยแถบเลื่อนแต่ละตัวจะเลื่อนทีละ 1% ตั้งแต่ 0% ถึง 200% คุณสามารถตั้งค่า Spotify เป็น 5% และซูมเป็น 40% ได้ในเวลาเดียวกัน ระดับการควบคุมนั้นละเอียดกว่า 16 ขั้นตอนของระบบของ macOS อย่างมาก</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial การควบคุมระดับเสียงต่อแอปแบบละเอียดโดยเพิ่มขึ้นทีละ 1% เมื่อ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial การควบคุมระดับเสียงต่อแอปแบบละเอียดโดยเพิ่มขึ้นทีละ 1% เมื่อ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สําหรับการใช้หูฟังตอนดึก:</p>
 <ul>
@@ -1777,6 +1780,9 @@ export const thArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>AirPods หนึ่งอันฟังดูดี อีกอันเงียบกว่าอย่างเห็นได้ชัด ดนตรีให้ความรู้สึกนอกศูนย์กลาง เสียงฟังดูเหมือนมาจากด้านหนึ่ง นี่เป็นหนึ่งในข้อร้องเรียนของ AirPods ที่พบบ่อยที่สุด และมักจะมีการแก้ไขง่ายๆ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. ทําความสะอาด AirPods ของคุณ</h2>
 
@@ -1891,7 +1897,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มแอปใดก็ได้ให้ <strong>200%</strong>. หาก Safari หรือแอป Netflix เงียบเกินไป ให้ลากแถบเลื่อนเกิน 100% เสียงจะถูกขยายก่อนที่จะไปถึงลําโพงของคุณ ซึ่งจะเพิ่มระดับเสียงสูงสุดเป็นสองเท่าสําหรับแอปนั้นเท่านั้น</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มเสียง Netflix เป็น 180% บน Mac เพื่อบทสนทนาและการสตรีมเสียงที่ชัดเจนยิ่งขึ้น" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มเสียง Netflix เป็น 180% บน Mac เพื่อบทสนทนาและการสตรีมเสียงที่ชัดเจนยิ่งขึ้น" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สิ่งนี้มีประโยชน์อย่างยิ่งเมื่อ:</p>
 <ul>
@@ -1974,7 +1980,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> เติมเต็มช่องว่างนี้โดยให้แถบเลื่อนระดับเสียงของตัวเองทุกแอป ตั้งค่าเสียงการทํางานระยะไกลของคุณในแบบที่คุณต้องการ:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial การตั้งค่าเสียงการทํางานระยะไกล — ระดับเสียงที่แตกต่างกันสําหรับ Zoom, Spotify และ Slack บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial การตั้งค่าเสียงการทํางานระยะไกล — ระดับเสียงที่แตกต่างกันสําหรับ Zoom, Spotify และ Slack บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>บันทึกโปรไฟล์สําหรับแต่ละโหมด</h3>
 
@@ -2069,7 +2075,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้เบราว์เซอร์ของคุณมีแถบเลื่อนระดับเสียงของตัวเอง เป็นอิสระจากแอปอื่นๆ ลด Safari ลงเหลือ 30% ในขณะที่ยังคงซูมไว้ที่ 100% ปิดเสียง Chrome ทั้งหมดในขณะที่เล่น Spotify ต่อไป คลิกเดียว</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ควบคุมระดับเสียงของเบราว์เซอร์อย่างอิสระจากแอปอื่นๆ บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ควบคุมระดับเสียงของเบราว์เซอร์อย่างอิสระจากแอปอื่นๆ บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>นี่เป็นวิธีที่เร็วที่สุดในการจัดการแท็บเล่นอัตโนมัติที่น่าประหลาดใจ: แทนที่จะค้นหาว่าแท็บใดส่งเสียงดัง ให้คลิก SoundDial ในแถบเมนูและปิดเสียงเบราว์เซอร์ ทุกอย่างยังคงเล่นต่อไป เมื่อคุณพบและปิดแท็บที่ไม่เหมาะสมแล้ว ให้เปิดเสียงเบราว์เซอร์และระดับเสียงจะกลับสู่ตําแหน่งเดิม</p>
 
@@ -2111,7 +2117,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้แถบเลื่อนระดับเสียงของ Discord ในแถบเมนูของคุณเป็นอิสระจากแอปอื่น ๆ ตั้งค่า Discord ให้อยู่ในระดับที่คุณต้องการ — 100% สําหรับการแชทด้วยเสียงที่ชัดเจน 40% สําหรับพื้นหลังที่ละเอียดอ่อน หรือปิดเสียงทั้งหมด — โดยไม่ต้องแตะต้องเกม เพลง หรือสิ่งอื่นใด</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ควบคุมระดับเสียง Discord โดยไม่ขึ้นกับเกมและเพลงบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ควบคุมระดับเสียง Discord โดยไม่ขึ้นกับเกมและเพลงบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>การตั้งค่าทั่วไป</h3>
 
@@ -2187,7 +2193,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> มีตัวเลือกอุปกรณ์เอาต์พุตในป๊อปโอเวอร์แถบเมนู ควบคู่ไปกับแถบเลื่อนระดับเสียงต่อแอปของคุณ คลิกเดียวเพื่อเปิด SoundDial คลิกเดียวเพื่อสลับอุปกรณ์ ไม่ต้องขุดผ่านการตั้งค่าระบบ</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ด้วยการสลับอุปกรณ์เอาต์พุตเสียงและการควบคุมระดับเสียงต่อแอปในแผงแถบเมนูเดียว" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ด้วยการสลับอุปกรณ์เอาต์พุตเสียงและการควบคุมระดับเสียงต่อแอปในแผงแถบเมนูเดียว" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ข้อดีของการสลับอุปกรณ์ภายใน SoundDial: คุณสามารถเปลี่ยนเอาต์พุตได้ <em>และ</em> ปรับระดับเสียงต่อแอปในแผงเดียวกัน เปลี่ยนไปใช้ AirPods และลด Spotify ทันทีในขณะที่เพิ่มการโทรของคุณ ทั้งหมดนี้โดยไม่ต้องออกจากป๊อปโอเวอร์</p>
 
@@ -2205,6 +2211,9 @@ export const thArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>คุณกําลังฟังเพลงและได้ยินเสียงป๊อป จากนั้นก็มีเสียงแตก จากนั้นเสียงพูดติดอ่างที่เสียงตัดออกไปเพียงเสี้ยววินาทีแล้วกลับมา มันไม่ใช่เพลง แต่เป็น Mac ของคุณ เสียงแตกบน macOS เป็นเรื่องธรรมดาอย่างน่าบ้าคลั่ง และมีสาเหตุที่แตกต่างกันอย่างน้อยหกประการ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>คู่มือนี้ครอบคลุมทุกสาเหตุที่ทราบของเสียงแตก เสียงแตก และกระตุกบน Mac ตั้งแต่การแก้ไขซอฟต์แวร์ไปจนถึงปัญหาฮาร์ดแวร์ที่คุณควรรู้</p>
 
@@ -2332,7 +2341,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มระดับเสียงของแอปเป็น <strong>200%</strong>รวมถึง Microsoft Teams ลากแถบเลื่อนของ Teams ไปที่ 150% หรือ 180% และเสียงจะถูกขยายแบบเรียลไทม์ มีเพียง Teams เท่านั้นที่ดังขึ้น — เพลง เบราว์เซอร์ และแอปอื่นๆ ของคุณจะยังคงอยู่ในระดับปัจจุบัน</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มปริมาณการโทรของ Microsoft Teams ให้เกิน 100% บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มปริมาณการโทรของ Microsoft Teams ให้เกิน 100% บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial ยังช่วยแก้ปัญหาย้อนกลับ: หากเสียงแจ้งเตือนของ Teams ดังเกินไปในช่วงเวลาโฟกัส ให้ลด Teams ลงเหลือ 15% หรือปิดเสียงทั้งหมดในขณะที่เล่นเพลงต่อไป คลิกเดียวเพื่อปิดเสียง คลิกเดียวเพื่อเปิดเสียง</p>
 
@@ -2348,6 +2357,9 @@ export const thArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>คุณกําลังอยู่ในวิดีโอคอล หย่อนยังคงดัง เพลงกําลังเล่นอยู่เบื้องหลัง คุณเอื้อมมือไปหยิบปุ่มปรับระดับเสียงและ — ทุกอย่างเงียบลง การโทร เพลง การแจ้งเตือน macOS มีแถบเลื่อนระดับเสียงเพียงตัวเดียว และควบคุมทุกอย่างได้ในคราวเดียว</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows มีตัวผสมระดับเสียงต่อแอปตั้งแต่ Vista ในปี 2006 ยี่สิบปีต่อมา macOS ก็ยังไม่ทํา หากคุณต้องการปฏิเสธ Spotify โดยไม่กระทบต่อการโทรผ่าน Zoom Apple ไม่มีคําตอบในตัวสําหรับคุณ</p>
 
@@ -2455,7 +2467,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้ Slack แถบเลื่อนระดับเสียงอิสระของตัวเอง ตั้งค่าเป็นระดับที่เหมาะกับคุณ หรือปิดเสียงทั้งหมดได้ด้วยคลิกเดียว เมื่อคุณพร้อมที่จะให้ความสนใจกับ Slack อีกครั้ง ให้เปิดเสียงและระดับเสียงจะกลับสู่เดิม</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial โดยปิดเสียง Slack และ Spotify เล่นที่ระดับเสียงปกติบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial โดยปิดเสียง Slack และ Spotify เล่นที่ระดับเสียงปกติบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>เวิร์กโฟลว์ Slack ในอุดมคติ</h3>
 <ul>
@@ -2507,7 +2519,7 @@ export const thArticles: ArticleSet = {
 <h3>การสลับโปรไฟล์</h3>
 <p>โปรไฟล์ที่บันทึกไว้ของคุณจะปรากฏเป็นปุ่มในป๊อปโอเวอร์ของ SoundDial คลิกหนึ่งและทุกแอปจะเปลี่ยนเป็นโวลุ่มที่บันทึกไว้ในโปรไฟล์นั้นทันที คลิกเดียวแทนที่การปรับด้วยตนเองห้าหรือหกครั้ง</p>
 
-<img src="/apps/sounddial.png" alt="โปรไฟล์ระดับเสียง SoundDial — สลับระหว่างโหมดการประชุม โฟกัส และชิลล์ในคลิกเดียวบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="โปรไฟล์ระดับเสียง SoundDial — สลับระหว่างโหมดการประชุม โฟกัส และชิลล์ในคลิกเดียวบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>ตัวอย่างโปรไฟล์</h3>
 
@@ -2605,7 +2617,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มระดับเสียงของแอปเป็น <strong>200%</strong> — รวมถึงการซูม หากผู้เข้าร่วมเงียบเกินไป ให้ลากแถบเลื่อนของ Zoom ไปที่ 150% หรือ 180% สัญญาณเสียงถูกขยายเกินค่าสูงสุดในตัวของ Zoom ทําให้ได้ยินแม้กระทั่งเสียงที่เงียบที่สุด</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงการโทรแบบซูมเป็น 180% เมื่อ Mac เพื่อเสียงที่ชัดเจนยิ่งขึ้นระหว่างการสนทนาทางวิดีโอ" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงการโทรแบบซูมเป็น 180% เมื่อ Mac เพื่อเสียงที่ชัดเจนยิ่งขึ้นระหว่างการสนทนาทางวิดีโอ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ข้อได้เปรียบที่สําคัญ: การเพิ่ม Zoom จะไม่ส่งผลกระทบต่อสิ่งอื่นใด เพลง การแจ้งเตือน และแอปอื่นๆ ของคุณจะยังคงอยู่ในระดับปัจจุบัน ซูมเท่านั้นที่ดังขึ้น</p>
 
@@ -2644,7 +2656,7 @@ export const thArticles: ArticleSet = {
 
 <p>เสร็จแล้ว. Spotify เงียบกว่า การซูมไม่เปลี่ยนแปลง การแจ้งเตือนจะไม่เปลี่ยนแปลง ทุกอย่างไม่เปลี่ยนแปลง คุณไม่ได้ออกจากแอปปัจจุบัน — ป๊อปโอเวอร์แถบเมนูจะเปิดขึ้นในที่ที่คุณอยู่</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ลดระดับเสียง Spotify อย่างอิสระในขณะที่เปิดแอปอื่นๆ ไว้ที่ระดับเสียงเต็มที่ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ลดระดับเสียง Spotify อย่างอิสระในขณะที่เปิดแอปอื่นๆ ไว้ที่ระดับเสียงเต็มที่ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>ยิ่งไปกว่านั้น: บันทึกเป็นโปรไฟล์</h2>
 
@@ -2697,7 +2709,7 @@ export const thArticles: ArticleSet = {
 
 <p>เนื่องจาก Apple จะไม่สร้าง แอพของบุคคลที่สามจึงเติมเต็มช่องว่าง <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> เป็นแอปแถบเมนู macOS ดั้งเดิมที่ให้ตัวผสมระดับเสียง — แถบเลื่อนระดับเสียงอิสระสําหรับทุกแอปพลิเคชันที่ทํางานอยู่</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ให้การควบคุมระดับเสียงต่อแอปบน macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ให้การควบคุมระดับเสียงต่อแอปบน macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial เข้ากันได้กับ macOS Tahoe อย่างสมบูรณ์ และใช้ Core Audio Tap API ที่ทันสมัยของ Apple โดยไม่จําเป็นต้องใช้ไดรเวอร์เสียงของบริษัทอื่นหรือส่วนขยายเคอร์เนล มันทํางานได้ดีกับรูปแบบความปลอดภัยของ macOS และไม่รบกวนแอพเสียงอื่นๆ</p>
 
@@ -2759,7 +2771,7 @@ export const thArticles: ArticleSet = {
 
 <p>การโทรของคุณชัดเจน ดนตรีเป็นพื้นหลังที่ละเอียดอ่อน ไม่จําเป็นต้องเปลี่ยนอุปกรณ์</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial แสดงการซูมที่ระดับเสียงเต็มที่และ Spotify ลดลงระหว่างการโทรบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial แสดงการซูมที่ระดับเสียงเต็มที่และ Spotify ลดลงระหว่างการโทรบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ดียิ่งขึ้นไปอีก: SoundDial <strong>หลบอัตโนมัติ</strong> ทําสิ่งนี้โดยอัตโนมัติ เมื่อคุณเข้าร่วมการโทร ระบบจะตรวจพบว่าไมโครโฟนของคุณเปิดใช้งานและลดแอปพื้นหลังทั้งหมดให้อยู่ในระดับที่คุณกําหนดค่า (ค่าเริ่มต้น 30%) เมื่อวางสาย ทุกอย่างจะกลับมาเป็นปกติ ไม่จําเป็นต้องปรับตัวเลื่อนด้วยตนเอง</p>
 
@@ -2820,7 +2832,7 @@ export const thArticles: ArticleSet = {
 
 <p>แม้ว่าคุณจะไม่สามารถป้องกันไม่ให้ macOS เปลี่ยนโวลุ่มของระบบได้ คุณก็สามารถปกป้อง <em>ต่อแอป</em> ความสมดุลของระดับเสียง <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> จดจําระดับเสียงของทุกแอปอย่างอิสระ เมื่อแอปรีสตาร์ทหรือเมื่อ Mac ของคุณปลุกจากโหมดพักเครื่อง SoundDial จะคืนค่าแต่ละแอปกลับเป็นระดับเสียงที่บันทึกไว้</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial จดจําระดับเสียงต่อแอปในการรีสตาร์ทเมื่อ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial จดจําระดับเสียงต่อแอปในการรีสตาร์ทเมื่อ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ซึ่งหมายความว่าแม้ว่าระดับเสียงของระบบจะเปลี่ยนไป แต่ยอดคงเหลือระดับแอปของคุณจะยังคงสอดคล้องกัน:</p>
 <ul>
@@ -2883,7 +2895,7 @@ export const thArticles: ArticleSet = {
 
 <p>SoundDial ใช้ Core Audio Tap API ที่ทันสมัยของ Apple เพื่อการควบคุมเสียงต่อกระบวนการที่ชัดเจน มีน้ําหนักเบา ทํางานทั้งหมดในแถบเมนู และไม่ต้องตั้งค่าที่ซับซ้อน ในราคา 14.99 ยูโร ราคาถูกกว่า SoundSource (39 ดอลลาร์) อย่างมาก ในขณะที่มีคุณสมบัติที่ SoundSource ขาด — โปรไฟล์ระดับเสียงและการลดอัตโนมัติ และเนื่องจากอยู่ใน Mac App Store จึงได้รับการตรวจสอบโดย Apple แซนด์บ็อกซ์ และติดตั้งได้อย่างหมดจดโดยไม่ต้องดาวน์โหลด DMG หรือติดตั้งไดรเวอร์เสียงของระบบ</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ตัวผสมระดับเสียงต่อแอปที่แสดงแถบเลื่อนระดับเสียงของแอปแต่ละรายการบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ตัวผสมระดับเสียงต่อแอปที่แสดงแถบเลื่อนระดับเสียงของแอปแต่ละรายการบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>แหล่งที่มาของเสียง (อะมีบาอันธพาล)</h3>
 
@@ -3056,7 +3068,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> แก้ปัญหานี้โดยให้แถบเลื่อนระดับเสียงอิสระแก่ทุกแอป รวมถึง Safari และ Chrome ซึ่งเปลี่ยนจาก 0% เป็น <strong>200%</strong>. หากวิดีโอ YouTube เงียบเกินไป ให้ลากแถบเลื่อนของเบราว์เซอร์ไปที่ 150% หรือ 180% เสียงถูกขยายแบบเรียลไทม์โดยไม่ส่งผลกระทบต่อแอปอื่น</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงของเบราว์เซอร์ Safari เป็น 180% สําหรับวิดีโอ YouTube ที่เงียบบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงของเบราว์เซอร์ Safari เป็น 180% สําหรับวิดีโอ YouTube ที่เงียบบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สิ่งนี้มีประโยชน์อย่างยิ่งเนื่องจาก:</p>
 <ul>
@@ -3108,7 +3120,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ไม่. มันให้แถบเลื่อนระดับเสียงของตัวเองสําหรับทุกแอป ดังนั้นคุณจึงสามารถตั้งค่าแอปที่มีการแจ้งเตือนจํานวนมาก เช่น Slack, Mail และ Calendar ให้มีระดับเสียงที่ต่ําลงมากในขณะที่รักษาแอปสื่อของคุณให้อยู่ในระดับที่สะดวกสบาย</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial แสดง Slack ที่ระดับเสียงต่ําและ Spotify ที่ระดับเสียงปกติ — การควบคุมการแจ้งเตือนอิสระบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial แสดง Slack ที่ระดับเสียงต่ําและ Spotify ที่ระดับเสียงปกติ — การควบคุมการแจ้งเตือนอิสระบน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>การตั้งค่าที่เหมาะกับหูฟังทั่วไป</h3>
 <ul>
@@ -3177,7 +3189,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้สิ่งนี้แก่คุณ คุณสมบัติการหลบอัตโนมัติจะตรวจสอบไมโครโฟนของคุณและปรับเสียงพื้นหลังโดยอัตโนมัติเมื่อเริ่มการโทร แต่ <strong>คุณควบคุมระดับเป็ด</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial การตั้งค่าการลดอัตโนมัติ — การลดระดับเสียงที่กําหนดค่าได้ระหว่างการโทรแบบซูมบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial การตั้งค่าการลดอัตโนมัติ — การลดระดับเสียงที่กําหนดค่าได้ระหว่างการโทรแบบซูมบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>วิธีการทํางาน</h3>
 <ol>
@@ -3259,7 +3271,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มระดับเสียงของแอพได้สูงสุด <strong>200%</strong>. หาก Spotify เงียบเกินไปผ่าน AirPods ของคุณ ให้ลากแถบเลื่อนของ Spotify ไปที่ 150% หรือ 180% ใน SoundDial สัญญาณเสียงจะถูกขยายก่อนที่จะส่งไปยัง AirPods ของคุณ ซึ่งทําให้สัญญาณเสียงดังกว่าที่ Apple ตั้งใจไว้อย่างมีประสิทธิภาพ</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงของแอปสําหรับ AirPods บน Mac ด้วยแถบเลื่อนระดับเสียงต่อแอปสูงสุด 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียงของแอปสําหรับ AirPods บน Mac ด้วยแถบเลื่อนระดับเสียงต่อแอปสูงสุด 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ข้อดีของการเพิ่มต่อแอป: คุณสามารถเพิ่มแอปที่เงียบได้โดยไม่ต้องทําให้ทุกอย่างดังขึ้น หากแฮงเอาท์วิดีโอของคุณใช้ได้ 100% แต่ Spotify ต้องการ 170% SoundDial ให้คุณตั้งค่าแต่ละรายการได้อย่างอิสระ</p>
 
@@ -3330,7 +3342,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้คุณเพิ่มระดับเสียงของแอพได้สูงสุด <strong>200%</strong> — รวมถึง Spotify มันสกัดกั้นสตรีมเสียงของ Spotify และขยายเสียงเกินกว่าค่าสูงสุดในตัวของแอปโดยไม่ส่งผลกระทบต่อระดับเสียงของแอปอื่น</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียง Spotify เป็น 200% บน macOS ในขณะที่ยังคงแอปอื่นๆ ไว้ที่ระดับเสียงปกติ" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial เพิ่มระดับเสียง Spotify เป็น 200% บน macOS ในขณะที่ยังคงแอปอื่นๆ ไว้ที่ระดับเสียงปกติ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>นี่คือความแตกต่างที่สําคัญ: การเพิ่มระดับเสียงทั้งระบบจะทําให้ <em>ทุกอย่าง</em> ดังขึ้น — การแจ้งเตือน การโทร เสียงของระบบ — ไม่ใช่แค่ Spotify เท่านั้น SoundDial ช่วยเพิ่ม Spotify <em>อย่างอิสระ</em>. ตั้งค่า Spotify เป็น 160% ในขณะที่เบราว์เซอร์ของคุณอยู่ที่ 80% และ Zoom จะอยู่ที่ 100%</p>
 
@@ -3383,7 +3395,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> อยู่ในแถบเมนูของคุณและให้แถบเลื่อนระดับเสียงของตัวเองทุกแอป คุณสามารถตั้งค่าเกมของคุณเป็น 35% และ Discord เป็น 100% หรืออัตราส่วนใดก็ได้ที่เหมาะกับคุณ เปลี่ยนอันหนึ่งและอีกอันอยู่</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial แสดงแถบเลื่อนระดับเสียงอิสระสําหรับเกมและ Discord บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial แสดงแถบเลื่อนระดับเสียงอิสระสําหรับเกมและ Discord บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>การตั้งค่าการเล่นเกมทั่วไป</h3>
 <ul>
@@ -3457,7 +3469,7 @@ export const thArticles: ArticleSet = {
 
 <p>คําตอบคือแอปแถบเมนูของบุคคลที่สาม <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> เป็นเครื่องผสมระดับเสียง macOS ดั้งเดิมที่ทําในสิ่งที่เครื่องผสมระดับเสียงของ Windows ทํา — และอีกมากมาย</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — ตัวผสมระดับเสียงสําหรับ macOS ซึ่งแสดงแถบเลื่อนระดับเสียงต่อแอปในแถบเมนู" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ตัวผสมระดับเสียงสําหรับ macOS ซึ่งแสดงแถบเลื่อนระดับเสียงต่อแอปในแถบเมนู" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สิ่งที่คุณจะได้รับ:</p>
 
@@ -3533,7 +3545,7 @@ export const thArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ให้ทุกแอปบน Mac ของคุณมีแถบเลื่อนระดับเสียงอิสระที่เปลี่ยนจาก 0% เป็น <strong>200%</strong>. หากแอปใดแอปหนึ่งเงียบเกินไป เช่น เครื่องเล่นพอดแคสต์ แท็บเบราว์เซอร์ แฮงเอาท์วิดีโอ คุณสามารถเพิ่มแอปนั้นได้เกิน 100% โดยไม่ต้องแตะต้องสิ่งอื่นใด</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Volume Boost — การควบคุมระดับเสียงต่อแอปพร้อมการขยายเสียง 200% บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Volume Boost — การควบคุมระดับเสียงต่อแอปพร้อมการขยายเสียง 200% บน macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>สิ่งนี้มีประโยชน์อย่างยิ่งสําหรับ:</p>
 <ul>
@@ -3635,7 +3647,7 @@ export const thArticles: ArticleSet = {
 <h3>การกําหนดค่าระดับเป็ด</h3>
 <p>ในการตั้งค่าของ SoundDial คุณสามารถปรับ <strong>ระดับเป็ด</strong> — เสียงพื้นหลังที่ลดลงระหว่างการโทร แถบเลื่อนมีตั้งแต่ 10% (แทบไม่ได้ยิน) ถึง 80% (ยังคงอยู่ค่อนข้างมาก) ค่าเริ่มต้น 30% ใช้ได้ดีสําหรับคนส่วนใหญ่: เพลงจะสังเกตเห็นได้ชัดเจน แต่ไม่รบกวนการสนทนา</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial คุณสมบัติลดเสียงเพลงอัตโนมัติโดยอัตโนมัติระหว่างการโทรแบบซูมบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial คุณสมบัติลดเสียงเพลงอัตโนมัติโดยอัตโนมัติระหว่างการโทรแบบซูมบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>เหตุใดการหลบอัตโนมัติจึงดีกว่าการหยุดชั่วคราว</h2>
 
@@ -3706,7 +3718,7 @@ export const thArticles: ArticleSet = {
 
 <p>นี่คือสิ่งที่เครื่องผสมระดับเสียงต่อแอปทํา <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> อยู่ในแถบเมนูของคุณและแสดงทุกแอปที่กําลังทํางานอยู่ด้วยแถบเลื่อนระดับเสียงและปุ่มปิดเสียงของตัวเอง</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial แสดงปุ่มปิดเสียงต่อแอปสําหรับแต่ละแอปพลิเคชันในแถบเมนู macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial แสดงปุ่มปิดเสียงต่อแอปสําหรับแต่ละแอปพลิเคชันในแถบเมนู macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>วิธีปิดเสียงแอปหนึ่ง</p>
 <ol>
@@ -3817,7 +3829,7 @@ export const thArticles: ArticleSet = {
 
 <p>มันอยู่ในแถบเมนูของคุณและแสดงทุกแอปพลิเคชันที่ทํางานอยู่ด้วยแถบเลื่อนระดับเสียงของตัวเอง ลากแถบเลื่อนเพื่อปรับระดับเสียงของแอปนั้นจาก 0% เป็น 200% คลิกไอคอนลําโพงเพื่อปิดเสียงทันที สลับไปมาระหว่างโปรไฟล์ที่บันทึกไว้สําหรับสถานการณ์ต่างๆ เปิดใช้งานการหลบหลีกอัตโนมัติและเพลงของคุณจะเงียบลงโดยอัตโนมัติเมื่อเริ่มการโทร</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — ตัวผสมระดับเสียงต่อแอปสําหรับ macOS ที่แสดงแถบเลื่อนระดับเสียงของแอปแต่ละตัวในแถบเมนู" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ตัวผสมระดับเสียงต่อแอปสําหรับ macOS ที่แสดงแถบเลื่อนระดับเสียงของแอปแต่ละตัวในแถบเมนู" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>คุณสมบัติที่สําคัญ:</p>
 <ul>
@@ -3832,5 +3844,2353 @@ export const thArticles: ArticleSet = {
 
 <p>การซื้อครั้งเดียว ไม่มีการสมัครสมาชิก macOS 14.2+ <a href="https://apps.apple.com/app/sounddial/id6772792641">รับ SoundDial บน Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "ทางเลือก Background Music ที่ดีที่สุดสำหรับ Mac (2026)",
+    description: "Background Music กำลังทำลาย macOS รุ่นใหม่ใช่ไหม? ทางเลือกตัวปรับแต่งเสียงต่อแอปที่เชื่อถือได้มากที่สุดคือ SoundDial — แอป Mac App Store แบบแซนด์บ็อกซ์พร้อมบูสต์และโปรไฟล์",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หาก Background Music หยุดทำงานหลังจากการอัพเดต macOS ทางเลือกที่น่าเชื่อถือที่สุดคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — แถบเมนูตัวปรับแต่งระดับเสียงต่อแอปจาก Mac App Store มันทำให้ทุกแอปมีแถบเลื่อนระดับเสียงของตัวเอง เพิ่มการปิดเสียง บูสต์ โปรไฟล์ระดับเสียง และการลบอัตโนมัติ และยังผ่านแซนด์บ็อกซ์อย่างสมบูรณ์และได้รับการตรวจสอบโดย Apple ดังนั้นจึงไม่มีไดรเวอร์เสียงที่จะเสียหายใน macOS รุ่นถัดไป</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก Background Music ที่ดีที่สุดสำหรับ Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใด Background Music ถึงแตกแยกกับ macOS รุ่นใหม่</h2>
+
+<p>Background Music เป็นโครงการโอเพ่นซอร์สฟรีที่ชาญฉลาดอย่างแท้จริง มันทำให้ผู้ใช้ Mac มีบางอย่างที่ Apple ไม่เคยมี: ตัวปรับแต่งระดับเสียงต่อแอป แบบที่ Windows มีมานานหลายปี แต่การออกแบบก็เป็นสาเหตุที่ทำให้มันล้มเหลวอยู่เสมอ</p>
+
+<p>ในการกำหนดเส้นทางและควบคุมเสียง Background Music จะติดตั้งอุปกรณ์เสียงเสมือน ซึ่งเป็นไดรเวอร์ระดับระบบที่ดักฟังเสียงของ Mac ของคุณ วิธีการดังกล่าวใช้ได้ผลดีกับ macOS รุ่นเก่า แต่ทุกเวอร์ชันหลักจะเพิ่มความปลอดภัยให้กับเคอร์เนลและส่วนขยายเสียง ผู้ใช้รายงานอาการทั่วไป:</p>
+
+<ul>
+<li>ไม่มีเสียงเลยหลังการติดตั้งหรือหลังการอัปเดตระบบปฏิบัติการ</li>
+<li>อุปกรณ์เสมือนไม่สามารถโหลดได้ ดังนั้นการกำหนดเส้นทางเสียงจึงหยุดลงอย่างเงียบ ๆ</li>
+<li>แอปจำเป็นต้องติดตั้งใหม่ รีบูต หรือลบไดรเวอร์ด้วยตนเองเพื่อกู้คืน</li>
+<li>การพัฒนาขับเคลื่อนโดยชุมชนและเป็นอาสาสมัคร ดังนั้นการแก้ไขสำหรับ macOS ใหม่อาจล่าช้าได้</li>
+</ul>
+
+<p>สิ่งเหล่านี้ไม่ได้ทำให้ Background Music "แย่" หมายความว่าเครื่องมือที่ใช้ไดรเวอร์ฟรีนั้นเปราะบางโดยธรรมชาติ และหากคุณพึ่งพาปริมาณต่อแอปทุกวัน ความเปราะบางนั้นก็จะเก่าอย่างรวดเร็ว</p>
+
+<h2>สิ่งที่ต้องมองหาในการทดแทน</h2>
+
+<p>ก่อนที่จะเลือกทางเลือกอื่น ให้ตัดสินใจว่าคุณต้องการอะไรจริงๆ:</p>
+
+<ul>
+<li><strong>ความน่าเชื่อถือในการอัพเดต macOS</strong> หากติดตั้งเคอร์เนลหรือส่วนขยายเสียง คาดว่าจะเกิดความเสียหายเป็นครั้งคราว</li>
+<li><strong>การควบคุมต่อแอปจริง</strong> ระดับเสียงและการปิดเสียงแยกกันสำหรับแต่ละแอปถือเป็นพื้นฐาน</li>
+<li><strong>บูสต์</strong> แอปบางแอป (เครื่องมือการประชุมแบบเงียบ เบราว์เซอร์บางตัว) เงียบเกินไป คุณต้องการที่จะข้าม 100%</li>
+<li><strong>คุณสมบัติด้านความสะดวกสบาย</strong> โปรไฟล์และการปิดอัตโนมัติคือสิ่งที่เปลี่ยนยูทิลิตี้ให้กลายเป็นสิ่งที่คุณเปิดทิ้งไว้ทั้งวัน</li>
+<li><strong>ติดตั้งอย่างปลอดภัย</strong> แอป Mac App Store ที่ทำแซนด์บ็อกซ์ไม่สามารถสัมผัสระบบภายในได้ ดังนั้นการถอนการติดตั้งจึงสะอาดและการอัปเดตจะเป็นไปโดยอัตโนมัติ</li>
+</ul>
+
+<h2>เหตุใด SoundDial จึงเป็นตัวเลือกที่เชื่อถือได้</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ถูกสร้างขึ้นเพื่อแก้ปัญหาที่ผู้ใช้ Background Music พบ: พวกเขาต้องการปริมาณต่อแอป แต่พวกเขาไม่ต้องการดูแลคนขับ มันอยู่ในแถบเมนูของคุณและทำงานได้ดี:</p>
+
+<ul>
+<li><strong>ปริมาณอิสระสำหรับทุกแอป</strong>โดยมีการปิดเสียงต่อแอปในแผงเดียวกัน</li>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> เพื่อทำให้แอปเงียบๆ ดังพอที่จะได้ยินจริงๆ</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ (เช่น "การประชุม" หรือ "การเล่นเกม") และสลับทันทีแทนที่จะลากแถบเลื่อนทุกครั้ง</li>
+<li><strong>Auto-ducking</strong>ดังนั้นเสียงพื้นหลังจะลดลงโดยอัตโนมัติเมื่อควร</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> ระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ</li>
+</ul>
+
+<p>ความแตกต่างที่ใหญ่กว่าคือวิธีการติดตั้ง SoundDial จัดส่งผ่าน Mac App Store ซึ่งหมายความว่า Apple-ตรวจสอบและแซนด์บ็อกซ์แล้ว ไม่ต้องลาก DMG ไม่มีไดร์เวอร์เสียงหรือส่วนขยายระบบ และไม่มีการเข้าถึงเคอร์เนล นั่นคือเหตุผลที่สำคัญที่สุดข้อเดียวที่จะไม่ทำลายแนวทางที่ Background Music ทำเมื่อมี macOS ใหม่มาถึง มันไม่ได้ต่อสายเข้ากับส่วนของระบบที่ Apple ล็อคอยู่ตลอดเวลา</p>
+
+<p>มันมีค่าใช้จ่าย <strong>€14.99 ครั้งเดียว</strong>. ไม่ฟรี แต่ไม่มีการสมัครสมาชิก และคุณต้องชำระค่าบริการที่ได้รับการดูแลและปลอดภัยในการติดตั้ง</p>
+
+<h2>SoundDial กับ Background Music กับเครื่องมือฟรี</h2>
+
+<p>Background Music ไม่ใช่ทางเลือกเดียวของคุณ ดังนั้นนี่คือที่ดินโดยสุจริต:</p>
+
+<ul>
+<li><strong>Background Music (ฟรี โอเพ่นซอร์ส):</strong> ปริมาณต่อแอป แต่ขึ้นอยู่กับไดรเวอร์ มีแนวโน้มที่จะใช้งาน macOS รุ่นใหม่กว่า และขาดการบูสต์ โปรไฟล์ และการลบอัตโนมัติ</li>
+<li><strong>FineTune (ฟรี โอเพ่นซอร์ส):</strong> แถบเมนูน้ำหนักเบาต่อแอปปริมาณแอป ดีถ้าฟรีเป็นความต้องการของคุณเพียงอย่างเดียว แต่ยังมีความพิเศษอยู่เล็กน้อย</li>
+<li><strong>eqMac (ฟรี):</strong> โดยพื้นฐานแล้วจะเป็น EQ ของระบบและบูสเตอร์ ไม่ใช่ตัวผสมต่อแอปที่แท้จริง</li>
+<li><strong>SoundSource โดย Rogue Amoeba (~$39):</strong> ตัวเลือกระดับมืออาชีพ พร้อมด้วย EQ ต่อแอปและการกำหนดเส้นทางเอาต์พุตแบบเต็ม ยอดเยี่ยม แต่ราคาของ SoundDial มากกว่าสองเท่า และยังต้องดาวน์โหลดพร้อมไดรเวอร์จับเสียง</li>
+<li><strong>SoundDial (14.99 ยูโร, Mac App Store):</strong> จุดกึ่งกลาง — ปริมาณต่อแอปจริง ปิดเสียง บูสต์ โปรไฟล์ และหลบ ส่งมอบเป็นการติดตั้งแซนด์บ็อกซ์ที่สะอาดตาโดยไม่มีไดรเวอร์</li>
+</ul>
+
+<p>หากคุณต้องการ EQ ต่อแอปหรือการกำหนดเส้นทางสตูดิโอที่ซับซ้อน SoundSource คุ้มค่ากับเงินที่จ่ายเพิ่ม หากคุณต้องการเครื่องมือช่างฟรีและสามารถทนต่อการแตกหักได้เป็นครั้งคราว FineTune หรือ Background Music จะทำ แต่หากเป้าหมายของคุณคือ "ให้ทุกแอปมีวอลุ่มเป็นของตัวเอง และหยุดไม่ให้มันพังทุกการอัปเดต macOS" SoundDial จะบรรลุเป้าหมายนั้นด้วยความยุ่งยากน้อยที่สุด</p>
+
+<h2>บริบท macOS ที่ทำให้สิ่งนี้จำเป็น</h2>
+
+<p>เป็นเรื่องที่ควรพูดอย่างชัดเจน: macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีปุ่มเพิ่มระดับเสียงมาหลายปีแล้ว แต่ใน Mac แถบเลื่อนระบบจะควบคุมทุกอย่างในคราวเดียว ช่องว่างนั้นเป็นสาเหตุที่ทำให้มีเครื่องมืออย่าง Background Music และ SoundDial อยู่ เนื่องจาก Apple ไม่ได้เติมเต็ม คำถามเชิงปฏิบัติก็คือแนวทางของบุคคลที่สามที่คุณไว้วางใจ เช่น ไดรเวอร์ฟรีที่ต่อสู้กับระบบปฏิบัติการ หรือแอปแซนด์บ็อกซ์ที่ใช้งานได้</p>
+
+<p>พร้อมที่จะหยุดต่อสู้กับไดรเวอร์เสียงที่เสียหายแล้วหรือยัง? รับ <a href="https://apps.apple.com/app/id6772792641">SoundDial บน Mac App Store</a> ในราคา €14.99 และควบคุมระดับเสียงของทุกแอปด้วยวิธีที่เชื่อถือได้</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource กับ SoundDial: แอพ Volume Mac ใดที่ชนะ",
+    description: "SoundSource ($39, เกรดมืออาชีพ) กับ SoundDial (€14.99, App Store) เปรียบเทียบปริมาณต่อแอป บูสต์ โปรไฟล์ และการลบอัตโนมัติเพื่อเลือกมิกเซอร์ Mac ที่เหมาะกับคุณ",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หากคุณต้องการการควบคุมระดับเสียงต่อแอปที่ติดตั้งได้หมดจดและค่าใช้จ่ายน้อยลง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นการซื้อที่ดีกว่าสำหรับคนส่วนใหญ่: €14.99 ครั้งเดียว จาก Mac App Store พร้อมระดับเสียงต่อแอป ปิดเสียง บูสต์ โปรไฟล์ และลบอัตโนมัติ เลือก SoundSource ของ Rogue Amoeba (~$39) เฉพาะในกรณีที่คุณต้องการ EQ ต่อแอปและการกำหนดเส้นทางเอาต์พุตขั้นสูงโดยเฉพาะ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource กับ SoundDial: แอพ Volume Mac ใดที่ชนะ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>รุ่นสั้น</h2>
+<p>macOS ยังไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีมาหลายปีแล้ว แต่ใน Mac แถบเลื่อนระดับเสียงของระบบจะย้ายทุกอย่างในคราวเดียว มีทั้ง SoundSource และ SoundDial เพื่อแก้ไขช่องว่างนั้น พวกเขามุ่งเป้าไปที่ผู้ซื้อที่แตกต่างกัน</p>
+<ul>
+<li><strong>SoundDial</strong> — €14.99 ครั้งเดียว, Mac App Store, แอปแถบเมนู ปริมาณแยกกันต่อแอป, ปิดเสียงต่อแอป, บูสต์ต่อแอป, โปรไฟล์ที่บันทึกไว้, การลบข้อมูลอัตโนมัติ และการสลับเอาต์พุตอย่างรวดเร็ว Sandboxed และตรวจสอบโดย Apple ดังนั้นจึงไม่ต้องติดตั้งไดรเวอร์</li>
+<li><strong>SoundSource</strong> — ~$39 ดาวน์โหลดโดยตรงจาก Rogue Amoeba ทุกอย่างที่กล่าวมาข้างต้นบวกกับ EQ ต่อแอป การกำหนดเส้นทางเอาท์พุตขั้นสูง และเอฟเฟกต์เสียง จำเป็นต้องติดตั้งไดรเวอร์จับภาพเสียงขนาดเล็ก</li>
+</ul>
+
+<h2>ราคาและวิธีการซื้อ</h2>
+<p>นี่คือการแบ่งแยกที่ชัดเจนที่สุด SoundSource มีราคาประมาณ 39 เหรียญสหรัฐและจำหน่ายโดย Rogue Amoeba โดยตรง SoundDial มีราคา €14.99 สำหรับการซื้อครั้งเดียวใน Mac App Store — มากกว่าหนึ่งในสามของราคาเล็กน้อย</p>
+<p>เพราะว่า <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จัดส่งผ่าน App Store ผ่านแซนด์บ็อกซ์ มีการรับรอง และตรวจสอบโดย Apple คุณคลิกรับ ติดตั้ง และเสร็จสิ้น ไม่มี DMG ที่จะเมานต์ ไม่มีสิทธิ์ในการมอบส่วนประกอบที่ติดกับเคอร์เนล และไม่มีไดรเวอร์เสียงหรือส่วนขยายระบบ นอกจากนี้ยังทำงานควบคู่ไปกับโฟลว์การอัปเดต App Store ปกติของคุณ และซิงค์กับ Mac อื่นๆ ของคุณบน Apple ID เดียวกัน</p>
+<p>SoundSource ดาวน์โหลดภายนอก App Store และติดตั้งไดรเวอร์บันทึกเสียงเพื่อให้สามารถสกัดกั้นและประมวลผลเสียงของแต่ละแอปได้ นั่นคือสิ่งที่ปลดล็อกคุณสมบัติระดับมืออาชีพ แต่ยังหมายถึงขั้นตอนการติดตั้งเพิ่มเติมและส่วนประกอบที่อยู่ในระบบลึกยิ่งขึ้น</p>
+
+<h2>สิ่งที่ SoundSource ทำ แต่ SoundDial ไม่ทำ</h2>
+<p>SoundSource ได้ราคาสำหรับผู้ใช้เฉพาะประเภท หากสิ่งเหล่านี้ตรงกับตัวคุณ ก็คุ้มค่ากับเงินที่จ่ายเพิ่ม:</p>
+<ul>
+<li><strong>EQ ต่อแอป</strong> คุณต้องการเปิดอีควอไลเซอร์ 10 แบนด์ เช่น Spotify ในขณะที่ปล่อยให้ Zoom แบนไป SoundDial ทำหน้าที่ปรับระดับเสียง ไม่ใช่ EQ</li>
+<li><strong>การกำหนดเส้นทางเอาต์พุตขั้นสูง</strong> การส่งแอปหนึ่งไปยังลำโพงของคุณและอีกแอปหนึ่งไปยังหูฟังหรืออินเทอร์เฟซเฉพาะพร้อมการควบคุมที่ดี</li>
+<li><strong>เอฟเฟกต์เสียงและปลั๊กอิน</strong> SoundSource สามารถโฮสต์เอฟเฟกต์ได้เป็นรายแอป — เป็นขอบเขตระดับมืออาชีพอย่างแท้จริง</li>
+</ul>
+<p>Rogue Amoeba มีประวัติอันยาวนานและเชื่อถือได้ SoundSource เป็นเครื่องมือที่จริงจังและมีราคาพอๆ กัน หากคุณเป็นผู้เชี่ยวชาญด้านเสียงหรือผู้ใช้ที่มีเอาต์พุตหลายเอาต์พุตจำนวนมาก นี่คือคำตอบที่ถูกต้อง</p>
+
+<h2>สิ่งที่ SoundDial ทำได้ดีกว่าสำหรับการใช้งานในชีวิตประจำวัน</h2>
+<p>คนส่วนใหญ่ที่ค้นหา "Volume Mixer Mac" ไม่จำเป็นต้องมี EQ พวกเขาต้องการแอปที่เงียบกว่าแอปอื่น และพวกเขาไม่ต้องการต่อสู้กับผู้ติดตั้งเพื่อให้ได้มา SoundDial ครอบคลุมเรื่องนั้นอย่างชัดเจน และเพิ่มบางสิ่งที่ควรค่าแก่การกล่าวถึง:</p>
+<ul>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> แอพและวิดีโอบางรายการเงียบเกินไปแม้จะอยู่ที่ 100% SoundDial สามารถผลักดันแอปเดียวให้อยู่เหนือเพดานปกติได้ ดังนั้นในที่สุดเสียงการประชุมหรือพอดแคสต์ก็เงียบลง</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> บันทึกการตั้งค่าแบบสมบูรณ์ — เพลงเบา, ปิดเสียงเบราว์เซอร์, โทรหาแอปดัง — และเรียกคืนได้ทันที เหมาะสำหรับการสลับระหว่าง "โฟกัส" "การประชุม" และ "เกม" โดยไม่ต้องลากแถบเลื่อนห้าตัว</li>
+<li><strong>Auto-ducking</strong> จุ่มเสียงพื้นหลัง (เช่น เพลง) โดยอัตโนมัติเมื่อแหล่งอื่นเริ่มต้นขึ้น การแจ้งเตือน การโทร หรือวิดีโอจะไม่ถูกฝัง</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> ข้ามระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ จากแถบเมนู</li>
+</ul>
+<p>ทั้งหมดนี้ทำงานจากเมนูแบบเลื่อนลงของแถบเมนู ดังนั้นคุณจึงสามารถคลิกเพียงครั้งเดียวและไม่ต้องเผชิญหน้าตลอดเวลาที่เหลือ</p>
+
+<h2>ทางเลือกฟรีโดยสังเขป</h2>
+<p>คุณจะเห็นตัวเลือกฟรีบางตัวเลือกที่กล่าวถึงในการค้นหาเดียวกัน พวกเขาน่ารู้เกี่ยวกับ:</p>
+<ul>
+<li><strong>Background Music</strong> — ฟรีและโอเพ่นซอร์ส ให้ปริมาณพื้นฐานต่อแอปแก่คุณ แต่มันสามารถใช้งานกับ macOS รุ่นใหม่กว่าได้ และไม่มีการบูสต์ โปรไฟล์ หรือการลบอัตโนมัติ</li>
+<li><strong>FineTune</strong> — แอปโวลุ่มแถบเมนูโอเพ่นซอร์สฟรี เรียบง่ายแต่มีขอบเขตจำกัด</li>
+<li><strong>eqMac</strong> - EQ และตัวเสริมระบบฟรี เป็นเครื่องมือ EQ ทั่วทั้งระบบมากกว่าตัวผสมต่อแอปที่แท้จริง</li>
+</ul>
+<p>ฟรีจะดีมากถ้ามันเหมาะกับคุณ ข้อดีข้อเสียคือความเข้ากันได้และการรองรับ: เครื่องมือเสียงแบบโอเพ่นซอร์สอาจล้าหลังการอัปเดต macOS และโดยทั่วไปแล้วฟีเจอร์ต่างๆ เช่น โปรไฟล์และ Ducking จะไม่อยู่ที่นั่น หากการตั้งค่าของคุณมีความสำคัญต่อวันทำงานของคุณ การจ่ายเงินเพียงครั้งเดียวสำหรับสิ่งที่ได้รับการตรวจสอบและบำรุงรักษามักจะเป็นวิธีที่สงบกว่า</p>
+
+<h2>คุณควรซื้ออันไหน?</h2>
+<p>ตอบคำถามหนึ่งข้อ: คุณต้องการ EQ ต่อแอปหรือการกำหนดเส้นทางเอาต์พุตขั้นสูงหรือไม่</p>
+<ul>
+<li><strong>ใช่</strong> — ซื้อ SoundSource มันถูกสร้างขึ้นมาเพื่อสิ่งนั้น และราคาประมาณ 39 เหรียญก็ยุติธรรมสำหรับเครื่องมือระดับมืออาชีพที่มีเครื่องยนต์ระดับคนขับ</li>
+<li><strong>ไม่ ฉันแค่ต้องการปริมาณต่อแอป บูสต์ และการติดตั้งใหม่ทั้งหมด</strong> — ซื้อ SoundDial คุณจะได้รับการผสมผสานที่สำคัญในแต่ละวัน พร้อมด้วยโปรไฟล์และการลบอัตโนมัติ ในราคา €14.99 และไม่ยุ่งยากกับคนขับ</li>
+</ul>
+<p>สำหรับผู้ใช้ Mac ส่วนใหญ่ บัคเก็ตที่สองนั้นคือคำตอบที่ตรงไปตรงมา คุณต้องจ่ายเงินเพื่อควบคุมระดับเสียง ไม่ใช่สำหรับสตูดิโอ</p>
+
+<p><strong>พร้อมแก้ไขวอลลุ่ม Mac ด้วยวิธีง่ายๆ แล้วหรือยัง?</strong> รับ <a href="https://apps.apple.com/app/id6772792641">SoundDial บน Mac App Store</a> — €14.99 ครั้งเดียว ไม่มีไดรเวอร์ ไม่มี DMG ปริมาณต่อแอป บูสต์ โปรไฟล์ และการลบอัตโนมัติในคลิกเดียว</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "ทางเลือก SoundSource ที่ถูกกว่าสำหรับปริมาณต่อแอปบน Mac",
+    description: "ต้องการปริมาณต่อแอปสไตล์ SoundSource ที่ไม่มีราคา 39 ดอลลาร์หรือไม่ SoundDial คือมิกเซอร์แถบเมนู Mac App Store ราคา 14.99 ยูโรพร้อมบูสต์ โปรไฟล์ และการลบอัตโนมัติ",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากคุณต้องการการควบคุมระดับเสียงต่อแอปแบบ SoundSource บน Mac ของคุณแต่ราคา 39 ดอลลาร์สูงเกินไป วิธีแก้ไขที่เชื่อถือได้เร็วที่สุดคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. เป็นมิกเซอร์แถบเมนูแบบครั้งเดียวราคา 14.99 ยูโรจาก Mac App Store ที่ให้ทุกแอปมีตัวเลื่อนระดับเสียง ปิดเสียง และบูสต์ของตัวเอง รวมถึงโปรไฟล์และการลบข้อมูลอัตโนมัติ โดยไม่ต้องดาวน์โหลดหรือติดตั้งไดรเวอร์เสียง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก SoundSource ที่ถูกกว่าสำหรับปริมาณต่อแอปบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดผู้คนจึงมองหาทางเลือก SoundSource</h2>
+<p>SoundSource โดย Rogue Amoeba เป็นซอฟต์แวร์ที่ยอดเยี่ยม เป็นระดับมืออาชีพอย่างแท้จริง: อีควอไลเซอร์ต่อแอป เอฟเฟกต์เสียง และเส้นทางเอาต์พุตที่ให้คุณส่งแอปหนึ่งไปยังหูฟังและอีกแอปหนึ่งไปยังลำโพงของคุณ แต่พลังนั้นมาพร้อมกับจุดเสียดสีสองจุด ประการแรกราคา – ประมาณ $ 39 ประการที่สอง จะติดตั้งไดรเวอร์การจับเสียงระดับระบบภายนอก App Store ซึ่งบางคนอาจใช้ความระมัดระวังในเครื่องทำงาน หรือเพียงไม่ต้องการจัดการกับการอัพเดต macOS</p>
+<p>สำหรับคนส่วนใหญ่ ความต้องการที่แท้จริงนั้นง่ายกว่ามาก: ลด Spotify ลงโดยไม่ต้องแตะสาย Zoom ปิดเสียงแอปของแท็บเบราว์เซอร์ที่มีเสียงดัง หรือเพิ่มโปรแกรมเล่นวิดีโอแบบเงียบเกิน 100% หากเป็นคุณ คุณจะจ่ายเงินอย่างคุ้มค่าสำหรับฟีเจอร์ที่คุณจะไม่มีวันเปิด</p>
+
+<h2>SoundDial ทำอะไร — และราคาเท่าไหร่</h2>
+<p>SoundDial มุ่งเน้นไปที่งานปริมาณต่อแอปและดำเนินการอย่างเรียบร้อย เปิดแถบเมนูแล้วคุณจะเห็นรายการสดของทุกสิ่งที่มีเสียง ซึ่งแต่ละรายการมีการควบคุมของตัวเอง:</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — หนึ่งแถบเลื่อนต่อแอปพลิเคชัน ปรับตามเวลาจริง</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปหนึ่งทันทีโดยไม่หยุดสิ่งอื่นใด</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ผลักดันแอปที่เงียบให้สูงกว่าค่าสูงสุดปกติเมื่อวิดีโอหรือการโทรเบาเกินไป</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ (เช่น "โฟกัส" "เกม" "การประชุม") และสลับได้ในคลิกเดียว</li>
+<li><strong>Auto-ducking</strong> — จุ่มแอปอื่นๆ โดยอัตโนมัติเมื่อบางสิ่งที่สำคัญกว่าเริ่มเล่น</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+<p>ราคาอยู่ <strong>€14.99 จ่ายครั้งเดียว</strong> — ไม่มีการสมัครสมาชิก นั่นคือประมาณหนึ่งในสามของต้นทุนของ SoundSource สำหรับฟีเจอร์ปริมาณที่ผู้ใช้ส่วนใหญ่เข้าถึงได้จริง</p>
+
+<h2>ความแตกต่าง App Store</h2>
+<p>เนื่องจาก SoundDial จัดส่งผ่าน <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>ได้รับการตรวจสอบจาก Apple และแซนด์บ็อกซ์แล้ว ไม่มี DMG ที่จะลาก ไม่มีส่วนขยายเคอร์เนลหรือไดรเวอร์การจับเสียงที่จะอนุมัติ และไม่มีตัวอัปเดตแยกต่างหาก คุณติดตั้งมันเหมือนกับแอพ App Store อื่น ๆ และใช้งานได้ เมื่อ macOS อัปเดต คุณจะไม่สงสัยเลยว่าส่วนประกอบเสียงระดับต่ำยังคงทำงานอยู่หรือไม่</p>
+<blockquote>macOS ยังไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีมาหลายปีแล้ว แต่สำหรับ Mac ระดับเสียงของระบบมีทั้งหมดหรือไม่มีเลย ซึ่งเป็นช่องว่างที่เครื่องมือเหล่านี้เติมเต็มพอดี</blockquote>
+
+<h2>เปรียบเทียบกับตัวเลือกฟรีอย่างไร</h2>
+<p>SoundSource ไม่ใช่ทางเลือกเดียวของคุณ มีเครื่องมือฟรี และการซื่อสัตย์กับเครื่องมือเหล่านี้ก็มีความสำคัญ:</p>
+<ul>
+<li><strong>Background Music</strong> เป็นแอปโอเพ่นซอร์สต่อแอปฟรี มันใช้งานได้กับหลายๆ คน แต่สามารถใช้งานกับ macOS รุ่นใหม่ได้ การอัปเดตไม่สม่ำเสมอ และไม่มีการเร่งความเร็ว ไม่มีโปรไฟล์ และไม่มีการลบข้อมูลอัตโนมัติ</li>
+<li><strong>FineTune</strong> เป็นแอปโวลุ่มแถบเมนูแบบโอเพ่นซอร์สฟรี ซึ่งมีน้ำหนักเบาและสะดวก แต่กลับขาดโปรไฟล์และคุณสมบัติการหลบเลี่ยง</li>
+<li><strong>eqMac</strong> เป็น EQ ฟรีและบูสเตอร์ระบบ มันเป็นเครื่องมืออีควอไลเซอร์/บูสต์มากกว่าตัวผสมต่อแอปที่แท้จริง และไม่ได้เน้นไปที่แถบเลื่อนแอปแต่ละตัว</li>
+</ul>
+<p>ฟรีเป็นทางเลือกที่ถูกต้อง ข้อเสียคือความน่าเชื่อถือและฟีเจอร์: เครื่องมือเสียงแบบโอเพ่นซอร์สขึ้นอยู่กับการบำรุงรักษาโดยอาสาสมัครและอาจล้าหลังการเปลี่ยนแปลงของ macOS และไม่มีตัวเลือกฟรีใดที่รวมโปรไฟล์บวกกับการลบอัตโนมัติแบบที่ SoundDial ทำ หากการตั้งค่าของคุณง่ายและคุณไม่รังเกียจการเสียหายเป็นครั้งคราว แอปฟรีก็อาจเพียงพอแล้ว หากคุณต้องการบางสิ่งที่ได้รับการบำรุงรักษา แซนด์บ็อกซ์ และใช้งานได้จริง €14.99 ก็ซื้อคุณได้อย่างแน่นอน</p>
+
+<h2>คู่มือการตัดสินใจอย่างรวดเร็ว</h2>
+<ul>
+<li><strong>คุณต้องมี EQ ต่อแอป เอฟเฟกต์เสียง และการกำหนดเส้นทางแอปหนึ่งไปยังอุปกรณ์เอาท์พุตอื่น</strong> → SoundSource คุ้มค่ากับราคาของมัน ไม่มีอะไรที่นี่แทนที่สิ่งนั้นได้อย่างสมบูรณ์</li>
+<li><strong>คุณจำเป็นต้องมีระดับเสียงต่อแอป ปิดเสียง บูสต์ โปรไฟล์ และการลบข้อมูลเป็นหลัก — โดยไม่ต้องใช้ไดรเวอร์</strong> → SoundDial ราคา €14.99 เป็นตัวเลือกที่คุ้มค่ากว่า</li>
+<li><strong>คุณต้องการฟรีและไม่คำนึงถึงความเสี่ยงในการบำรุงรักษา</strong> → ลอง Background Music, FineTune หรือ eqMac ก่อน</li>
+</ul>
+
+<h2>การตั้งค่ามันขึ้นมา</h2>
+<p>การเริ่มต้นใช้เวลาประมาณหนึ่งนาที:</p>
+<ul>
+<li>ติดตั้ง SoundDial จาก Mac App Store — ไม่ต้องดาวน์โหลดจากภายนอก</li>
+<li>ให้สิทธิ์อนุญาตเสียง macOS พร้อมท์ให้เปิดใช้งานครั้งแรก</li>
+<li>เล่นเสียงในแอพสองสามตัวแล้วเปิดไอคอนแถบเมนู คุณจะเห็นแต่ละอันมีแถบเลื่อนของตัวเอง</li>
+<li>ลากเพื่อตั้งค่าระดับ แตะเพื่อปิดเสียง หรือกดเกิน 100% เพื่อเพิ่มพลัง</li>
+<li>บันทึกการตั้งค่าของคุณเป็นโปรไฟล์ และเปิดการลบอัตโนมัติหากคุณต้องการให้แอปอื่นปิดเสียงระหว่างการโทรหรือสื่อ</li>
+</ul>
+<p>นั่นคือขั้นตอนการทำงานทั้งหมด — ไม่มีไฟล์คอนฟิกูเรชัน, ไม่ต้องรีสตาร์ท, ไม่มีส่วนขยายระบบที่จะอวยพร</p>
+
+<h2>บรรทัดล่าง</h2>
+<p>SoundSource เป็นเครื่องมือที่ทรงพลังกว่า แต่คนส่วนใหญ่ที่กำลังมองหามันเพียงต้องการปริมาณต่อแอปที่ทำงาน SoundDial มอบราคานั้นประมาณหนึ่งในสามของราคา โดยจัดส่งอย่างปลอดภัยผ่าน App Store และเพิ่มโปรไฟล์และการมุดอัตโนมัติที่ด้านบน โดยไม่ต้องติดตั้งไดรเวอร์ตัวเดียว</p>
+
+<p>พร้อมที่จะควบคุมระดับเสียงของทุกแอปอย่างอิสระแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> ในราคา €14.99 หนึ่งครั้ง</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "ทางเลือก FineTune สำหรับ Mac: ตัวปรับแต่งเสียงต่อแอปที่รองรับ",
+    description: "ลองใช้แอปแถบเมนู FineTune ฟรีแล้วและต้องการให้มีการบำรุงรักษาและปลอดภัยสำหรับ App Store หรือไม่ นี่คือทางเลือก FineTune ที่ดีที่สุดสำหรับปริมาณต่อแอปบน Mac",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากคุณชอบ FineTune แต่ต้องการบางสิ่งที่ได้รับการดูแลและติดตั้งจากแหล่งที่เชื่อถือได้ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> คือการแก้ไขที่เชื่อถือได้เร็วที่สุด เป็นแถบเมนู Mac App Store มิกเซอร์ระดับเสียงต่อแอปที่มีระดับเสียงอิสระ ปิดเสียงต่อแอป การเพิ่มระดับเสียง โปรไฟล์ที่บันทึกไว้ และการลบอัตโนมัติ ผ่านการตรวจสอบโดย Apple และแซนด์บ็อกซ์แล้ว ราคาอยู่ที่ 14.99 ยูโรต่อครั้งโดยไม่ต้องติดตั้งไดรเวอร์</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก FineTune สำหรับ Mac: ตัวปรับแต่งเสียงต่อแอปที่รองรับ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไมต้องมองหาทางเลือกอื่น FineTune เลย?</h2>
+
+<p>FineTune เป็นแนวคิดที่ดี: แอปแถบเมนูโอเพ่นซอร์สฟรีที่ให้คุณควบคุมระดับเสียงต่อแอปบน macOS ซึ่งเป็นสิ่งที่ Apple ยังคงปฏิเสธที่จะสร้าง (Windows มีตัวผสมต่อแอปมานานหลายปี) สำหรับหลายๆ คน มันเป็นงานพื้นฐาน แต่มีเหตุผลที่แท้จริงที่ผู้ใช้มองหาสิ่งอื่น</p>
+
+<ul>
+<li><strong>การบำรุงรักษาไม่แน่นอน</strong> โครงการงานอดิเรกแบบโอเพ่นซอร์สมีชีวิตอยู่และตายไปในเวลาว่างของผู้ดูแลคนเดียว เมื่อ macOS จัดส่งการอัปเดตที่สำคัญ แอปที่เกี่ยวข้องกับเสียงมักจะเป็นแอปแรกที่เสียหาย และคุณยังคงรอการแก้ไขโดยอาสาสมัครซึ่งอาจไม่มีวันเกิดขึ้น</li>
+<li><strong>คุณลักษณะเพดาน</strong> FineTune ครอบคลุมปริมาณต่อแอปและอื่นๆ อีกเล็กน้อย หากคุณต้องการบูสต์เกิน 100% บันทึกโปรไฟล์ หรือการหลบอัตโนมัติ คุณต้องใช้เครื่องมืออื่น</li>
+<li><strong>ความน่าเชื่อถือและการปรับปรุง</strong> การติดตั้ง Raw build ภายนอก App Store หมายความว่าจะไม่มีการตรวจสอบอัตโนมัติ ไม่มีการรับประกันแซนด์บ็อกซ์ และการอัปเดตด้วยตนเองที่คุณต้องติดตามด้วยตนเอง</li>
+</ul>
+
+<p>สิ่งนี้ไม่ได้ทำให้ FineTune แย่ หมายความว่าหากคุณพึ่งพาเสียงต่อแอปทุกวัน คุณอาจต้องการบางสิ่งที่มีรูปแบบการสนับสนุนอยู่เบื้องหลัง</p>
+
+<h2>สิ่งที่ SoundDial ทำแตกต่างออกไป</h2>
+
+<p>SoundDial เริ่มต้นจากแนวคิดหลักเดียวกัน นั่นคือมิกเซอร์แถบเมนูพร้อมแถบเลื่อนสำหรับแอปที่ทำงานอยู่ทุกแอป จากนั้นไปเพิ่มเติมด้วยฟีเจอร์ที่ผู้ใช้ระดับสูงถามหาจริงๆ</p>
+
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> ปิด Spotify ลง, เปิดระดับเสียงการโทรสูงสุด, ปิดเสียงแอปของแท็บเบราว์เซอร์ที่มีเสียงดังโดยสิ้นเชิง ทั้งหมดนี้ทำได้จากเมนูเดียว</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> ผลักดันแอพที่เงียบไว้เหนือเพดานปกติเมื่อพ็อดคาสท์หรือวิดีโอถูกมาสเตอร์ต่ำเกินไป FineTune ไม่ทำเช่นนี้</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> บันทึกมิกซ์ "โฟกัส" "เกม" "การประชุม" และสลับการตั้งค่าทั้งหมดได้ในคลิกเดียว แทนที่จะเลื่อนแถบเลื่อนทั้งห้าตัว</li>
+<li><strong>Auto-ducking</strong> ลดเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเริ่มเล่น ดังนั้นเพลงจึงหายไปเมื่อมีสายเข้า</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> ข้ามไปมาระหว่างลำโพง หูฟัง และเอาต์พุตอื่นๆ โดยไม่ต้องไปที่การตั้งค่าระบบ</li>
+</ul>
+
+<p>เพราะว่า <a href="https://apps.apple.com/app/id6772792641">SoundDial จัดส่งผ่าน Mac App Store</a>ได้รับการตรวจสอบและแซนด์บ็อกซ์โดย Apple ติดตั้งอย่างสมบูรณ์ และอัปเดตผ่านกลไกเดียวกันกับแอป App Store อื่นๆ ทุกแอป ไม่มี DMG ให้ลาก ไม่มีไดรเวอร์เสียงหรือส่วนขยายระบบ และไม่มีระบบรักษาความปลอดภัยแจ้งให้คุณอนุญาตส่วนประกอบระดับเคอร์เนล</p>
+
+<h2>SoundDial กับ FineTune และเครื่องมือฟรีอื่นๆ</h2>
+
+<p>FineTune ไม่ใช่ตัวเลือกฟรีเพียงตัวเดียว และช่วยให้มองเห็นทิวทัศน์ทั้งหมดได้อย่างตรงไปตรงมา</p>
+
+<ul>
+<li><strong>FineTune</strong> — ปริมาณแถบเมนูแบบโอเพ่นซอร์สฟรีต่อแอป เรียบง่ายและมีน้ำหนักเบา แต่ไม่มีการเพิ่มประสิทธิภาพ ไม่มีโปรไฟล์ ไม่มีการปิดบัง และการบำรุงรักษาขึ้นอยู่กับชุมชน</li>
+<li><strong>Background Music</strong> — ฟรีและโอเพ่นซอร์ส กำหนดเส้นทางและปรับแต่งเสียงต่อแอป มีประโยชน์อย่างแท้จริง แต่สามารถใช้งานกับ macOS รุ่นใหม่กว่าได้ และขาดการบูสต์ โปรไฟล์ และการหลบเลี่ยง</li>
+<li><strong>eqMac</strong> - EQ ฟรีและบูสเตอร์ระบบ ดีมากถ้าคุณต้องการอีควอไลเซอร์เป็นหลัก แต่ไม่ใช่ตัวผสมต่อแอป</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — ตัวเลือกระดับมืออาชีพมีราคาประมาณ 39 ดอลลาร์ พร้อม EQ ต่อแอปและการกำหนดเส้นทางเอาท์พุต ยอดเยี่ยม แต่ต้องดาวน์โหลดพร้อมไดรเวอร์จับภาพเสียง และมีค่าใช้จ่ายมากกว่าสองเท่า</li>
+<li><strong>SoundDial</strong> — €14.99 ครั้งเดียว ปลอดภัย App Store ไม่มีไดรเวอร์ เพิ่มการบูสต์ โปรไฟล์ และการลบอัตโนมัติ นอกเหนือจากระดับเสียงพื้นฐานต่อแอป</li>
+</ul>
+
+<p>บทสรุปโดยตรงไปตรงมา: หากคุณต้องการสิ่งที่ถูกที่สุดและต้องการเพียงปริมาณต่อแอปพื้นฐานเท่านั้น เครื่องมือฟรีก็สามารถใช้งานได้ หากคุณต้องการ EQ ต่อแอปและการกำหนดเส้นทาง และไม่สนใจที่จะจ่ายเงินและติดตั้งไดรเวอร์ SoundSource ถือเป็นรุ่นเฮฟวี่เวท SoundDial อยู่ในตำแหน่งที่เหมาะสม มีความสามารถมากกว่าแอปฟรี ราคาถูกกว่า SoundSource อย่างมาก และติดตั้งได้ปลอดภัยกว่าทั้งคู่เพราะ Apple ตรวจสอบและแซนด์บ็อกซ์</p>
+
+<h2>ย้ายจาก FineTune</h2>
+
+<p>การสลับใช้เวลาสองสามนาทีและไม่มีพิธีการล้างข้อมูล</p>
+
+<ul>
+<li>ติดตั้ง SoundDial จาก Mac App Store ไม่มีตัวติดตั้ง ไม่มีการอนุมัติไดรเวอร์ ไม่มีการรีสตาร์ท</li>
+<li>คลิกไอคอน SoundDial ในแถบเมนูของคุณเพื่อดูแถบเลื่อนสำหรับแอปที่รันอยู่แต่ละแอป</li>
+<li>ตั้งค่ามิกซ์ประจำวันของคุณ จากนั้นบันทึกเป็นโปรไฟล์เพื่อให้คุณสามารถเรียกคืนได้ทันที</li>
+<li>เลือกเปิดการปิดอัตโนมัติเพื่อไม่ให้เสียงพื้นหลังสำหรับการโทรและการแจ้งเตือน</li>
+<li>เมื่อพอใจแล้ว ให้ออกจาก FineTune เนื่องจากไม่มีแอปใดติดตั้งไดรเวอร์ระบบ จึงไม่มีอะไรต้องถอนการติดตั้งอีกต่อไป</li>
+</ul>
+
+<p>คุณเก็บสิ่งที่คุณชอบเกี่ยวกับ FineTune ซึ่งเป็นมิกเซอร์แถบเมนูที่ Apple ไม่เคยให้คุณไว้ และคุณจะได้รับการเพิ่มประสิทธิภาพ โปรไฟล์ การหลบเลี่ยง และการสนับสนุนระยะยาวที่แอป App Store ที่ได้รับการบำรุงรักษามอบให้</p>
+
+<h2>บรรทัดล่าง</h2>
+
+<p>FineTune พิสูจน์แนวคิด: ปริมาณต่อแอปอยู่ในแถบเมนู SoundDial เป็นแนวคิดดังกล่าวด้วยรูปแบบการสนับสนุนที่แท้จริง คุณสมบัติเพิ่มเติม และความปลอดภัยของ App Store ในราคาเพียง €14.99 เพียงครั้งเดียว แทนที่จะเดิมพันค่าบำรุงรักษาของอาสาสมัคร</p>
+
+<p>พร้อมสำหรับตัวปรับแต่งต่อแอปที่ยังคงได้รับการบำรุงรักษาแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และควบคุมระดับเสียงของทุกแอปภายในไม่กี่วินาที</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "ทางเลือก eqMac สำหรับปริมาณต่อแอปจริงบน Mac",
+    description: "ชอบการเพิ่มประสิทธิภาพของ eqMac แต่ต้องการระดับเสียงต่อแอป การปิดเสียง และโปรไฟล์ที่เหมาะสมหรือไม่ SoundDial คือโปรแกรมแก้ไข Mac App Store ที่เร็วที่สุด — €14.99 แบบแซนด์บ็อกซ์ ไม่มีไดรเวอร์",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากคุณใช้ eqMac สำหรับ EQ และตัวเพิ่มระดับเสียง แต่ต้องการระดับเสียงที่แยกจากกันสำหรับแต่ละแอป — รวมถึงการปิดเสียง บูสต์ และโปรไฟล์ที่บันทึกไว้ — วิธีแก้ไขที่เชื่อถือได้เร็วที่สุดคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. มันคือมิกเซอร์แถบเมนู Mac App Store: ตั้งค่าระดับต่อแอป เพิ่มเสียงที่เงียบ และสลับโปรไฟล์ได้ทันที €14.99 ครั้งเดียว แซนด์บ็อกซ์ ไม่ต้องติดตั้งไดรเวอร์</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก eqMac สำหรับปริมาณต่อแอปจริงบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac เทียบกับสิ่งที่คุณต้องการจริงๆ</h2>
+
+<p>eqMac เป็นเครื่องมือฟรีที่แข็งแกร่ง และอีควอไลเซอร์และตัวเพิ่มระดับเสียงทั้งระบบก็มีประโยชน์อย่างแท้จริง แต่ eqMac ถูกสร้างขึ้นโดยใช้ EQ มาสเตอร์หนึ่งตัวและเอาต์พุตหลักหนึ่งตัว มันไม่ได้ให้ตัวปรับแต่งเสียงต่อแอปที่แท้จริงแก่คุณ — สิ่งที่ Windows มีมานานหลายปีและ macOS ยังไม่ได้จัดส่งแบบเนทีฟ</p>
+
+<p>ดังนั้น หากปัญหาที่แท้จริงของคุณคือ "Spotify ดังเกินไปในขณะที่ฉันกำลังคุยสายอยู่" หรือ "เกมนี้ทำให้ฉันหูฝาดไป แต่อย่างอื่นก็โอเค" eqMac ไม่ใช่รูปทรงที่เหมาะกับงาน คุณจะต้องขี่สไลเดอร์หลักตัวเดียวหรือเล่นซอกับระดับเสียงภายในของแต่ละแอป นั่นคือช่องว่างที่ SoundDial เติมเต็ม</p>
+
+<h2>สิ่งที่ SoundDial ทำ แต่ eqMac ไม่ทำ</h2>
+
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — เพลง 40% เบราว์เซอร์ 100% วิดีโอคอล 70% ทั้งหมดนี้จำได้ทั้งหมด</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปที่มีเสียงดังหนึ่งแอปทันทีโดยไม่ต้องแตะต้องสิ่งอื่นใด</li>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> — ผลักดันแอปที่เงียบกว่าเพดานปกติ เช่นเดียวกับที่บูสเตอร์ของ eqMac ทำ แต่กำหนดเป้าหมายไปที่แอปเดียวแทนที่จะเป็นทั้งระบบ</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกการตั้งค่า เช่น "Focus" "Gaming" หรือ "Meeting" และสลับมิกซ์ทั้งหมดได้ในคลิกเดียว</li>
+<li><strong>Auto-ducking</strong> — วางเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเริ่มต้นขึ้น ดังนั้นคุณจึงไม่ต้องใช้แถบเลื่อนระหว่างการโทร</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — ข้ามระหว่างลำโพง หูฟัง และเอาต์พุตอื่นๆ จากแถบเมนู</li>
+</ul>
+
+<p>การทับซ้อนกับ eqMac นั้นเป็นการเพิ่มพลัง อย่างอื่นทั้งหมด ไม่ว่าจะเป็นมิกเซอร์ ปิดเสียง โปรไฟล์ หลบเสียง — คือขอบเขตที่ eqMac ไม่เคยได้รับการออกแบบมาให้ครอบคลุม</p>
+
+<h2>คุณยังต้องการ EQ อยู่ไหม?</h2>
+
+<p>ซื่อสัตย์เกี่ยวกับปัญหาที่คุณกำลังแก้ไข หากคุณต้องการ EQ ความถี่จริงๆ — ตัดเสียงเบส ปรับเสียงสูงที่หนักหน่วง ปรับโทนเสียงทั้งระบบของคุณ — eqMac ยังคงมีที่ว่างและใช้งานได้ฟรี SoundDial เป็นมิกเซอร์ระดับเสียง ไม่ใช่อีควอไลเซอร์</p>
+
+<p>แต่คนส่วนใหญ่เข้าถึงบูสเตอร์ของ eqMac ไม่ใช่เพราะพวกเขาต้องการกำหนดความถี่ แต่ต้องการให้แอปดังขึ้นหรือมิกซ์ที่สมดุล หากเป็นคุณ มิกเซอร์เฉพาะคือคำตอบที่สะอาดกว่า คุณสามารถเรียกใช้ทั้งสองอย่างได้: เก็บ eqMac ไว้สำหรับเส้นโค้ง EQ ทั่วทั้งระบบ และใช้ SoundDial สำหรับระดับต่อแอป พวกเขาไม่ได้ต่อสู้เพื่องานเดียวกัน</p>
+
+<h2>เมื่อเปรียบเทียบกับเครื่องมือเสียง Mac อื่นๆ เป็นอย่างไร</h2>
+
+<p>เนื่องจากคุณตามล่าหาเครื่องมืออยู่แล้ว ภาพรวมโดยสุจริตมีดังนี้:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — ตัวเลือกระดับมืออาชีพมีราคาประมาณ 39 เหรียญสหรัฐฯ พร้อม EQ ต่อแอปและการกำหนดเส้นทางเอาต์พุตแบบเต็ม มีประสิทธิภาพ แต่ต้องดาวน์โหลดโดยตรงและติดตั้งไดรเวอร์การจับเสียง เกินราคาและแพงกว่าหากคุณต้องการเพียงปริมาณต่อแอปพร้อมโปรไฟล์</li>
+<li><strong>Background Music</strong> — ฟรีและโอเพ่นซอร์ส แต่สามารถใช้งานกับ macOS รุ่นใหม่กว่าได้ และไม่มีการเร่งความเร็ว ไม่มีโปรไฟล์ และไม่มีการลบอัตโนมัติ ยอดเยี่ยมเมื่อใช้งานได้ น่าหงุดหงิดเมื่อไม่ได้ผล</li>
+<li><strong>FineTune</strong> — แอปแถบเมนูโอเพ่นซอร์สฟรี ควรลองดูว่า $0 เป็นข้อกำหนดที่ยากหรือไม่ แม้ว่าคุณสมบัติและการขัดเงาจะเบากว่าก็ตาม</li>
+<li><strong>eqMac</strong> — EQ พร้อมบูสเตอร์ฟรี แต่ไม่มีตัวปรับแต่งต่อแอปจริงตามที่กล่าวไว้ข้างต้น</li>
+</ul>
+
+<p>SoundDial อยู่ในจุดที่น่าสนใจ: มีสมาธิมากกว่าและราคาถูกกว่า SoundSource มีความสามารถมากกว่าและเชื่อถือได้มากกว่าตัวเลือกฟรี และทำงานต่อแอปที่ eqMac ไม่มี</p>
+
+<h2>เหตุใด Mac App Store จึงมีความสำคัญที่นี่</h2>
+
+<p>เครื่องมือเหล่านี้หลายอย่างจำเป็นต้องดาวน์โหลดโดยตรงและไดรเวอร์เสียงระดับเคอร์เนลหรือตัวจับภาพ ใช้งานได้ แต่เป็นสิ่งที่สามารถขัดขวางการอัพเดต macOS หรือสะดุดกับการทำงานที่ถูกล็อคไว้ Mac</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จัดส่งผ่าน Mac App Store แทน นั่นหมายความว่าได้รับการตรวจสอบโดย Apple และทำแซนด์บ็อกซ์แล้ว ติดตั้งได้อย่างสมบูรณ์โดยไม่ต้องลาก DMG และไม่มีไดรเวอร์เสียงหรือส่วนขยายระบบที่ต้องอนุมัติ การอัปเดตมาถึงผ่าน App Store เช่นเดียวกับแอปอื่นๆ และการถอนการติดตั้งถือเป็นการลบตามปกติ สำหรับยูทิลิตี้แถบเมนูที่สัมผัสเสียงของคุณ เส้นทางที่มีแรงเสียดทานต่ำและมีความเสี่ยงต่ำกว่านั้นคุ้มค่ามาก</p>
+
+<h2>การตั้งค่าอย่างรวดเร็ว</h2>
+
+<ul>
+<li>ติดตั้ง SoundDial จาก Mac App Store — ไม่ต้องรีสตาร์ท ไม่มีการแจ้งไดรเวอร์</li>
+<li>เปิดไอคอนแถบเมนู ทุกแอปที่สร้างเสียงจะปรากฏขึ้นพร้อมแถบเลื่อนของตัวเอง</li>
+<li>ตั้งค่าระดับ ปิดเสียงสิ่งที่คุณไม่ต้องการ และเพิ่มเสียงที่เงียบเกินไป</li>
+<li>บันทึกการจัดเรียงเป็นโปรไฟล์ จากนั้นสร้างเพิ่มเติมสำหรับการเล่นเกม การโทร หรือโฟกัส</li>
+<li>เปิดการปิดเสียงอัตโนมัติเพื่อให้เสียงพื้นหลังหยุดทำงานโดยอัตโนมัติ</li>
+</ul>
+
+<p>นั่นคือวงทั้งหมด ภายในไม่กี่นาที คุณจะมีบูสเตอร์ควบคุมต่อแอปของ eqMac ที่บอกเป็นนัยเท่านั้น</p>
+
+<p><strong>พร้อมสำหรับปริมาณต่อแอปจริงบน Mac ของคุณแล้วหรือยัง?</strong> <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — €14.99 ครั้งเดียว แซนด์บ็อกซ์ ไม่มีไดรเวอร์ และทำงานตามที่มิกเซอร์แถบเมนูควรทำทุกประการ</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "Volume Mixer ราคาถูกที่สุดสำหรับ Mac ในปี 2026",
+    description: "กำลังมองหา Volume Mixer ต่อแอปที่ถูกที่สุดสำหรับ Mac ในปี 2026 อยู่ใช่ไหม? เปรียบเทียบ SoundDial, SoundSource, Background Music, FineTune และ eqMac เกี่ยวกับราคา ความปลอดภัย และฟีเจอร์",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>ตัวปรับแต่งเสียงต่อแอปที่คุ้มค่าที่สุดสำหรับ Mac ในปี 2026 คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแอปแถบเมนูบน Mac App Store ในราคาเพียง €14.99 มันทำให้ทุกแอปมีแถบเลื่อนระดับเสียงของตัวเอง รวมถึงปิดเสียง บูสต์ โปรไฟล์และการลบอัตโนมัติ — ไม่ต้องใช้ไดรเวอร์ ไม่ต้องสมัครสมาชิก และไม่มีการดาวน์โหลดที่มีความเสี่ยง เป็นตัวเลือกที่จ่ายเงินถูกที่สุดซึ่งใช้งานได้จริงและเชื่อถือได้</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — มิกเซอร์ระดับเสียงที่ดีราคาถูกที่สุดสำหรับ Mac ในปี 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใด "ถูกที่สุด" จึงจำเป็นต้องมีคำจำกัดความ</h2>
+<p>มีเครื่องมือโวลุ่มฟรีสำหรับ Mac ดังนั้นหากเป้าหมายเดียวคือการใช้จ่ายเป็นศูนย์ คุณก็มีตัวเลือกต่างๆ แต่การฟรีมักจะทำให้คุณเสียอย่างอื่น เช่น ความเปราะบางในเวอร์ชัน macOS ใหม่ คุณลักษณะที่ขาดหายไป เช่น การบูสต์หรือโปรไฟล์ หรือกระบวนการติดตั้งที่เกี่ยวข้องกับไดรเวอร์จับภาพเสียงที่คุณต้องไว้วางใจ "สินค้าถูกที่สุด" หมายถึงราคาต่ำสุดที่ยังช่วยให้คุณได้มิกเซอร์ที่มีคุณสมบัติครบถ้วนและเสถียรที่คุณจะใช้ต่อไป นั่นคือเลนส์ที่เราจะใช้ที่นี่</p>
+
+<h2>ประการแรก สิ่งที่ macOS ไม่ทำ</h2>
+<p>Windows มีตัวปรับแต่งระดับเสียงต่อแอปมานานหลายปี — คลิกขวาที่ไอคอนลำโพงแล้วตั้งค่าแต่ละแอปแยกจากกัน macOS ยังคงไม่มีอะไรเทียบเท่าในตัว คุณจะได้รับวอลุ่มหลักหนึ่งเล่มและตัวเลื่อนภายในใดก็ตามที่แอปจัดส่งให้ (เพลง เบราว์เซอร์บางตัว) ไม่มีวิธีใดทั่วทั้งระบบในการทำให้ Slack เงียบกว่า Spotify หรือเพิ่มการสนทนาทางวิดีโอแบบเงียบเหนือสิ่งอื่นใด ทุกตัวเลือกด้านล่างมีอยู่เพื่อเติมเต็มช่องว่างนั้น</p>
+
+<h2>คู่แข่งราคาตรงไปตรงมา</h2>
+
+<h2>SoundDial — €14.99 ครั้งเดียว</h2>
+<p>SoundDial อยู่ในแถบเมนูของคุณและให้แต่ละแอปที่รันอยู่มีแถบเลื่อนระดับเสียงที่เป็นอิสระ นอกเหนือจากพื้นฐานแล้ว ยังเพิ่มฟีเจอร์ที่ผู้คนเข้าถึงได้จริง:</p>
+<ul>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> — ผลักดันแอปที่เงียบเกินไปให้สูงกว่า 100% แทนที่จะต้องฟังจนตึง</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปหนึ่งโดยไม่ต้องแตะส่วนที่เหลือ</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ "สายงาน" หรือ "ดูหนังตอนกลางคืน" แล้วเรียกคืนได้ทันที</li>
+<li><strong>Auto-ducking</strong> — วางเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเล่น</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+<p>เนื่องจากอยู่ใน Mac App Store จึงผ่านแซนด์บ็อกซ์ ตรวจสอบโดย Apple และติดตั้งเรียบร้อย — ไม่มี DMG ไม่มีส่วนขยายเคอร์เนล ไม่มีไดรเวอร์เสียงให้อนุมัติ คุณจ่าย <a href="https://apps.apple.com/app/id6772792641">€14.99 ครั้งเดียว</a> และเป็นเจ้าของมัน สำหรับคนส่วนใหญ่ นี่คือจุดที่น่าสนใจ: ราคาถูกพอที่จะเป็นเรื่องง่าย ใช่ สมบูรณ์เพียงพอที่คุณจะไม่เติบโตเร็วกว่านั้น</p>
+
+<h2>SoundSource — ~$39 เป็นตัวเลือกระดับมืออาชีพ</h2>
+<p>SoundSource ของ Rogue Amoeba คือมาตรฐานทองคำสำหรับผู้ใช้ระดับสูง มันทำระดับเสียงต่อแอปและปิดเสียงเหมือน SoundDial แต่ไปไกลกว่านั้นด้วยอีควอไลเซอร์ต่อแอปและการกำหนดเส้นทางเอาต์พุตแบบเต็ม (ส่งแอปหนึ่งไปยังหูฟัง อีกแอปหนึ่งไปยังลำโพง) มันยอดเยี่ยมจริงๆ – แต่ราคาประมาณ $ 39 และติดตั้งนอก App Store พร้อมส่วนประกอบการจับเสียงที่คุณต้องให้สิทธิ์ หากคุณต้องการ EQ ต่อแอปหรือการกำหนดเส้นทางที่ซับซ้อน ก็คุ้มค่ากับเงินที่จ่ายไป หากคุณต้องการมิกเซอร์ที่สะอาดและราคาถูก คุณจะต้องจ่ายให้กับความสามารถที่คุณอาจไม่เคยสัมผัสมาก่อน</p>
+
+<h2>Background Music — ฟรี โอเพ่นซอร์ส</h2>
+<p>Background Music เป็นแอปโอเพ่นซอร์สฟรีที่รู้จักกันดีซึ่งมีปริมาณต่อแอปและการหยุดชั่วคราวอัตโนมัติ สิ่งที่จับได้: มันเชื่อมต่อลึกเข้าไปใน Core Audio ผ่านไดรเวอร์เสมือน และมีประวัติอันยาวนานในการทำลาย macOS รุ่นใหม่ ซึ่งบางครั้งจำเป็นต้องแก้ไขด้วยตนเองหรือติดตั้งใหม่หลังจากการอัพเดต นอกจากนี้ยังขาดการเร่งความเร็ว บันทึกโปรไฟล์ และการลบข้อมูลอัตโนมัติ เหมาะสำหรับคนจรจัดที่ไม่รังเกียจการบำรุงรักษา น่าหงุดหงิดถ้าคุณต้องการให้มันทำงาน</p>
+
+<h2>FineTune — ฟรี แถบเมนู</h2>
+<p>FineTune เป็นแอปโวลุ่มแถบเมนูแบบโอเพ่นซอร์สฟรี มันมีน้ำหนักเบาและน่าพอใจ และสำหรับการปรับแต่งต่อแอปแบบง่ายๆ ก็เพียงพอแล้ว แต่เนื่องจากเป็นโปรเจ็กต์ฟรีขนาดเล็ก จึงไม่ตรงกับความลึกของฟีเจอร์ — ไม่มีโปรไฟล์ ไม่มีการลบอัตโนมัติ และการจัดการบูสต์/เอาท์พุตมีจำกัด ไม่มีค่าใช้จ่าย รับประกันอายุการใช้งานและการสนับสนุนน้อยลง</p>
+
+<h2>eqMac — ฟรี EQ + บูสเตอร์</h2>
+<p>eqMac เป็นอีควอไลเซอร์ฟรีทั้งระบบพร้อมตัวเพิ่มระดับเสียง เป็นเรื่องเกี่ยวกับการปรับโทนเสียงและความดังให้กับ Mac ทั้งหมดของคุณมากกว่าการผสมแต่ละแอป ดังนั้นจึงเป็นเครื่องมือที่แตกต่างกันสำหรับงานที่แตกต่างกัน หากคุณต้องการการควบคุมต่อแอปโดยเฉพาะ eqMac ไม่ใช่คำตอบจริงๆ แม้ว่าจะเป็น EQ ฟรีที่ดีก็ตาม</p>
+
+<h2>ราคาเทียบกับมูลค่า: ตารางที่ซื่อสัตย์</h2>
+<ul>
+<li><strong>ฟรีอย่างแท้จริง แต่มีข้อดี:</strong> Background Music (เปราะบาง อิงไดรเวอร์), FineTune (คุณสมบัติบาง), eqMac (EQ ไม่ใช่มิกเซอร์)</li>
+<li><strong>แอพที่ต้องเสียเงินที่ถูกที่สุด:</strong> SoundDial ราคา €14.99 — บูสต์ โปรไฟล์ การหลบ ความปลอดภัย App Store</li>
+<li><strong>พรีเมียม/โปร:</strong> SoundSource ราคา ~$39 — EQ และการกำหนดเส้นทาง การติดตั้งที่ไม่ใช่ App Store</li>
+</ul>
+<p>กล่าวอีกนัยหนึ่ง: SoundDial มีราคาประมาณหนึ่งในสามของ SoundSource ในขณะที่ครอบคลุมคุณสมบัติ 90% ที่ผู้คนต้องการจริงๆ และต่างจากตัวเลือกฟรีตรงที่จะไม่พังอย่างเงียบๆ หลังจากอัปเดต macOS เนื่องจากไม่ต้องอาศัยไดรเวอร์เสียงระดับระบบที่เปราะบาง</p>
+
+<h2>คุณควรเลือกอันไหน?</h2>
+<p>หากคุณเป็นมือโปรที่ต้องการ EQ ต่อแอปและต้องการกำหนดเส้นทางแอปไปยังเอาต์พุตต่างๆ ให้ซื้อ SoundSource เพราะจะได้ราคาที่คุ้มค่า หากคุณชื่นชอบโอเพ่นซอร์สและไม่รังเกียจที่จะเสียหายเป็นครั้งคราว ลองใช้ Background Music หรือ FineTune ได้ฟรี แต่ถ้าคุณต้องการตัวเลือกที่ถูกที่สุดที่ใช้งานได้ — ระดับเสียงอิสระ บูสต์ ปิดเสียง โปรไฟล์ที่บันทึกได้ และการลบอัตโนมัติ ที่ติดตั้งอย่างปลอดภัยจาก App Store — SoundDial คือผู้ชนะด้านมูลค่าที่ชัดเจนในปี 2026</p>
+
+<blockquote>มิกเซอร์ที่ดีที่สุดไม่ใช่มิกเซอร์ที่มีคุณสมบัติมากที่สุดหรือราคาต่ำที่สุด แต่เป็นมิกเซอร์ที่คุณตั้งค่าไว้เพียงครั้งเดียวและลืมไปเลย ด้วยราคา 14.99 ยูโร SoundDial ทำให้การโทรเป็นเรื่องง่าย</blockquote>
+
+<p>พร้อมที่จะให้ทุกแอปมีวอลลุ่มเป็นของตัวเองแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> เพียงจ่ายครั้งเดียว €14.99 — ไม่ต้องสมัครสมาชิก ไม่มีไดรเวอร์ และไม่มีความเสี่ยง</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Windows Volume Mixer สำหรับ Mac: รับการควบคุมระดับเสียงต่อแอป",
+    description: "ไม่มี Windows Volume Mixer ใน Mac ของคุณใช่ไหม macOS ไม่มีการควบคุมระดับเสียงต่อแอปในตัว วิธีซื้อที่เร็วที่สุดคือ SoundDial มิกเซอร์แถบเมนูราคา 14.99 ยูโร",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มี Volume Mixer ในตัวเช่น Windows ดังนั้นคุณจึงไม่สามารถตั้งค่าระดับเสียงต่อแอปจากการตั้งค่าระบบได้ การแก้ไขที่รวดเร็วและเชื่อถือได้คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแอปแถบเมนูราคา 14.99 ยูโรจาก Mac App Store มันทำให้ทุกแอปมีแถบเลื่อนระดับเสียง ปิดเสียง และบูสต์เป็นของตัวเอง — ไม่มีไดรเวอร์, ไม่มี DMG, ไม่มีการติดตั้งที่มีความเสี่ยง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows Volume Mixer สำหรับ Mac: รับการควบคุมระดับเสียงต่อแอป" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใด Volume Mixer Windows จึงไม่เทียบเท่ากับ Mac</h2>
+
+<p>หากคุณเปลี่ยนจาก Windows หนึ่งในสิ่งแรกๆ ที่คุณจะพลาดคือ Volume Mixer: คลิกขวาที่ไอคอนลำโพง จากนั้นทุกแอปที่รันอยู่จะมีแถบเลื่อนของตัวเอง ลด Chrome ลง, เปิด Discord ดังๆ, ปิดเสียง Spotify — ทั้งหมดในที่เดียว</p>
+
+<p>macOS ไม่ได้จัดส่งสิ่งนี้ การควบคุมระดับเสียงของ Apple เป็นเพียงแถบเลื่อนทั้งระบบ ระดับใดก็ตามที่คุณตั้งไว้จะมีผลกับทุกสิ่งในคราวเดียว ไม่มีตัวเลือกต่อแอปที่ซ่อนอยู่ในการตั้งค่าระบบ ไม่มีคำสั่ง Terminal ไม่มีการสลับการเข้าถึง มันเป็นช่องว่างที่แท้จริง และเป็นเช่นนั้นมาหลายปีแล้ว</p>
+
+<p>เหตุผลก็คือสถาปัตยกรรม: แอปจะกำหนดเส้นทางเสียงผ่าน Core Audio ไปยังอุปกรณ์เอาท์พุตของคุณ และระบบปฏิบัติการจะไม่เปิดเผยมิกเซอร์ที่ผู้ใช้เผชิญหน้ากันสำหรับสตรีมแต่ละรายการ หากต้องการสร้างประสบการณ์ Windows ขึ้นมาใหม่ คุณต้องมีแอปของบริษัทอื่นที่อยู่ในเส้นทางเสียงนั้น และให้การควบคุมที่ Apple ทิ้งไว้ให้คุณ</p>
+
+<h2>การแข่งขันที่ใกล้เคียงที่สุด: SoundDial</h2>
+
+<p>SoundDial คือแถบเมนูตัวปรับแต่งเสียงต่อแอปที่สร้างขึ้นมาเพื่อการนี้โดยเฉพาะ คลิกที่ไอคอนแล้วคุณจะเห็นรายการทุกอย่างที่เล่นเสียงโดยแต่ละอันมีแถบเลื่อนของตัวเอง เป็น "Windows Volume Mixer สำหรับ Mac" ที่ตรงที่สุดที่คุณสามารถติดตั้งได้ และทำบางสิ่งที่มิกเซอร์ Windows ไม่เคยทำได้:</p>
+
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — คุณสมบัติหลัก ตั้งค่า Chrome เป็น 40%, Zoom เป็น 100%, เพลงเป็น 20%</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปหนึ่งโดยไม่ต้องแตะส่วนที่เหลือ</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ผลักดันแอปที่เงียบ <em>ด้านบน</em> 100% เมื่อเสียงของตัวเองต่ำเกินไป</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ (เช่น "สายงาน" หรือ "เกม") และเรียกคืนได้ทันทีแทนที่จะลากแถบเลื่อนใหม่</li>
+<li><strong>Auto-ducking</strong> — ลดเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเริ่มต้นขึ้น เช่น การโทร</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+
+<p>เพราะมันอยู่บน. <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>ได้รับการตรวจสอบจาก Apple และแซนด์บ็อกซ์แล้ว ติดตั้งได้หมดจดด้วยคลิกเดียว — ไม่ต้องลาก DMG ไม่ต้องอนุมัติไดรเวอร์เสียงหรือส่วนขยายระบบ ไม่ต้องแจ้งเตือนด้านความปลอดภัย ด้วยราคา €14.99 ครั้งเดียว (ไม่ต้องสมัครสมาชิก) เป็นวิธีที่ง่ายที่สุดในการปิดช่องว่าง</p>
+
+<h2>วิธีตั้งค่าระดับเสียงต่อแอปบน Mac ของคุณ</h2>
+
+<ol>
+<li>ติดตั้ง SoundDial จาก Mac App Store</li>
+<li>ให้สิทธิ์เสียงแบบครั้งเดียวที่ร้องขอเมื่อเปิดตัวครั้งแรก</li>
+<li>คลิกไอคอน SoundDial ในแถบเมนูของคุณ</li>
+<li>ลากแถบเลื่อนที่อยู่ถัดจากแอปใดก็ได้เพื่อปรับระดับเสียง หรือกดปิดเสียง/เพิ่มเสียง</li>
+<li>คุณสามารถเลือกบันทึกมิกซ์ปัจจุบันเป็นโปรไฟล์เพื่อให้คุณสามารถกู้คืนได้ในภายหลัง</li>
+</ol>
+
+<p>นั่นคือขั้นตอนการทำงานทั้งหมด มันทำงานเหมือนกับมิกเซอร์ Windows ที่คุณรู้จักอยู่แล้ว เพียงแค่จากแถบเมนูแทนที่จะคลิกขวาบนทาสก์บาร์</p>
+
+<h2>SoundDial เปรียบเทียบกับตัวเลือกอื่นๆ อย่างไร</h2>
+
+<p>SoundDial ไม่ใช่เครื่องมือเดียวในพื้นที่นี้ ดังนั้น ต่อไปนี้คือภาพรวมของทางเลือกอื่น</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — ประมาณ 39 เหรียญสหรัฐ และระดับโปรอย่างแท้จริง: EQ ต่อแอป, การกำหนดเส้นทางเอาท์พุตต่อแอป, เอฟเฟกต์ แต่จำเป็นต้องดาวน์โหลดโดยตรงพร้อมไดรเวอร์จับภาพเสียง และมีค่าใช้จ่ายสูงเกินไป (และแพงกว่า) หากคุณต้องการปริมาณต่อแอป เลือกหากคุณต้องการ EQ และการกำหนดเส้นทาง เลือก SoundDial หากคุณต้องการมิกเซอร์ที่ไม่ซับซ้อนหรือไม่มีไดรเวอร์</li>
+<li><strong>Background Music</strong> — ฟรีและโอเพ่นซอร์สซึ่งยอดเยี่ยมมาก สิ่งที่จับได้: มันสามารถใช้งานกับ macOS เวอร์ชันใหม่กว่าได้ และขาดการบูสต์ โปรไฟล์ที่บันทึกไว้ และการลบข้อมูลอัตโนมัติ ใช้ได้หากคุณสะดวกใจในการแก้ไขปัญหาไดรเวอร์เสียงแบบโอเพ่นซอร์ส เหมาะน้อยกว่าถ้าคุณต้องการบางสิ่งที่ใช้งานได้จริง</li>
+<li><strong>FineTune</strong> — แอปแถบเมนูโอเพ่นซอร์สฟรี น้ำหนักเบาและคุ้มค่าหากงบประมาณเป็นสิ่งสำคัญ แต่คุณแลกการขัดเงา โปรไฟล์ และความปลอดภัย App Store ได้ฟรี</li>
+<li><strong>eqMac</strong> — EQ ฟรีและบูสเตอร์ทั่วทั้งระบบ มันเป็นอีควอไลเซอร์ก่อน ไม่ใช่ตัวผสมต่อแอป ดังนั้นจึงแก้ปัญหาอื่นได้</li>
+</ul>
+
+<p>การแลกเปลี่ยนเป็นเรื่องง่าย เครื่องมือฟรีไม่มีค่าใช้จ่ายใดๆ ยกเว้นแต่อาจเปราะบางหรือบางเฉียบได้ SoundSource มีประสิทธิภาพแต่มีราคาแพงและอิงตามไดรเวอร์ SoundDial อยู่ในจุดที่เหมาะ: ครั้งเดียว €14.99, ความปลอดภัย App Store และแซนด์บ็อกซ์ และโปรไฟล์ + การลบอัตโนมัติที่ตัวเลือกฟรีข้ามไป</p>
+
+<blockquote>หากคุณต้องการเพียงประสบการณ์ Windows Volume Mixer — แถบเลื่อนต่อแอป ปิดเสียง และบูสต์ ติดตั้งอย่างปลอดภัยในไม่กี่วินาที — SoundDial คือคำตอบที่ตรงที่สุด</blockquote>
+
+<h2>บรรทัดล่าง</h2>
+
+<p>macOS จะไม่ให้ Volume Mixer แก่คุณ และอาจจะไม่ให้ด้วย แต่คุณไม่จำเป็นต้องอยู่กับแถบเลื่อนทั้งระบบเพียงตัวเดียว มิกเซอร์แถบเมนูเฉพาะจะคืนค่าการควบคุมต่อแอปที่คุณมีใน Windows และเพิ่มบูสต์ โปรไฟล์ และการลบอัตโนมัติที่ด้านบน</p>
+
+<p>พร้อมรับปริมาณต่อแอปด้วยวิธีง่ายๆ แล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> ราคา €14.99 — ครั้งเดียว แซนด์บ็อกซ์ และติดตั้งได้ในไม่กี่วินาที</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "ตั้งค่าระดับเสียงของแอปเหมือนกับที่ Windows ทำ — บน Mac ของคุณ",
+    description: "Windows มีตัวปรับแต่งเสียงต่อแอป แต่ macOS ไม่มี ต่อไปนี้เป็นวิธีการตั้งค่าระดับเสียงแยกกันสำหรับทุกแอปบน Mac ของคุณ — รวดเร็ว ปลอดภัย และไม่มีไดรเวอร์",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มีตัวปรับแต่งเสียงต่อแอปในตัวเหมือนกับใน Windows ดังนั้นการแก้ไขที่เชื่อถือได้เร็วที่สุดคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแอปแถบเมนู Mac App Store ที่ให้ทุกแอปมีตัวเลื่อนระดับเสียง การปิดเสียงต่อแอป และเพิ่มระดับเสียง เป็นแซนด์บ็อกซ์ ตรวจสอบโดย Apple ติดตั้งโดยไม่มีไดรเวอร์ และมีราคา 14.99 ยูโรต่อครั้ง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ตั้งค่าระดับเสียงของแอพเหมือนกับที่ Windows ทำ — บน Mac ของคุณ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไม Windows ถึงทำได้ และ macOS ทำไม่ได้</h2>
+<p>หากคุณเคยใช้ Windows คุณจะทราบถึงขั้นตอนนี้: คลิกขวาที่ไอคอนลำโพง เปิด Volume Mixer แล้วลากแถบเลื่อนแยกต่างหากสำหรับ Chrome, Spotify, Discord และสิ่งอื่นๆ ที่สร้างเสียงรบกวน มันง่ายและใช้งานได้</p>
+<p>macOS ไม่เคยจัดส่งที่เทียบเท่ากัน ส่วนควบคุมเสียงของ Apple เป็นแบบสากล — โวลุ่มหลักหนึ่งตัวสำหรับทั้งระบบ คุณสามารถปิดเสียงแอปได้โดยปิดเสียงแหล่งที่มาภายในแอปนั้น (หากมีการควบคุม) แต่ไม่มีที่ใดที่จะพูดว่า "เก็บเพลงของฉันไว้ที่ 40% ในขณะที่การประชุมของฉันอยู่ที่ 100%" ช่องว่างนั้นเป็นเหตุว่าทำไมจึงมีมิกเซอร์บุคคลที่สามอยู่</p>
+
+<h2>การแก้ไขที่เร็วที่สุด: มิกเซอร์แถบเมนู</h2>
+<p>สิ่งที่ใกล้เคียงที่สุดกับประสบการณ์ Windows คือแอปแถบเมนูที่แสดงรายการแอปเสียงที่กำลังรันอยู่และให้แต่ละแอปมีแถบเลื่อน <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ทำสิ่งนี้อย่างแม่นยำ คลิกที่ไอคอนในแถบเมนูแล้วคุณจะได้รับ:</p>
+<ul>
+<li><strong>ปริมาณอิสระสำหรับทุกแอป</strong> — ลาก Spotify ลงโดยไม่ต้องแตะสายของคุณ</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปที่มีเสียงดังหนึ่งแอปทันที ปล่อยให้แอปที่เหลือเล่นต่อไป</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ผลักดันแอปที่เงียบเกินไป <em>ด้านบน</em> 100% เมื่อค่าสูงสุดของตัวเองยังอ่อนเกินไป</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ "งาน" หรือ "เกม" และเรียกคืนได้ในคลิกเดียว</li>
+<li><strong>Auto-ducking</strong> — ลดเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเริ่มต้นขึ้น</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และเอาต์พุตอื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+<p>เนื่องจากอยู่ใน Mac App Store จึงแซนด์บ็อกซ์และตรวจสอบโดย Apple ติดตั้งได้อย่างสมบูรณ์ และไม่มี DMG ให้ลาก ไม่มีส่วนขยายเคอร์เนล และไม่มีไดรเวอร์เสียงให้อนุมัติในการตั้งค่าระบบ ส่วนสุดท้ายนั้นสำคัญมากกว่าที่คิด — เครื่องมือที่ใช้ไดรเวอร์เป็นส่วนที่มีแนวโน้มที่จะใช้งานไม่ได้หลังจากการอัพเดต macOS</p>
+
+<h2>วิธีการตั้งค่า (ประมาณ 2 นาที)</h2>
+<ul>
+<li><strong>1.</strong> ติดตั้ง SoundDial จาก Mac App Store และเปิดใช้งาน</li>
+<li><strong>2.</strong> ให้สิทธิ์อนุญาตเสียงพร้อมท์ให้ macOS - นี่คือสิ่งที่ช่วยให้แอปเห็นสตรีมต่อแอป</li>
+<li><strong>3.</strong> คลิกไอคอน SoundDial ในแถบเมนูของคุณ ทุกแอปที่กำลังเล่นเสียงอยู่จะแสดงแถบเลื่อนของตัวเอง</li>
+<li><strong>4.</strong> ลากแถบเลื่อนของแอปใดก็ได้เพื่อตั้งค่าระดับหรือกดปิดเสียง เพิ่มพลังเกิน 100% เมื่อแอปเงียบเกินไป</li>
+<li><strong>5.</strong> (ไม่บังคับ) บันทึกมิกซ์ปัจจุบันของคุณเป็นโปรไฟล์เพื่อให้คุณสามารถกู้คืนได้ในภายหลัง และเปิดการลบเสียงอัตโนมัติหากคุณต้องการให้เสียงพื้นหลังหลุดโดยอัตโนมัติ</li>
+</ul>
+<p>นั่นคือขั้นตอนการทำงานทั้งหมด มันทำงานเหมือนกับ Windows Volume Mixer ที่คุณรู้จักอยู่แล้ว ลบด้วยแรงเสียดทานในการตั้งค่า</p>
+
+<h2>แล้วทางเลือกฟรีและแบบมืออาชีพล่ะ?</h2>
+<p>มีวิธีอื่นในการรับปริมาณต่อแอปบน Mac สิ่งเหล่านี้ควรค่าแก่การรู้เพื่อให้คุณสามารถเลือกได้อย่างตรงไปตรงมา</p>
+<blockquote>เครื่องมือฟรีแลกเงินเพื่อความน่าเชื่อถือและคุณสมบัติ เครื่องมือระดับมืออาชีพแลกเปลี่ยนเงินและการตั้งค่าเชิงลึกที่คุณอาจไม่ต้องการ</blockquote>
+<p><strong>Background Music</strong> เป็นบริการฟรีและเป็นโอเพ่นซอร์ส และให้ปริมาณต่อแอป สิ่งที่จับได้: มันเกี่ยวลึกเข้าไปในระบบเสียงและมีประวัติของการทำลายล้างในรุ่น macOS รุ่นใหม่กว่า และยังขาดการบูสต์ โปรไฟล์ และการลบอัตโนมัติ ถ้ามันได้ผลกับการตั้งค่าของคุณ ก็เยี่ยมเลย — แต่มันก็เป็นการเสี่ยงโชคกับการอัปเกรด</p>
+<p><strong>FineTune</strong> เป็นแอปแถบเมนูโอเพ่นซอร์สฟรีที่มีแนวคิดเดียวกับ SoundDial เป็นจุดเริ่มต้นที่ดีหากงบประมาณเป็นปัญหาเพียงอย่างเดียว แม้ว่าจะเป็นโครงการเพื่อชุมชนที่ไม่มีโปรไฟล์และการขัดเกลาก็ตาม</p>
+<p><strong>eqMac</strong> เป็น EQ และบูสเตอร์ฟรีทั้งระบบ เหมาะอย่างยิ่งสำหรับการสร้างเสียงโดยรวม แต่ไม่ใช่มิกเซอร์ต่อแอปอย่างแท้จริง เพราะคุณกำลังปรับเอาต์พุตทั้งหมด ไม่ใช่แต่ละแอป</p>
+<p><strong>SoundSource</strong> โดย Rogue Amoeba (ประมาณ 39 เหรียญสหรัฐ) เป็นตัวเลือกระดับมืออาชีพ: EQ ต่อแอป, การกำหนดเส้นทางเอาต์พุตต่อแอป และฟีเจอร์วิศวกรเสียงที่จริงจัง มันยอดเยี่ยม — แต่จำเป็นต้องดาวน์โหลดโดยตรงและติดตั้งส่วนประกอบการจับเสียง และมีค่าใช้จ่ายมากกว่าสองเท่าของที่ SoundDial ทำ หากคุณต้องการการกำหนดเส้นทางระดับสตูดิโอและ EQ คุณสามารถเลือกได้ หากคุณต้องการมิกเซอร์สไตล์ Windows ก็ถือว่าเกินความจำเป็น</p>
+
+<h2>คุณควรได้รับอันไหน?</h2>
+<p>หากเป้าหมายของคุณคือ "ทำให้ Mac ของฉันทำงานเหมือนกับ Windows Volume Mixer" โดยไม่ต้องดาวน์โหลด ไดรเวอร์ หรือความเสี่ยงใดๆ SoundDial คือคำตอบที่ชัดเจนที่สุด คุณจะได้รับระดับเสียงต่อแอป ปิดเสียง บูสต์ โปรไฟล์ และการลบอัตโนมัติ ทั้งหมดปลอดภัยสำหรับ App Store เพียงจ่ายครั้งเดียว €14.99 — ไม่ต้องสมัครสมาชิก เลือก SoundSource แทนเฉพาะในกรณีที่คุณต้องการ EQ ต่อแอปและการกำหนดเส้นทางเอาท์พุตโดยเฉพาะ และลองใช้ตัวเลือกฟรีหากคุณสะดวกใจในการแก้ไขปัญหาในการอัปเดต macOS</p>
+
+<p><strong>พร้อมที่จะให้ทุกแอปมีวอลลุ่มเป็นของตัวเองแล้วหรือยัง?</strong> <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และตั้งค่ามิกซ์แรกของคุณในเวลาประมาณสองนาที</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "วิธีทำให้ Mac ของคุณดังขึ้นสำหรับการฟังที่มีปัญหาในการได้ยิน",
+    description: "ลำบากใจที่จะฟัง Mac ของคุณแม้ในระดับเสียงสูงสุดใช่ไหม? เรียนรู้วิธีเพิ่มและชี้แจงเสียงต่อแอปสำหรับการฟังที่มีปัญหาในการได้ยิน รวมถึง SoundDial และเคล็ดลับในตัว",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หาก Mac ของคุณไม่ดังพอแม้ในระดับเสียงสูงสุด วิธีแก้ไขที่เชื่อถือได้เร็วที่สุดก็คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นมิกเซอร์แถบเมนู Mac App Store ที่ให้คุณบูสต์แอปใดแอปหนึ่งให้เกิน 100% และปิดเสียงอย่างอื่นทั้งหมดได้ นั่นหมายถึงเสียงพูดที่ดังและชัดเจนยิ่งขึ้นจาก FaceTime วิดีโอ หรือเครื่องเล่นภาพยนตร์ โดยไม่ทำให้ระบบทั้งหมดของคุณกระตุก ราคา €14.99 ครั้งเดียว</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — วิธีทำให้ Mac ของคุณดังขึ้นสำหรับการฟังที่มีปัญหาในการได้ยิน" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดการเพิ่มแถบเลื่อนระดับเสียงสูงสุดจึงยังไม่เพียงพอ</h2>
+<p>สำหรับผู้ฟังที่มีปัญหาในการได้ยิน ตัวเลื่อนระดับเสียง macOS มีขีดจำกัดที่น่าหงุดหงิดอยู่สองประการ ขั้นแรก ให้จำกัดไว้ที่ 100% ของสิ่งที่แอปส่งออกเอง หากพ็อดคาสท์ วิดีโอ หรือการโทรถูกบันทึกอย่างเงียบๆ แสดงว่า "ระดับเสียงเต็ม" ยังคงเบาเกินไป ประการที่สอง macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีมาหลายปีแล้ว แต่ใน Mac ทุกแอปจะมีระดับมาสเตอร์ระดับเดียวกัน ดังนั้นเมื่อคุณพลิกทุกอย่างขึ้นเพื่อได้ยินเสียงเบา ๆ เพลงพื้นหลังและเสียงแจ้งเตือนก็จะดังจนอึดอัดเช่นกัน</p>
+<p>สิ่งที่คุณต้องการจริงๆ คือความสามารถในการสร้าง <em>หนึ่ง</em> แอปดังกว่าที่อื่น ดันให้เกินเพดานปกติ และตัดเสียงที่แข่งขันกันเพื่อให้เสียงพูดโดดเด่น นั่นคือช่องว่างที่เครื่องมือเหล่านี้เติมเต็ม</p>
+
+<h2>ขั้นแรก ให้ใช้การตั้งค่าการเข้าถึง macOS ฟรี</h2>
+<p>ก่อนที่จะเพิ่มแอปใดๆ คุณควรตั้งค่าสิ่งที่ macOS นำเสนออยู่แล้วก่อน สิ่งเหล่านี้ช่วยให้เกิดความชัดเจน แม้ว่าจะไม่เพิ่มความดังก็ตาม:</p>
+<ul>
+<li><strong>เสียงโมโน:</strong> การตั้งค่าระบบ &rarr; การเข้าถึง &rarr; Audio เปิด "เล่นเสียงสเตอริโอเป็นโมโน" หากการได้ยินของคุณชัดเจนขึ้นในหูข้างเดียว การได้ยินจะส่งสัญญาณทั้งหมดไปยังหูทั้งสองข้าง ดังนั้นคุณจะไม่สูญเสียบทสนทนาไปครึ่งหนึ่ง</li>
+<li><strong>การปรับสมดุล:</strong> ในการตั้งค่าระบบ &rarr; Sound ให้ลากสมดุลซ้าย/ขวาไปทางหูที่แข็งแรงกว่าของคุณ</li>
+<li><strong>ลดเสียงพื้นหลัง:</strong> เพลงและบรรยากาศในแอปที่อนุญาตลดลง เสียงจึงไม่ขัดแย้งกับเพลงประกอบ</li>
+<li><strong>ที่พักหูฟัง:</strong> หากคุณใช้ AirPods หรือ Beats การตั้งค่าระบบ การเข้าถึง &rarr; &rarr; เสียง &rarr; การช่วยเหลือหูฟังสามารถขยายเสียงที่นุ่มนวลและปรับแต่งเสียงพูดได้</li>
+</ul>
+<p>สิ่งเหล่านี้มีประโยชน์อย่างแท้จริงและไม่มีค่าใช้จ่ายใดๆ แต่ไม่มีแอปไหนที่สร้างแอปเงียบๆ ได้แม้แต่แอปเดียว <em>ดังกว่า 100%</em>และนั่นคือปัญหาที่แท้จริง</p>
+
+<h2>วิธีเพิ่มแอปหนึ่งแอปให้เกิน 100% ด้วย SoundDial</h2>
+<p>SoundDial อยู่ในแถบเมนูของคุณและแสดงแถบเลื่อนสำหรับทุกแอปที่กำลังเล่นเสียงอยู่ ขั้นตอนการทำงานที่ช่วยได้มากที่สุดสำหรับการฟังที่มีปัญหาในการได้ยิน:</p>
+<ul>
+<li><strong>เพิ่มประสิทธิภาพแอปที่คุณกำลังฟัง</strong> ลากตัวเลื่อนเหนือ 100% เพื่อขยายการสนทนาทางวิดีโอหรือพอดแคสต์แบบเงียบๆ ให้เกินกว่าที่แอปจะอนุญาตในตัวเอง</li>
+<li><strong>ปิดเสียงหรือลดสิ่งอื่นๆ ทั้งหมด</strong> ดึงเพลง แท็บเบราว์เซอร์ หรือเสียงแจ้งเตือนลงมา เพื่อไม่ให้เสียงใดมาแข่งขันกับเสียงที่คุณพยายามติดตาม</li>
+<li><strong>เปิดการดูดอัตโนมัติ</strong> เมื่อคุณเริ่มพูดสาย SoundDial จะจุ่มเสียงอื่นๆ โดยอัตโนมัติ เพื่อให้คนที่คุณกำลังคุยด้วยชัดเจน จากนั้นจึงกู้คืนในภายหลัง</li>
+<li><strong>บันทึกโปรไฟล์วอลุ่ม</strong> สร้างโปรไฟล์ "แฮงเอาท์วิดีโอ" ที่แอปการประชุมของคุณได้รับการเพิ่มประสิทธิภาพและทุกอย่างจะเงียบ จากนั้นสลับไปใช้ทันทีแทนที่จะปรับใหม่ทุกครั้ง</li>
+<li><strong>สลับเอาต์พุตอย่างรวดเร็ว</strong> ข้ามไปมาระหว่างลำโพง ชุดหูฟัง หรืออุปกรณ์ที่เชื่อมต่อกับเครื่องช่วยฟังจากเมนูเดียวกัน โดยไม่ต้องผ่านการตั้งค่าระบบ</li>
+</ul>
+<p>คุณสมบัติการเพิ่มประสิทธิภาพเป็นกุญแจสำคัญที่นี่ เนื่องจากจะทำให้เอาต์พุตของแอปสูงกว่าค่าสูงสุดดั้งเดิม การบันทึกที่เงียบเสียงกระซิบจึงกลายเป็นสิ่งที่คุณได้ยินได้จริง ในขณะที่ส่วนที่เหลือของระบบจะอยู่ในระดับที่สบาย</p>
+
+<h2>คำสั้นๆ เกี่ยวกับการบิดเบือน</h2>
+<p>การเพิ่มซอฟต์แวร์ใดๆ จะขยายสิ่งที่อยู่ในสัญญาณ ดังนั้นการดันเสียงที่ดังอยู่แล้วเกิน 100% อาจทำให้เกิดการตัดภาพได้ ในทางปฏิบัติเป็นการเสริมกำลัง <em>เงียบ</em> เนื้อหาถึงระดับที่สะดวกสบายและเข้าใจได้ฟังดูสะอาด เริ่มต้นอย่างสุภาพ ยกขึ้นจนกว่าคำพูดจะชัดเจน และถอยกลับหากเริ่มฟังดูรุนแรง การปกป้องประเด็นการได้ยินที่เหลืออยู่ของคุณ ดังนั้นมุ่งเป้าไปที่ความชัดเจนมากกว่าความดังสูงสุด</p>
+
+<h2>SoundDial เปรียบเทียบกับรุ่นอื่นๆ อย่างไร</h2>
+<p>คุณมีทางเลือกไม่กี่ทาง และความซื่อสัตย์จะช่วยให้คุณเลือกสิ่งที่ถูกต้องได้:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39):</strong> ระดับมือโปรอย่างแท้จริง พร้อมด้วย EQ ต่อแอปและการกำหนดเส้นทางเอาท์พุต หากคุณต้องการสร้างความถี่สำหรับการสูญเสียการได้ยิน มันมีประสิทธิภาพมาก แต่มีค่าใช้จ่ายมากกว่าสองเท่า โดยต้องดาวน์โหลดโดยตรง และติดตั้งไดรเวอร์จับภาพเสียง นั่นคือการตั้งค่าและการเข้าถึงระบบมากกว่าที่หลายๆ คนต้องการ</li>
+<li><strong>Background Music (ฟรี โอเพ่นซอร์ส):</strong> เสนอระดับเสียงต่อแอปฟรี แต่ขาดการบูสต์ โปรไฟล์ และการลบอัตโนมัติ และสามารถใช้งานกับ macOS เวอร์ชันใหม่กว่าได้เนื่องจากเชื่อมต่อลึกเข้าไปในระบบเสียง</li>
+<li><strong>FineTune (ฟรี โอเพ่นซอร์ส):</strong> แอพปรับระดับเสียงแถบเมนูน้ำหนักเบา ใช้ได้สำหรับพื้นฐาน แต่ไม่มีการเพิ่มประสิทธิภาพ โปรไฟล์ และการหลบเลี่ยงที่ผู้ฟังที่มีปัญหาทางการได้ยินพึ่งพา</li>
+<li><strong>eqMac (ฟรี):</strong> อีควอไลเซอร์พร้อมบูสเตอร์ มีประโยชน์สำหรับการสร้างเสียง แต่สร้างขึ้นจาก EQ แทนที่จะสร้างมิกซ์และโปรไฟล์ต่อแอปที่ชัดเจน</li>
+</ul>
+<p>ที่ไหน <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> สิ่งที่โดดเด่นคือความสมดุลของราคา ความปลอดภัย และคุณสมบัติเฉพาะที่สำคัญที่นี่ เนื่องจากอยู่ใน Mac App Store จึงได้รับการตรวจสอบจาก Apple และทำแซนด์บ็อกซ์ ติดตั้งได้อย่างสมบูรณ์โดยไม่ต้องใช้ DMG และไม่ต้องใช้ไดรเวอร์เสียงหรือส่วนขยายระบบ คุณจะได้รับบูสต์ต่อแอป ปิดเสียง โปรไฟล์ระดับเสียง และลบอัตโนมัติด้วยการซื้อครั้งเดียวที่ €14.99 โดยไม่ต้องเจาะลึกเข้าไปในกลุ่มเสียง macOS</p>
+
+<h2>บรรทัดล่าง</h2>
+<p>ตั้งค่าตัวเลือกการเข้าถึง macOS ฟรีก่อน ซึ่งคุ้มค่าที่จะมี แต่หากปัญหาที่แท้จริงคือแอปหนึ่งเงียบเกินไป คุณต้องมีเครื่องมือที่สามารถผลักดันแอปเดียวให้เกิน 100% และแอปที่เหลือเงียบได้ นั่นคือจุดรวมของการเพิ่มประสิทธิภาพต่อแอป และ macOS ไม่ได้ทำด้วยตัวเอง</p>
+
+<p>พร้อมที่จะฟัง Mac ของคุณแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> ในราคา €14.99 เพิ่มประสิทธิภาพแอปที่คุณต้องการ และปล่อยให้ระบบซ่อนอัตโนมัติและโปรไฟล์ทำให้คำพูดชัดเจน</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "วิธีเพิ่มแอป Quiet บน Mac (ปริมาณสูงสุดที่ผ่านมา)",
+    description: "แอปหนึ่งเงียบเกินไปแม้จะอยู่ที่ 100% ใช่ไหม เพิ่มประสิทธิภาพเฉพาะแอปนั้นให้เกินขีดจำกัดสูงสุดบน Mac ด้วย SoundDial ซึ่งเป็นตัวปรับแต่งระดับเสียงต่อแอป นี่คือวิธีแก้ไขที่เร็วที่สุดพร้อมทางเลือกอื่นๆ",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หากแอปหนึ่งเงียบเกินไปแม้จะเปิดเสียงสูงสุด วิธีแก้ไขที่เชื่อถือได้เร็วที่สุดก็คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแถบเมนูตัวปรับแต่งระดับเสียงต่อแอปสำหรับ macOS มันทำให้ทุกแอปมีแถบเลื่อนของตัวเองพร้อมระดับเสียง <strong>เพิ่ม</strong> ที่ผลักดันแอปเดียวเกิน 100% ดังนั้นการสนทนาทางวิดีโอหรือแท็บเบราว์เซอร์ที่เงียบเสียงกระซิบจะดังขึ้นโดยไม่ต้องแตะระดับเสียงของระบบ เป็นแอปเพียงครั้งเดียวที่ราคา 14.99 ยูโรบน Mac App Store</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — วิธีเพิ่มแอพ Quiet บน Mac (ปริมาณสูงสุดที่ผ่านมา)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดแอปหนึ่งจึงเงียบแม้อยู่ที่ 100%</h2>
+<p>macOS มีโวลุ่มหลักเพียงโวลุ่มเดียวเท่านั้น เมื่อคุณยกมันขึ้น ทุกอย่างจะดังขึ้นพร้อมกัน แต่แต่ละแอปยังส่งเสียงออกมาในระดับภายในของตัวเองด้วย และระดับนั้นก็จะแตกต่างกันไปอย่างมาก คลิป YouTube ที่ได้รับการปรับแต่งอย่างเงียบๆ, ผู้โทร Zoom ที่มีไมโครโฟนไม่ดี, เกมที่มีบทสนทนาผสมน้อย หรือแท็บเบราว์เซอร์ที่มีซอฟต์สตรีม ล้วนสามารถอยู่ต่ำกว่าอย่างอื่นทั้งหมด แม้ว่า Mac ของคุณจะระเบิดเต็มที่ก็ตาม</p>
+<p>ปัญหาที่แท้จริง: macOS มี <strong>ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว</strong>. Windows มีมาหลายปีแล้ว (Volume Mixer คลิกขวาที่ไอคอนลำโพง) ใน Mac ไม่มีวิธีดั้งเดิมในการเปิดใช้งานแอปหนึ่งขึ้นมาโดยปล่อยให้ส่วนที่เหลืออยู่คนเดียว และไม่มีทางที่จะขยายแอปเดียวได้อย่างแน่นอน <em>ด้านบน</em> มันเป็นค่าสูงสุดตามปกติ นั่นคือช่องว่างที่คุณกำลังชน</p>
+
+<h2>การแก้ไขที่เร็วที่สุด: เพิ่มประสิทธิภาพเพียงแอปเดียว</h2>
+<p>ตัวผสมต่อแอปแก้ปัญหานี้ด้วยการแทรกตัวเองระหว่างแอปและเอาต์พุตของคุณ เพื่อให้สามารถเพิ่มหรือลดแต่ละสตรีมได้อย่างอิสระ และเพิ่มสตรีมเกิน 100% ด้วย <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>การไหลสั้น:</p>
+<ul>
+<li>ติดตั้งจาก Mac App Store แล้วเปิดขึ้นมา มันอยู่ในแถบเมนูของคุณ ไม่ใช่หน้าต่างลอย</li>
+<li>คลิกไอคอนแถบเมนูเพื่อดูแถบเลื่อนสำหรับทุกแอปที่กำลังเล่นเสียงอยู่</li>
+<li>ค้นหาแอปที่เงียบแล้วลากตัวเลื่อนผ่าน 100% เพื่อใช้การบูสต์ มันขยายแอปนั้นเท่านั้น</li>
+<li>ทิ้งทุกสิ่งทุกอย่างไว้ที่เดิม ระดับเสียงของระบบและแอปอื่นๆ ของคุณยังคงเหมือนเดิม</li>
+</ul>
+<p>เนื่องจากการเพิ่มประสิทธิภาพนั้นขึ้นอยู่กับแอป คุณจึงสามารถสนทนาวิดีโอคอลเบาๆ ในระดับที่สะดวกสบาย ในขณะเดียวกันก็รักษาเสียงเพลงหรือการแจ้งเตือนไม่ให้บาดหู นั่นคือสิ่งสำคัญที่ตัวควบคุม macOS ในตัวไม่สามารถทำได้</p>
+
+<h2>หมายเหตุเกี่ยวกับการเพิ่มและการตัด</h2>
+<p>Boost มีประโยชน์อย่างแท้จริง แต่เป็นการขยาย ไม่ใช่เวทย์มนตร์ หากเสียงต้นฉบับของแอปเงียบมากหรือบิดเบี้ยวอยู่แล้ว การเหวี่ยงแรงๆ อาจทำให้เกิดการตัดหรือทำให้เสียงฟู่ในพื้นหลังชัดเจนยิ่งขึ้น ในทางปฏิบัติ การเพิ่มระดับปานกลางจะแก้ไขสถานการณ์ "สายนี้เงียบเกินไป" ส่วนใหญ่ได้อย่างหมดจด ดันมันขึ้นจนกว่าแอพจะรู้สึกสบายแทนที่จะกระแทกไปที่เพดาน แล้วคุณก็จะรักษาเสียงให้สะอาด</p>
+
+<h2>นอกเหนือจากการส่งเสริม: มีอะไรอีกที่ช่วยได้</h2>
+<p>เมื่อคุณมีการควบคุมต่อแอปแล้ว คุณสมบัติบางอย่างจะทำให้ปัญหาแอปเงียบหายไปตลอดกาล:</p>
+<ul>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกการตั้งค่า (เช่น "เพิ่ม Zoom, ลด Spotify, ปิดเสียง Slack") และเรียกคืนได้ในคลิกเดียว แทนที่จะลากแถบเลื่อนใหม่ทุกครั้งในการประชุม</li>
+<li><strong>Auto-ducking</strong> — จุ่มแอปอื่นๆ โดยอัตโนมัติเมื่อแอปที่เลือกเล่น เพื่อให้ได้ยินเสียงการโทรที่ดังชัดเจนผ่านเสียงพื้นหลัง</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปที่มีเสียงดังหนึ่งแอปโดยไม่หยุดสิ่งอื่นใด</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง หรืออินเทอร์เฟซภายนอกจากเมนูเดียวกัน</li>
+</ul>
+
+<h2>แล้วทางเลือกฟรีและแบบมืออาชีพล่ะ?</h2>
+<p>คุณมีทางเลือกมากมาย และความซื่อสัตย์ก็เป็นสิ่งสำคัญ ดังนั้นนี่คือภาพรวมที่แท้จริง</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) เป็นตัวเลือกระดับมือโปร ในราคาประมาณ 39 เหรียญสหรัฐ โดยทำปริมาณต่อแอปบวก EQ ต่อแอปและการกำหนดเส้นทางเอาท์พุตแบบเต็ม ซึ่งมีพลังมากกว่าที่คนส่วนใหญ่ต้องการ ข้อเสีย: มีค่าใช้จ่ายมากกว่าสองเท่า เป็นการดาวน์โหลดโดยตรงแทนที่จะเป็น App Store และติดตั้งไดรเวอร์จับภาพเสียงเพื่อทำงาน หากคุณต้องการชุดเครื่องมือของวิศวกรด้านเสียง ถือว่าเยี่ยมมาก หากคุณต้องการให้แอปเดียวดังขึ้น แสดงว่ามันเกินความจำเป็น</p>
+<p><strong>Background Music</strong> เป็นบริการฟรีและเป็นโอเพ่นซอร์ส และสามารถทำปริมาณต่อแอปพื้นฐานได้ แต่มันเป็นโครงการชุมชนที่มีประวัติของการพัฒนา macOS เวอร์ชันใหม่กว่า และขาดการเร่งความเร็วเกิน 100% โปรไฟล์ และการลบอัตโนมัติ ดีมากถ้าฟรีเป็นข้อกำหนดเดียวและคุณไม่รังเกียจที่จะแตกหักเป็นครั้งคราว</p>
+<p><strong>FineTune</strong> เป็นแอปแถบเมนูโอเพ่นซอร์สฟรีและ <strong>eqMac</strong> เป็น EQ ฟรีและบูสเตอร์ระบบ ทั้งสองคุ้มค่าที่จะลองหากงบประมาณของคุณเป็นศูนย์ เพียงแค่รู้ว่าสิ่งเหล่านี้ดูแลโดยชุมชน เน้น EQ หรือเบากว่าในการจัดการต่อแอป และอย่ารวมโปรไฟล์และเป็ดไว้ในแพ็คเกจที่สวยงามเพียงแพ็คเกจเดียว</p>
+<p>ที่ไหน <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> แผ่นดิน : มันคือทางสายกลาง ราคาถูกกว่า SoundSource มีความสามารถมากกว่าและเชื่อถือได้มากกว่าเครื่องมือฟรี และมันก็พร้อมใช้งานแล้ว <strong>Mac App Store</strong>ซึ่งหมายถึงการตรวจสอบโดย Apple, แซนด์บ็อกซ์ และติดตั้งได้อย่างสมบูรณ์ด้วย <strong>ไม่มี DMG และไม่มีไดรเวอร์เสียงหรือส่วนขยาย</strong> เพื่อเข้าสู่ระบบของคุณ สำหรับคนส่วนใหญ่ คำแนะนำที่ตรงไปตรงมานั้นเรียบง่าย: หากคุณต้องการการแก้ไขที่ยุ่งยากน้อยที่สุดซึ่งยังช่วยเพิ่มพลัง โปรไฟล์ และการลบข้อมูลอัตโนมัติด้วย ข้อเสนอนี้คุ้มค่าที่สุดที่ €14.99 ครั้งเดียว</p>
+
+<h2>ตอบด่วนย้ำอีกครั้ง</h2>
+<blockquote>หากต้องการให้แอป Mac หนึ่งแอปดังเกินค่าสูงสุด ให้ใช้ตัวปรับแต่งระดับเสียงต่อแอปพร้อมบูสต์ เปิด SoundDial จากแถบเมนู ค้นหาแถบเลื่อนของแอปเงียบ แล้วลากเกิน 100% มีเพียงแอปนั้นเท่านั้นที่ดังขึ้น</blockquote>
+
+<p>หยุดต่อสู้กับแถบเลื่อนระดับเสียงเดียวสำหรับ Mac ทั้งหมดของคุณ รับ <a href="https://apps.apple.com/app/id6772792641">SoundDial บน Mac App Store</a> ในราคา €14.99 หนึ่งครั้ง บูสต์แอปเงียบนั้นจนเกินขีดจำกัดภายในไม่กี่วินาที และบันทึกโปรไฟล์เพื่อให้คุณไม่ต้องคิดถึงมันอีก</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "วิธีขยายวิดีโอและพอดแคสต์ที่เงียบใน Mac ของคุณ",
+    description: "วิดีโอ พ็อดคาสท์ และการบรรยายของ YouTube บางรายการเงียบเกินไปแม้จะฟัง 100% ก็ตาม ต่อไปนี้เป็นวิธีเพิ่มปริมาณต่อแอปให้เกินขีดจำกัดสูงสุดของ macOS ด้วย SoundDial",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>การแก้ไขที่รวดเร็วและเชื่อถือได้คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นมิกเซอร์แถบเมนู Mac App Store ที่ให้ทุกแอปมีแถบเลื่อนระดับเสียงเป็นของตัวเองและเป็นของจริง <strong>เพิ่ม</strong> ที่ดันเกิน 100% เปิดเบราว์เซอร์หรือเครื่องเล่นพอดแคสต์ของคุณ ลากตัวเลื่อนเหนือค่าสูงสุด และวิดีโอที่เงียบเชียบหรือการบรรยายจะดังขึ้นในทันที ไม่ต้องใช้ไดรเวอร์ ไม่ต้องรีสตาร์ท</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — วิธีขยายวิดีโอและพอดแคสต์ที่เงียบบน Mac ของคุณ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดวิดีโอและพอดแคสต์บางรายการจึงเงียบเกินไป</h2>
+<p>คุณหมุน Mac ของคุณเป็น 100% และการสัมภาษณ์ยังคงเป็นเสียงกระซิบ นี่ไม่ใช่จินตนาการของคุณ เสียงได้รับการควบคุมในระดับความดังที่แตกต่างกันอย่างมาก — การสัมมนาผ่านเว็บที่บันทึกด้วยไมโครโฟนของแล็ปท็อป พอดแคสต์อินดี้ที่เงียบสงบ หรือการอัปโหลดการบรรยายเก่าๆ สามารถอยู่ต่ำกว่าวิดีโอ YouTube ที่ผลิตอย่างมืออาชีพได้ 15–20 dB ระดับเสียงของระบบของคุณเต็มแล้ว ดังนั้นจึงไม่มีพื้นที่ว่างเหลือให้</p>
+<p>สิ่งที่จับได้คือ: macOS มี <strong>ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว</strong>. Windows มีมาหลายปีแล้ว (Volume Mixer ในซิสเต็มเทรย์) แต่บน Mac ปุ่มปรับระดับเสียงจะย้ายไปหนึ่งระดับสากลสำหรับทุกสิ่ง ไม่มีวิธีใดที่จะพูดว่า "ทำให้แท็บเบราว์เซอร์นี้ดังขึ้น" ไม่ต้องพูดถึงการผลักดันแอปเดียวให้เกิน 100% เลย</p>
+
+<h2>การแก้ไขที่แท้จริง: การเพิ่มระดับเสียงต่อแอป</h2>
+<p>หากต้องการให้แหล่งเสียงเงียบดังกว่าที่ลำโพงของคุณอนุญาตตามปกติ คุณต้องมีซอฟต์แวร์ที่ใช้เกนกับ <em>แอปนั้นโดยเฉพาะ</em> และสามารถขยายได้เกินเพดาน 100% นั่นคือสิ่งที่มิกเซอร์ต่อแอปพร้อมฟีเจอร์บูสต์ทำ</p>
+<p>ด้วย <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>แอปที่รันอยู่ทุกแอปจะแสดงในรายการแถบเมนูพร้อมแถบเลื่อนของตัวเอง เลื่อนแอปแบบเงียบขึ้นไปถึง 150% หรือ 200% แล้วเสียงจะถูกขยายแบบเรียลไทม์ เนื่องจากการเพิ่มประสิทธิภาพนั้นขึ้นอยู่กับแต่ละแอป ทุกอย่างอื่นๆ ไม่ว่าจะเป็นเพลง การแจ้งเตือน การโทรในหน้าต่างอื่น จะยังคงอยู่ในระดับปกติ คุณไม่ได้ระเบิดทั้งระบบเพื่อฟังพอดแคสต์เบาๆ เพียงอันเดียว</p>
+<blockquote>Volume ทั่วโลกถามว่า "Mac ดังแค่ไหน" มิกเซอร์ต่อแอปถามว่า "เสียงดังแค่ไหน <em>นี้</em> แอพ?” — ซึ่งเป็นคำถามที่สำคัญจริงๆ เมื่อวิดีโอหนึ่งเงียบและส่วนที่เหลือปกติดี</blockquote>
+
+<h2>วิธีเพิ่มเสียงวิดีโอหรือพอดแคสต์แบบเงียบทีละขั้นตอน</h2>
+<ul>
+<li><strong>ติดตั้ง SoundDial</strong> จาก Mac App Store มันเป็นแซนด์บ็อกซ์และตรวจสอบโดย Apple ดังนั้นจึงติดตั้งได้หมดจดเหมือนแอปอื่นๆ — ไม่ต้องดาวน์โหลดแยกต่างหาก ไม่มีไดรเวอร์เสียง ไม่มีถุงมืออนุญาต</li>
+<li><strong>เริ่มเล่น</strong> วิดีโอเงียบ ตอนพอดแคสต์ หรือการบรรยายในแอพใดก็ตามที่คุณใช้ — Safari, Chrome, ไคลเอนต์พอดแคสต์, VLC</li>
+<li><strong>คลิกที่ไอคอน SoundDial</strong> ในแถบเมนูของคุณ คุณจะเห็นแถบเลื่อนสำหรับแต่ละแอปที่กำลังส่งเสียง</li>
+<li><strong>ลากแถบเลื่อนของแอปนั้นไปเหนือ 100%</strong> — ลอง 150% ก่อน จากนั้นดันให้สูงขึ้นหากยังอ่อนเกินไป การเปลี่ยนแปลงเกิดขึ้นทันที</li>
+<li><strong>ทิ้งทุกสิ่งทุกอย่างไว้คนเดียว</strong> เฉพาะแอปที่คุณเพิ่มเท่านั้นที่จะดังขึ้น ระบบของคุณมีความสมดุล</li>
+</ul>
+<p>หากคุณพบว่าตัวเองกำลังโปรโมทแอพเดิมๆ ทุกวัน เช่น เครื่องเล่นพอดแคสต์และเบราว์เซอร์ของคุณ คุณสามารถบันทึกการตั้งค่านั้นเป็น <strong>โปรไฟล์ปริมาณ</strong> และเรียกคืนได้ในคลิกเดียวแทนที่จะปรับใหม่ทุกครั้ง</p>
+
+<h2>คำเตือนเกี่ยวกับการส่งเสริม</h2>
+<p>การขยายเกิน 100% จะเพิ่มกำไร และกำไรมีขีดจำกัด ผลักดันการบันทึกคุณภาพต่ำที่เงียบมากให้แรงเพียงพอ และคุณอาจได้ยินเสียงขาดหรือผิดเพี้ยน นั่นเป็นสาเหตุที่สัญญาณหมดลง ไม่ใช่ข้อบกพร่องในแอป เพิ่มเสียงจนกระทั่งได้ยินเสียงได้สบายๆ จากนั้นปิดเสียงหากเสียงเริ่มดังขึ้น สำหรับลำโพงแล็ปท็อปในตัว การเพิ่มพลังเสียงสูงสุดยังอาจทำให้ไดรเวอร์ตึงเครียด ดังนั้นไปที่นั่นได้ง่ายกว่าการใช้หูฟังหรือลำโพงภายนอกดีๆ</p>
+
+<h2>แล้วตัวเลือกฟรีหรือในตัวล่ะ?</h2>
+<p>คุณมีทางเลือกอื่น และมันก็คุ้มค่าที่จะซื่อสัตย์กับทางเลือกเหล่านี้:</p>
+<ul>
+<li><strong>ระดับเสียงของระบบ + แถบเลื่อนระดับแอป</strong> ผู้เล่นบางคน (VLC, เบราว์เซอร์บางตัวผ่านส่วนขยาย) ให้คุณเพิ่มเสียงของตัวเองได้ ก็ได้ถ้าคุณต้องการมันในแอปเดียว แต่คุณยังคงติดอยู่กับการกำหนดค่าแต่ละแอปแยกกัน โดยไม่มีการควบคุมแบบรวมศูนย์และไม่มีโปรไฟล์</li>
+<li><strong>eqMac</strong> เป็น EQ และบูสเตอร์ฟรี อาจเพิ่มความดังทั่วทั้งระบบ แต่เป็นเครื่องมือระดับโลก ไม่ใช่ตัวผสมต่อแอปที่ชัดเจน และทำงานได้ในระดับเอาต์พุตทั้งหมด</li>
+<li><strong>Background Music</strong> เป็นบริการฟรีและเป็นโอเพ่นซอร์สและเสนอปริมาณต่อแอป แต่ต้องใช้การตั้งค่าการบันทึกเสียงที่สามารถทำลาย macOS เวอร์ชันใหม่กว่าได้ และขาดการบูสต์ โปรไฟล์ และการลบอัตโนมัติโดยเฉพาะ</li>
+<li><strong>FineTune</strong> เป็นแอปแถบเมนูโอเพ่นซอร์สฟรี - ตัวเลือกที่มีน้ำหนักเบาหากคุณต้องการพื้นฐานและไม่คำนึงถึงซอฟต์แวร์ที่ดูแลโดยชุมชน</li>
+<li><strong>SoundSource</strong> โดย Rogue Amoeba (~$39) เป็นรุ่นเฮฟวี่เวทระดับมืออาชีพ: EQ ต่อแอป, การกำหนดเส้นทางเอาต์พุต, ใช้งานได้ นอกจากนี้ยังต้องดาวน์โหลดและไดรเวอร์จับภาพเสียงด้วย และมีราคาสูงกว่า SoundDial สองเท่า มากเกินไปถ้าคุณต้องการเพียงแค่ทำให้เสียงเงียบดังขึ้น</li>
+</ul>
+
+<h2>เหตุใด SoundDial จึงเป็นตัวเลือกที่ใช้งานได้จริง</h2>
+<p>SoundDial อยู่ในจุดที่น่าสนใจสำหรับปัญหานี้ ของมัน <strong>€14.99 ครั้งเดียว</strong> — ไม่มีการสมัครสมาชิก — และมันใช้งานได้บน <strong>Mac App Store</strong>ซึ่งหมายความว่ามีแซนด์บ็อกซ์ ตรวจสอบโดย Apple และติดตั้งโดยไม่มี DMG หรือส่วนขยายระบบใดๆ ที่จะเชื่อถือ คุณจะได้รับการปรับปรุงต่อแอปที่คุณต้องการ รวมถึงโปรไฟล์ การปิดเสียงต่อแอป การสลับเอาต์พุตอย่างรวดเร็ว และ <strong>เป็ดอัตโนมัติ</strong> ซึ่งจะทำให้แอปอื่น ๆ ลดลงเมื่อคุณต้องการมุ่งเน้นไปที่แอปใดแอปหนึ่ง มันทำสิ่งที่ดังได้ง่ายๆ และที่เหลือก็ทำได้ดี</p>
+
+<p><strong>เบื่อหน่ายกับการฟังวิดีโอและพอดแคสต์ที่เงียบสงบใช่ไหม</strong> <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> ในราคา 14.99 ยูโร และให้ทุกแอปมีระดับเสียงของตัวเอง — พร้อมการเพิ่มประสิทธิภาพในการได้ยินทุกสิ่งอย่างชัดเจน</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "วิธีการตั้งค่าระดับเสียงที่แตกต่างกันสำหรับแต่ละแอปบน Mac",
+    description: "macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว ต่อไปนี้เป็นวิธีการตั้งค่าระดับเสียงต่อเนื่องและเป็นอิสระสำหรับแต่ละแอปบน Mac โดยใช้ SoundDial และทางเลือกอื่น",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มีวิธีในตัวในการตั้งค่าระดับเสียงที่แตกต่างกันสำหรับแต่ละแอป ดังนั้นคุณจึงต้องมีตัวปรับแต่งเสียงในแถบเมนู วิธีแก้ไขที่รวดเร็วและเชื่อถือได้ที่สุดคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแอป Mac App Store ที่ให้ทุกแอปพลิเคชันมีตัวเลื่อนระดับเสียง การปิดเสียงต่อแอป และการเพิ่มประสิทธิภาพที่ทำให้แอปที่เงียบเกิน 100% ตั้งค่าระดับของคุณหนึ่งครั้งและมันจะติด</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — วิธีการตั้งค่าระดับเสียงที่แตกต่างกันสำหรับแต่ละแอปบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใด Mac จึงไม่มีการควบคุมระดับเสียงต่อแอป</h2>
+<p>หากคุณเปลี่ยนจาก Windows คุณอาจมองหา Volume Mixer ที่เทียบเท่ากับ Windows แผงเล็กๆ ที่แต่ละแอปมีแถบเลื่อนของตัวเอง มันไม่ได้อยู่ที่นั่น macOS นำเสนอโวลุ่มระบบสากลเพียงโวลุ่มเดียวเท่านั้น ไม่ว่าจะเป็นวิดีโอ YouTube, การโทร Zoom, Spotify หรือเกม ล้วนมีระดับมาสเตอร์เหมือนกัน</p>
+<p>ไม่เป็นไรจนกว่าจะไม่ใช่ การแชท Discord จะทำให้เสียงเพลงของคุณดังกลบ โฆษณาบนเบราว์เซอร์จะดังเต็มที่ในขณะที่พอดแคสต์ของคุณเล่นอย่างเงียบๆ ข้างใต้ เกมของคุณทำให้หูหนวก แต่การโทรด้วยเสียงในพื้นหลังเบาเกินไป "วิธีแก้ปัญหา" เดียวที่ Apple ให้คุณคือการเปิดแต่ละแอปและปรับระดับเสียงภายในด้วยตนเอง หากแอปนั้นมีหนึ่งแอปด้วย และทำซ้ำทุกเซสชัน</p>
+<p>หากต้องการควบคุมแต่ละแอปได้จริง คุณต้องมียูทิลิตี้ขนาดเล็กที่อยู่ระหว่างแอปและอุปกรณ์เอาท์พุตของคุณ ด้านล่างนี้คือวิธีการดำเนินการอย่างถูกต้อง รวมถึงหมายเหตุที่ตรงไปตรงมาเกี่ยวกับทางเลือกอื่น</p>
+
+<h2>วิธีที่เร็วที่สุด: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> อยู่ในแถบเมนูของคุณและแสดงรายการทุกแอปที่กำลังเล่นเสียงอยู่ แต่ละคนจะได้รับแถบเลื่อนที่เป็นอิสระ นี่คือขั้นตอนการทำงานทั้งหมด:</p>
+<ul>
+<li><strong>ติดตั้งจาก Mac App Store</strong> ได้รับการตรวจสอบโดย Apple และแซนด์บ็อกซ์ ดังนั้นจึงไม่มี DMG ไม่มีไดรเวอร์เสียง และไม่มีเคอร์เนลหรือส่วนขยายระบบที่จะอนุมัติ ติดตั้งได้เหมือนกับแอปทั่วไปและสามารถลบออกได้ในลักษณะเดียวกัน</li>
+<li><strong>คลิกไอคอนแถบเมนู</strong> คุณจะเห็นแถบเลื่อนสำหรับแต่ละแอปที่ใช้งานอยู่ พร้อมด้วยตัวควบคุมหลัก</li>
+<li><strong>ลากเพื่อตั้งค่าระดับ</strong> หมุน Discord ลง ดัน Spotify ขึ้น ปิดเสียงแอปของแท็บเบราว์เซอร์ที่มีเสียงดังด้วยการคลิกเพียงครั้งเดียว</li>
+<li><strong>เพิ่มแอปที่เงียบ</strong> หากแอปอ่อนเกินไปแม้จะอยู่ที่ 100% ให้ดันให้สูงกว่า 100% ด้วยการเพิ่มพลังต่อแอป</li>
+<li><strong>บันทึกโปรไฟล์</strong> จัดเก็บมิกซ์ "เกม" "สายงาน" หรือ "เพลง" ของคุณ และสลับระหว่างเพลงเหล่านั้นได้ทันที แทนที่จะต้องลากแถบเลื่อนซ้ำทุกวัน</li>
+</ul>
+<p>คุณสมบัติสองประการที่ควรค่าแก่การกล่าวถึงเนื่องจากสามารถแก้ไขสถานการณ์ที่น่ารำคาญที่สุดได้:</p>
+<ul>
+<li><strong>Auto-ducking</strong> ลดระดับแอปอื่นๆ โดยอัตโนมัติเมื่อแอปที่เลือกเล่น ดังนั้นเพลงของคุณจึงดังลงเมื่อมีสายเข้าและกลับมาในภายหลัง โดยไม่ต้องเล่นซอด้วยตนเอง</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> ให้คุณสลับระหว่างหูฟังและลำโพงจากเมนูเดียวกันโดยไม่ต้องไปที่การตั้งค่าระบบ</li>
+</ul>
+<p>เนื่องจากระดับต่างๆ จะถูกจดจำต่อแอปและบันทึกลงในโปรไฟล์ นี่คือส่วนที่คนส่วนใหญ่ต้องการจริงๆ: คุณตั้งค่าเพียงครั้งเดียวเท่านั้น <em>อยู่</em> ชุด</p>
+
+<h2>ทางเลือกอื่นทั้งแบบฟรีและจ่ายเงิน เปรียบเทียบกันอย่างตรงไปตรงมา</h2>
+<p>SoundDial ไม่ใช่ตัวเลือกเดียว และขึ้นอยู่กับความต้องการของคุณ เครื่องมือฟรีอาจจะเพียงพอ นี่เป็นบทสรุปที่ยุติธรรม</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource เป็นรุ่นเฮฟวี่เวทระดับมืออาชีพ นอกเหนือจากระดับเสียงต่อแอปแล้ว EQ ต่อแอปและการกำหนดเส้นทางเอาต์พุตแบบเต็ม คุณจึงสามารถส่งแอปหนึ่งไปยังหูฟังและอีกแอปหนึ่งไปยังลำโพงได้ มันยอดเยี่ยมจริงๆ ข้อดีข้อเสีย: มีราคาประมาณ 39 ดอลลาร์ และไม่ใช่การติดตั้ง App Store ใหม่ทั้งหมด แต่เป็นการดาวน์โหลดโดยตรงที่จำเป็นต้องเพิ่มไดรเวอร์จับภาพเสียงลงในระบบของคุณ หากคุณเป็นมืออาชีพด้านเสียงที่ต้องการ EQ และการกำหนดเส้นทาง มันก็คุ้มค่า หากคุณต้องการให้แต่ละแอปมีระดับเสียงที่เหมาะสม นี่เป็นเครื่องมือและการตั้งค่ามากกว่าที่คุณต้องการ</p>
+
+<h2>Background Music (โอเพ่นซอร์ส ฟรี)</h2>
+<p>Background Music เป็นแอปโอเพ่นซอร์สฟรีที่ให้ปริมาณต่อแอปและการหยุดชั่วคราวอัตโนมัติ สิ่งที่จับได้คือความน่าเชื่อถือ: ติดตั้งอุปกรณ์เสียงเสมือนและมีประวัติการทำลาย macOS รุ่นใหม่กว่า ซึ่งบางครั้งจำเป็นต้องติดตั้งใหม่หรือแก้ไขหลังจากการอัพเดต นอกจากนี้ยังขาดการบูสต์ โปรไฟล์ที่บันทึกไว้ และการลบข้อมูลอัตโนมัติอย่างแท้จริง ดีมากถ้าคุณต้องการฟรีและไม่ต้องคำนึงถึงการบำรุงรักษาเป็นครั้งคราว</p>
+
+<h2>FineTune และ eqMac</h2>
+<p>FineTune เป็นแอปแถบเมนูโอเพ่นซอร์สฟรี ซึ่งเป็นจุดเริ่มต้นที่ไม่ซับซ้อน eqMac เป็นอีควอไลเซอร์ฟรีที่มีบูสเตอร์ทั่วทั้งระบบ โดยมุ่งเป้าไปที่ EQ และประโยชน์โดยรวมมากกว่าการให้แต่ละแอปมีแถบเลื่อนถาวรของตัวเอง ทั้งสองคุ้มค่าที่จะลองใช้หากความต้องการของคุณแคบ แต่ก็ไม่ได้มุ่งเน้นไปที่เวิร์กโฟลว์ "ปริมาณที่แตกต่างกันต่อแอป บันทึกเป็นโปรไฟล์"</p>
+
+<h2>คุณควรเลือกแบบไหน?</h2>
+<ul>
+<li><strong>ต้องการให้มันใช้งานได้อย่างหมดจดด้วยโปรไฟล์และการลบอัตโนมัติหรือไม่?</strong> SoundDial ราคา €14.99 ครั้งเดียว จาก App Store โดยไม่ต้องติดตั้งไดรเวอร์</li>
+<li><strong>ต้องการ EQ ต่อแอปและการกำหนดเส้นทางเสียง โดยไม่สนใจราคาหรือไดรเวอร์ใช่ไหม</strong> SoundSource.</li>
+<li><strong>ต้องการฟรีและไม่เป็นไรเมื่ออัปเดต macOS หรือไม่</strong> Background Music, FineTune หรือ eqMac</li>
+</ul>
+<p>ข้อได้เปรียบที่แท้จริงของ SoundDial คือการรวมกัน: ระดับเสียงที่เป็นอิสระ ปิดเสียง และบูสต์สำหรับทุกแอป บันทึกลงในโปรไฟล์ที่สลับได้ พร้อมการลบอัตโนมัติ ทั้งหมดนี้อยู่ในการดาวน์โหลด App Store แบบแซนด์บ็อกซ์ที่คุณสามารถไว้วางใจและถอนการติดตั้งได้ในคลิกเดียว โดยเสียเงินเพียงครั้งเดียว €14.99 แทนที่จะสมัครสมาชิก</p>
+
+<blockquote>ไม่มีไดรเวอร์ ไม่มีส่วนขยาย ไม่มี DMG ตั้งค่าระดับเสียงของแต่ละแอปหนึ่งครั้ง บันทึกเป็นโปรไฟล์ และปล่อยให้ระบบลบอัตโนมัติจัดการส่วนที่เหลือ</blockquote>
+
+<p>พร้อมที่จะให้ทุกแอปมีวอลลุ่มเป็นของตัวเองแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และตั้งค่ามิกซ์ที่สมบูรณ์แบบของคุณในเวลาประมาณหนึ่งนาที</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "ทำให้แอปเดียวเงียบกว่าแอปอื่นทั้งหมดบน Mac",
+    description: "มีแอปดังๆ ตัวหนึ่งที่ทำให้ส่วนที่เหลือใน Mac ของคุณจมน้ำตายใช่ไหม นี่คือวิธีที่เร็วและเชื่อถือได้ในการลดระดับเสียงของแอปเดียวโดยไม่ต้องแตะต้องแอปอื่นๆ",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากต้องการปิดแอปหนึ่งแอปในขณะที่แอปอื่นๆ ยังอยู่ ให้ใช้ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแถบเมนูตัวปรับแต่งระดับเสียงต่อแอปสำหรับ macOS เปิดมัน ค้นหาแอพที่มีเสียงดังในรายการ แล้วลากตัวเลื่อนลง แอปนั้นจะเงียบลงทันทีในขณะที่เพลง การโทร และเสียงอื่นๆ ของคุณคงระดับของตัวเองไว้ เป็นการแก้ไขที่รวดเร็วและเชื่อถือได้มากที่สุด</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทำให้แอปเดียวเงียบกว่าแอปอื่นๆ บน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไม macOS ถึงทำให้มันยากขนาดนี้</h2>
+
+<p>ความจริงที่น่าหงุดหงิดคือ macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีมาหลายปีแล้ว (คลิกขวาที่ไอคอนระดับเสียง เปิด Volume Mixer เสร็จแล้ว) แต่บน Mac ปุ่มปรับระดับเสียงและแถบเลื่อนแถบเมนูจะควบคุมสิ่งเดียวเท่านั้น: เอาต์พุตหลัก ดับเครื่องแล้วทุกอย่างจะเงียบลงไปด้วยกัน เปิดขึ้นมาแล้วแอพดังยังดังอยู่แค่ดังขึ้นพร้อมกับอันที่เหลือ</p>
+
+<p>ดังนั้นเมื่อเอฟเฟกต์เสียงของเกมดังขึ้น แท็บเบราว์เซอร์กำลังเล่นโฆษณาโดยอัตโนมัติ หรือมีการแจ้งเตือนดังขึ้นเรื่อยๆ บนพอดแคสต์ของคุณ ตัวเลือกดั้งเดิมของคุณเพียงอย่างเดียวนั้นค่อนข้างงุ่มง่าม: ปิดเสียงทั้งระบบ เจาะลึกการตั้งค่าระดับเสียงของแต่ละแอป (หากมี) หรือออกจากผู้กระทำความผิดโดยสิ้นเชิง ไม่มีอะไรที่ทำให้คุณพูดง่ายๆ ว่า "ทำให้แอปนี้เงียบลงและทิ้งทุกอย่างไว้ตามลำพัง"</p>
+
+<h2>การแก้ไขด่วน: ตัวปรับแต่งระดับเสียงต่อแอป</h2>
+
+<p>ตัวปรับแต่งระดับเสียงต่อแอปทำให้ทุกแอปที่รันอยู่มีแถบเลื่อนอิสระของตัวเอง นั่นคือการควบคุมที่คุณขาดหายไป ด้วย <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ดูเหมือนว่านี้:</p>
+
+<ul>
+<li><strong>เปิดตัวผสมแถบเมนู</strong> คลิกไอคอน SoundDial แล้วคุณจะเห็นรายการสดของทุกแอปที่กำลังเล่นเสียงอยู่</li>
+<li><strong>หาที่ดังๆ.</strong> เกม เบราว์เซอร์ วิดีโอคอล เสียงแจ้งเตือน อะไรก็ตามที่ทำให้ส่วนที่เหลือหมดสิ้น</li>
+<li><strong>ลากตัวเลื่อนลง</strong> ตั้งค่าเป็น 40%, 20% ทุกที่ที่รู้สึกสมดุล การเปลี่ยนแปลงจะเกิดขึ้นทันทีและจะมีผลกับแอปนั้นเท่านั้น</li>
+<li><strong>ทิ้งทุกสิ่งทุกอย่างไว้คนเดียว</strong> เครื่องเล่นเพลง การโทร แท็บอื่นๆ ล้วนรักษาระดับเสียงที่คุณตั้งไว้</li>
+</ul>
+
+<p>คุณยังสามารถปิดเสียงแอปเดียวได้อย่างสมบูรณ์ด้วยการคลิกเพียงครั้งเดียวในขณะที่แอปอื่นเล่นต่อ หรือเพิ่มแอปที่เงียบให้สูงกว่า 100% หากแอปเบาเกินไป ไม่ต้องรีสตาร์ทแอป ไม่มีเมนูดำน้ำ</p>
+
+<h2>กรณีทั่วไปซึ่งสิ่งนี้จะช่วยคุณได้</h2>
+
+<ul>
+<li><strong>เกมดังเหนือเพลงประกอบ</strong> วางเกมให้อยู่ในระดับที่สะดวกสบายและเก็บเพลย์ลิสต์ของคุณไว้ที่ระดับเสียงสูงสุดข้างใต้</li>
+<li><strong>โฆษณาเบราว์เซอร์และวิดีโอที่เพิ่มขึ้นอย่างรวดเร็ว</strong> ปักหมุดเบราว์เซอร์ของคุณให้ต่ำลง เพื่อให้การเล่นอัตโนมัติแบบอัตโนมัติไม่ทำให้คุณประหลาดใจ</li>
+<li><strong>มีการแจ้งเตือนผ่านการโทรหรือพอดแคสต์</strong> ปิดแอปที่มีการแจ้งเตือนจำนวนมากโดยไม่ปิดเสียงที่คุณสนใจจริงๆ</li>
+<li><strong>วิดีโอคอลแบบเงียบๆ ภายใต้สื่อที่ดัง</strong> แทนที่จะปิดแอปที่ส่งเสียงดัง ให้เพิ่มการโทรให้สูงกว่า 100% เพื่อให้คุณได้ยินผู้คนได้ชัดเจน</li>
+</ul>
+
+<h2>ตั้งค่าครั้งเดียวด้วยโปรไฟล์ระดับเสียงและการลบอัตโนมัติ</h2>
+
+<p>การแก้ไขแอปที่มีเสียงดังเป็นสิ่งที่ดี แต่คุณอาจต้องการให้แก้ไขต่อไป SoundDial มีคุณสมบัติสองประการที่ทำให้สิ่งนี้เป็นแบบถาวร:</p>
+
+<p><strong>โปรไฟล์ปริมาณ</strong> ให้คุณบันทึกชุดระดับต่อแอปและเรียกคืนได้ด้วยการคลิก สร้างโปรไฟล์ "เกม" โดยที่เกมอยู่ที่ 30% และเพลงอยู่ที่ 100% และโปรไฟล์ "งาน" ที่จะเพิ่มการโทรและลดสิ่งอื่นๆ ทั้งหมดลง สลับบริบทโดยไม่ต้องลากแถบเลื่อนใหม่ทุกครั้ง</p>
+
+<p><strong>Auto-ducking</strong> ลดระดับแอพอื่นๆ โดยอัตโนมัติเมื่อแอพที่เลือกเล่น จากนั้นจึงนำกลับมาในภายหลัง ดังนั้นแอพที่มีเสียงดังจะไม่แย่งเสียงของคุณโดยสิ้นเชิงตั้งแต่แรก ระหว่างโปรไฟล์ การปิด และการสลับเอาต์พุตอย่างรวดเร็ว (ข้ามระหว่างลำโพงและหูฟังโดยไม่ต้องเปิดการตั้งค่าระบบ) คุณจะตั้งค่าสมดุลของคุณหนึ่งครั้งและหยุดดูแลระดับเสียง</p>
+
+<h2>SoundDial เปรียบเทียบกับรุ่นอื่นๆ อย่างไร</h2>
+
+<p>มีวิธีอื่นในการรับปริมาณต่อแอปบน Mac นี่คือรูปลักษณ์ที่ซื่อสัตย์:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> เป็นเกรดระดับมืออาชีพอย่างแท้จริง: EQ ต่อแอปและการกำหนดเส้นทางเอาต์พุตเต็มรูปแบบที่ด้านบนของตัวควบคุมระดับเสียง แต่มีราคาสูงกว่าสองเท่า และจำเป็นต้องดาวน์โหลดแยกต่างหากพร้อมไดรเวอร์จับภาพเสียง หากคุณต้องการชุดเครื่องมือระดับสตูดิโอก็เยี่ยมมาก หากคุณต้องการปิดแอปเพียงแอปเดียว นั่นเกินความจำเป็น</li>
+<li><strong>Background Music</strong> เป็นบริการฟรีและเป็นโอเพ่นซอร์ส ซึ่งดีมาก แต่สามารถใช้งานกับ macOS เวอร์ชันใหม่กว่าได้ และขาดการเพิ่มระดับเสียง โปรไฟล์ และการลบข้อมูลอัตโนมัติ</li>
+<li><strong>FineTune</strong> เป็นแอปแถบเมนูโอเพ่นซอร์สฟรีและ <strong>eqMac</strong> เป็น EQ ฟรีพร้อมบูสเตอร์ ทั้งสองอย่างคุ้มค่าที่จะลองใช้หากคุณให้ความสำคัญเป็นอันดับแรกว่าฟรี แต่คุณต้องแลกกับความขัดเกลา ความน่าเชื่อถือ และฟีเจอร์ต่างๆ ในราคาที่คุ้มค่า</li>
+</ul>
+
+<p>SoundDial อยู่ในจุดที่น่าสนใจ: €14.99 ครั้งเดียว ไม่มีการสมัครสมาชิก เนื่องจากอยู่ใน Mac App Store จึงได้รับการตรวจสอบโดย Apple และทำแซนด์บ็อกซ์ และติดตั้งได้อย่างสมบูรณ์โดยไม่มี DMG ไม่มีไดรเวอร์เสียง และไม่มีส่วนขยายระบบที่ต้องอนุมัติ คุณจะได้รับฟีเจอร์ที่สำคัญสำหรับปัญหานี้ ปริมาณต่อแอป ปิดเสียง บูสต์ โปรไฟล์ และการลบอัตโนมัติ โดยไม่ต้องใช้ป้ายราคา 39 ดอลลาร์หรือเครื่องมือฟรีที่เปราะบาง</p>
+
+<h2>บรรทัดล่าง</h2>
+
+<p>macOS จะไม่ยอมให้คุณปิดแอปเพียงแอปเดียว แต่นั่นเป็นช่องว่างที่คุณสามารถปิดได้ภายในไม่กี่วินาที ติดตั้งมิกเซอร์ต่อแอป ลากแถบเลื่อนของแอปเสียงดังลง และเสียงที่เหลือของคุณจะยังคงอยู่ในตำแหน่งที่คุณต้องการ บันทึกโปรไฟล์แล้วคุณจะไม่ต่อสู้เรื่องนี้อีกต่อไป</p>
+
+<p><strong>พร้อมที่จะปิดเสียงแอปเดียวที่คอยจมส่วนที่เหลือแล้วหรือยัง?</strong> รับ <a href="https://apps.apple.com/app/id6772792641">SoundDial บน Mac App Store</a> ในราคา €14.99 ชำระครั้งเดียว ไม่มีไดรเวอร์ และไม่มีการสมัครสมาชิก</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac มิกเซอร์เสียงสำหรับสตรีมเมอร์: ไมค์สมดุล เกม และเพลง",
+    description: "วิธีที่เร็วที่สุดในการปรับสมดุลไมโครโฟน เสียงในเกม เพลง และการแจ้งเตือนขณะสตรีมบน Mac SoundDial มอบตัวปรับแต่งระดับเสียงต่อแอปพร้อมโปรไฟล์และ Ducking",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>เพื่อปรับสมดุลไมโครโฟน เกม เพลง และการแจ้งเตือนขณะสตรีมบน Mac วิธีแก้ไขที่เชื่อถือได้เร็วที่สุดคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>แถบเมนูตัวผสมระดับเสียงต่อแอป macOS ไม่มีมิกเซอร์ในตัว ดังนั้น SoundDial ให้คุณตั้งค่าระดับอิสระต่อแอป เพิ่มแหล่งที่มาที่เงียบ บันทึกโปรไฟล์การสตรีม และปิดเพลงอัตโนมัติเมื่อคุณพูด</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac มิกเซอร์เสียงสำหรับสตรีมเมอร์: ไมค์ เกม และเพลงที่สมดุล" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ปัญหา: macOS ไม่มีการควบคุมระดับเสียงต่อแอป</h2>
+<p>Windows มี Volume Mixer มาหลายปีแล้ว macOS ยังไม่ได้จัดส่งเลย แถบเลื่อนระดับเสียงของระบบจะย้ายทุกอย่างในคราวเดียว ซึ่งจะไม่มีประโยชน์เมื่อคุณถ่ายทอดสด ในระหว่างการสตรีม คุณกำลังเล่นกลอย่างน้อยสี่แหล่งที่ต่อสู้เพื่อให้ได้ผลลัพธ์เดียวกัน:</p>
+<ul>
+<li><strong>การตรวจสอบเสียง / ไมโครโฟนของคุณ</strong> - ต้องนั่งเหนือทุกสิ่ง</li>
+<li><strong>เสียงเกม</strong> - มีเสียงดัง ไดนามิก และมีแนวโน้มที่จะกระตุกระหว่างการกระทำ</li>
+<li><strong>เพลงพื้นหลัง</strong> — ควรอยู่เงียบๆ ภายใต้ความคิดเห็นของคุณ</li>
+<li><strong>เสียงแจ้งเตือนและเสียงสนทนา</strong> — Discord, Stream Deck, การแจ้งเตือนผู้ติดตาม, การแจ้งเตือน</li>
+</ul>
+<p>หากไม่มีการควบคุมต่อแอป คุณจะต้องใช้แถบเลื่อนในแอปของเกม ปิดเสียง Spotify ด้วยมือ และอธิษฐานว่าฉากคัตซีนที่ดังจะไม่ทำให้ผู้ชมของคุณทึ่ง นั่นไม่ใช่การผสมผสาน มันเป็นการควบคุมความเสียหาย</p>
+
+<h2>สิ่งที่สตรีมมิ่งมิกเซอร์ที่เหมาะสมต้องทำ</h2>
+<p>การตั้งค่าเสียงที่เน้นผู้สร้างบน Mac ควรให้สี่สิ่งต่อไปนี้: ระดับต่อแอปที่เป็นอิสระ ความสามารถในการเพิ่มแหล่งที่มาที่เงียบเกินไป การกำหนดค่าที่บันทึกไว้ซึ่งคุณสามารถเรียกคืนได้ทันที และการปิดเสียงอัตโนมัติเพื่อให้เพลงหยุดทันทีที่คุณพูด SoundDial ครอบคลุมทั้งสี่รายการจากแถบเมนู</p>
+
+<h3>1. ปริมาณอิสระสำหรับทุกแอป</h3>
+<p>ตั้งค่าเกมเป็น 60% เพลงเป็น 25% Discord เป็น 80% และเบราว์เซอร์ของคุณเป็น 40% แต่ละแอปมีแถบเลื่อนของตัวเอง ไม่มีอะไรไหลไปสู่สิ่งอื่นใด คุณยังสามารถปิดเสียงต่อแอปได้ทันทีเมื่อแหล่งที่มาทำงานผิดปกติระหว่างสตรีมโดยไม่ต้องแตะต้องตัวแอปเอง</p>
+
+<h3>2. เพิ่มระดับเสียงสำหรับแหล่งเสียงที่เงียบ</h3>
+<p>แอพและเกมบางรายการเงียบเกินไปแม้จะอยู่ที่ 100% การปรับปรุงต่อแอปของ SoundDial ผลักดันแหล่งที่มาให้เกินเพดานปกติ ดังนั้นเกมมัมมี่หรือวิดีโอที่มีปริมาณน้อยจึงอยู่ในตำแหน่งที่คุณต้องการผสมกัน ไม่ต้องเข้ารหัสซ้ำ ไม่ใช้ปลั๊กอิน</p>
+
+<h3>3. โปรไฟล์ระดับเสียงสำหรับฉากต่างๆ</h3>
+<p>นี่คือฟีเจอร์ที่ช่วยให้สตรีมเมอร์ประหยัดเวลาได้มากที่สุด มิกซ์ "Just Chatting" ของคุณ (เพลงขึ้นและลงเกม) แตกต่างจากมิกซ์ "Boss Fight" ของคุณ (เพลงขึ้นและเงียบสนิท) ซึ่งแตกต่างจากมิกซ์ "BRB" ของคุณ บันทึกแต่ละรายการเป็นโปรไฟล์และสลับได้ด้วยคลิกเดียวแทนที่จะลากแถบเลื่อนสี่ตัวแบบสดๆ</p>
+
+<h3>4. การปิดเสียงอัตโนมัติเพื่อให้เพลงเงียบลงใต้เสียงของคุณ</h3>
+<p>การปิดเสียงอัตโนมัติจะลดเสียงพื้นหลังโดยอัตโนมัติเมื่อคุณพูด และกลับมาดังอีกครั้งเมื่อคุณหยุด สำหรับสตรีมเมอร์เดี่ยว นี่คือความแตกต่างระหว่างการวิจารณ์ที่ชัดเจนกับเพลงที่ฝังเสียงของคุณอยู่ตลอดเวลา ซึ่งได้รับการจัดการโดยอัตโนมัติแทนที่จะดำเนินการด้วยตนเอง</p>
+
+<h2>ตำแหน่งที่ OBS พอดี</h2>
+<p>OBS เป็นเครื่องมือออกอากาศของคุณ ไม่ใช่ตัวปรับแต่งระดับเสียงบนเดสก์ท็อป OBS ควบคุมระดับที่เข้าสู่สตรีมผ่านแผงมิกเซอร์เสียงและตัวกรอง แต่ทำงานจากแหล่งเสียงที่บันทึกไว้ มันไม่สามารถเข้าถึงแอป macOS แต่ละตัวและปิดลงที่ระดับระบบ ใน Mac การทำให้เสียงเดสก์ท็อปต่อแอปที่สะอาดเข้าสู่ OBS ถือเป็นส่วนที่เจ็บปวดมาโดยตลอด</p>
+<p>ขั้นตอนการทำงานที่ใช้งานได้จริง: ใช้ SoundDial เพื่อตั้งค่าระดับต่อแอปจริงบน Mac ของคุณ เพื่อให้สิ่งที่ออกมามีความสมดุลอยู่แล้ว จากนั้นปล่อยให้ OBS จับภาพและปรับระดับการออกอากาศอย่างละเอียด ตั้งค่ามิกซ์หนึ่งครั้งที่แหล่งที่มาและ OBS มีเวลาต่อสู้น้อยกว่ามาก การสลับเอาต์พุตอย่างรวดเร็วใน SoundDial ยังช่วยให้คุณสลับระหว่างหูฟังและลำโพงโดยไม่ต้องเข้าสู่การตั้งค่าระบบระหว่างฉากต่างๆ</p>
+
+<h2>SoundDial เทียบกับทางเลือกอื่น</h2>
+<p>คุณมีทางเลือก และความซื่อสัตย์เป็นสิ่งสำคัญที่นี่:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> — ระดับมือโปรด้วย EQ ต่อแอปและการกำหนดเส้นทางเอาต์พุตแบบเต็ม ใช้งานได้ดี แต่มีราคาสูงกว่าสองเท่า ต้องดาวน์โหลดโดยตรง และติดตั้งไดรเวอร์จับภาพเสียง ฆ่ามากเกินไปถ้าคุณต้องการระดับต่อแอปที่สะอาด บูสต์ และเป็ดเป็นหลัก</li>
+<li><strong>Background Music (ฟรี โอเพ่นซอร์ส)</strong> — มีประโยชน์จริง ๆ และฟรี แต่อาจใช้งานไม่ได้กับ macOS เวอร์ชันใหม่กว่า และไม่มีการเร่งความเร็ว ไม่มีโปรไฟล์ และไม่มีการซ่อนอัตโนมัติ — ฟีเจอร์ที่สตรีมเมอร์พึ่งพาได้</li>
+<li><strong>FineTune (แอปแถบเมนูโอเพ่นซอร์สฟรี)</strong> — การควบคุมต่อแอปที่มีน้ำหนักเบา แต่เป็นโปรเจ็กต์ชุมชนที่ไม่มีคอมโบโปรไฟล์บวกเป็ดที่สร้างขึ้นสำหรับการสตรีมสด</li>
+<li><strong>eqMac (ฟรี EQ + บูสเตอร์)</strong> — เหมาะสำหรับการปรับแต่งโทนเสียงและเพิ่มประสิทธิภาพ แต่เป็นอีควอไลเซอร์ ไม่ใช่มิกเซอร์สตรีมมิ่งต่อแอป</li>
+</ul>
+<p>มุมของ SoundDial: มันคือ a <strong>€14.99 ครั้งเดียว</strong> ซื้อได้ที่ <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — ตรวจสอบโดย Apple, แซนด์บ็อกซ์ และติดตั้งได้อย่างสมบูรณ์โดยไม่มี DMG และไม่มีไดรเวอร์เสียงหรือส่วนขยายระบบ ส่วนสุดท้ายนั้นสำคัญสำหรับสตรีมเมอร์: ส่วนประกอบระดับเคอร์เนลที่น้อยลงหมายถึงการเสียหายที่ไม่คาดคิดน้อยลงเมื่อ macOS อัปเดตในคืนก่อนการสตรีมของคุณ</p>
+
+<h2>การแลกเปลี่ยนที่ซื่อสัตย์</h2>
+<p>หากคุณต้องการ EQ ระดับการออกอากาศและสายโซ่การกำหนดเส้นทางที่ซับซ้อน SoundSource จะได้รับราคา หากคุณต้องการเครื่องมือช่างฟรีและไม่รังเกียจที่จะแตกหักเป็นครั้งคราว Background Music หรือ FineTune จะช่วยได้ แต่ถ้าคุณต้องการการผสมผสานที่การสตรีมต้องการจริงๆ — ระดับต่อแอป, บูสต์, โปรไฟล์ฉากที่บันทึกไว้ และการลบอัตโนมัติ — จากการติดตั้ง App Store ที่ปลอดภัยซึ่งยังคงใช้การอัปเดต macOS ได้ SoundDial คือเส้นทางที่ตรงที่สุดสำหรับเงินที่เสียไป</p>
+
+<p><strong>พร้อมที่จะแก้ไขเสียงสตรีมของคุณแล้วหรือยัง?</strong> รับ <a href="https://apps.apple.com/app/id6772792641">SoundDial บน Mac App Store</a> ในราคา €14.99 — ตั้งค่าไมค์ เกม เพลง และระดับการเตือนหนึ่งครั้ง บันทึกเป็นโปรไฟล์ และปล่อยให้ระบบปิดเสียงอัตโนมัติทำให้เสียงของคุณอยู่ด้านบน</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "วิธีแก้ไขเสียงแคร็กและการแตกของเสียงบน macOS Tahoe",
+    description: "เสียงแตกหรือแตกหลังจากอัปเดตเป็น macOS Tahoe 26? แก้ไขโดยจับคู่อัตราตัวอย่าง รีเซ็ต CoreAudio ตรวจสอบตัวแปลงสัญญาณ Bluetooth ของคุณ และล้างข้อขัดแย้งของปลั๊กอิน ต่อไปนี้คือลำดับการแก้ปัญหาทั้งหมด",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>เสียงแคร็กและการแตกหลังจากอัปเดตเป็น macOS Tahoe 26 มักจะเกิดจากอัตราตัวอย่างไม่ตรงกัน การเจรจาตัวแปลงสัญญาณ Bluetooth ที่ไม่สม่ำเสมอ หรือกระบวนการ CoreAudio ที่ค้างอยู่ แก้ไขโดยจับคู่อัตราตัวอย่างเอาต์พุตในการตั้งค่า Audio MIDI โดยรีเซ็ต <code>coreaudiod</code>การลืมและการจับคู่หูฟัง Bluetooth ใหม่ และการออกจากโฮสต์ปลั๊กอินเสียง ทำงานตามลำดับด้านล่าง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — วิธีแก้ไขเสียงแคร็กและการแตกของเสียงบน macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เริ่มต้นด้วยการแก้ไขราคาถูก</h2>
+
+<p>ก่อนที่คุณจะพูดถึงเรื่องทางเทคนิคใดๆ ให้แยกแยะสองสิ่งที่สามารถแก้ไขกรณีส่วนใหญ่ได้ภายในเวลาไม่ถึงนาที:</p>
+
+<ul>
+<li><strong>รีสตาร์ท Mac</strong> การอัปเดตของ Tahoe ทำให้เดมอนเสียงอยู่ในสถานะที่มีการโยกย้ายครึ่งหนึ่งบ่อยครั้งอย่างน่าประหลาดใจ การรีบูตใหม่ทั้งหมดจะโหลด CoreAudio ใหม่ตั้งแต่ต้น และล้างเสียงแคร็กหลังการอัปเดตส่วนใหญ่</li>
+<li><strong>ถอดปลั๊กและเสียบอุปกรณ์เอาต์พุตอีกครั้ง</strong> หากเป็น USB DAC, แท่นเชื่อมต่อ หรืออินเทอร์เฟซเสียง ให้ยกเลิกการเชื่อมต่อ รอสักครู่ แล้วเชื่อมต่อใหม่ ลองใช้พอร์ต USB อื่นด้วย โดยควรเป็นพอร์ตโดยตรงบน Mac แทนที่จะผ่านฮับ ฮับและจอแสดงผลที่ส่งผ่านเสียงเป็นสาเหตุของป๊อปทั่วไป</li>
+</ul>
+
+<p>หากยังมีเสียงรบกวนหลงเหลืออยู่ในระหว่างการรีบูท แสดงว่าเป็นปัญหาในการกำหนดค่า ไม่ใช่ข้อผิดพลาด ทำต่อไป.</p>
+
+<h2>จับคู่อัตราตัวอย่าง (สาเหตุที่พบบ่อยที่สุด)</h2>
+
+<p>เสียงแตกของ Tahoe แบบคลาสสิกมาจากอัตราตัวอย่างที่ไม่ตรงกันระหว่างสิ่งที่อุปกรณ์ของคุณต้องการกับสิ่งที่ macOS กำลังส่ง เมื่อแอพเล่นเสียง 44.1 kHz และระบบล็อคไว้ที่ 48 kHz (หรือกลับกัน) การสุ่มตัวอย่างใหม่อาจกระตุกหรือดังขึ้นได้</p>
+
+<ul>
+<li>เปิด <strong>การตั้งค่าเสียง MIDI</strong> (ใน Applications → Utilities หรือค้นหา Spotlight)</li>
+<li>เลือกอุปกรณ์เอาท์พุตของคุณในแถบด้านข้างซ้าย</li>
+<li>ดูที่ <strong>รูปแบบ</strong> แบบเลื่อนลง ลองตั้งค่าเป็น <strong>48000.0 เฮิร์ตซ์ จำนวนเต็ม 2ch-24 บิต</strong> และทดสอบ</li>
+<li>หากการปรากฏยังคงดำเนินต่อไป ให้เปลี่ยนไปใช้ <strong>44100.0 เฮิรตซ์</strong> และทดสอบอีกครั้ง</li>
+<li>สำหรับอินเทอร์เฟซ ตรวจสอบให้แน่ใจว่าอัตราตัวอย่างตรงกับอัตราโปรเจ็กต์ของ DAW ของคุณ</li>
+</ul>
+
+<p>การสลับรูปแบบยังบังคับให้ CoreAudio เจรจาการเชื่อมต่อใหม่ ซึ่งแก้ไขได้หลายกรณีเพียงอย่างเดียวแม้ว่าคุณจะกลับมาที่ค่าเดียวกันก็ตาม</p>
+
+<h2>รีเซ็ต CoreAudio</h2>
+
+<p>CoreAudio ทำงานเป็นดีมอนพื้นหลังที่เรียกว่า <code>coreaudiod</code>. หลังจากการอัพเดต macOS ครั้งใหญ่ จะสามารถคงสถานะอุปกรณ์เก่าไว้ได้ การรีสตาร์ทจะปลอดภัยและมีผลทันทีโดยไม่ต้องรีบูตเครื่อง</p>
+
+<p>เปิด Terminal และรัน:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>ป้อนรหัสผ่านของคุณเมื่อได้รับแจ้ง เสียงของคุณจะถูกตัดไปครู่หนึ่ง จากนั้นดีมอนจะเปิดใหม่อีกครั้งโดยอัตโนมัติด้วยโทนเสียงที่สะอาดตา นี่เป็นการแก้ไขที่มีประสิทธิภาพสูงสุดเพียงครั้งเดียวสำหรับการแคร็กที่ปรากฏโดยไม่ทราบสาเหตุบนเครื่องที่ปกติดีก่อนการอัปเดต</p>
+
+<h2>ตรวจสอบหูฟังและตัวแปลงสัญญาณ Bluetooth ของคุณ</h2>
+
+<p>หากเสียงแตกเกิดขึ้นเฉพาะกับ AirPods หรือหูฟัง Bluetooth อื่นๆ ปัญหามักจะอยู่ที่การเจรจาตัวแปลงสัญญาณ ไม่ใช่ลำโพงของคุณ คุณภาพเสียงไร้สายจะลดลงเมื่อการเชื่อมต่อหนาแน่นหรือเมื่อ macOS เข้าสู่โหมดการโทรที่มีแบนด์วิธต่ำ</p>
+
+<ul>
+<li><strong>ลืมและจับคู่อุปกรณ์ใหม่</strong> ไปที่การตั้งค่าระบบ → Bluetooth ถอดหูฟังออก จากนั้นจับคู่อีกครั้ง ซึ่งจะรีเซ็ตตัวแปลงสัญญาณที่เจรจาไว้</li>
+<li><strong>ระวังการลดลงของโหมดการโทร</strong> เมื่อแอปเปิดไมโครโฟน macOS จะเปลี่ยนชุดหูฟัง Bluetooth ไปเป็นโปรไฟล์สองทางคุณภาพต่ำ ซึ่งฟังดูกรุบกรอบ ออกจากแอปการประชุมและแอปเสียงที่คุณไม่ได้ใช้ และความเที่ยงตรงจะกลับมา</li>
+<li><strong>ลดการรบกวน</strong> หลีกหนีจากสภาพแวดล้อม 2.4 GHz ที่แออัด และยกเลิกการเชื่อมต่ออุปกรณ์ Bluetooth ที่คุณไม่ต้องการ คลื่นวิทยุที่มีความถี่สูงส่งเสียงป๊อปเป็นระยะๆ</li>
+<li><strong>ปิดอินพุตไมโครโฟน</strong> ในการตั้งค่าของแอปหากคุณต้องการฟังเท่านั้น macOS จึงคงโปรไฟล์การเล่นคุณภาพสูงไว้</li>
+</ul>
+
+<h2>ออกจากโฮสต์ปลั๊กอินเสียงและไดรเวอร์เสมือน</h2>
+
+<p>ซอฟต์แวร์เสียงของบริษัทอื่นที่ติดตั้งส่วนขยายระบบหรืออุปกรณ์เสมือนมักเป็นผู้กระทำความผิดหลังจากการข้ามระบบปฏิบัติการ เนื่องจากเคอร์เนลและส่วนขยายเสียงมักจำเป็นต้องอัปเดตเป็นเวอร์ชัน macOS ใหม่ ผู้ต้องสงสัยรวมถึงเราเตอร์เสียงเสมือน แอพอีควอไลเซอร์ เครื่องมือลูปแบ็ค และยูทิลิตี้ที่ใช้ไดรเวอร์รุ่นเก่า</p>
+
+<ul>
+<li>ออกจากแอปอีควอไลเซอร์ เราเตอร์เสียง หรือลูปแบ็ค และทดสอบว่าเสียงแคร็กหยุดแล้วหรือไม่</li>
+<li>ตรวจสอบการตั้งค่าระบบ → ทั่วไป → รายการเข้าสู่ระบบ ส่วนขยาย &amp; เพื่อหาส่วนขยายเสียงที่อาจต้องมีการอัปเดตหรือลบออก</li>
+<li>อัปเดตแอปเหล่านั้นเป็นรุ่นที่เข้ากันได้กับ Tahoe หรือถอนการติดตั้งแอปที่คุณไม่ได้ใช้อีกต่อไป ไดรเวอร์เสียงแบบเรียงซ้อนมักขัดแย้งกันหลังจากการอัพเดตครั้งใหญ่</li>
+</ul>
+
+<p>หากการออกจากแอปใดแอปหนึ่งเหล่านี้ทำให้ป๊อปอัปเงียบลง แสดงว่าคุณพบผู้กระทำผิดแล้ว ติดตั้งเวอร์ชันปัจจุบันใหม่หรือปล่อยทิ้งไว้</p>
+
+<h2>จำกัดให้แคบลง: ทั้งระบบหรือแอปเดียว?</h2>
+
+<p>พิจารณาว่าเสียงรบกวนเกิดขึ้นทุกที่หรือเฉพาะในซอฟต์แวร์บางตัวเท่านั้น เล่นไฟล์เสียงในเครื่อง จากนั้นเล่นวิดีโอเบราว์เซอร์ จากนั้นจึงเล่นแอปเพลง หากมีแอปเดียวที่แคร็ก การแก้ไขคือการตั้งค่าเสียงของแอปนั้นเองหรือการอัปเดต ไม่ใช่ macOS หากเป็นแบบทั่วทั้งระบบ ขั้นตอนข้างต้นคือคำตอบ</p>
+
+<p>เมื่อคุณยังติดอยู่ ให้บูตเข้าสู่ Safe Mode (กดปุ่มเปิด/ปิดบน Apple Silicon ค้างไว้ จากนั้นเลือกดิสก์เริ่มต้นระบบในขณะที่กด Shift ค้างไว้) Safe Mode ไม่โหลดส่วนขยายของบุคคลที่สาม หากเสียงสะอาด รายการเข้าสู่ระบบหรือไดรเวอร์เป็นสาเหตุ และคุณสามารถเปิดใช้งานได้ทีละรายการเพื่อค้นหา</p>
+
+<h2>เมื่อเสียงของคุณสะอาดแล้ว</h2>
+
+<p>เสียงแคร็กเป็นตัวขับเคลื่อนและปัญหาอัตราตัวอย่าง ดังนั้นการแก้ไขข้างต้นคือสิ่งที่แก้ไขได้จริง แต่เมื่อการเล่นมีเสถียรภาพแล้ว คุณอาจสังเกตเห็นข้อจำกัดที่แตกต่างกัน: macOS ยังไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว เช่นเดียวกับที่ Windows ทำ คุณไม่สามารถปิดแอปที่มีเสียงดังโดยไม่ปิดทุกอย่างได้</p>
+
+<p>นั่นคือช่องว่าง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เติม เป็นมิกเซอร์แถบเมนูที่ให้แต่ละแอปมีแถบเลื่อนระดับเสียง การปิดเสียงต่อแอป และแม้แต่การเพิ่มระดับเสียงสำหรับแอปที่เงียบ พร้อมการสลับเอาต์พุตอย่างรวดเร็ว มันจะไม่แก้ไขเสียงแตก แต่เมื่อเสียงของคุณดีแล้ว มันจะทำให้การควบคุมในแต่ละวันง่ายขึ้นมาก</p>
+
+<p>ดำเนินการตามขั้นตอนข้างต้นตามลำดับ และเริ่มต้นด้วยการรีบูตและการตรวจสอบอัตราตัวอย่าง หากคุณต้องการควบคุมการตั้งค่าเสียงที่ชัดเจนต่อแอปต่อแอปในภายหลัง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> คือการซื้อครั้งเดียวที่ €14.99 บน Mac App Store แบบแซนด์บ็อกซ์โดยไม่มีไดรเวอร์หรือ DMG ให้ติดตั้ง</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods พูดติดอ่างหรือตัดออกบน Mac (Tahoe Fix)",
+    description: "AirPods พูดติดอ่าง ตัดออก หรือปล่อยเสียงบน macOS Tahoe มักจะรบกวน Bluetooth หรือการสลับอัตโนมัติ ต่อไปนี้เป็นวิธีการจับคู่ใหม่ ลดความแออัดของคลื่น 2.4GHz และหยุดการแฮนด์ออฟที่ทำให้การเล่นหยุดชะงัก",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>AirPods พูดติดอ่างหรือตัดออกบน macOS Tahoe มักเป็นการรบกวน Bluetooth ไม่ใช่ชุดหูฟังที่เสียหาย ต้นเหตุปกติคือ Wi-Fi 2.4GHz และความแออัดของเราเตอร์ การสลับอุปกรณ์อัตโนมัติเชิงรุก และการจับคู่ที่ค้าง จับคู่ AirPods อีกครั้ง ปิดสวิตช์อัตโนมัติ และย้ายออกจากช่องสัญญาณ 2.4GHz ที่แออัดเพื่อแก้ไขปัญหาส่วนใหญ่</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods พูดติดอ่างหรือตัดออกบน Mac (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไม AirPods ถึงหล่นบน Mac โดยเฉพาะ</h2>
+
+<p>AirPods ใช้ Bluetooth ซึ่งมีย่านความถี่วิทยุ 2.4GHz ร่วมกับ Wi-Fi, ไมโครเวฟ, อุปกรณ์ USB 3 และปลั๊กอัจฉริยะแทบทุกตัวในบ้านของคุณ Mac ของคุณเป็นวิทยุที่ยุ่ง: สลับคุณสมบัติ Wi-Fi, Bluetooth, AirDrop และความต่อเนื่องบนเสาอากาศที่ทับซ้อนกัน เมื่อย่านความถี่นั้นหนาแน่น เสียงของ Bluetooth คือสิ่งแรกที่ต้องพูดติดอ่าง เนื่องจากไม่สามารถทนต่อแพ็กเก็ตที่ตกหล่นในแบบที่การถ่ายโอนไฟล์สามารถทำได้</p>
+
+<p>Tahoe ไม่ได้ทำให้ AirPods ของคุณแย่ลงอย่างน่าอัศจรรย์ แต่การติดตั้ง macOS ใหม่มักจะรีเซ็ตพฤติกรรมของวิทยุ เปิดใช้งานการส่งต่อความต่อเนื่องอีกครั้ง และเจรจาตัวแปลงสัญญาณอีกครั้ง นั่นเป็นสาเหตุที่ทำให้เกิดปัญหาปรากฏขึ้นทันทีหลังจากการอัพเดต ข่าวดี: การแก้ไขต่างๆ เป็นที่เข้าใจกันดีและส่วนใหญ่ฟรี</p>
+
+<h2>แก้ไข 1: จับคู่ AirPods อีกครั้ง (ทำสิ่งนี้ก่อน)</h2>
+
+<p>การจับคู่ที่เก่าหรือเสียหายยังคงอยู่หลังจากการรีบูตและทำให้เกิดการลดลงเป็นระยะ ๆ ซึ่งดูสุ่ม ลบการเชื่อมต่อออกทั้งหมดและเพิ่มการเชื่อมต่อใหม่:</p>
+
+<ul>
+<li>เปิด <strong>การตั้งค่าระบบ Bluetooth</strong>.</li>
+<li>คลิกปุ่มข้อมูล (i) ถัดจาก AirPods ของคุณแล้วเลือก <strong>ลืมอุปกรณ์นี้</strong>.</li>
+<li>ใส่ AirPods ไว้ในกล่อง ปิดฝา รอ 15 วินาที จากนั้นจึงเปิดออก</li>
+<li>กดปุ่มที่ด้านหลังของเคสค้างไว้จนกว่าไฟจะกะพริบเป็นสีขาว</li>
+<li>จับคู่ใหม่จากรายการ Bluetooth</li>
+</ul>
+
+<p>ขณะที่คุณอยู่ที่นั่น ตรวจสอบให้แน่ใจว่าเฟิร์มแวร์ AirPods เป็นเวอร์ชันปัจจุบัน ไม่มีตัวอัปเดตด้วยตนเอง แต่ปล่อยไว้ในกรณีใกล้กับ iPhone หรือ Mac ที่เชื่อมต่ออยู่ระยะหนึ่งเพื่อให้อัปเดตในเบื้องหลังได้</p>
+
+<h2>แก้ไข 2: ปิดการสลับอัตโนมัติ</h2>
+
+<p>นี่เป็นสาเหตุเดียวที่ใหญ่ที่สุดของการ "ตัดขาด" ผู้คนในระบบนิเวศของ Apple AirPods ของคุณพยายามติดตามคุณระหว่าง Mac, iPhone และ iPad ทุกครั้งที่โทรศัพท์ของคุณคิดว่าควรจะดึงเสียง การเชื่อมต่อจะสะดุดบน Mac ของคุณ ส่งผลให้พอดแคสต์กลางคันหลุดกลางวินาที</p>
+
+<ul>
+<li>บน Mac: Bluetooth คลิก (i) ถัดจาก AirPods ตั้งค่า <strong>เชื่อมต่อกับ Mac นี้</strong> ถึง <strong>เมื่อเชื่อมต่อกับ Mac นี้ครั้งล่าสุด</strong> แทนโดยอัตโนมัติ</li>
+<li>บน iPhone: การตั้งค่า แตะ AirPods ของคุณ <strong>เชื่อมต่อกับ iPhone เครื่องนี้</strong>, เลือก <strong>เมื่อเชื่อมต่อกับ iPhone นี้ครั้งสุดท้าย</strong>.</li>
+</ul>
+
+<p>การดำเนินการนี้จะหยุดการชักเย่อระหว่างอุปกรณ์ คุณจะเลือกตำแหน่งเสียงได้ด้วยตนเอง ซึ่งเป็นราคาเพียงเล็กน้อยสำหรับการเล่นที่เสถียร</p>
+
+<h2>แก้ไข 3: ลดความแออัดของ 2.4GHz</h2>
+
+<p>หากการลดลงเกิดขึ้นระหว่างแฮงเอาท์วิดีโอ ดาวน์โหลด หรือในขณะที่คนอื่นกำลังสตรีม คลื่นวิทยุของคุณจะอิ่มตัว การเคลื่อนไหวเชิงปฏิบัติบางประการ:</p>
+
+<ul>
+<li><strong>ใช้ย่านความถี่ Wi-Fi 5GHz</strong> บน Mac ของคุณ ในการตั้งค่าเราเตอร์ของคุณ ให้ตั้งชื่อเครือข่าย 5GHz ที่แตกต่างออกไปแล้วเชื่อมต่อกับเครือข่ายนั้น ซึ่งจะเป็นการปลดแบนด์ 2.4GHz สำหรับ Bluetooth</li>
+<li><strong>ย้ายฮับ USB 3 และ Thunderbolt ออกไป</strong> จาก Mac และ AirPods ของคุณ USB 3 เป็นแหล่งสัญญาณรบกวน 2.4GHz ที่มีชื่อเสียง ฮับที่อยู่ติดกับแล็ปท็อปของคุณสามารถทำลาย Bluetooth ได้ในระยะไม่กี่นิ้ว</li>
+<li><strong>เปลี่ยนช่อง 2.4GHz ของเราเตอร์ของคุณ</strong> เป็น 1, 6 หรือ 11 (ตัวเลือกที่ไม่ทับซ้อนกัน) และหลีกเลี่ยงช่องสัญญาณที่แออัดที่เพื่อนบ้านของคุณเปิดอยู่</li>
+<li><strong>ให้อยู่ในแนวสายตา</strong> ร่างกายและผนังดูดซับคลื่น 2.4GHz หาก Mac ของคุณอยู่ข้างหลังคุณหรืออยู่ในกระเป๋า การดรอปจะแย่ลง</li>
+</ul>
+
+<blockquote>เราเตอร์ Wi-Fi 6E และ Wi-Fi 7 สามารถช่วยทางอ้อมได้: การดันอุปกรณ์ของคุณไปที่ 6GHz จะล้างแบนด์ 2.4GHz ที่ Bluetooth ต้องใช้อยู่ แต่ตาข่ายที่มีการกำหนดค่าไม่ดีซึ่งทำให้คุณกลับมาที่ 2.4GHz อาจทำให้สิ่งต่างๆ แย่ลงได้ ตรวจสอบว่าจริงๆ แล้วคุณอยู่วงไหน</blockquote>
+
+<h2>แก้ไข 4: รีเซ็ต Bluetooth และ Continuity stack</h2>
+
+<p>หากการจับคู่ใหม่ไม่เกิดขึ้น ให้รีเซ็ตวิทยุด้วยตนเอง:</p>
+
+<ul>
+<li>สลับ Bluetooth เป็นปิดและเปิดจากแถบเมนู จากนั้นรีบูต Mac การรีบูตจะล้างข้อผิดพลาดชั่วคราวของเสียงจำนวนหนึ่งอย่างน่าประหลาดใจ</li>
+<li>รีเซ็ต SMC/NVRAM บน Intel Macs หรือเพียงปิดระบบโดยสมบูรณ์ (ไม่รีสตาร์ท) เป็นเวลา 30 วินาทีบน Apple Silicon</li>
+<li>หากคุณไม่ได้ใช้ AirDrop หรือ Handoff การปิดใช้งาน Handoff ในการตั้งค่าระบบ ทั่วไป AirDrop &amp; Handoff จะลดการพูดคุยทางวิทยุในเบื้องหลัง</li>
+</ul>
+
+<h2>สิ่งที่จะไม่แก้ไข (และสิ่งที่มิกเซอร์ปรับระดับเสียงทำได้จริง)</h2>
+
+<p>เพื่อให้ชัดเจนเกี่ยวกับขอบเขต: ทั้งหมดนี้ไม่ใช่ปัญหาเกี่ยวกับปริมาณซอฟต์แวร์ และไม่มีแอปปริมาณใดที่สามารถซ่อมแซมลิงก์ Bluetooth ได้ หากเสียงของคุณเป็น <em>ลดลง</em>ไล่ล่าประเด็นวิทยุด้านบน แอพอย่าง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ควบคุมระดับเสียงต่อแอป ปิดเสียง และการสลับเอาต์พุต โดยจะไม่แตะสแต็ก Bluetooth ดังนั้นจึงไม่หยุดพูดติดอ่าง สิ่งที่มิกเซอร์ช่วยได้อย่างแท้จริงคือสิ่งที่น่ารำคาญที่อยู่ติดกัน ผู้ใช้ AirPods จำนวนมากมักสับสนกับการดรอปเอาท์: แอปหนึ่งระเบิดในขณะที่อีกแอปหนึ่งเงียบเกินไป หรือจำเป็นต้องข้ามเอาต์พุตอย่างรวดเร็ว นั่นเป็นปัญหาเกี่ยวกับความสมดุลของระดับเสียง ไม่ใช่ปัญหาการเชื่อมต่อ</p>
+
+<p>วินิจฉัยอย่างตรงไปตรงมา หากเสียงขาดหายไปตามจังหวะแล้วกลับมา แสดงว่าเป็นการรบกวนหรือสลับอัตโนมัติ หากระดับระหว่างแอปไม่เท่ากัน นั่นเป็นปัญหาการผสมผสานที่คุณสามารถแก้ไขได้ด้วยซอฟต์แวร์</p>
+
+<h2>รายการตรวจสอบด่วน</h2>
+
+<ul>
+<li>ลืมและจับคู่ AirPods อีกครั้ง</li>
+<li>ตั้งค่าทั้ง Mac และ iPhone เป็น <strong>เมื่อเชื่อมต่อครั้งล่าสุด</strong>ไม่ใช่โดยอัตโนมัติ</li>
+<li>ย้าย Mac ของคุณไปที่ 5GHz Wi-Fi; เก็บฮับ USB 3 ให้ห่างจากกัน</li>
+<li>ตั้งค่า 2.4GHz เป็นช่อง 1, 6 หรือ 11</li>
+<li>รีบูตหลังจากสลับ Bluetooth</li>
+</ul>
+
+<p>เมื่อการดรอปเอาท์หายไปและคุณเพียงต้องการการควบคุมระดับเสียงที่แต่ละแอปเล่นได้ชัดเจนยิ่งขึ้น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เพิ่มตัวปรับแต่งระดับเสียงต่อแอปที่เหมาะสม ปิดเสียง บูสต์ และการสลับเอาต์พุตด่วนที่ macOS ยังไม่มี เป็นการซื้อครั้งเดียวที่ €14.99 บน Mac App Store แบบแซนด์บ็อกซ์ โดยไม่ต้องติดตั้งไดรเวอร์</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "ลำโพงขวาตายใน Mac หลังจากอัพเดต Tahoe หรือไม่? วิธีการแก้ไข",
+    description: "ลำโพงหรือช่องหนึ่งหยุดทำงานหลังจากอัปเดตเป็น macOS Tahoe? เริ่มต้นด้วยแถบเลื่อนความสมดุลของเสียง จากนั้นรีเซ็ต Core Audio ลองใช้เซฟโหมด และตัดฮาร์ดแวร์ออก คู่มือการแก้ไขปัญหาที่ชัดเจน",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หากลำโพงด้านขวาของคุณเงียบลงหลังจากอัปเดตเป็น macOS Tahoe ให้ตรวจสอบเสียง <strong>แถบเลื่อนสมดุล</strong> อย่างแรก — มันสามารถเปลี่ยนแปลงได้ระหว่างการอัพเดต ไปที่การตั้งค่าระบบ &gt; เสียง &gt; Output และตรวจสอบให้แน่ใจว่า Balance อยู่ตรงกลาง หากไม่เป็นไร ให้รีสตาร์ท Core Audio บูตเข้าสู่เซฟโหมด จากนั้นตัดฮาร์ดแวร์ออก กรณีส่วนใหญ่เป็นซอฟต์แวร์</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ลำโพงด้านขวาใช้งานไม่ได้ใน Mac หลังจากอัพเดต Tahoe? วิธีการแก้ไข" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ขั้นแรก: แถบเลื่อนสมดุล (แก้ไขบ่อยกว่าที่คุณคิด)</h2>
+
+<p>แถบเลื่อนสมดุลที่ค้างหรือเลื่อนเป็นสาเหตุเดียวที่พบบ่อยที่สุดที่ทำให้ช่องหนึ่งเงียบ — และการอัปเดต macOS จะสะกิดช่องนั้นในบางครั้ง ก่อนที่คุณจะถือว่าสิ่งที่เลวร้ายที่สุด:</p>
+
+<ul>
+<li>เปิด <strong>การตั้งค่าระบบ เสียง &gt;</strong>.</li>
+<li>คลิกที่ <strong>เอาท์พุต</strong> และเลือกลำโพงของคุณ (ในตัวหรืออุปกรณ์ภายนอกของคุณ)</li>
+<li>ค้นหา <strong>ยอดคงเหลือ</strong> เลื่อนแล้วลากไปที่กึ่งกลางที่แน่นอน หากถูกดึงไปทางซ้าย ช่องขวาของคุณก็จะดังขึ้น</li>
+</ul>
+
+<p>ทำเช่นนี้ <em>ต่ออุปกรณ์เอาท์พุต</em>. การตั้งค่าความสมดุลจะถูกจดจำแยกต่างหากสำหรับลำโพงในตัว หูฟัง และอินเทอร์เฟซภายนอกแต่ละตัว ดังนั้นความสมดุลในตัวที่อยู่ตรงกลางจะไม่ช่วยอะไรหากปัญหาอยู่ที่ USB DAC ของคุณ</p>
+
+<h2>ทดสอบว่าเป็นช่องฮาร์ดแวร์จริงหรือไม่</h2>
+
+<p>ควบคุมฮาร์ดแวร์เข้าหรือออกอย่างรวดเร็ว เล่นแทร็กสเตอริโอที่คุณคุ้นเคยดี จากนั้นเสียบหูฟังแบบมีสาย หากทั้งสองช่องทำงานในหูฟังแต่ไม่ผ่านลำโพง ปัญหาจะเกิดขึ้นที่ปลายน้ำของกลไกเสียง (ฮาร์ดแวร์ของลำโพงหรือเส้นทางเอาต์พุต) หากช่องเดียวกันนั้นใช้งานไม่ได้ในหูฟัง เป็นไปได้มากกว่าว่าซอฟต์แวร์หรือตัวแปลงสัญญาณเสียงของบอร์ดลอจิก</p>
+
+<p>คุณยังสามารถเปิดได้ <strong>ดนตรี</strong> หรือ QuickTime เล่นอะไรบางอย่าง และสลับยอดคงเหลือไปทางซ้ายสุดแล้วไปทางขวาสุด หากเสียงเคลื่อนที่ระหว่างช่องสัญญาณได้ชัดเจน ลำโพงทั้งสองตัวจะยังคงทำงานอยู่ และนี่เป็นเพียงปัญหาในการตั้งค่าเท่านั้น</p>
+
+<h2>รีสตาร์ท Core Audio</h2>
+
+<p>macOS กำหนดเส้นทางเสียงทั้งหมดผ่านทาง <strong>เสียงหลัก</strong> กระบวนการ หลังจากการอัพเดตครั้งใหญ่ สถานะของมันอาจเกิดอาการค้างได้ เช่น เอาต์พุตหายไป ช่องสัญญาณลดลง หรือระดับเสียงทำงานผิดปกติ การรีสตาร์ทจะปลอดภัยและบังคับให้ macOS สร้างกราฟเสียงใหม่:</p>
+
+<ul>
+<li>เปิด <strong>Terminal</strong> (แอพพลิเคชั่นยูทิลิตี้ &gt;)</li>
+<li>วิ่ง: <code>sudo killall coreaudiod</code></li>
+<li>ใส่รหัสผ่านของคุณ ภูตเสียงจะเปิดใหม่โดยอัตโนมัติภายในหนึ่งหรือสองวินาที</li>
+</ul>
+
+<p>ไม่มีสิ่งใดถูกลบ - นี่เป็นเพียงการรีบูตระบบย่อยเสียง ทดสอบลำโพงด้านขวาของคุณอีกครั้งทันทีหลังจากนั้น</p>
+
+<h2>รีบูตอย่างถูกต้อง จากนั้นลองใช้เซฟโหมด</h2>
+
+<p>การรีสตาร์ทแบบเต็มจะช่วยล้างข้อผิดพลาดชั่วคราวของเสียงที่คิลออลไม่สามารถทำได้ หากช่องนั้นยังคงตายอยู่ ให้บูตเข้าไป <strong>เซฟโหมด</strong>ซึ่งโหลดระบบขั้นต่ำและข้ามส่วนขยายเสียงของบุคคลที่สามและรายการเข้าสู่ระบบ:</p>
+
+<ul>
+<li><strong>แอปเปิ้ลซิลิคอน:</strong> ปิดเครื่อง. กดปุ่มเปิดปิดค้างไว้จนกระทั่ง "กำลังโหลดตัวเลือกการเริ่มต้น" ปรากฏขึ้น เลือกดิสก์ของคุณ จากนั้นกดค้างไว้ <strong>กะ</strong> และคลิก "ดำเนินการต่อในเซฟโหมด"</li>
+<li><strong>อินเทล:</strong> รีสตาร์ทและกดค้างไว้ <strong>กะ</strong> จนกระทั่งหน้าต่างเข้าสู่ระบบปรากฏขึ้น</li>
+</ul>
+
+<p>หากลำโพงทั้งสองทำงานในเซฟโหมด ไดรเวอร์เสียงของบริษัทอื่น อุปกรณ์เสมือน หรือยูทิลิตี้แถบเมนูที่ติดตั้งก่อนการอัปเดตจะขัดแย้งกับชุดเสียงใหม่ของ Tahoe บูตกลับสู่ปกติและลบหรืออัปเดตซอฟต์แวร์เสียงที่เพิ่งติดตั้ง (ตัวบันทึกหน้าจอ แอพการประชุม และ kext การกำหนดเส้นทางเสียงเป็นสาเหตุที่พบบ่อย)</p>
+
+<h2>รีเซ็ต NVRAM (Intel Macs เท่านั้น)</h2>
+
+<p>บน Intel Mac การตั้งค่าเสียงและลำโพงจะอยู่ใน NVRAM/PRAM และค่าเก่าๆ สามารถคงอยู่ได้จากการอัปเดต รีเซ็ต: ปิดเครื่อง จากนั้นเปิดเครื่องและกดค้างไว้ทันที <strong>ตัวเลือก + คำสั่ง + P + R</strong> เป็นเวลาประมาณ 20 วินาที ให้ Mac รีสตาร์ทหนึ่งครั้ง สิ่งนี้ใช้ไม่ได้กับ Apple Silicon Macs เพราะจะจัดการสิ่งนี้โดยอัตโนมัติ ดังนั้นให้ข้ามไปหากคุณใช้เครื่องซีรีส์ M</p>
+
+<h2>อัปเดตอีกครั้ง — และตรวจสอบการปล่อยคะแนน</h2>
+
+<p>เวอร์ชันหลักๆ ของ macOS รุ่นแรกๆ มาพร้อมกับข้อบกพร่องของไดรเวอร์เสียงซึ่งได้รับการแก้ไขในภายหลัง มุ่งหน้าไป <strong>การตั้งค่าระบบ &gt; อัพเดตซอฟต์แวร์ทั่วไป &gt;</strong> และติดตั้งรุ่น Tahoe point ที่ค้างอยู่ (14.x.1, 14.x.2 ฯลฯ) หากมีการอัปเดตเพิ่มเติม มักจะกล่าวถึงการถดถอยของเสียงหลังการอัปเดตเหล่านี้อย่างแน่นอน</p>
+
+<h2>เมื่อมันเป็นฮาร์ดแวร์อย่างแท้จริง</h2>
+
+<p>หากเซฟโหมด การรีสตาร์ท Core Audio และการติดตั้งใหม่ทั้งหมดล้มเหลว และช่องสัญญาณเดียวกันนั้นใช้งานไม่ได้ในหูฟัง คุณอาจกำลังดูข้อผิดพลาดของฮาร์ดแวร์ ระยะเวลาที่มีการอัปเดตอาจเกิดขึ้นโดยบังเอิญ แอมพลิฟายเออร์ของลำโพงและตัวแปลงสัญญาณเสียงไม่ทำงาน วิ่ง <strong>การวินิจฉัยของ Apple</strong> (ปิดเครื่อง จากนั้นกดปุ่มเปิด/ปิดบน Apple Silicon ค้างไว้แล้วเลือกการวินิจฉัย หรือกดค้างไว้ <strong>ดี</strong> บน Intel เมื่อเริ่มต้น) หากแจ้งว่าส่วนประกอบเสียง โปรดติดต่อ <strong>ฝ่ายสนับสนุนของแอปเปิ้ล</strong> หรือผู้ให้บริการที่ได้รับอนุญาต อย่าเสียเงินซื้อซอฟต์แวร์เพื่อลำโพงที่พัง</p>
+
+<blockquote>หลักง่ายๆ: หากเสียงแพนอย่างถูกต้องด้วยแถบเลื่อนสมดุล ลำโพงทั้งสองตัวก็ปกติดี และการแก้ไขของคุณอยู่ในซอฟต์แวร์ ถ้ามันไม่เคยเคลื่อนไปที่ด้านตาย ให้สงสัยเกี่ยวกับฮาร์ดแวร์</blockquote>
+
+<h2>ซอฟต์แวร์โวลุ่มเหมาะกับตำแหน่งใด (และตำแหน่งที่ไม่เหมาะกับ)</h2>
+
+<p>เพื่อความชัดเจน: ช่องลำโพงเสียไม่ใช่สิ่งที่แอปแก้ไขระดับเสียง การตรวจสอบข้างต้นคือเส้นทางของคุณ ดังที่กล่าวไว้ว่า เมื่อเสียงของคุณกลับมามีสุขภาพที่ดีอีกครั้ง macOS ยังคงขาดสิ่งที่ Windows มีมานานหลายปี นั่นคือ ตัวปรับแต่งเสียงต่อแอปที่แท้จริง หากคุณพบว่าตัวเองกำลังค้นหาการตั้งค่าเสียงเพราะแอปหนึ่งระเบิดในขณะที่อีกแอปหนึ่งเงียบเกินไป มิกเซอร์แถบเมนูเช่น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ช่วยให้คุณสามารถตั้งค่าระดับเสียง แยกเสียง และแม้กระทั่งเพิ่มระดับเสียงต่อแอปพลิเคชันโดยไม่ต้องกระทบกับความสมดุลของระบบ เป็นเครื่องมือที่สะดวกสำหรับการผสมทุกวัน ไม่ใช่การซ่อมแซมปัญหาในบทความนี้</p>
+
+<h2>รุ่นสั้น</h2>
+
+<ul>
+<li>ตั้งศูนย์ <strong>ยอดคงเหลือ</strong> แถบเลื่อน — ต่ออุปกรณ์เอาท์พุต</li>
+<li>ทดสอบกับหูฟังเพื่อแยกฮาร์ดแวร์</li>
+<li>วิ่ง <code>sudo killall coreaudiod</code>จากนั้นรีสตาร์ท</li>
+<li>ลอง <strong>เซฟโหมด</strong> เพื่อตรวจจับความขัดแย้งของผู้ขับขี่</li>
+<li>รีเซ็ต NVRAM บน Intel; ติดตั้งรุ่น Tahoe point ใด ๆ</li>
+<li>หูฟังยังตายอยู่เหรอ? เรียกใช้ Apple Diagnostics และโทรหา Apple</li>
+</ul>
+
+<p>เมื่อลำโพงของคุณกลับมาเป็นปกติแล้ว หากการเปลี่ยนระดับเสียงต่อแอปเป็นเรื่องน่ารำคาญในแต่ละวัน <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เพิ่มมิกเซอร์ macOS หายไปตลอด — €14.99 ครั้งเดียว แบบแซนด์บ็อกซ์ ไม่มีไดรเวอร์</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods ติดอยู่ที่ครึ่งหนึ่งของ Volume ใน Mac ของคุณใช่ไหม? นี่คือการแก้ไข",
+    description: "เหตุใด AirPods จึงเชื่อมต่อกับ Mac ของคุณที่ระดับเสียงเพียงครึ่งเดียว — โดยปกติแล้วตัวแปลงสัญญาณ Bluetooth จะเปลี่ยนไปใช้โปรไฟล์ไมโครโฟนแบบแฮนด์ฟรี — รวมถึงการแก้ไขการจับคู่ใหม่และวิธีเพิ่มระดับการสำรองข้อมูลให้ดี",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>โดยปกติแล้ว AirPods จะลดลงเหลือครึ่งหนึ่งของระดับเสียงใน Mac เนื่องจาก macOS เปลี่ยนจากโปรไฟล์เสียง A2DP คุณภาพสูงไปเป็นโปรไฟล์แฮนด์ฟรี (HFP) คุณภาพต่ำ ซึ่งเป็นโปรไฟล์ที่สร้างขึ้นสำหรับการใช้ไมโครโฟนในการโทร โหมดนั้นจะจำกัดเอาต์พุตและคุณภาพ แก้ไขโดยบังคับให้ Mac กลับไปใช้เสียงแบบหูฟังเท่านั้น จากนั้นเพิ่มระดับเพื่อให้เสียงอยู่ตรงนั้น</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods ติดอยู่ที่ครึ่งหนึ่งของระดับเสียงบน Mac ของคุณใช่ไหม? นี่คือการแก้ไข" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดสิ่งนี้จึงเกิดขึ้น: สวิตช์ตัวแปลงสัญญาณ</h2>
+
+<p>อุปกรณ์เสียง Bluetooth เช่น AirPods ทำงานในโหมดใดโหมดหนึ่งจากสองโหมด เมื่อคุณเพียงแค่ฟัง macOS จะใช้ A2DP — สเตอริโอเต็มรูปแบบ ความดังเต็มที่ และคุณภาพที่คมชัด แต่ทันทีที่แอปต้องการไมโครโฟนของคุณ macOS จะเปลี่ยนการเชื่อมต่อทั้งหมดเป็น HFP (Hands-Free Profile) HFP คือตัวแปลงสัญญาณโทรศัพท์แบบสองทาง มันฟังดูบาง เดียวดาย และเงียบกว่าอย่างเห็นได้ชัด เพราะมันออกแบบมาสำหรับการโทรด้วยเสียง ไม่ใช่เสียงเพลง</p>
+
+<p>ปัญหาคือ macOS มักจะติดอยู่ใน HFP แม้ว่าแอปที่จับไมโครโฟนเสร็จแล้ว — หรือเปลี่ยนไปใช้ทันทีที่คุณเปิด Zoom, FaceTime, Teams, Discord หรือแท็บเบราว์เซอร์ที่ได้รับอนุญาตจากไมโครโฟน ดังนั้น AirPods ของคุณจึงฟังดูเหมือนอยู่ที่ "ระดับเสียงครึ่งหนึ่ง" ไม่ใช่เพราะแถบเลื่อนระดับเสียงขยับ แต่เป็นเพราะโปรไฟล์เสียงทั้งหมดถูกลดระดับลงข้างใต้คุณ</p>
+
+<p>คุณจะจำได้: จู่ๆ เสียงก็เงียบลงและไร้เสียง AirPods ปรากฏขึ้นสองครั้งในการตั้งค่าเสียงของคุณ (ครั้งหนึ่งเป็นเอาต์พุต ครั้งหนึ่งเป็นไมโครโฟน) และการเพิ่มระดับเสียงของระบบให้สูงขึ้นจนแทบไม่ช่วยอะไร</p>
+
+<h2>วิธีแก้ปัญหาการจับคู่ใหม่และตัวแปลงสัญญาณ</h2>
+
+<p>นี่เป็นขั้นตอนแรกที่ซื่อสัตย์ ทำงานตามลำดับ — หนึ่งในวิธีแรกๆ มักจะเคลียร์มันได้</p>
+
+<ul>
+<li><strong>เปลี่ยนอุปกรณ์อินพุตของคุณ</strong> เปิดการตั้งค่าระบบ → เสียง → อินพุต และเลือกไมโครโฟนในตัวของ Mac แทน AirPods การดำเนินการนี้จะหยุด macOS ไม่ให้ถือ AirPods ในโหมด HFP ดังนั้นเอาต์พุตจึงสามารถไต่กลับไปสู่คุณภาพ A2DP เต็มรูปแบบได้ นี่เป็นการแก้ไขที่มีประสิทธิภาพสูงสุดเพียงครั้งเดียว</li>
+<li><strong>สลับการปิดและเปิด Bluetooth</strong> การรีเซ็ตการเชื่อมต่ออย่างรวดเร็วมักจะเจรจา A2DP ใหม่หมดจด โดยเฉพาะอย่างยิ่งหาก AirPods ติดค้างหลังจากวางสาย</li>
+<li><strong>เชื่อมต่อ AirPods อีกครั้ง</strong> ปิดเคส รอสักครู่ แล้วเปิดใหม่อีกครั้งใกล้กับ Mac และเลือกใหม่เป็นอุปกรณ์เอาต์พุต</li>
+<li><strong>ออกจากแอพที่คว้าไมค์</strong> ออกจาก Zoom, Teams, Discord หรือแท็บเบราว์เซอร์นั้นโดยสมบูรณ์ แอปบางแอปเปิดเซสชั่นไมโครโฟนทิ้งไว้ในพื้นหลังและปักหมุด HFP จนกว่าจะหายไป</li>
+<li><strong>จับคู่ใหม่ตั้งแต่ต้น</strong> ลบ AirPods ใต้การตั้งค่าระบบ → Bluetooth (คลิกปุ่มข้อมูล → ลืมอุปกรณ์นี้) จากนั้นจับคู่อีกครั้ง การดำเนินการนี้จะล้างการเจรจาโปรไฟล์ที่เสียหายซึ่งการสลับเพียงอย่างเดียวไม่สามารถแก้ไขได้</li>
+<li><strong>รีเซ็ต AirPods</strong> เมื่อเปิดฝาเคสไว้ ให้กดปุ่มตั้งค่าที่ด้านหลังค้างไว้จนกระทั่งไฟกะพริบเป็นสีเหลืองแล้วเปลี่ยนเป็นสีขาว จับคู่ใหม่ในภายหลัง นี่คือตัวเลือกนิวเคลียร์สำหรับความแปลกประหลาดระดับเฟิร์มแวร์</li>
+<li><strong>อัพเดตเฟิร์มแวร์ macOS และ AirPods</strong> Apple ได้จัดส่งการแก้ไขเสียง Bluetooth ในการเปิดตัวแบบจุด เฟิร์มแวร์ AirPods อัปเดตโดยไม่มีเสียงเมื่อชาร์จใกล้กับอุปกรณ์ที่เชื่อมต่อ ดังนั้นควรทิ้งไว้ในเคสใกล้กับ Mac ของคุณข้ามคืน</li>
+</ul>
+
+<blockquote><p>รูปแบบในการรับชม: หากระดับเสียงลดลงทันทีที่คุณเข้าร่วมสายและกลับมาอีกครั้งเมื่อวางสาย นั่นอาจเป็นสวิตช์ HFP ไม่ใช่ลำโพงที่เสียหรือการตั้งค่าผิดพลาด</p></blockquote>
+
+<h2>เหตุใดการแก้ไขจึงไม่ติดขัดเสมอไป</h2>
+
+<p>นี่คือส่วนที่น่าหงุดหงิด แม้หลังจากจับคู่ใหม่แล้ว macOS จะเปลี่ยน AirPods ของคุณกลับเข้าสู่โหมดแฮนด์ฟรีแบบเงียบอย่างมีความสุขในครั้งต่อไปที่แอปแตะไมโครโฟน คุณไม่สามารถปิดการใช้งานพฤติกรรมนั้นอย่างถาวรในการตั้งค่าระบบ - Apple ถือว่ามันเป็นไปโดยอัตโนมัติ ดังนั้นคุณจึงทำเคล็ดลับอุปกรณ์อินพุตซ้ำหลายครั้งต่อวัน และเมื่อใดก็ตามที่ AirPods ของคุณอยู่ในสายหรือแอปที่หิวโหย พวกเขาก็จะถูกต่อยอดที่ระดับล่างนั้นอีกครั้ง</p>
+
+<p>นอกจากนี้ยังมีปัญหาที่สองที่ผู้คนสับสนกับแอปนี้: แอปบางแอปเงียบกว่าแอปอื่นที่ระดับเสียงสูงสุดของระบบ เครื่องเล่นพอดแคสต์หรือแท็บเบราว์เซอร์สามารถอยู่ต่ำกว่าที่หูของคุณต้องการ แม้ว่า AirPods จะใช้ A2DP ที่สะอาดก็ตาม macOS มีแถบเลื่อนปรับระดับเสียงเพียงตัวเดียวสำหรับทุกสิ่งและไม่มีการควบคุมต่อแอป ดังนั้นจึงไม่มีวิธีดั้งเดิมในการผลักดันแอปที่เงียบเพียงแอปเดียวสำรอง</p>
+
+<h2>เพิ่มระดับสำรอง — และรักษาระดับไว้ตรงนั้น</h2>
+
+<p>นี่คือจุดที่ตัวปรับแต่งระดับเสียงต่อแอปได้รับตำแหน่ง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นแอปแถบเมนูสำหรับ macOS ที่ให้แอปที่ทำงานอยู่ทุกแอปมีแถบเลื่อนระดับเสียงที่เป็นอิสระ รวมถึงการเพิ่มพลังให้สูงกว่า 100% ดังนั้นเมื่อ AirPods ของคุณกลับมาจากการโทรด้วยระดับประสิทธิภาพที่ต่ำกว่า หรือแอปใดแอปหนึ่งเงียบเกินไป คุณจะลากแอปนั้นเลยเพดานปกติและแอปจะคงอยู่ที่นั่น</p>
+
+<p>หมายความโดยชัดแจ้งว่า:</p>
+
+<ul>
+<li><strong>เพิ่มปริมาณต่อแอป</strong> ผลักดันแอปแบบเงียบให้สูงกว่าค่าสูงสุดมาตรฐาน แทนที่จะต้องฟังเสียงดังจนเกินไปเพื่อฟังที่ระดับเสียงของระบบ "เต็ม"</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> บันทึกชุดระดับ — เบราว์เซอร์ที่เพิ่มประสิทธิภาพ เพลงที่นุ่มนวลขึ้น การสนทนาทางวิดีโอที่ดัง — และสลับการจัดเรียงทั้งหมดได้ในคลิกเดียว เพื่อให้คุณไม่ต้องปรับเปลี่ยนใหม่หลังจากเชื่อมต่อใหม่ทุกครั้ง</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> สลับไปมาระหว่าง AirPods, ลำโพงแล็ปท็อป และ DAC ภายนอกจากแถบเมนูโดยไม่ต้องผ่านการตั้งค่าระบบ ซึ่งจะช่วยคุณเมื่อคุณบังคับให้มีการเจรจาโปรไฟล์ครั้งใหม่</li>
+<li><strong>ปิดเสียงต่อแอปและหลบอัตโนมัติ</strong> ปิดเสียงแอปหนึ่งโดยไม่ต้องแตะส่วนที่เหลือ และปล่อยให้มีเดียหายไปโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเล่น</li>
+</ul>
+
+<p>ควรชัดเจนว่าสิ่งนี้ทำอะไรและไม่ทำอะไร <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จะไม่บังคับให้ macOS อยู่ใน A2DP - เคล็ดลับอุปกรณ์อินพุตด้านบนยังคงเป็นเครื่องมือของคุณสำหรับตัวแปลงสัญญาณ สิ่งที่ทำคือการคืนความดังที่ขโมยมาจากการดาวน์เกรดต่อแอป ดังนั้นเซสชัน AirPods ที่เงียบหรือแอปที่นุ่มนวลที่ดื้อรั้นจึงเป็นการแก้ไขด้วยการลากเพียงครั้งเดียวแทนที่จะเป็นสาเหตุที่สูญหาย และเนื่องจากเป็นแอป Mac App Store แบบแซนด์บ็อกซ์ จึงไม่มีไดรเวอร์เสียงให้ติดตั้ง ไม่มี DMG ไม่มีส่วนขยายเคอร์เนล — มันแค่ทำงาน</p>
+
+<h2>รุ่นสั้น</h2>
+
+<p>หาก AirPods ของคุณส่งเสียงเงียบและไม่ชัดบน Mac ของคุณ ให้ปิดอุปกรณ์อินพุตของคุณออกจาก AirPods เพื่อบังคับอุปกรณ์ออกจากโหมดแฮนด์ฟรี และจับคู่ใหม่อีกครั้งหากล้มเหลว เมื่อระดับยังไม่ถึงจุดที่คุณต้องการ - หรือแอปเดียวอ่อนเกินไป - ให้เข้าถึงการเพิ่มประสิทธิภาพต่อแอปเพื่อให้คุณตั้งค่าเพียงครั้งเดียวและเดินหน้าต่อไป</p>
+
+<p>เบื่อกับการต่อสู้กับแถบเลื่อนระดับเสียงทุกครั้งที่คุณรับสายหรือไม่? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — ครั้งเดียว €14.99, ไม่ต้องสมัครสมาชิก, ไม่มีไดรเวอร์ — และให้ทุกแอปมีปริมาณของตัวเอง</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "ปริมาณ Mac ช่วยรีเซ็ตตัวเองบน Tahoe ต่อไปหรือไม่? วิธีการล็อคให้ดี",
+    description: "ตั้งแต่ macOS Tahoe Mac หลายตัวเปลี่ยนหรือรีเซ็ตระดับเสียงกะทันหันด้วยตัวเอง นี่คือสาเหตุที่มันเกิดขึ้น วิธีหยุดสาเหตุในตัว และวิธีล็อคระดับเสียงคงที่ต่อแอปเพื่อให้ยังคงอยู่",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หากระดับเสียง Mac ของคุณรีเซ็ตตัวเองอยู่เสมอตั้งแต่ macOS Tahoe การแก้ไขคือกำจัดตัวปรับอัตโนมัติ: ปิดการลดเสียงและ "เล่นเสียงเมื่อเริ่มต้น" รีเซ็ตการตั้งค่าเสียง และเชื่อมต่อเอาต์พุต Bluetooth ใด ๆ ใหม่หมดจด สำหรับระดับต่อแอปที่ข้ามไปมา ให้ล็อคระดับเสียงคงที่ต่อแอปด้วยมิกเซอร์เพื่อไม่ให้เลื่อนอีกต่อไป</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — โวลุ่ม Mac ยังคงรีเซ็ตตัวเองบน Tahoe อยู่ใช่ไหม? วิธีการล็อคให้ดี" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดระดับเสียงของคุณจึงเปลี่ยนแปลงไปเองหลังจากทาโฮ</h2>
+
+<p>โวลุ่มที่เคลื่อนไหวโดยที่คุณไม่ได้สัมผัสจะให้ความรู้สึกเหมือนเป็นความผิดพลาดของฮาร์ดแวร์ แต่ซอฟต์แวร์มักจะตัดสินระดับของคุณให้กับคุณเสมอ macOS มีพฤติกรรมอัตโนมัติหลายอย่างที่จะเขยิบหรือรีเซ็ตเอาต์พุตอย่างเงียบๆ และการเปลี่ยนแปลงสแต็กเสียงของ Tahoe ทำให้บางส่วนสังเกตเห็นได้ชัดเจนยิ่งขึ้น ก่อนที่คุณจะถือว่าแอปหรือ Mac ใช้งานไม่ได้ ควรทราบก่อนว่าระบบใดกำลังคว้าแถบเลื่อน</p>
+
+<ul>
+<li><strong>การลดเสียง:</strong> macOS จะลดเสียงอื่นๆ เมื่อคิดว่ามีบางสิ่งที่สำคัญกว่ากำลังเล่นอยู่ (Siri, การประกาศการช่วยการเข้าถึง, การแจ้งเตือน) หลังจากทริกเกอร์สิ้นสุดลง บางครั้งระดับจะไม่กลับมาจนสุด</li>
+<li><strong>การรีเซ็ตการจับมือ Bluetooth:</strong> AirPods และอุปกรณ์ Bluetooth อื่นๆ จะเจรจาระดับเสียงอีกครั้งเมื่อเชื่อมต่อ การเชื่อมต่อระหว่างเซสชันอีกครั้งสามารถจัดเอาต์พุตเป็นค่าเริ่มต้นหรือระดับที่ดังกว่า/เงียบกว่ามาก</li>
+<li><strong>การสลับอุปกรณ์เอาท์พุต:</strong> เมื่อคุณถอดปลั๊กหูฟัง ด็อก หรือเปลี่ยนไปใช้ลำโพงของจอภาพ แต่ละเอาต์พุตจะจดจำระดับเสียงของตัวเอง การสลับไปมาดูเหมือนว่าเป็นการรีเซ็ตแบบ "สุ่ม"</li>
+<li><strong>ค่าเริ่มต้นต่อแอป:</strong> แอพบางตัว (เบราว์เซอร์ เครื่องเล่นวิดีโอ เครื่องมือการประชุม) ตั้งค่าประโยชน์ของตัวเองเมื่อเปิดตัวหรือเมื่อสตรีมใหม่เริ่มต้น โดยแทนที่สิ่งที่คุณมี</li>
+<li><strong>เสียงเริ่มต้นและสถานะการเข้าสู่ระบบ:</strong> เสียงบูตและการเข้าสู่ระบบสามารถดันระดับเสียงของระบบกลับไปเป็นระดับเริ่มต้นที่คุณไม่ได้เลือก</li>
+</ul>
+
+<h2>แก้ไขสาเหตุที่มีอยู่ก่อน</h2>
+
+<p>ทำงานผ่านสิ่งเหล่านี้ตามลำดับ ข้อร้องเรียน "รีเซ็ตตัวเอง" ส่วนใหญ่จะหายไปเมื่อมีการหลบและตัด Bluetooth ออก</p>
+
+<ul>
+<li><strong>ปิดเสียงเริ่มต้น</strong> การตั้งค่าระบบ → เสียง → ยกเลิกการเลือก <em>เล่นเสียงเมื่อเริ่มต้น</em>. การดำเนินการนี้จะหยุดเสียงบูตจากการรีเซ็ตระดับพื้นฐานของคุณ</li>
+<li><strong>ลดหรือปิดใช้งานทริกเกอร์เป็ด</strong> ในการตั้งค่าระบบ → การเข้าถึง → เนื้อหาคำพูดและ Siri ปิดการประกาศด้วยเสียงที่คุณไม่ต้องการ ทริกเกอร์ที่น้อยลงหมายถึงช่วงเวลาที่ macOS ลดเสียงลงและลืมกู้คืนน้อยลง</li>
+<li><strong>จับคู่อุปกรณ์ Bluetooth ที่มีปัญหาอีกครั้ง</strong> ลบ AirPods หรือหูฟังออกจากการตั้งค่า Bluetooth และจับคู่ใหม่ โปรไฟล์เก่าเป็นสาเหตุทั่วไปที่ทำให้ปริมาณการเชื่อมต่อขาดหาย</li>
+<li><strong>จงใจตั้งค่าอุปกรณ์เอาท์พุตแต่ละตัว</strong> เชื่อมต่อแต่ละเอาต์พุตที่คุณใช้ (ในตัว จอภาพ หูฟัง) และตั้งระดับเสียงหนึ่งครั้ง macOS เก็บระดับเสียงต่ออุปกรณ์ ดังนั้นการตั้งค่าทั้งหมดจึงช่วยลดความประหลาดใจเมื่อคุณเปลี่ยน</li>
+<li><strong>รีเซ็ต Core Audio หากค้างอยู่</strong> เปิด Terminal แล้วรัน <code>sudo killall coreaudiod</code>. การดำเนินการนี้จะรีสตาร์ท audio daemon โดยไม่ต้องรีบูต และล้างสถานะหยุดทำงานซึ่งอาจทำให้เกิดระดับที่ไม่แน่นอน</li>
+<li><strong>อัปเดตแล้วรีสตาร์ท</strong> Early Tahoe point เผยแพร่การแก้ไขเสียงที่จัดส่ง ตรวจสอบให้แน่ใจว่าคุณใช้เวอร์ชันล่าสุดและรีบูตหนึ่งครั้งหลังจากการอัปเดต</li>
+</ul>
+
+<p>หากการรีเซ็ตหยุดลง หนึ่งในสาเหตุข้างต้นคือสาเหตุของคุณ ถ้าคุณ <em>ระบบ</em> ระดับเสียงคงที่ แต่แอปแต่ละตัวยังคงดังหรือเงียบกว่าอย่างอื่น คุณได้ใช้การควบคุมในตัวจนเกินขีดจำกัดแล้ว</p>
+
+<h2>ช่องว่างที่แท้จริง: macOS ไม่สามารถล็อคระดับเสียงต่อแอปได้</h2>
+
+<p>นี่คือส่วนที่น่าหงุดหงิด Windows มีตัวปรับแต่งเสียงต่อแอปมานานหลายปีแล้ว — คุณเปิดมัน ลากตัวเลื่อนของแอปหนึ่งตัว มันก็จะยังคงอยู่ตรงนั้น macOS ไม่เคยจัดส่งเลย มีแถบเลื่อนระดับเสียงของระบบเพียงตัวเดียว และทุกแอปก็ต่อสู้แย่งชิงมัน ดังนั้นเมื่อแท็บเบราว์เซอร์ระเบิดโฆษณาที่เล่นอัตโนมัติหรือแฮงเอาท์วิดีโอดังเป็นสองเท่าของเพลง ทางเลือกเดียวของคุณคือการปรับระดับเสียงหลักด้วยตนเอง ซึ่งเป็น "เหตุใดจึงมีการเปลี่ยนแปลงตลอดเวลา" ที่คุณพยายามจะหลีกเลี่ยง</p>
+
+<blockquote>แถบเลื่อนระบบเป็นแบบหน้าปัดเดียวที่ใช้ร่วมกัน หากไม่มีเครื่องผสมต่อแอป การ "ตั้งค่าและลืมมัน" เป็นไปไม่ได้ในสต็อก macOS — บางสิ่งบางอย่างจะแทนที่คุณเสมอ</blockquote>
+
+<h2>ล็อคระดับเสียงคงที่ต่อแอปด้วย SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เพิ่มมิกเซอร์ต่อแอป macOS หายไป มันอยู่ในแถบเมนูของคุณ และให้ทุกแอปที่รันอยู่มีแถบเลื่อนระดับเสียงของตัวเอง โดยไม่ขึ้นอยู่กับตัวหลัก เนื่องจากระบบจะจดจำระดับที่คุณตั้งไว้สำหรับแต่ละแอป จึงช่วยแก้ปัญหา "รีเซ็ตตัวเอง" ได้โดยตรง โดยคุณตัดสินใจเพียงครั้งเดียว และแอปนั้นจะเปิดตามระดับเสียงนั้นทุกครั้ง</p>
+
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป:</strong> เก็บเพลงไว้ที่ 40% และแฮงเอาท์วิดีโอ 80% ในเวลาเดียวกัน โดยไม่ต้องสลับไปมาระหว่างแถบเลื่อนหลัก</li>
+<li><strong>ปิดเสียงและเพิ่มประสิทธิภาพต่อแอป:</strong> ปิดเสียงแอปที่มีเสียงดังทันที หรือกดแอปที่เงียบเกินไปเกิน 100% เมื่อเสียงของแอปนั้นอ่อน</li>
+<li><strong>โปรไฟล์ระดับเสียง:</strong> บันทึกการตั้งค่าสำหรับ "งาน" "เกม" หรือ "โฟกัส" และสลับมิกซ์ทั้งหมดได้ในคลิกเดียว</li>
+<li><strong>มุดอัตโนมัติตามเงื่อนไขของคุณ:</strong> แอปพื้นหลังที่ลดลงโดยอัตโนมัติเมื่อคุณพูดหรือเมื่อแอปที่เลือกทำงานอยู่ แทนที่จะตัดสินใจโดย macOS</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว:</strong> สลับไปมาระหว่างลำโพง หูฟัง และเสียงมอนิเตอร์จากแถบเมนูโดยไม่ต้องเจาะลึกการตั้งค่า</li>
+</ul>
+
+<p>เป็นการซื้อครั้งเดียวที่ €14.99 จาก Mac App Store — ไม่ต้องสมัครสมาชิก, ไม่มีไดรเวอร์, ไม่มี DMG และไม่มีส่วนขยายเคอร์เนล เนื่องจากเป็นแบบแซนด์บ็อกซ์โดยสมบูรณ์และกระจาย App Store คุณจึงไม่ได้ติดตั้ง kex เสียงแบบเดิมที่ Tahoe อาจบล็อกในการอัพเดตครั้งถัดไป <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> กำหนดระดับของคุณโดยใช้ API ที่รองรับ ดังนั้นไดรฟ์ข้อมูลที่คุณจดจำไว้จะคงอยู่ในการอัปเดตและรีบูต</p>
+
+<h2>คุณต้องการแนวทางใดจริงๆ?</h2>
+
+<p>หากระดับเสียงของระบบทั้งหมดของคุณเพิ่มขึ้น ให้เริ่มต้นด้วยการแก้ไขในตัวด้านบน — การเป็ด, Bluetooth และบัญชีเสียงเริ่มต้นระบบสำหรับกรณีส่วนใหญ่ หากปัญหาคือแอปหนึ่งมักจะเป็นแอปที่แปลกอยู่เสมอ หรือคุณเบื่อที่แถบเลื่อนหลักจะประนีประนอม ตัวผสมต่อแอปคือคำตอบที่แท้จริงเท่านั้น macOS จะไม่เพิ่มเข้าไป ดังนั้นเครื่องมือแถบเมนูจึงเป็นเส้นทางที่ใช้งานได้จริงในการมิกซ์ที่จะคงอยู่ในตำแหน่งที่คุณวางไว้อย่างแท้จริง</p>
+
+<p>เบื่อกับการไล่ตามแถบเลื่อนระดับเสียงบน Tahoe หรือไม่? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และล็อคโวลุ่มที่จดจำไว้สำหรับทุกแอป — €14.99 ครั้งเดียว ไม่มีการสมัครสมาชิก และไม่มีไดรเวอร์</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "ควบคุมระดับเสียงมอนิเตอร์ DAW ของคุณแยกจากเสียงระบบบน Mac",
+    description: "macOS ไม่มีตัวปรับแต่งเสียงต่อแอปในตัว ดังนั้น DAW และเสียงระบบของคุณจึงแชร์ระดับเดียวกัน ต่อไปนี้เป็นวิธีควบคุมระดับเสียงมอนิเตอร์ Logic, Ableton หรือ GarageBand โดยไม่ขึ้นอยู่กับเบราว์เซอร์และการแจ้งเตือนของคุณ",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>macOS ไม่มีตัวปรับแต่งเสียงต่อแอปในตัว ดังนั้น DAW ของคุณและทุกอย่างจะใช้แถบเลื่อนระบบเดียวกัน หากต้องการตั้งค่าระดับการตรวจสอบของคุณแยกจากเบราว์เซอร์, Slack และการแจ้งเตือน คุณต้องมีการควบคุมระดับเสียงต่อแอป มิกเซอร์แถบเมนูเช่น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ให้ระดับเสียงของ Logic, Ableton และ GarageBand ของตัวเอง แยกจากเสียงของระบบ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ควบคุมระดับเสียงมอนิเตอร์ DAW ของคุณแยกจากระบบเสียงบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดตัวเลื่อนระดับเสียงตัวเดียวจึงทำลายการตรวจสอบของคุณ</h2>
+
+<p>เมื่อคุณผลิต DAW ของคุณเป็นเพียงหนึ่งในหลายๆ สิ่งที่สร้างเสียง แทร็กอ้างอิงจะเล่นในแท็บเบราว์เซอร์ ปิงของ Slack มาถึงแล้ว บทช่วยสอน YouTube ทำงานบนจอภาพที่สอง ใน Windows Volume Mixer ช่วยให้คุณปรับสมดุลสิ่งเหล่านี้ได้อย่างอิสระ ใน macOS นั้น Apple ไม่เคยส่งมอบสิ่งที่เทียบเท่ากัน — ปุ่มปรับระดับเสียงและแถบเลื่อนแถบเมนูจะเคลื่อนไหว <em>ทุกอย่าง</em> ในครั้งเดียว</p>
+
+<p>นั่นสร้างปัญหาอย่างแท้จริงสำหรับทุกคนที่มิกซ์เสียงด้วยหู คุณหมุนโทรศัพท์ในระดับการตรวจสอบที่สะดวกสบายใน Logic จากนั้นการแจ้งเตือนจะดังก้องไปในระดับเดียวกันและทำให้คุณทึ่ง หรือคุณปิดระบบเพื่อป้องกันการได้ยินของคุณในระหว่างที่มีเสียงดัง และตอนนี้เพลงอ้างอิงของคุณเงียบเกินกว่าจะเปรียบเทียบได้ การอ้างอิงการตรวจสอบของคุณไม่เสถียรอีกต่อไป และการอ้างอิงที่เสถียรเป็นจุดรวมของการผสมผสาน</p>
+
+<blockquote>การตรวจสอบในระดับที่สม่ำเสมอเป็นหนึ่งในนิสัยไม่กี่ประการที่ปรับปรุงมิกซ์ของคุณได้อย่างวัดผลได้ หากเสียงของระบบบังคับให้คุณเลื่อนแถบเลื่อนหลัก คุณจะสูญเสียความสอดคล้องนั้น</blockquote>
+
+<h2>จริงๆ แล้ว "การแยกปริมาณ DAW" หมายถึงอะไร</h2>
+
+<p>มีสองสิ่งที่ผู้ผลิตมารวมกันที่นี่ และมันก็คุ้มค่าที่จะแยกพวกเขาออก:</p>
+
+<ul>
+<li><strong>อินเทอร์เฟซ / ระดับเอาต์พุตหลัก</strong> — ปุ่มฮาร์ดแวร์บนอินเทอร์เฟซเสียงหรือตัวควบคุมจอภาพของคุณ วิธีนี้จะตั้งค่าความดังในการฟังที่แท้จริงของคุณและควรคงไว้เมื่อปรับเทียบแล้ว</li>
+<li><strong>ปริมาณซอฟต์แวร์ต่อแอป</strong> — แต่ละแอปพลิเคชั่นดังแค่ไหน <em>ก่อน</em> มันไปถึงผลลัพธ์นั้น นี่คือสิ่งที่ macOS หายไป ช่วยให้คุณรักษา DAW ให้เป็นหนึ่งเดียวในขณะที่เปลี่ยนเสียง Chrome เพลง หรือการแจ้งเตือนลงไปที่ระดับเตียงข้างใต้</li>
+</ul>
+
+<p>คุณต้องการอันที่สอง เป้าหมายไม่ใช่การลด DAW ของคุณลง — แต่เป็นการลดสิ่งอื่นๆ ลงโดยสัมพันธ์กับมัน ดังนั้น DAW จะยังคงเป็นแหล่งสัญญาณที่ดังที่สุดและสม่ำเสมอที่สุด และสิ่งรบกวนจะนั่งเงียบๆ ในเบื้องหลัง</p>
+
+<h2>วิธีดำเนินการด้วยมิกเซอร์ต่อแอป</h2>
+
+<p>มิกเซอร์แถบเมนูเช่น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> แสดงรายการทุกแอปที่กำลังเล่นเสียงและให้แต่ละแถบเลื่อนของตัวเอง ขั้นตอนการทำงานสำหรับผู้ผลิตมีลักษณะดังนี้:</p>
+
+<ul>
+<li><strong>ปรับเทียบอินเทอร์เฟซของคุณหนึ่งครั้ง</strong> ตั้งค่าอินเทอร์เฟซเสียงหรือตัวควบคุมจอภาพของคุณให้เป็นระดับอ้างอิงที่สะดวกสบายและทำซ้ำได้ แล้วปล่อยทิ้งไว้ นี่คือจุดยึดคงที่ของคุณ</li>
+<li><strong>ตั้งค่า DAW ของคุณเป็น 100%</strong> ในมิกเซอร์ ให้ปล่อย Logic, Ableton หรือ GarageBand ไว้ที่โวลุ่มซอฟต์แวร์เต็มเพื่อให้ผ่านไปด้วยความสามัคคี มาสเตอร์เฟดเดอร์ของ DAW ของคุณยังคงทำการมิกซ์อย่างละเอียด</li>
+<li><strong>ดึงทุกอย่างอื่นลง</strong> วาง Chrome, Safari, เพลง และ Slack ไปที่ระดับที่ต่ำกว่า — เช่น 40–60% — ดังนั้นแทร็กและข้อความอ้างอิงจึงอยู่ใต้มิกซ์ของคุณแทนที่จะแข่งขันกับมัน</li>
+<li><strong>ปิดเสียงสิ่งที่มีเสียงดัง</strong> การปิดเสียงต่อแอปช่วยให้คุณปิดเสียงเบราว์เซอร์หรือแอปแชทโดยสิ้นเชิงโดยไม่ต้องแตะห่วงโซ่การตรวจสอบของคุณ คลิกเพียงครั้งเดียว และ DAW ของคุณจะยังคงเล่นต่อไปโดยไม่มีใครแตะต้อง</li>
+</ul>
+
+<p>เนื่องจากแถบเลื่อนของ DAW ไม่เคยเคลื่อนไหว การอ้างอิงการตรวจสอบของคุณจึงมั่นคงตลอดเซสชันทั้งหมด คุณสามารถหมุนแทร็กอ้างอิงสำหรับ A/B อย่างรวดเร็ว จากนั้นปิดเสียง และระดับมิกซ์ของคุณไม่ได้เปลี่ยนเดซิเบล</p>
+
+<h2>ส่งเสริมแอปที่เงียบสงบแทนที่จะปฏิเสธผู้อื่น</h2>
+
+<p>บางครั้งปัญหาก็ไปทางอื่น การตีกลับสาธิตคร่าวๆ บันทึกเสียง หรือการอ้างอิงแบบเงียบๆ จะเล่นต่ำกว่าระดับเซสชั่นของคุณมาก การเปิดอินเทอร์เฟซของคุณขึ้นมาเพื่อฟังหมายความว่าทุกอย่างดังเกินไปแล้ว ต่อแอป <strong>เพิ่มระดับเสียง</strong> ช่วยให้คุณสามารถผลักดันแอปพลิเคชันเงียบเดียวให้สูงกว่า 100% เพื่อให้ตรงกับระดับการทำงานของคุณ โดยไม่ต้องแตะเอาท์พุตที่ปรับเทียบแล้ว มันเป็นมิกเซอร์ของ Windows' ที่ไม่เคยมีมาก่อน และเป็นหนึ่งในเครื่องมือที่มีประโยชน์มากขึ้นเมื่อคุณออดิชั่นสื่อจากภายนอก DAW ของคุณ</p>
+
+<h2>โปรไฟล์สำหรับเซสชันประเภทต่างๆ</h2>
+
+<p>ความสมดุลในอุดมคติของคุณไม่เหมือนกันในทุกงาน การติดตาม การมิกซ์ และการฟังแบบสบายๆ ต่างก็ต้องการการผสมผสานระดับแอปที่แตกต่างกัน โปรไฟล์ระดับเสียงช่วยให้คุณบันทึกการตั้งค่าและเรียกคืนได้ทันที:</p>
+
+<ul>
+<li><strong>การผสม:</strong> DAW ที่ 100% เบราว์เซอร์และเพลงเหลือน้อย ปิดเสียงแชท</li>
+<li><strong>การฟังอ้างอิง:</strong> แอพเพลงหรือสตรีมมิ่งขึ้น, DAW ลง</li>
+<li><strong>โทร / การทำงานร่วมกัน:</strong> แอปการประชุมเปิดขึ้น DAW ถูกดึงกลับเพื่อไม่ให้สายหลุด</li>
+</ul>
+
+<p>การเปลี่ยนโปรไฟล์ทำได้ดีกว่าการปรับแถบเลื่อนห้าตัวด้วยมือทุกครั้งที่คุณเปลี่ยนเกียร์</p>
+
+<h2>การสลับเอาต์พุตอัตโนมัติและการสลับเอาต์พุตอย่างรวดเร็ว</h2>
+
+<p>อีกสองสิ่งที่สำคัญในสตูดิโอ <strong>Auto-ducking</strong> สามารถจุ่มแอปพื้นหลังได้โดยอัตโนมัติเมื่อแหล่งสำคัญพูดหรือเล่น ดังนั้นสายเรียกเข้าหรือเสียงที่สำคัญจะตัดผ่านเสมอ และ <strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> จากแถบเมนูช่วยให้คุณสามารถข้ามไปมาระหว่างอินเทอร์เฟซ จอภาพ และหูฟังของคุณได้โดยไม่ต้องเข้าไปยุ่งเกี่ยวกับการตั้งค่าระบบ ซึ่งเป็นงานที่ต้องทำอย่างต่อเนื่องเมื่อคุณตรวจสอบมิกซ์ในระบบต่างๆ</p>
+
+<h2>เหตุใดจึงไม่ใช้ไดรเวอร์เสียงเสมือน</h2>
+
+<p>เครื่องมือกำหนดเส้นทางบางตัวแก้ปัญหานี้โดยการติดตั้งไดรเวอร์เสียงเสมือนระดับเคอร์เนล สิ่งเหล่านี้ทรงพลังแต่มีน้ำหนักมาก: พวกมันอาจเสียหายได้หลังจากอัปเดต macOS เพิ่มเวลาแฝง และต้องการสิทธิ์ระบบเชิงลึก <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ถูกแซนด์บ็อกซ์และจัดส่งผ่าน Mac App Store — ไม่มีไดรเวอร์ ไม่มี DMG ไม่มีการตั้งค่าอุปกรณ์แบบรวม สำหรับการควบคุมระดับต่อแอปโดยเฉพาะ นั่นเป็นเส้นทางที่ง่ายกว่าการปรับโครงสร้างเส้นทางเสียงของคุณใหม่</p>
+
+<p>พร้อมที่จะรักษาระดับการตรวจสอบของคุณให้คงที่ในขณะที่ทุกอย่างยังคงอยู่ที่เดิมแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> เพียงจ่ายครั้งเดียวที่ €14.99 และให้ปริมาณ DAW ของคุณเป็นของตัวเอง</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "ทางเลือก Audio Hijack ที่ง่ายกว่าสำหรับปริมาณต่อแอปบน Mac",
+    description: "หากคุณต้องการเฉพาะวอลุ่มอิสระต่อแอปบน macOS แล้ว Audio Hijack นั้นเกินความจำเป็น นี่เป็นทางเลือกแถบเมนูที่เบากว่าและราคาถูกกว่า ซึ่งทำหน้าที่ปรับระดับเสียงต่อแอป ปิดเสียง และเพิ่มระดับเสียงโดยไม่ต้องกำหนดเส้นทางเสียง",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากสิ่งที่คุณต้องการคือโวลุ่มอิสระต่อแอปบน macOS แล้ว Audio Hijack ก็เป็นเครื่องมือมากกว่าที่คุณต้องการ เป็นชุดการกำหนดเส้นทางและการบันทึกเสียงระดับมืออาชีพ (ประมาณ 79 เหรียญสหรัฐ) ที่สร้างขึ้นสำหรับการจับภาพ เอฟเฟกต์ และกราฟเซสชัน สำหรับการปิดแอปหนึ่งลงและอีกแอปหนึ่งขึ้น ก็มีมิกเซอร์แถบเมนูน้ำหนักเบาเช่นกัน <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เร็วขึ้น ถูกกว่า และพร้อมเสมอ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก Audio Hijack ที่ง่ายกว่าสำหรับปริมาณต่อแอปบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดผู้คนจึงเข้าถึง Audio Hijack ตั้งแต่แรก</h2>
+
+<p>macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มี Volume Mixer ในตัวมาหลายปีแล้ว แต่สำหรับ Mac ปุ่มปรับระดับเสียงและแถบเลื่อนแถบเมนูจะย้ายสิ่งเดียวเท่านั้น: หลักของระบบ ไม่มีวิธีจากบุคคลที่หนึ่งที่จะพูดว่า "เก็บ Spotify ไว้ที่ 40% แต่ปล่อยให้แฮงเอาท์วิดีโอของฉันอยู่ที่ 100%"</p>
+
+<p>ผู้คนจึงค้นหาวิธีแก้ปัญหาและเข้าสู่ Audio Hijack มัน <em>สามารถ</em> ทำระดับเสียงต่อแอป เนื่องจากสามารถดักจับและประมวลผลเสียงจากแอปพลิเคชันเดียวได้ แต่ความสามารถนั้นเป็นผลข้างเคียงของสิ่งที่ออกแบบมาเพื่อมันจริงๆ เช่น การบันทึกเสียงจากแอพและฮาร์ดแวร์ เอฟเฟกต์แบบเชื่อมโยง การกำหนดเส้นทางระหว่างอุปกรณ์เสมือน และการสร้างไปป์ไลน์เซสชันที่นำมาใช้ซ้ำได้ มันยอดเยี่ยมจริงๆในเรื่องนั้น มันเป็นเพียงคำตอบหนักสำหรับคำถามเบา ๆ</p>
+
+<h2>โดยที่ Audio Hijack กลายเป็นเรื่องเกินกำลัง</h2>
+
+<p>มีบางสิ่งที่ทำให้ผู้คนที่ต้องการเพียงแถบเลื่อนระดับเสียงหงุดหงิด:</p>
+
+<ul>
+<li><strong>ราคา.</strong> Audio Hijack อยู่ที่ประมาณ $79 นั่นถือว่ายุติธรรมสำหรับสตูดิโอบันทึกเสียงในแอป การปิดแท็บเบราว์เซอร์มีประโยชน์มาก</li>
+<li><strong>มันก็ต้องวิ่งต่อไป</strong> การประมวลผลต่อแอปจะทำงานเฉพาะในขณะที่แอปเปิดอยู่และเซสชันที่เกี่ยวข้องทำงานอยู่เท่านั้น เลิกใช้แล้วปริมาณของคุณจะกลับมา คุณกำลังเก็บเวิร์กสเตชันเสียงเต็มรูปแบบไว้เพียงเพื่อยึดแถบเลื่อนให้เข้าที่</li>
+<li><strong>การคิดตามเซสชัน</strong> คุณสร้างเซสชันด้วยบล็อกและการเชื่อมต่อ มีประสิทธิภาพในการจับภาพ แต่มีค่าใช้จ่ายด้านแนวคิดมากมายเมื่อเป้าหมายของคุณคือ "แอปนี้เงียบกว่า แอปนั้นดังกว่า"</li>
+<li><strong>อินเทอร์เฟซมีความลึก</strong> เอฟเฟกต์ การกำหนดเส้นทาง เมตร บล็อกสายไฟ — พื้นที่ผิวที่อุดมสมบูรณ์ซึ่งส่วนใหญ่แล้วคุณจะมองข้ามไปหากคุณไม่เคยบันทึกอะไรเลย</li>
+</ul>
+
+<blockquote>หลักการทั่วไป: หากคุณต้องการ <em>บันทึกหรือเส้นทาง</em> เสียง Audio Hijack มีรายได้ตามราคา หากคุณต้องการเพียง <em>ความสมดุล</em> เสียงระหว่างแอพ คุณจะต้องจ่ายค่าเวิร์คช็อปเมื่อคุณต้องการลูกบิด</blockquote>
+
+<h2>ทางเลือกที่ง่ายกว่า: มิกเซอร์ระดับเสียงของแถบเมนู</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> รับงานเดียวที่คนส่วนใหญ่มาจริงๆ และทำแค่นั้น มันอยู่ในแถบเมนูของคุณ คลิกที่ไอคอนและคุณจะได้รับรายการสดของทุกแอปที่กำลังเล่นเสียง โดยแต่ละแอปมีแถบเลื่อนของตัวเอง ลาก Spotify ไปที่ 30% วางสายไว้ที่ 100% ปิดเสียง Slack ทั้งหมด — เสร็จแล้ว ไม่ต้องสร้างเซสชันใดๆ</p>
+
+<p>เนื้อหาครอบคลุมอะไรบ้าง:</p>
+
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — แหล่งกำเนิดเสียงทุกแหล่งจะมีแถบเลื่อนของตัวเอง ซึ่งปรับได้แบบเรียลไทม์</li>
+<li><strong>ปิดเสียงต่อแอป</strong> - ปิดเสียงแอปที่มีเสียงดังเพียงคลิกเดียวโดยไม่ต้องแตะต้องสิ่งอื่นใด</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ผลักดันแอปที่เงียบ <em>ด้านบน</em> 100% เมื่อค่าสูงสุดของตัวเองยังอ่อนเกินไป นี่คือชิ้นส่วนที่ตัวเลื่อนระบบไม่สามารถทำได้</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ทั้งหมด (เพลงเบา, การโทรดัง, ปิดเสียงการแจ้งเตือน) และเรียกคืนได้ในคลิกเดียวสำหรับบริบทที่กำหนด</li>
+<li><strong>Auto-ducking</strong> — จุ่มเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญกว่าเริ่มต้นขึ้น ดังนั้นการโทรหรือวิดีโอจะไม่ถูกฝังอยู่ในเพลย์ลิสต์ของคุณ</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับระหว่างหูฟัง ลำโพง และเอาต์พุตอื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+
+<h2>ใช้งานได้จริง: รับการควบคุมต่อแอปภายในไม่ถึงนาที</h2>
+
+<p>ความแตกต่างในการตั้งค่าคือประเด็นทั้งหมด ด้วยเครื่องมือกำหนดเส้นทาง คุณจะสร้างเซสชัน เพิ่มบล็อกซอร์ส วางสาย และทำให้แอปทำงานต่อไป โดยพื้นฐานแล้วนี่คือ:</p>
+
+<ul>
+<li>ติดตั้ง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จาก Mac App Store</li>
+<li>เล่นเสียงในแอพบางตัวเพื่อให้ปรากฏในรายการ</li>
+<li>คลิกไอคอนแถบเมนูแล้วลากแถบเลื่อนของแต่ละแอปเพื่อลิ้มรส</li>
+<li>เลือกบันทึกมิกซ์นั้นเป็นโปรไฟล์หรือเพิ่มแอปที่เงียบเกินไปเกิน 100%</li>
+</ul>
+
+<p>เนื่องจากมีการกระจายผ่าน Mac App Store จึงทำแซนด์บ็อกซ์และติดตั้งเหมือนกับแอปทั่วไป — ไม่ <code>.dmg</code> ต้องลาก ไม่มีส่วนขยายเคอร์เนล ไม่มีไดรเวอร์เสียงให้อนุมัติในการตั้งค่าความปลอดภัย และไม่มีสิ่งใดที่ต้องได้รับอนุมัติอีกครั้งหลังจากการอัพเดต macOS ประเด็นสุดท้ายนั้นสำคัญ: มิกเซอร์ที่ใช้ไดรเวอร์เคยหยุดการอัพเกรดระบบปฏิบัติการและจำเป็นต้องติดตั้งส่วนประกอบระดับระบบใหม่ แอป App Store ที่ทำแซนด์บ็อกซ์จะหลีกเลี่ยงการบำรุงรักษาทุกประเภท</p>
+
+<h2>คุณควรเลือกอันไหน?</h2>
+
+<p>มีความซื่อสัตย์เกี่ยวกับงาน เลือก <strong>Audio Hijack</strong> หากคุณต้องการบันทึกเสียงของแอพหรือฮาร์ดแวร์ ใช้เอฟเฟกต์แบบเรียลไทม์ หรือสร้างกราฟเส้นทางระหว่างอุปกรณ์เสมือน นั่นคือสนามหญ้าในบ้านและคุ้มค่าทุกดอลลาร์ที่นั่น</p>
+
+<p>เลือกมิกเซอร์แถบเมนูเฉพาะหากความต้องการที่แท้จริงของคุณคือ "ให้ฉันตั้งค่าระดับเสียงของแต่ละแอปแยกกัน" คุณจะใช้จ่าย €14.99 หนึ่งครั้งแทนที่จะเป็น ~$79 ข้ามการสร้างเซสชั่น และรับบูสต์ ปิดเสียง โปรไฟล์ และซ่อนในแผงที่คุณเปิดจากแถบเมนู ไม่มีคุณสมบัติการบันทึกใดๆ ที่คุณจะไม่มีวันแตะต้อง ไม่มีเวิร์กสเตชันที่ทำงานอยู่เบื้องหลังเพื่อยึดแถบเลื่อนให้อยู่กับที่</p>
+
+<p>คนส่วนใหญ่ที่ลองใช้ Audio Hijack สำหรับการปรับสมดุลระดับเสียงกำลังแก้ไขปัญหาเล็กๆ ด้วยเครื่องมือขนาดใหญ่ หากเป็นคุณ เครื่องมือขนาดเล็กก็เหมาะกว่าและมีราคาถูกกว่ามาก</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> ในราคา €14.99 ครั้งเดียว — ปริมาณต่อแอป บูสต์ ปิดเสียง โปรไฟล์ และลบอัตโนมัติจากแถบเมนูของคุณ</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "ทางเลือก Boom 3D: ปริมาณต่อแอปโดยไม่มีการขยายตัว (Mac)",
+    description: "หากคุณใช้ Boom 3D เพื่อเพิ่มเสียงเป็นหลัก แต่ต้องการการควบคุมระดับเสียงต่อแอปจริงๆ SoundDial คือทางเลือก Mac ที่บางกว่า: ระดับเสียงแยกกันต่อแอป ปิดเสียงและเพิ่มเสียงต่อแอป ราคาครั้งเดียว ไม่มี EQ หรือไดรเวอร์ทั้งระบบ",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากคุณเลือก Boom 3D เพื่อเพิ่มระดับเสียง แต่จริงๆ แล้วต้องการควบคุมแต่ละแอปแยกกัน คุณต้องการเครื่องมือที่แตกต่างกัน Boom 3D เป็นตัวเพิ่มระดับเสียงและ EQ ทั้งระบบ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นตัวผสมระดับเสียงต่อแอปที่เน้น: ระดับเสียงอิสระ ปิดเสียง และบูสต์สำหรับแต่ละแอป ครั้งเดียว €14.99 ไม่มี EQ และไม่มีไดรเวอร์</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก Boom 3D: ปริมาณต่อแอปโดยไม่มีการขยายตัว (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>สิ่งที่ Boom 3D ทำได้จริง (และไม่ทำ)</h2>
+<p>Boom 3D สร้างขึ้นโดยมีสามสิ่ง ได้แก่ การเพิ่มระดับเสียงทั้งระบบ อีควอไลเซอร์ 31 แบนด์ และเอฟเฟกต์ "เซอร์ราวด์" 3 มิติ มันใช้กับสิ่งเหล่านั้น <em>ทุกอย่าง</em> Mac ของคุณเล่นพร้อมกัน สิ่งนี้มีประโยชน์อย่างแท้จริงหากเป้าหมายของคุณคือแล็ปท็อปที่ดังขึ้นหรือเสียงเบสที่คุณต้องการทั่วกระดาน</p>
+<p>สิ่งที่ Boom 3D ไม่ได้สร้างขึ้นมาคือการปฏิบัติต่อแอปเป็นช่องทางอิสระ ไม่มีวิธีที่ชัดเจนในการพูดว่า "Spotify ที่ 40% วิดีโอคอลของฉันที่ 100% และแท็บเบราว์เซอร์นี้ถูกปิดเสียง" แถบเลื่อนจะเลื่อนส่วนผสมทั้งหมด และเนื่องจากจะติดตั้งไดรเวอร์เสียงให้อยู่ในเส้นทางสัญญาณ จึงสัมผัสระบบของคุณในระดับที่ต่ำกว่ายูทิลิตี้แซนด์บ็อกซ์ นอกจากนี้ยังวางตำแหน่งเป็นผลิตภัณฑ์แบบชำระเงินที่มีรอบการอัปเกรดแทนที่จะเป็นเครื่องมือขนาดเล็กที่ทำเพียงครั้งเดียว</p>
+<blockquote><p>เรื่องราวทั่วไป: ผู้คนติดตั้ง Boom 3D เพื่อทำให้แอปที่เงียบสงบแอปหนึ่งดังขึ้น แล้วพบว่าปัญหาที่แท้จริงคือ macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปเลย</p></blockquote>
+
+<h2>ช่องว่าง: macOS ไม่มีตัวปรับระดับเสียง</h2>
+<p>สิ่งนี้ทำให้ผู้คนที่มาจาก Windows ประหลาดใจ Windows มี Volume Mixer ต่อแอปมานานหลายปีแล้ว — คลิกขวาที่ลำโพง ตั้งค่าระดับของแต่ละแอปแยกกัน macOS ไม่ได้จัดส่งสิ่งนี้ คุณจะได้รับโวลุ่มหลักหนึ่งเล่มและแถบเลื่อนภายในใดก็ตามที่แต่ละแอปเปิดเผย ไม่มีวิธีระดับ OS ที่จะสร้างสมดุลระหว่าง Slack กับแท็บ YouTube กับเกม</p>
+<p>ดังนั้นเมื่อแอปเพลงรบกวนการโทรของคุณ ตัวเลือกดั้งเดิมของคุณเพียงอย่างเดียวคือหยาบ: ลดเสียงหลักลง (ซึ่งจะเงียบทุกอย่าง) หรือเจาะลึกการตั้งค่าของแต่ละแอปโดยหวังว่าจะมีตัวควบคุมระดับเสียง Boom 3D ก็ไม่ได้ปิดช่องว่างนั้นเช่นกัน — มันทำให้มิกซ์ทั้งหมดดังขึ้น ไม่ใช่แต่ละแอป</p>
+
+<h2>SoundDial เหมาะกับตรงไหน</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> คือมิกเซอร์ที่หายไป โดยจะอยู่ในแถบเมนูของคุณ และให้แอปที่ทำงานอยู่ทุกแอปมีแถบเลื่อนเป็นแถวของตัวเอง นั่นคือความแตกต่างหลักจาก Boom 3D: แทนที่จะมีเอฟเฟกต์แบบโกลบอลแบบเดียว คุณจะได้รับการควบคุมแบบต่อแหล่ง</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — ตั้งค่า Spotify เป็น 30% ในขณะที่แฮงเอาท์วิดีโอของคุณอยู่ที่ 100%</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปที่มีเสียงดังหนึ่งแอปทันทีโดยไม่ต้องแตะต้องสิ่งอื่นใด</li>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> — ถ้าคุณชอบกลอุบายที่ดังกว่า 100% ของ Boom 3D SoundDial จะเก็บสิ่งนั้นไว้ แต่มุ่งเป้าไปที่แอปเดียวแทนที่จะเป็นทั้งระบบ แอพที่เงียบๆ จะถูกผลักออกจากเพดานปกติด้วยตัวมันเอง</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกเค้าโครงมิกเซอร์ (เช่น "เกม" "การประชุม" "เพลง") และเรียกคืนได้ในคลิกเดียว แทนที่จะปรับสมดุลแถบเลื่อนใหม่ทุกครั้ง</li>
+<li><strong>Auto-ducking</strong> — จุ่มเสียงพื้นหลังโดยอัตโนมัติเมื่อมีบางสิ่งที่สำคัญเริ่มต้นขึ้น ดังนั้นการโทรหรือคิวเกมจึงไม่ถูกฝังอยู่ใต้เสียงเพลง</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับระหว่างหูฟัง ลำโพง และเอาต์พุตอื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+<p>สิ่งที่ SoundDial จงใจไม่ทำคือฟีเจอร์ที่เหลือของ Boom 3D จะขยายออกไป ไม่มี EQ 31 แบนด์ ไม่มีการประมวลผลแบบ faux-surround และไม่มีลูกโซ่เอฟเฟกต์ทั้งระบบ หากคุณต้องการ EQ ระดับมาสเตอร์ริ่ง Boom 3D หรือชุดเสียงเฉพาะคือตัวเลือกที่ใช่ หากสิ่งที่คุณเปิด Boom 3D ต่อไปคือ <em>ปริมาณ</em>พื้นที่ผิวนั้นบวมที่คุณต้องจ่ายเพื่อพกพา</p>
+
+<h2>บูสต์โดยไม่ต้องใช้ไดรเวอร์</h2>
+<p>คำถาม "เพิ่ม" สมควรได้รับคำตอบโดยตรง เพราะโดยปกติแล้วผู้ใช้ Boom 3D จะเลือกซื้อตัวเลือกอื่น การปรับปรุงของ Boom 3D เป็นแบบสากลและอิงตามไดรเวอร์ การเพิ่มประสิทธิภาพของ SoundDial เป็นแบบต่อแอปและทำงานภายในโมเดลแซนด์บ็อกซ์ของแอปของ Apple ซึ่งเผยแพร่ผ่าน Mac App Store ดังนั้นจึงไม่มีตัวติดตั้งแยกต่างหาก ไม่มีไดรเวอร์ระดับเคอร์เนล และไม่มีส่วนประกอบของระบบเหลือให้ถอนการติดตั้งในภายหลัง คุณจะได้รับผลลัพธ์ "ทำให้แอปนี้เงียบขึ้น" โดยไม่ต้องให้ไดรเวอร์ควบคุมเส้นทางเสียงทั้งหมดของคุณ</p>
+
+<h2>ราคา: ครั้งเดียวเทียบกับต่อเนื่อง</h2>
+<p>Boom 3D เป็นแอปที่ต้องชำระเงินซึ่งมีรูปแบบการอัปเกรดและใบอนุญาตเป็นของตัวเอง และราคาจะแตกต่างกันไปตามแพลตฟอร์มและเวอร์ชัน <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นการซื้อครั้งเดียวในราคา 14.99 ยูโร — ซื้อครั้งเดียว เก็บไว้ ไม่ต้องสมัครสมาชิก และไม่มีการซื้อซ้ำต่อเวอร์ชันเพื่อให้มิกเซอร์ทำงานต่อไป สำหรับยูทิลิตี้ คุณจะต้องเปิดทิ้งไว้ในแถบเมนูทุกวัน ราคาคงที่มีแนวโน้มที่จะมีอายุมากกว่าผลิตภัณฑ์ที่คุณต้องซื้อซ้ำเรื่อยๆ</p>
+
+<h2>คุณควรเลือกอันไหน?</h2>
+<ul>
+<li><strong>เลือก Boom 3D</strong> หากความต้องการที่แท้จริงของคุณคืออีควอไลเซอร์และเอฟเฟกต์เสียงทั้งระบบ และคุณไม่รังเกียจที่จะรวมไดรเวอร์เสียงเข้าด้วยกัน</li>
+<li><strong>เลือก SoundDial</strong> หากคุณต้องการสิ่งที่ผู้ใช้ Windows ให้ความสำคัญ — ตัวปรับแต่งระดับเสียงต่อแอปจริง — บวกกับบูสต์แบบกำหนดเป้าหมาย โปรไฟล์ และการลบอัตโนมัติ ในราคาเพียงครั้งเดียวและไม่ต้องติดตั้งไดรเวอร์</li>
+</ul>
+<p>คนส่วนใหญ่ที่เด้งออกจาก Boom 3D ตกอยู่ในกลุ่มที่สอง พวกเขาไม่ต้องการปรับความถี่ พวกเขาต้องการเบราว์เซอร์ที่เงียบกว่าการโทร นั่นคืองานที่ SoundDial สร้างขึ้นมาเพื่อสิ่งนี้</p>
+
+<p><strong>ต้องการการควบคุมระดับเสียงต่อแอปบน Mac ของคุณโดยไม่ต้องขยาย EQ หรือสมัครสมาชิกหรือไม่?</strong> <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — €14.99 ครั้งเดียว แซนด์บ็อกซ์ ไม่มีไดรเวอร์ และทุกแอปจะมีแถบเลื่อนของตัวเอง</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "วิธีปิดเสียงทุกอย่างยกเว้นแอปเดียวบน Mac ของคุณ",
+    description: "macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอป ดังนั้นการปิดเสียงทุกแอปยกเว้นแอปเดียวจะมีตัวช่วย ต่อไปนี้เป็นวิธีฟังเฉพาะการโทร สตรีม หรือเกมของคุณในขณะที่ทุกอย่างปิดเสียงอยู่",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มีวิธีปิดเสียงแอปแต่ละตัวในตัว ดังนั้นหากต้องการฟังเพียงแอปเดียว คุณต้องมีตัวปรับแต่งเสียงต่อแอป ติดตั้ง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ให้เปิดมิกเซอร์แถบเมนู ปิดเสียงทุกแอปยกเว้นแอปที่คุณต้องการฟัง จากนั้นแอปนั้นจะเล่นต่อในขณะที่แอปที่เหลือปิดเสียงทันที</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — วิธีปิดเสียงทุกอย่างยกเว้นแอปเดียวบน Mac ของคุณ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไม macOS ถึงทำด้วยตัวเองไม่ได้</h2>
+<p>Windows มี Volume Mixer มานานกว่าทศวรรษ: คลิกขวาที่ไอคอนลำโพง แล้วทุกแอปที่ทำงานอยู่จะมีแถบเลื่อนของตัวเอง macOS ไม่เคยจัดส่งสิ่งนี้ ปุ่มปรับระดับเสียงบน Mac ของคุณควบคุมสิ่งเดียวเท่านั้น นั่นคือระดับเอาต์พุตหลัก เมื่อคุณปิดระบบ ทุกอย่างจะพังพร้อมกัน เมื่อคุณปิดเสียง ทุกอย่างจะปิดเสียง</p>
+<p>ไม่เป็นไรจนกว่าคุณจะมีห้าสิ่งที่ส่งเสียงดังพร้อมกัน คุณกำลังใช้แฮงเอาท์วิดีโอ แต่แท็บเบราว์เซอร์กำลังเล่นโฆษณาอัตโนมัติ Spotify ยังคงทำงานอยู่ เกมกำลังส่ง Ping ในเบื้องหลัง และ Slack กำลังส่งเสียงระฆัง ตัวเลือกดั้งเดิมของคุณเพียงอย่างเดียวคือปิดแอป ปิดเสียงทีละแอปในการตั้งค่าของแต่ละแอป (หากมีตัวเลือกนั้นด้วย) หรือดึงหูฟังของคุณ ไม่มีอะไรที่ทำให้คุณพูดว่า "เก็บอันนี้ไว้ ที่เหลือเงียบไว้"</p>
+
+<h2>วิธีที่ตรงไปตรงมา: ปิดเสียงส่วนที่เหลือด้วยมิกเซอร์</h2>
+<p>ตัวปรับแต่งเสียงต่อแอปจะอยู่ระหว่างแอปและอุปกรณ์เอาท์พุตของคุณ และให้แต่ละแอปควบคุมระดับเสียงและปิดเสียงของตัวเอง เมื่อคุณมีแอปหนึ่งทำงานอยู่ การแยกแอปเดียวจะใช้เวลาไม่กี่วินาที:</p>
+<ul>
+<li>เปิดมิกเซอร์จากแถบเมนูของคุณ คุณจะเห็นรายการสดของทุกแอปที่กำลังผลิตเสียงอยู่</li>
+<li>ค้นหาแอปเดียวที่คุณต้องการฟัง การโทร สตรีม เกมของคุณ</li>
+<li>ปิดเสียงทุกอย่างอื่น แตะปุ่มสลับปิดเสียงที่อยู่ถัดจากแอปอื่นๆ หรือดึงแถบเลื่อนไปที่ศูนย์</li>
+<li>แค่นั้นแหละ. แอปหนึ่งที่คุณทิ้งไว้ตามลำพังจะเล่นต่อไปในระดับเสียงสูงสุดในขณะที่แอปที่เหลือยังคงเงียบอยู่</li>
+</ul>
+<p>ด้วย <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>แต่ละแอปในรายการจะมีแถบเลื่อนและปุ่มปิดเสียงของตัวเอง ดังนั้นนี่คือการคลิกเพียงไม่กี่ครั้ง แอพใหม่ที่เริ่มเล่นในภายหลังจะปรากฏขึ้นโดยอัตโนมัติ ดังนั้นหากเสียงการแจ้งเตือนพยายามแอบเข้ามา คุณสามารถปิดเสียงได้ทันทีโดยไม่ต้องสัมผัสแอพที่คุณโฟกัสอยู่</p>
+
+<blockquote>เคล็ดลับก็คือการปิดเสียง "ทุกอย่างยกเว้นหนึ่งเดียว" เป็นเพียงสิ่งที่ตรงกันข้ามกับการปิดเสียงแอปเดียว คุณไม่ได้ปิดเสียง Mac ของคุณ แต่คุณกำลังปิดเสียงรอบ ๆ สิ่งที่คุณใส่ใจจริงๆ</blockquote>
+
+<h2>บันทึกเป็นโปรไฟล์เพื่อไม่ให้คุณทำซ้ำ</h2>
+<p>หากนี่คือการตั้งค่าที่คุณเข้าถึงบ่อยๆ การทำด้วยมือทุกครั้งจะเก่าไป สมมติว่าคุณต้องการให้แอปโทรของคุณดังและปิดทุกอย่างในระหว่างการประชุมอยู่เสมอ หรือคุณต้องการให้สตรีมอยู่ด้านหน้าและตรงกลางในขณะที่เกมและเบราว์เซอร์เงียบอยู่ โปรไฟล์วอลุ่มจะจัดเก็บการตั้งค่าต่อแอปที่แน่นอนและนำไปใช้ใหม่ได้ในคลิกเดียว</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ช่วยให้คุณบันทึกโปรไฟล์เช่น "การประชุม" หรือ "สตรีมเท่านั้น" จากนั้นสลับไปใช้ทันทีที่คุณต้องการ ตั้งค่าเพียงครั้งเดียว และการแยกแอปเดียวของคุณจะกลายเป็นการดำเนินการในแถบเมนูเดียว แทนที่จะเป็นงานบ้านที่มีแถบเลื่อนห้าตัว</p>
+
+<h2>เวอร์ชันที่ชาญฉลาดกว่า: เป็ดอัตโนมัติแทนการปิดเสียงอย่างหนัก</h2>
+<p>บางครั้งคุณไม่ต้องการให้แอปอื่นๆ หายไปหมด คุณเพียงต้องการให้แอปหลีกทางให้เมื่อบางสิ่งที่สำคัญกว่าเริ่มต้นขึ้น นั่นคือการหลบอัตโนมัติ เมื่อแอปหลักของคุณเล่น แอปพื้นหลังจะลดลงไปที่ระดับต่ำโดยอัตโนมัติ จากนั้นจะกลับขึ้นมาใหม่เมื่อหยุด</p>
+<p>นี่เหมาะอย่างยิ่งสำหรับการโทรและการสตรีม เมื่อมีคนเริ่มพูด เพลงของคุณจะลดลงเพื่อให้คุณได้ยินพวกเขา และเมื่อวางสายลง เพลงจะดังขึ้นมาเอง คุณจะได้รับผลลัพธ์ "ได้ยินแอปเดียวอย่างชัดเจน" โดยไม่ต้องปิดเสียงและเปิดเสียงด้วยตนเองทุกครั้งที่สถานการณ์เปลี่ยนแปลง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> รวมถึงการย่ออัตโนมัติควบคู่ไปกับมิกเซอร์แบบแมนนวล ดังนั้นคุณสามารถเลือกปิดเสียงอย่างหนักเพื่อความเงียบทั้งหมด หรือปิดเสียงเพื่อให้พื้นหลังนุ่มนวลขึ้น</p>
+
+<h2>เพิ่มประสิทธิภาพแอปเดียวที่คุณเก็บไว้</h2>
+<p>มีโบนัสในการแยกแอปเดียว: คุณสามารถทำให้มันดังกว่าที่ Mac ของคุณอนุญาตได้ตามปกติ แอพบางแอพ โดยเฉพาะแฮงเอาท์วิดีโอแบบเงียบๆ หรือการสตรีมที่มีการควบคุมไม่ดี แทบจะไม่ได้ยินแม้แต่ระดับเสียงสูงสุดก็ตาม การเพิ่มพลังต่อแอปจะผลักดันแต่ละแอปให้เกิน 100% โดยไม่กระทบต่อเอาต์พุตของระบบ ซึ่งจะขยายแอปที่คุณปิดเสียงไว้แล้ว</p>
+<p>ดังนั้นขั้นตอนทั้งหมดคือ ปิดเสียง เก็บแอปเดียวไว้ และหากแอปนั้นเงียบเกินไป ให้เพิ่มแอป <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จัดการทั้งสามรายการในหน้าต่างมิกเซอร์เดียวกัน</p>
+
+<h2>สิ่งที่คุณไม่ได้ลงทะเบียนสำหรับ</h2>
+<p>ข้อกังวลทั่วไปเกี่ยวกับเครื่องมือเสียง Mac ก็คือเครื่องมือเหล่านี้ต้องใช้ส่วนขยายเคอร์เนล ไดรเวอร์เสียงเสมือน หรือตัวติดตั้งที่ซ่อนซึ่งดาวน์โหลดจากเว็บไซต์แบบสุ่ม นั่นเป็นข้อกังวลที่ถูกต้องและเป็นเหตุให้บางคนหลีกเลี่ยงแอปเหล่านี้โดยสิ้นเชิง</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> อยู่บน Mac App Store แซนด์บ็อกซ์ และติดตั้งเหมือนแอปทั่วไป ไม่มีไดรเวอร์ ไม่มี DMG ไม่มีส่วนขยายระบบให้อนุมัติ เป็นการซื้อเพียงครั้งเดียวที่ €14.99 แทนที่จะเป็นการสมัครสมาชิก ดังนั้นคุณจึงชำระเงินเพียงครั้งเดียวและเก็บไว้ นั่นสำคัญสำหรับสิ่งที่คุณต้องเปิดทิ้งไว้ในแถบเมนูตลอดทั้งวัน</p>
+
+<h2>สรุปด่วน</h2>
+<ul>
+<li>macOS ไม่มีการควบคุมระดับเสียงต่อแอปแบบเนทีฟ ดังนั้นคุณต้องมีมิกเซอร์จึงจะทำเช่นนี้ได้</li>
+<li>เปิดมิกเซอร์ เก็บแอปเดียวไว้ ปิดเสียงหรือลบทุกอย่างออกไป</li>
+<li>บันทึกเป็นโปรไฟล์สำหรับการโทรหรือสตรีมที่คุณทำบ่อยๆ</li>
+<li>ใช้การลบอัตโนมัติหากคุณต้องการให้แอปพื้นหลังเงียบลงแทนที่จะถูกฆ่า</li>
+<li>เพิ่มประสิทธิภาพแอปที่คุณเก็บไว้หากเงียบเกินไปในตัวเอง</li>
+</ul>
+
+<p>ต้องการได้ยินเฉพาะสิ่งที่สำคัญและปิดเสียงส่วนที่เหลือหรือไม่? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และตั้งค่าโปรไฟล์ปิดเสียงทุกอย่างแรกของคุณภายในไม่ถึงนาที</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "รักษาระดับเสียงที่แตกต่างกันสำหรับลำโพงและหูฟังบน Mac",
+    description: "macOS จะลืมมิกซ์ระดับเสียงระดับแอปของคุณเมื่อคุณสลับระหว่างลำโพงและหูฟัง นี่คือสาเหตุที่มันเกิดขึ้น การจำกัดด้วยตนเอง และวิธีแก้ไขหน่วยความจำโวลุ่มต่อแอป",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>จริงๆ แล้ว macOS จะจำโวลุ่มระบบแยกต่างหากสำหรับอุปกรณ์เอาท์พุตแต่ละตัว แต่จะลืมยอดคงเหลือระดับแอปของคุณทุกครั้งที่คุณเปลี่ยน ดังนั้นหูฟังและลำโพงจะรักษาระดับโดยรวมของตัวเองไว้ แต่ทันทีที่คุณถอดปลั๊ก แอปหนึ่งจะระเบิดและอีกแอปจะหายไป การแก้ไขคือหน่วยความจำโวลุ่มต่อแอปที่ยังใช้งานได้กับสวิตช์อุปกรณ์ ซึ่ง macOS ไม่มีเครื่องมือแบบเนทีฟสำหรับ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — รักษาระดับเสียงที่แตกต่างกันสำหรับลำโพงและหูฟังบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>สิ่งที่ macOS จำได้และสิ่งที่ไม่จำ</h2>
+
+<p>มีความเชื่อกันโดยทั่วไปว่า macOS ปฏิบัติต่ออุปกรณ์เอาท์พุตทุกตัวเหมือนกัน มันไม่ได้ อุปกรณ์เอาต์พุตแต่ละตัวจะจัดเก็บโวลุ่มระบบของตัวเอง ตั้งค่าลำโพง MacBook ของคุณเป็น 30% และ AirPods ของคุณเป็น 80% จากนั้น macOS จะแยกตัวเลขทั้งสองออกจากกัน เสียบปลั๊ก ถอดปลั๊ก เชื่อมต่อใหม่ และอุปกรณ์แต่ละชิ้นจะกลับไปยังจุดที่คุณทิ้งไว้</p>
+
+<p>เหตุใดประสบการณ์จึงยังรู้สึกแตกหัก? เพราะหน่วยความจำนั้นหยุดอยู่ที่แถบเลื่อนส่วนกลางเพียงแถบเดียว macOS มีตัวควบคุมระดับเสียงเพียงตัวเดียวสำหรับทุกสิ่งที่เล่นบนอุปกรณ์ที่กำหนด จำไม่ได้ว่าแต่ละแอปดังแค่ไหน เมื่อคุณเปลี่ยนจากลำโพงเป็นหูฟัง ความสมดุลระหว่าง Spotify, การโทร Zoom และแท็บ YouTube จะไม่ถูกรักษาไว้ เนื่องจากความสมดุลนั้นไม่เคยมีอยู่ ทุกแอปใช้แถบเลื่อนเดียวกัน</p>
+
+<p>ผลลัพธ์ที่ได้คือความหงุดหงิดที่ผู้คนอธิบายว่าเป็น "ระดับเสียงที่แตกต่างกันสำหรับลำโพงและหูฟัง" โดยปกติแล้วสิ่งที่พวกเขาต้องการไม่ใช่เพียงระดับมาสเตอร์ที่แตกต่างกันในแต่ละอุปกรณ์ แต่เป็นมิกซ์ที่จำได้ เช่น เพลงเงียบ การโทรที่ดัง ปิดการแจ้งเตือน และมิกซ์นั้นยังคงเหมือนเดิมไม่ว่าจะใช้ลำโพงตั้งโต๊ะหรือหูฟังก็ตาม</p>
+
+<h2>วิธีแก้ปัญหาด้วยตนเองและจุดที่ไม่เพียงพอ</h2>
+
+<p>คุณสามารถไปถึงที่นั่นได้ด้วยเครื่องมือในตัว และมันก็คุ้มค่าที่จะรู้เพดานก่อนจะเอื้อมมือไปทำอะไรอย่างอื่น</p>
+
+<ul>
+<li><strong>ตั้งค่าระดับเสียงระบบของอุปกรณ์แต่ละเครื่องหนึ่งครั้ง</strong> เล่นเสียงผ่านลำโพงของคุณ ตั้งค่าระดับเสียง จากนั้นสลับเอาต์พุตไปที่หูฟังและตั้งค่าระดับนั้น macOS จะเก็บทั้งสองอย่างไว้ สิ่งนี้จะจัดการโวลุ่มหลักต่ออุปกรณ์ แต่จะจัดการไม่ได้ต่อแอป</li>
+<li><strong>ใช้ปริมาณต่อแอปที่แอปนำเสนอ</strong> Spotify, VLC และเบราว์เซอร์ส่วนใหญ่มีวอลุ่มภายในของตัวเอง คุณสามารถตัดแอปที่มีเสียงดังภายในแอปได้ สิ่งที่จับได้: การตั้งค่านี้อยู่ในแอป ไม่ใช่ในอุปกรณ์ ดังนั้นจึงไม่มีการเปลี่ยนแปลงเมื่อคุณเปลี่ยนไปใช้หูฟัง และแอปส่วนใหญ่ (Slack, Zoom, การแจ้งเตือนของระบบ, เมล) ไม่มีการควบคุมดังกล่าวเลย</li>
+<li><strong>สลับเอาต์พุตจากศูนย์ควบคุมหรือแถบเมนู</strong> กดปุ่ม Option แล้วคลิกไอคอนระดับเสียงในแถบเมนูเพื่อข้ามระหว่างอุปกรณ์ต่างๆ อย่างรวดเร็ว รวดเร็ว แต่เพียงย้ายระดับมาสเตอร์ไปรอบๆ เท่านั้น โดยจะไม่คืนค่าการผสมผสานต่อแอป</li>
+</ul>
+
+<p>สิ่งเหล่านี้ทำให้คุณได้รับวอลลุ่มหลักต่ออุปกรณ์ สิ่งที่ไม่มีให้คุณเลยคือยอดคงเหลือต่อแอปที่จดจำซึ่งจะติดตามคุณในทุกอุปกรณ์ ช่องว่างนั้นเป็นจุดที่ความรำคาญอาศัยอยู่อย่างแน่นอน และเป็นโครงสร้าง: ระบบปฏิบัติการไม่มีตัวผสมต่อแอป ต่างจาก Windows ที่ส่งออกมาหลายปีแล้ว</p>
+
+<h2>หน่วยความจำปริมาณต่อแอป และเหตุใดการสลับอุปกรณ์จึงเป็นปัญหาที่แท้จริง</h2>
+
+<p>การแก้ไขเชิงลึกคือการให้แต่ละแอปมีระดับเสียงของตัวเองและคงการตั้งค่าเหล่านั้นไว้ นั่นคือสิ่งที่เครื่องผสมต่อแอปชอบ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ถูกสร้างขึ้นเพื่อ โดยจะอยู่ในแถบเมนูของคุณ แสดงรายการทุกแอปที่กำลังสร้างเสียง และให้แต่ละแอปมีแถบเลื่อนแยกกัน สลับการปิดเสียง และแม้แต่เพิ่มพลังเกิน 100% สำหรับแอปที่เงียบ</p>
+
+<p>ส่วนที่สำคัญสำหรับปัญหาระหว่างลำโพงกับหูฟัง: ระดับเหล่านั้นจะถูกจดจำ ตั้งค่าเพลงของคุณเป็น 40% การโทรของคุณเป็น 90% และปิดเสียงแอปช่างพูด และ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เก็บส่วนผสมนั้นไว้ เมื่อคุณถอดปลั๊กหูฟังและถอยกลับไปที่ลำโพง คุณจะไม่ได้ปรับสมดุลแอปทั้งสามด้วยมือทุกครั้ง</p>
+
+<p>โปรไฟล์ระดับเสียงจะก้าวไปอีกขั้น คุณสามารถบันทึกชุดระดับต่อแอปที่มีชื่อและเรียกคืนได้ในคลิกเดียว ดังนั้นการผสมผสาน "หูฟัง งานที่เน้น" และมิกซ์ "ผู้พูด การประชุม" ต่างก็เป็นการเลือกรายการเดียว แทนที่จะรีเซ็ตด้วยตนเอง</p>
+
+<blockquote><p>การเปลี่ยนแปลงทางจิต: หยุดคิดถึงแถบเลื่อนหลักที่คุณลากไปเรื่อยๆ และเริ่มคิดถึงการผสมผสานที่บันทึกไว้ในแต่ละสถานการณ์ การสลับอุปกรณ์จะไม่เป็นงานที่ต้องปรับสมดุลอีกต่อไป</p></blockquote>
+
+<h2>การสลับเอาต์พุตอย่างรวดเร็วโดยไม่สูญเสียมิกซ์ของคุณ</h2>
+
+<p>การสลับอุปกรณ์ควรรวดเร็วและไม่ทำลาย จากแผงแถบเมนูเดียวกัน คุณสามารถเปลี่ยนอุปกรณ์เอาท์พุตของคุณได้ ดังนั้นการย้ายจากลำโพงไปยังหูฟังทำได้ในคลิกเดียว และระดับต่อแอปของคุณจะมาพร้อมกัน แทนที่จะยุบกลับเป็นตัวเลขเดียวทั่วโลก</p>
+
+<p>คุณสมบัติที่เกี่ยวข้องที่ควรกล่าวถึงคือการลดเสียงอัตโนมัติ: เมื่อมีเสียงเข้ามาในไมโครโฟนของคุณ (คุณเริ่มพูดหรือเริ่มการโทร) แอพอื่น ๆ จะลดลงโดยอัตโนมัติเพื่อให้คุณได้ยิน จากนั้นจึงกลับสู่ระดับที่ตั้งไว้หลังจากนั้น เป็นหลักการเดียวกันนี้ที่ใช้กับความสนใจมากกว่าอุปกรณ์ อีกสิ่งหนึ่งที่ macOS จะไม่ทำด้วยตัวเอง</p>
+
+<h2>วิธีการตั้งค่า</h2>
+
+<ul>
+<li>ติดตั้ง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จาก Mac App Store มันเป็นแซนด์บ็อกซ์ ดังนั้นจึงไม่มีไดรเวอร์ ไม่มี DMG และไม่มีส่วนขยายเคอร์เนลให้อนุมัติ</li>
+<li>เล่นเสียงในแอพที่คุณใช้บ่อยที่สุดเพื่อให้ปรากฏในมิกเซอร์</li>
+<li>ตั้งค่าระดับของแต่ละแอป ปิดเสียงทุกสิ่งที่คุณไม่ต้องการ และเพิ่มเสียงที่เงียบเกินไป</li>
+<li>บันทึกการจัดเรียงนั้นเป็นโปรไฟล์ เช่น อันหนึ่งที่ปรับสำหรับหูฟังและอีกอันสำหรับลำโพง</li>
+<li>เมื่อคุณเปลี่ยนอุปกรณ์ ให้เรียกคืนโปรไฟล์ที่ตรงกัน หรือปล่อยให้ระดับต่อแอปที่บันทึกไว้ของคุณดำเนินต่อไป</li>
+</ul>
+
+<p>สรุปโดยตรงไปตรงมา: macOS จำระดับเสียงต่ออุปกรณ์เอาท์พุตในระดับหลัก แต่จะไม่จำการผสมผสานต่อแอปของคุณ เนื่องจากไม่มีตัวผสมต่อแอป หากเป้าหมายที่แท้จริงของคุณคือความสมดุลที่สม่ำเสมอระหว่างเพลง การโทร และการแจ้งเตือนที่รอดพ้นจากการสลับระหว่างลำโพงและหูฟัง คุณจะต้องมีหน่วยความจำต่อแอปที่ด้านบนของระบบปฏิบัติการ</p>
+
+<p>ต้องการให้ลำโพงและหูฟังคงมิกซ์ของตัวเองโดยไม่ต้องปรับทุกแอปใหม่หรือไม่ <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> เพียงครั้งเดียว €14.99 ไม่มีการสมัครสมาชิก และไม่มีไดรเวอร์</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control เลิกผลิตแล้วเหรอ? การเปลี่ยนระดับเสียงต่อแอป Mac ที่ดีที่สุด (2026)",
+    description: "Sound Control โดยซอฟต์แวร์ Static Z ถูกยกเลิกและหยุดทำงานบน macOS สมัยใหม่ นี่คือเหตุผลว่าทำไมมันถึงหยุดทำงาน ทำอะไรได้บ้าง และตัวปรับแต่งเสียงต่อแอปที่ดีที่สุดที่จะเปลี่ยนไปใช้ในปี 2026",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>Sound Control โดยซอฟต์แวร์ Static Z ถูกยกเลิกและไม่มีการขายหรืออัปเดตอีกต่อไป และจะล้มเหลวมากขึ้นใน macOS สมัยใหม่ เนื่องจากต้องใช้ไดรเวอร์เสียงระดับเคอร์เนลที่ Apple ล็อคไว้ หากคุณต้องการปริมาณต่อแอปในวันนี้ สิ่งทดแทนที่สะอาดที่สุดก็คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นมิกเซอร์ Mac App Store แบบแซนด์บ็อกซ์ที่ไม่มีไดรเวอร์</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control ยกเลิกการผลิตหรือไม่? การเปลี่ยนระดับเสียงต่อแอป Mac ที่ดีที่สุด (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>สิ่งที่ Sound Control ทำจริงๆ</h2>
+<p>เป็นเวลาหลายปีมาแล้วที่ Sound Control เป็นคำตอบสำหรับช่องว่าง macOS ของแท้: ยังไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัวบน Mac Windows มีหนึ่งใน Volume Mixer มาตั้งแต่ Vista แต่ macOS ให้แถบเลื่อนหลักเพียงตัวเดียวแก่คุณเท่านั้น Sound Control เติมเต็มช่องว่างนั้นด้วยแผงแถบเมนูที่เป็นระเบียบซึ่งช่วยให้คุณ:</p>
+<ul>
+<li>ตั้งค่าระดับเสียงแยกกันสำหรับแต่ละแอปที่รันอยู่</li>
+<li>ปิดเสียงแต่ละแอปโดยไม่ต้องแตะเสียงส่วนที่เหลือของระบบ</li>
+<li>เพิ่มแอปที่เงียบกว่า 100 เปอร์เซ็นต์</li>
+<li>ใช้อีควอไลเซอร์ต่อแอปและการปรับสมดุล</li>
+<li>กำหนดเส้นทางเสียงและปักหมุดแอปไปยังอุปกรณ์เอาต์พุตเฉพาะ</li>
+</ul>
+<p>สำหรับใครก็ตามที่เคยมีการโทร Zoom ในขณะที่แท็บ YouTube ในพื้นหลังกระซิบ การควบคุมต่อแอปนั้นได้รับการเปลี่ยนแปลง มันกลายเป็นวัตถุดิบหลักที่เงียบสงบในเครื่องของผู้ใช้ระดับสูง Mac จำนวนมาก</p>
+
+<h2>เหตุใดจึงหยุดทำงาน.</h2>
+<p>เรื่องราวทางเทคนิคที่ตรงไปตรงมามีความสำคัญที่นี่ เพราะมันอธิบายว่าทำไมนี่ไม่ใช่จุดบกพร่องที่ใครๆ ก็สามารถแก้ไขได้ Sound Control ทำงานโดยการติดตั้งไดรเวอร์เสียงของระบบ ซึ่งเป็นส่วนขยายเคอร์เนล (kext) ที่แทรกตัวเองลงในไปป์ไลน์เสียง macOS เพื่อให้สามารถสกัดกั้นและปรับรูปร่างเอาต์พุตของแต่ละแอปได้ เบ็ดลึกนั้นเป็นสิ่งที่ทำให้คุณสมบัติ EQ และบูสต์เป็นไปได้</p>
+<p>เริ่มต้นด้วย macOS 10.15 Catalina และเร่งผ่าน Big Sur และการเปลี่ยนแปลง Apple Silicon Apple เริ่มเลิกใช้ส่วนขยายเคอร์เนลเพื่อสนับสนุนทางเลือกพื้นที่ผู้ใช้ บน Apple Silicon Mac การโหลด kext ของบริษัทอื่นจำเป็นต้องลดความปลอดภัยของระบบลงในโหมดการกู้คืน และ Apple ได้ระบุไว้ชัดเจนว่า kext เสียงแบบเดิมนั้นอยู่ในเวลาที่ยืมมา ในที่สุดซอฟต์แวร์ Static Z ก็หยุดขายและพัฒนา Sound Control ผลลัพธ์: ในเวอร์ชันล่าสุดของ macOS การติดตั้งล้มเหลว เสียงขาดหาย หรือไดรเวอร์ปฏิเสธที่จะโหลดโดยไม่มีการลดระดับความปลอดภัยที่คนส่วนใหญ่ไม่ต้องการทำอย่างถูกต้อง</p>
+<blockquote>นี่ไม่ได้ละเลยในส่วนของนักพัฒนา เป็นการเปลี่ยนแปลงระดับแพลตฟอร์ม Apple ปิดประตูด้วยไดรเวอร์เสียงระดับต่ำ Sound Control ที่สร้างขึ้น และไม่มีการอัปเดตใดที่สามารถเปิดใหม่ได้อย่างสมบูรณ์</blockquote>
+
+<h2>สิ่งที่เปลี่ยนแปลงไปใน macOS สมัยใหม่</h2>
+<p>Apple ได้เพิ่มสิ่งที่เกี่ยวข้องอย่างหนึ่ง: ตอนนี้ Core Audio มี Tap API (เปิดตัวใน macOS 14.2 Sonoma) ที่ช่วยให้แอปจับภาพและประมวลผลเสียงต่อกระบวนการจากพื้นที่ผู้ใช้ - ไม่มี kext, ไม่มีการลดระดับความปลอดภัย, ไม่ต้องรีบูตเข้าสู่การกู้คืน นี่คือเส้นทางสมัยใหม่ที่ได้รับอนุมัติสำหรับเสียงต่อแอป และเป็นสิ่งที่ควรสร้างมิกเซอร์ในปัจจุบัน ข้อดีข้อเสียนั้นตรงไปตรงมา: การแตะพื้นที่ผู้ใช้มีข้อจำกัดมากกว่าไดรเวอร์เคอร์เนลแบบเก่า ดังนั้นคุณควรคาดหวังว่าระดับเสียงต่อแอปที่สะอาด ปิดเสียง และบูสต์มากกว่า EQ พารามิเตอร์ต่อแอปแบบเต็ม Sound Control ที่นำเสนอ</p>
+
+<h2>การทดแทนที่ดีที่สุด: SoundDial</h2>
+<p>หากคุณต้องการแกนหลักของสิ่งที่ Sound Control ทำ — ปริมาณที่เป็นอิสระต่อแอป — บน Mac คุณสามารถรักษาความปลอดภัยและอัปเดตได้จริง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นตัวเลือก clean-migration ที่ใกล้เคียงที่สุดในปี 2026 โดยเป็นแถบเมนูตัวปรับแต่งเสียงต่อแอปที่สร้างขึ้นสำหรับสแต็กเสียง macOS สมัยใหม่ สิ่งที่นำมาจากเวิร์กโฟลว์ Sound Control:</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — หนึ่งแถบเลื่อนต่อแอปพลิเคชันที่ทำงานอยู่ทางขวาในแถบเมนู</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปหนึ่งขณะที่แอปอื่นๆ ยังคงเล่นอยู่</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ดันแอพที่เงียบไว้เหนือเพดานปกติ</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกการตั้งค่ามิกเซอร์สำหรับบริบทที่แตกต่างกัน (การโทร เพลง การเล่นเกม) และสลับระหว่างการตั้งค่าเหล่านั้น</li>
+<li><strong>Auto-ducking</strong> — ลดระดับเสียงของแอปพื้นหลังโดยอัตโนมัติ ซึ่งมีประโยชน์เมื่อคุณเริ่มพูดหรือมีสายเข้า</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ โดยไม่ต้องไปที่การตั้งค่าระบบ</li>
+</ul>
+<p>ความแตกต่างในทางปฏิบัติที่สำคัญสำหรับการย้ายถิ่น: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จัดส่งผ่าน Mac App Store อยู่ในแซนด์บ็อกซ์ และไม่มีการติดตั้งไดรเวอร์ และไม่มี DMG นั่นหมายถึงไม่ต้องขยายเคอร์เนลให้อนุมัติ ไม่มีโหมดการกู้คืน และไม่ลดระดับการรักษาความปลอดภัยของ Mac ของคุณ ซึ่งเป็นปัญหาที่คร่าชีวิต Sound Control เป็นการซื้อครั้งเดียวมูลค่า 14.99 ยูโร ไม่ใช่การสมัครสมาชิก</p>
+
+<h2>วิธีการเปลี่ยนทีละขั้นตอน</h2>
+<ul>
+<li><strong>ถอนการติดตั้ง Sound Control อย่างหมดจด</strong> เนื่องจากติดตั้งไดรเวอร์ไว้ ให้ใช้โปรแกรมถอนการติดตั้งของตัวเองหากยังทำงานอยู่ หรือลบส่วนประกอบไดรเวอร์เสียงออกก่อนที่จะติดตั้งสิ่งใหม่ ตะขอเกี่ยวเสียงที่แข่งขันกันสองตัวอาจทำให้เกิดข้อผิดพลาดได้</li>
+<li><strong>ติดตั้ง SoundDial จาก App Store</strong> ไม่จำเป็นต้องรีบูตหรือเปลี่ยนแปลงความปลอดภัย</li>
+<li><strong>ให้สิทธิ์เสียงที่ร้องขอ</strong> นี่คือสิ่งที่ช่วยให้อ่านและควบคุมเอาต์พุตต่อแอปบน macOS สมัยใหม่ได้</li>
+<li><strong>เปิดแผงแถบเมนูและตั้งค่าระดับ</strong> แอพที่ทำงานอยู่ของคุณจะปรากฏขึ้นพร้อมแถบเลื่อนแต่ละตัว ปรับ ปิดเสียง หรือเพิ่มตามความจำเป็น</li>
+<li><strong>บันทึกโปรไฟล์</strong> หากคุณมีการตั้งค่า Sound Control ที่ชื่นชอบ ให้สร้างการตั้งค่าเหล่านั้นใหม่เป็นโปรไฟล์ เพื่อให้คุณสามารถสลับได้ในคลิกเดียว</li>
+</ul>
+
+<h2>ความคาดหวังที่ซื่อสัตย์</h2>
+<p>หากเหตุผลเดียวของคุณในการใช้ Sound Control คือระดับเสียงต่อแอป ปิดเสียง และบูสต์ มิกเซอร์แซนด์บ็อกซ์สมัยใหม่จะครอบคลุมคุณอย่างเต็มที่ หากคุณพึ่งพาอีควอไลเซอร์ต่อแอปเป็นอย่างมาก โปรดทราบว่า EQ ระดับลึกนั้นเชื่อมโยงกับไดร์เวอร์รุ่นเก่า และเป็นฟีเจอร์ที่ยากที่สุดในการสร้างใหม่อย่างหมดจดภายใต้กฎปัจจุบันของ Apple ตั้งความคาดหวังให้เหมาะสม แล้วคุณจะไม่แปลกใจ</p>
+
+<p>พร้อมที่จะรับปริมาณต่อแอปกลับคืนมาโดยไม่ต้องปวดหัวกับคนขับแล้วหรือยัง? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — ครั้งเดียว €14.99, แซนด์บ็อกซ์, ไม่ต้องสมัครสมาชิก, ไม่มีไดรเวอร์</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny หายไปแล้ว — แอพ Volume ต่อแอป Mac สมัยใหม่ที่จะเข้ามาแทนที่",
+    description: "SoundBunny โดย Prosoft ถูกยกเลิก นี่คือ macOS ต่อแอปวอลุ่มมิกเซอร์ปัจจุบันที่ได้รับการดูแลอย่างดีเพื่อแทนที่ — รวมถึงวิธีย้ายการตั้งค่าเสียงต่อแอปโดยไม่ต้องใช้ไดรเวอร์เคอร์เนล",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หาก SoundBunny หยุดทำงานหรือไม่มีขายอีกต่อไป แสดงว่ามีการทดแทนที่ทันสมัย <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นแถบเมนูตัวปรับแต่งเสียงต่อแอปที่สร้างขึ้นสำหรับ macOS ปัจจุบัน โดยให้งานหลักแบบเดียวกัน — ระดับเสียงที่เป็นอิสระ ปิดเสียง และบูสต์ต่อแอปพลิเคชัน — เท่ากับการซื้อ Mac App Store ครั้งเดียวมูลค่า €14.99 โดยไม่ต้องใช้ไดรเวอร์เคอร์เนล, DMG หรือการสมัครรับข้อมูลให้จัดการ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny หายไปแล้ว — แอพ Volume Per-App ที่ทันสมัยของ Mac มาแทนที่" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เกิดอะไรขึ้นกับ SoundBunny?</h2>
+<p>SoundBunny เป็นยูทิลิตี้ปริมาณต่อแอปของ Prosoft Engineering สำหรับ macOS มันช่วยให้คุณตั้งค่าระดับเสียงที่แตกต่างกันสำหรับแอปที่รันอยู่แต่ละตัวได้จากแถบเมนู — เสียงเพลงเงียบ, การโทรดัง, เบราว์เซอร์อยู่ที่ไหนสักแห่งระหว่างนั้น เป็นเวลาหลายปีมาแล้วที่ Apple เป็นหนึ่งในเครื่องมือไม่กี่ชิ้นที่ช่วยเติมเต็มช่องว่างที่ Apple ไม่เคยปิดตัวลง</p>
+<p>ปัญหาคือ SoundBunny เป็นซอฟต์แวร์รุ่นเก่า มันไม่ได้ตามทันการเปลี่ยนแปลงเชิงลึกที่ Apple ทำกับเสียงและความปลอดภัยของ macOS — Apple Silicon, รันไทม์ที่เข้มงวดมากขึ้น, กฎการขยายระบบที่เข้มงวดขึ้น และการถอด hooks เสียงรุ่นเก่าออก เมื่อยูทิลิตี้ประเภทนี้หยุดรับการอัปเดต ในที่สุดมันก็หยุดทำงาน: ไม่สามารถเปิดใช้งานได้ สูญเสียการควบคุมสตรีมของแอพหลังจากการอัปเดตระบบปฏิบัติการ หรือไม่สามารถติดตั้งอย่างสมบูรณ์บน Mac รุ่นใหม่ได้ ถ้านั่นคือสิ่งที่คุณอยู่ คุณไม่ได้ทำอะไรผิด แอพอยู่ข้างหลัง ไม่ใช่คุณ</p>
+
+<h2>ทำไม macOS ถึงยังต้องการมิกเซอร์ของบริษัทอื่นเลย</h2>
+<p>นี่คือส่วนที่ตรงไปตรงมา: นี่คือช่องว่างที่แท้จริงใน macOS ไม่ใช่ข้อบกพร่องที่คุณสามารถแก้ไขได้ในการตั้งค่า Windows ได้จัดส่ง Volume Mixer ต่อแอปมานานกว่าทศวรรษ macOS ไม่เคยมีเลย แถบเลื่อนระดับเสียงของระบบและการตั้งค่าเสียงจะควบคุมคุณ <em>อุปกรณ์ส่งออก</em> โดยรวมแล้ว ทุกแอปมีระดับมาสเตอร์เดียวกัน ไม่มีวิธีในตัวที่จะพูดว่า "เก็บ Safari ไว้ที่ 40% แต่ Zoom อยู่ที่ 100%"</p>
+<p>นั่นเป็นสาเหตุว่าทำไมจึงมีเครื่องมืออย่าง SoundBunny และเหตุใดการเปลี่ยนทดแทนจึงยังมีความจำเป็นในปัจจุบัน ความต้องการไม่ได้หายไปเมื่อแอปหายไป — Apple ยังไม่ได้แก้ไขปัญหาดังกล่าว</p>
+
+<h2>การทดแทนที่ทันสมัย: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นตัวผสมระดับเสียงต่อแอปที่อยู่ในแถบเมนูของคุณและทำสิ่งที่ผู้ใช้ SoundBunny ไว้วางใจ ซึ่งสร้างขึ้นโดยเทียบกับ macOS ในปัจจุบันแทนที่จะเป็นของเมื่อวาน คุณลักษณะที่ทับซ้อนกันครอบคลุมสิ่งสำคัญ:</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — หนึ่งแถบเลื่อนต่อแอปพลิเคชันที่ทำงานอยู่ ซึ่งเป็นโมเดลทางจิตของ SoundBunny</li>
+<li><strong>ปิดเสียงต่อแอป</strong> - ปิดเสียงแอปที่มีเสียงดังเพียงแอปเดียวโดยไม่ต้องแตะต้องสิ่งอื่นใด</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ผลักดันแอปที่เงียบ <em>ด้านบน</em> 100% เมื่อมีการบันทึกวิดีโอหรือการโทรต่ำเกินไป SoundBunny ไม่สามารถขยายระบบที่ผ่านมาสูงสุดใน macOS สมัยใหม่ได้อย่างน่าเชื่อถือ boost เป็นการอัปเกรดที่แท้จริงที่นี่</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกชุดระดับต่อแอป (มิกซ์ "งาน", มิกซ์ "เกม") และสลับระหว่างระดับเหล่านั้นแทนการดันแถบเลื่อนทีละอัน</li>
+<li><strong>Auto-ducking</strong> — ลดระดับเสียงของแอปพื้นหลังโดยอัตโนมัติเมื่อแหล่งเสียงอื่น (เช่น ไมโครโฟนขณะสนทนา) ทำงานอยู่</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และเอาต์พุตอื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+
+<h2>จริงๆ แล้วการโยกย้ายมีลักษณะเป็นอย่างไร</h2>
+<p>ไม่มีขั้นตอนการนำเข้า — ระดับเสียงต่อแอปไม่ใช่ไฟล์ที่คุณพกพา — แต่การเปลี่ยนทำได้รวดเร็ว:</p>
+<ul>
+<li><strong>ถอด SoundBunny ออกอย่างถูกต้อง</strong> ออกจากระบบแล้วลบแอป หากติดตั้งตัวช่วยหรือรายการเข้าสู่ระบบใด ๆ ให้ลบออกด้วยเพื่อไม่ให้ยูทิลิตี้สองตัวต่อสู้กันเพื่อสตรีมเสียงเดียวกัน</li>
+<li><strong>ติดตั้ง SoundDial จาก Mac App Store</strong> มีแซนด์บ็อกซ์และเผยแพร่ผ่านร้านค้า ดังนั้นจึงไม่ต้องติดตั้ง DMG และไม่มีคำเตือน "นักพัฒนาที่ไม่ปรากฏชื่อ" การซื้อหนึ่งครั้งเชื่อมโยงกับ Apple ID ของคุณ</li>
+<li><strong>ให้สิทธิ์การเข้าถึงเสียงในการเปิดตัวครั้งแรก</strong> macOS จะขออนุญาต SoundDial เพื่อดูเสียงของแอป นี่คือเส้นทางที่ทันสมัยและได้รับการอนุมัติที่ Apple มอบให้ — ไม่มีส่วนขยายเคอร์เนล, ไม่ต้องรีบูต, ไม่ลดความปลอดภัยของระบบ อนุญาตและแอปที่ทำงานอยู่ของคุณจะปรากฏเป็นแถบเลื่อน</li>
+<li><strong>สร้างมิกซ์ของคุณขึ้นมาใหม่</strong> ตั้งค่าแอพทั่วไปของคุณ จากนั้นบันทึกการจัดเรียงนั้นเป็นโปรไฟล์ เพื่อที่คุณจะได้ไม่ต้องทำซ้ำอีก</li>
+</ul>
+
+<h2>ความแตกต่างในทางปฏิบัติจาก SoundBunny</h2>
+<p>ความแตกต่างที่สำคัญที่สุดก็คือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นซอฟต์แวร์ปัจจุบัน มันทำงานบน Apple Silicon โดยกำเนิด ใช้ API เสียงที่รองรับของ Apple และเป็นแอป Mac App Store ซึ่งหมายความว่าจะมีการอัพเดตผ่านร้านค้า และสร้างขึ้นเพื่อให้สามารถอัพเกรดระบบปฏิบัติการได้ แทนที่จะพัง การถูกแซนด์บ็อกซ์ยังหมายความว่ามันไม่สามารถเข้าถึงนอกเลนได้ ซึ่งสร้างความมั่นใจให้กับบางสิ่งที่อยู่ระหว่างแอพและลำโพงของคุณ</p>
+<p>คำเตือนที่ซื่อสัตย์บางประการดังนั้นความคาดหวังจึงถูกต้อง เนื่องจาก SoundDial ทำงานภายในเฟรมเวิร์กเสียงของ Apple การควบคุมจึงดีที่สุดสำหรับแอปมาตรฐานที่ส่งผ่านเอาต์พุตของระบบปกติ ซอฟต์แวร์บางตัวเล่นเสียงผ่านเส้นทางของตัวเองหรืออุปกรณ์พิเศษ และไม่มีมิกเซอร์แถบเมนู — รวม SoundBunny — สามารถควบคุมสิ่งเหล่านั้นได้อย่างสมบูรณ์ และปริมาณต่อแอปโดยเนื้อแท้แล้วก็คือเลเยอร์ซอฟต์แวร์ที่อยู่ด้านบนของ macOS มันไม่ใช่ตัวผสมฮาร์ดแวร์ ภายในขีดจำกัดที่แท้จริงเหล่านั้น มันจะทำงานที่ SoundBunny เคยทำ</p>
+
+<blockquote>หากคุณเปลี่ยนมาใช้ Mac จาก Windows ที่คาดว่าจะมี Volume Mixer ต่อแอป นี่คือเครื่องมือที่ช่วยเติมเต็มช่องว่างนั้น และตอนนี้ก็เป็นเครื่องมือที่ได้รับการบำรุงรักษาจริงๆ</blockquote>
+
+<p>SoundBunny วิ่งได้ดี แต่ก็ยังคงเป็นรุ่นเก่า หากคุณต้องการระดับเสียงต่อแอป ปิดเสียง และเพิ่มพลังใน Mac ที่ทันสมัย <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — €14.99 ครั้งเดียว ไม่มีการสมัครสมาชิก และไม่มีไดรเวอร์</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "ทางเลือก Boom 2 สำหรับ Mac: ปริมาณต่อแอปโดยไม่มีการขายต่อยอด Boom 3D",
+    description: "Boom 2 เป็นมรดกและผลักดันคุณไปสู่ Boom 3D หากคุณต้องการปริมาณต่อแอปและเพิ่มประสิทธิภาพอย่างง่ายๆ บน macOS สมัยใหม่ นี่คือทางเลือกหลักและวิธีการทำงาน",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>หากคุณชอบ Boom 2 สำหรับบูสต์ทั้งระบบ แต่ต้องการความเรียบง่าย <strong>ต่อแอป</strong> ปริมาณบน Mac ปัจจุบัน คำตอบที่ตรงไปตรงมาก็คือ Boom 2 เป็นรุ่นดั้งเดิมและไม่ใช่เครื่องมือที่เหมาะสมอีกต่อไป ทางเลือกที่มุ่งเน้นคือ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งเป็นมิกเซอร์แถบเมนูที่ให้แต่ละแอปมีแถบเลื่อนระดับเสียง ปิดเสียง และเพิ่มเสียงของตัวเอง ในราคา 14.99 ยูโรต่อครั้ง โดยไม่ต้องกดไปที่ชุดรวมที่ใหญ่กว่า</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ทางเลือก Boom 2 สำหรับ Mac: ปริมาณต่อแอปโดยไม่มีการขายต่อยอด Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไม Boom 2 ถึงไม่พอดีอีกต่อไป</h2>
+<p>Boom 2 เป็นแอปยอดนิยมด้วยเหตุผลเฉพาะ: มันเพิ่มระดับเสียงโดยรวมของ Mac ของคุณให้เกินกว่าระดับเสียงสูงสุดของระบบ และเพิ่มอีควอไลเซอร์ มันทำแบบนั้นทั้งระบบ ไม่ใช่ต่อแอป นั่นเป็นเรื่องปกติในปี 2558 ในปี 2569 มีปัญหาสองประการ</p>
+<p>ประการแรกมันเป็นมรดก Global Delight ได้ย้ายพลังงานไปที่ Boom 3D อย่างชัดเจน และหากคุณเปิดหน้าผลิตภัณฑ์ Boom 2 คุณจะพบว่าตัวเองถูกกระตุ้นไปยังแอปรุ่นใหม่ที่มีราคาแพงกว่าเกือบจะในทันที Boom 2 ยังคงมีอยู่ แต่เป็นก้าวสำคัญที่ผู้ขายใช้ในการขาย Boom 3D ไม่ใช่ผลิตภัณฑ์ที่ได้รับความรักอย่างแข็งขัน</p>
+<p>ประการที่สองและสำคัญกว่านั้น: Boom 2 ไม่เคยเป็นตัวผสมระดับเสียงต่อแอปเลย โดยจะยกและสร้างรูปร่างเอาต์พุตหลักหนึ่งรายการ หากความเจ็บปวดที่แท้จริงของคุณคือการ ping ของ Slack ดังกว่าเพลงของคุณ หรือแท็บเบราว์เซอร์ทำให้สายโทรเข้าไม่เข้า Boom 2 ไม่สามารถแก้ปัญหานั้นได้ มันทำให้ทุกอย่างดังขึ้นด้วยกัน นั่นเป็นงานที่แตกต่าง</p>
+
+<h2>จริงๆ แล้ว "ปริมาณต่อแอป" หมายถึงอะไรใน macOS</h2>
+<p>ต่อไปนี้เป็นบริบทที่ตรงไปตรงมาซึ่งการปัดเศษทางเลือกส่วนใหญ่ข้ามไป: macOS ไม่มีตัวปรับแต่งระดับเสียงในตัวต่อแอปเลย Windows มีมาหลายปีแล้ว — คลิกขวาที่ลำโพง เปิด Volume Mixer และตั้งค่า Chrome เป็น 40% และ Spotify เป็น 80% Apple ไม่เคยจัดส่งสิ่งนั้น ปุ่มปรับระดับเสียง macOS จะย้ายระดับหลักเพียงระดับเดียวเท่านั้น</p>
+<p>ดังนั้นเมื่อคุณมองหา "ทางเลือก Boom 2" สิ่งที่คุณมักจะมองหาจริงๆ ไม่ใช่ Mac ที่ดังไปกว่านี้ แต่เป็นการควบคุมต่อแอปที่ผู้ใช้ Windows มองข้ามไป นั่นเป็นช่องว่างที่แท้จริงในระบบปฏิบัติการ ไม่ใช่สิ่งที่ Boom 2 หรือแอปใด ๆ ลืมสร้าง</p>
+
+<h2>SoundDial เหมาะกับตรงไหน</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ถูกสร้างขึ้นมาเพื่อช่องว่างนั้นโดยเฉพาะ มันอยู่ในแถบเมนูและแสดงรายการแอพที่กำลังเล่นเสียง โดยแต่ละแอพมีแถบเลื่อนของตัวเอง คุณตั้งค่าระดับต่อแอปแทนที่จะดันการควบคุมหลักเพียงอันเดียวและหวังว่าจะได้สิ่งที่ดีที่สุด</p>
+<p>มันทำอะไร:</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — ปิดเบราว์เซอร์ เก็บเพลงไว้ในที่ที่คุณต้องการ ไม่มีการประนีประนอมระดับโลก</li>
+<li><strong>ปิดเสียงต่อแอป</strong> — ปิดเสียงแอปที่มีเสียงดังหนึ่งแอปโดยไม่ต้องแตะต้องสิ่งอื่นใด</li>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> — ผลักดันแต่ละแอปให้เลยเพดานปกติเมื่อมีการบันทึกวิดีโอหรือการโทรเงียบเกินไป นี่คือส่วนที่แฟนๆ Boom 2 มักจะพลาด ยกเว้นที่นี่ที่มีการกำหนดเป้าหมายไปที่แอปเดียวแทนที่จะเป็นทั้งระบบ</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกเค้าโครงเช่น "โฟกัส" "การประชุม" หรือ "เกม" และสลับได้ในคลิกเดียว</li>
+<li><strong>Auto-ducking</strong> — ลดระดับแอปอื่นๆ โดยอัตโนมัติเมื่อคุณเริ่มพูด ซึ่งมีประโยชน์สำหรับการโทรและการบันทึก</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และเอาต์พุตอื่นๆ จากเมนูเดียวกัน</li>
+</ul>
+
+<h2>วิธีการตั้งค่า</h2>
+<p>ขั้นตอนการทำงานสั้น:</p>
+<ul>
+<li>ติดตั้ง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จาก Mac App Store — ไม่มี DMG, ไม่มีไดรเวอร์, ไม่ต้องรีบูต</li>
+<li>คลิกไอคอนแถบเมนูเพื่อดูทุกแอปที่กำลังสร้างเสียง</li>
+<li>ลากแถบเลื่อนของแต่ละแอปไปยังระดับที่คุณต้องการ ปิดเสียงหรือเพิ่มทีละรายการตามต้องการ</li>
+<li>บันทึกการจัดเรียงเป็นโปรไฟล์หากคุณต้องการใช้ซ้ำในภายหลัง</li>
+</ul>
+<p>เนื่องจากจัดส่งผ่าน App Store จึงทำแซนด์บ็อกซ์และติดตั้งได้เรียบร้อย สมควรที่จะเรียกร้องเพราะเครื่องมือเสียงรุ่นเก่าบางตัวอาศัยส่วนขยายเคอร์เนลหรือไดรเวอร์เสียงเสมือน ซึ่งเป็นสิ่งที่ macOS สมัยใหม่ต่อต้านมากขึ้น SoundDial ไม่ขอให้คุณติดตั้งไดรเวอร์หรือลดการตั้งค่าความปลอดภัยใดๆ</p>
+
+<h2>ข้อจำกัดที่ซื่อสัตย์</h2>
+<p>การเพิ่มประสิทธิภาพต่อแอปมีจริงแต่ไม่ใช่เรื่องมหัศจรรย์ หากเสียงต้นทางของแอปเงียบจริงๆ หรือบันทึกได้ไม่ดี การเพิ่มระดับเสียงจะเพิ่มระดับเสียงรบกวนพร้อมกับสัญญาณ วัสดุที่เงียบมากอาจส่งเสียงฟู่ได้เมื่อกดแรงๆ นั่นเป็นข้อจำกัดทางฟิสิกส์ของการขยาย ไม่ใช่ข้อบกพร่องในแอปใดๆ โดยเฉพาะ การเพิ่มระบบของ Boom 2 ก็มีข้อดีที่เหมือนกัน ถือว่าบูสต์เป็นพื้นที่ว่างสำหรับกรณีใช้งานจริง ไม่ใช่การช่วยชีวิตสำหรับเสียงที่ขาดหาย</p>
+
+<h2>Boom 2 เทียบกับมิกเซอร์แบบโฟกัส</h2>
+<p>หากสิ่งที่คุณชอบเกี่ยวกับ Boom 2 คือความดังทั่วทั้งระบบบวกกับ EQ และคุณไม่สนใจการควบคุมต่อแอป Boom 3D คือผู้สืบทอดเจตนาของผู้จำหน่าย นั่นเป็นเส้นทางที่ยุติธรรม และเราจะไม่เสแสร้งเป็นอย่างอื่น แต่ถ้าคุณลองใช้ Boom 2 และตระหนักว่าสิ่งที่คุณต้องการจริงๆ ก็คือการลดหรือเพิ่มแอปหนึ่งแอปโดยไม่ย้ายทุกอย่าง ชุด EQ และ Boost ถือเป็นเครื่องมือที่ผิดรูปแบบ</p>
+<blockquote>Boom 2 ทำให้ Mac ดังขึ้นทั้งหมด มิกเซอร์ต่อแอปช่วยให้คุณตัดสินใจได้ว่าแอปใดดังกว่า เหล่านั้นแก้ปัญหาที่แตกต่างกัน</blockquote>
+<p>ความแตกต่างของราคาก็คุ้มค่าที่จะตั้งชื่ออย่างชัดเจน SoundDial มีราคา €14.99 หนึ่งครั้ง ไม่มีการสมัครสมาชิก ไม่มีการทดลองใช้ที่กลายเป็นแผนที่ใหญ่กว่า และไม่มีเส้นทางในแอปที่จะพาคุณไปสู่ระดับที่แพงกว่า คุณซื้อเครื่องผสม คุณเป็นเจ้าของเครื่องผสม</p>
+
+<p>หากปริมาณต่อแอป — ไม่ใช่ EQ ทั้งระบบ — คือสิ่งที่คุณต้องการจริงๆ <a href="https://apps.apple.com/app/id6772792641">ลอง SoundDial บน Mac App Store</a> และกำหนดระดับของคุณในแบบที่ macOS ควรจะให้คุณมาตลอด</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune กับ SoundDial: ปริมาณโอเพ่นซอร์สฟรีและแบบชำระเงินต่อแอปบน Mac",
+    description: "FineTune เป็นแอปวอลุ่มแบบโอเพ่นซอร์สต่อแอปฟรีสำหรับ Mac; SoundDial เป็นแอป App Store แบบแซนด์บ็อกซ์แบบชำระเงินพร้อมบูสต์ โปรไฟล์ และการสนับสนุน นี่คือการเปรียบเทียบอย่างตรงไปตรงมาเพื่อช่วยคุณเลือก",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>FineTune เป็น Volume Mixer แบบโอเพ่นซอร์สต่อแอปฟรีสำหรับ macOS ดังนั้นหากคุณกังวลเรื่องราคาเพียงอย่างเดียว ก็ถือว่าเป็นตัวเลือกของแท้ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นแอป Mac App Store แบบชำระเงิน (14.99 ยูโรต่อครั้ง) ที่เพิ่มการเพิ่มระดับเสียงต่อแอป โปรไฟล์ที่บันทึกไว้ การลบอัตโนมัติ และการสนับสนุนผู้ขาย ตัวเลือกที่แท้จริงคือแบบฟรีและ DIY เทียบกับแซนด์บ็อกซ์และรองรับ</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune กับ SoundDial: ปริมาณโอเพ่นซอร์สฟรีและแบบชำระเงินต่อแอปบน Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ปัญหาที่แอปทั้งสองแก้ไขได้</h2>
+
+<p>macOS ยังไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีมาหลายปีแล้ว — คลิกขวาที่ไอคอนลำโพง เปิด Volume Mixer และทุกแอปจะมีแถบเลื่อนของตัวเอง ใน Mac คุณจะได้รับแถบเลื่อนระดับเสียงของระบบเพียงอันเดียวสำหรับทุกสิ่ง ไม่ว่าจะเป็นเพลง วิดีโอคอล YouTube การแจ้งเตือน และเกม ล้วนแต่แชร์กัน หากการโทรของคุณเงียบเกินไปและ Spotify ดังเกินไป "การแก้ไข" เดียวของคุณคือการปิดเสียง Spotify โดยสิ้นเชิง</p>
+
+<p>ทั้ง FineTune และ SoundDial มีอยู่เพื่อเติมเต็มช่องว่างนั้น โดยให้แอปที่ทำงานอยู่แต่ละแอปควบคุมระดับเสียงของตัวเอง ดังนั้นคุณจึงสามารถจัดการประชุมที่ 100% ในขณะที่ดึงเพลงพื้นหลังลงไปที่ 20% โดยไม่ต้องแตะแถบเลื่อนหลัก</p>
+
+<h2>สิ่งที่ FineTune พูดถูก</h2>
+
+<p>FineTune เป็นแอปโอเพ่นซอร์สรุ่นใหม่ฟรีที่มีจิตวิญญาณของ SoundSource เรามาพูดถึงจุดแข็งของมันอย่างยุติธรรมกันเถอะ เพราะมันมีอยู่จริง:</p>
+
+<ul>
+  <li><strong>ไม่มีค่าใช้จ่ายใดๆ</strong> ไม่มีใบอนุญาต ไม่มีการทดลอง ไม่มีการอัพเกรดจู้จี้จุกจิก</li>
+  <li><strong>แหล่งที่มาเปิดอยู่</strong> คุณสามารถอ่านได้อย่างชัดเจนว่ามันทำอะไร ตรวจสอบความเป็นส่วนตัว และหากคุณรู้จัก Swift ก็สามารถแก้ไขหรือแยกมันได้</li>
+  <li><strong>มันขับเคลื่อนโดยชุมชน</strong> ใครๆ ก็แก้ไขข้อบกพร่องได้ และโค้ดจะอยู่ได้นานกว่าบริษัทใดๆ ก็ตาม</li>
+  <li><strong>ครอบคลุมความต้องการหลัก</strong> ปริมาณต่อแอปที่เป็นอิสระ ซึ่งเป็นฟีเจอร์ที่ผู้คน 90% กำลังค้นหาอยู่จริง</li>
+</ul>
+
+<p>หากข้อกำหนดเดียวของคุณคือ "ให้ฉันปิดแอปหนึ่งแอปโดยไม่ปิดทุกอย่าง" และคุณพอใจกับซอฟต์แวร์ที่ไม่มีฝ่ายสนับสนุนอย่างเป็นทางการ FineTune คือคำตอบที่ถูกต้อง การแนะนำที่นี่ไม่ใช่สัมปทาน แต่เป็นความจริง</p>
+
+<h2>การแลกเปลี่ยนอย่างตรงไปตรงมาของเส้นทาง DIY</h2>
+
+<p>ฟรีและโอเพ่นซอร์สมีค่าใช้จ่ายจริงที่ไม่แสดงบนป้ายราคา สิ่งเหล่านี้ไม่ได้เกิดขึ้นกับ FineTune โดยเฉพาะ แต่เป็นลักษณะของแนวทาง:</p>
+
+<ul>
+  <li><strong>การติดตั้งเป็นแบบแมนนวล</strong> โดยทั่วไปเครื่องมือเสียงโอเพ่นซอร์สจะมีการเผยแพร่ในรูปแบบบิลด์ที่ดาวน์โหลดหรือสูตร Homebrew ไม่ใช่ผ่าน App Store คุณติดตั้งนอกบทวิจารณ์ของ Apple และพร้อมที่จะอัปเดตอยู่เสมอ</li>
+  <li><strong>การสกัดกั้นเสียงต่อแอปมีความเปราะบางตามธรรมชาติ</strong> การกำหนดเส้นทางเสียงของแอปอื่นถือเป็นงานระบบระดับลึก เมื่อ Apple จัดส่งการอัปเดต macOS ที่เปลี่ยนสแต็กเสียง เครื่องมือเหล่านี้อาจเสียหายได้จนกว่าจะมีคนทำการแก้ไข ด้วยโครงการอาสาสมัคร “บางคน” อาจจะยุ่งในเดือนนั้น</li>
+  <li><strong>การสนับสนุนคือความพยายามอย่างดีที่สุด</strong> หากมีสิ่งใดขัดข้อง การขอความช่วยเหลือของคุณคือปัญหา GitHub และการรอ ไม่มีการรับประกันการตอบสนองและไม่มีใครมีหน้าที่แก้ไข</li>
+  <li><strong>ขอบเขตคุณลักษณะคือสิ่งที่ผู้ดูแลจัดส่ง</strong> การควบคุมระดับเสียงหลักน่าจะครอบคลุมอยู่ ความพิเศษขึ้นอยู่กับเวลาของผู้ร่วมให้ข้อมูลทั้งหมด</li>
+</ul>
+
+<blockquote>กรอบที่ซื่อสัตย์: FineTune แลกเงินเพื่อรับผิดชอบในการบำรุงรักษา คุณประหยัดเงินได้ €14.99 และรับความเสี่ยงที่การอัปเดตระบบปฏิบัติการจะพังจนกว่าชุมชนจะตามทัน</blockquote>
+
+<h2>โดยที่ SoundDial แตกต่าง</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ค้าขายตรงกันข้าม คุณจ่ายเพียงครั้งเดียว และในทางกลับกัน คุณจะได้รับผลิตภัณฑ์ App Store โดยมีผู้จำหน่ายอยู่เบื้องหลังและชุดคุณลักษณะที่กว้างขึ้นซึ่งสร้างจากปริมาณต่อแอป:</p>
+
+<ul>
+  <li><strong>ปริมาณต่อแอปและปิดเสียง</strong> — พื้นฐานที่ใช้ร่วมกันที่ทั้งสองแอปนำเสนอ</li>
+  <li><strong>เพิ่มปริมาณต่อแอป</strong> — ผลักดันแอปที่เงียบเกินไปจนเกิน 100% มีประโยชน์สำหรับแอปที่มีเอาต์พุตเสียงอ่อนซึ่งการปิดเสียงผู้อื่นยังไม่เพียงพอ</li>
+  <li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกมิกซ์ทั้งหมด ("การประชุม" "โฟกัส" "การเล่นเกม") และสลับได้ในคลิกเดียวแทนที่จะรีเซ็ตแถบเลื่อนในแต่ละครั้ง</li>
+  <li><strong>Auto-ducking</strong> — ลดระดับแอปพื้นหลังโดยอัตโนมัติเมื่อคุณพูดหรือเมื่อแอปที่เลือกเปิดใช้งานอยู่ การโทรจึงตัดไปโดยไม่ต้องเล่นซอด้วยตนเอง</li>
+  <li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — ข้ามระหว่างลำโพง หูฟัง และเอาต์พุตอื่นๆ จากแถบเมนู</li>
+</ul>
+
+<p>สิ่งสำคัญก็เช่นกัน <em>อย่างไร</em> มันจัดส่ง SoundDial ถูกแซนด์บ็อกซ์และเผยแพร่ผ่าน Mac App Store — ไม่มี DMG แยกกัน ไม่มีไดรเวอร์เคอร์เนล และไม่ได้ติดตั้งไดรเวอร์เสียง การอัปเดตมาผ่าน App Store เช่นเดียวกับแอปอื่นๆ และมีนักพัฒนาตัวจริงคอยส่งอีเมลเมื่อมีสิ่งผิดปกติเกิดขึ้น นั่นคือมูลค่าที่เป็นรูปธรรมของ €14.99: ไม่ใช่แค่คุณสมบัติเพิ่มเติมเท่านั้น แต่ยังมีคนรับผิดชอบในการทำให้คุณสมบัติเหล่านี้ทำงานได้กับรุ่น macOS</p>
+
+<h2>ข้อแม้ที่ซื่อสัตย์ที่ใช้กับทั้งสองอย่าง</h2>
+
+<p>ไม่มีแอปของบริษัทอื่นที่สามารถสร้างระบบเสียงของ macOS ให้เป็น Volume Mixer ของ Windows ได้ เนื่องจาก Apple จะไม่เปิดเผย API สาธารณะที่ปลอดภัยสำหรับเสียงต่อแอป เครื่องมือทุกชิ้นในหมวดหมู่นี้ ไม่ว่าจะฟรีหรือเสียเงิน เปิดหรือปิด ก็สามารถแก้ไขข้อจำกัดดังกล่าวได้โดยใช้เทคนิคเสียงระดับระบบ นั่นหมายความว่าทั้ง FineTune และ SoundDial อาจได้รับผลกระทบจากการเปลี่ยนแปลงเสียงหลักของ macOS ความแตกต่างอยู่ที่ว่าใครเป็นผู้รับผิดชอบในการแก้ไขในภายหลัง: ชุมชนอาสาสมัคร หรือผู้จำหน่ายแบบชำระเงินซึ่งผลิตภัณฑ์ต้องพึ่งพาชุมชนนั้น</p>
+
+<h2>คุณควรเลือกอันไหน?</h2>
+
+<ul>
+  <li><strong>เลือก FineTune ถ้า</strong> คุณต้องการต้นทุนเป็นศูนย์ ให้ความสำคัญกับความโปร่งใสของโอเพ่นซอร์ส ต้องการเพียงปริมาณต่อแอปพื้นฐาน และติดตั้งได้สะดวกนอก App Store และช่วยเหลือตัวเองได้เมื่อเกิดปัญหา</li>
+  <li><strong>เลือก SoundDial ถ้า</strong> คุณต้องการติดตั้ง App Store เพียงคลิกเดียว สิ่งพิเศษต่างๆ เช่น บูสต์ โปรไฟล์ และการลบอัตโนมัติ และความมั่นใจในการอัปเดตและการสนับสนุนจากผู้ขายที่มีสกินในเกม</li>
+</ul>
+
+<p>ทั้งสองถูกต้อง มันขึ้นอยู่กับว่าคุณอยากจะใช้จ่ายเงินหรือให้ความสนใจกันแน่ หากคุณต้องการซื้อแอปที่รองรับแบบแซนด์บ็อกซ์และไม่ต้องคิดถึงมันอีก <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> เพียงจ่ายครั้งเดียว €14.99 — ไม่ต้องสมัครสมาชิก, ไม่มีไดรเวอร์, ไม่มี DMG</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music กับ SoundDial: Volume Mixer Mac ฟรีเพียงพอหรือไม่",
+    description: "การเผชิญหน้ากันอย่างยุติธรรมระหว่างแอป Background Music ฟรีและ SoundDial แบบชำระเงิน แนวทางการใช้งานไดรเวอร์เสมือนฟรีทำงานที่ไหน ใช้งานไม่ได้ และเมื่อใดที่เครื่องผสมเนทิฟ€ 14.99 คุ้มค่า",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>Background Music เป็นบริการฟรีและมีพื้นฐานที่ดีอย่างแท้จริง โดยแต่ละแอปจะมีแถบเลื่อนระดับเสียงของตัวเอง และสามารถหยุดเพลงอัตโนมัติเมื่อแอปอื่นเล่นได้ หากนั่นคือทั้งหมดที่คุณต้องการ ให้ใช้มัน แต่ต้องใช้ไดรเวอร์เสียงเสมือนที่สามารถใช้งานไม่ได้หลังจากอัปเดต macOS และขาดการเพิ่มประสิทธิภาพต่อแอป โปรไฟล์ และการสลับเอาต์พุต <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> แลกเปลี่ยนเงินกับทางเลือกอื่นที่รองรับโดยไม่ต้องใช้ไดรเวอร์ แซนด์บ็อกซ์</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music กับ SoundDial: Volume Mixer Mac ฟรีเพียงพอหรือไม่" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ก่อนอื่น ความจริงอย่างตรงไปตรงมาเกี่ยวกับ macOS</h2>
+<p>macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มี Volume Mixer มานานกว่าทศวรรษ แต่ใน Mac แถบเลื่อนระบบจะย้ายทุกอย่างในคราวเดียว ไม่มี API ที่รองรับ Apple ซึ่งช่วยให้แอปของบริษัทอื่นดักจับและปรับสมดุลสตรีมแอปพลิเคชันแต่ละรายการได้อย่างหมดจด ช่องว่างเพียงจุดเดียวนั้นคือสาเหตุที่ทำให้เครื่องมืออย่าง Background Music และ SoundDial มีอยู่เลย และนี่คือต้นตอของข้อเสียส่วนใหญ่ด้านล่างนี้</p>
+
+<h2>สิ่งที่ Background Music ทำได้ดี</h2>
+<p>Background Music เป็นแอปแถบเมนูโอเพ่นซอร์สที่มีมานานหลายปีและมีผู้ติดตามอย่างภักดีด้วยเหตุผลที่ดี มันช่วยให้คุณ:</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — คุณสมบัติหลัก ลด Spotify ลงพร้อมกับส่งเสียงดัง</li>
+<li><strong>หยุดชั่วคราวอัตโนมัติ</strong> — สามารถหยุดเครื่องเล่นเพลงของคุณชั่วคราวเมื่อเสียงเริ่มเล่นที่อื่น ซึ่งเป็นสิ่งที่ดีสำหรับการประชุม</li>
+<li><strong>วอลุ่มอุปกรณ์ที่ติดตามคุณ</strong> และอินเทอร์เฟซที่เรียบง่ายและไร้สาระ</li>
+<li><strong>ไม่มีค่าใช้จ่าย</strong> — มันฟรีและโค้ดเป็นแบบสาธารณะ</li>
+</ul>
+<p>สำหรับคนจำนวนมากก็พอแล้ว หากรายการความปรารถนาทั้งหมดของคุณคือ "ทำให้แอปหนึ่งที่มีเสียงดังเงียบลงโดยไม่ต้องแตะต้องส่วนที่เหลือ" Background Music จะครอบคลุมสิ่งนั้น และคุณไม่ควรจ่ายเงินสำหรับสิ่งที่คุณไม่ต้องการ ความยุติธรรมเป็นสิ่งสำคัญ: นี่เป็นเครื่องมือที่มีประโยชน์ตามกฎหมาย</p>
+
+<h2>โดยที่แนวทางที่อิสระแสดงให้เห็นรอยตะเข็บ</h2>
+<p>สิ่งที่จับได้คือ <em>อย่างไร</em> Background Music บรรลุปริมาณต่อแอป เนื่องจาก macOS ไม่ได้ให้เส้นทางอย่างเป็นทางการ จึงติดตั้งไดรเวอร์เสียงเสมือน (เวอร์ชันแก้ไขของแนวทาง Soundflower แบบเก่า) ซึ่งจะกำหนดเส้นทางเสียงของระบบของคุณผ่านตัวมันเอง สถาปัตยกรรมนั้นฉลาด แต่มีค่าใช้จ่ายจริง:</p>
+<ul>
+<li><strong>มันพังหลังจากอัพเดต macOS</strong> ไดรเวอร์เสียงเสมือนฝังลึกอยู่ในระบบ และรุ่นหลักๆ ของ macOS ได้ปิดใช้งานหรือทำให้เสถียรในอดีต ผู้ใช้มักรายงานความเงียบ การบิดเบือน หรือความจำเป็นในการติดตั้งใหม่หลังการอัพเกรด เมื่อมันพังคุณมักจะอยู่คนเดียว</li>
+<li><strong>การติดตั้งจะหนักกว่า</strong> คุณกำลังเพิ่มอุปกรณ์เสียงที่ติดกับเคอร์เนลลงใน Mac ของคุณ ไม่ใช่แค่แอป การถอนการติดตั้งอย่างหมดจดสามารถเที่ยวยุ่งยิ่ง</li>
+<li><strong>มันจะกลายเป็นอุปกรณ์ส่งออกเริ่มต้นของคุณ</strong> เนื่องจากทุกอย่างถูกกำหนดเส้นทางผ่านอุปกรณ์เสมือน แอปเสียงระดับมืออาชีพ การประชุม หรือเกมบางแอปจึงอาจทำงานผิดปกติได้ และการสลับเอาต์พุตจริงของคุณถือเป็นขั้นตอนพิเศษ</li>
+<li><strong>การพัฒนาเป็นไปตามชุมชน</strong> ไม่มีโต๊ะสนับสนุน การแก้ไขจะมาถึงเมื่ออาสาสมัครมีเวลา ซึ่งสำหรับเครื่องมือเสียงที่สามารถปิดเสียงลงกะทันหันถือเป็นความเสี่ยงที่สำคัญ</li>
+</ul>
+<p>สิ่งนี้ไม่ได้ทำให้ Background Music แย่ ทำให้เป็นเครื่องมือฟรีโดยมีข้อแลกเปลี่ยนของเครื่องมือฟรี</p>
+
+<h2>สิ่งที่คุณจ่ายจริงด้วย SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นแอป Mac App Store ซึ่งกำหนดรูปแบบของมัน เนื่องจากแอป App Store เป็นแบบแซนด์บ็อกซ์และไม่สามารถจัดส่งไดรเวอร์เสมือนระดับต่ำที่ Background Music ใช้ ได้ SoundDial จึงถูกสร้างขึ้นเพื่อให้ทำงานโดยไม่ต้องติดตั้งอุปกรณ์เสียงหรือ DMG แยกต่างหาก นั่นหมายถึง:</p>
+<ul>
+<li><strong>ไม่มีนิสัยใจคอไดรเวอร์เสมือน</strong> ไม่มีอุปกรณ์เอาท์พุตเพิ่มเติมที่จะขโมยห่วงโซ่เสียงของคุณ และไม่มีสิ่งใดที่ต้องติดตั้งใหม่เมื่อระบบเปลี่ยนแปลง</li>
+<li><strong>มันยังคงมีการอัปเดต macOS ได้อย่างสวยงามยิ่งขึ้น</strong> การกระจาย App Store และแซนด์บ็อกซ์หมายความว่าสร้างขึ้นตามเส้นทางที่รองรับและได้รับการอัปเดตผ่านร้านค้า ดังนั้นการอัปเกรดระบบปฏิบัติการจึงมีโอกาสน้อยมากที่จะทำให้คุณเงียบไป</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> นี่เป็นข้อแตกต่างของคุณสมบัติที่แท้จริง: SoundDial สามารถพุชแอปได้ <em>ด้านบน</em> 100% สำหรับแหล่งเสียงที่เงียบ — พอดแคสต์บันทึกต่ำเกินไป แฮงเอาท์วิดีโอไม่ชัด Background Music ลดทอนลงเท่านั้น</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> บันทึกชุดระดับต่อแอป ("การประชุม" "เพลง" "เกม") และสลับได้ในคลิกเดียวแทนที่จะลากแถบเลื่อนทุกครั้ง</li>
+<li><strong>Auto-ducking</strong> ลดระดับเสียงของแอปอื่นๆ โดยอัตโนมัติเมื่อแหล่งที่เลือกเล่น ซึ่งเป็นแนวคิดในการหยุดอัตโนมัติที่สามารถกำหนดค่าได้มากขึ้น</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> เข้าสู่แถบเมนู พร้อมปิดเสียงต่อแอป</li>
+<li><strong>การสนับสนุนที่แท้จริง</strong> เป็นผลิตภัณฑ์ที่ต้องชำระเงินโดยต้องมีผู้รับผิดชอบเมื่อมีสิ่งผิดปกติเกิดขึ้น</li>
+</ul>
+
+<h2>การตัดสินใจที่ซื่อสัตย์</h2>
+<blockquote>หากคุณต้องการฟรีและต้องการเฉพาะปริมาณต่อแอปขั้นพื้นฐาน และคุณสบายใจในการแก้ไขปัญหาหลังจากอัปเดต macOS แล้ว Background Music เป็นตัวเลือกที่ดี หากคุณต้องการบูสต์ โปรไฟล์ การหลบ การสลับเอาท์พุต ไม่มีความเปราะบางของไดรเวอร์เสมือน และต้องการให้ส่งอีเมลแจ้งเมื่อเกิดการเสียหาย SoundDial มีมูลค่า 14.99 ยูโร</blockquote>
+<p>ไทเบรกเกอร์ที่เป็นรูปธรรมเล็กน้อย หากคุณจัดการกับแหล่งเสียงที่เงียบเกินไปเป็นประจำ การเพิ่มพลังเสียงเพียงอย่างเดียวจะปรับราคาให้เหมาะสม — Background Music ไม่สามารถทำให้เสียงดังกว่าแหล่งกำเนิดได้ หากคุณกลัวการเดิมพัน "เสียงของฉันจะรอดจากการอัปเดต" ประจำปีหรือไม่ แอปร้านค้าแบบแซนด์บ็อกซ์จะขจัดความกังวลนั้นออกไป หากคุณชอบฉากที่ลืมไปแล้ว โปรไฟล์จะช่วยลดความขัดแย้งได้อย่างแท้จริง และเป็นการซื้อเพียงครั้งเดียวที่ €14.99 ไม่ใช่การสมัครสมาชิก ดังนั้นการเปรียบเทียบจึงเป็นการซื้อครั้งเดียวกับเวลาที่คุณใช้ในการดูแลไดรเวอร์ฟรี</p>
+<p>ในทางกลับกัน หากคุณเป็นคนจรจัดที่ชื่นชอบโอเพ่นซอร์ส ต้องการอ่านโค้ด และส่วนใหญ่ปิดแอปเดียว ประหยัดเงินของคุณ เครื่องมือทั้งสองแก้ปัญหาหลักเดียวกัน พวกมันต่างกันในเรื่องความแข็งแกร่ง ความลึกของฟีเจอร์ และใครจะจับคุณได้เมื่อ macOS เปลี่ยนไปอยู่ข้างใต้</p>
+
+<p>ต้องการปริมาณต่อแอปโดยไม่ต้องเดิมพันไดรเวอร์เสมือนหรือไม่? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — ครั้งเดียว €14.99, แซนด์บ็อกซ์, ไม่มีไดรเวอร์, พร้อมบูสต์, โปรไฟล์ และการลบอัตโนมัติในตัว</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "SoundSource มีมูลค่า $39 หรือไม่? ทางเลือก Mac ครั้งเดียวที่ถูกกว่า",
+    description: "SoundSource เป็นเครื่องมือเสียง Mac อันทรงพลัง ในราคาประมาณ 39 เหรียญสหรัฐฯ แต่ถือว่าแพงเกินไปหากคุณต้องการเพียงระดับเสียงและบูสต์ต่อแอปเท่านั้น นี่คือการเปรียบเทียบที่ตรงไปตรงมาและทางเลือกที่จ่ายครั้งเดียวที่ 14.99 ยูโร",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>SoundSource คุ้มค่าหากคุณต้องการชุดเครื่องมือเต็มรูปแบบ: ระดับเสียงต่อแอป, EQ 10 แบนด์ต่อแอป, การกำหนดเส้นทางเสียงระหว่างอุปกรณ์ และเอฟเฟกต์ทั้งระบบ แต่ราคาประมาณ 39 เหรียญสหรัฐฯ นั้นถือว่าแพงเกินไปถ้าคุณต้องการระดับเสียงต่อแอป การปิดเสียงต่อแอป และการเพิ่มระดับเสียงเป็นหลัก สำหรับงานแคบๆ นั้น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ราคา €14.99 หนึ่งครั้ง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource มีมูลค่า $39 หรือไม่? ทางเลือก Mac ครั้งเดียวที่ถูกกว่า" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>สิ่งที่ SoundSource ทำได้จริง</h2>
+<p>SoundSource ของ Rogue Amoeba เป็นซอฟต์แวร์ที่ยอดเยี่ยมอย่างแท้จริง และสิ่งสำคัญคือต้องมีความเป็นธรรมเกี่ยวกับเรื่องนี้ มันไม่ใช่แค่เครื่องผสมระดับเสียง มันช่วยให้คุณ:</p>
+<ul>
+<li><strong>การควบคุมระดับเสียงต่อแอป</strong> จากแถบเมนู ซึ่งเป็นฟีเจอร์ที่คนส่วนใหญ่ใช้</li>
+<li><strong>อีควอไลเซอร์ 10 แบนด์เต็มรูปแบบ</strong> คุณสามารถใช้ต่อแอปหรือทั่วทั้งระบบ รวมถึงเอฟเฟกต์เสียงอื่นๆ (ผ่านปลั๊กอิน Audio Unit)</li>
+<li><strong>การกำหนดเส้นทางเอาท์พุต/อินพุต</strong>รวมถึงการส่งแอปเดียวไปยังอุปกรณ์เอาท์พุตอื่นที่ไม่ใช่ส่วนที่เหลือของระบบ</li>
+<li><strong>การสลับอุปกรณ์อย่างรวดเร็ว</strong> และค่า EQ เฉพาะหูฟัง</li>
+</ul>
+<p>หากคุณเป็นพอดแคสต์ สตรีมเมอร์ หรือผู้เนิร์ดด้านเสียงที่ต้องการปรับแต่ง EQ บนหูฟังของคุณ เปลี่ยนเส้นทางเสียงของแอปหนึ่งไปยังลำโพงแยกต่างหาก หรือซ้อนเอฟเฟกต์ Audio Unit SoundSource จะได้รับราคาของมัน ไม่มีอะไรที่นี่เป็นที่เคาะมัน</p>
+
+<h2>คำถามราคา</h2>
+<p>SoundSource เป็นใบอนุญาตแบบชำระเงินครั้งเดียว ราคาประมาณ 39 ดอลลาร์ (ราคาแตกต่างกันไปตามเวอร์ชันและโปรโมชัน) ไม่ใช่การสมัครสมาชิกซ้ำในแง่ของ Netflix แต่เป็นไปตามรูปแบบแอปที่ต้องซื้อแบบคลาสสิก: คุณซื้อเวอร์ชันหลัก และการอัปเกรดหลักในอนาคตมักจะลดราคาการอัปเกรดที่ต้องชำระเงิน แทนที่จะฟรีตลอดไป หลายปีที่ผ่านมา นั่นเป็นมากกว่าการซื้อเพียงครั้งเดียว สำหรับผู้ใช้ Mac จำนวนมาก คำถามที่ตรงไปตรงมาคือ: ฉันต้องจ่ายเงิน 39 ดอลลาร์สำหรับชุดการกำหนดเส้นทางและ EQ ในเมื่อสิ่งที่ฉันสัมผัสได้จริงๆ คือแถบเลื่อนระดับเสียงต่อแอปหรือไม่</p>
+
+<blockquote>หากคุณเปิด SoundSource และเคยใช้แถบเลื่อนระดับเสียงและปุ่มปิดเสียงเพียงอย่างเดียว คุณจะต้องจ่ายเงินสำหรับชุดอุปกรณ์เพื่อใช้หนึ่งลิ้นชัก</blockquote>
+
+<h2>เหตุใดปัญหาจึงมีอยู่เลย</h2>
+<p>สาเหตุหลักที่แท้จริงคือ macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว Windows มีมาหลายปีแล้ว แต่สำหรับ Mac ระดับเสียงของระบบมีทั้งหมดหรือไม่มีเลย ไม่มีวิธีที่ Apple มอบให้ในการทำให้ Spotify เงียบลงในขณะที่แฮงเอาท์วิดีโอยังคงดังอยู่ หรือปิดเสียงแอปหนึ่งโดยไม่ต้องแตะต้องอย่างอื่นทั้งหมด ช่องว่างนั้นเป็นเหตุผลว่าทำไมเครื่องมืออย่าง SoundSource และ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> มีอยู่จริง มันเป็นข้อจำกัดของระบบปฏิบัติการที่แท้จริง ไม่ใช่สิ่งที่แอปใดสร้างปัญหาขึ้นมาเพื่อแก้ไข</p>
+
+<h2>ในกรณีที่ตัวเลือกที่เบากว่าและราคาถูกกว่าพอดี</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นแถบเมนูตัวปรับแต่งเสียงต่อแอปที่สร้างขึ้นสำหรับกรณีทั่วไปแทนที่จะเป็นกรณี pro-audio ครอบคลุมถึง:</p>
+<ul>
+<li><strong>ปริมาณอิสระต่อแอป</strong> — ปล่อยเพลงของคุณในขณะที่การประชุมยังอยู่ในระดับเต็มรูปแบบ</li>
+<li><strong>ปิดเสียงต่อแอป</strong> - ปิดเสียงแอปเดียวโดยไม่ปิดเสียง Mac</li>
+<li><strong>เพิ่มระดับเสียงต่อแอป</strong> — ผลักดันแอปที่เงียบกว่าปกติ 100% เมื่อแหล่งที่มาเบาเกินไป</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> — บันทึกชุดระดับต่อแอป (เช่น เค้าโครง "โฟกัส" หรือ "การโทร") และสลับได้ในคลิกเดียว</li>
+<li><strong>Auto-ducking</strong> — ลดระดับแอพอื่นๆ โดยอัตโนมัติเมื่อคุณเริ่มพูดหรือเมื่อแอพที่เลือกเล่น</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> — สลับไปมาระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ จากแถบเมนู</li>
+</ul>
+<p>มัน <strong>€14.99 ครั้งเดียว</strong>ซึ่งจำหน่ายผ่าน Mac App Store ดังนั้นจึงเป็นแบบแซนด์บ็อกซ์ และไม่มี DMG แยกต่างหาก ไม่มีส่วนขยายเคอร์เนล และไม่มีไดรเวอร์เสียงให้ติดตั้ง คุณดาวน์โหลดมันเหมือนกับแอพ App Store และอัปเดตผ่านร้านค้า</p>
+
+<h2>การเปรียบเทียบที่ซื่อสัตย์</h2>
+<p>มีสายตาที่ชัดเจนเกี่ยวกับการแลกเปลี่ยน SoundSource ทำมากกว่า SoundDial และหากสิ่งต่อไปนี้สำคัญสำหรับคุณ SoundSource คือการซื้อที่ดีกว่า:</p>
+<ul>
+<li>คุณต้องการแอปหรือระบบต่อแอปจริง <strong>อีควอไลเซอร์</strong> และเอฟเฟ็กต์หน่วยเสียง</li>
+<li>คุณต้อง <strong>กำหนดเส้นทางแอปเดียวไปยังอุปกรณ์เอาต์พุตอื่น</strong> กว่าสิ่งอื่นใด</li>
+<li>คุณพึ่งพา <strong>EQ ที่ตั้งไว้ล่วงหน้าเฉพาะหูฟัง</strong> และการประมวลผลเสียงที่ละเอียด</li>
+</ul>
+<p>SoundDial ไม่ทำ EQ หรือการกำหนดเส้นทางอุปกรณ์ต่อแอป มันจงใจแคบลง สิ่งที่ตอบแทนคุณคือราคาที่ต่ำกว่า รอยเท้าที่เบากว่า และอินเทอร์เฟซแถบเมนูที่เน้นสำหรับสิ่งที่คนส่วนใหญ่ต้องการจริงๆ: ทำให้แต่ละแอปอยู่ในระดับที่คุณเลือก โดยมีการบูสต์และโปรไฟล์อยู่ด้านบน</p>
+
+<h2>แล้ว SoundSource คุ้มมั้ย?</h2>
+<p>ใช่ หากคุณจะใช้ EQ และการกำหนดเส้นทาง เป็นซอฟต์แวร์ที่ครบกำหนดและได้รับการสนับสนุนอย่างดีจากนักพัฒนาที่น่าเชื่อถือ และราคาก็สะท้อนถึงความสามารถที่แท้จริง แต่ "คุ้มค่า" ขึ้นอยู่กับว่าคุณจะสัมผัสอะไร หากคุณเปิดแอปและปรับระดับเสียง ปิดเสียงแอป หรือต้องการให้แอปเงียบๆ ดังขึ้น คุณจะต้องจ่ายเงินชุดพรีเมียมสำหรับความต้องการมิกเซอร์พื้นฐาน ในกรณีนั้น เครื่องมือที่จ่ายครั้งเดียวที่ราคา 14.99 ยูโรจะเหมาะสมกว่า และคุณสามารถเลื่อนขึ้นไปที่ SoundSource ในภายหลังได้เสมอ หากความต้องการของคุณขยายไปสู่ ​​EQ และการกำหนดเส้นทาง</p>
+
+<p>หากระดับเสียงต่อแอป บูสต์ ปิดเสียง โปรไฟล์ และการลบอัตโนมัติคือสิ่งที่คุณต้องการ <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> — €14.99 ครั้งเดียว ไม่มีการสมัครสมาชิก และไม่มีไดรเวอร์</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome ดังเกินไปกับ Mac เหรอ? ปิดเบราว์เซอร์เดียวโดยไม่ปิดเสียงทุกอย่าง",
+    description: "Chrome ระเบิดดังกว่าแอปอื่น ๆ ของคุณบน Mac หรือไม่ เรียนรู้การแก้ไขในตัว (การปิดเสียงต่อแท็บ การตั้งค่าเสียงของไซต์) และวิธีการตั้งค่าระดับเสียงต่อแอปที่แท้จริงสำหรับ Chrome เพื่อให้เสียงเงียบกว่าอย่างอื่น",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มีวอลุ่มต่อแอปในตัว ดังนั้นคุณจึงไม่สามารถลดระดับเสียง Chrome ลงได้ในขณะที่ปล่อยให้แอปอื่นๆ อยู่ที่ระดับเสียงสูงสุด วิธีแก้ไขฟรีที่เร็วที่สุดของคุณคือการปิดเสียงแท็บที่มีเสียงดัง ลดระดับเสียงภายในโปรแกรมเล่นวิดีโอแต่ละตัว หรือการบล็อกเสียงในแต่ละไซต์ในการตั้งค่าของ Chrome หากต้องการระดับเสียงเฉพาะ Chrome ที่แท้จริงและต่อเนื่อง คุณต้องมีมิกเซอร์ต่อแอป</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome เสียงดังเกินไปกับ Mac เหรอ? ปิดเบราว์เซอร์เดียวโดยไม่ปิดเสียงทุกอย่าง" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ทำไม Chrome ถึงให้เสียงที่ดังกว่าอย่างอื่นทั้งหมด</h2>
+<p>การออกแบบของ Chrome ไม่จำเป็นต้อง "ดังกว่า" เสมอไป แต่ Chrome กำหนดเส้นทางเสียงจากแหล่งที่มาอิสระหลายแห่ง เช่น YouTube โฆษณาที่เล่นอัตโนมัติ การสนทนาทางวิดีโอ แท็บเพลงพื้นหลัง และเว็บแอปที่แต่ละแอปมีความดังของตัวเอง บางไซต์เชี่ยวชาญเรื่องฮอต โฆษณาส่งเสียงดังอย่างฉาวโฉ่ และ Chrome เล่นทุกไซต์ที่ระดับเอาต์พุตเต็มระบบของคุณ ในขณะเดียวกัน แอปเพลงหรือการโทรของคุณอาจเงียบกว่า ดังนั้น Chrome จึงครองมิกซ์</p>
+<p>บน Windows คุณเพียงแค่เปิด Volume Mixer แล้วลากแถบเลื่อน Chrome ลง macOS ไม่ได้รวมคุณสมบัตินั้นไว้ ปุ่มปรับระดับเสียงของระบบจะควบคุมทุกอย่างในคราวเดียว ดังนั้นการลด Chrome ลงยังเป็นการปิดเพลง การแจ้งเตือน และการโทรของคุณด้วย นั่นคือข้อจำกัดหลัก — และเป็นช่องว่างของระบบปฏิบัติการ ไม่ใช่สิ่งที่คุณกำลังทำผิด</p>
+
+<h2>การแก้ไขในตัวที่ไม่เสียค่าใช้จ่ายใดๆ</h2>
+<p>ก่อนที่จะติดตั้งสิ่งใดให้ลองทำสิ่งเหล่านี้ พวกเขาไม่ได้ให้ปุ่มปรับระดับเสียง Chrome แก่คุณเลย แต่จะแก้ปัญหา "แท็บเสียงดังเพียงอันเดียว" ได้เกือบทั้งหมด</p>
+<ul>
+<li><strong>ปิดเสียงแท็บที่มีเสียงดัง</strong> คลิกขวาที่แท็บแล้วเลือก "ปิดเสียงไซต์" หรือคลิกไอคอนลำโพงขนาดเล็กที่ปรากฏบนแท็บที่กำลังเล่นเสียง การดำเนินการนี้จะปิดเสียงแท็บนั้นโดยสมบูรณ์โดยไม่ต้องแตะส่วนที่เหลือของ Chrome</li>
+<li><strong>ลดระดับเสียงภายในเครื่องเล่น</strong> เคล็ดลับที่น่าเชื่อถือที่สุด: ลากแถบเลื่อนระดับเสียงลงใน YouTube, Netflix หรืออะไรก็ตามที่เล่นอยู่ ผู้เล่นเว็บจะจดจำระดับของตนเองในแต่ละไซต์ ดังนั้น YouTube ที่เงียบกว่าจะยังคงเงียบในครั้งต่อไป</li>
+<li><strong>บล็อกเสียงต่อไซต์</strong> ไปที่ <em>chrome://settings/content/sound</em>. คุณสามารถพลิกไซต์ระหว่าง "อนุญาต" และ "ปิดเสียง" และเพิ่มโดเมนที่ต้องการลงในรายการปิดเสียงได้ เหมาะสำหรับการปิดเสียงไซต์ที่เล่นอัตโนมัติอย่างถาวร</li>
+<li><strong>ฆ่าโฆษณาที่เล่นอัตโนมัติ</strong> เสียงโฆษณามักเป็นสาเหตุที่แท้จริง ตัวบล็อกเนื้อหาหรือการปิดเสียงแท็บจนกว่าคุณจะพร้อมรับชมจะลบความดังที่น่าประหลาดใจที่สุด</li>
+</ul>
+<blockquote>สิ่งเหล่านี้มีประโยชน์อย่างแท้จริงและฟรี แต่สังเกตสิ่งที่พวกเขาทำไม่ได้: พวกเขาปิดเสียงหรือจัดการแต่ละแท็บ ไม่มีใครให้คุณพูดว่า "เก็บ Chrome ทั้งหมดไว้ที่ 40% ในขณะที่เพลงของฉันอยู่ที่ 100%"</blockquote>
+
+<h2>ข้อจำกัดที่แท้จริง: ไม่มีปริมาณต่อแอปใน macOS</h2>
+<p>หากเป้าหมายที่แท้จริงของคุณคือ "Chrome ควรเงียบกว่าแอปอื่นๆ ของฉันเสมอ" เครื่องมือในตัวก็ไม่เพียงพอ การปิดเสียงต่อแท็บนั้นทำได้ทั้งหมดหรือไม่มีเลย แถบเลื่อนของผู้เล่นจะรีเซ็ตเมื่อไซต์จำไม่ได้และต้องทำใหม่อย่างต่อเนื่อง และปริมาตรของระบบจะย้ายทุกอย่างเข้าด้วยกัน</p>
+<p>นี่เป็นข้อจำกัดของ macOS ที่แท้จริง ไม่ใช่ข้อบกพร่องที่คุณสามารถกำหนดค่าออกไปได้ Apple ไม่เคยจัดส่งเครื่องผสมระดับเสียงแบบ Windows มาให้ วิธีเดียวที่จะได้รับระดับเสียงที่ต่อเนื่องและเป็นอิสระสำหรับ Chrome โดยเฉพาะคือแอพของบริษัทอื่นที่อยู่ระหว่างแอพของคุณและอุปกรณ์เอาท์พุตของคุณ และใช้อัตราขยายต่อแอพ</p>
+
+<h2>กำหนดปริมาณต่อแอปจริงสำหรับ Chrome</h2>
+<p>มิกเซอร์แถบเมนูเช่น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ให้ macOS ควบคุมระดับเสียงต่อแอปที่ขาดหายไป โดยจะแสดงรายการแอปทุกแอปที่กำลังเล่นเสียงและให้แต่ละแอปมีแถบเลื่อนของตัวเอง ดังนั้นคุณจึงสามารถดึง Chrome ลงไปที่ระดับที่สะดวกสบาย และปล่อยให้ Spotify เสียงสายเรียกเข้าของคุณ และระบบส่งเสียงไปในทิศทางเดิม</p>
+<p>ต่อไปนี้เป็นวิธีทำให้ Chrome เชื่องด้วย:</p>
+<ul>
+<li>เปิดตัวผสมแถบเมนูและค้นหา Chrome ในรายการแอปที่ใช้งานอยู่</li>
+<li>ลากแถบเลื่อนของ Chrome ลงไปที่ 40 ถึง 50 เปอร์เซ็นต์ แอพอื่นๆ ยังคงไม่มีใครแตะต้อง</li>
+<li>หากเป็นแอพเฉพาะด้วย <em>เงียบ</em> แทน — แอปโทรที่กระซิบ — ใช้ <a href="https://apps.apple.com/app/id6772792641">เพิ่มระดับเสียงต่อแอป</a> เพื่อดันให้สูงกว่า 100 เปอร์เซ็นต์โดยให้ Chrome ต่ำไว้</li>
+<li>ปิดเสียง Chrome ทันทีด้วยการปิดเสียงต่อแอป เมื่อคุณต้องการปิดเสียงโดยไม่ต้องปิดแท็บ</li>
+</ul>
+<p>เพราะเลเวลมันผูกกับแอพเลยมันติด Chrome จะคงระดับเสียงที่คุณเลือกไว้บนแท็บ ไซต์ และการรีสตาร์ท — ไม่ต้องลากแถบเลื่อนของโปรแกรมเล่นซ้ำทุกครั้งที่คุณเปิดวิดีโอใหม่</p>
+
+<h2>ก้าวไปอีกขั้น: โปรไฟล์ การหลบ และการสลับเอาต์พุต</h2>
+<p>เมื่อคุณมีการควบคุมต่อแอปแล้ว สิ่งพิเศษบางอย่างที่ทำให้มันคุ้มค่าที่จะเก็บไว้ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ช่วยให้คุณประหยัดปริมาณ <strong>โปรไฟล์</strong> — ตัวอย่างเช่น โปรไฟล์ "โฟกัส" ที่ Chrome เงียบและมีเสียงเพลงดัง และโปรไฟล์ "รับชม" ที่ Chrome เหนือกว่า — และสลับระหว่างโปรไฟล์เหล่านั้นได้ในคลิกเดียว การลบอัตโนมัติสามารถจุ่มแอปอื่น ๆ โดยอัตโนมัติเมื่อแหล่งที่เลือกเริ่มต้นขึ้น (สะดวกดังนั้นการโทรจะไม่ถูกฝังอยู่ใต้แท็บเบราว์เซอร์ที่มีเสียงดัง) และการสลับเอาต์พุตอย่างรวดเร็วช่วยให้คุณสลับไปมาระหว่างลำโพง หูฟัง และอุปกรณ์อื่นๆ ได้โดยไม่ต้องไปที่การตั้งค่าระบบ</p>
+<p>เป็นการซื้อครั้งเดียวที่ €14.99 บน Mac App Store — ไม่ต้องสมัครสมาชิก ไม่ต้องติดตั้งไดรเวอร์ ไม่มี DMG หรือส่วนขยายเคอร์เนล เนื่องจากเป็นแบบแซนด์บ็อกซ์และเผยแพร่ผ่าน App Store จึงไม่จำเป็นต้องติดตั้งไดรเวอร์เสียงแบบร่างแบบเดียวกับที่เครื่องมือมิกเซอร์รุ่นเก่าใช้</p>
+
+<h2>คุณควรใช้โปรแกรมแก้ไขใด</h2>
+<p>หากคุณมีแท็บที่น่ารังเกียจอยู่บ้างเป็นครั้งคราว ให้ใช้การตั้งค่าการปิดเสียงและการตั้งค่าเสียงของไซต์ Chrome ซึ่งใช้งานได้ฟรีและใช้งานได้ หากคุณพบว่าตัวเองอยากให้ Chrome ปิดตัวลงในขณะที่ทุกอย่างยังคงอยู่ นั่นคือช่องว่างที่ macOS เปิดทิ้งไว้ และตัวปรับแต่งต่อแอปคือการแก้ไขใหม่ทั้งหมด</p>
+
+<p>ต้องการ Chrome ที่เงียบขึ้นอย่างถาวรโดยไม่ต้องปิดเสียงเพลงหรือสายสนทนาของคุณหรือไม่? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และให้ทุกแอปมีแถบเลื่อนระดับเสียงเป็นของตัวเอง</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "การแจ้งเตือน WhatsApp และ Telegram ฟังดูดังเกินไปใน Mac หรือไม่ ปฏิเสธพวกเขา",
+    description: "แก้ไขเสียงแจ้งเตือนบนเดสก์ท็อป WhatsApp และ Telegram ที่ดังเกินไปใน Mac ของคุณ เริ่มต้นด้วยการตั้งค่าในตัวของแต่ละแอป จากนั้นลดหรือปิดเสียงทั้งแอปเมื่อ macOS ไม่สามารถควบคุมแอปได้",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>เริ่มต้นภายในแต่ละแอป: ทั้ง WhatsApp และ Telegram ให้คุณปิดเสียงหรือเปลี่ยนเสียงการแจ้งเตือนในการตั้งค่าของตัวเอง ซึ่งเป็นการแก้ไขที่ชัดเจนที่สุด แต่ macOS ไม่มีแถบเลื่อนระดับเสียงการแจ้งเตือนต่อแอป ดังนั้นหากเสียงของแอปยังดังเกินไป สิ่งเดียวที่ทำได้จริงคือลดหรือปิดเสียงของแอปทั้งหมดด้วยเครื่องมือปรับระดับเสียงต่อแอป</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — การแจ้งเตือน WhatsApp และ Telegram ฟังดูดังเกินไปใน Mac หรือไม่ ปฏิเสธพวกเขา" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ขั้นแรก ใช้การตั้งค่าการแจ้งเตือนของแอปเอง</h2>
+
+<p>ทั้ง WhatsApp และ Telegram มีระบบควบคุมเสียงของตัวเอง และนี่คือจุดที่คุณควรเริ่มต้นเสมอ เป็นการแก้ไขที่แม่นยำที่สุดและไม่ได้แตะต้องสิ่งอื่นใดบน Mac ของคุณ</p>
+
+<p><strong>เดสก์ท็อป WhatsApp:</strong> เปิด WhatsApp คลิก <em>การตั้งค่า</em> (ไอคอนรูปเฟือง) จากนั้น <em>การแจ้งเตือน</em>. คุณสามารถสลับปิดได้ <em>เสียง</em> ทั้งหมดในขณะที่เก็บแบนเนอร์ไว้ หรือปิดการแสดงตัวอย่างการแจ้งเตือน WhatsApp ไม่มีแถบเลื่อนระดับเสียง ดังนั้นจึงเป็นการเปิดหรือปิดเสียงเป็นหลัก</p>
+
+<p><strong>เดสก์ท็อป Telegram:</strong> เปิด <em>การตั้งค่า → การแจ้งเตือนและเสียง</em>. Telegram มีความยืดหยุ่นมากกว่าที่นี่ คุณสามารถปิดเสียงการแจ้งเตือนทั่วโลก ปิดเสียงแชทแต่ละรายการ หรือตั้งค่าเสียงแบบกำหนดเอง (เงียบกว่า) ได้ คุณยังสามารถปิดเสียงกลุ่มที่มีเสียงดังกลุ่มเดียวได้โดยการเปิดและเลือก <em>ปิดเสียง</em>. สำหรับคนส่วนใหญ่ การปิดเสียงแชทที่ดังที่สุดจะช่วยแก้ปัญหาได้โดยไม่ต้องเงียบไปทุกที่</p>
+
+<p>หากเสียงดีแต่บ่อยเกินไป ให้ปิดเสียงแชทหรือช่องที่ส่งเสียงบ่อยที่สุด แทนที่จะปิดเสียงทั่วทั้งแอป ที่ทำให้การแจ้งเตือนที่สำคัญได้ยิน</p>
+
+<h2>ปิดเสียงการแจ้งเตือนในการตั้งค่าระบบ macOS</h2>
+
+<p>macOS มีการควบคุมชั้นที่สองซึ่งจะแทนที่แอปในบางกรณี ไปที่ <em>การตั้งค่าระบบ → การแจ้งเตือน</em>เลือก WhatsApp หรือ Telegram ในรายการ แล้วปิด <em>เล่นเสียงสำหรับการแจ้งเตือน</em>. การดำเนินการนี้จะปิดเสียงเตือนของแอปนั้นในขณะที่ยังคงแสดงแบนเนอร์อยู่</p>
+
+<p>นี่เป็นการแก้ไขที่ดีจริงๆ หากคุณต้องการให้แอปเงียบเมื่อมีการแจ้งเตือนเท่านั้น และไม่สนใจเสียงอื่นๆ ของแอป (การโทร วิดีโอ) เมื่อรวมกับการตั้งค่าของแอปแล้วจะครอบคลุมข้อร้องเรียน "ping ที่สั่นสะเทือน" ส่วนใหญ่</p>
+
+<h2>ข้อจำกัดที่แท้จริง: macOS ไม่มีปริมาณต่อแอป</h2>
+
+<p>นี่คือส่วนที่ซื่อสัตย์ ขั้นตอนข้างต้นคือสวิตช์เปิด/ปิด สิ่งที่พวกเขาทำไม่ได้คือเปลี่ยน WhatsApp หรือ Telegram <em>ลง</em> กล่าวคือ 40% ในขณะที่เก็บทุกอย่างไว้ที่ระดับเสียงสูงสุด Windows มีตัวปรับแต่งระดับเสียงต่อแอปมานานหลายปี macOS ไม่ได้รวมไว้ และไม่มีการตั้งค่าที่ซ่อนอยู่หรือคำสั่ง Terminal ที่เพิ่มเข้าไป</p>
+
+<p>เรื่องนี้สำคัญเมื่อปัญหาไม่ได้อยู่ที่เสียงแจ้งเตือนโดยเฉพาะ แต่ทั้งแอปดังเกินไป:</p>
+
+<ul>
+<li>WhatsApp หรือ Telegram <strong>การโทรด้วยเสียงและวิดีโอ</strong> ที่ดังเต็มระดับเสียงโดยสัมพันธ์กับเพลงหรือการประชุมของคุณ</li>
+<li>เสียงการแจ้งเตือนที่คุณต้องการคงไว้แต่ในระดับที่ต่ำกว่า ไม่ใช่ปิดทั้งหมด</li>
+<li>เสียงเรียกเข้าที่ดังขึ้นอย่างมากเหนือสิ่งอื่นใดที่คุณกำลังฟัง</li>
+<li>ต้องการให้แอปได้ยินเสียงแต่เงียบๆ ในพื้นหลังในขณะที่คุณมุ่งความสนใจไปที่สิ่งอื่น</li>
+</ul>
+
+<p>ไม่มีสิ่งใดที่สามารถแก้ไขได้ด้วยเครื่องมือในตัว เนื่องจากมีเฉพาะการปิดเสียงเท่านั้น ไม่ใช่ระดับ ช่องว่างนั้นเป็นข้อจำกัดของ macOS ที่แท้จริง ไม่ใช่สิ่งที่คุณขาดหายไป</p>
+
+<h2>ตั้งค่าระดับเสียงต่อแอปด้วย SoundDial</h2>
+
+<p>หากต้องการปิดแอปเดียวแทนที่จะปิด คุณต้องมีตัวปรับแต่งเสียงต่อแอป <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นแอปแถบเมนูที่ให้ macOS ควบคุมระดับเสียงต่อแอปที่ไม่เคยมีมาให้ โดยจะแสดงทุกแอปที่กำลังเล่นเสียงและให้แต่ละแอปมีแถบเลื่อนของตัวเอง</p>
+
+<p>สำหรับปัญหาเฉพาะนี้:</p>
+
+<ul>
+<li>เปิด <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จากแถบเมนูและค้นหา WhatsApp หรือ Telegram ในรายการ</li>
+<li>ลากแถบเลื่อนลงไปที่ระดับที่สะดวกสบาย เช่น 30–40% โดยที่เพลง เบราว์เซอร์ หรือแฮงเอาท์วิดีโอของคุณยังคงเหมือนเดิม</li>
+<li>ใช้ต่อแอป <strong>ปิดเสียง</strong> ปุ่มเพื่อปิดเสียงเฉพาะแอปนั้นทันทีระหว่างการโทรหรือการประชุม จากนั้นจึงเปิดเสียงในภายหลังโดยไม่ต้องเจาะลึกการตั้งค่า</li>
+<li>หากคุณต้องการสิ่งที่ตรงกันข้าม แอปที่เงียบและเบาเกินไปต่อแอป <strong>เพิ่ม</strong> สามารถดันได้เกิน 100%</li>
+</ul>
+
+<p>เนื่องจากกำหนดระดับต่อแอป SoundDial จึงเก็บเสียงแจ้งเตือนและเสียงการโทรที่ได้ยินแต่ได้สัดส่วน แทนที่จะเลือกตัวเลือกทั้งหมดหรือไม่มีเลยที่ตัวเลือกในตัวบังคับใช้กับคุณ คุณยังสามารถบันทึก <strong>โปรไฟล์ปริมาณ</strong>ดังนั้นการตั้งค่า "โฟกัส" ที่ทำให้แอปแชทอยู่ในระดับต่ำก็ทำได้เพียงคลิกเดียว</p>
+
+<blockquote>ข้อแม้ที่ซื่อสัตย์ประการหนึ่ง: การลดระดับเสียงโดยรวมของแอปใน SoundDial ยังช่วยลดเสียงแจ้งเตือนด้วย เนื่องจาก macOS เป็นเสียงของแอปเดียวกัน หากคุณต้องการปิดการแจ้งเตือนโดยสิ้นเชิงแต่มีการโทรที่ระดับเสียงสูงสุด ให้ใช้การปิดเสียงของแอปเองพร้อมการตั้งค่าระบบสำหรับกริ่ง และจอง SoundDial สำหรับการตั้งค่าระดับทั่วไป</blockquote>
+
+<p>SoundDial เป็นการซื้อครั้งเดียวที่ €14.99 บน Mac App Store แบบแซนด์บ็อกซ์ ไม่มีการสมัครสมาชิก ไม่มีไดรเวอร์เคอร์เนล และไม่มี DMG ให้ไซด์โหลด เป็นคำตอบที่ใช้งานได้จริงเมื่อการแก้ไขที่คุณต้องการจริงๆ โดยการปิดแอปหนึ่งแอปแทนที่จะปิด ไม่ใช่สิ่งที่ macOS สามารถทำได้</p>
+
+<h2>คุณควรใช้โปรแกรมแก้ไขใด</h2>
+
+<p>ทำงานจากบนลงล่าง ลองใช้การตั้งค่าการแจ้งเตือนของแอปก่อน จากนั้นจึงตั้งค่าระบบ macOS เพื่อปิดเสียงระฆัง หากสิ่งที่คุณต้องการจริงๆ คือลด WhatsApp หรือ Telegram ลงเป็นระดับเสียงที่ต้องการ หรือปิดเสียงเฉพาะแอปนั้นได้ทันทีระหว่างการโทร นั่นคือจุดที่เครื่องผสมต่อแอปจะเข้ามาแทนที่</p>
+
+<p>เบื่อกับการเลือกระหว่างเสียงเต็มเสียงและความเงียบทั้งหมดสำหรับแอปแชทของคุณหรือไม่? <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และให้ทุกแอปมีปุ่มปรับระดับเสียงเป็นของตัวเอง</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "เสียงเกมดังกว่า Discord บน Mac หรือไม่? วิธีปรับสมดุลเกมและระดับเสียง",
+    description: "เกมของคุณกำลังจะจมอยู่กับการแชทด้วยเสียงของ Discord บน Mac และไม่มีตัวปรับระดับเสียงในตัว นี่คือสาเหตุที่ macOS ไม่มีระดับเสียงต่อแอปแบบ Windows และวิธีปิดเกมในขณะที่ยังคงเปิดเสียงไว้",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มีตัวปรับแต่งระดับเสียงต่อแอปในตัว ดังนั้นคุณจึงไม่สามารถปิดเกมของคุณโดยธรรมชาติในขณะที่ยังคงทำให้ Discord ดังอยู่ได้ การแก้ไขคือแอปแถบเมนูที่ตั้งค่าระดับเสียงแยกกันต่อแอปพลิเคชัน ลดเกมลงเหลือ 40-50% ปล่อยให้แชทด้วยเสียงอยู่ที่ 100% และทั้งคู่จะรักษาสมดุลโดยไม่ต้องแตะแถบเลื่อนในเกม</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — เสียงเกมดังกว่า Discord บน Mac? วิธีปรับสมดุลเกมและระดับเสียง" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดสิ่งนี้จึงเกิดขึ้นกับ Mac (และไม่ใช่บน Windows)</h2>
+
+<p>หากคุณเคยเล่นเกมบน Windows คุณจะรู้จัก Volume Mixer: คลิกขวาที่ไอคอนลำโพง แล้วทุกแอปที่รันอยู่จะมีแถบเลื่อนของตัวเอง คุณทิ้งเกม เพิ่ม Discord เสร็จแล้ว macOS ไม่เคยส่งมอบคุณสมบัตินั้นเลย มีโวลุ่มเอาต์พุตหลักหนึ่งรายการและการสลับระดับแอปจำนวนหนึ่งฝังอยู่ในการตั้งค่าระบบ แต่ไม่มีการควบคุมระดับต่อแอปพลิเคชันสำหรับแอปที่กำหนดเอง</p>
+
+<p>ดังนั้นเมื่อมิกซ์เกมเชี่ยวชาญ การระเบิด เสียงดนตรี และปืนของเกมจะออกมาในระดับเดียวกับเสียงของเพื่อนของคุณ เกมบางเกมมีแถบเลื่อนปรับระดับเสียงหลัก แต่ยังมีอีกหลายเกมที่ยังลดต่ำพอ และตัวเรียกใช้งาน เบราว์เซอร์ และเกมแบบสแตนด์อโลนจำนวนมากไม่มีการควบคุมที่เป็นประโยชน์เลย ตัว Discord ให้คุณปรับระดับเสียงของผู้ใช้ที่เข้ามาเท่านั้น ไม่ใช่เกมที่แข่งขันกับพวกเขา</p>
+
+<p>พูดตามตรง นี่เป็นช่องว่างระดับระบบปฏิบัติการ ไม่ใช่ข้อบกพร่องที่คุณสามารถแก้ไขได้ สแต็กเสียงของ Apple กำหนดเส้นทางทุกอย่างไปยังสตรีมเอาต์พุตเดียว และไม่มี UI บุคคลที่หนึ่งที่จะแยกออกตามแอป นั่นเป็นสาเหตุว่าทำไมคุณต้องมีเครื่องมือจากบุคคลที่สามที่อยู่ระหว่างแอพของคุณและอุปกรณ์เอาท์พุต</p>
+
+<h2>วิธีแก้ปัญหาด้วยตนเอง (และเหตุใดจึงขาด)</h2>
+
+<p>ก่อนที่จะเข้าถึงซอฟต์แวร์ คุณควรทราบตัวเลือกฟรีและขีดจำกัด:</p>
+
+<ul>
+<li><strong>ลดระดับเสียงในแอปของเกม</strong> ใช้งานได้หากเกมมีแถบเลื่อนหลักที่มีขั้นตอนเพียงพอ หลายๆ เพลงหยุดที่ขั้นละ 10% หรือรวมเพลงและเอฟเฟกต์เข้าด้วยกัน คุณจึงควบคุมเฉพาะส่วนที่ดังไม่ได้</li>
+<li><strong>เลี้ยงเพื่อนของคุณใน Discord</strong> คลิกขวาที่ผู้ใช้แต่ละคนและเพิ่มระดับเสียง สิ่งนี้ช่วยได้นิดหน่อยแต่ก็มีประโยชน์สูงสุด และมันไม่ได้กระทบกับเกมที่เป็นปัญหาจริงๆ</li>
+<li><strong>ใช้หูฟังที่มีปุ่มปรับระดับเสียงฮาร์ดแวร์</strong> เปลี่ยนเพียงระดับโดยรวมเท่านั้น ไม่ใช่ความสมดุลระหว่างเกมและเสียง</li>
+<li><strong>กำหนดเส้นทางเสียงผ่านอุปกรณ์เสมือน</strong> เครื่องมืออย่าง Loopback หรือ BlackHole สามารถแยกสตรีมได้ แต่มุ่งเป้าไปที่มือโปร ตั้งค่าจริง และเกินกำลังในการ "ทำให้เกมเงียบลง"</li>
+</ul>
+
+<p>สิ่งเหล่านี้ไม่ได้ให้สิ่งหนึ่งที่ผู้ใช้ Windows มองข้าม: ตัวเลื่อนด่วนต่อแอป นั่นคือช่องว่าง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ถูกสร้างขึ้นเพื่อเติมเต็ม</p>
+
+<h2>การแก้ไขโดยตรง: ปริมาณอิสระต่อแอป</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นแถบเมนูตัวผสมระดับเสียงต่อแอปสำหรับ macOS โดยจะแสดงทุกแอปที่กำลังเล่นเสียงและให้แต่ละแอปมีแถบเลื่อนของตัวเอง เหมือนกับ Windows Volume Mixer สำหรับปัญหาระหว่างเกมกับเสียง ขั้นตอนการทำงานนั้นสั้น:</p>
+
+<ul>
+<li>คลิกไอคอน SoundDial ในแถบเมนูของคุณขณะที่เกมและ Discord กำลังทำงานอยู่</li>
+<li>ค้นหาเกมในรายการและเลื่อนแถบเลื่อนลงไปประมาณ 40-50%</li>
+<li>ปล่อยให้ Discord (หรือ Slack, Zoom หรือแอปเสียงของคุณ) อยู่ที่ 100%</li>
+<li>ปรับเปลี่ยนได้ทันทีระหว่างการเล่น — ดันเกมลงไปอีกด้วยการสู้รบอันดัง และถอยกลับระหว่างการสำรวจอย่างเงียบ ๆ</li>
+</ul>
+
+<p>เนื่องจากระดับต่างๆ เป็นไปตามแอป คุณจึงตั้งค่าเพียงครั้งเดียวและจะคงอยู่ เกมดังกล่าวยังคงถูกต่อยอดไม่ว่ามิกซ์ของตัวเองจะร้อนแรงแค่ไหน และเพื่อนของคุณก็จะได้ยินเสียงเกมนั้นอย่างชัดเจน</p>
+
+<h2>บูสต์ ปิดเสียง และโปรไฟล์สำหรับการตั้งค่าที่เหลือของคุณ</h2>
+
+<p>เครื่องมือเดียวกันนี้ครอบคลุมถึงความรำคาญที่มาพร้อมกับการเล่นเกมด้วยเสียง:</p>
+
+<ul>
+<li><strong>เพิ่มประสิทธิภาพต่อแอป</strong> หากไมค์ของเพื่อนร่วมทีมเงียบแม้ที่ความเร็วสูงสุดของ Discord คุณสามารถกดแอปเสียงได้ <em>ด้านบน</em> 100% ดังนั้นมันจึงตัดผ่านเกมแทนที่จะถูกฝัง</li>
+<li><strong>ปิดเสียงต่อแอป</strong> ปิดเสียงแท็บเบราว์เซอร์พื้นหลังหรือแอปเพลงทันทีโดยไม่ต้องกด Alt หรือปิดการเล่น</li>
+<li><strong>โปรไฟล์ปริมาณ</strong> บันทึกโปรไฟล์ "เกม" โดยที่เกมอยู่ที่ 45% และ Discord เพิ่มขึ้น จากนั้นเปลี่ยนกลับเป็นโปรไฟล์ "ปกติ" สำหรับการใช้งานทุกวันในคลิกเดียว โดยไม่ต้องลากแถบเลื่อนซ้ำในแต่ละเซสชัน</li>
+<li><strong>Auto-ducking</strong> ให้เกมจุ่มลงโดยอัตโนมัติเมื่อมีคนพูด ดังนั้นคำบรรยายภาพจะอยู่เหนือการกระทำเสมอ</li>
+<li><strong>การสลับเอาต์พุตอย่างรวดเร็ว</strong> สลับไปมาระหว่างหูฟังและลำโพงจากเมนูเดียวกันโดยไม่ต้องไปที่การตั้งค่าระบบ</li>
+</ul>
+
+<blockquote><p>โมเดลทางจิตนั้นเรียบง่าย: หนึ่งแถบเลื่อนต่อแอป วิธีที่ Windows ทำมาหลายปี macOS ไม่เคยจัดเตรียมไว้ให้ ดังนั้นยูทิลิตี้ขนาดเล็กจึงคืนค่าความเท่าเทียมกัน</p></blockquote>
+
+<h2>สิ่งที่คาดหวังอย่างตรงไปตรงมา</h2>
+
+<p>ตัวผสมต่อแอปแก้ปัญหาความสมดุลได้หมดจด แต่ตั้งความคาดหวังได้อย่างถูกต้อง โดยจะควบคุมระดับเอาท์พุตของซอฟต์แวร์ — ไม่สามารถแก้ไขเกมที่เสียงของตัวเองมีความบกพร่องได้ และไม่สามารถส่งสัญญาณที่ไม่เคยถูกจับได้ (ไมโครโฟนที่เสียหายอย่างแท้จริงยังคงต้องได้รับการแก้ไขด้วยฮาร์ดแวร์) Boost ช่วยเพิ่มกำไรได้อย่างแท้จริง ดังนั้นการดันแหล่งเสียงที่เงียบเกิน 100% อาจทำให้เกิดการบิดเบือนได้ เหมือนกับการเพิ่มแอมป์ให้สูงเกินไป แม้ว่าจะใช้อย่างสมเหตุสมผล ฝาครอบเกมที่เรียบง่ายพร้อมการเพิ่มเสียงเล็กน้อยก็เป็นสิ่งที่จำเป็นต้องมีในการตั้งค่าส่วนใหญ่</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ถูกแซนด์บ็อกซ์และติดตั้งโดยตรงจาก Mac App Store — ไม่มีไดรเวอร์ ไม่มีส่วนขยายเคอร์เนล ไม่มี DMG ที่จะเชื่อถือ เป็นแบบจ่ายครั้งเดียว €14.99 โดยไม่ต้องสมัครสมาชิก และรองรับการควบคุมระดับเสียง macOS ใน 28 ภาษา</p>
+
+<p>หยุดต่อสู้กับสไลเดอร์ในเกมของคุณ คว้า <a href="https://apps.apple.com/app/id6772792641">SoundDial บน Mac App Store</a>ปิดเกม ทำให้ทีมของคุณดัง และในที่สุดก็ได้ Volume Mixer สไตล์ Windows macOS ลืมจัดส่ง</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "ลำโพงมอนิเตอร์ภายนอกดังเกินไปหรือติดอยู่ที่ Mac? แก้ไขระดับเสียง HDMI/DisplayPort",
+    description: "เหตุใดปุ่มปรับระดับเสียงของ Mac ของคุณจึงไม่ควบคุมลำโพงมอนิเตอร์ HDMI หรือ DisplayPort และวิธีแก้ไขเสียงที่ดังเกินไป ติดขัด หรือไม่สามารถปรับได้โดยใช้ OSD ของมอนิเตอร์ การตั้งค่า Audio MIDI และการกำหนดเส้นทางเอาต์พุตที่ดีกว่า",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หากปุ่มปรับระดับเสียงของ Mac ของคุณเป็นสีเทาหรือไม่ทำอะไรเลยกับจอภาพที่เชื่อมต่อผ่าน HDMI หรือ DisplayPort นั่นมักจะไม่ใช่ข้อบกพร่อง เสียงของจอแสดงผลดิจิทัลมักจะส่งไปที่ระดับคงที่ และฮาร์ดแวร์ของจอภาพจะควบคุมระดับเสียง การแก้ไขคือการปรับการแสดงผล เปลี่ยนเส้นทางเอาต์พุต หรือใช้อุปกรณ์เสียงอื่น</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ลำโพงมอนิเตอร์ภายนอกดังเกินไปหรือติดอยู่ที่ Mac? แก้ไขระดับเสียง HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดปุ่มปรับระดับเสียง Mac จึงหยุดทำงานผ่าน HDMI/DisplayPort</h2>
+
+<p>HDMI และ DisplayPort นำเสียงเป็นสตรีมแบบดิจิทัล จอภาพหลายจอรับสตรีมนั้นที่ระดับเอาต์พุตคงที่ และคาดหวังให้คุณควบคุมความดังบนจอแสดงผล ไม่ใช่บนอุปกรณ์ต้นทาง เมื่อ macOS ตรวจพบสิ่งนี้ มันจะปิดใช้งานแถบเลื่อนระดับเสียงบนหน้าจอ และทำให้ปุ่ม F11/F12 เป็นสีเทา โดยจะแสดงสัญลักษณ์ "ห้ามเข้า" เมื่อคุณกด</p>
+
+<p>นี่เป็นข้อจำกัดด้านฮาร์ดแวร์และโปรโตคอล ไม่ใช่ซอฟต์แวร์บางอย่างใน Mac ที่สามารถแทนที่ได้ เสียงไม่เคยผ่านขั้นตอนที่ macOS ได้รับอนุญาตให้ลดทอนเสียง ไม่มีแอป ไดรเวอร์ หรือการตั้งค่าใดที่สามารถแทรกการควบคุมระดับเสียงลงในสตรีมที่จอแสดงผลยืนยันว่าจะรับที่ระดับเต็ม การซื่อสัตย์เกี่ยวกับเรื่องนี้ช่วยให้คุณประหยัดเวลาหลายชั่วโมงในการไล่ตามการแก้ไขที่ไม่ถูกต้อง</p>
+
+<h2>แก้ไข 1: ใช้การควบคุมของจอภาพ (OSD)</h2>
+
+<p>นี่คือทางออกที่แท้จริงสำหรับคนส่วนใหญ่ จอภาพเกือบทุกจอที่มีลำโพงในตัวจะมีเมนูแสดงผลบนหน้าจอที่ขับเคลื่อนด้วยปุ่มหรือจอยสติ๊กที่ด้านหลังหรือด้านล่างของแผงควบคุม</p>
+
+<ul>
+<li>กดปุ่ม OSD/เมนูเพื่อเปิดการตั้งค่าของจอภาพ</li>
+<li>มองหาส่วนเสียงหรือระดับเสียง</li>
+<li>ลดระดับลง — นี่คือการควบคุมที่ใช้งานได้จริงผ่าน HDMI/DP</li>
+</ul>
+
+<p>จอภาพบางจอยังแสดงแอปที่แสดงร่วมกันหรือการรองรับ DDC/CI เพื่อให้คุณสามารถขับเคลื่อน OSD จาก macOS ยูทิลิตี้ของบริษัทอื่นที่พูด DDC สามารถแมปปุ่มปรับระดับเสียงของ Mac ของคุณกับโวลุ่มฮาร์ดแวร์ของจอภาพ ซึ่งคุ้มค่าที่จะลองหากคุณเกลียดการเอื้อมมือไปที่ปุ่มบนแผง</p>
+
+<h2>แก้ไข 2: ตรวจสอบการตั้งค่าเสียง MIDI</h2>
+
+<p>เปิด <strong>การตั้งค่าเสียง MIDI</strong> (ใน /แอปพลิเคชัน/ยูทิลิตี้) เลือกจอภาพของคุณในรายการอุปกรณ์ หากแถบเลื่อนระดับเสียงปรากฏทางด้านขวา ให้ลากลง บางครั้งจอแสดงผลจะแสดงระดับที่ควบคุมด้วยซอฟต์แวร์ได้แม้ว่าจะปิดใช้งานปุ่มแถบเมนูก็ตาม หากแถบเลื่อนหายไปหรือเป็นสีเทา แสดงว่าจอแสดงผลยืนยันว่ายอมรับเฉพาะเสียงระดับคงที่เท่านั้น และคุณควรถอยกลับไปที่ OSD</p>
+
+<p>ขณะที่คุณอยู่ที่นี่ โปรดยืนยันว่าได้เลือกอุปกรณ์เอาท์พุตที่ถูกต้อง เป็นเรื่องปกติที่เสียงจะถูกส่งไปยังจอภาพที่คุณลืมว่าเชื่อมต่ออยู่ ซึ่งจะอธิบายเสียงดังกะทันหันหรือไม่ได้ยิน</p>
+
+<h2>แก้ไข 3: กำหนดเส้นทางเสียงที่ไหนสักแห่งที่คุณสามารถควบคุมได้จริง</h2>
+
+<p>หากลำโพงของจอภาพของคุณมีคุณภาพปานกลาง (ส่วนใหญ่เป็น) และปุ่มควบคุมระดับเสียงนั้นดูงุ่มง่าม วิธีแก้ไขที่สะอาดที่สุดคือการหยุดใช้งาน:</p>
+
+<ul>
+<li>เสียบลำโพงหรือหูฟังเข้ากับช่องเสียบหูฟังของจอภาพ หากมี ซึ่งโดยปกติแล้วเอาต์พุตแบบอะนาล็อกจะสามารถควบคุมระดับเสียงได้จากจอแสดงผล</li>
+<li>ใช้ USB DAC, ลำโพง USB หรือเอาต์พุต Bluetooth เอาต์พุต USB และอนาล็อกให้การควบคุมระดับเสียงด้วยซอฟต์แวร์เต็มรูปแบบของ macOS ดังนั้นคีย์ของคุณจึงทำงานได้ตามปกติอีกครั้ง</li>
+<li>เลือกลำโพงในตัวของ Mac ของคุณเพื่อให้ได้เสียงที่รวดเร็ว และเก็บจอภาพไว้สำหรับวิดีโอเท่านั้น</li>
+</ul>
+
+<p>เมื่อคุณได้เอาต์พุตที่ macOS สามารถลดทอนลงได้จริง ปุ่มปรับระดับเสียงของระบบจะทำงาน และคุณจะได้รับการควบคุมที่ดีอีกครั้ง แทนที่จะข้ามไปมาระหว่างขั้นตอน OSD หยาบๆ ของจอภาพ</p>
+
+<h2>เมื่อเอาต์พุตใช้งานได้ ให้ควบคุมระดับเสียงต่อแอป</h2>
+
+<p>การรับเอาต์พุตที่ควบคุมได้กลับมาช่วยแก้ปัญหา "ดังเกินไป / ติดขัด" แต่ macOS ยังคงให้มาสเตอร์วอลุ่มเดียวสำหรับทุกสิ่ง ไม่มีมิกเซอร์ต่อแอปในตัวบน Mac — Windows มีมาหลายปีแล้ว แต่ Apple ไม่เคยส่งมิกเซอร์ที่เทียบเท่ากันเลย ดังนั้นวิดีโอที่มีเสียงดัง เกม และการโทรแบบเงียบๆ ล้วนมีแถบเลื่อนเดียวกัน</p>
+
+<p>นั่นคือช่องว่าง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เติม เป็นมิกเซอร์แถบเมนูที่ให้แต่ละแอปมีระดับเสียงที่เป็นอิสระ ดังนั้นคุณจึงสามารถลดแท็บเบราว์เซอร์ลงได้โดยไม่ต้องแตะเพลง ปิดเสียงแอปใดแอปหนึ่งทันที หรือเพิ่มแอปที่เงียบกว่าเพดานปกติ คุณสามารถบันทึกโปรไฟล์ระดับเสียงสำหรับการตั้งค่าต่างๆ และสลับเอาต์พุตได้อย่างรวดเร็วจากแถบเมนู</p>
+
+<p>เพื่อให้ชัดเจนเกี่ยวกับขอบเขต: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ควบคุมระดับเสียงของซอฟต์แวร์สำหรับเสียงที่ไหลผ่าน macOS ไม่สามารถแทนที่จอภาพที่ไม่สนใจระดับเสียงของระบบผ่าน HDMI ได้ นั่นคือลักษณะการทำงานในระดับคงที่ของจอแสดงผล และมีเพียง OSD หรือเอาต์พุตอื่นเท่านั้นที่จะแก้ไขได้ เมื่อคุณใช้เอาต์พุตที่ควบคุมได้ การควบคุมต่อแอปจะเป็นจุดที่แอปโดดเด่น</p>
+
+<h2>รายการตรวจสอบด่วน</h2>
+
+<ul>
+<li>ปุ่มเป็นสีเทาบน HDMI/DP หรือไม่ ใช้ระดับเสียง OSD ของจอภาพ ซึ่งเป็นลักษณะการทำงานที่คาดหวัง</li>
+<li>ตรวจสอบการตั้งค่าเสียง MIDI เพื่อหาแถบเลื่อนซอฟต์แวร์ที่ซ่อนอยู่</li>
+<li>ยืนยันว่าได้เลือกอุปกรณ์เอาท์พุตที่ถูกต้อง</li>
+<li>เพื่อการควบคุมที่แท้จริง ให้กำหนดเส้นทางเสียงไปยังเฮดโฟนเอาท์, USB หรือ Bluetooth</li>
+<li>จากนั้นใช้ตัวผสมต่อแอปเพื่อสร้างสมดุลระหว่างแต่ละแอป</li>
+</ul>
+
+<p>เมื่อผลลัพธ์ของคุณอยู่ภายใต้การควบคุมแล้ว ให้ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ดู เป็นการซื้อครั้งเดียวที่ €14.99 จาก Mac App Store — ไม่ต้องสมัครสมาชิก, ไม่มีไดรเวอร์, ไม่มี DMG — และในที่สุดก็นำตัวปรับแต่งเสียงต่อแอปที่แท้จริงมาสู่ macOS</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "ระดับเสียงของ USB DAC จะไม่ปรับบน Mac? รับซอฟต์แวร์ควบคุมระดับเสียงกลับ",
+    description: "เหตุใด macOS จึงทำให้แถบเลื่อนระดับเสียงของ USB DAC หลายตัวเป็นสีเทา ความหมาย และวิธีการให้ซอฟต์แวร์ควบคุมระดับเสียงกลับมาทำงานบน Mac ของคุณโดยไม่กระทบต่อคุณภาพเสียง",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>หากแถบเลื่อนระดับเสียงของ USB DAC ของคุณเป็นสีเทาบน Mac ก็มักจะไม่ใช่จุดบกพร่อง macOS ปิดใช้งานโวลุ่มซอฟต์แวร์เมื่อ DAC รายงานว่าไม่มีโวลุ่มที่ควบคุมได้ โดยคาดหวังให้คุณใช้ปุ่มหมุนฮาร์ดแวร์ของ DAC เอง หากต้องการรับปริมาณซอฟต์แวร์กลับคืน ให้ใช้ตัวลดทอนระดับแอปเช่น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ระดับเสียงของ USB DAC จะไม่ปรับบน Mac? รับซอฟต์แวร์ควบคุมระดับเสียงกลับ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใด macOS จึงทำให้ระดับเสียงของ USB DAC บางรุ่นเป็นสีเทา</h2>
+
+<p>เมื่อคุณเสียบอุปกรณ์เสียง USB macOS จะถามว่าสามารถทำอะไรได้บ้างผ่านโปรโตคอล USB Audio Class (UAC) ส่วนหนึ่งของการจับมือกันนั้นคือชุดของตัวควบคุม "หน่วยฟีเจอร์" ซึ่งรวมถึงตัวควบคุมระดับเสียงด้วย หาก DAC ประกาศตัวควบคุมระดับเสียง macOS จะต่อสายเข้ากับปุ่มปรับระดับเสียงของแป้นพิมพ์และแถบเลื่อนแถบเมนู หาก DAC ประกาศว่าไม่มีระดับเสียงที่โฮสต์ปรับได้ macOS จะทำให้แถบเลื่อนเป็นสีเทาโดยสมบูรณ์</p>
+
+<p>DAC และแอมป์คุณภาพสูงจำนวนมากทำอย่างหลังนี้โดยตั้งใจ สมมติฐานของนักออกแบบคือคุณจะป้อนสัญญาณดิจิตอลที่สมบูรณ์แบบบิตสมบูรณ์แบบให้กับ DAC และควบคุมความดังด้วยปุ่มปรับระดับเสียงอะนาล็อกบนตัวเครื่อง การลดทอนสัญญาณแอนะล็อกนั้นเกิดขึ้นหลังจากการแปลงดิจิทัลเป็นแอนะล็อก ดังนั้นจึงหลีกเลี่ยงการทิ้งบิตและเป็นเส้นทางที่ผู้รักเสียงเพลงชื่นชอบอย่างแท้จริง มันเป็นคุณสมบัติ ไม่ใช่ความผิด</p>
+
+<blockquote>หลักปฏิบัติ: หาก DAC ของคุณมีปุ่มปรับระดับเสียง และแถบเลื่อน Mac เป็นสีเทา ผู้ผลิตต้องการให้คุณใช้ปุ่มปรับระดับเสียง สัญญาณกำลังถูกส่งไปที่ 100% โดยการออกแบบ</blockquote>
+
+<h2>เมื่อแถบเลื่อนสีเทาเป็นปัญหาจริงๆ</h2>
+
+<p>คำตอบ "เพียงใช้ปุ่มหมุน" แบ่งย่อยในการตั้งค่าจริง:</p>
+
+<ul>
+<li><strong>DAC ไม่มีปุ่มหมุน</strong> USB DACs, ดองเกิล และอินเทอร์เฟซมืออาชีพขนาดกะทัดรัดจำนวนมากไม่มีการควบคุมระดับเสียงและไม่มีการควบคุมโฮสต์เช่นกัน คุณติดอยู่ที่ระดับใดก็ตามของแอมป์ดาวน์สตรีมหรือลำโพงที่ตั้งค่าไว้</li>
+<li><strong>ลูกบิดอยู่ไกลเกินเอื้อม</strong> เดสก์ท็อป DAC ด้านหลังจอภาพของคุณ หรือยูนิตที่จ่ายแอมป์แบบเกนคงที่ การปรับระดับเสียงจะกลายเป็นงานหนักแทนการกดปุ่ม</li>
+<li><strong>คุณต้องมียอดคงเหลือต่อแอป ไม่ใช่แค่ระดับมาสเตอร์</strong> แม้แต่ปุ่มควบคุมฮาร์ดแวร์ที่สมบูรณ์แบบก็ยังเป็นการควบคุมส่วนกลางเพียงปุ่มเดียว ไม่สามารถทำให้การโทร Zoom เงียบกว่าเพลงของคุณ หรือปิดเกมเมื่อมีการแจ้งเตือนเกิดขึ้น</li>
+</ul>
+
+<p>สิ่งเหล่านี้ไม่ได้รับการแก้ไขโดย macOS เนื่องจากจากมุมมองของระบบปฏิบัติการ อุปกรณ์ทำงานอย่างถูกต้อง นี่เป็นข้อจำกัดโดยสุจริต: เป็นความสามารถในการรายงานโดยอุปกรณ์ และไม่มีการสลับในการตั้งค่าระบบเพื่อแทนที่ความสามารถดังกล่าว</p>
+
+<h2>วิธีแก้ปัญหาที่ซื่อสัตย์ก่อนที่คุณจะติดตั้งสิ่งใด</h2>
+
+<p>ลองใช้สิ่งเหล่านี้ก่อน เพราะไม่มีค่าใช้จ่ายใดๆ:</p>
+
+<ul>
+<li><strong>ใช้ปุ่มหมุนฮาร์ดแวร์หรือไดรฟ์ข้อมูลดาวน์สตรีม</strong> หาก DAC หรือลำโพง/แอมป์ขับเคลื่อนของคุณมีการควบคุม นั่นเป็นตัวเลือกที่สะอาดที่สุดและรักษาความละเอียดดิจิทัลเต็มรูปแบบ</li>
+<li><strong>ตรวจสอบแอพหรือเฟิร์มแวร์ของ DAC</strong> DAC บางรุ่น (และยูนิตสำหรับเล่นเกม) มาพร้อมกับแผงควบคุมหรือการตั้งค่าเฟิร์มแวร์ที่เปิดใช้งานโวลุ่มของโฮสต์ หากมีตัวเลือก "ไดรฟ์ข้อมูล USB" หรือ "ไดรฟ์ข้อมูลซอฟต์แวร์" การเปิดใช้งานจะทำให้แถบเลื่อน macOS ทำงานอีกครั้ง</li>
+<li><strong>ลองใช้โหมด USB อื่น</strong> อุปกรณ์บางตัวรายงานความสามารถที่แตกต่างกันในโหมด "คลาส-คอมแพ็กต์" เทียบกับโหมดไดรเวอร์ที่เป็นเอกสิทธิ์ การติดตั้งหรือการถอดไดรเวอร์ของผู้จำหน่ายสามารถเปลี่ยนแปลงได้ว่า macOS จะเห็นตัวควบคุมระดับเสียงหรือไม่</li>
+<li><strong>ดูในการตั้งค่าเสียง MIDI</strong> เปิดการตั้งค่าเสียง MIDI เลือกอุปกรณ์ และตรวจสอบว่ามีระดับเสียงหลักหรือต่อช่องสัญญาณปรากฏอยู่ที่นั่นหรือไม่ ในบางครั้งแถบเลื่อนจะพร้อมใช้งานในแผงนั้นแม้ว่าแถบเมนูจะเป็นสีเทาก็ตาม</li>
+</ul>
+
+<p>หากไม่มีข้อใดข้อหนึ่ง คุณต้องมีซอฟต์แวร์ลดทอนที่ฝั่ง Mac</p>
+
+<h2>การควบคุมระดับเสียงของซอฟต์แวร์พร้อมการลดทอนต่อแอป</h2>
+
+<p>เมื่อฮาร์ดแวร์ไม่ยอมรับคำสั่งโวลุ่ม ตัวเลือกที่เหลือคือการลดทอนเสียงในซอฟต์แวร์ก่อนที่จะถึง DAC นี่คือสิ่งที่ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ทำ โดยจะอยู่ในแถบเมนูของคุณ และช่วยให้แอปที่ทำงานอยู่ทุกแอปมีระดับเสียงที่เป็นอิสระ ปิดเสียง และแม้แต่การเร่งความเร็ว ไม่ว่า DAC ของคุณจะเปิดเผยการควบคุมฮาร์ดแวร์หรือไม่ก็ตาม</p>
+
+<p>หากต้องการใช้กับ DAC ที่เป็นสีเทา:</p>
+
+<ul>
+<li>ติดตั้ง <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จาก Mac App Store และเปิดจากแถบเมนู</li>
+<li>เลือก DAC ของคุณเป็นเอาต์พุตของระบบ คุณยังสามารถใช้การสลับเอาต์พุตอย่างรวดเร็วของ SoundDial เพื่อย้ายไปมาระหว่าง DAC, ลำโพง และหูฟัง โดยไม่ต้องเข้าสู่การตั้งค่าระบบ</li>
+<li>ตั้งค่าระดับต่อแอป: วางเบราว์เซอร์ ยกเครื่องเล่นเพลง ปิดเสียงสิ่งที่คุณไม่ต้องการ แต่ละแอปจะสตรีมตามระดับเสียงที่คุณเลือก และผลลัพธ์แบบผสมจะไปที่ DAC</li>
+<li>บันทึกโปรไฟล์ระดับเสียงสำหรับสถานการณ์ที่แตกต่างกัน (การโทรและการฟัง) และปล่อยให้แอปพื้นหลังที่ต่ำกว่าลดอัตโนมัติเมื่อบางสิ่งที่สำคัญกว่าเริ่มเล่น</li>
+</ul>
+
+<h2>การแลกเปลี่ยนคุณภาพเสียงอย่างซื่อสัตย์</h2>
+
+<p>การลดทอนของซอฟต์แวร์จะลดระดับดิจิทัลก่อนการแปลง ดังนั้นตามทฤษฎีแล้วจะละทิ้งความละเอียดเพียงเล็กน้อยเมื่อเทียบกับโวลุ่มอะนาล็อกบน DAC เอง ในทางปฏิบัติ ในพาธ 24 บิตที่ทันสมัยและสูงกว่าในระดับการฟังปกติ การลดค่าจะต่ำกว่าสิ่งที่ได้ยิน และคุณคงช่วงไดนามิกเต็มรูปแบบของ DAC ไว้สำหรับทุกสิ่งที่เล่นใกล้เต็มสเกล หากคุณเป็นคนพิถีพิถันและมีปุ่มหมุนแบบอะนาล็อกที่ดีอยู่ใกล้แค่เอื้อม ให้ใช้ปุ่มหมุน หากคุณไม่มีการควบคุมฮาร์ดแวร์ที่ใช้งานได้ หรือคุณต้องการความสมดุลต่อแอปที่ macOS ไม่สามารถให้ได้ ปริมาณซอฟต์แวร์ถือเป็นการแลกเปลี่ยนที่เหมาะสม และเหนือกว่าแถบเลื่อนที่ไม่ทำอะไรเลย</p>
+
+<p>SoundDial เป็นการซื้อครั้งเดียวที่ €14.99 แบบแซนด์บ็อกซ์ โดยไม่มีไดรเวอร์ ส่วนขยายเคอร์เนล หรือตัวติดตั้ง DMG หากระดับเสียงของ USB DAC ของคุณเป็นสีเทา และไม่สามารถเข้าถึงปุ่มหมุนได้ <a href="https://apps.apple.com/app/id6772792641">รับ SoundDial บน Mac App Store</a> และนำตัวควบคุมระดับเสียงการทำงานกลับมาที่แถบเมนูของคุณ</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "เพิ่มระดับเสียงสูงสุดของแอปดังๆ หนึ่งแอปบน Mac (ปกป้องการได้ยินของคุณ)",
+    description: "macOS ไม่มีการจำกัดระดับเสียงต่อแอป ดังนั้นแอปที่ส่งเสียงดังเพียงแอปเดียวจึงสามารถส่งเสียงให้คุณดังเต็มระดับเสียงของระบบได้ ต่อไปนี้คือวิธีตั้งค่าเพดานระดับเสียงสูงสุดสำหรับแอปเดียวบน Mac ด้วยตัวผสมต่อแอป และเหตุใดข้อจำกัดของฮาร์ดแวร์จึงมีความสำคัญ",
+    date: "2026-07-23",
+    readTime: "อ่าน 5 นาที",
+    content: `<p>macOS ไม่มีวิธีในตัวที่จะจำกัดระดับเสียงสูงสุดของแอปเดียว ดังนั้นโปรแกรมที่ส่งเสียงดังจะเล่นได้ทุกเมื่อที่แถบเลื่อนระบบของคุณตั้งไว้ หากต้องการกำหนดเพดานสำหรับแอปเดียว ให้ใช้แถบเมนูต่อแอปมิกเซอร์ เช่น <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: ถือแอปนั้นไว้ที่ 40 เปอร์เซ็นต์ในขณะที่ระดับเสียงของระบบของคุณยังคงสูงขึ้นสำหรับทุกสิ่งทุกอย่าง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — เพิ่มระดับเสียงสูงสุดของแอปดังๆ หนึ่งแอปบน Mac (ปกป้องการได้ยินของคุณ)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>เหตุใดแอปหนึ่งจึงสามารถระเบิดคุณใน Mac ได้ในทันที</h2>
+
+<p>บน macOS แถบเลื่อนระดับเสียงในแถบเมนูหรือศูนย์ควบคุมเป็นตัวควบคุมเดียวทั้งระบบ ทุกแอปจะเทลงในเอาต์พุตเดียวกันในระดับเดียวกัน ไม่มีตัวปรับแต่งระดับเสียงต่อแอปที่สร้างไว้ในระบบปฏิบัติการแบบเดียวกับที่ Windows มีมาหลายปีด้วยแผง Volume Mixer</p>
+
+<p>การออกแบบนั้นส่งผลอย่างแท้จริงต่อหูของคุณ หากคุณตั้งค่าระดับเสียงของระบบให้สูงเพื่อให้คุณได้ยินพอดแคสต์แบบเงียบๆ หรือแฮงเอาท์วิดีโอเบาๆ ให้สลับไปที่เกม การแจ้งเตือน Discord เว็บไซต์ที่มีโฆษณาหนาแน่น หรือวิดีโอที่ดังกว่ามาก แอพนั้นจะเล่นที่ระดับระบบทั้งหมดด้วย ผลลัพธ์ที่ได้คือความหวาดกลัวแบบคลาสสิก: กำแพงเสียงกะทันหันในระดับเสียงที่คุณไม่เคยตั้งใจไว้สำหรับแอปนั้น ๆ</p>
+
+<p>สำหรับใครก็ตามที่มีอาการหูอื้อ ไวต่อเสียง หรือผู้ที่ให้ความสำคัญกับการได้ยิน ปัญหาที่ไม่สามารถคาดเดาได้คือปัญหา คุณไม่ได้พยายามทำให้ทุกอย่างเงียบลง คุณกำลังพยายามรับประกันว่าแอปที่มีเสียงดังเพียงแอปเดียวจะต้องไม่เกินระดับที่คุณตัดสินใจว่าปลอดภัย</p>
+
+<h2>สิ่งที่ macOS ทำได้และทำไม่ได้ที่นี่</h2>
+
+<p>ให้ฉันซื่อสัตย์เกี่ยวกับขีด จำกัด ก่อนที่จะแนะนำอะไร</p>
+
+<ul>
+<li><strong>ระดับเสียงของระบบ</strong> ลดทุกอย่างในครั้งเดียว ลดเสียงลงเพื่อให้แอปหนึ่งเชื่องและแอปที่เงียบสงบของคุณจะไม่ได้ยิน</li>
+<li><strong>แถบเลื่อนระดับเสียงในแอป</strong> มีอยู่ในบางแอป (เครื่องเล่นสื่อ บางเบราว์เซอร์ต่อแท็บ) แต่ไม่ใช่ส่วนใหญ่ เกม แฮงเอาท์วิดีโอ หรือแอปเนทีฟมักไม่มีการควบคุมระดับเสียงที่เป็นอิสระเลย</li>
+<li><strong>เพดานฮาร์ดแวร์เป็นของจริง</strong> ไม่มีซอฟต์แวร์ใดที่สามารถส่งสัญญาณที่ดังกว่าค่าสูงสุดของอุปกรณ์เอาท์พุตของคุณได้ ในทางกลับกัน การควบคุมความดังของแอปเอง รวมถึง DAC และหูฟังของคุณ จะกำหนดระดับความดัง "100 เปอร์เซ็นต์" ที่แท้จริง ซอฟต์แวร์สามารถลดระดับต่อแอปได้อย่างน่าเชื่อถือ แต่ไม่สามารถเขียนลักษณะทางฟิสิกส์ของหูฟังของคุณได้ใหม่</li>
+</ul>
+
+<p>ดังนั้นเป้าหมายที่ซื่อสัตย์ไม่ใช่การจำกัดความดังอย่างมหัศจรรย์ที่ระดับคนขับ เป็นการลดทอนต่อแอปที่ใช้งานได้จริงและเชื่อถือได้: ถือแอปที่เลือกไว้ที่เศษส่วนคงที่ของเอาท์พุตของระบบ เพื่อไม่ให้คุณประหลาดใจ</p>
+
+<h2>วิธีจำกัดระดับเสียงของแอปเดียวด้วยมิกเซอร์ต่อแอป</h2>
+
+<p>มิกเซอร์ระดับเสียงต่อแอปจะดักเสียงของแต่ละแอปและช่วยให้คุณตั้งค่าระดับได้อย่างอิสระ นี่คือขั้นตอนการทำงานด้วย <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ซึ่งอยู่ในแถบเมนู:</p>
+
+<ul>
+<li><strong>เปิดเครื่องผสม</strong> คลิกไอคอนแถบเมนู SoundDial คุณจะเห็นรายการแอปทั้งหมดที่เล่นเสียงอยู่ โดยแต่ละแอปมีแถบเลื่อนของตัวเอง</li>
+<li><strong>ค้นหาแอปดัง</strong> ค้นหาแอปที่คุณต้องการเพิ่ม เช่น เกม เบราว์เซอร์ หรือเครื่องมือการประชุมทางวิดีโอ</li>
+<li><strong>ตั้งเพดาน.</strong> ลากแถบเลื่อนของแอปนั้นลงไปที่ระดับที่ปลอดภัย เช่น 35 ถึง 50 เปอร์เซ็นต์ ตอนนี้แอพนั้นเล่นในส่วนนั้นของเอาต์พุตของระบบในขณะที่แอพอื่น ๆ ยังคงอยู่ที่เดิม</li>
+<li><strong>ปล่อยให้วอลลุ่มระบบของคุณอยู่ในตำแหน่งที่คุณต้องการ</strong> รักษาแถบเลื่อนระบบให้สูงเพียงพอสำหรับแอปที่เงียบของคุณ แอปที่ต่อยอดยังคงอยู่โดยไม่คำนึงถึง</li>
+</ul>
+
+<p>เนื่องจากระดับนี้เป็นระดับต่อแอป คุณจึงตั้งค่าสูงสุดสำหรับโปรแกรมนั้นได้อย่างมีประสิทธิภาพ แม้ว่าจะพยายามเล่นเนื้อหาที่ดังที่สุด ตอนนี้ส่วนที่ดังที่สุดที่คุณเลือกคือเศษส่วนเต็มที่คุณเลือก</p>
+
+<h2>ทำให้หมวกติดกับโปรไฟล์</h2>
+
+<p>การปรับด้วยตนเองเพียงครั้งเดียวช่วยได้ แต่ระดับแอปสามารถรีเซ็ตได้เมื่อคุณออกและเปิดใหม่ หากต้องการตั้งค่าที่ปลอดภัยต่อการได้ยินที่รอดจากการรีสตาร์ท ให้ใช้ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>โปรไฟล์ปริมาณของ บันทึกโปรไฟล์ตามระดับแอปที่คุณต้องการ เช่น "คืนเกมที่เงียบสงบ" โดยให้เกมอยู่ที่ 40 เปอร์เซ็นต์ แอปเพลงของคุณอยู่ที่ 70 เปอร์เซ็นต์ และแอปโทรของคุณที่ 90 เปอร์เซ็นต์ เรียกคืนได้ในคลิกเดียวทุกครั้งที่คุณนั่งลง เพดานสำหรับแอปเสียงดังจะกลับมาตรงตามที่คุณตั้งไว้</p>
+
+<p>คุณสมบัติอีกสองประการที่ควรรู้สำหรับการป้องกันการได้ยิน:</p>
+
+<ul>
+<li><strong>ปิดเสียงต่อแอป</strong> ช่วยให้คุณปิดเสียงผู้กระทำความผิดเพียงคนเดียวได้ทันทีโดยไม่ต้องแตะต้องสิ่งอื่นใด ซึ่งมีประโยชน์สำหรับแอปที่ส่งการแจ้งเตือนเสียงดัง</li>
+<li><strong>Auto-ducking</strong> จุ่มเสียงพื้นหลังโดยอัตโนมัติเมื่อบางสิ่งที่สำคัญกว่าเริ่มต้นขึ้น ดังนั้นคุณจะไม่ติดอยู่ระหว่างแหล่งเสียงดังสองแหล่งในคราวเดียว</li>
+</ul>
+
+<blockquote><p>การลดทอนซอฟต์แวร์มีประสิทธิภาพอย่างแท้จริงในการกำหนดแอป แต่เป็นการป้องกันชั้นเดียว ไม่ใช่การป้องกันทางการแพทย์ หากคุณมีหูอื้อหรือไวต่อเสียง ให้จับคู่เพดานต่อแอปกับระดับการฟังโดยรวมและช่วงพักที่เหมาะสม ไม่มีแอปใดมาแทนที่พฤติกรรมการใช้ปริมาณมากอย่างระมัดระวัง</p></blockquote>
+
+<h2>หมายเหตุเกี่ยวกับบูสต์ และเหตุใดจึงแยกจากกัน</h2>
+
+<p>มิกเซอร์ต่อแอปแบบเดียวกันที่ปิดแอปที่มีเสียงดังยังสามารถเพิ่มแอปที่เงียบเกินไปเกิน 100 เปอร์เซ็นต์ได้ ซึ่งสะดวกสำหรับแอปที่มีระดับเสียงต่ำเกินไป นี่คือการควบคุมสองด้านที่เหมือนกัน: คุณเป็นผู้กำหนดระดับของแต่ละแอป ขึ้นหรือลง สำหรับอุปกรณ์ป้องกันการได้ยิน คุณเพียงแค่เลือกทิศทาง "ลง" แล้วค้างไว้ตรงนั้น</p>
+
+<h2>รุ่นสั้น</h2>
+
+<p>macOS จะไม่ยอมให้คุณจำกัดปริมาณของแอปเดียวได้ด้วยตัวเอง และนั่นเป็นช่องว่างของ OS ของแท้ ไม่ใช่ข้อผิดพลาดของผู้ใช้ มิกเซอร์แถบเมนูต่อแอปจะปิดลง: ตั้งค่าแอปเสียงดังให้เป็นเศษส่วนคงที่ บันทึกลงในโปรไฟล์ และแอปนั้นจะไม่ทำให้คุณระเบิดอีกในขณะที่แอปอื่น ๆ ของคุณยังได้ยินเสียงอยู่</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นการซื้อครั้งเดียวที่ €14.99 บน Mac App Store แซนด์บ็อกซ์โดยไม่มีไดรเวอร์หรือ DMG ให้ติดตั้ง หากเป้าหมายในการปกป้องหูของคุณจากแอปที่คาดเดาไม่ได้คือวิธีที่ง่ายที่สุดในการกำหนดเพดานและรักษาไว้</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "ยอดคงเหลือซ้าย/ขวาที่แตกต่างกันต่อแอปบน Mac - เป็นไปได้หรือไม่",
+    description: "คุณสามารถตั้งค่าสมดุลสเตอริโอซ้าย/ขวาที่แตกต่างกันสำหรับแต่ละแอปบน macOS ได้หรือไม่ จริงๆ แล้ว ไม่ใช่ — ไม่ใช่โดยกำเนิด และไม่ใช่ด้วยเครื่องมือส่วนใหญ่ นี่คือสิ่งที่เป็นไปได้จริงและขีดจำกัดที่แท้จริงอยู่ที่ไหน",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>จริงๆ แล้วไม่ — macOS ไม่อนุญาตให้คุณตั้งค่าสมดุลสเตอริโอซ้าย/ขวาที่แตกต่างกันต่อแอปพลิเคชัน และแทบไม่มีเครื่องมือของบุคคลที่สามใดที่เปิดเผยการแพนต่อแอปตามความเป็นจริง คุณสามารถตั้งค่าสมดุลสากลหนึ่งรายการสำหรับอุปกรณ์เอาท์พุตของคุณได้ และคุณสามารถควบคุมต่อแอปได้ <em>ปริมาณ</em>แต่เป็นอิสระต่อแอป <em>กระทะ</em> ไม่ใช่คุณลักษณะที่ macOS ทำให้ใช้งานได้</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ยอดคงเหลือซ้าย/ขวาที่แตกต่างกันต่อแอปบน Mac — เป็นไปได้หรือไม่" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ยอดคงเหลือกับปริมาตร — มันไม่เหมือนกัน</h2>
+
+<p>ควรแยกสองแนวคิดที่มักสับสน:</p>
+<ul>
+  <li><strong>ปริมาณ</strong> — แอปมีเสียงดังแค่ไหนโดยรวม นี่เป็นระดับเดียวที่ใช้กับทั้งสองช่อง</li>
+  <li><strong>ยอดคงเหลือ (กระทะ)</strong> — วิธีกระจายเสียงระหว่างลำโพงซ้ายและขวา ความสมดุลของ "ซ้ายเต็ม" จะส่งทุกอย่างไปยังช่องซ้ายและปิดเสียงทางด้านขวา</li>
+</ul>
+
+<p>คนที่ขอ "ความสมดุลที่แตกต่างกันในแต่ละแอป" มักจะต้องการหนึ่งในสองสิ่งต่อไปนี้: ดันเสียงของแอปหนึ่งไปที่หูข้างเดียว (เช่น เสียงเรียกเข้าหูซ้าย เพลงอยู่ด้านขวา) หรือเพื่อแก้ไขความแตกต่างในการได้ยินหรือลำโพงที่ไม่ดีด้านหนึ่ง - แต่สำหรับบางแอปเท่านั้น นั่นเป็นเป้าหมายที่ถูกต้องตามกฎหมาย ปัญหาคือว่าการควบคุมอยู่ที่ไหน</p>
+
+<h2>เหตุใด macOS จึงไม่สามารถทำได้โดยกำเนิด</h2>
+
+<p>macOS มีการควบคุมสมดุลเพียงอันเดียว และทำงานอยู่ที่ระดับอุปกรณ์เอาต์พุต คุณจะพบมันด้านล่าง <strong>การตั้งค่าระบบ → เสียง → เอาท์พุต</strong>ที่ไหน <em>ยอดคงเหลือ</em> แถบเลื่อนเลื่อนส่วนผสมทั้งหมดไปทางซ้ายหรือขวา ไม่ว่าแถบเลื่อนนั้นจะถูกตั้งค่าให้ใช้กับอะไรก็ตาม <em>ทุกอย่าง</em> ส่งไปยังอุปกรณ์นั้น ทุกแอป ทุกระบบ เสียงพร้อมกัน</p>
+
+<p>ไม่มี API ในกลุ่มเสียง macOS มาตรฐานที่ระบุว่า "แสดงเสียงของแอปนี้ไปทางซ้าย แอปนั้นอยู่ทางขวา" แอพจะส่งเสียงไปยังระบบที่มิกซ์ไว้แล้ว และระบบจะใช้สมดุลหลักหนึ่งอันกับลำโพง ดังนั้นเลเยอร์ที่คุณต้องการแพนต่อแอปจะไม่ถูกเปิดเผยโดยระบบปฏิบัติการ นี่เป็นข้อจำกัดของระบบปฏิบัติการของแท้ ไม่ใช่สิ่งที่ยูทิลิตี้แถบเมนูสามารถแก้ไขได้อย่างสุภาพ</p>
+
+<blockquote>ไม่เหมือนต่อแอป <em>ปริมาณ</em> — macOS ตัวใดที่ยังขาดไปในตัว แต่แอปใดที่สามารถใช้งานได้โดยการแตะสตรีมเสียง — ต่อแอป <em>ความสมดุล</em> จะต้องมีการแพนสตรีมของแต่ละแอปอีกครั้งโดยแยกจากกัน และฮุคนั้นไม่สามารถใช้ได้กับแอปที่อยู่ในแซนด์บ็อกซ์</blockquote>
+
+<h2>สิ่งที่ SoundDial ทำ — และสิ่งที่ทำไม่ได้จริงๆ</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> ให้การควบคุมต่อแอปแก่คุณ macOS หายไป: เป็นอิสระ <strong>ปริมาณ</strong> สำหรับแต่ละแอปที่รันอยู่ ต่อแอป <strong>ปิดเสียง</strong>ปริมาณต่อแอป <strong>เพิ่ม</strong> สูงกว่า 100% ปริมาณที่ประหยัดได้ <strong>โปรไฟล์</strong>, การลบอัตโนมัติ และการสลับเอาต์พุตอย่างรวดเร็วจากแถบเมนู</p>
+
+<p>ที่จะตรงไปตรงมากับคุณ: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> การควบคุมต่อแอป <em>ความดังและการปิดเสียง</em>ไม่ใช่สเตอริโอต่อแอป <em>การแพน</em>. มันจะไม่ส่ง Safari ไปที่หูซ้ายของคุณและ Spotify ไปทางขวาของคุณ หากมีคนบอกคุณว่ามิกเซอร์แถบเมนูทำการปรับสมดุล L/R ต่อแอปจริงบน macOS โปรดอย่าสงสัย นั่นไม่ใช่การควบคุมที่ระบบปฏิบัติการมอบให้ สิ่งที่ SoundDial แก้ไขได้อย่างแท้จริงคือความหงุดหงิดที่พบบ่อยกว่ามาก: แอปหนึ่งดังเกินไปหรือเงียบเกินไปเมื่อเทียบกับอีกแอปหนึ่ง</p>
+
+<h2>วิธีแก้ปัญหาที่แท้จริงสำหรับยอดคงเหลือต่อแอป</h2>
+
+<p>หากคุณต้องการแยกเสียงแบบเคียงข้างกันจริงๆ ต่อไปนี้คือตัวเลือกที่ตรงไปตรงมา เรียงจากง่ายที่สุดไปจนถึงที่เกี่ยวข้องที่สุด:</p>
+
+<ul>
+  <li><strong>ยอดคงเหลือทั่วโลก (ทุกแอป):</strong> ใช้การตั้งค่าระบบ → เสียง → เอาท์พุต → สมดุล นี่เป็นตัวเลือกในตัวเดียวของคุณ และจะมีผลกับทุกแอป มีประโยชน์สำหรับการแก้ไขห้องหรือการได้ยินไม่สมดุล ไม่มีประโยชน์สำหรับการแยกแอปเดียว</li>
+  <li><strong>อุปกรณ์ส่งออกแยกกัน:</strong> นี่คือสิ่งที่ใกล้เคียงกับยอดคงเหลือต่อแอปจริงมากที่สุด กำหนดเส้นทางแอป A ไปยังอุปกรณ์เอาท์พุตเครื่องหนึ่งและแอป B ไปยังอีกเครื่องหนึ่ง จากนั้นตั้งค่าสมดุลของอุปกรณ์แต่ละเครื่องแยกกัน macOS ให้คุณเลือกอุปกรณ์เอาท์พุตภายในบางแอป (และเบราว์เซอร์/แอปการสื่อสารมักจะแสดงตัวเลือกเอาท์พุตของตัวเอง) หากแอป A ชี้ไปที่อุปกรณ์ที่แพนไปทางซ้าย และแอป B ไปยังอุปกรณ์ที่แพนไปทางขวา คุณจะได้รับยอดคงเหลือต่อแอปอย่างมีประสิทธิภาพ ตราบใดที่ทั้งสองแอปให้คุณเลือกเอาต์พุตได้</li>
+  <li><strong>เครื่องมือกำหนดเส้นทางเสียงเสมือน:</strong> ยูทิลิตี้ที่สร้างอุปกรณ์เสมือนและมิกเซอร์ภายในสามารถกำหนดเส้นทางแอพเฉพาะไปยังช่องสัญญาณเฉพาะได้ในการกำหนดค่าบางอย่าง สิ่งนี้ทรงพลังแต่เที่ยวยุ่งยิ่ง เพิ่มองค์ประกอบแบบไดรเวอร์ และเกินความจำเป็นสำหรับคนส่วนใหญ่ เป็นโดเมนของสตรีมเมอร์และวิศวกรเสียง ไม่ใช่การแก้ไขแบบ "call in one ear" แบบทั่วไป</li>
+  <li><strong>การแยกฮาร์ดแวร์:</strong> หากเป็นเรื่องของลำโพงจริงหรือความแตกต่างในการได้ยิน มิกเซอร์ฮาร์ดแวร์หรืออินเทอร์เฟซเสียงที่มีการควบคุมต่อช่องสัญญาณจะก้าวข้ามปัญหาซอฟต์แวร์โดยสิ้นเชิง</li>
+</ul>
+
+<h2>เมื่อปริมาณต่อแอปคือสิ่งที่คุณต้องการจริงๆ</h2>
+
+<p>คำขอ "ฉันต้องการยอดคงเหลือต่อแอป" จำนวนมากมักเป็น "แอปหนึ่งกำลังจมอีกแอปหนึ่ง" หากเป้าหมายคือแฮงเอาท์วิดีโอที่คุณสามารถได้ยินเสียงเพลงของคุณ หรือเกมที่ดังเกินไปข้างการแชทของ Discord ความสมดุลไม่ใช่เครื่องมือ - ระดับเสียงที่เป็นอิสระต่างหาก นั่นคือสิ่งที่มิกเซอร์ต่อแอปจัดการได้อย่างหมดจด โดยไม่ต้องใช้ไดรเวอร์เสมือนหรือยิมนาสติกกำหนดเส้นทาง</p>
+
+<p>สรุปโดยตรงไปตรงมา: ยอดคงเหลือซ้าย/ขวาต่อแอปที่แท้จริงไม่ใช่ฟีเจอร์ macOS และไม่มีแอปตัวผสมใดที่ปลอมแปลงมันได้อย่างน่าเชื่อ เส้นทางที่แท้จริงของคุณคือแถบเลื่อนสมดุลส่วนกลางหรือการกำหนดเส้นทางเอาท์พุตต่อแอปไปยังอุปกรณ์ที่แพนแยกกัน แต่หากความเจ็บปวดที่ซ่อนอยู่นั้นค่อนข้างดัง นั่นแสดงว่าปัญหาได้รับการแก้ไขแล้ว</p>
+
+<p>ต้องการระดับเสียงที่แยกจากกัน ปิดเสียง และบูสต์สำหรับทุกแอปบน Mac ของคุณพร้อมโปรไฟล์ที่บันทึกไว้และไม่มีไดรเวอร์ใช่ไหม <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">รับ SoundDial บน Mac App Store</a> — €14.99 ครั้งเดียว แบบแซนด์บ็อกซ์</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "เหตุใดบางแอปจึงดังกว่าแอปอื่น ๆ ใน Mac มาก (และวิธีที่จะทำให้พวกมันออกมา)",
+    description: "แอปต่างๆ ให้เสียงแตกต่างอย่างมากใน Mac เนื่องจากแอปแต่ละตัวได้รับการปรับแต่งให้ตรงตามเป้าหมายความดังของตัวเอง และ macOS ไม่มีการควบคุมระดับเสียงต่อแอปในตัว นี่คือสาเหตุและวิธีปรับระดับแอปของคุณ",
+    date: "2026-07-23",
+    readTime: "อ่าน 6 นาที",
+    content: `<p>แอปต่างๆ ให้เสียงแตกต่างอย่างมากใน Mac ของคุณ เนื่องจากแต่ละแอปได้รับการแต่ง มาสเตอร์ และปรับมาตรฐานตามเป้าหมายความดังของตัวเอง และ macOS ไม่มีตัวควบคุมระดับเสียงต่อแอปในตัวเพื่อปรับยอด Spotify, YouTube, Zoom และระบบแจ้งเตือนทั้งหมดจะผ่านแถบเลื่อนหลักเดียวกัน ดังนั้นคุณจึงติดอยู่กับการขึ้นลงอย่างต่อเนื่อง</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — เหตุใดบางแอปจึงดังกว่าแอปอื่นๆ ใน Mac มาก (และวิธีที่จะทำให้พวกมันออกมา)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ไม่ใช่ Mac ของคุณ แต่เป็นเสียงนั่นเอง</h2>
+
+<p>แถบเลื่อนระดับเสียงของระบบเดียวบน macOS ควบคุมระดับเอาต์พุตสุดท้ายสำหรับทุกสิ่ง มันไม่ได้สัมผัสกับความดังที่สัมพันธ์กันในสตรีมเสียงของแต่ละแอป พื้นฐานนั้นถูกกำหนดไว้นานก่อนที่เสียงจะไปถึงลำโพงของคุณ และจะแตกต่างกันไปอย่างมากจากแหล่งหนึ่งไปยังอีกแหล่งหนึ่ง</p>
+
+<p>สามสิ่งที่ทำให้เกิดความแตกต่างเหล่านั้น:</p>
+
+<ul>
+<li><strong>ระดับการเรียนรู้</strong> เพลงป๊อปที่หนักแน่นมีความโดดเด่นกว่าการบันทึกเสียงแบบเงียบๆ หรือพอดแคสต์ที่เป็นคำพูดมาก ภาพยนตร์ที่ผสมผสานสำหรับโรงภาพยนตร์จะทำให้เสียงกระซิบเงียบและมีเสียงดังอย่างตั้งใจ นั่นคือช่วงไดนามิก และหมายความว่าระดับเฉลี่ยต่ำ</li>
+<li><strong>เป้าหมายการปรับมาตรฐานความดัง</strong> แพลตฟอร์มสตรีมมิ่งจะปรับการเล่นไปยังเป้าหมายที่วัดได้ใน LUFS (หน่วยความดังที่สัมพันธ์กับ Full Scale) Spotify ตั้งเป้าไว้ที่ -14 LUFS, YouTube ประมาณ -14 LUFS, Apple Music ประมาณ -16 LUFS แอปการประชุมทางวิดีโอหรือเกมใช้ประโยชน์จากตัวมันเองโดยสิ้นเชิง แอพสองตัวที่ "ทำให้เป็นมาตรฐาน" กับเป้าหมายที่แตกต่างกันจะไม่จับคู่กัน</li>
+<li><strong>ไม่มีการปรับระดับข้ามแอป</strong> แต่ละแอปจะปรับเนื้อหาของตัวเองให้เป็นมาตรฐานเท่านั้น ไม่มีอะไรประสาน Spotify กับ Zoom กับเกมเบราว์เซอร์ macOS เพียงรวมพวกมันแล้วส่งออกมิกซ์ออกไป</li>
+</ul>
+
+<h2>เหตุใด LUFS จึงมีความสำคัญ (ในแง่ธรรมดา)</h2>
+
+<p>ระดับสูงสุดจะบอกคุณทันทีที่ดังที่สุดในสัญญาณ LUFS จะบอกคุณว่าจริงๆ แล้วบางสิ่งดังแค่ไหน <em>รู้สึก</em> เมื่อเวลาผ่านไป โดยถ่วงน้ำหนักตามวิธีการทำงานของการได้ยินของมนุษย์ ความแตกต่างนี้คือเหตุผลว่าทำไมพอดแคสต์และแทร็กแดนซ์ถึงจุดสูงสุดเดียวกันแต่กลับให้ความรู้สึกที่แตกต่างจากโลกด้วยเสียงที่ดัง — แทร็กใช้เวลาอยู่ใกล้เพดานมากกว่ามาก</p>
+
+<blockquote>เป้าหมาย LUFS ที่เงียบกว่าหมายถึงพื้นที่ส่วนหัวที่มากขึ้นและช่วงไดนามิกที่มากขึ้น เป้าหมายที่ดังกว่าหมายถึงกำแพงเสียงที่ "เต็มอยู่เสมอ" สม่ำเสมอยิ่งขึ้น ไม่มีอะไรผิด แต่เมื่อแอปกำหนดเป้าหมายไปที่หมายเลขที่แตกต่างกัน คุณจะรู้สึกว่าแอปหนึ่งกรีดร้องและอีกแอปหนึ่งพึมพำ</blockquote>
+
+<p>นั่นคือสาเหตุที่แท้จริง ไม่ใช่ข้อบกพร่องที่คุณสามารถแก้ไขได้ หลักฟิสิกส์ของวิธีการผลิตและส่งมอบเสียง ทวีคูณในแอปหลายสิบแอปที่ไม่เคยออกแบบมาให้สอดคล้องกัน</p>
+
+<h2>ช่องว่าง macOS เปิดทิ้งไว้</h2>
+
+<p>นี่คือส่วนที่ทำให้ผู้คนหงุดหงิดอย่างแท้จริง: Windows ได้จัดส่ง Volume Mixer ต่อแอปมานานหลายปีแล้ว คุณสามารถดึงแอปหนึ่งลงแล้วดันอีกแอปหนึ่งขึ้นจากแถบงานได้โดยตรง macOS ไม่เคยรวมสิ่งนี้ไว้ การตั้งค่าเสียงจะให้เฉพาะแถบเลื่อนหลักและการเลือกอุปกรณ์เอาท์พุตเท่านั้น</p>
+
+<p>ดังนั้นใน Mac ตัวเลือกของคุณจึงมีข้อจำกัด:</p>
+
+<ul>
+<li>ปรับแถบเลื่อนระดับเสียงภายในของแต่ละแอป ถ้ามีด้วย แอปจำนวนมาก (Zoom, เกมส่วนใหญ่, เสียงระฆังของระบบ) ไม่เปิดเผยแอปที่ใช้งานได้</li>
+<li>ขี่แถบเลื่อนหลักด้วยตนเองทุกครั้งที่คุณเปลี่ยนบริบท</li>
+<li>ปิดเสียงสิ่งใดสิ่งหนึ่งโดยสิ้นเชิง ซึ่งเป็นการแก้ไขแบบตรงไปตรงมาซึ่งไม่ได้ทำให้สิ่งใดสมดุลเลย</li>
+</ul>
+
+<p>สิ่งเหล่านี้ไม่จำการตั้งค่าของคุณ ออกและเปิดแอปอีกครั้ง แล้วคุณจะกลับมาที่จุดเดิมอีกครั้ง</p>
+
+<h2>การแก้ไขในทางปฏิบัติ: ปริมาณที่จดจำต่อแอป</h2>
+
+<p>เนื่องจากคุณไม่สามารถบังคับทุกบริการให้มาสเตอร์แค็ตตาล็อกใหม่ได้ วิธีแก้ปัญหาที่ใช้งานได้คือการเพิ่มเลเยอร์ที่ขาดหายไป macOS ที่ไม่เคยจัดส่ง ซึ่งเป็นวอลุ่มที่เป็นอิสระและจดจำไว้สำหรับแต่ละแอป นั่นคือสิ่งที่ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ทำ มันอยู่ในแถบเมนูของคุณและให้แอพที่ทำงานอยู่ทุกตัวมีแถบเลื่อนของตัวเอง ดังนั้นคุณจึงสามารถดึงอันที่ดังลงและดันอันที่เงียบขึ้นจนกว่าพวกมันจะนั่งในระดับที่ให้ความรู้สึกกับคุณ</p>
+
+<p>หากต้องการปรับแอปของคุณในทางปฏิบัติ:</p>
+
+<ul>
+<li>เปิด <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> จากแถบเมนูและคุณจะเห็นแต่ละแอปที่ใช้งานอยู่พร้อมการควบคุมของตัวเอง</li>
+<li>ลดสิ่งใดก็ตามที่กำลังดัง ซึ่งโดยปกติจะเป็นแอปเพลงหรือวิดีโอที่เชี่ยวชาญเรื่องดัง — ให้เหลือประมาณ 60-70%</li>
+<li>ปล่อยให้แอปอ้างอิงแบบเงียบของคุณ (มักจะเป็นแอปโทรหรือพอดแคสต์) อยู่ที่ 100% และใช้ต่อแอป <strong>เพิ่ม</strong> เพื่อดันเกิน 100% หากมันยังอ่อนเกินไป</li>
+<li>ตั้งระดับหนึ่งครั้ง SoundDial จดจำระดับเสียงของแต่ละแอป ดังนั้นยอดคงเหลือจะคงอยู่ในครั้งต่อไปที่คุณเปิด</li>
+</ul>
+
+<p>คุณสมบัติสองประการทำหน้าที่ปรับระดับส่วนใหญ่ที่นี่ <strong>บูสต์</strong> สำคัญเพราะแอปจำนวนมากเงียบเกินไปแม้สูงสุด - ตัวเลื่อนต่อแอปที่ลดระดับเสียงเพียงอย่างเดียวไม่สามารถช่วยเหลือได้ แต่ตัวเลื่อนที่สามารถขยายเกิน 100% ได้ และ <strong>โปรไฟล์ปริมาณ</strong> ช่วยให้คุณบันทึกระดับทั้งชุด — เช่น โปรไฟล์ "เน้นเสียงเพลงต่ำ โทรดัง" สำหรับงานเทียบกับการผสมผสานที่แตกต่างกันสำหรับการเล่นเกม และสลับระหว่างพวกเขาทันที แทนที่จะปรับแอปใหม่ทีละแอป</p>
+
+<h2>สิ่งนี้ช่วยได้มากที่สุด</h2>
+
+<p>ความโล่งใจที่พบบ่อยที่สุดคือการกระโดดระหว่างดนตรีกับการประชุม: การสตรีมเพลงที่เชี่ยวชาญดัง ๆ จากนั้นแอปโทรที่ฟังดูเบาเมื่อเปรียบเทียบ ตั้งค่าแอปการโทรให้สูงขึ้น (หรือเพิ่มระดับเสียง) ดึงเพลงลง และเสียงแกว่งที่น่าตกใจจะหายไป เช่นเดียวกับเกมเบราว์เซอร์ที่เงียบกับเครื่องเล่นวิดีโอที่มีเสียงดัง หรือการแจ้งเตือนของระบบที่ดังเกินความจำเป็น</p>
+
+<p>เพื่อให้ชัดเจนเกี่ยวกับขีดจำกัด: SoundDial ปรับสมดุลผลลัพธ์ของแอปของคุณ จะไม่รีมาสเตอร์แทร็กที่ผลิตออกมาไม่ดี และไม่สามารถสร้างรายละเอียดในเสียงที่ผสมกับช่วงไดนามิกที่กว้างมากได้ สิ่งที่ทำคือให้การควบคุม macOS แก่คุณ — ระดับที่คงที่ต่อแอปที่ยังคงอยู่</p>
+
+<p>เบื่อกับการขี่แถบเลื่อนหลักทุกครั้งที่คุณสลับแอพหรือเปล่า? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> เป็นการซื้อครั้งเดียวที่ €14.99 บน Mac App Store — แบบแซนด์บ็อกซ์ ไม่มีไดรเวอร์ หรือ DMG — และในที่สุดมันก็ทำให้ทุกแอปมีปริมาณการจดจำเป็นของตัวเอง</p>`,
   },
 };

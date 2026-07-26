@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mockup C — Bold / Technical</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{ --bg:#0a0a0a; --fg:#ededed; --muted:#8a8a8a; --line:#1e1e1e; --accent:#d7ff3e; --card:#0f0f0f; }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--fg);font-family:'Space Grotesk',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  .mono{font-family:'JetBrains Mono',monospace}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+  .lbl{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.05em;color:var(--muted);text-transform:uppercase}
+  .lbl b{color:var(--accent)}
+  /* nav */
+  nav{position:fixed;inset:0 0 auto;z-index:50;background:rgba(10,10,10,.85);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  nav .wrap{height:68px;display:flex;align-items:center;justify-content:space-between}
+  .logo{font-weight:700;font-size:15px;letter-spacing:-.01em}
+  .logo span{color:var(--accent)}
+  .nl{display:flex;gap:26px;align-items:center}
+  .nl a{font-family:'JetBrains Mono',monospace;font-size:12.5px;color:var(--muted)}.nl a:hover{color:var(--accent)}
+  /* hero */
+  .hero{padding:150px 0 70px;border-bottom:1px solid var(--line)}
+  .hero .lbl{margin-bottom:26px;display:block}
+  .hero h1{font-size:clamp(46px,9vw,120px);font-weight:700;line-height:.94;letter-spacing:-.03em;text-transform:uppercase}
+  .hero h1 em{font-style:normal;color:var(--accent)}
+  .hero .lead{margin-top:30px;max-width:640px;font-size:18px;color:var(--muted);line-height:1.6}
+  .cta{margin-top:38px;display:flex;gap:14px;flex-wrap:wrap}
+  .b{font-family:'JetBrains Mono',monospace;font-size:13px;padding:15px 26px;text-transform:uppercase;letter-spacing:.05em;border:1px solid var(--line)}
+  .b.fill{background:var(--accent);color:#0a0a0a;border-color:var(--accent);font-weight:700}
+  .b.fill:hover{background:#c2eb2a}
+  .b.line:hover{border-color:var(--accent);color:var(--accent)}
+  /* ticker row */
+  .meta{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--line)}
+  .meta div{padding:26px 24px;border-right:1px solid var(--line)}
+  .meta div:last-child{border-right:0}
+  .meta .n{font-size:26px;font-weight:700}.meta .k{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--muted);margin-top:4px;text-transform:uppercase}
+  /* apps as rows */
+  .sec{padding:0}
+  .sechead{display:flex;justify-content:space-between;align-items:baseline;padding:60px 0 30px}
+  .sechead h2{font-size:clamp(26px,3.4vw,40px);font-weight:700;text-transform:uppercase;letter-spacing:-.01em}
+  .app{display:grid;grid-template-columns:120px 1fr 260px;gap:28px;align-items:center;padding:30px 0;border-top:1px solid var(--line);transition:.25s}
+  .app:hover{background:var(--card)}
+  .app:hover .idx{color:var(--accent)}
+  .idx{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--muted)}
+  .app .mid h3{font-size:30px;font-weight:700;letter-spacing:-.01em;display:flex;align-items:center;gap:14px}
+  .tag{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--accent);border:1px solid var(--line);padding:3px 8px;text-transform:uppercase}
+  .app .mid p{color:var(--muted);font-size:14.5px;margin-top:8px;max-width:560px;line-height:1.55}
+  .shot{height:120px;background:#111 center/cover;border:1px solid var(--line);overflow:hidden;display:flex;align-items:center;justify-content:center}
+  .shot img{width:100%;height:100%;object-fit:cover}
+  .get{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--fg);text-transform:uppercase;letter-spacing:.05em;margin-top:14px;display:inline-block;border-bottom:1px solid var(--accent);padding-bottom:3px}
+  /* guides */
+  .guides{border-top:1px solid var(--line);margin-top:70px}
+  .gg{display:grid;grid-template-columns:repeat(3,1fr)}
+  .g{padding:40px 30px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);transition:.25s}
+  .g:last-child{border-right:0}.g:hover{background:var(--card)}
+  .g .t{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--accent);text-transform:uppercase;margin-bottom:16px}
+  .g h4{font-size:22px;font-weight:600;margin-bottom:10px}.g p{color:var(--muted);font-size:14px;line-height:1.55}
+  .g .c{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--muted);margin-top:20px}
+  footer{border-top:1px solid var(--line);padding:60px 0 46px;margin-top:0}
+  .frow{display:flex;justify-content:space-between;flex-wrap:wrap;gap:18px;align-items:center}
+  .frow a{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--muted);margin-right:20px}
+  @media(max-width:900px){.meta{grid-template-columns:repeat(2,1fr)}.app{grid-template-columns:1fr}.shot{height:200px}.gg{grid-template-columns:1fr}.nl a:nth-child(-n+3){display:none}}
+</style>
+</head>
+<body>
+<nav><div class="wrap">
+  <div class="logo mono">EB<span>_</span>dev</div>
+  <div class="nl"><a href="#apps">/apps</a><a href="#guides">/guides</a><a href="#about">/about</a><a href="#contact">/contact</a></div>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <span class="lbl">// independent software developer — <b>hamburg, de</b></span>
+  <h1>I ship<br><em>native</em> apps.</h1>
+  <div class="lead">iOS &amp; macOS tools built to be small, fast and private — and the multilingual guides that make them findable. Six live, all earning.</div>
+  <div class="cta"><a class="b fill" href="#apps">$ ls ./apps</a><a class="b line" href="#contact">$ ./contact</a></div>
+</div></header>
+
+<div class="wrap"><div class="meta">
+  <div><div class="n">6</div><div class="k">apps live</div></div>
+  <div><div class="n">120+</div><div class="k">guides</div></div>
+  <div><div class="n">30+</div><div class="k">languages</div></div>
+  <div><div class="n">iOS·macOS</div><div class="k">native only</div></div>
+</div></div>
+
+<section class="sec" id="apps"><div class="wrap">
+  <div class="sechead"><h2>// The apps</h2><span class="lbl">app store · live</span></div>
+
+  <div class="app"><div class="idx mono">01</div>
+    <div class="mid"><h3>SoundDial <span class="tag">macOS</span></h3><p>Per-app volume mixer for the menu bar. Profiles, auto-ducking, per-app mute — the mixer macOS never shipped.</p><a class="get" href="https://apps.apple.com/app/id6772792641">→ get</a></div>
+    <div class="shot"><img src="../public/apps/sounddial.png" alt=""></div></div>
+  <div class="app"><div class="idx mono">02</div>
+    <div class="mid"><h3>Pulse <span class="tag">macOS</span></h3><p>Live CPU, memory, GPU, network, battery &amp; temps in your menu bar — with desktop widgets.</p><a class="get" href="https://apps.apple.com/app/id6761375793">→ get</a></div>
+    <div class="shot"><img src="../public/apps/pulse.png" alt=""></div></div>
+  <div class="app"><div class="idx mono">03</div>
+    <div class="mid"><h3>Stash <span class="tag">iOS</span></h3><p>Encrypted vault disguised as a calculator. Hide photos &amp; files behind Face ID, with intruder detection.</p><a class="get" href="https://apps.apple.com/app/id6759873487">→ get</a></div>
+    <div class="shot"><img src="../public/apps/stash-v2.png" alt=""></div></div>
+  <div class="app"><div class="idx mono">04</div>
+    <div class="mid"><h3>Double Calculator <span class="tag">iOS</span></h3><p>Dual-screen calculator with instant VAT/tax for 40+ countries, scientific mode &amp; pinned results.</p><a class="get" href="https://apps.apple.com/app/id6760940001">→ get</a></div>
+    <div class="shot"><img src="../public/apps/double-calculator.png" alt=""></div></div>
+  <div class="app"><div class="idx mono">05</div>
+    <div class="mid"><h3>Fisheye — WideEye <span class="tag">iOS</span></h3><p>Wide, warped, retro fisheye photos &amp; video, straight from your phone.</p><a class="get" href="https://apps.apple.com/app/id6760895260">→ get</a></div>
+    <div class="shot"><img src="../public/apps/fisheye.png" alt=""></div></div>
+  <div class="app"><div class="idx mono">06</div>
+    <div class="mid"><h3>Warden <span class="tag">iOS·Android</span> <span class="tag" style="color:var(--muted)">soon</span></h3><p>One family map, place alerts, check-in and SOS. Privacy-first, no ads, no listening features.</p><a class="get" href="/warden/privacy">→ learn more</a></div>
+    <div class="shot" style="background:#0d1a12"><span class="mono" style="color:var(--accent);font-size:22px">warden</span></div></div>
+</div></section>
+
+<section class="guides" id="guides"><div class="wrap"><div class="sechead"><h2>// Guides</h2><span class="lbl">indexed · 30+ languages</span></div></div>
+  <div class="wrap"><div class="gg">
+    <a class="g" href="/pulse/blog"><div class="t">pulse/</div><h4>Mac performance</h4><p>CPU temps, network speed, memory pressure — the searches, answered.</p><div class="c">40+ articles →</div></a>
+    <a class="g" href="/sounddial/blog"><div class="t">sounddial/</div><h4>Mac audio fixes</h4><p>FaceTime too quiet, per-app volume, night-mode audio.</p><div class="c">50+ articles →</div></a>
+    <a class="g" href="/vault/blog"><div class="t">stash/</div><h4>iPhone privacy</h4><p>Hiding photos, secret vaults, Face ID vs passcode.</p><div class="c">30+ articles →</div></a>
+  </div></div>
+</section>
+
+<footer id="contact"><div class="wrap"><div class="frow">
+  <div class="logo mono">EB<span style="color:var(--accent)">_</span>dev</div>
+  <div><a href="#apps">/apps</a><a href="#guides">/guides</a><a href="/impressum">/impressum</a><a href="/datenschutz">/datenschutz</a><a href="/support">/support</a></div>
+  <div class="mono" style="color:#555;font-size:12px">© 2026 eduard bruch · hamburg</div>
+</div></div></footer>
+</body>
+</html>

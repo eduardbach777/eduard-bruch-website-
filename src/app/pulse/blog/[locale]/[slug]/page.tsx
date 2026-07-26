@@ -103,9 +103,9 @@ export default async function ArticlePage({
   const nextArticle = allArticles[(currentIndex + 1) % allArticles.length];
 
   return (
-    <main className="min-h-screen bg-neutral-950 text-white" dir={isRtl ? "rtl" : undefined}>
+    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined}>
       {/* Top Bar */}
-      <div className="px-6 pt-10 sm:pt-16 max-w-4xl mx-auto">
+      <div className="px-6 pt-36 max-w-4xl mx-auto">
         <Link
           href={`/pulse/blog/${locale}`}
           className="inline-flex items-center gap-2 text-sm font-medium text-neutral-400 hover:text-white transition group"
@@ -132,7 +132,7 @@ export default async function ArticlePage({
               href={`/pulse/blog/${loc.code}/${slug}`}
               className={`rounded-full px-4 py-1.5 text-xs font-medium transition-all ${
                 loc.code === locale
-                  ? "bg-indigo-500 text-white"
+                  ? "bg-[#d4ad5e] text-black"
                   : "bg-neutral-800 text-neutral-400 hover:bg-neutral-700 hover:text-white"
               }`}
             >
@@ -144,10 +144,10 @@ export default async function ArticlePage({
 
       {/* Article Header */}
       <header className="px-6 pt-12 pb-10 sm:pt-16 sm:pb-14 max-w-4xl mx-auto">
-        <time className="text-sm font-medium uppercase tracking-wider text-indigo-400">
+        <time className="text-sm font-medium uppercase tracking-wider text-[#d4ad5e]">
           {article.date}
         </time>
-        <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-[1.1] tracking-tight">
+        <h1 className="font-serif mt-4 text-4xl sm:text-5xl lg:text-6xl font-semibold text-white leading-[1.1] tracking-tight">
           {article.title}
         </h1>
         <p className="mt-6 text-xl text-neutral-300 font-light leading-relaxed max-w-2xl">
@@ -166,18 +166,18 @@ export default async function ArticlePage({
           className={[
             "max-w-3xl",
             "text-[17px] leading-[1.8]",
-            "[&_h2]:text-2xl [&_h2]:sm:text-3xl [&_h2]:font-bold [&_h2]:text-white [&_h2]:mt-12 [&_h2]:mb-4 [&_h2]:leading-tight [&_h2]:tracking-tight",
-            "[&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-white [&_h3]:mt-8 [&_h3]:mb-3 [&_h3]:leading-snug",
+            "[&_h2]:font-serif [&_h2]:text-2xl [&_h2]:sm:text-3xl [&_h2]:font-semibold [&_h2]:text-white [&_h2]:mt-12 [&_h2]:mb-4 [&_h2]:leading-tight [&_h2]:tracking-tight",
+            "[&_h3]:font-serif [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-white [&_h3]:mt-8 [&_h3]:mb-3 [&_h3]:leading-snug",
             "[&_p]:text-neutral-200 [&_p]:mb-5",
             "[&_ul]:space-y-2 [&_ul]:mb-6 [&_ul]:text-neutral-200 [&_ul]:list-disc [&_ul]:pl-5",
             "[&_ol]:space-y-2 [&_ol]:mb-6 [&_ol]:text-neutral-200 [&_ol]:list-decimal [&_ol]:pl-5",
             "[&_li]:pl-1 [&_li]:leading-relaxed",
-            "[&_a]:text-indigo-400 [&_a]:hover:text-indigo-300 [&_a]:underline [&_a]:underline-offset-2",
+            "[&_a]:text-[#d4ad5e] [&_a]:hover:text-[#e0bd72] [&_a]:underline [&_a]:underline-offset-2",
             "[&_strong]:text-white [&_strong]:font-semibold",
             "[&_table]:w-full [&_table]:border-collapse [&_table]:mb-6 [&_table]:text-sm",
             "[&_th]:border [&_th]:border-neutral-700 [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:text-white [&_th]:bg-neutral-800/80 [&_th]:font-semibold",
             "[&_td]:border [&_td]:border-neutral-700 [&_td]:px-4 [&_td]:py-3 [&_td]:text-neutral-200",
-            "[&_blockquote]:border-l-4 [&_blockquote]:border-indigo-500 [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
+            "[&_blockquote]:border-l-4 [&_blockquote]:border-[#d4ad5e] [&_blockquote]:pl-5 [&_blockquote]:italic [&_blockquote]:text-neutral-300 [&_blockquote]:my-6",
           ].join(" ")}
           dangerouslySetInnerHTML={{ __html: article.content }}
         />
@@ -188,18 +188,18 @@ export default async function ArticlePage({
         <section className="px-6 pb-8 max-w-4xl mx-auto">
           <Link
             href={`/pulse/blog/${locale}/${nextArticle.slug}`}
-            className="group block rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-indigo-500/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-indigo-500/5"
+            className="group block rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-[#d4ad5e]/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-[#d4ad5e]/5"
           >
             <span className="text-xs font-medium uppercase tracking-wider text-neutral-500">
               {l.nextArticle}
             </span>
-            <h3 className="mt-2 text-xl font-bold text-white leading-snug group-hover:text-indigo-400 transition-colors">
+            <h3 className="font-serif mt-2 text-xl font-semibold text-white leading-snug group-hover:text-[#d4ad5e] transition-colors">
               {nextArticle.title}
             </h3>
             <p className="mt-2 text-sm text-neutral-400 leading-relaxed">
               {nextArticle.description}
             </p>
-            <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-indigo-400 group-hover:gap-2 transition-all">
+            <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-[#d4ad5e] group-hover:gap-2 transition-all">
               {l.nextArticle}
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d={isRtl ? "M15 19l-7-7 7-7" : "M9 5l7 7-7 7"} />
@@ -211,8 +211,8 @@ export default async function ArticlePage({
 
       {/* CTA Banner */}
       <section className="px-6 py-16 max-w-4xl mx-auto">
-        <div className="rounded-3xl bg-gradient-to-br from-indigo-600/20 to-indigo-900/20 border border-indigo-500/20 px-8 py-12 sm:px-14 text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white">
+        <div className="rounded-3xl bg-gradient-to-br from-[#d4ad5e]/15 to-[#d4ad5e]/5 border border-[#d4ad5e]/25 px-8 py-12 sm:px-14 text-center">
+          <h2 className="font-serif text-3xl sm:text-4xl font-semibold text-white">
             Try Pulse for Free
           </h2>
           <p className="mt-4 text-lg text-neutral-300 max-w-md mx-auto">
@@ -223,7 +223,7 @@ export default async function ArticlePage({
             href={appStoreUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-8 inline-block rounded-full bg-indigo-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-indigo-400 shadow-lg shadow-indigo-500/30"
+            className="mt-8 inline-block rounded-full bg-[#d4ad5e] text-black px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-[#e0bd72] shadow-lg shadow-[#d4ad5e]/30"
           >
             {l.download}
           </a>
@@ -241,7 +241,7 @@ export default async function ArticlePage({
           </Link>
           <Link
             href={`/pulse/blog/${locale}`}
-            className="text-indigo-400 font-medium hover:text-indigo-300 transition"
+            className="text-[#d4ad5e] font-medium hover:text-[#e0bd72] transition"
           >
             Blog
           </Link>

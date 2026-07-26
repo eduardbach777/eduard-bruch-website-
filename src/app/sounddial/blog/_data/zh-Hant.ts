@@ -40,7 +40,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你透過獨立控制每個應用程式來建立清晰的錄音環境：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Podcast 設定——來賓音訊、監聽和通知在獨立的音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Podcast 設定——來賓音訊、監聽和通知在獨立的音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>錄音配置</h3>
 <ul>
@@ -98,7 +98,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為每個應用程式提供其自己的音量滑桿，從 0% 到 200% 以 <strong>1% 為增量</strong>。與 macOS 的 16 個（或使用修飾鍵時 64 個）全系統步驟相比，每個應用程式有 200 個精確度等級。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上對每個應用程式提供 1% 精確度的精細音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上對每個應用程式提供 1% 精確度的精細音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>將系統音量設定為中等基準（50-60%），然後使用 SoundDial 微調每個應用程式：</p>
 <ul>
@@ -149,7 +149,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為 Slack 提供其自己的音量滑桿，與所有其他應用程式分開。由於 Slack 的即時通話音訊和通知聲是同一應用程式的一部分，滑桿控制兩者——但大多數情況下這正是你想要的。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上即時通話期間獨立控制 Slack 音量，同時音樂在不同音量播放" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上即時通話期間獨立控制 Slack 音量，同時音樂在不同音量播放" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>即時通話最佳化設定</h3>
 <ul>
@@ -198,7 +198,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 有一個新應用程式的<strong>可配置預設音量</strong>。在設定中，你設定新偵測到的應用程式應該從什麼音量等級開始——例如 70%。任何應用程式第一次啟動並產生音訊時，SoundDial 將其設定為 70% 而不是 100%。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 預設音量設定——新應用程式以配置的等級開始，而不是全爆" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 預設音量設定——新應用程式以配置的等級開始，而不是全爆" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這意味著：</p>
 <ul>
@@ -253,7 +253,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為你 Mac 上的每個應用程式提供自己的音量滑桿。將通知應用程式設低，音樂在舒適的等級，通話在全音量——全部獨立。將配置儲存為配置，一鍵切換。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial——獨立管理所有 Mac 音訊來源的逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——獨立管理所有 Mac 音訊來源的逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">在 Mac App Store 取得 SoundDial</a>——€14.99 一次性購買，無訂閱，macOS 14.2+。</p>
 `,
@@ -304,7 +304,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>如果設定已最大化且參與者仍然太安靜，<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將 Webex 提升到 <strong>200%</strong>。這將通話音訊放大超過 Webex 的內建最大值——當參與者有劣質麥克風或 Webex 的音訊處理過度降低訊號時很有用。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Cisco Webex 通話音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Cisco Webex 通話音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial 在連續的 Webex 會議中也有幫助：使用自動閃避在每次會議開始時自動降低背景音樂，並在休息期間恢復。儲存「會議」音量配置以便立即設定工作日的首選音訊平衡。</p>
 
@@ -347,7 +347,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 將每個應用程式放在一個選單列面板中，具有獨立的音量滑桿。兩個音訊來源，並排，各有自己的等級。調整一個而不觸碰另一個。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示兩個音訊來源在不同音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示兩個音訊來源在不同音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>範例設定：</p>
 
@@ -411,7 +411,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你創建完美的深夜設定：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 深夜電影設定——串流應用程式在中等音量，通知靜音" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 深夜電影設定——串流應用程式在中等音量，通知靜音" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>深夜電影配置</h3>
 <ul>
@@ -473,7 +473,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>即使系統音量在睡眠後重置，<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 也保護你的<em>逐應用程式</em>音量平衡。它的<strong>音量記憶</strong>功能獨立儲存每個應用程式的音量，並在喚醒、重啟或應用程式重新啟動後恢復。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 睡眠和喚醒循環後保留逐應用程式音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 睡眠和喚醒循環後保留逐應用程式音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>因此，即使 macOS 在睡眠後將系統音量重置為 80%，你的逐應用程式平衡保持不變：</p>
 <ul>
@@ -518,7 +518,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你為每個應用程式獨立設定精確音量：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上分離 DAW 輸出與 Discord 和參考音軌進行音樂製作" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上分離 DAW 輸出與 Discord 和參考音軌進行音樂製作" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>製作設定</h3>
 <ul>
@@ -586,7 +586,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將 Apple Music 提升到 <strong>200%</strong>。音訊訊號在系統等級上被放大，在到達你的喇叭或耳機之前。只有 Apple Music 變得更大聲——Zoom、Slack 和你的瀏覽器保持在它們當前的等級。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Apple Music 音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Apple Music 音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這對相反的問題也有用：如果 Apple Music 相對於你的 Zoom 通話太大聲，在 SoundDial 中將 Apple Music 降低到 25%，同時保持 Zoom 在 100%。逐應用程式控制意味著你永遠不必為了另一個應用程式的音量而犧牲一個應用程式。</p>
 
@@ -666,7 +666,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 售價 €14.99——一次性，不是訂閱。作為參考，這比兩個月的 Spotify 訂閱費用還少，而這是你每天都會使用的工具。它的價格不到 SoundSource（$39）的一半，並且包含 SoundSource 沒有的功能（配置、自動閃避）。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial——可靠的 Mac 逐應用程式音量混音器，具有配置、自動閃避和 200% 提升" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——可靠的 Mac 逐應用程式音量混音器，具有配置、自動閃避和 200% 提升" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>在 <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> 上提供——Apple 審查，沙盒化，無系統驅動程式。€14.99 一次性，無訂閱，macOS 14.2+。</p>
 `,
@@ -700,7 +700,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 將 Spotify 和 Discord 都放在同一個面板中，具有獨立的音量滑桿。設定你想要的比例並保持它：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上平衡 Spotify 和 Discord 在不同音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上平衡 Spotify 和 Discord 在不同音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>音樂 + 語音聊天的黃金比例</h3>
 <p>基於大多數人的使用方式：</p>
@@ -805,7 +805,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>所有這五個都可以使用 <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>——一個原生 macOS 選單列應用程式，添加了 Apple 從未建立的音量混音器。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial——macOS 的逐應用程式音量控制、配置、自動閃避和 200% 提升" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——macOS 的逐應用程式音量控制、配置、自動閃避和 200% 提升" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>第六部分：使用 SoundDial 的逐應用程式音量</h2>
 
@@ -865,7 +865,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>這是極端的放大，對某些內容會引入失真，但對於極其安靜的源材料，這可能正是你需要的。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上在系統等級提升 VLC 音量，用於安靜的影片檔案" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上在系統等級提升 VLC 音量，用於安靜的影片檔案" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>更重要的是，SoundDial 讓你<strong>獨立地</strong>提升 VLC。你的音樂播放器、瀏覽器和通訊應用程式保持在其正常等級，只有 VLC 變得更大聲。如果你在 SoundDial 中將 VLC 提升到 180%，Spotify 不會改變。這是 VLC 的內建提升做不到的——VLC 的提升只影響 VLC，但 macOS 的單個系統音量仍然將其他所有東西捆綁在一起。</p>
 
@@ -924,7 +924,7 @@ export const zhHantArticles: ArticleSet = {
   <li><strong>輕鬆切換：</strong>在 SoundDial 的設定中開啟或關閉自動閃避。當你不想要它時，停用它。當你想要它回來時，啟用它。</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial 可配置的自動閃避——控制通話期間背景音訊降低多少" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 可配置的自動閃避——控制通話期間背景音訊降低多少" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>區別在於：不是某個應用程式決定你的音樂在每次通話期間應該降到零，而是你決定它應該降到 25%。不是失去控制，而是獲得控制。不是試圖在三個不同的應用程式中停用一個隱藏功能，而是在一個地方有一個切換。</p>
 
@@ -987,7 +987,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 將任何應用程式的音量提升到 <strong>200%</strong>。如果透過藍牙耳機的 Spotify 太安靜，將其滑桿拖到 160%。音訊訊號在到達你的耳機之前被放大，有效地為該應用程式增倍可用音量。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上為藍牙耳機提升應用程式音量，逐應用程式滑桿最高 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上為藍牙耳機提升應用程式音量，逐應用程式滑桿最高 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>逐應用程式提升比系統範圍的音量提升更好，因為你只能放大安靜的應用程式。如果你的 Podcast 安靜但音樂正常，將 Podcast 應用程式提升到 170%，同時保持 Spotify 在 80%。每個應用程式保持在正確的等級。</p>
 
@@ -1024,7 +1024,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>這正是 <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 所做的。將每個應用程式設定為你希望觀眾聽到的等級：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上平衡遊戲、Discord 和音樂音訊等級用於 OBS 直播" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上平衡遊戲、Discord 和音樂音訊等級用於 OBS 直播" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>典型的直播音訊設定</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 有一個<strong>音量記憶</strong>功能。啟用後，它透過捆綁識別符儲存每個應用程式的音量等級。當應用程式退出並重新啟動——無論你重新啟動它、它崩潰，還是你重新啟動 Mac——SoundDial 會自動將其恢復到儲存的音量。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 音量記憶——自動記住並恢復 macOS 上的逐應用程式音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 音量記憶——自動記住並恢復 macOS 上的逐應用程式音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>它如何工作</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>通用修正方法是將你的 Podcast 應用程式音量放大超過 macOS 的 100% 限制。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為每個應用程式提供最高 <strong>200%</strong> 的音量滑桿。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Apple Podcasts 音量提升到 180% 以播放安靜的 Podcast 節目" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Apple Podcasts 音量提升到 180% 以播放安靜的 Podcast 節目" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>將 Apple Podcasts 或你的 Podcast 應用程式設為 160-180%，同時將 Spotify 音樂保持在 40%，Slack 在 15%。Podcast 變大聲了，而不會讓其他所有東西也痛苦地大聲。當你切換回音樂時，只需將 Podcast 應用程式調回正常——或讓 SoundDial 的音量記憶自動記住它。</p>
 
@@ -1189,7 +1189,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為每個應用程式提供自己的音量滑桿，讓你可以建立理想的學習音訊設定：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 學生設定——講座全音量、學習音樂低音量、通知靜音" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 學生設定——講座全音量、學習音樂低音量、通知靜音" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>講座配置</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const zhHantArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>你更新了 macOS。一切看起來都很好——直到你注意到沒有聲音。或者聲音出現雜音。或者音量卡住了。或者你的音訊輸出裝置消失了。更新後的音訊問題幾乎在每個 macOS 版本都會發生，從輕微煩人到完全無聲都有。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>以下是修復 macOS 更新後 Mac 音訊的系統性指南，涵蓋所有已知問題和解決方法。</p>
 
@@ -1335,7 +1338,7 @@ export const zhHantArticles: ArticleSet = {
   <li>Spotify 回到 30%，Zoom 回到 100%，Slack 回到 15%——完美恢復</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial 全部靜音快捷鍵——Control+Option+M 靜音和取消靜音所有應用程式並恢復音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 全部靜音快捷鍵——Control+Option+M 靜音和取消靜音所有應用程式並恢復音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>與系統靜音鍵的區別：</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為 Chrome 提供最高 <strong>200%</strong> 的獨立音量滑桿。由於 Google Meet 在 Chrome 內運行，提升 Chrome 就等於提升 Meet。將滑桿拖到 150% 或 180%，通話音訊會即時放大。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Google Meet（Chrome）音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Google Meet（Chrome）音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>如果你在 Safari 中使用 Meet，這也有效。SoundDial 獨立控制每個瀏覽器——為 Meet 提升 Safari，同時將 Chrome 保持在其他所有內容的正常音量。</p>
 
@@ -1450,7 +1453,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為每個應用程式提供自己的音量滑桿。你可以將通知頻繁的應用程式設為細微的音量，明顯但不刺耳，同時將媒體應用程式保持在舒適的收聽音量。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上分開通知應用程式音量和媒體應用程式音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上分開通知應用程式音量和媒體應用程式音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>範例設定</h3>
 <p><strong>媒體應用程式：</strong></p>
@@ -1523,7 +1526,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將 FaceTime 的音量提升到 <strong>200%</strong>。開啟選單列面板，找到 FaceTime，將其滑桿拖到 100% 以上。通話音訊即時放大，不影響任何其他應用程式。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 FaceTime 通話音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 FaceTime 通話音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial 也有助於解決反向問題：如果 FaceTime 的鈴聲或通知聲音在專注時間太大聲，可以將 FaceTime 調低到 20% 或靜音，同時保持音樂播放。一鍵靜音，一鍵取消靜音。</p>
 
@@ -1577,7 +1580,7 @@ export const zhHantArticles: ArticleSet = {
 <h3>靜音所有應用程式：Control + Option + M</h3>
 <p>按 <strong>⌃⌥M</strong> 立即靜音每個應用程式的音訊。再次按下取消靜音所有東西，將每個應用程式恢復到其之前的音量。這是一個「立即靜音」按鈕，比按靜音鍵還快——而且與系統靜音鍵不同，取消靜音時會恢復逐應用程式音量。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 鍵盤快捷鍵——Control+Option+S 切換，Control+Option+M 靜音所有" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 鍵盤快捷鍵——Control+Option+S 切換，Control+Option+M 靜音所有" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>鍵盤驅動的工作流程</h2>
 
@@ -1642,7 +1645,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 使用現代 Audio Tap API——沒有虛擬音訊裝置，沒有系統驅動程式，沒有核心擴充功能。它使用 Apple 支援的 API 直接攔截每個應用程式的音訊串流，這意味著它在 macOS 更新時不會損壞。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial——不安裝虛擬音訊裝置的 Background Music 替代方案" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——不安裝虛擬音訊裝置的 Background Music 替代方案" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>相較於 Background Music，你得到的：</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const zhHantArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial——具有音量配置和自動閃避的更輕量 SoundSource 替代方案" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——具有音量配置和自動閃避的更輕量 SoundSource 替代方案" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>你應該選擇哪個？</h2>
 
@@ -1809,7 +1812,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為你提供精細控制的逐應用程式音量滑桿——每個滑桿以 1% 為增量從 0% 移動到 200%。你可以同時將 Spotify 設為 5%，Zoom 設為 40%。控制精細度比 macOS 的 16 個系統步驟細緻得多。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上以 1% 增量進行精細逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上以 1% 增量進行精細逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>對於深夜耳機使用：</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const zhHantArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>一個 AirPod 聽起來沒問題。另一個明顯更安靜。音樂感覺偏向一側。聲音聽起來像是從一側傳來。這是最常見的 AirPods 抱怨之一，通常有簡單的修復方法。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. 清潔你的 AirPods</h2>
 
@@ -1948,7 +1954,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將任何應用程式提升到 <strong>200%</strong>。如果 Safari 或 Netflix 應用程式太安靜，將其滑桿拖過 100%。音訊在到達你的喇叭之前被放大，有效地使該應用程式的最大音量翻倍，並且只針對該應用程式。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Netflix 音訊提升到 180% 以獲得更清晰的對話和串流音訊" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Netflix 音訊提升到 180% 以獲得更清晰的對話和串流音訊" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這特別適用於：</p>
 <ul>
@@ -2027,7 +2033,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 透過為每個應用程式提供自己的音量滑桿來填補這個空缺：</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 遠端工作音訊設定——macOS 上 Zoom、Spotify 和 Slack 的不同音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 遠端工作音訊設定——macOS 上 Zoom、Spotify 和 Slack 的不同音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>為每種模式儲存配置</h3>
 
@@ -2114,7 +2120,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為你的瀏覽器提供自己的音量滑桿，獨立於其他所有應用程式。將 Safari 調低到 30%，同時將 Zoom 保持在 100%。一鍵完全靜音 Chrome，同時保持 Spotify 播放。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上獨立於其他應用程式控制瀏覽器音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上獨立於其他應用程式控制瀏覽器音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這是處理意外自動播放分頁的最快方法：不是尋找哪個分頁在製造噪音，而是在選單列點擊 SoundDial 並靜音瀏覽器。其他所有東西繼續播放。當你找到並關閉惱人的分頁後，取消靜音瀏覽器，音量恢復到之前的位置。</p>
 
@@ -2150,7 +2156,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 在你的選單列中為 Discord 提供自己的音量滑桿，獨立於其他所有應用程式。將 Discord 設為你想要的確切等級——100% 以獲得清晰的語音聊天、40% 作為細微的背景聲、或完全靜音——而不觸碰你的遊戲、音樂或其他任何東西。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上獨立於遊戲和音樂控制 Discord 音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上獨立於遊戲和音樂控制 Discord 音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>常見設定</h3>
 
@@ -2208,7 +2214,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 在其選單列彈出視窗中——與逐應用程式音量滑桿並排——包含一個輸出裝置選擇器。一鍵開啟 SoundDial，一鍵切換裝置。無需挖進系統設定。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在一個選單列面板中提供音訊輸出裝置切換和逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在一個選單列面板中提供音訊輸出裝置切換和逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>在 SoundDial 內切換裝置的優點：你可以在同一個面板中切換輸出<em>並且</em>調整逐應用程式音量。切換到 AirPods 並立即調低 Spotify 同時提升通話音量——全部無需離開彈出視窗。</p>
 
@@ -2226,6 +2232,9 @@ export const zhHantArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>你在聽音樂時聽到爆裂聲。然後是噼啪聲。然後是音訊短暫中斷然後恢復的卡頓聲。不是歌曲的問題——是你的 Mac。macOS 上的音訊雜音令人沮喪地常見，至少有六種不同的原因。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. 重新啟動 Core Audio（快速修復）</h2>
 
@@ -2325,7 +2334,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將任何應用程式的音量提升到 <strong>200%</strong>，包括 Microsoft Teams。將 Teams 的滑桿拖到 150% 或 180%，音訊即時放大。只有 Teams 變大聲——你的音樂、瀏覽器和其他應用程式保持在當前等級。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Microsoft Teams 通話音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Microsoft Teams 通話音量提升超過 100%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial 也有助於解決反向問題：如果 Teams 通知聲音在專注時間太大聲，將 Teams 調低到 15% 或完全靜音，同時保持音樂播放。一鍵靜音，一鍵取消靜音。</p>
 
@@ -2341,6 +2350,9 @@ export const zhHantArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>你在視訊通話中。Slack 一直在叮叮響。背景在播放音樂。你按音量鍵——所有東西都變安靜了。通話、音樂、通知。macOS 只有一個音量滑桿，它同時控制所有東西。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows 自 2006 年的 Vista 起就有了逐應用程式音量混音器。二十年後，macOS 仍然沒有。如果你想在不影響 Zoom 通話的情況下調低 Spotify，Apple 沒有內建的解決方案。</p>
 
@@ -2424,7 +2436,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為 Slack 提供自己獨立的音量滑桿。將它設為任何適合你的等級——或一鍵完全靜音它。當你準備好再次關注 Slack 時，取消靜音，音量恢復到原來的位置。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上靜音 Slack 同時 Spotify 以正常音量播放" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上靜音 Slack 同時 Spotify 以正常音量播放" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>理想的 Slack 工作流程</h3>
 <ul>
@@ -2474,7 +2486,7 @@ export const zhHantArticles: ArticleSet = {
 <h3>切換配置</h3>
 <p>你已儲存的配置以按鈕形式出現在 SoundDial 的彈出視窗中。點擊一個，每個應用程式立即切換到該配置中儲存的音量。一次點擊取代了五或六次手動調整。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 音量配置——在 macOS 上一鍵切換會議、專注和休閒模式" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 音量配置——在 macOS 上一鍵切換會議、專注和休閒模式" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>範例配置</h3>
 
@@ -2555,7 +2567,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將任何應用程式的音量提升到 <strong>200%</strong>——包括 Zoom。如果一個參與者太安靜，將 Zoom 的滑桿拖到 150% 或 180%。音訊訊號被放大超過 Zoom 的內建最大值，讓即使最安靜的聲音也變得可聽。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Zoom 通話音量提升到 180% 以獲得更清晰的視訊通話音訊" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Zoom 通話音量提升到 180% 以獲得更清晰的視訊通話音訊" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>關鍵優點：提升 Zoom 不影響任何其他東西。你的音樂、通知和其他應用程式保持在當前等級。只有 Zoom 變大聲。</p>
 
@@ -2594,7 +2606,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>完成。Spotify 更安靜了。Zoom 沒有改變。通知沒有改變。其他所有東西沒有改變。你沒有離開當前應用程式——選單列彈出視窗就在你的位置開啟。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上獨立調低 Spotify 音量，同時保持其他應用程式全音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上獨立調低 Spotify 音量，同時保持其他應用程式全音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>更好的方法：將它儲存為配置</h2>
 
@@ -2643,7 +2655,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>由於 Apple 不會建立它，第三方應用程式填補了這個空缺。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 是一款原生 macOS 選單列應用程式，為你提供音量混音器——每個運行中應用程式的獨立音量滑桿。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS Tahoe 上提供逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS Tahoe 上提供逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial 與 macOS Tahoe 完全相容，並使用 Apple 的現代 Core Audio Tap API——不需要第三方音訊驅動程式或核心擴充功能。</p>
 
@@ -2699,7 +2711,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>你的通話水晶般清晰。音樂是細微的背景。不需要切換裝置。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示 Zoom 在全音量和 Spotify 在通話期間調低" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示 Zoom 在全音量和 Spotify 在通話期間調低" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>更好的是：SoundDial 的<strong>自動閃避</strong>自動完成這個動作。當你加入通話時，它偵測到你的麥克風啟動並將所有背景應用程式調低到你配置的等級（預設 30%）。通話結束時，一切恢復正常。不需要手動調整滑桿。</p>
 
@@ -2746,7 +2758,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>即使你無法阻止 macOS 改變系統音量，你也可以保護你的<em>逐應用程式</em>音量平衡。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 獨立記住每個應用程式的音量等級。當應用程式重新啟動或你的 Mac 從睡眠中喚醒時，SoundDial 將每個應用程式恢復到其儲存的音量。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 重啟之間記住逐應用程式音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 重啟之間記住逐應用程式音量等級" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這意味著即使系統音量改變，你的應用程式等級平衡也保持一致：</p>
 <ul>
@@ -2803,7 +2815,7 @@ export const zhHantArticles: ArticleSet = {
   <li><strong>可在：</strong>Mac App Store 上取得（Apple 審查、沙盒化、無系統驅動程式）</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial 逐應用程式音量混音器在 macOS 上顯示個別應用程式音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 逐應用程式音量混音器在 macOS 上顯示個別應用程式音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource（Rogue Amoeba）</h3>
 
@@ -2947,7 +2959,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 透過為每個應用程式——包括 Safari 和 Chrome——提供從 0% 到 <strong>200%</strong> 的獨立音量滑桿來解決這個問題。如果 YouTube 影片太安靜，將你的瀏覽器滑桿拖到 150% 或 180%。音訊即時放大，不影響任何其他應用程式。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Safari 瀏覽器音量提升到 180% 以播放安靜的 YouTube 影片" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上將 Safari 瀏覽器音量提升到 180% 以播放安靜的 YouTube 影片" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這特別有用，因為：</p>
 <ul>
@@ -2994,7 +3006,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 可以。它為每個應用程式提供自己的音量滑桿，所以你可以將通知頻繁的應用程式如 Slack、Mail 和 Calendar 設為低得多的音量，同時將媒體應用程式保持在舒適的等級。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示 Slack 低音量和 Spotify 正常音量——獨立的通知控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示 Slack 低音量和 Spotify 正常音量——獨立的通知控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>典型的耳機友好設定</h3>
 <ul>
@@ -3043,7 +3055,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 給你完全這個功能。它的自動閃避功能監控你的麥克風並在通話開始時自動調整背景音訊——但<strong>你控制閃避等級</strong>。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 自動閃避設定——Mac 上 Zoom 通話期間可配置的音量降低" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 自動閃避設定——Mac 上 Zoom 通話期間可配置的音量降低" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>它如何工作</h3>
 <ol>
@@ -3120,7 +3132,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將任何應用程式的音量提升到 <strong>200%</strong>。如果 Spotify 透過你的 AirPods 太安靜，在 SoundDial 中將 Spotify 的滑桿拖到 150% 或 180%。音訊訊號在發送到你的 AirPods 之前被放大，有效地讓它們比 Apple 預期的更大聲。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上用最高 200% 的逐應用程式音量滑桿提升 AirPods 的應用程式音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 Mac 上用最高 200% 的逐應用程式音量滑桿提升 AirPods 的應用程式音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">在 Mac App Store 上取得 SoundDial</a>——€14.99 一次性購買，無訂閱，macOS 14.2+。</p>
 `,
@@ -3162,7 +3174,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 讓你將任何應用程式的音量提升到 <strong>200%</strong>——包括 Spotify。它攔截 Spotify 的音訊串流並將其放大超過應用程式的內建最大值，不影響任何其他應用程式的音量。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Spotify 音量提升到 200%，同時保持其他應用程式在正常音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上將 Spotify 音量提升到 200%，同時保持其他應用程式在正常音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>關鍵區別：系統範圍的音量提升會讓<em>所有東西</em>更大聲——通知、通話、系統聲音——不只是 Spotify。SoundDial<em>獨立地</em>提升 Spotify。將 Spotify 設為 160%，同時你的瀏覽器保持在 80%，Zoom 保持在 100%。</p>
 
@@ -3205,7 +3217,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 位於你的選單列，為每個應用程式提供自己的音量滑桿。你可以將遊戲設為 35%，Discord 設為 100%——或任何適合你的比例。改變一個另一個保持不動。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示遊戲和 Discord 的獨立音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 上顯示遊戲和 Discord 的獨立音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>典型的遊戲設定</h3>
 <ul>
@@ -3271,7 +3283,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>答案是第三方選單列應用程式。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 是一款原生 macOS 音量混音器，完全做到 Windows 音量混音器所做的事——加上更多。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial——macOS 的音量混音器，在選單列中顯示逐應用程式音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——macOS 的音量混音器，在選單列中顯示逐應用程式音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>你得到的：</p>
 
@@ -3332,7 +3344,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 為你 Mac 上的每個應用程式提供一個從 0% 到 <strong>200%</strong> 的獨立音量滑桿。如果特定應用程式太安靜——Podcast 播放器、瀏覽器分頁、視訊通話——你可以將僅那個應用程式提升超過 100%，而不觸碰任何其他東西。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 音量提升——macOS 上具有 200% 放大的逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 音量提升——macOS 上具有 200% 放大的逐應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>這特別適用於：</p>
 <ul>
@@ -3405,7 +3417,7 @@ export const zhHantArticles: ArticleSet = {
 <h3>配置閃避等級</h3>
 <p>在 SoundDial 的設定中，你可以調整<strong>閃避等級</strong>——通話期間背景音訊降低多少。滑桿範圍從 10%（幾乎聽不見）到 80%（仍然相當存在）。30% 的預設對大多數人都很有效：音樂明顯但不干擾對話。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 自動閃避功能在 Mac 上的 Zoom 通話期間自動降低音樂音量" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 自動閃避功能在 Mac 上的 Zoom 通話期間自動降低音樂音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>設定在一分鐘內完成</h2>
 
@@ -3455,7 +3467,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>這正是逐應用程式音量混音器所做的。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> 位於你的選單列，顯示每個運行中應用程式及其自己的音量滑桿和靜音按鈕。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial 在 macOS 選單列中為每個應用程式顯示逐應用程式靜音按鈕" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 在 macOS 選單列中為每個應用程式顯示逐應用程式靜音按鈕" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>要靜音一個應用程式：</p>
 <ol>
@@ -3552,7 +3564,7 @@ export const zhHantArticles: ArticleSet = {
 
 <p>它位於你的選單列，顯示每個運行中應用程式及其自己的音量滑桿。拖動滑桿將那個應用程式的音量從 0% 調整到 200%。點擊喇叭圖示立即靜音它。在已儲存的配置之間切換以適應不同情境。啟用自動閃避，通話開始時你的音樂自動變安靜。</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial——macOS 的逐應用程式音量混音器，在選單列中顯示個別應用程式音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial——macOS 的逐應用程式音量混音器，在選單列中顯示個別應用程式音量滑桿" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>主要功能：</p>
 <ul>
@@ -3567,5 +3579,2353 @@ export const zhHantArticles: ArticleSet = {
 
 <p>一次性購買。無訂閱。macOS 14.2+。<a href="https://apps.apple.com/app/sounddial/id6772792641">在 Mac App Store 上取得 SoundDial</a>。</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Mac 上最佳的 Background Music 替代方案（2026）",
+    description: "Background Music 在較新的 macOS 上失效？最可靠的個別應用程式音量混音器替代方案就是 SoundDial——一款具備音量增強與設定檔的沙盒化 Mac App Store 應用程式。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果 Background Music 在某次 macOS 更新後停止運作，最可靠的替代方案就是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>——一款來自 Mac App Store 的選單列個別應用程式音量混音器。它讓每個應用程式都擁有自己的音量滑桿，並加入靜音、音量增強、音量設定檔與自動降音功能，而且完全沙盒化並通過 Apple 審核，因此沒有任何音訊驅動程式會在下一次 macOS 發佈時失效。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 上最佳的 Background Music 替代方案（2026）" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 Background Music 在較新的 macOS 上會失效</h2>
+
+<p>Background Music 是一個真正巧妙的免費開源專案。它為 Mac 使用者提供了 Apple 從未提供過的東西：個別應用程式音量混音器，也就是 Windows 多年來一直擁有的功能。但它的設計方式也正是它一再失效的原因。</p>
+
+<p>為了路由並控制音訊，Background Music 安裝了一個虛擬音訊裝置——一個攔截 Mac 聲音的系統層級驅動程式。這種做法在較舊的 macOS 上運作良好，但每個重大版本都會加強對核心與音訊擴充功能的安全限制。使用者回報的常見症狀有：</p>
+
+<ul>
+<li>安裝後或 OS 更新後完全沒有聲音。</li>
+<li>虛擬裝置載入失敗，導致音訊路由靜悄悄地停止運作。</li>
+<li>應用程式需要重新安裝、重新開機或手動移除驅動程式才能恢復。</li>
+<li>開發是由社群主導且以志工步調進行，因此針對新 macOS 的修正可能會延遲。</li>
+</ul>
+
+<p>這些都不代表 Background Music「不好」。它只是意味著一個免費、以驅動程式為基礎的工具本質上就是脆弱的，而如果你每天都依賴個別應用程式音量，那種脆弱很快就會讓人厭煩。</p>
+
+<h2>挑選替代方案時該注意什麼</h2>
+
+<p>在挑選任何替代方案之前，先確定你真正需要什麼：</p>
+
+<ul>
+<li><strong>跨 macOS 更新的可靠性。</strong>如果它安裝核心或音訊擴充功能，就要預期偶爾會失效。</li>
+<li><strong>真正的個別應用程式控制。</strong>每個應用程式獨立的音量與靜音是基本要求。</li>
+<li><strong>音量增強。</strong>有些應用程式（安靜的會議工具、某些瀏覽器）就是太小聲——你會想要突破 100%。</li>
+<li><strong>便利功能。</strong>設定檔與自動降音是讓一個工具變成你整天都會開著的東西的關鍵。</li>
+<li><strong>安全安裝。</strong>沙盒化的 Mac App Store 應用程式無法觸及系統內部，因此解除安裝乾淨俐落，更新也是自動的。</li>
+</ul>
+
+<h2>為什麼 SoundDial 是可靠的選擇</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 正是為了解決 Background Music 使用者遇到的問題而打造：他們想要個別應用程式音量，但不想照顧一個驅動程式。它常駐在你的選單列，並把核心工作做得很好：</p>
+
+<ul>
+<li><strong>每個應用程式獨立的音量</strong>，並在同一面板中提供個別應用程式靜音。</li>
+<li><strong>個別應用程式音量增強</strong>，讓安靜的應用程式大聲到真正聽得見。</li>
+<li><strong>音量設定檔</strong>——儲存一組混音（例如「會議」或「遊戲」）並即時切換，不必每次都拖動滑桿。</li>
+<li><strong>自動降音</strong>，讓背景音訊在該降低時自動降低。</li>
+<li><strong>快速輸出切換</strong>，在喇叭、耳機與其他裝置之間切換。</li>
+</ul>
+
+<p>更大的差異在於它的安裝方式。SoundDial 透過 Mac App Store 發佈，這意味著它經過 Apple 審核並沙盒化。沒有 DMG 要拖曳，沒有音訊驅動程式或系統擴充功能，也沒有核心存取權限。這是它不會像 Background Music 那樣在新 macOS 到來時失效的最重要原因——它並沒有接入 Apple 持續鎖定的那些系統部分。</p>
+
+<p>它的價格是 <strong>€14.99 一次性買斷</strong>。不是免費，但沒有訂閱制，而且你付的錢是換來一個持續維護且安裝安全的東西。</p>
+
+<h2>SoundDial vs. Background Music vs. 免費工具</h2>
+
+<p>Background Music 並不是你唯一的免費選項，所以這裡誠實地說明現況：</p>
+
+<ul>
+<li><strong>Background Music（免費、開源）：</strong>提供個別應用程式音量，但以驅動程式為基礎，容易在較新的 macOS 上失效，而且缺少音量增強、設定檔與自動降音。</li>
+<li><strong>FineTune（免費、開源）：</strong>一款輕量的選單列個別應用程式音量應用程式。如果免費是你唯一的要求，它很不錯，但額外功能較少。</li>
+<li><strong>eqMac（免費）：</strong>主要是系統 EQ 與音量增強器，並非真正的個別應用程式混音器。</li>
+<li><strong>Rogue Amoeba 的 SoundSource（約 $39）：</strong>專業級選項，具備個別應用程式 EQ 與完整輸出路由。非常出色，但價格是 SoundDial 的兩倍多，而且仍需下載外加一個音訊擷取驅動程式。</li>
+<li><strong>SoundDial（€14.99，Mac App Store）：</strong>中間地帶——真正的個別應用程式音量、靜音、音量增強、設定檔與降音，以乾淨的沙盒化安裝方式提供，沒有任何驅動程式。</li>
+</ul>
+
+<p>如果你需要個別應用程式 EQ 或複雜的錄音室路由，SoundSource 值得多花那筆錢。如果你想要一個免費的自己動手工具，並且能容忍偶爾的失效，FineTune 或 Background Music 就夠了。但如果你的目標是「讓每個應用程式擁有自己的音量，並且不要每次 macOS 更新都失效」，SoundDial 以最少的麻煩達成這個目標。</p>
+
+<h2>讓這件事變得必要的 macOS 背景</h2>
+
+<p>值得直說：macOS 沒有內建的個別應用程式音量混音器。Windows 多年來在其音量彈出視窗中就有一個，但在 Mac 上，系統滑桿一次控制所有東西。那個缺口正是 Background Music 與 SoundDial 這類工具存在的全部原因。既然 Apple 不填補它，實際的問題就只是你信任哪一種第三方做法——一個對抗 OS 的免費驅動程式，還是一個與它協作的沙盒化應用程式。</p>
+
+<p>準備好不再對抗故障的音訊驅動程式了嗎？以 €14.99 取得 <a href="https://apps.apple.com/app/id6772792641">Mac App Store 上的 SoundDial</a>，用可靠的方式控制每個應用程式的音量。</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial：哪一款 Mac 音量應用程式勝出？",
+    description: "SoundSource（$39，專業級）vs SoundDial（€14.99，App Store）。比較個別應用程式音量、音量增強、設定檔與自動降音，為你挑選合適的 Mac 混音器。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果你只想要安裝乾淨且價格更低的個別應用程式音量控制，對大多數人而言 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是更划算的選擇：€14.99 一次性買斷，來自 Mac App Store，具備個別應用程式音量、靜音、音量增強、設定檔與自動降音。只有在你特別需要個別應用程式 EQ 與進階輸出路由時，才選擇 Rogue Amoeba 的 SoundSource（約 $39）。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial：哪一款 Mac 音量應用程式勝出？" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>簡短版</h2>
+<p>macOS 至今仍沒有內建的個別應用程式音量混音器。Windows 多年來一直有，但在 Mac 上系統音量滑桿會一次移動所有東西。SoundSource 與 SoundDial 的存在都是為了修補那個缺口。它們只是瞄準不同的買家。</p>
+<ul>
+<li><strong>SoundDial</strong>——€14.99 一次性買斷，Mac App Store，選單列應用程式。每個應用程式獨立音量、個別應用程式靜音、個別應用程式音量增強、已儲存的設定檔、自動降音，以及快速輸出切換。沙盒化並通過 Apple 審核，因此不需安裝驅動程式。</li>
+<li><strong>SoundSource</strong>——約 $39，從 Rogue Amoeba 直接下載。以上全部再加上個別應用程式 EQ、進階輸出路由與音訊效果。需要安裝一個小型音訊擷取驅動程式。</li>
+</ul>
+
+<h2>價格以及購買方式</h2>
+<p>這是最明顯的分野。SoundSource 大約 $39，由 Rogue Amoeba 直接銷售。SoundDial 在 Mac App Store 上為 €14.99 一次性購買——大約是前者價格的三分之一多一點。</p>
+<p>由於 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 透過 App Store 發佈，它是沙盒化、經過公證且通過 Apple 審核的。你按下「取得」，它就安裝完成。沒有 DMG 要掛載，沒有需要授權給核心相關元件的權限，也沒有音訊驅動程式或系統擴充功能。它也隨著你一般的 App Store 更新流程一起更新，並同步到你使用同一個 Apple ID 的其他 Mac。</p>
+<p>SoundSource 在 App Store 之外下載，並安裝一個音訊擷取驅動程式，以便攔截並處理每個應用程式的音訊。那正是解鎖其專業功能的關鍵，但也意味著多一個安裝步驟，以及一個位於系統更深處的元件。</p>
+
+<h2>SoundSource 能做而 SoundDial 不能做的事</h2>
+<p>SoundSource 對某一種特定使用者而言物有所值。如果以下任何一點符合你，那就值得多花那筆錢：</p>
+<ul>
+<li><strong>個別應用程式 EQ。</strong>你想在例如 Spotify 上開啟 10 頻段等化器，同時讓 Zoom 保持平坦。SoundDial 處理音量，而非 EQ。</li>
+<li><strong>進階輸出路由。</strong>把一個應用程式送到你的喇叭，另一個送到耳機或特定介面，並有精細控制。</li>
+<li><strong>音訊效果與外掛。</strong>SoundSource 能以個別應用程式為基礎承載效果——這是真正的專業領域。</li>
+</ul>
+<p>Rogue Amoeba 擁有長久且受信任的紀錄。SoundSource 是一款嚴肅的工具，定價也如此。如果你是音訊專業人士或重度多輸出使用者，它是正確的選擇。</p>
+
+<h2>SoundDial 在日常使用上做得更好的地方</h2>
+<p>大多數搜尋「Mac 音量混音器」的人並不需要 EQ。他們需要讓一個應用程式比另一個小聲，而且不想為了達成這件事而對抗安裝程式。SoundDial 乾淨俐落地涵蓋這一點，並加入幾項值得一提的東西：</p>
+<ul>
+<li><strong>個別應用程式音量增強。</strong>有些應用程式與影片即使在 100% 也就是太小聲。SoundDial 能把單一應用程式推過其正常上限，讓一場安靜的會議或播客終於聽得見。</li>
+<li><strong>音量設定檔。</strong>儲存一整套設定——音樂低、瀏覽器靜音、通話應用程式大聲——並即時召回。非常適合在「專注」、「會議」與「遊戲」之間切換，而不必拖動五個滑桿。</li>
+<li><strong>自動降音。</strong>當另一個來源開始時，自動降低背景音訊（例如音樂），讓通知、通話或影片不會被淹沒。</li>
+<li><strong>快速輸出切換。</strong>從選單列在喇叭、耳機與其他裝置之間跳轉。</li>
+</ul>
+<p>以上全部都在選單列下拉選單中執行，因此隨手一按即可，其餘時間則不會擋在你面前。</p>
+
+<h2>免費替代方案，簡述</h2>
+<p>你會在同樣的搜尋中看到幾個免費選項。值得認識一下：</p>
+<ul>
+<li><strong>Background Music</strong>——免費且開源，提供基本的個別應用程式音量。但它在較新的 macOS 發佈上可能失效，而且沒有音量增強、設定檔或自動降音。</li>
+<li><strong>FineTune</strong>——一款免費開源的選單列音量應用程式。簡單，但範圍有限。</li>
+<li><strong>eqMac</strong>——免費的 EQ 與系統音量增強器，比較是全系統 EQ 工具，而非真正的個別應用程式混音器。</li>
+</ul>
+<p>如果免費對你有用，那很好。取捨在於相容性與支援：開源音訊工具可能落後於 macOS 更新，而設定檔與降音這類功能通常並不存在。如果你的設定對你的工作日很重要，一次性付費換取一個經過審核且持續維護的東西，通常是更平靜的路。</p>
+
+<h2>你該買哪一個？</h2>
+<p>回答一個問題：你需要個別應用程式 EQ 或進階輸出路由嗎？</p>
+<ul>
+<li><strong>需要</strong>——買 SoundSource。它就是為此打造的，而約 $39 對一款具備驅動程式層級引擎的專業工具而言很公道。</li>
+<li><strong>不需要，我只想要個別應用程式音量、音量增強與乾淨的安裝</strong>——買 SoundDial。你得到每天真正重要的混音，外加設定檔與自動降音，只需 €14.99 且零驅動程式麻煩。</li>
+</ul>
+<p>對絕大多數 Mac 使用者而言，第二個類別才是誠實的答案。你付的錢是為了控制音量，而不是為了一間錄音室。</p>
+
+<p><strong>準備好用簡單的方式修好 Mac 音量了嗎？</strong>取得 <a href="https://apps.apple.com/app/id6772792641">Mac App Store 上的 SoundDial</a>——€14.99 一次性買斷，沒有驅動程式，沒有 DMG。個別應用程式音量、音量增強、設定檔與自動降音，一鍵搞定。</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Mac 上更便宜的 SoundSource 替代方案，用於個別應用程式音量",
+    description: "想要 SoundSource 式的個別應用程式音量但不想付 $39？SoundDial 是一款 €14.99 的 Mac App Store 選單列混音器，具備音量增強、設定檔與自動降音。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果你想在 Mac 上擁有 SoundSource 式的個別應用程式音量控制，但覺得 $39 太貴，最快且可靠的解法就是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。它是一款來自 Mac App Store 的 €14.99 一次性選單列混音器，讓每個應用程式都擁有自己的音量滑桿、靜音與音量增強——外加設定檔與自動降音——而且不需下載或安裝任何音訊驅動程式。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 上更便宜的 SoundSource 替代方案，用於個別應用程式音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼人們會尋找 SoundSource 替代方案</h2>
+<p>Rogue Amoeba 的 SoundSource 是優秀的軟體。它真的是專業級的：個別應用程式等化器、音訊效果，以及讓你把一個應用程式送到耳機、另一個送到喇叭的輸出路由。但那份強大伴隨著兩個摩擦點。第一，價格——大約 $39。第二，它在 App Store 之外安裝一個系統層級的音訊擷取驅動程式，有些人在工作機器上對此有所顧慮，或者純粹不想在 macOS 更新之間去管理它。</p>
+<p>對大多數人而言，真正的需求簡單得多：把 Spotify 調低而不動到 Zoom 通話、把吵鬧瀏覽器分頁的應用程式靜音，或把安靜的影片播放器推過 100%。如果那是你，你就是在花專業級的錢，買你永遠不會打開的功能。</p>
+
+<h2>SoundDial 能做什麼——以及它的價格</h2>
+<p>SoundDial 專注於個別應用程式音量這項工作，並乾淨俐落地完成它。打開選單列，你會得到一份所有正在發出聲音的東西的即時清單，每一個都有自己的控制：</p>
+<ul>
+<li><strong>每個應用程式獨立音量</strong>——每個應用程式一個滑桿，即時調整。</li>
+<li><strong>個別應用程式靜音</strong>——即時靜音一個應用程式，而不暫停其他任何東西。</li>
+<li><strong>個別應用程式音量增強</strong>——當影片或通話太小聲時，把安靜的應用程式推過其正常最大值。</li>
+<li><strong>音量設定檔</strong>——儲存一組混音（例如「專注」、「遊戲」、「會議」）並一鍵切換。</li>
+<li><strong>自動降音</strong>——當更重要的東西開始播放時，自動降低其他應用程式。</li>
+<li><strong>快速輸出切換</strong>——從同一個選單在喇叭、耳機與其他裝置之間跳轉。</li>
+</ul>
+<p>價格是 <strong>€14.99，一次付清</strong>——沒有訂閱制。那大約是 SoundSource 成本的三分之一，換來大多數使用者真正會用到的音量功能。</p>
+
+<h2>App Store 的差異</h2>
+<p>由於 SoundDial 透過 <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> 發佈，它經過 Apple 審核並沙盒化。沒有 DMG 要拖曳，沒有核心擴充功能或音訊擷取驅動程式要核准，也沒有獨立的更新程式。你像安裝任何其他 App Store 應用程式一樣安裝它，它就能運作。當 macOS 更新時，你不必去猜想某個低階音訊元件是否還能運作。</p>
+<blockquote>macOS 至今仍沒有內建的個別應用程式音量混音器。Windows 多年來一直有，但在 Mac 上系統音量是全有或全無——這正是這些工具填補的缺口。</blockquote>
+
+<h2>它與免費選項的比較</h2>
+<p>SoundSource 不是你唯一的替代方案。有一些免費工具，而誠實看待它們很重要：</p>
+<ul>
+<li><strong>Background Music</strong> 是一款免費、開源的個別應用程式音量應用程式。它對許多人有用，但可能在較新的 macOS 發佈上失效，更新不規律，而且沒有音量增強、沒有設定檔、也沒有自動降音。</li>
+<li><strong>FineTune</strong> 是一款免費、開源的選單列音量應用程式——輕量又方便，但同樣缺少設定檔與降音功能。</li>
+<li><strong>eqMac</strong> 是一款免費的 EQ 與系統音量增強器。它比較是等化器/音量增強工具，而非真正的個別應用程式混音器，也不專注於個別應用程式滑桿。</li>
+</ul>
+<p>免費是正當的選擇。取捨在於可靠性與功能：開源音訊工具依賴志工維護，可能落後於 macOS 變更，而且沒有任何免費選項像 SoundDial 那樣同時內建設定檔與自動降音。如果你的設定很簡單，而且不介意偶爾失效，免費應用程式或許就夠了。如果你想要一個持續維護、沙盒化且就是能運作的東西，這 €14.99 正是為你買下這個。</p>
+
+<h2>快速決策指南</h2>
+<ul>
+<li><strong>你需要個別應用程式 EQ、音訊效果，以及把一個應用程式路由到不同的輸出裝置</strong> → SoundSource 物有所值。這裡沒有東西能完全取代它。</li>
+<li><strong>你主要需要個別應用程式音量、靜音、音量增強、設定檔與降音——而且不要驅動程式</strong> → €14.99 的 SoundDial 是更划算的選擇。</li>
+<li><strong>你想要免費而且不介意維護風險</strong> → 先試試 Background Music、FineTune 或 eqMac。</li>
+</ul>
+
+<h2>設定它</h2>
+<p>開始使用大約只要一分鐘：</p>
+<ul>
+<li>從 Mac App Store 安裝 SoundDial——沒有外部下載。</li>
+<li>授予 macOS 在首次啟動時要求的音訊權限。</li>
+<li>在幾個應用程式中播放聲音，然後打開選單列圖示；你會看到每一個都有自己的滑桿。</li>
+<li>拖動以設定音量、點按以靜音，或推過 100% 以增強音量。</li>
+<li>把你的設定儲存為設定檔，如果你想在通話或媒體期間讓其他應用程式安靜下來，就開啟自動降音。</li>
+</ul>
+<p>這就是整個流程——沒有設定檔案、不必重新啟動、也沒有系統擴充功能要核准。</p>
+
+<h2>結論</h2>
+<p>SoundSource 是更強大的工具，但大多數尋找它的人只是想要行為正常的個別應用程式音量。SoundDial 以大約三分之一的價格提供這一點，透過 App Store 安全發佈，並在其上加入設定檔與自動降音——而且不需安裝任何一個驅動程式。</p>
+
+<p>準備好獨立控制每個應用程式的音量了嗎？<a href="https://apps.apple.com/app/id6772792641">以 €14.99 一次性取得 Mac App Store 上的 SoundDial</a>。</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "Mac 的 FineTune 替代方案：一款有支援的個別應用程式音量混音器",
+    description: "試過免費的 FineTune 選單列應用程式，想要一個持續維護且 App Store 安全的東西？這裡是 Mac 上個別應用程式音量的最佳 FineTune 替代方案。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果你喜歡 FineTune，但想要一個持續積極維護且從可信賴來源安裝的東西，<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是最快且可靠的解法。它是一款 Mac App Store 的選單列個別應用程式音量混音器，具備獨立音量、個別應用程式靜音、音量增強、已儲存的設定檔與自動降音。經過 Apple 審核並沙盒化，價格為 €14.99 一次性，且沒有驅動程式要安裝。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 的 FineTune 替代方案：一款有支援的個別應用程式音量混音器" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼要尋找 FineTune 替代方案？</h2>
+
+<p>FineTune 是個好點子：一款免費、開源的選單列應用程式，在 macOS 上提供個別應用程式音量控制，那是 Apple 至今仍拒絕內建的東西（Windows 多年來一直有個別應用程式混音器）。對很多人來說它能完成基本工作。但使用者會去尋找別的東西，確實有真實的原因。</p>
+
+<ul>
+<li><strong>維護不確定。</strong>開源的業餘專案存亡取決於單一維護者的空閒時間。當 macOS 推出重大更新時，與音訊相關的應用程式往往最先失效，而你只能等待一個或許永遠不會出現的志工修正。</li>
+<li><strong>功能天花板。</strong>FineTune 涵蓋個別應用程式音量，此外幾乎沒有別的。如果你想要突破 100% 的音量增強、已儲存的設定檔或自動降音，你就得再搭配其他工具。</li>
+<li><strong>信任與更新。</strong>在 App Store 之外安裝一個原始建置版本，意味著沒有自動審核、沒有沙盒保證，還有你必須自己追蹤的手動更新。</li>
+</ul>
+
+<p>這些都不代表 FineTune 不好。它只是意味著，如果你每天都依賴個別應用程式音訊，你大概會想要一個背後有支援模式的東西。</p>
+
+<h2>SoundDial 有何不同</h2>
+
+<p>SoundDial 從同樣的核心想法出發——一款為每個運作中的應用程式提供滑桿的選單列混音器——然後以進階使用者實際要求的功能更進一步。</p>
+
+<ul>
+<li><strong>每個應用程式獨立音量。</strong>把 Spotify 調低、讓你的通話保持全音量、把吵鬧瀏覽器分頁的應用程式完全靜音，全部在同一個選單中完成。</li>
+<li><strong>個別應用程式音量增強。</strong>當播客或影片母帶做得太低時，把安靜的應用程式推過其正常上限。FineTune 做不到這一點。</li>
+<li><strong>音量設定檔。</strong>儲存一組混音——「專注」、「遊戲」、「會議」——並一鍵切換你的整套設定，而不必微調五個滑桿。</li>
+<li><strong>自動降音。</strong>當更重要的東西開始播放時，自動降低背景音訊，讓來電時音樂降下來。</li>
+<li><strong>快速輸出切換。</strong>在喇叭、耳機與其他輸出之間跳轉，不必深入「系統設定」。</li>
+</ul>
+
+<p>由於 <a href="https://apps.apple.com/app/id6772792641">SoundDial 透過 Mac App Store 發佈</a>，它經過 Apple 審核並沙盒化，安裝乾淨俐落，並透過與其他所有 App Store 應用程式相同的機制更新。沒有 DMG 要拖曳，沒有音訊驅動程式或系統擴充功能，也沒有要求你允許核心層級元件的安全提示。</p>
+
+<h2>SoundDial vs. FineTune 與其他免費工具</h2>
+
+<p>FineTune 不是唯一的免費選項，誠實地看清整個局面會有幫助。</p>
+
+<ul>
+<li><strong>FineTune</strong>——免費、開源的選單列個別應用程式音量。簡單又輕量，但沒有音量增強、沒有設定檔、沒有降音，而且維護取決於社群。</li>
+<li><strong>Background Music</strong>——免費且開源，路由並調整個別應用程式音訊。真的很有用，但可能在較新的 macOS 發佈上失效，而且缺少音量增強、設定檔與降音。</li>
+<li><strong>eqMac</strong>——免費的 EQ 與系統音量增強器。如果你主要想要等化器那很棒，但它不是個別應用程式混音器。</li>
+<li><strong>SoundSource（Rogue Amoeba）</strong>——約 $39 的專業級選項，具備個別應用程式 EQ 與輸出路由。非常出色，但它需要下載外加一個音訊擷取驅動程式，而且價格是兩倍多。</li>
+<li><strong>SoundDial</strong>——€14.99 一次性，App Store 安全，沒有驅動程式。在個別應用程式音量基礎上加入音量增強、設定檔與自動降音。</li>
+</ul>
+
+<p>誠實的總結：如果你想要絕對最便宜的東西，而且只需要基本的個別應用程式音量，免費工具可以勝任。如果你想要個別應用程式 EQ 與路由，並且不介意付費和安裝驅動程式，SoundSource 是重量級選手。SoundDial 位於甜蜜點——比免費應用程式更有能力，比 SoundSource 便宜得多，而且比兩者都更安全，因為 Apple 會審核並沙盒化它。</p>
+
+<h2>從 FineTune 轉移過來</h2>
+
+<p>切換只需幾分鐘，而且沒有清理儀式。</p>
+
+<ul>
+<li>從 Mac App Store 安裝 SoundDial。沒有安裝程式、沒有驅動程式核准、不必重新開機。</li>
+<li>點按選單列中的 SoundDial 圖示，即可看到每個運作中應用程式的滑桿。</li>
+<li>設定你的日常混音，然後把它儲存為設定檔，這樣你就能即時召回。</li>
+<li>可選擇性地開啟自動降音，讓背景音訊為通話與提示讓路。</li>
+<li>當你滿意時，就結束 FineTune。由於兩款應用程式都不安裝系統驅動程式，沒有任何殘留物要解除安裝。</li>
+</ul>
+
+<p>你保留了 FineTune 中你喜歡的東西——一個 Apple 從未給過你的乾淨選單列混音器——並獲得音量增強、設定檔、降音，以及一款維護中的 App Store 應用程式所提供的長期支援。</p>
+
+<h2>結論</h2>
+
+<p>FineTune 證明了這個概念：個別應用程式音量屬於選單列。SoundDial 就是這個概念在具備真正支援模式、更多功能與 App Store 安全性之下的樣子，只需一次性 €14.99，而不是押注在志工的維護上。</p>
+
+<p>準備好擁有一個持續維護的個別應用程式混音器了嗎？<a href="https://apps.apple.com/app/id6772792641">取得 Mac App Store 上的 SoundDial</a>，幾秒鐘內就能控制每個應用程式的音量。</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "Mac 上實現真正個別應用程式音量的 eqMac 替代方案",
+    description: "喜歡 eqMac 的音量增強，但需要真正的個別應用程式音量、靜音與設定檔？SoundDial 是最快的 Mac App Store 解法——€14.99、沙盒化、沒有驅動程式。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果你用 eqMac 是為了它的 EQ 與音量增強器，但其實想要每個應用程式獨立的音量——外加靜音、音量增強與已儲存的設定檔——最快且可靠的解法就是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。它是一款 Mac App Store 選單列混音器：為每個應用程式設定音量、增強安靜的應用程式，並即時切換設定檔。€14.99 一次性、沙盒化、沒有驅動程式要安裝。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 上實現真正個別應用程式音量的 eqMac 替代方案" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac vs. 你真正需要的東西</h2>
+
+<p>eqMac 是一款可靠的免費工具，它的全系統等化器與音量增強器真的很有用。但 eqMac 是圍繞一個主 EQ 與一個主輸出打造的。它並不提供真正的個別應用程式音量混音器——那個 Windows 多年來一直有、而 macOS 至今仍未原生內建的東西。</p>
+
+<p>所以如果你真正的問題是「我在通話時 Spotify 太吵」或「這一款遊戲震破我的耳朵，但其他一切都好」，eqMac 就不是這份工作合適的形狀。你最後只能操縱單一主滑桿，或去擺弄每個應用程式的內部音量。那正是 SoundDial 填補的缺口。</p>
+
+<h2>SoundDial 能做而 eqMac 不能做的事</h2>
+
+<ul>
+<li><strong>每個應用程式獨立音量</strong>——音樂 40%、瀏覽器 100%、視訊通話 70%，同時進行，全部記住。</li>
+<li><strong>個別應用程式靜音</strong>——即時靜音一個吵鬧的應用程式，而不動到其他任何東西。</li>
+<li><strong>個別應用程式音量增強</strong>——把安靜的應用程式推過其正常上限，就像 eqMac 的音量增強器那樣，但瞄準單一應用程式而非整個系統。</li>
+<li><strong>音量設定檔</strong>——儲存「專注」、「遊戲」或「會議」這類設定，並一鍵切換整套混音。</li>
+<li><strong>自動降音</strong>——當更重要的東西開始時，自動降低背景音訊，讓你不必在通話中途手忙腳亂地找滑桿。</li>
+<li><strong>快速輸出切換</strong>——從選單列在喇叭、耳機與其他輸出之間跳轉。</li>
+</ul>
+
+<p>與 eqMac 的重疊之處基本上就是音量增強。其他一切——混音器、靜音、設定檔、降音——都是 eqMac 從未被設計來涵蓋的領域。</p>
+
+<h2>你還想要 EQ 嗎？</h2>
+
+<p>誠實面對你正在解決哪個問題。如果你真的需要頻率 EQ——削減低音、馴服刺耳的高音、塑造整個系統的音色——那麼 eqMac 仍有它的位置，而且它是免費的。SoundDial 是一款音量混音器，不是等化器。</p>
+
+<p>但大多數人拿起 eqMac 的音量增強器，並不是因為想要塑造頻率，而是想要某個應用程式更大聲或讓混音平衡。如果那是你，一款專用的混音器才是更乾淨的答案。你甚至可以兩者並用：保留 eqMac 作為全系統 EQ 曲線，並用 SoundDial 處理個別應用程式音量。它們不會爭搶同一份工作。</p>
+
+<h2>它與其他 Mac 音訊工具的比較</h2>
+
+<p>既然你已經在找工具，這裡誠實地說明局面：</p>
+
+<ul>
+<li><strong>SoundSource（Rogue Amoeba）</strong>——約 $39 的專業級選項，具備個別應用程式 EQ 與完整輸出路由。強大，但它需要直接下載並安裝一個音訊擷取驅動程式。如果你想要的只是帶設定檔的個別應用程式音量，它就太過頭且較貴。</li>
+<li><strong>Background Music</strong>——免費且開源，但可能在較新的 macOS 發佈上失效，而且沒有音量增強、沒有設定檔、也沒有自動降音。能用時很棒，不能用時很惱人。</li>
+<li><strong>FineTune</strong>——一款免費開源的選單列應用程式。如果 $0 是硬性要求，值得一看，不過功能與精緻度較輕。</li>
+<li><strong>eqMac</strong>——免費的 EQ 加音量增強器，但如上所述，沒有真正的個別應用程式混音器。</li>
+</ul>
+
+<p>SoundDial 位於甜蜜點：比 SoundSource 更專注且更便宜，比免費選項更有能力且更可靠，而且它做到了 eqMac 做不到的個別應用程式工作。</p>
+
+<h2>為什麼 Mac App Store 在這裡很重要</h2>
+
+<p>這些工具中有好幾個需要直接下載，以及一個核心層級或擷取型音訊驅動程式。它們能運作，但那種東西可能在 macOS 更新時卡住，或在被鎖定的工作 Mac 上出問題。</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 改為透過 Mac App Store 發佈。這意味著它經過 Apple 審核並沙盒化，安裝乾淨俐落，沒有 DMG 要拖曳，也沒有音訊驅動程式或系統擴充功能要核准。更新像任何其他應用程式一樣透過 App Store 到來，解除安裝就是一般的刪除。對一款會觸及你音訊的選單列工具而言，那種更低摩擦、更低風險的路徑很有價值。</p>
+
+<h2>快速設定</h2>
+
+<ul>
+<li>從 Mac App Store 安裝 SoundDial——不必重新開機，沒有驅動程式提示。</li>
+<li>打開選單列圖示；每個目前正在發出聲音的應用程式都會帶著自己的滑桿出現。</li>
+<li>設定音量、靜音你不需要的、增強任何太安靜的東西。</li>
+<li>把這套安排儲存為設定檔，然後為遊戲、通話或專注建立更多設定檔。</li>
+<li>開啟自動降音，讓背景音訊自動讓路。</li>
+</ul>
+
+<p>這就是整個循環。幾分鐘之內，你就擁有了 eqMac 的音量增強器只能暗示的那種個別應用程式控制。</p>
+
+<p><strong>準備好在你的 Mac 上實現真正的個別應用程式音量了嗎？</strong><a href="https://apps.apple.com/app/id6772792641">取得 Mac App Store 上的 SoundDial</a>——€14.99 一次性、沙盒化、沒有驅動程式，而且它確實做到了一款選單列混音器該做的事。</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "2026 年 Mac 上最便宜的好用音量混音器",
+    description: "在尋找 2026 年 Mac 上最便宜的好用個別應用程式音量混音器？從價格、安全性與功能比較 SoundDial、SoundSource、Background Music、FineTune 與 eqMac。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>2026 年 Mac 上最划算的個別應用程式音量混音器是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 Mac App Store 上的選單列應用程式，一次性 €14.99。它讓每個應用程式都擁有自己的音量滑桿，外加靜音、音量增強、設定檔與自動降音——沒有驅動程式、沒有訂閱制，也沒有有風險的下載。它是唯一真正可靠運作的最便宜付費選項。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 2026 年 Mac 上最便宜的好用音量混音器" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼「最便宜」需要一個定義</h2>
+<p>Mac 有免費的音量工具，所以如果唯一的目標是花零元，你有選項。但免費通常會在別處讓你付出代價：在新 macOS 版本上的脆弱、缺少音量增強或設定檔這類功能，或是一個需要你去信任的音訊擷取驅動程式安裝流程。「最便宜的好用」意味著：仍能給你一個穩定、功能完整、你會持續使用的混音器的最低價格。這就是我們在這裡採用的視角。</p>
+
+<h2>首先，macOS 做不到的那件事</h2>
+<p>Windows 多年來一直有個別應用程式音量混音器——右鍵點按喇叭圖示，就能獨立設定每個應用程式。macOS 至今仍沒有內建任何對等的東西。你得到一個主音量，以及某個應用程式碰巧內建的滑桿（音樂、某些瀏覽器）。沒有全系統的方式讓 Slack 比 Spotify 更安靜，或把一場安靜的視訊通話增強到蓋過一切。以下每個選項的存在都是為了填補那個缺口。</p>
+
+<h2>參賽者，誠實定價</h2>
+
+<h2>SoundDial——€14.99，一次性</h2>
+<p>SoundDial 常駐在你的選單列，並為每個運作中的應用程式提供獨立的音量滑桿。在基本功能之外，它加入了人們真正會用到的功能：</p>
+<ul>
+<li><strong>個別應用程式音量增強</strong>——把一個太安靜的應用程式推過 100%，而不必費力去聽。</li>
+<li><strong>個別應用程式靜音</strong>——靜音一個應用程式而不動到其餘的。</li>
+<li><strong>音量設定檔</strong>——儲存「工作通話」或「電影之夜」的混音並即時召回。</li>
+<li><strong>自動降音</strong>——當更重要的東西播放時，自動降低背景音訊。</li>
+<li><strong>快速輸出切換</strong>——從同一個選單在喇叭、耳機與其他裝置之間跳轉。</li>
+</ul>
+<p>由於它在 Mac App Store 上，它是沙盒化、經過 Apple 審核且安裝乾淨俐落的——沒有 DMG、沒有核心擴充功能、也沒有音訊驅動程式要核准。你付 <a href="https://apps.apple.com/app/id6772792641">€14.99 一次</a>就擁有它。對大多數人而言，這就是甜蜜點：便宜到容易點頭，完整到你不會用膩。</p>
+
+<h2>SoundSource——約 $39，專業選項</h2>
+<p>Rogue Amoeba 的 SoundSource 是進階使用者的黃金標準。它像 SoundDial 一樣提供個別應用程式音量與靜音，但更進一步提供個別應用程式等化器與完整輸出路由（把一個應用程式送到耳機、另一個送到喇叭）。它真的很出色——但大約 $39，而且它在 App Store 之外安裝，帶有一個你必須授權的音訊擷取元件。如果你需要個別應用程式 EQ 或複雜的路由，它值這筆錢。如果你只想要一個乾淨又便宜的混音器，你就是在為你可能永遠不會碰的功能付費。</p>
+
+<h2>Background Music——免費、開源</h2>
+<p>Background Music 是一款知名的免費開源應用程式，提供個別應用程式音量與自動暫停。缺點是：它透過一個虛擬驅動程式深入接入 CoreAudio，而且它有很長一段在新 macOS 發佈上失效的歷史，有時在更新後需要手動修正或重新安裝。它也缺少音量增強、已儲存的設定檔與自動降音。對不介意維護的愛折騰者很棒；對只想要它能用的人則很惱人。</p>
+
+<h2>FineTune——免費、選單列</h2>
+<p>FineTune 是一款免費、開源的選單列音量應用程式。它輕量又討喜，對簡單的個別應用程式調整而言可能就夠了。但作為一個小型免費專案，它在功能深度上比不上——沒有設定檔、沒有自動降音，而且音量增強／輸出處理有限。零成本，但在壽命與支援上較無保證。</p>
+
+<h2>eqMac——免費、EQ + 音量增強器</h2>
+<p>eqMac 是一款免費的全系統等化器，帶有音量增強器。它比較著重於塑造整台 Mac 的音色與響度，而非混合個別應用程式，所以它是為不同工作而生的不同工具。如果你特別想要個別應用程式控制，eqMac 並不真的是答案，不過它是一款不錯的免費 EQ。</p>
+
+<h2>價格 vs. 價值：誠實的表格</h2>
+<ul>
+<li><strong>真正免費，但有取捨：</strong>Background Music（脆弱、驅動程式為基礎）、FineTune（功能單薄）、eqMac（是 EQ，不是混音器）。</li>
+<li><strong>最便宜的完整付費應用程式：</strong>SoundDial，€14.99——音量增強、設定檔、降音、App Store 安全性。</li>
+<li><strong>高階／專業：</strong>SoundSource，約 $39——EQ 與路由，非 App Store 安裝。</li>
+</ul>
+<p>換句話說：SoundDial 的成本大約是 SoundSource 的三分之一，卻涵蓋了 90% 的人真正想要的功能。而且不像免費選項，它不會在某次 macOS 更新後悄悄失效，因為它不依賴一個脆弱的系統層級音訊驅動程式。</p>
+
+<h2>你該選哪一個？</h2>
+<p>如果你是需要個別應用程式 EQ 並把應用程式路由到不同輸出的專業人士，就買 SoundSource——它值那個價。如果你熱愛開源且不介意偶爾失效，可免費試試 Background Music 或 FineTune。但如果你想要一個就是能用的最便宜選項——獨立音量、音量增強、靜音、可儲存的設定檔與自動降音，並從 App Store 安全安裝——SoundDial 是 2026 年明顯的價值贏家。</p>
+
+<blockquote>最好的混音器不是功能最多或價格最低的那一個——而是你設定一次就能忘掉的那一個。在 €14.99，SoundDial 讓這件事變得容易決定。</blockquote>
+
+<p>準備好讓每個應用程式擁有自己的音量了嗎？<a href="https://apps.apple.com/app/id6772792641">以一次性 €14.99 取得 Mac App Store 上的 SoundDial</a>——沒有訂閱、沒有驅動程式、沒有風險。</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Mac 版 Windows 音量混音器：取得個別應用程式音量控制",
+    description: "在你的 Mac 上懷念 Windows 音量混音器？macOS 沒有內建的個別應用程式音量控制。這裡是取得它最快的方式：SoundDial，一款 €14.99 的選單列混音器。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有像 Windows 那樣內建的音量混音器，所以你無法從「系統設定」設定個別應用程式音量。最快且可靠的解法是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款來自 Mac App Store 的 €14.99 選單列應用程式。它讓每個應用程式都擁有自己的音量滑桿、靜音與音量增強——沒有驅動程式、沒有 DMG、沒有有風險的安裝。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 版 Windows 音量混音器：取得個別應用程式音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 Windows 音量混音器在 Mac 上沒有對等物</h2>
+
+<p>如果你從 Windows 轉過來，你最先會懷念的事情之一就是音量混音器：右鍵點按喇叭圖示，每個運作中的應用程式都有自己的滑桿。把 Chrome 調低、讓 Discord 保持大聲、把 Spotify 靜音——全部在同一個地方。</p>
+
+<p>macOS 就是沒有內建這個。Apple 的音量控制是單一的全系統滑桿。無論你設定什麼音量，都會一次套用到所有東西。「系統設定」裡沒有隱藏的個別應用程式選項，沒有 Terminal 指令，也沒有輔助使用切換開關。這是一個真正的缺口，而且多年來一直如此。</p>
+
+<p>原因在於架構：應用程式透過 CoreAudio 把音訊路由到你的輸出裝置，而 OS 並不為個別串流公開一個面向使用者的混音器。要重現 Windows 的體驗，你需要一款位於那條音訊路徑上的第三方應用程式，提供 Apple 遺漏的控制。</p>
+
+<h2>最接近的對應：SoundDial</h2>
+
+<p>SoundDial 是一款專為此打造的選單列個別應用程式音量混音器。點按它的圖示，你就會得到一份所有正在播放音訊的東西的乾淨清單，每一個都有自己的滑桿。它是你能安裝的最直接的「Mac 版 Windows 音量混音器」，而且它做到了幾件 Windows 混音器從來做不到的事：</p>
+
+<ul>
+<li><strong>每個應用程式獨立音量</strong>——核心功能。把 Chrome 設為 40%、Zoom 設為 100%、音樂設為 20%。</li>
+<li><strong>個別應用程式靜音</strong>——靜音一個應用程式而不動到其餘的。</li>
+<li><strong>個別應用程式音量增強</strong>——當一個應用程式自身的音訊太低時，把它推到 <em>超過</em> 100%。</li>
+<li><strong>音量設定檔</strong>——儲存一組混音（例如「工作通話」或「遊戲」）並即時召回，而不必重新拖動滑桿。</li>
+<li><strong>自動降音</strong>——當更重要的東西開始時（例如通話），自動降低背景音訊。</li>
+<li><strong>快速輸出切換</strong>——從同一個選單在喇叭、耳機與其他裝置之間跳轉。</li>
+</ul>
+
+<p>由於它在 <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> 上，它經過 Apple 審核並沙盒化。它一鍵就能乾淨安裝——沒有 DMG 要拖曳，沒有音訊驅動程式或系統擴充功能要核准，也沒有安全提示。在 €14.99 一次性（沒有訂閱制）之下，它是填補這個缺口最簡單的方式。</p>
+
+<h2>如何在你的 Mac 上設定個別應用程式音量</h2>
+
+<ol>
+<li>從 Mac App Store 安裝 SoundDial。</li>
+<li>授予它在首次啟動時要求的一次性音訊權限。</li>
+<li>點按選單列中的 SoundDial 圖示。</li>
+<li>拖動任何應用程式旁邊的滑桿以設定其音量，或按下靜音／音量增強。</li>
+<li>可選擇性地把目前的混音儲存為設定檔，這樣你稍後就能還原。</li>
+</ol>
+
+<p>這就是整個流程。它的行為就像你已經熟悉的 Windows 混音器，只是從選單列操作，而不是在工作列上右鍵點按。</p>
+
+<h2>SoundDial 與其他選項的比較</h2>
+
+<p>SoundDial 不是這個領域裡唯一的工具，所以這裡誠實地看看替代方案。</p>
+
+<ul>
+<li><strong>SoundSource（Rogue Amoeba）</strong>——約 $39，而且真的是專業級的：個別應用程式 EQ、個別應用程式輸出路由、效果。但它需要直接下載外加一個音訊擷取驅動程式，而且如果你只想要個別應用程式音量，它就太過頭（且較貴）。如果你需要 EQ 與路由就選它；如果你想要沒有複雜度或驅動程式的混音器就選 SoundDial。</li>
+<li><strong>Background Music</strong>——免費且開源，這很棒。缺點是：它可能在較新的 macOS 版本上失效，而且缺少音量增強、已儲存的設定檔與自動降音。如果你樂於排解開源音訊驅動程式的問題那沒問題；如果你想要就是能用的東西則較不理想。</li>
+<li><strong>FineTune</strong>——一款免費開源的選單列應用程式。輕量，如果預算是優先考量值得一看，但你是用精緻度、設定檔與 App Store 安全性去換免費。</li>
+<li><strong>eqMac</strong>——一款免費的 EQ 與全系統音量增強器。它首先是一個等化器，而非個別應用程式混音器，所以它解決的是不同的問題。</li>
+</ul>
+
+<p>取捨很簡單。免費工具不花錢，但可能脆弱或功能單薄。SoundSource 強大但昂貴且以驅動程式為基礎。SoundDial 位於甜蜜點：一次性 €14.99、App Store 安全性與沙盒化，以及免費選項略過的設定檔 + 自動降音。</p>
+
+<blockquote>如果你想要的只是 Windows 音量混音器的體驗——個別應用程式滑桿、靜音與音量增強，並在數秒內安全安裝——SoundDial 是最直接的對應。</blockquote>
+
+<h2>結論</h2>
+
+<p>macOS 不會給你音量混音器，而且大概永遠不會。但你不必忍受單一的全系統滑桿。一款專用的選單列混音器能還原你在 Windows 上擁有的個別應用程式控制，並在其上加入音量增強、設定檔與自動降音。</p>
+
+<p>準備好用簡單的方式取得個別應用程式音量了嗎？<a href="https://apps.apple.com/app/id6772792641">以 €14.99 取得 Mac App Store 上的 SoundDial</a>——一次性、沙盒化，而且數秒內安裝完成。</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "像 Windows 一樣設定應用程式音量——在你的 Mac 上",
+    description: "Windows 有個別應用程式音量混音器，但 macOS 沒有。這裡是如何在你的 Mac 上為每個應用程式設定獨立音量——快速、安全、且沒有驅動程式。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有像 Windows 那樣內建的個別應用程式音量混音器，所以最快且可靠的解法是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 Mac App Store 選單列應用程式，讓每個應用程式都擁有自己的音量滑桿、個別應用程式靜音與音量增強。它沙盒化、經過 Apple 審核、安裝時沒有驅動程式，而且一次性 €14.99。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 像 Windows 一樣設定應用程式音量——在你的 Mac 上" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 Windows 能做到而 macOS 不能</h2>
+<p>如果你用過 Windows，你懂那套流程：右鍵點按喇叭圖示、開啟音量混音器，然後為 Chrome、Spotify、Discord 以及任何其他正在發出聲音的東西拖動各自的滑桿。它很簡單，而且就是能用。</p>
+<p>macOS 從未推出對等物。Apple 的音訊控制是全域的——整個系統只有一個主音量。你可以在某個應用程式內部靜音來源（如果它甚至有控制項），但沒有一個統一的地方讓你說「讓我的音樂維持在 40%，同時讓我的會議維持在 100%」。那個缺口正是第三方混音器存在的原因。</p>
+
+<h2>最快的解法：一款選單列混音器</h2>
+<p>最接近 Windows 體驗的是一款會列出你運作中音訊應用程式並為每一個提供滑桿的選單列應用程式。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 正是這麼做的。點按選單列中的圖示，你就會得到：</p>
+<ul>
+<li><strong>每個應用程式獨立音量</strong>——把 Spotify 調低而不動到你的通話。</li>
+<li><strong>個別應用程式靜音</strong>——即時靜音一個吵鬧的應用程式，讓其餘的繼續播放。</li>
+<li><strong>個別應用程式音量增強</strong>——當一個應用程式自身的最大值仍太小聲時，把它推到 <em>超過</em> 100%。</li>
+<li><strong>音量設定檔</strong>——儲存「工作」或「遊戲」混音並一鍵召回。</li>
+<li><strong>自動降音</strong>——當更重要的東西開始時，自動降低背景音訊。</li>
+<li><strong>快速輸出切換</strong>——從同一個選單在喇叭、耳機與其他輸出之間跳轉。</li>
+</ul>
+<p>由於它在 Mac App Store 上，它沙盒化並經 Apple 審核，安裝乾淨俐落，沒有 DMG 要拖曳，沒有核心擴充功能，也沒有音訊驅動程式要在「系統設定」中核准。最後那點比聽起來更重要——以驅動程式為基礎的工具正是那些傾向於在 macOS 更新後失效的東西。</p>
+
+<h2>如何設定（約兩分鐘）</h2>
+<ul>
+<li><strong>1.</strong> 從 Mac App Store 安裝 SoundDial 並啟動它。</li>
+<li><strong>2.</strong> 授予 macOS 要求的音訊權限——這正是讓應用程式看見個別應用程式串流的關鍵。</li>
+<li><strong>3.</strong> 點按選單列中的 SoundDial 圖示。每個目前正在播放音訊的應用程式都會帶著自己的滑桿出現。</li>
+<li><strong>4.</strong> 拖動任何應用程式的滑桿以設定其音量，或按下靜音。當一個應用程式太安靜時，把音量增強到超過 100%。</li>
+<li><strong>5.</strong> （可選）把你目前的混音儲存為設定檔，這樣你稍後就能還原；如果你想讓背景音訊自動降低，就開啟自動降音。</li>
+</ul>
+<p>這就是整個流程。它的行為就像你已經熟悉的 Windows 音量混音器，只是少了設定的摩擦。</p>
+
+<h2>那免費與專業替代方案呢？</h2>
+<p>在 Mac 上還有其他取得個別應用程式音量的方式。值得認識它們，好讓你誠實地選擇。</p>
+<blockquote>免費工具用金錢換可靠性與功能；專業工具用金錢與設定換你可能不需要的深度。</blockquote>
+<p><strong>Background Music</strong> 免費且開源，而且確實提供個別應用程式音量。缺點是：它深入接入音訊系統，並有在較新 macOS 發佈上失效的歷史，而且缺少音量增強、設定檔與自動降音。如果它在你的設定上能用那很好——但跨版本升級是一場賭博。</p>
+<p><strong>FineTune</strong> 是一款免費、開源的選單列應用程式，與 SoundDial 精神相同。如果預算是唯一考量，它是不錯的起點，不過它是一個社群專案，沒有設定檔與降音的精緻度。</p>
+<p><strong>eqMac</strong> 是一款免費的全系統 EQ 與音量增強器。它非常適合塑造整體聲音，但它不是真正的個別應用程式混音器——你調整的是整個輸出，而非個別應用程式。</p>
+<p><strong>SoundSource</strong>（Rogue Amoeba，約 $39）是專業級選項：個別應用程式 EQ、個別應用程式輸出路由，以及嚴肅的音訊工程師功能。它很出色——但它需要直接下載並安裝一個音訊擷取元件，而且成本是 SoundDial 的兩倍多。如果你想要錄音室級的路由與 EQ，它是首選。如果你只想要 Windows 式的混音器，它就太過頭。</p>
+
+<h2>你該選哪一個？</h2>
+<p>如果你的目標是「讓我的 Mac 像 Windows 音量混音器一樣運作」而不要下載、驅動程式或風險，SoundDial 是最乾淨的答案。你得到個別應用程式音量、靜音、音量增強、設定檔與自動降音，全部 App Store 安全，只需一次性 €14.99——沒有訂閱制。只有在你特別需要個別應用程式 EQ 與輸出路由時才改選 SoundSource；如果你樂於在 macOS 更新之間排解問題，就試試免費選項。</p>
+
+<p><strong>準備好讓每個應用程式擁有自己的音量了嗎？</strong><a href="https://apps.apple.com/app/id6772792641">取得 Mac App Store 上的 SoundDial</a>，大約兩分鐘就能設定好你的第一組混音。</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "如何讓你的 Mac 更大聲，以便重聽者聆聽",
+    description: "即使在最大音量下也難以聽清 Mac？學習如何為重聽聆聽逐個應用程式增強並清晰化音訊，包括 SoundDial 與內建技巧。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果你的 Mac 即使在最大音量下也不夠大聲，最快且可靠的解法是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 Mac App Store 選單列混音器，讓你把任何單一應用程式增強到超過 100%，並把其他一切靜音。這意味著來自 FaceTime、影片或電影播放器的語音更大聲、更清晰，而不必把整個系統音量拉滿。它是 €14.99，一次性。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 如何讓你的 Mac 更大聲，以便重聽者聆聽" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼把音量滑桿拉滿仍然不夠</h2>
+<p>對重聽的聆聽者而言，macOS 音量滑桿有兩個令人沮喪的限制。第一，它以應用程式本身輸出的 100% 為上限。如果播客、影片或通話錄製得很小聲，「全音量」仍然太柔弱。第二，macOS 沒有內建的個別應用程式音量混音器。Windows 多年來一直有，但在 Mac 上每個應用程式共用單一的主音量。所以當你把所有東西調大以聽清一個柔弱的聲音時，背景音樂與通知聲也會變得令人不適地大聲。</p>
+<p>你真正需要的能力是：讓 <em>一個</em> 應用程式比其餘的更大聲、把它推過其正常上限，並削減競爭的聲音，好讓語音突出。那正是這些工具填補的缺口。</p>
+
+<h2>首先，使用免費的 macOS 輔助使用設定</h2>
+<p>在加入任何應用程式之前，先設定好 macOS 已經提供的東西是值得的。這些有助於清晰度，儘管它們不會增加原始的響度：</p>
+<ul>
+<li><strong>單聲道音訊：</strong>「系統設定」&rarr;「輔助使用」&rarr;「音訊」，開啟「以單聲道播放立體聲」。如果你一隻耳朵的聽力較強，這會把完整訊號送到兩邊，讓你不會漏掉一半的對白。</li>
+<li><strong>平衡調整：</strong>在「系統設定」&rarr;「聲音」中，把左右平衡拖向你較強的那隻耳朵。</li>
+<li><strong>減少背景聲音：</strong>在允許的應用程式中降低音樂與環境音，讓聲音不必與配樂搏鬥。</li>
+<li><strong>耳機調節：</strong>如果你使用 AirPods 或 Beats，「系統設定」&rarr;「輔助使用」&rarr;「音訊」&rarr;「耳機調節」能放大柔弱的聲音並針對語音調校。</li>
+</ul>
+<p>這些真的很有用而且完全免費。但它們都無法讓單一安靜的應用程式 <em>大聲超過 100%</em>，而那通常才是真正的問題。</p>
+
+<h2>如何用 SoundDial 把一個應用程式增強到超過 100%</h2>
+<p>SoundDial 常駐在你的選單列，並為每個目前正在播放聲音的應用程式顯示一個滑桿。以下是對重聽聆聽最有幫助的流程：</p>
+<ul>
+<li><strong>增強你正在聆聽的應用程式。</strong>把它的滑桿拖到超過 100%，以放大一個安靜的視訊通話或播客，超過應用程式本身允許的範圍。</li>
+<li><strong>靜音或降低其他一切。</strong>把音樂、瀏覽器分頁或通知聲拉下來，讓沒有東西與你想聽清的聲音競爭。</li>
+<li><strong>開啟自動降音。</strong>當你在通話中開始說話時，SoundDial 會自動降低其他音訊，讓與你交談的人清晰傳來，之後再還原。</li>
+<li><strong>儲存音量設定檔。</strong>建立一個「視訊通話」設定檔，其中你的會議應用程式被增強、其餘一切都很安靜，然後即時切換到它，而不必每次重新調整。</li>
+<li><strong>快速切換輸出。</strong>從同一個選單在喇叭、耳機或連接助聽器的裝置之間跳轉，不必翻找「系統設定」。</li>
+</ul>
+<p>音量增強功能在這裡是關鍵。因為它把應用程式的輸出提高到超過其原生最大值，一段細語般安靜的錄音就變成你真正聽得見的東西，而你系統的其餘部分則維持在舒適的音量。</p>
+
+<h2>關於失真的簡短提醒</h2>
+<p>任何軟體音量增強都會放大訊號中的一切，所以把已經很大聲的音訊推到遠超 100% 可能會引入削峰。實務上，把 <em>安靜</em> 的內容增強到舒適、清晰可辨的程度聽起來很乾淨。從溫和開始，提高到語音清晰為止，如果開始變得刺耳就退回一些。保護你僅存的聽力很重要，所以請以清晰度為目標，而非最大響度。</p>
+
+<h2>SoundDial 與替代方案的比較</h2>
+<p>你有幾個選項，而誠實有助於你選對那一個：</p>
+<ul>
+<li><strong>SoundSource（Rogue Amoeba，約 $39）：</strong>真的是專業級的，具備個別應用程式 EQ 與輸出路由。如果你想針對聽力損失雕塑頻率，它很強大。但它的成本是兩倍多，需要直接下載，並安裝一個音訊擷取驅動程式。那對許多人而言是超出所需的設定與系統存取。</li>
+<li><strong>Background Music（免費、開源）：</strong>免費提供個別應用程式音量，但缺少音量增強、設定檔與自動降音，而且由於它深入接入音訊系統，可能在較新的 macOS 版本上失效。</li>
+<li><strong>FineTune（免費、開源）：</strong>一款輕量的選單列音量應用程式。應付基本需求還行，但沒有重聽聆聽者倚賴的音量增強、設定檔與降音。</li>
+<li><strong>eqMac（免費）：</strong>一款帶音量增強器的等化器。對塑造聲音有用，但它是圍繞 EQ 打造，而非乾淨的個別應用程式混音與設定檔。</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 出眾之處在於價格、安全性，以及在這裡真正重要的特定功能之間的平衡。由於它在 Mac App Store 上，它經過 Apple 審核並沙盒化，安裝乾淨俐落且沒有 DMG，也不需要音訊驅動程式或系統擴充功能。你在一筆 €14.99 一次性購買中，就能得到個別應用程式音量增強、靜音、音量設定檔與自動降音，而且沒有任何東西深入挖進 macOS 音訊堆疊。</p>
+
+<h2>結論</h2>
+<p>先設定好免費的 macOS 輔助使用選項，它們值得擁有。但如果真正的問題是某一個應用程式就是太安靜，你就需要一個能把單一應用程式推過 100% 並讓其餘安靜下來的工具。那正是個別應用程式音量增強的全部意義，而 macOS 自己做不到這一點。</p>
+
+<p>準備好真正聽清你的 Mac 了嗎？<a href="https://apps.apple.com/app/id6772792641">以 €14.99 取得 Mac App Store 上的 SoundDial</a>，增強你需要的應用程式，並讓自動降音與設定檔保持語音清晰。</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "如何在 Mac 上增強安靜的應用程式（超過最大音量）",
+    description: "某個應用程式即使在 100% 也太安靜？在 Mac 上用 SoundDial（一款個別應用程式音量混音器）把那個應用程式增強到超過其上限。這裡是最快的解法外加替代方案。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果某個應用程式即使在最大音量下也太安靜，最快且可靠的解法是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 macOS 選單列個別應用程式音量混音器。它讓每個應用程式都擁有自己的滑桿，外加一個把單一應用程式推過 100% 的音量 <strong>增強</strong>，讓一個細語般安靜的視訊通話或瀏覽器分頁變大聲，而不必動到你的系統音量。它是 Mac App Store 上一款一次性 €14.99 的應用程式。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 如何在 Mac 上增強安靜的應用程式（超過最大音量）" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼一個應用程式即使在 100% 也很安靜</h2>
+<p>macOS 只有一個主音量。當你把它調大時，所有東西會一起變大聲。但每個應用程式也以自己的內部音量輸出聲音，而那個音量差異極大。一段做得很安靜的 YouTube 短片、一個麥克風不佳的 Zoom 來電者、一款對白混音很低的遊戲，或一個串流很柔弱的瀏覽器分頁，即使你的 Mac 火力全開，都可能遠低於其他一切。</p>
+<p>真正的問題是：macOS <strong>沒有內建的個別應用程式音量混音器</strong>。Windows 多年來一直有一個（音量混音器，右鍵點按喇叭圖示）。在 Mac 上，沒有原生的方式在讓其餘部分不變的情況下把一個應用程式調大，更絕對沒有辦法把單一應用程式放大到 <em>超過</em> 其正常最大值。那正是你碰到的缺口。</p>
+
+<h2>最快的解法：只增強那一個應用程式</h2>
+<p>個別應用程式混音器透過把自己插入你的應用程式與輸出之間來解決這個問題，因此它能獨立提高或降低每個串流，並把其中一個增強到超過 100%。使用 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，流程很短：</p>
+<ul>
+<li>從 Mac App Store 安裝並打開它。它常駐在你的選單列，而非一個浮動視窗。</li>
+<li>點按選單列圖示，即可看見每個目前正在播放音訊的應用程式的滑桿。</li>
+<li>找到安靜的應用程式，把它的滑桿拖過 100% 以套用音量增強。它只放大那一個應用程式。</li>
+<li>其餘一切維持原狀。你的系統音量與其他應用程式都不受影響。</li>
+</ul>
+<p>由於音量增強是逐個應用程式的，你可以把一個柔弱的視訊通話推到舒適的音量，同時避免音樂或通知變得震耳欲聾。那正是內建的 macOS 控制根本做不到的核心事情。</p>
+
+<h2>關於音量增強與削峰的提醒</h2>
+<p>音量增強真的很有用，但它是放大，不是魔法。如果一個應用程式的原始音訊非常安靜或已經失真，用力拉高可能會引入削峰或讓背景嘶聲更明顯。實務上，適度的增強能乾淨地解決絕大多數「這通話太安靜」的情況。把它往上推到應用程式舒適為止，而非把它撞到頂，你就能保持聲音乾淨。</p>
+
+<h2>超越增強：還有什麼有幫助</h2>
+<p>一旦你擁有個別應用程式控制，有幾項功能能讓安靜應用程式的問題永久消失：</p>
+<ul>
+<li><strong>音量設定檔</strong>——儲存一組設定（例如「增強 Zoom、降低 Spotify、靜音 Slack」）並一鍵召回，而不必每次會議都重新拖動滑桿。</li>
+<li><strong>自動降音</strong>——當所選應用程式播放時，自動降低其他應用程式，讓一個被增強的通話清晰蓋過背景音訊。</li>
+<li><strong>個別應用程式靜音</strong>——靜音一個吵鬧的應用程式而不暫停其他任何東西。</li>
+<li><strong>快速輸出切換</strong>——從同一個選單在喇叭、耳機或外接介面之間跳轉。</li>
+</ul>
+
+<h2>那免費與專業替代方案呢？</h2>
+<p>你有選項，而誠實在這裡很重要，所以這裡是真實的局面。</p>
+<p><strong>SoundSource</strong>（Rogue Amoeba）是約 $39 的專業級選擇。它提供個別應用程式音量外加個別應用程式 EQ 與完整輸出路由，比大多數人所需的更強大。取捨：它的成本是兩倍多，它是直接下載而非 App Store，而且它安裝一個音訊擷取驅動程式來完成工作。如果你想要一套音訊工程師的工具組，它很出色。如果你只想要一個應用程式更大聲，它就太過頭。</p>
+<p><strong>Background Music</strong> 免費且開源，並能做基本的個別應用程式音量。但它是一個社群專案，有在較新 macOS 版本上失效的歷史，而且缺少超過 100% 的音量增強、設定檔與自動降音。如果免費是唯一的要求而且你不介意偶爾失效，它很棒。</p>
+<p><strong>FineTune</strong> 是一款免費開源的選單列應用程式，而 <strong>eqMac</strong> 是一款免費的 EQ 與系統音量增強器。如果你的預算是零，兩者都值得一試。只要知道它們是社群維護的、偏 EQ 或在個別應用程式管理上較輕，而且不會把設定檔加上降音打包在一個精緻的套件裡。</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 落腳的位置：它是中間路線。比 SoundSource 便宜，比免費工具更有能力且更可靠，而且它在 <strong>Mac App Store</strong> 上，這意味著經過 Apple 審核、沙盒化，並且安裝乾淨俐落，<strong>沒有 DMG，也沒有音訊驅動程式或擴充功能</strong>要栓進你的系統。對大多數人而言，誠實的建議很簡單：如果你想要最少麻煩、同時又提供音量增強、設定檔與自動降音的解法，它是最划算的選擇，€14.99 一次性。</p>
+
+<h2>快速答案，重述</h2>
+<blockquote>要讓一個 Mac 應用程式大聲超過其最大值，使用一款帶音量增強的個別應用程式音量混音器。從選單列打開 SoundDial，找到安靜應用程式的滑桿，並把它拖過 100%。只有那個應用程式會變大聲。</blockquote>
+
+<p>別再為你整台 Mac 對抗單一的音量滑桿了。<a href="https://apps.apple.com/app/id6772792641">以 €14.99 一次性取得 Mac App Store 上的 SoundDial</a>，數秒內把那個安靜的應用程式增強到超過其上限，並儲存一個設定檔，讓你再也不必為它費神。</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "如何在你的 Mac 上放大安靜的影片與播客",
+    description: "有些 YouTube 影片、播客與講座即使在 100% 也就是太安靜。這裡是如何在 macOS 上用 SoundDial 把個別應用程式音量增強到超過最大值。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>最快且可靠的解法是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 Mac App Store 選單列混音器，讓每個應用程式都擁有自己的音量滑桿，以及一個真正推過 100% 的 <strong>音量增強</strong>。打開你的瀏覽器或播客播放器，把它的滑桿拖到超過最大值，一個安靜的影片或講座就立即變大聲——沒有驅動程式，不必重新啟動。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 如何在你的 Mac 上放大安靜的影片與播客" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼有些影片與播客就是太安靜</h2>
+<p>你把 Mac 拉到 100%，訪談卻仍然像耳語。這不是你的錯覺。音訊以差異極大的響度層級製作母帶——一場用筆電麥克風錄製的網路研討會、一個安靜的獨立播客，或一段老舊的講座上傳，可能比專業製作的 YouTube 影片低 15–20 dB。你的系統音量已經拉滿，所以沒有餘裕可以再給。</p>
+<p>問題來了：macOS <strong>沒有內建的個別應用程式音量混音器</strong>。Windows 多年來一直有一個（系統匣中的音量混音器），但在 Mac 上，音量鍵移動的是所有東西共用的一個全域音量。沒有原生的方式說「只把這個瀏覽器分頁調大」——更別提把單一應用程式推過 100%。</p>
+
+<h2>真正的解法：個別應用程式音量增強</h2>
+<p>要讓一個安靜的來源大聲到超過你喇叭正常允許的程度，你需要能對 <em>那個特定應用程式</em> 施加增益、並能放大到超過 100% 上限的軟體。那正是一款帶音量增強功能的個別應用程式混音器所做的事。</p>
+<p>使用 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，每個運作中的應用程式都會出現在選單列清單中，帶著自己的滑桿。把一個安靜的應用程式滑到 150% 或 200%，音訊就會即時放大。由於音量增強是逐個應用程式的，其他一切——你的音樂、通知、另一個視窗中的通話——都維持在正常音量。你不必為了聽清一個柔弱的播客而轟炸你的整個系統。</p>
+<blockquote>全域音量問的是「這台 Mac 有多大聲？」個別應用程式混音器問的是「<em>這個</em> 應用程式有多大聲？」——當一個影片很安靜而其餘都正常時，那才是真正重要的問題。</blockquote>
+
+<h2>如何逐步增強一個安靜的影片或播客</h2>
+<ul>
+<li><strong>安裝 SoundDial</strong>，從 Mac App Store。它沙盒化並經 Apple 審核，因此像任何其他應用程式一樣乾淨安裝——沒有另外的下載、沒有音訊驅動程式、沒有一連串的權限關卡。</li>
+<li><strong>開始播放</strong>那個安靜的影片、播客集數或講座，用你使用的任何應用程式——Safari、Chrome、播客用戶端、VLC。</li>
+<li><strong>點按 SoundDial 圖示</strong>，在你的選單列中。你會看見每個目前正在發出聲音的應用程式的滑桿。</li>
+<li><strong>把那個應用程式的滑桿拖到超過 100%</strong>——先試 150%，如果仍太柔弱就再往上推。變化是即時的。</li>
+<li><strong>其餘一切不要動。</strong>只有你增強的應用程式會變大聲；你的系統維持平衡。</li>
+</ul>
+<p>如果你發現自己每天都在增強同樣的應用程式——例如一個播客播放器與你的瀏覽器——你可以把那套設定儲存為一個 <strong>音量設定檔</strong>，並一鍵召回，而不必每次重新調整。</p>
+
+<h2>關於增強的一句警告</h2>
+<p>放大超過 100% 會加入增益，而增益有其限度。把一段非常安靜、低品質的錄音推得夠用力，你可能會聽見削峰或失真——那是來源的乾淨訊號用盡了，而非應用程式的瑕疵。增強到舒適可聽為止，如果開始聽起來刺耳就退回一些。在內建筆電喇叭上，極端的增強也可能使單體吃力，所以在那裡要比在好耳機或外接喇叭上更溫和。</p>
+
+<h2>那免費或內建選項呢？</h2>
+<p>你有替代方案，而誠實看待它們是值得的：</p>
+<ul>
+<li><strong>系統音量 + 應用程式層級滑桿。</strong>有些播放器（VLC、少數透過擴充功能的瀏覽器）讓你增強它們自己的音訊。如果你只在一個應用程式裡需要它那還行——但你被卡在得分別設定每個應用程式，沒有統一的控制、也沒有設定檔。</li>
+<li><strong>eqMac</strong> 是一款免費的 EQ 與音量增強器。它能提高全系統的響度，但它是一個全域工具，而非乾淨的個別應用程式混音器，並且在整個輸出層級運作。</li>
+<li><strong>Background Music</strong> 免費且開源，而且確實提供個別應用程式音量。但它依賴一個可能在較新版本 macOS 上失效的音訊擷取設定，而且缺少專用的音量增強、設定檔與自動降音。</li>
+<li><strong>FineTune</strong> 是一款免費開源的選單列應用程式——如果你想要基本功能且不介意社群維護的軟體，它是輕量的選項。</li>
+<li><strong>SoundSource</strong> 由 Rogue Amoeba 出品（約 $39）是專業級重量選手：個別應用程式 EQ、輸出路由，應有盡有。它也需要下載並安裝一個音訊擷取驅動程式，而且成本是 SoundDial 的兩倍多。如果你想要的只是讓安靜的音訊變大聲，它就太過頭。</li>
+</ul>
+
+<h2>為什麼 SoundDial 是務實的選擇</h2>
+<p>SoundDial 正好落在這個問題的甜蜜點。它是 <strong>€14.99 一次性</strong>——沒有訂閱制——而且它在 <strong>Mac App Store</strong> 上，這意味著它沙盒化、經 Apple 審核，並且不需任何 DMG 或系統擴充功能要信任就能安裝。你得到你真正為之而來的個別應用程式音量增強，外加設定檔、個別應用程式靜音、快速輸出切換，以及在你需要專注於一個來源時降低其他應用程式的 <strong>自動降音</strong>。它把「變大聲」這件事做得簡單，其餘的也做得很好。</p>
+
+<p><strong>厭倦了費力聽清安靜的影片與播客嗎？</strong><a href="https://apps.apple.com/app/id6772792641">以 €14.99 取得 Mac App Store 上的 SoundDial</a>，讓每個應用程式擁有自己的音量——並用音量增強清晰聽見任何東西。</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "如何在 Mac 上為每個應用程式設定不同的音量",
+    description: "macOS 沒有內建的個別應用程式音量混音器。這裡是如何使用 SoundDial 與替代方案，在 Mac 上為每個應用程式設定獨立、持久的音量層級。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有內建的方式為每個應用程式設定不同的音量，所以你需要一款選單列音量混音器。最快、最可靠的解法是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 Mac App Store 應用程式，讓每個應用程式都擁有自己的音量滑桿、個別應用程式靜音，以及把安靜應用程式推過 100% 的音量增強。設定一次音量，它們就會維持不變。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 如何在 Mac 上為每個應用程式設定不同的音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 Mac 沒有個別應用程式音量控制</h2>
+<p>如果你從 Windows 轉過來，你大概去找過 Windows 音量混音器的對等物，就是那個每個應用程式都有自己滑桿的小面板。它不在那裡。macOS 只提供一個全域系統音量。無論是 YouTube 影片、Zoom 通話、Spotify 還是遊戲，它們全都共用同一個主音量。</p>
+<p>那在沒出問題前都還好。Discord 聊天蓋過你的音樂。瀏覽器廣告以全音量轟炸，而你的播客在底下安靜地播放。你的遊戲震耳欲聾，但背景中的語音通話太柔弱。Apple 給你的唯一「解法」是打開每個應用程式並手動調整它的內部音量——如果那個應用程式甚至有的話——而且每次工作階段都要重做。</p>
+<p>要取得真正的個別應用程式控制，你需要一個位於你的應用程式與輸出裝置之間的小工具。以下是如何正確地做這件事，外加對替代方案的誠實說明。</p>
+
+<h2>最快的方式：SoundDial（Mac App Store）</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 常駐在你的選單列，並列出每個目前正在播放音訊的應用程式。每一個都有獨立的滑桿。以下是整個流程：</p>
+<ul>
+<li><strong>從 Mac App Store 安裝。</strong>它經過 Apple 審核並沙盒化，所以沒有 DMG、沒有音訊驅動程式，也沒有核心或系統擴充功能要核准。它像任何一般應用程式一樣安裝，也能以同樣方式移除。</li>
+<li><strong>點按選單列圖示。</strong>你會看見每個作用中應用程式的滑桿，外加一個主控制。</li>
+<li><strong>拖動以設定音量。</strong>把 Discord 調低、把 Spotify 往上推、一鍵把吵鬧瀏覽器分頁的應用程式完全靜音。</li>
+<li><strong>增強安靜的應用程式。</strong>如果一個應用程式即使在 100% 也太柔弱，用個別應用程式音量增強把它推過 100%。</li>
+<li><strong>儲存一個設定檔。</strong>儲存你的「遊戲」、「工作通話」或「音樂」混音，並在它們之間即時切換，而不必每天重新拖動滑桿。</li>
+</ul>
+<p>有兩項功能值得特別提出，因為它們解決了最惱人的情境：</p>
+<ul>
+<li><strong>自動降音</strong>會在所選應用程式播放時自動降低其他應用程式，所以來電時你的音樂降下來、之後再還原，不必手動擺弄。</li>
+<li><strong>快速輸出切換</strong>讓你從同一個選單在耳機與喇叭之間跳轉，不必深入「系統設定」。</li>
+</ul>
+<p>由於音量是逐個應用程式記住並儲存進設定檔，這正是大多數人真正想要的部分：你設定一次，它就 <em>維持</em> 設定好的狀態。</p>
+
+<h2>免費與付費替代方案，誠實比較</h2>
+<p>SoundDial 不是唯一的選項，而且視你的需求而定，一個免費工具或許就夠了。這裡是公平的概覽。</p>
+
+<h2>SoundSource（Rogue Amoeba）</h2>
+<p>SoundSource 是專業級重量選手。除了個別應用程式音量之外，它還做個別應用程式 EQ 與完整輸出路由，所以你能把一個應用程式送到耳機、另一個送到喇叭。它真的很出色。取捨：它的成本大約 $39，而且它不是乾淨的 App Store 安裝，而是需要把一個音訊擷取驅動程式加入你系統的直接下載。如果你是需要 EQ 與路由的音訊專業人士，它值得。如果你只想讓每個應用程式維持在正確的音量，它比你所需的更多工具、也更多設定。</p>
+
+<h2>Background Music（開源、免費）</h2>
+<p>Background Music 是一款免費、開源的應用程式，提供個別應用程式音量與自動暫停。缺點是可靠性：它安裝一個虛擬音訊裝置，並有在較新 macOS 發佈上失效的歷史，有時在更新後需要重新安裝或修正。它也缺少音量增強、已儲存的設定檔與真正的自動降音。如果你想要免費且不介意偶爾維護，它很棒。</p>
+
+<h2>FineTune 與 eqMac</h2>
+<p>FineTune 是一款免費、開源的選單列應用程式，一個輕量的起點。eqMac 是一款帶全系統音量增強器的免費等化器，更著重於 EQ 與整體增益，而非給每個應用程式自己的持久滑桿。如果你的需求很窄，兩者都值得一試，但都不是圍繞「每個應用程式不同音量、儲存為設定檔」這種流程打造的。</p>
+
+<h2>你該選哪一個？</h2>
+<ul>
+<li><strong>想要它就是能乾淨運作，帶設定檔與自動降音？</strong>SoundDial，€14.99 一次性，來自 App Store，沒有驅動程式要安裝。</li>
+<li><strong>需要個別應用程式 EQ 與音訊路由，而且不介意價格或驅動程式？</strong>SoundSource。</li>
+<li><strong>想要免費，而且在 macOS 更新時願意折騰？</strong>Background Music、FineTune 或 eqMac。</li>
+</ul>
+<p>SoundDial 真正的優勢在於這個組合：每個應用程式的獨立音量、靜音與音量增強，儲存進可切換的設定檔，加上自動降音，全部在一個你能信任並一鍵解除安裝的沙盒化 App Store 下載裡，只需一次性 €14.99，而非訂閱制。</p>
+
+<blockquote>沒有驅動程式、沒有擴充功能、沒有 DMG。把每個應用程式的音量設定一次、儲存為設定檔，然後讓自動降音處理其餘的。</blockquote>
+
+<p>準備好讓每個應用程式擁有自己的音量了嗎？<a href="https://apps.apple.com/app/id6772792641">取得 Mac App Store 上的 SoundDial</a>，大約一分鐘就能設定好你完美的混音。</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "在 Mac 上讓一個應用程式比其他所有東西更安靜",
+    description: "一個吵鬧的應用程式在你的 Mac 上蓋過其餘一切？這裡是最快、可靠的方式，在不動到其他應用程式的情況下調低單一應用程式的音量。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>要在其餘一切維持原狀的情況下調低一個應用程式，使用 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款 macOS 選單列個別應用程式音量混音器。打開它、在清單中找到那個吵鬧的應用程式，並把它的滑桿拖下來。那個應用程式立即變安靜，而你的音樂、通話與其他音訊則保持各自的音量。它是最快、最可靠的解法。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 在 Mac 上讓一個應用程式比其他所有東西更安靜" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 macOS 讓這件事如此困難</h2>
+
+<p>令人沮喪的事實是：macOS 沒有內建的個別應用程式音量混音器。Windows 多年來一直有一個（右鍵點按音量圖示、開啟音量混音器，搞定），但在 Mac 上，音量鍵與選單列滑桿只控制一件事：主輸出。把它調低，所有東西就一起變安靜。把它調高，那個吵鬧的應用程式仍然吵鬧，只是連同其餘一起更大聲。</p>
+
+<p>所以當一款遊戲的音效在轟炸、一個瀏覽器分頁在自動播放廣告，或通知叮噹聲不斷蓋過你的播客時，你唯一的原生選項都很笨拙：靜音整個系統、深入每個應用程式自己的音量設定（如果它甚至有的話），或完全結束那個罪魁禍首。這些都無法讓你單純地說「把這一個應用程式調安靜，其餘一切不要動」。</p>
+
+<h2>快速解法：一款個別應用程式音量混音器</h2>
+
+<p>個別應用程式音量混音器為每個運作中的應用程式提供自己的獨立滑桿。那正是你缺少的控制。使用 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，它看起來像這樣：</p>
+
+<ul>
+<li><strong>打開選單列混音器。</strong>點按 SoundDial 圖示，你就會看見每個目前正在播放音訊的應用程式的即時清單。</li>
+<li><strong>找到那個吵鬧的。</strong>遊戲、瀏覽器、視訊通話、通知聲，無論是什麼在蓋過其餘的。</li>
+<li><strong>把它的滑桿拖下來。</strong>設為 40%、20%，或任何感覺平衡的地方。變化是即時的，而且只影響那個應用程式。</li>
+<li><strong>其餘一切不要動。</strong>你的音樂播放器、你的通話、你的其他分頁，它們全都保持你為它們設定的音量。</li>
+</ul>
+
+<p>你也可以一鍵完全靜音單一應用程式，同時讓其他的繼續播放，或在一個應用程式太柔弱時把它增強到超過 100%。不必重新啟動應用程式，不必翻找選單。</p>
+
+<h2>這能救你的常見情況</h2>
+
+<ul>
+<li><strong>一款吵鬧的遊戲蓋過背景音樂。</strong>把遊戲降到舒適的音量，並讓你的播放清單在底下維持全音量。</li>
+<li><strong>瀏覽器廣告與影片突然飆高。</strong>把你的瀏覽器釘在較低的音量，讓突如其來的自動播放永遠不會轟炸你。</li>
+<li><strong>通知叮噹聲蓋過通話或播客。</strong>調低那個通知繁多的應用程式，而不靜音你真正在乎的音訊。</li>
+<li><strong>一個安靜的視訊通話埋在吵鬧的媒體之下。</strong>與其把吵鬧的應用程式調低，不如把通話增強到超過 100%，好讓你清楚聽見人們。</li>
+</ul>
+
+<h2>用音量設定檔與自動降音一次搞定</h2>
+
+<p>修好一個吵鬧的應用程式很不錯，但你大概想要它維持修好的狀態。SoundDial 有兩項功能能讓這件事變得永久：</p>
+
+<p><strong>音量設定檔</strong>讓你儲存一組個別應用程式音量並一鍵召回。建立一個「遊戲」設定檔，其中遊戲坐落在 30%、音樂在 100%，以及一個「工作」設定檔，其中通話被增強、其他一切被調低。切換情境而不必每次重新拖動滑桿。</p>
+
+<p><strong>自動降音</strong>會在所選應用程式播放時自動降低其他應用程式，之後再把它們帶回來，所以一個吵鬧的應用程式一開始就永遠不會完全劫持你的音訊。在設定檔、降音與快速輸出切換（在喇叭與耳機之間跳轉而不必開啟「系統設定」）之間，你把你的平衡設定一次，就不必再照顧音量。</p>
+
+<h2>SoundDial 與替代方案的比較</h2>
+
+<p>在 Mac 上還有其他取得個別應用程式音量的方式。這裡是誠實的一瞥：</p>
+
+<ul>
+<li><strong>SoundSource（Rogue Amoeba，約 $39）</strong>真的是專業級的：在音量控制之上還有個別應用程式 EQ 與完整輸出路由。但它的成本是兩倍多，而且需要一個獨立的下載外加一個音訊擷取驅動程式。如果你想要一套錄音室級的工具組，它很出色。如果你只想調低一個應用程式，它比你所需的更多。</li>
+<li><strong>Background Music</strong> 免費且開源，這很棒，但它可能在較新的 macOS 版本上失效，而且缺少音量增強、設定檔與自動降音。</li>
+<li><strong>FineTune</strong> 是一款免費開源的選單列應用程式，而 <strong>eqMac</strong> 是一款帶音量增強器的免費 EQ。如果免費是你的優先考量，兩者都值得一試，但你是用精緻度、可靠性與功能去換價格。</li>
+</ul>
+
+<p>SoundDial 位於甜蜜點：€14.99 一次性，沒有訂閱制。由於它在 Mac App Store 上，它經過 Apple 審核並沙盒化，並且安裝乾淨俐落，沒有 DMG、沒有音訊驅動程式，也沒有系統擴充功能要核准。你得到對這個問題真正重要的功能，個別應用程式音量、靜音、音量增強、設定檔與自動降音，而沒有 $39 的價格標籤或一個脆弱的免費工具。</p>
+
+<h2>結論</h2>
+
+<p>macOS 不會讓你單獨調低一個應用程式，但那是一個你能在數秒內填補的缺口。安裝一款個別應用程式混音器、把那個吵鬧應用程式的滑桿拖下來，你其餘的音訊就會維持在你想要的位置。儲存一個設定檔，你就再也不必為這件事奮戰。</p>
+
+<p><strong>準備好讓那個不斷蓋過其餘的應用程式安靜下來了嗎？</strong>以 €14.99 取得 <a href="https://apps.apple.com/app/id6772792641">Mac App Store 上的 SoundDial</a>，一次付款，沒有驅動程式，沒有訂閱制。</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "給實況主的 Mac 音訊混音器：平衡麥克風、遊戲與音樂",
+    description: "在 Mac 上實況時平衡麥克風、遊戲音效、音樂與提示音的最快方法。SoundDial 為你提供一款具備設定檔與自動降音的每應用程式音量混音器。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>要在 Mac 上實況時平衡你的麥克風、遊戲、音樂與提示音，最快又可靠的解決方案是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一款選單列的每應用程式音量混音器。macOS 沒有內建混音器，因此 SoundDial 讓你為每個應用程式設定獨立音量、增強過於安靜的音源、儲存實況設定檔，並在你說話時自動降低音樂。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 給實況主的 Mac 音訊混音器：平衡麥克風、遊戲與音樂" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>問題所在：macOS 沒有每應用程式音量控制</h2>
+<p>Windows 多年來一直有「音量混合器」。macOS 至今仍未提供。你的系統音量滑桿會一次調整所有東西，這在你直播時毫無用處。實況期間你至少要同時處理四種爭奪同一輸出的音源：</p>
+<ul>
+<li><strong>你的聲音／麥克風監聽</strong> — 必須高於一切。</li>
+<li><strong>遊戲音效</strong> — 響亮、動態，而且在動作場面容易突然飆高。</li>
+<li><strong>背景音樂</strong> — 應該保持在你的旁白之下輕聲播放。</li>
+<li><strong>提示音與聊天音效</strong> — Discord、Stream Deck、追隨者提示、通知。</li>
+</ul>
+<p>沒有每應用程式控制，你只能靠遊戲內建的滑桿、手動靜音 Spotify，並祈禱一段響亮的過場動畫不會震爆你的觀眾。那不是混音，而是損害控制。</p>
+
+<h2>一款合格的實況混音器該做到什麼</h2>
+<p>Mac 上以創作者為中心的音訊設定應提供四件事：獨立的每應用程式音量、增強過於安靜音源的能力、可立即叫回的已儲存設定，以及讓音樂在你一開口就自動降低的自動降音。SoundDial 從選單列就涵蓋了這四項。</p>
+
+<h3>1. 每個應用程式的獨立音量</h3>
+<p>將遊戲設為 60%、音樂 25%、Discord 80%、瀏覽器 40% — 每個應用程式都有自己的滑桿。彼此互不干擾。你也可以在某個音源在實況中出狀況時立即單獨靜音，而無須動到該應用程式本身。</p>
+
+<h3>2. 為安靜音源提供音量增強</h3>
+<p>有些應用程式與遊戲即使在 100% 也就是太安靜。SoundDial 的每應用程式增強能將某個音源推過它的正常上限，讓含糊不清的遊戲或低音量影片落在你混音中所需的位置 — 無需重新編碼、無需外掛。</p>
+
+<h3>3. 為不同場景設計的音量設定檔</h3>
+<p>這是最能替實況主省時的功能。你的「純聊天」混音（音樂大、遊戲小）不同於你的「首領戰」混音（遊戲大、音樂幾近無聲），也不同於你的「馬上回來」混音。將每一種儲存成設定檔，只需一鍵切換，而不必在直播中拉動四個滑桿。</p>
+
+<h3>4. 讓音樂在你聲音之下自動降音</h3>
+<p>自動降音會在你說話時自動降低背景音訊，並在你停下時把它調回來。對單人實況主而言，這是旁白清晰與音樂不斷淹沒你聲音之間的差別 — 由系統自動處理，而非手動操作。</p>
+
+<h2>OBS 的定位在哪</h2>
+<p>OBS 是你的直播工具，不是你的桌面音量混音器。OBS 透過它的音訊混音器面板與濾鏡控制進入串流的音量，但它是從它擷取到的音源運作 — 它無法伸進個別 macOS 應用程式並在系統層級把它們調低。在 Mac 上，把乾淨的每應用程式桌面音訊送進 OBS 一直是最痛苦的部分。</p>
+<p>實際的工作流程是：用 SoundDial 在你的 Mac 上設定實際的每應用程式音量，讓輸出的內容已經平衡好，然後讓 OBS 擷取並微調直播音量。在源頭把混音設定好一次，OBS 要對付的就少多了。SoundDial 的快速輸出切換也讓你在場景之間無須潛入「系統設定」就能在耳機與喇叭間切換。</p>
+
+<h2>SoundDial 與替代方案的比較</h2>
+<p>你有選擇，而誠實很重要：</p>
+<ul>
+<li><strong>SoundSource（Rogue Amoeba，約 $39）</strong> — 專業級，具備每應用程式 EQ 與完整輸出路由。它很出色，但價格貴了一倍多，需要直接下載，還會安裝一個音訊擷取驅動程式。若你主要需要的是乾淨的每應用程式音量、增強與降音，那就是殺雞用牛刀。</li>
+<li><strong>Background Music（免費、開源）</strong> — 確實實用且免費，但在較新的 macOS 版本上可能故障，而且沒有增強、沒有設定檔、沒有自動降音 — 正是實況主倚賴的那些功能。</li>
+<li><strong>FineTune（免費、開源的選單列應用程式）</strong> — 輕量的每應用程式控制，但是個社群專案，沒有為直播打造的設定檔加降音組合。</li>
+<li><strong>eqMac（免費 EQ ＋ 增強）</strong> — 適合調整音色與增強音量，但它是等化器，不是每應用程式的實況混音器。</li>
+</ul>
+<p>SoundDial 的切入角度：它是 <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> 上的<strong>一次性 €14.99</strong> 購買 — 經 Apple 審核、沙盒化，安裝乾淨俐落，沒有 DMG，也沒有音訊驅動或系統擴充。最後這點對實況主很重要：越少內核層級的元件，就越少在你開播前一晚 macOS 更新時突然出狀況。</p>
+
+<h2>誠實的取捨</h2>
+<p>若你需要廣播級的 EQ 與複雜的路由鏈，SoundSource 值那個價。若你想要一個免費的可折騰工具，且不介意偶爾故障，Background Music 或 FineTune 就夠用。但若你想要直播真正需要的混音 — 每應用程式音量、增強、已儲存的場景設定檔與自動降音 — 而且來自能挺過 macOS 更新的安全 App Store 安裝，那麼以這個價位而言，SoundDial 是最直接的途徑。</p>
+
+<p><strong>準備好修正你的實況音訊了嗎？</strong>到 <a href="https://apps.apple.com/app/id6772792641">Mac App Store 取得 SoundDial</a>，售價 €14.99 — 一次設定好你的麥克風、遊戲、音樂與提示音量，儲存成設定檔，並讓自動降音把你的聲音保持在最上層。</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "如何修正 macOS Tahoe 上的音訊爆音與劈啪聲",
+    description: "更新到 macOS Tahoe 26 後出現劈啪或爆音？透過比對取樣率、重設 CoreAudio、檢查你的 Bluetooth 編解碼器，以及清除外掛衝突來修正它。以下是完整的排查順序。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>更新到 macOS Tahoe 26 後出現劈啪與爆音，幾乎總是取樣率不符、不穩定的 Bluetooth 編解碼器協商，或卡住的 CoreAudio 程序。修正方法是在「音訊 MIDI 設定」中比對輸出取樣率、重設 <code>coreaudiod</code>、忘記並重新配對 Bluetooth 耳機，以及結束音訊外掛主機。請依照下方的順序逐一處理。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 如何修正 macOS Tahoe 上的音訊爆音與劈啪聲" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>先從最省事的修法開始</h2>
+
+<p>在你動任何技術性設定之前，先排除這兩件能在一分鐘內解決多數情況的事：</p>
+
+<ul>
+<li><strong>重新啟動 Mac。</strong>Tahoe 更新出乎意料地常讓音訊常駐程式處於半遷移狀態。乾淨重開機會從頭重新載入 CoreAudio，並清除大部分更新後的劈啪聲。</li>
+<li><strong>拔除並重新插上輸出裝置。</strong>如果是 USB DAC、擴充座或音訊介面，將它拔掉、等幾秒再接回。也試試不同的 USB 埠，最好直接接在 Mac 上而非透過集線器。會傳遞音訊的集線器與顯示器是常見的爆音來源。</li>
+</ul>
+
+<p>如果重開機後噪音仍在，那是設定問題，不是暫時性小故障。繼續往下。</p>
+
+<h2>比對取樣率（最常見的原因）</h2>
+
+<p>經典的 Tahoe 劈啪聲來自你裝置想要的取樣率與 macOS 送出的取樣率不符。當某個應用程式播放 44.1 kHz 音訊而系統鎖定在 48 kHz（或反之），重新取樣就可能卡頓或爆音。</p>
+
+<ul>
+<li>開啟<strong>音訊 MIDI 設定</strong>（在「應用程式 → 工具程式」中，或用 Spotlight 搜尋）。</li>
+<li>在左側邊欄選取你的輸出裝置。</li>
+<li>查看<strong>格式</strong>下拉選單。試著將它設為 <strong>48000.0 Hz、2ch-24bit Integer</strong> 並測試。</li>
+<li>如果劈啪聲持續，切換到 <strong>44100.0 Hz</strong> 再測一次。</li>
+<li>對於音訊介面，確認取樣率與你 DAW 的專案取樣率一致。</li>
+</ul>
+
+<p>切換格式也會強制 CoreAudio 重新協商連線，這一點本身在許多情況下就能修好問題，即使你最後又設回同一個數值。</p>
+
+<h2>重設 CoreAudio</h2>
+
+<p>CoreAudio 以名為 <code>coreaudiod</code> 的背景常駐程式運行。在一次重大 macOS 更新後，它可能保留過時的裝置狀態。重新啟動它很安全，且立即生效，無需重開機。</p>
+
+<p>開啟 Terminal 並執行：</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>系統提示時輸入你的密碼。你的音訊會中斷一秒，接著常駐程式會自動以乾淨狀態重新啟動。對於在更新前一切正常、卻突然無故出現的劈啪聲，這是最有效的單一修法。</p>
+
+<h2>檢查你的 Bluetooth 耳機與編解碼器</h2>
+
+<p>如果劈啪聲只發生在 AirPods 或其他 Bluetooth 耳機上，問題通常是編解碼器協商，而非你的喇叭。當連線壅塞或當 macOS 切入低頻寬的通話模式時，無線音訊品質會下降。</p>
+
+<ul>
+<li><strong>忘記並重新配對裝置。</strong>前往「系統設定 → 藍牙」，移除耳機，然後再次配對。這會重設協商出的編解碼器。</li>
+<li><strong>留意通話模式的降級。</strong>當某個應用程式開啟麥克風時，macOS 會把 Bluetooth 耳機切換到低品質的雙向設定檔，聽起來就會很粗糙。結束你沒在用的視訊會議與語音應用程式，音質就會恢復。</li>
+<li><strong>減少干擾。</strong>遠離擁擠的 2.4 GHz 環境，並斷開你不需要的 Bluetooth 裝置。繁忙的無線頻段會產生間歇性的爆音。</li>
+<li>如果你只需要聆聽，就在某個應用程式的設定中<strong>關閉麥克風輸入</strong>，讓 macOS 維持高品質的播放設定檔。</li>
+</ul>
+
+<h2>結束音訊外掛主機與虛擬驅動程式</h2>
+
+<p>會安裝系統擴充或虛擬裝置的第三方音訊軟體，是作業系統大版本升級後常見的元凶，因為內核與音訊擴充往往需要針對新的 macOS 版本更新。可疑對象包括虛擬音訊路由器、等化器應用程式、迴路（loopback）工具，以及較舊的驅動程式式工具。</p>
+
+<ul>
+<li>結束任何等化器、音訊路由或迴路應用程式，測試劈啪聲是否停止。</li>
+<li>檢查「系統設定 → 一般 → 登入項目與擴充功能」中是否有可能需要更新或移除的音訊擴充。</li>
+<li>將那些應用程式更新到相容 Tahoe 的版本，或解除安裝你不再使用的。堆疊的音訊驅動程式在重大更新後經常互相衝突。</li>
+</ul>
+
+<p>如果結束其中一個應用程式讓爆音消失，你就找到元凶了。重新安裝目前版本，或乾脆保持關閉。</p>
+
+<h2>縮小範圍：全系統還是單一應用程式？</h2>
+
+<p>釐清噪音是到處都有，還是只在特定軟體發生。播放一個本機音訊檔，再播放瀏覽器影片，然後是音樂應用程式。如果只有一個應用程式劈啪作響，修正之道在那個應用程式自己的音訊設定或更新，而非 macOS。如果是全系統的，答案就在上述步驟裡。</p>
+
+<p>當你仍卡關時，開機進入安全模式（在 Apple 晶片上按住電源按鈕，接著按住 Shift 選擇你的啟動磁碟）。安全模式不會載入任何第三方擴充。如果那裡的音訊乾淨，那就是某個登入項目或驅動程式在作怪，你可以逐一重新啟用來找出它。</p>
+
+<h2>一旦你的音訊乾淨了</h2>
+
+<p>劈啪聲是驅動程式與取樣率的問題，所以上面的修法才是真正能解決它的方法。但一旦播放穩定，你可能會注意到另一個限制：macOS 仍然沒有像 Windows 那樣的內建每應用程式音量混音器。你無法在不把所有東西一起調低的情況下，單獨把一個吵鬧的應用程式調小。</p>
+
+<p>那正是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 填補的空缺。它是一款選單列混音器，為每個應用程式提供自己的音量滑桿、每應用程式靜音，甚至為安靜的應用程式提供音量增強，還有快速輸出切換。它不會修好劈啪聲，但一旦你的音訊恢復健康，它會讓日常控制輕鬆許多。</p>
+
+<p>依序處理上述步驟，並從重開機與取樣率檢查開始。若你之後想在乾淨的音訊環境中取得真正的每應用程式控制，<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 在 Mac App Store 上是一次性 €14.99 的購買，沙盒化，沒有驅動程式或 DMG 需要安裝。</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods 在 Mac 上斷斷續續或中斷（Tahoe 修法）",
+    description: "AirPods 在 macOS Tahoe 上斷斷續續、中斷或掉音，幾乎總是 Bluetooth 干擾或自動切換的來回擺盪。以下教你重新配對、消除 2.4GHz 壅塞，並停止會破壞播放的裝置交接。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>AirPods 在 macOS Tahoe 上斷斷續續或中斷，幾乎總是 Bluetooth 干擾，而不是耳機壞了。常見元凶是 2.4GHz Wi-Fi 與路由器壅塞、過於積極的自動裝置切換，以及過時的配對。重新配對 AirPods、關閉自動切換，並遠離擁擠的 2.4GHz 頻道，就能修好大多數情況。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods 在 Mac 上斷斷續續或中斷（Tahoe 修法）" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 AirPods 偏偏在 Mac 上掉音</h2>
+
+<p>AirPods 使用 Bluetooth，而 Bluetooth 與 Wi-Fi、微波爐、USB 3 裝置，以及你家幾乎每個智慧插座共用擁擠的 2.4GHz 無線頻段。你的 Mac 是個繁忙的無線電：它在重疊的天線上同時處理 Wi-Fi、Bluetooth、AirDrop 與「連續互通」功能。當那個頻段壅塞時，Bluetooth 音訊會第一個斷斷續續，因為它無法像檔案傳輸那樣容忍封包遺失。</p>
+
+<p>Tahoe 並沒有神奇地讓你的 AirPods 變差，但全新的 macOS 安裝往往會重設無線行為、重新啟用「連續互通」交接，並重新協商編解碼器。這就是為什麼問題似乎在更新後立刻出現。好消息是：這些修法眾所周知，而且大多免費。</p>
+
+<h2>修法 1：重新配對 AirPods（先做這個）</h2>
+
+<p>過時或損毀的配對會在重開機後仍然存在，並造成看似隨機的間歇性掉音。徹底移除並重新加入連線：</p>
+
+<ul>
+<li>開啟<strong>系統設定、藍牙</strong>。</li>
+<li>點按你 AirPods 旁的資訊 (i) 按鈕，選擇<strong>忘記此裝置</strong>。</li>
+<li>把 AirPods 放進盒子、蓋上蓋子、等 15 秒，然後打開。</li>
+<li>按住盒子背面的按鈕，直到燈號閃白。</li>
+<li>從藍牙清單重新配對。</li>
+</ul>
+
+<p>順便確認 AirPods 韌體是最新的。沒有手動更新程式，但把它們放在盒子裡、靠近一部已連線的 iPhone 或 Mac 一陣子，就能讓它們在背景更新。</p>
+
+<h2>修法 2：關閉自動切換</h2>
+
+<p>對身處 Apple 生態系的人來說，這是「中斷」的最大單一原因。你的 AirPods 會試著跟隨你在 Mac、iPhone 與 iPad 之間移動。每當你的手機認為它該搶走音訊時，你 Mac 上的連線就會打嗝，在播客播到一半時產生半秒的掉音。</p>
+
+<ul>
+<li>在 Mac 上：藍牙，點按 AirPods 旁的 (i)，把<strong>連線到此 Mac</strong>設為<strong>上次連線到此 Mac 時</strong>，而非「自動」。</li>
+<li>在 iPhone 上：設定，點按你的 AirPods，<strong>連線到此 iPhone</strong>，選擇<strong>上次連線到此 iPhone 時</strong>。</li>
+</ul>
+
+<p>這會停止裝置之間的拉鋸戰。你將手動決定音訊要去哪裡，這是換取穩定播放的小小代價。</p>
+
+<h2>修法 3：消除 2.4GHz 壅塞</h2>
+
+<p>如果掉音發生在視訊通話、下載，或其他人正在串流時，你的無線頻段已經飽和。幾個實用的做法：</p>
+
+<ul>
+<li>在你的 Mac 上<strong>使用 5GHz Wi-Fi 頻段</strong>。在你的路由器設定中，給 5GHz 網路一個明確的名稱並連上它。這會為 Bluetooth 釋放 2.4GHz 頻段。</li>
+<li><strong>把 USB 3 與 Thunderbolt 集線器移離</strong>你的 Mac 與 AirPods。USB 3 是惡名昭彰的 2.4GHz 噪音來源；緊靠著你筆電的集線器能從幾吋外就毀掉 Bluetooth。</li>
+<li><strong>把你路由器的 2.4GHz 頻道改成</strong> 1、6 或 11（互不重疊的選項），並避開你鄰居所在的擁擠頻道。</li>
+<li><strong>保持視線暢通。</strong>人體與牆壁會吸收 2.4GHz。如果你的 Mac 在你身後或在包包裡，掉音會更嚴重。</li>
+</ul>
+
+<blockquote>Wi-Fi 6E 與 Wi-Fi 7 路由器能間接幫上忙：把你的裝置推到 6GHz 上，就能清空 Bluetooth 所依賴的 2.4GHz 頻段。但一個設定不良、不斷把你導回 2.4GHz 的網狀網路可能讓情況更糟。檢查一下你實際在哪個頻段上。</blockquote>
+
+<h2>修法 4：重設 Bluetooth 與「連續互通」堆疊</h2>
+
+<p>如果重新配對沒有持久，就重設無線電本身：</p>
+
+<ul>
+<li>從選單列把 Bluetooth 關閉再開啟，然後重新啟動 Mac。重開機能清除出乎意料多的暫時性音訊小故障。</li>
+<li>在 Intel Mac 上重設 SMC/NVRAM，或在 Apple 晶片上乾脆完全關機（不是重新啟動）30 秒。</li>
+<li>如果你不使用 AirDrop 或 Handoff，在「系統設定、一般、AirDrop 與 Handoff」中停用 Handoff，能減少背景的無線電雜訊。</li>
+</ul>
+
+<h2>什麼修不好（以及音量混音器實際上能做什麼）</h2>
+
+<p>把範圍講清楚：這一切都不是軟體音量問題，也沒有任何音量應用程式能修復 Bluetooth 連線。如果你的音訊在<em>掉音</em>，就去追上面的無線電問題。像 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 這樣的應用程式控制的是每應用程式的音量、靜音與輸出切換，它們不會碰 Bluetooth 堆疊，所以無法阻止斷斷續續。混音器真正能幫上忙的，是許多 AirPods 使用者與掉音混為一談的相鄰惱人問題：一個應用程式聲音很大而另一個太小，或需要快速切換輸出。那是音量平衡問題，不是連線問題。</p>
+
+<p>誠實地診斷。如果音訊斷了一拍又恢復，那是干擾或自動切換。如果只是應用程式之間的音量不均，那是你確實能用軟體解決的混音問題。</p>
+
+<h2>快速檢查清單</h2>
+
+<ul>
+<li>忘記並重新配對 AirPods。</li>
+<li>把 Mac 與 iPhone 都設為<strong>上次連線時</strong>，而非「自動」。</li>
+<li>把你的 Mac 移到 5GHz Wi-Fi；讓 USB 3 集線器遠離。</li>
+<li>把 2.4GHz 設為頻道 1、6 或 11。</li>
+<li>切換 Bluetooth 後重新開機。</li>
+</ul>
+
+<p>一旦掉音消失，而你只是想更乾淨地控制每個應用程式播放的音量，<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 會補上 macOS 至今仍未內建的一款完整每應用程式音量混音器、靜音、增強與快速輸出切換。它在 Mac App Store 上是一次性 €14.99 的購買，沙盒化，沒有驅動程式需要安裝。</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Tahoe 更新後 Mac 右聲道喇叭沒聲音？如何修正",
+    description: "更新到 macOS Tahoe 後某個喇叭或聲道停止運作？先從音訊平衡滑桿開始，接著重設 Core Audio、試試安全模式，然後排除硬體問題。一份清晰的排查指南。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果你的右聲道喇叭在更新到 macOS Tahoe 後變得無聲，先檢查音訊<strong>平衡滑桿</strong> — 它可能在更新期間偏移。前往「系統設定 &gt; 聲音 &gt; 輸出」，確認平衡位在正中央。如果那沒問題，就重新啟動 Core Audio、開機進入安全模式，然後排除硬體。多數情況都是軟體問題。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Tahoe 更新後 Mac 右聲道喇叭沒聲音？如何修正" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>首先：平衡滑桿（修好這問題的機率比你想像的高）</h2>
+
+<p>卡住或偏移的平衡滑桿，是某個聲道變安靜最常見的單一原因 — 而 macOS 更新偶爾會把它挪動。在你往最壞處想之前：</p>
+
+<ul>
+<li>開啟<strong>系統設定 &gt; 聲音</strong>。</li>
+<li>點按<strong>輸出</strong>標籤頁，選取你的喇叭（內建，或你的外接裝置）。</li>
+<li>找到<strong>平衡</strong>滑桿，把它拖到正中央。如果它被拉向左邊，你的右聲道聽起來就會像沒聲音。</li>
+</ul>
+
+<p>要<em>對每個輸出裝置</em>都做這件事。平衡設定會分別記憶內建喇叭、耳機與每個外接介面 — 所以如果問題出在你的 USB DAC 上，把內建喇叭的平衡置中並沒有幫助。</p>
+
+<h2>測試它是否真的是硬體聲道問題</h2>
+
+<p>快速判定硬體是否有問題。播放一首你熟悉的立體聲曲目，然後插上一副有線耳機。如果兩個聲道在耳機中都正常、但透過喇叭卻不行，那問題出在音訊引擎的下游（喇叭硬體或輸出路徑）。如果同一個聲道在耳機中也沒聲音，那更可能是軟體，或是主機板的音訊編解碼晶片。</p>
+
+<p>你也可以開啟<strong>音樂</strong>或 QuickTime，播放一些東西，把平衡切到最左，再切到最右。如果音訊在聲道之間乾淨地移動，那兩個喇叭都是好的，這純粹是設定問題。</p>
+
+<h2>重新啟動 Core Audio</h2>
+
+<p>macOS 把所有聲音都經由 <strong>coreaudiod</strong> 程序路由。在一次重大更新後，它的狀態可能卡住 — 輸出消失、聲道掉音，或音量行為異常。重新啟動它很安全，且會強制 macOS 重建音訊圖：</p>
+
+<ul>
+<li>開啟 <strong>Terminal</strong>（應用程式 &gt; 工具程式）。</li>
+<li>執行：<code>sudo killall coreaudiod</code></li>
+<li>輸入你的密碼。音訊常駐程式會在一兩秒內自動重新啟動。</li>
+</ul>
+
+<p>不會刪除任何東西 — 這只是重開音訊子系統。之後立刻再測一次你的右聲道喇叭。</p>
+
+<h2>正確地重新開機，然後試試安全模式</h2>
+
+<p>完整重開機能清除 killall 修不掉的暫時性音訊小故障。如果聲道仍然無聲，就開機進入<strong>安全模式</strong>，它會載入最精簡的系統，並略過第三方音訊擴充與登入項目：</p>
+
+<ul>
+<li><strong>Apple 晶片：</strong>關機。按住電源按鈕，直到出現「正在載入啟動選項」。選取你的磁碟，然後按住 <strong>Shift</strong> 並點按「在安全模式中繼續」。</li>
+<li><strong>Intel：</strong>重新啟動並按住 <strong>Shift</strong>，直到出現登入視窗。</li>
+</ul>
+
+<p>如果兩個喇叭在安全模式中都正常，那就是某個在更新前安裝的第三方音訊驅動程式、虛擬裝置或選單列工具，與 Tahoe 的新音訊堆疊發生衝突。開機回到正常狀態，移除或更新近期安裝的音訊軟體（螢幕錄影工具、會議應用程式與音訊路由 kext 是常見元凶）。</p>
+
+<h2>重設 NVRAM（僅限 Intel Mac）</h2>
+
+<p>在 Intel Mac 上，聲音與喇叭設定存在 NVRAM/PRAM 中，過時的數值可能在更新後仍留存。重設它：關機，然後開機並立刻按住 <strong>Option + Command + P + R</strong> 約 20 秒，讓 Mac 重新啟動一次。這不適用於 Apple 晶片 Mac — 它們會自動管理，所以如果你用的是 M 系列機器，就跳過這步。</p>
+
+<h2>再次更新 — 並檢查是否有小版本更新</h2>
+
+<p>任何 macOS 大版本的早期釋出版都會帶著音訊驅動程式錯誤，之後才修正。前往<strong>系統設定 &gt; 一般 &gt; 軟體更新</strong>，安裝任何待處理的 Tahoe 小版本更新（14.x.1、14.x.2 等）。如果有補充更新，它往往正好處理這些更新後的音訊退步問題。</p>
+
+<h2>當它真的是硬體問題時</h2>
+
+<p>如果安全模式、Core Audio 重啟與乾淨重新安裝全都失敗 — 而且同一個聲道在耳機中也沒聲音 — 你面對的可能是硬體故障。與更新的時間點吻合可能只是巧合；喇叭放大器與音訊編解碼晶片確實會壞。執行 <strong>Apple 診斷</strong>（關機，然後在 Apple 晶片上按住電源按鈕並選擇「診斷」，或在 Intel 上開機時按住 <strong>D</strong>）。如果它標示出音訊元件有問題，就聯絡 <strong>Apple 支援</strong>或授權服務供應商。別為一顆壞掉的喇叭花錢買軟體。</p>
+
+<blockquote>簡易判斷法則：如果音訊隨平衡滑桿正確地左右移動，那兩個喇叭實體上都沒問題，你的修法就在軟體裡。如果它從不移動到沒聲音的那一側，就懷疑硬體。</blockquote>
+
+<h2>音量軟體的定位（以及它不能做什麼）</h2>
+
+<p>講清楚：喇叭聲道沒聲音不是音量應用程式能修的問題 — 上面的檢查才是你的途徑。話雖如此，一旦你的音訊恢復健康，macOS 仍然缺少 Windows 多年前就有的東西：一款真正的每應用程式音量混音器。如果你發現自己因為一個應用程式聲音很大、另一個又太小而在聲音設定裡翻找，那麼像 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 這樣的選單列混音器，能讓你為每個應用程式設定獨立音量、靜音，甚至增強，而無須動到你的系統平衡。它是日常混音的便利工具，不是本文問題的修復方案。</p>
+
+<h2>簡短版</h2>
+
+<ul>
+<li>把<strong>平衡</strong>滑桿置中 — 對每個輸出裝置。</li>
+<li>用耳機測試以判定硬體問題。</li>
+<li>執行 <code>sudo killall coreaudiod</code>，然後重新啟動。</li>
+<li>試試<strong>安全模式</strong>來揪出驅動程式衝突。</li>
+<li>在 Intel 上重設 NVRAM；安裝任何 Tahoe 小版本更新。</li>
+<li>在耳機中仍然沒聲音？執行 Apple 診斷並致電 Apple。</li>
+</ul>
+
+<p>一旦你的喇叭恢復正常，如果每天都要為每應用程式音量而煩，<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 會補上 macOS 一直缺少的那款混音器 — €14.99，一次性，沙盒化，沒有驅動程式。</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods 在你的 Mac 上卡在半音量？這是修法",
+    description: "為什麼 AirPods 連到你的 Mac 時只有半音量 — 通常是 Bluetooth 編解碼器切換到免持麥克風設定檔 — 以及重新配對的修法，還有如何把音量永久拉回來。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>AirPods 在 Mac 上通常掉到半音量，是因為 macOS 把它們從高品質的 A2DP 音訊設定檔切換到低品質的免持（HFP）設定檔 — 那個為電話麥克風而生的設定檔。那個模式會限制輸出與音質。修法是強制 Mac 切回純耳機音訊，然後增強音量讓它維持。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods 在你的 Mac 上卡在半音量？這是修法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼會發生：編解碼器切換</h2>
+
+<p>像 AirPods 這樣的 Bluetooth 音訊裝置有兩種模式。當你只是聆聽時，macOS 使用 A2DP — 完整立體聲、完整音量、乾淨音質。但一旦某個應用程式想要你的麥克風，macOS 就把整個連線切換到 HFP（免持設定檔）。HFP 是雙向電話編解碼器。它聽起來單薄、偏單聲道，而且明顯較安靜，因為它是為語音通話而設計，不是為音樂。</p>
+
+<p>問題在於，即使搶走麥克風的應用程式已經結束，macOS 常常仍卡在 HFP — 或者你一打開 Zoom、FaceTime、Teams、Discord，或某個有麥克風權限的瀏覽器分頁，它就立刻切進去。所以你的 AirPods 聽起來像是在「半音量」，並不是因為音量滑桿動了，而是因為整個音訊設定檔在你不知不覺間降級了。</p>
+
+<p>你會認出這個現象：音訊突然變得又小又悶，AirPods 在你的聲音設定中出現兩次（一次是輸出，一次是麥克風），而且把系統音量開到底也幾乎沒幫助。</p>
+
+<h2>重新配對與編解碼器的變通做法</h2>
+
+<p>這些是誠實的第一步。依序處理 — 通常前面幾個之一就能解決它。</p>
+
+<ul>
+<li><strong>更改你的輸入裝置。</strong>開啟「系統設定 → 聲音 → 輸入」，選擇你 Mac 的內建麥克風而非 AirPods。這會阻止 macOS 把 AirPods 保持在 HFP 模式，讓輸出能爬回完整的 A2DP 音質。這是最有效的單一修法。</li>
+<li><strong>把 Bluetooth 關掉再開啟。</strong>快速重設連線通常能乾淨地重新協商 A2DP，尤其是在通話結束後 AirPods 卡住時。</li>
+<li><strong>重新連接 AirPods。</strong>蓋上盒子、等幾秒、在 Mac 附近重新打開，並重新選取它們作為輸出裝置。</li>
+<li><strong>結束搶走麥克風的應用程式。</strong>徹底結束 Zoom、Teams、Discord，或那個瀏覽器分頁。有些應用程式會在背景保留麥克風工作階段，並把 HFP 釘住直到它們被關閉。</li>
+<li><strong>從頭重新配對。</strong>在「系統設定 → 藍牙」中移除 AirPods（點按資訊按鈕 → 忘記此裝置），然後再次配對。這能清除單靠切換無法修復的損毀設定檔協商。</li>
+<li><strong>重設 AirPods。</strong>盒蓋打開、AirPods 在盒中，按住背面的設定按鈕，直到燈號閃琥珀色再閃白色。之後重新配對。這是對付韌體層級怪異狀況的終極手段。</li>
+<li><strong>更新 macOS 與 AirPods 韌體。</strong>Apple 曾在小版本更新中推送 Bluetooth 音訊修正。AirPods 韌體會在靠近一部已連線裝置充電時悄悄更新 — 所以就把它們放在盒子裡、靠近你的 Mac 過夜。</li>
+</ul>
+
+<blockquote><p>要留意的規律：如果音量在你加入通話的瞬間掉下來、在通話結束時恢復，那就是 HFP 切換 — 不是喇叭壞了，也不是設定小故障。</p></blockquote>
+
+<h2>為什麼這些修法不總是持久</h2>
+
+<p>這是令人沮喪的部分。即使重新配對後，下次只要有任何應用程式碰到麥克風，macOS 還是會樂於把你的 AirPods 切回那個安靜的免持模式。你無法在系統設定裡永久停用這個行為 — Apple 把它當作自動處理。所以你一天下來得重做好幾次那個更改輸入裝置的技巧，而任何時刻只要你的 AirPods 在通話中或在一個渴求麥克風的應用程式裡，它們就又被限制在那個較低的音量。</p>
+
+<p>還有第二個、與此不同、但人們常混為一談的問題：有些應用程式在系統最大音量下就是比其他的安靜。播客播放器或瀏覽器分頁的音量可能遠低於你耳朵想要的程度，即使 AirPods 正跑著乾淨的 A2DP。macOS 只給你一個管所有東西的音量滑桿，且沒有每應用程式控制，所以沒有原生方法能把單一安靜的應用程式推回去。</p>
+
+<h2>把音量拉回來 — 並讓它維持</h2>
+
+<p>這正是每應用程式音量混音器發揮價值的地方。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是一款 macOS 的選單列應用程式，為每個運行中的應用程式提供各自獨立的音量滑桿 — 包括超過 100% 的增強。所以當你的 AirPods 從通話回來、實際音量變低，或某個特定應用程式就是太安靜時，你把那個應用程式拉過正常上限，它就會維持在那裡。</p>
+
+<p>具體來說，那意味著：</p>
+
+<ul>
+<li><strong>每應用程式音量增強。</strong>把安靜的應用程式推過標準上限，而不必在「滿格」系統音量下費力聆聽。</li>
+<li><strong>音量設定檔。</strong>儲存一組音量 — 增強的瀏覽器、較柔和的音樂、響亮的視訊通話 — 並一鍵切換整套配置，這樣你就不必在每次重新連線後重新調整。</li>
+<li><strong>快速輸出切換。</strong>從選單列在 AirPods、筆電喇叭與外接 DAC 之間切換，無須翻找系統設定，這在你強制重新協商一個新設定檔時很有幫助。</li>
+<li><strong>每應用程式靜音與自動降音。</strong>在不動到其他的情況下靜音一個應用程式，並讓媒體在更重要的東西播放時自動降低。</li>
+</ul>
+
+<p>值得把它能做與不能做的講清楚。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 不會強迫 macOS 維持在 A2DP — 上面那個更改輸入裝置的技巧仍是你處理編解碼器本身的工具。它做的是把降級偷走的音量按應用程式還給你，讓安靜的 AirPods 工作階段或頑固地太小聲的應用程式，變成一拖即解，而非無解。而且因為它是沙盒化的 Mac App Store 應用程式，沒有音訊驅動程式要安裝、沒有 DMG、沒有內核擴充 — 它就是能跑。</p>
+
+<h2>簡短版</h2>
+
+<p>如果你的 AirPods 在 Mac 上聽起來又小又悶，就把你的輸入裝置切離 AirPods，強制它們脫離免持模式，若無效就重新配對。當音量仍然到不了你想要的地方 — 或某個單一應用程式就是太小聲 — 就用每應用程式增強，設定一次然後往前走。</p>
+
+<p>厭倦了每次接電話都要跟音量滑桿搏鬥？<a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a> — 一次性 €14.99，無訂閱、無驅動程式 — 讓每個應用程式都有自己的音量。</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Mac 音量在 Tahoe 上不斷自己重設？如何永久鎖定它",
+    description: "自 macOS Tahoe 以來，許多 Mac 會突然自行改變或重設音量。以下說明為什麼會發生、如何停止內建的成因，以及如何為每個應用程式鎖定固定音量讓它維持不變。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果你的 Mac 音量自 macOS Tahoe 以來不斷自己重設，修法就是排除那些自動調整器：停用音訊降音與「開機時播放聲音」、重設聲音設定，並乾淨地重新連接任何 Bluetooth 輸出。至於會亂跳的每應用程式音量，就用混音器為每個應用程式鎖定一個固定音量，讓它再也不會漂移。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 音量在 Tahoe 上不斷自己重設？如何永久鎖定它" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼你的音量在 Tahoe 後會自己改變</h2>
+
+<p>一個沒被你碰過就移動的音量，感覺像是硬體故障，但它幾乎總是軟體在替你決定音量。macOS 有好幾個會悄悄推動或重設輸出的自動行為，而 Tahoe 的音訊堆疊變更讓其中幾個更明顯了。在你認定應用程式或 Mac 壞掉之前，先搞清楚到底是哪個系統在搶你的滑桿會有幫助。</p>
+
+<ul>
+<li><strong>音訊降音：</strong>當 macOS 認為有更重要的東西在播放時（Siri、輔助使用宣告、通知），會降低其他音訊。觸發結束後，音量有時不會完全回到原位。</li>
+<li><strong>Bluetooth 交握重設：</strong>AirPods 與其他 Bluetooth 裝置會在連線時重新協商音量。在工作階段中途重新連線可能把輸出突然拉到預設值，或拉到高很多／低很多的音量。</li>
+<li><strong>輸出裝置切換：</strong>當你拔掉耳機、擴充座，或切換到顯示器喇叭時，每個輸出都會記住自己的音量。來回切換看起來就像「隨機」重設。</li>
+<li><strong>每應用程式預設值：</strong>有些應用程式（瀏覽器、影片播放器、視訊會議工具）會在啟動時、或當新串流開始時，自行設定增益，覆蓋你原本的設定。</li>
+<li><strong>開機聲與登入狀態：</strong>開機提示音與登入可能把系統音量推回你沒選過的某個預設值。</li>
+</ul>
+
+<h2>先修好內建的成因</h2>
+
+<p>依序處理這些。多數「自己重設」的抱怨在排除降音與 Bluetooth 之後就消失了。</p>
+
+<ul>
+<li><strong>關閉開機聲。</strong>「系統設定 → 聲音 → 取消勾選<em>開機時播放聲音</em>」。這能阻止開機提示音重設你的基準音量。</li>
+<li><strong>減少或停用降音觸發。</strong>在「系統設定 → 輔助使用 → 語音內容與 Siri」中，關閉你不需要的語音宣告。越少觸發，就越少出現 macOS 降低音訊卻忘了恢復的時刻。</li>
+<li><strong>重新配對有問題的 Bluetooth 裝置。</strong>把 AirPods 或耳機從藍牙設定移除並重新配對。過時的設定檔是連線時音量突然變動的常見成因。</li>
+<li><strong>刻意設定每個輸出裝置。</strong>連接你會用的每個輸出（內建、顯示器、耳機），並各設定一次音量。macOS 會為每個裝置分別儲存音量，所以全部設定好就能消除切換時的意外。</li>
+<li><strong>如果卡住就重設 Core Audio。</strong>開啟 Terminal 並執行 <code>sudo killall coreaudiod</code>。這會在不重開機的情況下重新啟動音訊常駐程式，並清除可能造成音量不穩的當機狀態。</li>
+<li><strong>更新，然後重新啟動。</strong>早期的 Tahoe 小版本更新帶了音訊修正。確認你在最新版本上，並在更新後重開機一次。</li>
+</ul>
+
+<p>如果重設停止了，就是上述某一項在作怪。如果你的<em>系統</em>音量穩定、但個別應用程式一直比其他東西飄得更大或更小，那你就碰到了內建控制能做到的極限。</p>
+
+<h2>真正的空缺：macOS 無法為每個應用程式鎖定音量</h2>
+
+<p>這是令人沮喪的部分。Windows 多年來一直有每應用程式音量混音器 — 你打開它、拖動一個應用程式的滑桿，它就維持在那裡。macOS 從未推出過一個。只有一個系統音量滑桿，而每個應用程式都在搶它。所以當某個瀏覽器分頁播出自動播放廣告、或某個視訊通話的音量是你音樂的兩倍時，你唯一的選擇就是手動操控主音量 — 而那正是你想逃離的「為什麼這個一直在變」循環。</p>
+
+<blockquote>系統滑桿是一個共用的單一旋鈕。沒有每應用程式混音器，在原版 macOS 上「設定好就不管」是不可能的 — 總會有東西覆蓋你。</blockquote>
+
+<h2>用 SoundDial 為每個應用程式鎖定固定音量</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 補上了 macOS 缺少的每應用程式混音器。它常駐在你的選單列，為每個運行中的應用程式提供獨立於主音量的音量滑桿。因為它會記住你為每個應用程式設定的音量，它直接解決了「自己重設」的問題：你決定一次，那個應用程式每次都以那個音量開啟。</p>
+
+<ul>
+<li><strong>每個應用程式的獨立音量：</strong>同時把音樂維持在 40%、視訊通話在 80%，無須操控主滑桿。</li>
+<li><strong>每應用程式靜音與增強：</strong>立即靜音一個吵鬧的應用程式，或在某個應用程式自己的音訊太弱時把它推過 100%。</li>
+<li><strong>音量設定檔：</strong>為「工作」、「遊戲」或「專注」儲存設定，一鍵切換整套混音。</li>
+<li><strong>由你掌控的自動降音：</strong>在你說話時、或當某個選定應用程式啟用時，自動降低背景應用程式 — 而不是由 macOS 決定。</li>
+<li><strong>快速輸出切換：</strong>從選單列在喇叭、耳機與顯示器音訊之間切換，無須潛入設定。</li>
+</ul>
+
+<p>它是 Mac App Store 上一次性 €14.99 的購買 — 無訂閱、無驅動程式、無 DMG，也無內核擴充。因為它完全沙盒化並經 App Store 發佈，你不會安裝到 Tahoe 可能在下次更新時封鎖的老式音訊 kext。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 使用受支援的 API 來設定音量，所以你記住的音量能挺過更新與重開機。</p>
+
+<h2>你到底需要哪種做法？</h2>
+
+<p>如果你的整個系統音量都在跳，就從上面的內建修法開始 — 降音、Bluetooth 與開機聲佔了大多數情況。如果反過來，問題是某一個應用程式總是格格不入，或你厭倦了主滑桿老是妥協，那麼每應用程式混音器就是唯一真正的答案。macOS 不會加上一個，所以選單列工具是通往真正維持在你設定位置的混音的實用途徑。</p>
+
+<p>厭倦了在 Tahoe 上追著音量滑桿跑？<a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a>，為每個應用程式鎖定一個記住的音量 — €14.99 一次性，無訂閱、無驅動程式。</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "在 Mac 上將你的 DAW 監聽音量與系統音訊分開控制",
+    description: "macOS 沒有內建的每應用程式音量混音器，所以你的 DAW 與系統聲音共用同一個音量。以下教你如何將 Logic、Ableton 或 GarageBand 的監聽音量與你的瀏覽器和通知獨立控制。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>macOS 沒有內建的每應用程式音量混音器，所以你的 DAW 與其他一切共用一個系統滑桿。要把你的監聽音量與瀏覽器、Slack 和通知獨立設定，你需要每應用程式音量控制。像 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 這樣的選單列混音器，能讓 Logic、Ableton 與 GarageBand 擁有各自獨立於系統音訊的音量。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 在 Mac 上將你的 DAW 監聽音量與系統音訊分開控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼單一音量滑桿會毀掉你的監聽</h2>
+
+<p>當你在製作時，你的 DAW 只是眾多發聲來源之一。一個瀏覽器分頁在播參考曲。Slack 提示不斷傳來。第二台顯示器上跑著一段 YouTube 教學。在 Windows 上，音量混合器讓你能獨立平衡這一切。在 macOS 上，Apple 從未推出對等的東西 — 音量鍵與選單列滑桿會<em>一次</em>移動所有東西。</p>
+
+<p>這對任何靠耳朵混音的人都造成真正的問題。你在 Logic 裡調到一個舒適的監聽音量，接著一則通知以同樣的音量炸進來，震爆你的耳朵。或者你在一段響亮的段落把系統調低以保護聽力，結果你的參考曲現在又太安靜、無法比對。你的監聽參考不再穩定，而穩定的參考正是混音的全部意義。</p>
+
+<blockquote>以一致的音量監聽，是少數能實質改善你混音的習慣之一。如果系統聲音不斷逼你去移動主滑桿，你就失去了那份一致性。</blockquote>
+
+<h2>「獨立的 DAW 音量」實際上是什麼意思</h2>
+
+<p>這裡有兩件製作者常混為一談的事，值得分開來看：</p>
+
+<ul>
+<li><strong>介面／主輸出音量</strong> — 你音訊介面上的硬體旋鈕，或你的監聽控制器。這決定你的絕對聆聽響度，一旦校準好就應該固定不動。</li>
+<li><strong>每應用程式軟體音量</strong> — 每個應用程式在抵達那個輸出<em>之前</em>有多大聲。這是 macOS 缺少的部分。它讓你把 DAW 維持在單位增益（unity），同時把 Chrome、音樂或通知聲降到它底下的墊底音量。</li>
+</ul>
+
+<p>你要的是第二個。目標不是把你的 DAW 調低 — 而是把其他一切相對於它調低，讓 DAW 維持為你最響亮、最一致的音源，而干擾則安靜地待在背景。</p>
+
+<h2>如何用每應用程式混音器做到</h2>
+
+<p>像 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 這樣的選單列混音器會列出每個正在播放音訊的應用程式，並給每個各自的滑桿。製作者的工作流程看起來像這樣：</p>
+
+<ul>
+<li><strong>把你的介面校準一次。</strong>把你的音訊介面或監聽控制器設到一個舒適、可重複的參考音量並保持不動。這是你的固定錨點。</li>
+<li><strong>把你的 DAW 設為 100%。</strong>在混音器裡，把 Logic、Ableton 或 GarageBand 留在完整的軟體音量，讓它以單位增益通過。你 DAW 自己的主推桿仍在做精細混音。</li>
+<li><strong>把其他一切拉低。</strong>把 Chrome、Safari、音樂與 Slack 降到較低音量 — 例如 40–60% — 讓參考曲與訊息待在你混音之下，而非與它競爭。</li>
+<li><strong>把吵鬧的東西靜音。</strong>每應用程式靜音讓你能完全靜音一個瀏覽器或聊天應用程式，而不動到你的監聽鏈。一鍵搞定，你的 DAW 繼續毫不受影響地播放。</li>
+</ul>
+
+<p>因為 DAW 的滑桿從不移動，你的監聽參考在整個工作階段中都穩如磐石。你可以把一段參考曲開大做快速 A/B 比對，然後把它靜音，而你的混音音量一分貝都沒變。</p>
+
+<h2>增強一個安靜的應用程式，而不是把其他調低</h2>
+
+<p>有時問題是反過來的。一份粗略的 demo 匯出、一段語音備忘錄，或一段安靜的參考，播放時遠低於你的工作階段音量。把你的介面調大來聽它，意味著其他一切現在都太響。每應用程式<strong>音量增強</strong>讓你把單一安靜的應用程式推過 100%，使它符合你的工作音量 — 而不動到你已校準的輸出。這是 Windows 的混合器從未擁有的一環，也是你在試聽 DAW 之外素材時更有用的工具之一。</p>
+
+<h2>為不同工作階段類型設定的設定檔</h2>
+
+<p>你理想的平衡並非每項任務都相同。錄音、混音與隨意聆聽各自需要不同的應用程式音量組合。音量設定檔讓你儲存一組設定並立即叫回：</p>
+
+<ul>
+<li><strong>混音：</strong>DAW 100%，瀏覽器與音樂調低，聊天靜音。</li>
+<li><strong>參考聆聽：</strong>音樂或串流應用程式調高，DAW 調低。</li>
+<li><strong>通話／協作：</strong>視訊會議應用程式調高，DAW 拉回，避免它滲入通話。</li>
+</ul>
+
+<p>切換設定檔勝過每次換工作模式都手動調整五個滑桿。</p>
+
+<h2>自動降音與快速輸出切換</h2>
+
+<p>錄音室裡還有兩件事很重要。<strong>自動降音</strong>能在優先音源說話或播放時自動降低背景應用程式，讓通話或重要音訊總能穿透出來。而從選單列<strong>快速輸出切換</strong>讓你在介面、監聽喇叭與耳機之間切換，無須翻找系統設定 — 這在你於不同系統上檢查混音時是個持續不斷的任務。</p>
+
+<h2>為什麼不用虛擬音訊驅動程式？</h2>
+
+<p>有些路由工具靠安裝內核層級的虛擬音訊驅動程式來解決這個問題。那些很強大但很笨重：它們可能在 macOS 更新後故障、增加延遲，並需要深層的系統權限。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是沙盒化的，並經由 Mac App Store 發佈 — 沒有驅動程式、沒有 DMG、沒有聚合裝置設定。特別針對每應用程式音量控制而言，那比重新架構你的音訊路由簡單得多。</p>
+
+<p>準備好在其他一切各就各位的同時保持你的監聽音量穩定嗎？<a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a>，一次性 €14.99，讓你的 DAW 擁有自己的音量。</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "更簡單的 Audio Hijack 替代方案：在 Mac 上做每應用程式音量",
+    description: "如果你只想要 macOS 上每個應用程式的獨立音量，Audio Hijack 就殺雞用牛刀了。以下是一個更輕、更便宜的選單列替代方案，做每應用程式音量、靜音與增強，而不含音訊路由。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果你要的只是 macOS 上每個應用程式的獨立音量，Audio Hijack 就超出你所需了。它是一套專業的音訊路由與錄音套件（約 $79），為擷取、效果與工作階段圖而打造。要單純把一個應用程式調低、另一個調高，像 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 這樣的輕量選單列混音器更快、更便宜，而且隨時就緒。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 更簡單的 Audio Hijack 替代方案：在 Mac 上做每應用程式音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼人們一開始會找上 Audio Hijack</h2>
+
+<p>macOS 沒有內建的每應用程式音量混音器。Windows 的音量混合器多年來一直有這功能，但在 Mac 上，音量鍵與選單列滑桿只移動一件事：系統主音量。沒有第一方的方法能說「把 Spotify 維持在 40%，但讓我的視訊通話保持在 100%」。</p>
+
+<p>所以人們搜尋變通做法，最後找到了 Audio Hijack。它<em>可以</em>做每應用程式音量，因為它能攔截並處理任何單一應用程式的音訊。但那個能力是它實際設計目的的副產品：從應用程式與硬體錄製音訊、串接效果、在虛擬裝置間路由，以及建立可重複使用的工作階段管線。它在那方面真的很出色。它只是對一個輕量問題給出的沉重答案。</p>
+
+<h2>Audio Hijack 何時變成殺雞用牛刀</h2>
+
+<p>有幾件事往往讓只想要一個音量滑桿的人感到沮喪：</p>
+
+<ul>
+<li><strong>價格。</strong>Audio Hijack 約在 $79。對一套錄音室等級的應用程式而言那算合理；但對調低一個瀏覽器分頁來說，那是一大筆錢。</li>
+<li><strong>它必須一直運行。</strong>它的每應用程式處理只在該應用程式開啟、且相關工作階段啟用時才有效。關掉它，你的音量就會回復。你為了維持一個滑桿位置，就得讓一整套音訊工作站常駐。</li>
+<li><strong>以工作階段為中心的思維。</strong>你用區塊與連線建立工作階段。對擷取而言很強大，但當你的目標只是「這個應用程式安靜些、那個大聲些」時，這是一大堆概念上的額外負擔。</li>
+<li><strong>介面很深。</strong>效果、路由、儀表、區塊佈線 — 如果你從不錄任何東西，這一大片功能表面你大多都會忽略。</li>
+</ul>
+
+<blockquote>經驗法則：如果你想<em>錄製或路由</em>音訊，Audio Hijack 值那個價。如果你只想在應用程式之間<em>平衡</em>音訊，那你是在需要一個旋鈕時卻買下了一整間工作坊。</blockquote>
+
+<h2>更簡單的替代方案：選單列音量混音器</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 只做多數人真正為之而來的那一件工作。它常駐在你的選單列。點按圖示，你就得到一份每個正在播放音訊的應用程式的即時清單，每個都有自己的滑桿。把 Spotify 拖到 30%、讓你的通話維持在 100%、把 Slack 完全靜音 — 搞定，不用建立任何工作階段。</p>
+
+<p>它涵蓋的內容：</p>
+
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> — 每個音源都有自己的滑桿，可即時調整。</li>
+<li><strong>每應用程式靜音</strong> — 一鍵靜音一個吵鬧的應用程式，而不動到其他任何東西。</li>
+<li><strong>每應用程式音量增強</strong> — 當某個應用程式自己的最大音量仍然太小時，把它推過 100%。這是系統滑桿永遠做不到的一環。</li>
+<li><strong>音量設定檔</strong> — 儲存整套混音（音樂調低、通話調大、通知靜音），並為某個情境一鍵叫回。</li>
+<li><strong>自動降音</strong> — 在更重要的東西開始時自動降低背景音訊，讓通話或影片不被你的播放清單淹沒。</li>
+<li><strong>快速輸出切換</strong> — 從同一個選單在耳機、喇叭與其他輸出之間切換。</li>
+</ul>
+
+<h2>實際操作：在一分鐘內取得每應用程式控制</h2>
+
+<p>設定上的差異正是重點。用路由工具你得建立一個工作階段、加入一個音源區塊、把它接起來，並讓應用程式持續運行。這裡則基本上是：</p>
+
+<ul>
+<li>從 Mac App Store 安裝 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。</li>
+<li>在幾個應用程式中播放音訊，讓它們出現在清單裡。</li>
+<li>點按選單列圖示，把每個應用程式的滑桿拖到你想要的位置。</li>
+<li>可選：把那套混音儲存成設定檔，或把太安靜的應用程式增強過 100%。</li>
+</ul>
+
+<p>因為它經由 Mac App Store 發佈，它是沙盒化的，安裝起來就像任何一般應用程式 — 沒有 <code>.dmg</code> 要拖、沒有內核擴充、沒有要在安全性設定中核准的音訊驅動程式，也沒有任何在 macOS 更新後需要重新核准的東西。最後這點很重要：驅動程式式的混音器過去在作業系統升級時就會故障，並需要重新安裝一個系統層級元件。沙盒化的 App Store 應用程式避開了整整一類的維護。</p>
+
+<h2>你該選哪一個？</h2>
+
+<p>對這份工作誠實一點。如果你需要錄製應用程式或硬體音訊、套用即時效果，或在虛擬裝置間建立路由圖，就選 <strong>Audio Hijack</strong>。那是它的主場，在那裡它值每一分錢。</p>
+
+<p>如果你實際的需求是「讓我獨立設定每個應用程式的音量」，就選一款專門的選單列混音器。你會一次花 €14.99 而非約 $79，省去建立工作階段，並在一個從選單列打開的面板裡得到增強、靜音、設定檔與降音。沒有你永遠用不到的錄音功能，也沒有一套為了維持滑桿位置而在背景運行的工作站。</p>
+
+<p>多數為了平衡音量而試用 Audio Hijack 的人，都是在用一個大工具解決一個小問題。如果那就是你，小工具更合適 — 而且只要一小部分的價錢。</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a>，€14.99，一次性 — 每應用程式音量、增強、靜音、設定檔與自動降音，就在你的選單列。</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D 替代方案：不含冗贅的每應用程式音量（Mac）",
+    description: "如果你用 Boom 3D 主要是為了增強音訊、但其實想要每應用程式音量控制，SoundDial 是更精簡的 Mac 替代方案：每個應用程式獨立音量、每應用程式靜音與增強、一次性價格，沒有全系統 EQ 或驅動程式。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果你拿 Boom 3D 來增強音量、但實際上想要分別控制每個應用程式，那你需要不同的工具。Boom 3D 是全系統的音量增強器與 EQ。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是專注的每應用程式音量混音器：為每個應用程式提供獨立音量、靜音與增強，一次性 €14.99，沒有 EQ、沒有驅動程式。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D 替代方案：不含冗贅的每應用程式音量（Mac）" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Boom 3D 實際上能做什麼（以及不能做什麼）</h2>
+<p>Boom 3D 圍繞三件事打造：全系統音量增強、一個 31 段等化器，以及 3D「環繞」效果。它把這些<em>一次</em>套用到你 Mac 播放的所有東西上。如果你的目標是讓筆電更大聲，或整體都想要一條你喜歡的低音曲線，那確實實用。</p>
+<p>Boom 3D 不擅長的，是把應用程式當作獨立聲道處理。沒有乾淨的方法能說「Spotify 40%、我的視訊通話 100%，而這個瀏覽器分頁靜音」。它的滑桿移動的是整套混音。而且因為它安裝了一個音訊驅動程式來坐進訊號路徑，它在比沙盒化工具更低的層級碰觸你的系統。它也被定位為一款有升級週期的付費產品，而非小型的一次性工具。</p>
+<blockquote><p>常見的故事：人們安裝 Boom 3D 來讓一個安靜的應用程式更大聲，然後才發現真正的問題是 macOS 根本沒有每應用程式音量混音器。</p></blockquote>
+
+<h2>那個空缺：macOS 沒有音量混音器</h2>
+<p>這讓從 Windows 來的人很意外。Windows 多年來一直有每應用程式的音量混合器 — 右鍵點喇叭、分別設定每個應用程式的音量。macOS 就是沒有推出這個。你得到一個主音量，以及每個應用程式碰巧提供的內建滑桿。沒有作業系統層級的方法能把 Slack、一個 YouTube 分頁與一個遊戲之間做平衡。</p>
+<p>所以當一個音樂應用程式淹沒你的通話時，你唯一的原生選擇很粗糙：把主音量調低（那會讓所有東西變安靜），或翻找每個應用程式自己的設定、期望它有音量控制。Boom 3D 也沒有填補那個空缺 — 它讓整套混音更大聲，而非讓每個應用程式各自調整。</p>
+
+<h2>SoundDial 的定位</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 就是那個缺失的混音器。它常駐在你的選單列，為每個運行中的應用程式提供各自一列、各自的滑桿。那就是它與 Boom 3D 的核心差別：你得到的是每音源控制，而非一個全域效果。</p>
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> — 把 Spotify 設為 30%，同時讓你的視訊通話維持在 100%。</li>
+<li><strong>每應用程式靜音</strong> — 立即靜音一個吵鬧的應用程式，而不動到其他任何東西。</li>
+<li><strong>每應用程式增強</strong> — 如果你喜歡 Boom 3D 那個超過 100% 的技巧，SoundDial 保留了它，但瞄準單一應用程式而非整個系統。安靜的應用程式會被單獨推過它們的正常上限。</li>
+<li><strong>音量設定檔</strong> — 儲存一套混音器佈局（例如「遊戲」、「會議」、「音樂」），並一鍵叫回，而不必每次重新平衡滑桿。</li>
+<li><strong>自動降音</strong> — 在重要的東西開始時自動降低背景音訊，讓通話或遊戲提示不被音樂淹沒。</li>
+<li><strong>快速輸出切換</strong> — 從同一個選單在耳機、喇叭與其他輸出之間切換。</li>
+</ul>
+<p>SoundDial 刻意不做的，是 Boom 3D 其餘那些功能蔓延。沒有 31 段 EQ、沒有仿環繞處理、沒有全系統效果鏈。如果你想要一個母帶等級的 EQ，Boom 3D 或一套專門的音訊套件才是對的選擇。如果你其實一直打開 Boom 3D 是為了<em>音量</em>，那片功能表面就是你付錢背負的冗贅。</p>
+
+<h2>增強，不含驅動程式</h2>
+<p>「增強」這個問題值得直接回答，因為它通常正是 Boom 3D 使用者尋找替代方案的原因。Boom 3D 的增強是全域且驅動程式式的。SoundDial 的增強是每應用程式的，並在 Apple 的應用程式沙盒模型內運行 — 它經由 Mac App Store 發佈，所以沒有另外的安裝程式、沒有內核層級驅動程式，也沒有日後要解除安裝的殘留系統元件。你得到「讓這一個安靜的應用程式更大聲」的結果，而不必把你整條音訊路徑的控制權交給一個驅動程式。</p>
+
+<h2>價格：一次性 vs. 持續</h2>
+<p>Boom 3D 是一款有自己升級與授權模式的付費應用程式，價格因平台與版本而異。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是單次一次性購買，售價 €14.99 — 買一次、留著，沒有訂閱、也沒有為了讓混音器繼續運作而需要的每版本重購。對一個你每天會留在選單列運行的工具而言，固定價格往往比一個你得不斷重新購買的產品更耐得住時間。</p>
+
+<h2>你該選哪一個？</h2>
+<ul>
+<li><strong>選 Boom 3D</strong>，如果你真正的需求是一個認真的等化器與全系統音訊效果，而且你不介意混音路徑裡有一個音訊驅動程式。</li>
+<li><strong>選 SoundDial</strong>，如果你想要 Windows 使用者視為理所當然的東西 — 一款真正的每應用程式音量混音器 — 外加瞄準式增強、設定檔與自動降音，一次性價格，且沒有驅動程式要安裝。</li>
+</ul>
+<p>多數對 Boom 3D 感到不合適的人都落在第二群。他們不是想調整頻率；他們是想讓瀏覽器比通話安靜。那正是 SoundDial 為之打造的工作。</p>
+
+<p><strong>想在你的 Mac 上取得每應用程式音量控制，而不含 EQ 冗贅或訂閱？</strong><a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a> — €14.99 一次性，沙盒化，沒有驅動程式，而且每個應用程式都有自己的滑桿。</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "如何在你的 Mac 上靜音除了一個應用程式以外的所有東西",
+    description: "macOS 沒有每應用程式音量混音器，所以要靜音除一個以外的所有應用程式需要一個輔助工具。以下教你如何只聽你的通話、實況或遊戲，同時讓其他一切保持靜音。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有內建的方法能靜音個別應用程式，所以要只聽一個應用程式，你需要一款每應用程式音量混音器。安裝 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、打開它的選單列混音器、把你想聽的那一個以外的每個應用程式都靜音，那個應用程式就會繼續播放，而其餘的立即靜音。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 如何在你的 Mac 上靜音除了一個應用程式以外的所有東西" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 macOS 自己做不到這件事</h2>
+<p>Windows 有音量混合器已超過十年：右鍵點喇叭圖示，每個運行中的應用程式都有自己的滑桿。macOS 從未推出這個。你 Mac 上的音量鍵只控制一件事，就是主輸出音量。當你把系統調低，所有東西一起降低。當你靜音，所有東西一起靜音。</p>
+<p>在你有五樣東西同時發聲之前，那都沒問題。你正在視訊通話，但一個瀏覽器分頁在自動播放廣告、Spotify 還在跑、一個遊戲在背景嗶嗶叫，而 Slack 在響。你唯一的原生選擇是結束應用程式、在每個應用程式自己的設定裡逐一靜音它們（如果它有那個選項的話），或拔掉你的耳機。那些都無法讓你說「留這一個、把其餘靜音」。</p>
+
+<h2>直接的做法：用混音器把其餘靜音</h2>
+<p>每應用程式混音器坐在你的應用程式與輸出裝置之間，給每個應用程式各自的音量與靜音控制。一旦你有一個在運行，隔離單一應用程式只需幾秒：</p>
+<ul>
+<li>從你的選單列打開混音器。你會看到一份每個正在產生音訊的應用程式的即時清單。</li>
+<li>找到你想聽的那一個應用程式，你的通話、你的實況、你的遊戲。</li>
+<li>把其他一切靜音。點按其他每個應用程式旁的靜音切換，或把它的滑桿拉到零。</li>
+<li>就這樣。你留著沒動的那一個應用程式繼續全音量播放，而其餘保持靜音。</li>
+</ul>
+<p>使用 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 時，清單裡每個應用程式都有自己的滑桿與自己的靜音按鈕，所以這只是幾下點按。之後才開始播放的新應用程式會自動出現，所以如果有個通知聲想偷溜進來，你可以當場把它靜音，而不必動到你專注的應用程式。</p>
+
+<blockquote>訣竅在於，靜音「除了一個以外的所有東西」正是靜音一個應用程式的反向操作。你不是在讓你的 Mac 靜音，你是在讓你真正在乎的東西周圍的噪音靜音。</blockquote>
+
+<h2>儲存成設定檔，這樣你就不用重做</h2>
+<p>如果這是你常會用到的設定，每次手動做就會變得很煩。比方說你在開會時總想讓通話應用程式大聲、其他一切關掉，或你想讓你的實況居於正中央、而遊戲與瀏覽器保持安靜。音量設定檔會儲存那些確切的每應用程式設定，並一鍵重新套用。</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 讓你儲存像「會議」或「僅實況」這樣的設定檔，然後在你需要時立刻切換到它們。設定一次，隔離你的那一個應用程式就變成單一的選單列動作，而非五個滑桿的苦差事。</p>
+
+<h2>更聰明的版本：自動降音，而非硬性靜音</h2>
+<p>有時你不想讓其他應用程式完全消失，你只是想讓它們在更重要的東西開始時讓路。那就是自動降音。當你的優先應用程式播放時，背景應用程式會自動降到低音量，然後在它停止時再升回來。</p>
+<p>這對通話與實況很理想。當有人開始說話時，你的音樂會降低讓你能聽見他們，而當通話結束時，音樂會自己升回來。你得到「清楚地聽見一個應用程式」的結果，而不必每次狀況改變都手動靜音與取消靜音。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 在手動混音器之外還包含自動降音，所以你可以為徹底安靜選擇硬性靜音，或為較柔和的背景選擇降音。</p>
+
+<h2>增強你留下的那一個應用程式</h2>
+<p>隔離單一應用程式還有個附加好處：你也可以讓它比你 Mac 通常允許的更大聲。有些應用程式，尤其是安靜的視訊通話或製作不良的實況，即使在最大音量下也幾乎聽不見。每應用程式增強能把個別應用程式推過 100%，而不必開大你的系統輸出，那樣只會把你已經靜音的應用程式放大。</p>
+<p>所以完整的操作是：把噪音靜音、留著你的那一個應用程式，如果那個應用程式太安靜，就增強它。<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 在同一個混音器視窗裡處理這全部三件事。</p>
+
+<h2>你不用簽下什麼</h2>
+<p>對 Mac 音訊工具常見的一個顧慮是，它們需要內核擴充、虛擬音訊驅動程式，或從某個隨機網站下載的可疑安裝程式。那是個合理的顧慮，也是為什麼有些人完全避開這類應用程式。</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 在 Mac App Store 上、沙盒化，安裝起來就像任何一般應用程式，沒有驅動程式、沒有 DMG、沒有要核准的系統擴充。它是一次性 €14.99 的購買，而非訂閱，所以你付一次就一直擁有。對一個你會整天留在選單列運行的東西而言，那很重要。</p>
+
+<h2>快速回顧</h2>
+<ul>
+<li>macOS 沒有原生的每應用程式音量控制，所以你需要一個混音器來做這件事。</li>
+<li>打開混音器、留著你的那一個應用程式、把其他一切靜音或歸零。</li>
+<li>為你常做的通話或實況把它儲存成設定檔。</li>
+<li>如果你想讓背景應用程式變安靜而非被消滅，就用自動降音。</li>
+<li>如果你留下的應用程式自己太安靜，就增強它。</li>
+</ul>
+
+<p>想只聽重要的東西、並讓其餘靜音？<a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a>，在一分鐘內設定好你的第一個「靜音其餘」設定檔。</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "在 Mac 上為喇叭與耳機保持不同的音量",
+    description: "macOS 在你於喇叭與耳機之間切換時會忘記你的應用程式層級音量混音。以下說明為什麼會發生、手動的極限，以及每應用程式音量記憶如何修正它。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>其實 macOS 會為每個輸出裝置記住各自的系統音量，但每次你切換時它會忘記你的應用程式層級平衡。所以耳機與喇叭保有它們各自的整體音量，然而你一拔掉，某個應用程式就變得很大聲、另一個卻消失了。修法是能挺過裝置切換的每應用程式音量記憶，而 macOS 沒有這方面的原生工具。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 在 Mac 上為喇叭與耳機保持不同的音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>macOS 記得什麼、又不記得什麼</h2>
+
+<p>有個常見的迷思認為 macOS 對每個輸出裝置一視同仁。它並非如此。每個輸出裝置都儲存自己的系統音量。把你的 MacBook 喇叭設為 30%、AirPods 設為 80%，macOS 會把這兩個數字分開保存。插上、拔掉、重新連接，每個裝置都會回到你留下它的位置。</p>
+
+<p>那為什麼體驗仍然感覺很糟？因為那份記憶止於那個單一的全域滑桿。macOS 對某個裝置上播放的所有東西，只有一個音量控制。它不記得個別應用程式各有多大聲。當你從喇叭切換到耳機時，Spotify、一個 Zoom 通話與一個 YouTube 分頁之間的平衡不會被保留，因為那個平衡從不存在。每個應用程式共用同一個滑桿。</p>
+
+<p>結果就是人們描述的「喇叭與耳機的音量不同」這種挫折。他們通常想要的，不只是每個裝置一個不同的主音量，而是一份記住的混音：安靜的音樂、大聲的通話、調低的通知，而那份混音無論在桌面喇叭還是耳機上都保持不變。</p>
+
+<h2>手動變通做法及其不足之處</h2>
+
+<p>你可以用內建工具走到一半的路，而在轉向其他東西之前，先了解它的上限是值得的。</p>
+
+<ul>
+<li><strong>把每個裝置的系統音量各設定一次。</strong>透過你的喇叭播放音訊、設好音量，然後把輸出切換到耳機並設好那個音量。macOS 會保留兩者。這處理了每個裝置的主音量，但無關乎每應用程式。</li>
+<li><strong>在應用程式有提供的地方使用每應用程式音量。</strong>Spotify、VLC 與大多數瀏覽器都有自己的內建音量。你可以在應用程式本身裡把一個大聲的應用程式調小。問題是：這個設定住在應用程式裡、不在裝置裡，所以當你切換到耳機時它不會改變，而且大多數應用程式（Slack、Zoom、系統通知、Mail）根本沒有這種控制。</li>
+<li><strong>從控制中心或選單列切換輸出。</strong>按住 Option 點選單列的音量圖示，就能快速在裝置間切換。很快，但它只移動主音量，並不會恢復每應用程式的混音。</li>
+</ul>
+
+<p>這些能給你每個裝置的主音量。它們沒有一個能給你的，是一份記住的、能跟著你跨裝置的每應用程式平衡。那個空缺正是惱人之處所在，而且它是結構性的：作業系統就是沒有每應用程式混音器，不像 Windows，多年來一直有一個。</p>
+
+<h2>每應用程式音量記憶，以及為什麼裝置切換才是真正的問題</h2>
+
+<p>更深層的修法是給每個應用程式各自的音量，並讓那些設定持續存在。那正是像 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 這樣的每應用程式混音器為之打造的。它坐在你的選單列，列出每個正在產生聲音的應用程式，並給每一個一個獨立的滑桿、一個靜音切換，甚至為安靜的應用程式提供超過 100% 的增強。</p>
+
+<p>對喇叭與耳機的問題而言重要的部分是：那些音量會被記住。把你的音樂設為 40%、通話設為 90%、一個多話的應用程式設為靜音，<a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 就會保留那套混音。當你拔掉耳機、退回喇叭時，你不用每次都手動重新平衡三個應用程式。</p>
+
+<p>音量設定檔更進一步。你可以儲存一組具名的每應用程式音量並一鍵叫回，這樣一套「耳機、專注工作」的混音與一套「喇叭、會議」的混音，就各是單一選擇，而非手動重設。</p>
+
+<blockquote><p>心態的轉變：別再想著一個你不斷拖動的主滑桿，開始想著每種情境一套已儲存的混音。裝置切換就不再是重新平衡的苦差事。</p></blockquote>
+
+<h2>快速輸出切換而不失去你的混音</h2>
+
+<p>切換裝置應該既快又不具破壞性。從同一個選單列面板，你可以更改你的輸出裝置，所以從喇叭移到耳機是一鍵搞定，而你的每應用程式音量會一起帶過來，而不是崩回單一的全域數字。</p>
+
+<p>值得一提的相關功能是自動降音：當音訊從你的麥克風進來時（你開始說話，或一通電話開始），其他應用程式會自動降低讓你能被聽見，之後再回到它們設定的音量。這是把同一原則套用在注意力而非裝置上，又是一件 macOS 自己不會做的事。</p>
+
+<h2>如何設定</h2>
+
+<ul>
+<li>從 Mac App Store 安裝 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。它是沙盒化的，所以沒有驅動程式、沒有 DMG，也沒有要核准的內核擴充。</li>
+<li>在你最常用的應用程式中播放音訊，讓它們出現在混音器裡。</li>
+<li>設定每個應用程式的音量、靜音任何你不想要的，並增強任何太安靜的。</li>
+<li>把那套配置儲存成設定檔，例如一套為耳機調校、一套為喇叭調校。</li>
+<li>當你切換裝置時，叫回對應的設定檔，或乾脆讓你已儲存的每應用程式音量跟著過來。</li>
+</ul>
+
+<p>誠實的總結：macOS 確實會在主音量層級記住每個輸出裝置的音量，但它永遠不會記住你的每應用程式混音，因為它沒有每應用程式混音器。如果你真正的目標是一份能挺過每一次喇叭與耳機切換、在音樂、通話與通知之間保持一致的平衡，你就需要在作業系統之上加一層每應用程式記憶。</p>
+
+<p>想讓喇叭與耳機各自保有自己的混音，而不必重新調整每個應用程式？<a href="https://apps.apple.com/app/id6772792641">到 Mac App Store 取得 SoundDial</a>，一次性 €14.99，無訂閱、無驅動程式。</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control 停產了嗎？最佳 Mac 每應用卷替換 (2026)",
+    description: "Static Z Software 的 Sound Control 已停產，並在現代 macOS 上中斷。以下是它停止工作的原因、它做了什麼，以及 2026 年最好切換到的每個應用程式音量混合器。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>Static Z Software 的 Sound Control 已停產，不再銷售或更新，而且它在現代 macOS 上越來越失敗，因為它依賴於 Apple 鎖定的核心級音訊驅動程式。如果您今天需要每個應用程式的數量，最乾淨的替代品是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一個沒有驅動程式的沙盒 Mac App Store 混音器。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control 停產了嗎？最佳 Mac 每應用卷替換 (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Sound Control實際上做了什麼</h2>
+<p>多年來，Sound Control 一直是解決 macOS 真正差距的首選答案：Mac 上仍然沒有內建的每個應用程式音量混合器。自 Vista 以來，Windows 的音量混音器中就有一個，但 macOS 只為您提供一個主滑桿。 Sound Control 用整齊的選單欄面板填補了這個漏洞，讓您：</p>
+<ul>
+<li>為每個正在執行的應用程式設定獨立的音量等級。</li>
+<li>將單一應用程式靜音，而不影響系統音訊的其餘部分。</li>
+<li>將安靜的應用程式提升到 100% 以上。</li>
+<li>應用每個應用程式的均衡器和平衡調整。</li>
+<li>將音訊和固定應用程式路由到特定的輸出設備。</li>
+</ul>
+<p>對於任何曾經經歷過 Zoom 呼叫爆炸而背景 YouTube 選項卡竊竊私語的人來說，每個應用程式的控制是變革性的。它成為許多 Mac 高級用戶機器上的安靜主食。</p>
+
+<h2>為什麼它停止工作</h2>
+<p>誠實的技術故事在這裡很重要，因為它解釋了為什麼這不是一個可以簡單修補的錯誤。 Sound Control 的工作原理是安裝系統音訊驅動程式 - 一個核心擴展 (kext)，它將自身插入到 macOS 音訊管道中，以便它可以攔截和重塑每個應用程式的輸出。正是這種深鉤使 EQ 和增強功能成為可能。</p>
+<p>從 macOS 10.15 Catalina 開始，並透過 Big Sur 和 Apple Silicon 過渡加速，Apple 開始棄用內核擴展，轉而採用用戶空間替代方案。在 Apple Silicon Mac 上，載入第三方 kext 需要降低恢復模式下的系統安全性，且 Apple 已明確表示傳統音訊 kext 已處於借用時間。 Static Z Software 最終停止銷售和開發 Sound Control。結果是：在最近的 macOS 版本上，安裝失敗，音訊出現故障，或者驅動程式只是拒絕加載，而沒有安全降級，這是大多數人不想做的。</p>
+<blockquote>這並不是開發商的疏忽。這是一個平台層級的轉變。 Apple 關閉了圍繞 Sound Control 構建的低階音訊驅動程式的大門，並且沒有任何更新可以完全重新打開它。</blockquote>
+
+<h2>現代macOS發生了什麼變化</h2>
+<p>蘋果確實添加了一項相關內容：Core Audio 現在提供了一個 Tap API（在 macOS 14.2 Sonoma 中引入），允許應用程式從用戶空間捕獲和處理每個進程的音訊 - 沒有 kext，沒有安全降級，沒有重新啟動到恢復。這是每個應用程式音訊的認可現代路徑，也是當前混音器應該建立的基礎。權衡是誠實的：用戶空間點擊比舊的核心驅動程式受到更多限制，因此您應該期望乾淨的每個應用程式音量、靜音和增強，而不是提供完整的每個應用程式參數 EQ Sound Control。</p>
+
+<h2>最佳替代品：SoundDial</h2>
+<p>如果您想要 Sound Control 所做的核心 - 每個應用程式的獨立卷 - 在 Mac 上您實際上可以保持安全和最新， <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是 2026 年最接近的乾淨遷移選項。它是一個選單列每個應用音量混合器，專為現代 macOS 音訊堆疊而構建。 Sound Control 工作流程的繼承內容：</p>
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> — 每個正在執行的應用程式都有一個滑桿，位於功能表列中。</li>
+<li><strong>每個應用程式靜音</strong> — 使一個應用程式靜音，而其他所有應用程式繼續運作。</li>
+<li><strong>每個應用程式的音量提升</strong> — 將安靜的應用程式推到其正常上限之上。</li>
+<li><strong>體積曲線</strong> — 儲存不同環境（通話、音樂、遊戲）的混音器設定並在它們之間切換。</li>
+<li><strong>自動閃避</strong> - 自動降低背景應用程式音量，當您開始講話或有電話打入時非常有用。</li>
+<li><strong>快速輸出切換</strong> — 在揚聲器、耳機和其他裝置之間跳轉，無需深入系統設定。</li>
+</ul>
+<p>對於遷移來說重要的實際差異： <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 透過 Mac App Store 發貨，經過沙箱處理，不安裝任何驅動程序，也不安裝 DMG。這意味著無需批准內核擴展，無需恢復模式，也不會降低 Mac 的安全狀況——這正是殺死 Sound Control 的痛點。這是一次性購買，價格為 14.99 歐元，而不是訂閱。</p>
+
+<h2>如何切換，一步一步</h2>
+<ul>
+<li><strong>乾淨地卸載Sound Control。</strong> 因為它安裝了驅動程序，所以如果它仍然運行，請使用自己的卸載程序，或者在安裝任何新內容之前刪除其音訊驅動程式組件。兩個競爭的音訊掛鉤可能會導致故障。</li>
+<li><strong>從 App Store 安裝 SoundDial。</strong> 無需重新啟動或進行安全更改。</li>
+<li><strong>授予它請求的音訊權限。</strong> 這就是讓它讀取和控制現代 macOS 上每個應用程式輸出的原因。</li>
+<li><strong>打開選單列面板並設定等級。</strong> 您正在執行的應用程式會顯示單獨的滑桿；根據需要進行調整、靜音或增強。</li>
+<li><strong>儲存個人資料。</strong> 如果您有最喜歡的 Sound Control 設置，請將它們重新建立為配置文件，以便您可以一鍵切換。</li>
+</ul>
+
+<h2>誠實的期望</h2>
+<p>如果您使用 Sound Control 的唯一原因是每個應用程式的音量、靜音和增強，那麼現代的沙盒混音器可以完全滿足您的需求。如果您嚴重依賴其每個應用程式的均衡器，請注意深度均衡器與舊的驅動程式模型相關，並且是在蘋果當前規則下最難乾淨地重現的功能。相應地設定期望，就不會感到驚訝。</p>
+
+<p>準備好恢復每個應用程式的音量了嗎？ <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> — 一次性 14.99 歐元，沙盒，無需訂閱，無需驅動程式。</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny 已不存在 — 現代 Mac Per-App Volume 應用程式將取代它",
+    description: "Prosoft 的 SoundBunny 已停產。這是目前積極維護的 macOS 每個應用程式音量混合器來替換它 - 以及如何在沒有核心驅動程式的情況下遷移每個應用程式音訊設定。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果 SoundBunny 停止工作或不再出售，則現代替代品是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，專為目前 macOS 構建的選單列每個應用程式音量混合器。它為您提供與一次性購買 Mac App Store 相同的核心功能（每個應用程式的獨立音量、靜音和增強），無需管理核心驅動程式、DMG 或訂閱，只需 14.99 歐元。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny 已消失 — 現代 Mac 每應用卷應用程式將取代它" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>SoundBunny怎麼了？</h2>
+<p>SoundBunny 是 Prosoft Engineering 針對 macOS 的每個應用程式捲實用程式。它允許您直接從選單列為每個正在運行的應用程式設定不同的音量等級 - 音樂安靜，通話大聲，瀏覽器介於兩者之間。多年來，它是填補蘋果從未填補空白的少數工具之一。</p>
+<p>問題是 SoundBunny 是遺留軟體。它沒有跟上蘋果對 macOS 音訊和安全性所做的深刻改變——Apple Silicon、強化的運行時、收緊的系統擴展規則以及刪除舊的音頻掛鉤。當像這樣的實用程式停止接收更新時，它最終會崩潰：無法啟動，在作業系統更新後失去對應用程式流的控制，或者根本無法在現代 Mac 上乾淨地安裝。如果那是你的處境，那你就沒有做錯任何事。落後的是應用程序，而不是你。</p>
+
+<h2>為什麼macOS仍然需要第三方混音器</h2>
+<p>這是誠實的部分：這是 macOS 中的真正差距，而不是您可以在「設定」中修復的錯誤。 Windows 十多年來一直為每個應用程式提供音量混合器。 macOS從來沒有。系統音量滑桿和聲音設定控制您的 <em>輸出裝置</em> 作為一個整體——每個應用程式都有相同的大師等級。沒有內建方法可以說「將 Safari 保持在 40%，但將 Zoom 保持在 100%」。</p>
+<p>這就是像 SoundBunny 這樣的工具存在的原因，也是今天仍然需要更換的原因。當應用程式出現時，這種需求並沒有消失——蘋果只是還沒有解決這個問題。</p>
+
+<h2>現代替代品：SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是一個每個應用程式的音量混合器，位於選單列中，可以執行 SoundBunny 用戶所依賴的功能，是針對今天的 macOS 而不是昨天的 macOS 構建的。功能重疊涵蓋了要點：</p>
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> — 每個正在運行的應用程式一個滑塊，正是 SoundBunny 心理模型。</li>
+<li><strong>每個應用程式靜音</strong> — 使一個嘈雜的應用程式靜音，而不影響其他所有應用程式。</li>
+<li><strong>每個應用程式的音量提升</strong> — 推送一個安靜的應用程式 <em>上面</em> 當視訊或通話錄音太低時為 100%。 SoundBunny 無法可靠地放大現代 macOS 上過去的系統最大值； boost在這裡是真正的升級。</li>
+<li><strong>體積曲線</strong> - 保存一組每個應用程式的等級（「工作」組合，「遊戲」組合）並在它們之間切換，而不是一次輕推一個滑桿。</li>
+<li><strong>自動閃避</strong> - 當另一個音訊來源（例如通話中的麥克風）處於活動狀態時，自動降低背景應用程式音量。</li>
+<li><strong>快速輸出切換</strong> — 從同一選單在揚聲器、耳機和其他輸出之間跳轉。</li>
+</ul>
+
+<h2>遷移實際上是什麼樣子</h2>
+<p>沒有導入步驟 - 每個應用程式的音量等級不是您保留的檔案 - 但切換很快：</p>
+<ul>
+<li><strong>正確刪除SoundBunny。</strong> 退出它，然後刪除該應用程式。如果它安裝了任何幫助程式或登入項，請將其也刪除，這樣兩個實用程式就不會爭奪相同的音訊串流。</li>
+<li><strong>從 Mac App Store 安裝 SoundDial。</strong> 它是沙盒化的，並透過商店分發，因此不需要安裝 DMG，也沒有「身份不明的開發人員」警告。一次購買，與您的 Apple ID 綁定。</li>
+<li><strong>首次啟動時授予音訊存取權限。</strong> macOS 將請求 SoundDial 允許查看應用程式音訊。這是蘋果公司提供的現代的、經過認可的途徑——無需內核擴展，無需重新啟動，也不會降低系統安全性。授予它，您正在運行的應用程式將顯示為滑桿。</li>
+<li><strong>重建你的混音。</strong> 設定常用應用程序，然後將該安排儲存為設定文件，這樣您就無需重做。</li>
+</ul>
+
+<h2>與SoundBunny的實際差異</h2>
+<p>最重要的區別是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是當前軟體。它在 Apple Silicon 上本地運行，使用 Apple 支援的音訊 API，並且是一個 Mac App Store 應用程式 - 這意味著更新通過商店到達，並且它的構建是為了在作業系統升級中生存而不是破壞它們。沙盒化也意味著它無法超出其通道，這對於位於應用程式和揚聲器之間的東西來說是令人放心的。</p>
+<p>一些誠實的警告，所以期望是正確的。由於 SoundDial 在 Apple 的音訊框架內運作，因此控制最適合透過正常系統輸出路由的標準應用程式。一些軟體透過自己的路徑或專用設備播放音頻，並且沒有菜單欄混音器（包括 SoundBunny）可以完全控制這些。每個應用程式的體積本質上是 macOS 之上的軟體層；它不是硬體混音器。在這些實際限制內，它可以完成 SoundBunny 過去所做的工作。</p>
+
+<blockquote>如果您從 Windows 切換到 Mac，並期望每個應用程式都有音量混合器，那麼這個工具可以填補這一空白 - 現在它實際上是一個正在維護的工具。</blockquote>
+
+<p>SoundBunny 運作良好，但它是遺產。如果您需要現代 Mac 上的每個應用程式音量、靜音和增強， <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> — 一次 14.99 歐元，無需訂閱，無需驅動程式。</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Mac 的替代方案：每個應用程式數量，無需 Boom 3D 追加銷售",
+    description: "Boom 2 是傳統的，並且不斷將您推向 Boom 3D。如果您只想提高每個應用程式的數量並在現代 macOS 上進行簡單的提升，這裡有一個集中的替代方案及其工作原理。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果您喜歡 Boom 2 進行系統範圍的提升但想要簡單 <strong>每個應用程式</strong> 目前 Mac 的音量，誠實的答案是 Boom 2 是遺留的，不再是正確的工具。一個集中的替代方案是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，一個選單列混音器，為每個應用程式提供自己的音量滑桿、靜音和增強功能，一次價格為 14.99 歐元，無需推送更大的捆綁包。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 的 Boom 2 替代方案：無需 Boom 3D 追加銷售的按應用程式數量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼Boom 2不再適合</h2>
+<p>Boom 2 成為一款深受喜愛的應用程式有一個特定的原因：它將 Mac 的整體音量提高到超出系統最大音量，並添加了均衡器。它在整個系統範圍內執行此操作，而不是每個應用程式。 2015 年還好。到了 2026 年，就會出現兩個問題。</p>
+<p>首先，它是遺產。 Global Delight 顯然已將其精力轉移到了 Boom 3D 上，如果您打開 Boom 2 產品頁面，您會發現自己幾乎立即轉向更新、價格更高的應用程式。 Boom 2仍然存在，但它是供應商用來銷售Boom 3D的墊腳石，而不是受到積極喜愛的產品。</p>
+<p>其次，也是更重要的一點：Boom 2 從來都不是每個應用程式的音量混合器。它提高並塑造了一個主輸出。如果您真正的痛苦是 Slack ping 的聲音比您的音樂更大，或者瀏覽器選項卡淹沒了通話，那麼 Boom 2 無法解決這個問題。它讓一切都變得更加響亮。那是不同的工作。</p>
+
+<h2>macOS 上的「每個應用程式數量」實際上意味著什麼</h2>
+<p>這是大多數替代綜述都會跳過的誠實背景：macOS 根本沒有內建的每個應用程式音量混合器。 Windows 已經使用多年了 - 右鍵單擊揚聲器，打開音量混合器，然後將 Chrome 設定為 40%，將 Spotify 設定為 80%。蘋果從未出貨過。 macOS 音量鍵只能移動一級。</p>
+<p>因此，當您尋找“Boom 2 替代品”時，您通常真正尋找的並不是聲音更大的 Mac，而是用戶認為理所當然的每個應用程式控制 Windows。這是作業系統中真正的差距，而不是 Boom 2 或任何單一應用程式忘記建構的東西。</p>
+
+<h2>SoundDial 適合的地方</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是專門針對這一差距而設計的。它位於選單欄中，列出了當前播放音訊的應用程序，每個應用程式都有自己的滑桿。您可以為每個應用程式設定級別，而不是輕推一個主控制器並希望獲得最好的結果。</p>
+<p>它的作用：</p>
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> — 讓瀏覽器安靜，將音樂保存在您想要的地方，沒有全局妥協。</li>
+<li><strong>每個應用程式靜音</strong> — 使一個嘈雜的應用程式靜音，而不接觸其他任何東西。</li>
+<li><strong>每個應用程式的提升</strong> — 當視訊或通話錄製得太安靜時，單一應用程式就會超過其正常上限。這是 Boom 2 粉絲通常會錯過的部分，只不過這裡它針對的是一個應用程式而不是整個系統。</li>
+<li><strong>體積曲線</strong> — 儲存「焦點」、「會議」或「遊戲」等佈局並一鍵切換。</li>
+<li><strong>自動閃避</strong> — 當您開始講話時自動降低其他應用程式的音量，這對於通話和錄音非常有用。</li>
+<li><strong>快速輸出切換</strong> — 從同一選單在揚聲器、耳機和其他輸出之間跳轉。</li>
+</ul>
+
+<h2>如何設定</h2>
+<p>工作流程很短：</p>
+<ul>
+<li>安裝 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 從 Mac App Store — 沒有 DMG，沒有驅動程序，無需重新啟動。</li>
+<li>點擊功能表列圖示以查看目前發出聲音的每個應用程式。</li>
+<li>將每個應用程式的滑桿拖曳到您想要的等級；根據需要單獨靜音或增強。</li>
+<li>如果您想稍後重複使用，請將排列另存為設定檔。</li>
+</ul>
+<p>因為它是透過 App Store 提供的，所以它是沙盒的並且可以乾淨地安裝。這是值得指出的，因為一些較舊的音訊工具依賴於核心擴展或虛擬音訊驅動程式——現代 macOS 越來越抵制這種東西。 SoundDial 不會要求您安裝驅動程式或降低任何安全性設定。</p>
+
+<h2>誠實的限制</h2>
+<p>每個應用程式的提升是真實的，但不是魔法。如果應用程式的來源音訊確實很安靜或錄製得很糟糕，則增強它會提高本底雜訊以及訊號，因此非常安靜的材料在用力推動時可能會發出嘶嘶聲。這是放大的物理極限，而不是任何特定應用程式的缺陷 - Boom 2 的系統增強也有同樣的權衡。將增強視為實際情況的餘量，而不是損壞音訊的救援。</p>
+
+<h2>Boom 2 與對焦混音器對比</h2>
+<p>如果您喜歡 Boom 2 的是系統範圍的響度加上 EQ，並且您不關心每個應用程式的控制，那麼 Boom 3D 就是供應商的預期繼任者 - 這是一條公平的道路，我們不會假裝不是這樣。但是，如果您嘗試過 Boom 2 並意識到您真正想要的是調低或調高一個應用程式而不移動所有內容，那麼 EQ 和增強捆綁包就是錯誤的工具形式。</p>
+<blockquote>Boom 2讓整個Mac聲音更大。每個應用程式的混音器可讓您決定哪個應用程式聲音更大。這些解決不同的問題。</blockquote>
+<p>價格差異也值得明確指出。 SoundDial 一次 14.99 歐元。沒有訂閱，沒有試用會變成更大的計劃，也沒有應用程式內路徑引導您進入更昂貴的關卡。您購買了攪拌機，您就擁有了攪拌機。</p>
+
+<p>如果每個應用程式的音量（而不是系統範圍的均衡器）才是您真正想要的， <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上嘗試 SoundDial</a> 並按照 macOS 應該讓您一直進行的方式設定您的等級。</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune 與 SoundDial：Mac 上的免費開源與按應用程式付費量",
+    description: "FineTune 是一款針對 Mac 的免費開源按應用批量應用； SoundDial 是一款付費沙盒 App Store 應用程序，具有增強功能、配置文件和支援。這是一個誠實的比較，可以幫助您選擇。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>FineTune 是一款適用於 macOS 的免費開源每應用程式音量混合器，因此，如果價格是您唯一關心的問題，那麼它是一個真正的選擇。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是一款付費（14.99 歐元，一次性）Mac App Store 應用程序，增加了每個應用程式的音量提升、保存的配置文件、自動閃避和供應商支援。真正的選擇是免費和 DIY，而不是沙盒和支持。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune 與 SoundDial：Mac 上的免費開源與付費按應用程式量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>兩個應用程式解決的問題</h2>
+
+<p>macOS 仍然沒有內建的每個應用程式音量混合器。 Windows 多年來一直擁有這一功能 - 右鍵單擊揚聲器圖標，打開音量混合器，每個應用程式都有自己的滑桿。在 Mac 上，您可以使用一個系統音量滑桿來處理所有事情：您的音樂、視訊通話、YouTube、通知鈴聲和遊戲都共用它。如果您的通話太安靜而 Spotify 太大聲，您唯一的「解決方案」就是完全靜音 Spotify。</p>
+
+<p>FineTune 和 SoundDial 的存在就是為了填補這一空白。他們為每個正在運行的應用程式提供了自己的音量控制，這樣您就可以將會議音量保持在 100%，同時將背景音樂調低至 20%，而無需觸摸主滑桿。</p>
+
+<h2>FineTune 的正確之處</h2>
+
+<p>FineTune 是一款秉承 SoundSource 精神的更新、免費、開源應用程式。讓我們公平地對待它的優勢，因為它們是真實的：</p>
+
+<ul>
+  <li><strong>它不需要任何成本。</strong> 無需許可證，無需試用，無需升級。</li>
+  <li><strong>來源是開放的。</strong> 你可以準確地閱讀它的作用，審核它的隱私，並且 - 如果你了解 Swift - 修改或分叉它。</li>
+  <li><strong>它是社區驅動的。</strong> 任何人都可以修復錯誤，而且程式碼的壽命比任何一家公司都長。</li>
+  <li><strong>它涵蓋了核心需求。</strong> 每個應用獨立的音量，這是 90% 的人真正在尋找的功能。</li>
+</ul>
+
+<p>如果您唯一的要求是“讓我關閉一個應用程式而不關閉所有應用程式”，並且您對沒有正式支援台的軟體感到滿意，那麼 FineTune 是一個合理的答案。在這裡推薦它並不是一種讓步——而是誠實的。</p>
+
+<h2>DIY路線的誠實權衡</h2>
+
+<p>免費和開源帶來的實際成本不會顯示在價格標籤上。這些並不是專門針對 FineTune 的，而是該方法的本質：</p>
+
+<ul>
+  <li><strong>安裝是手動的。</strong> 開源音訊工具通常作為下載的版本或 Homebrew 公式分發，而不是透過 App Store。你在蘋果審查之外進行安裝，並且你有責任保持它的更新。</li>
+  <li><strong>每個應用程式的音訊攔截本質上是脆弱的。</strong> 路由另一個應用程式的音訊是一項深層系統工作。當 Apple 發布更改音訊堆疊的 macOS 更新時，這些工具可能會損壞，直到有人修補它們。對於志工項目，「某人」那個月可能很忙。</li>
+  <li><strong>盡最大努力提供支援。</strong> 如果出現問題，您可以求助於 GitHub 問題並等待。沒有保證的回應，也沒有人有義務修復它。</li>
+  <li><strong>功能範圍是維護者提供的任何內容。</strong> 核心音量控制可能已涵蓋；額外費用完全取決於貢獻者的時間。</li>
+</ul>
+
+<blockquote>誠實的框架：FineTune 用金錢換取維護責任。您節省了 14.99 歐元，並承擔了作業系統更新導致系統損壞的風險，直到社區趕上。</blockquote>
+
+<h2>其中SoundDial不同</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 採取相反的貿易。您支付一次，作為回報，您將獲得 App Store 產品，背後有供應商，以及基於每個應用程式數量構建的更廣泛的功能集：</p>
+
+<ul>
+  <li><strong>每個應用程式的音量和靜音</strong> — 兩個應用程式提供的共用基線。</li>
+  <li><strong>每個應用程式的音量提升</strong> — 將過於安靜的應用程式推至超過 100%。對於音訊輸出較弱的應用程式很有用，在這種情況下，拒絕其他輸出仍然不夠。</li>
+  <li><strong>體積曲線</strong> — 儲存整個混音（「會議」、「焦點」、「遊戲」）並一鍵切換，而不是每次都重置滑桿。</li>
+  <li><strong>自動閃避</strong> - 當您說話或選定的應用程式處於活動狀態時，請自動降低背景應用程式的運行速度，因此無需手動操作即可接通通話。</li>
+  <li><strong>快速輸出切換</strong> — 從選單列在揚聲器、耳機和其他輸出之間跳轉。</li>
+</ul>
+
+<p>同樣重要的是 <em>如何</em> 它發貨了。 SoundDial 是沙盒化的，並透過 Mac App Store 分發 - 沒有單獨的 DMG，沒有內核驅動程序，沒有安裝音訊驅動程式。像任何其他應用程式一樣透過 App Store 進行更新，並且當出現問題時可以向真正的開發人員發送電子郵件。這就是 14.99 歐元的具體價值：不僅僅是更多的功能，還有人負責讓它們在 macOS 版本中正常運作。</p>
+
+<h2>一個適用於兩者的誠實警告</h2>
+
+<p>沒有第三方應用程式可以將 macOS 的音訊系統變成 Windows 的音量混合器，因為 Apple 沒有為每個應用程式音訊公開乾淨的公共 API。此類別中的每個工具（免費或付費、開放或封閉）都使用系統級音訊技術來解決該限制。這意味著 FineTune 和 SoundDial 都會受到 macOS 音訊重大變化的影響。差別在於誰負責事後修復：志工社區，還是產品依賴它的付費供應商。</p>
+
+<h2>你該選擇哪一個？</h2>
+
+<ul>
+  <li><strong>選擇 FineTune 如果</strong> 您想要零成本，重視開源透明度，只需要基本的每個應用程式數量，並且可以輕鬆地安裝在 App Store 之外，並在出現問題時能夠自我支援。</li>
+  <li><strong>選擇 SoundDial 如果</strong> 您想要一鍵式 App Store 安裝、增強、設定檔和自動閃避等附加功能，以及參與遊戲的供應商的更新和支援保證。</li>
+</ul>
+
+<p>兩者都有效。這實際上取決於您是否願意花錢或花注意力。如果您寧願購買受支援的沙盒應用程式並且不再考慮它， <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> 一次性 14.99 歐元 — 無需訂閱，無需驅動程序，無需 DMG。</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial：免費的 Mac 音量混合器夠用嗎？",
+    description: "免費 Background Music 應用程式和付費 SoundDial 之間的公平競爭。免費虛擬驅動程式方法在哪裡有效，在哪裡失效，以及 14.99 歐元的本機混音器何時值得。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>Background Music 是免費的，並且真正擅長基礎知識：它為每個應用程式提供了自己的音量滑塊，並且可以在另一個應用程式播放時自動暫停音樂。如果這就是您所需要的，請使用它。但它依賴虛擬音訊驅動程序，該驅動程式可能會在 macOS 更新後中斷，並且缺乏每個應用程式的增強、設定檔和輸出切換。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 用金錢換取無駕駛、沙盒、受支持的替代方案。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music 與 SoundDial：免費的 Mac 音量混合器夠嗎？" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>首先，關於macOS的誠實事實</h2>
+<p>macOS 沒有內建的每個應用程式音量混合器。 Windows 的音量混合器已經有十多年了，但在 Mac 上，系統滑桿可以同時移動所有內容。沒有 Apple 支援的 API 可以讓第三方應用程式乾淨地攔截和重新平衡各個應用程式流。這個差距就是 Background Music 和 SoundDial 等工具存在的原因，也是以下大多數權衡的根本原因。</p>
+
+<h2>Background Music 擅長什麼</h2>
+<p>Background Music 是一款開源功能表列應用程序，已經存在多年，並且有充分的理由擁有忠實的追隨者。它為您提供：</p>
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> ——核心特徵。在保持通話聲音的同時調低 Spotify 的音量。</li>
+<li><strong>自動暫停</strong> - 當其他地方開始出現音訊時，它可以暫停您的音樂播放器，這對於會議來說是一個很好的選擇。</li>
+<li><strong>跟隨您的裝置音量</strong> 以及一個簡單、嚴肅的介面。</li>
+<li><strong>零成本</strong> — 它是免費的，代碼是公開的。</li>
+</ul>
+<p>對很多人來說這就夠了。如果您的整個願望清單是“讓一個嘈雜的應用程式變得更安靜而不影響其他應用程式”，Background Music 涵蓋了它，並且您不應該為不需要的東西付費。公平在這裡很重要：這是一個合法有用的工具。</p>
+
+<h2>自由方法的缺陷在哪裡</h2>
+<p>問題是 <em>如何</em> Background Music 實現每個應用程式的數量。由於 macOS 沒有提供官方路徑，因此它會安裝一個虛擬音訊驅動程式（舊 Soundflower 方法的修改版本），透過自身路由系統音訊。這種架構很聰明，但它也帶來了實際成本：</p>
+<ul>
+<li><strong>macOS 更新後它會中斷。</strong> 虛擬音訊驅動程式位於系統深處，主要的 macOS 版本歷史上已停用或不穩定它們。使用者經常報告升級後出現無聲、失真或需要重新安裝的情況。當它破裂時，你通常只能靠自己。</li>
+<li><strong>安裝較重。</strong> 您正在為 Mac 添加一個與核心相鄰的音訊設備，而不僅僅是一個應用程式。乾淨地卸載可能很麻煩。</li>
+<li><strong>它成為您的預設輸出設備。</strong> 由於所有內容都透過虛擬設備路由，因此某些專業音訊、會議或遊戲應用程式可能會表現得很奇怪，並且切換真實輸出是一個額外的步驟。</li>
+<li><strong>發展是社區節奏的。</strong> 沒有支援台。當志工有時間時，修復就會到來，這對於突然靜音的音訊工具來說是一個有意義的風險。</li>
+</ul>
+<p>這些都不會讓 Background Music 變得糟糕。它使其成為一個具有免費工具權衡的免費工具。</p>
+
+<h2>您使用 SoundDial 實際支付的費用</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是一個 Mac App Store 應用程序，它塑造了它的本質。由於 App Store 應用程式是沙盒的，無法提供 Background Music 使用的低階虛擬驅動程序，因此 SoundDial 無需安裝單獨的音訊設備或 DMG 即可運行。這意味著：</p>
+<ul>
+<li><strong>沒有虛擬驅動程式的怪癖。</strong> 沒有額外的輸出設備劫持您的音訊鏈，並且在系統更改時無需重新安裝任何內容。</li>
+<li><strong>它在 macOS 更新中更加優雅地生存。</strong> App Store 分發和沙箱意味著它是根據支援的路徑構建的，並透過商店進行更新，因此作業系統升級不太可能讓您保持沉默。</li>
+<li><strong>每個應用程式的音量提升。</strong> 這是一個真正的功能差異：SoundDial 可以推送應用程式 <em>上面</em> 100% 適用於安靜的來源——錄音太低的播客、低沉的視訊通話。 Background Music 僅衰減。</li>
+<li><strong>音量設定檔。</strong> 儲存一組每個應用程式等級（「會議」、「音樂」、「遊戲」）並點擊一次即可切換，而不是每次都拖曳滑桿。</li>
+<li><strong>自動閃避。</strong> 當選定的來源播放時，自動降低其他應用程式的音量——這是自動暫停理念的一種更可配置的方式。</li>
+<li><strong>快速輸出切換</strong> 烘焙到選單列中，加上每個應用程式的靜音。</li>
+<li><strong>真正的支持。</strong> 這是一種付費產品，出現問題時有人負責。</li>
+</ul>
+
+<h2>誠實的決定</h2>
+<blockquote>如果您想要免費並且只需要基本的每個應用程式數量，並且您可以在 macOS 更新後輕鬆排除故障，那麼 Background Music 是一個不錯的選擇。如果你想要升壓、設定檔、閃避、輸出切換、沒有虛擬驅動程式的脆弱性，以及在故障時有人發電子郵件，SoundDial 值 14.99 歐元。</blockquote>
+<p>一些具體的決勝局。如果您經常處理過於安靜的音源，僅使用增強功能就證明了其價格合理——Background Music 根本無法使音訊比音源更響亮。如果您害怕每年一度的「我的音訊能否在更新後倖存下來」的賭博，那麼沙盒商店應用程式可以消除這種焦慮。如果您喜歡一勞永逸的場景，設定檔可以節省真正的麻煩。而且它是一次性的 14.99 歐元，而不是訂閱，因此比較的是單次購買與維護免費驅動程式所花費的時間。</p>
+<p>相反，如果您是一位喜歡開源的修補匠，想要閱讀程式碼，並且大多數情況下只是拒絕一個應用程式 - 省錢。這兩種工具都解決相同的核心問題；它們在魯棒性、功能深度以及當 macOS 在它們下面發生變化時誰會抓住你方面有所不同。</p>
+
+<p>想要每個應用程式的容量而不需要虛擬驅動程式的賭博嗎？ <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> — 一次性 14.99 歐元，沙盒，無驅動程序，內建增強、設定檔和自動閃避功能。</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "SoundSource 值 39 美元嗎？更便宜的一次性 Mac 替代品",
+    description: "SoundSource 是一款功能強大的 Mac 音訊工具，售價約為 39 美元，但如果您只需要每個應用程式的音量和增強，那麼它就太過分了。這是一個誠實的比較和 14.99 歐元的一次性替代品。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>如果您需要完整的工具包，SoundSource 是值得的：每個應用程式的音量、每個應用程式的 10 頻段均衡器、裝置之間的音訊路由以及系統範圍的效果。但如果你主要想要每個應用程式的音量、每個應用程式的靜音和音量增強，那麼 39 美元左右的價格就顯得有些過分了。對於那個範圍較窄的工作， <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 一次費用為 14.99 歐元。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource 值 39 美元嗎？一種更便宜的一次性 Mac 替代品" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>SoundSource 實際上做了什麼</h2>
+<p>Rogue Amoeba 的 SoundSource 是一款真正優秀的軟體，公平地對待這一點很重要。它不僅僅是一個音量混合器。它為您提供：</p>
+<ul>
+<li><strong>每個應用程式的音量控制</strong> 從選單列中，這是大多數人喜歡的功能。</li>
+<li><strong>完整的 10 頻段均衡器</strong> 您可以在每個應用程式或系統範圍內應用，以及其他音訊效果（透過音訊單元插件）。</li>
+<li><strong>輸出/輸入路由</strong>，包括將單一應用程式傳送到與系統其他部分不同的輸出裝置。</li>
+<li><strong>快速設備切換</strong> 和耳機特定的等化器預設。</li>
+</ul>
+<p>如果您是播客、串流媒體主播或音訊迷，想要調整耳機上的均衡器、將應用程式的聲音重新導向到單獨的揚聲器或堆疊音訊單元效果，那麼 SoundSource 就物有所值。這裡沒有什麼是敲門的。</p>
+
+<h2>價格問題</h2>
+<p>SoundSource 是一種付費的一次性許可證，價格約為 39 美元（價格因版本和促銷活動而異）。它不是 Netflix 意義上的定期訂閱，但它遵循經典的付費應用程式模式：您購買主要版本，未來的主要升級通常是折扣的付費升級，而不是永久免費。幾年來，這不僅僅是一次購買。對於許多 Mac 用戶來說，誠實的問題是：當我真正接觸到的只是每個應用程式的音量滑桿時，我是否要為路由和均衡器套件支付 39 美元？</p>
+
+<blockquote>如果您打開了 SoundSource 並且只使用過音量滑桿和靜音按鈕，那麼您就需要支付一套套件的費用來使用其中的一個抽屜。</blockquote>
+
+<h2>為什麼這個問題存在</h2>
+<p>這是誠實的根本原因：macOS 沒有內建的每個應用程式音量混合器。 Windows已經有好幾年了，但在Mac上，系統體積是全有或全無。 Apple 沒有提供任何方法可以讓 Spotify 在視訊通話聲音很大時保持安靜，或者在不接觸其他所有內容的情況下將一個應用程式靜音。這種差距正是 SoundSource 等工具的原因 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 存在。這是一個真正的作業系統限制，而不是任何一個應用程式發明的問題來解決。</p>
+
+<h2>更輕、更便宜的選擇適合的地方</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是一個選單列每個應用程式音量混合器，專為常見情況而不是專業音訊情況而構建。它涵蓋：</p>
+<ul>
+<li><strong>每個應用程式的獨立音量</strong> — 當會議保持最高音量時，請放下音樂。</li>
+<li><strong>每個應用程式靜音</strong> — 使一個應用程式靜音，而不會使 Mac 靜音。</li>
+<li><strong>每個應用程式的音量提升</strong> — 當訊號源太弱時，將安靜的應用程式推至正常的 100% 以上。</li>
+<li><strong>體積曲線</strong> — 儲存一組每個應用程式等級（例如「焦點」或「呼叫」佈局）並點擊即可切換。</li>
+<li><strong>自動閃避</strong> — 當您開始講話或播放所選應用程式時，請自動降低其他應用程式的音量。</li>
+<li><strong>快速輸出切換</strong> — 從選單列在揚聲器、耳機和其他裝置之間跳轉。</li>
+</ul>
+<p>這是 <strong>€14.99 一次性</strong>，透過 Mac App Store 出售，因此它是沙盒的，沒有單獨的 DMG，沒有內核擴展，也不需要安裝音訊驅動程式。您可以像任何 App Store 應用程式一樣下載它，並透過商店進行更新。</p>
+
+<h2>誠實的比較</h2>
+<p>對權衡保持清醒的認識。 SoundSource 比 SoundDial 具有更多功能，如果以下任何一項對您來說很重要，那麼 SoundSource 是更好的選擇：</p>
+<ul>
+<li>您想要一個真正的每個應用程式或系統 <strong>均衡器</strong> 和音訊單元效果。</li>
+<li>你需要 <strong>將單一應用程式路由到不同的輸出設備</strong> 比其他一切都重要。</li>
+<li>你依靠 <strong>耳機特定的 EQ 預設</strong> 和細粒度的音頻處理。</li>
+</ul>
+<p>SoundDial 不執行 EQ 或每個應用程式裝置路由。故意把它弄窄了。它給你帶來的回報是更低的價格、更輕的佔用空間以及針對大多數人真正想要的東西的集中式選單欄介面：將每個應用程式保持在你選擇的級別，並在頂部提供增強和設定檔。</p>
+
+<h2>那麼，SoundSource值得嗎？</h2>
+<p>是的，如果您使用均衡器和路由。它是由受人尊敬的開發商提供的成熟且得到良好支援的軟體，而且價格反映了真實的功能。但「值得」取決於你會觸摸什麼。如果您打開應用程式並且僅調整音量滑桿、將應用程式靜音或希望一個安靜的應用程式聲音更大，那麼您就需要為基本混音器需求支付高級套件費用。在這種情況下，一次性 14.99 歐元的工具是更明智的選擇，如果您的需求擴展到 EQ 和路由，您可以隨時升級到 SoundSource。</p>
+
+<p>如果您只需要每個應用程式的音量、增強、靜音、設定檔和自動閃避， <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> — 一次 14.99 歐元，無需訂閱，無需驅動程式。</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Mac 聲音太大？關閉一個瀏覽器而不將所有內容靜音",
+    description: "Chrome 比 Mac 上的其他應用程式更響亮嗎？了解內建修復（每個標籤靜音、網站聲音設定）以及如何為 Chrome 設定真正的每個應用程式音量，使其保持比其他任何東西都更安靜。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有內建的每個應用程式音量，因此您無法在本機調低 Chrome，同時讓其他應用程式保持最大音量。您最快的免費修復是將嘈雜的標籤靜音，降低每個影片播放器內的音量，或在 Chrome 的設定中阻止每個網站的聲音。要獲得真正、持久的 Chrome 音量級別，您需要每個應用程式混音器。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome 在 Mac 上聲音太大？關閉一個瀏覽器而不將所有內容靜音" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼Chrome聽起來比其他一切都響亮</h2>
+<p>Chrome 在設計上不一定「響亮」——Chrome 路由來自許多獨立來源的音訊：YouTube、自動播放廣告、視訊通話、背景音樂標籤和每個都有自己響度的網路應用程式。有些網站的製作很熱門，廣告也非常響亮，而 Chrome 會以系統的最大輸出電平播放所有這些內容。同時，您的音樂應用程式或通話可能會更安靜，因此 Chrome 在混音中佔據主導地位。</p>
+<p>在 Windows 上，您只需打開音量混合器並向下拖曳 Chrome 滑桿即可。 macOS 根本不包含該功能。系統音量鍵可同時控制所有內容，因此調低 Chrome 也會調低音樂、通知和通話的音量。這是核心限制——這是作業系統的差距，而不是你做錯了什麼。</p>
+
+<h2>無需花費任何費用的內建修復</h2>
+<p>在安裝任何東西之前，請嘗試這些。他們不會給你一個 Chrome 音量旋鈕，但他們解決了大多數「一個響亮的標籤」問題。</p>
+<ul>
+<li><strong>將吵雜的標籤靜音。</strong> 右鍵單擊該標籤並選擇“靜音網站”，或按一下播放音訊的標籤上顯示的小揚聲器圖示。這會使該選項卡完全靜音，而不會影響 Chrome 的其餘部分。</li>
+<li><strong>降低播放器內部的音量。</strong> 最可靠的技巧：在 YouTube、Netflix 或任何正在播放的內容中向下拖曳音量滑桿。網路玩家會記住每個網站自己的級別，因此安靜的 YouTube 下次會保持安靜。</li>
+<li><strong>每個站點阻止聲音。</strong> 前往 <em>chrome://設定/內容/聲音</em>。您可以在「允許」和「靜音」之間切換站點，並將特定網域新增至靜音清單。非常適合永久靜音自動播放的網站。</li>
+<li><strong>殺死自動播放廣告。</strong> 廣告音訊往往是真正的罪魁禍首。內容攔截器或將選項卡靜音直到您準備好觀看，可以消除最令人驚訝的響度。</li>
+</ul>
+<blockquote>這些確實有用且免費。但請注意他們不能做什麼：他們靜音或管理單一選項卡。他們都不會讓你說「將所有 Chrome 保持在 40%，而我的音樂保持在 100%」。</blockquote>
+
+<h2>誠實的限制：macOS 中沒有每個應用程式的數量</h2>
+<p>如果您的實際目標是“Chrome 應該始終比我的其他應用程式更安靜”，那麼內建工具就達不到要求。每個選項卡的靜音要么全有要么全無。當網站不記得播放器滑桿且必須不斷重做時，播放器滑桿會重設。系統體積將所有東西移動在一起。</p>
+<p>這是一個真正的 macOS 限制，而不是一個可以被設定掉的錯誤。 Apple 從未推出過 Windows 風格的音量混音器。為 Chrome 獲得持久、獨立的音量等級的唯一方法是使用位於您的應用程式和輸出裝置之間並應用每個應用程式增益的第三方應用程式。</p>
+
+<h2>為 Chrome 設定每個應用程式的實際音量</h2>
+<p>選單列混音器，例如 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 為 macOS 提供了它所缺少的每個應用程式的音量控制。它列出了目前正在播放音訊的每個應用程序，並為每個應用程式提供了自己的滑桿 - 因此您可以將 Chrome 拉至舒適的水平，並將 Spotify、您的通話和系統聲音保留在原處。</p>
+<p>以下是如何用它來馴服大聲的 Chrome：</p>
+<ul>
+<li>打開選單列混音器並在活動應用程式清單中找到 Chrome。</li>
+<li>將 Chrome 的滑桿向下拖曳到 40% 到 50%。其他應用程式保持不變。</li>
+<li>如果某個特定應用程式太 <em>安靜</em> 相反 - 一個低聲通話的應用程式 - 使用 <a href="https://apps.apple.com/app/id6772792641">每個應用程式的音量提升</a> 將其推至 100% 以上，同時保持 Chrome 較低。</li>
+<li>當您需要靜音而不關閉選項卡時，可以使用每個應用程式靜音立即將 Chrome 靜音。</li>
+</ul>
+<p>因為關卡與應用程式相關，所以它會被保留。 Chrome 在各個分頁、網站和重新啟動時都保持您選擇的音量 - 每次開啟新影片時都無需重新拖曳播放器滑桿。</p>
+
+<h2>更進一步：設定檔、閃避和輸出切換</h2>
+<p>一旦您擁有了每個應用程式的控制權，一些額外的功能就值得保留。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 讓您節省音量 <strong>簡介</strong> — 例如，Chrome 安靜而音樂響亮的“焦點”配置文件，以及 Chrome 占主導地位的“觀看”配置文件 — 只需單擊即可在它們之間切換。當選定的來源啟動時，自動閃避可以自動隱藏其他應用程式（很方便，因此呼叫永遠不會被喧鬧的瀏覽器標籤淹沒）。快速輸出切換讓您可以在揚聲器、耳機和其他裝置之間切換，而無需深入了解系統設定。</p>
+<p>Mac App Store 一次性購買價格為 14.99 歐元——無需訂閱，無需安裝驅動程序，無需 DMG 或內核擴展。因為它是沙箱並透過 App Store 分發，所以不需要粗略的音訊驅動程式安裝所依賴的舊混音器工具。</p>
+
+<h2>您應該使用哪個修復程序？</h2>
+<p>如果您偶爾只有一個令人討厭的選項卡，請使用 Chrome 的內建靜音和網站聲音設定 - 它們是免費的並且有效。如果你經常發現自己希望 Chrome 可以簡單地被關閉，而其他一切都保持不變，那麼這正是 macOS 留下的空白，而每個應用程式的混合器就是一個乾淨的解決方案。</p>
+
+<p>想要 Chrome 永久安靜而不將音樂或通話靜音嗎？ <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> 並為每個應用程式提供自己的音量滑桿。</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "WhatsApp 和 Telegram 通知在 Mac 上聽起來太大聲？拒絕他們",
+    description: "修正 WhatsApp 和 Telegram 桌面通知聲音在 Mac 上太大的問題。從每個應用程式的內建設定開始，然後在 macOS 不為您提供每個應用程式控制時降低或靜音整個應用程式。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>從每個應用程式內部開始：WhatsApp 和 Telegram 都允許您在自己的設定中靜音或更改通知聲音，這是最乾淨的修復。但 macOS 沒有每個應用程式的通知音量滑塊，因此如果應用程式自己的聲音仍然太大，您唯一真正的槓桿是使用每個應用程式的音量工具降低或靜音整個應用程式的音訊。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — WhatsApp 和 Telegram 通知在 Mac 上聽起來太大聲？拒絕他們" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>首先，使用應用程式自帶的通知設置</h2>
+
+<p>WhatsApp 和 Telegram 都附帶了自己的聲音控制，這是您應該始終開始的地方。這是最精確的修復，並且不會影響 Mac 上的任何其他內容。</p>
+
+<p><strong>WhatsApp 桌上型電腦：</strong> 開啟WhatsApp，點選 <em>設定</em> （齒輪圖示），然後 <em>通知</em>。您可以關閉 <em>聲音</em> 完全同時保留橫幅，或停用通知預覽。 WhatsApp 不提供音量滑桿，因此它本質上是聲音本身的開啟或關閉。</p>
+
+<p><strong>Telegram 桌上型電腦：</strong> 打開 <em>設定 → 通知和聲音</em>。 Telegram 這裡比較靈活。您可以全域關閉通知聲音、將各個聊天靜音或設定自訂（更安靜）的鈴聲。您也可以透過開啟單一雜訊的群組並選擇將其靜音 <em>靜音</em>。對大多數人來說，將最吵鬧的聊天靜音可以解決問題，而不必在任何地方保持沉默。</p>
+
+<p>如果聲音很好但太頻繁，請將最常觸發的特定聊天或頻道靜音，而不是在整個應用程式範圍內殺死聲音。這使重要警報保持清晰可聽。</p>
+
+<h2>在macOS系統設定中關閉通知聲音</h2>
+
+<p>macOS 有第二層控制，在某些情況下會覆蓋應用程式。前往 <em>系統設定 → 通知</em>，在清單中選擇WhatsApp或Telegram，然後關閉 <em>播放通知聲音</em>。這會靜音該應用程式的警報鈴聲，同時仍顯示橫幅。</p>
+
+<p>如果您只想讓應用程式在通知時保持安靜，而不關心其他音訊（通話、視訊），那麼這確實是一個很好的解決方案。結合應用程式本身的設置，它涵蓋了大多數「ping 不和諧」的投訴。</p>
+
+<h2>真正的限制：macOS 沒有每個應用程式的數量</h2>
+
+<p>這是誠實的部分。上述步驟是開/關開關。他們不能做的是轉 WhatsApp 或 Telegram <em>向下</em> 比如說 40%，同時將其他所有內容保持在最大音量。 Windows 多年來一直擁有每個應用程式的音量混合器。 macOS 根本不包含它，並且沒有隱藏設定或 Terminal 命令來添加它。</p>
+
+<p>當問題不是具體的通知鈴聲而是整個應用程式聲音太大時，這一點很重要：</p>
+
+<ul>
+<li>WhatsApp 或 Telegram <strong>語音和視訊通話</strong> 與您的音樂或會議相關的最大音量</li>
+<li>您想要保留但處於較低級別而不是完全關閉的通知聲音</li>
+<li>鈴聲的聲音遠遠超過您正在聽的任何其他聲音</li>
+<li>當您專注於其他事情時，希望應用程式在背景安靜地發出聲音</li>
+</ul>
+
+<p>這些都無法透過內建工具解決，因為它們只提供靜音，而不提供等級。這個差距是一個真正的 macOS 限制，而不是你忽略的東西。</p>
+
+<h2>使用 SoundDial 設定每個應用程式的音量</h2>
+
+<p>要真正關閉而不是關閉單個應用程序，您需要每個應用程式的音量混合器。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是一個選單欄應用程序，為 macOS 提供了它從未附帶過的每個應用程式的音量控制。它列出了當前播放音訊的每個應用程序，並為每個應用程式提供了自己的滑桿。</p>
+
+<p>對於這個具體問題：</p>
+
+<ul>
+<li>打開 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 從選單列中找到 WhatsApp 或 Telegram 在清單中。</li>
+<li>將其滑桿向下拖曳到舒適的水平，例如 30-40%，同時保持您的音樂、瀏覽器或視訊通話不變。</li>
+<li>使用每個應用程式 <strong>靜音</strong> 按鈕可在通話或會議期間立即使應用程式靜音，然後稍後取消靜音，而無需深入了解設定。</li>
+<li>如果您需要相反的，一個太軟的安靜應用程序，每個應用程序 <strong>提升</strong> 可以將其推至100%以上。</li>
+</ul>
+
+<p>因為它為每個應用程式設定了一個級別，所以 SoundDial 會保持通知鈴聲和呼叫音訊可聽但相稱，而不是內建選項強加給您的全有或全無的選擇。您也可以儲存 <strong>體積分佈</strong>，因此只需單擊即可實現使聊天應用程式保持低功耗的“焦點”設定。</p>
+
+<blockquote>一個誠實的警告：在 SoundDial 中降低應用程式的整體音量也會降低其通知鈴聲，因為對於 macOS 它們是同一應用程式的音訊。如果您希望完全關閉通知但以最大音量通話，請使用應用程式自己的靜音加上鈴聲的系統設置，並保留 SoundDial 來設定一般等級。</blockquote>
+
+<p>SoundDial 是 Mac App Store 的一次性購買產品，售價為 14.99 歐元，沙盒化，無需訂閱，無核心驅動程序，也無需側載 DMG。當您真正想要的修復（關閉而不是關閉）macOS 本身無法做到時，這就是實際的答案。</p>
+
+<h2>您應該使用哪個修復程序？</h2>
+
+<p>從上到下工作。首先嘗試應用程式自己的通知設置，然後嘗試 macOS 系統設置來消除鈴聲。如果您真正想要的是將 WhatsApp 或 Telegram 降低到特定音量，或者在通話期間即時靜音該應用程序，那麼每個應用程式混音器就可以發揮作用。</p>
+
+<p>厭倦了在聊天應用程式的完全靜音和完全靜音之間進行選擇？ <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> 並為每個應用程式提供自己的音量旋鈕。</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Mac 上的遊戲音訊比 Discord 大聲嗎？如何平衡遊戲音量和語音音量",
+    description: "您的遊戲淹沒了 Mac 上的 Discord 語音聊天，並且沒有內建音量混合器。這就是為什麼 macOS 缺乏 Windows 風格的每個應用程式音量，以及如何在保持聲音調高的同時調低遊戲音量。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有內建的每個應用程式音量混合器，因此您無法在保持 Discord 大聲的同時本機限制遊戲。解決方案是一個選單列應用程序，它可以為每個應用程式設定獨立的音量。將遊戲速度調低至 40-50%，將語音聊天保持在 100%，兩者都保持平衡，無需觸摸遊戲內滑桿。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 上的遊戲音訊比 Discord 響亮？如何平衡遊戲音量和語音音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼這種情況發生在 Mac 上（而不是 Windows 上）</h2>
+
+<p>如果您玩過 Windows 遊戲，您就會知道音量混合器：右鍵單擊揚聲器圖標，每個正在運行的應用程式都會有自己的滑桿。你放棄遊戲，加註 Discord，完成。 macOS 根本就沒有提供該功能。有一個主輸出音量和一些應用程式層級的切換隱藏在系統設定中，但沒有針對任意應用程式的每個應用程式層級控制。</p>
+
+<p>因此，當遊戲的混音掌握得很好時，它的爆炸、音樂和槍聲就會以與朋友的聲音相同的輸出水平出現。有些遊戲會提供主音量滑桿，但許多遊戲的音量滑桿都不夠低，而且許多啟動器、瀏覽器和獨立遊戲根本不提供有用的控制。 Discord本身只能讓你調整傳入使用者的音量，而無法調整與他們競爭的遊戲。</p>
+
+<p>老實說，這是作業系統層級的差距，而不是可以切換掉的錯誤。 Apple 的音訊堆疊將所有內容路由到單一輸出流，並且沒有第一方 UI 可以將其拆分為每個應用程式。這就是為什麼您需要位於應用程式和輸出裝置之間的第三方工具。</p>
+
+<h2>手動解決方法（以及它們為何不足）</h2>
+
+<p>在使用軟體之前，有必要了解免費選項及其限制：</p>
+
+<ul>
+<li><strong>降低遊戲的應用程式內音量。</strong> 如果遊戲有一個具有足夠精細步長的主滑塊，則可以使用。許多會以 10% 的增量停止，或將音樂和效果捆綁在一起，因此您無法僅抑制響亮的部分。</li>
+<li><strong>在Discord中培養你的朋友。</strong> 右鍵單擊每個用戶並提高他們的音量。這有一點幫助，但效果最好，而且並沒有觸及遊戲的實際問題。</li>
+<li><strong>使用硬體音量旋鈕的耳機。</strong> 只會改變整體水平，不會改變遊戲和語音之間的平衡。</li>
+<li><strong>透過虛擬設備路由音訊。</strong> 像 Loopback 或 BlackHole 這樣的工具可以分割流，但它們針對的是專業人士，需要真正的設置，並且對於「讓遊戲更安靜」來說有些過分了。</li>
+</ul>
+
+<p>這些都沒有給你 Windows 用戶認為理所當然的一件事：每個應用程式都有一個快速滑桿。這就是差距 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是為了填充而建造的。</p>
+
+<h2>直接修復：每個應用程式獨立的音量</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是 macOS 的選單列每個應用程式音量混合器。它顯示當前正在播放聲音的每個應用程序，並為每個應用程式提供自己的滑塊，就像 Windows 音量混合器一樣。對於遊戲與語音問題，工作流程很短：</p>
+
+<ul>
+<li>當遊戲和 Discord 都運行時，請點擊選單列中的 SoundDial 圖示。</li>
+<li>在清單中找到該遊戲並將其滑桿拉至大約 40-50%。</li>
+<li>將 Discord（或 Slack、Zoom 或您的語音應用程式）保留為 100%。</li>
+<li>在遊戲過程中進行動態調整－在喧鬧的交火中進一步降低遊戲速度，在安靜的探索過程中將遊戲速度調高。</li>
+</ul>
+
+<p>由於等級是針對每個應用程式的，因此您只需設定一次即可保留。無論遊戲本身的混音有多熱門，遊戲都會保持上限，並且您的朋友也能清楚地聽到它的聲音。</p>
+
+<h2>其餘設定的增強、靜音和配置文件</h2>
+
+<p>相同的工具涵蓋了語音遊戲帶來的鄰近煩惱：</p>
+
+<ul>
+<li><strong>每個應用程式的提升。</strong> 如果隊友的麥克風即使在 Discord 的最大值下也很安靜，您可以推送語音應用程式 <em>上面</em> 100%，所以它會貫穿遊戲而不是被埋沒。</li>
+<li><strong>每個應用程式靜音。</strong> 立即將背景瀏覽器標籤或音樂應用程式靜音，無需按 Alt 鍵或終止播放。</li>
+<li><strong>音量設定檔。</strong> 儲存遊戲進度為 45% 且 Discord 增強的「遊戲」設定文件，然後一鍵切換回「正常」設定檔以供日常使用 - 每次會話時無需重新拖曳滑桿。</li>
+<li><strong>自動閃避。</strong> 當有人說話時，遊戲會自動下降，這樣標註總是會出現在動作之上。</li>
+<li><strong>快速輸出切換。</strong> 從同一選單在耳機和揚聲器之間跳轉，無需深入系統設定。</li>
+</ul>
+
+<blockquote><p>思維模型很簡單：每個應用程式一個滑塊，Windows 多年來一直這樣做。 macOS 只是從未提供過它，因此一個小實用程式可以恢復奇偶校驗。</p></blockquote>
+
+<h2>誠實地期待什麼</h2>
+
+<p>每個應用程式的混合器乾淨地解決了平衡問題，但正確設定了期望。它控制軟體輸出電平——它無法修復音訊掌握不好的遊戲，也無法發出從未捕獲的信號（真正損壞的麥克風仍然需要硬體修復）。 Boost 增加了實際增益，因此將安靜的來源推到遠超過 100% 會導致失真，就像將任何擴大機調得太高一樣。不過，如果使用得當，大多數設定都需要適度的遊戲上限和小幅語音增強。</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 是沙盒的，直接從 Mac App Store 安裝 - 沒有驅動程序，沒有內核擴展，沒有值得信任的 DMG。一次性售價 14.99 歐元，無需訂閱，支援 28 種語言的 macOS 音量控制。</p>
+
+<p>別再與遊戲中的滑桿對抗了。搶 <a href="https://apps.apple.com/app/id6772792641">Mac App Store 上的 SoundDial</a>，把遊戲調低，讓你的隊伍保持大聲，最後得到Windows風格的音量混合器macOS忘記發貨了。</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "外接顯示器揚聲器聲音太大或卡在 Mac 上？修復 HDMI/DisplayPort 音量",
+    description: "為什麼 Mac 的音量鍵無法控制 HDMI 或 DisplayPort 顯示器揚聲器，以及如何使用顯示器 OSD、音訊 MIDI 設定和更好的輸出路由來修復聲音太大、卡住或無法調整的音訊。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果您的 Mac 的音量鍵顯示為灰色，或者對透過 HDMI 或 DisplayPort 連接的顯示器沒有任何反應，這通常不是錯誤。數位顯示音訊通常以固定電平發送，顯示器本身的硬體控制音量。解決方法是調整顯示、重新路由輸出或使用不同的音訊設備。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 外部顯示器揚聲器聲音太大或卡在 Mac 上？修復 HDMI/DisplayPort 音量" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 Mac 音量鍵在 HDMI/DisplayPort 上停止運作</h2>
+
+<p>HDMI 和 DisplayPort 將音訊作為數位串流傳輸。許多顯示器以固定的輸出電平接收該流，並希望您控制顯示器本身的響度，而不是來源設備上的響度。當 macOS 偵測到此情況時，它會停用螢幕上的音量滑桿並使 F11/F12 鍵變灰，在按下這些按鍵時顯示「禁止輸入」符號。</p>
+
+<p>這是硬體和協定限制，Mac 上的軟體無法覆蓋。音訊永遠不會經過允許 macOS 衰減的階段。任何應用程式、驅動程式或設定都無法將音量控制注入顯示器堅持以最高等級接收的串流中。誠實地對待這一點可以節省您尋找錯誤解決方案的時間。</p>
+
+<h2>修復 1：使用顯示器自帶的控制 (OSD)</h2>
+
+<p>對大多數人來說，這才是真正的解決方案。幾乎所有內建揚聲器的顯示器都有一個螢幕顯示選單，由面板背面或底部的實體按鈕或操縱桿驅動。</p>
+
+<ul>
+<li>按 OSD/選單按鈕開啟顯示器的設定。</li>
+<li>尋找音訊或音量部分。</li>
+<li>降低那裡的電平——這是透過 HDMI/DP 實際工作的控制。</li>
+</ul>
+
+<p>有些顯示器還提供配套應用程式或 DDC/CI 支持，以便您可以從 macOS 驅動 OSD。使用 DDC 的第三方實用程式可以將 Mac 的音量鍵對應到顯示器的硬體音量，如果您討厭觸控面板按鈕，則值得嘗試。</p>
+
+<h2>修復 2：檢查音訊 MIDI 設定</h2>
+
+<p>打開 <strong>音訊 MIDI 設定</strong> （在/應用程式/實用程式中）。在設備清單中選擇您的顯示器。如果右側出現音量滑桿，請將其向下拖曳 - 有時即使功能表列鍵已停用，顯示幕也會顯示軟體可控制的等級。如果滑桿遺失或變灰，則表示顯示器確認它只接受固定等級的音​​頻，您應該返回 OSD。</p>
+
+<p>當您在這裡時，請確認選擇了正確的輸出設備。將音訊無聲地路由到您忘記已連接的顯示器是很常見的，這解釋了聲音突然響亮或消失的原因。</p>
+
+<h2>修復 3：將音訊路由到您可以實際控制的位置</h2>
+
+<p>如果你的顯示器的揚聲器無論如何都是平庸的（大多數都是）並且其音量控制很笨拙，最乾淨的解決方法是停止使用它們：</p>
+
+<ul>
+<li>將揚聲器或耳機插入顯示器的耳機輸出插孔（如果有）－類比輸出通常可以透過顯示器控制音量。</li>
+<li>使用 USB DAC、USB 揚聲器或 Bluetooth 輸出。 USB 和類比輸出為 macOS 提供完整的軟體音量控制，讓您的按鍵再次正常運作。</li>
+<li>選擇 Mac 的內建揚聲器以獲得快速聲音，並保留顯示器僅用於視訊。</li>
+</ul>
+
+<p>一旦您使用 macOS 實際上可以衰減的輸出，系統音量鍵就會起作用，您將重新獲得精細控制，而不是在顯示器的粗略 OSD 步驟之間跳轉。</p>
+
+<h2>輸出工作後，控制每個應用程式的音量</h2>
+
+<p>恢復可控制輸出可以解決「聲音太大/卡住」的問題。但macOS仍然只提供您所有內容的一個主磁碟區。 Mac 上沒有內建的每個應用程式混音器 - Windows 多年來一直有這樣的混音器，但 Apple 從未推出過類似產品。因此，大聲的視訊、遊戲和安靜的通話都共享同一個滑桿。</p>
+
+<p>這就是差距 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 填充。它是一個選單列混音器，為每個應用程式提供了自己獨立的音量，因此您可以在不觸摸音樂的情況下調低瀏覽器選項卡，立即將一個應用程式靜音，或者將安靜的應用程式提高到正常上限以上。您可以儲存不同設定的音量設定文件，並從功能表列快速切換輸出。</p>
+
+<p>明確範圍： <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 控制流經 macOS 的音訊的軟體音量。它無法覆蓋透過 HDMI 忽略系統音量的顯示器——這是顯示器的固定等級行為，只有 OSD 或不同的輸出才能修復它。一旦您獲得可控輸出，每個應用程式的控制就是應用程式的亮點。</p>
+
+<h2>快速清單</h2>
+
+<ul>
+<li>HDMI/DP 上的按鍵呈灰色？使用顯示器的 OSD 音量 — 這是預期的行為。</li>
+<li>檢查音訊 MIDI 設定中是否有隱藏的軟體滑桿。</li>
+<li>確認選擇了正確的輸出設備。</li>
+<li>如需真正控制，請將音訊路由至耳機輸出、USB 或 Bluetooth。</li>
+<li>然後使用每個應用程式混合器來平衡各個應用程式。</li>
+</ul>
+
+<p>一旦你的輸出得到控制，給出 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 一看。從 Mac App Store 一次性購買 14.99 歐元——無需訂閱、無需驅動程式、無需 DMG——它最終為 macOS 帶來了真正的每應用音量混合器。</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "USB DAC Mac 音量無法調整？恢復軟體音量控制",
+    description: "為什麼 macOS 使許多 USB DAC 的音量滑桿變灰，這意味著什麼，以及如何在不損害音訊品質的情況下在 Mac 上恢復工作軟體音量控制。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>如果您的 USB DAC 的音量滑桿在 Mac 上呈現灰色，通常不是錯誤。當DAC報告其沒有可控音量時，macOS會停用其軟體音量，希望您使用DAC自己的硬體旋鈕。若要恢復軟體音量，請使用應用程式級衰減器，例如 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Mac 上的音量無法調整？恢復軟體音量控制" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼 macOS 讓某些 USB DAC 的音量變灰</h2>
+
+<p>當您插入 USB 音訊裝置時，macOS 會詢問它可以透過 USB 音訊類別 (UAC) 協定執行哪些操作。此握手的一部分是一組「功能單元」控件，包括音量控件。如果 DAC 聲明了音量控制，則 macOS 將其連接到鍵盤音量鍵和選單列滑桿。如果 DAC 聲明它沒有主機可調整的音量，則 macOS 會將滑桿完全變灰。</p>
+
+<p>許多高品質的 DAC 和擴大機都故意採用後者。設計人員的假設是，您將為 DAC 提供全量程、位元完美的數位訊號，並使用裝置本身的類比音量旋鈕控制響度。模擬衰減發生在數位類比轉換之後，因此它可以避免丟棄比特，並且確實是發燒友的首選路徑。這是一個特點，而不是一個缺點。</p>
+
+<blockquote>經驗法則：如果您的 DAC 有實體音量旋鈕，並且 Mac 滑桿呈現灰色，則製造商希望您使用該旋鈕。訊號按設計以 100% 發送。</blockquote>
+
+<h2>當灰色滑桿實際上是一個問題時</h2>
+
+<p>「只需使用旋鈕」的答案在實際設定中會崩潰：</p>
+
+<ul>
+<li><strong>DAC 沒有旋鈕。</strong> 大量緊湊型 USB DAC、適配器和專業介面不提供音量控制，也不提供主機控制。無論下游擴大機或主動式揚聲器設定為何種級別，您都會陷入困境。</li>
+<li><strong>旋鈕夠不著。</strong> 顯示器後面的桌面 DAC 或為固定增益放大器供電的設備，意味著調整音量變成了一項體力活，而不是按鍵。</li>
+<li><strong>您需要每個應用程式的平衡，而不僅僅是大師級別。</strong> 即使是完美的硬體旋鈕也是單一的全域控制。它無法使 Zoom 通話比音樂更安靜，也無法在通知觸發時閃避遊戲。</li>
+</ul>
+
+<p>macOS 沒有修復這些問題，因為從作業系統的角度來看，設備運作正常。這是誠實的限制：它是設備報告的功能，並且系統設定中沒有切換來覆蓋它。</p>
+
+<h2>安裝任何東西之前誠實的解決方法</h2>
+
+<p>首先嘗試這些，因為它們不需要任何成本：</p>
+
+<ul>
+<li><strong>使用硬體旋鈕或下游音量。</strong> 如果您的 DAC 或主動式揚聲器/擴大機具有控制功能，那麼這是最乾淨的選項，並保留完整的數位解析度。</li>
+<li><strong>檢查DAC自帶的應用程式或韌體。</strong> 某些 DAC（以及面向遊戲的裝置）隨附控制面板或可啟用主機音量的韌體設定。如果存在「USB 磁碟區」或「軟體磁碟區」選項，將其開啟會使 macOS 滑桿再次運作。</li>
+<li><strong>嘗試不同的 USB 模式。</strong> 一些設備報告“類別相容”與專有驅動程式模式的功能不同。安裝或刪除供應商驅動程式可以變更 macOS 是否看到音量控制。</li>
+<li><strong>查看音訊 MIDI 設定。</strong> 開啟音訊 MIDI 設置，選擇設備，然後檢查主音量或每通道音量是否出現。有時，即使功能表列呈現灰色顯示，該面板中也會有一個滑桿可用。</li>
+</ul>
+
+<p>如果這些都不適用，則需要在 Mac 側進行軟體衰減。</p>
+
+<h2>軟體音量控制與每個應用程式衰減</h2>
+
+<p>當硬體不接受音量命令時，剩下的選項是在軟體中衰減音頻，然後再到達 DAC。這正是 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 確實如此。它位於您的選單列中，為每個正在運行的應用程式提供自己的獨立音量、靜音甚至增強，無論您的 DAC 是否公開硬體控制。</p>
+
+<p>要將其用於灰顯的 DAC：</p>
+
+<ul>
+<li>安裝 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 從 Mac App Store 並從功能表列打開它。</li>
+<li>保持您的 DAC 選擇為系統輸出；您還可以使用 SoundDial 的快速輸出切換在 DAC、揚聲器和耳機之間切換，而無需深入系統設定。</li>
+<li>設定每個應用程式的等級：放下瀏覽器，打開音樂播放器，將您不想要的任何內容靜音。每個應用程式都以您選擇的音量進行串流傳輸，混合結果將發送至 DAC。</li>
+<li>儲存不同場景（通話與聆聽）的音量設定文件，並在更重要的內容開始播放時自動閃避較低的背景應用程式。</li>
+</ul>
+
+<h2>音頻品質的誠實權衡</h2>
+
+<p>軟體衰減會降低轉換前的數位電平，因此理論上與 DAC 本身的類比音量相比，它會丟棄少量的解析度。實際上，在正常聆聽水平下的現代 24 位元和更高路徑上，衰減量遠低於任何可聽見的聲音，並且您可以保持 DAC 的完整動態範圍，以接近全音階播放任何內容。如果您是純粹主義者，並且手邊有一個好的模擬旋鈕，請使用該旋鈕。如果您沒有可用的硬體控制，或者您需要 macOS 根本無法提供的每個應用程式的平衡，那麼軟體音量是正確的權衡，並且它擊敗了不執行任何操作的滑桿。</p>
+
+<p>SoundDial 是一次性購買產品，售價 14.99 歐元，沙盒化，不含驅動程式、核心擴充或 DMG 安裝程式。如果您的 USB DAC 的音量顯示為灰色且無法使用旋鈕， <a href="https://apps.apple.com/app/id6772792641">在 Mac App Store 上取得 SoundDial</a> 並將工作音量控制放回功能表列。</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "限制 Mac 上一個大聲應用程式的最大音量（保護您的聽力）",
+    description: "macOS 沒有每個應用程式的音量上限，因此一個大聲的應用程式可以以整個系統音量讓您震驚。以下是如何使用每個應用程式混合器為 Mac 上的單一應用程式設定最大音量上限，以及為什麼硬體限制很重要。",
+    date: "2026-07-23",
+    readTime: "5 分鐘閱讀",
+    content: `<p>macOS 沒有內建方法來限制一個應用程式的最大音量，因此無論您的系統滑桿設定如何，大聲的程式都會播放。若要為單一應用程式設定上限，請使用功能表列每個應用程式混合器，例如 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>：將應用程式保持在 40%，同時系統音量對於其他所有內容都保持較高。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 限制 Mac 上一個大聲應用程式的最大音量（保護您的聽力）" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>為什麼一個應用程式可以突然讓你在 Mac 上爆炸</h2>
+
+<p>在 macOS 上，功能表列或控制中心中的音量滑桿是單一系統範圍的控制項。每個應用程式都會在同一層級注入相同的輸出。作業系統中沒有內建每個應用程式的音量混合器，而 Windows 的音量混合器面板多年來已經內建了每個應用程式的音量混合器。</p>
+
+<p>這種設計對您的耳朵有真正的影響。如果您將系統音量設置得較高，以便可以聽到安靜的播客或輕柔的視頻通話，然後切換到遊戲、Discord 通知、廣告較多的網站或音量大得多的視頻，則該應用程序也會在整個系統級別播放。結果就是經典的驚嚇：突然出現的音牆，其音量是您從未為該特定應用程式設計的。</p>
+
+<p>對於任何有耳鳴、聲音敏感或只重視聽力的人來說，不可預測性就是問題所在。你並不是想讓一切變得更安靜。您試圖保證某個特定的響亮應用程式永遠不會超過您確定的安全等級。</p>
+
+<h2>macOS 在這裡可以做什麼和不能做什麼</h2>
+
+<p>在推薦任何東西之前，讓我誠實地了解一下限制。</p>
+
+<ul>
+<li><strong>系統體積</strong> 立刻降低一切。將其調低以馴服一個應用程序，您的安靜應用程式將變得聽不見。</li>
+<li><strong>應用內音量滑桿</strong> 存在於某些應用程式（媒體播放器、每個選項卡的某些瀏覽器）中，但不是大多數。遊戲、視訊通話或本機應用程式通常根本沒有獨立的音量控制。</li>
+<li><strong>硬體天花板是真實存在的。</strong> 沒有軟體可以將訊號發出的聲音超過輸出裝置的最大音量。相反，應用程式自己的響度母帶，加上您的 DAC 和耳機，可以設定「100%」實際感覺的響度。軟體可以可靠地降低每個應用程式的級別，但它無法重寫耳機的物理原理。</li>
+</ul>
+
+<p>因此，誠實的目標不是在驅動器層級限製神奇的響度。這是一個實用、可靠的按應用程式衰減：將所選應用程式保持在系統輸出的固定部分，這樣它就不會令您感到驚訝。</p>
+
+<h2>如何使用每個應用程式混合器限制單一應用程式的音量</h2>
+
+<p>每個應用程式的音量混合器會攔截每個應用程式的音頻，並讓您獨立設定其等級。這是工作流程 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>，位於選單列：</p>
+
+<ul>
+<li><strong>打開攪拌機。</strong> 點選 SoundDial 選單列圖示。您將看到目前正在播放音訊的每個應用程式的列表，每個應用程式都有自己的滑桿。</li>
+<li><strong>找到響亮的應用程式。</strong> 找到您想要限制的應用程序，例如遊戲、瀏覽器或視訊會議工具。</li>
+<li><strong>設定其上限。</strong> 將該應用程式的滑桿向下拖曳到您的安全水平，例如 35% 到 50%。該應用程式現在只使用系統輸出的一小部分進行播放，而其他所有應用程式都保持原樣。</li>
+<li><strong>將系統磁碟區保留在您需要的位置。</strong> 保持系統滑塊足夠高，以適應安靜的應用程式。不管怎樣，受限制的應用程式仍然受到控制。</li>
+</ul>
+
+<p>由於該級別是針對每個應用程式的，因此您實際上是為該一個程式設定了最大值。即使當它嘗試播放其最大聲的內容時，其最大聲現在也是您選擇的全部內容的一部分。</p>
+
+<h2>用型材製作蓋子</h2>
+
+<p>一次手動調整會有所幫助，但當您退出並重新啟動時，應用程式等級可能會重設。若要進行重新啟動後仍能維持聽力安全的設置，請使用 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>的音量設定檔。保存您喜歡的每個應用程式層級的配置文件，例如“安靜的遊戲之夜”，遊戲為 40%，音樂應用程式為 70%，通話應用程式為 90%。每當您坐下時，只需單擊一下即可回憶起來。您的大聲應用程式的上限會完全按照您設定的那樣恢復。</p>
+
+<p>對於聽力保護，還有兩個值得了解的功能：</p>
+
+<ul>
+<li><strong>每個應用程式靜音</strong> 讓您可以立即讓單個罪犯保持沉默，而無需觸摸其他任何東西，這對於發送垃圾通知的應用程式很有用。</li>
+<li><strong>自動閃避</strong> 當更重要的事情開始時，會自動降低背景音頻，這樣您就不會同時陷入兩個大聲源之間。</li>
+</ul>
+
+<blockquote><p>軟體衰減對於限制應用程式確實有效，但它只是一層保護，而不是醫療保障。如果您有耳鳴或聲音敏感性，請將每個應用程式的上限與合理的整體聽力水平和休息時間配對。沒有任何應用程式可以取代謹慎的音量習慣。</p></blockquote>
+
+<h2>關於 boost 的說明以及為什麼它是獨立的</h2>
+
+<p>相同的每個應用程式混音器可以限制大聲的應用程序，也可以將太安靜的應用程式提高到 100% 以上，這對於本身音量控制得太低的應用程式來說非常方便。這是同一控制項的兩個方面：您決定每個應用程式的級別，向上或向下。為了保護聽力，您只需選擇“向下”方向並保持在那裡即可。</p>
+
+<h2>簡短版本</h2>
+
+<p>macOS 不會讓您自行限制單一應用程式的音量，這是真正的作業系統差距，而不是使用者錯誤。每個應用程式的選單列混合器將其關閉：將大聲的應用程式設定為固定分數，將其保存在設定檔中，並且當您的其他應用程式保持可聽狀態時，它永遠不會再次讓您感到震驚。</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store 是一次性購買，售價為 14.99 歐元，沙盒化，無需安裝驅動程式或 DMG。如果保護您的耳朵免受不可預測的應用程式的侵害是您的目標，那麼這是設定並保持該上限的最簡單方法。</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Mac 上每個應用程式的左/右平衡不同 - 這可能嗎？",
+    description: "您可以為macOS上的每個應用程式設定不同的左/右立體聲平衡嗎？老實說，不 - 本身不是，大多數工具也不是。以下是實際可能的情況以及真正的限制。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>老實說，不 - macOS 不允許您為每個應用程式設定不同的左/右立體聲平衡，而且幾乎沒有第三方工具公開真正的每個應用程式平移。您可以為輸出設備設定一個全域平衡，並且可以控制每個應用程式 <em>體積</em>，但每個應用程式獨立 <em>平底鍋</em> 不是 macOS 提供的功能。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 上每個應用程式的左/右平衡不同 — 有可能嗎？" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>平衡與音量——它們不是同一回事</h2>
+
+<p>有必要區分兩個經常被混淆的想法：</p>
+<ul>
+  <li><strong>體積</strong> — 應用程式的整體聲音有多大。這是應用於兩個通道的單一層級。</li>
+  <li><strong>天平（平底鍋）</strong> — 音訊如何在左右揚聲器之間分配。 「全左」平衡將所有內容傳送到左聲道並使右聲道靜音。</li>
+</ul>
+
+<p>要求「每個應用程式不同的平衡」的人通常想要以下兩件事之一：將一個應用程式的聲音推送到一隻耳朵（例如，左耳聽到電話，右耳聽到音樂），或者糾正一側的聽力差異或揚聲器不良 - 但僅限於某些應用程式。這些都是合法的目標。問題在於控制項所在的位置。</p>
+
+<h2>為什麼 macOS 本身不能做到這一點</h2>
+
+<p>macOS 只有一個平衡控制，它位於輸出設備層級。你會在下面找到它 <strong>系統設定→聲音→輸出</strong>，其中一個 <em>平衡</em> 滑桿將整個混音向左或向右移動。滑桿設定的任何內容都適用 <em>一切</em> 路由到該設備 - 每個應用程式、每個系統聲音，全部同時發送。</p>
+
+<p>標準 macOS 音訊堆疊中沒有 API 表示「將此應用程式的音訊渲染到左側，該應用程式的音訊渲染到右側」。應用程式將已混合的音訊傳遞給系統，系統在傳遞到揚聲器的過程中應用一個主平衡。因此，作業系統不會公開您想要按應用程式平移的層。這是一個真正的作業系統限制，不是選單列實用程式可以禮貌地解決的問題。</p>
+
+<blockquote>與每個應用程式不同 <em>體積</em> - macOS 本身也缺乏，但哪些應用程式可以透過點擊音訊串流來實現 - 每個應用程式 <em>平衡</em> 需要獨立地重新平移每個應用程式的流，並且該掛鉤不適用於沙盒應用程式。</blockquote>
+
+<h2>SoundDial 做什麼——老實說，它不做什麼</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> 為您提供每個應用程式控制 macOS 缺失：獨立 <strong>體積</strong> 對於每個正在運行的應用程序，每個應用程式 <strong>靜音</strong>，每個應用程式的體積 <strong>提升</strong> 100%以上，可保存容量 <strong>簡介</strong>、自動閃避以及從選單列快速切換輸出。</p>
+
+<p>跟你說實話： <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> 每個應用程式的控制 <em>響度和靜音</em>，不是每個應用程式立體聲 <em>平移</em>。它不會將 Safari 發送到您的左耳，將 Spotify 發送到您的右耳。如果有人告訴您選單列混音器在 macOS 上實現了真正的每個應用程式 L/R 平衡，請持懷疑態度 - 這不是作業系統提供的控制。 SoundDial 真正解決的是更常見的挫折感：一個應用程式相對於另一個應用程式來說太大聲或太安靜。</p>
+
+<h2>每個應用平衡的真正解決方法</h2>
+
+<p>如果您確實需要並排音訊分割，這裡有一些誠實的選擇，大致從最簡單到最複雜：</p>
+
+<ul>
+  <li><strong>全球平衡（所有應用程式）：</strong> 使用系統設定→聲音→輸出→平衡。這是您唯一的內建選項，它會影響每個應用程式。對於糾正房間或聽力不對稱很有用，但對於隔離一個應用程式毫無用處。</li>
+  <li><strong>獨立的輸出設備：</strong> 這是最接近真實的每個應用平衡的東西。將應用程式 A 路由到一個輸出設備，將應用程式 B 路由到另一台輸出設備，然後獨立設定每個設備的平衡。 macOS 可讓您在某些應用程式中選擇輸出裝置（瀏覽器/通訊應用程式通常會公開自己的輸出選擇器）。如果應用程式 A 指向向左平移的設備，而應用程式 B 指向向右平移的設備，則您可以有效地獲得每個應用程式的平衡 - 只要這兩個應用程式都允許您選擇其輸出。</li>
+  <li><strong>虛擬音訊路由工具：</strong> 在某些配置中，建立虛擬設備和內部混音器的實用程式可以將特定應用程式路由到特定通道。這很強大，但很繁瑣，添加了一個驅動程式風格的組件，對大多數人來說有點過分了。這是主播和音訊工程師的領域，而不是隨意的“一隻耳朵通話”修復。</li>
+  <li><strong>硬體分割：</strong> 如果涉及物理揚聲器或聽力差異，則硬體混音器或具有每通道控制的音訊介面可以完全迴避軟體問題。</li>
+</ul>
+
+<h2>當每個應用程式的數量確實滿足您的需求時</h2>
+
+<p>很多“我想要每個應用程式有不同的餘額”請求實際上是“一個應用程式淹沒了另一個應用程式”。如果目標是您可以在音樂中聽到視訊通話，或者是在 Discord 聊天旁邊太大聲的遊戲，那麼平衡不是工具，獨立音量才是。這正是每個應用程式混合器可以乾淨地處理的事情，無需虛擬驅動程式或路由體操。</p>
+
+<p>所以誠實的總結是：真正的每個應用程式左/右平衡不是 macOS 功能，並且沒有任何混合器應用程式能夠令人信服地偽造它。您的真實路線是全域平衡滑桿或每個應用程式輸出路由到單獨平移的裝置。但如果潛在的痛苦是相對響度，那麼問題就解決了。</p>
+
+<p>想要 Mac 上的每個應用程式都有獨立的音量、靜音和增強功能，並且具有可保存的配置文件且無需驅動程式？ <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">在 Mac App Store 上取得 SoundDial</a> — €14.99，一次性，沙盒。</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "為什麼 Mac 上有些應用程式的聲音比其他應用程式大得多？ （以及如何平衡他們）",
+    description: "Mac 上的應用程式聽起來截然不同，因為每個應用程式都掌握了自己的響度目標，而 macOS 沒有內建的每個應用程式音量控制。以下是發生這種情況的原因以及如何調整您的應用程式。",
+    date: "2026-07-23",
+    readTime: "6 分鐘閱讀",
+    content: `<p>您的 Mac 上的應用程式聽起來截然不同，因為每個應用程式都是根據自己的響度目標創作、掌握和標準化的，而 macOS 沒有內建的每個應用程式音量控制來協調它們。 Spotify、YouTube、Zoom 和系統警報都通過同一個主滑塊，因此您只能不斷地上下滑動。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 為什麼 Mac 上的某些應用程式比其他應用程式聲音大得多？ （以及如何平衡他們）" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>這不是你的 Mac — 這是音訊本身</h2>
+
+<p>macOS 上的單系統音量滑桿控制所有內容的最終輸出電平。它不會影響每個應用程式音訊串流中的相對響度。這個基線是在聲音到達揚聲器之前很久就設定的，並且不同來源的基線差異很大。</p>
+
+<p>三件事導致了這些差異：</p>
+
+<ul>
+<li><strong>掌握水平。</strong> 一首強而有力的流行歌曲比安靜的錄音或口語播客要熱得多。為電影院混音的電影故意保持低語聲和爆炸聲——這就是動態範圍，這意味著平均電平很低。</li>
+<li><strong>響度標準化目標。</strong> 串流平台將播放調整為以 LUFS（相對於滿刻度的響度單位）測量的目標。 Spotify 的目標約為 -14 LUFS，YouTube 的目標約為 -14 LUFS，Apple Music 的目標約為 -16 LUFS。視訊會議應用程式或遊戲完全應用自己的增益。兩個「標準化」到不同目標的應用程式永遠不會相互匹配。</li>
+<li><strong>沒有跨應用程式平整。</strong> 每個應用程式僅標準化其自己的內容。在瀏覽器遊戲中，沒有任何東西可以協調 Spotify 與 Zoom 的對抗。 macOS 只是將它們相加並將混音發送出去。</li>
+</ul>
+
+<h2>為什麼 LUFS 很重要（簡單來說）</h2>
+
+<p>峰值電平告訴您訊號中最大的單一瞬間。 LUFS 告訴您某件事實際上有多大 <em>感覺</em> 隨著時間的推移，根據人類聽力的工作原理進行加權。這種差異就是為什麼播客和舞曲可以達到相同的峰值，但在響度上卻感覺截然不同——曲目在接近上限的時間要長得多。</p>
+
+<blockquote>更安靜的 LUFS 目標意味著更多的動態餘裕和更大的動態範圍。響亮的目標意味著更一致、「始終充滿」的聲牆。兩者都沒有錯，但當應用程式針對不同的數字時，你會感覺到一個應用程式在尖叫，另一個應用程式在咕噥。</blockquote>
+
+<p>這就是誠實的根本原因。這不是一個可以修補的錯誤。這是音訊如何產生和傳遞的物理原理，在十幾個從未設計為彼此一致的應用程式中倍增。</p>
+
+<h2>間隙 macOS 保持開啟狀態</h2>
+
+<p>這是真正令人沮喪的部分：Windows 多年來一直為每個應用程式提供音量混合器。您可以直接從工作列向下拉一個應用程式並將另一個應用程式向上推。 macOS從來沒有包含過這個。聲音首選項僅提供主滑桿和輸出裝置選擇。</p>
+
+<p>因此，在 Mac 上，您的選擇傳統上是有限的：</p>
+
+<ul>
+<li>調整每個應用程式自己的內部音量滑桿 - 如果它有的話。許多應用程式（Zoom、大多數遊戲、系統鈴聲）不會公開可用的應用程式。</li>
+<li>每次切換上下文時手動控制主滑桿。</li>
+<li>完全靜音一件事，這是一個生硬的解決方案，實際上並不能平衡任何事情。</li>
+</ul>
+
+<p>這些都不記得您的偏好。退出並重新啟動應用程序，您將回到第一個方塊。</p>
+
+<h2>實際修復：每個應用程式記住的音量</h2>
+
+<p>由於您無法強制每個服務重新掌握其目錄，因此可行的解決方案是添加從未發布的缺失層 macOS：每個應用程式的獨立、記住的捲。正是如此 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 確實如此。它位於您的選單欄中，並為每個正在運行的應用程式提供了自己的滑桿，因此您可以將大聲的應用程式拉低並將安靜的應用程式向上推，直到它們處於您感覺均勻的水平。</p>
+
+<p>為了在實踐中平衡您的應用程式：</p>
+
+<ul>
+<li>打開 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 從功能表列中，您將看到每個活動的應用程式都有自己的控制項。</li>
+<li>將任何爆炸性的內容（通常是熱門音樂或視訊應用程式）調低至 60-70% 左右。</li>
+<li>將安靜的參考應用程式（通常是通話應用程式或播客）保持在 100%，並使用每個應用程式 <strong>提升</strong> 如果仍然太軟，請將其推至 100% 以上。</li>
+<li>設定級別一次。 SoundDial 會記住每個應用程式的音量，因此下次開啟它時餘額會保持不變。</li>
+</ul>
+
+<p>這裡有兩個功能完成了大部分的平整工作。 <strong>升壓</strong> 這很重要，因為許多應用程式即使在最大音量下也太安靜了——每個應用程式的滑桿只能降低音量無法挽救它們，但可以放大超過 100% 的應用程式可以。並且 <strong>體積分佈</strong> 讓您保存一整套級別 - 例如，工作時的“音樂焦點低，聲音大”配置文件與遊戲的不同組合 - 並立即在它們之間切換，而不是逐個應用程序重新調整。</p>
+
+<h2>這最有幫助的地方</h2>
+
+<p>最常見的緩解方法是音樂與會議的跳躍：串流音樂聲音很大，而相比之下，通話應用程式聽起來微弱。將通話應用程式調高（或增強），將音樂調低，驚人的音量波動就會消失。這同樣適用於安靜的瀏覽器遊戲對抗大聲的視訊播放器，或跳出所有內容的系統警報。</p>
+
+<p>要明確限制：SoundDial 平衡應用程式的輸出。它不會重新掌握製作不良的曲目，也無法在與非常寬的動態範圍混合的音訊中創造細節。它的作用是為您提供 macOS 所遺漏的一個控制項 - 穩定的、按應用程式保持不變的等級。</p>
+
+<p>厭倦了每次切換應用程式時都乘坐主滑桿？ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store 的一次性價格為 14.99 歐元——沙盒化，無驅動程序，無 DMG——它最終為每個應用程式提供了自己的記憶音量。</p>`,
   },
 };

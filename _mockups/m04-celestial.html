@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eduard Bruch — Independent Software Developer, Hamburg</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#07070a;
+    --raise:#0d0d11;
+    --fg:#f3f0ea;
+    --mut:#a8a49c;
+    --faint:#6f6b64;
+    --line:rgba(216,180,106,.12);
+    --line2:rgba(216,180,106,.24);
+    --hair:rgba(255,255,255,.07);
+    --gold:#d8b46a;
+    --gold-soft:rgba(216,180,106,.14);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg);color:var(--fg);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;overflow-x:hidden;
+    letter-spacing:-.011em;position:relative;line-height:1.5;
+  }
+  a{color:inherit;text-decoration:none}
+  .serif{font-family:'Fraunces',Georgia,serif;font-weight:400}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 32px}
+
+  /* ---- ambient light: warm halo + god-rays + grain ---- */
+  .halo{position:fixed;top:-460px;left:50%;transform:translateX(-50%);
+    width:1300px;height:1000px;z-index:0;pointer-events:none;
+    background:radial-gradient(closest-side,rgba(216,180,106,.20),rgba(216,180,106,.06) 42%,transparent 70%);
+    filter:blur(6px)}
+  .rays{position:fixed;top:-320px;left:50%;transform:translateX(-50%);
+    width:900px;height:900px;z-index:0;pointer-events:none;opacity:.5;
+    mix-blend-mode:screen;
+    background:
+      conic-gradient(from 200deg at 50% 30%,
+        transparent 0deg, rgba(216,180,106,.10) 8deg, transparent 16deg,
+        transparent 40deg, rgba(216,180,106,.07) 48deg, transparent 56deg,
+        transparent 78deg, rgba(216,180,106,.09) 86deg, transparent 94deg,
+        transparent 116deg, rgba(216,180,106,.06) 124deg, transparent 132deg,
+        transparent 300deg, rgba(216,180,106,.08) 308deg, transparent 316deg,
+        transparent 360deg);
+    -webkit-mask:radial-gradient(closest-side,#000 20%,transparent 78%);
+            mask:radial-gradient(closest-side,#000 20%,transparent 78%)}
+  body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.04;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+  .content{position:relative;z-index:1}
+
+  /* ---- nav ---- */
+  nav{position:fixed;top:0;left:0;right:0;z-index:50;
+    background:rgba(7,7,10,.62);backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--hair)}
+  nav .wrap{height:66px;display:flex;align-items:center;justify-content:space-between}
+  .brand{font-size:15px;font-weight:500;letter-spacing:-.02em;display:flex;align-items:center;gap:10px}
+  .brand .mark{width:9px;height:9px;border-radius:50%;
+    background:radial-gradient(circle at 35% 35%,#f2dca0,var(--gold));
+    box-shadow:0 0 12px 1px rgba(216,180,106,.55)}
+  .nl{display:flex;gap:4px;align-items:center}
+  .nl a{font-size:13.5px;color:var(--mut);padding:8px 13px;border-radius:9px;transition:.2s}
+  .nl a:hover{color:var(--fg);background:rgba(216,180,106,.07)}
+
+  /* ---- hero ---- */
+  .hero{padding:200px 0 110px;text-align:center;position:relative}
+  .eyebrow{font-size:12px;color:var(--gold);letter-spacing:.22em;text-transform:uppercase;
+    margin-bottom:34px;font-weight:500;
+    display:inline-flex;align-items:center;gap:12px}
+  .eyebrow::before,.eyebrow::after{content:"";width:26px;height:1px;background:var(--line2)}
+  h1{font-size:clamp(42px,7vw,82px);font-weight:400;line-height:1.02;letter-spacing:-.03em;
+    max-width:16ch;margin:0 auto}
+  h1 em{font-style:italic;color:var(--gold)}
+  h1 .fade{color:var(--faint)}
+  .lead{margin:32px auto 0;font-size:19px;color:var(--mut);max-width:56ch;line-height:1.65;letter-spacing:-.006em}
+  .actions{margin-top:40px;display:flex;gap:14px;align-items:center;justify-content:center;flex-wrap:wrap}
+  .btn{font-size:14px;font-weight:500;padding:12px 22px;border-radius:11px;transition:.22s;display:inline-flex;align-items:center;gap:8px}
+  .btn.solid{background:linear-gradient(180deg,#e6c987,var(--gold));color:#20180a;
+    box-shadow:0 8px 30px -8px rgba(216,180,106,.5)}
+  .btn.solid:hover{transform:translateY(-2px);box-shadow:0 14px 38px -10px rgba(216,180,106,.6)}
+  .btn.soft{color:var(--fg);border:1px solid var(--line2)}
+  .btn.soft:hover{background:rgba(216,180,106,.06);border-color:var(--gold)}
+  .facts{margin-top:64px;display:flex;gap:0;flex-wrap:wrap;justify-content:center;
+    color:var(--faint);font-size:13px;
+    border:1px solid var(--hair);border-radius:14px;overflow:hidden;max-width:760px;margin-left:auto;margin-right:auto}
+  .facts .f{flex:1;min-width:170px;padding:18px 22px;border-right:1px solid var(--hair);
+    display:flex;flex-direction:column;gap:5px;align-items:center}
+  .facts .f:last-child{border-right:none}
+  .facts b{color:var(--fg);font-weight:500;font-size:15px;letter-spacing:-.01em}
+  .facts span{letter-spacing:.02em}
+
+  /* ---- section header ---- */
+  section{padding:74px 0;position:relative}
+  .shead{display:flex;align-items:baseline;justify-content:space-between;margin:0 0 40px;gap:20px}
+  .shead .st{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:500}
+  .shead h2{font-size:clamp(28px,3.6vw,40px);font-weight:400;letter-spacing:-.028em;margin-top:12px}
+  .shead p{font-size:14px;color:var(--faint);max-width:34ch;text-align:right;line-height:1.6}
+
+  /* ---- apps grid ---- */
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  .app{background:var(--raise);border:1px solid var(--hair);border-radius:20px;overflow:hidden;
+    display:flex;flex-direction:column;transition:.3s;position:relative}
+  .app:hover{border-color:var(--line2);transform:translateY(-4px)}
+  .app:hover .shot img{transform:scale(1.035)}
+  .shot{aspect-ratio:16/11;overflow:hidden;background:#0a0a0d;position:relative;
+    border-bottom:1px solid var(--hair)}
+  .shot img{width:100%;height:100%;object-fit:cover;object-position:top center;transition:.5s cubic-bezier(.2,.7,.2,1)}
+  .shot::after{content:"";position:absolute;inset:0;
+    background:linear-gradient(180deg,transparent 55%,rgba(7,7,10,.35));pointer-events:none}
+  .meta{padding:20px 22px 22px;display:flex;flex-direction:column;gap:6px}
+  .meta .top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .meta h3{font-size:19px;font-weight:400;letter-spacing:-.02em;font-family:'Fraunces',serif}
+  .meta .plat{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);
+    border:1px solid var(--hair);padding:4px 9px;border-radius:20px;white-space:nowrap}
+  .meta .desc{font-size:13.5px;color:var(--mut);letter-spacing:-.005em}
+  .meta .go{margin-top:12px;font-size:12.5px;color:var(--gold);opacity:.85;
+    display:inline-flex;align-items:center;gap:6px;transition:.2s}
+  .app:hover .go{gap:10px;opacity:1}
+
+  /* coming-soon placeholder tile */
+  .app.soon .shot{aspect-ratio:16/11;display:flex;align-items:center;justify-content:center;
+    background:radial-gradient(circle at 50% 40%,rgba(216,180,106,.10),transparent 65%),#0a0a0d}
+  .app.soon .shot::after{display:none}
+  .soon-mark{display:flex;flex-direction:column;align-items:center;gap:16px;color:var(--faint)}
+  .soon-mark .ring{width:56px;height:56px;border-radius:50%;
+    border:1px solid var(--line2);display:flex;align-items:center;justify-content:center;
+    box-shadow:0 0 30px -6px rgba(216,180,106,.3) inset,0 0 24px -10px rgba(216,180,106,.4)}
+  .soon-mark .ring svg{width:26px;height:26px;stroke:var(--gold);fill:none;stroke-width:1.4}
+  .soon-mark span{font-size:11px;letter-spacing:.2em;text-transform:uppercase}
+
+  /* ---- guides ---- */
+  .guides{border-top:1px solid var(--hair)}
+  .glist{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:8px}
+  .guide{border:1px solid var(--hair);border-radius:16px;padding:26px 24px;transition:.25s;
+    display:flex;flex-direction:column;gap:8px;background:var(--raise)}
+  .guide:hover{border-color:var(--line2);background:rgba(216,180,106,.03)}
+  .guide h4{font-size:17px;font-weight:400;font-family:'Fraunces',serif;letter-spacing:-.01em}
+  .guide p{font-size:13px;color:var(--mut)}
+  .guide .link{margin-top:10px;font-size:12.5px;color:var(--gold);display:inline-flex;align-items:center;gap:6px;transition:.2s}
+  .guide:hover .link{gap:10px}
+  .guides-note{margin-top:26px;font-size:13px;color:var(--faint);text-align:center;letter-spacing:.01em}
+  .guides-note b{color:var(--mut);font-weight:500}
+
+  /* ---- footer ---- */
+  footer{border-top:1px solid var(--hair);padding:52px 0 60px;margin-top:20px}
+  .foot{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
+  .fl{display:flex;gap:24px;flex-wrap:wrap}
+  .fl a{font-size:13.5px;color:var(--mut);transition:.2s}
+  .fl a:hover{color:var(--gold)}
+  .fc{font-size:13px;color:var(--faint);letter-spacing:.01em}
+
+  /* ---- responsive ---- */
+  @media(max-width:860px){
+    .grid,.glist{grid-template-columns:repeat(2,1fr)}
+    .shead p{display:none}
+  }
+  @media(max-width:560px){
+    .wrap{padding:0 22px}
+    .nl a:not(.contact){display:none}
+    .hero{padding:150px 0 80px}
+    .grid,.glist{grid-template-columns:1fr}
+    .facts .f{min-width:50%;border-right:none;border-bottom:1px solid var(--hair)}
+    .facts .f:nth-child(3),.facts .f:nth-child(4){border-bottom:none}
+    .foot{flex-direction:column;align-items:flex-start;gap:20px}
+  }
+</style>
+</head>
+<body>
+  <div class="halo"></div>
+  <div class="rays"></div>
+
+  <div class="content">
+    <nav>
+      <div class="wrap">
+        <div class="brand"><span class="mark"></span>Eduard Bruch</div>
+        <div class="nl">
+          <a href="#apps">Apps</a>
+          <a href="#guides">Guides</a>
+          <a class="contact" href="/support">Support</a>
+        </div>
+      </div>
+    </nav>
+
+    <header class="hero">
+      <div class="wrap">
+        <div class="eyebrow">Independent Developer · Hamburg</div>
+        <h1 class="serif">Native apps for <em>iOS</em> &amp; <em>macOS</em> — <span class="fade">small, fast, quietly private.</span></h1>
+        <p class="lead">I design and build focused software on my own — no trackers, no bloat, no accounts you don't need. Six apps shipped and in daily use around the world.</p>
+        <div class="actions">
+          <a class="btn solid" href="#apps">View the apps</a>
+          <a class="btn soft" href="#guides">Read the guides</a>
+        </div>
+        <div class="facts">
+          <div class="f"><b>6</b><span>apps shipped</span></div>
+          <div class="f"><b>120+</b><span>guides written</span></div>
+          <div class="f"><b>30+</b><span>languages</span></div>
+          <div class="f"><b>iOS / macOS</b><span>fully native</span></div>
+        </div>
+      </div>
+    </header>
+
+    <section id="apps">
+      <div class="wrap">
+        <div class="shead">
+          <div>
+            <div class="st">The Work</div>
+            <h2 class="serif">Six apps, made with care.</h2>
+          </div>
+          <p>Each one solves a single problem well — built native, kept lean.</p>
+        </div>
+
+        <div class="grid">
+          <!-- SoundDial -->
+          <a class="app" href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">
+            <div class="shot"><img src="../public/apps/sounddial.png" alt="SoundDial" loading="lazy"></div>
+            <div class="meta">
+              <div class="top"><h3>SoundDial</h3><span class="plat">macOS</span></div>
+              <div class="desc">Per-App Volume Mixer</div>
+              <span class="go">Mac App Store →</span>
+            </div>
+          </a>
+
+          <!-- Pulse -->
+          <a class="app" href="https://apps.apple.com/app/id6761375793" target="_blank" rel="noopener">
+            <div class="shot"><img src="../public/apps/pulse.png" alt="Pulse" loading="lazy"></div>
+            <div class="meta">
+              <div class="top"><h3>Pulse</h3><span class="plat">macOS</span></div>
+              <div class="desc">System Monitor</div>
+              <span class="go">Mac App Store →</span>
+            </div>
+          </a>
+
+          <!-- Stash -->
+          <a class="app" href="https://apps.apple.com/app/id6759873487" target="_blank" rel="noopener">
+            <div class="shot"><img src="../public/apps/stash-v2.png" alt="Stash" loading="lazy"></div>
+            <div class="meta">
+              <div class="top"><h3>Stash</h3><span class="plat">iOS</span></div>
+              <div class="desc">Secret File Vault</div>
+              <span class="go">App Store →</span>
+            </div>
+          </a>
+
+          <!-- Double Calculator -->
+          <a class="app" href="https://apps.apple.com/app/id6760940001" target="_blank" rel="noopener">
+            <div class="shot"><img src="../public/apps/double-calculator.png" alt="Double Calculator" loading="lazy"></div>
+            <div class="meta">
+              <div class="top"><h3>Double Calculator</h3><span class="plat">iOS</span></div>
+              <div class="desc">Tax &amp; VAT</div>
+              <span class="go">App Store →</span>
+            </div>
+          </a>
+
+          <!-- Fisheye -->
+          <a class="app" href="https://apps.apple.com/app/id6760895260" target="_blank" rel="noopener">
+            <div class="shot"><img src="../public/apps/fisheye.png" alt="Fisheye" loading="lazy"></div>
+            <div class="meta">
+              <div class="top"><h3>Fisheye</h3><span class="plat">iOS</span></div>
+              <div class="desc">WideEye Camera</div>
+              <span class="go">App Store →</span>
+            </div>
+          </a>
+
+          <!-- Warden — coming soon -->
+          <a class="app soon" href="/warden/privacy">
+            <div class="shot">
+              <div class="soon-mark">
+                <div class="ring">
+                  <svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.4-3 8-7 10-4-2-7-5.6-7-10V6l7-3z"/></svg>
+                </div>
+                <span>Coming Soon</span>
+              </div>
+            </div>
+            <div class="meta">
+              <div class="top"><h3>Warden</h3><span class="plat">iOS · Android</span></div>
+              <div class="desc">Family Location &amp; Safety</div>
+              <span class="go">Privacy &amp; details →</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="guides" class="guides">
+      <div class="wrap">
+        <div class="shead">
+          <div>
+            <div class="st">Guides</div>
+            <h2 class="serif">Written to actually help.</h2>
+          </div>
+          <p>Practical, in-depth guides that back each app — indexed in 30+ languages.</p>
+        </div>
+
+        <div class="glist">
+          <a class="guide" href="/pulse/blog">
+            <h4>Pulse Guides</h4>
+            <p>Understand CPU, memory, network and battery on your Mac — without the jargon.</p>
+            <span class="link">Read guides →</span>
+          </a>
+          <a class="guide" href="/sounddial/blog">
+            <h4>SoundDial Guides</h4>
+            <p>Per-app audio, ducking and output routing on macOS, explained step by step.</p>
+            <span class="link">Read guides →</span>
+          </a>
+          <a class="guide" href="/vault/blog">
+            <h4>Stash Guides</h4>
+            <p>Keeping private files private — vault security, backups and best practices.</p>
+            <span class="link">Read guides →</span>
+          </a>
+        </div>
+
+        <p class="guides-note"><b>120+ articles</b>, indexed and translated across <b>30+ languages</b> — so answers show up in your language, first.</p>
+      </div>
+    </section>
+
+    <footer>
+      <div class="wrap foot">
+        <div class="fl">
+          <a href="/impressum">Impressum</a>
+          <a href="/datenschutz">Datenschutz</a>
+          <a href="/support">Support</a>
+        </div>
+        <div class="fc">© 2026 Eduard Bruch · Hamburg</div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

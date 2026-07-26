@@ -9,6 +9,8 @@ export const t = {
     pulseApp: { en: "Pulse App", de: "Pulse App" },
     stashVault: { en: "Stash Vault", de: "Stash Vault" },
     soundDial: { en: "SoundDial", de: "SoundDial" },
+    wardenPrivacy: { en: "Warden Privacy", de: "Warden Datenschutz" },
+    wardenData: { en: "Warden Data", de: "Warden Daten" },
     contact: { en: "Contact", de: "Kontakt" },
   },
   home: {

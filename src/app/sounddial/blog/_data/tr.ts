@@ -40,7 +40,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Her uygulamayı bağımsız olarak kontrol ederek temiz bir kayıt ortamı oluşturmanızı sağlar:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podcast kurulumu — bağımsız düzeyde misafir sesi, izleme ve bildirimler" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podcast kurulumu — bağımsız düzeyde misafir sesi, izleme ve bildirimler" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Kayıt profili</h3>
 <ul>
@@ -98,7 +98,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> her uygulamaya kendi ses kaydırıcısı verir <strong>%1 artışlar</strong> %0'tan %200'e. Bu, uygulama başına 200 hassasiyet seviyesi demek, macOS'nin sistem genelinde 16 (veya modifikatörü ile 64) adımına karşılık.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial uygulama başına ince tanenli ses kontrolü ve %1 hassasiyetle macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial uygulama başına ince tanenli ses kontrolü ve %1 hassasiyetle macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Sistem sesinizi orta seviyeye (%50-60) ayarlayın, ardından her uygulamayı ince ayar etmek için SoundDial kullanın:</p>
 <ul>
@@ -149,7 +149,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Slack'e diğer tüm uygulamalardan ayrı kendi ses kaydırıcısı veriyor. Slack'in huddle sesi ve bildirim sesleri aynı uygulamanın parçası olduğundan, sürgü her ikisini de kontrol ediyor — ama aslında çoğu zaman istediğiniz şey bu.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial bir grup sırasında müzik farklı bir seviyede çalarken Slack sesini bağımsız olarak kontrol etmek" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial bir grup sırasında müzik farklı bir seviyede çalarken Slack sesini bağımsız olarak kontrol etmek" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Huddle için optimize edilmiş kurulum</h3>
 <ul>
@@ -198,7 +198,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> şu özelliği sunar: <strong>Yapılandırılabilir varsayılan ses seviyesi</strong> Yeni uygulamalar için. Ayarlarda, yeni tespit edilen uygulamaların hangi ses seviyesinde başlaması gerektiğini ayarlıyorsunuz — örneğin, %70. Herhangi bir uygulama ilk kez başlatıldığında ve ses ürettiğinde, SoundDial bunu %70'e ayarlıyor, %100 değil.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial varsayılan ses seviyesi — yeni uygulamalar tam seviye yerine yapılandırılmış seviyede başlar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial varsayılan ses seviyesi — yeni uygulamalar tam seviye yerine yapılandırılmış seviyede başlar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu şu anlam taşıyor:</p>
 <ul>
@@ -253,7 +253,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Mac üzerindeki her uygulamaya kendi ses kaydırıcısı verir. Bildirim uygulamalarını düşük seviyede, müziği rahat bir seviyede ve aramaları tam sesle ayarlayın — hepsi bağımsız olarak. Konfigürasyonları profil olarak kaydedip tek tıklamayla değiştir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — tüm Mac ses kaynaklarını bağımsız yönetmek için uygulama başına ses kontrolü" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — tüm Mac ses kaynaklarını bağımsız yönetmek için uygulama başına ses kontrolü" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial Mac App Store'dan alın</a> — 14,99 € tek seferlik alım, aboneliksiz, macOS 14,2+</p>
 `,
@@ -304,7 +304,7 @@ export const trArticles: ArticleSet = {
 
 <p>Ayarlar maksimuma çıkarılmış ve katılımcılar hâlâ çok sessizse, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Webex'i yükseltmeye izin verir <strong>200%</strong>. Bu, çağrı sesini Webex'in yerleşik maksimumunun ötesine çıkarır — bir katılımcının kötü mikrofonu olduğunda veya Webex'in ses işlemesi sinyali çok azalttığında faydalıdır.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Cisco Webex çağrı hacmini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Cisco Webex çağrı hacmini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial arka arkaya Webex toplantılarında da yardımcı olur: her toplantı başladığında otomatik olarak arka plan müziğinizi düşürmek için otomatik eğilme kullanın ve molalar sırasında geri kazanın. Bir "Toplantılar" ses profilini kaydederek iş günü için tercih ettiğiniz ses dengesini anında ayarlayın.</p>
 
@@ -347,7 +347,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Tüm uygulamaları bağımsız ses kaydırıcılarıyla tek bir menü paneline yerleştirir. Her iki ses kaynağı yan yana, her birinin kendi seviyesi var. Birini diğerine dokunmadan ayarlayın.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial farklı ses seviyelerinde iki ses kaynağını gösteriyor macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial farklı ses seviyelerinde iki ses kaynağını gösteriyor macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Örnek kurulumlar:</p>
 
@@ -411,7 +411,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Mükemmel bir gece geç saatte kurulum yaratmanızı sağlar:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial gece film kurulumu — orta seste yayın uygulaması, bildirimler sessiz" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial gece film kurulumu — orta seste yayın uygulaması, bildirimler sessiz" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Gece geç saatlerde film profili</h3>
 <ul>
@@ -473,7 +473,7 @@ export const trArticles: ArticleSet = {
 
 <p>Sistem sesi uykudan sonra sıfırlansa bile, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Sizin <em>Uygulama başına</em> hacim dengesi. Kendi <strong>Hacim belleği</strong> Özellik, her uygulamanın hacmini bağımsız olarak kaydeder ve uyandırma, yeniden başlatma veya uygulama yeniden başlatma sonrası geri getirir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Mac uyku ve uyanık döngülerinden sonra uygulama başına hacim seviyelerini korumak" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Mac uyku ve uyanık döngülerinden sonra uygulama başına hacim seviyelerini korumak" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Yani macOS uykudan sonra sistem sesini %80'e sıfırlasa bile, uygulama başına bakiyeniz korunur:</p>
 <ul>
@@ -518,7 +518,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Her uygulama için bağımsız olarak tam hacimleri ayarlamanızı sağlar:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Discord'dan DAW çıkışını ve macOS'daki referans parçaları müzik prodüksiyonu için ayırmak" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Discord'dan DAW çıkışını ve macOS'daki referans parçaları müzik prodüksiyonu için ayırmak" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Üretim kurulumu</h3>
 <ul>
@@ -586,7 +586,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Apple Music'i yükseltmenizi sağlıyor <strong>200%</strong>. Ses sinyali, hoparlörlerinize veya kulaklıklarınıza ulaşmadan önce sistem seviyesinde güçlendirilir. Sadece Apple Music daha yüksek sesle yükseliyor — Zoom, Slack ve tarayıcınız mevcut seviyelerinde kalıyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Apple Music'in sesini %100'ün üzerine çıkarıyor macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Apple Music'in sesini %100'ün üzerine çıkarıyor macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu durum tam tersi için de faydalı: Apple Music Zoom çağrınıza göre çok yüksekse, Apple Music'i SoundDial içinde %25'e düşürüp Zoom'u %100'de tutun. Uygulama başına kontrol, bir uygulamanın sesini diğerinin sesine ödün vermek zorunda kalmamanız anlamına gelir.</p>
 
@@ -666,7 +666,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Maliyeti €14,99 — bir kerelik, abonelik değil. Bağlam için, bu Spotify aboneliğinin iki aydan az bir süresi, yani her gün kullanacağınız bir araç için. SoundSource'un (39 dolar) yarısından daha ucuz ve SoundSource'da olmayan özellikler (profiller, otomatik eğilme) içeriyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — profil, otomatik alçlama ve %200 boost ile Mac için güvenilir uygulama başına ses mikseri" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — profil, otomatik alçlama ve %200 boost ile Mac için güvenilir uygulama başına ses mikseri" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Mevcut <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — Apple tarafından incelendi, sandbox'ta kullanıldı, sistem sürücüsü yok. €14.99 tek seferlik, aboneliksiz, macOS 14.2+ fiyat.</p>
 `,
@@ -700,7 +700,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Spotify ve Discord'u bağımsız ses kaydırıcılarıyla aynı panele getiriyor. İstediğiniz oranı ayarlayın ve bırakın:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Spotify ve Discord'u farklı ses seviyelerinde dengelemek macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Spotify ve Discord'u farklı ses seviyelerinde dengelemek macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Müzik + sesli sohbet için altın oran</h3>
 <p>Çoğu insanın bunu nasıl kullandığına göre:</p>
@@ -805,7 +805,7 @@ export const trArticles: ArticleSet = {
 
 <p>Bunların beşi de şu şekilde mevcuttur <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — Apple'ın hiç üretmediği ses mikserini ekleyen yerel macOS menü çubuğu uygulaması.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — uygulama başına ses kontrolü, profiller, otomatik eğilme ve %200 artış macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — uygulama başına ses kontrolü, profiller, otomatik eğilme ve %200 artış macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Bölüm 6: Uygulama başına hacim SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const trArticles: ArticleSet = {
 
 <p>Bu aşırı güçlendirme ve bazı içeriklerde bozulma yaratabilir, ancak son derece sessiz kaynak materyal için ihtiyacınız olan şey olabilir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial sessiz video dosyaları için macOS sistem seviyesinde VLC sesini artırmak" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial sessiz video dosyaları için macOS sistem seviyesinde VLC sesini artırmak" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Daha da önemlisi, SoundDial VLC'yi güçlendirmenize izin veriyor <strong>Bağımsız olarak</strong>. Müzik çalarınız, tarayıcınız ve iletişim uygulamalarınız normal seviyelerde kalırken, sadece VLC daha yüksek sesle konuşuyor. VLC'yi SoundDial'de %180'e çıkarırsan, Spotify değişmez. VLC'nin dahili boost özelliği bunu yapamaz — VLC'nin boost sadece VLC'yi etkiler, ancak macOS'nin tek sistem sesi yine de her şeyi birbirine bağlıyor.</p>
 
@@ -924,7 +924,7 @@ export const trArticles: ArticleSet = {
   <li><strong>Kolay geçiş:</strong> SoundDial ayarlarında otomatik eğiltme özelliğini açıp kapatın. İstemediğinizde devre dışı bırakın. Geri istediğinizde etkinleştirin.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial ayarlanabilir otomatik eğiltme — aramalar sırasında arka plan sesinin ne kadar azaldığını tam olarak kontrol edin" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ayarlanabilir otomatik eğiltme — aramalar sırasında arka plan sesinin ne kadar azaldığını tam olarak kontrol edin" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Fark şu: Bir uygulama her arama sırasında müziğinizin sıfıra düşmesi gerektiğini karar vermek yerine, siz %25'e düştüğünüzü seçiyorsunuz. Kontrolü kaybetmek yerine, onu kazanıyorsun. Ve üç farklı uygulamada gizli bir özelliği devre dışı bırakmaya çalışmak yerine, tek bir yerde bir anahtar var.</p>
 
@@ -987,7 +987,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> herhangi bir uygulamanın sesini şu ana kadar artırır <strong>200%</strong>. Bluetooth kulaklığınızdan Spotify çok sessizse, kaydırıcıyı %160'a sürükleyin. Ses sinyali, kulaklıklarınıza ulaşmadan önce güçlendirilir ve bu da uygulamanın mevcut sesini iki katına çıkarır.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial uygulama başına kaydırmalarla Bluetooth kulaklıklar için uygulama sesini %200'e çıkarmak Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial uygulama başına kaydırmalarla Bluetooth kulaklıklar için uygulama sesini %200'e çıkarmak Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Uygulama başına yükseltme, sistem çapında ses yükseltmesinden daha iyidir çünkü sadece sessiz uygulamayı güçlendirebilirsiniz. Podcastiniz sessiz ama müzik iyiyse, podcast uygulamasını %170'e çıkarırken Spotify'ı %80'te tutun. Her uygulama doğru seviyede kalıyor.</p>
 
@@ -1024,7 +1024,7 @@ export const trArticles: ArticleSet = {
 
 <p>İşte tam olarak <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Öyle. Her uygulamayı izleyicilerinizin duymasını istediğiniz seviyeye ayarlayın:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial OBS üzerinden yayın yapmak için oyun, Discord ve müzik ses seviyelerini dengelemek Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial OBS üzerinden yayın yapmak için oyun, Discord ve müzik ses seviyelerini dengelemek Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tipik akış ses sistemi</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> şu özelliği sunar: <strong>Hacim Belleği</strong> özellik. Etkinleştirildiğinde, her uygulamanın ses seviyesini bundle tanımlayıcısına göre kaydeder. Uygulama kapanıp yeniden başlatıldığında — ister yeniden başlatsanız çöksün ister Mac yeniden başlatsanız — SoundDial otomatik olarak kaydedilen hacme geri döner.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ses belleği — uygulama başına ses seviyelerini otomatik olarak hatırlar ve geri getirir macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ses belleği — uygulama başına ses seviyelerini otomatik olarak hatırlar ve geri getirir macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Nasıl çalışır</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const trArticles: ArticleSet = {
 
 <p>Evrensel çözüm, podcast uygulamanızı macOS'ın %100 sınırının ötesine genişletmektir. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> her uygulamaya bir ses kaydırıcısı veriyor <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial sessiz podcast bölümleri için Mac Apple Podcasts sesini %180'e çıkarıyor" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial sessiz podcast bölümleri için Mac Apple Podcasts sesini %180'e çıkarıyor" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Apple Podcasts veya podcast uygulamanızı %160-180 olarak ayarlayın, Spotify müziğini %40, Slack'i %15'te tutun. Podcast, diğer her şeyi acı verici derecede yüksek yapmadan daha yüksek sesle konuşuyor. Müziğe geri döndüğünüzde, podcast uygulamasını normale geri bırakın — ya da SoundDial'ın ses hafızasının otomatik olarak hatırlamasına izin verin.</p>
 
@@ -1189,7 +1189,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Her uygulamaya kendi ses kaydırıcısı veriyor, böylece ideal çalışma sesi kurulumunu oluşturabilirsiniz:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial öğrenci kurulumu — ders tam sesle, müzik çalışması alçak, bildirimler sessiz" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial öğrenci kurulumu — ders tam sesle, müzik çalışması alçak, bildirimler sessiz" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Ders profili</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const trArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>macOS güncelleme yaptın. Her şey yolundaydı — ta ki ses olmadığını fark edene kadar. Ya da ses çatırdıyor. Ya da ses takılıyor. Ya da ses çıkış cihazınız kaybolmuş olabilir. Güncelleme sonrası ses sorunları neredeyse her macOS sürümünde oluyor ve bunlar hafif sinir bozucudan tamamen sessizliğe kadar değişiyor.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>İşte macOS güncellemesinden sonra Mac sesi düzeltmek için sistematik bir rehber, bilinen tüm sorunları ve çözümleri kapsayan.</p>
 
@@ -1335,7 +1338,7 @@ export const trArticles: ArticleSet = {
   <li>Spotify %30'a, Zoom'u %100'e, Slack %15'e geri getirdi — mükemmel şekilde restore edildi</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial sessiz kısayolu — Kontrol + Seçenek+M ile tüm uygulamaları ses geri yükleme ile susturup kaldırın" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial sessiz kısayolu — Kontrol + Seçenek+M ile tüm uygulamaları ses geri yükleme ile susturup kaldırın" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Sistem susturma anahtarından farkı:</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Chrome'a kendi ses kaydırıcısını verir ve bu kaydırıcı <strong>200%</strong>. Google Meet, Chrome içinde çalıştığı için, Chrome'u yükseltmek Meet'i güçlendiriyor. Kaydırıcıyı %150 veya %180'e sürüklerseniz, çağrı sesi gerçek zamanlı olarak güçlendirilir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Google Meet (Chrome) sesini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Google Meet (Chrome) sesini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu, Safari'de Meet kullanıyorsanız Safari'de de çalışır. SoundDial her tarayıcıyı bağımsız olarak kontrol ediyor — Safari'yi Meet için güçlendirirken diğer her şey için Chrome'u normal ses seviyesinde tutuyor.</p>
 
@@ -1450,7 +1453,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Her uygulamaya kendi ses kaydırıcısı veriyor. Bildirim ağırlıklı uygulamaları belirgin ama rahatsız edici olmayan ince bir seviyeye ayarlayabilir, aynı zamanda medya uygulamalarını rahat bir dinleme seviyesinde tutabilirsiniz.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial bildirim uygulaması sesini medya uygulaması seminden ayırmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial bildirim uygulaması sesini medya uygulaması seminden ayırmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Örnek kurulum</h3>
 <p><strong>Medya uygulamaları:</strong></p>
@@ -1523,7 +1526,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> FaceTime'ın sesini yükseltmenizi sağlıyor <strong>200%</strong>. Menü çubuğu panelini açın, FaceTime'ı bulun ve kaydırıcıyı %100'ün üzerine sürükleyin. Çağrı sesi gerçek zamanlı olarak güçlendirilir ve diğer hiçbir uygulamayı etkilemez.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial FaceTime çağrı hacmini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial FaceTime çağrı hacmini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial tersi de yardımcı olur: Eğer FaceTime'ın zil sesi veya bildirim sesleri odak zamanında çok yüksekse, FaceTime'ı %20'ye düşürün veya müziğinizi çalmaya devam ederken sesinizi kapatın. Bir tıklama ile sessizleştiriyor, bir tıkla sessizliği açıyor.</p>
 
@@ -1577,7 +1580,7 @@ export const trArticles: ArticleSet = {
 <h3>Tüm uygulamaları sessiz et: Control + Option + M</h3>
 <p>Basın <strong>⌃⌥M</strong> her uygulamanın sesini anında sessize almayı sağlıyor. Her şeyi açmak için tekrar basın ve her uygulamayı önceki hase geri getirin. Bu, sessizleştirme tuşuna ulaşmaktan daha hızlı olan bir "anında sessizlik" düğmesidir — ve sistem sessiz tuşunun aksine, sessizliği kaldırdığınızda uygulama başına ses seviyelerini geri kazanır.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial klavye kısayolları — Control+Option+S ile geçiş, Control+Option+M ile tüm sesleri kapat" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial klavye kısayolları — Control+Option+S ile geçiş, Control+Option+M ile tüm sesleri kapat" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Klavye odaklı iş akışı</h2>
 
@@ -1642,7 +1645,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> modern Audio Tap API'sini kullanır — sanal ses cihazı yok, sistem sürücüsü yok, çekirdek uzantısı yok. Apple'ın desteklenen API'si aracılığıyla her uygulamanın ses akışına doğrudan bağlanıyor, yani macOS güncelleme yapıldığında bozulmaz.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — sanal ses cihazları yüklemeyen bir Arka Müzik'e alternatif" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — sanal ses cihazları yüklemeyen bir Arka Müzik'e alternatif" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Arka Plan Müziği üzerinden ne alırsınız:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const trArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — ses profilleri ve otomatik eğilme özellikleriyle daha hafif, odaklanmış bir SoundSource alternatifi" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ses profilleri ve otomatik eğilme özellikleriyle daha hafif, odaklanmış bir SoundSource alternatifi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Hangisini seçmelisiniz?</h2>
 
@@ -1809,7 +1812,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Uygulama başına ses kaydırıcıları ve ince taneli kontrol sağlar — her kaydırıcı %0'dan %200'e %1 artışla hareket eder. Spotify'ı aynı anda %5'e, Zoom'u %40'a ayarlayabilirsiniz. Kontrol seviyesi macOS'nin 16 sistem adımından çok daha ince.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial uygulama başına ince tanenli ses kontrolü ve %1 artışlarla macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial uygulama başına ince tanenli ses kontrolü ve %1 artışlarla macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Gece geç saatlerde kulaklık kullanımı için:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const trArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>Bir AirPod iyi ses çıkarıyor. Diğeri belirgin şekilde daha sessiz. Müzik merkezden sapmış gibi hissettiriyor. Sesler bir taraftan geliyormuş gibi geliyor. Bu, AirPods şikayetlerinin en yaygın örneklerinden biridir ve genellikle basit bir çözümü vardır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. AirPods'larınızı temizleyin</h2>
 
@@ -1948,7 +1954,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Herhangi bir uygulamayı yükseltmeye izin verir <strong>200%</strong>. Safari veya Netflix uygulaması çok sessizse, kaydırıcıyı %100'ün üzerine çekin. Ses, hoparlörlerinize ulaşmadan önce güçlendirilir ve bu da sadece o uygulama için maksimum sesi iki katına çıkarır.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial daha net diyalog ve akış sesi için Netflix sesini %180'e yükseltmek Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial daha net diyalog ve akış sesi için Netflix sesini %180'e yükseltmek Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu özellikle şu durumlarda faydalıdır:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Bu boşluğu her uygulamaya kendi ses kaydırıcısı vererek dolduruyor. Uzaktan çalışma sesinizi tam istediğiniz şekilde ayarlayın:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial uzaktan çalışma ses kurulumu — Zoom, Spotify ve Slack için farklı ses seviyeleri macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial uzaktan çalışma ses kurulumu — Zoom, Spotify ve Slack için farklı ses seviyeleri macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Her mod için profilleri kaydet</h3>
 
@@ -2126,7 +2132,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> tarayıcınıza diğer tüm uygulamalardan bağımsız olarak kendi ses kaydırıcısını verir. Safari'yi %30'a düşürürken Zoom'u %100'de tutarak. Chrome'u tamamen sessiz bırakın ve Spotify oynatmaya devam edin. Bir tık.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tarayıcı hacmasını diğer uygulamalardan bağımsız olarak kontrol macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tarayıcı hacmasını diğer uygulamalardan bağımsız olarak kontrol macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu, sürpriz otomatik oynatma sekmesini yönetmenin en hızlı yoludur: hangi sekmenin ses çıkardığını aramak yerine, menü çubuğunda SoundDial'e tıklayıp tarayıcıyı sessiz bırakın. Diğer her şey çalmaya devam ediyor. Sorunlu sekmeyi bulup kapattığınızda, tarayıcıyı sessizliği kaldırın ve ses seviyesi eski haline döner.</p>
 
@@ -2168,7 +2174,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Discord'a menü çubuğunda kendi ses kaydırıcısını verir, diğer tüm uygulamalardan bağımsız. Discord'u tam istediğiniz seviyeye ayarlayın — %100 net sesli sohbet için, %40 ince arka plan için veya tamamen sessiz — oyuna, müziğe veya başka hiçbir şeye dokunmadan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Discord'un sesini oyundan ve müzikten bağımsız olarak kontrol macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Discord'un sesini oyundan ve müzikten bağımsız olarak kontrol macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Yaygın kurulumlar</h3>
 
@@ -2244,7 +2250,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> menü çubuğu açılır menüsünde bir çıkış cihazı seçicisi içerir — uygulama başına ses kaydırıcılarınızın yanında. SoundDial açmak için bir tıklama, cihazı değiştirmek için bir tıklama. Sistem ayarlarında araştırma yok.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tek menü çubuğu panelinde ses çıkış cihazı anahtarı ve uygulama başına ses kontrolü ile" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tek menü çubuğu panelinde ses çıkış cihazı anahtarı ve uygulama başına ses kontrolü ile" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial içinde cihaz değiştirmenin avantajı: çıkışınızı değiştirebilirsiniz <em>ve</em> Aynı panelde uygulama başına ses seviyelerini ayarlayın. AirPods'a geçin ve hemen Spotify'ı düşürerek çağrınızı güçlendirin — tüm bunlar popover'dan çıkmadan.</p>
 
@@ -2262,6 +2268,9 @@ export const trArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>Müzik dinliyorsunuz ve bir patlama sesi duyuyorsunuz. Sonra bir çatırtı. Sonra sesin bir saniyenin çok kısa bir kesintisi kesilip geri dönmesi gibi bir takılma oluyor. Sorun şarkı değil — Mac. macOS üzerindeki ses çatırtısı sinir bozucu derecede yaygın ve en az altı farklı nedeni var.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Bu rehber, Mac üzerinde ses çatırdaması, patlama ve takılma nedenlerini kapsıyor; yazılım çözümlerinden bilmeniz gereken tek donanım sorununa kadar.</p>
 
@@ -2389,7 +2398,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Herhangi bir uygulamanın sesini artırmanıza izin verir <strong>200%</strong>, Microsoft Teams dahil. Teams'in kaydırıcısını %150 veya %180'e sürükleyin ve ses gerçek zamanlı olarak güçlendirilir. Only Teams daha yüksek sesle geliyor — müzik, tarayıcı ve diğer uygulamalar mevcut seviyelerinde kalıyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Microsoft Teams çağrı hacmini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Microsoft Teams çağrı hacmini %100'ün üzerine çıkarmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial ayrıca ters soruna da yardımcı olur: Teams bildirim sesleri odaklanma süresince çok yüksekse, Teams'i %15'e düşürün veya tamamen sessize alın ve müziğiniz çalmaya devam eder. Bir tıklama ile sessizleştiriyor, bir tıkla sessizliği açıyor.</p>
 
@@ -2405,6 +2414,9 @@ export const trArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Görüntülü görüşmedesin. Gevşeklik sürekli çalıyor. Arka planda müzik çalıyor. Ses tuşuna uzanıyorsun ve — her şey daha da sessizleşiyor. Arama, müzik, bildirimler. macOS tam olarak bir ses kaydırıcısı var ve her şeyi aynı anda kontrol ediyor.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows, 2006'daki Vista'dan beri uygulama başına bir ses mikseri kullanıyor. Yirmi yıl sonra macOS hâlâ anlamıyor. Spotify'ı Zoom çağrınızı etkilemeden kısıtlamak istiyorsanız, Apple'ın sizin için yerleşik bir cevabı yok.</p>
 
@@ -2512,7 +2524,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Slack'e kendi bağımsız ses kaydırıcısı verir. Size uygun seviyeye ayarlayın — ya da tek tıklamayla tamamen sesinizi kapatın. Slack'e tekrar dikkat etmeye hazır olduğunda, onu açın ve ses seviyesi eskisi haline döner.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Slack sessiz ve Spotify normal ses seviyesinde oynatırken macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Slack sessiz ve Spotify normal ses seviyesinde oynatırken macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>İdeal Slack iş akışı</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const trArticles: ArticleSet = {
 <h3>Anahtarlama profilleri</h3>
 <p>Kaydedilen profilleriniz SoundDial'ın açılır menüsünde butonlar olarak görünüyor. Bir tane tıklarsanız her uygulama anında o profilde kaydedilen hacimlere geçer. Bir tıklama, beş veya altı manuel ayarın yerini alır.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ses profilleri — macOS üzerinde Toplantı, Focus ve Chill modları arasında tek tıklamayla geçiş yapmak" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ses profilleri — macOS üzerinde Toplantı, Focus ve Chill modları arasında tek tıklamayla geçiş yapmak" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Örnek profiller</h3>
 
@@ -2662,7 +2674,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Herhangi bir uygulamanın sesini artırmanıza izin verir <strong>200%</strong> — Zoom dahil. Bir katılımcı çok sessizse, Zoom'un kaydırıcısını %150 veya %180'e çekin. Ses sinyali Zoom'un dahili maksimumunun ötesine kadar yükseltiliyor, böylece en sessiz sesler bile duyulabilir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial video görüşmeleri sırasında daha net ses için Zoom çağrı sesini %180'e çıkarmak Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial video görüşmeleri sırasında daha net ses için Zoom çağrı sesini %180'e çıkarmak Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Temel avantaj: Zoom'u güçlendirmek başka hiçbir şeyi etkilemiyor. Müzikleriniz, bildirimleriniz ve diğer uygulamalar mevcut seviyelerinde kalır. Sadece Zoom daha yüksek sesle konuşuyor.</p>
 
@@ -2701,7 +2713,7 @@ export const trArticles: ArticleSet = {
 
 <p>Bitti. Spotify daha sessiz. Zoom değişmedi. Bildirimler değişmemiştir. Geri kalan her şey değişmedi. Mevcut uygulamanızdan ayrılmadınız — menü çubuğu tam bulunduğunuz yerde açılıyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Spotify sesini bağımsız olarak düşürürken diğer uygulamaları tam seste tutmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Spotify sesini bağımsız olarak düşürürken diğer uygulamaları tam seste tutmak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Daha da iyisi: profil olarak kaydedin</h2>
 
@@ -2754,7 +2766,7 @@ export const trArticles: ArticleSet = {
 
 <p>Apple bunu geliştirmediği için, üçüncü taraf uygulamalar boşluğu dolduruyor. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Yerel bir macOS menü çubuğu uygulamasıdır ve size bir ses mikseri — her çalışan uygulama için bağımsız ses kaydırıcıları — sunar.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial macOS Tahoe'da uygulama başına ses kontrolü sağlıyor" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOS Tahoe'da uygulama başına ses kontrolü sağlıyor" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial macOS Tahoe ile tam uyumludur ve Apple'ın modern Core Audio Tap API'sini kullanır — üçüncü taraf ses sürücüsü veya çekirdek uzantısı gerekmez. macOS'nin güvenlik modeliyle sorunsuz çalışıyor ve diğer ses uygulamalarına müdahale etmiyor.</p>
 
@@ -2816,7 +2828,7 @@ export const trArticles: ArticleSet = {
 
 <p>Kararın kristal net. Müzik ince bir arka plan. Cihaz değiştirme gerekmiyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Zoom'un tam seste ve Spotify'ın düşük seviyede gösterilmesi macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Zoom'un tam seste ve Spotify'ın düşük seviyede gösterilmesi macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Daha da iyisi: SoundDial <strong>otomatik eğilme</strong> bunu otomatik olarak yapıyor. Bir çağrıya katıldığınızda, mikrofonunuzun aktive olduğunu algılar ve tüm arka plan uygulamalarını sizin ayarlarınız seviyesine (varsayılan %30) düşürür. Görüşme bittiğinde her şey normale döner. Manuel kaydırma ayarına gerek yok.</p>
 
@@ -2877,7 +2889,7 @@ export const trArticles: ArticleSet = {
 
 <p>Sistem sesini değiştirmesini engelleyemeseniz bile, macOS kendi sisteminizi koruyabilirsiniz <em>Uygulama başına</em> hacim dengesi. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Her uygulamanın ses seviyesini bağımsız olarak hatırlar. Bir uygulama yeniden başladığında veya Mac uykudan uyandığında, SoundDial her uygulamayı kaydedilen hacme geri döndürür.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial yeniden başlatmalarda uygulama başına ses seviyelerini hatırlamak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial yeniden başlatmalarda uygulama başına ses seviyelerini hatırlamak macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu, sistem sesi değişse bile, uygulama seviyesinde dengenizin tutarlı kalacağı anlamına gelir:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const trArticles: ArticleSet = {
 
 <p>SoundDial, süreç başına temiz ses kontrolü için Apple'ın modern Core Audio Tap API'sini kullanır. Oyun hafif, tamamen menü çubuğunda çalışıyor ve karmaşık kurulum gerektirmiyor. 14,99 € ile SoundSource'tan (39 $) önemli ölçüde daha ucuz, ayrıca SoundSource'un eksik olduğu özellikler — ses profilleri ve otomatik alçaltma gibi özellikleri de içeriyor. Ve Mac App Store'da olduğu için Apple tarafından incelenmiş, sandbox'ta ve DMG indirmeden ya da sistem ses sürücüsü yüklemeden temiz bir şekilde kurulabiliyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial uygulama başına ses mikseri, tek uygulama ses kaydırıcılarını macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial uygulama başına ses mikseri, tek uygulama ses kaydırıcılarını macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Amoeba)</h3>
 
@@ -3113,7 +3125,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Bu sorunu, Safari ve Chrome dahil her uygulamaya %0'dan %0'a çıkan bağımsız bir ses kaydırıcısı sunarak çözüyor <strong>200%</strong>. Bir YouTube videosu çok sessizse, tarayıcınızın kaydırıcısını %150 veya %180'e sürükleyin. Ses, diğer uygulamaları etkilemeden gerçek zamanlı olarak güçlendirilir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial sessiz YouTube videoları için Safari tarayıcı sesini %180'e yükseltmek Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial sessiz YouTube videoları için Safari tarayıcı sesini %180'e yükseltmek Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu özellikle faydalı çünkü:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Öyle. Her uygulamaya kendi ses kaydırıcısı veriyor, böylece Slack, Mail ve Calendar gibi bildirim ağırlıklı uygulamaları çok daha düşük ses seviyesine ayarlayabilir ve medya uygulamalarınızı rahat bir seviyede tutabilirsiniz.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Slack'i düşük sesle ve Spotify'ı normal ses seviyesinde gösteriyor — bağımsız bildirim kontrolü macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Slack'i düşük sesle ve Spotify'ı normal ses seviyesinde gösteriyor — bağımsız bildirim kontrolü macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tipik bir kulaklık dostu kurulum</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> tam olarak bunu verir. Otomatik eğilme özelliği mikrofonunuzu izler ve arama başladığında arka plan sesini otomatik olarak ayarlar — ama <strong>Ördek seviyesini sen kontrol ediyorsun</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial otomatik düşük ayarları — Zoom aramaları sırasında ayarlanabilir ses azalması Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial otomatik düşük ayarları — Zoom aramaları sırasında ayarlanabilir ses azalması Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Nasıl çalışır</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Herhangi bir uygulamanın sesini artırmanıza izin verir <strong>200%</strong>. Eğer Spotify AirPods'unuzda çok sessizse, Spotify'ın kaydırıcısını SoundDial %150 veya %180'e çekin. Ses sinyali AirPods'a gönderilmeden önce güçlendirilir ve bu da AirPods'u Apple'ın amaçladığından daha yüksek bir ses haline getirir.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial AirPods için Mac için uygulama sesini artırmak ve uygulama başına %200'e kadar ses kaydırıcıları" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial AirPods için Mac için uygulama sesini artırmak ve uygulama başına %200'e kadar ses kaydırıcıları" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Uygulama başına boosting'in avantajı: Sessiz uygulamayı güçlendirebiliyorsunuz, diğer her şeyi daha yüksek sesle yapasınız. Video görüşmeniz %100 uygunsa ama Spotify %170 istiyorsa SoundDial her birini bağımsız ayarlamanıza izin veriyor.</p>
 
@@ -3387,7 +3399,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Herhangi bir uygulamanın sesini artırmanıza izin verir <strong>200%</strong> — Spotify dahil. Spotify'ın ses akışını yakalıyor ve uygulamanın dahili maksimumunun ötesine kadar yükseltiyor, başka hiçbir uygulamanın sesini etkilemiyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Spotify sesini macOS %200'e çıkarırken diğer uygulamaları normal ses seviyesinde tutmak" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Spotify sesini macOS %200'e çıkarırken diğer uygulamaları normal ses seviyesinde tutmak" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>İşte temel fark: sistem genelinde bir ses artışı <em>her şey</em> daha yüksek sesle — bildirimler, aramalar, sistem sesleri — sadece Spotify değil. SoundDial Spotify'ı güçlendiriyor <em>Bağımsız olarak</em>. Spotify'ı %160'a ayarlayın, tarayıcınız %80'te kalırken, Zoom %100'de kalır.</p>
 
@@ -3440,7 +3452,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> menü çubuğunda oturur ve her uygulamaya kendi ses kaydırıcısını verir. Oyununuzu %35'e, Discord'u %100'e ayarlayabilirsiniz — ya da sizin için uygun olan oran. Birini değiştir, diğeri yerinde kalır.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial bir oyun için bağımsız ses kaydırıcıları ve Discord'da macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial bir oyun için bağımsız ses kaydırıcıları ve Discord'da macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tipik oyun kurulumu</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const trArticles: ArticleSet = {
 
 <p>Cevap, üçüncü taraf bir menü bar uygulaması. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Windows ses mikserinin tam olarak yaptığı gibi — ve daha fazlasını yapan yerel bir macOS ses mikseri.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — macOS için ses mikseri, menü çubuğunda uygulama başına ses kaydırıcılarını gösteriyor" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — macOS için ses mikseri, menü çubuğunda uygulama başına ses kaydırıcılarını gösteriyor" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ne elde edersiniz:</p>
 
@@ -3590,7 +3602,7 @@ export const trArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Mac her uygulamaya %0'dan %0'a kadar değişen bağımsız bir ses kaydırıcısı veriyor <strong>200%</strong>. Belirli bir uygulama çok sessizse — podcast oynatıcı, tarayıcı sekmesi, video görüşmesi — sadece o uygulamayı %100'ün ötesine çıkarabilirsin ve başka hiçbir şeye dokunmadan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial ses yükseltmesi — uygulama başına %200 amplifikasyonla ses kontrolü macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial ses yükseltmesi — uygulama başına %200 amplifikasyonla ses kontrolü macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bu özellikle şu durumlar için faydalıdır:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const trArticles: ArticleSet = {
 <h3>Ördek seviyesinin yapılandırılması</h3>
 <p>SoundDial'nin ayarlarında <strong>Ördek Seviyesi</strong> — bir arama sırasında arka plan sesinin ne kadar azaldığını. Kaydırıcı %10 (zar zor duyuluyor) ile %80 (hala oldukça mevcut) arasında değişiyor. Varsayılan %30 çoğu insan için iyi çalışıyor: müzik fark edilir ama konuşmayı engellemez.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Zoom görüşmesi sırasında müzik sesini otomatik olarak düşüren otomatik eğiltme özelliği Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Zoom görüşmesi sırasında müzik sesini otomatik olarak düşüren otomatik eğiltme özelliği Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Neden otomatik eğilmek duraklatmaktan daha iyidir</h2>
 
@@ -3763,7 +3775,7 @@ export const trArticles: ArticleSet = {
 
 <p>Tam olarak uygulama başına ses mikseri bunu yapar. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> menü çubuğunda duruyor ve kendi ses kaydırıcısı ile sessiz düğmesiyle çalışan her uygulamayı gösteriyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial macOS menü çubuğunda her uygulama için uygulama başına sessiz tuşlarının gösterilmesini" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOS menü çubuğunda her uygulama için uygulama başına sessiz tuşlarının gösterilmesini" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Bir uygulamayı sessize almak için:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const trArticles: ArticleSet = {
 
 <p>Menü çubuğunda duruyor ve her çalışan uygulamayı kendi ses kaydırıcısıyla gösteriyor. Bir kaydırıcıyı sürükleyerek o uygulamanın ses seviyesini %0'dan %200'e ayarlayın. Anında sesinizi kapatmak için hoparlör simgesine tıklayın. Farklı durumlar için kaydedilmiş profiller arasında geçiş yapın. Otomatik eğiltme özelliğini etkinleştirin, bir arama başladığında müziğiniz otomatik olarak daha da sessizleşiyor.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — menü çubuğunda tek uygulama ses kaydırıcılarını gösteren macOS için uygulama başına ses mikseri" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — menü çubuğunda tek uygulama ses kaydırıcılarını gösteren macOS için uygulama başına ses mikseri" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Temel özellikler:</p>
 <ul>
@@ -3889,5 +3901,2353 @@ export const trArticles: ArticleSet = {
 
 <p>Tek seferlik satın alma. Abonelik yok. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial Mac App Store'dan alın</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Mac için En İyi Background Music Alternatifi (2026)",
+    description: "Background Music daha yeni macOS'yu mu kullanıyor? Uygulama başına en güvenilir ses karıştırıcı alternatifi, güçlendirme ve profillere sahip korumalı alanlı bir Mac App Store uygulaması olan SoundDial'dur.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS güncellemesinden sonra Background Music çalışmayı durdurduysa en güvenilir alternatif <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — Mac App Store'dan uygulama başına bir menü çubuğu ses karıştırıcısı. Her uygulamaya kendi ses düzeyi kaydırıcısını verir, sessize alma, yükseltme, ses profilleri ve otomatik kısma ekler ve tamamen korumalı alana alınmış ve Apple tarafından incelenmiş olduğundan bir sonraki macOS sürümünde kırılacak ses sürücüleri yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac için En İyi Background Music Alternatifi (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Background Music neden daha yeni macOS'da başarısız oluyor?</h2>
+
+<p>Background Music gerçekten akıllı, ücretsiz, açık kaynaklı bir projedir. Mac kullanıcılarına Apple'ın asla sahip olmadığı bir şeyi verdi: Windows'nun yıllardır sahip olduğu türden uygulama başına ses mikseri. Ancak tasarımı aynı zamanda başarısız olmaya devam etmesinin de nedenidir.</p>
+
+<p>Sesi yönlendirmek ve kontrol etmek için Background Music, Mac cihazınızın sesini kesen, sistem düzeyinde bir sürücü olan sanal bir ses cihazı yükler. Bu yaklaşım eski macOS'da işe yaradı ancak her büyük sürüm, çekirdek ve ses uzantıları etrafındaki güvenliği sıkılaştırıyor. Kullanıcıların bildirdiği yaygın belirtiler:</p>
+
+<ul>
+<li>Kurulumdan veya işletim sistemi güncellemesinden sonra hiç ses gelmiyor.</li>
+<li>Sanal aygıt yüklenemediği için ses yönlendirme sessizce durdurulur.</li>
+<li>Uygulamanın kurtarılması için yeniden yükleme, yeniden başlatma veya sürücünün manuel olarak kaldırılması gerekiyor.</li>
+<li>Geliştirme topluluk odaklı ve gönüllü tempolu olduğundan yeni macOS'ya yönelik düzeltmeler gecikebilir.</li>
+</ul>
+
+<p>Bunların hiçbiri Background Music'yu "kötü" yapmaz. Bu sadece, ücretsiz bir sürücü tabanlı aracın doğası gereği kırılgan olduğu anlamına gelir ve her gün uygulama başına hacime güveniyorsanız, bu kırılganlık hızla eskir.</p>
+
+<h2>Bir yedekte nelere dikkat edilmeli?</h2>
+
+<p>Herhangi bir alternatifi seçmeden önce gerçekte neye ihtiyacınız olduğuna karar verin:</p>
+
+<ul>
+<li><strong>macOS güncellemelerinde güvenilirlik.</strong> Bir çekirdek veya ses uzantısı yüklerse ara sıra kırılmalar yaşanabilir.</li>
+<li><strong>Gerçek uygulama başına kontrol.</strong> Her uygulama için bağımsız ses seviyesi ve sessize alma temeldir.</li>
+<li><strong>Arttır.</strong> Bazı uygulamalar (sessiz toplantı araçları, belirli tarayıcılar) çok sessizdir; %100'ü aşmak istersiniz.</li>
+<li><strong>Kolaylık özellikleri.</strong> Profiller ve otomatik kapanma, bir yardımcı programı tüm gün açık tuttuğunuz bir şeye dönüştüren şeydir.</li>
+<li><strong>Güvenli kurulum.</strong> Korumalı alana alınmış bir Mac App Store uygulaması sistemin dahili bileşenlerine dokunamaz, bu nedenle kaldırma işlemi temizdir ve güncellemeler otomatiktir.</li>
+</ul>
+
+<h2>SoundDial neden güvenilir seçimdir?</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Background Music kullanıcılarının karşılaştığı sorunu tam olarak çözmek için tasarlandı: uygulama başına hacim istiyorlar, ancak bir sürücüye bakıcılık yapmak istemiyorlar. Menü çubuğunuzda bulunur ve temel işini iyi yapar:</p>
+
+<ul>
+<li><strong>Her uygulama için bağımsız ses düzeyi</strong>, aynı panelde uygulama başına sessize alma özelliğiyle.</li>
+<li><strong>Uygulama başına artış</strong> sessiz uygulamaları gerçekten duyabilecek kadar yüksek sesle yapmak.</li>
+<li><strong>Hacim profilleri</strong> — bir karışımı kaydedin ("toplantı" veya "oyun") ve her seferinde kaydırıcıları sürüklemek yerine anında geçiş yapın.</li>
+<li><strong>Otomatik eğilme</strong>Böylece arka plan sesi olması gerektiği anda otomatik olarak azalır.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> hoparlörler, kulaklıklar ve diğer cihazlar arasında.</li>
+</ul>
+
+<p>En büyük fark, nasıl kurulduğudur. SoundDial, Mac App Store aracılığıyla gönderilir; bu, Apple tarafından incelendiği ve korumalı alana alındığı anlamına gelir. Sürüklenecek DMG yok, ses sürücüsü veya sistem uzantısı yok ve çekirdek erişimi yok. Yeni bir macOS geldiğinde Background Music'nun yaptığı gibi kırılmamasının en önemli nedeni budur; Apple'ın kilitlemeye devam ettiği sistem parçalarına bağlı değildir.</p>
+
+<p>Maliyeti <strong>€14,99 tek seferlik</strong>. Ücretsiz değil, ancak abonelik yok ve bakımı yapılan ve kurulumu güvenli bir şey için para ödüyorsunuz.</p>
+
+<h2>SoundDial ve Background Music ve ücretsiz araçlar</h2>
+
+<p>Background Music tek ücretsiz seçeneğiniz değil, bu yüzden işte arazinin dürüst bir planı:</p>
+
+<ul>
+<li><strong>Background Music (ücretsiz, açık kaynak):</strong> uygulama başına hacim, ancak sürücü tabanlı, daha yeni macOS'da kırılmaya eğilimli ve güçlendirme, profiller ve otomatik azaltmadan yoksun.</li>
+<li><strong>FineTune (ücretsiz, açık kaynak):</strong> Uygulama başına hafif bir menü çubuğu hacim uygulaması. Tek gereksiniminiz ücretsizse iyi, ancak ekstralar zayıf.</li>
+<li><strong>eqMac (ücretsiz):</strong> öncelikle bir sistem EQ ve güçlendirici, gerçek bir uygulama başına karıştırıcı değil.</li>
+<li><strong>Rogue Amoeba'dan SoundSource (~39$):</strong> uygulama başına EQ ve tam çıkış yönlendirmesi ile profesyonel düzeyde seçenek. Mükemmel, ancak SoundDial'nun fiyatının iki katından fazla ve yine de bir indirme artı bir ses yakalama sürücüsü gerektiriyor.</li>
+<li><strong>SoundDial (14,99 €, Mac App Store):</strong> orta yol — sürücüsüz, temiz, korumalı alan kurulumu olarak sunulan, uygulama başına gerçek ses seviyesi, sessize alma, artırma, profiller ve engelleme.</li>
+</ul>
+
+<p>Uygulama başına EQ'ya veya karmaşık stüdyo yönlendirmeye ihtiyacınız varsa, SoundSource ekstra paraya değer. Ücretsiz bir tamirci aracı istiyorsanız ve ara sıra meydana gelen kırılmaları tolere edebiliyorsanız, FineTune veya Background Music işinizi görecektir. Ancak amacınız "her uygulamaya kendi hacmini vermek ve her macOS güncellemesini bozmasına son vermek" ise, SoundDial bu hedefe en az zorlukla ulaşır.</p>
+
+<h2>Bunu gerekli kılan macOS bağlamı</h2>
+
+<p>Açıkça söylemekte fayda var: macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'nun ses düzeyi açılır menüsünde yıllardır bir tane bulunur, ancak Mac'da sistem kaydırıcısı her şeyi aynı anda kontrol eder. Background Music ve SoundDial gibi araçların var olmasının tek nedeni bu boşluktur. Apple bunu doldurmadığından pratik soru, hangi üçüncü taraf yaklaşımına güveneceğinizdir: işletim sistemiyle savaşan ücretsiz bir sürücü veya onunla çalışan korumalı alanlı bir uygulama.</p>
+
+<p>Bozuk ses sürücüleriyle mücadeleyi bırakmaya hazır mısınız? Al <a href="https://apps.apple.com/app/id6772792641">Mac App Store üzerinde SoundDial</a> 14,99 € karşılığında ve her uygulamanın sesini güvenilir bir şekilde kontrol edin.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial: Hangi Mac Volume Uygulaması Kazanır?",
+    description: "SoundSource (39 $, profesyonel sınıf) ile SoundDial (14,99 €, App Store). Sizin için doğru Mac karıştırıcıyı seçmek için uygulama başına ses seviyesini, artırmayı, profilleri ve otomatik azaltmayı karşılaştırın.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Yalnızca temiz bir şekilde yüklenen ve daha az maliyetli olan uygulama başına ses kontrolü istiyorsanız, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> çoğu kişi için daha iyi bir satın almadır: Mac App Store'dan tek seferlik 14,99 €, uygulama başına ses seviyesi, sessize alma, yükseltme, profiller ve otomatik azaltma özellikleriyle. Rogue Amoeba'nun SoundSource'sunu (~39 $) yalnızca özellikle uygulama başına EQ'ya ve gelişmiş çıktı yönlendirmeye ihtiyacınız varsa seçin.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial: Hangi Mac Volume Uygulaması Kazanır?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Kısa versiyon</h2>
+<p>macOS'da hâlâ yerleşik uygulama başına ses karıştırıcısı yok. Windows'da yıllardır böyle bir özellik var, ancak Mac'da sistem ses düzeyi kaydırıcısı her şeyi aynı anda hareket ettiriyor. Hem SoundSource hem de SoundDial bu açığı kapatmak için var. Sadece farklı alıcıları hedefliyorlar.</p>
+<ul>
+<li><strong>SoundDial</strong> — Tek seferlik 14,99 €, Mac App Store, menü çubuğu uygulaması. Uygulama başına bağımsız ses seviyesi, uygulama başına sessize alma, uygulama başına yükseltme, kayıtlı profiller, otomatik azaltma ve hızlı çıkış değiştirme. Korumalı alana alınmış ve Apple tarafından incelenmiş olduğundan sürücü kurulumu gerekmez.</li>
+<li><strong>SoundSource</strong> — ~39$, Rogue Amoeba'dan doğrudan indirme. Yukarıdakilerin hepsine ek olarak uygulama başına EQ, gelişmiş çıkış yönlendirme ve ses efektleri. Küçük bir ses yakalama sürücüsünün yüklenmesini gerektirir.</li>
+</ul>
+
+<h2>Fiyat ve nasıl satın alacağınız</h2>
+<p>Bu en net bölünmedir. SoundSource'nun fiyatı yaklaşık 39 dolar ve doğrudan Rogue Amoeba tarafından satılıyor. SoundDial, Mac App Store'da tek seferlik satın almada 14,99 €'dur; bu da fiyatın üçte birinden biraz fazladır.</p>
+<p>Çünkü <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> App Store aracılığıyla gönderilir, korumalı alana alınır, noter onaylıdır ve Apple tarafından incelenir. Al'a tıklarsınız, yüklenir ve işlem tamamdır. Bağlanacak DMG yok, çekirdeğe bitişik bir bileşene verilecek izin yok ve ses sürücüsü veya sistem uzantısı yok. Ayrıca normal App Store güncelleme akışınızla birlikte çalışır ve aynı Apple Kimliğindeki diğer Mac'larınızla senkronize edilir.</p>
+<p>SoundSource, App Store dışında indirme yapar ve her uygulamanın sesini yakalayıp işleyebilmesi için bir ses yakalama sürücüsü yükler. Profesyonel özelliklerinin kilidini açan şey budur, ancak aynı zamanda ekstra bir kurulum adımı ve sistemin daha derinlerinde yaşayan bir bileşen anlamına da gelir.</p>
+
+<h2>SoundSource'nun yaptığı ama SoundDial'nun yapmadığı şey</h2>
+<p>SoundSource, fiyatını belirli bir kullanıcı türü için hak ediyor. Bunlardan herhangi biri sizi tanımlıyorsa ekstra paraya değer:</p>
+<ul>
+<li><strong>Uygulama başına EQ.</strong> Zoom'yu düz bırakırken, örneğin Spotify'da 10 bantlı bir ekolayzır istiyorsunuz. SoundDial ses seviyesi sağlar, EQ değil.</li>
+<li><strong>Gelişmiş çıktı yönlendirme.</strong> Hassas kontrolle bir uygulamayı hoparlörlerinize ve diğerini kulaklıklarınıza veya belirli bir arayüze gönderme.</li>
+<li><strong>Ses efektleri ve eklentiler.</strong> SoundSource, efektleri uygulama bazında barındırabilir; gerçekten profesyonel bir alan.</li>
+</ul>
+<p>Rogue Amoeba'nun uzun ve güvenilir bir geçmişi var. SoundSource ciddi bir araçtır ve fiyatı da öyledir. Eğer bir ses uzmanıysanız veya yoğun çoklu çıkış kullanıcısıysanız, bu doğru karardır.</p>
+
+<h2>SoundDial'nun günlük kullanımda daha iyi yaptığı şeyler</h2>
+<p>"Mac ses mikseri" arayan çoğu kişinin EQ'ya ihtiyacı yoktur. Bir uygulamanın diğerinden daha sessiz olmasına ihtiyaç duyuyorlar ve onu almak için bir yükleyiciyle kavga etmek istemiyorlar. SoundDial bunu temiz bir şekilde ele alıyor ve bahsetmeye değer birkaç şey ekliyor:</p>
+<ul>
+<li><strong>Uygulama başına artış.</strong> Bazı uygulamalar ve videolar %100'de bile çok sessizdir. SoundDial, tek bir uygulamayı normal tavanının üzerine çıkarabilir, böylece sessiz bir toplantı veya podcast sonunda duyulabilir hale gelir.</li>
+<li><strong>Hacim profilleri.</strong> Tam kurulumu kaydedin (müzik sesi kısıldı, tarayıcı sessize alındı, uygulamayı yüksek sesle arayın) ve anında geri çağırın. Beş kaydırıcıyı sürüklemeden "odaklanma", "toplantı" ve "oyun" arasında geçiş yapmak için idealdir.</li>
+<li><strong>Otomatik eğilme.</strong> Başka bir kaynak başlatıldığında arka plan sesini (müzik gibi) otomatik olarak azaltın, böylece bildirimler, çağrılar veya videolar gizlenmez.</li>
+<li><strong>Hızlı çıkış değiştirme.</strong> Menü çubuğundan hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapın.</li>
+</ul>
+<p>Bunların hepsi bir menü çubuğu açılır menüsünden çalıştırılır, bu nedenle bir tıklama uzaktadır ve geri kalan zamanlarda gözünüzün önünden uzaktadır.</p>
+
+<h2>Kısaca ücretsiz alternatifler</h2>
+<p>Aynı aramalarda bahsedilen birkaç ücretsiz seçeneği göreceksiniz. Şunları bilmeye değer:</p>
+<ul>
+<li><strong>Background Music</strong> — ücretsiz ve açık kaynak, size uygulama başına temel hacim sağlar. Ancak daha yeni macOS sürümlerinde bozulabilir ve yükseltme, profil veya otomatik azaltma özelliği yoktur.</li>
+<li><strong>FineTune</strong> — ücretsiz, açık kaynaklı bir menü çubuğu ses düzeyi uygulaması. Basit ama kapsamı sınırlıdır.</li>
+<li><strong>eqMac</strong> — ücretsiz EQ ve sistem güçlendirici, gerçek bir uygulama başına mikserden ziyade sistem çapında bir EQ aracı.</li>
+</ul>
+<p>Eğer işinize yararsa ücretsiz harikadır. Takas uyumluluk ve destektir: açık kaynaklı ses araçları macOS güncellemelerinin gerisinde kalabilir ve profiller ve eğilme gibi özellikler genellikle orada değildir. Kurulumunuz iş gününüz için önemliyse, gözden geçirilen ve bakımı yapılan bir şey için bir kez ödeme yapmak genellikle daha sakin bir yoldur.</p>
+
+<h2>Hangisini satın almalısınız?</h2>
+<p>Bir soruyu yanıtlayın: Uygulama başına EQ'ya mı yoksa gelişmiş çıktı yönlendirmesine mi ihtiyacınız var?</p>
+<ul>
+<li><strong>Evet</strong> — SoundSource satın alın. Bunun için tasarlandı ve ~ 39 $, sürücü düzeyinde bir motora sahip profesyonel bir araç için adil.</li>
+<li><strong>Hayır, yalnızca uygulama başına ses düzeyi, artırma ve temiz bir yükleme istiyorum</strong> — SoundDial satın alın. Günlük olarak önemli olan miksajın yanı sıra profiller ve otomatik azaltma özelliğinin yanı sıra 14,99 € karşılığında ve sıfır sürücü zahmetine sahip oluyorsunuz.</li>
+</ul>
+<p>Mac kullanıcılarının büyük çoğunluğu için bu ikinci kova dürüst cevaptır. Bir stüdyo için değil, ses seviyesi kontrolü için para ödüyorsunuz.</p>
+
+<p><strong>Mac birimini kolay yoldan düzeltmeye hazır mısınız?</strong> Al <a href="https://apps.apple.com/app/id6772792641">Mac App Store üzerinde SoundDial</a> — Tek seferlik 14,99 €, sürücü yok, DMG yok. Tek tıklamayla uygulama başına ses düzeyi, artırma, profiller ve otomatik azaltma.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Mac'da Uygulama Başına Hacim için Daha Ucuz Bir SoundSource Alternatifi",
+    description: "39 ABD Doları fiyatı olmadan SoundSource tarzı uygulama başına hacim ister misiniz? SoundDial, yükseltme, profiller ve otomatik azaltma özelliklerine sahip, 14,99 €'luk bir Mac App Store menü çubuğu karıştırıcısıdır.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Mac cihazınızda SoundSource tarzı uygulama başına ses kontrolü istiyorsanız ancak 39 $ çok yüksek geliyorsa, en hızlı ve güvenilir çözüm <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Bu, Mac App Store'nun 14,99 €'luk tek seferlik menü çubuğu karıştırıcısıdır ve her uygulamaya kendi ses kaydırıcısını, sesini kapatma ve yükseltme özelliğinin yanı sıra profiller ve otomatik kısma özelliği sunar; hiçbir indirme veya ses sürücüsü yüklemeye gerek yoktur.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Uygulama Başına Hacim için Daha Ucuz Bir SoundSource Alternatifi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>İnsanlar neden SoundSource alternatifi arıyor?</h2>
+<p>Rogue Amoeba'nun SoundSource'su mükemmel bir yazılımdır. Gerçekten profesyonel seviyede: uygulama başına ekolayzerler, ses efektleri ve bir uygulamayı kulaklığınıza, diğerini hoparlörlerinize göndermenizi sağlayan çıkış yönlendirme. Ancak bu güç iki sürtünme noktasıyla birlikte gelir. İlk olarak, fiyat – yaklaşık 39 dolar. İkincisi, App Store dışında, bazı kişilerin bir iş makinesinde dikkatli olduğu veya macOS güncellemelerini yönetmek istemediği, sistem düzeyinde bir ses yakalama sürücüsü yükler.</p>
+<p>Çoğu kişi için asıl ihtiyaç çok daha basittir: Zoom çağrısına dokunmadan Spotify'yu kapatın, gürültülü bir tarayıcı sekmesi uygulamasının sesini kapatın veya sessiz bir video oynatıcıyı %100'ün üzerine çıkarın. Eğer bu sizseniz, hiçbir zaman açmayacağınız özellikler için profesyonel para ödüyorsunuz demektir.</p>
+
+<h2>SoundDial ne yapar ve maliyeti nedir?</h2>
+<p>SoundDial, uygulama başına hacim işine odaklanır ve bunu temiz bir şekilde yapar. Menü çubuğunu açtığınızda, her biri kendi kontrolüne sahip olan, ses çıkaran her şeyin canlı bir listesini alırsınız:</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — uygulama başına gerçek zamanlı olarak ayarlanan bir kaydırıcı.</li>
+<li><strong>Uygulama başına sessize alma</strong> — başka hiçbir şeyi duraklatmadan bir uygulamayı anında susturun.</li>
+<li><strong>Uygulama başına ses artırma</strong> — Bir video veya çağrı çok yumuşak olduğunda sessiz uygulamaları normal maksimum değerlerinin üzerine çıkarın.</li>
+<li><strong>Hacim profilleri</strong> — bir karışımı kaydedin (ör. "Odak", "Oyun", "Toplantı") ve tek tıklamayla geçiş yapın.</li>
+<li><strong>Otomatik eğilme</strong> — daha önemli bir şey oynatılmaya başladığında diğer uygulamaları otomatik olarak indirir.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapın.</li>
+</ul>
+<p>Fiyat: <strong>€14,99, bir kez ödendi</strong> - abonelik yok. Bu, çoğu kullanıcının gerçekte ulaştığı hacim özellikleri açısından SoundSource'nun maliyetinin kabaca üçte biri kadardır.</p>
+
+<h2>App Store farkı</h2>
+<p>Çünkü SoundDial şu adresten gönderilir: <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, Apple tarafından incelendi ve korumalı alana alındı. Sürüklenecek DMG yok, onaylanacak çekirdek uzantısı veya ses yakalama sürücüsü yok ve ayrı bir güncelleyici yok. Bunu diğer App Store uygulamaları gibi yüklersiniz ve çalışır. macOS güncellendiğinde, düşük seviyeli bir ses bileşeninin hala çalışıp çalışmadığını merak etmiyorsunuz.</p>
+<blockquote>macOS'da hâlâ yerleşik uygulama başına ses karıştırıcısı yok. Windows'da yıllardır böyle bir araç var, ancak Mac'da sistem birimi ya hep ya hiç şeklindedir; bu da tam olarak bu araçların doldurduğu boşluktur.</blockquote>
+
+<h2>Ücretsiz seçeneklerle karşılaştırıldığında nasıldır?</h2>
+<p>SoundSource tek alternatifiniz değil. Ücretsiz araçlar vardır ve bunlar konusunda dürüst olmak önemlidir:</p>
+<ul>
+<li><strong>Background Music</strong> ücretsiz, açık kaynaklı, uygulama başına bir hacim uygulamasıdır. Birçok kişi için işe yarar, ancak daha yeni macOS sürümlerinde bozulabilir, güncellemeler düzensizdir ve güçlendirmesi, profili yoktur ve otomatik azaltma özelliği yoktur.</li>
+<li><strong>FineTune</strong> ücretsiz, açık kaynaklı bir menü çubuğu ses uygulamasıdır; hafif ve kullanışlıdır, ancak yine profil ve eğilme özelliklerinden yoksundur.</li>
+<li><strong>eqMac</strong> ücretsiz bir EQ ve sistem güçlendiricidir. Bu, gerçek bir uygulama başına karıştırıcıdan ziyade bir ekolayzır/güçlendirme aracıdır ve bireysel uygulama kaydırıcılarına odaklanmaz.</li>
+</ul>
+<p>Ücretsiz meşru bir seçimdir. Buradaki ödün, güvenilirlik ve özelliklerdir: açık kaynaklı ses araçları gönüllü bakıma bağlıdır ve macOS değişikliklerinin gerisinde kalabilir ve ücretsiz seçeneklerden hiçbiri paket profilleri artı SoundDial'nun yaptığı gibi otomatik azaltmanın hiçbiri değildir. Kurulumunuz basitse ve ara sıra meydana gelen kırılmalardan rahatsız olmuyorsanız, ücretsiz bir uygulama yeterli olabilir. Bakımı yapılan, korumalı alana alınmış ve çalışır durumda bir şey istiyorsanız, 14,99 € size tam olarak bunu satın alıyor.</p>
+
+<h2>Hızlı karar kılavuzu</h2>
+<ul>
+<li><strong>Uygulama başına EQ'ya, ses efektlerine ve bir uygulamayı farklı bir çıkış cihazına yönlendirmeye ihtiyacınız var</strong> → SoundSource fiyatına değer. Buradaki hiçbir şey bunun yerini tam olarak alamaz.</li>
+<li><strong>Temel olarak uygulama başına ses düzeyine, ses kapatmaya, yükseltmeye, profillere ve sürücülere ihtiyaç duymadan ses kısmaya ihtiyacınız var</strong> → 14,99€'luk SoundDial daha iyi değere sahip seçimdir.</li>
+<li><strong>Ücretsiz istiyorsun ve bakım riskine aldırış etmiyorsun</strong> → önce Background Music, FineTune veya eqMac'yu deneyin.</li>
+</ul>
+
+<h2>Ayarlama</h2>
+<p>Başlamak yaklaşık bir dakika sürer:</p>
+<ul>
+<li>SoundDial'yu Mac App Store'dan yükleyin; harici indirme gerekmez.</li>
+<li>İlk başlatmada macOS istemlerine ses izni verin.</li>
+<li>Birkaç uygulamada ses çalın ve menü çubuğu simgesini açın; her birinin kendi kaydırıcısını göreceksiniz.</li>
+<li>Seviyeleri ayarlamak için sürükleyin, sessize almak için dokunun veya artırmak için %100'ü geçin.</li>
+<li>Kurulumunuzu bir profil olarak kaydedin ve diğer uygulamaların aramalar veya medya sırasında sessiz kalmasını istiyorsanız otomatik ses kısmayı açın.</li>
+</ul>
+<p>Tüm iş akışı bu kadar; yapılandırma dosyası yok, yeniden başlatma yok, kutlanacak sistem uzantısı yok.</p>
+
+<h2>Sonuç olarak</h2>
+<p>SoundSource daha güçlü bir araçtır, ancak onu arayan çoğu kişi yalnızca uygulama başına uygun hacmi istiyor. SoundDial bunu fiyatının yaklaşık üçte biri karşılığında sağlıyor, App Store aracılığıyla güvenli bir şekilde gönderiliyor ve tek bir sürücü yüklemeye gerek kalmadan profilleri ve otomatik eğilmeyi de ekliyor.</p>
+
+<p>Her uygulamanın sesini bağımsız olarak kontrol etmeye hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> tek seferlik 14,99 € karşılığında.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "Mac için FineTune Alternatifi: Desteklenen Uygulama Başına Ses Düzeyi Karıştırıcısı",
+    description: "Ücretsiz FineTune menü çubuğu uygulamasını denediniz ve bir şeyin bakımının yapılmasını ve App Store güvenli olmasını mı istiyorsunuz? İşte Mac'da uygulama başına ses düzeyi için en iyi FineTune alternatifi.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>FineTune'yu beğendiyseniz ancak güvenilir bir kaynaktan aktif olarak bakımı yapılan ve yüklenen bir şey istiyorsanız, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> en hızlı güvenilir düzeltmedir. Bağımsız ses seviyesi, uygulama başına sessize alma, ses yükseltme, kayıtlı profiller ve otomatik kısma özelliklerine sahip bir Mac App Store menü çubuğu uygulama başına ses karıştırıcısıdır. Apple tarafından incelendi ve korumalı alana alındı; herhangi bir sürücü yüklenmeden maliyeti tek seferde 14,99 Euro'dur.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac için FineTune Alternatifi: Desteklenen Uygulama Başına Ses Düzeyi Karıştırıcısı" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden bir FineTune alternatifi aramalısınız?</h2>
+
+<p>FineTune güzel bir fikir: macOS'da uygulama başına ses kontrolü sağlayan ücretsiz, açık kaynaklı bir menü çubuğu uygulaması, Apple'ın hala geliştirmeyi reddettiği bir şey (Windows'nun yıllardır uygulama başına bir mikseri vardı). Birçok insan için temel işi yapar. Ancak kullanıcıların başka bir şey aramaya başlamasının gerçek nedenleri var.</p>
+
+<ul>
+<li><strong>Bakım belirsizdir.</strong> Açık kaynaklı hobi projeleri, tek bir bakımcının boş zamanlarında yaşar ve ölür. macOS büyük bir güncelleme gönderdiğinde, genellikle ilk bozulan ses ile ilgili uygulamalar oluyor ve siz de hiçbir zaman gelmeyebilecek gönüllü bir düzeltmeyi beklemek zorunda kalıyorsunuz.</li>
+<li><strong>Özellik tavan.</strong> FineTune, uygulama başına hacmi ve bunun dışında pek az şeyi kapsar. %100'ün üzerinde bir artış, kayıtlı profiller veya otomatik eğilme istiyorsanız diğer araçları kullanmanız gerekir.</li>
+<li><strong>Güven ve güncellemeler.</strong> App Store dışında ham bir yapı yüklemek, otomatik incelemenin olmayacağı, sanal alan garantisinin olmayacağı ve manuel güncellemeleri kendiniz takip etmeniz gerektiği anlamına gelir.</li>
+</ul>
+
+<p>Bunların hiçbiri FineTune'yu kötü yapmaz. Bu sadece, her gün uygulama başına sese güveniyorsanız, muhtemelen arkasında destek modeli olan bir şey isteyeceğiniz anlamına gelir.</p>
+
+<h2>SoundDial'nun farklı yaptığı şey nedir?</h2>
+
+<p>SoundDial, çalışan her uygulama için kaydırıcılı bir menü çubuğu karıştırıcısı olan aynı temel fikirden yola çıkıyor ve daha sonra uzman kullanıcıların gerçekten istediği özelliklerle daha da ileri gidiyor.</p>
+
+<ul>
+<li><strong>Uygulama başına bağımsız ses seviyesi.</strong> Tek bir menüden Spotify'yu kısın, aramanızı tam ses seviyesinde tutun, gürültülü bir tarayıcı sekmesi uygulamasını tamamen sessize alın.</li>
+<li><strong>Uygulama başına ses artışı.</strong> Bir podcast veya videonun ana kopyası çok düşük düzeyde olduğunda sessiz bir uygulamayı normal tavanının üzerine itin. FineTune bunu yapmaz.</li>
+<li><strong>Hacim profilleri.</strong> Bir karışımı kaydedin, "odaklayın", "oyun", "toplantılar" yapın ve beş kaydırıcıyı kaydırmak yerine tek tıklamayla tüm kurulumunuzu değiştirin.</li>
+<li><strong>Otomatik eğilme.</strong> Daha önemli bir şey çalmaya başladığında arka plan sesini otomatik olarak azaltın, böylece bir arama geldiğinde müzik kısılır.</li>
+<li><strong>Hızlı çıkış değiştirme.</strong> Sistem Ayarlarına dalmadan hoparlörler, kulaklıklar ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+
+<p>Çünkü <a href="https://apps.apple.com/app/id6772792641">SoundDial, Mac App Store aracılığıyla gönderilir</a>, Apple tarafından incelenir ve korumalı alana alınır, temiz bir şekilde yüklenir ve diğer tüm App Store uygulamalarıyla aynı mekanizma aracılığıyla güncellenir. Sürüklenecek DMG yok, ses sürücüsü veya sistem uzantısı yok ve çekirdek düzeyinde bir bileşene izin vermenizi isteyen bir güvenlik istemi yok.</p>
+
+<h2>SoundDial ve FineTune karşılaştırması ve diğer ücretsiz araçlar</h2>
+
+<p>FineTune tek ücretsiz seçenek değildir ve tüm manzarayı dürüstçe görmenize yardımcı olur.</p>
+
+<ul>
+<li><strong>FineTune</strong> — Ücretsiz, açık kaynaklı, uygulama başına menü çubuğu hacmi. Basit ve hafiftir ancak destek yoktur, profil yoktur, eğilme yoktur ve bakım topluluğa bağlıdır.</li>
+<li><strong>Background Music</strong> — Ücretsiz ve açık kaynaktır; uygulama başına sesi yönlendirir ve ayarlar. Gerçekten kullanışlıdır, ancak daha yeni macOS sürümlerinde bozulabilir ve güçlendirme, profiller ve eğilme özelliklerinden yoksundur.</li>
+<li><strong>eqMac</strong> — Ücretsiz EQ ve sistem güçlendirici. Esas olarak bir ekolayzır istiyorsanız harika, ancak uygulama başına bir karıştırıcı değil.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — Uygulama başına EQ ve çıktı yönlendirmeyle birlikte profesyonel düzeyde seçenek yaklaşık 39 ABD dolarıdır. Mükemmel, ancak bir indirme artı bir ses yakalama sürücüsüne ihtiyacı var ve maliyeti iki katından fazla.</li>
+<li><strong>SoundDial</strong> — Tek seferlik 14,99 €, App Store güvenli, sürücü yok. Uygulama başına ses seviyesi temel özelliklerinin üzerine yükseltme, profiller ve otomatik azaltma özelliklerini ekler.</li>
+</ul>
+
+<p>Dürüst özet: Kesinlikle en ucuz şeyi istiyorsanız ve yalnızca uygulama başına temel hacme ihtiyacınız varsa, ücretsiz araçlar işe yarayabilir. Uygulama başına EQ ve yönlendirme istiyorsanız ve bir sürücüye ödeme yapmayı ve sürücü yüklemeyi sorun etmiyorsanız, SoundSource ağır siklettir. SoundDial tatlı noktada oturuyor, ücretsiz uygulamalardan daha yetenekli, SoundSource'dan önemli ölçüde daha ucuz ve Apple'ın incelemesi ve korumalı alana alması nedeniyle kurulumu her ikisinden de daha güvenli.</p>
+
+<h2>FineTune'dan geçiş</h2>
+
+<p>Geçiş birkaç dakika sürer ve herhangi bir temizleme ritüeli yoktur.</p>
+
+<ul>
+<li>Mac App Store'dan SoundDial'yu yükleyin. Yükleyici yok, sürücü onayı yok, yeniden başlatma yok.</li>
+<li>Çalışan her uygulamaya ilişkin kaydırıcıyı görmek için menü çubuğunuzdaki SoundDial simgesini tıklayın.</li>
+<li>Günlük mix'inizi ayarlayın, ardından profil olarak kaydedin, böylece anında geri çağırabilirsiniz.</li>
+<li>İsteğe bağlı olarak otomatik kısmayı açın, böylece arka plan sesi aramalar ve uyarılar için bir kenara bırakılır.</li>
+<li>Mutlu olduğunuzda FineTune'dan çıkın. Her iki uygulama da sistem sürücülerini yüklemediğinden, kaldırılması gereken hiçbir şey yoktur.</li>
+</ul>
+
+<p>Apple'ın size asla vermediği temiz bir menü çubuğu karıştırıcısı olan FineTune ile ilgili beğendiğiniz şeyleri saklarsınız ve bakımı yapılan bir App Store uygulamasının sağladığı desteği, profilleri, eğilmeyi ve uzun vadeli desteği kazanırsınız.</p>
+
+<h2>Sonuç olarak</h2>
+
+<p>FineTune şu konsepti kanıtlıyor: uygulama başına ses seviyesi menü çubuğuna aittir. SoundDial, gerçek bir destek modeli, daha fazla özellik ve App Store güvenliği ile bu konseptin neye benzediğine benziyor; gönüllü bakım üzerine bahis yerine tek seferlik 14,99 € karşılığında.</p>
+
+<p>Bakımlı kalan uygulama başına bir karıştırıcıya hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve her uygulamanın ses seviyesini saniyeler içinde kontrol edin.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "Mac'da Gerçek Uygulama Başına Hacim için eqMac Alternatifi",
+    description: "eqMac'nun güçlendirmesini beğendiniz ancak uygulama başına uygun ses düzeyine, sessize ve profillere mi ihtiyacınız var? SoundDial, en hızlı Mac App Store düzeltmesidir — 14,99 €, korumalı alanda, sürücü yok.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>EQ ve ses yükseltici için eqMac'yu kullandıysanız ancak her uygulama için gerçekten bağımsız ses düzeyine ek olarak sessize alma, yükseltme ve kaydedilmiş profiller istiyorsanız, en hızlı ve güvenilir çözüm şudur: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Bu bir Mac App Store menü çubuğu karıştırıcısıdır: Uygulama başına bir seviye belirleyin, sessiz olanları artırın ve profilleri anında değiştirin. €14,99 tek seferlik, korumalı alanda, yüklenecek sürücü yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Gerçek Uygulama Başına Hacim için eqMac Alternatifi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac ve gerçekte ihtiyacınız olan şey</h2>
+
+<p>eqMac sağlam ve ücretsiz bir araçtır ve sistem çapındaki ekolayzırı ve ses yükselticisi gerçekten kullanışlıdır. Ancak eqMac, bir ana EQ ve bir ana çıkış etrafında oluşturulmuştur. Size gerçek bir uygulama başına ses karıştırıcısı sağlamaz - Windows'nun yıllardır sahip olduğu bir şey ve macOS hala yerel olarak gönderilmiyor.</p>
+
+<p>Yani asıl sorununuz "Spotify görüşme sırasında çok yüksek ses çıkarıyor" veya "bu oyun kulaklarımı patlatıyor ama diğer her şey yolunda" ise eqMac bu iş için doğru şekil değil. Sonunda tek bir ana kaydırıcıyı kullanmak veya her uygulamanın dahili ses düzeyiyle uğraşmak zorunda kalırsınız. SoundDial'nun doldurduğu boşluk budur.</p>
+
+<h2>SoundDial'nun yaptığı ama eqMac'nun yapmadığı şey</h2>
+
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — Müzik %40'ta, tarayıcı %100'de, görüntülü görüşme %70'te, hepsi aynı anda hatırlanıyor.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü bir uygulamayı başka hiçbir şeye dokunmadan anında susturun.</li>
+<li><strong>Uygulama başına artış</strong> — eqMac'nun güçlendiricisinin yaptığı gibi sessiz bir uygulamayı normal tavanının ötesine itin, ancak tüm sistem yerine tek bir uygulamayı hedefleyin.</li>
+<li><strong>Hacim profilleri</strong> — "Odaklanma", "Oyun" veya "Toplantı" gibi ayarları kaydedin ve tek tıklamayla tüm karışımı değiştirin.</li>
+<li><strong>Otomatik eğilme</strong> — daha önemli bir şey başladığında arka plan sesini otomatik olarak keser, böylece aramanın ortasında kaydırıcıyı bulmaya çalışmazsınız.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — menü çubuğundan hoparlörler, kulaklıklar ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+
+<p>eqMac ile örtüşme temel olarak artıştır. Diğer her şey (mikser, ses kapatma, profiller, eğilme) eqMac'nun hiçbir zaman kapsamak üzere tasarlanmadığı bir alandır.</p>
+
+<h2>Hala EQ'yu istiyor musun?</h2>
+
+<p>Hangi sorunu çözdüğünüz konusunda dürüst olun. Gerçekten frekans EQ'ya ihtiyacınız varsa (basları kesmek, sert tizleri yumuşatmak, tüm sisteminizin tonunu şekillendirmek), o zaman eqMac'nun hala bir yeri var ve ücretsizdir. SoundDial bir ekolayzır değil, bir ses karıştırıcısıdır.</p>
+
+<p>Ancak çoğu kişi eqMac'nun güçlendiricisine frekansları şekillendirmek istedikleri için değil, bir uygulamanın daha yüksek ses çıkarmasını veya miksajın dengeli olmasını istedikleri için ulaşıyor. Eğer bu sizseniz, özel bir mikser daha temiz bir cevaptır. Hatta her ikisini de çalıştırabilirsiniz: eqMac'yu sistem çapında bir EQ eğrisi için tutun ve uygulama başına seviyeler için SoundDial'yu kullanın. Aynı iş için kavga etmiyorlar.</p>
+
+<h2>Diğer Mac ses araçlarıyla karşılaştırması</h2>
+
+<p>Zaten alet avcılığı yaptığınıza göre, işte dürüst manzara:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - uygulama başına EQ ve tam çıktı yönlendirme ile profesyonel düzeyde seçenek yaklaşık 39 ABD dolarıdır. Güçlüdür ancak doğrudan indirilmesi gerekir ve bir ses yakalama sürücüsü yüklenir. Tek istediğiniz profillerle birlikte uygulama başına hacimse, fazladan ve daha pahalıdır.</li>
+<li><strong>Background Music</strong> — ücretsiz ve açık kaynak, ancak daha yeni macOS sürümlerinde bozulabilir ve güçlendirme, profil ve otomatik azaltma özelliği yoktur. İşe yaradığında harika, çalışmadığında sinir bozucu.</li>
+<li><strong>FineTune</strong> — ücretsiz, açık kaynaklı bir menü çubuğu uygulaması. Özellikler ve cila açısından daha hafif olsa da, zor gereksinim 0 $ ise bir göz atmaya değer.</li>
+<li><strong>eqMac</strong> — ücretsiz EQ artı güçlendirici, ancak yukarıda anlatıldığı gibi gerçek uygulama başına karıştırıcı yok.</li>
+</ul>
+
+<p>SoundDial tatlı noktada oturuyor: SoundSource'dan daha odaklanmış ve daha ucuz, ücretsiz seçeneklerden daha yetenekli ve daha güvenilir ve eqMac'nun yapmadığı uygulama başına işi yapıyor.</p>
+
+<h2>Mac App Store neden burada önemli?</h2>
+
+<p>Bu araçların birçoğu doğrudan indirmeyi ve çekirdek düzeyinde veya yakalama ses sürücüsünü gerektirir. Bunlar işe yarıyor, ancak bir macOS güncellemesine takılabilecek veya kilitli bir Mac çalışmasına takılıp düşebilecek türden şeyler.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> bunun yerine Mac App Store aracılığıyla gönderilir. Bu, uygulamanın Apple tarafından incelendiği ve korumalı alana alındığı, DMG sürüklenmeden temiz bir şekilde yüklendiği ve onaylanacak ses sürücüsü veya sistem uzantısı olmadığı anlamına gelir. Güncellemeler diğer uygulamalar gibi App Store üzerinden gelir ve kaldırma işlemi normal bir silme işlemidir. Sesinize dokunan bir menü çubuğu yardımcı programı için bu daha düşük sürtünmeli, daha düşük riskli yol çok değerlidir.</p>
+
+<h2>Hızlı kurulum</h2>
+
+<ul>
+<li>SoundDial'yu Mac App Store'dan yükleyin; yeniden başlatma yok, sürücü istemi yok.</li>
+<li>Menü çubuğu simgesini açın; şu anda ses çıkaran her uygulama kendi kaydırıcısıyla görünür.</li>
+<li>Seviyeleri ayarlayın, ihtiyacınız olmayan şeyleri sessize alın ve çok sessiz olan her şeyi yükseltin.</li>
+<li>Düzenlemeyi bir profil olarak kaydedin, ardından oyun oynamak, arama yapmak veya odaklanmak için daha fazlasını oluşturun.</li>
+<li>Arka plan sesinin otomatik olarak kenara çekilmesi için otomatik kısmayı açın.</li>
+</ul>
+
+<p>Bütün döngü bu. Birkaç dakika içinde eqMac'nun güçlendiricisinin yalnızca ima ettiği uygulama başına kontrole sahip olursunuz.</p>
+
+<p><strong>Mac cihazınızda gerçek uygulama başına ses düzeyine hazır mısınız?</strong> <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — 14,99 € tek seferlik, korumalı alana alınmış, sürücü yok ve bir menü çubuğu karıştırıcısının yapması gerekeni tam olarak yapıyor.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "2026'da Mac için En Ucuz İyi Hacimli Mikser",
+    description: "2026'da Mac için en ucuz, iyi uygulama başına ses karıştırıcıyı mı arıyorsunuz? Fiyat, güvenlik ve özellikler açısından SoundDial, SoundSource, Background Music, FineTune ve eqMac'yu karşılaştırın.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>2026'da Mac için uygulama başına en iyi değere sahip ses karıştırıcısı: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>Mac App Store'da tek seferlik 14,99 € karşılığında bir menü çubuğu uygulaması. Her uygulamaya kendi ses kaydırıcısının yanı sıra sessize alma, yükseltme, profiller ve otomatik kısma özelliği sunar; sürücü yok, abonelik yok ve riskli indirmeler yok. Gerçekten güvenilir bir şekilde çalışan en ucuz ücretli seçenektir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 2026&#x27;da Mac için En Ucuz İyi Hacimli Mikser" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden "en ucuz"un bir tanıma ihtiyacı var?</h2>
+<p>Mac için ücretsiz hacim araçları mevcut, dolayısıyla tek hedef sıfır harcamaksa seçenekleriniz var. Ancak ücretsizin maliyeti genellikle başka bir yere mal olur: yeni macOS sürümlerindeki kırılganlık, güçlendirme veya profiller gibi eksik özellikler veya güvenmeniz gereken bir ses yakalama sürücüsünü içeren bir yükleme işlemi. "En ucuz ürün", kullanmaya devam edeceğiniz istikrarlı, tam özellikli bir mikser almanızı sağlayacak en düşük fiyat anlamına gelir. Burada kullanacağımız lens bu.</p>
+
+<h2>İlk olarak, macOS'nun yapmadığı şey</h2>
+<p>Windows yıllardır uygulama başına ses karıştırıcıya sahiptir; hoparlör simgesine sağ tıklayın ve her uygulamayı bağımsız olarak ayarlayın. macOS'da hala yerleşik olarak eşdeğer bir şey yok. Bir ana birim ve bir uygulamanın gönderdiği dahili kaydırıcıyı alırsınız (Müzik, bazı tarayıcılar). Slack'yu Spotify'dan daha sessiz hale getirmenin veya sessiz bir video görüşmesini her şeyin ötesinde güçlendirmenin sistem çapında bir yolu yoktur. Aşağıdaki her seçenek bu boşluğu doldurmak için mevcuttur.</p>
+
+<h2>Yarışmacılar dürüstçe fiyatlandırıldı</h2>
+
+<h2>SoundDial — 14,99 €, tek seferlik</h2>
+<p>SoundDial, menü çubuğunuzda bulunur ve çalışan her uygulamaya bağımsız bir ses düzeyi kaydırıcısı sağlar. Temel özelliklerin ötesinde, insanların gerçekten aradığı özellikleri de ekler:</p>
+<ul>
+<li><strong>Uygulama başına artış</strong> — Çok sessiz bir uygulamayı duymaya zorlamak yerine %100'ün üzerine çıkarın.</li>
+<li><strong>Uygulama başına sessize alma</strong> — geri kalanına dokunmadan bir uygulamayı susturun.</li>
+<li><strong>Hacim profilleri</strong> — bir "iş görüşmesi" veya "film gecesi" karışımını kaydedin ve anında geri çağırın.</li>
+<li><strong>Otomatik eğilme</strong> — daha önemli bir şey çalındığında arka plan sesini otomatik olarak keser.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapın.</li>
+</ul>
+<p>Çünkü Mac App Store üzerindedir, korumalı alandadır, Apple tarafından incelenir ve temiz bir şekilde kurulur; DMG yok, çekirdek uzantısı yok, onaylanacak ses sürücüsü yok. Sen öde <a href="https://apps.apple.com/app/id6772792641">€14,99 bir kez</a> ve ona sahip ol. Çoğu insan için bu en tatlı noktadır: kolay bir evet olacak kadar ucuz, büyüyemeyeceğiniz kadar eksiksiz.</p>
+
+<h2>SoundSource – ~39 $, profesyonel seçenek</h2>
+<p>Rogue Amoeba'nun SoundSource'su uzman kullanıcılar için altın standarttır. Uygulama başına ses seviyesini ayarlar ve SoundDial gibi sessize alır, ancak uygulama başına ekolayzırlarla ve tam çıkış yönlendirmeyle daha da ileri gider (bir uygulamayı kulaklığa, diğerini hoparlörlere gönderir). Gerçekten mükemmel - ancak kabaca 39 dolar ve izin vermeniz gereken bir ses yakalama bileşeniyle App Store'nun dışına kuruluyor. Uygulama başına EQ'ya veya karmaşık yönlendirmeye ihtiyacınız varsa, buna değer. Yalnızca temiz, ucuz bir mikser istiyorsanız asla dokunamayacağınız yetenekler için para ödüyorsunuz.</p>
+
+<h2>Background Music — ücretsiz, açık kaynak</h2>
+<p>Background Music, uygulama başına ses seviyesi ve otomatik duraklatma sunan, iyi bilinen ücretsiz, açık kaynaklı bir uygulamadır. İşin püf noktası: Sanal bir sürücü aracılığıyla Core Audio'ya derinlemesine bağlanıyor ve yeni macOS sürümlerinde kırılma konusunda uzun bir geçmişe sahip, bazen güncellemelerden sonra manuel düzeltmelere veya yeniden yüklemeye ihtiyaç duyuyor. Ayrıca güçlendirme, kaydedilmiş profiller ve otomatik eğilme gibi özelliklerden de yoksundur. Bakımı dert etmeyen tamirciler için harika; sadece çalışmasını istiyorsanız sinir bozucu.</p>
+
+<h2>FineTune — ücretsiz, menü çubuğu</h2>
+<p>FineTune ücretsiz, açık kaynaklı bir menü çubuğu ses düzeyi uygulamasıdır. Hafif ve hoştur ve uygulama başına basit ayarlamalar için yeterli olabilir. Ancak küçük ve ücretsiz bir proje olduğundan özellik derinliğiyle eşleşmiyor; profil yok, otomatik azaltma yok ve yükseltme/çıktı işlemleri sınırlı. Sıfır maliyet, uzun ömür ve destek konusunda daha az garanti.</p>
+
+<h2>eqMac — ücretsiz, EQ + güçlendirici</h2>
+<p>eqMac, ses yükselticiye sahip, sistem çapında ücretsiz bir ekolayzırdır. Bu, tek tek uygulamaları karıştırmaktan ziyade Mac'nuzun tamamında tonu ve ses yüksekliğini şekillendirmekle ilgilidir, dolayısıyla farklı bir iş için farklı bir araçtır. Özellikle uygulama başına kontrol istiyorsanız, eqMac gerçekten cevap değil, ancak iyi bir ücretsiz EQ.</p>
+
+<h2>Fiyat ve değer: dürüst tablo</h2>
+<ul>
+<li><strong>Gerçekten ücretsiz, ancak bazı ödünler var:</strong> Background Music (kırılgan, sürücü tabanlı), FineTune (ince özellikler), eqMac (EQ, mikser değil).</li>
+<li><strong>En ucuz tam ücretli uygulama:</strong> 14,99 € fiyatla SoundDial — güçlendirme, profiller, eğilme, App Store güvenliği.</li>
+<li><strong>Premium/profesyonel:</strong> SoundSource ~39$ — EQ ve yönlendirme, App Store dışı kurulum.</li>
+</ul>
+<p>Başka bir deyişle: SoundDial, SoundSource'nun kabaca üçte birine mal oluyor ve insanların %90'ının gerçekten istediği özellikleri karşılıyor. Ve ücretsiz seçeneklerin aksine, macOS güncellemesinden sonra sessizce bozulmaz çünkü sistem düzeyinde hassas bir ses sürücüsüne bağlı değildir.</p>
+
+<h2>Hangisini seçmelisiniz?</h2>
+<p>Uygulama başına EQ'ya ihtiyaç duyan ve uygulamaları farklı çıkışlara yönlendirmek isteyen bir profesyonelseniz SoundSource satın alın; fiyatının karşılığını verir. Açık kaynağı seviyorsanız ve ara sıra meydana gelebilecek kesintileri sorun etmiyorsanız Background Music veya FineTune'yu ücretsiz deneyin. Ancak App Store'dan güvenli bir şekilde yüklenen bağımsız ses seviyesi, yükseltme, sessize alma, kaydedilebilir profiller ve otomatik azaltma gibi işe yarayan en ucuz seçeneği istiyorsanız, SoundDial 2026'nın açık değer kazananıdır.</p>
+
+<blockquote>En iyi mikser, en çok özelliğe sahip olan veya en düşük fiyata sahip olan değil; bir kez kurup unutduğunuz mikserdir. 14,99 € fiyatıyla SoundDial bunu kolay bir arama haline getiriyor.</blockquote>
+
+<p>Her uygulamaya kendi hacmini vermeye hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> tek seferlik 14,99 € karşılığında — abonelik yok, sürücü yok, risk yok.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Mac için Windows Ses Düzeyi Karıştırıcısı: Uygulama Başına Ses Kontrolü Alın",
+    description: "Mac cihazınızda Windows Ses Düzeyi Karıştırıcısını mı kaçırdınız? macOS'nun uygulama başına yerleşik ses kontrolü yoktur. İşte bunu elde etmenin en hızlı yolu: SoundDial, 14,99 €'luk bir menü çubuğu karıştırıcısı.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'da Windows gibi yerleşik Ses Düzeyi Karıştırıcısı bulunmadığından uygulama başına ses düzeyini Sistem Ayarlarından ayarlayamazsınız. En hızlı ve güvenilir düzeltme <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store'dan 14,99 €'luk bir menü çubuğu uygulaması. Her uygulamaya kendi ses kaydırıcısını, sessize alma ve yükseltme özelliğini sunar; sürücü yok, DMG yok, riskli kurulum yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac için Windows Ses Düzeyi Karıştırıcısı: Uygulama Başına Ses Kontrolü Alın" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Windows Volume Mixer'ın neden Mac eşdeğeri yok?</h2>
+
+<p>Windows'dan geçiş yaptıysanız kaçıracağınız ilk şeylerden biri Ses Düzeyi Karıştırıcısıdır: hoparlör simgesine sağ tıklayın; çalışan her uygulamanın kendi kaydırıcısı olur. Chrome'yu kısın, Discord'yu yüksek sesle tutun, Spotify'yu sessize alın — hepsi tek bir yerde.</p>
+
+<p>macOS bunu göndermiyor. Apple'ın ses kontrolü, sistem genelinde tek bir kaydırıcıdır. Hangi seviyeyi belirlerseniz aynı anda her şeye uygulanır. Sistem Ayarlarında gizli uygulama başına seçenek yok, Terminal komutu yok, erişilebilirlik geçişi yok. Bu gerçek bir boşluk ve yıllardır bu böyle.</p>
+
+<p>Bunun nedeni mimaridir: uygulamalar, sesi Core Audio aracılığıyla çıkış cihazınıza yönlendirir ve işletim sistemi, bireysel akışlar için kullanıcıya yönelik bir mikser göstermez. Windows deneyimini yeniden yaratmak için bu ses yolunda yer alan ve Apple'ın dışarıda bıraktığı kontrolleri size sağlayan üçüncü taraf bir uygulamaya ihtiyacınız var.</p>
+
+<h2>En yakın eşleşme: SoundDial</h2>
+
+<p>SoundDial, bunun için özel olarak tasarlanmış, uygulama başına bir menü çubuğu ses karıştırıcısıdır. Simgesine tıkladığınızda, her biri kendi kaydırıcısına sahip, ses çalan her şeyin temiz bir listesini alırsınız. Bu, kurabileceğiniz en doğrudan "Mac için Windows Ses Düzeyi Karıştırıcısıdır" ve Windows karıştırıcının asla yapamayacağı birkaç şeyi yapar:</p>
+
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — temel özellik. Chrome'yu %40'a, Zoom'yu %100'e, müziği %20'ye ayarlayın.</li>
+<li><strong>Uygulama başına sessize alma</strong> — geri kalanına dokunmadan bir uygulamayı susturun.</li>
+<li><strong>Uygulama başına ses artırma</strong> — sessiz bir uygulamaya basın <em>yukarıda</em> Kendi sesi çok düşük olduğunda %100.</li>
+<li><strong>Hacim profilleri</strong> — bir karışımı kaydedin (ör. "iş görüşmesi" veya "oyun") ve kaydırıcıları yeniden sürüklemek yerine anında geri çağırın.</li>
+<li><strong>Otomatik eğilme</strong> — çağrı gibi daha önemli bir şey başladığında arka plan sesini otomatik olarak azaltır.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapın.</li>
+</ul>
+
+<p>Çünkü üzerinde <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, Apple tarafından incelendi ve korumalı alana alındı. Tek tıklamayla temiz bir şekilde yüklenir; sürüklenecek DMG yok, onaylanacak ses sürücüsü veya sistem uzantısı yok, güvenlik istemi yok. Tek seferlik 14,99 € (abonelik yok) fiyatıyla aradaki farkı kapatmanın en basit yoludur.</p>
+
+<h2>Mac cihazınızda uygulama başına ses düzeyi nasıl ayarlanır?</h2>
+
+<ol>
+<li>Mac App Store'dan SoundDial'yu yükleyin.</li>
+<li>İlk başlatmada istediği tek seferlik ses iznini verin.</li>
+<li>Menü çubuğunuzdaki SoundDial simgesine tıklayın.</li>
+<li>Herhangi bir uygulamanın ses seviyesini ayarlamak için kaydırıcıyı uygulamanın yanına sürükleyin veya sessize alma/güçlendirmeye basın.</li>
+<li>İsteğe bağlı olarak, daha sonra geri yükleyebilmek için mevcut karışımı profil olarak kaydedin.</li>
+</ol>
+
+<p>Bütün iş akışı bu kadar. Görev çubuğuna sağ tıklamak yerine, yalnızca menü çubuğundan, zaten bildiğiniz Windows karıştırıcı gibi davranır.</p>
+
+<h2>SoundDial'nun diğer seçeneklerle karşılaştırılması</h2>
+
+<p>SoundDial bu alandaki tek araç değil, bu yüzden alternatiflere dürüst bir bakış sunuyoruz.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — 39 dolar civarında ve gerçekten profesyonel düzeyde: uygulama başına EQ, uygulama başına çıktı yönlendirme, efektler. Ancak doğrudan indirme artı bir ses yakalama sürücüsü gerektirir ve yalnızca uygulama başına ses seviyesi istiyorsanız bu aşırıya kaçar (ve daha pahalıdır). EQ ve yönlendirmeye ihtiyacınız varsa bunu seçin; Mikserin karmaşıklık veya sürücü olmadan olmasını istiyorsanız SoundDial'yu seçin.</li>
+<li><strong>Background Music</strong> — ücretsiz ve açık kaynak, bu harika. İşin püf noktası: daha yeni macOS sürümlerinde bozulabilir ve güçlendirme, kayıtlı profiller ve otomatik azaltma gibi özelliklerden yoksundur. Açık kaynaklı ses sürücülerinde sorun giderme konusunda rahatsanız sorun değil; İşe yarayan bir şey istiyorsanız daha az idealdir.</li>
+<li><strong>FineTune</strong> — ücretsiz, açık kaynaklı bir menü çubuğu uygulaması. Önceliğiniz bütçe ise hafiftir ve göz atmaya değer, ancak cila, profil ve App Store güvenliğini ücretsiz olarak takas ediyorsunuz.</li>
+<li><strong>eqMac</strong> — ücretsiz bir EQ ve sistem çapında güçlendirici. Bu, uygulama başına bir karıştırıcı değil, öncelikle bir ekolayzırdır, bu nedenle farklı bir sorunu çözer.</li>
+</ul>
+
+<p>Takas basittir. Ücretsiz araçların hiçbir maliyeti yoktur ancak kırılgan veya ince özelliklere sahip olabilir. SoundSource güçlü ancak pahalı ve sürücü tabanlıdır. SoundDial tatlı noktada oturuyor: tek seferlik 14,99 €, App Store güvenlik ve korumalı alan ve ücretsiz seçeneklerin atladığı profiller + otomatik azaltma.</p>
+
+<blockquote>İstediğiniz tek şey Windows Volume Mixer deneyimiyse (uygulama başına kaydırıcılar, sessize alma ve güçlendirme, saniyeler içinde güvenli bir şekilde kurulur) SoundDial en doğrudan eşleşmedir.</blockquote>
+
+<h2>Sonuç olarak</h2>
+
+<p>macOS size bir Ses Mikseri vermeyecektir ve muhtemelen hiçbir zaman da vermeyecektir. Ancak sistem çapında tek bir kaydırıcıyla yaşamak zorunda değilsiniz. Özel bir menü çubuğu karıştırıcısı, Windows'da sahip olduğunuz uygulama başına kontrolü geri yükler ve üstüne güçlendirme, profiller ve otomatik azaltma ekler.</p>
+
+<p>Uygulama başına hacmi kolay yoldan elde etmeye hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> 14,99 € karşılığında — tek seferlik, korumalı alana alınır ve saniyeler içinde kurulur.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Mac Cihazınızda Uygulama Sesini Windows'nun Yaptığı Gibi Ayarlayın",
+    description: "Windows'nun uygulama başına ses karıştırıcısı vardır, ancak macOS'da yoktur. Mac cihazınızdaki her uygulama için bağımsız ses düzeyini hızlı, güvenli ve sürücüsüz olarak nasıl ayarlayacağınız aşağıda açıklanmıştır.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'da Windows'daki gibi yerleşik uygulama başına ses karıştırıcısı yoktur, bu nedenle en hızlı ve güvenilir düzeltme <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>Mac App Store menü çubuğu uygulaması, her uygulamaya kendi ses düzeyi kaydırıcısını, uygulama başına sessize alma özelliğini ve ses düzeyini yükseltme olanağı sağlar. Korumalı alandadır, Apple tarafından incelenir, sürücüsüz kurulur ve tek seferlik fiyatı 14,99 €'dur.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Cihazınızda Uygulama Sesini Windows&#x27;nun Yaptığı Gibi Ayarlayın" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden Windows bunu yapabiliyor da macOS yapamıyor?</h2>
+<p>Windows kullandıysanız, işlemi biliyorsunuzdur: Hoparlör simgesine sağ tıklayın, Ses Düzeyi Karıştırıcısı'nı açın ve Chrome, Spotify, Discord ve ses çıkaran diğer her şey için ayrı bir kaydırıcıyı sürükleyin. Çok basit ve işe yarıyor.</p>
+<p>macOS asla eşdeğerini göndermedi. Apple'ın ses kontrolleri globaldir; tüm sistem için tek bir ana ses düzeyi. Bir uygulamanın içindeki kaynağın sesini kapatarak bir uygulamayı sessize alabilirsiniz (hatta bir kontrolü varsa), ancak "toplantım %100'de kalırken müziğimi %40'ta tut" diyecek birleşik bir yer yoktur. Bu boşluk tam olarak üçüncü taraf karıştırıcıların var olmasının nedenidir.</p>
+
+<h2>En hızlı çözüm: menü çubuğu karıştırıcısı</h2>
+<p>Windows deneyimine en yakın eşleşme, çalışan ses uygulamalarınızı listeleyen ve her birine bir kaydırıcı veren bir menü çubuğu uygulamasıdır. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tam da bunu yapıyor. Menü çubuğundaki simgesini tıkladığınızda şunları elde edersiniz:</p>
+<ul>
+<li><strong>Her uygulama için bağımsız ses düzeyi</strong> — çağrınıza dokunmadan Spotify'yu aşağı sürükleyin.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü bir uygulamayı anında susturun, gerisini oynatmaya bırakın.</li>
+<li><strong>Uygulama başına ses artırma</strong> — çok sessiz bir uygulamayı çalıştırın <em>yukarıda</em> Kendi maksimum değeri hala çok yumuşak olduğunda %100.</li>
+<li><strong>Hacim profilleri</strong> — bir "İş" veya "Oyun" karışımını kaydedin ve tek tıklamayla geri çağırın.</li>
+<li><strong>Otomatik eğilme</strong> — daha önemli bir şey başladığında arka plan sesini otomatik olarak azaltır.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+<p>Çünkü Mac App Store'dadır, korumalı alana alınır ve Apple tarafından incelenir, temiz bir şekilde kurulur ve sürüklenecek bir DMG, çekirdek uzantısı ve Sistem Ayarlarında onaylanacak bir ses sürücüsü yoktur. Bu son kısım göründüğünden daha önemli; sürücü tabanlı araçlar macOS güncellemelerinden sonra bozulan araçlardır.</p>
+
+<h2>Nasıl kurulur (yaklaşık iki dakika)</h2>
+<ul>
+<li><strong>1.</strong> Mac App Store'dan SoundDial'yu yükleyin ve başlatın.</li>
+<li><strong>2.</strong> macOS'nun istediği ses iznini verin; bu, uygulamanın uygulama başına akışları görmesini sağlayan şeydir.</li>
+<li><strong>3.</strong> Menü çubuğunuzdaki SoundDial simgesine tıklayın. Şu anda ses çalan her uygulama kendi kaydırıcısıyla görünür.</li>
+<li><strong>4.</strong> Seviyesini ayarlamak için herhangi bir uygulamanın kaydırıcısını sürükleyin veya sessize alın. Bir uygulama çok sessiz olduğunda %100'ün üzerine çıkın.</li>
+<li><strong>5.</strong> (İsteğe bağlı) Mevcut karışımınızı daha sonra geri yükleyebilmek için profil olarak kaydedin ve arka plan sesinin otomatik olarak kesilmesini istiyorsanız otomatik ses kısmayı açın.</li>
+</ul>
+<p>Bütün iş akışı bu kadar. Kurulum sürtünmesi hariç, zaten bildiğiniz Windows Hacim Karıştırıcı gibi davranır.</p>
+
+<h2>Ücretsiz ve profesyonel alternatifler ne olacak?</h2>
+<p>Mac'da uygulama başına ses düzeyi elde etmenin başka yolları da var. Dürüstçe seçim yapabilmeniz için bunları bilmeye değer.</p>
+<blockquote>Ücretsiz araçlar, güvenilirlik ve özellikler karşılığında para değiştirir; profesyonel araçlar, ihtiyacınız olmayabilecek derinlik için para ve kurulum ticareti yapar.</blockquote>
+<p><strong>Background Music</strong> ücretsiz ve açık kaynaklıdır ve uygulama başına hacim sağlar. İşin püf noktası: Ses sisteminin derinliklerine bağlanır ve daha yeni macOS sürümlerinde kırılma geçmişine sahiptir ve güçlendirme, profiller ve otomatik azaltmadan yoksundur. Kurulumunuzda işe yararsa harika, ancak yükseltmeler arasında bu bir kumardır.</p>
+<p><strong>FineTune</strong> SoundDial ile aynı ruhu taşıyan ücretsiz, açık kaynaklı bir menü çubuğu uygulamasıdır. Profiller ve cilasız bir topluluk projesi olsa da, tek endişeniz bütçe ise bu iyi bir başlangıç ​​noktasıdır.</p>
+<p><strong>eqMac</strong> sistem çapında ücretsiz bir EQ ve güçlendiricidir. Genel sesi şekillendirmek için harikadır, ancak gerçek bir uygulama başına mikser değildir; bireysel uygulamaları değil, tüm çıkışı ayarlarsınız.</p>
+<p><strong>SoundSource</strong> Rogue Amoeba (yaklaşık 39 $) profesyonel düzeyde bir seçenektir: uygulama başına EQ, uygulama başına çıkış yönlendirme ve ciddi ses mühendisliği özellikleri. Mükemmel - ancak doğrudan indirilmesi ve bir ses yakalama bileşeninin kurulması gerekiyor ve SoundDial'nun maliyetinin iki katından fazlaya mal oluyor. Stüdyo düzeyinde yönlendirme ve EQ istiyorsanız, seçim budur. Sadece Windows tarzı mikseri istiyorsanız, bu çok fazla.</p>
+
+<h2>Hangisini almalısınız?</h2>
+<p>Amacınız indirmeler, sürücüler veya risk olmadan "Mac cihazımın Windows Volume Mixer gibi çalışmasını sağlamak" ise SoundDial en temiz yanıttır. Abonelik olmadan tek seferlik 14,99 € karşılığında uygulama başına ses seviyesi, sessize alma, yükseltme, profiller ve otomatik azaltma özelliklerine sahip olursunuz; bunların tümü App Store güvenlidir. Bunun yerine yalnızca özellikle uygulama başına EQ ve çıkış yönlendirmeye ihtiyacınız varsa SoundSource'yu seçin ve macOS güncellemelerinde sorun giderme konusunda rahatsanız ücretsiz seçenekleri deneyin.</p>
+
+<p><strong>Her uygulamaya kendi hacmini vermeye hazır mısınız?</strong> <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve ilk karışımınızı yaklaşık iki dakika içinde hazırlayın.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "İşitme Güçlüğü Çekenlerin Dinlemesi için Mac Cihazınızın Sesini Nasıl Yükseltebilirsiniz?",
+    description: "Maksimum ses seviyesinde bile Mac'nuzu duymakta zorlanıyor musunuz? SoundDial ve yerleşik ipuçları da dahil olmak üzere, işitme güçlüğü çeken kişiler için sesi uygulama başına nasıl artırıp netleştireceğinizi öğrenin.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Mac'nuzun sesi maksimum ses seviyesinde bile yeterince yüksek değilse, en hızlı ve güvenilir çözüm <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, herhangi bir uygulamayı %100'ün üzerine çıkarmanıza ve diğer her şeyi sessize almanıza olanak tanıyan bir Mac App Store menü çubuğu karıştırıcısıdır. Bu, tüm sisteminizi çalıştırmadan FaceTime'dan, videodan veya bir film oynatıcısından daha yüksek, daha net konuşma anlamına gelir. Tek seferlik 14,99€.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — İşitme Güçlüğü Çekenlerin Dinlemesi için Mac&#x27;nuzun Sesini Nasıl Yükseltebilirsiniz?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ses kaydırıcısını maksimuma çıkarmak neden hâlâ yeterli değil?</h2>
+<p>İşitme güçlüğü çeken dinleyiciler için macOS ses düzeyi kaydırıcısının sinir bozucu iki sınırı vardır. İlk olarak, uygulamanın çıktısının %100'üyle sınırlıdır. Bir podcast, video veya çağrı sessizce kaydedilmişse "tam ses" hâlâ çok yumuşaktır. İkincisi, macOS'nun yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'da yıllardır bir tane var ancak Mac'da her uygulama tek bir ana seviyeyi paylaşıyor. Yani yumuşak bir ses duymak için her şeyin sesini açtığınızda, arka plan müziği ve bildirim sesleri de rahatsız edici derecede yüksek çıkıyor.</p>
+<p>Aslında ihtiyacınız olan şey yapma yeteneğidir <em>bir</em> Uygulamanın sesini diğerlerinden daha yüksek hale getirin, normal tavanının ötesine taşıyın ve rakip sesleri keserek konuşmanın öne çıkmasını sağlayın. Bu araçların doldurduğu boşluk tam olarak budur.</p>
+
+<h2>Öncelikle ücretsiz macOS erişilebilirlik ayarlarını kullanın</h2>
+<p>Herhangi bir uygulamayı eklemeden önce macOS'nun halihazırda sunduklarını ayarlamaya değer. Bunlar netliğe yardımcı olur, ancak ham ses yüksekliği eklemezler:</p>
+<ul>
+<li><strong>Mono ses:</strong> Sistem Ayarları &rarr; Erişilebilirlik &rarr; Ses, "Stereo sesi mono olarak çal" seçeneğini açın. Bir kulağınızda daha güçlü işitme varsa bu, her ikisine de tam sinyal gönderir, böylece diyaloğun yarısını kaybetmezsiniz.</li>
+<li><strong>Denge ayarı:</strong> Sistem Ayarları &rarr; Ses'te, sol/sağ dengesini daha güçlü kulağınıza doğru sürükleyin.</li>
+<li><strong>Arka plan seslerini azaltın:</strong> Buna izin veren uygulamalarda müziği ve ambiyansı azaltın, böylece sesler film müziğiyle mücadele etmez.</li>
+<li><strong>Kulaklık konaklama yerleri:</strong> AirPods veya Beats kullanıyorsanız, Sistem Ayarları &rarr; Erişilebilirlik &rarr; Ses &rarr; Kulaklık Uyumluluğu, yumuşak sesleri yükseltebilir ve konuşmaya göre ayarlayabilir.</li>
+</ul>
+<p>Bunlar gerçekten faydalıdır ve hiçbir maliyeti yoktur. Ancak hiçbiri tek bir sessiz uygulama yapmıyor <em>%100'den daha yüksek ses</em>ve genellikle asıl sorun da budur.</p>
+
+<h2>SoundDial ile bir uygulamayı %100'ün üzerine çıkarma</h2>
+<p>SoundDial menü çubuğunuzda bulunur ve o anda ses çalan her uygulama için bir kaydırıcı gösterir. İşitme güçlüğü çeken kişiler için en çok yardımcı olan iş akışı aşağıda verilmiştir:</p>
+<ul>
+<li><strong>Dinlediğiniz uygulamayı güçlendirin.</strong> Sessiz bir video görüşmesini veya podcast'i uygulamanın kendi başına izin verdiğinin ötesine taşımak için kaydırıcıyı %100'ün üzerine sürükleyin.</li>
+<li><strong>Diğer her şeyi sessize alın veya azaltın.</strong> Müziği, tarayıcı sekmelerini veya bildirim seslerini aşağı çekin; böylece hiçbir şey takip etmeye çalıştığınız sesle rekabet edemez.</li>
+<li><strong>Otomatik eğilmeyi açın.</strong> Bir çağrı sırasında konuşmaya başladığınızda, SoundDial, konuştuğunuz kişinin net bir şekilde konuşması için diğer sesi otomatik olarak kısar ve daha sonra geri yükler.</li>
+<li><strong>Bir birim profilini kaydedin.</strong> Konferans uygulamanızın güçlendirildiği ve diğer her şeyin sessiz olduğu bir "görüntülü görüşme" profili oluşturun ve ardından her seferinde yeniden ayarlama yapmak yerine anında bu profile geçin.</li>
+<li><strong>Çıkışı hızlı bir şekilde değiştirin.</strong> Sistem Ayarlarına girmeden aynı menüden hoparlörler, kulaklık veya işitme cihazına bağlı cihaz arasında geçiş yapın.</li>
+</ul>
+<p>Güçlendirme özelliği burada anahtardır. Uygulamanın çıkışını yerel maksimum değerinin üzerine çıkardığı için, fısıltı sessizliğinde kayıt gerçekten duyabileceğiniz bir ses haline gelirken, sisteminizin geri kalanı rahat bir seviyede kalır.</p>
+
+<h2>Distorsiyon hakkında kısa bir kelime</h2>
+<p>Herhangi bir yazılım takviyesi, sinyaldeki her şeyi güçlendirir, dolayısıyla zaten yüksek olan seste %100'ün çok ötesine geçmek, kesintiye neden olabilir. Pratikte artırma <em>sessiz</em> Rahat ve anlaşılır bir seviyeye kadar olan içerik kulağa temiz geliyor. Mütevazı bir şekilde başlayın, konuşma netleşene kadar yükseltin ve sert gelmeye başlarsa geri çekilin. Kalan işitme duyunuzu korumak önemlidir; bu nedenle maksimum ses yüksekliği yerine netliği hedefleyin.</p>
+
+<h2>SoundDial'nun alternatiflerle karşılaştırılması</h2>
+<p>Birkaç seçeneğiniz var ve dürüstlük doğru olanı seçmenize yardımcı olur:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39$):</strong> Uygulama başına EQ ve çıkış yönlendirmeyle gerçek anlamda profesyonel düzeyde. İşitme kaybı için frekansları şekillendirmek istiyorsanız, bu çok güçlüdür. Ancak maliyeti iki katından fazladır, doğrudan indirmeyi gerektirir ve bir ses yakalama sürücüsü yükler. Bu, birçok kişinin istediğinden daha fazla kurulum ve sistem erişimi demektir.</li>
+<li><strong>Background Music (ücretsiz, açık kaynak):</strong> Uygulama başına ses seviyesini ücretsiz olarak sunar, ancak yükseltme, profiller ve otomatik azaltma gibi özelliklerden yoksundur ve ses sisteminin derinliklerine bağlandığından daha yeni macOS sürümlerinde bozulabilir.</li>
+<li><strong>FineTune (ücretsiz, açık kaynak):</strong> Hafif bir menü çubuğu ses düzeyi uygulaması. Temel bilgiler için iyi, ancak işitme güçlüğü çeken dinleyicilerin dayandığı güçlendirme, profiller ve eğilme olmadan.</li>
+<li><strong>eqMac (ücretsiz):</strong> Güçlendiricili bir ekolayzır. Sesi şekillendirmek için kullanışlıdır ancak uygulama başına temiz miksleme ve profiller yerine EQ üzerine kurulmuştur.</li>
+</ul>
+<p>Nerede <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Fiyat dengesi, güvenlik ve burada önemli olan belirli özellikler öne çıkıyor. Mac App Store üzerinde olduğu için Apple tarafından incelenmiş ve korumalı alana alınmıştır, DMG olmadan temiz bir şekilde yüklenir ve ses sürücülerine veya sistem uzantılarına ihtiyaç duymaz. macOS ses yığınına hiçbir şey girmeden, tek seferlik 14,99 €'luk bir satın alma işlemiyle uygulama başına güçlendirme, ses kapatma, ses seviyesi profilleri ve otomatik kısma özelliklerine sahip olursunuz.</p>
+
+<h2>Sonuç olarak</h2>
+<p>Öncelikle ücretsiz macOS erişilebilirlik seçeneklerini ayarlayın; bunlara sahip olmaya değer. Ancak asıl sorun bir uygulamanın çok sessiz olmasıysa, tek bir uygulamayı %100'ün üzerine çıkarabilecek ve geri kalanını susturabilecek bir araca ihtiyacınız var. Uygulama başına güçlendirmenin asıl amacı budur ve macOS bunu kendi başına yapmaz.</p>
+
+<p>Mac'nuzu gerçekten duymaya hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> 14,99 € karşılığında ihtiyacınız olan uygulamayı güçlendirin ve otomatik kesme ve profillerin konuşmayı net tutmasına izin verin.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Mac'da Sessiz Bir Uygulama Nasıl Güçlendirilir (Geçmiş Maksimum Hacim)",
+    description: "Bir uygulama %100'de bile çok mu sessiz? Uygulama başına ses karıştırıcısı olan SoundDial ile Mac'da yalnızca bu uygulamayı maksimum seviyeye yükseltin. İşte en hızlı düzeltme artı alternatifler.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Bir uygulama maksimum ses seviyesinde bile çok sessizse en hızlı ve güvenilir çözüm <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>macOS için uygulama başına bir menü çubuğu ses karıştırıcısı. Her uygulamaya kendi kaydırıcısının yanı sıra bir ses seviyesi verir <strong>artırmak</strong> Bu, tek bir uygulamayı %100'ün üzerine çıkarır, böylece fısıltı sessizliğinde bir video görüşmesi veya tarayıcı sekmesi, sistem ses seviyenize dokunmadan daha yüksek ses çıkarır. Mac App Store'da tek seferlik 14,99 € tutarındaki bir uygulamadır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Sessiz Bir Uygulama Nasıl Güçlendirilir (Geçmiş Maksimum Hacim)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden bir uygulama %100'de bile sessiz kalıyor?</h2>
+<p>macOS'nun yalnızca bir ana birimi vardır. Onu kaldırdığınızda her şey birlikte daha da gürültülü hale gelir. Ancak her uygulama aynı zamanda kendi dahili seviyesinde de ses çıkışı sağlar ve bu seviye çok değişkendir. Sessizce yönetilen bir YouTube klibi, kötü mikrofonlu bir Zoom arayan, düşük diyalog karışımına sahip bir oyun veya yumuşak akışlı bir tarayıcı sekmesi, Mac'nuz tam güçteyken bile her şeyin çok altında yer alabilir.</p>
+<p>Asıl sorun: macOS'nun sahip olduğu <strong>yerleşik uygulama başına ses karıştırıcısı yok</strong>. Windows'da yıllardır bir tane var (Ses Düzeyi Karıştırıcı, hoparlör simgesine sağ tıklayın). Mac'da, geri kalanını yalnız bırakırken bir uygulamayı açmanın yerel bir yolu yoktur ve kesinlikle tek bir uygulamayı güçlendirmenin de bir yolu yoktur. <em>yukarıda</em> normal maksimumu. Bu, vurduğunuz boşluktur.</p>
+
+<h2>En hızlı çözüm: yalnızca tek bir uygulamayı güçlendirin</h2>
+<p>Uygulama başına bir karıştırıcı, kendisini uygulamalarınız ile çıktınız arasına yerleştirerek bu sorunu çözer, böylece her akışı bağımsız olarak yükseltebilir veya azaltabilir ve birini %100'ün üzerine çıkarabilir. ile <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, akış kısa:</p>
+<ul>
+<li>Mac App Store'dan yükleyin ve açın. Kayan bir pencerede değil, menü çubuğunuzda yaşar.</li>
+<li>Şu anda ses çalan her uygulama için bir kaydırıcı görmek üzere menü çubuğu simgesini tıklayın.</li>
+<li>Sessiz uygulamayı bulun ve güçlendirme uygulamak için kaydırıcısını %100'ün üzerine sürükleyin. Yalnızca bu uygulamayı güçlendirir.</li>
+<li>Geriye kalan her şeyi olduğu yerde bırakın. Sistem biriminize ve diğer uygulamalarınıza dokunulmaz.</li>
+</ul>
+<p>Güçlendirme uygulama başına olduğundan, yumuşak bir görüntülü aramayı rahat bir seviyeye kadar itebilir, aynı zamanda müzik veya bildirimlerin kulakları sağır etmesini önleyebilirsiniz. Yerleşik macOS kontrollerinin yapamayacağı temel şey budur.</p>
+
+<h2>Arttırma ve kırpma hakkında bir not</h2>
+<p>Takviye gerçekten faydalıdır, ancak bu güçlendirmedir, sihir değil. Bir uygulamanın orijinal sesi çok sessizse veya zaten bozuksa, onu sertçe çevirmek kırpmaya neden olabilir veya arka planda tıslamanın daha belirgin olmasına neden olabilir. Uygulamada orta düzeyde bir güçlendirme, "bu çağrı çok sessiz" durumlarının büyük çoğunluğunu temiz bir şekilde düzeltir. Uygulamayı tavana çarpmak yerine rahat hale gelinceye kadar yukarı itin; böylece sesi temiz tutabilirsiniz.</p>
+
+<h2>Güçlendirmenin ötesinde: başka ne yardımcı olur?</h2>
+<p>Uygulama başına kontrole sahip olduğunuzda, birkaç özellik sessiz uygulama sorununu tamamen ortadan kaldırır:</p>
+<ul>
+<li><strong>Hacim profilleri</strong> — bir kurulumu kaydedin (örneğin, "Zoom'yu artırın, Spotify'yu düşürün, Slack'yu sessize alın") ve her toplantıda kaydırıcıları yeniden sürüklemek yerine tek tıklamayla onu geri çağırın.</li>
+<li><strong>Otomatik eğilme</strong> — seçilen bir uygulama oynatıldığında diğer uygulamalara otomatik olarak geçiş yapar, böylece güçlendirilmiş çağrı arka plandaki ses üzerinden net bir şekilde duyulur.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü bir uygulamayı başka hiçbir şeyi duraklatmadan susturun.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar veya harici arayüz arasında geçiş yapın.</li>
+</ul>
+
+<h2>Ücretsiz ve profesyonel alternatifler ne olacak?</h2>
+<p>Seçenekleriniz var ve burada dürüstlük önemlidir, işte gerçek manzara burada.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) 39 $ civarında profesyonel düzeyde bir seçimdir. Uygulama başına hacmin yanı sıra uygulama başına EQ ve tam çıkış yönlendirmesi yapar; bu, çoğu insanın ihtiyaç duyduğundan daha fazla güç sağlar. Takaslar: maliyeti iki katından fazla, App Store yerine doğrudan indiriliyor ve işini yapmak için bir ses yakalama sürücüsü yüklüyor. Bir ses mühendisinin araç setini istiyorsanız mükemmel. Yalnızca bir uygulamanın daha yüksek ses çıkarmasını istiyorsanız bu aşırıya kaçar.</p>
+<p><strong>Background Music</strong> ücretsiz ve açık kaynaklıdır ve uygulama başına temel hacmi gerçekleştirebilir. Ancak bu, daha yeni macOS sürümlerinde kırılma geçmişi olan bir topluluk projesidir ve %100'ü aşan destek, profiller ve otomatik azaltmadan yoksundur. Tek gereksinim ücretsizse harikadır ve ara sıra kırılmayı sorun etmezsiniz.</p>
+<p><strong>FineTune</strong> ücretsiz, açık kaynaklı bir menü çubuğu uygulamasıdır ve <strong>eqMac</strong> ücretsiz bir EQ ve sistem güçlendiricidir. Bütçeniz sıfırsa her ikisi de denemeye değer. Bunların topluluk tarafından sürdürülen, EQ odaklı veya uygulama başına yönetim konusunda daha hafif olduklarını bilin ve profilleri ve eğilmeyi tek bir gösterişli pakette birleştirmeyin.</p>
+<p>Nerede <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> topraklar: orta yoldur. SoundSource'dan daha ucuz, ücretsiz araçlardan daha yetenekli ve daha güvenilir ve piyasada <strong>Mac App Store</strong>bu, Apple tarafından incelendiği, korumalı alana alındığı ve temiz bir şekilde yüklendiği anlamına gelir <strong>DMG yok ve ses sürücüsü veya uzantısı yok</strong> sisteminize cıvatalamak için. Çoğu insan için dürüst öneri basittir: Size destek, profiller ve otomatik azaltma da sağlayan en az güçlük içeren düzeltmeyi istiyorsanız, tek seferlik 14,99 € ile en iyi değerdir.</p>
+
+<h2>Hızlı cevap, yeniden ifade edildi</h2>
+<blockquote>Bir Mac uygulamasının sesini maksimumdan daha yüksek hale getirmek için uygulama başına yükseltmeli bir ses karıştırıcısı kullanın. Menü çubuğundan SoundDial'yu açın, sessiz uygulamanın kaydırıcısını bulun ve %100'ün üzerine sürükleyin. Yalnızca bu uygulamanın sesi yükselir.</blockquote>
+
+<p>Mac'nuzun tamamı için tek bir ses düzeyi kaydırıcısıyla mücadele etmeye son verin. Al <a href="https://apps.apple.com/app/id6772792641">Mac App Store üzerinde SoundDial</a> Tek seferlik 14,99 € karşılığında, sessiz uygulamayı saniyeler içinde limitinin üzerine çıkarın ve bir profili kaydedin, böylece bir daha düşünmek zorunda kalmayın.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Mac Cihazınızda Sessiz Videoları ve Podcast'leri Nasıl Güçlendirebilirsiniz?",
+    description: "Bazı YouTube videoları, podcast'leri ve dersleri %100'de bile çok sessizdir. SoundDial ile macOS'da uygulama başına ses düzeyini maksimumun üzerine nasıl çıkaracağınız aşağıda açıklanmıştır.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>En hızlı ve güvenilir düzeltme <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, her uygulamaya kendi ses kaydırıcısını ve gerçek bir ses düzeyi sağlayan bir Mac App Store menü çubuğu karıştırıcısı <strong>artırmak</strong> bu %100'ü geçiyor. Tarayıcınızı veya podcast oynatıcınızı açın, kaydırıcısını maksimumun üzerine sürükleyin; sessiz bir videonun veya dersin sesi anında yükselir; sürücü yok, yeniden başlatma yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Cihazınızdaki Sessiz Videoları ve Podcast&#x27;leri Nasıl Güçlendirebilirsiniz?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden bazı videolar ve podcast'ler çok sessiz?</h2>
+<p>Mac'nuzu %100'e çıkarıyorsunuz ve röportaj hâlâ bir fısıltıdan ibaret. Bu senin hayal gücün değil. Ses, son derece farklı ses yüksekliği seviyelerinde yönetilir; bir dizüstü bilgisayar mikrofonuyla kaydedilen bir web semineri, sessiz bir bağımsız podcast veya eski bir ders yüklemesi, profesyonelce üretilmiş bir YouTube videosunun 15-20 dB altında olabilir. Sistem ses düzeyiniz zaten maksimuma çıkarıldı, dolayısıyla ayırabileceğiniz boşluk kalmadı.</p>
+<p>İşte önemli nokta: macOS'nun sahip olduğu <strong>yerleşik uygulama başına ses karıştırıcısı yok</strong>. Windows'da yıllardır bir tane var (sistem tepsisindeki Ses Düzeyi Karıştırıcısı), ancak Mac'da ses seviyesi tuşları her şey için bir genel düzey hareket ediyor. Tek bir uygulamayı %100'ün üzerine çıkarmak şöyle dursun, "yalnızca bu tarayıcı sekmesinin sesini yükselt" demenin yerel bir yolu yoktur.</p>
+
+<h2>Gerçek çözüm: uygulama başına ses artırma</h2>
+<p>Sessiz bir kaynağın sesini hoparlörlerinizin normalde izin verdiğinden daha yüksek yapmak için, kazancı uygulayan bir yazılıma ihtiyacınız vardır. <em>özellikle bu uygulama</em> ve %100 tavanının ötesine geçebilir. Güçlendirme özelliğine sahip uygulama başına mikserin yaptığı da tam olarak budur.</p>
+<p>ile <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, çalışan her uygulama kendi kaydırıcısına sahip bir menü çubuğu listesinde görünür. Sessiz bir uygulamayı %150 veya %200'e kadar kaydırdığınızda ses gerçek zamanlı olarak güçlendirilir. Destek uygulama başına olduğundan, diğer her şey (müziğiniz, bildirimleriniz, başka bir penceredeki çağrı) normal seviyede kalır. Tek bir yumuşak podcast dinlemek için tüm sisteminizi patlatamazsınız.</p>
+<blockquote>Global ses seviyesi "Mac'nun sesi ne kadar?" diye soruyor. Uygulama başına bir mikser "ne kadar gürültülü" diye soruyor <em>bu</em> uygulama?" — bir video sessizken geri kalanı iyi olduğunda asıl önemli olan soru budur.</blockquote>
+
+<h2>Sessiz bir videoyu veya podcast'i adım adım güçlendirme</h2>
+<ul>
+<li><strong>SoundDial'yu yükleyin</strong> Mac App Store'dan. Korumalı alana alınır ve Apple tarafından incelenir, dolayısıyla diğer uygulamalar gibi temiz bir şekilde yüklenir; ayrı bir indirme gerekmez, ses sürücüsü yoktur, izin belgesi yoktur.</li>
+<li><strong>Oynamaya başla</strong> Hangi uygulamayı kullanırsanız kullanın sessiz video, podcast bölümü veya ders - Safari, Chrome, bir podcast istemcisi, VLC.</li>
+<li><strong>SoundDial simgesine tıklayın</strong> Menü çubuğunuzda. Şu anda ses çıkaran her uygulama için bir kaydırıcı göreceksiniz.</li>
+<li><strong>Bu uygulamanın kaydırıcısını %100'ün üzerine sürükleyin</strong> — önce %150'yi deneyin, ardından hâlâ çok yumuşaksa daha yükseğe itin. Değişim anında gerçekleşir.</li>
+<li><strong>Geriye kalan her şeyi kendi haline bırakın.</strong> Yalnızca güçlendirdiğiniz uygulamanın sesi yükselir; sisteminiz dengeli kalır.</li>
+</ul>
+<p>Kendinizi her gün aynı uygulamaları öne çıkarırken bulursanız (örneğin bir podcast oynatıcısı ve tarayıcınız), bu kurulumu bir dosya olarak kaydedebilirsiniz. <strong>hacim profili</strong> ve her seferinde yeniden ayarlamak yerine tek tıklamayla geri çağırın.</p>
+
+<h2>Yükseltmeyle ilgili bir uyarı</h2>
+<p>%100'ü aşmak kazanç sağlar ve kazancın sınırları vardır. Çok sessiz, düşük kaliteli bir kaydı yeterince zorlarsanız, kırpma veya bozulma duyabilirsiniz; bu, kaynağın temiz sinyalinin bitmesidir, uygulamadaki bir kusur değildir. Rahatça duyulabilene kadar artırın, ardından sert gelmeye başlarsa geri çekilin. Yerleşik dizüstü bilgisayar hoparlörlerinde aşırı yükseltme, sürücüleri de zorlayabilir; bu nedenle, iyi kulaklıklara veya harici hoparlörlere kıyasla oraya daha kolay gidin.</p>
+
+<h2>Ücretsiz veya yerleşik seçeneklere ne dersiniz?</h2>
+<p>Alternatifleriniz var ve bunlar konusunda dürüst olmaya değer:</p>
+<ul>
+<li><strong>Sistem ses düzeyi + uygulama düzeyinde kaydırıcılar.</strong> Bazı oynatıcılar (VLC, uzantılar aracılığıyla birkaç tarayıcı) kendi seslerini yükseltmenize izin verir. Yalnızca tek bir uygulamada ihtiyacınız varsa sorun yok; ancak birleşik kontrol ve profil olmadan her uygulamayı ayrı ayrı yapılandırmak zorunda kalıyorsunuz.</li>
+<li><strong>eqMac</strong> ücretsiz bir EQ ve güçlendiricidir. Sistem genelinde ses yüksekliğini artırabilir, ancak küresel bir araçtır, uygulama başına temiz bir karıştırıcı değildir ve tüm çıktı düzeyinde çalışır.</li>
+<li><strong>Background Music</strong> ücretsiz ve açık kaynaktır ve uygulama başına hacim sunar. Ancak macOS'nun daha yeni sürümlerinde bozulabilen bir ses yakalama kurulumuna dayanıyor ve özel bir güçlendirme, profiller ve otomatik azaltma özelliğinden yoksun.</li>
+<li><strong>FineTune</strong> ücretsiz bir açık kaynaklı menü çubuğu uygulamasıdır; temel bilgileri istiyorsanız ve topluluk tarafından sağlanan yazılımlara aldırış etmiyorsanız hafif bir seçenektir.</li>
+<li><strong>SoundSource</strong> Rogue Amoeba (~ 39 $) profesyonel düzeyde ağır siklettir: uygulama başına EQ, çıktı yönlendirme, işler. Ayrıca bir indirme ve ses yakalama sürücüsü gerektirir ve maliyeti SoundDial'nun iki katından fazladır. Tek istediğiniz sessiz sesi daha yüksek hale getirmekse aşırıya kaçarsınız.</li>
+</ul>
+
+<h2>Neden SoundDial pratik bir seçimdir?</h2>
+<p>SoundDial tam olarak bu sorun için en uygun noktada bulunuyor. Onun <strong>€14,99 tek seferlik</strong> — abonelik yok — ve yaşamaya devam ediyor <strong>Mac App Store</strong>Bu, korumalı alana alındığı, Apple tarafından incelendiği ve herhangi bir DMG veya güvenilecek sistem uzantısı olmadan yüklendiği anlamına gelir. Aslında almak istediğiniz uygulama başına desteğin yanı sıra profiller, uygulama başına sessize alma, hızlı çıkış değiştirme ve <strong>otomatik eğilme</strong> Bu, birine odaklanmanız gerektiğinde diğer uygulamaları azaltır. Gürültülü işi basitçe yapıyor ve gerisini iyi yapıyor.</p>
+
+<p><strong>Sessiz videoları ve podcast'leri dinlemekten yoruldunuz mu?</strong> <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> 14,99 € karşılığında her uygulamaya kendi ses seviyesini verin ve her şeyi net bir şekilde duyabilmenizi sağlayın.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Mac'da Her Uygulama için Farklı Bir Ses Seviyesi Nasıl Ayarlanır",
+    description: "macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur. SoundDial ve alternatiflerini kullanarak Mac'daki her uygulama için bağımsız, kalıcı ses seviyelerini nasıl ayarlayacağınız aşağıda açıklanmıştır.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'nun her uygulama için farklı bir ses düzeyi ayarlamanın yerleşik bir yolu yoktur, bu nedenle bir menü çubuğu ses düzeyi karıştırıcısına ihtiyacınız vardır. En hızlı, en güvenilir düzeltme <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, her uygulamaya kendi ses düzeyi kaydırıcısını, uygulama başına sessize alma özelliğini ve sessiz uygulamaları %100'ün üzerine çıkaran bir güçlendirme sağlayan bir Mac App Store uygulaması. Seviyelerinizi bir kez ayarlayın ve sabit kalırlar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Her Uygulama için Farklı Bir Ses Düzeyi Nasıl Ayarlanır" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden Mac'nun uygulama başına ses kontrolü yok?</h2>
+<p>Windows'dan geçiş yaptıysanız, muhtemelen her uygulamanın kendi kaydırıcısının bulunduğu küçük panel olan Windows Volume Mixer'ın eşdeğerini aramaya başlamışsınızdır. Orada değil. macOS yalnızca bir global sistem birimi sunar. İster bir YouTube videosu, ister bir Zoom araması, Spotify veya bir oyun olsun, hepsi aynı ana seviyeyi paylaşır.</p>
+<p>Olmayana kadar sorun değil. Discord sohbeti müziğinizin sesini bastırır. Podcast'iniz altta sessizce oynatılırken bir tarayıcı reklamı tam ses seviyesinde oynatılır. Oyununuz sağır edici ama arka plandaki sesli arama çok yumuşak. Apple'ın size sunduğu tek "çözüm", her uygulamayı açıp dahili ses düzeyini (eğer uygulamada varsa) manuel olarak ayarlamak ve bunu her oturumda yeniden yapmaktır.</p>
+<p>Gerçek uygulama başına kontrol elde etmek için uygulamalarınız ile çıkış cihazınız arasında bulunan küçük bir yardımcı programa ihtiyacınız vardır. Aşağıda bunun nasıl doğru şekilde yapılacağı ve alternatifler hakkında dürüst notlar yer almaktadır.</p>
+
+<h2>En hızlı yol: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menü çubuğunuzda bulunur ve o anda ses çalan her uygulamayı listeler. Her biri bağımsız bir kaydırıcıya sahiptir. İşte tüm iş akışı:</p>
+<ul>
+<li><strong>Mac App Store'dan yükleyin.</strong> Apple tarafından incelenmiş ve korumalı alana alınmıştır, dolayısıyla DMG, ses sürücüsü ve onaylanacak çekirdek veya sistem uzantısı yoktur. Herhangi bir normal uygulama gibi yüklenir ve aynı şekilde kaldırılabilir.</li>
+<li><strong>Menü çubuğu simgesini tıklayın.</strong> Her etkin uygulama için bir kaydırıcının yanı sıra bir ana kontrol göreceksiniz.</li>
+<li><strong>Seviyeleri ayarlamak için sürükleyin.</strong> Discord'yu aşağı çevirin, Spotify'yu yukarı itin, gürültülü bir tarayıcı sekmesinin uygulamasını tek tıklamayla tamamen sessize alın.</li>
+<li><strong>Sessiz uygulamaları artırın.</strong> Bir uygulama %100'de bile çok yumuşaksa, uygulama başına yükseltmeyle uygulamayı %100'ün üzerine çıkarın.</li>
+<li><strong>Bir profili kaydedin.</strong> "Oyun", "iş görüşmesi" veya "müzik" karışımınızı saklayın ve her gün kaydırıcıları yeniden sürüklemek yerine bunlar arasında anında geçiş yapın.</li>
+</ul>
+<p>En sinir bozucu senaryoları çözdüğü için iki özelliğe değinmeye değer:</p>
+<ul>
+<li><strong>Otomatik eğilme</strong> seçilen bir uygulama oynatıldığında diğer uygulamaları otomatik olarak kapatır, böylece bir arama geldiğinde müziğiniz azalır ve daha sonra geri döner, manuel olarak uğraşmanıza gerek kalmaz.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> Sistem Ayarlarına dalmadan aynı menüden kulaklıklar ve hoparlörler arasında geçiş yapmanızı sağlar.</li>
+</ul>
+<p>Seviyeler her uygulama için hatırlandığından ve profillere kaydedildiğinden, çoğu insanın aslında istediği kısım budur: onu bir kez ayarlarsınız ve <em>kalır</em> ayarlayın.</p>
+
+<h2>Dürüstçe karşılaştırılan ücretsiz ve ücretli alternatifler</h2>
+<p>SoundDial tek seçenek değildir ve ihtiyaçlarınıza bağlı olarak ücretsiz bir araç yeterli olabilir. İşte adil bir özet.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource profesyonel düzeyde ağır siklettir. Uygulama başına ses seviyesinin yanı sıra, uygulama başına EQ ve tam çıkış yönlendirmesi de yapar; böylece bir uygulamayı kulaklıklara, diğerini hoparlörlere gönderebilirsiniz. Gerçekten mükemmel. Takaslar: maliyeti yaklaşık 39 dolar ve temiz bir App Store kurulumu değil, sisteminize bir ses yakalama sürücüsünün eklenmesini gerektiren doğrudan bir indirme. EQ ve yönlendirmeye ihtiyaç duyan bir ses uzmanıysanız buna değer. Her uygulamanın doğru ses seviyesinde olmasını istiyorsanız, ihtiyacınız olandan daha fazla araç ve daha fazla kurulum gerekir.</p>
+
+<h2>Background Music (açık kaynak, ücretsiz)</h2>
+<p>Background Music, uygulama başına ses seviyesi ve otomatik duraklatma sunan ücretsiz, açık kaynaklı bir uygulamadır. İşin püf noktası güvenilirliktir: sanal bir ses cihazı yükler ve daha yeni macOS sürümlerinde bozulma geçmişi vardır, bazen güncellemelerden sonra yeniden yükleme veya düzeltme gerektirir. Ayrıca güçlendirme, kayıtlı profiller ve gerçek otomatik azaltma gibi özelliklerden de yoksundur. Ücretsiz istiyorsanız ve ara sıra bakıma aldırış etmiyorsanız harika.</p>
+
+<h2>FineTune ve eqMac</h2>
+<p>FineTune, hafif bir başlangıç noktası olan ücretsiz, açık kaynaklı bir menü çubuğu uygulamasıdır. eqMac, her uygulamaya kendi kalıcı kaydırıcısını vermekten ziyade EQ'yu ve genel kazancı hedefleyen, sistem çapında güçlendiriciye sahip ücretsiz bir ekolayzırdır. İhtiyacınız darsa her ikisi de denemeye değer, ancak ikisi de "profil olarak kaydedilen uygulama başına farklı hacim" iş akışına odaklanmıyor.</p>
+
+<h2>Hangisini seçmelisiniz?</h2>
+<ul>
+<li><strong>Profiller ve otomatik eğilmeyle temiz bir şekilde çalışmasını mı istiyorsunuz?</strong> App Store'dan tek seferlik 14,99 € fiyatla SoundDial, hiçbir sürücü yüklenmeden.</li>
+<li><strong>Uygulama başına EQ ve ses yönlendirmeye ihtiyacınız var ve fiyatı veya sürücüyü önemsemiyor musunuz?</strong> SoundSource.</li>
+<li><strong>Ücretsiz mi istiyorsunuz ve macOS güncellendiğinde düzeltmeler yapabilir misiniz?</strong> Background Music, FineTune veya eqMac.</li>
+</ul>
+<p>SoundDial'nun gerçek avantajı şu kombinasyondur: her uygulama için bağımsız ses seviyesi, sessize alma ve yükseltme, değiştirilebilir profillere kaydedilmiş, otomatik azaltma ile, hepsi bir abonelik yerine tek seferlik 14,99 € karşılığında güvenebileceğiniz ve tek tıklamayla kaldırabileceğiniz sanal alanlı bir App Store indirmesinin içindedir.</p>
+
+<blockquote>Sürücü yok, uzantı yok, DMG yok. Her uygulamanın ses seviyesini bir kez ayarlayın, profil olarak kaydedin ve gerisini otomatik azaltmanın halletmesine izin verin.</blockquote>
+
+<p>Her uygulamaya kendi hacmini vermeye hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve mükemmel karışımınızı yaklaşık bir dakika içinde ayarlayın.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Mac'da Bir Uygulamayı Diğer Her Şeyden Daha Sessiz Hale Getirin",
+    description: "Yüksek sesli bir uygulama Mac cihazınızdaki geri kalanları mı bastırıyor? İşte diğerlerine dokunmadan tek bir uygulamanın sesini kısmanın en hızlı ve güvenilir yolu.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Her şey aynı kalırken bir uygulamayı kapatmak için şunu kullanın: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>macOS için uygulama başına bir menü çubuğu ses karıştırıcısı. Açın, listede yüksek sesli uygulamayı bulun ve kaydırıcısını aşağı sürükleyin. Müziğiniz, aramalarınız ve diğer sesleriniz kendi seviyelerini korurken bu uygulama anında sessizleşir. Bu en hızlı ve en güvenilir çözümdür.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;daki Bir Uygulamayı Diğer Her Şeyden Daha Sessiz Hale Getirin" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>macOS bunu neden bu kadar zorlaştırıyor?</h2>
+
+<p>İşte sinir bozucu gerçek: macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'da yıllardır bir tane var (ses simgesine sağ tıklayın, Ses Düzeyi Karıştırıcısını açın, bitti), ancak Mac'da ses seviyesi tuşları ve menü çubuğu kaydırıcısı yalnızca tek bir şeyi kontrol ediyor: ana çıkışı. Kapatın ve her şey daha da sessizleşsin. Sesini açın ve yüksek sesli uygulamanın sesi hala yüksek, sadece geri kalanıyla birlikte daha da yüksek.</p>
+
+<p>Yani bir oyunun ses efektleri çok yüksek olduğunda, bir tarayıcı sekmesi bir reklamı otomatik olarak oynattığında veya podcast'inizde bildirim sesleri artmaya devam ettiğinde, tek yerel seçenekleriniz hantaldır: tüm sistemi sessize alın, her uygulamanın kendi ses ayarına girin (eğer varsa) veya suçluyu tamamen ortadan kaldırın. Bunların hiçbiri basitçe "bu uygulamayı daha sessiz hale getirin ve diğer her şeyi olduğu gibi bırakın" demenize izin vermez.</p>
+
+<h2>Hızlı çözüm: uygulama başına ses düzeyi karıştırıcısı</h2>
+
+<p>Uygulama başına ses düzeyi karıştırıcısı, çalışan her uygulamaya kendi bağımsız kaydırıcısını verir. Bu tam olarak kaçırdığınız kontrol. ile <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> şuna benziyor:</p>
+
+<ul>
+<li><strong>Menü çubuğu karıştırıcısını açın.</strong> SoundDial simgesine tıkladığınızda o anda ses çalan her uygulamanın canlı bir listesini göreceksiniz.</li>
+<li><strong>Yüksek sesli olanı bulun.</strong> Oyun, tarayıcı, görüntülü arama, bildirim sesleri, geri kalan her şeyi boğuyor.</li>
+<li><strong>Kaydırıcısını aşağı sürükleyin.</strong> Dengeli hissettiğiniz her yerde %40, %20'ye ayarlayın. Değişiklik anında gerçekleşir ve yalnızca söz konusu uygulamayı etkiler.</li>
+<li><strong>Geriye kalan her şeyi kendi haline bırakın.</strong> Müzik çalarınız, çağrınız, diğer sekmeleriniz, hepsi sizin ayarladığınız ses seviyesini korur.</li>
+</ul>
+
+<p>Ayrıca, diğerleri oynamaya devam ederken tek bir uygulamayı tek tıklamayla tamamen kapatabilir veya çok yumuşaksa sessiz bir uygulamayı %100'ün üzerine yükseltebilirsiniz. Uygulamayı yeniden başlatmak yok, menüye dalmak yok.</p>
+
+<h2>Bunun sizi kurtardığı yaygın durumlar</h2>
+
+<ul>
+<li><strong>Fon müziği eşliğinde gürültülü bir oyun.</strong> Oyunu rahat bir seviyeye düşürün ve oynatma listenizi bunun altında tam ses seviyesinde tutun.</li>
+<li><strong>Tarayıcı reklamları ve ani yükselişe geçen videolar.</strong> Sürpriz bir otomatik oynatmanın sizi asla etkilememesi için tarayıcınızı aşağıya sabitleyin.</li>
+<li><strong>Bir çağrı veya podcast üzerinden bildirim çalınıyor.</strong> Gerçekten önemsediğiniz sesi susturmadan bildirim ağırlıklı uygulamayı kapatın.</li>
+<li><strong>Yüksek sesli medya altında sessiz bir görüntülü arama.</strong> Yüksek sesli uygulamayı kapatmak yerine çağrıyı %100'ün üzerine yükseltin, böylece insanları net bir şekilde duyabilirsiniz.</li>
+</ul>
+
+<h2>Ses seviyesi profilleri ve otomatik azaltma ile bunu bir kez ayarlayın</h2>
+
+<p>Gürültülü bir uygulamayı düzeltmek güzel, ancak muhtemelen sabit kalmasını istersiniz. SoundDial'nun bunu kalıcı kılan iki özelliği vardır:</p>
+
+<p><strong>Hacim profilleri</strong> uygulama başına bir dizi seviye kaydetmenize ve bunları bir tıklamayla geri çağırmanıza olanak tanır. Oyunun %30'da ve müziğin %100'de olduğu bir "Oyun" profili ve aramaların artırıldığı ve diğer her şeyin azaltıldığı bir "İş" profili oluşturun. Her seferinde kaydırıcıları yeniden sürüklemeden bağlamları değiştirin.</p>
+
+<p><strong>Otomatik eğilme</strong> Seçilen bir uygulama oynatıldığında diğer uygulamaları otomatik olarak düşürür ve daha sonra geri getirir; böylece yüksek sesli bir uygulama ilk etapta sesinizi hiçbir zaman tamamen ele geçirmez. Profiller, eğilme ve hızlı çıkış değiştirme (Sistem Ayarlarını açmadan hoparlörler ve kulaklıklar arasında geçiş yapma) arasında dengenizi bir kez ayarlarsınız ve ses seviyesiyle ilgilenmeyi bırakırsınız.</p>
+
+<h2>SoundDial'nun alternatiflerle karşılaştırılması</h2>
+
+<p>Mac'da uygulama başına ses düzeyi elde etmenin başka yolları da var. İşte dürüst bir bakış:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39$)</strong> gerçekten profesyonel düzeydedir: uygulama başına EQ ve ses seviyesi kontrolünün yanı sıra tam çıkış yönlendirmesi. Ancak maliyeti iki katından fazladır ve ayrı bir indirme artı bir ses yakalama sürücüsü gerektirir. Stüdyo düzeyinde bir araç seti istiyorsanız mükemmel. Yalnızca bir uygulamayı kapatmak istiyorsanız ihtiyacınız olandan daha fazlası var.</li>
+<li><strong>Background Music</strong> Ücretsiz ve açık kaynaktır, bu harikadır, ancak daha yeni macOS sürümlerinde bozulabilir ve ses artırma, profiller ve otomatik azaltma gibi özelliklerden yoksundur.</li>
+<li><strong>FineTune</strong> ücretsiz, açık kaynaklı bir menü çubuğu uygulamasıdır ve <strong>eqMac</strong> güçlendiricili ücretsiz bir EQ'dur. Önceliğiniz ücretsizse her ikisi de denemeye değer, ancak fiyat karşılığında cila, güvenilirlik ve özelliklerden vazgeçiyorsunuz.</li>
+</ul>
+
+<p>SoundDial tatlı noktada oturuyor: Tek seferlik 14,99 €, abonelik yok. Çünkü Mac App Store üzerindedir, Apple tarafından incelenir ve korumalı alana alınır ve DMG, ses sürücüsü ve onaylanacak sistem uzantısı olmadan temiz bir şekilde yüklenir. Uygulama başına ses seviyesi, sessize alma, artırma, profiller ve otomatik azaltma gibi bu sorun için gerçekten önemli olan özelliklere, 39 ABD doları tutarında bir fiyat etiketi veya hassas ücretsiz bir araç olmadan sahip olursunuz.</p>
+
+<h2>Sonuç olarak</h2>
+
+<p>macOS tek bir uygulamayı tek başına geri çevirmenize izin vermez ancak bu saniyeler içinde kapatabileceğiniz bir boşluktur. Uygulama başına bir mikser yükleyin, yüksek sesli uygulamanın kaydırıcısını aşağı sürükleyin; sesinizin geri kalanı tam olarak istediğiniz yerde kalır. Bir profili kaydedersen bir daha asla bununla kavga etmeyeceksin.</p>
+
+<p><strong>Geri kalanını boğan uygulamayı susturmaya hazır mısınız?</strong> Al <a href="https://apps.apple.com/app/id6772792641">Mac App Store üzerinde SoundDial</a> 14,99 € karşılığında, tek ödeme, sürücü yok, abonelik yok.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Yayıncılar için Mac Ses Mikseri: Mikrofon, Oyun ve Müzik Dengesi",
+    description: "Mac'da yayın yaparken mikrofonu, oyun sesini, müziği ve uyarıları dengelemenin en hızlı yolu. SoundDial size profiller ve eğilme özellikleriyle uygulama başına ses düzeyi karıştırıcısı sunar.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Mac'da yayın yaparken mikrofonunuzu, oyununuzu, müziğinizi ve uyarılarınızı dengelemek için en hızlı ve güvenilir çözüm şudur: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, uygulama başına bir menü çubuğu ses karıştırıcısı. macOS'da yerleşik bir mikser bulunmadığından SoundDial, uygulama başına bağımsız seviyeler ayarlamanıza, sessiz kaynakları artırmanıza, akış profillerini kaydetmenize ve konuşurken müziği otomatik olarak kısmanıza olanak tanır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Yayıncılar için Ses Mikseri: Mikrofon, Oyun ve Müzik Dengesi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Sorun: macOS'nun uygulama başına ses düzeyi kontrolü yok</h2>
+<p>Windows yıllardır Hacim Mikserine sahiptir. macOS hâlâ bir tane göndermiyor. Sistem ses düzeyi kaydırıcınız her şeyi aynı anda hareket ettirir; canlı yayındayken bu hiçbir işe yaramaz. Bir akış sırasında, hepsi aynı çıktı için mücadele eden en az dört kaynakla hokkabazlık yapıyorsunuz:</p>
+<ul>
+<li><strong>Sesinizi / mikrofonunuzu izleme</strong> - her şeyin üzerinde durması gerekiyor.</li>
+<li><strong>Oyun sesi</strong> — gürültülü, dinamik ve aksiyon sırasında ani yükselmelere eğilimli.</li>
+<li><strong>Arka plan müziği</strong> - yorumunuz karşısında sessiz kalmalı.</li>
+<li><strong>Uyarılar ve sohbet sesleri</strong> — Discord, Yayın Destesi, takipçi uyarıları, bildirimler.</li>
+</ul>
+<p>Uygulama başına kontrol olmadan, oyunun uygulama içi kaydırıcısını kullanırsınız, Spotify'yu elinizle susturursunuz ve yüksek sesli bir ara sahnenin izleyicilerinizi havaya uçurmaması için dua edersiniz. Bu bir karışım değil, hasar kontrolü.</p>
+
+<h2>Uygun bir akış mikserinin yapması gerekenler</h2>
+<p>Mac'da içerik oluşturucu odaklı bir ses kurulumu size dört şey sağlamalıdır: uygulama başına bağımsız seviyeler, çok sessiz bir kaynağı yükseltme yeteneği, anında hatırlayabileceğiniz kayıtlı konfigürasyonlar ve konuştuğunuz anda müziğin kesilmesi için otomatik kısma. SoundDial menü çubuğundaki dördünü de kapsar.</p>
+
+<h3>1. Her uygulama için bağımsız ses düzeyi</h3>
+<p>Oyunu %60'a, müziği %25'e, Discord'yu %80'e ve tarayıcınızı %40'a ayarlayın; her uygulamanın kendi kaydırıcısı vardır. Hiçbir şey başka hiçbir şeye karışmaz. Ayrıca, bir kaynak yayının ortasında hatalı davrandığında, uygulamanın kendisine dokunmadan uygulama başına sesi anında kapatabilirsiniz.</p>
+
+<h3>2. Sessiz kaynaklar için ses seviyesini artırma</h3>
+<p>Bazı uygulamalar ve oyunlar %100'de bile çok sessizdir. SoundDial'nun uygulama başına desteği, kaynağı normal tavanının ötesine iter, böylece mırıldanan bir oyun veya düşük hacimli bir video, karışımda ihtiyacınız olan yerde durur; yeniden kodlama yok, eklenti yok.</p>
+
+<h3>3. Farklı sahneler için ses profilleri</h3>
+<p>Bu, yayıncılara en çok zaman kazandıran özelliktir. "Just Chatting" karışımınız (müzik açık, oyun kapalı), "BRB" karışımınızdan farklı olan "Boss Fight" karışımınızdan (oyun açık, müzik neredeyse sessiz) farklıdır. Her birini bir profil olarak kaydedin ve dört kaydırıcıyı canlı olarak sürüklemek yerine tek tıklamayla geçiş yapın.</p>
+
+<h3>4. Müziğin sesinizin altında kalması için otomatik kapanma</h3>
+<p>Otomatik kısma, konuştuğunuzda arka plan sesini otomatik olarak azaltır ve durduğunuzda geri getirir. Tek başına yayıncılar için bu, net yorum ile sesinizi sürekli olarak gömen müzik arasındaki farktır; manuel yerine otomatik olarak gerçekleştirilir.</p>
+
+<h2>OBS'nun uygun olduğu yer</h2>
+<p>OBS, masaüstü ses karıştırıcınız değil, yayın aracınızdır. OBS, Ses Karıştırıcı paneli ve filtreleri aracılığıyla akışa hangi seviyelerin gireceğini kontrol eder, ancak yakaladığı ses kaynaklarından çalışır; bireysel macOS uygulamalarına ulaşıp bunları sistem düzeyinde kapatmaz. Mac'da, uygulama başına temiz masaüstü sesini OBS'ya almak her zaman sıkıntılı kısım olmuştur.</p>
+<p>Pratik iş akışı: Mac cihazınızda gerçek uygulama başına seviyeleri ayarlamak için SoundDial'yu kullanın, böylece ortaya çıkanlar zaten dengeli olur, ardından OBS'nun yayın seviyelerini yakalamasına ve ince ayar yapmasına izin verin. Karışımı kaynağa bir kez ayarladığınızda OBS'nun mücadele edeceği çok daha az şey kalır. SoundDial'daki hızlı çıkış değiştirme, sahneler arasında Sistem Ayarlarına dalmadan kulaklıklar ve hoparlörler arasında geçiş yapmanızı da sağlar.</p>
+
+<h2>SoundDial ve alternatifler</h2>
+<p>Seçenekleriniz var ve burada dürüstlük önemlidir:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~39$)</strong> — uygulama başına EQ ve tam çıkış yönlendirme ile profesyonel düzeyde. Mükemmel, ancak maliyeti iki katından fazla, doğrudan indirme gerektiriyor ve bir ses yakalama sürücüsü yüklüyor. Esas olarak uygulama başına temiz seviyelere, güçlendirmeye ve eğilmeye ihtiyacınız varsa aşırıya kaçmayın.</li>
+<li><strong>Background Music (ücretsiz, açık kaynak)</strong> — gerçekten kullanışlı ve ücretsiz, ancak daha yeni macOS sürümlerinde işe yarayabilir ve hızlandırma, profil ve otomatik azaltma özelliği yoktur; yayıncıların tam olarak güvendiği özelliklerdir.</li>
+<li><strong>FineTune (ücretsiz, açık kaynaklı menü çubuğu uygulaması)</strong> — uygulama başına hafif kontrol, ancak canlı akış için oluşturulmuş profiller artı ördek kombinasyonunun bulunmadığı bir topluluk projesi.</li>
+<li><strong>eqMac (ücretsiz EQ + güçlendirici)</strong> — tonu şekillendirme ve güçlendirme için iyidir, ancak uygulama başına bir akış karıştırıcısı değil, bir ekolayzırdır.</li>
+</ul>
+<p>SoundDial'nun açısı: bu bir <strong>€14,99 tek seferlik</strong> üzerinde satın alın <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Apple tarafından incelendi, korumalı alana alındı ve DMG ve ses sürücüleri veya sistem uzantıları olmadan temiz bir şekilde kuruluyor. Bu son kısım yayıncılar için önemlidir: daha az çekirdek düzeyinde bileşen, macOS yayınınızdan önceki gece güncellendiğinde daha az sürpriz kesinti anlamına gelir.</p>
+
+<h2>Dürüst takas</h2>
+<p>Yayın düzeyinde EQ'ya ve karmaşık yönlendirme zincirlerine ihtiyacınız varsa SoundSource karşılığını alır. Ücretsiz bir tamirci aracı istiyorsanız ve ara sıra kırılmayı dert etmiyorsanız, Background Music veya FineTune işinizi görecektir. Ancak macOS güncellemelerinden sonra hayatta kalan güvenli bir App Store kurulumundan akışın gerçekten talep ettiği karışımı (uygulama başına seviyeler, artırma, kayıtlı sahne profilleri ve otomatik azaltma) istiyorsanız, SoundDial paraya ulaşmanın en doğrudan yoludur.</p>
+
+<p><strong>Akış sesinizi düzeltmeye hazır mısınız?</strong> Al <a href="https://apps.apple.com/app/id6772792641">Mac App Store üzerinde SoundDial</a> 14,99 € karşılığında - mikrofonunuzu, oyununuzu, müziğinizi ve uyarı seviyenizi bir kez ayarlayın, bunları profil olarak kaydedin ve otomatik kısma özelliğinin sesinizi zirvede tutmasına izin verin.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "macOS Tahoe'da Ses Çatlaması ve Patlaması Nasıl Onarılır",
+    description: "macOS Tahoe 26'ya güncelleme yaptıktan sonra seste çatlama veya patlama sesi mi oluyor? Örnek hızını eşleştirerek, CoreAudio'yu sıfırlayarak, Bluetooth codec bileşeninizi kontrol ederek ve eklenti çakışmalarını temizleyerek sorunu düzeltin. İşte tam sorun giderme sırası.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>macOS Tahoe 26'ya güncelleme sonrasında çatlama ve patlama neredeyse her zaman bir örnekleme hızı uyumsuzluğu, kesintili bir Bluetooth kodek anlaşması veya takılıp kalmış bir CoreAudio işlemidir. Ses MIDI Kurulumunda çıkış örnek hızını eşleştirip sıfırlayarak sorunu düzeltin <code>coreaudiod</code>, Bluetooth kulaklıkları unutup yeniden eşleştirmek ve ses eklentisi ana bilgisayarlarından çıkmak. Aşağıda sırayla bunları inceleyin.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — macOS Tahoe&#x27;da Ses Çatlaması ve Patlaması Nasıl Onarılır" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ucuz düzeltmelerle başlayın</h2>
+
+<p>Teknik herhangi bir şeye dokunmadan önce, çoğu vakayı bir dakikadan kısa sürede çözen iki şeyi göz ardı edin:</p>
+
+<ul>
+<li><strong>Mac'yu yeniden başlatın.</strong> Bir Tahoe güncellemesi, ses servis programlarını şaşırtıcı bir şekilde sıklıkla yarı taşınmış durumda bırakır. Temiz bir yeniden başlatma, CoreAudio'yu sıfırdan yeniden yükler ve güncelleme sonrası çatlamaların çoğunu temizler.</li>
+<li><strong>Çıkış cihazını çıkarın ve yeniden takın.</strong> Bu bir USB DAC, dock veya ses arabirimiyse bağlantısını kesin, birkaç saniye bekleyin ve yeniden bağlayın. Farklı bir USB bağlantı noktasını da deneyin; tercihen bir hub yerine doğrudan Mac üzerinde. Sesi ileten hub'lar ve ekranlar yaygın bir ses kaynağıdır.</li>
+</ul>
+
+<p>Yeniden başlatma sırasında gürültü devam ederse bu bir aksaklık değil, bir yapılandırma sorunudur. Devam etmek.</p>
+
+<h2>Örnekleme hızını eşleştirin (en yaygın neden)</h2>
+
+<p>Klasik Tahoe çatırtısı, cihazınızın istediği ile macOS'nun gönderdiği arasındaki örnek hızı uyumsuzluğundan kaynaklanır. Bir uygulama 44,1 kHz ses çaldığında ve sistem 48 kHz'e kilitlendiğinde (veya tam tersi), yeniden örneklemede takılma veya patlama meydana gelebilir.</p>
+
+<ul>
+<li>Açık <strong>Ses MIDI Kurulumu</strong> (Uygulamalar → Yardımcı Programlar'da veya Spotlight'ta arama yapın).</li>
+<li>Sol kenar çubuğunda çıkış cihazınızı seçin.</li>
+<li>Şuna bak <strong>Biçim</strong> açılır menü. Bunu ayarlamayı deneyin <strong>48000,0 Hz, 2 kanal-24 bit Tam Sayı</strong> ve test edin.</li>
+<li>Patlama devam ederse şuna geçin: <strong>44100,0Hz</strong> ve tekrar test edin.</li>
+<li>Arayüzler için örnekleme hızının DAW'nuzun proje hızıyla eşleştiğinden emin olun.</li>
+</ul>
+
+<p>Formatı değiştirmek aynı zamanda CoreAudio'yu bağlantıyı yeniden müzakere etmeye zorlar; bu, aynı değere geri döndüğünüzde bile birçok durumu tek başına düzeltir.</p>
+
+<h2>CoreAudio'yu sıfırla</h2>
+
+<p>CoreAudio, adı verilen bir arka plan arka plan programı olarak çalışır. <code>coreaudiod</code>. Büyük bir macOS güncellemesinden sonra eski cihaz durumunu koruyabilir. Yeniden başlatmak güvenlidir ve yeniden başlatmaya gerek kalmadan anında etkili olur.</p>
+
+<p>Terminal'yu açın ve çalıştırın:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>İstendiğinde şifrenizi girin. Sesiniz bir saniyeliğine kesilecek, ardından arka plan programı temiz bir sayfayla otomatik olarak yeniden başlatılacak. Bu, güncellemeden önce sorun olmayan bir makinede birdenbire ortaya çıkan çatırtılara yönelik en etkili düzeltmedir.</p>
+
+<h2>Bluetooth kulaklığınızı ve codec bileşeninizi kontrol edin</h2>
+
+<p>Çatırtı yalnızca AirPods veya diğer Bluetooth kulaklıklarda meydana geliyorsa sorun genellikle hoparlörlerinizde değil kodek anlaşmasındadır. Bağlantı sıkışık olduğunda veya macOS düşük bant genişliğine sahip çağrı moduna düştüğünde kablosuz ses kalitesi düşer.</p>
+
+<ul>
+<li><strong>Cihazı unutun ve yeniden eşleştirin.</strong> Sistem Ayarları → Bluetooth seçeneğine gidin, kulaklıkları çıkarın ve yeniden eşleştirin. Bu, üzerinde anlaşılan codec bileşenini sıfırlar.</li>
+<li><strong>Çağrı modunun düşmesine dikkat edin.</strong> Bir uygulama mikrofonu açtığında, macOS, Bluetooth kulaklıklarını düşük kaliteli, kulağa çıtır çıtır gelen iki yönlü bir profile geçirir. Kullanmadığınız konferans ve sesli uygulamalardan vazgeçtiğinizde aslına uygunluk geri gelir.</li>
+<li><strong>Paraziti azaltın.</strong> Kalabalık 2,4 GHz ortamlardan uzaklaşın ve ihtiyacınız olmayan Bluetooth cihazlarının bağlantısını kesin. Meşgul bir radyo grubu aralıklı pop'lar üretiyor.</li>
+<li><strong>Mikrofon girişini kapatın</strong> Yalnızca dinlemeniz gerekiyorsa bir uygulamanın ayarlarında, macOS yüksek kaliteli oynatma profilini korur.</li>
+</ul>
+
+<h2>Ses eklentisi ana bilgisayarlarından ve sanal sürücülerden çıkın</h2>
+
+<p>Bir sistem uzantısı veya sanal aygıt yükleyen üçüncü taraf ses yazılımları, işletim sistemi atlamasından sonra sık sık suç işleyen kişilerdir, çünkü çekirdek ve ses uzantılarının yeni bir macOS sürümü için sıklıkla güncellenmesi gerekir. Şüpheliler arasında sanal ses yönlendiricileri, ekolayzır uygulamaları, geridöngü araçları ve eski sürücü tabanlı yardımcı programlar yer alıyor.</p>
+
+<ul>
+<li>Herhangi bir ekolayzırdan, ses yönlendiricisinden veya geridöngü uygulamasından çıkın ve çatırtının durup durmadığını test edin.</li>
+<li>Güncelleştirilmesi veya kaldırılması gerekebilecek ses uzantıları için Sistem Ayarları → Genel → Oturum Açma Öğeleri &amp; Uzantılarını kontrol edin.</li>
+<li>Bu uygulamaları Tahoe uyumlu sürümlerine güncelleyin veya artık kullanmadıklarınızı kaldırın. Yığılmış ses sürücüleri, büyük bir güncellemeden sonra sıklıkla birbiriyle çakışır.</li>
+</ul>
+
+<p>Bu uygulamalardan birini bırakmak pop'ları susturuyorsa suçluyu buldunuz. Geçerli sürümü yeniden yükleyin veya kapalı bırakın.</p>
+
+<h2>Daraltın: sistem genelinde mi yoksa tek bir uygulamada mı?</h2>
+
+<p>Gürültünün her yerde mi yoksa yalnızca belirli bir yazılımda mı meydana geldiğini öğrenin. Yerel bir ses dosyasını, ardından bir tarayıcı videosunu ve ardından bir müzik uygulamasını oynatın. Yalnızca bir uygulama çatırdıyorsa çözüm, macOS değil, o uygulamanın kendi ses ayarları veya güncellemesidir. Sorun sistem çapındaysa yukarıdaki adımlar yanıtın bulunduğu yerdir.</p>
+
+<p>Hâlâ takılıp kaldığınızda Güvenli Mod'da önyükleme yapın (Apple silikonun üzerindeki güç düğmesini basılı tutun, ardından Shift tuşunu basılı tutarken başlangıç diskinizi seçin). Güvenli Mod hiçbir üçüncü taraf uzantısı yüklemez. Ses orada temizse bunun nedeni bir oturum açma öğesi veya sürücüdür ve onu bulmak için bunları birer birer yeniden etkinleştirebilirsiniz.</p>
+
+<h2>Sesiniz temiz olduğunda</h2>
+
+<p>Çatlaklık bir sürücü ve örnekleme hızı sorunudur, dolayısıyla yukarıdaki düzeltmeler sorunu gerçekten çözer. Ancak oynatma kararlı hale geldikten sonra farklı bir sınırlama fark edebilirsiniz: Windows'da olduğu gibi, macOS'da hâlâ yerleşik uygulama başına ses karıştırıcısı yoktur. Her şeyi geri çevirmeden yüksek sesli bir uygulamayı kapatamazsınız.</p>
+
+<p>İşte boşluk <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> doldurur. Her uygulamaya kendi ses kaydırıcısını, uygulama başına ses kapatmayı ve hatta sessiz uygulamalar için ses yükseltmeyi ve ayrıca hızlı çıkış değiştirmeyi sağlayan bir menü çubuğu karıştırıcısıdır. Çatırtıyı düzeltmez, ancak sesiniz sağlıklı olduğunda günlük kontrolü çok daha kolay hale getirir.</p>
+
+<p>Yukarıdaki adımları sırayla uygulayın ve yeniden başlatma ve örnekleme hızı kontrolüyle başlayın. Daha sonra temiz ses kurulumunuzda gerçek uygulama başına kontrol istiyorsanız, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'da 14,99 €'luk tek seferlik satın alma işlemidir; hiçbir sürücü veya kurulacak DMG olmadan korumalı alana alınır.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Mac'da Kekemelik veya Kesilme (Tahoe Düzeltme)",
+    description: "macOS Tahoe'da AirPods kekemeliği, kesilmesi veya sesin kesilmesi neredeyse her zaman Bluetooth paraziti veya otomatik geçiş kaybıdır. İşte nasıl yeniden eşleştirme yapacağınız, 2,4 GHz tıkanıklığı nasıl keseceğiniz ve oynatmayı kesintiye uğratan aktarımları nasıl durduracağınız.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>AirPods'nun macOS Tahoe'da takılması veya kesilmesi, neredeyse her zaman Bluetooth parazitidir, bozuk bir kulaklık değildir. Her zamanki suçlular 2,4 GHz Wi-Fi ve yönlendirici tıkanıklığı, agresif otomatik cihaz değiştirme ve eski bir eşleştirmedir. Çoğu durumu düzeltmek için AirPods'yu yeniden eşleştirin, otomatik geçişi kapatın ve kalabalık 2,4 GHz kanallardan uzaklaşın.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Mac&#x27;da Kekemelik veya Kesilme (Tahoe Düzeltme)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>AirPods neden özellikle Mac'ya düşüyor?</h2>
+
+<p>AirPods, kalabalık 2,4 GHz radyo bandını Wi-Fi, mikrodalga fırınlar, USB 3 cihazları ve evinizdeki hemen hemen her akıllı prizle paylaşan Bluetooth'yu kullanır. Mac'nuz meşgul bir radyodur: Wi-Fi, Bluetooth, AirDrop ve Süreklilik özelliklerini üst üste binen antenler üzerinde dengeler. Bu bant tıkandığında, Bluetooth ses kekeleyen ilk şey oluyor çünkü dosya aktarımının yapabildiği gibi düşen paketlere tahammül edemiyor.</p>
+
+<p>Tahoe sihirli bir şekilde AirPods cihazınızı daha da kötüleştirmedi, ancak yeni bir macOS kurulumu sıklıkla radyo davranışını sıfırlar, Süreklilik aktarımlarını yeniden etkinleştirir ve codec bileşenleri üzerinde yeniden pazarlık yapar. Bu nedenle güncellemeden hemen sonra sorunlar ortaya çıkıyor. İyi haber: düzeltmeler iyi anlaşılmış ve çoğunlukla ücretsiz.</p>
+
+<h2>Düzeltme 1: AirPods'yu yeniden eşleştirin (önce bunu yapın)</h2>
+
+<p>Eski veya bozuk bir eşleştirme, yeniden başlatmalarda hayatta kalır ve rastgele görünen aralıklı düşmelere neden olur. Bağlantıyı tamamen kaldırın ve yeniden ekleyin:</p>
+
+<ul>
+<li>Açık <strong>Sistem Ayarları, Bluetooth</strong>.</li>
+<li>AirPods cihazınızın yanındaki bilgi (i) düğmesine tıklayın ve <strong>Bu Cihazı Unut</strong>.</li>
+<li>AirPods'yu kutusuna koyun, kapağı kapatın, 15 saniye bekleyin ve ardından açın.</li>
+<li>Işık beyaz renkte yanıp sönene kadar kasanın arkasındaki düğmeyi basılı tutun.</li>
+<li>Bluetooth listesinden yeniden eşleştirin.</li>
+</ul>
+
+<p>Oradayken AirPods donanım yazılımının güncel olduğundan emin olun. Manuel güncelleyici yoktur, ancak bunları bir süreliğine bağlı bir iPhone veya Mac'nun yanında bırakmak, arka planda güncelleme yapmalarını sağlar.</p>
+
+<h2>Düzeltme 2: Otomatik geçişin kapatılması</h2>
+
+<p>Bu, Apple ekosistemindeki insanlar için "kesilmenin" en büyük nedenidir. AirPods cihazınız sizi Mac, iPhone ve iPad'iniz arasında takip etmeye çalışır. Telefonunuz ses alması gerektiğini düşündüğünde, Mac cihazınızdaki bağlantı kesintiye uğrar ve podcast'in ortasında yarım saniyelik bir kesintiye neden olur.</p>
+
+<ul>
+<li>Mac: Bluetooth'da, AirPods'nun yanındaki (i) öğesine tıklayın, <strong>Bu Mac'ya Bağlan</strong> için <strong>Bu Mac'ya En Son Bağlanıldığında</strong> Otomatik olarak yerine.</li>
+<li>iPhone'da: Ayarlar'da AirPods cihazınıza dokunun, <strong>Bu iPhone'a Bağlan</strong>, seç <strong>Bu iPhone'a En Son Bağlanıldığında</strong>.</li>
+</ul>
+
+<p>Bu, cihazlar arasındaki çekişmeyi durdurur. Sesin nereye gideceğini manuel olarak seçeceksiniz; bu, istikrarlı oynatma için küçük bir bedeldir.</p>
+
+<h2>Düzeltme 3: 2,4 GHz tıkanıklığı kesin</h2>
+
+<p>Video görüşmeleri, indirmeler sırasında veya diğer kişiler yayın yaparken kesintiler meydana gelirse, radyo bandınız doymuş demektir. Birkaç pratik hareket:</p>
+
+<ul>
+<li><strong>5GHz Wi-Fi bandını kullanın</strong> Mac cihazınızda. Yönlendirici ayarlarınızda 5GHz ağına farklı bir ad verin ve ona bağlanın. Bu, Bluetooth için 2,4 GHz bandını serbest bırakır.</li>
+<li><strong>USB 3 ve Thunderbolt hub'larını uzaklaştırın</strong> Mac ve AirPods cihazınızdan. USB 3, kötü şöhretli bir 2,4 GHz gürültü kaynağıdır; Dizüstü bilgisayarınızın yanında bulunan bir hub, Bluetooth'yu birkaç santim öteden mahvedebilir.</li>
+<li><strong>Yönlendiricinizin 2,4 GHz kanalını değiştirin</strong> 1, 6 veya 11'e (örtüşmeyen seçenekler) gidin ve komşularınızın bulunduğu kalabalık kanallardan kaçının.</li>
+<li><strong>Görüş hattınızı koruyun.</strong> Gövdeler ve duvarlar 2,4 GHz'i emer. Mac cihazınız arkanızda veya bir çantanın içindeyse düşmeler daha da kötüleşir.</li>
+</ul>
+
+<blockquote>Wi-Fi 6E ve Wi-Fi 7 yönlendiricileri dolaylı olarak yardımcı olabilir: cihazlarınızı 6 GHz'e itmek, Bluetooth'nun bağlı olduğu 2,4 GHz bandını temizler. Ancak sizi 2,4 GHz'e geri döndüren kötü yapılandırılmış bir ağ, işleri daha da kötüleştirebilir. Gerçekte hangi grupta olduğunuzu kontrol edin.</blockquote>
+
+<h2>Düzeltme 4: Bluetooth ve Süreklilik yığınını sıfırlayın</h2>
+
+<p>Yeniden eşleştirme işe yaramazsa radyoları kendiniz sıfırlayın:</p>
+
+<ul>
+<li>Menü çubuğundan Bluetooth'yu kapatıp açın, ardından Mac'yu yeniden başlatın. Yeniden başlatma, şaşırtıcı sayıda geçici ses sorununu ortadan kaldırır.</li>
+<li>Intel Mac'larda SMC/NVRAM'ı sıfırlayın veya Apple Silicon'u 30 saniye boyunca tamamen kapatın (yeniden başlatmayın).</li>
+<li>AirDrop veya Handoff kullanmıyorsanız Sistem Ayarları, Genel bölümünden Handoff'u devre dışı bırakarak AirDrop &amp; Handoff arka plandaki radyo sohbetini azaltır.</li>
+</ul>
+
+<h2>Sorunu ne düzeltmez (ve ses mikserinin gerçekte yaptığı şey)</h2>
+
+<p>Kapsamı açıklığa kavuşturmak gerekirse: bunların hiçbiri bir yazılım birimi sorunu değildir ve hiçbir birim uygulaması bir Bluetooth bağlantısını onaramaz. Eğer sesiniz <em>düşürmek</em>, yukarıdaki radyo sorununu takip edin. Şuna benzer uygulamalar <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> uygulama başına ses seviyesini, ses kapatmayı ve çıkış değiştirmeyi kontrol ederler, Bluetooth yığınına dokunmazlar, dolayısıyla kekemeliği durdurmazlar. Bir mikserin gerçekten yardımcı olduğu nokta, birçok AirPods kullanıcısının kesintilerle bağdaştırdığı bitişik rahatsızlıktır: bir uygulamanın patlaması sırasında diğeri çok sessizdir veya çıkışları hızlı bir şekilde atlama ihtiyacı duyar. Bu bir ses dengesi sorunu, bağlantı sorunu değil.</p>
+
+<p>Dürüstçe teşhis koyun. Ses bir vuruş için kesilip geri geliyorsa, bu bir parazit veya otomatik geçiştir. Uygulamalar arasında seviyeler eşit değilse, bu aslında yazılımla çözebileceğiniz bir karıştırma sorunudur.</p>
+
+<h2>Hızlı kontrol listesi</h2>
+
+<ul>
+<li>AirPods'yu unutun ve yeniden eşleştirin.</li>
+<li>Hem Mac'yu hem de iPhone'u şu şekilde ayarlayın: <strong>En Son Bağlanıldığında</strong>, Otomatik olarak değil.</li>
+<li>Mac'nuzu 5 GHz Wi-Fi'ye taşıyın; USB 3 hub'larını uzak tutun.</li>
+<li>2,4 GHz'i kanal 1, 6 veya 11'e ayarlayın.</li>
+<li>Bluetooth'yu değiştirdikten sonra yeniden başlatın.</li>
+</ul>
+
+<p>Kesintiler ortadan kalktığında ve her uygulamanın ne kadar yüksek sesle oynatılacağı konusunda daha net bir kontrol istiyorsanız, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS'nun hala içermediği uygun bir uygulama başına ses mikseri, sessize alma, yükseltme ve hızlı çıkış değiştirme özelliği ekler. Bu, Mac App Store'da 14,99 €'luk tek seferlik satın alma işlemidir, korumalı alana alınır ve hiçbir sürücü kurulmaz.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Tahoe Güncellemesinden Sonra Mac'da Sağ Hoparlör Öldü mü? Nasıl Düzeltilir",
+    description: "macOS Tahoe'ya güncelleme yaptıktan sonra bir hoparlör veya kanal çalışmayı durdurdu mu? Ses dengesi kaydırıcısıyla başlayın, ardından Core Audio'yu sıfırlayın, güvenli modu deneyin ve donanımı devre dışı bırakın. Açık bir sorun giderme kılavuzu.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>macOS Tahoe'ya güncelleme yaptıktan sonra sağ hoparlörünüz sustuysa sesi kontrol edin <strong>denge kaydırıcısı</strong> Birincisi, güncelleme sırasında değişebilir. Sistem Ayarları &gt; Ses &gt; Çıkışı'na gidin ve Balance'ın tam merkezde olduğundan emin olun. Sorun yoksa Core Audio'yu yeniden başlatın, güvenli modda önyükleyin ve ardından donanımı devre dışı bırakın. Çoğu vaka yazılımdır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Tahoe Güncellemesinden Sonra Mac&#x27;da Sağ Hoparlör Öldü mü? Nasıl Düzeltilir" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Birincisi: denge kaydırıcısı (bunu düşündüğünüzden daha sık düzeltir)</h2>
+
+<p>Sıkışan veya değişen denge kaydırıcısı, bir kanalın sessiz kalmasının en yaygın nedenidir ve macOS güncellemeleri zaman zaman onu dürter. En kötüsünü varsaymadan önce:</p>
+
+<ul>
+<li>Açık <strong>Sistem Ayarları &gt; Ses</strong>.</li>
+<li>tıklayın <strong>Çıkış</strong> sekmesine gidin ve hoparlörlerinizi (yerleşik veya harici aygıtınız) seçin.</li>
+<li>Bul <strong>Bakiye</strong> kaydırıcıyı seçin ve tam merkeze sürükleyin. Sola çekilirse sağ kanalınız ölü gibi görünecektir.</li>
+</ul>
+
+<p>Bunu yap <em>çıkış cihazı başına</em>. Denge ayarı, yerleşik hoparlörler, kulaklıklar ve her bir harici arayüz için ayrı ayrı hatırlanır; dolayısıyla, sorun USB DAC'nizdeyse merkezi bir yerleşik dengenin faydası olmaz.</p>
+
+<h2>Bunun gerçekten bir donanım kanalı olup olmadığını test edin</h2>
+
+<p>Donanımı hızlı bir şekilde içeri veya dışarı doğru yönetin. İyi bildiğiniz bir stereo parçayı çalın ve ardından bir çift kablolu kulaklık takın. Her iki kanal da kulaklıkla çalışıyor ancak hoparlörler aracılığıyla çalışmıyorsa sorun, ses motorunun alt akışındadır (hoparlör donanımı veya çıkış yolu). Aynı kanal kulaklıklarda da ölüyse, bunun nedeni büyük olasılıkla yazılım veya mantık kartının ses kodlayıcısıdır.</p>
+
+<p>Ayrıca açabilirsiniz <strong>Müzik</strong> veya QuickTime, bir şeyler çalın ve dengeyi önce sola, sonra tam sağa değiştirin. Ses kanallar arasında temiz bir şekilde hareket ediyorsa, her iki hoparlör de çalışıyor demektir ve bu tamamen bir ayar sorunudur.</p>
+
+<h2>Core Audio'yu yeniden başlatın</h2>
+
+<p>macOS tüm sesi <strong>çekirdek ses</strong> süreç. Büyük bir güncellemeden sonra durumu sıkışabilir; çıkışlar kaybolur, kanallar düşer veya ses seviyesi tuhaf davranır. Yeniden başlatmak güvenlidir ve macOS'yu ses grafiğini yeniden oluşturmaya zorlar:</p>
+
+<ul>
+<li>Açık <strong>Terminal</strong> (Uygulamalar &gt; Yardımcı Programlar).</li>
+<li>Çalıştır: <code>sudo killall coreaudiod</code></li>
+<li>Şifrenizi girin. Ses arka plan programı bir veya iki saniye içinde otomatik olarak yeniden başlatılır.</li>
+</ul>
+
+<p>Hiçbir şey silinmez; bu yalnızca ses alt sistemini yeniden başlatır. Hemen ardından sağ hoparlörünüzü tekrar test edin.</p>
+
+<h2>Düzgün şekilde yeniden başlatın ve ardından güvenli modu deneyin</h2>
+
+<p>Tam yeniden başlatma, killall'ın çözemeyeceği geçici ses sorunlarını giderir. Kanal hala ölüyse, önyükleme yapın <strong>güvenli mod</strong>Minimal bir sistem yükleyen ve üçüncü taraf ses uzantılarını ve oturum açma öğelerini atlayan:</p>
+
+<ul>
+<li><strong>Elma Silikonu:</strong> Kapatın. "Başlangıç ​​seçenekleri yükleniyor" görünene kadar güç düğmesini basılı tutun. Diskinizi seçin ve basılı tutun <strong>Shift</strong> ve "Güvenli Modda Devam Et"i tıklayın.</li>
+<li><strong>Bilgi:</strong> Yeniden başlat ve basılı tut <strong>Shift</strong> Oturum açma penceresi görünene kadar.</li>
+</ul>
+
+<p>Her iki hoparlör de güvenli modda çalışıyorsa, güncellemeden önce yüklenmiş bir üçüncü taraf ses sürücüsü, sanal aygıt veya menü çubuğu yardımcı programı Tahoe'nun yeni ses yığınıyla çakışıyor demektir. Normale dönün ve yakın zamanda yüklenen ses yazılımını kaldırın veya güncelleyin (ekran kaydediciler, toplantı uygulamaları ve ses yönlendirme kext'leri yaygın suçlulardır).</p>
+
+<h2>NVRAM'ı sıfırlayın (yalnızca Intel Mac'ler)</h2>
+
+<p>Intel Mac'larda ses ve hoparlör ayarları NVRAM/PRAM'de bulunur ve eski bir değer güncellemeden sonra hayatta kalabilir. Sıfırlayın: kapatın, ardından açın ve hemen basılı tutun <strong>Seçenek + Komut + P + R</strong> yaklaşık 20 saniye boyunca Mac'nun bir kez yeniden başlatılmasına izin verin. Bu, Apple Silicon Mac'lar için geçerli değildir; bunu otomatik olarak yönetirler, bu nedenle M serisi bir makine kullanıyorsanız bunu atlayın.</p>
+
+<h2>Tekrar güncelleyin ve bir nokta sürümü olup olmadığını kontrol edin</h2>
+
+<p>Herhangi bir büyük macOS sürümünün ilk sürümleri, daha sonra yamalanacak ses sürücüsü hatalarıyla birlikte gelir. Git <strong>Sistem Ayarları &gt; Genel &gt; Yazılım Güncellemesi</strong> ve bekleyen Tahoe noktası sürümlerini (14.x.1, 14.x.2 vb.) yükleyin. Ek bir güncelleme varsa, genellikle güncelleme sonrası ses gerilemelerini tam olarak ele alır.</p>
+
+<h2>Gerçekten donanım olduğunda</h2>
+
+<p>Güvenli mod, Core Audio'nun yeniden başlatılması ve temiz bir yeniden yükleme başarısız olursa ve kulaklıklarda aynı kanal ölüyse, bir donanım hatasıyla karşı karşıya olabilirsiniz. Bir güncellemenin zamanlaması tesadüfi olabilir; hoparlör amplifikatörleri ve ses codec bileşenleri arızalanır. Çalıştır <strong>Apple Teşhisleri</strong> (kapatın, ardından Apple Silicon'daki güç düğmesini basılı tutun ve Tanılama'yı seçin veya basılı tutun <strong>D</strong> Başlangıçta Intel'de). Bir ses bileşenini işaretlerse iletişime geçin <strong>Apple Desteği</strong> veya yetkili servis sağlayıcınız. Patlamış bir hoparlör için yazılıma para harcamayın.</p>
+
+<blockquote>Hızlı genel kural: Eğer ses, denge kaydırıcısıyla doğru bir şekilde kayıyorsa, her iki hoparlör de fiziksel olarak iyi durumdadır ve düzeltmeniz yazılımdadır. Hiçbir zaman ölü tarafa geçmezse donanımdan şüphelenin.</blockquote>
+
+<h2>Toplu yazılım nereye uyar (ve nereye uymaz)</h2>
+
+<p>Açık olmak gerekirse: ölü bir hoparlör kanalı, ses uygulamasının düzelttiği bir şey değildir; yukarıdaki kontroller sizin yolunuzdur. Bununla birlikte, sesiniz yeniden sağlıklı hale geldiğinde macOS'da Windows'nun yıllardır sahip olduğu bir şey eksiktir: gerçek bir uygulama başına ses mikseri. Bir uygulamanın çok gürültülüyken diğerinin çok sessiz olması nedeniyle kendinizi Ses ayarlarını karıştırırken bulursanız, aşağıdaki gibi bir menü çubuğu karıştırıcısı kullanabilirsiniz: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> sistem bakiyenize dokunmadan uygulama başına bağımsız ses seviyesi, sessize alma ve hatta yükseltme ayarlamanıza olanak tanır. Bu, bu makaledeki sorunun onarımı değil, günlük karıştırma için kullanışlı bir araçtır.</p>
+
+<h2>Kısa versiyon</h2>
+
+<ul>
+<li>Ortala <strong>Bakiye</strong> kaydırıcı — çıkış cihazı başına.</li>
+<li>Donanımı izole etmek için kulaklıkla test edin.</li>
+<li>Çalıştır <code>sudo killall coreaudiod</code>, ardından yeniden başlatın.</li>
+<li>Deneyin <strong>güvenli mod</strong> sürücü çatışmalarını yakalamak için.</li>
+<li>Intel'de NVRAM'ı sıfırlayın; herhangi bir Tahoe noktası sürümünü yükleyin.</li>
+<li>Hala kulaklıkla ölü müsün? Apple Diagnostics'i çalıştırın ve Apple'ı arayın.</li>
+</ul>
+
+<p>Hoparlörleriniz normale döndüğünde, uygulama başına ses yüksekliğiyle uğraşmak günlük bir sıkıntıysa, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS karıştırıcının her zaman eksik olduğunu ekliyor — 14,99 €, tek seferlik, korumalı alana alınmış, sürücüsüz.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods Mac Cihazınızda Yarı Ses Düzeyinde mi Takıldınız? İşte Düzeltme",
+    description: "AirPods'nun Mac cihazınıza neden yarı ses seviyesinde bağlandığının (genellikle eller serbest mikrofon profiline Bluetooth codec anahtarı) artı onarım düzeltmeleri ve seviye yedeklemesinin tamamen nasıl artırılacağı.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>AirPods, Mac'da genellikle yarı yarıya düşer çünkü macOS bunları yüksek kaliteli A2DP ses profilinden, telefon görüşmesi mikrofonu kullanımı için tasarlanmış düşük kaliteli eller serbest (HFP) profiline geçirdi. Bu mod çıktıyı ve kaliteyi sınırlar. Mac'yu yalnızca kulaklık sesine geri döndürerek sorunu düzeltin, ardından bu sesi orada tutmak için seviyeyi artırın.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Mac Cihazınızda Yarı Ses Düzeyinde mi Takıldınız? İşte Düzeltme" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Bu neden oluyor: codec anahtarı</h2>
+
+<p>AirPods gibi Bluetooth ses cihazları iki moddan birinde çalışır. Sadece dinlerken, macOS A2DP'yi kullanır; tam stereo, tam ses yüksekliği, temiz kalite. Ancak bir uygulama mikrofonunuzu istediği anda macOS tüm bağlantıyı HFP'ye (Eller Serbest Profili) geçirir. HFP iki yönlü bir telefon codec bileşenidir. Müzik için değil sesli aramalar için tasarlandığından ince, tekdüze ve fark edilir derecede daha sessiz geliyor.</p>
+
+<p>Sorun, macOS'nun, mikrofonu alan uygulama tamamlandıktan sonra bile genellikle HFP'de takılı kalması veya Zoom, FaceTime, Teams, Discord veya mikrofon iznine sahip bir tarayıcı sekmesini açtığınızda uygulamaya geçmesidir. Yani AirPods'nuz, ses düzeyi kaydırıcısının hareket etmesinden değil, tüm ses profilinin altınızda düşürülmesinden dolayı "yarı ses seviyesinde" gibi ses çıkarır.</p>
+
+<p>Bunu fark edeceksiniz: ses aniden sessizleşiyor ve boğuklaşıyor, AirPods ses ayarlarınızda iki kez görünüyor (bir kez çıkış olarak, bir kez mikrofon olarak) ve sistem sesini sonuna kadar açmak pek işe yaramıyor.</p>
+
+<h2>Yeniden eşleştirme ve codec bileşeni geçici çözümleri</h2>
+
+<p>Bunlar dürüst ilk adımlardır. Bunları sırayla çalışın; ilklerden biri genellikle sorunu çözer.</p>
+
+<ul>
+<li><strong>Giriş cihazınızı değiştirin.</strong> Sistem Ayarları → Ses → Giriş'i açın ve AirPods yerine Mac cihazınızın yerleşik mikrofonunu seçin. Bu, macOS'nun AirPods'yu HFP modunda tutmasını durdurur, böylece çıktı tam A2DP kalitesine geri dönebilir. Bu en etkili tek çözümdür.</li>
+<li><strong>Bluetooth'yu kapatıp açın.</strong> Bağlantının hızlı bir şekilde sıfırlanması, özellikle AirPods'nun bir çağrı bittikten sonra takılıp kalması durumunda, genellikle A2DP'yi temiz bir şekilde yeniden müzakere eder.</li>
+<li><strong>AirPods'yu yeniden bağlayın.</strong> Kasayı kapatın, birkaç saniye bekleyin, Mac yakınında yeniden açın ve bunları çıkış cihazı olarak yeniden seçin.</li>
+<li><strong>Mikrofonu alan uygulamadan çıkın.</strong> Zoom, Teams, Discord veya tarayıcı sekmesinden tamamen çıkın. Bazı uygulamalar mikrofon oturumunu arka planda açık tutar ve HFP'yi mikrofon bitene kadar sabitler.</li>
+<li><strong>Sıfırdan yeniden eşleştirin.</strong> Sistem Ayarları → Bluetooth altından AirPods'yu kaldırın (bilgi düğmesine tıklayın → Bu Cihazı Unutun), ardından tekrar eşleştirin. Bu, tek başına geçiş yapmanın çözemeyeceği bozuk bir profil anlaşmasını temizler.</li>
+<li><strong>AirPods'yu sıfırlayın.</strong> Kasa kapağı açıkken, ışık önce sarı, sonra beyaz renkte yanıp sönene kadar arkadaki kurulum düğmesini basılı tutun. Daha sonra yeniden eşleştirin. Bu, ürün yazılımı düzeyindeki tuhaflık için nükleer seçenektir.</li>
+<li><strong>macOS ve AirPods ürün yazılımını güncelleyin.</strong> Apple, nokta sürümlerinde Bluetooth ses düzeltmelerini gönderdi. AirPods cihaz yazılımı, bağlı bir cihazın yanında şarj olurken sessizce güncellenir; bu nedenle onları gece boyunca Mac cihazınızın yanındaki kutuda bırakın.</li>
+</ul>
+
+<blockquote><p>İzlenecek model: Bir çağrıya katıldığınız anda ses düzeyi düşüyorsa ve çağrı sona erdiğinde normale dönüyorsa, bunun nedeni HFP anahtarıdır; bozuk bir hoparlör veya ayar hatası değildir.</p></blockquote>
+
+<h2>Düzeltmeler neden her zaman kalıcı olmuyor?</h2>
+
+<p>İşte sinir bozucu kısım. Yeniden eşleştirmeden sonra bile macOS, herhangi bir uygulamanın mikrofona bir sonraki dokunuşunda AirPods'nuzu mutlu bir şekilde sessiz eller serbest moduna geri döndürecektir. Bu davranışı sistem ayarlarında kalıcı olarak devre dışı bırakamazsınız; Apple bunu otomatik olarak değerlendirir. Böylece, giriş cihazı numarasını günde birkaç kez yeniden yapmak zorunda kalırsınız ve AirPods'nuz bir çağrıdayken veya mikrofona aç bir uygulamadayken, yine bu düşük seviyede sınırlanırlar.</p>
+
+<p>İnsanların bununla bağdaştırdığı ikinci, ayrı bir sorun daha var: Bazı uygulamalar maksimum sistem ses seviyesinde diğerlerinden daha sessizdir. Bir podcast oynatıcı veya tarayıcı sekmesi, AirPods temiz A2DP çalıştırırken bile kulaklarınızın istediğinin oldukça altında durabilir. macOS size her şey için tek bir ses düzeyi kaydırıcısı sunar ve uygulama başına kontrol yoktur, dolayısıyla tek bir sessiz uygulamayı yedeklemenin yerel bir yolu yoktur.</p>
+
+<h2>Seviye yedeklemesini artırın ve orada tutun</h2>
+
+<p>Uygulama başına ses karıştırıcının yerini kazandığı yer burasıdır. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS için çalışan her uygulamaya %100'ün üzerinde bir yükseltme de dahil olmak üzere kendi bağımsız ses düzeyi kaydırıcısını sağlayan bir menü çubuğu uygulamasıdır. Dolayısıyla, AirPods cihazınız bir çağrıdan daha düşük bir etkili düzeyde geri döndüğünde veya belirli bir uygulama çok sessiz olduğunda, o uygulamayı normal tavanın ötesine sürüklersiniz ve orada kalır.</p>
+
+<p>Somut olarak bu şu anlama gelir:</p>
+
+<ul>
+<li><strong>Uygulama başına ses artırımı.</strong> Sessiz bir uygulamayı "tam" sistem ses seviyesinde duymak için zorlamak yerine standart maksimumun üzerine itin.</li>
+<li><strong>Hacim profilleri.</strong> Bir dizi seviyeyi (güçlendirilmiş tarayıcı, daha yumuşak müzik, yüksek sesli görüntülü aramalar) kaydedin ve tüm düzenlemeyi tek tıklamayla değiştirin, böylece her yeniden bağlantıdan sonra yeniden ayarlamanıza gerek kalmaz.</li>
+<li><strong>Hızlı çıkış değiştirme.</strong> Sistem Ayarlarına girmeden menü çubuğundan AirPods, dizüstü bilgisayar hoparlörleri ve harici DAC arasında geçiş yapın; bu, yeni bir profil görüşmesini zorladığınızda size yardımcı olur.</li>
+<li><strong>Uygulama başına sessize alma ve otomatik kapatma.</strong> Geri kalanına dokunmadan bir uygulamayı sessize alın ve daha önemli bir şey oynatıldığında medyanın otomatik olarak azalmasına izin verin.</li>
+</ul>
+
+<p>Bunun ne yapıp ne yapmadığını açık bir şekilde belirtmekte fayda var. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS'yu A2DP'de kalmaya zorlamayacaktır — yukarıdaki giriş cihazı hilesi hala codec bileşeni için sizin aracınızdır. Yaptığı şey, uygulama başına sürüm düşürmenin çaldığı ses yüksekliğini geri vermektir, böylece sessiz bir AirPods oturumu veya inatla yumuşak bir uygulama, kaybedilen bir neden yerine tek sürüklemeyle çözüm olur. Korumalı alana alınmış bir Mac App Store uygulaması olduğu için yüklenecek ses sürücüsü yok, DMG yok, çekirdek uzantısı yok; sadece çalışıyor.</p>
+
+<h2>Kısa versiyon</h2>
+
+<p>AirPods'nuzun sesi Mac'nuzda sessiz ve boğuk geliyorsa, giriş cihazınızı AirPods'yu kapatın ve onları eller serbest modundan çıkmaya zorlayın ve bu başarısız olursa yeniden eşleştirin. Seviye hala istediğiniz yere ulaşamıyorsa veya tek bir uygulama çok yumuşaksa, uygulama başına yükseltmeye ulaşın, böylece bunu bir kez ayarlayıp devam edersiniz.</p>
+
+<p>Her çağrı aldığınızda ses düzeyi kaydırıcısıyla uğraşmaktan bıktınız mı? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — tek seferlik 14,99 €, abonelik yok, sürücü yok — ve her uygulamaya kendi hacmini verin.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Mac Birimi Tahoe'da Kendini Sıfırlamaya Devam Ediyor mu? İyilik İçin Nasıl Kilitlenir",
+    description: "macOS Tahoe'dan bu yana birçok Mac ses düzeyini kendiliğinden değiştiriyor veya sıfırlıyor. İşte bunun nedeni, yerleşik nedenlerin nasıl durdurulacağı ve uygulama başına sabit bir birimin sabit kalması için nasıl kilitleneceği.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Mac ses düzeyiniz macOS Tahoe'dan bu yana kendini sıfırlamaya devam ediyorsa çözüm, otomatik ayarlayıcıları ortadan kaldırmaktır: ses kısmayı devre dışı bırakın ve "Başlangıçta ses çal", ses ayarlarını sıfırlayın ve herhangi bir Bluetooth çıkışını temiz bir şekilde yeniden bağlayın. Atlayan uygulama başına seviyeler için, bir mikser ile uygulama başına sabit bir ses seviyesini kilitleyin, böylece bir daha asla kaymaz.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Birimi Tahoe&#x27;da Kendini Sıfırlamaya Devam Ediyor mu? İyilik İçin Nasıl Kilitlenir" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Tahoe'dan sonra ses düzeyiniz neden kendi kendine değişiyor?</h2>
+
+<p>Siz dokunmadan hareket eden bir birim, bir donanım arızası gibi hissettirir, ancak seviyenizi sizin yerinize belirleyen neredeyse her zaman yazılımdır. macOS'nun çıkışı sessizce iten veya sıfırlayan çeşitli otomatik davranışları vardır ve Tahoe'nun ses yığını değişiklikleri bunlardan birkaçını daha belirgin hale getirmiştir. Uygulamanın veya Mac'nun bozuk olduğunu varsaymadan önce, kaydırıcıyı tam olarak hangi sistemin kullandığını bilmek yardımcı olur.</p>
+
+<ul>
+<li><strong>Sesin kısılması:</strong> macOS, daha önemli bir şeyin çalındığını düşündüğünde (Siri, erişilebilirlik duyuruları, bildirimler) diğer sesleri azaltır. Tetikleyici sona erdikten sonra seviye bazen tamamen geri gelmez.</li>
+<li><strong>Bluetooth el sıkışma sıfırlanır:</strong> AirPods ve diğer Bluetooth cihazları, bağlantı sırasında ses düzeyini yeniden belirler. Oturumun ortasında yeniden bağlanmak, çıkışı varsayılana veya çok daha yüksek/daha sessiz bir düzeye getirebilir.</li>
+<li><strong>Çıkış cihazı değiştirme:</strong> Kulaklıkları çıkardığınızda, dock'a bağladığınızda veya monitörün hoparlörlerine geçiş yaptığınızda her çıkış kendi ses düzeyini hatırlar. İleri geri geçiş "rastgele" sıfırlamalara benziyor.</li>
+<li><strong>Uygulama başına varsayılanlar:</strong> Bazı uygulamalar (tarayıcılar, video oynatıcılar, konferans araçları), başlangıçta veya yeni bir akış başladığında, sahip olduğunuz her şeyi geçersiz kılarak kendi kazançlarını belirler.</li>
+<li><strong>Başlangıç sesi ve oturum açma durumu:</strong> Önyükleme sesi ve oturum açma, sistem ses düzeyini seçmediğiniz varsayılan düzeye geri itebilir.</li>
+</ul>
+
+<h2>Önce yerleşik nedenleri düzeltin</h2>
+
+<p>Bunları sırasıyla çalışın. Çoğu "kendini sıfırlar" şikayeti, eğilip Bluetooth göz ardı edildiğinde ortadan kalkar.</p>
+
+<ul>
+<li><strong>Başlangıç sesini kapatın.</strong> Sistem Ayarları → Ses → işareti kaldırın <em>Başlangıçta ses çal</em>. Bu, önyükleme sesinin temel seviyenizi sıfırlamasını durdurur.</li>
+<li><strong>Eğilme tetikleyicilerini azaltın veya devre dışı bırakın.</strong> Sistem Ayarları → Erişilebilirlik → Sözlü İçerik ve Siri'de ihtiyacınız olmayan sesli duyuruları kapatın. Daha az tetikleyici, macOS'nun sesi düşürdüğü ve geri yüklemeyi unuttuğu anların daha az olduğu anlamına gelir.</li>
+<li><strong>Sorunlu Bluetooth cihazlarını yeniden eşleştirin.</strong> AirPods veya kulaklıkları Bluetooth ayarlarından çıkarın ve yeniden eşleştirin. Eski bir profil, bağlantı sırasında birimin kapanmasının yaygın bir nedenidir.</li>
+<li><strong>Her çıkış cihazını bilinçli olarak ayarlayın.</strong> Kullandığınız her çıkışı (dahili, monitör, kulaklık) bağlayın ve ses seviyesini bir kez ayarlayın. macOS ses seviyesini cihaz başına saklar, böylece hepsini ayarlamak geçiş yaptığınızda ortaya çıkan sürprizi ortadan kaldırır.</li>
+<li><strong>Sıkışmışsa Core Audio'yu sıfırlayın.</strong> Terminal'yu açın ve çalıştırın <code>sudo killall coreaudiod</code>. Bu, ses arka plan programını yeniden başlatmadan yeniden başlatır ve düzensiz düzeylere neden olabilecek askıda kalma durumunu temizler.</li>
+<li><strong>Güncelleyin, ardından yeniden başlatın.</strong> Erken Tahoe noktası, gönderilen ses düzeltmelerini yayınladı. En son sürümde olduğunuzdan emin olun ve güncellemeden sonra bir kez yeniden başlatın.</li>
+</ul>
+
+<p>Sıfırlamalar durursa suçlunuz yukarıdakilerden biri olabilir. Eğer senin <em>sistem</em> ses düzeyi sabit ancak bireysel uygulamalar her şeyden daha yüksek veya daha sessiz olmaya devam ediyor; yerleşik kontrollerin yapabileceklerinin sınırına ulaştınız.</p>
+
+<h2>Gerçek boşluk: macOS uygulama başına ses seviyesini kilitleyemiyor</h2>
+
+<p>İşte sinir bozucu kısım. Windows'nun yıllardır uygulama başına ses karıştırıcısı var; onu açarsınız, bir uygulamanın kaydırıcısını sürüklersiniz ve o orada kalır. macOS hiçbir zaman bir tane göndermedi. Tam olarak tek bir sistem ses düzeyi kaydırıcısı vardır ve her uygulama bunun için kavga eder. Dolayısıyla, bir tarayıcı sekmesi otomatik oynatılan bir reklamı patlattığında veya bir video görüşmesi müziğinizin iki katı ses seviyesinde geldiğinde, tek seçeneğiniz ana ses seviyesini manuel olarak ayarlamaktır; bu, kaçmaya çalıştığınız "bu neden sürekli değişiyor" döngüsüdür.</p>
+
+<blockquote>Sistem kaydırıcısı tek bir paylaşılan aramadır. Uygulama başına bir karıştırıcı olmadan, macOS stokunda "ayarla ve unut" imkansızdır - bir şey her zaman sizi geçersiz kılacaktır.</blockquote>
+
+<h2>SoundDial ile uygulama başına sabit bir birimi kilitleyin</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> uygulama başına karıştırıcı macOS'nun eksik olduğunu ekler. Menü çubuğunuzda bulunur ve çalışan her uygulamaya, ana programdan bağımsız olarak kendi ses kaydırıcısını verir. Her uygulama için belirlediğiniz seviyeyi hatırladığı için "kendini sıfırlama" sorununu doğrudan çözer: Bir kez karar verirsiniz ve o uygulama her seferinde o ses seviyesinde açılır.</p>
+
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi:</strong> Ana kaydırıcı hokkabazlığı olmadan aynı anda müziği %40'ta ve görüntülü aramayı %80'de tutun.</li>
+<li><strong>Uygulama başına sessize alma ve güçlendirme:</strong> gürültülü bir uygulamayı anında susturun veya çok sessiz bir uygulamayı kendi sesi zayıf olduğunda %100'ün üzerine itin.</li>
+<li><strong>Hacim profilleri:</strong> "iş", "oyun" veya "odaklanma" ayarlarını kaydedin ve tek tıklamayla tüm karışımı değiştirin.</li>
+<li><strong>Kendi şartlarınıza göre otomatik olarak eğilme:</strong> macOS karar vermek yerine, konuştuğunuzda veya seçilen bir uygulama etkin olduğunda arka plan uygulamalarını otomatik olarak düşürür.</li>
+<li><strong>Hızlı çıkış değiştirme:</strong> Ayarlara dalmadan menü çubuğundan hoparlörler ve kulaklıklar arasında geçiş yapın ve sesi izleyin.</li>
+</ul>
+
+<p>Bu, Mac App Store'dan tek seferlik 14,99 € tutarında bir satın almadır; abonelik yok, sürücü yok, DMG yok ve çekirdek uzantısı yok. Tamamen korumalı alan olduğundan ve App Store dağıtımına sahip olduğundan, Tahoe'nun bir sonraki güncellemede engelleyebileceği eski bir ses kext'i yüklemiyorsunuz. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> desteklenen API'leri kullanarak seviyelerinizi ayarlar, böylece hatırlanan birimleriniz güncellemelerden ve yeniden başlatmalardan etkilenmez.</p>
+
+<h2>Aslında hangi yaklaşıma ihtiyacınız var?</h2>
+
+<p>Tüm sisteminizin ses seviyesi yükselirse, yukarıdaki yerleşik düzeltmelerle başlayın; çoğu durumda ses kısma, Bluetooth ve başlangıç sesi hesabı. Bunun yerine sorun bir uygulamanın her zaman tuhaf olmasıysa veya ana kaydırıcının ödün vermesinden bıktıysanız, uygulama başına bir karıştırıcı tek gerçek cevaptır. macOS bir tane eklemeyecektir, bu nedenle menü çubuğu aracı, gerçekten koyduğunuz yerde kalan bir karışıma giden pratik yoldur.</p>
+
+<p>Tahoe'daki ses kaydırıcısını takip etmekten bıktınız mı? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve her uygulama için hatırlanan bir birimi kilitleyin - tek seferlik 14,99 €, abonelik yok, sürücü yok.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "DAW Monitörünüzün Sesini Mac Üzerindeki Sistem Sesinden Ayrı Olarak Kontrol Edin",
+    description: "macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur, dolayısıyla DAW'nuz ve sistem sesleriniz aynı düzeyi paylaşır. Logic, Ableton veya GarageBand monitör ses düzeyini tarayıcınızdan ve bildirimlerinizden bağımsız olarak nasıl kontrol edebileceğiniz aşağıda açıklanmıştır.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>macOS'da yerleşik uygulama başına ses karıştırıcısı bulunmadığından DAW cihazınız ve diğer her şey tek bir sistem kaydırıcısını paylaşır. Monitör seviyenizi tarayıcılardan, Slack'dan ve bildirimlerden bağımsız olarak ayarlamak için uygulama başına ses kontrolüne ihtiyacınız vardır. Gibi bir menü çubuğu karıştırıcısı <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Logic, Ableton ve GarageBand'ya sistem sesinden ayrı olarak kendi ses seviyelerini verir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — DAW Monitörünüzün Sesini Mac Üzerindeki Sistem Sesinden Ayrı Olarak Kontrol Edin" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden bir ses kaydırıcısı izlemenizi mahvediyor?</h2>
+
+<p>Üretim yaparken DAW'nuz ses çıkaran birçok şeyden yalnızca biridir. Bir tarayıcı sekmesinde bir referans parçası oynatılır. Slack ping'leri geliyor. YouTube öğreticisi ikinci bir monitörde çalışır. Windows'daki Ses Düzeyi Mikseri tüm bunları bağımsız olarak dengelemenizi sağlar. macOS'da Apple asla eşdeğerini göndermedi; ses tuşları ve menü çubuğu kaydırıcısı hareket ediyor <em>her şey</em> hemen.</p>
+
+<p>Bu, kulakla karıştırma yapan herkes için gerçek bir sorun yaratır. Logic'da rahat bir izleme seviyesi ararsınız, ardından aynı seviyede bir bildirim gelir ve kulaklarınızı patlatır. Veya gürültülü bir geçiş sırasında işitme duyunuzu korumak için sistemi kapatırsınız ve artık referans parçanız karşılaştırılamayacak kadar sessiz olur. İzleme referansınız artık stabil değil ve stabil referans, karıştırmanın tüm amacıdır.</p>
+
+<blockquote>Tutarlı bir düzeyde izleme, mikslerinizi ölçülebilir şekilde geliştiren birkaç alışkanlıktan biridir. Sistem sesleri sizi ana kaydırıcıyı hareket ettirmeye zorluyorsa bu tutarlılığı kaybedersiniz.</blockquote>
+
+<h2>"Ayrı DAW birimi" aslında ne anlama geliyor?</h2>
+
+<p>Burada yapımcıların birleştirdiği iki farklı şey var ve bunları ayırmakta fayda var:</p>
+
+<ul>
+<li><strong>Arayüz / ana çıkış seviyesi</strong> — ses arayüzünüzdeki veya monitör denetleyicinizdeki donanım düğmesi. Bu, mutlak dinleme ses sesinizi ayarlar ve kalibre edildikten sonra aynı konumda kalmalıdır.</li>
+<li><strong>Uygulama başına yazılım hacmi</strong> — her uygulamanın ne kadar gürültülü olduğu <em>önce</em> bu çıktıya ulaşır. macOS'da eksik olan şey budur. Chrome, Müzik veya bildirim seslerini altındaki yatak seviyesine indirirken DAW'yu birlik içinde tutmanıza olanak tanır.</li>
+</ul>
+
+<p>İkincisini istiyorsun. Amaç, DAW cihazınızın sesini kısmak değil, onunla ilgili diğer her şeyi kısmaktır, böylece DAW en gürültülü, en tutarlı kaynağınız olarak kalır ve dikkat dağıtıcı şeyler arka planda sessizce durur.</p>
+
+<h2>Uygulama başına karıştırıcıyla nasıl yapılır</h2>
+
+<p>Bir menü çubuğu karıştırıcısı gibi <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> o anda ses çalan tüm uygulamaları listeler ve her birine kendi kaydırıcısını verir. Bir yapımcının iş akışı şuna benzer:</p>
+
+<ul>
+<li><strong>Arayüzünüzü bir kez kalibre edin.</strong> Ses arayüzünüzü veya monitör denetleyicinizi rahat, tekrarlanabilir bir referans seviyesine ayarlayın ve öyle bırakın. Bu sizin sabit çapanızdır.</li>
+<li><strong>DAW'nuzu %100'e ayarlayın.</strong> Karıştırıcıda, Logic, Ableton veya GarageBand'yu tam yazılım biriminde bırakın, böylece birlik içinde geçsin. DAW'nuzun kendi ana fader'ı ince miksajı hâlâ yapıyor.</li>
+<li><strong>Diğer her şeyi aşağı çekin.</strong> Chrome, Safari, Müzik ve Slack'yu daha düşük bir seviyeye (örneğin %40-60) düşürün, böylece referans parçalar ve mesajlar mix'inizle rekabet etmek yerine onun altında yer alır.</li>
+<li><strong>Gürültülü şeyleri susturun.</strong> Uygulama başına sessize alma, izleme zincirinize dokunmadan bir tarayıcıyı veya sohbet uygulamasını tamamen susturmanıza olanak tanır. Tek bir tıklamayla DAW'nuz dokunulmadan oynamaya devam eder.</li>
+</ul>
+
+<p>DAW'nun kaydırıcısı hiçbir zaman hareket etmediği için izleme referansınız tüm oturum boyunca sağlam kalır. Hızlı bir A/B için bir referans parçasını açabilir, ardından sesini kapatabilirsiniz ve miks seviyeniz bir desibel bile değişmemiştir.</p>
+
+<h2>Başkalarını geri çevirmek yerine sessiz bir uygulamayı öne çıkarmak</h2>
+
+<p>Bazen sorun diğer tarafa da işliyor. Kaba bir demo geri dönüşü, sesli not veya sessiz bir referans, oturum seviyenizin çok altında oynatılır. Arayüzünüzü duyacak şekilde açmak, diğer her şeyin artık çok yüksek olduğu anlamına gelir. Uygulama başına <strong>ses artırma</strong> kalibre edilmiş çıktınıza dokunmadan tek bir sessiz uygulamayı %100'ün üzerine çıkarmanıza olanak tanır, böylece çalışma seviyenize uyum sağlar. Bu, Windows'nun mikserinin hiç sahip olmadığı bir parçadır ve DAW'nuzun dışından malzeme seçerken en kullanışlı araçlardan biridir.</p>
+
+<h2>Farklı oturum türleri için profiller</h2>
+
+<p>İdeal dengeniz her görev için aynı değildir. İzleme, miksaj ve gündelik dinlemenin her biri farklı uygulama düzeyleri karışımı gerektirir. Birim profilleri bir kurulumu kaydetmenize ve anında geri çağırmanıza olanak tanır:</p>
+
+<ul>
+<li><strong>Karıştırma:</strong> DAW %100'de, tarayıcı ve Müzik düşük, sohbet sessize alındı.</li>
+<li><strong>Referans dinleme:</strong> Müzik veya akış uygulaması yukarı, DAW aşağı.</li>
+<li><strong>Aramalar / işbirliği:</strong> konferans uygulaması açıldı, DAW aramaya karışmaması için geri çekildi.</li>
+</ul>
+
+<p>Profilleri değiştirmek, her vites değiştirdiğinizde beş kaydırıcıyı elle ayarlamaktan daha iyidir.</p>
+
+<h2>Otomatik eğilme ve hızlı çıkış değiştirme</h2>
+
+<p>Bir stüdyoda iki şey daha önemlidir. <strong>Otomatik eğilme</strong> Öncelikli bir kaynak konuştuğunda veya oynatıldığında arka plan uygulamalarını otomatik olarak kapatabilir, böylece bir çağrı veya önemli bir ses her zaman kesilir. Ve <strong>hızlı çıkış değiştirme</strong> Menü çubuğundan, Sistem Ayarlarına girmeden arayüzünüz, monitörleriniz ve kulaklıklarınız arasında geçiş yapmanızı sağlar; bu, farklı sistemlerde bir karışımı kontrol ederken sürekli bir görevdir.</p>
+
+<h2>Neden sanal bir ses sürücüsü olmasın?</h2>
+
+<p>Bazı yönlendirme araçları, çekirdek düzeyinde bir sanal ses sürücüsü yükleyerek bu sorunu çözer. Bunlar güçlü ama ağırdır: macOS güncellemelerinden sonra bozulabilir, gecikmeye neden olabilir ve derin sistem izinleri gerektirebilirler. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> korumalı alana alınır ve Mac App Store üzerinden gönderilir; sürücü yok, DMG yok, toplu cihaz kurulumu yok. Özellikle uygulama başına seviye kontrolü için bu, ses yönlendirmenizi yeniden tasarlamaktan çok daha basit bir yoldur.</p>
+
+<p>Her şey yerinde kalırken izleme seviyenizi sabit tutmaya hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> tek seferlik 14,99 € karşılığında DAW cihazınıza kendi hacmini kazandırın.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Mac'da Uygulama Başına Hacim için Daha Basit Bir Audio Hijack Alternatifi",
+    description: "macOS'da yalnızca uygulama başına bağımsız ses seviyesi istiyorsanız, Audio Hijack aşırıya kaçıyor. İşte, ses yönlendirmesi olmadan uygulama başına ses seviyesini yükselten, sessize alan ve artıran daha hafif, daha ucuz bir menü çubuğu alternatifi.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>İstediğiniz tek şey macOS'da uygulama başına bağımsız ses düzeyi ise, Audio Hijack ihtiyacınız olandan daha fazla araçtır. Yakalama, efektler ve oturum grafikleri için oluşturulmuş profesyonel bir ses yönlendirme ve kayıt paketidir (yaklaşık 79 $). Basitçe bir uygulamayı kapatıp diğerini açmak için, aşağıdaki gibi hafif bir menü çubuğu karıştırıcısı kullanılabilir: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> daha hızlıdır, daha ucuzdur ve her zaman hazırdır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Uygulama Başına Hacim için Daha Basit Bir Audio Hijack Alternatifi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>İnsanlar neden ilk etapta Audio Hijack'ya ulaşıyor?</h2>
+
+<p>macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'nun Ses Düzeyi Karıştırıcısında yıllardır bir tane bulunur, ancak Mac'da ses düzeyi tuşları ve menü çubuğu kaydırıcısı yalnızca tek bir şeyi hareket ettirir: sistem yöneticisini. Birinci tarafça "Spotify'yu %40'ta tut ama video görüşmemi %100'de bırak" demenin bir yolu yok.</p>
+
+<p>Böylece insanlar bir geçici çözüm arıyor ve Audio Hijack'ya ulaşıyor. o <em>yapabilir</em> uygulama başına ses düzeyi sağlar, çünkü herhangi bir uygulamadan gelen sesi yakalayabilir ve işleyebilir. Ancak bu yetenek, gerçekte tasarlanma amacının bir yan etkisidir: uygulamalardan ve donanımlardan ses kaydetmek, efektleri zincirlemek, sanal cihazlar arasında yönlendirme ve yeniden kullanılabilir oturum hatları oluşturmak. Bu konuda gerçekten mükemmel. Bu sadece hafif bir soruya ağır bir cevap.</p>
+
+<h2>Audio Hijack'nun aşırıya kaçtığı yer</h2>
+
+<p>Yalnızca ses kaydırıcısı isteyen insanları birkaç şey hayal kırıklığına uğratıyor:</p>
+
+<ul>
+<li><strong>Fiyat.</strong> Audio Hijack 79 dolar civarında bulunuyor. Bu, bir uygulamadaki kayıt stüdyosu için adil bir durumdur; bir tarayıcı sekmesini kapatmak için çok fazla.</li>
+<li><strong>Çalışmaya devam etmesi gerekiyor.</strong> Uygulama başına işleme yalnızca uygulama açıkken ve ilgili oturum etkinken çalışır. Bırakın ve hacimleriniz eski durumuna dönecektir. Sadece bir kaydırıcıyı yerinde tutmak için tam ses iş istasyonunu yerleşik olarak tutuyorsunuz.</li>
+<li><strong>Oturum bazlı düşünme.</strong> Bloklar ve bağlantılarla oturumlar oluşturursunuz. Yakalama için güçlüdür, ancak hedefiniz "bu uygulama daha sessiz, şu uygulama daha yüksek" olduğunda bu çok fazla kavramsal yük anlamına gelir.</li>
+<li><strong>Arayüz derin.</strong> Efektler, yönlendirme, ölçümler, blok kablolama; hiçbir şey kaydetmezseniz çoğunlukla göz ardı edeceğiniz zengin bir yüzey alanı.</li>
+</ul>
+
+<blockquote>Temel kural: Eğer istersen <em>kayıt veya rota</em> ses, Audio Hijack fiyatını kazanıyor. Eğer sadece istersen <em>denge</em> uygulamalar arasında ses, bir düğmeye ihtiyaç duyduğunuzda bir atölye çalışması için para ödüyorsunuz.</blockquote>
+
+<h2>Daha basit bir alternatif: menü çubuğu ses karıştırıcısı</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> çoğu insanın aslında uğruna geldiği tek işi alıyor ve yalnızca bunu yapıyor. Menü çubuğunuzda yaşıyor. Simgeye tıkladığınızda, o anda ses çalan her uygulamanın, her biri kendi kaydırıcısına sahip, canlı bir listesini alırsınız. Spotify'yu %30'a sürükleyin, çağrınızı %100'de bırakın, Slack'yu tamamen sessize alın — bitti, oluşturulacak oturum yok.</p>
+
+<p>Neleri kapsar:</p>
+
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — her ses kaynağının gerçek zamanlı olarak ayarlanabilen kendi kaydırıcısı vardır.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü bir uygulamayı başka hiçbir şeye dokunmadan tek tıklamayla susturun.</li>
+<li><strong>Uygulama başına ses artırma</strong> — sessiz bir uygulamaya basın <em>yukarıda</em> Kendi maksimum değeri hala çok yumuşak olduğunda %100. Bu, sistem kaydırıcısının asla yapamayacağı parçadır.</li>
+<li><strong>Hacim profilleri</strong> — tüm karışımı kaydedin (müzik kısık, çağrılar yüksek, bildirimler sessiz) ve belirli bir bağlam için tek tıklamayla geri çağırın.</li>
+<li><strong>Otomatik eğilme</strong> — daha önemli bir şey başladığında arka plan sesini otomatik olarak kısın, böylece bir arama veya video oynatma listenizin altına gömülmez.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden kulaklıklar, hoparlörler ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+
+<h2>Pratik: Bir dakikadan kısa sürede uygulama başına kontrole sahip olmak</h2>
+
+<p>Kurulum farkı bütün mesele. Bir yönlendirme aracıyla bir oturum oluşturabilir, bir kaynak bloğu ekleyebilir, kablo bağlantılarını yapabilir ve uygulamayı çalışır durumda tutabilirsiniz. İşte esasen:</p>
+
+<ul>
+<li>Yükle <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'dan.</li>
+<li>Listede görünmeleri için birkaç uygulamada ses çalın.</li>
+<li>Menü çubuğu simgesini tıklayın ve her uygulamanın kaydırıcısını zevkinize göre sürükleyin.</li>
+<li>İsteğe bağlı olarak bu karışımı bir profil olarak kaydedin veya çok sessiz bir uygulamayı %100'ün üzerine çıkarın.</li>
+</ul>
+
+<p>Mac App Store aracılığıyla dağıtıldığı için korumalı alana alınır ve herhangi bir normal uygulama gibi yüklenir; hayır <code>.dmg</code> sürüklenecek, çekirdek uzantısı yok, Güvenlik ayarlarında onaylanacak ses sürücüsü yok ve macOS güncellemesinden sonra yeniden onaylanması gereken hiçbir şey yok. Bu son nokta önemlidir: sürücü tabanlı karıştırıcılar geçmişte işletim sistemi yükseltmelerinde kesintiye uğrar ve sistem düzeyinde bir bileşenin yeniden yüklenmesini gerektirir. Korumalı alana alınmış bir App Store uygulaması, tüm bu bakım kategorisinin önüne geçer.</p>
+
+<h2>Hangisini seçmelisiniz?</h2>
+
+<p>İş konusunda dürüst olun. Seç <strong>Audio Hijack</strong> uygulama veya donanım sesini kaydetmeniz, gerçek zamanlı efektler uygulamanız veya sanal cihazlar arasında yönlendirme grafikleri oluşturmanız gerekiyorsa. Burası onun evi ve oradaki her dolara değer.</p>
+
+<p>Gerçek ihtiyacınız "her uygulamanın sesini bağımsız olarak ayarlamama izin verin" ise özel bir menü çubuğu karıştırıcısı seçin. ~79$ yerine bir kez 14,99€ harcayacak, oturum oluşturmayı atlayacak ve menü çubuğundan açtığınız bir panelde güçlendirme, sessize alma, profiller ve eğilme avantajlarından yararlanacaksınız. Asla dokunmayacağınız kayıt özelliği yok, kaydırıcıyı yerinde tutmak için arka planda çalışan iş istasyonu yok.</p>
+
+<p>Ses seviyesi dengeleme için Audio Hijack'yu deneyen çoğu kişi, büyük bir araçla küçük bir sorunu çözüyordu. Eğer bu sizseniz, küçük alet daha iyi uyuyor ve maliyeti de çok az.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> 14,99 € karşılığında, tek seferlik — doğrudan menü çubuğunuzdan uygulama başına ses seviyesi, artırma, sessize alma, profiller ve otomatik kısma.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D Alternatifi: Şişkinlik Olmadan Uygulama Başına Hacim (Mac)",
+    description: "Boom 3D'yu esas olarak sesi artırmak için kullandıysanız ancak gerçekten uygulama başına ses seviyesi kontrolü istiyorsanız, SoundDial daha zayıf Mac alternatifidir: uygulama başına bağımsız ses seviyesi, uygulama başına sessize alma ve yükseltme, tek seferlik fiyat, sistem genelinde EQ veya sürücü yok.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Sesi artırmak için Boom 3D'ya ulaştıysanız ancak aslında her uygulamayı ayrı ayrı kontrol etmek istiyorsanız, farklı bir araç istiyorsunuz demektir. Boom 3D, sistem çapında bir ses yükseltici ve EQ'dur. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> uygulama başına odaklanmış bir ses karıştırıcısıdır: her uygulama için bağımsız ses seviyesi, sessize alma ve yükseltme, tek seferlik 14,99 €, EQ yok, sürücü yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D Alternatif: Şişkinlik Olmadan Uygulama Başına Hacim (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Boom 3D gerçekte ne yapar (ve yapmaz)</h2>
+<p>Boom 3D üç şey etrafında inşa edilmiştir: sistem çapında ses yükseltme, 31 bantlı ekolayzır ve 3D "surround" efektler. Bunları aşağıdakilere uygular: <em>her şey</em> Mac cihazınız aynı anda oynatılır. Amacınız daha yüksek sesli bir dizüstü bilgisayar veya genel olarak hoşunuza giden bir bas eğrisi ise bu gerçekten kullanışlıdır.</p>
+<p>Boom 3D'nun tasarlanmadığı şey, uygulamaları bağımsız kanallar olarak ele almaktır. "Spotify %40'ta, video görüşmem %100'de ve bu tarayıcı sekmesi sessize alındı" demenin net bir yolu yok. Kaydırıcısı tüm karışımı hareket ettirir. Ve sinyal yoluna yerleştirilecek bir ses sürücüsü yüklediğinden, sisteminize korumalı alanlı bir yardımcı programdan daha düşük bir düzeyde dokunur. Aynı zamanda tek seferlik küçük bir araç yerine, yükseltme döngüleri olan ücretli bir ürün olarak da konumlandırılıyor.</p>
+<blockquote><p>Ortak hikaye: İnsanlar sessiz bir uygulamanın sesini yükseltmek için Boom 3D'yu yüklüyorlar, sonra asıl sorunun macOS'nun uygulama başına ses karıştırıcısının olmaması olduğunu fark ediyorlar.</p></blockquote>
+
+<h2>Boşluk: macOS'da ses karıştırıcısı yok</h2>
+<p>Bu Windows'dan gelen insanları şaşırtıyor. Windows yıllardır uygulama başına bir Ses Düzeyi Karıştırıcısına sahiptir; hoparlöre sağ tıklayın, her uygulamanın düzeyini ayrı ayrı ayarlayın. macOS bunu göndermiyor. Bir ana birim ve her uygulamanın ortaya çıkardığı dahili kaydırıcıyı alırsınız. Slack'yu YouTube sekmesine ve bir oyuna karşı dengelemenin işletim sistemi düzeyinde bir yolu yoktur.</p>
+<p>Bu nedenle, bir müzik uygulaması çağrınızı boğduğunda, tek yerel seçenekleriniz kabadır: ana sesi kısın (bu her şeyi susturur) veya bir ses kontrolüne sahip olduğunu umarak her uygulamanın kendi ayarlarını inceleyin. Boom 3D da bu boşluğu kapatmıyor; her uygulamanın değil, tüm karışımın sesini daha yüksek hale getiriyor.</p>
+
+<h2>SoundDial'nun sığdığı yer</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> eksik karıştırıcıdır. Menü çubuğunuzda bulunur ve çalışan her uygulamaya kendi kaydırıcısıyla kendi satırını verir. Boom 3D'dan temel fark budur: tek bir küresel etki yerine kaynak başına kontrol elde edersiniz.</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — görüntülü görüşmeniz %100'de kalırken Spotify'yu %30'a ayarlayın.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü bir uygulamayı başka hiçbir şeye dokunmadan anında susturun.</li>
+<li><strong>Uygulama başına artış</strong> — Boom 3D'nun %100'den daha yüksek ses numarasını beğendiyseniz, SoundDial bunu koruyor ancak tüm sistem yerine tek bir uygulamayı hedefliyor. Sessiz uygulamalar kendi başlarına normal tavanlarını aşıyor.</li>
+<li><strong>Hacim profilleri</strong> — bir mikser düzenini kaydedin (ör. "oyun", "toplantı", "müzik") ve kaydırıcıları her seferinde yeniden dengelemek yerine tek tıklamayla onu geri çağırın.</li>
+<li><strong>Otomatik eğilme</strong> — önemli bir şey başladığında arka plan sesini otomatik olarak kısar, böylece bir çağrı veya oyun ipucu müziğin altına gizlenmez.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden kulaklıklar, hoparlörler ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+<p>SoundDial'nun kasıtlı olarak yapmadığı şey, Boom 3D özelliklerinin geri kalanının yayılmasıdır. 31 bantlı EQ yok, sahte surround işleme yok, sistem çapında efekt zinciri yok. Mastering düzeyinde bir EQ istiyorsanız Boom 3D veya özel bir ses paketi doğru seçimdir. Boom 3D'yu gerçekte açmaya devam ettiğiniz şey şu olsaydı: <em>hacim</em>, bu yüzey alanı taşımak için para ödediğiniz şişkinliktir.</p>
+
+<h2>Sürücü olmadan güçlendirme</h2>
+<p>"Arttırma" sorusu doğrudan bir cevabı hak ediyor çünkü Boom 3D kullanıcılarının genellikle alternatifler için alışveriş yapmasının nedeni budur. Boom 3D'nun desteği küresel ve sürücü tabanlıdır. SoundDial'nun desteği uygulama bazındadır ve Apple'ın uygulama korumalı alan modeli içinde çalışır; Mac App Store aracılığıyla dağıtılır, böylece ayrı bir yükleyici, çekirdek düzeyinde bir sürücü ve daha sonra kaldırılacak kalan sistem bileşenleri kalmaz. Tüm ses yolunuzun kontrolünü sürücüye bırakmadan "bu sessiz uygulamayı daha yüksek sesle yapın" sonucunu elde edersiniz.</p>
+
+<h2>Fiyat: tek seferlik ve devam eden</h2>
+<p>Boom 3D, kendi yükseltme ve lisanslama modeline sahip ücretli bir uygulamadır ve fiyatlandırma, platforma ve sürüme göre değişir. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 14,99 € tutarında tek seferlik bir satın almadır - bir kez satın alın, kullanmaya devam edin, abonelik yok ve mikserin çalışır durumda kalması için sürüm başına yeniden satın alma yok. Her gün menü çubuğunda açık bırakacağınız bir yardımcı program için sabit bir fiyat, yeniden satın almak zorunda kalacağınız bir üründen daha iyi eskime eğilimindedir.</p>
+
+<h2>Hangisini seçmelisiniz?</h2>
+<ul>
+<li><strong>Boom 3D'yu seçin</strong> eğer gerçek ihtiyacınız ciddi bir ekolayzır ve sistem çapında ses efektleri ise ve karışımdaki ses sürücüsünün sizin için bir sakıncası yoksa.</li>
+<li><strong>SoundDial'yu seçin</strong> Windows kullanıcılarının hafife aldığı şeyleri (uygulama başına gerçek bir ses karıştırıcısı) ve ayrıca hedeflenen yükseltmeyi, profilleri ve otomatik azaltmayı tek seferlik fiyatla ve hiçbir sürücü yüklemeden istiyorsanız.</li>
+</ul>
+<p>Boom 3D'dan çıkan çoğu insan ikinci gruba giriyor. Frekansları ayarlamak istemediler; tarayıcının aramadan daha sessiz olmasını istiyorlardı. SoundDial tam olarak bunun için tasarlandı.</p>
+
+<p><strong>EQ şişmesi veya abonelik olmadan Mac cihazınızda uygulama başına ses kontrolü ister misiniz?</strong> <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — Bir defalık 14,99 €, korumalı alanda, sürücü yok ve her uygulamanın kendi kaydırıcısı var.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Mac Cihazınızda Bir Uygulama Dışında Her Şeyin Sesini Nasıl Kapatabilirsiniz?",
+    description: "macOS'nun uygulama başına ses karıştırıcısı yoktur, bu nedenle biri hariç her uygulamayı susturmak için bir yardımcı gerekir. Diğer her şey sessiz kalırken yalnızca aramanızı, yayınınızı veya oyununuzu nasıl duyacağınız aşağıda açıklanmıştır.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'da bireysel uygulamaları susturmak için yerleşik bir yol yoktur, bu nedenle yalnızca bir uygulamayı duymak için uygulama başına ses karıştırıcısına ihtiyacınız vardır. Yükle <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, menü çubuğu karıştırıcısını açın, duymak istediğiniz uygulama dışındaki tüm uygulamaların sesini kapatın ve geri kalanlar anında sessizleşirken o uygulama oynamaya devam eder.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;nuzdaki Bir Uygulama Dışındaki Her Şeyin Sesi Nasıl Kapatılır" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden macOS bunu kendi başına yapamıyor?</h2>
+<p>Windows, on yılı aşkın bir süredir Ses Düzeyi Karıştırıcısına sahiptir: hoparlör simgesine sağ tıklayın; çalışan her uygulamanın kendi kaydırıcısı olur. macOS bunu hiç göndermedi. Mac cihazınızdaki ses tuşları yalnızca tek bir şeyi kontrol eder: ana çıkış seviyesini. Sistemi kapattığınızda her şey birlikte çöker. Sesi kapattığınızda her şey susturulur.</p>
+<p>Aynı anda beş şey ses çıkarana kadar bu sorun değil. Video görüşmesindesiniz ancak bir tarayıcı sekmesi otomatik olarak bir reklamı oynatıyor, Spotify hâlâ çalışıyor, arka planda bir oyun ping sesi çıkarıyor ve Slack uğultu yapıyor. Tek yerel seçenekleriniz uygulamalardan çıkmak, her uygulamanın kendi ayarlarında (eğer bu seçeneğe sahipse) uygulamaları birer birer sessize almak veya kulaklığınızı çıkarmaktır. Bunların hiçbiri "bunu sakla, gerisini sustur" demenize izin vermiyor.</p>
+
+<h2>Basit yol: geri kalanını bir mikserle susturun</h2>
+<p>Uygulama başına bir mikser, uygulamalarınız ve çıkış cihazınız arasında bulunur ve her uygulamaya kendi ses seviyesi ve ses kapatma kontrolünü verir. Bir uygulamayı çalıştırdıktan sonra tek bir uygulamayı izole etmek birkaç saniye sürer:</p>
+<ul>
+<li>Mikseri menü çubuğunuzdan açın. Şu anda ses üreten her uygulamanın canlı bir listesini göreceksiniz.</li>
+<li>Duymak istediğiniz uygulamayı, çağrınızı, yayınınızı, oyununuzu bulun.</li>
+<li>Diğer her şeyi sessize alın. Her uygulamanın yanındaki sessize alma düğmesine dokunun veya kaydırıcısını sıfıra çekin.</li>
+<li>İşte bu. Geri kalanlar sessiz kalırken, yalnız bıraktığınız uygulama tam ses seviyesinde oynamaya devam ediyor.</li>
+</ul>
+<p>ile <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, listedeki her uygulamanın kendi kaydırıcısı ve kendi sessize alma düğmesi vardır, dolayısıyla bu bir avuç tıklamayla gerçekleşir. Daha sonra oynatılmaya başlayan yeni uygulamalar otomatik olarak gösterilir; böylece bir bildirim sesi gizlice içeri girmeye çalışırsa, odaklandığınız uygulamanıza dokunmadan bu sesi anında susturabilirsiniz.</p>
+
+<blockquote>İşin püf noktası, "biri hariç her şeyi" sessize almanın, bir uygulamayı sessize almanın tam tersi olmasıdır. Mac'nuzu susturmuyorsunuz, gerçekten önemsediğiniz şeyin etrafındaki gürültüyü susturuyorsunuz.</blockquote>
+
+<h2>Tekrarlamamak için profil olarak kaydedin</h2>
+<p>Eğer bu sık sık başvurduğunuz bir kurulumsa, bunu her seferinde elle yapmak eskir. Toplantılar sırasında çağrı uygulamanızın her zaman yüksek sesle ve diğer her şeyin kapalı olmasını istediğinizi veya oyunlar ve tarayıcılar sessiz kalırken yayınınızın ön planda ve ortada olmasını istediğinizi varsayalım. Birim profili, uygulama başına tam olarak bu ayarları saklar ve bunları tek tıklamayla yeniden uygular.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> "Toplantı" veya "Yalnızca Yayın" gibi profilleri kaydetmenize ve ihtiyaç duyduğunuz anda bu profillere geçiş yapmanıza olanak tanır. Bir kez ayarladığınızda tek uygulamanızı izole etmek, beş kaydırıcılı bir iş yerine tek bir menü çubuğu işlemine dönüşür.</p>
+
+<h2>Daha akıllı versiyon: sessize almak yerine otomatik kapanma</h2>
+<p>Bazen diğer uygulamaların tamamen yok olmasını istemezsiniz, sadece daha önemli bir şey başladığında onların yoldan çekilmesini istersiniz. Bu otomatik eğilmedir. Öncelikli uygulamanız oynatıldığında, arka plan uygulamaları otomatik olarak düşük bir seviyeye düşer, durduğunda tekrar yükselir.</p>
+<p>Bu, aramalar ve akışlar için idealdir. Birisi konuşmaya başladığında müziğiniz onu duyabilmeniz için kısalır ve arama bittiğinde müzik kendi kendine geri gelir. Durum her değiştiğinde manuel olarak sesi kapatıp açmadan "bir uygulamayı net bir şekilde duyun" sonucunu elde edersiniz. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> manuel karıştırıcının yanı sıra otomatik kısma özelliğini de içerir; böylece tam sessizlik için sert sessize almayı veya daha yumuşak bir arka plan için kısmayı seçebilirsiniz.</p>
+
+<h2>Tuttuğunuz tek uygulamayı öne çıkarma</h2>
+<p>Tek bir uygulamayı izole etmenin bir avantajı da var: Mac cihazınızın normalde izin verdiğinden daha yüksek ses çıkarmasını da sağlayabilirsiniz. Bazı uygulamalar, özellikle de sessiz görüntülü aramalar veya iyi yönetilmeyen yayınlar, maksimum ses seviyesinde bile neredeyse hiç duyulmuyor. Uygulama başına yükseltme, sistem çıktınızı artırmadan tek bir uygulamayı %100'ün üzerine çıkarır; bu da zaten sessize aldığınız uygulamaların gücünü artırır.</p>
+<p>Yani tam hareket şu: gürültüyü susturun, tek uygulamanızı koruyun ve uygulama çok sessizse onu güçlendirin. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> üçünü de aynı mikser penceresinde yönetir.</p>
+
+<h2>Ne için kaydolmuyorsunuz?</h2>
+<p>Mac ses araçlarıyla ilgili yaygın bir endişe, çekirdek uzantılarına, sanal ses sürücülerine veya rastgele bir web sitesinden indirilen şüpheli yükleyicilere ihtiyaç duymalarıdır. Bu meşru bir endişedir ve bazı kişilerin bu uygulamalardan tamamen kaçınmasının nedeni de budur.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'dadır, korumalı alandadır ve herhangi bir normal uygulama gibi yüklenir, sürücü yok, DMG yok, onaylanacak sistem uzantısı yok. Bu, abonelik yerine tek seferlik 14,99 €'luk bir satın alma işlemidir, yani bir kez ödersiniz ve kullanmaya devam edersiniz. Bu, tüm gün menü çubuğunuzda çalışır halde bırakacağınız bir şey için önemlidir.</p>
+
+<h2>Hızlı özet</h2>
+<ul>
+<li>macOS'nun uygulama başına yerel ses kontrolü yoktur, dolayısıyla bunu yapmak için bir miksere ihtiyacınız vardır.</li>
+<li>Mikseri açın, tek uygulamanızı koruyun, diğer her şeyi sessize alın veya sıfırlayın.</li>
+<li>Sık yaptığınız aramalar veya yayınlar için bunu profil olarak kaydedin.</li>
+<li>Arka plan uygulamalarının kapatılması yerine sessizleştirilmesini istiyorsanız otomatik azaltmayı kullanın.</li>
+<li>Kendi başına çok sessizse, tutulan uygulamanızı güçlendirin.</li>
+</ul>
+
+<p>Yalnızca önemli olanı duymak ve gerisini susturmak mı istiyorsunuz? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve bir dakikadan kısa sürede ilk her şeyi sessize alma profilinizi oluşturun.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Mac'da Hoparlörler ve Kulaklıklar için Farklı Bir Ses Düzeyi Tutun",
+    description: "macOS, hoparlörler ve kulaklıklar arasında geçiş yaptığınızda uygulama düzeyindeki ses düzeyi karışımınızı unutur. Bunun nedeni, manuel sınırlar ve uygulama başına birim belleğinin bunu nasıl düzelttiği aşağıda açıklanmıştır.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS aslında her çıkış cihazı için ayrı bir sistem birimini hatırlar, ancak her geçiş yaptığınızda uygulama düzeyindeki bakiyenizi unutur. Böylece kulaklıklar ve hoparlörler kendi genel seviyelerini korur, ancak fişini çektiğiniz anda bir uygulama patlar ve diğeri kaybolur. Çözüm, macOS'nun yerel bir aracının bulunmadığı, cihaz geçişlerinde hayatta kalan uygulama başına birim belleğidir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Hoparlörler ve Kulaklıklar için Farklı Bir Ses Düzeyi Tutun" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>macOS'nun hatırladıkları ve hatırlamadıkları</h2>
+
+<p>macOS'nun her çıkış cihazına aynı şekilde davrandığına dair yaygın bir inanış vardır. Değil. Her çıkış cihazı kendi sistem birimini saklar. MacBook hoparlörlerinizi %30'a ve AirPods'nuzu %80'e ayarlayın; macOS bu iki sayıyı ayrı tutar. Takın, çıkarın, yeniden bağlayın; her cihaz bıraktığınız yere geri döner.</p>
+
+<p>Peki neden deneyim hâlâ bozuk gibi geliyor? Çünkü bu bellek tek, küresel kaydırıcıda durur. macOS, belirli bir cihazda oynatılan her şey için tam olarak tek bir ses seviyesi kontrolüne sahiptir. Bireysel uygulamaların ne kadar gürültülü olduğunu hatırlamıyor. Hoparlörlerden kulaklığa geçiş yaptığınızda Spotify, Zoom araması ve YouTube sekmesi arasındaki denge korunmaz çünkü bu denge hiçbir zaman var olmamıştır. Her uygulama aynı kaydırıcıyı paylaşır.</p>
+
+<p>Sonuç, insanların "hoparlörler ve kulaklıklar için farklı ses seviyesi" olarak tanımladığı hayal kırıklığıdır. Genellikle istedikleri şey, yalnızca cihaz başına farklı bir ana seviye değil, aynı zamanda hatırlanan bir karışımdır: sessiz müzik, yüksek sesli çağrılar, kapatılmış bildirimler ve bu karışım, ister masa hoparlörlerinde ister kulaklıkta olsun, bozulmadan kalır.</p>
+
+<h2>Manuel geçici çözümler ve bunların yetersiz kaldığı yerler</h2>
+
+<p>Yerleşik araçlarla oraya kısmen ulaşabilirsiniz ve başka bir şeye ulaşmadan önce tavanı bilmek faydalı olacaktır.</p>
+
+<ul>
+<li><strong>Her cihazın sistem ses düzeyini bir kez ayarlayın.</strong> Sesi hoparlörlerinizden çalın, seviyeyi ayarlayın, ardından çıkışı kulaklığa geçirin ve bu seviyeyi ayarlayın. macOS her ikisini de korur. Bu, cihaz başına ana birimi yönetir, ancak uygulama başına hiçbir şey yapmaz.</li>
+<li><strong>Uygulamanın sunduğu uygulama başına ses düzeyini kullanın.</strong> Spotify, VLC ve çoğu tarayıcının kendi dahili birimi vardır. Yüksek sesli bir uygulamayı uygulamanın içinde kırpabilirsiniz. İşin püf noktası: Bu ayar cihazda değil uygulamada bulunur, dolayısıyla kulaklığa geçtiğinizde değişmez ve çoğu uygulamanın (Slack, Zoom, sistem bildirimleri, Posta) böyle bir kontrolü yoktur.</li>
+<li><strong>Çıkışı Kontrol Merkezi'nden veya menü çubuğundan değiştirin.</strong> Cihazlar arasında hızlı bir şekilde geçiş yapmak için menü çubuğundaki ses seviyesi simgesini Option tuşuna basarak tıklayın. Hızlıdır, ancak yalnızca ana seviyeyi hareket ettirir, uygulama başına karışımı geri yüklemez.</li>
+</ul>
+
+<p>Bunlar size cihaz başına bir ana birim sağlar. Hiçbirinin size vermediği şey, sizi cihazlar arasında takip eden, hatırlanan, uygulama başına bir dengedir. Bu boşluk tam olarak sıkıntının yaşandığı yerdir ve yapısaldır: Yıllardır bir tane gönderen Windows'nun aksine, işletim sisteminin uygulama başına bir karıştırıcısı yoktur.</p>
+
+<h2>Uygulama başına birim belleği ve cihaz değiştirmenin neden asıl sorun olduğu</h2>
+
+<p>Daha derin düzeltme, her uygulamaya kendi hacmini vermek ve bu ayarların devam etmesini sağlamaktır. Uygulama başına mikser böyle bir şey <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> için inşa edilmiştir. Menü çubuğunuzda bulunur, o anda ses üreten tüm uygulamaları listeler ve her birine bağımsız bir kaydırıcı, sessize alma geçişi ve hatta sessiz uygulamalar için %100'ün üzerinde bir artış sağlar.</p>
+
+<p>Hoparlörler ve kulaklıklar sorunu için önemli olan kısım: bu seviyeler hatırlanır. Müziğinizi %40'a, çağrılarınızı %90'a ve sohbet uygulamasını sessize alın ve <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> bu karışımı koruyor. Kulaklığınızı çıkarıp tekrar hoparlörlerin başına geçtiğinizde, her seferinde üç uygulamayı elle yeniden dengeleyemezsiniz.</p>
+
+<p>Hacim profilleri bunu daha da ileri götürür. Adlandırılmış uygulama bazındaki seviyeleri kaydedebilir ve tek tıklamayla geri çağırabilirsiniz; böylece "kulaklık, odaklanmış çalışma" karışımı ve "konuşmacılar, toplantılar" karışımının her biri, manuel sıfırlama yerine tek bir seçimdir.</p>
+
+<blockquote><p>Zihinsel değişim: Sürekli sürüklediğiniz bir ana kaydırıcıyı düşünmeyi bırakın ve duruma göre kaydedilmiş bir karışım düşünmeye başlayın. Cihaz değiştirme, yeniden dengeleme işi olmaktan çıkıyor.</p></blockquote>
+
+<h2>Miksinizi kaybetmeden hızlı çıkış değiştirme</h2>
+
+<p>Anahtarlama cihazları hızlı ve tahribatsız olmalıdır. Aynı menü çubuğu panelinden çıkış cihazınızı değiştirebilirsiniz; böylece hoparlörlerden kulaklığa geçmek tek tıklamayla gerçekleşir ve uygulama başına düzeyleriniz tek bir genel sayıya düşmek yerine ortaya çıkar.</p>
+
+<p>İlgili bir özellikten bahsetmeye değer, otomatik kısmadır: mikrofonunuza ses geldiğinde (konuşmaya başladığınızda veya bir arama başladığında), diğer uygulamalar sizi duyabilmeniz için otomatik olarak kısılır ve daha sonra ayarlanan seviyelerine geri döner. Bu, cihazlardan ziyade dikkat için uygulanan prensibin aynısıdır; macOS'nun kendi başına yapamayacağı başka bir şeydir.</p>
+
+<h2>Nasıl kurulur?</h2>
+
+<ul>
+<li>Yükle <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'dan. Korumalı alana sahiptir, dolayısıyla onaylanacak bir sürücü, DMG ve çekirdek uzantısı yoktur.</li>
+<li>Mikserde görünmeleri için en çok kullandığınız uygulamalarda ses çalın.</li>
+<li>Her uygulamanın düzeyini ayarlayın, istemediğiniz her şeyin sesini kapatın ve çok sessiz olan her şeyin sesini yükseltin.</li>
+<li>Bu düzenlemeyi bir profil olarak kaydedin; örneğin biri kulaklıklar için, diğeri hoparlörler için ayarlanmış.</li>
+<li>Cihaz değiştirdiğinizde eşleşen profili geri çağırın veya uygulama başına kayıtlı seviyelerinizin aktarılmasına izin verin.</li>
+</ul>
+
+<p>Dürüst özet: macOS ana seviyede çıkış cihazı başına ses seviyesini hatırlar ancak uygulama başına karışımınızı asla hatırlamaz çünkü uygulama başına karıştırıcısı yoktur. Gerçek hedefiniz hoparlörler ve kulaklıklar arasındaki her geçişte müzik, aramalar ve bildirimler arasında tutarlı bir denge kurmaksa, işletim sistemi üzerinde uygulama başına belleğe ihtiyacınız vardır.</p>
+
+<p>Hoparlörlerin ve kulaklıkların her uygulamayı yeniden ayarlamadan kendi miksajlarını korumasını mı istiyorsunuz? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> tek seferlik 14,99 € karşılığında, abonelik yok, sürücü yok.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control Üretimi Durduruldu mu? En İyi Mac Uygulama Başına Birim Değiştirme (2026)",
+    description: "Static Z Software'in Sound Control'su üretilmiyor ve modern macOS'da bozuluyor. İşte bu yüzden çalışmayı bıraktı, ne yaptı ve 2026'da geçiş yapılacak en iyi uygulama başına ses karıştırıcısı.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Static Z Software tarafından üretilen Sound Control üretilmiyor ve artık satılmıyor veya güncellenmiyor ve modern macOS'da giderek daha fazla başarısız oluyor çünkü Apple'ın kilitlediği çekirdek düzeyinde bir ses sürücüsüne dayanıyordu. Bugün uygulama başına birime ihtiyacınız varsa, en temiz değişim <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, sürücüsüz, korumalı alanlı bir Mac App Store karıştırıcı.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control Üretimi Durduruldu mu? En İyi Mac Uygulama Başına Birim Değiştirme (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Sound Control gerçekte ne yaptı?</h2>
+<p>Sound Control, yıllardır gerçek bir macOS boşluğuna yanıt verecek çözümdü: Mac'da hâlâ yerleşik uygulama başına ses karıştırıcısı yok. Windows'nun Vista'dan bu yana Ses Düzeyi Karıştırıcısında bir tane var, ancak macOS size yalnızca tek bir ana kaydırıcı veriyor. Sound Control bu boşluğu aşağıdakileri yapmanıza olanak tanıyan düzenli bir menü çubuğu paneliyle doldurdu:</p>
+<ul>
+<li>Çalışan her uygulama için bağımsız bir ses düzeyi ayarlayın.</li>
+<li>Sistem sesinizin geri kalanına dokunmadan bireysel uygulamaları sessize alın.</li>
+<li>Sessiz uygulamaları yüzde 100'ün üzerine çıkarın.</li>
+<li>Uygulama başına ekolayzır ve denge ayarlamalarını uygulayın.</li>
+<li>Sesi yönlendirin ve uygulamaları belirli çıkış cihazlarına sabitleyin.</li>
+</ul>
+<p>Arka planda YouTube sekmesi fısıldarken Zoom araması patlatan herkes için bu uygulama başına kontrol dönüştürücüydü. Pek çok Mac uzman kullanıcısının makinesinde sessiz bir temel haline geldi.</p>
+
+<h2>Neden çalışmayı bıraktı?</h2>
+<p>Dürüst teknik hikaye burada önemlidir, çünkü bunun neden birinin kolayca yama yapabileceği bir hata olmadığını açıklar. Sound Control, her uygulamanın çıkışını yakalayıp yeniden şekillendirebilmek için kendisini macOS ses hattına yerleştiren bir çekirdek uzantısı (kext) olan bir sistem ses sürücüsü yükleyerek çalıştı. Bu derin kanca tam olarak EQ ve güçlendirme özelliklerini mümkün kılan şeydir.</p>
+<p>macOS 10.15 Catalina ile başlayıp Big Sur ve Apple Silicon geçişiyle hızlanan Apple, kullanıcı alanı alternatifleri lehine çekirdek uzantılarını kullanımdan kaldırmaya başladı. Apple Silicon Mac'larda üçüncü taraf kext'ların yüklenmesi, Kurtarma Modunda sistem güvenliğinin düşürülmesini gerektirir ve Apple, eski ses kext'ların ödünç alınan süre içinde olduğunu açıkça belirtti. Static Z Software sonuçta Sound Control'nun satışını ve geliştirilmesini durdurdu. Sonuç: En yeni macOS sürümlerinde yüklemeler başarısız oluyor, ses sorunları yaşanıyor veya çoğu insanın haklı olarak yapmak istemediği güvenlik düşürmeleri olmadan sürücü yüklemeyi reddediyor.</p>
+<blockquote>Bu geliştirici açısından ihmal değildir. Bu, platform düzeyinde bir değişimdir. Apple, Sound Control'nun üzerine inşa edildiği düşük seviyeli ses sürücüsü türüne kapıyı kapattı ve hiçbir güncelleme onu tamamen yeniden açamaz.</blockquote>
+
+<h2>Modern macOS'da neler değişti?</h2>
+<p>Apple konuyla ilgili bir şey ekledi: Core Audio artık uygulamaların kullanıcı alanından işlem başına sesi yakalamasına ve işlemesine olanak tanıyan bir Tap API'si (macOS 14.2 Sonoma'da tanıtıldı) sunuyor - kext yok, güvenlik düzeyi düşürülmesi yok, Kurtarma'da yeniden başlatma yok. Bu, uygulama başına ses için onaylanmış modern yoldur ve mevcut bir mikserin üzerine inşa edilmesi gereken yol budur. Takas dürüsttür: kullanıcı alanı dokunuşları eski bir çekirdek sürücüsüne göre daha kısıtlıdır, bu nedenle sunulan tam uygulama başına parametrik EQ Sound Control yerine uygulama başına temiz ses seviyesi, sessize alma ve yükseltme beklemelisiniz.</p>
+
+<h2>En iyi yedek: SoundDial</h2>
+<p>Sound Control'nun yaptığı işin özüne (uygulama başına bağımsız ses düzeyi) sahip olmak istiyorsanız Mac'da gerçekten güvende ve güncel kalabilirsiniz. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 2026'daki en yakın temiz geçiş seçeneğidir. Modern macOS ses yığını için oluşturulmuş, uygulama başına bir menü çubuğu ses karıştırıcısıdır. Sound Control iş akışından aktarılanlar:</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — Çalışan uygulama başına bir kaydırıcı, doğrudan menü çubuğunda.</li>
+<li><strong>Uygulama başına sessize alma</strong> — diğer her şey oynatılmaya devam ederken bir uygulamayı sessize alın.</li>
+<li><strong>Uygulama başına ses artırma</strong> — sessiz bir uygulamayı normal tavanının üzerine itin.</li>
+<li><strong>Hacim profilleri</strong> — farklı bağlamlar (çağrılar, müzik, oyun) için mikser kurulumlarını kaydedin ve bunlar arasında geçiş yapın.</li>
+<li><strong>Otomatik eğilme</strong> — arka planda uygulama ses düzeyini otomatik olarak düşürür; konuşmaya başladığınızda veya bir arama geldiğinde kullanışlıdır.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — Sistem Ayarlarına girmeden hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapın.</li>
+</ul>
+<p>Geçiş için önemli olan pratik farklılıklar: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store aracılığıyla gönderilir, korumalı alana alınır ve hiçbir sürücü ve DMG yüklenmez. Bu, onaylanacak bir çekirdek uzantısının olmadığı, Kurtarma Modunun olmadığı ve Mac'nuzun güvenlik duruşunun düşürülmediği anlamına gelir; bunlar Sound Control'yu öldüren tam da sorunlu noktalardır. Bu, bir abonelik değil, tek seferlik 14,99 € tutarında bir satın alma işlemidir.</p>
+
+<h2>Adım adım nasıl geçiş yapılır?</h2>
+<ul>
+<li><strong>Sound Control'yu temiz bir şekilde kaldırın.</strong> Bir sürücü yüklediğinden, hala çalışıyorsa kendi kaldırıcısını kullanın veya yeni bir şey yüklemeden önce ses sürücüsü bileşenlerini kaldırın. İki rakip ses kancası aksaklıklara neden olabilir.</li>
+<li><strong>App Store'dan SoundDial'yu yükleyin.</strong> Yeniden başlatma veya güvenlik değişikliği gerekmez.</li>
+<li><strong>İstediği ses iznini verin.</strong> Modern macOS'da uygulama başına çıktıyı okumasını ve kontrol etmesini sağlayan şey budur.</li>
+<li><strong>Menü çubuğu panelini açın ve seviyeleri ayarlayın.</strong> Çalışan uygulamalarınız ayrı kaydırıcılarla görünür; gerektiği gibi ayarlayın, sessize alın veya güçlendirin.</li>
+<li><strong>Bir profili kaydedin.</strong> Favori Sound Control kurulumlarınız varsa, bunları profiller olarak yeniden oluşturun, böylece tek tıklamayla geçiş yapabilirsiniz.</li>
+</ul>
+
+<h2>Dürüst beklentiler</h2>
+<p>Sound Control'yu kullanmanın tek nedeni uygulama başına ses seviyesi, sessize alma ve yükseltme ise modern bir korumalı alan mikseri sizi tamamen kapsar. Uygulama başına ekolayzırına çok güveniyorsanız, derin EQ'nun eski sürücü modeline bağlı olduğunu ve Apple'ın mevcut kurallarına göre temiz bir şekilde yeniden üretilmesi en zor özellik olduğunu unutmayın. Beklentilerinizi buna göre belirleyin, şaşırmayacaksınız.</p>
+
+<p>Sürücü baş ağrıları olmadan uygulama başına ses seviyesini geri almaya hazır mısınız? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — tek seferlik 14,99 €, korumalı alan, abonelik yok, sürücü yok.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny Gitti — Yerini Alacak Modern Mac Uygulama Başına Birim Uygulaması",
+    description: "Prosoft'un SoundBunny ürünü üretilmiyor. İşte, bunun yerine geçecek mevcut, aktif olarak bakımı yapılan macOS uygulama başına ses karıştırıcısı - ayrıca uygulama başına ses kurulumunuzu çekirdek sürücüleri olmadan nasıl taşıyacağınız.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>SoundBunny çalışmayı durdurduysa veya artık satılmıyorsa, modern yedek parça <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, mevcut macOS için oluşturulmuş, uygulama başına bir menü çubuğu ses karıştırıcısı. Size, çekirdek sürücüsü, DMG veya yönetme aboneliği olmadan, 14,99 €'luk tek seferlik Mac App Store satın alımıyla aynı temel işi (bağımsız ses seviyesi, sessize alma ve uygulama başına yükseltme) sunar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny Gitti — Onun Yerini Alacak Modern Mac Uygulama Başına Birim Uygulaması" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>SoundBunny'ya ne oldu?</h2>
+<p>SoundBunny, Prosoft Engineering'in macOS için uygulama başına hacim aracıydı. Çalışan her uygulama için doğrudan menü çubuğundan farklı bir ses seviyesi ayarlamanıza olanak tanır - Müziğin sessiz olması, aramanın yüksek olması, tarayıcının ikisinin arasında bir yerde olması. Yıllar boyunca Apple'ın asla kapatmadığı bir boşluğu dolduran birkaç araçtan biriydi.</p>
+<p>Sorun SoundBunny'nun eski bir yazılım olmasıdır. Apple'ın macOS ses ve güvenlikte yaptığı derin değişikliklere (Apple Silicon, güçlendirilmiş çalışma süresi, sıkılaştırılmış sistem genişletme kuralları ve eski ses kancalarının kaldırılması) ayak uyduramadı. Bunun gibi bir yardımcı program güncellemeleri almayı bıraktığında eninde sonunda bozulur: başlatılamaz, bir işletim sistemi güncellemesinden sonra uygulama akışlarının kontrolünü kaybeder veya modern bir Mac'ya temiz bir şekilde yüklenemez. Eğer oradaysan, yanlış bir şey yapmıyorsun demektir. Arkada siz değil uygulama var.</p>
+
+<h2>macOS'nun neden hala üçüncü taraf bir miksere ihtiyacı var?</h2>
+<p>İşin dürüst kısmı şu: Bu, macOS'daki gerçek bir boşluktur, Ayarlar'da düzeltebileceğiniz bir hata değildir. Windows, on yılı aşkın bir süredir uygulama başına bir Ses Düzeyi Karıştırıcısı piyasaya sürüyor. macOS'nun hiçbir zaman böyle bir özelliği olmadı. Sistem ses düzeyi kaydırıcısı ve Ses ayarları sesinizi kontrol eder. <em>çıkış cihazı</em> bir bütün olarak her uygulama aynı ana seviyededir. "Safari'yu %40'ta tutun, ancak Zoom'yu %100'de tutun" demenin yerleşik bir yolu yoktur.</p>
+<p>SoundBunny gibi araçların mevcut olmasının nedeni budur ve bugün bunların değiştirilmesinin hala gerekli olmasının nedeni budur. İhtiyaç, uygulama ortadan kalktığında ortadan kalkmadı; Apple hâlâ bu sorunu gidermedi.</p>
+
+<h2>Modern alternatif: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menü çubuğunuzda yaşayan ve SoundBunny kullanıcılarının güvendiği şeyleri yapan, dünün macOS'su yerine bugünün macOS'suna dayanarak oluşturulmuş, uygulama başına bir ses karıştırıcısıdır. Özellik örtüşmesi temel hususları kapsar:</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — çalışan uygulama başına bir kaydırıcı, tam olarak SoundBunny zihinsel modeli.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü tek bir uygulamayı, diğer her şeye dokunmadan susturun.</li>
+<li><strong>Uygulama başına ses artırma</strong> — sessiz bir uygulamaya basın <em>yukarıda</em> Bir video veya çağrı çok düşük düzeyde kaydedildiğinde %100. SoundBunny, modern macOS'da geçmiş sistem maksimumunu güvenilir bir şekilde yükseltemedi; Boost burada gerçek bir yükseltmedir.</li>
+<li><strong>Hacim profilleri</strong> - uygulama başına bir dizi seviye kaydedin ("iş" karışımı, "oyun" karışımı) ve kaydırıcıları birer birer itmek yerine bunlar arasında geçiş yapın.</li>
+<li><strong>Otomatik eğilme</strong> — başka bir ses kaynağı (bir arama sırasında mikrofonunuz gibi) etkinleştiğinde arka plan uygulamasının ses düzeyini otomatik olarak düşürür.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+
+<h2>Göç aslında neye benziyor</h2>
+<p>Herhangi bir içe aktarma adımı yoktur; uygulama başına ses düzeyi düzeyleri, taşıdığınız bir dosya değildir; ancak geçiş hızlıdır:</p>
+<ul>
+<li><strong>SoundBunny'yu düzgün şekilde çıkarın.</strong> Çıkın ve ardından uygulamayı silin. Herhangi bir yardımcı veya oturum açma öğesi yüklediyse, iki yardımcı programın aynı ses akışları için kavga etmemesi için onu da kaldırın.</li>
+<li><strong>Mac App Store'dan SoundDial'yu yükleyin.</strong> Korumalı alana alınır ve mağaza aracılığıyla dağıtılır, dolayısıyla monte edilecek DMG yoktur ve "tanımlanamayan geliştirici" uyarısı yoktur. Apple Kimliğinize bağlı tek bir satın alma.</li>
+<li><strong>İlk başlatmada ses erişimine izin verin.</strong> macOS, SoundDial'nun uygulama sesini görmesi için izin isteyecektir. Bu, Apple'ın sağladığı modern ve onaylanmış yoldur; çekirdek uzantısı yok, yeniden başlatma yok, sistem güvenliği azaltılmıyor. İzin verirseniz çalışan uygulamalarınız kaydırıcı olarak görünür.</li>
+<li><strong>Karışımınızı yeniden oluşturun.</strong> Ortak uygulamalarınızı ayarlayın, ardından bu düzenlemeyi profil olarak kaydedin, böylece hiçbir zaman yeniden yapmanıza gerek kalmaz.</li>
+</ul>
+
+<h2>SoundBunny'dan pratik farklar</h2>
+<p>En önemli fark şu ki <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> güncel yazılımdır. Yerel olarak Apple Silicon üzerinde çalışır, Apple'ın desteklediği ses API'lerini kullanır ve bir Mac App Store uygulamasıdır; bu, güncellemelerin mağazadan geldiği ve işletim sistemi yükseltmelerini bozmak yerine hayatta kalacak şekilde oluşturulduğu anlamına gelir. Korumalı alana alınmış olmak aynı zamanda kendi şeridinin dışına çıkamayacağı anlamına da gelir; bu da uygulamalarınız ve hoparlörleriniz arasında duran bir şey için güven vericidir.</p>
+<p>Beklentilerin doğru olması için birkaç dürüst uyarı. SoundDial, Apple'ın ses çerçevesi içinde çalıştığından, kontrol, normal sistem çıkışı üzerinden yönlendirilen standart uygulamalar için en iyisidir. Bazı yazılımlar sesi kendi yoluyla veya özel bir cihaz üzerinden çalar ve hiçbir menü çubuğu mikseri (SoundBunny dahil) bunları tam olarak yönetemez. Ve uygulama başına birim, doğası gereği macOS'nun üstünde bir yazılım katmanıdır; bu bir donanım karıştırıcısı değil. Bu gerçek sınırlar dahilinde SoundBunny'nun yaptığı işi yapıyor.</p>
+
+<blockquote>Uygulama başına Ses Düzeyi Karıştırıcısı bekleyerek Windows'dan Mac'ya geçtiyseniz, bu, bu boşluğu dolduran araçtır ve şimdi gerçekten bakımı yapılan bir araçtır.</blockquote>
+
+<p>SoundBunny iyi bir performans sergiledi ancak bu bir miras. Modern bir Mac'da uygulama başına ses düzeyine, sessize alma ve yükseltmeye ihtiyacınız varsa, <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — Bir kerelik 14,99 €, abonelik yok, sürücü yok.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Mac için Boom 2 Alternatifi: Boom 3D Ek Satışı Olmadan Uygulama Başına Hacim",
+    description: "Boom 2 eski bir teknolojidir ve sizi Boom 3D'ya itmeye devam etmektedir. Yalnızca uygulama başına ses seviyesi ve modern macOS'da basit bir artış istiyorsanız, işte odaklanmış bir alternatif ve nasıl çalıştığı.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Sistem çapında güçlendirme için Boom 2'yu sevdiyseniz ancak basit bir şey istiyorsanız <strong>uygulama başına</strong> Mevcut bir Mac'nun hacmine baktığımızda dürüst cevap, Boom 2'nun eski olduğu ve artık doğru araç olmadığıdır. Odaklanmış bir alternatif <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, daha büyük bir pakete gerek kalmadan her uygulamaya kendi ses kaydırıcısını, sessize alma ve yükseltme özelliğini tek seferlik 14,99 € karşılığında sunan bir menü çubuğu karıştırıcısı.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac için Boom 2 Alternatifi: Boom 3D Satışı Olmadan Uygulama Başına Hacim" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Boom 2 neden artık uymuyor?</h2>
+<p>Boom 2, belirli bir nedenden dolayı çok sevilen bir uygulamaydı: Mac cihazınızın genel ses seviyesini sistem maksimumunun üzerine çıkardı ve bir ekolayzır ekledi. Bunu uygulama başına değil, sistem genelinde yaptı. 2015'te bu iyiydi. 2026'da iki sorunu var.</p>
+<p>Birincisi, bu bir miras. Global Delight, enerjisini açıkça Boom 3D'ya kaydırdı ve Boom 2 ürün sayfasını açtığınızda kendinizi neredeyse anında daha yeni, daha pahalı uygulamaya doğru sürüklenmiş bulacaksınız. Boom 2 hâlâ mevcut ancak satıcının Boom 3D'yu satmak için kullandığı bir basamaktır, aktif ilgi gören bir ürün değil.</p>
+<p>İkincisi ve daha önemlisi: Boom 2 hiçbir zaman uygulama başına ses karıştırıcı olmadı. Bir ana çıktıyı yükseltir ve şekillendirir. Eğer asıl sıkıntınız Slack pinginin müziğinizden daha yüksek olmasıysa veya bir tarayıcı sekmesinin bir aramayı bastırmasıysa, Boom 2 bunu çözmez. Birlikte her şeyi daha da gürültülü hale getiriyor. Bu farklı bir iş.</p>
+
+<h2>macOS'da "uygulama başına hacim" aslında ne anlama geliyor?</h2>
+<p>Çoğu alternatif özetin atladığı dürüst bağlam şu şekildedir: macOS'da hiçbir yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'da yıllardır böyle bir özellik var; hoparlöre sağ tıklayın, Ses Düzeyi Karıştırıcısını açın ve Chrome'yu %40'a ve Spotify'yu %80'e ayarlayın. Apple bunu asla göndermedi. macOS ses seviyesi tuşu yalnızca bir ana seviyeyi hareket ettirir.</p>
+<p>Dolayısıyla bir "Boom 2 alternatifi" aradığınızda, aslında aradığınız şey daha yüksek sesli bir Mac değil, Windows kullanıcılarının hafife aldığı uygulama başına kontroldür. Bu, işletim sistemindeki gerçek bir boşluktur; Boom 2'nun veya herhangi bir uygulamanın oluşturmayı unuttuğu bir şey değildir.</p>
+
+<h2>SoundDial'nun sığdığı yer</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> özellikle bu boşluk için tasarlandı. Menü çubuğunda bulunur ve o anda ses çalan uygulamaları, her biri kendi kaydırıcısıyla listeler. Tek bir ana kontrolü dürtmek ve en iyisini ummak yerine, uygulama başına seviyeleri belirlersiniz.</p>
+<p>Ne yapar:</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — tarayıcıyı sessize alın, müziği istediğiniz yerde tutun, küresel uzlaşma yok.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Gürültülü bir uygulamayı başka hiçbir şeye dokunmadan susturun.</li>
+<li><strong>Uygulama başına artış</strong> — Bir video veya çağrı çok sessiz kaydedildiğinde, tek bir uygulamayı normal tavanının ötesine itin. Bu, Boom 2 hayranlarının genellikle özlediği parçadır, ancak burada tüm sistem yerine tek bir uygulamayı hedef almaktadır.</li>
+<li><strong>Hacim profilleri</strong> — "odaklanma", "toplantı" veya "oyun" gibi düzenleri kaydedin ve tek tıklamayla geçiş yapın.</li>
+<li><strong>Otomatik eğilme</strong> — konuşmaya başladığınızda diğer uygulamaları otomatik olarak düşürür; aramalar ve kayıt için kullanışlıdır.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — aynı menüden hoparlörler, kulaklıklar ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+
+<h2>Nasıl kurulur?</h2>
+<p>İş akışı kısa:</p>
+<ul>
+<li>Yükle <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'dan — DMG yok, sürücü yok, yeniden başlatma yok.</li>
+<li>Şu anda ses üreten her uygulamayı görmek için menü çubuğu simgesini tıklayın.</li>
+<li>Her uygulamanın kaydırıcısını istediğiniz düzeye sürükleyin; Gerektiğinde tek tek sessize alın veya güçlendirin.</li>
+<li>Daha sonra yeniden kullanmak istiyorsanız düzenlemeyi profil olarak kaydedin.</li>
+</ul>
+<p>App Store üzerinden gönderildiği için korumalı alana alınır ve temiz bir şekilde kurulur. Bunu belirtmeye değer çünkü bazı eski ses araçları çekirdek uzantılarına veya sanal ses sürücülerine dayanıyordu; modern macOS'nun giderek daha fazla direndiği türden bir şey. SoundDial sizden bir sürücü yüklemenizi veya herhangi bir güvenlik ayarını düşürmenizi istemez.</p>
+
+<h2>Dürüst bir sınırlama</h2>
+<p>Uygulama başına destek gerçektir ancak sihir değildir. Bir uygulamanın kaynak sesi gerçekten sessizse veya kötü kaydedilmişse, bunun yükseltilmesi sinyalle birlikte gürültü tabanını da yükseltir, böylece çok sessiz malzeme sertçe basıldığında tıslama sesi çıkarabilir. Bu, herhangi bir uygulamadaki bir kusur değil, yükseltmenin fizik sınırıdır - Boom 2'nun sistem güçlendirmesi de aynı ödünleşime sahipti. Güçlendirmeyi, bozuk ses için bir kurtarma aracı olarak değil, pratik durumlar için boşluk payı olarak değerlendirin.</p>
+
+<h2>Boom 2 odaklanmış bir miksere karşı</h2>
+<p>Boom 2'da sevdiğiniz şey sistem genelinde ses yüksekliği artı EQ idiyse ve uygulama başına kontrolü umursamıyorsanız, Boom 3D satıcının amaçlanan halefidir - bu adil bir yoldur ve biz aksini iddia etmeyeceğiz. Ancak Boom 2'yu denediyseniz ve aslında istediğiniz şeyin her şeyi taşımadan bir uygulamayı kapatmak veya kapatmak olduğunu fark ettiyseniz, EQ ve güçlendirme paketi yanlış araç şeklidir.</p>
+<blockquote>Boom 2, Mac'nun tamamının sesini yükseltir. Uygulama başına mikser, hangi uygulamanın daha yüksek sesli olduğuna karar vermenizi sağlar. Bunlar farklı sorunları çözer.</blockquote>
+<p>Fiyat farkı da açıkça belirtilmeye değer. SoundDial tek seferlik 14,99 €'dur. Abonelik yok, daha büyük bir planın kapsamına giren deneme yok ve sizi daha pahalı bir seviyeye yönlendiren uygulama içi yol yok. Mikseri satın alırsın, mikserin sahibi olursun.</p>
+
+<p>Eğer gerçekten peşinde olduğunuz şey sistem çapında bir EQ değil, uygulama başına ses seviyesi ise, <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu deneyin</a> ve seviyelerinizi macOS'nun size izin vermesi gerektiği şekilde ayarlayın.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: Mac'da Ücretsiz Açık Kaynak ve Uygulama Başına Ücretli Hacim",
+    description: "FineTune, Mac için ücretsiz, açık kaynaklı, uygulama başına bir birim uygulamasıdır; SoundDial, güçlendirme, profiller ve desteğe sahip, ücretli, korumalı bir App Store uygulamasıdır. İşte seçmenize yardımcı olacak dürüst bir karşılaştırma.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>FineTune, macOS için ücretsiz, açık kaynaklı, uygulama başına ses karıştırıcıdır; dolayısıyla tek endişeniz fiyatsa, gerçek bir seçenektir. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ücretli (14,99 €, tek seferlik) bir Mac App Store uygulamasıdır; uygulama başına ses artırma, kayıtlı profiller, otomatik azaltma ve satıcı desteği ekler. Gerçek seçim, ücretsiz ve DIY ile korumalı alana alınmış ve desteklenendir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune ve SoundDial: Mac&#x27;da Ücretsiz Açık Kaynak ve Uygulama Başına Ücretli Hacim" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Her iki uygulamanın da çözdüğü sorun</h2>
+
+<p>macOS'da hâlâ yerleşik uygulama başına ses karıştırıcısı yok. Windows'da yıllardır böyle bir özellik var; hoparlör simgesine sağ tıklayın, Ses Düzeyi Karıştırıcısını açın; her uygulamanın kendi kaydırıcısı olur. Mac'da her şey için tam olarak tek bir sistem ses düzeyi kaydırıcısına sahip olursunuz: müziğiniz, görüntülü aramanız, YouTube, bildirim sesleri ve oyunun tümü bunları paylaşır. Aramanız çok sessizse ve Spotify çok yüksekse, tek "düzeltmeniz" Spotify'nun sesini tamamen kapatmaktır.</p>
+
+<p>Hem FineTune hem de SoundDial bu boşluğu doldurmak için var. Çalışan her uygulamaya kendi ses seviyesi kontrolünü verirler, böylece örneğin ana kaydırıcıya dokunmadan arka plan müziğini %20'ye çekerken bir toplantıyı %100'de tutabilirsiniz.</p>
+
+<h2>FineTune'nun doğru yaptığı şey</h2>
+
+<p>FineTune, SoundSource ruhunu taşıyan daha yeni, ücretsiz ve açık kaynaklı bir uygulamadır. Güçlü yönleri konusunda adil olalım çünkü bunlar gerçek:</p>
+
+<ul>
+  <li><strong>Hiçbir maliyeti yok.</strong> Lisans yok, deneme yok, yükseltme sorunu yok.</li>
+  <li><strong>Kaynak açık.</strong> Tam olarak ne yaptığını okuyabilir, gizlilik açısından denetleyebilir ve - Swift'i biliyorsanız - değiştirebilir veya çatallayabilirsiniz.</li>
+  <li><strong>Toplum odaklıdır.</strong> Hatalar herkes tarafından düzeltilebilir ve kod herhangi bir şirketten daha uzun süre dayanır.</li>
+  <li><strong>Temel ihtiyacı karşılıyor.</strong> İnsanların %90'ının aslında aradığı özellik olan uygulama başına bağımsız hacim.</li>
+</ul>
+
+<p>Tek gereksiniminiz "her şeyi geri çevirmeden bir uygulamayı geri çevirmeme izin verin" ise ve resmi bir destek masası olmadan gelen yazılım konusunda rahatsanız, FineTune meşru bir yanıttır. Bunu burada tavsiye etmek bir taviz değil, dürüstlüktür.</p>
+
+<h2>Kendin Yap rotasının dürüst değiş tokuşları</h2>
+
+<p>Ücretsiz ve açık kaynak, fiyat etiketinde görünmeyen gerçek maliyetler taşır. Bunlar özellikle FineTune'ya yönelik bir darbe değil; yaklaşımın doğasıdır:</p>
+
+<ul>
+  <li><strong>Kurulum manueldir.</strong> Açık kaynaklı ses araçları genellikle App Store aracılığıyla değil, indirilmiş bir yapı veya Homebrew formülü olarak dağıtılır. Apple'ın incelemesinin dışında kurulum yapıyorsunuz ve onu güncel tutmak zorunda kalıyorsunuz.</li>
+  <li><strong>Uygulama başına ses müdahalesi doğası gereği hassastır.</strong> Başka bir uygulamanın sesini yönlendirmek derin sistem işidir. Apple, ses yığınını değiştiren bir macOS güncellemesi gönderdiğinde, bu araçlar birisi onları yamalayana kadar bozulabilir. Gönüllü bir projeyle "birisi" o ay meşgul olabilir.</li>
+  <li><strong>Destek en iyi çabadır.</strong> Bir şey bozulursa başvurunuz GitHub sorunu ve beklemek olacaktır. Garantili bir yanıt yoktur ve hiç kimse sorunu düzeltmek zorunda değildir.</li>
+  <li><strong>Özellik kapsamı, bakımcıların gönderdiği her şeydir.</strong> Çekirdek ses kontrolü muhtemelen kapsanmaktadır; ekstralar tamamen katkıda bulunanın zamanına bağlıdır.</li>
+</ul>
+
+<blockquote>Dürüst çerçeve: FineTune bakım sorumluluğu için para ticareti yapıyor. 14,99 € tasarruf edersiniz ve topluluk yetişene kadar bir işletim sistemi güncellemesinin onu bozuk bırakma riskini üstlenirsiniz.</blockquote>
+
+<h2>SoundDial'nun farklı olduğu yerler</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ters ticareti alır. Bir kez ödeme yaparsınız ve karşılığında arkasında bir satıcı bulunan bir App Store ürünü ve uygulama başına hacim üzerine inşa edilmiş daha geniş bir özellik seti elde edersiniz:</p>
+
+<ul>
+  <li><strong>Uygulama başına ses düzeyi ve sessize alma</strong> — her iki uygulamanın sunduğu ortak temel.</li>
+  <li><strong>Uygulama başına ses artırımı</strong> — çok sessiz bir uygulamayı %100'ün üzerine itin. Diğerlerini reddetmenin hala yeterli olmadığı, zayıf ses çıkışına sahip uygulamalar için kullanışlıdır.</li>
+  <li><strong>Hacim profilleri</strong> — tüm karışımları kaydedin ("Toplantı", "Odaklanma", "Oyun") ve her seferinde kaydırıcıları sıfırlamak yerine tek tıklamayla geçiş yapın.</li>
+  <li><strong>Otomatik eğilme</strong> — konuştuğunuzda veya seçilen bir uygulama etkinleştiğinde arka plan uygulamalarını otomatik olarak azaltır, böylece aramalar manuel müdahaleye gerek kalmadan kesilir.</li>
+  <li><strong>Hızlı çıkış değiştirme</strong> — menü çubuğundan hoparlörler, kulaklıklar ve diğer çıkışlar arasında geçiş yapın.</li>
+</ul>
+
+<p>Bir o kadar da önemli <em>nasıl</em> gönderiyor. SoundDial korumalı alana alınır ve Mac App Store aracılığıyla dağıtılır; ayrı bir DMG yok, çekirdek sürücüsü yok, ses sürücüsü kurulumu yok. Güncellemeler diğer uygulamalar gibi App Store üzerinden gelir ve bir şeyler ters gittiğinde e-posta gönderebileceğiniz gerçek bir geliştirici vardır. 14,99 €'nun somut değeri budur: yalnızca daha fazla özellik değil, aynı zamanda bunların macOS sürümlerinde çalışmasını sağlamaktan sorumlu biri.</p>
+
+<h2>Her ikisi için de geçerli olan dürüst bir uyarı</h2>
+
+<p>Hiçbir üçüncü taraf uygulaması, macOS'nun ses sistemini Windows' Volume Mixer'a dönüştüremez çünkü Apple, uygulama başına ses için temiz bir genel API sunmaz. Bu kategorideki ücretsiz veya ücretli, açık veya kapalı her araç, sistem düzeyinde ses tekniklerini kullanarak bu sınırlamayı ortadan kaldırır. Bu, hem FineTune hem de SoundDial'nun büyük macOS ses değişikliklerinden etkilenebileceği anlamına gelir. Aradaki fark, daha sonra düzeltmeden kimin sorumlu olacağıdır: gönüllü bir topluluk veya ürünü buna bağlı olan ücretli bir satıcı.</p>
+
+<h2>Hangisini seçmelisiniz?</h2>
+
+<ul>
+  <li><strong>Aşağıdaki durumlarda FineTune'yu seçin</strong> sıfır maliyet istiyorsunuz, açık kaynak şeffaflığına değer veriyorsunuz, yalnızca uygulama başına temel birime ihtiyacınız var ve App Store'nun dışına rahatça kurulum yapabiliyor ve işler bozulduğunda kendi kendini destekleyebiliyorsunuz.</li>
+  <li><strong>Aşağıdaki durumlarda SoundDial'yu seçin</strong> tek tıklamayla App Store kurulumu, güçlendirme, profiller ve otomatik indirme gibi ekstralar ve oyunda dış görünüme sahip bir satıcıdan güncelleme güvencesi ve destek istiyorsunuz.</li>
+</ul>
+
+<p>Her ikisi de geçerlidir. Bu gerçekten para harcamayı mı yoksa dikkat etmeyi mi tercih ettiğinize bağlıdır. Desteklenen, korumalı alana alınmış bir uygulamayı satın almayı ve bunu bir daha düşünmemeyi tercih ediyorsanız, <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> tek seferlik 14,99 € karşılığında — abonelik yok, sürücü yok, DMG yok.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Ücretsiz Mac Ses Mikseri Yeterli mi?",
+    description: "Ücretsiz Background Music uygulaması ile ücretli SoundDial arasında adil bir rekabet. Ücretsiz sanal sürücü yaklaşımının işe yaradığı, başarısız olduğu ve 14,99 €'luk yerel mikserin buna değdiği yer.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Background Music ücretsizdir ve temel konularda gerçekten iyidir: her uygulamaya kendi ses düzeyi kaydırıcısını verir ve başka bir uygulama oynatıldığında müziği otomatik olarak duraklatabilir. İhtiyacınız olan tek şey buysa kullanın. Ancak macOS güncellemelerinden sonra bozulabilen sanal bir ses sürücüsüne dayanıyor ve uygulama başına güçlendirme, profiller ve çıkış değiştirme özelliğinden yoksun. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> sürücüsüz, korumalı alanla desteklenen, desteklenen bir alternatifle para takası yapar.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: Ücretsiz Mac Ses Düzeyi Karıştırıcısı Yeterli mi?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>İlk olarak macOS hakkındaki dürüst gerçek</h2>
+<p>macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'nun Hacim Karıştırıcısında on yılı aşkın süredir bir tane var, ancak Mac'da sistem kaydırıcı her şeyi aynı anda hareket ettiriyor. Üçüncü taraf bir uygulamanın bireysel uygulama akışlarını temiz bir şekilde kesmesine ve yeniden dengelemesine olanak tanıyan, Apple tarafından desteklenen bir API yoktur. Bu tek boşluk, Background Music ve SoundDial gibi araçların var olmasının nedenidir ve aşağıdaki ödünleşimlerin çoğunun temel nedenidir.</p>
+
+<h2>Background Music neyi iyi yapıyor?</h2>
+<p>Background Music, yıllardır piyasada olan ve iyi bir nedenden ötürü sadık bir takipçiye sahip olan açık kaynaklı bir menü çubuğu uygulamasıdır. Size şunları sağlar:</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — temel özellik. Bir çağrıyı yüksek sesle tutarken Spotify'yu kısın.</li>
+<li><strong>Otomatik duraklatma</strong> — ses başka bir yerde başladığında müzik çalarınızı duraklatabilir; bu, toplantılar için hoş bir dokunuştur.</li>
+<li><strong>Sizi takip eden bir cihaz birimi</strong> ve basit, mantıklı bir arayüz.</li>
+<li><strong>Sıfır maliyet</strong> — ücretsizdir ve kod herkese açıktır.</li>
+</ul>
+<p>Birçok insan için bu yeterli. İstek listenizin tamamı "gürültülü bir uygulamayı geri kalanına dokunmadan daha sessiz hale getirin" ise, Background Music bunu kapsar ve ihtiyacınız olmayan bir şey için ödeme yapmamalısınız. Burada adil olmak önemlidir: Bu yasal olarak yararlı bir araçtır.</p>
+
+<h2>Serbest yaklaşımın dikişlerini gösterdiği yer</h2>
+<p>Yakalama <em>nasıl</em> Background Music uygulama başına hacim sağlar. macOS resmi bir yol vermediğinden, sistem sesinizi kendi üzerinden yönlendiren sanal bir ses sürücüsü (eski Soundflower yaklaşımının değiştirilmiş bir versiyonu) yükler. Bu mimari akıllıcadır ancak gerçek maliyetleri de beraberinde getirir:</p>
+<ul>
+<li><strong>macOS güncellemelerinden sonra bozuluyor.</strong> Sanal ses sürücüleri sistemin derinliklerinde yer alır ve büyük macOS sürümleri bunları geçmişte devre dışı bırakmış veya istikrarsızlaştırmıştır. Kullanıcılar yükseltme sonrasında rutin olarak sessizlik, bozulma veya yeniden yükleme ihtiyacını bildiriyor. Kırıldığında, genellikle kendi başınasın.</li>
+<li><strong>Kurulum daha ağırdır.</strong> Mac cihazınıza yalnızca bir uygulama değil, çekirdeğe bitişik bir ses cihazı ekliyorsunuz. Temiz bir şekilde kaldırmak zahmetli olabilir.</li>
+<li><strong>Varsayılan çıkış cihazınız haline gelir.</strong> Her şey sanal cihaz üzerinden yönlendirildiğinden, bazı profesyonel ses, konferans veya oyun uygulamaları tuhaf davranabilir ve gerçek çıkışınızı değiştirmek ekstra bir adımdır.</li>
+<li><strong>Kalkınma toplum temposunda gerçekleşir.</strong> Destek masası bulunmamaktadır. Gönüllünün vakti olduğunda düzeltmeler yapılır; bu da aniden sessizleşebilen bir ses aracı için anlamlı bir risktir.</li>
+</ul>
+<p>Bunların hiçbiri Background Music'yu kötü yapmaz. Bu, onu ücretsiz bir aracın değiş tokuşlarıyla birlikte ücretsiz bir araç haline getirir.</p>
+
+<h2>SoundDial ile gerçekte ödediğiniz tutar</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ne olduğunu şekillendiren bir Mac App Store uygulamasıdır. App Store uygulamaları korumalı alanda olduğundan ve Background Music'nun kullandığı düşük seviyeli sanal sürücü türünü gönderemediğinden, SoundDial, ayrı bir ses cihazı veya DMG kurulmadan çalışacak şekilde tasarlanmıştır. Bu şu anlama gelir:</p>
+<ul>
+<li><strong>Sanal sürücü tuhaflıkları yok.</strong> Ses zincirinizi ele geçiren fazladan bir çıkış cihazı yoktur ve sistem değiştiğinde yeniden kurulacak hiçbir şey yoktur.</li>
+<li><strong>macOS güncellemelerinden çok daha sorunsuz bir şekilde kurtulur.</strong> App Store dağıtımı ve korumalı alan oluşturma, desteklenen yollara göre oluşturulduğu ve mağaza aracılığıyla güncellendiği anlamına gelir; dolayısıyla işletim sistemi yükseltmesinin sizi sessiz bırakma olasılığı çok daha düşüktür.</li>
+<li><strong>Uygulama başına ses artışı.</strong> Bu gerçek bir özellik farkıdır: SoundDial bir uygulamayı zorlayabilir <em>yukarıda</em> Sessiz kaynaklar için %100 — çok düşük düzeyde kaydedilen bir podcast, boğuk bir video görüşmesi. Background Music yalnızca zayıflar.</li>
+<li><strong>Hacim profilleri.</strong> Uygulama başına bir dizi düzeyi ("Toplantı", "Müzik", "Oyun") kaydedin ve her seferinde kaydırıcıları sürüklemek yerine tek tıklamayla geçiş yapın.</li>
+<li><strong>Otomatik eğilme.</strong> Seçilen bir kaynak oynatıldığında diğer uygulamaların ses düzeyini otomatik olarak düşürün; otomatik duraklatma fikrine daha yapılandırılabilir bir yaklaşım.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> menü çubuğuna eklenir ve uygulama başına sessize alınır.</li>
+<li><strong>Gerçek destek.</strong> Bir şeyler ters gittiğinde birinin sorumlu olduğu ücretli bir üründür.</li>
+</ul>
+
+<h2>Dürüst karar</h2>
+<blockquote>Ücretsiz istiyorsanız ve yalnızca uygulama başına temel birime ihtiyacınız varsa ve macOS güncellemelerinden sonra sorun giderme konusunda rahatsanız, Background Music sağlam bir seçimdir. Güçlendirme, profiller, eğilme, çıkış değiştirme, sanal sürücü kırılganlığının olmaması ve bozulduğunda birinin e-posta göndermesini istiyorsanız, SoundDial'nun değeri 14,99 €'dur.</blockquote>
+<p>Birkaç somut eşitlik bozucu. Düzenli olarak çok sessiz kaynaklarla uğraşıyorsanız, yalnızca yükseltme fiyatı haklı çıkarır - Background Music, sesi kaynaktan daha yüksek hale getiremez. Her yıl yapılan "sesim güncellemede hayatta kalacak mı" kumarından korkuyorsanız, korumalı alan mağaza uygulaması bu kaygıyı ortadan kaldırır. Ayarla ve unut sahnelerini seviyorsanız profiller gerçek sürtünmeyi azaltır. Ve bu, bir abonelik değil, tek seferlik 14,99 €'dur; dolayısıyla karşılaştırma, ücretsiz sürücüyü sürdürmek için harcadığınız zamana karşı tek bir satın alma işlemidir.</p>
+<p>Tam tersine, açık kaynaktan hoşlanan, kodu okumak isteyen ve çoğunlukla yalnızca bir uygulamayı reddeden bir tamirciyseniz paradan tasarruf edin. Her iki araç da aynı temel sorunu çözüyor; sağlamlık, özellik derinliği ve altlarında macOS değiştiğinde sizi kimin yakalayacağı açısından farklılık gösterirler.</p>
+
+<p>Sanal sürücü kumarı olmadan uygulama başına hacim mi istiyorsunuz? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — tek seferlik 14,99 €, korumalı alana alınmış, sürücüsüz, dahili güçlendirme, profiller ve otomatik azaltma özelliğine sahip.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "SoundSource 39$ Değerinde mi? Tek Seferlik Daha Ucuz Bir Mac Alternatifi",
+    description: "SoundSource, yaklaşık 39 ABD doları tutarında güçlü bir Mac ses aracıdır, ancak yalnızca uygulama başına ses düzeyine ve artırmaya ihtiyacınız varsa bu aşırıya kaçar. İşte dürüst bir karşılaştırma ve tek seferlik 14,99 €'luk bir alternatif.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Tam araç setine ihtiyacınız varsa SoundSource buna değer: uygulama başına ses seviyesi, uygulama başına 10 bantlı EQ, cihazlar arasında ses yönlendirme ve sistem çapında efektler. Ancak, esas olarak uygulama başına ses seviyesi, uygulama başına ses kapatma ve ses seviyesi artışı istiyorsanız, yaklaşık 39 $ civarında bu çok fazla. Bu daha dar iş için, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tek seferlik maliyeti 14,99 €'dur.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource&#x27;nun Değeri 39 Dolar mı? Tek Seferlik Daha Ucuz Bir Mac Alternatifi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>SoundSource gerçekte ne yapar?</h2>
+<p>Rogue Amoeba'nun SoundSource'su gerçekten mükemmel bir yazılımdır ve bu konuda adil olmak önemlidir. Bu sadece bir ses mikseri değil. Size şunları sağlar:</p>
+<ul>
+<li><strong>Uygulama başına ses kontrolü</strong> Menü çubuğundan, çoğu insanın geldiği özellik.</li>
+<li><strong>Tam 10 bantlı ekolayzır</strong> uygulama başına veya sistem genelinde ve ayrıca diğer ses efektlerini (Audio Unit eklentileri aracılığıyla) uygulayabilirsiniz.</li>
+<li><strong>Çıkış/giriş yönlendirme</strong>Tek bir uygulamanın sistemin geri kalanından farklı bir çıkış cihazına gönderilmesi de dahil.</li>
+<li><strong>Hızlı cihaz değiştirme</strong> ve kulaklığa özel EQ ön ayarları.</li>
+</ul>
+<p>Kulaklığınızdaki EQ'yu ayarlamak, bir uygulamanın sesini ayrı bir hoparlöre yönlendirmek veya Ses Birimi efektlerini yığınlamak isteyen bir podcast yayıncısı, yayıncı veya ses meraklısıysanız, SoundSource karşılığını alır. Burada hiçbir şey buna engel değil.</p>
+
+<h2>Fiyat sorusu</h2>
+<p>SoundSource, 39 ABD doları civarında ücretli, tek seferlik bir lisanstır (fiyat, sürüme ve promosyonlara göre değişir). Netflix anlamında yinelenen bir abonelik değil, ancak klasik ücretli uygulama modelini takip ediyor: büyük bir sürüm satın alıyorsunuz ve gelecekteki büyük yükseltmeler genellikle sonsuza kadar ücretsiz olmaktan ziyade indirimli ücretli yükseltmelerdir. Birkaç yıl boyunca bu, tek bir satın alma işleminden daha fazlasıdır. Pek çok Mac kullanıcısı için dürüst soru şu: Gerçekten dokunduğum tek şey uygulama başına ses kaydırıcılarıyken, bir yönlendirme ve EQ paketi için 39 dolar mı ödüyorum?</p>
+
+<blockquote>SoundSource'yu açtıysanız ve yalnızca ses seviyesi kaydırıcılarını ve sessize alma düğmelerini kullandıysanız, bir çekmeceyi kullanmak için bir süite para ödüyorsunuz demektir.</blockquote>
+
+<h2>Sorunun neden var olduğu</h2>
+<p>İşte dürüst temel neden: macOS'da yerleşik uygulama başına ses karıştırıcısı yoktur. Windows'da yıllardır bir tane var, ancak Mac'da sistem birimi ya hep ya hiç. Bir video görüşmesi yüksek sesle devam ederken Spotify'yu sessiz tutmanın veya diğer her şeye dokunmadan bir uygulamayı sessize almanın Apple tarafından sağlanan bir yolu yoktur. Bu boşluk tam olarak SoundSource ve gibi araçların nedenidir. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> var. Bu gerçek bir işletim sistemi sınırlamasıdır; her iki uygulamanın da çözmek için icat ettiği bir sorun değildir.</p>
+
+<h2>Daha hafif, daha ucuz bir seçeneğin uygun olduğu yer</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> profesyonel ses durumu yerine genel durum için oluşturulmuş, uygulama başına bir menü çubuğu ses karıştırıcısıdır. Şunları kapsar:</p>
+<ul>
+<li><strong>Uygulama başına bağımsız ses düzeyi</strong> — Toplantı tam düzeyde kalırken müziğinizi bırakın.</li>
+<li><strong>Uygulama başına sessize alma</strong> — Mac'nun sesini kapatmadan bir uygulamayı susturun.</li>
+<li><strong>Uygulama başına ses artırma</strong> - kaynak çok yumuşak olduğunda sessiz bir uygulamayı normal %100'ün üzerine çıkarın.</li>
+<li><strong>Hacim profilleri</strong> — uygulama başına bir dizi seviye kaydedin (örneğin, "odaklanma" veya "çağrı" düzeni) ve tek tıklamayla geçiş yapın.</li>
+<li><strong>Otomatik eğilme</strong> — konuşmaya başladığınızda veya seçilen bir uygulama oynatıldığında diğer uygulamaları otomatik olarak düşürür.</li>
+<li><strong>Hızlı çıkış değiştirme</strong> — menü çubuğundan hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapın.</li>
+</ul>
+<p>bu <strong>€14,99 tek seferlik</strong>, Mac App Store aracılığıyla satılır, dolayısıyla korumalı alana alınır ve ayrı bir DMG, çekirdek uzantısı ve yüklenecek ses sürücüsü yoktur. Herhangi bir App Store uygulaması gibi indirirsiniz ve mağaza aracılığıyla güncellenir.</p>
+
+<h2>Dürüst bir karşılaştırma</h2>
+<p>Takas konusunda dikkatli olun. SoundSource, SoundDial'dan daha fazlasını yapar ve aşağıdakilerden herhangi biri sizin için önemliyse SoundSource daha iyi bir seçimdir:</p>
+<ul>
+<li>Gerçek bir uygulama başına veya sistem istiyorsunuz <strong>ekolayzır</strong> ve Ses Birimi efektleri.</li>
+<li>Yapman gereken <strong>tek bir uygulamayı farklı bir çıkış cihazına yönlendirme</strong> diğer her şeyden.</li>
+<li>güveniyorsun <strong>kulaklığa özel EQ ön ayarları</strong> ve ince taneli ses işleme.</li>
+</ul>
+<p>SoundDial, EQ veya uygulama başına cihaz yönlendirmesi yapmaz. Kasıtlı olarak daraltılmıştır. Bunun karşılığında size daha düşük bir fiyat, daha hafif bir ayak izi ve çoğu insanın gerçekte istediği şey için odaklanmış bir menü çubuğu arayüzü verir: her uygulamayı seçtiğiniz seviyede tutmak, yükseltme ve profilleri en üstte tutmak.</p>
+
+<h2>Peki SoundSource buna değer mi?</h2>
+<p>Evet, EQ ve yönlendirmeyi kullanacaksanız. Saygın bir geliştiricinin sunduğu olgun, iyi desteklenen bir yazılımdır ve fiyatı gerçek yeteneği yansıtır. Ancak "buna değer" neye dokunacağınıza bağlıdır. Uygulamayı açarsanız ve yalnızca ses seviyesi kaydırıcılarını ayarlarsanız, bir uygulamayı sessize alırsanız veya sessiz bir uygulamanın daha yüksek ses çıkarmasını istiyorsanız, temel mikser ihtiyaçları için premium paket parası ödüyorsunuz demektir. Bu durumda, tek seferlik 14,99 €'luk bir araç daha mantıklıdır ve ihtiyaçlarınız EQ ve yönlendirmeye doğru büyürse daha sonra istediğiniz zaman SoundSource'ya geçebilirsiniz.</p>
+
+<p>Eğer uygulama başına ses seviyesi, artırma, sessize alma, profiller ve otomatik azaltma sizin peşindeyseniz, <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> — Bir kerelik 14,99 €, abonelik yok, sürücü yok.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Mac'da Çok mu Gürültülü? Her Şeyi Kapatmadan Bir Tarayıcıyı Kapatın",
+    description: "Chrome, Mac'daki diğer uygulamalarınızdan daha mı yüksek ses çıkarıyor? Yerleşik düzeltmeleri (sekme başına sessize alma, site ses ayarları) ve Chrome'nun diğer her şeyden daha sessiz kalması için uygulama başına gerçek ses düzeyini nasıl ayarlayacağınızı öğrenin.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'nun yerleşik uygulama başına ses düzeyi yoktur, bu nedenle diğer uygulamaları tam ses seviyesinde bırakırken Chrome'yu yerel olarak kapatamazsınız. En hızlı ücretsiz düzeltmeleriniz gürültülü sekmeleri susturmak, her video oynatıcının içindeki ses seviyesini azaltmak veya Chrome ayarlarında site başına sesi engellemektir. Gerçek, kalıcı, yalnızca Chrome ses düzeyi için uygulama başına bir karıştırıcıya ihtiyacınız vardır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Mac&#x27;da Çok mu Gürültülü? Her Şeyi Kapatmadan Bir Tarayıcıyı Kapatın" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden Chrome her şeyden daha yüksek ses çıkarıyor?</h2>
+<p>Chrome'nun tasarımı gereği mutlaka "daha yüksek" olması gerekmez; Chrome, sesi birçok bağımsız kaynaktan yönlendirir: YouTube, otomatik oynatılan reklamlar, video görüşmeleri, arka plan müziği sekmeleri ve her biri kendi ses yüksekliğini sunan web uygulamaları. Bazı siteler sıcak bir şekilde yönetilir, reklamlar herkesin bildiği gibi gürültülüdür ve Chrome hepsini sisteminizin tam çıkış düzeyinde oynatır. Bu arada müzik uygulamanız veya aramanız daha sessiz olabilir, bu nedenle Chrome miksajda hakimdir.</p>
+<p>Windows'da Ses Düzeyi Karıştırıcısını açıp Chrome kaydırıcısını aşağı sürüklemeniz yeterlidir. macOS bu özelliği içermiyor. Sistem ses seviyesi tuşu her şeyi aynı anda kontrol eder; dolayısıyla Chrome'yu kıstığınızda müziğiniz, bildirimleriniz ve çağrılarınız da azalır. Temel sınırlama budur ve bu bir işletim sistemi açığıdır, yanlış yaptığınız bir şey değildir.</p>
+
+<h2>Hiçbir maliyeti olmayan yerleşik düzeltmeler</h2>
+<p>Herhangi bir şey kurmadan önce bunları deneyin. Size tek bir Chrome sesli arama vermezler, ancak çoğu "tek sesli sekme" sorununu çözerler.</p>
+<ul>
+<li><strong>Gürültülü bir sekmeyi sessize alın.</strong> Sekmeyi sağ tıklayın ve "Siteyi sessize al"ı seçin veya ses çalan bir sekmede görünen küçük hoparlör simgesini tıklayın. Bu, Chrome'nun geri kalanına dokunmadan o sekmeyi tamamen susturur.</li>
+<li><strong>Müzikçaların içindeki ses seviyesini azaltın.</strong> En güvenilir yöntem: YouTube, Netflix veya oynatılan her şeyin içinde ses düzeyi kaydırıcısını aşağı doğru sürükleyin. Web oynatıcıları site başına kendi seviyelerini hatırlar, böylece daha sessiz bir YouTube bir dahaki sefere sessiz kalır.</li>
+<li><strong>Site başına sesi engelleyin.</strong> Git <em>chrome://ayarlar/içerik/ses</em>. Siteleri "izin verildi" ve "sessizleştirildi" arasında değiştirebilir ve belirli alan adlarını sessiz listesine ekleyebilirsiniz. Otomatik oynatılan siteleri kalıcı olarak susturmak için idealdir.</li>
+<li><strong>Otomatik oynatılan reklamları sonlandırın.</strong> Reklam sesi genellikle asıl suçludur. İçerik engelleyici veya siz izlemeye hazır olana kadar sekmenin sesini kapatmak, çoğu sürpriz ses seviyesini ortadan kaldırır.</li>
+</ul>
+<blockquote>Bunlar gerçekten yararlı ve ücretsizdir. Ancak neyi yapamadıklarına dikkat edin: tek tek sekmeleri sessize alıyor veya yönetiyorlar. Hiçbiri "benim müziğim %100'de kalırken Chrome'nun tamamını %40'ta tut" demenize izin vermiyor.</blockquote>
+
+<h2>Dürüst sınırlama: macOS'da uygulama başına hacim yok</h2>
+<p>Gerçek hedefiniz "Chrome her zaman diğer uygulamalarımdan daha sessiz olmalı" ise yerleşik araçlar yetersiz kalır. Sekme başına sessize alma ya hep ya hiçtir. Bir site onları hatırlamadığında ve sürekli olarak yeniden yapılması gerektiğinde oynatıcı kaydırıcıları sıfırlanır. Ve sistem birimi her şeyi birlikte hareket ettirir.</p>
+<p>Bu gerçek bir macOS sınırlamasıdır, yapılandırabileceğiniz bir hata değildir. Apple hiçbir zaman Windows tarzı bir ses karıştırıcısı göndermedi. Özellikle Chrome için kalıcı, bağımsız bir ses seviyesi elde etmenin tek yolu, uygulamalarınız ile çıkış cihazınız arasında yer alan ve uygulama başına kazanç uygulayan bir üçüncü taraf uygulamasıdır.</p>
+
+<h2>Chrome için uygulama başına gerçek bir ses düzeyi ayarlayın</h2>
+<p>Gibi bir menü çubuğu karıştırıcısı <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS'ya eksik olan uygulama başına ses seviyesi kontrolünü verir. O anda ses çalan tüm uygulamaları listeler ve her birine kendi kaydırıcısını verir; böylece Chrome'yu rahat bir seviyeye çekebilir ve Spotify'yu, çağrılarınızı ve sistem seslerini tam olarak oldukları yerde bırakabilirsiniz.</p>
+<p>Gürültülü bir Chrome'yu bununla nasıl evcilleştireceğiniz aşağıda açıklanmıştır:</p>
+<ul>
+<li>Menü çubuğu karıştırıcısını açın ve aktif uygulamalar listesinde Chrome'yu bulun.</li>
+<li>Chrome'nun kaydırıcısını örneğin yüzde 40 ila 50'ye kadar aşağı sürükleyin. Diğer uygulamalara dokunulmaz.</li>
+<li>Belirli bir uygulama da varsa <em>sessiz</em> bunun yerine fısıldayan bir arama uygulaması kullanın <a href="https://apps.apple.com/app/id6772792641">uygulama başına ses artırma</a> Chrome'yu düşük tutarken yüzde 100'ün üzerine çıkarmak.</li>
+<li>Sekmeleri kapatmadan sessizliğe ihtiyacınız olduğunda uygulama başına sessize alma özelliğiyle Chrome'nun sesini anında kapatın.</li>
+</ul>
+<p>Seviye uygulamaya bağlı olduğundan sabit kalır. Chrome, sekmelerde, sitelerde ve yeniden başlatmalarda seçtiğiniz ses seviyesinde kalır; her yeni video açtığınızda oynatıcı kaydırıcılarını yeniden sürüklemeye gerek kalmaz.</p>
+
+<h2>Daha da ileri gitme: profiller, eğilme ve çıkış değiştirme</h2>
+<p>Uygulama başına kontrole sahip olduğunuzda, birkaç ekstra, onu saklamaya değer hale getirir. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ses seviyesinden tasarruf etmenizi sağlar <strong>profiller</strong> — örneğin Chrome'nun sessiz ve müziğin yüksek olduğu bir "odaklanma" profili ve Chrome'nun hakim olduğu bir "izleme" profili — ve bunlar arasında tek tıklamayla geçiş yapın. Otomatik azaltma, seçilen bir kaynak başladığında diğer uygulamaları otomatik olarak kapatabilir (bir aramanın hiçbir zaman yüksek sesli bir tarayıcı sekmesinin altına gömülmemesi açısından kullanışlıdır). Hızlı çıkış değiştirme özelliği, Sistem Ayarlarına dalmadan hoparlörler, kulaklıklar ve diğer cihazlar arasında geçiş yapmanızı sağlar.</p>
+<p>Mac App Store'da tek seferlik 14,99 €'luk bir satın alma söz konusudur; abonelik yok, kurulacak sürücü yok, DMG veya çekirdek uzantısı yok. Sandbox'a alınmış ve App Store aracılığıyla dağıtılmış olduğundan, kabataslak ses sürücüsünün güvendiği eski mikser araçlarını yüklemesini gerektirmez.</p>
+
+<h2>Hangi düzeltmeyi kullanmalısınız?</h2>
+<p>Ara sıra tek bir iğrenç sekmeniz varsa, Chrome'nun yerleşik sessiz özelliğini ve site ses ayarlarını kullanın; bunlar ücretsizdir ve çalışır. Kendinizi sürekli olarak, diğer her şey yerinde kalırken Chrome'nun basitçe reddedilmesini diliyorsanız, macOS'nun açık bıraktığı tam boşluk budur ve uygulama başına mikser temiz çözümdür.</p>
+
+<p>Chrome'nun müziğinizin veya çağrılarınızın sesini kapatmadan kalıcı olarak daha sessiz olmasını mı istiyorsunuz? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve her uygulamaya kendi ses düzeyi kaydırıcısını verin.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "WhatsApp ve Telegram Bildirimi Mac'da Çok Yüksek Ses mi Çıkarıyor? Onları Geri Çevir",
+    description: "Mac cihazınızda çok yüksek olan WhatsApp ve Telegram masaüstü bildirim seslerini düzeltin. Her uygulamanın yerleşik ayarlarıyla başlayın, ardından macOS size uygulama başına kontrol vermediğinde tüm uygulamayı azaltın veya sessize alın.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>Her uygulamanın içinden başlayın: WhatsApp ve Telegram, bildirim seslerini kendi ayarlarında kapatmanıza veya değiştirmenize olanak tanır; bu, en temiz çözümdür. Ancak macOS'nun uygulama başına bildirim ses düzeyi kaydırıcısı yoktur; bu nedenle, uygulamanın kendi sesi hala çok yüksekse, tek gerçek yardımcınız, uygulama başına bir ses düzeyi aracıyla tüm uygulamanın sesini azaltmak veya kapatmaktır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — WhatsApp ve Telegram Bildirimi Mac&#x27;da Çok Yüksek Ses mi Çıkarıyor? Onları Geri Çevir" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Öncelikle uygulamanın kendi bildirim ayarlarını kullanın</h2>
+
+<p>Hem WhatsApp hem de Telegram kendi ses kontrollerini sunar ve her zaman başlamanız gereken yer burasıdır. Bu en hassas düzeltmedir ve Mac cihazınızdaki başka hiçbir şeye dokunmaz.</p>
+
+<p><strong>WhatsApp Masaüstü:</strong> WhatsApp'yu açın, tıklayın <em>Ayarlar</em> (dişli simgesi), ardından <em>Bildirimler</em>. Kapatabilirsiniz <em>Sesler</em> Tamamen banner'ları tutarken veya bildirim önizlemelerini devre dışı bırakın. WhatsApp bir ses düzeyi kaydırıcısı sunmuyor, bu nedenle esas olarak sesin kendisi için açık veya kapalıdır.</p>
+
+<p><strong>Telegram Masaüstü:</strong> Açık <em>Ayarlar → Bildirimler ve Sesler</em>. Telegram burada daha esnektir. Bildirim sesini genel olarak kapatabilir, bireysel sohbetleri sessize alabilir veya özel (daha sessiz) tonlar ayarlayabilirsiniz. Ayrıca tek bir gürültülü grubu açıp seçerek susturabilirsiniz. <em>Sessiz</em>. Çoğu insan için, en gürültülü sohbetleri susturmak, her yerde susmadan sorunu çözer.</p>
+
+<p>Ses iyi ancak çok sıksa, uygulama genelinde sesi kapatmak yerine en sık tetiklenen belirli sohbetleri veya kanalları sessize alın. Bu, önemli uyarıların duyulmasını sağlar.</p>
+
+<h2>macOS Sistem Ayarlarında bildirim seslerini kapatın</h2>
+
+<p>macOS, bazı durumlarda uygulamayı geçersiz kılan ikinci bir kontrol katmanına sahiptir. Git <em>Sistem Ayarları → Bildirimler</em>, listeden WhatsApp veya Telegram seçeneğini seçin ve kapatın <em>Bildirimler için ses çal</em>. Bu, banner'ları göstermeye devam ederken o uygulamanın uyarı sesini susturur.</p>
+
+<p>Uygulamanın yalnızca bildirimlerde sessiz kalmasını istiyorsanız ve diğer seslerle (çağrılar, video) ilgilenmiyorsanız, bu gerçekten iyi bir çözümdür. Uygulamanın kendi ayarlarıyla birleştirildiğinde, "ping rahatsız edici" şikayetlerinin çoğunu kapsar.</p>
+
+<h2>Gerçek sınırlama: macOS'nun uygulama başına hacmi yok</h2>
+
+<p>İşte dürüst kısım. Yukarıdaki adımlar açma/kapama anahtarlarıdır. Yapamayacakları şey WhatsApp veya Telegram'yu çevirmek <em>aşağı</em> diğer her şeyi tam ses seviyesinde tutarken, örneğin %40'a kadar. Windows yıllardır uygulama başına ses karıştırıcıya sahipti. macOS basitçe bir tane içermez ve onu ekleyen hiçbir gizli ayar veya Terminal komutu yoktur.</p>
+
+<p>Bu, sorunun özellikle bildirim zili değil de uygulamanın tamamının çok yüksek olması durumunda önemlidir:</p>
+
+<ul>
+<li>WhatsApp veya Telegram <strong>sesli ve görüntülü aramalar</strong> Müziğinize veya bir toplantıya göre tam ses seviyesinde patlayan ses</li>
+<li>Tamamen kapalı değil, daha düşük bir seviyede tutmak istediğiniz bir bildirim sesi</li>
+<li>Dinlediğiniz her şeyin çok üstüne çıkan zil sesleri</li>
+<li>Siz başka bir şeye odaklanırken uygulamanın sesli ama sessizce arka planda olmasını istemek</li>
+</ul>
+
+<p>Bunların hiçbiri yerleşik araçlarla çözülemez, çünkü bunlar bir seviye değil, yalnızca sessizleştirme sunar. Bu boşluk gerçek bir macOS sınırlamasıdır, kaçırdığınız bir şey değildir.</p>
+
+<h2>SoundDial ile uygulama başına ses düzeyini ayarlayın</h2>
+
+<p>Tek bir uygulamayı kapatmak yerine aslında kapatmak için uygulama başına bir ses karıştırıcısına ihtiyacınız vardır. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS'ya hiçbir zaman birlikte verilmeyen uygulama başına ses seviyesi kontrolünü sağlayan bir menü çubuğu uygulamasıdır. Şu anda ses çalan tüm uygulamaları listeler ve her birine kendi kaydırıcısını verir.</p>
+
+<p>Bu özel sorun için:</p>
+
+<ul>
+<li>Açık <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menü çubuğundan seçin ve listede WhatsApp veya Telegram'yu bulun.</li>
+<li>Müziğinize, tarayıcınıza veya video görüşmenize dokunmadan kaydırıcıyı rahat bir seviyeye, örneğin %30-40'a sürükleyin.</li>
+<li>Uygulama başına kullanımı kullanın <strong>sessiz</strong> Bir arama veya toplantı sırasında yalnızca o uygulamayı anında susturmak ve daha sonra ayarları karıştırmadan sesi açmak için düğmeyi kullanın.</li>
+<li>Tam tersine, çok yumuşak, sessiz bir uygulamaya ihtiyacınız olursa, uygulama başına <strong>artırmak</strong> %100'ün üzerine çıkarabilir.</li>
+</ul>
+
+<p>SoundDial, uygulama başına bir seviye belirlediğinden, yerleşik seçeneklerin sizi zorladığı ya hep ya hiç seçeneği yerine, bildirim zillerini ve çağrı sesini duyulabilir ancak orantılı tutar. Ayrıca kaydedebilirsiniz <strong>hacim profilleri</strong>, yani sohbet uygulamalarını düşük tutan bir "odaklanma" kurulumu bir tık uzağınızda.</p>
+
+<blockquote>Dürüst bir uyarı: SoundDial'da bir uygulamanın genel ses seviyesini düşürmek aynı zamanda bildirim zillerini de azaltır, çünkü macOS için bunlar aynı uygulamanın sesidir. Bildirimlerin tamamen kapalı olmasını ancak çağrıların tam ses seviyesinde olmasını istiyorsanız uygulamanın kendi sessize alma özelliğini ve zil sesi için Sistem Ayarlarını kullanın ve genel seviyeyi ayarlamak için SoundDial'yu ayırın.</blockquote>
+
+<p>SoundDial, Mac App Store'da tek seferlik 14,99 €'luk bir satın alma işlemidir, sandbox'a alınır, abonelik yoktur, çekirdek sürücüsü yoktur ve dışarıdan yüklenecek DMG yoktur. Gerçekten istediğiniz düzeltmenin (bir uygulamayı kapatmak yerine kapatmanın) macOS'nun kendisinin yapabileceği bir şey olmadığı durumlarda pratik cevap budur.</p>
+
+<h2>Hangi düzeltmeyi kullanmalısınız?</h2>
+
+<p>Yukarıdan aşağıya doğru çalışın. Önce uygulamanın kendi bildirim ayarlarını deneyin, ardından zil sesini kapatmak için macOS Sistem Ayarlarını deneyin. Gerçekten istediğiniz şey WhatsApp veya Telegram'yu belirli bir ses seviyesine indirmek veya çağrılar sırasında yalnızca o uygulamayı susturmaksa, uygulama başına mikserin yerini kazandığı yer burasıdır.</p>
+
+<p>Sohbet uygulamalarınız için tam patlama ve tam sessizlik arasında seçim yapmaktan bıktınız mı? <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve her uygulamaya kendi ses seviyesi kadranını verin.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Oyun Sesi Mac'da Discord'dan Daha Yüksek mi? Oyun ve Ses Seviyesi Nasıl Dengelenir?",
+    description: "Oyununuz Mac'daki Discord sesli sohbetini bastırıyor ve yerleşik ses karıştırıcısı yok. İşte macOS'nun Windows tarzı uygulama başına ses seviyesinden neden yoksun olduğu ve sesi yüksek tutarken oyunu nasıl kısacağınız.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'da yerleşik uygulama başına ses karıştırıcısı bulunmadığından, Discord'nun yüksek sesini korurken oyununuzu yerel olarak sınırlayamazsınız. Düzeltme, uygulama başına bağımsız ses düzeyini ayarlayan bir menü çubuğu uygulamasıdır. Oyunu %40-50'ye düşürün, sesli sohbeti %100'de bırakın ve her ikisi de oyun içi kaydırıcılara dokunmadan dengede kalsın.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Oyun Sesi Discord&#x27;dan Daha mı Yüksek? Oyun ve Ses Seviyesi Nasıl Dengelenir?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Bu neden Mac'da oluyor (Windows'da değil)</h2>
+
+<p>Windows'da oyun oynadıysanız Ses Düzeyi Karıştırıcısını bilirsiniz: Hoparlör simgesine sağ tıklayın; çalışan her uygulamanın kendi kaydırıcısı olur. Oyunu bırakırsınız, Discord'yu yükseltirsiniz, işlem tamamdır. macOS bu özelliği hiçbir zaman sunmadı. Bir ana çıkış birimi ve sistem ayarlarında gömülü bir avuç uygulama düzeyinde geçiş bulunur, ancak isteğe bağlı uygulamalar için uygulama başına düzey kontrolü yoktur.</p>
+
+<p>Yani bir oyunun karışımı sıcak bir şekilde tamamlandığında patlamalar, müzik ve silah sesleri arkadaşlarınızın sesleriyle aynı çıkış seviyesinde duyulur. Bazı oyunlar bir ana ses düzeyi kaydırıcısını ortaya çıkarır, ancak birçoğu yeterince düşmüyor ve birçok başlatıcı, tarayıcı ve bağımsız başlık hiçbir şekilde kullanışlı bir kontrol sunmuyor. Discord'nun kendisi, onlarla rekabet eden oyunun değil, yalnızca gelen kullanıcıların ses düzeyini ayarlamanıza olanak tanır.</p>
+
+<p>Dürüst olmak gerekirse bu, işletim sistemi düzeyinde bir boşluktur, değiştirebileceğiniz bir hata değildir. Apple'ın ses yığını her şeyi tek bir çıkış akışına yönlendirir ve bunu uygulamaya göre bölecek birinci taraf bir kullanıcı arayüzü yoktur. Bu nedenle uygulamalarınız ile çıktı aygıtınız arasında yer alan bir üçüncü taraf araca ihtiyacınız var.</p>
+
+<h2>Manuel geçici çözümler (ve neden yetersiz kaldıkları)</h2>
+
+<p>Yazılıma başvurmadan önce ücretsiz seçenekleri ve bunların sınırlarını bilmekte fayda var:</p>
+
+<ul>
+<li><strong>Oyunun uygulama içi sesini azaltın.</strong> Oyunun yeterince ince adımlara sahip bir ana kaydırıcısı varsa çalışır. Birçoğu %10'luk artışlarla durur veya müzik ve efektleri bir araya toplar, böylece yalnızca yüksek sesli kısımları evcilleştiremezsiniz.</li>
+<li><strong>Discord'da arkadaşlarınızı yetiştirin.</strong> Her kullanıcıya sağ tıklayın ve ses düzeyini artırın. Bu biraz yardımcı oluyor ama en üst seviyeye çıkıyor ve aslında sorun olan oyuna dokunmuyor.</li>
+<li><strong>Donanım ses düğmesi olan kulaklıklar kullanın.</strong> Oyun ve ses arasındaki dengeyi değil, yalnızca genel seviyeyi değiştirir.</li>
+<li><strong>Sesi sanal bir cihaz üzerinden yönlendirin.</strong> Loopback veya BlackHole gibi araçlar akışları bölebilir, ancak bunlar profesyonelleri hedef alır, gerçek kurulum gerektirir ve "oyunu daha sessiz hale getirme" konusunda aşırıya kaçarlar.</li>
+</ul>
+
+<p>Bunların hiçbiri size Windows kullanıcılarının hafife aldığı tek şeyi vermez: uygulama başına hızlı bir kaydırıcı. İşte boşluk <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> doldurmak için inşa edilmiştir.</p>
+
+<h2>Doğrudan düzeltme: uygulama başına bağımsız ses düzeyi</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS için uygulama başına bir menü çubuğu ses karıştırıcısıdır. O anda ses çalan her uygulamayı gösterir ve her birine tıpkı Windows Volume Mixer gibi kendi kaydırıcısını verir. Oyun-ses sorunu için iş akışı kısadır:</p>
+
+<ul>
+<li>Oyun ve Discord çalışırken menü çubuğunuzdaki SoundDial simgesine tıklayın.</li>
+<li>Listede oyunu bulun ve kaydırıcısını yaklaşık %40-50'ye çekin.</li>
+<li>Discord'yu (veya Slack, Zoom veya ses uygulamanızı) %100'de bırakın.</li>
+<li>Oyun sırasında anında ayarlama yapın; gürültülü bir çatışmada oyunu daha da aşağıya doğru itin, sessiz keşif sırasında geri dönün.</li>
+</ul>
+
+<p>Seviyeler uygulama başına olduğundan, onları bir kez ayarlarsınız ve kalıcı olurlar. Kendi karışımı ne kadar sıcak olursa olsun oyun kapalı kalır ve arkadaşlarınız oyun boyunca açıkça duyulabilir.</p>
+
+<h2>Kurulumunuzun geri kalanı için yükseltme, sessize alma ve profiller</h2>
+
+<p>Aynı araç, sesli oyunla birlikte gelen bitişik rahatsızlıkları da kapsar:</p>
+
+<ul>
+<li><strong>Uygulama başına artış.</strong> Bir takım arkadaşınızın mikrofonu Discord'nun maksimum seviyesinde bile sessizse ses uygulamasına basabilirsiniz. <em>yukarıda</em> %100 yani gömülmek yerine oyunu kesiyor.</li>
+<li><strong>Uygulama başına sessize alma.</strong> Arka plandaki bir tarayıcı sekmesini veya müzik uygulamasını, alt sekmeye basmadan veya oynatmayı sonlandırmadan anında sessize alın.</li>
+<li><strong>Hacim profilleri.</strong> Oyunun %45'inde ve Discord'nun güçlendirilmiş olduğu bir "oyun" profili kaydedin, ardından tek tıklamayla günlük kullanım için "normal" profile geri dönün; her oturumda kaydırıcıları yeniden sürüklemeye gerek yok.</li>
+<li><strong>Otomatik eğilme.</strong> Birisi konuştuğunda oyunun otomatik olarak azalmasını sağlayın, böylece açıklamalar her zaman aksiyonun en üstünde yer alır.</li>
+<li><strong>Hızlı çıkış değiştirme.</strong> Sistem Ayarlarına dalmadan aynı menüden kulaklıklar ve hoparlörler arasında geçiş yapın.</li>
+</ul>
+
+<blockquote><p>Zihinsel model basittir: Windows'nun yıllardır yaptığı gibi, uygulama başına bir kaydırıcı. macOS bunu asla sağlamadı, bu nedenle küçük bir yardımcı program eşitliği geri yükler.</p></blockquote>
+
+<h2>Dürüst olmak gerekirse ne beklenir</h2>
+
+<p>Uygulama başına bir karıştırıcı, denge sorununu temiz bir şekilde çözer, ancak beklentileri doğru şekilde belirler. Yazılım çıkış seviyelerini kontrol eder; kendi sesinde kötü bir şekilde hakim olunan bir oyunu düzeltemez ve hiç yakalanmamış bir sinyali yükseltemez (gerçekten bozuk bir mikrofonun yine de donanım onarımına ihtiyacı vardır). Güçlendirme gerçek kazanç sağlar, bu nedenle sessiz bir kaynağı %100'ün çok ötesine itmek, tıpkı herhangi bir amplifikatörü çok yükseğe açmak gibi distorsiyona neden olabilir. Ancak makul bir şekilde kullanıldığında, çoğu kurulumun ihtiyaç duyduğu tek şey mütevazı bir oyun sınırı ve küçük bir ses yükseltmedir.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> korumalı alana alınır ve doğrudan Mac App Store'dan yüklenir; sürücü yok, çekirdek uzantısı yok, güvenilecek DMG yok. Abonelik olmadan tek seferlik 14,99 €'dur ve 28 dilde macOS ses seviyesi kontrolünü destekler.</p>
+
+<p>Oyun içi kaydırıcılarınızla kavga etmeyi bırakın. Tut <a href="https://apps.apple.com/app/id6772792641">Mac App Store üzerinde SoundDial</a>, oyunu kısın, ekibinizin sesini yüksek tutun ve son olarak Windows tarzı ses mikseri macOS'nun göndermeyi unuttuğunu alın.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Harici Monitör Hoparlörleri Çok Yüksek Ses Çıkarıyor veya Mac'da Sıkışmış mı? HDMI/DisplayPort Sesini Düzeltme",
+    description: "Mac cihazınızın ses seviyesi tuşları neden HDMI veya DisplayPort monitör hoparlörlerini kontrol etmiyor ve monitör OSD'si, Ses MIDI Kurulumu ve daha iyi çıkış yönlendirmesi kullanılarak çok yüksek, sıkışmış veya ayarlanamayan sesin nasıl düzeltileceği.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Mac cihazınızın ses seviyesi tuşları gri renkte görünüyorsa veya HDMI veya DisplayPort üzerinden bağlanan bir monitör için hiçbir şey yapmıyorsa bu genellikle bir hata değildir. Dijital ekran sesi genellikle sabit bir seviyede gönderilir ve monitörün kendi donanımı ses seviyesini kontrol eder. Çözüm, ekranı ayarlamak, çıkışı yeniden yönlendirmek veya farklı bir ses cihazı kullanmaktır.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Harici Monitör Hoparlörleri Çok Yüksek Ses Çıkarıyor veya Mac&#x27;da Sıkışmış mı? HDMI/DisplayPort Sesini Düzeltme" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mac ses seviyesi tuşları neden HDMI/DisplayPort üzerinden çalışmayı bırakıyor?</h2>
+
+<p>HDMI ve DisplayPort, sesi dijital akış olarak taşır. Çoğu monitör bu akışı sabit bir çıkış seviyesinde alır ve ses yüksekliğini kaynak cihazda değil ekranın kendisinde kontrol etmenizi bekler. macOS bunu algıladığında ekrandaki ses düzeyi kaydırıcısını devre dışı bırakır ve F11/F12 tuşlarını grileştirerek, bu tuşlara bastığınızda "giriş yok" simgesini gösterir.</p>
+
+<p>Bu bir donanım ve protokol sınırlamasıdır; Mac üzerindeki yazılımın geçersiz kılabileceği bir şey değildir. Ses hiçbir zaman macOS'nun onu zayıflatmasına izin verilen bir aşamadan geçmez. Hiçbir uygulama, sürücü veya ayar, ekranın tam düzeyde almakta ısrar ettiği bir akışa ses düzeyi kontrolü ekleyemez. Bu konuda dürüst olmak sizi saatlerce yanlış çözümü kovalamaktan kurtarır.</p>
+
+<h2>Çözüm 1: Monitörün kendi kontrollerini (OSD) kullanma</h2>
+
+<p>Çoğu insan için gerçek çözüm budur. Yerleşik hoparlörleri olan hemen hemen her monitörde, panelin arkasında veya altında bulunan fiziksel düğmeler veya joystick ile yönlendirilen bir ekran menüsü bulunur.</p>
+
+<ul>
+<li>Monitörün ayarlarını açmak için OSD/menü düğmesine basın.</li>
+<li>Ses veya Ses bölümünü arayın.</li>
+<li>Buradaki seviyeyi düşürün; bu aslında HDMI/DP üzerinden çalışan kontroldür.</li>
+</ul>
+
+<p>Bazı monitörler ayrıca OSD'yi macOS'dan çalıştırabilmeniz için yardımcı bir uygulama veya DDC/CI desteği sunar. DDC konuşan üçüncü taraf yardımcı programlar, Mac cihazınızın ses seviyesi tuşlarını monitörün donanım ses seviyesiyle eşleyebilir; panel düğmelerine ulaşmaktan nefret ediyorsanız denemeye değer.</p>
+
+<h2>Düzeltme 2: Ses MIDI Ayarını Kontrol Edin</h2>
+
+<p>Açık <strong>Ses MIDI Kurulumu</strong> (/Uygulamalar/Yardımcı Programlar içinde). Cihaz listesinden monitörünüzü seçin. Sağda bir ses düzeyi kaydırıcısı görünürse onu aşağı sürükleyin; bazen menü çubuğu tuşları devre dışı bırakıldığında bile ekran yazılım tarafından kontrol edilebilen bir seviye gösterir. Kaydırıcı eksikse veya gri renkteyse, ekran yalnızca sabit düzeyli sesi kabul ettiğini doğruluyordur ve OSD'ye geri dönmeniz gerekir.</p>
+
+<p>Buradayken doğru çıkış cihazının seçildiğini onaylayın. Sesin, bağlı olduğunu unuttuğunuz bir monitöre sessizce yönlendirilmesi yaygın bir durumdur; bu, ani yüksek sesin veya sesin yokluğunu açıklar.</p>
+
+<h2>Çözüm 3: Sesi gerçekten kontrol edebileceğiniz bir yere yönlendirin</h2>
+
+<p>Monitörünüzün hoparlörleri zaten vasatsa (çoğu öyledir) ve ses düzeyi kontrolü hantalsa, en temiz çözüm bunları kullanmayı bırakmaktır:</p>
+
+<ul>
+<li>Varsa monitörün kulaklık çıkış jakına hoparlör veya kulaklık takın; bu analog çıkışın ses düzeyi genellikle ekrandan kontrol edilebilir.</li>
+<li>USB DAC, USB hoparlörler veya Bluetooth çıkışı kullanın. USB ve analog çıkışlar macOS'ya tam yazılım ses kontrolü sağlar, böylece tuşlarınız tekrar normal şekilde çalışır.</li>
+<li>Hızlı sesler için Mac'nuzun yerleşik hoparlörlerini seçin ve monitörü yalnızca video için tutun.</li>
+</ul>
+
+<p>macOS'nun gerçekten zayıflatabileceği bir çıkışa ulaştığınızda, sistem ses seviyesi tuşları harekete geçer ve monitörün kaba OSD adımları arasında geçiş yapmak yerine hassas kontrolü yeniden kazanırsınız.</p>
+
+<h2>Çıkış çalıştıktan sonra uygulama başına ses seviyesini kontrol edin</h2>
+
+<p>Kontrol edilebilir bir çıkışın geri alınması "çok yüksek/sıkışma" sorununu çözer. Ancak macOS size yine de her şey için yalnızca tek bir ana cilt verir. Mac'da yerleşik uygulama başına karıştırıcı yok - Windows'da yıllardır bir tane var, ancak Apple hiçbir zaman eşdeğerini göndermedi. Yani yüksek sesli bir video, bir oyun ve sessiz bir arama aynı kaydırıcıyı paylaşır.</p>
+
+<p>İşte boşluk <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> doldurur. Her uygulamaya kendi bağımsız ses seviyesini veren bir menü çubuğu karıştırıcısıdır; böylece müziğinize dokunmadan bir tarayıcı sekmesini kapatabilir, bir uygulamayı anında sessize alabilir veya sessiz bir uygulamayı normal tavanının üzerine yükseltebilirsiniz. Farklı kurulumlar için ses seviyesi profillerini kaydedebilir ve menü çubuğundan hızlı bir şekilde çıkışlar arasında geçiş yapabilirsiniz.</p>
+
+<p>Kapsam hakkında net olmak gerekirse: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> macOS üzerinden akan ses için yazılım ses düzeyini kontrol eder. HDMI üzerinden sistem ses düzeyini göz ardı eden bir monitörü geçersiz kılamaz; bu, ekranın sabit düzey davranışıdır ve yalnızca OSD veya farklı bir çıkış bunu düzeltir. Kontrol edilebilir bir çıktıya ulaştığınızda, uygulamanın parladığı yer uygulama başına kontroldür.</p>
+
+<h2>Hızlı kontrol listesi</h2>
+
+<ul>
+<li>HDMI/DP üzerinden tuşlar gri mi görünüyor? Monitörün OSD ses düzeyini kullanın; bu beklenen davranıştır.</li>
+<li>Gizli bir yazılım kaydırıcısı için Ses MIDI Kurulumunu kontrol edin.</li>
+<li>Doğru çıkış cihazının seçildiğini onaylayın.</li>
+<li>Gerçek kontrol için sesi kulaklık çıkışına, USB'ye veya Bluetooth'ya yönlendirin.</li>
+<li>Daha sonra bireysel uygulamaları dengelemek için uygulama başına bir karıştırıcı kullanın.</li>
+</ul>
+
+<p>Çıktınız kontrol altına alındıktan sonra <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> bir bakış. Bu, Mac App Store'dan tek seferlik 14,99 €'luk bir satın almadır - abonelik yok, sürücü yok, DMG yok - ve sonunda macOS'ya gerçek bir uygulama başına ses karıştırıcı getiriyor.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "USB DAC Ses Düzeyi Mac'da Ayarlanmıyor mu? Yazılım Ses Seviyesi Kontrolünü Geri Alın",
+    description: "macOS, birçok USB DAC için ses düzeyi kaydırıcısını neden grileştiriyor, bunun ne anlama geldiği ve ses kalitesine zarar vermeden Mac cihazınızda çalışan yazılım ses düzeyi kontrolünü nasıl geri alacağınız.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>USB DAC cihazınızın ses düzeyi kaydırıcısı Mac'da gri renkte görünüyorsa bu genellikle bir hata değildir. macOS, DAC kontrol edilebilir bir ses düzeyine sahip olmadığını bildirdiğinde DAC'nun kendi donanım düğmesini kullanmanızı bekleyerek yazılım ses düzeyini devre dışı bırakır. Yazılım sesini geri almak için uygulama düzeyinde bir zayıflatıcı kullanın: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Ses Düzeyi Mac&#x27;da Ayarlanmıyor mu? Yazılım Ses Seviyesi Kontrolünü Geri Alın" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>macOS neden bazı USB DAC'ların sesini grileştiriyor?</h2>
+
+<p>Bir USB ses cihazını taktığınızda macOS, USB Ses Sınıfı (UAC) protokolü üzerinden ne yapabileceğini sorar. Bu el sıkışmanın bir kısmı, ses seviyesi kontrolü de dahil olmak üzere bir dizi "özellik birimi" kontrolüdür. DAC bir ses seviyesi kontrolü bildirirse, macOS bunu klavyenizin ses seviyesi tuşlarına ve menü çubuğu kaydırıcısına bağlar. DAC ana bilgisayar tarafından ayarlanabilir ses düzeyine sahip olmadığını bildirirse macOS kaydırıcıyı tamamen grileştirir.</p>
+
+<p>Birçok yüksek kaliteli DAC ve amfi, bilerek tam olarak ikincisini yapar. Tasarımcının varsayımı, DAC'yu tam ölçekli, mükemmel bir dijital sinyalle besleyeceğiniz ve ses yüksekliğini ünitenin üzerindeki analog ses düğmesiyle kontrol edeceğinizdir. Bu analog zayıflama, dijitalden analoga dönüşümden sonra gerçekleşir, bu nedenle bitlerin atılmasını önler ve gerçekten de ses tutkunlarının tercih ettiği yoldur. Bu bir hata değil, bir özelliktir.</p>
+
+<blockquote>Temel kural: DAC cihazınızın fiziksel bir ses düğmesi varsa ve Mac kaydırıcısı gri renkteyse, üretici bu düğmeyi kullanmanızı ister. Sinyal tasarım gereği %100 oranında gönderiliyor.</blockquote>
+
+<h2>Gri renkli kaydırıcı aslında bir sorun olduğunda</h2>
+
+<p>"Sadece düğmeyi kullanın" yanıtı gerçek kurulumlarda bozulur:</p>
+
+<ul>
+<li><strong>DAC'nun düğmesi yoktur.</strong> Çok sayıda kompakt USB DAC, donanım kilidi ve profesyonel arayüz, ses seviyesi kontrolüne ve ana bilgisayar kontrolüne de maruz kalmaz. Aşağı akış amplifikatörünün veya güçlü hoparlörlerin ayarlandığı seviyede takılıp kalırsınız.</li>
+<li><strong>Düğme ulaşılamaz durumda.</strong> Monitörünüzün arkasındaki masaüstü DAC veya sabit kazançlı bir amplifikatörü besleyen bir ünite, ses seviyesini ayarlamanın bir tuşa basmak yerine fiziksel bir iş haline gelmesi anlamına gelir.</li>
+<li><strong>Yalnızca bir ana seviyeye değil, uygulama başına dengeye ihtiyacınız var.</strong> Mükemmel bir donanım düğmesi bile tek bir küresel kontroldür. Bir Zoom çağrısını müziğinizden daha sessiz hale getiremez veya bir bildirim geldiğinde oyundan kaçamaz.</li>
+</ul>
+
+<p>Bunların hiçbiri macOS tarafından düzeltilmedi çünkü işletim sistemi açısından bakıldığında cihaz doğru davranıyor. Bu dürüst bir sınırlamadır: Cihaz tarafından bildirilen bir özelliktir ve Sistem Ayarlarında bunu geçersiz kılacak bir geçiş yoktur.</p>
+
+<h2>Herhangi bir şey yüklemeden önce dürüst geçici çözümler</h2>
+
+<p>Önce bunları deneyin çünkü hiçbir maliyeti yoktur:</p>
+
+<ul>
+<li><strong>Donanım düğmesini veya aşağı akış sesini kullanın.</strong> DAC'nuzun veya amplifikatörlü hoparlörlerinizin/amplifikatörünüzün bir kontrolü varsa, bu en temiz seçenektir ve tam dijital çözünürlüğü korur.</li>
+<li><strong>DAC'nun kendi uygulamasını veya donanım yazılımını kontrol edin.</strong> Bazı DAC'lar (ve oyun odaklı birimler), ana bilgisayar ses düzeyini etkinleştiren bir kontrol paneli veya ürün yazılımı ayarı sunar. Bir "USB birimi" veya "yazılım birimi" seçeneği mevcutsa, bu seçeneğin açılması macOS kaydırıcısının yeniden çalışmasını sağlar.</li>
+<li><strong>Farklı bir USB modunu deneyin.</strong> Birkaç cihaz, "sınıf uyumlu" ve özel sürücü modunda farklı yetenekler rapor etmektedir. Satıcı sürücüsünü yüklemek veya kaldırmak, macOS'nun ses denetimi görüp görmeyeceğini değiştirebilir.</li>
+<li><strong>Ses MIDI Kurulumu'na bakın.</strong> Ses MIDI Kurulumu'nu açın, cihazı seçin ve burada ana ses biriminin veya kanal başına ses düzeyinin görünüp görünmediğini kontrol edin. Bazen menü çubuğu gri renkte olsa bile o panelde bir kaydırıcı bulunur.</li>
+</ul>
+
+<p>Bunlardan hiçbiri geçerli değilse Mac tarafında yazılım zayıflatmasına ihtiyacınız vardır.</p>
+
+<h2>Uygulama başına zayıflatma ile yazılım ses düzeyi kontrolü</h2>
+
+<p>Donanım bir ses seviyesi komutunu kabul etmediğinde, kalan seçenek yazılımdaki sesi DAC'ya ulaşmadan önce zayıflatmaktır. Tam olarak bu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> yapar. Menü çubuğunuzda bulunur ve DAC'nuzun bir donanım kontrolü sunup sunmadığına bakılmaksızın, çalışan her uygulamaya kendi bağımsız ses seviyesini, sesini kapatmayı ve hatta yükseltmeyi sağlar.</p>
+
+<p>Grileştirilmiş bir DAC için kullanmak için:</p>
+
+<ul>
+<li>Yükle <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'dan ve menü çubuğundan açın.</li>
+<li>DAC'nuzu sistem çıkışı olarak seçili tutun; Sistem Ayarlarına dalmadan DAC, hoparlörler ve kulaklıklar arasında geçiş yapmak için SoundDial'nun hızlı çıkış değiştirme özelliğini de kullanabilirsiniz.</li>
+<li>Uygulama başına seviyeleri ayarlayın: Tarayıcıyı bırakın, müzik çaları yükseltin, istemediğiniz her şeyin sesini kapatın. Her uygulama seçtiğiniz ses seviyesinde yayınlanır ve karışık sonuç DAC'ya gider.</li>
+<li>Farklı senaryolar (çağrılar ve dinleme) için ses seviyesi profillerini kaydedin ve daha önemli bir şey oynatılmaya başladığında alt arka plan uygulamalarının otomatik olarak kısılmasına izin verin.</li>
+</ul>
+
+<h2>Ses kalitesinde dürüst değişim</h2>
+
+<p>Yazılım zayıflaması, dönüşüm öncesinde dijital seviyeyi azaltır, dolayısıyla teoride, DAC'nun kendisindeki analog ses seviyesiyle karşılaştırıldığında küçük miktarda çözünürlük atlanır. Uygulamada, normal dinleme seviyelerindeki modern 24 bit ve daha yüksek yollarda, azalma duyulabilecek her şeyin çok altındadır ve tam ölçeğe yakın çalınan her şey için DAC'nun tam dinamik aralığını korursunuz. Ulaşabileceğiniz iyi bir analog düğmeye sahip, saf bir kişiyseniz, düğmeyi kullanın. Kullanılabilir bir donanım kontrolünüz yoksa veya macOS'nun sağlayamadığı uygulama başına dengeye ihtiyacınız varsa, yazılım hacmi doğru tercihtir ve hiçbir şey yapmayan kaydırıcıyı yener.</p>
+
+<p>SoundDial, 14,99 €'luk, tek seferlik satın alınan, korumalı alana alınmış, sürücü, çekirdek uzantısı veya DMG yükleyicisi olmayan bir üründür. USB DAC cihazınızın ses seviyesi grileşmişse ve bir düğmeye ulaşmak bir seçenek değilse, <a href="https://apps.apple.com/app/id6772792641">Mac App Store'da SoundDial'yu edinin</a> ve çalışma ses seviyesi kontrolünü tekrar menü çubuğunuza yerleştirin.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Mac'da Yüksek Sesli Bir Uygulamanın Maksimum Sesini Sınırlandırın (İşitme Duyunuzu Koruyun)",
+    description: "macOS'nun uygulama başına ses seviyesi sınırı yoktur, bu nedenle yüksek sesli bir uygulama sizi tam sistem ses seviyesinde patlatabilir. Uygulama başına mikser ile Mac'da tek bir uygulama için maksimum ses tavanını nasıl ayarlayacağınız ve donanım sınırlarının neden önemli olduğu burada açıklanmaktadır.",
+    date: "2026-07-23",
+    readTime: "5 dk okuma",
+    content: `<p>macOS'nun bir uygulamanın maksimum ses seviyesini sınırlamak için yerleşik bir yolu yoktur, bu nedenle sistem kaydırıcınız ne şekilde ayarlanmış olursa olsun yüksek sesli bir program oynatılır. Tek bir uygulamaya yönelik bir tavan ayarlamak için uygulama başına menü çubuğu karıştırıcısını kullanın: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: Sistem ses düzeyiniz diğer her şey için yüksek kalırken bu uygulamayı örneğin yüzde 40'ta tutun.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Yüksek Sesli Bir Uygulamanın Maksimum Sesini Sınırlandırın (İşitme Duyunuzu Koruyun)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Neden bir uygulama aniden Mac'da sizi patlatabilir?</h2>
+
+<p>macOS'da menü çubuğundaki veya Kontrol Merkezindeki ses düzeyi kaydırıcısı, sistem çapında tek bir kontroldür. Her uygulama aynı çıktıyı aynı düzeyde verir. İşletim sisteminde, Windows'nun Hacim Karıştırıcı paneliyle yıllardır sahip olduğu gibi yerleşik uygulama başına ses karıştırıcısı yoktur.</p>
+
+<p>Bu tasarımın kulaklarınız için gerçek bir etkisi var. Sessiz bir podcast'i veya hafif bir görüntülü aramayı duyabilmek için sistem ses seviyenizi yüksek ayarlarsanız, ardından bir oyuna, Discord bildirimine, reklam ağırlıklı bir web sitesine veya çok daha yüksek sesle ana kopyalanmış bir videoya geçerseniz, bu uygulama da tam sistem düzeyinde oynatılır. Sonuç, klasik atlama korkusudur: söz konusu uygulama için asla amaçlamadığınız bir ses seviyesinde ani bir ses duvarı.</p>
+
+<p>Kulak çınlaması olan, ses hassasiyeti olan veya yalnızca işitme duyusuna değer veren herkes için bu öngörülemezlik sorundur. Her şeyi daha sessiz hale getirmeye çalışmıyorsunuz. Belirli bir yüksek sesli uygulamanın güvenli olduğuna karar verdiğiniz seviyeyi asla aşmayacağını garanti etmeye çalışıyorsunuz.</p>
+
+<h2>macOS'nun burada yapabileceği ve yapamayacağı şeyler</h2>
+
+<p>Herhangi bir şey önermeden önce sınırlar konusunda dürüst olalım.</p>
+
+<ul>
+<li><strong>Sistem hacmi</strong> her şeyi bir anda düşürür. Bir uygulamayı evcilleştirmek için kapatın ve sessiz uygulamalarınız duyulmaz hale gelir.</li>
+<li><strong>Uygulama içi ses düzeyi kaydırıcıları</strong> bazı uygulamalarda bulunur (medya oynatıcılar, sekme başına bazı tarayıcılar) ancak çoğunda yoktur. Bir oyun, video görüşmesi veya yerel bir uygulamanın çoğu zaman hiçbir bağımsız ses kontrolü yoktur.</li>
+<li><strong>Donanım tavanı gerçektir.</strong> Hiçbir yazılım, bir sinyali çıkış cihazınızın maksimum seviyesinden daha yüksek bir seviyeye çıkaramaz. Bunun tersine, bir uygulamanın kendi ses yüksekliği yönetimi, artı DAC'nuz ve kulaklığınız, "yüzde 100" ses yüksekliğinin gerçekte ne kadar hissedildiğini belirler. Yazılım, uygulama başına seviyeyi güvenilir bir şekilde düşürebilir ancak kulaklığınızın fiziğini yeniden yazamaz.</li>
+</ul>
+
+<p>Dolayısıyla dürüst hedef, sürücü seviyesinde sihirli ses yüksekliği sınırlaması değildir. Pratik, güvenilir bir uygulama başına zayıflamadır: Seçilen bir uygulamayı sistem çıkışının sabit bir kısmında tutun, böylece sizi asla şaşırtmaz.</p>
+
+<h2>Uygulama başına karıştırıcıyla tek bir uygulamanın hacmi nasıl kapatılır?</h2>
+
+<p>Uygulama başına ses karıştırıcı, her uygulamanın sesini keser ve seviyesini bağımsız olarak ayarlamanıza olanak tanır. İşte iş akışı <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>menü çubuğunda yaşayan:</p>
+
+<ul>
+<li><strong>Mikseri açın.</strong> SoundDial menü çubuğu simgesine tıklayın. Şu anda ses çalan her uygulamanın kendi kaydırıcısına sahip bir listesini göreceksiniz.</li>
+<li><strong>Yüksek sesli uygulamayı bulun.</strong> Sınırlamak istediğiniz uygulamayı (örneğin oyun, tarayıcı veya video konferans aracı) bulun.</li>
+<li><strong>Tavanını ayarlayın.</strong> Bu uygulamanın kaydırıcısını güvenli seviyenize, örneğin yüzde 35 ila 50'ye sürükleyin. Bu uygulama artık sistem çıktısının bu kısmında oynatılırken, diğer tüm uygulamalar olduğu yerde kalıyor.</li>
+<li><strong>Sistem biriminizi ihtiyacınız olan yerde bırakın.</strong> Sessiz uygulamalarınız için sistem kaydırıcısını yeterince yüksek tutun. Sınırlı uygulama ne olursa olsun dizginlenmeye devam ediyor.</li>
+</ul>
+
+<p>Seviye uygulama başına olduğundan, o program için etkili bir şekilde maksimum ayarlamış olursunuz. En yüksek sesli içeriği oynatmaya çalıştığında bile, artık en yüksek sesi tamın seçtiğiniz kısmıdır.</p>
+
+<h2>Profillerle kapağın birbirine yapışmasını sağlayın</h2>
+
+<p>Tek bir manuel ayarlama yardımcı olur, ancak uygulamadan çıkıp yeniden başlattığınızda uygulama düzeyleri sıfırlanabilir. Yeniden başlatmalara dayanıklı, işitme açısından güvenli bir kurulum yapmak için şunu kullanın: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>'nin hacim profilleri. Tercih ettiğiniz uygulama başına düzeylerle bir profil kaydedin; örneğin, oyun yüzde 40'tayken "sessiz oyun gecesi", müzik uygulamanız yüzde 70'te ve çağrı uygulamanız yüzde 90'da. Her oturduğunuzda tek tıklamayla hatırlayın. Yüksek sesli uygulama için tavanınız tam olarak ayarladığınız şekilde geri gelir.</p>
+
+<p>İşitme koruması için iki özellik daha bilinmeye değer:</p>
+
+<ul>
+<li><strong>Uygulama başına sessize alma</strong> Başka hiçbir şeye dokunmadan tek bir suçluyu anında susturmanıza olanak tanır; yüksek sesli bildirimler gönderen bir uygulama için kullanışlıdır.</li>
+<li><strong>Otomatik eğilme</strong> Daha önemli bir şey başladığında arka plan sesini otomatik olarak kısar, böylece aynı anda iki yüksek sesli kaynak arasında kalmazsınız.</li>
+</ul>
+
+<blockquote><p>Yazılım zayıflatma, bir uygulamayı sınırlamak için gerçekten etkilidir, ancak tıbbi bir koruma değil, bir koruma katmanıdır. Kulak çınlaması veya ses hassasiyetiniz varsa, uygulama başına tavanı makul genel dinleme seviyeleri ve kesintilerle eşleştirin. Hiçbir uygulama dikkatli ses seviyesi alışkanlıklarının yerini alamaz.</p></blockquote>
+
+<h2>Güçlendirme ve neden ayrı olduğu hakkında bir not</h2>
+
+<p>Yüksek sesli bir uygulamayı kapatan aynı uygulama başına mikser, çok sessiz bir uygulamayı da yüzde 100'ün üzerine çıkarabilir; bu, kendi ses seviyesi çok düşük olan bir uygulama için kullanışlıdır. Bunlar aynı kontrolün iki tarafıdır: Her uygulamanın seviyesine yukarı veya aşağı siz karar verirsiniz. İşitme koruması için yalnızca "aşağı" yönü seçip orada tutmanız yeterlidir.</p>
+
+<h2>Kısa versiyon</h2>
+
+<p>macOS, tek bir uygulamanın hacmini kendi başına sınırlamanıza izin vermez ve bu, kullanıcı hatası değil, gerçek bir işletim sistemi açığıdır. Uygulamaya özel bir menü çubuğu karıştırıcısı onu kapatır: yüksek sesli uygulamayı sabit bir kesre ayarlayın, bir profile kaydedin ve diğer uygulamalarınız duyulabilir durumdayken o sizi bir daha asla patlatamaz.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store'da tek seferlik 14,99 €'luk bir satın alma işlemidir; hiçbir sürücü veya kurulacak DMG olmadan korumalı alana alınır. Amaç, kulaklarınızı öngörülemeyen bir uygulamadan korumaksa, bu sınırı belirlemenin ve onu korumanın en basit yoludur.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Mac'da Uygulama Başına Farklı Sol/Sağ Dengesi — Mümkün mü?",
+    description: "macOS'daki her uygulama için farklı bir sol/sağ stereo dengesi ayarlayabilir misiniz? Dürüst olmak gerekirse hayır; yerel olarak değil ve çoğu araçla değil. İşte gerçekte neyin mümkün olduğu ve gerçek sınırların nerede olduğu.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Dürüst olmak gerekirse hayır - macOS, uygulama başına farklı bir sol/sağ stereo dengesi ayarlamanıza izin vermez ve neredeyse hiçbir üçüncü taraf aracı da uygulama başına gerçek kaydırmayı ortaya çıkarmaz. Çıkış cihazınız için tek bir genel bakiye ayarlayabilir ve uygulama bazında kontrol edebilirsiniz. <em>hacim</em>, ancak uygulama başına bağımsız <em>tava</em> macOS'nun kullanıma sunduğu bir özellik değildir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Uygulama Başına Farklı Sol/Sağ Dengesi — Mümkün mü?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Denge ve hacim — ikisi aynı şey değil</h2>
+
+<p>Sıklıkla karıştırılan iki fikri ayırmakta fayda var:</p>
+<ul>
+  <li><strong>Hacim</strong> — bir uygulamanın genel olarak ne kadar gürültülü olduğu. Bu, her iki kanala da uygulanan tek bir düzeydir.</li>
+  <li><strong>Denge (tava)</strong> — sesin sol ve sağ hoparlörler arasında nasıl dağıtıldığı. "Tam sol" dengesi her şeyi sol kanala gönderir ve sağı susturur.</li>
+</ul>
+
+<p>"Uygulama başına farklı denge" isteyen kişiler genellikle iki şeyden birini ister: bir uygulamanın sesini bir kulağa göndermek (örneğin, bir aramayı sol kulağınıza, müziği sağ kulağınıza) veya işitme farkını veya bir taraftaki kötü hoparlörü düzeltmek - ancak yalnızca belirli uygulamalar için. Bunlar meşru hedeflerdir. Sorun kontrolün nerede yaşadığıdır.</p>
+
+<h2>macOS bunu neden yerel olarak yapamıyor?</h2>
+
+<p>macOS'nun tam olarak bir denge kontrolü vardır ve çıkış cihazı seviyesinde bulunur. Aşağıda bulacaksınız <strong>Sistem Ayarları → Ses → Çıkış</strong>, nerede <em>Bakiye</em> kaydırıcı tüm karışımı sola veya sağa kaydırır. Bu kaydırıcının uygulanacağı ayar ne olursa olsun <em>her şey</em> o cihaza yönlendirilir; her uygulama, her sistem sesi, hepsi aynı anda.</p>
+
+<p>Standart macOS ses yığınında "bu uygulamanın sesini sola, bu uygulamayı sağa" diyen bir API yok. Uygulamalar, seslerini zaten karıştırılmış halde sisteme iletir ve sistem, hoparlörlere giderken bir ana denge uygular. Yani uygulama başına kaydırmayı isteyeceğiniz katman, işletim sistemi tarafından gösterilmez. Bu gerçek bir işletim sistemi sınırlamasıdır, bir menü çubuğu yardımcı programının kibarca çözebileceği bir şey değildir.</p>
+
+<blockquote>Uygulama başına farklı olarak <em>hacim</em> - macOS'da da yerel olarak eksik olan ancak uygulama başına ses akışına dokunarak hangi uygulamaların uygulanabileceği <em>denge</em> her uygulamanın akışının bağımsız olarak yeniden kaydırılmasını gerektirir ve bu kanca, korumalı alan uygulamaları için kullanılamaz.</blockquote>
+
+<h2>SoundDial ne yapar ve dürüst olmak gerekirse ne yapmaz</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> size uygulama başına kontrol sağlar macOS eksik: bağımsız <strong>hacim</strong> çalışan her uygulama için, uygulama başına <strong>sessiz</strong>, uygulama başına hacim <strong>artırmak</strong> %100'ün üzerinde, kaydedilebilir hacim <strong>profiller</strong>, otomatik azaltma ve menü çubuğundan hızlı çıkış değiştirme.</p>
+
+<p>Sana karşı dürüst olmak gerekirse: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> uygulama başına kontroller <em>ses yüksekliği ve sessize alma</em>, uygulama başına stereo değil <em>yatay kaydırma</em>. Safari'yu sol kulağınıza ve Spotify'yu sağınıza göndermez. Birisi size bir menü çubuğu karıştırıcısının macOS'da uygulama başına gerçek Sol/Sağ dengesini sağladığını söylerse şüpheci olun; bu, işletim sisteminin sunduğu bir kontrol değildir. SoundDial'nun gerçekten çözdüğü şey, çok daha yaygın olan hayal kırıklığıdır: bir uygulamanın diğerine göre çok gürültülü veya çok sessiz olması.</p>
+
+<h2>Uygulama başına denge için gerçek geçici çözümler</h2>
+
+<p>Sesin gerçekten yan yana bölünmesine ihtiyacınız varsa, kabaca en basitinden en kapsamlısına doğru dürüst seçenekler şunlardır:</p>
+
+<ul>
+  <li><strong>Küresel bakiye (tüm uygulamalar):</strong> Sistem Ayarları → Ses → Çıkış → Denge'yi kullanın. Bu sizin tek yerleşik seçeneğinizdir ve her uygulamayı etkiler. Bir odayı veya işitme asimetrisini düzeltmek için kullanışlıdır, ancak bir uygulamayı izole etmek için işe yaramaz.</li>
+  <li><strong>Ayrı çıkış cihazları:</strong> Bu, gerçek uygulama başına dengeye en yakın şeydir. Uygulama A'yı bir çıkış cihazına ve Uygulama B'yi diğerine yönlendirin, ardından her cihazın dengesini bağımsız olarak ayarlayın. macOS, bazı uygulamaların içinden bir çıktı cihazı seçmenize olanak tanır (ve tarayıcılar/iletişim uygulamaları genellikle kendi çıktı seçicilerini gösterir). Uygulama A sola kaydırılan bir cihazı ve Uygulama B sağa kaydırılan bir cihazı işaret ediyorsa, her iki uygulama da çıktılarını seçmenize izin verdiği sürece etkili bir şekilde uygulama başına denge elde edersiniz.</li>
+  <li><strong>Sanal ses yönlendirme araçları:</strong> Sanal cihazlar ve dahili bir karıştırıcı oluşturan yardımcı programlar, bazı yapılandırmalarda belirli uygulamaları belirli kanallara yönlendirebilir. Bu güçlü ama zahmetlidir, sürücü tarzı bir bileşen ekler ve çoğu insan için aşırıya kaçar. Bu, sıradan bir "tek kulağa çağrı" çözümü değil, yayıncıların ve ses mühendislerinin alanıdır.</li>
+  <li><strong>Donanım bölünmesi:</strong> Eğer konu fiziksel hoparlörler veya işitme farklılığı ise, bir donanım mikseri veya kanal başına kontrole sahip bir ses arayüzü, yazılım problemini tamamen ortadan kaldırır.</li>
+</ul>
+
+<h2>Uygulama başına hacim aslında ihtiyacınız olan miktar olduğunda</h2>
+
+<p>"Uygulama başına farklı bakiye istiyorum" isteklerinin çoğu aslında "bir uygulamanın diğerini bastırmasıdır." Amaç, müziğiniz üzerinden duyabileceğiniz bir video görüşmesi veya Discord sohbetinin yanında çok yüksek sesli bir oyunsa, denge araç değildir; bağımsız ses seviyesidir. Uygulama başına mikserin sanal sürücüler veya yönlendirme jimnastiği olmadan temiz bir şekilde gerçekleştirdiği şey tam olarak budur.</p>
+
+<p>Yani dürüst özet: Uygulama başına gerçek sol/sağ dengesi bir macOS özelliği değildir ve hiçbir mikser uygulaması bunu ikna edici bir şekilde taklit edemez. Gerçek rotalarınız, küresel denge kaydırıcısı veya ayrı ayrı kaydırılan cihazlara uygulama başına çıkış yönlendirmesidir. Ancak altta yatan ağrı göreceli ses yüksekliğiyse, bu çözülmüş bir sorundur.</p>
+
+<p>Mac cihazınızdaki her uygulama için kaydedilebilir profillerle ve sürücü olmadan bağımsız ses seviyesi, sessize alma ve yükseltme özelliklerini mi istiyorsunuz? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Mac App Store'da SoundDial'yu edinin</a> — 14,99 €, tek seferlik, korumalı alana alınmış.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Mac'da Neden Bazı Uygulamalar Diğerlerine Göre Çok Daha Yüksek Ses Çıkarıyor? (Ve Nasıl Eşitlenir)",
+    description: "Mac'da uygulamalar son derece farklı ses çıkarır çünkü her biri kendi ses yüksekliği hedefine göre yönetilir ve macOS'da uygulama başına yerleşik ses kontrolü yoktur. İşte bunun nedeni ve uygulamalarınızı nasıl seviyelendireceğiniz.",
+    date: "2026-07-23",
+    readTime: "6 dk okuma",
+    content: `<p>Uygulamaların sesleri Mac cihazınızda son derece farklı geliyor çünkü her biri kendi ses yüksekliği hedefine göre yazılıyor, yönetiliyor ve normalize ediliyor ve macOS'da bunları uzlaştıracak yerleşik uygulama başına ses düzeyi kontrolü bulunmuyor. Spotify, YouTube, Zoom ve sistem uyarılarının tümü aynı ana kaydırıcıdan geçer, dolayısıyla onu sürekli olarak yukarı aşağı hareket ettirmek zorunda kalırsınız.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac&#x27;da Neden Bazı Uygulamalar Diğerlerine Göre Daha Yüksek Ses Çıkarıyor? (Ve Nasıl Eşitlenir)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Bu sizin Mac'nuz değil - sesin kendisi</h2>
+
+<p>macOS üzerindeki tek sistem ses düzeyi kaydırıcısı, her şeyin son çıkış düzeyini kontrol eder. Her uygulamanın ses akışında oluşturulan göreceli ses yüksekliğine dokunmaz. Bu temel çizgi, ses hoparlörlerinize ulaşmadan çok önce belirlenir ve kaynaktan kaynağa büyük ölçüde değişir.</p>
+
+<p>Bu farklılıkları yaratan üç şey var:</p>
+
+<ul>
+<li><strong>Seviyelere hakim olmak.</strong> Etkileyici bir pop parçası, sessiz bir akustik kayıttan veya sözlü bir podcast'ten çok daha sıcak bir şekilde öğrenilir. Sinema için mikslenen bir film, kasıtlı olarak fısıltıları susturur ve patlamaları yüksek sesle tutar; bu dinamik aralıktır ve ortalama seviyenin düşük olduğu anlamına gelir.</li>
+<li><strong>Ses yüksekliği normalleştirme hedefleri.</strong> Yayın platformları, oynatmayı LUFS (Tam Ölçeğe göre Ses Yüksekliği Birimleri) cinsinden ölçülen bir hedefe ayarlar. Spotify -14 LUFS civarını, YouTube yaklaşık -14 LUFS'yi, Apple Music ise -16 LUFS civarını hedefliyor. Bir video konferans uygulaması veya oyun tamamen kendi kazancını uygular. Farklı hedeflere göre "normalleştirilmiş" iki uygulama asla birbiriyle eşleşmez.</li>
+<li><strong>Uygulamalar arası seviyelendirme yok.</strong> Her uygulama yalnızca kendi içeriğini normalleştirir. Hiçbir şey Spotify ile Zoom'yu bir tarayıcı oyununa karşı koordine edemez. macOS sadece bunları toplar ve karışımı gönderir.</li>
+</ul>
+
+<h2>LUFS neden önemlidir (açık bir ifadeyle)</h2>
+
+<p>Tepe seviyesi size bir sinyaldeki en gürültülü anı bildirir. LUFS size bir şeyin aslında ne kadar gürültülü olduğunu söyler <em>hissediyor</em> zamanla insan işitme duyusunun nasıl çalıştığına göre ağırlıklandırılır. Bu ayrım, bir podcast ile bir dans parçasının aynı zirveye varmasına rağmen ses yüksekliği açısından dünyalar kadar farklı hissettirebilmesinin nedenidir; parça tavana yakın yerlerde çok daha fazla zaman harcar.</p>
+
+<blockquote>Daha sessiz bir LUFS hedefi, daha fazla boşluk payı ve daha fazla dinamik aralık anlamına gelir. Daha yüksek sesli bir hedef, daha tutarlı, "her zaman dolu" bir ses duvarı anlamına gelir. İkisi de yanlış değil; ancak uygulamalar farklı sayıları hedeflediğinde, bunu bir uygulamanın çığlık atması ve diğerinin mırıldanması gibi hissedersiniz.</blockquote>
+
+<p>Dürüst temel sebep budur. Bu yama yapabileceğiniz bir hata değil. Bu, hiçbir zaman birbirleriyle uyum sağlayacak şekilde tasarlanmamış bir düzine uygulamayla çoğaltılan, sesin nasıl üretildiğinin ve iletildiğinin fiziğidir.</p>
+
+<h2>macOS'nun açık bıraktığı boşluk</h2>
+
+<p>İnsanları gerçekten sinirlendiren kısım şu: Windows yıllardır uygulama başına bir Volume Mixer piyasaya sürüyor. Doğrudan görev çubuğundan bir uygulamayı aşağı çekebilir ve diğerini yukarı itebilirsiniz. macOS bunu hiçbir zaman dahil etmedi. Ses tercihleri ​​size yalnızca ana kaydırıcıyı ve çıkış cihazı seçimini sunar.</p>
+
+<p>Yani bir Mac'da seçenekleriniz geleneksel olarak sınırlıdır:</p>
+
+<ul>
+<li>Her uygulamanın kendi dahili ses kaydırıcısını (varsa) ayarlayın. Çoğu uygulama (Zoom, çoğu oyun, sistem zil sesleri) kullanılabilir bir uygulama göstermez.</li>
+<li>İçeriği her değiştirdiğinizde ana kaydırıcıyı manuel olarak kullanın.</li>
+<li>Bir şeyi tamamen susturun, bu aslında hiçbir şeyi dengelemeyen kör bir düzeltmedir.</li>
+</ul>
+
+<p>Bunların hiçbiri tercihinizi hatırlamıyor. Uygulamayı bırakın ve yeniden başlatın; ilk kareye geri dönersiniz.</p>
+
+<h2>Pratik çözüm: Uygulama başına hatırlanan hacim</h2>
+
+<p>Her hizmeti kataloğunu yeniden düzenlemeye zorlayamayacağınız için uygulanabilir çözüm, macOS'nun hiçbir zaman gönderilmeyen eksik katmanını eklemektir: her uygulama için bağımsız, hatırlanan birim. Tam olarak bu <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> yapar. Menü çubuğunuzda bulunur ve çalışan her uygulamaya kendi kaydırıcısını verir, böylece yüksek sesli olanı aşağı çekip sessiz olanı yukarı iterek size eşit gelen bir seviyeye oturabilirsiniz.</p>
+
+<p>Uygulamalarınızı pratikte eşitlemek için:</p>
+
+<ul>
+<li>Açık <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> menü çubuğundan her aktif uygulamayı kendi kontrolüyle göreceksiniz.</li>
+<li>Patlayan her şeyi (genellikle popüler bir müzik veya video uygulaması) %60-70 gibi bir değere düşürün.</li>
+<li>Sessiz referans uygulamanızı (genellikle bir arama uygulaması veya podcast) %100'de bırakın ve uygulama başına kullanın <strong>artırmak</strong> hala çok yumuşaksa %100'ün üzerine çıkarmak için.</li>
+<li>Seviyeleri bir kez ayarlayın. SoundDial her uygulamanın ses düzeyini hatırlar, böylece uygulamayı bir sonraki açışınızda denge korunur.</li>
+</ul>
+
+<p>Buradaki seviyelendirme işinin çoğunu iki özellik yapıyor. <strong>Artırma</strong> Önemlidir çünkü pek çok uygulama maksimumda bile çok sessizdir; yalnızca ses seviyesini azaltan uygulama başına kaydırıcı onları kurtaramaz, ancak %100'ün üzerine çıkabilen bir kaydırıcı kurtarabilir. Ve <strong>hacim profilleri</strong> tüm seviyeleri kaydetmenize (örneğin, iş için "müziğe odaklanın, yüksek sesli çağrılar" profiline karşı oyun için farklı bir karışım) kaydetmenize ve uygulamayı uygulamaya göre yeniden ayarlamak yerine bunlar arasında anında geçiş yapmanıza olanak tanır.</p>
+
+<h2>Bunun en çok yardımcı olduğu yer</h2>
+
+<p>En yaygın rahatlama, müziğe karşı toplantı atlamadır: yüksek sesle müzik akışı, ardından bir çağrı uygulaması, kıyaslandığında zayıf ses çıkarır. Çağrı uygulamasını daha yükseğe (veya artırın) ayarlayın, müziği aşağı çekin ve şaşırtıcı ses seviyesi dalgalanması kaybolur. Aynı durum, yüksek sesli bir video oynatıcıya karşı sessiz bir tarayıcı oyunu veya her şeyin üzerinden atlayan sistem uyarıları için de geçerlidir.</p>
+
+<p>Sınırlar konusunda net olmak gerekirse: SoundDial, uygulamalarınızın çıktısını dengeler. Kötü üretilmiş bir parçanın yeniden masteringini yapamaz ve çok geniş dinamik aralıkla karıştırılmış seste ayrıntı yaratamaz. Yaptığı şey, macOS'nun dışarıda bıraktığı tek kontrolü size vermektir; sabit, uygulama başına sabit kalan seviyeler.</p>
+
+<p>Uygulamaları her değiştirdiğinizde ana kaydırıcıyı kullanmaktan bıktınız mı? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store için tek seferlik 14,99 Euro'dur (korumalı alanda, sürücü yok, DMG yok) ve sonunda her uygulamaya kendi hatırlanan hacmini veriyor.</p>`,
   },
 };

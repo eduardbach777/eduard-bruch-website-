@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import BlogListClient from "@/components/BlogListClient";
 import { getAllArticles, LOCALES } from "../_data";
 import type { Locale } from "../_data";
 import type { Metadata } from "next";
@@ -99,82 +100,41 @@ export default async function LocaleBlogPage({
   const isRtl = locale === "ar" || locale === "he";
 
   return (
-    <main className="min-h-screen bg-neutral-950 text-white" dir={isRtl ? "rtl" : undefined}>
-      <section className="px-6 pt-36 pb-16 sm:pb-20 max-w-6xl mx-auto">
-        <p className="text-sm font-semibold uppercase tracking-widest text-purple-400 mb-4">
+    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined}>
+      <section className="px-6 pt-36 pb-14 sm:pb-16 max-w-6xl mx-auto">
+        <p className="font-mono text-xs sm:text-sm font-medium uppercase tracking-[0.22em] text-[#d4ad5e] mb-5">
           {l.tagline}
         </p>
-        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-[1.05] tracking-tight max-w-4xl whitespace-pre-line">
+        <h1 className="font-serif text-5xl sm:text-6xl lg:text-7xl font-semibold text-white leading-[1.02] tracking-tight max-w-4xl whitespace-pre-line">
           {l.heading}
         </h1>
-        <p className="mt-6 text-xl sm:text-2xl text-neutral-300 font-light max-w-2xl leading-relaxed">
+        <p className="mt-6 text-lg sm:text-xl text-neutral-300 max-w-2xl leading-relaxed">
           {l.subtitle}
         </p>
-
-        <nav className="mt-10 flex flex-wrap gap-2" dir="ltr">
-          {LOCALES.map((loc) => (
-            <Link
-              key={loc.code}
-              href={`/sounddial/blog/${loc.code}`}
-              className={`rounded-full px-5 py-2 text-sm font-medium transition-all ${
-                loc.code === locale
-                  ? "bg-purple-500 text-white shadow-lg shadow-purple-500/25"
-                  : "bg-neutral-800 text-neutral-300 hover:bg-neutral-700 hover:text-white"
-              }`}
-            >
-              {loc.label}
-            </Link>
-          ))}
-        </nav>
       </section>
 
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="h-px bg-neutral-800" />
-      </div>
+      <div className="max-w-6xl mx-auto px-6"><div className="h-px bg-neutral-800" /></div>
 
-      <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {articles.map((article) => (
-            <Link
-              key={article.slug}
-              href={`/sounddial/blog/${locale}/${article.slug}`}
-              className="group rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-purple-500/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-purple-500/5 flex flex-col"
-            >
-              <div className="flex items-center gap-3 text-xs font-medium uppercase tracking-wider text-neutral-500">
-                <time>{article.date}</time>
-                {article.readTime && (
-                  <>
-                    <span className="text-neutral-700">·</span>
-                    <span>{article.readTime}</span>
-                  </>
-                )}
-              </div>
-              <h2 className="mt-3 text-xl font-bold text-white leading-snug group-hover:text-purple-400 transition-colors">
-                {article.title}
-              </h2>
-              <p className="mt-3 text-sm text-neutral-400 leading-relaxed flex-1">
-                {article.description}
-              </p>
-              <span className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-purple-400 group-hover:gap-2 transition-all">
-                {l.readMore}
-                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d={isRtl ? "M15 19l-7-7 7-7" : "M9 5l7 7-7 7"} />
-                </svg>
-              </span>
-            </Link>
-          ))}
-        </div>
+      <section className="px-6 py-14 sm:py-16 max-w-6xl mx-auto">
+        <BlogListClient
+          articles={articles}
+          locale={locale}
+          basePath="/sounddial/blog"
+          locales={LOCALES}
+          readMore={l.readMore}
+          isRtl={isRtl}
+        />
       </section>
 
-      <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto text-center">
-        <div className="rounded-3xl bg-gradient-to-br from-purple-600/20 to-purple-900/20 border border-purple-500/20 px-8 py-14 sm:px-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white">{l.ctaTitle}</h2>
+      <section className="px-6 py-14 sm:py-16 max-w-6xl mx-auto">
+        <div className="rounded-3xl border border-[#d4ad5e]/25 bg-gradient-to-br from-[#d4ad5e]/[0.12] to-[#d4ad5e]/[0.03] px-8 py-14 sm:px-16 text-center">
+          <h2 className="font-serif text-3xl sm:text-4xl font-semibold text-white">{l.ctaTitle}</h2>
           <p className="mt-4 text-lg text-neutral-300 max-w-lg mx-auto">{l.ctaDesc}</p>
           <a
             href={APP_STORE_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-8 inline-block rounded-full bg-purple-500 text-white px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-purple-400 shadow-lg shadow-purple-500/30"
+            className="mt-8 inline-block rounded-full bg-[#d4ad5e] text-black px-10 py-4 text-base font-bold uppercase tracking-wider transition hover:bg-[#e0bd72] shadow-lg shadow-[#d4ad5e]/25"
           >
             {l.ctaButton}
           </a>
@@ -186,7 +146,7 @@ export default async function LocaleBlogPage({
           <Link href="/" className="hover:text-white transition">Home</Link>
           <Link href="/about" className="hover:text-white transition">About</Link>
           <Link href="/contact" className="hover:text-white transition">Contact</Link>
-          <span className="text-purple-400 font-medium">Blog</span>
+          <span className="text-[#d4ad5e] font-medium">Blog</span>
         </nav>
       </footer>
     </main>

@@ -40,7 +40,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you build a clean recording environment by controlling each app independently:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podcasting setup — guest audio, monitoring, and notifications at independent levels" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podcasting setup — guest audio, monitoring, and notifications at independent levels" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Recording profile</h3>
 <ul>
@@ -98,7 +98,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives each app its own volume slider with <strong>1% increments</strong> from 0% to 200%. That's 200 levels of precision per app, compared to macOS's 16 (or 64 with the modifier) system-wide steps.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% precision on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% precision on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Set your system volume to a moderate base level (50-60%), then use SoundDial to fine-tune each app:</p>
 <ul>
@@ -149,7 +149,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Slack its own volume slider, separate from every other app. Since Slack's huddle audio and notification sounds are part of the same app, the slider controls both — but that's actually what you want most of the time.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling Slack volume independently during a huddle while music plays at a different level" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling Slack volume independently during a huddle while music plays at a different level" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Huddle-optimized setup</h3>
 <ul>
@@ -198,7 +198,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> has a <strong>configurable default volume</strong> for new apps. In settings, you set what volume level newly detected apps should start at — for example, 70%. The first time any app launches and produces audio, SoundDial sets it to 70% instead of 100%.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial default volume setting — new apps start at a configured level instead of full blast" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial default volume setting — new apps start at a configured level instead of full blast" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This means:</p>
 <ul>
@@ -253,7 +253,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app on your Mac its own volume slider. Set notification apps low, music at a comfortable level, and calls at full volume — all independently. Save configurations as profiles and switch with one click.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for managing all Mac audio sources independently" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for managing all Mac audio sources independently" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const enArticles: ArticleSet = {
 
 <p>If settings are maxed and participants are still too quiet, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost Webex to <strong>200%</strong>. This amplifies the call audio beyond Webex's built-in maximum — useful when a participant has a bad mic or when Webex's audio processing reduces the signal too much.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Cisco Webex call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Cisco Webex call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial also helps during back-to-back Webex meetings: use auto-ducking to automatically lower your background music when each meeting starts, and restore it during the breaks. Save a "Meetings" volume profile to instantly set your preferred audio balance for the workday.</p>
 
@@ -347,7 +347,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> puts every app in one menu bar panel with independent volume sliders. Both audio sources, side by side, each with their own level. Adjust one without touching the other.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing two audio sources at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing two audio sources at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Example setups:</p>
 
@@ -411,7 +411,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you create the perfect late-night setup:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial late-night movie setup — streaming app at moderate volume, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial late-night movie setup — streaming app at moderate volume, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Late-night movie profile</h3>
 <ul>
@@ -473,7 +473,7 @@ export const enArticles: ArticleSet = {
 
 <p>Even if the system volume resets after sleep, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> protects your <em>per-app</em> volume balance. Its <strong>volume memory</strong> feature saves each app's volume independently and restores it after wake, restart, or app relaunch.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial preserving per-app volume levels after Mac sleep and wake cycles" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial preserving per-app volume levels after Mac sleep and wake cycles" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>So even if macOS resets the system volume to 80% after sleep, your per-app balance stays intact:</p>
 <ul>
@@ -518,7 +518,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you set exact volumes for every app independently:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separating DAW output from Discord and reference tracks on macOS for music production" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separating DAW output from Discord and reference tracks on macOS for music production" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Production setup</h3>
 <ul>
@@ -586,7 +586,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost Apple Music to <strong>200%</strong>. The audio signal is amplified at the system level before it reaches your speakers or headphones. Only Apple Music gets louder — Zoom, Slack, and your browser stay at their current levels.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Apple Music volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Apple Music volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is also useful for the opposite problem: if Apple Music is too loud relative to your Zoom call, lower Apple Music to 25% in SoundDial while keeping Zoom at 100%. Per-app control means you never have to compromise one app's volume for another's.</p>
 
@@ -666,7 +666,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> costs €14.99 — one time, not a subscription. For context, that's less than two months of a Spotify subscription, for a tool you'll use every day. It's less than half the price of SoundSource ($39), and includes features (profiles, auto-ducking) that SoundSource doesn't have.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — reliable per-app volume mixer for Mac with profiles, auto-ducking, and 200% boost" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — reliable per-app volume mixer for Mac with profiles, auto-ducking, and 200% boost" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Available on the <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — Apple-reviewed, sandboxed, no system drivers. €14.99 one-time, no subscription, macOS 14.2+.</p>
 `,
@@ -700,7 +700,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> puts both Spotify and Discord in the same panel with independent volume sliders. Set the ratio you want and leave it:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balancing Spotify and Discord at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balancing Spotify and Discord at different volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>The golden ratio for music + voice chat</h3>
 <p>Based on how most people use this:</p>
@@ -805,7 +805,7 @@ export const enArticles: ArticleSet = {
 
 <p>All five of these are available with <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — a native macOS menu bar app that adds the volume mixer Apple never built.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume control, profiles, auto-ducking, and 200% boost for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control, profiles, auto-ducking, and 200% boost for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Part 6: Per-app volume with SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const enArticles: ArticleSet = {
 
 <p>This is extreme amplification and will introduce distortion on some content, but for extremely quiet source material it might be what you need.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting VLC volume at the system level on macOS for quiet video files" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting VLC volume at the system level on macOS for quiet video files" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>More importantly, SoundDial lets you boost VLC <strong>independently</strong>. Your music player, browser, and communication apps stay at their normal levels while only VLC gets louder. If you boost VLC to 180% in SoundDial, Spotify doesn't change. This is something VLC's built-in boost can't do — VLC's boost only affects VLC, but macOS's single system volume still ties everything else together.</p>
 
@@ -924,7 +924,7 @@ export const enArticles: ArticleSet = {
   <li><strong>Easy toggle:</strong> Turn auto-ducking on or off in SoundDial's settings. When you don't want it, disable it. When you want it back, enable it.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial configurable auto-ducking — control exactly how much background audio is lowered during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial configurable auto-ducking — control exactly how much background audio is lowered during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The difference: instead of some app deciding your music should go to zero during every call, you decide it should go to 25%. Instead of losing control, you gain it. And instead of trying to disable a hidden feature in three different apps, you have one toggle in one place.</p>
 
@@ -987,7 +987,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> boosts any app's volume up to <strong>200%</strong>. If Spotify through your Bluetooth headphones is too quiet, drag its slider to 160%. The audio signal is amplified before it reaches your headphones, effectively doubling the available volume for that app.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting app volume for Bluetooth headphones on Mac with per-app sliders to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting app volume for Bluetooth headphones on Mac with per-app sliders to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Per-app boosting is better than a system-wide volume boost because you can amplify only the quiet app. If your podcast is quiet but music is fine, boost the podcast app to 170% while keeping Spotify at 80%. Each app stays at the right level.</p>
 
@@ -1024,7 +1024,7 @@ export const enArticles: ArticleSet = {
 
 <p>This is exactly what <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> does. Set each app to the level you want your viewers to hear:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial balancing game, Discord, and music audio levels for OBS streaming on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial balancing game, Discord, and music audio levels for OBS streaming on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typical streaming audio setup</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> has a <strong>Volume Memory</strong> feature. When enabled, it saves each app's volume level by its bundle identifier. When the app quits and relaunches — whether you restart it, it crashes, or you restart your Mac — SoundDial automatically restores it to its saved volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume memory — automatically remembers and restores per-app volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume memory — automatically remembers and restores per-app volume levels on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>How it works</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const enArticles: ArticleSet = {
 
 <p>The universal fix is amplifying your podcast app beyond macOS's 100% limit. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app a volume slider up to <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Apple Podcasts volume to 180% on Mac for quiet podcast episodes" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Apple Podcasts volume to 180% on Mac for quiet podcast episodes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Set Apple Podcasts or your podcast app to 160-180% while keeping Spotify music at 40% and Slack at 15%. The podcast gets louder without making everything else painfully loud. When you switch back to music, just drop the podcast app back to normal — or let SoundDial's volume memory remember it automatically.</p>
 
@@ -1189,7 +1189,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives each app its own volume slider, so you can build the ideal study audio setup:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial student setup — lecture at full volume, study music low, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial student setup — lecture at full volume, study music low, notifications muted" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Lecture profile</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const enArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>You updated macOS. Everything seemed fine — until you noticed there's no sound. Or sound is crackling. Or the volume is stuck. Or your audio output device is gone. Post-update audio issues happen with nearly every macOS release, and they range from mildly annoying to completely silent.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Sound Not Working After Update? Complete Fix Guide" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Here's a systematic guide to fixing Mac audio after a macOS update, covering every known issue and solution.</p>
 
@@ -1335,7 +1338,7 @@ export const enArticles: ArticleSet = {
   <li>Spotify goes back to 30%, Zoom to 100%, Slack to 15% — perfectly restored</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial mute-all shortcut — Control+Option+M to mute and unmute all apps with volume restore" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mute-all shortcut — Control+Option+M to mute and unmute all apps with volume restore" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The difference from the system mute key:</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Chrome its own volume slider that goes up to <strong>200%</strong>. Since Google Meet runs inside Chrome, boosting Chrome boosts Meet. Drag the slider to 150% or 180% and the call audio is amplified in real-time.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Google Meet (Chrome) volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Google Meet (Chrome) volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This also works with Safari if you use Meet in Safari. SoundDial controls each browser independently — boost Safari for Meet while keeping Chrome at normal volume for everything else.</p>
 
@@ -1450,7 +1453,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app its own volume slider. You can set notification-heavy apps to a subtle level that's noticeable but not jarring, while keeping media apps at a comfortable listening volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial separating notification app volume from media app volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial separating notification app volume from media app volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Example setup</h3>
 <p><strong>Media apps:</strong></p>
@@ -1523,7 +1526,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost FaceTime's volume up to <strong>200%</strong>. Open the menu bar panel, find FaceTime, and drag its slider past 100%. The call audio is amplified in real-time without affecting any other app.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting FaceTime call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting FaceTime call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial also helps the reverse: if FaceTime's ringtone or notification sounds are too loud during focus time, lower FaceTime to 20% or mute it while keeping your music playing. One click to mute, one click to unmute.</p>
 
@@ -1577,7 +1580,7 @@ export const enArticles: ArticleSet = {
 <h3>Mute all apps: Control + Option + M</h3>
 <p>Press <strong>⌃⌥M</strong> to instantly mute every app's audio. Press it again to unmute everything, restoring each app to its previous volume. This is an "instant silence" button that's faster than reaching for the mute key — and unlike the system mute key, it restores per-app volumes when you unmute.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial keyboard shortcuts — Control+Option+S to toggle, Control+Option+M to mute all" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial keyboard shortcuts — Control+Option+S to toggle, Control+Option+M to mute all" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>The keyboard-driven workflow</h2>
 
@@ -1642,7 +1645,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> uses the modern Audio Tap API — no virtual audio device, no system driver, no kernel extensions. It taps into each app's audio stream directly using Apple's supported API, which means it doesn't break when macOS updates.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — a Background Music alternative that doesn't install virtual audio devices" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — a Background Music alternative that doesn't install virtual audio devices" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>What you get over Background Music:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const enArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — a lighter, focused SoundSource alternative with volume profiles and auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — a lighter, focused SoundSource alternative with volume profiles and auto-ducking" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Which should you choose?</h2>
 
@@ -1809,7 +1812,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives you per-app volume sliders with fine-grained control — each slider moves in 1% increments from 0% to 200%. You can set Spotify to 5% and Zoom to 40% at the same time. The level of control is dramatically finer than macOS's 16 system steps.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% increments on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial fine-grained per-app volume control with 1% increments on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>For late-night headphone use:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const enArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>One AirPod sounds fine. The other is noticeably quieter. Music feels off-center. Voices sound like they're coming from one side. This is one of the most common AirPods complaints, and it usually has a simple fix.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — One AirPod Louder Than the Other? Every Fix Explained" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Clean your AirPods</h2>
 
@@ -1948,7 +1954,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app to <strong>200%</strong>. If Safari or the Netflix app is too quiet, drag its slider past 100%. The audio is amplified before it reaches your speakers, effectively doubling the maximum volume for that app only.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Netflix audio to 180% on Mac for clearer dialog and streaming audio" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Netflix audio to 180% on Mac for clearer dialog and streaming audio" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is especially useful when:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> fills this gap by giving every app its own volume slider. Set up your remote work audio exactly how you want it:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial remote work audio setup — different volume levels for Zoom, Spotify, and Slack on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial remote work audio setup — different volume levels for Zoom, Spotify, and Slack on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Save profiles for each mode</h3>
 
@@ -2126,7 +2132,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives your browser its own volume slider, independent from every other app. Lower Safari to 30% while keeping Zoom at 100%. Mute Chrome entirely while keeping Spotify playing. One click.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling browser volume independently from other apps on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling browser volume independently from other apps on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is the fastest way to handle a surprise auto-playing tab: instead of hunting for which tab is making noise, click SoundDial in the menu bar and mute the browser. Everything else keeps playing. When you've found and closed the offending tab, unmute the browser and its volume returns to where it was.</p>
 
@@ -2168,7 +2174,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Discord its own volume slider in your menu bar, independent from every other app. Set Discord to exactly the level you want — 100% for clear voice chat, 40% for subtle background, or muted entirely — without touching your game, music, or anything else.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial controlling Discord volume independently from game and music on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial controlling Discord volume independently from game and music on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Common setups</h3>
 
@@ -2244,7 +2250,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> includes an output device picker right in its menu bar popover — alongside your per-app volume sliders. One click to open SoundDial, one click to switch devices. No digging through System Settings.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial with audio output device switching and per-app volume control in one menu bar panel" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial with audio output device switching and per-app volume control in one menu bar panel" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The advantage of switching devices inside SoundDial: you can switch your output <em>and</em> adjust per-app volumes in the same panel. Switch to AirPods and immediately lower Spotify while boosting your call — all without leaving the popover.</p>
 
@@ -2262,6 +2268,9 @@ export const enArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>You're listening to music and hear a pop. Then a crackle. Then a stutter where the audio cuts out for a fraction of a second and comes back. It's not the song — it's your Mac. Audio crackling on macOS is maddeningly common, and it has at least six different causes.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Fix Audio Crackling and Popping on Mac: Complete Guide" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>This guide covers every known cause of audio crackling, popping, and stuttering on Mac, from software fixes to the one hardware issue you should know about.</p>
 
@@ -2389,7 +2398,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume to <strong>200%</strong>, including Microsoft Teams. Drag Teams' slider to 150% or 180% and the audio is amplified in real-time. Only Teams gets louder — your music, browser, and other apps stay at their current levels.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Microsoft Teams call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Microsoft Teams call volume beyond 100% on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial also helps with the reverse problem: if Teams notification sounds are too loud during focus time, lower Teams to 15% or mute it entirely while keeping your music playing. One click to mute, one click to unmute.</p>
 
@@ -2405,6 +2414,9 @@ export const enArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>You're on a video call. Slack keeps dinging. Music is playing in the background. You reach for the volume key and — everything gets quieter. The call, the music, the notifications. macOS has exactly one volume slider, and it controls everything at once.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Control Per-App Volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows has had a per-app volume mixer since Vista in 2006. Twenty years later, macOS still doesn't. If you want to turn down Spotify without affecting your Zoom call, Apple has no built-in answer for you.</p>
 
@@ -2512,7 +2524,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives Slack its own independent volume slider. Set it to whatever level works for you — or mute it entirely with one click. When you're ready to pay attention to Slack again, unmute it and the volume returns to where it was.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial with Slack muted and Spotify playing at normal volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial with Slack muted and Spotify playing at normal volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>The ideal Slack workflow</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const enArticles: ArticleSet = {
 <h3>Switching profiles</h3>
 <p>Your saved profiles appear as buttons in SoundDial's popover. Click one and every app instantly switches to the volumes saved in that profile. One click replaces five or six manual adjustments.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume profiles — one-click switching between Meeting, Focus, and Chill modes on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume profiles — one-click switching between Meeting, Focus, and Chill modes on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Example profiles</h3>
 
@@ -2662,7 +2674,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume to <strong>200%</strong> — including Zoom. If a participant is too quiet, drag Zoom's slider to 150% or 180%. The audio signal is amplified beyond Zoom's built-in maximum, making even the quietest voices audible.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Zoom call volume to 180% on Mac for clearer audio during video calls" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Zoom call volume to 180% on Mac for clearer audio during video calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The key advantage: boosting Zoom doesn't affect anything else. Your music, notifications, and other apps stay at their current levels. Only Zoom gets louder.</p>
 
@@ -2701,7 +2713,7 @@ export const enArticles: ArticleSet = {
 
 <p>Done. Spotify is quieter. Zoom is unchanged. Notifications are unchanged. Everything else is unchanged. You didn't leave your current app — the menu bar popover opens right where you are.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial lowering Spotify volume independently while keeping other apps at full volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial lowering Spotify volume independently while keeping other apps at full volume on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Even better: save it as a profile</h2>
 
@@ -2754,7 +2766,7 @@ export const enArticles: ArticleSet = {
 
 <p>Since Apple won't build it, third-party apps fill the gap. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> is a native macOS menu bar app that gives you a volume mixer — independent volume sliders for every running application.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial providing per-app volume control on macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial providing per-app volume control on macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial is fully compatible with macOS Tahoe and uses Apple's modern Core Audio Tap API — no third-party audio drivers or kernel extensions required. It works cleanly with macOS's security model and doesn't interfere with other audio apps.</p>
 
@@ -2816,7 +2828,7 @@ export const enArticles: ArticleSet = {
 
 <p>Your call is crystal clear. Music is a subtle background. No device switching needed.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing Zoom at full volume and Spotify lowered during a call on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing Zoom at full volume and Spotify lowered during a call on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Even better: SoundDial's <strong>auto-ducking</strong> does this automatically. When you join a call, it detects your microphone activating and lowers all background apps to a level you configure (default 30%). When the call ends, everything returns to normal. No manual slider adjustment needed.</p>
 
@@ -2877,7 +2889,7 @@ export const enArticles: ArticleSet = {
 
 <p>Even if you can't prevent macOS from changing the system volume, you can protect your <em>per-app</em> volume balance. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> remembers the volume level of every app independently. When an app restarts or when your Mac wakes from sleep, SoundDial restores each app to its saved volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial remembering per-app volume levels across restarts on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial remembering per-app volume levels across restarts on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This means even if the system volume changes, your app-level balance stays consistent:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const enArticles: ArticleSet = {
 
 <p>SoundDial uses Apple's modern Core Audio Tap API for clean per-process audio control. It's lightweight, runs entirely in the menu bar, and doesn't require complex setup. At €14.99, it's significantly cheaper than SoundSource ($39) while including features SoundSource lacks — volume profiles and auto-ducking. And because it's on the Mac App Store, it's Apple-reviewed, sandboxed, and installs cleanly without downloading DMGs or installing system audio drivers.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial per-app volume mixer showing individual app volume sliders on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial per-app volume mixer showing individual app volume sliders on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Amoeba)</h3>
 
@@ -3113,7 +3125,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> solves this by giving every app — including Safari and Chrome — an independent volume slider that goes from 0% to <strong>200%</strong>. If a YouTube video is too quiet, drag your browser's slider to 150% or 180%. The audio is amplified in real-time without affecting any other app.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Safari browser volume to 180% for quiet YouTube videos on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Safari browser volume to 180% for quiet YouTube videos on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is especially useful because:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> does. It gives every app its own volume slider, so you can set notification-heavy apps like Slack, Mail, and Calendar to a much lower volume while keeping your media apps at a comfortable level.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing Slack at low volume and Spotify at normal volume — independent notification control on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing Slack at low volume and Spotify at normal volume — independent notification control on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>A typical headphone-friendly setup</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives you exactly this. Its auto-ducking feature monitors your microphone and automatically adjusts background audio when a call starts — but <strong>you control the duck level</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial auto-ducking settings — configurable volume reduction during Zoom calls on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial auto-ducking settings — configurable volume reduction during Zoom calls on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>How it works</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume up to <strong>200%</strong>. If Spotify is too quiet through your AirPods, drag Spotify's slider to 150% or 180% in SoundDial. The audio signal is amplified before it's sent to your AirPods, effectively making them louder than Apple intended.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting app volume for AirPods on Mac with per-app volume sliders up to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting app volume for AirPods on Mac with per-app volume sliders up to 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>The advantage of per-app boosting: you can boost the quiet app without making everything else louder. If your video call is fine at 100% but Spotify needs 170%, SoundDial lets you set each independently.</p>
 
@@ -3387,7 +3399,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you boost any app's volume up to <strong>200%</strong> — including Spotify. It intercepts Spotify's audio stream and amplifies it beyond the app's built-in maximum, without affecting any other app's volume.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial boosting Spotify volume to 200% on macOS while keeping other apps at normal volume" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial boosting Spotify volume to 200% on macOS while keeping other apps at normal volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Here's the key difference: a system-wide volume boost would make <em>everything</em> louder — notifications, calls, system sounds — not just Spotify. SoundDial boosts Spotify <em>independently</em>. Set Spotify to 160% while your browser stays at 80% and Zoom stays at 100%.</p>
 
@@ -3440,7 +3452,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> sits in your menu bar and gives every app its own volume slider. You can set your game to 35% and Discord to 100% — or whatever ratio works for you. Change one and the other stays put.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing independent volume sliders for a game and Discord on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing independent volume sliders for a game and Discord on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Typical gaming setup</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const enArticles: ArticleSet = {
 
 <p>The answer is a third-party menu bar app. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> is a native macOS volume mixer that does exactly what the Windows volume mixer does — plus more.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — the volume mixer for macOS, showing per-app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — the volume mixer for macOS, showing per-app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>What you get:</p>
 
@@ -3590,7 +3602,7 @@ export const enArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives every app on your Mac an independent volume slider that goes from 0% to <strong>200%</strong>. If a specific app is too quiet — a podcast player, a browser tab, a video call — you can boost just that app beyond 100% without touching anything else.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volume boost — per-app volume control with 200% amplification on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volume boost — per-app volume control with 200% amplification on macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>This is particularly useful for:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const enArticles: ArticleSet = {
 <h3>Configuring the duck level</h3>
 <p>In SoundDial's settings, you can adjust the <strong>duck level</strong> — how much background audio is reduced during a call. The slider ranges from 10% (barely audible) to 80% (still quite present). The default of 30% works well for most people: music is noticeable but doesn't interfere with conversation.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial auto-ducking feature automatically lowering music volume during a Zoom call on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial auto-ducking feature automatically lowering music volume during a Zoom call on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Why auto-ducking is better than pausing</h2>
 
@@ -3763,7 +3775,7 @@ export const enArticles: ArticleSet = {
 
 <p>This is exactly what a per-app volume mixer does. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> sits in your menu bar and shows every running app with its own volume slider and mute button.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial showing per-app mute buttons for each application in the macOS menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial showing per-app mute buttons for each application in the macOS menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>To mute one app:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const enArticles: ArticleSet = {
 
 <p>It sits in your menu bar and shows every running application with its own volume slider. Drag a slider to adjust that app's volume from 0% to 200%. Click the speaker icon to mute it instantly. Switch between saved profiles for different situations. Enable auto-ducking and your music automatically gets quieter when a call starts.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — per-app volume mixer for macOS showing individual app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume mixer for macOS showing individual app volume sliders in the menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Key features:</p>
 <ul>
@@ -3889,5 +3901,2381 @@ export const enArticles: ArticleSet = {
 
 <p>One-time purchase. No subscription. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "The Best Background Music Alternative for Mac (2026)",
+    description: "Background Music breaking on newer macOS? The most reliable per-app volume mixer alternative is SoundDial — a sandboxed Mac App Store app with boost and profiles.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>If Background Music has stopped working after a macOS update, the most reliable alternative is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — a menu-bar per-app volume mixer from the Mac App Store. It gives every app its own volume slider, adds mute, boost, volume profiles, and auto-ducking, and it's fully sandboxed and Apple-reviewed, so there are no audio drivers to break on the next macOS release.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — The Best Background Music Alternative for Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why Background Music breaks on newer macOS</h2>
+
+<p>Background Music is a genuinely clever free, open-source project. It gave Mac users something Apple never has: a per-app volume mixer, the kind Windows has had for years. But its design is also the reason it keeps failing.</p>
+
+<p>To route and control audio, Background Music installs a virtual audio device — a system-level driver that intercepts your Mac's sound. That approach worked well on older macOS, but every major release tightens security around kernel and audio extensions. The common symptoms users report:</p>
+
+<ul>
+<li>No sound at all after installing or after an OS update.</li>
+<li>The virtual device fails to load, so audio routing silently stops.</li>
+<li>The app needs a reinstall, a reboot, or manual driver removal to recover.</li>
+<li>Development is community-driven and volunteer-paced, so fixes for a new macOS can lag.</li>
+</ul>
+
+<p>None of this makes Background Music "bad." It just means a free driver-based tool is fragile by nature, and if you rely on per-app volume every day, that fragility gets old fast.</p>
+
+<h2>What to look for in a replacement</h2>
+
+<p>Before picking any alternative, decide what you actually need:</p>
+
+<ul>
+<li><strong>Reliability across macOS updates.</strong> If it installs a kernel or audio extension, expect occasional breakage.</li>
+<li><strong>Real per-app control.</strong> Independent volume and mute for each app is the baseline.</li>
+<li><strong>Boost.</strong> Some apps (quiet meeting tools, certain browsers) are simply too quiet — you want to push past 100%.</li>
+<li><strong>Convenience features.</strong> Profiles and auto-ducking are what turn a utility into something you keep open all day.</li>
+<li><strong>Safe install.</strong> A sandboxed Mac App Store app can't touch system internals, so uninstalling is clean and updates are automatic.</li>
+</ul>
+
+<h2>Why SoundDial is the reliable pick</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> was built to solve exactly the problem Background Music users run into: they want per-app volume, but they don't want to babysit a driver. It lives in your menu bar and does the core job well:</p>
+
+<ul>
+<li><strong>Independent volume for every app</strong>, with per-app mute in the same panel.</li>
+<li><strong>Per-app boost</strong> to make quiet apps loud enough to actually hear.</li>
+<li><strong>Volume profiles</strong> — save a mix (say, "meeting" or "gaming") and switch instantly instead of dragging sliders every time.</li>
+<li><strong>Auto-ducking</strong>, so background audio dips automatically when it should.</li>
+<li><strong>Quick output switching</strong> between speakers, headphones, and other devices.</li>
+</ul>
+
+<p>The bigger difference is how it installs. SoundDial ships through the Mac App Store, which means it's Apple-reviewed and sandboxed. There's no DMG to drag, no audio driver or system extension, and no kernel access. That's the single most important reason it won't break the way Background Music does when a new macOS arrives — it isn't wired into the parts of the system that Apple keeps locking down.</p>
+
+<p>It costs <strong>€14.99 one-time</strong>. Not free, but there's no subscription, and you're paying for something maintained and safe to install.</p>
+
+<h2>SoundDial vs. Background Music vs. the free tools</h2>
+
+<p>Background Music isn't your only free option, so here's an honest lay of the land:</p>
+
+<ul>
+<li><strong>Background Music (free, open-source):</strong> per-app volume, but driver-based, prone to breaking on newer macOS, and it lacks boost, profiles, and auto-ducking.</li>
+<li><strong>FineTune (free, open-source):</strong> a lightweight menu-bar per-app volume app. Good if free is your only requirement, but thin on the extras.</li>
+<li><strong>eqMac (free):</strong> primarily a system EQ and booster, not a true per-app mixer.</li>
+<li><strong>SoundSource by Rogue Amoeba (~$39):</strong> the pro-grade option, with per-app EQ and full output routing. Excellent, but it's more than double SoundDial's price and still requires a download plus an audio capture driver.</li>
+<li><strong>SoundDial (€14.99, Mac App Store):</strong> the middle ground — real per-app volume, mute, boost, profiles, and ducking, delivered as a clean sandboxed install with no drivers.</li>
+</ul>
+
+<p>If you need per-app EQ or complex studio routing, SoundSource is worth the extra money. If you want a free tinkerer's tool and can tolerate the occasional breakage, FineTune or Background Music will do. But if your goal is "give every app its own volume and stop having it break every macOS update," SoundDial hits that target for the least hassle.</p>
+
+<h2>The macOS context that makes this necessary</h2>
+
+<p>It's worth saying plainly: macOS has no built-in per-app volume mixer. Windows has had one for years in its volume flyout, but on a Mac the system slider controls everything at once. That gap is the entire reason tools like Background Music and SoundDial exist. Since Apple isn't filling it, the practical question is just which third-party approach you trust — a free driver that fights the OS, or a sandboxed app that works with it.</p>
+
+<p>Ready to stop fighting broken audio drivers? Get <a href="https://apps.apple.com/app/id6772792641">SoundDial on the Mac App Store</a> for €14.99 and control every app's volume the reliable way.</p>
+`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial: Which Mac Volume App Wins?",
+    description: "SoundSource ($39, pro-grade) vs SoundDial (€14.99, App Store). Compare per-app volume, boost, profiles, and auto-ducking to pick the right Mac mixer for you.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `
+<p>If you just want per-app volume control that installs cleanly and costs less, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is the better buy for most people: €14.99 one-time, from the Mac App Store, with per-app volume, mute, boost, profiles, and auto-ducking. Pick Rogue Amoeba's SoundSource (~$39) only if you specifically need per-app EQ and advanced output routing.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial: Which Mac Volume App Wins?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>The short version</h2>
+<p>macOS still has no built-in per-app volume mixer. Windows has had one for years, but on a Mac the system volume slider moves everything at once. Both SoundSource and SoundDial exist to fix that gap. They just aim at different buyers.</p>
+<ul>
+<li><strong>SoundDial</strong> — €14.99 one-time, Mac App Store, menu-bar app. Independent volume per app, per-app mute, per-app boost, saved profiles, auto-ducking, and quick output switching. Sandboxed and Apple-reviewed, so no driver install.</li>
+<li><strong>SoundSource</strong> — ~$39, direct download from Rogue Amoeba. Everything above plus per-app EQ, advanced output routing, and audio effects. Requires a small audio-capture driver to be installed.</li>
+</ul>
+
+<h2>Price and how you buy it</h2>
+<p>This is the clearest split. SoundSource is roughly $39 and sold directly by Rogue Amoeba. SoundDial is €14.99 as a one-time purchase on the Mac App Store — a little over a third of the price.</p>
+<p>Because <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ships through the App Store, it's sandboxed, notarized, and Apple-reviewed. You click Get, it installs, and it's done. There's no DMG to mount, no permissions to grant to a kernel-adjacent component, and no audio driver or system extension. It also rides along with your normal App Store update flow and syncs to your other Macs on the same Apple ID.</p>
+<p>SoundSource downloads outside the App Store and installs an audio-capture driver so it can intercept and process each app's audio. That's what unlocks its pro features, but it also means an extra install step and a component that lives deeper in the system.</p>
+
+<h2>What SoundSource does that SoundDial doesn't</h2>
+<p>SoundSource earns its price for a specific kind of user. If any of these describe you, it's worth the extra money:</p>
+<ul>
+<li><strong>Per-app EQ.</strong> You want a 10-band equalizer on, say, Spotify while leaving Zoom flat. SoundDial does volume, not EQ.</li>
+<li><strong>Advanced output routing.</strong> Sending one app to your speakers and another to headphones or a specific interface, with fine control.</li>
+<li><strong>Audio effects and plugins.</strong> SoundSource can host effects on a per-app basis — genuinely pro territory.</li>
+</ul>
+<p>Rogue Amoeba has a long, trusted track record. SoundSource is a serious tool and it's priced like one. If you're an audio pro or a heavy multi-output user, it's the right call.</p>
+
+<h2>What SoundDial does better for everyday use</h2>
+<p>Most people who search for a "Mac volume mixer" don't need an EQ. They need one app quieter than another, and they don't want to fight an installer to get it. SoundDial covers that cleanly, and adds a couple of things worth calling out:</p>
+<ul>
+<li><strong>Per-app boost.</strong> Some apps and videos are just too quiet even at 100%. SoundDial can push a single app above its normal ceiling so a quiet meeting or podcast is finally audible.</li>
+<li><strong>Volume profiles.</strong> Save a full setup — music low, browser muted, call app loud — and recall it instantly. Great for switching between "focus," "meeting," and "gaming" without dragging five sliders.</li>
+<li><strong>Auto-ducking.</strong> Automatically dip background audio (like music) when another source starts, so notifications, calls, or video don't get buried.</li>
+<li><strong>Quick output switching.</strong> Jump between speakers, headphones, and other devices from the menu bar.</li>
+</ul>
+<p>All of that runs from a menu-bar dropdown, so it's a click away and out of your face the rest of the time.</p>
+
+<h2>The free alternatives, briefly</h2>
+<p>You'll see a few free options mentioned in the same searches. They're worth knowing about:</p>
+<ul>
+<li><strong>Background Music</strong> — free and open-source, gives you basic per-app volume. But it can break on newer macOS releases, and it has no boost, profiles, or auto-ducking.</li>
+<li><strong>FineTune</strong> — a free open-source menu-bar volume app. Simple, but limited in scope.</li>
+<li><strong>eqMac</strong> — free EQ and system booster, more of a system-wide EQ tool than a true per-app mixer.</li>
+</ul>
+<p>Free is great if it works for you. The tradeoff is compatibility and support: open-source audio tools can lag behind macOS updates, and features like profiles and ducking generally aren't there. If your setup matters to your workday, paying once for something reviewed and maintained is usually the calmer path.</p>
+
+<h2>Which one should you buy?</h2>
+<p>Answer one question: do you need per-app EQ or advanced output routing?</p>
+<ul>
+<li><strong>Yes</strong> — buy SoundSource. It's built for that, and the ~$39 is fair for a pro tool with a driver-level engine.</li>
+<li><strong>No, I just want per-app volume, boost, and a clean install</strong> — buy SoundDial. You get the mixing that actually matters day to day, plus profiles and auto-ducking, for €14.99 and zero driver hassle.</li>
+</ul>
+<p>For the large majority of Mac users, that second bucket is the honest answer. You're paying for control over volume, not for a studio.</p>
+
+<p><strong>Ready to fix Mac volume the easy way?</strong> Get <a href="https://apps.apple.com/app/id6772792641">SoundDial on the Mac App Store</a> — €14.99 one-time, no drivers, no DMG. Per-app volume, boost, profiles, and auto-ducking in one click.</p>
+`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "A Cheaper SoundSource Alternative for Per-App Volume on Mac",
+    description: "Want SoundSource-style per-app volume without the $39 price? SoundDial is a €14.99 Mac App Store menu-bar mixer with boost, profiles, and auto-ducking.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>If you want SoundSource-style per-app volume control on your Mac but $39 feels steep, the fastest reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. It's a €14.99 one-time menu-bar mixer from the Mac App Store that gives every app its own volume slider, mute, and boost — plus profiles and auto-ducking — with no download or audio driver to install.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — A Cheaper SoundSource Alternative for Per-App Volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why people look for a SoundSource alternative</h2>
+<p>SoundSource by Rogue Amoeba is excellent software. It's genuinely pro-grade: per-app equalizers, audio effects, and output routing that lets you send one app to your headphones and another to your speakers. But that power comes with two friction points. First, the price — around $39. Second, it installs a system-level audio capture driver outside the App Store, which some people are cautious about on a work machine or simply don't want to manage across macOS updates.</p>
+<p>For most people, the real need is much simpler: turn Spotify down without touching a Zoom call, mute a noisy browser tab's app, or boost a quiet video player past 100%. If that's you, you're paying pro money for features you'll never open.</p>
+
+<h2>What SoundDial does — and what it costs</h2>
+<p>SoundDial focuses on the per-app volume job and does it cleanly. Open the menu bar and you get a live list of everything making sound, each with its own control:</p>
+<ul>
+<li><strong>Independent volume per app</strong> — one slider per application, adjusted in real time.</li>
+<li><strong>Per-app mute</strong> — silence one app instantly without pausing anything else.</li>
+<li><strong>Per-app volume boost</strong> — push quiet apps above their normal maximum when a video or call is too soft.</li>
+<li><strong>Volume profiles</strong> — save a mix (e.g. "Focus," "Gaming," "Meeting") and switch in one click.</li>
+<li><strong>Auto-ducking</strong> — automatically dip other apps when something more important starts playing.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other devices from the same menu.</li>
+</ul>
+<p>The price is <strong>€14.99, paid once</strong> — no subscription. That's roughly a third of SoundSource's cost, for the volume features most users actually reach for.</p>
+
+<h2>The App Store difference</h2>
+<p>Because SoundDial ships through the <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, it's Apple-reviewed and sandboxed. There's no DMG to drag, no kernel extension or audio capture driver to approve, and no separate updater. You install it like any other App Store app and it works. When macOS updates, you're not left wondering whether a low-level audio component still functions.</p>
+<blockquote>macOS still has no built-in per-app volume mixer. Windows has had one for years, but on a Mac the system volume is all-or-nothing — which is exactly the gap these tools fill.</blockquote>
+
+<h2>How it compares to the free options</h2>
+<p>SoundSource isn't your only alternative. There are free tools, and being honest about them matters:</p>
+<ul>
+<li><strong>Background Music</strong> is a free, open-source per-app volume app. It works for many people, but it can break on newer macOS releases, updates are irregular, and it has no boost, no profiles, and no auto-ducking.</li>
+<li><strong>FineTune</strong> is a free, open-source menu-bar volume app — lightweight and handy, but again lacks the profile and ducking features.</li>
+<li><strong>eqMac</strong> is a free EQ and system booster. It's more of an equalizer/boost tool than a true per-app mixer, and it isn't focused on individual app sliders.</li>
+</ul>
+<p>Free is a legitimate choice. The tradeoff is reliability and features: open-source audio tools depend on volunteer maintenance and can lag behind macOS changes, and none of the free options bundle profiles plus auto-ducking the way SoundDial does. If your setup is simple and you don't mind occasional breakage, a free app may be enough. If you want something that's maintained, sandboxed, and just works, the €14.99 is buying you exactly that.</p>
+
+<h2>Quick decision guide</h2>
+<ul>
+<li><strong>You need per-app EQ, audio effects, and routing one app to a different output device</strong> → SoundSource is worth its price. Nothing here fully replaces that.</li>
+<li><strong>You mainly need per-app volume, mute, boost, profiles, and ducking — without drivers</strong> → SoundDial at €14.99 is the better-value pick.</li>
+<li><strong>You want free and don't mind maintenance risk</strong> → try Background Music, FineTune, or eqMac first.</li>
+</ul>
+
+<h2>Setting it up</h2>
+<p>Getting started takes about a minute:</p>
+<ul>
+<li>Install SoundDial from the Mac App Store — no external download.</li>
+<li>Grant the audio permission macOS prompts for on first launch.</li>
+<li>Play sound in a couple of apps and open the menu-bar icon; you'll see each one with its own slider.</li>
+<li>Drag to set levels, tap to mute, or push past 100% to boost.</li>
+<li>Save your setup as a profile, and turn on auto-ducking if you want other apps to quiet down during calls or media.</li>
+</ul>
+<p>That's the whole workflow — no configuration files, no restart, no system extension to bless.</p>
+
+<h2>The bottom line</h2>
+<p>SoundSource is the more powerful tool, but most people looking for it just want per-app volume that behaves. SoundDial delivers that for about a third of the price, ships safely through the App Store, and adds profiles and auto-ducking on top — without a single driver to install.</p>
+
+<p>Ready to control every app's volume independently? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for €14.99, one time.</p>
+`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune Alternative for Mac: A Supported Per-App Volume Mixer",
+    description: "Tried the free FineTune menu-bar app and want something maintained and App Store-safe? Here is the best FineTune alternative for per-app volume on Mac.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>If you liked FineTune but want something actively maintained and installed from a trusted source, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is the fastest reliable fix. It is a Mac App Store menu-bar per-app volume mixer with independent volume, per-app mute, volume boost, saved profiles, and auto-ducking. Apple-reviewed and sandboxed, it costs €14.99 once with no drivers to install.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune Alternative for Mac: A Supported Per-App Volume Mixer" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why look for a FineTune alternative at all?</h2>
+
+<p>FineTune is a nice idea: a free, open-source menu-bar app that gives you per-app volume control on macOS, something Apple still refuses to build in (Windows has had a per-app mixer for years). For a lot of people it does the basic job. But there are real reasons users go looking for something else.</p>
+
+<ul>
+<li><strong>Maintenance is uncertain.</strong> Open-source hobby projects live and die on a single maintainer's free time. When macOS ships a major update, audio-related apps are often the first to break, and you are left waiting for a volunteer fix that may never come.</li>
+<li><strong>Feature ceiling.</strong> FineTune covers per-app volume and little else. If you want boost above 100%, saved profiles, or automatic ducking, you have to bolt on other tools.</li>
+<li><strong>Trust and updates.</strong> Installing a raw build outside the App Store means no automatic review, no sandbox guarantees, and manual updates you have to track yourself.</li>
+</ul>
+
+<p>None of this makes FineTune bad. It just means that if you rely on per-app audio every day, you probably want something with a support model behind it.</p>
+
+<h2>What SoundDial does differently</h2>
+
+<p>SoundDial starts from the same core idea, a menu-bar mixer with a slider for every running app, then goes further with the features power users actually ask for.</p>
+
+<ul>
+<li><strong>Independent volume per app.</strong> Turn Spotify down, keep your call at full volume, mute a noisy browser tab's app entirely, all from one menu.</li>
+<li><strong>Per-app volume boost.</strong> Push a quiet app above its normal ceiling when a podcast or video was mastered too low. FineTune does not do this.</li>
+<li><strong>Volume profiles.</strong> Save a mix, "focus", "gaming", "meetings", and switch your whole setup in one click instead of nudging five sliders.</li>
+<li><strong>Auto-ducking.</strong> Automatically lower background audio when something more important starts playing, so music dips when a call comes in.</li>
+<li><strong>Quick output switching.</strong> Jump between speakers, headphones, and other outputs without diving into System Settings.</li>
+</ul>
+
+<p>Because <a href="https://apps.apple.com/app/id6772792641">SoundDial ships through the Mac App Store</a>, it is Apple-reviewed and sandboxed, installs cleanly, and updates through the same mechanism as every other App Store app. There is no DMG to drag, no audio driver or system extension, and no security prompt asking you to allow a kernel-level component.</p>
+
+<h2>SoundDial vs. FineTune and the other free tools</h2>
+
+<p>FineTune is not the only free option, and it helps to see the whole landscape honestly.</p>
+
+<ul>
+<li><strong>FineTune</strong> — Free, open-source, menu-bar per-app volume. Simple and lightweight, but no boost, no profiles, no ducking, and maintenance depends on the community.</li>
+<li><strong>Background Music</strong> — Free and open-source, routes and adjusts per-app audio. Genuinely useful, but it can break on newer macOS releases and lacks boost, profiles, and ducking.</li>
+<li><strong>eqMac</strong> — Free EQ and system booster. Great if you mainly want an equalizer, but it is not a per-app mixer.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — The pro-grade option at around $39, with per-app EQ and output routing. Excellent, but it needs a download plus an audio-capture driver, and it costs more than twice as much.</li>
+<li><strong>SoundDial</strong> — €14.99 one-time, App Store-safe, no drivers. Adds boost, profiles, and auto-ducking on top of the per-app volume basics.</li>
+</ul>
+
+<p>The honest summary: if you want the absolute cheapest thing and only need basic per-app volume, the free tools can work. If you want per-app EQ and routing and do not mind paying and installing a driver, SoundSource is the heavyweight. SoundDial sits in the sweet spot, more capable than the free apps, dramatically cheaper than SoundSource, and safer to install than either because Apple reviews and sandboxes it.</p>
+
+<h2>Moving over from FineTune</h2>
+
+<p>Switching takes a couple of minutes and there is no cleanup ritual.</p>
+
+<ul>
+<li>Install SoundDial from the Mac App Store. No installer, no driver approval, no restart.</li>
+<li>Click the SoundDial icon in your menu bar to see a slider for each running app.</li>
+<li>Set your everyday mix, then save it as a profile so you can recall it instantly.</li>
+<li>Optionally turn on auto-ducking so background audio steps aside for calls and alerts.</li>
+<li>When you are happy, quit FineTune. Since neither app installs system drivers, there is nothing lingering to uninstall.</li>
+</ul>
+
+<p>You keep the thing you liked about FineTune, a clean menu-bar mixer that Apple never gave you, and you gain the boost, profiles, ducking, and long-term support that a maintained App Store app provides.</p>
+
+<h2>The bottom line</h2>
+
+<p>FineTune proves the concept: per-app volume belongs in the menu bar. SoundDial is what that concept looks like with a real support model, more features, and App Store safety, for a one-time €14.99 instead of a bet on volunteer upkeep.</p>
+
+<p>Ready for a per-app mixer that stays maintained? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and control every app's volume in seconds.</p>
+`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Alternative for Real Per-App Volume on Mac",
+    description: "Loved eqMac's boost but need proper per-app volume, mute, and profiles? SoundDial is the fastest Mac App Store fix — €14.99, sandboxed, no drivers.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>If you used eqMac for its EQ and volume booster but really want independent volume for each app — plus mute, boost, and saved profiles — the fastest reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. It's a Mac App Store menu-bar mixer: set a level per app, boost quiet ones, and switch profiles instantly. €14.99 one-time, sandboxed, no drivers to install.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — eqMac Alternative for Real Per-App Volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac vs. what you actually need</h2>
+
+<p>eqMac is a solid free tool, and its system-wide equalizer and volume booster are genuinely useful. But eqMac is built around one master EQ and one master output. It doesn't give you a real per-app volume mixer — the thing Windows has had for years and macOS still doesn't ship natively.</p>
+
+<p>So if your real problem is "Spotify is too loud while I'm on a call" or "this one game blows out my ears but everything else is fine," eqMac isn't the right shape for the job. You end up riding a single master slider or fiddling with each app's internal volume. That's the gap SoundDial fills.</p>
+
+<h2>What SoundDial does that eqMac doesn't</h2>
+
+<ul>
+<li><strong>Independent volume per app</strong> — Music at 40%, a browser at 100%, a video call at 70%, all at once, all remembered.</li>
+<li><strong>Per-app mute</strong> — silence one noisy app instantly without touching anything else.</li>
+<li><strong>Per-app boost</strong> — push a quiet app past its normal ceiling, the way eqMac's booster does, but targeted at a single app instead of the whole system.</li>
+<li><strong>Volume profiles</strong> — save setups like "Focus," "Gaming," or "Meeting" and switch the whole mix in one click.</li>
+<li><strong>Auto-ducking</strong> — automatically drop background audio when something more important starts, so you don't scramble for a slider mid-call.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other outputs from the menu bar.</li>
+</ul>
+
+<p>The overlap with eqMac is basically the boost. Everything else — the mixer, mute, profiles, ducking — is territory eqMac was never designed to cover.</p>
+
+<h2>Do you still want EQ?</h2>
+
+<p>Be honest about which problem you're solving. If you genuinely need frequency EQ — cutting bass, taming harsh highs, shaping your whole system's tone — then eqMac still has a place, and it's free. SoundDial is a volume mixer, not an equalizer.</p>
+
+<p>But most people reach for eqMac's booster not because they want to shape frequencies, they want one app louder or the mix balanced. If that's you, a dedicated mixer is the cleaner answer. You can even run both: keep eqMac for a system-wide EQ curve and use SoundDial for per-app levels. They don't fight over the same job.</p>
+
+<h2>How it compares to the other Mac audio tools</h2>
+
+<p>Since you're already tool-hunting, here's the honest landscape:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — the pro-grade option at around $39, with per-app EQ and full output routing. Powerful, but it needs a direct download and installs an audio capture driver. Overkill and pricier if all you want is per-app volume with profiles.</li>
+<li><strong>Background Music</strong> — free and open source, but it can break on newer macOS releases and has no boost, no profiles, and no auto-ducking. Great when it works, frustrating when it doesn't.</li>
+<li><strong>FineTune</strong> — a free open-source menu-bar app. Worth a look if $0 is the hard requirement, though it's lighter on features and polish.</li>
+<li><strong>eqMac</strong> — free EQ plus booster, but no true per-app mixer, as covered above.</li>
+</ul>
+
+<p>SoundDial sits in the sweet spot: more focused and cheaper than SoundSource, more capable and more reliable than the free options, and it does the per-app job eqMac doesn't.</p>
+
+<h2>Why the Mac App Store matters here</h2>
+
+<p>Several of these tools require a direct download and a kernel-level or capture audio driver. Those work, but they're the kind of thing that can snag on a macOS update or trip up on a locked-down work Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ships through the Mac App Store instead. That means it's Apple-reviewed and sandboxed, it installs cleanly with no DMG to drag, and there are no audio drivers or system extensions to approve. Updates arrive through the App Store like any other app, and uninstalling is a normal delete. For a menu-bar utility that touches your audio, that lower-friction, lower-risk path is worth a lot.</p>
+
+<h2>The quick setup</h2>
+
+<ul>
+<li>Install SoundDial from the Mac App Store — no restart, no driver prompt.</li>
+<li>Open the menu-bar icon; every app currently making sound shows up with its own slider.</li>
+<li>Set levels, mute what you don't need, and boost anything too quiet.</li>
+<li>Save the arrangement as a profile, then create more for gaming, calls, or focus.</li>
+<li>Turn on auto-ducking so background audio steps aside automatically.</li>
+</ul>
+
+<p>That's the whole loop. Within a couple of minutes you have the per-app control eqMac's booster only hinted at.</p>
+
+<p><strong>Ready for real per-app volume on your Mac?</strong> <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time, sandboxed, no drivers, and it does exactly what a menu-bar mixer should.</p>
+`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "The Cheapest Good Volume Mixer for Mac in 2026",
+    description: "Looking for the cheapest good per-app volume mixer for Mac in 2026? Compare SoundDial, SoundSource, Background Music, FineTune and eqMac on price, safety and features.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `
+<p>The best value per-app volume mixer for Mac in 2026 is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a menu-bar app on the Mac App Store for a one-time €14.99. It gives every app its own volume slider, plus mute, boost, profiles and auto-ducking — no drivers, no subscription, and no risky downloads. It's the cheapest paid option that actually works reliably.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — The Cheapest Good Volume Mixer for Mac in 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why "cheapest" needs a definition</h2>
+<p>There are free volume tools for Mac, so if the only goal is spending zero, you have options. But free usually costs you somewhere else: fragility on new macOS versions, missing features like boost or profiles, or an install process that involves an audio-capture driver you have to trust. "Cheapest good" means the lowest price that still gets you a stable, full-featured mixer you'll keep using. That's the lens we'll use here.</p>
+
+<h2>First, the thing macOS doesn't do</h2>
+<p>Windows has had a per-app volume mixer for years — right-click the speaker icon and set each app independently. macOS still has nothing equivalent built in. You get one master volume and whatever internal slider an app happens to ship (Music, some browsers). There's no system-wide way to make Slack quieter than Spotify, or to boost a quiet video call above everything else. Every option below exists to fill that gap.</p>
+
+<h2>The contenders, priced honestly</h2>
+
+<h2>SoundDial — €14.99, one-time</h2>
+<p>SoundDial lives in your menu bar and gives each running app an independent volume slider. Beyond the basics, it adds the features people actually reach for:</p>
+<ul>
+<li><strong>Per-app boost</strong> — push a too-quiet app above 100% instead of straining to hear it.</li>
+<li><strong>Per-app mute</strong> — silence one app without touching the rest.</li>
+<li><strong>Volume profiles</strong> — save a "work call" or "movie night" mix and recall it instantly.</li>
+<li><strong>Auto-ducking</strong> — automatically drop background audio when something more important plays.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones and other devices from the same menu.</li>
+</ul>
+<p>Because it's on the Mac App Store, it's sandboxed, Apple-reviewed and installs cleanly — no DMG, no kernel extension, no audio driver to approve. You pay <a href="https://apps.apple.com/app/id6772792641">€14.99 once</a> and own it. For most people, this is the sweet spot: cheap enough to be an easy yes, complete enough that you won't outgrow it.</p>
+
+<h2>SoundSource — ~$39, the pro option</h2>
+<p>Rogue Amoeba's SoundSource is the gold standard for power users. It does per-app volume and mute like SoundDial, but goes further with per-app equalizers and full output routing (send one app to headphones, another to speakers). It's genuinely excellent — but it's roughly $39, and it installs outside the App Store with an audio-capture component you have to grant permission to. If you need per-app EQ or complex routing, it's worth the money. If you just want a clean, cheap mixer, you're paying for capabilities you may never touch.</p>
+
+<h2>Background Music — free, open-source</h2>
+<p>Background Music is a well-known free, open-source app that offers per-app volume and auto-pause. The catch: it hooks deep into Core Audio via a virtual driver, and it has a long history of breaking on new macOS releases, sometimes needing manual fixes or a reinstall after updates. It also lacks boost, saved profiles and auto-ducking. Great for tinkerers who don't mind maintenance; frustrating if you just want it to work.</p>
+
+<h2>FineTune — free, menu-bar</h2>
+<p>FineTune is a free, open-source menu-bar volume app. It's lightweight and pleasant, and for simple per-app adjustment it can be enough. But being a small free project, it doesn't match the feature depth — no profiles, no auto-ducking, and boost/output handling are limited. Zero cost, fewer guarantees on longevity and support.</p>
+
+<h2>eqMac — free, EQ + booster</h2>
+<p>eqMac is a free system-wide equalizer with a volume booster. It's more about shaping tone and loudness across your whole Mac than mixing individual apps, so it's a different tool for a different job. If you specifically want per-app control, eqMac isn't really the answer, though it's a fine free EQ.</p>
+
+<h2>Price vs. value: the honest table</h2>
+<ul>
+<li><strong>Truly free, but with tradeoffs:</strong> Background Music (fragile, driver-based), FineTune (thin features), eqMac (EQ, not a mixer).</li>
+<li><strong>Cheapest complete paid app:</strong> SoundDial at €14.99 — boost, profiles, ducking, App Store safety.</li>
+<li><strong>Premium/pro:</strong> SoundSource at ~$39 — EQ and routing, non-App-Store install.</li>
+</ul>
+<p>Put another way: SoundDial costs roughly a third of SoundSource while covering the features 90% of people actually want. And unlike the free options, it won't quietly break after a macOS update, because it doesn't rely on a fragile system-level audio driver.</p>
+
+<h2>Which should you pick?</h2>
+<p>If you're a pro who needs per-app EQ and to route apps to different outputs, buy SoundSource — it earns its price. If you love open-source and don't mind occasional breakage, try Background Music or FineTune for free. But if you want the cheapest option that just works — independent volume, boost, mute, saveable profiles and auto-ducking, installed safely from the App Store — SoundDial is the clear value winner in 2026.</p>
+
+<blockquote>The best mixer isn't the one with the most features or the lowest price — it's the one you set up once and forget about. At €14.99, SoundDial makes that an easy call.</blockquote>
+
+<p>Ready to give every app its own volume? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for a one-time €14.99 — no subscription, no drivers, no risk.</p>
+`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Windows Volume Mixer for Mac: Get Per-App Volume Control",
+    description: "Missing the Windows Volume Mixer on your Mac? macOS has no built-in per-app volume control. Here's the fastest way to get it: SoundDial, a €14.99 menu-bar mixer.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>macOS has no built-in Volume Mixer like Windows, so you can't set per-app volume from System Settings. The fastest, reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a €14.99 menu-bar app from the Mac App Store. It gives every app its own volume slider, mute, and boost — no drivers, no DMG, no risky installs.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows Volume Mixer for Mac: Get Per-App Volume Control" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why the Windows Volume Mixer has no Mac equivalent</h2>
+
+<p>If you switched from Windows, one of the first things you'll miss is the Volume Mixer: right-click the speaker icon, and every running app gets its own slider. Turn Chrome down, keep Discord loud, mute Spotify — all in one place.</p>
+
+<p>macOS simply doesn't ship this. Apple's volume control is a single system-wide slider. Whatever level you set applies to everything at once. There's no per-app option hidden in System Settings, no Terminal command, no accessibility toggle. It's a genuine gap, and it's been that way for years.</p>
+
+<p>The reason is architectural: apps route audio through Core Audio to your output device, and the OS doesn't expose a user-facing mixer for the individual streams. To recreate the Windows experience, you need a third-party app that sits in that audio path and gives you the controls Apple left out.</p>
+
+<h2>The closest match: SoundDial</h2>
+
+<p>SoundDial is a menu-bar per-app volume mixer built specifically for this. Click its icon and you get a clean list of everything playing audio, each with its own slider. It's the most direct "Windows Volume Mixer for Mac" you can install, and it does a few things the Windows mixer never could:</p>
+
+<ul>
+<li><strong>Independent volume per app</strong> — the core feature. Set Chrome to 40%, Zoom to 100%, music to 20%.</li>
+<li><strong>Per-app mute</strong> — silence one app without touching the rest.</li>
+<li><strong>Per-app volume boost</strong> — push a quiet app <em>above</em> 100% when its own audio is too low.</li>
+<li><strong>Volume profiles</strong> — save a mix (e.g. "work call" or "gaming") and recall it instantly instead of re-dragging sliders.</li>
+<li><strong>Auto-ducking</strong> — automatically lower background audio when something more important starts, like a call.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other devices from the same menu.</li>
+</ul>
+
+<p>Because it's on the <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, it's Apple-reviewed and sandboxed. It installs cleanly with one click — no DMG to drag, no audio driver or system extension to approve, no security prompts. At €14.99 one-time (no subscription), it's the simplest way to close the gap.</p>
+
+<h2>How to set up per-app volume on your Mac</h2>
+
+<ol>
+<li>Install SoundDial from the Mac App Store.</li>
+<li>Grant the one-time audio permission it requests on first launch.</li>
+<li>Click the SoundDial icon in your menu bar.</li>
+<li>Drag the slider next to any app to set its volume, or hit mute/boost.</li>
+<li>Optionally, save the current mix as a profile so you can restore it later.</li>
+</ol>
+
+<p>That's the whole workflow. It behaves like the Windows mixer you already know, just from the menu bar instead of a right-click on the taskbar.</p>
+
+<h2>How SoundDial compares to other options</h2>
+
+<p>SoundDial isn't the only tool in this space, so here's an honest look at the alternatives.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> — around $39, and genuinely pro-grade: per-app EQ, output routing per app, effects. But it requires a direct download plus an audio capture driver, and it's overkill (and pricier) if you just want per-app volume. Choose it if you need EQ and routing; choose SoundDial if you want the mixer without the complexity or the driver.</li>
+<li><strong>Background Music</strong> — free and open-source, which is great. The catch: it can break on newer macOS versions, and it lacks boost, saved profiles, and auto-ducking. Fine if you're comfortable troubleshooting open-source audio drivers; less ideal if you want something that just works.</li>
+<li><strong>FineTune</strong> — a free open-source menu-bar app. Lightweight and worth a look if budget is the priority, but you're trading polish, profiles, and App Store safety for free.</li>
+<li><strong>eqMac</strong> — a free EQ and system-wide booster. It's an equalizer first, not a per-app mixer, so it solves a different problem.</li>
+</ul>
+
+<p>The trade-off is simple. Free tools cost nothing but can be fragile or feature-thin. SoundSource is powerful but expensive and driver-based. SoundDial sits in the sweet spot: a one-time €14.99, App Store safety and sandboxing, and the profiles + auto-ducking that the free options skip.</p>
+
+<blockquote>If all you want is the Windows Volume Mixer experience — per-app sliders, mute, and boost, installed safely in seconds — SoundDial is the most direct match.</blockquote>
+
+<h2>The bottom line</h2>
+
+<p>macOS won't give you a Volume Mixer, and it probably never will. But you don't have to live with one system-wide slider. A dedicated menu-bar mixer restores the per-app control you had on Windows, and adds boost, profiles, and auto-ducking on top.</p>
+
+<p>Ready to get per-app volume the easy way? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for €14.99 — one-time, sandboxed, and installs in seconds.</p>
+`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Set App Volume Like Windows Does — on Your Mac",
+    description: "Windows has a per-app volume mixer, but macOS doesn't. Here's how to set independent volume for every app on your Mac — fast, safely, and without drivers.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>macOS has no built-in per-app volume mixer like the one in Windows, so the fastest reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a Mac App Store menu-bar app that gives every app its own volume slider, per-app mute, and volume boost. It's sandboxed, Apple-reviewed, installs with no drivers, and costs €14.99 once.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Set App Volume Like Windows Does — on Your Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why Windows can do this and macOS can't</h2>
+<p>If you've used Windows, you know the drill: right-click the speaker icon, open Volume Mixer, and drag a separate slider for Chrome, Spotify, Discord, and anything else making noise. It's simple and it just works.</p>
+<p>macOS never shipped an equivalent. Apple's audio controls are global — one master volume for the whole system. You can mute an app by muting the source inside that app (if it even has a control), but there's no unified place to say "keep my music at 40% while my meeting stays at 100%." That gap is exactly why third-party mixers exist.</p>
+
+<h2>The fastest fix: a menu-bar mixer</h2>
+<p>The closest match to the Windows experience is a menu-bar app that lists your running audio apps and gives each one a slider. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> does precisely this. Click its icon in the menu bar and you get:</p>
+<ul>
+<li><strong>Independent volume for every app</strong> — drag Spotify down without touching your call.</li>
+<li><strong>Per-app mute</strong> — silence one noisy app instantly, leave the rest playing.</li>
+<li><strong>Per-app volume boost</strong> — push a too-quiet app <em>above</em> 100% when its own max is still too soft.</li>
+<li><strong>Volume profiles</strong> — save a "Work" or "Gaming" mix and recall it in one click.</li>
+<li><strong>Auto-ducking</strong> — automatically lower background audio when something more important starts.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other outputs from the same menu.</li>
+</ul>
+<p>Because it's on the Mac App Store, it's sandboxed and reviewed by Apple, it installs cleanly, and there's no DMG to drag, no kernel extension, and no audio driver to approve in System Settings. That last part matters more than it sounds — driver-based tools are the ones that tend to break after macOS updates.</p>
+
+<h2>How to set it up (about two minutes)</h2>
+<ul>
+<li><strong>1.</strong> Install SoundDial from the Mac App Store and launch it.</li>
+<li><strong>2.</strong> Grant the audio permission macOS prompts for — this is what lets the app see per-app streams.</li>
+<li><strong>3.</strong> Click the SoundDial icon in your menu bar. Every app currently playing audio shows up with its own slider.</li>
+<li><strong>4.</strong> Drag any app's slider to set its level, or hit mute. Boost past 100% when an app is too quiet.</li>
+<li><strong>5.</strong> (Optional) Save your current mix as a profile so you can restore it later, and turn on auto-ducking if you want background audio to drop automatically.</li>
+</ul>
+<p>That's the whole workflow. It behaves like the Windows Volume Mixer you already know, minus the setup friction.</p>
+
+<h2>What about the free and pro alternatives?</h2>
+<p>There are other ways to get per-app volume on a Mac. They're worth knowing so you can choose honestly.</p>
+<blockquote>Free tools trade money for reliability and features; pro tools trade money and setup for depth you may not need.</blockquote>
+<p><strong>Background Music</strong> is free and open-source, and it does provide per-app volume. The catch: it hooks deep into the audio system and has a history of breaking on newer macOS releases, and it lacks boost, profiles, and auto-ducking. If it works on your setup, great — but it's a gamble across upgrades.</p>
+<p><strong>FineTune</strong> is a free, open-source menu-bar app in the same spirit as SoundDial. It's a fine starting point if budget is the only concern, though it's a community project without the profiles and ducking polish.</p>
+<p><strong>eqMac</strong> is a free system-wide EQ and booster. It's great for shaping overall sound, but it isn't a true per-app mixer — you're adjusting the whole output, not individual apps.</p>
+<p><strong>SoundSource</strong> by Rogue Amoeba (around $39) is the pro-grade option: per-app EQ, output routing per app, and serious audio-engineer features. It's excellent — but it needs a direct download and installs an audio capture component, and it costs more than double what SoundDial does. If you want studio-level routing and EQ, it's the pick. If you just want the Windows-style mixer, it's overkill.</p>
+
+<h2>Which one should you get?</h2>
+<p>If your goal is "make my Mac work like the Windows Volume Mixer" without downloads, drivers, or risk, SoundDial is the cleanest answer. You get per-app volume, mute, boost, profiles, and auto-ducking, all App Store-safe, for a one-time €14.99 — no subscription. Choose SoundSource instead only if you specifically need per-app EQ and output routing, and try the free options if you're comfortable troubleshooting them across macOS updates.</p>
+
+<p><strong>Ready to give every app its own volume?</strong> <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and set up your first mix in about two minutes.</p>
+`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "How to Make Your Mac Louder for Hard-of-Hearing Listening",
+    description: "Struggling to hear your Mac even at max volume? Learn how to boost and clarify audio per app for hard-of-hearing listening, including SoundDial and built-in tips.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `
+<p>If your Mac isn't loud enough even at maximum volume, the fastest reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a Mac App Store menu-bar mixer that lets you boost any single app past 100% and mute everything else. That means louder, clearer speech from FaceTime, video, or a movie player without cranking your whole system. It's €14.99, one-time.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Make Your Mac Louder for Hard-of-Hearing Listening" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why maxing the volume slider still isn't enough</h2>
+<p>For hard-of-hearing listeners, the macOS volume slider has two frustrating limits. First, it caps at 100% of what the app itself outputs. If a podcast, video, or call was recorded quietly, "full volume" is still too soft. Second, macOS has no built-in per-app volume mixer. Windows has had one for years, but on a Mac every app shares a single master level. So when you turn everything up to hear a soft voice, background music and notification sounds get uncomfortably loud too.</p>
+<p>What you actually need is the ability to make <em>one</em> app louder than the rest, push it beyond its normal ceiling, and cut competing sounds so speech stands out. That's exactly the gap these tools fill.</p>
+
+<h2>First, use the free macOS accessibility settings</h2>
+<p>Before adding any app, it's worth setting up what macOS already offers. These help clarity, though they don't add raw loudness:</p>
+<ul>
+<li><strong>Mono audio:</strong> System Settings &rarr; Accessibility &rarr; Audio, turn on "Play stereo audio as mono." If your hearing is stronger in one ear, this sends the full signal to both, so you don't lose half the dialogue.</li>
+<li><strong>Balance adjustment:</strong> In System Settings &rarr; Sound, drag the left/right balance toward your stronger ear.</li>
+<li><strong>Reduce background sounds:</strong> Lower music and ambience in apps that allow it, so voices aren't fighting a soundtrack.</li>
+<li><strong>Headphone accommodations:</strong> If you use AirPods or Beats, System Settings &rarr; Accessibility &rarr; Audio &rarr; Headphone Accommodations can amplify soft sounds and tune for speech.</li>
+</ul>
+<p>These are genuinely useful and cost nothing. But none of them make a single quiet app <em>louder than 100%</em>, and that's usually the real problem.</p>
+
+<h2>How to boost one app past 100% with SoundDial</h2>
+<p>SoundDial lives in your menu bar and shows a slider for every app currently playing sound. Here's the workflow that helps most for hard-of-hearing listening:</p>
+<ul>
+<li><strong>Boost the app you're listening to.</strong> Drag its slider above 100% to amplify a quiet video call or podcast beyond what the app allows on its own.</li>
+<li><strong>Mute or lower everything else.</strong> Pull down music, browser tabs, or notification sounds so nothing competes with the voice you're trying to follow.</li>
+<li><strong>Turn on auto-ducking.</strong> When you start speaking on a call, SoundDial automatically dips other audio so the person you're talking to comes through clearly, then restores it after.</li>
+<li><strong>Save a volume profile.</strong> Create a "video calls" profile where your conferencing app is boosted and everything else is quiet, then switch to it instantly instead of re-adjusting every time.</li>
+<li><strong>Switch output quickly.</strong> Jump between speakers, a headset, or a hearing-aid-connected device from the same menu, without digging through System Settings.</li>
+</ul>
+<p>The boost feature is the key one here. Because it raises the app's output above its native maximum, a whisper-quiet recording becomes something you can actually hear, while the rest of your system stays at a comfortable level.</p>
+
+<h2>A quick word on distortion</h2>
+<p>Any software boost amplifies whatever is in the signal, so pushing far past 100% on already-loud audio can introduce clipping. In practice, boosting <em>quiet</em> content up to a comfortable, intelligible level sounds clean. Start modestly, raise until speech is clear, and back off if it starts to sound harsh. Protecting your remaining hearing matters, so aim for clarity rather than maximum loudness.</p>
+
+<h2>How SoundDial compares to the alternatives</h2>
+<p>You have a few options, and honesty helps you choose the right one:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39):</strong> Genuinely pro-grade, with per-app EQ and output routing. If you want to sculpt frequencies for hearing loss, it's powerful. But it costs more than twice as much, requires a direct download, and installs an audio-capture driver. That's more setup and system access than many people want.</li>
+<li><strong>Background Music (free, open-source):</strong> Offers per-app volume for free, but it lacks boost, profiles, and auto-ducking, and it can break on newer macOS versions since it hooks deep into the audio system.</li>
+<li><strong>FineTune (free, open-source):</strong> A lightweight menu-bar volume app. Fine for basics, but without the boost, profiles, and ducking that hard-of-hearing listeners lean on.</li>
+<li><strong>eqMac (free):</strong> An equalizer with a booster. Useful for shaping sound, but it's built around EQ rather than clean per-app mixing and profiles.</li>
+</ul>
+<p>Where <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> stands out is the balance of price, safety, and the specific features that matter here. Because it's on the Mac App Store, it's Apple-reviewed and sandboxed, installs cleanly with no DMG, and needs no audio drivers or system extensions. You get per-app boost, mute, volume profiles, and auto-ducking in one €14.99 one-time purchase, with nothing digging into the macOS audio stack.</p>
+
+<h2>The bottom line</h2>
+<p>Set up the free macOS accessibility options first, they're worth having. But if the real issue is that one app is simply too quiet, you need a tool that can push a single app past 100% and quiet the rest. That's the whole point of a per-app boost, and macOS doesn't do it on its own.</p>
+
+<p>Ready to actually hear your Mac? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for €14.99, boost the app you need, and let auto-ducking and profiles keep speech clear.</p>
+`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "How to Boost a Quiet App on Mac (Past Max Volume)",
+    description: "One app too quiet even at 100%? Boost just that app past its max on Mac with SoundDial, a per-app volume mixer. Here's the fastest fix plus alternatives.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `
+<p>If one app is too quiet even at max volume, the fastest reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a menu-bar per-app volume mixer for macOS. It gives every app its own slider plus a volume <strong>boost</strong> that pushes a single app past 100%, so a whisper-quiet video call or browser tab gets louder without touching your system volume. It's a one-time €14.99 app on the Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Boost a Quiet App on Mac (Past Max Volume)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why one app is quiet even at 100%</h2>
+<p>macOS only has one master volume. When you raise it, everything gets louder together. But each app also outputs sound at its own internal level, and that level varies wildly. A quietly mastered YouTube clip, a Zoom caller with a bad mic, a game with low dialogue mixing, or a browser tab with a soft stream can all sit far below everything else, even with your Mac at full blast.</p>
+<p>The real problem: macOS has <strong>no built-in per-app volume mixer</strong>. Windows has had one for years (the Volume Mixer, right-click the speaker icon). On a Mac, there's no native way to turn one app up while leaving the rest alone, and definitely no way to amplify a single app <em>above</em> its normal maximum. That's the gap you're hitting.</p>
+
+<h2>The fastest fix: boost just that one app</h2>
+<p>A per-app mixer solves this by inserting itself between your apps and your output, so it can raise or lower each stream independently, and boost one beyond 100%. With <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, the flow is short:</p>
+<ul>
+<li>Install from the Mac App Store and open it. It lives in your menu bar, not a floating window.</li>
+<li>Click the menu-bar icon to see a slider for every app currently playing audio.</li>
+<li>Find the quiet app and drag its slider past 100% to apply boost. It amplifies that app only.</li>
+<li>Leave everything else where it is. Your system volume and other apps stay untouched.</li>
+</ul>
+<p>Because the boost is per app, you can push a soft video call up to a comfortable level while keeping music or notifications from becoming ear-splitting. That's the core thing the built-in macOS controls simply can't do.</p>
+
+<h2>A note on boost and clipping</h2>
+<p>Boost is genuinely useful, but it's amplification, not magic. If an app's original audio is very quiet or already distorted, cranking it hard can introduce clipping or make background hiss more obvious. In practice, a moderate boost fixes the vast majority of "this call is too quiet" situations cleanly. Nudge it up until the app is comfortable rather than slamming it to the ceiling, and you'll keep the sound clean.</p>
+
+<h2>Beyond boosting: what else helps</h2>
+<p>Once you have per-app control, a few features make the quiet-app problem disappear for good:</p>
+<ul>
+<li><strong>Volume profiles</strong> — save a setup (e.g. "boost Zoom, lower Spotify, mute Slack") and recall it in one click instead of re-dragging sliders every meeting.</li>
+<li><strong>Auto-ducking</strong> — automatically dip other apps when a chosen app plays, so a boosted call is heard clearly over background audio.</li>
+<li><strong>Per-app mute</strong> — silence one noisy app without pausing anything else.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, or an external interface from the same menu.</li>
+</ul>
+
+<h2>What about the free and pro alternatives?</h2>
+<p>You have options, and honesty matters here, so here's the real landscape.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) is the pro-grade choice at around $39. It does per-app volume plus per-app EQ and full output routing, more power than most people need. The trade-offs: it costs more than double, it's a direct download rather than App Store, and it installs an audio-capture driver to do its work. If you want an audio engineer's toolkit, it's excellent. If you just want one app louder, it's overkill.</p>
+<p><strong>Background Music</strong> is free and open-source, and it can do basic per-app volume. But it's a community project that has a history of breaking on newer macOS versions, and it lacks boost past 100%, profiles, and auto-ducking. Great if free is the only requirement and you don't mind occasional breakage.</p>
+<p><strong>FineTune</strong> is a free open-source menu-bar app, and <strong>eqMac</strong> is a free EQ and system booster. Both are worth trying if your budget is zero. Just know they're community-maintained, EQ-focused or lighter on per-app management, and don't bundle profiles plus ducking in one polished package.</p>
+<p>Where <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lands: it's the middle path. Cheaper than SoundSource, more capable and more reliable than the free tools, and it's on the <strong>Mac App Store</strong>, which means Apple-reviewed, sandboxed, and it installs cleanly with <strong>no DMG and no audio drivers or extensions</strong> to bolt onto your system. For most people the honest recommendation is simple: if you want the least-hassle fix that also gives you boost, profiles, and auto-ducking, it's the best value at €14.99 one-time.</p>
+
+<h2>Quick answer, restated</h2>
+<blockquote>To make one Mac app louder than its maximum, use a per-app volume mixer with boost. Open SoundDial from the menu bar, find the quiet app's slider, and drag it past 100%. Only that app gets louder.</blockquote>
+
+<p>Stop fighting a single volume slider for your whole Mac. Get <a href="https://apps.apple.com/app/id6772792641">SoundDial on the Mac App Store</a> for €14.99 once, boost that quiet app past its limit in seconds, and save a profile so you never have to think about it again.</p>
+`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "How to Amplify Quiet Videos & Podcasts on Your Mac",
+    description: "Some YouTube videos, podcasts, and lectures are just too quiet even at 100%. Here's how to boost per-app volume past the max on macOS with SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `
+<p>The fastest, reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a Mac App Store menu-bar mixer that gives every app its own volume slider and a real <strong>boost</strong> that pushes past 100%. Open your browser or podcast player, drag its slider above max, and a quiet video or lecture instantly gets louder — no drivers, no restart.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Amplify Quiet Videos & Podcasts on Your Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why some videos and podcasts are just too quiet</h2>
+<p>You crank your Mac to 100%, and the interview is still a whisper. This isn't your imagination. Audio is mastered at wildly different loudness levels — a webinar recorded on a laptop mic, a quiet indie podcast, or an old lecture upload can sit 15–20 dB below a professionally produced YouTube video. Your system volume is already maxed, so there's no headroom left to give.</p>
+<p>Here's the catch: macOS has <strong>no built-in per-app volume mixer</strong>. Windows has had one for years (the Volume Mixer in the system tray), but on a Mac, the volume keys move one global level for everything. There's no native way to say "make only this browser tab louder" — let alone push a single app past 100%.</p>
+
+<h2>The real fix: per-app volume boost</h2>
+<p>To make a quiet source louder than your speakers normally allow, you need software that applies gain to <em>that app specifically</em> and can amplify beyond the 100% ceiling. That's exactly what a per-app mixer with a boost feature does.</p>
+<p>With <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, every running app shows up in a menu-bar list with its own slider. Slide a quiet app up to 150% or 200% and the audio is amplified in real time. Because the boost is per-app, everything else — your music, notifications, a call in another window — stays at a normal level. You're not blasting your whole system to hear one soft podcast.</p>
+<blockquote>Global volume asks "how loud is the Mac?" A per-app mixer asks "how loud is <em>this</em> app?" — which is the question that actually matters when one video is quiet and the rest are fine.</blockquote>
+
+<h2>How to boost a quiet video or podcast, step by step</h2>
+<ul>
+<li><strong>Install SoundDial</strong> from the Mac App Store. It's sandboxed and Apple-reviewed, so it installs cleanly like any other app — no separate download, no audio driver, no permission gauntlet.</li>
+<li><strong>Start playing</strong> the quiet video, podcast episode, or lecture in whatever app you use — Safari, Chrome, a podcast client, VLC.</li>
+<li><strong>Click the SoundDial icon</strong> in your menu bar. You'll see a slider for each app currently making sound.</li>
+<li><strong>Drag that app's slider above 100%</strong> — try 150% first, then push higher if it's still too soft. The change is instant.</li>
+<li><strong>Leave everything else alone.</strong> Only the app you boosted gets louder; your system stays balanced.</li>
+</ul>
+<p>If you find yourself boosting the same apps every day — say, a podcast player and your browser — you can save that setup as a <strong>volume profile</strong> and recall it in one click instead of re-adjusting each time.</p>
+
+<h2>A word of caution on boosting</h2>
+<p>Amplifying past 100% adds gain, and gain has limits. Push a very quiet, low-quality recording hard enough and you may hear clipping or distortion — that's the source running out of clean signal, not a flaw in the app. Boost until it's comfortably audible, then back off if it starts sounding harsh. On built-in laptop speakers, extreme boost can also strain the drivers, so go easier there than with good headphones or external speakers.</p>
+
+<h2>What about free or built-in options?</h2>
+<p>You have alternatives, and it's worth being honest about them:</p>
+<ul>
+<li><strong>System volume + app-level sliders.</strong> Some players (VLC, a few browsers via extensions) let you boost their own audio. Fine if you only ever need it in one app — but you're stuck configuring each app separately, with no unified control and no profiles.</li>
+<li><strong>eqMac</strong> is a free EQ and booster. It can raise system-wide loudness, but it's a global tool, not a clean per-app mixer, and it works at the whole-output level.</li>
+<li><strong>Background Music</strong> is free and open source and does offer per-app volume. But it relies on an audio-capture setup that can break on newer versions of macOS, and it lacks a dedicated boost, profiles, and auto-ducking.</li>
+<li><strong>FineTune</strong> is a free open-source menu-bar app — a lightweight option if you want the basics and don't mind community-maintained software.</li>
+<li><strong>SoundSource</strong> by Rogue Amoeba (~$39) is the pro-grade heavyweight: per-app EQ, output routing, the works. It also requires a download and an audio-capture driver, and it costs more than double SoundDial. Overkill if all you want is to make quiet audio louder.</li>
+</ul>
+
+<h2>Why SoundDial is the practical choice</h2>
+<p>SoundDial sits in the sweet spot for this exact problem. It's <strong>€14.99 one-time</strong> — no subscription — and it lives on the <strong>Mac App Store</strong>, which means it's sandboxed, reviewed by Apple, and installs without any DMG or system extension to trust. You get the per-app boost you actually came for, plus profiles, per-app mute, quick output switching, and <strong>auto-ducking</strong> that dips other apps when you need to focus on one. It does the loud thing simply, and does the rest well.</p>
+
+<p><strong>Tired of straining to hear quiet videos and podcasts?</strong> <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for €14.99 and give every app its own volume — with the boost to hear anything clearly.</p>
+`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "How to Set a Different Volume for Each App on Mac",
+    description: "macOS has no built-in per-app volume mixer. Here's how to set independent, persistent volume levels for each app on Mac using SoundDial and the alternatives.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>macOS has no built-in way to set a different volume for each app, so you need a menu-bar volume mixer. The fastest, most reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a Mac App Store app that gives every application its own volume slider, per-app mute, and a boost that pushes quiet apps past 100%. Set your levels once and they stick.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Set a Different Volume for Each App on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why Mac has no per-app volume control</h2>
+<p>If you've switched from Windows, you've probably gone looking for the equivalent of the Windows Volume Mixer, that little panel where each app has its own slider. It isn't there. macOS only offers one global system volume. Whether it's a YouTube video, a Zoom call, Spotify, or a game, they all share the same master level.</p>
+<p>That's fine until it isn't. Discord chat drowns out your music. A browser ad blasts at full volume while your podcast plays quietly underneath. Your game is deafening but the voice call in the background is too soft. The only "solution" Apple gives you is to open each app and adjust its internal volume manually, if the app even has one, and redo it every session.</p>
+<p>To get real per-app control, you need a small utility that sits between your apps and your output device. Below is how to do it properly, plus honest notes on the alternatives.</p>
+
+<h2>The fastest way: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lives in your menu bar and lists every app that is currently playing audio. Each one gets an independent slider. Here's the whole workflow:</p>
+<ul>
+<li><strong>Install from the Mac App Store.</strong> It's Apple-reviewed and sandboxed, so there's no DMG, no audio driver, and no kernel or system extension to approve. It installs like any normal app and can be removed the same way.</li>
+<li><strong>Click the menu-bar icon.</strong> You'll see a slider for each active app, plus a master control.</li>
+<li><strong>Drag to set levels.</strong> Turn Discord down, nudge Spotify up, mute a noisy browser tab's app entirely with one click.</li>
+<li><strong>Boost quiet apps.</strong> If an app is too soft even at 100%, push it above 100% with per-app boost.</li>
+<li><strong>Save a profile.</strong> Store your "gaming," "work call," or "music" mix and switch between them instantly instead of re-dragging sliders every day.</li>
+</ul>
+<p>Two features are worth calling out because they solve the most annoying scenarios:</p>
+<ul>
+<li><strong>Auto-ducking</strong> automatically lowers other apps when a chosen app plays, so your music dips when a call comes in and returns afterward, no manual fiddling.</li>
+<li><strong>Quick output switching</strong> lets you jump between headphones and speakers from the same menu without diving into System Settings.</li>
+</ul>
+<p>Because levels are remembered per app and saved into profiles, this is the part most people actually want: you set it once and it <em>stays</em> set.</p>
+
+<h2>The free and paid alternatives, honestly compared</h2>
+<p>SoundDial isn't the only option, and depending on your needs, a free tool might be enough. Here's a fair rundown.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource is the pro-grade heavyweight. Alongside per-app volume it does per-app EQ and full output routing, so you can send one app to headphones and another to speakers. It's genuinely excellent. The tradeoffs: it costs around $39, and it isn't a clean App Store install, it's a direct download that requires an audio-capture driver to be added to your system. If you're an audio professional who needs EQ and routing, it's worth it. If you just want each app at the right volume, it's more tool and more setup than you need.</p>
+
+<h2>Background Music (open-source, free)</h2>
+<p>Background Music is a free, open-source app that offers per-app volume and auto-pause. The catch is reliability: it installs a virtual audio device and has a history of breaking on newer macOS releases, sometimes requiring reinstalls or fixes after updates. It also lacks boost, saved profiles, and true auto-ducking. Great if you want free and don't mind occasional maintenance.</p>
+
+<h2>FineTune and eqMac</h2>
+<p>FineTune is a free, open-source menu-bar app, a lightweight starting point. eqMac is a free equalizer with a system-wide booster, aimed more at EQ and overall gain than at giving each app its own persistent slider. Both are worth trying if your need is narrow, but neither centers on the "different volume per app, saved as profiles" workflow.</p>
+
+<h2>Which should you choose?</h2>
+<ul>
+<li><strong>Want it to just work, cleanly, with profiles and auto-ducking?</strong> SoundDial at €14.99 one-time, from the App Store, with no drivers to install.</li>
+<li><strong>Need per-app EQ and audio routing and don't mind the price or the driver?</strong> SoundSource.</li>
+<li><strong>Want free and are okay tinkering when macOS updates?</strong> Background Music, FineTune, or eqMac.</li>
+</ul>
+<p>The real advantage of SoundDial is the combination: independent volume, mute, and boost for every app, saved into switchable profiles, with automatic ducking, all inside a sandboxed App Store download you can trust and uninstall in a click, for a one-time €14.99 rather than a subscription.</p>
+
+<blockquote>No driver, no extension, no DMG. Set each app's volume once, save it as a profile, and let auto-ducking handle the rest.</blockquote>
+
+<p>Ready to give every app its own volume? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and set your perfect mix in about a minute.</p>
+`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Make One App Quieter Than Everything Else on Mac",
+    description: "One loud app drowning out the rest on your Mac? Here's the fastest, reliable way to turn down a single app's volume without touching the others.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `
+<p>To turn one app down while everything else stays put, use <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a menu-bar per-app volume mixer for macOS. Open it, find the loud app in the list, and drag its slider down. That app gets quieter instantly while your music, calls, and other audio keep their own levels. It's the fastest, most reliable fix.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Make One App Quieter Than Everything Else on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why macOS makes this so hard</h2>
+
+<p>Here's the frustrating truth: macOS has no built-in per-app volume mixer. Windows has had one for years (right-click the volume icon, open the Volume Mixer, done), but on a Mac the volume keys and the menu-bar slider only control one thing: the master output. Turn it down and everything goes quieter together. Turn it up and the loud app is still loud, just louder along with the rest.</p>
+
+<p>So when a game's sound effects are blasting, a browser tab is auto-playing an ad, or notification dings keep spiking over your podcast, your only native options are clumsy: mute the whole system, dig into each app's own volume setting (if it even has one), or quit the offender entirely. None of that lets you simply say "make this one app quieter and leave everything else alone."</p>
+
+<h2>The fast fix: a per-app volume mixer</h2>
+
+<p>A per-app volume mixer gives every running app its own independent slider. That's exactly the control you're missing. With <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> it looks like this:</p>
+
+<ul>
+<li><strong>Open the menu-bar mixer.</strong> Click the SoundDial icon and you'll see a live list of every app currently playing audio.</li>
+<li><strong>Find the loud one.</strong> The game, the browser, the video call, the notification sounds, whatever is drowning the rest.</li>
+<li><strong>Drag its slider down.</strong> Set it to 40%, 20%, wherever it feels balanced. The change is instant and it only affects that app.</li>
+<li><strong>Leave everything else alone.</strong> Your music player, your call, your other tabs, they all keep the volume you set for them.</li>
+</ul>
+
+<p>You can also fully mute a single app with one click while others keep playing, or boost a quiet app above 100% if it's too soft. No restarting the app, no menu-diving.</p>
+
+<h2>Common cases where this saves you</h2>
+
+<ul>
+<li><strong>A loud game over background music.</strong> Drop the game to a comfortable level and keep your playlist at full volume underneath it.</li>
+<li><strong>Browser ads and video that spike.</strong> Pin your browser lower so a surprise autoplay never blasts you.</li>
+<li><strong>Notification dings over a call or podcast.</strong> Turn down the notification-heavy app without silencing the audio you actually care about.</li>
+<li><strong>A quiet video call under loud media.</strong> Instead of turning the loud app down, boost the call above 100% so you can hear people clearly.</li>
+</ul>
+
+<h2>Set it once with volume profiles and auto-ducking</h2>
+
+<p>Fixing one loud app is nice, but you probably want it to stay fixed. SoundDial has two features that make this permanent:</p>
+
+<p><strong>Volume profiles</strong> let you save a set of per-app levels and recall them in a click. Build a "Gaming" profile where the game sits at 30% and music at 100%, and a "Work" profile where calls are boosted and everything else is toned down. Switch contexts without re-dragging sliders every time.</p>
+
+<p><strong>Auto-ducking</strong> automatically lowers other apps when a chosen app plays, then brings them back afterward, so a loud app never fully hijacks your audio in the first place. Between profiles, ducking, and quick output switching (jump between speakers and headphones without opening System Settings), you set your balance once and stop babysitting the volume.</p>
+
+<h2>How SoundDial compares to the alternatives</h2>
+
+<p>There are other ways to get per-app volume on a Mac. Here's an honest look:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> is genuinely pro-grade: per-app EQ and full output routing on top of volume control. But it costs more than double, and it needs a separate download plus an audio-capture driver. If you want a studio-level toolkit, it's excellent. If you just want to turn one app down, it's more than you need.</li>
+<li><strong>Background Music</strong> is free and open-source, which is great, but it can break on newer macOS versions, and it lacks volume boost, profiles, and auto-ducking.</li>
+<li><strong>FineTune</strong> is a free open-source menu-bar app, and <strong>eqMac</strong> is a free EQ with a booster. Both are worth trying if free is your priority, but you're trading polish, reliability, and features for the price.</li>
+</ul>
+
+<p>SoundDial sits in the sweet spot: €14.99 one-time, no subscription. Because it's on the Mac App Store, it's Apple-reviewed and sandboxed, and it installs cleanly with no DMG, no audio drivers, and no system extensions to approve. You get the features that actually matter for this problem, per-app volume, mute, boost, profiles, and auto-ducking, without a $39 price tag or a fragile free tool.</p>
+
+<h2>The bottom line</h2>
+
+<p>macOS won't let you turn down a single app on its own, but that's a gap you can close in seconds. Install a per-app mixer, drag the loud app's slider down, and the rest of your audio stays exactly where you want it. Save a profile and you'll never fight this again.</p>
+
+<p><strong>Ready to silence the one app that keeps drowning the rest?</strong> Get <a href="https://apps.apple.com/app/id6772792641">SoundDial on the Mac App Store</a> for €14.99, one payment, no drivers, no subscription.</p>
+`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac Audio Mixer for Streamers: Balance Mic, Game & Music",
+    description: "The fastest way to balance mic, game audio, music and alerts while streaming on Mac. SoundDial gives you a per-app volume mixer with profiles and ducking.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `
+<p>To balance your mic, game, music and alerts while streaming on a Mac, the fastest reliable fix is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a menu-bar per-app volume mixer. macOS has no built-in mixer, so SoundDial lets you set independent levels per app, boost quiet sources, save streaming profiles, and auto-duck music when you talk.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Audio Mixer for Streamers: Balance Mic, Game & Music" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>The problem: macOS has no per-app volume control</h2>
+<p>Windows has had the Volume Mixer for years. macOS still does not ship one. Your system volume slider moves everything at once, which is useless when you're live. During a stream you're juggling at least four sources that all fight for the same output:</p>
+<ul>
+<li><strong>Your voice / mic monitoring</strong> — needs to sit above everything.</li>
+<li><strong>Game audio</strong> — loud, dynamic, and prone to spiking during action.</li>
+<li><strong>Background music</strong> — should stay quiet under your commentary.</li>
+<li><strong>Alerts and chat sounds</strong> — Discord, Stream Deck, follower alerts, notifications.</li>
+</ul>
+<p>Without per-app control you end up riding the game's in-app slider, muting Spotify by hand, and praying a loud cutscene doesn't blow out your viewers. That's not a mix, it's damage control.</p>
+
+<h2>What a proper streaming mixer needs to do</h2>
+<p>A creator-focused audio setup on Mac should give you four things: independent per-app levels, the ability to boost a source that's too quiet, saved configurations you can recall instantly, and automatic ducking so music drops the moment you speak. SoundDial covers all four from the menu bar.</p>
+
+<h3>1. Independent volume for every app</h3>
+<p>Set the game to 60%, music to 25%, Discord to 80%, and your browser to 40% — each app has its own slider. Nothing bleeds into anything else. You can also per-app mute instantly when a source misbehaves mid-stream, without touching the app itself.</p>
+
+<h3>2. Volume boost for quiet sources</h3>
+<p>Some apps and games are simply too quiet even at 100%. SoundDial's per-app boost pushes a source past its normal ceiling so a mumbly game or a low-volume video sits where you need it in the mix — no re-encoding, no plugins.</p>
+
+<h3>3. Volume profiles for different scenes</h3>
+<p>This is the feature that saves streamers the most time. Your "Just Chatting" mix (music up, game down) is different from your "Boss Fight" mix (game up, music near-silent), which is different from your "BRB" mix. Save each as a profile and switch with one click instead of dragging four sliders live.</p>
+
+<h3>4. Auto-ducking so music ducks under your voice</h3>
+<p>Auto-ducking automatically lowers background audio when you talk and brings it back when you stop. For solo streamers this is the difference between commentary that's clear and music that constantly buries your voice — handled automatically instead of manually.</p>
+
+<h2>Where OBS fits in</h2>
+<p>OBS is your broadcast tool, not your desktop volume mixer. OBS controls what levels go into the stream via its Audio Mixer panel and filters, but it works from the audio sources it captures — it doesn't reach into individual macOS apps and turn them down at the system level. On Mac, getting clean per-app desktop audio into OBS has always been the painful part.</p>
+<p>The practical workflow: use SoundDial to set the actual per-app levels on your Mac so what comes out is already balanced, then let OBS capture and fine-tune the broadcast levels. Set the mix once at the source and OBS has far less to fight with. Quick output switching in SoundDial also lets you jump between headphones and speakers without diving into System Settings between scenes.</p>
+
+<h2>SoundDial vs. the alternatives</h2>
+<p>You have options, and honesty matters here:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> — pro-grade with per-app EQ and full output routing. It's excellent, but it costs more than double, requires a direct download, and installs an audio-capture driver. Overkill if you mainly need clean per-app levels, boost, and ducking.</li>
+<li><strong>Background Music (free, open-source)</strong> — genuinely useful and free, but it can break on newer macOS versions, and it has no boost, no profiles, and no auto-ducking — the exact features streamers lean on.</li>
+<li><strong>FineTune (free, open-source menu-bar app)</strong> — lightweight per-app control, but a community project without the profiles-plus-ducking combo built for live streaming.</li>
+<li><strong>eqMac (free EQ + booster)</strong> — good for tone-shaping and boosting, but it's an equalizer, not a per-app streaming mixer.</li>
+</ul>
+<p>SoundDial's angle: it's a <strong>€14.99 one-time</strong> purchase on the <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> — Apple-reviewed, sandboxed, and it installs cleanly with no DMG and no audio drivers or system extensions. That last part matters for streamers: fewer kernel-level components means fewer surprise breakages when macOS updates the night before your stream.</p>
+
+<h2>The honest trade-off</h2>
+<p>If you need broadcast-grade EQ and complex routing chains, SoundSource earns its price. If you want a free tinkerer's tool and don't mind occasional breakage, Background Music or FineTune will do. But if you want the mix that streaming actually demands — per-app levels, boost, saved scene profiles, and auto-ducking — from a safe App Store install that survives macOS updates, SoundDial is the most direct path for the money.</p>
+
+<p><strong>Ready to fix your stream audio?</strong> Get <a href="https://apps.apple.com/app/id6772792641">SoundDial on the Mac App Store</a> for €14.99 — set your mic, game, music and alert levels once, save them as profiles, and let auto-ducking keep your voice on top.</p>
+`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "How to Fix Audio Crackling and Popping on macOS Tahoe",
+    description: "Crackling or popping audio after updating to macOS Tahoe 26? Fix it by matching the sample rate, resetting CoreAudio, checking your Bluetooth codec, and clearing plug-in conflicts. Here's the full troubleshooting order.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>Crackling and popping after updating to macOS Tahoe 26 is almost always a sample-rate mismatch, a flaky Bluetooth codec negotiation, or a stuck CoreAudio process. Fix it by matching the output sample rate in Audio MIDI Setup, resetting <code>coreaudiod</code>, forgetting and re-pairing Bluetooth headphones, and quitting audio plug-in hosts. Work through them in order below.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Fix Audio Crackling and Popping on macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Start with the cheap fixes</h2>
+
+<p>Before you touch anything technical, rule out the two things that resolve most cases in under a minute:</p>
+
+<ul>
+<li><strong>Restart the Mac.</strong> A Tahoe update leaves audio daemons in a half-migrated state surprisingly often. A clean reboot reloads CoreAudio from scratch and clears the majority of post-update crackling.</li>
+<li><strong>Unplug and replug the output device.</strong> If it's a USB DAC, dock, or audio interface, disconnect it, wait a few seconds, and reconnect. Try a different USB port too, ideally one directly on the Mac rather than through a hub. Hubs and displays that pass audio are a common source of pops.</li>
+</ul>
+
+<p>If the noise survives a reboot, it's a configuration problem, not a glitch. Keep going.</p>
+
+<h2>Match the sample rate (the most common cause)</h2>
+
+<p>The classic Tahoe crackle comes from a sample-rate mismatch between what your device wants and what macOS is sending. When an app plays 44.1 kHz audio and the system is locked to 48 kHz (or vice versa), the resampling can stutter or pop.</p>
+
+<ul>
+<li>Open <strong>Audio MIDI Setup</strong> (in Applications → Utilities, or search Spotlight).</li>
+<li>Select your output device in the left sidebar.</li>
+<li>Look at the <strong>Format</strong> dropdown. Try setting it to <strong>48000.0 Hz, 2ch-24bit Integer</strong> and test.</li>
+<li>If popping continues, switch to <strong>44100.0 Hz</strong> and test again.</li>
+<li>For interfaces, make sure the sample rate matches your DAW's project rate.</li>
+</ul>
+
+<p>Toggling the format also forces CoreAudio to renegotiate the connection, which alone fixes many cases even when you land back on the same value.</p>
+
+<h2>Reset CoreAudio</h2>
+
+<p>CoreAudio runs as a background daemon called <code>coreaudiod</code>. After a major macOS update it can hold onto stale device state. Restarting it is safe and takes effect instantly, without a reboot.</p>
+
+<p>Open Terminal and run:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Enter your password when prompted. Your audio will cut out for a second, then the daemon relaunches automatically with a clean slate. This is the single most effective fix for crackling that appears out of nowhere on a machine that was fine before the update.</p>
+
+<h2>Check your Bluetooth headphones and codec</h2>
+
+<p>If the crackling only happens on AirPods or other Bluetooth headphones, the problem is usually codec negotiation, not your speakers. Wireless audio quality degrades when the connection is congested or when macOS drops into a low-bandwidth call mode.</p>
+
+<ul>
+<li><strong>Forget and re-pair the device.</strong> Go to System Settings → Bluetooth, remove the headphones, then pair them again. This resets the negotiated codec.</li>
+<li><strong>Watch for the call-mode drop.</strong> When an app opens the microphone, macOS switches Bluetooth headsets to a low-quality two-way profile, which sounds crunchy. Quit conferencing and voice apps you aren't using and the fidelity returns.</li>
+<li><strong>Reduce interference.</strong> Move away from crowded 2.4 GHz environments and disconnect Bluetooth devices you don't need. A busy radio band produces intermittent pops.</li>
+<li><strong>Turn off the mic input</strong> in an app's settings if you only need to listen, so macOS keeps the high-quality playback profile.</li>
+</ul>
+
+<h2>Quit audio plug-in hosts and virtual drivers</h2>
+
+<p>Third-party audio software that installs a system extension or virtual device is a frequent offender after an OS jump, because kernel and audio extensions often need updating for a new macOS version. Suspects include virtual audio routers, equalizer apps, loopback tools, and older driver-based utilities.</p>
+
+<ul>
+<li>Quit any equalizer, audio-router, or loopback app and test whether the crackling stops.</li>
+<li>Check System Settings → General → Login Items &amp; Extensions for audio extensions that may need an update or removal.</li>
+<li>Update those apps to their Tahoe-compatible releases, or uninstall the ones you no longer use. Stacked audio drivers frequently conflict with each other after a major update.</li>
+</ul>
+
+<p>If quitting one of these apps silences the pops, you've found your culprit. Reinstall the current version or leave it off.</p>
+
+<h2>Narrow it down: system-wide or one app?</h2>
+
+<p>Figure out whether the noise happens everywhere or only in specific software. Play a local audio file, then a browser video, then a music app. If only one app crackles, the fix is that app's own audio settings or an update, not macOS. If it's system-wide, the steps above are where the answer lives.</p>
+
+<p>When you're still stuck, boot into Safe Mode (hold the power button on Apple silicon, then choose your startup disk while holding Shift). Safe Mode loads no third-party extensions. If the audio is clean there, a login item or driver is the cause, and you can re-enable them one at a time to find it.</p>
+
+<h2>Once your audio is clean</h2>
+
+<p>Crackling is a driver and sample-rate problem, so the fixes above are what actually resolve it. But once playback is stable, you may notice a different limitation: macOS still has no built-in per-app volume mixer, the way Windows does. You can't turn a loud app down without turning everything down.</p>
+
+<p>That's the gap <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> fills. It's a menu-bar mixer that gives each app its own volume slider, per-app mute, and even a volume boost for quiet apps, plus quick output switching. It won't fix crackling, but once your audio is healthy it makes daily control far easier.</p>
+
+<p>Work through the steps above in order, and start with the reboot and the sample-rate check. If you later want real per-app control on your clean audio setup, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a €14.99 one-time purchase on the Mac App Store, sandboxed with no drivers or DMG to install.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods Stuttering or Cutting Out on Mac (Tahoe Fix)",
+    description: "AirPods stuttering, cutting out, or dropping audio on macOS Tahoe is almost always Bluetooth interference or auto-switch churn. Here's how to re-pair, cut 2.4GHz congestion, and stop the hand-offs that break playback.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>AirPods stuttering or cutting out on macOS Tahoe is almost always Bluetooth interference, not a broken headset. The usual culprits are 2.4GHz Wi-Fi and router congestion, aggressive automatic device switching, and a stale pairing. Re-pair the AirPods, turn off auto-switch, and move away from crowded 2.4GHz channels to fix most cases.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Stuttering or Cutting Out on Mac (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why AirPods drop on Mac specifically</h2>
+
+<p>AirPods use Bluetooth, which shares the crowded 2.4GHz radio band with Wi-Fi, microwaves, USB 3 devices, and just about every smart plug in your home. Your Mac is a busy radio: it juggles Wi-Fi, Bluetooth, AirDrop, and Continuity features on overlapping antennas. When that band gets congested, Bluetooth audio is the first thing to stutter, because it can't tolerate dropped packets the way a file transfer can.</p>
+
+<p>Tahoe didn't magically make your AirPods worse, but a fresh macOS install often resets radio behavior, re-enables Continuity hand-offs, and re-negotiates codecs. That's why problems seem to appear right after an update. The good news: the fixes are well understood and mostly free.</p>
+
+<h2>Fix 1: Re-pair the AirPods (do this first)</h2>
+
+<p>A stale or corrupted pairing survives reboots and causes intermittent drops that look random. Fully remove and re-add the connection:</p>
+
+<ul>
+<li>Open <strong>System Settings, Bluetooth</strong>.</li>
+<li>Click the info (i) button next to your AirPods and choose <strong>Forget This Device</strong>.</li>
+<li>Put the AirPods in their case, close the lid, wait 15 seconds, then open it.</li>
+<li>Hold the button on the back of the case until the light blinks white.</li>
+<li>Re-pair from the Bluetooth list.</li>
+</ul>
+
+<p>While you're there, make sure the AirPods firmware is current. There's no manual updater, but leaving them in the case near a connected iPhone or Mac for a while lets them update in the background.</p>
+
+<h2>Fix 2: Turn off automatic switching</h2>
+
+<p>This is the single biggest cause of "cutting out" for people in the Apple ecosystem. Your AirPods try to follow you between your Mac, iPhone, and iPad. Every time your phone thinks it should grab audio, the connection hiccups on your Mac, producing a half-second dropout mid-podcast.</p>
+
+<ul>
+<li>On the Mac: Bluetooth, click (i) next to the AirPods, set <strong>Connect to This Mac</strong> to <strong>When Last Connected to This Mac</strong> instead of Automatically.</li>
+<li>On the iPhone: Settings, tap your AirPods, <strong>Connect to This iPhone</strong>, choose <strong>When Last Connected to This iPhone</strong>.</li>
+</ul>
+
+<p>This stops the tug-of-war between devices. You'll manually pick where audio goes, which is a small price for stable playback.</p>
+
+<h2>Fix 3: Cut 2.4GHz congestion</h2>
+
+<p>If drops happen during video calls, downloads, or when other people are streaming, your radio band is saturated. A few practical moves:</p>
+
+<ul>
+<li><strong>Use the 5GHz Wi-Fi band</strong> on your Mac. In your router settings, give the 5GHz network a distinct name and connect to it. This frees the 2.4GHz band for Bluetooth.</li>
+<li><strong>Move USB 3 and Thunderbolt hubs away</strong> from your Mac and AirPods. USB 3 is a notorious 2.4GHz noise source; a hub sitting next to your laptop can wreck Bluetooth from inches away.</li>
+<li><strong>Change your router's 2.4GHz channel</strong> to 1, 6, or 11 (the non-overlapping options) and avoid crowded channels your neighbors are on.</li>
+<li><strong>Keep line of sight.</strong> Bodies and walls absorb 2.4GHz. If your Mac is behind you or in a bag, drops get worse.</li>
+</ul>
+
+<blockquote>Wi-Fi 6E and Wi-Fi 7 routers can help indirectly: pushing your devices onto 6GHz clears the 2.4GHz band that Bluetooth depends on. But a poorly configured mesh that keeps steering you back to 2.4GHz can make things worse. Check which band you're actually on.</blockquote>
+
+<h2>Fix 4: Reset the Bluetooth and Continuity stack</h2>
+
+<p>If re-pairing didn't hold, reset the radios themselves:</p>
+
+<ul>
+<li>Toggle Bluetooth off and on from the menu bar, then reboot the Mac. A reboot clears a surprising number of transient audio glitches.</li>
+<li>Reset the SMC/NVRAM on Intel Macs, or simply shut down fully (not restart) for 30 seconds on Apple Silicon.</li>
+<li>If you don't use AirDrop or Handoff, disabling Handoff in System Settings, General, AirDrop &amp; Handoff reduces background radio chatter.</li>
+</ul>
+
+<h2>What won't fix it (and what a volume mixer actually does)</h2>
+
+<p>To be clear about scope: none of this is a software-volume problem, and no volume app can repair a Bluetooth link. If your audio is <em>dropping</em>, chase the radio issue above. Apps like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> control per-app volume, mute, and output switching, they don't touch the Bluetooth stack, so they won't stop stuttering. Where a mixer genuinely helps is the adjacent annoyance many AirPods users conflate with dropouts: one app blasting while another is too quiet, or needing to jump outputs quickly. That's a volume-balance problem, not a connection one.</p>
+
+<p>Diagnose honestly. If audio cuts out for a beat and returns, it's interference or auto-switch. If levels are just uneven between apps, that's a mixing problem you can actually solve with software.</p>
+
+<h2>Quick checklist</h2>
+
+<ul>
+<li>Forget and re-pair the AirPods.</li>
+<li>Set both Mac and iPhone to <strong>When Last Connected</strong>, not Automatically.</li>
+<li>Move your Mac to 5GHz Wi-Fi; keep USB 3 hubs away.</li>
+<li>Set 2.4GHz to channel 1, 6, or 11.</li>
+<li>Reboot after toggling Bluetooth.</li>
+</ul>
+
+<p>Once the dropouts are gone and you just want cleaner control over how loud each app plays, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adds a proper per-app volume mixer, mute, boost, and quick output switching that macOS still doesn't include. It's a €14.99 one-time purchase on the Mac App Store, sandboxed, with no drivers to install.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Right Speaker Dead on Mac After the Tahoe Update? How to Fix It",
+    description: "One speaker or channel stopped working after updating to macOS Tahoe? Start with the audio balance slider, then reset Core Audio, try safe mode, and rule out hardware. A clear troubleshooting guide.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>If your right speaker went silent after updating to macOS Tahoe, check the audio <strong>balance slider</strong> first — it can shift during an update. Go to System Settings &gt; Sound &gt; Output and make sure Balance sits dead center. If that's fine, restart Core Audio, boot into safe mode, and then rule out hardware. Most cases are software.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Right Speaker Dead on Mac After the Tahoe Update? How to Fix It" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>First: the balance slider (fixes this more often than you'd think)</h2>
+
+<p>A stuck or shifted balance slider is the single most common reason one channel goes quiet — and macOS updates occasionally nudge it. Before you assume the worst:</p>
+
+<ul>
+<li>Open <strong>System Settings &gt; Sound</strong>.</li>
+<li>Click the <strong>Output</strong> tab and select your speakers (built-in, or your external device).</li>
+<li>Find the <strong>Balance</strong> slider and drag it to the exact center. If it was pulled left, your right channel would sound dead.</li>
+</ul>
+
+<p>Do this <em>per output device</em>. The balance setting is remembered separately for built-in speakers, headphones, and each external interface — so a centered built-in balance won't help if the problem is on your USB DAC.</p>
+
+<h2>Test whether it's actually a hardware channel</h2>
+
+<p>Rule the hardware in or out quickly. Play a stereo track you know well, then plug in a pair of wired headphones. If both channels work in headphones but not through the speakers, the issue is downstream of the audio engine (speaker hardware or the output path). If the same channel is dead in headphones too, it's more likely software or the logic board's audio codec.</p>
+
+<p>You can also open <strong>Music</strong> or QuickTime, play something, and toggle the balance hard left, then hard right. If audio moves cleanly between channels, both speakers are alive and this is purely a settings problem.</p>
+
+<h2>Restart Core Audio</h2>
+
+<p>macOS routes all sound through the <strong>coreaudiod</strong> process. After a major update, its state can get wedged — outputs disappear, channels drop, or volume behaves oddly. Restarting it is safe and forces macOS to rebuild the audio graph:</p>
+
+<ul>
+<li>Open <strong>Terminal</strong> (Applications &gt; Utilities).</li>
+<li>Run: <code>sudo killall coreaudiod</code></li>
+<li>Enter your password. The audio daemon relaunches automatically within a second or two.</li>
+</ul>
+
+<p>Nothing is deleted — this just reboots the audio subsystem. Test your right speaker again immediately afterward.</p>
+
+<h2>Reboot properly, then try safe mode</h2>
+
+<p>A full restart clears transient audio glitches that a killall won't. If the channel is still dead, boot into <strong>safe mode</strong>, which loads a minimal system and skips third-party audio extensions and login items:</p>
+
+<ul>
+<li><strong>Apple Silicon:</strong> Shut down. Hold the power button until "Loading startup options" appears. Select your disk, then hold <strong>Shift</strong> and click "Continue in Safe Mode."</li>
+<li><strong>Intel:</strong> Restart and hold <strong>Shift</strong> until the login window appears.</li>
+</ul>
+
+<p>If both speakers work in safe mode, a third-party audio driver, virtual device, or menu-bar utility installed before the update is conflicting with Tahoe's new audio stack. Boot back to normal and remove or update recently installed audio software (screen recorders, meeting apps, and audio-routing kexts are common culprits).</p>
+
+<h2>Reset NVRAM (Intel Macs only)</h2>
+
+<p>On Intel Macs, sound and speaker settings live in NVRAM/PRAM, and a stale value can survive an update. Reset it: shut down, then power on and immediately hold <strong>Option + Command + P + R</strong> for about 20 seconds, letting the Mac restart once. This is not applicable to Apple Silicon Macs — they manage this automatically, so skip it if you're on an M-series machine.</p>
+
+<h2>Update again — and check for a point release</h2>
+
+<p>Early releases of any major macOS version ship with audio driver bugs that later get patched. Head to <strong>System Settings &gt; General &gt; Software Update</strong> and install any pending Tahoe point release (14.x.1, 14.x.2, etc.). If a supplemental update exists, it often addresses exactly these post-update audio regressions.</p>
+
+<h2>When it's genuinely hardware</h2>
+
+<p>If safe mode, a Core Audio restart, and a clean reinstall all fail — and the same channel is dead in headphones — you may be looking at a hardware fault. The timing with an update can be coincidental; speaker amplifiers and audio codecs do fail. Run <strong>Apple Diagnostics</strong> (shut down, then hold the power button on Apple Silicon and choose Diagnostics, or hold <strong>D</strong> on Intel at startup). If it flags an audio component, contact <strong>Apple Support</strong> or an authorized service provider. Don't spend money on software for a blown speaker.</p>
+
+<blockquote>Quick rule of thumb: if audio pans correctly with the balance slider, both speakers are physically fine and your fix is in software. If it never moves to the dead side, suspect hardware.</blockquote>
+
+<h2>Where volume software fits (and where it doesn't)</h2>
+
+<p>To be clear: a dead speaker channel is not something a volume app fixes — the checks above are your path. That said, once your audio is healthy again, macOS still lacks something Windows has had for years: a real per-app volume mixer. If you found yourself digging through Sound settings because one app was blasting while another was too quiet, a menu-bar mixer like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lets you set independent volume, mute, and even boost per application without touching your system balance. It's a convenience tool for everyday mixing, not a repair for the problem in this article.</p>
+
+<h2>The short version</h2>
+
+<ul>
+<li>Center the <strong>Balance</strong> slider — per output device.</li>
+<li>Test with headphones to isolate hardware.</li>
+<li>Run <code>sudo killall coreaudiod</code>, then restart.</li>
+<li>Try <strong>safe mode</strong> to catch driver conflicts.</li>
+<li>Reset NVRAM on Intel; install any Tahoe point release.</li>
+<li>Still dead in headphones? Run Apple Diagnostics and call Apple.</li>
+</ul>
+
+<p>Once your speakers are back to normal, if juggling per-app volume is a daily annoyance, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adds the mixer macOS has always been missing — €14.99, one-time, sandboxed, no drivers.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods Stuck at Half Volume on Your Mac? Here's the Fix",
+    description: "Why AirPods connect to your Mac at half volume — usually a Bluetooth codec switch to the hands-free mic profile — plus the re-pair fixes and how to boost the level back up for good.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>AirPods usually drop to half volume on a Mac because macOS switched them from the high-quality A2DP audio profile to the low-quality hands-free (HFP) profile — the one built for phone-call microphone use. That mode caps output and quality. Fix it by forcing the Mac back to headphone-only audio, then boost the level to keep it there.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Stuck at Half Volume on Your Mac? Here's the Fix" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why this happens: the codec switch</h2>
+
+<p>Bluetooth audio devices like AirPods run in one of two modes. When you're just listening, macOS uses A2DP — full stereo, full loudness, clean quality. But the moment an app wants your microphone, macOS switches the whole connection to HFP (Hands-Free Profile). HFP is a two-way telephony codec. It sounds thin, mono-ish, and noticeably quieter, because it was designed for voice calls, not music.</p>
+
+<p>The problem is that macOS often stays stuck in HFP even after the app that grabbed the mic is done — or switches into it the instant you open Zoom, FaceTime, Teams, Discord, or a browser tab with mic permission. So your AirPods sound like they're at "half volume" not because the volume slider moved, but because the entire audio profile downgraded underneath you.</p>
+
+<p>You'll recognize it: audio suddenly gets quiet and muffled, the AirPods show up twice in your sound settings (once as output, once as a microphone), and turning the system volume all the way up barely helps.</p>
+
+<h2>The re-pair and codec workarounds</h2>
+
+<p>These are the honest first steps. Work through them in order — one of the early ones usually clears it.</p>
+
+<ul>
+<li><strong>Change your input device.</strong> Open System Settings → Sound → Input and pick your Mac's built-in microphone instead of the AirPods. This stops macOS from holding the AirPods in HFP mode, so output can climb back to full A2DP quality. This is the single most effective fix.</li>
+<li><strong>Toggle Bluetooth off and on.</strong> A quick reset of the connection often re-negotiates A2DP cleanly, especially if the AirPods got stuck after a call ended.</li>
+<li><strong>Reconnect the AirPods.</strong> Close the case, wait a few seconds, reopen it near the Mac, and reselect them as the output device.</li>
+<li><strong>Quit the app that grabbed the mic.</strong> Fully quit Zoom, Teams, Discord, or that browser tab. Some apps hold the mic session open in the background and pin HFP until they're gone.</li>
+<li><strong>Re-pair from scratch.</strong> Remove the AirPods under System Settings → Bluetooth (click the info button → Forget This Device), then pair again. This clears a corrupted profile negotiation that toggling alone won't fix.</li>
+<li><strong>Reset the AirPods.</strong> With them in the case lid open, hold the setup button on the back until the light flashes amber then white. Re-pair afterward. This is the nuclear option for firmware-level weirdness.</li>
+<li><strong>Update macOS and AirPods firmware.</strong> Apple has shipped Bluetooth audio fixes in point releases. AirPods firmware updates silently when they're charging near a connected device — so leave them in the case near your Mac overnight.</li>
+</ul>
+
+<blockquote><p>The pattern to watch: if the volume drops the instant you join a call and recovers when the call ends, it's the HFP switch — not a broken speaker or a settings glitch.</p></blockquote>
+
+<h2>Why the fixes don't always stick</h2>
+
+<p>Here's the frustrating part. Even after re-pairing, macOS will happily switch your AirPods back into the quiet hands-free mode the next time any app touches the mic. You can't permanently disable that behavior in system settings — Apple treats it as automatic. So you end up re-doing the input-device trick several times a day, and any moment your AirPods are in a call or a mic-hungry app, they're capped at that lower level again.</p>
+
+<p>There's also a second, separate issue people conflate with this one: some apps are just quieter than others at max system volume. A podcast player or a browser tab can sit well below what your ears want, even when the AirPods are running clean A2DP. macOS gives you one volume slider for everything and no per-app control, so there's no native way to push a single quiet app back up.</p>
+
+<h2>Boost the level back up — and keep it there</h2>
+
+<p>This is where a per-app volume mixer earns its place. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a menu-bar app for macOS that gives every running app its own independent volume slider — including a boost above 100%. So when your AirPods come back from a call at a lower effective level, or a specific app is simply too quiet, you drag that app past the normal ceiling and it stays there.</p>
+
+<p>Concretely, that means:</p>
+
+<ul>
+<li><strong>Per-app volume BOOST.</strong> Push a quiet app above the standard maximum instead of straining to hear it at "full" system volume.</li>
+<li><strong>Volume profiles.</strong> Save a set of levels — boosted browser, softer music, loud video calls — and switch the whole arrangement in one click so you're not re-adjusting after every reconnect.</li>
+<li><strong>Quick output switching.</strong> Jump between AirPods, laptop speakers, and an external DAC from the menu bar without digging through System Settings, which helps when you're forcing a fresh profile negotiation.</li>
+<li><strong>Per-app mute and auto-ducking.</strong> Silence one app without touching the rest, and let media dip automatically when something more important plays.</li>
+</ul>
+
+<p>It's worth being clear about what this does and doesn't do. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> won't force macOS to stay in A2DP — the input-device trick above is still your tool for the codec itself. What it does is give you back the loudness the downgrade stole, per app, so a quiet AirPods session or a stubbornly soft app is a one-drag fix instead of a lost cause. And because it's a sandboxed Mac App Store app, there's no audio driver to install, no DMG, no kernel extension — it just runs.</p>
+
+<h2>The short version</h2>
+
+<p>If your AirPods sound quiet and muffled on your Mac, switch your input device off the AirPods to force them out of hands-free mode, and re-pair if that fails. When the level still won't reach where you want it — or a single app is just too soft — reach for per-app boost so you set it once and move on.</p>
+
+<p>Tired of fighting the volume slider every time you take a call? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> — a one-time €14.99, no subscription, no drivers — and give every app its own volume.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Mac Volume Keeps Resetting Itself on Tahoe? How to Lock It for Good",
+    description: "Since macOS Tahoe, many Macs suddenly change or reset their volume on their own. Here's why it happens, how to stop the built-in causes, and how to lock a fixed volume per app so it stays put.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>If your Mac volume keeps resetting itself since macOS Tahoe, the fix is to eliminate the automatic adjusters: disable audio ducking and "Play sound on startup," reset the sound settings, and reconnect any Bluetooth output cleanly. For per-app levels that jump around, lock a fixed volume per app with a mixer so it never drifts again.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Volume Keeps Resetting Itself on Tahoe? How to Lock It for Good" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why your volume changes on its own after Tahoe</h2>
+
+<p>A volume that moves without you touching it feels like a hardware fault, but it's almost always software deciding your level for you. macOS has several automatic behaviors that quietly nudge or reset output, and Tahoe's audio-stack changes made a few of them more noticeable. Before you assume the app or the Mac is broken, it helps to know exactly which system is grabbing the slider.</p>
+
+<ul>
+<li><strong>Audio ducking:</strong> macOS lowers other audio when it thinks something more important is playing (Siri, accessibility announcements, notifications). After the trigger ends, the level sometimes doesn't come all the way back.</li>
+<li><strong>Bluetooth handshake resets:</strong> AirPods and other Bluetooth devices renegotiate volume on connect. Reconnecting mid-session can snap output to a default or to a much louder/quieter level.</li>
+<li><strong>Output device switching:</strong> When you unplug headphones, dock, or switch to a monitor's speakers, each output remembers its own volume. Switching back and forth looks like "random" resets.</li>
+<li><strong>Per-app defaults:</strong> Some apps (browsers, video players, conferencing tools) set their own gain on launch or when a new stream starts, overriding whatever you had.</li>
+<li><strong>Startup sound and login state:</strong> The boot chime and login can push system volume back toward a default level you didn't choose.</li>
+</ul>
+
+<h2>Fix the built-in causes first</h2>
+
+<p>Work through these in order. Most "resets itself" complaints disappear once ducking and Bluetooth are ruled out.</p>
+
+<ul>
+<li><strong>Turn off the startup sound.</strong> System Settings → Sound → uncheck <em>Play sound on startup</em>. This stops the boot chime from resetting your baseline level.</li>
+<li><strong>Reduce or disable ducking triggers.</strong> In System Settings → Accessibility → Spoken Content and Siri, turn off spoken announcements you don't need. Fewer triggers means fewer moments where macOS lowers audio and forgets to restore it.</li>
+<li><strong>Re-pair problem Bluetooth devices.</strong> Remove AirPods or headphones from Bluetooth settings and pair them fresh. A stale profile is a common cause of volume snapping on connect.</li>
+<li><strong>Set each output device deliberately.</strong> Connect each output you use (built-in, monitor, headphones) and set its volume once. macOS stores volume per device, so setting them all removes the surprise when you switch.</li>
+<li><strong>Reset Core Audio if it's stuck.</strong> Open Terminal and run <code>sudo killall coreaudiod</code>. This restarts the audio daemon without a reboot and clears a hung state that can cause erratic levels.</li>
+<li><strong>Update, then restart.</strong> Early Tahoe point releases shipped audio fixes. Make sure you're on the latest build and reboot once after updating.</li>
+</ul>
+
+<p>If the resets stop, one of the above was your culprit. If your <em>system</em> volume is stable but individual apps keep drifting louder or quieter than everything else, you've hit the limit of what the built-in controls can do.</p>
+
+<h2>The real gap: macOS can't lock volume per app</h2>
+
+<p>Here's the frustrating part. Windows has had a per-app volume mixer for years — you open it, drag one app's slider, and it stays there. macOS has never shipped one. There is exactly one system volume slider, and every app fights over it. So when a browser tab blasts an autoplay ad or a video call comes in twice as loud as your music, your only option is to ride the master volume manually — which is the very "why does this keep changing" loop you're trying to escape.</p>
+
+<blockquote>The system slider is a single shared dial. Without a per-app mixer, "set it and forget it" is impossible on stock macOS — something will always override you.</blockquote>
+
+<h2>Lock a fixed volume per app with SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> adds the per-app mixer macOS is missing. It lives in your menu bar and gives every running app its own volume slider, independent of the master. Because it remembers the level you set for each app, it directly solves the "resets itself" problem: you decide once, and that app opens at that volume every time.</p>
+
+<ul>
+<li><strong>Independent volume per app:</strong> keep music at 40% and a video call at 80% at the same time, with no master-slider juggling.</li>
+<li><strong>Per-app mute and boost:</strong> silence a noisy app instantly, or push a too-quiet app past 100% when its own audio is weak.</li>
+<li><strong>Volume profiles:</strong> save setups for "work," "gaming," or "focus" and switch the whole mix in one click.</li>
+<li><strong>Auto-ducking on your terms:</strong> lower background apps automatically when you speak or when a chosen app is active — instead of macOS deciding.</li>
+<li><strong>Quick output switching:</strong> jump between speakers, headphones, and monitor audio from the menu bar without diving into settings.</li>
+</ul>
+
+<p>It's a €14.99 one-time purchase from the Mac App Store — no subscription, no drivers, no DMG, and no kernel extensions. Because it's fully sandboxed and App Store-distributed, you're not installing a legacy audio kext that Tahoe might block on the next update. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> sets your levels using supported APIs, so your remembered volumes survive updates and reboots.</p>
+
+<h2>Which approach do you actually need?</h2>
+
+<p>If your whole system volume jumps, start with the built-in fixes above — ducking, Bluetooth, and the startup sound account for most cases. If instead the problem is that one app is always the odd one out, or you're tired of the master slider being a compromise, a per-app mixer is the only real answer. macOS won't add one, so a menu-bar tool is the practical route to a mix that genuinely stays where you put it.</p>
+
+<p>Tired of chasing the volume slider on Tahoe? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and lock a remembered volume for every app — €14.99 once, no subscriptions, no drivers.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Control Your DAW Monitor Volume Separately From System Audio on Mac",
+    description: "macOS has no built-in per-app volume mixer, so your DAW and system sounds share one level. Here's how to control Logic, Ableton, or GarageBand monitor volume independently from your browser and notifications.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>macOS has no built-in per-app volume mixer, so your DAW and everything else share one system slider. To set your monitor level independently from browsers, Slack, and notifications, you need per-app volume control. A menu-bar mixer like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> gives Logic, Ableton, and GarageBand their own volume, separate from system audio.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Control Your DAW Monitor Volume Separately From System Audio on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why one volume slider ruins your monitoring</h2>
+
+<p>When you're producing, your DAW is only one of many things making sound. A reference track plays in a browser tab. Slack pings arrive. A YouTube tutorial runs on a second monitor. On Windows, the Volume Mixer lets you balance all of these independently. On macOS, Apple never shipped an equivalent — the volume keys and menu-bar slider move <em>everything</em> at once.</p>
+
+<p>That creates a real problem for anyone mixing by ear. You dial in a comfortable monitoring level in Logic, then a notification blasts through at the same level and blows out your ears. Or you turn the system down to protect your hearing during a loud passage, and now your reference track is too quiet to compare against. Your monitoring reference is no longer stable, and stable reference is the whole point of mixing.</p>
+
+<blockquote>Monitoring at a consistent level is one of the few habits that measurably improves your mixes. If system sounds keep forcing you to move the master slider, you lose that consistency.</blockquote>
+
+<h2>What "separate DAW volume" actually means</h2>
+
+<p>There are two different things producers conflate here, and it's worth separating them:</p>
+
+<ul>
+<li><strong>Interface / master output level</strong> — the hardware knob on your audio interface or your monitor controller. This sets your absolute listening loudness and should stay put once calibrated.</li>
+<li><strong>Per-app software volume</strong> — how loud each application is <em>before</em> it reaches that output. This is what macOS is missing. It lets you keep the DAW at unity while turning Chrome, Music, or notification sounds down to a bed level underneath it.</li>
+</ul>
+
+<p>You want the second one. The goal isn't to turn your DAW down — it's to turn everything else down relative to it, so the DAW stays your loudest, most consistent source and distractions sit quietly in the background.</p>
+
+<h2>How to do it with a per-app mixer</h2>
+
+<p>A menu-bar mixer such as <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lists every app currently playing audio and gives each its own slider. The workflow for a producer looks like this:</p>
+
+<ul>
+<li><strong>Calibrate your interface once.</strong> Set your audio interface or monitor controller to a comfortable, repeatable reference level and leave it. This is your fixed anchor.</li>
+<li><strong>Set your DAW to 100%.</strong> In the mixer, leave Logic, Ableton, or GarageBand at full software volume so it passes through at unity. Your DAW's own master fader still does the fine mixing.</li>
+<li><strong>Pull everything else down.</strong> Drop Chrome, Safari, Music, and Slack to a lower level — say 40–60% — so reference tracks and messages sit under your mix instead of competing with it.</li>
+<li><strong>Mute the noisy stuff.</strong> Per-app mute lets you silence a browser or a chat app entirely without touching your monitoring chain. One click, and your DAW keeps playing untouched.</li>
+</ul>
+
+<p>Because the DAW's slider never moves, your monitoring reference stays rock solid across a whole session. You can crank a reference track for a quick A/B, then mute it, and your mix level hasn't shifted a decibel.</p>
+
+<h2>Boosting a quiet app instead of turning others down</h2>
+
+<p>Sometimes the problem runs the other way. A rough demo bounce, a voice memo, or a quiet reference plays back far below your session level. Turning your interface up to hear it means everything else is now too loud. Per-app <strong>volume boost</strong> lets you push a single quiet application above 100% so it matches your working level — without touching your calibrated output. It's the piece Windows' mixer never had and one of the more useful tools when you're auditioning material from outside your DAW.</p>
+
+<h2>Profiles for different session types</h2>
+
+<p>Your ideal balance isn't the same for every task. Tracking, mixing, and casual listening each want a different mix of app levels. Volume profiles let you save a setup and recall it instantly:</p>
+
+<ul>
+<li><strong>Mixing:</strong> DAW at 100%, browser and Music low, chat muted.</li>
+<li><strong>Reference listening:</strong> Music or streaming app up, DAW down.</li>
+<li><strong>Calls / collaboration:</strong> conferencing app up, DAW pulled back so it doesn't bleed into the call.</li>
+</ul>
+
+<p>Switching profiles beats hand-adjusting five sliders every time you change gears.</p>
+
+<h2>Auto-ducking and fast output switching</h2>
+
+<p>Two more things matter in a studio. <strong>Auto-ducking</strong> can automatically dip background apps when a priority source speaks or plays, so a call or important audio always cuts through. And <strong>quick output switching</strong> from the menu bar lets you jump between your interface, your monitors, and headphones without digging into System Settings — a constant task when you're checking a mix on different systems.</p>
+
+<h2>Why not a virtual audio driver?</h2>
+
+<p>Some routing tools solve this by installing a kernel-level virtual audio driver. Those are powerful but heavy: they can break after macOS updates, add latency, and require deep system permissions. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is sandboxed and ships through the Mac App Store — no drivers, no DMG, no aggregate-device setup. For per-app level control specifically, that's a far simpler path than re-architecting your audio routing.</p>
+
+<p>Ready to keep your monitoring level stable while everything else stays in its place? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for a one-time €14.99 and give your DAW its own volume.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "A Simpler Audio Hijack Alternative for Per-App Volume on Mac",
+    description: "If you only want independent volume per app on macOS, Audio Hijack is overkill. Here's a lighter, cheaper menu-bar alternative that does per-app volume, mute, and boost without audio routing.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>If all you want is independent volume per app on macOS, Audio Hijack is more tool than you need. It's a pro audio-routing and recording suite (around $79) built for capture, effects, and session graphs. For simply turning one app down and another up, a lightweight menu-bar mixer like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is faster, cheaper, and always ready.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — A Simpler Audio Hijack Alternative for Per-App Volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why people reach for Audio Hijack in the first place</h2>
+
+<p>macOS has no built-in per-app volume mixer. Windows has had one for years in its Volume Mixer, but on a Mac the volume keys and the menu-bar slider only move one thing: the system master. There's no first-party way to say "keep Spotify at 40% but leave my video call at 100%."</p>
+
+<p>So people search for a workaround and land on Audio Hijack. It <em>can</em> do per-app volume, because it can intercept and process the audio from any single application. But that capability is a side effect of what it's actually designed for: recording audio from apps and hardware, chaining effects, routing between virtual devices, and building reusable session pipelines. It's genuinely excellent at that. It's just a heavy answer to a light question.</p>
+
+<h2>Where Audio Hijack becomes overkill</h2>
+
+<p>A few things tend to frustrate people who only wanted a volume slider:</p>
+
+<ul>
+<li><strong>Price.</strong> Audio Hijack sits around $79. That's fair for a recording studio in an app; it's a lot for turning down a browser tab.</li>
+<li><strong>It has to keep running.</strong> Its per-app processing only works while the app is open and the relevant session is active. Quit it, and your volumes revert. You're keeping a full audio workstation resident just to hold a slider in place.</li>
+<li><strong>Session-based thinking.</strong> You build sessions with blocks and connections. Powerful for capture, but it's a lot of conceptual overhead when your goal is "this app quieter, that app louder."</li>
+<li><strong>The interface is deep.</strong> Effects, routing, meters, block wiring — a rich surface area you'll mostly ignore if you never record anything.</li>
+</ul>
+
+<blockquote>Rule of thumb: if you want to <em>record or route</em> audio, Audio Hijack earns its price. If you only want to <em>balance</em> audio between apps, you're paying for a workshop when you needed a knob.</blockquote>
+
+<h2>The simpler alternative: a menu-bar volume mixer</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> takes the one job most people actually came for and does only that. It lives in your menu bar. Click the icon and you get a live list of every app currently playing audio, each with its own slider. Drag Spotify to 30%, leave your call at 100%, mute Slack entirely — done, no session to build.</p>
+
+<p>What it covers:</p>
+
+<ul>
+<li><strong>Independent volume per app</strong> — every audio source gets its own slider, adjustable in real time.</li>
+<li><strong>Per-app mute</strong> — silence one noisy app with a click without touching anything else.</li>
+<li><strong>Per-app volume boost</strong> — push a quiet app <em>above</em> 100% when its own max is still too soft. This is the piece the system slider can never do.</li>
+<li><strong>Volume profiles</strong> — save a whole mix (music low, calls loud, notifications muted) and recall it in one click for a given context.</li>
+<li><strong>Auto-ducking</strong> — automatically dip background audio when something more important starts, so a call or a video isn't buried under your playlist.</li>
+<li><strong>Quick output switching</strong> — jump between headphones, speakers, and other outputs from the same menu.</li>
+</ul>
+
+<h2>Practical: getting per-app control in under a minute</h2>
+
+<p>The setup difference is the whole point. With a routing tool you'd create a session, add a source block, wire it, and keep the app running. Here it's essentially:</p>
+
+<ul>
+<li>Install <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> from the Mac App Store.</li>
+<li>Play audio in a couple of apps so they appear in the list.</li>
+<li>Click the menu-bar icon and drag each app's slider to taste.</li>
+<li>Optionally save that mix as a profile, or boost a too-quiet app past 100%.</li>
+</ul>
+
+<p>Because it's distributed through the Mac App Store, it's sandboxed and installs like any normal app — no <code>.dmg</code> to drag, no kernel extension, no audio driver to approve in Security settings, and nothing that needs re-approving after a macOS update. That last point matters: driver-based mixers historically break on OS upgrades and require reinstalling a system-level component. A sandboxed App Store app avoids that entire category of maintenance.</p>
+
+<h2>Which one should you pick?</h2>
+
+<p>Be honest about the job. Choose <strong>Audio Hijack</strong> if you need to record app or hardware audio, apply real-time effects, or build routing graphs between virtual devices. That's its home turf and it's worth every dollar there.</p>
+
+<p>Choose a dedicated menu-bar mixer if your actual need is "let me set the volume of each app independently." You'll spend €14.99 once instead of ~$79, skip the session-building, and get boost, mute, profiles, and ducking in a panel you open from the menu bar. No recording features you'll never touch, no workstation running in the background to hold a slider in place.</p>
+
+<p>Most people who tried Audio Hijack for volume balancing were solving a small problem with a big tool. If that's you, the small tool fits better — and costs a fraction as much.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for €14.99, one-time — per-app volume, boost, mute, profiles, and auto-ducking, right from your menu bar.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D Alternative: Per-App Volume Without the Bloat (Mac)",
+    description: "If you used Boom 3D mainly to boost audio but really wanted per-app volume control, SoundDial is the leaner Mac alternative: independent volume per app, per-app mute and boost, one-time price, no system-wide EQ or drivers.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>If you reached for Boom 3D to boost volume but actually wanted to control each app separately, you want a different tool. Boom 3D is a system-wide volume booster and EQ. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a focused per-app volume mixer: independent volume, mute, and boost for each app, one-time €14.99, no EQ, no drivers.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D Alternative: Per-App Volume Without the Bloat (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>What Boom 3D actually does (and doesn't)</h2>
+<p>Boom 3D is built around three things: a system-wide volume boost, a 31-band equalizer, and 3D "surround" effects. It applies those to <em>everything</em> your Mac plays at once. That is genuinely useful if your goal is a louder laptop or a bass curve you like across the board.</p>
+<p>What Boom 3D is not built for is treating apps as independent channels. There's no clean way to say "Spotify at 40%, my video call at 100%, and this browser tab muted." Its slider moves the whole mix. And because it installs an audio driver to sit in the signal path, it touches your system at a lower level than a sandboxed utility does. It's also positioned as a paid product with upgrade cycles rather than a small one-time tool.</p>
+<blockquote><p>The common story: people install Boom 3D to make one quiet app louder, then realize the real problem was that macOS has no per-app volume mixer at all.</p></blockquote>
+
+<h2>The gap: macOS has no volume mixer</h2>
+<p>This surprises people coming from Windows. Windows has had a per-app Volume Mixer for years — right-click the speaker, set each app's level individually. macOS simply doesn't ship this. You get one master volume and whatever internal slider each app happens to expose. There is no OS-level way to balance Slack against a YouTube tab against a game.</p>
+<p>So when a music app is drowning out your call, your only native options are crude: turn the master down (which quiets everything) or dig through each app's own settings hoping it has a volume control. Boom 3D doesn't close that gap either — it makes the whole mix louder, not each app.</p>
+
+<h2>Where SoundDial fits</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is the missing mixer. It lives in your menu bar and gives every running app its own row with its own slider. That's the core difference from Boom 3D: instead of one global effect, you get per-source control.</p>
+<ul>
+<li><strong>Independent volume per app</strong> — set Spotify to 30% while your video call stays at 100%.</li>
+<li><strong>Per-app mute</strong> — silence one noisy app instantly without touching anything else.</li>
+<li><strong>Per-app boost</strong> — if you liked Boom 3D's louder-than-100% trick, SoundDial keeps that, but targeted at a single app instead of the whole system. Quiet apps get pushed past their normal ceiling on their own.</li>
+<li><strong>Volume profiles</strong> — save a mixer layout (e.g. "gaming," "meeting," "music") and recall it in one click instead of re-balancing sliders every time.</li>
+<li><strong>Auto-ducking</strong> — automatically dip background audio when something important starts, so a call or a game cue isn't buried under music.</li>
+<li><strong>Quick output switching</strong> — jump between headphones, speakers, and other outputs from the same menu.</li>
+</ul>
+<p>What SoundDial deliberately doesn't do is the rest of the Boom 3D feature sprawl. There's no 31-band EQ, no faux-surround processing, no system-wide effect chain. If you want a mastering-grade EQ, Boom 3D or a dedicated audio suite is the right pick. If what you actually kept opening Boom 3D for was <em>volume</em>, that surface area is bloat you're paying to carry.</p>
+
+<h2>Boost, without the driver</h2>
+<p>The "boost" question deserves a direct answer, because it's usually why Boom 3D users shop for alternatives. Boom 3D's boost is global and driver-based. SoundDial's boost is per-app and runs inside Apple's app-sandbox model — it's distributed through the Mac App Store, so there's no separate installer, no kernel-level driver, and no leftover system components to uninstall later. You get the "make this one quiet app louder" outcome without handing a driver control of your entire audio path.</p>
+
+<h2>Price: one-time vs. ongoing</h2>
+<p>Boom 3D is a paid app with its own upgrade and licensing model, and pricing varies by platform and version. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a single one-time purchase at €14.99 — buy it once, keep it, no subscription and no per-version repurchase to keep the mixer working. For a utility you'll leave running in the menu bar every day, a flat price tends to age better than a product you have to keep re-buying into.</p>
+
+<h2>Which one should you pick?</h2>
+<ul>
+<li><strong>Choose Boom 3D</strong> if your real need is a serious equalizer and system-wide audio effects, and you don't mind an audio driver in the mix.</li>
+<li><strong>Choose SoundDial</strong> if you want what Windows users take for granted — a real per-app volume mixer — plus targeted boost, profiles, and auto-ducking, at a one-time price and with no drivers to install.</li>
+</ul>
+<p>Most people who bounce off Boom 3D fall into the second group. They didn't want to tune frequencies; they wanted the browser quieter than the call. That's exactly the job SoundDial is built for.</p>
+
+<p><strong>Want per-app volume control on your Mac without the EQ bloat or a subscription?</strong> <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 once, sandboxed, no drivers, and every app gets its own slider.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "How to Mute Everything Except One App on Your Mac",
+    description: "macOS has no per-app volume mixer, so silencing every app except one takes a helper. Here is how to hear only your call, stream, or game while everything else stays muted.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>macOS has no built-in way to mute individual apps, so to hear only one app you need a per-app volume mixer. Install <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, open its menu-bar mixer, mute every app except the one you want to hear, and that app keeps playing while the rest go silent instantly.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — How to Mute Everything Except One App on Your Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why macOS can't do this on its own</h2>
+<p>Windows has had the Volume Mixer for over a decade: right-click the speaker icon, and every running app gets its own slider. macOS has never shipped this. The volume keys on your Mac control one thing only, the master output level. When you turn the system down, everything goes down together. When you mute, everything mutes.</p>
+<p>That is fine until you have five things making noise at once. You are on a video call, but a browser tab is autoplaying an ad, Spotify is still running, a game is pinging in the background, and Slack is chiming. Your only native options are to quit apps, mute them one by one inside each app's own settings (if it even has that option), or yank your headphones. None of that lets you say "keep this one, silence the rest."</p>
+
+<h2>The straightforward way: mute the rest with a mixer</h2>
+<p>A per-app mixer sits between your apps and your output device and gives each app its own volume and mute control. Once you have one running, isolating a single app takes seconds:</p>
+<ul>
+<li>Open the mixer from your menu bar. You'll see a live list of every app currently producing audio.</li>
+<li>Find the one app you want to hear, your call, your stream, your game.</li>
+<li>Mute everything else. Tap the mute toggle next to each other app, or pull its slider to zero.</li>
+<li>That's it. The one app you left alone keeps playing at full volume while the rest stay silent.</li>
+</ul>
+<p>With <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, each app in the list has its own slider and its own mute button, so this is a handful of clicks. New apps that start playing later show up automatically, so if a notification sound tries to sneak in, you can silence it on the spot without touching your focused app.</p>
+
+<blockquote>The trick is that muting "everything except one" is just the inverse of muting one app. You're not silencing your Mac, you're silencing the noise around the thing you actually care about.</blockquote>
+
+<h2>Save it as a profile so you don't redo it</h2>
+<p>If this is a setup you reach for often, doing it by hand every time gets old. Say you always want your call app loud and everything else off during meetings, or you want your stream front and center while games and browsers stay quiet. A volume profile stores those exact per-app settings and reapplies them in one click.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lets you save profiles like "Meeting" or "Stream Only," then switch to them the instant you need them. Set it up once, and isolating your one app becomes a single menu-bar action instead of a five-slider chore.</p>
+
+<h2>The smarter version: auto-duck instead of hard-mute</h2>
+<p>Sometimes you don't want the other apps fully gone, you just want them to get out of the way when something more important starts. That's auto-ducking. When your priority app plays, background apps automatically drop to a low level, then rise back up when it stops.</p>
+<p>This is ideal for calls and streams. When someone starts talking, your music dips so you can hear them, and when the call ends, the music comes back up on its own. You get the "hear one app clearly" outcome without manually muting and unmuting every time the situation changes. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> includes auto-ducking alongside the manual mixer, so you can choose hard mute for total silence or ducking for a softer background.</p>
+
+<h2>Boosting the one app you kept</h2>
+<p>There's a bonus to isolating a single app: you can also make it louder than your Mac normally allows. Some apps, especially quiet video calls or poorly mastered streams, are barely audible even at max volume. A per-app boost pushes an individual app above 100% without cranking your system output, which would just amplify the apps you already muted.</p>
+<p>So the full move is: mute the noise, keep your one app, and if that app is too quiet, boost it. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> handles all three in the same mixer window.</p>
+
+<h2>What you're not signing up for</h2>
+<p>A common worry with Mac audio tools is that they require kernel extensions, virtual audio drivers, or shady installers downloaded from a random website. That's a legitimate concern, and it's why some people avoid these apps entirely.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is on the Mac App Store, sandboxed, and installs like any normal app, no drivers, no DMG, no system extensions to approve. It's a one-time €14.99 purchase rather than a subscription, so you pay once and keep it. That matters for something you'll leave running in your menu bar all day.</p>
+
+<h2>Quick recap</h2>
+<ul>
+<li>macOS has no native per-app volume control, so you need a mixer to do this.</li>
+<li>Open the mixer, keep your one app, mute or zero out everything else.</li>
+<li>Save it as a profile for calls or streams you do often.</li>
+<li>Use auto-ducking if you want background apps quieted rather than killed.</li>
+<li>Boost your kept app if it's too quiet on its own.</li>
+</ul>
+
+<p>Want to hear only what matters and silence the rest? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and set up your first mute-everything-else profile in under a minute.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Keep a Different Volume for Speakers vs Headphones on Mac",
+    description: "macOS forgets your app-level volume mix when you switch between speakers and headphones. Here's why it happens, the manual limits, and how per-app volume memory fixes it.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>macOS actually remembers a separate system volume for each output device, but it forgets your app-level balance every time you switch. So headphones and speakers keep their own overall level, yet the moment you unplug, one app blasts and another vanishes. The fix is per-app volume memory that survives device switches, which macOS has no native tool for.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Keep a Different Volume for Speakers vs Headphones on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>What macOS remembers and what it doesn't</h2>
+
+<p>There's a common belief that macOS treats every output device identically. It doesn't. Each output device stores its own system volume. Set your MacBook speakers to 30% and your AirPods to 80%, and macOS keeps those two numbers separate. Plug in, unplug, reconnect, and each device returns to where you left it.</p>
+
+<p>So why does the experience still feel broken? Because that memory stops at the single, global slider. macOS has exactly one volume control for everything playing on a given device. It does not remember how loud individual apps were. When you switch from speakers to headphones, the balance between Spotify, a Zoom call, and a YouTube tab is not preserved, because that balance never existed. Every app shares the same slider.</p>
+
+<p>The result is the frustration people describe as "different volume for speakers vs headphones." What they usually want is not just a different master level per device, but a remembered mix: quiet music, loud calls, notifications turned down, and that mix intact whether they're on desk speakers or headphones.</p>
+
+<h2>The manual workarounds and where they fall short</h2>
+
+<p>You can get partway there with built-in tools, and it's worth knowing the ceiling before reaching for anything else.</p>
+
+<ul>
+<li><strong>Set each device's system volume once.</strong> Play audio through your speakers, set the level, then switch output to headphones and set that level. macOS retains both. This handles master volume per device but nothing per app.</li>
+<li><strong>Use per-app volume where the app offers it.</strong> Spotify, VLC, and most browsers have their own internal volume. You can trim a loud app inside the app itself. The catch: this setting lives in the app, not the device, so it doesn't change when you switch to headphones, and most apps (Slack, Zoom, system notifications, Mail) have no such control at all.</li>
+<li><strong>Switch output from Control Center or the menu bar.</strong> Option-click the volume icon in the menu bar to jump between devices quickly. Fast, but it only moves the master level around, it doesn't restore a per-app mix.</li>
+</ul>
+
+<p>These get you a per-device master volume. What none of them give you is a remembered, per-app balance that follows you across devices. That gap is exactly where the annoyance lives, and it's structural: the OS simply has no per-app mixer, unlike Windows, which has shipped one for years.</p>
+
+<h2>Per-app volume memory, and why device switching is the real problem</h2>
+
+<p>The deeper fix is to give each app its own volume and have those settings persist. That's what a per-app mixer like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is built for. It sits in your menu bar, lists every app currently producing sound, and gives each one an independent slider, a mute toggle, and even a boost past 100% for quiet apps.</p>
+
+<p>The part that matters for the speakers-vs-headphones problem: those levels are remembered. Set your music to 40%, your calls to 90%, and a chatty app to muted, and <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> keeps that mix. When you unplug your headphones and fall back to speakers, you're not re-balancing three apps by hand every time.</p>
+
+<p>Volume profiles take this further. You can save a named set of per-app levels and recall it in one click, so a "headphones, focused work" mix and a "speakers, meetings" mix are each a single selection rather than a manual reset.</p>
+
+<blockquote><p>The mental shift: stop thinking about one master slider you keep dragging, and start thinking about a saved mix per situation. Device switching stops being a re-balancing chore.</p></blockquote>
+
+<h2>Quick output switching without losing your mix</h2>
+
+<p>Switching devices should be fast and non-destructive. From the same menu-bar panel you can change your output device, so moving from speakers to headphones is one click, and your per-app levels come along instead of collapsing back to a single global number.</p>
+
+<p>A related feature worth mentioning is auto-ducking: when audio comes in on your microphone (you start talking, or a call begins), other apps automatically dip so you can be heard, then return to their set level afterward. It's the same principle applied to attention rather than devices, another thing macOS won't do on its own.</p>
+
+<h2>How to set it up</h2>
+
+<ul>
+<li>Install <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> from the Mac App Store. It's sandboxed, so there's no driver, no DMG, and no kernel extension to approve.</li>
+<li>Play audio in the apps you use most so they appear in the mixer.</li>
+<li>Set each app's level, mute anything you don't want, and boost anything too quiet.</li>
+<li>Save that arrangement as a profile, for example one tuned for headphones and one for speakers.</li>
+<li>When you switch devices, recall the matching profile, or just let your saved per-app levels carry over.</li>
+</ul>
+
+<p>The honest summary: macOS does remember volume per output device at the master level, but it will never remember your per-app mix, because it has no per-app mixer. If your real goal is a consistent balance between music, calls, and notifications that survives every switch between speakers and headphones, you need per-app memory on top of the OS.</p>
+
+<p>Want speakers and headphones to keep their own mix without re-adjusting every app? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> for a one-time €14.99, no subscription, no drivers.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control Discontinued? The Best Mac Per-App Volume Replacement (2026)",
+    description: "Sound Control by Static Z Software is discontinued and breaks on modern macOS. Here is why it stopped working, what it did, and the best per-app volume mixer to switch to in 2026.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>Sound Control by Static Z Software is discontinued and no longer sold or updated, and it increasingly fails on modern macOS because it relied on a kernel-level audio driver that Apple has locked down. If you need per-app volume today, the cleanest replacement is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a sandboxed Mac App Store mixer with no drivers.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control Discontinued? The Best Mac Per-App Volume Replacement (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>What Sound Control actually did</h2>
+<p>Sound Control was, for years, the go-to answer to a genuine macOS gap: there is still no built-in per-app volume mixer on the Mac. Windows has had one in its Volume Mixer since Vista, but macOS only gives you a single master slider. Sound Control filled that hole with a tidy menu-bar panel that let you:</p>
+<ul>
+<li>Set an independent volume level for each running app.</li>
+<li>Mute individual apps without touching the rest of your system audio.</li>
+<li>Boost quiet apps above 100 percent.</li>
+<li>Apply per-app equalizer and balance adjustments.</li>
+<li>Route audio and pin apps to specific output devices.</li>
+</ul>
+<p>For anyone who has ever had a Zoom call blasting while a background YouTube tab whispers, that per-app control was transformative. It became a quiet staple on a lot of Mac power users' machines.</p>
+
+<h2>Why it stopped working</h2>
+<p>The honest technical story matters here, because it explains why this is not a bug someone can simply patch. Sound Control worked by installing a system audio driver — a kernel extension (kext) that inserted itself into the macOS audio pipeline so it could intercept and reshape each app's output. That deep hook is exactly what made the EQ and boost features possible.</p>
+<p>Starting with macOS 10.15 Catalina and accelerating through Big Sur and the Apple Silicon transition, Apple began deprecating kernel extensions in favor of user-space alternatives. On Apple Silicon Macs, loading third-party kexts requires lowering system security in Recovery Mode, and Apple has made it clear that legacy audio kexts are on borrowed time. Static Z Software ultimately stopped selling and developing Sound Control. The result: on recent macOS versions, installs fail, audio glitches out, or the driver simply refuses to load without security downgrades most people rightly do not want to make.</p>
+<blockquote>This is not neglect on the developer's part. It is a platform-level shift. Apple closed the door on the kind of low-level audio driver Sound Control was built around, and no update can fully reopen it.</blockquote>
+
+<h2>What changed on modern macOS</h2>
+<p>Apple did add one relevant thing: Core Audio now offers a Tap API (introduced in macOS 14.2 Sonoma) that lets apps capture and process per-process audio from user space — no kext, no security downgrade, no reboot into Recovery. This is the sanctioned modern path for per-app audio, and it is what a current mixer should be built on. The tradeoff is honest: user-space taps are more constrained than an old kernel driver, so you should expect clean per-app volume, mute, and boost rather than the full per-app parametric EQ Sound Control offered.</p>
+
+<h2>The best replacement: SoundDial</h2>
+<p>If you want the core of what Sound Control did — independent volume per app — on a Mac you can actually keep secure and up to date, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is the closest clean-migration option in 2026. It is a menu-bar per-app volume mixer built for the modern macOS audio stack. What carries over from the Sound Control workflow:</p>
+<ul>
+<li><strong>Independent volume per app</strong> — one slider per running application, right in the menu bar.</li>
+<li><strong>Per-app mute</strong> — silence one app while everything else keeps playing.</li>
+<li><strong>Per-app volume boost</strong> — push a quiet app above its normal ceiling.</li>
+<li><strong>Volume profiles</strong> — save mixer setups for different contexts (calls, music, gaming) and switch between them.</li>
+<li><strong>Auto-ducking</strong> — automatically lower background app volume, useful when you start talking or a call comes in.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other devices without diving into System Settings.</li>
+</ul>
+<p>The practical differences that matter for a migration: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ships through the Mac App Store, is sandboxed, and installs no drivers and no DMG. That means no kernel extension to approve, no Recovery Mode, and no lowering your Mac's security posture — the exact pain points that killed Sound Control. It is a one-time purchase of €14.99, not a subscription.</p>
+
+<h2>How to switch, step by step</h2>
+<ul>
+<li><strong>Uninstall Sound Control cleanly.</strong> Because it installed a driver, use its own uninstaller if it still runs, or remove its audio driver components before installing anything new. Two competing audio hooks can cause glitches.</li>
+<li><strong>Install SoundDial from the App Store.</strong> No reboot or security changes required.</li>
+<li><strong>Grant the audio permission it requests.</strong> This is what lets it read and control per-app output on modern macOS.</li>
+<li><strong>Open the menu-bar panel and set levels.</strong> Your running apps appear with individual sliders; adjust, mute, or boost as needed.</li>
+<li><strong>Save a profile.</strong> If you had favorite Sound Control setups, recreate them as profiles so you can switch in one click.</li>
+</ul>
+
+<h2>Honest expectations</h2>
+<p>If your only reason for using Sound Control was per-app volume, mute, and boost, a modern sandboxed mixer covers you fully. If you leaned heavily on its per-app equalizer, be aware that deep EQ was tied to the old driver model and is the hardest feature to reproduce cleanly under Apple's current rules. Set expectations accordingly, and you will not be surprised.</p>
+
+<p>Ready to get per-app volume back without the driver headaches? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> — a one-time €14.99, sandboxed, no subscription, no drivers.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny Is Gone — the Modern Mac Per-App Volume App to Replace It",
+    description: "SoundBunny by Prosoft is discontinued. Here's the current, actively maintained macOS per-app volume mixer to replace it — plus how to migrate your per-app audio setup without kernel drivers.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>If SoundBunny stopped working or is no longer sold, the modern replacement is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a menu-bar per-app volume mixer built for current macOS. It gives you the same core job — independent volume, mute, and boost per application — as a €14.99 one-time Mac App Store purchase, with no kernel driver, DMG, or subscription to manage.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny Is Gone — the Modern Mac Per-App Volume App to Replace It" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>What happened to SoundBunny?</h2>
+<p>SoundBunny was Prosoft Engineering's per-app volume utility for macOS. It let you set a different volume level for each running app right from the menu bar — Music quiet, a call loud, a browser somewhere in between. For years it was one of the few tools filling a gap Apple never closed.</p>
+<p>The problem is that SoundBunny is legacy software. It hasn't kept pace with the deep changes Apple made to macOS audio and security — Apple Silicon, the hardened runtime, tightened system-extension rules, and the removal of older audio hooks. When a utility like this stops receiving updates, it eventually breaks: it fails to launch, loses control of app streams after an OS update, or simply can't be installed cleanly on a modern Mac. If that's where you are, you're not doing anything wrong. The app is behind, not you.</p>
+
+<h2>Why macOS still needs a third-party mixer at all</h2>
+<p>Here's the honest part: this is a genuine gap in macOS, not a bug you can fix in Settings. Windows has shipped a per-app Volume Mixer for well over a decade. macOS has never had one. The system volume slider and Sound settings control your <em>output device</em> as a whole — every app rides the same master level. There is no built-in way to say "keep Safari at 40% but Zoom at 100%."</p>
+<p>That's why tools like SoundBunny existed, and why a replacement is still necessary today. The need didn't go away when the app did — Apple just still hasn't addressed it.</p>
+
+<h2>The modern replacement: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a per-app volume mixer that lives in your menu bar and does the things SoundBunny users relied on, built against today's macOS instead of yesterday's. The feature overlap covers the essentials:</p>
+<ul>
+<li><strong>Independent volume per app</strong> — one slider per running application, exactly the SoundBunny mental model.</li>
+<li><strong>Per-app mute</strong> — silence a single noisy app without touching everything else.</li>
+<li><strong>Per-app volume boost</strong> — push a quiet app <em>above</em> 100% when a video or call is recorded too low. SoundBunny couldn't reliably amplify past system max on modern macOS; boost is a real upgrade here.</li>
+<li><strong>Volume profiles</strong> — save a set of per-app levels (a "work" mix, a "gaming" mix) and switch between them instead of nudging sliders one at a time.</li>
+<li><strong>Auto-ducking</strong> — automatically lower background app volume when another audio source (like your mic on a call) becomes active.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other outputs from the same menu.</li>
+</ul>
+
+<h2>What migrating actually looks like</h2>
+<p>There's no import step — per-app volume levels aren't a file you carry over — but the switch is quick:</p>
+<ul>
+<li><strong>Remove SoundBunny properly.</strong> Quit it, then delete the app. If it installed any helper or login item, remove that too so two utilities aren't fighting over the same audio streams.</li>
+<li><strong>Install SoundDial from the Mac App Store.</strong> It's sandboxed and distributed through the store, so there's no DMG to mount and no "unidentified developer" warning. One purchase, tied to your Apple ID.</li>
+<li><strong>Grant audio access on first launch.</strong> macOS will ask permission for SoundDial to see app audio. This is the modern, sanctioned path Apple provides — no kernel extension, no reboot, no lowering system security. Grant it and your running apps appear as sliders.</li>
+<li><strong>Rebuild your mix.</strong> Set your common apps, then save that arrangement as a profile so you never have to redo it.</li>
+</ul>
+
+<h2>The practical differences from SoundBunny</h2>
+<p>The most important difference is that <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is current software. It runs natively on Apple Silicon, uses Apple's supported audio APIs, and is a Mac App Store app — which means updates arrive through the store and it's built to survive OS upgrades rather than break on them. Being sandboxed also means it can't reach outside its lane, which is reassuring for something that sits between your apps and your speakers.</p>
+<p>A couple of honest caveats so expectations are right. Because SoundDial works within Apple's audio framework, control is best for standard apps that route through the normal system output. Some software plays audio through its own path or an exclusive device, and no menu-bar mixer — SoundBunny included — can fully govern those. And per-app volume is inherently a software layer on top of macOS; it's not a hardware mixer. Within those real limits, it does the job SoundBunny used to do.</p>
+
+<blockquote>If you switched to a Mac from Windows expecting a per-app Volume Mixer, this is the tool that fills that gap — and now it's one that's actually being maintained.</blockquote>
+
+<p>SoundBunny had a good run, but it's legacy. If you need per-app volume, mute, and boost on a modern Mac, <a href="https://apps.apple.com/app/id6772792641">get SoundDial on the Mac App Store</a> — €14.99 once, no subscription, no drivers.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Alternative for Mac: Per-App Volume Without the Boom 3D Upsell",
+    description: "Boom 2 is legacy and keeps pushing you to Boom 3D. If you just want per-app volume and a simple boost on modern macOS, here's a focused alternative and how it works.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>If you liked Boom 2 for system-wide boost but want simple <strong>per-app</strong> volume on a current Mac, the honest answer is that Boom 2 is legacy and no longer the right tool. A focused alternative is <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, a menu-bar mixer that gives each app its own volume slider, mute, and boost, for €14.99 once, with no push to a bigger bundle.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Alternative for Mac: Per-App Volume Without the Boom 3D Upsell" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why Boom 2 no longer fits</h2>
+<p>Boom 2 was a well-loved app for a specific reason: it boosted your Mac's overall volume beyond the system maximum and added an equalizer. It did that system-wide, not per app. That was fine in 2015. In 2026 it has two problems.</p>
+<p>First, it's legacy. Global Delight has clearly moved its energy to Boom 3D, and if you open the Boom 2 product page you'll find yourself nudged toward the newer, pricier app almost immediately. Boom 2 still exists, but it's a stepping stone the vendor uses to sell Boom 3D, not a product getting active love.</p>
+<p>Second, and more important: Boom 2 was never a per-app volume mixer. It raises and shapes one master output. If your actual pain is that a Slack ping is louder than your music, or a browser tab is drowning out a call, Boom 2 doesn't solve that. It makes everything louder together. That's a different job.</p>
+
+<h2>What "per-app volume" actually means on macOS</h2>
+<p>Here's the honest context that most alternative round-ups skip: macOS has no built-in per-app volume mixer at all. Windows has had one for years — right-click the speaker, open the Volume Mixer, and set Chrome to 40% and Spotify to 80%. Apple never shipped that. The macOS volume key only moves one master level.</p>
+<p>So when you look for a "Boom 2 alternative," what you're often really looking for isn't a louder Mac — it's the per-app control Windows users take for granted. That's a genuine gap in the operating system, not something Boom 2 or any single app forgot to build.</p>
+
+<h2>Where SoundDial fits</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is built for that gap specifically. It lives in the menu bar and lists the apps currently playing audio, each with its own slider. You set levels per app instead of nudging one master control and hoping for the best.</p>
+<p>What it does:</p>
+<ul>
+<li><strong>Independent volume per app</strong> — quiet the browser, keep music where you want it, no global compromise.</li>
+<li><strong>Per-app mute</strong> — silence one noisy app without touching anything else.</li>
+<li><strong>Per-app boost</strong> — push an individual app past its normal ceiling when a video or call is recorded too quietly. This is the piece Boom 2 fans usually miss, except here it's targeted at one app rather than the whole system.</li>
+<li><strong>Volume profiles</strong> — save layouts like "focus," "meeting," or "gaming" and switch in one click.</li>
+<li><strong>Auto-ducking</strong> — automatically lower other apps when you start talking, useful for calls and recording.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other outputs from the same menu.</li>
+</ul>
+
+<h2>How to set it up</h2>
+<p>The workflow is short:</p>
+<ul>
+<li>Install <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> from the Mac App Store — no DMG, no driver, no reboot.</li>
+<li>Click the menu-bar icon to see every app currently producing sound.</li>
+<li>Drag each app's slider to the level you want; mute or boost individually as needed.</li>
+<li>Save the arrangement as a profile if you want to reuse it later.</li>
+</ul>
+<p>Because it ships through the App Store, it's sandboxed and installs cleanly. That's worth calling out, because some older audio tools relied on kernel extensions or virtual audio drivers — the kind of thing modern macOS increasingly resists. SoundDial doesn't ask you to install a driver or lower any security setting.</p>
+
+<h2>An honest limitation</h2>
+<p>Per-app boost is real but not magic. If an app's source audio is genuinely quiet or badly recorded, boosting it raises the noise floor along with the signal, so very quiet material can sound hissy when pushed hard. That's a physics limit of amplification, not a flaw in any particular app — Boom 2's system boost had the same tradeoff. Treat boost as headroom for practical cases, not a rescue for broken audio.</p>
+
+<h2>Boom 2 vs. a focused mixer</h2>
+<p>If what you loved about Boom 2 was system-wide loudness plus an EQ, and you don't care about per-app control, Boom 3D is the vendor's intended successor — that's a fair path, and we won't pretend otherwise. But if you tried Boom 2 and realized the thing you actually wanted was to turn one app down or up without moving everything, an EQ-and-boost bundle is the wrong shape of tool.</p>
+<blockquote>Boom 2 makes the whole Mac louder. A per-app mixer lets you decide which app is louder. Those solve different problems.</blockquote>
+<p>The pricing difference is also worth naming plainly. SoundDial is €14.99 once. There's no subscription, no trial that lapses into a bigger plan, and no in-app path steering you to a more expensive tier. You buy the mixer, you own the mixer.</p>
+
+<p>If per-app volume — not a system-wide EQ — is what you were really after, <a href="https://apps.apple.com/app/id6772792641">try SoundDial on the Mac App Store</a> and set your levels the way macOS should have let you all along.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: Free Open-Source vs Paid Per-App Volume on Mac",
+    description: "FineTune is a free, open-source per-app volume app for Mac; SoundDial is a paid, sandboxed App Store app with boost, profiles, and support. Here's an honest comparison to help you choose.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>FineTune is a free, open-source per-app volume mixer for macOS, so if price is your only concern it's a genuine option. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a paid (€14.99, one-time) Mac App Store app that adds per-app volume boost, saved profiles, auto-ducking, and vendor support. The real choice is free-and-DIY versus sandboxed-and-supported.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune vs SoundDial: Free Open-Source vs Paid Per-App Volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>The problem both apps solve</h2>
+
+<p>macOS still has no built-in per-app volume mixer. Windows has had one for years — right-click the speaker icon, open the Volume Mixer, and every app gets its own slider. On a Mac, you get exactly one system volume slider for everything: your music, a video call, YouTube, notification dings, and a game all share it. If your call is too quiet and Spotify is too loud, your only "fix" is muting Spotify entirely.</p>
+
+<p>Both FineTune and SoundDial exist to fill that gap. They give each running app its own volume control so you can, say, keep a meeting at 100% while pulling background music down to 20% — without touching the master slider.</p>
+
+<h2>What FineTune gets right</h2>
+
+<p>FineTune is a newer, free, open-source app in the spirit of SoundSource. Let's be fair about its strengths, because they're real:</p>
+
+<ul>
+  <li><strong>It costs nothing.</strong> No license, no trial, no upgrade nag.</li>
+  <li><strong>The source is open.</strong> You can read exactly what it does, audit it for privacy, and — if you know Swift — modify or fork it.</li>
+  <li><strong>It's community-driven.</strong> Bugs can be fixed by anyone, and the code outlives any single company.</li>
+  <li><strong>It covers the core need.</strong> Independent per-app volume, which is the feature 90% of people are actually searching for.</li>
+</ul>
+
+<p>If your only requirement is "let me turn one app down without turning everything down," and you're comfortable with software that comes with no formal support desk, FineTune is a legitimate answer. Recommending it here isn't a concession — it's honest.</p>
+
+<h2>The honest trade-offs of the DIY route</h2>
+
+<p>Free and open-source carries real costs that don't show up on a price tag. These aren't knocks on FineTune specifically — they're the nature of the approach:</p>
+
+<ul>
+  <li><strong>Installation is manual.</strong> Open-source audio tools are typically distributed as a downloaded build or a Homebrew formula, not through the App Store. You install outside Apple's review, and you're on the hook to keep it updated.</li>
+  <li><strong>Per-app audio interception is fragile by nature.</strong> Routing another app's audio is deep-system work. When Apple ships a macOS update that changes the audio stack, these tools can break until someone patches them. With a volunteer project, "someone" may be busy that month.</li>
+  <li><strong>Support is best-effort.</strong> If something breaks, your recourse is a GitHub issue and a wait. There's no guaranteed response and no one obligated to fix it.</li>
+  <li><strong>Feature scope is whatever the maintainers ship.</strong> Core volume control is likely covered; extras depend entirely on contributor time.</li>
+</ul>
+
+<blockquote>The honest framing: FineTune trades money for maintenance responsibility. You save €14.99 and take on the risk that an OS update leaves it broken until the community catches up.</blockquote>
+
+<h2>Where SoundDial is different</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> takes the opposite trade. You pay once, and in return you get an App Store product with a vendor behind it and a wider feature set built on top of per-app volume:</p>
+
+<ul>
+  <li><strong>Per-app volume and mute</strong> — the shared baseline both apps deliver.</li>
+  <li><strong>Per-app volume BOOST</strong> — push a too-quiet app past 100%. Useful for apps with weak audio output where turning others down still isn't enough.</li>
+  <li><strong>Volume profiles</strong> — save whole mixes ("Meeting," "Focus," "Gaming") and switch in one click instead of resetting sliders each time.</li>
+  <li><strong>Auto-ducking</strong> — automatically lower background apps when you speak or when a chosen app becomes active, so calls cut through without manual fiddling.</li>
+  <li><strong>Quick output switching</strong> — jump between speakers, headphones, and other outputs from the menu bar.</li>
+</ul>
+
+<p>Just as important is <em>how</em> it ships. SoundDial is sandboxed and distributed through the Mac App Store — no separate DMG, no kernel drivers, no audio driver install. Updates come through the App Store like any other app, and there's a real developer to email when something's wrong. That's the concrete value of the €14.99: not just more features, but someone accountable for keeping them working across macOS releases.</p>
+
+<h2>An honest caveat that applies to both</h2>
+
+<p>No third-party app can make macOS's audio system into Windows' Volume Mixer, because Apple doesn't expose a clean public API for per-app audio. Every tool in this category — free or paid, open or closed — works around that limitation using system-level audio techniques. That means both FineTune and SoundDial can be affected by major macOS audio changes. The difference is who's responsible for the fix afterward: a volunteer community, or a paid vendor whose product depends on it.</p>
+
+<h2>Which should you pick?</h2>
+
+<ul>
+  <li><strong>Choose FineTune if</strong> you want zero cost, value open-source transparency, only need basic per-app volume, and are comfortable installing outside the App Store and self-supporting when things break.</li>
+  <li><strong>Choose SoundDial if</strong> you want a one-click App Store install, extras like boost, profiles, and auto-ducking, and the reassurance of updates and support from a vendor with skin in the game.</li>
+</ul>
+
+<p>Both are valid. It genuinely comes down to whether you'd rather spend money or spend attention. If you'd rather buy a supported, sandboxed app and never think about it again, <a href="https://apps.apple.com/app/id6772792641">get SoundDial on the Mac App Store</a> for a one-time €14.99 — no subscription, no drivers, no DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Is the Free Mac Volume Mixer Enough?",
+    description: "A fair head-to-head between the free Background Music app and paid SoundDial. Where the free virtual-driver approach works, where it breaks, and when a €14.99 native mixer is worth it.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>Background Music is free and genuinely good at the basics: it gives each app its own volume slider and can auto-pause music when another app plays. If that is all you need, use it. But it relies on a virtual audio driver that can break after macOS updates and lacks per-app boost, profiles, and output switching. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> trades money for a driver-free, sandboxed, supported alternative.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: Is the Free Mac Volume Mixer Enough?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>First, the honest truth about macOS</h2>
+<p>macOS has no built-in per-app volume mixer. Windows has had one for over a decade in its Volume Mixer, but on the Mac the system slider moves everything at once. There is no Apple-supported API that lets a third-party app cleanly intercept and rebalance individual application streams. That single gap is why tools like Background Music and SoundDial exist at all, and it is the root cause of most of the trade-offs below.</p>
+
+<h2>What Background Music does well</h2>
+<p>Background Music is an open-source menu-bar app that has been around for years and has a loyal following for good reason. It gives you:</p>
+<ul>
+<li><strong>Independent volume per app</strong> — the core feature. Turn Spotify down while keeping a call loud.</li>
+<li><strong>Auto-pause</strong> — it can pause your music player when audio starts elsewhere, which is a nice touch for meetings.</li>
+<li><strong>A device volume that follows you</strong> and a simple, no-nonsense interface.</li>
+<li><strong>Zero cost</strong> — it is free and the code is public.</li>
+</ul>
+<p>For a lot of people that is enough. If your entire wish list is "make one noisy app quieter without touching the rest," Background Music covers it, and you should not pay for something you do not need. Being fair here matters: this is a legitimately useful tool.</p>
+
+<h2>Where the free approach shows its seams</h2>
+<p>The catch is <em>how</em> Background Music achieves per-app volume. Because macOS gives no official path, it installs a virtual audio driver (a modified version of the old Soundflower approach) that routes your system audio through itself. That architecture is clever, but it carries real costs:</p>
+<ul>
+<li><strong>It breaks after macOS updates.</strong> Virtual audio drivers sit deep in the system, and major macOS releases have historically disabled or destabilised them. Users routinely report silence, distortion, or the need to reinstall after upgrading. When it breaks, you are often on your own.</li>
+<li><strong>Installation is heavier.</strong> You are adding a kernel-adjacent audio device to your Mac, not just an app. Uninstalling cleanly can be fiddly.</li>
+<li><strong>It becomes your default output device.</strong> Because everything is routed through the virtual device, some pro-audio, conferencing, or game apps can behave oddly, and switching your real output is an extra step.</li>
+<li><strong>Development is community-paced.</strong> There is no support desk. Fixes arrive when a volunteer has time, which for an audio tool that can suddenly go silent is a meaningful risk.</li>
+</ul>
+<p>None of this makes Background Music bad. It makes it a free tool with a free tool's trade-offs.</p>
+
+<h2>What you actually pay for with SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a Mac App Store app, which shapes what it is. Because App Store apps are sandboxed and cannot ship the kind of low-level virtual driver Background Music uses, SoundDial is built to run without installing a separate audio device or DMG. That means:</p>
+<ul>
+<li><strong>No virtual-driver quirks.</strong> There is no extra output device hijacking your audio chain, and nothing to reinstall when the system changes.</li>
+<li><strong>It survives macOS updates far more gracefully.</strong> App Store distribution and sandboxing mean it is built against supported paths and gets updated through the store, so an OS upgrade is far less likely to leave you silent.</li>
+<li><strong>Per-app volume boost.</strong> This is a real feature difference: SoundDial can push an app <em>above</em> 100% for quiet sources — a podcast recorded too low, a muffled video call. Background Music only attenuates.</li>
+<li><strong>Volume profiles.</strong> Save a set of per-app levels ("Meeting," "Music," "Gaming") and switch in one click instead of dragging sliders every time.</li>
+<li><strong>Auto-ducking.</strong> Automatically drop other apps' volume when a chosen source plays — a more configurable take on the auto-pause idea.</li>
+<li><strong>Quick output switching</strong> baked into the menu bar, plus per-app mute.</li>
+<li><strong>Real support.</strong> It is a paid product with someone accountable when something goes wrong.</li>
+</ul>
+
+<h2>The honest decision</h2>
+<blockquote>If you want free and only need basic per-app volume, and you are comfortable troubleshooting after macOS updates, Background Music is a solid choice. If you want boost, profiles, ducking, output switching, no virtual-driver fragility, and someone to email when it breaks, SoundDial is worth €14.99.</blockquote>
+<p>A few concrete tiebreakers. If you regularly deal with too-quiet sources, boost alone justifies the price — Background Music simply cannot make audio louder than the source. If you dread the annual "will my audio survive the update" gamble, the sandboxed store app removes that anxiety. If you like set-and-forget scenes, profiles save real friction. And it is a one-time €14.99, not a subscription, so the comparison is a single purchase versus your time spent maintaining a free driver.</p>
+<p>Conversely, if you are a tinkerer who enjoys open source, wants to read the code, and mostly just turns one app down — save your money. Both tools solve the same core problem; they differ in robustness, feature depth, and who catches you when macOS changes underneath them.</p>
+
+<p>Want per-app volume without the virtual-driver gamble? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> — a one-time €14.99, sandboxed, no drivers, with boost, profiles, and auto-ducking built in.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "Is SoundSource Worth $39? A Cheaper One-Time Mac Alternative",
+    description: "SoundSource is a powerful Mac audio tool at ~$39, but it's overkill if you only need per-app volume and boost. Here's an honest comparison and a €14.99 one-time alternative.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>SoundSource is worth it if you need its full toolkit: per-app volume, a 10-band EQ per app, audio routing between devices, and system-wide effects. But at around $39 it's overkill if you mainly want per-app volume, per-app mute, and a volume boost. For that narrower job, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> costs €14.99 once.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Is SoundSource Worth $39? A Cheaper One-Time Mac Alternative" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>What SoundSource actually does</h2>
+<p>Rogue Amoeba's SoundSource is a genuinely excellent piece of software, and it's important to be fair about that. It's not just a volume mixer. It gives you:</p>
+<ul>
+<li><strong>Per-app volume control</strong> from the menu bar, the feature most people come for.</li>
+<li><strong>A full 10-band equalizer</strong> you can apply per app or system-wide, plus other audio effects (via Audio Unit plugins).</li>
+<li><strong>Output/input routing</strong>, including sending a single app to a different output device than the rest of the system.</li>
+<li><strong>Quick device switching</strong> and headphone-specific EQ presets.</li>
+</ul>
+<p>If you're a podcaster, streamer, or audio nerd who wants to tune the EQ on your headphones, redirect one app's sound to a separate speaker, or stack Audio Unit effects, SoundSource earns its price. Nothing here is a knock on it.</p>
+
+<h2>The price question</h2>
+<p>SoundSource is a paid, one-time license around $39 (pricing varies by version and promotions). It's not a recurring subscription in the Netflix sense, but it follows the classic paid-app pattern: you buy a major version, and future major upgrades are typically discounted paid upgrades rather than free forever. Over several years, that's more than a single purchase. For a lot of Mac users, the honest question is: am I paying $39 for a routing-and-EQ suite when all I really touch is the per-app volume sliders?</p>
+
+<blockquote>If you've opened SoundSource and only ever used the volume sliders and the mute buttons, you're paying for a suite to use one drawer of it.</blockquote>
+
+<h2>Why the problem exists at all</h2>
+<p>Here's the honest root cause: macOS has no built-in per-app volume mixer. Windows has had one for years, but on the Mac, the system volume is all-or-nothing. There's no Apple-provided way to keep Spotify quiet while a video call stays loud, or to mute one app without touching everything else. That gap is exactly why tools like SoundSource and <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> exist. It's a real OS limitation, not something either app invented a problem to solve.</p>
+
+<h2>Where a lighter, cheaper option fits</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a menu-bar per-app volume mixer built for the common case rather than the pro-audio case. It covers:</p>
+<ul>
+<li><strong>Independent volume per app</strong> — drop your music while a meeting stays at full level.</li>
+<li><strong>Per-app mute</strong> — silence one app without muting the Mac.</li>
+<li><strong>Per-app volume boost</strong> — push a quiet app above its normal 100% when the source is just too soft.</li>
+<li><strong>Volume profiles</strong> — save a set of per-app levels (e.g. a "focus" or "call" layout) and switch in one click.</li>
+<li><strong>Auto-ducking</strong> — automatically lower other apps when you start talking or when a chosen app plays.</li>
+<li><strong>Quick output switching</strong> — jump between speakers, headphones, and other devices from the menu bar.</li>
+</ul>
+<p>It's <strong>€14.99 one-time</strong>, sold through the Mac App Store, so it's sandboxed and there's no separate DMG, no kernel extension, and no audio driver to install. You download it like any App Store app and it updates through the store.</p>
+
+<h2>An honest comparison</h2>
+<p>Be clear-eyed about the trade-off. SoundSource does more than SoundDial, and if any of the following matter to you, SoundSource is the better buy:</p>
+<ul>
+<li>You want a real per-app or system <strong>equalizer</strong> and Audio Unit effects.</li>
+<li>You need to <strong>route a single app to a different output device</strong> than everything else.</li>
+<li>You rely on <strong>headphone-specific EQ presets</strong> and fine-grained audio processing.</li>
+</ul>
+<p>SoundDial doesn't do EQ or per-app device routing. It's deliberately narrower. What it gives you in return is a lower price, a lighter footprint, and a focused menu-bar interface for the thing most people actually wanted: keeping each app at the level you choose, with boost and profiles on top.</p>
+
+<h2>So, is SoundSource worth it?</h2>
+<p>Yes, if you'll use the EQ and routing. It's mature, well-supported software from a respected developer, and the price reflects real capability. But "worth it" depends on what you'll touch. If you open the app and only ever adjust volume sliders, mute an app, or wish one quiet app were louder, you're paying premium-suite money for basic-mixer needs. In that case a one-time €14.99 tool is the more sensible fit, and you can always move up to SoundSource later if your needs grow into EQ and routing.</p>
+
+<p>If per-app volume, boost, mute, profiles, and auto-ducking are all you're after, <a href="https://apps.apple.com/app/id6772792641">get SoundDial on the Mac App Store</a> — €14.99 once, no subscription, no drivers.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Too Loud on Mac? Turn Down One Browser Without Muting Everything",
+    description: "Chrome blasting louder than your other apps on Mac? Learn the built-in fixes (per-tab mute, site sound settings) and how to set a true per-app volume for Chrome so it stays quieter than everything else.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>macOS has no built-in per-app volume, so you can't natively turn Chrome down while leaving other apps at full volume. Your fastest free fixes are muting noisy tabs, lowering the volume inside each video player, or blocking sound per-site in Chrome's settings. For a real, persistent Chrome-only volume level, you need a per-app mixer.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Too Loud on Mac? Turn Down One Browser Without Muting Everything" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why Chrome sounds louder than everything else</h2>
+<p>Chrome isn't necessarily "louder" by design — it's that Chrome routes audio from many independent sources: YouTube, autoplaying ads, video calls, background music tabs, and web apps that each ship their own loudness. Some sites are mastered hot, ads are notoriously loud, and Chrome plays all of them at your system's full output level. Meanwhile your music app or a call might be quieter, so Chrome dominates the mix.</p>
+<p>On Windows, you'd just open the Volume Mixer and drag the Chrome slider down. macOS simply doesn't include that feature. The system volume key controls everything at once, so turning Chrome down also turns your music, notifications, and calls down. That's the core limitation — and it's an OS gap, not something you're doing wrong.</p>
+
+<h2>Built-in fixes that cost nothing</h2>
+<p>Before installing anything, try these. They won't give you a single Chrome volume dial, but they solve most "one loud tab" problems.</p>
+<ul>
+<li><strong>Mute a noisy tab.</strong> Right-click the tab and choose "Mute site," or click the small speaker icon that appears on a tab playing audio. This silences that tab completely without touching the rest of Chrome.</li>
+<li><strong>Lower the volume inside the player.</strong> The most reliable trick: drag the volume slider down inside YouTube, Netflix, or whatever's playing. Web players remember their own level per site, so a quieter YouTube stays quiet next time.</li>
+<li><strong>Block sound per site.</strong> Go to <em>chrome://settings/content/sound</em>. You can flip sites between "allowed" and "muted," and add specific domains to a mute list. Great for permanently silencing sites that autoplay.</li>
+<li><strong>Kill autoplay ads.</strong> Ad audio is often the real culprit. A content blocker or muting the tab until you're ready to watch removes most surprise loudness.</li>
+</ul>
+<blockquote>These are genuinely useful and free. But notice what they can't do: they mute or manage individual tabs. None of them let you say "keep all of Chrome at 40% while my music stays at 100%."</blockquote>
+
+<h2>The honest limitation: no per-app volume in macOS</h2>
+<p>If your actual goal is "Chrome should always be quieter than my other apps," the built-in tools fall short. Per-tab muting is all-or-nothing. Player sliders reset when a site doesn't remember them and have to be redone constantly. And the system volume moves everything together.</p>
+<p>This is a real macOS limitation, not a bug you can configure away. Apple has never shipped a Windows-style volume mixer. The only way to get a persistent, independent volume level for Chrome specifically is a third-party app that sits between your apps and your output device and applies per-app gain.</p>
+
+<h2>Set a real per-app volume for Chrome</h2>
+<p>A menu-bar mixer like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> gives macOS the per-app volume control it's missing. It lists every app currently playing audio and gives each one its own slider — so you can pull Chrome down to a comfortable level and leave Spotify, your calls, and system sounds exactly where they are.</p>
+<p>Here's how you'd tame a loud Chrome with it:</p>
+<ul>
+<li>Open the menu-bar mixer and find Chrome in the list of active apps.</li>
+<li>Drag Chrome's slider down to, say, 40 to 50 percent. Other apps stay untouched.</li>
+<li>If a specific app is too <em>quiet</em> instead — a call app that whispers — use <a href="https://apps.apple.com/app/id6772792641">per-app volume boost</a> to push it above 100 percent, while keeping Chrome low.</li>
+<li>Mute Chrome instantly with a per-app mute when you need silence without closing tabs.</li>
+</ul>
+<p>Because the level is tied to the app, it sticks. Chrome stays at your chosen volume across tabs, sites, and restarts — no re-dragging player sliders every time you open a new video.</p>
+
+<h2>Going further: profiles, ducking, and output switching</h2>
+<p>Once you have per-app control, a few extras make it worth keeping around. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lets you save volume <strong>profiles</strong> — for example a "focus" profile where Chrome is quiet and music is loud, and a "watching" profile where Chrome dominates — and switch between them in one click. Auto-ducking can dip other apps automatically when a chosen source starts (handy so a call is never buried under a loud browser tab). And quick output switching lets you jump between speakers, headphones, and other devices without diving into System Settings.</p>
+<p>It's a €14.99 one-time purchase on the Mac App Store — no subscription, no drivers to install, no DMG or kernel extension. Because it's sandboxed and distributed through the App Store, it doesn't require the sketchy audio-driver installs older mixer tools relied on.</p>
+
+<h2>Which fix should you use?</h2>
+<p>If you just have one obnoxious tab now and then, use Chrome's built-in mute and the site sound settings — they're free and they work. If you constantly find yourself wishing Chrome could simply be turned down while everything else stays put, that's the exact gap macOS leaves open, and a per-app mixer is the clean fix.</p>
+
+<p>Want Chrome permanently quieter without muting your music or calls? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and give every app its own volume slider.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "WhatsApp & Telegram Notification Sounds Too Loud on Mac? Turn Them Down",
+    description: "Fix WhatsApp and Telegram desktop notification sounds that are too loud on your Mac. Start with each app's built-in settings, then lower or mute the whole app when macOS gives you no per-app control.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>Start inside each app: WhatsApp and Telegram both let you mute or change notification sounds in their own settings, which is the cleanest fix. But macOS has no per-app notification volume slider, so if the app's own sound is still too loud, your only real lever is to lower or mute that entire app's audio with a per-app volume tool.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — WhatsApp & Telegram Notification Sounds Too Loud on Mac? Turn Them Down" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>First, use the app's own notification settings</h2>
+
+<p>Both WhatsApp and Telegram ship their own sound controls, and this is where you should always start. It's the most precise fix and it doesn't touch anything else on your Mac.</p>
+
+<p><strong>WhatsApp Desktop:</strong> Open WhatsApp, click <em>Settings</em> (the gear icon), then <em>Notifications</em>. You can toggle off <em>Sounds</em> entirely while keeping banners, or disable notification previews. WhatsApp doesn't offer a volume slider, so it's essentially on or off for the sound itself.</p>
+
+<p><strong>Telegram Desktop:</strong> Open <em>Settings → Notifications and Sounds</em>. Telegram is more flexible here. You can turn off the notification sound globally, mute individual chats, or set custom (quieter) tones. You can also silence a single noisy group by opening it and choosing <em>Mute</em>. For most people, muting the loudest chats fixes the problem without going silent everywhere.</p>
+
+<p>If the sound is fine but too frequent, mute the specific chats or channels that fire most often rather than killing sound app-wide. That keeps important alerts audible.</p>
+
+<h2>Turn off notification sounds in macOS System Settings</h2>
+
+<p>macOS has a second layer of control that overrides the app in some cases. Go to <em>System Settings → Notifications</em>, select WhatsApp or Telegram in the list, and turn off <em>Play sound for notifications</em>. This silences the alert chime for that app while still showing banners.</p>
+
+<p>This is a genuinely good fix if you only want the app to be quiet on notifications and don't care about its other audio (calls, video). Combined with the app's own settings, it covers most "the ping is jarring" complaints.</p>
+
+<h2>The real limitation: macOS has no per-app volume</h2>
+
+<p>Here's the honest part. The steps above are on/off switches. What they can't do is turn WhatsApp or Telegram <em>down</em> to, say, 40% while keeping everything else at full volume. Windows has had a per-app volume mixer for years. macOS simply doesn't include one, and there's no hidden setting or Terminal command that adds it.</p>
+
+<p>This matters when the problem isn't the notification chime specifically, but the whole app being too loud:</p>
+
+<ul>
+<li>WhatsApp or Telegram <strong>voice and video calls</strong> that blast at full volume relative to your music or a meeting</li>
+<li>A notification sound you want to keep but at a lower level, not off entirely</li>
+<li>Ringtones that spike far above whatever else you're listening to</li>
+<li>Wanting the app audible but quietly in the background while you focus on something else</li>
+</ul>
+
+<p>None of that is solvable with the built-in tools, because they only offer mute, not a level. That gap is a real macOS limitation, not something you're missing.</p>
+
+<h2>Set a per-app volume with SoundDial</h2>
+
+<p>To actually turn a single app down instead of off, you need a per-app volume mixer. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a menu-bar app that gives macOS the per-app volume control it never shipped with. It lists every app currently playing audio and gives each one its own slider.</p>
+
+<p>For this specific problem:</p>
+
+<ul>
+<li>Open <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> from the menu bar and find WhatsApp or Telegram in the list.</li>
+<li>Drag its slider down to a comfortable level, for example 30–40%, while leaving your music, browser, or video call untouched.</li>
+<li>Use the per-app <strong>mute</strong> button to silence just that app instantly during a call or a meeting, then unmute later without digging through settings.</li>
+<li>If you ever need the opposite, a quiet app that's too soft, the per-app <strong>boost</strong> can push it above 100%.</li>
+</ul>
+
+<p>Because it sets a level per app, SoundDial keeps notification chimes and call audio audible but proportionate, instead of the all-or-nothing choice the built-in options force on you. You can also save <strong>volume profiles</strong>, so a "focus" setup that keeps chat apps low is one click away.</p>
+
+<blockquote>One honest caveat: lowering an app's overall volume in SoundDial also lowers its notification chimes, since to macOS they're the same app's audio. If you want notifications completely off but calls at full volume, use the app's own mute plus System Settings for the chime, and reserve SoundDial for setting the general level.</blockquote>
+
+<p>SoundDial is a one-time €14.99 purchase on the Mac App Store, sandboxed, with no subscription, no kernel drivers, and no DMG to sideload. It's the practical answer when the fix you actually want, turning one app down rather than off, isn't something macOS itself can do.</p>
+
+<h2>Which fix should you use?</h2>
+
+<p>Work top to bottom. Try the app's own notification settings first, then macOS System Settings to kill the chime. If what you really want is to lower WhatsApp or Telegram to a specific volume, or mute just that app on the fly during calls, that's where a per-app mixer earns its place.</p>
+
+<p>Tired of choosing between full blast and total silence for your chat apps? <a href="https://apps.apple.com/app/id6772792641">Get SoundDial on the Mac App Store</a> and give every app its own volume dial.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Game Audio Louder Than Discord on Mac? How to Balance Game vs Voice Volume",
+    description: "Your game is drowning out Discord voice chat on Mac and there's no built-in volume mixer. Here's why macOS lacks Windows-style per-app volume, and how to turn the game down while keeping voice up.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>macOS has no built-in per-app volume mixer, so you can't natively cap your game while keeping Discord loud. The fix is a menu-bar app that sets independent volume per application. Turn the game down to 40-50%, leave voice chat at 100%, and both stay balanced without touching in-game sliders.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Game Audio Louder Than Discord on Mac? How to Balance Game vs Voice Volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why this happens on Mac (and not on Windows)</h2>
+
+<p>If you've gamed on Windows, you know the Volume Mixer: right-click the speaker icon, and every running app gets its own slider. You drop the game, raise Discord, done. macOS simply never shipped that feature. There is one master output volume and a handful of app-level toggles buried in system settings, but no per-application level control for arbitrary apps.</p>
+
+<p>So when a game's mix is mastered hot, its explosions, music, and gunfire come through at the same output level as your friends' voices. Some games expose a master volume slider, but plenty don't go low enough, and many launchers, browsers, and standalone titles offer no useful control at all. Discord itself only lets you adjust incoming users' volume, not the game competing with them.</p>
+
+<p>To be honest, this is an OS-level gap, not a bug you can toggle away. Apple's audio stack routes everything to a single output stream, and there's no first-party UI to split it per app. That's why you need a third-party tool that sits between your apps and the output device.</p>
+
+<h2>The manual workarounds (and why they fall short)</h2>
+
+<p>Before reaching for software, it's worth knowing the free options and their limits:</p>
+
+<ul>
+<li><strong>Lower the game's in-app volume.</strong> Works if the game has a master slider with fine enough steps. Many stop at 10% increments or bundle music and effects together, so you can't tame just the loud parts.</li>
+<li><strong>Raise your friends in Discord.</strong> Right-click each user and boost their volume. This helps a little but tops out, and it doesn't touch the game that's actually the problem.</li>
+<li><strong>Use headphones with a hardware volume knob.</strong> Only changes the overall level, not the balance between game and voice.</li>
+<li><strong>Route audio through a virtual device.</strong> Tools like Loopback or BlackHole can split streams, but they're aimed at pros, take real setup, and are overkill for "make the game quieter."</li>
+</ul>
+
+<p>None of these give you the one thing Windows users take for granted: a quick slider per app. That's the gap <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is built to fill.</p>
+
+<h2>The direct fix: independent volume per app</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a menu-bar per-app volume mixer for macOS. It shows every app currently playing sound and gives each one its own slider, exactly like the Windows Volume Mixer. For the game-versus-voice problem, the workflow is short:</p>
+
+<ul>
+<li>Click the SoundDial icon in your menu bar while the game and Discord are both running.</li>
+<li>Find the game in the list and pull its slider down to roughly 40-50%.</li>
+<li>Leave Discord (or Slack, Zoom, or your voice app) at 100%.</li>
+<li>Adjust on the fly during play — nudge the game down further in a loud firefight, back up during quiet exploration.</li>
+</ul>
+
+<p>Because the levels are per app, you set them once and they hold. The game stays capped no matter how hot its own mix runs, and your friends stay clearly audible over it.</p>
+
+<h2>Boost, mute, and profiles for the rest of your setup</h2>
+
+<p>The same tool covers the adjacent annoyances that come with voice gaming:</p>
+
+<ul>
+<li><strong>Per-app boost.</strong> If a teammate's mic is quiet even at Discord's max, you can push the voice app <em>above</em> 100% so it cuts through the game rather than getting buried.</li>
+<li><strong>Per-app mute.</strong> Silence a background browser tab or a music app instantly without alt-tabbing or killing playback.</li>
+<li><strong>Volume profiles.</strong> Save a "gaming" profile with the game at 45% and Discord boosted, then switch back to a "normal" profile for everyday use in one click — no re-dragging sliders each session.</li>
+<li><strong>Auto-ducking.</strong> Have the game automatically dip when someone talks, so callouts always land on top of the action.</li>
+<li><strong>Quick output switching.</strong> Jump between headphones and speakers from the same menu without diving into System Settings.</li>
+</ul>
+
+<blockquote><p>The mental model is simple: one slider per app, the way Windows has done it for years. macOS just never provided it, so a small utility restores parity.</p></blockquote>
+
+<h2>What to expect honestly</h2>
+
+<p>A per-app mixer solves the balance problem cleanly, but set expectations correctly. It controls software output levels — it can't fix a game whose own audio is badly mastered, and it can't raise a signal that was never captured (a genuinely broken mic still needs a hardware fix). Boost adds real gain, so pushing a quiet source far past 100% can introduce distortion, exactly like turning any amp up too high. Used sensibly, though, a modest game cap plus a small voice boost is all most setups need.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is sandboxed and installs straight from the Mac App Store — no drivers, no kernel extensions, no DMG to trust. It's a one-time €14.99 with no subscription, and it supports macOS volume control across 28 languages.</p>
+
+<p>Stop fighting your in-game sliders. Grab <a href="https://apps.apple.com/app/id6772792641">SoundDial on the Mac App Store</a>, turn the game down, keep your squad loud, and finally get the Windows-style volume mixer macOS forgot to ship.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "External Monitor Speakers Too Loud or Stuck on Mac? Fix HDMI/DisplayPort Volume",
+    description: "Why your Mac's volume keys don't control HDMI or DisplayPort monitor speakers, and how to fix audio that's too loud, stuck, or unadjustable using the monitor OSD, Audio MIDI Setup, and better output routing.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>If your Mac's volume keys are greyed out or do nothing for a monitor connected over HDMI or DisplayPort, that's usually not a bug. Digital display audio is often sent at a fixed level, and the monitor's own hardware controls the volume. The fix is to adjust the display, reroute output, or use a different audio device.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — External Monitor Speakers Too Loud or Stuck on Mac? Fix HDMI/DisplayPort Volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why the Mac volume keys stop working over HDMI/DisplayPort</h2>
+
+<p>HDMI and DisplayPort carry audio as a digital stream. Many monitors receive that stream at a fixed output level and expect you to control loudness on the display itself, not on the source device. When macOS detects this, it disables the on-screen volume slider and greys out the F11/F12 keys, showing a "no entry" symbol when you press them.</p>
+
+<p>This is a hardware and protocol limitation, not something software on the Mac can override. The audio never passes through a stage where macOS is allowed to attenuate it. No app, driver, or setting can inject volume control into a stream the display insists on receiving at full level. Being honest about that saves you hours of chasing the wrong fix.</p>
+
+<h2>Fix 1: Use the monitor's own controls (OSD)</h2>
+
+<p>This is the real solution for most people. Nearly every monitor with built-in speakers has an on-screen display menu driven by physical buttons or a joystick on the back or underside of the panel.</p>
+
+<ul>
+<li>Press the OSD/menu button to open the monitor's settings.</li>
+<li>Look for an Audio or Volume section.</li>
+<li>Lower the level there — this is the control that actually works over HDMI/DP.</li>
+</ul>
+
+<p>Some monitors also expose a companion app or DDC/CI support so you can drive the OSD from macOS. Third-party utilities that speak DDC can map your Mac's volume keys to the monitor's hardware volume, which is worth trying if you hate reaching for the panel buttons.</p>
+
+<h2>Fix 2: Check Audio MIDI Setup</h2>
+
+<p>Open <strong>Audio MIDI Setup</strong> (in /Applications/Utilities). Select your monitor in the device list. If a volume slider appears on the right, drag it down — sometimes the display exposes a software-controllable level even when the menu-bar keys are disabled. If the slider is missing or greyed out, the display is confirming it only accepts fixed-level audio, and you should fall back to the OSD.</p>
+
+<p>While you're here, confirm the correct output device is selected. It's common to have audio silently routed to a monitor you forgot was connected, which explains sudden loud or absent sound.</p>
+
+<h2>Fix 3: Route audio somewhere you can actually control</h2>
+
+<p>If your monitor's speakers are mediocre anyway (most are) and its volume control is clumsy, the cleanest fix is to stop using them:</p>
+
+<ul>
+<li>Plug speakers or headphones into the monitor's headphone-out jack if it has one — that analog output is usually volume-controllable from the display.</li>
+<li>Use a USB DAC, USB speakers, or a Bluetooth output. USB and analog outputs give macOS full software volume control, so your keys work normally again.</li>
+<li>Select your Mac's built-in speakers for quick sounds and keep the monitor for video only.</li>
+</ul>
+
+<p>Once you're on an output that macOS can actually attenuate, the system volume keys behave, and you regain fine control instead of jumping between the monitor's coarse OSD steps.</p>
+
+<h2>Once output works, control volume per app</h2>
+
+<p>Getting a controllable output back solves the "too loud / stuck" problem. But macOS still gives you only one master volume for everything. There's no built-in per-app mixer on the Mac — Windows has had one for years, but Apple never shipped an equivalent. So a loud video, a game, and a quiet call all share the same slider.</p>
+
+<p>That's the gap <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> fills. It's a menu-bar mixer that gives each app its own independent volume, so you can turn a browser tab down without touching your music, mute one app instantly, or boost a quiet app above its normal ceiling. You can save volume profiles for different setups and switch outputs quickly from the menu bar.</p>
+
+<p>To be clear about scope: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> controls software volume for audio flowing through macOS. It cannot override a monitor that's ignoring system volume over HDMI — that's the display's fixed-level behavior, and only the OSD or a different output fixes it. Once you're on a controllable output, per-app control is where the app shines.</p>
+
+<h2>Quick checklist</h2>
+
+<ul>
+<li>Keys greyed out over HDMI/DP? Use the monitor's OSD volume — that's expected behavior.</li>
+<li>Check Audio MIDI Setup for a hidden software slider.</li>
+<li>Confirm the right output device is selected.</li>
+<li>For real control, route audio to headphone-out, USB, or Bluetooth.</li>
+<li>Then use a per-app mixer to balance individual apps.</li>
+</ul>
+
+<p>Once your output is under control, give <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> a look. It's a €14.99 one-time purchase from the Mac App Store — no subscription, no drivers, no DMG — and it finally brings a real per-app volume mixer to macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "USB DAC Volume Won't Adjust on Mac? Get Software Volume Control Back",
+    description: "Why macOS greys out the volume slider for many USB DACs, what it means, and how to get working software volume control back on your Mac without hurting audio quality.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>If your USB DAC's volume slider is greyed out on Mac, it's usually not a bug. macOS disables its software volume when a DAC reports that it has no controllable volume, expecting you to use the DAC's own hardware knob. To get software volume back, use an app-level attenuator like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Volume Won't Adjust on Mac? Get Software Volume Control Back" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why macOS greys out the volume for some USB DACs</h2>
+
+<p>When you plug in a USB audio device, macOS asks it what it can do over the USB Audio Class (UAC) protocol. Part of that handshake is a set of "feature unit" controls, including a volume control. If the DAC declares a volume control, macOS wires it to your keyboard volume keys and the menu-bar slider. If the DAC declares that it has no host-adjustable volume, macOS greys the slider out completely.</p>
+
+<p>Many high-quality DACs and amps do exactly the latter, on purpose. The designer's assumption is that you'll feed the DAC a full-scale, bit-perfect digital signal and control loudness with the analog volume knob on the unit itself. That analog attenuation happens after the digital-to-analog conversion, so it avoids throwing away bits and is genuinely the audiophile-preferred path. It's a feature, not a fault.</p>
+
+<blockquote>Rule of thumb: if your DAC has a physical volume knob and the Mac slider is greyed out, the manufacturer wants you to use the knob. The signal is being sent at 100% by design.</blockquote>
+
+<h2>When the greyed-out slider is actually a problem</h2>
+
+<p>The "just use the knob" answer breaks down in real setups:</p>
+
+<ul>
+<li><strong>The DAC has no knob.</strong> Plenty of compact USB DACs, dongles, and pro interfaces expose no volume control and no host control either. You're stuck at whatever level the downstream amp or powered speakers are set to.</li>
+<li><strong>The knob is out of reach.</strong> A desktop DAC behind your monitor, or a unit feeding a fixed-gain amp, means adjusting volume becomes a physical chore instead of a keypress.</li>
+<li><strong>You need per-app balance, not just a master level.</strong> Even a perfect hardware knob is a single global control. It can't make a Zoom call quieter than your music, or duck a game when a notification fires.</li>
+</ul>
+
+<p>None of these are fixed by macOS, because from the OS's perspective the device is behaving correctly. This is the honest limitation: it's a device-reported capability, and there is no toggle in System Settings to override it.</p>
+
+<h2>Honest workarounds before you install anything</h2>
+
+<p>Try these first, because they cost nothing:</p>
+
+<ul>
+<li><strong>Use the hardware knob or downstream volume.</strong> If your DAC or your powered speakers/amp have a control, that's the cleanest option and preserves full digital resolution.</li>
+<li><strong>Check the DAC's own app or firmware.</strong> Some DACs (and gaming-oriented units) ship a control panel or a firmware setting that enables host volume. If a "USB volume" or "software volume" option exists, turning it on makes the macOS slider work again.</li>
+<li><strong>Try a different USB mode.</strong> A few devices report different capabilities in "class-compliant" vs. a proprietary driver mode. Installing or removing the vendor driver can change whether macOS sees a volume control.</li>
+<li><strong>Look in Audio MIDI Setup.</strong> Open Audio MIDI Setup, select the device, and check whether a master or per-channel volume appears there. Occasionally a slider is available in that panel even when the menu bar one is greyed out.</li>
+</ul>
+
+<p>If none of those apply, you need software attenuation on the Mac side.</p>
+
+<h2>Software volume control with per-app attenuation</h2>
+
+<p>When the hardware won't accept a volume command, the remaining option is to attenuate the audio in software before it reaches the DAC. This is exactly what <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> does. It sits in your menu bar and gives every running app its own independent volume, mute, and even a boost, regardless of whether your DAC exposes a hardware control.</p>
+
+<p>To use it for a greyed-out DAC:</p>
+
+<ul>
+<li>Install <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> from the Mac App Store and open it from the menu bar.</li>
+<li>Keep your DAC selected as the system output; you can also use SoundDial's quick output switching to move between the DAC, speakers, and headphones without diving into System Settings.</li>
+<li>Set per-app levels: drop the browser, raise the music player, mute whatever you don't want. Each app streams at the volume you choose, and the mixed result goes to the DAC.</li>
+<li>Save volume profiles for different scenarios (calls vs. listening), and let auto-ducking lower background apps when something more important starts playing.</li>
+</ul>
+
+<h2>The honest tradeoff on audio quality</h2>
+
+<p>Software attenuation reduces the digital level before conversion, so in theory it discards a small amount of resolution compared with analog volume on the DAC itself. In practice, on modern 24-bit and higher paths at normal listening levels, the reduction is well below anything audible, and you keep the DAC's full dynamic range for anything played near full scale. If you're a purist with a good analog knob within reach, use the knob. If you have no usable hardware control, or you need per-app balance macOS simply can't provide, software volume is the right tradeoff, and it beats a slider that does nothing.</p>
+
+<p>SoundDial is a €14.99 one-time purchase, sandboxed, with no drivers, kernel extensions, or DMG installers. If your USB DAC's volume is greyed out and reaching for a knob isn't an option, <a href="https://apps.apple.com/app/id6772792641">get SoundDial on the Mac App Store</a> and put working volume control back in your menu bar.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Cap the Maximum Volume of One Loud App on Mac (Protect Your Hearing)",
+    description: "macOS has no per-app volume cap, so one loud app can blast you at full system volume. Here's how to set a maximum-volume ceiling for a single app on Mac with a per-app mixer, and why hardware limits matter.",
+    date: "2026-07-23",
+    readTime: "5 min read",
+    content: `<p>macOS has no built-in way to cap the maximum volume of one app, so a loud program plays at whatever your system slider is set to. To set a ceiling for a single app, use a menu-bar per-app mixer like <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: hold that app at, say, 40 percent while your system volume stays higher for everything else.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Cap the Maximum Volume of One Loud App on Mac (Protect Your Hearing)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Why one app can suddenly blast you on a Mac</h2>
+
+<p>On macOS, the volume slider in the menu bar or Control Center is a single system-wide control. Every app pours into the same output at the same level. There is no per-app volume mixer built into the operating system the way Windows has had one for years with its Volume Mixer panel.</p>
+
+<p>That design has a real consequence for your ears. If you set your system volume high so you can hear a quiet podcast or a soft video call, then switch to a game, a Discord notification, an ad-heavy website, or a video that was mastered far louder, that app plays at the full system level too. The result is the classic jump-scare: a sudden wall of sound at a volume you never intended for that specific app.</p>
+
+<p>For anyone with tinnitus, sound sensitivity, or who simply values their hearing, that unpredictability is the problem. You are not trying to make everything quieter. You are trying to guarantee that one specific loud app can never exceed a level you have decided is safe.</p>
+
+<h2>What macOS can and cannot do here</h2>
+
+<p>Let me be honest about the limits before recommending anything.</p>
+
+<ul>
+<li><strong>System volume</strong> lowers everything at once. Turn it down to tame one app and your quiet apps become inaudible.</li>
+<li><strong>In-app volume sliders</strong> exist in some apps (media players, some browsers per-tab) but not most. A game, a video call, or a native app often has no independent volume control at all.</li>
+<li><strong>The hardware ceiling is real.</strong> No software can push a signal louder than your output device's maximum. Conversely, an app's own loudness mastering, plus your DAC and headphones, set how loud "100 percent" actually feels. Software can lower a per-app level reliably, but it cannot rewrite the physics of your headphones.</li>
+</ul>
+
+<p>So the honest goal is not magic loudness limiting at the driver level. It is a practical, reliable per-app attenuation: hold a chosen app at a fixed fraction of the system output so it can never surprise you.</p>
+
+<h2>How to cap a single app's volume with a per-app mixer</h2>
+
+<p>A per-app volume mixer intercepts each app's audio and lets you set its level independently. Here is the workflow with <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, which lives in the menu bar:</p>
+
+<ul>
+<li><strong>Open the mixer.</strong> Click the SoundDial menu-bar icon. You'll see a list of every app currently playing audio, each with its own slider.</li>
+<li><strong>Find the loud app.</strong> Locate the app you want to cap, for example a game, a browser, or a video-conferencing tool.</li>
+<li><strong>Set its ceiling.</strong> Drag that app's slider down to your safe level, say 35 to 50 percent. That app now plays at that fraction of the system output while every other app stays where it was.</li>
+<li><strong>Leave your system volume where you need it.</strong> Keep the system slider high enough for your quiet apps. The capped app stays reined in regardless.</li>
+</ul>
+
+<p>Because the level is per-app, you are effectively setting a maximum for that one program. Even when it tries to play its loudest content, its loudest is now your chosen fraction of full.</p>
+
+<h2>Make the cap stick with profiles</h2>
+
+<p>A single manual adjustment helps, but app levels can reset when you quit and relaunch. To make a hearing-safe setup that survives restarts, use <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>'s volume profiles. Save a profile with your preferred per-app levels, for example "quiet game night" with the game at 40 percent, your music app at 70 percent, and your call app at 90 percent. Recall it in one click whenever you sit down. Your ceiling for the loud app comes back exactly as you set it.</p>
+
+<p>Two more features are worth knowing for hearing protection:</p>
+
+<ul>
+<li><strong>Per-app mute</strong> lets you instantly silence a single offender without touching anything else, useful for an app that spams loud notifications.</li>
+<li><strong>Auto-ducking</strong> automatically dips background audio when something more important starts, so you are not caught between two loud sources at once.</li>
+</ul>
+
+<blockquote><p>Software attenuation is genuinely effective for capping an app, but it is one layer of protection, not a medical safeguard. If you have tinnitus or sound sensitivity, pair a per-app ceiling with sensible overall listening levels and breaks. No app replaces careful volume habits.</p></blockquote>
+
+<h2>A note on boost, and why it's separate</h2>
+
+<p>The same per-app mixer that caps a loud app can also boost a too-quiet one above 100 percent, which is handy for an app whose own volume is mastered too low. These are two sides of the same control: you decide each app's level, up or down. For hearing protection you are simply choosing the "down" direction and holding it there.</p>
+
+<h2>The short version</h2>
+
+<p>macOS won't let you cap a single app's volume on its own, and that is a genuine OS gap, not user error. A menu-bar per-app mixer closes it: set the loud app to a fixed fraction, save it in a profile, and it can never blast you again while your other apps stay audible.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a one-time €14.99 purchase on the Mac App Store, sandboxed with no drivers or DMG to install. If protecting your ears from one unpredictable app is the goal, it's the simplest way to set that ceiling and keep it.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Different Left/Right Balance Per App on Mac — Is It Possible?",
+    description: "Can you set a different left/right stereo balance for each app on macOS? Honestly, no — not natively, and not with most tools. Here's what's actually possible and where the real limits are.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>Honestly, no — macOS does not let you set a different left/right stereo balance per application, and almost no third-party tool exposes true per-app panning either. You can set one global balance for your output device, and you can control per-app <em>volume</em>, but independent per-app <em>pan</em> is not a feature macOS makes available.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Different Left/Right Balance Per App on Mac — Is It Possible?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Balance vs. volume — they're not the same thing</h2>
+
+<p>It's worth separating two ideas that often get confused:</p>
+<ul>
+  <li><strong>Volume</strong> — how loud an app is overall. This is a single level applied to both channels.</li>
+  <li><strong>Balance (pan)</strong> — how audio is distributed between the left and right speakers. A balance of "full left" sends everything to the left channel and silences the right.</li>
+</ul>
+
+<p>People asking for "different balance per app" usually want one of two things: to push one app's sound to one ear (say, a call in your left ear, music in your right), or to correct for a hearing difference or a bad speaker on one side — but only for certain apps. Those are legitimate goals. The problem is where the control lives.</p>
+
+<h2>Why macOS can't do this natively</h2>
+
+<p>macOS has exactly one balance control, and it lives at the output-device level. You'll find it under <strong>System Settings → Sound → Output</strong>, where a <em>Balance</em> slider shifts the entire mix left or right. Whatever that slider is set to applies to <em>everything</em> routed to that device — every app, every system sound, all at once.</p>
+
+<p>There is no API in the standard macOS audio stack that says "render this app's audio to the left, that app's to the right." Apps hand their audio to the system already mixed down, and the system applies one master balance on the way to the speakers. So the layer where you'd want per-app pan simply isn't exposed by the operating system. This is a genuine OS limitation, not something a menu-bar utility can politely work around.</p>
+
+<blockquote>Unlike per-app <em>volume</em> — which macOS also lacks natively but which apps can implement by tapping the audio stream — per-app <em>balance</em> would require re-panning each app's stream independently, and that hook isn't available to sandboxed apps.</blockquote>
+
+<h2>What SoundDial does — and honestly, what it doesn't</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> gives you the per-app control macOS is missing: independent <strong>volume</strong> for each running app, per-app <strong>mute</strong>, a per-app volume <strong>boost</strong> above 100%, savable volume <strong>profiles</strong>, auto-ducking, and quick output switching from the menu bar.</p>
+
+<p>To be straight with you: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> controls per-app <em>loudness and muting</em>, not per-app stereo <em>panning</em>. It won't send Safari to your left ear and Spotify to your right. If someone tells you a menu-bar mixer does true per-app L/R balance on macOS, be skeptical — that's not a control the OS hands out. What SoundDial genuinely solves is the far more common frustration: one app being too loud or too quiet relative to another.</p>
+
+<h2>The real workarounds for per-app balance</h2>
+
+<p>If you truly need audio split by side, here are the honest options, roughly from simplest to most involved:</p>
+
+<ul>
+  <li><strong>Global balance (all apps):</strong> Use System Settings → Sound → Output → Balance. This is your only built-in option, and it affects every app. Useful for correcting a room or a hearing asymmetry, useless for isolating one app.</li>
+  <li><strong>Separate output devices:</strong> This is the closest thing to real per-app balance. Route App A to one output device and App B to another, then set each device's balance independently. macOS lets you pick an output device inside some apps (and browsers/communication apps often expose their own output picker). If App A points to a device panned left and App B to a device panned right, you effectively get per-app balance — as long as both apps let you choose their output.</li>
+  <li><strong>Virtual audio routing tools:</strong> Utilities that create virtual devices and an internal mixer can, in some configurations, route specific apps to specific channels. This is powerful but fiddly, adds a driver-style component, and is overkill for most people. It's the domain of streamers and audio engineers, not a casual "call in one ear" fix.</li>
+  <li><strong>Hardware split:</strong> If it's about physical speakers or a hearing difference, a hardware mixer or an audio interface with per-channel control sidesteps the software problem entirely.</li>
+</ul>
+
+<h2>When per-app volume is actually what you needed</h2>
+
+<p>A lot of "I want different balance per app" requests are really "one app is drowning out another." If the goal is a video call you can hear over your music, or a game that's too loud next to a Discord chat, balance isn't the tool — independent volume is. That's exactly what a per-app mixer handles cleanly, without virtual drivers or routing gymnastics.</p>
+
+<p>So the honest summary: true per-app left/right balance isn't a macOS feature, and no mixer app fakes it convincingly. Your real routes are the global balance slider or per-app output routing to separately-panned devices. But if the underlying pain is relative loudness, that's a solved problem.</p>
+
+<p>Want independent volume, mute, and boost for every app on your Mac, with savable profiles and no drivers? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Get SoundDial on the Mac App Store</a> — €14.99, one-time, sandboxed.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Why Are Some Apps So Much Louder Than Others on Mac? (And How to Even Them Out)",
+    description: "Apps sound wildly different on Mac because each one is mastered to its own loudness target and macOS has no built-in per-app volume control. Here's why it happens and how to level your apps.",
+    date: "2026-07-23",
+    readTime: "6 min read",
+    content: `<p>Apps sound wildly different on your Mac because each one is authored, mastered, and normalized to its own loudness target, and macOS has no built-in per-app volume control to reconcile them. Spotify, YouTube, Zoom, and system alerts all pass through the same master slider, so you're stuck riding it up and down constantly.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Why Are Some Apps So Much Louder Than Others on Mac? (And How to Even Them Out)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>It's not your Mac — it's the audio itself</h2>
+
+<p>The single system volume slider on macOS controls the final output level for everything. It does not touch the relative loudness baked into each app's audio stream. That baseline is set long before the sound reaches your speakers, and it varies enormously from source to source.</p>
+
+<p>Three things drive those differences:</p>
+
+<ul>
+<li><strong>Mastering levels.</strong> A punchy pop track is mastered far hotter than a quiet acoustic recording or a spoken-word podcast. A movie mixed for a cinema keeps whispers quiet and explosions loud on purpose — that's dynamic range, and it means the average level is low.</li>
+<li><strong>Loudness normalization targets.</strong> Streaming platforms adjust playback to a target measured in LUFS (Loudness Units relative to Full Scale). Spotify aims around -14 LUFS, YouTube roughly -14 LUFS, Apple Music around -16 LUFS. A video conferencing app or a game applies its own gain entirely. Two apps "normalized" to different targets will never match each other.</li>
+<li><strong>No cross-app leveling.</strong> Each app normalizes only its own content. Nothing coordinates Spotify against Zoom against a browser game. macOS just sums them and sends the mix out.</li>
+</ul>
+
+<h2>Why LUFS matters (in plain terms)</h2>
+
+<p>Peak level tells you the single loudest instant in a signal. LUFS tells you how loud something actually <em>feels</em> over time, weighted for how human hearing works. This distinction is why a podcast and a dance track can hit the same peak yet feel worlds apart in loudness — the track spends far more time near its ceiling.</p>
+
+<blockquote>A quieter LUFS target means more headroom and more dynamic range. A louder target means a more consistent, "always full" wall of sound. Neither is wrong — but when apps target different numbers, you feel it as one app screaming and another mumbling.</blockquote>
+
+<p>That's the honest root cause. It is not a bug you can patch. It's the physics of how audio is produced and delivered, multiplied across a dozen apps that were never designed to agree with each other.</p>
+
+<h2>The gap macOS leaves open</h2>
+
+<p>Here's the part that genuinely frustrates people: Windows has shipped a per-app Volume Mixer for years. You can pull one app down and push another up, right from the taskbar. macOS has never included this. Sound preferences only give you the master slider and output device selection.</p>
+
+<p>So on a Mac your options have traditionally been limited:</p>
+
+<ul>
+<li>Adjust each app's own internal volume slider — if it even has one. Many apps (Zoom, most games, system chimes) do not expose a usable one.</li>
+<li>Ride the master slider manually every time you switch context.</li>
+<li>Mute one thing entirely, which is a blunt fix that doesn't actually balance anything.</li>
+</ul>
+
+<p>None of these remember your preference. Quit and relaunch the app and you're back to square one.</p>
+
+<h2>The practical fix: a remembered volume per app</h2>
+
+<p>Since you can't force every service to re-master its catalog, the workable solution is to add the missing layer macOS never shipped: independent, remembered volume for each app. That's exactly what <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> does. It lives in your menu bar and gives every running app its own slider, so you can pull the loud one down and nudge the quiet one up until they sit at a level that feels even to you.</p>
+
+<p>To even out your apps in practice:</p>
+
+<ul>
+<li>Open <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> from the menu bar and you'll see each active app with its own control.</li>
+<li>Turn down whatever is blasting — usually a music or video app mastered hot — to something like 60-70%.</li>
+<li>Leave your quiet reference app (often a call app or podcast) at 100%, and use per-app <strong>boost</strong> to push it past 100% if it's still too soft.</li>
+<li>Set the levels once. SoundDial remembers each app's volume, so the balance holds the next time you open it.</li>
+</ul>
+
+<p>Two features do most of the leveling work here. <strong>Boost</strong> matters because plenty of apps are simply too quiet even at maximum — a per-app slider that only cuts volume can't rescue them, but one that can amplify past 100% can. And <strong>volume profiles</strong> let you save a whole set of levels — say, a "focus music low, calls loud" profile for work versus a different mix for gaming — and switch between them instantly instead of re-adjusting app by app.</p>
+
+<h2>Where this helps most</h2>
+
+<p>The most common relief is the music-versus-meeting jump: streaming music mastered loud, then a call app that sounds faint by comparison. Set the call app higher (or boosted), pull the music down, and the startling volume swing disappears. The same applies to a quiet browser game against a loud video player, or system alerts that jump out over everything.</p>
+
+<p>To be clear about the limits: SoundDial balances what your apps output. It won't re-master a badly produced track, and it can't invent detail in audio that was mixed with very wide dynamic range. What it does is give you the one control macOS left out — steady, per-app levels that stay put.</p>
+
+<p>Tired of riding the master slider every time you switch apps? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a one-time €14.99 on the Mac App Store — sandboxed, no drivers, no DMG — and it finally gives every app its own remembered volume.</p>`,
   },
 };

@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Eduard Bruch — Independent Software Developer</title>
+<meta name="description" content="Independent software developer in Hamburg building small, fast, private native iOS & macOS apps." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #0b0c10;
+    --bg-elev: #101218;
+    --card: #101219;
+    --card-hover: #14161f;
+    --line: rgba(255, 255, 255, 0.07);
+    --line-strong: rgba(255, 255, 255, 0.12);
+    --text: #ededf2;
+    --muted: #9a9ba7;
+    --faint: #5f6069;
+    --accent: #7c74ff;
+    --accent-soft: rgba(124, 116, 255, 0.14);
+    --radius: 18px;
+    --maxw: 1120px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    font-feature-settings: "cv02", "cv03", "cv04", "ss01";
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+
+  /* ambient background depth */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    background:
+      radial-gradient(720px 440px at 50% -8%, rgba(124, 116, 255, 0.16), transparent 70%),
+      radial-gradient(600px 500px at 88% 12%, rgba(124, 116, 255, 0.06), transparent 72%);
+    pointer-events: none;
+  }
+  /* faint grain */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.035;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .wrap { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; padding: 0 28px; }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* ── NAV ─────────────────────────────── */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    backdrop-filter: saturate(160%) blur(14px);
+    background: rgba(11, 12, 16, 0.72);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 28px;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    font-size: 15px;
+  }
+  .brand .dot {
+    width: 22px; height: 22px; border-radius: 7px;
+    background: linear-gradient(150deg, var(--accent), #4b45c9);
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.08) inset, 0 6px 18px rgba(124,116,255,0.35);
+    display: grid; place-items: center;
+    font-size: 12px; font-weight: 700; color: #fff;
+  }
+  .nav-links { display: flex; align-items: center; gap: 30px; }
+  .nav-links a {
+    font-size: 13.5px; color: var(--muted);
+    transition: color 0.18s ease;
+  }
+  .nav-links a:hover { color: var(--text); }
+  .nav-cta {
+    font-size: 13px; color: var(--text) !important;
+    border: 1px solid var(--line-strong);
+    padding: 7px 14px; border-radius: 9px;
+    transition: border-color 0.18s ease, background 0.18s ease;
+  }
+  .nav-cta:hover { border-color: rgba(124,116,255,0.6); background: var(--accent-soft); }
+
+  /* ── HERO ────────────────────────────── */
+  header { padding: 110px 0 70px; }
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 9px;
+    font-family: "Geist Mono", monospace;
+    font-size: 12px; letter-spacing: 0.02em;
+    color: var(--muted);
+    border: 1px solid var(--line);
+    background: rgba(255,255,255,0.02);
+    padding: 6px 12px; border-radius: 100px;
+    margin-bottom: 26px;
+  }
+  .eyebrow .pulse {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 10px var(--accent);
+  }
+  h1 {
+    font-size: clamp(40px, 6.4vw, 74px);
+    line-height: 1.02;
+    letter-spacing: -0.045em;
+    font-weight: 600;
+    max-width: 15ch;
+  }
+  h1 .grad {
+    background: linear-gradient(180deg, #fff 20%, #9a94ff 130%);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .lede {
+    margin-top: 26px;
+    font-size: clamp(16px, 1.8vw, 19px);
+    color: var(--muted);
+    max-width: 52ch;
+    line-height: 1.6;
+  }
+  .lede strong { color: var(--text); font-weight: 500; }
+  .hero-actions { display: flex; gap: 14px; margin-top: 34px; flex-wrap: wrap; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: 14px; font-weight: 500;
+    padding: 11px 20px; border-radius: 11px;
+    transition: transform 0.16s ease, background 0.18s ease, border-color 0.18s ease;
+  }
+  .btn-primary {
+    background: var(--accent); color: #fff;
+    box-shadow: 0 8px 26px rgba(124,116,255,0.34);
+  }
+  .btn-primary:hover { transform: translateY(-1px); background: #8b83ff; }
+  .btn-ghost {
+    color: var(--text); border: 1px solid var(--line-strong);
+    background: rgba(255,255,255,0.015);
+  }
+  .btn-ghost:hover { border-color: rgba(124,116,255,0.5); background: var(--accent-soft); }
+
+  /* facts strip */
+  .facts {
+    display: flex; flex-wrap: wrap; gap: 0;
+    margin-top: 60px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: rgba(255,255,255,0.012);
+    overflow: hidden;
+  }
+  .fact {
+    flex: 1 1 0; min-width: 150px;
+    padding: 20px 24px;
+    border-right: 1px solid var(--line);
+  }
+  .fact:last-child { border-right: none; }
+  .fact .n {
+    font-size: 24px; font-weight: 600; letter-spacing: -0.03em;
+  }
+  .fact .l {
+    font-size: 12.5px; color: var(--faint); margin-top: 4px;
+    font-family: "Geist Mono", monospace;
+  }
+
+  /* ── SECTION HEADS ───────────────────── */
+  section { padding: 70px 0; }
+  .sec-head { margin-bottom: 34px; }
+  .sec-label {
+    font-family: "Geist Mono", monospace;
+    font-size: 12px; color: var(--accent);
+    letter-spacing: 0.05em; text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .sec-head h2 {
+    font-size: clamp(26px, 3.4vw, 38px);
+    letter-spacing: -0.035em; font-weight: 600;
+    line-height: 1.1;
+  }
+  .sec-head p {
+    margin-top: 12px; color: var(--muted);
+    font-size: 15.5px; max-width: 56ch;
+  }
+
+  /* ── BENTO GRID ──────────────────────── */
+  .bento {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 16px;
+  }
+  .tile {
+    position: relative;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background:
+      linear-gradient(180deg, rgba(255,255,255,0.025), rgba(255,255,255,0) 40%),
+      var(--card);
+    overflow: hidden;
+    display: flex; flex-direction: column;
+    transition: border-color 0.22s ease, transform 0.22s ease, background 0.22s ease;
+    min-height: 260px;
+  }
+  .tile::after {
+    /* soft inner glow top */
+    content: ""; position: absolute; inset: 0;
+    border-radius: inherit; pointer-events: none;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);
+  }
+  .tile:hover {
+    border-color: var(--line-strong);
+    transform: translateY(-3px);
+    background:
+      linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0) 44%),
+      var(--card-hover);
+  }
+  .tile-link { display: contents; }
+
+  /* feature tile (SoundDial) spans big */
+  .tile.feature { grid-column: span 4; grid-row: span 2; min-height: 420px; }
+  .tile.wide { grid-column: span 2; }
+  .tile.tall { grid-column: span 2; }
+
+  .tile-media {
+    position: relative;
+    flex: 1;
+    overflow: hidden;
+    background: #0d0e14;
+  }
+  .tile-media img {
+    width: 100%; height: 100%;
+    object-fit: cover; object-position: top center;
+    display: block;
+    transition: transform 0.4s cubic-bezier(0.2,0.7,0.2,1);
+  }
+  .tile:hover .tile-media img { transform: scale(1.03); }
+  .tile-media::before {
+    content: ""; position: absolute; inset: 0; z-index: 2;
+    background: linear-gradient(180deg, rgba(11,12,16,0) 55%, rgba(11,12,16,0.55) 100%);
+    pointer-events: none;
+  }
+
+  /* feature tile media: sheen + framed */
+  .tile.feature .tile-media {
+    background:
+      radial-gradient(120% 90% at 50% -10%, rgba(124,116,255,0.22), transparent 60%),
+      linear-gradient(160deg, #16131f, #0c0d13);
+    display: grid; place-items: center;
+    padding: 40px 40px 0;
+  }
+  .tile.feature .tile-media img {
+    height: auto; max-height: 100%;
+    width: auto; max-width: 92%;
+    object-fit: contain;
+    border-radius: 12px 12px 0 0;
+    border: 1px solid var(--line-strong);
+    border-bottom: none;
+    box-shadow: 0 -10px 60px rgba(124,116,255,0.18), 0 30px 60px rgba(0,0,0,0.5);
+  }
+  .tile.feature .tile-media::before { display: none; }
+  .sheen {
+    position: absolute; inset: 0; z-index: 1; pointer-events: none;
+    background: linear-gradient(115deg, transparent 30%, rgba(124,116,255,0.10) 48%, transparent 62%);
+  }
+
+  .tile-body {
+    position: relative; z-index: 3;
+    padding: 18px 20px 20px;
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .tile.feature .tile-body { padding: 22px 26px 26px; }
+  .tile-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 2px; }
+  .plat {
+    font-family: "Geist Mono", monospace;
+    font-size: 10.5px; letter-spacing: 0.04em;
+    color: var(--faint);
+    border: 1px solid var(--line);
+    padding: 2px 7px; border-radius: 6px;
+    text-transform: uppercase;
+  }
+  .tile h3 {
+    font-size: 16.5px; font-weight: 600; letter-spacing: -0.02em;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .tile.feature h3 { font-size: 26px; letter-spacing: -0.035em; }
+  .tile h3 .arrow {
+    color: var(--faint); font-size: 14px; transition: transform 0.2s ease, color 0.2s ease;
+  }
+  .tile:hover h3 .arrow { color: var(--accent); transform: translate(2px, -2px); }
+  .tile p.desc { font-size: 13.5px; color: var(--muted); }
+  .tile.feature p.desc { font-size: 15px; max-width: 42ch; margin-top: 4px; }
+
+  /* coming soon tile */
+  .tile.soon {
+    background:
+      radial-gradient(120% 100% at 50% 0%, rgba(124,116,255,0.10), transparent 60%),
+      var(--card);
+  }
+  .tile.soon .tile-media {
+    background:
+      radial-gradient(90% 80% at 50% 30%, rgba(124,116,255,0.14), transparent 70%),
+      linear-gradient(160deg, #14131c, #0c0d12);
+    display: grid; place-items: center;
+  }
+  .tile.soon .tile-media::before { display: none; }
+  .soon-badge {
+    font-family: "Geist Mono", monospace;
+    font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid rgba(124,116,255,0.35);
+    background: var(--accent-soft);
+    padding: 6px 12px; border-radius: 100px;
+  }
+  .soon-glyph {
+    width: 54px; height: 54px; border-radius: 15px;
+    display: grid; place-items: center; margin-bottom: 16px;
+    background: linear-gradient(150deg, rgba(124,116,255,0.9), #4b45c9);
+    box-shadow: 0 10px 30px rgba(124,116,255,0.3);
+  }
+  .soon-glyph svg { width: 26px; height: 26px; stroke: #fff; }
+
+  /* ── GUIDES ──────────────────────────── */
+  .guides-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+  }
+  .guide {
+    border: 1px solid var(--line);
+    border-radius: 15px;
+    padding: 24px;
+    background: var(--card);
+    transition: border-color 0.2s ease, transform 0.2s ease, background 0.2s ease;
+    display: flex; flex-direction: column; gap: 10px;
+  }
+  .guide:hover { border-color: var(--line-strong); transform: translateY(-3px); background: var(--card-hover); }
+  .guide .g-top { display: flex; align-items: center; justify-content: space-between; }
+  .guide h4 { font-size: 16px; font-weight: 600; letter-spacing: -0.02em; }
+  .guide p { font-size: 13.5px; color: var(--muted); }
+  .guide .g-arrow { color: var(--faint); transition: color 0.2s ease, transform 0.2s ease; }
+  .guide:hover .g-arrow { color: var(--accent); transform: translateX(2px); }
+  .guides-note {
+    margin-top: 22px; font-size: 13px; color: var(--faint);
+    font-family: "Geist Mono", monospace; text-align: center;
+  }
+
+  /* ── FOOTER ──────────────────────────── */
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 40px 0 60px;
+    margin-top: 40px;
+  }
+  .foot-inner {
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 18px;
+  }
+  .foot-links { display: flex; gap: 26px; }
+  .foot-links a { font-size: 13.5px; color: var(--muted); transition: color 0.18s ease; }
+  .foot-links a:hover { color: var(--text); }
+  .foot-copy { font-size: 13px; color: var(--faint); }
+
+  /* ── RESPONSIVE ──────────────────────── */
+  @media (max-width: 900px) {
+    .bento { grid-template-columns: repeat(2, 1fr); }
+    .tile.feature { grid-column: span 2; grid-row: auto; min-height: 380px; }
+    .tile.wide, .tile.tall { grid-column: span 1; }
+    .guides-grid { grid-template-columns: 1fr; }
+    .fact { border-right: none; border-bottom: 1px solid var(--line); }
+  }
+  @media (max-width: 600px) {
+    .nav-links a:not(.nav-cta) { display: none; }
+    .wrap { padding: 0 20px; }
+    .nav-inner { padding: 0 20px; }
+    header { padding: 76px 0 50px; }
+    .bento { grid-template-columns: 1fr; }
+    .tile, .tile.feature, .tile.wide, .tile.tall { grid-column: span 1; }
+    .fact { flex: 1 1 50%; min-width: 0; }
+    .fact:nth-child(even) { border-right: none; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a class="brand" href="#top">
+      <span class="dot">EB</span>
+      Eduard Bruch
+    </a>
+    <div class="nav-links">
+      <a href="#apps">Apps</a>
+      <a href="#guides">Guides</a>
+      <a href="#support" class="nav-cta">Support</a>
+    </div>
+  </div>
+</nav>
+
+<div class="wrap" id="top">
+
+  <!-- HERO -->
+  <header>
+    <span class="eyebrow"><span class="pulse"></span> Independent developer · Hamburg</span>
+    <h1><span class="grad">Small, fast, private native apps for iOS &amp; macOS.</span></h1>
+    <p class="lede">
+      I'm Eduard Bruch — a one-person software studio. I design and build
+      <strong>native Apple apps</strong> that stay out of your way: no bloat, no tracking,
+      no subscriptions you forget about. <strong>Six shipped</strong>, and counting.
+    </p>
+    <div class="hero-actions">
+      <a href="#apps" class="btn btn-primary">See the apps →</a>
+      <a href="#guides" class="btn btn-ghost">Read the guides</a>
+    </div>
+
+    <div class="facts">
+      <div class="fact"><div class="n">6</div><div class="l">apps shipped</div></div>
+      <div class="fact"><div class="n">120+</div><div class="l">guides</div></div>
+      <div class="fact"><div class="n">30+</div><div class="l">languages</div></div>
+      <div class="fact"><div class="n">iOS · macOS</div><div class="l">native, no web</div></div>
+    </div>
+  </header>
+
+  <!-- APPS -->
+  <section id="apps">
+    <div class="sec-head">
+      <div class="sec-label">Shipped work</div>
+      <h2>Apps I've built and maintain.</h2>
+      <p>Every one is native, self-funded, and privacy-first. Tap through to the App Store.</p>
+    </div>
+
+    <div class="bento">
+
+      <!-- FEATURE: SoundDial -->
+      <a class="tile feature" href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">
+        <div class="tile-media">
+          <div class="sheen"></div>
+          <img src="../public/apps/sounddial.png" alt="SoundDial — per-app volume mixer for macOS" />
+        </div>
+        <div class="tile-body">
+          <div class="tile-meta"><span class="plat">macOS</span></div>
+          <h3>SoundDial <span class="arrow">↗</span></h3>
+          <p class="desc">A per-app volume mixer for the Mac. Balance every app independently, duck audio automatically, and keep your mix exactly where you want it — right from the menu bar.</p>
+        </div>
+      </a>
+
+      <!-- Pulse -->
+      <a class="tile wide" href="https://apps.apple.com/app/id6761375793" target="_blank" rel="noopener">
+        <div class="tile-media">
+          <img src="../public/apps/pulse.png" alt="Pulse — system monitor for macOS" />
+        </div>
+        <div class="tile-body">
+          <div class="tile-meta"><span class="plat">macOS</span></div>
+          <h3>Pulse <span class="arrow">↗</span></h3>
+          <p class="desc">System Monitor — CPU, memory, network at a glance.</p>
+        </div>
+      </a>
+
+      <!-- Stash -->
+      <a class="tile wide" href="https://apps.apple.com/app/id6759873487" target="_blank" rel="noopener">
+        <div class="tile-media">
+          <img src="../public/apps/stash-v2.png" alt="Stash — secret file vault for iOS" />
+        </div>
+        <div class="tile-body">
+          <div class="tile-meta"><span class="plat">iOS</span></div>
+          <h3>Stash <span class="arrow">↗</span></h3>
+          <p class="desc">Secret File Vault — hide files behind a calculator.</p>
+        </div>
+      </a>
+
+      <!-- Double Calculator -->
+      <a class="tile tall" href="https://apps.apple.com/app/id6760940001" target="_blank" rel="noopener">
+        <div class="tile-media">
+          <img src="../public/apps/double-calculator.png" alt="Double Calculator — tax and VAT for iOS" />
+        </div>
+        <div class="tile-body">
+          <div class="tile-meta"><span class="plat">iOS</span></div>
+          <h3>Double Calculator <span class="arrow">↗</span></h3>
+          <p class="desc">Tax &amp; VAT — two-line calculations, done fast.</p>
+        </div>
+      </a>
+
+      <!-- Fisheye -->
+      <a class="tile tall" href="https://apps.apple.com/app/id6760895260" target="_blank" rel="noopener">
+        <div class="tile-media">
+          <img src="../public/apps/fisheye.png" alt="Fisheye — WideEye camera for iOS" />
+        </div>
+        <div class="tile-body">
+          <div class="tile-meta"><span class="plat">iOS</span></div>
+          <h3>Fisheye <span class="arrow">↗</span></h3>
+          <p class="desc">WideEye Camera — wide, warped, wonderful shots.</p>
+        </div>
+      </a>
+
+      <!-- Warden COMING SOON -->
+      <a class="tile tall soon" href="/warden/privacy">
+        <div class="tile-media">
+          <div style="text-align:center;">
+            <div class="soon-glyph">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/>
+                <path d="m9 12 2 2 4-4"/>
+              </svg>
+            </div>
+            <span class="soon-badge">Coming soon</span>
+          </div>
+        </div>
+        <div class="tile-body">
+          <div class="tile-meta"><span class="plat">iOS · Android</span></div>
+          <h3>Warden <span class="arrow">↗</span></h3>
+          <p class="desc">Family Location &amp; Safety — private by design.</p>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- GUIDES -->
+  <section id="guides">
+    <div class="sec-head">
+      <div class="sec-label">Learn</div>
+      <h2>Guides &amp; documentation.</h2>
+      <p>In-depth how-tos and reference material for the apps — written carefully and indexed in 30+ languages.</p>
+    </div>
+
+    <div class="guides-grid">
+      <a class="guide" href="/pulse/blog">
+        <div class="g-top">
+          <span class="plat">macOS</span>
+          <span class="g-arrow">→</span>
+        </div>
+        <h4>Pulse Guides</h4>
+        <p>Reading your Mac's vitals — CPU load, memory pressure, network throughput, and what the numbers actually mean.</p>
+      </a>
+      <a class="guide" href="/sounddial/blog">
+        <div class="g-top">
+          <span class="plat">macOS</span>
+          <span class="g-arrow">→</span>
+        </div>
+        <h4>SoundDial Guides</h4>
+        <p>Per-app volume, automatic ducking, and building the perfect audio setup on macOS, step by step.</p>
+      </a>
+      <a class="guide" href="/vault/blog">
+        <div class="g-top">
+          <span class="plat">iOS</span>
+          <span class="g-arrow">→</span>
+        </div>
+        <h4>Stash Guides</h4>
+        <p>Keeping private files private — hidden vaults, disguised entry, and secure storage on iPhone.</p>
+      </a>
+    </div>
+    <p class="guides-note">120+ articles · indexed in 30+ languages</p>
+  </section>
+
+</div>
+
+<!-- FOOTER -->
+<footer id="support">
+  <div class="wrap">
+    <div class="foot-inner">
+      <div class="foot-links">
+        <a href="/impressum">Impressum</a>
+        <a href="/datenschutz">Datenschutz</a>
+        <a href="/support">Support</a>
+      </div>
+      <div class="foot-copy">© 2026 Eduard Bruch · Hamburg</div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Eduard Bruch — Independent Software Developer</title>
+<meta name="description" content="Eduard Bruch builds native iOS & macOS apps in Hamburg — small, fast, private. Six shipped." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #0a0a0b;
+    --bg-2: #101012;
+    --fg: #f4f4f2;
+    --muted: #7d7d82;
+    --faint: #4a4a4f;
+    --line: rgba(255,255,255,0.08);
+    --line-2: rgba(255,255,255,0.14);
+    --accent: #ff5f3a;
+    --card: #08080a;
+    --maxw: 1240px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "Space Grotesk", system-ui, sans-serif;
+    line-height: 1.4;
+    overflow-x: hidden;
+    position: relative;
+  }
+
+  /* faint grain overlay */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 100;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* radial glow behind hero */
+  .glow {
+    position: absolute;
+    top: -10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 900px;
+    height: 900px;
+    background: radial-gradient(circle, rgba(255,95,58,0.12) 0%, rgba(255,95,58,0.03) 35%, transparent 62%);
+    pointer-events: none;
+    z-index: 0;
+    filter: blur(20px);
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 32px; }
+
+  /* ---------- NAV ---------- */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    backdrop-filter: blur(14px);
+    background: rgba(10,10,11,0.72);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+  .brand {
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .brand .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 12px var(--accent);
+  }
+  .nav-links {
+    display: flex;
+    gap: 30px;
+    font-size: 14px;
+    font-family: "Geist Mono", monospace;
+    color: var(--muted);
+  }
+  .nav-links a { transition: color 0.2s ease; }
+  .nav-links a:hover { color: var(--fg); }
+
+  /* ---------- HERO ---------- */
+  header.hero {
+    position: relative;
+    padding: 120px 0 90px;
+    z-index: 1;
+  }
+  .eyebrow {
+    font-family: "Geist Mono", monospace;
+    font-size: 12.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 40px;
+  }
+  .eyebrow::before {
+    content: "";
+    width: 34px; height: 1px;
+    background: var(--accent);
+  }
+  h1.big {
+    font-weight: 700;
+    font-size: clamp(52px, 12.5vw, 120px);
+    line-height: 0.92;
+    letter-spacing: -0.045em;
+    max-width: 14ch;
+  }
+  h1.big .accent { color: var(--accent); }
+  h1.big em {
+    font-style: normal;
+    color: var(--faint);
+  }
+  .hero-sub {
+    margin-top: 42px;
+    max-width: 56ch;
+    font-size: clamp(16px, 2vw, 19px);
+    color: var(--muted);
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+  }
+  .hero-sub strong { color: var(--fg); font-weight: 500; }
+
+  .hero-cta {
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+  .btn {
+    font-family: "Geist Mono", monospace;
+    font-size: 13px;
+    letter-spacing: 0.02em;
+    padding: 13px 22px;
+    border-radius: 2px;
+    border: 1px solid var(--line-2);
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+  }
+  .btn.primary {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .btn.primary:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .btn.ghost:hover { border-color: var(--fg); }
+  .btn .arw { transition: transform 0.2s ease; }
+  .btn:hover .arw { transform: translateX(3px); }
+
+  /* ---------- STATS BAR ---------- */
+  .stats {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    position: relative;
+    z-index: 1;
+  }
+  .stat {
+    padding: 28px 32px;
+    border-right: 1px solid var(--line);
+  }
+  .stat:last-child { border-right: none; }
+  .stat .num {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+  }
+  .stat .lbl {
+    font-family: "Geist Mono", monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-top: 8px;
+  }
+
+  /* ---------- SECTION HEADS ---------- */
+  section { position: relative; z-index: 1; }
+  .sec-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 96px 0 40px;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .sec-head h2 {
+    font-size: clamp(30px, 5vw, 52px);
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    line-height: 1;
+  }
+  .sec-head .idx {
+    font-family: "Geist Mono", monospace;
+    font-size: 13px;
+    color: var(--muted);
+    letter-spacing: 0.06em;
+  }
+  .sec-note {
+    font-size: 15px;
+    color: var(--muted);
+    max-width: 40ch;
+    letter-spacing: -0.01em;
+  }
+
+  /* ---------- APPS GRID ---------- */
+  .apps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding-bottom: 40px;
+  }
+  .app {
+    position: relative;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: var(--card);
+    overflow: hidden;
+    transition: border-color 0.25s ease, transform 0.25s ease;
+    display: flex;
+    flex-direction: column;
+  }
+  .app:hover { border-color: var(--line-2); transform: translateY(-3px); }
+  .app .shot {
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--line);
+  }
+  .app .shot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+    transition: transform 0.5s cubic-bezier(0.2,0.7,0.2,1);
+  }
+  .app:hover .shot img { transform: scale(1.035); }
+
+  .app-meta {
+    padding: 20px 22px 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    flex: 1;
+  }
+  .app-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .app-name {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.025em;
+  }
+  .app-plat {
+    font-family: "Geist Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 4px 10px;
+    white-space: nowrap;
+  }
+  .app-desc {
+    font-size: 14.5px;
+    color: var(--muted);
+    letter-spacing: -0.01em;
+  }
+  .app-link {
+    margin-top: 12px;
+    font-family: "Geist Mono", monospace;
+    font-size: 12px;
+    color: var(--faint);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: color 0.2s ease, gap 0.2s ease;
+  }
+  .app:hover .app-link { color: var(--accent); gap: 12px; }
+
+  /* coming soon placeholder */
+  .app.soon .shot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:
+      radial-gradient(circle at 50% 40%, rgba(255,95,58,0.10), transparent 65%),
+      var(--bg-2);
+    position: relative;
+  }
+  .app.soon .shot::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: 34px 34px;
+    mask-image: radial-gradient(circle at 50% 45%, #000 30%, transparent 75%);
+    opacity: 0.5;
+  }
+  .soon-mark {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+  }
+  .soon-mark .glyph {
+    width: 54px; height: 54px;
+    margin: 0 auto 16px;
+    border: 1.5px solid var(--line-2);
+    border-radius: 14px;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--accent);
+  }
+  .soon-mark .txt {
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .badge-soon {
+    background: var(--accent);
+    color: #120503;
+    border: none;
+    font-weight: 500;
+  }
+
+  /* ---------- GUIDES ---------- */
+  .guides {
+    border-top: 1px solid var(--line);
+    margin-top: 40px;
+  }
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding-bottom: 20px;
+  }
+  .guide {
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 28px 26px 26px;
+    transition: border-color 0.25s ease, background 0.25s ease;
+    background: var(--card);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .guide:hover { border-color: var(--line-2); background: #0b0b0d; }
+  .guide .g-num {
+    font-family: "Geist Mono", monospace;
+    font-size: 12px;
+    color: var(--accent);
+    letter-spacing: 0.05em;
+  }
+  .guide .g-title {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+  }
+  .guide .g-desc {
+    font-size: 14px;
+    color: var(--muted);
+    letter-spacing: -0.01em;
+    line-height: 1.55;
+  }
+  .guide .g-link {
+    margin-top: auto;
+    padding-top: 14px;
+    font-family: "Geist Mono", monospace;
+    font-size: 12px;
+    color: var(--faint);
+    display: inline-flex; align-items: center; gap: 7px;
+    transition: color 0.2s, gap 0.2s;
+  }
+  .guide:hover .g-link { color: var(--fg); gap: 11px; }
+  .guides-note {
+    padding: 30px 0 0;
+    font-size: 14px;
+    color: var(--muted);
+    font-family: "Geist Mono", monospace;
+    letter-spacing: 0.02em;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .guides-note .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); }
+
+  /* ---------- FOOTER ---------- */
+  footer {
+    border-top: 1px solid var(--line);
+    margin-top: 110px;
+    padding: 44px 0 60px;
+    position: relative;
+    z-index: 1;
+  }
+  .foot-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .foot-links {
+    display: flex;
+    gap: 26px;
+    font-family: "Geist Mono", monospace;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .foot-links a { transition: color 0.2s ease; }
+  .foot-links a:hover { color: var(--fg); }
+  .foot-copy {
+    font-family: "Geist Mono", monospace;
+    font-size: 13px;
+    color: var(--faint);
+    letter-spacing: 0.02em;
+  }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 900px) {
+    .apps, .guides-grid { grid-template-columns: repeat(2, 1fr); }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .stat:nth-child(2) { border-right: none; }
+    .stat:nth-child(1), .stat:nth-child(2) { border-bottom: 1px solid var(--line); }
+  }
+  @media (max-width: 620px) {
+    .wrap { padding: 0 20px; }
+    .nav-links { display: none; }
+    header.hero { padding: 72px 0 60px; }
+    h1.big { font-size: clamp(44px, 15vw, 72px); }
+    .apps, .guides-grid { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: 1fr; }
+    .stat { border-right: none; border-bottom: 1px solid var(--line); }
+    .stat:last-child { border-bottom: none; }
+    .sec-head { padding: 64px 0 32px; }
+    .foot-inner { flex-direction: column; align-items: flex-start; }
+  }
+</style>
+</head>
+<body>
+
+<div class="glow" aria-hidden="true"></div>
+
+<!-- NAV -->
+<nav>
+  <div class="wrap nav-inner">
+    <a class="brand" href="#top"><span class="dot"></span>Eduard Bruch</a>
+    <div class="nav-links">
+      <a href="#work">Work</a>
+      <a href="#guides">Guides</a>
+      <a href="/support">Support</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<header class="hero" id="top">
+  <div class="wrap">
+    <div class="eyebrow">Independent Developer · Hamburg</div>
+    <h1 class="big">Native apps.<br /><span class="accent">Small, fast,</span><br /><em>private.</em></h1>
+    <p class="hero-sub">
+      I'm Eduard Bruch, an independent software developer building
+      <strong>native iOS &amp; macOS apps</strong> — no bloat, no tracking, no accounts you didn't ask for.
+      <strong>Six shipped</strong> and running on thousands of devices.
+    </p>
+    <div class="hero-cta">
+      <a class="btn primary" href="#work">View the work <span class="arw">→</span></a>
+      <a class="btn ghost" href="#guides">Read the guides</a>
+    </div>
+  </div>
+</header>
+
+<!-- STATS -->
+<div class="stats">
+  <div class="stat"><div class="num">6</div><div class="lbl">Apps shipped</div></div>
+  <div class="stat"><div class="num">120+</div><div class="lbl">Guides written</div></div>
+  <div class="stat"><div class="num">30+</div><div class="lbl">Languages</div></div>
+  <div class="stat"><div class="num">iOS / macOS</div><div class="lbl">Native only</div></div>
+</div>
+
+<!-- WORK -->
+<section id="work" class="wrap">
+  <div class="sec-head">
+    <div>
+      <div class="idx">01 — Selected work</div>
+      <h2>The apps.</h2>
+    </div>
+    <p class="sec-note">Each one built end-to-end — design, code, and everything in between. Shipped on the App Store.</p>
+  </div>
+
+  <div class="apps">
+
+    <!-- SoundDial -->
+    <a class="app" href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">
+      <div class="shot"><img src="../public/apps/sounddial.png" alt="SoundDial per-app volume mixer for macOS" loading="lazy" /></div>
+      <div class="app-meta">
+        <div class="app-top">
+          <span class="app-name">SoundDial</span>
+          <span class="app-plat">macOS</span>
+        </div>
+        <span class="app-desc">Per-App Volume Mixer</span>
+        <span class="app-link">App Store <span>→</span></span>
+      </div>
+    </a>
+
+    <!-- Pulse -->
+    <a class="app" href="https://apps.apple.com/app/id6761375793" target="_blank" rel="noopener">
+      <div class="shot"><img src="../public/apps/pulse.png" alt="Pulse system monitor for macOS" loading="lazy" /></div>
+      <div class="app-meta">
+        <div class="app-top">
+          <span class="app-name">Pulse</span>
+          <span class="app-plat">macOS</span>
+        </div>
+        <span class="app-desc">System Monitor</span>
+        <span class="app-link">App Store <span>→</span></span>
+      </div>
+    </a>
+
+    <!-- Stash -->
+    <a class="app" href="https://apps.apple.com/app/id6759873487" target="_blank" rel="noopener">
+      <div class="shot"><img src="../public/apps/stash-v2.png" alt="Stash secret file vault for iOS" loading="lazy" /></div>
+      <div class="app-meta">
+        <div class="app-top">
+          <span class="app-name">Stash</span>
+          <span class="app-plat">iOS</span>
+        </div>
+        <span class="app-desc">Secret File Vault</span>
+        <span class="app-link">App Store <span>→</span></span>
+      </div>
+    </a>
+
+    <!-- Double Calculator -->
+    <a class="app" href="https://apps.apple.com/app/id6760940001" target="_blank" rel="noopener">
+      <div class="shot"><img src="../public/apps/double-calculator.png" alt="Double Calculator for tax and VAT on iOS" loading="lazy" /></div>
+      <div class="app-meta">
+        <div class="app-top">
+          <span class="app-name">Double Calculator</span>
+          <span class="app-plat">iOS</span>
+        </div>
+        <span class="app-desc">Tax &amp; VAT</span>
+        <span class="app-link">App Store <span>→</span></span>
+      </div>
+    </a>
+
+    <!-- Fisheye -->
+    <a class="app" href="https://apps.apple.com/app/id6760895260" target="_blank" rel="noopener">
+      <div class="shot"><img src="../public/apps/fisheye.png" alt="Fisheye WideEye camera app for iOS" loading="lazy" /></div>
+      <div class="app-meta">
+        <div class="app-top">
+          <span class="app-name">Fisheye</span>
+          <span class="app-plat">iOS</span>
+        </div>
+        <span class="app-desc">WideEye Camera</span>
+        <span class="app-link">App Store <span>→</span></span>
+      </div>
+    </a>
+
+    <!-- Warden — coming soon -->
+    <a class="app soon" href="/warden/privacy">
+      <div class="shot">
+        <div class="soon-mark">
+          <div class="glyph">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2 4 5v6c0 5 3.5 8.5 8 11 4.5-2.5 8-6 8-11V5l-8-3Z"/>
+              <path d="M9 12l2 2 4-4"/>
+            </svg>
+          </div>
+          <div class="txt">In development</div>
+        </div>
+      </div>
+      <div class="app-meta">
+        <div class="app-top">
+          <span class="app-name">Warden</span>
+          <span class="app-plat badge-soon">Soon</span>
+        </div>
+        <span class="app-desc">Family Location &amp; Safety · iOS &amp; Android</span>
+        <span class="app-link">Privacy &amp; details <span>→</span></span>
+      </div>
+    </a>
+
+  </div>
+</section>
+
+<!-- GUIDES -->
+<section id="guides" class="wrap guides">
+  <div class="sec-head">
+    <div>
+      <div class="idx">02 — Writing</div>
+      <h2>The guides.</h2>
+    </div>
+    <p class="sec-note">Deep, practical how-to guides for the apps — indexed and translated into 30+ languages.</p>
+  </div>
+
+  <div class="guides-grid">
+    <a class="guide" href="/pulse/blog">
+      <span class="g-num">/pulse</span>
+      <span class="g-title">Pulse Guides</span>
+      <span class="g-desc">Understand CPU, memory, disk and network on your Mac — and what the numbers actually mean.</span>
+      <span class="g-link">Read guides <span>→</span></span>
+    </a>
+    <a class="guide" href="/sounddial/blog">
+      <span class="g-num">/sounddial</span>
+      <span class="g-title">SoundDial Guides</span>
+      <span class="g-desc">Master per-app audio on macOS: routing, ducking, and getting the mix exactly right.</span>
+      <span class="g-link">Read guides <span>→</span></span>
+    </a>
+    <a class="guide" href="/vault/blog">
+      <span class="g-num">/vault</span>
+      <span class="g-title">Stash Guides</span>
+      <span class="g-desc">Keep private files private — encryption, backups, and staying in control on iOS.</span>
+      <span class="g-link">Read guides <span>→</span></span>
+    </a>
+  </div>
+
+  <div class="guides-note">
+    <span class="dot"></span>120+ articles · indexed in 30+ languages · written and maintained in-house
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="wrap foot-inner">
+    <div class="foot-copy">© 2026 Eduard Bruch · Hamburg</div>
+    <div class="foot-links">
+      <a href="/impressum">Impressum</a>
+      <a href="/datenschutz">Datenschutz</a>
+      <a href="/support">Support</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Concept — Twin Portal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Geist:wght@400;500;600&family=Geist+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#050506;--fg:#f6f4ee;--mut:#cfccc4;--soft:#a7a49c;--faint:#87847c;--line:rgba(255,255,255,.12);
+        --gold:#d4ad5e;--goldsoft:rgba(212,173,94,.5)}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--fg);font-family:'Geist',system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;cursor:none;font-weight:400}
+  .serif{font-family:'Fraunces',serif}.mono{font-family:'Geist Mono',monospace}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1280px;margin:0 auto;padding:0 40px}
+  .grain{position:fixed;inset:0;z-index:90;pointer-events:none;opacity:.045;mix-blend-mode:overlay;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+  #prog{position:fixed;top:0;left:0;height:2px;width:0;background:linear-gradient(90deg,transparent,var(--gold));z-index:100}
+  #cursor{position:fixed;top:0;left:0;width:9px;height:9px;border-radius:50%;background:var(--gold);z-index:120;pointer-events:none;transform:translate(-50%,-50%);transition:width .2s,height .2s,background .2s;mix-blend-mode:difference}
+  /* nav */
+  nav{position:fixed;inset:0 0 auto;z-index:80;background:linear-gradient(#050506cc,transparent);backdrop-filter:blur(3px)}
+  nav .wrap{height:74px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+  .mk{display:flex;align-items:center;gap:11px;font-size:13px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;white-space:nowrap}
+  .mk .g{color:var(--gold);font-size:15px}
+  .nl{display:flex;gap:20px;align-items:center;flex-wrap:nowrap}
+  .nl a{font-size:12.5px;letter-spacing:.06em;color:#e7e4dc;font-weight:500;transition:.2s;white-space:nowrap}
+  .nl a:hover{color:var(--gold)}
+  .nl .sep{width:1px;height:13px;background:var(--line)}
+  .nl a.muted{color:var(--soft)}
+  /* HERO — twin portal (pyramid) */
+  .hero{position:relative;height:100vh;min-height:780px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+  .portal{position:absolute;inset:0;z-index:1;display:flex;align-items:flex-end;justify-content:center}
+  .portal video{height:104%;width:48%;object-fit:cover;object-position:right bottom;
+    filter:invert(1) contrast(1.12) brightness(1.05)}
+  .portal video.mir{transform:scaleX(-1)}
+  .seam{position:absolute;left:50%;top:0;transform:translateX(-50%);width:360px;height:100%;z-index:2;pointer-events:none;
+    background:radial-gradient(closest-side at 50% 44%,rgba(212,173,94,.18),transparent 66%)}
+  .vign{position:absolute;inset:0;z-index:3;pointer-events:none;
+    background:radial-gradient(120% 82% at 50% 42%,transparent 34%,#050506 86%)}
+  .htext{position:relative;z-index:4;text-align:center;padding:60px 24px 0;max-width:900px}
+  .htext::before{content:"";position:absolute;inset:-40px -80px;z-index:-1;
+    background:radial-gradient(closest-side,rgba(5,5,6,.72),transparent 78%)}
+  .htext .eye{font-size:12.5px;letter-spacing:.34em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:26px}
+  .htext h1{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(56px,11vw,150px);line-height:.92;letter-spacing:-.02em;text-shadow:0 6px 50px rgba(0,0,0,.6)}
+  .htext h1 em{font-style:italic}
+  .htext .sub{margin-top:26px;font-size:19px;color:var(--fg);font-weight:400;max-width:40ch;margin-inline:auto;line-height:1.6}
+  .htext .cta{margin-top:38px;display:inline-flex;gap:14px}
+  .btn{font-size:14px;font-weight:600;letter-spacing:.02em;padding:15px 30px;border-radius:3px;transition:.25s}
+  .btn.g{background:var(--gold);color:#141007}.btn.g:hover{transform:translateY(-2px);background:#e0bd72}
+  .btn.o{border:1px solid var(--line);color:#fff;background:rgba(255,255,255,.04)}.btn.o:hover{border-color:var(--gold);color:var(--gold)}
+  .down{position:absolute;bottom:28px;left:50%;transform:translateX(-50%);z-index:5;font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--soft)}
+  /* reveal */
+  .rv{opacity:0;transform:translateY(24px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1)}
+  .rv.in{opacity:1;transform:none}
+  /* marquee */
+  .strip{border-block:1px solid var(--line);padding:22px 0;overflow:hidden;white-space:nowrap;background:#08080a}
+  .strip .run{display:inline-block;animation:run 30s linear infinite;font-family:'Fraunces',serif;font-size:22px;color:var(--soft)}
+  .strip .run span{margin:0 28px}.strip .run b{color:var(--gold);font-weight:500}
+  @keyframes run{to{transform:translateX(-50%)}}
+  /* about */
+  .about{display:grid;grid-template-columns:.8fr 1.2fr;gap:64px;align-items:center}
+  .about .frame{position:relative;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:#0d0d0f;aspect-ratio:3/4;box-shadow:0 40px 100px -40px rgba(0,0,0,.9)}
+  .about .frame video{width:100%;height:100%;object-fit:cover;object-position:center;filter:contrast(1.04)}
+  .about .frame .plq{position:absolute;left:18px;bottom:16px;font-family:'Geist Mono';font-size:11px;letter-spacing:.1em;color:#0b0b0b;background:rgba(255,255,255,.82);padding:5px 10px;border-radius:3px}
+  .about .bio .kick{font-size:12.5px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:22px}
+  .about .bio h2{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(30px,3.6vw,46px);line-height:1.05;letter-spacing:-.02em;margin-bottom:26px}
+  .about .bio p{color:var(--mut);font-size:17px;line-height:1.75;margin-bottom:20px;max-width:52ch}
+  .about .bio p b{color:var(--fg);font-weight:600}
+  .about .bio .sign{margin-top:30px;display:flex;align-items:center;gap:12px;font-family:'Fraunces',serif;font-size:20px;color:var(--fg)}
+  .about .bio .sign .g{color:var(--gold)}
+  @media(max-width:860px){.about{grid-template-columns:1fr;gap:36px}.about .frame{max-width:360px}}
+  /* sections */
+  section{padding:140px 0;position:relative}
+  .rule{display:flex;align-items:baseline;justify-content:space-between;border-top:1px solid var(--line);padding-top:26px;margin-bottom:60px}
+  .rule h2{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(32px,4vw,52px)}
+  .rule .m{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--soft);font-weight:500}
+  /* work rows — full screenshot, nothing cut */
+  .work{display:flex;flex-direction:column;gap:24px}
+  .item{display:grid;grid-template-columns:1.05fr .95fr;gap:0;align-items:stretch;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#0b0b0d;transition:.35s}
+  .item:hover{border-color:var(--goldsoft);transform:translateY(-3px)}
+  .item .media{min-height:400px;display:flex;align-items:center;justify-content:center;padding:30px;overflow:hidden;
+    background:radial-gradient(130% 130% at 50% 0%,rgba(255,255,255,.06),#09090b 72%)}
+  .item .media img{max-width:100%;max-height:360px;width:auto;object-fit:contain;border-radius:12px;
+    box-shadow:0 26px 70px -26px rgba(0,0,0,.9);transition:.5s}
+  .item:hover .media img{transform:translateY(-5px)}
+  .item.rev .media{order:2}.item.rev .info{order:1}
+  .info{padding:48px 52px;display:flex;flex-direction:column;justify-content:center}
+  .info .top{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+  .idx{font-family:'Geist Mono';font-size:13px;color:var(--gold);font-weight:500}
+  .plt{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);border:1px solid var(--goldsoft);padding:5px 11px;border-radius:3px;font-weight:500}
+  .info h3{font-family:'Fraunces',serif;font-weight:500;font-size:38px;margin-bottom:6px}
+  .info .tag{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);margin-bottom:20px;font-weight:500}
+  .info p{color:var(--mut);font-size:16px;line-height:1.65;max-width:44ch}
+  .info .go{margin-top:28px;display:inline-flex;align-items:center;gap:8px;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:#fff;font-weight:600;border-bottom:2px solid var(--gold);padding-bottom:5px;align-self:flex-start}
+  .info .rev{font-family:'Geist Mono';font-size:12px;color:var(--faint);margin-top:14px}
+  /* guides */
+  .g3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .gc{border:1px solid var(--line);border-radius:12px;padding:38px 32px;transition:.3s}
+  .gc:hover{background:#0b0b0d;border-color:var(--goldsoft)}
+  .gc .k{font-family:'Geist Mono';font-size:12px;color:var(--gold);margin-bottom:18px;font-weight:500}
+  .gc h4{font-family:'Fraunces',serif;font-weight:500;font-size:24px;margin-bottom:10px}
+  .gc p{font-size:15px;color:var(--mut);line-height:1.6}.gc .c{margin-top:22px;font-size:13px;color:var(--soft);font-weight:500}
+  /* footer */
+  footer{border-top:1px solid var(--line);padding:72px 0}
+  .frow{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:22px}
+  .frow .lk a{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-right:26px;font-weight:500}
+  .frow .lk a:hover{color:var(--gold)}
+  .frow .cp{font-size:12px;letter-spacing:.14em;color:var(--soft)}
+  @media(max-width:1000px){.nl .appnav{display:none}}
+  @media(max-width:860px){
+    body{cursor:auto}#cursor{display:none}
+    .portal video{width:76%}
+    .item,.item.rev{grid-template-columns:1fr}.item .media{order:0!important;min-height:280px}.item .info{order:0!important;padding:34px}
+    .g3{grid-template-columns:1fr}.nl{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="grain"></div><div id="prog"></div><div id="cursor"></div>
+
+<nav><div class="wrap">
+  <div class="mk"><span class="g serif">✦</span> Eduard Bruch — Angel Company</div>
+  <div class="nl">
+    <span class="appnav" style="display:flex;gap:18px">
+      <a href="#sounddial">SoundDial</a><a href="#stash">Stash</a><a href="#pulse">Pulse</a>
+      <a href="#doublecalc">Double&nbsp;Calc</a><a href="#fisheye">Fisheye</a><a href="#warden">Warden</a>
+    </span>
+    <span class="sep appnav"></span>
+    <a class="muted" href="#about">About</a><a class="muted" href="#guides">Guides</a><a class="muted" href="#contact">Contact</a>
+  </div>
+</div></nav>
+
+<header class="hero">
+  <div class="portal">
+    <video class="mir" autoplay muted loop playsinline><source src="./angel-loop-seamless.mp4" type="video/mp4"></video>
+    <video autoplay muted loop playsinline><source src="./angel-loop-seamless.mp4" type="video/mp4"></video>
+  </div>
+  <div class="seam"></div><div class="vign"></div>
+  <div class="htext">
+    <div class="eye">Independent software · Hamburg</div>
+    <h1 class="serif">Made <em>to last.</em></h1>
+    <p class="sub">A one-person studio crafting native iOS &amp; macOS apps people trust — watched over from first pixel to ship.</p>
+    <div class="cta"><a class="btn g" href="#work">See the work</a><a class="btn o" href="#contact">Get in touch</a></div>
+  </div>
+  <div class="down mono">scroll ↓</div>
+</header>
+
+<div class="strip"><div class="run">
+  <span><b>SoundDial</b></span><span>✦</span><span><b>Stash</b></span><span>✦</span><span><b>Pulse</b></span><span>✦</span><span><b>Double Calculator</b></span><span>✦</span><span><b>Fisheye</b></span><span>✦</span><span><b>Warden</b></span><span>✦</span>
+  <span><b>SoundDial</b></span><span>✦</span><span><b>Stash</b></span><span>✦</span><span><b>Pulse</b></span><span>✦</span><span><b>Double Calculator</b></span><span>✦</span><span><b>Fisheye</b></span><span>✦</span><span><b>Warden</b></span><span>✦</span>
+</div></div>
+
+<section id="about"><div class="wrap">
+  <div class="about">
+    <div class="frame rv">
+      <video autoplay muted loop playsinline><source src="./angel-loop-v2.mp4" type="video/mp4"></video>
+      <span class="plq">Angel · Winged Victory</span>
+    </div>
+    <div class="bio rv">
+      <div class="kick">About</div>
+      <h2>One person, in Hamburg — <em class="serif" style="font-style:italic">building software that lasts.</em></h2>
+      <p>I'm <b>Eduard Bruch</b>, an independent software developer. I design, build and ship native iOS &amp; macOS apps end to end — the product, the code, the App Store listing, and the multilingual guides that help people find them.</p>
+      <p>Six apps are <b>live and earning</b>, read by tens of thousands of people a month — all run solo. I build small, fast, private tools that look after the people who use them.</p>
+      <p>That idea has a name now: <b>Angel Company</b> — a guardian for the software you rely on.</p>
+      <div class="sign"><span class="g serif">✦</span> Eduard Bruch — Angel Company</div>
+    </div>
+  </div>
+</div></section>
+
+<section id="work"><div class="wrap">
+  <div class="rule rv"><h2>Selected work</h2><span class="m">Ordered by revenue · live on the App Store</span></div>
+  <div class="work">
+
+    <a class="item rv" id="sounddial" href="https://apps.apple.com/app/id6772792641"><div class="media"><img src="../public/apps/sounddial.png" alt="SoundDial"></div>
+      <div class="info"><div class="top"><span class="idx">01</span><span class="plt">macOS</span></div>
+        <h3>SoundDial</h3><div class="tag">Per-App Volume Mixer</div>
+        <p>Independent volume for every app, from the menu bar — profiles, auto-ducking, per-app mute. The mixer macOS never shipped.</p>
+        <span class="go">App Store →</span></div></a>
+
+    <a class="item rev rv" id="stash" href="https://apps.apple.com/app/id6759873487"><div class="media"><img src="../public/apps/stash-v2.png" alt="Stash"></div>
+      <div class="info"><div class="top"><span class="idx">02</span><span class="plt">iOS</span></div>
+        <h3>Stash</h3><div class="tag">Secret File Vault</div>
+        <p>An encrypted vault disguised as a calculator. Hide photos, videos &amp; files behind Face ID, with intruder detection.</p>
+        <span class="go">App Store →</span></div></a>
+
+    <a class="item rv" id="pulse" href="https://apps.apple.com/app/id6761375793"><div class="media"><img src="../public/apps/pulse.png" alt="Pulse"></div>
+      <div class="info"><div class="top"><span class="idx">03</span><span class="plt">macOS</span></div>
+        <h3>Pulse</h3><div class="tag">System Monitor</div>
+        <p>CPU, memory, GPU, network, battery &amp; temperature — live in your menu bar, with desktop widgets and clean themes.</p>
+        <span class="go">App Store →</span></div></a>
+
+    <a class="item rev rv" id="doublecalc" href="https://apps.apple.com/app/id6760940001"><div class="media"><img src="../public/apps/double-calculator.png" alt="Double Calculator"></div>
+      <div class="info"><div class="top"><span class="idx">04</span><span class="plt">iOS</span></div>
+        <h3>Double Calculator</h3><div class="tag">Tax &amp; VAT</div>
+        <p>Dual-screen calculator with instant VAT/tax for 40+ countries, scientific mode and pinned results.</p>
+        <span class="go">App Store →</span></div></a>
+
+    <a class="item rv" id="fisheye" href="https://apps.apple.com/app/id6760895260"><div class="media"><img src="../public/apps/fisheye.png" alt="Fisheye"></div>
+      <div class="info"><div class="top"><span class="idx">05</span><span class="plt">iOS</span></div>
+        <h3>Fisheye — WideEye</h3><div class="tag">Camera</div>
+        <p>Wide, warped, retro fisheye photos &amp; video, straight from your phone — the lens look without the lens.</p>
+        <span class="go">App Store →</span></div></a>
+
+    <a class="item rev rv" id="warden" href="/warden/privacy"><div class="media" style="background:radial-gradient(120% 120% at 60% 20%,rgba(212,173,94,.16),#09090b 62%)"><span class="serif" style="font-size:96px;color:var(--gold)">✦</span></div>
+      <div class="info"><div class="top"><span class="idx">06</span><span class="plt">iOS · Android · soon</span></div>
+        <h3>Warden</h3><div class="tag">Family Location &amp; Safety</div>
+        <p>A guardian for your family — one shared map, place alerts for home &amp; school, check-in and an SOS button. Privacy-first.</p>
+        <span class="go">Learn more →</span></div></a>
+
+  </div>
+</div></section>
+
+<section id="guides"><div class="wrap">
+  <div class="rule rv"><h2>Guides</h2><span class="m">Indexed in 30+ languages</span></div>
+  <div class="g3">
+    <a class="gc rv" href="/pulse/blog"><div class="k">pulse</div><h4>Mac performance</h4><p>CPU temps, network speed, memory pressure — the searches people make, answered.</p><div class="c mono">40+ articles →</div></a>
+    <a class="gc rv" href="/sounddial/blog"><div class="k">sounddial</div><h4>Mac audio, fixed</h4><p>FaceTime too quiet, per-app volume, late-night movie audio — the top traffic driver.</p><div class="c mono">50+ articles →</div></a>
+    <a class="gc rv" href="/vault/blog"><div class="k">stash</div><h4>iPhone privacy</h4><p>Hiding photos, secret vaults, Face&nbsp;ID vs passcode — practical, ranking guides.</p><div class="c mono">30+ articles →</div></a>
+  </div>
+</div></section>
+
+<footer id="contact"><div class="wrap"><div class="frow">
+  <div class="mk"><span class="g serif">✦</span> Eduard Bruch — Angel Company</div>
+  <div class="lk"><a href="#work">Work</a><a href="#guides">Guides</a><a href="/impressum">Impressum</a><a href="/datenschutz">Datenschutz</a><a href="/support">Support</a></div>
+  <div class="cp mono">© 2026 · Hamburg</div>
+</div></div></footer>
+
+<script>
+  const prog=document.getElementById('prog');
+  addEventListener('scroll',()=>{const h=document.documentElement;prog.style.width=(h.scrollTop/(h.scrollHeight-h.clientHeight)*100)+'%'},{passive:true});
+  const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.14});
+  document.querySelectorAll('.rv').forEach(el=>io.observe(el));
+  const cur=document.getElementById('cursor');
+  addEventListener('mousemove',e=>{cur.style.left=e.clientX+'px';cur.style.top=e.clientY+'px';});
+  document.querySelectorAll('a,.btn').forEach(a=>{a.addEventListener('mouseenter',()=>{cur.style.width='34px';cur.style.height='34px';cur.style.background='rgba(212,173,94,.5)'});a.addEventListener('mouseleave',()=>{cur.style.width='9px';cur.style.height='9px';cur.style.background='var(--gold)'})});
+  const portal=document.querySelector('.portal'),htext=document.querySelector('.htext');
+  addEventListener('scroll',()=>{const y=scrollY;if(y<900){portal.style.transform='scale('+(1+y/4200)+')';htext.style.transform='translateY('+(y*0.26)+'px)';htext.style.opacity=String(Math.max(0,1-y/600))}},{passive:true});
+</script>
+</body>
+</html>

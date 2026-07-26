@@ -1,5 +1,4 @@
 import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index";
-import { getAllArticles as getPdfArticles, type Locale as PdfLocale } from "@/app/pdfcreator/blog/_data/index";
 import { getContent as getPulseContent } from "@/app/pulse/_data/content";
 import { getAllArticles as getPulseArticles, type Locale as PulseLocale } from "@/app/pulse/blog/_data/index";
 import { getAllArticles as getSoundDialArticles } from "@/app/sounddial/blog/_data/index";
@@ -202,16 +201,6 @@ export function getAppSections(locale: string): AppSection[] {
     date: a.date,
   }));
 
-  // PDF: supports all 16 locales (falls back to English internally)
-  const pdfArticles: ArticleCard[] = getPdfArticles(locale as PdfLocale).map(
-    (a) => ({
-      title: a.title,
-      description: a.description || getExcerpt(a.content),
-      href: `/pdfcreator/blog/${locale}/${a.slug}`,
-      date: a.date,
-    }),
-  );
-
   // Pulse: blog articles + Q&A sections
   const pulseBlogArticles: ArticleCard[] = getPulseArticles(locale as PulseLocale).map(
     (a) => ({
@@ -254,7 +243,6 @@ export function getAppSections(locale: string): AppSection[] {
       articles: vaultArticles,
       accent: "border-l-amber-500",
     },
-    { name: l.pdfName, articles: pdfArticles, accent: "border-l-red-500" },
     {
       name: l.pulseName,
       articles: pulseArticles,

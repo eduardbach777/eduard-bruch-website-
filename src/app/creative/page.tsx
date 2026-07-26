@@ -9,7 +9,7 @@ interface AppEntry {
   tagline: string;
   description: string;
   screenshot: string | null;
-  platform: "iOS" | "macOS" | "iOS & macOS";
+  platform: "iOS" | "macOS" | "iOS & macOS" | "iOS & Android";
   privacyUrl: string;
   termsUrl?: string;
   appStoreUrl?: string;
@@ -17,14 +17,13 @@ interface AppEntry {
 
 const apps: AppEntry[] = [
   {
-    name: "Aurum Tarot",
-    tagline: "AI-Powered Card Reading",
+    name: "Warden",
+    tagline: "Family Location & Safety",
     description:
-      "Draw daily tarot cards with AI-generated interpretations. Explore the Major and Minor Arcana, save readings to your journal, and discover guidance across love, career, and personal growth. Beautiful golden aesthetic with 3D card animations.",
-    screenshot: "/apps/aurum-tarot.png",
-    platform: "iOS",
-    privacyUrl: "/tarot/privacy",
-    termsUrl: "/tarot/terms",
+      "See your family on one shared map, get an alert when your child arrives at or leaves places like school, ring their phone, check in, and hit an SOS button in an emergency. Privacy-first — no ads, no tracking, and no listening features.",
+    screenshot: null,
+    platform: "iOS & Android",
+    privacyUrl: "/warden/privacy",
   },
   {
     name: "Stash",
@@ -85,16 +84,6 @@ const apps: AppEntry[] = [
     platform: "macOS",
     privacyUrl: "/sounddial/privacy",
     termsUrl: "/sounddial/terms",
-  },
-  {
-    name: "PDF OPUS",
-    tagline: "Edit, Sign, OCR & Convert",
-    description:
-      "Complete PDF toolkit for macOS. Merge, split, compress, annotate, redact, watermark, lock, OCR, fill forms, and convert. 25 tools in one native app — fast, private, no subscription required.",
-    screenshot: null,
-    platform: "macOS",
-    privacyUrl: "/pdfcreator/privacy",
-    termsUrl: "/pdfcreator/terms",
   },
   {
     name: "Double Calculator",

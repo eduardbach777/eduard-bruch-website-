@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>SoundDial — YouTube Playbook</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Geist:wght@400;500;600&family=Geist+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#070708;--fg:#f4f2ec;--mut:#cfccc4;--soft:#a7a49c;--line:rgba(255,255,255,.12);--gold:#d4ad5e;--card:#0d0d0f}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--fg);font-family:'Geist',system-ui,sans-serif;-webkit-font-smoothing:antialiased;line-height:1.6}
+  .serif{font-family:'Fraunces',serif}.mono{font-family:'Geist Mono',monospace}
+  .wrap{max-width:900px;margin:0 auto;padding:0 28px}
+  h1{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(34px,5vw,54px);letter-spacing:-.02em;line-height:1.05}
+  h2{font-family:'Fraunces',serif;font-weight:500;font-size:30px;margin:0 0 8px}
+  .kick{font-family:'Geist Mono';font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:18px}
+  header{padding:80px 0 40px;border-bottom:1px solid var(--line)}
+  header p{color:var(--mut);font-size:18px;max-width:60ch;margin-top:16px}
+  section{padding:52px 0;border-bottom:1px solid var(--line)}
+  p{color:var(--mut)}
+  .lead{color:var(--fg)}
+  /* formula bar */
+  .formula{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:24px}
+  .fstep{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px}
+  .fstep .t{font-family:'Geist Mono';font-size:11px;color:var(--gold);letter-spacing:.08em}
+  .fstep h4{font-size:16px;margin:8px 0 6px}
+  .fstep p{font-size:13.5px;color:var(--soft);line-height:1.5}
+  .rules{margin-top:24px;display:grid;grid-template-columns:1fr 1fr;gap:10px 26px}
+  .rules li{list-style:none;position:relative;padding-left:24px;color:var(--mut);font-size:14.5px;margin-bottom:8px}
+  .rules li::before{content:"✦";position:absolute;left:0;color:var(--gold);font-size:12px}
+  /* script cards */
+  .script{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:30px 30px;margin-bottom:20px}
+  .script .top{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:6px;flex-wrap:wrap}
+  .script .num{font-family:'Geist Mono';font-size:12px;color:var(--gold)}
+  .badge{font-family:'Geist Mono';font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(212,173,94,.5);border-radius:4px;padding:3px 9px}
+  .script h3{font-family:'Fraunces',serif;font-weight:500;font-size:23px;margin-bottom:16px}
+  .row{display:grid;grid-template-columns:96px 1fr;gap:14px;padding:11px 0;border-top:1px solid var(--line)}
+  .row .lbl{font-family:'Geist Mono';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);padding-top:2px}
+  .row .txt{color:var(--fg);font-size:15px}
+  .row .txt em{color:var(--soft);font-style:normal}
+  .row.screen .txt{color:var(--mut)}
+  .say{color:#fff}
+  .ost{display:inline-block;background:rgba(212,173,94,.14);border:1px solid rgba(212,173,94,.4);color:var(--gold);font-size:12.5px;padding:2px 8px;border-radius:4px;margin:2px 4px 2px 0}
+  /* meta blocks */
+  .meta{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px 26px;margin-bottom:14px}
+  .meta .h{font-family:'Geist Mono';font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);margin-bottom:12px}
+  .meta code{font-family:'Geist Mono';font-size:13px;color:var(--fg);background:#17171a;border:1px solid var(--line);border-radius:5px;padding:2px 7px;display:inline-block;margin:2px 0}
+  .titles li,.topics li{list-style:none;padding-left:22px;position:relative;margin-bottom:8px;color:var(--mut);font-size:15px}
+  .titles li::before,.topics li::before{content:"›";position:absolute;left:0;color:var(--gold)}
+  .topics{columns:2;column-gap:34px}
+  @media(max-width:720px){.formula{grid-template-columns:1fr 1fr}.rules,.topics{grid-template-columns:1fr;columns:1}.row{grid-template-columns:1fr}.row .lbl{color:var(--gold)}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="kick">✦ Angel Company · Growth</div>
+  <h1 class="serif">SoundDial — YouTube Playbook</h1>
+  <p>Turn the blog's proven search demand into short, punchy "here's the fix" videos that funnel viewers straight to the App Store. Built for ScreenStudio screen-demos. Every script = a real problem → the 10-second SoundDial fix → download.</p>
+</div></header>
+
+<section><div class="wrap">
+  <div class="kick">The formula</div>
+  <h2 class="serif">The 40-second fix video</h2>
+  <p class="lead">Short-form (Shorts / Reels / TikTok) is the volume play — vertical, 30–50s, one problem each. Long-form "complete guides" come later for evergreen SEO.</p>
+  <div class="formula">
+    <div class="fstep"><div class="t">0–5s · HOOK</div><h4>Name the pain</h4><p>State the exact problem + promise the fix. No intro, no logo. "Mac FaceTime too quiet even at max? 10-second fix."</p></div>
+    <div class="fstep"><div class="t">5–15s · AGITATE</div><h4>Show the dead end</h4><p>Flash the settings people try (System Settings → Sound). "Doesn't fix it — macOS has no per-app volume."</p></div>
+    <div class="fstep"><div class="t">15–38s · FIX</div><h4>Demo SoundDial</h4><p>Screen-record: open the mixer, drag that app up, done. Show the result. This is the payoff.</p></div>
+    <div class="fstep"><div class="t">38–45s · CTA</div><h4>Download</h4><p>"Link's in the description." On-screen button + pinned comment. Optional: "save this profile" bonus tip = open loop.</p></div>
+  </div>
+  <ul class="rules">
+    <li><b>Hook ≤ 5s.</b> Biggest drop-off is 0–15s; below 50% retention there = hook failed.</li>
+    <li><b>No "what's up guys"</b> / logo intro — costs 8–15% instantly.</li>
+    <li><b>Answer-first</b> (inverted pyramid) — same reason it wins featured snippets.</li>
+    <li><b>One problem per video</b> — matches how people search.</li>
+    <li><b>Show the result</b> — the volume slider moving is the proof.</li>
+    <li><b>3 CTA surfaces:</b> on-screen, description link, pinned comment.</li>
+  </ul>
+</div></section>
+
+<section><div class="wrap">
+  <div class="kick">The scripts</div>
+  <h2 class="serif">10 ready-to-record scripts</h2>
+  <p style="margin-bottom:26px">Ordered by proven blog demand + current search surge. <span class="say">SAY</span> = voiceover · <em style="color:var(--soft)">SCREEN</em> = what you record · <span class="ost">on-screen text</span>.</p>
+
+  <div class="script">
+    <div class="top"><span class="num">01</span><span class="badge">Short · top blog traffic</span></div>
+    <h3>Why FaceTime is so quiet on your Mac (10-sec fix)</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Your Mac's FaceTime is basically a whisper — even at max volume? Here's the ten-second fix Apple never gave you."</div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">FaceTime call, volume bar maxed, cup-to-ear gesture. Quick cut to System Settings → Sound.</div></div>
+    <div class="row"><div class="lbl">Agitate</div><div class="txt say">"macOS gives every app the same volume slider — so FaceTime maxes out way below your music."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"Open SoundDial from the menu bar, find FaceTime, drag it up past everything else. Done — and it sticks."</div><div class="txt"></div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">SoundDial menu-bar mixer, drag FaceTime slider to 100%. Notifications slider down.</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt say">"SoundDial's linked below."</div><div class="txt"><span class="ost">↓ SoundDial — link in description</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">02</span><span class="badge">Short · top blog traffic</span></div>
+    <h3>YouTube too quiet in Safari / Chrome on Mac?</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"YouTube in your browser is way quieter than everything else on your Mac? Two-second fix."</div></div>
+    <div class="row"><div class="lbl">Agitate</div><div class="txt say">"You crank the system volume, then a notification blows your ears off. There's no per-tab, per-app control… by default."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial gives every app its own slider. Push Safari up, drop the rest. Balanced instantly."</div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">Drag the browser slider up; ping a notification at low level to show it's tamed.</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">Get SoundDial ↓</span> + pinned comment link</div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">03</span><span class="badge">Short · core / high-intent</span></div>
+    <h3>Mac has no volume mixer like Windows — until now</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Windows has a per-app volume mixer. Mac… doesn't. Here's how to add one in 30 seconds."</div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">Split: Windows volume mixer screenshot vs Mac's single slider.</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial lives in your menu bar and gives every app its own volume — exactly what macOS is missing."</div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">Full mixer with 5–6 apps, sliders at different levels.</div></div>
+    <div class="row"><div class="lbl">Loop</div><div class="txt say">"And you can save these as profiles — stay for that."</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">↓ The Mac volume mixer</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">04</span><span class="badge">Short · proven multi-lang</span></div>
+    <h3>Mute ONE app on your Mac (not everything)</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Need to mute just one app on your Mac — without muting the whole thing? Here."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial → click the speaker next to that app → muted. Everything else keeps playing."</div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">Mute Chrome while Spotify keeps going — show the waveform still moving on Spotify.</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">Per-app mute ↓ SoundDial</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">05</span><span class="badge">Short · proven (Discord/gaming)</span></div>
+    <h3>Discord way too loud over your game? Fix it</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Discord blowing out your game audio? Balance them in five seconds."</div></div>
+    <div class="row"><div class="lbl">Agitate</div><div class="txt say">"Discord's own volume only goes so far, and the system slider moves both together."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial: game up, Discord down, locked. Perfect mix every session."</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">↓ SoundDial</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">06</span><span class="badge">Short · proven multi-lang</span></div>
+    <h3>Mac volume keeps changing by itself — stop it</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Your Mac's volume keeps changing on its own? Here's why — and the permanent fix."</div></div>
+    <div class="row"><div class="lbl">Agitate</div><div class="txt say">"Apps grab the system volume and reset it. macOS won't remember per-app levels."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial locks a volume to each app and remembers it — even after restart."</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">Lock your levels ↓</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">07</span><span class="badge">Short · CURRENT EVENT (Tahoe)</span></div>
+    <h3>AirPods stuck at half volume on Mac (Tahoe)</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"AirPods connect to your Mac at half volume since macOS Tahoe? You're not crazy — here's the workaround."</div></div>
+    <div class="row"><div class="lbl">Honest</div><div class="txt say">"It's a Tahoe Bluetooth bug Apple hasn't fully fixed. Re-pairing helps sometimes — but the reliable fix is to control the level yourself."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial boosts and pins per-app volume, so your calls and music come back to full — no re-pairing dance."</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">↓ SoundDial</span> · <em style="color:var(--soft)">ride the current search surge</em></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">08</span><span class="badge">Short · commercial intent</span></div>
+    <h3>Best Mac volume mixer in 2026 (honest)</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Want per-app volume on Mac? Here are your real options in 2026 — fast."</div></div>
+    <div class="row"><div class="lbl">Body</div><div class="txt say">"SoundSource is powerful but heavy. Background Music is free but clunky. SoundDial is the simple menu-bar one that just does volume — profiles, auto-ducking, per-app mute."</div></div>
+    <div class="row screen"><div class="lbl">Screen</div><div class="txt">Quick 3-up comparison card, then SoundDial demo.</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">Compare + download ↓</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">09</span><span class="badge">Short · proven (ducking/Zoom)</span></div>
+    <h3>Stop your Mac lowering music during calls</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Mac drops your music every time a call or notification hits? Turn off ducking for good."</div></div>
+    <div class="row"><div class="lbl">Fix</div><div class="txt say">"SoundDial → auto-ducking off, or set exactly how much each app ducks. Your music stays put."</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">↓ SoundDial</span></div></div>
+  </div>
+
+  <div class="script">
+    <div class="top"><span class="num">10</span><span class="badge">Long · evergreen SEO (3–5 min)</span></div>
+    <h3>The complete guide to per-app volume on Mac</h3>
+    <div class="row"><div class="lbl">Hook</div><div class="txt say">"Everything macOS won't let you do with volume — and how to do all of it. Timestamps below."</div></div>
+    <div class="row"><div class="lbl">Chapters</div><div class="txt">Per-app volume · mute one app · boost past 100% · save profiles · auto-ducking · output switching. Each = a demo. (Repurpose each chapter into a Short → 6 videos from one shoot.)</div></div>
+    <div class="row"><div class="lbl">CTA</div><div class="txt"><span class="ost">Pinned: Get SoundDial ↓</span> + timestamps in description</div></div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="kick">Titles · thumbnails · description</div>
+  <h2 class="serif">Package it to click</h2>
+  <div class="meta">
+    <div class="h">Title patterns (SEO + curiosity)</div>
+    <ul class="titles">
+      <li>"Mac FaceTime Too Quiet? The 10-Second Fix"</li>
+      <li>"Mac Has No Volume Mixer… Until You Do This"</li>
+      <li>"Stop Discord Blowing Out Your Game (Mac)"</li>
+      <li>"AirPods Half Volume on Mac After Tahoe — Fix"</li>
+      <li>"Mute ONE App on Mac (Not Everything)"</li>
+    </ul>
+  </div>
+  <div class="meta">
+    <div class="h">Thumbnail concept</div>
+    <p style="font-size:14.5px">Big bold 2–3 word text ("TOO QUIET?", "MUTE 1 APP"), a red strike/❌ over the Mac volume slider, a green ✅ over the SoundDial mixer. High contrast, one idea. Face/gesture optional but boosts CTR.</p>
+  </div>
+  <div class="meta">
+    <div class="h">Description template</div>
+    <code>[One-line problem + fix]. Get SoundDial → https://apps.apple.com/app/id6772792641</code><br>
+    <code>⏱ Timestamps (long-form)</code><br>
+    <code>🔗 Full guide: eduardbruch.com/sounddial/blog/&lt;slug&gt;   ← ties video ↔ blog (SEO both ways)</code><br>
+    <code>#mac #macos #sounddial #volumemixer</code>
+    <p style="font-size:13.5px;margin-top:12px;color:var(--soft)">Pinned comment: the App Store link again + "Which app fights you for volume? 👇" to farm engagement.</p>
+  </div>
+</div></section>
+
+<section style="border-bottom:none"><div class="wrap">
+  <div class="kick">Backlog</div>
+  <h2 class="serif">Topic bank (each = a Short)</h2>
+  <p style="margin-bottom:20px">Every one already earns blog traffic or rides a current surge — just film the fix.</p>
+  <ul class="topics">
+    <li>Spotify volume too low on Mac</li>
+    <li>Netflix / streaming audio too quiet</li>
+    <li>Zoom / Teams / Meet call too quiet</li>
+    <li>AirPods too quiet on Mac</li>
+    <li>Bluetooth headphones too quiet</li>
+    <li>One AirPod louder than the other</li>
+    <li>Boost Mac volume past 100%</li>
+    <li>Mac too loud even at lowest setting</li>
+    <li>Switch audio output in one click</li>
+    <li>Mute Slack notifications only</li>
+    <li>Separate game audio from Discord</li>
+    <li>macOS Tahoe audio crackling / popping</li>
+    <li>AirPods stuttering / cutting out (Tahoe)</li>
+    <li>Right speaker dead after Tahoe update</li>
+    <li>Keep music on speakers, calls on AirPods</li>
+    <li>Volume resets after sleep</li>
+    <li>Set default volume for new apps</li>
+    <li>Late-night movie volume (tame the loud parts)</li>
+  </ul>
+</div></section>
+</body>
+</html>

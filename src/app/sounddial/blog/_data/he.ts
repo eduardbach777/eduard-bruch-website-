@@ -40,7 +40,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לכם לבנות סביבת הקלטה נקייה על ידי שליטה בכל אפליקציה בנפרד:</p>
 
-<img src="/apps/sounddial.png" alt="הגדרת SoundDial לפודקאסט — שמע האורח, ניטור והתראות ברמות עצמאיות" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="הגדרת SoundDial לפודקאסט — שמע האורח, ניטור והתראות ברמות עצמאיות" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>פרופיל הקלטה</h3>
 <ul>
@@ -98,7 +98,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לכל אפליקציה פס הזזה משלה עם <strong>תוספות של 1%</strong> מ-0% עד 200%. זה 200 רמות דיוק לכל אפליקציה, בהשוואה ל-16 (או 64 עם המשנן) שלבי macOS ברמת המערכת.</p>
 
-<img src="/apps/sounddial.png" alt="שליטת SoundDial המדויקת בעוצמה לכל אפליקציה עם דיוק של 1% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="שליטת SoundDial המדויקת בעוצמה לכל אפליקציה עם דיוק של 1% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>הגדירו את עוצמת המערכת לרמה בסיסית בינונית (50-60%), ואז השתמשו ב-SoundDial לכוונון דק של כל אפליקציה:</p>
 <ul>
@@ -149,7 +149,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן ל-Slack פס הזזה משלו, נפרד מכל אפליקציה אחרת. מכיוון ששמע שיחת Slack וצלילי ההתראות הם חלק מאותה אפליקציה, פס ההזזה שולט בשניהם — אבל זה בעצם מה שאתם רוצים את רוב הזמן.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial שולט בעוצמת Slack באופן עצמאי בזמן שיחה בעוד המוזיקה מתנגנת ברמה שונה" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial שולט בעוצמת Slack באופן עצמאי בזמן שיחה בעוד המוזיקה מתנגנת ברמה שונה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרה מותאמת לשיחות</h3>
 <ul>
@@ -198,7 +198,7 @@ export const heArticles: ArticleSet = {
 
 <p>ל-<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> יש <strong>עוצמת ברירת מחדל הניתנת להגדרה</strong> לאפליקציות חדשות. בהגדרות, אתם מגדירים באיזו רמת עוצמה אפליקציות שזוהו לאחרונה אמורות להתחיל — לדוגמה, 70%. בפעם הראשונה שאפליקציה כלשהי מופעלת ומייצרת שמע, SoundDial מגדיר אותה ל-70% במקום 100%.</p>
 
-<img src="/apps/sounddial.png" alt="הגדרת עוצמת ברירת מחדל ב-SoundDial — אפליקציות חדשות מתחילות ברמה מוגדרת במקום בעוצמה מלאה" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="הגדרת עוצמת ברירת מחדל ב-SoundDial — אפליקציות חדשות מתחילות ברמה מוגדרת במקום בעוצמה מלאה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>המשמעות היא:</p>
 <ul>
@@ -253,7 +253,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לכל אפליקציה ב-Mac שלכם פס הזזה משלה. הגדירו אפליקציות התראות נמוך, מוזיקה ברמה נוחה ושיחות בעוצמה מלאה — הכל באופן עצמאי. שמרו תצורות כפרופילים ועברו ביניהם בלחיצה אחת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — שליטת עוצמה לכל אפליקציה לניהול כל מקורות השמע של Mac באופן עצמאי" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — שליטת עוצמה לכל אפליקציה לניהול כל מקורות השמע של Mac באופן עצמאי" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">הורידו את SoundDial מה-Mac App Store</a> — רכישה חד-פעמית של €14.99, ללא מנוי, macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const heArticles: ArticleSet = {
 
 <p>אם ההגדרות במקסימום והמשתתפים עדיין שקטים מדי, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לכם להגביר את Webex ל-<strong>200%</strong>. זה מגביר את שמע השיחה מעבר למקסימום המובנה של Webex — שימושי כשלמשתתף יש מיקרופון רע או כשעיבוד השמע של Webex מפחית את האות יותר מדי.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת שיחת Cisco Webex מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת שיחת Cisco Webex מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial גם עוזר במהלך פגישות Webex רצופות: השתמשו בכיבוי אוטומטי להורדה אוטומטית של מוזיקת הרקע שלכם כשכל פגישה מתחילה, ולשחזורה בהפסקות. שמרו פרופיל עוצמה "פגישות" להגדרה מיידית של איזון השמע המועדף לכם ליום העבודה.</p>
 
@@ -347,7 +347,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מציב כל אפליקציה בלוח שורת תפריט אחד עם פסי הזזה עצמאיים. שני מקורות שמע, זה לצד זה, לכל אחד רמתו שלו. כוונון אחד מבלי לגעת בשני.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מציג שני מקורות שמע ברמות עוצמה שונות על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מציג שני מקורות שמע ברמות עוצמה שונות על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>דוגמאות להגדרה:</p>
 
@@ -411,7 +411,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לכם ליצור הגדרת לילה מושלמת:</p>
 
-<img src="/apps/sounddial.png" alt="הגדרת SoundDial לסרט לילי — אפליקציית סטרימינג בעוצמה בינונית, התראות מושתקות" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="הגדרת SoundDial לסרט לילי — אפליקציית סטרימינג בעוצמה בינונית, התראות מושתקות" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>פרופיל סרט לילי</h3>
 <ul>
@@ -471,7 +471,7 @@ export const heArticles: ArticleSet = {
 
 <p>אפילו אם עוצמת המערכת מתאפסת אחרי שינה, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מגן על איזון העוצמה <em>לכל אפליקציה</em>. תכונת <strong>זיכרון העוצמה</strong> שלו שומרת את עוצמת כל אפליקציה באופן עצמאי ומשחזרת אותה אחרי התעוררות, הפעלה מחדש, או הפעלה מחדש של אפליקציה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial שומר על רמות עוצמה לכל אפליקציה לאחר מחזורי שינה והתעוררות של Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial שומר על רמות עוצמה לכל אפליקציה לאחר מחזורי שינה והתעוררות של Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>כך גם אם macOS מאפס את עוצמת המערכת ל-80% אחרי שינה, האיזון לכל אפליקציה נשאר שלם:</p>
 <ul>
@@ -514,7 +514,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לכם להגדיר עוצמות מדויקות לכל אפליקציה באופן עצמאי:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מפריד פלט DAW מ-Discord ורצועות ייחוס על macOS לייצור מוזיקה" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מפריד פלט DAW מ-Discord ורצועות ייחוס על macOS לייצור מוזיקה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרת ייצור</h3>
 <ul>
@@ -582,7 +582,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לכם להגביר את Apple Music ל-<strong>200%</strong>. אות השמע מוגבר ברמת המערכת לפני שמגיע לרמקולים או האוזניות שלכם. רק Apple Music נשמעת חזקה יותר — Zoom, Slack והדפדפן שלכם נשארים ברמות הנוכחיות.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת Apple Music מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת Apple Music מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זה שימושי גם לבעיה ההפוכה: אם Apple Music חזקה מדי ביחס לשיחת Zoom שלכם, הנמיכו את Apple Music ל-25% ב-SoundDial תוך שמירה על Zoom ב-100%. שליטה לכל אפליקציה אומרת שלעולם לא תצטרכו לפשר על עוצמת אפליקציה אחת בגלל השנייה.</p>
 
@@ -662,7 +662,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> עולה €14.99 — חד-פעמי, לא מנוי. לשם הקשר, זה פחות משני חודשי מנוי Spotify, עבור כלי שתשתמשו בו כל יום.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — מיקסר עוצמה אמין ל-Mac עם פרופילים, כיבוי אוטומטי, והגברה ל-200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — מיקסר עוצמה אמין ל-Mac עם פרופילים, כיבוי אוטומטי, והגברה ל-200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זמין ב-<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — נסקר על ידי Apple, בסביבת חול, ללא מנהלי מערכת. רכישה חד-פעמית של €14.99, ללא מנוי, macOS 14.2+.</p>
 `,
@@ -750,7 +750,7 @@ export const heArticles: ArticleSet = {
 
 <p>כל חמש התכונות הללו זמינות עם <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — אפליקציית שורת תפריט מקורית ל-macOS שמוסיפה את מיקסר העוצמה שאפל לא בנתה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — שליטת עוצמה לכל אפליקציה, פרופילים, כיבוי אוטומטי והגברה ל-200% ל-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — שליטת עוצמה לכל אפליקציה, פרופילים, כיבוי אוטומטי והגברה ל-200% ל-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>חלק 6: עוצמה לכל אפליקציה עם SoundDial</h2>
 
@@ -810,7 +810,7 @@ export const heArticles: ArticleSet = {
 
 <p>זוהי הגברה קיצונית ועלולה להכניס עיוות בתוכן מסוים, אבל לחומר מקור שקט במיוחד זה עשוי להיות מה שאתם צריכים.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת VLC ברמת המערכת על macOS לקבצי וידאו שקטים" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת VLC ברמת המערכת על macOS לקבצי וידאו שקטים" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>חשוב מכך, SoundDial מאפשר לכם להגביר את VLC <strong>באופן עצמאי</strong>. נגן המוזיקה, הדפדפן ואפליקציות התקשורת שלכם נשארים ברמות הרגילות שלהם בעוד רק VLC נשמע חזק יותר. אם הגדרתם את VLC ל-180% ב-SoundDial, Spotify לא משתנה.</p>
 
@@ -869,7 +869,7 @@ export const heArticles: ArticleSet = {
   <li><strong>מתג קל:</strong> הפעילו או כבו כיבוי אוטומטי בהגדרות SoundDial.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="כיבוי אוטומטי הניתן להגדרה של SoundDial — שלטו בכמה שמע רקע יורד במהלך שיחות" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="כיבוי אוטומטי הניתן להגדרה של SoundDial — שלטו בכמה שמע רקע יורד במהלך שיחות" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ההבדל: במקום שאפליקציה כלשהי תחליט שהמוזיקה שלכם צריכה לרדת לאפס בכל שיחה, אתם מחליטים שהיא תרד ל-25%. במקום לאבד שליטה, אתם רוכשים אותה.</p>
 
@@ -928,7 +928,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מגביר עוצמת כל אפליקציה עד <strong>200%</strong>. אם Spotify דרך אוזניות Bluetooth שלכם שקט מדי, גררו את פס ההזזה שלו ל-160%.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר עוצמת אפליקציה לאוזניות Bluetooth על Mac עם פסי הזזה לכל אפליקציה עד 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר עוצמת אפליקציה לאוזניות Bluetooth על Mac עם פסי הזזה לכל אפליקציה עד 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>הגברה לכל אפליקציה עדיפה על הגברה כלל-מערכתית כי ניתן להגביר רק את האפליקציה השקטה. אם הפודקאסט שלכם שקט אבל המוזיקה בסדר, הגבירו את אפליקציית הפודקאסט ל-170% תוך שמירת Spotify ב-80%.</p>
 
@@ -963,7 +963,7 @@ export const heArticles: ArticleSet = {
 
 <p>זה בדיוק מה ש-<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> עושה. הגדירו כל אפליקציה לרמה שאתם רוצים שהצופים ישמעו:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מאזן רמות שמע משחק, Discord ומוזיקה לסטרימינג ב-OBS על Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מאזן רמות שמע משחק, Discord ומוזיקה לסטרימינג ב-OBS על Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרת שמע סטרימינג טיפוסית</h3>
 <ul>
@@ -1012,7 +1012,7 @@ export const heArticles: ArticleSet = {
 
 <p>ל-<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> יש תכונת <strong>זיכרון עוצמה</strong>. כשמופעלת, היא שומרת את רמת עוצמת כל אפליקציה לפי מזהה החבילה שלה. כשהאפליקציה יוצאת ומפעילה מחדש — בין אם אתם מפעילים אותה מחדש, היא קורסת, או שאתם מפעילים מחדש את ה-Mac — SoundDial משחזר אותה אוטומטית לעוצמה השמורה שלה.</p>
 
-<img src="/apps/sounddial.png" alt="זיכרון עוצמה של SoundDial — זוכר ומשחזר אוטומטית רמות עוצמה לכל אפליקציה על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="זיכרון עוצמה של SoundDial — זוכר ומשחזר אוטומטית רמות עוצמה לכל אפליקציה על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>כיצד זה עובד</h3>
 <ol>
@@ -1077,7 +1077,7 @@ export const heArticles: ArticleSet = {
 
 <p>התיקון האוניברסלי הוא הגברת אפליקציית הפודקאסט שלכם מעבר למגבלת 100% של macOS. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לכל אפליקציה פס הזזה עוצמה עד <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת Apple Podcasts ל-180% על Mac לפרקי פודקאסט שקטים" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת Apple Podcasts ל-180% על Mac לפרקי פודקאסט שקטים" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>הגדירו את Apple Podcasts או אפליקציית הפודקאסט שלכם ל-160-180% תוך שמירת מוזיקת Spotify ב-40% ו-Slack ב-15%. הפודקאסט נשמע חזק יותר מבלי להפוך כל שאר הדברים לכואב לאוזניים.</p>
 
@@ -1118,7 +1118,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לכל אפליקציה פס הזזה עוצמה משלה, כך שניתן לבנות הגדרת שמע לימוד אידיאלית:</p>
 
-<img src="/apps/sounddial.png" alt="הגדרת סטודנט ב-SoundDial — הרצאה בעוצמה מלאה, מוזיקת לימוד נמוכה, התראות מושתקות" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="הגדרת סטודנט ב-SoundDial — הרצאה בעוצמה מלאה, מוזיקת לימוד נמוכה, התראות מושתקות" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>פרופיל הרצאה</h3>
 <ul>
@@ -1160,6 +1160,9 @@ export const heArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>עדכנתם את macOS. הכל נראה בסדר — עד שהבחנתם שאין קול. או שהשמע מתקשקש. או שהעוצמה תקועה. או שהתקן פלט השמע שלכם נעלם. בעיות שמע לאחר עדכון קורות עם כמעט כל שחרור macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>הנה מדריך שיטתי לתיקון שמע Mac לאחר עדכון macOS, המכסה כל בעיה ופתרון ידוע.</p>
 
@@ -1258,7 +1261,7 @@ export const heArticles: ArticleSet = {
   <li>Spotify חוזר ל-30%, Zoom ל-100%, Slack ל-15% — שוחזרים בצורה מושלמת</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="קיצור השתקת כל ב-SoundDial — Control+Option+M להשתקת כל האפליקציות ולבטל עם שחזור עוצמה" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="קיצור השתקת כל ב-SoundDial — Control+Option+M להשתקת כל האפליקציות ולבטל עם שחזור עוצמה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ההבדל ממקש ההשתקה של המערכת:</p>
 <ul>
@@ -1319,7 +1322,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן ל-Chrome פס הזזה עוצמה משלו שמגיע עד <strong>200%</strong>. מאחר ש-Google Meet פועל בתוך Chrome, הגברת Chrome מגבירה את Meet. גררו את פס ההזזה ל-150% או 180% ושמע השיחה יוגבר בזמן אמת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת Google Meet (Chrome) מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת Google Meet (Chrome) מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זה עובד גם עם Safari אם אתם משתמשים ב-Meet ב-Safari. SoundDial שולט בכל דפדפן באופן עצמאי — הגבירו Safari עבור Meet תוך שמירת Chrome בעוצמה רגילה לכל שאר הדברים.</p>
 
@@ -1369,7 +1372,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לכל אפליקציה פס הזזה עוצמה משלה. ניתן להגדיר אפליקציות כבדות-התראות לרמה עדינה שנשמעת אבל לא מרגיזה, תוך שמירת אפליקציות מדיה ברמת האזנה נוחה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מפריד עוצמת אפליקציות התראות מעוצמת אפליקציות מדיה על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מפריד עוצמת אפליקציות התראות מעוצמת אפליקציות מדיה על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרה לדוגמה</h3>
 <p><strong>אפליקציות מדיה:</strong></p>
@@ -1442,7 +1445,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לכם להגביר את עוצמת FaceTime עד <strong>200%</strong>. פתחו את לוח שורת התפריט, מצאו את FaceTime, וגררו את פס ההזזה מעבר ל-100%. שמע השיחה יוגבר בזמן אמת מבלי להשפיע על כל אפליקציה אחרת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת שיחות FaceTime מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת שיחות FaceTime מעבר ל-100% על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial גם עוזר בבעיה ההפוכה: אם צלצול FaceTime או צלילי התראות חזקים מדי בזמן מיקוד, הנמיכו את FaceTime ל-20% או השתיקו אותו תוך שמירת המוזיקה שלכם. לחיצה אחת להשתקה, לחיצה אחת לביטול השתקה.</p>
 
@@ -1479,7 +1482,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> שמים גם את Spotify וגם את דיסקורד באותו פאנל עם סליידרים עצמאיים של עוצמה. קבע את היחס שאתה רוצה ותשאיר אותו:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial לאזן בין Spotify ל-Discord בעוצמות שונות ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial לאזן בין Spotify ל-Discord בעוצמות שונות ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>היחס הזהב למוזיקה + שיחת קול</h3>
 <p>בהתבסס על איך שרוב האנשים משתמשים בזה:</p>
@@ -1548,7 +1551,7 @@ export const heArticles: ArticleSet = {
 <h3>השתקת כל האפליקציות: Control + Option + M</h3>
 <p>ללחוץ <strong>⌃⌥M</strong> כדי להשתיק מיד את האודיו של כל אפליקציה. לחץ שוב כדי לבטל את כל ההשתקה, ולהחזיר כל אפליקציה לווליום הקודם. זהו כפתור "שקט מיידי" שמהיר יותר מלהגיע למקש השתקה — ובניגוד למקש השתקת המערכת, הוא משחזר את הווליום של כל אפליקציה כשאתה מבטל את ההשתקה.</p>
 
-<img src="/apps/sounddial.png" alt="קיצורי מקלדת SoundDial — Control+Option+S להחלפה, Control+Option+M להשתקת הכל" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="קיצורי מקלדת SoundDial — Control+Option+S להחלפה, Control+Option+M להשתקת הכל" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>זרימת העבודה המונעת על ידי מקלדת</h2>
 
@@ -1613,7 +1616,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> משתמש ב-API המודרני Audio Tap — ללא מכשיר שמע וירטואלי, ללא דרייבר מערכת, ללא הרחבות ליבה. הוא מתחבר ישירות לזרם האודיו של כל אפליקציה באמצעות ה-API הנתמך על ידי אפל, מה שאומר שהוא לא מתקלקל כש macOS עדכונים.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — אלטרנטיבה ל-Background Music שאינה מתקינה מכשירי אודיו וירטואליים" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — אלטרנטיבה ל-Background Music שאינה מתקינה מכשירי אודיו וירטואליים" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>מה מקבלים ממוזיקה ברקע:</p>
 <ul>
@@ -1736,7 +1739,7 @@ export const heArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — אלטרנטיבה קלה וממוקדת ל-SoundSource עם פרופילי עוצמה והתכופפות אוטומטית" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — אלטרנטיבה קלה וממוקדת ל-SoundSource עם פרופילי עוצמה והתכופפות אוטומטית" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>מה כדאי לבחור?</h2>
 
@@ -1780,7 +1783,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לך סליידרים של עוצמת הקול לכל אפליקציה עם שליטה מדויקת — כל סליידר זז ב-1% מ-0% ל-200%. אפשר להגדיר את Spotify ל-5% ואת Zoom ל-40% בו זמנית. רמת השליטה גבוהה בהרבה מ-16 שלבי המערכת של macOS.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial בקרת עוצמה מדויקת לכל אפליקציה עם עלייה של 1% ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial בקרת עוצמה מדויקת לכל אפליקציה עם עלייה של 1% ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>לשימוש באוזניות בשעות הלילה המאוחרות:</p>
 <ul>
@@ -1805,6 +1808,9 @@ export const heArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>איירפוד אחד נשמע בסדר. השני שקט יותר באופן ניכר. המוזיקה מרגישה לא במרכז. הקולות נשמעים כאילו הם מגיעים מצד אחד. זו אחת התלונות הנפוצות ביותר על AirPods, ובדרך כלל יש לה פתרון פשוט.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. נקה את האיירפודס שלך</h2>
 
@@ -1919,7 +1925,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לך להגביר כל אפליקציה ל- <strong>200%</strong>. אם ספארי או אפליקציית נטפליקס שקטים מדי, גרור את הסליידר שלו מעבר ל-100%. הסאונד מוגבר לפני שהוא מגיע לרמקולים שלך, מה שמכפיל את עוצמת הקול המקסימלית של האפליקציה בלבד.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial להעלות את האודיו של נטפליקס ל-180% ב-Mac לדיאלוג ברור יותר ואודיו סטרימינג" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial להעלות את האודיו של נטפליקס ל-180% ב-Mac לדיאלוג ברור יותר ואודיו סטרימינג" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זה שימושי במיוחד כאשר:</p>
 <ul>
@@ -2002,7 +2008,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ממלאת את הפער הזה על ידי מתן מחוון עוצמת קול משלה לכל אפליקציה. הגדר את האודיו מרחוק בדיוק כפי שאתה רוצה:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial הגדרת אודיו מרחוק — רמות עוצמה שונות לזום, ספוטיפיי וסלאק macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial הגדרת אודיו מרחוק — רמות עוצמה שונות לזום, ספוטיפיי וסלאק macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>שמירת פרופילים לכל מצב</h3>
 
@@ -2097,7 +2103,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> זה נותן לדפדפן שלך מחוון ווליום משלו, עצמאי מכל אפליקציה אחרת. הורד את ספארי ל-30% תוך שמירה על זום על 100%. השתקת כרום לגמרי תוך שמירה על Spotify פועלת. קליק אחד.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial שליטה על עוצמת הדפדפן באופן עצמאי מאפליקציות אחרות ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial שליטה על עוצמת הדפדפן באופן עצמאי מאפליקציות אחרות ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זו הדרך המהירה ביותר להתמודד עם לשונית הפעלה אוטומטית מפתיעה: במקום לחפש איזו לשונית עושה רעש, לחץ על SoundDial בשורת התפריטים והשתיק את הדפדפן. כל השאר ממשיך להתנגן. כשמצאת וסגרת את הלשונית הבעיינית, הסר את השתקת הדפדפן והווליום חוזר למקומו.</p>
 
@@ -2139,7 +2145,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לדיסקורד מחוון עוצמת קול משלו בשורת התפריט, עצמאי מכל אפליקציה אחרת. הגדר את דיסקורד בדיוק לרמה שאתה רוצה — 100% לצ'אט קולי ברור, 40% לרקע עדין, או מושתק לחלוטין — מבלי לגעת במשחק, במוזיקה או בכל דבר אחר.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial שליטה בעוצמת הקול בדיסקורד באופן עצמאי מהמשחק ומהמוזיקה ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial שליטה בעוצמת הקול בדיסקורד באופן עצמאי מהמשחק ומהמוזיקה ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרות נפוצות</h3>
 
@@ -2215,7 +2221,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> כולל מבחר מכשיר פלט ממש בתפריט הקופץ — לצד מחווני הווליום לכל אפליקציה. לחיצה אחת לפתיחת SoundDial, לחיצה אחת להחלפת מכשירים. אין לחפור בהגדרות המערכת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial עם החלפת מכשירי יציאת אודיו ושליטה בעוצמת הקול לפי אפליקציה בפאנל אחד בסרגל התפריט" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial עם החלפת מכשירי יציאת אודיו ושליטה בעוצמת הקול לפי אפליקציה בפאנל אחד בסרגל התפריט" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>היתרון בהחלפת מכשירים בתוך SoundDial: אתה יכול להחליף את היציאה שלך <em>ו</em> כוון את עוצמת הקול לפי אפליקציה באותו פאנל. עברו ל-AirPods והורדו מיד את Spotify תוך כדי הגברת השיחה — הכל מבלי לעזוב את הפופאובר.</p>
 
@@ -2233,6 +2239,9 @@ export const heArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>אתה שומע מוזיקה ושומע פופ. ואז נשמע פיצוח. ואז יש גמגום שבו האודיו נקטע לשבריר שנייה וחוזר. זה לא השיר — זה Mac שלך. רעש קול macOS הוא נפוץ בצורה מעצבנת, ויש לו לפחות שישה סיבות שונות.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>מדריך זה עוסק בכל הסיבות הידועות לפיצוצים, פיצוצים וגמגום באודיו Mac, מתיקוני תוכנה ועד לבעיה החומרתית היחידה שכדאי לדעת עליה.</p>
 
@@ -2360,7 +2369,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לך להעלות את הווליום של כל אפליקציה ל- <strong>200%</strong>, כולל Microsoft Teams. הסליידר של Drag Teams מגיע ל-150% או 180% והאודיו מוגבר בזמן אמת. רק Teams נהיה רועש יותר — המוזיקה, הדפדפן והאפליקציות האחרות שלך נשארים ברמות הנוכחיות שלהם.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial העלאת נפח השיחות ב-Microsoft Teams מעבר ל-100% ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial העלאת נפח השיחות ב-Microsoft Teams מעבר ל-100% ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial גם עוזר עם הבעיה הפוכה: אם צלילי ההתראות של Teams חזקים מדי בזמן המיקוד, להוריד את Teams ל-15% או להשתיק אותו לגמרי תוך שמירה על המוזיקה. לחיצה אחת להשתקה, לחיצה אחת להסרת השתקה.</p>
 
@@ -2376,6 +2385,9 @@ export const heArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>אתה בשיחת וידאו. סלאק ממשיך לצלצל. מוזיקה מתנגנת ברקע. אתה מושיט יד למקש הווליום ו— הכל נהיה שקט יותר. השיחה, המוזיקה, ההתראות. macOS יש בדיוק מחוון ווליום אחד, והוא שולט בכל דבר בו זמנית.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>ל-Windows יש מיקסר ווליום לכל אפליקציה מאז Vista ב-2006. עשרים שנה אחרי, macOS עדיין לא. אם אתה רוצה להוריד את הספוטיפיי בלי להשפיע על שיחת הזום שלך, לאפל אין תשובה מובנית עבורך.</p>
 
@@ -2483,7 +2495,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן ל-Slack סליידר עוצמה עצמאי משלו. הגדר אותו לרמה שמתאימה לך — או שתק אותו לחלוטין בלחיצה אחת. כשאתה מוכן להקשיב שוב ל-Slack, תסיר את ההשתקה והווליום חוזר למה שהיה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial עם Slack מושתק וספוטיפיי מנגן בעוצמה רגילה על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial עם Slack מושתק וספוטיפיי מנגן בעוצמה רגילה על macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>תהליך העבודה האידיאלי של Slack</h3>
 <ul>
@@ -2535,7 +2547,7 @@ export const heArticles: ArticleSet = {
 <h3>פרופילי החלפה</h3>
 <p>הפרופילים השמורים שלך מופיעים ככפתורים בפופאובר של SoundDial. לחץ על אחד וכל אפליקציה עוברת מיד לנפחים השמורים בפרופיל הזה. לחיצה אחת מחליפה חמש או שש התאמות ידניות.</p>
 
-<img src="/apps/sounddial.png" alt="פרופילי נפח SoundDial — בלחיצת כפתור בין מצבי Meeting, Focus ו-Chill ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="פרופילי נפח SoundDial — בלחיצת כפתור בין מצבי Meeting, Focus ו-Chill ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>פרופילים לדוגמה</h3>
 
@@ -2633,7 +2645,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לך להעלות את הווליום של כל אפליקציה ל- <strong>200%</strong> — כולל זום. אם משתתף שקט מדי, גרור את הסליידר של זום ל-150% או 180%. אות השמע מוגבר מעבר למקסימום המובנה של זום, מה שהופך אפילו את הקולות השקטים ביותר לשמיעה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial להעלות את עוצמת שיחות הזום ל-180% ב-Mac לשמע ברור יותר במהלך שיחות וידאו" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial להעלות את עוצמת שיחות הזום ל-180% ב-Mac לשמע ברור יותר במהלך שיחות וידאו" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>היתרון המרכזי: הגברת זום לא משפיעה על שום דבר אחר. המוזיקה, ההתראות והאפליקציות האחרות נשארות ברמות הנוכחיות שלהן. רק זום נהיה חזק יותר.</p>
 
@@ -2672,7 +2684,7 @@ export const heArticles: ArticleSet = {
 
 <p>סיימתי. ספוטיפיי שקטה יותר. הזום לא השתנה. ההתראות לא השתנו. כל השאר לא השתנה. לא עזבת את האפליקציה הנוכחית שלך — סרגל התפריטים נפתח בדיוק במקום שבו אתה נמצא.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial להוריד את עוצמת הקול של Spotify באופן עצמאי תוך שמירה על אפליקציות אחרות בעוצמה מלאה macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial להוריד את עוצמת הקול של Spotify באופן עצמאי תוך שמירה על אפליקציות אחרות בעוצמה מלאה macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>עוד יותר טוב: שמור את זה כפרופיל</h2>
 
@@ -2725,7 +2737,7 @@ export const heArticles: ArticleSet = {
 
 <p>מכיוון שאפל לא תבנה אותו, אפליקציות צד שלישי ממלאות את הפער. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> זו אפליקציה מקורית macOS בתפריט שמספקת לך מיקסר ווליום — סליידרים עצמאיים לווליום לכל אפליקציה רצה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מתן שליטה בעוצמת הקול לפי אפליקציה ב-macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מתן שליטה בעוצמת הקול לפי אפליקציה ב-macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial תואם לחלוטין ל-macOS Tahoe ומשתמש ב-API המודרני Core Audio Tap של אפל — ללא צורך בדרייברים או הרחבות ליבה של צד שלישי. הוא עובד בצורה חלקה עם מודל האבטחה של macOS ואינו מפריע לאפליקציות אודיו אחרות.</p>
 
@@ -2787,7 +2799,7 @@ export const heArticles: ArticleSet = {
 
 <p>ההחלטה שלך ברורה לגמרי. המוזיקה היא רקע עדין. אין צורך בהחלפת מכשירים.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מראה את זום בעוצמה מלאה וספוטיפיי מונמכת במהלך שיחה ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מראה את זום בעוצמה מלאה וספוטיפיי מונמכת במהלך שיחה ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>עוד יותר טוב: SoundDial <strong>התכופפות אוטומטית</strong> זה עושה אוטומטית. כשאתה מצטרף לשיחה, הוא מזהה שהמיקרופון שלך מופעל ומוריד את כל האפליקציות ברקע לרמה שאתה מגדיר (ברירת מחדל של 30%). כשהשיחה מסתיימת, הכל חוזר לנורמליות. אין צורך בכוונון ידני לסליידר.</p>
 
@@ -2848,7 +2860,7 @@ export const heArticles: ArticleSet = {
 
 <p>גם אם אינך יכול למנוע macOS לשנות את נפח המערכת, תוכל להגן על הנפח שלך <em>לכל אפליקציה</em> איזון נפח. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> זוכר את עוצמת הקול של כל אפליקציה בנפרד. כשאפליקציה מאתדלקת מחדש או כש Mac מתעוררת מהשינה, SoundDial משחזרת כל אפליקציה לעוצמה השמורה שלה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial לזכור רמות עוצמה לפי אפליקציה באתחולים macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial לזכור רמות עוצמה לפי אפליקציה באתחולים macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זה אומר שגם אם עוצמת הכוח של המערכת משתנה, האיזון ברמת האפליקציה נשאר עקבי:</p>
 <ul>
@@ -2911,7 +2923,7 @@ export const heArticles: ArticleSet = {
 
 <p>SoundDial משתמש ב-API המודרני Core Audio Tap של אפל לשליטה נקייה על השמע לכל תהליך. הוא קל, רץ כולו בשורת התפריטים, ולא דורש הגדרה מורכבת. במחיר של €14.99, הוא זול משמעותית מ-SoundSource (39 דולר) וכולל תכונות ש-SoundSource חסר — פרופילי עוצמה והתכופפות אוטומטית. ומכיוון שהוא נמצא ב-App Store Mac, הוא מבוקר על ידי אפל, מאוחסן בסנדבוקס, ומותקן בצורה נקייה בלי להוריד DMGs או להתקין דרייברים של אודיו מערכת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מיקסר ווליום לכל אפליקציה שמציג את מחווני עוצמת הקול של כל אפליקציה ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מיקסר ווליום לכל אפליקציה שמציג את מחווני עוצמת הקול של כל אפליקציה ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>סאונד סורס (אמבה רוג)</h3>
 
@@ -3084,7 +3096,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> פותר זאת על ידי מתן מחוון עוצמה עצמאי לכל אפליקציה — כולל ספארי וכרום — שמתחיל מ-0% ל-0% <strong>200%</strong>. אם סרטון יוטיוב שקט מדי, גרור את הסליידר של הדפדפן ל-150% או 180%. הסאונד מוגבר בזמן אמת מבלי להשפיע על אף אפליקציה אחרת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial להעלות את עוצמת הדפדפן של ספארי ל-180% עבור סרטוני יוטיוב שקטים על Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial להעלות את עוצמת הדפדפן של ספארי ל-180% עבור סרטוני יוטיוב שקטים על Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זה שימושי במיוחד כי:</p>
 <ul>
@@ -3136,7 +3148,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> עושה. הוא נותן לכל אפליקציה מחוון עוצמת קול משלה, כך שתוכל להגדיר אפליקציות עם הרבה התראות כמו Slack, Mail ו-Calendar לעוצמה נמוכה בהרבה תוך שמירה על רמת המדיה הנוחה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial להציג את Slack בעוצמה נמוכה וספוטיפיי בעוצמה רגילה — שליטה עצמאית בהתראות macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial להציג את Slack בעוצמה נמוכה וספוטיפיי בעוצמה רגילה — שליטה עצמאית בהתראות macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרה טיפוסית שמתאימה לאוזניות</h3>
 <ul>
@@ -3205,7 +3217,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לך בדיוק את זה. תכונת ההתכופפות האוטומטית שלו עוקבת אחרי המיקרופון שלך ומכוונת אוטומטית את אודיו ברקע כששיחה מתחילה — אבל <strong>אתה שולט ברמת הברווז</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial הגדרות התכופפות אוטומטיות — הפחתת עוצמה ניתנת להתאמה במהלך שיחות זום ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial הגדרות התכופפות אוטומטיות — הפחתת עוצמה ניתנת להתאמה במהלך שיחות זום ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>איך זה עובד</h3>
 <ol>
@@ -3287,7 +3299,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לך להעלות את עוצמת הקול של כל אפליקציה עד <strong>200%</strong>. אם Spotify שקטה מדי דרך האיירפודס שלך, גרור את הסליידר של Spotify ל-150% או 180% SoundDial. אות השמע מוגבר לפני שהוא נשלח ל-AirPods שלך, מה שהופך אותו לחזק יותר ממה שאפל תכננה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת האפליקציות לאיירפודס על Mac עם מחווני עוצמה לכל אפליקציה עד 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מגביר את עוצמת האפליקציות לאיירפודס על Mac עם מחווני עוצמה לכל אפליקציה עד 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>היתרון של הגברה לפי אפליקציה: אפשר להגביר את האפליקציה השקטה מבלי לגרום לכל שאר הצלילים לרועש יותר. אם שיחת הווידאו שלך בסדר ב-100% אבל ספוטיפיי צריכה 170%, SoundDial מאפשרת להגדיר כל אחת בנפרד.</p>
 
@@ -3358,7 +3370,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> מאפשר לך להעלות את עוצמת הקול של כל אפליקציה עד <strong>200%</strong> — כולל ספוטיפיי. הוא מיירט את זרם השמע של Spotify ומגביר אותו מעבר למקסימום המובנה של האפליקציה, מבלי להשפיע על עוצמת הקול של אף אפליקציה אחרת.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial להעלות את עוצמת הקול של Spotify ל-200% ב-macOS תוך שמירה על עוצמת הקול של אפליקציות אחרות" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial להעלות את עוצמת הקול של Spotify ל-200% ב-macOS תוך שמירה על עוצמת הקול של אפליקציות אחרות" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ההבדל המרכזי: הגברת נפח מערכתית תעשה <em>הכל</em> חזק יותר — התראות, שיחות, קולות מערכת — לא רק ספוטיפיי. SoundDial מחזק את Spotify <em>באופן עצמאי</em>. הגדר את Spotify ל-160% בזמן שהדפדפן נשאר על 80% וזום נשאר על 100%.</p>
 
@@ -3411,7 +3423,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> הוא יושב בשורת התפריטים שלך ונותן לכל אפליקציה מחוון עוצמה משלה. אתה יכול להגדיר את המשחק שלך ל-35% ואת דיסקורד ל-100% — או כל יחס שמתאים לך. החלפת אחת והשנייה נשארת במקום.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מציג סליידרים עצמאיים של עוצמת קול למשחק ודיסקורד ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מציג סליידרים עצמאיים של עוצמת קול למשחק ודיסקורד ב-macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>הגדרת משחקים טיפוסית</h3>
 <ul>
@@ -3485,7 +3497,7 @@ export const heArticles: ArticleSet = {
 
 <p>התשובה היא אפליקציית סרגל תפריטים של צד שלישי. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> הוא מיקסר ווליום macOS מקומי שעושה בדיוק את מה שמיקסר ווליום של Windows עושה — ועוד יותר.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — מיקסר הווליום של macOS, שמציג את סליידרים של עוצמת הקול לפי אפליקציה בשורת התפריטים" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — מיקסר הווליום של macOS, שמציג את סליידרים של עוצמת הקול לפי אפליקציה בשורת התפריטים" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>מה שתקבל:</p>
 
@@ -3561,7 +3573,7 @@ export const heArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> נותן לכל אפליקציה Mac שלך מחוון עוצמת קול עצמאי שמתחיל מ-0% ל-0% <strong>200%</strong>. אם אפליקציה מסוימת שקטה מדי — נגן פודקאסט, לשונית דפדפן, שיחת וידאו — אפשר להעלות רק את האפליקציה הזו מעבר ל-100% מבלי לגעת בשום דבר אחר.</p>
 
-<img src="/apps/sounddial.png" alt="הגברת עוצמת SoundDial — בקרת עוצמה לפי אפליקציה עם הגברה של 200% macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="הגברת עוצמת SoundDial — בקרת עוצמה לפי אפליקציה עם הגברה של 200% macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>זה שימושי במיוחד עבור:</p>
 <ul>
@@ -3663,7 +3675,7 @@ export const heArticles: ArticleSet = {
 <h3>הגדרת רמת הברווז</h3>
 <p>בהגדרות של SoundDial, אפשר לכוון את <strong>רמת ברווז</strong> — כמה אודיו רקע מצטמצם במהלך שיחה. הסליידר נע בין 10% (בקושי נשמע) ועד 80% (עדיין די נוכח). ברירת המחדל של 30% עובדת טוב לרוב האנשים: מוזיקה מורגשת אבל לא מפריעה לשיחה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial תכונת התכופפות אוטומטית שמורידה אוטומטית את עוצמת המוזיקה במהלך שיחת זום על Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial תכונת התכופפות אוטומטית שמורידה אוטומטית את עוצמת המוזיקה במהלך שיחת זום על Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>למה התכופפות אוטומטית עדיפה על עצירה</h2>
 
@@ -3734,7 +3746,7 @@ export const heArticles: ArticleSet = {
 
 <p>זה בדיוק מה שמיקסר ווליום לכל אפליקציה עושה. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> יושב בשורת התפריט שלך ומציג כל אפליקציה שרצה עם מחוון עוצמת קול וכפתור השתקה משלה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial מציג כפתורי השתקה לכל אפליקציה עבור כל אפליקציה בתפריט macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial מציג כפתורי השתקה לכל אפליקציה עבור כל אפליקציה בתפריט macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>כדי להשתיק אפליקציה אחת:</p>
 <ol>
@@ -3845,7 +3857,7 @@ export const heArticles: ArticleSet = {
 
 <p>הוא יושב בשורת התפריטים שלך ומציג כל אפליקציה שרצה עם מחוון עוצמת קול משלה. גרור מחוון כדי לכוון את עוצמת הקול של האפליקציה מ-0% ל-200%. לחץ על אייקון הרמקול כדי להשתיק אותו מיד. החלף בין פרופילים שמורים למצבים שונים. אם תפעיל את ההתכופפות האוטומטית, המוזיקה שלך תשתמש אוטומטית כשהשיחה מתחילה.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — מערבל עוצמה לכל אפליקציה macOS מציג את מחווני עוצמת הקול של האפליקציה בשורת התפריטים" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — מערבל עוצמה לכל אפליקציה macOS מציג את מחווני עוצמת הקול של האפליקציה בשורת התפריטים" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>תכונות עיקריות:</p>
 <ul>
@@ -3860,5 +3872,2353 @@ export const heArticles: ArticleSet = {
 
 <p>רכישה חד-פעמית. אין מנוי. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">קבלו SoundDial בחנות האפליקציות Mac</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "החלופה הטובה ביותר Background Music עבור Mac (2026)",
+    description: "Background Music נשבר ב-macOS החדש יותר? האלטרנטיבה האמינה ביותר למערבל נפח לכל אפליקציה היא SoundDial - אפליקציית Mac App Store בארגז חול עם חיזוק ופרופילים.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם Background Music הפסיק לעבוד לאחר עדכון macOS, החלופה האמינה ביותר היא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — מערבל נפח תפריט לכל אפליקציה מה-Mac App Store. הוא נותן לכל אפליקציה את מחוון עוצמת הקול שלה, מוסיף השתקה, חיזוק, פרופילי עוצמת הקול, והורדה אוטומטית, והוא נמצא בארגז חול במלואו ונבדק על ידי Apple, כך שאין מנהלי התקן אודיו לשבור במהדורה הבאה של macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - החלופה הטובה ביותר Background Music עבור Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע Background Music נשבר ב-macOS החדש יותר</h2>
+
+<p>Background Music הוא פרויקט חינמי וחכם באמת בקוד פתוח. זה נתן למשתמשי Mac משהו שאפל אין לו מעולם: מערבל נפח לכל אפליקציה, מהסוג שיש ל-Windows במשך שנים. אבל העיצוב שלו הוא גם הסיבה שהוא ממשיך להיכשל.</p>
+
+<p>כדי לנתב ולשלוט באודיו, Background Music מתקין התקן שמע וירטואלי - מנהל התקן ברמת המערכת שיירט את הצליל של ה-Mac שלך. גישה זו עבדה היטב על macOS ישנים יותר, אבל כל מהדורה גדולה מחזקת את האבטחה סביב הרחבות ליבה ואודיו. התסמינים הנפוצים שמשתמשים מדווחים:</p>
+
+<ul>
+<li>אין צליל בכלל לאחר ההתקנה או לאחר עדכון מערכת ההפעלה.</li>
+<li>המכשיר הוירטואלי לא מצליח להיטען, ולכן ניתוב השמע נפסק בשקט.</li>
+<li>האפליקציה צריכה התקנה מחדש, אתחול מחדש או הסרה ידנית של מנהל ההתקן כדי לשחזר.</li>
+<li>הפיתוח מונע על ידי קהילה ומתנדב, כך שתיקונים עבור macOS חדש יכולים לפגר.</li>
+</ul>
+
+<p>כל זה לא הופך את Background Music ל"רע". זה רק אומר שכלי חינמי מבוסס נהגים הוא שביר מטבעו, ואם אתה מסתמך על נפח לכל אפליקציה בכל יום, השבריריות הזו מתיישנת מהר.</p>
+
+<h2>מה לחפש בתחליף</h2>
+
+<p>לפני שתבחר חלופה כלשהי, החליט מה אתה באמת צריך:</p>
+
+<ul>
+<li><strong>אמינות בכל עדכוני macOS.</strong> אם הוא מתקין גרעין או תוסף אודיו, צפו לשבירה מדי פעם.</li>
+<li><strong>שליטה אמיתית לכל אפליקציה.</strong> עוצמת קול והשתקה עצמאיים עבור כל אפליקציה הם קו הבסיס.</li>
+<li><strong>חיזוק.</strong> אפליקציות מסוימות (כלי פגישות שקטות, דפדפנים מסוימים) פשוט שקטות מדי - אתה רוצה לדחוף מעבר ל-100%.</li>
+<li><strong>תכונות נוחות.</strong> פרופילים ואוטו-דוקינג הם מה שהופכים כלי עזר למשהו שאתה שומר פתוח כל היום.</li>
+<li><strong>התקנה בטוחה.</strong> אפליקציית Mac App Store עם ארגז חול לא יכולה לגעת בחלק הפנימי של המערכת, כך שההסרה נקייה והעדכונים אוטומטיים.</li>
+</ul>
+
+<h2>מדוע SoundDial הוא הבחירה האמינה</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נבנה כדי לפתור בדיוק את הבעיה שבה נתקלים משתמשי Background Music: הם רוצים נפח לכל אפליקציה, אבל הם לא רוצים לעשות בייביסיטר לנהג. זה חי בשורת התפריטים שלך ועושה את עבודת הליבה היטב:</p>
+
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong>, עם השתקה לכל אפליקציה באותו חלונית.</li>
+<li><strong>חיזוק לכל אפליקציה</strong> להשמיע אפליקציות שקטות חזקות מספיק כדי לשמוע.</li>
+<li><strong>פרופילי נפח</strong> - שמור מיקס (נניח, "פגישה" או "משחק") והחלף באופן מיידי במקום לגרור מחוונים בכל פעם.</li>
+<li><strong>ברווז אוטומטי</strong>, כך ששמע רקע יורד אוטומטית כשצריך.</li>
+<li><strong>מיתוג פלט מהיר</strong> בין רמקולים, אוזניות והתקנים אחרים.</li>
+</ul>
+
+<p>ההבדל הגדול יותר הוא איך הוא מתקין. SoundDial נשלח דרך ה-Mac App Store, מה שאומר שהוא נבדק על ידי אפל ובארגז חול. אין DMG לגרור, אין מנהל התקן שמע או סיומת מערכת ואין גישה לקרנל. זו הסיבה היחידה החשובה ביותר שהוא לא ישבור את הדרך שבה Background Music עושה כשמגיע macOS חדש - הוא לא מחובר לחלקים של המערכת שאפל ממשיכה לנעול.</p>
+
+<p>זה עולה <strong>14.99 אירו חד פעמי</strong>. לא בחינם, אבל אין מנוי, ואתה משלם על משהו מתוחזק ובטוח להתקנה.</p>
+
+<h2>SoundDial לעומת Background Music לעומת הכלים החינמיים</h2>
+
+<p>Background Music היא לא האופציה החינמית היחידה שלך, אז הנה הסבר כנה של הארץ:</p>
+
+<ul>
+<li><strong>Background Music (חינם, קוד פתוח):</strong> נפח לכל אפליקציה, אך מבוסס על מנהלי התקנים, נוטה להתקלקל ב-macOS החדש יותר, וחסר לו דחיפה, פרופילים ודיבוק אוטומטי.</li>
+<li><strong>FineTune (חינם, קוד פתוח):</strong> אפליקציית נפח קלת משקל לכל אפליקציה. טוב אם חינם היא הדרישה היחידה שלך, אבל דל בתוספות.</li>
+<li><strong>eqMac (חינם):</strong> בעיקר מערכת EQ ומגבר, לא מיקסר אמיתי לכל אפליקציה.</li>
+<li><strong>SoundSource מאת Rogue Amoeba (~$39):</strong> אפשרות פרו-דרג, עם EQ לכל אפליקציה וניתוב פלט מלא. מצוין, אבל זה יותר מכפול מהמחיר של SoundDial ועדיין דורש הורדה בתוספת דרייבר לכידת אודיו.</li>
+<li><strong>SoundDial (14.99 יורו, Mac App Store):</strong> הדרך האמצעית - נפח אמיתי לכל אפליקציה, השתקה, חיזוק, פרופילים ודיוק, מסופק כהתקנה נקייה בארגז חול ללא דרייברים.</li>
+</ul>
+
+<p>אם אתה צריך EQ לכל אפליקציה או ניתוב אולפן מורכב, SoundSource שווה את הכסף הנוסף. אם אתה רוצה כלי חינמי של מתעסק ויכול לסבול שבירה מדי פעם, FineTune או Background Music יצליחו. אבל אם המטרה שלך היא "לתת לכל אפליקציה נפח משלה ולהפסיק שהיא תשבור כל עדכון macOS", SoundDial פוגע ביעד הזה בשביל הכי פחות טרחה.</p>
+
+<h2>ההקשר של macOS שהופך את זה לדרוש</h2>
+
+<p>כדאי לומר בפשטות: ל-macOS אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש אחד מזה שנים בנפח הנטוי שלו, אבל ב-Mac מחוון המערכת שולט על הכל בבת אחת. הפער הזה הוא כל הסיבה לכך שכלים כמו Background Music ו-SoundDial קיימים. מכיוון שאפל לא ממלאת את זה, השאלה המעשית היא רק באיזו גישה של צד שלישי אתה סומך - דרייבר חינמי שנלחם במערכת ההפעלה, או אפליקציה בארגז חול שעובדת איתה.</p>
+
+<p>מוכן להפסיק להילחם בדרייברי אודיו שבורים? קבל <a href="https://apps.apple.com/app/id6772792641">SoundDial ב-Mac App Store</a> עבור €14.99 ולשלוט בעוצמת הקול של כל אפליקציה בצורה אמינה.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource לעומת SoundDial: איזו אפליקציית נפח Mac מנצחת?",
+    description: "SoundSource ($39, פרו-דרגה) לעומת SoundDial (€14.99, App Store). השווה לכל אפליקציה נפח, חיזוק, פרופילים ו-Down אוטומטי כדי לבחור את המיקסר Mac המתאים לך.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם אתה רק רוצה בקרת עוצמת הקול לכל אפליקציה שתתקין בצורה נקייה ועולה פחות, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא הקנייה הטובה יותר עבור רוב האנשים: 14.99 אירו חד פעמית, מה-Mac App Store, עם עוצמת הקול לכל אפליקציה, השתקה, חיזוק, פרופילים והורדה אוטומטית. בחר את SoundSource של Rogue Amoeba (~$39) רק אם אתה צריך ספציפית EQ לכל אפליקציה וניתוב פלט מתקדם.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource לעומת SoundDial: איזו אפליקציית נפח Mac מנצחת?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>הגרסה הקצרה</h2>
+<p>ל-macOS עדיין אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש כזה כבר שנים, אבל ב-Mac מחוון עוצמת הקול של המערכת מזיז הכל בבת אחת. גם SoundSource וגם SoundDial קיימים כדי לתקן את הפער הזה. הם רק מכוונים לקונים שונים.</p>
+<ul>
+<li><strong>SoundDial</strong> - 14.99 יורו חד פעמי, Mac App Store, אפליקציית שורת תפריטים. עוצמת קול עצמאית לכל אפליקציה, השתקה לכל אפליקציה, הגברת לכל אפליקציה, פרופילים שמורים, ביטול אוטומטי והחלפת פלט מהירה. ארגז חול ו-Apple נבדק, כך שאין התקנת דרייבר.</li>
+<li><strong>SoundSource</strong> - $39, הורדה ישירה מ-Rogue Amoeba. הכל למעלה בתוספת EQ לכל אפליקציה, ניתוב פלט מתקדם ואפקטי אודיו. מחייב להתקין מנהל התקן קטן ללכידת אודיו.</li>
+</ul>
+
+<h2>המחיר ואיך אתה קונה את זה</h2>
+<p>זה הפיצול הברור ביותר. SoundSource הוא בערך $39 ונמכר ישירות על ידי Rogue Amoeba. SoundDial הוא 14.99 אירו כרכישה חד פעמית ב-Mac App Store - קצת יותר משליש מהמחיר.</p>
+<p>כי <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נשלח דרך ה-App Store, הוא נמצא בארגז חול, באישור נוטריוני ונבדק על ידי Apple. אתה לוחץ על קבל, זה מותקן, וזה נעשה. אין DMG לטעינה, אין הרשאות להעניק לרכיב סמוך לגרעין, ואין מנהל התקן שמע או הרחבת מערכת. זה גם נוסע יחד עם זרימת העדכון הרגילה של App Store ומסתנכרן עם ה-Macs האחרים שלך באותו Apple ID.</p>
+<p>SoundSource מוריד מחוץ ל-App Store ומתקין מנהל התקן לכידת אודיו כך שהוא יכול ליירט ולעבד את האודיו של כל אפליקציה. זה מה שפותח את התכונות המקצועניות שלו, אבל זה אומר גם שלב התקנה נוסף ורכיב שחי עמוק יותר במערכת.</p>
+
+<h2>מה ש-SoundSource עושה ש-SoundDial לא</h2>
+<p>SoundSource מרוויח את המחיר שלו עבור סוג מסוים של משתמש. אם אחד מאלה מתאר אותך, זה שווה את הכסף הנוסף:</p>
+<ul>
+<li><strong>EQ לכל אפליקציה.</strong> אתה רוצה אקולייזר של 10 פסים על, למשל, Spotify תוך השארת Zoom שטוח. SoundDial עושה ווליום, לא EQ.</li>
+<li><strong>ניתוב פלט מתקדם.</strong> שליחת אפליקציה אחת לרמקולים שלך ואחרת לאוזניות או לממשק ספציפי, עם שליטה עדינה.</li>
+<li><strong>אפקטי אודיו ותוספים.</strong> SoundSource יכול לארח אפקטים על בסיס אפליקציה - טריטוריה מקצועית באמת.</li>
+</ul>
+<p>ל-Rogue Amoeba יש רקורד ארוך ומהימן. SoundSource הוא כלי רציני ומתומחר כמו אחד. אם אתה מקצוען אודיו או משתמש כבד מרובה פלטים, זו השיחה הנכונה.</p>
+
+<h2>מה SoundDial עושה טוב יותר לשימוש יומיומי</h2>
+<p>רוב האנשים שמחפשים "מיקסר נפח Mac" אינם צריכים EQ. הם צריכים אפליקציה אחת שקטה יותר מאחרת, והם לא רוצים להילחם במתקין כדי להשיג אותה. SoundDial מכסה את זה בצורה נקייה ומוסיפה כמה דברים שכדאי לקרוא:</p>
+<ul>
+<li><strong>חיזוק לכל אפליקציה.</strong> חלק מהאפליקציות והסרטונים פשוט שקטים מדי אפילו ב-100%. SoundDial יכול לדחוף אפליקציה בודדת מעל התקרה הרגילה שלה כך שסוף סוף ישמע פגישה שקטה או פודקאסט.</li>
+<li><strong>פרופילי נפח.</strong> שמור הגדרה מלאה - מוזיקה נמוכה, הדפדפן מושתק, התקשר לאפליקציה בקול רם - והיזכר בה באופן מיידי. מעולה למעבר בין "פוקוס", "פגישה" ו"משחק" מבלי לגרור חמישה מחוונים.</li>
+<li><strong>ברווז אוטומטי.</strong> טבלו אוטומטית אודיו ברקע (כמו מוזיקה) כאשר מקור אחר מופעל, כדי שהודעות, שיחות או וידאו לא יקברו.</li>
+<li><strong>מיתוג פלט מהיר.</strong> קפוץ בין רמקולים, אוזניות ומכשירים אחרים מסרגל התפריטים.</li>
+</ul>
+<p>כל זה פועל מתוך שורת תפריטים נפתחת, כך שזה במרחק לחיצה מהפנים שלך בשאר הזמן.</p>
+
+<h2>החלופות החינמיות, בקצרה</h2>
+<p>תראה כמה אפשרויות חינמיות שהוזכרו באותם חיפושים. כדאי לדעת עליהם:</p>
+<ul>
+<li><strong>Background Music</strong> - חינם וקוד פתוח, נותן לך נפח בסיסי לכל אפליקציה. אבל זה יכול להישבר במהדורות חדשות יותר של macOS, ואין לו דחיפה, פרופילים או ירידה אוטומטית.</li>
+<li><strong>FineTune</strong> - אפליקציית נפח חינם בקוד פתוח בשורת תפריטים. פשוט, אך מוגבל בהיקפו.</li>
+<li><strong>eqMac</strong> - EQ בחינם ומגבר מערכת, יותר כלי EQ כלל מערכת מאשר מיקסר אמיתי לכל אפליקציה.</li>
+</ul>
+<p>חינם זה נהדר אם זה עובד בשבילך. הפשרה היא תאימות ותמיכה: כלי אודיו בקוד פתוח יכולים לפגר מאחורי עדכוני macOS, ותכונות כמו פרופילים ו-Ducking בדרך כלל אינן שם. אם ההגדרה שלך חשובה ליום העבודה שלך, תשלום פעם אחת עבור משהו שנבדק ומתוחזק הוא בדרך כלל הדרך הרגועה יותר.</p>
+
+<h2>איזה מהם כדאי לקנות?</h2>
+<p>ענה על שאלה אחת: האם אתה צריך EQ לכל אפליקציה או ניתוב פלט מתקדם?</p>
+<ul>
+<li><strong>כן</strong> - קנה SoundSource. הוא בנוי לכך, וה-$39 הוגן עבור כלי מקצועי עם מנוע ברמת הנהג.</li>
+<li><strong>לא, אני רק רוצה נפח לכל אפליקציה, חיזוק והתקנה נקייה</strong> - קנה SoundDial. אתה מקבל את המיקס שבאמת חשוב מיום ליום, בתוספת פרופילים ודיבוק אוטומטי, תמורת 14.99 אירו ואפס טרחת נהג.</li>
+</ul>
+<p>עבור הרוב הגדול של משתמשי Mac, הדלי השני הוא התשובה הכנה. אתה משלם עבור שליטה בווליום, לא עבור אולפן.</p>
+
+<p><strong>מוכן לתקן את עוצמת הקול של Mac בדרך הקלה?</strong> קבל <a href="https://apps.apple.com/app/id6772792641">SoundDial ב-Mac App Store</a> - 14.99 יורו חד פעמי, ללא נהגים, ללא DMG. עוצמת קול לכל אפליקציה, חיזוק, פרופילים והורדה אוטומטית בלחיצה אחת.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "אלטרנטיבה זולה יותר של SoundSource עבור נפח לכל אפליקציה ב-Mac",
+    description: "רוצה נפח לאפליקציה בסגנון SoundSource ללא המחיר של $39? SoundDial הוא מיקסר סרגל תפריט Mac App Store בשווי 14.99 אירו עם חיזוק, פרופילים וברווז אוטומטי.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם אתה רוצה שליטה על עוצמת הקול לכל אפליקציה בסגנון SoundSource ב-Mac אבל 39$ מרגיש תלול, התיקון המהיר ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. זהו מיקסר שורת תפריט חד-פעמי של €14.99 מה-Mac App Store שנותן לכל אפליקציה מחוון עוצמת הקול שלה, השתקה והגברה משלה - בתוספת פרופילים ודיבוק אוטומטי - ללא הורדה או מנהל התקן שמע להתקנה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - אלטרנטיבה זולה יותר של SoundSource עבור נפח לכל אפליקציה ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע אנשים מחפשים אלטרנטיבה SoundSource</h2>
+<p>SoundSource מאת Rogue Amoeba היא תוכנה מצוינת. זה באמת פרו-דרגה: אקולייזרים לכל אפליקציה, אפקטי אודיו וניתוב פלט המאפשרים לשלוח אפליקציה אחת לאוזניות שלך ואחרת לרמקולים שלך. אבל הכוח הזה מגיע עם שתי נקודות חיכוך. ראשית, המחיר - בסביבות $39. שנית, הוא מתקין מנהל התקן לכידת אודיו ברמת המערכת מחוץ ל-App Store, שחלק מהאנשים נזהרים לגביו במכונת עבודה או פשוט לא רוצים לנהל עדכוני macOS.</p>
+<p>עבור רוב האנשים, הצורך האמיתי הוא הרבה יותר פשוט: להנמיך את Spotify מבלי לגעת בשיחת Zoom, להשתיק את האפליקציה של כרטיסיית דפדפן רועשת, או להגביר נגן וידאו שקט מעבר ל-100%. אם זה אתה, אתה משלם כסף מקצוען עבור תכונות שלעולם לא תפתח.</p>
+
+<h2>מה SoundDial עושה - ומה זה עולה</h2>
+<p>SoundDial מתמקד בעבודת נפח לכל אפליקציה ועושה זאת בצורה נקייה. פתח את שורת התפריטים ותקבל רשימה חיה של כל מה שמשמיע קול, כל אחד עם שליטה משלו:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - מחוון אחד לכל יישום, מותאם בזמן אמת.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתקה אפליקציה אחת באופן מיידי מבלי להשהות שום דבר אחר.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - דחוף אפליקציות שקטות מעל המקסימום הרגיל שלהן כאשר וידאו או שיחה רכים מדי.</li>
+<li><strong>פרופילי נפח</strong> - שמור מיקס (למשל "פוקוס", "משחקים", "פגישה") והחלף בלחיצה אחת.</li>
+<li><strong>ברווז אוטומטי</strong> - לטבול אוטומטית אפליקציות אחרות כאשר משהו חשוב יותר מתחיל להתנגן.</li>
+<li><strong>מיתוג פלט מהיר</strong> — מעבר בין רמקולים, אוזניות והתקנים אחרים מאותו תפריט.</li>
+</ul>
+<p>המחיר הוא <strong>14.99 אירו, שולם פעם אחת</strong> - ללא מנוי. זה בערך שליש מהעלות של SoundSource, עבור תכונות הנפח שרוב המשתמשים באמת מגיעים אליהן.</p>
+
+<h2>ההבדל App Store</h2>
+<p>כי SoundDial נשלח דרך ה <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, זה נבדק על ידי Apple ובארגז חול. אין DMG לגרור, אין הרחבת ליבה או מנהל התקן לכידת אודיו לאישור, ואין עדכון נפרד. אתה מתקין אותה כמו כל אפליקציה אחרת של App Store וזה עובד. כאשר macOS מתעדכן, אתה לא נשאר לתהות אם רכיב שמע ברמה נמוכה עדיין פועל.</p>
+<blockquote>ל-macOS עדיין אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש כזה כבר שנים, אבל ב-Mac נפח המערכת הוא הכל או כלום - וזה בדיוק הפער שהכלים האלה ממלאים.</blockquote>
+
+<h2>איך זה בהשוואה לאפשרויות החינמיות</h2>
+<p>SoundSource היא לא האלטרנטיבה היחידה שלך. יש כלים חינמיים, ולהיות כנה לגביהם חשוב:</p>
+<ul>
+<li><strong>Background Music</strong> היא אפליקציה חינמית בקוד פתוח לכל אפליקציה. זה עובד עבור אנשים רבים, אבל זה יכול להישבר במהדורות חדשות יותר של macOS, העדכונים אינם סדירים, ואין לו דחיפה, אין פרופילים ואין לו דיבוק אוטומטי.</li>
+<li><strong>FineTune</strong> היא אפליקציית נפח חינמית בקוד פתוח בשורת תפריט - קלת משקל ושימושית, אך שוב חסרה את תכונות הפרופיל והחמקה.</li>
+<li><strong>eqMac</strong> הוא EQ ומגבר מערכת בחינם. זה יותר כלי אקולייזר/חיזוק מאשר מיקסר אמיתי לכל אפליקציה, והוא לא מתמקד במחווני אפליקציה בודדים.</li>
+</ul>
+<p>חינם היא בחירה לגיטימית. הפשרה היא אמינות ותכונות: כלי אודיו בקוד פתוח תלויים בתחזוקה מתנדבים ויכולים לפגר מאחורי שינויים ב-macOS, ואף אחד מפרופילי חבילת האפשרויות החינמיות בתוספת אוטומטית ברווזון כפי שעושה SoundDial. אם ההגדרה שלך פשוטה ולא אכפת לך שבר מדי פעם, אפליקציה חינמית עשויה להספיק. אם אתה רוצה משהו שמתוחזק, בארגז חול ופשוט עובד, 14.99 אירו קונה לך בדיוק את זה.</p>
+
+<h2>מדריך החלטות מהיר</h2>
+<ul>
+<li><strong>אתה צריך EQ לכל אפליקציה, אפקטי שמע וניתוב אפליקציה אחת להתקן פלט אחר</strong> → SoundSource שווה את המחיר שלו. שום דבר כאן לא מחליף את זה במלואו.</li>
+<li><strong>אתה צריך בעיקר עוצמת קול לכל אפליקציה, השתקה, חיזוק, פרופילים והשתמטות - ללא דרייברים</strong> → SoundDial ב-14.99 אירו היא הבחירה בעלת הערך הטוב יותר.</li>
+<li><strong>אתה רוצה בחינם ולא אכפת לך מסיכון תחזוקה</strong> ← נסה תחילה Background Music, FineTune או eqMac.</li>
+</ul>
+
+<h2>מגדיר את זה</h2>
+<p>תחילת העבודה לוקחת בערך דקה:</p>
+<ul>
+<li>התקן את SoundDial מה-Mac App Store - ללא הורדה חיצונית.</li>
+<li>הענק את הרשאת האודיו ש-macOS מבקשת בהפעלה הראשונה.</li>
+<li>הפעל צליל בכמה אפליקציות ופתח את סמל שורת התפריט; תראה כל אחד עם המחוון שלו.</li>
+<li>גרור כדי להגדיר רמות, הקש כדי להשתיק, או דחוף מעבר ל-100% כדי להגביר.</li>
+<li>שמור את ההגדרה שלך כפרופיל, והפעל את ההורדה האוטומטית אם אתה רוצה שאפליקציות אחרות ישתקו במהלך שיחות או מדיה.</li>
+</ul>
+<p>זה כל זרימת העבודה - אין קבצי תצורה, אין הפעלה מחדש, אין הרחבת מערכת לברך.</p>
+
+<h2>השורה התחתונה</h2>
+<p>SoundSource הוא הכלי החזק יותר, אבל רוב האנשים שמחפשים אותו רק רוצים נפח לכל אפליקציה שמתנהג. SoundDial מספק את זה תמורת כשליש מהמחיר, נשלח בבטחה דרך ה-App Store, ומוסיף פרופילים ו-Auto-Down למעלה - ללא דרייבר אחד להתקנה.</p>
+
+<p>מוכן לשלוט בעוצמת הקול של כל אפליקציה באופן עצמאי? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> עבור 14.99 אירו, פעם אחת.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune חלופה עבור Mac: מערבל נפח נתמך לכל אפליקציה",
+    description: "ניסית את אפליקציית שורת התפריט החינמית FineTune ואתה רוצה משהו מתוחזק ובטוח ב-App Store? הנה החלופה הטובה ביותר של FineTune עבור נפח לכל אפליקציה ב-Mac.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם אהבתם את FineTune אבל רוצים שמשהו יתוחזק ומותקן באופן פעיל ממקור מהימן, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא התיקון האמין המהיר ביותר. זהו Mac App Store שורת תפריטים לכל אפליקציה עם עוצמת קול עצמאית, השתקה לכל אפליקציה, הגברת עוצמת הקול, פרופילים שמורים ו-Downing אוטומטי. Apple נבדק ובארגז חול, זה עולה 14.99 אירו פעם אחת ללא מנהלי התקנים להתקנה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune חלופה עבור Mac: מערבל נפח נתמך לכל אפליקציה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>למה בכלל לחפש אלטרנטיבה FineTune?</h2>
+
+<p>FineTune הוא רעיון נחמד: אפליקציית שורת תפריט חינמית בקוד פתוח שנותנת לך שליטה על עוצמת הקול לכל אפליקציה ב-macOS, משהו שאפל עדיין מסרבת לבנות בו (ל-Windows יש מיקסר לכל אפליקציה במשך שנים). עבור הרבה אנשים זה עושה את העבודה הבסיסית. אבל יש סיבות אמיתיות לכך שמשתמשים מחפשים משהו אחר.</p>
+
+<ul>
+<li><strong>התחזוקה אינה בטוחה.</strong> פרויקטי תחביבים בקוד פתוח חיים ומתים בזמנו הפנוי של מתחזק יחיד. כאשר macOS שולחת עדכון גדול, אפליקציות הקשורות לאודיו הן לרוב הראשונות להישבר, ואתה נשאר מחכה לתיקון מתנדב שאולי לעולם לא יגיע.</li>
+<li><strong>תקרה עם תקרה.</strong> FineTune מכסה נפח לכל אפליקציה ועוד מעט. אם אתה רוצה בוסט מעל 100%, פרופילים שמורים, או בריחה אוטומטית, אתה צריך להדביק כלים אחרים.</li>
+<li><strong>אמון ועדכונים.</strong> התקנת בנייה גולמית מחוץ ל-App Store פירושה ללא סקירה אוטומטית, ללא ערבויות ארגז חול ועדכונים ידניים שאתה צריך לעקוב אחר עצמך.</li>
+</ul>
+
+<p>כל זה לא הופך את FineTune לרע. זה רק אומר שאם אתה מסתמך על אודיו לכל אפליקציה בכל יום, אתה כנראה רוצה משהו עם מודל תמיכה מאחוריו.</p>
+
+<h2>מה SoundDial עושה אחרת</h2>
+
+<p>SoundDial מתחיל מאותו רעיון ליבה, מיקסר שורת תפריט עם סליידר לכל אפליקציה פועלת, ואז הולך רחוק יותר עם התכונות שמשתמשים חזקים באמת מבקשים.</p>
+
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה.</strong> הורד את Spotify, שמור את השיחה שלך בווליום מלא, השתיק לחלוטין את האפליקציה של כרטיסיית דפדפן רועשת, הכל מתפריט אחד.</li>
+<li><strong>הגברת נפח לכל אפליקציה.</strong> דחף אפליקציה שקטה מעל התקרה הרגילה שלה כאשר הפודקאסט או הסרטון היו נמוכים מדי. FineTune לא עושה זאת.</li>
+<li><strong>פרופילי נפח.</strong> שמור שילוב, "התמקד", "משחקים", "פגישות", והחלף את כל ההגדרות שלך בלחיצה אחת במקום להזיז חמישה מחוונים.</li>
+<li><strong>ברווז אוטומטי.</strong> הורד אוטומטית את האודיו ברקע כאשר משהו חשוב יותר מתחיל להתנגן, כך שהמוזיקה יורדת כאשר נכנסת שיחה.</li>
+<li><strong>מיתוג פלט מהיר.</strong> קפוץ בין רמקולים, אוזניות ויציאות אחרות מבלי לצלול להגדרות מערכת.</li>
+</ul>
+
+<p>כי <a href="https://apps.apple.com/app/id6772792641">SoundDial נשלח דרך ה-Mac App Store</a>, היא נבדקה על ידי Apple ומארגז חול, מותקן בצורה נקייה ומתעדכן באותו מנגנון כמו כל אפליקציה אחרת של App Store. אין DMG לגרור, אין מנהל התקן שמע או הרחבת מערכת, ואין הנחית אבטחה המבקשת ממך לאפשר רכיב ברמת ליבה.</p>
+
+<h2>SoundDial לעומת FineTune ושאר הכלים החינמיים</h2>
+
+<p>FineTune היא לא האפשרות החינמית היחידה, והיא עוזרת לראות את כל הנוף בכנות.</p>
+
+<ul>
+<li><strong>FineTune</strong> - נפח חינם, קוד פתוח, שורת תפריטים לכל אפליקציה. פשוט וקל משקל, אבל ללא דחיפה, ללא פרופילים, ללא ברווזים ותחזוקה תלויה בקהילה.</li>
+<li><strong>Background Music</strong> - חינמי וקוד פתוח, מנתב ומתאים אודיו לכל אפליקציה. שימושי באמת, אבל זה יכול להישבר במהדורות חדשות יותר של macOS וחסר לו דחיפה, פרופילים ו-Ducking.</li>
+<li><strong>eqMac</strong> - EQ חינם ומגבר מערכת. נהדר אם אתה רוצה בעיקר אקולייזר, אבל זה לא מיקסר לכל אפליקציה.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - האפשרות המקצוענית בסביבות $39, עם EQ לכל אפליקציה וניתוב פלט. מצוין, אבל זה צריך הורדה פלוס דרייבר ללכידת אודיו, וזה עולה יותר מפי שניים.</li>
+<li><strong>SoundDial</strong> - 14.99 אירו חד פעמי, בטוח ל-App Store, ללא נהגים. מוסיף דחיפה, פרופילים ודיבוק אוטומטי על היסודות של נפח לכל אפליקציה.</li>
+</ul>
+
+<p>הסיכום הכנה: אם אתה רוצה את הדבר הזול ביותר וצריך רק נפח בסיסי לכל אפליקציה, הכלים החינמיים יכולים לעבוד. אם אתה רוצה EQ וניתוב לכל אפליקציה ולא אכפת לך לשלם ולהתקין דרייבר, SoundSource הוא המשקל הכבד. SoundDial יושב במקום המתוק, בעל יכולת גבוהה יותר מהאפליקציות החינמיות, זול באופן דרמטי מ-SoundSource, ובטוח יותר להתקנה מכל אחת מהן, מכיוון שאפל סוקרת וארגז חול.</p>
+
+<h2>עוברים מ-FineTune</h2>
+
+<p>ההחלפה נמשכת מספר דקות ואין טקס ניקוי.</p>
+
+<ul>
+<li>התקן את SoundDial מה-Mac App Store. אין מתקין, אין אישור מנהלי התקנים, אין הפעלה מחדש.</li>
+<li>לחץ על הסמל SoundDial בשורת התפריטים שלך כדי לראות מחוון עבור כל אפליקציה פועלת.</li>
+<li>הגדר את התמהיל היומיומי שלך ולאחר מכן שמור אותו כפרופיל כדי שתוכל לזכור אותו באופן מיידי.</li>
+<li>אופציונלי להפעיל את השפופרת האוטומטית כדי שהשמע ברקע יזוז הצידה עבור שיחות והתראות.</li>
+<li>כשאתה מאושר, צא מ-FineTune. מכיוון שאף אחת מהאפליקציות לא מתקינה מנהלי התקנים של המערכת, אין שום דבר להתעכב כדי להסיר את ההתקנה.</li>
+</ul>
+
+<p>אתה שומר על מה שאהבת ב-FineTune, מיקסר שורת תפריטים נקי שאפל מעולם לא נתנה לך, ואתה זוכה לחיזוק, פרופילים, דפוק ותמיכה ארוכת טווח שמספקת אפליקציית App Store מתוחזקת.</p>
+
+<h2>השורה התחתונה</h2>
+
+<p>FineTune מוכיח את הרעיון: נפח לכל אפליקציה שייך לשורת התפריטים. SoundDial הוא איך נראה הרעיון הזה עם דגם תמיכה אמיתי, תכונות נוספות ובטיחות App Store, תמורת 14.99 אירו חד פעמי במקום הימור על תחזוקה מתנדבת.</p>
+
+<p>מוכן למיקסר לכל אפליקציה שנשאר מתוחזק? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> ולשלוט בעוצמת הקול של כל אפליקציה בשניות.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "אלטרנטיבה eqMac לנפח אמיתי לכל אפליקציה ב-Mac",
+    description: "אהב את החיזוק של eqMac אבל צריך עוצמת קול מתאימה לכל אפליקציה, השתקה ופרופילים? SoundDial הוא התיקון המהיר ביותר של Mac App Store - 14.99 אירו, בארגז חול, ללא דרייברים.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם השתמשת ב-eqMac עבור ה-EQ ומגבר הווליום שלו אבל באמת רוצה עוצמת קול עצמאית עבור כל אפליקציה - בתוספת השתקה, חיזוק ושמירת פרופילים - התיקון המהיר ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. זהו מיקסר שורת תפריט Mac App Store: הגדר רמה לכל אפליקציה, הגביר את השקטים והחלף פרופילים באופן מיידי. 14.99 אירו חד פעמי, בארגז חול, אין דרייברים להתקנה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — אלטרנטיבה eqMac לנפח אמיתי לכל אפליקציה ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac לעומת מה שאתה באמת צריך</h2>
+
+<p>eqMac הוא כלי חינמי מוצק, והאקולייזר כולו ומגבר עוצמת הקול שלו שימושיים באמת. אבל eqMac בנוי סביב EQ מאסטר אחד ופלט מאסטר אחד. זה לא נותן לך מערבל נפח אמיתי לכל אפליקציה - הדבר שהיה ל-Windows במשך שנים ו-macOS עדיין לא נשלח באופן מקורי.</p>
+
+<p>אז אם הבעיה האמיתית שלך היא "Spotify רועש מדי בזמן שאני בשיחה" או "המשחק הזה מוציא לי את האוזניים אבל כל השאר בסדר", eqMac היא לא הצורה הנכונה לתפקיד. בסופו של דבר אתה רוכב על סליידר יחיד או מתעסק עם הווליום הפנימי של כל אפליקציה. זה הפער ש-SoundDial ממלא.</p>
+
+<h2>מה ש-SoundDial עושה ש-eqMac לא</h2>
+
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - מוזיקה ב-40%, דפדפן ב-100%, שיחת וידאו ב-70%, הכל בבת אחת, הכל נזכר.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה רועשת אחת באופן מיידי מבלי לגעת בשום דבר אחר.</li>
+<li><strong>חיזוק לכל אפליקציה</strong> - דחוף אפליקציה שקטה מעבר לתקרה הרגילה שלה, כמו שהבוסטר של eqMac עושה, אבל ממוקד לאפליקציה בודדת במקום למערכת כולה.</li>
+<li><strong>פרופילי נפח</strong> - שמור הגדרות כמו "פוקוס", "משחקים" או "פגישה" והחלף את כל התמהיל בלחיצה אחת.</li>
+<li><strong>ברווז אוטומטי</strong> - שחרר אוטומטית אודיו ברקע כאשר משהו חשוב יותר מתחיל, כדי שלא תחפש סליידר באמצע השיחה.</li>
+<li><strong>מיתוג פלט מהיר</strong> - קפוץ בין רמקולים, אוזניות ויציאות אחרות מסרגל התפריטים.</li>
+</ul>
+
+<p>החפיפה עם eqMac היא בעצם הדחיפה. כל השאר - המיקסר, ההשתקה, הפרופילים, ההשתמטות - הוא שטח ש-eqMac מעולם לא תוכנן לכסות.</p>
+
+<h2>אתה עדיין רוצה EQ?</h2>
+
+<p>היה כנה לגבי איזו בעיה אתה פותר. אם אתה באמת צריך EQ בתדר - חיתוך בס, אילוף שיאים קשים, עיצוב כל הטון של המערכת שלך - אז ל-eqMac עדיין יש מקום, וזה בחינם. SoundDial הוא מערבל נפח, לא אקולייזר.</p>
+
+<p>אבל רוב האנשים מגיעים לבוסטר של eqMac לא בגלל שהם רוצים לעצב תדרים, הם רוצים אפליקציה אחת חזק יותר או שהמיקס מאוזן. אם זה אתה, מיקסר ייעודי הוא התשובה הנקייה יותר. אתה יכול אפילו להפעיל את שניהם: שמור על eqMac לעקומת EQ כלל המערכת והשתמש ב-SoundDial עבור רמות לכל אפליקציה. הם לא נלחמים על אותה עבודה.</p>
+
+<h2>איך זה בהשוואה לכלי האודיו האחרים של Mac</h2>
+
+<p>מכיוון שאתה כבר מחפש כלים, הנה הנוף הכנה:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - האפשרות המקצוענית בסביבות $39, עם EQ לכל אפליקציה וניתוב פלט מלא. רב עוצמה, אבל הוא זקוק להורדה ישירה ומתקין מנהל התקן לכידת אודיו. מוגזם ויקר יותר אם כל מה שאתה רוצה זה נפח לכל אפליקציה עם פרופילים.</li>
+<li><strong>Background Music</strong> - קוד חופשי ופתוח, אבל זה יכול להישבר במהדורות חדשות יותר של macOS ואין לו דחיפה, אין פרופילים ואין לו דיבוק אוטומטי. נהדר כשזה עובד, מתסכל כשזה לא עובד.</li>
+<li><strong>FineTune</strong> - אפליקציית שורת תפריט בחינם בקוד פתוח. שווה להסתכל אם 0$ היא הדרישה הקשה, אם כי היא קלה יותר בתכונות ובליטוש.</li>
+<li><strong>eqMac</strong> - EQ בחינם בתוספת מאיץ, אבל אין מיקסר אמיתי לכל אפליקציה, כפי שצוין לעיל.</li>
+</ul>
+
+<p>SoundDial יושב במקום המתוק: ממוקד וזול יותר מ-SoundSource, בעל יכולת ואמינה יותר מהאפשרויות החינמיות, והוא עושה את העבודה לכל אפליקציה ש-eqMac לא עושה.</p>
+
+<h2>מדוע ה-Mac App Store חשוב כאן</h2>
+
+<p>כמה מהכלים הללו דורשים הורדה ישירה ומנהל התקן שמע ברמת ליבה או לכידה. אלה עובדים, אבל הם מסוג הדברים שיכולים להיתקל בעדכון macOS או להיתקל בעבודת Mac נעולה.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נשלח דרך ה-Mac App Store במקום זאת. זה אומר שהוא נבדק על ידי אפל ובארגז חול, הוא מותקן בצורה נקייה ללא DMG לגרור, ואין מנהלי התקנים אודיו או הרחבות מערכת לאישור. עדכונים מגיעים דרך ה-App Store כמו כל אפליקציה אחרת, והסרת ההתקנה היא מחיקה רגילה. עבור כלי שירות של שורת תפריטים שנוגעת באודיו שלך, נתיב זה בעל חיכוך נמוך יותר, בעל סיכון נמוך יותר שווה הרבה.</p>
+
+<h2>ההגדרה המהירה</h2>
+
+<ul>
+<li>התקן את SoundDial מה-Mac App Store - ללא הפעלה מחדש, ללא הנחיה של מנהל ההתקן.</li>
+<li>פתח את סמל שורת התפריט; כל אפליקציה שמשמיעה צליל מופיעה עם המחוון שלה.</li>
+<li>הגדר רמות, השתיק את מה שאתה לא צריך והגבר כל דבר שקט מדי.</li>
+<li>שמור את הסידור כפרופיל, ואז צור עוד עבור משחקים, שיחות או מיקוד.</li>
+<li>הפעל את השפופרת האוטומטית כך ששמע הרקע יזוז הצידה אוטומטית.</li>
+</ul>
+
+<p>זה כל הלולאה. בתוך כמה דקות יש לך את השליטה לכל אפליקציה שהמאיץ של eqMac רק רמז עליו.</p>
+
+<p><strong>מוכן לנפח אמיתי לכל אפליקציה ב-Mac שלך?</strong> <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 יורו חד פעמי, בארגז חול, ללא דרייברים, והוא עושה בדיוק מה שמיקסר שורת תפריט צריך.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "מיקסר הווליום הטוב הזול ביותר עבור Mac בשנת 2026",
+    description: "מחפש את מערבל הנפח הטוב ביותר לכל אפליקציה עבור Mac בשנת 2026? השווה את SoundDial, SoundSource, Background Music, FineTune ו-eqMac על מחיר, בטיחות ותכונות.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>מערבל הנפח הטוב ביותר לאפליקציה עבור Mac בשנת 2026 הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, אפליקציית שורת תפריטים ב-Mac App Store תמורת 14.99 אירו חד פעמי. הוא נותן לכל אפליקציה את מחוון עוצמת הקול שלה, בתוספת השתקה, חיזוק, פרופילים והורדה אוטומטית - ללא דרייברים, ללא מנוי וללא הורדות מסוכנות. זוהי האפשרות בתשלום הזולה ביותר שעובדת באופן אמין.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - מערבל הנפח הטוב הזול ביותר עבור Mac בשנת 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>למה "הכי זול" צריך הגדרה</h2>
+<p>ישנם כלי נפח חינמיים עבור Mac, כך שאם המטרה היחידה היא הוצאה אפס, יש לך אפשרויות. אבל חינם בדרך כלל עולה לך במקום אחר: שבריריות בגרסאות macOS חדשות, תכונות חסרות כמו חיזוק או פרופילים, או תהליך התקנה הכולל מנהל התקן לכידת אודיו שאתה צריך לסמוך עליו. "הטוב הזול ביותר" פירושו המחיר הנמוך ביותר שעדיין משיג לך מיקסר יציב ומלא תכונות שתמשיך להשתמש בו. זו העדשה שבה נשתמש כאן.</p>
+
+<h2>ראשית, הדבר ש-macOS לא עושה</h2>
+<p>ל-Windows יש מערבל עוצמת קול לכל אפליקציה במשך שנים - לחץ לחיצה ימנית על סמל הרמקול והגדר כל אפליקציה באופן עצמאי. ל-macOS עדיין אין שום דבר מקביל מובנה. אתה מקבל נפח ראשי אחד וכל המחוון הפנימי שאפליקציה במקרה שולחת (מוזיקה, דפדפנים מסוימים). אין דרך כלל מערכת להפוך את Slack לשקט יותר מ-Spotify, או להגביר שיחת וידאו שקטה מעל כל דבר אחר. כל אפשרות למטה קיימת כדי למלא את הפער הזה.</p>
+
+<h2>המתמודדים, מתומחרים ביושר</h2>
+
+<h2>SoundDial — 14.99 יורו, חד פעמי</h2>
+<p>SoundDial חי בשורת התפריטים שלך ומעניק לכל אפליקציה פועלת מחוון עוצמת קול עצמאי. מעבר ליסודות, זה מוסיף את התכונות שאנשים באמת מגיעים אליהן:</p>
+<ul>
+<li><strong>חיזוק לכל אפליקציה</strong> - דחוף אפליקציה שקטה מדי מעל 100% במקום להתאמץ לשמוע אותה.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה אחת מבלי לגעת בשאר.</li>
+<li><strong>פרופילי נפח</strong> - שמור מיקס של "שיחת עבודה" או "ערב סרטים" והיזכר בו באופן מיידי.</li>
+<li><strong>ברווז אוטומטי</strong> - שחרר אוטומטית אודיו ברקע כאשר משהו חשוב יותר מתנגן.</li>
+<li><strong>מיתוג פלט מהיר</strong> — מעבר בין רמקולים, אוזניות והתקנים אחרים מאותו תפריט.</li>
+</ul>
+<p>מכיוון שהוא נמצא ב-Mac App Store, הוא נמצא בארגז חול, נבדק על ידי אפל ומותקן בצורה נקייה - ללא DMG, אין הרחבת ליבה, אין מנהל התקן שמע לאישור. אתה משלם <a href="https://apps.apple.com/app/id6772792641">14.99 אירו פעם אחת</a> ולהחזיק בו. עבור רוב האנשים, זו הנקודה המתוקה: זול מספיק כדי להיות קל, כן, שלם מספיק כדי שלא תגדל ממנה.</p>
+
+<h2>SoundSource - ~39$, אפשרות המקצוענים</h2>
+<p>SoundSource של Rogue Amoeba הוא תקן הזהב למשתמשים חזקים. זה עושה עוצמת קול לכל אפליקציה והשתקה כמו SoundDial, אבל הולך רחוק יותר עם אקולייזרים לכל אפליקציה וניתוב פלט מלא (שלח אפליקציה אחת לאוזניות, אפליקציה אחרת לרמקולים). זה באמת מצוין - אבל זה בערך $39, והוא מותקן מחוץ ל-App Store עם רכיב לכידת אודיו שאתה צריך לתת לו הרשאה. אם אתה צריך EQ לכל אפליקציה או ניתוב מורכב, זה שווה את הכסף. אם אתה רק רוצה מיקסר נקי וזול, אתה משלם על יכולות שאולי לא תיגע בו לעולם.</p>
+
+<h2>Background Music - חינם, קוד פתוח</h2>
+<p>Background Music היא אפליקציה חינמית ידועה בקוד פתוח המציעה נפח לכל אפליקציה והשהייה אוטומטית. הקאץ': הוא מתחבר עמוק ל-Core Audio דרך מנהל התקן וירטואלי, ויש לו היסטוריה ארוכה של פריצה במהדורות חדשות של macOS, לפעמים צריך תיקונים ידניים או התקנה מחדש לאחר עדכונים. זה גם חסר בוסט, פרופילים שמורים ודיבוק אוטומטי. נהדר עבור מתעסקים שלא אכפת להם תחזוקה; מתסכל אם אתה רק רוצה שזה יעבוד.</p>
+
+<h2>FineTune - חינם, שורת תפריטים</h2>
+<p>FineTune היא אפליקציית עוצמת קול בשורת תפריט חינמית בקוד פתוח. זה קל משקל ונעים, ולהתאמה פשוטה לכל אפליקציה זה יכול להספיק. אבל בהיותו פרויקט קטן בחינם, הוא אינו תואם את עומק הפיצ'ר - אין פרופילים, אין ביטול אוטומטי וטיפול בחיזוק/פלט מוגבלים. עלות אפסית, פחות ערבויות על אריכות ימים ותמיכה.</p>
+
+<h2>eqMac - חינם, EQ + מאיץ</h2>
+<p>eqMac הוא אקולייזר חינמי כלל מערכת עם מאיץ נפח. זה יותר על עיצוב טון ועוצמה על פני כל ה-Mac שלך מאשר לערבב אפליקציות בודדות, כך שזה כלי אחר לעבודה אחרת. אם אתה רוצה ספציפית שליטה לכל אפליקציה, eqMac הוא לא באמת התשובה, אם כי זה EQ חינמי משובח.</p>
+
+<h2>מחיר מול ערך: הטבלה הכנה</h2>
+<ul>
+<li><strong>באמת בחינם, אבל עם פשרות:</strong> Background Music (שביר, מבוסס דרייבר), FineTune (תכונות דקות), eqMac (EQ, לא מיקסר).</li>
+<li><strong>האפליקציה השלמה בתשלום הזולה ביותר:</strong> SoundDial ב-14.99 אירו - חיזוק, פרופילים, ברווז, בטיחות App Store.</li>
+<li><strong>פרימיום/מקצוען:</strong> SoundSource במחיר של ~39$ - EQ וניתוב, התקנה שאינה ב-App-Store.</li>
+</ul>
+<p>במילים אחרות: SoundDial עולה בערך שליש מ-SoundSource תוך כיסוי התכונות ש-90% מהאנשים באמת רוצים. ובניגוד לאפשרויות החינמיות, הוא לא יישבר בשקט לאחר עדכון macOS, מכיוון שהוא לא מסתמך על מנהל התקן שמע שביר ברמת המערכת.</p>
+
+<h2>באיזה כדאי לבחור?</h2>
+<p>אם אתה מקצוען שצריך EQ לכל אפליקציה וכדי לנתב אפליקציות ליציאות שונות, קנה SoundSource - זה מרוויח את המחיר שלו. אם אתה אוהב קוד פתוח ולא אכפת לך שבירה מדי פעם, נסה Background Music או FineTune בחינם. אבל אם אתה רוצה את האפשרות הזולה ביותר שפשוט עובדת - עוצמת קול עצמאית, חיזוק, השתקה, פרופילים שניתנים לשמירה ודיבוק אוטומטי, מותקנת בבטחה מה-App Store - SoundDial הוא הזוכה המובהק בשווי בשנת 2026.</p>
+
+<blockquote>המיקסר הטוב ביותר הוא לא זה עם הכי הרבה תכונות או המחיר הנמוך ביותר - זה זה שאתה מגדיר פעם אחת ושוכח ממנו. במחיר של 14.99 אירו, SoundDial עושה את זה לשיחה קלה.</blockquote>
+
+<p>מוכן לתת לכל אפליקציה נפח משלה? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> תמורת 14.99 יורו חד פעמי - ללא מנוי, ללא נהגים, ללא סיכון.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "מיקסר עוצמת הקול Windows עבור Mac: קבל בקרת עוצמת הקול לכל אפליקציה",
+    description: "מתגעגע למיקסר הווליום Windows ב-Mac שלך? ל-macOS אין בקרת עוצמת הקול מובנית לכל אפליקציה. הנה הדרך המהירה ביותר להשיג את זה: SoundDial, מיקסר תפריט שורת 14.99 אירו.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין מיקסר נפח מובנה כמו Windows, כך שלא ניתן להגדיר את עוצמת הקול לכל אפליקציה מהגדרות המערכת. התיקון המהיר והאמין ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, אפליקציית שורת תפריט של €14.99 מה-Mac App Store. זה נותן לכל אפליקציה את מחוון עוצמת הקול, השתקה והגברה משלה - ללא דרייברים, ללא DMG, ללא התקנות מסוכנות.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — מיקסר עוצמת הקול Windows עבור Mac: קבל בקרת עוצמת הקול לכל אפליקציה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע למיקסר הווליום Windows אין מקבילה ל-Mac</h2>
+
+<p>אם עברתם מ-Windows, אחד הדברים הראשונים שתפספסו הוא מיקסר הווליום: לחץ לחיצה ימנית על סמל הרמקול, וכל אפליקציה פועלת מקבלת מחוון משלה. הורד את Chrome, השאר את Discord חזק, השתיק את Spotify - הכל במקום אחד.</p>
+
+<p>macOS פשוט לא שולח את זה. בקרת עוצמת הקול של אפל היא מחוון יחיד לכל המערכת. כל רמה שתגדיר חלה על הכל בבת אחת. אין אפשרות לכל אפליקציה מוסתרת בהגדרות המערכת, אין פקודת Terminal, אין החלפת נגישות. זה פער אמיתי, וזה היה ככה כבר שנים.</p>
+
+<p>הסיבה היא ארכיטקטונית: אפליקציות מנתבות אודיו דרך Core Audio להתקן הפלט שלך, ומערכת ההפעלה אינה חושפת מיקסר הפונה למשתמש עבור הזרמים הבודדים. כדי ליצור מחדש את חוויית ה-Windows, אתה צריך אפליקציה של צד שלישי שיושבת בנתיב האודיו הזה ונותנת לך את הפקדים שאפל השאירה בחוץ.</p>
+
+<h2>ההתאמה הקרובה ביותר: SoundDial</h2>
+
+<p>SoundDial הוא מערבל נפח תפריט לכל אפליקציה שנבנה במיוחד עבור זה. לחץ על הסמל שלו ותקבל רשימה נקייה של כל מה שמנגן אודיו, כל אחד עם המחוון שלו. זה ה-"Windows Volume Mixer for Mac" הישיר ביותר שאתה יכול להתקין, והוא עושה כמה דברים שהמיקסר Windows מעולם לא הצליח:</p>
+
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - תכונת הליבה. הגדר את Chrome ל-40%, Zoom ל-100%, מוזיקה ל-20%.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה אחת מבלי לגעת בשאר.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - לחץ על אפליקציה שקטה <em>למעלה</em> 100% כאשר האודיו שלו נמוך מדי.</li>
+<li><strong>פרופילי נפח</strong> - שמור מיקס (למשל "שיחת עבודה" או "משחק") והיזכר בו באופן מיידי במקום לגרור מחדש את המחוונים.</li>
+<li><strong>ברווז אוטומטי</strong> - הורד אוטומטית את שמע הרקע כאשר משהו חשוב יותר מתחיל, כמו שיחה.</li>
+<li><strong>מיתוג פלט מהיר</strong> — מעבר בין רמקולים, אוזניות והתקנים אחרים מאותו תפריט.</li>
+</ul>
+
+<p>כי זה על <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, זה נבדק על ידי Apple ובארגז חול. הוא מותקן בצורה נקייה בלחיצה אחת - ללא DMG לגרור, ללא מנהל התקן שמע או הרחבת מערכת לאישור, ללא הנחיות אבטחה. במחיר של 14.99 אירו חד פעמי (ללא מנוי), זו הדרך הפשוטה ביותר לסגור את הפער.</p>
+
+<h2>כיצד להגדיר נפח לכל אפליקציה ב-Mac שלך</h2>
+
+<ol>
+<li>התקן את SoundDial מה-Mac App Store.</li>
+<li>הענק את הרשאת האודיו החד-פעמית שהוא מבקש בהשקה הראשונה.</li>
+<li>לחץ על הסמל SoundDial בשורת התפריטים שלך.</li>
+<li>גרור את המחוון שליד כל אפליקציה כדי להגדיר את עוצמת הקול שלה, או לחץ על השתק/הגבר.</li>
+<li>לחלופין, שמור את התמהיל הנוכחי כפרופיל כדי שתוכל לשחזר אותו מאוחר יותר.</li>
+</ol>
+
+<p>זה כל תהליך העבודה. הוא מתנהג כמו המיקסר Windows שאתה כבר מכיר, רק משורת התפריטים במקום לחיצה ימנית על שורת המשימות.</p>
+
+<h2>איך SoundDial משתווה לאפשרויות אחרות</h2>
+
+<p>SoundDial הוא לא הכלי היחיד במרחב הזה, אז הנה מבט כנה על האלטרנטיבות.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - בסביבות $39, ובאמת פרו-דרג: EQ לכל אפליקציה, ניתוב פלט לכל אפליקציה, אפקטים. אבל זה דורש הורדה ישירה בתוספת מנהל התקן לכידת אודיו, וזה מוגזם (ויקר יותר) אם אתה רק רוצה עוצמת קול לכל אפליקציה. בחר את זה אם אתה צריך EQ וניתוב; בחר SoundDial אם אתה רוצה את המיקסר ללא המורכבות או הדרייבר.</li>
+<li><strong>Background Music</strong> - חינמי וקוד פתוח, וזה נהדר. הקאץ': הוא יכול להישבר בגרסאות macOS חדשות יותר, ואין לו דחיפה, פרופילים שמורים ודיבוק אוטומטי. בסדר אם אתה מרגיש בנוח לפתור בעיות של מנהלי התקנים אודיו בקוד פתוח; פחות אידיאלי אם אתה רוצה משהו שפשוט עובד.</li>
+<li><strong>FineTune</strong> - אפליקציית שורת תפריט בחינם בקוד פתוח. קל משקל ושווה להסתכל אם התקציב הוא בראש סדר העדיפויות, אבל אתה מחליף פולנית, פרופילים ובטיחות App Store בחינם.</li>
+<li><strong>eqMac</strong> - EQ בחינם ומגבר מערכת רחב. זה קודם כל אקולייזר, לא מערבל לכל אפליקציה, אז זה פותר בעיה אחרת.</li>
+</ul>
+
+<p>הפשרה פשוטה. כלים חינמיים לא עולים כלום אבל יכולים להיות שבריריים או דלי תכונה. SoundSource הוא חזק אך יקר ומבוסס על דרייברים. SoundDial יושב במקום המתוק: 14.99 אירו חד-פעמי, App Store בטיחות וארגזי חול, והפרופילים + ברווז אוטומטי שהאפשרויות החינמיות מדלגות עליהם.</p>
+
+<blockquote>אם כל מה שאתה רוצה הוא חווית מיקסר הווליום Windows - מחוונים לכל אפליקציה, השתקה והגברה, מותקן בבטחה תוך שניות - SoundDial הוא ההתאמה הישירה ביותר.</blockquote>
+
+<h2>השורה התחתונה</h2>
+
+<p>macOS לא ייתן לך מיקסר ווליום, והוא כנראה לא ייתן לך. אבל אתה לא צריך לחיות עם מחוון אחד לכל המערכת. מיקסר שורת תפריטים ייעודי משחזר את השליטה לכל אפליקציה שהייתה לך ב-Windows, ומוסיף דחיפה, פרופילים ו-auto-dving למעלה.</p>
+
+<p>מוכן לקבל נפח לכל אפליקציה בדרך הקלה? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> עבור €14.99 - חד פעמי, בארגז חול, והתקנות תוך שניות.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "הגדר את עוצמת הקול של האפליקציה כמו ש-Windows עושה - ב-Mac שלך",
+    description: "ל-Windows יש מערבל נפח לכל אפליקציה, אבל ל-macOS אין. הנה איך להגדיר עוצמת קול עצמאית עבור כל אפליקציה ב-Mac שלך - מהיר, בטוח וללא דרייברים.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין מערבל נפח מובנה לכל אפליקציה כמו זה ב-Windows, כך שהתיקון המהיר ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, אפליקציית שורת תפריטים Mac App Store שנותנת לכל אפליקציה מחוון עוצמת הקול שלה, השתקה לכל אפליקציה והגברת עוצמת הקול שלה. זה בארגז חול, נבדק על ידי Apple, מותקן ללא מנהלי התקנים, ועולה 14.99 אירו פעם אחת.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - הגדר את עוצמת הקול של האפליקציה כמו ש-Windows עושה - ב-Mac שלך" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע Windows יכול לעשות זאת ו-macOS לא</h2>
+<p>אם השתמשת ב-Windows, אתה מכיר את התרגיל: לחץ לחיצה ימנית על סמל הרמקול, פתח את Volume Mixer וגרור מחוון נפרד עבור Chrome, Spotify, Discord וכל דבר אחר שמרעיש. זה פשוט וזה פשוט עובד.</p>
+<p>macOS מעולם לא נשלח מקבילה. בקרות האודיו של אפל הן גלובליות - עוצמת קול ראשית אחת לכל המערכת. אתה יכול להשתיק אפליקציה על ידי השתקת המקור בתוך אותה אפליקציה (אם יש לה אפילו שליטה), אבל אין מקום מאוחד לומר "שמור על המוזיקה שלי ב-40% בזמן שהפגישה שלי נשארת ב-100%". הפער הזה הוא בדיוק הסיבה שקיימים מיקסרים של צד שלישי.</p>
+
+<h2>התיקון המהיר ביותר: מיקסר שורת תפריט</h2>
+<p>ההתאמה הקרובה ביותר לחוויית Windows היא אפליקציית שורת תפריטים שמפרטת את יישומי האודיו הפועלים שלך ונותנת לכל אחד מהם מחוון. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> עושה בדיוק את זה. לחץ על הסמל שלו בשורת התפריטים ותקבל:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> — גרור את Spotify למטה מבלי לגעת בשיחה שלך.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה רועשת אחת באופן מיידי, השאר את השאר לשחק.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - לחץ על אפליקציה שקטה מדי <em>למעלה</em> 100% כשהמקסימום שלו עדיין רך מדי.</li>
+<li><strong>פרופילי נפח</strong> - שמור מיקס "עבודה" או "משחקים" והיזכר בו בלחיצה אחת.</li>
+<li><strong>ברווז אוטומטי</strong> - הורד אוטומטית את שמע הרקע כאשר משהו חשוב יותר מתחיל.</li>
+<li><strong>מיתוג פלט מהיר</strong> — קפוץ בין רמקולים, אוזניות ויציאות אחרות מאותו תפריט.</li>
+</ul>
+<p>מכיוון שהוא נמצא ב-Mac App Store, הוא נמצא בארגז חול ונבדק על ידי אפל, הוא מותקן בצורה נקייה, ואין DMG לגרור, אין סיומת ליבה ואין מנהל התקן שמע לאישור בהגדרות המערכת. החלק האחרון הזה חשוב יותר ממה שזה נשמע - כלים מבוססי מנהלי התקנים הם אלה שנוטים להישבר לאחר עדכוני macOS.</p>
+
+<h2>איך להגדיר את זה (בערך שתי דקות)</h2>
+<ul>
+<li><strong>1.</strong> התקן את SoundDial מה-Mac App Store והפעל אותו.</li>
+<li><strong>2.</strong> הענק את הרשאת השמע ש-macOS מבקש - זה מה שמאפשר לאפליקציה לראות זרמים לכל אפליקציה.</li>
+<li><strong>3.</strong> לחץ על הסמל SoundDial בשורת התפריטים שלך. כל אפליקציה שמנגנת אודיו מופיעה עם המחוון שלה.</li>
+<li><strong>4.</strong> גרור את המחוון של כל אפליקציה כדי להגדיר את הרמה שלה, או לחץ על השתק. שפר מעבר ל-100% כאשר אפליקציה שקטה מדי.</li>
+<li><strong>5.</strong> (אופציונלי) שמור את התמהיל הנוכחי שלך כפרופיל כדי שתוכל לשחזר אותו מאוחר יותר, והפעל את השפופרת האוטומטית אם אתה רוצה ששמע הרקע ייפול אוטומטית.</li>
+</ul>
+<p>זה כל תהליך העבודה. הוא מתנהג כמו Windows Volume Mixer שאתה כבר מכיר, מינוס חיכוך ההתקנה.</p>
+
+<h2>מה לגבי האלטרנטיבות החינמיות והמקצועניות?</h2>
+<p>ישנן דרכים אחרות להשיג נפח לכל אפליקציה ב-Mac. כדאי להכיר אותם כדי שתוכל לבחור בכנות.</p>
+<blockquote>כלים בחינם מחליפים כסף עבור אמינות ותכונות; כלי מקצוענים סוחרים בכסף ובהגדרה לעומק שאולי לא תזדקק לו.</blockquote>
+<p><strong>Background Music</strong> הוא חינמי וקוד פתוח, והוא אכן מספק נפח לכל אפליקציה. הקאץ': הוא מתחבר עמוק למערכת השמע ויש לו היסטוריה של פריצה במהדורות חדשות יותר של macOS, ואין לו חיזוק, פרופילים ו-auto-dving. אם זה עובד על ההגדרה שלך, נהדר - אבל זה הימור על שדרוגים.</p>
+<p><strong>FineTune</strong> היא אפליקציית שורת תפריט חינמית בקוד פתוח באותה רוח כמו SoundDial. זוהי נקודת פתיחה מצוינת אם התקציב הוא הדאגה היחידה, אם כי מדובר בפרויקט קהילתי ללא הפרופילים והלק.</p>
+<p><strong>eqMac</strong> הוא EQ ומגבר חינמיים בכל המערכת. זה נהדר לעיצוב סאונד כולל, אבל זה לא מיקסר אמיתי לכל אפליקציה - אתה מכוון את כל הפלט, לא אפליקציות בודדות.</p>
+<p><strong>SoundSource</strong> מאת Rogue Amoeba (בסביבות $39) היא האופציה המקצוענית: EQ לכל אפליקציה, ניתוב פלט לכל אפליקציה ותכונות מהנדס שמע רציניות. זה מצוין - אבל הוא צריך הורדה ישירה ומתקין רכיב לכידת שמע, וזה עולה יותר מכפול ממה ש-SoundDial עושה. אם אתה רוצה ניתוב ו-EQ ברמת האולפן, זו הבחירה. אם אתה רק רוצה את המיקסר בסגנון Windows, זה מוגזם.</p>
+
+<h2>איזה מהם כדאי לקבל?</h2>
+<p>אם המטרה שלך היא "לגרום ל-Mac שלי לעבוד כמו Windows Volume Mixer" ללא הורדות, דרייברים או סיכון, SoundDial היא התשובה הנקייה ביותר. אתה מקבל נפח לכל אפליקציה, השתקה, חיזוק, פרופילים ודיבוק אוטומטי, כולם בטוחים ל-App Store, תמורת 14.99 אירו חד פעמי - ללא מנוי. בחר במקום זאת ב-SoundSource רק אם אתה צריך ספציפית EQ לכל אפליקציה וניתוב פלט, ונסה את האפשרויות החינמיות אם אתה מרגיש בנוח לפתור אותן בכל עדכוני macOS.</p>
+
+<p><strong>מוכן לתת לכל אפליקציה נפח משלה?</strong> <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> והגדר את המיקס הראשון שלך בעוד כשתי דקות.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "כיצד להפוך את ה-Mac לקולני יותר עבור האזנה כבדי שמיעה",
+    description: "מתקשה לשמוע את ה-Mac שלך אפילו בווליום מקסימלי? למד כיצד להגביר ולהבהיר אודיו לכל אפליקציה להאזנה כבדת שמיעה, כולל SoundDial וטיפים מובנים.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם ה-Mac שלך לא חזק מספיק אפילו בווליום מקסימלי, התיקון המהיר ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מיקסר שורת תפריט Mac App Store המאפשר לך להגביר כל אפליקציה בודדת מעבר ל-100% ולהשתיק את כל השאר. זה אומר דיבור חזק יותר וברור יותר מ-FaceTime, וידאו או נגן סרטים מבלי להפעיל את כל המערכת. זה 14.99 אירו, חד פעמי.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - כיצד להפוך את ה-Mac לקולני יותר עבור האזנה כבדת שמיעה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע עדיין לא מספיק להגביר את מחוון עוצמת הקול</h2>
+<p>עבור מאזינים כבדי שמיעה, למחוון עוצמת הקול macOS יש שתי מגבלות מתסכלות. ראשית, הוא מגביל ל-100% ממה שהאפליקציה עצמה מפיקה. אם פודקאסט, וידאו או שיחה הוקלטו בשקט, "ווליום מלא" עדיין רך מדי. שנית, ל-macOS אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש אחד מזה שנים, אבל ב-Mac כל אפליקציה חולקת רמת מאסטר אחת. אז כשאתה מגביר את הכל כדי לשמוע קול רך, גם מוזיקת ​​רקע וצלילי התראות נעשים חזקים בצורה לא נוחה.</p>
+<p>מה שאתה בעצם צריך זה היכולת לעשות <em>אחד</em> אפליקציה חזקה יותר מהשאר, דחוף אותה מעבר לתקרה הרגילה שלה, וחתוך צלילים מתחרים כדי שהדיבור יבלוט. זה בדיוק הפער שהכלים האלה ממלאים.</p>
+
+<h2>ראשית, השתמש בהגדרות הנגישות של macOS החינמיות</h2>
+<p>לפני הוספת אפליקציה כלשהי, כדאי להגדיר את מה ש-macOS כבר מציע. אלה עוזרים לבהירות, למרות שהם לא מוסיפים עוצמת קול גולמית:</p>
+<ul>
+<li><strong>אודיו מונו:</strong> הגדרות מערכת &rarr; נגישות &rarr; אודיו, הפעל את "הפעל שמע סטריאו כמונו". אם השמיעה שלך חזקה יותר באוזן אחת, זה שולח את האות המלא לשניהם, כדי שלא תאבד חצי מהדיאלוג.</li>
+<li><strong>התאמת איזון:</strong> בהגדרות מערכת &rarr; Sound, גרור את האיזון שמאלה/ימינה לכיוון האוזן החזקה יותר.</li>
+<li><strong>הפחת צלילי רקע:</strong> הורידו את המוזיקה והאווירה באפליקציות שמאפשרות זאת, כך שהקולות אינם נלחמים בפסקול.</li>
+<li><strong>התאמות לאוזניות:</strong> אם אתה משתמש ב-AirPods או ב-Beats, הגדרות מערכת &rarr; נגישות &rarr; אודיו &rarr; אוזניות התאמות יכולות להגביר צלילים רכים ולכוון לדיבור.</li>
+</ul>
+<p>אלה באמת שימושיים ולא עולים כלום. אבל אף אחד מהם לא מייצר אפליקציה שקטה אחת <em>חזק יותר מ-100%</em>, וזו בדרך כלל הבעיה האמיתית.</p>
+
+<h2>כיצד להגביר אפליקציה אחת מעבר ל-100% עם SoundDial</h2>
+<p>SoundDial חי בשורת התפריטים שלך ומציג מחוון עבור כל אפליקציה שמנגנת צליל כרגע. להלן זרימת העבודה שהכי עוזרת להאזנה כבדת שמיעה:</p>
+<ul>
+<li><strong>שפר את האפליקציה שאתה מאזין לה.</strong> גרור את המחוון שלו מעל 100% כדי להגביר שיחת וידאו שקטה או פודקאסט מעבר למה שהאפליקציה מאפשרת בעצמה.</li>
+<li><strong>השתקה או הורד את כל השאר.</strong> משוך למטה מוזיקה, כרטיסיות דפדפן או צלילי התראות כך ששום דבר לא יתחרה בקול שאתה מנסה לעקוב אחריו.</li>
+<li><strong>הפעל את ההורדה האוטומטית.</strong> כשאתה מתחיל לדבר בשיחה, SoundDial מטבל אוטומטית אודיו אחר כך שהאדם שאתה מדבר איתו יעבור בבירור, ואז משחזר אותו לאחר מכן.</li>
+<li><strong>שמור פרופיל נפח.</strong> צור פרופיל "שיחות וידאו" שבו אפליקציית שיחות הועידה שלך מתגברת וכל השאר שקט, ולאחר מכן עבור אליו באופן מיידי במקום להתאים מחדש בכל פעם.</li>
+<li><strong>החלף פלט במהירות.</strong> קפוץ בין רמקולים, אוזניות או מכשיר המחובר למכשיר שמיעה מאותו תפריט, מבלי לחפור בהגדרות מערכת.</li>
+</ul>
+<p>תכונת החיזוק היא המפתח כאן. מכיוון שהוא מעלה את הפלט של האפליקציה מעל המקסימום המקורי שלה, הקלטה שקטה בלחש הופכת למשהו שאתה באמת יכול לשמוע, בעוד שאר המערכת שלך נשארת ברמה נוחה.</p>
+
+<h2>מילה מהירה על עיוות</h2>
+<p>כל חיזוק תוכנה מגביר את כל מה שנמצא באות, כך שדחיפה של 100% יותר מ-100% על אודיו כבר רועש יכולה להכניס גזירה. בפועל, חיזוק <em>שקט</em> תוכן עד לרמה נוחה ומובנת נשמע נקי. התחל בצניעות, הרם עד שהדיבור ברור, וחזור אם הוא מתחיל להישמע קשה. הגן על שאר ענייני השמיעה שלך, אז כוון לבהירות ולא לעוצמה מרבית.</p>
+
+<h2>איך SoundDial משתווה לחלופות</h2>
+<p>יש לך כמה אפשרויות, וכנות עוזרת לך לבחור את האפשרות הנכונה:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39):</strong> פרו-דרג באמת, עם EQ לכל אפליקציה וניתוב פלט. אם אתה רוצה לפסל תדרים לאובדן שמיעה, זה חזק. אבל זה עולה יותר מפי שניים, דורש הורדה ישירה ומתקין דרייבר ללכידת אודיו. זה יותר הגדרה וגישה למערכת ממה שאנשים רבים רוצים.</li>
+<li><strong>Background Music (חינם, קוד פתוח):</strong> מציע נפח לכל אפליקציה בחינם, אבל הוא חסר דחיפה, פרופילים ודיבוק אוטומטי, והוא יכול להישבר בגרסאות macOS חדשות יותר מכיוון שהוא מתחבר עמוק למערכת השמע.</li>
+<li><strong>FineTune (חינם, קוד פתוח):</strong> אפליקציית נפח קלת משקל בשורת התפריט. בסדר ליסודות, אבל בלי החיזוק, הפרופילים והדפוק שמאזינים כבדי שמיעה נשענים עליהם.</li>
+<li><strong>eqMac (חינם):</strong> אקולייזר עם בוסטר. שימושי לעיצוב סאונד, אבל הוא בנוי סביב EQ במקום ערבוב נקי לכל אפליקציה ופרופילים.</li>
+</ul>
+<p>איפה <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> בולט הוא האיזון בין המחיר, הבטיחות והתכונות הספציפיות שחשובות כאן. מכיוון שהוא נמצא ב-Mac App Store, הוא נבדק על ידי אפל ובארגז חול, מותקן בצורה נקייה ללא DMG, ואינו זקוק לדרייברי שמע או הרחבות מערכת. אתה מקבל חיזוק לכל אפליקציה, השתקה, פרופילי עוצמת הקול והורדה אוטומטית ברכישה חד פעמית אחת של 14.99 אירו, בלי שום דבר לחפור בערימת האודיו macOS.</p>
+
+<h2>השורה התחתונה</h2>
+<p>תחילה הגדר את אפשרויות הנגישות החינמיות של macOS, שווה להן. אבל אם הבעיה האמיתית היא שאפליקציה אחת פשוט שקטה מדי, אתה צריך כלי שיכול לדחוף אפליקציה בודדת מעבר ל-100% ולהשקיט את השאר. זה כל הפואנטה של ​​חיזוק לכל אפליקציה, ו-macOS לא עושה את זה לבד.</p>
+
+<p>מוכן לשמוע באמת את ה-Mac שלך? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> תמורת 14.99 אירו, שפר את האפליקציה שאתה צריך, ותן לשכפול אוטומטי ולפרופילים לשמור על דיבור ברור.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "כיצד להגביר אפליקציה שקטה ב-Mac (נפח מרבי בעבר)",
+    description: "אפליקציה אחת שקטה מדי אפילו ב-100%? הגבר רק את האפליקציה הזו מעבר למקסימום שלה ב-Mac עם SoundDial, מערבל נפח לכל אפליקציה. הנה התיקון המהיר ביותר בתוספת חלופות.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם אפליקציה אחת שקטה מדי אפילו בעוצמת הקול המקסימלית, התיקון האמין המהיר ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מערבל נפח תפריט לכל אפליקציה עבור macOS. זה נותן לכל אפליקציה את המחוון שלה בתוספת נפח <strong>להגביר</strong> שדוחף אפליקציה בודדת מעבר ל-100%, כך ששיחת וידאו שקטה בלחש או לשונית הדפדפן מתחזקת מבלי לגעת בעוצמת הקול של המערכת. זוהי אפליקציה חד פעמית של €14.99 ב-Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - כיצד להגביר אפליקציה שקטה ב-Mac (נפח מרבי בעבר)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע אפליקציה אחת שקטה אפילו ב-100%</h2>
+<p>ל-macOS יש רק כרך מאסטר אחד. כשאתה מעלה אותו, הכל נעשה חזק יותר ביחד. אבל כל אפליקציה גם מוציאה סאונד ברמה הפנימית שלה, והרמה הזו משתנה מאוד. קליפ YouTube עם שליטה בשקט, מתקשר Zoom עם מיקרופון גרוע, משחק עם מיקס דיאלוג נמוך או כרטיסיית דפדפן עם זרם רך יכולים כולם לשבת הרבה מתחת לכל השאר, אפילו עם ה-Mac שלך במלוא הפיצוץ.</p>
+<p>הבעיה האמיתית: ל-macOS יש <strong>אין מערבל נפח מובנה לכל אפליקציה</strong>. ל-Windows יש אחד מזה שנים (מערבל הווליום, לחץ לחיצה ימנית על סמל הרמקול). ב-Mac, אין דרך מקורית להגביר אפליקציה אחת תוך השארת השאר לבד, ובהחלט אין דרך להגביר אפליקציה אחת <em>למעלה</em> המקסימום הרגיל שלו. זה הפער שאתה חוטף.</p>
+
+<h2>התיקון המהיר ביותר: הגבר רק את האפליקציה האחת הזו</h2>
+<p>מיקסר לכל אפליקציה פותר זאת על ידי הכנסת עצמו בין האפליקציות שלך לפלט שלך, כך שהוא יכול להעלות או להוריד כל זרם באופן עצמאי, ולהגביר אחד מעבר ל-100%. עם <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, הזרימה קצרה:</p>
+<ul>
+<li>התקן מה-Mac App Store ופתח אותו. זה חי בשורת התפריטים שלך, לא בחלון צף.</li>
+<li>לחץ על סמל שורת התפריטים כדי לראות מחוון עבור כל אפליקציה שמנגנת אודיו.</li>
+<li>מצא את האפליקציה השקטה וגרור את המחוון שלה מעבר ל-100% כדי להחיל חיזוק. זה מגביר את האפליקציה הזו בלבד.</li>
+<li>השאר את כל השאר איפה שהוא. עוצמת הקול של המערכת ויישומים אחרים נשארים ללא נגיעה.</li>
+</ul>
+<p>מכיוון שהדחיפה היא לכל אפליקציה, אתה יכול לדחוף שיחת וידאו רכה לרמה נוחה תוך שמירה על מוזיקה או הודעות שלא יהפכו לקוקעות אוזניים. זה הדבר המרכזי שפקדי ה-macOS המובנים פשוט לא יכולים לעשות.</p>
+
+<h2>הערה על חיזוק וגזירה</h2>
+<p>Boost הוא באמת שימושי, אבל זה הגברה, לא קסם. אם האודיו המקורי של אפליקציה שקט מאוד או כבר מעוות, הפעלתו בחוזקה יכולה להכניס גזירה או להפוך את רעש הרקע לברור יותר. בפועל, חיזוק מתון מתקן את הרוב המכריע של מצבי "השיחה הזו שקטה מדי" בצורה נקייה. דחף אותו למעלה עד שהאפליקציה תהיה נוחה במקום לטרוק אותה לתקרה, ותשמור על הסאונד נקי.</p>
+
+<h2>מעבר לחיזוק: מה עוד עוזר</h2>
+<p>ברגע שיש לך שליטה לכל אפליקציה, כמה תכונות גורמות לבעיית האפליקציה השקטה להיעלם סופית:</p>
+<ul>
+<li><strong>פרופילי נפח</strong> - שמור הגדרה (למשל "הגבר את Zoom, הורד את Spotify, השתק את Slack") וחזור עליה בלחיצה אחת במקום לגרור מחדש את המחוונים בכל פגישה.</li>
+<li><strong>ברווז אוטומטי</strong> - לטבול אוטומטית אפליקציות אחרות כאשר אפליקציה נבחרת מופעלת, כך ששיחה מוגברת נשמעת בבירור על אודיו ברקע.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה רועשת אחת מבלי להשהות שום דבר אחר.</li>
+<li><strong>מיתוג פלט מהיר</strong> - קפוץ בין רמקולים, אוזניות או ממשק חיצוני מאותו תפריט.</li>
+</ul>
+
+<h2>מה לגבי האלטרנטיבות החינמיות והמקצועניות?</h2>
+<p>יש לך אפשרויות, והכנות חשובה כאן, אז הנה הנוף האמיתי.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) היא הבחירה המקצוענית בסביבות $39. זה עושה נפח לכל אפליקציה בתוספת EQ לכל אפליקציה וניתוב פלט מלא, יותר כוח ממה שרוב האנשים צריכים. היתרונות: זה עולה יותר מכפול, זה הורדה ישירה ולא App Store, והוא מתקין דרייבר ללכידת אודיו כדי לעשות את העבודה שלו. אם אתה רוצה ערכת כלים של מהנדס אודיו, זה מצוין. אם אתה רק רוצה אפליקציה אחת חזק יותר, זה מוגזם.</p>
+<p><strong>Background Music</strong> הוא חינמי וקוד פתוח, והוא יכול לבצע נפח בסיסי לכל אפליקציה. אבל זה פרויקט קהילתי שיש לו היסטוריה של פריצה על גרסאות macOS חדשות יותר, והוא חסר חיזוק מעבר ל-100%, פרופילים ודיבוק אוטומטי. נהדר אם חינם היא הדרישה היחידה ולא אכפת לך שבירה מדי פעם.</p>
+<p><strong>FineTune</strong> היא אפליקציית שורת תפריט חינם בקוד פתוח, ו <strong>eqMac</strong> הוא EQ ומגבר מערכת בחינם. שווה לנסות את שניהם אם התקציב שלך הוא אפס. רק דעו שהם מתוחזקים בקהילה, ממוקדי EQ או קלים יותר בניהול לכל אפליקציה, ואל תצרפו פרופילים בתוספת ברווז בחבילה אחת מלוטשת.</p>
+<p>איפה <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> אדמות: זה נתיב הביניים. זול יותר מ-SoundSource, מסוגל ואמין יותר מהכלים החינמיים, והוא נמצא ב- <strong>Mac App Store</strong>, מה שאומר ש-Apple נבדק, בארגז חול, והוא מותקן בצורה נקייה עם <strong>ללא DMG וללא מנהלי התקנים או הרחבות אודיו</strong> כדי להתחבר למערכת שלך. עבור רוב האנשים ההמלצה הכנה היא פשוטה: אם אתה רוצה את התיקון הכי פחות טרחה שנותן לך גם דחיפה, פרופילים ודיבוק אוטומטי, זה התמורה הטובה ביותר ב-14.99 אירו חד פעמית.</p>
+
+<h2>תשובה מהירה, חוזרת</h2>
+<blockquote>כדי להפוך אפליקציית Mac אחת לחזקה מהמקסימום שלה, השתמש במיקסר עוצמת הקול לכל אפליקציה עם חיזוק. פתח את SoundDial משורת התפריטים, מצא את המחוון של האפליקציה השקטה וגרור אותו מעבר ל-100%. רק האפליקציה הזו מתחזקת.</blockquote>
+
+<p>תפסיק להילחם במחוון עוצמת קול אחד עבור כל ה-Mac שלך. קבל <a href="https://apps.apple.com/app/id6772792641">SoundDial ב-Mac App Store</a> עבור 14.99 אירו פעם אחת, הגבר את האפליקציה השקטה הזו מעבר למגבלה שלה בשניות, ושמור פרופיל כך שלעולם לא תצטרך לחשוב על זה שוב.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "כיצד להגביר סרטונים ופודקאסטים שקטים ב-Mac שלך",
+    description: "חלק מהסרטונים, הפודקאסטים וההרצאות של YouTube פשוט שקטים מדי אפילו ב-100%. הנה איך להגביר את הנפח לכל אפליקציה מעבר למקסימום ב-macOS עם SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>התיקון המהיר והאמין ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מיקסר שורת תפריט Mac App Store שנותן לכל אפליקציה מחוון עוצמת הקול שלה ואמיתית <strong>להגביר</strong> שדוחף מעבר ל-100%. פתחו את הדפדפן או את נגן הפודקאסט שלכם, גררו את המחוון שלו מעל המקסימום, וסרטון שקט או הרצאה יתגברו מיד - ללא דרייברים, ללא הפעלה מחדש.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - כיצד להגביר סרטונים ופודקאסטים שקטים ב-Mac שלך" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע חלק מהסרטונים והפודקאסטים פשוט שקטים מדי</h2>
+<p>אתה מעביר את ה-Mac שלך ל-100%, והראיון עדיין בגדר לחישה. זה לא הדמיון שלך. אודיו נשלט ברמות עוצמה שונות בתכלית - סמינר מקוון שהוקלט במיקרופון של מחשב נייד, פודקאסט אינדי שקט, או העלאת הרצאה ישנה יכולים לשבת 15-20 dB מתחת לסרטון YouTube שהופק באופן מקצועי. עוצמת הקול של המערכת שלך כבר מוגבהת, אז לא נותר מרווח ראש לתת.</p>
+<p>הנה המלכוד: ל-macOS יש <strong>אין מערבל נפח מובנה לכל אפליקציה</strong>. ל-Windows יש אחד מזה שנים (מיקסר הווליום במגש המערכת), אבל ב-Mac, מקשי עוצמת הקול זזים ברמה גלובלית אחת לכל דבר. אין דרך מקורית לומר "הגבר רק את לשונית הדפדפן הזו" - שלא לדבר על לדחוף אפליקציה בודדת מעבר ל-100%.</p>
+
+<h2>התיקון האמיתי: הגברת נפח לכל אפליקציה</h2>
+<p>כדי לגרום למקור שקט להיות חזק יותר ממה שהרמקולים שלך מאפשרים בדרך כלל, אתה צריך תוכנה שמחילה עליה רווח <em>האפליקציה הזו במיוחד</em> ויכול להגביר מעבר לתקרה של 100%. זה בדיוק מה שעושה מיקסר לכל אפליקציה עם תכונת בוסט.</p>
+<p>עם <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, כל אפליקציה פועלת מופיעה ברשימת שורת תפריטים עם המחוון שלה. החלק אפליקציה שקטה עד 150% או 200% והשמע מוגבר בזמן אמת. מכיוון שהחיזוק הוא לכל אפליקציה, כל השאר - המוזיקה שלך, התראות, שיחה בחלון אחר - נשאר ברמה נורמלית. אתה לא מפוצץ את כל המערכת כדי לשמוע פודקאסט רך אחד.</p>
+<blockquote>עוצמת הקול העולמית שואלת "כמה חזק ה-Mac?" מיקסר לכל אפליקציה שואל "כמה רועש <em>זה</em> אפליקציה?" - וזו השאלה שחשובה למעשה כאשר סרטון אחד שקט והשאר בסדר.</blockquote>
+
+<h2>כיצד להגביר סרטון שקט או פודקאסט, צעד אחר צעד</h2>
+<ul>
+<li><strong>התקן את SoundDial</strong> מה-Mac App Store. זה בארגז חול ונבדק על ידי Apple, כך שהוא מותקן בצורה נקייה כמו כל אפליקציה אחרת - ללא הורדה נפרדת, ללא מנהל התקן שמע, ללא כפפת הרשאה.</li>
+<li><strong>תתחיל לשחק</strong> הסרטון השקט, פרק הפודקאסט או ההרצאה בכל אפליקציה שבה אתה משתמש - Safari, Chrome, לקוח פודקאסט, VLC.</li>
+<li><strong>לחץ על הסמל SoundDial</strong> בשורת התפריטים שלך. תראה מחוון עבור כל אפליקציה שמשמיעה כעת קול.</li>
+<li><strong>גרור את המחוון של האפליקציה הזו מעל 100%</strong> - נסה תחילה 150%, ואז לחץ גבוה יותר אם הוא עדיין רך מדי. השינוי הוא מיידי.</li>
+<li><strong>עזוב את כל השאר בשקט.</strong> רק האפליקציה שהעלית מתגברת; המערכת שלך נשארת מאוזנת.</li>
+</ul>
+<p>אם אתה מוצא את עצמך משפר את אותן אפליקציות כל יום - נניח, נגן פודקאסטים והדפדפן שלך - אתה יכול לשמור את ההגדרה הזו בתור <strong>פרופיל נפח</strong> ולהיזכר בו בלחיצה אחת במקום להתאים מחדש בכל פעם.</p>
+
+<h2>מילת זהירות לגבי חיזוק</h2>
+<p>הגברה מעבר ל-100% מוסיפה רווח, ולרווח יש גבולות. דחף הקלטה שקטה מאוד באיכות נמוכה מספיק חזק ואתה עלול לשמוע גזירה או עיוות - זה המקור שנגמר האות הנקי, לא פגם באפליקציה. הגבר עד שהוא נשמע בנוחות, ואז חזור אם זה מתחיל להישמע קשה. ברמקולים מובנים של מחשב נייד, בוסט קיצוני יכול גם להלחיץ ​​את הדרייברים, אז לך שם יותר קל מאשר עם אוזניות טובות או רמקולים חיצוניים.</p>
+
+<h2>מה לגבי אפשרויות חינמיות או מובנות?</h2>
+<p>יש לך אלטרנטיבות, וכדאי להיות כנה לגביהן:</p>
+<ul>
+<li><strong>עוצמת הקול של המערכת + מחוונים ברמת האפליקציה.</strong> חלק מהשחקנים (VLC, כמה דפדפנים באמצעות הרחבות) מאפשרים לך להגביר את האודיו שלהם. בסדר אם אי פעם תזדקק לזה רק באפליקציה אחת - אבל אתה תקוע בהגדרת כל אפליקציה בנפרד, ללא שליטה מאוחדת וללא פרופילים.</li>
+<li><strong>eqMac</strong> הוא EQ ומגבר בחינם. זה יכול להעלות את עוצמת הקול של המערכת, אבל זה כלי גלובלי, לא מערבל נקי לכל אפליקציה, והוא עובד ברמת הפלט כולו.</li>
+<li><strong>Background Music</strong> הוא חינמי וקוד פתוח ואכן מציע נפח לכל אפליקציה. אבל היא מסתמכת על הגדרת לכידת אודיו שיכולה להישבר בגרסאות חדשות יותר של macOS, והיא חסרה חיזוק ייעודי, פרופילים ודיבוק אוטומטי.</li>
+<li><strong>FineTune</strong> היא אפליקציית שורת תפריטים בקוד פתוח בחינם - אפשרות קלת משקל אם אתה רוצה את היסודות ולא אכפת לך מהתוכנה המתוחזקת על ידי הקהילה.</li>
+<li><strong>SoundSource</strong> מאת Rogue Amoeba (~$39) הוא משקל כבד בדרגה מקצועית: EQ לכל אפליקציה, ניתוב פלט, העבודה. זה גם דורש הורדה ומנהל התקן לכידת אודיו, וזה עולה יותר מכפול SoundDial. מוגזם אם כל מה שאתה רוצה זה להגביר את האודיו השקט.</li>
+</ul>
+
+<h2>מדוע SoundDial היא הבחירה המעשית</h2>
+<p>SoundDial יושב במקום המתוק לבעיה הזו בדיוק. שֶׁלָה <strong>14.99 אירו חד פעמי</strong> - ללא מנוי - והוא חי על <strong>Mac App Store</strong>, מה שאומר שהוא בארגז חול, נבדק על ידי אפל, ומותקן ללא שום DMG או הרחבת מערכת שאפשר לסמוך עליה. אתה מקבל את החיזוק לכל אפליקציה שבאמת באת בשבילו, בתוספת פרופילים, השתקה לכל אפליקציה, החלפת פלט מהיר ו <strong>ברווז אוטומטי</strong> שמטביל אפליקציות אחרות כאשר אתה צריך להתמקד באחת. הוא עושה את הדבר הרועש בפשטות, ועושה את השאר היטב.</p>
+
+<p><strong>נמאס לכם להתאמץ לשמוע סרטונים ופודקאסטים שקטים?</strong> <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> תמורת 14.99 אירו ותן לכל אפליקציה עוצמת קול משלה - עם הדחיפה לשמוע כל דבר בבירור.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "כיצד להגדיר עוצמת קול שונה עבור כל אפליקציה ב-Mac",
+    description: "ל-macOS אין מערבל נפח מובנה לכל אפליקציה. הנה איך להגדיר רמות ווליום עצמאיות ומתמשכות עבור כל אפליקציה ב-Mac באמצעות SoundDial והחלופות.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין דרך מובנית להגדיר עוצמת קול שונה עבור כל אפליקציה, אז אתה צריך מערבל עוצמת הקול של שורת התפריט. התיקון המהיר והאמין ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, אפליקציית Mac App Store שנותנת לכל אפליקציה מחוון עוצמת הקול שלה, השתקה לכל אפליקציה וחיזוק שדוחף אפליקציות שקטות מעבר ל-100%. הגדר את הרמות שלך פעם אחת והם יישארו.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - כיצד להגדיר עוצמת קול שונה עבור כל אפליקציה ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע ל-Mac אין בקרת עוצמת הקול לכל אפליקציה</h2>
+<p>אם עברתם מ-Windows, כנראה שחיפשתם את המקבילה ל-Windows Volume Mixer, אותו פאנל קטן שבו לכל אפליקציה יש סליידר משלה. זה לא שם. macOS מציע רק נפח מערכת גלובלי אחד. בין אם זה סרטון YouTube, שיחת Zoom, Spotify או משחק, כולם חולקים את אותה רמת מאסטר.</p>
+<p>זה בסדר עד שזה לא. צ'אט Discord מטביע את המוזיקה שלך. מודעת דפדפן מתפוצצת בווליום מלא בעוד הפודקאסט שלך מתנגן בשקט מתחת. המשחק שלך מחריש אוזניים אבל השיחה הקולית ברקע רכה מדי. ה"פתרון" היחיד שאפל נותנת לכם הוא לפתוח כל אפליקציה ולהתאים את עוצמת הקול הפנימי שלה באופן ידני, אם לאפליקציה בכלל יש כזו, ולבצע אותה מחדש בכל הפעלה.</p>
+<p>כדי לקבל שליטה אמיתית לכל אפליקציה, אתה צריך כלי עזר קטן שנמצא בין האפליקציות שלך להתקן הפלט שלך. להלן כיצד לעשות זאת כראוי, בתוספת הערות כנות על החלופות.</p>
+
+<h2>הדרך המהירה ביותר: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מתגורר בשורת התפריטים שלך ומפרט כל אפליקציה שמשמיעה כעת אודיו. כל אחד מקבל סליידר עצמאי. להלן כל תהליך העבודה:</p>
+<ul>
+<li><strong>התקן מה-Mac App Store.</strong> זה נבדק על ידי Apple ובארגז חול, כך שאין DMG, אין מנהל התקן שמע, ואין ליבה או הרחבת מערכת לאישור. הוא מותקן כמו כל אפליקציה רגילה וניתן להסיר אותו באותו אופן.</li>
+<li><strong>לחץ על סמל שורת התפריטים.</strong> תראה מחוון עבור כל אפליקציה פעילה, בתוספת פקד מאסטר.</li>
+<li><strong>גרור כדי להגדיר רמות.</strong> הורד את Discord כלפי מטה, דחף את Spotify למעלה, השתיק את האפליקציה של כרטיסיית דפדפן רועשת לחלוטין בלחיצה אחת.</li>
+<li><strong>שפר אפליקציות שקטות.</strong> אם אפליקציה רכה מדי אפילו ב-100%, דחף אותה מעל ל-100% עם חיזוק לכל אפליקציה.</li>
+<li><strong>שמור פרופיל.</strong> אחסן את ה"משחקים", "שיחת העבודה" או "המוזיקה" שלך ועבור ביניהם באופן מיידי במקום לגרור מחדש את המחוונים בכל יום.</li>
+</ul>
+<p>כדאי לקרוא שתי תכונות מכיוון שהן פותרות את התרחישים המעצבנים ביותר:</p>
+<ul>
+<li><strong>ברווז אוטומטי</strong> מוריד אוטומטית אפליקציות אחרות כאשר אפליקציה נבחרת מתנגנת, כך שהמוזיקה שלך יורדת כאשר שיחה נכנסת וחוזרת לאחר מכן, ללא התעסקות ידנית.</li>
+<li><strong>מיתוג פלט מהיר</strong> מאפשר לך לדלג בין אוזניות ורמקולים מאותו תפריט מבלי לצלול להגדרות מערכת.</li>
+</ul>
+<p>מכיוון שרמות נזכרות בכל אפליקציה ונשמרות בפרופילים, זה החלק שרוב האנשים באמת רוצים: אתה מגדיר את זה פעם אחת וזה <em>נשאר</em> להגדיר.</p>
+
+<h2>החלופות החינמיות והתשלום, השוו בכנות</h2>
+<p>SoundDial היא לא האפשרות היחידה, ובהתאם לצרכים שלך, כלי חינמי עשוי להספיק. הנה סקירה הוגנת.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource הוא המשקל הכבד ברמה מקצועית. לצד עוצמת הקול לכל אפליקציה הוא עושה EQ לכל אפליקציה וניתוב פלט מלא, כך שתוכל לשלוח אפליקציה אחת לאוזניות ואחרת לרמקולים. זה באמת מעולה. היתרונות: זה עולה בסביבות $39, וזו לא התקנה נקייה של App Store, זו הורדה ישירה שדורשת הוספת מנהל התקן לכידת אודיו למערכת שלך. אם אתה מקצוען אודיו שצריך EQ וניתוב, זה שווה את זה. אם אתה רק רוצה שכל אפליקציה תהיה בעוצמת הקול הנכונה, זה יותר כלי ויותר הגדרה ממה שאתה צריך.</p>
+
+<h2>Background Music (קוד פתוח, חינם)</h2>
+<p>Background Music היא אפליקציה חינמית בקוד פתוח המציעה נפח לכל אפליקציה והשהייה אוטומטית. הקאץ' הוא אמינות: הוא מתקין התקן שמע וירטואלי ויש לו היסטוריה של פריצה במהדורות חדשות יותר של macOS, לפעמים דורש התקנה מחדש או תיקונים לאחר עדכונים. זה גם חסר דחיפה, פרופילים שמורים ודיבוק אוטומטי אמיתי. נהדר אם אתה רוצה בחינם ולא אכפת לך תחזוקה מדי פעם.</p>
+
+<h2>FineTune ו-eqMac</h2>
+<p>FineTune היא אפליקציית שורת תפריט חינמית בקוד פתוח, נקודת התחלה קלה. eqMac הוא אקולייזר חינמי עם מאיץ כלל-מערכתי, המכוון יותר ל-EQ ולרווח כללי מאשר לתת לכל אפליקציה את המחוון המתמשך שלה. כדאי לנסות את שניהם אם הצורך שלך צר, אבל אף אחד מהם אינו מתמקד בזרימת העבודה של "נפח שונה לכל אפליקציה, נשמר כפרופילים".</p>
+
+<h2>באיזה כדאי לבחור?</h2>
+<ul>
+<li><strong>רוצה שזה פשוט יעבוד, בצורה נקייה, עם פרופילים ודיבוק אוטומטי?</strong> SoundDial ב-14.99 אירו חד פעמית, מה-App Store, ללא דרייברים להתקנה.</li>
+<li><strong>צריך EQ וניתוב אודיו לכל אפליקציה ולא אכפת לכם מהמחיר או הדרייבר?</strong> SoundSource.</li>
+<li><strong>רוצה בחינם ואתה בסדר להתעסק כאשר macOS מתעדכן?</strong> Background Music, FineTune או eqMac.</li>
+</ul>
+<p>היתרון האמיתי של SoundDial הוא השילוב: עוצמת קול עצמאית, השתקה והגברה עבור כל אפליקציה, שנשמרה בפרופילים הניתנים להחלפה, עם בריחה אוטומטית, והכל בתוך הורדה של App Store עם ארגז חול שאתה יכול לסמוך עליו ולהסיר את ההתקנה בקליק, תמורת 14.99 אירו חד פעמי במקום מנוי.</p>
+
+<blockquote>ללא דרייבר, ללא הרחבה, ללא DMG. הגדר את עוצמת הקול של כל אפליקציה פעם אחת, שמור אותה כפרופיל ותן ל-Auto-Duking לטפל בכל השאר.</blockquote>
+
+<p>מוכן לתת לכל אפליקציה נפח משלה? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> והגדר את התערובת המושלמת שלך תוך כדקה.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "הפוך אפליקציה אחת לשקטה יותר מכל השאר ב-Mac",
+    description: "אפליקציה רועשת אחת מטביעה את השאר ב-Mac שלך? הנה הדרך המהירה והאמינה ביותר להנמיך את עוצמת הקול של אפליקציה אחת מבלי לגעת באחרות.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>כדי לדחות אפליקציה אחת בזמן שכל השאר נשאר במקום, השתמש <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מערבל נפח תפריט לכל אפליקציה עבור macOS. פתח אותו, מצא את האפליקציה הרועשת ברשימה וגרור את המחוון שלה כלפי מטה. האפליקציה הזו נעשית שקטה יותר באופן מיידי בזמן שהמוזיקה, השיחות ושמע אחר שלך שומרים על רמות משלהם. זה התיקון המהיר והאמין ביותר.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — הפוך אפליקציה אחת לשקטה יותר מכל השאר ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>למה macOS עושה את זה כל כך קשה</h2>
+
+<p>הנה האמת המתסכלת: ל-macOS אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש אחד מזה שנים (לחץ לחיצה ימנית על סמל עוצמת הקול, פתח את מיקסר הווליום, סיים), אבל ב-Mac מקשי עוצמת הקול ומחוון שורת התפריט שולטים רק בדבר אחד: הפלט הראשי. תנמיך את זה והכל יהיה שקט יותר ביחד. הגבירו אותו והאפליקציה הרועשת עדיין רועשת, רק רועשת יותר יחד עם השאר.</p>
+
+<p>אז כשהאפקטים הקוליים של המשחק מתפוצצים, כרטיסיית דפדפן מנגנת מודעה אוטומטית, או שברי התראה ממשיכים לצוץ על הפודקאסט שלך, האפשרויות המקוריות היחידות שלך הן מגושמות: השתקת המערכת כולה, התעמק בהגדרת עוצמת הקול של כל אפליקציה (אם בכלל יש לה), או צא לחלוטין מהעבריין. כל זה לא מאפשר לך פשוט לומר "הפוך את האפליקציה הזו לשקטה יותר ועזוב את כל השאר בשקט."</p>
+
+<h2>התיקון המהיר: מערבל נפח לכל אפליקציה</h2>
+
+<p>מערבל נפח לכל אפליקציה נותן לכל אפליקציה פועלת מחוון עצמאי משלה. זו בדיוק השליטה שחסרה לך. עם <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> זה נראה כך:</p>
+
+<ul>
+<li><strong>פתח את מיקסר שורת התפריט.</strong> לחץ על הסמל SoundDial ותראה רשימה חיה של כל אפליקציה שמנגנת אודיו.</li>
+<li><strong>מצא את הקולני.</strong> המשחק, הדפדפן, שיחת הווידאו, צלילי ההתראה, מה שמטביע את השאר.</li>
+<li><strong>גרור את המחוון שלו למטה.</strong> הגדר אותו ל-40%, 20%, בכל מקום בו הוא מרגיש מאוזן. השינוי הוא מיידי והוא משפיע רק על האפליקציה הזו.</li>
+<li><strong>עזוב את כל השאר בשקט.</strong> נגן המוזיקה שלך, השיחה שלך, הכרטיסיות האחרות שלך, כולם שומרים על עוצמת הקול שהגדרת עבורם.</li>
+</ul>
+
+<p>אתה יכול גם להשתיק לחלוטין אפליקציה בודדת בלחיצה אחת בזמן שאחרות ממשיכות לשחק, או להגביר אפליקציה שקטה מעל 100% אם היא רכה מדי. אין הפעלה מחדש של האפליקציה, אין צלילה בתפריט.</p>
+
+<h2>מקרים נפוצים שבהם זה חוסך אותך</h2>
+
+<ul>
+<li><strong>משחק רועש על מוזיקת רקע.</strong> הורד את המשחק לרמה נוחה ושמור את רשימת ההשמעה שלך בווליום מלא מתחתיו.</li>
+<li><strong>מודעות דפדפן ווידאו בעלי זינוק.</strong> הצמד את הדפדפן שלך למטה כך שהפעלה אוטומטית מפתיעה לעולם לא תפוצץ אותך.</li>
+<li><strong>התראה מצלצלת בשיחה או בפודקאסט.</strong> השבת את האפליקציה עמוסת ההתראות מבלי להשתיק את האודיו שבאמת אכפת לך ממנו.</li>
+<li><strong>שיחת וידאו שקטה תחת מדיה רועשת.</strong> במקום להנמיך את האפליקציה הרועשת, הגבר את השיחה מעל 100% כדי שתוכל לשמוע אנשים בבירור.</li>
+</ul>
+
+<h2>הגדר את זה פעם אחת עם פרופילי עוצמת הקול ודיבוק אוטומטי</h2>
+
+<p>תיקון אפליקציה רועשת אחת זה נחמד, אבל אתה כנראה רוצה שהיא תישאר קבועה. ל-SoundDial יש שתי תכונות שהופכות את זה לקבוע:</p>
+
+<p><strong>פרופילי נפח</strong> מאפשר לך לשמור קבוצה של רמות לכל אפליקציה ולזכור אותן בקליק. בנה פרופיל "Gaming" שבו המשחק עומד על 30% ומוזיקה על 100%, ופרופיל "עבודה" שבו שיחות מוגברות וכל השאר מופחת. החלף הקשרים מבלי לגרור מחדש את המחוונים בכל פעם.</p>
+
+<p><strong>ברווז אוטומטי</strong> מוריד אוטומטית אפליקציות אחרות כאשר אפליקציה נבחרת מופעלת, ואז מחזיר אותן לאחר מכן, כך שאפליקציה רועשת לעולם לא תחטוף את האודיו שלך מלכתחילה. בין פרופילים, בריחה והחלפת פלט מהיר (קפיצה בין רמקולים ואוזניות מבלי לפתוח את הגדרות מערכת), אתה מגדיר את האיזון פעם אחת ומפסיק לשמור על עוצמת הקול.</p>
+
+<h2>איך SoundDial משתווה לחלופות</h2>
+
+<p>ישנן דרכים אחרות להשיג נפח לכל אפליקציה ב-Mac. הנה מבט כנה:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> הוא באמת פרו-דרגה: EQ לכל אפליקציה וניתוב פלט מלא על גבי בקרת עוצמת הקול. אבל זה עולה יותר מכפול, והוא צריך הורדה נפרדת בתוספת מנהל התקן לכידת אודיו. אם אתה רוצה ערכת כלים ברמת הסטודיו, זה מצוין. אם אתה רק רוצה לדחות אפליקציה אחת, זה יותר ממה שאתה צריך.</li>
+<li><strong>Background Music</strong> הוא חינמי וקוד פתוח, וזה נהדר, אבל הוא יכול להישבר בגרסאות חדשות יותר של macOS, ואין לו הגברת נפח, פרופילים ו-Down אוטומטי.</li>
+<li><strong>FineTune</strong> היא אפליקציית שורת תפריט חינם בקוד פתוח, ו <strong>eqMac</strong> הוא EQ חינמי עם בוסטר. שווה לנסות את שניהם אם חינם הוא העדיפות שלך, אבל אתה סוחר בלק, אמינות ותכונות במחיר.</li>
+</ul>
+
+<p>SoundDial יושב במקום המתוק: 14.99 אירו חד פעמי, ללא מנוי. מכיוון שהוא נמצא ב-Mac App Store, הוא נבדק על ידי אפל ובארגז חול, והוא מותקן בצורה נקייה ללא DMG, ללא מנהלי התקנים אודיו וללא הרחבות מערכת לאישור. אתה מקבל את התכונות שחשובות למעשה לבעיה הזו, נפח לכל אפליקציה, השתקה, חיזוק, פרופילים והורדה אוטומטית, ללא תג מחיר של $39 או כלי חינמי שביר.</p>
+
+<h2>השורה התחתונה</h2>
+
+<p>macOS לא יאפשר לך לדחות אפליקציה אחת בפני עצמה, אבל זה פער שאתה יכול לסגור בשניות. התקן מיקסר לכל אפליקציה, גרור את המחוון של האפליקציה הרועשת כלפי מטה, ושאר האודיו שלך יישאר בדיוק היכן שאתה רוצה. שמור פרופיל ולעולם לא תילחם בזה שוב.</p>
+
+<p><strong>מוכן להשתיק את האפליקציה האחת שממשיכה להטביע את השאר?</strong> קבל <a href="https://apps.apple.com/app/id6772792641">SoundDial ב-Mac App Store</a> עבור €14.99, תשלום אחד, ללא נהגים, ללא מנוי.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "מיקסר שמע Mac לסטרימרים: Balance Mic, משחק ומוזיקה",
+    description: "הדרך המהירה ביותר לאזן את המיקרופון, האודיו של המשחק, המוזיקה והתראות בזמן סטרימינג ב-Mac. SoundDial נותן לך מערבל נפח לכל אפליקציה עם פרופילים ו-Ducking.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>כדי לאזן את המיקרופון, המשחק, המוזיקה וההתראות בזמן סטרימינג ב-Mac, התיקון האמין המהיר ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מערבל נפח תפריט לכל אפליקציה. ל-macOS אין מיקסר מובנה, כך ש-SoundDial מאפשר לך להגדיר רמות עצמאיות לכל אפליקציה, להגביר מקורות שקטים, לשמור פרופילי סטרימינג ומוזיקה אוטומטית כשמדברים.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — מיקסר שמע Mac לסטרימרים: מיקרופון איזון, משחק ומוזיקה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>הבעיה: ל-macOS אין בקרת עוצמת הקול לכל אפליקציה</h2>
+<p>ל-Windows יש את מיקסר הווליום כבר שנים. macOS עדיין לא שולח אחד. מחוון עוצמת הקול של המערכת שלך מזיז הכל בבת אחת, וזה חסר תועלת כשאתה בשידור חי. במהלך זרם אתה מלהטט עם לפחות ארבעה מקורות שנלחמים כולם על אותו פלט:</p>
+<ul>
+<li><strong>ניטור הקול / המיקרופון שלך</strong> - צריך לשבת מעל הכל.</li>
+<li><strong>אודיו של המשחק</strong> - רועש, דינמי ונוטה לספייק במהלך הפעולה.</li>
+<li><strong>מוזיקת רקע</strong> - צריך להישאר בשקט מתחת לפרשנות שלך.</li>
+<li><strong>התראות וצלילי צ'אט</strong> - Discord, סיפון זרמים, התראות עוקבים, התראות.</li>
+</ul>
+<p>ללא שליטה לכל אפליקציה, בסופו של דבר אתה רוכב על המחוון בתוך האפליקציה של המשחק, משתיק את Spotify ביד, ומתפלל שסצנה רועשת לא מוציאה מהצופים שלך. זה לא שילוב, זה בקרת נזקים.</p>
+
+<h2>מה מיקסר סטרימינג תקין צריך לעשות</h2>
+<p>הגדרת אודיו ממוקדת יוצר ב-Mac אמורה לתת לך ארבעה דברים: רמות עצמאיות לכל אפליקציה, היכולת להגביר מקור שקט מדי, תצורות שמורות שאתה יכול לזכור באופן מיידי, ו-Ducking אוטומטי כך שהמוזיקה תרד ברגע שאתה מדבר. SoundDial מכסה את כל הארבעה מסרגל התפריטים.</p>
+
+<h3>1. נפח עצמאי לכל אפליקציה</h3>
+<p>הגדר את המשחק ל-60%, מוזיקה ל-25%, Discord ל-80%, והדפדפן שלכם ל-40% - לכל אפליקציה יש סליידר משלה. שום דבר לא מדמם לשום דבר אחר. אתה יכול גם להשתיק באופן מיידי בכל אפליקציה כאשר מקור מתנהג בצורה לא נכונה באמצע הזרם, מבלי לגעת באפליקציה עצמה.</p>
+
+<h3>2. הגברת עוצמת הקול למקורות שקטים</h3>
+<p>חלק מהאפליקציות והמשחקים פשוט שקטים מדי אפילו ב-100%. הדחיפה לכל אפליקציה של SoundDial דוחפת מקור מעבר לתקרה הרגילה שלו, כך שמשחק מטומטם או סרטון וידאו בנפח נמוך יושבים היכן שאתה צריך את זה במיקס - ללא קידוד מחדש, ללא תוספים.</p>
+
+<h3>3. פרופילי עוצמת קול לסצנות שונות</h3>
+<p>זו התכונה שחוסכת לסטרימרים הכי הרבה זמן. מיקס "Just Chatting" שלך (מוזיקה למעלה, משחק למטה) שונה מהמיקס "Boss Fight" שלך (משחק למעלה, מוזיקה כמעט שקטה), ששונה מהמיקס "BRB" שלך. שמור כל אחד כפרופיל והחלף בלחיצה אחת במקום לגרור ארבעה מחוונים בזמן אמת.</p>
+
+<h3>4. לולאה אוטומטית כדי שהמוזיקה תתקע מתחת לקול שלך</h3>
+<p>שחרור אוטומטי מוריד אוטומטית את אודיו הרקע כשאתה מדבר ומחזיר אותו כשאתה מפסיק. עבור סטרימרים סולו זה ההבדל בין פרשנות ברורה למוזיקה שקוברת את הקול שלך כל הזמן - מטופלת באופן אוטומטי במקום ידנית.</p>
+
+<h2>איפה OBS משתלב</h2>
+<p>OBS הוא כלי השידור שלך, לא מערבל הווליום שלך בשולחן העבודה. OBS שולט באילו רמות נכנסות לזרם דרך הפאנל והפילטרים של Audio Mixer, אבל זה עובד ממקורות האודיו שהוא לוכד - הוא לא מגיע לאפליקציות macOS בודדות ומנמיך אותן ברמת המערכת. ב-Mac, העברת אודיו נקי לכל אפליקציה לתוך OBS תמיד היה החלק הכואב.</p>
+<p>זרימת העבודה המעשית: השתמש ב-SoundDial כדי להגדיר את הרמות בפועל לכל אפליקציה ב-Mac שלך כך שמה שיוצא כבר מאוזן, ואז תן ל-OBS ללכוד ולכוון את רמות השידור. הגדר את המיקס פעם אחת במקור ול-OBS יש הרבה פחות עם מה להילחם. החלפת פלט מהירה ב-SoundDial מאפשרת לך גם לדלג בין אוזניות ורמקולים מבלי לצלול להגדרות מערכת בין סצנות.</p>
+
+<h2>SoundDial לעומת האלטרנטיבות</h2>
+<p>יש לך אפשרויות, והכנות חשובה כאן:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~$39)</strong> - ברמה מקצועית עם EQ לכל אפליקציה וניתוב פלט מלא. זה מצוין, אבל הוא עולה יותר מכפול, דורש הורדה ישירה ומתקין דרייבר ללכידת אודיו. יתר על המידה אם אתה צריך בעיקר רמות נקיות לכל אפליקציה, חיזוק והשתמטות.</li>
+<li><strong>Background Music (חינם, קוד פתוח)</strong> - באמת שימושי וחינמי, אבל זה יכול להישבר בגרסאות macOS חדשות יותר, ואין לו דחיפה, אין פרופילים, ואין לו דיוק אוטומטי - התכונות המדויקות שעליהן נשענים הסטרימרים.</li>
+<li><strong>FineTune (אפליקציית שורת תפריטים בקוד פתוח בחינם)</strong> - שליטה קלה לכל אפליקציה, אבל פרויקט קהילתי ללא השילוב של פרופילים פלוס-ברווזות שנבנה לסטרימינג בשידור חי.</li>
+<li><strong>eqMac (EQ חינם + בוסטר)</strong> - טוב לעיצוב גוונים ולהגברה, אבל זה אקולייזר, לא מערבל סטרימינג לכל אפליקציה.</li>
+</ul>
+<p>הזווית של SoundDial: זה א <strong>14.99 אירו חד פעמי</strong> רכישה על <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> - נבדק על ידי Apple, בארגז חול, והוא מותקן בצורה נקייה ללא DMG וללא מנהלי התקנים אודיו או הרחבות מערכת. החלק האחרון הזה חשוב לסטרימרים: פחות רכיבים ברמת הגרעין פירושו פחות שברים בהפתעה כאשר macOS מתעדכן בלילה שלפני הזרם שלך.</p>
+
+<h2>הפשרה הכנה</h2>
+<p>אם אתה צריך EQ בדרגת שידור ורשתות ניתוב מורכבות, SoundSource מרוויח את המחיר שלו. אם אתה רוצה כלי חינמי של טינקר ולא אכפת לך שבר מדי פעם, Background Music או FineTune יצליחו. אבל אם אתה רוצה את התמהיל שהסטרימינג בעצם דורש - רמות לכל אפליקציה, חיזוק, פרופילי סצנה שמורים ו-Down אוטומטי - מהתקנה בטוחה של App Store ששורדת עדכוני macOS, SoundDial הוא הנתיב הישיר ביותר לכסף.</p>
+
+<p><strong>מוכן לתקן את האודיו של הזרם שלך?</strong> קבל <a href="https://apps.apple.com/app/id6772792641">SoundDial ב-Mac App Store</a> תמורת 14.99 אירו - הגדר את רמות המיקרופון, המשחק, המוזיקה וההתראה שלך פעם אחת, שמור אותם כפרופילים ואפשר ל-Down-אוטומטי לשמור על הקול שלך על העליונה.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "כיצד לתקן פצפוץ אודיו ב-macOS Tahoe",
+    description: "אודיו מתפצפץ או קופץ לאחר עדכון ל-macOS Tahoe 26? תקן זאת על ידי התאמת קצב הדגימה, איפוס CoreAudio, בדיקת ה-codec Bluetooth וניקוי התנגשויות תוספים. הנה סדר פתרון הבעיות המלא.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>פצפוץ וקפיצות לאחר עדכון ל-macOS Tahoe 26 הוא כמעט תמיד חוסר התאמה של קצב הדגימה, משא ומתן לקודק Bluetooth מתקלקל, או תהליך CoreAudio תקוע. תקן את זה על ידי התאמת קצב דגימת הפלט ב- Audio MIDI Setup, איפוס <code>coreaudiod</code>, שכחה והתאמה מחדש של אוזניות Bluetooth, ויציאה ממארחי פלאגין אודיו. עבדו דרכם לפי הסדר למטה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - כיצד לתקן פצפוץ אודיו ב-macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>התחל עם התיקונים הזולים</h2>
+
+<p>לפני שאתה נוגע במשהו טכני, שלל את שני הדברים שפותרים את רוב המקרים תוך פחות מדקה:</p>
+
+<ul>
+<li><strong>הפעל מחדש את ה-Mac.</strong> עדכון של טאהו משאיר דמוני אודיו במצב חצי הגירה לעתים קרובות באופן מפתיע. אתחול מחדש נקי טוען מחדש את CoreAudio מאפס ומנקה את רוב הפצפוצים שלאחר העדכון.</li>
+<li><strong>נתק וחבר מחדש את התקן הפלט.</strong> אם מדובר ב-USB DAC, תחנת עגינה או ממשק שמע, נתק אותו, המתן מספר שניות וחבר מחדש. נסה גם יציאת USB אחרת, באופן אידיאלי ישירות ב-Mac ולא דרך רכזת. רכזות ותצוגות שמעבירות אודיו הם מקור נפוץ לפופים.</li>
+</ul>
+
+<p>אם הרעש שורד אתחול מחדש, זו בעיית תצורה, לא תקלה. לְהַמשִׁיך לָלֶכֶת.</p>
+
+<h2>התאם את קצב הדגימה (הגורם השכיח ביותר)</h2>
+
+<p>פצפוץ הטאהו הקלאסי מגיע מאי התאמה של קצב הדגימה בין מה שהמכשיר שלך רוצה לבין מה ש-macOS שולח. כאשר אפליקציה מנגנת אודיו של 44.1 קילו-הרץ והמערכת נעולה ל-48 קילו-הרץ (או להיפך), הדגימה מחדש יכולה לגמגם או לקפוץ.</p>
+
+<ul>
+<li>פתוח <strong>הגדרת אודיו MIDI</strong> (באפליקציות → כלי עזר, או חפש ב-Spotlight).</li>
+<li>בחר את התקן הפלט שלך בסרגל הצד השמאלי.</li>
+<li>תסתכל על <strong>פורמט</strong> תפריט נפתח. נסה להגדיר את זה ל <strong>48000.0 הרץ, 2ch-24bit מספר שלם</strong> ומבחן.</li>
+<li>אם הקפיצה נמשכת, עבור אל <strong>44100.0 הרץ</strong> ולבדוק שוב.</li>
+<li>עבור ממשקים, ודא שקצב הדגימה תואם לקצב הפרויקט של DAW שלך.</li>
+</ul>
+
+<p>החלפת הפורמט מאלצת גם את CoreAudio לנהל משא ומתן מחודש על החיבור, וזה לבדו מתקן מקרים רבים גם כאשר אתה נוחת בחזרה על אותו ערך.</p>
+
+<h2>אפס את CoreAudio</h2>
+
+<p>CoreAudio פועל בתור דמון רקע שנקרא <code>coreaudiod</code>. לאחר עדכון macOS גדול הוא יכול להחזיק במצב מכשיר מיושן. הפעלה מחדש בטוחה ונכנסת לתוקף באופן מיידי, ללא אתחול מחדש.</p>
+
+<p>פתח את Terminal והפעל:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>הזן את הסיסמה שלך כאשר תתבקש. האודיו שלך ייפסק לשנייה, ואז הדמון יופעל מחדש אוטומטית עם לוח נקי. זהו התיקון היעיל ביותר עבור פצפוץ המופיע משום מקום במחשב שהיה בסדר לפני העדכון.</p>
+
+<h2>בדוק את האוזניות וה-Codec של Bluetooth</h2>
+
+<p>אם הפצפוץ מתרחש רק באוזניות AirPods או אחרות של Bluetooth, הבעיה היא בדרך כלל משא ומתן ב-Codec, לא ברמקולים שלך. איכות השמע האלחוטית יורדת כאשר החיבור עמוס או כאשר macOS יורד למצב שיחה ברוחב פס נמוך.</p>
+
+<ul>
+<li><strong>שכח והתאם מחדש את המכשיר.</strong> עבור אל הגדרות מערכת ← Bluetooth, הסר את האוזניות ואז התאם אותן שוב. פעולה זו מאפסת את ה-Codec של משא ומתן.</li>
+<li><strong>שימו לב לירידה במצב השיחה.</strong> כאשר אפליקציה פותחת את המיקרופון, macOS מעביר את אוזניות Bluetooth לפרופיל דו-כיווני באיכות נמוכה, שנשמע פריך. צא מאפליקציות שיחות ועידה וקול שאינך משתמש בהן והנאמנות חוזרת.</li>
+<li><strong>הפחת הפרעות.</strong> התרחק מסביבות צפופות של 2.4 GHz ונתק התקני Bluetooth שאינך צריך. להקת רדיו עמוסה מייצרת פופים לסירוגין.</li>
+<li><strong>כבה את כניסת המיקרופון</strong> בהגדרות של אפליקציה אם אתה רק צריך להאזין, אז macOS שומר על פרופיל ההשמעה האיכותי.</li>
+</ul>
+
+<h2>צא ממארחי פלאגין אודיו ומנהלי התקנים וירטואליים</h2>
+
+<p>תוכנת אודיו של צד שלישי שמתקינה הרחבת מערכת או מכשיר וירטואלי היא עבריין תכוף לאחר קפיצה של מערכת ההפעלה, מכיוון שלעתים קרובות יש צורך לעדכן תוספות הליבה והשמע לגרסה חדשה של macOS. החשודים כוללים נתבי אודיו וירטואליים, אפליקציות אקולייזר, כלי לולאה ושירותים ישנים יותר מבוססי מנהלי התקנים.</p>
+
+<ul>
+<li>צא מכל אקולייזר, נתב אודיו או אפליקציית loopback ובדוק אם הפצפוץ מפסיק.</li>
+<li>בדוק את הגדרות מערכת ← כללי ← פריטי כניסה &amp; הרחבות עבור הרחבות שמע שעשויות להזדקק לעדכון או הסרה.</li>
+<li>עדכן את האפליקציות האלה למהדורות התואמות ל-Tahoe שלהן, או הסר את ההתקנה של אלה שאינך משתמש בהם יותר. מנהלי התקנים מוערמים של אודיו מתנגשים לעתים קרובות זה עם זה לאחר עדכון גדול.</li>
+</ul>
+
+<p>אם יציאה מאחת מהאפליקציות האלה משתיקה את הפופים, מצאת את האשם שלך. התקן מחדש את הגרסה הנוכחית או השאר אותה כבויה.</p>
+
+<h2>לצמצם את זה: כלל המערכת או אפליקציה אחת?</h2>
+
+<p>גלה אם הרעש קורה בכל מקום או רק בתוכנה ספציפית. הפעל קובץ שמע מקומי, לאחר מכן סרטון דפדפן ולאחר מכן אפליקציית מוזיקה. אם רק אפליקציה אחת מתפצחת, התיקון הוא הגדרות האודיו של אותה אפליקציה עצמה או עדכון, לא macOS. אם זה כלל מערכתי, השלבים שלמעלה הם המקום שבו נמצאת התשובה.</p>
+
+<p>כאשר אתה עדיין תקוע, אתחל למצב בטוח (החזק את לחצן ההפעלה בסיליקון של Apple, ולאחר מכן בחר את דיסק האתחול שלך תוך כדי לחיצה על Shift). מצב בטוח לא טוען תוספים של צד שלישי. אם האודיו נקי שם, פריט התחברות או מנהל התקן הוא הגורם, ותוכל להפעיל אותם מחדש אחד בכל פעם כדי למצוא אותו.</p>
+
+<h2>ברגע שהשמע שלך נקי</h2>
+
+<p>פיצוח הוא בעיה של דרייבר ושיעור דגימה, אז התיקונים שלמעלה הם מה שבאמת פותרים אותה. אבל ברגע שההשמעה תהיה יציבה, ייתכן שתבחין במגבלה אחרת: ל-macOS עדיין אין מערבל נפח מובנה לכל אפליקציה, כפי שיש ל-Windows. אתה לא יכול להנמיך אפליקציה רועשת בלי להנמיך הכל.</p>
+
+<p>זה הפער <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ממלא. זהו מיקסר שורת תפריטים שנותן לכל אפליקציה מחוון עוצמת הקול שלה, השתקה לכל אפליקציה ואפילו הגברת עוצמת הקול עבור אפליקציות שקטות, בתוספת החלפת פלט מהיר. זה לא יתקן פצפוצים, אבל ברגע שהשמע שלך בריא זה מקל בהרבה על השליטה היומיומית.</p>
+
+<p>עבדו על השלבים שלמעלה לפי הסדר, והתחילו עם האתחול מחדש ובדיקת קצב הדגימה. אם מאוחר יותר תרצה שליטה אמיתית לכל אפליקציה בהגדרות האודיו הנקיות שלך, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא רכישה חד פעמית של €14.99 ב-Mac App Store, בארגז חול ללא מנהלי התקנים או DMG להתקנה.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods גמגום או חיתוך ב-Mac (תיקון טאהו)",
+    description: "AirPods גמגום, ניתוק או נפילת אודיו ב-macOS Tahoe הוא כמעט תמיד הפרעה של Bluetooth או נטייה אוטומטית של מתג. הנה איך לעשות התאמה מחדש, לחתוך גודש של 2.4GHz, ולעצור את ההסרות ששוברות את ההשמעה.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>גמגום או ניתוק של AirPods ב-macOS Tahoe הוא כמעט תמיד הפרעה של Bluetooth, לא אוזניות שבורות. האשמים הרגילים הם 2.4GHz Wi-Fi וגודש נתב, החלפת מכשירים אוטומטיים אגרסיביים וצימוד מעופש. חבר מחדש את ה-AirPods, כבה את המתג האוטומטי והתרחק מערוצי 2.4GHz צפופים כדי לתקן את רוב המקרים.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods גמגום או חיתוך ב-Mac (תיקון טאהו)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע AirPods נופל על Mac ספציפית</h2>
+
+<p>AirPods משתמש ב-Bluetooth, שחולק את רצועת הרדיו הצפופה של 2.4GHz עם Wi-Fi, מיקרוגלים, התקני USB 3 וכמעט כל תקע חכם בבית שלך. ה-Mac שלך הוא רדיו עמוס: הוא מלהטט בתכונות Wi-Fi, Bluetooth, AirDrop ו-Continuity באנטנות חופפות. כאשר הלהקה הזו צפופה, אודיו של Bluetooth הוא הדבר הראשון שמגמגם, מכיוון שהוא לא יכול לסבול מנות שנפלו כמו שהעברת קבצים יכולה.</p>
+
+<p>טאהו לא החמיר את ה-AirPods שלך בצורה קסומה, אבל התקנה חדשה של macOS מאפסת לעתים קרובות את התנהגות הרדיו, מאפשרת מחדש את מסירת ה-Continuity ומנהלת משא ומתן מחדש על codec. לכן נראה שבעיות מופיעות מיד לאחר עדכון. החדשות הטובות: התיקונים מובנים היטב ובעיקר בחינם.</p>
+
+<h2>תיקון 1: התאם מחדש את ה-AirPods (עשה זאת קודם)</h2>
+
+<p>זיווג מיושן או פגום שורד אתחולים מחדש וגורם לנפילות לסירוגין שנראות אקראיות. הסר לחלוטין והוסף מחדש את החיבור:</p>
+
+<ul>
+<li>פתוח <strong>הגדרות מערכת, Bluetooth</strong>.</li>
+<li>לחץ על כפתור המידע (i) ליד ה-AirPods שלך ובחר <strong>שכח את המכשיר הזה</strong>.</li>
+<li>הכנס את ה-AirPods לתיק שלהם, סגור את המכסה, המתן 15 שניות ואז פתח אותו.</li>
+<li>החזק את הכפתור בגב המארז עד שהנורית מהבהבת בלבן.</li>
+<li>התאמה מחדש מרשימת Bluetooth.</li>
+</ul>
+
+<p>בזמן שאתה שם, ודא שהקושחה של AirPods עדכנית. אין עדכון ידני, אבל השארתם במארז ליד אייפון מחובר או Mac לזמן מה מאפשרת להם להתעדכן ברקע.</p>
+
+<h2>תיקון 2: כבה את המעבר האוטומטי</h2>
+
+<p>זהו הגורם הגדול ביותר ל"ניתוק" עבור אנשים במערכת האקולוגית של אפל. ה-AirPods שלך מנסה לעקוב אחריך בין ה-Mac, האייפון והאייפד שלך. בכל פעם שהטלפון שלך חושב שהוא צריך לתפוס אודיו, החיבור משתבש ב-Mac שלך, ומייצר נשירה של חצי שנייה באמצע הפודקאסט.</p>
+
+<ul>
+<li>ב-Mac: Bluetooth, לחץ על (i) ליד ה-AirPods, הגדר <strong>התחבר ל-Mac הזה</strong> ל <strong>מתי התחבר לאחרונה ל-Mac זה</strong> במקום אוטומטית.</li>
+<li>באייפון: הגדרות, הקש על ה-AirPods שלך, <strong>התחבר לאייפון הזה</strong>, בחר <strong>כשהתחבר לאחרונה לאייפון הזה</strong>.</li>
+</ul>
+
+<p>זה מפסיק את המשיכה בין מכשירים. אתה תבחר ידנית לאן השמע הולך, וזה מחיר קטן עבור השמעה יציבה.</p>
+
+<h2>תיקון 3: צמצם עומס של 2.4GHz</h2>
+
+<p>אם נפילות מתרחשות במהלך שיחות וידאו, הורדות או כשאנשים אחרים זורמים, רצועת הרדיו שלך רוויה. כמה מהלכים מעשיים:</p>
+
+<ul>
+<li><strong>השתמש בפס ה-Wi-Fi של 5GHz</strong> ב-Mac שלך. בהגדרות הנתב שלך, תן לרשת 5GHz שם מובהק והתחבר אליה. זה משחרר את פס 2.4GHz עבור Bluetooth.</li>
+<li><strong>הרחק את רכזות USB 3 ו-Thunderbolt</strong> מה-Mac ו-AirPods שלך. USB 3 הוא מקור רעש ידוע לשמצה של 2.4GHz; רכזת שיושבת ליד המחשב הנייד שלך יכולה להרוס את Bluetooth ממרחק של סנטימטרים.</li>
+<li><strong>שנה את ערוץ ה-2.4GHz של הנתב</strong> עד 1, 6 או 11 (האפשרויות שאינן חופפות) והימנע מערוצים צפופים שבהם נמצאים השכנים שלך.</li>
+<li><strong>שמור על קו ראייה.</strong> גופים וקירות סופגים 2.4GHz. אם ה-Mac שלך מאחוריך או בתיק, הטיפות מחמירות.</li>
+</ul>
+
+<blockquote>נתבי Wi-Fi 6E ו-Wi-Fi 7 יכולים לעזור בעקיפין: דחיפה של המכשירים שלך ל-6GHz מנקה את פס ה-2.4GHz ש-Bluetooth תלוי בו. אבל רשת מוגדרת בצורה גרועה שממשיכה להפנות אותך בחזרה ל-2.4GHz יכולה להחמיר את המצב. בדוק באיזו להקה אתה בעצם.</blockquote>
+
+<h2>תיקון 4: אפס את מחסנית Bluetooth ו-Continuity</h2>
+
+<p>אם ההתאמה מחדש לא החזיקה מעמד, אפס את מכשירי הרדיו עצמם:</p>
+
+<ul>
+<li>כבה והפעל את Bluetooth משורת התפריטים, ולאחר מכן הפעל מחדש את ה-Mac. אתחול מחדש מנקה מספר מפתיע של תקלות אודיו חולפות.</li>
+<li>אפס את ה-SMC/NVRAM במכשירי Intel Mac, או פשוט כבה לחלוטין (לא הפעל מחדש) למשך 30 שניות ב-Apple Silicon.</li>
+<li>אם אינך משתמש ב-AirDrop או ב-Handoff, השבתת Handoff בהגדרות מערכת, כללי, AirDrop &amp; Handoff מפחיתה את פטפוט הרדיו ברקע.</li>
+</ul>
+
+<h2>מה לא יתקן את זה (ומה בעצם עושה מערבל נפח)</h2>
+
+<p>כדי להיות ברור לגבי ההיקף: כל זה אינו בעיה של נפח תוכנה, ואף אפליקציית נפח לא יכולה לתקן קישור Bluetooth. אם האודיו שלך הוא <em>נשירה</em>, רדפו אחרי בעיית הרדיו למעלה. אפליקציות כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> לשלוט על עוצמת הקול, השתקה וחילופי פלט לכל אפליקציה, הם לא נוגעים בערימת Bluetooth, כך שהם לא יפסיקו לגמגם. המקום שבו מיקסר באמת עוזר הוא המטרד הסמוך שמשתמשי AirPods רבים מתערבבים עם נשירה: אפליקציה אחת מתפוצצת בעוד אחרת שקטה מדי, או צריכה לקפוץ במהירות. זו בעיה של איזון נפח, לא בעיה בחיבור.</p>
+
+<p>אבחן בכנות. אם האודיו מנותק לקצב וחוזר, זו הפרעה או מתג אוטומטי. אם הרמות פשוט לא אחידות בין אפליקציות, זו בעיית ערבוב שאתה באמת יכול לפתור בעזרת תוכנה.</p>
+
+<h2>רשימת בדיקה מהירה</h2>
+
+<ul>
+<li>שכח ותחבר מחדש את ה-AirPods.</li>
+<li>הגדר גם את Mac וגם את האייפון ל <strong>מתי התחבר לאחרונה</strong>, לא באופן אוטומטי.</li>
+<li>העבר את ה-Mac ל-5GHz Wi-Fi; הרחיקו רכזות USB 3.</li>
+<li>הגדר 2.4GHz לערוץ 1, 6 או 11.</li>
+<li>אתחול מחדש לאחר החלפת Bluetooth.</li>
+</ul>
+
+<p>ברגע שהנשירה נעלמת ואתה רק רוצה שליטה נקייה יותר על עוצמת הקול של כל אפליקציה, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מוסיף מערבל נפח מתאים לכל אפליקציה, השתקה, הגברת ומעבר פלט מהיר ש-macOS עדיין לא כולל. מדובר ברכישה חד פעמית של €14.99 ב-Mac App Store, בארגז חול, ללא מנהלי התקנים להתקנה.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "הרמקול הימני מת ב-Mac לאחר עדכון טאהו? איך לתקן את זה",
+    description: "רמקול או ערוץ אחד הפסיק לעבוד לאחר עדכון ל-macOS Tahoe? התחל עם מחוון איזון השמע, ואז אפס את Core Audio, נסה מצב בטוח ושלל חומרה. מדריך ברור לפתרון בעיות.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם הרמקול הימני שלך השתתק לאחר העדכון ל-macOS Tahoe, בדוק את האודיו <strong>מחוון איזון</strong> ראשית - הוא יכול להשתנות במהלך עדכון. עבור אל הגדרות מערכת &gt; Sound &gt; פלט וודא ש-Balance יושב במרכז ללא מוצא. אם זה בסדר, הפעל מחדש את Core Audio, אתחל למצב בטוח ואז שלל חומרה. רוב המקרים הם תוכנה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — הרמקול הימני מת ב-Mac לאחר עדכון טאהו? איך לתקן את זה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ראשית: מחוון האיזון (מתקן זאת לעתים קרובות יותר ממה שאתה חושב)</h2>
+
+<p>מחוון איזון תקוע או הוסט הוא הסיבה הנפוצה ביותר לכך שערוץ אחד משתתק - ועדכוני macOS מדי פעם דוחפים אותו. לפני שאתה מניח את הגרוע מכל:</p>
+
+<ul>
+<li>פתוח <strong>הגדרות מערכת &gt; צליל</strong>.</li>
+<li>לחץ על <strong>פלט</strong> לשונית ובחר את הרמקולים שלך (מובנים, או המכשיר החיצוני שלך).</li>
+<li>מצא את <strong>איזון</strong> המחוון וגרור אותו למרכז המדויק. אם הוא היה נמשך שמאלה, הערוץ הימני שלך היה נשמע מת.</li>
+</ul>
+
+<p>תעשה את זה <em>לכל התקן פלט</em>. הגדרת האיזון זכורה בנפרד עבור רמקולים מובנים, אוזניות וכל ממשק חיצוני - כך שאיזון מובנה ממורכז לא יעזור אם הבעיה היא ב-USB DAC שלך.</p>
+
+<h2>בדוק אם זה באמת ערוץ חומרה</h2>
+
+<p>שלט את החומרה פנימה או החוצה במהירות. הפעל רצועת סטריאו שאתה מכיר היטב, ואז חבר זוג אוזניות חוטיות. אם שני הערוצים עובדים באוזניות אך לא דרך הרמקולים, הבעיה היא במורד מנוע השמע (חומרת הרמקולים או נתיב הפלט). אם אותו ערוץ מת גם באוזניות, סביר יותר שמדובר בתוכנה או בקודק האודיו של הלוח הלוגי.</p>
+
+<p>אפשר גם לפתוח <strong>מוזיקה</strong> או QuickTime, הפעל משהו, והחלף את האיזון חזק שמאלה, ואז חזק ימינה. אם השמע עובר בצורה נקייה בין הערוצים, שני הרמקולים חיים וזוהי אך ורק בעיית הגדרות.</p>
+
+<h2>הפעל מחדש את Core Audio</h2>
+
+<p>מסלולי macOS כולם נשמעים דרך <strong>coreaudid</strong> תהליך. לאחר עדכון גדול, המצב שלו יכול להיתקע - הפלטים נעלמים, הערוצים יורדים או עוצמת הקול מתנהג בצורה מוזרה. הפעלה מחדש בטוחה ומאלצת את macOS לבנות מחדש את גרף האודיו:</p>
+
+<ul>
+<li>פתוח <strong>Terminal</strong> (אפליקציות &gt; Utilities).</li>
+<li>הרץ: <code>sudo killall coreaudiod</code></li>
+<li>הזן את הסיסמה שלך. דמון האודיו מופעל מחדש באופן אוטומטי תוך שנייה או שתיים.</li>
+</ul>
+
+<p>שום דבר לא נמחק - זה רק מאתחל את תת-מערכת השמע. בדוק שוב את הרמקול הימני שלך מיד לאחר מכן.</p>
+
+<h2>הפעל מחדש כראוי, ולאחר מכן נסה מצב בטוח</h2>
+
+<p>הפעלה מחדש מלאה מנקה תקלות אודיו חולפות ש-killall לא יעשה. אם הערוץ עדיין מת, אתחל לתוך <strong>מצב בטוח</strong>, אשר טוענת מערכת מינימלית ומדלגת על הרחבות שמע ופריטי כניסה של צד שלישי:</p>
+
+<ul>
+<li><strong>סיליקון תפוח:</strong> סגור. החזק את לחצן ההפעלה עד להופעת "טעינת אפשרויות אתחול". בחר את הדיסק שלך ולאחר מכן החזק <strong>Shift</strong> ולחץ על "המשך במצב בטוח".</li>
+<li><strong>אינטל:</strong> הפעל מחדש והחזק <strong>Shift</strong> עד להופעת חלון הכניסה.</li>
+</ul>
+
+<p>אם שני הרמקולים פועלים במצב בטוח, מנהל התקן אודיו של צד שלישי, מכשיר וירטואלי או כלי שירות בשורת התפריטים שהותקנו לפני העדכון מתנגשים עם ערימת האודיו החדשה של Tahoe. אתחול חזרה למצב רגיל והסר או עדכן תוכנת שמע שהותקנו לאחרונה (מקליטי מסך, אפליקציות פגישות ו-kexts לניתוב אודיו הם אשמים נפוצים).</p>
+
+<h2>אפס NVRAM (רק Intel Macs)</h2>
+
+<p>במחשבי Intel Mac, הגדרות הסאונד והרמקול פועלות ב-NVRAM/PRAM, וערך מיושן יכול לשרוד עדכון. אפס אותו: כבה, ולאחר מכן הפעל והחזק מיד <strong>Option + Command + P + R</strong> למשך כ-20 שניות, נותנים ל-Mac להפעיל מחדש פעם אחת. זה לא חל על Apple Silicon Macs - הם מנהלים את זה באופן אוטומטי, אז דלג על זה אם אתה על מכונה מסדרת M.</p>
+
+<h2>עדכן שוב - ובדוק אם יש שחרור נקודתי</h2>
+
+<p>מהדורות מוקדמות של כל גרסה גדולה של macOS מגיעות עם באגים של מנהלי התקן אודיו שמתוקנים מאוחר יותר. פנה אל <strong>הגדרות מערכת &gt; עדכון תוכנה כללי &gt;</strong> ולהתקין כל שחרור נקודת טאהו ממתין (14.x.1, 14.x.2 וכו'). אם קיים עדכון משלים, לעתים קרובות הוא מתייחס בדיוק לרגרסיות האודיו שלאחר העדכון הללו.</p>
+
+<h2>כשזה באמת חומרה</h2>
+
+<p>אם מצב בטוח, הפעלה מחדש של Core Audio והתקנה מחדש נקייה כולם נכשלים - ואותו ערוץ מת באוזניות - ייתכן שאתה מסתכל על תקלת חומרה. העיתוי עם עדכון יכול להיות מקרי; מגברי רמקולים וקודקים שמע אכן נכשלים. רוץ <strong>אבחון אפל</strong> (כבה, ואז החזק את לחצן ההפעלה ב-Apple Silicon ובחר אבחון, או החזק <strong>ד</strong> על אינטל בעת ההפעלה). אם הוא מסמן רכיב שמע, צור קשר <strong>תמיכה של אפל</strong> או ספק שירות מורשה. אל תוציא כסף על תוכנה לרמקול מפוצץ.</p>
+
+<blockquote>כלל אצבע מהיר: אם אודיו עובר בצורה נכונה עם מחוון האיזון, שני הרמקולים תקינים פיזית והתיקון שלך נמצא בתוכנה. אם הוא אף פעם לא זז לצד המת, חשוד בחומרה.</blockquote>
+
+<h2>היכן מתאימה תוכנת נפח (והיכן היא לא)</h2>
+
+<p>שיהיה ברור: ערוץ רמקול מת הוא לא משהו שאפליקציית עוצמת הקול מתקנת - הבדיקות למעלה הן הדרך שלך. עם זאת, ברגע שהאודיו שלך שוב בריא, ל-macOS עדיין חסר משהו שהיה ל-Windows במשך שנים: מערבל נפח אמיתי לכל אפליקציה. אם מצאתם את עצמכם חופרים בהגדרות הסאונד כי אפליקציה אחת התפוצצה בעוד אחרת הייתה שקטה מדי, מיקסר שורת תפריט כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מאפשר לך להגדיר עוצמת קול עצמאית, להשתיק ואפילו להגביר לכל אפליקציה מבלי לגעת באיזון המערכת שלך. זהו כלי נוחות לערבוב יומיומי, לא תיקון לבעיה במאמר זה.</p>
+
+<h2>הגרסה הקצרה</h2>
+
+<ul>
+<li>מרכז את <strong>איזון</strong> מחוון - לכל התקן פלט.</li>
+<li>בדוק עם אוזניות כדי לבודד חומרה.</li>
+<li>רוץ <code>sudo killall coreaudiod</code>, ואז הפעל מחדש.</li>
+<li>נסה <strong>מצב בטוח</strong> לתפוס קונפליקטים בין נהגים.</li>
+<li>אפס NVRAM על Intel; להתקין כל מהדורת נקודת Tahoe.</li>
+<li>עדיין מת באוזניות? הפעל את אבחון אפל והתקשר לאפל.</li>
+</ul>
+
+<p>ברגע שהרמקולים שלך יחזרו למצב רגיל, אם להטוטן בעוצמת הקול לכל אפליקציה הוא מטרד יומיומי, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מוסיף שהמיקסר macOS תמיד היה חסר - 14.99 אירו, חד פעמי, בארגז חול, ללא דרייברים.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods תקוע בחצי ווליום ב-Mac שלך? הנה התיקון",
+    description: "מדוע AirPods מתחבר ל-Mac שלך בחצי ווליום - בדרך כלל מתג codec Bluetooth לפרופיל המיקרופון ללא ידיים - בנוסף לתיקוני ההתאמה מחדש וכיצד להגביר את הרמה לתמיד.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>AirPods בדרך כלל יורדת לחצי עוצמת הקול ב-Mac מכיוון ש-macOS העביר אותם מפרופיל השמע האיכותי A2DP לפרופיל הדיבורית (HFP) באיכות נמוכה - זה שנבנה לשימוש במיקרופון לשיחות טלפון. מצב זה מגביל את התפוקה והאיכות. תקן את זה על ידי כפיית ה-Mac חזרה לאודיו באוזניות בלבד, ואז הגביר את הרמה כדי לשמור אותו שם.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods תקוע בחצי ווליום ב-Mac שלך? הנה התיקון" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>למה זה קורה: מתג ה-Codec</h2>
+
+<p>התקני שמע Bluetooth כמו AirPods פועלים באחד משני מצבים. כשאתה רק מקשיב, macOS משתמש ב-A2DP - סטריאו מלא, עוצמה מלאה, איכות נקייה. אבל ברגע שאפליקציה רוצה את המיקרופון שלך, macOS מעביר את כל החיבור ל-HFP (פרופיל דיבורית). HFP הוא קודק טלפוניה דו-כיווני. זה נשמע דק, מונו-איי ושקט יותר באופן ניכר, מכיוון שהוא תוכנן לשיחות קוליות, לא למוזיקה.</p>
+
+<p>הבעיה היא שלעתים קרובות macOS נשאר תקוע ב-HFP גם לאחר שהאפליקציה שתפסה את המיקרופון מסתיימת - או עוברת אליה ברגע שאתה פותח את Zoom, FaceTime, Teams, Discord, או לשונית דפדפן עם הרשאת מיקרופון. אז ה-AirPods שלך נשמעים כאילו הם ב"חצי ווליום" לא בגלל שמחוון הווליום זז, אלא בגלל שכל פרופיל האודיו השתדרג מתחתיך.</p>
+
+<p>אתה תזהה את זה: השמע פתאום נהיה שקט ועמום, ה-AirPods מופיע פעמיים בהגדרות הסאונד שלך (פעם אחת כפלט, פעם אחת כמיקרופון), והגברת עוצמת הקול של המערכת בקושי עוזרת.</p>
+
+<h2>ההתאמה מחדש וה-Codec עקיפת הבעיה</h2>
+
+<p>אלו הם הצעדים הראשונים והכנים. עבדו עליהם לפי הסדר - אחד המוקדמים בדרך כלל מנקה את זה.</p>
+
+<ul>
+<li><strong>שנה את התקן הקלט שלך.</strong> פתח את הגדרות מערכת ← צליל ← קלט ובחר את המיקרופון המובנה של Mac במקום AirPods. זה מונע מ-macOS להחזיק את ה-AirPods במצב HFP, כך שהפלט יכול לטפס בחזרה לאיכות A2DP מלאה. זהו התיקון היעיל ביותר.</li>
+<li><strong>כבה והפעל את Bluetooth.</strong> איפוס מהיר של החיבור לעתים קרובות מנהל משא ומתן מחדש על A2DP בצורה נקייה, במיוחד אם ה-AirPods נתקע לאחר שהשיחה הסתיימה.</li>
+<li><strong>חבר מחדש את ה-AirPods.</strong> סגור את המארז, המתן מספר שניות, פתח אותו מחדש ליד ה-Mac ובחר אותם מחדש כהתקן הפלט.</li>
+<li><strong>צא מהאפליקציה שתפסה את המיקרופון.</strong> צא לגמרי מ-Zoom, Teams, Discord או כרטיסיית הדפדפן הזו. אפליקציות מסוימות מחזיקים את הפעלת המיקרופון פתוחה ברקע ומצמידים את HFP עד שהם נעלמים.</li>
+<li><strong>תקן מחדש מאפס.</strong> הסר את ה-AirPods תחת הגדרות מערכת ← Bluetooth (לחץ על כפתור המידע ← שכח את ההתקן הזה), ולאחר מכן התאם שוב. זה מנקה משא ומתן עם פרופיל פגום שהחלפה לבדה לא תפתור.</li>
+<li><strong>אפס את ה-AirPods.</strong> כשהם במכסה המארז פתוחים, החזק את לחצן ההגדרה מאחור עד שהנורית תהבהב בצבע ענבר ואז לבן. התאם מחדש לאחר מכן. זו האופציה הגרעינית עבור מוזרויות ברמת הקושחה.</li>
+<li><strong>עדכן את הקושחה macOS ו-AirPods.</strong> אפל שלחה תיקוני אודיו Bluetooth במהדורות נקודתיות. קושחה AirPods מתעדכנת בשקט כשהן נטענות ליד מכשיר מחובר - אז השאר אותן במארז ליד ה-Mac שלך למשך הלילה.</li>
+</ul>
+
+<blockquote><p>הדפוס לצפייה: אם עוצמת הקול יורדת ברגע שאתה מצטרף לשיחה ומתאוששת כשהשיחה מסתיימת, זה מתג HFP - לא רמקול שבור או תקלה בהגדרות.</p></blockquote>
+
+<h2>מדוע התיקונים לא תמיד נדבקים</h2>
+
+<p>הנה החלק המתסכל. גם לאחר ההתאמה מחדש, macOS יעביר בשמחה את ה-AirPods שלך בחזרה למצב דיבורית שקט בפעם הבאה שאפליקציה כלשהי נוגעת במיקרופון. אתה לא יכול לבטל את ההתנהגות הזו לצמיתות בהגדרות המערכת - אפל מתייחסת לזה כאל אוטומטי. אז בסופו של דבר אתה עושה מחדש את הטריק של מכשיר הקלט כמה פעמים ביום, ובכל רגע שה-AirPods שלך נמצאים בשיחה או באפליקציה שרעבה למיקרופון, הם שוב מוגפים ברמה הנמוכה הזו.</p>
+
+<p>יש גם בעיה שנייה, נפרדת שאנשים מתערבבים עם זה: חלק מהאפליקציות פשוט שקטות יותר מאחרות בעוצמת הקול המקסימלית של המערכת. נגן פודקאסט או כרטיסיית דפדפן יכולים לשבת הרבה מתחת למה שהאוזניים שלך רוצות, גם כאשר ה-AirPods פועל A2DP נקי. macOS נותן לך מחוון עוצמת הקול אחד לכל דבר וללא שליטה לכל אפליקציה, כך שאין דרך מקורית לדחוף אפליקציה שקטה אחת לגבה.</p>
+
+<h2>הגבר את הרמה בחזרה למעלה - והשאר אותה שם</h2>
+
+<p>זה המקום שבו מערבל נפח לכל אפליקציה מקבל את מקומו. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא אפליקציית שורת תפריטים עבור macOS המעניקה לכל אפליקציה פועלת מחוון נפח עצמאי משלה - כולל חיזוק מעל 100%. אז כאשר ה-AirPods שלך חוזר משיחה ברמה אפקטיבית נמוכה יותר, או שאפליקציה ספציפית פשוט שקטה מדי, אתה גורר את האפליקציה מעבר לתקרה הרגילה והיא נשארת שם.</p>
+
+<p>באופן קונקרטי, זה אומר:</p>
+
+<ul>
+<li><strong>הגברת נפח לכל אפליקציה.</strong> דחוף אפליקציה שקטה מעל למקסימום הסטנדרטי במקום להתאמץ לשמוע אותה בווליום מערכת "מלא".</li>
+<li><strong>פרופילי נפח.</strong> שמור קבוצה של רמות - דפדפן משופר, מוזיקה רכה יותר, שיחות וידאו רועשות - והחלף את כל הסידור בלחיצה אחת כדי שלא תתכוונן מחדש לאחר כל חיבור מחדש.</li>
+<li><strong>מיתוג פלט מהיר.</strong> קפוץ בין AirPods, רמקולים למחשב נייד ו-DAC חיצוני מסרגל התפריטים מבלי לחפור בהגדרות מערכת, מה שעוזר כאשר אתה כופה משא ומתן חדש על פרופיל.</li>
+<li><strong>השתקה ושחרור אוטומטי לכל אפליקציה.</strong> השתק אפליקציה אחת מבלי לגעת בשאר, ואפשר למדיה לצלול אוטומטית כשמשהו חשוב יותר מתנגן.</li>
+</ul>
+
+<p>כדאי להיות ברור מה זה עושה ומה לא עושה. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> לא יאלץ את macOS להישאר ב-A2DP - הטריק של התקן קלט למעלה הוא עדיין הכלי שלך עבור ה-codec עצמו. מה שהוא עושה זה להחזיר לך את העוצמה שהשדרוג לאחור גנב, לכל אפליקציה, כך שהפעלה שקטה של ​​AirPods או אפליקציה רכה בעקשנות היא תיקון בגרירה אחת במקום סיבה אבוד. ומכיוון שמדובר באפליקציית Mac App Store עם ארגז חול, אין מנהל התקן שמע להתקנה, אין DMG, אין סיומת ליבה - היא פשוט פועלת.</p>
+
+<h2>הגרסה הקצרה</h2>
+
+<p>אם ה-AirPods שלכם נשמעים שקטים ומעומעמים ב-Mac שלכם, כבו את התקן הקלט שלכם ב-AirPods כדי לאלץ אותם לצאת ממצב דיבורית, והתאמו מחדש אם זה נכשל. כאשר הרמה עדיין לא תגיע לאן שאתה רוצה אותה - או שאפליקציה בודדת היא פשוט רכה מדי - הגע לחיזוק לכל אפליקציה כדי להגדיר אותה פעם אחת ולהמשיך הלאה.</p>
+
+<p>נמאס לך להילחם במחוון עוצמת הקול בכל פעם שאתה מקבל שיחה? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 יורו חד פעמי, ללא מנוי, ללא דרייברים - ולתת לכל אפליקציה נפח משלה.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "ווליום Mac ממשיך לאפס את עצמו בטאהו? איך לנעול אותו לתמיד",
+    description: "מאז macOS Tahoe, הרבה Macs פתאום משנים או מאפסים את עוצמת הקול שלהם בעצמם. הנה למה זה קורה, איך לעצור את הסיבות המובנות, וכיצד לנעול נפח קבוע לכל אפליקציה כדי שהיא תישאר במקום.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם עוצמת הקול של ה-Mac שלך ממשיכה לאפס את עצמה מאז macOS Tahoe, התיקון הוא לבטל את הכוונונים האוטומטיים: השבת את דליפת השמע ו"השמע קול בעת ההפעלה", אפס את הגדרות הסאונד וחבר מחדש כל פלט Bluetooth בצורה נקייה. עבור רמות לכל אפליקציה שמקפיצות מסביב, נעל נפח קבוע לכל אפליקציה עם מיקסר כך שהיא לעולם לא תיסחף שוב.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — עוצמת הקול Mac ממשיכה לאפס את עצמה בטאהו? איך לנעול אותו לתמיד" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע עוצמת הקול שלך משתנה מעצמה לאחר טאהו</h2>
+
+<p>ווליום שזז מבלי שתגע בו מרגיש כמו תקלת חומרה, אבל זו כמעט תמיד התוכנה שמחליטה עבורך את הרמה שלך. ל-macOS יש כמה התנהגויות אוטומטיות שדוחפות או מאפסות את הפלט בשקט, ושינויי ערימת האודיו של Tahoe הפכו כמה מהן לבולטות יותר. לפני שאתה מניח שהאפליקציה או ה-Mac מקולקלים, זה עוזר לדעת בדיוק איזו מערכת תופסת את המחוון.</p>
+
+<ul>
+<li><strong>אודיו דאקינג:</strong> macOS מנמיך אודיו אחר כאשר הוא חושב שמשהו חשוב יותר מתנגן (Siri, הודעות נגישות, התראות). לאחר שההדק מסתיים, הרמה לפעמים לא חוזרת עד הסוף.</li>
+<li><strong>Bluetooth איפוס לחיצת יד:</strong> AirPods והתקני Bluetooth אחרים מנהלים משא ומתן מחדש על עוצמת הקול בחיבור. חיבור מחדש באמצע הסשן יכול להצמיד את הפלט לברירת מחדל או לרמה הרבה יותר רועשת/שקטה.</li>
+<li><strong>החלפת התקן פלט:</strong> כאשר אתה מנתק אוזניות, עגינה או עובר לרמקולים של צג, כל פלט זוכר את הווליום שלו. מעבר קדימה ואחורה נראה כמו איפוסים "אקראיים".</li>
+<li><strong>ברירת מחדל לכל אפליקציה:</strong> אפליקציות מסוימות (דפדפנים, נגני וידאו, כלי שיחות ועידה) מגדירים רווח משלהם בעת ההשקה או כשמתחיל זרם חדש, ומעקפים את כל מה שהיה לך.</li>
+<li><strong>צליל הפעלה ומצב כניסה:</strong> פעמון האתחול והכניסה יכולים לדחוף את עוצמת הקול של המערכת בחזרה לרמת ברירת המחדל שלא בחרת.</li>
+</ul>
+
+<h2>תחילה תקן את הסיבות המובנות</h2>
+
+<p>עבדו על אלה לפי הסדר. רוב התלונות של "מאפס את עצמו" נעלמות ברגע שההתכווצות וה-Bluetooth נשללות.</p>
+
+<ul>
+<li><strong>כבה את צליל האתחול.</strong> הגדרות מערכת ← צליל ← בטל את הסימון <em>השמע צליל בעת ההפעלה</em>. זה מונע מפעמון האתחול לאפס את רמת הבסיס שלך.</li>
+<li><strong>צמצם או השבת את טריגרים של דאקינג.</strong> בהגדרות מערכת ← נגישות ← תוכן מדובר ו-Siri, כבה הודעות מדוברות שאינך צריך. פחות טריגרים פירושם פחות רגעים שבהם macOS מוריד את השמע ושוכח לשחזר אותו.</li>
+<li><strong>התאמה מחדש של התקני Bluetooth בעייתית.</strong> הסר את AirPods או אוזניות מהגדרות Bluetooth וזוג אותם מחדש. פרופיל מיושן הוא גורם שכיח להפסקת עוצמת הקול בעת חיבור.</li>
+<li><strong>הגדר כל התקן פלט בכוונה.</strong> חבר כל פלט שבו אתה משתמש (מובנה, צג, אוזניות) וקבע את עוצמת הקול שלו פעם אחת. macOS מאחסן נפח לכל מכשיר, כך שהגדרת כולם מסירה את ההפתעה כאשר אתה מחליף.</li>
+<li><strong>אפס את Core Audio אם הוא תקוע.</strong> פתח את Terminal והפעל <code>sudo killall coreaudiod</code>. זה מפעיל מחדש את דמון האודיו ללא אתחול מחדש ומנקה מצב תלוי שעלול לגרום לרמות לא יציבות.</li>
+<li><strong>עדכן ואז הפעל מחדש.</strong> נקודת טאהו מוקדמת משחררת תיקוני אודיו שנשלחו. ודא שאתה בגירסה האחרונה ואתחל מחדש פעם אחת לאחר העדכון.</li>
+</ul>
+
+<p>אם האיפוסים מפסיקים, אחד מהדברים לעיל היה האשם שלך. אם שלך <em>מערכת</em> עוצמת הקול יציבה אבל אפליקציות בודדות ממשיכות להיסחף חזק יותר או שקט יותר מכל דבר אחר, הגעת לגבול של מה שהפקדים המובנים יכולים לעשות.</p>
+
+<h2>הפער האמיתי: macOS לא יכול לנעול נפח לכל אפליקציה</h2>
+
+<p>הנה החלק המתסכל. ל-Windows היה מערבל נפח לכל אפליקציה במשך שנים - אתה פותח אותו, גורר את המחוון של אפליקציה אחת, והוא נשאר שם. macOS מעולם לא שלח אחד. יש בדיוק מחוון עוצמת הקול של המערכת, וכל אפליקציה נלחמת על זה. אז כשכרטיסיית דפדפן מפיצה מודעת הפעלה אוטומטית או שיחת וידאו מגיעה בקול רם פי שניים מהמוזיקה שלך, האפשרות היחידה שלך היא לרכוב על עוצמת הקול הראשית באופן ידני - שזו בעצם הלולאה "למה זה ממשיך להשתנות" שאתה מנסה לברוח ממנה.</p>
+
+<blockquote>מחוון המערכת הוא חוגה יחידה משותפת. ללא מיקסר לכל אפליקציה, "הגדר אותו ותשכח מזה" הוא בלתי אפשרי במלאי macOS - משהו תמיד יעקוף אותך.</blockquote>
+
+<h2>נעל נפח קבוע לכל אפליקציה עם SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מוסיף את המיקסר לכל אפליקציה macOS חסר. הוא חי בשורת התפריטים שלך ונותן לכל אפליקציה פועלת מחוון עוצמת הקול שלה, ללא תלות במאסטר. מכיוון שהוא זוכר את הרמה שהגדרת עבור כל אפליקציה, הוא פותר ישירות את בעיית ה"מאפס את עצמו": אתה מחליט פעם אחת, והאפליקציה הזו נפתחת בווליום הזה בכל פעם.</p>
+
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה:</strong> שמור על מוזיקה ב-40% ושיחת וידאו ב-80% בו-זמנית, ללא ג'אגלינג בין ראשי-מחוון.</li>
+<li><strong>השתקה והגברה לכל אפליקציה:</strong> השתיק אפליקציה רועשת באופן מיידי, או דחוף אפליקציה שקטה מדי מעבר ל-100% כשהשמע שלה חלש.</li>
+<li><strong>פרופילי נפח:</strong> שמור הגדרות עבור "עבודה", "משחקים" או "פוקוס" והחלף את כל התמהיל בלחיצה אחת.</li>
+<li><strong>שקט אוטומטי בתנאים שלך:</strong> הורדת אפליקציות רקע אוטומטית כשאתה מדבר או כאשר אפליקציה נבחרת פעילה - במקום ש-macOS יחליט.</li>
+<li><strong>מיתוג פלט מהיר:</strong> לקפוץ בין רמקולים, אוזניות וניטור אודיו מסרגל התפריטים מבלי לצלול להגדרות.</li>
+</ul>
+
+<p>מדובר ברכישה חד פעמית של €14.99 מה-Mac App Store - ללא מנוי, ללא מנהלי התקנים, ללא DMG וללא הרחבות ליבה. מכיוון שהוא בארגז חול מלא ומופץ App Store, אתה לא מתקין קובץ שמע מדור קודם ש-Tahoe עשוי לחסום בעדכון הבא. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מגדיר את הרמות שלך באמצעות ממשקי API נתמכים, כך שהנפחים הזכורים שלך ישרדו עדכונים ואתחול מחדש.</p>
+
+<h2>איזו גישה בעצם אתה צריך?</h2>
+
+<p>אם כל עוצמת הקול של המערכת שלך קופצת, התחל עם התיקונים המובנים שלמעלה - Ducking, Bluetooth וחשבון צליל האתחול ברוב המקרים. אם במקום זאת הבעיה היא שאפליקציה אחת היא תמיד המוזרה, או שנמאס לך שהמחוון הראשי הוא פשרה, מערבל לכל אפליקציה הוא התשובה האמיתית היחידה. macOS לא יוסיף אחד, כך שכלי שורת תפריטים הוא המסלול המעשי לתערובת שבאמת נשארת במקום שאתה שם אותו.</p>
+
+<p>נמאס לך לרדוף אחרי מחוון הווליום בטאהו? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> ולנעול נפח זכור עבור כל אפליקציה - 14.99 יורו פעם אחת, ללא מנויים, ללא דרייברים.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "שלוט בעוצמת השמע של צג DAW בנפרד מאודיו של המערכת ב-Mac",
+    description: "ל-macOS אין מערבל עוצמת קול מובנה לכל אפליקציה, כך שצלילי ה-DAW והמערכת שלך חולקים רמה אחת. הנה איך לשלוט בעוצמת הצג Logic, Ableton או GarageBand באופן עצמאי מהדפדפן ומההתראות שלך.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>ל-macOS אין מערבל נפח מובנה לכל אפליקציה, כך שה-DAW שלך וכל השאר חולקים מחוון מערכת אחד. כדי להגדיר את רמת הצג שלך ללא תלות מדפדפנים, Slack והודעות, אתה צריך בקרת עוצמת הקול לכל אפליקציה. מיקסר בר תפריט כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נותן ל-Logic, Ableton ו-GarageBand עוצמת קול משלהם, בנפרד מאודיו של המערכת.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — שלוט בעוצמת הצג שלך ב-DAW בנפרד מאודיו של המערכת ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע מחוון עוצמת הקול הורס את הניטור שלך</h2>
+
+<p>כשאתה מפיק, ה-DAW שלך הוא רק אחד מהרבה דברים שמשמיעים קול. רצועת עיון מושמעת בכרטיסיית דפדפן. פינגים של Slack מגיעים. מדריך YouTube פועל על צג שני. ב-Windows, מיקסר הווליום מאפשר לך לאזן את כל אלה באופן עצמאי. ב-macOS, אפל מעולם לא שלחה מקבילה - מקשי עוצמת הקול ומחוון שורת התפריטים זזים <em>הכל</em> בבת אחת.</p>
+
+<p>זה יוצר בעיה אמיתית לכל מי שמתערבב לפי אוזן. אתה מחייג לרמת ניטור נוחה ב-Logic, ואז חודרת התראה באותה רמה ומפוצצת את האוזניים שלך. או שאתה מנמיך את המערכת כדי להגן על השמיעה שלך במהלך מעבר חזק, ועכשיו מסלול ההתייחסות שלך שקט מכדי להשוות מולו. התייחסות הניטור שלך כבר לא יציבה, והתייחסות יציבה היא כל העניין של ערבוב.</p>
+
+<blockquote>ניטור ברמה עקבית הוא אחד ההרגלים הבודדים שמשפרים באופן מדיד את התערובות שלך. אם צלילי המערכת ממשיכים לאלץ אותך להזיז את המחוון הראשי, אתה מאבד את העקביות הזו.</blockquote>
+
+<h2>מה בעצם אומר "נפח DAW נפרד".</h2>
+
+<p>יש כאן שני דברים שונים שמצרפים מערבבים, וכדאי להפריד ביניהם:</p>
+
+<ul>
+<li><strong>ממשק / רמת פלט מאסטר</strong> - כפתור החומרה בממשק השמע שלך או בבקר הצג שלך. זה מגדיר את עוצמת ההאזנה המוחלטת שלך וצריך להישאר במקום לאחר כיול.</li>
+<li><strong>נפח תוכנה לכל אפליקציה</strong> - עד כמה כל אפליקציה רועשת <em>לפני</em> זה מגיע לפלט הזה. זה מה שחסר ל-macOS. זה מאפשר לך לשמור על ה-DAW באחדות תוך הפחתת צלילי Chrome, מוזיקה או התראות לגובה המיטה מתחתיו.</li>
+</ul>
+
+<p>אתה רוצה את השני. המטרה היא לא להנמיך את ה-DAW שלך - זה להנמיך את כל השאר ביחס אליו, כך שה-DAW נשאר המקור הכי חזק והכי עקבי שלך והסחות הדעת יושבות בשקט ברקע.</p>
+
+<h2>איך לעשות את זה עם מיקסר לכל אפליקציה</h2>
+
+<p>מיקסר תפריט בר כגון <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מפרטת כל אפליקציה שמנגנת אודיו כרגע ונותנת לכל אחת את המחוון שלה. זרימת העבודה של מפיק נראית כך:</p>
+
+<ul>
+<li><strong>כייל את הממשק שלך פעם אחת.</strong> הגדר את ממשק השמע או את בקר הצג שלך לרמת ייחוס נוחה שניתן לחזור עליה ועזוב אותה. זה העוגן הקבוע שלך.</li>
+<li><strong>הגדר את ה-DAW שלך ל-100%.</strong> במיקסר, השאר את Logic, Ableton או GarageBand בנפח תוכנה מלא כך שהוא יעבור באחדות. הפיידר המאסטר של ה-DAW שלך עדיין עושה את המיקס המשובח.</li>
+<li><strong>משוך את כל השאר למטה.</strong> זרוק את Chrome, Safari, Music ו-Slack לרמה נמוכה יותר - נגיד 40-60% - כך שרצועות הפניה והודעות יושבות מתחת למיקס שלך במקום להתחרות בו.</li>
+<li><strong>השתיק את הדברים הרועשים.</strong> השתקה לכל אפליקציה מאפשרת לך להשתיק דפדפן או אפליקציית צ'אט לחלוטין מבלי לגעת בשרשרת הניטור שלך. קליק אחד, וה-DAW שלך ממשיך לשחק ללא נגיעה.</li>
+</ul>
+
+<p>מכיוון שהמחוון של DAW לעולם אינו זז, התייחסות הניטור שלך נשארת מוצקה לאורך הפעלה שלמה. אתה יכול לסובב רצועת רפרנס עבור A/B מהיר, ואז להשתיק אותו, ורמת המיקס שלך לא זזה בדציבלים.</p>
+
+<h2>חיזוק אפליקציה שקטה במקום לדחות אחרים</h2>
+
+<p>לפעמים הבעיה פועלת לכיוון השני. הקפצת הדגמה גסה, תזכורת קולית או הפניה שקטה מושמעת הרבה מתחת לרמת ההפעלה שלך. הגדלת הממשק שלך כדי לשמוע את זה אומר שכל השאר עכשיו רועש מדי. לכל אפליקציה <strong>הגברת נפח</strong> מאפשר לך לדחוף אפליקציה אחת שקטה מעל 100% כך שתתאים לרמת העבודה שלך - מבלי לגעת בפלט המכויל שלך. זה היצירה של המיקסר של Windows שמעולם לא היה ואחד הכלים היותר שימושיים כשאתה בודק חומר מחוץ ל-DAW שלך.</p>
+
+<h2>פרופילים עבור סוגי הפעלות שונים</h2>
+
+<p>האיזון האידיאלי שלך אינו זהה עבור כל משימה. מעקב, מיקס והאזנה סתמית כל אחד רוצה שילוב שונה של רמות אפליקציה. פרופילי עוצמת הקול מאפשרים לך לשמור הגדרה ולהיזכר בה באופן מיידי:</p>
+
+<ul>
+<li><strong>ערבוב:</strong> DAW ב-100%, דפדפן ומוזיקה נמוכים, הצ'אט מושתק.</li>
+<li><strong>האזנה לעיון:</strong> אפליקציית מוזיקה או סטרימינג למעלה, DAW למטה.</li>
+<li><strong>שיחות/שיתוף פעולה:</strong> אפליקציית ועידות למעלה, DAW נסוגה לאחור כדי שלא ידמם לתוך השיחה.</li>
+</ul>
+
+<p>החלפת פרופילים מנצחת כוונון ידני של חמישה מחוונים בכל פעם שאתה מחליף הילוך.</p>
+
+<h2>ביטול אוטומטי והחלפת פלט מהירה</h2>
+
+<p>עוד שני דברים חשובים בסטודיו. <strong>ברווז אוטומטי</strong> יכול לטבול אוטומטית אפליקציות רקע כאשר מקור מועדף מדבר או מתנגן, כך ששיחה או אודיו חשוב תמיד חותכים. ו <strong>החלפת פלט מהירה</strong> מסרגל התפריטים מאפשר לך לדלג בין הממשק, המסכים והאוזניות שלך מבלי לחפור בהגדרות מערכת - משימה קבועה כשאתה בודק מיקס במערכות שונות.</p>
+
+<h2>למה לא מנהל התקן שמע וירטואלי?</h2>
+
+<p>כמה כלי ניתוב פותרים זאת על ידי התקנת מנהל התקן שמע וירטואלי ברמת ליבה. אלה חזקים אך כבדים: הם יכולים להישבר לאחר עדכוני macOS, להוסיף זמן אחזור ולדרוש הרשאות מערכת עמוקות. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נמצא בארגז חול ונשלח דרך ה-Mac App Store - ללא מנהלי התקנים, ללא DMG, ללא הגדרות של מכשיר מצטבר. עבור שליטה ברמת אפליקציה ספציפית, זה נתיב הרבה יותר פשוט מאשר תכנון מחדש של ניתוב האודיו שלך.</p>
+
+<p>מוכן לשמור על רמת הניטור שלך יציבה בזמן שכל השאר נשאר במקומו? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> תמורת 14.99 אירו חד פעמי ותן ל-DAW שלך נפח משלו.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "אלטרנטיבה פשוטה יותר של Audio Hijack עבור נפח לכל אפליקציה ב-Mac",
+    description: "אם אתה רוצה רק נפח עצמאי לכל אפליקציה ב-macOS, Audio Hijack הוא מוגזם. הנה חלופה קלה יותר וזולה יותר לשורת תפריטים שעושה עוצמת קול לכל אפליקציה, משתקת ומגבירה ללא ניתוב אודיו.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם כל מה שאתה רוצה זה נפח עצמאי לכל אפליקציה ב-macOS, Audio Hijack הוא יותר כלי ממה שאתה צריך. זוהי חבילת ניתוב והקלטה מקצועית (בסביבות $79) שנבנתה ללכידה, אפקטים וגרפים של הפעלה. פשוט להנמיך אפליקציה אחת ולעלות אחרת, מיקסר שורת תפריט קל משקל כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא מהיר יותר, זול יותר ותמיד מוכן.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — אלטרנטיבה פשוטה יותר של Audio Hijack עבור נפח לכל אפליקציה ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע אנשים מגיעים ל-Audio Hijack מלכתחילה</h2>
+
+<p>ל-macOS אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש כזה כבר שנים במיקסר הווליום שלו, אבל ב-Mac מקשי עוצמת הקול ומחוון שורת התפריטים מזיזים רק דבר אחד: מאסטר המערכת. אין דרך של צד ראשון לומר "שמור על Spotify ב-40% אבל השאר את שיחת הווידאו שלי ב-100%".</p>
+
+<p>אז אנשים מחפשים פיתרון ונוחתים על Audio Hijack. זה <em>יכול</em> לעשות עוצמת קול לכל אפליקציה, מכיוון שהוא יכול ליירט ולעבד את האודיו מכל אפליקציה בודדת. אבל היכולת הזו היא תופעת לוואי של מה שהיא נועדה למעשה עבורו: הקלטת אודיו מאפליקציות וחומרה, שרשור אפקטים, ניתוב בין מכשירים וירטואליים ובניית צינורות הפעלה לשימוש חוזר. זה באמת מצוין בזה. זו רק תשובה כבדה לשאלה קלה.</p>
+
+<h2>איפה Audio Hijack הופך להיות מוגזם</h2>
+
+<p>כמה דברים נוטים לתסכל אנשים שרצו רק מחוון עוצמת הקול:</p>
+
+<ul>
+<li><strong>מחיר.</strong> Audio Hijack עומד על 79 דולר. זה הוגן עבור אולפן הקלטות באפליקציה; זה הרבה בשביל לדחות כרטיסיית דפדפן.</li>
+<li><strong>זה חייב להמשיך לרוץ.</strong> העיבוד שלה לכל אפליקציה פועל רק כשהאפליקציה פתוחה וההפעלה הרלוונטית פעילה. עזוב את זה, ועוצמת הקול שלך חוזרת. אתה שומר על תחנת עבודה מלאה רק כדי להחזיק את המחוון במקום.</li>
+<li><strong>חשיבה מבוססת מפגשים.</strong> אתה בונה הפעלות עם בלוקים וחיבורים. רב עוצמה ללכידה, אבל זה הרבה תקורה רעיונית כשהמטרה שלך היא "האפליקציה הזו שקטה יותר, האפליקציה יותר רועשת".</li>
+<li><strong>הממשק עמוק.</strong> אפקטים, ניתוב, מונים, חיווט בלוקים - שטח פנים עשיר שבעיקר תתעלם ממנו אם לעולם לא תקליט שום דבר.</li>
+</ul>
+
+<blockquote>כלל אצבע: אם אתה רוצה <em>להקליט או מסלול</em> אודיו, Audio Hijack מרוויח את המחיר שלו. אם רק תרצה <em>איזון</em> אודיו בין אפליקציות, אתה משלם על סדנה כשהיית צריך כפתור.</blockquote>
+
+<h2>האלטרנטיבה הפשוטה יותר: מערבל נפח תפריט-שורת</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> לוקח את העבודה היחידה שרוב האנשים באמת הגיעו אליה ועושה רק את זה. זה חי בשורת התפריטים שלך. לחץ על הסמל ותקבל רשימה חיה של כל אפליקציה שמנגנת כעת אודיו, כל אחת עם המחוון שלה. גרור את Spotify ל-30%, השאר את השיחה שלך ב-100%, השתק את Slack לחלוטין - סיימתי, אין סשן לבנות.</p>
+
+<p>מה זה מכסה:</p>
+
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - כל מקור שמע מקבל מחוון משלו, המתכוונן בזמן אמת.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתקת אפליקציה רועשת אחת בלחיצה מבלי לגעת בשום דבר אחר.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - לחץ על אפליקציה שקטה <em>למעלה</em> 100% כשהמקסימום שלו עדיין רך מדי. זו היצירה שהמחוון של המערכת לעולם לא יוכל לעשות.</li>
+<li><strong>פרופילי נפח</strong> - שמור מיקס שלם (מוזיקה נמוכה, שיחות חזקות, הודעות מושתקות) והיזכר בו בלחיצה אחת עבור הקשר נתון.</li>
+<li><strong>ברווז אוטומטי</strong> - טבלו אוטומטית אודיו ברקע כאשר משהו חשוב יותר מתחיל, כך ששיחה או סרטון לא יקברו מתחת לרשימת ההשמעה שלך.</li>
+<li><strong>מיתוג פלט מהיר</strong> — קפוץ בין אוזניות, רמקולים ויציאות אחרות מאותו תפריט.</li>
+</ul>
+
+<h2>מעשי: קבלת שליטה לכל אפליקציה תוך פחות מדקה</h2>
+
+<p>ההבדל בהתקנה הוא כל העניין. עם כלי ניתוב הייתם יוצרים הפעלה, מוסיפים בלוק מקור, חוטים אותו ומשאירים את האפליקציה פועלת. הנה זה בעצם:</p>
+
+<ul>
+<li>התקן <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מה-Mac App Store.</li>
+<li>הפעל אודיו בכמה אפליקציות כך שהם יופיעו ברשימה.</li>
+<li>לחץ על סמל שורת התפריט וגרור את המחוון של כל אפליקציה לפי הטעם.</li>
+<li>אפשר לשמור את התמהיל הזה כפרופיל, או להגביר אפליקציה שקטה מדי מעבר ל-100%.</li>
+</ul>
+
+<p>מכיוון שהוא מופץ דרך ה-Mac App Store, הוא נמצא בארגז חול ומותקן כמו כל אפליקציה רגילה - לא <code>.dmg</code> לגרור, אין סיומת ליבה, אין מנהל התקן שמע לאישור בהגדרות האבטחה, ושום דבר שצריך אישור מחדש לאחר עדכון macOS. הנקודה האחרונה חשובה: מיקסרים מבוססי מנהלי התקנים נשברים באופן היסטורי בשדרוגי מערכת ההפעלה ודורשים התקנה מחדש של רכיב ברמת המערכת. אפליקציית App Store בארגז חול נמנעת מכל קטגוריית התחזוקה הזו.</p>
+
+<h2>איזה מהם כדאי לבחור?</h2>
+
+<p>היו כנים לגבי העבודה. בחר <strong>Audio Hijack</strong> אם אתה צריך להקליט אודיו של אפליקציה או חומרה, להחיל אפקטים בזמן אמת או לבנות גרפי ניתוב בין מכשירים וירטואליים. זה המגרש הביתי שלה וזה שווה כל דולר שם.</p>
+
+<p>בחר במיקסר ייעודי לשורת תפריטים אם הצורך האמיתי שלך הוא "תן לי להגדיר את עוצמת הקול של כל אפליקציה באופן עצמאי". תוציא 14.99 יורו פעם אחת במקום ~ 79$, תדלג על בניית ההפעלה ותקבל חיזוק, השתקה, פרופילים והתמוטטות בחלונית שתפתח מסרגל התפריטים. אין תכונות הקלטה שלעולם לא תגעו בהן, אין תחנת עבודה הפועלת ברקע כדי להחזיק את המחוון במקום.</p>
+
+<p>רוב האנשים שניסו Audio Hijack לאיזון נפח פתרו בעיה קטנה עם כלי גדול. אם זה אתה, הכלי הקטן מתאים יותר - ועולה שבריר מזה.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> עבור 14.99 אירו, חד פעמי - נפח לכל אפליקציה, חיזוק, השתקה, פרופילים ודיבוק אוטומטי, ישירות מסרגל התפריטים שלך.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "אלטרנטיבה Boom 3D: נפח לכל אפליקציה ללא התנפחות (Mac)",
+    description: "אם השתמשת ב-Boom 3D בעיקר כדי להגביר את האודיו אבל באמת רצית בקרת עוצמת הקול לכל אפליקציה, SoundDial היא האלטרנטיבה הדקיקה יותר של Mac: עוצמת קול עצמאית לאפליקציה, השתקה והגברה לכל אפליקציה, מחיר חד פעמי, ללא EQ או מנהלי התקנים בכל המערכת.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם הגעת ל-Boom 3D כדי להגביר את עוצמת הקול אבל בעצם רצית לשלוט בכל אפליקציה בנפרד, אתה רוצה כלי אחר. Boom 3D הוא מגבר נפח ו-EQ לכלל המערכת. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא מערבל נפח ממוקד לכל אפליקציה: עוצמת קול עצמאית, השתקה והגברה עבור כל אפליקציה, חד פעמית €14.99, ללא EQ, ללא דרייברים.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D אלטרנטיבה: נפח לכל אפליקציה ללא התנפחות (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מה Boom 3D באמת עושה (ולא עושה)</h2>
+<p>Boom 3D בנוי סביב שלושה דברים: הגברת עוצמת הקול בכל המערכת, אקולייזר של 31 פסים ואפקטים "סראונד" תלת מימדיים. זה מחיל את אלה על <em>הכל</em> Mac שלך משחק בבת אחת. זה באמת שימושי אם המטרה שלך היא מחשב נייד חזק יותר או עקומת בס שאתה אוהב בכל רחבי הלוח.</p>
+<p>מה ש-Boom 3D אינו בנוי עבורו הוא ההתייחסות לאפליקציות כאל ערוצים עצמאיים. אין דרך נקייה לומר "Spotify ב-40%, שיחת הווידאו שלי ב-100%, וכרטיסיית הדפדפן הזו מושתקת." המחוון שלו מזיז את כל התמהיל. ומכיוון שהוא מתקין מנהל התקן שמע כדי לשבת בנתיב האותות, הוא נוגע במערכת שלך ברמה נמוכה יותר מאשר תוכנית שירות בארגז חול. זה גם ממוקם כמוצר בתשלום עם מחזורי שדרוג ולא כלי חד פעמי קטן.</p>
+<blockquote><p>הסיפור הנפוץ: אנשים מתקינים את Boom 3D כדי להפוך אפליקציה שקטה אחת לקולנית יותר, ואז מבינים שהבעיה האמיתית הייתה של-macOS אין מערבל ווליום לכל אפליקציה בכלל.</p></blockquote>
+
+<h2>הפער: ל-macOS אין מערבל נפח</h2>
+<p>זה מפתיע אנשים שמגיעים מ-Windows. ל-Windows יש מיקסר ווליום לכל אפליקציה במשך שנים - לחץ לחיצה ימנית על הרמקול, הגדר את רמת האפליקציה בנפרד. macOS פשוט לא שולח את זה. אתה מקבל נפח ראשי אחד וכל המחוון הפנימי שבמקרה כל אפליקציה חושפת. אין דרך ברמת מערכת ההפעלה לאזן בין Slack לכרטיסייה YouTube מול משחק.</p>
+<p>אז כאשר אפליקציית מוזיקה מטביעה את השיחה שלך, האפשרויות המקוריות היחידות שלך הן גסות: להנמיך את המאסטר (מה שמשתיק הכל) או לחפור בהגדרות של כל אפליקציה משלה בתקווה שיש לה בקרת עוצמת הקול. גם Boom 3D לא סוגר את הפער הזה - זה עושה את כל התמהיל חזק יותר, לא כל אפליקציה.</p>
+
+<h2>איפה SoundDial מתאים</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא המיקסר החסר. הוא חי בשורת התפריטים שלך ונותן לכל אפליקציה פועלת שורה משלה עם המחוון שלה. זה ההבדל העיקרי מ-Boom 3D: במקום אפקט גלובלי אחד, אתה מקבל שליטה לכל מקור.</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - הגדר את Spotify ל-30% בעוד שיחת הווידאו שלך תישאר ב-100%.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה רועשת אחת באופן מיידי מבלי לגעת בשום דבר אחר.</li>
+<li><strong>חיזוק לכל אפליקציה</strong> - אם אהבתם את הטריק הרם מ-100% של Boom 3D, SoundDial שומר על זה, אבל ממוקד לאפליקציה בודדת במקום למערכת כולה. אפליקציות שקטות נדחפות לבד מהתקרה הרגילה שלהן.</li>
+<li><strong>פרופילי נפח</strong> - שמור פריסת מיקסר (למשל "משחק", "פגישה", "מוזיקה") והיזכר בה בלחיצה אחת במקום לאזן מחדש את המחוונים בכל פעם.</li>
+<li><strong>ברווז אוטומטי</strong> - טבלו אוטומטית אודיו ברקע כאשר משהו חשוב מתחיל, כך ששיחה או רמז למשחק לא קבורים מתחת למוזיקה.</li>
+<li><strong>מיתוג פלט מהיר</strong> — קפוץ בין אוזניות, רמקולים ויציאות אחרות מאותו תפריט.</li>
+</ul>
+<p>מה ש-SoundDial לא עושה בכוונה זה את שאר הפיצ'רים של Boom 3D. אין EQ של 31 פסים, אין עיבוד סראונד מזויף, אין שרשרת אפקטים כלל מערכת. אם אתה רוצה EQ בדרגת מאסטרינג, Boom 3D או חבילת אודיו ייעודית היא הבחירה הנכונה. אם בעצם המשכת לפתוח את Boom 3D בשביל זה היה <em>נפח</em>, שטח הפנים הזה הוא נפיחות שאתה משלם לשאת.</p>
+
+<h2>בוסט, בלי הנהג</h2>
+<p>שאלת ה"חיזוק" ראויה לתשובה ישירה, מכיוון שבדרך כלל זו הסיבה שמשתמשי Boom 3D קונים חלופות. החיזוק של Boom 3D הוא גלובלי ומבוסס על דרייברים. החיזוק של SoundDial הוא לכל אפליקציה ופועל בתוך מודל האפליקציה-Sandbox של אפל - הוא מופץ דרך ה-Mac App Store, כך שאין תוכנית התקנה נפרדת, אין מנהל התקן ברמת ליבה, ואין שאריות של רכיבי מערכת להסרה מאוחר יותר. אתה מקבל את התוצאה "הפוך את האפליקציה השקטה הזו לקולנית יותר" מבלי להעביר לנהג שליטה על כל נתיב האודיו שלך.</p>
+
+<h2>מחיר: חד פעמי לעומת מתמשך</h2>
+<p>Boom 3D היא אפליקציה בתשלום עם מודל שדרוג ורישוי משלה, והתמחור משתנה לפי פלטפורמה וגרסה. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא רכישה חד פעמית בודדת במחיר של €14.99 - קנה אותו פעם אחת, שמור אותו, ללא מנוי וללא רכישה חוזרת לכל גרסה כדי לשמור על המיקסר לעבוד. עבור כלי עזר שתשאיר פועל בשורת התפריטים מדי יום, מחיר אחיד נוטה להזדקן טוב יותר מאשר מוצר שאתה צריך להמשיך לקנות בו מחדש.</p>
+
+<h2>איזה מהם כדאי לבחור?</h2>
+<ul>
+<li><strong>בחר Boom 3D</strong> אם הצורך האמיתי שלך הוא אקולייזר רציני ואפקטי אודיו בכל המערכת, ולא אכפת לך עם דרייבר אודיו במיקס.</li>
+<li><strong>בחר SoundDial</strong> אם אתה רוצה את מה שמשתמשי Windows לוקחים כמובן מאליו - מערבל נפח אמיתי לכל אפליקציה - בתוספת דחיפה ממוקדת, פרופילים ודיבוק אוטומטי, במחיר חד פעמי וללא דרייברים להתקנה.</li>
+</ul>
+<p>רוב האנשים שמקפיצים את Boom 3D נכנסים לקבוצה השנייה. הם לא רצו לכוון תדרים; הם רצו שהדפדפן שקט יותר מהשיחה. בדיוק בשביל זה נבנה SoundDial.</p>
+
+<p><strong>רוצה בקרת עוצמת הקול לכל אפליקציה ב-Mac שלך ללא התנפחות EQ או מנוי?</strong> <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 יורו פעם אחת, בארגז חול, ללא דרייברים, וכל אפליקציה מקבלת מחוון משלה.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "כיצד להשתיק הכל מלבד אפליקציה אחת ב-Mac שלך",
+    description: "ל-macOS אין מערבל נפח לכל אפליקציה, כך שהשתקה של כל אפליקציה מלבד אחת דורשת עוזר. הנה איך לשמוע רק את השיחה, הזרם או המשחק שלך בזמן שכל השאר נשאר מושתק.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין דרך מובנית להשתיק אפליקציות בודדות, כך שכדי לשמוע רק אפליקציה אחת יש צורך במיקסר עוצמת קול לכל אפליקציה. התקן <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, פתח את מיקסר שורת התפריט שלו, השתיק כל אפליקציה מלבד זו שאתה רוצה לשמוע, והאפליקציה הזו ממשיכה לנגן בזמן שהשאר משתתקות באופן מיידי.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - כיצד להשתיק הכל מלבד אפליקציה אחת ב-Mac שלך" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע macOS לא יכול לעשות זאת בעצמו</h2>
+<p>ל-Windows יש את מיקסר הווליום כבר יותר מעשור: לחץ לחיצה ימנית על סמל הרמקול, וכל אפליקציה פועלת מקבלת מחוון משלה. macOS מעולם לא שלח את זה. מקשי עוצמת הקול ב-Mac שלך שולטים בדבר אחד בלבד, רמת הפלט הראשי. כאשר אתה מכבה את המערכת, הכל נופל ביחד. כשאתה משתיק, הכל משתתק.</p>
+<p>זה בסדר עד שיש לך חמישה דברים שמרעישים בבת אחת. אתה בשיחת וידאו, אבל כרטיסיית דפדפן מציגה מודעה אוטומטית, Spotify עדיין פועל, משחק מפינג ברקע, ו-Slack מצלצל. האפשרויות המקוריות היחידות שלך הן לצאת מאפליקציות, להשתיק אותן אחת אחת בתוך ההגדרות של כל אפליקציה (אם בכלל יש לה את האפשרות הזו), או למשוך את האוזניות שלך. כל זה לא מאפשר לך לומר "שמור את זה, שתיק את השאר."</p>
+
+<h2>הדרך הפשוטה: להשתיק את השאר עם מיקסר</h2>
+<p>מיקסר לכל אפליקציה יושב בין האפליקציות שלך להתקן הפלט שלך ונותן לכל אפליקציה שליטה משלה בעוצמת הקול והשתקה. ברגע שהפעלת אחת, בידוד אפליקציה בודדת לוקח שניות:</p>
+<ul>
+<li>פתח את המיקסר משורת התפריטים שלך. תראה רשימה חיה של כל אפליקציה המפיקה כעת אודיו.</li>
+<li>מצא את האפליקציה האחת שאתה רוצה לשמוע, השיחה שלך, הזרם שלך, המשחק שלך.</li>
+<li>השתק את כל השאר. הקש על מתג ההשתקה לצד אפליקציה אחרת, או משוך את המחוון שלה לאפס.</li>
+<li>זהו. האפליקציה האחת שהשארת לבד ממשיכה לנגן בווליום מלא בעוד השאר שומרים על שתיקה.</li>
+</ul>
+<p>עם <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, לכל אפליקציה ברשימה יש מחוון משלה וכפתור השתקה משלה, כך שמדובר בקומץ של קליקים. אפליקציות חדשות שמתחילות לנגן מאוחר יותר מופיעות אוטומטית, כך שאם צליל התראה מנסה להתגנב פנימה, אתה יכול להשתיק אותו במקום מבלי לגעת באפליקציה הממוקדת שלך.</p>
+
+<blockquote>החוכמה היא שהשתקת "הכל חוץ מאחד" היא רק הפוך מהשתקת אפליקציה אחת. אתה לא משתיק את ה-Mac שלך, אתה משתיק את הרעש סביב הדבר שבאמת אכפת לך ממנו.</blockquote>
+
+<h2>שמור אותו כפרופיל כדי שלא תעשה אותו מחדש</h2>
+<p>אם זו הגדרה שאתה מגיע אליה לעתים קרובות, עשה זאת ביד כל פעם מזדקן. נניח שאתה תמיד רוצה את אפליקציית ההתקשרות שלך בקול רם וכל השאר כבוי במהלך פגישות, או שאתה רוצה שהזרם שלך יעמוד במרכז בזמן שמשחקים ודפדפנים יישארו שקטים. פרופיל נפח מאחסן את ההגדרות המדויקות לכל אפליקציה ומחיל אותן מחדש בלחיצה אחת.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מאפשר לך לשמור פרופילים כמו "פגישה" או "זרם בלבד", ולאחר מכן לעבור אליהם ברגע שאתה צריך אותם. הגדר אותו פעם אחת, ובידוד האפליקציה האחת שלך הופך לפעולת שורת תפריט בודדת במקום מטלה של חמישה מחוונים.</p>
+
+<h2>הגרסה החכמה יותר: ברווז אוטומטי במקום אילם קשה</h2>
+<p>לפעמים אתה לא רוצה שהאפליקציות האחרות ייעלמו לגמרי, אתה רק רוצה שהן ייעלמו מהדרך כשמשהו חשוב יותר מתחיל. זה אוטו-דוקינג. כאשר אפליקציית העדיפות שלך פועלת, אפליקציות הרקע יורדות אוטומטית לרמה נמוכה, ואז עולים בחזרה כשהיא מפסיקה.</p>
+<p>זה אידיאלי עבור שיחות וזרמים. כשמישהו מתחיל לדבר, המוזיקה שלך יורדת כך שתוכל לשמוע אותו, וכשהשיחה מסתיימת, המוזיקה חוזרת מעצמה. אתה מקבל את התוצאה "שמע אפליקציה אחת בבירור" מבלי להשתיק ולבטל את ההשתקה ידנית בכל פעם שהמצב משתנה. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> כולל שקט אוטומטי לצד המיקסר הידני, כך שתוכל לבחור אילם קשה לשקט מוחלט או ברווז לרקע רך יותר.</p>
+
+<h2>חיזוק האפליקציה היחידה ששמרת</h2>
+<p>יש בונוס לבידוד אפליקציה בודדת: אתה יכול גם להגביר את העוצמה ממה שה-Mac מאפשר בדרך כלל. אפליקציות מסוימות, במיוחד שיחות וידאו שקטות או זרמים עם שליטה גרועה, בקושי נשמעות אפילו בעוצמת קול מקסימלית. חיזוק לכל אפליקציה דוחף אפליקציה בודדת מעל 100% מבלי להפעיל את פלט המערכת שלך, מה שרק יגביר את האפליקציות שכבר השתקת.</p>
+<p>אז המהלך המלא הוא: השתקת הרעש, שמור על האפליקציה האחת שלך, ואם האפליקציה הזו שקטה מדי, הגבר אותה. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מטפל בשלושתם באותו חלון מיקסר.</p>
+
+<h2>למה אתה לא נרשם</h2>
+<p>דאגה נפוצה בכלי שמע Mac היא שהם דורשים הרחבות ליבה, מנהלי התקנים אודיו וירטואליים או מתקינים מפוקפקים שהורדו מאתר אקראי. זה חשש לגיטימי, וזו הסיבה שחלק מהאנשים נמנעים לחלוטין מהאפליקציות האלה.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נמצא ב-Mac App Store, בארגז חול, ומותקן כמו כל אפליקציה רגילה, ללא דרייברים, ללא DMG, אין הרחבות מערכת לאישור. מדובר ברכישה חד פעמית של €14.99 ולא במנוי, אז אתה משלם פעם אחת ושומר אותו. זה חשוב למשהו שתשאיר פועל בשורת התפריטים שלך כל היום.</p>
+
+<h2>סיכום מהיר</h2>
+<ul>
+<li>ל-macOS אין בקרת עוצמת קול מקורית לכל אפליקציה, אז אתה צריך מיקסר כדי לעשות זאת.</li>
+<li>פתח את המיקסר, השאר את האפליקציה האחת שלך, השתקה או אפס את כל השאר.</li>
+<li>שמור אותו כפרופיל עבור שיחות או סטרימינג שאתה עושה לעתים קרובות.</li>
+<li>השתמש ב-Auto-Duking אם אתה רוצה שאפליקציות רקע יושקטו במקום יהרגו.</li>
+<li>שפר את האפליקציה השמורה שלך אם היא שקטה מדי בפני עצמה.</li>
+</ul>
+
+<p>רוצים לשמוע רק את מה שחשוב ולהשתיק את השאר? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> והגדר את פרופיל ההשתק-הכל-אחר הראשון שלך תוך פחות מדקה.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "שמור על עוצמת קול שונה לרמקולים לעומת אוזניות ב-Mac",
+    description: "macOS שוכח את תמהיל הווליום שלך ברמת האפליקציה כשאתה עובר בין רמקולים לאוזניות. הנה הסיבה שזה קורה, המגבלות הידניות וכיצד זיכרון נפח לכל אפליקציה מתקן את זה.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>macOS למעשה זוכר נפח מערכת נפרד עבור כל התקן פלט, אבל הוא שוכח את האיזון ברמת האפליקציה שלך בכל פעם שאתה מחליף. אז אוזניות ורמקולים שומרים על הרמה הכללית שלהם, אבל ברגע שאתה מנתק, אפליקציה אחת מתפוצצת ואחרת נעלמת. התיקון הוא זיכרון נפח לכל אפליקציה ששורד מתגי מכשיר, של-macOS אין כלי מקורי עבורו.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - שמור על עוצמת קול שונה לרמקולים לעומת אוזניות ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מה macOS זוכר ומה לא</h2>
+
+<p>ישנה אמונה רווחת ש-macOS מתייחס לכל מכשיר פלט באופן זהה. זה לא. כל התקן פלט מאחסן את נפח המערכת שלו. הגדר את רמקולי ה-MacBook שלך ל-30% ואת ה-AirPods ל-80%, ו-macOS שומר על שני המספרים בנפרד. חבר, נתק, חבר מחדש, וכל מכשיר יחזור למקום שהשארת אותו.</p>
+
+<p>אז למה החוויה עדיין מרגישה שבורה? כי הזיכרון הזה נעצר במחוון הגלובלי היחיד. ל-macOS יש בדיוק בקרת עוצמת קול אחת לכל מה שמתנגן במכשיר נתון. זה לא זוכר כמה אפליקציות בודדות היו רועשות. כאשר אתה עובר מרמקולים לאוזניות, האיזון בין Spotify, שיחה Zoom וכרטיסיית YouTube לא נשמר, כי האיזון הזה מעולם לא היה קיים. כל אפליקציה חולקת את אותו המחוון.</p>
+
+<p>התוצאה היא התסכול שאנשים מתארים כ"ווליום שונה לרמקולים לעומת אוזניות". מה שהם בדרך כלל רוצים זה לא רק רמת מאסטר שונה לכל מכשיר, אלא תמהיל זכור: מוזיקה שקטה, שיחות רועשות, התראות נדחות, והמיקס הזה שלם בין אם הם ברמקולים שולחניים או אוזניות.</p>
+
+<h2>הדרכים הידניות לעקיפת הבעיה והיכן הם נופלים</h2>
+
+<p>אפשר להגיע לשם בחלק מהדרך עם כלים מובנים, וכדאי להכיר את התקרה לפני שמגיעים לכל דבר אחר.</p>
+
+<ul>
+<li><strong>הגדר את עוצמת הקול של כל מכשיר פעם אחת.</strong> הפעל אודיו דרך הרמקולים שלך, הגדר את הרמה, ולאחר מכן העבר את הפלט לאוזניות והגדר את הרמה הזו. macOS שומר על שניהם. זה מטפל בנפח מאסטר לכל מכשיר אבל כלום לכל אפליקציה.</li>
+<li><strong>השתמש בנפח לכל אפליקציה במקום שבו האפליקציה מציעה זאת.</strong> Spotify, VLC ולרוב הדפדפנים יש נפח פנימי משלהם. אתה יכול לחתוך אפליקציה רועשת בתוך האפליקציה עצמה. הקאץ': ההגדרה הזו חיה באפליקציה, לא במכשיר, ולכן היא לא משתנה כשעוברים לאוזניות, ולרוב האפליקציות (Slack, Zoom, התראות מערכת, מייל) אין שליטה כזו בכלל.</li>
+<li><strong>החלף פלט ממרכז הבקרה או שורת התפריטים.</strong> לחץ Option-לחץ על סמל עוצמת הקול בשורת התפריטים כדי לעבור בין מכשירים במהירות. מהיר, אבל זה רק מזיז את רמת המאסטר, זה לא משחזר תמהיל לכל אפליקציה.</li>
+</ul>
+
+<p>אלה נותנים לך נפח ראשי לכל מכשיר. מה שאף אחד מהם לא נותן לך הוא יתרה זכורה לכל אפליקציה שעוקבת אחריך בין מכשירים. הפער הזה הוא בדיוק המקום שבו המטרד חי, והוא מבני: למערכת ההפעלה פשוט אין מיקסר לכל אפליקציה, בניגוד ל-Windows, ששלח אחד מזה שנים.</p>
+
+<h2>זיכרון נפח לכל אפליקציה, ומדוע החלפת מכשיר היא הבעיה האמיתית</h2>
+
+<p>התיקון העמוק יותר הוא לתת לכל אפליקציה את עוצמת הקול שלה והגדרות אלו יימשכו. זה מה שמיקסר לכל אפליקציה אוהב <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> בנוי עבור. זה יושב בשורת התפריטים שלך, מפרט כל אפליקציה שמפיקה סאונד כרגע, ונותן לכל אחת מחוון עצמאי, החלפת השתקה ואפילו חיזוק מעבר ל-100% עבור אפליקציות שקטות.</p>
+
+<p>החלק שחשוב לבעיית הרמקולים לעומת האוזניות: הרמות האלה נזכרות. הגדר את המוזיקה שלך ל-40%, את השיחות שלך ל-90%, ואפליקציה פטפטנית למצב השתקה, ו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> שומר על התערובת הזו. כשאתה מנתק את האוזניות ונופל בחזרה לרמקולים, אתה לא מאזן מחדש שלוש אפליקציות ביד בכל פעם.</p>
+
+<p>פרופילי נפח לוקחים את זה רחוק יותר. אתה יכול לשמור קבוצה עם שם של רמות לכל אפליקציה ולהיזכר בה בלחיצה אחת, כך ששילוב של "אוזניות, עבודה ממוקדת" ושילוב של "רמקולים, פגישות" הם כל אחד בחירה בודדת ולא איפוס ידני.</p>
+
+<blockquote><p>השינוי המנטלי: הפסיקו לחשוב על סליידר מאסטר אחד שאתם ממשיכים לגרור, והתחילו לחשוב על תמהיל שמור לכל מצב. החלפת מכשיר מפסיקה להיות מטלת איזון מחדש.</p></blockquote>
+
+<h2>החלפת פלט מהירה מבלי לאבד את המיקס שלך</h2>
+
+<p>החלפת התקנים צריכה להיות מהירה ולא הרסנית. מאותו פאנל שורת תפריטים אתה יכול לשנות את התקן הפלט שלך, כך שהמעבר מרמקולים לאוזניות הוא לחיצה אחת, והרמות שלך לכל אפליקציה מגיעות במקום להתמוטט בחזרה למספר גלובלי בודד.</p>
+
+<p>תכונה קשורה שכדאי להזכיר היא אוטומטית ברווזון: כאשר אודיו נכנס למיקרופון שלך (אתה מתחיל לדבר, או מתחילה שיחה), אפליקציות אחרות צוללות אוטומטית כך שניתן לשמוע אותך, ואז חוזרות לרמה שנקבעה לאחר מכן. זה אותו עיקרון מיושם על תשומת לב ולא על מכשירים, דבר נוסף ש-macOS לא יעשה לבד.</p>
+
+<h2>איך להגדיר את זה</h2>
+
+<ul>
+<li>התקן <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מה-Mac App Store. זה בארגז חול, כך שאין דרייבר, אין DMG, ואין הרחבת ליבה לאישור.</li>
+<li>הפעל אודיו באפליקציות שבהן אתה משתמש הכי הרבה כדי שיופיעו במיקסר.</li>
+<li>הגדר את הרמה של כל אפליקציה, השתק כל מה שאתה לא רוצה, והגבר כל דבר שקט מדי.</li>
+<li>שמור את הסידור הזה כפרופיל, למשל אחד מכוון לאוזניות ואחד לרמקולים.</li>
+<li>כאשר אתה מחליף מכשיר, זכור את הפרופיל התואם, או פשוט תן לרמות השמורות שלך לכל אפליקציה לעבור.</li>
+</ul>
+
+<p>הסיכום הכנה: macOS אמנם זוכר נפח לכל התקן פלט ברמת המאסטר, אבל הוא לעולם לא יזכור את התמהיל שלך לכל אפליקציה, כי אין לו מיקסר לכל אפליקציה. אם המטרה האמיתית שלך היא איזון עקבי בין מוזיקה, שיחות והתראות ששורד כל מעבר בין רמקולים ואוזניות, אתה צריך זיכרון לכל אפליקציה על גבי מערכת ההפעלה.</p>
+
+<p>רוצים שרמקולים ואוזניות ישמרו על מיקס משלהם מבלי להתאים מחדש כל אפליקציה? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> עבור 14.99 יורו חד פעמי, ללא מנוי, ללא נהגים.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control הופסק? ההחלפה הטובה ביותר של Mac לכל אפליקציה (2026)",
+    description: "Sound Control מאת Static Z Software הופסק ונשבר ב-macOS המודרני. הנה הסיבה שהוא הפסיק לעבוד, מה הוא עשה והמיקסר הטוב ביותר לכל אפליקציה לעבור אליו ב-2026.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>Sound Control מאת Static Z Software הופסק ואינו נמכר או מעודכן יותר, והיא נכשלת יותר ויותר ב-macOS המודרנית מכיוון שהיא הסתמכה על מנהל התקן שמע ברמת ליבה שאפל נעילה. אם אתה צריך נפח לכל אפליקציה היום, התחליף הנקי ביותר הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מערבל Mac App Store עם ארגז חול ללא דרייברים.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control הופסק? ההחלפה הטובה ביותר של Mac לכל אפליקציה (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מה ש-Sound Control עשה בפועל</h2>
+<p>Sound Control היה, במשך שנים, המענה המומלץ לפער אמיתי של macOS: עדיין אין מערבל נפח מובנה לכל אפליקציה ב-Mac. ל-Windows היה אחד במיקסר הווליום שלו מאז ויסטה, אבל macOS נותן לך רק מחוון יחיד. Sound Control מילא את החור הזה בלוח שורת תפריט מסודר שאפשר לך:</p>
+<ul>
+<li>הגדר רמת עוצמת קול עצמאית עבור כל אפליקציה פועלת.</li>
+<li>השתק אפליקציות בודדות מבלי לגעת בשאר אודיו של המערכת.</li>
+<li>שפר אפליקציות שקטות מעל 100 אחוז.</li>
+<li>החל התאמות אקולייזר ואיזון לכל אפליקציה.</li>
+<li>נתב אודיו והצמד אפליקציות להתקני פלט ספציפיים.</li>
+</ul>
+<p>לכל מי שאי פעם היה לו שיחת Zoom פיצוץ בזמן שלוחשת לשונית YouTube ברקע, השליטה בכל אפליקציה הייתה מהפכה. זה הפך להיות מצרך שקט בהרבה מכונות של משתמשי Mac.</p>
+
+<h2>למה זה הפסיק לעבוד</h2>
+<p>הסיפור הטכני הכנה חשוב כאן, כי הוא מסביר למה זה לא באג שמישהו יכול פשוט לתקן. Sound Control עבד על ידי התקנת מנהל התקן אודיו של המערכת - הרחבת ליבה (kext) שהכניסה את עצמה לצנרת האודיו macOS כדי שתוכל ליירט ולעצב מחדש את הפלט של כל אפליקציה. הוו העמוק הזה הוא בדיוק מה שאיפשר את תכונות ה-EQ והחיזוק.</p>
+<p>החל מ-macOS 10.15 Catalina והאצה דרך Big Sur והמעבר של Apple Silicon, אפל החלה לבטל את הרחבות ליבה לטובת חלופות למרחב משתמש. ב-Apple Silicon Macs, טעינת kexts של צד שלישי דורשת הורדת אבטחת המערכת במצב שחזור, ואפל הבהירה כי kexts אודיו מדור קודם נמצאים בזמן שאול. תוכנת סטטיק Z הפסיקה בסופו של דבר למכור ולפתח את Sound Control. התוצאה: בגרסאות האחרונות של macOS, ההתקנות נכשלות, תקלות אודיו ניתקות, או שהנהג פשוט מסרב להיטען ללא שדרוג אבטחה שרוב האנשים בצדק לא רוצים לבצע.</p>
+<blockquote>זו לא הזנחה מצד היזם. מדובר בשינוי ברמת הפלטפורמה. אפל סגרה את הדלת על סוג של מנהל התקן שמע ברמה נמוכה Sound Control נבנה סביבו, ושום עדכון לא יכול לפתוח אותו מחדש לחלוטין.</blockquote>
+
+<h2>מה השתנה ב-macOS המודרני</h2>
+<p>אפל אכן הוסיפה דבר אחד רלוונטי: Core Audio מציעה כעת Tap API (הוצג ב-macOS 14.2 Sonoma) המאפשר לאפליקציות ללכוד ולעבד אודיו לפי תהליך ממרחב המשתמש - ללא kext, ללא שדרוג אבטחה לאחור, ללא אתחול מחדש לתוך Recovery. זהו הנתיב המודרני המאושר עבור אודיו לכל אפליקציה, ועליו צריך לבנות מיקסר נוכחי. הפשרה היא כנה: הקשה על מרחב המשתמש מוגבלת יותר ממנהל התקן ליבה ישן, אז אתה צריך לצפות לנפח נקי לכל אפליקציה, להשתקה ולהגביר ולא ל-EQ הפרמטרי המלא לכל אפליקציה Sound Control המוצע.</p>
+
+<h2>התחליף הטוב ביותר: SoundDial</h2>
+<p>אם אתה רוצה את הליבה של מה ש-Sound Control עשה - נפח עצמאי לכל אפליקציה - ב-Mac, אתה באמת יכול לשמור על אבטחה ומעודכנת, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא אפשרות ההגירה הנקייה הקרובה ביותר בשנת 2026. זהו מערבל עוצמת הקול לכל אפליקציה שנבנה עבור ערימת השמע macOS המודרנית. מה מועבר מזרימת העבודה של Sound Control:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - מחוון אחד לכל יישום פועל, ממש בשורת התפריטים.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה אחת בזמן שכל השאר ממשיך להתנגן.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - דחוף אפליקציה שקטה מעל התקרה הרגילה שלה.</li>
+<li><strong>פרופילי נפח</strong> - שמור הגדרות מיקסר להקשרים שונים (שיחות, מוזיקה, משחקים) ועבור ביניהן.</li>
+<li><strong>ברווז אוטומטי</strong> - הורד אוטומטית את עוצמת הקול של האפליקציה ברקע, שימושי כשאתה מתחיל לדבר או כשמגיעה שיחה.</li>
+<li><strong>מיתוג פלט מהיר</strong> - קפוץ בין רמקולים, אוזניות והתקנים אחרים מבלי לצלול להגדרות מערכת.</li>
+</ul>
+<p>ההבדלים המעשיים החשובים להגירה: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נשלח דרך ה-Mac App Store, הוא בארגז חול, ואינו מתקין מנהלי התקנים וללא DMG. זה אומר שאין הרחבת ליבה לאישור, אין מצב שחזור, ואין הורדת תנוחת האבטחה של ה-Mac שלך - נקודות הכאב המדויקות שהרגו את Sound Control. זוהי רכישה חד פעמית של €14.99, לא מנוי.</p>
+
+<h2>איך מחליפים, צעד אחר צעד</h2>
+<ul>
+<li><strong>הסר את ההתקנה של Sound Control בצורה נקייה.</strong> מכיוון שהיא התקינה מנהל התקן, השתמש במסירת ההתקנה שלה אם היא עדיין פועלת, או הסר את רכיבי מנהל ההתקן האודיו שלה לפני התקנת כל דבר חדש. שני ווי אודיו מתחרים עלולים לגרום לתקלות.</li>
+<li><strong>התקן את SoundDial מה-App Store.</strong> אין צורך באתחול מחדש או בשינויי אבטחה.</li>
+<li><strong>הענק את הרשאת האודיו שהיא מבקשת.</strong> זה מה שמאפשר לו לקרוא ולשלוט בפלט לכל אפליקציה ב-macOS המודרני.</li>
+<li><strong>פתח את חלונית שורת התפריט והגדר רמות.</strong> האפליקציות הרצות שלך מופיעות עם מחוונים בודדים; להתאים, להשתיק או להגביר לפי הצורך.</li>
+<li><strong>שמור פרופיל.</strong> אם היו לך הגדרות Sound Control מועדפות, צור אותן מחדש כפרופילים כדי שתוכל לעבור בלחיצה אחת.</li>
+</ul>
+
+<h2>ציפיות כנות</h2>
+<p>אם הסיבה היחידה שלך לשימוש ב-Sound Control הייתה נפח, השתקה והגברה לכל אפליקציה, מיקסר מודרני בארגז חול מכסה אותך במלואו. אם נשענת בכבדות על האקולייזר שלו לכל אפליקציה, שים לב שה-EQ העמוק היה קשור לדגם הדרייבר הישן והוא התכונה הקשה ביותר לשחזור נקי לפי הכללים הנוכחיים של אפל. הציבו ציפיות בהתאם, ולא תופתעו.</p>
+
+<p>מוכן להחזיר את עוצמת הקול לכל אפליקציה בלי כאבי הראש של הנהג? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 יורו חד פעמי, בארגז חול, ללא מנוי, ללא נהגים.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny נעלם - האפליקציה המודרנית Mac לכל אפליקציה שתחליף אותה",
+    description: "SoundBunny של Prosoft הופסק. הנה מערבל הווליום הנוכחי macOS לכל אפליקציה, המתוחזק באופן פעיל כדי להחליף אותו - בנוסף כיצד להעביר את הגדרת האודיו לכל אפליקציה ללא מנהלי התקנים של ליבה.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם SoundBunny הפסיק לעבוד או אינו נמכר יותר, התחליף המודרני הוא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מיקסר נפח לכל אפליקציה שנבנה עבור macOS הנוכחי. זה נותן לך את אותה עבודת ליבה - נפח עצמאי, השתקה והגברה לכל אפליקציה - כרכישה חד-פעמית של 14.99 אירו של Mac App Store, ללא מנהל התקן ליבה, DMG או מנוי לניהול.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - SoundBunny נעלם - האפליקציה המודרנית Mac לכל אפליקציה שתחליף אותה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מה קרה ל-SoundBunny?</h2>
+<p>SoundBunny היה כלי השירות לנפח לכל אפליקציה של Prosoft Engineering עבור macOS. זה מאפשר לך להגדיר רמת עוצמת קול שונה עבור כל אפליקציה פועלת ישירות מסרגל התפריטים - מוזיקה שקטה, שיחה רועשת, דפדפן איפשהו באמצע. במשך שנים זה היה אחד הכלים הבודדים שממלאים פער שאפל מעולם לא סגרה.</p>
+<p>הבעיה היא ש-SoundBunny היא תוכנה מדור קודם. הוא לא עמד בקצב השינויים העמוקים שאפל ביצעה באודיו ובאבטחה macOS - Apple Silicon, זמן הריצה המוקשה, חוקי הרחבת המערכת והסרה של ווי אודיו ישנים יותר. כשכלי עזר כזה מפסיק לקבל עדכונים, הוא בסופו של דבר נשבר: הוא לא מצליח להפעיל, מאבד שליטה על זרמי אפליקציות לאחר עדכון מערכת ההפעלה, או פשוט לא ניתן להתקין אותו בצורה נקייה ב-Mac מודרני. אם זה המקום שבו אתה נמצא, אתה לא עושה שום דבר רע. האפליקציה מאחור, לא אתה.</p>
+
+<h2>למה macOS עדיין צריך מיקסר של צד שלישי בכלל</h2>
+<p>הנה החלק הכנה: זהו פער אמיתי ב-macOS, לא באג שאתה יכול לתקן בהגדרות. Windows שלחה מיקסר נפח לכל אפליקציה במשך יותר מעשור. ל-macOS מעולם לא היה אחד כזה. מחוון עוצמת הקול של המערכת והגדרות הסאונד שולטות <em>התקן פלט</em> ככלל - כל אפליקציה נוסעת באותה רמת מאסטר. אין דרך מובנית לומר "שמור על Safari ב-40% אבל Zoom ב-100%."</p>
+<p>זו הסיבה שכלים כמו SoundBunny היו קיימים, ומדוע החלפה עדיין נחוצה היום. הצורך לא נעלם כשהאפליקציה חלפה - אפל פשוט עדיין לא טיפלה בזה.</p>
+
+<h2>התחליף המודרני: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא מערבל נפח לכל אפליקציה שחי בשורת התפריטים שלך ועושה את הדברים שמשתמשי SoundBunny הסתמכו עליהם, בנוי מול ה-macOS של היום במקום זה של אתמול. חפיפת התכונה מכסה את הדברים החיוניים:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - מחוון אחד לכל אפליקציה פועלת, בדיוק המודל המנטלי SoundBunny.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה רועשת אחת מבלי לגעת בכל השאר.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - לחץ על אפליקציה שקטה <em>למעלה</em> 100% כאשר וידאו או שיחה מוקלטים נמוך מדי. SoundBunny לא הצליח להגביר בצורה מהימנה את מקסימום המערכת בעבר ב-macOS המודרני; boost הוא שדרוג אמיתי כאן.</li>
+<li><strong>פרופילי נפח</strong> - שמור קבוצה של רמות לכל אפליקציה (תמהיל "עבודה", תמהיל "משחקים") ועבור ביניהן במקום להזיז את המחוונים אחד בכל פעם.</li>
+<li><strong>ברווז אוטומטי</strong> - הנמיך אוטומטית את עוצמת הקול של האפליקציה ברקע כאשר מקור שמע אחר (כמו המיקרופון שלך בשיחה) הופך לפעיל.</li>
+<li><strong>מיתוג פלט מהיר</strong> — קפוץ בין רמקולים, אוזניות ויציאות אחרות מאותו תפריט.</li>
+</ul>
+
+<h2>איך נראית הגירה בעצם</h2>
+<p>אין שלב ייבוא - רמות נפח לכל אפליקציה אינן קובץ שאתה מעביר - אבל המעבר מהיר:</p>
+<ul>
+<li><strong>הסר את SoundBunny כראוי.</strong> צא מזה ואז מחק את האפליקציה. אם הוא התקין עוזר או פריט כניסה כלשהו, ​​הסר גם את זה כדי ששני כלי עזר לא ילחמו על אותם זרמי שמע.</li>
+<li><strong>התקן את SoundDial מה-Mac App Store.</strong> זה בארגז חול ומופץ דרך החנות, כך שאין DMG להרכבה ואין אזהרת "מפתח לא מזוהה". רכישה אחת, קשורה ל-Apple ID שלך.</li>
+<li><strong>הענק גישה לאודיו בהפעלה הראשונה.</strong> macOS יבקש רשות עבור SoundDial לראות אודיו של האפליקציה. זהו הנתיב המודרני והמאושר שאפל מספקת - ללא הרחבת ליבה, ללא אתחול מחדש, ללא הורדת אבטחת המערכת. הענק זאת והאפליקציות הרצות שלך יופיעו כמחוונים.</li>
+<li><strong>בנה מחדש את התמהיל שלך.</strong> הגדר את האפליקציות הנפוצות שלך, ולאחר מכן שמור את הסידור הזה כפרופיל כך שלעולם לא תצטרך לעשות זאת מחדש.</li>
+</ul>
+
+<h2>ההבדלים המעשיים מ-SoundBunny</h2>
+<p>ההבדל החשוב ביותר הוא זה <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא תוכנה עדכנית. היא פועלת באופן מקורי על Apple Silicon, משתמשת בממשקי השמע הנתמכים של אפל, והיא אפליקציית Mac App Store - מה שאומר שהעדכונים מגיעים דרך החנות והיא בנויה לשרוד את שדרוגי מערכת ההפעלה במקום להישבר בהם. להיות בארגז חול אומר גם שהוא לא יכול להגיע אל מחוץ לנתיב שלו, וזה מרגיע עבור משהו שנמצא בין האפליקציות שלך לרמקולים שלך.</p>
+<p>כמה אזהרות כנות כך שהציפיות נכונות. מכיוון ש-SoundDial פועל במסגרת האודיו של אפל, השליטה היא הטובה ביותר עבור אפליקציות סטנדרטיות המנותבות דרך פלט המערכת הרגילה. תוכנות מסוימות משמיעות אודיו דרך הנתיב שלה או מכשיר בלעדי, ושום מיקסר שורת תפריט - SoundBunny כלול - לא יכול לשלוט בהם באופן מלא. ונפח לכל אפליקציה הוא מטבעו שכבת תוכנה על גבי macOS; זה לא מיקסר חומרה. בתוך הגבולות האמיתיים האלה, הוא עושה את העבודה ש-SoundBunny נהג לעשות.</p>
+
+<blockquote>אם עברתם ל-Mac מ-Windows בציפייה למיקסר ווליום לכל אפליקציה, זה הכלי שממלא את הפער הזה - ועכשיו זה באמת מתוחזק.</blockquote>
+
+<p>ל-SoundBunny הייתה ריצה טובה, אבל היא מורשת. אם אתה צריך עוצמת קול לכל אפליקציה, השתקה והגברה ב-Mac מודרני, <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 יורו פעם אחת, ללא מנוי, ללא נהגים.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "אלטרנטיבה Boom 2 עבור Mac: נפח לכל אפליקציה ללא מכירת יתר של Boom 3D",
+    description: "Boom 2 הוא מורשת וכל הזמן דוחף אותך ל-Boom 3D. אם אתה רק רוצה נפח לכל אפליקציה וחיזוק פשוט ב-macOS המודרני, הנה חלופה ממוקדת וכיצד זה עובד.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>אם אהבת את Boom 2 לחיזוק מערכת רחב אבל רוצה פשוט <strong>לכל אפליקציה</strong> נפח ב-Mac נוכחי, התשובה הכנה היא ש-Boom 2 הוא מורשת וכבר לא הכלי הנכון. חלופה ממוקדת היא <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, מיקסר שורת תפריטים שנותן לכל אפליקציה מחוון עוצמת הקול, השתקה והגברה משלה, תמורת 14.99 אירו פעם אחת, ללא דחיפה לחבילה גדולה יותר.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 אלטרנטיבה עבור Mac: נפח לכל אפליקציה ללא מכירת יתרת Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע Boom 2 כבר לא מתאים</h2>
+<p>Boom 2 הייתה אפליקציה אהובה מסיבה ספציפית: היא הגבירה את הווליום הכללי של Mac מעבר למקסימום המערכת והוסיפה אקולייזר. זה עשה את זה בכל המערכת, לא לכל אפליקציה. זה היה בסדר ב-2015. ב-2026 יש לו שתי בעיות.</p>
+<p>ראשית, זו מורשת. Global Delight העבירה בבירור את האנרגיה שלה ל-Boom 3D, ואם תפתח את דף המוצר Boom 2 תמצא את עצמך נדחק לכיוון האפליקציה החדשה והיקרה יותר כמעט מיד. Boom 2 עדיין קיים, אבל זו נקודת קפיצה שהספק משתמש בה כדי למכור את Boom 3D, לא מוצר שמקבל אהבה פעילה.</p>
+<p>שנית, וחשוב יותר: Boom 2 מעולם לא היה מערבל נפח לכל אפליקציה. הוא מעלה ומעצב פלט מאסטר אחד. אם הכאב האמיתי שלך הוא שפינג Slack חזק יותר מהמוזיקה שלך, או שכרטיסיית דפדפן מטביעה שיחה, Boom 2 לא פותר את זה. זה עושה הכל חזק יותר ביחד. זו עבודה אחרת.</p>
+
+<h2>מה בעצם אומר "נפח לכל אפליקציה" ב-macOS</h2>
+<p>הנה ההקשר הישר שרוב הסקיצות האלטרנטיביות מדלגות עליו: ל-macOS אין מערבל נפח מובנה לכל אפליקציה בכלל. ל-Windows יש אחד מזה שנים - לחץ לחיצה ימנית על הרמקול, פתח את מיקסר הווליום והגדר את Chrome ל-40% ואת Spotify ל-80%. אפל מעולם לא שלחה את זה. מקש עוצמת הקול macOS מזיז רק רמת מאסטר אחת.</p>
+<p>אז כשאתה מחפש "אלטרנטיבה Boom 2", מה שאתה באמת מחפש לעתים קרובות הוא לא Mac רועש יותר - זה השליטה לכל אפליקציה שמשתמשי Windows לוקחים כמובנת מאליה. זה פער אמיתי במערכת ההפעלה, לא משהו ש-Boom 2 או כל אפליקציה בודדת שכחו לבנות.</p>
+
+<h2>איפה SoundDial מתאים</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> בנוי עבור הפער הזה במיוחד. הוא חי בשורת התפריטים ומפרט את האפליקציות שמנגנות אודיו כרגע, כל אחת עם המחוון שלה. אתה מגדיר רמות לכל אפליקציה במקום לדחוף שליטה ראשית אחת ולקוות לטוב.</p>
+<p>מה זה עושה:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - השקט את הדפדפן, שמור את המוזיקה היכן שאתה רוצה, ללא פשרות גלובליות.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתיק אפליקציה רועשת אחת מבלי לגעת בשום דבר אחר.</li>
+<li><strong>חיזוק לכל אפליקציה</strong> - דחוף אפליקציה בודדת מעבר לתקרה הרגילה שלה כאשר וידאו או שיחה מוקלטים בשקט מדי. זה הקטע שמעריצי Boom 2 בדרך כלל מתגעגעים אליו, אלא שכאן הוא מכוון לאפליקציה אחת ולא לכל המערכת.</li>
+<li><strong>פרופילי נפח</strong> - שמור פריסות כמו "פוקוס", "פגישה" או "משחקים" והחלף בלחיצה אחת.</li>
+<li><strong>ברווז אוטומטי</strong> - מוריד אוטומטית אפליקציות אחרות כשאתה מתחיל לדבר, שימושי לשיחות ולהקלטה.</li>
+<li><strong>מיתוג פלט מהיר</strong> — קפוץ בין רמקולים, אוזניות ויציאות אחרות מאותו תפריט.</li>
+</ul>
+
+<h2>איך להגדיר את זה</h2>
+<p>זרימת העבודה קצרה:</p>
+<ul>
+<li>התקן <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מה-Mac App Store - אין DMG, אין דרייבר, אין אתחול מחדש.</li>
+<li>לחץ על סמל שורת התפריטים כדי לראות כל אפליקציה המפיקה כעת צליל.</li>
+<li>גרור את המחוון של כל אפליקציה לרמה הרצויה; השתקה או חיזוק בנפרד לפי הצורך.</li>
+<li>שמור את הסידור כפרופיל אם תרצה לעשות בו שימוש חוזר מאוחר יותר.</li>
+</ul>
+<p>מכיוון שהוא נשלח דרך ה-App Store, הוא נמצא בארגז חול ומותקן בצורה נקייה. כדאי לקרוא לזה, מכיוון שכמה כלי אודיו ישנים יותר הסתמכו על הרחבות ליבה או מנהלי התקנים אודיו וירטואליים - מסוג הדברים המודרניים ש-macOS מתנגדים יותר ויותר. SoundDial לא מבקש ממך להתקין מנהל התקן או להוריד הגדרות אבטחה.</p>
+
+<h2>מגבלה כנה</h2>
+<p>חיזוק לכל אפליקציה הוא אמיתי אבל לא קסם. אם מקור האודיו של אפליקציה שקט באמת או מוקלט בצורה גרועה, הגברתו מעלה את רצפת הרעש יחד עם האות, כך שחומר שקט מאוד יכול להישמע מלחיץ כאשר דוחפים אותו חזק. זה גבול הפיזיקלי של הגברה, לא פגם באף אפליקציה מסוימת - לחיזוק המערכת של Boom 2 היה אותו הפשרה. התייחס להגברה כאל מרווח ראש למקרים מעשיים, לא כאל הצלה לאודיו שבור.</p>
+
+<h2>Boom 2 לעומת מיקסר ממוקד</h2>
+<p>אם מה שאהבת ב-Boom 2 היה עוצמת קול מערכתית בתוספת EQ, ולא אכפת לך משליטה לכל אפליקציה, Boom 3D הוא היורש המיועד של הספק - זו דרך הוגנת, ולא נעמיד פנים אחרת. אבל אם ניסיתם את Boom 2 והבנתם שהדבר שבעצם רציתם זה להנמיך או להעלות אפליקציה אחת מבלי להזיז הכל, חבילת EQ-and-boost היא הצורה הלא נכונה של הכלי.</p>
+<blockquote>Boom 2 עושה את כל Mac חזק יותר. מיקסר לכל אפליקציה מאפשר לך להחליט איזו אפליקציה חזקה יותר. אלה פותרים בעיות שונות.</blockquote>
+<p>שווה גם לציין את ההבדל במחיר. SoundDial הוא €14.99 פעם אחת. אין מנוי, אין גרסת ניסיון שתפוגג לתוכנית גדולה יותר, ואין נתיב בתוך האפליקציה שמנווט אותך לשכבה יקרה יותר. אתה קונה את המיקסר, אתה הבעלים של המיקסר.</p>
+
+<p>אם עוצמת הקול לכל אפליקציה - לא EQ כלל מערכת - היא מה שבאמת חיפשת, <a href="https://apps.apple.com/app/id6772792641">נסה את SoundDial ב-Mac App Store</a> והגדר את הרמות שלך כמו ש-macOS היה צריך לתת לך לאורך כל הדרך.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune לעומת SoundDial: קוד פתוח בחינם לעומת נפח בתשלום לכל אפליקציה ב-Mac",
+    description: "FineTune היא אפליקציה חינמית בקוד פתוח לכל אפליקציה עבור Mac; SoundDial היא אפליקציית App Store בתשלום בארגז חול עם חיזוק, פרופילים ותמיכה. הנה השוואה כנה שתעזור לך לבחור.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>FineTune הוא מערבל נפח חינם בקוד פתוח לכל אפליקציה עבור macOS, כך שאם המחיר הוא הדאגה היחידה שלך, זו אפשרות אמיתית. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא אפליקציית Mac App Store בתשלום (14.99 אירו, חד פעמית) שמוסיפה הגברת נפח לכל אפליקציה, פרופילים שמורים, ביטול אוטומטי ותמיכה בספקים. הבחירה האמיתית היא חופשית ועשה זאת בעצמך לעומת ארגז חול ונתמך.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune לעומת SoundDial: קוד פתוח בחינם לעומת נפח בתשלום לכל אפליקציה ב-Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>הבעיה ששתי האפליקציות פותרות</h2>
+
+<p>ל-macOS עדיין אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש אחד מזה שנים - לחץ לחיצה ימנית על סמל הרמקול, פתח את מיקסר הווליום, וכל אפליקציה מקבלת מחוון משלה. ב-Mac, אתה מקבל בדיוק מחוון אחד של עוצמת הקול של המערכת לכל דבר: המוזיקה שלך, שיחת וידאו, YouTube, תקלות הודעות ומשחק כולם חולקים אותה. אם השיחה שלך שקטה מדי וה-Spotify רועש מדי, ה"תיקון" היחיד שלך הוא השתקת Spotify לחלוטין.</p>
+
+<p>גם FineTune וגם SoundDial קיימים כדי למלא את הפער הזה. הם נותנים לכל אפליקציה פועלת בקרת עוצמת קול משלה, כך שתוכל, נניח, לשמור על פגישה ב-100% תוך הורדת מוזיקת ​​רקע ל-20% - מבלי לגעת במחוון הראשי.</p>
+
+<h2>מה FineTune מקבל נכון</h2>
+
+<p>FineTune היא אפליקציה חדשה יותר, חינמית, בקוד פתוח ברוח SoundSource. בואו נהיה הוגנים לגבי החוזקות שלו, כי הן אמיתיות:</p>
+
+<ul>
+  <li><strong>זה לא עולה כלום.</strong> ללא רישיון, ללא ניסיון, ללא שדרוג.</li>
+  <li><strong>המקור פתוח.</strong> אתה יכול לקרוא בדיוק מה זה עושה, לבדוק את זה לפרטיות, ואם אתה מכיר את Swift - לשנות או לחלץ אותו.</li>
+  <li><strong>זה מונע על ידי קהילה.</strong> כל אחד יכול לתקן באגים, והקוד מאריך ימים כל חברה בודדת.</li>
+  <li><strong>זה מכסה את הצורך המרכזי.</strong> נפח עצמאי לכל אפליקציה, שזו התכונה ש-90% מהאנשים באמת מחפשים.</li>
+</ul>
+
+<p>אם הדרישה היחידה שלך היא "תן לי לדחות אפליקציה אחת מבלי לבטל הכל", ואתה מרגיש בנוח עם תוכנה שמגיעה ללא שולחן תמיכה רשמי, FineTune היא תשובה לגיטימית. להמליץ ​​על זה כאן זה לא ויתור - זה כנה.</p>
+
+<h2>הפשרות הכנות של מסלול העשה זאת בעצמך</h2>
+
+<p>חינם וקוד פתוח נושא בעלויות אמיתיות שאינן מופיעות בתג מחיר. אלה לא דפיקות על FineTune ספציפית - הם טבעה של הגישה:</p>
+
+<ul>
+  <li><strong>ההתקנה היא ידנית.</strong> כלי אודיו בקוד פתוח מופצים בדרך כלל כמבנה שהורד או כנוסחה Homebrew, לא דרך App Store. אתה מתקין מחוץ לסקירה של אפל, ואתה מוכן לעדכן אותה.</li>
+  <li><strong>יירוט אודיו לכל אפליקציה הוא שביר מטבעו.</strong> ניתוב אודיו של אפליקציה אחרת היא עבודה עמוקה במערכת. כאשר אפל שולחת עדכון macOS שמשנה את ערימת האודיו, הכלים האלה יכולים להישבר עד שמישהו יתקן אותם. עם פרויקט התנדבותי, "מישהו" עשוי להיות עסוק באותו החודש.</li>
+  <li><strong>התמיכה היא המאמץ הטוב ביותר.</strong> אם משהו נשבר, הפנייה שלך היא בעיית GitHub והמתנה. אין תגובה מובטחת ואף אחד לא חייב לתקן את זה.</li>
+  <li><strong>היקף התכונה הוא מה שהמתחזקים שולחים.</strong> בקרת עוצמת הקול הליבה כנראה מכוסה; התוספות תלויות לחלוטין בזמן התורם.</li>
+</ul>
+
+<blockquote>המסגרת הכנה: FineTune מחליפה כסף עבור אחריות תחזוקה. אתה חוסך €14.99 ולוקח על עצמך את הסיכון שעדכון מערכת ההפעלה ישאיר אותה מקולקל עד שהקהילה תופס את הפער.</blockquote>
+
+<h2>כאשר SoundDial שונה</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> לוקח את המסחר ההפוך. אתה משלם פעם אחת, ובתמורה אתה מקבל מוצר App Store עם ספק מאחוריו וערכת תכונות רחבה יותר הבנויה על גבי נפח לכל אפליקציה:</p>
+
+<ul>
+  <li><strong>עוצמת קול והשתקה לכל אפליקציה</strong> - קו הבסיס המשותף ששתי האפליקציות מספקות.</li>
+  <li><strong>הגברת נפח לכל אפליקציה</strong> - דחוף אפליקציה שקטה מדי מעבר ל-100%. שימושי עבור אפליקציות עם פלט אודיו חלש שבהן ביטול של אחרים עדיין לא מספיק.</li>
+  <li><strong>פרופילי נפח</strong> - שמור מיקסים שלמים ("פגישה", "פוקוס", "משחקים") והחלף בלחיצה אחת במקום לאפס את המחוונים בכל פעם.</li>
+  <li><strong>ברווז אוטומטי</strong> - הורדת אפליקציות רקע אוטומטית כאשר אתה מדבר או כאשר אפליקציה נבחרת הופכת פעילה, כך שהשיחות מנותקות ללא התעסקות ידנית.</li>
+  <li><strong>מיתוג פלט מהיר</strong> - קפוץ בין רמקולים, אוזניות ויציאות אחרות מסרגל התפריטים.</li>
+</ul>
+
+<p>חשוב לא פחות <em>איך</em> זה שולח. SoundDial נמצא בארגז חול ומופץ דרך ה-Mac App Store - ללא DMG נפרד, ללא מנהלי התקנים של ליבה, ללא התקנת מנהל התקן שמע. עדכונים מגיעים דרך ה-App Store כמו כל אפליקציה אחרת, ויש מפתח אמיתי לשלוח אימייל כשמשהו לא בסדר. זה הערך הקונקרטי של 14.99 אירו: לא רק יותר תכונות, אלא מישהו שאחראי על כך שהם יעבדו בכל מהדורות macOS.</p>
+
+<h2>אזהרה כנה החלה על שניהם</h2>
+
+<p>אף אפליקציה של צד שלישי לא יכולה להפוך את מערכת השמע של macOS למיקסר הווליום של Windows, מכיוון שאפל לא חושפת ממשק API ציבורי נקי לשמע לכל אפליקציה. כל כלי בקטגוריה זו - בחינם או בתשלום, פתוח או סגור - פועל סביב המגבלה הזו באמצעות טכניקות שמע ברמת המערכת. זה אומר שגם FineTune וגם SoundDial יכולים להיות מושפעים משינויי שמע גדולים של macOS. ההבדל הוא מי אחראי לתיקון לאחר מכן: קהילת מתנדבים, או ספק בתשלום שהמוצר שלו תלוי בזה.</p>
+
+<h2>באיזה כדאי לבחור?</h2>
+
+<ul>
+  <li><strong>בחר FineTune אם</strong> אתה רוצה עלות אפסית, ערך שקיפות בקוד פתוח, צריך רק נפח בסיסי לכל אפליקציה, ונוח לך להתקין מחוץ ל-App Store ולתמוך בעצמך כאשר דברים נשברים.</li>
+  <li><strong>בחר SoundDial אם</strong> אתה רוצה התקנה של App Store בלחיצה אחת, תוספות כמו בוסט, פרופילים ו-auto-dving, והבטחה של עדכונים ותמיכה מספק עם עור במשחק.</li>
+</ul>
+
+<p>שניהם תקפים. זה באמת תלוי אם אתה מעדיף לבזבז כסף או לבזבז תשומת לב. אם אתה מעדיף לקנות אפליקציה נתמכת בארגז חול ולעולם לא לחשוב על זה שוב, <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> תמורת 14.99 יורו חד פעמי - ללא מנוי, ללא נהגים, ללא DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music לעומת SoundDial: האם מיקסר הווליום החינמי Mac מספיק?",
+    description: "ראש בראש הוגן בין אפליקציית Background Music החינמית לבין SoundDial בתשלום. איפה עובדת גישת הנהג הווירטואלי החינמי, איפה היא נשברת, ומתי מיקסר מקורי של €14.99 שווה את זה.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>Background Music הוא חינמי ובאמת טוב ביסודות: הוא נותן לכל אפליקציה מחוון עוצמת הקול שלה ויכול להשהות אוטומטית מוזיקה כאשר אפליקציה אחרת מתנגנת. אם זה כל מה שאתה צריך, השתמש בו. אבל הוא מסתמך על מנהל התקן שמע וירטואלי שיכול להישבר לאחר עדכוני macOS וחסר בו חיזוק לכל אפליקציה, פרופילים ומעבר פלט. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מחליף כסף תמורת חלופה נטולת נהגים, בארגז חול, נתמכת.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music לעומת SoundDial: האם מיקסר הווליום החינמי Mac מספיק?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ראשית, האמת הכנה על macOS</h2>
+<p>ל-macOS אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש כזה כבר למעלה מעשור במיקסר הווליום שלו, אבל ב-Mac מחוון המערכת מזיז הכל בבת אחת. אין ממשק API נתמך על ידי אפל המאפשר לאפליקציה של צד שלישי ליירט באופן נקי ולאזן מחדש זרמי יישומים בודדים. הפער הבודד הזה הוא הסיבה לכך שכלים כמו Background Music ו-SoundDial קיימים בכלל, והוא הגורם העיקרי לרוב הפשרות למטה.</p>
+
+<h2>מה Background Music עושה טוב</h2>
+<p>Background Music היא אפליקציית שורת תפריט בקוד פתוח שקיימת כבר שנים ויש לה קהל נאמן מסיבה טובה. זה נותן לך:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - תכונת הליבה. הורד את Spotify תוך כדי שמירה על שיחה בקול רם.</li>
+<li><strong>השהייה אוטומטית</strong> - זה יכול להשהות את נגן המוזיקה שלך כאשר האודיו מתחיל במקום אחר, וזה מגע נחמד לפגישות.</li>
+<li><strong>נפח מכשיר שעוקב אחריך</strong> וממשק פשוט ללא שטויות.</li>
+<li><strong>עלות אפס</strong> - זה בחינם והקוד הוא ציבורי.</li>
+</ul>
+<p>להרבה אנשים זה מספיק. אם כל רשימת המשאלות שלך היא "הפוך אפליקציה רועשת אחת לשקטה יותר מבלי לגעת בשאר", Background Music מכסה אותה, ואתה לא צריך לשלם עבור משהו שאתה לא צריך. להיות הוגן כאן חשוב: זהו כלי שימושי לגיטימי.</p>
+
+<h2>היכן שהגישה החופשית מראה את התפרים שלה</h2>
+<p>המלכוד הוא <em>איך</em> Background Music משיג נפח לכל אפליקציה. מכיוון ש-macOS לא נותן נתיב רשמי, הוא מתקין מנהל התקן שמע וירטואלי (גרסה שונה של גישת Soundflower הישנה) שמנתב את אודיו של המערכת שלך דרך עצמה. הארכיטקטורה הזו חכמה, אבל היא נושאת עלויות אמיתיות:</p>
+<ul>
+<li><strong>זה נשבר לאחר עדכוני macOS.</strong> מנהלי התקנים של אודיו וירטואליים יושבים עמוק במערכת, ומהדורות גדולות של macOS השביתו או ערערו אותם באופן היסטורי. משתמשים מדווחים באופן שגרתי על שתיקה, עיוות או צורך בהתקנה מחדש לאחר השדרוג. כשהוא נשבר, אתה לעתים קרובות לבד.</li>
+<li><strong>ההתקנה כבדה יותר.</strong> אתה מוסיף התקן שמע צמוד לגרעין ל-Mac שלך, לא רק אפליקציה. הסרה נקייה יכולה להיות מסובכת.</li>
+<li><strong>זה הופך להתקן הפלט ברירת המחדל שלך.</strong> מכיוון שהכל מנותב דרך המכשיר הוירטואלי, כמה אפליקציות פרו-אודיו, ועידות או משחק יכולות להתנהג בצורה מוזרה, והחלפת הפלט האמיתי שלך היא צעד נוסף.</li>
+<li><strong>הפיתוח הוא בקצב קהילתי.</strong> אין דלפק תמיכה. התיקונים מגיעים כאשר למתנדב יש זמן, אשר עבור כלי שמע שעלול להשתתק פתאום הוא סיכון משמעותי.</li>
+</ul>
+<p>כל זה לא הופך את Background Music לרע. זה הופך אותו לכלי חינמי עם פשרות של כלי חינמי.</p>
+
+<h2>על מה אתה משלם בפועל עם SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא אפליקציה Mac App Store, שמעצבת את מה שהיא. מכיוון שיישומי App Store נמצאים בארגז חול ואינם יכולים לשלוח את סוג הדרייבר הווירטואלי ברמה נמוכה ש-Background Music משתמש בו, SoundDial בנוי לפעול ללא התקנת התקן שמע נפרד או DMG. כלומר:</p>
+<ul>
+<li><strong>אין מוזרויות של נהג וירטואלי.</strong> אין התקן פלט נוסף שחוטף את שרשרת האודיו שלך, ואין מה להתקין מחדש כאשר המערכת משתנה.</li>
+<li><strong>הוא שורד עדכוני macOS בצורה הרבה יותר אלגנטית.</strong> ההפצה והארגז חול של App Store פירושם שהוא בנוי נגד נתיבים נתמכים ומתעדכן דרך החנות, כך ששדרוג מערכת ההפעלה ישאיר אותך בשקט הרבה פחות.</li>
+<li><strong>הגברת נפח לכל אפליקציה.</strong> זהו הבדל תכונה אמיתי: SoundDial יכול לדחוף אפליקציה <em>למעלה</em> 100% למקורות שקטים - פודקאסט שהוקלט נמוך מדי, שיחת וידאו עמומה. Background Music רק מחליש.</li>
+<li><strong>פרופילי נפח.</strong> שמור קבוצה של רמות לכל אפליקציה ("פגישה", "מוזיקה", "משחקים") ועבור בלחיצה אחת במקום לגרור את המחוונים בכל פעם.</li>
+<li><strong>ברווז אוטומטי.</strong> הורד אוטומטית את עוצמת הקול של אפליקציות אחרות כאשר מקור נבחר מופעל - תפיסה ניתנת להגדרה של רעיון ההשהיה האוטומטית.</li>
+<li><strong>מיתוג פלט מהיר</strong> אפוי בשורת התפריטים, בתוספת השתקה לכל אפליקציה.</li>
+<li><strong>תמיכה אמיתית.</strong> זהו מוצר בתשלום עם מישהו אחראי כאשר משהו משתבש.</li>
+</ul>
+
+<h2>ההחלטה הכנה</h2>
+<blockquote>אם אתה רוצה בחינם וצריך רק נפח בסיסי לכל אפליקציה, ונוח לך לפתור תקלות לאחר עדכוני macOS, Background Music היא בחירה מוצקה. אם אתה רוצה דחיפה, פרופילים, השתמטות, החלפת פלט, ללא שבריריות של נהג וירטואלי, ומישהו שישלח אימייל כאשר הוא נשבר, SoundDial שווה 14.99 אירו.</blockquote>
+<p>כמה שוברי שוויון מבטון. אם אתה מתמודד באופן קבוע עם מקורות שקטים מדי, הבוסט לבדו מצדיק את המחיר - Background Music פשוט לא יכול להשמיע שמע חזק יותר מהמקור. אם אתם חוששים מההימור השנתי "האם האודיו שלי ישרוד את העדכון", אפליקציית החנות בארגז החול מסירה את החרדה הזו. אם אתה אוהב סצנות להגדיר ולשכח, פרופילים חוסכים חיכוך אמיתי. וזה 14.99 אירו חד פעמי, לא מנוי, כך שההשוואה היא רכישה בודדת לעומת הזמן המושקע בשמירה על נהג חינם.</p>
+<p>לעומת זאת, אם אתה טינקר שנהנה מקוד פתוח, רוצה לקרוא את הקוד, ובעיקר רק מבטל אפליקציה אחת - חסוך את הכסף שלך. שני הכלים פותרים את אותה בעיית ליבה; הם שונים בחוסן, עומק תכונה, ומי תופס אותך כאשר macOS משתנה מתחתיהם.</p>
+
+<p>רוצה נפח לכל אפליקציה בלי הימור על נהג וירטואלי? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 אירו חד-פעמי, בארגז חול, ללא דרייברים, עם בוסט, פרופילים וברווז אוטומטי מובנה.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "האם SoundSource שווה $39? אלטרנטיבה חד פעמית Mac זולה יותר",
+    description: "SoundSource הוא כלי שמע חזק של Mac במחיר של ~ 39 $, אבל זה מוגזם אם אתה צריך רק נפח וחיזוק לכל אפליקציה. הנה השוואה כנה ואלטרנטיבה חד פעמית של 14.99 אירו.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>SoundSource שווה את זה אם אתה צריך את ערכת הכלים המלאה שלו: נפח לכל אפליקציה, EQ של 10 פסים לכל אפליקציה, ניתוב אודיו בין מכשירים ואפקטים כלל מערכתיים. אבל בסביבות $39 זה מוגזם אם אתה רוצה בעיקר נפח לכל אפליקציה, השתקה לכל אפליקציה והגברת נפח. לעבודה צרה יותר, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> עולה 14.99 אירו פעם אחת.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — האם SoundSource שווה $39? אלטרנטיבה חד פעמית Mac זולה יותר" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מה ש-SoundSource עושה בפועל</h2>
+<p>ה-SoundSource של Rogue Amoeba הוא תוכנה מעולה באמת, וחשוב להיות הוגן לגבי זה. זה לא רק מערבל נפח. זה נותן לך:</p>
+<ul>
+<li><strong>בקרת עוצמת הקול לכל אפליקציה</strong> מסרגל התפריטים, התכונה שרוב האנשים מגיעים בשבילה.</li>
+<li><strong>אקולייזר מלא של 10 להקות</strong> אתה יכול להחיל לכל אפליקציה או בכל המערכת, בתוספת אפקטי אודיו אחרים (באמצעות תוספים של יחידת שמע).</li>
+<li><strong>ניתוב פלט/קלט</strong>, כולל שליחת אפליקציה בודדת להתקן פלט שונה משאר המערכת.</li>
+<li><strong>החלפת מכשיר מהירה</strong> והגדרות EQ ספציפיות לאוזניות.</li>
+</ul>
+<p>אם אתה פודקאסר, סטרימר או חנון אודיו שרוצה לכוון את ה-EQ באוזניות שלך, להפנות צליל של אפליקציה אחת לרמקול נפרד, או לערום אפקטים של יחידת שמע, SoundSource מרוויח את המחיר שלו. שום דבר כאן אינו דפיקה.</p>
+
+<h2>שאלת המחיר</h2>
+<p>SoundSource הוא רישיון חד פעמי בתשלום בסביבות $39 (התמחור משתנה לפי גרסה ומבצעים). זה לא מנוי חוזר במובן של נטפליקס, אבל הוא עוקב אחר דפוס האפליקציה הקלאסי בתשלום: אתה קונה גרסה מרכזית, ושדרוגים גדולים עתידיים הם בדרך כלל שדרוגים בתשלום בהנחה ולא בחינם לנצח. במשך כמה שנים, זה יותר מרכישה בודדת. עבור הרבה משתמשי Mac, השאלה הכנה היא: האם אני משלם $39 עבור חבילת ניתוב ו-EQ כאשר כל מה שאני באמת נוגע בו הוא מחווני עוצמת הקול לכל אפליקציה?</p>
+
+<blockquote>אם פתחת את SoundSource ואי פעם השתמשת רק במחווני עוצמת הקול ובלחצני ההשתקה, אתה משלם עבור חבילה שתשתמש במגירה אחת שלה.</blockquote>
+
+<h2>למה הבעיה קיימת בכלל</h2>
+<p>להלן סיבת השורש הכנה: ל-macOS אין מערבל נפח מובנה לכל אפליקציה. ל-Windows יש כזה כבר שנים, אבל ב-Mac, עוצמת הקול של המערכת היא הכל או כלום. אין דרך שסופקה על ידי אפל לשמור על שקט של Spotify בזמן ששיחת וידאו נשארת רועשת, או להשתיק אפליקציה אחת מבלי לגעת בכל השאר. הפער הזה הוא בדיוק הסיבה לכך שכלים כמו SoundSource ו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> קיימים. זו מגבלה אמיתית של מערכת ההפעלה, לא משהו שאף אפליקציה המציאה בעיה לפתור.</p>
+
+<h2>איפה מתאימה אפשרות קלה יותר וזולה יותר</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא מערבל נפח תפריט לכל אפליקציה שנבנה עבור המארז הנפוץ ולא עבור המארז הפרו-אודיו. זה מכסה:</p>
+<ul>
+<li><strong>נפח עצמאי לכל אפליקציה</strong> - שחרר את המוזיקה שלך בזמן שפגישה נשארת ברמה מלאה.</li>
+<li><strong>השתקה לכל אפליקציה</strong> - השתקה של אפליקציה אחת מבלי להשתיק את ה-Mac.</li>
+<li><strong>הגברת נפח לכל אפליקציה</strong> - דחוף אפליקציה שקטה מעל 100% הרגיל שלה כשהמקור פשוט רך מדי.</li>
+<li><strong>פרופילי נפח</strong> - שמור קבוצה של רמות לכל אפליקציה (למשל פריסת "פוקוס" או "קריאה") ועבור בלחיצה אחת.</li>
+<li><strong>ברווז אוטומטי</strong> - הוריד אוטומטית אפליקציות אחרות כשאתה מתחיל לדבר או כאשר אפליקציה נבחרת פועלת.</li>
+<li><strong>מיתוג פלט מהיר</strong> — קפוץ בין רמקולים, אוזניות והתקנים אחרים מסרגל התפריטים.</li>
+</ul>
+<p>זה <strong>14.99 אירו חד פעמי</strong>, נמכר דרך Mac App Store, כך שהוא בארגז חול ואין DMG נפרד, אין סיומת ליבה ואין מנהל התקן שמע להתקנה. אתה מוריד אותו כמו כל אפליקציית App Store והיא מתעדכנת דרך החנות.</p>
+
+<h2>השוואה כנה</h2>
+<p>תהיו ברורים לגבי הפשרה. SoundSource עושה יותר מ-SoundDial, ואם אחד מהדברים הבאים חשוב לך, SoundSource היא הקנייה הטובה יותר:</p>
+<ul>
+<li>אתה רוצה אפליקציה או מערכת אמיתית <strong>אקולייזר</strong> ואפקטים של יחידת שמע.</li>
+<li>אתה צריך <strong>נתב אפליקציה בודדת להתקן פלט אחר</strong> מכל דבר אחר.</li>
+<li>אתה סומך על <strong>הגדרות EQ ספציפיות לאוזניות</strong> ועיבוד אודיו עדין.</li>
+</ul>
+<p>SoundDial לא עושה EQ או ניתוב מכשיר לכל אפליקציה. זה צר יותר בכוונה. מה שהוא נותן לך בתמורה הוא מחיר נמוך יותר, טביעת רגל קלה יותר וממשק שורת תפריטים ממוקד עבור הדבר שרוב האנשים באמת רצו: שמירה על כל אפליקציה ברמה שתבחר, עם חיזוק ופרופילים למעלה.</p>
+
+<h2>אז האם SoundSource שווה את זה?</h2>
+<p>כן, אם תשתמש ב-EQ ובניתוב. זו תוכנה בוגרת ונתמכת היטב ממפתח מכובד, והמחיר משקף יכולת אמיתית. אבל "שווה את זה" תלוי במה תיגע. אם אתה פותח את האפליקציה ורק אי פעם מכוון את מחווני עוצמת הקול, משתיק אפליקציה או רוצה שאפליקציה שקטה אחת תהיה רועשת יותר, אתה משלם כסף לחבילת פרימיום עבור צרכי מיקסר בסיסיים. במקרה זה כלי חד פעמי של €14.99 הוא ההתאמה ההגיונית יותר, ותמיד תוכל לעבור ל-SoundSource מאוחר יותר אם הצרכים שלך יגדלו לתוך EQ וניתוב.</p>
+
+<p>אם אתה מחפש רק עוצמת קול לכל אפליקציה, חיזוק, השתקה, פרופילים והורדה אוטומטית, <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> - 14.99 יורו פעם אחת, ללא מנוי, ללא נהגים.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome חזק מדי ב-Mac? השבת דפדפן אחד מבלי להשתיק הכל",
+    description: "Chrome מתפוצץ חזק יותר מהאפליקציות האחרות שלך ב-Mac? למד את התיקונים המובנים (השתקה לכל לשונית, הגדרות סאונד באתר) וכיצד להגדיר עוצמת קול אמיתית לכל אפליקציה עבור Chrome כך שהוא יישאר שקט יותר מכל דבר אחר.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין נפח מובנה לכל אפליקציה, כך שלא תוכל להנמיך את Chrome באופן מקורי תוך השארת אפליקציות אחרות בווליום מלא. התיקונים החינמיים המהירים ביותר שלך הם השתקת כרטיסיות רועשות, הורדת עוצמת הקול בתוך כל נגן וידאו, או חסימת סאונד לכל אתר בהגדרות של Chrome. לרמת עוצמת קול אמיתית ומתמשכת של Chrome בלבד, אתה צריך מיקסר לכל אפליקציה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome חזק מדי ב-Mac? השבת דפדפן אחד מבלי להשתיק הכל" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>למה Chrome נשמע חזק יותר מכל דבר אחר</h2>
+<p>Chrome לא בהכרח "רועש" יותר בעיצובו - זה ש-Chrome מנתב אודיו ממקורות עצמאיים רבים: YouTube, מודעות המושמעות אוטומטית, שיחות וידאו, כרטיסיות מוזיקת רקע ואפליקציות אינטרנט שכל אחת מספקת את העוצמה שלה. חלק מהאתרים שולטים בהוט, המודעות רועשות ידוע לשמצה, ו-Chrome מנגן את כולם ברמת הפלט המלאה של המערכת שלך. בינתיים אפליקציית המוזיקה או השיחה שלך עשויים להיות שקטים יותר, כך ש-Chrome שולט בתמהיל.</p>
+<p>ב-Windows, פשוט תפתח את מיקסר הווליום וגרור את המחוון Chrome כלפי מטה. macOS פשוט לא כולל את התכונה הזו. מקש עוצמת הקול של המערכת שולט על הכל בבת אחת, כך שהורדת Chrome גם מפחיתה את המוזיקה, ההתראות והשיחות שלך. זו מגבלת הליבה - וזה פער במערכת ההפעלה, לא משהו שאתה עושה לא בסדר.</p>
+
+<h2>תיקונים מובנים שלא עולים כלום</h2>
+<p>לפני התקנת משהו, נסה את אלה. הם לא יתנו לך ולו חוגה אחת לעוצמת הקול של Chrome, אבל הם פותרים את רוב הבעיות של "כרטיסייה קולנית אחת".</p>
+<ul>
+<li><strong>השתקה לשונית רועשת.</strong> לחץ לחיצה ימנית על הכרטיסייה ובחר "השתקת אתר", או לחץ על סמל הרמקול הקטן שמופיע בכרטיסייה שמנגנת אודיו. זה משתיק את הכרטיסייה הזו לחלוטין מבלי לגעת בשאר ה-Chrome.</li>
+<li><strong>הנמיך את עוצמת הקול בתוך הנגן.</strong> הטריק האמין ביותר: גרור את מחוון עוצמת הקול למטה בתוך YouTube, נטפליקס או כל מה שמתנגן. נגני אינטרנט זוכרים את הרמה שלהם לכל אתר, כך ש-YouTube שקט יותר נשאר שקט בפעם הבאה.</li>
+<li><strong>חסימת קול לכל אתר.</strong> עבור אל <em>chrome://settings/content/sound</em>. אתה יכול להפוך אתרים בין "מותר" ל"מושתק", ולהוסיף דומיינים ספציפיים לרשימת השתק. מצוין להשתקה לצמיתות של אתרים המופעלים אוטומטית.</li>
+<li><strong>להרוג מודעות להפעלה אוטומטית.</strong> אודיו של מודעה הוא לעתים קרובות האשם האמיתי. חוסם תוכן או השתקת הכרטיסייה עד שתהיה מוכן לצפייה מסירים את רוב עוצמת ההפתעה.</li>
+</ul>
+<blockquote>אלה באמת שימושיים וחינמיים. אבל שימו לב מה הם לא יכולים לעשות: הם משתיקים או מנהלים כרטיסיות בודדות. אף אחד מהם לא נותן לך לומר "שמור על כל ה-Chrome ב-40% בזמן שהמוזיקה שלי נשארת ב-100%".</blockquote>
+
+<h2>המגבלה הכנה: אין נפח לכל אפליקציה ב-macOS</h2>
+<p>אם המטרה האמיתית שלך היא "Chrome תמיד צריך להיות שקט יותר מהאפליקציות האחרות שלי", הכלים המובנים נופלים. השתקה לכל כרטיסייה היא הכל או כלום. מחווני הנגן מתאפסים כאשר אתר אינו זוכר אותם ויש לבצע אותם מחדש כל הזמן. ועוצמת הקול של המערכת מזיזה הכל ביחד.</p>
+<p>זוהי מגבלה אמיתית של macOS, לא באג שאתה יכול להגדיר ממנו. אפל מעולם לא שלחה מערבל נפח בסגנון Windows. הדרך היחידה להשיג רמת עוצמת קול מתמשכת ועצמאית עבור Chrome ספציפית היא אפליקציה של צד שלישי שיושבת בין האפליקציות שלך להתקן הפלט שלך ומחילה רווח לכל אפליקציה.</p>
+
+<h2>הגדר נפח אמיתי לכל אפליקציה עבור Chrome</h2>
+<p>מיקסר בר תפריט כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נותן ל-macOS את בקרת עוצמת הקול לכל אפליקציה שהיא חסרה. היא מפרטת כל אפליקציה שמנגנת אודיו כרגע ונותנת לכל אחת את המחוון שלה - כך שתוכל למשוך את Chrome למטה לרמה נוחה ולהשאיר את Spotify, השיחות וצלילי המערכת שלך בדיוק היכן שהם נמצאים.</p>
+<p>כך תוכל לאלף איתו Chrome רועש:</p>
+<ul>
+<li>פתח את מיקסר שורת התפריט ומצא את Chrome ברשימת האפליקציות הפעילות.</li>
+<li>גרור את המחוון של Chrome למטה, למשל, 40 עד 50 אחוז. אפליקציות אחרות נשארות ללא נגיעה.</li>
+<li>אם גם אפליקציה ספציפית <em>שקט</em> במקום זאת - אפליקציית שיחות שלוחשת - השתמש <a href="https://apps.apple.com/app/id6772792641">הגברת נפח לכל אפליקציה</a> לדחוף אותו מעל 100 אחוז, תוך שמירה על Chrome נמוך.</li>
+<li>השתק את Chrome באופן מיידי עם השתקה לכל אפליקציה כאשר אתה צריך שקט מבלי לסגור כרטיסיות.</li>
+</ul>
+<p>מכיוון שהרמה קשורה לאפליקציה, היא נדבקת. Chrome נשאר בעוצמת הקול שבחרת בכרטיסיות, באתרים והתחלות מחדש - אין לגרור מחדש את מחווני הנגן בכל פעם שאתה פותח סרטון חדש.</p>
+
+<h2>הולכים רחוק יותר: פרופילים, בריחה והחלפת פלט</h2>
+<p>ברגע שיש לך שליטה לכל אפליקציה, כמה תוספות הופכות את זה שווה לשמור בסביבה. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מאפשר לך לחסוך בנפח <strong>פרופילים</strong> - למשל פרופיל "פוקוס" שבו Chrome שקט והמוזיקה רועשת, ופרופיל "צופה" שבו Chrome שולט - ולעבור ביניהם בלחיצה אחת. השחזור האוטומטי יכול לטבול אפליקציות אחרות באופן אוטומטי כאשר מקור נבחר מתחיל (שימושי כך ששיחה לעולם לא נקברת תחת לשונית דפדפן רועשת). ומעבר פלט מהיר מאפשר לך לדלג בין רמקולים, אוזניות והתקנים אחרים מבלי לצלול להגדרות מערכת.</p>
+<p>מדובר ברכישה חד פעמית של 14.99 אירו ב-Mac App Store - ללא מנוי, ללא מנהלי התקנים להתקנה, ללא DMG או סיומת ליבה. מכיוון שהוא בארגז חול ומופץ דרך ה-App Store, הוא אינו מצריך את התקנת מנהל התקן האודיו המצומצם של כלי מיקסר ישנים יותר שעליהם מסתמכים.</p>
+
+<h2>באיזה תיקון כדאי להשתמש?</h2>
+<p>אם יש לך רק כרטיסייה אחת מגעילה מדי פעם, השתמש בהשתקה המובנית של Chrome ובהגדרות הסאונד של האתר - הן בחינם והן עובדות. אם אתה מוצא את עצמך כל הזמן רוצה ש-Chrome פשוט יידחה בזמן שכל השאר נשאר במקום, זה הפער המדויק ש-macOS משאיר פתוח, ומיקסר לכל אפליקציה הוא התיקון הנקי.</p>
+
+<p>רוצה את Chrome שקט יותר לצמיתות מבלי להשתיק את המוזיקה או השיחות שלך? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> ולתת לכל אפליקציה את מחוון עוצמת הקול שלה.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "הודעות WhatsApp ו-Telegram נשמעות חזק מדי ב-Mac? דחו אותם",
+    description: "תקן צלילי הודעות שולחן העבודה של WhatsApp ו-Telegram חזקים מדי ב-Mac שלך. התחל עם ההגדרות המובנות של כל אפליקציה, ואז הנמיך או השתיק את כל האפליקציה כאשר macOS לא נותן לך שליטה לכל אפליקציה.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>התחל בתוך כל אפליקציה: WhatsApp ו-Telegram שניהם מאפשרים לך להשתיק או לשנות צלילי התראות בהגדרות שלהם, וזה התיקון הנקי ביותר. אבל ל-macOS אין מחוון עוצמת הקול של הודעות לכל אפליקציה, כך שאם הצליל של האפליקציה עצמה עדיין חזק מדי, המנוף האמיתי היחיד שלך הוא להנמיך או להשתיק את כל האודיו של האפליקציה עם כלי עוצמת הקול לכל אפליקציה.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — הודעת WhatsApp ו-Telegram נשמעת חזק מדי ב-Mac? דחו אותם" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ראשית, השתמש בהגדרות ההתראות של האפליקציה עצמה</h2>
+
+<p>גם WhatsApp וגם Telegram מספקים פקדי סאונד משלהם, וכאן תמיד כדאי להתחיל. זה התיקון המדויק ביותר והוא לא נוגע בשום דבר אחר ב-Mac שלך.</p>
+
+<p><strong>WhatsApp שולחן עבודה:</strong> פתח את WhatsApp, לחץ <em>הגדרות</em> (סמל גלגל השיניים), אם כן <em>התראות</em>. אתה יכול לכבות <em>צלילים</em> לחלוטין תוך שמירה על באנרים, או השבת תצוגות מקדימות של התראות. WhatsApp אינו מציע מחוון עוצמת הקול, כך שהוא בעצם מופעל או כבוי עבור הצליל עצמו.</p>
+
+<p><strong>Telegram שולחן עבודה:</strong> פתוח <em>הגדרות ← התראות וצלילים</em>. Telegram גמיש יותר כאן. אתה יכול לכבות את צליל ההתראה באופן גלובלי, להשתיק צ'אטים בודדים או להגדיר צלילים מותאמים אישית (שקטים יותר). אתה יכול גם להשתיק קבוצה רועשת אחת על ידי פתיחתה ובחירה <em>השתק</em>. עבור רוב האנשים, השתקת הצ'אטים הרועשים ביותר פותר את הבעיה מבלי להשתיק בכל מקום.</p>
+
+<p>אם הסאונד בסדר אך תכוף מדי, השתיק את הצ'אטים או הערוצים הספציפיים שנפתחים לרוב במקום להרוג את הסאונד בכל האפליקציה. זה שומר על שמיעת התראות חשובות.</p>
+
+<h2>כבה את צלילי ההתראה בהגדרות מערכת macOS</h2>
+
+<p>ל-macOS יש שכבת שליטה שנייה שעוקפת את האפליקציה במקרים מסוימים. עבור אל <em>הגדרות מערכת ← התראות</em>, בחר WhatsApp או Telegram ברשימה, וכבה <em>הפעל צליל עבור התראות</em>. זה משתיק את צלצול ההתראה עבור אותה אפליקציה ועדיין מציג באנרים.</p>
+
+<p>זהו תיקון טוב באמת אם אתה רק רוצה שהאפליקציה תהיה שקטה בהתראות ולא אכפת לה מהשמע האחר שלה (שיחות, וידאו). בשילוב עם ההגדרות של האפליקציה עצמה, היא מכסה את רוב התלונות "הפינג צורם".</p>
+
+<h2>המגבלה האמיתית: ל-macOS אין נפח לכל אפליקציה</h2>
+
+<p>הנה החלק הכנה. השלבים שלמעלה הם מתגי הפעלה/כיבוי. מה שהם לא יכולים לעשות זה להפוך את WhatsApp או Telegram <em>למטה</em> ל, נגיד, 40% תוך שמירה על כל השאר בווליום מלא. ל-Windows יש מערבל נפח לכל אפליקציה במשך שנים. macOS פשוט לא כולל אחד, ואין הגדרה נסתרת או פקודת Terminal שמוסיפה אותה.</p>
+
+<p>זה משנה כאשר הבעיה היא לא צלצול ההתראות ספציפית, אלא כל האפליקציה רועשת מדי:</p>
+
+<ul>
+<li>WhatsApp או Telegram <strong>שיחות קול ווידאו</strong> שמתפוצצים בווליום מלא ביחס למוזיקה שלך או לפגישה</li>
+<li>צליל התראה שאתה רוצה לשמור אבל ברמה נמוכה יותר, לא כבוי לחלוטין</li>
+<li>רינגטונים שמגיעים הרבה מעל כל דבר אחר שאתה מאזין לו</li>
+<li>רוצה שהאפליקציה תהיה נשמעת אך בשקט ברקע בזמן שאתה מתמקד במשהו אחר</li>
+</ul>
+
+<p>שום דבר מזה לא ניתן לפתרון עם הכלים המובנים, מכיוון שהם מציעים רק אילם, לא רמה. הפער הזה הוא מגבלה אמיתית של macOS, לא משהו שאתה מפספס.</p>
+
+<h2>הגדר עוצמת קול לכל אפליקציה עם SoundDial</h2>
+
+<p>כדי למעשה להנמיך אפליקציה בודדת במקום לכבות, אתה צריך מערבל נפח לכל אפליקציה. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> היא אפליקציית שורת תפריטים המעניקה ל-macOS את בקרת עוצמת הקול לכל אפליקציה שהיא מעולם לא נשלחה איתה. זה מפרט כל אפליקציה שמנגנת אודיו כרגע ונותן לכל אחת את המחוון שלה.</p>
+
+<p>לבעיה הספציפית הזו:</p>
+
+<ul>
+<li>פתוח <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> משורת התפריטים ומצא את WhatsApp או Telegram ברשימה.</li>
+<li>גרור את המחוון שלו למטה לרמה נוחה, למשל 30-40%, תוך השארת המוזיקה, הדפדפן או שיחת הווידאו שלך ללא נגיעה.</li>
+<li>השתמש באפליקציה לכל אפליקציה <strong>אילם</strong> לחצן להשתיק את האפליקציה הזו באופן מיידי במהלך שיחה או פגישה, ואז לבטל את ההשתקה מאוחר יותר מבלי לחפור בהגדרות.</li>
+<li>אם אי פעם תזדקק להיפך, אפליקציה שקטה רכה מדי, האפליקציה לכל אפליקציה <strong>להגביר</strong> יכול לדחוף אותו מעל 100%.</li>
+</ul>
+
+<p>מכיוון שהוא מגדיר רמה לכל אפליקציה, SoundDial שומר על צלצולי הודעות ושמע שיחות שמע אך פרופורציונלי, במקום הבחירה של הכל או כלום, האפשרויות המובנות כופה עליך. אפשר גם לשמור <strong>פרופילי נפח</strong>, כך שהגדרת "פוקוס" ששומרת על אפליקציות צ'אט נמוכות נמצאת במרחק לחיצה אחת.</p>
+
+<blockquote>אזהרה אחת כנה: הורדת עוצמת הקול הכוללת של אפליקציה ב-SoundDial גם מורידה את פעמוני ההתראות שלה, שכן מבחינת macOS מדובר באודיו של אותה אפליקציה. אם אתה רוצה הודעות כבויות לחלוטין אבל שיחות בווליום מלא, השתמש בהגדרות ההשתקה של האפליקציה בתוספת הגדרות מערכת עבור הצלצול, ושמור את SoundDial להגדרת הרמה הכללית.</blockquote>
+
+<p>SoundDial היא רכישה חד פעמית של €14.99 ב-Mac App Store, בארגז חול, ללא מנוי, ללא מנהלי התקנים של ליבה וללא DMG לטעינה. זוהי התשובה המעשית כאשר התיקון שאתה באמת רוצה, כיבוי אפליקציה אחת במקום כיבוי, אינו משהו ש-macOS עצמו יכול לעשות.</p>
+
+<h2>באיזה תיקון כדאי להשתמש?</h2>
+
+<p>עבוד מלמעלה למטה. נסה תחילה את הגדרות ההתראה של האפליקציה, ולאחר מכן הגדרות מערכת macOS כדי להרוג את הצלצול. אם מה שאתה באמת רוצה זה להוריד את WhatsApp או Telegram לנפח מסוים, או להשתיק רק את האפליקציה הזו תוך כדי שיחות, זה המקום שבו מערבל לכל אפליקציה מרוויח את מקומו.</p>
+
+<p>נמאס לכם לבחור בין פיצוץ מלא לשקט מוחלט עבור אפליקציות הצ'אט שלכם? <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> ולתת לכל אפליקציה חיוג עוצמתי משלה.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "אודיו של משחק חזק יותר מ-Discord ב-Mac? כיצד לאזן בין משחק מול עוצמת קול",
+    description: "המשחק שלך מטביע את הצ'אט הקולי Discord ב-Mac ואין מיקסר ווליום מובנה. הנה הסיבה לכך ש-macOS חסר עוצמת קול לכל אפליקציה בסגנון Windows, וכיצד להנמיך את המשחק תוך שמירה על הקול.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין מערבל נפח מובנה לכל אפליקציה, כך שלא תוכל להגביל את המשחק שלך באופן טבעי תוך שמירה על רעש Discord. התיקון הוא אפליקציית שורת תפריטים שמגדירה נפח עצמאי לכל אפליקציה. הורד את המשחק ל-40-50%, השאר את הצ'אט הקולי ב-100%, ושניהם נשארים מאוזנים מבלי לגעת במחוונים במשחק.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — אודיו של משחק חזק יותר מ-Discord ב-Mac? כיצד לאזן בין משחק מול עוצמת קול" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע זה קורה ב-Mac (ולא ב-Windows)</h2>
+
+<p>אם שיחקתם ב-Windows, אתם מכירים את מיקסר הווליום: לחצו לחיצה ימנית על סמל הרמקול, וכל אפליקציה פועלת מקבלת מחוון משלה. אתה מוריד את המשחק, מעלה Discord, סיימת. macOS פשוט מעולם לא שלח את התכונה הזו. יש נפח פלט ראשי אחד וקומץ בוררים ברמת האפליקציה קבורים בהגדרות המערכת, אך אין שליטה ברמת אפליקציה עבור אפליקציות שרירותיות.</p>
+
+<p>אז כאשר שילוב של משחק משולט חם, הפיצוצים, המוזיקה והירי שלו מגיעים באותה רמת פלט כמו הקולות של החברים שלך. חלק מהמשחקים חושפים מחוון עוצמת הקול הראשי, אבל הרבה לא יורדים מספיק, והרבה משגרים, דפדפנים וכותרים עצמאיים אינם מציעים שליטה שימושית כלל. Discord עצמו מאפשר לך להתאים רק את עוצמת הקול של משתמשים נכנסים, לא את המשחק המתחרה בהם.</p>
+
+<p>למען האמת, זהו פער ברמת מערכת ההפעלה, לא באג שאתה יכול לבטל. מחסנית האודיו של אפל מנתבת הכל לזרם פלט יחיד, ואין ממשק משתמש של צד ראשון כדי לפצל אותו לכל אפליקציה. זו הסיבה שאתה צריך כלי של צד שלישי שיושב בין האפליקציות שלך להתקן הפלט.</p>
+
+<h2>הדרכים הידניות לעקיפת הבעיה (ומדוע הן נופלות)</h2>
+
+<p>לפני שמגיעים לתוכנה, כדאי להכיר את האפשרויות החינמיות ואת המגבלות שלהן:</p>
+
+<ul>
+<li><strong>הורד את עוצמת הקול של המשחק בתוך האפליקציה.</strong> עובד אם למשחק יש מחוון ראשי עם שלבים מספיק טובים. רבים עוצרים במרווחים של 10% או מאגדים מוזיקה ואפקטים יחד, כך שלא תוכל לאלף רק את החלקים הרועשים.</li>
+<li><strong>גדל את החברים שלך ב-Discord.</strong> לחץ לחיצה ימנית על כל משתמש והגבר את עוצמת הקול שלו. זה עוזר קצת אבל מתקדם, וזה לא נוגע במשחק שזו בעצם הבעיה.</li>
+<li><strong>השתמש באוזניות עם כפתור עוצמת הקול של החומרה.</strong> משנה רק את הרמה הכללית, לא את האיזון בין משחק לקול.</li>
+<li><strong>נתב אודיו דרך מכשיר וירטואלי.</strong> כלים כמו Loopback או BlackHole יכולים לפצל זרמים, אבל הם מכוונים למקצוענים, לוקחים הגדרה אמיתית, והם מוגזמים בשביל "להפוך את המשחק לשקט יותר".</li>
+</ul>
+
+<p>אף אחד מאלה לא נותן לך את הדבר היחיד שמשתמשי Windows לוקחים כמובן מאליו: מחוון מהיר לכל אפליקציה. זה הפער <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> בנוי למילוי.</p>
+
+<h2>התיקון הישיר: נפח עצמאי לכל אפליקציה</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא מערבל נפח תפריט לכל אפליקציה עבור macOS. זה מראה כל אפליקציה שמנגנת סאונד כרגע ונותן לכל אחת את המחוון שלה, בדיוק כמו מיקסר הווליום Windows. לבעיית המשחק מול הקול, זרימת העבודה קצרה:</p>
+
+<ul>
+<li>לחץ על סמל SoundDial בשורת התפריטים שלך בזמן שהמשחק ו-Discord פועלים.</li>
+<li>מצא את המשחק ברשימה ומשוך את המחוון שלו כלפי מטה ל-40-50% בערך.</li>
+<li>השאר את Discord (או Slack, Zoom, או אפליקציית הקול שלך) ב-100%.</li>
+<li>התכוונן תוך כדי משחק - דחף את המשחק למטה עוד יותר בקרב אש רועש, הגבה במהלך חקר שקט.</li>
+</ul>
+
+<p>מכיוון שהרמות הן לכל אפליקציה, אתה מגדיר אותן פעם אחת והן מחזיקות. המשחק נשאר מוגבל לא משנה כמה חם המיקס שלו עצמו פועל, והחברים שלך נשארים נשמעים בבירור מעליו.</p>
+
+<h2>הגבר, השתקה ופרופילים לשאר ההגדרות שלך</h2>
+
+<p>אותו כלי מכסה את המטרדים הסמוכים שמגיעים עם משחקי קול:</p>
+
+<ul>
+<li><strong>חיזוק לכל אפליקציה.</strong> אם המיקרופון של חבר צוות שקט אפילו במקסימום של Discord, אתה יכול לדחוף את אפליקציית הקול <em>למעלה</em> 100% אז זה חותך את המשחק במקום להיקבר.</li>
+<li><strong>השתקה לכל אפליקציה.</strong> השתקה מיידית של כרטיסיית דפדפן ברקע או אפליקציית מוזיקה בלי ללחוץ על Alt Tab או להרוג את ההשמעה.</li>
+<li><strong>פרופילי נפח.</strong> שמור פרופיל "משחקים" עם המשחק ב-45% ו-Discord מוגבר, ולאחר מכן עבור חזרה לפרופיל "רגיל" לשימוש יומיומי בלחיצה אחת - ללא גרירה מחדש של המחוונים בכל הפעלה.</li>
+<li><strong>ברווז אוטומטי.</strong> בקש מהמשחק לצלול אוטומטית כשמישהו מדבר, כך שהסברים תמיד נוחתים על האקשן.</li>
+<li><strong>מיתוג פלט מהיר.</strong> קפוץ בין אוזניות ורמקולים מאותו תפריט מבלי לצלול להגדרות מערכת.</li>
+</ul>
+
+<blockquote><p>המודל המנטלי פשוט: סליידר אחד לכל אפליקציה, כמו ש-Windows עשה זאת במשך שנים. macOS פשוט מעולם לא סיפק אותו, אז כלי עזר קטן משחזר זוגיות.</p></blockquote>
+
+<h2>למה לצפות בכנות</h2>
+
+<p>מיקסר לכל אפליקציה פותר את בעיית האיזון בצורה נקייה, אבל מגדיר את הציפיות בצורה נכונה. הוא שולט ברמות הפלט של התוכנה - הוא לא יכול לתקן משחק שהאודיו שלו שולט בצורה גרועה, והוא לא יכול להעלות אות שמעולם לא נקלט (מיקרופון שבור באמת עדיין זקוק לתיקון חומרה). Boost מוסיף רווח אמיתי, כך שדחיפה של מקור שקט הרבה מעבר ל-100% יכולה להכניס עיוות, בדיוק כמו הגדלת כל מגבר גבוה מדי. עם זאת, בשימוש נבון, מכסה משחק צנוע בתוספת חיזוק קול קטן הוא כל מה שרוב ההגדרות צריכים.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> נמצא בארגז חול ומותקן ישירות מה-Mac App Store - ללא מנהלי התקנים, ללא הרחבות ליבה, אין DMG לסמוך. זה 14.99 אירו חד פעמי ללא מנוי, והוא תומך בבקרת עוצמת הקול macOS ב-28 שפות.</p>
+
+<p>תפסיק להילחם עם המחוונים שלך במשחק. תפוס <a href="https://apps.apple.com/app/id6772792641">SoundDial ב-Mac App Store</a>, תנמיך את המשחק, שמור על הסגל שלך רועש, ולבסוף קבל את מערבל הווליום בסגנון Windows macOS שכחת לשלוח.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "רמקולי מסך חיצוניים חזקים מדי או תקועים ב-Mac? תקן את עוצמת הקול של HDMI/DisplayPort",
+    description: "מדוע מקשי עוצמת הקול של ה-Mac שלך אינם שולטים ברמקולי צג HDMI או DisplayPort, וכיצד לתקן אודיו חזק מדי, תקוע או בלתי ניתן להתאמה באמצעות הצג OSD, הגדרת Audio MIDI וניתוב פלט טוב יותר.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם מקשי עוצמת הקול של Mac שלך באפור או לא עושים כלום עבור צג המחובר דרך HDMI או DisplayPort, זה בדרך כלל לא באג. אודיו של תצוגה דיגיטלית נשלח לעתים קרובות ברמה קבועה, והחומרה של הצג עצמו שולטת בעוצמת הקול. התיקון הוא להתאים את התצוגה, לנתב מחדש את הפלט או להשתמש בהתקן שמע אחר.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — רמקולי מסך חיצוניים חזקים מדי או תקועים ב-Mac? תקן את עוצמת הקול של HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע מקשי עוצמת הקול Mac מפסיקים לעבוד דרך HDMI/DisplayPort</h2>
+
+<p>HDMI ו-DisplayPort נושאים אודיו כזרם דיגיטלי. צגים רבים מקבלים את הזרם הזה ברמת פלט קבועה ומצפים ממך לשלוט בעוצמת הקול בתצוגה עצמה, לא במכשיר המקור. כאשר macOS מזהה זאת, הוא משבית את מחוון עוצמת הקול על המסך ומאפיר את מקשי F11/F12, ומציג סמל "אין כניסה" כאשר אתה לוחץ עליהם.</p>
+
+<p>זוהי מגבלה של חומרה ופרוטוקול, לא משהו שתוכנה ב-Mac יכולה לעקוף. האודיו אף פעם לא עובר שלב שבו מותר ל-macOS להחליש אותו. אף אפליקציה, מנהל התקן או הגדרה לא יכולים להחדיר בקרת עוצמת הקול לזרם שהתצוגה מתעקשת לקבל ברמה מלאה. להיות כנה לגבי זה חוסך לך שעות של מרדף אחר התיקון הלא נכון.</p>
+
+<h2>תיקון 1: השתמש בפקדים של הצג עצמו (OSD)</h2>
+
+<p>זה הפתרון האמיתי עבור רוב האנשים. כמעט לכל צג עם רמקולים מובנים יש תפריט תצוגה על המסך המונע על ידי כפתורים פיזיים או ג'ויסטיק בגב או בצד התחתון של הפאנל.</p>
+
+<ul>
+<li>לחץ על לחצן OSD/תפריט כדי לפתוח את הגדרות הצג.</li>
+<li>חפש קטע שמע או עוצמת קול.</li>
+<li>הורידו את הרמה שם - זו השליטה שפועלת למעשה על HDMI/DP.</li>
+</ul>
+
+<p>צגים מסוימים חושפים גם אפליקציה נלווית או תמיכה ב-DDC/CI כך שתוכל להניע את ה-OSD מ-macOS. כלי עזר של צד שלישי שמדברים DDC יכולים למפות את מקשי עוצמת הקול של ה-Mac שלך לעוצמת הקול של החומרה של הצג, מה ששווה לנסות אם אתה שונא להושיט יד לכפתורי הפאנל.</p>
+
+<h2>תיקון 2: בדוק את הגדרת Audio MIDI</h2>
+
+<p>פתוח <strong>הגדרת אודיו MIDI</strong> (ב/יישומים/כלי עזר). בחר את הצג שלך ברשימת המכשירים. אם מחוון עוצמת הקול מופיע בצד ימין, גרור אותו למטה - לפעמים התצוגה חושפת רמה הניתנת לשליטה בתוכנה גם כאשר מקשי שורת התפריטים מושבתים. אם המחוון חסר או אפור, התצוגה מאשרת שהוא מקבל רק שמע ברמה קבועה, ואתה צריך לחזור ל-OSD.</p>
+
+<p>בזמן שאתה כאן, אשר שהתקן הפלט הנכון נבחר. מקובל ששמע מנותב בשקט למוניטור ששכחת שהוא מחובר, מה שמסביר צליל פתאומי חזק או נעדר.</p>
+
+<h2>תיקון 3: נתב אודיו למקום שבו אתה באמת יכול לשלוט</h2>
+
+<p>אם הרמקולים של המסך שלך ממילא בינוניים (רובם) ובקרת הווליום שלו מגושמת, התיקון הנקי ביותר הוא להפסיק להשתמש בהם:</p>
+
+<ul>
+<li>חבר רמקולים או אוזניות לשקע יציאת האוזניות של הצג אם יש כזה - הפלט האנלוגי הזה ניתן בדרך כלל לשליטה בעוצמת הקול מהצג.</li>
+<li>השתמש ב-USB DAC, ברמקולי USB, או בפלט Bluetooth. יציאות USB ואנלוגיות מעניקות ל-macOS שליטה מלאה על עוצמת הקול של התוכנה, כך שהמקשים שלך שוב פועלים כרגיל.</li>
+<li>בחר את הרמקולים המובנים של ה-Mac שלך לצלילים מהירים ושמור את הצג לווידאו בלבד.</li>
+</ul>
+
+<p>ברגע שאתה על פלט ש-macOS באמת יכול להחליש, מקשי עוצמת הקול של המערכת מתנהגים, ואתה מחזיר שליטה עדינה במקום לדלג בין שלבי ה-OSD הגסים של הצג.</p>
+
+<h2>ברגע שהפלט עובד, שלוט בעוצמת הקול לכל אפליקציה</h2>
+
+<p>קבלת פלט שניתן לשליטה בחזרה פותר את בעיית ה"רועש מדי/תקוע". אבל macOS עדיין נותן לך רק נפח מאסטר אחד לכל דבר. אין מיקסר מובנה לכל אפליקציה ב-Mac - ל-Windows היה אחד מזה שנים, אבל אפל מעולם לא שלחה ערך מקביל. אז סרטון קולני, משחק ושיחה שקטה חולקים את אותו המחוון.</p>
+
+<p>זה הפער <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ממלא. זהו מיקסר שורת תפריטים שנותן לכל אפליקציה עוצמת קול עצמאית משלה, כך שתוכל להנמיך כרטיסיית דפדפן מבלי לגעת במוזיקה שלך, להשתיק אפליקציה אחת באופן מיידי או להגביר אפליקציה שקטה מעל התקרה הרגילה שלה. אתה יכול לשמור פרופילי עוצמת הקול עבור הגדרות שונות ולהחליף יציאות במהירות מסרגל התפריטים.</p>
+
+<p>כדי להיות ברור לגבי ההיקף: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> שולט על עוצמת הקול של התוכנה לזרימת אודיו דרך macOS. זה לא יכול לעקוף צג שמתעלם מעוצמת הקול של המערכת דרך HDMI - זו ההתנהגות ברמה הקבועה של התצוגה, ורק ה-OSD או פלט אחר מתקן את זה. ברגע שאתה נמצא על פלט שניתן לשליטה, שליטה לכל אפליקציה היא המקום שבו האפליקציה זורחת.</p>
+
+<h2>רשימת בדיקה מהירה</h2>
+
+<ul>
+<li>מקשים אפורים על HDMI/DP? השתמש בנפח ה-OSD של הצג - זו ההתנהגות הצפויה.</li>
+<li>בדוק את הגדרת Audio MIDI עבור מחוון תוכנה מוסתר.</li>
+<li>אשר שהתקן הפלט הנכון נבחר.</li>
+<li>לשליטה אמיתית, נתב אודיו ליציאת אוזניות, USB או Bluetooth.</li>
+<li>לאחר מכן השתמש במיקסר לכל אפליקציה כדי לאזן אפליקציות בודדות.</li>
+</ul>
+
+<p>ברגע שהפלט שלך בשליטה, תן <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מבט. מדובר ברכישה חד פעמית של €14.99 מה-Mac App Store - ללא מנוי, ללא דרייברים, ללא DMG - ולבסוף הוא מביא מערבל נפח אמיתי לכל אפליקציה ל-macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "עוצמת הקול USB DAC לא תתכוונן ב-Mac? קבל בחזרה את בקרת עוצמת הקול של התוכנה",
+    description: "מדוע macOS מאפיר את מחוון עוצמת הקול עבור USB DACs רבים, מה זה אומר וכיצד להחזיר את בקרת עוצמת הקול של התוכנה ב-Mac שלך מבלי לפגוע באיכות השמע.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אם מחוון עוצמת הקול של USB DAC שלך באפור ב-Mac, זה בדרך כלל לא באג. macOS משבית את עוצמת הקול של התוכנה שלו כאשר DAC מדווח שאין לו עוצמת קול ניתנת לשליטה, ומצפה שתשתמש בכפתור החומרה של ה-DAC עצמו. כדי להחזיר את עוצמת הקול של התוכנה, השתמש במנחת ברמת האפליקציה כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC עוצמת הקול לא יתכוונן ב-Mac? קבל בחזרה את בקרת עוצמת הקול של התוכנה" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע macOS מאפיר את עוצמת הקול עבור כמה USB DACs</h2>
+
+<p>כאשר אתה מחבר התקן שמע USB, macOS שואל אותו מה הוא יכול לעשות באמצעות פרוטוקול USB Audio Class (UAC). חלק מלחיצת היד הזו היא קבוצה של פקדי "יחידת תכונה", כולל בקרת עוצמת הקול. אם ה-DAC מצהיר על בקרת עוצמת הקול, macOS מחבר אותו למקשי עוצמת הקול במקלדת ולמחוון שורת התפריטים. אם ה-DAC מצהיר שאין לו נפח מתכוונן מארח, macOS מאפיר את המחוון לחלוטין.</p>
+
+<p>הרבה DACs ומגברים איכותיים עושים בדיוק את האחרון, בכוונה. ההנחה של המעצב היא שתזינו את ה-DAC באות דיגיטלי בקנה מידה מלא ומושלם ותשלוט בעוצמת הקול באמצעות כפתור הווליום האנלוגי ביחידה עצמה. הנחתה אנלוגית זו מתרחשת לאחר ההמרה דיגיטלית לאנלוגית, כך שהיא נמנעת מהשלכת ביטים והיא באמת הנתיב המועדף על אודיופיל. זו תכונה, לא תקלה.</p>
+
+<blockquote>כלל אצבע: אם ל-DAC שלך יש כפתור נפח פיזי והמחוון Mac באפור, היצרן רוצה שתשתמש בכפתור. האות נשלח ב-100% לפי התכנון.</blockquote>
+
+<h2>כאשר המחוון האפור הוא למעשה בעיה</h2>
+
+<p>התשובה "פשוט השתמש בכפתור" מתפרקת בהגדרות אמיתיות:</p>
+
+<ul>
+<li><strong>ל-DAC אין כפתור.</strong> שפע של USB DACs קומפקטיים, דונגלים וממשקי מקצוענים לא חושפים שום בקרת עוצמת הקול וגם שום בקרת מארח. אתה תקוע בכל רמה שהמגבר במורד הזרם או הרמקולים המופעלים מוגדרים אליה.</li>
+<li><strong>הכפתור אינו בהישג יד.</strong> DAC שולחני מאחורי המסך שלך, או יחידה שמזינה מגבר בעל עוצמה קבועה, פירושה התאמת עוצמת הקול הופכת למטלה פיזית במקום לחיצת מקש.</li>
+<li><strong>אתה צריך איזון לכל אפליקציה, לא רק רמת מאסטר.</strong> אפילו כפתור חומרה מושלם הוא שליטה גלובלית אחת. זה לא יכול לגרום לשיחת Zoom להיות שקטה יותר מהמוזיקה שלך, או לבטל משחק כאשר הודעה מופעלת.</li>
+</ul>
+
+<p>אף אחד מאלה לא מתוקן על ידי macOS, מכיוון שמנקודת המבט של מערכת ההפעלה המכשיר מתנהג נכון. זו המגבלה הכנה: זוהי יכולת המדווחת על ידי מכשיר, ואין בורר בהגדרות המערכת כדי לעקוף אותה.</p>
+
+<h2>דרכים כנות לעקיפת הבעיה לפני שתתקין משהו</h2>
+
+<p>נסה את אלה קודם, כי הם לא עולים כלום:</p>
+
+<ul>
+<li><strong>השתמש בכפתור החומרה או בעוצמת הקול במורד הזרם.</strong> אם ל-DAC שלך או לרמקולים/מגבר המופעלים יש שליטה, זו האפשרות הנקייה ביותר ומשמרת רזולוציה דיגיטלית מלאה.</li>
+<li><strong>בדוק את האפליקציה או הקושחה של ה-DAC עצמו.</strong> חלק מה-DACs (ויחידות מוכוונות משחקים) מספקות לוח בקרה או הגדרת קושחה שמאפשרת עוצמת הקול המארח. אם קיימת אפשרות של "נפח USB" או "נפח תוכנה", הפעלתה גורמת למחוון macOS לפעול שוב.</li>
+<li><strong>נסה מצב USB אחר.</strong> כמה מכשירים מדווחים על יכולות שונות במצב "תואם לכיתה" לעומת מצב דרייבר קנייני. התקנה או הסרה של מנהל ההתקן של הספק יכולה לשנות אם macOS רואה בקרת עוצמת הקול.</li>
+<li><strong>חפש ב- Audio MIDI Setup.</strong> פתח את Audio MIDI Setup, בחר את ההתקן ובדוק אם מופיע שם עוצמת קול מאסטר או לכל ערוץ. מדי פעם מחוון זמין בחלונית זו גם כאשר שורת התפריטים אחת אפור.</li>
+</ul>
+
+<p>אם אף אחד מאלה לא רלוונטי, אתה צריך הנחתת תוכנה בצד Mac.</p>
+
+<h2>בקרת עוצמת הקול של תוכנה עם הנחתה לכל אפליקציה</h2>
+
+<p>כאשר החומרה לא תקבל פקודת עוצמת הקול, האפשרות שנותרה היא להחליש את האודיו בתוכנה לפני שהוא מגיע ל-DAC. זה בדיוק מה <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> עושה. הוא יושב בשורת התפריטים שלך ונותן לכל אפליקציה פועלת עוצמת קול עצמאית משלה, השתקה ואפילו דחיפה, ללא קשר אם ה-DAC שלך חושף בקרת חומרה.</p>
+
+<p>כדי להשתמש בו עבור DAC אפור:</p>
+
+<ul>
+<li>התקן <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מה-Mac App Store ופתח אותו משורת התפריטים.</li>
+<li>השאר את ה-DAC שלך נבחר כפלט המערכת; אתה יכול גם להשתמש במעבר הפלט המהיר של SoundDial כדי לעבור בין ה-DAC, הרמקולים והאוזניות מבלי לצלול להגדרות מערכת.</li>
+<li>הגדר רמות לכל אפליקציה: שחרר את הדפדפן, הרם את נגן המוזיקה, השתק כל מה שאתה לא רוצה. כל אפליקציה זורמת בעוצמת הקול שתבחר, והתוצאה המעורבת עוברת ל-DAC.</li>
+<li>שמור פרופילי עוצמת הקול עבור תרחישים שונים (שיחות לעומת האזנה), ואפשר לשקוע אוטומטי של אפליקציות רקע נמוך יותר כאשר משהו חשוב יותר מתחיל להתנגן.</li>
+</ul>
+
+<h2>הפשרה הכנה על איכות השמע</h2>
+
+<p>הנחתת תוכנה מפחיתה את הרמה הדיגיטלית לפני ההמרה, כך שבתיאוריה היא משליך כמות קטנה של רזולוציה בהשוואה לנפח אנלוגי ב-DAC עצמו. בפועל, בנתיבים מודרניים של 24 סיביות ומעלה ברמות האזנה רגילות, ההפחתה היא הרבה מתחת לכל דבר שנשמע, ואתה שומר על הטווח הדינמי המלא של ה-DAC עבור כל מה שמושמע כמעט בקנה מידה מלא. אם אתה טהרני עם כפתור אנלוגי טוב בהישג יד, השתמש בכפתור. אם אין לך בקרת חומרה שמישה, או שאתה צריך איזון לכל אפליקציה macOS פשוט לא יכול לספק, נפח התוכנה הוא הפשרה הנכונה, והיא מנצחת מחוון שלא עושה כלום.</p>
+
+<p>SoundDial היא רכישה חד פעמית של €14.99, בארגז חול, ללא מנהלי התקנים, הרחבות ליבה או מתקיני DMG. אם עוצמת הקול של ה-USB DAC שלך אפור והושטת יד לכפתור אינה אופציה, <a href="https://apps.apple.com/app/id6772792641">קבל SoundDial ב-Mac App Store</a> והחזירו את בקרת עוצמת הקול העובדת לשורת התפריטים שלכם.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "הגדירו את עוצמת הקול המקסימלית של אפליקציה חזקה ב-Mac (הגן על השמיעה שלך)",
+    description: "ל-macOS אין מכסת נפח לכל אפליקציה, כך שאפליקציה רועשת אחת יכולה לפוצץ אותך בווליום מערכת מלא. הנה איך להגדיר תקרת נפח מקסימלי עבור אפליקציה בודדת ב-Mac עם מיקסר לכל אפליקציה, ולמה מגבלות החומרה חשובות.",
+    date: "2026-07-23",
+    readTime: "5 דקות קריאה",
+    content: `<p>ל-macOS אין דרך מובנית להגביל את עוצמת הקול המקסימלית של אפליקציה אחת, כך שתוכנית רועשת משחקת בכל מה שמוגדר מחוון המערכת שלך. כדי להגדיר תקרה לאפליקציה בודדת, השתמש במיקסר בשורת תפריט לכל אפליקציה כמו <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: החזק את האפליקציה הזו ב-40 אחוז, נניח, בעוד עוצמת הקול של המערכת שלך נשארת גבוהה יותר עבור כל השאר.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - הגדר את עוצמת הקול המקסימלית של אפליקציה רועשת אחת ב-Mac (הגן על השמיעה שלך)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>מדוע אפליקציה אחת יכולה לפוצץ אותך פתאום ב-Mac</h2>
+
+<p>ב-macOS, מחוון עוצמת הקול בשורת התפריטים או מרכז הבקרה הוא פקד יחיד כלל מערכת. כל אפליקציה נכנסת לאותו פלט באותה רמה. אין מערבל נפח לכל אפליקציה מובנה במערכת ההפעלה כפי שהיה ל-Windows זה שנים עם פאנל Volume Mixer שלו.</p>
+
+<p>לעיצוב הזה יש השלכה אמיתית על האוזניים שלך. אם תגדיר את עוצמת הקול של המערכת שלך גבוה כדי שתוכל לשמוע פודקאסט שקט או שיחת וידאו רכה, ולאחר מכן עבור למשחק, התראת Discord, אתר עמוס בפרסומות, או סרטון ששולטים בו בעוצמה רבה יותר, האפליקציה הזו מתנגנת גם ברמת המערכת המלאה. התוצאה היא הפחד הקפיצה הקלאסי: קיר פתאומי של צליל בווליום שמעולם לא התכוונת לאותה אפליקציה ספציפית.</p>
+
+<p>עבור כל מי שיש לו טינטון, רגישות לקול, או שפשוט מעריך את השמיעה שלו, חוסר הניבוי הוא הבעיה. אתה לא מנסה לעשות הכל יותר שקט. אתה מנסה להבטיח שאפליקציה רועשת ספציפית אחת לעולם לא תעלה על רמה שהחלטת שהיא בטוחה.</p>
+
+<h2>מה macOS יכול ומה לא יכול לעשות כאן</h2>
+
+<p>תן לי להיות כנה לגבי הגבולות לפני שאמליץ על משהו.</p>
+
+<ul>
+<li><strong>נפח מערכת</strong> מוריד הכל בבת אחת. הורד את זה כדי לאלף אפליקציה אחת והאפליקציות השקטות שלך לא נשמעות.</li>
+<li><strong>מחווני עוצמת הקול בתוך האפליקציה</strong> קיימים באפליקציות מסוימות (נגני מדיה, דפדפנים מסוימים לכל כרטיסייה) אך לא ברובן. למשחק, שיחת וידאו או אפליקציה מקורית אין לרוב בקרת ווליום עצמאית.</li>
+<li><strong>תקרת החומרה אמיתית.</strong> אף תוכנה לא יכולה לדחוף אות חזק יותר מהמקסימום של התקן הפלט שלך. לעומת זאת, שליטה בעוצמת הקול של אפליקציה, בתוספת DAC והאוזניות שלך, מגדירים את התחושה החזקה של "100 אחוז". תוכנה יכולה להוריד רמה לכל אפליקציה בצורה מהימנה, אבל היא לא יכולה לשכתב את הפיזיקה של האוזניות שלך.</li>
+</ul>
+
+<p>אז המטרה הכנה היא לא הגבלת עוצמת הקסם ברמת הנהג. זוהי הנחתה מעשית ואמינה לכל אפליקציה: החזק אפליקציה נבחרת בחלק קבוע מתפוקת המערכת כך שהיא לעולם לא תוכל להפתיע אותך.</p>
+
+<h2>כיצד להגביל את עוצמת הקול של אפליקציה בודדת עם מיקסר לכל אפליקציה</h2>
+
+<p>מערבל עוצמת הקול לכל אפליקציה מיירט את האודיו של כל אפליקציה ומאפשר לך להגדיר את הרמה שלה באופן עצמאי. הנה זרימת העבודה עם <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, שחי בשורת התפריטים:</p>
+
+<ul>
+<li><strong>פותחים את המיקסר.</strong> לחץ על סמל שורת התפריטים SoundDial. תראה רשימה של כל אפליקציה שמנגנת אודיו כרגע, כל אחת עם המחוון שלה.</li>
+<li><strong>מצא את האפליקציה הרועשת.</strong> אתר את האפליקציה שברצונך להגביל, למשל משחק, דפדפן או כלי לשיחות ועידה בווידאו.</li>
+<li><strong>הגדר את התקרה שלו.</strong> גרור את המחוון של האפליקציה הזו למטה לרמת הבטוחה שלך, נניח 35 עד 50 אחוז. אפליקציה זו פועלת כעת בחלק זה של פלט המערכת בעוד כל אפליקציה אחרת נשארת במקום שהייתה.</li>
+<li><strong>השאר את עוצמת הקול של המערכת שלך איפה שאתה צריך.</strong> שמור את מחוון המערכת גבוה מספיק עבור האפליקציות השקטות שלך. האפליקציה המוגבלת נשארת רסן ללא קשר.</li>
+</ul>
+
+<p>מכיוון שהרמה היא לכל אפליקציה, אתה למעשה מגדיר מקסימום עבור אותה תוכנית אחת. גם כשהוא מנסה להשמיע את התוכן הכי רועש שלו, הכי חזק הוא עכשיו חלק מהמלא שבחרת.</p>
+
+<h2>הפוך את הפקק למקל עם פרופילים</h2>
+
+<p>התאמה ידנית בודדת עוזרת, אבל רמות האפליקציה יכולות להתאפס כאשר אתה יוצא ומפעיל מחדש. כדי ליצור הגדרה בטוחה לשמיעה ששורדת הפעלה מחדש, השתמש <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>פרופילי הנפח של. שמור פרופיל עם הרמות המועדפות עליך לכל אפליקציה, למשל "ערב משחקים שקט" עם המשחק ב-40 אחוז, אפליקציית המוזיקה שלך ב-70 אחוז, ואפליקציית השיחות שלך ב-90 אחוז. הזכר אותו בלחיצה אחת בכל פעם שאתה מתיישב. התקרה שלך עבור האפליקציה הרועשת חוזרת בדיוק כפי שהגדרת אותה.</p>
+
+<p>כדאי להכיר שתי תכונות נוספות להגנה על שמיעה:</p>
+
+<ul>
+<li><strong>השתקה לכל אפליקציה</strong> מאפשר לך להשתיק מיידית עבריין בודד מבלי לגעת בשום דבר אחר, שימושי עבור אפליקציה ששולחת הודעות דואר זבל.</li>
+<li><strong>ברווז אוטומטי</strong> טובל אוטומטית את אודיו הרקע כאשר משהו חשוב יותר מתחיל, כך שלא תיתפס בין שני מקורות רועשים בבת אחת.</li>
+</ul>
+
+<blockquote><p>הנחתת תוכנה יעילה באמת להגבלה על אפליקציה, אבל היא שכבה אחת של הגנה, לא הגנה רפואית. אם יש לך טינטון או רגישות לקול, חבר תקרת לכל אפליקציה עם רמות האזנה כלליות הגיוניות והפסקות. אף אפליקציה לא מחליפה הרגלי נפח זהירים.</p></blockquote>
+
+<h2>הערה על חיזוק, ולמה זה נפרד</h2>
+
+<p>אותו מיקסר לכל אפליקציה שמכסה אפליקציה רועשת יכול גם להגביר אפליקציה שקטה מדי מעל 100 אחוז, וזה שימושי עבור אפליקציה שעוצמת הקול שלה היא נמוכה מדי. אלו שני צדדים של אותה שליטה: אתה מחליט את הרמה של כל אפליקציה, למעלה או למטה. להגנה על שמיעה אתה פשוט בוחר בכיוון ה"למטה" ומחזיק אותו שם.</p>
+
+<h2>הגרסה הקצרה</h2>
+
+<p>macOS לא יאפשר לך להגביל את עוצמת הקול של אפליקציה אחת בפני עצמה, וזה פער אמיתי במערכת ההפעלה, לא שגיאת משתמש. מערבל שורת תפריטים לכל אפליקציה סוגר אותו: הגדר את האפליקציה הרועשת לשבריר קבוע, שמור אותה בפרופיל, והיא לעולם לא תוכל לפוצץ אותך שוב בזמן שהאפליקציות האחרות שלך נשארות נשמעות.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא רכישה חד פעמית של €14.99 ב-Mac App Store, בארגז חול ללא מנהלי התקנים או DMG להתקנה. אם המטרה היא להגן על האוזניים מפני אפליקציה אחת בלתי צפויה, זו הדרך הפשוטה ביותר לקבוע את התקרה ולשמור עליה.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "איזון שמאל/ימין שונה לכל אפליקציה ב-Mac - האם זה אפשרי?",
+    description: "האם אתה יכול להגדיר איזון סטריאו שמאל/ימני שונה עבור כל אפליקציה ב-macOS? בכנות, לא - לא באופן מקורי, ולא עם רוב הכלים. הנה מה שבעצם אפשרי והיכן נמצאים הגבולות האמיתיים.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>בכנות, לא - macOS לא מאפשר לך להגדיר איזון סטריאו שמאל/ימני שונה לכל אפליקציה, וכמעט אף כלי של צד שלישי לא חושף גם פניה אמיתית לכל אפליקציה. אתה יכול להגדיר יתרה גלובלית אחת עבור התקן הפלט שלך, ותוכל לשלוט בכל אפליקציה <em>נפח</em>, אבל עצמאי לכל אפליקציה <em>מחבת</em> אינו תכונה macOS זמין.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — איזון שמאל/ימין שונה לכל אפליקציה ב-Mac — האם זה אפשרי?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>איזון לעומת נפח - הם לא אותו דבר</h2>
+
+<p>כדאי להפריד בין שני רעיונות שמתבלבלים לעתים קרובות:</p>
+<ul>
+  <li><strong>נפח</strong> - כמה רועשת אפליקציה בסך הכל. זוהי רמה אחת המוחלת על שני הערוצים.</li>
+  <li><strong>איזון (פאן)</strong> - כיצד מופץ השמע בין הרמקולים השמאלי והימני. מאזן של "שמאל מלא" שולח הכל לערוץ השמאלי ומשתיק את הימין.</li>
+</ul>
+
+<p>אנשים שמבקשים "איזון שונה לכל אפליקציה" רוצים בדרך כלל אחד משני דברים: לדחוף צליל של אפליקציה אחת לאוזן אחת (נגיד, שיחה באוזן שמאל, מוזיקה בימין), או לתקן הבדל שמיעה או רמקול גרוע בצד אחד - אבל רק עבור אפליקציות מסוימות. אלו מטרות לגיטימיות. הבעיה היא איפה השליטה חיה.</p>
+
+<h2>מדוע macOS לא יכול לעשות זאת באופן טבעי</h2>
+
+<p>ל-macOS יש בדיוק בקרת איזון אחת, והיא חיה ברמת התקן הפלט. תמצא את זה מתחת <strong>הגדרות מערכת ← צליל ← פלט</strong>, שבו א <em>איזון</em> המחוון מעביר את כל המיקס שמאלה או ימינה. כל מה שהמחוון מוגדר עליו חל עליו <em>הכל</em> מנותב למכשיר הזה - כל אפליקציה, כל צליל מערכת, הכל בבת אחת.</p>
+
+<p>אין ממשק API בערימת האודיו הסטנדרטית של macOS שאומר "לעבד את האודיו של האפליקציה הזו לשמאל, האפליקציה הזו מימין". אפליקציות מוסרות את האודיו שלהן למערכת כבר מעורבב, והמערכת מיישמת איזון ראשי אחד בדרך לרמקולים. כך שהשכבה שבה תרצו להכניס לכל אפליקציה פשוט לא נחשפת על ידי מערכת ההפעלה. זוהי מגבלה אמיתית של מערכת ההפעלה, לא משהו שכלי סרגל תפריט יכול לעקוף בנימוס.</p>
+
+<blockquote>בניגוד לכל אפליקציה <em>נפח</em> - שגם ל-macOS חסר באופן מקורי אבל אילו אפליקציות יכולות ליישם על ידי הקשה על זרם האודיו - לכל אפליקציה <em>איזון</em> ידרוש סיבוב מחדש של הזרם של כל אפליקציה באופן עצמאי, וה-hook הזה אינו זמין לאפליקציות בארגז חול.</blockquote>
+
+<h2>מה SoundDial עושה - ובכנות, מה הוא לא עושה</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> נותן לך את השליטה לכל אפליקציה שחסרה macOS: עצמאי <strong>נפח</strong> עבור כל אפליקציה פועלת, לכל אפליקציה <strong>אילם</strong>, נפח לכל אפליקציה <strong>להגביר</strong> מעל 100%, נפח שניתן לחסוך <strong>פרופילים</strong>, ברווז אוטומטי ומעבר פלט מהיר מסרגל התפריטים.</p>
+
+<p>להיות ישר איתך: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> בקרות לכל אפליקציה <em>עוצמה והשתקה</em>, לא סטריאו לכל אפליקציה <em>פנורמה</em>. זה לא ישלח Safari לאוזן השמאלית שלך ואת Spotify לימינך. אם מישהו אומר לך שמיקסר שורת תפריט עושה איזון L/R אמיתי לכל אפליקציה ב-macOS, היה סקפטי - זו לא שליטה שמערכת ההפעלה מחלקה. מה ש-SoundDial באמת פותר הוא התסכול הנפוץ הרבה יותר: אפליקציה אחת רועשת מדי או שקטה מדי ביחס לאחרת.</p>
+
+<h2>הדרכים האמיתיות לעקיפת הבעיה עבור איזון לכל אפליקציה</h2>
+
+<p>אם אתה באמת צריך אודיו מפוצל לצד, הנה האפשרויות הכנות, בערך מהפשוטה ביותר למעורבת ביותר:</p>
+
+<ul>
+  <li><strong>איזון גלובלי (כל האפליקציות):</strong> השתמש בהגדרות מערכת ← צליל ← פלט ← איזון. זוהי האפשרות המובנית היחידה שלך, והיא משפיעה על כל אפליקציה. שימושי לתיקון חדר או אסימטריה בשמיעה, חסר תועלת לבידוד אפליקציה אחת.</li>
+  <li><strong>התקני פלט נפרדים:</strong> זה הדבר הקרוב ביותר לאיזון אמיתי לכל אפליקציה. נתב אפליקציה A להתקן פלט אחד ואפליקציה B לאחרת, ולאחר מכן הגדר את האיזון של כל מכשיר בנפרד. macOS מאפשר לך לבחור התקן פלט בתוך אפליקציות מסוימות (ודפדפנים/אפליקציות תקשורת חושפים לעתים קרובות את בורר הפלט שלהם). אם אפליקציה A מצביעה על מכשיר המופנה שמאלה ואפליקציה B על מכשיר המופנה ימינה, אתה למעשה מקבל איזון לכל אפליקציה - כל עוד שתי האפליקציות מאפשרות לך לבחור את הפלט שלהן.</li>
+  <li><strong>כלים לניתוב אודיו וירטואלי:</strong> כלי עזר היוצרים מכשירים וירטואליים ומיקסר פנימי יכולים, בתצורות מסוימות, לנתב אפליקציות ספציפיות לערוצים ספציפיים. זה חזק אך מטופש, מוסיף רכיב בסגנון נהג, והוא מוגזם עבור רוב האנשים. זה התחום של סטרימרים ומהנדסי אודיו, לא תיקון סתמי של "שיחה באוזן אחת".</li>
+  <li><strong>פיצול חומרה:</strong> אם מדובר ברמקולים פיזיים או הבדל שמיעה, מיקסר חומרה או ממשק שמע עם שליטה לכל ערוץ עוקף לחלוטין את בעיית התוכנה.</li>
+</ul>
+
+<h2>כאשר נפח לכל אפליקציה הוא למעשה מה שהיית צריך</h2>
+
+<p>הרבה בקשות "אני רוצה איזון שונה לכל אפליקציה" הן באמת "אפליקציה אחת מטביעה את השנייה". אם המטרה היא שיחת וידאו שאתה יכול לשמוע דרך המוזיקה שלך, או משחק חזק מדי ליד צ'אט Discord, איזון הוא לא הכלי - עוצמת קול עצמאית היא. זה בדיוק מה שמתמודד לכל אפליקציה בצורה נקייה, ללא דרייברים וירטואליים או התעמלות ניתוב.</p>
+
+<p>אז הסיכום הכנה: איזון שמאל/ימין אמיתי לכל אפליקציה הוא לא תכונה של macOS, ואף אפליקציית מיקסר לא מזייפה את זה בצורה משכנעת. המסלולים האמיתיים שלך הם מחוון האיזון הגלובלי או ניתוב פלט לכל אפליקציה למכשירים פנויים בנפרד. אבל אם הכאב הבסיסי הוא עוצמה יחסית, זו בעיה שנפתרה.</p>
+
+<p>רוצה עוצמת קול עצמאית, השתקה והגברה עבור כל אפליקציה ב-Mac שלך, עם פרופילים שניתנים לשמירה וללא דרייברים? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">קבל SoundDial ב-Mac App Store</a> - 14.99 אירו, חד פעמי, בארגז חול.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "מדוע יש אפליקציות כל כך חזקות יותר מאחרות ב-Mac? (ואיך לסדר אותם)",
+    description: "אפליקציות נשמעות שונה לחלוטין ב-Mac מכיוון שלכל אחת מהן שולטים ביעד העוצמה שלה ול-macOS אין בקרת עוצמת הקול מובנית לכל אפליקציה. הנה למה זה קורה וכיצד ליישר את האפליקציות שלך.",
+    date: "2026-07-23",
+    readTime: "6 דקות קריאה",
+    content: `<p>אפליקציות נשמעות שונה לחלוטין ב-Mac שלך מכיוון שכל אחת מהן נבנתה, שולטת ומנורמלת ליעד העוצמה שלה, ול-macOS אין בקרת עוצמת הקול מובנית לכל אפליקציה כדי ליישב אותן. Spotify, YouTube, Zoom והתראות המערכת עוברות כולן דרך אותו מחוון ראשי, כך שאתה תקוע רוכב עליו למעלה ולמטה ללא הרף.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - מדוע אפליקציות מסוימות רועשות בהרבה מאחרות ב-Mac? (ואיך לסדר אותם)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>זה לא ה-Mac שלך - זה האודיו עצמו</h2>
+
+<p>מחוון עוצמת הקול של המערכת הבודדת ב-macOS שולט ברמת הפלט הסופית לכל דבר. זה לא נוגע בעוצמה היחסית שנאפתה בזרם האודיו של כל אפליקציה. קו הבסיס הזה נקבע הרבה לפני שהסאונד מגיע לרמקולים שלך, והוא משתנה מאוד ממקור למקור.</p>
+
+<p>שלושה דברים מניעים את ההבדלים האלה:</p>
+
+<ul>
+<li><strong>שליטה ברמות.</strong> רצועת פופ נוקבת משולטת הרבה יותר מהקלטה אקוסטית שקטה או פודקאסט מדוברת. סרט מעורב לקולנוע שומר על לחישות שקטות ופיצוצים רועשים בכוונה - זה טווח דינמי, וזה אומר שהרמה הממוצעת נמוכה.</li>
+<li><strong>יעדי נורמליזציה של עוצמת קול.</strong> פלטפורמות סטרימינג מתאימות את ההשמעה ליעד שנמדד ב-LUFS (יחידות עוצמה ביחס לקנה מידה מלא). Spotify שואף סביב -14 LUFS, YouTube בערך -14 LUFS, Apple Music סביב -16 LUFS. אפליקציית ועידת וידאו או משחק מפעילים את הרווח שלהם לחלוטין. שתי אפליקציות ש"מנורמלו" למטרות שונות לעולם לא יתאימו זו לזו.</li>
+<li><strong>אין פילוס חוצה אפליקציות.</strong> כל אפליקציה מנרמלת רק את התוכן שלה. שום דבר לא מתאם את Spotify מול Zoom מול משחק דפדפן. macOS פשוט מסכם אותם ושולח את התמהיל החוצה.</li>
+</ul>
+
+<h2>למה LUFS חשוב (במונחים פשוטים)</h2>
+
+<p>רמת שיא אומרת לך את הרגע הכי חזק באות. LUFS אומר לך כמה משהו חזק בעצם <em>מרגיש</em> לאורך זמן, משוקלל לאופן פעולת השמיעה האנושית. ההבחנה הזו היא הסיבה שפודקאסט ורצועת ריקודים יכולים להגיע לאותו פסגה אך להרגיש עולמות נפרדים בקול רם - הרצועה מבלה הרבה יותר זמן ליד התקרה שלו.</p>
+
+<blockquote>מטרת LUFS שקטה יותר פירושה יותר מרווח ראש וטווח דינמי יותר. מטרה חזקה יותר פירושה קיר צליל עקבי יותר, "מלא תמיד". אף אחד מהם לא שגוי - אבל כשאפליקציות מכוונות למספרים שונים, אתה מרגיש את זה כאפליקציה אחת שצורחת ואחרת ממלמלת.</blockquote>
+
+<p>זו הסיבה השורשית הכנה. זה לא באג שאתה יכול לתקן. זוהי הפיזיקה של האופן שבו אודיו מופק ומועבר, מוכפלת על פני תריסר אפליקציות שמעולם לא תוכננו להסכים אחד עם השני.</p>
+
+<h2>הפער macOS משאיר פתוח</h2>
+
+<p>הנה החלק שבאמת מתסכל אנשים: Windows שלחה במשך שנים מיקסר נפח לכל אפליקציה. אתה יכול למשוך אפליקציה אחת למטה ולדחוף אחרת למעלה, ישירות משורת המשימות. macOS מעולם לא כלל את זה. העדפות סאונד רק נותנות לך את המחוון הראשי ואת בחירת התקן הפלט.</p>
+
+<p>אז ב-Mac האפשרויות שלך היו מוגבלות באופן מסורתי:</p>
+
+<ul>
+<li>התאם את מחוון עוצמת הקול הפנימי של כל אפליקציה - אם יש לה אפילו אחד. אפליקציות רבות (Zoom, רוב המשחקים, פעמוני מערכת) לא חושפות אפליקציה שמישה.</li>
+<li>סע על המחוון הראשי ידנית בכל פעם שאתה מחליף הקשר.</li>
+<li>השתק דבר אחד לחלוטין, שהוא תיקון בוטה שלמעשה לא מאזן שום דבר.</li>
+</ul>
+
+<p>אף אחד מאלה לא זוכר את ההעדפה שלך. צא והפעל מחדש את האפליקציה וחזרת למקום הראשון.</p>
+
+<h2>התיקון המעשי: נפח זכור לכל אפליקציה</h2>
+
+<p>מכיוון שלא ניתן לאלץ כל שירות לשלוט מחדש בקטלוג שלו, הפתרון היעיל הוא להוסיף את השכבה החסרה macOS שמעולם לא נשלחה: נפח עצמאי וזכור עבור כל אפליקציה. זה בדיוק מה <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> עושה. הוא חי בשורת התפריטים שלך ונותן לכל אפליקציה שפועלת את המחוון שלה, כך שתוכל למשוך את הרמה החזקה כלפי מטה ולדחוף את השקט למעלה עד שהוא יושב ברמה שמרגישה אפילו לך.</p>
+
+<p>כדי ליישר את האפליקציות שלך בפועל:</p>
+
+<ul>
+<li>פתוח <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> מסרגל התפריטים ותראה כל אפליקציה פעילה עם שליטה משלה.</li>
+<li>הפחיתו את כל מה שמפיצים - בדרך כלל אפליקציית מוזיקה או וידאו ששולטים בה חם - למשהו כמו 60-70%.</li>
+<li>השאר את אפליקציית ההתייחסות השקטה שלך (לעיתים קרובות אפליקציית שיחה או פודקאסט) ב-100%, והשתמש בכל אפליקציה <strong>להגביר</strong> לדחוף אותו מעבר ל-100% אם הוא עדיין רך מדי.</li>
+<li>הגדר את הרמות פעם אחת. SoundDial זוכר את עוצמת הקול של כל אפליקציה, כך שהיתרה מתקיימת בפעם הבאה שתפתח אותה.</li>
+</ul>
+
+<p>שתי תכונות עושות את רוב עבודת הפילוס כאן. <strong>בוסט</strong> חשוב כי הרבה אפליקציות פשוט שקטות מדי אפילו במקסימום - מחוון לכל אפליקציה שרק מקצץ את עוצמת הקול לא יכול להציל אותם, אבל כזה שיכול להגביר מעל 100% יכול. ו <strong>פרופילי נפח</strong> מאפשרים לך לשמור סט שלם של רמות - נניח, פרופיל "התמקדות במוזיקה נמוכה, שיחות חזקות" לעבודה לעומת תמהיל שונה למשחקים - ולעבור ביניהן באופן מיידי במקום להתאים מחדש אפליקציה לפי אפליקציה.</p>
+
+<h2>איפה זה הכי עוזר</h2>
+
+<p>ההקלה הנפוצה ביותר היא קפיצת המוזיקה מול הפגישה: הזרמת מוזיקה בקול רם, ואז אפליקציית שיחות שנשמעת חלשה בהשוואה. הגדר את אפליקציית השיחה גבוה יותר (או מוגברת), משוך את המוזיקה כלפי מטה, ותנודת הווליום המדהימה תיעלם. אותו דבר חל על משחק דפדפן שקט מול נגן וידאו רועש, או התראות מערכת שקופצות מעל הכל.</p>
+
+<p>כדי להיות ברור לגבי המגבלות: SoundDial מאזנת את תפוקת האפליקציות שלך. הוא לא ישלוט מחדש ברצועה שהופקה בצורה גרועה, והוא לא יכול להמציא פרטים באודיו שעורבבו עם טווח דינמי רחב מאוד. מה שהיא עושה זה לתת לך את השליטה האחת macOS שנשארה בחוץ - רמות קבועות לכל אפליקציה שנשארות במקום.</p>
+
+<p>נמאס לך לרכוב על המחוון הראשי בכל פעם שאתה מחליף אפליקציות? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> הוא 14.99 יורו חד פעמי ב-Mac App Store - בארגז חול, ללא דרייברים, ללא DMG - והוא סוף סוף נותן לכל אפליקציה את הנפח הזכור שלה.</p>`,
   },
 };

@@ -40,7 +40,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Mahdollistaa puhtaan tallennusympäristön rakentamisen ohjaamalla kutakin sovellusta itsenäisesti:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial podcast-järjestelmä — vierasääni, valvonta ja ilmoitukset itsenäisellä tasolla" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial podcast-järjestelmä — vierasääni, valvonta ja ilmoitukset itsenäisellä tasolla" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Äänitysprofiili</h3>
 <ul>
@@ -98,7 +98,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, jossa <strong>1 % lisäykset</strong> 0 %:sta 200 %:iin. Se on 200 tarkkuustasoa per sovellus verrattuna macOS:n 16 (tai 64 modifikaattorilla) koko järjestelmän askeleen.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tarkka sovelluskohtainen äänenvoimakkuuden säätö 1 % tarkkuudella macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tarkka sovelluskohtainen äänenvoimakkuuden säätö 1 % tarkkuudella macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Aseta järjestelmän äänenvoimakkuus kohtuulliselle perustasolle (50-60 %), ja käytä SoundDial hienosäätääksesi jokaisen sovelluksen:</p>
 <ul>
@@ -149,7 +149,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa Slackille oman äänenvoimakkuusliukusäätimen, erillään muista sovelluksista. Koska Slackin huddle-ääni ja ilmoitusäänet kuuluvat samaan sovellukseen, liukusäädin ohjaa molempia — mutta juuri sitä haluat useimmiten.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Slackin äänenvoimakkuuden hallinta itsenäisesti huddlen aikana, kun musiikki soi eri tasolla" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Slackin äänenvoimakkuuden hallinta itsenäisesti huddlen aikana, kun musiikki soi eri tasolla" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Huddle-optimoitu kokoonpano</h3>
 <ul>
@@ -198,7 +198,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> on <strong>Konfiguroitava oletusvolyymi</strong> Uusille sovelluksille. Asetuksissa määrität, millä äänenvoimakkuustasolla uusien sovellusten tulisi alkaa — esimerkiksi 70 %. Ensimmäisellä kerralla, kun mikään sovellus käynnistyy ja tuottaa ääntä, SoundDial asettaa sen 70 %:iin 100 %:n sijaan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial oletusäänenvoimakkuusasetus — uudet sovellukset käynnistyvät konfiguroidulta tasolta täysimääräisen vauhdin sijaan" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial oletusäänenvoimakkuusasetus — uudet sovellukset käynnistyvät konfiguroidulta tasolta täysimääräisen vauhdin sijaan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä tarkoittaa:</p>
 <ul>
@@ -253,7 +253,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Antaa jokaiselle sovellukselle Mac oman äänenvoimakkuusliukusäätimen. Aseta ilmoitussovellukset matalaksi, musiikki mukavaksi ja puhelut täysillä — kaikki itsenäisesti. Tallenna asetukset profiileina ja vaihda yhdellä klikkauksella.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — sovelluskohtainen äänenvoimakkuuden säätö kaikkien Mac äänilähteiden itsenäiseen hallintaan" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — sovelluskohtainen äänenvoimakkuuden säätö kaikkien Mac äänilähteiden itsenäiseen hallintaan" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Saat SoundDial Mac App Storesta</a> — 14,99 € kertaluonteinen ostos, ilman tilausta, macOS 14,2+.</p>
 `,
@@ -304,7 +304,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Jos asetukset ovat maksimitasolla ja osallistujat ovat edelleen liian hiljaisia, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa sinun nostaa Webexin <strong>200%</strong>. Tämä vahvistaa puhelun ääntä Webexin sisäänrakennetun maksimin yli — hyödyllistä, kun osallistujalla on viallinen mikrofoni tai kun Webexin ääniprosessointi heikentää signaalia liikaa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Cisco Webex -puhelun volyymin nostaminen yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Cisco Webex -puhelun volyymin nostaminen yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial auttaa myös peräkkäisissä Webex-kokouksissa: käytä automaattista kumartelua, jotta taustamusiikki laskee automaattisesti jokaisen kokouksen alkaessa ja palauta se tauoilla. Tallenna "Kokoukset"-äänenvoimakkuusprofiili, niin voit heti asettaa haluamasi äänitasapainon työpäivälle.</p>
 
@@ -347,7 +347,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Se sijoittaa kaikki sovellukset yhteen valikkopalkkipaneeliin, jossa on itsenäiset äänenvoimakkuuden liukusäätimet. Molemmat äänilähteet ovat vierekkäin, jokaisella oma tasonsa. Säädä toista koskematta toiseen.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial näyttää kaksi äänilähdettä eri äänenvoimakkuuksilla macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial näyttää kaksi äänilähdettä eri äänenvoimakkuuksilla macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Esimerkkejä asetuksista:</p>
 
@@ -411,7 +411,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Antaa sinun luoda täydellisen myöhäisillan järjestelyn:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial myöhäisillan elokuvan asetus — suoratoistosovellus kohtuullisella äänenvoimakkuudella, ilmoitukset mykistetty" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial myöhäisillan elokuvan asetus — suoratoistosovellus kohtuullisella äänenvoimakkuudella, ilmoitukset mykistetty" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Myöhäisillan elokuvaprofiili</h3>
 <ul>
@@ -473,7 +473,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Vaikka järjestelmän äänenvoimakkuus nollautuisi lepotilaksen jälkeen, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> suojaa <em>Per app</em> Tilavuustasapaino. Sen <strong>Volyymimuisti</strong> ominaisuus tallentaa jokaisen sovelluksen äänenvoimakkuuden itsenäisesti ja palauttaa sen herätyksen, uudelleenkäynnistyksen tai sovelluksen uudelleenkäynnistyksen jälkeen.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial sovelluskohtaisen äänenvoimakkuuden säilyttäminen Mac uni- ja valveillaolosyklien jälkeen" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial sovelluskohtaisen äänenvoimakkuuden säilyttäminen Mac uni- ja valveillaolosyklien jälkeen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Joten vaikka macOS palauttaisi järjestelmän äänenvoimakkuuden 80 %:iin nukkumisen jälkeen, sovelluskohtainen saldo pysyy ennallaan:</p>
 <ul>
@@ -518,7 +518,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Voit asettaa tarkat volyymit jokaiselle sovellukselle erikseen:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial DAW-lähtö Discordista ja viiteraitojen erottaminen macOS:ssä musiikin tuotantoa varten" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial DAW-lähtö Discordista ja viiteraitojen erottaminen macOS:ssä musiikin tuotantoa varten" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tuotantojärjestelyt</h3>
 <ul>
@@ -586,7 +586,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> voi nostaa Apple Musicin tasolle <strong>200%</strong>. Äänisignaali vahvistetaan järjestelmätasolla ennen kuin se saavuttaa kaiuttimet tai kuulokkeet. Vain Apple Music voimistuu — Zoom, Slack ja selaimesi pysyvät nykyisellä tasolla.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Apple Musicin äänenvoimakkuuden nostaminen yli 100 % macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Apple Musicin äänenvoimakkuuden nostaminen yli 100 % macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä on hyödyllistä myös päinvastaisessa ongelmassa: jos Apple Music on liian kova verrattuna Zoom-puheluusi, laske Apple Music 25 %:iin SoundDial ja pidä Zoom 100%:ssa. Sovelluskohtainen hallinta tarkoittaa, ettei sinun koskaan tarvitse tinkiä yhden sovelluksen volyymista toisen sijaan.</p>
 
@@ -666,7 +666,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Hinta 14,99 € — kerta, ei tilaus. Taustaksi, se on alle kahden kuukauden Spotify-tilaus, työkalu, jota käytät päivittäin. Se on alle puolet SoundSourcen hinnasta ($39) ja sisältää ominaisuuksia (profiilit, automaattinen kumartelu), joita SoundSourcessa ei ole.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — luotettava sovelluskohtainen äänenvoimakkuuden mikseri Mac profiilit, automaattinen kumartuminen ja 200 % boost" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — luotettava sovelluskohtainen äänenvoimakkuuden mikseri Mac profiilit, automaattinen kumartuminen ja 200 % boost" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Saatavilla <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — Applen arvioima, hiekkalaatikko, ei järjestelmäajureita. 14,99 € kertakäyttö, ilman tilausta, macOS 14,2+.</p>
 `,
@@ -700,7 +700,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> asettaa sekä Spotifyn että Discordin samaan paneeliin itsenäisillä äänenvoimakkuusliukusäätimillä. Aseta haluamasi suhde ja jätä se:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tasapainottaa Spotifyn ja Discordin eri äänenvoimakkuustasoja macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tasapainottaa Spotifyn ja Discordin eri äänenvoimakkuustasoja macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Kultainen leikkaus musiikille + äänichatille</h3>
 <p>Sen perusteella, miten useimmat ihmiset käyttävät tätä:</p>
@@ -805,7 +805,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Kaikki viisi ovat saatavilla <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — natiivi macOS valikkopalkin sovellus, joka lisää äänenvoimakkuusmikserin, jota Apple ei koskaan rakentanut.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — sovelluskohtainen äänenvoimakkuuden säätö, profiilit, automaattinen kumartuminen ja 200 % boost macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — sovelluskohtainen äänenvoimakkuuden säätö, profiilit, automaattinen kumartuminen ja 200 % boost macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Osa 6: Sovelluskohtainen volyymi SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Tämä on äärimmäistä vahvistusta ja aiheuttaa säröä joihinkin sisältöihin, mutta erittäin hiljaiselle lähdemateriaalille se saattaa olla juuri sitä, mitä tarvitset.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial VLC:n äänenvoimakkuuden nostaminen järjestelmätasolla macOS hiljaisille videotiedostoille" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial VLC:n äänenvoimakkuuden nostaminen järjestelmätasolla macOS hiljaisille videotiedostoille" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tärkeämpää on, että SoundDial antaa sinun lisätä VLC:tä <strong>Itsenäisesti</strong>. Musiikkisoitin, selain ja viestintäsovellukset pysyvät normaalilla tasolla, kun taas vain VLC voimistuu. Jos nostat VLC:n 180 %:iin SoundDial, Spotify ei muutu. Tätä VLC:n sisäänrakennettu boost ei pysty tekemään — VLC:n boost vaikuttaa vain VLC:hen, mutta macOS:n yhden järjestelmän volyymi yhdistää kaiken muun.</p>
 
@@ -924,7 +924,7 @@ export const fiArticles: ArticleSet = {
   <li><strong>Helppo kytkeäminen:</strong> Ota automaattinen kumartelu päälle tai pois SoundDial:n asetuksista. Kun et halua sitä, poista se käytöstä. Kun haluat sen takaisin, ota se käyttöön.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="SoundDial konfiguroitava automaattinen alentaminen — hallitse tarkalleen, kuinka paljon taustaääntä alentaa puheluiden aikana" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial konfiguroitava automaattinen alentaminen — hallitse tarkalleen, kuinka paljon taustaääntä alentaa puheluiden aikana" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ero: sen sijaan, että jokin sovellus päättäisi, että musiikkisi pitäisi mennä nollaan jokaisen puhelun aikana, sinä päätät, että musiikki menee 25 %:iin. Sen sijaan, että menettäisit hallinnan, saat sen. Ja sen sijaan, että yrittäisit poistaa piilotetun ominaisuuden käytöstä kolmessa eri sovelluksessa, sinulla on yksi kytkin yhdessä paikassa.</p>
 
@@ -987,7 +987,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> nostaa minkä tahansa sovelluksen äänenvoimakkuutta <strong>200%</strong>. Jos Spotify Bluetooth-kuulokkeiden kautta on liian hiljainen, vedä liukusäädin 160 %:iin. Äänisignaali vahvistuu ennen kuin se saavuttaa kuulokkeesi, mikä käytännössä kaksinkertaistaa sovelluksen käytettävissä olevan äänenvoimakkuuden.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Bluetooth-kuulokkeiden sovelluksen äänenvoimakkuuden nostaminen Mac-laitteissa sovelluskohtaisilla liukusäätimillä 200 %:iin" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Bluetooth-kuulokkeiden sovelluksen äänenvoimakkuuden nostaminen Mac-laitteissa sovelluskohtaisilla liukusäätimillä 200 %:iin" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Sovelluskohtainen boostaus on parempi kuin koko järjestelmän äänenvoimakkuuden korotus, koska voit vahvistaa vain hiljaisen sovelluksen. Jos podcastisi on hiljainen mutta musiikki toimii, nosta podcast-sovellus 170 %:iin ja pidä Spotify 80 %:ssa. Jokainen sovellus pysyy oikealla tasolla.</p>
 
@@ -1024,7 +1024,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Juuri näin <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Tekee. Aseta jokainen sovellus sille tasolle, jonka haluat katsojiesi kuulevan:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tasapainottaa pelin, Discordin ja musiikin äänitasot OBS-striimaukseen Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tasapainottaa pelin, Discordin ja musiikin äänitasot OBS-striimaukseen Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tyypillinen suoratoistoäänijärjestelmä</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> on <strong>Tilavuusmuisti</strong> feature. Kun se on käytössä, se tallentaa jokaisen sovelluksen äänenvoimakkuuden nipun tunnisteen mukaan. Kun sovellus sulkeutuu ja käynnistyy uudelleen — käynnistitpä sen uudelleen, se kaatuu tai käynnistät Mac uudelleen — SoundDial palauttaa sen automaattisesti tallennettuun volyymiinsa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial volyymimuisti — muistaa ja palauttaa automaattisesti sovelluskohtaiset äänenvoimakkuustasot macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial volyymimuisti — muistaa ja palauttaa automaattisesti sovelluskohtaiset äänenvoimakkuustasot macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Miten se toimii</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Universaali ratkaisu on vahvistaa podcast-sovellustasi yli macOS:n 100 % rajan. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa jokaiselle sovellukselle äänenvoimakkuuden liukusäätimen <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Apple Podcastsin äänenvoimakkuuden nostaminen 180 %:iin Mac hiljaisille podcast-jaksoille" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Apple Podcastsin äänenvoimakkuuden nostaminen 180 %:iin Mac hiljaisille podcast-jaksoille" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Aseta Apple Podcasts tai podcast-sovellus 160–180 %:iin pitäen Spotify-musiikin 40%:ssa ja Slackin 15%:ssa. Podcast kovenee ilman, että kaikki muu muuttuu tuskallisen kovaa. Kun vaihdat takaisin musiikkiin, laita podcast-sovellus takaisin normaaliksi — tai anna SoundDial:n äänenvoimakkuusmuistin muistaa se automaattisesti.</p>
 
@@ -1189,7 +1189,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa jokaiselle sovellukselle oman äänenvoimakkuusliukusäätimen, jotta voit rakentaa ihanteellisen opiskeluääniasetuksen:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial opiskelijan asetus — luento täysillä, opiskelumusiikki hiljaa, ilmoitukset mykistetty" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial opiskelijan asetus — luento täysillä, opiskelumusiikki hiljaa, ilmoitukset mykistetty" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Luentoprofiili</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const fiArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Päivitit macOS. Kaikki vaikutti olevan kunnossa — kunnes huomasit, ettei ääntä kuulunut. Tai ääni rätisee. Tai äänenvoimakkuus on jumissa. Tai äänilähtölaitteesi on poissa. Päivityksen jälkeiset ääniongelmat ilmenevät lähes jokaisessa macOS julkaisussa, ja ne vaihtelevat lievästä ärsyttävyydestä täysin äänettömään.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Tässä on systemaattinen opas Mac äänen korjaamiseen macOS-päivityksen jälkeen, kattaen kaikki tunnetut ongelmat ja ratkaisut.</p>
 
@@ -1335,7 +1338,7 @@ export const fiArticles: ArticleSet = {
   <li>Spotify palautuu 30 %:iin, Zoom 100 %:iin ja Slack 15 %:iin — täydellisesti palautettu</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="SoundDial mykistyspikanäppäin — Control+Option+M mykistää ja poistaa kaikki sovellukset volyymin palautuksella" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial mykistyspikanäppäin — Control+Option+M mykistää ja poistaa kaikki sovellukset volyymin palautuksella" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Ero järjestelmän mykistysnäppäimeen:</p>
 <ul>
@@ -1398,7 +1401,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa Chromelle oman äänenvoimakkuusliukusäätimen, joka nousee <strong>200%</strong>. Koska Google Meet toimii Chromen sisällä, Chromen nostaminen parantaa Meetiä. Vedä liukusäädin 150 %:iin tai 180 %:iin, ja puhelun ääni vahvistuu reaaliajassa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Google Meetin (Chrome) äänenvoimakkuuden nostaminen yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Google Meetin (Chrome) äänenvoimakkuuden nostaminen yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä toimii myös Safarissa, jos käytät Meetiä Safarissa. SoundDial ohjaa kutakin selainta erikseen — nosta Safari Meetille samalla kun Chrome pysyy normaalilla äänenvoimakkuudella kaikessa muussa.</p>
 
@@ -1450,7 +1453,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa jokaiselle sovellukselle oman äänenvoimakkuusliukusäätimen. Voit asettaa ilmoituspainotteiset sovellukset hienovaraiselle tasolle, joka on havaittavissa mutta ei hätkähtävinä, samalla kun mediasovellukset pysyvät mukavalla kuuntelutasolla.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial erottaa ilmoitussovelluksen äänenvoimakkuuden mediasovelluksen äänenvoimakkuudesta macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial erottaa ilmoitussovelluksen äänenvoimakkuuden mediasovelluksen äänenvoimakkuudesta macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Esimerkkiasetelma</h3>
 <p><strong>Mediasovellukset:</strong></p>
@@ -1523,7 +1526,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> voit nostaa FaceTimen äänenvoimakkuutta jopa <strong>200%</strong>. Avaa valikkopalkkipaneeli, etsi FaceTime ja vedä sen liukusäädin yli 100 %:n. Puhelun ääni vahvistetaan reaaliajassa vaikuttamatta muihin sovelluksiin.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial FaceTime-puheluiden äänenvoimakkuuden kasvattamista yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial FaceTime-puheluiden äänenvoimakkuuden kasvattamista yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial auttaa myös päinvastoin: jos FaceTimen soittoääni tai ilmoitusääni on liian kova tarkennusajan aikana, laske FaceTime 20 %:iin tai mykistää se samalla kun musiikki jatkuu. Yksi klikkaus mykistää ja yksi klikkaus poistaa mykistyksen.</p>
 
@@ -1577,7 +1580,7 @@ export const fiArticles: ArticleSet = {
 <h3>Mykistä kaikki sovellukset: Control + Option + M</h3>
 <p>Lehdistö <strong>⌃⌥M</strong> mykistää jokaisen sovelluksen äänen välittömästi. Paina sitä uudelleen poistaaksesi kaiken mykistyksen, palauttaen jokaisen sovelluksen aiempaan volyymiinsa. Tämä on "välitön hiljaisuus" -painike, joka on nopeampi kuin mykistysnäppäimen hakeminen — ja toisin kuin järjestelmän mykistysnäppäin, se palauttaa sovelluskohtaiset äänenvoimakkeet, kun poistat mykistyksen.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial pikanäppäimet — Control+Option+S vaihtaaksesi, Control+Option+M mykistämään kaikki" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial pikanäppäimet — Control+Option+S vaihtaaksesi, Control+Option+M mykistämään kaikki" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Näppäimistöpohjainen työnkulku</h2>
 
@@ -1642,7 +1645,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> käyttää modernia Audio Tap API:ta — ei virtuaalista äänilaitetta, ei järjestelmäajuria, ei ytimen laajennuksia. Se kytkeytyy suoraan jokaisen sovelluksen äänivirtaan Applen tuetulla API:lla, mikä tarkoittaa, ettei se hajoa macOS päivitysten yhteydessä.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — taustamusiikkivaihtoehto, joka ei asenna virtuaalisia äänilaitteita" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — taustamusiikkivaihtoehto, joka ei asenna virtuaalisia äänilaitteita" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Mitä saat taustamusiikista:</p>
 <ul>
@@ -1765,7 +1768,7 @@ export const fiArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — kevyempi ja kohdennettu SoundSource-vaihtoehto, jossa on äänenvoimakkuusprofiilit ja automaattinen kumartuminen" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kevyempi ja kohdennettu SoundSource-vaihtoehto, jossa on äänenvoimakkuusprofiilit ja automaattinen kumartuminen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Kumman sinun pitäisi valita?</h2>
 
@@ -1809,7 +1812,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Antaa sinulle sovelluskohtaiset äänenvoimakkuusliukusäätimet tarkalla hallinnalla — jokainen liukusäädin liikkuu 1 % askelin 0 %:sta 200 %:iin. Voit asettaa Spotifyn 5 %:iin ja Zoomin 40 %:iin samanaikaisesti. Ohjaustaso on huomattavasti tarkempi kuin macOS:n 16 järjestelmävaihetta.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial hienojakoinen sovelluskohtainen äänenvoimakkuuden säätö 1 % lisäyksellä macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial hienojakoinen sovelluskohtainen äänenvoimakkuuden säätö 1 % lisäyksellä macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Myöhäisillan kuulokkeiden käyttöön:</p>
 <ul>
@@ -1834,6 +1837,9 @@ export const fiArticles: ArticleSet = {
     readTime: "5 min read",
     content: `
 <p>Yksi AirPod kuulostaa hyvältä. Toinen on selvästi hiljaisempi. Musiikki tuntuu epätasapainolta. Äänet kuulostavat tulevan yhdeltä puolelta. Tämä on yksi yleisimmistä AirPods-valituksista, ja siihen on yleensä helppo ratkaisu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. Puhdista AirPodsit</h2>
 
@@ -1948,7 +1954,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Voi nostaa minkä tahansa sovelluksen tasolle <strong>200%</strong>. Jos Safari tai Netflix-sovellus on liian hiljainen, vedä liukusäädin yli 100 %. Ääni vahvistetaan ennen kuin se saavuttaa kaiuttimesi, mikä käytännössä kaksinkertaistaa juuri kyseisen sovelluksen maksimiäänenvoimakkuuden.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Netflixin äänen nostaminen 180 %:iin Mac-tilassa selkeämmän dialogin ja suoratoistoäänen takaamiseksi" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Netflixin äänen nostaminen 180 %:iin Mac-tilassa selkeämmän dialogin ja suoratoistoäänen takaamiseksi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä on erityisen hyödyllistä, kun:</p>
 <ul>
@@ -2031,7 +2037,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Täyttää tämän aukon antamalla jokaiselle sovellukselle oman äänenvoimakkuuden liukusäädin. Aseta etätyöääni juuri haluamallasi tavalla:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial etätyöäänen asetus — eri äänenvoimakkuustasot Zoomille, Spotifylle ja Slackille macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial etätyöäänen asetus — eri äänenvoimakkuustasot Zoomille, Spotifylle ja Slackille macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tallenna profiilit jokaiselle tilalle</h3>
 
@@ -2126,7 +2132,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa selaimellesi oman äänenvoimakkuusliukusäätimen, riippumattomana muista sovelluksista. Laske Safari 30 %:iin ja pidä Zoom 100 %:ssa. Mykistä Chrome kokonaan samalla kun Spotify toistoa jatkuu. Yksi klikkaus.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial selaimen äänenvoimakkuuden hallinta itsenäisesti muista sovelluksista macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial selaimen äänenvoimakkuuden hallinta itsenäisesti muista sovelluksista macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä on nopein tapa hoitaa yllättävä automaattinen välilehti: sen sijaan, että etsisit mikä välilehti pitää ääntä, klikkaa SoundDial valikkopalkissa ja mykistää selain. Kaikki muu pyörii edelleen. Kun olet löytänyt ja sulkenut häiritsevän välilehden, poista selaimen mykistö ja sen äänenvoimakkuus palautuu entiselleen.</p>
 
@@ -2168,7 +2174,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa Discordille oman äänenvoimakkuusliukusäätimen valikkopalkissa, riippumatta muista sovelluksista. Aseta Discord juuri haluamallesi tasolle — 100 % selkeään äänikeskusteluun, 40 % hienovaraiseen taustaan tai täysin mykistetty — koskematta peliin, musiikkiin tai mihinkään muuhun.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Discordin äänenvoimakkuuden hallinta erillään pelistä ja musiikista macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Discordin äänenvoimakkuuden hallinta erillään pelistä ja musiikista macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Yleiset asetelmat</h3>
 
@@ -2244,7 +2250,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Siinä on ulostulolaitteen valitsija suoraan valikkopalkin popoverissa — yhdessä sovelluskohtaisten äänenvoimakkuusliukusäätimien kanssa. Yksi klikkaus avataksesi SoundDial, yksi klikkaus vaihtaaksesi laitetta. Ei järjestelmäasetuksista kaivamista.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial äänilähtölaitteen kytkentä ja sovelluskohtainen äänenvoimakkuuden säätö yhdessä valikkopalkin paneelissa" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial äänilähtölaitteen kytkentä ja sovelluskohtainen äänenvoimakkuuden säätö yhdessä valikkopalkin paneelissa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Laitteiden vaihtamisen etu SoundDial sisällä: voit vaihtaa lähtöä <em>ja</em> säädä sovelluskohtaisia volyymeja samassa paneelissa. Vaihda AirPodseihin ja laske Spotifyn heti samalla kun nostat puhelua — kaikki ilman että popoveria poistuu.</p>
 
@@ -2262,6 +2268,9 @@ export const fiArticles: ArticleSet = {
     readTime: "8 min read",
     content: `
 <p>Kuuntelet musiikkia ja kuulet poksahduksen. Sitten rätinä. Sitten on nykiminen, jossa ääni katkeaa hetkeksi ja palaa takaisin. Kyse ei ole kappaleesta — se on sinun Mac. Äänen rätinä macOS on ärsyttävän yleistä, ja siihen liittyy vähintään kuusi eri syytä.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Tämä opas kattaa kaikki tunnetut syyt äänen rätinään, poksahteluun ja nykimiseen Mac, ohjelmistokorjauksista ainoaan laitteisto-ongelmaan, josta sinun tulisi tietää.</p>
 
@@ -2389,7 +2398,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Voit nostaa minkä tahansa sovelluksen äänenvoimakkuutta <strong>200%</strong>, mukaan lukien Microsoft Teams. Drag Teamsin liukusäädin 150 %:iin tai 180 %:iin ja ääni vahvistetaan reaaliajassa. Only Teams voimistuu — musiikkisi, selaimesi ja muut sovelluksesi pysyvät nykyisellä tasolla.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Microsoft Teams -puheluiden määrän nostaminen yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Microsoft Teams -puheluiden määrän nostaminen yli 100 %:n macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial auttaa myös päinvastaiseen ongelmaan: jos Teamsin ilmoitusäänet ovat liian kovia tarkennusajan aikana, laske Teamsin määrä 15 %:iin tai mykistää se kokonaan samalla kun musiikki pysyy käynnissä. Yksi klikkaus mykistää ja yksi klikkaus poistaa mykistyksen.</p>
 
@@ -2405,6 +2414,9 @@ export const fiArticles: ArticleSet = {
     readTime: "7 min read",
     content: `
 <p>Olet videopuhelussa. Slack kilisee jatkuvasti. Taustalla soi musiikkia. Tarttuu äänenvoimakkuusnäppäimeen ja — kaikki hiljenee. Puhelu, musiikki, ilmoitukset. macOS on täsmälleen yksi äänenvoimakkuuden liukusäädin, ja se ohjaa kaikkea yhtä aikaa.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windowsissa on ollut sovelluskohtainen äänenvoimakkuuden mikseri Vistasta vuonna 2006 lähtien. Kaksikymmentä vuotta myöhemmin macOS ei vieläkään tiedä. Jos haluat laittaa Spotifyn alaspäin vaikuttamatta Zoom-puheluusi, Applella ei ole sinulle sisäänrakennettua vastausta.</p>
 
@@ -2512,7 +2524,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa Slackille oman itsenäisen äänenvoimakkuusliukusäätimen. Aseta se juuri sinulle sopivalle tasolle — tai mykistää se kokonaan yhdellä klikkauksella. Kun olet valmis keskittymään Slackiin uudelleen, poista se ja äänenvoimakkuus palaa entiselleen.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Slack mykistetty ja Spotify pyörii normaalilla äänenvoimakkuudella macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Slack mykistetty ja Spotify pyörii normaalilla äänenvoimakkuudella macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Ihanteellinen Slack-työnkulku</h3>
 <ul>
@@ -2564,7 +2576,7 @@ export const fiArticles: ArticleSet = {
 <h3>Kytkentäprofiilit</h3>
 <p>Tallennetut profiilisi näkyvät painikkeina SoundDial:n ponnahdusikkunassa. Klikkaa yhtä ja jokainen sovellus vaihtaa välittömästi profiiliin tallennettuihin volyymeihin. Yksi klikkaus korvaa viisi tai kuusi manuaalista säätöä.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial äänenvoimakkuusprofiilit — yhdellä klikkauksella voi vaihtaa Meeting-, Focus- ja Chill-tilojen välillä macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial äänenvoimakkuusprofiilit — yhdellä klikkauksella voi vaihtaa Meeting-, Focus- ja Chill-tilojen välillä macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Esimerkkiprofiileja</h3>
 
@@ -2662,7 +2674,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Voit nostaa minkä tahansa sovelluksen äänenvoimakkuutta <strong>200%</strong> — mukaan lukien Zoom. Jos osallistuja on liian hiljainen, vedä Zoomin liukusäädin 150 %:iin tai 180 %:iin. Äänisignaali on vahvistettu Zoomin sisäänrakennetun maksimin yli, jolloin jopa hiljaisimmat äänet kuuluvat.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Zoom-puhelun äänenvoimakkuuden nostaminen 180 %:iin Mac-tilassa, jotta ääni olisi selkeämpi videopuheluiden aikana" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Zoom-puhelun äänenvoimakkuuden nostaminen 180 %:iin Mac-tilassa, jotta ääni olisi selkeämpi videopuheluiden aikana" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tärkein etu: Zoomin vahvistaminen ei vaikuta mihinkään muuhun. Musiikkisi, ilmoituksesi ja muut sovelluksesi pysyvät nykyisellä tasolla. Vain Zoom kovenee.</p>
 
@@ -2701,7 +2713,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Valmista. Spotify on hiljaisempi. Zoom on ennallaan. Ilmoitukset pysyvät ennallaan. Kaikki muu on ennallaan. Et poistunut nykyisestä sovelluksestasi — valikkopalkin ponnahdusikkuna avautuu juuri siihen kohtaan, missä olet.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Spotifyn äänenvoimakkuuden laskeminen itsenäisesti samalla kun muut sovellukset pysyvät täysillä macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Spotifyn äänenvoimakkuuden laskeminen itsenäisesti samalla kun muut sovellukset pysyvät täysillä macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Vielä parempi: tallenna se profiilina</h2>
 
@@ -2754,7 +2766,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Koska Apple ei aio rakentaa sitä, kolmannen osapuolen sovellukset täyttävät aukon. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> on natiivi macOS valikkopalkkisovellus, joka tarjoaa äänenvoimakkuusmikserin — itsenäiset äänenvoimakkuuden liukusäätimet jokaiselle käynnissä olevalle sovellukselle.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial tarjoaa sovelluskohtaisen äänenvoimakkuuden hallinnan macOS Tahoella" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial tarjoaa sovelluskohtaisen äänenvoimakkuuden hallinnan macOS Tahoella" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial on täysin yhteensopiva macOS Tahoen kanssa ja käyttää Applen modernia Core Audio Tap API:ta — kolmannen osapuolen ääniajureita tai ytimen laajennuksia ei tarvita. Se toimii siististi macOS:n tietoturvamallin kanssa eikä häiritse muita äänisovelluksia.</p>
 
@@ -2816,7 +2828,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Päätöksesi on kristallinkirkas. Musiikki on hienovarainen tausta. Laitteen vaihtoa ei tarvita.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial näyttää Zoomin täysillä äänenvoimakkuudella ja Spotifyn matalammalle puhelun aikana macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial näyttää Zoomin täysillä äänenvoimakkuudella ja Spotifyn matalammalle puhelun aikana macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Vielä parempi: SoundDial <strong>Automaattinen kyykistyminen</strong> tekee tämän automaattisesti. Kun liityt puheluun, se havaitsee mikrofonin aktivoitumisen ja laskee kaikki taustasovellukset tasolle, jonka olet asettanut (oletusarvo 30 %). Kun puhelu päättyy, kaikki palaa normaaliksi. Manuaalista liukusäädintä ei tarvita.</p>
 
@@ -2877,7 +2889,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Vaikka et pystyisi estämään macOS muuttamasta järjestelmän äänenvoimakkuutta, voit suojata <em>Per app</em> Tilavuustasapaino. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Muistaa jokaisen sovelluksen äänenvoimakkuuden itsenäisesti. Kun sovellus käynnistyy uudelleen tai kun Mac herää unesta, SoundDial palauttaa jokaisen sovelluksen tallennettuun volyymiin.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial muistaa sovelluskohtaiset äänenvoimakkuudet uudelleenkäynnistysten aikana macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial muistaa sovelluskohtaiset äänenvoimakkuudet uudelleenkäynnistysten aikana macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä tarkoittaa, että vaikka järjestelmän äänenvoimakkuus muuttuisi, sovellustason saldo pysyy tasaisena:</p>
 <ul>
@@ -2940,7 +2952,7 @@ export const fiArticles: ArticleSet = {
 
 <p>SoundDial käyttää Applen modernia Core Audio Tap API:ta puhtaaseen prosessikohtaiseen äänenhallintaan. Se on kevyt, pyörii kokonaan valikkopalkissa eikä vaadi monimutkaisia asetuksia. 14,99 €:lla se on huomattavasti halvempi kuin SoundSource (39 $) ja sisältää ominaisuuksia, joita SoundSourcelta puuttuu — äänenvoimakkuusprofiilit ja automaattinen kumartuminen. Ja koska se on Mac App Storessa, se on Applen arvioima, hiekkalaatikkoon laitettu ja asennetaan siististi ilman DMG:n lataamista tai järjestelmän ääniajurien asentamista.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial sovelluskohtainen äänenvoimakkuussekoitin, joka näyttää yksittäiset sovelluksen äänenvoimakkuusliukusäätimet macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial sovelluskohtainen äänenvoimakkuussekoitin, joka näyttää yksittäiset sovelluksen äänenvoimakkuusliukusäätimet macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>SoundSource (Rogue Amoeba)</h3>
 
@@ -3113,7 +3125,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ratkaisee tämän antamalla jokaiselle sovellukselle — mukaan lukien Safari ja Chrome — itsenäisen äänenvoimakkuuden liukusäätimen, joka vaihtelee 0 %:sta <strong>200%</strong>. Jos YouTube-video on liian hiljainen, vedä selaimen liukusäädin 150 %:iin tai 180 %:iin. Ääni vahvistetaan reaaliajassa vaikuttamatta muihin sovelluksiin.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Safari-selaimen äänenvoimakkuuden nostaminen 180 %:iin hiljaisia YouTube-videoita varten Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Safari-selaimen äänenvoimakkuuden nostaminen 180 %:iin hiljaisia YouTube-videoita varten Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä on erityisen hyödyllistä, koska:</p>
 <ul>
@@ -3165,7 +3177,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Tekee. Se antaa jokaiselle sovellukselle oman äänenvoimakkuusliukusäädin, joten voit asettaa ilmoituspainotteiset sovellukset kuten Slack, Mail ja Calendar paljon pienemmäksi ja pitää mediasovellukset mukavalla tasolla.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial näyttää Slackin matalalla äänenvoimakkuudella ja Spotify normaalilla äänenvoimakkuudella — riippumaton ilmoitusohjaus macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial näyttää Slackin matalalla äänenvoimakkuudella ja Spotify normaalilla äänenvoimakkuudella — riippumaton ilmoitusohjaus macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tyypillinen kuulokeystävällinen kokoonpano</h3>
 <ul>
@@ -3234,7 +3246,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> antaa juuri tämän. Sen automaattinen kumartelutoiminto seuraa mikrofoniasi ja säätää taustaääntä automaattisesti puhelun alkaessa — mutta <strong>Sinä hallitset ankkatasoa</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial automaattiset alistumisasetukset — säädettävä äänenvoimakkuuden vähennys Zoom-puheluiden aikana Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial automaattiset alistumisasetukset — säädettävä äänenvoimakkuuden vähennys Zoom-puheluiden aikana Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Miten se toimii</h3>
 <ol>
@@ -3316,7 +3328,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Voit nostaa minkä tahansa sovelluksen äänenvoimakkuutta jopa <strong>200%</strong>. Jos Spotify on liian hiljainen AirPodsiesi kautta, vedä Spotifyn liukusäädin 150 %:iin tai 180 %:iin SoundDial. Äänisignaali vahvistetaan ennen kuin se lähetetään AirPodseillesi, jolloin ne ovat käytännössä kovempia kuin Apple oli tarkoittanut.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial AirPodsin sovelluksen äänenvoimakkuuden lisääminen Mac:ssä sovelluskohtaisilla äänenvoimakkuusliukusäätimillä jopa 200 %" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial AirPodsin sovelluksen äänenvoimakkuuden lisääminen Mac:ssä sovelluskohtaisilla äänenvoimakkuusliukusäätimillä jopa 200 %" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Sovelluskohtaisen boostauksen etu: voit vahvistaa hiljaista sovellusta ilman, että kaikki muu muuttuu kovemmaksi. Jos videopuhelu toimii 100 % tasolla, mutta Spotify tarvitsee 170 %, SoundDial voit asettaa jokaisen erikseen.</p>
 
@@ -3387,7 +3399,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Voit nostaa minkä tahansa sovelluksen äänenvoimakkuutta jopa <strong>200%</strong> — mukaan lukien Spotify. Se sieppaa Spotifyn äänivirran ja vahvistaa sen sovelluksen sisäänrakennetun maksimin yli, vaikuttamatta minkään muun sovelluksen äänenvoimakkuuteen.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial Spotifyn äänenvoimakkuuden nostaminen 200 %:iin macOS samalla kun muut sovellukset pysyvät normaalilla äänenvoimakkuudella" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Spotifyn äänenvoimakkuuden nostaminen 200 %:iin macOS samalla kun muut sovellukset pysyvät normaalilla äänenvoimakkuudella" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tässä on keskeinen ero: koko järjestelmätason äänenvoimakkuuden lisäys tekisi <em>kaiken</em> kovempaa — ilmoitukset, puhelut, järjestelmääänet — ei pelkästään Spotify. SoundDial nostaa Spotifyta <em>Itsenäisesti</em>. Aseta Spotify 160 %:iin, kun selain pysyy 80 %:ssa ja Zoom 100 %:ssa.</p>
 
@@ -3440,7 +3452,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Se asettuu valikkopalkkiisi ja antaa jokaiselle sovellukselle oman äänenvoimakkuusliukusäätimen. Voit asettaa pelisi 35 %:iin ja Discordin 100 %:iin — tai mihin tahansa suhteeseen se sinulle sopii. Vaihda toinen ja toinen pysyy paikallaan.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial näyttää itsenäiset äänenvoimakkuuden liukusäätimet pelille ja Discordille macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial näyttää itsenäiset äänenvoimakkuuden liukusäätimet pelille ja Discordille macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Tyypillinen peliasetelma</h3>
 <ul>
@@ -3514,7 +3526,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Vastaus on kolmannen osapuolen valikkopalkkisovellus. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> on natiivi macOS äänenvoimakkuusmikseri, joka tekee juuri sen, mitä Windowsin äänenvoimakkuusmikser tekee — plus enemmän.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — macOS:n äänenvoimakkuussekoitin, joka näyttää sovelluskohtaiset äänenvoimakkuusliukusäätimet valikkopalkissa" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — macOS:n äänenvoimakkuussekoitin, joka näyttää sovelluskohtaiset äänenvoimakkuusliukusäätimet valikkopalkissa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Mitä saat:</p>
 
@@ -3590,7 +3602,7 @@ export const fiArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Antaa jokaiselle sovellukselle Mac itsenäisen äänenvoimakkuuden liukusäätimen, joka vaihtelee 0 %:sta <strong>200%</strong>. Jos jokin tietty sovellus on liian hiljainen — podcast-soitin, selainvälilehti, videopuhelu — voit nostaa pelkän sovelluksen yli 100 % ilman, että kosket mihinkään muuhun.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial äänenvoimakkuuden lisäys — sovelluskohtainen äänenvoimakkuuden säätö 200 % vahvistuksella macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial äänenvoimakkuuden lisäys — sovelluskohtainen äänenvoimakkuuden säätö 200 % vahvistuksella macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Tämä on erityisen hyödyllistä:</p>
 <ul>
@@ -3692,7 +3704,7 @@ export const fiArticles: ArticleSet = {
 <h3>Ankkatason konfigurointi</h3>
 <p>SoundDial:n asetuksissa voit säätää <strong>Ankkataso</strong> — kuinka paljon taustaääntä vähennetään puhelun aikana. Liukusäädin vaihtelee 10 %:sta (tuskin kuuluva) 80%:iin (joka on edelleen melko läsnä). Oletusarvo 30 % toimii useimmille ihmisille: musiikki on havaittavissa, mutta ei häiritse keskustelua.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial automaattinen kumartelutoiminto, joka automaattisesti laskee musiikin äänenvoimakkuutta Zoom-puhelun aikana Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial automaattinen kumartelutoiminto, joka automaattisesti laskee musiikin äänenvoimakkuutta Zoom-puhelun aikana Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>Miksi automaattinen kumartelu on parempi kuin tauko</h2>
 
@@ -3763,7 +3775,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Juuri näin sovelluskohtainen äänenvoimakkuusmikseri tekee. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Se istuu valikkopalkissa ja näyttää jokaisen käynnissä olevan sovelluksen omalla äänenvoimakkuusliukusäätimellä ja mykistyspainikkeella.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial näyttää sovelluskohtaiset mykistyspainikkeet jokaiselle sovellukselle macOS valikkopalkissa" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial näyttää sovelluskohtaiset mykistyspainikkeet jokaiselle sovellukselle macOS valikkopalkissa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Yhden sovelluksen mykistys:</p>
 <ol>
@@ -3874,7 +3886,7 @@ export const fiArticles: ArticleSet = {
 
 <p>Se sijaitsee valikkopalkissa ja näyttää jokaisen käynnissä olevan sovelluksen omalla äänenvoimakkuuden liukusäätimellä. Vedä liukusäädintä säätääksesi sovelluksen äänenvoimakkuuden 0 %:sta 200 %:iin. Klikkaa kaiutinkuvaketta mykistääksesi sen välittömästi. Vaihda tallennettujen profiilien välillä eri tilanteissa. Ota automaattinen kumartelu käyttöön ja musiikkisi hiljenee automaattisesti, kun puhelu alkaa.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — sovelluskohtainen äänenvoimakkuusmikseri macOS näyttää yksittäisten sovellusten äänenvoimakkuusliukusäätimet valikkopalkissa" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — sovelluskohtainen äänenvoimakkuusmikseri macOS näyttää yksittäisten sovellusten äänenvoimakkuusliukusäätimet valikkopalkissa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>Keskeiset ominaisuudet:</p>
 <ul>
@@ -3889,5 +3901,2353 @@ export const fiArticles: ArticleSet = {
 
 <p>Kertaluonteinen ostos. Ei tilausta. macOS 14,2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Saat SoundDial Mac App Storesta</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "Paras Background Music-vaihtoehto mallille Mac (2026)",
+    description: "Background Music rikkoo uudemman macOS:n? Luotettavin sovelluskohtainen äänenvoimakkuuden mikserivaihtoehto on SoundDial – hiekkalaatikkoon asennettu Mac App Store-sovellus tehosteella ja profiileilla.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos Background Music on lakannut toimimasta macOS-päivityksen jälkeen, luotettavin vaihtoehto on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> - Mac App Store:n valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri. Se antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, lisää mykistyksen, tehostuksen, äänenvoimakkuusprofiilit ja automaattisen vaimentamisen, ja se on täysin hiekkalaatikko ja Applen tarkistama, joten seuraavassa macOS-julkaisussa ei tarvitse rikkoa ääniohjaimia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Paras Background Music-vaihtoehto mallille Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Background Music hajoaa uudemmassa macOS:ssa</h2>
+
+<p>Background Music on todella näppärä ilmainen, avoimen lähdekoodin projekti. Se antoi Mac-käyttäjille jotain, mitä Applella ei ole koskaan ollut: sovelluskohtaisen äänenvoimakkuuden mikserin, jollainen Windows:lla on ollut vuosia. Mutta sen suunnittelu on myös syy siihen, että se epäonnistuu jatkuvasti.</p>
+
+<p>Äänen reitittämiseksi ja ohjaamiseksi Background Music asentaa virtuaalisen äänilaitteen – järjestelmätason ohjaimen, joka sieppaa Mac:n äänen. Tämä lähestymistapa toimi hyvin vanhemmalla macOS:lla, mutta jokainen merkittävä julkaisu lisää ytimen ja äänilaajennusten turvallisuutta. Yleisimmät käyttäjien ilmoittamat oireet:</p>
+
+<ul>
+<li>Ei ääntä ollenkaan asennuksen tai käyttöjärjestelmän päivityksen jälkeen.</li>
+<li>Virtuaalinen laite ei lataudu, joten äänen reititys pysähtyy hiljaa.</li>
+<li>Sovellus vaatii uudelleenasennuksen, uudelleenkäynnistyksen tai manuaalisen ohjaimen poiston palautuakseen.</li>
+<li>Kehitys on yhteisölähtöistä ja vapaaehtoistahtia, joten uuden macOS:n korjaukset voivat viivästyä.</li>
+</ul>
+
+<p>Mikään näistä ei tee Background Music:sta "huonoa". Se tarkoittaa vain sitä, että ilmainen ajuripohjainen työkalu on luonteeltaan hauras, ja jos luotat sovelluskohtaiseen äänenvoimakkuuteen joka päivä, tämä herkkyys vanhenee nopeasti.</p>
+
+<h2>Mitä etsiä korvaamisesta</h2>
+
+<p>Ennen kuin valitset vaihtoehdon, päätä, mitä todella tarvitset:</p>
+
+<ul>
+<li><strong>macOS-päivitysten luotettavuus.</strong> Jos se asentaa ytimen tai äänilaajennuksen, odota satunnaista rikkoutumista.</li>
+<li><strong>Todellinen sovelluskohtainen ohjaus.</strong> Jokaisen sovelluksen riippumaton äänenvoimakkuus ja mykistys ovat lähtökohtana.</li>
+<li><strong>Tehosta.</strong> Jotkut sovellukset (hiljaiset kokoustyökalut, tietyt selaimet) ovat yksinkertaisesti liian hiljaisia – haluat ylittää 100 %.</li>
+<li><strong>Mukavuusominaisuudet.</strong> Profiilit ja automaattinen vaimentaminen tekevät apuohjelmasta jotain, jonka pidät auki koko päivän.</li>
+<li><strong>Turvallinen asennus.</strong> Hiekkalaatikkoon asennettu Mac App Store-sovellus ei voi koskettaa järjestelmän sisäisiä osia, joten asennuksen poistaminen on puhdasta ja päivitykset ovat automaattisia.</li>
+</ul>
+
+<h2>Miksi SoundDial on luotettava valinta</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> kehitettiin ratkaisemaan täsmälleen Background Music-käyttäjien kohtaama ongelma: he haluavat sovelluskohtaisen äänenvoimakkuuden, mutta he eivät halua hoitaa kuljettajaa. Se asuu valikkopalkissasi ja tekee ydintehtävän hyvin:</p>
+
+<ul>
+<li><strong>Itsenäinen äänenvoimakkuus jokaiselle sovellukselle</strong>, jossa sovelluskohtainen mykistys samassa paneelissa.</li>
+<li><strong>Sovelluskohtainen tehostus</strong> tehdäksesi hiljaisista sovelluksista tarpeeksi äänekkäitä, jotta ne todella kuulevat.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna sekoitus (esimerkiksi "kokous" tai "pelaaminen") ja vaihda heti sen sijaan, että vedät liukusäätimiä joka kerta.</li>
+<li><strong>Automaattinen vaimennus</strong>, joten taustaääni vaimenee automaattisesti, kun sen pitäisi.</li>
+<li><strong>Nopea lähdön vaihto</strong> kaiuttimien, kuulokkeiden ja muiden laitteiden välillä.</li>
+</ul>
+
+<p>Suurin ero on siinä, kuinka se asennetaan. SoundDial toimitetaan Mac App Store:n kautta, mikä tarkoittaa, että se on Applen arvioima ja hiekkalaatikolla. Ei ole vedettävää DMG:ta, ei ääniohjainta tai järjestelmälaajennusta eikä ytimen käyttöä. Tämä on tärkein yksittäinen syy, miksi se ei riko Background Music:n tapaa, kun uusi macOS saapuu – sitä ei ole kytketty järjestelmän niihin osiin, joita Apple jatkuvasti lukitsee.</p>
+
+<p>Se maksaa <strong>14,99 € kerta</strong>. Ei ilmainen, mutta tilausta ei ole, ja maksat jostain ylläpidosta ja turvallisesta asentamisesta.</p>
+
+<h2>SoundDial vs. Background Music vs. ilmaiset työkalut</h2>
+
+<p>Background Music ei ole ainoa ilmainen vaihtoehtosi, joten tässä on rehellinen esitys:</p>
+
+<ul>
+<li><strong>Background Music (ilmainen, avoimen lähdekoodin):</strong> sovelluskohtainen volyymi, mutta ajuripohjainen, herkkä rikkoutumaan uudemmalla macOS:lla, ja siitä puuttuu tehostus, profiilit ja automaattinen vaimeneminen.</li>
+<li><strong>FineTune (ilmainen, avoimen lähdekoodin):</strong> kevyt valikkopalkki sovelluskohtainen äänenvoimakkuussovellus. Hyvä, jos ilmainen on ainoa vaatimuksesi, mutta vähäinen lisäominaisuuksien suhteen.</li>
+<li><strong>eqMac (ilmainen):</strong> ensisijaisesti järjestelmän taajuuskorjain ja tehostin, ei todellinen sovelluskohtainen mikseri.</li>
+<li><strong>SoundSource by Rogue Amoeba (~39 dollaria):</strong> ammattitason vaihtoehto, jossa on sovelluskohtainen EQ ja täydellinen lähtöreititys. Erinomainen, mutta se on yli kaksinkertainen SoundDial:n hintaan ja vaatii silti latauksen ja äänentallennusohjaimen.</li>
+<li><strong>SoundDial (14,99 €, Mac App Store):</strong> keskitie – todellinen sovelluskohtainen äänenvoimakkuus, mykistys, tehostus, profiilit ja vaimentaminen, toimitetaan puhtaana hiekkalaatikkoasennuksena ilman ohjaimia.</li>
+</ul>
+
+<p>Jos tarvitset sovelluskohtaista EQ:ta tai monimutkaista studioreititystä, SoundSource on ylimääräisen rahan arvoinen. Jos haluat ilmaisen taittotyökalun ja siedät satunnaista rikkoutumista, FineTune tai Background Music sopii. Mutta jos tavoitteesi on "antaa jokaiselle sovellukselle oma volyymi ja lopettaa sen katkaiseminen jokaista macOS-päivitystä", SoundDial saavuttaa tämän tavoitteen mahdollisimman vähällä vaivalla.</p>
+
+<h2>macOS-konteksti, joka tekee tämän tarpeelliseksi</h2>
+
+<p>On syytä sanoa suoraan: macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia äänenvoimakkuuden vaihdossa, mutta Mac:ssa järjestelmäliukusäädin ohjaa kaikkea kerralla. Tämä aukko on koko syy työkalujen, kuten Background Music ja SoundDial, olemassaoloon. Koska Apple ei täytä sitä, käytännön kysymys on vain, mihin kolmannen osapuolen lähestymistapaan luotat: ilmaiseen ohjaimeen, joka taistelee käyttöjärjestelmän kanssa, vai hiekkalaatikkosovellukseen, joka toimii sen kanssa.</p>
+
+<p>Oletko valmis lopettamaan taistelun rikkinäisten ääniohjainten kanssa? Hanki <a href="https://apps.apple.com/app/id6772792641">SoundDial mallissa Mac App Store</a> hintaan 14,99 € ja hallitse jokaisen sovelluksen äänenvoimakkuutta luotettavalla tavalla.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs. SoundDial: Mikä Mac Volume App voittaa?",
+    description: "SoundSource (39 dollaria, ammattitaso) vs. SoundDial (14,99 €, App Store). Vertaa sovelluskohtaista äänenvoimakkuutta, tehostusta, profiileja ja automaattista vaimennusta valitaksesi sinulle oikean Mac-sekoittimen.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos haluat vain sovelluskohtaisen äänenvoimakkuuden säätimen, joka asennetaan siististi ja maksaa vähemmän, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on paras ostos useimmille ihmisille: 14,99 € kertaluonteinen, Mac App Store:lta, sovelluskohtaisella äänenvoimakkuudella, mykistys, tehostus, profiilit ja automaattinen vaimennus. Valitse Rogue Amoeba:n SoundSource (~39 dollaria) vain, jos tarvitset erityisesti sovelluskohtaista taajuuskorjainta ja kehittynyttä lähtöreititystä.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs. SoundDial: Mikä Mac Volume App voittaa?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Lyhyt versio</h2>
+<p>macOS:ssa ei vieläkään ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia, mutta Mac:ssa järjestelmän äänenvoimakkuuden liukusäädin siirtää kaikkea kerralla. Sekä SoundSource että SoundDial ovat olemassa tämän aukon korjaamiseksi. Ne vain suunnataan eri ostajille.</p>
+<ul>
+<li><strong>SoundDial</strong> — 14,99 € kertaluonteinen, Mac App Store, valikkopalkkisovellus. Riippumaton äänenvoimakkuus sovelluskohtaisesti, sovelluskohtainen mykistys, sovelluskohtainen tehostus, tallennetut profiilit, automaattinen vaimennus ja nopea lähdön vaihto. Sandboxed ja Applen tarkistama, joten ei ajurin asennusta.</li>
+<li><strong>SoundSource</strong> - ~ 39 dollaria, suora lataus Rogue Amoeba:sta. Kaikki yllä oleva plus sovelluskohtainen taajuuskorjain, edistynyt lähtöreititys ja äänitehosteet. Vaatii pienen äänenkaappausohjaimen asentamisen.</li>
+</ul>
+
+<h2>Hinta ja miten ostat</h2>
+<p>Tämä on selkein jako. SoundSource on noin 39 dollaria ja sen myy suoraan Rogue Amoeba. SoundDial on 14,99 € kertaostoksena Mac App Store:ssa – hieman yli kolmannes hinnasta.</p>
+<p>Koska <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> toimitetaan App Store:n kautta, se on hiekkalaatikolla, notaarin vahvistama ja Applen tarkistama. Napsautat Hanki, se asentaa ja se on valmis. Ei ole asennettavaa DMG:ta, ytimen viereiselle komponentille ei myönnetä oikeuksia, eikä ääniohjainta tai järjestelmälaajennusta. Se kulkee myös normaalin App Store-päivitysvirran mukana ja synkronoituu muiden Mac-laitteiden kanssa samalla Apple ID:llä.</p>
+<p>SoundSource lataa App Store:n ulkopuolella ja asentaa äänenkaappausohjaimen, jotta se voi siepata ja käsitellä kunkin sovelluksen ääntä. Tämä avaa sen ammattiominaisuudet, mutta se tarkoittaa myös ylimääräistä asennusvaihetta ja komponenttia, joka elää syvemmällä järjestelmässä.</p>
+
+<h2>Mitä SoundSource tekee, sitä SoundDial ei tee</h2>
+<p>SoundSource ansaitsee hintansa tietyntyyppiseltä käyttäjältä. Jos jokin näistä kuvaa sinua, se on ylimääräisen rahan arvoinen:</p>
+<ul>
+<li><strong>Sovelluskohtainen EQ.</strong> Haluat 10-kaistaisen taajuuskorjaimen esimerkiksi Spotify:lle jättäen Zoom:n tasaiseksi. SoundDial tekee äänenvoimakkuuden, ei EQ.</li>
+<li><strong>Edistynyt tulosteiden reititys.</strong> Yhden sovelluksen lähettäminen kaiuttimiisi ja toisen kuulokkeisiin tai tiettyyn käyttöliittymään hienolla ohjauksella.</li>
+<li><strong>Äänitehosteet ja laajennukset.</strong> SoundSource voi isännöidä tehosteita sovelluskohtaisesti – aidosti alueen ammattilainen.</li>
+</ul>
+<p>Rogue Amoeba:lla on pitkä ja luotettava kokemus. SoundSource on vakava työkalu ja se on hinnoiteltu kuin yksi. Jos olet audio-ammattilainen tai raskas usean ulostulon käyttäjä, se on oikea puhelu.</p>
+
+<h2>Mikä SoundDial tekee paremmin päivittäiseen käyttöön</h2>
+<p>Useimmat ihmiset, jotka etsivät sanaa "Mac volyymimikseri", eivät tarvitse taajuuskorjainta. He tarvitsevat yhden sovelluksen hiljaisemman kuin toiset, eivätkä he halua taistella asentajaa vastaan ​​saadakseen sen. SoundDial peittää sen siististi ja lisää pari mainitsemisen arvoista asiaa:</p>
+<ul>
+<li><strong>Sovelluskohtainen tehostus.</strong> Jotkut sovellukset ja videot ovat aivan liian hiljaisia jopa 100 %:ssa. SoundDial voi työntää yhden sovelluksen normaalin kattonsa yläpuolelle, jotta hiljainen kokous tai podcast kuuluu vihdoin.</li>
+<li><strong>Äänenvoimakkuusprofiilit.</strong> Tallenna täydelliset asetukset – musiikki hiljainen, selain mykistetty, soita sovellukselle ääneen – ja hae se heti. Erinomainen vaihtamiseen "focus", "meeting" ja "gaming" välillä ilman viittä liukusäädintä vetämällä.</li>
+<li><strong>Automaattinen vaimennus.</strong> Upota taustaääntä (kuten musiikkia) automaattisesti, kun toinen lähde käynnistyy, jotta ilmoitukset, puhelut tai videot eivät peitty.</li>
+<li><strong>Nopea lähdön vaihto.</strong> Siirry kaiuttimien, kuulokkeiden ja muiden laitteiden välillä valikkoriviltä.</li>
+</ul>
+<p>Kaikki tämä tapahtuu valikkopalkin avattavasta valikosta, joten se on napsautuksen päässä ja poissa kasvoiltasi muun ajan.</p>
+
+<h2>Ilmaiset vaihtoehdot lyhyesti</h2>
+<p>Näet muutamia ilmaisia vaihtoehtoja, jotka mainitaan samoissa hauissa. Niistä kannattaa tietää:</p>
+<ul>
+<li><strong>Background Music</strong> - ilmainen ja avoimen lähdekoodin, antaa sinulle sovelluskohtaisen perusmäärän. Mutta se voi rikkoutua uudemmissa macOS-julkaisuissa, eikä siinä ole tehostetta, profiileja tai automaattista vaimentumista.</li>
+<li><strong>FineTune</strong> - ilmainen avoimen lähdekoodin valikkopalkin äänenvoimakkuussovellus. Yksinkertainen, mutta rajallinen laajuus.</li>
+<li><strong>eqMac</strong> - ilmainen taajuuskorjain ja järjestelmävahvistin, enemmän koko järjestelmän kattava EQ-työkalu kuin todellinen sovelluskohtainen mikseri.</li>
+</ul>
+<p>Ilmainen on hienoa, jos se toimii sinulle. Kompromissi on yhteensopivuus ja tuki: avoimen lähdekoodin äänityökalut voivat jäädä macOS-päivitysten jälkeen, ja ominaisuuksia, kuten profiileja ja vaimentamista, ei yleensä ole. Jos asetuksellasi on merkitystä työpäivällesi, kerran maksaminen jostakin tarkistetusta ja huolletusta on yleensä rauhallisempi tapa.</p>
+
+<h2>Kumpi kannattaa ostaa?</h2>
+<p>Vastaa yhteen kysymykseen: tarvitsetko sovelluskohtaista EQ:ta tai edistynyttä lähtöreititystä?</p>
+<ul>
+<li><strong>Kyllä</strong> — osta SoundSource. Se on rakennettu sitä varten, ja ~39 dollaria on reilu ammattityökalulle, jossa on kuljettajatason moottori.</li>
+<li><strong>Ei, haluan vain sovelluskohtaisen äänenvoimakkuuden, tehostuksen ja puhtaan asennuksen</strong> — osta SoundDial. Saat päivittäin tärkeän miksauksen sekä profiilit ja automaattisen vaimentamisen hintaan 14,99 € ilman kuljettajan vaivaa.</li>
+</ul>
+<p>Suurimmalle osalle Mac-käyttäjistä tämä toinen ämpäri on rehellinen vastaus. Maksat äänenvoimakkuuden hallinnasta, et studiosta.</p>
+
+<p><strong>Oletko valmis korjaamaan Mac-äänenvoimakkuuden helposti?</strong> Hanki <a href="https://apps.apple.com/app/id6772792641">SoundDial mallissa Mac App Store</a> — 14,99 € kertaluonteinen, ei kuljettajia, ei DMG:ta. Sovelluskohtainen äänenvoimakkuus, tehostus, profiilit ja automaattinen vaimentaminen yhdellä napsautuksella.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "Halvempi SoundSource vaihtoehto sovelluskohtaiselle äänenvoimakkuudelle Mac:lla",
+    description: "Haluatko SoundSource-tyylisen sovelluskohtaisen äänenvoimakkuuden ilman 39 dollarin hintaa? SoundDial on 14,99 € Mac App Store-valikkopalkkisekoitin, jossa on tehostus, profiilit ja automaattinen vaimentaminen.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos haluat SoundSource-tyylisen sovelluskohtaisen äänenvoimakkuuden säätimen Mac:llesi, mutta 39 dollaria tuntuu jyrkältä, nopein luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Se on 14,99 €:n kertakäyttöinen Mac App Store:n valikkopalkkimikseri, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, mykistyksen ja tehostuksen – sekä profiilit ja automaattisen vaimentamisen – ilman lataus- tai ääniohjainta.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — halvempi SoundSource vaihtoehto sovelluskohtaiselle äänenvoimakkuudelle Mac:lla" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi ihmiset etsivät SoundSource-vaihtoehtoa</h2>
+<p>SoundSource by Rogue Amoeba on erinomainen ohjelmisto. Se on aidosti ammattilaistasoa: sovelluskohtaiset taajuuskorjaimet, äänitehosteet ja ulostuloreititys, joiden avulla voit lähettää yhden sovelluksen kuulokkeihisi ja toisen kaiuttimiisi. Mutta tämä voima tulee kahdella kitkapisteellä. Ensinnäkin hinta - noin 39 dollaria. Toiseksi se asentaa järjestelmätason äänenkaappausohjaimen App Store:n ulkopuolelle, minkä suhteen jotkut ihmiset ovat varovaisia ​​työkoneessa tai eivät yksinkertaisesti halua hallita macOS-päivitysten välillä.</p>
+<p>Useimmille ihmisille todellinen tarve on paljon yksinkertaisempi: käännä Spotify alas koskematta Zoom-puheluun, vaimenna meluisa selaimen välilehtisovellus tai tehosta hiljaista videosoitinta yli 100 %. Jos se olet sinä, maksat pro rahaa ominaisuuksista, joita et koskaan avaa.</p>
+
+<h2>Mitä SoundDial tekee – ja mitä se maksaa</h2>
+<p>SoundDial keskittyy sovelluskohtaiseen äänenvoimakkuuteen ja tekee sen puhtaasti. Avaa valikkopalkki ja saat live-luettelon kaikesta ääntä tuottavasta, jokaisella on omat hallintansa:</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> — yksi liukusäädin per sovellus, säädetty reaaliajassa.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi sovellus välittömästi keskeyttämättä mitään muuta.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> — työnnä hiljaisia sovelluksia normaalin maksimiarvonsa yläpuolelle, kun video tai puhelu on liian pehmeä.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna sekoitus (esim. "Focus", "Gaming", "Meeting") ja vaihda yhdellä napsautuksella.</li>
+<li><strong>Automaattinen vaimennus</strong> — upota muut sovellukset automaattisesti, kun jotain tärkeämpää alkaa toistaa.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden laitteiden välillä samasta valikosta.</li>
+</ul>
+<p>Hinta on <strong>14,99 €, maksettu kerran</strong> - ei tilausta. Se on suunnilleen kolmannes SoundSource:n kustannuksista, sillä äänenvoimakkuusominaisuudet, joita useimmat käyttäjät todella tavoittavat.</p>
+
+<h2>App Store ero</h2>
+<p>Koska SoundDial toimitetaan <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, se on Applen arvioima ja hiekkalaatikolla. Ei ole vedettävää DMG:ta, ei hyväksyttävää ytimen laajennusta tai äänenkaappausohjainta eikä erillistä päivitysohjelmaa. Asennat sen kuten minkä tahansa muun App Store-sovelluksen ja se toimii. Kun macOS päivittyy, et jää miettimään, toimiiko matalan tason äänikomponentti edelleen.</p>
+<blockquote>macOS:ssa ei vieläkään ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia, mutta Mac:ssa järjestelmän tilavuus on kaikki tai ei mitään – juuri tämän aukon nämä työkalut täyttävät.</blockquote>
+
+<h2>Miten se verrataan ilmaisiin vaihtoehtoihin</h2>
+<p>SoundSource ei ole ainoa vaihtoehtosi. On olemassa ilmaisia työkaluja, ja niiden rehellisyys on tärkeää:</p>
+<ul>
+<li><strong>Background Music</strong> on ilmainen avoimen lähdekoodin sovelluskohtainen volyymisovellus. Se toimii monille ihmisille, mutta se voi katketa ​​uudemmissa macOS-julkaisuissa, päivitykset ovat epäsäännöllisiä, eikä siinä ole tehostetta, profiileja eikä automaattista vaimentumista.</li>
+<li><strong>FineTune</strong> on ilmainen, avoimen lähdekoodin valikkopalkin äänenvoimakkuussovellus – kevyt ja kätevä, mutta siitä puuttuu jälleen profiili- ja vaimennusominaisuudet.</li>
+<li><strong>eqMac</strong> on ilmainen taajuuskorjain ja järjestelmävahvistin. Se on enemmän taajuuskorjain/tehostustyökalu kuin todellinen sovelluskohtainen mikseri, eikä se ole keskittynyt yksittäisiin sovellusten liukusäätimiin.</li>
+</ul>
+<p>Vapaa on laillinen valinta. Kompromissi on luotettavuus ja ominaisuudet: avoimen lähdekoodin äänityökalut riippuvat vapaaehtoisesta ylläpidosta ja voivat jäädä macOS-muutosten jälkeen, eikä mikään ilmaisista vaihtoehdoista yhdistä profiileja ja automaattista vaimenemista SoundDial:n tapaan. Jos asennuksesi on yksinkertainen ja et välitä satunnaisesta rikkoutumisesta, ilmainen sovellus saattaa riittää. Jos haluat jotain, joka on huollettu, hiekkalaatikolla ja vain toimii, 14,99 € ostaa sinulle juuri sen.</p>
+
+<h2>Nopea päätöksentekoopas</h2>
+<ul>
+<li><strong>Tarvitset sovelluskohtaisen taajuuskorjaimen, äänitehosteet ja yhden sovelluksen reitittämisen eri tulostuslaitteeseen</strong> → SoundSource on hintansa arvoinen. Mikään tässä ei täysin korvaa sitä.</li>
+<li><strong>Tarvitset pääasiassa sovelluskohtaisen äänenvoimakkuuden, mykistyksen, tehostuksen, profiilit ja vaimentamisen – ilman ohjaimia</strong> → SoundDial 14,99 € on edullisempi valinta.</li>
+<li><strong>Haluat ilmaisen etkä välitä ylläpitoriskistä</strong> → kokeile ensin Background Music, FineTune tai eqMac.</li>
+</ul>
+
+<h2>Sen määrittäminen</h2>
+<p>Aloitus kestää noin minuutin:</p>
+<ul>
+<li>Asenna SoundDial mallista Mac App Store — ei ulkoista latausta.</li>
+<li>Myönnä äänilupa macOS-kehotteita varten ensimmäisen käynnistyksen yhteydessä.</li>
+<li>Toista ääni muutamassa sovelluksessa ja avaa valikkopalkin kuvake; näet jokaisen omalla liukusäätimellä.</li>
+<li>Aseta tasot vetämällä, mykistää napauttamalla tai tehostaa yli 100 %.</li>
+<li>Tallenna asetuksesi profiilina ja ota automaattinen vaimennus käyttöön, jos haluat muiden sovellusten hiljentyvän puheluiden tai median aikana.</li>
+</ul>
+<p>Siinä on koko työnkulku – ei määritystiedostoja, ei uudelleenkäynnistystä, ei siunattavaa järjestelmälaajennusta.</p>
+
+<h2>Lopputulos</h2>
+<p>SoundSource on tehokkaampi työkalu, mutta useimmat sitä etsivät ihmiset haluavat vain sovelluskohtaisen äänenvoimakkuuden, joka toimii. SoundDial toimittaa sen noin kolmanneksella hinnasta, toimitetaan turvallisesti App Store:n kautta ja lisää profiileja ja automaattisen vaimentamisen päälle – ilman yhdenkään ajurin asentamista.</p>
+
+<p>Oletko valmis ohjaamaan jokaisen sovelluksen äänenvoimakkuutta itsenäisesti? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> 14,99 €, kerta.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "FineTune Vaihtoehto mallille Mac: tuettu sovelluskohtainen äänenvoimakkuuden mikseri",
+    description: "Kokeilitko ilmaista FineTune-valikkopalkkisovellusta ja haluatko jotain ylläpidettyä ja App Store-turvallista? Tässä on paras FineTune-vaihtoehto sovelluskohtaiselle äänenvoimakkuudelle Mac:lla.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos pidit FineTune:sta, mutta haluat jotain aktiivisesti ylläpidettävää ja asennettua luotettavasta lähteestä, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on nopein luotettava korjaus. Se on Mac App Store-valikkopalkin sovelluskohtainen äänenvoimakkuuden mikseri, jossa on riippumaton äänenvoimakkuus, sovelluskohtainen mykistys, äänenvoimakkuuden lisäys, tallennetut profiilit ja automaattinen vaimennus. Applen tarkistama ja hiekkalaatikkoon asennettu se maksaa kerran 14,99 € ilman ajureita.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune Vaihtoehto mallille Mac: tuettu sovelluskohtainen äänenvoimakkuuden mikseri" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi ylipäätään etsiä FineTune-vaihtoehtoa?</h2>
+
+<p>FineTune on kiva idea: ilmainen avoimen lähdekoodin valikkopalkkisovellus, joka mahdollistaa sovelluskohtaisen äänenvoimakkuuden säädön macOS:ssa, jota Apple ei edelleenkään suostu rakentamaan (Windows:lla on ollut sovelluskohtainen mikseri vuosia). Monille se tekee perustyön. Mutta on olemassa todellisia syitä, miksi käyttäjät etsivät jotain muuta.</p>
+
+<ul>
+<li><strong>Huolto on epävarmaa.</strong> Avoimen lähdekoodin harrastusprojektit elävät ja kuolevat yhden ylläpitäjän vapaa-ajalla. Kun macOS toimittaa suuren päivityksen, ääneen liittyvät sovellukset rikkoutuvat usein ensimmäisinä, ja jäät odottamaan vapaaehtoista korjausta, jota ei ehkä koskaan tule.</li>
+<li><strong>Ominaisuus kattoon.</strong> FineTune kattaa sovelluskohtaisen äänenvoimakkuuden ja vähän muuta. Jos haluat tehostaa yli 100 %, tallennetut profiilit tai automaattinen vaimennus, sinun on käytettävä muita työkaluja.</li>
+<li><strong>Luottamus ja päivitykset.</strong> Raakaversion asentaminen App Store:n ulkopuolelle tarkoittaa automaattista tarkistusta, hiekkalaatikkotakuita ja manuaalisia päivityksiä, joita sinun on seurattava itse.</li>
+</ul>
+
+<p>Mikään näistä ei tee FineTune:sta huonoa. Se tarkoittaa vain, että jos luotat sovelluskohtaiseen ääneen joka päivä, haluat todennäköisesti jotain, jonka takana on tukimalli.</p>
+
+<h2>Mitä SoundDial tekee eri tavalla</h2>
+
+<p>SoundDial alkaa samasta ydinideasta, valikkopalkkisekoittimesta, jossa on liukusäädin jokaiselle käynnissä olevalle sovellukselle, ja menee sitten pidemmälle tehokäyttäjien todella vaatimilla ominaisuuksilla.</p>
+
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti.</strong> Käännä Spotify alas, pidä puhelu täydellä äänenvoimakkuudella, mykistää meluisan selaimen välilehden sovellus kokonaan yhdestä valikosta.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys.</strong> Työnnä hiljainen sovellus normaalin kattonsa yläpuolelle, kun podcast tai video masteroitiin liian matalalle. FineTune ei tee tätä.</li>
+<li><strong>Äänenvoimakkuusprofiilit.</strong> Tallenna sekoitus, "fokus", "pelaaminen", "kokoukset" ja vaihda koko asetuksiasi yhdellä napsautuksella sen sijaan, että painaisit viittä liukusäädintä.</li>
+<li><strong>Automaattinen vaimennus.</strong> Pienennä taustaääntä automaattisesti, kun jotain tärkeämpää alkaa toistaa, joten musiikki vaimenee puhelun saapuessa.</li>
+<li><strong>Nopea lähdön vaihto.</strong> Hyppää kaiuttimien, kuulokkeiden ja muiden lähtöjen välillä sukeltamatta järjestelmäasetuksiin.</li>
+</ul>
+
+<p>Koska <a href="https://apps.apple.com/app/id6772792641">SoundDial toimitetaan Mac App Store:n kautta</a>, se on Applen arvioima ja hiekkalaatikkoon lisätty, se asennetaan siististi ja päivitetään samalla mekanismilla kuin kaikki muut App Store-sovellukset. Ei vedettävää DMG:ta, ääniohjainta tai järjestelmälaajennusta, eikä suojauskehotetta, joka pyytäisi sallimaan ydintason komponentin.</p>
+
+<h2>SoundDial vs. FineTune ja muut ilmaiset työkalut</h2>
+
+<p>FineTune ei ole ainoa ilmainen vaihtoehto, ja se auttaa näkemään koko maiseman rehellisesti.</p>
+
+<ul>
+<li><strong>FineTune</strong> - Ilmainen avoimen lähdekoodin valikkopalkki sovelluskohtaisesti. Yksinkertainen ja kevyt, mutta ei tehostusta, ei profiileja, ei vaipumista, ja ylläpito riippuu yhteisöstä.</li>
+<li><strong>Background Music</strong> - Ilmainen ja avoimen lähdekoodin, reitittää ja säätää sovelluskohtaista ääntä. Todella hyödyllinen, mutta se voi rikkoutua uudemmissa macOS-julkaisuissa, ja siitä puuttuu tehostus, profiilit ja vaimentaminen.</li>
+<li><strong>eqMac</strong> - Ilmainen taajuuskorjain ja järjestelmävahvistin. Hienoa, jos haluat pääasiassa taajuuskorjaimen, mutta se ei ole sovelluskohtainen mikseri.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - Pro-grade-vaihtoehto noin 39 dollaria, sovelluskohtaisella taajuuskorjaimella ja tulosteiden reitityksellä. Erinomainen, mutta se tarvitsee latauksen ja äänenkaappausohjaimen, ja se maksaa yli kaksi kertaa niin paljon.</li>
+<li><strong>SoundDial</strong> — 14,99 € kertaluonteinen, App Store-turvallinen, ei kuljettajia. Lisää tehostusta, profiileja ja automaattista vaimenemista sovelluskohtaisten äänenvoimakkuuden perustietojen lisäksi.</li>
+</ul>
+
+<p>Rehellinen yhteenveto: jos haluat ehdottoman halvimman asian ja tarvitset vain sovelluskohtaisen perusmäärän, ilmaiset työkalut voivat toimia. Jos haluat sovelluskohtaisen taajuuskorjauksen ja reitityksen etkä välitä maksamisesta ja ohjaimen asentamisesta, SoundSource on raskas sarja. SoundDial on hyvällä paikalla, tehokkaampi kuin ilmaiset sovellukset, dramaattisesti halvempi kuin SoundSource ja turvallisempi asentaa kuin kumpikaan, koska Apple arvioi ja hiekkalaatikolla sen.</p>
+
+<h2>Siirtyminen FineTune:sta</h2>
+
+<p>Vaihto kestää muutaman minuutin, eikä siivousrituaalia ole.</p>
+
+<ul>
+<li>Asenna SoundDial mallista Mac App Store. Ei asennusohjelmaa, ei ohjaimen hyväksyntää, ei uudelleenkäynnistystä.</li>
+<li>Napsauta valikkorivin SoundDial-kuvaketta nähdäksesi liukusäätimen jokaiselle käynnissä olevalle sovellukselle.</li>
+<li>Aseta päivittäinen sekoitus ja tallenna se sitten profiiliksi, jotta voit palauttaa sen välittömästi.</li>
+<li>Ota valinnaisesti käyttöön automaattinen vaimennus, jotta taustaääni siirtyy sivuun puheluita ja hälytyksiä varten.</li>
+<li>Kun olet tyytyväinen, lopeta FineTune. Koska kumpikaan sovellus ei asenna järjestelmäohjaimia, mitään ei tarvitse poistaa.</li>
+</ul>
+
+<p>Säilytät asian, josta pidit FineTune:ssa, puhtaassa valikkopalkkisekoittimessa, jota Apple ei koskaan antanut sinulle, ja saat tehosteen, profiilit, vaimentamisen ja pitkäaikaisen tuen, jonka ylläpidetty App Store-sovellus tarjoaa.</p>
+
+<h2>Lopputulos</h2>
+
+<p>FineTune todistaa konseptin: sovelluskohtainen äänenvoimakkuus kuuluu valikkopalkkiin. SoundDial näyttää siltä, ​​miltä konsepti näyttää todellisen tukimallin, enemmän ominaisuuksien ja App Store-turvallisuuden ansiosta. Hinta kertaluonteinen 14,99 € vapaaehtoisen ylläpidon sijaan.</p>
+
+<p>Oletko valmis sovelluskohtaiseen mikseriin, joka pysyy kunnossa? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja ohjaa jokaisen sovelluksen äänenvoimakkuutta sekunneissa.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac Vaihtoehto todelliselle sovelluskohtaiselle äänenvoimakkuudelle Mac:lla",
+    description: "Rakastitko eqMac:n tehostusta, mutta tarvitsetko oikean sovelluskohtaisen äänenvoimakkuuden, mykistyksen ja profiilit? SoundDial on nopein Mac App Store-korjaus – 14,99 €, hiekkalaatikolla, ei ohjaimia.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos käytit eqMac:ta sen taajuuskorjaimeen ja äänenvoimakkuuden tehostimeen, mutta haluat todella itsenäisen äänenvoimakkuuden jokaiselle sovellukselle – sekä mykistyksen, tehostuksen ja tallennetut profiilit – nopein luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. Se on Mac App Store-valikkopalkkisekoitin: aseta taso sovelluskohtaisesti, tehosta hiljaisia ​​ja vaihda profiileja välittömästi. 14,99 € kertaluonteinen, hiekkalaatikko, ei ajureita asennettava.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — eqMac Vaihtoehto todelliselle sovelluskohtaiselle äänenvoimakkuudelle Mac:lla" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac vs. mitä todella tarvitset</h2>
+
+<p>eqMac on vankka ilmainen työkalu, ja sen järjestelmän laajuinen taajuuskorjain ja äänenvoimakkuuden tehostin ovat todella hyödyllisiä. Mutta eqMac on rakennettu yhden master-taajuuskorjaimen ja yhden master-ulostulon ympärille. Se ei anna sinulle todellista sovelluskohtaista äänenvoimakkuuden mikseriä – asia, joka Windows:lla on ollut vuosia, eikä macOS:ta vieläkään toimiteta alkuperäisenä.</p>
+
+<p>Joten jos todellinen ongelmasi on "Spotify on liian kova puhelun aikana" tai "tämä peli räjäyttää korviani, mutta kaikki muu on kunnossa", eqMac ei ole oikea muoto työhön. Päätät ajamaan yhdellä pääliukusäätimellä tai näpertämään jokaisen sovelluksen sisäisen äänenvoimakkuuden. Tämä on aukko, jonka SoundDial täyttää.</p>
+
+<h2>Mitä SoundDial tekee, sitä eqMac ei tee</h2>
+
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> — Musiikki 40 %, selain 100 %, videopuhelu 70 %, kaikki kerralla, kaikki muistetaan.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi meluisa sovellus välittömästi koskematta mihinkään muuhun.</li>
+<li><strong>Sovelluskohtainen tehostus</strong> — työnnä hiljainen sovellus normaalikaton yli, kuten eqMac:n tehostin tekee, mutta kohdistetaan yhteen sovellukseen koko järjestelmän sijaan.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> - Tallenna asetukset, kuten "Focus", "Gaming" tai "Meeting", ja vaihda koko yhdistelmä yhdellä napsautuksella.</li>
+<li><strong>Automaattinen vaimennus</strong> — pudottaa taustaäänen automaattisesti, kun jotain tärkeämpää alkaa, joten et etsi liukusäädintä kesken puhelun.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden lähtöjen välillä valikkoriviltä.</li>
+</ul>
+
+<p>Päällekkäisyys eqMac:n kanssa on pohjimmiltaan boostia. Kaikki muu – mikseri, mykistys, profiilit, vaimentaminen – on aluetta, jota eqMac:ta ei koskaan suunniteltu peittämään.</p>
+
+<h2>Haluatko silti EQ:n?</h2>
+
+<p>Ole rehellinen sen suhteen, mitä ongelmaa olet ratkaisemassa. Jos todella tarvitset taajuustaajuuskorjainta – basson leikkaamista, ankarien korkeuksien kesyttämistä, koko järjestelmäsi sävyn muokkaamista – eqMac:lla on edelleen paikka, ja se on ilmainen. SoundDial on äänenvoimakkuuden mikseri, ei taajuuskorjain.</p>
+
+<p>Mutta useimmat ihmiset tavoittelevat eqMac:n boosteria, eivät siksi, että he haluaisivat muokata taajuuksia, vaan he haluavat yhden sovelluksen äänekkäämmän tai yhdistelmän tasapainoisen. Jos se olet sinä, erillinen mikseri on puhtaampi vastaus. Voit jopa käyttää molempia: pidä eqMac järjestelmän laajuisen EQ-käyrän saamiseksi ja käytä SoundDial:ta sovelluskohtaisille tasoille. He eivät riitele samasta työstä.</p>
+
+<h2>Miten se verrataan muihin Mac-äänityökaluihin</h2>
+
+<p>Koska olet jo työkaluja metsästämässä, tässä on rehellinen maisema:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - Pro-luokan vaihtoehto noin 39 dollaria, sovelluskohtaisella taajuuskorjaimella ja täydellä lähtöreitityksellä. Tehokas, mutta se vaatii suoran latauksen ja asentaa äänikaappausohjaimen. Ylivoimainen ja kalliimpi, jos haluat vain sovelluskohtaisen äänenvoimakkuuden profiilien kanssa.</li>
+<li><strong>Background Music</strong> - ilmainen ja avoimen lähdekoodin, mutta se voi katketa uudemmissa macOS-julkaisuissa, eikä siinä ole tehostetta, profiileja tai automaattista vaimentumista. Hienoa kun toimii, turhauttavaa kun ei.</li>
+<li><strong>FineTune</strong> - ilmainen avoimen lähdekoodin valikkopalkkisovellus. Kannattaa katsoa, ​​jos 0 dollaria on kova vaatimus, vaikka se on kevyempi ominaisuuksien ja kiillotuksen suhteen.</li>
+<li><strong>eqMac</strong> - ilmainen EQ plus boosteri, mutta ei todellista sovelluskohtaista mikseria, kuten yllä on kuvattu.</li>
+</ul>
+
+<p>SoundDial on hyvällä paikalla: keskittyneempi ja halvempi kuin SoundSource, tehokkaampi ja luotettavampi kuin ilmaiset vaihtoehdot, ja se tekee sovelluskohtaisen työn, jota eqMac ei.</p>
+
+<h2>Miksi Mac App Store on tärkeä täällä</h2>
+
+<p>Useat näistä työkaluista vaativat suoran latauksen ja ydintason tai sieppausääniohjaimen. Ne toimivat, mutta ne ovat sellaisia, jotka voivat tarttua macOS-päivitykseen tai kompastua lukittuun Mac-versioon.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> toimitetaan sen sijaan Mac App Store:n kautta. Tämä tarkoittaa, että se on Applen arvioima ja hiekkalaatikkoon asennettu, se asentuu siististi ilman DMG:ta vetää, eikä siinä ole hyväksyttäviä ääniohjaimia tai järjestelmälaajennuksia. Päivitykset saapuvat App Store:n kautta, kuten minkä tahansa muun sovelluksen, ja asennuksen poistaminen on normaali poistaminen. Valikkorivin apuohjelmalle, joka koskettaa ääntäsi, tämä pienemmän kitkan ja riskin polku on paljon arvokas.</p>
+
+<h2>Pika-asennus</h2>
+
+<ul>
+<li>Asenna SoundDial Mac App Store:sta — ei uudelleenkäynnistystä, ei ohjainkehotetta.</li>
+<li>Avaa valikkopalkin kuvake; jokainen tällä hetkellä ääntä tuottava sovellus näkyy omalla liukusäätimellään.</li>
+<li>Aseta tasoja, mykistää tarpeettomat ja tehosta mitään liian hiljaista.</li>
+<li>Tallenna järjestely profiilina ja luo sitten lisää pelaamista, puheluita tai keskittymistä varten.</li>
+<li>Ota automaattinen vaimennus käyttöön, jotta taustaääni siirtyy automaattisesti sivuun.</li>
+</ul>
+
+<p>Siinä koko silmukka. Muutamassa minuutissa sovelluskohtaisen ohjauksen eqMac:n tehostin vain vihjasi.</p>
+
+<p><strong>Oletko valmis todelliseen sovelluskohtaiseen äänenvoimakkuuteen Mac:ssa?</strong> <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> - 14,99 € kertakäyttöinen, hiekkalaatikko, ei ohjaimia, ja se tekee juuri sen, mitä valikkopalkkisekoittimen pitääkin.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "Halvin hyvä volyymimikseri Mac:lle vuonna 2026",
+    description: "Etsitkö halvinta hyvää sovelluskohtaista äänenvoimakkuuden mikseriä Mac:lle vuonna 2026? Vertaa SoundDial, SoundSource, Background Music, FineTune ja eqMac hinnan, turvallisuuden ja ominaisuuksien suhteen.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Paras hinta-laatusuhde sovelluskohtainen äänenvoimakkuuden mikseri Mac:lle vuonna 2026 on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, valikkopalkkisovellus Mac App Store:lle kertaluonteisella 14,99 €:lla. Se antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen sekä mykistyksen, tehostuksen, profiilit ja automaattisen vaimentamisen – ei ohjaimia, ei tilausta eikä riskialtista latausta. Se on halvin maksettu vaihtoehto, joka todella toimii luotettavasti.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Halvin hyvä volyymisekoitin Mac:lle vuonna 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi "halvin" tarvitsee määritelmän</h2>
+<p>Mac:lle on ilmaisia ​​volyymityökaluja, joten jos ainoa tavoite on nollakulutus, sinulla on vaihtoehtoja. Mutta ilmainen maksaa yleensä jossain muualla: uusien macOS-versioiden haurauden, puuttuvien ominaisuuksien, kuten tehostuksen tai profiilit, tai asennusprosessin, johon kuuluu äänen sieppausohjain, johon sinun on luotettava. "Halvin tuote" tarkoittaa alhaisinta hintaa, joka silti antaa sinulle vakaan, monipuolisen sekoittimen, jota käytät jatkossakin. Se on objektiivi, jota käytämme täällä.</p>
+
+<h2>Ensinnäkin asia, jota macOS ei tee</h2>
+<p>Windows:lla on ollut sovelluskohtainen äänenvoimakkuuden mikseri vuosia – napsauta hiiren kakkospainikkeella kaiutinkuvaketta ja aseta jokainen sovellus erikseen. macOS:ssa ei ole vieläkään sisäänrakennettua vastaavaa. Saat yhden päätaltion ja minkä tahansa sisäisen liukusäätimen, jonka sovellus sattuu lähettämään (musiikki, jotkut selaimet). Ei ole koko järjestelmän kattavaa tapaa tehdä Slack:sta hiljaisempaa kuin Spotify tai tehostaa hiljaista videopuhelua kaiken muun edelle. Jokainen alla oleva vaihtoehto on olemassa tämän aukon täyttämiseksi.</p>
+
+<h2>Kilpailijat, hinnoiteltu rehellisesti</h2>
+
+<h2>SoundDial – 14,99 €, kertaluonteinen</h2>
+<p>SoundDial on valikkopalkissasi ja antaa jokaiselle käynnissä olevalle sovellukselle itsenäisen äänenvoimakkuuden liukusäätimen. Perusasioiden lisäksi se lisää ominaisuuksia, joita ihmiset todella tavoittavat:</p>
+<ul>
+<li><strong>Sovelluskohtainen tehostus</strong> - Työnnä liian hiljainen sovellus yli 100 % sen sijaan, että rasittaisit kuullaksesi sen.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> - hiljennä yksi sovellus koskematta muihin.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> - tallenna "työpuhelu" tai "elokuvailta" -sekoitus ja hae se välittömästi.</li>
+<li><strong>Automaattinen vaimennus</strong> — pudottaa taustaäänen automaattisesti, kun jotain tärkeämpää toistetaan.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden laitteiden välillä samasta valikosta.</li>
+</ul>
+<p>Koska se on Mac App Store:ssa, se on hiekkalaatikolla, Applen tarkistama ja asentuu puhtaasti – ei DMG:ta, ei ydinlaajennusta, ei hyväksyttävää ääniohjainta. Sinä maksat <a href="https://apps.apple.com/app/id6772792641">14,99 € kerran</a> ja omistaa sen. Useimmille ihmisille tämä on suloinen paikka: tarpeeksi halpa ollakseen helppo kyllä, tarpeeksi täydellinen, ettet kasva siitä yli.</p>
+
+<h2>SoundSource - ~ 39 dollaria, pro-vaihtoehto</h2>
+<p>Rogue Amoeba:n SoundSource on tehokäyttäjien kultastandardi. Se suorittaa sovelluskohtaisen äänenvoimakkuuden ja mykistää kuten SoundDial, mutta menee pidemmälle sovelluskohtaisilla taajuuskorjaimilla ja täydellä lähdön reitityksellä (lähetä yksi sovellus kuulokkeisiin ja toinen kaiuttimiin). Se on todella erinomainen – mutta se maksaa noin 39 dollaria, ja se asennetaan App Store:n ulkopuolelle äänen sieppauskomponentin kanssa, jolle sinun on myönnettävä lupa. Jos tarvitset sovelluskohtaista EQ:ta tai monimutkaista reititystä, se on rahan arvoista. Jos haluat vain puhtaan, halvan mikserin, maksat ominaisuuksista, joihin et ehkä koskaan koske.</p>
+
+<h2>Background Music — ilmainen, avoimen lähdekoodin</h2>
+<p>Background Music on tunnettu ilmainen avoimen lähdekoodin sovellus, joka tarjoaa sovelluskohtaisen äänenvoimakkuuden ja automaattisen tauon. Saalis: se kytkeytyy syvälle Core Audioon virtuaalisen ohjaimen kautta, ja sillä on pitkä historia uusien macOS-julkaisujen murtamisesta, ja se vaatii joskus manuaalisia korjauksia tai uudelleenasennuksen päivitysten jälkeen. Siitä puuttuu myös tehostus, tallennetut profiilit ja automaattinen vaimennus. Sopii erinomaisesti töihin, jotka eivät välitä kunnossapidosta; turhauttavaa, jos haluat vain sen toimivan.</p>
+
+<h2>FineTune — ilmainen, valikkopalkki</h2>
+<p>FineTune on ilmainen avoimen lähdekoodin valikkopalkin äänenvoimakkuussovellus. Se on kevyt ja miellyttävä, ja se voi riittää yksinkertaiseen sovelluskohtaiseen säätöön. Mutta koska se on pieni ilmainen projekti, se ei vastaa ominaisuuksien syvyyttä – ei profiileja, ei automaattista vaimentumista ja tehostuksen/tulosteen käsittely on rajoitettua. Nolla kustannuksia, vähemmän takuuta pitkäikäisyydestä ja tuesta.</p>
+
+<h2>eqMac — ilmainen, EQ + vahvistin</h2>
+<p>eqMac on ilmainen koko järjestelmän kattava taajuuskorjain äänenvoimakkuuden tehostimella. Kyse on enemmänkin koko Mac:n äänen ja äänenvoimakkuuden muokkaamisesta kuin yksittäisten sovellusten sekoittamisesta, joten se on erilainen työkalu eri töihin. Jos haluat erityisesti sovelluskohtaisen ohjauksen, eqMac ei todellakaan ole vastaus, vaikka se on hieno ilmainen EQ.</p>
+
+<h2>Hinta vs. arvo: rehellinen pöytä</h2>
+<ul>
+<li><strong>Todella ilmainen, mutta kompromissin kanssa:</strong> Background Music (hauras, ohjainpohjainen), FineTune (ohuet ominaisuudet), eqMac (EQ, ei mikseri).</li>
+<li><strong>Halvin täydellinen maksullinen sovellus:</strong> SoundDial hintaan 14,99 € – boost, profiilit, vaimennus, App Store turvallisuus.</li>
+<li><strong>Premium/pro:</strong> SoundSource ~ 39 dollaria – EQ ja reititys, ei App Store -asennus.</li>
+</ul>
+<p>Toisin sanoen: SoundDial maksaa noin kolmanneksen SoundSource:sta, samalla kun se kattaa ominaisuudet, joita 90 % ihmisistä todella haluaa. Ja toisin kuin ilmaiset vaihtoehdot, se ei katkea hiljaa macOS-päivityksen jälkeen, koska se ei ole riippuvainen herkästä järjestelmätason ääniohjaimesta.</p>
+
+<h2>Kumpi kannattaa valita?</h2>
+<p>Jos olet ammattilainen, joka tarvitsee sovelluskohtaista EQ:ta ja reitittää sovelluksia eri lähtöihin, osta SoundSource – se ansaitsee hintansa. Jos pidät avoimesta lähdekoodista etkä välitä satunnaisesta rikkoutumisesta, kokeile Background Music:ta tai FineTune:ta ilmaiseksi. Mutta jos haluat halvimman vaihtoehdon, joka vain toimii – riippumaton äänenvoimakkuus, tehostus, mykistys, tallennettavat profiilit ja automaattinen vaimentaminen, asennettuna turvallisesti App Store:sta – SoundDial on selvä arvon voittaja vuonna 2026.</p>
+
+<blockquote>Paras mikseri ei ole se, jolla on eniten ominaisuuksia tai alhaisin hinta – se on se, jonka asennat kerran ja unohdat sen. Hinta 14,99 € SoundDial tekee siitä helpon puhelun.</blockquote>
+
+<p>Oletko valmis antamaan jokaiselle sovellukselle oman äänenvoimakkuutensa? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> kertaluonteinen 14,99 € – ei tilausta, ei kuljettajia, ei riskiä.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Windows äänenvoimakkuuden mikseri Mac:lle: Hanki sovelluskohtainen äänenvoimakkuuden säätö",
+    description: "Puuttuuko Windows Volume Mixer Mac:sta? macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden säätöä. Tässä on nopein tapa hankkia se: SoundDial, 14,99 euron valikkopalkkisekoitin.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua Volume Mixeria, kuten Windows, joten et voi asettaa sovelluskohtaista äänenvoimakkuutta järjestelmäasetuksista. Nopein ja luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, 14,99 euron valikkopalkkisovellus Mac App Store:lta. Se antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, mykistyksen ja tehostuksen – ei ohjaimia, ei DMG:ta, ei riskialttiita asennuksia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows Äänenvoimakkuuden mikseri Mac:lle: Hanki sovelluskohtainen äänenvoimakkuuden säätö" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Windows Volume Mixerillä ei ole Mac-vastinetta</h2>
+
+<p>Jos vaihdoit Windows:sta, yksi ensimmäisistä asioista, jotka jäät huomaamatta, on Volume Mixer: napsauta hiiren kakkospainikkeella kaiutinkuvaketta, ja jokainen käynnissä oleva sovellus saa oman liukusäätimen. Käännä Chrome alas, pidä Discord äänekkäänä, vaimenna Spotify – kaikki yhdessä paikassa.</p>
+
+<p>macOS ei yksinkertaisesti toimita tätä. Applen äänenvoimakkuuden säädin on yksi järjestelmän laajuinen liukusäädin. Asettamasi taso koskee kaikkea kerralla. Järjestelmäasetuksissa ei ole piilotettua sovelluskohtaista vaihtoehtoa, ei Terminal-komentoa, ei esteettömyyskytkintä. Se on todellinen aukko, ja se on ollut sitä vuosia.</p>
+
+<p>Syy on arkkitehtoninen: sovellukset reitittävät äänen Core Audion kautta tulostuslaitteellesi, ja käyttöjärjestelmä ei paljasta käyttäjäkohtaista mikseriä yksittäisille virroille. Jotta voit luoda Windows-kokemuksen uudelleen, tarvitset kolmannen osapuolen sovelluksen, joka sijaitsee kyseisessä äänipolussa ja antaa sinulle Applen jättämät ohjaimet.</p>
+
+<h2>Lähin ottelu: SoundDial</h2>
+
+<p>SoundDial on valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri, joka on suunniteltu erityisesti tätä varten. Napsauta sen kuvaketta ja saat puhtaan luettelon kaikesta, joka toistaa ääntä, ja jokaisella on oma liukusäädin. Se on suorin "Windows Volume Mixer for Mac", jonka voit asentaa, ja se tekee muutamia asioita, joita Windows-mikseri ei koskaan pystynyt:</p>
+
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> – ydinominaisuus. Aseta Chrome arvoon 40 %, Zoom arvoon 100 %, musiikiksi 20 %.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> - hiljennä yksi sovellus koskematta muihin.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> - paina hiljaista sovellusta <em>edellä</em> 100 %, kun sen oma ääni on liian alhainen.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna sekoitus (esim. "työpuhelu" tai "pelaaminen") ja hae se välittömästi sen sijaan, että vedät liukusäätimiä uudelleen.</li>
+<li><strong>Automaattinen vaimennus</strong> — vaimentaa taustaääntä automaattisesti, kun jotain tärkeämpää alkaa, kuten puhelu.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden laitteiden välillä samasta valikosta.</li>
+</ul>
+
+<p>Koska se on päällä <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>, se on Applen arvioima ja hiekkalaatikolla. Se asennetaan siististi yhdellä napsautuksella – ei vedettävää DMG:ta, ei hyväksyttävää ääniohjainta tai järjestelmälaajennusta, ei suojauskehotteita. Kertahintaan 14,99 € (ei tilausta), se on yksinkertaisin tapa kuroa ero.</p>
+
+<h2>Sovelluskohtaisen äänenvoimakkuuden määrittäminen Mac:ssa</h2>
+
+<ol>
+<li>Asenna SoundDial mallista Mac App Store.</li>
+<li>Myönnä sen pyytämä kertaluonteinen äänilupa ensimmäisen käynnistyksen yhteydessä.</li>
+<li>Napsauta SoundDial-kuvaketta valikkorivillä.</li>
+<li>Vedä minkä tahansa sovelluksen vieressä olevaa liukusäädintä säätääksesi sen äänenvoimakkuutta tai paina mykistä/tehosta.</li>
+<li>Valinnaisesti voit tallentaa nykyisen sekoituksen profiilina, jotta voit palauttaa sen myöhemmin.</li>
+</ol>
+
+<p>Siinä koko työnkulku. Se käyttäytyy kuten jo tuntemasi Windows-sekoitin, vain valikkoriviltä tehtäväpalkin hiiren kakkospainikkeen napsautuksen sijaan.</p>
+
+<h2>Miten SoundDial vertautuu muihin vaihtoehtoihin</h2>
+
+<p>SoundDial ei ole ainoa työkalu tässä tilassa, joten tässä on rehellinen katsaus vaihtoehtoihin.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - noin 39 dollaria ja aidosti ammattitasoa: sovelluskohtainen EQ, tulosteiden reititys sovelluskohtaisesti, tehosteet. Mutta se vaatii suoran latauksen ja äänenkaappausohjaimen, ja se on ylivoimaista (ja kalliimpaa), jos haluat vain sovelluskohtaisen äänenvoimakkuuden. Valitse se, jos tarvitset EQ:ta ja reititystä; valitse SoundDial, jos haluat mikserin ilman monimutkaisuutta tai ohjainta.</li>
+<li><strong>Background Music</strong> - ilmainen ja avoimen lähdekoodin, mikä on hienoa. Saalis: se voi rikkoutua uudemmissa macOS-versioissa, ja siitä puuttuu tehostus, tallennetut profiilit ja automaattinen vaimennus. Hienoa, jos olet tyytyväinen avoimen lähdekoodin ääniohjaimien vianmääritykseen; vähemmän ihanteellinen, jos haluat jotain, joka vain toimii.</li>
+<li><strong>FineTune</strong> - ilmainen avoimen lähdekoodin valikkopalkkisovellus. Kevyt ja katsomisen arvoinen, jos budjetti on etusijalla, mutta myyt kiillotusta, profiileja ja App Store-turvallisuutta ilmaiseksi.</li>
+<li><strong>eqMac</strong> - ilmainen taajuuskorjain ja koko järjestelmän kattava vahvistin. Se on ensin taajuuskorjain, ei sovelluskohtainen mikseri, joten se ratkaisee toisen ongelman.</li>
+</ul>
+
+<p>Vaihtoehto on yksinkertainen. Ilmaiset työkalut eivät maksa mitään, mutta voivat olla hauraita tai ominaisuuksiltaan ohuita. SoundSource on tehokas, mutta kallis ja ajuripohjainen. SoundDial istuu makeassa paikassa: kertaluonteinen 14,99 €, App Store turva- ja hiekkalaatikko sekä profiilit + automaattinen vaippa, jotka ilmaisvaihtoehdot ohittavat.</p>
+
+<blockquote>Jos haluat vain Windows Volume Mixer -kokemuksen – sovelluskohtaiset liukusäätimet, mykistys ja tehostus, asennetaan turvallisesti sekunneissa – SoundDial on suorin vastine.</blockquote>
+
+<h2>Lopputulos</h2>
+
+<p>macOS ei anna sinulle Volume Mixeria, eikä se todennäköisesti koskaan anna. Mutta sinun ei tarvitse elää yhden järjestelmän laajuisen liukusäätimen kanssa. Erillinen valikkopalkin mikseri palauttaa Windows:n sovelluskohtaisen ohjauksen ja lisää tehostuksen, profiilit ja automaattisen vaimentamisen päälle.</p>
+
+<p>Oletko valmis saamaan sovelluskohtaisen äänenvoimakkuuden helpolla tavalla? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> hintaan 14,99 € – kertaluonteinen, hiekkalaatikolla ja asennetaan sekunneissa.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "Aseta sovelluksen äänenvoimakkuus kuten Windows — Mac:ssa",
+    description: "Windows:ssa on sovelluskohtainen äänenvoimakkuuden mikseri, mutta macOS:ssa ei ole. Näin asetat itsenäisen äänenvoimakkuuden jokaiselle Mac:n sovellukselle – nopeasti, turvallisesti ja ilman ohjaimia.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta, kuten Windows:ssa, joten nopein luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store-valikkopalkkisovellus, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, sovelluskohtaisen mykistyksen ja äänenvoimakkuuden lisäyksen. Se on hiekkalaatikko, Applen arvioima, asentuu ilman ohjaimia ja maksaa 14,99 € kerran.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Aseta sovelluksen äänenvoimakkuus kuten Windows — Mac:ssasi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Windows voi tehdä tämän ja macOS ei</h2>
+<p>Jos olet käyttänyt Windows:ta, tiedät harjoituksen: napsauta hiiren kakkospainikkeella kaiutinkuvaketta, avaa Volume Mixer ja vedä erillinen liukusäädin Chrome:lle, Spotify:lle, Discord:lle ja muille kohinaa aiheuttaville kohteille. Se on yksinkertaista ja se vain toimii.</p>
+<p>macOS ei koskaan toimittanut vastaavaa. Applen äänen säätimet ovat maailmanlaajuisia – yksi päävoimakkuus koko järjestelmälle. Voit mykistää sovelluksen mykistämällä sovelluksen sisältämän lähteen (jos sillä edes on hallinta), mutta ei ole yhtenäistä paikkaa sanoa "pidä musiikkini 40 %, kun kokoukseni pysyy 100 %:ssa". Tämä aukko on juuri syy, miksi kolmannen osapuolen mikserit ovat olemassa.</p>
+
+<h2>Nopein korjaus: valikkopalkin mikseri</h2>
+<p>Lähin Windows-kokemusta vastaava valikkopalkkisovellus, joka luettelee käynnissä olevat äänisovellukset ja antaa jokaiselle liukusäätimen. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tekee juuri tämän. Napsauta sen kuvaketta valikkorivillä ja saat:</p>
+<ul>
+<li><strong>Itsenäinen äänenvoimakkuus jokaiselle sovellukselle</strong> — vedä Spotify alas koskematta puheluun.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi meluisa sovellus välittömästi, jätä muut toistamaan.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> - paina liian hiljaista sovellusta <em>edellä</em> 100 %, kun sen oma max on vielä liian pehmeä.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — Tallenna "Työ" tai "Peli"-sekoitus ja hae se yhdellä napsautuksella.</li>
+<li><strong>Automaattinen vaimennus</strong> — vaimentaa taustaääntä automaattisesti, kun jotain tärkeämpää alkaa.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden lähtöjen välillä samasta valikosta.</li>
+</ul>
+<p>Koska se on Mac App Store:ssa, se on hiekkalaatikolla ja Applen tarkistama, se asentuu siististi, eikä siinä ole vedettävää DMG:ta, ytimen laajennusta tai ääniohjainta, joka olisi hyväksyttävä järjestelmäasetuksissa. Tuo viimeinen osa on tärkeämpää kuin miltä se kuulostaa – ohjainpohjaiset työkalut ovat niitä, jotka yleensä hajoavat macOS-päivitysten jälkeen.</p>
+
+<h2>Käyttöönotto (noin kaksi minuuttia)</h2>
+<ul>
+<li><strong>1.</strong> Asenna SoundDial Mac App Store:sta ja käynnistä se.</li>
+<li><strong>2.</strong> Myönnä äänilupa macOS-kehotuksiin – tämä antaa sovellukselle mahdollisuuden nähdä sovelluskohtaiset suoratoistot.</li>
+<li><strong>3.</strong> Napsauta SoundDial-kuvaketta valikkorivillä. Jokainen tällä hetkellä ääntä toistava sovellus näkyy omalla liukusäätimellään.</li>
+<li><strong>4.</strong> Aseta minkä tahansa sovelluksen liukusäädin vetämällä sen tasoa tai paina mykistyspainiketta. Tehosta yli 100 %, kun sovellus on liian hiljainen.</li>
+<li><strong>5.</strong> (Valinnainen) Tallenna nykyinen miksaus profiiliksi, jotta voit palauttaa sen myöhemmin, ja ota automaattinen vaimennus käyttöön, jos haluat taustaäänen katkeavan automaattisesti.</li>
+</ul>
+<p>Siinä koko työnkulku. Se käyttäytyy kuten jo tuntemasi Windows Volume Mixer, ilman asennuskitkaa.</p>
+
+<h2>Entä ilmaiset ja pro-vaihtoehdot?</h2>
+<p>On myös muita tapoja saada sovelluskohtainen äänenvoimakkuus Mac:ssa. Ne kannattaa tietää, jotta voit valita rehellisesti.</p>
+<blockquote>Ilmaiset työkalut vaihtavat rahaa luotettavuuteen ja ominaisuuksiin; pro työkalut vaihda rahaa ja määritä syvyys, jota et ehkä tarvitse.</blockquote>
+<p><strong>Background Music</strong> on ilmainen ja avoimen lähdekoodin, ja se tarjoaa sovelluskohtaisen äänenvoimakkuuden. Saalis: se kiinnittyy syvälle audiojärjestelmään ja on rikkonut uudempia macOS-julkaisuja, ja siitä puuttuu tehostus, profiilit ja automaattinen vaimentaminen. Jos se toimii asetuksissasi, hienoa – mutta se on uhkapeliä päivitysten kesken.</p>
+<p><strong>FineTune</strong> on ilmainen avoimen lähdekoodin valikkopalkkisovellus samassa hengessä kuin SoundDial. Se on hyvä lähtökohta, jos budjetti on ainoa huolenaihe, vaikka se onkin yhteisöprojekti ilman profiileja ja kiillotusta.</p>
+<p><strong>eqMac</strong> on ilmainen koko järjestelmän kattava EQ ja vahvistin. Se sopii erinomaisesti yleisen äänen muotoiluun, mutta se ei ole todellinen sovelluskohtainen mikseri – säädät koko lähtöä, et yksittäisiä sovelluksia.</p>
+<p><strong>SoundSource</strong> by Rogue Amoeba (noin 39 dollaria) on ammattitason vaihtoehto: sovelluskohtainen EQ, ulostuloreititys sovelluskohtaisesti ja vakavat äänitekniikan ominaisuudet. Se on erinomainen – mutta se vaatii suoran latauksen ja asentaa äänentallennuskomponentin, ja se maksaa yli kaksinkertaisen SoundDial:n hintaan. Jos haluat studiotason reitityksen ja EQ:n, se on valinta. Jos haluat vain Windows-tyylisen mikserin, se on ylivoimaista.</p>
+
+<h2>Kumpi sinun pitäisi hankkia?</h2>
+<p>Jos tavoitteesi on "saa Mac toimimaan kuten Windows Volume Mixer" ilman latauksia, ohjaimia tai riskejä, SoundDial on puhtain vastaus. Saat sovelluskohtaisen äänenvoimakkuuden, mykistyksen, tehostuksen, profiilit ja automaattisen vaimentamisen, kaikki App Store-turvallisia, kertaluonteisella 14,99 €:lla – ilman tilausta. Valitse sen sijaan SoundSource vain, jos tarvitset erityisesti sovelluskohtaista taajuuskorjausta ja lähtöreititystä, ja kokeile ilmaisia ​​vaihtoehtoja, jos haluat tehdä vianmäärityksen macOS-päivitysten välillä.</p>
+
+<p><strong>Oletko valmis antamaan jokaiselle sovellukselle oman äänenvoimakkuutensa?</strong> <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja valmista ensimmäinen sekoitus noin kahdessa minuutissa.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "Kuinka tehdä Mac:sta äänekkäämpi kuulovammaisten kuuntelua varten",
+    description: "Onko sinulla vaikeuksia kuulla Mac:ta jopa suurimmalla äänenvoimakkuudella? Opi tehostamaan ja selkeyttämään ääntä sovelluskohtaisesti kuulovammaisten kuuntelua varten, mukaan lukien SoundDial ja sisäänrakennetut vinkit.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos Mac ei ole tarpeeksi äänekäs jopa suurimmalla äänenvoimakkuudella, nopein luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store-valikkopalkin mikseri, jonka avulla voit tehostaa yksittäistä sovellusta yli 100 % ja mykistää kaiken muun. Tämä tarkoittaa kovempaa, selkeämpää puhetta FaceTime:sta, videosta tai elokuvasoittimesta ilman, että koko järjestelmääsi pyöritetään. Se on 14,99 €, kertaluonteinen.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Kuinka tehdä Mac:sta äänekkäämpi kuulovammaisten kuuntelua varten" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi äänenvoimakkuuden liukusäätimen maksimointi ei vieläkään riitä</h2>
+<p>Vaikeakuuloisille kuuntelijoille macOS äänenvoimakkuuden liukusäätimellä on kaksi turhauttavaa rajaa. Ensinnäkin se rajoittaa 100 % siitä, mitä sovellus itse tuottaa. Jos podcast, video tai puhelu tallennettiin hiljaa, "täysi äänenvoimakkuus" on edelleen liian pehmeä. Toiseksi, macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia, mutta Mac:ssa jokainen sovellus jakaa yhden master-tason. Joten kun käännät kaiken ylös kuullaksesi pehmeän äänen, myös taustamusiikki ja ilmoitusäänet tulevat epämiellyttävän voimakkaiksi.</p>
+<p>Se, mitä todella tarvitset, on kyky tehdä <em>yksi</em> sovellus kovempaa kuin muut, työnnä se normaalikaton yli ja leikkaa kilpailevat äänet, jotta puhe erottuu. Juuri tämän aukon nämä työkalut täyttävät.</p>
+
+<h2>Käytä ensin ilmaisia macOS-käyttöapuasetuksia</h2>
+<p>Ennen sovelluksen lisäämistä kannattaa määrittää, mitä macOS jo tarjoaa. Nämä lisäävät selkeyttä, vaikka ne eivät lisää raakaa äänenvoimakkuutta:</p>
+<ul>
+<li><strong>Monoääni:</strong> Järjestelmäasetukset &rarr; Helppokäyttöisyys &rarr; Audio, ota käyttöön "Soita stereoääntä monona". Jos kuulosi on vahvempi toisessa korvassa, tämä lähettää täyden signaalin molempiin, joten et menetä puolta dialogista.</li>
+<li><strong>Tasapainon säätö:</strong> Vedä järjestelmäasetuksissa &rarr; Sound vasen/oikea tasapaino vahvempaa korvaa kohti.</li>
+<li><strong>Vähennä taustaääniä:</strong> Vähennä musiikkia ja tunnelmaa sovelluksissa, jotka sallivat sen, joten äänet eivät taistele ääniraitaa vastaan.</li>
+<li><strong>Kuulokkeiden majoitukset:</strong> Jos käytät AirPods:ta tai Beatsia, järjestelmäasetukset &rarr; Esteettömyys &rarr; Audio &rarr; Kuuloketilat voivat vahvistaa pehmeitä ääniä ja virittää puheen.</li>
+</ul>
+<p>Nämä ovat todella hyödyllisiä eivätkä maksa mitään. Mutta mikään niistä ei tee yhtä hiljaista sovellusta <em>äänekkäämmin kuin 100 %</em>, ja se on yleensä todellinen ongelma.</p>
+
+<h2>Kuinka tehostaa yhtä sovellusta yli 100 % SoundDial:lla</h2>
+<p>SoundDial on valikkopalkissa ja näyttää liukusäätimen jokaiselle tällä hetkellä ääntä toistavalle sovellukselle. Tässä on työnkulku, joka auttaa eniten kuulovammaisille:</p>
+<ul>
+<li><strong>Tehosta kuuntelemaasi sovellusta.</strong> Vedä sen liukusäädintä 100 %:n yläpuolelle vahvistaaksesi hiljaista videopuhelua tai podcastia enemmän kuin sovellus sallii.</li>
+<li><strong>Mykistä tai laske kaikki muu.</strong> Vedä musiikkia, selaimen välilehtiä tai ilmoitusääniä alas, jotta mikään ei kilpaile äänen kanssa, jota yrität seurata.</li>
+<li><strong>Ota automaattinen vaimennus käyttöön.</strong> Kun aloitat puhumisen puhelun aikana, SoundDial himmentää automaattisesti muun äänen, jotta henkilö, jonka kanssa puhut, tulee selkeästi läpi ja palauttaa sen sen jälkeen.</li>
+<li><strong>Tallenna äänenvoimakkuusprofiili.</strong> Luo "videopuhelu"-profiili, jossa neuvottelusovellustasi tehostetaan ja kaikki muu on hiljaista, ja vaihda sitten siihen välittömästi sen sijaan, että säädät sitä uudelleen joka kerta.</li>
+<li><strong>Vaihda lähtöä nopeasti.</strong> Hyppää kaiuttimien, kuulokemikrofonin tai kuulokojeeseen yhdistetyn laitteen välillä samasta valikosta ilman, että tarvitset järjestelmäasetuksia.</li>
+</ul>
+<p>Tehostusominaisuus on tässä tärkein. Koska se nostaa sovelluksen lähdön alkuperäisen maksiminsa yläpuolelle, kuiskaushiljaisesta tallenteesta tulee jotain, jonka voit todella kuulla, kun taas muu järjestelmä pysyy mukavalla tasolla.</p>
+
+<h2>Lyhyt sana vääristymisestä</h2>
+<p>Mikä tahansa ohjelmistotehostin vahvistaa signaalin mitä tahansa, joten jo 100 %:n ylittäminen voi aiheuttaa leikkausta. Käytännössä tehostaminen <em>hiljainen</em> sisältö mukavalle, ymmärrettävälle tasolle asti kuulostaa puhtaalta. Aloita vaatimattomasti, nosta, kunnes puhe on selkeää, ja peruuta, jos se alkaa kuulostaa kovalta. Suojaa jäljellä olevat kuulosi, joten pyri selkeyteen maksimaalisen äänenvoimakkuuden sijaan.</p>
+
+<h2>Miten SoundDial vertautuu vaihtoehtoihin</h2>
+<p>Sinulla on muutama vaihtoehto, ja rehellisyys auttaa sinua valitsemaan oikean:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~ 39 dollaria):</strong> Aidosti ammattilaistasoinen, sovelluskohtaisella EQ:lla ja lähtöreitityksellä. Jos haluat muotoilla taajuuksia kuulon heikkenemistä varten, se on tehokas. Mutta se maksaa yli kaksi kertaa niin paljon, vaatii suoran latauksen ja asentaa äänenkaappausohjaimen. Se on enemmän asetuksia ja järjestelmän käyttöä kuin monet ihmiset haluavat.</li>
+<li><strong>Background Music (ilmainen, avoimen lähdekoodin):</strong> Tarjoaa sovelluskohtaisen äänenvoimakkuuden ilmaiseksi, mutta siitä puuttuu tehostus, profiilit ja automaattinen vaimennus, ja se voi katketa uudemmissa macOS-versioissa, koska se kytkeytyy syvälle äänijärjestelmään.</li>
+<li><strong>FineTune (ilmainen, avoimen lähdekoodin):</strong> Kevyt valikkopalkin äänenvoimakkuussovellus. Ihan hyvä perusasioihin, mutta ilman tehosteita, profiileja ja vaimentamista, joihin huonokuuloiset kuuntelijat turvautuvat.</li>
+<li><strong>eqMac (ilmainen):</strong> Taajuuskorjain boosterilla. Hyödyllinen äänen muotoiluun, mutta se on rakennettu EQ:n ympärille puhtaan sovelluskohtaisen miksauksen ja profiilien sijaan.</li>
+</ul>
+<p>Missä <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> erottuu hinnasta, turvallisuudesta ja tässä tärkeistä erityisominaisuuksista. Koska se on Mac App Store:ssa, se on Applen arvioima ja hiekkalaatikkoon asennettu, se asennetaan siististi ilman DMG:ta, eikä se tarvitse ääniohjaimia tai järjestelmälaajennuksia. Saat sovelluskohtaisen tehostuksen, mykistyksen, äänenvoimakkuuden profiilit ja automaattisen vaimennuksen yhdellä 14,99 €:n kertaostoksella ilman, että macOS-äänipinoon puututaan.</p>
+
+<h2>Lopputulos</h2>
+<p>Määritä ensin ilmaiset macOS:n esteettömyysasetukset, ne ovat hankkimisen arvoisia. Mutta jos todellinen ongelma on, että yksi sovellus on yksinkertaisesti liian hiljainen, tarvitset työkalun, joka voi siirtää yhden sovelluksen yli 100 % ja hiljentää loput. Se on sovelluskohtaisen tehostuksen tarkoitus, eikä macOS tee sitä yksinään.</p>
+
+<p>Oletko valmis kuulemaan Mac:n? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> 14,99 €, tehosta tarvitsemaasi sovellusta ja anna automaattisen vaimennuksen ja profiilien pitää puhe selkeänä.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "Hiljaisen sovelluksen tehostaminen Mac:ssa (entinen enimmäismäärä)",
+    description: "Yksi sovellus on liian hiljainen jopa 100%:sti? Tehosta juuri tätä sovellusta yli maksimiarvonsa Mac:lla SoundDial:lla, sovelluskohtaisella äänenvoimakkuuden mikserillä. Tässä on nopein korjaus ja vaihtoehdot.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos yksi sovellus on liian hiljainen jopa enimmäisäänenvoimakkuudella, nopein luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri macOS:lle. Se antaa jokaiselle sovellukselle oman liukusäätimen ja äänenvoimakkuuden <strong>tehostaa</strong> joka siirtää yhden sovelluksen yli 100 %, joten kuiskaavan hiljainen videopuhelu tai selaimen välilehti kovenee koskematta järjestelmän äänenvoimakkuuteen. Se on kertaluonteinen 14,99 euron sovellus Mac App Store:lle.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kuinka parantaa hiljaista sovellusta Mac:lla (entinen enimmäismäärä)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi yksi sovellus on hiljainen jopa 100 %</h2>
+<p>macOS:ssa on vain yksi päätilavuus. Kun nostat sen, kaikki kovenee yhdessä. Mutta jokainen sovellus tuottaa myös ääntä omalla sisäisellä tasollaan, ja tämä taso vaihtelee villisti. Hiljaisesti masteroitu YouTube-leike, Zoom-soittaja, jossa on huono mikrofoni, peli, jossa on alhainen dialogisekoitus, tai selaimen välilehti pehmeällä suoratoistolla, voivat kaikki olla paljon kaiken muun alapuolella, jopa Mac-puhelimesi ollessa täydellä teholla.</p>
+<p>Todellinen ongelma: macOS:lla on <strong>ei sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta</strong>. Windows:lla on ollut sellainen jo vuosia (Volume Mixer, napsauta hiiren kakkospainikkeella kaiutinkuvaketta). Mac:ssa ei ole alkuperäistä tapaa käynnistää yhtä sovellusta ja jättää loput rauhaan, eikä todellakaan ole tapaa vahvistaa yhtä sovellusta <em>edellä</em> sen normaali maksimi. Se on aukko, johon törmäät.</p>
+
+<h2>Nopein korjaus: tehosta vain yhtä sovellusta</h2>
+<p>Sovelluskohtainen mikseri ratkaisee tämän asettamalla itsensä sovelluksiesi ja tulostesi väliin, joten se voi nostaa tai laskea jokaista striimiä erikseen ja tehostaa yhtä yli 100 %. kanssa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, virtaus on lyhyt:</p>
+<ul>
+<li>Asenna Mac App Store:sta ja avaa se. Se asuu valikkopalkissasi, ei kelluvassa ikkunassa.</li>
+<li>Napsauta valikkopalkin kuvaketta nähdäksesi liukusäätimen jokaiselle tällä hetkellä ääntä toistavalle sovellukselle.</li>
+<li>Etsi hiljainen sovellus ja vedä sen liukusäädintä 100 %:n ohi, jotta voit ottaa tehostuksen käyttöön. Se vahvistaa vain tätä sovellusta.</li>
+<li>Jätä kaikki muu sinne, missä se on. Järjestelmäsi äänenvoimakkuus ja muut sovellukset pysyvät koskemattomina.</li>
+</ul>
+<p>Koska tehostus on sovelluskohtainen, voit nostaa pehmeän videopuhelun mukavalle tasolle samalla, kun musiikki tai ilmoitukset eivät häiritse. Se on ydinasia, johon sisäänrakennetut macOS-ohjaimet eivät yksinkertaisesti pysty.</p>
+
+<h2>Huomautus tehostamisesta ja leikkaamisesta</h2>
+<p>Boost on todella hyödyllinen, mutta se on vahvistusta, ei taikuutta. Jos sovelluksen alkuperäinen ääni on erittäin hiljainen tai jo vääristynyt, sen voimakas pyörittäminen voi aiheuttaa leikkausta tai tehdä taustasuhinasta selvempää. Käytännössä kohtalainen tehostus korjaa valtaosan "tämä puhelu on liian hiljainen" -tilanteista puhtaasti. Työnnä sitä ylöspäin, kunnes sovellus tuntuu mukavalta sen sijaan, että painat sitä kattoon, ja pidät äänen puhtaana.</p>
+
+<h2>Tehostamisen lisäksi: mikä muu auttaa</h2>
+<p>Kun sinulla on sovelluskohtainen hallinta, muutama ominaisuus saa hiljaisen sovelluksen ongelman häviämään lopullisesti:</p>
+<ul>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna asetukset (esim. "tehosta Zoom, laske Spotify, mykistää Slack") ja hae se yhdellä napsautuksella sen sijaan, että vedät liukusäätimiä uudelleen jokaisessa kokouksessa.</li>
+<li><strong>Automaattinen vaimennus</strong> — Upota muut sovellukset automaattisesti, kun valittu sovellus toistetaan, joten tehostettu puhelu kuuluu selvästi taustaäänen yli.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi meluisa sovellus keskeyttämättä mitään muuta.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden tai ulkoisen liitännän välillä samasta valikosta.</li>
+</ul>
+
+<h2>Entä ilmaiset ja pro-vaihtoehdot?</h2>
+<p>Sinulla on vaihtoehtoja, ja rehellisyys on tärkeää täällä, joten tässä on todellinen maisema.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) on ammattitason valinta noin 39 dollarilla. Se suorittaa sovelluskohtaisen äänenvoimakkuuden sekä sovelluskohtaisen taajuuskorjaimen ja täyden lähdön reitityksen, enemmän tehoa kuin useimmat ihmiset tarvitsevat. Kompromissit: se maksaa yli kaksinkertaisen, se on suora lataus App Store:n sijaan, ja se asentaa äänen sieppausohjaimen tehdäkseen työnsä. Jos haluat ääniinsinöörin työkalupakin, se on erinomainen. Jos haluat vain yhden sovelluksen kovempaa, se on ylivoimaista.</p>
+<p><strong>Background Music</strong> on ilmainen ja avoimen lähdekoodin, ja se voi suorittaa sovelluskohtaisen äänenvoimakkuuden. Mutta se on yhteisöprojekti, jonka historia on murtautunut uudempiin macOS-versioihin, ja siitä puuttuu yli 100 prosentin tehostus, profiilit ja automaattinen vaimeneminen. Hienoa, jos ilmainen on ainoa vaatimus, etkä välitä satunnaisesta rikkoutumisesta.</p>
+<p><strong>FineTune</strong> on ilmainen avoimen lähdekoodin valikkopalkkisovellus, ja <strong>eqMac</strong> on ilmainen taajuuskorjain ja järjestelmävahvistin. Molempia kannattaa kokeilla, jos budjetti on nolla. Tiedä vain, että ne ovat yhteisön ylläpitämiä, EQ-keskeisiä tai kevyempiä sovelluskohtaisessa hallinnassa, äläkä niputa profiileja ja uppoamista yhteen kiillotettuun pakkaukseen.</p>
+<p>Missä <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> maat: se on keskitie. Halvempi kuin SoundSource, tehokkaampi ja luotettavampi kuin ilmaiset työkalut, ja se on <strong>Mac App Store</strong>, mikä tarkoittaa Applen tarkistamaa, hiekkalaatikkoa ja se asennetaan puhtaasti kanssa <strong>ei DMG:ta eikä ääniohjaimia tai laajennuksia</strong> kiinnittääksesi järjestelmääsi. Useimmille ihmisille rehellinen suositus on yksinkertainen: jos haluat vähiten vaivatonta korjausta, joka antaa sinulle myös tehoa, profiileja ja automaattista vaimenemista, se on paras hinta-laatusuhde 14,99 € kertaluonteisesti.</p>
+
+<h2>Nopea vastaus, uusittu</h2>
+<blockquote>Jos haluat saada yhden Mac-sovelluksen äänekkäämmäksi kuin sen maksimi, käytä sovelluskohtaista äänenvoimakkuuden mikseriä tehosteella. Avaa SoundDial valikkopalkista, etsi hiljaisen sovelluksen liukusäädin ja vedä se yli 100 %. Vain tuo sovellus saa äänenvoimakkuutta.</blockquote>
+
+<p>Lopeta taistelu yhden äänenvoimakkuuden liukusäätimen kanssa koko Mac:n puolesta. Hanki <a href="https://apps.apple.com/app/id6772792641">SoundDial mallissa Mac App Store</a> 14,99 € kerran, tehosta hiljaista sovellusta yli rajansa sekunneissa ja tallenna profiili, jotta sinun ei tarvitse koskaan ajatella sitä uudelleen.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "Hiljaisten videoiden ja podcastien vahvistaminen Mac-laitteellasi",
+    description: "Jotkut YouTube-videot, podcastit ja luennot ovat aivan liian hiljaisia jopa 100 %:lla. Näin voit lisätä sovelluskohtaista äänenvoimakkuutta yli macOS:n enimmäismäärän SoundDial:lla.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Nopein ja luotettava korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store-valikkopalkkisekoitin, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen ja todellisen <strong>tehostaa</strong> joka ylittää 100%. Avaa selain tai podcast-soitin, vedä sen liukusäädin maksimiarvon yläpuolelle, niin hiljainen video tai luento kovenee välittömästi – ei ohjaimia, ei uudelleenkäynnistystä.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kuinka vahvistaa hiljaisia videoita ja podcasteja Mac-laitteellasi" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi jotkin videot ja podcastit ovat liian hiljaisia</h2>
+<p>Käännät Mac:n 100 %:iin ja haastattelu on edelleen kuiskausta. Tämä ei ole sinun mielikuvituksesi. Ääntä masteroidaan hurjasti erilaisilla äänenvoimakkuuksilla – kannettavan tietokoneen mikrofoniin tallennettu webinaari, hiljainen indie-podcast tai vanha luentolataus voi olla 15–20 dB ammattimaisesti tuotetun YouTube-videon alapuolella. Järjestelmäsi äänenvoimakkuus on jo maksimoitu, joten varaa ei ole jäljellä.</p>
+<p>Tässä on saalis: macOS:lla on <strong>ei sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta</strong>. Windows:lla on ollut sellainen jo vuosia (Volume Mixer ilmaisinalueella), mutta Mac:ssa äänenvoimakkuusnäppäimet siirtävät yhden globaalin tason kaikkeen. Ei ole natiivi tapaa sanoa "tee vain tämä selaimen välilehti äänekkäämmäksi" – puhumattakaan yksittäisen sovelluksen ylittämisestä 100 %:sta.</p>
+
+<h2>Todellinen korjaus: sovelluskohtainen äänenvoimakkuuden lisäys</h2>
+<p>Jos haluat tehdä hiljaisesta lähteestä kovempaa kuin kaiuttimet normaalisti sallivat, tarvitset ohjelmiston, joka käyttää vahvistusta <em>nimenomaan tuo sovellus</em> ja voi vahvistaa 100 % katon yli. Juuri näin tekee sovelluskohtainen mikseri, jossa on tehostusominaisuus.</p>
+<p>kanssa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, jokainen käynnissä oleva sovellus näkyy valikkopalkissa, jossa on oma liukusäädin. Liu'uta hiljaista sovellusta 150 % tai 200 % ja ääni vahvistetaan reaaliajassa. Koska tehostus on sovelluskohtaista, kaikki muu – musiikkisi, ilmoituksesi, puhelu toisessa ikkunassa – pysyy normaalilla tasolla. Et räjäytä koko järjestelmääsi kuullaksesi yhden pehmeän podcastin.</p>
+<blockquote>Globaali äänenvoimakkuus kysyy "kuinka kova Mac on?" Sovelluskohtainen mikseri kysyy "kuinka äänekäs on <em>tämä</em> sovellus?" - Mikä on se kysymys, jolla on väliä, kun yksi video on hiljainen ja muut ovat kunnossa.</blockquote>
+
+<h2>Hiljaisen videon tai podcastin tehostaminen askel askeleelta</h2>
+<ul>
+<li><strong>Asenna SoundDial</strong> mallista Mac App Store. Se on hiekkalaatikko ja Applen tarkistama, joten se asentuu puhtaasti kuten mikä tahansa muu sovellus – ei erillistä latausta, ei ääniohjainta, ei lupahanskaa.</li>
+<li><strong>Aloita pelaaminen</strong> hiljainen video, podcast-jakso tai luento missä tahansa käyttämässäsi sovelluksessa – Safari, Chrome, podcast-asiakasohjelma, VLC.</li>
+<li><strong>Napsauta SoundDial-kuvaketta</strong> valikkopalkissasi. Näet liukusäätimen jokaiselle tällä hetkellä ääntä tuottavalle sovellukselle.</li>
+<li><strong>Vedä sovelluksen liukusäädin yli 100 %</strong> - kokeile ensin 150 % ja paina sitten korkeammalle, jos se on vielä liian pehmeä. Muutos on välitön.</li>
+<li><strong>Jätä kaikki muu rauhaan.</strong> Vain tehostamasi sovellus saa äänenvoimakkuuden; järjestelmäsi pysyy tasapainossa.</li>
+</ul>
+<p>Jos huomaat tehostavasi samoja sovelluksia joka päivä – esimerkiksi podcast-soitinta ja selaintasi – voit tallentaa asetukset <strong>äänenvoimakkuuden profiili</strong> ja palauttaa sen yhdellä napsautuksella sen sijaan, että säädät sitä joka kerta uudelleen.</p>
+
+<h2>Varoituksen sana tehostamisesta</h2>
+<p>Vahvistaminen yli 100 % lisää voittoa, ja vahvistuksella on rajansa. Työnnä erittäin hiljaista, heikkolaatuista tallennusta tarpeeksi kovaa ja saatat kuulla katkeamista tai vääristymiä – tämä on lähde, jossa puhdas signaali loppuu, ei sovelluksen virhe. Tehosta, kunnes se kuuluu mukavasti, ja peruuta sitten, jos se alkaa kuulostaa kovalta. Sisäänrakennetuissa kannettavan tietokoneen kaiuttimissa äärimmäinen tehostus voi myös rasittaa ohjaimia, joten siellä on helpompi mennä kuin hyvillä kuulokkeilla tai ulkoisilla kaiuttimilla.</p>
+
+<h2>Entä ilmaiset tai sisäänrakennetut vaihtoehdot?</h2>
+<p>Sinulla on vaihtoehtoja, ja niiden suhteen kannattaa olla rehellinen:</p>
+<ul>
+<li><strong>Järjestelmän äänenvoimakkuus + sovellustason liukusäätimet.</strong> Jotkut soittimet (VLC, muutama selain laajennusten kautta) antavat sinun tehostaa omaa ääntään. Hienoa, jos tarvitset sitä vain yhdessä sovelluksessa – mutta olet jumissa jokaisen sovelluksen määrittämisessä erikseen ilman yhtenäistä ohjausta tai profiileja.</li>
+<li><strong>eqMac</strong> on ilmainen EQ ja vahvistin. Se voi nostaa koko järjestelmän äänenvoimakkuutta, mutta se on globaali työkalu, ei puhdas sovelluskohtainen mikseri, ja se toimii koko lähdön tasolla.</li>
+<li><strong>Background Music</strong> on ilmainen ja avoimen lähdekoodin ja tarjoaa sovelluskohtaisen äänenvoimakkuuden. Mutta se luottaa äänen sieppausasetuksiin, jotka voivat katketa ​​macOS:n uudemmissa versioissa, ja siitä puuttuu omistettu tehostus, profiilit ja automaattinen vaimentaminen.</li>
+<li><strong>FineTune</strong> on ilmainen avoimen lähdekoodin valikkopalkkisovellus – kevyt vaihtoehto, jos haluat perusasiat etkä välitä yhteisön ylläpitämistä ohjelmistoista.</li>
+<li><strong>SoundSource</strong> by Rogue Amoeba (~39 dollaria) on ammattitason raskassarja: per-app EQ, lähtöreititys, toimii. Se vaatii myös lataus- ja äänenkaappausohjaimen, ja se maksaa yli kaksinkertaisen SoundDial:n. Overkill, jos haluat vain tehdä hiljaisesta äänestä kovempaa.</li>
+</ul>
+
+<h2>Miksi SoundDial on käytännöllinen valinta</h2>
+<p>SoundDial sopii juuri tälle ongelmalle. Sen <strong>14,99 € kerta</strong> — ei tilausta — ja se elää <strong>Mac App Store</strong>, mikä tarkoittaa, että se on hiekkalaatikolla, Applen tarkistama ja asennetaan ilman luotettavia DMG- tai järjestelmälaajennuksia. Saat tarvitsemasi sovelluskohtaisen tehosteen sekä profiilit, sovelluskohtaisen mykistyksen, nopean lähdön vaihdon ja <strong>automaattinen vaimentaminen</strong> joka upottaa muut sovellukset, kun sinun on keskityttävä yhteen. Se tekee äänekkäät asiat yksinkertaisesti ja tekee loput hyvin.</p>
+
+<p><strong>Oletko kyllästynyt ponnistelemaan kuunnellaksesi hiljaisia videoita ja podcasteja?</strong> <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> hintaan 14,99 € ja anna jokaiselle sovellukselle oma äänenvoimakkuus – mikä parantaa äänen kuulemista selkeästi.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "Eri äänenvoimakkuuden asettaminen jokaiselle Mac:n sovellukselle",
+    description: "macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Näin voit asettaa itsenäiset, jatkuvat äänenvoimakkuustasot jokaiselle Mac:n sovellukselle käyttämällä SoundDial:ta ja vaihtoehtoja.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua tapaa asettaa eri äänenvoimakkuutta jokaiselle sovellukselle, joten tarvitset valikkopalkin äänenvoimakkuuden mikserin. Nopein ja luotettavin korjaus on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, Mac App Store-sovellus, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, sovelluskohtaisen mykistyksen ja tehosteen, joka työntää hiljaiset sovellukset yli 100 %. Aseta tasosi kerran ja ne pysyvät.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Eri äänenvoimakkuuden asettaminen jokaiselle Mac:n sovellukselle" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Mac:ssa ei ole sovelluskohtaista äänenvoimakkuuden säätöä</h2>
+<p>Jos olet vaihtanut Windows:sta, olet todennäköisesti etsinyt vastaavaa Windows Volume Mixeria, sitä pientä paneelia, jossa jokaisella sovelluksella on oma liukusäädin. Se ei ole siellä. macOS tarjoaa vain yhden globaalin järjestelmätaltion. Olipa kyseessä YouTube-video, Zoom-puhelu, Spotify tai peli, niillä kaikilla on sama mestaritaso.</p>
+<p>Se on hyvä, kunnes se ei ole. Discord chat hukuttaa musiikkisi. Selainmainos soi täydellä äänenvoimakkuudella, kun podcastisi soi hiljaa sen alla. Pelisi on kuurouttavaa, mutta äänipuhelu taustalla on liian pehmeä. Ainoa Applen tarjoama "ratkaisu" on avata jokainen sovellus ja säätää sen sisäistä äänenvoimakkuutta manuaalisesti, jos sovelluksella edes on sellainen, ja tehdä se uudelleen joka istunto.</p>
+<p>Saadaksesi todellisen sovelluskohtaisen hallinnan, tarvitset pienen apuohjelman, joka sijaitsee sovellustesi ja tulostuslaitteesi välissä. Alla on kuinka se tehdään oikein, sekä rehellisiä muistiinpanoja vaihtoehdoista.</p>
+
+<h2>Nopein tapa: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> sijaitsee valikkopalkissasi ja luettelee kaikki sovellukset, jotka toistavat tällä hetkellä ääntä. Jokainen saa itsenäisen liukusäätimen. Tässä koko työnkulku:</p>
+<ul>
+<li><strong>Asenna Mac App Store:sta.</strong> Se on Applen tarkistama ja hiekkalaatikkoon liitetty, joten siinä ei ole DMG:ta, ääniohjainta eikä hyväksyttävää ydintä tai järjestelmälaajennusta. Se asennetaan kuten mikä tahansa tavallinen sovellus ja voidaan poistaa samalla tavalla.</li>
+<li><strong>Napsauta valikkopalkin kuvaketta.</strong> Näet liukusäätimen jokaiselle aktiiviselle sovellukselle sekä pääohjaimen.</li>
+<li><strong>Aseta tasot vetämällä.</strong> Käännä Discord alas, työnnä Spotify ylös, mykistä meluisa selainvälilehden sovellus kokonaan yhdellä napsautuksella.</li>
+<li><strong>Tehosta hiljaisia sovelluksia.</strong> Jos sovellus on liian pehmeä jopa 100 %, paina se yli 100 % sovelluskohtaisella tehostuksella.</li>
+<li><strong>Tallenna profiili.</strong> Tallenna peli-, työpuhelu- tai musiikkisekoituksesi ja vaihda niiden välillä välittömästi sen sijaan, että vedät liukusäätimiä uudelleen joka päivä.</li>
+</ul>
+<p>Kaksi ominaisuutta kannattaa ottaa esille, koska ne ratkaisevat ärsyttävimmät skenaariot:</p>
+<ul>
+<li><strong>Automaattinen vaimennus</strong> laskee automaattisesti muita sovelluksia valitun sovelluksen toistaessa, joten musiikkisi vaimenee puhelun saapuessa ja palaa sen jälkeen ilman manuaalista näppäilyä.</li>
+<li><strong>Nopea lähdön vaihto</strong> voit siirtyä kuulokkeiden ja kaiuttimien välillä samasta valikosta ilman järjestelmäasetuksiin sukellusta.</li>
+</ul>
+<p>Koska tasot muistetaan sovelluskohtaisesti ja tallennetaan profiileihin, useimmat ihmiset todella haluavat tämän osan: asetat sen kerran ja se <em>jää</em> asettaa.</p>
+
+<h2>Ilmaiset ja maksulliset vaihtoehdot, rehellisesti verrattu</h2>
+<p>SoundDial ei ole ainoa vaihtoehto, ja tarpeidesi mukaan ilmainen työkalu saattaa riittää. Tässä reilu yhteenveto.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource on ammattitason raskassarja. Sovelluskohtaisen äänenvoimakkuuden lisäksi se tekee sovelluskohtaisen taajuuskorjaimen ja täyden lähdön reitityksen, joten voit lähettää yhden sovelluksen kuulokkeisiin ja toisen kaiuttimiin. Se on todella erinomaista. Kompromissit: se maksaa noin 39 dollaria, eikä se ole puhdas App Store-asennus, se on suora lataus, joka vaatii äänen sieppausohjaimen lisäämisen järjestelmään. Jos olet audioammattilainen, joka tarvitsee taajuuskorjainta ja reititystä, se on sen arvoista. Jos haluat vain jokaisen sovelluksen oikealla äänenvoimakkuudella, se on enemmän työkalua ja enemmän asetuksia kuin tarvitset.</p>
+
+<h2>Background Music (avoin lähdekoodi, ilmainen)</h2>
+<p>Background Music on ilmainen avoimen lähdekoodin sovellus, joka tarjoaa sovelluskohtaisen äänenvoimakkuuden ja automaattisen tauon. Ongelmana on luotettavuus: se asentaa virtuaalisen äänilaitteen, ja se on rikkonut uudempia macOS-julkaisuja, mikä vaatii joskus uudelleenasennuksia tai korjauksia päivitysten jälkeen. Siitä puuttuu myös tehostus, tallennetut profiilit ja todellinen automaattinen vaimeneminen. Hienoa, jos haluat ilmaisen etkä välitä satunnaisesta huollosta.</p>
+
+<h2>FineTune ja eqMac</h2>
+<p>FineTune on ilmainen, avoimen lähdekoodin valikkopalkkisovellus, kevyt aloituspiste. eqMac on ilmainen taajuuskorjain, jossa on koko järjestelmän laajuinen vahvistin, joka tähtää enemmän taajuuskorjaukseen ja yleiseen tehokkuuteen kuin antamaan jokaiselle sovellukselle oman jatkuvan liukusäätimen. Molempia kannattaa kokeilla, jos tarpeesi on kapea, mutta kumpikaan ei keskity "eri äänenvoimakkuutta sovelluskohtaisesti, tallennettu profiileina" -työnkulkuun.</p>
+
+<h2>Kumpi kannattaa valita?</h2>
+<ul>
+<li><strong>Haluatko sen toimivan, siististi, profiilien ja automaattisen vaimentamisen kanssa?</strong> SoundDial 14,99 € kertaluonteisesti, App Store:sta ilman asennettavia ohjaimia.</li>
+<li><strong>Tarvitsetko sovelluskohtaista taajuuskorjainta ja äänen reititystä, etkä välitä hinnasta tai ajureista?</strong> SoundSource.</li>
+<li><strong>Haluatko ilmaista ja oletko kunnossa, kun macOS päivittyy?</strong> Background Music, FineTune tai eqMac.</li>
+</ul>
+<p>SoundDial:n todellinen etu on yhdistelmä: erillinen äänenvoimakkuus, mykistys ja tehostus jokaiselle sovellukselle, tallennettu vaihdettaviin profiileihin, automaattisella vaimennuksella, kaikki hiekkalaatikolla varustetussa App Store-latauksessa, johon voit luottaa ja jonka voit poistaa yhdellä napsautuksella, kertaluonteisella 14,99 € tilauksen sijaan.</p>
+
+<blockquote>Ei ohjainta, ei laajennusta, ei DMG:ta. Aseta kunkin sovelluksen äänenvoimakkuus kerran, tallenna se profiilina ja anna automaattisen vaimentamisen hoitaa loput.</blockquote>
+
+<p>Oletko valmis antamaan jokaiselle sovellukselle oman äänenvoimakkuutensa? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja aseta täydellinen sekoitus noin minuutissa.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "Tee yhdestä sovelluksesta hiljaisempi kuin kaikki muu Mac:ssa",
+    description: "Yksi kova sovellus hukuttaa loput Mac-laitteellesi? Tässä on nopein ja luotettava tapa vähentää yhden sovelluksen äänenvoimakkuutta koskematta muihin.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos haluat sammuttaa yhden sovelluksen, kun kaikki muu pysyy paikallaan, käytä <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri macOS:lle. Avaa se, etsi kovaääninen sovellus luettelosta ja vedä sen liukusäädintä alas. Sovellus muuttuu hiljaisemmaksi välittömästi, kun musiikki, puhelut ja muu ääni pysyvät omalla tasollaan. Se on nopein ja luotettavin korjaus.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Tee yhdestä sovelluksesta hiljaisempi kuin kaikki muu Mac:ssa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi macOS tekee tästä niin vaikean</h2>
+
+<p>Tässä on turhauttava totuus: macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen vuosia (napsauta äänenvoimakkuuden kuvaketta hiiren kakkospainikkeella, avaa Volume Mixer, valmis), mutta Mac:ssa äänenvoimakkuusnäppäimet ja valikkopalkin liukusäädin ohjaavat vain yhtä asiaa: päälähtöä. Laita se alas ja kaikki menee hiljaisemmaksi yhdessä. Käännä se ja äänekäs sovellus on edelleen äänekäs, vain kovempi muiden mukana.</p>
+
+<p>Joten kun pelin äänitehosteet räjähtävät, selaimen välilehti toistaa mainosta automaattisesti tai ilmoitusäänet jatkuvat podcastissasi, ainoat alkuperäiset vaihtoehdot ovat kömpelöitä: mykistää koko järjestelmä, tutkia kunkin sovelluksen omia äänenvoimakkuusasetuksia (jos sillä edes on) tai lopettaa rikoksentekijä kokonaan. Mikään niistä ei anna sinun yksinkertaisesti sanoa "tee tästä sovelluksesta hiljaisempi ja jätä kaikki muu rauhaan".</p>
+
+<h2>Nopea ratkaisu: sovelluskohtainen äänenvoimakkuuden mikseri</h2>
+
+<p>Sovelluskohtainen äänenvoimakkuuden mikseri antaa jokaiselle käynnissä olevalle sovellukselle oman itsenäisen liukusäätimen. Se on juuri se hallinta, joka sinulta puuttuu. kanssa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> se näyttää tältä:</p>
+
+<ul>
+<li><strong>Avaa valikkopalkin mikseri.</strong> Napsauta SoundDial-kuvaketta, niin näet live-luettelon kaikista tällä hetkellä ääntä toistavista sovelluksista.</li>
+<li><strong>Etsi äänekäs.</strong> Peli, selain, videopuhelu, ilmoitusäänet, mikä tahansa hukuttaa loput.</li>
+<li><strong>Vedä sen liukusäädintä alas.</strong> Aseta se arvoon 40%, 20%, missä tahansa se tuntuu tasapainoiselta. Muutos on välitön ja vaikuttaa vain kyseiseen sovellukseen.</li>
+<li><strong>Jätä kaikki muu rauhaan.</strong> Musiikkisoittimesi, puhelusi, muut välilehdet, ne kaikki säilyttävät niille asettamasi äänenvoimakkuuden.</li>
+</ul>
+
+<p>Voit myös mykistää yhden sovelluksen kokonaan yhdellä napsautuksella muiden jatkaessa toistamista tai tehostaa hiljaista sovellusta yli 100 %, jos se on liian pehmeä. Ei sovelluksen uudelleenkäynnistystä, ei valikkosukellusta.</p>
+
+<h2>Yleisiä tapauksia, joissa tämä säästää sinut</h2>
+
+<ul>
+<li><strong>Äänekäs peli taustamusiikin päällä.</strong> Pudota peli mukavalle tasolle ja pidä soittolistasi täydellä äänenvoimakkuudella sen alla.</li>
+<li><strong>Selainmainokset ja videot, jotka piiskaavat.</strong> Kiinnitä selaimesi alas, jotta yllätys automaattinen toisto ei koskaan yllätä sinua.</li>
+<li><strong>Ilmoitus kuuluu puhelun tai podcastin aikana.</strong> Sammuta paljon ilmoituksia sisältävä sovellus hiljentämättä ääntä, josta todella välität.</li>
+<li><strong>Hiljainen videopuhelu kovaäänisen median alla.</strong> Sen sijaan, että sammuttaisit sovelluksen äänekkäästi, tehosta puhelua yli 100 %, jotta kuulet ihmiset selvästi.</li>
+</ul>
+
+<h2>Aseta se kerran äänenvoimakkuusprofiileilla ja automaattisella vaimennuksella</h2>
+
+<p>Yhden kovaäänisen sovelluksen korjaaminen on mukavaa, mutta haluat todennäköisesti sen pysyvän kunnossa. SoundDial:ssa on kaksi ominaisuutta, jotka tekevät tästä pysyvän:</p>
+
+<p><strong>Äänenvoimakkuusprofiilit</strong> voit tallentaa joukon sovelluskohtaisia tasoja ja palauttaa ne yhdellä napsautuksella. Rakenna "Gaming"-profiili, jossa peli on 30 %:ssa ja musiikki 100 %:ssa, ja "Työ"-profiili, jossa puhelut tehostuvat ja kaikkea muuta vähennetään. Vaihda konteksteja vetämällä liukusäätimiä uudelleen joka kerta.</p>
+
+<p><strong>Automaattinen vaimennus</strong> laskee automaattisesti muita sovelluksia, kun valittu sovellus toistaa, ja tuo ne sitten takaisin myöhemmin, joten kovaääninen sovellus ei koskaan kaappaa ääntäsi kokonaan. Profiilien, vaimentamisen ja nopean lähdön vaihtamisen (siirry kaiuttimien ja kuulokkeiden välillä avaamatta järjestelmäasetuksia) välillä asetat tasapainosi kerran ja lopetat äänenvoimakkuuden lapsenvahdin.</p>
+
+<h2>Miten SoundDial vertautuu vaihtoehtoihin</h2>
+
+<p>On myös muita tapoja saada sovelluskohtainen äänenvoimakkuus Mac:ssa. Tässä rehellinen katse:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~ 39 dollaria)</strong> on aidosti ammattilaistasoa: sovelluskohtainen EQ ja täydellinen lähtöreititys äänenvoimakkuuden säätimen lisäksi. Mutta se maksaa yli kaksinkertaisen, ja se vaatii erillisen latauksen sekä äänenkaappausohjaimen. Jos haluat studiotason työkalupakin, se on erinomainen. Jos haluat vain sulkea yhden sovelluksen, se on enemmän kuin tarvitset.</li>
+<li><strong>Background Music</strong> on ilmainen ja avoimen lähdekoodin, mikä on hienoa, mutta se voi rikkoutua uudemmissa macOS-versioissa, ja siitä puuttuu äänenvoimakkuuden lisäys, profiilit ja automaattinen vaimentaminen.</li>
+<li><strong>FineTune</strong> on ilmainen avoimen lähdekoodin valikkopalkkisovellus, ja <strong>eqMac</strong> on ilmainen taajuuskorjain boosterilla. Molempia kannattaa kokeilla, jos ilmainen on etusijalla, mutta vaihdat kiillotusta, luotettavuutta ja ominaisuuksia hintaan.</li>
+</ul>
+
+<p>SoundDial istuu makeassa paikassa: 14,99 € kertaluonteinen, ei tilausta. Koska se on Mac App Store:ssa, se on Applen arvioima ja hiekkalaatikkoon asennettu, ja se asennetaan siististi ilman DMG:ta, ilman ääniohjaimia tai hyväksyttäviä järjestelmälaajennuksia. Saat ominaisuudet, joilla on tähän ongelmaan todellisuudessa merkitystä, sovelluskohtaisen äänenvoimakkuuden, mykistyksen, tehostuksen, profiilit ja automaattisen vaimentamisen ilman 39 dollarin hintalappua tai herkkää ilmaista työkalua.</p>
+
+<h2>Lopputulos</h2>
+
+<p>macOS ei anna sinun hylätä yhtäkään sovellusta sellaisenaan, mutta se on aukko, jonka voit sulkea sekunneissa. Asenna sovelluskohtainen mikseri, vedä kovaäänisen sovelluksen liukusäädintä alas ja loput äänet pysyvät juuri siellä, missä haluat sen. Tallenna profiili, etkä koskaan enää tappele tätä vastaan.</p>
+
+<p><strong>Oletko valmis hiljentämään yhden sovelluksen, joka hukuttaa loput?</strong> Hanki <a href="https://apps.apple.com/app/id6772792641">SoundDial mallissa Mac App Store</a> hintaan 14,99 €, yksi maksu, ei kuljettajia, ei tilausta.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac Audiomikseri striimauksille: Balance Mic, Game & Music",
+    description: "Nopein tapa tasapainottaa mikrofonia, peliääntä, musiikkia ja hälytyksiä suoratoiston aikana Mac:lla. SoundDial tarjoaa sovelluskohtaisen äänenvoimakkuuden mikserin profiileilla ja vaimennuksella.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Mikrofonin, pelin, musiikin ja hälytysten tasapainottamiseksi Mac:lla suoratoiston aikana nopein luotettava ratkaisu on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri. macOS:ssa ei ole sisäänrakennettua mikseria, joten SoundDial antaa sinun asettaa itsenäisiä tasoja sovelluskohtaisesti, tehostaa hiljaisia ​​lähteitä, tallentaa suoratoistoprofiileja ja vaimentaa musiikkia automaattisesti puhuessasi.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Audiomikseri suoratoistolaitteille: Balance Mic, Game &amp; Music" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ongelma: macOS:lla ei ole sovelluskohtaista äänenvoimakkuuden säätöä</h2>
+<p>Windows:lla on ollut Volume Mixer vuosia. macOS ei edelleenkään toimita sellaista. Järjestelmäsi äänenvoimakkuuden liukusäädin siirtää kaikkea kerralla, mikä on hyödytöntä live-tilassa. Striimin aikana jongleeraat vähintään neljää lähdettä, jotka kaikki taistelevat samasta lähdöstä:</p>
+<ul>
+<li><strong>Äänesi / mikrofonin valvonta</strong> - täytyy istua kaiken yläpuolella.</li>
+<li><strong>Pelin ääni</strong> — äänekäs, dynaaminen ja taipuvainen piikittelemään toiminnan aikana.</li>
+<li><strong>Taustamusiikkia</strong> - pitäisi olla hiljaa kommenttisi alla.</li>
+<li><strong>Hälytykset ja chat-äänet</strong> — Discord, Stream Deck, seuraajahälytykset, ilmoitukset.</li>
+</ul>
+<p>Ilman sovelluskohtaista ohjausta päädyt ajamaan pelin sovelluksen sisäistä liukusäädintä, mykistämään Spotify:n käsin ja rukoilemaan äänekkäästi katsojiasi. Se ei ole sekoitus, se on vahinkojen hallinta.</p>
+
+<h2>Mitä oikean streaming-mikserin pitää tehdä</h2>
+<p>Mac:n sisällöntuottajakeskeinen ääniasetus antaa sinulle neljä asiaa: itsenäiset sovelluskohtaiset tasot, mahdollisuus tehostaa liian hiljaista lähdettä, tallennetut kokoonpanot, jotka voit palauttaa heti muistiin, ja automaattinen vaimennus, jotta musiikki katkeaa puhuessasi. SoundDial kattaa kaikki neljä valikkopalkista.</p>
+
+<h3>1. Riippumaton äänenvoimakkuus jokaiselle sovellukselle</h3>
+<p>Aseta peli 60 %:iin, musiikki 25 %:iin, Discord 80 %:iin ja selaimesi 40 %:iin – jokaisella sovelluksella on oma liukusäädin. Mikään ei vuoda mihinkään muuhun. Voit myös mykistää sovelluskohtaisesti välittömästi, kun lähde toimii väärin kesken streamin, koskematta itse sovellukseen.</p>
+
+<h3>2. Äänenvoimakkuuden lisäys hiljaisille lähteille</h3>
+<p>Jotkut sovellukset ja pelit ovat yksinkertaisesti liian hiljaisia jopa 100%. SoundDial:n sovelluskohtainen tehostus työntää lähteen normaalin katon yli, joten mummoinen peli tai vähäinen äänenvoimakkuus video istuu siellä, missä sitä tarvitaan – ei uudelleenkoodausta, ei liitännäisiä.</p>
+
+<h3>3. Äänenvoimakkuusprofiilit eri kohtauksille</h3>
+<p>Tämä on ominaisuus, joka säästää striimaajien eniten aikaa. Just Chatting -sekoituksesi (musiikki ylös, peli alas) eroaa Boss Fight -sekoituksestasi (peli ylös, musiikki lähes äänetön), joka eroaa BRB-sekoituksestasi. Tallenna jokainen profiilina ja vaihda yhdellä napsautuksella sen sijaan, että vedät neljä liukusäädintä livenä.</p>
+
+<h3>4. Automaattinen vaimennus, jotta musiikki vaimenee äänesi alle</h3>
+<p>Automaattinen vaimennus vaimentaa automaattisesti taustaääntä puhuessasi ja palauttaa sen, kun lopetat. Soolostriimaajille tämä eroaa selkeiden kommentointien ja äänesi jatkuvasti peittävän musiikin välillä – käsitellään automaattisesti manuaalisen sijaan.</p>
+
+<h2>Mihin OBS sopii</h2>
+<p>OBS on lähetystyökalusi, ei työpöydän äänenvoimakkuuden mikseri. OBS hallitsee streamiin meneviä tasoja Audio Mixer -paneelin ja suodattimien kautta, mutta se toimii kaappaamistaan ​​äänilähteistä – se ei koske yksittäisiin macOS-sovelluksiin ja vaimenna niitä järjestelmätasolla. Mac:ssa puhtaan sovelluskohtaisen työpöytääänen saaminen OBS:hen on aina ollut tuskallista.</p>
+<p>Käytännön työnkulku: käytä SoundDial:ta asettaaksesi todelliset sovelluskohtaiset tasot Mac-laitteessasi, jotta se, mitä tulee ulos, on jo tasapainossa, ja anna sitten OBS:n kaapata ja hienosäätää lähetystasoja. Aseta sekoitus kerran lähteelle, ja OBS:lla on paljon vähemmän taisteltavaa. SoundDial:n nopean lähdön vaihtamisen avulla voit myös siirtyä kuulokkeiden ja kaiuttimien välillä ilman, että sukeltaa järjestelmäasetuksiin kohtausten välillä.</p>
+
+<h2>SoundDial vs. vaihtoehdot</h2>
+<p>Sinulla on vaihtoehtoja, ja rehellisyys on tärkeää täällä:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba, ~ 39 dollaria)</strong> — Pro-grade sovelluskohtaisella taajuuskorjaimella ja täydellä lähdön reitityksellä. Se on erinomainen, mutta se maksaa yli kaksinkertaisen, vaatii suoran latauksen ja asentaa äänen sieppausohjaimen. Ylimielinen, jos tarvitset pääasiassa puhtaita sovelluskohtaisia ​​tasoja, tehostusta ja vaimentamista.</li>
+<li><strong>Background Music (ilmainen, avoimen lähdekoodin)</strong> – aidosti hyödyllinen ja ilmainen, mutta se voi rikkoutua uudemmissa macOS-versioissa, eikä siinä ole tehostusta, profiileja eikä automaattista vaimenemista – streamerit tukevat juuri niitä ominaisuuksia.</li>
+<li><strong>FineTune (ilmainen, avoimen lähdekoodin valikkopalkkisovellus)</strong> - Kevyt sovelluskohtainen ohjaus, mutta yhteisöprojekti ilman suoratoistoa varten rakennettua profiilit ja kumoaminen -yhdistelmää.</li>
+<li><strong>eqMac (ilmainen taajuuskorjain + vahvistin)</strong> - hyvä sävyn muotoiluun ja tehostamiseen, mutta se on taajuuskorjain, ei sovelluskohtainen suoratoistomikseri.</li>
+</ul>
+<p>SoundDial:n kulma: se on a <strong>14,99 € kerta</strong> osta osoitteesta <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> – Applen tarkistama, hiekkalaatikkoon asennettu ja se asennetaan siististi ilman DMG:ta, ääniohjaimia tai järjestelmälaajennuksia. Tämä viimeinen osa on tärkeä striimaajille: vähemmän ydintason komponentteja tarkoittaa vähemmän yllätyskatkoja, kun macOS päivittyy striimiä edeltävänä iltana.</p>
+
+<h2>Rehellinen vaihtokauppa</h2>
+<p>Jos tarvitset lähetystason EQ:ta ja monimutkaisia reititysketjuja, SoundSource ansaitsee hintansa. Jos haluat ilmaisen taittotyökalun etkä välitä satunnaisesta rikkoutumisesta, Background Music tai FineTune sopivat. Mutta jos haluat yhdistelmän, jota suoratoisto todella vaatii – sovelluskohtaiset tasot, tehosteet, tallennetut kohtausprofiilit ja automaattinen vaimentaminen – turvallisesta App Store-asennuksesta, joka kestää macOS-päivitykset, SoundDial on suorin tie rahalle.</p>
+
+<p><strong>Oletko valmis korjaamaan stream-äänen?</strong> Hanki <a href="https://apps.apple.com/app/id6772792641">SoundDial mallissa Mac App Store</a> hintaan 14,99 € – aseta mikrofoni-, peli-, musiikki- ja hälytystasot kerran, tallenna ne profiileiksi ja anna automaattisen vaimennuksen pitää äänesi kärjessä.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "Äänen rätisemisen ja poksahtamisen korjaaminen macOS Tahoessa",
+    description: "Ääni rätiseekö tai poksahtelee macOS Tahoe 26:een päivityksen jälkeen? Korjaa se sovittamalla näytetaajuus, nollaamalla CoreAudio, tarkistamalla Bluetooth-koodekkisi ja poistamalla liitännäisristiriidat. Tässä on täydellinen vianmääritysohje.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>macOS Tahoe 26:een päivityksen jälkeinen rätiseminen ja poksahtaminen ovat lähes aina näytteenottotaajuuden epäsuhta, hilseilevää Bluetooth-koodekkien neuvottelua tai jumiutunutta CoreAudio-prosessia. Korjaa se sovittamalla ulostulon näytetaajuus Audio MIDI -asetuksissa, nollaamalla <code>coreaudiod</code>, unohtaa ja muodostaa pariliitoksen Bluetooth-kuulokkeet uudelleen ja sulkea äänilaajennuspalvelimet. Käy ne läpi alla olevassa järjestyksessä.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kuinka korjata äänen rätimistä ja poksahtelua macOS Tahoessa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Aloita halvoista korjauksista</h2>
+
+<p>Ennen kuin kosketat mitään teknistä, sulje pois kaksi asiaa, jotka ratkaisevat useimmat tapaukset alle minuutissa:</p>
+
+<ul>
+<li><strong>Käynnistä Mac uudelleen.</strong> Tahoe-päivitys jättää äänidaemonit puoliksi siirrettyyn tilaan yllättävän usein. Puhdas uudelleenkäynnistys lataa CoreAudio:n uudelleen tyhjästä ja poistaa suurimman osan päivityksen jälkeisistä rätisemistä.</li>
+<li><strong>Irrota lähtölaite ja kytke se uudelleen.</strong> Jos se on USB DAC, telakka tai ääniliitäntä, irrota se, odota muutama sekunti ja yhdistä uudelleen. Kokeile myös toista USB-porttia, mieluiten suoraan Mac-porttia keskittimen sijaan. Keskittimet ja näytöt, jotka välittävät ääntä, ovat yleinen ponnahduslähde.</li>
+</ul>
+
+<p>Jos kohina kestää uudelleenkäynnistyksen, se on kokoonpanoongelma, ei häiriö. Jatka.</p>
+
+<h2>Yhdistä näytetaajuus (yleisin syy)</h2>
+
+<p>Klassinen Tahoe crackle tulee näytteenottotaajuuden epäsuhtasta sen välillä, mitä laitteesi haluaa ja mitä macOS lähettää. Kun sovellus toistaa 44,1 kHz:n ääntä ja järjestelmä on lukittu 48 kHz:iin (tai päinvastoin), uudelleennäytteenotto voi pätkiä tai poksahtaa.</p>
+
+<ul>
+<li>Avaa <strong>Audio MIDI -asetukset</strong> (kohdassa Sovellukset → Apuohjelmat tai hae Spotlight).</li>
+<li>Valitse tulostuslaitteesi vasemmasta sivupalkista.</li>
+<li>Katso <strong>Muoto</strong> pudotusvalikosta. Kokeile asettaa se <strong>48000,0 Hz, 2-kanavainen - 24-bittinen kokonaisluku</strong> ja testata.</li>
+<li>Jos ponnahdus jatkuu, vaihda kohtaan <strong>44100,0 Hz</strong> ja testaa uudelleen.</li>
+<li>Liitäntöjen osalta varmista, että näytetaajuus vastaa DAW:n projektinopeutta.</li>
+</ul>
+
+<p>Muodon vaihtaminen pakottaa myös CoreAudio:n neuvottelemaan yhteyden uudelleen, mikä yksinään korjaa monet tapaukset, vaikka palaatkin samaan arvoon.</p>
+
+<h2>Nollaa CoreAudio</h2>
+
+<p>CoreAudio toimii taustadaemonina nimeltä <code>coreaudiod</code>. Suuren macOS-päivityksen jälkeen se voi pitää kiinni vanhentuneen laitteen tilassa. Uudelleenkäynnistys on turvallista ja se tulee voimaan välittömästi, ilman uudelleenkäynnistystä.</p>
+
+<p>Avaa Terminal ja suorita:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>Anna salasanasi pyydettäessä. Ääni katkeaa hetkeksi, minkä jälkeen demoni käynnistyy automaattisesti uudelleen puhtaalta pöydältä. Tämä on tehokkain yksittäinen korjaus tyhjästä ilmaantuvaan räpäytykseen koneessa, joka oli kunnossa ennen päivitystä.</p>
+
+<h2>Tarkista Bluetooth-kuulokkeet ja koodekki</h2>
+
+<p>Jos rätintää tapahtuu vain AirPods- tai muissa Bluetooth-kuulokkeissa, ongelma on yleensä koodekin neuvottelu, ei kaiuttimissasi. Langattoman äänen laatu heikkenee, kun yhteys on ruuhkautunut tai kun macOS siirtyy matalan kaistanleveyden puhelutilaan.</p>
+
+<ul>
+<li><strong>Unohda ja yhdistä laite uudelleen.</strong> Siirry kohtaan Järjestelmäasetukset → Bluetooth, irrota kuulokkeet ja muodosta pariliitos uudelleen. Tämä nollaa neuvotellun koodekin.</li>
+<li><strong>Varo puhelutilan laskua.</strong> Kun sovellus avaa mikrofonin, macOS vaihtaa Bluetooth-kuulokkeet heikkolaatuiseen kaksisuuntaiseen profiiliin, joka kuulostaa rapeelta. Lopeta neuvottelu- ja äänisovellukset, joita et käytä, ja uskollisuus palautuu.</li>
+<li><strong>Vähennä häiriöitä.</strong> Siirry pois ruuhkaisista 2,4 GHz:n ympäristöistä ja irrota Bluetooth-laitteet, joita et tarvitse. Kiireinen radioyhtye tuottaa katkonaisia ​​poppia.</li>
+<li><strong>Sammuta mikrofonitulo</strong> sovelluksen asetuksissa, jos sinun tarvitsee vain kuunnella, joten macOS säilyttää korkealaatuisen toistoprofiilin.</li>
+</ul>
+
+<h2>Sulje äänilaajennuspalvelimet ja virtuaaliset ohjaimet</h2>
+
+<p>Kolmannen osapuolen ääniohjelmisto, joka asentaa järjestelmälaajennuksen tai virtuaalisen laitteen, on usein rikollinen käyttöjärjestelmän hypyn jälkeen, koska ydin- ja äänilaajennukset tarvitsevat usein päivitystä uutta macOS-versiota varten. Epäiltyihin kuuluu virtuaalisia äänireitittimiä, taajuuskorjaussovelluksia, silmukkatyökaluja ja vanhempia ohjainpohjaisia ​​apuohjelmia.</p>
+
+<ul>
+<li>Sulje mikä tahansa taajuuskorjain, äänireititin tai loopback-sovellus ja testaa, lakkaako rätiseminen.</li>
+<li>Tarkista Järjestelmäasetukset → Yleiset → Kirjautumiskohteet &amp; Extensions löytääksesi äänilaajennuksia, jotka saattavat tarvita päivitystä tai poistoa.</li>
+<li>Päivitä nämä sovellukset Tahoe-yhteensopiviin julkaisuihin tai poista ne, joita et enää käytä. Pinotut ääniohjaimet ovat usein ristiriidassa keskenään suuren päivityksen jälkeen.</li>
+</ul>
+
+<p>Jos jonkin näistä sovelluksista sulkeminen hiljentää ponnahdusäänet, olet löytänyt syyllisen. Asenna nykyinen versio uudelleen tai jätä se pois päältä.</p>
+
+<h2>Rajaa sitä: järjestelmän laajuinen vai yksi sovellus?</h2>
+
+<p>Selvitä, esiintyykö melua kaikkialla vai vain tietyissä ohjelmistoissa. Toista paikallinen äänitiedosto, sitten selainvideo ja sitten musiikkisovellus. Jos vain yksi sovellus rätisee, korjaus on kyseisen sovelluksen omat ääniasetukset tai päivitys, ei macOS. Jos se on koko järjestelmän, vastaus löytyy yllä olevista vaiheista.</p>
+
+<p>Kun olet edelleen jumissa, käynnistä vikasietotilaan (pidä Applen silikonin virtapainiketta painettuna ja valitse sitten käynnistyslevy pitäen samalla Shift-näppäintä painettuna). Vikasietotila ei lataa kolmannen osapuolen laajennuksia. Jos ääni on puhdas, syynä on kirjautumiskohde tai ohjain, ja voit ottaa ne uudelleen käyttöön yksi kerrallaan löytääksesi sen.</p>
+
+<h2>Kun ääni on puhdas</h2>
+
+<p>Rätiseminen on ohjain- ja näytteenottotaajuusongelma, joten yllä olevat korjaukset ratkaisevat sen. Mutta kun toisto on vakaa, saatat huomata erilaisen rajoituksen: macOS:ssa ei edelleenkään ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden mikseriä, kuten Windows:ssa. Et voi sammuttaa kovaäänistä sovellusta sammuttamatta kaikkea.</p>
+
+<p>Siinä se aukko <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> täyttää. Se on valikkopalkin mikseri, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, sovelluskohtaisen mykistyksen ja jopa äänenvoimakkuuden lisäyksen hiljaisille sovelluksille sekä nopean lähdön vaihdon. Se ei korjaa rätintää, mutta kun ääni on kunnossa, se tekee päivittäisestä hallinnasta paljon helpompaa.</p>
+
+<p>Suorita yllä olevat vaiheet järjestyksessä ja aloita uudelleenkäynnistyksellä ja näytetaajuuden tarkistuksella. Jos haluat myöhemmin todellisen sovelluskohtaisen hallinnan puhtaaseen ääniasetuksiin, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on 14,99 euron kertaostos Mac App Store:lle, hiekkalaatikolla ilman ohjaimia tai DMG:ta asennettavaksi.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods änkytys tai leikkaus Mac:ssa (Tahoe Fix)",
+    description: "AirPods:n pätkiminen, katkeaminen tai katkaiseminen macOS Tahoessa on melkein aina Bluetooth-häiriötä tai automaattisen vaihdon vaihtuvuutta. Näin voit muodostaa pariliitoksen uudelleen, vähentää 2,4 GHz:n ruuhkautumista ja pysäyttää toiston katkaisevat kanavanvaihdot.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>AirPods:n pätkiminen tai katkeaminen macOS Tahoessa on melkein aina Bluetooth-häiriötä, ei rikkoutunutta kuuloketta. Tavallisia syyllisiä ovat 2,4 GHz Wi-Fi ja reitittimen ruuhkautuminen, aggressiivinen automaattinen laitevaihto ja vanhentunut pariliitos. Muodosta AirPods pariliitos uudelleen, sammuta automaattinen kytkin ja siirry pois ruuhkaisista 2,4 GHz:n kanavista korjataksesi useimmat tapaukset.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods änkytys tai leikkaus Mac:ssa (Tahoe Fix)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi AirPods pudottaa Mac:n nimenomaan</h2>
+
+<p>AirPods käyttää Bluetooth:ta, joka jakaa 2,4 GHz:n radiotaajuisen taajuuden Wi-Fi:n, mikroaaltouunien, USB 3 -laitteiden ja lähes kaikkien kodin älypistokkeiden kanssa. Mac on kiireinen radio: se jongloi Wi-Fi-, Bluetooth-, AirDrop- ja Continuity-ominaisuuksien päällekkäisissä antenneissa. Kun bändi ruuhkautuu, Bluetooth-ääni pätkii ensimmäisenä, koska se ei siedä pudonneita paketteja samalla tavalla kuin tiedostojen siirto.</p>
+
+<p>Tahoe ei taianomaisesti tehnyt AirPods:ta huonommaksi, mutta uusi macOS-asennus usein nollaa radion käyttäytymisen, ottaa jatkuvuuden vaihdot uudelleen käyttöön ja neuvottelee koodekit uudelleen. Tästä syystä ongelmat näyttävät ilmenevän heti päivityksen jälkeen. Hyvä uutinen: korjaukset ymmärretään hyvin ja enimmäkseen ilmaisia.</p>
+
+<h2>Korjaus 1: Yhdistä AirPods uudelleen (tee tämä ensin)</h2>
+
+<p>Vanhentunut tai vioittunut pariliitos kestää uudelleenkäynnistykset ja aiheuttaa ajoittaisia pudotuksia, jotka näyttävät satunnaisilta. Poista yhteys kokonaan ja lisää se uudelleen:</p>
+
+<ul>
+<li>Avaa <strong>Järjestelmäasetukset, Bluetooth</strong>.</li>
+<li>Napsauta AirPods:n vieressä olevaa infopainiketta (i) ja valitse <strong>Unohda tämä laite</strong>.</li>
+<li>Aseta AirPods koteloonsa, sulje kansi, odota 15 sekuntia ja avaa se.</li>
+<li>Pidä kotelon takana olevaa painiketta painettuna, kunnes valo vilkkuu valkoisena.</li>
+<li>Muodosta laitepari uudelleen Bluetooth-luettelosta.</li>
+</ul>
+
+<p>Kun olet paikalla, varmista, että AirPods-laiteohjelmisto on ajan tasalla. Manuaalista päivitystä ei ole, mutta jos jätät ne hetkeksi koteloon liitetyn iPhonen tai Mac:n lähelle, ne päivittyvät taustalla.</p>
+
+<h2>Korjaus 2: Sammuta automaattinen vaihto</h2>
+
+<p>Tämä on suurin yksittäinen syy ihmisten "leikkaukseen" Applen ekosysteemissä. AirPods yrittää seurata sinua Mac:n, iPhonen ja iPadin välillä. Joka kerta, kun puhelimesi luulee, että sen pitäisi tarttua ääneen, Mac:n yhteys katkeaa ja tuottaa puolen sekunnin keskeytyneen podcastin.</p>
+
+<ul>
+<li>Mallissa Mac: Bluetooth, napsauta (i) AirPods:n vieressä, aseta <strong>Yhdistä tähän Mac</strong> to <strong>Kun viimeksi yhdistetty tähän Mac</strong> Automaattisesti sijasta.</li>
+<li>iPhonessa: Asetukset, napauta AirPods, <strong>Yhdistä tähän iPhoneen</strong>, valitse <strong>Milloin viimeksi yhdistetty tähän iPhoneen</strong>.</li>
+</ul>
+
+<p>Tämä pysäyttää laitteiden välisen köydenvedon. Voit valita manuaalisesti, minne ääni menee, mikä on pieni hinta vakaasta toistosta.</p>
+
+<h2>Korjaus 3: Leikkaa 2,4 GHz:n ruuhkautumista</h2>
+
+<p>Jos putoaa videopuheluiden, latausten tai muiden ihmisten suoratoiston aikana, radiotaajuus on kyllästynyt. Muutama käytännön liike:</p>
+
+<ul>
+<li><strong>Käytä 5 GHz Wi-Fi-kaistaa</strong> Mac:ssasi. Anna 5 GHz:n verkolle erillinen nimi reitittimen asetuksissa ja muodosta yhteys siihen. Tämä vapauttaa 2,4 GHz:n taajuuden Bluetooth:lle.</li>
+<li><strong>Siirrä USB 3- ja Thunderbolt-keskittimet pois</strong> Mac:sta ja AirPods:sta. USB 3 on pahamaineinen 2,4 GHz:n kohinalähde; kannettavan tietokoneen vieressä oleva keskitin voi tuhota Bluetooth:n tuuman etäisyydeltä.</li>
+<li><strong>Vaihda reitittimesi 2,4 GHz kanavaa</strong> 1, 6 tai 11 (ei-päällekkäiset vaihtoehdot) ja vältä ruuhkaisia kanavia, joilla naapurisi ovat.</li>
+<li><strong>Pidä näköyhteys.</strong> Rungot ja seinät absorboivat 2,4 GHz. Jos Mac on takanasi tai laukussa, putoaminen pahenee.</li>
+</ul>
+
+<blockquote>Wi-Fi 6E- ja Wi-Fi 7 -reitittimet voivat auttaa epäsuorasti: laitteidesi työntäminen 6 GHz:iin tyhjentää 2,4 GHz:n kaistan, josta Bluetooth riippuu. Mutta huonosti konfiguroitu verkko, joka ohjaa sinut jatkuvasti takaisin 2,4 GHz:iin, voi pahentaa asioita. Tarkista, mihin bändiin todella kuulut.</blockquote>
+
+<h2>Korjaus 4: Nollaa Bluetooth- ja jatkuvuuspino</h2>
+
+<p>Jos yhdistäminen ei onnistunut, nollaa radiot itse:</p>
+
+<ul>
+<li>Kytke Bluetooth pois päältä ja päälle valikkopalkista ja käynnistä sitten Mac uudelleen. Uudelleenkäynnistys poistaa yllättävän määrän ohimeneviä äänihäiriöitä.</li>
+<li>Nollaa SMC/NVRAM Intel Mac:ssa tai sammuta se kokonaan (älä käynnistä uudelleen) 30 sekunniksi Apple Siliconissa.</li>
+<li>Jos et käytä AirDropia tai Handoffia, Handoffin poistaminen käytöstä Järjestelmäasetuksissa, Yleiset, AirDrop &amp; Handoff vähentää taustaradion keskustelua.</li>
+</ul>
+
+<h2>Mikä ei korjaa sitä (ja mitä äänenvoimakkuuden sekoitin todella tekee)</h2>
+
+<p>Selvyyden vuoksi: mikään näistä ei ole ohjelmiston määräongelmia, eikä mikään taltiosovellus voi korjata Bluetooth-linkkiä. Jos ääni on <em>pudottamalla</em>, jahda yllä olevaa radio-ongelmaa. Sovellukset, kuten <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ohjaa sovelluskohtaista äänenvoimakkuutta, mykistystä ja lähdön vaihtoa, ne eivät kosketa Bluetooth-pinoa, joten ne eivät lopeta änkytystä. Mikseri aidosti auttaa, on viereinen ärsytys, jonka monet AirPods-käyttäjät sekoittavat keskeytyksiin: yksi sovellus räjäyttää, kun taas toinen on liian hiljainen tai joutuu hyppäämään ulostuloja nopeasti. Tämä on äänenvoimakkuuden tasapainoongelma, ei yhteys.</p>
+
+<p>Tee diagnoosi rehellisesti. Jos ääni katkeaa ja palaa, kyseessä on häiriö tai automaattinen vaihto. Jos tasot ovat vain epätasaisia ​​sovellusten välillä, se on sekoitusongelma, jonka voit itse ratkaista ohjelmistolla.</p>
+
+<h2>Nopea tarkistuslista</h2>
+
+<ul>
+<li>Unohda ja yhdistä AirPods uudelleen.</li>
+<li>Aseta sekä Mac että iPhone <strong>Kun viimeksi yhdistetty</strong>, ei automaattisesti.</li>
+<li>Siirrä Mac 5 GHz Wi-Fi-verkkoon; pidä USB 3 -keskittimet loitolla.</li>
+<li>Aseta 2,4 GHz kanavalle 1, 6 tai 11.</li>
+<li>Käynnistä uudelleen Bluetooth:n vaihtamisen jälkeen.</li>
+</ul>
+
+<p>Kun keskeyttäjät ovat poissa ja haluat vain selkeämmän hallinnan siitä, kuinka kovaa kukin sovellus soittaa, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lisää asianmukaisen sovelluskohtaisen äänenvoimakkuuden mikserin, mykistyksen, tehostuksen ja nopean lähtökytkennän, joita macOS ei vieläkään sisällä. Se on 14,99 €:n kertaostos Mac App Store:lle hiekkalaatikolla, ilman ajureita asennettavaksi.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "Oikea kaiutin on kuollut Mac:ssa Tahoe-päivityksen jälkeen? Kuinka korjata se",
+    description: "Yksi kaiutin tai kanava lakkasi toimimasta macOS Tahoeen päivityksen jälkeen? Aloita äänen tasapainon liukusäätimellä, nollaa sitten Core Audio, kokeile vikasietotilaa ja sulje pois laitteisto. Selkeä vianmääritysopas.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos oikea kaiuttimesi vaimeni macOS Tahoeen päivittämisen jälkeen, tarkista ääni <strong>tasapainon liukusäädin</strong> ensinnäkin - se voi muuttua päivityksen aikana. Siirry kohtaan Järjestelmäasetukset &gt; Sound &gt; Output ja varmista, että Balance on umpikujassa. Jos se on kunnossa, käynnistä Core Audio uudelleen, käynnistä vikasietotilaan ja sulje pois laitteisto. Useimmat tapaukset ovat ohjelmistoja.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Oikea kaiutin on kuollut Mac:ssa Tahoe-päivityksen jälkeen? Kuinka korjata se" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ensinnäkin: tasapainon liukusäädin (korjaa tämän useammin kuin uskotkaan)</h2>
+
+<p>Jumissa oleva tai siirtynyt tasapainon liukusäädin on yleisin yksittäinen syy, miksi yksi kanava vaimenee – ja macOS-päivitykset painavat sitä toisinaan. Ennen kuin oletat pahimman:</p>
+
+<ul>
+<li>Avaa <strong>Järjestelmäasetukset &gt; Ääni</strong>.</li>
+<li>Napsauta <strong>Lähtö</strong> -välilehti ja valitse kaiuttimet (sisäänrakennetut tai ulkoinen laite).</li>
+<li>Etsi <strong>Tasapaino</strong> liukusäädintä ja vedä se tarkalleen keskelle. Jos se vedetään vasemmalle, oikea kanavasi kuulostaisi kuolleelta.</li>
+</ul>
+
+<p>Tee tämä <em>lähtölaitetta kohti</em>. Tasapainoasetus muistetaan erikseen sisäänrakennetuille kaiuttimille, kuulokkeille ja jokaiselle ulkoiselle liitännälle – joten keskitetty sisäänrakennettu tasapaino ei auta, jos ongelma on USB-DAC:ssa.</p>
+
+<h2>Testaa, onko se todella laitteistokanava</h2>
+
+<p>Ohjaa laitteisto sisään tai ulos nopeasti. Soita hyvin tuntemaasi stereoraitaa ja liitä sitten langalliset kuulokkeet. Jos molemmat kanavat toimivat kuulokkeissa, mutta eivät kaiuttimien kautta, ongelma on äänimoottorin (kaiutinlaitteiston tai lähtöpolun) jälkeen. Jos sama kanava on kuollut myös kuulokkeissa, se on todennäköisesti ohjelmisto tai logiikkakortin audiokoodekki.</p>
+
+<p>Voit myös avata <strong>Musiikki</strong> tai QuickTime, soita jotain ja vaihda tasapainoa voimakkaasti vasemmalle ja sitten kovaa oikealle. Jos ääni liikkuu siististi kanavien välillä, molemmat kaiuttimet ovat elossa ja tämä on puhtaasti asetusongelma.</p>
+
+<h2>Käynnistä Core Audio uudelleen</h2>
+
+<p>macOS ohjaa kaiken äänen läpi <strong>coreaudiod</strong> prosessi. Suuren päivityksen jälkeen sen tila voi kiilautua - lähdöt katoavat, kanavat putoavat tai äänenvoimakkuus käyttäytyy oudosti. Uudelleenkäynnistys on turvallista ja pakottaa macOS:n rakentamaan äänikaavion uudelleen:</p>
+
+<ul>
+<li>Avaa <strong>Terminal</strong> (Sovellukset &gt; Utilities).</li>
+<li>Juokse: <code>sudo killall coreaudiod</code></li>
+<li>Kirjoita salasanasi. Audiodaemon käynnistyy automaattisesti uudelleen sekunnin tai kahden sisällä.</li>
+</ul>
+
+<p>Mitään ei poisteta – tämä vain käynnistää äänialijärjestelmän uudelleen. Testaa oikea kaiutin uudelleen välittömästi sen jälkeen.</p>
+
+<h2>Käynnistä oikein ja yritä sitten vikasietotilaa</h2>
+
+<p>Täysi uudelleenkäynnistys poistaa ohimenevät äänihäiriöt, joita killall ei poista. Jos kanava on edelleen kuollut, käynnistä se <strong>turvatilassa</strong>, joka lataa minimaalisen järjestelmän ja ohittaa kolmannen osapuolen äänilaajennukset ja kirjautumiskohteet:</p>
+
+<ul>
+<li><strong>Apple Silicon:</strong> Sulje. Pidä virtapainiketta painettuna, kunnes "Ladataan käynnistysasetuksia" tulee näkyviin. Valitse levy ja pidä sitä painettuna <strong>Vaihto</strong> ja napsauta "Jatka vikasietotilassa".</li>
+<li><strong>Intel:</strong> Käynnistä uudelleen ja pidä painettuna <strong>Vaihto</strong> kunnes kirjautumisikkuna tulee näkyviin.</li>
+</ul>
+
+<p>Jos molemmat kaiuttimet toimivat vikasietotilassa, ennen päivitystä asennettu kolmannen osapuolen ääniohjain, virtuaalilaite tai valikkopalkin apuohjelma on ristiriidassa Tahoen uuden äänipinon kanssa. Käynnistä takaisin normaaliksi ja poista tai päivitä äskettäin asennettu ääniohjelmisto (näytön tallentimet, kokoussovellukset ja äänen reitityskextit ovat yleisiä syyllisiä).</p>
+
+<h2>Nollaa NVRAM (vain Intel Macs)</h2>
+
+<p>Intel Mac -malleissa ääni- ja kaiutinasetukset ovat NVRAM-/PRAM-muistissa, ja vanhentunut arvo voi kestää päivityksen. Nollaa se: sammuta, käynnistä ja pidä välittömästi painettuna <strong>Optio + Komento + P + R</strong> noin 20 sekuntia, jolloin Mac käynnistyy uudelleen kerran. Tämä ei koske Apple Silicon Mac -laitteita – ne hallitsevat tämän automaattisesti, joten ohita se, jos käytät M-sarjan konetta.</p>
+
+<h2>Päivitä uudelleen – ja tarkista pisteen julkaisu</h2>
+
+<p>Kaikkien tärkeiden macOS-versioiden varhaiset julkaisut sisältävät ääniohjainvirheitä, jotka myöhemmin korjataan. Suuntaa <strong>Järjestelmäasetukset &gt; Yleiset &gt; Ohjelmistopäivitys</strong> ja asenna kaikki odottavat Tahoe Point -julkaisut (14.x.1, 14.x.2 jne.). Jos lisäpäivitys on olemassa, se käsittelee usein juuri näitä päivityksen jälkeisiä ääniregressioita.</p>
+
+<h2>Kun se on aito laitteisto</h2>
+
+<p>Jos vikasietotila, Core Audion uudelleenkäynnistys ja puhdas uudelleenasennus epäonnistuvat – ja sama kanava on kuollut kuulokkeissa – saatat tarkastella laitteistovikaa. Päivityksen ajoitus voi olla sattumaa; kaiutinvahvistimet ja audiokoodekit eivät toimi. Juokse <strong>Applen diagnostiikka</strong> (sammuta, pidä sitten Apple Siliconin virtapainiketta painettuna ja valitse Diagnostiikka tai pidä painettuna <strong>D</strong> Intelissä käynnistyksen yhteydessä). Jos se ilmoittaa äänikomponentista, ota yhteyttä <strong>Applen tuki</strong> tai valtuutettu palveluntarjoaja. Älä tuhlaa rahaa puhalletun kaiuttimen ohjelmistoon.</p>
+
+<blockquote>Nopea nyrkkisääntö: jos ääni panoroituu oikein balanssin liukusäätimellä, molemmat kaiuttimet ovat fyysisesti kunnossa ja korjaus on ohjelmistossa. Jos se ei koskaan siirry kuolleelle puolelle, epäile laitteistoa.</blockquote>
+
+<h2>Minne volyymiohjelmisto sopii (ja minne ei)</h2>
+
+<p>Selvyyden vuoksi: kuollut kaiutinkanava ei ole asia, jota äänenvoimakkuussovellus korjaa – yllä olevat tarkistukset ovat sinun polkusi. Siitä huolimatta, kun ääni on taas kunnossa, macOS:lta puuttuu edelleen jotain, joka Windows:lla on ollut vuosia: todellinen sovelluskohtainen äänenvoimakkuuden mikseri. Jos huomasit kaivautuvasi Ääniasetusten läpi, koska yksi sovellus räjähti ja toinen oli liian hiljainen, valikkopalkin mikseri, kuten <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> voit asettaa itsenäisen äänenvoimakkuuden, mykistyksen ja jopa tehostuksen sovelluskohtaisesti koskematta järjestelmän tasapainoon. Se on kätevä työkalu jokapäiväiseen sekoittamiseen, ei tämän artikkelin ongelman korjaamiseen.</p>
+
+<h2>Lyhyt versio</h2>
+
+<ul>
+<li>Keskitä <strong>Tasapaino</strong> liukusäädin - tulostuslaitetta kohti.</li>
+<li>Testaa kuulokkeilla laitteiston eristämiseksi.</li>
+<li>Juokse <code>sudo killall coreaudiod</code>, käynnistä sitten uudelleen.</li>
+<li>Kokeile <strong>turvatilassa</strong> kuljettajan konfliktien havaitsemiseksi.</li>
+<li>Nollaa NVRAM Intelissä; asenna mikä tahansa Tahoe Point -julkaisu.</li>
+<li>Vieläkö kuollut kuulokkeisiin? Suorita Apple Diagnostics ja soita Applelle.</li>
+</ul>
+
+<p>Kun kaiuttimet ovat palanneet normaaliksi, jos sovelluskohtaisen äänenvoimakkuuden jongleeraaminen on päivittäistä ärsyttävää, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lisää mikseri macOS on aina puuttunut — 14,99 €, kertakäyttöinen, hiekkalaatikko, ei ajureita.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods juuttunut puoleen tilavuuteen Mac:ssasi? Tässä on korjaus",
+    description: "Miksi AirPods muodostaa yhteyden Mac:hen puolella äänenvoimakkuudella – yleensä Bluetooth-koodekkin kytkin handsfree-mikroprofiiliin – sekä pariliitosten korjaukset ja tason nostaminen lopullisesti.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>AirPods putoaa yleensä puoleen äänenvoimakkuudesta Mac:ssa, koska macOS vaihtoi ne korkealaatuisesta A2DP-ääniprofiilista heikkolaatuiseen handsfree-profiiliin (HFP), joka on suunniteltu puhelumikrofonin käyttöön. Tämä tila rajoittaa tehoa ja laatua. Korjaa se pakottamalla Mac takaisin vain kuulokkeiden ääneen ja nosta sitten tasoa, jotta se pysyy paikallaan.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods juuttunut puoleen tilavuuteen Mac:ssa? Tässä on korjaus" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi näin tapahtuu: koodekkikytkin</h2>
+
+<p>Bluetooth-äänilaitteet, kuten AirPods, toimivat yhdessä kahdesta tilasta. Kun vain kuuntelet, macOS käyttää A2DP:tä – täysi stereo, täysi äänenvoimakkuus, puhdas laatu. Mutta kun sovellus haluaa mikrofonisi, macOS vaihtaa koko yhteyden HFP:hen (Hands-Free Profile). HFP on kaksisuuntainen puhelinkoodekki. Se kuulostaa ohuelta, yksiväriseltä ja huomattavasti hiljaisemmalta, koska se on suunniteltu äänipuheluille, ei musiikille.</p>
+
+<p>Ongelmana on, että macOS pysyy usein jumissa HFP:ssä jopa sen jälkeen, kun mikrofonin tarttunut sovellus on valmis – tai kytkeytyy siihen heti, kun avaat Zoom, FaceTime, Teams, Discord tai selaimen välilehden mikrofonin luvalla. Joten AirPods-puhelimesi kuulostavat olevan "puolet äänenvoimakkuudesta" ei siksi, että äänenvoimakkuuden liukusäädin olisi liikkunut, vaan koska koko ääniprofiili on alentunut allasi.</p>
+
+<p>Tunnistat sen: ääni muuttuu yhtäkkiä hiljaiseksi ja vaimeaksi, AirPods näkyy kahdesti ääniasetuksissasi (kerran lähtönä, kerran mikrofonina), ja järjestelmän äänenvoimakkuuden kääntäminen kokonaan ylös tuskin auttaa.</p>
+
+<h2>Parin muodostaminen uudelleen ja koodekin kiertotavat</h2>
+
+<p>Nämä ovat rehelliset ensimmäiset askeleet. Käsittele ne järjestyksessä – yksi ensimmäisistä yleensä poistaa sen.</p>
+
+<ul>
+<li><strong>Vaihda syöttölaitetta.</strong> Avaa Järjestelmäasetukset → Ääni → Tulo ja valitse Mac:n sisäänrakennettu mikrofoni AirPods:n sijaan. Tämä estää macOS:ta pitämästä AirPods:ta HFP-tilassa, joten lähtö voi nousta takaisin täyteen A2DP-laatuun. Tämä on tehokkain yksittäinen korjaus.</li>
+<li><strong>Kytke Bluetooth pois päältä ja päälle.</strong> Yhteyden nopea nollaus neuvottelee usein A2DP:n uudelleen puhtaasti, varsinkin jos AirPods juuttuu puhelun päätyttyä.</li>
+<li><strong>Liitä AirPods uudelleen.</strong> Sulje kotelo, odota muutama sekunti, avaa se uudelleen lähellä Mac:ta ja valitse ne uudelleen tulostuslaitteiksi.</li>
+<li><strong>Sulje sovellus, joka nappasi mikrofonin.</strong> Sulje Zoom, Teams, Discord tai selainvälilehti kokonaan. Jotkut sovellukset pitävät mikrofonin istunnon auki taustalla ja kiinnittävät HFP:tä, kunnes ne ovat poissa.</li>
+<li><strong>Pariliitos uudelleen alusta.</strong> Poista AirPods kohdasta Järjestelmäasetukset → Bluetooth (napsauta infopainiketta → Unohda tämä laite) ja muodosta pariliitos uudelleen. Tämä poistaa vioittuneet profiilineuvottelut, joita vaihtaminen ei yksin korjaa.</li>
+<li><strong>Nollaa AirPods.</strong> Kun ne ovat kotelon kansi auki, pidä takaosassa olevaa asetuspainiketta painettuna, kunnes valo vilkkuu oranssina ja sitten valkoisena. Muodosta pariliitos myöhemmin. Tämä on ydinvaihtoehto laiteohjelmistotason omituisuuksiin.</li>
+<li><strong>Päivitä macOS ja AirPods laiteohjelmisto.</strong> Apple on toimittanut Bluetooth-äänikorjauksia pistejulkaisuissa. AirPods-laiteohjelmisto päivittyy äänettömästi, kun ne latautuvat liitetyn laitteen lähellä – joten jätä ne koteloon Mac:n lähelle yöksi.</li>
+</ul>
+
+<blockquote><p>Katsottava malli: Jos äänenvoimakkuus laskee heti liittyessäsi puheluun ja palautuu puhelun päätyttyä, kyseessä on HFP-kytkin – ei rikkinäinen kaiutin tai asetushäiriö.</p></blockquote>
+
+<h2>Miksi korjaukset eivät aina pysy</h2>
+
+<p>Tässä on turhauttava osa. Jopa pariliitoksen uudelleen muodostamisen jälkeen macOS vaihtaa iloisesti AirPods:n takaisin hiljaiseen handsfree-tilaan seuraavan kerran, kun jokin sovellus koskettaa mikrofonia. Tätä toimintaa ei voi poistaa pysyvästi käytöstä järjestelmäasetuksissa – Apple käsittelee sitä automaattisena. Joten päädyt tekemään syöttölaitteen tempun uudelleen useita kertoja päivässä, ja milloin tahansa AirPods-laitteesi on puhelun tai mikrofonin nälkäisen sovelluksen aikana, ne ovat taas rajattu tälle alemmalle tasolle.</p>
+
+<p>On myös toinen, erillinen ongelma, jonka ihmiset sekoittavat tähän: jotkut sovellukset ovat vain hiljaisempia kuin toiset järjestelmän enimmäisvoimakkuudella. Podcast-soitin tai selainvälilehti voi istua selvästi alle sen, mitä korvasi haluavat, vaikka AirPods:ssa olisikin puhdas A2DP. macOS antaa sinulle yhden äänenvoimakkuuden liukusäätimen kaikkeen, eikä sovelluskohtaista ohjausta, joten ei ole mahdollista nostaa yhtä hiljaista sovellusta takaisin ylös.</p>
+
+<h2>Nosta tasoa takaisin - ja pidä se siellä</h2>
+
+<p>Tässä sovelluskohtainen äänenvoimakkuuden mikseri ansaitsee paikkansa. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on macOS:n valikkopalkin sovellus, joka antaa jokaiselle käynnissä olevalle sovellukselle oman itsenäisen äänenvoimakkuuden liukusäätimen – mukaan lukien yli 100 %:n lisäyksen. Joten kun AirPods palaa puhelusta alhaisemmalla tehollisella tasolla tai tietty sovellus on yksinkertaisesti liian hiljainen, vedät sovelluksen normaalin katon ohi ja se pysyy siellä.</p>
+
+<p>Konkreettisesti se tarkoittaa:</p>
+
+<ul>
+<li><strong>Sovelluskohtainen äänenvoimakkuus BOOST.</strong> Työnnä hiljaista sovellusta normaalin maksimiarvon yläpuolelle sen sijaan, että rasittaisit kuullaksesi sen "täydellä" järjestelmän äänenvoimakkuudella.</li>
+<li><strong>Äänenvoimakkuusprofiilit.</strong> Tallenna joukko tasoja – tehostettu selain, pehmeämpi musiikki, kovaääniset videopuhelut – ja vaihda koko järjestely yhdellä napsautuksella, jotta et joudu säätämään uudelleen jokaisen yhteyden muodostamisen jälkeen.</li>
+<li><strong>Nopea lähdön vaihto.</strong> Hyppää AirPods:n, kannettavan tietokoneen kaiuttimien ja ulkoisen DAC:n välillä valikkopalkista kaivaamatta järjestelmäasetuksia, mikä auttaa, kun pakotat uuden profiilin neuvotteluun.</li>
+<li><strong>Sovelluskohtainen mykistys ja automaattinen vaimennus.</strong> Hiljennä yksi sovellus koskematta muihin ja anna median uppoaa automaattisesti, kun jotain tärkeämpää toistetaan.</li>
+</ul>
+
+<p>On syytä tehdä selväksi, mitä tämä tekee ja mitä ei. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ei pakota macOS:ta pysymään A2DP:ssä – yllä oleva syöttölaitteen temppu on edelleen työkalusi itse koodekille. Se palauttaa sovelluskohtaisesti äänenvoimakkuuden, jonka alentaminen varasti, joten hiljainen AirPods-istunto tai itsepäisen pehmeä sovellus on korjaus yhdellä vedolla menetetyn syyn sijaan. Ja koska se on hiekkalaatikolla varustettu Mac App Store-sovellus, siihen ei tarvitse asentaa ääniohjainta, ei DMG:ta tai ytimen laajennusta – se vain toimii.</p>
+
+<h2>Lyhyt versio</h2>
+
+<p>Jos AirPods kuulostaa hiljaiselta ja vaimealta Mac:ssa, sammuta syöttölaitteesi AirPods pakottaaksesi ne poistumaan handsfree-tilasta ja muodosta pariliitos uudelleen, jos se epäonnistuu. Kun taso ei vieläkään saavuta haluamaasi - tai yksittäinen sovellus on vain liian pehmeä - kurottaa sovelluskohtaiseen tehostukseen, joten asetat sen kerran ja jatkat eteenpäin.</p>
+
+<p>Oletko kyllästynyt taistelemaan äänenvoimakkuuden liukusäätimen kanssa joka kerta, kun vastaat puheluun? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> – kertaluonteinen 14,99 €, ei tilausta, ei ohjaimia – ja anna jokaiselle sovellukselle oma volyymi.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "Nollaako Mac Volume itseään Tahoessa? Kuinka lukita se lopullisesti",
+    description: "macOS Tahoen jälkeen monet Mac:t muuttavat tai nollaavat äänenvoimakkuutta yhtäkkiä itsestään. Tässä on syy, miksi se tapahtuu, kuinka estää sisäänrakennetut syyt ja kuinka lukita kiinteä määrä sovelluskohtaisesti, jotta se pysyy paikallaan.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos Mac-äänenvoimakkuus palautuu jatkuvasti macOS Tahoen jälkeen, korjaus on poistaa automaattiset säätimet: poista äänen vaimennus ja "Toista ääni käynnistyksen yhteydessä", nollaa ääniasetukset ja liitä kaikki Bluetooth-ulostulot puhtaasti. Jos sovelluskohtaiset tasot vaihtelevat, lukitse kiinteä äänenvoimakkuus sovelluskohtaisesti mikserillä, jotta se ei ajaudu enää koskaan.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac Volume nollautuu jatkuvasti Tahoessa? Kuinka lukita se lopullisesti" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi äänenvoimakkuus muuttuu itsestään Tahoen jälkeen</h2>
+
+<p>Äänenvoimakkuus, joka liikkuu koskematta siihen, tuntuu laitteistovialta, mutta se on melkein aina ohjelmisto, joka päättää tasosi puolestasi. macOS:ssa on useita automaattisia toimintatapoja, jotka hiljaa työntävät tai nollaavat lähtöä, ja Tahoen äänipinon muutokset tekivät joistakin niistä näkyvämpiä. Ennen kuin oletat, että sovellus tai Mac on rikki, on hyvä tietää, mikä järjestelmä tarttuu liukusäätimeen.</p>
+
+<ul>
+<li><strong>Äänen vaimennus:</strong> macOS vaimentaa muuta ääntä, kun se uskoo, että jotain tärkeämpää soi (Siri, esteettömyysilmoitukset, ilmoitukset). Liipaisimen päätyttyä taso ei joskus palaa kokonaan takaisin.</li>
+<li><strong>Bluetooth-kättelyn nollaus:</strong> AirPods ja muut Bluetooth-laitteet neuvottelevat äänenvoimakkuuden uudelleen yhdistämisen yhteydessä. Yhdistäminen uudelleen kesken istunnon voi napsauttaa lähdön oletusarvolle tai paljon äänekkäämmälle/hiljaisemmalle tasolle.</li>
+<li><strong>Lähtölaitteen vaihto:</strong> Kun irrotat kuulokkeet, telakan tai vaihdat näytön kaiuttimiin, jokainen lähtö muistaa oman äänenvoimakkuutensa. Eteen- ja taaksepäin vaihtaminen näyttää "satunnaiselta" nollaukselta.</li>
+<li><strong>Sovelluskohtaiset oletusasetukset:</strong> Jotkut sovellukset (selaimet, videosoittimet, neuvottelutyökalut) asettavat oman hyötynsä käynnistyksen yhteydessä tai uuden streamin alkaessa ohittaen sen, mitä sinulla oli.</li>
+<li><strong>Käynnistysääni ja kirjautumistila:</strong> Käynnistysääni ja sisäänkirjautuminen voivat siirtää järjestelmän äänenvoimakkuutta takaisin oletusarvolle, jota et valinnut.</li>
+</ul>
+
+<h2>Korjaa ensin sisäänrakennetut syyt</h2>
+
+<p>Käy nämä läpi järjestyksessä. Useimmat "nollausitse itsensä" valitukset häviävät, kun vaimentaminen ja Bluetooth suljetaan pois.</p>
+
+<ul>
+<li><strong>Sammuta käynnistysääni.</strong> Järjestelmäasetukset → Ääni → poista valinta <em>Toista ääni käynnistyksen yhteydessä</em>. Tämä estää käynnistysääntä nollaamasta perustasoasi.</li>
+<li><strong>Vähennä tai poista käytöstä vaimentamisen liipaimia.</strong> Valitse Järjestelmäasetukset → Esteettömyys → Puhuttu sisältö ja Siri käytöstä puhutut ilmoitukset, joita et tarvitse. Vähemmän laukaisimia tarkoittaa vähemmän hetkiä, jolloin macOS vaimentaa ääntä ja unohtaa palauttaa sen.</li>
+<li><strong>Yhdistä ongelmalliset Bluetooth-laitteet uudelleen.</strong> Poista AirPods tai kuulokkeet Bluetooth-asetuksista ja yhdistä ne uusiin. Vanhentunut profiili on yleinen syy äänenvoimakkuuden katkeamiseen yhteyden aikana.</li>
+<li><strong>Aseta jokainen tulostuslaite tarkoituksella.</strong> Liitä jokainen käyttämäsi lähtö (sisäänrakennettu, näyttö, kuulokkeet) ja säädä sen äänenvoimakkuus kerran. macOS tallentaa äänenvoimakkuuden laitetta kohden, joten niiden kaikkien asettaminen poistaa yllätyksen, kun vaihdat.</li>
+<li><strong>Palauta Core Audio, jos se on jumissa.</strong> Avaa Terminal ja suorita <code>sudo killall coreaudiod</code>. Tämä käynnistää äänidaemonin uudelleen ilman uudelleenkäynnistystä ja tyhjentää ripustustilan, joka voi aiheuttaa epätasaisia ​​​​tasoja.</li>
+<li><strong>Päivitä ja käynnistä sitten uudelleen.</strong> Early Tahoe Point julkaisee toimitetut äänikorjaukset. Varmista, että käytät uusinta versiota ja käynnistä uudelleen kerran päivityksen jälkeen.</li>
+</ul>
+
+<p>Jos nollaukset loppuvat, syyllinen oli jokin edellä mainituista. Jos sinun <em>järjestelmä</em> äänenvoimakkuus on vakaa, mutta yksittäiset sovellukset ajelehtivat kovemmin tai hiljaisemmiksi kuin mikään muu, olet saavuttanut sisäänrakennettujen säätimien rajan.</p>
+
+<h2>Todellinen ero: macOS ei voi lukita äänenvoimakkuutta sovelluskohtaisesti</h2>
+
+<p>Tässä on turhauttava osa. Windows:lla on ollut sovelluskohtainen äänenvoimakkuuden mikseri vuosia – avaat sen, vedät yhden sovelluksen liukusäädintä ja se pysyy siellä. macOS ei ole koskaan toimittanut sellaista. Järjestelmässä on täsmälleen yksi äänenvoimakkuuden liukusäädin, ja jokainen sovellus taistelee siitä. Joten kun selaimen välilehti räjäyttää automaattisesti toistetun mainoksen tai videopuhelu kuuluu kaksi kertaa niin äänekkäästi kuin musiikkisi, ainoa vaihtoehtosi on käyttää päääänenvoimakkuutta manuaalisesti – mikä on juuri se "miksi tämä muuttuu" -silmukka, jota yrität paeta.</p>
+
+<blockquote>Järjestelmän liukusäädin on yksi jaettu valitsin. Ilman sovelluskohtaista mikseria "aseta ja unohda" on mahdotonta varastossa olevalla macOS:lla – jokin ohittaa sinut aina.</blockquote>
+
+<h2>Lukitse kiinteä äänenvoimakkuus sovelluskohtaisesti SoundDial:lla</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> lisää sovelluskohtainen mikseri macOS puuttuu. Se sijaitsee valikkopalkissasi ja antaa jokaiselle käynnissä olevalle sovellukselle oman äänenvoimakkuuden liukusäätimen, isäntäsovelluksesta riippumatta. Koska se muistaa kullekin sovellukselle asettamasi tason, se ratkaisee suoraan "nollausitse" -ongelman: päätät kerran ja sovellus avautuu samalla äänenvoimakkuudella joka kerta.</p>
+
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti:</strong> pidä musiikki 40 %:ssa ja videopuhelu 80 %:ssa samaan aikaan ilman master-liukusäädintä jongleerausta.</li>
+<li><strong>Sovelluskohtainen mykistys ja tehostus:</strong> hiljennä meluisa sovellus välittömästi tai työnnä liian hiljainen sovellus yli 100 %, kun sen oma ääni on heikko.</li>
+<li><strong>Äänenvoimakkuusprofiilit:</strong> tallenna asetukset "työtä", "pelaamista" tai "focus" varten ja vaihda koko yhdistelmä yhdellä napsautuksella.</li>
+<li><strong>Automaattinen vaimennus omilla ehdoillasi:</strong> laske taustasovelluksia automaattisesti, kun puhut tai kun valittu sovellus on aktiivinen – sen sijaan, että macOS tekisi päätöksen.</li>
+<li><strong>Nopea lähdön vaihto:</strong> hypätä kaiuttimien, kuulokkeiden ja monitorin ääntä valikkopalkista ilman asetuksiin sukellusta.</li>
+</ul>
+
+<p>Se on 14,99 euron kertaostos Mac App Store:lta – ei tilausta, ei ohjaimia, ei DMG:ta eikä ydinlaajennuksia. Koska se on täysin hiekkalaatikko ja App Store-jaettu, et asenna vanhaa äänikextiä, jonka Tahoe saattaa estää seuraavassa päivityksessä. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> asettaa tasosi tuettujen sovellusliittymien avulla, jotta muistamasi asemat selviävät päivitykset ja uudelleenkäynnistykset.</p>
+
+<h2>Kumpaa lähestymistapaa todella tarvitset?</h2>
+
+<p>Jos koko järjestelmän äänenvoimakkuus hyppää, aloita yllä olevista sisäänrakennetuista korjauksista – vaimentaminen, Bluetooth ja käynnistysääni useimmissa tapauksissa. Jos ongelma on sen sijaan se, että yksi sovellus on aina outo tai olet kyllästynyt siihen, että master-liukusäädin on kompromissi, sovelluskohtainen mikseri on ainoa oikea vastaus. macOS ei lisää sitä, joten valikkopalkin työkalu on käytännöllinen reitti sekoitukseen, joka pysyy aidosti siellä, missä sen laitat.</p>
+
+<p>Oletko kyllästynyt Tahoen äänenvoimakkuuden liukusäätimen jahtaamiseen? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja lukitse muistettu volyymi jokaiselle sovellukselle – 14,99 € kerran, ei tilauksia, ei ohjaimia.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "Ohjaa DAW-näytön äänenvoimakkuutta erikseen Mac:n järjestelmääänestä",
+    description: "macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden mikseriä, joten DAW ja järjestelmääänet jakavat yhden tason. Näin ohjaat Logic-, Ableton- tai GarageBand-näytön äänenvoimakkuutta selaimesta ja ilmoituksista riippumatta.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta, joten DAW ja kaikki muu jakavat yhden järjestelmän liukusäätimen. Jos haluat asettaa näytön tason itsenäisesti selaimista, Slack:sta ja ilmoituksista, tarvitset sovelluskohtaisen äänenvoimakkuuden säätimen. Menu-palkin mikseri kuten <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> antaa Logic:lle, Ableton:lle ja GarageBand:lle oman äänenvoimakkuuden, erillään järjestelmääänestä.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ohjaa DAW-näytön äänenvoimakkuutta erikseen Mac:n järjestelmääänestä" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi yksi äänenvoimakkuuden liukusäädin pilaa valvontasi</h2>
+
+<p>Kun tuotat, DAW on vain yksi monista ääntä tuottavista asioista. Viitekappale toistetaan selaimen välilehdellä. Slack-pingit saapuvat. YouTube-opetusohjelma toimii toisessa näytössä. Windows:ssa Volume Mixerin avulla voit tasapainottaa nämä kaikki itsenäisesti. Apple ei koskaan toimittanut macOS:lle vastaavaa – äänenvoimakkuusnäppäimet ja valikkopalkin liukusäädin liikkuvat <em>kaikki</em> kerralla.</p>
+
+<p>Se aiheuttaa todellisen ongelman kaikille, jotka sekoittavat korvan mukaan. Valitset mukavan Logic-valvontatason, jonka jälkeen ilmoitus kuuluu samalla tasolla ja puhaltaa korvasi ulos. Tai käännät järjestelmän alas suojataksesi kuuloasi kovan kulun aikana, ja nyt vertailuraitasi on liian hiljainen verrattavaksi. Valvontareferenssisi ei ole enää vakaa, ja vakaa referenssi on koko sekoittamisen pointti.</p>
+
+<blockquote>Tasainen seuranta on yksi harvoista tavoista, jotka parantavat sekoituksiasi mitattavissa olevasti. Jos järjestelmän äänet pakottavat sinut liikuttamaan pääliukusäädintä, menetät johdonmukaisuuden.</blockquote>
+
+<h2>Mitä "erillinen DAW-tilavuus" oikeastaan tarkoittaa</h2>
+
+<p>Tuottajat yhdistävät tässä kaksi eri asiaa, ja ne kannattaa erottaa:</p>
+
+<ul>
+<li><strong>Liitäntä / päälähtötaso</strong> — ääniliitännän tai näytönohjaimen laitteistonuppi. Tämä asettaa absoluuttisen kuunteluvoimakkuutesi ja sen pitäisi pysyä paikallaan kalibroinnin jälkeen.</li>
+<li><strong>Sovelluskohtainen ohjelmiston määrä</strong> — kuinka äänekäs kukin sovellus on <em>ennen</em> se saavuttaa tuotoksen. Tämä macOS:lta puuttuu. Sen avulla voit pitää DAW yhtenäisenä ja kääntää Chrome:n, musiikin tai ilmoitusäänet alas sängyn tasolle.</li>
+</ul>
+
+<p>Haluat toisen. Tavoitteena ei ole heikentää DAW:ta, vaan kaikki muu siihen verrattuna, jotta DAW pysyy äänekkäimpänä, yhtenäisinä lähteenä ja häiriötekijät ovat hiljaa taustalla.</p>
+
+<h2>Kuinka tehdä se sovelluskohtaisella mikserillä</h2>
+
+<p>Valikkopalkkisekoitin, kuten <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> luettelee kaikki tällä hetkellä ääntä toistavat sovellukset ja antaa kullekin oman liukusäätimen. Tuottajan työnkulku näyttää tältä:</p>
+
+<ul>
+<li><strong>Kalibroi käyttöliittymäsi kerran.</strong> Aseta äänirajapinta tai näytönohjain mukavalle, toistettavalle vertailutasolle ja jätä se. Tämä on kiinteä ankkurisi.</li>
+<li><strong>Aseta DAW 100 %:iin.</strong> Jätä mikserissä Logic, Ableton tai GarageBand täydelle ohjelmiston äänenvoimakkuudelle, jotta se kulkee yhtenäisenä. DAW:n oma master-fader tekee silti hienon miksauksen.</li>
+<li><strong>Vedä kaikki muu alas.</strong> Pudota Chrome, Safari, Music ja Slack alemmalle tasolle – vaikkapa 40–60 % – jotta referenssikappaleet ja viestit jäävät miksauksesi alle kilpailemisen sijaan.</li>
+<li><strong>Mykistä meluisa juttu.</strong> Sovelluskohtaisen mykistyksen avulla voit hiljentää selaimen tai chat-sovelluksen kokonaan koskematta valvontaketjuun. Yksi napsautus ja DAW jatkaa pelaamista koskemattomana.</li>
+</ul>
+
+<p>Koska DAW:n liukusäädin ei koskaan liiku, valvontareferenssisi pysyy vakaana koko istunnon ajan. Voit kääntää referenssiraidan nopeaa A/B:tä varten ja mykistää sen, eikä miksaustasosi ole muuttunut desibeliäkään.</p>
+
+<h2>Hiljaisen sovelluksen tehostaminen muiden hylkäämisen sijaan</h2>
+
+<p>Joskus ongelma etenee toisin päin. Karkea demopomppu, äänimuistio tai hiljainen viittaus toistetaan paljon istuntotason alapuolella. Käyttöliittymän kääntäminen ylös sen kuulemiseksi tarkoittaa, että kaikki muu on nyt liian kovaa. Sovelluskohtainen <strong>äänenvoimakkuuden lisäys</strong> antaa sinun työntää yhden hiljaisen sovelluksen yli 100 %, jotta se vastaa työtasoasi – koskematta kalibroituun ulostuloosi. Se on osa, jota Windows' mikserissä ei koskaan ollut, ja se on yksi hyödyllisimmistä työkaluista, kun kuuntelet materiaalia DAW:n ulkopuolelta.</p>
+
+<h2>Profiilit eri istuntotyypeille</h2>
+
+<p>Ihanteellinen tasapainosi ei ole sama jokaisessa tehtävässä. Seuranta, miksaus ja rento kuuntelu haluavat kukin erilaisen yhdistelmän sovellustasoja. Äänenvoimakkuusprofiilien avulla voit tallentaa asetukset ja palauttaa sen välittömästi:</p>
+
+<ul>
+<li><strong>Sekoitus:</strong> DAW 100 %, selain ja musiikki alhaalla, chat mykistetty.</li>
+<li><strong>Kuunteluviite:</strong> Musiikki- tai suoratoistosovellus ylös, DAW alas.</li>
+<li><strong>Puhelut / yhteistyö:</strong> neuvottelusovellus ylös, DAW vedetään taaksepäin, jotta se ei vuoda puheluun.</li>
+</ul>
+
+<p>Profiilien vaihtaminen päihittää viiden liukusäätimen käsin säätämisen joka kerta, kun vaihdat vaihdetta.</p>
+
+<h2>Automaattinen vaimennus ja nopea lähdön vaihto</h2>
+
+<p>Kaksi muuta asiaa ovat tärkeitä studiossa. <strong>Automaattinen vaimennus</strong> voi automaattisesti upottaa taustasovelluksia, kun ensisijainen lähde puhuu tai toistaa, joten puhelu tai tärkeä ääni katkeaa aina. Ja <strong>nopea lähdön vaihto</strong> valikkopalkin avulla voit siirtyä käyttöliittymäsi, näyttöjesi ja kuulokkeiden välillä syventymättä järjestelmäasetuksiin – jatkuva tehtävä, kun tarkistat yhdistelmää eri järjestelmissä.</p>
+
+<h2>Miksei virtuaalinen ääniohjain?</h2>
+
+<p>Jotkut reititystyökalut ratkaisevat tämän asentamalla ydintason virtuaalisen ääniohjaimen. Ne ovat tehokkaita, mutta raskaita: ne voivat rikkoutua macOS-päivitysten jälkeen, lisätä latenssia ja vaatia syvällisiä järjestelmän käyttöoikeuksia. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on hiekkalaatikolla ja toimitetaan Mac App Store:n kautta – ei ohjaimia, ei DMG:ta, ei aggregaattilaitteen asetuksia. Erityisesti sovelluskohtaisessa hallinnassa se on paljon yksinkertaisempi tapa kuin suunnitella äänireitityksen uudelleen.</p>
+
+<p>Oletko valmis pitämään valvontatasosi vakaana, kun kaikki muu pysyy paikoillaan? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> kertaluonteisella 14,99 €:lla ja anna DAW:lle oma volyymi.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "Yksinkertaisempi Audio Hijack vaihtoehto sovelluskohtaiselle äänenvoimakkuudelle Mac:lla",
+    description: "Jos haluat vain itsenäisen äänenvoimakkuuden sovelluskohtaisesti macOS:ssa, Audio Hijack on ylivoimainen. Tässä on kevyempi, halvempi valikkopalkkivaihtoehto, joka säätää sovelluskohtaista äänenvoimakkuutta, mykistää ja tehostaa ilman äänen reititystä.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos haluat vain itsenäisen äänenvoimakkuuden sovelluskohtaisesti macOS:ssa, Audio Hijack on enemmän työkalua kuin tarvitset. Se on ammattimainen äänen reititys- ja tallennuspaketti (noin 79 dollaria), joka on suunniteltu sieppaamiseen, tehosteisiin ja istuntokaavioihin. Kevyt valikkopalkkisekoitin, jolla voit kääntää yhden sovelluksen alas ja toisen ylös <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on nopeampi, halvempi ja aina valmis.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – yksinkertaisempi Audio Hijack vaihtoehto sovelluskohtaiselle äänenvoimakkuudelle Mac:lla" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi ihmiset tavoittelevat Audio Hijack:ta</h2>
+
+<p>macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia Volume Mixerissä, mutta Mac:ssa äänenvoimakkuusnäppäimet ja valikkopalkin liukusäädin siirtävät vain yhtä asiaa: järjestelmän isäntä. Ei ensimmäisen osapuolen tapaa sanoa "pidä Spotify 40 %:ssa, mutta jätä videopuheluni 100 %:iin".</p>
+
+<p>Joten ihmiset etsivät kiertotapaa ja päätyvät Audio Hijack:lle. Se <em>voi</em> tehdä sovelluskohtaista äänenvoimakkuutta, koska se voi siepata ja käsitellä ääntä mistä tahansa yksittäisestä sovelluksesta. Mutta tämä ominaisuus on sivuvaikutus sille, mihin se todellisuudessa on suunniteltu: äänen tallentaminen sovelluksista ja laitteistosta, tehosteiden ketjuttaminen, reititys virtuaalisten laitteiden välillä ja uudelleenkäytettävien istuntoputkien rakentaminen. Siinä se on todella erinomaista. Se on vain raskas vastaus kevyeen kysymykseen.</p>
+
+<h2>Missä Audio Hijack muuttuu ylivoimaiseksi</h2>
+
+<p>Muutama asia turhauttaa ihmisiä, jotka halusivat vain äänenvoimakkuuden liukusäätimen:</p>
+
+<ul>
+<li><strong>Hinta.</strong> Audio Hijack on noin 79 dollaria. Se on reilua sovelluksen äänitysstudiolle; se on paljon selaimen välilehden sulkemiseen.</li>
+<li><strong>Sen täytyy jatkaa käynnissä.</strong> Sen sovelluskohtainen käsittely toimii vain, kun sovellus on auki ja asianomainen istunto on aktiivinen. Lopeta se ja äänenvoimakkuus palautuu. Pidät koko äänityöaseman paikallaan vain pitääksesi liukusäätimen paikallaan.</li>
+<li><strong>Istuntopohjainen ajattelu.</strong> Rakennat istuntoja lohkoilla ja yhteyksillä. Tehokas kaappaamiseen, mutta se on paljon käsitteellistä, kun tavoitteena on "tämä sovellus hiljaisempi, tuo sovellus äänekkäämpi".</li>
+<li><strong>Käyttöliittymä on syvä.</strong> Tehosteet, reititys, mittarit, lohkojohdot – runsas pinta-ala, jota enimmäkseen huomioi, jos et koskaan tallenna mitään.</li>
+</ul>
+
+<blockquote>Nyrkkisääntö: jos haluat <em>ennätys tai reitti</em> audio, Audio Hijack ansaitsee hintansa. Jos vain haluat <em>tasapaino</em> ääntä sovellusten välillä, maksat työpajasta, kun tarvitsit nuppia.</blockquote>
+
+<h2>Yksinkertaisempi vaihtoehto: valikkopalkin äänenvoimakkuuden mikseri</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ottaa sen yhden työn, jota useimmat ihmiset todella tulivat, ja tekee vain sen. Se asuu valikkopalkissasi. Napsauta kuvaketta ja saat live-luettelon kaikista parhaillaan ääntä toistavista sovelluksista, joista jokaisella on oma liukusäädin. Vedä Spotify 30 %:iin, jätä puhelu 100 %:iin, mykistä Slack kokonaan – valmis, istuntoa ei tarvitse rakentaa.</p>
+
+<p>Mitä se kattaa:</p>
+
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> - Jokainen äänilähde saa oman liukusäätimen, jota voidaan säätää reaaliajassa.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi meluisa sovellus napsautuksella koskematta mihinkään muuhun.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> - paina hiljaista sovellusta <em>edellä</em> 100 %, kun sen oma max on vielä liian pehmeä. Tämä on osa, jota järjestelmän liukusäädin ei voi koskaan tehdä.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — Tallenna koko sekoitus (musiikki hiljaa, puhelut äänekkäitä, ilmoitukset mykistetty) ja hae se yhdellä napsautuksella tietyssä kontekstissa.</li>
+<li><strong>Automaattinen vaimennus</strong> — vaimentaa taustaäänen automaattisesti, kun jotain tärkeämpää alkaa, jotta puhelu tai video ei jää soittolistasi alle.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kuulokkeiden, kaiuttimien ja muiden lähtöjen välillä samasta valikosta.</li>
+</ul>
+
+<h2>Käytännöllistä: saat sovelluskohtaisen hallinnan alle minuutissa</h2>
+
+<p>Asetusero on koko asian ydin. Reititystyökalulla voit luoda istunnon, lisätä lähdelohkon, kytkeä sen ja pitää sovelluksen käynnissä. Tässä se pohjimmiltaan:</p>
+
+<ul>
+<li>Asenna <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mallista Mac App Store.</li>
+<li>Toista ääntä muutamassa sovelluksessa, jotta ne näkyvät luettelossa.</li>
+<li>Napsauta valikkopalkin kuvaketta ja vedä kunkin sovelluksen liukusäädintä maun mukaan.</li>
+<li>Voit halutessasi tallentaa sekoituksen profiilina tai tehostaa liian hiljaista sovellusta yli 100 %.</li>
+</ul>
+
+<p>Koska se jaetaan Mac App Store:n kautta, se on hiekkalaatikolla ja asennetaan kuten mikä tahansa tavallinen sovellus – ei <code>.dmg</code> vetää, ei ydinlaajennusta, ei suojausasetuksissa hyväksyttävää ääniohjainta, eikä mitään, mikä tarvitsee uudelleenhyväksyntää macOS-päivityksen jälkeen. Tällä viimeisellä seikalla on merkitystä: ohjainpohjaiset mikserit rikkovat historiallisesti käyttöjärjestelmän päivityksiä ja vaativat järjestelmätason komponentin uudelleenasentamisen. Hiekkalaatikolla varustettu App Store-sovellus välttää koko ylläpitoluokan.</p>
+
+<h2>Kumpi sinun pitäisi valita?</h2>
+
+<p>Ole rehellinen työn suhteen. Valitse <strong>Audio Hijack</strong> jos haluat tallentaa sovelluksen tai laitteiston ääntä, käyttää reaaliaikaisia tehosteita tai rakentaa reitityskaavioita virtuaalisten laitteiden välillä. Se on sen kotikenttä ja se on jokaisen dollarin arvoinen siellä.</p>
+
+<p>Valitse erillinen valikkopalkkisekoitin, jos todellinen tarpeesi on "anna minun asettaa kunkin sovelluksen äänenvoimakkuus erikseen". Käytät 14,99 € kerran ~79 dollarin sijaan, ohitat istunnon rakentamisen ja saat tehostuksen, mykistyksen, profiilit ja vaimentamisen paneelissa, jonka avaat valikkopalkista. Ei tallennusominaisuuksia, joita et koskaan kosketa, ei taustalla toimivaa työasemaa, joka pitää liukusäätimen paikallaan.</p>
+
+<p>Useimmat ihmiset, jotka yrittivät Audio Hijack:ta äänenvoimakkuuden tasapainottamiseen, ratkaisivat pienen ongelman suurella työkalulla. Jos se olet sinä, pieni työkalu sopii paremmin - ja maksaa murto-osan yhtä paljon.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> 14,99 €, kertaluonteinen – sovelluskohtainen äänenvoimakkuus, tehostus, mykistys, profiilit ja automaattinen vaimennus suoraan valikkopalkista.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "Boom 3D Vaihtoehto: Sovelluskohtainen äänenvoimakkuus ilman turvotusta (Mac)",
+    description: "Jos käytit Boom 3D:ta pääasiassa äänen tehostamiseen, mutta halusit todella sovelluskohtaisen äänenvoimakkuuden säädön, SoundDial on kevyempi Mac-vaihtoehto: riippumaton äänenvoimakkuus sovelluskohtaisesti, sovelluskohtainen mykistys ja tehostus, kertahinta, ei koko järjestelmän laajuista EQ:ta tai ohjaimia.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos tavoitit Boom 3D:n äänenvoimakkuuden lisäämiseksi, mutta halusit itse asiassa ohjata jokaista sovellusta erikseen, haluat eri työkalun. Boom 3D on koko järjestelmän kattava äänenvoimakkuuden vahvistin ja taajuuskorjain. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on kohdennettu sovelluskohtainen äänenvoimakkuuden mikseri: erillinen äänenvoimakkuus, mykistys ja tehostus jokaiselle sovellukselle, kertaluonteinen 14,99 €, ei taajuuskorjainta, ei ohjaimia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D Vaihtoehto: Sovelluskohtainen äänenvoimakkuus ilman turvotusta (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mitä Boom 3D todella tekee (ja ei)</h2>
+<p>Boom 3D on rakennettu kolmen asian ympärille: järjestelmän laajuinen äänenvoimakkuuden korotus, 31-kaistainen taajuuskorjain ja 3D "surround"-tehosteet. Se koskee niitä <em>kaikki</em> Mac toistaa kerralla. Siitä on todella hyötyä, jos tavoitteenasi on äänenvoimakkaampi kannettava tietokone tai bassokäyrä, josta pidät kaikkialla.</p>
+<p>Mitä varten Boom 3D:ta ei ole rakennettu, on sovellusten käsitteleminen itsenäisinä kanavina. Ei ole selkeää tapaa sanoa "Spotify 40%, videopuheluni 100% ja tämä selaimen välilehti mykistetty." Sen liukusäädin siirtää koko sekoitusta. Ja koska se asentaa ääniohjaimen istumaan signaalitiellä, se koskettaa järjestelmääsi alemmalla tasolla kuin hiekkalaatikkoapuohjelma. Se on myös sijoitettu maksulliseksi tuotteeksi, joka sisältää päivitysjaksot, eikä pienen kertaluonteisen työkalun sijasta.</p>
+<blockquote><p>Yleinen tarina: ihmiset asentavat Boom 3D:n tehdäkseen yhden hiljaisen sovelluksen äänekkäämmäksi ja ymmärtävät sitten, että todellinen ongelma oli, että macOS:ssa ei ole lainkaan sovelluskohtaista äänenvoimakkuuden mikseriä.</p></blockquote>
+
+<h2>Rako: macOS:ssa ei ole tilavuussekoitinta</h2>
+<p>Tämä yllättää Windows:sta tulevat ihmiset. Windows:lla on ollut sovelluskohtainen Volume Mixer vuosia – napsauta kaiutinta hiiren kakkospainikkeella ja aseta kunkin sovelluksen taso erikseen. macOS ei yksinkertaisesti toimita tätä. Saat yhden päätaltion ja sen sisäisen liukusäätimen, jonka kukin sovellus sattuu paljastamaan. Ei ole käyttöjärjestelmätason tapaa tasapainottaa Slack:ta YouTube-välilehden ja pelin välillä.</p>
+<p>Joten kun musiikkisovellus hukuttaa puhelusi, ainoat alkuperäiset vaihtoehdot ovat karkeita: käännä isäntä alas (joka hiljentää kaiken) tai kaivaa kunkin sovelluksen omia asetuksia toivoen, että siinä on äänenvoimakkuuden säädin. Boom 3D ei myöskään sulje tätä aukkoa – se tekee koko sekoituksen äänekkäämmäksi, ei jokaisesta sovelluksesta.</p>
+
+<h2>Mihin SoundDial sopii</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on puuttuva mikseri. Se asuu valikkopalkissasi ja antaa jokaiselle käynnissä olevalle sovellukselle oman rivin omalla liukusäätimellä. Tämä on keskeinen ero Boom 3D:hen: yhden globaalin tehosteen sijaan saat lähdekohtaisen ohjauksen.</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> — aseta Spotify arvoon 30 %, kun videopuhelu pysyy 100 %:ssa.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi meluisa sovellus välittömästi koskematta mihinkään muuhun.</li>
+<li><strong>Sovelluskohtainen tehostus</strong> — Jos pidit Boom 3D:n äänekkäämästä kuin 100 % tempusta, SoundDial pitää sen, mutta kohdistuu yhteen sovellukseen koko järjestelmän sijaan. Hiljaiset sovellukset työntyvät yli normaalin kattonsa itsestään.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna mikserin asettelu (esim. "pelaaminen", "kokous", "musiikki") ja hae se yhdellä napsautuksella sen sijaan, että tasapainottaisit liukusäätimiä joka kerta.</li>
+<li><strong>Automaattinen vaimennus</strong> — upottaa taustaäänen automaattisesti, kun jotain tärkeää alkaa, jotta puhelu tai pelivihje ei jää musiikin alle.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kuulokkeiden, kaiuttimien ja muiden lähtöjen välillä samasta valikosta.</li>
+</ul>
+<p>Se, mitä SoundDial ei tarkoituksella tee, on Boom 3D:n loput ominaisuudet. Ei ole 31-kaistaista EQ:ta, ei faux-surround-prosessointia, ei järjestelmän laajuista tehosteketjua. Jos haluat masterointitason taajuuskorjaimen, Boom 3D tai erillinen äänipaketti on oikea valinta. Jos se, minkä vuoksi avasit Boom 3D:n, oli <em>äänenvoimakkuutta</em>, pinta-ala on paisunut, jonka kantamisesta maksat.</p>
+
+<h2>Tehosta ilman kuljettajaa</h2>
+<p>"Bost"-kysymys ansaitsee suoran vastauksen, koska yleensä sen takia Boom 3D-käyttäjät ostavat vaihtoehtoja. Boom 3D:n tehostus on globaalia ja kuljettajapohjaista. SoundDial:n tehostus on sovelluskohtainen ja toimii Applen sovellus-hiekkalaatikkomallissa – se jaetaan Mac App Store:n kautta, joten siinä ei ole erillistä asennusohjelmaa, ydintason ohjainta eikä jäljelle jääviä järjestelmäkomponentteja, jotka poistettaisiin myöhemmin. Saat "Tee tämä yksi hiljainen sovellus äänekkäämmäksi" -tuloksen ilman, että kuljettaja ohjaa koko äänipolkuasi.</p>
+
+<h2>Hinta: kertaluonteinen vs. jatkuva</h2>
+<p>Boom 3D on maksullinen sovellus, jolla on oma päivitys- ja lisenssimallinsa, ja hinta vaihtelee alustan ja version mukaan. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on kertaostos hintaan 14,99 € – osta kerran, pidä se, ei tilausta eikä versiokohtaista takaisinostoa, jotta mikseri pysyy toiminnassa. Jos hyödynnät valikkopalkissa joka päivä, kiinteä hinta vanhenee paremmin kuin tuote, jota sinun on ostettava uudelleen.</p>
+
+<h2>Kumpi sinun pitäisi valita?</h2>
+<ul>
+<li><strong>Valitse Boom 3D</strong> jos todellinen tarpeesi on vakava taajuuskorjain ja koko järjestelmän kattavat äänitehosteet, etkä välitä ääniohjaimesta.</li>
+<li><strong>Valitse SoundDial</strong> Jos haluat Windows:n käyttäjien itsestäänselvyytenä pitämän – todellisen sovelluskohtaisen äänenvoimakkuuden mikserin – sekä kohdistetun tehostuksen, profiilit ja automaattisen vaimentamisen kertahintaan ja ilman asentavia ohjaimia.</li>
+</ul>
+<p>Suurin osa ihmisistä, jotka pomppivat Boom 3D:sta, kuuluvat toiseen ryhmään. He eivät halunneet virittää taajuuksia; he halusivat selaimen hiljaisemman kuin puhelun. Juuri tätä työtä varten SoundDial on rakennettu.</p>
+
+<p><strong>Haluatko sovelluskohtaisen äänenvoimakkuuden säädön Mac-laitteeseesi ilman EQ-paisutusta tai tilausta?</strong> <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> — 14,99 € kerran, hiekkalaatikko, ei ohjaimia, ja jokainen sovellus saa oman liukusäätimen.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "Kuinka mykistää kaikki paitsi yksi sovellus Mac:ssa",
+    description: "macOS:ssa ei ole sovelluskohtaista äänenvoimakkuuden sekoitinta, joten kaikkien sovellusten hiljentämiseen yhtä lukuun ottamatta tarvitaan apulainen. Näin kuulet vain puhelusi, suoratoistosi tai pelisi, kun kaikki muu pysyy mykistettynä.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua tapaa mykistää yksittäisiä sovelluksia, joten jos haluat kuulla vain yhden sovelluksen, tarvitset sovelluskohtaisen äänenvoimakkuuden mikserin. Asenna <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, avaa valikkopalkin mikseri, mykistää kaikki sovellukset paitsi se, jonka haluat kuulla, ja sovellus jatkaa toistoa, kun taas muut vaimentuvat välittömästi.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Kuinka mykistää kaikki paitsi yksi sovellus Mac:ssa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi macOS ei voi tehdä tätä yksin</h2>
+<p>Windows:lla on ollut Volume Mixer yli vuosikymmenen ajan: napsauta hiiren kakkospainikkeella kaiutinkuvaketta, niin jokainen käynnissä oleva sovellus saa oman liukusäätimen. macOS ei ole koskaan toimittanut tätä. Mac:n äänenvoimakkuusnäppäimet ohjaavat vain yhtä asiaa, päälähtötasoa. Kun sammutat järjestelmän, kaikki romahtaa yhdessä. Kun mykisät, kaikki mykistyy.</p>
+<p>Se on hyvä, kunnes sinulla on viisi asiaa, jotka pitävät ääntä samanaikaisesti. Olet videopuhelussa, mutta selaimen välilehti toistaa mainosta automaattisesti, Spotify on edelleen käynnissä, peli pingilee taustalla ja Slack soi. Ainoat alkuperäiset vaihtoehdot ovat sovellusten sulkeminen, niiden mykistäminen yksitellen kunkin sovelluksen omissa asetuksissa (jos se edes on mahdollista) tai kuulokkeiden repiminen. Mikään niistä ei anna sinun sanoa "pidä tämä, hiljennä loput".</p>
+
+<h2>Yksinkertainen tapa: mykistää loput mikserillä</h2>
+<p>Sovellustesi ja tulostuslaitteesi välissä on sovelluskohtainen mikseri, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden ja mykistyksen säädön. Kun yksi sovellus on käynnissä, yksittäisen sovelluksen eristäminen kestää sekunteja:</p>
+<ul>
+<li>Avaa mikseri valikkopalkista. Näet live-luettelon kaikista tällä hetkellä ääntä tuottavista sovelluksista.</li>
+<li>Etsi yksi sovellus, jonka haluat kuulla, puhelusi, suoratoistosi tai pelisi.</li>
+<li>Mykistä kaikki muu. Napauta mykistyskytkintä toistensa sovellusten vieressä tai vedä sen liukusäädin nollaan.</li>
+<li>Siinä se. Yksi yksin jättämäsi sovellus jatkaa toistoa täydellä äänenvoimakkuudella, kun taas muut pysyvät hiljaa.</li>
+</ul>
+<p>kanssa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, jokaisella luettelon sovelluksella on oma liukusäädin ja oma mykistyspainike, joten tämä on kourallinen napsautuksia. Uudet sovellukset, jotka alkavat toistaa myöhemmin, näkyvät automaattisesti, joten jos ilmoitusääni yrittää hiipiä sisään, voit hiljentää sen paikan päällä koskematta kohdennettuun sovellukseesi.</p>
+
+<blockquote>Temppu on, että "kaikki paitsi yksi" mykistäminen on vain yhden sovelluksen mykistäminen. Et vaienna Mac:ta, vaan vaimentat melun sen asian ympäriltä, ​​josta todella välität.</blockquote>
+
+<h2>Tallenna se profiilina, jotta et tee sitä uudelleen</h2>
+<p>Jos tämä on asetus, jota tavoittelet usein, sen tekeminen käsin aina vanhenee. Oletetaan, että haluat aina puhelusovelluksesi ääneen ja kaiken muun pois päältä kokousten aikana tai haluat striimin edessä ja keskellä, kun pelit ja selaimet pysyvät hiljaisina. Äänenvoimakkuusprofiili tallentaa nämä tarkat sovelluskohtaiset asetukset ja ottaa ne uudelleen käyttöön yhdellä napsautuksella.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> voit tallentaa profiileja, kuten "Kokous" tai "Vain suoratoisto", ja vaihtaa niihin heti, kun tarvitset niitä. Määritä se kerran, ja yhden sovelluksen eristämisestä tulee yksi valikkopalkin toiminto viiden liukusäätimen tehtävän sijaan.</p>
+
+<h2>Älykkäämpi versio: automaattinen ankka kova mykistyksen sijaan</h2>
+<p>Joskus et halua muiden sovellusten poistuvan kokonaan, haluat vain niiden poistuvan tieltä, kun jotain tärkeämpää alkaa. Se on automaattista vajoamista. Kun ensisijainen sovellus toistetaan, taustasovellukset laskevat automaattisesti alhaiselle tasolle ja nousevat sitten takaisin ylös, kun se pysähtyy.</p>
+<p>Tämä on ihanteellinen puheluille ja suoratoistoille. Kun joku alkaa puhua, musiikkisi vaimenee, jotta voit kuulla hänet, ja kun puhelu päättyy, musiikki palaa itsestään. Saat "kuule yksi sovellus selvästi" -tuloksen ilman manuaalista mykistystä ja mykistyksen poistamista aina tilanteen muuttuessa. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> sisältää automaattisen vaimentamisen manuaalisen mikserin rinnalla, joten voit valita kovan mykistyksen täydelliseen hiljaisuuteen tai vaimentamisen pehmeämpään taustaan.</p>
+
+<h2>Tehostetaan yhtä sovellusta, jonka pidit</h2>
+<p>Yksittäisen sovelluksen eristämisessä on bonus: voit myös tehdä sen äänekkäämmäksi kuin Mac tavallisesti sallii. Jotkut sovellukset, erityisesti hiljaiset videopuhelut tai huonosti masteroidut suoratoistot, ovat tuskin kuultavissa jopa suurimmalla äänenvoimakkuudella. Sovelluskohtainen tehostus nostaa yksittäisen sovelluksen yli 100 % ilman, että järjestelmäsi ulostulo muuttuu, mikä vain vahvistaisi jo mykistettyjä sovelluksia.</p>
+<p>Joten koko liike on: vaimenna melu, pidä yksi sovellus, ja jos sovellus on liian hiljainen, tehosta sitä. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> käsittelee kaikkia kolmea samassa mikseriikkunassa.</p>
+
+<h2>Mihin et ole ilmoittautunut</h2>
+<p>Mac-äänityökalujen yleinen huolenaihe on, että ne vaativat ytimen laajennuksia, virtuaalisia ääniohjaimia tai satunnaiselta verkkosivustolta ladattuja varjoisia asennusohjelmia. Tämä on oikeutettu huolenaihe, ja siksi jotkut ihmiset välttävät näitä sovelluksia kokonaan.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on Mac App Store:ssa, hiekkalaatikolla ja asennetaan kuten mikä tahansa normaali sovellus, ei ohjaimia, ei DMG:ta, ei hyväksyttäviä järjestelmälaajennuksia. Se on kertaostos 14,99 € tilauksen sijaan, joten maksat kerran ja pidät sen. Sillä on merkitystä, kun jätät valikkopalkkiin näkymään koko päivän.</p>
+
+<h2>Pikainen yhteenveto</h2>
+<ul>
+<li>macOS:ssa ei ole alkuperäistä sovelluskohtaista äänenvoimakkuuden säätöä, joten tarvitset mikserin tehdäksesi tämän.</li>
+<li>Avaa mikseri, pidä yksi sovellus, mykistää tai nollaa kaikki muu pois.</li>
+<li>Tallenna se usein soittamiesi puhelujen tai suoratoistojen profiiliksi.</li>
+<li>Käytä automaattista vaimennusta, jos haluat, että taustasovellukset hiljennetään sen sijaan, että ne lopetetaan.</li>
+<li>Tehosta pidettyä sovellustasi, jos se on liian hiljainen yksinään.</li>
+</ul>
+
+<p>Haluatko kuulla vain sen, mikä on tärkeää, ja hiljentää loput? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja määritä ensimmäinen mykistys-kaikki muu -profiilisi alle minuutissa.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "Pidä erilainen äänenvoimakkuus kaiuttimille ja kuulokkeille Mac:ssa",
+    description: "macOS unohtaa sovellustason äänenvoimakkuuden miksauksen, kun vaihdat kaiuttimien ja kuulokkeiden välillä. Tässä on syy, miksi se tapahtuu, manuaaliset rajoitukset ja kuinka sovelluskohtainen äänenvoimakkuusmuisti korjaa sen.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS itse asiassa muistaa erillisen järjestelmävolyymin jokaiselle lähtölaitteelle, mutta se unohtaa sovellustason saldosi joka kerta, kun vaihdat. Kuulokkeet ja kaiuttimet pitävät siis omalla tasollaan, mutta samalla kun irrotat verkkojohdon, yksi sovellus räjähtää ja toinen katoaa. Korjaus on sovelluskohtainen volyymimuisti, joka selviää laitekytkimistä, johon macOS:lla ei ole omaa työkalua.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial – Säilytä eri äänenvoimakkuus kaiuttimille ja kuulokkeille Mac:ssa" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mitä macOS muistaa ja mitä ei</h2>
+
+<p>Yleinen uskomus on, että macOS käsittelee jokaista tulostuslaitetta samalla tavalla. Ei. Jokainen tulostuslaite tallentaa oman järjestelmälevynsä. Aseta MacBook-kaiuttimesi 30 %:iin ja AirPods 80 %:iin, ja macOS pitää nämä kaksi numeroa erillään. Liitä, irrota, yhdistä uudelleen, ja jokainen laite palaa siihen, mihin jätit.</p>
+
+<p>Joten miksi kokemus tuntuu silti katkenneelta? Koska tuo muisti pysähtyy yhteen maailmanlaajuiseen liukusäätimeen. macOS:ssa on täsmälleen yksi äänenvoimakkuuden säädin kaikelle tietyllä laitteella toistettavaksi. Se ei muista, kuinka äänekkäitä yksittäiset sovellukset olivat. Kun vaihdat kaiuttimista kuulokkeisiin, Spotify-, Zoom-puhelun ja YouTube-välilehden välinen tasapaino ei säily, koska tätä tasapainoa ei koskaan ollut olemassa. Jokaisella sovelluksella on sama liukusäädin.</p>
+
+<p>Tuloksena on turhautuminen, jota ihmiset kuvailevat "kaiuttimien ja kuulokkeiden eri äänenvoimakkuudella". He eivät yleensä halua vain erilaista master-tasoa laitetta kohti, vaan muistettavaa yhdistelmää: hiljaista musiikkia, kovaäänisiä puheluita, hiljennettyjä ilmoituksia ja yhdistelmää, olivatpa ne sitten pöytäkaiuttimissa tai kuulokkeissa.</p>
+
+<h2>Manuaaliset kiertotavat ja missä ne epäonnistuvat</h2>
+
+<p>Pääset sinne osittain sisäänrakennetuilla työkaluilla, ja katto kannattaa tuntea ennen kuin kurkota mitään muuta.</p>
+
+<ul>
+<li><strong>Aseta kunkin laitteen järjestelmän äänenvoimakkuus kerran.</strong> Toista ääntä kaiuttimistasi, aseta taso, vaihda sitten kuulokkeisiin ja aseta se taso. macOS säilyttää molemmat. Tämä käsittelee päävoimakkuutta laitetta kohden, mutta ei mitään sovellusta kohden.</li>
+<li><strong>Käytä sovelluskohtaista äänenvoimakkuutta siellä, missä sovellus tarjoaa sen.</strong> Spotify, VLC ja useimmilla selaimilla on oma sisäinen asemansa. Voit leikata kovaäänisen sovelluksen itse sovelluksen sisällä. Saalis: tämä asetus on sovelluksessa, ei laitteessa, joten se ei muutu, kun vaihdat kuulokkeisiin, ja useimmilla sovelluksilla (Slack, Zoom, järjestelmäilmoitukset, Mail) ei ole tällaista ohjausta ollenkaan.</li>
+<li><strong>Vaihda lähtö ohjauskeskuksesta tai valikkoriviltä.</strong> Optio-osoita valikkopalkin äänenvoimakkuuskuvaketta siirtyäksesi nopeasti laitteiden välillä. Nopea, mutta se siirtää vain päätason, ei palauta sovelluskohtaista sekoitusta.</li>
+</ul>
+
+<p>Nämä antavat sinulle laitekohtaisen päämäärän. Mikään niistä ei anna sinulle muistettua sovelluskohtaista saldoa, joka seuraa sinua eri laitteilla. Tämä aukko on juuri siellä, missä ärsytys elää, ja se on rakenteellista: käyttöjärjestelmässä ei yksinkertaisesti ole sovelluskohtaista mikseria, toisin kuin Windows, joka on toimittanut sellaisen jo vuosia.</p>
+
+<h2>Sovelluskohtainen äänenvoimakkuusmuisti ja miksi laitteen vaihtaminen on todellinen ongelma</h2>
+
+<p>Syvempi korjaus on antaa jokaiselle sovellukselle oma äänenvoimakkuus ja saada kyseiset asetukset säilymään. Siitä sovelluskohtainen mikseri pitää <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on rakennettu. Se sijaitsee valikkopalkissa, luettelee kaikki tällä hetkellä ääntä tuottavat sovellukset ja antaa jokaiselle itsenäisen liukusäätimen, mykistyksen ja jopa yli 100 %:n tehosteen hiljaisille sovelluksille.</p>
+
+<p>Kaiuttimet vs-kuulokkeet -ongelman kannalta tärkeä osa: nämä tasot muistetaan. Aseta musiikillesi 40 %, puheluille 90 % ja chattisovellukselle mykistetty ja <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> säilyttää sen sekoituksen. Kun irrotat kuulokkeet ja palaat kaiuttimien luo, et tasapainota kolmea sovellusta käsin joka kerta.</p>
+
+<p>Volyymiprofiilit vievät tätä pidemmälle. Voit tallentaa nimetyn joukon sovelluskohtaisia ​​tasoja ja palauttaa ne yhdellä napsautuksella, joten "kuulokkeet, keskittynyt työ" -yhdistelmä ja "kaiuttimet, kokoukset" -yhdistelmä ovat kukin yksi valinta manuaalisen nollauksen sijaan.</p>
+
+<blockquote><p>Henkinen muutos: lakkaa ajattelemasta yhtä pääliukusäädintä, jota jatkat vetämällä, ja ala miettimään tallennettua sekoitusta tilannekohtaisesti. Laitteen vaihtaminen lakkaa olemasta tasapainotteleva urakka.</p></blockquote>
+
+<h2>Nopea lähdön vaihto menettämättä miksausta</h2>
+
+<p>Kytkinlaitteiden tulee olla nopeita ja rikkomattomia. Samasta valikkopalkin paneelista voit vaihtaa tulostuslaitteesi, joten siirtyminen kaiuttimista kuulokkeisiin on yhdellä napsautuksella, ja sovelluskohtaiset tasot tulevat mukaan sen sijaan, että ne romahtaisivat takaisin yhteen maailmanlaajuiseen numeroon.</p>
+
+<p>Mainitsemisen arvoinen ominaisuus on automaattinen vaimennus: kun mikrofoniin kuuluu ääni (aloitat puhumisen tai puhelu alkaa), muut sovellukset laskeutuvat automaattisesti, jotta sinut kuullaan, ja palaavat sitten asetetulle tasolle myöhemmin. Samaa periaatetta sovelletaan huomioimiseen eikä laitteisiin, toinen asia, jota macOS ei tee yksinään.</p>
+
+<h2>Kuinka määrittää se</h2>
+
+<ul>
+<li>Asenna <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> mallista Mac App Store. Se on hiekkalaatikko, joten siinä ei ole ohjainta, ei DMG:ta eikä ytimen laajennusta hyväksyttäväksi.</li>
+<li>Toista ääntä eniten käyttämissäsi sovelluksissa, jotta ne näkyvät mikserissä.</li>
+<li>Aseta jokaisen sovelluksen taso, vaimenna kaikki mitä et halua ja tehosta mitään liian hiljaista.</li>
+<li>Tallenna tämä järjestely profiilina, esimerkiksi kuulokkeille viritettynä ja kaiuttimia varten.</li>
+<li>Kun vaihdat laitetta, muista vastaava profiili tai anna tallennettujen sovelluskohtaisten tasojen siirtyä eteenpäin.</li>
+</ul>
+
+<p>Rehellinen yhteenveto: macOS muistaa äänenvoimakkuuden lähtölaitetta kohden master-tasolla, mutta se ei koskaan muista sovelluskohtaista sekoitustasi, koska siinä ei ole sovelluskohtaista mikseria. Jos todellinen tavoitteesi on tasainen tasapaino musiikin, puheluiden ja ilmoitusten välillä, joka kestää jokaisen vaihdon kaiuttimien ja kuulokkeiden välillä, tarvitset sovelluskohtaisen muistin käyttöjärjestelmän päälle.</p>
+
+<p>Haluatko, että kaiuttimet ja kuulokkeet pitävät oman yhdistelmänsä säätämättä jokaista sovellusta uudelleen? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> kertaluonteinen 14,99 €, ei tilausta, ei kuljettajia.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "Sound Control lopetettu? Paras Mac sovelluskohtaisen äänenvoimakkuuden korvaaminen (2026)",
+    description: "Static Z Softwaren Sound Control on lopetettu ja hajoaa nykyaikaisessa macOS:ssa. Tässä on syy, miksi se lakkasi toimimasta, mitä se teki, ja paras sovelluskohtainen äänenvoimakkuuden mikseri, johon voit vaihtaa vuonna 2026.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Static Z Softwaren Sound Control on lopetettu, eikä sitä enää myydä tai päivitetä, ja se epäonnistuu yhä useammin nykyaikaisessa macOS:ssa, koska se luotti ydintason ääniohjaimeen, jonka Apple on lukinnut. Jos tarvitset sovelluskohtaista äänenvoimakkuutta tänään, puhtain vaihtoehto on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, hiekkalaatikolla varustettu Mac App Store-sekoitin ilman ohjaimia.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control Poistettu? Paras Mac sovelluskohtaisen äänenvoimakkuuden korvaaminen (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mitä Sound Control todella teki</h2>
+<p>Sound Control oli vuosien ajan paras vastaus todelliseen macOS-vajeeseen: Mac:ssa ei ole vieläkään sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut yksi Volume Mixerissään Vistasta lähtien, mutta macOS tarjoaa vain yhden pääliukusäätimen. Sound Control täytti tuon reiän siistillä valikkorivin paneelilla, jonka avulla voit:</p>
+<ul>
+<li>Aseta itsenäinen äänenvoimakkuus jokaiselle käynnissä olevalle sovellukselle.</li>
+<li>Mykistä yksittäiset sovellukset koskematta järjestelmän muuhun ääneen.</li>
+<li>Tehosta hiljaisia sovelluksia yli 100 prosenttia.</li>
+<li>Käytä sovelluskohtaista taajuuskorjainta ja tasapainon säätöjä.</li>
+<li>Ohjaa ääni ja kiinnitä sovelluksia tiettyihin tulostuslaitteisiin.</li>
+</ul>
+<p>Kaikille, jotka ovat koskaan käyttäneet Zoom-puhelujen räjäyttämistä tausta-YouTube-välilehden kuiskauksen aikana, tämä sovelluskohtainen ohjaus oli mullistava. Siitä tuli hiljainen peruslaite monissa Mac-tehokäyttäjien koneissa.</p>
+
+<h2>Miksi se lakkasi toimimasta</h2>
+<p>Rehellinen tekninen tarina on tärkeä tässä, koska se selittää, miksi tämä ei ole virhe, jonka joku voi yksinkertaisesti korjata. Sound Control toimi asentamalla järjestelmän ääniohjaimen – ytimen laajennuksen (kext), joka asettui macOS-ääniputkeen, jotta se pystyi sieppaamaan ja muotoilemaan uudelleen kunkin sovelluksen lähdön. Tämä syvä koukku on juuri se, mikä mahdollisti EQ- ja tehostusominaisuudet.</p>
+<p>Alkaen macOS 10.15 Catalinasta ja kiihtyen Big Surin ja Apple Siliconin siirtymisen kautta, Apple alkoi luopua ydinlaajennuksista ja suosia käyttäjätilavaihtoehtoja. Apple Silicon Mac -malleissa kolmannen osapuolen kext:iden lataaminen vaatii järjestelmän turvallisuuden heikkenemistä palautustilassa, ja Apple on tehnyt selväksi, että vanhat audio-kext-laitteet ovat lainassa. Static Z Software lopetti lopulta Sound Control:n myynnin ja kehittämisen. Tulos: uusimmissa macOS-versioissa asennukset epäonnistuvat, ääni katkeaa tai ohjain yksinkertaisesti kieltäytyy lataamasta ilman suojaustason alennuksia, joita useimmat ihmiset eivät oikeutetusti halua tehdä.</p>
+<blockquote>Tämä ei ole laiminlyönti kehittäjän puolelta. Kyseessä on alustatason muutos. Apple sulki oven sellaiselle matalan tason ääniohjaimelle, jonka ympärille Sound Control rakennettiin, eikä mikään päivitys voi avata sitä kokonaan uudelleen.</blockquote>
+
+<h2>Mikä muuttui nykyaikaisessa macOS:ssa</h2>
+<p>Apple lisäsi yhden asiaankuuluvan asian: Core Audio tarjoaa nyt Tap API:n (joka on otettu käyttöön macOS 14.2 Sonomassa), jonka avulla sovellukset voivat siepata ja käsitellä prosessikohtaista ääntä käyttäjätilasta – ei kext:ta, ei suojauksen alentamista, ei uudelleenkäynnistystä palautukseen. Tämä on sanktioitu moderni polku sovelluskohtaiselle äänelle, ja sen varaan nykyisen mikserin tulisi rakentaa. Kompromissi on rehellinen: käyttäjätilan kosketukset ovat rajoittuneempia kuin vanha ydinohjain, joten sinun pitäisi odottaa puhdasta sovelluskohtaista äänenvoimakkuutta, mykistystä ja tehostusta tarjotun täyden sovelluskohtaisen parametrisen EQ Sound Control:n sijaan.</p>
+
+<h2>Paras vaihtoehto: SoundDial</h2>
+<p>Jos haluat Sound Control:n ytimen – itsenäisen äänenvoimakkuuden sovelluskohtaisesti – Mac:ssa voit todella pitää turvallisena ja ajan tasalla, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on lähin puhdasta siirtoa koskeva vaihtoehto vuonna 2026. Se on valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri, joka on rakennettu nykyaikaiselle macOS-äänipinolle. Mitä Sound Control-työnkulusta seuraa:</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> — yksi liukusäädin per käynnissä oleva sovellus, suoraan valikkorivillä.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> - hiljennä yksi sovellus, kun kaikki muu toistaa.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> - työnnä hiljainen sovellus normaalin katon yläpuolelle.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — Tallenna mikseriasetukset eri yhteyksiä varten (puhelut, musiikki, pelit) ja vaihda niiden välillä.</li>
+<li><strong>Automaattinen vaimennus</strong> - alentaa automaattisesti taustasovelluksen äänenvoimakkuutta, hyödyllinen, kun aloitat puhumisen tai puhelu tulee.</li>
+<li><strong>Nopea lähdön vaihto</strong> — hyppää kaiuttimien, kuulokkeiden ja muiden laitteiden välillä sukellumatta järjestelmäasetuksiin.</li>
+</ul>
+<p>Käytännön erot, joilla on merkitystä muuttoon: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> toimitetaan Mac App Store:n kautta, se on hiekkalaatikolla eikä asenna ohjaimia eikä DMG:ta. Tämä tarkoittaa, ettei hyväksyttävää ytimen laajennusta, ei palautustilaa eikä Mac:n suoja-asennon alentamista – juuri ne kipukohdat tappoivat Sound Control:n. Se on 14,99 € kertaostos, ei tilaus.</p>
+
+<h2>Vaihe vaiheelta vaihtaminen</h2>
+<ul>
+<li><strong>Poista Sound Control puhtaasti.</strong> Koska se asensi ohjaimen, käytä sen omaa asennuksen poistoohjelmaa, jos se on edelleen käynnissä, tai poista sen ääniohjainkomponentit ennen uuden asentamista. Kaksi kilpailevaa äänikoukkua voivat aiheuttaa häiriöitä.</li>
+<li><strong>Asenna SoundDial mallista App Store.</strong> Uudelleenkäynnistystä tai suojausmuutoksia ei vaadita.</li>
+<li><strong>Myönnä sen pyytämä äänilupa.</strong> Tämän ansiosta se voi lukea ja hallita sovelluskohtaista lähtöä nykyaikaisessa macOS:ssa.</li>
+<li><strong>Avaa valikkopalkin paneeli ja aseta tasot.</strong> Käynnissäsi olevat sovelluksesi näkyvät yksittäisillä liukusäätimillä. säätää, mykistää tai tehostaa tarpeen mukaan.</li>
+<li><strong>Tallenna profiili.</strong> Jos sinulla oli suosikki Sound Control-asetuksia, luo ne uudelleen profiileiksi, jotta voit vaihtaa yhdellä napsautuksella.</li>
+</ul>
+
+<h2>Rehelliset odotukset</h2>
+<p>Jos ainoa syysi käyttää Sound Control:ta oli sovelluskohtainen äänenvoimakkuus, mykistys ja tehostus, moderni hiekkalaatikkosekoitin peittää sinut täysin. Jos nojasit voimakkaasti sen sovelluskohtaiseen taajuuskorjaimeen, muista, että syvä EQ oli sidottu vanhaan ohjainmalliin ja se on vaikein ominaisuus toistaa puhtaasti Applen nykyisten sääntöjen mukaan. Aseta odotukset sen mukaisesti, etkä ylläty.</p>
+
+<p>Oletko valmis saamaan sovelluskohtaisen äänenvoimakkuuden takaisin ilman kuljettajan päänsärkyä? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> - kertaluonteinen 14,99 €, hiekkalaatikko, ei tilausta, ei kuljettajia.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "SoundBunny on poissa – moderni Mac sovelluskohtainen volyymisovellus korvaa sen",
+    description: "Prosoftin SoundBunny on lopetettu. Tässä on nykyinen, aktiivisesti ylläpidetty macOS sovelluskohtainen äänenvoimakkuuden mikseri sen korvaamiseksi – sekä sovelluskohtaisten ääniasetusten siirtäminen ilman ydinohjaimia.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos SoundBunny lakkasi toimimasta tai sitä ei enää myydä, nykyaikainen korvaava on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri, joka on rakennettu nykyiselle macOS:lle. Se tarjoaa sinulle saman ydintyön – itsenäisen äänenvoimakkuuden, mykistyksen ja tehostuksen sovelluskohtaisesti – kuin 14,99 €:n kertaluonteinen Mac App Store-osto, ilman ytimen ohjainta, DMG:ta tai tilausta.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny on poissa — moderni Mac sovelluskohtainen volyymisovellus korvaa sen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mitä tapahtui SoundBunny:lle?</h2>
+<p>SoundBunny oli Prosoft Engineeringin sovelluskohtainen volyymiapuohjelma macOS:lle. Sen avulla voit asettaa eri äänenvoimakkuustason kullekin käynnissä olevalle sovellukselle suoraan valikkopalkista – hiljainen musiikki, kova puhelu, selain jossain välissä. Vuosien ajan se oli yksi harvoista työkaluista, jotka täyttivät aukon, jota Apple ei koskaan sulkenut.</p>
+<p>Ongelmana on, että SoundBunny on vanha ohjelmisto. Se ei ole pysynyt Applen macOS-ääneen ja tietoturvaan tekemien syvällisten muutosten tahdissa – Apple Silicon, tiukennettu suoritusaika, tiukentuneet järjestelmän laajennussäännöt ja vanhempien äänikoukkujen poistaminen. Kun tällainen apuohjelma lakkaa vastaanottamasta päivityksiä, se lopulta hajoaa: se ei käynnisty, se menettää sovellusstriimien hallinnan käyttöjärjestelmäpäivityksen jälkeen tai sitä ei yksinkertaisesti voida asentaa puhtaasti nykyaikaiseen Mac-laitteeseen. Jos olet siellä, et tee mitään väärin. Sovellus on takana, et sinä.</p>
+
+<h2>Miksi macOS tarvitsee edelleen kolmannen osapuolen mikserin</h2>
+<p>Tässä on rehellinen osa: tämä on todellinen aukko macOS: ssa, ei bugi, jonka voit korjata asetuksista. Windows on toimittanut sovelluskohtaista Volume Mixeria reilusti yli vuosikymmenen ajan. macOS:lla ei ole koskaan ollut sellaista. Järjestelmän äänenvoimakkuuden liukusäädin ja ääniasetukset ohjaavat sinua <em>lähtölaite</em> kokonaisuutena – jokainen sovellus ajaa samalla mestaritasolla. Ei ole sisäänrakennettua tapaa sanoa "pidä Safari 40 %:ssa, mutta Zoom 100 %:ssa."</p>
+<p>Siksi SoundBunny:n kaltaiset työkalut olivat olemassa, ja miksi vaihto on tarpeen vielä tänään. Tarve ei hävinnyt, kun sovellus poistui – Apple ei vain ole vieläkään puuttunut siihen.</p>
+
+<h2>Moderni korvaava: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on sovelluskohtainen äänenvoimakkuuden mikseri, joka sijaitsee valikkopalkissa ja tekee asioita, joihin SoundBunny:n käyttäjät luottivat. Se on rakennettu tämän päivän macOS:ta vastaan ​​eilisen sijaan. Ominaisuuden päällekkäisyys kattaa olennaiset:</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> — yksi liukusäädin per käynnissä oleva sovellus, täsmälleen SoundBunny henkinen malli.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> - hiljennä yksi meluisa sovellus koskematta kaikkeen muuhun.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> - paina hiljaista sovellusta <em>edellä</em> 100 %, kun video tai puhelu on tallennettu liian matalalle. SoundBunny ei pystynyt luotettavasti vahvistamaan aiempia järjestelmän maksimiarvoja nykyaikaisessa macOS:ssa; boost on todellinen päivitys täällä.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna joukko sovelluskohtaisia tasoja ("työ"-sekoitus, "pelisekoitus") ja vaihda niiden välillä sen sijaan, että tönäisit liukusäätimiä yksi kerrallaan.</li>
+<li><strong>Automaattinen vaimennus</strong> — laske automaattisesti taustasovelluksen äänenvoimakkuutta, kun toinen äänilähde (kuten mikrofoni puhelun aikana) aktivoituu.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden lähtöjen välillä samasta valikosta.</li>
+</ul>
+
+<h2>Miltä muutto käytännössä näyttää</h2>
+<p>Tuontivaihetta ei ole – sovelluskohtaiset äänenvoimakkuustasot eivät ole tiedosto, jota siirrät – mutta vaihto on nopea:</p>
+<ul>
+<li><strong>Irrota SoundBunny kunnolla.</strong> Lopeta se ja poista sitten sovellus. Jos se asensi apuohjelman tai kirjautumiskohteen, poista sekin, jotta kaksi apuohjelmaa eivät tappele samoista äänivirroista.</li>
+<li><strong>Asenna SoundDial mallista Mac App Store.</strong> Se on hiekkalaatikolla ja jaettu myymälän kautta, joten siihen ei ole kiinnitettävää DMG:ta eikä "tunnistamaton kehittäjä" -varoitusta. Yksi ostos, joka on sidottu Apple ID:hen.</li>
+<li><strong>Myönnä äänioikeus ensimmäisen käynnistyksen yhteydessä.</strong> macOS pyytää lupaa SoundDial:lle nähdäkseen sovelluksen äänen. Tämä on Applen tarjoama moderni, hyväksytty polku – ei ytimen laajennusta, ei uudelleenkäynnistystä, ei järjestelmän suojauksen heikkenemistä. Myönnä se ja käynnissä olevat sovelluksesi näkyvät liukusäätiminä.</li>
+<li><strong>Rakenna yhdistelmäsi uudelleen.</strong> Määritä yleiset sovelluksesi ja tallenna sitten järjestely profiilina, jotta sinun ei tarvitse koskaan tehdä sitä uudelleen.</li>
+</ul>
+
+<h2>Käytännön erot SoundBunny:sta</h2>
+<p>Tärkein ero on se <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on nykyinen ohjelmisto. Se toimii natiivina Apple Siliconilla, käyttää Applen tukemia äänirajapintoja ja on Mac App Store-sovellus – mikä tarkoittaa, että päivitykset saapuvat myymälän kautta ja se on rakennettu kestämään käyttöjärjestelmäpäivityksiä sen sijaan, että ne katkeaisi. Hiekkalaatikossa oleminen tarkoittaa myös sitä, että se ei pääse kaistansa ulkopuolelle, mikä on rauhoittavaa sovellustesi ja kaiuttimiesi välissä.</p>
+<p>Pari rehellistä huomautusta, joten odotukset ovat oikeat. Koska SoundDial toimii Applen äänikehyksessä, ohjaus on parasta tavallisille sovelluksille, jotka kulkevat normaalin järjestelmälähdön kautta. Jotkut ohjelmistot toistavat ääntä oman polkunsa tai ainutlaatuisen laitteen kautta, eikä mikään valikkopalkin mikseri – mukana SoundBunny – voi hallita niitä täysin. Ja sovelluskohtainen volyymi on luonnostaan ​​ohjelmistokerros macOS:n päällä; se ei ole laitteistosekoitin. Näissä todellisissa rajoissa se tekee SoundBunny:n aiemmin tekemänsä työn.</p>
+
+<blockquote>Jos vaihdoit Mac:han Windows:sta odottaen sovelluskohtaista Volume Mixeria, tämä työkalu täyttää tämän aukon – ja nyt sitä itse asiassa ylläpidetään.</blockquote>
+
+<p>SoundBunny:lla oli hyvä juoksu, mutta se on perintöä. Jos tarvitset sovelluskohtaista äänenvoimakkuutta, mykistystä ja tehostusta modernissa Mac:ssa, <a href="https://apps.apple.com/app/id6772792641">hanki SoundDial malliin Mac App Store</a> — 14,99 € kerran, ei tilausta, ei kuljettajia.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "Boom 2 Vaihtoehto mallille Mac: sovelluskohtainen äänenvoimakkuus ilman Boom 3D-lisämyyntiä",
+    description: "Boom 2 on perintö, joka työntää sinut jatkuvasti Boom 3D:han. Jos haluat vain sovelluskohtaisen äänenvoimakkuuden ja yksinkertaisen tehosteen modernille macOS:lle, tässä on kohdennettu vaihtoehto ja miten se toimii.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Jos pidit Boom 2:sta järjestelmän laajuisesta tehostamisesta, mutta haluat yksinkertaista <strong>sovelluskohtaisesti</strong> nykyisen Mac:n äänenvoimakkuutta, rehellinen vastaus on, että Boom 2 on vanha eikä enää oikea työkalu. Keskittynyt vaihtoehto on <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, valikkopalkin mikseri, joka antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen, mykistyksen ja tehostuksen hintaan 14,99 € kerran ilman isomman paketin painamista.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Vaihtoehto mallille Mac: sovelluskohtainen äänenvoimakkuus ilman Boom 3D-lisämyyntiä" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Boom 2 ei enää sovi</h2>
+<p>Boom 2 oli hyvin rakastettu sovellus tietystä syystä: se lisäsi Mac:n kokonaisäänenvoimakkuutta järjestelmän maksimitason yli ja lisäsi taajuuskorjaimen. Se teki sen koko järjestelmässä, ei sovellusten mukaan. Se oli hyvä vuonna 2015. Vuonna 2026 sillä on kaksi ongelmaa.</p>
+<p>Ensinnäkin se on perintöä. Global Delight on selkeästi siirtänyt energiansa Boom 3D:hen, ja jos avaat Boom 2-tuotesivun, huomaat itsesi houkuttelevan melkein välittömästi kohti uudempaa, kalliimpaa sovellusta. Boom 2 on edelleen olemassa, mutta se on ponnahduslauta, jota myyjä käyttää Boom 3D:n myymiseen, ei tuote, jota rakastetaan aktiivisesti.</p>
+<p>Toinen ja tärkeämpi: Boom 2 ei koskaan ollut sovelluskohtainen äänenvoimakkuuden mikseri. Se nostaa ja muotoilee yhtä päätulosta. Jos todellinen kipusi johtuu siitä, että Slack-ping on kovempaa kuin musiikkisi tai selaimen välilehti peittää puhelun, Boom 2 ei ratkaise sitä. Se tekee kaikesta äänekkäämpää yhdessä. Se on eri työ.</p>
+
+<h2>Mitä "sovelluskohtainen äänenvoimakkuus" itse asiassa tarkoittaa macOS:ssa</h2>
+<p>Tässä on rehellinen konteksti, jonka useimmat vaihtoehtoiset kierrokset ohittavat: macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden mikseriä. Windows:lla on ollut sellainen jo vuosia – napsauta kaiutinta hiiren kakkospainikkeella, avaa Volume Mixer ja aseta Chrome arvoon 40 % ja Spotify arvoon 80 %. Apple ei koskaan toimittanut sitä. Äänenvoimakkuusnäppäin macOS siirtää vain yhtä päätasoa.</p>
+<p>Joten kun etsit "Boom 2-vaihtoehtoa", etsimäsi ei useinkaan ole kovempi Mac – se on Windows:n käyttäjien pitämä sovelluskohtainen ohjaus. Se on todellinen aukko käyttöjärjestelmässä, ei jotain, jonka Boom 2 tai mikään yksittäinen sovellus unohti rakentaa.</p>
+
+<h2>Mihin SoundDial sopii</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on rakennettu erityisesti tätä aukkoa varten. Se sijaitsee valikkopalkissa ja luettelee parhaillaan ääntä toistavat sovellukset, joista jokaisella on oma liukusäädin. Asetat tasot sovelluskohtaisesti sen sijaan, että tönäisit yhtä pääohjainta ja toivoisit parasta.</p>
+<p>Mitä se tekee:</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> - Hiljennä selain, pidä musiikki missä haluat, ei globaaleja kompromisseja.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> - hiljennä yksi meluisa sovellus koskematta mihinkään muuhun.</li>
+<li><strong>Sovelluskohtainen tehostus</strong> — työnnä yksittäistä sovellusta normaalikaton yli, kun video tai puhelu tallennetaan liian hiljaa. Tämä on se osa, jota Boom 2-fanit yleensä kaipaavat, paitsi tässä se on suunnattu yhteen sovellukseen koko järjestelmän sijaan.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> - Tallenna asettelut, kuten "focus", "meeting" tai "gaming", ja vaihda yhdellä napsautuksella.</li>
+<li><strong>Automaattinen vaimennus</strong> - laskee automaattisesti muita sovelluksia, kun aloitat puhumisen, hyödyllinen puheluissa ja äänityksessä.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden lähtöjen välillä samasta valikosta.</li>
+</ul>
+
+<h2>Kuinka määrittää se</h2>
+<p>Työnkulku on lyhyt:</p>
+<ul>
+<li>Asenna <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store:sta — ei DMG:ta, ei ohjainta, ei uudelleenkäynnistystä.</li>
+<li>Napsauta valikkopalkin kuvaketta nähdäksesi kaikki tällä hetkellä ääntä tuottavat sovellukset.</li>
+<li>Vedä kunkin sovelluksen liukusäädin haluamallesi tasolle. mykistää tai tehostaa erikseen tarpeen mukaan.</li>
+<li>Tallenna järjestely profiilina, jos haluat käyttää sitä myöhemmin uudelleen.</li>
+</ul>
+<p>Koska se toimitetaan App Store:n kautta, se on hiekkalaatikolla ja asennetaan siististi. Se kannattaa mainita, koska jotkut vanhemmat äänityökalut luottivat ytimen laajennuksiin tai virtuaalisiin ääniohjaimiin – sellaista, mitä nykyaikainen macOS vastustaa yhä enemmän. SoundDial ei pyydä sinua asentamaan ohjainta tai alentamaan suojausasetuksia.</p>
+
+<h2>Rehellinen rajoitus</h2>
+<p>Sovelluskohtainen tehostus on todellista, mutta ei taikuutta. Jos sovelluksen lähdeääni on aidosti hiljaista tai huonosti tallennettu, sen tehostaminen nostaa kohinan tasoa signaalin mukana, joten erittäin hiljainen materiaali voi kuulostaa suhisevalta, kun sitä painetaan. Se on vahvistuksen fysiikan raja, ei vika missään tietyssä sovelluksessa – Boom 2:n järjestelmätehostuksessa oli sama kompromissi. Käsittele boostia päätilana käytännön tilanteissa, älä pelastajana rikkinäisten äänien takia.</p>
+
+<h2>Boom 2 vs. fokusoitu mikseri</h2>
+<p>Jos pidit Boom 2:ssa järjestelmän laajuisesta äänenvoimakkuudesta ja taajuuskorjaimesta, etkä välitä sovelluskohtaisesta ohjauksesta, Boom 3D on toimittajan suunnittelema seuraaja – se on reilu tie, emmekä teeskentele toisin. Mutta jos kokeilit Boom 2:ta ja tajusit, että halusit kääntää yhden sovelluksen alas tai ylös siirtämättä kaikkea, EQ-ja tehostuspaketti on väärän muotoinen työkalu.</p>
+<blockquote>Boom 2 tekee koko Mac:sta kovempaa. Sovelluskohtaisen mikserin avulla voit päättää, kumpi sovellus on äänekkäämpi. Ne ratkaisevat erilaisia ​​ongelmia.</blockquote>
+<p>Hintaero on myös nimeämisen arvoinen. SoundDial on 14,99 € kerran. Ei tilausta, kokeilujaksoa, joka katkaisee suuremman suunnitelman, eikä sovelluksen sisäistä polkua, joka ohjaa sinut kalliimpaan tasoon. Ostat sekoittimen, omistat sekoittimen.</p>
+
+<p>Jos sovelluskohtainen äänenvoimakkuus – ei järjestelmän laajuinen taajuuskorjain – on sitä, mitä todella hait, <a href="https://apps.apple.com/app/id6772792641">kokeile SoundDial:ta Mac App Store:ssa</a> ja aseta tasosi niin, kuin macOS:n olisi pitänyt antaa sinulle koko ajan.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: ilmainen avoin lähdekoodi vs. maksullinen sovelluskohtainen määrä Mac:lla",
+    description: "FineTune on ilmainen avoimen lähdekoodin sovelluskohtainen volyymisovellus Mac:lle; SoundDial on maksullinen hiekkalaatikko App Store-sovellus, jossa on tehostetta, profiileja ja tukea. Tässä on rehellinen vertailu, joka auttaa sinua valinnassa.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>FineTune on ilmainen, avoimen lähdekoodin sovelluskohtainen äänenvoimakkuuden mikseri macOS:lle, joten jos hinta on ainoa huolenaihe, se on aito vaihtoehto. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on maksullinen (14,99 €, kertaluonteinen) Mac App Store-sovellus, joka lisää sovelluskohtaista äänenvoimakkuutta, tallennettuja profiileja, automaattista vaimenemista ja toimittajatukea. Todellinen valinta on ilmainen ja tee-se-itse - tai hiekkalaatikko ja tuettu.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune vs. SoundDial: ilmainen avoin lähdekoodi vs. maksullinen sovelluskohtainen määrä Mac:lla" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Molemmat sovellukset ratkaisevat ongelman</h2>
+
+<p>macOS:ssa ei vieläkään ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia – napsauta hiiren kakkospainikkeella kaiutinkuvaketta, avaa Volume Mixer, ja jokainen sovellus saa oman liukusäätimen. Mac:ssa saat täsmälleen yhden järjestelmän äänenvoimakkuuden liukusäätimen kaikkeen: musiikki, videopuhelu, YouTube, ilmoitusäänet ja peli jakavat sen. Jos puhelusi on liian hiljainen ja Spotify liian kova, ainoa "korjaus" on Spotify:n mykistäminen kokonaan.</p>
+
+<p>Sekä FineTune että SoundDial ovat olemassa tämän aukon täyttämiseksi. Ne antavat jokaiselle käynnissä olevalle sovellukselle oman äänenvoimakkuuden säätönsä, joten voit esimerkiksi pitää kokouksen 100 %:ssa samalla kun alennat taustamusiikkia 20 %:iin – koskematta pääliukusäätimeen.</p>
+
+<h2>Mikä FineTune saa oikein</h2>
+
+<p>FineTune on uudempi, ilmainen, avoimen lähdekoodin sovellus SoundSource:n hengessä. Olkaamme oikeudenmukaisia sen vahvuuksien suhteen, koska ne ovat todellisia:</p>
+
+<ul>
+  <li><strong>Se ei maksa mitään.</strong> Ei lisenssiä, ei kokeiluversiota, ei päivitystä.</li>
+  <li><strong>Lähde on avoin.</strong> Voit lukea tarkalleen, mitä se tekee, tarkastaa sen yksityisyyden varalta ja – jos tunnet Swiftin – muokata tai haarukkaa sitä.</li>
+  <li><strong>Se on yhteisölähtöistä.</strong> Virheet voi korjata kuka tahansa, ja koodi elää kauemmin kuin yksittäinen yritys.</li>
+  <li><strong>Se kattaa perustarpeen.</strong> Riippumaton sovelluskohtainen volyymi, jota 90 % ihmisistä todella hakee.</li>
+</ul>
+
+<p>Jos ainoa vaatimuksesi on "anna minun sulkea yksi sovellus sulkematta kaikkea" ja olet tyytyväinen ohjelmistoon, jonka mukana ei ole virallista tukipalvelua, FineTune on oikeutettu vastaus. Sen suositteleminen täällä ei ole myönnytys – se on rehellistä.</p>
+
+<h2>Tee-se-itse-reitin rehelliset kompromissit</h2>
+
+<p>Ilmainen ja avoin lähdekoodi aiheuttaa todellisia kustannuksia, jotka eivät näy hintalapussa. Nämä eivät koske erityisesti FineTune:ta – ne ovat lähestymistavan luonne:</p>
+
+<ul>
+  <li><strong>Asennus on manuaalinen.</strong> Avoimen lähdekoodin äänityökalut jaetaan yleensä ladattavana koontiversiona tai Homebrew-kaavana, ei App Store:n kautta. Asennat Applen arvostelun ulkopuolella, ja olet koukussa pitämään sen ajan tasalla.</li>
+  <li><strong>Sovelluskohtainen äänen sieppaus on luonteeltaan hauras.</strong> Toisen sovelluksen äänen reitittäminen on syvällistä työtä. Kun Apple toimittaa macOS-päivityksen, joka muuttaa äänipinon, nämä työkalut voivat rikkoutua, kunnes joku korjaa ne. Vapaaehtoisprojektissa "joku" voi olla kiireinen sinä kuussa.</li>
+  <li><strong>Tuki on parasta.</strong> Jos jokin menee rikki, ratkaisusi on GitHub-ongelma ja odotus. Ei ole taattua vastausta, eikä kukaan ole velvollinen korjaamaan sitä.</li>
+  <li><strong>Ominaisuuden laajuus on mitä tahansa ylläpitäjän toimittamaa.</strong> Ydinvoimakkuuden säätö on todennäköisesti katettu; extrat riippuvat täysin avustajan ajasta.</li>
+</ul>
+
+<blockquote>Rehellinen kehystys: FineTune vaihtaa rahaa ylläpitovastuuseen. Säästät 14,99 € ja otat riskin, että käyttöjärjestelmäpäivitys jättää sen rikki, kunnes yhteisö ottaa kiinni.</blockquote>
+
+<h2>Missä SoundDial on erilainen</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> tekee päinvastaista kauppaa. Maksat kerran, ja vastineeksi saat App Store-tuotteen, jonka takana on myyjä ja laajemman sovelluskohtaisen volyymin päälle rakennettu ominaisuussarja:</p>
+
+<ul>
+  <li><strong>Sovelluskohtainen äänenvoimakkuus ja mykistys</strong> - molempien sovellusten jaetun perustilanteen.</li>
+  <li><strong>Sovelluskohtainen äänenvoimakkuus BOOST</strong> - Työnnä liian hiljainen sovellus yli 100 %. Hyödyllinen sovelluksille, joiden äänilähtö on heikko ja joissa muiden vaimentaminen ei vieläkään riitä.</li>
+  <li><strong>Äänenvoimakkuusprofiilit</strong> - Tallenna kokonaisia sekoituksia ("Kokous", "Keskity", "Pelit") ja vaihda yhdellä napsautuksella sen sijaan, että nollaisit liukusäätimiä joka kerta.</li>
+  <li><strong>Automaattinen vaimennus</strong> - laskee taustasovelluksia automaattisesti, kun puhut tai kun valittu sovellus aktivoituu, joten puhelut katkeavat ilman manuaalista näppäilyä.</li>
+  <li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden lähtöjen välillä valikkoriviltä.</li>
+</ul>
+
+<p>Yhtä tärkeää on <em>miten</em> se lähettää. SoundDial on hiekkalaatikko ja jaettu Mac App Store:n kautta — ei erillistä DMG:ta, ei ydinajureita, ei ääniohjaimen asennusta. Päivitykset tulevat App Store:n kautta kuten mikä tahansa muu sovellus, ja todellinen kehittäjä lähettää sähköpostia, kun jokin on vialla. Se on 14,99 €:n konkreettinen arvo: ei vain enemmän ominaisuuksia, vaan joku, joka on vastuussa siitä, että ne pitävät ne toiminnassa macOS-julkaisuissa.</p>
+
+<h2>Rehellinen huomautus, joka koskee molempia</h2>
+
+<p>Mikään kolmannen osapuolen sovellus ei voi tehdä macOS:n äänijärjestelmästä Windows:n äänenvoimakkuuden mikseriä, koska Apple ei paljasta puhdasta julkista API:ta sovelluskohtaiselle äänelle. Jokainen tämän luokan työkalu – ilmainen tai maksullinen, avoin tai suljettu – kiertää tämän rajoituksen järjestelmätason äänitekniikoilla. Tämä tarkoittaa, että suuret macOS-äänen muutokset voivat vaikuttaa sekä FineTune:een että SoundDial:hen. Erona on, kuka on vastuussa korjauksesta myöhemmin: vapaaehtoisyhteisö vai maksullinen myyjä, jonka tuote riippuu siitä.</p>
+
+<h2>Kumpi kannattaa valita?</h2>
+
+<ul>
+  <li><strong>Valitse FineTune, jos</strong> Haluat nollakustannuksia, arvostat avoimen lähdekoodin läpinäkyvyyttä, tarvitset vain sovelluskohtaisen perusmäärän ja olet mukava asentaa App Store:n ulkopuolelle ja tukea itseään, kun asiat hajoavat.</li>
+  <li><strong>Valitse SoundDial, jos</strong> haluat App Store-asennuksen yhdellä napsautuksella, lisäominaisuuksia, kuten tehostuksen, profiilit ja automaattisen vaimentamisen, sekä päivitysten ja tuen toimittajalta, jolla on pelin ulkonäkö.</li>
+</ul>
+
+<p>Molemmat ovat voimassa. Se riippuu aidosti siitä, käytätkö mieluummin rahaa vai huomiota. Jos haluat mieluummin ostaa tuetun hiekkalaatikkosovelluksen etkä koskaan enää ajattele sitä, <a href="https://apps.apple.com/app/id6772792641">hanki SoundDial malliin Mac App Store</a> kertaluonteisella 14,99 €:lla – ei tilausta, ei ohjaimia, ei DMG:ta.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: Onko ilmainen Mac äänenvoimakkuuden mikseri tarpeeksi?",
+    description: "Ilmaisen Background Music-sovelluksen ja maksullisen SoundDial:n välinen reilu vuorovaikutus. Missä ilmainen virtuaaliohjaimen lähestymistapa toimii, missä se rikkoutuu ja milloin 14,99 euron natiivimikseri on sen arvoinen.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Background Music on ilmainen ja todella hyvä perusasioissa: se antaa jokaiselle sovellukselle oman äänenvoimakkuuden liukusäätimen ja voi keskeyttää musiikin automaattisesti, kun toinen sovellus toistaa. Jos se on kaikki mitä tarvitset, käytä sitä. Mutta se luottaa virtuaaliseen ääniohjaimeen, joka voi rikkoutua macOS-päivitysten jälkeen ja josta puuttuu sovelluskohtainen tehostus, profiileja ja lähdön vaihto. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> vaihtaa rahaa kuljettajavapaaseen, hiekkalaatikolliseen, tuettuun vaihtoehtoon.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: Onko ilmainen Mac äänenvoimakkuuden mikseri tarpeeksi?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Ensinnäkin rehellinen totuus macOS:sta</h2>
+<p>macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen yli vuosikymmenen Volume Mixerissä, mutta Mac:ssa järjestelmän liukusäädin siirtää kaikkea kerralla. Ei ole olemassa Applen tukemaa sovellusliittymää, jonka avulla kolmannen osapuolen sovellus voisi siepata ja tasapainottaa yksittäisiä sovellusvirtoja. Tämä yksittäinen aukko on syy, miksi työkaluja, kuten Background Music ja SoundDial, on olemassa, ja se on suurin syy alla oleviin kompromisseihin.</p>
+
+<h2>Mitä Background Music tekee hyvin</h2>
+<p>Background Music on avoimen lähdekoodin valikkopalkkisovellus, joka on ollut olemassa vuosia ja jolla on hyvästä syystä uskollinen seuraaja. Se antaa sinulle:</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> – ydinominaisuus. Käännä Spotify alas ja pidä puhelu äänekkäänä.</li>
+<li><strong>Automaattinen tauko</strong> - se voi keskeyttää musiikkisoittimen, kun ääni alkaa jostain muualta, mikä on mukava kosketus kokouksiin.</li>
+<li><strong>Laitteen äänenvoimakkuus, joka seuraa sinua</strong> ja yksinkertainen, mutkaton käyttöliittymä.</li>
+<li><strong>Nolla kustannuksia</strong> — Se on ilmainen ja koodi on julkinen.</li>
+</ul>
+<p>Monelle se riittää. Jos koko toivelistasi on "Tee yksi meluisa sovellus hiljaisemmaksi koskematta muihin", Background Music kattaa sen, eikä sinun pitäisi maksaa jostain, jota et tarvitse. Oikeudenmukaisuus on tärkeää: tämä on oikeutetusti hyödyllinen työkalu.</p>
+
+<h2>Missä vapaa lähestymistapa näyttää saumansa</h2>
+<p>Saalis on <em>miten</em> Background Music saavuttaa sovelluskohtaisen äänenvoimakkuuden. Koska macOS ei anna virallista polkua, se asentaa virtuaalisen ääniohjaimen (muokattu versio vanhasta Soundflower-lähestymistavasta), joka reitittää järjestelmän äänen itsensä läpi. Tämä arkkitehtuuri on näppärä, mutta siitä aiheutuu todellisia kustannuksia:</p>
+<ul>
+<li><strong>Se hajoaa macOS-päivitysten jälkeen.</strong> Virtuaaliset ääniohjaimet ovat syvällä järjestelmässä, ja suuret macOS-julkaisut ovat historiallisesti poistaneet ne käytöstä tai horjuttaneet niitä. Käyttäjät raportoivat rutiininomaisesti hiljaisuudesta, vääristymisestä tai uudelleenasennuksen tarpeesta päivityksen jälkeen. Kun se katkeaa, olet usein yksin.</li>
+<li><strong>Asennus on raskaampaa.</strong> Olet lisäämässä Mac-laitteeseen ytimen viereisen äänilaitteen, et vain sovellusta. Puhdas asennuksen poistaminen voi olla hankalaa.</li>
+<li><strong>Siitä tulee oletustulostuslaitteesi.</strong> Koska kaikki reititetään virtuaalisen laitteen kautta, jotkut pro-ääni-, neuvottelu- tai pelisovellukset voivat käyttäytyä oudosti, ja todellisen lähdön vaihtaminen on ylimääräinen vaihe.</li>
+<li><strong>Kehitys on yhteisön tahdista.</strong> Tukipalvelua ei ole. Korjaukset saapuvat, kun vapaaehtoisella on aikaa, mikä äänityökalulle, joka voi yhtäkkiä vaieta, on merkittävä riski.</li>
+</ul>
+<p>Mikään näistä ei tee Background Music:sta huonoa. Se tekee siitä ilmaisen työkalun ilmaisella työkalulla.</p>
+
+<h2>Mistä todella maksat SoundDial:lla</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on Mac App Store-sovellus, joka muokkaa sen mitä se on. Koska App Store-sovellukset ovat hiekkalaatikoita, eivätkä ne voi toimittaa Background Music:n käyttämää matalan tason virtuaaliohjainta, SoundDial on suunniteltu toimimaan ilman erillistä äänilaitetta tai DMG:ta. Se tarkoittaa:</p>
+<ul>
+<li><strong>Ei virtuaaliohjaimen omituisuutta.</strong> Mikään ylimääräinen lähtölaite ei kaappaa ääniketjua, eikä mitään, mitä pitäisi asentaa uudelleen, kun järjestelmä muuttuu.</li>
+<li><strong>Se selviää macOS-päivityksistä paljon sulavammin.</strong> App Store-jakelu ja hiekkalaatikko tarkoittaa, että se on rakennettu tuettuja polkuja vastaan, ja se päivitetään myymälän kautta, joten käyttöjärjestelmän päivitys ei todennäköisesti jätä sinut hiljaa.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys.</strong> Tämä on todellinen ominaisuuksien ero: SoundDial voi työntää sovellusta <em>edellä</em> 100 % hiljaisille lähteille – liian matalalle tallennettu podcast, vaimea videopuhelu. Background Music vain vaimentaa.</li>
+<li><strong>Äänenvoimakkuusprofiilit.</strong> Tallenna joukko sovelluskohtaisia ​​tasoja ("Kokous", "Musiikki", "Pelit") ja vaihda yhdellä napsautuksella sen sijaan, että vedät liukusäätimiä joka kerta.</li>
+<li><strong>Automaattinen vaimennus.</strong> Laske muiden sovellusten äänenvoimakkuus automaattisesti valitun lähteen toiston aikana – automaattisen keskeytyksen idea on muokattavampi.</li>
+<li><strong>Nopea lähdön vaihto</strong> valikkopalkkiin sekä sovelluskohtainen mykistys.</li>
+<li><strong>Todellinen tuki.</strong> Se on maksettu tuote, jossa joku on vastuussa, kun jokin menee pieleen.</li>
+</ul>
+
+<h2>Rehellinen päätös</h2>
+<blockquote>Jos haluat ilmaisen ja tarvitset vain sovelluskohtaisen perusäänenvoimakkuuden, ja olet tyytyväinen vianetsintään macOS-päivitysten jälkeen, Background Music on hyvä valinta. Jos haluat tehostaa, profiileja, vaimentamista, ulostulon vaihtoa, ei virtuaaliohjaimen haurautta ja jonkun, joka lähettää sähköpostia, kun se rikkoutuu, SoundDial on arvoltaan 14,99 €.</blockquote>
+<p>Muutama konkreettinen tiebreaker. Jos käytät säännöllisesti liian hiljaisia ​​lähteitä, pelkkä tehostus oikeuttaa hinnan – Background Music ei yksinkertaisesti voi saada ääntä lähdettä voimakkaammaksi. Jos pelkäät vuosittaista "selviääkö ääneni päivityksestä" -uhkapeliä, hiekkalaatikkokauppasovellus poistaa tämän ahdistuksen. Jos pidät asettamisesta ja unohtamisesta, profiilit säästävät todellista kitkaa. Ja se on kertaluonteinen 14,99 €, ei tilaus, joten vertailu on yksittäinen osto ja ilmainen kuljettajan ylläpitoon käytetty aika.</p>
+<p>Toisaalta, jos olet puuhailija, joka nauttii avoimesta lähdekoodista, haluaa lukea koodin ja enimmäkseen sulkee yhden sovelluksen – säästä rahaa. Molemmat työkalut ratkaisevat saman ydinongelman; ne eroavat kestävyydestä, ominaisuuksien syvyydestä ja siitä, kuka saa sinut kiinni, kun macOS muuttuu niiden alla.</p>
+
+<p>Haluatko sovelluskohtaisen äänenvoimakkuuden ilman virtuaaliohjaimen pelaamista? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> - kertaluonteinen 14,99 €, hiekkalaatikko, ei ohjaimia, sisäänrakennettu tehostus, profiilit ja automaattinen vaimentaminen.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "Onko SoundSource 39 dollarin arvoinen? Halvempi kertakäyttöinen Mac-vaihtoehto",
+    description: "SoundSource on tehokas Mac-äänityökalu hintaan 39 dollaria, mutta se on ylivoimaista, jos tarvitset vain sovelluskohtaista äänenvoimakkuutta ja tehostusta. Tässä on rehellinen vertailu ja 14,99 € kertaluonteinen vaihtoehto.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>SoundSource on sen arvoinen, jos tarvitset sen täyden työkalusarjan: sovelluskohtaisen äänenvoimakkuuden, 10-kaistaisen taajuuskorjaimen sovellusta kohden, äänen reitityksen laitteiden välillä ja järjestelmän laajuisia tehosteita. Mutta noin 39 dollarilla se on ylivoimaista, jos haluat pääasiassa sovelluskohtaisen äänenvoimakkuuden, sovelluskohtaisen mykistyksen ja äänenvoimakkuuden lisäämisen. Siihen suppeampaan työhön, <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> maksaa 14,99 € kerran.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - Onko SoundSource 39 dollarin arvoinen? Halvempi kertakäyttöinen Mac-vaihtoehto" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Mitä SoundSource todella tekee</h2>
+<p>Rogue Amoeba:n SoundSource on todella erinomainen ohjelmisto, ja on tärkeää olla oikeudenmukainen sen suhteen. Se ei ole vain äänenvoimakkuuden mikseri. Se antaa sinulle:</p>
+<ul>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden säätö</strong> valikkopalkista, jota useimmat ihmiset haluavat.</li>
+<li><strong>Täysi 10-kaistainen taajuuskorjain</strong> Voit käyttää sovellusta tai koko järjestelmää sekä muita äänitehosteita (Audio Unit -laajennusten kautta).</li>
+<li><strong>Lähtö/tulo reititys</strong>, mukaan lukien yhden sovelluksen lähettäminen eri tulostuslaitteeseen kuin muu järjestelmä.</li>
+<li><strong>Nopea laitevaihto</strong> ja kuulokekohtaiset EQ-esiasetukset.</li>
+</ul>
+<p>Jos olet podcaster, striimaaja tai audionörtti, joka haluaa virittää kuulokkeiden taajuuskorjaimen, ohjata yhden sovelluksen äänen erilliseen kaiuttimeen tai pinota ääniyksikkötehosteita, SoundSource ansaitsee hintansa. Mikään tässä ei kosketa sitä.</p>
+
+<h2>Hinta kysymys</h2>
+<p>SoundSource on maksullinen, kertaluonteinen lisenssi, joka on noin 39 dollaria (hinta vaihtelee version ja tarjousten mukaan). Se ei ole toistuva tilaus Netflixin merkityksessä, mutta se noudattaa klassista maksullisen sovelluksen mallia: ostat suuren version, ja tulevat suuret päivitykset ovat yleensä alennettuja maksullisia päivityksiä, eivätkä ikuisesti ilmaisia. Usean vuoden aikana se on enemmän kuin yksi ostos. Monille Mac-käyttäjille rehellinen kysymys kuuluu: maksanko 39 dollaria reititys- ja taajuuskorjauspaketista, kun kosketan vain sovelluskohtaisia ​​äänenvoimakkuuden liukusäätimiä?</p>
+
+<blockquote>Jos olet avannut SoundSource:n ja käyttänyt vain äänenvoimakkuuden liukusäätimiä ja mykistyspainikkeita, maksat sarjasta käyttääksesi sen yhtä laatikkoa.</blockquote>
+
+<h2>Miksi ongelma ylipäätään on olemassa</h2>
+<p>Tässä on rehellinen syy: macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden sekoitinta. Windows:lla on ollut sellainen jo vuosia, mutta Mac:ssa järjestelmän äänenvoimakkuus on kaikki tai ei mitään. Ei ole Applen tarjoamaa tapaa pitää Spotify hiljaisena, kun videopuhelu on äänekäs, tai mykistää yhtä sovellusta koskematta kaikkeen muuhun. Tämä aukko johtuu juuri siitä, miksi työkalut, kuten SoundSource ja <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> olemassa. Se on todellinen käyttöjärjestelmän rajoitus, eikä kumpikaan sovellus keksi ongelman ratkaistavaksi.</p>
+
+<h2>Missä kevyempi, halvempi vaihtoehto sopii</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on valikkopalkin sovelluskohtainen äänenvoimakkuuden mikseri, joka on rakennettu tavalliselle kotelolle pro-audiokotelon sijaan. Se kattaa:</p>
+<ul>
+<li><strong>Riippumaton äänenvoimakkuus sovelluskohtaisesti</strong> — pudota musiikkia, kun kokous pysyy täydellä tasolla.</li>
+<li><strong>Sovelluskohtainen mykistys</strong> — hiljennä yksi sovellus mykistämättä Mac:ta.</li>
+<li><strong>Sovelluskohtainen äänenvoimakkuuden lisäys</strong> — työnnä hiljaista sovellusta normaalin 100 %:n yläpuolelle, kun lähde on aivan liian pehmeä.</li>
+<li><strong>Äänenvoimakkuusprofiilit</strong> — tallenna joukko sovelluskohtaisia tasoja (esim. "focus"- tai "call"-asettelu) ja vaihda yhdellä napsautuksella.</li>
+<li><strong>Automaattinen vaimennus</strong> — laskee automaattisesti muita sovelluksia, kun aloitat puhumisen tai kun valittu sovellus toistaa.</li>
+<li><strong>Nopea lähdön vaihto</strong> — siirtyä kaiuttimien, kuulokkeiden ja muiden laitteiden välillä valikkoriviltä.</li>
+</ul>
+<p>Se on <strong>14,99 € kerta</strong>, myydään Mac App Store:n kautta, joten se on hiekkalaatikolla, eikä siinä ole erillistä DMG:ta, ytimen laajennusta eikä asennettavaa ääniohjainta. Lataat sen kuten minkä tahansa App Store-sovelluksen ja se päivittyy kaupan kautta.</p>
+
+<h2>Rehellinen vertailu</h2>
+<p>Ole tarkkasilmäinen kompromissin suhteen. SoundSource tekee enemmän kuin SoundDial, ja jos jokin seuraavista kiinnostaa sinua, SoundSource on parempi hankinta:</p>
+<ul>
+<li>Haluat todellisen sovelluskohtaisen tai järjestelmän <strong>taajuuskorjain</strong> ja ääniyksikkötehosteet.</li>
+<li>Sinun täytyy <strong>reitittää yksittäisen sovelluksen eri tulostuslaitteeseen</strong> kuin kaikki muu.</li>
+<li>sinä luotat <strong>kuulokekohtaiset EQ-esiasetukset</strong> ja hienorakeinen äänenkäsittely.</li>
+</ul>
+<p>SoundDial ei tee EQ:ta tai sovelluskohtaista laitereititystä. Se on tarkoituksella kapeampi. Se antaa sinulle vastineeksi alhaisemman hinnan, kevyemmän jalanjäljen ja kohdistetun valikkopalkin käyttöliittymän siihen, mitä useimmat ihmiset todella halusivat: jokaisen sovelluksen pitäminen valitsemallasi tasolla, tehoste ja profiilit päällä.</p>
+
+<h2>Joten, onko SoundSource sen arvoinen?</h2>
+<p>Kyllä, jos käytät EQ:ta ja reititystä. Se on kypsä, hyvin tuettu ohjelmisto arvostetulta kehittäjältä, ja hinta heijastaa todellista kykyä. Mutta "sen arvoinen" riippuu siitä, mihin kosketat. Jos avaat sovelluksen ja säädät vain äänenvoimakkuuden liukusäätimiä, mykisät sovelluksen tai toivot yhden hiljaisen sovelluksen olevan äänekkäämpi, maksat premium-sarjan rahaa mikserin perustarpeista. Siinä tapauksessa kertaluonteinen 14,99 € työkalu on järkevämpi istuvuus, ja voit aina siirtyä SoundSource: hen myöhemmin, jos tarpeesi kasvaa EQ:ksi ja reititykseksi.</p>
+
+<p>Jos haluat vain sovelluskohtaisen äänenvoimakkuuden, tehostuksen, mykistyksen, profiilit ja automaattisen vaimentamisen, <a href="https://apps.apple.com/app/id6772792641">hanki SoundDial malliin Mac App Store</a> — 14,99 € kerran, ei tilausta, ei kuljettajia.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome Liian äänekäs Mac:ssa? Sammuta yksi selain mykistämättä kaikkea",
+    description: "Chrome puhaltaa kovemmin kuin muut Mac:n sovelluksesi? Opi sisäänrakennetut korjaukset (välilehtikohtainen mykistys, sivuston ääniasetukset) ja kuinka määrittää todellinen sovelluskohtainen äänenvoimakkuus Chrome:lle, jotta se pysyy hiljaisempana kuin kaikki muu.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuutta, joten et voi automaattisesti laskea Chrome:ta jättäen muut sovellukset täydellä äänenvoimakkuudella. Nopeimmat ilmaiset korjauksesi ovat meluisten välilehtien mykistäminen, kunkin videosoittimen äänenvoimakkuuden alentaminen tai sivustokohtaisen äänen estäminen Chrome:n asetuksista. Tarvitset sovelluskohtaisen mikserin saadaksesi todellisen, jatkuvan, vain Chrome-äänenvoimakkuuden.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Liian äänekäs Mac:ssa? Sammuta yksi selain mykistämättä kaikkea" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Chrome kuulostaa kovemmalta kuin kaikki muu</h2>
+<p>Chrome ei välttämättä ole suunnittelultaan "äänempi" – se johtuu siitä, että Chrome reitittää äänen monista riippumattomista lähteistä: YouTube, automaattisesti toistuvat mainokset, videopuhelut, taustamusiikkivälilehdet ja verkkosovellukset, jotka kukin lähettävät oman äänenvoimakkuutensa. Jotkut sivustot hallitsevat kuumana, mainokset ovat tunnetusti äänekkäitä, ja Chrome toistaa ne kaikki järjestelmäsi täydellä teholla. Samaan aikaan musiikkisovelluksesi tai puhelusi voivat olla hiljaisempia, joten Chrome hallitsee sekoitusta.</p>
+<p>Windows:ssa avaat vain Volume Mixerin ja vedät Chrome-liukusäädintä alas. macOS ei yksinkertaisesti sisällä tätä ominaisuutta. Järjestelmän äänenvoimakkuusnäppäin ohjaa kaikkea kerralla, joten Chrome:n sammuttaminen vähentää myös musiikkia, ilmoituksia ja puheluita. Se on ydinrajoitus – ja se on käyttöjärjestelmän aukko, ei jotain, mitä teet väärin.</p>
+
+<h2>Sisäänrakennetut korjaukset, jotka eivät maksa mitään</h2>
+<p>Ennen kuin asennat mitään, kokeile näitä. Ne eivät anna sinulle yhtä Chrome-äänenvoimakkuussäädintä, mutta ne ratkaisevat useimmat "yhden kovaäänisen välilehden" ongelmat.</p>
+<ul>
+<li><strong>Mykistä meluisa välilehti.</strong> Napsauta välilehteä hiiren kakkospainikkeella ja valitse Mykistä sivusto tai napsauta pientä kaiutinkuvaketta, joka näkyy ääntä toistavalla välilehdellä. Tämä hiljentää välilehden kokonaan koskematta Chrome:n muihin osiin.</li>
+<li><strong>Pienennä äänenvoimakkuutta soittimen sisällä.</strong> Luotettavin temppu: vedä äänenvoimakkuuden liukusäädintä alas YouTube:n, Netflixin tai missä tahansa toistettavassa tilassa. Verkkosoittimet muistavat oman tasonsa sivustoa kohden, joten hiljaisempi YouTube pysyy hiljaisena ensi kerralla.</li>
+<li><strong>Estä ääni sivustokohtaisesti.</strong> Siirry osoitteeseen <em>chrome://settings/content/sound</em>. Voit kääntää sivustoja "sallittujen" ja "mykistettyjen" välillä ja lisätä tiettyjä verkkotunnuksia mykistysluetteloon. Erinomainen automaattisesti toistuvien sivustojen pysyvään hiljentämiseen.</li>
+<li><strong>Tappaa automaattisesti toistetut mainokset.</strong> Mainoksen ääni on usein todellinen syyllinen. Sisällön esto tai välilehden mykistäminen, kunnes olet valmis katsomaan, poistaa useimmat yllättävät äänet.</li>
+</ul>
+<blockquote>Nämä ovat todella hyödyllisiä ja ilmaisia. Mutta huomaa, mitä he eivät voi tehdä: he mykistävät tai hallitsevat yksittäisiä välilehtiä. Mikään niistä ei anna sinun sanoa "pidä kaikki Chrome 40 %:ssa, kun musiikkini pysyy 100 %:ssa."</blockquote>
+
+<h2>Rehellinen rajoitus: ei sovelluskohtaista äänenvoimakkuutta macOS:ssa</h2>
+<p>Jos todellinen tavoitteesi on "Chrome:n tulisi aina olla hiljaisempi kuin muut sovellukseni", sisäänrakennetut työkalut eivät riitä. Välilehtikohtainen mykistys on kaikki tai ei mitään. Soittimen liukusäätimet nollautuvat, kun sivusto ei muista niitä ja ne on tehtävä jatkuvasti uudelleen. Ja järjestelmän tilavuus siirtää kaiken yhteen.</p>
+<p>Tämä on todellinen macOS-rajoitus, ei vika, jonka voit määrittää pois. Apple ei ole koskaan toimittanut Windows-tyyppistä äänenvoimakkuuden sekoitinta. Ainoa tapa saada jatkuva, riippumaton äänenvoimakkuus erityisesti Chrome:lle on kolmannen osapuolen sovellus, joka sijaitsee sovelluksiesi ja tulostuslaitteesi välissä ja käyttää sovelluskohtaista vahvistusta.</p>
+
+<h2>Aseta todellinen sovelluskohtainen äänenvoimakkuus Chrome:lle</h2>
+<p>Menu-palkin mikseri kuten <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> antaa macOS:lle sovelluskohtaisen äänenvoimakkuuden säätimen, joka puuttuu. Se luettelee kaikki tällä hetkellä ääntä toistavat sovellukset ja antaa jokaiselle omat liukusäätimensä – joten voit vetää Chrome:n alas mukavalle tasolle ja jättää Spotify:n, puhelusi ja järjestelmääänet juuri sinne, missä ne ovat.</p>
+<p>Näin kesytät kovaäänisen Chrome:n sillä:</p>
+<ul>
+<li>Avaa valikkopalkin mikseri ja etsi Chrome aktiivisten sovellusten luettelosta.</li>
+<li>Vedä Chrome:n liukusäädintä alas esimerkiksi 40–50 prosenttiin. Muut sovellukset pysyvät koskemattomina.</li>
+<li>Jos myös tietty sovellus <em>hiljainen</em> sen sijaan - puhelusovellus, joka kuiskaa - käytä <a href="https://apps.apple.com/app/id6772792641">sovelluskohtainen äänenvoimakkuuden lisäys</a> nostaa se yli 100 prosentin pitäen samalla Chrome alhaisena.</li>
+<li>Mykistä Chrome välittömästi sovelluskohtaisella mykistystoiminnolla, kun tarvitset hiljaisuutta sulkematta välilehtiä.</li>
+</ul>
+<p>Koska taso on sidottu sovellukseen, se pysyy. Chrome pysyy valitsemassasi äänenvoimakkuudessa välilehdillä, sivustoilla ja käynnistyksissä uudelleen – soittimen liukusäätimiä ei tarvitse vetää uudelleen aina, kun avaat uuden videon.</p>
+
+<h2>Jatketaan: profiilit, vaimentaminen ja lähdön vaihto</h2>
+<p>Kun sinulla on sovelluskohtainen hallinta, muutama lisäominaisuus tekee siitä pitämisen arvoisena. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> voit säästää äänenvoimakkuutta <strong>profiilit</strong> — esimerkiksi "tarkennus"-profiili, jossa Chrome on hiljainen ja musiikki kovaa, ja "katselu"-profiili, jossa Chrome hallitsee - ja vaihtaa niiden välillä yhdellä napsautuksella. Automaattinen vaimennus voi upottaa muut sovellukset automaattisesti, kun valittu lähde käynnistyy (kätevä, joten puhelu ei koskaan hautaudu kovaäänisen selaimen välilehden alle). Ja nopean lähdön vaihtamisen avulla voit siirtyä kaiuttimien, kuulokkeiden ja muiden laitteiden välillä ilman järjestelmäasetuksiin sukellusta.</p>
+<p>Se on 14,99 € kertaostos Mac App Store:lla – ei tilausta, ei ajureita asennettava, ei DMG tai ytimen laajennus. Koska se on hiekkalaatikolla ja jaettu App Store:n kautta, se ei vaadi luonnostelevaa ääniohjainta asentamaan vanhempia mikserityökaluja, joihin luotettiin.</p>
+
+<h2>Mitä korjausta kannattaa käyttää?</h2>
+<p>Jos sinulla on vain yksi vastenmielinen välilehti silloin tällöin, käytä Chrome:n sisäänrakennettua mykistystä ja sivuston ääniasetuksia – ne ovat ilmaisia ja toimivat. Jos huomaat jatkuvasti toivovasi, että Chrome voidaan yksinkertaisesti hylätä, kun kaikki muu pysyy paikallaan, juuri tämä aukko macOS jättää auki, ja sovelluskohtainen mikseri on puhdas ratkaisu.</p>
+
+<p>Haluatko Chrome:n pysyvästi hiljaisemman mykistämättä musiikkia tai puheluita? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja anna jokaiselle sovellukselle oma äänenvoimakkuuden liukusäädin.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "WhatsApp & Telegram -ilmoitus kuulostaa liian kovalta Mac:ssa? Laita ne alas",
+    description: "Korjaa WhatsApp- ja Telegram-työpöytäilmoitusäänet, jotka ovat liian kovia Mac-laitteessasi. Aloita kunkin sovelluksen sisäänrakennetuilla asetuksilla ja laske sitten koko sovellus tai mykistä se, kun macOS ei anna sinulle sovelluskohtaista hallintaa.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>Aloita jokaisen sovelluksen sisällä: WhatsApp ja Telegram mahdollistavat molempien ilmoitusäänien mykistyksen tai muuttamisen omissa asetuksissaan, mikä on siistein ratkaisu. Mutta macOS:ssa ei ole sovelluskohtaisten ilmoitusten äänenvoimakkuuden liukusäädintä, joten jos sovelluksen oma ääni on edelleen liian kova, ainoa todellinen vipu on laskea tai mykistää koko sovelluksen ääni sovelluskohtaisella äänenvoimakkuustyökalulla.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — WhatsApp &amp; Telegram -ilmoitus kuulostaa liian kovalta Mac:ssa? Laita ne alas" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Käytä ensin sovelluksen omia ilmoitusasetuksia</h2>
+
+<p>Sekä WhatsApp että Telegram toimittavat omat ääniohjaimensa, ja tästä kannattaa aina aloittaa. Se on tarkin korjaus, eikä se koske mihinkään muuhun Mac:ssa.</p>
+
+<p><strong>WhatsApp työpöytä:</strong> Avaa WhatsApp, napsauta <em>Asetukset</em> (rataskuvake), sitten <em>Ilmoitukset</em>. Voit kytkeä pois päältä <em>Äänet</em> kokonaan säilyttäen bannerit tai poistamalla ilmoitusten esikatselun käytöstä. WhatsApp ei tarjoa äänenvoimakkuuden liukusäädintä, joten se on pääsääntöisesti päällä tai pois päältä itseään varten.</p>
+
+<p><strong>Telegram työpöytä:</strong> Avaa <em>Asetukset → Ilmoitukset ja äänet</em>. Telegram on täällä joustavampi. Voit poistaa ilmoitusäänen käytöstä maailmanlaajuisesti, mykistää yksittäiset keskustelut tai asettaa mukautettuja (hiljaisempia) ääniä. Voit myös hiljentää yksittäisen meluisan ryhmän avaamalla sen ja valitsemalla <em>Mykistä</em>. Useimmille ihmisille äänekkäimpien keskustelujen mykistäminen korjaa ongelman ilman, että he ovat hiljaa kaikkialla.</p>
+
+<p>Jos ääni on hyvä, mutta liian toistuva, mykistä tietyt keskustelut tai kanavat, jotka käynnistyvät useimmiten, sen sijaan, että ne tappaisivat äänen koko sovelluksen laajuisesti. Tämä pitää tärkeät hälytykset kuuluvina.</p>
+
+<h2>Poista ilmoitusäänet käytöstä macOS-järjestelmäasetuksista</h2>
+
+<p>macOS:ssa on toinen ohjaustaso, joka ohittaa sovelluksen joissain tapauksissa. Siirry osoitteeseen <em>Järjestelmäasetukset → Ilmoitukset</em>, valitse luettelosta WhatsApp tai Telegram ja sammuta <em>Toista ääni ilmoituksia varten</em>. Tämä hiljentää kyseisen sovelluksen hälytysäänen ja näyttää silti bannereita.</p>
+
+<p>Tämä on todella hyvä ratkaisu, jos haluat vain sovelluksen olevan hiljainen ilmoituksissa etkä välitä sen muusta äänestä (puhelut, videot). Yhdessä sovelluksen omien asetusten kanssa se kattaa useimmat "ping iskee" -valitukset.</p>
+
+<h2>Todellinen rajoitus: macOS:lla ei ole sovelluskohtaista äänenvoimakkuutta</h2>
+
+<p>Tässä on rehellinen osa. Yllä olevat vaiheet ovat päälle/pois-kytkimiä. Mitä he eivät voi tehdä, on kääntää WhatsApp tai Telegram <em>alas</em> vaikkapa 40 prosenttiin pitäen kaiken muun täydellä äänenvoimakkuudella. Windows:lla on ollut sovelluskohtainen äänenvoimakkuuden mikseri vuosia. macOS ei yksinkertaisesti sisällä sitä, eikä mikään piilotettu asetus tai Terminal-komento lisää sitä.</p>
+
+<p>Tällä on merkitystä, kun ongelma ei ole nimenomaan ilmoitusääni, vaan koko sovellus on liian kova:</p>
+
+<ul>
+<li>WhatsApp tai Telegram <strong>ääni- ja videopuhelut</strong> joka soi täydellä äänenvoimakkuudella suhteessa musiikkiisi tai kokoukseen</li>
+<li>Ilmoitusääni, jonka haluat säilyttää, mutta alemmalla tasolla, ei kokonaan pois päältä</li>
+<li>Soittoäänet, jotka ylittävät paljon muuta kuuntelemaasi</li>
+<li>Haluat, että sovellus kuuluu, mutta hiljaa taustalla, kun keskityt johonkin muuhun</li>
+</ul>
+
+<p>Mikään näistä ei ole ratkaistavissa sisäänrakennetuilla työkaluilla, koska ne tarjoavat vain mykistyksen, eivät tasoa. Tämä aukko on todellinen macOS-rajoitus, ei jotain, mitä kaipaat.</p>
+
+<h2>Aseta sovelluskohtainen äänenvoimakkuus SoundDial:lla</h2>
+
+<p>Tarvitset sovelluskohtaisen äänenvoimakkuuden mikserin, jotta voit sammuttaa yhden sovelluksen sen sijaan, että se sammuisi. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on valikkopalkkisovellus, joka antaa macOS:lle sovelluskohtaisen äänenvoimakkuuden säätimen, jolla se ei koskaan toimitettu. Se luettelee kaikki tällä hetkellä ääntä toistavat sovellukset ja antaa jokaiselle oman liukusäätimen.</p>
+
+<p>Tähän ongelmaan:</p>
+
+<ul>
+<li>Avaa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> valikkoriviltä ja etsi luettelosta WhatsApp tai Telegram.</li>
+<li>Vedä liukusäädintä alas mukavalle tasolle, esimerkiksi 30–40 %, samalla kun jätä musiikki, selain tai videopuhelu koskemattomaksi.</li>
+<li>Käytä sovellusta kohden <strong>mykistää</strong> -painiketta hiljentääksesi juuri kyseisen sovelluksen välittömästi puhelun tai kokouksen aikana ja poista mykistys myöhemmin ilman asetusten läpikäymistä.</li>
+<li>Jos tarvitset päinvastaista, hiljaisen sovelluksen, joka on liian pehmeä, sovelluskohtainen <strong>tehostaa</strong> voi nostaa sen yli 100%.</li>
+</ul>
+
+<p>Koska SoundDial asettaa sovelluskohtaisen tason, se pitää ilmoituskellot ja puhelun äänen kuultavana, mutta oikeasuhteisena. Sisäänrakennetut asetukset pakottavat kaikki tai ei mitään -vaihtoehdon sijaan. Voit myös säästää <strong>tilavuusprofiilit</strong>, joten "focus"-asetus, joka pitää chat-sovellukset alhaalla, on yhden napsautuksen päässä.</p>
+
+<blockquote>Yksi rehellinen huomautus: sovelluksen kokonaisäänenvoimakkuuden pienentäminen SoundDial:ssa alentaa myös sen ilmoitusääniä, koska macOS:ssa ne ovat saman sovelluksen ääni. Jos haluat ilmoitukset kokonaan pois päältä, mutta puhelut täydellä äänenvoimakkuudella, käytä sovelluksen omaa mykistystä ja järjestelmäasetuksia äänimerkiksi ja varaa SoundDial yleisen tason asettamiseen.</blockquote>
+
+<p>SoundDial on kertaluonteinen 14,99 €:n osto Mac App Store:ssa, hiekkalaatikolla, ilman tilausta, ilman ydinajureita eikä sivulatausta DMG:ta. Se on käytännöllinen vastaus, kun macOS itse ei voi tehdä haluamaasi korjausta, yhden sovelluksen kytkemistä pois päältä sen sijaan, että se onnistuisi.</p>
+
+<h2>Mitä korjausta kannattaa käyttää?</h2>
+
+<p>Neulo ylhäältä alas. Kokeile ensin sovelluksen omia ilmoitusasetuksia ja sitten macOS-järjestelmäasetuksia sammuttaaksesi äänimerkin. Jos haluat todella laskea WhatsApp:n tai Telegram:n tietylle äänenvoimakkuudelle tai mykistää juuri kyseisen sovelluksen lennossa puheluiden aikana, sovelluskohtainen mikseri ansaitsee paikkansa.</p>
+
+<p>Oletko kyllästynyt valitsemaan chat-sovelluksillasi täyden räjähdyksen ja täydellisen hiljaisuuden välillä? <a href="https://apps.apple.com/app/id6772792641">Hanki SoundDial Mac App Store:lle</a> ja anna jokaiselle sovellukselle oma äänenvoimakkuuden säädin.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "Pelin ääni kovempi kuin Discord Mac:lla? Pelin ja äänenvoimakkuuden tasapainottaminen",
+    description: "Pelisi hukkuu Discord-äänikeskusteluun Mac:ssa, eikä siinä ole sisäänrakennettua äänenvoimakkuuden mikseriä. Tässä on syy, miksi macOS:sta puuttuu Windows-tyylinen sovelluskohtainen äänenvoimakkuus, ja kuinka voit vaimentaa pelin samalla, kun ääni pysyy korkealla.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden mikseriä, joten et voi natiivisti hillitä peliäsi pitäen samalla Discord:n äänekkäänä. Korjaus on valikkopalkkisovellus, joka asettaa itsenäisen äänenvoimakkuuden sovelluskohtaisesti. Laske peli 40-50 %:iin, jätä äänichat 100 %:iin ja molemmat pysyvät tasapainossa koskettamatta pelin sisäisiä liukusäätimiä.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Pelin ääni kovempi kuin Discord mallilla Mac? Pelin ja äänenvoimakkuuden tasapainottaminen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi näin tapahtuu mallissa Mac (eikä mallissa Windows)</h2>
+
+<p>Jos olet pelannut Windows:lla, tunnet Volume Mixerin: napsauta hiiren kakkospainikkeella kaiutinkuvaketta, ja jokainen käynnissä oleva sovellus saa oman liukusäätimen. Pudotat pelin, nostat Discord, valmis. macOS ei yksinkertaisesti koskaan toimittanut tätä ominaisuutta. Järjestelmäasetuksiin on haudattu yksi päälähtötilavuus ja kourallinen sovellustason valitsimia, mutta ei sovelluskohtaista tason ohjausta mielivaltaisille sovelluksille.</p>
+
+<p>Joten kun pelin sekoitus hallitaan kuumana, sen räjähdykset, musiikki ja ammuskelut tulevat läpi samalla teholla kuin ystäviesi äänet. Jotkut pelit paljastavat äänenvoimakkuuden liukusäätimen, mutta monet eivät mene tarpeeksi alhaiseksi, ja monet käynnistysohjelmat, selaimet ja erilliset pelit eivät tarjoa mitään hyödyllistä hallintaa. Discord itsessään antaa sinun säätää vain saapuvien käyttäjien äänenvoimakkuutta, ei heidän kanssaan kilpailevaa peliä.</p>
+
+<p>Ollakseni rehellinen, tämä on käyttöjärjestelmätason aukko, ei vika, jonka voit poistaa. Applen äänipino reitittää kaiken yhteen lähtövirtaan, eikä ensimmäisen osapuolen käyttöliittymää ole mahdollista jakaa sitä sovelluskohtaisesti. Siksi tarvitset kolmannen osapuolen työkalun, joka sijaitsee sovellustesi ja tulostuslaitteen välissä.</p>
+
+<h2>Manuaaliset kiertotavat (ja miksi ne epäonnistuvat)</h2>
+
+<p>Ennen kuin ryhdyt hakemaan ohjelmistoon, kannattaa tutustua ilmaisiin vaihtoehtoihin ja niiden rajoituksiin:</p>
+
+<ul>
+<li><strong>Pienennä pelin sovelluksen sisäistä äänenvoimakkuutta.</strong> Toimii, jos pelissä on pääliukusäädin, jossa on riittävän hienot askeleet. Monet pysähtyvät 10 %:n lisäyksiin tai yhdistävät musiikkia ja tehosteita yhteen, joten et voi kesyttää vain kovia osia.</li>
+<li><strong>Kasvata ystäviäsi Discord:ssa.</strong> Napsauta jokaista käyttäjää hiiren kakkospainikkeella ja lisää heidän äänenvoimakkuuttaan. Tämä auttaa hieman, mutta tehostaa, eikä se kosketa peliä, joka itse asiassa on ongelma.</li>
+<li><strong>Käytä kuulokkeita, joissa on laitteiston äänenvoimakkuuden säädin.</strong> Muuttaa vain yleistä tasoa, ei pelin ja äänen välistä tasapainoa.</li>
+<li><strong>Ohjaa ääni virtuaalisen laitteen kautta.</strong> Työkalut, kuten Loopback tai BlackHole, voivat jakaa streameja, mutta ne on suunnattu ammattilaisille, ottavat todelliset asetukset ja ovat ylivoimaisia "pelistä hiljaisemmaksi".</li>
+</ul>
+
+<p>Mikään näistä ei anna sinulle sitä yhtä asiaa, jota Windows:n käyttäjät pitävät itsestäänselvyytenä: nopeaa liukusäädintä sovelluskohtaisesti. Siinä se aukko <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on rakennettu täyttämään.</p>
+
+<h2>Suora korjaus: itsenäinen äänenvoimakkuus sovelluskohtaisesti</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on valikkopalkki sovelluskohtainen äänenvoimakkuuden mikseri macOS:lle. Se näyttää jokaisen sovelluksen, joka toistaa ääntä, ja antaa jokaiselle oman liukusäätimen, aivan kuten Windows Volume Mixer. Peli vastaan ääni -ongelman työnkulku on lyhyt:</p>
+
+<ul>
+<li>Napsauta SoundDial-kuvaketta valikkopalkissa, kun peli ja Discord ovat molemmat käynnissä.</li>
+<li>Etsi peli luettelosta ja vedä sen liukusäädin alas noin 40-50%.</li>
+<li>Jätä Discord (tai Slack, Zoom tai äänisovelluksesi) 100 %:iin.</li>
+<li>Säädä lennon aikana pelin aikana – työnnä peliä alaspäin äänekkäässä tulitaistelussa, takaisin ylös hiljaisen tutkimisen aikana.</li>
+</ul>
+
+<p>Koska tasot ovat sovelluskohtaisia, asetat ne kerran ja ne pysyvät. Peli pysyy rajoitettuna riippumatta siitä, kuinka kuuma sen oma miksaus on, ja ystäväsi pysyvät selvästi kuultavissa sen yli.</p>
+
+<h2>Tehostus, mykistys ja profiilit loppukokoonpanon ajaksi</h2>
+
+<p>Sama työkalu kattaa äänipelaamiseen liittyvät viereiset häiriöt:</p>
+
+<ul>
+<li><strong>Sovelluskohtainen tehostus.</strong> Jos joukkuetoverin mikrofoni on hiljainen jopa Discord:n maksimiteholla, voit painaa äänisovellusta <em>edellä</em> 100 %, joten se katkaisee pelin läpi sen sijaan, että se haudattaisiin.</li>
+<li><strong>Sovelluskohtainen mykistys.</strong> Hiljennä taustaselaimen välilehti tai musiikkisovellus välittömästi ilman alt-välilehtiä tai pysäyttämättä toistoa.</li>
+<li><strong>Äänenvoimakkuusprofiilit.</strong> Tallenna "peli"-profiili pelin ollessa 45 % ja Discord-tehostettuna ja vaihda sitten takaisin "normaaliin" profiiliin jokapäiväistä käyttöä varten yhdellä napsautuksella – ei liukusäätimien vetämistä uudelleen jokaisessa istunnossa.</li>
+<li><strong>Automaattinen vaimennus.</strong> Peli laskee automaattisesti, kun joku puhuu, joten huomiotekstit päätyvät aina toiminnan päälle.</li>
+<li><strong>Nopea lähdön vaihto.</strong> Hyppää kuulokkeiden ja kaiuttimien välillä samasta valikosta sukeltamatta järjestelmäasetuksiin.</li>
+</ul>
+
+<blockquote><p>Mentaalinen malli on yksinkertainen: yksi liukusäädin per sovellus, kuten Windows on tehnyt sen vuosia. macOS ei vain koskaan toimittanut sitä, joten pieni apuohjelma palauttaa pariteetin.</p></blockquote>
+
+<h2>Mitä odottaa rehellisesti</h2>
+
+<p>Sovelluskohtainen mikseri ratkaisee tasapainoongelman selkeästi, mutta aseta odotukset oikein. Se ohjaa ohjelmiston lähtötasoja – se ei voi korjata peliä, jonka oma ääni on huonosti masteroitu, eikä se voi nostaa signaalia, jota ei koskaan kaapattu (aito rikkinäinen mikrofoni tarvitsee silti laitteistokorjauksen). Boost lisää todellista vahvistusta, joten hiljaisen lähteen työntäminen kaukana 100 %:sta voi aiheuttaa vääristymiä, aivan kuten minkä tahansa vahvistimen kääntäminen liian korkeaksi. Järkevästi käytettynä vaatimaton pelikorkki ja pieni äänenvahvistus ovat kaikki, mitä useimmat asetukset tarvitsevat.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on hiekkalaatikko ja asennetaan suoraan Mac App Store:sta – ei ohjaimia, ei ydinlaajennuksia, ei DMG:ta, johon luottaa. Se on kertaluonteinen 14,99 € ilman tilausta, ja se tukee macOS-äänenvoimakkuuden säätöä 28 kielellä.</p>
+
+<p>Lopeta tappeleminen pelin sisäisten liukusäätimien kanssa. Tartu <a href="https://apps.apple.com/app/id6772792641">SoundDial mallissa Mac App Store</a>, hiljennä peli, pidä joukkueesi äänekkäänä ja hanki lopuksi Windows-tyylinen äänenvoimakkuusmikseri, jonka macOS unohti lähettää.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "Onko ulkoisen näytön kaiuttimet liian kovia tai ne ovat jumissa Mac:ssa? Korjaa HDMI/DisplayPort Volume",
+    description: "Miksi Mac:n äänenvoimakkuusnäppäimet eivät ohjaa HDMI- tai DisplayPort-näytön kaiuttimia ja kuinka korjata liian kovaääninen, juuttunut tai säädettävä ääni käyttämällä näytön OSD:tä, Audio MIDI -asetusta ja parempaa lähtöreititystä.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos Mac:n äänenvoimakkuusnäppäimet ovat harmaita tai ne eivät tee mitään HDMI- tai DisplayPort-liitännän kautta kytketylle näytölle, se ei yleensä ole virhe. Digitaalisen näytön ääni lähetetään usein kiinteällä tasolla, ja näytön oma laitteisto säätää äänenvoimakkuutta. Korjaus on säädä näyttöä, reitittää lähtö uudelleen tai käyttää toista äänilaitetta.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Ulkoisen näytön kaiuttimet ovat liian kovia tai ne ovat jumissa Mac:ssa? Korjaa HDMI/DisplayPort Volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi Mac-äänenvoimakkuusnäppäimet lakkaavat toimimasta HDMI/DisplayPortin kautta</h2>
+
+<p>HDMI ja DisplayPort välittävät ääntä digitaalisena streamina. Monet näytöt vastaanottavat tämän virran kiinteällä lähtötasolla ja odottavat, että hallitset äänenvoimakkuutta itse näytöstä, ei lähdelaitteesta. Kun macOS havaitsee tämän, se poistaa näytön äänenvoimakkuuden liukusäätimen käytöstä ja harmaa F11/F12-näppäimet näyttäen "ei syöttöä" -symbolin, kun painat niitä.</p>
+
+<p>Tämä on laitteisto- ja protokollarajoitus, ei jotain, jota Mac:n ohjelmisto voi ohittaa. Ääni ei koskaan kulje vaiheen läpi, jossa macOS saa vaimentaa sitä. Mikään sovellus, ohjain tai asetus ei voi säätää äänenvoimakkuutta virtaan, jonka näyttö vaatii vastaanottamaan täydellä tasolla. Rehellisesti sanottuna säästät tunteja väärän korjauksen jahtaalta.</p>
+
+<h2>Korjaus 1: Käytä näytön omia säätimiä (OSD)</h2>
+
+<p>Tämä on todellinen ratkaisu useimmille ihmisille. Lähes jokaisessa näytössä, jossa on sisäänrakennetut kaiuttimet, on näyttövalikko, jota ohjataan fyysisten painikkeiden tai ohjaussauvan avulla paneelin takana tai alapuolella.</p>
+
+<ul>
+<li>Paina OSD/menu-painiketta avataksesi näytön asetukset.</li>
+<li>Etsi Ääni- tai Äänenvoimakkuus-osio.</li>
+<li>Laske tasoa siellä – tämä on säädin, joka todella toimii HDMI/DP:n kautta.</li>
+</ul>
+
+<p>Jotkut näytöt paljastavat myös kumppanisovelluksen tai DDC/CI-tuen, jotta voit ohjata OSD:tä macOS:sta. Kolmannen osapuolen apuohjelmat, jotka puhuvat DDC:tä, voivat yhdistää Mac:n äänenvoimakkuusnäppäimet näytön laitteiston äänenvoimakkuuteen, mikä kannattaa kokeilla, jos inhoat kurkottaa paneelin painikkeita.</p>
+
+<h2>Korjaus 2: Tarkista Audio MIDI -asetukset</h2>
+
+<p>Avaa <strong>Audio MIDI -asetukset</strong> (kansiossa /Applications/Utilities). Valitse näyttösi laiteluettelosta. Jos äänenvoimakkuuden liukusäädin tulee näkyviin oikealle, vedä se alas – joskus näyttö paljastaa ohjelmistolla ohjattavan tason, vaikka valikkorivin näppäimet olisivat poissa käytöstä. Jos liukusäädin puuttuu tai on harmaana, näyttö vahvistaa, että se hyväksyy vain kiinteän tason äänen, ja sinun pitäisi palata OSD:hen.</p>
+
+<p>Kun olet täällä, varmista, että oikea tulostuslaite on valittu. On yleistä, että ääni reititetään äänettömästi näytölle, jonka olet unohtanut kytkeä, mikä selittää äkillisen kovan tai puuttuvan äänen.</p>
+
+<h2>Korjaus 3: Ohjaa ääni jonnekin, jota voit todella hallita</h2>
+
+<p>Jos näyttösi kaiuttimet ovat muutenkin keskinkertaisia (useimmat ovat) ja sen äänenvoimakkuuden säätö kömpelö, siistein ratkaisu on lopettaa niiden käyttö:</p>
+
+<ul>
+<li>Liitä kaiuttimet tai kuulokkeet näytön kuulokelähtöliitäntään, jos siinä on sellainen - analoginen lähtö on yleensä säädettävissä näytöstä.</li>
+<li>Käytä USB DAC-, USB-kaiuttimia tai Bluetooth-lähtöä. USB- ja analogialähdöt antavat macOS:lle täyden ohjelmiston äänenvoimakkuuden säädön, joten näppäimet toimivat taas normaalisti.</li>
+<li>Valitse Mac:n sisäänrakennetut kaiuttimet nopeaa ääntä varten ja pidä näyttö vain videota varten.</li>
+</ul>
+
+<p>Kun käytät lähtöä, jota macOS voi todella vaimentaa, järjestelmän äänenvoimakkuusnäppäimet toimivat ja saat takaisin hienon hallinnan sen sijaan, että hyppäät näytön karkeiden OSD-portaiden välillä.</p>
+
+<h2>Kun lähtö toimii, säädä äänenvoimakkuutta sovelluskohtaisesti</h2>
+
+<p>Ohjattavan lähdön saaminen takaisin ratkaisee "liian äänekäs / jumissa" -ongelman. Mutta macOS tarjoaa silti vain yhden päävolyymin kaikkeen. Mac:ssa ei ole sisäänrakennettua sovelluskohtaista mikseria – Windows:lla on ollut sellainen jo vuosia, mutta Apple ei koskaan toimittanut vastaavaa. Joten kova video, peli ja hiljainen puhelu jakavat kaikki saman liukusäätimen.</p>
+
+<p>Siinä se aukko <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> täyttää. Se on valikkopalkin mikseri, joka antaa jokaiselle sovellukselle oman itsenäisen äänenvoimakkuuden, joten voit kääntää selaimen välilehden alas koskematta musiikkiin, mykistää yhden sovelluksen välittömästi tai tehostaa hiljaista sovellusta sen normaalin katon yläpuolelle. Voit tallentaa äänenvoimakkuusprofiileja eri asetuksille ja vaihtaa lähdöt nopeasti valikkoriviltä.</p>
+
+<p>Selvyyden vuoksi: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ohjaa macOS:n kautta kulkevan äänen ohjelmiston äänenvoimakkuutta. Se ei voi ohittaa näyttöä, joka jättää huomioimatta järjestelmän äänenvoimakkuuden HDMI:n kautta – tämä on näytön kiinteän tason käyttäytyminen, ja vain OSD tai eri lähtö korjaa sen. Kun olet ohjattavassa lähdössä, sovelluskohtainen ohjaus on paikka, jossa sovellus loistaa.</p>
+
+<h2>Nopea tarkistuslista</h2>
+
+<ul>
+<li>Näppäimet harmaina HDMI/DP:n kautta? Käytä näytön OSD-äänenvoimakkuutta – se on odotettua toimintaa.</li>
+<li>Tarkista Audio MIDI -asetuksista piilotetun ohjelmiston liukusäädin.</li>
+<li>Varmista, että oikea tulostuslaite on valittu.</li>
+<li>Todellista hallintaa varten ohjaa ääni kuulokelähtöön, USB:hen tai Bluetooth:hen.</li>
+<li>Käytä sitten sovelluskohtaista sekoitinta yksittäisten sovellusten tasapainottamiseen.</li>
+</ul>
+
+<p>Kun tulos on hallinnassa, anna <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> katse. Se on 14,99 euron kertaostos Mac App Store:lta – ei tilausta, ei ohjaimia, ei DMG:ta – ja se tuo lopulta todellisen sovelluskohtaisen äänenvoimakkuuden mikserin macOS:lle.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "USB DAC Äänenvoimakkuus ei säädä Mac:ssa? Hanki ohjelmiston äänenvoimakkuuden säätö takaisin",
+    description: "Miksi macOS näyttää harmaaksi monien USB DAC-laitteiden äänenvoimakkuuden liukusäätimen, mitä se tarkoittaa ja kuinka saada toimiva ohjelmiston äänenvoimakkuus takaisin Mac-laitteeseesi äänenlaatua heikentämättä.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Jos USB DAC:n äänenvoimakkuuden liukusäädin näkyy harmaana Mac:ssa, se ei yleensä ole vika. macOS poistaa ohjelmiston äänenvoimakkuuden käytöstä, kun DAC ilmoittaa, että sillä ei ole säädettävää äänenvoimakkuutta, ja odottaa sinun käyttävän DAC:n omaa laitteistonuppia. Voit palauttaa ohjelmiston äänenvoimakkuuden käyttämällä sovellustason vaimenninta, kuten <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC Äänenvoimakkuus ei sääty mallissa Mac? Hanki ohjelmiston äänenvoimakkuuden säätö takaisin" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi macOS harmaa joidenkin USB DAC-laitteiden äänenvoimakkuus</h2>
+
+<p>Kun liität USB-äänilaitteen, macOS kysyy, mitä se voi tehdä USB Audio Class (UAC) -protokollan yli. Osa tätä kättelyä on joukko "ominaisuusyksikön" säätimiä, mukaan lukien äänenvoimakkuuden säädin. Jos DAC ilmoittaa äänenvoimakkuuden säätimen, macOS kytkee sen näppäimistön äänenvoimakkuusnäppäimiin ja valikkopalkin liukusäätimeen. Jos DAC ilmoittaa, ettei siinä ole isännän säädettävää äänenvoimakkuutta, macOS harmaa liukusäätimen kokonaan pois.</p>
+
+<p>Monet korkealaatuiset DAC:t ja vahvistimet tekevät tarkoituksella juuri jälkimmäistä. Suunnittelijan oletuksena on, että syötät DAC:lle täyden mittakaavan, bittitäydellisen digitaalisen signaalin ja säädät äänenvoimakkuutta itse laitteen analogisella äänenvoimakkuuden säätimellä. Tämä analoginen vaimennus tapahtuu digitaali-analogiamuunnoksen jälkeen, joten se välttää bittien heittämistä pois ja on aidosti audiofiilien suosima reitti. Se on ominaisuus, ei vika.</p>
+
+<blockquote>Nyrkkisääntö: jos DAC:ssasi on fyysinen äänenvoimakkuuden säädin ja Mac-liukusäädin on harmaana, valmistaja haluaa sinun käyttävän nuppia. Suunniteltu signaali lähetetään 100-prosenttisesti.</blockquote>
+
+<h2>Kun harmaana oleva liukusäädin on itse asiassa ongelma</h2>
+
+<p>"Käytä vain nuppia" -vastaus hajoaa todellisissa asetuksissa:</p>
+
+<ul>
+<li><strong>DAC:ssa ei ole nuppia.</strong> Lukuisat kompaktit USB DAC:t, donglit ja pro-liitännät eivät paljasta äänenvoimakkuuden säätöä eikä isäntäohjausta. Olet jumissa mihin tahansa tasoon, jolle alavirran vahvistin tai teholliset kaiuttimet on asetettu.</li>
+<li><strong>Nuppi on ulottumattomissa.</strong> Pöytäkoneen DAC näytön takana tai kiinteän vahvistuksen vahvistinta syöttävä yksikkö tarkoittaa, että äänenvoimakkuuden säätämisestä tulee fyysistä työtä näppäinpainalluksen sijaan.</li>
+<li><strong>Tarvitset sovelluskohtaisen tasapainon, ei vain master-tason.</strong> Jopa täydellinen laitteiston nuppi on yksi maailmanlaajuinen ohjaus. Se ei voi tehdä Zoom-puhelusta hiljaisempaa kuin musiikkiasi tai hidastaa peliä, kun ilmoitus laukeaa.</li>
+</ul>
+
+<p>macOS ei korjaa mitään näistä, koska käyttöjärjestelmän näkökulmasta laite toimii oikein. Tämä on rehellinen rajoitus: se on laitteen ilmoittama ominaisuus, eikä järjestelmäasetuksissa ole kytkintä sen ohittamiseksi.</p>
+
+<h2>Rehelliset kiertotavat ennen kuin asennat mitään</h2>
+
+<p>Kokeile ensin näitä, koska ne eivät maksa mitään:</p>
+
+<ul>
+<li><strong>Käytä laitteiston nuppia tai alavirran äänenvoimakkuutta.</strong> Jos DAC:ssasi tai virtalähteissäsi toimivissa kaiuttimissa/vahvistimessa on ohjain, se on puhtain vaihtoehto ja säilyttää täyden digitaalisen resoluution.</li>
+<li><strong>Tarkista DAC:n oma sovellus tai laiteohjelmisto.</strong> Jotkut DAC:t (ja pelaamiseen suunnatut yksiköt) toimittavat ohjauspaneelin tai laiteohjelmistoasetuksen, joka mahdollistaa isännän äänenvoimakkuuden. Jos "USB-äänenvoimakkuus"- tai "ohjelmiston äänenvoimakkuus" -vaihtoehto on olemassa, sen kytkeminen päälle saa macOS-liukusäätimen toimimaan uudelleen.</li>
+<li><strong>Kokeile toista USB-tilaa.</strong> Muutamat laitteet raportoivat erilaisista ominaisuuksista "luokkayhteensopivissa" vs. omassa ohjaintilassa. Toimittajaohjaimen asentaminen tai poistaminen voi muuttaa sitä, näkeekö macOS äänenvoimakkuuden säätimen.</li>
+<li><strong>Katso Audio MIDI -asetukset.</strong> Avaa Audio MIDI Setup, valitse laite ja tarkista, näkyykö siellä master- vai kanavakohtainen äänenvoimakkuus. Joskus liukusäädin on käytettävissä kyseisessä paneelissa, vaikka valikkorivi on harmaana.</li>
+</ul>
+
+<p>Jos mikään näistä ei päde, tarvitset ohjelmistovaimennuksen Mac-puolella.</p>
+
+<h2>Ohjelmiston äänenvoimakkuuden säätö sovelluskohtaisella vaimennuksella</h2>
+
+<p>Kun laitteisto ei hyväksy äänenvoimakkuuskomentoa, jäljellä oleva vaihtoehto on vaimentaa ääntä ohjelmistossa ennen kuin se saavuttaa DAC:n. Tämä on juuri sitä <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ei. Se sijaitsee valikkopalkissa ja antaa jokaiselle käynnissä olevalle sovellukselle oman itsenäisen äänenvoimakkuuden, mykistyksen ja jopa tehostuksen riippumatta siitä, paljastaako DAC laitteiston ohjauksen.</p>
+
+<p>Harmaan DAC:n käyttäminen:</p>
+
+<ul>
+<li>Asenna <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store:sta ja avaa se valikkopalkista.</li>
+<li>Pidä DAC valittuna järjestelmän ulostuloksi; Voit myös käyttää SoundDial:n nopeaa lähdön vaihtoa siirtyäksesi DAC:n, kaiuttimien ja kuulokkeiden välillä ilman järjestelmäasetuksiin sukellusta.</li>
+<li>Aseta sovelluskohtaiset tasot: pudota selain, nosta musiikkisoitinta, mykistä kaikki, mitä et halua. Jokainen sovellus suoratoistaa valitsemallasi äänenvoimakkuudella, ja sekoitettu tulos menee DAC:lle.</li>
+<li>Tallenna äänenvoimakkuusprofiilit eri skenaarioihin (puhelut vs. kuuntelu) ja anna taustasovellusten vaimentaa automaattisesti, kun jotain tärkeämpää alkaa toistaa.</li>
+</ul>
+
+<h2>Rehellinen kompromissi äänenlaadun suhteen</h2>
+
+<p>Ohjelmistovaimennus vähentää digitaalista tasoa ennen muuntamista, joten teoriassa se hylkää pienen määrän resoluutiota verrattuna analogiseen äänenvoimakkuuteen itse DAC:ssa. Käytännössä nykyaikaisilla 24-bittisillä ja korkeammilla poluilla normaalilla kuuntelustasolla vaimennus on selvästi alle kaiken kuultavan, ja DAC:n koko dynaaminen alue säilyy kaikessa, jota soitetaan lähes täydellä skaalalla. Jos olet puristi, jolla on hyvä analoginen nuppi käden ulottuvilla, käytä nuppia. Jos sinulla ei ole käyttökelpoista laitteistohallintaa tai tarvitset sovelluskohtaista tasapainoa, jota macOS ei yksinkertaisesti pysty tarjoamaan, ohjelmiston äänenvoimakkuus on oikea kompromissi, ja se voittaa liukusäätimen, joka ei tee mitään.</p>
+
+<p>SoundDial on 14,99 euron kertaostos, hiekkalaatikko, ilman ohjaimia, ydinlaajennuksia tai DMG-asennusohjelmia. Jos USB DAC:n äänenvoimakkuus on harmaana eikä nupin kurominen ole vaihtoehto, <a href="https://apps.apple.com/app/id6772792641">hanki SoundDial malliin Mac App Store</a> ja laita toimiva äänenvoimakkuuden säädin takaisin valikkoriville.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "Korjaa yhden kovan sovelluksen enimmäisäänenvoimakkuus Mac:ssa (suojaa kuulosi)",
+    description: "macOS:ssa ei ole sovelluskohtaista äänenvoimakkuuden rajoitinta, joten yksi kova sovellus voi puhaltaa sinut järjestelmän täydellä äänenvoimakkuudella. Näin voit asettaa enimmäismäärän yhdelle sovellukselle Mac:ssa sovelluskohtaisella mikserillä ja miksi laitteistorajoitukset ovat tärkeitä.",
+    date: "2026-07-23",
+    readTime: "5 min lukua",
+    content: `<p>macOS:ssa ei ole sisäänrakennettua tapaa rajoittaa yhden sovelluksen enimmäisäänenvoimakkuutta, joten äänekäs ohjelma toistaa missä tahansa järjestelmän liukusäätimessäsi. Jos haluat asettaa ylärajan yhdelle sovellukselle, käytä sovelluskohtaista valikkopalkkia, kuten esim <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: pidä sovellusta esimerkiksi 40 prosentissa, kun järjestelmäsi äänenvoimakkuus pysyy korkeampana kaikessa muussa.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Korjaa yhden kovaäänisen sovelluksen enimmäisäänenvoimakkuus Mac:ssa (suojaa kuulosi)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Miksi yksi sovellus voi yhtäkkiä räjäyttää sinut Mac: lle</h2>
+
+<p>macOS:ssa valikkopalkin tai ohjauskeskuksen äänenvoimakkuuden liukusäädin on yksi järjestelmän laajuinen säädin. Jokainen sovellus virtaa samaan ulostuloon samalla tasolla. Käyttöjärjestelmään ei ole sisäänrakennettu sovelluskohtaista äänenvoimakkuuden mikseriä, kuten Windows:lla on ollut vuosia Volume Mixer -paneelinsa kanssa.</p>
+
+<p>Tällä suunnittelulla on todellinen seuraus korvillesi. Jos asetat järjestelmän äänenvoimakkuuden korkeaksi, jotta voit kuulla hiljaisen podcastin tai pehmeän videopuhelun, ja vaihdat sitten peliin, Discord-ilmoitukseen, paljon mainoksia sisältävään verkkosivustoon tai videoon, joka on masteroitu paljon kovempaa, myös sovellus toistaa koko järjestelmätasolla. Tuloksena on klassinen hyppypelotus: äkillinen äänimuuri äänenvoimakkuudella, jota et koskaan halunnut kyseiselle sovellukselle.</p>
+
+<p>Kaikille, joilla on tinnitus, ääniherkkyys tai jotka vain arvostavat kuuloaan, tämä arvaamattomuus on ongelma. Et yritä tehdä kaikesta hiljaisempaa. Yrität taata, että yksi tietty kovaääninen sovellus ei voi koskaan ylittää tasoa, jonka olet päättänyt turvalliseksi.</p>
+
+<h2>Mitä macOS voi ja ei voi tehdä täällä</h2>
+
+<p>Haluan olla rehellinen rajoista ennen kuin suosittelen mitään.</p>
+
+<ul>
+<li><strong>Järjestelmän äänenvoimakkuus</strong> laskee kaiken kerralla. Vähennä sitä yhden sovelluksen kesyttämiseksi, jolloin hiljaisista sovelluksistasi tulee kuulumattomia.</li>
+<li><strong>Sovelluksen sisäiset äänenvoimakkuuden liukusäätimet</strong> olemassa joissakin sovelluksissa (mediasoittimissa, joissakin selaimissa välilehtikohtaisesti), mutta ei useimmissa. Pelissä, videopuhelussa tai alkuperäisessä sovelluksessa ei useinkaan ole itsenäistä äänenvoimakkuuden säädintä.</li>
+<li><strong>Laitteistakatto on todellinen.</strong> Mikään ohjelmisto ei voi työntää signaalia voimakkaammin kuin tulostuslaitteesi maksimi. Sitä vastoin sovelluksen oma äänenvoimakkuuden hallinta sekä DAC ja kuulokkeet määrittävät, kuinka kovalta "100 prosenttia" todella tuntuu. Ohjelmisto voi laskea sovelluskohtaista tasoa luotettavasti, mutta se ei voi kirjoittaa uudelleen kuulokkeiden fysiikkaa.</li>
+</ul>
+
+<p>Rehellinen tavoite ei siis ole taikavoimakkuuden rajoittaminen kuljettajan tasolla. Se on käytännöllinen, luotettava sovelluskohtainen vaimennus: pidä valittua sovellusta kiinteässä osassa järjestelmän lähdöstä, jotta se ei koskaan yllätä sinua.</p>
+
+<h2>Yhden sovelluksen äänenvoimakkuuden rajoittaminen sovelluskohtaisella mikserillä</h2>
+
+<p>Sovelluskohtainen äänenvoimakkuuden mikseri sieppaa jokaisen sovelluksen äänen ja antaa sinun asettaa sen tason itsenäisesti. Tässä on työnkulku <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>, joka sijaitsee valikkopalkissa:</p>
+
+<ul>
+<li><strong>Avaa mikseri.</strong> Napsauta SoundDial-valikkopalkin kuvaketta. Näet luettelon kaikista tällä hetkellä ääntä toistavista sovelluksista, joista jokaisella on oma liukusäädin.</li>
+<li><strong>Etsi kovaääninen sovellus.</strong> Etsi sovellus, jota haluat rajoittaa, esimerkiksi peli, selain tai videoneuvottelutyökalu.</li>
+<li><strong>Aseta sen katto.</strong> Vedä sovelluksen liukusäädintä alas turvalliselle tasolle, esimerkiksi 35–50 prosenttia. Tämä sovellus toistaa nyt sillä murto-osalla järjestelmän lähdöstä, kun taas kaikki muut sovellukset pysyvät ennallaan.</li>
+<li><strong>Jätä järjestelmän äänenvoimakkuus sinne, missä sitä tarvitset.</strong> Pidä järjestelmän liukusäädin riittävän korkealla hiljaisille sovelluksille. Rajattu sovellus pysyy kurissa siitä huolimatta.</li>
+</ul>
+
+<p>Koska taso on sovelluskohtainen, asetat maksimiarvon tälle yhdelle ohjelmalle. Vaikka se yrittää toistaa äänekkäimmän sisällön, sen äänekkäin on nyt valitsemasi murto-osa.</p>
+
+<h2>Tee korkki kiinni profiileilla</h2>
+
+<p>Yksittäinen manuaalinen säätö auttaa, mutta sovellustasot voivat nollata, kun lopetat ja käynnistät sen uudelleen. Jos haluat tehdä kuulolle turvallisen asennuksen, joka kestää uudelleenkäynnistykset, käytä <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>äänenvoimakkuusprofiilit. Tallenna profiili haluamillasi sovelluskohtaisilla tasoilla, esimerkiksi "hiljainen peliilta", jossa peli on 40 prosenttia, musiikkisovelluksesi 70 prosenttia ja puhelusovellus 90 prosenttia. Muista se yhdellä napsautuksella aina kun istut alas. Äänenvoimakkaan sovelluksen katto palaa juuri sellaisena kuin sen asetit.</p>
+
+<p>Kaksi muuta ominaisuutta, jotka kannattaa tietää kuulonsuojaimista varten:</p>
+
+<ul>
+<li><strong>Sovelluskohtainen mykistys</strong> Voit hiljentää yksittäisen rikoksentekijän välittömästi koskematta mihinkään muuhun, mikä on hyödyllistä sovellukselle, joka lähettää roskapostin äänekkäitä ilmoituksia.</li>
+<li><strong>Automaattinen vaimennus</strong> vaimentaa taustaäänen automaattisesti, kun jotain tärkeämpää alkaa, joten et jää kahden kovaäänisen lähteen väliin kerralla.</li>
+</ul>
+
+<blockquote><p>Ohjelmiston vaimennus on todella tehokas sovelluksen rajoittamiseen, mutta se on yksi suojakerros, ei lääketieteellinen suoja. Jos sinulla on tinnitusta tai ääniherkkyyttä, yhdistä sovelluskohtaiseen kattoon järkeviä yleisiä kuuntelutasoja ja taukoja. Mikään sovellus ei korvaa huolellisia äänenvoimakkuustottumuksia.</p></blockquote>
+
+<h2>Huomautus tehostamisesta ja siitä, miksi se on erillinen</h2>
+
+<p>Sama sovelluskohtainen mikseri, joka peittää kovaäänisen sovelluksen, voi myös nostaa liian hiljaisen yli 100 prosenttia, mikä on kätevää sovellukselle, jonka oma äänenvoimakkuus on masteroitu liian alhaiseksi. Nämä ovat saman ohjauksen kaksi puolta: päätät kunkin sovelluksen tason, ylös tai alas. Kuulonsuojaimia varten valitset "alas" suunnan ja pidät sitä siellä.</p>
+
+<h2>Lyhyt versio</h2>
+
+<p>macOS ei anna sinun rajoittaa yhden sovelluksen äänenvoimakkuutta yksinään, ja se on aito käyttöjärjestelmän aukko, ei käyttäjän virhe. Valikkorivin sovelluskohtainen mikseri sulkee sen: aseta kovaääninen sovellus kiinteään murto-osaan, tallenna se profiiliin, niin se ei voi koskaan räjäyttää sinua, kun muut sovelluksesi pysyvät kuultavissa.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on kertaostos 14,99 € Mac App Store, hiekkalaatikko ilman ohjaimia tai DMG asennettavaa. Jos tavoitteena on suojata korviasi yhdeltä arvaamattomalta sovellukselta, se on yksinkertaisin tapa asettaa katto ja pitää se.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "Erilainen vasen/oikea tasapaino sovelluksen mukaan Mac:ssa - Onko se mahdollista?",
+    description: "Voitko asettaa eri vasemman/oikean stereotasapainon jokaiselle macOS:n sovellukselle? Rehellisesti sanottuna ei – ei alkuperäisesti eikä useimmilla työkaluilla. Tässä on, mikä on todella mahdollista ja missä ovat todelliset rajat.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Rehellisesti sanottuna ei – macOS ei anna sinun asettaa erilaista vasemman/oikean stereotasapainoa sovelluskohtaisesti, eikä myöskään mikään kolmannen osapuolen työkalu paljasta todellista sovelluskohtaista panorointia. Voit asettaa yhden globaalin saldon tulostuslaitteellesi ja hallita sovelluskohtaisesti <em>äänenvoimakkuutta</em>, mutta itsenäinen sovelluskohtainen <em>pannulla</em> ei ole ominaisuus, jonka macOS tarjoaa.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Erilainen vasen/oikea tasapaino sovelluksen mukaan Mac:ssa — Onko se mahdollista?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Tasapaino vs. äänenvoimakkuus – ne eivät ole sama asia</h2>
+
+<p>On syytä erottaa kaksi ajatusta, jotka usein menevät sekaisin:</p>
+<ul>
+  <li><strong>Äänenvoimakkuus</strong> - kuinka äänekäs sovellus yleisesti ottaen on. Tämä on yksi taso, jota sovelletaan molempiin kanaviin.</li>
+  <li><strong>Tasapaino (pannu)</strong> — kuinka ääni jakautuu vasemman ja oikean kaiuttimen välillä. Tasapaino "täysi vasen" lähettää kaiken vasemmalle kanavalle ja vaimentaa oikean.</li>
+</ul>
+
+<p>Ihmiset, jotka pyytävät "erilaista tasapainoa sovelluskohtaisesti", haluavat yleensä jompaakumpaa kahdesta asiasta: siirtää yhden sovelluksen äänen toiseen korvaan (esim. puhelu vasemmassa korvassa, musiikki oikeaan) tai korjata kuuloeroa tai huonoa kaiutinta toisella puolella – mutta vain tietyissä sovelluksissa. Ne ovat oikeutettuja tavoitteita. Ongelma on siellä, missä kontrolli asuu.</p>
+
+<h2>Miksi macOS ei voi tehdä tätä natiivisti</h2>
+
+<p>macOS:ssa on täsmälleen yksi tasapainosäädin, ja se toimii lähtölaitteen tasolla. Löydät sen alta <strong>Järjestelmäasetukset → Ääni → Lähtö</strong>, missä a <em>Tasapaino</em> liukusäädin siirtää koko miksausta vasemmalle tai oikealle. Riippumatta siitä, mihin liukusäädin on asetettu, se koskee <em>kaikki</em> reititetään kyseiselle laitteelle – jokainen sovellus, jokainen järjestelmäääni, kaikki kerralla.</p>
+
+<p>Normaalissa macOS-äänipinossa ei ole API:a, jossa lukee "renderöi tämän sovelluksen ääni vasemmalle, sovellus on oikealle". Sovellukset antavat äänensä järjestelmälle jo sekoitettuna, ja järjestelmä käyttää yhtä master-tasapainoa matkalla kaiuttimiin. Joten käyttöjärjestelmä ei yksinkertaisesti paljasta tasoa, johon haluat sovelluskohtaisen panoroinnin. Tämä on aito käyttöjärjestelmän rajoitus, ei jotain, jota valikkorivin apuohjelma voi kohteliaasti kiertää.</p>
+
+<blockquote>Toisin kuin sovelluskohtaisesti <em>äänenvoimakkuutta</em> - joka macOS:lta myös puuttuu alkuperäisesti, mutta mitkä sovellukset voivat toteuttaa napauttamalla äänivirtaa - sovelluskohtaisesti <em>tasapaino</em> vaatisi jokaisen sovelluksen streamin panoroimista uudelleen erikseen, eikä tämä koukku ole hiekkalaatikkosovellusten käytettävissä.</blockquote>
+
+<h2>Mitä SoundDial tekee – ja rehellisesti sanottuna, mitä se ei tee</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> antaa sinulle sovelluskohtaisen ohjauksen macOS puuttuu: riippumaton <strong>äänenvoimakkuutta</strong> jokaiselle käynnissä olevalle sovellukselle sovelluskohtaisesti <strong>mykistää</strong>, sovelluskohtainen tilavuus <strong>tehostaa</strong> yli 100 %, säästötilavuus <strong>profiilit</strong>, automaattinen vaimennus ja nopea lähdön vaihto valikkopalkista.</p>
+
+<p>Ollakseni suoraan kanssasi: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> säätimet sovelluskohtaisesti <em>äänenvoimakkuus ja mykistys</em>, ei sovelluskohtaista stereoa <em>panorointi</em>. Se ei lähetä Safari:ta vasempaan korvaasi ja Spotify:ta oikeaan. Jos joku kertoo sinulle, että valikkopalkin mikseri tekee todellisen sovelluskohtaisen L/R-tasapainon macOS:ssa, ole skeptinen – se ei ole käyttöjärjestelmän antama ohjaus. Se, mitä SoundDial aidosti ratkaisee, on paljon yleisempi turhautuminen: yksi sovellus on liian äänekäs tai liian hiljainen verrattuna toiseen.</p>
+
+<h2>Todelliset ratkaisut sovelluskohtaiseen tasapainoon</h2>
+
+<p>Jos todella tarvitset vierekkäin jaettua ääntä, tässä on rehelliset vaihtoehdot, karkeasti ottaen yksinkertaisimmasta kaikkein tärkeimpiin:</p>
+
+<ul>
+  <li><strong>Globaali saldo (kaikki sovellukset):</strong> Valitse Järjestelmäasetukset → Ääni → Lähtö → Tasapaino. Tämä on ainoa sisäänrakennettu vaihtoehtosi, ja se vaikuttaa kaikkiin sovelluksiin. Hyödyllinen huoneen tai kuulon epäsymmetrian korjaamiseen, hyödytön yhden sovelluksen eristämiseen.</li>
+  <li><strong>Erilliset tulostuslaitteet:</strong> Tämä on lähinnä todellista sovelluskohtaista saldoa. Ohjaa sovellus A yhteen lähtölaitteeseen ja sovellus B toiseen ja aseta sitten kunkin laitteen tasapaino erikseen. macOS:n avulla voit valita tulostuslaitteen joidenkin sovellusten sisällä (ja selaimet/viestintäsovellukset paljastavat usein oman tulosvalitsimen). Jos sovellus A osoittaa vasemmalle panoroituun laitteeseen ja sovellus B oikealle panoroituun laitteeseen, saat tehokkaasti sovelluskohtaisen saldon – kunhan molemmat sovellukset antavat sinun valita tulosteensa.</li>
+  <li><strong>Virtuaaliset äänen reititystyökalut:</strong> Apuohjelmat, jotka luovat virtuaalisia laitteita ja sisäisen mikserin, voivat joissakin kokoonpanoissa reitittää tiettyjä sovelluksia tiettyihin kanaviin. Tämä on tehokas, mutta vaivalloinen, lisää kuljettajatyyppisen komponentin ja on ylivoimainen useimmille ihmisille. Se on streamaajien ja äänisuunnittelijoiden alaa, ei satunnaista "soitto yhteen korvaan" -korjaus.</li>
+  <li><strong>Laitteiston jako:</strong> Jos kyse on fyysisistä kaiuttimista tai kuuloeroista, laitteistomikseri tai ääniliitäntä kanavakohtaisella ohjauksella ohittaa ohjelmisto-ongelman kokonaan.</li>
+</ul>
+
+<h2>Kun sovelluskohtainen äänenvoimakkuus on todella sitä mitä tarvitset</h2>
+
+<p>Monet "Haluan erilaisen saldon sovelluskohtaisesti" -pyynnöt ovat todella "yksi sovellus hukuttaa toisen". Jos tavoitteena on videopuhelu, jonka voit kuunnella musiikistasi, tai peli, joka on liian kova Discord-keskustelun vieressä, tasapaino ei ole työkalu, vaan riippumaton äänenvoimakkuus. Juuri sen sovelluskohtainen mikseri käsittelee siististi, ilman virtuaalisia ohjaimia tai reititysvoimistelua.</p>
+
+<p>Joten rehellinen yhteenveto: todellinen sovelluskohtainen vasemman/oikean tasapaino ei ole macOS-ominaisuus, eikä mikään mikserisovellus tee sitä vakuuttavasti. Todelliset reitit ovat globaalin tasapainon liukusäädin tai sovelluskohtainen tulosteiden reititys erikseen panoroituihin laitteisiin. Mutta jos taustalla oleva kipu on suhteellinen äänenvoimakkuus, se on ratkaistu ongelma.</p>
+
+<p>Haluatko itsenäisen äänenvoimakkuuden, mykistyksen ja tehostuksen jokaiselle Mac:n sovellukselle tallennettavilla profiileilla ja ilman ohjaimia? <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">Hanki SoundDial Mac App Store:lle</a> — 14,99 €, kertaluonteinen, hiekkalaatikko.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "Miksi jotkut sovellukset ovat niin paljon äänekkäämpiä kuin toiset Mac:ssa? (Ja kuinka tasoittaa ne)",
+    description: "Sovellukset kuulostavat hurjasti erilaisilta Mac:ssa, koska jokainen niistä on masteroitu oman loudness-tavoitteensa mukaan ja macOS:ssa ei ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden säätöä. Tässä on miksi näin tapahtuu ja kuinka sovelluksesi tasoitetaan.",
+    date: "2026-07-23",
+    readTime: "6 min lukua",
+    content: `<p>Sovellukset kuulostavat hurjasti erilaisilta Mac-laitteessasi, koska jokainen niistä on luotu, masteroitu ja normalisoitu oman äänenvoimakkuustavoitteensa mukaan, eikä macOS:ssa ole sisäänrakennettua sovelluskohtaista äänenvoimakkuuden säädintä niiden yhteensovittamiseksi. Spotify, YouTube, Zoom ja järjestelmähälytykset kulkevat kaikki saman pääliukusäätimen läpi, joten olet jumissa ajaessasi sitä jatkuvasti ylös ja alas.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Miksi jotkut sovellukset ovat niin paljon äänekkäämpiä kuin toiset Mac:ssa? (Ja kuinka tasoittaa ne)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>Se ei ole sinun Mac - se on itse ääni</h2>
+
+<p>macOS:n yksi järjestelmän äänenvoimakkuuden liukusäädin ohjaa kaiken lopullista lähtötasoa. Se ei kosketa kunkin sovelluksen äänivirran suhteellista äänenvoimakkuutta. Tämä perusviiva asetetaan kauan ennen kuin ääni saavuttaa kaiuttimien, ja se vaihtelee valtavasti lähteestä toiseen.</p>
+
+<p>Kolme asiaa ohjaa näitä eroja:</p>
+
+<ul>
+<li><strong>Masterointi tasot.</strong> Törkeä popkappale masteroidaan paljon kuumemmin kuin hiljainen akustinen äänitys tai puhuttu podcast. Elokuvateatteriin miksattu elokuva pitää kuiskaukset hiljaisena ja räjähdyksen äänekkäänä tarkoituksella – se on dynaaminen alue, ja se tarkoittaa, että keskimääräinen taso on alhainen.</li>
+<li><strong>Äänenvoimakkuuden normalisointitavoitteet.</strong> Suoratoistoalustat säätävät toiston LUFS-arvolla (Loudness Units suhteessa Full Scale) mitattuun kohteeseen. Spotify tavoittelee noin -14 LUFS:a, YouTube noin -14 LUFS, Apple Music noin -16 LUFS. Videoneuvottelusovellus tai peli käyttää omaa voittoaan kokonaan. Kaksi eri kohteisiin "normalisoitua" sovellusta eivät koskaan vastaa toisiaan.</li>
+<li><strong>Ei sovellusten välistä tasoitusta.</strong> Jokainen sovellus normalisoi vain oman sisältönsä. Mikään ei koordinoi Spotify:ta Zoom:ta vastaan ​​selainpeliä vastaan. macOS vain summaa ne ja lähettää sekoituksen ulos.</li>
+</ul>
+
+<h2>Miksi LUFS:llä on merkitystä (selvästi sanottuna)</h2>
+
+<p>Huipputaso kertoo signaalin yksittäisen voimakkaimman hetken. LUFS kertoo kuinka kovaa jokin asia todella on <em>tuntuu</em> ajan mittaan painotettu sen mukaan, miten ihmisen kuulo toimii. Tämä ero johtuu siitä, miksi podcast ja tanssikappale voivat saavuttaa saman huipun, mutta silti tuntea maailmoja toisistaan ​​äänekkäästi – kappale viettää paljon enemmän aikaa lähellä kattoaan.</p>
+
+<blockquote>Hiljaisempi LUFS-kohde merkitsee enemmän sisätilaa ja dynaamista aluetta. Voimakkaampi kohde tarkoittaa johdonmukaisempaa, "aina täyttä" ääniseinää. Kumpikaan ei ole väärin – mutta kun sovellukset kohdistavat eri numeroihin, tunnet sen yhden sovelluksen huutavan ja toisen mumisevan.</blockquote>
+
+<p>Se on rehellinen perimmäinen syy. Se ei ole bugi, jonka voit korjata. Se on fysiikka siitä, kuinka ääni tuotetaan ja toimitetaan, kerrottuna kymmenissä sovelluksissa, joita ei koskaan suunniteltu sopimaan keskenään.</p>
+
+<h2>Rako macOS jättää auki</h2>
+
+<p>Tässä on osa, joka todella turhauttaa ihmiset: Windows on toimittanut sovelluskohtaista Volume Mixeria vuosia. Voit vetää yhden sovelluksen alas ja työntää toisen ylös suoraan tehtäväpalkista. macOS ei ole koskaan sisällyttänyt tätä. Ääniasetukset antavat sinulle vain pääliukusäätimen ja lähtölaitteen valinnan.</p>
+
+<p>Joten Mac:ssa vaihtoehdot ovat perinteisesti olleet rajalliset:</p>
+
+<ul>
+<li>Säädä kunkin sovelluksen omaa sisäistä äänenvoimakkuuden liukusäädintä – jos sillä edes on sellainen. Monet sovellukset (Zoom, useimmat pelit, järjestelmäkellot) eivät paljasta käyttökelpoista sovellusta.</li>
+<li>Käytä pääliukusäädintä manuaalisesti aina, kun vaihdat kontekstia.</li>
+<li>Mykistä yksi asia kokonaan, mikä on tylsä ​​korjaus, joka ei itse asiassa tasapainota mitään.</li>
+</ul>
+
+<p>Mikään näistä ei muista valintaasi. Lopeta ja käynnistä sovellus uudelleen, niin palaat alkutilaan.</p>
+
+<h2>Käytännön ratkaisu: muistettu äänenvoimakkuus sovellusta kohden</h2>
+
+<p>Koska et voi pakottaa jokaista palvelua hallitsemaan uudelleen luetteloonsa, toimiva ratkaisu on lisätä puuttuva macOS-taso, jota ei koskaan toimitettu: itsenäinen, muistettu määrä jokaiselle sovellukselle. Juuri sitä <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ei. Se asuu valikkopalkissasi ja antaa jokaiselle käynnissä olevalle sovellukselle oman liukusäätimen, joten voit vetää kovaäänistä alas ja työntää hiljaista ylöspäin, kunnes ne asettuvat sinulle tasaiselle tasolle.</p>
+
+<p>Tasoittaaksesi sovelluksesi käytännössä:</p>
+
+<ul>
+<li>Avaa <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> valikkopalkista ja näet jokaisen aktiivisen sovelluksen omalla säätimellään.</li>
+<li>Vähennä mitä tahansa räjäyttämistä – yleensä kuumana masteroitua musiikki- tai videosovellusta – noin 60–70 %.</li>
+<li>Jätä hiljainen viitesovellus (usein puhelusovellus tai podcast) 100 %:iin ja käytä sovelluskohtaisesti <strong>tehostaa</strong> työntämään sen yli 100 %, jos se on vielä liian pehmeä.</li>
+<li>Aseta tasot kerran. SoundDial muistaa jokaisen sovelluksen äänenvoimakkuuden, joten saldo säilyy, kun avaat sen seuraavan kerran.</li>
+</ul>
+
+<p>Kaksi ominaisuutta tekevät suurimman osan tasoituksesta täällä. <strong>Tehosta</strong> sillä on merkitystä, koska monet sovellukset ovat yksinkertaisesti liian hiljaisia jopa maksimissaan – vain äänenvoimakkuutta vähentävä sovelluskohtainen liukusäädin ei voi pelastaa niitä, mutta se, joka voi vahvistaa yli 100 %, voi. Ja <strong>tilavuusprofiilit</strong> voit tallentaa kokonaisen joukon tasoja – esimerkiksi "tarkenna musiikkia matalalla, soittelee äänekkäästi" -profiilin töihin verrattuna erilaisiin sekoituksiin pelaamiseen. Voit vaihtaa niiden välillä välittömästi sen sijaan, että säätäisit sovelluskohtaisesti.</p>
+
+<h2>Missä tämä auttaa eniten</h2>
+
+<p>Yleisin helpotus on musiikki vastaan kokous -hyppy: musiikin suoratoisto masteroituna, sitten soittosovellus, joka kuulostaa heikommalta verrattuna. Aseta puhelusovellus korkeammalle (tai tehostetuksi), vedä musiikki alas ja hätkähdyttävä äänenvoimakkuuden heilahdus katoaa. Sama koskee hiljaista selainpeliä kovaäänistä videosoitinta vastaan ​​tai järjestelmähälytyksiä, jotka hyppäävät kaiken päälle.</p>
+
+<p>Rajojen selkeyttämiseksi: SoundDial tasapainottaa sovellusten tuottamaa sisältöä. Se ei hallitse uudelleen huonosti tuotettua raitaa, eikä se voi keksiä yksityiskohtia äänessä, joka on sekoitettu erittäin laajaan dynamiikkaan. Se antaa sinulle yhden ohjauksen macOS, joka on jätetty pois – tasaiset, sovelluskohtaiset tasot, jotka pysyvät paikoillaan.</p>
+
+<p>Oletko kyllästynyt ajamaan pääliukusäätimellä joka kerta, kun vaihdat sovellusta? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> on kertaluonteinen 14,99 € Mac App Store:ssa – hiekkalaatikko, ei ohjaimia, ei DMG:ta – ja se antaa lopulta jokaiselle sovellukselle oman muistettavan volyyminsä.</p>`,
   },
 };

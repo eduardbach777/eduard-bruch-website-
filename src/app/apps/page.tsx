@@ -115,13 +115,13 @@ const niches: AppNiche[] = [
     ],
   },
   {
-    name: "PDF Creator",
+    name: "Family Safety",
     description:
-      "Scan documents, merge, split, compress & edit PDFs. All-in-one PDF toolkit.",
-    privacyUrl: "/pdfcreator/privacy",
-    termsUrl: "/pdfcreator/terms",
-    color: "border-indigo-500",
-    apps: ["PDF Creator"],
+      "Warden — see your family on one map, get place alerts, check in, and hit SOS in an emergency. Privacy-first, no ads.",
+    privacyUrl: "/warden/privacy",
+    termsUrl: "/warden/data",
+    color: "border-emerald-500",
+    apps: ["Warden"],
   },
   {
     name: "Double Calculator",

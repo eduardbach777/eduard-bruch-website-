@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mockup B — Product-led</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{ --bg:#08090c; --panel:#101218; --card:#12141b; --fg:#f4f6fb; --muted:#9aa3b2;
+         --faint:#5b6472; --line:rgba(255,255,255,.08); --accent:#4ade80; --accent2:#38bdf8; }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--fg);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+  .pill{display:inline-flex;align-items:center;gap:8px;font-size:12px;font-weight:600;color:var(--accent);background:rgba(74,222,128,.1);border:1px solid rgba(74,222,128,.25);padding:6px 14px;border-radius:100px}
+  /* nav */
+  nav{position:fixed;inset:0 0 auto;z-index:50;background:rgba(8,9,12,.72);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+  nav .wrap{height:70px;display:flex;align-items:center;justify-content:space-between}
+  .logo{font-weight:700;letter-spacing:-.01em;font-size:16px}
+  .logo b{color:var(--accent)}
+  .nl{display:flex;gap:28px;align-items:center}
+  .nl a{font-size:14px;color:var(--muted);font-weight:500}.nl a:hover{color:#fff}
+  .nbtn{background:#fff;color:#08090c;padding:9px 18px;border-radius:9px;font-size:13px;font-weight:600}
+  /* hero */
+  .hero{padding:150px 0 90px;position:relative}
+  .hero::before{content:"";position:absolute;top:-10%;left:50%;transform:translateX(-50%);width:900px;height:520px;background:radial-gradient(closest-side,rgba(74,222,128,.14),transparent 70%);filter:blur(20px);z-index:0}
+  .hero .wrap{position:relative;z-index:1}
+  .hero h1{font-size:clamp(40px,6.4vw,74px);font-weight:800;letter-spacing:-.03em;line-height:1.04;max-width:900px}
+  .hero h1 span{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .hero p{margin-top:24px;font-size:19px;color:var(--muted);max-width:600px;line-height:1.6}
+  .cta{margin-top:36px;display:flex;gap:14px;flex-wrap:wrap}
+  .b1{background:var(--accent);color:#052e16;font-weight:700;padding:14px 26px;border-radius:11px;font-size:15px}
+  .b2{background:var(--panel);border:1px solid var(--line);color:#fff;font-weight:600;padding:14px 26px;border-radius:11px;font-size:15px}
+  .stats{margin-top:56px;display:flex;gap:52px;flex-wrap:wrap}
+  .stat .n{font-size:34px;font-weight:800;letter-spacing:-.02em}
+  .stat .l{font-size:13px;color:var(--faint);margin-top:2px;font-weight:500}
+  /* section */
+  .sec{padding:96px 0}
+  .head{margin-bottom:44px}
+  .head h2{font-size:clamp(28px,3.6vw,42px);font-weight:800;letter-spacing:-.02em}
+  .head p{color:var(--muted);margin-top:10px;font-size:16px}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;transition:.3s;position:relative}
+  .card:hover{transform:translateY(-5px);border-color:rgba(74,222,128,.35);box-shadow:0 20px 60px -20px rgba(0,0,0,.7)}
+  .thumb{aspect-ratio:16/11;background:#0b0d12 center/cover;overflow:hidden;border-bottom:1px solid var(--line)}
+  .thumb img{width:100%;height:100%;object-fit:cover}
+  .cb{padding:22px}
+  .row{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+  .cb h3{font-size:19px;font-weight:700}
+  .plt{font-size:11px;font-weight:600;color:var(--faint);background:rgba(255,255,255,.05);padding:4px 9px;border-radius:6px}
+  .cb .tg{color:var(--accent);font-size:12.5px;font-weight:600;margin-bottom:10px}
+  .cb p{color:var(--muted);font-size:13.5px;line-height:1.6;margin-bottom:18px}
+  .get{display:inline-flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#fff}
+  .get:hover{color:var(--accent)}
+  /* guides band */
+  .guides{background:var(--panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .gg{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .g{padding:26px;border:1px solid var(--line);border-radius:14px;background:var(--card);transition:.25s}
+  .g:hover{border-color:rgba(56,189,248,.35)}
+  .g .t{font-size:12px;font-weight:700;color:var(--accent2);text-transform:uppercase;letter-spacing:.08em;margin-bottom:12px}
+  .g h4{font-size:17px;font-weight:700;margin-bottom:8px}.g p{color:var(--muted);font-size:13px;line-height:1.55}
+  .g .c{margin-top:16px;font-size:12.5px;font-weight:600;color:var(--faint)}
+  footer{padding:70px 0 50px}
+  .frow{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:20px;border-top:1px solid var(--line);padding-top:36px}
+  .frow a{color:var(--muted);font-size:13px;margin-right:22px}
+  @media(max-width:900px){.grid,.gg{grid-template-columns:1fr}.nl a:not(.nbtn){display:none}}
+</style>
+</head>
+<body>
+<nav><div class="wrap">
+  <div class="logo">eduard<b>.</b>dev</div>
+  <div class="nl"><a href="#apps">Apps</a><a href="#guides">Guides</a><a href="#about">About</a><a class="nbtn" href="#contact">Contact</a></div>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <span class="pill">● Independent developer · Hamburg</span>
+  <h1 style="margin-top:22px">Native apps that<br><span>solve real problems.</span></h1>
+  <p>I build iOS &amp; macOS software — small, fast, private tools that people pay for, backed by guides that rank in 30+ languages.</p>
+  <div class="cta"><a class="b1" href="#apps">Explore the apps</a><a class="b2" href="#contact">Work with me</a></div>
+  <div class="stats">
+    <div class="stat"><div class="n">6</div><div class="l">Shipped &amp; earning</div></div>
+    <div class="stat"><div class="n">120+</div><div class="l">Guides published</div></div>
+    <div class="stat"><div class="n">30+</div><div class="l">Languages</div></div>
+    <div class="stat"><div class="n">iOS · macOS</div><div class="l">Native, no cross-platform bloat</div></div>
+  </div>
+</div></header>
+
+<section class="sec" id="apps"><div class="wrap">
+  <div class="head"><h2>The apps</h2><p>Everything here is live on the App Store and pulling its weight.</p></div>
+  <div class="grid">
+    <div class="card"><div class="thumb"><img src="../public/apps/sounddial.png" alt=""></div><div class="cb">
+      <div class="row"><h3>SoundDial</h3><span class="plt">macOS</span></div><div class="tg">Per-App Volume Mixer</div>
+      <p>Independent volume for every app, from the menu bar. Profiles, auto-ducking, per-app mute.</p><a class="get" href="https://apps.apple.com/app/id6772792641">Get it →</a></div></div>
+    <div class="card"><div class="thumb"><img src="../public/apps/pulse.png" alt=""></div><div class="cb">
+      <div class="row"><h3>Pulse</h3><span class="plt">macOS</span></div><div class="tg">System Monitor</div>
+      <p>CPU, memory, GPU, network, battery &amp; temps live in your menu bar — with widgets.</p><a class="get" href="https://apps.apple.com/app/id6761375793">Get it →</a></div></div>
+    <div class="card"><div class="thumb"><img src="../public/apps/stash-v2.png" alt=""></div><div class="cb">
+      <div class="row"><h3>Stash</h3><span class="plt">iOS</span></div><div class="tg">Secret File Vault</div>
+      <p>Encrypted vault disguised as a calculator. Hide photos &amp; files behind Face ID.</p><a class="get" href="https://apps.apple.com/app/id6759873487">Get it →</a></div></div>
+    <div class="card"><div class="thumb"><img src="../public/apps/double-calculator.png" alt=""></div><div class="cb">
+      <div class="row"><h3>Double Calculator</h3><span class="plt">iOS</span></div><div class="tg">Tax &amp; VAT</div>
+      <p>Dual-screen calculator with instant VAT/tax for 40+ countries and pinned results.</p><a class="get" href="https://apps.apple.com/app/id6760940001">Get it →</a></div></div>
+    <div class="card"><div class="thumb"><img src="../public/apps/fisheye.png" alt=""></div><div class="cb">
+      <div class="row"><h3>Fisheye — WideEye</h3><span class="plt">iOS</span></div><div class="tg">Camera</div>
+      <p>Wide, warped, retro fisheye photos &amp; video — the lens look without the lens.</p><a class="get" href="https://apps.apple.com/app/id6760895260">Get it →</a></div></div>
+    <div class="card"><div class="thumb" style="background:linear-gradient(135deg,#0d2a22,#0b1220);display:flex;align-items:center;justify-content:center"><span style="font-weight:800;font-size:30px;color:var(--accent)">Warden</span></div><div class="cb">
+      <div class="row"><h3>Warden</h3><span class="plt">iOS · Android</span></div><div class="tg">Family Location &amp; Safety · Soon</div>
+      <p>One family map, place alerts, check-in and SOS. Privacy-first, no ads, no listening.</p><a class="get" href="/warden/privacy">Learn more →</a></div></div>
+  </div>
+</div></section>
+
+<section class="sec guides" id="guides"><div class="wrap">
+  <div class="head"><h2>Guides that bring people in</h2><p>The blogs behind the apps — the real growth engine.</p></div>
+  <div class="gg">
+    <a class="g" href="/pulse/blog"><div class="t">Pulse</div><h4>Mac performance</h4><p>CPU temps, network speed, memory pressure — answered.</p><div class="c">40+ articles →</div></a>
+    <a class="g" href="/sounddial/blog"><div class="t">SoundDial</div><h4>Mac audio fixes</h4><p>FaceTime too quiet, per-app volume, night-mode audio.</p><div class="c">50+ articles →</div></a>
+    <a class="g" href="/vault/blog"><div class="t">Stash</div><h4>iPhone privacy</h4><p>Hiding photos, secret vaults, Face ID vs passcode.</p><div class="c">30+ articles →</div></a>
+  </div>
+</div></section>
+
+<footer id="contact"><div class="wrap">
+  <div class="frow">
+    <div class="logo">eduard<b>.</b>dev</div>
+    <div><a href="#apps">Apps</a><a href="#guides">Guides</a><a href="/impressum">Impressum</a><a href="/datenschutz">Datenschutz</a><a href="/support">Support</a></div>
+    <div style="color:var(--faint);font-size:12.5px">© 2026 Eduard Bruch · Hamburg</div>
+  </div>
+</div></footer>
+</body>
+</html>

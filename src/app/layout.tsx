@@ -1,28 +1,39 @@
 import type { Metadata } from "next";
-import { Cormorant_Garamond, Inter } from "next/font/google";
+import { Fraunces, Geist, Geist_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ClientProviders from "@/components/ClientProviders";
 
-const cormorant = Cormorant_Garamond({
-  variable: "--font-cormorant",
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
+  weight: ["400", "500", "600"],
+  style: ["normal", "italic"],
 });
 
-const inter = Inter({
-  variable: "--font-inter",
+const geist = Geist({
+  variable: "--font-geist",
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
+  weight: ["400", "500", "600"],
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+  weight: ["400", "500"],
 });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.eduardbruch.com"),
-  title: "Eduard Bruch — Actor & Software Developer",
+  title: "Eduard Bruch — Independent Software Developer",
   description:
-    "Eduard Bruch — actor and software developer based in Hamburg. Film, theatre, and iOS/macOS app development.",
+    "Eduard Bruch — an independent software developer in Hamburg building native iOS & macOS apps, and the multilingual guides that help people find them.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/apple-icon.png",
+  },
 };
 
 export default function RootLayout({
@@ -32,7 +43,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${cormorant.variable} ${inter.variable} antialiased bg-black text-white font-serif`}>
+      <body
+        className={`${fraunces.variable} ${geist.variable} ${geistMono.variable} antialiased`}
+      >
         <ClientProviders>
           <Navbar />
           <main>{children}</main>

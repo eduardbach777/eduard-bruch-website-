@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eduard Bruch — Independent Software Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#08090a; --raise:#0e0f11; --fg:#f2f3f4; --mut:#9a9ca0; --faint:#67696e;
+    --line:rgba(255,255,255,.07); --line2:rgba(255,255,255,.12);
+    --acc:#3ecf8e; --acc-dim:rgba(62,207,142,.14);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--fg);font-family:'Geist',system-ui,sans-serif;
+       -webkit-font-smoothing:antialiased;overflow-x:hidden;letter-spacing:-.011em;position:relative}
+  .mono{font-family:'Geist Mono','SFMono-Regular',monospace;letter-spacing:0}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 32px}
+
+  /* faint grain + top radial glow */
+  body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.03;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+  /* hairline vertical grid */
+  .grid-lines{position:fixed;inset:0;z-index:0;pointer-events:none;max-width:1040px;margin:0 auto;
+    background-image:linear-gradient(90deg,var(--line) 1px,transparent 1px);
+    background-size:calc((100% - 64px)/4) 100%;background-position:32px 0;
+    -webkit-mask-image:linear-gradient(180deg,transparent,#000 8%,#000 92%,transparent);
+    mask-image:linear-gradient(180deg,transparent,#000 8%,#000 92%,transparent);opacity:.55}
+  .glow{position:fixed;top:-420px;left:50%;transform:translateX(-50%);width:1000px;height:720px;z-index:0;pointer-events:none;
+    background:radial-gradient(closest-side,rgba(62,207,142,.06),transparent 70%)}
+  .content{position:relative;z-index:1}
+
+  /* nav */
+  nav{position:fixed;top:0;left:0;right:0;z-index:50;background:rgba(8,9,10,.66);backdrop-filter:blur(14px) saturate(1.3);border-bottom:1px solid var(--line)}
+  nav .wrap{height:62px;display:flex;align-items:center;justify-content:space-between}
+  .brand{font-size:13px;font-weight:500;letter-spacing:-.01em;display:flex;align-items:center;gap:9px}
+  .brand .dot{width:6px;height:6px;border-radius:50%;background:var(--acc);box-shadow:0 0 9px var(--acc)}
+  .brand .path{color:var(--faint)}
+  .nl{display:flex;gap:4px;align-items:center}
+  .nl a{font-size:12.5px;color:var(--mut);padding:8px 11px;border-radius:7px;transition:.18s}
+  .nl a:hover{color:#fff;background:rgba(255,255,255,.05)}
+  .nl .cta{color:var(--fg);border:1px solid var(--line2)}
+  .nl .cta:hover{border-color:var(--acc);color:var(--acc);background:transparent}
+
+  /* hero */
+  .hero{padding:172px 0 90px}
+  .eyebrow{font-size:12px;color:var(--faint);margin-bottom:30px;display:flex;align-items:center;gap:10px}
+  .eyebrow .blink{width:8px;height:15px;background:var(--acc);display:inline-block;animation:blink 1.2s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  h1{font-size:clamp(38px,6vw,66px);font-weight:500;line-height:1.02;letter-spacing:-.038em;max-width:16ch}
+  h1 .g{color:var(--acc)}
+  .lede{margin-top:26px;font-size:17px;line-height:1.6;color:var(--mut);max-width:54ch;font-weight:300}
+  .lede b{color:var(--fg);font-weight:400}
+  .hero-cta{margin-top:38px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .btn{font-size:13px;padding:11px 17px;border-radius:9px;border:1px solid var(--line2);transition:.18s;display:inline-flex;align-items:center;gap:9px}
+  .btn.pri{background:var(--fg);color:#08090a;border-color:var(--fg);font-weight:500}
+  .btn.pri:hover{background:var(--acc);border-color:var(--acc)}
+  .btn.sec{color:var(--mut)}
+  .btn.sec:hover{color:#fff;border-color:var(--line2);background:rgba(255,255,255,.04)}
+
+  /* stat strip */
+  .stats{margin-top:64px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    display:grid;grid-template-columns:repeat(4,1fr)}
+  .stat{padding:22px 20px;border-left:1px solid var(--line)}
+  .stat:first-child{border-left:none;padding-left:0}
+  .stat .n{font-size:22px;font-weight:500;letter-spacing:-.02em}
+  .stat .n b{color:var(--acc);font-weight:500}
+  .stat .l{font-size:11.5px;color:var(--faint);margin-top:6px}
+
+  /* section head */
+  .sec{padding:88px 0}
+  .sechead{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:8px}
+  .sectag{font-size:12px;color:var(--acc);display:flex;align-items:center;gap:8px}
+  .sectag::before{content:"~/";color:var(--faint)}
+  .sectitle{font-size:clamp(26px,3.4vw,34px);font-weight:500;letter-spacing:-.03em;margin-top:14px}
+  .secsub{font-size:14.5px;color:var(--mut);margin-top:12px;max-width:56ch;font-weight:300;line-height:1.6}
+  .seccount{font-size:12px;color:var(--faint)}
+
+  /* app rows */
+  .rows{margin-top:44px;border-top:1px solid var(--line)}
+  .row{display:grid;grid-template-columns:44px 84px 1fr auto;align-items:center;gap:24px;
+    padding:22px 8px;border-bottom:1px solid var(--line);transition:.22s;position:relative}
+  .row:hover{background:linear-gradient(90deg,rgba(255,255,255,.025),transparent 60%)}
+  .row .idx{font-size:12px;color:var(--faint);align-self:start;padding-top:4px}
+  .row:hover .idx{color:var(--acc)}
+  .thumb{width:84px;height:84px;border-radius:14px;overflow:hidden;border:1px solid var(--line2);
+    background:#000;box-shadow:0 6px 20px rgba(0,0,0,.4)}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.ph{display:flex;align-items:center;justify-content:center;
+    background:radial-gradient(120% 120% at 30% 20%,rgba(62,207,142,.10),transparent 60%),#0c0d0f}
+  .thumb.ph svg{width:30px;height:30px;stroke:var(--acc);opacity:.9}
+  .meta .name{font-size:18px;font-weight:500;letter-spacing:-.02em;display:flex;align-items:center;gap:10px}
+  .meta .desc{font-size:13.5px;color:var(--mut);margin-top:5px;font-weight:300}
+  .plat{font-size:10.5px;color:var(--faint);border:1px solid var(--line);border-radius:20px;padding:3px 9px;font-family:'Geist Mono',monospace}
+  .soon{font-size:10px;color:var(--acc);background:var(--acc-dim);border:1px solid rgba(62,207,142,.28);border-radius:20px;padding:3px 9px;letter-spacing:.02em}
+  .action{font-size:12.5px;color:var(--faint);display:flex;align-items:center;gap:8px;transition:.2s;white-space:nowrap}
+  .row:hover .action{color:var(--fg)}
+  .action .arr{transition:transform .2s}
+  .row:hover .action .arr{transform:translate(2px,-2px);color:var(--acc)}
+
+  /* guides */
+  .guides{margin-top:44px;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .guide{border:1px solid var(--line);border-radius:14px;padding:24px 22px;transition:.2s;background:linear-gradient(180deg,rgba(255,255,255,.014),transparent)}
+  .guide:hover{border-color:var(--line2);background:rgba(255,255,255,.02);transform:translateY(-2px)}
+  .guide .gp{font-size:12px;color:var(--faint);margin-bottom:16px}
+  .guide .gp b{color:var(--acc)}
+  .guide h3{font-size:17px;font-weight:500;letter-spacing:-.02em}
+  .guide p{font-size:13px;color:var(--mut);margin-top:8px;font-weight:300;line-height:1.55}
+  .guide .glink{font-size:12.5px;color:var(--mut);margin-top:18px;display:flex;align-items:center;gap:7px}
+  .guide:hover .glink{color:var(--acc)}
+  .langnote{margin-top:26px;font-size:12.5px;color:var(--faint);display:flex;align-items:center;gap:9px}
+  .langnote::before{content:"";width:20px;height:1px;background:var(--line2)}
+
+  /* footer */
+  footer{border-top:1px solid var(--line);margin-top:40px;padding:50px 0 60px}
+  .foot{display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap}
+  .foot .fl{display:flex;gap:8px;flex-wrap:wrap}
+  .foot .fl a{font-size:12.5px;color:var(--mut);padding:6px 10px;border-radius:7px;transition:.18s}
+  .foot .fl a:hover{color:#fff;background:rgba(255,255,255,.05)}
+  .foot .cr{font-size:12px;color:var(--faint)}
+  .foot .cr .dot{color:var(--acc)}
+
+  @media(max-width:720px){
+    .grid-lines{display:none}
+    .wrap{padding:0 22px}
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .stat{border-left:none;padding-left:0}
+    .stat:nth-child(2),.stat:nth-child(4){border-left:1px solid var(--line);padding-left:20px}
+    .stat:nth-child(3),.stat:nth-child(4){border-top:1px solid var(--line)}
+    .row{grid-template-columns:auto 64px 1fr;gap:16px;padding:20px 4px}
+    .thumb{width:64px;height:64px}
+    .row .action{display:none}
+    .row .idx{display:none}
+    .guides{grid-template-columns:1fr}
+    .sechead{flex-direction:column;gap:4px}
+    .nl a:not(.cta){display:none}
+  }
+</style>
+</head>
+<body>
+<div class="grid-lines"></div>
+<div class="glow"></div>
+
+<div class="content">
+<nav>
+  <div class="wrap">
+    <a class="brand" href="/"><span class="dot"></span>eduard bruch<span class="path mono">&nbsp;~/apps</span></a>
+    <div class="nl">
+      <a href="#apps">Apps</a>
+      <a href="#guides">Guides</a>
+      <a class="cta" href="#apps">View work →</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow mono">indie developer · hamburg <span class="blink"></span></div>
+    <h1>Native iOS &amp; macOS apps.<br>Small, fast, and <span class="g">private</span>.</h1>
+    <p class="lede">I'm <b>Eduard Bruch</b>, an independent software developer building focused utilities that do one thing well — <b>no accounts, no tracking, no bloat</b>. Six apps shipped and running on real devices.</p>
+    <div class="hero-cta">
+      <a class="btn pri" href="#apps">Browse the apps</a>
+      <a class="btn sec mono" href="#guides">./read-guides</a>
+    </div>
+
+    <div class="stats mono">
+      <div class="stat"><div class="n"><b>6</b></div><div class="l">apps shipped</div></div>
+      <div class="stat"><div class="n">120+</div><div class="l">guides written</div></div>
+      <div class="stat"><div class="n">30+</div><div class="l">languages</div></div>
+      <div class="stat"><div class="n">iOS/macOS</div><div class="l">native</div></div>
+    </div>
+  </div>
+</header>
+
+<section class="sec" id="apps">
+  <div class="wrap">
+    <div class="sechead">
+      <div>
+        <div class="sectag mono">apps</div>
+        <h2 class="sectitle">Shipped &amp; maintained</h2>
+      </div>
+      <div class="seccount mono">06 total</div>
+    </div>
+    <p class="secsub">Each app is built native — Swift and SwiftUI — with a bias toward speed, restraint, and on-device privacy.</p>
+
+    <div class="rows">
+      <!-- 1 -->
+      <a class="row" href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">
+        <div class="idx mono">01</div>
+        <div class="thumb"><img src="../public/apps/sounddial.png" alt="SoundDial"></div>
+        <div class="meta">
+          <div class="name">SoundDial <span class="plat">macOS</span></div>
+          <div class="desc">Per-app volume mixer — control every application's audio independently.</div>
+        </div>
+        <div class="action mono">App&nbsp;Store <span class="arr">↗</span></div>
+      </a>
+      <!-- 2 -->
+      <a class="row" href="https://apps.apple.com/app/id6761375793" target="_blank" rel="noopener">
+        <div class="idx mono">02</div>
+        <div class="thumb"><img src="../public/apps/pulse.png" alt="Pulse"></div>
+        <div class="meta">
+          <div class="name">Pulse <span class="plat">macOS</span></div>
+          <div class="desc">System monitor — CPU, memory, network and disk at a glance in your menu bar.</div>
+        </div>
+        <div class="action mono">App&nbsp;Store <span class="arr">↗</span></div>
+      </a>
+      <!-- 3 -->
+      <a class="row" href="https://apps.apple.com/app/id6759873487" target="_blank" rel="noopener">
+        <div class="idx mono">03</div>
+        <div class="thumb"><img src="../public/apps/stash-v2.png" alt="Stash"></div>
+        <div class="meta">
+          <div class="name">Stash <span class="plat">iOS</span></div>
+          <div class="desc">Secret file vault — hide photos and documents behind a calculator front.</div>
+        </div>
+        <div class="action mono">App&nbsp;Store <span class="arr">↗</span></div>
+      </a>
+      <!-- 4 -->
+      <a class="row" href="https://apps.apple.com/app/id6760940001" target="_blank" rel="noopener">
+        <div class="idx mono">04</div>
+        <div class="thumb"><img src="../public/apps/double-calculator.png" alt="Double Calculator"></div>
+        <div class="meta">
+          <div class="name">Double Calculator <span class="plat">iOS</span></div>
+          <div class="desc">Tax &amp; VAT — run two calculations side by side and compare instantly.</div>
+        </div>
+        <div class="action mono">App&nbsp;Store <span class="arr">↗</span></div>
+      </a>
+      <!-- 5 -->
+      <a class="row" href="https://apps.apple.com/app/id6760895260" target="_blank" rel="noopener">
+        <div class="idx mono">05</div>
+        <div class="thumb"><img src="../public/apps/fisheye.png" alt="Fisheye"></div>
+        <div class="meta">
+          <div class="name">Fisheye <span class="plat">iOS</span></div>
+          <div class="desc">WideEye camera — ultra-wide fisheye lens effects, shot and rendered live.</div>
+        </div>
+        <div class="action mono">App&nbsp;Store <span class="arr">↗</span></div>
+      </a>
+      <!-- 6 -->
+      <a class="row" href="/warden/privacy">
+        <div class="idx mono">06</div>
+        <div class="thumb ph">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+        </div>
+        <div class="meta">
+          <div class="name">Warden <span class="plat">iOS · Android</span> <span class="soon mono">SOON</span></div>
+          <div class="desc">Family location &amp; safety — real-time locator with privacy built in.</div>
+        </div>
+        <div class="action mono">Privacy&nbsp;policy <span class="arr">→</span></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="guides">
+  <div class="wrap">
+    <div class="sechead">
+      <div>
+        <div class="sectag mono">guides</div>
+        <h2 class="sectitle">Docs &amp; how-tos</h2>
+      </div>
+      <div class="seccount mono">120+ articles</div>
+    </div>
+    <p class="secsub">Deep, practical guides for the apps — searchable, indexed by the major engines, and translated across 30+ languages.</p>
+
+    <div class="guides">
+      <a class="guide" href="/pulse/blog">
+        <div class="gp mono">guide<b>/pulse</b></div>
+        <h3>Pulse Guides</h3>
+        <p>Reading system metrics, spotting resource hogs, and tuning macOS performance.</p>
+        <div class="glink mono">Read the blog <span>→</span></div>
+      </a>
+      <a class="guide" href="/sounddial/blog">
+        <div class="gp mono">guide<b>/sounddial</b></div>
+        <h3>SoundDial Guides</h3>
+        <p>Per-app audio routing, quick-mix workflows, and fixing macOS volume quirks.</p>
+        <div class="glink mono">Read the blog <span>→</span></div>
+      </a>
+      <a class="guide" href="/vault/blog">
+        <div class="gp mono">guide<b>/vault</b></div>
+        <h3>Stash Guides</h3>
+        <p>Hiding files securely, calculator-vault setup, and private backup practices.</p>
+        <div class="glink mono">Read the blog <span>→</span></div>
+      </a>
+    </div>
+    <div class="langnote mono">Indexed &amp; translated in 30+ languages.</div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot">
+      <div class="fl">
+        <a href="/impressum">Impressum</a>
+        <a href="/datenschutz">Datenschutz</a>
+        <a href="/support">Support</a>
+      </div>
+      <div class="cr mono">© 2026 Eduard Bruch <span class="dot">·</span> Hamburg</div>
+    </div>
+  </div>
+</footer>
+</div>
+</body>
+</html>

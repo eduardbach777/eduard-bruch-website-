@@ -40,7 +40,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك بناء بيئة تسجيل نظيفة بالتحكم في كل تطبيق بشكل مستقل:</p>
 
-<img src="/apps/sounddial.png" alt="إعداد SoundDial للبودكاست — صوت الضيف والمراقبة والإشعارات بمستويات مستقلة" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="إعداد SoundDial للبودكاست — صوت الضيف والمراقبة والإشعارات بمستويات مستقلة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>ملف التسجيل</h3>
 <ul>
@@ -98,7 +98,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق شريط تحكم خاص بـ<strong>زيادات 1%</strong> من 0% إلى 200%. هذا 200 مستوى دقة لكل تطبيق، مقارنة بـ 16 (أو 64 مع المُعدّل) خطوات نظام macOS على مستوى النظام.</p>
 
-<img src="/apps/sounddial.png" alt="تحكم SoundDial الدقيق بالصوت لكل تطبيق بدقة 1% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="تحكم SoundDial الدقيق بالصوت لكل تطبيق بدقة 1% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>اضبط صوت النظام على مستوى أساسي معتدل (50-60%)، ثم استخدم SoundDial لضبط كل تطبيق بدقة:</p>
 <ul>
@@ -149,7 +149,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح Slack شريط تحكم خاص، منفصل عن كل تطبيق آخر. بما أن صوت محادثة Slack وأصوات الإشعارات جزء من نفس التطبيق، الشريط يتحكم في كليهما — لكن هذا في الواقع ما تريده معظم الوقت.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يتحكم بصوت Slack بشكل مستقل أثناء محادثة بينما الموسيقى تعمل بمستوى مختلف" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يتحكم بصوت Slack بشكل مستقل أثناء محادثة بينما الموسيقى تعمل بمستوى مختلف" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>إعداد محسّن للمحادثات</h3>
 <ul>
@@ -198,7 +198,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> لديه <strong>صوت افتراضي قابل للتعديل</strong> للتطبيقات الجديدة. في الإعدادات، تحدد مستوى الصوت الذي يجب أن تبدأ به التطبيقات المكتشفة حديثاً — مثلاً 70%. أول مرة يبدأ أي تطبيق وينتج صوتاً، يضبطه SoundDial على 70% بدلاً من 100%.</p>
 
-<img src="/apps/sounddial.png" alt="إعداد SoundDial للصوت الافتراضي — التطبيقات الجديدة تبدأ بمستوى مُعد بدلاً من الحد الأقصى" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="إعداد SoundDial للصوت الافتراضي — التطبيقات الجديدة تبدأ بمستوى مُعد بدلاً من الحد الأقصى" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>هذا يعني:</p>
 <ul>
@@ -253,7 +253,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق على Mac شريط تحكم خاص. اضبط تطبيقات الإشعارات منخفضة، الموسيقى بمستوى مريح، والمكالمات بأقصى صوت — كلها بشكل مستقل. احفظ التكوينات كملفات تعريف وبدّل بنقرة واحدة.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — تحكم بالصوت لكل تطبيق لإدارة جميع مصادر صوت Mac بشكل مستقل" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — تحكم بالصوت لكل تطبيق لإدارة جميع مصادر صوت Mac بشكل مستقل" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -304,7 +304,7 @@ export const arArticles: ArticleSet = {
 
 <p>إذا كانت الإعدادات على الحد الأقصى والمشاركون لا يزالون هادئين جداً، <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز Webex إلى <strong>200%</strong>. هذا يضخّم صوت المكالمة فوق الحد الأقصى المدمج في Webex — مفيد عندما يكون لدى مشارك ميكروفون سيء أو عندما تقلل معالجة صوت Webex الإشارة كثيراً.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة Cisco Webex فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة Cisco Webex فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial يساعد أيضاً أثناء اجتماعات Webex المتتالية: استخدم الخفض التلقائي لخفض موسيقاك الخلفية تلقائياً عند بدء كل اجتماع، واستعادتها أثناء الاستراحات. احفظ ملف "اجتماعات" لضبط توازن الصوت المفضل ليوم العمل فوراً.</p>
 
@@ -347,7 +347,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يضع كل تطبيق في لوحة شريط القوائم بأشرطة تحكم مستقلة. كلا المصدرين الصوتيين جنباً إلى جنب، كل منهما بمستواه الخاص. عدّل واحداً بدون لمس الآخر.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يظهر مصدرين صوتيين بمستويات مختلفة على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يظهر مصدرين صوتيين بمستويات مختلفة على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>أمثلة على الإعدادات:</p>
 
@@ -411,7 +411,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك إنشاء الإعداد المثالي لوقت متأخر من الليل:</p>
 
-<img src="/apps/sounddial.png" alt="إعداد SoundDial لفيلم ليلي — تطبيق البث بصوت معتدل والإشعارات مكتومة" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="إعداد SoundDial لفيلم ليلي — تطبيق البث بصوت معتدل والإشعارات مكتومة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>ملف تعريف فيلم ليلي</h3>
 <ul>
@@ -473,7 +473,7 @@ export const arArticles: ArticleSet = {
 
 <p>حتى لو أُعيد ضبط صوت النظام بعد السكون، <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يحمي توازن الصوت <em>لكل تطبيق</em>. ميزة <strong>ذاكرة الصوت</strong> تحفظ صوت كل تطبيق بشكل مستقل وتستعيده بعد الاستيقاظ أو إعادة التشغيل أو إعادة تشغيل التطبيق.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يحافظ على مستويات صوت كل تطبيق بعد دورات سكون واستيقاظ Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يحافظ على مستويات صوت كل تطبيق بعد دورات سكون واستيقاظ Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>لذا حتى لو أعاد macOS ضبط صوت النظام على 80% بعد السكون، توازن كل تطبيق يبقى سليماً:</p>
 <ul>
@@ -518,7 +518,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك ضبط مستويات دقيقة لكل تطبيق بشكل مستقل:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يفصل إخراج DAW عن Discord والمسارات المرجعية على macOS لإنتاج الموسيقى" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يفصل إخراج DAW عن Discord والمسارات المرجعية على macOS لإنتاج الموسيقى" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>إعداد الإنتاج</h3>
 <ul>
@@ -586,7 +586,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز Apple Music إلى <strong>200%</strong>. إشارة الصوت تُضخَّم على مستوى النظام قبل وصولها لمكبراتك أو سماعاتك. فقط Apple Music يصبح أعلى — Zoom وSlack ومتصفحك يبقون بمستوياتهم الحالية.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Apple Music فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Apple Music فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>هذا مفيد أيضاً للمشكلة العكسية: إذا كان Apple Music عالياً جداً مقارنة بمكالمة Zoom، اخفض Apple Music لـ 25% في SoundDial مع إبقاء Zoom على 100%. التحكم لكل تطبيق يعني أنك لا تضطر للتنازل عن صوت تطبيق لصالح آخر.</p>
 
@@ -666,7 +666,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يكلف €14.99 — مرة واحدة، ليس اشتراكاً. للسياق، هذا أقل من شهرين من اشتراك Spotify، لأداة ستستخدمها كل يوم. إنه أقل من نصف سعر SoundSource ($39)، ويتضمن ميزات (ملفات تعريف، خفض تلقائي) لا يملكها SoundSource.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — مُضاهِي صوت موثوق لكل تطبيق على Mac مع ملفات تعريف وخفض تلقائي وتعزيز 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — مُضاهِي صوت موثوق لكل تطبيق على Mac مع ملفات تعريف وخفض تلقائي وتعزيز 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>متاح على <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — مُراجَع من Apple، في بيئة آمنة، بدون تعريفات نظام. €14.99 مرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -700,7 +700,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يضع كلاً من Spotify وDiscord في نفس اللوحة بأشرطة تحكم مستقلة. اضبط النسبة التي تريدها واتركها:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يوازن Spotify وDiscord بمستويات صوت مختلفة على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يوازن Spotify وDiscord بمستويات صوت مختلفة على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>النسبة الذهبية للموسيقى + الدردشة الصوتية</h3>
 <p>بناءً على كيفية استخدام معظم الناس لهذا:</p>
@@ -805,7 +805,7 @@ export const arArticles: ArticleSet = {
 
 <p>الخمسة كلها متاحة مع <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> — تطبيق macOS أصلي في شريط القوائم يضيف مُضاهِي الصوت الذي لم تبنيه Apple أبداً.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — تحكم بالصوت لكل تطبيق، ملفات تعريف، خفض تلقائي، وتعزيز 200% لـ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — تحكم بالصوت لكل تطبيق، ملفات تعريف، خفض تلقائي، وتعزيز 200% لـ macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>الجزء 6: الصوت لكل تطبيق مع SoundDial</h2>
 
@@ -865,7 +865,7 @@ export const arArticles: ArticleSet = {
 
 <p>هذا تضخيم متطرف وسيُدخل تشويهاً على بعض المحتوى، لكن لمواد المصدر الهادئة جداً قد يكون ما تحتاجه.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت VLC على مستوى النظام على macOS لملفات الفيديو الهادئة" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت VLC على مستوى النظام على macOS لملفات الفيديو الهادئة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>الأهم، SoundDial يتيح لك تعزيز VLC <strong>بشكل مستقل</strong>. مشغّل الموسيقى والمتصفح وتطبيقات الاتصال تبقى بمستوياتها العادية بينما VLC فقط يصبح أعلى. إذا عززت VLC لـ 180% في SoundDial، Spotify لا يتغير. هذا شيء لا يستطيع تعزيز VLC المدمج فعله — تعزيز VLC يؤثر فقط على VLC، لكن صوت النظام الواحد في macOS لا يزال يربط كل شيء آخر معاً.</p>
 
@@ -924,7 +924,7 @@ export const arArticles: ArticleSet = {
   <li><strong>تبديل سهل:</strong> شغّل أو أوقف الخفض التلقائي في إعدادات SoundDial. عندما لا تريده، عطّله. عندما تريده مجدداً، فعّله.</li>
 </ul>
 
-<img src="/apps/sounddial.png" alt="خفض تلقائي قابل للتعديل في SoundDial — تحكم بالضبط بكم ينخفض صوت الخلفية أثناء المكالمات" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="خفض تلقائي قابل للتعديل في SoundDial — تحكم بالضبط بكم ينخفض صوت الخلفية أثناء المكالمات" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>الفرق: بدلاً من أن يقرر تطبيق ما أن موسيقاك يجب أن تذهب لصفر أثناء كل مكالمة، أنت تقرر أنها يجب أن تذهب لـ 25%. بدلاً من فقدان التحكم، تكسبه. وبدلاً من محاولة تعطيل ميزة مخفية في ثلاثة تطبيقات مختلفة، لديك تبديل واحد في مكان واحد.</p>
 
@@ -987,7 +987,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يعزز صوت أي تطبيق حتى <strong>200%</strong>. إذا كان Spotify عبر سماعات Bluetooth هادئاً جداً، اسحب شريطه لـ 160%. إشارة الصوت تُضخَّم قبل وصولها لسماعاتك، مما يضاعف فعلياً الصوت المتاح لذلك التطبيق.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت التطبيق لسماعات Bluetooth على Mac بأشرطة تحكم لكل تطبيق حتى 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت التطبيق لسماعات Bluetooth على Mac بأشرطة تحكم لكل تطبيق حتى 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>تعزيز لكل تطبيق أفضل من تعزيز صوت على مستوى النظام لأنك تضخّم فقط التطبيق الهادئ. إذا كان بودكاستك هادئاً لكن الموسيقى جيدة، عزّز تطبيق البودكاست لـ 170% مع إبقاء Spotify على 80%. كل تطبيق يبقى بالمستوى المناسب.</p>
 
@@ -1024,7 +1024,7 @@ export const arArticles: ArticleSet = {
 
 <p>هذا بالضبط ما يفعله <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>. اضبط كل تطبيق على المستوى الذي تريد مشاهديك أن يسمعوه:</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يوازن صوت اللعبة وDiscord والموسيقى لبث OBS على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يوازن صوت اللعبة وDiscord والموسيقى لبث OBS على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>إعداد صوت بث نموذجي</h3>
 <ul>
@@ -1077,7 +1077,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> لديه ميزة <strong>ذاكرة الصوت</strong>. عند تفعيلها، تحفظ مستوى صوت كل تطبيق بمعرّفه الحزمي. عندما يُغلق التطبيق ويعاد تشغيله — سواء أعدت تشغيله أو تعطّل أو أعدت تشغيل Mac — يستعيد SoundDial صوته المحفوظ تلقائياً.</p>
 
-<img src="/apps/sounddial.png" alt="ذاكرة صوت SoundDial — تتذكر وتستعيد مستويات صوت كل تطبيق تلقائياً على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="ذاكرة صوت SoundDial — تتذكر وتستعيد مستويات صوت كل تطبيق تلقائياً على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>كيف تعمل</h3>
 <ol>
@@ -1144,7 +1144,7 @@ export const arArticles: ArticleSet = {
 
 <p>الإصلاح الشامل هو تضخيم تطبيق البودكاست فوق حد macOS بـ 100%. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق شريط صوت حتى <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Apple Podcasts لـ 180% على Mac لحلقات البودكاست الهادئة" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Apple Podcasts لـ 180% على Mac لحلقات البودكاست الهادئة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>اضبط Apple Podcasts أو تطبيق البودكاست على 160-180% مع إبقاء موسيقى Spotify على 40% وSlack على 15%. البودكاست يصبح أعلى بدون جعل كل شيء آخر عالياً بشكل مؤلم. عند العودة للموسيقى، اخفض تطبيق البودكاست للعادي — أو دع ذاكرة صوت SoundDial تتذكره تلقائياً.</p>
 
@@ -1189,7 +1189,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق شريط تحكم خاص، لتبني إعداد صوت الدراسة المثالي:</p>
 
-<img src="/apps/sounddial.png" alt="إعداد SoundDial للطالب — المحاضرة بأقصى صوت، موسيقى الدراسة منخفضة، الإشعارات مكتومة" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="إعداد SoundDial للطالب — المحاضرة بأقصى صوت، موسيقى الدراسة منخفضة، الإشعارات مكتومة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>ملف المحاضرة</h3>
 <ul>
@@ -1231,6 +1231,9 @@ export const arArticles: ArticleSet = {
     readTime: "7 دقائق قراءة",
     content: `
 <p>حدّثت macOS. كل شيء بدا جيداً — حتى لاحظت عدم وجود صوت. أو الصوت يطقطق. أو الصوت عالق. أو جهاز إخراج الصوت اختفى. مشاكل الصوت بعد التحديث تحدث مع تقريباً كل إصدار macOS، وتتراوح من مزعجة قليلاً لصامتة تماماً.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>إليك دليل منهجي لإصلاح صوت Mac بعد تحديث macOS، يغطي كل مشكلة وحل معروف.</p>
 
@@ -1333,7 +1336,7 @@ export const arArticles: ArticleSet = {
   <li>Spotify يعود لـ 30%، Zoom لـ 100%، Slack لـ 15% — استعادة مثالية</li>
 </ol>
 
-<img src="/apps/sounddial.png" alt="اختصار كتم الكل في SoundDial — Control+Option+M لكتم وإلغاء كتم كل التطبيقات مع استعادة الصوت" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="اختصار كتم الكل في SoundDial — Control+Option+M لكتم وإلغاء كتم كل التطبيقات مع استعادة الصوت" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>الفرق من مفتاح كتم النظام:</p>
 <ul>
@@ -1396,7 +1399,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح Chrome شريط تحكم خاص يصل لـ <strong>200%</strong>. بما أن Google Meet يعمل داخل Chrome، تعزيز Chrome يعزز Meet. اسحب الشريط لـ 150% أو 180% ويُضخّم صوت المكالمة في الوقت الفعلي.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Google Meet (Chrome) فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Google Meet (Chrome) فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>هذا يعمل أيضاً مع Safari إذا تستخدم Meet في Safari. SoundDial يتحكم بكل متصفح بشكل مستقل — عزّز Safari لـ Meet مع إبقاء Chrome بصوت عادي لكل شيء آخر.</p>
 
@@ -1446,7 +1449,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق شريط تحكم خاص. يمكنك ضبط تطبيقات الإشعارات الثقيلة على مستوى خفيف ملحوظ لكن غير مزعج، مع إبقاء تطبيقات الوسائط بمستوى استماع مريح.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يفصل صوت تطبيقات الإشعارات عن صوت تطبيقات الوسائط على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يفصل صوت تطبيقات الإشعارات عن صوت تطبيقات الوسائط على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>مثال على الإعداد</h3>
 <p><strong>تطبيقات الوسائط:</strong></p>
@@ -1510,7 +1513,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز صوت FaceTime حتى <strong>200%</strong>. افتح لوحة شريط القوائم، ابحث عن FaceTime، واسحب شريطه فوق 100%. صوت المكالمة يُضخّم في الوقت الفعلي بدون التأثير على أي تطبيق آخر.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة FaceTime فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة FaceTime فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — مُراجَع من Apple، بيئة آمنة، شراء لمرة واحدة، بدون اشتراك.</p>
 `,
@@ -1549,7 +1552,7 @@ export const arArticles: ArticleSet = {
 <h3>كتم كل التطبيقات: Control + Option + M</h3>
 <p>اضغط <strong>⌃⌥M</strong> لكتم كل صوت تطبيق فوراً. اضغطه مجدداً لإلغاء كتم كل شيء، مع استعادة كل تطبيق لصوته السابق.</p>
 
-<img src="/apps/sounddial.png" alt="اختصارات لوحة مفاتيح SoundDial — Control+Option+S للتبديل، Control+Option+M لكتم الكل" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="اختصارات لوحة مفاتيح SoundDial — Control+Option+S للتبديل، Control+Option+M لكتم الكل" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -1580,7 +1583,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يستخدم Audio Tap API الحديث — بدون جهاز صوت افتراضي، بدون تعريف نظام، بدون امتدادات نواة.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — بديل لـ Background Music لا يثبّت أجهزة صوت افتراضية" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل لـ Background Music لا يثبّت أجهزة صوت افتراضية" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ما تحصل عليه فوق Background Music:</p>
 <ul>
@@ -1652,7 +1655,7 @@ export const arArticles: ArticleSet = {
 </tbody>
 </table>
 
-<img src="/apps/sounddial.png" alt="SoundDial — بديل SoundSource أخف ومركّز مع ملفات تعريف وخفض تلقائي" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل SoundSource أخف ومركّز مع ملفات تعريف وخفض تلقائي" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>SoundDial متاح على <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a> — مُراجَع من Apple، بيئة آمنة، بدون تعريفات نظام. شراء لمرة واحدة، بدون اشتراك.</p>
 `,
@@ -1675,7 +1678,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنحك أشرطة تحكم لكل تطبيق بزيادات 1% من 0% لـ 200%. يمكنك ضبط Spotify على 5% وZoom على 40% في نفس الوقت.</p>
 
-<img src="/apps/sounddial.png" alt="تحكم SoundDial الدقيق بالصوت لكل تطبيق بزيادات 1% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="تحكم SoundDial الدقيق بالصوت لكل تطبيق بزيادات 1% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>للاستخدام الليلي بسماعات الرأس:</p>
 <ul>
@@ -1700,6 +1703,9 @@ export const arArticles: ArticleSet = {
     readTime: "5 دقائق قراءة",
     content: `
 <p>سماعة AirPod واحدة تبدو جيدة. الأخرى أهدأ بشكل ملحوظ. الموسيقى تبدو مائلة. الأصوات تبدو قادمة من جانب واحد.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. نظّف AirPods</h2>
 <p>السبب الأكثر شيوعاً: شمع أذن أو حطام يسد شبكة السماعة جزئياً.</p>
@@ -1747,7 +1753,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز أي تطبيق لـ <strong>200%</strong>. إذا كان Safari أو تطبيق Netflix هادئاً جداً، اسحب شريطه فوق 100%.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Netflix لـ 180% على Mac لحوار أوضح وصوت بث أفضل" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Netflix لـ 180% على Mac لحوار أوضح وصوت بث أفضل" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -1780,7 +1786,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يملأ هذه الفجوة بمنح كل تطبيق شريط تحكم خاص.</p>
 
-<img src="/apps/sounddial.png" alt="إعداد SoundDial لصوت العمل عن بعد — مستويات مختلفة لـ Zoom وSpotify وSlack على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="إعداد SoundDial لصوت العمل عن بعد — مستويات مختلفة لـ Zoom وSpotify وSlack على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>احفظ ملفات تعريف لكل وضع</h3>
 
@@ -1813,7 +1819,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح متصفحك شريط تحكم خاص. اخفض Safari لـ 30% مع إبقاء Zoom على 100%. اكتم Chrome بالكامل مع إبقاء Spotify يعمل. نقرة واحدة.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يتحكم بصوت المتصفح بشكل مستقل عن التطبيقات الأخرى على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يتحكم بصوت المتصفح بشكل مستقل عن التطبيقات الأخرى على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -1832,7 +1838,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح Discord شريط تحكم خاص في شريط القوائم، مستقل عن كل تطبيق آخر.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يتحكم بصوت Discord بشكل مستقل عن اللعبة والموسيقى على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يتحكم بصوت Discord بشكل مستقل عن اللعبة والموسيقى على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>إعدادات شائعة</h3>
 <p><strong>ألعاب مع Discord:</strong> Discord: 100%، لعبة: 40%، Spotify: 15%</p>
@@ -1861,7 +1867,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتضمن منتقي جهاز إخراج في لوحة شريط القوائم — بجانب أشرطة تحكم الصوت لكل تطبيق.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial مع تبديل جهاز إخراج الصوت وتحكم بالصوت لكل تطبيق في لوحة شريط قوائم واحدة" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial مع تبديل جهاز إخراج الصوت وتحكم بالصوت لكل تطبيق في لوحة شريط قوائم واحدة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -1875,6 +1881,9 @@ export const arArticles: ArticleSet = {
     readTime: "8 دقائق قراءة",
     content: `
 <p>تستمع للموسيقى وتسمع فرقعة. ثم طقطقة. ثم تقطع حيث ينقطع الصوت لجزء من الثانية ويعود. ليست الأغنية — إنه Mac.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <h2>1. أعد تشغيل Core Audio (الإصلاح السريع)</h2>
 <p><code>sudo killall coreaudiod</code></p>
@@ -1927,7 +1936,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز أي تطبيق حتى <strong>200%</strong>، بما في ذلك Microsoft Teams.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة Microsoft Teams فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة Microsoft Teams فوق 100% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -1941,6 +1950,9 @@ export const arArticles: ArticleSet = {
     readTime: "7 دقائق قراءة",
     content: `
 <p>أنت في مكالمة فيديو. Slack يستمر بالتنبيه. الموسيقى تعمل في الخلفية. تمد يدك لمفتاح الصوت و — كل شيء يصبح أهدأ. المكالمة والموسيقى والإشعارات. macOS لديه شريط تحكم واحد بالضبط، ويتحكم في كل شيء دفعة واحدة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
 
 <p>Windows لديه مُضاهِي صوت لكل تطبيق منذ Vista في 2006. عشرون سنة لاحقاً، macOS لا يزال لا يملكه.</p>
 
@@ -1965,7 +1977,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح Slack شريط تحكم مستقل. اضبطه على أي مستوى يناسبك — أو اكتمه بالكامل بنقرة واحدة.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial مع Slack مكتوم وSpotify يعمل بصوت عادي على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial مع Slack مكتوم وSpotify يعمل بصوت عادي على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>سير عمل Slack المثالي</h3>
 <ul>
@@ -1991,7 +2003,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتضمن نظام ملفات تعريف مدمج.</p>
 
-<img src="/apps/sounddial.png" alt="ملفات تعريف صوت SoundDial — تبديل بنقرة واحدة بين أوضاع اجتماع وتركيز واسترخاء على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="ملفات تعريف صوت SoundDial — تبديل بنقرة واحدة بين أوضاع اجتماع وتركيز واسترخاء على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>أمثلة ملفات تعريف</h3>
 <p><strong>اجتماع:</strong> Zoom/Teams: 100%، Spotify: مكتوم، Slack: مكتوم</p>
@@ -2016,7 +2028,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز أي تطبيق حتى <strong>200%</strong> — بما في ذلك Zoom.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة Zoom لـ 180% على Mac لصوت أوضح أثناء مكالمات الفيديو" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت مكالمة Zoom لـ 180% على Mac لصوت أوضح أثناء مكالمات الفيديو" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>يعمل أيضاً مع <strong>Microsoft Teams وGoogle Meet وFaceTime وDiscord ومحادثات Slack وWebex</strong> وأي تطبيق مكالمات آخر.</p>
 
@@ -2037,7 +2049,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يضع شريط تحكم لكل تطبيق في شريط القوائم.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يخفض صوت Spotify بشكل مستقل مع إبقاء التطبيقات الأخرى بصوت كامل على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يخفض صوت Spotify بشكل مستقل مع إبقاء التطبيقات الأخرى بصوت كامل على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>شراء لمرة واحدة على <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>. بدون اشتراك. macOS 14.2+.</p>
 `,
@@ -2060,7 +2072,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> تطبيق macOS أصلي في شريط القوائم يمنحك مُضاهِي صوت — أشرطة تحكم مستقلة لكل تطبيق.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يوفر تحكماً بالصوت لكل تطبيق على macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يوفر تحكماً بالصوت لكل تطبيق على macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>شراء لمرة واحدة على <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>. بدون اشتراك. macOS 14.2+.</p>
 `,
@@ -2079,7 +2091,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق شريط تحكم خاص. أثناء مكالمة: Zoom على 100%، Spotify على 20%، كل شيء آخر مكتوم.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يُظهر Zoom بصوت كامل وSpotify مخفض أثناء مكالمة على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يُظهر Zoom بصوت كامل وSpotify مخفض أثناء مكالمة على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -2098,7 +2110,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتذكر مستوى صوت كل تطبيق بشكل مستقل. عند إعادة تشغيل تطبيق أو استيقاظ Mac من السكون، SoundDial يستعيد كل تطبيق لصوته المحفوظ.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يتذكر مستويات صوت كل تطبيق عبر إعادات التشغيل على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يتذكر مستويات صوت كل تطبيق عبر إعادات التشغيل على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -2116,7 +2128,7 @@ export const arArticles: ArticleSet = {
 <h2>SoundDial</h2>
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> تطبيق macOS أصلي في شريط القوائم مركّز على فعل شيء واحد بشكل جيد: تحكم بالصوت لكل تطبيق. €14.99 شراء لمرة واحدة، بملفات تعريف وخفض تلقائي وتعزيز حتى 200%.</p>
 
-<img src="/apps/sounddial.png" alt="مُضاهِي صوت SoundDial لكل تطبيق يُظهر أشرطة تحكم صوت فردية على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="مُضاهِي صوت SoundDial لكل تطبيق يُظهر أشرطة تحكم صوت فردية على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h2>SoundSource (Rogue Amoeba)</h2>
 <p>$39 USD، معادل صوت لكل تطبيق وتوجيه إخراج، لكن بدون ملفات تعريف أو خفض تلقائي. يتطلب تعريف صوت نظام.</p>
@@ -2141,7 +2153,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق — بما في ذلك Safari وChrome — شريط تحكم مستقل يصل لـ <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت متصفح Safari لـ 180% لفيديوهات YouTube الهادئة على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت متصفح Safari لـ 180% لفيديوهات YouTube الهادئة على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -2160,7 +2172,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق شريط تحكم خاص.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يُظهر Slack بصوت منخفض وSpotify بصوت عادي — تحكم مستقل بالإشعارات على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يُظهر Slack بصوت منخفض وSpotify بصوت عادي — تحكم مستقل بالإشعارات على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>إعداد صديق لسماعات الرأس</h3>
 <ul>
@@ -2189,7 +2201,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنحك بالضبط هذا. ميزة الخفض التلقائي تراقب ميكروفونك وتعدّل صوت الخلفية تلقائياً — لكن <strong>أنت تتحكم بمستوى الخفض</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="إعدادات الخفض التلقائي في SoundDial — خفض صوت قابل للتعديل أثناء مكالمات Zoom على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="إعدادات الخفض التلقائي في SoundDial — خفض صوت قابل للتعديل أثناء مكالمات Zoom على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -2208,7 +2220,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز أي تطبيق حتى <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت التطبيق لـ AirPods على Mac بأشرطة تحكم لكل تطبيق حتى 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت التطبيق لـ AirPods على Mac بأشرطة تحكم لكل تطبيق حتى 200%" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -2227,7 +2239,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يتيح لك تعزيز أي تطبيق حتى <strong>200%</strong> — بما في ذلك Spotify.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Spotify لـ 200% على macOS مع إبقاء التطبيقات الأخرى بصوت عادي" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يعزز صوت Spotify لـ 200% على macOS مع إبقاء التطبيقات الأخرى بصوت عادي" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a> — €14.99 شراء لمرة واحدة، بدون اشتراك، macOS 14.2+.</p>
 `,
@@ -2246,7 +2258,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يجلس في شريط القوائم ويمنح كل تطبيق شريطه الخاص.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يُظهر أشرطة تحكم مستقلة لللعبة وDiscord على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يُظهر أشرطة تحكم مستقلة لللعبة وDiscord على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>إعداد ألعاب نموذجي</h3>
 <ul>
@@ -2279,7 +2291,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> تطبيق macOS أصلي في شريط القوائم يفعل بالضبط ما يفعله مُضاهِي Windows — وأكثر.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — مُضاهِي الصوت لـ macOS، يُظهر أشرطة تحكم صوت لكل تطبيق في شريط القوائم" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — مُضاهِي الصوت لـ macOS، يُظهر أشرطة تحكم صوت لكل تطبيق في شريط القوائم" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>شراء لمرة واحدة على <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>. بدون اشتراك. macOS 14.2+.</p>
 
@@ -2300,7 +2312,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يمنح كل تطبيق على Mac شريط تحكم مستقل من 0% لـ <strong>200%</strong>.</p>
 
-<img src="/apps/sounddial.png" alt="تعزيز صوت SoundDial — تحكم بالصوت لكل تطبيق مع تضخيم 200% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="تعزيز صوت SoundDial — تحكم بالصوت لكل تطبيق مع تضخيم 200% على macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>شراء لمرة واحدة على <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>. بدون اشتراك. macOS 14.2+.</p>
 `,
@@ -2319,7 +2331,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> لديه ميزة خفض تلقائي مدمجة. يراقب حالة ميكروفون Mac — عندما يكتشف أن تطبيق اتصال فعّل ميكروفونك، يخفض كل التطبيقات غير الاتصال لمستوى تُعدّه.</p>
 
-<img src="/apps/sounddial.png" alt="ميزة الخفض التلقائي في SoundDial تخفض صوت الموسيقى تلقائياً أثناء مكالمة Zoom على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="ميزة الخفض التلقائي في SoundDial تخفض صوت الموسيقى تلقائياً أثناء مكالمة Zoom على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>يعمل مع Zoom وMicrosoft Teams وFaceTime وDiscord وSlack وGoogle Meet وWebex وSkype.</p>
 
@@ -2340,7 +2352,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> يجلس في شريط القوائم ويُظهر كل تطبيق يعمل بشريط تحكم وزر كتم خاصين.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial يُظهر أزرار كتم لكل تطبيق في شريط قوائم macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial يُظهر أزرار كتم لكل تطبيق في شريط قوائم macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>لكتم تطبيق واحد:</p>
 <ol>
@@ -2370,7 +2382,7 @@ export const arArticles: ArticleSet = {
 
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> تطبيق macOS أصلي في شريط القوائم يمنحك بالضبط ما لن تبنيه Apple — تحكم صوت مستقل لكل تطبيق على Mac.</p>
 
-<img src="/apps/sounddial.png" alt="SoundDial — مُضاهِي صوت لكل تطبيق لـ macOS يُظهر أشرطة تحكم صوت فردية في شريط القوائم" style="max-width:100%;border-radius:12px;margin:24px 0;" />
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — مُضاهِي صوت لكل تطبيق لـ macOS يُظهر أشرطة تحكم صوت فردية في شريط القوائم" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p>ميزات رئيسية:</p>
 <ul>
@@ -2385,5 +2397,2353 @@ export const arArticles: ArticleSet = {
 
 <p>شراء لمرة واحدة. بدون اشتراك. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">احصل على SoundDial من Mac App Store</a>.</p>
 `,
+  },
+  "background-music-alternative-mac": {
+    slug: "background-music-alternative-mac",
+    title: "أفضل بديل Background Music لـ Mac (2026)",
+    description: "Background Music يتعطل على macOS الأحدث؟ البديل الأكثر موثوقية لخلاط الصوت لكل تطبيق هو SoundDial - وهو تطبيق Mac App Store في وضع الحماية مع التعزيز والملفات الشخصية.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا توقف Background Music عن العمل بعد تحديث macOS، فإن البديل الأكثر موثوقية هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> - خلاط حجم شريط القوائم لكل تطبيق من Mac App Store. إنه يمنح كل تطبيق شريط تمرير الصوت الخاص به، ويضيف كتم الصوت، والتعزيز، وملفات تعريف مستوى الصوت، والخفض التلقائي، كما أنه خاضع للحماية بالكامل ومراجعته من قبل Apple، لذلك لا توجد برامج تشغيل صوتية لإيقافها في الإصدار التالي من macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — أفضل بديل Background Music لـ Mac (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا ينكسر Background Music على macOS الأحدث</h2>
+
+<p>Background Music هو مشروع مجاني ومفتوح المصدر وذكي حقًا. لقد منح مستخدمي Mac شيئًا لم تمتلكه Apple أبدًا: خلاط حجم لكل تطبيق، وهو النوع الذي توفره Windows لسنوات. لكن تصميمه هو أيضًا السبب وراء فشله المستمر.</p>
+
+<p>لتوجيه الصوت والتحكم فيه، تقوم Background Music بتثبيت جهاز صوت افتراضي - برنامج تشغيل على مستوى النظام يعترض صوت Mac. لقد نجح هذا الأسلوب بشكل جيد مع macOS الأقدم، ولكن كل إصدار رئيسي يشدد الأمان حول امتدادات النواة والصوت. الأعراض الشائعة التي أبلغ عنها المستخدمون:</p>
+
+<ul>
+<li>لا يوجد صوت على الإطلاق بعد التثبيت أو بعد تحديث نظام التشغيل.</li>
+<li>يفشل الجهاز الظاهري في التحميل، لذلك يتوقف توجيه الصوت بصمت.</li>
+<li>يحتاج التطبيق إلى إعادة التثبيت أو إعادة التشغيل أو إزالة برنامج التشغيل يدويًا لاسترداده.</li>
+<li>إن التطوير يقوده المجتمع ويسير بخطى تطوعية، لذلك قد تتأخر الإصلاحات الخاصة بـ macOS الجديد.</li>
+</ul>
+
+<p>لا شيء من هذا يجعل Background Music "سيئًا". هذا يعني فقط أن الأداة المجانية المستندة إلى برنامج التشغيل هشة بطبيعتها، وإذا كنت تعتمد على حجم كل تطبيق كل يوم، فإن هذه الهشاشة تصبح قديمة بسرعة.</p>
+
+<h2>ما الذي تبحث عنه في البديل</h2>
+
+<p>قبل اختيار أي بديل، قرر ما تحتاجه بالفعل:</p>
+
+<ul>
+<li><strong>الموثوقية عبر تحديثات macOS.</strong> إذا قام بتثبيت نواة أو ملحق صوتي، فتوقع حدوث انقطاع في بعض الأحيان.</li>
+<li><strong>التحكم الحقيقي لكل تطبيق.</strong> مستوى الصوت المستقل وكتم الصوت لكل تطبيق هو خط الأساس.</li>
+<li><strong>دفعة.</strong> بعض التطبيقات (أدوات الاجتماعات الهادئة، وبعض المتصفحات) تكون هادئة للغاية - وتريد تجاوز نسبة 100%.</li>
+<li><strong>ميزات الراحة.</strong> الملفات الشخصية والتجنب التلقائي هي التي تحول الأداة المساعدة إلى شيء تبقيه مفتوحًا طوال اليوم.</li>
+<li><strong>تثبيت آمن.</strong> لا يمكن لتطبيق Mac App Store في وضع الحماية أن يلمس الأجزاء الداخلية للنظام، لذلك تكون عملية إلغاء التثبيت نظيفة وتكون التحديثات تلقائية.</li>
+</ul>
+
+<h2>لماذا SoundDial هو الاختيار الموثوق به</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> تم تصميمه لحل المشكلة التي يواجهها مستخدمو Background Music تمامًا: إنهم يريدون حجمًا لكل تطبيق، لكنهم لا يريدون مجالسة السائق. إنه موجود في شريط القائمة الخاص بك ويقوم بالمهمة الأساسية بشكل جيد:</p>
+
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong>، مع كتم الصوت لكل تطبيق في نفس اللوحة.</li>
+<li><strong>تعزيز لكل تطبيق</strong> لجعل التطبيقات الهادئة عالية بما يكفي لسماعها فعليًا.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مزيجًا (على سبيل المثال، "اجتماع" أو "ألعاب") وقم بالتبديل على الفور بدلاً من سحب أشرطة التمرير في كل مرة.</li>
+<li><strong>التملص التلقائي</strong>، لذلك ينخفض صوت الخلفية تلقائيًا عندما ينبغي ذلك.</li>
+<li><strong>التبديل السريع للإخراج</strong> بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى.</li>
+</ul>
+
+<p>الفرق الأكبر هو كيفية تثبيته. يتم شحن SoundDial عبر Mac App Store، مما يعني أنه تمت مراجعته بواسطة Apple ووضعه في وضع الحماية. لا يوجد DMG للسحب، ولا يوجد برنامج تشغيل صوتي أو ملحق للنظام، ولا يوجد وصول إلى kernel. هذا هو السبب الوحيد الأكثر أهمية لعدم كسر الطريقة التي يعمل بها Background Music عند وصول macOS الجديد - فهو غير متصل بأجزاء النظام التي تستمر Apple في تأمينها.</p>
+
+<p>يكلف <strong>14.99 يورو لمرة واحدة</strong>. ليست مجانية، ولكن لا يوجد اشتراك، وأنت تدفع مقابل شيء تمت صيانته وآمن لتثبيته.</p>
+
+<h2>SoundDial مقابل Background Music مقابل الأدوات المجانية</h2>
+
+<p>Background Music ليس خيارك المجاني الوحيد، لذا إليك عرضًا صادقًا للأرض:</p>
+
+<ul>
+<li><strong>Background Music (مجاني ومفتوح المصدر):</strong> حجم كل تطبيق، ولكنه يعتمد على برنامج التشغيل، وعرضة للاختراق على macOS الأحدث، ويفتقر إلى التعزيز، والملفات الشخصية، والتهرب التلقائي.</li>
+<li><strong>FineTune (مجاني ومفتوح المصدر):</strong> تطبيق حجم شريط القوائم خفيف الوزن لكل تطبيق. جيد إذا كان مجانيًا هو متطلبك الوحيد، ولكنه ضعيف فيما يتعلق بالإضافات.</li>
+<li><strong>eqMac (مجاني):</strong> في المقام الأول عبارة عن معادل نظام ومعزز، وليس خلاطًا حقيقيًا لكل تطبيق.</li>
+<li><strong>SoundSource من Rogue Amoeba (~ 39 دولارًا):</strong> الخيار الاحترافي، مع معادل الصوت لكل تطبيق وتوجيه الإخراج الكامل. ممتاز، ولكنه أكثر من ضعف سعر SoundDial ولا يزال يتطلب التنزيل بالإضافة إلى برنامج تشغيل التقاط الصوت.</li>
+<li><strong>SoundDial (14.99 يورو، Mac App Store):</strong> الحل الأوسط - الحجم الحقيقي لكل تطبيق، وكتم الصوت، والتعزيز، والملفات الشخصية، والتهرب، يتم تقديمها كتثبيت نظيف في وضع الحماية بدون برامج تشغيل.</li>
+</ul>
+
+<p>إذا كنت بحاجة إلى EQ لكل تطبيق أو توجيه استوديو معقد، فإن SoundSource يستحق المال الإضافي. إذا كنت تريد أداة إصلاح مجانية ويمكنك تحمل الكسر العرضي، فإن FineTune أو Background Music ستفي بالغرض. ولكن إذا كان هدفك هو "منح كل تطبيق حجمه الخاص والتوقف عن تعطيل كل تحديث لـ macOS"، فإن SoundDial يحقق هذا الهدف بأقل قدر من المتاعب.</p>
+
+<h2>سياق macOS الذي يجعل ذلك ضروريًا</h2>
+
+<p>تجدر الإشارة إلى أن macOS لا يحتوي على خلاط صوت مدمج لكل تطبيق. كان لدى Windows واحدًا منذ سنوات في قائمة الحجم المنبثقة، ولكن في Mac، يتحكم شريط تمرير النظام في كل شيء مرة واحدة. هذه الفجوة هي السبب الكامل لوجود أدوات مثل Background Music وSoundDial. نظرًا لأن Apple لم تملأه، فإن السؤال العملي هو ما هو نهج الطرف الثالث الذي تثق به - برنامج تشغيل مجاني يحارب نظام التشغيل، أو تطبيق Sandbox يعمل معه.</p>
+
+<p>هل أنت مستعد للتوقف عن محاربة برامج تشغيل الصوت المعطلة؟ احصل على <a href="https://apps.apple.com/app/id6772792641">SoundDial على Mac App Store</a> مقابل 14.99 يورو والتحكم في مستوى صوت كل تطبيق بطريقة موثوقة.</p>`,
+  },
+  "soundsource-vs-sounddial-mac": {
+    slug: "soundsource-vs-sounddial-mac",
+    title: "SoundSource vs SoundDial: أي تطبيق Mac Volume يفوز؟",
+    description: "SoundSource (39 دولارًا، احترافيًا) مقابل SoundDial (14.99 يورو، App Store). قارن مستوى الصوت والتعزيز والملفات الشخصية والخفض التلقائي لكل تطبيق لاختيار خلاط Mac المناسب لك.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا كنت تريد فقط التحكم في مستوى الصوت لكل تطبيق ويتم تثبيته بشكل نظيف وبتكلفة أقل، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو الشراء الأفضل لمعظم الأشخاص: 14.99 يورو لمرة واحدة، من Mac App Store، مع مستوى الصوت لكل تطبيق، وكتم الصوت، والتعزيز، والملفات الشخصية، والتهرب التلقائي. اختر Rogue Amoeba's SoundSource (~ 39 دولارًا) فقط إذا كنت بحاجة على وجه التحديد إلى EQ لكل تطبيق وتوجيه الإخراج المتقدم.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial: أي تطبيق Mac Volume يفوز؟" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>النسخة القصيرة</h2>
+<p>لا يزال macOS لا يحتوي على خلاط حجم مدمج لكل تطبيق. كان لدى Windows واحدًا منذ سنوات، ولكن في Mac يقوم شريط تمرير مستوى صوت النظام بتحريك كل شيء مرة واحدة. يوجد كل من SoundSource وSoundDial لإصلاح هذه الفجوة. إنهم يستهدفون فقط مشترين مختلفين.</p>
+<ul>
+<li><strong>SoundDial</strong> - 14.99 يورو لمرة واحدة، Mac App Store، تطبيق شريط القوائم. مستوى صوت مستقل لكل تطبيق، وكتم صوت لكل تطبيق، وتعزيز لكل تطبيق، وملفات التعريف المحفوظة، والخفض التلقائي، والتبديل السريع للإخراج. Sandboxed ومراجعة Apple، لذلك لا يتم تثبيت برنامج التشغيل.</li>
+<li><strong>SoundSource</strong> - ~ 39 دولارًا، تنزيل مباشر من Rogue Amoeba. كل ما سبق بالإضافة إلى EQ لكل تطبيق، وتوجيه الإخراج المتقدم، والمؤثرات الصوتية. يتطلب تثبيت برنامج تشغيل صغير لالتقاط الصوت.</li>
+</ul>
+
+<h2>السعر وكيفية شرائه</h2>
+<p>وهذا هو الانقسام الأوضح. يبلغ سعر SoundSource حوالي 39 دولارًا ويتم بيعه مباشرة بواسطة Rogue Amoeba. SoundDial هو 14.99 يورو كعملية شراء لمرة واحدة على Mac App Store - ما يزيد قليلاً عن ثلث السعر.</p>
+<p>لان <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتم شحنه عبر App Store، وهو محمي وموثق ومراجع من قبل Apple. تنقر فوق Get، ويتم التثبيت، ويتم ذلك. لا يوجد DMG لتركيبه، ولا توجد أذونات لمنحها لمكون مجاور لـ kernel، ولا يوجد برنامج تشغيل صوت أو ملحق للنظام. كما أنه يتوافق أيضًا مع تدفق تحديث App Store العادي ويتزامن مع Macs الأخرى على نفس معرف Apple.</p>
+<p>يتم تنزيل SoundSource خارج App Store ويقوم بتثبيت برنامج تشغيل التقاط الصوت حتى يتمكن من اعتراض ومعالجة صوت كل تطبيق. وهذا ما يفتح ميزاته الاحترافية، ولكنه يعني أيضًا خطوة تثبيت إضافية ومكونًا يتواجد بشكل أعمق في النظام.</p>
+
+<h2>ما يفعله SoundSource ولا يفعله SoundDial</h2>
+<p>SoundSource يكسب سعره لنوع معين من المستخدمين. إذا كان أي مما يلي يصفك، فهو يستحق المال الإضافي:</p>
+<ul>
+<li><strong>المعادل لكل تطبيق.</strong> تريد معادل صوت ذو 10 نطاقات، على سبيل المثال، Spotify مع ترك Zoom مسطحًا. SoundDial يقوم بالحجم وليس EQ.</li>
+<li><strong>توجيه الإخراج المتقدم</strong> إرسال تطبيق إلى مكبرات الصوت وآخر إلى سماعات الرأس أو واجهة معينة، مع التحكم الدقيق.</li>
+<li><strong>المؤثرات الصوتية والإضافات.</strong> يمكن لـ SoundSource استضافة التأثيرات على أساس كل تطبيق، وهي منطقة احترافية حقًا.</li>
+</ul>
+<p>تتمتع Rogue Amoeba بسجل حافل طويل وموثوق. SoundSource هي أداة جادة وسعرها مماثل للأداة. إذا كنت محترفًا في الصوت أو مستخدمًا كثيفًا للمخرجات المتعددة، فهذا هو الاختيار الصحيح.</p>
+
+<h2>ما الذي يفعله SoundDial بشكل أفضل للاستخدام اليومي</h2>
+<p>معظم الأشخاص الذين يبحثون عن "خلاط الصوت Mac" لا يحتاجون إلى معادل الصوت. إنهم بحاجة إلى تطبيق واحد أكثر هدوءًا من الآخر، ولا يريدون محاربة أحد المثبتين للحصول عليه. يغطي SoundDial ذلك بشكل واضح، ويضيف بضعة أشياء تستحق الإشارة إليها:</p>
+<ul>
+<li><strong>تعزيز لكل تطبيق.</strong> تكون بعض التطبيقات ومقاطع الفيديو هادئة للغاية حتى عند مستوى 100%. يمكن لـ SoundDial دفع تطبيق واحد فوق سقفه الطبيعي حتى يصبح الاجتماع الهادئ أو البودكاست مسموعًا في النهاية.</li>
+<li><strong>ملفات تعريف الحجم.</strong> احفظ الإعداد الكامل - الموسيقى منخفضة، والمتصفح صامت، والاتصال بالتطبيق بصوت عالٍ - واسترجعه على الفور. رائعة للتبديل بين "التركيز" و"الاجتماع" و"الألعاب" دون سحب خمسة أشرطة تمرير.</li>
+<li><strong>التملص التلقائي.</strong> قم بخفض صوت الخلفية تلقائيًا (مثل الموسيقى) عند بدء تشغيل مصدر آخر، حتى لا يتم إخفاء الإشعارات أو المكالمات أو الفيديو.</li>
+<li><strong>التبديل السريع للإخراج.</strong> يمكنك التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى من شريط القائمة.</li>
+</ul>
+<p>يتم تشغيل كل ذلك من القائمة المنسدلة لشريط القائمة، لذا فهي على بعد نقرة واحدة وتختفي من وجهك بقية الوقت.</p>
+
+<h2>البدائل المجانية باختصار</h2>
+<p>سترى بعض الخيارات المجانية المذكورة في نفس عمليات البحث. من المفيد معرفتها عن:</p>
+<ul>
+<li><strong>Background Music</strong> — مجاني ومفتوح المصدر، ويمنحك حجمًا أساسيًا لكل تطبيق. ولكن يمكن أن يتعطل مع إصدارات macOS الأحدث، ولا يحتوي على أي تعزيز أو ملفات تعريف أو تهرب تلقائي.</li>
+<li><strong>FineTune</strong> - تطبيق مجاني لحجم شريط القوائم مفتوح المصدر. بسيطة، ولكنها محدودة النطاق.</li>
+<li><strong>eqMac</strong> - موازن صوت مجاني ومعزز للنظام، وهو بمثابة أداة موازن صوت على مستوى النظام أكثر من كونه خلاطًا حقيقيًا لكل تطبيق.</li>
+</ul>
+<p>مجانًا أمر رائع إذا كان مناسبًا لك. والمقايضة هي التوافق والدعم: يمكن أن تتأخر الأدوات الصوتية مفتوحة المصدر عن تحديثات macOS، ولا توجد ميزات مثل الملفات الشخصية والتهرب بشكل عام. إذا كان إعدادك مهمًا ليوم عملك، فعادةً ما يكون الدفع مرة واحدة مقابل شيء تمت مراجعته وصيانته هو المسار الأكثر هدوءًا.</p>
+
+<h2>أي واحد يجب أن تشتري؟</h2>
+<p>أجب عن سؤال واحد: هل تحتاج إلى معادل صوت لكل تطبيق أو توجيه إخراج متقدم؟</p>
+<ul>
+<li><strong>نعم</strong> - شراء SoundSource. لقد تم تصميمه لهذا الغرض، ويعد مبلغ 39 دولارًا تقريبًا عادلاً لأداة احترافية بمحرك على مستوى السائق.</li>
+<li><strong>لا، أريد فقط الحجم والتعزيز والتثبيت النظيف لكل تطبيق</strong> - شراء SoundDial. يمكنك الحصول على المزج الذي يهم حقًا يومًا بعد يوم، بالإضافة إلى الملفات الشخصية والتخلص التلقائي، مقابل 14.99 يورو وبدون أي متاعب للسائق.</li>
+</ul>
+<p>بالنسبة للغالبية العظمى من مستخدمي Mac، هذه المجموعة الثانية هي الإجابة الصادقة. أنت تدفع مقابل التحكم في مستوى الصوت، وليس مقابل الاستوديو.</p>
+
+<p><strong>هل أنت مستعد لإصلاح مستوى صوت Mac بالطريقة السهلة؟</strong> احصل على <a href="https://apps.apple.com/app/id6772792641">SoundDial على Mac App Store</a> - 14.99 يورو لمرة واحدة، بدون سائقين، بدون DMG. مستوى الصوت لكل تطبيق، والتعزيز، والملفات الشخصية، والخفض التلقائي بنقرة واحدة.</p>`,
+  },
+  "cheaper-soundsource-alternative-mac": {
+    slug: "cheaper-soundsource-alternative-mac",
+    title: "بديل SoundSource أرخص لحجم كل تطبيق على Mac",
+    description: "هل تريد حجمًا لكل تطبيق بنمط SoundSource بدون سعر 39 دولارًا؟ SoundDial عبارة عن خلاط شريط قوائم Mac App Store بقيمة 14.99 يورو مع التعزيز والملفات الشخصية والتهرب التلقائي.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا كنت تريد التحكم في مستوى الصوت لكل تطبيق بنمط SoundSource على جهاز Mac ولكن يبدو أن 39 دولارًا باهظ الثمن، فإن أسرع حل يمكن الاعتماد عليه هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. إنه خلاط شريط قوائم بقيمة 14.99 يورو لمرة واحدة من Mac App Store يمنح كل تطبيق شريط تمرير الصوت وكتم الصوت والتعزيز الخاص به - بالإضافة إلى الملفات الشخصية والخفض التلقائي - بدون تنزيل أو تثبيت برنامج تشغيل الصوت.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل SoundSource الأرخص لحجم كل تطبيق على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يبحث الناس عن بديل SoundSource</h2>
+<p>يعد SoundSource من Rogue Amoeba برنامجًا ممتازًا. إنها حقًا احترافية: المعادلات لكل تطبيق، والمؤثرات الصوتية، وتوجيه الإخراج الذي يتيح لك إرسال تطبيق واحد إلى سماعات الرأس وآخر إلى مكبرات الصوت. لكن هذه القوة تأتي مع نقطتي احتكاك. أولاً، السعر – حوالي 39 دولارًا. ثانيًا، يقوم بتثبيت برنامج تشغيل التقاط الصوت على مستوى النظام خارج App Store، والذي يتوخى بعض الأشخاص الحذر بشأنه على جهاز العمل أو ببساطة لا يريدون إدارته عبر تحديثات macOS.</p>
+<p>بالنسبة لمعظم الأشخاص، تكون الحاجة الحقيقية أبسط بكثير: قم بإيقاف تشغيل Spotify دون لمس مكالمة Zoom، أو كتم صوت تطبيق علامة تبويب المتصفح المزعجة، أو تعزيز مشغل فيديو هادئ بنسبة تتجاوز 100%. إذا كان هذا هو حالك، فأنت تدفع أموالًا احترافية مقابل ميزات لن تفتحها أبدًا.</p>
+
+<h2>ما يفعله SoundDial – وما هي تكلفته</h2>
+<p>يركز SoundDial على مهمة الحجم لكل تطبيق ويقوم بها بشكل نظيف. افتح شريط القائمة وستحصل على قائمة مباشرة بكل شيء يصدر صوتًا، ولكل منها التحكم الخاص به:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> — شريط تمرير واحد لكل تطبيق، يتم تعديله في الوقت الفعلي.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات تطبيق واحد على الفور دون إيقاف أي شيء آخر مؤقتًا.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - دفع التطبيقات الهادئة إلى مستوى أعلى من الحد الأقصى الطبيعي عندما يكون الفيديو أو المكالمة ضعيفًا جدًا.</li>
+<li><strong>ملفات تعريف الحجم</strong> — احفظ مزيجًا (على سبيل المثال، "التركيز"، و"الألعاب"، و"الاجتماع") وقم بالتبديل بنقرة واحدة.</li>
+<li><strong>التملص التلقائي</strong> - تراجع التطبيقات الأخرى تلقائيًا عندما يبدأ تشغيل شيء أكثر أهمية.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى من نفس القائمة.</li>
+</ul>
+<p>السعر هو <strong>14.99 يورو، تدفع مرة واحدة</strong> - لا يوجد اشتراك. وهذا يمثل ما يقرب من ثلث تكلفة SoundSource، بالنسبة لميزات الحجم التي يصل إليها معظم المستخدمين بالفعل.</p>
+
+<h2>الفرق App Store</h2>
+<p>نظرًا لأن SoundDial يتم شحنه عبر <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>، لقد تمت مراجعته بواسطة Apple ووضعه في وضع الحماية. لا يوجد DMG للسحب، ولا يوجد ملحق kernel أو برنامج تشغيل التقاط الصوت للموافقة عليه، ولا يوجد مُحدِّث منفصل. تقوم بتثبيته مثل أي تطبيق App Store آخر ويعمل. عند تحديث macOS، لن تتساءل عما إذا كان مكون الصوت منخفض المستوى لا يزال يعمل.</p>
+<blockquote>لا يزال macOS لا يحتوي على خلاط حجم مدمج لكل تطبيق. كان لدى Windows واحدة منذ سنوات، ولكن في Mac يكون حجم النظام هو كل شيء أو لا شيء - وهي بالضبط الفجوة التي تملأها هذه الأدوات.</blockquote>
+
+<h2>كيف يقارن بالخيارات المجانية</h2>
+<p>SoundSource ليس البديل الوحيد لديك. هناك أدوات مجانية، والصدق بشأنها أمر مهم:</p>
+<ul>
+<li><strong>Background Music</strong> هو تطبيق مجاني مفتوح المصدر لكل تطبيق. إنه يعمل مع العديد من الأشخاص، لكنه يمكن أن يتعطل مع إصدارات macOS الأحدث، والتحديثات غير منتظمة، ولا يوجد بها أي تعزيز، ولا ملفات تعريف، ولا تهرب تلقائي.</li>
+<li><strong>FineTune</strong> هو تطبيق مجاني ومفتوح المصدر لحجم شريط القوائم - خفيف الوزن وسهل الاستخدام، ولكنه يفتقر مرة أخرى إلى ميزات الملف الشخصي والتهرب.</li>
+<li><strong>eqMac</strong> هو معادل مجاني ومعزز للنظام. إنها أداة معادل/تعزيز أكثر من كونها أداة مزج حقيقية لكل تطبيق، ولا تركز على أشرطة تمرير التطبيقات الفردية.</li>
+</ul>
+<p>الحرة هو خيار مشروع. المقايضة هي الموثوقية والميزات: تعتمد الأدوات الصوتية مفتوحة المصدر على الصيانة التطوعية ويمكن أن تتأخر عن تغييرات macOS، ولا يوجد أي من ملفات تعريف حزمة الخيارات المجانية بالإضافة إلى التهرب التلقائي بالطريقة التي تعمل بها SoundDial. إذا كان إعدادك بسيطًا ولا تمانع في حدوث كسر بين الحين والآخر، فقد يكون التطبيق المجاني كافيًا. إذا كنت تريد شيئًا تتم صيانته ووضعه في وضع الحماية ويعمل بشكل جيد، فإن مبلغ 14.99 يورو يشتري لك ذلك تمامًا.</p>
+
+<h2>دليل القرار السريع</h2>
+<ul>
+<li><strong>أنت بحاجة إلى EQ لكل تطبيق، وتأثيرات صوتية، وتوجيه تطبيق واحد إلى جهاز إخراج مختلف</strong> → SoundSource يستحق سعره. لا شيء هنا يحل محل ذلك تماما.</li>
+<li><strong>تحتاج بشكل أساسي إلى مستوى الصوت لكل تطبيق، وكتم الصوت، والتعزيز، والملفات الشخصية، والتهرب - بدون برامج تشغيل</strong> → SoundDial بسعر 14.99 يورو هو الاختيار الأفضل قيمة.</li>
+<li><strong>تريد مجانًا ولا تمانع في مخاطر الصيانة</strong> → جرب Background Music أو FineTune أو eqMac أولاً.</li>
+</ul>
+
+<h2>إعداده</h2>
+<p>يستغرق البدء حوالي دقيقة:</p>
+<ul>
+<li>قم بتثبيت SoundDial من Mac App Store — بدون تنزيل خارجي.</li>
+<li>امنح إذن الصوت الذي يطالب به macOS عند التشغيل لأول مرة.</li>
+<li>قم بتشغيل الصوت في بعض التطبيقات وافتح رمز شريط القائمة؛ سترى كل واحد مع شريط التمرير الخاص به.</li>
+<li>اسحب لتعيين المستويات، أو انقر لكتم الصوت، أو ادفع إلى ما بعد 100% للتعزيز.</li>
+<li>احفظ الإعداد الخاص بك كملف تعريف، وقم بتشغيل التراجع التلقائي إذا كنت تريد أن تهدأ التطبيقات الأخرى أثناء المكالمات أو الوسائط.</li>
+</ul>
+<p>هذا هو سير العمل بأكمله - لا توجد ملفات تكوين، ولا إعادة تشغيل، ولا يوجد امتداد للنظام ليباركه.</p>
+
+<h2>خلاصة القول</h2>
+<p>SoundSource هي الأداة الأكثر قوة، ولكن معظم الأشخاص الذين يبحثون عنها يريدون فقط حجمًا يتصرف بشكل جيد لكل تطبيق. يوفر SoundDial ذلك مقابل ثلث السعر تقريبًا، ويتم شحنه بأمان من خلال App Store، ويضيف ملفات تعريف وميزة الخفض التلقائي في الأعلى - بدون تثبيت برنامج تشغيل واحد.</p>
+
+<p>هل أنت مستعد للتحكم في مستوى صوت كل تطبيق بشكل مستقل؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو لمرة واحدة.</p>`,
+  },
+  "finetune-alternative-mac": {
+    slug: "finetune-alternative-mac",
+    title: "بديل FineTune لـ Mac: خلاط صوت مدعوم لكل تطبيق",
+    description: "هل جربت تطبيق شريط القوائم FineTune المجاني وتريد الحفاظ على شيء آمن وApp Store؟ إليك أفضل بديل لـ FineTune لحجم كل تطبيق على Mac.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا أعجبك FineTune ولكنك تريد صيانة شيء ما وتثبيته بشكل نشط من مصدر موثوق به، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو أسرع إصلاح يمكن الاعتماد عليه. إنه Mac App Store عبارة عن خلاط حجم شريط قوائم Mac App Store لكل تطبيق مع مستوى صوت مستقل، وكتم صوت لكل تطبيق، وتعزيز مستوى الصوت، وملفات التعريف المحفوظة، والتهرب التلقائي. تمت مراجعته بواسطة Apple ووضع الحماية، وتبلغ تكلفته 14.99 يورو مرة واحدة بدون تثبيت برامج التشغيل.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل FineTune لـ Mac: أداة مزج الصوت المدعومة لكل تطبيق" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا تبحث عن بديل FineTune على الإطلاق؟</h2>
+
+<p>FineTune هي فكرة جميلة: تطبيق مجاني ومفتوح المصدر لشريط القوائم يمنحك التحكم في مستوى الصوت لكل تطبيق على macOS، وهو شيء لا تزال Apple ترفض إنشاءه (يمتلك Windows خلاطًا لكل تطبيق لسنوات). بالنسبة لكثير من الناس يقوم بالمهمة الأساسية. ولكن هناك أسباب حقيقية تجعل المستخدمين يبحثون عن شيء آخر.</p>
+
+<ul>
+<li><strong>الصيانة غير مؤكدة.</strong> مشاريع الهوايات مفتوحة المصدر تعيش وتموت في وقت فراغ مشرف واحد. عندما يقوم macOS بشحن تحديث رئيسي، غالبًا ما تكون التطبيقات المتعلقة بالصوت هي أول من يتعطل، وتترك في انتظار الإصلاح التطوعي الذي قد لا يأتي أبدًا.</li>
+<li><strong>ميزة السقف.</strong> يغطي FineTune الحجم لكل تطبيق وغير ذلك الكثير. إذا كنت تريد تعزيزًا يتجاوز 100%، أو حفظ الملفات الشخصية، أو التراجع التلقائي، فيجب عليك استخدام أدوات أخرى.</li>
+<li><strong>الثقة والتحديثات.</strong> إن تثبيت إصدار أولي خارج App Store يعني عدم وجود مراجعة تلقائية، ولا ضمانات لوضع الحماية، وتحديثات يدوية يتعين عليك تتبعها بنفسك.</li>
+</ul>
+
+<p>لا شيء من هذا يجعل FineTune سيئًا. هذا يعني فقط أنه إذا كنت تعتمد على الصوت لكل تطبيق كل يوم، فمن المحتمل أنك تريد شيئًا يدعمه نموذج دعم.</p>
+
+<h2>ما يفعله SoundDial بشكل مختلف</h2>
+
+<p>يبدأ SoundDial من نفس الفكرة الأساسية، وهو خلاط شريط القوائم مع شريط تمرير لكل تطبيق قيد التشغيل، ثم يذهب إلى أبعد من ذلك مع الميزات التي يطلبها المستخدمون المتميزون بالفعل.</p>
+
+<ul>
+<li><strong>حجم مستقل لكل تطبيق.</strong> قم بإيقاف تشغيل Spotify، واحتفظ بمكالمتك بأعلى مستوى صوت، وكتم صوت تطبيق علامة تبويب المتصفح المزعجة تمامًا، كل ذلك من قائمة واحدة.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق.</strong> ادفع تطبيقًا هادئًا فوق سقفه الطبيعي عندما يتم إتقان البودكاست أو الفيديو بمستوى منخفض جدًا. FineTune لا يفعل هذا.</li>
+<li><strong>ملفات تعريف الحجم.</strong> احفظ مزيجًا و"تركيزًا" و"ألعابًا" و"اجتماعات" وقم بتبديل الإعداد بالكامل بنقرة واحدة بدلاً من دفع خمسة أشرطة تمرير.</li>
+<li><strong>التملص التلقائي.</strong> يمكنك خفض صوت الخلفية تلقائيًا عند بدء تشغيل شيء أكثر أهمية، وبالتالي تنخفض الموسيقى عند ورود مكالمة.</li>
+<li><strong>التبديل السريع للإخراج.</strong> يمكنك التنقل بين مكبرات الصوت وسماعات الرأس والمخرجات الأخرى دون الغوص في إعدادات النظام.</li>
+</ul>
+
+<p>لان <a href="https://apps.apple.com/app/id6772792641">يتم شحن SoundDial عبر Mac App Store</a>، لقد تمت مراجعته بواسطة Apple ووضع الحماية، ويتم تثبيته بشكل نظيف، ويتم تحديثه من خلال نفس الآلية مثل أي تطبيق App Store آخر. لا يوجد DMG للسحب، ولا يوجد برنامج تشغيل صوتي أو ملحق للنظام، ولا توجد مطالبة أمان تطلب منك السماح بمكون على مستوى kernel.</p>
+
+<h2>SoundDial مقابل FineTune والأدوات المجانية الأخرى</h2>
+
+<p>FineTune ليس الخيار المجاني الوحيد، فهو يساعد على رؤية المشهد بأكمله بأمانة.</p>
+
+<ul>
+<li><strong>FineTune</strong> - حجم شريط قوائم مجاني ومفتوح المصدر لكل تطبيق. بسيطة وخفيفة الوزن، ولكن لا يوجد تعزيز ولا ملفات تعريف ولا تهرب، وتعتمد الصيانة على المجتمع.</li>
+<li><strong>Background Music</strong> - مجاني ومفتوح المصدر، يقوم بتوجيه وضبط الصوت لكل تطبيق. مفيد حقًا، لكنه يمكن أن يتعطل مع إصدارات macOS الأحدث ويفتقر إلى التعزيز والملفات الشخصية والتهرب.</li>
+<li><strong>eqMac</strong> - معادل مجاني ومعزز للنظام. رائع إذا كنت تريد التعادل بشكل أساسي، ولكنه ليس خلاطًا لكل تطبيق.</li>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - الخيار الاحترافي بسعر 39 دولارًا تقريبًا، مع معادل الصوت لكل تطبيق وتوجيه الإخراج. ممتاز، لكنه يحتاج إلى تنزيل بالإضافة إلى برنامج تشغيل لالتقاط الصوت، ويكلف أكثر من الضعف.</li>
+<li><strong>SoundDial</strong> — 14.99 يورو لمرة واحدة، App Store، آمن، بدون سائقين. يضيف التعزيز والملفات الشخصية والتخفيض التلقائي أعلى أساسيات مستوى الصوت لكل تطبيق.</li>
+</ul>
+
+<p>الملخص الصادق: إذا كنت تريد أرخص شيء على الإطلاق وتحتاج فقط إلى الحجم الأساسي لكل تطبيق، فيمكن أن تعمل الأدوات المجانية. إذا كنت تريد EQ والتوجيه لكل تطبيق ولا تمانع في دفع وتثبيت برنامج التشغيل، فإن SoundSource هو الوزن الثقيل. يقع SoundDial في مكان جيد، فهو أكثر قدرة من التطبيقات المجانية، وأرخص بشكل كبير من SoundSource، وأكثر أمانًا في التثبيت من أي منهما لأن Apple تقوم بمراجعته ووضعه في وضع الحماية.</p>
+
+<h2>الانتقال من FineTune</h2>
+
+<p>يستغرق التبديل بضع دقائق ولا توجد طقوس للتنظيف.</p>
+
+<ul>
+<li>قم بتثبيت SoundDial من Mac App Store. لا يوجد مثبت، لا موافقة على برنامج التشغيل، لا إعادة التشغيل.</li>
+<li>انقر على أيقونة SoundDial في شريط القائمة لرؤية شريط التمرير لكل تطبيق قيد التشغيل.</li>
+<li>قم بتعيين مزيجك اليومي، ثم احفظه كملف تعريف حتى تتمكن من تذكره على الفور.</li>
+<li>يمكنك اختياريًا تشغيل ميزة الخفض التلقائي بحيث يتم وضع الصوت في الخلفية جانبًا للمكالمات والتنبيهات.</li>
+<li>عندما تكون سعيدًا، قم بإنهاء FineTune. نظرًا لعدم قيام أي من التطبيقين بتثبيت برامج تشغيل النظام، فلا يوجد شيء عالق لإلغاء تثبيته.</li>
+</ul>
+
+<p>ستحتفظ بالشيء الذي أعجبك في FineTune، وهو خلاط شريط القوائم النظيف الذي لم تقدمه لك Apple أبدًا، وستحصل على الدعم والملفات الشخصية والتهرب والدعم طويل الأمد الذي يوفره تطبيق App Store الذي تمت صيانته.</p>
+
+<h2>خلاصة القول</h2>
+
+<p>يثبت FineTune المفهوم: حجم الصوت لكل تطبيق ينتمي إلى شريط القائمة. SoundDial هو ما يبدو عليه هذا المفهوم مع نموذج دعم حقيقي، والمزيد من الميزات، وأمان App Store، مقابل 14.99 يورو لمرة واحدة بدلاً من الرهان على الصيانة التطوعية.</p>
+
+<p>هل أنت مستعد لخلاط لكل تطبيق يظل في حالة صيانة؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> والتحكم في مستوى صوت كل تطبيق في ثوانٍ.</p>`,
+  },
+  "eqmac-alternative-per-app-volume-mac": {
+    slug: "eqmac-alternative-per-app-volume-mac",
+    title: "eqMac بديل للحجم الحقيقي لكل تطبيق على Mac",
+    description: "هل أعجبك تعزيز eqMac ولكنك بحاجة إلى مستوى الصوت المناسب لكل تطبيق وكتم الصوت والملفات الشخصية؟ SoundDial هو أسرع إصلاح لـ Mac App Store — 14.99 يورو، في وضع الحماية، بدون برامج تشغيل.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا كنت تستخدم eqMac لمعادل الصوت ومعزز الصوت ولكنك تريد حقًا مستوى صوت مستقل لكل تطبيق - بالإضافة إلى كتم الصوت والتعزيز وملفات التعريف المحفوظة - فإن أسرع حل يمكن الاعتماد عليه هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>. إنه خلاط شريط القوائم Mac App Store: قم بتعيين مستوى لكل تطبيق، وتعزيز المستويات الهادئة، وتبديل الملفات الشخصية على الفور. 14.99 يورو لمرة واحدة، في وضع الحماية، ولا توجد برامج تشغيل للتثبيت.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل eqMac للحجم الحقيقي لكل تطبيق على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>eqMac مقابل ما تحتاجه بالفعل</h2>
+
+<p>eqMac هي أداة مجانية قوية، ويعتبر معادل الصوت ومعزز الصوت على مستوى النظام مفيدًا حقًا. لكن eqMac مبني على معادل رئيسي واحد ومخرج رئيسي واحد. إنه لا يمنحك خلاطًا حقيقيًا لحجم الصوت لكل تطبيق - وهو الشيء الذي توفره Windows لسنوات ولا يزال macOS لا يتم شحنه محليًا.</p>
+
+<p>لذا، إذا كانت مشكلتك الحقيقية هي "صوت Spotify مرتفع للغاية أثناء إجرائي مكالمة" أو "هذه اللعبة تذهلني ولكن كل شيء آخر على ما يرام"، فإن eqMac ليس الشكل المناسب لهذه المهمة. وينتهي بك الأمر بركوب شريط تمرير رئيسي واحد أو العبث بحجم الصوت الداخلي لكل تطبيق. هذه هي الفجوة التي يملأها SoundDial.</p>
+
+<h2>ما يفعله SoundDial ولا يفعله eqMac</h2>
+
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - الموسيقى بنسبة 40%، والمتصفح بنسبة 100%، ومكالمة الفيديو بنسبة 70%، كل ذلك مرة واحدة، وكل ذلك في الذاكرة.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات أحد التطبيقات المزعجة على الفور دون لمس أي شيء آخر.</li>
+<li><strong>تعزيز لكل تطبيق</strong> - ادفع تطبيقًا هادئًا إلى ما هو أبعد من سقفه الطبيعي، بالطريقة التي يعمل بها معزز eqMac، ولكنه يستهدف تطبيقًا واحدًا بدلاً من النظام بأكمله.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ الإعدادات مثل "التركيز" أو "الألعاب" أو "الاجتماع" وقم بتبديل المزيج بالكامل بنقرة واحدة.</li>
+<li><strong>التملص التلقائي</strong> — قم بإسقاط صوت الخلفية تلقائيًا عند بدء شيء أكثر أهمية، حتى لا تتدافع للحصول على شريط تمرير في منتصف المكالمة.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والمخرجات الأخرى من شريط القائمة.</li>
+</ul>
+
+<p>التداخل مع eqMac هو في الأساس دفعة. كل شيء آخر - الخلاط، وكتم الصوت، والملفات الشخصية، والانحناء - هو منطقة لم يتم تصميم eqMac لتغطيتها أبدًا.</p>
+
+<h2>هل مازلت تريد معادل الصوت؟</h2>
+
+<p>كن صادقًا بشأن المشكلة التي تحلها. إذا كنت تحتاج حقًا إلى معادل التردد - قطع الجهير، وترويض الارتفاعات القاسية، وتشكيل نغمة النظام بالكامل - فلا يزال لدى eqMac مكان، وهو مجاني. SoundDial عبارة عن خلاط حجم، وليس معادل صوت.</p>
+
+<p>لكن معظم الأشخاص يستخدمون معزز eqMac ليس لأنهم يريدون تشكيل الترددات، بل يريدون تطبيقًا أعلى صوتًا أو مزيجًا متوازنًا. إذا كان هذا هو الحال، فإن الخلاط المخصص هو الحل الأنظف. يمكنك أيضًا تشغيل كليهما: احتفظ بـ eqMac لمنحنى EQ على مستوى النظام واستخدم SoundDial لمستويات كل تطبيق. إنهم لا يتقاتلون على نفس الوظيفة.</p>
+
+<h2>كيف يمكن مقارنتها بأدوات الصوت Mac الأخرى</h2>
+
+<p>نظرًا لأنك بالفعل تبحث عن الأدوات، فإليك المشهد الصادق:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - الخيار الاحترافي بحوالي 39 دولارًا، مع معادل الصوت لكل تطبيق وتوجيه الإخراج الكامل. قوي، ولكنه يحتاج إلى تنزيل مباشر وتثبيت برنامج تشغيل التقاط الصوت. مبالغة وسعرًا أعلى إذا كان كل ما تريده هو الحجم لكل تطبيق مع الملفات الشخصية.</li>
+<li><strong>Background Music</strong> - مجاني ومفتوح المصدر، ولكنه يمكن أن يقترن بإصدارات macOS الأحدث ولا يحتوي على أي دعم أو ملفات تعريف أو تهرب تلقائي. عظيم عندما يعمل، محبط عندما لا يعمل.</li>
+<li><strong>FineTune</strong> - تطبيق مجاني لشريط القوائم مفتوح المصدر. يستحق المشاهدة إذا كان $0 هو المتطلب الصعب، على الرغم من أنه أخف في الميزات والصقل.</li>
+<li><strong>eqMac</strong> — EQ plus Booster مجاني، ولكن لا يوجد خلاط حقيقي لكل تطبيق، كما هو موضح أعلاه.</li>
+</ul>
+
+<p>يقع SoundDial في المكان المناسب: أكثر تركيزًا وأرخص من SoundSource، وأكثر قدرة وموثوقية من الخيارات المجانية، وهو يقوم بالمهمة التي لا يقوم بها eqMac لكل تطبيق.</p>
+
+<h2>لماذا يهم Mac App Store هنا</h2>
+
+<p>تتطلب العديد من هذه الأدوات تنزيلًا مباشرًا وبرنامج تشغيل الصوت على مستوى kernel أو التقاط الصوت. تعمل هذه الأشياء، لكنها من النوع الذي يمكن أن يتعطل عند تحديث macOS أو يتعثر في عمل مغلق Mac.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتم الشحن عبر Mac App Store بدلاً من ذلك. وهذا يعني أنه تمت مراجعته بواسطة Apple ووضعه في وضع الحماية، ويتم تثبيته بشكل نظيف مع عدم وجود DMG للسحب، ولا توجد برامج تشغيل صوت أو ملحقات نظام للموافقة عليها. تصل التحديثات عبر App Store مثل أي تطبيق آخر، وإلغاء التثبيت هو عملية حذف عادية. بالنسبة لأداة شريط القوائم التي تلامس الصوت الخاص بك، فإن هذا المسار الأقل احتكاكًا والأقل خطورة يستحق الكثير.</p>
+
+<h2>الإعداد السريع</h2>
+
+<ul>
+<li>قم بتثبيت SoundDial من Mac App Store - بدون إعادة تشغيل، ولا توجد مطالبة ببرنامج التشغيل.</li>
+<li>افتح رمز شريط القائمة؛ يظهر كل تطبيق يصدر صوتًا حاليًا باستخدام شريط التمرير الخاص به.</li>
+<li>قم بتعيين المستويات، وكتم صوت ما لا تحتاجه، وتعزيز أي شيء هادئ جدًا.</li>
+<li>احفظ الترتيب كملف تعريف، ثم أنشئ المزيد للألعاب أو المكالمات أو التركيز.</li>
+<li>قم بتشغيل الخفض التلقائي بحيث يتم وضع الصوت في الخلفية جانبًا تلقائيًا.</li>
+</ul>
+
+<p>هذه هي الحلقة بأكملها. في غضون بضع دقائق، سيكون لديك أداة التحكم eqMac المعززة لكل تطبيق والتي تم التلميح إليها فقط.</p>
+
+<p><strong>هل أنت مستعد للحصول على حجم حقيقي لكل تطبيق على Mac؟</strong> <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو لمرة واحدة، في وضع الحماية، بدون برامج تشغيل، وهو يفعل بالضبط ما ينبغي أن يفعله خلاط شريط القوائم.</p>`,
+  },
+  "cheapest-volume-mixer-mac-2026": {
+    slug: "cheapest-volume-mixer-mac-2026",
+    title: "أرخص خلاط حجم جيد لـ Mac في عام 2026",
+    description: "هل تبحث عن أرخص خلاط حجم جيد لكل تطبيق لـ Mac في عام 2026؟ قارن بين SoundDial وSoundSource وBackground Music وFineTune وeqMac من حيث السعر والسلامة والميزات.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>أفضل خلاط حجم لكل تطبيق لـ Mac في عام 2026 هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، تطبيق شريط القوائم على Mac App Store مقابل 14.99 يورو لمرة واحدة. إنه يمنح كل تطبيق شريط تمرير الصوت الخاص به، بالإضافة إلى كتم الصوت والتعزيز والملفات الشخصية والخفض التلقائي - بدون برامج تشغيل أو اشتراك أو تنزيلات محفوفة بالمخاطر. إنه الخيار الأرخص مدفوع الأجر والذي يعمل بشكل موثوق.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - أرخص خلاط حجم جيد لـ Mac في عام 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يحتاج مصطلح "الأرخص" إلى تعريف؟</h2>
+<p>هناك أدوات حجم مجانية لـ Mac، لذا إذا كان الهدف الوحيد هو إنفاق صفر، فلديك خيارات. لكن الخدمة المجانية عادةً ما تكلفك مكانًا آخر: هشاشة الإصدارات الجديدة من macOS، أو فقدان ميزات مثل التعزيز أو الملفات الشخصية، أو عملية تثبيت تتضمن برنامج تشغيل التقاط الصوت الذي يجب أن تثق به. "المنتج الأرخص" يعني أقل سعر يمنحك خلاطًا مستقرًا وكامل الميزات ستستمر في استخدامه. هذه هي العدسة التي سنستخدمها هنا.</p>
+
+<h2>أولاً، الشيء الذي لا يفعله macOS</h2>
+<p>كان لدى Windows خلاط صوت لكل تطبيق لسنوات - انقر بزر الماوس الأيمن على أيقونة مكبر الصوت وقم بتعيين كل تطبيق بشكل مستقل. لا يزال macOS لا يحتوي على أي شيء مكافئ مدمج. يمكنك الحصول على وحدة تخزين رئيسية واحدة وأي شريط تمرير داخلي يحدث أن يشحنه التطبيق (الموسيقى، وبعض المتصفحات). لا توجد طريقة على مستوى النظام لجعل Slack أكثر هدوءًا من Spotify، أو لتعزيز مكالمة فيديو هادئة فوق كل شيء آخر. كل خيار أدناه موجود لسد هذه الفجوة.</p>
+
+<h2>المتنافسون، بأسعار معقولة</h2>
+
+<h2>SoundDial – 14.99 يورو، لمرة واحدة</h2>
+<p>يوجد SoundDial في شريط القائمة لديك ويمنح كل تطبيق قيد التشغيل شريط تمرير مستقل لمستوى الصوت. بالإضافة إلى الأساسيات، فإنه يضيف الميزات التي يصل إليها الأشخاص فعليًا:</p>
+<ul>
+<li><strong>تعزيز لكل تطبيق</strong> - ادفع تطبيقًا هادئًا للغاية إلى مستوى أعلى من 100% بدلاً من الضغط عليه لسماعه.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات تطبيق واحد دون لمس الباقي.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مزيج "مكالمة عمل" أو "ليلة الفيلم" واسترجعه على الفور.</li>
+<li><strong>التملص التلقائي</strong> - قم بإسقاط صوت الخلفية تلقائيًا عند تشغيل شيء أكثر أهمية.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى من نفس القائمة.</li>
+</ul>
+<p>نظرًا لأنه موجود على Mac App Store، فهو في وضع الحماية، ومراجعته بواسطة Apple ويتم تثبيته بشكل نظيف - لا يوجد DMG، ولا يوجد امتداد kernel، ولا يوجد برنامج تشغيل صوت للموافقة عليه. أنت تدفع <a href="https://apps.apple.com/app/id6772792641">14.99 يورو مرة واحدة</a> وامتلاكها. بالنسبة لمعظم الناس، هذه هي النقطة المثالية: رخيصة بما يكفي لتكون نعم سهلة، وكاملة بما يكفي بحيث لا تتفوق عليها.</p>
+
+<h2>SoundSource – ~ 39 دولارًا، الخيار الاحترافي</h2>
+<p>Rogue Amoeba's SoundSource هو المعيار الذهبي لمستخدمي الطاقة. يقوم بضبط مستوى الصوت وكتم الصوت لكل تطبيق مثل SoundDial، ولكنه يذهب إلى أبعد من ذلك من خلال المعادلات لكل تطبيق وتوجيه الإخراج الكامل (أرسل تطبيقًا واحدًا إلى سماعات الرأس، وآخر إلى مكبرات الصوت). إنه ممتاز حقًا - لكن سعره يبلغ 39 دولارًا تقريبًا، ويتم تثبيته خارج App Store مع مكون التقاط الصوت الذي يتعين عليك منح الإذن له. إذا كنت بحاجة إلى EQ لكل تطبيق أو توجيه معقد، فإن الأمر يستحق المال. إذا كنت تريد فقط خلاطًا نظيفًا ورخيصًا، فأنت تدفع مقابل إمكانيات قد لا تلمسها أبدًا.</p>
+
+<h2>Background Music — مجاني ومفتوح المصدر</h2>
+<p>Background Music هو تطبيق مجاني معروف ومفتوح المصدر يوفر حجمًا لكل تطبيق وإيقافًا مؤقتًا تلقائيًا. المشكلة: أنه يتصل بعمق في Core Audio عبر برنامج تشغيل افتراضي، وله تاريخ طويل في تعطيل إصدارات macOS الجديدة، ويحتاج أحيانًا إلى إصلاحات يدوية أو إعادة التثبيت بعد التحديثات. كما أنه يفتقر إلى التعزيز والملفات الشخصية المحفوظة والتهرب التلقائي. رائعة للمصلحين الذين لا يمانعون في الصيانة؛ محبط إذا كنت تريد فقط أن تعمل.</p>
+
+<h2>FineTune - شريط القوائم مجاني</h2>
+<p>FineTune هو تطبيق مجاني ومفتوح المصدر لحجم شريط القوائم. إنه خفيف الوزن وممتع، ويمكن أن يكون كافيًا للتعديل البسيط لكل تطبيق. لكن كونه مشروعًا مجانيًا صغيرًا، فإنه لا يتطابق مع عمق الميزات - فلا توجد ملفات تعريف، ولا يوجد تهرب تلقائي، كما أن التعامل مع التعزيز/الإخراج محدود. تكلفة صفر، وضمانات أقل على طول العمر والدعم.</p>
+
+<h2>eqMac — مجاني، EQ + Booster</h2>
+<p>eqMac هو معادل مجاني على مستوى النظام مزود بمعزز للصوت. يتعلق الأمر بتشكيل النغمة وارتفاع الصوت عبر جهاز Mac بأكمله أكثر من مزج التطبيقات الفردية، لذا فهي أداة مختلفة لوظيفة مختلفة. إذا كنت تريد التحكم في كل تطبيق على وجه التحديد، فإن eqMac ليس هو الحل حقًا، على الرغم من أنه معادل مجاني جيد.</p>
+
+<h2>السعر مقابل القيمة: الطاولة الصادقة</h2>
+<ul>
+<li><strong>مجاني حقًا، ولكن مع بعض التنازلات:</strong> Background Music (هش، قائم على برنامج التشغيل)، FineTune (ميزات رفيعة)، eqMac (EQ، وليس خلاط).</li>
+<li><strong>أرخص تطبيق مدفوع كاملاً:</strong> SoundDial بسعر 14.99 يورو - التعزيز، والملفات الشخصية، والتهرب، والسلامة App Store.</li>
+<li><strong>قسط / الموالية:</strong> SoundSource بسعر ~ 39 دولارًا — EQ والتوجيه، تثبيت خارج متجر التطبيقات.</li>
+</ul>
+<p>وبعبارة أخرى: تبلغ تكلفة SoundDial حوالي ثلث تكلفة SoundSource بينما تغطي الميزات التي يريدها 90% من الأشخاص بالفعل. وعلى عكس الخيارات المجانية، فإنه لن ينقطع بهدوء بعد تحديث macOS، لأنه لا يعتمد على برنامج تشغيل صوت هش على مستوى النظام.</p>
+
+<h2>ما الذي يجب عليك اختياره؟</h2>
+<p>إذا كنت محترفًا يحتاج إلى EQ لكل تطبيق ولتوجيه التطبيقات إلى مخرجات مختلفة، فقم بشراء SoundSource — فهو يستحق سعره. إذا كنت تحب المصادر المفتوحة ولا تمانع في الكسر العرضي، فجرّب Background Music أو FineTune مجانًا. ولكن إذا كنت تريد الخيار الأرخص الذي يعمل فقط - حجم مستقل، وتعزيز، وكتم الصوت، وملفات تعريف قابلة للحفظ، والخفض التلقائي، مثبتة بأمان من App Store - SoundDial هو الفائز الواضح بالقيمة في عام 2026.</p>
+
+<blockquote>إن الخلاط الأفضل ليس هو الذي يحتوي على أكبر عدد من الميزات أو الأقل سعرًا - بل هو الذي قمت بإعداده مرة واحدة ونسيت أمره. بسعر 14.99 يورو، تجعل SoundDial هذه المكالمة سهلة.</blockquote>
+
+<p>هل أنت مستعد لمنح كل تطبيق حجمه الخاص؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو لمرة واحدة - بدون اشتراك، بدون برامج تشغيل، بدون مخاطر.</p>`,
+  },
+  "windows-volume-mixer-for-mac": {
+    slug: "windows-volume-mixer-for-mac",
+    title: "Windows Volume Mixer لـ Mac: احصل على التحكم في مستوى الصوت لكل تطبيق",
+    description: "هل تفتقد خلاط الصوت Windows الموجود على Mac؟ لا يحتوي macOS على تحكم مدمج في مستوى الصوت لكل تطبيق. إليك أسرع طريقة للحصول عليه: SoundDial، وهو خلاط قوائم طعام بسعر 14.99 يورو.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا يحتوي macOS على Volume Mixer مدمج مثل Windows، لذا لا يمكنك ضبط مستوى الصوت لكل تطبيق من إعدادات النظام. الإصلاح الأسرع والأكثر موثوقية هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، تطبيق شريط القوائم بسعر 14.99 يورو من Mac App Store. إنه يمنح كل تطبيق شريط تمرير الصوت الخاص به وكتم الصوت والتعزيز - بدون برامج تشغيل، ولا DMG، ولا عمليات تثبيت محفوفة بالمخاطر.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows Volume Mixer لـ Mac: احصل على التحكم في مستوى الصوت لكل تطبيق" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا لا يوجد لدى Windows Volume Mixer ما يعادل Mac</h2>
+
+<p>إذا قمت بالتبديل من Windows، فإن أحد الأشياء الأولى التي ستفوتها هو Volume Mixer: انقر بزر الماوس الأيمن على أيقونة مكبر الصوت، وسيحصل كل تطبيق قيد التشغيل على شريط التمرير الخاص به. قم بخفض صوت Chrome، وحافظ على صوت Discord عاليًا، وكتم صوت Spotify - كل ذلك في مكان واحد.</p>
+
+<p>macOS ببساطة لا يشحن هذا. التحكم في مستوى الصوت من Apple عبارة عن شريط تمرير واحد على مستوى النظام. أيًا كان المستوى الذي تحدده ينطبق على كل شيء مرة واحدة. لا يوجد خيار مخفي لكل تطبيق في إعدادات النظام، ولا يوجد أمر Terminal، ولا يوجد تبديل لإمكانية الوصول. إنها فجوة حقيقية، وقد كان الأمر كذلك لسنوات.</p>
+
+<p>السبب معماري: تقوم التطبيقات بتوجيه الصوت من خلال Core Audio إلى جهاز الإخراج الخاص بك، ولا يعرض نظام التشغيل جهاز مزج الصوت الذي يواجه المستخدم للتدفقات الفردية. لإعادة إنشاء تجربة Windows، تحتاج إلى تطبيق تابع لجهة خارجية موجود في هذا المسار الصوتي ويمنحك عناصر التحكم التي تركتها Apple.</p>
+
+<h2>أقرب تطابق: SoundDial</h2>
+
+<p>SoundDial عبارة عن خلاط حجم لشريط القوائم لكل تطبيق مصمم خصيصًا لهذا الغرض. انقر فوق الرمز الخاص به وستحصل على قائمة نظيفة بكل شيء يتم تشغيل الصوت فيه، ولكل منها شريط التمرير الخاص بها. إنه "Windows Volume Mixer for Mac" الأكثر مباشرة الذي يمكنك تثبيته، وهو يقوم ببعض الأشياء التي لا يستطيع الخلاط Windows القيام بها أبدًا:</p>
+
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - الميزة الأساسية. اضبط Chrome على 40%، وZoom على 100%، والموسيقى على 20%.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات تطبيق واحد دون لمس الباقي.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - ادفع تطبيقًا هادئًا <em>أعلاه</em> 100% عندما يكون الصوت منخفضًا جدًا.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مزيجًا (على سبيل المثال، "مكالمة عمل" أو "ألعاب") واستدعه على الفور بدلاً من إعادة سحب أشرطة التمرير.</li>
+<li><strong>التملص التلقائي</strong> - خفض صوت الخلفية تلقائيًا عند بدء شيء أكثر أهمية، مثل مكالمة.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى من نفس القائمة.</li>
+</ul>
+
+<p>لأنه على <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a>، لقد تمت مراجعته بواسطة Apple ووضعه في وضع الحماية. يتم تثبيته بشكل نظيف بنقرة واحدة - لا يوجد DMG للسحب، ولا يوجد برنامج تشغيل صوت أو ملحق نظام للموافقة عليه، ولا توجد مطالبات أمنية. بسعر 14.99 يورو لمرة واحدة (بدون اشتراك)، إنها أبسط طريقة لسد الفجوة.</p>
+
+<h2>كيفية إعداد مستوى الصوت لكل تطبيق على Mac</h2>
+
+<ol>
+<li>قم بتثبيت SoundDial من Mac App Store.</li>
+<li>امنح إذن الصوت لمرة واحدة الذي يطلبه عند التشغيل لأول مرة.</li>
+<li>انقر على أيقونة SoundDial في شريط القائمة.</li>
+<li>اسحب شريط التمرير بجوار أي تطبيق لتعيين مستوى الصوت الخاص به، أو اضغط على كتم الصوت/التعزيز.</li>
+<li>اختياريًا، احفظ المزيج الحالي كملف تعريف حتى تتمكن من استعادته لاحقًا.</li>
+</ol>
+
+<p>هذا هو سير العمل كله. إنه يتصرف مثل خلاط Windows الذي تعرفه بالفعل، فقط من شريط القائمة بدلاً من النقر بزر الماوس الأيمن على شريط المهام.</p>
+
+<h2>كيف يقارن SoundDial بالخيارات الأخرى</h2>
+
+<p>SoundDial ليست الأداة الوحيدة في هذا المجال، لذا إليك نظرة صادقة على البدائل.</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba)</strong> - حوالي 39 دولارًا، وهي احترافية حقًا: موازن الصوت لكل تطبيق، وتوجيه الإخراج لكل تطبيق، والتأثيرات. ولكنه يتطلب تنزيلًا مباشرًا بالإضافة إلى برنامج تشغيل التقاط الصوت، وهو أمر مبالغ فيه (وأعلى سعرًا) إذا كنت تريد فقط حجمًا لكل تطبيق. اختره إذا كنت بحاجة إلى EQ والتوجيه؛ اختر SoundDial إذا كنت تريد الخلاط بدون التعقيد أو السائق.</li>
+<li><strong>Background Music</strong> - مجاني ومفتوح المصدر، وهو أمر عظيم. المصيد: يمكنه كسر الإصدارات الأحدث من macOS، ويفتقر إلى التعزيز والملفات الشخصية المحفوظة والتهرب التلقائي. حسنًا، إذا كنت مرتاحًا لاستكشاف أخطاء برامج تشغيل الصوت مفتوحة المصدر وإصلاحها؛ أقل مثالية إذا كنت تريد شيئًا يعمل فقط.</li>
+<li><strong>FineTune</strong> - تطبيق مجاني لشريط القوائم مفتوح المصدر. خفيف الوزن ويستحق المشاهدة إذا كانت الميزانية هي الأولوية، لكنك تتاجر بالتلميع والملفات الشخصية والسلامة App Store مجانًا.</li>
+<li><strong>eqMac</strong> - معادل صوت مجاني ومعزز على مستوى النظام. إنه هدف التعادل أولاً، وليس خلاطًا لكل تطبيق، لذا فهو يحل مشكلة مختلفة.</li>
+</ul>
+
+<p>المقايضة بسيطة. الأدوات المجانية لا تكلف شيئًا ولكنها قد تكون هشة أو قليلة الميزات. SoundSource قوي ولكنه مكلف ويعتمد على برنامج التشغيل. يقع SoundDial في مكان رائع: 14.99 يورو لمرة واحدة، وسلامة App Store ووضع الحماية، والملفات الشخصية + التهرب التلقائي الذي تتخطاه الخيارات المجانية.</p>
+
+<blockquote>إذا كان كل ما تريده هو تجربة Windows Volume Mixer - يتم تثبيت أشرطة التمرير وكتم الصوت والتعزيز لكل تطبيق بأمان في ثوانٍ - فإن SoundDial هو التطابق الأكثر مباشرة.</blockquote>
+
+<h2>خلاصة القول</h2>
+
+<p>لن يمنحك macOS وحدة مزج الصوت، وربما لن يفعل ذلك أبدًا. لكن ليس عليك التعايش مع شريط تمرير واحد على مستوى النظام. يستعيد خلاط شريط القوائم المخصص التحكم في كل تطبيق لديك على Windows، ويضيف التعزيز والملفات الشخصية والتهرب التلقائي في الأعلى.</p>
+
+<p>هل أنت مستعد للحصول على حجم لكل تطبيق بطريقة سهلة؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو – لمرة واحدة، في وضع الحماية، ويتم تثبيته في ثوانٍ.</p>`,
+  },
+  "app-volume-like-windows-on-mac": {
+    slug: "app-volume-like-windows-on-mac",
+    title: "قم بتعيين حجم التطبيق كما يفعل Windows — على Mac",
+    description: "يحتوي Windows على خلاط صوت لكل تطبيق، لكن macOS لا يحتوي عليه. فيما يلي كيفية تعيين مستوى صوت مستقل لكل تطبيق على Mac - بسرعة وأمان وبدون برامج تشغيل.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق مثل الموجود في Windows، لذا فإن الإصلاح الأسرع الموثوق به هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، تطبيق شريط القوائم Mac App Store الذي يمنح كل تطبيق شريط تمرير مستوى الصوت الخاص به وكتم الصوت لكل تطبيق وتعزيز مستوى الصوت. إنه في وضع الحماية، ومراجعته من قبل Apple، ويتم تثبيته بدون برامج تشغيل، ويكلف 14.99 يورو لمرة واحدة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - ضبط حجم التطبيق كما يفعل Windows - على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يستطيع Windows القيام بذلك ولا يستطيع macOS القيام بذلك</h2>
+<p>إذا كنت قد استخدمت Windows، فأنت تعرف الطريقة: انقر بزر الماوس الأيمن على أيقونة مكبر الصوت، وافتح Volume Mixer، واسحب شريط تمرير منفصل لـ Chrome، وSpotify، وDiscord، وأي شيء آخر يصدر ضوضاء. انها بسيطة وأنها تعمل فقط.</p>
+<p>macOS لم يشحن ما يعادله أبدًا. تعد عناصر التحكم في الصوت من Apple عالمية — وحدة تخزين رئيسية واحدة للنظام بأكمله. يمكنك كتم صوت أحد التطبيقات عن طريق كتم المصدر داخل هذا التطبيق (إذا كان لديه عنصر تحكم)، ولكن لا يوجد مكان موحد للقول "حافظ على موسيقاي عند 40% بينما يظل اجتماعي عند 100%." هذه الفجوة هي بالضبط سبب وجود خلاطات الطرف الثالث.</p>
+
+<h2>أسرع حل: خلاط شريط القوائم</h2>
+<p>أقرب تطابق لتجربة Windows هو تطبيق شريط القوائم الذي يسرد تطبيقاتك الصوتية قيد التشغيل ويمنح كل منها شريط تمرير. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يفعل هذا بالضبط. انقر فوق الرمز الخاص به في شريط القائمة وستحصل على:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - اسحب Spotify لأسفل دون لمس مكالمتك.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - كتم صوت أحد التطبيقات المزعجة على الفور، وترك الباقي قيد التشغيل.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - ادفع تطبيقًا هادئًا جدًا <em>أعلاه</em> 100% عندما يكون الحد الأقصى الخاص به لا يزال ناعمًا للغاية.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مزيج "العمل" أو "الألعاب" واسترجعه بنقرة واحدة.</li>
+<li><strong>التملص التلقائي</strong> - خفض صوت الخلفية تلقائيًا عندما يبدأ شيء أكثر أهمية.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والمخرجات الأخرى من نفس القائمة.</li>
+</ul>
+<p>نظرًا لأنه موجود على Mac App Store، فقد تم وضعه في وضع الحماية ومراجعته بواسطة Apple، ويتم تثبيته بشكل نظيف، ولا يوجد DMG للسحب، ولا يوجد امتداد kernel، ولا يوجد برنامج تشغيل صوت للموافقة عليه في إعدادات النظام. هذا الجزء الأخير مهم أكثر مما يبدو - الأدوات المعتمدة على برنامج التشغيل هي تلك التي تميل إلى التعطل بعد تحديثات macOS.</p>
+
+<h2>كيفية إعداده (حوالي دقيقتين)</h2>
+<ul>
+<li><strong>1.</strong> قم بتثبيت SoundDial من Mac App Store وقم بتشغيله.</li>
+<li><strong>2.</strong> امنح إذن الصوت الذي يطلبه macOS - وهذا ما يتيح للتطبيق رؤية التدفقات لكل تطبيق.</li>
+<li><strong>3.</strong> انقر على أيقونة SoundDial في شريط القائمة. يظهر كل تطبيق يقوم بتشغيل الصوت حاليًا بشريط التمرير الخاص به.</li>
+<li><strong>4.</strong> اسحب شريط تمرير أي تطبيق لتعيين مستواه، أو اضغط على زر كتم الصوت. يمكنك التعزيز بنسبة تتجاوز 100% عندما يكون التطبيق هادئًا للغاية.</li>
+<li><strong>5.</strong> (اختياري) احفظ مزيجك الحالي كملف تعريف حتى تتمكن من استعادته لاحقًا، وقم بتشغيل التخفيض التلقائي إذا كنت تريد إسقاط صوت الخلفية تلقائيًا.</li>
+</ul>
+<p>هذا هو سير العمل كله. إنه يتصرف مثل Windows Volume Mixer الذي تعرفه بالفعل، بدون احتكاك الإعداد.</p>
+
+<h2>ماذا عن البدائل المجانية والمحترفة؟</h2>
+<p>هناك طرق أخرى للحصول على حجم الصوت لكل تطبيق على Mac. إنها تستحق المعرفة حتى تتمكن من الاختيار بأمانة.</p>
+<blockquote>الأدوات المجانية تتاجر بالمال من أجل الموثوقية والميزات؛ تقوم أدوات pro بتداول الأموال والإعداد للعمق الذي قد لا تحتاجه.</blockquote>
+<p><strong>Background Music</strong> مجاني ومفتوح المصدر، ويوفر حجمًا لكل تطبيق. المصيد: إنه يرتبط بعمق في النظام الصوتي وله تاريخ في اختراق إصدارات macOS الأحدث، ويفتقر إلى التعزيز والملفات الشخصية والتهرب التلقائي. إذا كان يعمل على الإعداد الخاص بك، فهذا رائع - ولكنه مقامرة عبر الترقيات.</p>
+<p><strong>FineTune</strong> هو تطبيق شريط قوائم مجاني ومفتوح المصدر بنفس روح SoundDial. إنها نقطة بداية جيدة إذا كانت الميزانية هي الاهتمام الوحيد، على الرغم من أنه مشروع مجتمعي بدون ملفات تعريف وصقل.</p>
+<p><strong>eqMac</strong> عبارة عن معادل ومعزز مجاني على مستوى النظام. إنه أمر رائع لتشكيل الصوت العام، ولكنه ليس خلاطًا حقيقيًا لكل تطبيق، فأنت تقوم بضبط الإخراج بالكامل، وليس التطبيقات الفردية.</p>
+<p><strong>SoundSource</strong> بواسطة Rogue Amoeba (حوالي 39 دولارًا) هو الخيار الاحترافي: EQ لكل تطبيق، وتوجيه الإخراج لكل تطبيق، وميزات مهندس الصوت الجادة. إنه ممتاز - ولكنه يحتاج إلى تنزيل مباشر وتثبيت مكون التقاط الصوت، ويكلف أكثر من ضعف تكلفة SoundDial. إذا كنت تريد التوجيه على مستوى الاستوديو ومعادل الصوت، فهذا هو الاختيار. إذا كنت تريد فقط خلاطًا على طراز Windows، فهذا مبالغة.</p>
+
+<h2>أي واحد يجب أن تحصل عليه؟</h2>
+<p>إذا كان هدفك هو "جعل Mac يعمل مثل Windows Volume Mixer" بدون تنزيلات أو برامج تشغيل أو مخاطرة، فإن SoundDial هو الإجابة الأوضح. يمكنك الحصول على مستوى الصوت لكل تطبيق، وكتم الصوت، والتعزيز، والملفات الشخصية، والخفض التلقائي، وكلها آمنة على App Store، مقابل 14.99 يورو لمرة واحدة - بدون اشتراك. اختر SoundSource بدلاً من ذلك فقط إذا كنت بحاجة على وجه التحديد إلى EQ لكل تطبيق وتوجيه الإخراج، وجرب الخيارات المجانية إذا كنت مرتاحًا لاستكشاف الأخطاء وإصلاحها عبر تحديثات macOS.</p>
+
+<p><strong>هل أنت مستعد لمنح كل تطبيق حجمه الخاص؟</strong> <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> وقم بإعداد المزيج الأول في حوالي دقيقتين.</p>`,
+  },
+  "make-mac-louder-for-hard-of-hearing": {
+    slug: "make-mac-louder-for-hard-of-hearing",
+    title: "كيفية جعل جهاز Mac أعلى صوتًا للاستماع لضعاف السمع",
+    description: "هل تكافح من أجل سماع صوت Mac حتى بأقصى مستوى صوت؟ تعرف على كيفية تعزيز الصوت وتوضيحه لكل تطبيق للاستماع لضعاف السمع، بما في ذلك SoundDial والنصائح المضمنة.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا لم يكن صوت Mac مرتفعًا بدرجة كافية حتى عند الحد الأقصى لمستوى الصوت، فإن أسرع حل يمكن الاعتماد عليه هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط شريط القوائم Mac App Store الذي يتيح لك تعزيز أي تطبيق منفرد بنسبة 100% وكتم صوت كل شيء آخر. وهذا يعني صوتًا أعلى وأكثر وضوحًا من FaceTime أو الفيديو أو مشغل الأفلام دون تشغيل النظام بأكمله. سعرها 14.99 يورو لمرة واحدة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — كيفية جعل جهاز Mac أعلى صوتًا للاستماع لضعاف السمع" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا لا يزال رفع مستوى الصوت إلى الحد الأقصى غير كافٍ؟</h2>
+<p>بالنسبة للمستمعين الذين يعانون من صعوبة في السمع، فإن شريط تمرير مستوى الصوت macOS له حدان محبطان. أولاً، يحدد الحد الأقصى بنسبة 100% لما يخرجه التطبيق نفسه. إذا تم تسجيل بودكاست أو فيديو أو مكالمة بهدوء، فإن "الحجم الكامل" لا يزال ضعيفًا للغاية. ثانيًا، لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق. كان لدى Windows واحد منذ سنوات، ولكن في Mac، يشترك كل تطبيق في مستوى رئيسي واحد. لذا، عندما تقوم بتشغيل كل شيء لسماع صوت ناعم، تصبح موسيقى الخلفية وأصوات الإشعارات عالية بشكل غير مريح أيضًا.</p>
+<p>ما تحتاجه بالفعل هو القدرة على الصنع <em>واحد</em> التطبيق بصوت أعلى من الباقي، وادفعه إلى ما هو أبعد من سقفه الطبيعي، واقطع الأصوات المتنافسة حتى يبرز الكلام. هذه هي بالضبط الفجوة التي تملأها هذه الأدوات.</p>
+
+<h2>أولاً، استخدم إعدادات إمكانية الوصول المجانية macOS</h2>
+<p>قبل إضافة أي تطبيق، من المفيد إعداد ما يقدمه macOS بالفعل. تساعد هذه العناصر على الوضوح، على الرغم من أنها لا تضيف جهارة صوت عالية:</p>
+<ul>
+<li><strong>الصوت الأحادي:</strong> إعدادات النظام &rarr; إمكانية الوصول &rarr; Audio، قم بتشغيل "تشغيل صوت استريو كأحادي". إذا كان سمعك أقوى في أذن واحدة، فهذا يرسل الإشارة الكاملة إلى كليهما، حتى لا تفقد نصف الحوار.</li>
+<li><strong>تعديل الرصيد:</strong> في إعدادات النظام &rarr; Sound، اسحب التوازن الأيسر/الأيمن نحو أذنك الأقوى.</li>
+<li><strong>تقليل أصوات الخلفية:</strong> موسيقى وأجواء أقل في التطبيقات التي تسمح بذلك، لذلك لا تتعارض الأصوات مع الموسيقى التصويرية.</li>
+<li><strong>أماكن سماعة الرأس:</strong> إذا كنت تستخدم AirPods أو Beats، فإن إعدادات النظام &rarr; إمكانية الوصول &rarr; Audio &rarr; يمكن لتجهيزات سماعات الرأس تضخيم الأصوات الهادئة وضبط الكلام.</li>
+</ul>
+<p>هذه مفيدة حقًا ولا تكلف شيئًا. لكن لم ينشئ أي منهم تطبيقًا هادئًا واحدًا <em>بصوت أعلى من 100%</em>، وهذه هي المشكلة الحقيقية عادةً.</p>
+
+<h2>كيفية تعزيز تطبيق واحد بنسبة 100% باستخدام SoundDial</h2>
+<p>يوجد SoundDial في شريط القائمة لديك ويعرض شريط تمرير لكل تطبيق يقوم بتشغيل الصوت حاليًا. إليك سير العمل الذي يساعد كثيرًا في الاستماع لضعاف السمع:</p>
+<ul>
+<li><strong>تعزيز التطبيق الذي تستمع إليه.</strong> اسحب شريط التمرير الخاص به إلى أعلى من 100% لتضخيم مكالمة فيديو أو بودكاست هادئة بما يتجاوز ما يسمح به التطبيق بمفرده.</li>
+<li><strong>كتم أو خفض كل شيء آخر.</strong> اسحب الموسيقى أو علامات تبويب المتصفح أو أصوات الإشعارات حتى لا يتنافس أي شيء مع الصوت الذي تحاول متابعته.</li>
+<li><strong>قم بتشغيل التهرب التلقائي.</strong> عندما تبدأ في التحدث في مكالمة، يقوم SoundDial تلقائيًا بخفض الصوت الآخر حتى يأتي الشخص الذي تتحدث إليه بوضوح، ثم يستعيده بعد ذلك.</li>
+<li><strong>حفظ ملف تعريف وحدة التخزين.</strong> قم بإنشاء ملف تعريف "مكالمات الفيديو" حيث يتم تعزيز تطبيق المؤتمرات الخاص بك ويكون كل شيء آخر هادئًا، ثم قم بالتبديل إليه على الفور بدلاً من إعادة ضبطه في كل مرة.</li>
+<li><strong>تبديل الإخراج بسرعة.</strong> يمكنك التنقل بين مكبرات الصوت أو سماعة الرأس أو الجهاز المتصل بالسماعة الطبية من نفس القائمة، دون البحث في إعدادات النظام.</li>
+</ul>
+<p>ميزة التعزيز هي الميزة الأساسية هنا. نظرًا لأنه يرفع مخرجات التطبيق أعلى من الحد الأقصى الأصلي، يصبح التسجيل الهادئ أمرًا يمكنك سماعه بالفعل، بينما يظل باقي نظامك عند مستوى مريح.</p>
+
+<h2>كلمة سريعة عن التشويه</h2>
+<p>يؤدي أي تعزيز للبرنامج إلى تضخيم كل ما هو موجود في الإشارة، لذا فإن الضغط على الصوت العالي بالفعل بنسبة 100% يمكن أن يؤدي إلى حدوث قطع. في الممارسة العملية، تعزيز <em>هادئ</em> محتوى يصل إلى مستوى مريح وواضح يبدو نظيفًا. ابدأ بتواضع، وارفع حتى يصبح الكلام واضحًا، وتراجع إذا بدا الأمر قاسيًا. حماية السمع المتبقي لديك، لذا اهدف إلى الوضوح بدلاً من الحد الأقصى من ارتفاع الصوت.</p>
+
+<h2>كيف يقارن SoundDial بالبدائل</h2>
+<p>أمامك عدة خيارات، والصدق يساعدك على اختيار الخيار المناسب:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba، ~ 39 دولارًا):</strong> درجة احترافية حقًا، مع معادل صوت لكل تطبيق وتوجيه الإخراج. إذا كنت ترغب في نحت الترددات لفقدان السمع، فهذا أمر قوي. ولكنه يكلف أكثر من الضعف، ويتطلب تنزيلًا مباشرًا، وتثبيت برنامج تشغيل التقاط الصوت. يعد هذا مزيدًا من الإعداد والوصول إلى النظام مما يريده الكثير من الأشخاص.</li>
+<li><strong>Background Music (مجاني ومفتوح المصدر):</strong> يوفر حجمًا لكل تطبيق مجانًا، لكنه يفتقر إلى التعزيز والملفات الشخصية والخفض التلقائي، ويمكنه تشغيل إصدارات macOS الأحدث نظرًا لأنه يرتبط بعمق في النظام الصوتي.</li>
+<li><strong>FineTune (مجاني ومفتوح المصدر):</strong> تطبيق حجم شريط القوائم خفيف الوزن. جيد بالنسبة للأساسيات، ولكن بدون التعزيز والملفات الشخصية والتهرب التي يعتمد عليها المستمعون ضعاف السمع.</li>
+<li><strong>eqMac (مجاني):</strong> التعادل مع الداعم. مفيد لتشكيل الصوت، ولكنه مبني على موازن الصوت بدلاً من الخلط والملفات الشخصية لكل تطبيق.</li>
+</ul>
+<p>أين <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ما يبرز هو التوازن بين السعر والسلامة والميزات المحددة التي تهم هنا. نظرًا لوجوده على Mac App Store، فقد تمت مراجعته من قبل Apple ووضعه في وضع الحماية، ويتم تثبيته بشكل نظيف بدون DMG، ولا يحتاج إلى برامج تشغيل صوت أو ملحقات النظام. يمكنك الحصول على تعزيز لكل تطبيق، وكتم الصوت، وملفات تعريف مستوى الصوت، والخفض التلقائي في عملية شراء واحدة بقيمة 14.99 يورو لمرة واحدة، دون الحاجة إلى البحث في حزمة الصوت macOS.</p>
+
+<h2>خلاصة القول</h2>
+<p>قم بإعداد خيارات إمكانية الوصول المجانية macOS أولاً، فهي تستحق الحصول عليها. ولكن إذا كانت المشكلة الحقيقية هي أن أحد التطبيقات هادئ للغاية، فأنت بحاجة إلى أداة يمكنها دفع تطبيق واحد إلى ما يزيد عن 100% وتهدئة الباقي. هذا هو الهدف الأساسي من التعزيز لكل تطبيق، ولا يقوم macOS بذلك من تلقاء نفسه.</p>
+
+<p>هل أنت مستعد لسماع Mac فعليًا؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو، قم بتعزيز التطبيق الذي تحتاجه، ودع التهرب التلقائي والملفات الشخصية تحافظ على وضوح الكلام.</p>`,
+  },
+  "boost-quiet-apps-mac": {
+    slug: "boost-quiet-apps-mac",
+    title: "كيفية تعزيز تطبيق هادئ على Mac (الحجم الأقصى السابق)",
+    description: "تطبيق واحد هادئ جدًا حتى بنسبة 100%؟ قم بتعزيز هذا التطبيق ليتجاوز الحد الأقصى على Mac باستخدام SoundDial، وهو خلاط حجم لكل تطبيق. إليك أسرع الإصلاح بالإضافة إلى البدائل.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا كان أحد التطبيقات هادئًا جدًا حتى عند الحد الأقصى لمستوى الصوت، فإن أسرع حل يمكن الاعتماد عليه هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط حجم شريط القوائم لكل تطبيق لـ macOS. إنه يمنح كل تطبيق شريط التمرير الخاص به بالإضافة إلى مستوى الصوت <strong>دفعة</strong> الذي يدفع تطبيقًا واحدًا إلى ما يزيد عن 100%، وبالتالي فإن مكالمة الفيديو الهادئة أو علامة تبويب المتصفح تصبح أعلى صوتًا دون لمس مستوى صوت النظام لديك. إنه تطبيق بقيمة 14.99 يورو لمرة واحدة على Mac App Store.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — كيفية تعزيز تطبيق هادئ على Mac (الحجم الأقصى السابق)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يكون أحد التطبيقات هادئًا حتى بنسبة 100%؟</h2>
+<p>يحتوي macOS على مجلد رئيسي واحد فقط. عندما ترفعه، يصبح كل شيء أعلى معًا. لكن كل تطبيق يُخرج الصوت أيضًا على مستواه الداخلي الخاص، ويختلف هذا المستوى بشكل كبير. مقطع YouTube يتم إتقانه بهدوء، أو متصل Zoom بميكروفون سيئ، أو لعبة ذات مزيج منخفض من الحوار، أو علامة تبويب متصفح مع تدفق هادئ، يمكن أن تكون جميعها أقل بكثير من أي شيء آخر، حتى مع Mac بكامل قوته.</p>
+<p>المشكلة الحقيقية: macOS لديها <strong>لا يوجد خلاط حجم مدمج لكل تطبيق</strong>. Windows كان لديه واحد منذ سنوات (خلاط الصوت، انقر بزر الماوس الأيمن على أيقونة مكبر الصوت). على Mac، لا توجد طريقة أصلية لتشغيل تطبيق واحد مع ترك الباقي بمفرده، وبالتأكيد لا توجد طريقة لتضخيم تطبيق واحد <em>أعلاه</em> الحد الأقصى الطبيعي له. هذه هي الفجوة التي تضربها.</p>
+
+<h2>أسرع حل: تعزيز هذا التطبيق فقط</h2>
+<p>يعمل الخلاط لكل تطبيق على حل هذه المشكلة عن طريق إدخال نفسه بين تطبيقاتك ومخرجاتك، حتى يتمكن من رفع أو خفض كل تدفق بشكل مستقل، وتعزيز واحد بما يتجاوز 100%. مع <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، التدفق قصير:</p>
+<ul>
+<li>قم بالتثبيت من Mac App Store وافتحه. إنه موجود في شريط القائمة الخاص بك، وليس في نافذة عائمة.</li>
+<li>انقر على أيقونة شريط القائمة لرؤية شريط التمرير لكل تطبيق يقوم بتشغيل الصوت حاليًا.</li>
+<li>ابحث عن التطبيق الهادئ واسحب شريط التمرير الخاص به إلى ما يزيد عن 100% لتطبيق التعزيز. إنه يضخم هذا التطبيق فقط.</li>
+<li>اترك كل شيء آخر حيث هو. يظل حجم نظامك والتطبيقات الأخرى دون تغيير.</li>
+</ul>
+<p>نظرًا لأن التعزيز يتم لكل تطبيق، يمكنك دفع مكالمة فيديو ناعمة إلى مستوى مريح مع الحفاظ على الموسيقى أو الإشعارات من أن تصبح مدقعة للأذن. هذا هو الشيء الأساسي الذي لا تستطيع عناصر التحكم macOS المدمجة فعله.</p>
+
+<h2>ملاحظة حول التعزيز والقص</h2>
+<p>يعد Boost مفيدًا حقًا، ولكنه تضخيم وليس سحرًا. إذا كان الصوت الأصلي لأحد التطبيقات هادئًا جدًا أو مشوهًا بالفعل، فقد يؤدي تحريكه بقوة إلى حدوث قطع أو جعل هسهسة الخلفية أكثر وضوحًا. من الناحية العملية، يعمل التعزيز المعتدل على إصلاح الغالبية العظمى من مواقف "هذه المكالمة هادئة للغاية" بشكل نظيف. ادفعه حتى يصبح التطبيق مريحًا بدلاً من الضغط عليه بقوة، وستحافظ على نظافة الصوت.</p>
+
+<h2>ما وراء التعزيز: ما الذي يساعد أيضًا</h2>
+<p>بمجرد حصولك على التحكم في كل تطبيق، هناك بعض الميزات التي تجعل مشكلة التطبيق الصامت تختفي إلى الأبد:</p>
+<ul>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ الإعداد (على سبيل المثال، "تعزيز Zoom، وخفض Spotify، وكتم صوت Slack") واستدعه بنقرة واحدة بدلاً من إعادة سحب أشرطة التمرير في كل اجتماع.</li>
+<li><strong>التملص التلقائي</strong> - قم بخفض التطبيقات الأخرى تلقائيًا عند تشغيل التطبيق المختار، بحيث يتم سماع مكالمة معززة بوضوح عبر صوت الخلفية.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات أحد التطبيقات المزعجة دون إيقاف أي شيء آخر مؤقتًا.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت أو سماعات الرأس أو الواجهة الخارجية من نفس القائمة.</li>
+</ul>
+
+<h2>ماذا عن البدائل المجانية والمحترفة؟</h2>
+<p>لديك خيارات، والصدق مهم هنا، لذا هذا هو المشهد الحقيقي.</p>
+<p><strong>SoundSource</strong> (Rogue Amoeba) هو الخيار الاحترافي بحوالي 39 دولارًا. فهو يوفر حجمًا لكل تطبيق بالإضافة إلى معادل الصوت لكل تطبيق وتوجيه الإخراج الكامل، مما يوفر طاقة أكبر مما يحتاجه معظم الأشخاص. المقايضات: تكلفته أكثر من الضعف، وهو تنزيل مباشر بدلاً من App Store، ويقوم بتثبيت برنامج تشغيل التقاط الصوت للقيام بعمله. إذا كنت تريد مجموعة أدوات مهندس الصوت، فهذا ممتاز. إذا كنت تريد تطبيقًا واحدًا بصوت أعلى، فهذا مبالغة.</p>
+<p><strong>Background Music</strong> مجاني ومفتوح المصدر، ويمكنه إجراء الحجم الأساسي لكل تطبيق. ولكنه مشروع مجتمعي له تاريخ في اختراق الإصدارات الأحدث من macOS، ويفتقر إلى التعزيز الذي يتجاوز 100%، والملفات الشخصية، والتهرب التلقائي. رائع إذا كان مجانًا هو الشرط الوحيد ولا تمانع في الكسر العرضي.</p>
+<p><strong>FineTune</strong> هو تطبيق مجاني لشريط القوائم مفتوح المصدر، و <strong>eqMac</strong> هو معادل مجاني ومعزز للنظام. كلاهما يستحق المحاولة إذا كانت ميزانيتك صفر. كل ما عليك فعله هو أن تعرف أنها تتم صيانتها من قبل المجتمع، أو أنها تركز على EQ أو أنها خفيفة في إدارة كل تطبيق، ولا تجمع الملفات الشخصية بالإضافة إلى التهرب في حزمة واحدة مصقولة.</p>
+<p>أين <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> الأراضي: هو الطريق الأوسط. أرخص من SoundSource، وأكثر قدرة وموثوقية من الأدوات المجانية، وهي متوفرة <strong>Mac App Store</strong>، مما يعني أنه تمت مراجعته بواسطة Apple، ووضع الحماية، ويتم تثبيته بشكل نظيف <strong>لا يوجد DMG ولا توجد برامج تشغيل صوت أو ملحقات</strong> للتثبيت على النظام الخاص بك. بالنسبة لمعظم الأشخاص، تكون التوصية الصادقة بسيطة: إذا كنت تريد الإصلاح الأقل إزعاجًا والذي يمنحك أيضًا التعزيز والملفات الشخصية والتهرب التلقائي، فهي أفضل قيمة بسعر 14.99 يورو لمرة واحدة.</p>
+
+<h2>إجابة سريعة، مكررة</h2>
+<blockquote>لجعل تطبيق Mac واحدًا أعلى من الحد الأقصى، استخدم خلاط الصوت لكل تطبيق مع التعزيز. افتح SoundDial من شريط القائمة، وابحث عن شريط تمرير التطبيق الهادئ، واسحبه إلى ما بعد 100%. فقط هذا التطبيق يصبح أعلى صوتًا.</blockquote>
+
+<p>توقف عن محاربة شريط تمرير حجم واحد لـ Mac بالكامل. احصل على <a href="https://apps.apple.com/app/id6772792641">SoundDial على Mac App Store</a> مقابل 14.99 يورو مرة واحدة، يمكنك تعزيز هذا التطبيق الهادئ ليتجاوز الحد المسموح به في ثوانٍ، واحفظ ملفًا شخصيًا حتى لا تضطر إلى التفكير فيه مرة أخرى.</p>`,
+  },
+  "amplify-quiet-video-podcast-audio-mac": {
+    slug: "amplify-quiet-video-podcast-audio-mac",
+    title: "كيفية تضخيم مقاطع الفيديو والبودكاست الهادئة على Mac",
+    description: "تكون بعض مقاطع الفيديو والبودكاست والمحاضرات YouTube هادئة جدًا حتى بنسبة 100%. فيما يلي كيفية زيادة حجم الصوت لكل تطبيق بما يتجاوز الحد الأقصى على macOS باستخدام SoundDial.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>الإصلاح الأسرع والأكثر موثوقية هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط شريط القوائم Mac App Store الذي يمنح كل تطبيق شريط تمرير الصوت الخاص به وحقيقيًا <strong>دفعة</strong> الذي يدفع الماضي 100٪. افتح المتصفح أو مشغل البودكاست الخاص بك، واسحب شريط التمرير الخاص به فوق الحد الأقصى، وسيرتفع صوت الفيديو أو المحاضرة الهادئة على الفور - بدون برامج تشغيل، ولا إعادة تشغيل.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — كيفية تضخيم مقاطع الفيديو والبودكاست الهادئة على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا تكون بعض مقاطع الفيديو والبودكاست هادئة جدًا؟</h2>
+<p>لقد قمت برفع مستوى Mac الخاص بك إلى 100%، ولا تزال المقابلة مجرد همس. هذا ليس خيالك. يتم إتقان الصوت بمستويات مختلفة تمامًا من ارتفاع الصوت - يمكن لندوة عبر الإنترنت مسجلة على ميكروفون كمبيوتر محمول، أو بودكاست مستقل هادئ، أو تحميل محاضرة قديمة أن تكون أقل بمقدار 15-20 ديسيبل من فيديو YouTube المنتج بشكل احترافي. لقد وصل مستوى صوت نظامك إلى الحد الأقصى بالفعل، لذا لم يعد هناك مجال للارتفاع.</p>
+<p>وهنا تكمن المشكلة: macOS لديه <strong>لا يوجد خلاط حجم مدمج لكل تطبيق</strong>. كان لدى Windows واحدًا منذ سنوات (خلاط الصوت الموجود في علبة النظام)، ولكن في Mac، تتحرك مفاتيح مستوى الصوت بمستوى عالمي واحد لكل شيء. لا توجد طريقة أصلية لقول "اجعل علامة تبويب المتصفح هذه أعلى صوتًا فقط" - ناهيك عن دفع تطبيق واحد إلى ما يزيد عن 100%.</p>
+
+<h2>الحل الحقيقي: زيادة حجم الصوت لكل تطبيق</h2>
+<p>لجعل مصدر الصوت هادئًا أعلى مما تسمح به مكبرات الصوت عادةً، تحتاج إلى برنامج ينطبق عليه الكسب <em>هذا التطبيق على وجه التحديد</em> ويمكن أن تضخيم إلى ما هو أبعد من سقف 100٪. هذا هو بالضبط ما يفعله الخلاط لكل تطبيق مع ميزة التعزيز.</p>
+<p>مع <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، يظهر كل تطبيق قيد التشغيل في قائمة شريط القوائم مع شريط التمرير الخاص به. مرر تطبيقًا هادئًا بنسبة تصل إلى 150% أو 200% وسيتم تضخيم الصوت في الوقت الفعلي. نظرًا لأن التعزيز يتم لكل تطبيق، فإن كل شيء آخر - الموسيقى والإشعارات والمكالمة في نافذة أخرى - يظل عند المستوى الطبيعي. أنت لا تقوم بتفجير نظامك بأكمله لسماع بودكاست واحد ناعم.</p>
+<blockquote>يسأل الحجم العالمي "ما مدى ارتفاع صوت Mac؟" يسأل الخلاط لكل تطبيق "ما مدى ارتفاع الصوت <em>هذا</em> التطبيق؟" - وهو السؤال الذي يهم في الواقع عندما يكون أحد مقاطع الفيديو هادئًا والباقي على ما يرام.</blockquote>
+
+<h2>كيفية تعزيز مقطع فيديو أو بودكاست هادئ، خطوة بخطوة</h2>
+<ul>
+<li><strong>قم بتثبيت SoundDial</strong> من Mac App Store. إنه في وضع الحماية ومراجعته من قبل Apple، لذلك يتم تثبيته بشكل نظيف مثل أي تطبيق آخر - لا يوجد تنزيل منفصل، ولا يوجد برنامج تشغيل صوت، ولا يوجد تحدٍ للأذونات.</li>
+<li><strong>ابدأ اللعب</strong> الفيديو الهادئ، أو حلقة البودكاست، أو المحاضرة في أي تطبيق تستخدمه - Safari، Chrome، عميل البودكاست، VLC.</li>
+<li><strong>انقر على أيقونة SoundDial</strong> في شريط القائمة الخاص بك. سيظهر لك شريط تمرير لكل تطبيق يصدر صوتًا حاليًا.</li>
+<li><strong>اسحب شريط تمرير هذا التطبيق إلى أعلى من 100%</strong> — جرب 150% أولًا، ثم ادفع للأعلى إذا كان لا يزال ناعمًا للغاية. التغيير فوري.</li>
+<li><strong>اترك كل شيء آخر وشأنه.</strong> التطبيق الذي عززته فقط هو الذي يصبح أعلى صوتًا؛ يبقى نظامك متوازنا.</li>
+</ul>
+<p>إذا وجدت نفسك تقوم بتعزيز نفس التطبيقات كل يوم - على سبيل المثال، مشغل البودكاست ومتصفحك - فيمكنك حفظ هذا الإعداد كملف <strong>الملف الشخصي للحجم</strong> واسترجعها بنقرة واحدة بدلاً من إعادة الضبط في كل مرة.</p>
+
+<h2>كلمة تحذير بشأن التعزيز</h2>
+<p>تضخيم ما بعد 100٪ يضيف مكاسب، والمكاسب لها حدود. قم بإجراء تسجيل هادئ جدًا ومنخفض الجودة بقوة كافية وقد تسمع تقطيعًا أو تشويهًا - وهذا هو المصدر الذي ينفد من الإشارة النظيفة، وليس عيبًا في التطبيق. عزز صوتك حتى يصبح مسموعًا بشكل مريح، ثم تراجع إذا بدأ الصوت قاسيًا. في مكبرات الصوت المدمجة في الكمبيوتر المحمول، يمكن أن يؤدي التعزيز الشديد أيضًا إلى إجهاد برامج التشغيل، لذا يكون الأمر أسهل من استخدام سماعات الرأس الجيدة أو مكبرات الصوت الخارجية.</p>
+
+<h2>ماذا عن الخيارات المجانية أو المدمجة؟</h2>
+<p>لديك بدائل، ومن الجدير أن تكون صادقًا بشأنها:</p>
+<ul>
+<li><strong>حجم النظام + أشرطة التمرير على مستوى التطبيق.</strong> تتيح لك بعض المشغلات (VLC، وعدد قليل من المتصفحات عبر الملحقات) تعزيز الصوت الخاص بها. لا بأس إذا كنت تحتاج إليه في تطبيق واحد فقط - ولكنك عالق في تكوين كل تطبيق على حدة، بدون تحكم موحد ولا ملفات تعريف.</li>
+<li><strong>eqMac</strong> هو معادل مجاني ومعزز. يمكنه رفع مستوى الصوت على مستوى النظام، ولكنه أداة عالمية، وليس مزيجًا نظيفًا لكل تطبيق، ويعمل على مستوى المخرجات بالكامل.</li>
+<li><strong>Background Music</strong> مجاني ومفتوح المصدر ويقدم حجمًا لكل تطبيق. ولكنه يعتمد على إعداد التقاط الصوت الذي يمكنه كسر الإصدارات الأحدث من macOS، ويفتقر إلى التعزيز المخصص والملفات الشخصية والتهرب التلقائي.</li>
+<li><strong>FineTune</strong> هو تطبيق مجاني لشريط القوائم مفتوح المصدر - وهو خيار خفيف الوزن إذا كنت تريد الأساسيات ولا تمانع في البرامج التي يديرها المجتمع.</li>
+<li><strong>SoundSource</strong> بواسطة Rogue Amoeba (~ 39 دولارًا أمريكيًا) هو الوزن الثقيل الاحترافي: EQ لكل تطبيق، وتوجيه الإخراج، والأعمال. كما يتطلب أيضًا تنزيلًا وبرنامج تشغيل لالتقاط الصوت، ويكلف أكثر من ضعف SoundDial. مبالغة إذا كان كل ما تريده هو جعل الصوت الهادئ أعلى.</li>
+</ul>
+
+<h2>لماذا SoundDial هو الخيار العملي</h2>
+<p>يقع SoundDial في المكان المناسب لهذه المشكلة بالتحديد. إنه <strong>14.99 يورو لمرة واحدة</strong> - لا يوجد اشتراك - ويعيش على <strong>Mac App Store</strong>، مما يعني أنه في وضع الحماية، ومراجعته بواسطة Apple، ويتم تثبيته دون الاعتماد على أي DMG أو امتداد النظام. يمكنك الحصول على التعزيز الذي أتيت من أجله لكل تطبيق، بالإضافة إلى الملفات الشخصية، وكتم الصوت لكل تطبيق، والتبديل السريع بين الإخراج، و <strong>التملص التلقائي</strong> الذي يغمس التطبيقات الأخرى عندما تحتاج إلى التركيز على أحدها. إنه يفعل الشيء الصاخب ببساطة، ويفعل الباقي بشكل جيد.</p>
+
+<p><strong>هل سئمت من الضغط لسماع مقاطع الفيديو والبودكاست الهادئة؟</strong> <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو ومنح كل تطبيق حجمًا خاصًا به - مع تعزيز سماع أي شيء بوضوح.</p>`,
+  },
+  "set-different-volume-for-each-app-mac": {
+    slug: "set-different-volume-for-each-app-mac",
+    title: "كيفية تعيين مستوى صوت مختلف لكل تطبيق على Mac",
+    description: "لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق. فيما يلي كيفية تعيين مستويات صوت مستقلة ومستمرة لكل تطبيق على Mac باستخدام SoundDial والبدائل.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا يحتوي macOS على طريقة مدمجة لتعيين مستوى صوت مختلف لكل تطبيق، لذلك تحتاج إلى أداة مزج مستوى الصوت في شريط القوائم. الإصلاح الأسرع والأكثر موثوقية هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، تطبيق Mac App Store يمنح كل تطبيق شريط تمرير مستوى الصوت الخاص به، وكتم الصوت لكل تطبيق، وتعزيزًا يدفع التطبيقات الهادئة إلى ما يزيد عن 100%. اضبط مستوياتك مرة واحدة وستظل ثابتة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — كيفية ضبط مستوى صوت مختلف لكل تطبيق على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا لا يحتوي Mac على تحكم في مستوى الصوت لكل تطبيق</h2>
+<p>إذا قمت بالتبديل من Windows، فمن المحتمل أنك بحثت عن ما يعادل Windows Volume Mixer، تلك اللوحة الصغيرة حيث يحتوي كل تطبيق على شريط تمرير خاص به. انها ليست هناك. يقدم macOS وحدة تخزين عالمية واحدة فقط للنظام. سواء كان مقطع فيديو YouTube، أو مكالمة Zoom، أو Spotify، أو لعبة، فإنهم جميعًا يشتركون في نفس المستوى الرئيسي.</p>
+<p>هذا جيد حتى لا يكون كذلك. دردشة Discord تطغى على موسيقاك. يتم تشغيل إعلان المتصفح بكامل حجمه بينما يتم تشغيل البودكاست الخاص بك بهدوء في الأسفل. لعبتك تصم الآذان ولكن المكالمة الصوتية في الخلفية ضعيفة للغاية. "الحل" الوحيد الذي تقدمه لك Apple هو فتح كل تطبيق وضبط مستوى الصوت الداخلي يدويًا، إذا كان التطبيق يحتوي على واحد، وإعادة ذلك في كل جلسة.</p>
+<p>للحصول على تحكم حقيقي لكل تطبيق، تحتاج إلى أداة مساعدة صغيرة تقع بين تطبيقاتك وجهاز الإخراج الخاص بك. وفيما يلي كيفية القيام بذلك بشكل صحيح، بالإضافة إلى ملاحظات صادقة حول البدائل.</p>
+
+<h2>أسرع طريقة: SoundDial (Mac App Store)</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> موجود في شريط القائمة لديك ويسرد كل تطبيق يقوم بتشغيل الصوت حاليًا. يحصل كل واحد على شريط تمرير مستقل. إليك سير العمل بأكمله:</p>
+<ul>
+<li><strong>التثبيت من Mac App Store.</strong> لقد تمت مراجعته بواسطة Apple ووضع الحماية، لذلك لا يوجد DMG، ولا يوجد برنامج تشغيل صوت، ولا يوجد نواة أو امتداد نظام للموافقة عليه. يتم تثبيته مثل أي تطبيق عادي ويمكن إزالته بنفس الطريقة.</li>
+<li><strong>انقر على أيقونة شريط القائمة.</strong> سيظهر لك شريط تمرير لكل تطبيق نشط، بالإضافة إلى عنصر تحكم رئيسي.</li>
+<li><strong>اسحب لتعيين المستويات.</strong> اقلب Discord لأسفل، وادفع Spotify لأعلى، وكتم صوت تطبيق علامة تبويب المتصفح المزعجة بالكامل بنقرة واحدة.</li>
+<li><strong>تعزيز التطبيقات الهادئة.</strong> إذا كان التطبيق ضعيفًا جدًا حتى عند 100%، فادفعه إلى ما فوق 100% مع التعزيز لكل تطبيق.</li>
+<li><strong>حفظ الملف الشخصي.</strong> قم بتخزين مزيج "الألعاب" أو "مكالمة العمل" أو "الموسيقى" والتبديل بينها على الفور بدلاً من إعادة سحب أشرطة التمرير كل يوم.</li>
+</ul>
+<p>هناك ميزتان تستحقان الإشارة إليهما لأنهما تحلان السيناريوهات الأكثر إزعاجًا:</p>
+<ul>
+<li><strong>التملص التلقائي</strong> يقوم تلقائيًا بخفض التطبيقات الأخرى عند تشغيل التطبيق المختار، بحيث تنخفض الموسيقى الخاصة بك عند ورود مكالمة وتعود بعد ذلك، دون الحاجة إلى تلاعب يدوي.</li>
+<li><strong>التبديل السريع للإخراج</strong> يتيح لك التنقل بين سماعات الرأس ومكبرات الصوت من نفس القائمة دون الغوص في إعدادات النظام.</li>
+</ul>
+<p>نظرًا لأنه يتم تذكر المستويات لكل تطبيق وحفظها في الملفات الشخصية، فإن هذا هو الجزء الذي يريده معظم الأشخاص فعليًا: يمكنك تعيينه مرة واحدة وسيحدث ذلك <em>يبقى</em> مجموعة.</p>
+
+<h2>البدائل المجانية والمدفوعة، مقارنة بصراحة</h2>
+<p>SoundDial ليس هو الخيار الوحيد، وحسب احتياجاتك، قد تكون الأداة المجانية كافية. وهنا المتهدمة عادلة.</p>
+
+<h2>SoundSource (Rogue Amoeba)</h2>
+<p>SoundSource هو الوزن الثقيل الاحترافي. إلى جانب حجم الصوت لكل تطبيق، فإنه يقوم بمعادل الصوت لكل تطبيق وتوجيه الإخراج الكامل، حتى تتمكن من إرسال تطبيق واحد إلى سماعات الرأس وآخر إلى مكبرات الصوت. إنها ممتازة حقًا. المقايضات: تبلغ تكلفته حوالي 39 دولارًا، وهو ليس تثبيتًا نظيفًا لـ App Store، بل هو تنزيل مباشر يتطلب إضافة برنامج تشغيل التقاط الصوت إلى نظامك. إذا كنت محترفًا في الصوت وتحتاج إلى موازن الصوت والتوجيه، فإن الأمر يستحق ذلك. إذا كنت تريد فقط أن يكون كل تطبيق بالحجم المناسب، فهو عبارة عن أدوات وإعدادات أكثر مما تحتاج إليه.</p>
+
+<h2>Background Music (مفتوح المصدر، مجاني)</h2>
+<p>Background Music هو تطبيق مجاني مفتوح المصدر يوفر حجمًا لكل تطبيق وإيقافًا مؤقتًا تلقائيًا. المهم هو الموثوقية: فهو يقوم بتثبيت جهاز صوتي افتراضي وله تاريخ من الأعطال على إصدارات macOS الأحدث، ويتطلب أحيانًا إعادة التثبيت أو الإصلاحات بعد التحديثات. كما أنه يفتقر إلى التعزيز والملفات الشخصية المحفوظة والتهرب التلقائي الحقيقي. رائع إذا كنت تريد مجانًا ولا تمانع في الصيانة العرضية.</p>
+
+<h2>FineTune وeqMac</h2>
+<p>FineTune هو تطبيق شريط قوائم مجاني ومفتوح المصدر، وهو نقطة بداية خفيفة الوزن. eqMac عبارة عن معادل مجاني مع معزز على مستوى النظام، ويهدف إلى تحقيق المعادل والمكاسب الإجمالية أكثر من منح كل تطبيق شريط التمرير المستمر الخاص به. كلاهما يستحق المحاولة إذا كانت حاجتك محدودة، ولكن لا يركز أي منهما على سير عمل "حجم مختلف لكل تطبيق، محفوظ كملفات شخصية".</p>
+
+<h2>أيهما يجب أن تختار؟</h2>
+<ul>
+<li><strong>هل تريد أن يعمل فقط، بشكل نظيف، مع الملفات الشخصية والتهرب التلقائي؟</strong> SoundDial بسعر 14.99 يورو لمرة واحدة، من App Store، بدون برامج تشغيل للتثبيت.</li>
+<li><strong>هل تحتاج إلى EQ وتوجيه الصوت لكل تطبيق ولا تمانع في السعر أو برنامج التشغيل؟</strong> SoundSource.</li>
+<li><strong>هل تريد مجانًا وهل يمكنك إجراء تعديلات عند تحديث macOS؟</strong> Background Music أو FineTune أو eqMac.</li>
+</ul>
+<p>الميزة الحقيقية لـ SoundDial هي الجمع بين: مستوى الصوت المستقل، وكتم الصوت، والتعزيز لكل تطبيق، وحفظه في ملفات تعريف قابلة للتحويل، مع التهرب التلقائي، كل ذلك داخل تنزيل App Store في وضع الحماية الذي يمكنك الوثوق به وإلغاء تثبيته بنقرة واحدة، مقابل 14.99 يورو لمرة واحدة بدلاً من الاشتراك.</p>
+
+<blockquote>لا يوجد سائق، لا تمديد، لا DMG. قم بتعيين مستوى صوت كل تطبيق مرة واحدة، واحفظه كملف تعريف، ودع التراجع التلقائي يتولى الباقي.</blockquote>
+
+<p>هل أنت مستعد لمنح كل تطبيق حجمه الخاص؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> وقم بضبط المزيج المثالي في حوالي دقيقة.</p>`,
+  },
+  "make-one-app-quieter-than-the-rest-mac": {
+    slug: "make-one-app-quieter-than-the-rest-mac",
+    title: "اجعل تطبيقًا واحدًا أكثر هدوءًا من أي شيء آخر على Mac",
+    description: "تطبيق واحد بصوت عالٍ يغرق الباقي على Mac؟ إليك الطريقة الأسرع والأكثر موثوقية لخفض مستوى صوت تطبيق واحد دون لمس التطبيقات الأخرى.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لإيقاف تطبيق واحد بينما يبقى كل شيء آخر في مكانه، استخدم <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط حجم شريط القوائم لكل تطبيق لـ macOS. افتحه، وابحث عن التطبيق الصاخب في القائمة، واسحب شريط التمرير الخاص به إلى الأسفل. يصبح هذا التطبيق أكثر هدوءًا على الفور بينما تحافظ الموسيقى والمكالمات والصوتيات الأخرى على مستوياتها الخاصة. إنه الإصلاح الأسرع والأكثر موثوقية.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — اجعل تطبيقًا واحدًا أكثر هدوءًا من أي شيء آخر على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يجعل macOS هذا الأمر صعبًا للغاية</h2>
+
+<p>هذه هي الحقيقة المحبطة: لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق. كان لدى Windows واحد منذ سنوات (انقر بزر الماوس الأيمن على أيقونة مستوى الصوت، وافتح Volume Mixer، وانتهى الأمر)، ولكن في Mac، تتحكم مفاتيح مستوى الصوت وشريط تمرير شريط القائمة في شيء واحد فقط: الإخراج الرئيسي. قم بإيقاف تشغيله وسيصبح كل شيء أكثر هدوءًا معًا. قم بتشغيله وسيظل التطبيق بصوت عالٍ مرتفعًا، فقط أعلى صوتًا مع الباقي.</p>
+
+<p>لذلك، عندما تكون المؤثرات الصوتية للعبة شديدة الانفجار، أو تقوم علامة تبويب المتصفح بتشغيل إعلان تلقائيًا، أو تستمر أصوات الإشعارات في الارتفاع عبر البودكاست الخاص بك، فإن خياراتك الأصلية الوحيدة تكون خرقاء: كتم صوت النظام بأكمله، أو البحث في إعدادات مستوى الصوت الخاصة بكل تطبيق (إذا كان لديه واحد)، أو إنهاء المخالف تمامًا. لا شيء من هذا يتيح لك أن تقول ببساطة "اجعل هذا التطبيق أكثر هدوءًا واترك كل شيء آخر بمفرده".</p>
+
+<h2>الحل السريع: خلاط حجم لكل تطبيق</h2>
+
+<p>يمنح خلاط الصوت لكل تطبيق كل تطبيق قيد التشغيل شريط تمرير مستقل خاص به. هذا هو بالضبط التحكم الذي تفتقده. مع <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يبدو مثل هذا:</p>
+
+<ul>
+<li><strong>افتح خلاط شريط القائمة.</strong> انقر على أيقونة SoundDial وستظهر لك قائمة مباشرة بكل تطبيق يقوم بتشغيل الصوت حاليًا.</li>
+<li><strong>العثور على واحد بصوت عال.</strong> اللعبة، المتصفح، مكالمة الفيديو، أصوات الإشعارات، كل ما يغرق الباقي.</li>
+<li><strong>اسحب شريط التمرير لأسفل.</strong> اضبطه على 40%، 20%، حيثما تشعر بالتوازن. التغيير فوري ويؤثر فقط على هذا التطبيق.</li>
+<li><strong>اترك كل شيء آخر وشأنه.</strong> مشغل الموسيقى الخاص بك، ومكالمتك، وعلامات التبويب الأخرى، كلها تحافظ على مستوى الصوت الذي قمت بتعيينه لها.</li>
+</ul>
+
+<p>يمكنك أيضًا كتم صوت تطبيق واحد بالكامل بنقرة واحدة بينما يستمر الآخرون في اللعب، أو تعزيز تطبيق هادئ بنسبة تزيد عن 100% إذا كان ضعيفًا جدًا. لا حاجة لإعادة تشغيل التطبيق، ولا للغوص في القائمة.</p>
+
+<h2>الحالات الشائعة حيث هذا ينقذك</h2>
+
+<ul>
+<li><strong>لعبة صاخبة على موسيقى الخلفية.</strong> قم بإسقاط اللعبة إلى مستوى مريح واحتفظ بقائمة التشغيل الخاصة بك بكامل حجمها تحتها.</li>
+<li><strong>إعلانات المتصفح والفيديو التي ترتفع.</strong> قم بتثبيت متصفحك في مكان منخفض حتى لا يفاجئك التشغيل التلقائي المفاجئ.</li>
+<li><strong>يصدر إشعارًا عبر مكالمة أو بودكاست.</strong> قم بإيقاف تشغيل التطبيق الذي يحتوي على الكثير من الإشعارات دون إسكات الصوت الذي يهمك بالفعل.</li>
+<li><strong>مكالمة فيديو هادئة تحت وسائل الإعلام الصاخبة.</strong> بدلاً من خفض صوت التطبيق عالي الصوت، قم بتعزيز المكالمة إلى ما يزيد عن 100% حتى تتمكن من سماع الأشخاص بوضوح.</li>
+</ul>
+
+<h2>قم بتعيينه مرة واحدة باستخدام ملفات تعريف الصوت والتهرب التلقائي</h2>
+
+<p>من الجيد إصلاح تطبيق واحد مرتفع الصوت، ولكن ربما تريد أن يظل ثابتًا. يحتوي SoundDial على ميزتين تجعلان هذا دائمًا:</p>
+
+<p><strong>ملفات تعريف الحجم</strong> تتيح لك حفظ مجموعة من المستويات لكل تطبيق واستدعائها بنقرة واحدة. قم بإنشاء ملف تعريف "الألعاب" حيث تكون اللعبة بنسبة 30% والموسيقى بنسبة 100%، وملف تعريف "العمل" حيث يتم تعزيز المكالمات وتقليل كل شيء آخر. قم بتبديل السياقات دون إعادة سحب أشرطة التمرير في كل مرة.</p>
+
+<p><strong>التملص التلقائي</strong> يقوم تلقائيًا بخفض التطبيقات الأخرى عند تشغيل التطبيق المختار، ثم يعيدها مرة أخرى بعد ذلك، لذلك لا يخطف التطبيق بصوت عالٍ صوتك بالكامل في المقام الأول. بين الملفات الشخصية والتهرب والتبديل السريع للإخراج (الانتقال بين مكبرات الصوت وسماعات الرأس دون فتح إعدادات النظام)، يمكنك ضبط توازنك مرة واحدة والتوقف عن مراقبة مستوى الصوت.</p>
+
+<h2>كيف يقارن SoundDial بالبدائل</h2>
+
+<p>هناك طرق أخرى للحصول على حجم الصوت لكل تطبيق على Mac. وإليك نظرة صادقة:</p>
+
+<ul>
+<li><strong>SoundSource (Rogue Amoeba، ~ 39 دولارًا)</strong> هو حقًا احترافي: معادل الصوت لكل تطبيق وتوجيه الإخراج الكامل بالإضافة إلى التحكم في مستوى الصوت. ولكنها تكلف أكثر من الضعف، وتحتاج إلى تنزيل منفصل بالإضافة إلى برنامج تشغيل لالتقاط الصوت. إذا كنت تريد مجموعة أدوات على مستوى الاستوديو، فهذا ممتاز. إذا كنت تريد فقط إيقاف تطبيق واحد، فهذا أكثر مما تحتاج إليه.</li>
+<li><strong>Background Music</strong> مجاني ومفتوح المصدر، وهو أمر رائع، لكنه يمكن أن يعمل على الإصدارات الأحدث من macOS، ويفتقر إلى زيادة الحجم، والملفات الشخصية، والتهرب التلقائي.</li>
+<li><strong>FineTune</strong> هو تطبيق مجاني لشريط القوائم مفتوح المصدر، و <strong>eqMac</strong> هو معادل مجاني مع معزز. كلاهما يستحق المحاولة إذا كانت الأولوية هي الأولوية بالنسبة لك، لكنك تستبدل الصقل والموثوقية والميزات بالسعر.</li>
+</ul>
+
+<p>SoundDial يقع في مكان رائع: 14.99 يورو لمرة واحدة، بدون اشتراك. نظرًا لأنه موجود على Mac App Store، فقد تمت مراجعته من قبل Apple ووضعه في وضع الحماية، ويتم تثبيته بشكل نظيف بدون DMG، ولا توجد برامج تشغيل صوت، ولا توجد ملحقات نظام للموافقة عليها. يمكنك الحصول على الميزات المهمة بالفعل لهذه المشكلة، مثل حجم الصوت لكل تطبيق، وكتم الصوت، والتعزيز، والملفات الشخصية، والتهرب التلقائي، بدون علامة سعر تبلغ 39 دولارًا أو أداة مجانية هشة.</p>
+
+<h2>خلاصة القول</h2>
+
+<p>لن يسمح لك macOS برفض تطبيق واحد بمفرده، ولكن هذه فجوة يمكنك سدها في ثوانٍ. قم بتثبيت جهاز مزج الصوت لكل تطبيق، واسحب شريط تمرير التطبيق العالي إلى الأسفل، وسيظل باقي الصوت في المكان الذي تريده بالضبط. احفظ ملفك الشخصي ولن تحارب هذا مرة أخرى أبدًا.</p>
+
+<p><strong>هل أنت مستعد لإسكات التطبيق الوحيد الذي يستمر في إغراق الباقي؟</strong> احصل على <a href="https://apps.apple.com/app/id6772792641">SoundDial على Mac App Store</a> مقابل 14.99 يورو، دفعة واحدة، بدون برامج تشغيل، بدون اشتراك.</p>`,
+  },
+  "streaming-audio-mixer-mac-mic-game-music": {
+    slug: "streaming-audio-mixer-mac-mic-game-music",
+    title: "Mac جهاز مزج الصوت لأجهزة البث: ميكروفون التوازن والألعاب والموسيقى",
+    description: "أسرع طريقة لموازنة الميكروفون وصوت اللعبة والموسيقى والتنبيهات أثناء البث على Mac. يمنحك SoundDial خلاطًا للصوت لكل تطبيق مع ملفات التعريف والبط.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>لتحقيق التوازن بين الميكروفون والألعاب والموسيقى والتنبيهات أثناء البث على Mac، فإن أسرع حل يمكن الاعتماد عليه هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط حجم شريط القوائم لكل تطبيق. لا يحتوي macOS على خلاط مدمج، لذا يتيح لك SoundDial تعيين مستويات مستقلة لكل تطبيق، وتعزيز المصادر الهادئة، وحفظ ملفات تعريف البث، وإيقاف الموسيقى تلقائيًا عندما تتحدث.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac جهاز مزج الصوت لأجهزة البث: توازن الميكروفون والألعاب والموسيقى" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>المشكلة: لا يحتوي macOS على تحكم في مستوى الصوت لكل تطبيق</h2>
+<p>Windows يمتلك خلاط الصوت لسنوات. macOS لا يزال لا يشحن واحدًا. يحرك شريط تمرير مستوى الصوت في نظامك كل شيء مرة واحدة، وهو أمر عديم الفائدة عندما تكون على الهواء مباشرة. أثناء البث، أنت تقوم بالتلاعب بأربعة مصادر على الأقل تتصارع جميعها للحصول على نفس المخرجات:</p>
+<ul>
+<li><strong>مراقبة صوتك/هيئة التصنيع العسكري</strong> - يحتاج إلى الجلوس فوق كل شيء.</li>
+<li><strong>صوت اللعبة</strong> - بصوت عالٍ وديناميكي وعرضة للارتفاع أثناء العمل.</li>
+<li><strong>موسيقى خلفية</strong> - يجب أن تظل هادئًا تحت تعليقك.</li>
+<li><strong>التنبيهات وأصوات الدردشة</strong> - Discord، Stream Deck، تنبيهات المتابعين، الإخطارات.</li>
+</ul>
+<p>بدون التحكم لكل تطبيق، سينتهي بك الأمر بركوب شريط تمرير اللعبة داخل التطبيق، وكتم صوت Spotify يدويًا، والصلاة بصوت عالٍ حتى لا ينفجر المشاهدون. هذا ليس مزيجًا، إنه التحكم في الضرر.</p>
+
+<h2>ما الذي يحتاجه خلاط البث المناسب؟</h2>
+<p>يجب أن يمنحك إعداد الصوت الذي يركز على منشئ المحتوى على Mac أربعة أشياء: مستويات مستقلة لكل تطبيق، والقدرة على تعزيز مصدر هادئ جدًا، والتكوينات المحفوظة التي يمكنك تذكرها على الفور، والخفض التلقائي بحيث تنخفض الموسيقى في اللحظة التي تتحدث فيها. يغطي SoundDial الأربعة جميعًا من شريط القائمة.</p>
+
+<h3>1. حجم مستقل لكل تطبيق</h3>
+<p>اضبط اللعبة على 60%، والموسيقى على 25%، وDiscord على 80%، والمتصفح على 40% - كل تطبيق له شريط تمرير خاص به. لا شيء ينزف في أي شيء آخر. يمكنك أيضًا كتم الصوت لكل تطبيق على الفور عندما يسيء أحد المصدر التصرف في منتصف البث، دون لمس التطبيق نفسه.</p>
+
+<h3>2. تعزيز مستوى الصوت للمصادر الهادئة</h3>
+<p>بعض التطبيقات والألعاب تكون هادئة للغاية حتى عند مستوى 100%. يؤدي تعزيز SoundDial لكل تطبيق إلى دفع المصدر إلى ما هو أبعد من سقفه الطبيعي، لذا فإن اللعبة الغامضة أو مقطع الفيديو منخفض الحجم موجود حيث تحتاج إليه في المزيج - بدون إعادة ترميز أو مكونات إضافية.</p>
+
+<h3>3. ملفات تعريف الصوت لمشاهد مختلفة</h3>
+<p>هذه هي الميزة التي توفر على القائمين بالبث معظم الوقت. يختلف مزيج "Just Chatting" (تشغيل الموسيقى وإيقاف اللعبة) عن مزيج "Boss Fight" (تشغيل اللعبة، موسيقى شبه صامتة)، والذي يختلف عن مزيج "BRB". احفظ كل منها كملف تعريف وقم بالتبديل بنقرة واحدة بدلاً من سحب أربعة أشرطة تمرير مباشرة.</p>
+
+<h3>4. التهرب التلقائي من صوت الموسيقى</h3>
+<p>يؤدي الخفض التلقائي إلى خفض صوت الخلفية تلقائيًا عند التحدث وإعادته عند التوقف. بالنسبة إلى القائمين بالبث الفردي، هذا هو الفرق بين التعليق الواضح والموسيقى التي تخفي صوتك باستمرار - يتم التعامل معها تلقائيًا بدلاً من التعامل معها يدويًا.</p>
+
+<h2>حيث يناسب OBS</h2>
+<p>OBS هي أداة البث الخاصة بك، وليست أداة مزج الصوت على سطح المكتب. يتحكم OBS في المستويات التي تدخل في البث من خلال لوحة Audio Mixer والمرشحات، ولكنه يعمل من مصادر الصوت التي يلتقطها - ولا يصل إلى تطبيقات macOS الفردية ويخفضها على مستوى النظام. في Mac، كان الحصول على صوت نظيف لسطح المكتب لكل تطبيق في OBS هو الجزء المؤلم دائمًا.</p>
+<p>سير العمل العملي: استخدم SoundDial لتعيين المستويات الفعلية لكل تطبيق على Mac بحيث يكون ما يخرج متوازنًا بالفعل، ثم اسمح لـ OBS بالتقاط مستويات البث وضبطها. اضبط المزيج مرة واحدة عند المصدر وسيكون لدى OBS أقل بكثير ليقاتل معه. كما يتيح لك التبديل السريع للإخراج في SoundDial التنقل بين سماعات الرأس ومكبرات الصوت دون الغوص في إعدادات النظام بين المشاهد.</p>
+
+<h2>SoundDial مقابل البدائل</h2>
+<p>لديك خيارات، والصدق مهم هنا:</p>
+<ul>
+<li><strong>SoundSource (Rogue Amoeba، ~ 39 دولارًا)</strong> - درجة احترافية مع موازن صوت لكل تطبيق وتوجيه كامل للإخراج. إنه ممتاز، لكنه يكلف أكثر من الضعف، ويتطلب تنزيلًا مباشرًا، وتثبيت برنامج تشغيل التقاط الصوت. مبالغة إذا كنت تحتاج بشكل أساسي إلى مستويات نظيفة لكل تطبيق، والتعزيز، والتهرب.</li>
+<li><strong>Background Music (مجاني، مفتوح المصدر)</strong> - مفيد ومجاني حقًا، ولكنه يمكن أن يقترن بإصدارات macOS الأحدث، ولا يحتوي على أي تعزيز، ولا ملفات تعريف، ولا تهرب تلقائي - وهي الميزات الدقيقة التي يعتمد عليها القائمون على البث المباشر.</li>
+<li><strong>FineTune (تطبيق شريط القوائم مجاني ومفتوح المصدر)</strong> - تحكم خفيف الوزن لكل تطبيق، ولكنه مشروع مجتمعي بدون مجموعة الملفات الشخصية بالإضافة إلى التغاضي المصممة للبث المباشر.</li>
+<li><strong>eqMac (معادل مجاني + معزز)</strong> - جيد لتشكيل النغمات وتعزيزها، ولكنه مُعادل صوت، وليس خلاط بث لكل تطبيق.</li>
+</ul>
+<p>زاوية SoundDial: إنها أ <strong>14.99 يورو لمرة واحدة</strong> شراء على <a href="https://apps.apple.com/app/id6772792641">Mac App Store</a> - تمت مراجعته بواسطة Apple، ووضع الحماية، ويتم تثبيته بشكل نظيف بدون DMG ولا توجد برامج تشغيل صوت أو ملحقات النظام. هذا الجزء الأخير مهم بالنسبة للقائمين بالبث: عدد أقل من المكونات على مستوى kernel يعني عددًا أقل من الأعطال المفاجئة عندما يتم تحديث macOS في الليلة التي تسبق البث الخاص بك.</p>
+
+<h2>المقايضة الصادقة</h2>
+<p>إذا كنت بحاجة إلى معادل صوت من فئة البث وسلاسل توجيه معقدة، فإن SoundSource يستحق سعره. إذا كنت تريد أداة إصلاح مجانية ولا تمانع في الكسر العرضي، فإن Background Music أو FineTune ستفي بالغرض. ولكن إذا كنت تريد المزيج الذي يتطلبه البث فعليًا - مستويات لكل تطبيق، والتعزيز، وملفات تعريف المشهد المحفوظة، والتهرب التلقائي - من تثبيت App Store الآمن الذي ينجو من تحديثات macOS، فإن SoundDial هو المسار الأكثر مباشرة للحصول على المال.</p>
+
+<p><strong>هل أنت مستعد لإصلاح صوت البث الخاص بك؟</strong> احصل على <a href="https://apps.apple.com/app/id6772792641">SoundDial على Mac App Store</a> مقابل 14.99 يورو — اضبط مستويات الميكروفون واللعبة والموسيقى والتنبيه مرة واحدة، واحفظها كملفات شخصية، ودع التنصت التلقائي يبقي صوتك في المقدمة.</p>`,
+  },
+  "macos-tahoe-audio-crackling-popping-fix": {
+    slug: "macos-tahoe-audio-crackling-popping-fix",
+    title: "كيفية إصلاح طقطقة الصوت والظهور على macOS تاهو",
+    description: "طقطقة أو فرقعة الصوت بعد التحديث إلى macOS Tahoe 26؟ قم بإصلاحه عن طريق مطابقة معدل العينة، وإعادة ضبط CoreAudio، والتحقق من برنامج الترميز Bluetooth، ومسح تعارضات المكونات الإضافية. إليك الترتيب الكامل لاستكشاف الأخطاء وإصلاحها.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>غالبًا ما تكون الطقطقة والظهور بعد التحديث إلى macOS Tahoe 26 عبارة عن عدم تطابق في معدل العينة، أو تفاوض برنامج الترميز Bluetooth غير المستقر، أو عملية CoreAudio المتوقفة. قم بإصلاحه عن طريق مطابقة معدل عينة الإخراج في إعداد Audio MIDI وإعادة الضبط <code>coreaudiod</code>ونسيان سماعات الرأس Bluetooth وإعادة إقرانها، والخروج من مضيفي المكونات الإضافية الصوتية. العمل من خلالها بالترتيب أدناه.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — كيفية إصلاح طقطقة الصوت وظهوره في macOS Tahoe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ابدأ بالإصلاحات الرخيصة</h2>
+
+<p>قبل أن تتطرق إلى أي شيء تقني، استبعد الأمرين اللذين يحلان معظم الحالات في أقل من دقيقة:</p>
+
+<ul>
+<li><strong>أعد تشغيل Mac.</strong> يؤدي تحديث Tahoe إلى ترك برامج الصوت في حالة نصف ترحيل بشكل مدهش في كثير من الأحيان. تؤدي عملية إعادة التشغيل النظيفة إلى إعادة تحميل CoreAudio من البداية ومسح غالبية طقطقة ما بعد التحديث.</li>
+<li><strong>افصل جهاز الإخراج وأعد توصيله.</strong> إذا كان جهاز USB DAC أو قاعدة توصيل أو واجهة صوت، فافصله وانتظر بضع ثوانٍ ثم أعد الاتصال. جرب منفذ USB مختلفًا أيضًا، ومن الأفضل أن يكون منفذًا مباشرًا على Mac وليس من خلال لوحة وصل. تعد لوحات الوصل وشاشات العرض التي تمرر الصوت مصدرًا شائعًا للملوثات العضوية الثابتة.</li>
+</ul>
+
+<p>إذا نجا الضجيج من إعادة التشغيل، فهذه مشكلة في التكوين، وليس خللًا. يستمر في التقدم.</p>
+
+<h2>مطابقة معدل العينة (السبب الأكثر شيوعًا)</h2>
+
+<p>تأتي فرقعة Tahoe الكلاسيكية من عدم تطابق معدل العينة بين ما يريده جهازك وما يرسله macOS. عندما يقوم أحد التطبيقات بتشغيل صوت بتردد 44.1 كيلو هرتز ويكون النظام مقفلاً على 48 كيلو هرتز (أو العكس)، فإن إعادة التشكيل يمكن أن تتلعثم أو تنفجر.</p>
+
+<ul>
+<li>مفتوح <strong>إعداد الصوت MIDI</strong> (في التطبيقات → الأدوات المساعدة، أو ابحث في Spotlight).</li>
+<li>حدد جهاز الإخراج الخاص بك في الشريط الجانبي الأيسر.</li>
+<li>أنظر إلى <strong>التنسيق</strong> القائمة المنسدلة. حاول ضبطه على <strong>48000.0 هرتز، 2ch-24bit عدد صحيح</strong> والاختبار.</li>
+<li>إذا استمر الفرقعة، قم بالتبديل إلى <strong>44100.0 هرتز</strong> واختبار مرة أخرى.</li>
+<li>بالنسبة للواجهات، تأكد من أن معدل العينة يطابق معدل مشروع DAW الخاص بك.</li>
+</ul>
+
+<p>يؤدي تبديل التنسيق أيضًا إلى إجبار CoreAudio على إعادة التفاوض بشأن الاتصال، مما يؤدي وحده إلى إصلاح العديد من الحالات حتى عندما تعود إلى نفس القيمة.</p>
+
+<h2>إعادة تعيين CoreAudio</h2>
+
+<p>يعمل CoreAudio كبرنامج خفي في الخلفية يسمى <code>coreaudiod</code>. بعد إجراء تحديث رئيسي لـ macOS، يمكنه الاحتفاظ بحالة الجهاز التي لا معنى لها. إن إعادة تشغيله أمر آمن ويسري مفعوله على الفور، دون إعادة التشغيل.</p>
+
+<p>افتح Terminal وقم بتشغيل:</p>
+
+<blockquote><p><code>sudo killall coreaudiod</code></p></blockquote>
+
+<p>أدخل كلمة المرور الخاصة بك عندما يُطلب منك ذلك. سيتم قطع الصوت الخاص بك لمدة ثانية، ثم يتم إعادة تشغيل البرنامج الخفي تلقائيًا بسجل نظيف. هذا هو الإصلاح الأكثر فعالية للطقطقة التي تظهر فجأة على جهاز كان يعمل بشكل جيد قبل التحديث.</p>
+
+<h2>تحقق من سماعات الرأس وبرنامج الترميز Bluetooth</h2>
+
+<p>إذا حدث الطقطقة فقط على سماعات الرأس AirPods أو سماعات الرأس Bluetooth الأخرى، فعادةً ما تكون المشكلة هي التفاوض حول برنامج الترميز، وليس مكبرات الصوت لديك. تنخفض جودة الصوت اللاسلكي عندما يكون الاتصال مزدحمًا أو عندما يقع macOS في وضع الاتصال ذي النطاق الترددي المنخفض.</p>
+
+<ul>
+<li><strong>ننسى وإعادة إقران الجهاز.</strong> انتقل إلى إعدادات النظام → Bluetooth، وقم بإزالة سماعات الرأس، ثم قم بإقرانها مرة أخرى. يؤدي هذا إلى إعادة تعيين برنامج الترميز الذي تم التفاوض عليه.</li>
+<li><strong>انتبه لانخفاض وضع الاتصال.</strong> عندما يفتح أحد التطبيقات الميكروفون، تقوم macOS بتحويل سماعات الرأس Bluetooth إلى ملف تعريف ثنائي الاتجاه منخفض الجودة، والذي يبدو مقددًا. قم بإنهاء تطبيقات المؤتمرات والصوت التي لا تستخدمها وسيعود الإخلاص.</li>
+<li><strong>تقليل التدخل.</strong> ابتعد عن بيئات 2.4 جيجا هرتز المزدحمة وافصل أجهزة Bluetooth التي لا تحتاج إليها. تنتج فرقة الراديو المزدحمة فرقعة متقطعة.</li>
+<li><strong>قم بإيقاف تشغيل إدخال الميكروفون</strong> في إعدادات التطبيق إذا كنت تحتاج فقط إلى الاستماع، لذلك يحتفظ macOS بملف تعريف التشغيل عالي الجودة.</li>
+</ul>
+
+<h2>قم بإنهاء مضيفي المكونات الإضافية الصوتية وبرامج التشغيل الافتراضية</h2>
+
+<p>يعد برنامج الصوت التابع لجهة خارجية والذي يقوم بتثبيت ملحق النظام أو الجهاز الظاهري مخالفًا متكررًا بعد انتقال نظام التشغيل، لأن ملحقات kernel والصوت غالبًا ما تحتاج إلى التحديث لإصدار macOS جديد. تشمل المشتبه بهم أجهزة توجيه الصوت الافتراضية، وتطبيقات موازن الصوت، وأدوات الاسترجاع، والأدوات المساعدة القديمة المستندة إلى برنامج التشغيل.</p>
+
+<ul>
+<li>قم بإنهاء أي تطبيق للمعادل أو جهاز توجيه الصوت أو تطبيق الاسترجاع واختبر ما إذا كانت الطقطقة ستتوقف أم لا.</li>
+<li>تحقق من إعدادات النظام → عام → عناصر تسجيل الدخول &amp; ملحقات الصوت التي قد تحتاج إلى تحديث أو إزالة.</li>
+<li>قم بتحديث هذه التطبيقات إلى إصداراتها المتوافقة مع Tahoe، أو قم بإلغاء تثبيت التطبيقات التي لم تعد تستخدمها. تتعارض برامج تشغيل الصوت المكدسة بشكل متكرر مع بعضها البعض بعد إجراء تحديث رئيسي.</li>
+</ul>
+
+<p>إذا كان إنهاء أحد هذه التطبيقات يؤدي إلى إسكات الملوثات العضوية الثابتة، فقد وجدت الجاني. أعد تثبيت الإصدار الحالي أو اتركه.</p>
+
+<h2>تضييق نطاق الأمر: على مستوى النظام أم تطبيق واحد؟</h2>
+
+<p>اكتشف ما إذا كانت الضوضاء تحدث في كل مكان أم في برنامج معين فقط. قم بتشغيل ملف صوتي محلي، ثم مقطع فيديو على المتصفح، ثم تطبيق موسيقى. إذا حدث فرقعة في تطبيق واحد فقط، فإن الحل هو إعدادات الصوت الخاصة بهذا التطبيق أو التحديث، وليس macOS. إذا كان الأمر على مستوى النظام، فإن الخطوات المذكورة أعلاه هي المكان الذي تكمن فيه الإجابة.</p>
+
+<p>عندما لا تزال عالقًا، قم بالتشغيل في الوضع الآمن (اضغط باستمرار على زر الطاقة الموجود على Apple silicon، ثم اختر قرص بدء التشغيل أثناء الضغط على Shift). لا يقوم الوضع الآمن بتحميل أي ملحقات تابعة لجهات خارجية. إذا كان الصوت نظيفًا هناك، فإن عنصر تسجيل الدخول أو برنامج التشغيل هو السبب، ويمكنك إعادة تمكينهما واحدًا تلو الآخر للعثور عليه.</p>
+
+<h2>بمجرد أن يصبح الصوت نظيفًا</h2>
+
+<p>يعد Crackling مشكلة في برنامج التشغيل ومعدل العينة، لذا فإن الإصلاحات المذكورة أعلاه هي التي تحل المشكلة فعليًا. ولكن بمجرد استقرار التشغيل، قد تلاحظ وجود قيود مختلفة: لا يزال macOS لا يحتوي على خلاط صوت مدمج لكل تطبيق، كما هو الحال في Windows. لا يمكنك إيقاف تطبيق بصوت عالٍ دون خفض كل شيء.</p>
+
+<p>هذه هي الفجوة <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يملأ. إنه خلاط شريط قوائم يمنح كل تطبيق شريط تمرير مستوى الصوت الخاص به، وكتم صوت لكل تطبيق، وحتى زيادة مستوى الصوت للتطبيقات الهادئة، بالإضافة إلى التبديل السريع بين الإخراج. لن يحل هذا مشكلة الطقطقة، ولكن بمجرد أن يصبح الصوت سليمًا، يصبح التحكم اليومي أسهل بكثير.</p>
+
+<p>اتبع الخطوات المذكورة أعلاه بالترتيب، وابدأ بإعادة التشغيل والتحقق من معدل العينة. إذا كنت تريد لاحقًا تحكمًا حقيقيًا لكل تطبيق في إعداد الصوت النظيف لديك، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو شراء بقيمة 14.99 يورو لمرة واحدة على Mac App Store، في وضع الحماية بدون برامج تشغيل أو DMG للتثبيت.</p>`,
+  },
+  "airpods-stuttering-cutting-out-mac-tahoe": {
+    slug: "airpods-stuttering-cutting-out-mac-tahoe",
+    title: "AirPods التأتأة أو الانقطاع في Mac (Tahoe Fix)",
+    description: "AirPods التلعثم أو القطع أو إسقاط الصوت على macOS Tahoe هو دائمًا تقريبًا تداخل Bluetooth أو تبديل تلقائي. فيما يلي كيفية إعادة الاقتران وقطع ازدحام 2.4 جيجا هرتز وإيقاف عمليات التسليم التي تؤدي إلى انقطاع التشغيل.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>التلعثم أو التقطيع في AirPods على macOS Tahoe هو دائمًا تقريبًا تداخل Bluetooth، وليس سماعة رأس مكسورة. الأسباب المعتادة هي ازدحام شبكة Wi-Fi وجهاز التوجيه بتردد 2.4 جيجا هرتز، والتبديل التلقائي القوي للأجهزة، والاقتران الذي لا معنى له. أعد إقران AirPods، وأوقف تشغيل التبديل التلقائي، وابتعد عن قنوات 2.4 جيجا هرتز المزدحمة لإصلاح معظم الحالات.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial - AirPods التأتأة أو التقطيع على Mac (إصلاح تاهو)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يسقط AirPods على Mac على وجه التحديد</h2>
+
+<p>يستخدم AirPods Bluetooth، الذي يشارك نطاق الراديو المزدحم 2.4 جيجا هرتز مع شبكة Wi-Fi وأجهزة الميكروويف وأجهزة USB 3 وكل قابس ذكي في منزلك تقريبًا. يعد جهاز Mac الخاص بك بمثابة راديو مشغول: فهو يجمع بين ميزات Wi-Fi وBluetooth وAirDrop وContinuity على هوائيات متداخلة. عندما يصبح هذا النطاق مزدحمًا، فإن صوت Bluetooth هو أول شيء يتلعثم، لأنه لا يمكنه تحمل الحزم المسقطة بالطريقة التي يمكن بها نقل الملفات.</p>
+
+<p>لم يجعل Tahoe جهاز AirPods الخاص بك أسوأ بطريقة سحرية، ولكن تثبيت macOS الجديد غالبًا ما يعيد ضبط سلوك الراديو، ويعيد تمكين عمليات التسليم المستمرة، ويعيد التفاوض بشأن برامج الترميز. ولهذا السبب يبدو أن المشاكل تظهر مباشرة بعد التحديث. الخبر السار: الإصلاحات مفهومة جيدًا ومعظمها مجاني.</p>
+
+<h2>الإصلاح 1: إعادة إقران AirPods (قم بذلك أولاً)</h2>
+
+<p>ينجو الاقتران القديم أو التالف من عمليات إعادة التشغيل ويسبب قطرات متقطعة تبدو عشوائية. إزالة الاتصال بالكامل وإعادة إضافته:</p>
+
+<ul>
+<li>مفتوح <strong>إعدادات النظام، Bluetooth</strong>.</li>
+<li>انقر فوق زر المعلومات (i) بجوار AirPods واختر <strong>ننسى هذا الجهاز</strong>.</li>
+<li>ضع AirPods في علبتهم، وأغلق الغطاء، وانتظر 15 ثانية، ثم افتحه.</li>
+<li>استمر في الضغط على الزر الموجود في الجزء الخلفي من العلبة حتى يومض الضوء باللون الأبيض.</li>
+<li>أعد الاقتران من قائمة Bluetooth.</li>
+</ul>
+
+<p>أثناء تواجدك هناك، تأكد من تحديث البرنامج الثابت AirPods. لا يوجد مُحدِّث يدوي، ولكن تركها في العلبة بالقرب من جهاز iPhone أو Mac المتصل لفترة من الوقت يسمح لها بالتحديث في الخلفية.</p>
+
+<h2>الإصلاح 2: إيقاف التبديل التلقائي</h2>
+
+<p>هذا هو السبب الأكبر منفردًا لـ "الاستغناء" عن الأشخاص في نظام Apple البيئي. يحاول AirPods متابعتك بين Mac وiPhone وiPad. في كل مرة يعتقد هاتفك أنه يجب أن يلتقط الصوت، يتعطل الاتصال على Mac، مما ينتج عنه انقطاع لمدة نصف ثانية في منتصف البث الصوتي.</p>
+
+<ul>
+<li>في Mac: Bluetooth، انقر فوق (i) بجوار AirPods، وقم بتعيين <strong>الاتصال بهذا Mac</strong> ل <strong>عند آخر اتصال بهذا Mac</strong> بدلاً من تلقائياً.</li>
+<li>على iPhone: الإعدادات، اضغط على AirPods، <strong>الاتصال بهذا iPhone</strong>، اختر <strong>عند آخر اتصال بجهاز iPhone هذا</strong>.</li>
+</ul>
+
+<p>يؤدي هذا إلى إيقاف لعبة شد الحبل بين الأجهزة. ستختار يدويًا المكان الذي ينتقل إليه الصوت، وهو سعر بسيط للتشغيل الثابت.</p>
+
+<h2>الإصلاح 3: قطع ازدحام 2.4 جيجا هرتز</h2>
+
+<p>إذا حدث انقطاع أثناء مكالمات الفيديو، أو التنزيلات، أو عندما يقوم أشخاص آخرون بالبث، فهذا يعني أن نطاق الراديو الخاص بك مشبع. بعض التحركات العملية:</p>
+
+<ul>
+<li><strong>استخدم نطاق Wi-Fi 5 جيجا هرتز</strong> على Mac الخاص بك. في إعدادات جهاز التوجيه الخاص بك، قم بتسمية شبكة 5 جيجا هرتز اسمًا مميزًا واتصل بها. يؤدي هذا إلى تحرير النطاق 2.4 جيجا هرتز لـ Bluetooth.</li>
+<li><strong>انقل لوحات وصل USB 3 وThunderbolt بعيدًا</strong> من Mac وAirPods. USB 3 هو مصدر ضوضاء 2.4 جيجا هرتز سيئ السمعة؛ يمكن للمحور الموجود بجوار الكمبيوتر المحمول الخاص بك أن يدمر Bluetooth من على بعد بوصات.</li>
+<li><strong>قم بتغيير قناة 2.4 جيجا هرتز لجهاز التوجيه الخاص بك</strong> إلى 1 أو 6 أو 11 (الخيارات غير المتداخلة) وتجنب القنوات المزدحمة التي يستخدمها جيرانك.</li>
+<li><strong>حافظ على خط البصر.</strong> الأجسام والجدران تمتص 2.4 جيجا هرتز. إذا كان Mac خلفك أو في حقيبة، فإن السقوط يصبح أسوأ.</li>
+</ul>
+
+<blockquote>يمكن أن تساعد أجهزة توجيه Wi-Fi 6E وWi-Fi 7 بشكل غير مباشر: يؤدي دفع أجهزتك إلى 6 جيجا هرتز إلى مسح النطاق 2.4 جيجا هرتز الذي يعتمد عليه Bluetooth. لكن الشبكة سيئة التكوين والتي تستمر في توجيهك مرة أخرى إلى 2.4 جيجا هرتز يمكن أن تجعل الأمور أسوأ. تحقق من الفرقة التي تستخدمها بالفعل.</blockquote>
+
+<h2>الإصلاح 4: إعادة تعيين Bluetooth ومكدس الاستمرارية</h2>
+
+<p>إذا لم تتم إعادة الاقتران، فأعد ضبط أجهزة الراديو نفسها:</p>
+
+<ul>
+<li>قم بإيقاف تشغيل Bluetooth وتشغيله من شريط القائمة، ثم أعد تشغيل Mac. تؤدي عملية إعادة التشغيل إلى مسح عدد مذهل من مواطن الخلل الصوتية العابرة.</li>
+<li>أعد ضبط SMC/NVRAM على Intel Macs، أو ببساطة قم بإيقاف التشغيل بالكامل (وليس إعادة التشغيل) لمدة 30 ثانية على Apple Silicon.</li>
+<li>إذا كنت لا تستخدم AirDrop أو Handoff، فإن تعطيل Handoff في إعدادات النظام، عام، يؤدي AirDrop &amp; Handoff إلى تقليل أحاديث الراديو في الخلفية.</li>
+</ul>
+
+<h2>ما الذي لن يصلح المشكلة (وما يفعله خلاط الصوت فعليًا)</h2>
+
+<p>لكي نكون واضحين بشأن النطاق: لا يمثل أي من هذا مشكلة في حجم البرنامج، ولا يمكن لأي تطبيق حجم إصلاح رابط Bluetooth. إذا كان الصوت الخاص بك <em>اسقاط</em>، مطاردة قضية الراديو أعلاه. تطبيقات مثل <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> التحكم في مستوى الصوت لكل تطبيق، وكتم الصوت، وتبديل الإخراج، فهي لا تلمس مجموعة Bluetooth، لذلك لن تتوقف عن التأتأة. حيث يساعد الخلاط حقًا في الإزعاج المجاور الذي يخلط العديد من مستخدمي AirPods مع المتسربين: أحد التطبيقات ينفجر بينما يكون الآخر هادئًا للغاية، أو يحتاج إلى القفز بين المخرجات بسرعة. هذه مشكلة في توازن الحجم، وليست مشكلة في الاتصال.</p>
+
+<p>تشخيص بصراحة. إذا انقطع الصوت لإيقاع معين ثم عاد، فهذا تداخل أو تبديل تلقائي. إذا كانت المستويات غير متساوية بين التطبيقات، فهذه مشكلة خلط يمكنك حلها بالفعل باستخدام البرامج.</p>
+
+<h2>قائمة مرجعية سريعة</h2>
+
+<ul>
+<li>ننسى وأعد إقران AirPods.</li>
+<li>قم بتعيين كلاً من Mac وiPhone على <strong>عند آخر اتصال</strong>، وليس تلقائيا.</li>
+<li>انقل Mac إلى شبكة Wi-Fi بسرعة 5 جيجا هرتز؛ احتفظ بمحاور USB 3 بعيدًا.</li>
+<li>اضبط 2.4 جيجا هرتز على القناة 1 أو 6 أو 11.</li>
+<li>أعد التشغيل بعد تبديل Bluetooth.</li>
+</ul>
+
+<p>بمجرد انتهاء عمليات التسرب والرغبة في التحكم بشكل أفضل في مدى ارتفاع صوت كل تطبيق، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يضيف خلاط الصوت المناسب لكل تطبيق، وكتم الصوت، والتعزيز، والتبديل السريع للإخراج الذي لا يزال macOS لا يتضمنه. إنها عملية شراء لمرة واحدة بقيمة 14.99 يورو على Mac App Store، في وضع الحماية، بدون أي برامج تشغيل لتثبيتها.</p>`,
+  },
+  "mac-right-speaker-not-working-after-tahoe": {
+    slug: "mac-right-speaker-not-working-after-tahoe",
+    title: "هل مات المتحدث الصحيح على Mac بعد تحديث تاهو؟ كيفية اصلاحها",
+    description: "توقف مكبر صوت أو قناة واحدة عن العمل بعد التحديث إلى macOS Tahoe؟ ابدأ باستخدام شريط تمرير توازن الصوت، ثم قم بإعادة ضبط Core Audio، وجرب الوضع الآمن، واستبعد الأجهزة. دليل واضح لاستكشاف الأخطاء وإصلاحها.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا أصبح مكبر الصوت الأيمن صامتًا بعد التحديث إلى macOS Tahoe، فتحقق من الصوت <strong>منزلق التوازن</strong> أولاً - يمكن أن يتغير أثناء التحديث. انتقل إلى إعدادات النظام &gt; إخراج الصوت &gt; وتأكد من أن التوازن يقع في المركز الميت. إذا كان الأمر جيدًا، فأعد تشغيل Core Audio، وقم بالتمهيد إلى الوضع الآمن، ثم استبعد الأجهزة. معظم الحالات هي البرمجيات.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — المتحدث الصحيح ميت على Mac بعد تحديث تاهو؟ كيفية اصلاحها" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>أولاً: شريط تمرير التوازن (يصلح هذه المشكلة أكثر مما تعتقد)</h2>
+
+<p>يعد شريط تمرير التوازن المتوقف أو المتغير هو السبب الوحيد الأكثر شيوعًا لهدوء إحدى القنوات - وتقوم تحديثات macOS بدفعه أحيانًا. قبل أن تفترض الأسوأ:</p>
+
+<ul>
+<li>مفتوح <strong>إعدادات النظام الصوت &gt;</strong>.</li>
+<li>انقر فوق <strong>الإخراج</strong> انقر فوق علامة التبويب وحدد مكبرات الصوت (المدمجة أو جهازك الخارجي).</li>
+<li>ابحث عن <strong>التوازن</strong> شريط التمرير واسحبه إلى المركز الدقيق. إذا تم سحبها إلى اليسار، فستبدو قناتك اليمنى ميتة.</li>
+</ul>
+
+<p>افعل هذا <em>لكل جهاز الإخراج</em>. يتم تذكر إعداد التوازن بشكل منفصل لمكبرات الصوت وسماعات الرأس وكل واجهة خارجية - لذا فإن التوازن المدمج المركزي لن يساعد إذا كانت المشكلة في USB DAC.</p>
+
+<h2>اختبر ما إذا كانت قناة أجهزة بالفعل</h2>
+
+<p>حكم الأجهزة داخل أو خارج بسرعة. قم بتشغيل مقطوعة استريو تعرفها جيدًا، ثم قم بتوصيل زوج من سماعات الرأس السلكية. إذا كانت كلتا القناتين تعملان في سماعات الرأس ولكن ليس من خلال مكبرات الصوت، فإن المشكلة تكمن في الجزء السفلي من محرك الصوت (جهاز مكبر الصوت أو مسار الإخراج). إذا كانت نفس القناة معطلة في سماعات الرأس أيضًا، فمن المرجح أن يكون ذلك برنامجًا أو برنامج ترميز الصوت الخاص بلوحة المنطق.</p>
+
+<p>يمكنك أيضًا فتح <strong>موسيقى</strong> أو QuickTime، قم بتشغيل شيء ما، وقم بتبديل التوازن إلى أقصى اليسار، ثم إلى اليمين. إذا تحرك الصوت بشكل واضح بين القنوات، فهذا يعني أن كلا السماعتين يعملان وهذه مشكلة في الإعدادات فقط.</p>
+
+<h2>أعد تشغيل الصوت الأساسي</h2>
+
+<p>يقوم macOS بتوجيه كل الأصوات عبر <strong>com.coreaudiod</strong> عملية. بعد إجراء تحديث رئيسي، يمكن أن تصبح حالته مثبتة - تختفي المخرجات، أو تنخفض القنوات، أو يتصرف مستوى الصوت بشكل غريب. إعادة تشغيله أمر آمن ويجبر macOS على إعادة بناء الرسم البياني الصوتي:</p>
+
+<ul>
+<li>مفتوح <strong>Terminal</strong> (تطبيقات المرافق &gt;).</li>
+<li>تشغيل: <code>sudo killall coreaudiod</code></li>
+<li>أدخل كلمة المرور الخاصة بك. تتم إعادة تشغيل البرنامج الخفي الصوتي تلقائيًا خلال ثانية أو ثانيتين.</li>
+</ul>
+
+<p>لا يتم حذف أي شيء — يؤدي هذا فقط إلى إعادة تشغيل النظام الفرعي للصوت. اختبر مكبر الصوت الأيمن مرة أخرى بعد ذلك مباشرة.</p>
+
+<h2>أعد التشغيل بشكل صحيح، ثم حاول الوضع الآمن</h2>
+
+<p>تعمل إعادة التشغيل الكاملة على إزالة مواطن الخلل الصوتية العابرة التي لن تحدثها عملية القتل. إذا كانت القناة لا تزال ميتة، قم بالتمهيد <strong>الوضع الآمن</strong>، الذي يقوم بتحميل الحد الأدنى من النظام ويتخطى الملحقات الصوتية وعناصر تسجيل الدخول التابعة لجهات خارجية:</p>
+
+<ul>
+<li><strong>أبل السيليكون:</strong> اغلاق. استمر في الضغط على زر الطاقة حتى تظهر عبارة "جارٍ تحميل خيارات بدء التشغيل". حدد القرص الخاص بك، ثم اضغط باستمرار <strong>التحول</strong> وانقر على "متابعة في الوضع الآمن".</li>
+<li><strong>إنتل:</strong> أعد التشغيل مع الاستمرار <strong>التحول</strong> حتى تظهر نافذة تسجيل الدخول.</li>
+</ul>
+
+<p>إذا كان كلا مكبري الصوت يعملان في الوضع الآمن، فإن برنامج تشغيل الصوت التابع لجهة خارجية، أو الجهاز الظاهري، أو الأداة المساعدة لشريط القائمة التي تم تثبيتها قبل التحديث يتعارض مع حزمة الصوت الجديدة من Tahoe. قم بالتمهيد مرة أخرى إلى الوضع الطبيعي وقم بإزالة أو تحديث برامج الصوت التي تم تثبيتها مؤخرًا (تعد مسجلات الشاشة وتطبيقات الاجتماعات ونصوص توجيه الصوت من الأسباب الشائعة).</p>
+
+<h2>إعادة ضبط NVRAM (Intel Macs فقط)</h2>
+
+<p>في معالجات Intel Mac، توجد إعدادات الصوت ومكبر الصوت في NVRAM/PRAM، ويمكن أن تظل القيمة القديمة قائمة بعد التحديث. أعد ضبطه: قم بإيقاف التشغيل، ثم قم بتشغيله واستمر في الضغط عليه على الفور <strong>الخيار + القيادة + P + R</strong> لمدة 20 ثانية تقريبًا، مع السماح بإعادة تشغيل Mac مرة واحدة. لا ينطبق هذا على أجهزة Apple Silicon Mac - فهي تدير هذا تلقائيًا، لذا قم بتخطيه إذا كنت تستخدم جهازًا من السلسلة M.</p>
+
+<h2>قم بالتحديث مرة أخرى - وتحقق من إصدار النقطة</h2>
+
+<p>الإصدارات المبكرة من أي إصدار رئيسي من macOS تأتي مع أخطاء في برنامج تشغيل الصوت والتي يتم تصحيحها لاحقًا. توجه الى <strong>إعدادات النظام &gt; تحديث عام لبرنامج &gt;</strong> وقم بتثبيت أي إصدار معلق لنقطة Tahoe (14.x.1، 14.x.2، وما إلى ذلك). في حالة وجود تحديث تكميلي، فإنه غالبًا ما يعالج هذه الانحدارات الصوتية بعد التحديث بالضبط.</p>
+
+<h2>عندما يتعلق الأمر بالأجهزة حقًا</h2>
+
+<p>إذا فشل الوضع الآمن، وإعادة تشغيل Core Audio، وإعادة التثبيت النظيف - وكانت نفس القناة معطلة في سماعات الرأس - فقد تكون تبحث عن خطأ في الجهاز. يمكن أن يكون التوقيت مع التحديث محض صدفة؛ تفشل مكبرات الصوت وبرامج ترميز الصوت. تشغيل <strong>تشخيصات أبل</strong> (قم بإيقاف التشغيل، ثم اضغط مع الاستمرار على زر الطاقة في Apple Silicon واختر التشخيصات، أو اضغط مع الاستمرار <strong>د</strong> على إنتل عند بدء التشغيل). إذا قام بوضع علامة على مكون صوتي، فاتصل به <strong>دعم أبل</strong> أو مزود الخدمة المعتمد. لا تنفق المال على البرامج الخاصة بمكبر الصوت المنفوخ.</p>
+
+<blockquote>القاعدة الأساسية السريعة: إذا تم تشغيل الصوت بشكل صحيح باستخدام شريط تمرير التوازن، فإن كلا السماعتين يعملان بشكل جيد جسديًا والحل موجود في البرنامج. إذا لم ينتقل أبدًا إلى الجانب الميت، فاشتبه في وجود أجهزة.</blockquote>
+
+<h2>أين يناسب برنامج الحجم (وأين لا يناسبه)</h2>
+
+<p>للتوضيح: قناة السماعة الميتة ليست شيئًا يعمل تطبيق الصوت على إصلاحه - فالفحوصات المذكورة أعلاه هي المسار الخاص بك. ومع ذلك، بمجرد أن يصبح الصوت سليمًا مرة أخرى، لا يزال macOS يفتقر إلى شيء كان لدى Windows لسنوات: خلاط حجم حقيقي لكل تطبيق. إذا وجدت نفسك تقوم بالتنقيب في إعدادات الصوت لأن أحد التطبيقات كان يعمل بينما كان الآخر هادئًا جدًا، فمثلًا خلاط شريط القوائم <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتيح لك ضبط مستوى الصوت المستقل، وكتم الصوت، وحتى التعزيز لكل تطبيق دون المساس بتوازن النظام لديك. إنها أداة ملائمة للخلط اليومي، وليست حلاً للمشكلة المذكورة في هذه المقالة.</p>
+
+<h2>النسخة القصيرة</h2>
+
+<ul>
+<li>مركز <strong>التوازن</strong> شريط التمرير - لكل جهاز إخراج.</li>
+<li>اختبار مع سماعات الرأس لعزل الأجهزة.</li>
+<li>تشغيل <code>sudo killall coreaudiod</code>، ثم أعد التشغيل.</li>
+<li>حاول <strong>الوضع الآمن</strong> للقبض على صراعات السائق.</li>
+<li>إعادة ضبط NVRAM على Intel؛ تثبيت أي إصدار نقطة تاهو.</li>
+<li>لا يزال ميتا في سماعات الرأس؟ قم بتشغيل Apple Diagnostics واتصل بـ Apple.</li>
+</ul>
+
+<p>بمجرد عودة مكبرات الصوت إلى وضعها الطبيعي، إذا كان التحكم في مستوى الصوت لكل تطبيق يمثل إزعاجًا يوميًا، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يضيف الخلاط macOS كان مفقودًا دائمًا - 14.99 يورو، لمرة واحدة، في وضع الحماية، بدون برامج تشغيل.</p>`,
+  },
+  "airpods-stuck-at-half-volume-mac-fix": {
+    slug: "airpods-stuck-at-half-volume-mac-fix",
+    title: "AirPods عالق في نصف مستوى الصوت على جهاز Mac؟ هنا هو الإصلاح",
+    description: "لماذا يتصل AirPods بجهاز Mac الخاص بك بنصف مستوى الصوت - عادةً ما يكون برنامج الترميز Bluetooth يقوم بالتبديل إلى ملف تعريف الميكروفون بدون استخدام اليدين - بالإضافة إلى إصلاحات إعادة الاقتران وكيفية تعزيز المستوى احتياطيًا للأبد.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>عادةً ما ينخفض مستوى الصوت في AirPods إلى نصف مستوى الصوت في Mac لأن macOS قام بتحويلها من ملف تعريف الصوت A2DP عالي الجودة إلى ملف تعريف التحدث الحر منخفض الجودة (HFP) - وهو الملف المصمم لاستخدام ميكروفون المكالمات الهاتفية. هذا الوضع يحد من الإنتاج والجودة. قم بإصلاحه عن طريق إجبار Mac على العودة إلى صوت سماعة الرأس فقط، ثم قم بتعزيز المستوى لإبقائه هناك.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — هل AirPods عالق بنصف الحجم على جهاز Mac؟ هنا هو الإصلاح" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يحدث هذا: مفتاح الترميز</h2>
+
+<p>تعمل أجهزة الصوت Bluetooth مثل AirPods في أحد الوضعين. عندما تستمع فقط، تستخدم macOS A2DP — استريو كامل، وصوت عالٍ، وجودة نظيفة. ولكن في اللحظة التي يريد فيها التطبيق الحصول على الميكروفون الخاص بك، يقوم macOS بتحويل الاتصال بالكامل إلى HFP (ملف تعريف حر اليدين). HFP هو برنامج ترميز هاتفي ثنائي الاتجاه. يبدو نحيفًا وأحاديًا وأكثر هدوءًا بشكل ملحوظ، لأنه مصمم للمكالمات الصوتية، وليس للموسيقى.</p>
+
+<p>المشكلة هي أن macOS غالبًا ما يظل عالقًا في HFP حتى بعد الانتهاء من التطبيق الذي أمسك بالميكروفون - أو يتحول إليه بمجرد فتح Zoom، أو FaceTime، أو Teams، أو Discord، أو علامة تبويب المتصفح بإذن الميكروفون. لذا فإن صوت AirPods الخاص بك يبدو وكأنه في "نصف مستوى الصوت" ليس بسبب تحرك شريط تمرير مستوى الصوت، ولكن لأن ملف الصوت بأكمله انخفض إلى مستوى أدنى منك.</p>
+
+<p>ستتعرف عليه: يصبح الصوت هادئًا ومكتومًا فجأة، ويظهر AirPods مرتين في إعدادات الصوت لديك (مرة كإخراج، ومرة كميكروفون)، ولا يساعد رفع مستوى صوت النظام بالكامل.</p>
+
+<h2>حلول إعادة الاقتران والترميز</h2>
+
+<p>هذه هي الخطوات الأولى الصادقة. اعمل من خلالها بالترتيب - عادةً ما يقوم أحد الأشخاص الأوائل بمسحها.</p>
+
+<ul>
+<li><strong>تغيير جهاز الإدخال الخاص بك.</strong> افتح إعدادات النظام → الصوت → الإدخال واختر الميكروفون المدمج في Mac بدلاً من AirPods. يؤدي هذا إلى منع macOS من الضغط على AirPods في وضع HFP، لذلك يمكن أن يعود الإخراج مرة أخرى إلى جودة A2DP الكاملة. هذا هو الحل الوحيد الأكثر فعالية.</li>
+<li><strong>قم بتبديل Bluetooth إلى وضع الإيقاف والتشغيل.</strong> غالبًا ما تؤدي إعادة التعيين السريع للاتصال إلى إعادة التفاوض على A2DP بشكل نظيف، خاصة إذا تعطل AirPods بعد انتهاء المكالمة.</li>
+<li><strong>أعد توصيل AirPods.</strong> أغلق العلبة، وانتظر بضع ثوانٍ، ثم أعد فتحها بالقرب من Mac، وأعد تحديدها كجهاز الإخراج.</li>
+<li><strong>قم بإنهاء التطبيق الذي أمسك بالميكروفون.</strong> قم بإنهاء Zoom أو Teams أو Discord أو علامة تبويب المتصفح هذه بشكل كامل. تبقي بعض التطبيقات جلسة الميكروفون مفتوحة في الخلفية وتثبت HFP حتى تختفي.</li>
+<li><strong>إعادة الاقتران من الصفر.</strong> قم بإزالة AirPods ضمن إعدادات النظام → Bluetooth (انقر فوق زر المعلومات → نسيت هذا الجهاز)، ثم قم بإقرانه مرة أخرى. يؤدي هذا إلى مسح مفاوضات الملف الشخصي التالفة والتي لن يتم إصلاحها عن طريق التبديل وحده.</li>
+<li><strong>إعادة تعيين AirPods.</strong> مع فتح غطاء العلبة، اضغط مع الاستمرار على زر الإعداد في الخلف حتى يومض الضوء باللون الكهرماني ثم الأبيض. أعد الاقتران بعد ذلك. هذا هو الخيار النووي للغرابة على مستوى البرامج الثابتة.</li>
+<li><strong>قم بتحديث البرامج الثابتة macOS وAirPods.</strong> قامت Apple بشحن إصلاحات الصوت Bluetooth في إصدارات النقاط. يتم تحديث البرامج الثابتة AirPods بصمت عند شحنها بالقرب من جهاز متصل - لذا اتركها في العلبة بالقرب من Mac طوال الليل.</li>
+</ul>
+
+<blockquote><p>النمط الذي يجب مراقبته: إذا انخفض مستوى الصوت في اللحظة التي تنضم فيها إلى مكالمة ثم استعاد مستوى الصوت عند انتهاء المكالمة، فهذا يعني أن مفتاح HFP - وليس مكبر صوت معطلاً أو خلل في الإعدادات.</p></blockquote>
+
+<h2>لماذا لا تلتزم الإصلاحات دائمًا</h2>
+
+<p>وهنا الجزء المحبط. حتى بعد إعادة الاقتران، ستقوم macOS بسعادة بتحويل AirPods مرة أخرى إلى الوضع الهادئ بدون استخدام اليدين في المرة التالية التي يلمس فيها أي تطبيق الميكروفون. لا يمكنك تعطيل هذا السلوك بشكل دائم في إعدادات النظام، حيث تتعامل Apple معه على أنه تلقائي. لذلك ينتهي بك الأمر إلى إعادة تنفيذ خدعة جهاز الإدخال عدة مرات في اليوم، وفي أي لحظة يكون فيها AirPods في مكالمة أو تطبيق متعطش للميكروفون، يتم تقييده عند هذا المستوى الأدنى مرة أخرى.</p>
+
+<p>هناك أيضًا مشكلة ثانية منفصلة يخلطها الأشخاص مع هذه المشكلة: بعض التطبيقات أكثر هدوءًا من غيرها عند الحد الأقصى لحجم النظام. يمكن أن يكون مشغل البودكاست أو علامة تبويب المتصفح أقل بكثير مما تريده أذنيك، حتى عندما يكون AirPods يعمل بنظام A2DP نظيف. يمنحك macOS شريط تمرير واحد لمستوى الصوت لكل شيء ولا يوجد تحكم لكل تطبيق، لذلك لا توجد طريقة أصلية لدفع تطبيق واحد هادئ احتياطيًا.</p>
+
+<h2>قم بتعزيز المستوى احتياطيًا - واحتفظ به هناك</h2>
+
+<p>هذا هو المكان الذي يكتسب فيه خلاط الصوت لكل تطبيق مكانه. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو تطبيق شريط قوائم لـ macOS يمنح كل تطبيق قيد التشغيل شريط تمرير مستقل خاص به لمستوى الصوت - بما في ذلك زيادة تزيد عن 100%. لذا، عندما يعود AirPods من مكالمة بمستوى فعالية أقل، أو عندما يكون تطبيق معين هادئًا للغاية، فإنك تسحب هذا التطبيق إلى ما بعد السقف العادي ويبقى هناك.</p>
+
+<p>ويعني ذلك بشكل ملموس:</p>
+
+<ul>
+<li><strong>زيادة حجم الصوت لكل تطبيق.</strong> ادفع تطبيقًا هادئًا أعلى من الحد الأقصى القياسي بدلاً من الضغط عليه لسماعه بمستوى صوت النظام "الكامل".</li>
+<li><strong>ملفات تعريف الحجم.</strong> احفظ مجموعة من المستويات — متصفح معزز، وموسيقى هادئة، ومكالمات فيديو عالية الصوت — وقم بتبديل الترتيب بالكامل بنقرة واحدة حتى لا تضطر إلى إعادة الضبط بعد كل عملية إعادة اتصال.</li>
+<li><strong>التبديل السريع للإخراج.</strong> انتقل بين AirPods ومكبرات صوت الكمبيوتر المحمول وDAC خارجي من شريط القائمة دون البحث في إعدادات النظام، مما يساعدك عندما تفرض مفاوضات ملف تعريف جديدة.</li>
+<li><strong>كتم الصوت لكل تطبيق والتهرب التلقائي.</strong> قم بإسكات تطبيق واحد دون لمس الباقي، واترك الوسائط تنخفض تلقائيًا عند تشغيل شيء أكثر أهمية.</li>
+</ul>
+
+<p>من الجدير أن نكون واضحين بشأن ما يفعله هذا وما لا يفعله. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> لن يجبر macOS على البقاء في A2DP - فخدعة جهاز الإدخال المذكورة أعلاه لا تزال هي أداتك لبرنامج الترميز نفسه. ما يفعله هو إرجاع جهارة الصوت التي سرقها الرجوع إلى إصدار سابق لكل تطبيق، لذا فإن جلسة AirPods الهادئة أو التطبيق الناعم العنيد هو إصلاح بسحب واحد بدلاً من قضية خاسرة. ولأنه تطبيق Mac App Store في وضع الحماية، فلا يوجد برنامج تشغيل صوت لتثبيته، ولا DMG، ولا امتداد kernel - فهو يعمل فقط.</p>
+
+<h2>النسخة القصيرة</h2>
+
+<p>إذا كان صوت AirPods الخاص بك هادئًا ومكتومًا على Mac، فقم بإيقاف تشغيل جهاز الإدخال الخاص بك عن AirPods لإجبارهم على الخروج من وضع التحدث الحر، وأعد الإقران إذا فشل ذلك. عندما لا يصل المستوى إلى المكان الذي تريده - أو يكون تطبيق واحد ضعيفًا جدًا - يمكنك الوصول إلى التعزيز لكل تطبيق بحيث يمكنك تعيينه مرة واحدة والمضي قدمًا.</p>
+
+<p>هل سئمت من محاربة شريط تمرير الصوت في كل مرة تقوم فيها بإجراء مكالمة؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو لمرة واحدة، بدون اشتراك أو برامج تشغيل - ومنح كل تطبيق حجمه الخاص.</p>`,
+  },
+  "mac-volume-resets-itself-tahoe-bug": {
+    slug: "mac-volume-resets-itself-tahoe-bug",
+    title: "هل يستمر حجم Mac في إعادة ضبط نفسه على تاهو؟ كيفية قفله للأبد",
+    description: "منذ macOS Tahoe، قامت العديد من Mac فجأة بتغيير أو إعادة ضبط مستوى الصوت من تلقاء نفسها. وإليك سبب حدوث ذلك، وكيفية إيقاف الأسباب المضمنة، وكيفية قفل حجم ثابت لكل تطبيق حتى يظل في مكانه.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا استمر مستوى الصوت Mac في إعادة ضبط نفسه منذ macOS Tahoe، فإن الحل هو التخلص من أدوات الضبط التلقائية: تعطيل خفض الصوت و"تشغيل الصوت عند بدء التشغيل"، وإعادة ضبط إعدادات الصوت، وإعادة توصيل أي مخرج Bluetooth بشكل نظيف. بالنسبة للمستويات التي يتم التنقل بينها لكل تطبيق، قم بتأمين مستوى صوت ثابت لكل تطبيق باستخدام جهاز مزج الأصوات حتى لا ينحرف أبدًا مرة أخرى.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — حجم الصوت Mac يستمر في إعادة ضبط نفسه على تاهو؟ كيفية قفله للأبد" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يتغير حجم صوتك من تلقاء نفسه بعد تاهو؟</h2>
+
+<p>يبدو الحجم الذي يتحرك دون أن تلمسه وكأنه خطأ في الأجهزة، ولكن دائمًا ما يكون البرنامج هو الذي يحدد مستواك نيابةً عنك. يحتوي macOS على العديد من السلوكيات التلقائية التي تعمل على دفع أو إعادة ضبط الإخراج بهدوء، وقد أدت تغييرات مكدس الصوت في Tahoe إلى جعل القليل منها أكثر وضوحًا. قبل أن تفترض أن التطبيق أو Mac معطل، فمن المفيد أن تعرف بالضبط النظام الذي يمسك شريط التمرير.</p>
+
+<ul>
+<li><strong>التغاضي عن الصوت:</strong> يقوم macOS بخفض الأصوات الأخرى عندما يعتقد أنه يتم تشغيل شيء أكثر أهمية (Siri، إعلانات إمكانية الوصول، الإشعارات). بعد انتهاء الزناد، لا يعود المستوى في بعض الأحيان إلى الخلف.</li>
+<li><strong>إعادة ضبط المصافحة Bluetooth:</strong> تقوم أجهزة AirPods وأجهزة Bluetooth الأخرى بإعادة التفاوض بشأن مستوى الصوت عند الاتصال. يمكن أن تؤدي إعادة الاتصال في منتصف الجلسة إلى تحويل الإخراج إلى الوضع الافتراضي أو إلى مستوى أعلى/أكثر هدوءًا.</li>
+<li><strong>تبديل جهاز الإخراج:</strong> عندما تقوم بفصل سماعات الرأس، أو الإرساء، أو التبديل إلى سماعات الشاشة، فإن كل مخرج يتذكر مستوى الصوت الخاص به. يبدو التبديل ذهابًا وإيابًا بمثابة عمليات إعادة تعيين "عشوائية".</li>
+<li><strong>الإعدادات الافتراضية لكل تطبيق:</strong> تحدد بعض التطبيقات (المتصفحات، ومشغلات الفيديو، وأدوات المؤتمرات) مكاسبها الخاصة عند التشغيل أو عند بدء بث جديد، متجاوزة كل ما لديك.</li>
+<li><strong>صوت بدء التشغيل وحالة تسجيل الدخول:</strong> يمكن أن يؤدي صوت التمهيد وتسجيل الدخول إلى دفع مستوى صوت النظام مرة أخرى نحو المستوى الافتراضي الذي لم تختره.</li>
+</ul>
+
+<h2>قم بإصلاح الأسباب المضمنة أولاً</h2>
+
+<p>العمل من خلال هذه بالترتيب. تختفي معظم شكاوى "إعادة ضبط نفسها" بمجرد التراجع ويتم استبعاد Bluetooth.</p>
+
+<ul>
+<li><strong>قم بإيقاف تشغيل صوت بدء التشغيل.</strong> إعدادات النظام → الصوت → قم بإلغاء التحديد <em>تشغيل الصوت عند بدء التشغيل</em>. يؤدي هذا إلى إيقاف نغمة التمهيد من إعادة ضبط مستوى خط الأساس لديك.</li>
+<li><strong>قم بتقليل أو تعطيل محفزات التهرب.</strong> في إعدادات النظام ← إمكانية الوصول ← المحتوى المنطوق وSiri، قم بإيقاف تشغيل الإعلانات المنطوقة التي لا تحتاج إليها. عدد أقل من المشغلات يعني لحظات أقل حيث يقوم macOS بخفض الصوت وينسى استعادته.</li>
+<li><strong>مشكلة إعادة إقران أجهزة Bluetooth.</strong> قم بإزالة AirPods أو سماعات الرأس من إعدادات Bluetooth وقم بإقرانها بشكل جديد. يعد ملف التعريف الذي لا معنى له سببًا شائعًا لالتقاط وحدة التخزين عند الاتصال.</li>
+<li><strong>قم بضبط كل جهاز إخراج بشكل متعمد.</strong> قم بتوصيل كل مخرج تستخدمه (مدمج، شاشة، سماعات الرأس) واضبط مستوى الصوت مرة واحدة. يقوم macOS بتخزين مستوى الصوت لكل جهاز، لذا فإن ضبطها جميعًا يزيل المفاجأة عند التبديل.</li>
+<li><strong>قم بإعادة ضبط Core Audio إذا كان عالقًا.</strong> افتح Terminal وقم بتشغيله <code>sudo killall coreaudiod</code>. يؤدي هذا إلى إعادة تشغيل برنامج الصوت دون إعادة التشغيل ومسح حالة التعليق التي يمكن أن تسبب مستويات غير منتظمة.</li>
+<li><strong>قم بالتحديث ثم أعد التشغيل.</strong> أصدرت Tahoe Point المبكرة إصلاحات صوتية تم شحنها. تأكد من أنك تستخدم الإصدار الأحدث وأعد التشغيل مرة واحدة بعد التحديث.</li>
+</ul>
+
+<p>إذا توقفت عمليات إعادة التعيين، فهذا يعني أن أحد ما سبق هو المذنب لديك. إذا كان لديك <em>نظام</em> مستوى الصوت مستقر ولكن التطبيقات الفردية تستمر في الانجراف بصوت أعلى أو أكثر هدوءًا من أي شيء آخر، لقد وصلت إلى الحد الأقصى لما يمكن أن تفعله عناصر التحكم المدمجة.</p>
+
+<h2>الفجوة الحقيقية: لا يمكن لـ macOS قفل مستوى الصوت لكل تطبيق</h2>
+
+<p>وهنا الجزء المحبط. كان لدى Windows خلاط صوت لكل تطبيق لسنوات - يمكنك فتحه، وسحب شريط تمرير أحد التطبيقات، ويبقى هناك. لم يتم شحن macOS واحدة أبدًا. يوجد شريط تمرير واحد لمستوى صوت النظام، ويتقاتل كل تطبيق عليه. لذا، عندما تظهر علامة تبويب في المتصفح إعلان تشغيل تلقائي أو تأتي مكالمة فيديو بصوت أعلى مرتين من صوت الموسيقى، فإن خيارك الوحيد هو تشغيل الصوت الرئيسي يدويًا - وهي حلقة "لماذا يستمر هذا التغيير" التي تحاول الهروب منها.</p>
+
+<blockquote>شريط تمرير النظام عبارة عن قرص مشترك واحد. بدون أداة مزج لكل تطبيق، من المستحيل "ضبطه ونسيانه" في المخزون macOS - هناك شيء ما سوف يتجاوزك دائمًا.</blockquote>
+
+<h2>قم بقفل حجم ثابت لكل تطبيق باستخدام SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يضيف الخلاط لكل تطبيق macOS مفقود. إنه موجود في شريط القائمة لديك ويمنح كل تطبيق قيد التشغيل شريط تمرير الصوت الخاص به، بشكل مستقل عن التطبيق الرئيسي. نظرًا لأنه يتذكر المستوى الذي قمت بتعيينه لكل تطبيق، فإنه يحل مشكلة "إعادة التعيين نفسه" مباشرةً: عليك أن تقرر مرة واحدة، وسيفتح هذا التطبيق عند هذا الحجم في كل مرة.</p>
+
+<ul>
+<li><strong>حجم مستقل لكل تطبيق:</strong> احتفظ بنسبة تشغيل الموسيقى بنسبة 40% ومكالمة الفيديو بنسبة 80% في نفس الوقت، دون أي تلاعب بشريط التمرير الرئيسي.</li>
+<li><strong>كتم الصوت والتعزيز لكل تطبيق:</strong> إسكات تطبيق مزعج على الفور، أو دفع تطبيق هادئ جدًا إلى ما يزيد عن 100% عندما يكون الصوت الخاص به ضعيفًا.</li>
+<li><strong>ملفات تعريف الحجم:</strong> احفظ إعدادات "العمل" أو "الألعاب" أو "التركيز" وقم بتبديل المزيج بالكامل بنقرة واحدة.</li>
+<li><strong>التهرب التلقائي وفقًا لشروطك:</strong> التطبيقات ذات الخلفية المنخفضة تلقائيًا عندما تتحدث أو عندما يكون التطبيق المختار نشطًا - بدلاً من اتخاذ القرار في macOS.</li>
+<li><strong>التبديل السريع للإخراج:</strong> يمكنك التنقل بين مكبرات الصوت وسماعات الرأس ومراقبة الصوت من شريط القائمة دون الغوص في الإعدادات.</li>
+</ul>
+
+<p>إنها عملية شراء بقيمة 14.99 يورو لمرة واحدة من Mac App Store - بدون اشتراك، ولا برامج تشغيل، ولا DMG، ولا ملحقات kernel. نظرًا لأنه في وضع الحماية بالكامل وموزع App Store، فأنت لا تقوم بتثبيت نص صوتي قديم قد يحظره Tahoe في التحديث التالي. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يضبط مستوياتك باستخدام واجهات برمجة التطبيقات المدعومة، بحيث تظل وحدات التخزين التي تتذكرها تنجو من التحديثات وعمليات إعادة التشغيل.</p>
+
+<h2>ما هو النهج الذي تحتاجه فعلا؟</h2>
+
+<p>إذا ارتفع مستوى صوت النظام بالكامل، فابدأ بالإصلاحات المضمنة أعلاه — التملص، وBluetooth، وحساب صوت بدء التشغيل في معظم الحالات. إذا كانت المشكلة بدلاً من ذلك هي أن تطبيقًا واحدًا هو دائمًا التطبيق الغريب، أو أنك سئمت من كون شريط التمرير الرئيسي بمثابة حل وسط، فإن الخلاط لكل تطبيق هو الحل الحقيقي الوحيد. لن تقوم macOS بإضافة واحدة، لذا فإن أداة شريط القائمة هي الطريق العملي للمزيج الذي يظل في المكان الذي تضعه فيه حقًا.</p>
+
+<p>هل سئمت من مطاردة شريط تمرير الصوت في تاهو؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> وقفل المجلد المتذكر لكل تطبيق - 14.99 يورو مرة واحدة، بدون اشتراكات أو برامج تشغيل.</p>`,
+  },
+  "control-daw-and-system-volume-separately-mac": {
+    slug: "control-daw-and-system-volume-separately-mac",
+    title: "تحكم في مستوى صوت شاشة DAW بشكل منفصل عن صوت النظام على Mac",
+    description: "لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق، لذا فإن DAW وأصوات النظام يتشاركان في مستوى واحد. فيما يلي كيفية التحكم في مستوى صوت الشاشة Logic أو Ableton أو GarageBand بشكل مستقل عن المتصفح والإشعارات.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق، لذا فإن DAW وكل شيء آخر يشترك في شريط تمرير نظام واحد. لتعيين مستوى الشاشة بشكل مستقل عن المتصفحات وSlack والإشعارات، تحتاج إلى التحكم في مستوى الصوت لكل تطبيق. خلاط شريط القائمة مثل <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يمنح Logic وAbleton وGarageBand مستوى الصوت الخاص بهم، منفصلاً عن صوت النظام.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — التحكم في مستوى صوت الشاشة DAW بشكل منفصل عن صوت النظام على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يدمر شريط تمرير حجم واحد مراقبتك</h2>
+
+<p>عندما تقوم بالإنتاج، فإن جهاز DAW الخاص بك هو مجرد واحد من العديد من الأشياء التي تصدر الصوت. يتم تشغيل المسار المرجعي في علامة تبويب المتصفح. وصول الأصوات Slack. يتم تشغيل البرنامج التعليمي YouTube على شاشة ثانية. في Windows، يتيح لك Volume Mixer موازنة كل هذه العناصر بشكل مستقل. في macOS، لم تقم شركة Apple بشحن ما يعادلها مطلقًا - حيث تتحرك مفاتيح مستوى الصوت وشريط تمرير شريط القائمة <em>كل شيء</em> مرة واحدة.</p>
+
+<p>وهذا يخلق مشكلة حقيقية لأي شخص يختلط عن طريق الأذن. يمكنك الاتصال بمستوى مراقبة مريح في Logic، ثم ينفجر الإشعار على نفس المستوى ويذهلك. أو تقوم بإيقاف تشغيل النظام لحماية سمعك أثناء المرور بصوت عالٍ، ويصبح المسار المرجعي الخاص بك الآن هادئًا جدًا بحيث لا يمكن مقارنته به. لم يعد مرجع المراقبة الخاص بك مستقرًا، والمرجع المستقر هو الهدف الأساسي من الخلط.</p>
+
+<blockquote>تعد المراقبة على مستوى ثابت إحدى العادات القليلة التي تعمل على تحسين عمليات المزج الخاصة بك بشكل ملموس. إذا استمرت أصوات النظام في إجبارك على تحريك شريط التمرير الرئيسي، فستفقد هذا الاتساق.</blockquote>
+
+<h2>ماذا يعني "حجم DAW المنفصل" في الواقع</h2>
+
+<p>هناك شيئان مختلفان يخلطهما المنتجون هنا، ومن الجدير الفصل بينهما:</p>
+
+<ul>
+<li><strong>واجهة/مستوى الإخراج الرئيسي</strong> - مقبض الجهاز الموجود على واجهة الصوت أو وحدة التحكم في الشاشة. يؤدي هذا إلى ضبط جهارة الاستماع المطلقة لديك ويجب أن تظل في مكانها بمجرد معايرتها.</li>
+<li><strong>حجم البرنامج لكل تطبيق</strong> - مدى ارتفاع صوت كل تطبيق <em>من قبل</em> يصل إلى هذا الناتج. هذا هو ما يفتقده macOS. فهو يتيح لك الحفاظ على وحدة DAW أثناء تحويل Chrome أو الموسيقى أو أصوات الإشعارات إلى مستوى السرير الموجود أسفلها.</li>
+</ul>
+
+<p>تريد الثانية. الهدف ليس إيقاف تشغيل DAW - بل إيقاف كل شيء آخر يتعلق به، بحيث يظل DAW هو المصدر الأعلى صوتًا والأكثر اتساقًا والمشتتات التي تجلس بهدوء في الخلفية.</p>
+
+<h2>كيفية القيام بذلك باستخدام خلاط لكل تطبيق</h2>
+
+<p>خلاط شريط القوائم مثل <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يسرد كل تطبيق يشغل الصوت حاليًا ويمنح كل تطبيق شريط التمرير الخاص به. يبدو سير العمل للمنتج كما يلي:</p>
+
+<ul>
+<li><strong>قم بمعايرة الواجهة الخاصة بك مرة واحدة.</strong> اضبط واجهة الصوت أو وحدة التحكم في الشاشة على مستوى مرجعي مريح وقابل للتكرار واتركه. هذا هو المرساة الثابتة الخاصة بك.</li>
+<li><strong>اضبط DAW على 100%.</strong> في الخلاط، اترك Logic أو Ableton أو GarageBand بحجم البرنامج الكامل بحيث يمر عبر الوحدة. لا يزال الخافت الرئيسي الخاص بـ DAW يقوم بالخلط الجيد.</li>
+<li><strong>اسحب كل شيء آخر إلى الأسفل.</strong> قم بإسقاط Chrome، وSafari، وMusic، وSlack إلى مستوى أقل - على سبيل المثال 40-60٪ - بحيث تكون المسارات والرسائل المرجعية ضمن المزيج الخاص بك بدلاً من التنافس معه.</li>
+<li><strong>كتم صوت الاشياء الصاخبة.</strong> يتيح لك كتم الصوت لكل تطبيق إسكات المتصفح أو تطبيق الدردشة بالكامل دون لمس سلسلة المراقبة الخاصة بك. بنقرة واحدة، يستمر جهاز DAW في اللعب دون تغيير.</li>
+</ul>
+
+<p>نظرًا لأن شريط تمرير DAW لا يتحرك أبدًا، فإن مرجع المراقبة الخاص بك يظل ثابتًا طوال الجلسة بأكملها. يمكنك تشغيل مسار مرجعي للحصول على A/B سريع، ثم كتم صوته، ولن يتغير مستوى المزيج الخاص بك بمقدار ديسيبل.</p>
+
+<h2>تعزيز تطبيق هادئ بدلاً من رفض الآخرين</h2>
+
+<p>في بعض الأحيان تسير المشكلة في الاتجاه الآخر. يتم تشغيل ارتداد تجريبي تقريبي، أو مذكرة صوتية، أو مرجع هادئ أقل بكثير من مستوى جلستك. إن رفع الواجهة لسماع ذلك يعني أن كل شيء آخر أصبح الآن مرتفعًا للغاية. لكل تطبيق <strong>زيادة الحجم</strong> يتيح لك دفع تطبيق واحد هادئ أعلى من 100% بحيث يتوافق مع مستوى عملك - دون لمس الإخراج الذي تمت معايرته. إنها قطعة الخلاط Windows التي لم تمتلكها من قبل وواحدة من الأدوات الأكثر فائدة عندما تقوم باختبار المواد من خارج DAW.</p>
+
+<h2>ملفات تعريف لأنواع الجلسات المختلفة</h2>
+
+<p>رصيدك المثالي ليس هو نفسه في كل مهمة. يتطلب كل من التتبع والمزج والاستماع غير الرسمي مزيجًا مختلفًا من مستويات التطبيق. تتيح لك ملفات تعريف الحجم حفظ الإعداد واستعادته على الفور:</p>
+
+<ul>
+<li><strong>خلط:</strong> DAW على 100%، المتصفح والموسيقى منخفضان، تم كتم صوت الدردشة.</li>
+<li><strong>الاستماع المرجعي:</strong> تطبيق الموسيقى أو البث المباشر للأعلى، وDAW للأسفل.</li>
+<li><strong>المكالمات / التعاون:</strong> تم رفع تطبيق المؤتمرات، وتم سحب DAW للخلف حتى لا يتسرب إلى المكالمة.</li>
+</ul>
+
+<p>يتفوق تبديل الملفات الشخصية على الضبط اليدوي لخمسة أشرطة تمرير في كل مرة تقوم فيها بتغيير التروس.</p>
+
+<h2>التملص التلقائي والتبديل السريع للإخراج</h2>
+
+<p>هناك شيئان آخران مهمان في الاستوديو. <strong>التملص التلقائي</strong> يمكن أن يخفض تلقائيًا تطبيقات الخلفية عندما يتحدث أو يتم تشغيل مصدر ذي أولوية، لذلك يتم دائمًا قطع المكالمة أو الصوت المهم. و <strong>التبديل السريع للإخراج</strong> من شريط القائمة يتيح لك التنقل بين الواجهة والشاشات وسماعات الرأس دون البحث في إعدادات النظام - وهي مهمة ثابتة عند التحقق من مزيج على أنظمة مختلفة.</p>
+
+<h2>لماذا لا يوجد برنامج تشغيل الصوت الظاهري؟</h2>
+
+<p>تحل بعض أدوات التوجيه هذه المشكلة عن طريق تثبيت برنامج تشغيل صوت افتراضي على مستوى kernel. إنها قوية ولكنها ثقيلة: يمكنها التوقف بعد تحديثات macOS، وإضافة زمن الوصول، وتتطلب أذونات نظام عميقة. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتم وضع الحماية ويتم شحنه عبر Mac App Store - لا توجد برامج تشغيل، ولا DMG، ولا يوجد إعداد إجمالي للجهاز. بالنسبة للتحكم على مستوى كل تطبيق على وجه التحديد، يعد هذا مسارًا أبسط بكثير من إعادة تصميم توجيه الصوت الخاص بك.</p>
+
+<p>هل أنت مستعد للحفاظ على استقرار مستوى المراقبة لديك بينما يبقى كل شيء آخر في مكانه؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو لمرة واحدة وامنح DAW حجمًا خاصًا به.</p>`,
+  },
+  "audio-hijack-alternative-simple-volume-mac": {
+    slug: "audio-hijack-alternative-simple-volume-mac",
+    title: "بديل Audio Hijack أبسط لحجم كل تطبيق على Mac",
+    description: "إذا كنت تريد فقط حجمًا مستقلاً لكل تطبيق على macOS، فإن Audio Hijack يعد مبالغة. إليك بديلًا أخف وأرخص لشريط القوائم يعمل على زيادة مستوى الصوت وكتم الصوت والتعزيز لكل تطبيق دون توجيه الصوت.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا كان كل ما تريده هو حجم مستقل لكل تطبيق على macOS، فإن Audio Hijack هو أداة أكثر مما تحتاج إليه. إنها مجموعة احترافية لتوجيه الصوت والتسجيل (حوالي 79 دولارًا) مصممة للالتقاط والتأثيرات والرسوم البيانية للجلسة. ببساطة لإيقاف تطبيق واحد ورفع تطبيق آخر، مثل خلاط شريط القوائم خفيف الوزن <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> أسرع وأرخص وجاهز دائمًا.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل Audio Hijack أبسط لحجم كل تطبيق على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يصل الناس إلى Audio Hijack في المقام الأول</h2>
+
+<p>لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق. كان لدى Windows واحدًا منذ سنوات في وحدة التحكم في الصوت، ولكن في Mac، تتحرك مفاتيح مستوى الصوت وشريط تمرير شريط القائمة شيئًا واحدًا فقط: سيد النظام. لا توجد طريقة للطرف الأول لقول "احتفظ بـ Spotify عند 40% ولكن اترك مكالمة الفيديو الخاصة بي عند 100%."</p>
+
+<p>لذلك يبحث الأشخاص عن حل بديل ويصلون إلى Audio Hijack. ذلك <em>يمكن</em> قم بإجراء حجم لكل تطبيق، لأنه يمكنه اعتراض ومعالجة الصوت من أي تطبيق واحد. لكن هذه القدرة هي أحد الآثار الجانبية لما تم تصميمه بالفعل من أجله: تسجيل الصوت من التطبيقات والأجهزة، وتأثيرات التسلسل، والتوجيه بين الأجهزة الافتراضية، وإنشاء مسارات جلسات قابلة لإعادة الاستخدام. إنه ممتاز حقًا في ذلك. إنها مجرد إجابة ثقيلة على سؤال خفيف.</p>
+
+<h2>حيث يصبح Audio Hijack مبالغة</h2>
+
+<p>تميل بعض الأشياء إلى إحباط الأشخاص الذين يريدون فقط شريط تمرير مستوى الصوت:</p>
+
+<ul>
+<li><strong>السعر.</strong> Audio Hijack يقع حول 79 دولارًا. وهذا أمر عادل لاستوديو التسجيل في التطبيق؛ إنه أمر كبير لرفض علامة تبويب المتصفح.</li>
+<li><strong>يجب أن يستمر في الجري.</strong> تعمل المعالجة لكل تطبيق فقط عندما يكون التطبيق مفتوحًا وتكون الجلسة ذات الصلة نشطة. قم بإنهاء ذلك، وستعود أحجامك. أنت تحتفظ بمحطة عمل صوتية كاملة فقط لتثبيت شريط التمرير في مكانه.</li>
+<li><strong>التفكير القائم على الجلسة.</strong> يمكنك إنشاء جلسات باستخدام الكتل والاتصالات. قوي في الالتقاط، ولكنه يمثل الكثير من الحمل المفاهيمي عندما يكون هدفك هو "هذا التطبيق أكثر هدوءًا، وهذا التطبيق أعلى صوتًا".</li>
+<li><strong>الواجهة عميقة.</strong> التأثيرات، والتوجيه، والعدادات، وكتلة الأسلاك - مساحة سطحية غنية ستتجاهلها غالبًا إذا لم تقم بتسجيل أي شيء مطلقًا.</li>
+</ul>
+
+<blockquote>القاعدة الأساسية: إذا أردت ذلك <em>سجل أو الطريق</em> الصوت، Audio Hijack يكسب سعره. إذا كنت تريد ذلك فقط <em>التوازن</em> الصوت بين التطبيقات، فأنت تدفع مقابل ورشة عمل عندما تحتاج إلى مقبض.</blockquote>
+
+<h2>البديل الأبسط: خلاط حجم شريط القائمة</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يأخذ الوظيفة الوحيدة التي جاء معظم الناس من أجلها ويفعل ذلك فقط. إنه يعيش في شريط القائمة الخاص بك. انقر فوق الأيقونة وستحصل على قائمة مباشرة بكل تطبيق يقوم بتشغيل الصوت حاليًا، ولكل منها شريط التمرير الخاص به. اسحب Spotify إلى 30%، واترك مكالمتك على 100%، وكتم صوت Slack بالكامل - انتهيت، ولا توجد جلسة للإنشاء.</p>
+
+<p>ما يغطيه:</p>
+
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - يحصل كل مصدر صوتي على شريط تمرير خاص به، قابل للتعديل في الوقت الفعلي.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات أحد التطبيقات المزعجة بنقرة واحدة دون لمس أي شيء آخر.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - ادفع تطبيقًا هادئًا <em>أعلاه</em> 100% عندما يكون الحد الأقصى الخاص به لا يزال ناعمًا للغاية. هذه هي القطعة التي لا يمكن لشريط تمرير النظام القيام بها أبدًا.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مزيجًا كاملاً (الموسيقى منخفضة، المكالمات بصوت عالٍ، كتم صوت الإشعارات) واستدعها بنقرة واحدة لسياق معين.</li>
+<li><strong>التملص التلقائي</strong> — يقوم تلقائيًا بخفض صوت الخلفية عند بدء شيء أكثر أهمية، حتى لا يتم إخفاء مكالمة أو مقطع فيديو ضمن قائمة التشغيل الخاصة بك.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين سماعات الرأس ومكبرات الصوت والمخرجات الأخرى من نفس القائمة.</li>
+</ul>
+
+<h2>عملي: الحصول على التحكم في كل تطبيق في أقل من دقيقة</h2>
+
+<p>الفرق في الإعداد هو بيت القصيد. باستخدام أداة التوجيه، يمكنك إنشاء جلسة، وإضافة كتلة مصدر، وتوصيلها، والحفاظ على تشغيل التطبيق. هنا هو في الأساس:</p>
+
+<ul>
+<li>تثبيت <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> من Mac App Store.</li>
+<li>قم بتشغيل الصوت في بعض التطبيقات حتى تظهر في القائمة.</li>
+<li>انقر على أيقونة شريط القائمة واسحب شريط تمرير كل تطبيق حسب الرغبة.</li>
+<li>اختياريًا، يمكنك حفظ هذا المزيج كملف شخصي، أو تعزيز تطبيق هادئ للغاية بنسبة تتجاوز 100%.</li>
+</ul>
+
+<p>نظرًا لأنه يتم توزيعه من خلال Mac App Store، فهو في وضع الحماية ويتم تثبيته مثل أي تطبيق عادي - لا <code>.dmg</code> للسحب، ولا يوجد امتداد kernel، ولا يوجد برنامج تشغيل صوت للموافقة عليه في إعدادات الأمان، ولا شيء يحتاج إلى إعادة الموافقة بعد تحديث macOS. هذه النقطة الأخيرة مهمة: تقوم الخلاطات المستندة إلى برنامج التشغيل تاريخيًا بإيقاف ترقيات نظام التشغيل وتتطلب إعادة تثبيت مكون على مستوى النظام. يتجنب تطبيق App Store ذو وضع الحماية هذه الفئة الكاملة من الصيانة.</p>
+
+<h2>أي واحد يجب أن تختار؟</h2>
+
+<p>كن صادقا بشأن الوظيفة. اختر <strong>Audio Hijack</strong> إذا كنت بحاجة إلى تسجيل صوت التطبيق أو الجهاز، أو تطبيق تأثيرات في الوقت الفعلي، أو إنشاء رسوم بيانية للتوجيه بين الأجهزة الافتراضية. هذا هو موطنها ويستحق كل دولار هناك.</p>
+
+<p>اختر خلاطًا مخصصًا لشريط القوائم إذا كانت حاجتك الفعلية هي "السماح لي بضبط مستوى صوت كل تطبيق بشكل مستقل". ستنفق 14.99 يورو مرة واحدة بدلاً من 79 دولارًا تقريبًا، وتتخطى بناء الجلسة، وتحصل على التعزيز، وكتم الصوت، والملفات الشخصية، والتهرب في اللوحة التي تفتحها من شريط القائمة. لا توجد ميزات تسجيل لن تلمسها أبدًا، ولا توجد محطة عمل تعمل في الخلفية لتثبيت شريط التمرير في مكانه.</p>
+
+<p>معظم الأشخاص الذين جربوا Audio Hijack لموازنة الحجم كانوا يحلون مشكلة صغيرة باستخدام أداة كبيرة. إذا كان هذا هو حالك، فإن الأداة الصغيرة تناسبك بشكل أفضل، وتكلف جزءًا صغيرًا.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو، لمرة واحدة - مستوى الصوت لكل تطبيق، والتعزيز، وكتم الصوت، والملفات الشخصية، والخفض التلقائي، مباشرة من شريط القائمة.</p>`,
+  },
+  "boom-3d-alternative-per-app-volume-mac": {
+    slug: "boom-3d-alternative-per-app-volume-mac",
+    title: "البديل Boom 3D: حجم كل تطبيق بدون الانتفاخ (Mac)",
+    description: "إذا كنت تستخدم Boom 3D بشكل أساسي لتعزيز الصوت ولكنك تريد حقًا التحكم في مستوى الصوت لكل تطبيق، فإن SoundDial هو بديل Mac الأصغر حجمًا: حجم مستقل لكل تطبيق، وكتم صوت وتعزيز لكل تطبيق، وسعر لمرة واحدة، ولا يوجد معادل صوت على مستوى النظام أو برامج تشغيل.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا كنت قد توصلت إلى Boom 3D لزيادة مستوى الصوت ولكنك أردت بالفعل التحكم في كل تطبيق على حدة، فأنت تريد أداة مختلفة. Boom 3D عبارة عن معزز للصوت ومعادل الصوت على مستوى النظام. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> عبارة عن خلاط صوت مركّز لكل تطبيق: مستوى صوت مستقل، وكتم صوت، وتعزيز لكل تطبيق، لمرة واحدة بقيمة 14.99 يورو، بدون معادل صوت، ولا برامج تشغيل.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — البديل Boom 3D: الحجم لكل تطبيق دون الانتفاخ (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ما يفعله Boom 3D فعليًا (وما لا يفعله)</h2>
+<p>تم تصميم Boom 3D حول ثلاثة أشياء: تعزيز مستوى الصوت على مستوى النظام، ومعادل صوت ذو 31 نطاقًا، وتأثيرات "محيطية" ثلاثية الأبعاد. وينطبق على تلك <em>كل شيء</em> يتم تشغيل Mac الخاص بك مرة واحدة. يعد هذا مفيدًا حقًا إذا كان هدفك هو جهاز كمبيوتر محمول أعلى صوتًا أو منحنى صوت الجهير الذي تفضله في جميع المجالات.</p>
+<p>ما لم يتم تصميم Boom 3D من أجله هو التعامل مع التطبيقات كقنوات مستقلة. لا توجد طريقة واضحة لقول "Spotify عند 40%، ومكالمة الفيديو الخاصة بي عند 100%، وتم كتم علامة تبويب المتصفح هذه." يقوم شريط التمرير الخاص به بتحريك المزيج بأكمله. ولأنه يقوم بتثبيت برنامج تشغيل صوتي ليجلس في مسار الإشارة، فإنه يمس نظامك بمستوى أقل مما تفعله الأداة المساعدة في وضع الحماية. كما يتم وضعه كمنتج مدفوع مع دورات ترقية بدلاً من كونه أداة صغيرة لمرة واحدة.</p>
+<blockquote><p>القصة الشائعة: يقوم الأشخاص بتثبيت Boom 3D لجعل تطبيق واحد هادئًا أعلى صوتًا، ثم يدركون أن المشكلة الحقيقية هي أن macOS لا يحتوي على خلاط صوت لكل تطبيق على الإطلاق.</p></blockquote>
+
+<h2>الفجوة: لا يحتوي macOS على خلاط حجم</h2>
+<p>هذا يفاجئ الناس القادمين من Windows. كان لدى Windows خلاط صوت لكل تطبيق لسنوات - انقر بزر الماوس الأيمن على مكبر الصوت، واضبط مستوى كل تطبيق على حدة. macOS ببساطة لا يشحن هذا. تحصل على وحدة تخزين رئيسية واحدة وأي شريط تمرير داخلي يعرضه كل تطبيق. لا توجد طريقة على مستوى نظام التشغيل لموازنة Slack مع علامة تبويب YouTube مقابل إحدى الألعاب.</p>
+<p>لذا، عندما يحجب أحد تطبيقات الموسيقى مكالمتك، فإن خياراتك الأصلية الوحيدة تكون بدائية: قم بإيقاف تشغيل التطبيق الرئيسي (مما يؤدي إلى تهدئة كل شيء) أو البحث في الإعدادات الخاصة بكل تطبيق على أمل أن يكون لديه تحكم في مستوى الصوت. Boom 3D لا يسد هذه الفجوة أيضًا - فهو يجعل المزيج بأكمله أعلى صوتًا، وليس كل تطبيق.</p>
+
+<h2>حيث يناسب SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو الخلاط المفقود. إنه موجود في شريط القائمة الخاص بك ويمنح كل تطبيق قيد التشغيل صفًا خاصًا به مع شريط التمرير الخاص به. هذا هو الاختلاف الأساسي عن Boom 3D: بدلاً من تأثير عالمي واحد، يمكنك الحصول على التحكم لكل مصدر.</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> — اضبط Spotify على 30% بينما تظل مكالمة الفيديو عند 100%.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات أحد التطبيقات المزعجة على الفور دون لمس أي شيء آخر.</li>
+<li><strong>تعزيز لكل تطبيق</strong> - إذا أعجبتك خدعة Boom 3D الأعلى من 100%، فإن SoundDial تحافظ على ذلك، ولكنها تستهدف تطبيقًا واحدًا بدلاً من النظام بأكمله. يتم دفع التطبيقات الهادئة إلى ما بعد السقف الطبيعي من تلقاء نفسها.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ تخطيطًا للخلاط (على سبيل المثال، "ألعاب"، "اجتماع"، "موسيقى") واسترجعه بنقرة واحدة بدلاً من إعادة موازنة أشرطة التمرير في كل مرة.</li>
+<li><strong>التملص التلقائي</strong> — يقوم تلقائيًا بخفض صوت الخلفية عند بدء شيء مهم، حتى لا يتم إخفاء المكالمة أو إشارة اللعبة تحت الموسيقى.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين سماعات الرأس ومكبرات الصوت والمخرجات الأخرى من نفس القائمة.</li>
+</ul>
+<p>ما لم يفعله SoundDial عمدًا هو بقية ميزة Boom 3D. لا يوجد معادل صوت ذو 31 نطاقًا، ولا معالجة محيطية زائفة، ولا توجد سلسلة تأثير على مستوى النظام. إذا كنت تريد معادل صوت عالي الجودة، فإن Boom 3D أو مجموعة صوتية مخصصة هي الاختيار الصحيح. إذا كان ما واصلت فتح Boom 3D من أجله هو <em>حجم</em>، مساحة السطح هذه منتفخة وتدفع مقابل حملها.</p>
+
+<h2>دفعة، دون سائق</h2>
+<p>يستحق سؤال "التعزيز" إجابة مباشرة، لأنه عادة ما يكون السبب وراء قيام مستخدمي Boom 3D بالتسوق بحثًا عن البدائل. يعتبر تعزيز Boom 3D عالميًا ويعتمد على السائق. يتم تعزيز SoundDial لكل تطبيق ويتم تشغيله داخل نموذج وضع الحماية لتطبيقات Apple - ويتم توزيعه من خلال Mac App Store، لذلك لا يوجد مثبت منفصل، ولا يوجد برنامج تشغيل على مستوى kernel، ولا توجد مكونات نظام متبقية لإلغاء تثبيتها لاحقًا. يمكنك الحصول على نتيجة "جعل هذا التطبيق الهادئ أعلى صوتًا" دون تسليم برنامج التشغيل التحكم في مسار الصوت بالكامل.</p>
+
+<h2>السعر: لمرة واحدة مقابل الجاري</h2>
+<p>Boom 3D هو تطبيق مدفوع مع نموذج الترقية والترخيص الخاص به، ويختلف السعر حسب النظام الأساسي والإصدار. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هي عملية شراء لمرة واحدة بسعر 14.99 يورو - يمكنك شراؤها مرة واحدة، والاحتفاظ بها، بدون اشتراك ولا إعادة شراء لكل إصدار للحفاظ على عمل الخلاط. بالنسبة للأداة التي ستتركها قيد التشغيل في شريط القائمة كل يوم، يميل السعر الثابت إلى التقدم بشكل أفضل من المنتج الذي يتعين عليك الاستمرار في إعادة الشراء فيه.</p>
+
+<h2>أي واحد يجب أن تختار؟</h2>
+<ul>
+<li><strong>اختر Boom 3D</strong> إذا كانت حاجتك الحقيقية هي المعادل الجاد والمؤثرات الصوتية على مستوى النظام، ولا تمانع في وجود برنامج تشغيل صوتي في المزيج.</li>
+<li><strong>اختر SoundDial</strong> إذا كنت تريد ما يعتبره مستخدمو Windows أمرا مفروغا منه - خلاط حجم حقيقي لكل تطبيق - بالإضافة إلى التعزيز المستهدف، والملفات الشخصية، والتهرب التلقائي، بسعر لمرة واحدة وبدون تثبيت برامج تشغيل.</li>
+</ul>
+<p>معظم الأشخاص الذين يرتدون من Boom 3D يقعون في المجموعة الثانية. لم يرغبوا في ضبط الترددات. لقد أرادوا أن يكون المتصفح أكثر هدوءًا من المكالمة. هذه هي بالضبط المهمة التي تم تصميم SoundDial من أجلها.</p>
+
+<p><strong>هل تريد التحكم في مستوى الصوت لكل تطبيق على Mac دون تضخم EQ أو الاشتراك؟</strong> <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو مرة واحدة، في وضع الحماية، بدون برامج تشغيل، وكل تطبيق يحصل على شريط التمرير الخاص به.</p>`,
+  },
+  "mute-everything-except-one-app-mac": {
+    slug: "mute-everything-except-one-app-mac",
+    title: "كيفية كتم صوت كل شيء باستثناء تطبيق واحد على جهاز Mac",
+    description: "لا يحتوي macOS على خلاط صوت لكل تطبيق، لذا فإن إسكات كل تطبيق باستثناء تطبيق واحد يتطلب مساعدًا. إليك كيفية سماع مكالمتك أو بثك أو لعبتك فقط بينما يظل كل شيء آخر صامتًا.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا تحتوي macOS على طريقة مدمجة لكتم صوت التطبيقات الفردية، لذا لتتمكن من الاستماع إلى تطبيق واحد فقط، فإنك تحتاج إلى أداة مزج الصوت لكل تطبيق. تثبيت <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، افتح خلاط شريط القوائم الخاص به، وقم بكتم صوت كل تطبيق باستثناء التطبيق الذي تريد الاستماع إليه، وسيستمر هذا التطبيق في التشغيل بينما يظل الباقي صامتًا على الفور.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — كيفية كتم كل شيء باستثناء تطبيق واحد على جهاز Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا لا تستطيع macOS القيام بذلك بمفردها</h2>
+<p>Windows يمتلك Volume Mixer منذ أكثر من عقد من الزمان: انقر بزر الماوس الأيمن على أيقونة مكبر الصوت، وسيحصل كل تطبيق قيد التشغيل على شريط التمرير الخاص به. macOS لم يشحن هذا أبدًا. تتحكم مفاتيح الصوت الموجودة على Mac في شيء واحد فقط، وهو مستوى الإخراج الرئيسي. عندما تقوم بإيقاف النظام، يسقط كل شيء معًا. عندما تصمت، يتم كتم كل شيء.</p>
+<p>لا بأس بذلك حتى يكون لديك خمسة أشياء تصدر ضوضاء في وقت واحد. أنت تجري مكالمة فيديو، لكن علامة تبويب المتصفح تقوم بتشغيل إعلان تلقائيًا، ولا يزال Spotify قيد التشغيل، ويتم تنفيذ الأمر ping في الخلفية، وSlack يرن. خياراتك الأصلية الوحيدة هي إنهاء التطبيقات، أو كتم صوتها واحدًا تلو الآخر داخل الإعدادات الخاصة بكل تطبيق (إذا كان لديه هذا الخيار)، أو سحب سماعات الرأس. لا شيء من هذا يسمح لك بقول "احتفظ بهذا، وأسكت الباقي".</p>
+
+<h2>الطريقة المباشرة: كتم الباقي بالخلاط</h2>
+<p>يوجد خلاط لكل تطبيق بين تطبيقاتك وجهاز الإخراج الخاص بك ويمنح كل تطبيق التحكم الخاص به في مستوى الصوت وكتم الصوت. بمجرد تشغيل أحد التطبيقات، يستغرق عزل تطبيق واحد ثوانٍ:</p>
+<ul>
+<li>افتح الخلاط من شريط القائمة الخاص بك. سترى قائمة مباشرة بكل تطبيق ينتج الصوت حاليًا.</li>
+<li>ابحث عن التطبيق الذي تريد الاستماع إليه، ومكالمتك، وبثك، ولعبتك.</li>
+<li>كتم كل شيء آخر. اضغط على مفتاح كتم الصوت بجوار كل تطبيق آخر، أو اسحب شريط التمرير الخاص به إلى الصفر.</li>
+<li>هذا كل شيء. يستمر التطبيق الوحيد الذي تركته بمفرده في التشغيل بالحجم الكامل بينما يظل الباقي صامتًا.</li>
+</ul>
+<p>مع <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، يحتوي كل تطبيق في القائمة على شريط تمرير خاص به وزر كتم صوت خاص به، لذا فإن هذه بضع نقرات. تظهر التطبيقات الجديدة التي تبدأ تشغيلها لاحقًا تلقائيًا، لذلك إذا حاول صوت الإشعار التسلل، فيمكنك إسكاته على الفور دون لمس التطبيق الذي تركز عليه.</p>
+
+<blockquote>الحيلة هي أن كتم "كل شيء باستثناء واحد" هو مجرد عكس كتم تطبيق واحد. أنت لا تقوم بإسكات صوت Mac الخاص بك، بل تقوم بإسكات الضوضاء المحيطة بالشيء الذي تهتم به بالفعل.</blockquote>
+
+<h2>احفظه كملف تعريف حتى لا تعيده</h2>
+<p>إذا كان هذا هو الإعداد الذي تستخدمه كثيرًا، فإن القيام بذلك يدويًا في كل مرة يصبح قديمًا. لنفترض أنك تريد دائمًا أن يكون صوت تطبيق الاتصال مرتفعًا وأن يتم إيقاف تشغيل كل شيء آخر أثناء الاجتماعات، أو تريد أن يكون البث في المقدمة والوسط بينما تظل الألعاب والمتصفحات هادئة. يقوم ملف تعريف وحدة التخزين بتخزين هذه الإعدادات الدقيقة لكل تطبيق وإعادة تطبيقها بنقرة واحدة.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتيح لك حفظ الملفات الشخصية مثل "الاجتماع" أو "البث فقط"، ثم التبديل إليها فورًا عندما تحتاج إليها. قم بإعداده مرة واحدة، ويصبح عزل التطبيق الخاص بك بمثابة إجراء واحد على شريط القائمة بدلاً من عمل روتيني مكون من خمسة أشرطة تمرير.</p>
+
+<h2>الإصدار الأكثر ذكاءً: البطة التلقائية بدلاً من كتم الصوت بشدة</h2>
+<p>في بعض الأحيان، لا ترغب في اختفاء التطبيقات الأخرى بالكامل، بل تريد فقط إزاحتها من الطريق عندما يبدأ شيء أكثر أهمية. هذا هو التهرب التلقائي. عندما يتم تشغيل التطبيق ذي الأولوية، تنخفض تطبيقات الخلفية تلقائيًا إلى مستوى منخفض، ثم ترتفع مرة أخرى عندما تتوقف.</p>
+<p>هذا مثالي للمكالمات والتدفقات. عندما يبدأ شخص ما في التحدث، تنخفض الموسيقى لديك حتى تتمكن من سماعه، وعندما تنتهي المكالمة، تعود الموسيقى من تلقاء نفسها. يمكنك الحصول على نتيجة "سماع تطبيق واحد بوضوح" دون كتم الصوت وإلغاء كتم الصوت يدويًا في كل مرة يتغير فيها الوضع. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتضمن التنحي التلقائي جنبًا إلى جنب مع الخلاط اليدوي، لذلك يمكنك اختيار كتم الصوت القوي للحصول على صمت تام أو التنصت للحصول على خلفية أكثر نعومة.</p>
+
+<h2>تعزيز التطبيق الوحيد الذي احتفظت به</h2>
+<p>هناك ميزة إضافية لعزل تطبيق واحد: يمكنك أيضًا جعله أعلى مما يسمح به Mac عادةً. بعض التطبيقات، وخاصة مكالمات الفيديو الهادئة أو عمليات البث سيئة التحكم، بالكاد تكون مسموعة حتى عند الحد الأقصى لمستوى الصوت. يؤدي التعزيز لكل تطبيق إلى دفع التطبيق الفردي إلى ما يزيد عن 100% دون زيادة مخرجات النظام لديك، الأمر الذي سيؤدي فقط إلى تضخيم التطبيقات التي قمت بكتم صوتها بالفعل.</p>
+<p>لذا فإن الخطوة الكاملة هي: كتم الصوت، والحفاظ على تطبيق واحد، وإذا كان هذا التطبيق هادئًا جدًا، فقم بتعزيزه. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتعامل مع الثلاثة في نفس نافذة الخلاط.</p>
+
+<h2>ما الذي لم تقم بالتسجيل فيه</h2>
+<p>أحد المخاوف الشائعة بشأن أدوات الصوت Mac هو أنها تتطلب امتدادات kernel أو برامج تشغيل صوت افتراضية أو مثبتات مشبوهة يتم تنزيلها من موقع ويب عشوائي. وهذا مصدر قلق مشروع، ولهذا السبب يتجنب بعض الأشخاص هذه التطبيقات تمامًا.</p>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> موجود على Mac App Store، في وضع الحماية، ويتم تثبيته مثل أي تطبيق عادي، بدون برامج تشغيل، ولا DMG، ولا توجد ملحقات نظام للموافقة عليها. إنها عملية شراء بقيمة 14.99 يورو لمرة واحدة وليست اشتراكًا، لذا تدفع مرة واحدة وتحتفظ بها. هذا مهم بالنسبة لشيء ستتركه قيد التشغيل في شريط القائمة طوال اليوم.</p>
+
+<h2>خلاصة سريعة</h2>
+<ul>
+<li>لا يحتوي macOS على تحكم أصلي في مستوى الصوت لكل تطبيق، لذلك تحتاج إلى خلاط للقيام بذلك.</li>
+<li>افتح الخلاط، واحتفظ بتطبيقك الوحيد، أو كتم صوت كل شيء آخر أو قم بإزالة كل شيء آخر.</li>
+<li>احفظه كملف تعريف للمكالمات أو عمليات البث التي تجريها كثيرًا.</li>
+<li>استخدم التهرب التلقائي إذا كنت تريد تهدئة تطبيقات الخلفية بدلاً من قتلها.</li>
+<li>قم بتعزيز تطبيقك المحتفظ به إذا كان هادئًا جدًا من تلقاء نفسه.</li>
+</ul>
+
+<p>هل تريد سماع ما يهم فقط وإسكات الباقي؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> وقم بإعداد ملفك الشخصي الأول لكتم صوت كل شيء آخر في أقل من دقيقة.</p>`,
+  },
+  "different-volume-per-output-device-mac": {
+    slug: "different-volume-per-output-device-mac",
+    title: "احتفظ بمستوى صوت مختلف لمكبرات الصوت مقابل سماعات الرأس على Mac",
+    description: "ينسى macOS مزيج مستوى الصوت على مستوى التطبيق عند التبديل بين مكبرات الصوت وسماعات الرأس. إليك سبب حدوث ذلك، والحدود اليدوية، وكيفية إصلاح ذاكرة التخزين لكل تطبيق.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>يتذكر macOS في الواقع حجم نظام منفصل لكل جهاز إخراج، لكنه ينسى التوازن على مستوى التطبيق في كل مرة تقوم فيها بالتبديل. لذا تحافظ سماعات الرأس ومكبرات الصوت على مستواها الإجمالي، ولكن في اللحظة التي تقوم فيها بفصل الكهرباء، ينفجر أحد التطبيقات ويختفي آخر. الإصلاح هو ذاكرة حجم لكل تطبيق والتي تستمر في تبديل الجهاز، والتي لا يوجد لدى macOS أداة أصلية لها.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — احتفظ بمستوى صوت مختلف لمكبرات الصوت مقابل سماعات الرأس على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ما يتذكره macOS وما لا يتذكره</h2>
+
+<p>هناك اعتقاد شائع بأن macOS يتعامل مع كل جهاز إخراج بشكل مماثل. لا. يقوم كل جهاز إخراج بتخزين حجم النظام الخاص به. اضبط مكبرات الصوت MacBook على 30% وAirPods على 80%، وmacOS يبقي هذين الرقمين منفصلين. قم بالتوصيل، ثم الفصل، ثم إعادة الاتصال، وسيعود كل جهاز إلى المكان الذي تركته فيه.</p>
+
+<p>فلماذا لا تزال التجربة مكسورة؟ لأن تلك الذاكرة تتوقف عند شريط التمرير العالمي الفردي. يحتوي macOS على عنصر تحكم واحد بالضبط في مستوى الصوت لكل شيء يتم تشغيله على جهاز معين. لا يتذكر مدى ارتفاع صوت التطبيقات الفردية. عند التبديل من مكبرات الصوت إلى سماعات الرأس، لا يتم الاحتفاظ بالتوازن بين Spotify ومكالمة Zoom وعلامة التبويب YouTube، لأن هذا التوازن لم يكن موجودًا على الإطلاق. يشارك كل تطبيق نفس شريط التمرير.</p>
+
+<p>والنتيجة هي الإحباط الذي يصفه الناس بأنه "حجم مختلف لمكبرات الصوت مقارنة بسماعات الرأس". ما يريدونه عادةً ليس مجرد مستوى رئيسي مختلف لكل جهاز، بل مزيج من الموسيقى الهادئة، والمكالمات الصاخبة، والإشعارات المرفوضة، وهذا المزيج سليم سواء كانوا على مكبرات صوت مكتبية أو سماعات رأس.</p>
+
+<h2>الحلول اليدوية وأين تقصر</h2>
+
+<p>يمكنك الوصول إلى هناك باستخدام أدوات مدمجة، ومن المفيد معرفة السقف قبل الوصول إلى أي شيء آخر.</p>
+
+<ul>
+<li><strong>اضبط مستوى صوت النظام لكل جهاز مرة واحدة.</strong> قم بتشغيل الصوت من خلال مكبرات الصوت، وضبط المستوى، ثم قم بتبديل الإخراج إلى سماعات الرأس وضبط هذا المستوى. يحتفظ macOS بكليهما. يعالج هذا الحجم الرئيسي لكل جهاز ولكن لا شيء لكل تطبيق.</li>
+<li><strong>استخدم الحجم لكل تطبيق حيث يقدمه التطبيق.</strong> Spotify، VLC، ومعظم المتصفحات لها حجم داخلي خاص بها. يمكنك قص تطبيق بصوت عالٍ داخل التطبيق نفسه. المشكلة: هذا الإعداد موجود في التطبيق، وليس الجهاز، لذلك لا يتغير عند التبديل إلى سماعات الرأس، ومعظم التطبيقات (Slack، Zoom، إشعارات النظام، البريد) لا تتمتع بمثل هذا التحكم على الإطلاق.</li>
+<li><strong>قم بتبديل الإخراج من مركز التحكم أو شريط القائمة.</strong> انقر مع الضغط على مفتاح الخيارات على أيقونة مستوى الصوت في شريط القائمة للتنقل بين الأجهزة بسرعة. سريع، لكنه ينقل المستوى الرئيسي فقط، ولا يستعيد مزيجًا لكل تطبيق.</li>
+</ul>
+
+<p>تمنحك هذه وحدة تخزين رئيسية لكل جهاز. ما لم يقدمه لك أي منهم هو رصيد متذكر لكل تطبيق يتبعك عبر الأجهزة. هذه الفجوة هي بالضبط مكان الإزعاج، وهي هيكلية: نظام التشغيل ببساطة لا يحتوي على خلاط لكل تطبيق، على عكس Windows، الذي قام بشحن واحد لسنوات.</p>
+
+<h2>حجم الذاكرة لكل تطبيق، ولماذا يعد تبديل الجهاز هو المشكلة الحقيقية</h2>
+
+<p>الحل الأعمق هو منح كل تطبيق حجمه الخاص واستمرار هذه الإعدادات. هذا ما يشبه الخلاط لكل تطبيق <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> بنيت ل. إنه موجود في شريط القائمة لديك، ويسرد كل تطبيق يصدر صوتًا حاليًا، ويمنح كل تطبيق شريط تمرير مستقل، وتبديل كتم الصوت، وحتى زيادة بنسبة 100% للتطبيقات الهادئة.</p>
+
+<p>الجزء المهم بالنسبة لمشكلة مكبرات الصوت مقابل سماعات الرأس: يتم تذكر تلك المستويات. اضبط الموسيقى على 40%، ومكالماتك على 90%، وكتم صوت تطبيق الدردشة، و <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يحافظ على هذا المزيج. عندما تقوم بفصل سماعات الرأس والعودة إلى مكبرات الصوت، فإنك لا تقوم بإعادة موازنة ثلاثة تطبيقات يدويًا في كل مرة.</p>
+
+<p>تأخذ ملفات تعريف الحجم هذا الأمر إلى أبعد من ذلك. يمكنك حفظ مجموعة محددة من المستويات لكل تطبيق واسترجاعها بنقرة واحدة، لذا فإن مزيج "سماعات الرأس، العمل المركّز" ومزيج "مكبرات الصوت، الاجتماعات" يكون كل منهما بمثابة تحديد واحد بدلاً من إعادة التعيين اليدوي.</p>
+
+<blockquote><p>التحول العقلي: توقف عن التفكير في شريط تمرير رئيسي واحد تستمر في سحبه، وابدأ في التفكير في مزيج محفوظ لكل موقف. لم يعد تبديل الجهاز بمثابة عمل روتيني لإعادة التوازن.</p></blockquote>
+
+<h2>تبديل سريع للإخراج دون فقدان المزيج الخاص بك</h2>
+
+<p>يجب أن يكون تبديل الأجهزة سريعًا وغير مدمر. من نفس لوحة شريط القائمة، يمكنك تغيير جهاز الإخراج الخاص بك، لذا فإن الانتقال من مكبرات الصوت إلى سماعات الرأس هو نقرة واحدة، وتأتي مستويات كل تطبيق لديك بدلاً من الانهيار مرة أخرى إلى رقم عالمي واحد.</p>
+
+<p>من الميزات ذات الصلة الجديرة بالذكر هي الخفض التلقائي: عندما يأتي الصوت إلى الميكروفون الخاص بك (تبدأ التحدث، أو تبدأ المكالمة)، تنخفض التطبيقات الأخرى تلقائيًا حتى تتمكن من سماعك، ثم تعود إلى مستواها المحدد بعد ذلك. إنه نفس المبدأ المطبق على الانتباه بدلاً من الأجهزة، وهو شيء آخر لن يفعله macOS بمفرده.</p>
+
+<h2>كيفية إعداده</h2>
+
+<ul>
+<li>تثبيت <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> من Mac App Store. إنه في وضع الحماية، لذا لا يوجد برنامج تشغيل، ولا DMG، ولا يوجد امتداد kernel للموافقة عليه.</li>
+<li>قم بتشغيل الصوت في التطبيقات التي تستخدمها كثيرًا حتى تظهر في جهاز المزج.</li>
+<li>قم بتعيين مستوى كل تطبيق، وكتم أي شيء لا تريده، وقم بتعزيز أي شيء هادئ جدًا.</li>
+<li>احفظ هذا الترتيب كملف تعريف، على سبيل المثال، واحد مضبوط لسماعات الرأس وآخر لمكبرات الصوت.</li>
+<li>عند تبديل الأجهزة، قم باستدعاء ملف التعريف المطابق، أو اسمح فقط بترحيل المستويات المحفوظة لكل تطبيق.</li>
+</ul>
+
+<p>الملخص الصادق: يتذكر macOS حجم الصوت لكل جهاز إخراج على المستوى الرئيسي، لكنه لن يتذكر أبدًا مزيج كل تطبيق، لأنه لا يحتوي على خلاط لكل تطبيق. إذا كان هدفك الحقيقي هو تحقيق توازن ثابت بين الموسيقى والمكالمات والإشعارات التي تستمر بعد كل تبديل بين مكبرات الصوت وسماعات الرأس، فأنت بحاجة إلى ذاكرة لكل تطبيق أعلى نظام التشغيل.</p>
+
+<p>هل تريد أن تحتفظ مكبرات الصوت وسماعات الرأس بمزيجها الخاص دون إعادة ضبط كل تطبيق؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو لمرة واحدة، بدون اشتراك أو برامج تشغيل.</p>`,
+  },
+  "sound-control-alternative-mac": {
+    slug: "sound-control-alternative-mac",
+    title: "توقف Sound Control؟ أفضل استبدال لحجم Mac لكل تطبيق (2026)",
+    description: "تم إيقاف Sound Control بواسطة Static Z Software وتوقف عن macOS الحديث. إليكم سبب توقفه عن العمل، وما الذي فعله، وأفضل خلاط صوت لكل تطبيق للتبديل إليه في عام 2026.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>تم إيقاف تشغيل Sound Control بواسطة Static Z Software ولم يعد يتم بيعه أو تحديثه، ويفشل بشكل متزايد في macOS الحديث لأنه يعتمد على برنامج تشغيل الصوت على مستوى kernel الذي أغلقته Apple. إذا كنت بحاجة إلى حجم تخزيني لكل تطبيق اليوم، فإن البديل الأنظف هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط Mac App Store معزول بدون برامج تشغيل.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — هل تم إيقاف Sound Control؟ أفضل استبدال لحجم Mac لكل تطبيق (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ما فعله Sound Control بالفعل</h2>
+<p>كان Sound Control، لسنوات عديدة، هو الحل الأمثل لمشكلة macOS الحقيقية: لا يوجد حتى الآن خلاط حجم مدمج لكل تطبيق في Mac. يوجد لدى Windows واحد في Volume Mixer الخاص به منذ نظام التشغيل Vista، ولكن macOS لا يمنحك سوى شريط تمرير رئيسي واحد. قامت Sound Control بملء هذه الفجوة بلوحة شريط قوائم مرتبة تتيح لك:</p>
+<ul>
+<li>قم بتعيين مستوى صوت مستقل لكل تطبيق قيد التشغيل.</li>
+<li>كتم صوت التطبيقات الفردية دون لمس بقية صوت النظام لديك.</li>
+<li>تعزيز التطبيقات الهادئة بنسبة تزيد عن 100 بالمائة.</li>
+<li>تطبيق التعادل لكل تطبيق وتعديلات التوازن.</li>
+<li>قم بتوجيه تطبيقات الصوت وتثبيتها إلى أجهزة إخراج محددة.</li>
+</ul>
+<p>بالنسبة لأي شخص سبق له إجراء مكالمات Zoom بينما تهمس علامة تبويب YouTube في الخلفية، كان التحكم في كل تطبيق بمثابة تحويل. لقد أصبح عنصرًا أساسيًا هادئًا في الكثير من أجهزة مستخدمي Mac القوية.</p>
+
+<h2>لماذا توقفت عن العمل</h2>
+<p>القصة الفنية الصادقة مهمة هنا، لأنها تشرح لماذا لا يعد هذا خطأً يمكن لأي شخص تصحيحه ببساطة. يعمل Sound Control عن طريق تثبيت برنامج تشغيل صوت النظام - وهو امتداد kernel (kext) الذي أدخل نفسه في مسار الصوت macOS حتى يتمكن من اعتراض وإعادة تشكيل مخرجات كل تطبيق. هذا الخطاف العميق هو بالضبط ما جعل ميزات EQ والتعزيز ممكنة.</p>
+<p>بدءًا من macOS 10.15 Catalina والتسارع من خلال Big Sur والانتقال إلى Apple Silicon، بدأت Apple في إيقاف امتدادات kernel لصالح بدائل مساحة المستخدم. في أجهزة Apple Silicon Macs، يتطلب تحميل kexts من جهة خارجية خفض أمان النظام في وضع الاسترداد، وقد أوضحت Apple أن kexts الصوتية القديمة موجودة في الوقت المستعار. توقفت شركة Static Z Software في النهاية عن بيع وتطوير Sound Control. النتيجة: في الإصدارات الأخيرة من macOS، تفشل عمليات التثبيت، أو يحدث خلل في الصوت، أو يرفض برنامج التشغيل ببساطة التحميل دون تخفيضات الأمان التي لا يرغب معظم الأشخاص في إجرائها.</p>
+<blockquote>وهذا ليس إهمالاً من جانب المطور. إنه تحول على مستوى المنصة. أغلقت شركة Apple الباب أمام نوع برنامج تشغيل الصوت منخفض المستوى الذي تم إنشاء Sound Control حوله، ولا يمكن لأي تحديث إعادة فتحه بالكامل.</blockquote>
+
+<h2>ما الذي تغير في macOS الحديث</h2>
+<p>أضافت Apple شيئًا واحدًا ذا صلة: تقدم Core Audio الآن واجهة Tap API (المقدمة في macOS 14.2 Sonoma) التي تتيح للتطبيقات التقاط ومعالجة الصوت لكل عملية من مساحة المستخدم - بدون kext، ولا تخفيض الأمان، ولا إعادة التشغيل في الاسترداد. هذا هو المسار الحديث المعتمد للصوت لكل تطبيق، وهو ما يجب أن يُبنى عليه الخلاط الحالي. المقايضة صادقة: تعد نقرات مساحة المستخدم مقيدة أكثر من برنامج تشغيل kernel القديم، لذلك يجب أن تتوقع حجمًا نظيفًا لكل تطبيق، وكتم الصوت، والتعزيز بدلاً من المعلمة الكاملة لكل تطبيق EQ Sound Control المقدمة.</p>
+
+<h2>أفضل بديل: SoundDial</h2>
+<p>إذا كنت تريد جوهر ما فعله Sound Control - حجم مستقل لكل تطبيق - على Mac، فيمكنك بالفعل الحفاظ على أمانه وتحديثه، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو أقرب خيار للترحيل النظيف في عام 2026. وهو عبارة عن خلاط حجم لشريط القوائم لكل تطبيق مصمم لمكدس الصوت macOS الحديث. ما ينتقل من سير العمل Sound Control:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - شريط تمرير واحد لكل تطبيق قيد التشغيل، مباشرة في شريط القائمة.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات تطبيق واحد بينما يستمر تشغيل كل شيء آخر.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - ادفع التطبيق الهادئ فوق سقفه الطبيعي.</li>
+<li><strong>ملفات تعريف الحجم</strong> - حفظ إعدادات الخلاط لسياقات مختلفة (المكالمات، الموسيقى، الألعاب) والتبديل بينها.</li>
+<li><strong>التملص التلقائي</strong> - خفض مستوى صوت التطبيق تلقائيًا في الخلفية، وهو أمر مفيد عند بدء التحدث أو عند ورود مكالمة.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى دون الغوص في إعدادات النظام.</li>
+</ul>
+<p>الاختلافات العملية التي تهم الهجرة: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتم الشحن عبر Mac App Store، وهو في وضع الحماية، ولا يقوم بتثبيت أي برامج تشغيل أو DMG. وهذا يعني عدم وجود امتداد kernel للموافقة عليه، وعدم وجود وضع الاسترداد، وعدم خفض الوضع الأمني ​​لجهاز Mac - وهي نقاط الضعف الدقيقة التي أدت إلى مقتل Sound Control. إنها عملية شراء لمرة واحدة بقيمة 14.99 يورو، وليست اشتراكًا.</p>
+
+<h2>كيفية التبديل خطوة بخطوة</h2>
+<ul>
+<li><strong>قم بإلغاء تثبيت Sound Control بشكل نظيف.</strong> نظرًا لأنه قام بتثبيت برنامج تشغيل، استخدم برنامج إلغاء التثبيت الخاص به إذا كان لا يزال قيد التشغيل، أو قم بإزالة مكونات برنامج تشغيل الصوت الخاص به قبل تثبيت أي شيء جديد. يمكن أن يتسبب خطافان صوتيان متنافسان في حدوث مشكلات.</li>
+<li><strong>قم بتثبيت SoundDial من App Store.</strong> لا يلزم إعادة التشغيل أو إجراء تغييرات أمنية.</li>
+<li><strong>منح إذن الصوت الذي يطلبه.</strong> وهذا ما يتيح له قراءة الإخراج لكل تطبيق والتحكم فيه على macOS الحديث.</li>
+<li><strong>افتح لوحة شريط القائمة وقم بتعيين المستويات.</strong> تظهر تطبيقاتك قيد التشغيل مع أشرطة تمرير فردية؛ اضبط أو كتم الصوت أو التعزيز حسب الحاجة.</li>
+<li><strong>حفظ الملف الشخصي.</strong> إذا كانت لديك إعدادات Sound Control المفضلة لديك، فأعد إنشائها كملفات تعريف حتى تتمكن من التبديل بنقرة واحدة.</li>
+</ul>
+
+<h2>توقعات صادقة</h2>
+<p>إذا كان السبب الوحيد لاستخدام Sound Control هو مستوى الصوت لكل تطبيق، وكتم الصوت، والتعزيز، فإن الخلاط الحديث ذو وضع الحماية يغطيك بالكامل. إذا كنت تعتمد بشدة على معادل الصوت لكل تطبيق، فاعلم أن EQ العميق كان مرتبطًا بنموذج برنامج التشغيل القديم وهو الميزة الأصعب في إعادة إنتاجها بشكل نظيف بموجب قواعد Apple الحالية. ضع التوقعات وفقًا لذلك، ولن تتفاجأ.</p>
+
+<p>هل أنت مستعد لاستعادة مستوى الصوت لكل تطبيق دون حدوث مشكلات في برنامج التشغيل؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو لمرة واحدة، في وضع الحماية، بدون اشتراك، بدون برامج تشغيل.</p>`,
+  },
+  "soundbunny-alternative-mac": {
+    slug: "soundbunny-alternative-mac",
+    title: "لقد انتهى SoundBunny - تطبيق Mac الحديث لكل تطبيق لحجم الصوت ليحل محله",
+    description: "تم إيقاف SoundBunny من Prosoft. إليك خلاط الصوت الحالي macOS لكل تطبيق والذي يتم صيانته بشكل نشط لاستبداله - بالإضافة إلى كيفية ترحيل إعداد الصوت لكل تطبيق بدون برامج تشغيل kernel.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا توقف SoundBunny عن العمل أو لم يعد يتم بيعه، فإن البديل الحديث هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، خلاط حجم شريط القوائم لكل تطبيق مصمم لـ macOS الحالي. فهو يمنحك نفس الوظيفة الأساسية - مستوى الصوت المستقل، وكتم الصوت، والتعزيز لكل تطبيق - عند شراء Mac App Store لمرة واحدة بقيمة 14.99 يورو، بدون برنامج تشغيل kernel، أو DMG، أو اشتراك للإدارة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — انتهى SoundBunny — تطبيق Mac الحديث لكل تطبيق لحجم الصوت ليحل محله" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ماذا حدث لSoundBunny؟</h2>
+<p>كانت SoundBunny عبارة عن أداة مساعدة لحجم الصوت لكل تطبيق من Prosoft Engineering لـ macOS. يتيح لك تعيين مستوى صوت مختلف لكل تطبيق قيد التشغيل مباشرة من شريط القائمة - موسيقى هادئة، مكالمة عالية، متصفح في مكان ما بينهما. لسنوات كانت واحدة من الأدوات القليلة التي تملأ فجوة لم تسدها شركة Apple أبدًا.</p>
+<p>المشكلة هي أن SoundBunny هو برنامج قديم. لم تواكب التغييرات العميقة التي أجرتها Apple على الصوت والأمان macOS - Apple Silicon، ووقت التشغيل المتشدد، وقواعد تمديد النظام المشددة، وإزالة الخطافات الصوتية القديمة. عندما تتوقف أداة مثل هذه عن تلقي التحديثات، فإنها تتعطل في النهاية: يفشل تشغيلها، أو تفقد التحكم في تدفقات التطبيق بعد تحديث نظام التشغيل، أو ببساطة لا يمكن تثبيتها بشكل نظيف على Mac الحديث. إذا كان هذا هو مكانك، فأنت لا تفعل أي شيء خاطئ. التطبيق في الخلف، وليس أنت.</p>
+
+<h2>لماذا لا تزال macOS بحاجة إلى خلاط تابع لجهة خارجية على الإطلاق</h2>
+<p>هذا هو الجزء الصادق: هذه فجوة حقيقية في macOS، وليست خطأ يمكنك إصلاحه في الإعدادات. قامت Windows بشحن Volume Mixer لكل تطبيق لأكثر من عقد من الزمان. لم يكن لدى macOS واحدة من قبل. يتحكم شريط تمرير مستوى صوت النظام وإعدادات الصوت في جهازك <em>جهاز الإخراج</em> ككل - كل تطبيق يركب نفس المستوى الرئيسي. لا توجد طريقة مدمجة لقول "احتفظ بـ Safari عند 40% ولكن Zoom عند 100%."</p>
+<p>ولهذا السبب توجد أدوات مثل SoundBunny، ولماذا لا يزال الاستبدال ضروريًا اليوم. لم تختف الحاجة عندما اختفى التطبيق - فشركة Apple لم تعالجها بعد.</p>
+
+<h2>البديل الحديث: SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> عبارة عن خلاط حجم لكل تطبيق موجود في شريط القائمة الخاص بك ويقوم بالأشياء التي يعتمد عليها مستخدمو SoundBunny، والتي تم إنشاؤها وفقًا لـ macOS اليوم بدلاً من الأمس. يغطي تداخل الميزات الأساسيات:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - شريط تمرير واحد لكل تطبيق قيد التشغيل، وهو بالضبط النموذج العقلي SoundBunny.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات تطبيق واحد صاخب دون لمس أي شيء آخر.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - ادفع تطبيقًا هادئًا <em>أعلاه</em> 100% عند تسجيل مقطع فيديو أو مكالمة بمستوى منخفض جدًا. لم يتمكن SoundBunny من تضخيم الحد الأقصى للنظام السابق بشكل موثوق على macOS الحديث؛ Boost هو ترقية حقيقية هنا.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مجموعة من المستويات لكل تطبيق (مزيج "العمل"، ومزيج "الألعاب") والتبديل بينها بدلاً من دفع أشرطة التمرير واحدًا تلو الآخر.</li>
+<li><strong>التملص التلقائي</strong> - خفض مستوى صوت تطبيق الخلفية تلقائيًا عندما يصبح مصدر صوت آخر (مثل الميكروفون أثناء المكالمة) نشطًا.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والمخرجات الأخرى من نفس القائمة.</li>
+</ul>
+
+<h2>كيف تبدو الهجرة في الواقع</h2>
+<p>لا توجد خطوة استيراد - مستويات الصوت لكل تطبيق ليست ملفًا تنتقل إليه - ولكن التبديل سريع:</p>
+<ul>
+<li><strong>قم بإزالة SoundBunny بشكل صحيح.</strong> قم بإنهاء ذلك، ثم احذف التطبيق. إذا قام بتثبيت أي مساعد أو عنصر تسجيل دخول، فقم بإزالته أيضًا حتى لا تتقاتل أداتان مساعدتان على نفس التدفقات الصوتية.</li>
+<li><strong>قم بتثبيت SoundDial من Mac App Store.</strong> لقد تم وضعها في وضع الحماية وتوزيعها من خلال المتجر، لذا لا يوجد DMG لتثبيته ولا يوجد تحذير من "مطور مجهول". عملية شراء واحدة مرتبطة بمعرف Apple الخاص بك.</li>
+<li><strong>منح الوصول الصوتي عند الإطلاق الأول.</strong> سيطلب macOS الإذن من SoundDial لرؤية صوت التطبيق. هذا هو المسار الحديث المعتمد الذي توفره Apple - لا يوجد امتداد للنواة، ولا إعادة تشغيل، ولا خفض أمان النظام. امنحها وستظهر تطبيقاتك قيد التشغيل كشرائح تمرير.</li>
+<li><strong>أعد بناء المزيج الخاص بك.</strong> قم بتعيين تطبيقاتك الشائعة، ثم احفظ هذا الترتيب كملف تعريف حتى لا تضطر إلى إعادته أبدًا.</li>
+</ul>
+
+<h2>الاختلافات العملية عن SoundBunny</h2>
+<p>الفرق الأكثر أهمية هو أن <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو البرنامج الحالي. إنه يعمل أصلاً على Apple Silicon، ويستخدم واجهات برمجة التطبيقات الصوتية المدعومة من Apple، وهو تطبيق Mac App Store - مما يعني أن التحديثات تصل عبر المتجر، وقد تم تصميمه ليتحمل ترقيات نظام التشغيل بدلاً من تعطيلها. إن كونك في وضع الحماية يعني أيضًا أنه لا يمكنه الوصول إلى خارج المسار الخاص به، وهو أمر مطمئن بالنسبة لشيء يقع بين تطبيقاتك ومكبرات الصوت.</p>
+<p>زوجان من التحذيرات الصادقة لذا فإن التوقعات صحيحة. نظرًا لأن SoundDial يعمل ضمن إطار عمل Apple الصوتي، فإن التحكم هو الأفضل للتطبيقات القياسية التي يتم توجيهها عبر مخرجات النظام العادية. تقوم بعض البرامج بتشغيل الصوت من خلال مسارها الخاص أو من خلال جهاز حصري، ولا يمكن لأي جهاز مزج شريط القوائم - بما في ذلك SoundBunny - التحكم في ذلك بشكل كامل. وحجم كل تطبيق هو بطبيعته طبقة برمجية أعلى macOS؛ إنه ليس خلاطًا للأجهزة. وضمن هذه الحدود الحقيقية، فإنه يقوم بالمهمة التي اعتاد SoundBunny القيام بها.</p>
+
+<blockquote>إذا قمت بالتبديل إلى Mac من Windows متوقعًا وجود Volume Mixer لكل تطبيق، فهذه هي الأداة التي تسد هذه الفجوة - وهي الآن أداة يتم صيانتها بالفعل.</blockquote>
+
+<p>حقق SoundBunny أداءً جيدًا، لكنه إرث. إذا كنت بحاجة إلى مستوى الصوت وكتم الصوت والتعزيز لكل تطبيق على Mac الحديث، <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو مرة واحدة، بدون اشتراك، بدون برامج تشغيل.</p>`,
+  },
+  "boom-2-alternative-per-app-volume-mac": {
+    slug: "boom-2-alternative-per-app-volume-mac",
+    title: "بديل Boom 2 لـ Mac: الحجم لكل تطبيق بدون زيادة مبيعات Boom 3D",
+    description: "Boom 2 هو إرث ويستمر في دفعك إلى Boom 3D. إذا كنت تريد فقط حجمًا لكل تطبيق وتعزيزًا بسيطًا لـ macOS الحديث، فإليك بديل مركّز وكيفية عمله.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>إذا كنت تحب Boom 2 للتعزيز على مستوى النظام ولكنك تريد البساطة <strong>لكل تطبيق</strong> الحجم على Mac الحالي، الإجابة الصادقة هي أن Boom 2 أصبحت قديمة ولم تعد الأداة الصحيحة. البديل المركز هو <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، وهو خلاط شريط قوائم يمنح كل تطبيق شريط تمرير مستوى الصوت وكتم الصوت والتعزيز الخاص به، مقابل 14.99 يورو مرة واحدة، دون الحاجة إلى الدفع إلى حزمة أكبر.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — بديل Boom 2 لـ Mac: الحجم لكل تطبيق بدون زيادة مبيعات Boom 3D" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا لم يعد Boom 2 مناسبًا</h2>
+<p>كان Boom 2 تطبيقًا محبوبًا لسبب محدد: فهو عزز الحجم الإجمالي لجهاز Mac الخاص بك بما يتجاوز الحد الأقصى للنظام وأضاف معادل الصوت. وقد فعلت ذلك على مستوى النظام، وليس لكل تطبيق. كان ذلك جيدًا في عام 2015. وفي عام 2026، سيواجه مشكلتين.</p>
+<p>أولاً، إنه الإرث. من الواضح أن Global Delight قد نقلت طاقتها إلى Boom 3D، وإذا قمت بفتح صفحة منتج Boom 2 فستجد نفسك مدفوعًا نحو التطبيق الأحدث والأعلى سعرًا على الفور تقريبًا. لا يزال Boom 2 موجودًا، ولكنه يمثل نقطة انطلاق يستخدمها البائع لبيع Boom 3D، وليس منتجًا يحصل على الحب النشط.</p>
+<p>ثانيًا، والأكثر أهمية: لم يكن Boom 2 أبدًا عبارة عن خلاط حجم لكل تطبيق. إنه يرفع ويشكل مخرجات رئيسية واحدة. إذا كان ألمك الفعلي هو أن صوت اختبار الاتصال Slack أعلى من صوت الموسيقى الخاصة بك، أو أن علامة تبويب المتصفح تحجب المكالمة، فإن Boom 2 لا يحل هذه المشكلة. يجعل كل شيء أعلى صوتًا معًا. هذه وظيفة مختلفة.</p>
+
+<h2>ماذا يعني "حجم لكل تطبيق" فعليًا على macOS</h2>
+<p>إليك السياق الصادق الذي تتخطاه معظم الجولات البديلة: لا يحتوي macOS على خلاط حجم مدمج لكل تطبيق على الإطلاق. كان لدى Windows واحدة منذ سنوات - انقر بزر الماوس الأيمن على مكبر الصوت، وافتح Volume Mixer، واضبط Chrome على 40% وSpotify على 80%. أبل لم تشحن ذلك أبدًا. يتحرك مفتاح مستوى الصوت macOS بمستوى رئيسي واحد فقط.</p>
+<p>لذلك عندما تبحث عن "بديل Boom 2"، فإن ما تبحث عنه غالبًا ليس صوت Mac أعلى - بل هو التحكم الذي يعتبره مستخدمو Windows أمرًا مفروغًا منه لكل تطبيق. هذه فجوة حقيقية في نظام التشغيل، ولم ينس Boom 2 أو أي تطبيق واحد إنشاءه.</p>
+
+<h2>حيث يناسب SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> بنيت لهذه الفجوة على وجه التحديد. يوجد في شريط القائمة ويسرد التطبيقات التي تقوم بتشغيل الصوت حاليًا، ولكل منها شريط التمرير الخاص بها. يمكنك تعيين مستويات لكل تطبيق بدلاً من دفع عنصر تحكم رئيسي واحد والأمل في الأفضل.</p>
+<p>ماذا يفعل:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - قم بتهدئة المتصفح، واحتفظ بالموسيقى في المكان الذي تريده، دون أي تنازلات عالمية.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات أحد التطبيقات المزعجة دون لمس أي شيء آخر.</li>
+<li><strong>تعزيز لكل تطبيق</strong> - دفع تطبيق فردي إلى ما يتجاوز سقفه الطبيعي عندما يتم تسجيل مقطع فيديو أو مكالمة بهدوء شديد. هذه هي القطعة التي عادة ما يفتقدها معجبو Boom 2، باستثناء أنها تستهدف تطبيقًا واحدًا بدلاً من النظام بأكمله.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ التخطيطات مثل "التركيز" أو "الاجتماع" أو "الألعاب" وقم بالتبديل بنقرة واحدة.</li>
+<li><strong>التملص التلقائي</strong> - خفض مستوى التطبيقات الأخرى تلقائيًا عند بدء التحدث، وهو مفيد للمكالمات والتسجيل.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والمخرجات الأخرى من نفس القائمة.</li>
+</ul>
+
+<h2>كيفية إعداده</h2>
+<p>سير العمل قصير:</p>
+<ul>
+<li>تثبيت <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> من Mac App Store - لا يوجد DMG ولا يوجد برنامج تشغيل ولا إعادة تشغيل.</li>
+<li>انقر على أيقونة شريط القائمة لرؤية كل تطبيق يصدر صوتًا حاليًا.</li>
+<li>اسحب شريط تمرير كل تطبيق إلى المستوى الذي تريده؛ كتم الصوت أو تعزيزه بشكل فردي حسب الحاجة.</li>
+<li>احفظ الترتيب كملف تعريف إذا كنت تريد إعادة استخدامه لاحقًا.</li>
+</ul>
+<p>نظرًا لأنه يتم شحنه عبر App Store، فهو في وضع الحماية ويتم تثبيته بشكل نظيف. وهذا أمر يستحق الاهتمام، لأن بعض أدوات الصوت القديمة كانت تعتمد على امتدادات kernel أو برامج تشغيل الصوت الافتراضية - وهو الشيء الذي يقاومه macOS بشكل متزايد. لا يطلب منك SoundDial تثبيت برنامج تشغيل أو خفض أي إعداد أمان.</p>
+
+<h2>تقييد صادق</h2>
+<p>يعد التعزيز لكل تطبيق أمرًا حقيقيًا ولكنه ليس سحريًا. إذا كان مصدر صوت التطبيق هادئًا حقًا أو تم تسجيله بشكل سيء، فإن تعزيزه يؤدي إلى رفع مستوى الضوضاء جنبًا إلى جنب مع الإشارة، لذلك يمكن أن تبدو المواد الهادئة جدًا هشة عند الضغط عليها بقوة. هذا هو الحد الفيزيائي للتضخيم، وليس عيبًا في أي تطبيق معين - كان لتعزيز نظام Boom 2 نفس المقايضة. تعامل مع التعزيز باعتباره مساحة رأسية للحالات العملية، وليس إنقاذًا للصوت المكسور.</p>
+
+<h2>Boom 2 مقابل الخلاط المركز</h2>
+<p>إذا كان ما أعجبك في Boom 2 هو ارتفاع الصوت على مستوى النظام بالإضافة إلى EQ، وكنت لا تهتم بالتحكم في كل تطبيق، فإن Boom 3D هو الوريث المقصود للبائع - وهذا طريق عادل، ولن نتظاهر بخلاف ذلك. ولكن إذا جربت Boom 2 وأدركت أن الشيء الذي تريده بالفعل هو إيقاف تطبيق واحد أو رفعه دون نقل كل شيء، فإن حزمة EQ-and-boost هي الشكل الخاطئ للأداة.</p>
+<blockquote>Boom 2 يجعل Mac بأكمله أعلى صوتًا. يتيح لك الخلاط لكل تطبيق تحديد التطبيق الأعلى صوتًا. تلك تحل مشاكل مختلفة.</blockquote>
+<p>فرق السعر يستحق أيضًا التسمية بوضوح. SoundDial هو 14.99 يورو مرة واحدة. لا يوجد اشتراك، ولا يوجد إصدار تجريبي يتحول إلى خطة أكبر، ولا يوجد مسار داخل التطبيق يوجهك إلى مستوى أكثر تكلفة. تشتري الخلاط، أنت تملك الخلاط.</p>
+
+<p>إذا كان الحجم لكل تطبيق - وليس المعادل على مستوى النظام - هو ما كنت تبحث عنه حقًا، <a href="https://apps.apple.com/app/id6772792641">جرب SoundDial على Mac App Store</a> وقم بتعيين مستوياتك بالطريقة التي كان من المفترض أن تسمح لك بها macOS طوال الوقت.</p>`,
+  },
+  "finetune-vs-sounddial-mac": {
+    slug: "finetune-vs-sounddial-mac",
+    title: "FineTune vs SoundDial: الحجم المجاني المفتوح المصدر مقابل الحجم المدفوع لكل تطبيق على Mac",
+    description: "FineTune هو تطبيق مجاني مفتوح المصدر لكل تطبيق لـ Mac؛ SoundDial هو تطبيق App Store مدفوع ومحمي مع التعزيز والملفات الشخصية والدعم. إليك مقارنة صادقة لمساعدتك على الاختيار.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>FineTune عبارة عن خلاط حجم مجاني ومفتوح المصدر لكل تطبيق لـ macOS، لذلك إذا كان السعر هو اهتمامك الوحيد، فهو خيار حقيقي. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو تطبيق Mac App Store مدفوع (14.99 يورو، لمرة واحدة) يضيف زيادة في مستوى الصوت لكل تطبيق، وملفات التعريف المحفوظة، والتهرب التلقائي، ودعم البائعين. الخيار الحقيقي هو أن تكون مجانيًا ويمكن تنفيذه بنفسك مقابل وضع الحماية والمدعوم.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune vs SoundDial: الحجم المجاني المفتوح المصدر مقابل الحجم المدفوع لكل تطبيق على Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>المشكلة يحلها كلا التطبيقين</h2>
+
+<p>لا يزال macOS لا يحتوي على خلاط حجم مدمج لكل تطبيق. كان لدى Windows واحدًا منذ سنوات - انقر بزر الماوس الأيمن على أيقونة مكبر الصوت، وافتح Volume Mixer، وسيحصل كل تطبيق على شريط التمرير الخاص به. في Mac، تحصل على شريط تمرير واحد لمستوى صوت النظام لكل شيء: الموسيقى الخاصة بك، ومكالمة فيديو، وYouTube، وأصوات الإشعارات، ولعبة، كلها تشاركها. إذا كانت مكالمتك هادئة جدًا وكان صوت Spotify مرتفعًا جدًا، فإن "الحل" الوحيد لديك هو كتم صوت Spotify بالكامل.</p>
+
+<p>يوجد كل من FineTune وSoundDial لملء هذه الفجوة. إنها تمنح كل تطبيق قيد التشغيل التحكم الخاص به في مستوى الصوت حتى تتمكن، على سبيل المثال، من الحفاظ على الاجتماع بنسبة 100% مع خفض موسيقى الخلفية إلى 20% - دون لمس شريط التمرير الرئيسي.</p>
+
+<h2>ما الذي يحصل عليه FineTune بشكل صحيح</h2>
+
+<p>FineTune هو تطبيق أحدث ومجاني ومفتوح المصدر بروح SoundSource. لنكن منصفين بشأن نقاط قوتها، لأنها حقيقية:</p>
+
+<ul>
+  <li><strong>لا يكلف شيئا.</strong> لا ترخيص، لا محاكمة، لا تذمر ترقية.</li>
+  <li><strong>المصدر مفتوح.</strong> يمكنك قراءة ما يفعله بالضبط، ومراجعته من أجل الخصوصية، و- إذا كنت تعرف Swift - تعديله أو تفرعه.</li>
+  <li><strong>إنها مدفوعة بالمجتمع.</strong> يمكن لأي شخص إصلاح الأخطاء، ويظل الكود صالحًا بعد انتهاء صلاحية أي شركة منفردة.</li>
+  <li><strong>ويغطي الحاجة الأساسية.</strong> حجم مستقل لكل تطبيق، وهي الميزة التي يبحث عنها 90% من الأشخاص بالفعل.</li>
+</ul>
+
+<p>إذا كان مطلبك الوحيد هو "اسمح لي بإيقاف تطبيق واحد دون إيقاف كل شيء"، وكنت مرتاحًا مع البرنامج الذي لا يحتوي على مكتب دعم رسمي، فإن FineTune هو إجابة مشروعة. التوصية به هنا ليست تنازلاً - إنها صادقة.</p>
+
+<h2>المقايضات الصادقة لطريق DIY</h2>
+
+<p>تحمل البرامج المجانية والمفتوحة المصدر تكاليف حقيقية لا تظهر على بطاقة السعر. هذه ليست طرقًا على FineTune على وجه التحديد - إنها طبيعة النهج:</p>
+
+<ul>
+  <li><strong>التثبيت يدوي.</strong> عادةً ما يتم توزيع الأدوات الصوتية مفتوحة المصدر كإصدار تم تنزيله أو صيغة Homebrew، وليس من خلال App Store. تقوم بالتثبيت خارج نطاق مراجعة Apple، وستكون في مأزق لإبقائه محدثًا.</li>
+  <li><strong>يعد اعتراض الصوت لكل تطبيق هشًا بطبيعته.</strong> يعد توجيه الصوت الخاص بتطبيق آخر بمثابة عمل عميق للنظام. عندما تقوم Apple بشحن تحديث macOS الذي يغير حزمة الصوت، يمكن أن تنقطع هذه الأدوات حتى يقوم شخص ما بتصحيحها. مع مشروع تطوعي، قد يكون "شخص ما" مشغولاً في ذلك الشهر.</li>
+  <li><strong>الدعم هو أفضل جهد.</strong> إذا تعطل شيء ما، فإن اللجوء الخاص بك هو مشكلة GitHub وانتظار. لا يوجد رد مضمون ولا أحد ملزم بإصلاحه.</li>
+  <li><strong>نطاق الميزة هو ما يشحنه المشرفون.</strong> من المحتمل أن يتم تغطية التحكم في مستوى الصوت الأساسي؛ تعتمد الإضافات كليًا على وقت المساهم.</li>
+</ul>
+
+<blockquote>التأطير الصادق: FineTune يتاجر بالمال مقابل مسؤولية الصيانة. يمكنك توفير 14.99 يورو وتتحمل مخاطر أن يؤدي تحديث نظام التشغيل إلى تعطله حتى يلحق المجتمع بالركب.</blockquote>
+
+<h2>حيث يختلف SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يأخذ التجارة المعاكسة. أنت تدفع مرة واحدة، وفي المقابل تحصل على منتج App Store مع بائع يقف وراءه ومجموعة ميزات أوسع مبنية على حجم كل تطبيق:</p>
+
+<ul>
+  <li><strong>مستوى الصوت لكل تطبيق وكتم الصوت</strong> - خط الأساس المشترك الذي يقدمه كلا التطبيقين.</li>
+  <li><strong>زيادة حجم الصوت لكل تطبيق</strong> - دفع تطبيق هادئ جدًا إلى ما يزيد عن 100%. مفيد للتطبيقات ذات إخراج الصوت الضعيف حيث لا يزال رفض الآخرين غير كاف.</li>
+  <li><strong>ملفات تعريف الحجم</strong> - احفظ عمليات المزج الكاملة ("الاجتماع"، و"التركيز"، و"الألعاب") وقم بالتبديل بنقرة واحدة بدلاً من إعادة تعيين أشرطة التمرير في كل مرة.</li>
+  <li><strong>التملص التلقائي</strong> - خفض تطبيقات الخلفية تلقائيًا عندما تتحدث أو عندما يصبح التطبيق المختار نشطًا، بحيث يتم إجراء المكالمات دون تلاعب يدوي.</li>
+  <li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والمخرجات الأخرى من شريط القائمة.</li>
+</ul>
+
+<p>بنفس القدر من الأهمية <em>كيف</em> انها السفن. يتم وضع SoundDial في وضع الحماية ويتم توزيعه من خلال Mac App Store - لا يوجد DMG منفصل، ولا توجد برامج تشغيل kernel، ولا يتم تثبيت برنامج تشغيل الصوت. تأتي التحديثات عبر App Store مثل أي تطبيق آخر، ويوجد مطور حقيقي لإرساله عبر البريد الإلكتروني عندما يكون هناك خطأ ما. هذه هي القيمة الملموسة البالغة 14.99 يورو: ليس فقط المزيد من الميزات، ولكن أيضًا شخص مسؤول عن استمرار تشغيلها عبر إصدارات macOS.</p>
+
+<h2>تحذير صادق ينطبق على كليهما</h2>
+
+<p>لا يمكن لأي تطبيق تابع لجهة خارجية تحويل نظام الصوت الخاص بـ macOS إلى Volume Mixer "Windows"، لأن Apple لا تعرض واجهة برمجة تطبيقات عامة نظيفة للصوت لكل تطبيق. تعمل كل أداة في هذه الفئة - مجانية أو مدفوعة، مفتوحة أو مغلقة - على التغلب على هذا القيد باستخدام تقنيات الصوت على مستوى النظام. وهذا يعني أن كلا من FineTune وSoundDial يمكن أن يتأثرا بالتغييرات الصوتية الرئيسية في macOS. الفرق هو من المسؤول عن الإصلاح بعد ذلك: مجتمع متطوع، أو بائع مدفوع الأجر يعتمد منتجه عليه.</p>
+
+<h2>ما الذي يجب عليك اختياره؟</h2>
+
+<ul>
+  <li><strong>اختر FineTune إذا</strong> أنت لا تريد أي تكلفة، وتقدر الشفافية مفتوحة المصدر، وتحتاج فقط إلى حجم أساسي لكل تطبيق، وتشعر بالراحة في التثبيت خارج App Store وتدعم نفسك عندما تتعطل الأمور.</li>
+  <li><strong>اختر SoundDial إذا</strong> تريد تثبيت App Store بنقرة واحدة، وإضافات مثل التعزيز، والملفات الشخصية، والتهرب التلقائي، والطمأنينة بالتحديثات والدعم من بائع لديه مظهر في اللعبة.</li>
+</ul>
+
+<p>كلاهما صالح. يتعلق الأمر حقًا بما إذا كنت تفضل إنفاق المال أو إنفاق الاهتمام. إذا كنت تفضل شراء تطبيق مدعوم ووضع الحماية وعدم التفكير فيه مرة أخرى مطلقًا، <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> مقابل 14.99 يورو لمرة واحدة - بدون اشتراك، بدون برامج تشغيل، بدون DMG.</p>`,
+  },
+  "background-music-vs-sounddial-mac": {
+    slug: "background-music-vs-sounddial-mac",
+    title: "Background Music vs SoundDial: هل خلاط الصوت Mac المجاني كافٍ؟",
+    description: "منافسة عادلة بين تطبيق Background Music المجاني وSoundDial المدفوع. أين يعمل نهج برنامج التشغيل الافتراضي المجاني، وأين ينقطع، ومتى يستحق الخلاط الأصلي بقيمة 14.99 يورو.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>Background Music مجاني وجيد حقًا في الأساسيات: فهو يمنح كل تطبيق شريط تمرير الصوت الخاص به ويمكنه إيقاف الموسيقى مؤقتًا تلقائيًا عند تشغيل تطبيق آخر. إذا كان هذا هو كل ما تحتاجه، استخدمه. ولكنه يعتمد على برنامج تشغيل صوت افتراضي يمكن أن ينقطع بعد تحديثات macOS ويفتقر إلى التعزيز لكل تطبيق، وملفات التعريف، وتبديل الإخراج. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يقوم بتداول الأموال مقابل بديل مدعوم وخالي من برامج التشغيل.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music vs SoundDial: هل خلاط الصوت Mac المجاني كافٍ؟" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>أولاً، الحقيقة الصادقة حول macOS</h2>
+<p>لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق. كان لدى Windows واحدة منذ أكثر من عقد من الزمان في Volume Mixer الخاص بها، ولكن في Mac يقوم شريط تمرير النظام بنقل كل شيء مرة واحدة. لا توجد واجهة برمجة تطبيقات مدعومة من Apple تسمح لتطبيق جهة خارجية باعتراض تدفقات التطبيقات الفردية وإعادة توازنها بشكل واضح. هذه الفجوة الوحيدة هي سبب وجود أدوات مثل Background Music وSoundDial على الإطلاق، وهي السبب الجذري لمعظم المقايضات أدناه.</p>
+
+<h2>ما يفعله Background Music بشكل جيد</h2>
+<p>Background Music هو تطبيق شريط قوائم مفتوح المصدر موجود منذ سنوات ويحظى بمتابعين مخلصين لسبب وجيه. يمنحك:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - الميزة الأساسية. قم بخفض مستوى Spotify مع الحفاظ على صوت المكالمة مرتفعًا.</li>
+<li><strong>الإيقاف المؤقت التلقائي</strong> - يمكنه إيقاف مشغل الموسيقى الخاص بك مؤقتًا عندما يبدأ الصوت في مكان آخر، وهي لمسة لطيفة للاجتماعات.</li>
+<li><strong>حجم الجهاز الذي يتبعك</strong> وواجهة بسيطة لا معنى لها.</li>
+<li><strong>تكلفة صفر</strong> — إنه مجاني والكود عام.</li>
+</ul>
+<p>بالنسبة لكثير من الناس هذا يكفي. إذا كانت قائمة أمنياتك بأكملها هي "جعل أحد التطبيقات المزعجة أكثر هدوءًا دون لمس الباقي"، فإن Background Music يغطيها، ويجب ألا تدفع مقابل شيء لا تحتاجه. إن العدالة هنا أمر مهم: فهذه أداة مفيدة بشكل مشروع.</p>
+
+<h2>حيث يظهر النهج الحر طبقاته</h2>
+<p>المصيد هو <em>كيف</em> يحقق Background Music حجمًا لكل تطبيق. نظرًا لأن macOS لا يوفر أي مسار رسمي، فإنه يقوم بتثبيت برنامج تشغيل صوت افتراضي (نسخة معدلة من أسلوب Soundflower القديم) الذي يوجه صوت نظامك من خلال نفسه. هذه الهندسة المعمارية ذكية، لكنها تحمل تكاليف حقيقية:</p>
+<ul>
+<li><strong>ينقطع بعد تحديثات macOS.</strong> توجد برامج تشغيل الصوت الافتراضية عميقًا في النظام، وقد قامت إصدارات macOS الرئيسية بتعطيلها أو زعزعة استقرارها تاريخيًا. يقوم المستخدمون بشكل روتيني بالإبلاغ عن الصمت أو التشويه أو الحاجة إلى إعادة التثبيت بعد الترقية. عندما ينكسر، غالبًا ما تكون بمفردك.</li>
+<li><strong>التثبيت أثقل.</strong> أنت تقوم بإضافة جهاز صوت مجاور لـ kernel إلى Mac، وليس مجرد تطبيق. يمكن أن يكون إلغاء التثبيت بشكل نظيف أمرًا تافهًا.</li>
+<li><strong>يصبح جهاز الإخراج الافتراضي الخاص بك.</strong> نظرًا لأن كل شيء يتم توجيهه عبر الجهاز الظاهري، فإن بعض تطبيقات الصوت الاحترافي أو المؤتمرات أو الألعاب يمكن أن تتصرف بشكل غريب، ويعد تبديل الإخراج الحقيقي خطوة إضافية.</li>
+<li><strong>التنمية تسير بخطى المجتمع.</strong> لا يوجد مكتب دعم. تصل الإصلاحات عندما يكون لدى أحد المتطوعين الوقت، وهو ما يشكل خطرًا كبيرًا بالنسبة لأداة صوتية يمكن أن تصبح صامتة فجأة.</li>
+</ul>
+<p>لا شيء من هذا يجعل Background Music سيئًا. إنها تجعلها أداة مجانية مع مقايضات أداة مجانية.</p>
+
+<h2>ما تدفعه بالفعل مقابل SoundDial</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو تطبيق Mac App Store، الذي يشكل ما هو عليه. نظرًا لأن تطبيقات App Store محمية ولا يمكنها شحن نوع برنامج التشغيل الظاهري منخفض المستوى الذي يستخدمه Background Music، فقد تم تصميم SoundDial للتشغيل دون تثبيت جهاز صوت منفصل أو DMG. وهذا يعني:</p>
+<ul>
+<li><strong>لا توجد مراوغات في برنامج التشغيل الظاهري.</strong> لا يوجد جهاز إخراج إضافي يخطف سلسلة الصوت الخاصة بك، ولا يوجد شيء يمكن إعادة تثبيته عندما يتغير النظام.</li>
+<li><strong>إنه ينجو من تحديثات macOS بشكل أكثر رشاقة.</strong> يعني توزيع App Store ووضع الحماية أنه تم إنشاؤه وفقًا للمسارات المدعومة ويتم تحديثه من خلال المتجر، لذلك من غير المرجح أن تتركك ترقية نظام التشغيل صامتًا.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق.</strong> هذا فرق حقيقي في الميزات: يمكن لـ SoundDial دفع التطبيق <em>أعلاه</em> 100% للمصادر الهادئة - تم تسجيل بودكاست منخفض جدًا أو مكالمة فيديو مكتومة. Background Music يخفف فقط.</li>
+<li><strong>ملفات تعريف الحجم.</strong> احفظ مجموعة من المستويات لكل تطبيق ("الاجتماع"، "الموسيقى"، "الألعاب") وقم بالتبديل بنقرة واحدة بدلاً من سحب أشرطة التمرير في كل مرة.</li>
+<li><strong>التملص التلقائي.</strong> قم بإسقاط مستوى صوت التطبيقات الأخرى تلقائيًا عند تشغيل المصدر المختار - وهي طريقة أكثر قابلية للتكوين لفكرة الإيقاف المؤقت التلقائي.</li>
+<li><strong>التبديل السريع للإخراج</strong> مخبأة في شريط القائمة، بالإضافة إلى كتم الصوت لكل تطبيق.</li>
+<li><strong>الدعم الحقيقي.</strong> إنه منتج مدفوع الأجر مع شخص مسؤول عندما يحدث خطأ ما.</li>
+</ul>
+
+<h2>القرار الصادق</h2>
+<blockquote>إذا كنت تريد مجانًا وتحتاج فقط إلى حجم أساسي لكل تطبيق، وتشعر بالراحة في استكشاف الأخطاء وإصلاحها بعد تحديثات macOS، فإن Background Music يعد خيارًا قويًا. إذا كنت تريد التعزيز، والملفات الشخصية، والتهرب، وتبديل الإخراج، وعدم هشاشة برنامج التشغيل الافتراضي، وشخص ما لإرسال بريد إلكتروني عند تعطله، فإن سعر SoundDial يبلغ 14.99 يورو.</blockquote>
+<p>عدد قليل من فواصل التعادل ملموسة. إذا كنت تتعامل بانتظام مع مصادر هادئة للغاية، فإن التعزيز وحده يبرر السعر - ببساطة لا يمكن لـ Background Music جعل الصوت أعلى من المصدر. إذا كنت تخشى المقامرة السنوية "هل سينجو صوتي من التحديث"، فإن تطبيق متجر الحماية يزيل هذا القلق. إذا كنت تحب مشاهد الضبط والنسيان، فإن الملفات الشخصية توفر الاحتكاك الحقيقي. وهو 14.99 يورو لمرة واحدة، وليس اشتراكًا، وبالتالي فإن المقارنة هي عملية شراء واحدة مقابل الوقت الذي تقضيه في صيانة برنامج تشغيل مجاني.</p>
+<p>على العكس من ذلك، إذا كنت من الأشخاص الذين يستمتعون بالمصادر المفتوحة، ويريدون قراءة التعليمات البرمجية، وفي الغالب يرفضون تطبيقًا واحدًا فقط - فوفر أموالك. كلتا الأداتين تحلان نفس المشكلة الأساسية؛ إنها تختلف في المتانة وعمق الميزة ومن يلفت انتباهك عندما يتغير macOS تحتها.</p>
+
+<p>هل تريد حجمًا لكل تطبيق دون مقامرة برنامج التشغيل الافتراضي؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو لمرة واحدة، مع وضع الحماية، بدون برامج تشغيل، مع تعزيز وملفات تعريف وميزة التهرب التلقائي.</p>`,
+  },
+  "is-soundsource-worth-it-mac": {
+    slug: "is-soundsource-worth-it-mac",
+    title: "هل تبلغ قيمة SoundSource 39 دولارًا؟ بديل Mac أرخص لمرة واحدة",
+    description: "SoundSource هي أداة صوتية قوية Mac بسعر 39 دولارًا تقريبًا، ولكنها مبالغة إذا كنت تحتاج فقط إلى مستوى الصوت والتعزيز لكل تطبيق. إليك مقارنة صادقة وبديل بقيمة 14.99 يورو لمرة واحدة.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>يستحق SoundSource ذلك إذا كنت بحاجة إلى مجموعة أدواته الكاملة: مستوى الصوت لكل تطبيق، ومعادل الصوت ذو 10 نطاقات لكل تطبيق، وتوجيه الصوت بين الأجهزة، والتأثيرات على مستوى النظام. ولكن عند حوالي 39 دولارًا، يعد هذا أمرًا مبالغًا فيه إذا كنت تريد بشكل أساسي مستوى الصوت لكل تطبيق، وكتم الصوت لكل تطبيق، وزيادة مستوى الصوت. لتلك المهمة الضيقة، <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يكلف 14.99 يورو مرة واحدة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — هل تبلغ قيمة SoundSource 39 دولارًا؟ بديل Mac أرخص لمرة واحدة" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>ما يفعله SoundSource بالفعل</h2>
+<p>يعد SoundSource الخاص بـ Rogue Amoeba برنامجًا ممتازًا حقًا، ومن المهم أن نكون منصفين بشأن ذلك. إنه ليس مجرد خلاط حجم. يمنحك:</p>
+<ul>
+<li><strong>التحكم في مستوى الصوت لكل تطبيق</strong> من شريط القائمة، وهي الميزة التي يأتي إليها معظم الأشخاص.</li>
+<li><strong>معادل كامل ذو 10 نطاقات</strong> يمكنك التقديم لكل تطبيق أو على مستوى النظام، بالإضافة إلى تأثيرات صوتية أخرى (عبر المكونات الإضافية لوحدة الصوت).</li>
+<li><strong>توجيه الإخراج/الإدخال</strong>، بما في ذلك إرسال تطبيق واحد إلى جهاز إخراج مختلف عن باقي النظام.</li>
+<li><strong>التبديل السريع للجهاز</strong> وإعدادات EQ المسبقة الخاصة بسماعات الرأس.</li>
+</ul>
+<p>إذا كنت من مستخدمي البودكاست أو القائم بالبث المباشر أو الطالب الذي يذاكر كثيرا في مجال الصوت ويريد ضبط EQ على سماعات الرأس الخاصة بك، أو إعادة توجيه صوت أحد التطبيقات إلى مكبر صوت منفصل، أو تجميع تأثيرات وحدة الصوت، فإن SoundSource يستحق سعره. لا شيء هنا هو طرق عليه.</p>
+
+<h2>سؤال السعر</h2>
+<p>SoundSource عبارة عن ترخيص مدفوع لمرة واحدة يبلغ حوالي 39 دولارًا (يختلف السعر حسب الإصدار والعروض الترويجية). إنه ليس اشتراكًا متكررًا بمعنى Netflix، ولكنه يتبع نمط التطبيقات المدفوعة الكلاسيكية: تشتري إصدارًا رئيسيًا، وعادةً ما تكون الترقيات الرئيسية المستقبلية عبارة عن ترقيات مدفوعة مخفضة بدلاً من أن تكون مجانية إلى الأبد. على مدار عدة سنوات، يعد هذا أكثر من مجرد عملية شراء واحدة. بالنسبة للعديد من مستخدمي Mac، السؤال الصادق هو: هل أدفع 39 دولارًا مقابل مجموعة التوجيه والمعادل عندما يكون كل ما ألمسه حقًا هو أشرطة تمرير مستوى الصوت لكل تطبيق؟</p>
+
+<blockquote>إذا قمت بفتح SoundSource ولم تستخدم سوى أشرطة تمرير مستوى الصوت وأزرار كتم الصوت، فأنت تدفع مقابل مجموعة لاستخدام درج واحد منها.</blockquote>
+
+<h2>لماذا المشكلة موجودة اصلا</h2>
+<p>إليك السبب الجذري الصادق: لا يحتوي macOS على خلاط صوت مدمج لكل تطبيق. كان لدى Windows واحد منذ سنوات، ولكن في Mac، حجم النظام هو كل شيء أو لا شيء. لا توجد طريقة توفرها Apple لإبقاء Spotify هادئًا بينما تظل مكالمة الفيديو عالية، أو لكتم صوت تطبيق واحد دون لمس أي شيء آخر. هذه الفجوة هي بالضبط سبب استخدام أدوات مثل SoundSource و <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> موجود. إنه قيود حقيقية على نظام التشغيل، وليس شيئًا ابتكره أي من التطبيقين لمشكلة لحلها.</p>
+
+<h2>حيث يناسب الخيار الأخف والأرخص</h2>
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> عبارة عن خلاط حجم لشريط القوائم لكل تطبيق مصمم للحالة الشائعة بدلاً من الحالة الصوتية الاحترافية. ويغطي:</p>
+<ul>
+<li><strong>حجم مستقل لكل تطبيق</strong> - قم بإسقاط الموسيقى الخاصة بك بينما يبقى الاجتماع على المستوى الكامل.</li>
+<li><strong>كتم الصوت لكل تطبيق</strong> - إسكات تطبيق واحد دون كتم صوت Mac.</li>
+<li><strong>زيادة حجم الصوت لكل تطبيق</strong> - ادفع التطبيق الهادئ إلى مستوى أعلى من 100% عندما يكون المصدر ضعيفًا للغاية.</li>
+<li><strong>ملفات تعريف الحجم</strong> - احفظ مجموعة من المستويات لكل تطبيق (على سبيل المثال، تخطيط "التركيز" أو "الاتصال") والتبديل بنقرة واحدة.</li>
+<li><strong>التملص التلقائي</strong> - خفض التطبيقات الأخرى تلقائيًا عند بدء التحدث أو عند تشغيل التطبيق المختار.</li>
+<li><strong>التبديل السريع للإخراج</strong> - التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى من شريط القائمة.</li>
+</ul>
+<p>إنه <strong>14.99 يورو لمرة واحدة</strong>، يتم بيعه من خلال Mac App Store، لذا فهو في وضع الحماية ولا يوجد DMG منفصل، ولا يوجد امتداد kernel، ولا يوجد برنامج تشغيل صوت لتثبيته. يمكنك تنزيله مثل أي تطبيق App Store ويتم تحديثه من خلال المتجر.</p>
+
+<h2>مقارنة صادقة</h2>
+<p>كن واضحًا بشأن المقايضة. SoundSource يقوم بأكثر من SoundDial، وإذا كان أي من الأمور التالية يهمك، فإن SoundSource هو الشراء الأفضل:</p>
+<ul>
+<li>تريد تطبيقًا أو نظامًا حقيقيًا <strong>المعادل</strong> وتأثيرات وحدة الصوت.</li>
+<li>أنت بحاجة إلى ذلك <strong>توجيه تطبيق واحد إلى جهاز إخراج مختلف</strong> من كل شيء آخر.</li>
+<li>عليك الاعتماد على <strong>إعدادات EQ المسبقة الخاصة بسماعات الرأس</strong> ومعالجة الصوت الدقيقة.</li>
+</ul>
+<p>لا يقوم SoundDial بإجراء EQ أو توجيه الجهاز لكل تطبيق. انها أضيق عمدا. ما يقدمه لك في المقابل هو سعر أقل، وبصمة أخف، وواجهة شريط قوائم مركزة للشيء الذي يريده معظم الأشخاص بالفعل: الحفاظ على كل تطبيق في المستوى الذي تختاره، مع التعزيز والملفات الشخصية في الأعلى.</p>
+
+<h2>فهل يستحق SoundSource ذلك؟</h2>
+<p>نعم، إذا كنت ستستخدم المعادل والتوجيه. إنه برنامج ناضج ومدعوم جيدًا من مطور محترم، ويعكس السعر القدرة الحقيقية. لكن "يستحق كل هذا العناء" يعتمد على ما ستلمسه. إذا قمت بفتح التطبيق وقمت فقط بضبط أشرطة تمرير مستوى الصوت، أو كتم صوت أحد التطبيقات، أو كنت ترغب في أن يكون صوت أحد التطبيقات الهادئة أعلى، فأنت تدفع أموالاً متميزة مقابل احتياجات الخلاط الأساسية. في هذه الحالة، تكون الأداة التي تبلغ قيمتها 14.99 يورو لمرة واحدة هي الأكثر ملاءمة، ويمكنك دائمًا الانتقال إلى SoundSource لاحقًا إذا نمت احتياجاتك إلى EQ والتوجيه.</p>
+
+<p>إذا كان مستوى الصوت والتعزيز والكتم والملفات الشخصية والخفض التلقائي لكل تطبيق هو كل ما تبحث عنه، <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> - 14.99 يورو مرة واحدة، بدون اشتراك، بدون برامج تشغيل.</p>`,
+  },
+  "chrome-too-loud-mac": {
+    slug: "chrome-too-loud-mac",
+    title: "Chrome بصوت عالٍ جدًا على Mac؟ قم بإيقاف متصفح واحد دون كتم كل شيء",
+    description: "هل Chrome يتفوق بصوت أعلى على تطبيقاتك الأخرى على Mac؟ تعرف على الإصلاحات المضمنة (كتم الصوت لكل علامة تبويب، وإعدادات صوت الموقع) وكيفية تعيين مستوى صوت حقيقي لكل تطبيق لـ Chrome بحيث يظل أكثر هدوءًا من أي شيء آخر.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا يحتوي macOS على وحدة تخزين مدمجة لكل تطبيق، لذا لا يمكنك إيقاف تشغيل Chrome أثناء ترك التطبيقات الأخرى بكامل حجمها. تتمثل أسرع الإصلاحات المجانية في كتم علامات التبويب المزعجة، أو خفض مستوى الصوت داخل كل مشغل فيديو، أو حظر الصوت لكل موقع في إعدادات Chrome. للحصول على مستوى صوت حقيقي ومستمر لـ Chrome فقط، تحتاج إلى خلاط لكل تطبيق.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome بصوت عالٍ جدًا على Mac؟ قم بإيقاف متصفح واحد دون كتم كل شيء" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يبدو Chrome أعلى من أي شيء آخر</h2>
+<p>ليس بالضرورة أن يكون Chrome "أعلى صوتًا" حسب التصميم - حيث يقوم Chrome بتوجيه الصوت من العديد من المصادر المستقلة: YouTube، والإعلانات التي يتم تشغيلها تلقائيًا، ومكالمات الفيديو، وعلامات تبويب الموسيقى الخلفية، وتطبيقات الويب التي يصدر كل منها جهارة الصوت الخاصة به. يتم إتقان بعض المواقع بشكل رائع، وتكون الإعلانات عالية جدًا، ويقوم Chrome بتشغيلها جميعًا على مستوى الإخراج الكامل لنظامك. وفي الوقت نفسه، قد يكون تطبيق الموسيقى أو المكالمة أكثر هدوءًا، لذلك يهيمن Chrome على المزيج.</p>
+<p>في Windows، ما عليك سوى فتح Volume Mixer وسحب شريط التمرير Chrome لأسفل. macOS ببساطة لا يتضمن هذه الميزة. يتحكم مفتاح مستوى صوت النظام في كل شيء مرة واحدة، لذا فإن خفض مستوى صوت Chrome يؤدي أيضًا إلى إيقاف تشغيل الموسيقى والإشعارات والمكالمات. هذا هو القيد الأساسي — وهو عبارة عن فجوة في نظام التشغيل، وليس شيئًا تفعله بشكل خاطئ.</p>
+
+<h2>إصلاحات مدمجة لا تكلف شيئًا</h2>
+<p>قبل تثبيت أي شيء، جرب هذه. لن يعطوك قرصًا واحدًا لمستوى الصوت Chrome، لكنهم يحلون معظم مشكلات "علامة التبويب بصوت عالٍ".</p>
+<ul>
+<li><strong>كتم علامة تبويب صاخبة.</strong> انقر بزر الماوس الأيمن فوق علامة التبويب واختر "كتم الموقع"، أو انقر فوق رمز مكبر الصوت الصغير الذي يظهر في علامة تبويب تشغيل الصوت. يؤدي هذا إلى إسكات علامة التبويب هذه تمامًا دون لمس بقية Chrome.</li>
+<li><strong>قم بخفض مستوى الصوت داخل المشغل.</strong> الحيلة الأكثر موثوقية: اسحب شريط تمرير مستوى الصوت لأسفل داخل YouTube أو Netflix أو أي شيء يتم تشغيله. يتذكر مشغلو الويب مستواهم الخاص لكل موقع، لذلك يظل YouTube الأكثر هدوءًا هادئًا في المرة القادمة.</li>
+<li><strong>منع الصوت لكل موقع.</strong> اذهب الى <em>الكروم: // الإعدادات / المحتوى / الصوت</em>. يمكنك تبديل المواقع بين "مسموح بها" و"مكتومة"، وإضافة نطاقات محددة إلى قائمة كتم الصوت. رائعة لإسكات المواقع التي يتم تشغيلها تلقائيًا بشكل دائم.</li>
+<li><strong>قتل إعلانات التشغيل التلقائي.</strong> غالبًا ما يكون صوت الإعلان هو الجاني الحقيقي. يؤدي حظر المحتوى أو كتم علامة التبويب حتى تصبح جاهزًا للمشاهدة إلى إزالة معظم جهارة الصوت المفاجئة.</li>
+</ul>
+<blockquote>هذه مفيدة حقا ومجانية. لكن لاحظ ما لا يمكنهم فعله: فهم يكتمون علامات التبويب الفردية أو يديرونها. لم يسمح لك أي منهم بقول "حافظ على Chrome بالكامل عند 40% بينما تظل الموسيقى الخاصة بي عند 100%."</blockquote>
+
+<h2>القيد الصادق: لا يوجد حجم لكل تطبيق في macOS</h2>
+<p>إذا كان هدفك الفعلي هو "يجب أن يكون Chrome دائمًا أكثر هدوءًا من تطبيقاتي الأخرى"، فإن الأدوات المدمجة تكون غير كافية. يعد كتم الصوت لكل علامة تبويب بمثابة كل شيء أو لا شيء. يتم إعادة تعيين أشرطة تمرير المشغل عندما لا يتذكرها الموقع ويجب إعادة بنائها باستمرار. ويقوم حجم النظام بتحريك كل شيء معًا.</p>
+<p>هذا قيد macOS حقيقي، وليس خطأ يمكنك تهيئته بعيدًا. لم تقم شركة Apple أبدًا بشحن خلاط حجم على طراز Windows. الطريقة الوحيدة للحصول على مستوى صوت ثابت ومستقل لـ Chrome على وجه التحديد هي تطبيق تابع لجهة خارجية يقع بين تطبيقاتك وجهاز الإخراج الخاص بك ويطبق مكاسب لكل تطبيق.</p>
+
+<h2>قم بتعيين حجم حقيقي لكل تطبيق لـ Chrome</h2>
+<p>خلاط شريط القائمة مثل <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يمنح macOS التحكم في مستوى الصوت المفقود لكل تطبيق. فهو يسرد كل تطبيق يقوم بتشغيل الصوت حاليًا ويمنح كل تطبيق شريط التمرير الخاص به - حتى تتمكن من سحب Chrome إلى مستوى مريح وترك Spotify ومكالماتك وأصوات النظام في مكانها تمامًا.</p>
+<p>إليك كيفية ترويض Chrome بصوت عالٍ باستخدامه:</p>
+<ul>
+<li>افتح خلاط شريط القائمة وابحث عن Chrome في قائمة التطبيقات النشطة.</li>
+<li>اسحب شريط تمرير Chrome لأسفل، على سبيل المثال، بنسبة 40 إلى 50 بالمائة. تبقى التطبيقات الأخرى دون تغيير.</li>
+<li>إذا كان هناك تطبيق محدد أيضًا <em>هادئ</em> بدلاً من ذلك - استخدم تطبيق الاتصال الذي يهمس <a href="https://apps.apple.com/app/id6772792641">زيادة حجم الصوت لكل تطبيق</a> لدفعه فوق 100 بالمائة، مع إبقاء Chrome منخفضًا.</li>
+<li>كتم صوت Chrome على الفور باستخدام كتم الصوت لكل تطبيق عندما تحتاج إلى الصمت دون إغلاق علامات التبويب.</li>
+</ul>
+<p>نظرًا لأن المستوى مرتبط بالتطبيق، فإنه يظل ثابتًا. يظل Chrome عند مستوى الصوت الذي اخترته عبر علامات التبويب والمواقع وعمليات إعادة التشغيل - دون الحاجة إلى إعادة سحب أشرطة تمرير المشغل في كل مرة تفتح فيها مقطع فيديو جديدًا.</p>
+
+<h2>المضي قدمًا: الملفات الشخصية، والتهرب، وتبديل الإخراج</h2>
+<p>بمجرد حصولك على التحكم في كل تطبيق، فإن بعض الإضافات تجعل الأمر يستحق الاحتفاظ به. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتيح لك حفظ الحجم <strong>الملفات الشخصية</strong> - على سبيل المثال ملف تعريف "التركيز" حيث يكون Chrome هادئًا والموسيقى عالية، وملف تعريف "المشاهدة" حيث يهيمن Chrome - والتبديل بينهما بنقرة واحدة. يمكن أن يؤدي التهرب التلقائي إلى خفض التطبيقات الأخرى تلقائيًا عند بدء تشغيل المصدر المختار (مفيد حتى لا يتم إخفاء المكالمة مطلقًا تحت علامة تبويب متصفح عالية الصوت). ويتيح لك التبديل السريع للإخراج التنقل بين مكبرات الصوت وسماعات الرأس والأجهزة الأخرى دون الغوص في إعدادات النظام.</p>
+<p>إنها عملية شراء لمرة واحدة بقيمة 14.99 يورو على Mac App Store - بدون اشتراك، ولا توجد برامج تشغيل للتثبيت، ولا DMG أو امتداد kernel. نظرًا لأنه موجود في وضع الحماية ويتم توزيعه من خلال App Store، فإنه لا يتطلب أن يقوم برنامج تشغيل الصوت غير الواضح بتثبيت أدوات الخلاط القديمة التي تم الاعتماد عليها.</p>
+
+<h2>ما هو الإصلاح الذي يجب عليك استخدامه؟</h2>
+<p>إذا كان لديك علامة تبويب واحدة مزعجة بين الحين والآخر، فاستخدم كتم الصوت المدمج في Chrome وإعدادات الصوت بالموقع - فهي مجانية وتعمل. إذا كنت تجد نفسك دائمًا تتمنى أن يتم رفض Chrome ببساطة بينما يظل كل شيء آخر في مكانه، فهذه هي الفجوة الدقيقة التي يتركها macOS مفتوحة، والخلاط لكل تطبيق هو الحل النظيف.</p>
+
+<p>هل تريد أن يكون Chrome أكثر هدوءًا بشكل دائم دون كتم صوت الموسيقى أو المكالمات؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> ومنح كل تطبيق شريط تمرير الصوت الخاص به.</p>`,
+  },
+  "whatsapp-telegram-notifications-too-loud-mac": {
+    slug: "whatsapp-telegram-notifications-too-loud-mac",
+    title: "هل يبدو إشعار WhatsApp وTelegram مرتفعًا جدًا على Mac؟ رفضهم",
+    description: "قم بإصلاح أصوات إشعارات سطح المكتب WhatsApp وTelegram التي تكون عالية جدًا على Mac. ابدأ بالإعدادات المضمنة لكل تطبيق، ثم قم بخفض أو كتم صوت التطبيق بالكامل عندما لا يمنحك macOS أي تحكم لكل تطبيق.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>ابدأ داخل كل تطبيق: يتيح لك كل من WhatsApp وTelegram كتم أصوات الإشعارات أو تغييرها في إعداداتهما الخاصة، وهو الحل الأمثل. لكن macOS لا يحتوي على شريط تمرير لمستوى صوت الإشعارات لكل تطبيق، لذلك إذا كان صوت التطبيق لا يزال مرتفعًا جدًا، فإن الرافعة الحقيقية الوحيدة لديك هي خفض أو كتم صوت التطبيق بالكامل باستخدام أداة مستوى الصوت لكل تطبيق.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — هل يبدو إشعار WhatsApp وTelegram مرتفعًا جدًا على Mac؟ رفضهم" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>أولاً، استخدم إعدادات الإشعارات الخاصة بالتطبيق</h2>
+
+<p>يقدم كل من WhatsApp وTelegram عناصر التحكم في الصوت الخاصة بهما، وهذا هو المكان الذي يجب أن تبدأ فيه دائمًا. إنه الإصلاح الأكثر دقة ولا يمس أي شيء آخر على Mac.</p>
+
+<p><strong>سطح المكتب WhatsApp:</strong> افتح WhatsApp، انقر فوق <em>الإعدادات</em> (رمز الترس)، إذن <em>الإخطارات</em>. يمكنك تبديل <em>يبدو</em> تمامًا مع الاحتفاظ باللافتات، أو تعطيل معاينات الإشعارات. لا يوفر WhatsApp شريط تمرير لمستوى الصوت، لذا فهو يعمل بشكل أساسي على تشغيل أو إيقاف الصوت نفسه.</p>
+
+<p><strong>سطح المكتب Telegram:</strong> مفتوح <em>الإعدادات → الإخطارات والأصوات</em>. Telegram أكثر مرونة هنا. يمكنك إيقاف تشغيل صوت الإشعارات بشكل عام، أو كتم صوت الدردشات الفردية، أو تعيين نغمات مخصصة (أكثر هدوءًا). يمكنك أيضًا إسكات مجموعة صاخبة واحدة عن طريق فتحها واختيارها <em>كتم الصوت</em>. بالنسبة لمعظم الأشخاص، يؤدي كتم صوت الدردشات العالية إلى حل المشكلة دون الصمت في كل مكان.</p>
+
+<p>إذا كان الصوت جيدًا ولكنه متكرر جدًا، فقم بكتم المحادثات أو القنوات المحددة التي يتم تشغيلها في أغلب الأحيان بدلاً من إيقاف الصوت على مستوى التطبيق. وهذا يبقي التنبيهات المهمة مسموعة.</p>
+
+<h2>قم بإيقاف تشغيل أصوات الإشعارات في إعدادات نظام macOS</h2>
+
+<p>يحتوي macOS على طبقة ثانية من التحكم تتجاوز التطبيق في بعض الحالات. اذهب الى <em>إعدادات النظام → الإخطارات</em>، حدد WhatsApp أو Telegram في القائمة، ثم قم بإيقاف تشغيله <em>تشغيل الصوت للإخطارات</em>. يؤدي هذا إلى إسكات صوت التنبيه لهذا التطبيق مع الاستمرار في عرض الشعارات.</p>
+
+<p>يعد هذا حلاً جيدًا حقًا إذا كنت تريد فقط أن يكون التطبيق هادئًا عند الإشعارات ولا تهتم بالصوتيات الأخرى (المكالمات والفيديو). ومن خلال دمجه مع إعدادات التطبيق الخاصة، فإنه يغطي معظم شكاوى "الاتصال المزعج".</p>
+
+<h2>القيد الحقيقي: لا يحتوي macOS على حجم تخزين لكل تطبيق</h2>
+
+<p>هذا هو الجزء الصادق. الخطوات المذكورة أعلاه هي مفاتيح تشغيل/إيقاف. ما لا يمكنهم فعله هو تشغيل WhatsApp أو Telegram <em>أسفل</em> على سبيل المثال، 40% مع الحفاظ على كل شيء آخر بكامل حجمه. كان لدى Windows خلاط حجم لكل تطبيق لسنوات. macOS ببساطة لا يتضمن واحدًا، ولا يوجد إعداد مخفي أو أمر Terminal يضيفه.</p>
+
+<p>وهذا مهم عندما لا تكمن المشكلة في رنين الإشعارات على وجه التحديد، ولكن في صوت التطبيق بأكمله مرتفع جدًا:</p>
+
+<ul>
+<li>WhatsApp أو Telegram <strong>مكالمات الصوت والفيديو</strong> هذا الانفجار بالحجم الكامل بالنسبة لموسيقاك أو اجتماعك</li>
+<li>صوت إشعار تريد الاحتفاظ به ولكن بمستوى أقل، وليس متوقفًا تمامًا</li>
+<li>نغمات رنين ترتفع أعلى بكثير من أي شيء آخر تستمع إليه</li>
+<li>تريد أن يكون التطبيق مسموعًا ولكن بهدوء في الخلفية بينما تركز على شيء آخر</li>
+</ul>
+
+<p>لا شيء من هذا قابل للحل باستخدام الأدوات المدمجة، لأنها توفر فقط كتم الصوت، وليس المستوى. هذه الفجوة هي أحد القيود الحقيقية على macOS، وليست شيئًا تفتقده.</p>
+
+<h2>قم بتعيين مستوى الصوت لكل تطبيق باستخدام SoundDial</h2>
+
+<p>لإيقاف تشغيل تطبيق واحد فعليًا بدلاً من إيقاف تشغيله، فإنك تحتاج إلى أداة مزج الصوت لكل تطبيق. <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو تطبيق شريط قوائم يمنح macOS التحكم في مستوى الصوت لكل تطبيق والذي لم يتم شحنه معه مطلقًا. فهو يسرد كل تطبيق يقوم بتشغيل الصوت حاليًا ويمنح كل تطبيق شريط التمرير الخاص به.</p>
+
+<p>لهذه المشكلة المحددة:</p>
+
+<ul>
+<li>مفتوح <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> من شريط القائمة وابحث عن WhatsApp أو Telegram في القائمة.</li>
+<li>اسحب شريط التمرير لأسفل إلى مستوى مريح، على سبيل المثال 30-40%، مع ترك الموسيقى أو المتصفح أو مكالمة الفيديو دون تغيير.</li>
+<li>استخدم التطبيق الواحد <strong>كتم الصوت</strong> زر لإسكات هذا التطبيق على الفور أثناء مكالمة أو اجتماع، ثم إلغاء كتم الصوت لاحقًا دون البحث في الإعدادات.</li>
+<li>إذا كنت في حاجة إلى العكس، فهو تطبيق هادئ وخفيف جدًا، لكل تطبيق <strong>دفعة</strong> يمكن أن تدفعه فوق 100٪.</li>
+</ul>
+
+<p>نظرًا لأنه يحدد مستوى لكل تطبيق، فإن SoundDial يحافظ على دقات الإشعارات ويتصل بصوت مسموع ولكنه متناسب، بدلاً من خيار الكل أو لا شيء الذي تفرضه عليك الخيارات المضمنة. يمكنك أيضًا الحفظ <strong>ملفات تعريف الحجم</strong>، لذا فإن إعداد "التركيز" الذي يبقي تطبيقات الدردشة منخفضة هو نقرة واحدة.</p>
+
+<blockquote>تحذير واحد صادق: خفض مستوى الصوت الإجمالي لأحد التطبيقات في SoundDial يؤدي أيضًا إلى خفض أجراس الإشعارات الخاصة به، نظرًا لأنها بالنسبة إلى macOS هي نفس صوت التطبيق. إذا كنت تريد إيقاف الإشعارات تمامًا ولكن المكالمات بأعلى مستوى، فاستخدم خاصية كتم الصوت الخاصة بالتطبيق بالإضافة إلى إعدادات النظام للرنين، واحتفظ بـ SoundDial لتعيين المستوى العام.</blockquote>
+
+<p>SoundDial عبارة عن عملية شراء لمرة واحدة بقيمة 14.99 يورو على Mac App Store، في وضع الحماية، بدون اشتراك، ولا توجد برامج تشغيل kernel، ولا يوجد DMG للتحميل الجانبي. إنها الإجابة العملية عندما لا يكون الإصلاح الذي تريده بالفعل، وهو إيقاف تطبيق واحد بدلاً من إيقاف تشغيله، أمرًا يمكن لـ macOS القيام به بنفسه.</p>
+
+<h2>ما هو الإصلاح الذي يجب عليك استخدامه؟</h2>
+
+<p>العمل من الأعلى إلى الأسفل. جرب إعدادات الإشعارات الخاصة بالتطبيق أولاً، ثم إعدادات نظام macOS لإيقاف الرنين. إذا كان ما تريده حقًا هو خفض WhatsApp أو Telegram إلى مستوى صوت معين، أو كتم صوت هذا التطبيق فقط أثناء المكالمات، فهذا هو المكان الذي يستحق فيه الخلاط لكل تطبيق مكانه.</p>
+
+<p>هل سئمت من الاختيار بين الصمت التام والصمت التام لتطبيقات الدردشة الخاصة بك؟ <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> ومنح كل تطبيق طلبًا صوتيًا خاصًا به.</p>`,
+  },
+  "game-too-loud-vs-voice-chat-mac": {
+    slug: "game-too-loud-vs-voice-chat-mac",
+    title: "صوت اللعبة أعلى من Discord على Mac؟ كيفية تحقيق التوازن بين اللعبة وحجم الصوت",
+    description: "لعبتك تطغى على الدردشة الصوتية Discord على Mac ولا يوجد خلاط صوت مدمج. هذا هو السبب وراء افتقار macOS إلى حجم الصوت لكل تطبيق على غرار Windows، وكيفية إيقاف تشغيل اللعبة مع الحفاظ على الصوت مرتفعًا.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا تحتوي macOS على خلاط صوت مدمج لكل تطبيق، لذلك لا يمكنك تحديد الحد الأقصى للعبتك مع الحفاظ على صوت Discord مرتفعًا. الإصلاح هو تطبيق شريط القوائم الذي يقوم بتعيين حجم مستقل لكل تطبيق. اخفض مستوى اللعبة إلى 40-50%، واترك الدردشة الصوتية عند 100%، وسيظل كلاهما متوازنًا دون لمس أشرطة التمرير داخل اللعبة.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — صوت اللعبة أعلى من Discord على Mac؟ كيفية تحقيق التوازن بين اللعبة وحجم الصوت" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يحدث هذا على Mac (وليس على Windows)</h2>
+
+<p>إذا كنت قد لعبت على Windows، فأنت تعرف Volume Mixer: انقر بزر الماوس الأيمن على أيقونة مكبر الصوت، وسيحصل كل تطبيق قيد التشغيل على شريط التمرير الخاص به. قمت بإسقاط اللعبة، ورفع Discord، تم ذلك. macOS ببساطة لم تقم بشحن هذه الميزة أبدًا. يوجد حجم إخراج رئيسي واحد وعدد قليل من مفاتيح التبديل على مستوى التطبيق مدفونة في إعدادات النظام، ولكن لا يوجد تحكم على مستوى كل تطبيق للتطبيقات التعسفية.</p>
+
+<p>لذلك عندما يتم إتقان مزيج اللعبة بشكل رائع، فإن انفجاراتها وموسيقاها وإطلاق النار تأتي بنفس مستوى إخراج أصوات أصدقائك. تعرض بعض الألعاب شريط تمرير رئيسي لحجم الصوت، لكن الكثير منها لا ينخفض ​​بدرجة كافية، والعديد من المشغلات والمتصفحات والعناوين المستقلة لا تقدم أي تحكم مفيد على الإطلاق. Discord في حد ذاته يسمح لك فقط بضبط مستوى صوت المستخدمين القادمين، وليس اللعبة التي تنافسهم.</p>
+
+<p>لنكون صادقين، هذه فجوة على مستوى نظام التشغيل، وليست خطأ يمكنك التخلص منه. يقوم مكدس الصوت الخاص بشركة Apple بتوجيه كل شيء إلى دفق إخراج واحد، ولا توجد واجهة مستخدم للطرف الأول لتقسيمه لكل تطبيق. ولهذا السبب تحتاج إلى أداة خارجية تقع بين تطبيقاتك وجهاز الإخراج.</p>
+
+<h2>الحلول اليدوية (وسبب فشلها)</h2>
+
+<p>قبل الوصول إلى البرنامج، من المفيد معرفة الخيارات المجانية وحدودها:</p>
+
+<ul>
+<li><strong>قم بخفض مستوى صوت اللعبة داخل التطبيق.</strong> يعمل إذا كانت اللعبة تحتوي على شريط تمرير رئيسي بخطوات دقيقة كافية. يتوقف الكثير منها عند زيادات قدرها 10% أو يجمعون الموسيقى والمؤثرات معًا، لذا لا يمكنك ترويض الأجزاء الصاخبة فقط.</li>
+<li><strong>ارفع أصدقاءك في Discord.</strong> انقر بزر الماوس الأيمن فوق كل مستخدم وقم بزيادة مستوى الصوت الخاص به. يساعد هذا قليلاً ولكنه يتفوق، ولا يؤثر على اللعبة، وهذه هي المشكلة بالفعل.</li>
+<li><strong>استخدم سماعات الرأس المزودة بمقبض مستوى صوت الجهاز.</strong> يغير المستوى العام فقط، وليس التوازن بين اللعبة والصوت.</li>
+<li><strong>توجيه الصوت من خلال جهاز افتراضي.</strong> يمكن لأدوات مثل Loopback أو BlackHole تقسيم عمليات البث، ولكنها تستهدف المحترفين، وتتخذ إعدادًا حقيقيًا، وتبالغ في "جعل اللعبة أكثر هدوءًا".</li>
+</ul>
+
+<p>لا يمنحك أي من هذه الأشياء الشيء الوحيد الذي يعتبره مستخدمو Windows أمرًا مفروغًا منه: شريط تمرير سريع لكل تطبيق. هذه هي الفجوة <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> بنيت لملء.</p>
+
+<h2>الحل المباشر: حجم مستقل لكل تطبيق</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> عبارة عن خلاط حجم لشريط القوائم لكل تطبيق لـ macOS. فهو يعرض كل تطبيق يقوم بتشغيل الصوت حاليًا ويمنح كل تطبيق شريط تمرير خاص به، تمامًا مثل Windows Volume Mixer. بالنسبة لمشكلة اللعبة مقابل الصوت، يكون سير العمل قصيرًا:</p>
+
+<ul>
+<li>انقر فوق أيقونة SoundDial في شريط القائمة أثناء تشغيل كل من اللعبة وDiscord.</li>
+<li>ابحث عن اللعبة في القائمة واسحب شريط التمرير الخاص بها إلى ما يقرب من 40-50%.</li>
+<li>اترك Discord (أو Slack أو Zoom أو تطبيقك الصوتي) على 100%.</li>
+<li>اضبط السرعة أثناء اللعب - ادفع اللعبة إلى الأسفل بشكل أكبر في معركة إطلاق نار عالية، ثم قم بالنسخ الاحتياطي أثناء الاستكشاف الهادئ.</li>
+</ul>
+
+<p>نظرًا لأن المستويات لكل تطبيق، يمكنك تعيينها مرة واحدة ويتم الاحتفاظ بها. تظل اللعبة متوقفة بغض النظر عن مدى سخونة المزيج الخاص بها، ويظل صوت أصدقائك مسموعًا بوضوح أثناء ذلك.</p>
+
+<h2>التعزيز، وكتم الصوت، والملفات الشخصية لبقية الإعداد الخاص بك</h2>
+
+<p>تغطي نفس الأداة المضايقات المجاورة التي تأتي مع الألعاب الصوتية:</p>
+
+<ul>
+<li><strong>تعزيز لكل تطبيق.</strong> إذا كان ميكروفون أحد أعضاء الفريق هادئًا حتى عند الحد الأقصى لـ Discord، فيمكنك الضغط على التطبيق الصوتي <em>أعلاه</em> 100% لذا فهو يقطع اللعبة بدلاً من أن يدفن.</li>
+<li><strong>كتم الصوت لكل تطبيق.</strong> قم بإسكات علامة تبويب متصفح الخلفية أو تطبيق الموسيقى على الفور دون الضغط على مفتاح Alt أو إيقاف التشغيل.</li>
+<li><strong>ملفات تعريف الحجم.</strong> قم بحفظ ملف تعريف "اللعب" مع اللعبة بنسبة 45% وتعزيز Discord، ثم قم بالتبديل مرة أخرى إلى ملف التعريف "العادي" للاستخدام اليومي بنقرة واحدة - بدون إعادة سحب أشرطة التمرير في كل جلسة.</li>
+<li><strong>التملص التلقائي.</strong> اجعل اللعبة تنخفض تلقائيًا عندما يتحدث شخص ما، بحيث تصل وسائل الشرح دائمًا إلى أعلى الحدث.</li>
+<li><strong>التبديل السريع للإخراج.</strong> يمكنك التنقل بين سماعات الرأس ومكبرات الصوت من نفس القائمة دون الغوص في إعدادات النظام.</li>
+</ul>
+
+<blockquote><p>النموذج الذهني بسيط: شريط تمرير واحد لكل تطبيق، بالطريقة التي اتبعتها Windows لسنوات. macOS لم توفر ذلك مطلقًا، لذلك تعمل أداة صغيرة على استعادة التكافؤ.</p></blockquote>
+
+<h2>ماذا تتوقع بصراحة</h2>
+
+<p>يعمل الخلاط لكل تطبيق على حل مشكلة التوازن بشكل واضح، مع تحديد التوقعات بشكل صحيح. فهو يتحكم في مستويات إخراج البرامج - ولا يمكنه إصلاح لعبة تم إتقان الصوت الخاص بها بشكل سيئ، ولا يمكنه رفع إشارة لم يتم التقاطها مطلقًا (لا يزال الميكروفون المعطل يحتاج إلى إصلاح الأجهزة). يضيف Boost مكاسب حقيقية، لذا فإن دفع مصدر هادئ إلى ما هو أبعد من 100% يمكن أن يؤدي إلى تشويه، تمامًا مثل رفع أي مضخم صوت إلى مستوى أعلى جدًا. ومع ذلك، عند استخدامه بشكل معقول، فإن الحد الأقصى المتواضع للعبة بالإضافة إلى تعزيز الصوت الصغير هو كل ما تحتاجه معظم الإعدادات.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتم وضع الحماية ويتم تثبيته مباشرة من Mac App Store - لا توجد برامج تشغيل، ولا ملحقات kernel، ولا يوجد DMG جدير بالثقة. تبلغ تكلفتها 14.99 يورو لمرة واحدة بدون اشتراك، وتدعم التحكم في مستوى الصوت macOS عبر 28 لغة.</p>
+
+<p>توقف عن محاربة أشرطة التمرير داخل اللعبة. انتزاع <a href="https://apps.apple.com/app/id6772792641">SoundDial على Mac App Store</a>، قم بإيقاف اللعبة، وحافظ على صوت فريقك مرتفعًا، وأخيرًا احصل على خلاط الصوت بنمط Windows الذي نسيت شحنه macOS.</p>`,
+  },
+  "external-monitor-speaker-volume-too-loud-mac": {
+    slug: "external-monitor-speaker-volume-too-loud-mac",
+    title: "مكبرات صوت الشاشة الخارجية عالية جدًا أو عالقة على Mac؟ إصلاح مستوى صوت HDMI/DisplayPort",
+    description: "لماذا لا تتحكم مفاتيح مستوى الصوت في Mac في سماعات شاشة HDMI أو DisplayPort، وكيفية إصلاح الصوت المرتفع جدًا أو العالق أو غير القابل للتعديل باستخدام OSD للشاشة وإعداد الصوت MIDI وتوجيه الإخراج بشكل أفضل.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا كانت مفاتيح مستوى الصوت في Mac باللون الرمادي أو لا تفعل شيئًا لشاشة متصلة عبر HDMI أو DisplayPort، فهذا ليس خطأً في العادة. غالبًا ما يتم إرسال صوت العرض الرقمي بمستوى ثابت، وتتحكم الأجهزة الخاصة بالشاشة في مستوى الصوت. الحل هو ضبط العرض أو إعادة توجيه الإخراج أو استخدام جهاز صوت مختلف.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — سماعات الشاشة الخارجية عالية جدًا أو عالقة على Mac؟ إصلاح مستوى صوت HDMI/DisplayPort" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا تتوقف مفاتيح مستوى الصوت Mac عن العمل عبر HDMI/DisplayPort</h2>
+
+<p>يحمل HDMI وDisplayPort الصوت كتدفق رقمي. تستقبل العديد من الشاشات هذا البث بمستوى إخراج ثابت وتتوقع منك التحكم في جهارة الصوت على الشاشة نفسها، وليس على الجهاز المصدر. عندما يكتشف macOS ذلك، فإنه يقوم بتعطيل شريط تمرير مستوى الصوت على الشاشة ويتحول إلى اللون الرمادي للمفاتيح F11/F12، ويظهر رمز "ممنوع الدخول" عند الضغط عليهما.</p>
+
+<p>يعد هذا أحد قيود الأجهزة والبروتوكولات، وليس شيئًا يمكن لبرنامج Mac تجاوزه. لا يمر الصوت أبدًا عبر مرحلة يُسمح فيها لـ macOS بتخفيفه. لا يمكن لأي تطبيق أو برنامج تشغيل أو إعداد إدخال التحكم في مستوى الصوت في التدفق الذي تصر الشاشة على استقباله عند المستوى الكامل. إن الصدق بشأن ذلك يوفر عليك ساعات من ملاحقة الإصلاح الخاطئ.</p>
+
+<h2>الإصلاح 1: استخدام عناصر التحكم الخاصة بالشاشة (OSD)</h2>
+
+<p>هذا هو الحل الحقيقي لمعظم الناس. تحتوي كل شاشة تحتوي على مكبرات صوت مدمجة تقريبًا على قائمة عرض على الشاشة يتم تشغيلها بواسطة أزرار فعلية أو عصا تحكم في الجزء الخلفي أو السفلي من اللوحة.</p>
+
+<ul>
+<li>اضغط على زر OSD/menu لفتح إعدادات الشاشة.</li>
+<li>ابحث عن قسم الصوت أو مستوى الصوت.</li>
+<li>اخفض المستوى هناك — هذا هو عنصر التحكم الذي يعمل فعليًا عبر HDMI/DP.</li>
+</ul>
+
+<p>تعرض بعض الشاشات أيضًا تطبيقًا مصاحبًا أو دعم DDC/CI حتى تتمكن من تشغيل OSD من macOS. يمكن للأدوات المساعدة التابعة لجهات خارجية والتي تتحدث DDC تعيين مفاتيح مستوى الصوت الخاصة بجهاز Mac إلى مستوى صوت أجهزة الشاشة، وهو أمر يستحق المحاولة إذا كنت تكره الوصول إلى أزرار اللوحة.</p>
+
+<h2>الإصلاح 2: التحقق من إعداد الصوت MIDI</h2>
+
+<p>مفتوح <strong>إعداد الصوت MIDI</strong> (في /التطبيقات/المرافق). حدد شاشتك في قائمة الأجهزة. إذا ظهر شريط تمرير مستوى الصوت على اليمين، فاسحبه لأسفل — أحيانًا تكشف الشاشة عن مستوى يمكن التحكم فيه بواسطة البرنامج حتى عند تعطيل مفاتيح شريط القائمة. إذا كان شريط التمرير مفقودًا أو باللون الرمادي، فهذا يعني أن الشاشة تؤكد أنها تقبل فقط الصوت ذي المستوى الثابت، ويجب عليك الرجوع إلى OSD.</p>
+
+<p>أثناء وجودك هنا، تأكد من تحديد جهاز الإخراج الصحيح. من الشائع أن يتم توجيه الصوت بصمت إلى شاشة نسيت توصيلها، وهو ما يفسر ارتفاع الصوت المفاجئ أو غيابه.</p>
+
+<h2>الإصلاح 3: قم بتوجيه الصوت إلى مكان يمكنك التحكم فيه بالفعل</h2>
+
+<p>إذا كانت مكبرات صوت شاشتك عادية على أي حال (ومعظمها كذلك) وكان التحكم في مستوى الصوت غير مناسب، فإن الحل الأمثل هو التوقف عن استخدامها:</p>
+
+<ul>
+<li>قم بتوصيل مكبرات الصوت أو سماعات الرأس بمقبس مخرج سماعة الرأس الخاص بالشاشة إذا كان مزودًا بمنفذ — عادةً ما يكون هذا الإخراج التناظري قابلاً للتحكم في مستوى الصوت من الشاشة.</li>
+<li>استخدم USB DAC، أو مكبرات صوت USB، أو مخرج Bluetooth. توفر مخارج USB والتناظرية لـ macOS تحكمًا كاملاً في مستوى الصوت، بحيث تعمل مفاتيحك بشكل طبيعي مرة أخرى.</li>
+<li>اختر مكبرات الصوت المدمجة في Mac للحصول على أصوات سريعة واحتفظ بالشاشة للفيديو فقط.</li>
+</ul>
+
+<p>بمجرد وصولك إلى مخرج يمكن أن يخففه macOS فعليًا، تتصرف مفاتيح مستوى صوت النظام، وتستعيد التحكم الدقيق بدلاً من القفز بين خطوات OSD الخشنة للشاشة.</p>
+
+<h2>بمجرد أن يعمل الإخراج، يمكنك التحكم في مستوى الصوت لكل تطبيق</h2>
+
+<p>يؤدي الحصول على خرج يمكن التحكم فيه إلى حل مشكلة "الصوت العالي جدًا/التوقف". لكن macOS لا يزال يمنحك مجلدًا رئيسيًا واحدًا فقط لكل شيء. لا يوجد خلاط مدمج لكل تطبيق في Mac - Windows يمتلك واحدًا منذ سنوات، لكن Apple لم تقم بشحن ما يعادله مطلقًا. لذا، فإن مقطع الفيديو بصوت عالٍ، واللعبة، والمكالمة الهادئة، كلها تشترك في نفس شريط التمرير.</p>
+
+<p>هذه هي الفجوة <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يملأ. إنه عبارة عن خلاط لشريط القوائم يمنح كل تطبيق مستوى صوت مستقل خاص به، حتى تتمكن من خفض علامة تبويب المتصفح دون لمس الموسيقى الخاصة بك، أو كتم صوت أحد التطبيقات على الفور، أو تعزيز تطبيق هادئ أعلى من سقفه الطبيعي. يمكنك حفظ ملفات تعريف الصوت لإعدادات مختلفة وتبديل المخرجات بسرعة من شريط القائمة.</p>
+
+<p>لكي نكون واضحين بشأن النطاق: <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يتحكم في مستوى صوت البرنامج لتدفق الصوت عبر macOS. ولا يمكنه تجاوز شاشة تتجاهل مستوى صوت النظام عبر HDMI - وهذا هو سلوك المستوى الثابت للشاشة، ولا يقوم بإصلاحه سوى OSD أو مخرج مختلف. بمجرد وصولك إلى مخرجات يمكن التحكم فيها، فإن التحكم لكل تطبيق هو المكان الذي يتألق فيه التطبيق.</p>
+
+<h2>قائمة مرجعية سريعة</h2>
+
+<ul>
+<li>المفاتيح باللون الرمادي عبر HDMI/DP؟ استخدم مستوى صوت OSD الخاص بالشاشة - وهذا هو السلوك المتوقع.</li>
+<li>تحقق من إعداد Audio MIDI بحثًا عن شريط تمرير البرنامج المخفي.</li>
+<li>تأكد من تحديد جهاز الإخراج الصحيح.</li>
+<li>للتحكم الحقيقي، قم بتوجيه الصوت إلى مخرج سماعة الرأس، أو USB، أو Bluetooth.</li>
+<li>ثم استخدم خلاطًا لكل تطبيق لموازنة التطبيقات الفردية.</li>
+</ul>
+
+<p>بمجرد أن تصبح مخرجاتك تحت السيطرة، أعط <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> نظرة. إنها عملية شراء بقيمة 14.99 يورو لمرة واحدة من Mac App Store - بدون اشتراك أو برامج تشغيل أو DMG - وأخيرًا توفر خلاط حجم حقيقي لكل تطبيق إلى macOS.</p>`,
+  },
+  "usb-dac-volume-control-not-working-mac": {
+    slug: "usb-dac-volume-control-not-working-mac",
+    title: "لن يتم ضبط مستوى الصوت USB DAC على Mac؟ احصل على التحكم في مستوى صوت البرنامج مرة أخرى",
+    description: "لماذا يقوم macOS بتعطيل شريط تمرير مستوى الصوت للعديد من أجهزة USB DAC، وماذا يعني ذلك، وكيفية استعادة التحكم في مستوى صوت البرنامج العامل مرة أخرى على Mac دون الإضرار بجودة الصوت.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>إذا كان شريط تمرير مستوى الصوت الخاص بـ USB DAC باللون الرمادي على Mac، فهذا ليس خطأً في العادة. يقوم macOS بتعطيل مستوى صوت البرنامج الخاص به عندما يبلغ DAC أنه لا يحتوي على مستوى صوت يمكن التحكم فيه، ويتوقع منك استخدام مقبض الأجهزة الخاص بـ DAC. لاستعادة مستوى صوت البرنامج، استخدم مخففًا على مستوى التطبيق مثل <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — لن يتم ضبط مستوى الصوت في USB DAC على Mac؟ احصل على التحكم في مستوى صوت البرنامج مرة أخرى" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يظهر macOS حجم الصوت لبعض USB DAC</h2>
+
+<p>عند توصيل جهاز صوت USB، يسأله macOS عما يمكنه فعله عبر بروتوكول USB Audio Class (UAC). جزء من هذه المصافحة عبارة عن مجموعة من عناصر التحكم في "وحدة الميزات"، بما في ذلك التحكم في مستوى الصوت. إذا أعلن DAC عن التحكم في مستوى الصوت، يقوم macOS بتوصيله بمفاتيح مستوى الصوت بلوحة المفاتيح وشريط تمرير شريط القائمة. إذا أعلن DAC أنه لا يحتوي على وحدة تخزين قابلة للضبط من قبل المضيف، فإن macOS يقوم بإظهار شريط التمرير باللون الرمادي بالكامل.</p>
+
+<p>العديد من أجهزة ومضخمات الصوت DAC عالية الجودة تقوم بالمهمة الأخيرة عن قصد. افتراض المصمم هو أنك ستقوم بتغذية DAC بإشارة رقمية كاملة الحجم ومثالية للبت والتحكم في جهارة الصوت باستخدام مقبض الصوت التناظري الموجود على الوحدة نفسها. يحدث هذا التوهين التناظري بعد التحويل من رقمي إلى تناظري، لذلك فهو يتجنب التخلص من البتات وهو حقًا المسار المفضل لعشاق الصوت. إنها ميزة وليست خطأ.</p>
+
+<blockquote>القاعدة الأساسية: إذا كان جهاز DAC الخاص بك يحتوي على مقبض مستوى صوت فعلي وكان شريط التمرير Mac باللون الرمادي، فإن الشركة المصنعة تريد منك استخدام المقبض. يتم إرسال الإشارة بنسبة 100% حسب التصميم.</blockquote>
+
+<h2>عندما يكون شريط التمرير باللون الرمادي يمثل مشكلة بالفعل</h2>
+
+<p>تنقسم إجابة "مجرد استخدام المقبض" إلى إعدادات حقيقية:</p>
+
+<ul>
+<li><strong>DAC ليس لديه مقبض.</strong> لا تكشف الكثير من أجهزة USB DAC المدمجة والدونجل والواجهات الاحترافية عن التحكم في مستوى الصوت ولا التحكم في المضيف أيضًا. أنت عالق في أي مستوى تم ضبط مكبر الصوت أو مكبرات الصوت التي تعمل بالطاقة عليه.</li>
+<li><strong>المقبض بعيد المنال.</strong> إن وجود سطح مكتب DAC خلف شاشتك، أو وحدة تغذي مضخم صوت ثابت، يعني أن ضبط مستوى الصوت يصبح عملاً روتينيًا فعليًا بدلاً من الضغط على مفتاح.</li>
+<li><strong>أنت بحاجة إلى رصيد لكل تطبيق، وليس مجرد مستوى رئيسي.</strong> حتى مقبض الأجهزة المثالي يعد بمثابة تحكم عالمي واحد. لا يمكن أن تجعل مكالمة Zoom أكثر هدوءًا من الموسيقى الخاصة بك، أو تتجنب لعبة عند إطلاق إشعار.</li>
+</ul>
+
+<p>لم يتم إصلاح أي من هذه المشكلات بواسطة macOS، لأنه من منظور نظام التشغيل، يعمل الجهاز بشكل صحيح. هذا هو القيد الصادق: إنها إمكانية يتم الإبلاغ عنها بواسطة الجهاز، ولا يوجد تبديل في إعدادات النظام لتجاوزها.</p>
+
+<h2>حلول صادقة قبل تثبيت أي شيء</h2>
+
+<p>جرب هذه أولاً، لأنها لا تكلف شيئًا:</p>
+
+<ul>
+<li><strong>استخدم مقبض الجهاز أو حجم المصب.</strong> إذا كان جهاز DAC أو مكبرات الصوت/مضخم الصوت لديك تحتوي على عنصر تحكم، فهذا هو الخيار الأنظف ويحافظ على الدقة الرقمية الكاملة.</li>
+<li><strong>تحقق من التطبيق أو البرنامج الثابت الخاص بـ DAC.</strong> تقوم بعض أجهزة DACs (والوحدات المخصصة للألعاب) بشحن لوحة تحكم أو إعداد برنامج ثابت يتيح مستوى صوت المضيف. في حالة وجود خيار "مستوى صوت USB" أو "مستوى صوت البرنامج"، فإن تشغيله يجعل شريط التمرير macOS يعمل مرة أخرى.</li>
+<li><strong>جرب وضع USB مختلفًا.</strong> تشير بعض الأجهزة إلى إمكانات مختلفة في وضع "متوافق مع الفئة" مقابل وضع برنامج التشغيل الخاص. يمكن أن يؤدي تثبيت برنامج تشغيل البائع أو إزالته إلى تغيير ما إذا كان macOS يرى عنصر تحكم في مستوى الصوت.</li>
+<li><strong>ابحث في إعداد الصوت MIDI.</strong> افتح إعداد صوت MIDI، وحدد الجهاز، وتحقق من ظهور وحدة تخزين رئيسية أو وحدة تخزين لكل قناة هناك. في بعض الأحيان يتوفر شريط تمرير في تلك اللوحة حتى عندما يكون شريط القائمة باللون الرمادي.</li>
+</ul>
+
+<p>إذا لم ينطبق أي من ذلك، فأنت بحاجة إلى تخفيف البرامج على جانب Mac.</p>
+
+<h2>التحكم في مستوى صوت البرنامج مع التوهين لكل تطبيق</h2>
+
+<p>عندما لا يقبل الجهاز أمر مستوى الصوت، فإن الخيار المتبقي هو تخفيف الصوت في البرنامج قبل أن يصل إلى DAC. هذا هو بالضبط ما <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يفعل. إنه موجود في شريط القائمة لديك ويمنح كل تطبيق قيد التشغيل مستوى صوت مستقل خاص به، وكتم صوت، وحتى تعزيزًا، بغض النظر عما إذا كان DAC الخاص بك يعرض عنصر تحكم في الأجهزة.</p>
+
+<p>لاستخدامه في DAC باللون الرمادي:</p>
+
+<ul>
+<li>تثبيت <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> من Mac App Store وافتحه من شريط القائمة.</li>
+<li>أبقِ DAC محددًا كمخرج النظام؛ يمكنك أيضًا استخدام تبديل الإخراج السريع الخاص بـ SoundDial للتنقل بين DAC ومكبرات الصوت وسماعات الرأس دون الغوص في إعدادات النظام.</li>
+<li>قم بتعيين مستويات لكل تطبيق: قم بإسقاط المتصفح، ورفع مشغل الموسيقى، وكتم صوت كل ما لا تريده. يتم بث كل تطبيق بالحجم الذي تختاره، وتنتقل النتيجة المختلطة إلى DAC.</li>
+<li>احفظ ملفات تعريف مستوى الصوت لسيناريوهات مختلفة (المكالمات مقابل الاستماع)، واسمح بالتخلص التلقائي من التطبيقات ذات الخلفية المنخفضة عندما يبدأ تشغيل شيء أكثر أهمية.</li>
+</ul>
+
+<h2>المقايضة الصادقة على جودة الصوت</h2>
+
+<p>يقلل توهين البرنامج من المستوى الرقمي قبل التحويل، لذلك من الناحية النظرية فإنه يتجاهل قدرًا صغيرًا من الدقة مقارنة بالحجم التناظري على DAC نفسه. من الناحية العملية، في المسارات الحديثة 24 بت والمسارات الأعلى بمستويات الاستماع العادية، يكون التخفيض أقل بكثير من أي شيء مسموع، ويمكنك الاحتفاظ بالنطاق الديناميكي الكامل لـ DAC لأي شيء يتم تشغيله بالقرب من النطاق الكامل. إذا كنت متشددًا ولديك مقبض تناظري جيد في متناول يدك، فاستخدم المقبض. إذا لم يكن لديك تحكم قابل للاستخدام في الأجهزة، أو كنت بحاجة إلى توازن لكل تطبيق لا تستطيع macOS توفيره، فإن حجم البرنامج هو المقايضة الصحيحة، ويتفوق على شريط التمرير الذي لا يفعل شيئًا.</p>
+
+<p>SoundDial عبارة عن عملية شراء لمرة واحدة بقيمة 14.99 يورو، في وضع الحماية، بدون برامج تشغيل أو ملحقات kernel أو مثبتات DMG. إذا كان مستوى صوت USB DAC باللون الرمادي ولم يكن الوصول إلى المقبض خيارًا متاحًا، <a href="https://apps.apple.com/app/id6772792641">احصل على SoundDial على Mac App Store</a> وأعد التحكم في مستوى صوت العمل مرة أخرى إلى شريط القائمة.</p>`,
+  },
+  "cap-max-volume-of-one-app-mac": {
+    slug: "cap-max-volume-of-one-app-mac",
+    title: "تحديد الحد الأقصى لحجم صوت تطبيق واحد مرتفع على Mac (حماية سمعك)",
+    description: "لا يحتوي macOS على حد أقصى لحجم الصوت لكل تطبيق، لذلك يمكن لتطبيق واحد مرتفع أن يصل إلى مستوى صوت النظام بالكامل. فيما يلي كيفية تعيين الحد الأقصى لحجم الصوت لتطبيق واحد على Mac باستخدام أداة مزج لكل تطبيق، وسبب أهمية حدود الأجهزة.",
+    date: "2026-07-23",
+    readTime: "5 دقائق قراءة",
+    content: `<p>لا يحتوي macOS على طريقة مدمجة لتحديد الحد الأقصى لحجم تطبيق واحد، لذلك يتم تشغيل برنامج عالي الصوت حسب أي شيء تم ضبط شريط تمرير النظام عليه. لتعيين حد أقصى لتطبيق واحد، استخدم خلاط القائمة لكل تطبيق مثل <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: احتفظ بهذا التطبيق، على سبيل المثال، بنسبة 40 بالمائة بينما يظل مستوى صوت نظامك أعلى لكل شيء آخر.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — تحديد الحد الأقصى لمستوى الصوت لتطبيق واحد عالي الصوت على Mac (احمِ سمعك)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>لماذا يمكن لأحد التطبيقات أن يفاجئك فجأة على Mac</h2>
+
+<p>في macOS، يعد شريط تمرير مستوى الصوت في شريط القائمة أو مركز التحكم بمثابة عنصر تحكم واحد على مستوى النظام. يصب كل تطبيق في نفس الإخراج وعلى نفس المستوى. لا يوجد خلاط حجم مدمج لكل تطبيق في نظام التشغيل بالطريقة التي كان بها Windows منذ سنوات مع لوحة Volume Mixer الخاصة به.</p>
+
+<p>هذا التصميم له نتيجة حقيقية لأذنيك. إذا قمت بضبط مستوى صوت نظامك على مستوى عالٍ حتى تتمكن من سماع بودكاست هادئ أو مكالمة فيديو هادئة، ثم قم بالتبديل إلى لعبة، أو إشعار Discord، أو موقع ويب مليء بالإعلانات، أو مقطع فيديو تم إتقانه بصوت أعلى بكثير، فسيتم تشغيل هذا التطبيق على مستوى النظام بالكامل أيضًا. والنتيجة هي الرعب الكلاسيكي: جدار مفاجئ من الصوت بمستوى صوت لم يقصده أبدًا لهذا التطبيق المحدد.</p>
+
+<p>بالنسبة لأي شخص يعاني من طنين الأذن، أو حساسية الصوت، أو من يقدر سمعه ببساطة، فإن عدم القدرة على التنبؤ هي المشكلة. أنت لا تحاول أن تجعل كل شيء أكثر هدوءًا. أنت تحاول ضمان عدم تجاوز تطبيق واحد محدد بصوت عالٍ المستوى الذي قررت أنه آمن.</p>
+
+<h2>ما الذي يمكن لـ macOS فعله وما لا يمكنه فعله هنا</h2>
+
+<p>اسمحوا لي أن أكون صادقا بشأن الحدود قبل التوصية بأي شيء.</p>
+
+<ul>
+<li><strong>حجم النظام</strong> يخفض كل شيء دفعة واحدة. قم بإيقاف تشغيله لترويض تطبيق واحد وستصبح تطبيقاتك الهادئة غير مسموعة.</li>
+<li><strong>أشرطة تمرير مستوى الصوت داخل التطبيق</strong> موجودة في بعض التطبيقات (مشغلات الوسائط، وبعض المتصفحات لكل علامة تبويب) ولكن ليس في معظمها. غالبًا ما لا تحتوي اللعبة أو مكالمة الفيديو أو التطبيق الأصلي على تحكم مستقل في مستوى الصوت على الإطلاق.</li>
+<li><strong>سقف الأجهزة حقيقي.</strong> لا يوجد برنامج يمكنه دفع إشارة أعلى من الحد الأقصى لجهاز الإخراج الخاص بك. على العكس من ذلك، فإن التحكم في جهارة الصوت الخاص بالتطبيق، بالإضافة إلى DAC وسماعات الرأس، يحدد مدى ارتفاع الصوت بنسبة "100 بالمائة" فعليًا. يمكن للبرامج أن تخفض مستوى كل تطبيق بشكل موثوق، لكنها لا تستطيع إعادة كتابة فيزياء سماعات الرأس الخاصة بك.</li>
+</ul>
+
+<p>لذا فإن الهدف الصادق ليس الحد السحري من ارتفاع الصوت على مستوى السائق. إنه توهين عملي وموثوق لكل تطبيق: احتفظ بالتطبيق المختار عند جزء ثابت من مخرجات النظام حتى لا يفاجئك أبدًا.</p>
+
+<h2>كيفية تحديد حجم تطبيق واحد باستخدام خلاط لكل تطبيق</h2>
+
+<p>يعترض خلاط الصوت لكل تطبيق صوت كل تطبيق ويتيح لك ضبط مستواه بشكل مستقل. هنا سير العمل مع <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>، والذي يوجد في شريط القائمة:</p>
+
+<ul>
+<li><strong>افتح الخلاط.</strong> انقر على أيقونة شريط القوائم SoundDial. سترى قائمة بكل تطبيق يشغل الصوت حاليًا، ولكل منها شريط تمرير خاص به.</li>
+<li><strong>ابحث عن التطبيق بصوت عالٍ.</strong> حدد موقع التطبيق الذي تريد تقييده، على سبيل المثال لعبة أو متصفح أو أداة مؤتمرات الفيديو.</li>
+<li><strong>ضبط سقفها.</strong> اسحب شريط تمرير هذا التطبيق إلى المستوى الآمن، على سبيل المثال من 35 إلى 50 بالمائة. يتم تشغيل هذا التطبيق الآن عند هذا الجزء من مخرجات النظام بينما يظل كل تطبيق آخر في مكانه.</li>
+<li><strong>اترك حجم نظامك حيث تحتاجه.</strong> أبقِ شريط تمرير النظام مرتفعًا بما يكفي لتطبيقاتك الهادئة. يظل التطبيق المغطى مقيّدًا بغض النظر.</li>
+</ul>
+
+<p>ونظرًا لأن المستوى مخصص لكل تطبيق، فإنك تقوم فعليًا بتعيين الحد الأقصى لهذا البرنامج الواحد. حتى عندما يحاول تشغيل المحتوى الأعلى صوتًا، فإن الصوت الأعلى هو الآن الجزء الذي اخترته من الصوت الكامل.</p>
+
+<h2>اجعل الغطاء يلتصق بالملفات الشخصية</h2>
+
+<p>يساعد التعديل اليدوي مرة واحدة، ولكن يمكن إعادة ضبط مستويات التطبيق عند الخروج وإعادة التشغيل. لإجراء إعداد آمن للسمع ينجو من عمليات إعادة التشغيل، استخدم <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>ملفات تعريف الحجم. احفظ ملف تعريف بالمستويات المفضلة لديك لكل تطبيق، على سبيل المثال "ليلة ألعاب هادئة" مع اللعبة بنسبة 40 بالمائة، وتطبيق الموسيقى الخاص بك بنسبة 70 بالمائة، وتطبيق الاتصال الخاص بك بنسبة 90 بالمائة. أذكرها بنقرة واحدة عندما تجلس. يعود سقف التطبيق الصاخب تمامًا كما قمت بتعيينه.</p>
+
+<p>هناك ميزتان أخريان تستحقان المعرفة لحماية السمع:</p>
+
+<ul>
+<li><strong>كتم الصوت لكل تطبيق</strong> يتيح لك إسكات مرتكب الجريمة على الفور دون لمس أي شيء آخر، وهو أمر مفيد للتطبيق الذي يرسل إشعارات عالية الصوت.</li>
+<li><strong>التملص التلقائي</strong> يقوم تلقائيًا بخفض صوت الخلفية عند بدء شيء أكثر أهمية، حتى لا تكون عالقًا بين مصدرين مرتفعين في وقت واحد.</li>
+</ul>
+
+<blockquote><p>يعد توهين البرنامج فعالًا حقًا في تحديد سقف لأحد التطبيقات، ولكنه يمثل طبقة واحدة من الحماية، وليس ضمانًا طبيًا. إذا كنت تعاني من طنين الأذن أو حساسية الصوت، فقم بإقران السقف لكل تطبيق بمستويات وفواصل استماع شاملة معقولة. لا يوجد تطبيق يحل محل عادات الحجم الدقيقة.</p></blockquote>
+
+<h2>ملاحظة حول التعزيز ولماذا هو منفصل</h2>
+
+<p>نفس الخلاط لكل تطبيق الذي يغطي التطبيق بصوت عالٍ يمكن أيضًا أن يعزز تطبيقًا هادئًا جدًا بنسبة تزيد عن 100 بالمائة، وهو أمر مفيد للتطبيق الذي يكون مستوى الصوت الخاص به منخفضًا جدًا. هذان وجهان لنفس عنصر التحكم: أنت تقرر مستوى كل تطبيق، لأعلى أو لأسفل. لحماية السمع، ما عليك سوى اختيار الاتجاه "لأسفل" وتثبيته هناك.</p>
+
+<h2>النسخة القصيرة</h2>
+
+<p>لن يسمح لك macOS بتحديد حجم تطبيق واحد من تلقاء نفسه، وهذه فجوة حقيقية في نظام التشغيل، وليس خطأ مستخدم. يقوم خلاط شريط القائمة لكل تطبيق بإغلاقه: اضبط التطبيق بصوت عالٍ على جزء ثابت، واحفظه في ملف تعريف، ولا يمكنه أبدًا أن يفاجئك مرة أخرى بينما تظل تطبيقاتك الأخرى مسموعة.</p>
+
+<p><a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هي عملية شراء لمرة واحدة بقيمة 14.99 يورو على Mac App Store، في وضع الحماية بدون برامج تشغيل أو DMG للتثبيت. إذا كان الهدف هو حماية أذنيك من أحد التطبيقات التي لا يمكن التنبؤ بها، فهي أبسط طريقة لتحديد هذا السقف والحفاظ عليه.</p>`,
+  },
+  "set-left-right-balance-per-app-mac": {
+    slug: "set-left-right-balance-per-app-mac",
+    title: "توازن مختلف لليسار/الأيمن لكل تطبيق على Mac - هل هذا ممكن؟",
+    description: "هل يمكنك ضبط توازن استريو مختلف لليسار/الأيمن لكل تطبيق على macOS؟ بصراحة، لا، ليس بشكل أصلي، وليس مع معظم الأدوات. إليك ما هو ممكن بالفعل وأين الحدود الحقيقية.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>بصراحة، لا - لا تسمح لك macOS بتعيين توازن استريو مختلف لليسار/الأيمن لكل تطبيق، ولا تكشف أي أداة تابعة لجهة خارجية تقريبًا عن التحريك الحقيقي لكل تطبيق أيضًا. يمكنك ضبط توازن عالمي واحد لجهاز الإخراج الخاص بك، ويمكنك التحكم في كل تطبيق <em>حجم</em>، ولكنها مستقلة لكل تطبيق <em>عموم</em> ليست ميزة يوفرها macOS.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — توازن مختلف لليسار/الأيمن لكل تطبيق على Mac — هل هذا ممكن؟" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>التوازن مقابل الحجم – إنهما ليسا نفس الشيء</h2>
+
+<p>يجدر الفصل بين فكرتين غالبًا ما يتم الخلط بينهما:</p>
+<ul>
+  <li><strong>الحجم</strong> - مدى ارتفاع صوت التطبيق بشكل عام. وهذا مستوى واحد يتم تطبيقه على كلتا القناتين.</li>
+  <li><strong>التوازن (مقلاة)</strong> - كيفية توزيع الصوت بين مكبرات الصوت اليسرى واليمنى. توازن "اليسار الكامل" يرسل كل شيء إلى القناة اليسرى ويسكت القناة اليمنى.</li>
+</ul>
+
+<p>عادةً ما يرغب الأشخاص الذين يطلبون "توازنًا مختلفًا لكل تطبيق" في أحد أمرين: دفع صوت تطبيق واحد إلى أذن واحدة (على سبيل المثال، مكالمة في أذنك اليسرى، أو موسيقى في أذنك اليمنى)، أو تصحيح اختلاف في السمع أو مكبر صوت سيء على جانب واحد - ولكن لتطبيقات معينة فقط. تلك أهداف مشروعة. المشكلة هي أين تعيش السيطرة.</p>
+
+<h2>لماذا لا يستطيع macOS القيام بذلك محليًا</h2>
+
+<p>يحتوي macOS على تحكم واحد في التوازن، وهو موجود على مستوى جهاز الإخراج. ستجده تحت <strong>إعدادات النظام → الصوت → الإخراج</strong>، حيث أ <em>التوازن</em> يقوم شريط التمرير بنقل المزيج بأكمله إلى اليسار أو اليمين. أي شيء تم ضبط شريط التمرير عليه ينطبق عليه <em>كل شيء</em> يتم توجيهها إلى ذلك الجهاز — كل تطبيق، وكل صوت نظام، مرة واحدة.</p>
+
+<p>لا توجد واجهة برمجة التطبيقات (API) في حزمة الصوت القياسية macOS التي تنص على "عرض صوت هذا التطبيق على اليسار، وهذا التطبيق على اليمين". تقوم التطبيقات بتسليم الصوت الخاص بها إلى النظام الذي تم خلطه بالفعل، ويقوم النظام بتطبيق توازن رئيسي واحد في الطريق إلى مكبرات الصوت. لذا فإن الطبقة التي تريد تحريكها لكل تطبيق لا يتم كشفها بواسطة نظام التشغيل. يعد هذا أحد القيود الحقيقية لنظام التشغيل، وليس شيئًا يمكن لأداة شريط القوائم أن تتغلب عليه بأدب.</p>
+
+<blockquote>على عكس كل تطبيق <em>حجم</em> - وهو ما يفتقر إليه macOS أيضًا محليًا ولكن يمكن للتطبيقات تنفيذه من خلال النقر على دفق الصوت - لكل تطبيق <em>التوازن</em> سيتطلب إعادة تحريك تدفق كل تطبيق بشكل مستقل، وهذا الخطاف غير متاح لتطبيقات وضع الحماية.</blockquote>
+
+<h2>ما يفعله SoundDial - وبصراحة، ما لا يفعله</h2>
+
+<p><a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> يمنحك التحكم المفقود في macOS لكل تطبيق: مستقل <strong>حجم</strong> لكل تطبيق قيد التشغيل، لكل تطبيق <strong>كتم الصوت</strong>، حجم لكل تطبيق <strong>دفعة</strong> فوق 100%، حجم قابل للحفظ <strong>الملفات الشخصية</strong>والتهرب التلقائي والتبديل السريع بين الإخراج من شريط القائمة.</p>
+
+<p>لكي أكون مستقيماً معك: <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">SoundDial</a> الضوابط لكل تطبيق <em>جهارة الصوت وكتم الصوت</em>، وليس ستيريو لكل تطبيق <em>بالغسل</em>. لن يرسل Safari إلى أذنك اليسرى وSpotify إلى يمينك. إذا أخبرك شخص ما أن خلاط شريط القوائم يقوم بموازنة L/R حقيقية لكل تطبيق على macOS، فكن متشككًا - فهذا ليس تحكمًا يوزعه نظام التشغيل. ما يحله SoundDial حقًا هو الإحباط الأكثر شيوعًا: أن يكون أحد التطبيقات مرتفعًا جدًا أو هادئًا جدًا مقارنة بتطبيق آخر.</p>
+
+<h2>الحلول الحقيقية لتحقيق التوازن لكل تطبيق</h2>
+
+<p>إذا كنت تريد حقًا تقسيم الصوت جنبًا إلى جنب، فإليك الخيارات الصادقة، تقريبًا من الأبسط إلى الأكثر مشاركة:</p>
+
+<ul>
+  <li><strong>التوازن العالمي (جميع التطبيقات):</strong> استخدم إعدادات النظام ← الصوت ← الإخراج ← التوازن. هذا هو خيارك المدمج الوحيد، ويؤثر على كل تطبيق. مفيد لتصحيح غرفة أو عدم تناسق السمع، وغير مفيد لعزل تطبيق واحد.</li>
+  <li><strong>أجهزة إخراج منفصلة:</strong> هذا هو أقرب شيء إلى التوازن الحقيقي لكل تطبيق. قم بتوجيه التطبيق "أ" إلى جهاز إخراج والتطبيق "ب" إلى جهاز آخر، ثم قم بتعيين توازن كل جهاز بشكل مستقل. يتيح لك macOS اختيار جهاز إخراج داخل بعض التطبيقات (وغالبًا ما تكشف المتصفحات/تطبيقات الاتصال عن منتقي الإخراج الخاص بها). إذا كان التطبيق "أ" يشير إلى جهاز تم تحريكه إلى اليسار وكان التطبيق "ب" يشير إلى جهاز تم تحريكه إلى اليمين، فستحصل فعليًا على توازن لكل تطبيق - طالما أن كلا التطبيقين يسمحان لك باختيار مخرجاتهما.</li>
+  <li><strong>أدوات توجيه الصوت الافتراضية:</strong> يمكن للأدوات المساعدة التي تنشئ أجهزة افتراضية وخلاط داخلي، في بعض التكوينات، توجيه تطبيقات معينة إلى قنوات محددة. يعد هذا أمرًا قويًا ولكنه خادع، ويضيف مكونًا على نمط السائق، وهو مبالغة بالنسبة لمعظم الناس. إنه مجال البث المباشر ومهندسي الصوت، وليس حلًا عرضيًا "مكالمة في أذن واحدة".</li>
+  <li><strong>تقسيم الأجهزة:</strong> إذا كان الأمر يتعلق بمكبرات صوت فعلية أو اختلاف في السمع، فإن جهاز مزج الأجهزة أو واجهة الصوت مع التحكم لكل قناة يتجنب مشكلة البرنامج تمامًا.</li>
+</ul>
+
+<h2>عندما يكون حجم كل تطبيق هو في الواقع ما تحتاجه</h2>
+
+<p>الكثير من طلبات "أريد توازنًا مختلفًا لكل تطبيق" هي في الواقع "أحد التطبيقات يغرق تطبيقًا آخر". إذا كان الهدف هو إجراء مكالمة فيديو يمكنك سماعها عبر الموسيقى الخاصة بك، أو لعبة بصوت عالٍ جدًا بجوار دردشة Discord، فإن التوازن ليس هو الأداة - بل مستوى الصوت المستقل هو الأداة. وهذا هو بالضبط ما يتعامل معه الخلاط لكل تطبيق بشكل نظيف، دون الحاجة إلى برامج تشغيل افتراضية أو توجيه الجمباز.</p>
+
+<p>لذا فإن الملخص الصادق: التوازن الحقيقي بين اليسار واليمين لكل تطبيق ليس ميزة macOS، ولا يوجد تطبيق مزج يزيفه بشكل مقنع. مساراتك الحقيقية هي شريط تمرير التوازن العام أو توجيه الإخراج لكل تطبيق إلى الأجهزة التي يتم توجيهها بشكل منفصل. ولكن إذا كان الألم الأساسي هو ارتفاع الصوت نسبيًا، فهذه مشكلة محلولة.</p>
+
+<p>هل تريد مستوى صوت مستقلًا وكتمًا وتعزيزًا لكل تطبيق على Mac، مع ملفات تعريف قابلة للحفظ وبدون برامج تشغيل؟ <a href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">احصل على SoundDial على Mac App Store</a> - 14.99 يورو، لمرة واحدة، في وضع الحماية.</p>`,
+  },
+  "why-are-some-apps-louder-than-others-mac": {
+    slug: "why-are-some-apps-louder-than-others-mac",
+    title: "لماذا تكون بعض التطبيقات أعلى صوتًا بكثير من غيرها على Mac؟ (وكيفية تسويتهم)",
+    description: "تبدو التطبيقات مختلفة تمامًا على Mac لأن كل واحدة منها يتم إتقانها وفقًا لهدف جهارة الصوت الخاص بها ولا تحتوي macOS على تحكم مدمج في مستوى الصوت لكل تطبيق. وإليك سبب حدوث ذلك وكيفية تسوية تطبيقاتك.",
+    date: "2026-07-23",
+    readTime: "6 دقائق قراءة",
+    content: `<p>تبدو التطبيقات مختلفة تمامًا على Mac لأن كل واحدة منها تم تأليفها وإتقانها وتطبيعها وفقًا لهدف جهارة الصوت الخاص بها، ولا تحتوي macOS على تحكم مدمج في مستوى الصوت لكل تطبيق للتوفيق بينها. تمر تنبيهات Spotify وYouTube وZoom وتنبيهات النظام عبر نفس شريط التمرير الرئيسي، لذا فأنت عالق في ركوبه لأعلى ولأسفل باستمرار.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — لماذا تكون بعض التطبيقات أعلى صوتًا بكثير من غيرها على Mac؟ (وكيفية تسويتهم)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+
+<h2>إنه ليس Mac الخاص بك - إنه الصوت نفسه</h2>
+
+<p>يتحكم شريط تمرير مستوى صوت النظام الفردي الموجود على macOS في مستوى الإخراج النهائي لكل شيء. ولا يمس ارتفاع الصوت النسبي الموجود في البث الصوتي لكل تطبيق. يتم تعيين هذا الخط الأساسي قبل وقت طويل من وصول الصوت إلى مكبرات الصوت، ويختلف بشكل كبير من مصدر إلى آخر.</p>
+
+<p>هناك ثلاثة أشياء تدفع هذه الاختلافات:</p>
+
+<ul>
+<li><strong>إتقان المستويات.</strong> يتم إتقان مقطوعة موسيقى البوب القوية بشكل أكثر سخونة من التسجيل الصوتي الهادئ أو البودكاست المنطوق. فيلم مختلط للسينما يحافظ على هدوء الهمس والانفجارات العالية عن قصد - هذا هو النطاق الديناميكي، ويعني أن المستوى المتوسط ​​منخفض.</li>
+<li><strong>أهداف تطبيع جهارة الصوت.</strong> تقوم منصات البث بضبط التشغيل على هدف يتم قياسه بـ LUFS (وحدات جهارة الصوت بالنسبة إلى النطاق الكامل). يهدف Spotify إلى -14 LUFS، وYouTube تقريبًا -14 LUFS، وApple Music حوالي -16 LUFS. يطبق تطبيق أو لعبة مؤتمرات الفيديو مكاسبه الخاصة بالكامل. لن يتطابق التطبيقان "المطبيعان" لأهداف مختلفة مع بعضهما البعض أبدًا.</li>
+<li><strong>لا يوجد تسوية عبر التطبيقات.</strong> يقوم كل تطبيق بتطبيع محتواه الخاص فقط. لا شيء ينسق Spotify ضد Zoom ضد لعبة المتصفح. macOS يقوم فقط بجمعها وإرسال المزيج للخارج.</li>
+</ul>
+
+<h2>لماذا يهم LUFS (بعبارات واضحة)</h2>
+
+<p>يخبرك مستوى الذروة بأعلى لحظة في الإشارة. يخبرك LUFS بمدى ارتفاع صوت شيء ما في الواقع <em>يشعر</em> مع مرور الوقت، مرجح لكيفية عمل السمع البشري. هذا التمييز هو السبب في أن البودكاست ومسار الرقص يمكن أن يصلا إلى نفس الذروة ولكنهما يشعران بعالمين مختلفين في جهارة الصوت - حيث يقضي المسار وقتًا أطول بكثير بالقرب من السقف.</p>
+
+<blockquote>هدف LUFS الأكثر هدوءًا يعني مساحة أكبر للرأس ونطاقًا ديناميكيًا أكبر. الهدف الأعلى يعني جدارًا صوتيًا أكثر اتساقًا و"ممتلئًا دائمًا". كلا الأمرين ليس خطأ، ولكن عندما تستهدف التطبيقات أرقامًا مختلفة، فإنك تشعر بالأمر كتطبيق يصرخ وآخر يتمتم.</blockquote>
+
+<p>هذا هو السبب الجذري الصادق. إنه ليس خطأ يمكنك تصحيحه. إنها فيزياء كيفية إنتاج الصوت وتسليمه، ومضاعفته عبر عشرات التطبيقات التي لم يتم تصميمها أبدًا للتوافق مع بعضها البعض.</p>
+
+<h2>الفجوة macOS تترك مفتوحة</h2>
+
+<p>هذا هو الجزء الذي يحبط الناس حقًا: قامت Windows بشحن Volume Mixer لكل تطبيق لسنوات. يمكنك سحب تطبيق واحد للأسفل ودفع تطبيق آخر للأعلى، مباشرة من شريط المهام. macOS لم يدرج هذا أبدًا. تمنحك تفضيلات الصوت شريط التمرير الرئيسي واختيار جهاز الإخراج فقط.</p>
+
+<p>لذلك، في Mac، كانت خياراتك محدودة تقليديًا:</p>
+
+<ul>
+<li>اضبط شريط تمرير مستوى الصوت الداخلي الخاص بكل تطبيق، إذا كان يحتوي على واحد. العديد من التطبيقات (Zoom، معظم الألعاب، أجراس النظام) لا تعرض تطبيقًا صالحًا للاستخدام.</li>
+<li>استخدم شريط التمرير الرئيسي يدويًا في كل مرة تقوم فيها بتبديل السياق.</li>
+<li>كتم صوت شيء واحد تمامًا، وهو إصلاح صريح لا يوازن أي شيء في الواقع.</li>
+</ul>
+
+<p>لا شيء من هؤلاء يتذكر تفضيلاتك. قم بإنهاء التطبيق وإعادة تشغيله، وستعود إلى المربع الأول.</p>
+
+<h2>الحل العملي: حجم محفوظ لكل تطبيق</h2>
+
+<p>نظرًا لأنه لا يمكنك إجبار كل خدمة على إعادة إتقان كتالوجها، فإن الحل العملي هو إضافة الطبقة المفقودة macOS التي لم يتم شحنها أبدًا: وحدة تخزين مستقلة ومتذكرة لكل تطبيق. هذا بالضبط ما <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> يفعل. إنه موجود في شريط القائمة لديك ويمنح كل تطبيق قيد التشغيل شريط التمرير الخاص به، حتى تتمكن من سحب التطبيق المرتفع إلى الأسفل ودفع التطبيق الهادئ إلى الأعلى حتى يصل إلى مستوى يناسبك تمامًا.</p>
+
+<p>لتسوية تطبيقاتك عمليًا:</p>
+
+<ul>
+<li>مفتوح <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> من شريط القائمة وسترى كل تطبيق نشط مع التحكم الخاص به.</li>
+<li>قم بخفض كل ما هو صاخب - عادةً ما يكون تطبيق موسيقى أو فيديو متقنًا - إلى ما يقرب من 60-70٪.</li>
+<li>اترك تطبيقك المرجعي الهادئ (غالبًا تطبيق اتصال أو بودكاست) بنسبة 100%، واستخدمه لكل تطبيق <strong>دفعة</strong> لدفعها إلى ما يزيد عن 100% إذا كانت لا تزال طرية جدًا.</li>
+<li>اضبط المستويات مرة واحدة. يتذكر SoundDial حجم كل تطبيق، لذلك يحتفظ بالتوازن في المرة التالية التي تفتحه فيها.</li>
+</ul>
+
+<p>هناك ميزتان تقومان بمعظم أعمال التسوية هنا. <strong>دفعة</strong> مهم لأن الكثير من التطبيقات تكون ببساطة هادئة للغاية حتى عند الحد الأقصى - لا يمكن لشريط التمرير لكل تطبيق الذي يخفض مستوى الصوت فقط أن ينقذها، ولكن التطبيق الذي يمكنه تضخيم ما يزيد عن 100٪ يمكنه ذلك. و <strong>ملفات تعريف الحجم</strong> تتيح لك حفظ مجموعة كاملة من المستويات - على سبيل المثال، ملف تعريف "تركيز الموسيقى منخفض، المكالمات بصوت عالٍ" للعمل مقابل مزيج مختلف للألعاب - والتبديل بينها على الفور بدلاً من إعادة ضبط التطبيق تلو الآخر.</p>
+
+<h2>حيث يساعد هذا أكثر</h2>
+
+<p>الراحة الأكثر شيوعًا هي قفزة الموسيقى مقابل الاجتماع: بث الموسيقى بصوت عالٍ، ثم تطبيق الاتصال الذي يبدو باهتًا بالمقارنة. اضبط تطبيق الاتصال على مستوى أعلى (أو معزز)، واسحب الموسيقى إلى الأسفل، وسيختفي تأرجح مستوى الصوت المذهل. الأمر نفسه ينطبق على لعبة متصفح هادئة ضد مشغل فيديو عالي الصوت، أو تنبيهات النظام التي تقفز فوق كل شيء.</p>
+
+<p>لتوضيح الحدود: يعمل SoundDial على موازنة ما تنتجه تطبيقاتك. لن يتمكن من إعادة إتقان مسار تم إنتاجه بشكل سيء، ولا يمكنه اختراع تفاصيل في الصوت الممزوج بنطاق ديناميكي واسع جدًا. ما يفعله هو أنه يمنحك عنصر التحكم الوحيد الذي تركته macOS - مستويات ثابتة لكل تطبيق تبقى في مكانها.</p>
+
+<p>هل سئمت من استخدام شريط التمرير الرئيسي في كل مرة تقوم فيها بتبديل التطبيقات؟ <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> هو 14.99 يورو لمرة واحدة على Mac App Store - في وضع الحماية، بدون برامج تشغيل، بدون DMG - وأخيرًا يمنح كل تطبيق حجمًا خاصًا به في الذاكرة.</p>`,
   },
 };

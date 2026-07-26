@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Concept — Divine Dark</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Geist:wght@300;400;500&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#060606;--fg:#f3f1ec;--mut:#9a978f;--faint:#615e58;--line:rgba(255,255,255,.09);
+        --gold:#c9a55c;--goldsoft:rgba(201,165,92,.4)}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--fg);font-family:'Geist',system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  .serif{font-family:'Fraunces',serif}
+  .mono{font-family:'Geist Mono',monospace}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1240px;margin:0 auto;padding:0 40px}
+  /* nav */
+  nav{position:fixed;inset:0 0 auto;z-index:60;mix-blend-mode:difference}
+  nav .wrap{height:82px;display:flex;align-items:center;justify-content:space-between}
+  .mark{display:flex;align-items:center;gap:11px;font-size:12px;letter-spacing:.34em;text-transform:uppercase;font-weight:500}
+  .mark .g{color:var(--gold);font-size:15px}
+  .nl{display:flex;gap:34px}
+  .nl a{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.85)}
+  /* hero */
+  .hero{position:relative;height:100vh;min-height:720px;overflow:hidden;display:flex;align-items:center}
+  .angel{position:absolute;top:0;right:-2%;height:100%;width:62%;z-index:1}
+  .angel video{width:100%;height:100%;object-fit:contain;object-position:center bottom;
+    filter:invert(1) contrast(1.08) brightness(1.02);
+    -webkit-mask-image:linear-gradient(100deg,transparent 0%,#000 34%,#000 100%);
+            mask-image:linear-gradient(100deg,transparent 0%,#000 34%,#000 100%)}
+  .halo{position:absolute;top:8%;right:6%;width:640px;height:640px;z-index:0;border-radius:50%;
+    background:radial-gradient(closest-side,rgba(201,165,92,.10),transparent 70%);filter:blur(10px)}
+  .htext{position:relative;z-index:2;max-width:640px}
+  .eye{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);margin-bottom:30px;display:flex;align-items:center;gap:14px}
+  .eye::before{content:"";width:34px;height:1px;background:var(--goldsoft)}
+  h1{font-family:'Fraunces',serif;font-weight:300;font-size:clamp(46px,6.6vw,90px);line-height:1.0;letter-spacing:-.02em}
+  h1 em{font-style:italic;color:#fff}
+  .sub{margin-top:30px;font-size:18px;line-height:1.7;color:var(--mut);max-width:44ch}
+  .cta{margin-top:42px;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+  .btn{font-size:13px;letter-spacing:.06em;padding:14px 26px;border-radius:2px;transition:.25s}
+  .btn.g{background:var(--gold);color:#0a0a0a;font-weight:500}.btn.g:hover{background:#d8b76e}
+  .btn.o{border:1px solid var(--line);color:#fff}.btn.o:hover{border-color:var(--gold);color:var(--gold)}
+  .scroll{position:absolute;bottom:34px;left:50%;transform:translateX(-50%);z-index:2;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--faint)}
+  /* apps */
+  section{padding:130px 0;position:relative}
+  .rule{display:flex;align-items:baseline;justify-content:space-between;border-top:1px solid var(--line);padding-top:26px;margin-bottom:56px}
+  .rule h2{font-family:'Fraunces',serif;font-weight:300;font-size:clamp(28px,3.4vw,42px)}
+  .rule .m{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint)}
+  .apps{display:grid;grid-template-columns:repeat(12,1fr);grid-auto-rows:250px;gap:14px}
+  .app{position:relative;overflow:hidden;border:1px solid var(--line);border-radius:6px;background:#0b0b0b;transition:.4s;display:flex;flex-direction:column}
+  .app:hover{border-color:var(--goldsoft);transform:translateY(-4px)}
+  .app .s{flex:1;overflow:hidden}
+  .app .s img{width:100%;height:100%;object-fit:cover;object-position:top;transition:.5s;opacity:.9}
+  .app:hover .s img{transform:scale(1.04);opacity:1}
+  .app .b{padding:18px 20px;border-top:1px solid var(--line);display:flex;justify-content:space-between;align-items:center}
+  .app .b .t{font-family:'Fraunces',serif;font-size:19px;font-weight:400}
+  .app .b .t small{display:block;font-family:'Geist';font-size:11.5px;letter-spacing:.04em;color:var(--faint);margin-top:3px;text-transform:uppercase}
+  .plt{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);border:1px solid var(--goldsoft);padding:4px 9px;border-radius:2px}
+  .feat{grid-column:span 7;grid-row:span 2}.h5{grid-column:span 5}.t4{grid-column:span 4}
+  .feat .cap{position:absolute;z-index:2;left:26px;top:24px;max-width:56%}
+  .feat .cap .t{font-family:'Fraunces',serif;font-size:26px}
+  .feat .cap p{font-size:14px;color:var(--mut);margin-top:8px;line-height:1.5}
+  .warden{grid-column:span 4;background:radial-gradient(120% 120% at 80% 0%,rgba(201,165,92,.12),#0b0b0b 60%);align-items:flex-start;justify-content:flex-end;padding:24px;display:flex;flex-direction:column}
+  .warden .t{font-family:'Fraunces',serif;font-size:22px}
+  .warden p{font-size:13px;color:var(--mut);margin-top:8px;line-height:1.5}
+  .warden .soon{margin-top:16px;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);border:1px solid var(--goldsoft);padding:4px 9px;border-radius:2px;align-self:flex-start}
+  /* guides */
+  .guides .g3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .gc{border:1px solid var(--line);border-radius:6px;padding:34px 30px;transition:.3s}
+  .gc:hover{background:#0b0b0b;border-color:var(--goldsoft)}
+  .gc .k{font-family:'Geist Mono';font-size:11px;color:var(--gold);letter-spacing:.06em;margin-bottom:16px}
+  .gc h4{font-family:'Fraunces',serif;font-weight:400;font-size:21px;margin-bottom:9px}
+  .gc p{font-size:14px;color:var(--mut);line-height:1.55}
+  .gc .c{margin-top:20px;font-size:12px;letter-spacing:.06em;color:var(--faint)}
+  /* footer */
+  footer{border-top:1px solid var(--line);padding:70px 0}
+  .frow{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:20px}
+  .frow .lk a{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin-right:24px}
+  .frow .lk a:hover{color:var(--gold)}
+  .frow .cp{font-size:11px;letter-spacing:.16em;color:var(--faint)}
+  @media(max-width:900px){
+    .angel{width:100%;right:-20%;opacity:.5}.htext{max-width:100%}
+    .apps{grid-template-columns:repeat(2,1fr);grid-auto-rows:200px}
+    .feat,.h5,.t4,.warden{grid-column:span 2;grid-row:span 1}
+    .guides .g3{grid-template-columns:1fr}.nl{display:none}
+  }
+</style>
+</head>
+<body>
+<nav><div class="wrap">
+  <div class="mark"><span class="g serif">✦</span> Angel Company</div>
+  <div class="nl"><a href="#work">Work</a><a href="#guides">Guides</a><a href="#studio">Studio</a><a href="#contact">Contact</a></div>
+</div></nav>
+
+<header class="hero">
+  <div class="halo"></div>
+  <div class="angel"><video autoplay muted loop playsinline><source src="./angel-loop.mp4" type="video/mp4"></video></div>
+  <div class="wrap"><div class="htext">
+    <div class="eye mono">Independent software · Hamburg</div>
+    <h1>Small, sharp apps<br>for iOS &amp; <em>macOS.</em></h1>
+    <p class="sub">A one-person studio building native software people trust — and the writing that helps them find it. Six shipped, all earning.</p>
+    <div class="cta">
+      <a class="btn g" href="#work">See the work</a>
+      <a class="btn o" href="#contact">Get in touch</a>
+    </div>
+  </div></div>
+  <div class="scroll mono">scroll ↓</div>
+</header>
+
+<section id="work"><div class="wrap">
+  <div class="rule"><h2>Selected work</h2><span class="m">Live on the App Store</span></div>
+  <div class="apps">
+    <a class="app feat" href="https://apps.apple.com/app/id6772792641">
+      <div class="cap"><div class="t">SoundDial</div><p>The per-app volume mixer macOS never shipped.</p></div>
+      <div class="s"><img src="../public/apps/sounddial.png" alt=""></div>
+      <div class="b"><span class="t">SoundDial <small>Per-App Volume Mixer</small></span><span class="plt">macOS</span></div>
+    </a>
+    <a class="app h5" href="https://apps.apple.com/app/id6761375793"><div class="s"><img src="../public/apps/pulse.png" alt=""></div>
+      <div class="b"><span class="t">Pulse <small>System Monitor</small></span><span class="plt">macOS</span></div></a>
+    <a class="app h5" href="https://apps.apple.com/app/id6759873487"><div class="s"><img src="../public/apps/stash-v2.png" alt=""></div>
+      <div class="b"><span class="t">Stash <small>Secret File Vault</small></span><span class="plt">iOS</span></div></a>
+    <a class="app t4" href="https://apps.apple.com/app/id6760940001"><div class="s"><img src="../public/apps/double-calculator.png" alt=""></div>
+      <div class="b"><span class="t">Double Calc <small>Tax &amp; VAT</small></span><span class="plt">iOS</span></div></a>
+    <a class="app t4" href="https://apps.apple.com/app/id6760895260"><div class="s"><img src="../public/apps/fisheye.png" alt=""></div>
+      <div class="b"><span class="t">Fisheye <small>WideEye Camera</small></span><span class="plt">iOS</span></div></a>
+    <a class="app warden" href="/warden/privacy"><span class="t">Warden</span><p>A guardian for your family — one map, place alerts, SOS.</p><span class="soon">iOS · Android — soon</span></a>
+  </div>
+</div></section>
+
+<section class="guides" id="guides"><div class="wrap">
+  <div class="rule"><h2>Guides</h2><span class="m">Indexed in 30+ languages</span></div>
+  <div class="g3">
+    <a class="gc" href="/pulse/blog"><div class="k">pulse</div><h4>Mac performance</h4><p>CPU temps, network speed, memory pressure — the searches, answered.</p><div class="c mono">40+ articles →</div></a>
+    <a class="gc" href="/sounddial/blog"><div class="k">sounddial</div><h4>Mac audio, fixed</h4><p>FaceTime too quiet, per-app volume, night-mode audio — the top traffic driver.</p><div class="c mono">50+ articles →</div></a>
+    <a class="gc" href="/vault/blog"><div class="k">stash</div><h4>iPhone privacy</h4><p>Hiding photos, secret vaults, Face&nbsp;ID vs passcode — practical, ranking guides.</p><div class="c mono">30+ articles →</div></a>
+  </div>
+</div></section>
+
+<footer id="contact"><div class="wrap"><div class="frow">
+  <div class="mark"><span class="g serif">✦</span> Angel Company</div>
+  <div class="lk"><a href="#work">Work</a><a href="#guides">Guides</a><a href="/impressum">Impressum</a><a href="/datenschutz">Datenschutz</a><a href="/support">Support</a></div>
+  <div class="cp mono">© 2026 · Hamburg</div>
+</div></div></footer>
+</body>
+</html>

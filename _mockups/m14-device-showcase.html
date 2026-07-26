@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eduard Bruch — Independent iOS & macOS Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0a0b;
+    --bg-elev:#111113;
+    --panel:#141416;
+    --ink:#f4f4f5;
+    --muted:#9a9aa2;
+    --faint:#68686f;
+    --line:rgba(255,255,255,.08);
+    --line-strong:rgba(255,255,255,.14);
+    --accent:#4f8cff;
+    --accent-soft:rgba(79,140,255,.14);
+    --radius:20px;
+    --maxw:1160px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Geist',system-ui,-apple-system,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.55;
+    overflow-x:hidden;
+  }
+  /* faint grain + top glow */
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+    background:
+      radial-gradient(120% 60% at 50% -10%, rgba(79,140,255,.10), transparent 60%),
+      radial-gradient(80% 40% at 85% 8%, rgba(79,140,255,.05), transparent 60%);
+  }
+  body::after{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.025;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px;position:relative;z-index:1}
+  a{color:inherit;text-decoration:none}
+
+  /* ---------- NAV ---------- */
+  nav{
+    position:sticky;top:0;z-index:50;
+    backdrop-filter:blur(18px) saturate(140%);
+    -webkit-backdrop-filter:blur(18px) saturate(140%);
+    background:rgba(10,10,11,.6);
+    border-bottom:1px solid var(--line);
+  }
+  .nav-in{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:600;letter-spacing:-.02em;font-size:15px}
+  .brand .dot{width:9px;height:9px;border-radius:50%;background:var(--accent);box-shadow:0 0 14px var(--accent)}
+  .nav-links{display:flex;align-items:center;gap:30px}
+  .nav-links a{font-size:14px;color:var(--muted);transition:color .2s}
+  .nav-links a:hover{color:var(--ink)}
+  .nav-cta{
+    font-size:13px;color:var(--ink)!important;border:1px solid var(--line-strong);
+    padding:8px 15px;border-radius:999px;transition:.2s;
+  }
+  .nav-cta:hover{background:var(--panel);border-color:var(--accent)}
+  @media(max-width:720px){.nav-links a:not(.nav-cta){display:none}}
+
+  /* ---------- HERO ---------- */
+  header{padding:130px 0 96px;text-align:center}
+  .eyebrow{
+    display:inline-flex;align-items:center;gap:9px;
+    font-family:'Geist Mono',monospace;font-size:12px;letter-spacing:.04em;
+    color:var(--muted);border:1px solid var(--line);border-radius:999px;
+    padding:7px 15px;margin-bottom:34px;background:rgba(255,255,255,.015);
+  }
+  .eyebrow .live{width:6px;height:6px;border-radius:50%;background:#33d67f;box-shadow:0 0 10px #33d67f}
+  h1{
+    font-size:clamp(42px,7.2vw,80px);
+    font-weight:600;line-height:.98;letter-spacing:-.045em;
+    margin-bottom:26px;
+  }
+  h1 .soft{color:var(--faint)}
+  .lede{
+    max-width:600px;margin:0 auto 40px;font-size:clamp(16px,2vw,19px);
+    color:var(--muted);letter-spacing:-.01em;
+  }
+  .hero-actions{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-bottom:56px}
+  .btn{
+    display:inline-flex;align-items:center;gap:9px;
+    font-size:15px;font-weight:500;padding:13px 24px;border-radius:12px;
+    transition:.2s;border:1px solid transparent;
+  }
+  .btn-primary{background:var(--ink);color:#0a0a0b}
+  .btn-primary:hover{transform:translateY(-1px);box-shadow:0 10px 30px rgba(255,255,255,.1)}
+  .btn-ghost{border-color:var(--line-strong);color:var(--ink)}
+  .btn-ghost:hover{background:var(--panel);border-color:var(--faint)}
+
+  .facts{
+    display:flex;justify-content:center;flex-wrap:wrap;gap:0;
+    border:1px solid var(--line);border-radius:16px;overflow:hidden;
+    max-width:760px;margin:0 auto;background:rgba(255,255,255,.012);
+  }
+  .fact{flex:1;min-width:150px;padding:22px 18px;border-right:1px solid var(--line)}
+  .fact:last-child{border-right:none}
+  .fact .n{font-size:26px;font-weight:600;letter-spacing:-.03em}
+  .fact .l{font-size:12.5px;color:var(--faint);margin-top:3px;letter-spacing:.01em}
+  @media(max-width:640px){.fact{flex:1 1 50%;border-bottom:1px solid var(--line)}.fact:nth-child(2n){border-right:none}}
+
+  /* ---------- SECTION HEADS ---------- */
+  .sec{padding:84px 0}
+  .sec-head{margin-bottom:52px;max-width:640px}
+  .sec-tag{font-family:'Geist Mono',monospace;font-size:12px;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;margin-bottom:16px}
+  .sec-head h2{font-size:clamp(30px,4.4vw,44px);font-weight:600;letter-spacing:-.035em;line-height:1.03}
+  .sec-head p{color:var(--muted);margin-top:14px;font-size:16.5px;letter-spacing:-.01em}
+
+  /* ---------- APP CARDS ---------- */
+  .apps{display:flex;flex-direction:column;gap:26px}
+  .card{
+    position:relative;border:1px solid var(--line);border-radius:var(--radius);
+    background:linear-gradient(180deg, var(--bg-elev), var(--panel));
+    overflow:hidden;transition:border-color .25s, transform .25s;
+  }
+  .card:hover{border-color:var(--line-strong)}
+  /* mac (landscape) rows: media beside copy */
+  .card-mac{display:grid;grid-template-columns:1.15fr 1fr;align-items:center;gap:0}
+  .card-mac.flip .media{order:2}
+  .card-mac.flip .copy{order:1}
+  .media{position:relative;padding:40px;background:
+      radial-gradient(120% 90% at 50% 0%, rgba(79,140,255,.08), transparent 65%);
+    min-height:100%;display:flex;align-items:center;justify-content:center;
+  }
+  .shot-mac{
+    width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:11px;
+    border:1px solid var(--line-strong);box-shadow:0 26px 60px -24px rgba(0,0,0,.75);
+    transition:transform .4s cubic-bezier(.2,.7,.2,1);
+  }
+  .card:hover .shot-mac,.card:hover .shot-phone{transform:translateY(-4px)}
+  .copy{padding:44px 48px 44px 20px}
+  .card-mac.flip .copy{padding:44px 20px 44px 48px}
+  @media(max-width:860px){
+    .card-mac{grid-template-columns:1fr}
+    .card-mac.flip .media{order:1}
+    .card-mac.flip .copy{order:2}
+    .copy,.card-mac.flip .copy{padding:36px 32px 40px}
+    .media{padding:32px 32px 6px}
+  }
+
+  .plat{display:inline-flex;align-items:center;gap:7px;font-family:'Geist Mono',monospace;
+    font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);
+    border:1px solid var(--line);border-radius:999px;padding:5px 11px;margin-bottom:20px}
+  .plat svg{width:12px;height:12px;fill:currentColor;opacity:.85}
+  .card h3{font-size:30px;font-weight:600;letter-spacing:-.03em;margin-bottom:6px}
+  .card .role{color:var(--accent);font-size:14px;font-weight:500;letter-spacing:.01em;margin-bottom:16px}
+  .card .desc{color:var(--muted);font-size:15.5px;letter-spacing:-.01em;max-width:44ch;margin-bottom:26px}
+  .as-btn{
+    display:inline-flex;align-items:center;gap:11px;background:var(--ink);color:#0a0a0b;
+    padding:11px 18px 11px 15px;border-radius:12px;font-weight:500;transition:.2s;
+  }
+  .as-btn:hover{transform:translateY(-1px);box-shadow:0 12px 28px rgba(255,255,255,.12)}
+  .as-btn svg{width:22px;height:22px}
+  .as-btn .t small{display:block;font-size:10px;line-height:1.1;opacity:.6;font-weight:400}
+  .as-btn .t b{display:block;font-size:14px;line-height:1.15;font-weight:600;letter-spacing:-.01em}
+
+  /* ---------- iOS GRID ---------- */
+  .grid-ios{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  @media(max-width:900px){.grid-ios{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:560px){.grid-ios{grid-template-columns:1fr}}
+  .icard{
+    display:flex;flex-direction:column;border:1px solid var(--line);border-radius:var(--radius);
+    background:linear-gradient(180deg,var(--bg-elev),var(--panel));overflow:hidden;
+    transition:border-color .25s,transform .25s;
+  }
+  .icard:hover{border-color:var(--line-strong);transform:translateY(-3px)}
+  .icard .imedia{
+    padding:34px 34px 0;display:flex;justify-content:center;
+    background:radial-gradient(120% 70% at 50% 0%, rgba(79,140,255,.09), transparent 62%);
+  }
+  .phone{
+    width:min(70%,190px);border-radius:26px;overflow:hidden;
+    border:1px solid var(--line-strong);padding:5px;background:#050506;
+    box-shadow:0 26px 50px -22px rgba(0,0,0,.8);
+    transition:transform .4s cubic-bezier(.2,.7,.2,1);
+  }
+  .icard:hover .phone{transform:translateY(-5px)}
+  .shot-phone{width:100%;aspect-ratio:1290/2796;object-fit:cover;border-radius:21px;display:block}
+  .ibody{padding:26px 26px 26px;display:flex;flex-direction:column;flex:1}
+  .ibody .plat{margin-bottom:14px}
+  .ibody h3{font-size:21px;margin-bottom:3px}
+  .ibody .role{font-size:13px;margin-bottom:14px}
+  .ibody .desc{font-size:14px;margin-bottom:20px}
+  .ibody .as-btn{margin-top:auto;align-self:flex-start;padding:9px 15px 9px 13px}
+  .ibody .as-btn svg{width:19px;height:19px}
+  .ibody .as-btn .t b{font-size:12.5px}
+  .ibody .as-btn .t small{font-size:9px}
+
+  /* ---------- COMING SOON TILE ---------- */
+  .soon .imedia{
+    aspect-ratio:auto;padding:34px;align-items:center;min-height:238px;
+    background:
+      radial-gradient(120% 80% at 50% 30%, rgba(79,140,255,.10), transparent 65%);
+  }
+  .soon-emblem{
+    width:110px;height:110px;border-radius:28px;border:1px solid var(--line-strong);
+    display:flex;align-items:center;justify-content:center;
+    background:linear-gradient(160deg,rgba(79,140,255,.16),rgba(79,140,255,.03));
+    box-shadow:0 20px 44px -20px rgba(79,140,255,.5), inset 0 1px 0 rgba(255,255,255,.08);
+  }
+  .soon-emblem svg{width:48px;height:48px;stroke:var(--accent);fill:none;stroke-width:1.6}
+  .badge-soon{
+    position:absolute;top:16px;right:16px;font-family:'Geist Mono',monospace;
+    font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);
+    border:1px solid var(--accent-soft);background:var(--accent-soft);
+    padding:5px 10px;border-radius:999px;
+  }
+  .soon .as-btn{background:transparent;color:var(--ink);border:1px solid var(--line-strong)}
+  .soon .as-btn:hover{border-color:var(--accent);box-shadow:none;transform:translateY(-1px)}
+
+  /* ---------- GUIDES ---------- */
+  .guides-panel{
+    border:1px solid var(--line);border-radius:24px;overflow:hidden;
+    background:linear-gradient(180deg,var(--bg-elev),var(--panel));
+  }
+  .guides-top{padding:44px 44px 8px}
+  .glist{display:grid;grid-template-columns:repeat(3,1fr)}
+  @media(max-width:760px){.glist{grid-template-columns:1fr}}
+  .glink{
+    display:flex;flex-direction:column;gap:8px;padding:34px 44px 40px;
+    border-top:1px solid var(--line);border-right:1px solid var(--line);
+    transition:background .2s;
+  }
+  .glink:last-child{border-right:none}
+  @media(max-width:760px){.glink{border-right:none}}
+  .glink:hover{background:rgba(79,140,255,.05)}
+  .glink .gname{display:flex;align-items:center;justify-content:space-between;font-size:18px;font-weight:600;letter-spacing:-.02em}
+  .glink .gname .arr{color:var(--faint);transition:.2s}
+  .glink:hover .arr{color:var(--accent);transform:translate(3px,-3px)}
+  .glink .gsub{color:var(--muted);font-size:14px}
+  .glink .gmeta{font-family:'Geist Mono',monospace;font-size:11px;color:var(--faint);letter-spacing:.03em;margin-top:4px}
+
+  /* ---------- FOOTER ---------- */
+  footer{border-top:1px solid var(--line);padding:52px 0 60px;margin-top:40px}
+  .foot-in{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:22px}
+  .foot-links{display:flex;gap:26px;flex-wrap:wrap}
+  .foot-links a{font-size:14px;color:var(--muted);transition:color .2s}
+  .foot-links a:hover{color:var(--ink)}
+  .foot-copy{font-size:13.5px;color:var(--faint);font-family:'Geist Mono',monospace;letter-spacing:.01em}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap nav-in">
+    <a class="brand" href="#top"><span class="dot"></span>Eduard Bruch</a>
+    <div class="nav-links">
+      <a href="#apps">Apps</a>
+      <a href="#guides">Guides</a>
+      <a href="/support">Support</a>
+      <a class="nav-cta" href="#apps">View apps</a>
+    </div>
+  </div>
+</nav>
+
+<header id="top">
+  <div class="wrap">
+    <span class="eyebrow"><span class="live"></span>Independent developer · Hamburg</span>
+    <h1>Native apps for<br>iOS &amp; macOS.<br><span class="soft">Small, fast, private.</span></h1>
+    <p class="lede">I'm Eduard Bruch. I design and build focused native apps that do one thing exceptionally well — no bloat, no tracking, no accounts you didn't ask for. Six shipped, and counting.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#apps">Browse the apps →</a>
+      <a class="btn btn-ghost" href="#guides">Read the guides</a>
+    </div>
+    <div class="facts">
+      <div class="fact"><div class="n">6</div><div class="l">apps shipped</div></div>
+      <div class="fact"><div class="n">120+</div><div class="l">guides written</div></div>
+      <div class="fact"><div class="n">30+</div><div class="l">languages</div></div>
+      <div class="fact"><div class="n">iOS / macOS</div><div class="l">native only</div></div>
+    </div>
+  </div>
+</header>
+
+<!-- ================= APPS ================= -->
+<section class="sec" id="apps">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="sec-tag">The apps</div>
+      <h2>Six apps on the App Store.</h2>
+      <p>Each one is a small, native, standalone tool — built to be fast, respectful of your data, and pleasant to use every day.</p>
+    </div>
+
+    <div class="apps">
+
+      <!-- SoundDial (mac) -->
+      <div class="card card-mac">
+        <div class="media">
+          <img class="shot-mac" src="../public/apps/sounddial.png" alt="SoundDial per-app volume mixer for macOS">
+        </div>
+        <div class="copy">
+          <span class="plat"><svg viewBox="0 0 24 24"><path d="M18 5H6a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3V8a3 3 0 0 0-3-3zM8 17H6V7h2v10zm5 0h-2V7h2v10zm5 0h-2V7h2v10z"/></svg>macOS</span>
+          <h3>SoundDial</h3>
+          <div class="role">Per-App Volume Mixer</div>
+          <p class="desc">Set independent volume for every app from the menu bar. Mic-based auto-ducking lowers the music the moment you start talking — then brings it back.</p>
+          <a class="as-btn" href="https://apps.apple.com/app/id6772792641" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="#0a0a0b"><path d="M17.05 12.6c-.03-2.6 2.13-3.85 2.23-3.91-1.22-1.78-3.11-2.02-3.78-2.05-1.61-.16-3.14.95-3.95.95-.81 0-2.07-.93-3.4-.9-1.75.02-3.36 1.02-4.26 2.58-1.82 3.15-.47 7.82 1.31 10.38.87 1.25 1.9 2.66 3.26 2.61 1.31-.05 1.8-.84 3.39-.84 1.58 0 2.03.84 3.41.82 1.41-.03 2.3-1.28 3.16-2.54.99-1.46 1.4-2.87 1.42-2.95-.03-.01-2.73-1.05-2.76-4.16zM14.6 4.9c.72-.88 1.21-2.09 1.07-3.3-1.04.04-2.29.69-3.03 1.56-.66.77-1.24 2.01-1.09 3.19 1.16.09 2.35-.59 3.05-1.45z"/></svg>
+            <span class="t"><small>Download on the</small><b>Mac App Store</b></span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Pulse (mac) -->
+      <div class="card card-mac flip">
+        <div class="media">
+          <img class="shot-mac" src="../public/apps/pulse.png" alt="Pulse system monitor for macOS">
+        </div>
+        <div class="copy">
+          <span class="plat"><svg viewBox="0 0 24 24"><path d="M18 5H6a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3V8a3 3 0 0 0-3-3zM8 17H6V7h2v10zm5 0h-2V7h2v10zm5 0h-2V7h2v10z"/></svg>macOS</span>
+          <h3>Pulse</h3>
+          <div class="role">System Monitor</div>
+          <p class="desc">CPU, memory, network, disk and battery — a clear, glanceable read on your Mac's health, right from the menu bar. Read-only, lightweight, no background noise.</p>
+          <a class="as-btn" href="https://apps.apple.com/app/id6761375793" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="#0a0a0b"><path d="M17.05 12.6c-.03-2.6 2.13-3.85 2.23-3.91-1.22-1.78-3.11-2.02-3.78-2.05-1.61-.16-3.14.95-3.95.95-.81 0-2.07-.93-3.4-.9-1.75.02-3.36 1.02-4.26 2.58-1.82 3.15-.47 7.82 1.31 10.38.87 1.25 1.9 2.66 3.26 2.61 1.31-.05 1.8-.84 3.39-.84 1.58 0 2.03.84 3.41.82 1.41-.03 2.3-1.28 3.16-2.54.99-1.46 1.4-2.87 1.42-2.95-.03-.01-2.73-1.05-2.76-4.16zM14.6 4.9c.72-.88 1.21-2.09 1.07-3.3-1.04.04-2.29.69-3.03 1.56-.66.77-1.24 2.01-1.09 3.19 1.16.09 2.35-.59 3.05-1.45z"/></svg>
+            <span class="t"><small>Download on the</small><b>Mac App Store</b></span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- iOS grid -->
+    <div class="grid-ios" style="margin-top:26px">
+
+      <!-- Stash -->
+      <div class="icard">
+        <div class="imedia">
+          <div class="phone"><img class="shot-phone" src="../public/apps/stash-v2.png" alt="Stash secret file vault for iOS"></div>
+        </div>
+        <div class="ibody">
+          <span class="plat"><svg viewBox="0 0 24 24"><path d="M16 1H8a3 3 0 0 0-3 3v16a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V4a3 3 0 0 0-3-3zm-4 21a1.4 1.4 0 1 1 0-2.8 1.4 1.4 0 0 1 0 2.8zm5-4H7V4h10v14z"/></svg>iOS</span>
+          <h3>Stash</h3>
+          <div class="role">Secret File Vault</div>
+          <p class="desc">A private, disguised vault for photos and files — hidden behind a decoy so what's yours stays yours.</p>
+          <a class="as-btn" href="https://apps.apple.com/app/id6759873487" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="#0a0a0b"><path d="M17.05 12.6c-.03-2.6 2.13-3.85 2.23-3.91-1.22-1.78-3.11-2.02-3.78-2.05-1.61-.16-3.14.95-3.95.95-.81 0-2.07-.93-3.4-.9-1.75.02-3.36 1.02-4.26 2.58-1.82 3.15-.47 7.82 1.31 10.38.87 1.25 1.9 2.66 3.26 2.61 1.31-.05 1.8-.84 3.39-.84 1.58 0 2.03.84 3.41.82 1.41-.03 2.3-1.28 3.16-2.54.99-1.46 1.4-2.87 1.42-2.95-.03-.01-2.73-1.05-2.76-4.16zM14.6 4.9c.72-.88 1.21-2.09 1.07-3.3-1.04.04-2.29.69-3.03 1.56-.66.77-1.24 2.01-1.09 3.19 1.16.09 2.35-.59 3.05-1.45z"/></svg>
+            <span class="t"><small>Download on the</small><b>App Store</b></span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Double Calculator -->
+      <div class="icard">
+        <div class="imedia">
+          <div class="phone"><img class="shot-phone" src="../public/apps/double-calculator.png" alt="Double Calculator tax and VAT app for iOS"></div>
+        </div>
+        <div class="ibody">
+          <span class="plat"><svg viewBox="0 0 24 24"><path d="M16 1H8a3 3 0 0 0-3 3v16a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V4a3 3 0 0 0-3-3zm-4 21a1.4 1.4 0 1 1 0-2.8 1.4 1.4 0 0 1 0 2.8zm5-4H7V4h10v14z"/></svg>iOS</span>
+          <h3>Double Calculator</h3>
+          <div class="role">Tax &amp; VAT</div>
+          <p class="desc">Two tapes side by side with instant tax and VAT — built for freelancers and quick everyday math.</p>
+          <a class="as-btn" href="https://apps.apple.com/app/id6760940001" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="#0a0a0b"><path d="M17.05 12.6c-.03-2.6 2.13-3.85 2.23-3.91-1.22-1.78-3.11-2.02-3.78-2.05-1.61-.16-3.14.95-3.95.95-.81 0-2.07-.93-3.4-.9-1.75.02-3.36 1.02-4.26 2.58-1.82 3.15-.47 7.82 1.31 10.38.87 1.25 1.9 2.66 3.26 2.61 1.31-.05 1.8-.84 3.39-.84 1.58 0 2.03.84 3.41.82 1.41-.03 2.3-1.28 3.16-2.54.99-1.46 1.4-2.87 1.42-2.95-.03-.01-2.73-1.05-2.76-4.16zM14.6 4.9c.72-.88 1.21-2.09 1.07-3.3-1.04.04-2.29.69-3.03 1.56-.66.77-1.24 2.01-1.09 3.19 1.16.09 2.35-.59 3.05-1.45z"/></svg>
+            <span class="t"><small>Download on the</small><b>App Store</b></span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Fisheye -->
+      <div class="icard">
+        <div class="imedia">
+          <div class="phone"><img class="shot-phone" src="../public/apps/fisheye.png" alt="Fisheye WideEye camera app for iOS"></div>
+        </div>
+        <div class="ibody">
+          <span class="plat"><svg viewBox="0 0 24 24"><path d="M16 1H8a3 3 0 0 0-3 3v16a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V4a3 3 0 0 0-3-3zm-4 21a1.4 1.4 0 1 1 0-2.8 1.4 1.4 0 0 1 0 2.8zm5-4H7V4h10v14z"/></svg>iOS</span>
+          <h3>Fisheye</h3>
+          <div class="role">WideEye Camera</div>
+          <p class="desc">Wide-angle and fisheye captures with a playful, nostalgic look — real-time preview, one-tap shooting.</p>
+          <a class="as-btn" href="https://apps.apple.com/app/id6760895260" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="#0a0a0b"><path d="M17.05 12.6c-.03-2.6 2.13-3.85 2.23-3.91-1.22-1.78-3.11-2.02-3.78-2.05-1.61-.16-3.14.95-3.95.95-.81 0-2.07-.93-3.4-.9-1.75.02-3.36 1.02-4.26 2.58-1.82 3.15-.47 7.82 1.31 10.38.87 1.25 1.9 2.66 3.26 2.61 1.31-.05 1.8-.84 3.39-.84 1.58 0 2.03.84 3.41.82 1.41-.03 2.3-1.28 3.16-2.54.99-1.46 1.4-2.87 1.42-2.95-.03-.01-2.73-1.05-2.76-4.16zM14.6 4.9c.72-.88 1.21-2.09 1.07-3.3-1.04.04-2.29.69-3.03 1.56-.66.77-1.24 2.01-1.09 3.19 1.16.09 2.35-.59 3.05-1.45z"/></svg>
+            <span class="t"><small>Download on the</small><b>App Store</b></span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Warden (coming soon) -->
+      <div class="icard soon">
+        <span class="badge-soon">Coming soon</span>
+        <div class="imedia">
+          <div class="soon-emblem">
+            <svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.4-3 8.3-7 9.5C8 19.3 5 15.4 5 11V6l7-3z"/><path d="M9.2 12.3l1.9 1.9 3.7-3.9"/></svg>
+          </div>
+        </div>
+        <div class="ibody">
+          <span class="plat"><svg viewBox="0 0 24 24"><path d="M16 1H8a3 3 0 0 0-3 3v16a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V4a3 3 0 0 0-3-3zm-4 21a1.4 1.4 0 1 1 0-2.8 1.4 1.4 0 0 1 0 2.8zm5-4H7V4h10v14z"/></svg>iOS &amp; Android</span>
+          <h3>Warden</h3>
+          <div class="role">Family Location &amp; Safety</div>
+          <p class="desc">Private, real-time family location and safety alerts — built trust-first, with your data staying yours.</p>
+          <a class="as-btn" href="/warden/privacy">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#f4f4f5" stroke-width="1.8"><path d="M12 3l7 3v5c0 4.4-3 8.3-7 9.5C8 19.3 5 15.4 5 11V6l7-3z"/></svg>
+            <span class="t"><small>Privacy-first · in the works</small><b>Read the privacy note</b></span>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================= GUIDES ================= -->
+<section class="sec" id="guides">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="sec-tag">Guides</div>
+      <h2>Guides that actually help.</h2>
+      <p>Deep, practical how-to guides behind the apps — indexed and translated in 30+ languages so people can read them in their own words.</p>
+    </div>
+
+    <div class="guides-panel">
+      <div class="glist">
+        <a class="glink" href="/pulse/blog">
+          <div class="gname">Pulse Guides <span class="arr">↗</span></div>
+          <div class="gsub">Understanding your Mac's CPU, memory &amp; battery.</div>
+          <div class="gmeta">macOS · monitoring</div>
+        </a>
+        <a class="glink" href="/sounddial/blog">
+          <div class="gname">SoundDial Guides <span class="arr">↗</span></div>
+          <div class="gsub">Per-app audio, auto-ducking &amp; Mac sound tips.</div>
+          <div class="gmeta">macOS · audio</div>
+        </a>
+        <a class="glink" href="/vault/blog">
+          <div class="gname">Stash Guides <span class="arr">↗</span></div>
+          <div class="gsub">Keeping private files private on iPhone.</div>
+          <div class="gmeta">iOS · privacy</div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap foot-in">
+    <div class="foot-links">
+      <a href="/impressum">Impressum</a>
+      <a href="/datenschutz">Datenschutz</a>
+      <a href="/support">Support</a>
+    </div>
+    <div class="foot-copy">© 2026 Eduard Bruch · Hamburg</div>
+  </div>
+</footer>
+
+</body>
+</html>

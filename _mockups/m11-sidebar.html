@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eduard Bruch — Independent Software Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0f14;
+    --raise:#0e141b;
+    --fg:#dbe4ec;
+    --head:#e9f0f6;
+    --mut:#8695a3;
+    --faint:#5c6976;
+    --line:rgba(148,178,201,.10);
+    --line2:rgba(148,178,201,.20);
+    --accent:#5eead4;      /* teal */
+    --accent-dim:rgba(94,234,212,.10);
+    --accent-line:rgba(94,234,212,.28);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg);color:var(--fg);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;letter-spacing:-.006em;
+    line-height:1.5;overflow-x:hidden;position:relative;
+  }
+  .mono{font-family:'JetBrains Mono',monospace;font-feature-settings:"liga" 0}
+  a{color:inherit;text-decoration:none}
+
+  /* ambient glow that follows nothing — just a soft teal wash top-left */
+  body::before{
+    content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+    background:
+      radial-gradient(680px 480px at 12% -6%, rgba(94,234,212,.08), transparent 70%),
+      radial-gradient(700px 600px at 100% 0%, rgba(56,120,140,.07), transparent 65%);
+  }
+  /* faint grain */
+  body::after{
+    content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.03;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .layout{position:relative;z-index:1;max-width:1180px;margin:0 auto;padding:0 40px;
+    display:grid;grid-template-columns:minmax(300px,420px) 1fr;gap:40px}
+
+  /* ---------- SIDEBAR ---------- */
+  aside{position:sticky;top:0;height:100vh;display:flex;flex-direction:column;
+    justify-content:space-between;padding:100px 0 96px}
+  .brand h1{font-size:44px;line-height:1.05;font-weight:600;letter-spacing:-.03em;color:var(--head)}
+  .brand .role{margin-top:14px;font-size:18px;font-weight:500;color:var(--head);letter-spacing:-.01em}
+  .brand .intro{margin-top:16px;max-width:320px;font-size:15px;color:var(--mut);line-height:1.6}
+  .brand .loc{margin-top:20px;display:inline-flex;align-items:center;gap:8px;
+    font-size:12.5px;color:var(--faint);letter-spacing:.02em}
+  .loc .dot{width:6px;height:6px;border-radius:50%;background:var(--accent);
+    box-shadow:0 0 0 3px var(--accent-dim)}
+
+  /* nav */
+  nav{margin-top:52px}
+  nav ul{list-style:none}
+  nav li{margin:2px 0}
+  nav a{display:inline-flex;align-items:center;gap:16px;padding:8px 0;
+    font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--faint);transition:color .25s}
+  nav a .bar{width:28px;height:1px;background:var(--line2);transition:all .25s}
+  nav a:hover,nav a.active{color:var(--head)}
+  nav a:hover .bar,nav a.active .bar{width:52px;background:var(--accent)}
+
+  /* facts */
+  .facts{margin-top:36px;display:flex;flex-wrap:wrap;gap:6px 18px;max-width:320px}
+  .facts span{font-size:12px;color:var(--faint)}
+  .facts b{color:var(--fg);font-weight:600}
+
+  /* social */
+  .social{display:flex;gap:20px;align-items:center}
+  .social a{color:var(--faint);transition:color .22s,transform .22s}
+  .social a:hover{color:var(--accent);transform:translateY(-2px)}
+  .social svg{width:20px;height:20px;display:block}
+
+  /* ---------- RIGHT COLUMN ---------- */
+  main{padding:100px 0 120px;min-width:0}
+  .section{margin-bottom:96px;scroll-margin-top:100px}
+  .eyebrow{font-size:11.5px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;
+    color:var(--accent);margin-bottom:22px}
+  .lead{font-size:20px;line-height:1.65;color:var(--fg);max-width:600px;font-weight:400}
+  .lead b{color:var(--head);font-weight:600}
+  .lead .tint{color:var(--accent)}
+
+  /* app rows */
+  .apps{display:flex;flex-direction:column;gap:10px}
+  .app{position:relative;display:grid;grid-template-columns:150px 1fr;gap:24px;
+    padding:22px;border-radius:14px;border:1px solid transparent;transition:.3s;align-items:center}
+  .app:hover{background:var(--raise);border-color:var(--line);
+    box-shadow:0 1px 0 rgba(255,255,255,.02) inset,0 24px 60px -34px rgba(0,0,0,.8)}
+  .shot{aspect-ratio:16/10;border-radius:10px;overflow:hidden;border:1px solid var(--line2);
+    background:#060a0e;position:relative}
+  .shot img{width:100%;height:100%;object-fit:cover;display:block;
+    filter:saturate(.96);transition:transform .5s ease}
+  .app:hover .shot img{transform:scale(1.045)}
+  .app.ios .shot{aspect-ratio:3/4}
+  .app-body{min-width:0}
+  .app-top{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .app-name{font-size:18px;font-weight:600;color:var(--head);letter-spacing:-.02em;
+    transition:color .25s;display:inline-flex;align-items:center;gap:8px}
+  .app:hover .app-name{color:var(--accent)}
+  .app-name .arw{transition:transform .25s;opacity:.7}
+  .app:hover .app-name .arw{transform:translate(3px,-3px)}
+  .app-sub{font-size:14px;color:var(--mut)}
+  .app-desc{margin-top:10px;font-size:14.5px;color:var(--mut);line-height:1.6;max-width:460px}
+  .tags{margin-top:14px;display:flex;flex-wrap:wrap;gap:8px}
+  .tag{font-size:11px;font-weight:500;letter-spacing:.02em;color:var(--accent);
+    background:var(--accent-dim);border:1px solid var(--accent-line);
+    padding:4px 10px;border-radius:100px}
+  .tag.plain{color:var(--mut);background:transparent;border-color:var(--line2)}
+  .app-link{position:absolute;inset:0;border-radius:14px}
+
+  /* coming soon placeholder */
+  .app.soon .shot{display:flex;align-items:center;justify-content:center;
+    background:
+      radial-gradient(120% 120% at 50% 0%, rgba(94,234,212,.06), transparent 60%),
+      var(--raise);
+    border-style:dashed}
+  .app.soon .glyph{width:46px;height:46px;color:var(--accent);opacity:.85}
+
+  /* guides */
+  .guides-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .guide{display:block;padding:22px;border-radius:14px;border:1px solid var(--line);
+    background:var(--raise);transition:.3s;position:relative}
+  .guide:hover{border-color:var(--accent-line);transform:translateY(-3px);
+    box-shadow:0 24px 50px -34px rgba(0,0,0,.85)}
+  .guide .g-name{font-size:15px;font-weight:600;color:var(--head);display:flex;
+    align-items:center;justify-content:space-between}
+  .guide .arw{opacity:.6;transition:transform .25s}
+  .guide:hover .arw{transform:translate(3px,-3px);color:var(--accent);opacity:1}
+  .guide .g-desc{margin-top:8px;font-size:13px;color:var(--mut);line-height:1.55}
+  .guides-note{margin-top:20px;font-size:13.5px;color:var(--faint);max-width:560px}
+  .guides-note b{color:var(--fg);font-weight:500}
+
+  /* footer inside right col */
+  footer{border-top:1px solid var(--line);padding-top:28px;margin-top:8px}
+  .foot-links{display:flex;gap:24px;flex-wrap:wrap;margin-bottom:14px}
+  .foot-links a{font-size:13px;color:var(--mut);transition:color .2s}
+  .foot-links a:hover{color:var(--accent)}
+  .copy{font-size:12.5px;color:var(--faint)}
+
+  ::selection{background:rgba(94,234,212,.22);color:#fff}
+
+  /* ---------- RESPONSIVE ---------- */
+  @media(max-width:900px){
+    .layout{grid-template-columns:1fr;gap:0;padding:0 28px}
+    aside{position:static;height:auto;padding:76px 0 20px}
+    nav{display:none}
+    .social{margin-top:34px}
+    main{padding:44px 0 80px}
+    .section{margin-bottom:72px}
+    .app{grid-template-columns:120px 1fr;gap:18px;padding:16px}
+    .guides-grid{grid-template-columns:1fr}
+  }
+  @media(max-width:520px){
+    .layout{padding:0 20px}
+    .brand h1{font-size:36px}
+    .lead{font-size:18px}
+    .app{grid-template-columns:1fr;gap:16px}
+    .app .shot{max-width:220px}
+    .app.ios .shot{max-width:150px}
+  }
+</style>
+</head>
+<body>
+
+<div class="layout">
+
+  <!-- ============ SIDEBAR ============ -->
+  <aside>
+    <div>
+      <div class="brand">
+        <h1>Eduard&nbsp;Bruch</h1>
+        <div class="role">Independent Software Developer</div>
+        <p class="intro">I design and build small, fast, private native apps for iOS &amp; macOS — shipped solo, end&#8209;to&#8209;end.</p>
+        <span class="loc"><span class="dot"></span>Hamburg, Germany · working independently</span>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="#about" class="active"><span class="bar"></span>About</a></li>
+          <li><a href="#apps"><span class="bar"></span>Apps</a></li>
+          <li><a href="#guides"><span class="bar"></span>Guides</a></li>
+        </ul>
+      </nav>
+
+      <div class="facts">
+        <span><b>6</b> apps shipped</span>
+        <span><b>120+</b> guides</span>
+        <span><b>30+</b> languages</span>
+        <span><b>iOS / macOS</b> native</span>
+      </div>
+    </div>
+
+    <div class="social" aria-label="Elsewhere">
+      <a href="https://apps.apple.com/developer/id6772792641" aria-label="App Store" title="App Store">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5c-1 0-2 .7-2.6 1.7"/><path d="M4.5 17.5h15"/><path d="M8 17.5 15.5 5c.5-.9 1.6-1.2 2.5-.7"/><path d="M16 17.5 8.5 5C8 4.1 6.9 3.8 6 4.3"/><path d="M6.5 20.5 8 17.5M17.5 20.5 16 17.5"/></svg>
+      </a>
+      <a href="https://github.com" aria-label="GitHub" title="GitHub">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.58 2 12.25c0 4.53 2.87 8.37 6.84 9.73.5.1.68-.22.68-.49 0-.24-.01-.88-.01-1.72-2.78.62-3.37-1.37-3.37-1.37-.45-1.18-1.11-1.5-1.11-1.5-.91-.64.07-.63.07-.63 1 .07 1.53 1.06 1.53 1.06.89 1.56 2.34 1.11 2.91.85.09-.66.35-1.11.63-1.37-2.22-.26-4.55-1.14-4.55-5.05 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.3.1-2.7 0 0 .84-.28 2.75 1.05a9.36 9.36 0 0 1 5 0c1.91-1.33 2.75-1.05 2.75-1.05.55 1.4.2 2.44.1 2.7.64.72 1.03 1.63 1.03 2.75 0 3.92-2.34 4.79-4.57 5.04.36.32.68.94.68 1.9 0 1.37-.01 2.48-.01 2.82 0 .27.18.6.69.49A10.26 10.26 0 0 0 22 12.25C22 6.58 17.52 2 12 2z"/></svg>
+      </a>
+      <a href="mailto:hello@eduardbruch.com" aria-label="Email" title="Email">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>
+      </a>
+      <a href="/support" aria-label="Support" title="Support">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 0 1 4.7 1c0 1.7-2.2 2-2.2 3.5"/><path d="M12 17.5h.01"/></svg>
+      </a>
+    </div>
+  </aside>
+
+  <!-- ============ RIGHT COLUMN ============ -->
+  <main>
+
+    <!-- ABOUT / HERO -->
+    <section class="section" id="about">
+      <p class="lead">
+        I build <b>native iOS &amp; macOS apps</b> — no cross&#8209;platform shortcuts, no bloat.
+        Each one is meant to be <span class="tint">small, fast and genuinely private</span>:
+        it does one thing, runs on your device, and doesn't phone home.
+        <b>Six shipped</b> so far, each solo from first sketch to App Store.
+      </p>
+    </section>
+
+    <!-- APPS -->
+    <section class="section" id="apps">
+      <div class="eyebrow">Shipped Apps</div>
+      <div class="apps">
+
+        <!-- SoundDial -->
+        <a class="app" href="https://apps.apple.com/app/id6772792641">
+          <div class="shot"><img src="../public/apps/sounddial.png" alt="SoundDial screenshot" loading="lazy"></div>
+          <div class="app-body">
+            <div class="app-top">
+              <span class="app-name">SoundDial
+                <svg class="arw" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+              </span>
+              <span class="app-sub">Per‑App Volume Mixer</span>
+            </div>
+            <p class="app-desc">Independent volume for every app on the Mac, with mic‑based auto‑ducking. Lives quietly in the menu bar.</p>
+            <div class="tags"><span class="tag">macOS</span><span class="tag plain">Menu bar</span></div>
+          </div>
+          <span class="app-link"></span>
+        </a>
+
+        <!-- Pulse -->
+        <a class="app" href="https://apps.apple.com/app/id6761375793">
+          <div class="shot"><img src="../public/apps/pulse.png" alt="Pulse screenshot" loading="lazy"></div>
+          <div class="app-body">
+            <div class="app-top">
+              <span class="app-name">Pulse
+                <svg class="arw" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+              </span>
+              <span class="app-sub">System Monitor</span>
+            </div>
+            <p class="app-desc">CPU, memory, network and sensors at a glance — a modern, read‑only system monitor with widgets and a clean menu‑bar readout.</p>
+            <div class="tags"><span class="tag">macOS</span><span class="tag plain">Widgets</span></div>
+          </div>
+          <span class="app-link"></span>
+        </a>
+
+        <!-- Stash -->
+        <a class="app ios" href="https://apps.apple.com/app/id6759873487">
+          <div class="shot"><img src="../public/apps/stash-v2.png" alt="Stash screenshot" loading="lazy"></div>
+          <div class="app-body">
+            <div class="app-top">
+              <span class="app-name">Stash
+                <svg class="arw" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+              </span>
+              <span class="app-sub">Secret File Vault</span>
+            </div>
+            <p class="app-desc">A private vault for photos and files, hidden behind a disguised calculator front. Everything encrypted and on‑device.</p>
+            <div class="tags"><span class="tag">iOS</span><span class="tag plain">Encrypted</span></div>
+          </div>
+          <span class="app-link"></span>
+        </a>
+
+        <!-- Double Calculator -->
+        <a class="app ios" href="https://apps.apple.com/app/id6760940001">
+          <div class="shot"><img src="../public/apps/double-calculator.png" alt="Double Calculator screenshot" loading="lazy"></div>
+          <div class="app-body">
+            <div class="app-top">
+              <span class="app-name">Double Calculator
+                <svg class="arw" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+              </span>
+              <span class="app-sub">Tax &amp; VAT</span>
+            </div>
+            <p class="app-desc">Two calculators side by side with instant tax and VAT breakdowns — built for anyone who reconciles gross and net all day.</p>
+            <div class="tags"><span class="tag">iOS</span><span class="tag plain">Finance</span></div>
+          </div>
+          <span class="app-link"></span>
+        </a>
+
+        <!-- Fisheye -->
+        <a class="app ios" href="https://apps.apple.com/app/id6760895260">
+          <div class="shot"><img src="../public/apps/fisheye.png" alt="Fisheye screenshot" loading="lazy"></div>
+          <div class="app-body">
+            <div class="app-top">
+              <span class="app-name">Fisheye
+                <svg class="arw" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+              </span>
+              <span class="app-sub">WideEye Camera</span>
+            </div>
+            <p class="app-desc">A real‑time fisheye and wide‑angle camera with retro lens looks — capture the whole room in one warped, characterful frame.</p>
+            <div class="tags"><span class="tag">iOS</span><span class="tag plain">Camera</span></div>
+          </div>
+          <span class="app-link"></span>
+        </a>
+
+        <!-- Warden — coming soon -->
+        <a class="app soon ios" href="/warden/privacy">
+          <div class="shot">
+            <svg class="glyph" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.5 3 7.5 7 9 4-1.5 7-4.5 7-9V6l-7-3Z"/><path d="m9.5 12 1.8 1.8 3.4-3.6"/></svg>
+          </div>
+          <div class="app-body">
+            <div class="app-top">
+              <span class="app-name">Warden
+                <svg class="arw" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+              </span>
+              <span class="app-sub">Family Location &amp; Safety</span>
+            </div>
+            <p class="app-desc">Private, real‑time family location and safety alerts — designed with trust and data minimalism first.</p>
+            <div class="tags"><span class="tag">iOS &amp; Android</span><span class="tag plain">Coming soon</span></div>
+          </div>
+          <span class="app-link"></span>
+        </a>
+
+      </div>
+    </section>
+
+    <!-- GUIDES -->
+    <section class="section" id="guides">
+      <div class="eyebrow">Guides</div>
+      <p class="lead" style="margin-bottom:26px;font-size:18px">
+        Deep, practical how‑to guides written alongside the apps —
+        <b>indexed in 30+ languages</b> so people can learn in their own.
+      </p>
+      <div class="guides-grid">
+        <a class="guide" href="/pulse/blog">
+          <div class="g-name">Pulse Guides
+            <svg class="arw" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+          </div>
+          <p class="g-desc">Reading Mac vitals, taming CPU spikes, and monitoring like a pro.</p>
+        </a>
+        <a class="guide" href="/sounddial/blog">
+          <div class="g-name">SoundDial Guides
+            <svg class="arw" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+          </div>
+          <p class="g-desc">Per‑app audio, auto‑ducking setups, and fixing macOS volume quirks.</p>
+        </a>
+        <a class="guide" href="/vault/blog">
+          <div class="g-name">Stash Guides
+            <svg class="arw" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
+          </div>
+          <p class="g-desc">Hiding files, on‑device encryption, and staying private on iPhone.</p>
+        </a>
+      </div>
+      <p class="guides-note"><b>120+ guides and counting</b> — maintained by hand, translated for readers worldwide.</p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="foot-links">
+        <a href="/impressum">Impressum</a>
+        <a href="/datenschutz">Datenschutz</a>
+        <a href="/support">Support</a>
+      </div>
+      <div class="copy">© 2026 Eduard Bruch · Hamburg</div>
+    </footer>
+
+  </main>
+</div>
+
+<script>
+  // active nav highlight on scroll
+  const links=[...document.querySelectorAll('nav a')];
+  const map=Object.fromEntries(links.map(a=>[a.getAttribute('href').slice(1),a]));
+  const io=new IntersectionObserver((es)=>{
+    es.forEach(e=>{if(e.isIntersecting){
+      links.forEach(l=>l.classList.remove('active'));
+      map[e.target.id]?.classList.add('active');
+    }});
+  },{rootMargin:'-40% 0px -55% 0px'});
+  ['about','apps','guides'].forEach(id=>{const el=document.getElementById(id);if(el)io.observe(el)});
+</script>
+</body>
+</html>

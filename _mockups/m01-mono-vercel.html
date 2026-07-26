@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Eduard Bruch — Independent Software Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #0a0a0b;
+    --bg-raise: #101012;
+    --text: #ededed;
+    --text-dim: #a1a1a6;
+    --text-faint: #6e6e73;
+    --line: rgba(255, 255, 255, 0.09);
+    --line-strong: rgba(255, 255, 255, 0.16);
+    --radius: 18px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Geist', system-ui, -apple-system, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+
+  /* radial glow at top */
+  body::before {
+    content: "";
+    position: fixed;
+    top: -40vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120vw;
+    height: 80vh;
+    background: radial-gradient(ellipse at center, rgba(255,255,255,0.07), rgba(255,255,255,0.02) 40%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* faint grain */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 28px; position: relative; z-index: 2; }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* ---------- NAV ---------- */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    backdrop-filter: saturate(140%) blur(14px);
+    -webkit-backdrop-filter: saturate(140%) blur(14px);
+    background: rgba(10, 10, 11, 0.6);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-inner {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 15px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .brand {
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.02em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .brand .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--text);
+    box-shadow: 0 0 10px rgba(255,255,255,0.5);
+  }
+  .nav-links { display: flex; gap: 30px; align-items: center; }
+  .nav-links a {
+    font-size: 14px;
+    color: var(--text-dim);
+    transition: color 0.2s ease;
+    letter-spacing: -0.01em;
+  }
+  .nav-links a:hover { color: var(--text); }
+
+  /* ---------- HERO ---------- */
+  header.hero {
+    padding: 130px 0 90px;
+    position: relative;
+  }
+  .eyebrow {
+    font-family: 'Geist Mono', monospace;
+    font-size: 12.5px;
+    letter-spacing: 0.04em;
+    color: var(--text-faint);
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 32px;
+  }
+  .eyebrow::before {
+    content: "";
+    width: 28px; height: 1px;
+    background: var(--line-strong);
+  }
+  h1 {
+    font-size: clamp(42px, 7vw, 82px);
+    font-weight: 600;
+    letter-spacing: -0.045em;
+    line-height: 0.98;
+    max-width: 15ch;
+    margin-bottom: 30px;
+  }
+  h1 .muted { color: var(--text-faint); }
+  .hero-sub {
+    font-size: clamp(16px, 2vw, 19px);
+    color: var(--text-dim);
+    max-width: 52ch;
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+    margin-bottom: 44px;
+  }
+  .hero-cta { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+  .btn {
+    font-size: 14.5px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    padding: 11px 20px;
+    border-radius: 10px;
+    border: 1px solid var(--line-strong);
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn.primary { background: var(--text); color: #0a0a0b; border-color: var(--text); }
+  .btn.primary:hover { background: #fff; transform: translateY(-1px); }
+  .btn.ghost { color: var(--text-dim); }
+  .btn.ghost:hover { color: var(--text); border-color: var(--line-strong); background: rgba(255,255,255,0.03); }
+
+  /* ---------- FACTS BAR ---------- */
+  .facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    margin-top: 84px;
+  }
+  .fact {
+    flex: 1 1 0;
+    min-width: 140px;
+    padding: 28px 0;
+    border-left: 1px solid var(--line);
+  }
+  .fact:first-child { border-left: none; padding-left: 0; }
+  .fact:not(:first-child) { padding-left: 28px; }
+  .fact .num {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.04em;
+    display: block;
+    margin-bottom: 6px;
+  }
+  .fact .lbl {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11.5px;
+    color: var(--text-faint);
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  /* ---------- SECTION HEADERS ---------- */
+  section { padding: 96px 0; }
+  .sec-head { margin-bottom: 48px; }
+  .sec-tag {
+    font-family: 'Geist Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    color: var(--text-faint);
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+  .sec-title {
+    font-size: clamp(28px, 4vw, 40px);
+    font-weight: 600;
+    letter-spacing: -0.035em;
+    line-height: 1.05;
+    margin-bottom: 14px;
+  }
+  .sec-desc {
+    font-size: 16px;
+    color: var(--text-dim);
+    max-width: 56ch;
+    letter-spacing: -0.01em;
+  }
+
+  /* ---------- BENTO GRID ---------- */
+  .bento {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 16px;
+  }
+  .card {
+    position: relative;
+    background: var(--bg-raise);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: border-color 0.25s ease, transform 0.25s ease;
+    min-height: 260px;
+  }
+  .card:hover { border-color: var(--line-strong); transform: translateY(-2px); }
+  .card:hover .shot img { transform: scale(1.03); }
+
+  /* spans for asymmetric layout */
+  .c-sounddial { grid-column: span 4; }
+  .c-pulse     { grid-column: span 2; }
+  .c-stash     { grid-column: span 2; }
+  .c-double    { grid-column: span 2; }
+  .c-fisheye   { grid-column: span 2; }
+  .c-warden    { grid-column: span 6; min-height: 200px; }
+
+  .card-body {
+    padding: 22px 24px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
+    z-index: 2;
+  }
+  .card-meta { display: flex; flex-direction: column; gap: 5px; }
+  .card-name {
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    display: flex;
+    align-items: center;
+    gap: 9px;
+  }
+  .card-tag {
+    font-size: 13.5px;
+    color: var(--text-dim);
+    letter-spacing: -0.01em;
+  }
+  .plat {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-faint);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border: 1px solid var(--line);
+    padding: 3px 8px;
+    border-radius: 20px;
+    white-space: nowrap;
+    align-self: flex-start;
+  }
+  .shot {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    background: #08080a;
+  }
+  .shot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    display: block;
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    filter: grayscale(100%) contrast(1.02);
+  }
+  .card a.stretch { position: absolute; inset: 0; z-index: 3; }
+  .arrow {
+    font-family: 'Geist Mono', monospace;
+    font-size: 13px;
+    color: var(--text-faint);
+    transition: color 0.2s ease, transform 0.2s ease;
+  }
+  .card:hover .arrow { color: var(--text); transform: translate(2px, -2px); }
+
+  /* landscape (macOS) cards: image below body */
+  .card.landscape { flex-direction: column; }
+  .card.landscape .shot { min-height: 300px; }
+
+  /* warden placeholder */
+  .c-warden { flex-direction: row; align-items: stretch; }
+  .warden-left {
+    padding: 34px 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    flex: 1;
+    z-index: 2;
+  }
+  .warden-badge {
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin-bottom: 8px;
+  }
+  .warden-right {
+    flex: 0 0 42%;
+    position: relative;
+    border-left: 1px solid var(--line);
+    background:
+      radial-gradient(circle at 60% 40%, rgba(255,255,255,0.06), transparent 60%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .warden-glyph {
+    width: 88px; height: 88px;
+    border: 1px solid var(--line-strong);
+    border-radius: 22px;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(255,255,255,0.02);
+  }
+  .warden-glyph svg { width: 40px; height: 40px; stroke: var(--text-dim); }
+  .warden-grid {
+    position: absolute; inset: 0;
+    background-image:
+      linear-gradient(var(--line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: 32px 32px;
+    opacity: 0.5;
+    -webkit-mask-image: radial-gradient(circle at center, black, transparent 75%);
+    mask-image: radial-gradient(circle at center, black, transparent 75%);
+  }
+
+  /* ---------- GUIDES ---------- */
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .guide {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 30px 28px;
+    background: var(--bg-raise);
+    transition: border-color 0.25s ease, transform 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    min-height: 190px;
+  }
+  .guide:hover { border-color: var(--line-strong); transform: translateY(-2px); }
+  .guide .g-idx {
+    font-family: 'Geist Mono', monospace;
+    font-size: 12px;
+    color: var(--text-faint);
+  }
+  .guide .g-name {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    margin-top: auto;
+  }
+  .guide .g-desc { font-size: 14px; color: var(--text-dim); letter-spacing: -0.01em; }
+  .guide .g-link {
+    font-family: 'Geist Mono', monospace;
+    font-size: 12.5px;
+    color: var(--text-faint);
+    display: inline-flex; align-items: center; gap: 7px;
+    transition: color 0.2s ease;
+  }
+  .guide:hover .g-link { color: var(--text); }
+  .guides-note {
+    margin-top: 26px;
+    font-size: 14px;
+    color: var(--text-faint);
+    letter-spacing: -0.01em;
+  }
+
+  /* ---------- FOOTER ---------- */
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 46px 0 60px;
+    position: relative;
+    z-index: 2;
+  }
+  .foot-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .foot-links { display: flex; gap: 26px; }
+  .foot-links a {
+    font-size: 13.5px;
+    color: var(--text-dim);
+    transition: color 0.2s ease;
+  }
+  .foot-links a:hover { color: var(--text); }
+  .foot-copy {
+    font-size: 13px;
+    color: var(--text-faint);
+    letter-spacing: -0.01em;
+  }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 860px) {
+    .nav-links { display: none; }
+    .bento { grid-template-columns: 1fr; }
+    .c-sounddial, .c-pulse, .c-stash, .c-double, .c-fisheye, .c-warden { grid-column: span 1; }
+    .c-warden { flex-direction: column; }
+    .warden-right { flex: 0 0 180px; border-left: none; border-top: 1px solid var(--line); }
+    .guides-grid { grid-template-columns: 1fr; }
+    .fact { flex: 1 1 45%; border-left: none; padding-left: 0 !important; }
+    header.hero { padding: 90px 0 60px; }
+    .card.landscape .shot { min-height: 200px; }
+  }
+</style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="#top" class="brand"><span class="dot"></span>Eduard Bruch</a>
+      <div class="nav-links">
+        <a href="#apps">Apps</a>
+        <a href="#guides">Guides</a>
+        <a href="/support">Support</a>
+        <a href="#apps">View apps →</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="wrap" id="top">
+
+    <header class="hero">
+      <div class="eyebrow">Independent Software Developer · Hamburg</div>
+      <h1>Native iOS &amp; macOS apps. <span class="muted">Small, fast, and private by default.</span></h1>
+      <p class="hero-sub">
+        I'm Eduard Bruch — I design and build focused utilities for Apple platforms.
+        No accounts, no tracking, no bloat. Six apps shipped and running on real devices today.
+      </p>
+      <div class="hero-cta">
+        <a href="#apps" class="btn primary">Explore the apps <span>→</span></a>
+        <a href="#guides" class="btn ghost">Read the guides</a>
+      </div>
+
+      <div class="facts">
+        <div class="fact"><span class="num">6</span><span class="lbl">Apps shipped</span></div>
+        <div class="fact"><span class="num">120+</span><span class="lbl">Guides</span></div>
+        <div class="fact"><span class="num">30+</span><span class="lbl">Languages</span></div>
+        <div class="fact"><span class="num">iOS / macOS</span><span class="lbl">Native</span></div>
+      </div>
+    </header>
+
+    <section id="apps">
+      <div class="sec-head">
+        <div class="sec-tag">01 — Shipped work</div>
+        <h2 class="sec-title">Six apps, built to do one thing well.</h2>
+        <p class="sec-desc">Each one is a small, native tool — designed for speed, respectful of your data, and available on the App Store.</p>
+      </div>
+
+      <div class="bento">
+
+        <!-- SoundDial (macOS, landscape, large) -->
+        <article class="card landscape c-sounddial">
+          <div class="card-body">
+            <div class="card-meta">
+              <div class="card-name">SoundDial</div>
+              <div class="card-tag">Per-App Volume Mixer</div>
+            </div>
+            <span class="plat">macOS</span>
+          </div>
+          <div class="shot"><img src="../public/apps/sounddial.png" alt="SoundDial — per-app volume mixer for macOS" loading="lazy" /></div>
+          <a class="stretch" href="https://apps.apple.com/app/id6772792641" aria-label="SoundDial on the App Store"></a>
+        </article>
+
+        <!-- Pulse (macOS, landscape) -->
+        <article class="card landscape c-pulse">
+          <div class="card-body">
+            <div class="card-meta">
+              <div class="card-name">Pulse</div>
+              <div class="card-tag">System Monitor</div>
+            </div>
+            <span class="plat">macOS</span>
+          </div>
+          <div class="shot"><img src="../public/apps/pulse.png" alt="Pulse — system monitor for macOS" loading="lazy" /></div>
+          <a class="stretch" href="https://apps.apple.com/app/id6761375793" aria-label="Pulse on the App Store"></a>
+        </article>
+
+        <!-- Stash (iOS) -->
+        <article class="card landscape c-stash">
+          <div class="card-body">
+            <div class="card-meta">
+              <div class="card-name">Stash</div>
+              <div class="card-tag">Secret File Vault</div>
+            </div>
+            <span class="plat">iOS</span>
+          </div>
+          <div class="shot"><img src="../public/apps/stash-v2.png" alt="Stash — secret file vault for iOS" loading="lazy" /></div>
+          <a class="stretch" href="https://apps.apple.com/app/id6759873487" aria-label="Stash on the App Store"></a>
+        </article>
+
+        <!-- Double Calculator (iOS) -->
+        <article class="card landscape c-double">
+          <div class="card-body">
+            <div class="card-meta">
+              <div class="card-name">Double Calculator</div>
+              <div class="card-tag">Tax &amp; VAT</div>
+            </div>
+            <span class="plat">iOS</span>
+          </div>
+          <div class="shot"><img src="../public/apps/double-calculator.png" alt="Double Calculator — tax and VAT calculator for iOS" loading="lazy" /></div>
+          <a class="stretch" href="https://apps.apple.com/app/id6760940001" aria-label="Double Calculator on the App Store"></a>
+        </article>
+
+        <!-- Fisheye (iOS) -->
+        <article class="card landscape c-fisheye">
+          <div class="card-body">
+            <div class="card-meta">
+              <div class="card-name">Fisheye</div>
+              <div class="card-tag">WideEye Camera</div>
+            </div>
+            <span class="plat">iOS</span>
+          </div>
+          <div class="shot"><img src="../public/apps/fisheye.png" alt="Fisheye — WideEye camera for iOS" loading="lazy" /></div>
+          <a class="stretch" href="https://apps.apple.com/app/id6760895260" aria-label="Fisheye on the App Store"></a>
+        </article>
+
+        <!-- Warden (coming soon placeholder) -->
+        <article class="card c-warden">
+          <div class="warden-left">
+            <div class="warden-badge">Coming soon</div>
+            <div class="card-name" style="font-size:22px;">Warden</div>
+            <div class="card-tag" style="max-width:44ch;">Family location &amp; safety, done privately — real-time presence without selling your family's whereabouts.</div>
+            <div style="margin-top:10px;"><span class="plat">iOS &amp; Android</span></div>
+          </div>
+          <div class="warden-right">
+            <div class="warden-grid"></div>
+            <div class="warden-glyph">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+              </svg>
+            </div>
+          </div>
+          <a class="stretch" href="/warden/privacy" aria-label="Warden — privacy"></a>
+        </article>
+
+      </div>
+    </section>
+
+    <section id="guides">
+      <div class="sec-head">
+        <div class="sec-tag">02 — Writing</div>
+        <h2 class="sec-title">Guides &amp; documentation.</h2>
+        <p class="sec-desc">In-depth how-to guides for the apps — practical, searchable, and indexed in 30+ languages.</p>
+      </div>
+
+      <div class="guides-grid">
+        <a class="guide" href="/pulse/blog">
+          <div class="g-idx">/ 001</div>
+          <div class="g-name">Pulse Guides</div>
+          <div class="g-desc">Understand CPU, memory, network and battery on your Mac.</div>
+          <span class="g-link">/pulse/blog →</span>
+        </a>
+        <a class="guide" href="/sounddial/blog">
+          <div class="g-idx">/ 002</div>
+          <div class="g-name">SoundDial Guides</div>
+          <div class="g-desc">Master per-app audio routing and volume control on macOS.</div>
+          <span class="g-link">/sounddial/blog →</span>
+        </a>
+        <a class="guide" href="/vault/blog">
+          <div class="g-idx">/ 003</div>
+          <div class="g-name">Stash Guides</div>
+          <div class="g-desc">Keep private files locked, hidden and secure on iOS.</div>
+          <span class="g-link">/vault/blog →</span>
+        </a>
+      </div>
+      <p class="guides-note">Every guide is translated and indexed in 30+ languages — 120+ articles and growing.</p>
+    </section>
+
+  </div>
+
+  <footer>
+    <div class="wrap">
+      <div class="foot-inner">
+        <div class="foot-links">
+          <a href="/impressum">Impressum</a>
+          <a href="/datenschutz">Datenschutz</a>
+          <a href="/support">Support</a>
+        </div>
+        <div class="foot-copy">© 2026 Eduard Bruch · Hamburg</div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
