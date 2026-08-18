@@ -37,12 +37,9 @@ const BLOCKED_UA = [
   "python-requests",
   "curl/",
   "wget/",
-  // AI training crawlers
-  "gptbot",
-  "ccbot",
-  "claudebot",
-  "anthropic-ai",
-  "perplexitybot",
+  // NOTE: mainstream AI crawlers (GPTBot, ClaudeBot, PerplexityBot, CCBot) are
+  // deliberately ALLOWED — being cited/recommended by AI drives app installs.
+  // Only data resellers that never attribute are blocked here.
   "imagesiftbot",
   "omgilibot",
   "diffbot",

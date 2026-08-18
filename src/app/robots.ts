@@ -38,7 +38,7 @@ const SEO_SCRAPERS = [
  * section of README. Blocking them here is necessary but not sufficient.
  */
 const AGGRESSIVE = [
-  "Bytespider",
+  "Bytespider",   // ByteDance — AI, but ignores robots.txt and crawls abusively
   "PetalBot",
   "Amazonbot",
   "ImagesiftBot",
@@ -47,31 +47,55 @@ const AGGRESSIVE = [
 ];
 
 /**
- * AI training crawlers. Blocked by default — they consume bandwidth and return
- * no traffic. Remove any you'd rather allow.
+ * AI crawlers — ALLOWED ON PURPOSE.
+ *
+ * Being cited in ChatGPT / Perplexity / Gemini answers and recommended when
+ * someone asks for a Mac utility is a real acquisition channel for the apps,
+ * so these are treated like search engines rather than parasites.
+ *
+ * Two kinds matter, and both are wanted:
+ *   • answer/search bots (OAI-SearchBot, PerplexityBot, Claude-SearchBot) —
+ *     these produce the live citation with a link back;
+ *   • training bots (GPTBot, ClaudeBot, Google-Extended, CCBot) — these get
+ *     the apps *into* the model, so it can recommend them unprompted.
+ *
+ * Note Google-Extended and Applebot-Extended are training-only signals; they
+ * do NOT affect Google Search or Siri ranking either way.
  */
-const AI_CRAWLERS = [
+const AI_CRAWLERS_ALLOWED = [
   "GPTBot",
   "OAI-SearchBot",
+  "ChatGPT-User",
   "ClaudeBot",
-  "Claude-Web",
+  "Claude-User",
+  "Claude-SearchBot",
   "anthropic-ai",
-  "CCBot",             // Common Crawl — feeds most training sets
-  "Google-Extended",   // Gemini training (does NOT affect Google Search ranking)
-  "Applebot-Extended", // Apple AI training (does NOT affect Applebot/Siri)
-  "FacebookBot",
+  "PerplexityBot",
+  "Perplexity-User",
+  "Google-Extended",
+  "Applebot-Extended",
   "meta-externalagent",
+  "FacebookBot",
+  "CCBot",
+  "cohere-ai",
+];
+
+/**
+ * Data resellers and image scrapers. These harvest content to sell it on and
+ * never cite the source — no traffic, no attribution, no model presence.
+ */
+const DATA_RESELLERS = [
   "Diffbot",
   "Omgilibot",
-  "cohere-ai",
-  "PerplexityBot",
+  "ImagesiftBot",
 ];
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       ...SEARCH_ENGINES.map((userAgent) => ({ userAgent, allow: "/" })),
-      ...[...SEO_SCRAPERS, ...AGGRESSIVE, ...AI_CRAWLERS].map((userAgent) => ({
+      ...AI_CRAWLERS_ALLOWED.map((userAgent) => ({ userAgent, allow: "/" })),
+      ...[...SEO_SCRAPERS, ...AGGRESSIVE, ...DATA_RESELLERS].map((userAgent) => ({
         userAgent,
         disallow: "/",
       })),
