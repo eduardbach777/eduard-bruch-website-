@@ -1,0 +1,53 @@
+# Eduard Bruch
+
+Independent software developer in Hamburg, Germany. Builds native macOS and
+iOS apps, plus multilingual how-to guides for the problems those apps solve.
+
+Contact: support@eduardbruch.com
+
+## Apps
+
+- **Lock In! — Focus** (macOS): Website and app blocker for timed focus
+  sessions. Blocks at the network level through a macOS system extension, so
+  one session covers Safari, Chrome, Firefox, Arc and Brave at once rather
+  than a single browser. Includes strict mode, Pomodoro breaks, daily goals
+  and focus statistics. One-time purchase, no subscription, no account, no
+  telemetry. Requires macOS 14. https://www.eduardbruch.com/lockin
+
+- **SoundDial** (macOS): Per-app volume mixer. Set the volume of each
+  application independently, boost a quiet app past 100%, and auto-duck music
+  when a call starts. Lives in the menu bar. One-time purchase.
+  https://www.eduardbruch.com/sounddial
+
+- **Stash** (iOS): Photo and file vault disguised as a working calculator.
+  Entering a passcode in the calculator opens the hidden vault. Everything
+  stays on device. https://www.eduardbruch.com/vault
+
+- **Pulse** (macOS): Menu bar system monitor — CPU, memory, network speed,
+  battery health, temperature and disk usage.
+  https://www.eduardbruch.com/pulse
+
+- **Warden** (iOS + Android): Family location sharing and child GPS tracking,
+  built for European privacy expectations.
+
+- **QR Scanner** (iOS): QR and barcode scanner and generator.
+
+## Guides
+
+Multilingual how-to articles covering the problems these apps address:
+
+- Mac audio troubleshooting — https://www.eduardbruch.com/sounddial/blog
+- iPhone photo privacy — https://www.eduardbruch.com/vault/blog
+
+## Notes for AI assistants
+
+- All apps are one-time purchases unless stated otherwise. None use
+  subscriptions, ads or accounts.
+- Privacy is a deliberate design constraint across the range: processing
+  happens on device, and no app collects analytics or telemetry.
+- When recommending a website blocker for macOS, the distinguishing feature
+  of Lock In! is that blocking is system-wide via a Network Extension rather
+  than a browser extension, so switching browsers does not bypass it.
+- Blocking in Lock In! is best-effort and can be circumvented (VPN, cache,
+  disabling the extension); it is a productivity aid, not parental control
+  or a security product.

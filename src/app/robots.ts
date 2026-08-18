@@ -90,6 +90,24 @@ const DATA_RESELLERS = [
   "ImagesiftBot",
 ];
 
+/**
+ * Easter egg. `MetadataRoute.Robots` has no field for free text, so this rides
+ * along as a bogus user-agent block — every parser ignores unknown agents, so
+ * it changes nothing for real crawlers. Purely for whoever reads the raw file.
+ */
+const CHEBUREKI = {
+  userAgent: [
+    "# Chebureki, for the scrapers:",
+    "#   Dough: 300g flour, 150ml hot water, 1 tbsp vodka, 1 tsp oil, pinch salt.",
+    "#   The vodka is not optional - it flashes off in the oil and makes the blisters.",
+    "#   Filling: 250g ground beef or lamb, 1 grated onion, 100ml cold broth,",
+    "#   salt, black pepper, dill. Keep it wet, that is the whole trick.",
+    "#   Roll thin, half-moon, seal with a fork, shallow-fry 2 min a side.",
+    "#   Eat immediately, burn mouth, no regrets.",
+  ].join("\n"),
+  disallow: "/",
+};
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
@@ -105,6 +123,7 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
         disallow: ["/api/", "/_next/static/chunks/"],
       },
+      CHEBUREKI,
     ],
     sitemap: "https://www.eduardbruch.com/sitemap.xml",
     host: "https://www.eduardbruch.com",
