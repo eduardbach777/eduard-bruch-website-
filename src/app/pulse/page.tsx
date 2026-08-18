@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { getContent } from "./_data/content";
-import { getAllArticles } from "./blog/_data";
 import { getPulseAppStoreUrl } from "./app-store-links";
 
 export const metadata = {
@@ -29,7 +28,6 @@ const LOCALES = [
 
 export default function PulseLanding() {
   const c = getContent("en");
-  const blogArticles = getAllArticles("en");
 
   return (
     <main className="min-h-screen bg-neutral-950 text-white">
@@ -70,45 +68,6 @@ export default function PulseLanding() {
       <div className="max-w-6xl mx-auto px-6">
         <div className="h-px bg-neutral-800" />
       </div>
-
-      {/* Blog Articles */}
-      <section className="px-6 py-16 sm:py-20 max-w-6xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {blogArticles.map((article) => (
-            <Link
-              key={article.slug}
-              href={`/pulse/blog/en/${article.slug}`}
-              className="group rounded-2xl border border-neutral-800 bg-neutral-900/50 p-7 transition-all hover:border-indigo-500/60 hover:bg-neutral-900 hover:shadow-xl hover:shadow-indigo-500/5 flex flex-col"
-            >
-              <time className="text-xs font-medium uppercase tracking-wider text-neutral-500">
-                {article.date}
-              </time>
-              <h2 className="mt-3 text-xl font-bold text-white leading-snug group-hover:text-indigo-400 transition-colors">
-                {article.title}
-              </h2>
-              <p className="mt-3 text-sm text-neutral-400 leading-relaxed flex-1">
-                {article.description}
-              </p>
-              <span className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-indigo-400 group-hover:gap-2 transition-all">
-                Read more
-                <svg
-                  className="w-4 h-4"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth={2}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M9 5l7 7-7 7"
-                  />
-                </svg>
-              </span>
-            </Link>
-          ))}
-        </div>
-      </section>
 
       {/* Q&A Categories */}
       <section className="px-6 pb-16 sm:pb-20 max-w-6xl mx-auto">

@@ -6,10 +6,10 @@ export const metadata = {
 
 export default function LockInTerms() {
   return (
-    <main className="mx-auto max-w-2xl px-6 py-16 text-neutral-200">
-      <h1 className="mb-8 text-3xl font-bold text-white">Terms of Service</h1>
+    <main className="mx-auto max-w-3xl px-6 py-20 text-neutral-200">
+      <h1 className="mb-4 text-4xl font-bold text-white">Terms of Service</h1>
       <p className="mb-2 text-lg text-neutral-300">Lock In! — Focus</p>
-      <p className="mb-4 text-sm text-neutral-400">Last updated: August 18, 2026</p>
+      <p className="mb-10 text-sm text-neutral-500">Last updated: August 18, 2026</p>
 
       <p className="mb-6">
         These terms govern your use of Lock In! (&quot;the App&quot;), a macOS

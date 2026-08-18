@@ -1,6 +1,4 @@
 import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index";
-import { getContent as getPulseContent } from "@/app/pulse/_data/content";
-import { getAllArticles as getPulseArticles, type Locale as PulseLocale } from "@/app/pulse/blog/_data/index";
 import { getAllArticles as getSoundDialArticles } from "@/app/sounddial/blog/_data/index";
 
 export interface ArticleCard {
@@ -45,7 +43,6 @@ interface HubLabels {
   soundDialName?: string;
   vaultName: string;
   pdfName: string;
-  pulseName: string;
 }
 
 const labels: Record<string, HubLabels> = {
@@ -55,112 +52,96 @@ const labels: Record<string, HubLabels> = {
     soundDialName: "SoundDial — Per-App Volume Mixer",
     vaultName: "Stash — Secret File Vault",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — System Monitor",
   },
   de: {
     heading: "BLOG",
     subtitle: "Anleitungen, Tipps und Hilfestellungen für alle Apps.",
     vaultName: "Stash — Geheimer Foto Tresor",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Systemmonitor",
   },
   es: {
     heading: "BLOG",
     subtitle: "Guías, consejos y tutoriales para todas las apps.",
     vaultName: "Stash — Bóveda Secreta",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Monitor del Sistema",
   },
   fr: {
     heading: "BLOG",
     subtitle: "Guides, astuces et tutoriels pour toutes les apps.",
     vaultName: "Stash — Coffre-Fort Secret",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Moniteur Système",
   },
   pt: {
     heading: "BLOG",
     subtitle: "Guias, dicas e tutoriais para todos os apps.",
     vaultName: "Stash — Cofre Secreto",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Monitor do Sistema",
   },
   it: {
     heading: "BLOG",
     subtitle: "Guide, consigli e tutorial per tutte le app.",
     vaultName: "Stash — Cassaforte Segreta",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Monitor di Sistema",
   },
   nl: {
     heading: "BLOG",
     subtitle: "Handleidingen, tips en how-to's voor alle apps.",
     vaultName: "Stash — Geheime Kluis",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Systeemmonitor",
   },
   ja: {
     heading: "ブログ",
     subtitle: "すべてのアプリのガイド、ヒント、使い方。",
     vaultName: "Stash — 秘密ファイル金庫",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — システムモニター",
   },
   ko: {
     heading: "블로그",
     subtitle: "모든 앱에 대한 가이드, 팁, 사용법.",
     vaultName: "Stash — 비밀 파일 금고",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — 시스템 모니터",
   },
   zh: {
     heading: "博客",
     subtitle: "所有应用的指南、技巧和教程。",
     vaultName: "Stash — 秘密文件保险箱",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — 系统监控器",
   },
   ar: {
     heading: "المدونة",
     subtitle: "أدلة ونصائح وإرشادات لجميع التطبيقات.",
     vaultName: "Stash — خزنة الملفات السرية",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — مراقب النظام",
   },
   hi: {
     heading: "ब्लॉग",
     subtitle: "सभी ऐप्स के लिए गाइड, टिप्स और हाउ-टू।",
     vaultName: "Stash — सीक्रेट फाइल वॉल्ट",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — सिस्टम मॉनिटर",
   },
   tr: {
     heading: "BLOG",
     subtitle: "Tüm uygulamalar için kılavuzlar, ipuçları ve nasıl yapılır.",
     vaultName: "Stash — Gizli Dosya Kasası",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Sistem Monitörü",
   },
   ru: {
     heading: "БЛОГ",
     subtitle: "Руководства, советы и инструкции для всех приложений.",
     vaultName: "Stash — Секретное Хранилище",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Системный Монитор",
   },
   pl: {
     heading: "BLOG",
     subtitle: "Poradniki, wskazówki i instrukcje dla wszystkich aplikacji.",
     vaultName: "Stash — Sekretny Sejf",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Monitor Systemu",
   },
   sv: {
     heading: "BLOGG",
     subtitle: "Guider, tips och instruktioner för alla appar.",
     vaultName: "Stash — Hemligt Filvalv",
     pdfName: "PDF Creator & Scanner",
-    pulseName: "Pulse — Systemövervakare",
   },
 };
 
@@ -201,32 +182,6 @@ export function getAppSections(locale: string): AppSection[] {
     date: a.date,
   }));
 
-  // Pulse: blog articles + Q&A sections
-  const pulseBlogArticles: ArticleCard[] = getPulseArticles(locale as PulseLocale).map(
-    (a) => ({
-      title: a.title,
-      description: a.description || getExcerpt(a.content),
-      href: `/pulse/blog/${locale}/${a.slug}`,
-      date: a.date,
-    }),
-  );
-
-  const pulseData = getPulseContent(locale);
-  const pulseQaCards: ArticleCard[] = [];
-  for (const section of pulseData.sections) {
-    if (section.title === "About Pulse") continue;
-    pulseQaCards.push({
-      title: section.title,
-      description: section.qas
-        .slice(0, 3)
-        .map((qa) => qa.q)
-        .join(" / "),
-      href: `/pulse/${locale}`,
-    });
-  }
-
-  const pulseArticles: ArticleCard[] = [...pulseBlogArticles, ...pulseQaCards];
-
   const sections: AppSection[] = [];
 
   if (soundDialArticles.length > 0) {
@@ -242,11 +197,6 @@ export function getAppSections(locale: string): AppSection[] {
       name: l.vaultName,
       articles: vaultArticles,
       accent: "border-l-amber-500",
-    },
-    {
-      name: l.pulseName,
-      articles: pulseArticles,
-      accent: "border-l-indigo-500",
     },
   );
 

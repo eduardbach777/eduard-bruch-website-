@@ -17,7 +17,6 @@ const WORK = [
 ];
 
 const GUIDES = [
-  { k: "pulse", h: "Mac performance", href: "/pulse/blog", p: "CPU temps, network speed, memory pressure — the questions people search, answered.", c: "4 articles" },
   { k: "sounddial", h: "Mac audio, fixed", href: "/sounddial/blog", p: "FaceTime too quiet, per-app volume, late-night movie audio — the top traffic driver.", c: "50+ articles" },
   { k: "stash", h: "iPhone privacy", href: "/vault/blog", p: "Hiding photos, secret vaults, Face ID vs passcode — practical, ranking guides.", c: "30+ articles" },
 ];
