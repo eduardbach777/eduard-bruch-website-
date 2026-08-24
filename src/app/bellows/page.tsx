@@ -107,7 +107,21 @@ export default function BellowsLanding() {
         for what that means in practice.
       </p>
 
+      <h2 className="mb-3 text-lg font-semibold text-white">Guides</h2>
+      <p className="mb-10 text-sm text-neutral-400">
+        Longer answers to the questions these tools exist for — what a JWT&apos;s
+        claims mean, why a Base64 string sometimes refuses to decode, and the cron
+        trap that fires a job far more often than intended.{" "}
+        <Link href="/bellows/tools" className="text-indigo-400 underline">
+          Read the guides
+        </Link>
+        .
+      </p>
+
       <div className="flex flex-wrap gap-x-6 gap-y-2 border-t border-neutral-800 pt-8 text-sm">
+        <Link href="/bellows/tools" className="text-indigo-400 underline">
+          Guides
+        </Link>
         <Link href="/bellows/privacy" className="text-indigo-400 underline">
           Privacy Policy
         </Link>

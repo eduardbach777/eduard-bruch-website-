@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllArticles, LOCALES } from "./vault/blog/_data";
+import { TOOL_PAGES } from "./bellows/tools/_data";
 
 const SITE_URL = "https://www.eduardbruch.com";
 
@@ -28,5 +29,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   );
 
-  return [...blogIndexes, ...articlePages];
+  // Bellows: the product page and its tool guides. The guides are what have a
+  // chance of ranking — they answer the question someone types before they know
+  // an app exists — so they carry the higher priority of the two.
+  const bellowsPages: MetadataRoute.Sitemap = [
+    {
+      url: `${SITE_URL}/bellows`,
+      lastModified: new Date("2026-08-24"),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: `${SITE_URL}/bellows/tools`,
+      lastModified: new Date("2026-08-24"),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    },
+    ...TOOL_PAGES.map((p) => ({
+      url: `${SITE_URL}/bellows/tools/${p.slug}`,
+      lastModified: new Date(p.updated),
+      changeFrequency: "monthly" as const,
+      priority: 0.75,
+    })),
+  ];
+
+  return [...blogIndexes, ...articlePages, ...bellowsPages];
 }
