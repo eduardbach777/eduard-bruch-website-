@@ -72,7 +72,8 @@ export default function MediasmithLanding() {
 
       <h2 className="mb-3 text-lg font-semibold text-white">Requirements</h2>
       <p className="mb-10 text-sm text-neutral-400">
-        macOS 14.0 (Sonoma) or later, on Apple silicon or Intel. Available
+        Available only on the Mac App Store. macOS 14.0 (Sonoma) or later, on
+        Apple silicon or Intel. Available
         formats depend on what your Mac supports — the app shows you the ones it
         can actually write. See the{" "}
         <Link href="/mediasmith/terms" className="text-emerald-400 underline">

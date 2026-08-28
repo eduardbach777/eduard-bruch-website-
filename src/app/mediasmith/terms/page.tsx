@@ -14,9 +14,10 @@ export default function MediasmithTerms() {
       <h2 className="mb-3 mt-8 text-xl font-semibold text-white">1. Agreement</h2>
       <p className="mb-6">
         These terms govern your use of Mediasmith (&quot;the App&quot;), a macOS
-        application published by Eduard Bruch (&quot;the Developer&quot;). By
-        downloading or using the App you accept them. If the App was obtained
-        through the Mac App Store, Apple&apos;s{" "}
+        application published by Eduard Bruch (&quot;the Developer&quot;) and
+        distributed <strong>exclusively through the Mac App Store</strong>.
+        There is no direct download and no licence key. By downloading or using
+        the App you accept these terms, and Apple&apos;s{" "}
         <a
           href="https://www.apple.com/legal/internet-services/itunes/"
           className="text-indigo-400 underline"
@@ -58,8 +59,8 @@ export default function MediasmithTerms() {
         4. Right of Withdrawal (Widerrufsrecht)
       </h2>
       <p className="mb-6">
-        For purchases made through the Mac App Store, Apple is the merchant of
-        record and its refund process applies. Consumers in the European Union
+        Apple is the merchant of record for every purchase and its refund
+        process applies. Consumers in the European Union
         have a statutory right of withdrawal for digital content; where the App
         Store requires you to consent to immediate delivery, that right may lapse
         on delivery in accordance with § 356 Abs. 5 BGB. Refund requests should
