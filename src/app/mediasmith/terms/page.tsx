@@ -38,21 +38,20 @@ export default function MediasmithTerms() {
       </p>
 
       <h2 className="mb-3 mt-8 text-xl font-semibold text-white">
-        3. Free Version and Purchase
+        3. Purchase
       </h2>
       <p className="mb-4">
-        The App is free to download and use. Every feature — resizing, cropping,
-        rotation, watermarking, colour adjustment, metadata removal and renaming
-        — works without payment. The free version processes a limited number of
-        files per batch; the current limit is stated inside the App and on its
-        store listing.
+        The App is sold as a <strong>single one-time purchase</strong> on the
+        Mac App Store. There is no subscription, no in-app purchase, no free
+        tier and no trial period. Every feature — video, image and audio
+        conversion, resizing, cropping, watermarking, metadata removal and
+        renaming — is included from the first launch.
       </p>
       <p className="mb-6">
-        A single optional <strong>one-time in-app purchase</strong> removes that
-        limit permanently. It is not a subscription, it does not renew, and it
-        does not expire. It includes future updates to the App at no additional
-        cost. Purchases are processed by Apple; the Developer receives no payment
-        information.
+        The purchase does not renew and does not expire, and it includes future
+        updates to the App at no additional cost. Payment is processed by Apple;
+        the Developer receives no payment information. Refunds are handled by
+        Apple under their standard App Store policy.
       </p>
 
       <h2 className="mb-3 mt-8 text-xl font-semibold text-white">
@@ -86,7 +85,7 @@ export default function MediasmithTerms() {
           it;
         </li>
         <li>
-          circumvent the free-version limit or any licensing mechanism;
+          circumvent any licensing or copy-protection mechanism;
         </li>
         <li>
           decompile, disassemble or reverse engineer the App, except to the

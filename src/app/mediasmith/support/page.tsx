@@ -96,13 +96,13 @@ export default function MediasmithSupport() {
 
       <div className="mb-4">
         <h3 className="mb-1 font-medium text-white">
-          What does the free version limit?
+          Is there a subscription or an in-app purchase?
         </h3>
         <p className="text-neutral-400">
-          Only the number of files per batch. Every feature works without
-          paying, and the free version is not a trial — it does not expire. A
-          single one-time purchase removes the batch limit permanently. It is not
-          a subscription.
+          No. Mediasmith is a single one-time purchase on the Mac App Store.
+          There is no subscription, no in-app purchase, no account and nothing
+          that expires. Every feature is included from the first launch, and
+          future updates are free.
         </p>
       </div>
 

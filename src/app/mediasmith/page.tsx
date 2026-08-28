@@ -64,8 +64,9 @@ export default function MediasmithLanding() {
       <div className="mb-12 rounded-lg border border-neutral-800 bg-neutral-900/50 p-5">
         <p className="mb-1 font-semibold text-white">Pay once</p>
         <p className="text-sm text-neutral-400">
-          No subscription. No account. The free version converts up to 25 files
-          per batch — every feature works, only the batch size is capped.
+          Buy it once on the Mac App Store and it is yours. No subscription, no
+          in-app purchases, no account, and nothing that expires. Every feature
+          is included from the first launch.
         </p>
       </div>
 

@@ -109,13 +109,12 @@ export default function MediasmithPrivacyPolicy() {
         5. Purchases
       </h2>
       <p className="mb-6">
-        Mediasmith offers a single optional one-time in-app purchase that removes
-        the free version&apos;s batch-size limit. The purchase is handled
-        entirely by <strong>Apple</strong> through the App Store and StoreKit.
-        The App receives only a yes/no answer about whether the purchase is
-        active. It never sees your name, your email address, your Apple Account,
-        or any payment details, and no payment information is transmitted to the
-        developer at any point. Apple&apos;s handling of that transaction is
+        Mediasmith is a one-time purchase on the Mac App Store. There is no
+        in-app purchase and no subscription, so the App contains no purchase or
+        payment code at all. Buying it is handled entirely by
+        <strong> Apple</strong>. The developer never sees your name, your email
+        address, your Apple Account, or any payment details, and no payment
+        information is transmitted to the developer at any point. Apple&apos;s handling of that transaction is
         governed by{" "}
         <a
           href="https://www.apple.com/legal/privacy/"
