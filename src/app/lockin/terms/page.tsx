@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Terms of Service — Lock In!",
   description:
-    "Terms of service for Lock In!, the website and app blocker for macOS. One-time purchase, no subscription.",
+    "Terms of service for Lock In!, the website and app blocker for macOS. Free tier, Pro subscription or one-time lifetime purchase.",
 };
 
 export default function LockInTerms() {
@@ -45,11 +45,42 @@ export default function LockInTerms() {
       <h2 className="mb-3 mt-8 text-xl font-semibold text-white">
         3. Purchase and Payment
       </h2>
+      <p className="mb-4">
+        The App is free to download and includes website and app blocking at no
+        cost. <strong>Lock In! Pro</strong> unlocks Strict Mode, unlimited session
+        length, category and keyword blocking, the exceptions list and unlimited
+        session presets. Pro is offered in three forms:
+      </p>
+      <ul className="mb-4 list-disc space-y-2 pl-6">
+        <li>
+          <strong>Monthly</strong> — an auto-renewing subscription billed every
+          month.
+        </li>
+        <li>
+          <strong>Yearly</strong> — an auto-renewing subscription billed every
+          twelve months.
+        </li>
+        <li>
+          <strong>Lifetime</strong> — a single one-time purchase with no
+          recurring charge.
+        </li>
+      </ul>
+      <p className="mb-4">
+        Current prices are shown in the App before you buy and vary by App Store
+        storefront. Subscriptions renew automatically unless auto-renewal is
+        turned off at least 24 hours before the end of the current period. Your
+        Apple Account is charged for renewal within 24 hours of the end of that
+        period. You can manage or cancel a subscription at any time in{" "}
+        <strong>System Settings → [your name] → Media &amp; Purchases →
+        Subscriptions</strong>; cancelling stops future renewals and does not
+        refund the period already paid for.
+      </p>
       <p className="mb-6">
-        The App is a <strong>one-time purchase</strong>. There is no subscription
-        and no recurring charge. All payments are processed by Apple through the
-        Mac App Store and are subject to Apple&apos;s terms. Refunds are handled
-        solely by Apple; we cannot issue them directly.
+        If a subscription lapses, the App keeps working: blocking continues on
+        the free tier and Pro features become unavailable until you resubscribe.
+        All payments are processed by Apple through the Mac App Store and are
+        subject to Apple&apos;s terms. Refunds are handled solely by Apple; we
+        cannot issue them directly.
       </p>
 
       <h2 className="mb-3 mt-8 text-xl font-semibold text-white">

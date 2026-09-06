@@ -6278,4 +6278,649 @@ export const enArticles: ArticleSet = {
 
 <p>Tired of riding the master slider every time you switch apps? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> is a one-time €14.99 on the Mac App Store — sandboxed, no drivers, no DMG — and it finally gives every app its own remembered volume.</p>`,
   },
+  "mac-audio-for-gaming": {
+    slug: "mac-audio-for-gaming",
+    title: "Mac Audio for Gaming: Separate Game, Voice Chat, and Music",
+    description:
+      "Gaming on a Mac means juggling game audio, Discord or FaceTime voice chat, and background music through one volume slider. Here's how to split them into independent channels.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You're deep in a match. Game audio is drowning out your teammates on Discord. You lower the system volume — now you can hear callouts, but the game sounds are too faint to react to footsteps. Meanwhile Spotify is still playing at full blast underneath everything. macOS gives you one slider for all of it, and gaming on a Mac means constantly riding that slider.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — separate game, voice chat, and music volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why gaming audio is uniquely messy on Mac</h2>
+
+<p>Games mix multiple audio layers internally — dialogue, effects, ambient, music — and output them as a single stream. Voice chat apps like Discord, FaceTime, or TeamSpeak add a second stream. A music player adds a third. macOS treats all of them as equal citizens feeding one master output, with no way to prioritize or balance them against each other.</p>
+
+<p>Most games have internal volume sliders, but adjusting those means alt-tabbing out of a fullscreen game, breaking your flow. And even if you lower the game's internal music, you still can't raise Discord relative to the game's effects without changing the master volume and affecting everything else.</p>
+
+<h2>Per-app audio for gaming sessions</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> gives each app its own independent volume slider from the menu bar, so you can set up a gaming audio mix without touching in-game settings or the system slider.</p>
+
+<h3>A typical gaming profile</h3>
+<ul>
+  <li><strong>Game:</strong> 70% — loud enough for spatial audio cues without overwhelming</li>
+  <li><strong>Discord / FaceTime:</strong> 100% — teammate callouts always audible</li>
+  <li><strong>Spotify / Apple Music:</strong> 25% — background vibes without competing</li>
+  <li><strong>Browser:</strong> muted — no surprise tab audio</li>
+  <li><strong>Slack / Messages:</strong> muted — zero notification interruptions mid-game</li>
+</ul>
+
+<p>Save this as a "Gaming" profile. One click before you launch, and every app snaps to its gaming level. When you're done, switch back to your normal profile — no manual slider adjustments needed.</p>
+
+<h3>Auto-ducking for voice priority</h3>
+
+<p>SoundDial's auto-ducking feature can automatically lower game and music audio whenever Discord or FaceTime is active. Your teammates' voices always cut through, and everything rises back up during quiet moments. It's the same behavior professional broadcasters set up with complex routing tools, but here it's a single toggle.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-djing": {
+    slug: "mac-audio-for-djing",
+    title: "Mac Audio for DJing: Control Monitor and Output Independently",
+    description:
+      "DJing on a Mac means previewing the next track in your headphones while the audience hears the current mix — but macOS routes everything to one output. Here's how to separate your monitor feed.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You're DJing from your Mac — Traktor, Serato, rekordbox, or even Ableton in a live set. You need to cue the next track in your headphones while the audience hears the current mix through the speakers. But your browser is open with a setlist, Spotify might be running for reference tracks, and Messages keeps dinging through your monitors. macOS has no concept of "this app goes here, that app goes there" at the volume level.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — DJ audio control on Mac with independent app volumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>The DJ audio problem on macOS</h2>
+
+<p>Professional DJ software handles cueing internally — it splits its own output between a main mix and a headphone monitor. That part works. The problem is everything else running on your Mac. System notifications, browser tabs, communication apps, and reference players all feed into the same master output. A Slack ping through your PA system during a set is not a good look.</p>
+
+<p>You can enable Do Not Disturb, but that doesn't silence apps that are already running — it just suppresses banners. An auto-playing browser tab or a FaceTime ringtone will still blast through your speakers at whatever the system volume is set to.</p>
+
+<h2>Controlling the non-DJ audio</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you set independent volume levels for every app on your Mac. For a DJ set, the key use is silencing or lowering everything that is not your DJ software.</p>
+
+<h3>DJ set profile</h3>
+<ul>
+  <li><strong>Traktor / Serato / rekordbox:</strong> 100% — full output to your audio interface</li>
+  <li><strong>Browser:</strong> muted — no surprise audio from tabs</li>
+  <li><strong>Spotify:</strong> muted or 10% — reference only through a quick unmute</li>
+  <li><strong>Slack / Messages / Mail:</strong> muted — zero notification sounds</li>
+  <li><strong>Calendar:</strong> muted — no reminder chimes</li>
+</ul>
+
+<p>Save this as a "DJ Set" profile. Before you start, apply it in one click. Your DJ app runs at full volume, and nothing else can interrupt. When the set ends, switch back to your regular profile and notifications resume.</p>
+
+<h3>Quick reference track checks</h3>
+
+<p>Need to quickly check a reference track on Spotify mid-set? Instead of unmuting system-wide, just raise Spotify's individual slider to hear it in your headphones, then drop it back to zero. The audience never hears it, and your DJ app stays untouched.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "control-notification-sounds-mac": {
+    slug: "control-notification-sounds-mac",
+    title: "How to Control Notification Sound Volume on Mac",
+    description:
+      "Mac notification sounds play at the same volume as everything else — or they're off entirely. There's no middle ground built in. Here's how to tame alert volume without silencing your music.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>A Calendar reminder fires and the alert sound blasts at the same volume as the music you've been enjoying. You jump. You lower the system volume — and now your music is too quiet. macOS treats notification sounds and media audio as one volume, and the only built-in escape is enabling Do Not Disturb, which silences everything including alerts you actually need.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control notification sound volume independently on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why notification volume is so hard to control</h2>
+
+<p>macOS has a "Play sound effects through" setting and an alert volume slider in System Settings, but it controls all system alert sounds together. There's no way to say "Calendar alerts at 30%, Messages pings at 50%, Mail silent." Every alert-generating app shares the same system sound level.</p>
+
+<p>The deeper issue: many apps generate their own notification sounds outside the system alert framework. Slack plays its own audio. Discord has its own ping. Chrome tabs can emit notification sounds. These aren't governed by the alert volume slider at all — they play at whatever volume the app outputs, which is controlled only by the master slider.</p>
+
+<h2>Per-app control over notification sources</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> solves this by giving every app its own volume slider. Since notification sounds come from specific apps, lowering that app's volume lowers its notifications too.</p>
+
+<h3>Practical setups</h3>
+<ul>
+  <li><strong>Slack:</strong> 15% — subtle ping, not a startling interruption</li>
+  <li><strong>Messages:</strong> 20% — audible but gentle</li>
+  <li><strong>Mail:</strong> muted — check on your own schedule</li>
+  <li><strong>Calendar:</strong> 25% — just enough to notice</li>
+  <li><strong>Discord:</strong> 10% — background awareness without the blast</li>
+  <li><strong>Music / browser:</strong> 70-100% — full enjoyment, undisturbed</li>
+</ul>
+
+<p>The result: your media plays at the level you want, and notification sources sit at a level that informs without startling. No Do Not Disturb required — you still hear everything, just at volumes that make sense.</p>
+
+<h3>Combine with profiles</h3>
+
+<p>Save a "Focus" profile with most notification apps muted and a "Normal" profile with gentle levels. Switch with one click when you need deep concentration versus passive awareness. No more choosing between "hear everything at full blast" and "hear nothing at all."</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-volume-too-quiet-at-max": {
+    slug: "mac-volume-too-quiet-at-max",
+    title: "Mac Volume Too Quiet Even at Maximum — How to Boost Past 100%",
+    description:
+      "Some apps are frustratingly quiet even with your Mac volume maxed out. The problem isn't your speakers — it's that macOS can't boost individual apps above their output level.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>Your Mac volume is at 100%. The specific app you're trying to hear — a quiet Zoom caller, a soft podcast, a browser video — is still too faint. You crank the system slider to maximum and it's not enough. Meanwhile every other app on your Mac is now painfully loud. The problem isn't your speakers or your hearing. It's that the app outputs audio at a low internal level, and macOS has no way to amplify one app above its own ceiling.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — boost Mac volume past 100% for quiet apps" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why max volume still isn't loud enough</h2>
+
+<p>The system volume slider scales everything proportionally. If an app outputs audio at, say, 40% of full scale internally, then even at 100% system volume you're only hearing 40% of what your speakers can actually produce. This is common with:</p>
+<ul>
+  <li>Video conferencing apps where the remote participant has a quiet microphone</li>
+  <li>Podcasts and audiobooks mastered at conservative levels</li>
+  <li>Older web videos with low production quality</li>
+  <li>Screen recordings and tutorials where the presenter speaks softly</li>
+</ul>
+
+<p>The master slider can't push an app above its own output level. It's a ceiling, not a booster.</p>
+
+<h2>Boosting past 100% per app</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> adds per-app volume sliders that go above 100%. The boost amplifies a single app's audio stream beyond its normal maximum without raising the system volume or affecting any other app.</p>
+
+<h3>How to use it</h3>
+<ul>
+  <li>Open SoundDial from the menu bar — every running app appears with its own slider</li>
+  <li>Find the quiet app and drag its slider past the 100% mark</li>
+  <li>The boost amplifies only that app's audio — everything else stays at its current level</li>
+  <li>Lower your system volume back to a comfortable level if you had it cranked</li>
+</ul>
+
+<h3>A note on quality</h3>
+
+<p>Boost is real amplification, not magic. A moderate boost — pushing a quiet podcast from inaudible to comfortable — works cleanly. Extreme boost on very quiet, noisy source audio can make hiss or artifacts more noticeable. In practice, the sweet spot for most "too quiet" situations is 120-150%, which sounds natural and resolves the problem without introducing distortion.</p>
+
+<p>The key advantage over cranking system volume: only the quiet app gets louder. Your music, system sounds, and other apps stay exactly where they were. No more blasting everything just to hear one thing.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-meditation-focus": {
+    slug: "mac-audio-for-meditation-focus",
+    title: "Mac Audio for Meditation and Focus: Silence Everything Except One App",
+    description:
+      "Running a meditation or ambient sound app on your Mac while notifications and other audio keep interrupting defeats the purpose. Here's how to isolate your calm audio and mute everything else.",
+    date: "2026-09-06",
+    readTime: "4 min read",
+    content: `
+<p>You open a meditation app or an ambient sound generator on your Mac — rain sounds, binaural beats, a guided session. You settle in. Then Slack pings. Mail chimes. A forgotten browser tab starts playing a video. The whole point was to create a calm audio environment, and macOS just shattered it because every app shares the same volume and there's no built-in way to say "only this app makes sound."</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — isolate meditation audio and silence everything else on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>The focus audio problem</h2>
+
+<p>Do Not Disturb suppresses notification banners, but it doesn't mute apps. Slack still plays its own sounds. Browser tabs still auto-play. Calendar still chimes. The only built-in option is to mute everything with the system mute key — which also silences your meditation audio. There's no "mute everything except this one app" in macOS.</p>
+
+<h2>Isolating one app's audio</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you mute every app individually while keeping your chosen app at full volume. The setup takes seconds.</p>
+
+<h3>Focus / meditation profile</h3>
+<ul>
+  <li><strong>Meditation app (Calm, Headspace, Endel, a browser tab with ambient audio):</strong> 100%</li>
+  <li><strong>Everything else:</strong> muted</li>
+</ul>
+
+<p>Save this as a "Focus" profile. One click before your session, and only your calm audio plays. When you're done, switch back to your normal profile and everything returns to its usual levels.</p>
+
+<h3>Study and deep work</h3>
+
+<p>The same approach works for any focused work session. Keep lo-fi music or white noise at a comfortable level, mute Slack and email, and let the ambient layer fill your headphones without competition. You're not fighting distractions — they simply don't exist in your audio environment.</p>
+
+<h3>Gradual return</h3>
+
+<p>When your session ends, you don't need to manually unmute six apps. Switch to your "Normal" or "Work" profile and every app's volume snaps back to its pre-session level. No forgotten mutes, no missed notifications piling up because you forgot to re-enable something.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-video-editing": {
+    slug: "mac-audio-for-video-editing",
+    title: "Mac Audio for Video Editing: Premiere, DaVinci, Timeline Preview",
+    description:
+      "Video editing on a Mac means previewing timeline audio while reference clips, communication apps, and system sounds compete for the same volume. Here's how to isolate your editing audio.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You're editing in DaVinci Resolve, Premiere Pro, or Final Cut. You scrub through the timeline and need to hear dialogue levels precisely. But Slack keeps pinging, a browser tab with reference footage is playing, and Apple Music is running in the background. You can't judge your edit's audio when three other apps are bleeding into the mix at unpredictable volumes.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — video editing audio control on Mac with per-app volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why video editors need isolated audio</h2>
+
+<p>Audio mixing in a video editor requires accurate monitoring. If Slack's notification sound plays at the same level as your timeline's dialogue, you can't tell whether that dialogue is actually mixed properly. If background music from Spotify leaks into your monitoring, your ears compensate and you end up setting levels wrong. Professional editors work in treated rooms with controlled monitoring chains — but even at the software level, macOS gives you no way to separate your NLE's audio from everything else.</p>
+
+<p>The workaround most editors use: quit everything else before editing. Close Slack, pause Music, shut browser tabs. It works, but it means you can't reference a YouTube tutorial, keep a client chat open, or listen to a reference track without polluting your monitoring environment.</p>
+
+<h2>Per-app control for editing sessions</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you keep everything open but control what you hear and at what level.</p>
+
+<h3>Editing profile</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut:</strong> 100% — accurate timeline monitoring</li>
+  <li><strong>Browser:</strong> muted (unmute briefly to check a reference clip, then mute again)</li>
+  <li><strong>Slack / Messages:</strong> muted — no sounds in your monitoring chain</li>
+  <li><strong>Music:</strong> muted — no competing audio</li>
+  <li><strong>Mail / Calendar:</strong> muted</li>
+</ul>
+
+<h3>Review profile</h3>
+<ul>
+  <li><strong>NLE:</strong> 80% — comfortable review level</li>
+  <li><strong>Slack:</strong> 20% — catch messages during render waits</li>
+  <li><strong>Browser:</strong> 50% — reference material accessible</li>
+</ul>
+
+<p>Switch between profiles as your workflow demands. During critical audio mixing, everything is silenced except your timeline. During a render, bring notifications back so you're reachable. Two clicks, two completely different monitoring environments.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "per-app-volume-control-mac-2026": {
+    slug: "per-app-volume-control-mac-2026",
+    title: "Per-App Volume Control on Mac in 2026 — What Are Your Options?",
+    description:
+      "macOS still doesn't include a built-in volume mixer in 2026. Here's every option for controlling app volume independently — free, paid, and workaround.",
+    date: "2026-09-06",
+    readTime: "6 min read",
+    content: `
+<p>It's 2026. Windows has had a per-app volume mixer since Vista in 2007. macOS still doesn't have one. If you want to lower Spotify without lowering your Zoom call, Apple's answer is still "you can't." So what are your actual options in 2026?</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control options on Mac in 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>The current landscape</h2>
+
+<p>Here's an honest rundown of every approach available right now, with real trade-offs.</p>
+
+<h3>Free options</h3>
+<ul>
+  <li><strong>Background Music</strong> — open-source, gives basic per-app volume sliders. The catch: it's community-maintained and has historically broken on major macOS updates. No boost above 100%, no profiles, no auto-ducking. If free is your only requirement and you're comfortable troubleshooting after OS updates, it's worth trying.</li>
+  <li><strong>FineTune</strong> — free, open-source, minimal menu-bar volume control. Lighter on features, but reliable for basic adjustments.</li>
+  <li><strong>eqMac</strong> — free EQ and system-wide volume control. Focused more on equalization than per-app mixing, but it has some per-app capabilities.</li>
+</ul>
+
+<h3>Paid options</h3>
+<ul>
+  <li><strong>SoundSource</strong> (Rogue Amoeba, ~$39) — the pro-grade tool. Per-app volume, per-app EQ, output routing, effects. Installs an audio-capture component (not App Store). Overkill if you just want volume sliders, excellent if you need deep audio routing.</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> (€14.99, one-time) — per-app volume, mute, boost past 100%, savable profiles, auto-ducking. Mac App Store, sandboxed, no drivers. The middle ground between free tools and SoundSource.</li>
+  <li><strong>Audio Hijack</strong> (Rogue Amoeba, ~$72) — captures and routes audio between apps. Powerful for recording and complex routing, but it's a professional audio tool, not a simple volume mixer.</li>
+</ul>
+
+<h3>Built-in workarounds</h3>
+<ul>
+  <li>Some apps have internal volume sliders (Spotify, VLC, most games). But you're adjusting inside each app, nothing coordinates them, and many apps don't expose volume controls at all.</li>
+  <li>Do Not Disturb mutes notification banners but doesn't control app volume.</li>
+  <li>The system volume slider is all-or-nothing.</li>
+</ul>
+
+<h2>Which one should you pick?</h2>
+
+<p>Be honest about your needs. If you want free and don't mind occasional breakage, Background Music. If you need professional audio routing and EQ, SoundSource. If you want a reliable, simple volume mixer with profiles and boost at a fair price — with App Store security and no driver installation — <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> is the sweet spot.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-ducking-automatic": {
+    slug: "mac-audio-ducking-automatic",
+    title: "Automatic Audio Ducking on Mac — Lower Music When Someone Talks",
+    description:
+      "When a call starts or someone speaks, your music should drop automatically. macOS doesn't do this natively. Here's how to set up automatic audio ducking on your Mac.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You're listening to music on your Mac. A Zoom call starts. You scramble to pause Spotify or lower the volume so you can hear the meeting. The call ends. You raise the music back up. This happens five times a day, and every time it's a manual interruption. Audio ducking — automatically lowering background audio when a priority source plays — is standard in broadcast and streaming. On macOS, it doesn't exist natively.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — automatic audio ducking on Mac, lower music during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>What audio ducking actually does</h2>
+
+<p>Ducking is simple: when a designated priority audio source becomes active, all other audio sources lower their volume by a set amount. When the priority source stops, everything rises back to its original level. Broadcasters use this so a host's voice always sits above background music. Streamers use it so game audio dips when they speak.</p>
+
+<p>On macOS, the closest built-in behavior is the accessibility setting that can reduce background audio during VoiceOver announcements. But that's specifically for VoiceOver — there's no general-purpose ducking for calls, voice chat, or any arbitrary app.</p>
+
+<h2>Setting up auto-ducking with SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> includes automatic audio ducking as a built-in feature. You designate which app should trigger ducking — typically a communication app — and everything else lowers automatically when that app produces audio.</p>
+
+<h3>Common ducking setups</h3>
+<ul>
+  <li><strong>Zoom / Google Meet / FaceTime as priority:</strong> music, browser, and other apps duck when a call is active. Your meeting voice is always clear without manual volume changes.</li>
+  <li><strong>Discord as priority:</strong> game audio and music lower when teammates speak. Callouts are never lost under explosions or a loud soundtrack.</li>
+  <li><strong>Podcast recording:</strong> everything ducks when your DAW's input is active, keeping your monitoring environment clean.</li>
+</ul>
+
+<h3>How it feels in practice</h3>
+
+<p>The transition is smooth — background audio fades down when the priority app plays, then fades back up when it stops. You stop noticing it after the first hour because it's doing exactly what you were doing manually, just without the interruption. No more reaching for sliders mid-conversation.</p>
+
+<p>Combined with per-app volume and profiles, ducking completes the picture: your apps already start at the right levels, and ducking handles the dynamic adjustments throughout the day.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "control-browser-tab-volume-mac": {
+    slug: "control-browser-tab-volume-mac",
+    title: "Can You Control Individual Browser Tab Volume on Mac?",
+    description:
+      "One browser tab is playing loud audio while another has a quiet video. Can you control volume per tab on macOS? Here's what's actually possible and what isn't.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You have a YouTube tutorial playing in one tab, a quiet Loom video in another, and a third tab just started auto-playing an ad. You want to lower the YouTube tab, boost the Loom tab, and mute the ad — independently. Can you control volume per browser tab on macOS? The short honest answer: not natively, and not with most tools. But you can control the entire browser's volume, and that solves most of the pain.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control browser audio volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why per-tab volume doesn't exist</h2>
+
+<p>Browsers mix all their tab audio into a single output stream before handing it to the operating system. To macOS, Chrome is one app producing one audio stream. Safari is one app. Firefox is one app. The OS has no visibility into which tab is generating which sound — that information lives inside the browser's internal audio engine and isn't exposed to external tools.</p>
+
+<p>Some browsers let you mute individual tabs (click the speaker icon on the tab), but that's a binary on/off — there's no volume slider per tab. You can mute the noisy tab, but you can't lower it to 20% while keeping another at 80%.</p>
+
+<h2>What you can actually control</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> controls volume at the app level. Since each browser is a separate app, you get independent control over:</p>
+
+<h3>Multi-browser workflows</h3>
+<ul>
+  <li><strong>Chrome:</strong> 100% — your main video or tutorial</li>
+  <li><strong>Safari:</strong> 40% — background reference material</li>
+  <li><strong>Firefox:</strong> muted — testing or dev tools, no audio needed</li>
+</ul>
+
+<p>If you use multiple browsers (many developers and researchers do), each browser gets its own slider. That's genuine per-"tab-group" control, since you can assign different content to different browsers and mix them independently.</p>
+
+<h3>Browser versus everything else</h3>
+
+<p>The more common scenario is just wanting browser audio at a different level than your other apps. Music too loud over a YouTube tutorial? Lower Spotify to 30% while keeping Chrome at 100%. Zoom call while a browser tab plays reference material? Mute the browser entirely during the call with per-app mute, then unmute it after.</p>
+
+<h3>The tab-mute workaround</h3>
+
+<p>For true per-tab control within a single browser, the built-in tab mute is your only option. Combine it with SoundDial's per-browser volume: mute the noisy tab inside the browser, then use SoundDial to set the overall browser volume where you want it relative to your other apps.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-language-learning": {
+    slug: "mac-audio-for-language-learning",
+    title: "Mac Audio for Language Learning: Separate Anki, Podcast, and Video",
+    description:
+      "Learning a language on your Mac means juggling flashcard audio, podcasts, video lessons, and dictionary lookups — all fighting for the same volume. Here's how to balance them.",
+    date: "2026-09-06",
+    readTime: "4 min read",
+    content: `
+<p>You're studying a language on your Mac. Anki is playing pronunciation audio for flashcards. A podcast in your target language is running in the background for immersion. You open a YouTube grammar lesson in the browser. Now three audio sources are playing simultaneously, all at different natural volumes, and macOS gives you one slider to control all of them. The Anki pronunciation clips are too quiet to catch, the podcast is too loud, and the YouTube video is somewhere in between.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — language learning audio setup on Mac with independent app volumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>The language learner's audio mess</h2>
+
+<p>Language learning involves multiple audio sources by nature. Flashcard apps play short clips. Podcast apps stream continuous audio. Video lessons mix speech with music and sound effects. Dictionary apps pronounce words on demand. Each source has its own internal volume level, and they're never calibrated to match each other.</p>
+
+<p>The usual workaround is to pause everything except what you're actively using. But that defeats the "immersion background" approach many learners rely on — keeping target language audio playing softly while doing other study activities.</p>
+
+<h2>Layered audio for language study</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you set each app to its ideal level and keep multiple sources running in a comfortable mix.</p>
+
+<h3>Study profile</h3>
+<ul>
+  <li><strong>Anki:</strong> 100% (boosted if clips are quiet) — pronunciation must be crystal clear</li>
+  <li><strong>Podcast app:</strong> 20-30% — soft background immersion, not competing with active study</li>
+  <li><strong>Browser (YouTube lessons):</strong> 80% — clear when you're watching, easy to lower when reviewing cards</li>
+  <li><strong>Dictionary app:</strong> 90% — word pronunciations audible on demand</li>
+  <li><strong>Slack / Messages:</strong> muted — study time means study time</li>
+</ul>
+
+<h3>Immersion mode</h3>
+<ul>
+  <li><strong>Podcast / radio stream:</strong> 60% — comfortable listening level</li>
+  <li><strong>Everything else:</strong> muted or very low</li>
+</ul>
+
+<p>Switch between profiles as you move from active study to passive immersion. Your audio environment adapts to your learning mode without manual slider adjustments each time.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-volume-profiles-work-vs-home": {
+    slug: "mac-volume-profiles-work-vs-home",
+    title: "Mac Volume Profiles: Switch Between Work and Home Audio Setup",
+    description:
+      "Your ideal app volumes at work are completely different from your evening setup at home. Manually adjusting five apps every time you switch contexts wastes time. Here's a one-click alternative.",
+    date: "2026-09-06",
+    readTime: "4 min read",
+    content: `
+<p>At 9 AM you need Zoom loud, Slack at a gentle ping level, music quiet, and browser muted. At 6 PM the workday ends — Zoom doesn't matter, Slack should be silent, music goes to 80%, and the browser plays Netflix at full volume. That's five or six apps to adjust manually, twice a day, every day. Most people don't bother and just live with the wrong volumes half the time.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — switch between work and home volume profiles on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>The context-switching tax</h2>
+
+<p>Your audio needs are completely different depending on what you're doing, but macOS doesn't have any concept of audio contexts. There's no "work mode" volume setup or "evening" preset. Every time your context changes, you either manually adjust each app or accept that some apps will be too loud and others too quiet.</p>
+
+<p>This isn't a once-a-day problem. Many people switch contexts multiple times: morning focus, standup meeting, deep work, lunch break, afternoon collaboration, evening personal time. Each one has an ideal audio configuration, and none of them are the same.</p>
+
+<h2>Volume profiles for every context</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you save complete per-app volume configurations as named profiles and switch between them with a single click from the menu bar.</p>
+
+<h3>Work profile</h3>
+<ul>
+  <li><strong>Zoom / Meet:</strong> 100%</li>
+  <li><strong>Slack:</strong> 20% — subtle notifications</li>
+  <li><strong>Music:</strong> 25% — background focus</li>
+  <li><strong>Browser:</strong> muted</li>
+  <li><strong>Messages:</strong> muted</li>
+</ul>
+
+<h3>Home profile</h3>
+<ul>
+  <li><strong>Music / Spotify:</strong> 80%</li>
+  <li><strong>Browser (streaming):</strong> 100%</li>
+  <li><strong>Slack:</strong> muted</li>
+  <li><strong>Zoom:</strong> muted</li>
+  <li><strong>Messages:</strong> 50%</li>
+</ul>
+
+<h3>Focus profile</h3>
+<ul>
+  <li><strong>Music:</strong> 40% — lo-fi or ambient</li>
+  <li><strong>Everything else:</strong> muted</li>
+</ul>
+
+<p>Three profiles, three completely different audio environments. Each switch takes one click and applies instantly. Your Mac's audio adapts to you instead of the other way around.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-twitch-streaming": {
+    slug: "mac-audio-for-twitch-streaming",
+    title: "Mac Audio for Twitch Streaming: Game, Alerts, Music, Mic",
+    description:
+      "Streaming on Twitch from a Mac means managing game audio, stream alerts, background music, and chat — all at the right levels for your audience. Here's how to mix them properly.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You're streaming on Twitch from your Mac. OBS is capturing your game, your mic, and your desktop audio. But "desktop audio" is one mixed signal — your game, alert sounds, background music, Discord, and notification pings all land on the same channel at whatever volume macOS decides. Your viewers hear an unbalanced mess where alerts blast over gameplay, music drowns out your commentary, and a Slack ping randomly interrupts the stream.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Twitch streaming audio mix on Mac with per-app volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why streaming audio is hard on Mac</h2>
+
+<p>OBS captures "desktop audio" as a single mixed stream — everything playing on your Mac combined. On Windows, streamers use the built-in volume mixer to pre-balance apps before OBS captures them. On macOS, that mixer doesn't exist. Your pre-capture mix is whatever happens to be playing at whatever levels apps default to.</p>
+
+<p>Professional Mac streamers typically use virtual audio routing tools to create separate audio channels for each source. That works, but it's complex to set up, requires audio drivers, and breaks when macOS updates change audio frameworks.</p>
+
+<h2>Pre-mixing with per-app volume</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you balance every app before OBS captures the combined output. Since OBS picks up the final mix, adjusting individual app volumes with SoundDial directly affects what your viewers hear.</p>
+
+<h3>Streaming profile</h3>
+<ul>
+  <li><strong>Game:</strong> 60% — present but not overwhelming</li>
+  <li><strong>Alert app / Streamlabs:</strong> 40% — audible for viewer engagement, not louder than gameplay</li>
+  <li><strong>Music (Spotify / Apple Music):</strong> 15-20% — background vibes, DMCA-safe volume</li>
+  <li><strong>Discord:</strong> 50% — co-stream or mod communication</li>
+  <li><strong>Browser:</strong> muted — no surprise tab audio on stream</li>
+  <li><strong>Slack / Mail / Messages:</strong> muted — personal notifications stay off-stream</li>
+</ul>
+
+<h3>Quick adjustments mid-stream</h3>
+
+<p>Viewer says the game is too loud? Lower just the game's slider from the menu bar without alt-tabbing out of your stream scene. Music too quiet? Nudge it up. A quick slider drag in SoundDial is invisible to viewers — no on-screen settings panels, no stream interruption.</p>
+
+<h3>Auto-ducking for commentary</h3>
+
+<p>Enable auto-ducking to lower game and music audio when you speak. Your commentary always cuts through, and audio rises back up during quiet moments — exactly what professional streamers achieve with expensive audio routing setups.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-music-lessons": {
+    slug: "mac-audio-for-music-lessons",
+    title: "Mac Audio for Online Music Lessons: Separate DAW, Video Call, and Metronome",
+    description:
+      "Taking or teaching music lessons online means hearing your student or teacher clearly while a DAW, metronome, and backing tracks all compete for the same volume slider.",
+    date: "2026-09-06",
+    readTime: "5 min read",
+    content: `
+<p>You're in an online music lesson — teaching or learning. Your student plays through Zoom and you need to hear them clearly. GarageBand or Logic has a backing track playing. A metronome app is ticking. Maybe Spotify has a reference recording queued. All of these are fighting for one system volume slider. Raise the volume to hear your student, and the metronome becomes deafening. Lower the metronome manually, and now the backing track is too quiet to play along with.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — online music lesson audio setup with independent app volumes on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>The online music lesson challenge</h2>
+
+<p>Music lessons require precise audio balancing that no other use case demands. You need to hear the remote participant with enough fidelity to catch technique and timing issues. You need a metronome or click track audible but not dominant. Backing tracks need to sit under the performance, not over it. And if you're the teacher, you might need to play reference recordings for the student — switching between apps while maintaining the right relative volumes.</p>
+
+<p>Each of these sources has its own internal volume level, and none of them coordinate with each other. macOS has no tools to balance them.</p>
+
+<h2>Building a lesson audio mix</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you set each app to its ideal level, creating a balanced mix for the lesson without touching internal app settings.</p>
+
+<h3>Teaching profile</h3>
+<ul>
+  <li><strong>Zoom / FaceTime:</strong> 100% — student audio is the priority</li>
+  <li><strong>Metronome app:</strong> 35% — audible click without overwhelming</li>
+  <li><strong>GarageBand / Logic:</strong> 50% — backing tracks under the performance</li>
+  <li><strong>Spotify:</strong> muted (unmute briefly for reference plays)</li>
+  <li><strong>Slack / Mail:</strong> muted — zero interruptions during the lesson</li>
+</ul>
+
+<h3>Practice profile</h3>
+<ul>
+  <li><strong>Metronome:</strong> 50% — clear timing reference</li>
+  <li><strong>DAW:</strong> 80% — backing tracks at full practice level</li>
+  <li><strong>Spotify:</strong> 70% — reference recordings accessible</li>
+  <li><strong>Everything else:</strong> muted — focused practice</li>
+</ul>
+
+<p>Switch from teaching to personal practice with one click. Your audio environment matches the activity without manually adjusting four or five apps each time.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-online-therapy": {
+    slug: "mac-audio-for-online-therapy",
+    title: "Mac Audio for Online Therapy: Privacy, Clarity, and Zero Interruptions",
+    description:
+      "An online therapy session requires absolute audio privacy and zero interruptions. A Slack ping or a notification chime during a session is more than annoying — it's disruptive to the process.",
+    date: "2026-09-06",
+    readTime: "4 min read",
+    content: `
+<p>You're in an online therapy session on your Mac. The conversation requires your full attention and a sense of privacy. Then Slack pings. A Calendar reminder chimes. A browser tab you forgot about starts playing audio. Each interruption pulls you out of the moment, and the anxiety of "will something else interrupt?" can undermine the session before another sound even plays.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — private therapy session audio setup with zero interruptions on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Why Do Not Disturb isn't enough</h2>
+
+<p>Do Not Disturb suppresses notification banners and most alert sounds, but it's not comprehensive. Some apps play their own audio notifications outside the system framework. A browser tab can auto-play. An app you forgot was running can produce unexpected sound. And DND doesn't help with the core problem: you want your therapy app (Zoom, Doxy, or a browser-based platform) at perfect clarity while everything else is guaranteed silent.</p>
+
+<h2>A sealed audio environment</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lets you mute every app except your therapy platform, creating an audio environment where interruptions are structurally impossible — not just suppressed.</p>
+
+<h3>Therapy session profile</h3>
+<ul>
+  <li><strong>Zoom / browser (therapy platform):</strong> 100% — clear, full-volume communication</li>
+  <li><strong>Every other app:</strong> muted — Slack, Mail, Messages, Calendar, Music, secondary browsers</li>
+</ul>
+
+<p>Apply the profile before your session starts. For the next hour, the only audio your Mac produces comes from your therapy app. No Slack ping can reach your speakers. No Calendar chime. No forgotten browser tab. The silence from other apps is guaranteed, not hoped for.</p>
+
+<h3>Returning to normal after</h3>
+
+<p>When the session ends, switch back to your regular profile. All your apps return to their normal volumes. Notifications you missed are still waiting in their apps — nothing was lost, just silenced during the time you needed privacy.</p>
+
+<h3>The same setup works for</h3>
+<ul>
+  <li>Medical telehealth appointments</li>
+  <li>Confidential work conversations</li>
+  <li>Important phone interviews</li>
+  <li>Any situation where audio privacy and zero interruptions matter</li>
+</ul>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
+  "virtual-audio-driver-vs-sounddial-mac": {
+    slug: "virtual-audio-driver-vs-sounddial-mac",
+    title: "Virtual Audio Drivers vs SoundDial — Which Approach Is Better on Mac?",
+    description:
+      "Virtual audio drivers and menu-bar volume mixers both promise per-app audio control on Mac. They work completely differently under the hood. Here's an honest comparison of both approaches.",
+    date: "2026-09-06",
+    readTime: "6 min read",
+    content: `
+<p>You want per-app volume control on your Mac. You've found two categories of tools: virtual audio drivers (like Loopback, BlackHole, or the driver component in SoundSource) and lightweight menu-bar mixers (like SoundDial or Background Music). Both promise independent app volume control. But they achieve it through fundamentally different mechanisms, and the trade-offs matter.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial vs virtual audio drivers — comparing per-app audio approaches on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>How virtual audio drivers work</h2>
+
+<p>A virtual audio driver creates a fake audio device in macOS. Apps send their audio to this virtual device, and the driver software routes it onward — potentially splitting, mixing, or processing the streams along the way. This is powerful: you can send different apps to different physical outputs, apply per-app EQ, record individual app streams, and build complex routing matrices.</p>
+
+<p>The trade-offs:</p>
+<ul>
+  <li><strong>System-level installation:</strong> drivers modify your audio subsystem. They require security approval and sometimes a restart.</li>
+  <li><strong>macOS update fragility:</strong> Apple frequently changes audio frameworks. Drivers can break after a major update, leaving you with no audio until the developer patches it.</li>
+  <li><strong>Complexity:</strong> routing matrices and virtual devices are powerful but confusing if you just want one app quieter.</li>
+  <li><strong>Not on the App Store:</strong> apps that install drivers can't be distributed through the Mac App Store due to sandboxing restrictions.</li>
+</ul>
+
+<h2>How SoundDial works</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> takes a different approach. It uses macOS APIs to control the volume of each app's audio stream without installing any driver or virtual device. No fake audio devices appear in your Sound settings. No system modification is required.</p>
+
+<p>The trade-offs:</p>
+<ul>
+  <li><strong>No complex routing:</strong> SoundDial controls volume, mute, and boost per app — it doesn't route apps to different physical outputs or apply per-app EQ.</li>
+  <li><strong>App Store sandboxed:</strong> installs and uninstalls cleanly, no security prompts for drivers, no restart needed.</li>
+  <li><strong>macOS update resilience:</strong> since it doesn't modify the audio subsystem, it's less likely to break after OS updates.</li>
+  <li><strong>Simplicity:</strong> a slider per app, profiles, auto-ducking. No routing diagram to configure.</li>
+</ul>
+
+<h2>Which one should you choose?</h2>
+
+<p>Be honest about what you actually need:</p>
+
+<ul>
+  <li><strong>Choose a virtual audio driver</strong> if you need to route specific apps to specific physical outputs (e.g., game to headphones, music to speakers simultaneously), record individual app audio streams, or apply per-app effects and EQ. Loopback or SoundSource are the best options here.</li>
+  <li><strong>Choose <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> if you need per-app volume control, per-app mute, boost above 100%, volume profiles, and auto-ducking — without the complexity and fragility of a driver installation. This covers what most people actually need.</li>
+</ul>
+
+<p>Most people searching for "per-app volume control" want the second option. They want Spotify quieter during a call, or Discord louder than their game. That doesn't require a virtual audio device — it requires a volume slider per app, which is exactly what SoundDial provides without touching your audio subsystem.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Get SoundDial on the Mac App Store</a> — €14.99 one-time purchase, no subscription, macOS 14.2+.</p>
+`,
+  },
 };

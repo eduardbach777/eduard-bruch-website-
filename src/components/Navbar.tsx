@@ -7,6 +7,7 @@ import { useLanguage } from "@/context/LanguageContext";
 
 const apps = [
   { name: "SoundDial", href: "/#sounddial" },
+  { name: "Tome", href: "/#tome" },
   { name: "Stash", href: "/#stash" },
   { name: "Double Calc", href: "/#doublecalc" },
   { name: "Fisheye", href: "/#fisheye" },

@@ -3,8 +3,11 @@ import { newDeArticles } from "./new-de";
 import { newEsArticles } from "./new-es";
 import { arArticles } from "./ar";
 import { frArticles } from "./fr";
-import { infidelityArticles } from "./infidelity";
-import { directInfidelityArticles } from "./direct-infidelity";
+import { govPrivacyArticles } from "./privacy-gov";
+import { digitalPrivacyArticles } from "./privacy-digital";
+// infidelity / cheating articles removed — not included on the blog
+// import { infidelityArticles } from "./infidelity";
+// import { directInfidelityArticles } from "./direct-infidelity";
 import generatedDirectLocales from "./generated-direct-locales.json";
 
 export type BaseLocale = "en" | "de" | "es" | "ar" | "fr";
@@ -1636,14 +1639,12 @@ const baseArticles: Record<BaseLocale, ArticleSet> = {
   en: {
     ...enArticles,
     ...newEnArticles,
-    ...infidelityArticles.en,
-    ...directInfidelityArticles.en,
+    ...govPrivacyArticles,
+    ...digitalPrivacyArticles,
   },
   de: {
     ...deArticles,
     ...newDeArticles,
-    ...infidelityArticles.de,
-    ...directInfidelityArticles.de,
   },
   es: {
     "calculator-vault-apps-explained": {
@@ -2579,18 +2580,12 @@ const baseArticles: Record<BaseLocale, ArticleSet> = {
 `,
     },
     ...newEsArticles,
-    ...infidelityArticles.es,
-    ...directInfidelityArticles.es,
   },
   ar: {
     ...arArticles,
-    ...infidelityArticles.ar,
-    ...directInfidelityArticles.ar,
   },
   fr: {
     ...frArticles,
-    ...infidelityArticles.fr,
-    ...directInfidelityArticles.fr,
   },
 };
 
@@ -2605,9 +2600,8 @@ const generatedLocales = generatedDirectLocales as Record<
   string,
   GeneratedLocaleEntry
 >;
-const directSlugs = new Set([
-  ...Object.keys(infidelityArticles.en),
-  ...Object.keys(directInfidelityArticles.en),
+const directSlugs = new Set<string>([
+  // infidelity / cheating articles removed
 ]);
 
 function getDirectArticles(locale: BaseLocale): ArticleSet {

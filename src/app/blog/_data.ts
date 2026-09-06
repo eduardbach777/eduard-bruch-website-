@@ -1,5 +1,17 @@
 import { getAllArticles as getVaultArticles } from "@/app/vault/blog/_data/index";
 import { getAllArticles as getSoundDialArticles } from "@/app/sounddial/blog/_data/index";
+import { getAllArticles as getJettyArticles } from "@/app/jetty/blog/_data/index";
+import { getAllArticles as getTickpullArticles } from "@/app/tickpull/blog/_data/index";
+import { getAllArticles as getRenymArticles } from "@/app/renym/blog/_data/index";
+import { getAllArticles as getCanopyArticles } from "@/app/canopy/blog/_data/index";
+import { getAllArticles as getDeskCloakArticles } from "@/app/deskcloak/blog/_data/index";
+import { getAllArticles as getDayedgeArticles } from "@/app/dayedge/blog/_data/index";
+import { getAllArticles as getLoupeArticles } from "@/app/loupe/blog/_data/index";
+import { getAllArticles as getOpticArticles } from "@/app/optic/blog/_data/index";
+import { getAllArticles as getTomeArticles } from "@/app/tome/blog/_data/index";
+import { getAllArticles as getLockInArticles } from "@/app/lockin/blog/_data/index";
+import { getAllArticles as getMediasmithArticles } from "@/app/mediasmith/blog/_data/index";
+import { getAllArticles as getBellowsArticles } from "@/app/bellows/blog/_data/index";
 
 export interface ArticleCard {
   title: string;
@@ -184,6 +196,7 @@ export function getAppSections(locale: string): AppSection[] {
 
   const sections: AppSection[] = [];
 
+  // ── macOS Audio ──
   if (soundDialArticles.length > 0) {
     sections.push({
       name: l.soundDialName ?? "SoundDial",
@@ -192,13 +205,50 @@ export function getAppSections(locale: string): AppSection[] {
     });
   }
 
-  sections.push(
-    {
-      name: l.vaultName,
-      articles: vaultArticles,
-      accent: "border-l-amber-500",
-    },
-  );
+  // ── macOS Productivity ──
+  const productivityApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
+    { name: "Lock In! — Website Blocker", getter: getLockInArticles, route: "lockin", accent: "border-l-red-500" },
+    { name: "Dayedge — Calendar Sidebar", getter: getDayedgeArticles, route: "dayedge", accent: "border-l-orange-500" },
+    { name: "Tickpull — Menu Bar Timer", getter: getTickpullArticles, route: "tickpull", accent: "border-l-red-400" },
+    { name: "Jetty — Dock Launcher", getter: getJettyArticles, route: "jetty", accent: "border-l-blue-400" },
+    { name: "DeskCloak — Desktop Cover", getter: getDeskCloakArticles, route: "deskcloak", accent: "border-l-gray-400" },
+  ];
+
+  // ── macOS Files & Media ──
+  const filesApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
+    { name: "Mediasmith — Media Converter", getter: getMediasmithArticles, route: "mediasmith", accent: "border-l-emerald-500" },
+    { name: "Canopy — Disk Space Visualizer", getter: getCanopyArticles, route: "canopy", accent: "border-l-green-500" },
+    { name: "Renym — Batch File Renamer", getter: getRenymArticles, route: "renym", accent: "border-l-violet-500" },
+    { name: "Loupe — Archive & Folder Viewer", getter: getLoupeArticles, route: "loupe", accent: "border-l-cyan-400" },
+    { name: "Optic — Screen OCR", getter: getOpticArticles, route: "optic", accent: "border-l-blue-500" },
+  ];
+
+  // ── macOS Developer & Data ──
+  const devApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
+    { name: "Bellows — Developer Tools", getter: getBellowsArticles, route: "bellows", accent: "border-l-amber-400" },
+    { name: "Tome — SQLite Browser", getter: getTomeArticles, route: "tome", accent: "border-l-purple-400" },
+  ];
+
+  const allMacApps = [...productivityApps, ...filesApps, ...devApps];
+
+  for (const app of allMacApps) {
+    const articles: ArticleCard[] = app.getter().map((a) => ({
+      title: a.title,
+      description: a.description,
+      href: `/${app.route}/blog/en/${a.slug}`,
+      date: a.date,
+    }));
+    if (articles.length > 0) {
+      sections.push({ name: app.name, articles, accent: app.accent });
+    }
+  }
+
+  // ── iOS — Stash last ──
+  sections.push({
+    name: l.vaultName,
+    articles: vaultArticles,
+    accent: "border-l-amber-500",
+  });
 
   return sections;
 }

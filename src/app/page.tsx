@@ -6,13 +6,15 @@ import Link from "next/link";
 const WORK = [
   { id: "sounddial", n: "01", name: "SoundDial", tag: "Per-App Volume Mixer", plt: "macOS", href: "https://apps.apple.com/app/id6772792641", img: "/apps/sounddial.png", rev: false,
     p: "Independent volume for every app, from the menu bar — profiles, auto-ducking, per-app mute. The mixer macOS never shipped." },
-  { id: "stash", n: "02", name: "Stash", tag: "Secret File Vault", plt: "iOS", href: "https://apps.apple.com/app/id6759873487", img: "/apps/stash-v2.png", rev: true,
+  { id: "tome", n: "02", name: "Tome", tag: "SQLite Browser", plt: "macOS", href: "https://apps.apple.com/app/id6806639875", img: "/apps/tome.png", rev: true,
+    p: "Open any .sqlite file — browse tables, edit data inline, run SQL with syntax highlighting, and export to CSV, JSON, or SQL." },
+  { id: "stash", n: "03", name: "Stash", tag: "Secret File Vault", plt: "iOS", href: "https://apps.apple.com/app/id6759873487", img: "/apps/stash-v2.png", rev: false,
     p: "An encrypted vault disguised as a calculator. Hide photos, videos & files behind Face ID, with intruder detection." },
-  { id: "pulse", n: "03", name: "Pulse", tag: "System Monitor", plt: "macOS", href: "https://apps.apple.com/app/id6761375793", img: "/apps/pulse.png", rev: false,
+  { id: "pulse", n: "04", name: "Pulse", tag: "System Monitor", plt: "macOS", href: "https://apps.apple.com/app/id6761375793", img: "/apps/pulse.png", rev: true,
     p: "CPU, memory, GPU, network, battery & temperature — live in your menu bar, with desktop widgets and clean themes." },
-  { id: "doublecalc", n: "04", name: "Double Calculator", tag: "Tax & VAT", plt: "iOS", href: "https://apps.apple.com/app/id6760940001", img: "/apps/double-calculator.png", rev: true,
+  { id: "doublecalc", n: "05", name: "Double Calculator", tag: "Tax & VAT", plt: "iOS", href: "https://apps.apple.com/app/id6760940001", img: "/apps/double-calculator.png", rev: false,
     p: "Dual-screen calculator with instant VAT/tax for 40+ countries, scientific mode and pinned results." },
-  { id: "fisheye", n: "05", name: "Fisheye — WideEye", tag: "Camera", plt: "iOS", href: "https://apps.apple.com/app/id6760895260", img: "/apps/fisheye.png", rev: false,
+  { id: "fisheye", n: "06", name: "Fisheye — WideEye", tag: "Camera", plt: "iOS", href: "https://apps.apple.com/app/id6760895260", img: "/apps/fisheye.png", rev: true,
     p: "Wide, warped, retro fisheye photos & video, straight from your phone — the lens look without the lens." },
 ];
 
@@ -65,7 +67,7 @@ export default function Home() {
 
       {/* MARQUEE */}
       <div className="ac-strip"><div className="run">
-        {["SoundDial","Stash","Pulse","Double Calculator","Fisheye","Warden","SoundDial","Stash","Pulse","Double Calculator","Fisheye","Warden"].map((n, i) => (
+        {["SoundDial","Tome","Stash","Pulse","Double Calculator","Fisheye","Warden","SoundDial","Tome","Stash","Pulse","Double Calculator","Fisheye","Warden"].map((n, i) => (
           <span key={i}><b>{n}</b><span className="sep"> ✦ </span></span>
         ))}
       </div></div>
@@ -90,7 +92,7 @@ export default function Home() {
 
       {/* WORK */}
       <section id="work"><div className="wrapx">
-        <div className="rule rv"><h2 className="serif">Selected work</h2><span className="m">Six apps · live on the App Store</span></div>
+        <div className="rule rv"><h2 className="serif">Selected work</h2><span className="m">Seven apps · live on the App Store</span></div>
         <div className="work">
           {WORK.map((a) => (
             <a key={a.id} id={a.id} className={`item rv${a.rev ? " rev" : ""}`} href={a.href} target="_blank" rel="noopener noreferrer">
@@ -106,7 +108,7 @@ export default function Home() {
           <Link id="warden" className="item rev rv" href="/warden/privacy">
             <div className="media wardenbg"><span className="serif" style={{ fontSize: 96, color: "var(--ac-gold)" }}>✦</span></div>
             <div className="info">
-              <div className="top"><span className="idx">06</span><span className="plt">iOS · Android · soon</span></div>
+              <div className="top"><span className="idx">07</span><span className="plt">iOS · Android · soon</span></div>
               <h3 className="serif">Warden</h3><div className="tag">Family Location &amp; Safety</div>
               <p>A guardian for your family — one shared map, place alerts for home &amp; school, check-in and an SOS button. Privacy-first.</p>
               <span className="go">Learn more →</span>
