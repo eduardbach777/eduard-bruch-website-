@@ -3,122 +3,122 @@ import type { ArticleSet } from "./index";
 export const itArticles: ArticleSet = {
   "copy-text-from-image-mac": {
     slug: "copy-text-from-image-mac",
-    title: "Come copiare testo da un'immagine su Mac",
-    description: "Hai del testo bloccato dentro un'immagine — una foto di una lavagna, un documento scansionato, un meme — e nessun modo di selezionarlo. Ecco come estrarlo istantaneamente.",
+    title: "Come copiare il testo da un'immagine su Mac",
+    description: "Hai del testo intrappolato all'interno di un'immagine — una foto di una lavagna, un documento scansionato, un meme — e nessun modo per selezionarlo. Ecco come estrarlo istantaneamente.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>Someone sends you a photo of a whiteboard covered in meeting notes. Or you screenshot a recipe from an Instagram story. The text is right there on your screen, but you can't select it, can't copy it, can't paste it anywhere useful. Your only option is to retype every word manually — and hope you don't introduce typos along the way.</p>
+<p>Qualcuno ti invia una foto di una lavagna piena di note della riunione. O fai uno screenshot di una ricetta da una storia di Instagram. Il testo è proprio lì sullo schermo, ma non puoi selezionarlo, non puoi copiarlo, non puoi incollarlo da nessuna parte utile. La tua unica opzione è riscrivere manualmente ogni parola — e sperare di non introdurre errori di battitura lungo il percorso.</p>
 
-<h2>Why You Can't Just Select Text in an Image</h2>
-<p>Images are pixels, not characters. Your Mac sees a JPEG or PNG as a grid of colored dots, not as words and sentences. Preview lets you annotate images but won't extract their text. Quick Look shows you the image but offers no copy functionality for the words inside it. Even dragging the image into Notes or Pages just embeds the picture — the text stays locked behind pixels.</p>
-<p>Apple's Live Text feature works in some contexts, but it requires compatible apps, specific image formats, and doesn't cover every scenario. If the text sits inside a browser tab, a design mockup, or a video frame, Live Text often can't reach it.</p>
+<h2>Perché non puoi semplicemente selezionare il testo in un'immagine</h2>
+<p>Le immagini sono pixel, non caratteri. Il tuo Mac vede un JPEG o PNG come una griglia di punti colorati, non come parole e frasi. Preview ti permette di annotare le immagini ma non di estrarre il testo. Quick Look mostra l'immagine ma non offre alcuna funzionalità di copia per le parole al suo interno. Anche trascinare l'immagine in Note o Pages semplicemente incorpora l'immagine — il testo rimane bloccato dietro i pixel.</p>
+<p>La funzione Live Text di Apple funziona in alcuni contesti, ma richiede app compatibili, formati di immagine specifici e non copre ogni scenario. Se il testo si trova all'interno di una scheda del browser, un mockup di progettazione o una cornice video, Live Text spesso non può raggiungerlo.</p>
 
-<h2>Drag to Select, Copy Instantly with Optic</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> lives in your menu bar and lets you draw a selection rectangle over any part of your screen. It reads the characters inside that rectangle instantly — no matter whether the source is an image file, a web page, a PDF, or anything else visible on your display.</p>
+<h2>Trascina per selezionare, copia istantaneamente con Optic</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> vive nella tua barra dei menu e ti permette di disegnare un rettangolo di selezione su qualsiasi parte del tuo schermo. Legge i caratteri all'interno di quel rettangolo istantaneamente — non importa se la fonte è un file di immagine, una pagina web, un PDF o qualsiasi altra cosa visibile sul tuo display.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic menu bar OCR tool for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Strumento OCR Optic nella barra dei menu per Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Photos and Screenshots</h3>
-<p>Open the image in any app — Preview, Photos, a browser, Slack — and drag a selection over the text. Optic recognizes the characters and copies them to your clipboard. Works with handwritten notes, printed documents, signs in photographs, and text overlaid on graphics.</p>
+<h3>Foto e screenshot</h3>
+<p>Apri l'immagine in qualsiasi app — Preview, Foto, un browser, Slack — e trascina una selezione sul testo. Optic riconosce i caratteri e li copia negli appunti. Funziona con note scritte a mano, documenti stampati, segni in fotografie e testo sovrapposto a immagini.</p>
 
-<h3>Design Files and Mockups</h3>
-<p>Reviewing a Figma export or a flat design comp? Drag over the text elements to extract copy without asking the designer to send it separately. Useful for QA, translation workflows, and content audits.</p>
+<h3>File di progettazione e mockup</h3>
+<p>Stai revisionando un'esportazione Figma o un comp di progettazione piatto? Trascina sui tuoi elementi di testo per estrarre il testo senza chiedere al designer di inviarlo separatamente. Utile per QA, flussi di lavoro di traduzione e audit di contenuti.</p>
 
-<h3>Capture History</h3>
-<p>Every capture is saved in the menu bar, so you can go back and grab text you extracted earlier without re-scanning. No need to paste into a scratch document just to hold onto it.</p>
+<h3>Cronologia di acquisizione</h3>
+<p>Ogni acquisizione viene salvata nella barra dei menu, quindi puoi tornare indietro e prendere il testo che hai estratto in precedenza senza riscansionare. Nessuna necessità di incollare in un documento scratch solo per tenerlo.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "screen-ocr-mac": {
     slug: "screen-ocr-mac",
     title: "OCR dello schermo per Mac — Seleziona e copia qualsiasi testo",
-    description: "Testo sullo schermo che non puoi selezionare o copiare — all'interno di immagini, video, dialoghi o interfacce bloccate. Uno strumento OCR a livello di schermo risolve questo.",
+    description: "Testo sullo schermo del tuo Mac che non puoi selezionare o copiare — all'interno di immagini, video, finestre di dialogo o interfacce bloccate. Uno strumento OCR a livello di schermo risolve il problema.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You're staring at text on your Mac screen that refuses to be selected. Maybe it's baked into a video tutorial, rendered inside a canvas element on a web page, or locked behind a non-interactive UI. The words are right there, clearly legible, but your cursor treats them like they don't exist.</p>
+<p>Stai guardando il testo sullo schermo del tuo Mac che si rifiuta di essere selezionato. Forse è incorporato in un tutorial video, visualizzato all'interno di un elemento canvas su una pagina web, o bloccato dietro un'interfaccia utente non interattiva. Le parole sono proprio lì, chiaramente leggibili, ma il cursore le tratta come se non esistessero.</p>
 
-<h2>The Gap Between Seeing and Selecting</h2>
-<p>macOS provides text selection in native apps and standard web content, but the modern screen is full of exceptions. Text rendered as graphics in web apps, subtitles burned into video players, code displayed in image-based documentation, terminal output in a remote desktop session — none of these respond to a normal click-and-drag. You end up retyping what's already in front of you, which is slow and error-prone.</p>
-<p>Traditional OCR tools require you to save a file first, then import it, then process it. That workflow breaks the moment your text source is a live screen — a video call, a streaming dashboard, or an app with no export option.</p>
+<h2>Il divario tra vedere e selezionare</h2>
+<p>macOS fornisce la selezione del testo in app native e contenuti web standard, ma lo schermo moderno è pieno di eccezioni. Il testo visualizzato come grafica in app web, sottotitoli bruciati in lettori video, codice visualizzato in documentazione basata su immagini, output terminale in una sessione desktop remota — nessuno di questi risponde a un normale clic e trascinamento. Ti ritrovi a riscrivere ciò che è già di fronte a te, il che è lento e soggetto a errori.</p>
+<p>Gli strumenti OCR tradizionali ti richiedono di salvare prima un file, quindi importarlo, quindi elaborarlo. Quel flusso di lavoro si interrompe nel momento in cui la tua fonte di testo è uno schermo dal vivo — una videochiamata, un dashboard in streaming o un'app senza opzione di esportazione.</p>
 
-<h2>Screen-Level OCR with Optic</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> performs OCR directly on your screen. It sits in the menu bar, and when you activate it, you draw a rectangle over any visible text. The characters are recognized instantly and placed on your clipboard — no file saving, no importing, no waiting.</p>
+<h2>OCR a livello di schermo con Optic</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> esegue OCR direttamente sullo schermo. Si trova nella barra dei menu, e quando lo attivi, disegni un rettangolo su qualsiasi testo visibile. I caratteri vengono riconosciuti istantaneamente e inseriti negli appunti — nessun salvataggio di file, nessuna importazione, nessuna attesa.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic performing screen OCR on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che esegue OCR dello schermo su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Any Source, One Gesture</h3>
-<p>It doesn't matter what app the text lives in. A Zoom call with a shared slide, a YouTube tutorial showing terminal commands, a Retool dashboard with non-selectable labels — if you can see it, Optic can read it. One shortcut, one drag, and the text is yours.</p>
+<h3>Qualsiasi fonte, un gesto</h3>
+<p>Non importa in quale app viva il testo. Una call Zoom con una diapositiva condivisa, un tutorial YouTube che mostra comandi di terminal, un dashboard Retool con etichette non selezionabili — se puoi vederlo, Optic può leggerlo. Un collegamento, un trascinamento, e il testo è tuo.</p>
 
-<h3>Built-In History</h3>
-<p>Every OCR capture is logged in the menu bar dropdown. Scroll back through previous captures to retrieve text you grabbed minutes or hours ago without scanning again.</p>
+<h3>Cronologia integrata</h3>
+<p>Ogni acquisizione OCR viene registrata nel menu a discesa della barra dei menu. Scorri indietro attraverso le acquisizioni precedenti per recuperare il testo che hai acquisito minuti o ore fa senza riscansionare.</p>
 
-<h3>Text-to-Speech</h3>
-<p>Need to hear the captured text rather than read it? Optic includes text-to-speech for any capture, which is useful for proofreading extracted content or for accessibility.</p>
+<h3>Sintesi vocale</h3>
+<p>Hai bisogno di sentire il testo acquisito piuttosto che leggerlo? Optic include la sintesi vocale per qualsiasi acquisizione, utile per revisionare il contenuto estratto o per l'accessibilità.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "extract-text-from-screenshot-mac": {
     slug: "extract-text-from-screenshot-mac",
-    title: "Come estrarre testo da uno screenshot su Mac",
-    description: "Hai acquisito uno screenshot per salvare del testo, ma ora hai bisogno di quel testo come caratteri effettivi che puoi modificare e cercare. Riscriverlo annulla lo scopo.",
+    title: "Come estrarre il testo da uno screenshot su Mac",
+    description: "Hai fatto uno screenshot per salvare del testo, ma ora hai bisogno di quel testo come caratteri effettivi che puoi modificare e cercare. Riscrivere la sconfitta lo scopo.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>The screenshot was supposed to be a shortcut. You grabbed a quick capture of an important email, a shipping confirmation, a set of instructions — thinking you'd saved the information. But now you need to paste that tracking number into a form, or search for a phrase from those instructions, and the screenshot is just a flat image. The text inside it might as well be a drawing.</p>
+<p>Lo screenshot era supposto essere un collegamento. Hai catturato velocemente un'importante email, una conferma di spedizione, una serie di istruzioni — pensando di aver salvato le informazioni. Ma ora hai bisogno di incollare quel numero di tracciamento in un modulo, o cercare una frase da quelle istruzioni, e lo screenshot è solo un'immagine piatta. Il testo all'interno di essa potrebbe anche essere un disegno.</p>
 
-<h2>Screenshots Capture Pixels, Not Text</h2>
-<p>When you press Cmd+Shift+4 on your Mac, you get a pixel-perfect image of what was on screen. But the text in that image loses all its structure. You can't select individual words, can't copy a paragraph, can't even search for a phrase. The screenshot is a visual record, not a textual one.</p>
-<p>You could open the screenshot in Preview and try Apple's markup tools, but those are for annotation — drawing on top of the image — not for extracting the text within it. Some users try pasting screenshots into Google Docs hoping for automatic OCR, but that only works for uploaded images in Drive, not for pasted screenshots, and results are inconsistent.</p>
+<h2>Gli screenshot catturano i pixel, non il testo</h2>
+<p>Quando premi Cmd+Maiusc+4 sul tuo Mac, ottieni un'immagine perfetta dal punto di vista dei pixel di ciò che era sullo schermo. Ma il testo in quella immagine perde tutta la sua struttura. Non puoi selezionare parole individuali, non puoi copiare un paragrafo, non puoi nemmeno cercare una frase. Lo screenshot è un record visivo, non testuale.</p>
+<p>Potresti aprire lo screenshot in Preview e provare gli strumenti di markup di Apple, ma questi servono per annotare — disegnare sopra l'immagine — non per estrarre il testo al suo interno. Alcuni utenti provano a incollare screenshot in Google Docs sperando in un OCR automatico, ma questo funziona solo per le immagini caricate in Drive, non per gli screenshot incollati, e i risultati sono incoerenti.</p>
 
-<h2>Extract Text Directly from the Screen</h2>
-<p>Instead of screenshotting first and then struggling to extract text from the image, <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> lets you skip the screenshot entirely. Activate it from the menu bar, drag a selection over the text you need, and the recognized characters go straight to your clipboard.</p>
+<h2>Estrai il testo direttamente dallo schermo</h2>
+<p>Invece di fare prima uno screenshot e poi lottare per estrarre il testo dall'immagine, <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> ti permette di saltare completamente lo screenshot. Attivalo dal menu bar, trascina una selezione sul testo di cui hai bisogno, e i caratteri riconosciuti vanno direttamente negli appunti.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic extracting text from a screenshot on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che estrae il testo da uno screenshot su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Already Have the Screenshot?</h3>
-<p>If you already took the screenshot, open it in any viewer — Preview, Quick Look, even a browser — and drag Optic's selection over the text in the displayed image. It reads characters from anything visible on your screen, including images you already have open.</p>
+<h3>Hai già lo screenshot?</h3>
+<p>Se hai già fatto lo screenshot, aprilo in qualsiasi visualizzatore — Preview, Quick Look, anche un browser — e trascina la selezione di Optic sul testo nell'immagine visualizzata. Legge i caratteri da qualsiasi cosa visibile sullo schermo, incluse le immagini che già hai aperto.</p>
 
-<h3>Capture History Replaces Screenshot Hoarding</h3>
-<p>Many people take screenshots specifically to remember text — confirmation numbers, addresses, error codes. Optic's capture history stores every text extraction in the menu bar, giving you a searchable log of captured text. No more scrolling through a folder of screenshots to find one string.</p>
+<h3>La cronologia di acquisizione sostituisce l'accumulo di screenshot</h3>
+<p>Molte persone fanno screenshot specificamente per ricordare il testo — numeri di conferma, indirizzi, codici di errore. La cronologia di acquisizione di Optic archivia ogni estrazione di testo nella barra dei menu, offrendoti un registro ricercabile del testo acquisito. Non più scorrere attraverso una cartella di screenshot per trovare una stringa.</p>
 
-<h3>Bulk Extraction</h3>
-<p>Need text from multiple areas of a long screenshot? Make several quick selections in a row. Each one is saved to your history, so you can grab everything you need and paste the pieces wherever they belong.</p>
+<h3>Estrazione in blocco</h3>
+<p>Hai bisogno di testo da più aree di uno screenshot lungo? Fai più selezioni di seguito. Ognuna viene salvata nella tua cronologia, quindi puoi prendere tutto ciò di cui hai bisogno e incollare i pezzi ovunque appartengano.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-text-non-selectable-pdf-mac": {
     slug: "copy-text-non-selectable-pdf-mac",
-    title: "Come copiare testo da un PDF non selezionabile su Mac",
-    description: "Alcuni PDF sembrano documenti normali ma non ti permettono di selezionare una sola parola. Il testo è lì visivamente, ma è intrappolato come uno strato di immagine piatta.",
+    title: "Come copiare il testo da un PDF non selezionabile su Mac",
+    description: "Alcuni PDF sembrano documenti normali ma non ti permettono di selezionare una sola parola. Il testo è lì visivamente, ma è intrappolato come strato di immagine piatta.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You open a PDF expecting to copy a paragraph, but when you click and drag, nothing highlights. The cursor slides across the page as if the text isn't there. You try Cmd+A to select all — nothing. The document looks perfectly readable, but it's effectively a picture of text, not actual text.</p>
+<p>Apri un PDF aspettandoti di copiare un paragrafo, ma quando clicchi e trascini, nulla viene evidenziato. Il cursore scivola sulla pagina come se il testo non fosse lì. Provi Cmd+A per selezionare tutto — niente. Il documento sembra perfettamente leggibile, ma è effettivamente un'immagine del testo, non il testo effettivo.</p>
 
-<h2>Why Some PDFs Won't Let You Select Text</h2>
-<p>This happens with scanned documents, government forms, older academic papers, and PDFs exported from certain design tools. The pages were created from images — either scanned from paper or flattened during export — so the PDF contains raster layers rather than text layers. Preview, Adobe Reader, and every other PDF viewer see the same thing: pixels arranged to look like letters, with no underlying character data to select.</p>
-<p>Some PDFs also have copy protection enabled. The creator set a permission flag that prevents text selection, even though the text layer exists. Standard PDF readers respect this flag, leaving you unable to copy anything.</p>
+<h2>Perché alcuni PDF non ti permettono di selezionare il testo</h2>
+<p>Ciò accade con documenti scansionati, moduli governativi, vecchi documenti accademici e PDF esportati da determinati strumenti di progettazione. Le pagine sono state create da immagini — sia scansionate dalla carta che appiattite durante l'esportazione — quindi il PDF contiene strati raster piuttosto che strati di testo. Preview, Adobe Reader e tutti gli altri visualizzatori PDF vedono la stessa cosa: pixel disposti come lettere, senza dati di caratteri sottostanti da selezionare.</p>
+<p>Alcuni PDF hanno anche la protezione da copia abilitata. Il creatore ha impostato un flag di autorizzazione che impedisce la selezione del testo, anche se lo strato di testo esiste. I lettori PDF standard rispettano questo flag, lasciandoti impossibilitato di copiare qualsiasi cosa.</p>
 
-<h2>Read the Text Right Off the Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> sidesteps both problems. Because it reads characters from your screen rather than from the file's internal structure, it doesn't matter whether the PDF has a text layer, is a scanned image, or has copy restrictions. If you can see the text on your display, Optic can read it.</p>
+<h2>Leggi il testo direttamente dallo schermo</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> agira entrambi i problemi. Perché legge i caratteri dal tuo schermo piuttosto che dalla struttura interna del file, non importa se il PDF ha uno strato di testo, è un'immagine scansionata o ha restrizioni di copia. Se puoi vedere il testo sul tuo display, Optic può leggerlo.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic reading text from a non-selectable PDF on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che legge il testo da un PDF non selezionabile su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Scanned Documents</h3>
-<p>Open the scanned PDF in Preview, zoom to a comfortable reading size, activate Optic, and drag over the text you need. It recognizes printed characters from the scan and copies them as editable text. Works with old typewritten documents, scanned receipts, and photographed pages.</p>
+<h3>Documenti scansionati</h3>
+<p>Apri il PDF scansionato in Preview, zoom a una dimensione di lettura confortevole, attiva Optic e trascina sul testo di cui hai bisogno. Riconosce i caratteri stampati dalla scansione e li copia come testo modificabile. Funziona con vecchi documenti dattilografati, ricevute scansionate e pagine fotografate.</p>
 
-<h3>Protected PDFs</h3>
-<p>For PDFs where the text layer exists but selection is locked, Optic reads the rendered output on screen. You get the same text without fighting permission flags or hunting for PDF-unlocking tools.</p>
+<h3>PDF protetti</h3>
+<p>Per i PDF in cui lo strato di testo esiste ma la selezione è bloccata, Optic legge l'output visualizzato sullo schermo. Ottieni lo stesso testo senza combattere i flag di autorizzazione o cercare strumenti di sblocco PDF.</p>
 
-<h3>Multi-Page Extraction</h3>
-<p>Scroll through the document and make selections on each page. Every capture is saved in Optic's menu bar history, so you can work through a long scanned document page by page and collect all the text you need.</p>
+<h3>Estrazione multi-pagina</h3>
+<p>Scorri il documento e fai selezioni su ogni pagina. Ogni acquisizione viene salvata nella cronologia del menu bar di Optic, quindi puoi lavorare attraverso un lungo documento scansionato pagina per pagina e raccogliere tutto il testo di cui hai bisogno.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "qr-code-reader-mac": {
@@ -128,307 +128,307 @@ export const itArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>Someone shares a QR code in a Slack message. Or a PDF includes one linking to a resource. Or a web page displays a QR code for app download. The code is right there on your Mac screen, but to scan it, you're expected to pull out your phone, open the camera, point it at your monitor, wait for it to focus, and then tap the link — which opens on your phone instead of the computer where you actually need it.</p>
+<p>Qualcuno condivide un codice QR in un messaggio Slack. O un PDF ne include uno che collega a una risorsa. O una pagina web visualizza un codice QR per il download dell'app. Il codice è proprio lì sullo schermo del tuo Mac, ma per scansionarlo, ci si aspetta che estragga il tuo telefono, apra la fotocamera, lo punti verso il tuo monitor, attendi che metta a fuoco, e quindi tocca il collegamento — che si apre sul tuo telefono invece del computer dove effettivamente ne hai bisogno.</p>
 
-<h2>Phones Scan the Real World, Not Screens</h2>
-<p>QR code scanning was designed for phone cameras pointed at physical objects. Using a phone camera to scan your own computer screen is a clumsy workaround: you deal with screen glare, the camera struggles to focus at close range, and the resulting link opens on the wrong device. If you want the URL on your Mac, you then have to AirDrop it or send yourself a message — all to open a link that was already on your Mac.</p>
-<p>macOS has no built-in QR code reader for on-screen content. You can't right-click a QR code in Safari and choose "read code." Preview won't decode one from an open image. There's simply no native path from QR code on screen to decoded content on the same machine.</p>
+<h2>I telefoni scansionano il mondo reale, non gli schermi</h2>
+<p>La scansione del codice QR è stata progettata per le fotocamere dei telefoni puntate verso gli oggetti fisici. Usare la fotocamera del telefono per scansionare il tuo stesso schermo del computer è un workaround goffo: devi affrontare il riflesso dello schermo, la fotocamera ha difficoltà a mettere a fuoco a distanza ravvicinata, e il collegamento risultante si apre sul dispositivo sbagliato. Se desideri l'URL sul tuo Mac, devi quindi AirDroparlo o inviarti un messaggio — il tutto per aprire un collegamento che era già sul tuo Mac.</p>
+<p>macOS non ha un lettore di codici QR integrato per i contenuti sullo schermo. Non puoi fare clic destro su un codice QR in Safari e scegliere "leggi il codice". Preview non decodificherà uno dall'immagine aperta. Semplicemente non esiste un percorso nativo da codice QR sullo schermo al contenuto decodificato sulla stessa macchina.</p>
 
-<h2>Scan QR Codes Directly from Your Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> includes a QR code reader that works on anything visible on your display. Activate it from the menu bar, drag a selection around the QR code, and the decoded content — URL, text, contact info, Wi-Fi credentials — is immediately available on your Mac.</p>
+<h2>Scansiona i codici QR direttamente dal tuo schermo</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> include un lettore di codici QR che funziona su qualsiasi cosa visibile sul tuo display. Attivalo dal menu bar, trascina una selezione attorno al codice QR, e il contenuto decodificato — URL, testo, informazioni di contatto, credenziali Wi-Fi — è immediatamente disponibile sul tuo Mac.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic scanning a QR code from the Mac screen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che scansiona un codice QR dallo schermo Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>QR Codes in Documents and Emails</h3>
-<p>Event tickets, boarding passes, payment confirmations, and setup guides frequently include QR codes. Drag a selection over the code in your email client or PDF viewer and get the decoded content without switching devices.</p>
+<h3>Codici QR in documenti ed e-mail</h3>
+<p>I biglietti degli eventi, le carte d'imbarco, le conferme di pagamento e le guide di configurazione spesso includono codici QR. Trascina una selezione sul codice nel tuo client di posta o visualizzatore PDF e ottieni il contenuto decodificato senza cambiare dispositivo.</p>
 
-<h3>Developer and IT Use Cases</h3>
-<p>Two-factor authentication setup pages show QR codes for TOTP apps. API documentation sometimes encodes endpoints or keys in QR format. Optic lets you decode these directly, keeping your workflow on one screen.</p>
+<h3>Casi di utilizzo per sviluppatori e IT</h3>
+<p>Le pagine di configurazione dell'autenticazione a due fattori mostrano codici QR per le app TOTP. La documentazione dell'API a volte codifica endpoint o chiavi in formato QR. Optic ti permette di decodificarli direttamente, mantenendo il tuo flusso di lavoro su uno schermo.</p>
 
-<h3>Everything Stays in History</h3>
-<p>Decoded QR content is saved alongside your text captures in the menu bar history. Need that Wi-Fi password from a QR code you scanned yesterday? Scroll back through your captures instead of scanning again.</p>
+<h3>Tutto rimane nella cronologia</h3>
+<p>Il contenuto QR decodificato viene salvato insieme alle tue acquisizioni di testo nella cronologia del menu bar. Hai bisogno della password Wi-Fi da un codice QR che hai scansionato ieri? Scorri indietro attraverso le tue acquisizioni invece di scansionare di nuovo.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "ocr-text-from-video-mac": {
     slug: "ocr-text-from-video-mac",
-    title: "Come eseguire OCR del testo da un video o stream su Mac",
-    description: "Un tutorial mostra un comando di terminale, uno stream lampeggia un URL, una lezione mostra una formula — e non puoi mettere in pausa abbastanza velocemente per digitare tutto.",
+    title: "Come fare OCR del testo da un video o stream su Mac",
+    description: "Un tutorial mostra un comando di terminal, un stream fa lampeggiare un URL, una lezione visualizza una formula — e non puoi mettere in pausa abbastanza velocemente per digitare tutto.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You're watching a coding tutorial and the instructor pastes a long terminal command on screen. Or a live stream briefly shows a discount code. Or a recorded lecture displays a complex equation. The text is clearly visible for a few seconds, but there's no way to select it from the video player. You pause, squint, and start typing — hoping you catch every character before the content moves on.</p>
+<p>Stai guardando un tutorial di codifica e l'istruttore incolla un lungo comando di terminal sullo schermo. O uno stream live mostra brevemente un codice di sconto. O una lezione registrata visualizza un'equazione complessa. Il testo è chiaramente visibile per pochi secondi, ma non c'è modo di selezionarlo dal lettore video. Metti in pausa, strizza gli occhi e inizi a digitare — sperando di catturare ogni carattere prima che il contenuto avanzi.</p>
 
-<h2>Video Players Don't Expose Text</h2>
-<p>Whether you're watching in Safari, Chrome, VLC, QuickTime, or any streaming app, the video frame is a rendered image. There's no text layer to interact with. Subtitles might be selectable in some players, but on-screen text that's part of the video content — code, URLs, titles, data — is permanently baked into the pixel stream.</p>
-<p>Pausing helps, but you still have to manually transcribe what you see. For long commands, URLs with query parameters, or technical content with special characters, manual transcription is slow and unreliable. One wrong character in a terminal command or URL and it fails silently.</p>
+<h2>I lettori video non espongono il testo</h2>
+<p>Indipendentemente dal fatto che tu stia guardando in Safari, Chrome, VLC, QuickTime o qualsiasi app in streaming, la cornice video è un'immagine visualizzata. Non c'è uno strato di testo con cui interagire. I sottotitoli potrebbero essere selezionabili in alcuni lettori, ma il testo sullo schermo che fa parte del contenuto video — codice, URL, titoli, dati — è permanentemente incorporato nel flusso di pixel.</p>
+<p>La messa in pausa aiuta, ma devi comunque trascrivere manualmente ciò che vedi. Per comandi lunghi, URL con parametri di query o contenuti tecnici con caratteri speciali, la trascrizione manuale è lenta e inaffidabile. Un carattere sbagliato in un comando di terminal o URL e fallisce silenziosamente.</p>
 
-<h2>Capture Text from Any Video Frame</h2>
-<p>With <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a>, you pause the video (or don't — it works on moving content too), activate the tool from your menu bar, and drag a selection over the text visible in the video frame. The characters are recognized and copied to your clipboard instantly.</p>
+<h2>Cattura il testo da qualsiasi cornice video</h2>
+<p>Con <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a>, metti in pausa il video (o non lo fare — funziona su contenuti in movimento anche), attiva lo strumento dal menu bar e trascina una selezione sul testo visibile nella cornice video. I caratteri vengono riconosciuti e inseriti negli appunti istantaneamente.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic reading text from a video on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che legge il testo da un video su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Coding Tutorials</h3>
-<p>Terminal commands, configuration snippets, file paths, and package names shown in video tutorials — grab them with one selection instead of pausing and retyping. Especially valuable for long install commands or multi-line configs.</p>
+<h3>Tutorial di codifica</h3>
+<p>Comandi di terminal, frammenti di configurazione, percorsi di file e nomi di pacchetti mostrati nei tutorial video — prendili con una selezione invece di mettere in pausa e riscrivere. Particolarmente prezioso per comandi di installazione lunghi o configurazioni multi-riga.</p>
 
-<h3>Live Streams and Webinars</h3>
-<p>Presenters often flash URLs, promo codes, or contact details on screen for just a few seconds. Optic captures whatever's visible at the moment you select it, so you don't need lightning-fast typing to catch ephemeral information.</p>
+<h3>Stream live e webinar</h3>
+<p>I relatori spesso fanno lampeggiare URL, codici promozionali o dettagli di contatto sullo schermo solo per pochi secondi. Optic cattura qualsiasi cosa visibile nel momento in cui la selezioni, quindi non hai bisogno di digitazione fulminea per catturare informazioni effimere.</p>
 
-<h3>Lectures and Presentations</h3>
-<p>Recorded lectures display formulas, citations, and references that would take significant effort to retype. Drag over the relevant section and paste the extracted text directly into your notes.</p>
+<h3>Lezioni e presentazioni</h3>
+<p>Le lezioni registrate visualizzano formule, citazioni e riferimenti che richiederebbero uno sforzo significativo per riscrivere. Trascina sulla sezione rilevante e incolla il testo estratto direttamente nelle tue note.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-error-message-from-dialog-mac": {
     slug: "copy-error-message-from-dialog-mac",
-    title: "Come copiare i messaggi di errore dai dialoghi su Mac",
-    description: "Una finestra di dialogo di errore appare con un messaggio tecnico e nessun pulsante di copia. Ti ritrovi a riscrivere codici di errore senza senso solo per cercare una soluzione.",
+    title: "Come copiare i messaggi di errore dalle finestre di dialogo su Mac",
+    description: "Una finestra di dialogo di errore appare con un messaggio tecnico e nessun pulsante di copia. Ti ritrovi a riscrivere codici di errore senza senso solo per cercare una correzione.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>An app crashes and a dialog appears with a cryptic error message: a code, a file path, maybe a stack trace reference. You need to Google that exact string to find a fix. But the dialog has two buttons — OK and Cancel — and no way to select or copy the text. So you grab your phone, take a photo of the screen, and squint at it while retyping the error into a search bar. Or you start scribbling it on a sticky note, character by character.</p>
+<p>Un'app si arresta in modo anomalo e appare una finestra di dialogo con un messaggio di errore crittografico: un codice, un percorso di file, forse un riferimento di traccia dello stack. Hai bisogno di cercare quella stringa esatta su Google per trovare una correzione. Ma la finestra di dialogo ha due pulsanti — OK e Annulla — e nessun modo per selezionare o copiare il testo. Quindi afferri il tuo telefono, scatta una foto dello schermo e strizza gli occhi mentre riscrivere l'errore in una barra di ricerca. Oppure inizi a scarabocchiare su un foglietto adesivo, carattere per carattere.</p>
 
-<h2>macOS Dialogs Rarely Let You Copy Text</h2>
-<p>Most error dialogs, alert windows, and system prompts on macOS render their text as static labels. You can't click into them, can't highlight a portion, can't right-click for a copy option. This is true for native macOS alerts, third-party app dialogs, installer error windows, and crash reporters. The more technical and important the error text, the more likely it is trapped in a non-selectable label.</p>
-<p>This is especially frustrating for IT support and troubleshooting. You need the exact error text to search for solutions, file a bug report, or communicate with support teams. Paraphrasing an error code — or mistyping one character — leads you to irrelevant results.</p>
+<h2>I dialoghi di macOS raramente ti permettono di copiare il testo</h2>
+<p>La maggior parte dei dialoghi di errore, delle finestre di avviso e dei prompt di sistema su macOS visualizzano il testo come etichette statiche. Non puoi fare clic su di esse, non puoi evidenziare una porzione, non puoi fare clic destro per un'opzione di copia. Questo è vero per gli avvisi nativi di macOS, i dialoghi di app di terze parti, le finestre di errore del programma di installazione e i reporter di arresti anomali. Più il testo di errore è tecnico e importante, più è probabile che sia intrappolato in un'etichetta non selezionabile.</p>
+<p>Questo è particolarmente frustrante per il supporto IT e la risoluzione dei problemi. Hai bisogno del testo di errore esatto per cercare soluzioni, presentare un rapporto sui bug o comunicare con i team di supporto. Parafrasare un codice di errore — o digfare male un carattere — ti porta a risultati irrilevanti.</p>
 
-<h2>Select the Error Text Right from the Dialog</h2>
-<p>When the error dialog appears, keep it open and activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar. Drag a selection over the error message text in the dialog. Optic reads the characters and copies them to your clipboard — exact string, exact punctuation, exact capitalization.</p>
+<h2>Seleziona il testo di errore direttamente dalla finestra di dialogo</h2>
+<p>Quando appare la finestra di dialogo di errore, mantienila aperta e attiva <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> dal menu bar. Trascina una selezione sul testo del messaggio di errore nella finestra di dialogo. Optic legge i caratteri e li copia negli appunti — stringa esatta, punteggiatura esatta, capitalizzazione esatta.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic copying an error message from a dialog on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che copia un messaggio di errore da una finestra di dialogo su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Search for Solutions Instantly</h3>
-<p>Paste the exact error string into Google, Stack Overflow, or an Apple support forum. Exact-match searches surface relevant results far more reliably than paraphrased descriptions of what the error said.</p>
+<h3>Cerca soluzioni istantaneamente</h3>
+<p>Incolla la stringa di errore esatta su Google, Stack Overflow o un forum di supporto Apple. Le ricerche corrispondenti esatte fanno emergere risultati rilevanti in modo molto più affidabile rispetto alle descrizioni parafrasate di ciò che dice l'errore.</p>
 
-<h3>Bug Reports and Support Tickets</h3>
-<p>Include the precise error text in bug reports or support emails. Developers and support agents can identify issues much faster with the actual error string instead of a user's interpretation of it.</p>
+<h3>Rapporti sui bug e ticket di supporto</h3>
+<p>Includi il testo di errore preciso nei rapporti sui bug o nelle email di supporto. Gli sviluppatori e gli agenti di supporto possono identificare i problemi molto più velocemente con la stringa di errore effettiva invece dell'interpretazione dell'utente.</p>
 
-<h3>Recurring Errors</h3>
-<p>Optic saves every capture to its menu bar history. If the same error keeps appearing, you have a timestamped record of each occurrence without needing to screenshot every dialog.</p>
+<h3>Errori ricorrenti</h3>
+<p>Optic salva ogni acquisizione nella cronologia del menu bar. Se lo stesso errore continua ad apparire, hai un record con data e ora di ogni occorrenza senza dover fare uno screenshot di ogni finestra di dialogo.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "mac-live-text-limitations": {
     slug: "mac-live-text-limitations",
-    title: "Limitazioni di Live Text su Mac — Cosa non può fare",
-    description: "Live Text di Apple funziona in pochi posti ma fallisce silenziosamente in molti altri. Se fai affidamento su di esso per OCR dello schermo, colpirai muri velocemente.",
+    title: "Limitazioni di Mac Live Text — Cosa non può fare",
+    description: "Il Live Text di Apple funziona in pochi posti ma fallisce silenziosamente in molti altri dove effettivamente ne hai bisogno. Se fai affidamento su di esso per OCR dello schermo, colpirai i muri velocemente.",
     date: "2026-09-06",
     readTime: "5 min di lettura",
     content: `
-<p>Apple introduced Live Text as a system-level feature that recognizes text in images. In theory, it sounds like it solves the "can't select text in images" problem. In practice, it works in a narrow set of scenarios and silently does nothing in many situations where you actually need it.</p>
+<p>Apple ha introdotto Live Text come una funzione a livello di sistema che riconosce il testo nelle immagini. In teoria, sembra che risolva il problema "non puoi selezionare il testo nelle immagini". In pratica, funziona in una serie ristretta di scenari e fallisce silenziosamente in molte situazioni in cui effettivamente ne hai bisogno.</p>
 
-<h2>Where Live Text Falls Short</h2>
-<p>Live Text works inside Photos, Preview, Safari (on some images), and Quick Look. That's roughly where its reach ends. Here are the common situations where it can't help:</p>
-<p><strong>Video frames.</strong> Live Text does not operate on video content. If text appears in a YouTube video, a Zoom screen share, a QuickTime recording, or any streaming player, Live Text won't recognize it. You're back to manual transcription.</p>
-<p><strong>App interfaces and dialogs.</strong> Text rendered as labels in app UIs, error dialogs, menu items, and custom controls is invisible to Live Text. It only activates on embedded images, not on arbitrary screen content.</p>
-<p><strong>Web apps with canvas or SVG text.</strong> Many modern web apps render text using canvas elements or SVG — dashboards, data tools, design apps. Live Text doesn't reach into these rendering contexts.</p>
-<p><strong>Non-selectable PDFs.</strong> While Preview can sometimes recognize text in image-based PDFs, the results are inconsistent and depend on scan quality, page complexity, and PDF structure. Many scanned documents simply show no Live Text interaction at all.</p>
-<p><strong>Copy-protected content.</strong> Live Text respects DRM and copy restrictions. If an app or document has disabled text selection, Live Text follows suit.</p>
-<p><strong>No capture history.</strong> Live Text has no memory. Every recognition is ephemeral. If you close the image or navigate away, the recognized text is gone. There's no log or history of what you've extracted.</p>
+<h2>Dove Live Text non è all'altezza</h2>
+<p>Live Text funziona all'interno di Foto, Preview, Safari (su alcune immagini) e Quick Look. Questo è grosso modo il punto in cui la sua portata finisce. Ecco le situazioni comuni in cui non può aiutare:</p>
+<p><strong>Cornici video.</strong> Live Text non funziona sul contenuto video. Se il testo appare in un video di YouTube, una condivisione dello schermo Zoom, una registrazione QuickTime o qualsiasi lettore in streaming, Live Text non lo riconoscerà. Sei di nuovo alla trascrizione manuale.</p>
+<p><strong>Interfacce e finestre di dialogo dell'app.</strong> Il testo visualizzato come etichette nelle interfacce utente dell'app, i dialoghi di errore, gli elementi del menu e i controlli personalizzati sono invisibili a Live Text. Si attiva solo su immagini incorporate, non su contenuto arbitrario dello schermo.</p>
+<p><strong>App web con testo canvas o SVG.</strong> Molte app web moderne visualizzano il testo utilizzando elementi canvas o SVG — dashboard, strumenti dati, app di progettazione. Live Text non raggiunge questi contesti di rendering.</p>
+<p><strong>PDF non selezionabili.</strong> Mentre Preview a volte può riconoscere il testo nei PDF basati su immagini, i risultati sono incoerenti e dipendono dalla qualità della scansione, dalla complessità della pagina e dalla struttura del PDF. Molti documenti scansionati semplicemente non mostrano alcuna interazione Live Text.</p>
+<p><strong>Contenuto protetto dalla copia.</strong> Live Text rispetta DRM e restrizioni di copia. Se un'app o un documento ha disabilitato la selezione del testo, Live Text lo segue.</p>
+<p><strong>Nessuna cronologia di acquisizione.</strong> Live Text non ha memoria. Ogni riconoscimento è effimero. Se chiudi l'immagine o navighi via, il testo riconosciuto è sparito. Non c'è registro o cronologia di ciò che hai estratto.</p>
 
-<h2>Screen-Level OCR Without These Limits</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> works at the screen level rather than the file or image level. It reads characters from whatever is visible on your display — any app, any source, any context. Video frames, dialog boxes, web app canvases, locked PDFs, remote desktop sessions — if you can see text, Optic can read it.</p>
+<h2>OCR a livello di schermo senza questi limiti</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> funziona a livello di schermo piuttosto che a livello di file o immagine. Legge i caratteri da qualsiasi cosa visibile sul tuo display — qualsiasi app, qualsiasi fonte, qualsiasi contesto. Cornici video, finestre di dialogo, canvas di app web, PDF bloccati, sessioni di desktop remoto — se puoi vedere il testo, Optic può leggerlo.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic overcoming Live Text limitations on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che supera le limitazioni di Live Text su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>History and Text-to-Speech</h3>
-<p>Unlike Live Text, Optic saves every capture in a persistent history accessible from the menu bar. It also includes text-to-speech, letting you hear captured text read aloud — useful for proofreading or accessibility.</p>
+<h3>Cronologia e sintesi vocale</h3>
+<p>A differenza di Live Text, Optic salva ogni acquisizione in una cronologia persistente accessibile dal menu bar. Include anche la sintesi vocale, consentendoti di ascoltare il testo acquisito letto ad alta voce — utile per la correzione o l'accessibilità.</p>
 
-<h3>QR Code Scanning</h3>
-<p>Live Text can read QR codes in some image contexts, but not from video, screen shares, or arbitrary app windows. Optic scans QR codes from anywhere on your screen and decodes them instantly.</p>
+<h3>Scansione del codice QR</h3>
+<p>Live Text può leggere i codici QR in alcuni contesti di immagine, ma non da video, condivisioni dello schermo o finestre di app arbitrarie. Optic scansiona i codici QR da qualsiasi parte del tuo schermo e li decodifica istantaneamente.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "textsniper-alternative-mac": {
     slug: "textsniper-alternative-mac",
     title: "Alternativa TextSniper per Mac",
-    description: "Stai cercando uno strumento OCR dello schermo che vada oltre la cattura di testo di base — con scansione di codici QR, cronologia di cattura e sintesi vocale integrata.",
+    description: "Stai cercando uno strumento OCR dello schermo che vada oltre l'acquisizione di testo di base — con scansione di codici QR, cronologia di acquisizione e sintesi vocale integrata.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>TextSniper popularized the idea of screen-level OCR on Mac: draw a rectangle, grab the text. It's a simple concept that solves a real problem. But if you've used it and found yourself wanting more — a history of past captures, QR code support, or the ability to hear extracted text read aloud — you've likely looked for alternatives.</p>
+<p>TextSniper ha reso popolare l'idea dell'OCR a livello di schermo su Mac: disegna un rettangolo, afferra il testo. È un concetto semplice che risolve un problema reale. Ma se lo hai usato e ti sei trovato a volere di più — una cronologia delle acquisizioni precedenti, supporto per codici QR o la possibilità di sentire il testo estratto letto ad alta voce — probabilmente hai cercato alternative.</p>
 
-<h2>What's Missing in Basic Screen OCR</h2>
-<p>Most screen OCR tools handle the core capture well: activate a shortcut, drag a region, get text on your clipboard. But the workflow around that single action matters just as much.</p>
-<p><strong>No capture history.</strong> You extract text, paste it somewhere, and the capture is gone. Ten minutes later you need that same text again, and you have to re-scan. If you forgot to paste immediately, the next thing you copy overwrites it.</p>
-<p><strong>No QR code reading.</strong> QR codes on your screen — in emails, documents, web pages — require a separate tool or your phone's camera. A screen capture tool that can decode QR codes saves you from juggling devices.</p>
-<p><strong>No text-to-speech.</strong> Sometimes you need to hear text rather than read it — for proofreading, accessibility, or multitasking. Basic OCR tools stop at clipboard output.</p>
+<h2>Cosa manca nell'OCR dello schermo di base</h2>
+<p>La maggior parte degli strumenti OCR dello schermo gestisce bene l'acquisizione principale: attiva un collegamento, trascina una regione, ottieni il testo negli appunti. Ma il flusso di lavoro attorno a quella singola azione è altrettanto importante.</p>
+<p><strong>Nessuna cronologia di acquisizione.</strong> Estrai testo, lo incolli da qualche parte, e l'acquisizione è sparita. Dieci minuti dopo hai bisogno di quello stesso testo di nuovo, e devi riscansionare. Se hai dimenticato di incollare immediatamente, la prossima cosa che copi lo sovrascrive.</p>
+<p><strong>Nessuna lettura del codice QR.</strong> I codici QR sullo schermo — in email, documenti, pagine web — richiedono uno strumento separato o la fotocamera del tuo telefono. Uno strumento di acquisizione dello schermo che può decodificare i codici QR ti fa evitare di fare il juggling con i dispositivi.</p>
+<p><strong>Nessuna sintesi vocale.</strong> A volte hai bisogno di sentire il testo piuttosto che leggerlo — per la correzione, l'accessibilità o il multitasking. Gli strumenti OCR di base si fermano all'output degli appunti.</p>
 
-<h2>Optic: Screen OCR with the Full Workflow</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> handles the same core OCR capture — drag to select any text on screen from any source — and adds the features that make screen OCR actually useful day to day.</p>
+<h2>Optic: OCR dello schermo con il flusso di lavoro completo</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> gestisce la stessa acquisizione OCR principale — trascina per selezionare qualsiasi testo sullo schermo da qualsiasi fonte — e aggiunge le funzioni che rendono l'OCR dello schermo effettivamente utile giorno per giorno.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic as a TextSniper alternative for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic come alternativa TextSniper per Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Capture History in the Menu Bar</h3>
-<p>Every text extraction and QR scan is saved and accessible from the menu bar. Scroll back through previous captures, re-copy something from an hour ago, or review a series of extractions from a research session. No more losing text because you copied something else.</p>
+<h3>Cronologia di acquisizione nella barra dei menu</h3>
+<p>Ogni estrazione di testo e scansione QR viene salvata e accessibile dal menu bar. Scorri indietro attraverso le acquisizioni precedenti, ricopia qualcosa da un'ora fa o rivedi una serie di estrazioni da una sessione di ricerca. Non perdere più testo perché hai copiato qualcos'altro.</p>
 
-<h3>Built-In QR Code Scanner</h3>
-<p>Draw a selection around any QR code visible on your screen and Optic decodes it. URLs, Wi-Fi credentials, contact cards, plain text — whatever the code contains appears immediately, no phone required.</p>
+<h3>Scanner di codici QR integrato</h3>
+<p>Disegna una selezione attorno a qualsiasi codice QR visibile sullo schermo e Optic lo decodifica. URL, credenziali Wi-Fi, schede di contatto, testo semplice — qualunque cosa il codice contiene appare immediatamente, nessun telefono richiesto.</p>
 
-<h3>Text-to-Speech</h3>
-<p>Any captured text can be read aloud. Useful for catching OCR errors by ear, for accessibility needs, or for listening to extracted content while you work on something else.</p>
+<h3>Sintesi vocale</h3>
+<p>Qualsiasi testo acquisito può essere letto ad alta voce. Utile per catturare errori di OCR leggendo, per esigenze di accessibilità o per ascoltare il contenuto estratto mentre lavori su qualcos'altro.</p>
 
-<h3>Menu Bar Native</h3>
-<p>Optic lives in the menu bar and stays out of your way until you need it. No dock icon, no main window to manage — just a lightweight tool that's always one click or shortcut away.</p>
+<h3>Nativo della barra dei menu</h3>
+<p>Optic vive nella barra dei menu e rimane fuori dai piedi fino a quando non ne hai bisogno. Nessuna icona del Dock, nessuna finestra principale da gestire — solo uno strumento leggero che è sempre a un clic o un collegamento di distanza.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-code-from-screenshot-mac": {
     slug: "copy-code-from-screenshot-mac",
     title: "Come copiare il codice da uno screenshot su Mac",
-    description: "Un tutorial, un tweet o una documentazione mostra il codice come immagine. Riscriverlo introduce bug. Ecco come estrarlo come testo selezionabile.",
+    description: "Un tutorial, un tweet o la documentazione mostra il codice come un'immagine. Riscrivere introduce bug. Ecco come estrarlo come testo selezionabile.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>A developer shares a code snippet as a screenshot on Twitter. A tutorial blog post renders its examples as images instead of code blocks. Documentation for an internal tool exists only as screenshots of a terminal. The code is perfectly readable, but it's trapped inside an image — and retyping code from a picture is one of the most reliable ways to introduce invisible bugs.</p>
+<p>Uno sviluppatore condivide un frammento di codice come screenshot su Twitter. Un post di un blog tutorial rende i suoi esempi come immagini invece di blocchi di codice. La documentazione per uno strumento interno esiste solo come screenshot di un terminale. Il codice è perfettamente leggibile, ma è intrappolato all'interno di un'immagine — e riscrivere il codice da un'immagine è uno dei modi più affidabili per introdurre bug invisibili.</p>
 
-<h2>Why Retyping Code from Images Fails</h2>
-<p>Code is unforgiving about precision. A missing semicolon, a lowercase L confused with the digit 1, a curly brace versus a parenthesis, an en-dash instead of a hyphen — any of these will break your code silently. When you retype from a screenshot, you're doing character-by-character visual parsing at a pace that invites exactly these mistakes.</p>
-<p>The problem is widespread. Social media platforms convert code to images for prettier rendering. Older documentation was never migrated from screenshots. Slack and Teams messages with code often get screenshotted and forwarded. Internal wikis accumulate years of pasted terminal screenshots that no one has transcribed.</p>
+<h2>Perché riscrivere il codice dalle immagini fallisce</h2>
+<p>Il codice è sfumato sulla precisione. Un punto e virgola mancante, una "l" minuscola confusa con la cifra 1, una parentesi graffa versus una parentesi, un trattino en invece di un trattino — qualsiasi di questi romperà il tuo codice silenziosamente. Quando riscrivi da uno screenshot, stai facendo parsing visivo carattere per carattere a un ritmo che invita esattamente questi errori.</p>
+<p>Il problema è diffuso. Le piattaforme di social media convertono il codice in immagini per un rendering più bello. La documentazione più vecchia non è mai stata migrata da screenshot. I messaggi Slack e Teams con il codice vengono spesso screenshotati e inoltrati. I wiki interni accumulano anni di screenshot terminali incollati che nessuno ha trascritto.</p>
 
-<h2>Extract Code Directly from the Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> reads the code characters right off your screen. Open the screenshot or the page containing the code image, activate Optic from the menu bar, and drag a selection over the code. The extracted text goes to your clipboard, ready to paste into your editor or terminal.</p>
+<h2>Estrai il codice direttamente dallo schermo</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> legge i caratteri del codice direttamente dal tuo schermo. Apri lo screenshot o la pagina contenente l'immagine di codice, attiva Optic dal menu bar e trascina una selezione sul codice. Il testo estratto va negli appunti, pronto per incollare nel tuo editor o terminale.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic extracting code from a screenshot on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che estrae il codice da uno screenshot su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Terminal Commands</h3>
-<p>Long install commands, Docker run statements, curl requests with multiple flags — these are commonly shared as screenshots. One drag with Optic extracts the entire command, preserving special characters, flags, and paths that are easy to mistype.</p>
+<h3>Comandi di terminal</h3>
+<p>Comandi di installazione lunghi, istruzioni di esecuzione Docker, richieste curl con più flag — questi sono comunemente condivisi come screenshot. Un trascinamento con Optic estrae l'intero comando, preservando i caratteri speciali, i flag e i percorsi che sono facili da digitare male.</p>
 
-<h3>Code Snippets from Social Media</h3>
-<p>Twitter, LinkedIn, and Instagram posts often render code as images using tools like Carbon or Ray.so. Optic extracts the code from these styled screenshots just as easily as from plain terminal output.</p>
+<h3>Frammenti di codice dai social media</h3>
+<p>Twitter, LinkedIn e Instagram spesso visualizzano il codice come immagini utilizzando strumenti come Carbon o Ray.so. Optic estrae il codice da questi screenshot in stile proprio come dall'output terminale semplice.</p>
 
-<h3>Multi-Line Extraction</h3>
-<p>Select a block of code spanning multiple lines and Optic preserves the line structure. Paste it into your editor and the code maintains its shape — no manual reformatting needed. Each capture is saved in your menu bar history, so you can extract several snippets from a tutorial and paste them one by one.</p>
+<h3>Estrazione multi-riga</h3>
+<p>Seleziona un blocco di codice che si estende su più righe e Optic preserva la struttura della riga. Incolla nel tuo editor e il codice mantiene la sua forma — nessuna riformattazione manuale necessaria. Ogni acquisizione viene salvata nella cronologia del menu bar, quindi puoi estrarre più frammenti da un tutorial e incollarli uno per uno.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "read-text-aloud-from-screen-mac": {
     slug: "read-text-aloud-from-screen-mac",
     title: "Leggi il testo ad alta voce da qualsiasi contenuto dello schermo su Mac",
-    description: "Vuoi ascoltare il testo sullo schermo letto ad alta voce — da un'immagine, un documento bloccato, un fotogramma video — ma il discorso incorporato del tuo Mac funziona solo su testo selezionabile.",
+    description: "Vuoi sentire il testo sullo schermo letto ad alta voce — da un'immagine, un documento bloccato, una cornice video — ma il sintetizzatore vocale integrato del tuo Mac funziona solo sul testo selezionabile.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>macOS has a built-in "Speak Selection" feature: highlight text, right-click, and choose "Speech." It works well — when the text is selectable. But the moment you need text read aloud from an image, a scanned PDF, a video frame, or a non-interactive UI element, the speech feature has nothing to work with. You can't speak what you can't select.</p>
+<p>macOS ha una funzione "Speak Selection" integrata: evidenzia il testo, fai clic destro e scegli "Speech". Funziona bene — quando il testo è selezionabile. Ma nel momento in cui hai bisogno che il testo da un'immagine, un PDF scansionato, una cornice video o un elemento UI non interattivo sia letto ad alta voce, la funzione di sintesi vocale non ha nulla con cui lavorare. Non puoi pronunciare quello che non puoi selezionare.</p>
 
-<h2>The Gap Between Screen Content and Speech</h2>
-<p>Many situations call for having screen text read aloud. Proofreading catches errors your eyes skip. Multitasking benefits from audio — you can listen to extracted content while working on something else. Accessibility needs extend to content that isn't natively selectable. Language learners benefit from hearing unfamiliar text pronounced.</p>
-<p>But the built-in speech tools only operate on standard text selections. If the text is in an image, rendered as a graphic in a web app, displayed in a video, or locked inside a scanned document, macOS offers no path from "visible on screen" to "read aloud." You'd need to manually transcribe the text first, which defeats the purpose.</p>
+<h2>Il divario tra il contenuto dello schermo e la sintesi vocale</h2>
+<p>Molte situazioni richiedono che il testo dello schermo sia letto ad alta voce. La correzione di bozze cattura gli errori che i tuoi occhi saltano. Il multitasking beneficia dell'audio — puoi ascoltare il contenuto estratto mentre lavori su qualcos'altro. Le esigenze di accessibilità si estendono al contenuto che non è nativamente selezionabile. I discenti di lingue traggono beneficio dall'udire il testo non familiare pronunciato.</p>
+<p>Ma gli strumenti di sintesi vocale integrati funzionano solo su selezioni di testo standard. Se il testo è in un'immagine, visualizzato come grafica in un'app web, visualizzato in un video o bloccato all'interno di un documento scansionato, macOS non offre alcun percorso da "visibile sullo schermo" a "pronunciato ad alta voce". Dovresti trascrivere manualmente il testo per primo, il che sconfigge lo scopo.</p>
 
-<h2>Select Any Text, Hear It Spoken</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> combines screen-level OCR with text-to-speech. Activate it from the menu bar, drag over any visible text — regardless of its source — and you can have the captured text read aloud. No manual transcription, no dependency on the text being natively selectable.</p>
+<h2>Seleziona qualsiasi testo, ascoltalo parlato</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> combina OCR a livello di schermo con sintesi vocale. Attivalo dal menu bar, trascina su qualsiasi testo visibile — indipendentemente dalla sua fonte — e puoi ascoltare il testo acquisito letto ad alta voce. Nessuna trascrizione manuale, nessuna dipendenza dal testo nativamente selezionabile.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic reading text aloud from screen content on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che legge il testo ad alta voce da contenuto dello schermo su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Proofreading OCR Results</h3>
-<p>After extracting text from a scan or image, hearing it read aloud helps you catch OCR errors that look correct on screen. A misread letter or a garbled word becomes obvious when spoken but might slip past visual review.</p>
+<h3>Correzione di bozze sui risultati OCR</h3>
+<p>Dopo aver estratto il testo da una scansione o un'immagine, ascoltarlo letto ad alta voce ti aiuta a catturare gli errori di OCR che sembrano corretti sullo schermo. Una lettera mal letta o una parola contorta diventa ovvia quando pronunciata ma potrebbe sfuggire alla revisione visiva.</p>
 
-<h3>Accessibility</h3>
-<p>For users who rely on screen readers, content trapped in images and non-selectable formats creates barriers. Optic bridges that gap by converting any visible text into both clipboard text and spoken audio, making previously inaccessible content available.</p>
+<h3>Accessibilità</h3>
+<p>Per gli utenti che si affidano alle letture dello schermo, il contenuto intrappolato in immagini e formati non selezionabili crea barriere. Optic colma quel divario convertendo qualsiasi testo visibile sia in testo negli appunti che in audio parlato, rendendo il contenuto precedentemente inaccessibile disponibile.</p>
 
-<h3>Multitasking and Language Learning</h3>
-<p>Extract a passage from a document or web page and listen to it while you cook, commute, or exercise. Language learners can hear unfamiliar words pronounced correctly by selecting text in a foreign language and using the speech output.</p>
+<h3>Multitasking e apprendimento della lingua</h3>
+<p>Estrai un passaggio da un documento o una pagina web e ascoltalo mentre cucini, commuti o fai esercizio. I discenti di lingue possono ascoltare parole non familiari pronunciate correttamente selezionando il testo in una lingua straniera e utilizzando l'output di sintesi vocale.</p>
 
-<h3>Capture History with Speech</h3>
-<p>Since every capture is saved in the menu bar history, you can return to a previous extraction and have it read aloud again — useful for reviewing notes or revisiting content from earlier in your session.</p>
+<h3>Cronologia di acquisizione con sintesi vocale</h3>
+<p>Poiché ogni acquisizione viene salvata nella cronologia del menu bar, puoi tornare a un'estrazione precedente e ascoltarla letta ad alta voce di nuovo — utile per rivedere le note o rivisitare il contenuto da una fase precedente della tua sessione.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "ocr-receipts-mac": {
     slug: "ocr-receipts-mac",
-    title: "OCR ricevute su Mac — Estrai il testo da foto di ricevute",
-    description: "Hai fotografato una ricevuta per la segnalazione delle spese, ma ora hai bisogno del nome del fornitore, del totale e della data come testo copiabile — non una foto da cui devi riscrivere.",
+    title: "OCR Ricevute su Mac — Estrai testo da foto di ricevute",
+    description: "Hai fotografato una ricevuta per le spese di segnalazione, ma ora hai bisogno del nome del fornitore, del totale e della data come testo copiabile — non una foto da cui devi riscrivere tutto.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You snap a photo of a lunch receipt because you'll need it for expenses later. Or you receive a scanned receipt via email. The information you need — vendor name, date, itemized totals, tax amounts — is all there in the image, but when it's time to fill out the expense report, you're squinting at a photo and manually typing every line. One transposed digit in the total and your report gets flagged.</p>
+<p>Scatti una foto di una ricevuta di pranzo perché ne avrai bisogno per le spese più tardi. O ricevi una ricevuta scansionata via email. Le informazioni di cui hai bisogno — nome del fornitore, data, totali articolati, importi fiscali — sono tutte lì nell'immagine, ma quando è il momento di compilare il rapporto sulle spese, stai strizzando gli occhi a una foto e digitando manualmente ogni riga. Un numero trascritto male nel totale e il tuo rapporto viene segnalato.</p>
 
-<h2>Why Receipt Photos Are So Hard to Work With</h2>
-<p>Receipts are among the worst candidates for manual transcription. They use small fonts, inconsistent spacing, and abbreviations. Thermal paper fades quickly, making older receipts even harder to read. And every expense system wants structured data — vendor, date, amount — not a JPEG attachment.</p>
-<p>macOS has no built-in tool that extracts text from a receipt photo and puts it on your clipboard. Preview shows you the image. Photos organizes it. Neither of them lets you select the printed text and copy it. Third-party expense scanners exist, but they're heavyweight apps designed for enterprise workflows, not for quickly grabbing a total from a photo.</p>
+<h2>Perché le foto delle ricevute sono così difficili da usare</h2>
+<p>Le ricevute sono tra i candidati peggiori per la trascrizione manuale. Usano caratteri piccoli, spaziatura incoerente e abbreviazioni. La carta termica sbiadisce rapidamente, rendendo le ricevute più vecchie ancora più difficili da leggere. E ogni sistema di spesa vuole dati strutturati — fornitore, data, importo — non un allegato JPEG.</p>
+<p>macOS non ha alcuno strumento integrato che estrae il testo da una foto di ricevuta e lo mette negli appunti. Preview mostra l'immagine. Le foto lo organizzano. Nessuno di loro ti permette di selezionare il testo stampato e copiarlo. Esistono app di scansione delle spese di terze parti, ma la maggior parte sono app pesanti progettate per flussi di lavoro aziendali, non per afferrare rapidamente un totale da una foto.</p>
 
-<h2>Drag Over the Receipt, Get the Text</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> reads text directly from your screen. Open the receipt photo in any viewer — Preview, Quick Look, a browser, even your email client — activate Optic from the menu bar, and drag a selection over the portion of the receipt you need. The recognized characters land on your clipboard, ready to paste into a spreadsheet or expense form.</p>
+<h2>Trascina sulla ricevuta, ottieni il testo</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> legge il testo direttamente dal tuo schermo. Apri la foto della ricevuta in qualsiasi visualizzatore — Preview, Quick Look, un browser, persino il tuo client di posta — attiva Optic dal menu bar e trascina una selezione sulla parte della ricevuta di cui hai bisogno. I caratteri riconosciuti finiscono negli appunti, pronti per incollare in un foglio di calcolo o modulo di spesa.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic extracting text from a receipt photo on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che estrae il testo da una foto di ricevuta su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Expense Reports</h3>
-<p>Select the vendor name and total from a receipt image and paste them directly into your expense tracking tool. No retyping, no transposition errors. Grab individual line items or the entire receipt — each capture is saved in your menu bar history for reference.</p>
+<h3>Rapporti sulle spese</h3>
+<p>Seleziona il nome del fornitore e il totale da una foto di ricevuta e incolla direttamente nello strumento di tracciamento delle spese. Nessuna riscrittura, nessun errore di trasposizione. Afferrai singoli elementi di riga o l'intera ricevuta — ogni acquisizione viene salvata nella cronologia del menu bar per il riferimento.</p>
 
-<h3>Tax and Bookkeeping</h3>
-<p>Freelancers and small business owners accumulate receipt photos throughout the year. When tax season arrives, open each receipt image and extract the relevant figures with a single drag. Build your deduction spreadsheet in minutes instead of hours of manual entry.</p>
+<h3>Tasse e contabilità</h3>
+<p>I liberi professionisti e i piccoli imprenditori accumulano foto di ricevute durante tutto l'anno. Quando arriva la stagione delle tasse, apri ogni foto di ricevuta ed estrai le cifre rilevanti con un singolo trascinamento. Costruisci il foglio di calcolo delle detrazioni in pochi minuti invece di ore di immissione manuale.</p>
 
-<h3>Reimbursement Requests</h3>
-<p>Need to include exact amounts in a reimbursement email? Extract the total, tax, and date from the receipt photo and paste them into your message. The precise figures from the receipt carry more weight than approximate numbers typed from memory.</p>
+<h3>Richieste di rimborso</h3>
+<p>Hai bisogno di includere importi esatti in un'email di rimborso? Estrai il totale, le tasse e la data dalla foto della ricevuta e incolla nel tuo messaggio. Le figure precise dalla ricevuta portano più peso dei numeri approssimativi digitati dalla memoria.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-text-from-zoom-screenshare-mac": {
     slug: "copy-text-from-zoom-screenshare-mac",
     title: "Come copiare il testo da una condivisione dello schermo Zoom su Mac",
-    description: "Un collega condivide il suo schermo su Zoom mostrando un URL, una configurazione o dati — ma puoi solo guardare, non selezionare o copiare nessuno dei testi che vedi.",
+    description: "Un collega condivide il suo schermo su Zoom mostrando un URL, una configurazione o dati — ma puoi solo guardare, non selezionare o copiare nessuno dei testi che stai vedendo.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You're in a Zoom meeting and a colleague shares their screen. They're walking through a dashboard, showing a configuration file, or demoing an app. On their shared screen you can clearly see URLs, credentials, terminal commands, and data — but the Zoom viewer gives you zero ability to interact with any of it. You can watch, but you can't select. You ask them to paste the link in the chat, they forget, and the meeting moves on.</p>
+<p>Sei in una riunione Zoom e un collega condivide il suo schermo. Stanno esaminando un dashboard, mostrando un file di configurazione o dimostrando un'app. Sullo schermo condiviso puoi chiaramente vedere URL, credenziali, comandi di terminal e dati — ma il visualizzatore Zoom ti dà zero capacità di interagire con nessuno di essi. Puoi guardare, ma non puoi selezionare. Chiedi loro di incollare il link nella chat, dimenticano e la riunione prosegue.</p>
 
-<h2>Screen Shares Are View-Only by Design</h2>
-<p>When someone shares their screen over Zoom, Google Meet, or Microsoft Teams, what you see is a video feed of their display. Your cursor doesn't interact with their content. You can't click into their text editor, can't highlight their terminal output, can't right-click their browser tabs. Everything rendered on the shared screen is a moving image from your Mac's perspective.</p>
-<p>This is especially painful in technical meetings. A DevOps engineer shows a Kubernetes config. A PM walks through analytics. A designer presents copy on mockups. The text scrolls past, and your options are: ask them to slow down and dictate, furiously type what you can see, or hope the recording captures it clearly enough to revisit later.</p>
+<h2>Le condivisioni dello schermo sono visualizzate solo per progettazione</h2>
+<p>Quando qualcuno condivide il suo schermo su Zoom, Google Meet o Microsoft Teams, ciò che vedi è un feed video del loro display. Il tuo cursore non interagisce con il loro contenuto. Non puoi fare clic nel loro editor di testo, non puoi evidenziare il loro output di terminal, non puoi fare clic destro sulle loro schede del browser. Tutto ciò che viene visualizzato sullo schermo condiviso è un'immagine in movimento dalla prospettiva del tuo Mac.</p>
+<p>Questo è particolarmente doloroso nelle riunioni tecniche. Un ingegnere DevOps mostra una configurazione di Kubernetes. Un PM esamina l'analisi. Una progettista presenta il testo sui mockup. Il testo scorre, e le tue opzioni sono: chiedi loro di rallentare e dettare, digita freneticamente quello che puoi vedere, o spera che la registrazione lo cattivi abbastanza chiaramente per rivisitare più tardi.</p>
 
-<h2>Capture Text from Any Shared Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> treats the Zoom window like any other part of your screen. Activate it from the menu bar, drag a selection over the text visible in the shared screen, and the recognized characters are copied to your clipboard. It works whether the presenter is showing a browser, a terminal, a spreadsheet, or a slide deck.</p>
+<h2>Cattura il testo da qualsiasi schermo condiviso</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> tratta la finestra Zoom come qualsiasi altra parte del tuo schermo. Attivalo dal menu bar, trascina una selezione sul testo visibile nello schermo condiviso, e i caratteri riconosciuti vengono copiati negli appunti. Funziona indipendentemente dal fatto che il relatore stia mostrando un browser, un terminale, un foglio di calcolo o una serie di diapositive.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic capturing text from a Zoom screen share on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che cattura il testo da una condivisione dello schermo Zoom su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Technical Meetings</h3>
-<p>Grab terminal commands, file paths, API endpoints, and config values the moment they appear on the shared screen. No asking the presenter to pause and paste into chat. No retyping from memory after the meeting ends.</p>
+<h3>Riunioni tecniche</h3>
+<p>Afferra comandi di terminal, percorsi di file, endpoint API e valori di configurazione nel momento in cui appaiono sullo schermo condiviso. Nessun chiedere al relatore di mettere in pausa e incollare nella chat. Nessuna riscrittura dalla memoria dopo la fine della riunione.</p>
 
-<h3>Data and Dashboards</h3>
-<p>When a shared screen shows metrics, KPIs, or tabular data, select the numbers directly. Paste them into your own notes or spreadsheet with the exact values that were displayed.</p>
+<h3>Dati e dashboard</h3>
+<p>Quando uno schermo condiviso mostra metriche, KPI o dati tabulari, seleziona i numeri direttamente. Incolla nei tuoi appunti o foglio di calcolo con i valori esatti che erano stati visualizzati.</p>
 
-<h3>Capture History as Meeting Notes</h3>
-<p>Every extraction is saved in Optic's menu bar history. Make multiple captures throughout the meeting and you'll have a timestamped log of every piece of text you grabbed — functioning as precise meeting notes for the content that mattered most.</p>
+<h3>Cronologia di acquisizione come note di riunione</h3>
+<p>Ogni estrazione viene salvata nella cronologia del menu bar di Optic. Fai più acquisizioni durante la riunione e avrai un registro con data e ora di ogni pezzo di testo che hai acquisito — funzionando come note di riunione precise per il contenuto che contava di più.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "mac-screenshot-to-text": {
     slug: "mac-screenshot-to-text",
-    title: "Screenshot di Mac in testo — Estrai parole da qualsiasi cattura",
-    description: "Fai screenshot costantemente, ma trasformare quelle catture in testo modificabile e ricercabile richiede ancora di riscrivere tutto quello che vedi.",
+    title: "Screenshot su testo Mac — Estrai parole da qualsiasi cattura",
+    description: "Fai costantemente screenshot, ma trasformare queste catture in testo modificabile e ricercabile richiede comunque di riscrivere tutto quello che vedi.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>Screenshots are the fastest way to capture what's on screen, but they're the slowest way to use the information later. You Cmd+Shift+4 a confirmation number, a recipe, a set of Wi-Fi credentials, or an address — and the moment you need that text in a form, an email, or a document, you're staring at an image and retyping character by character.</p>
+<p>Gli screenshot sono il modo più veloce per catturare ciò che è sullo schermo, ma sono il modo più lento per usare le informazioni in seguito. Fai uno screenshot a Cmd+Maiusc+4 di un numero di conferma, una ricetta, credenziali Wi-Fi o un indirizzo — e nel momento in cui hai bisogno di quel testo in un modulo, un'email o un documento, stai osservando un'immagine e riscrivere carattere per carattere.</p>
 
-<h2>The Screenshot-to-Text Gap</h2>
-<p>macOS makes taking screenshots effortless. The keyboard shortcuts are built in, the captures are high quality, and they auto-save to your Desktop or clipboard. But macOS provides no built-in way to turn a screenshot's visible text into actual editable text. The screenshot workflow ends at the image. Everything after that — extracting, copying, pasting the words inside — is entirely manual.</p>
-<p>Users who take screenshots as a way to "save text" quickly accumulate a Desktop full of images they can't search, can't index, and can't easily reference. Finding that one confirmation number means scrolling through dozens of captures and visually scanning each one.</p>
+<h2>Il divario tra screenshot e testo</h2>
+<p>macOS rende facile fare gli screenshot. I tasti scorciatoia sono integrati, le catture sono di alta qualità e si salvano automaticamente sul Desktop o negli appunti. Ma macOS non fornisce alcun modo integrato di trasformare il testo visibile di uno screenshot in testo effettivamente modificabile. Il flusso di lavoro degli screenshot termina con l'immagine. Tutto dopo — estrazione, copia, incolla delle parole al suo interno — è completamente manuale.</p>
+<p>Gli utenti che prendono screenshot come un modo per "salvare il testo" accumulano rapidamente un Desktop pieno di immagini che non possono cercare, non possono indicizzare e non possono facilmente fare riferimento. Trovare quel numero di conferma significa scorrere attraverso dozzine di catture e scansionare visivamente ognuna.</p>
 
-<h2>Skip the Screenshot, Capture the Text Directly</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> replaces the screenshot-then-retype workflow with a single action. Instead of capturing an image of the text, activate Optic from the menu bar and drag a selection over the words you need. The OCR engine reads the characters and copies them to your clipboard as editable text — no image saved, no retyping needed.</p>
+<h2>Salta lo screenshot, cattura il testo direttamente</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> sostituisce il flusso di lavoro screenshot-then-retype con una singola azione. Invece di catturare un'immagine del testo, attiva Optic dal menu bar e trascina una selezione sulle parole di cui hai bisogno. Il motore OCR legge i caratteri e li copia negli appunti come testo modificabile — nessuna immagine salvata, nessuna riscrittura necessaria.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic converting screen content to text on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che converte il contenuto dello schermo in testo su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Already Took the Screenshot?</h3>
-<p>No problem. Open your existing screenshot in any viewer and drag Optic's selection over the text inside it. It reads characters from any image displayed on your screen, so your existing screenshot library isn't wasted — it just becomes accessible.</p>
+<h3>Ho già fatto lo screenshot?</h3>
+<p>Nessun problema. Apri il tuo screenshot esistente in qualsiasi visualizzatore e trascina la selezione di Optic sul testo al suo interno. Legge i caratteri da qualsiasi immagine visualizzata sullo schermo, quindi la tua libreria di screenshot esistente non è sprecata — diventa solo accessibile.</p>
 
-<h3>Searchable Capture History</h3>
-<p>Every text extraction is logged in Optic's menu bar history. Instead of a folder of unsearchable images, you get a scrollable list of captured text strings. Need that confirmation number from two days ago? Scroll through your history instead of hunting through screenshot files.</p>
+<h3>Cronologia di acquisizione ricercabile</h3>
+<p>Ogni estrazione di testo viene registrata nella cronologia del menu bar di Optic. Invece di una cartella di immagini non ricercabili, ottieni un elenco scorrevole di stringhe di testo acquisite. Hai bisogno di quel numero di conferma da due giorni fa? Scorri la cronologia invece di cercare tra i file di screenshot.</p>
 
-<h3>Faster Than Cmd+Shift+4</h3>
-<p>The gesture is nearly identical — activate, drag a rectangle — but the output is immediately useful text instead of a flat image. For anyone who screenshots primarily to save text, this eliminates the entire conversion step.</p>
+<h3>Più veloce di Cmd+Maiusc+4</h3>
+<p>Il gesto è quasi identico — attiva, trascina un rettangolo — ma l'output è il testo immediatamente utile invece di un'immagine piatta. Per chiunque acceda agli screenshot principalmente per salvare il testo, questo elimina l'intero passo di conversione.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-serial-number-from-image-mac": {
@@ -438,360 +438,357 @@ export const itArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You need to register a product, file a warranty claim, or contact support — and they want the serial number. The problem: the serial number is on a sticker you photographed, in a PDF invoice, on a screenshot of a settings page, or in an email confirmation with an embedded image. It's a long string of letters and numbers — sometimes 15 or 20 characters — with no pattern to help you remember it. Retyping it means a near-certain chance of getting at least one character wrong.</p>
+<p>Hai bisogno di registrare un prodotto, presentare un reclamo di garanzia o contattare il supporto — e vogliono il numero di serie. Il problema: il numero di serie è su un adesivo che hai fotografato, in una fattura PDF, su uno screenshot di una pagina di impostazioni o in una conferma email con un'immagine incorporata. È una lunga stringa di lettere e numeri — a volte 15 o 20 caratteri — senza uno schema per aiutarti a ricordarlo. Riscrivere significa una possibilità quasi certa di sbagliare almeno un carattere.</p>
 
-<h2>Serial Numbers Are Built to Foil Manual Entry</h2>
-<p>Serial numbers combine uppercase letters, lowercase letters, and digits in sequences deliberately designed to be unique, not memorable. Characters like O and 0, l and 1, S and 5 look nearly identical in most fonts. A single wrong character means the serial doesn't validate, and you're left wondering which of the 20 characters you misread.</p>
-<p>macOS gives you no shortcut here. If the serial number is in a photo or scanned document, you can't select it. If it's in an image embedded in an email, you can't highlight it. You're stuck either retyping carefully and hoping, or zooming in character by character and double-checking each one.</p>
+<h2>I numeri di serie sono costruiti per resistere alla voce manuale</h2>
+<p>I numeri di serie combinano lettere maiuscole, lettere minuscole e cifre in sequenze deliberatamente progettate per essere uniche, non memorabili. Caratteri come O e 0, l e 1, S e 5 sembrano quasi identici nella maggior parte dei caratteri. Un singolo carattere sbagliato significa che il numero seriale non convalida, e ti chiedi quale dei 20 caratteri hai letto male.</p>
+<p>macOS non ti dà alcun collegamento qui. Se il numero di serie è in una foto o documento scansionato, non puoi selezionarlo. Se è in un'immagine incorporata in un'email, non puoi evidenziarlo. Sei bloccato o a riscrivere attentamente e sperare, oppure a ingrandire carattere per carattere e a verificare due volte ognuno.</p>
 
-<h2>Drag Over the Serial Number, Copy It Perfectly</h2>
-<p>Open the image, scan, or screenshot containing the serial number in any app, then activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar. Drag a tight selection around just the serial number string. The OCR engine reads each character and copies the exact text to your clipboard. Paste it into the registration form, the support chat, or your records.</p>
+<h2>Trascina sul numero di serie, copialo perfettamente</h2>
+<p>Apri l'immagine, la scansione o lo screenshot contenente il numero di serie in qualsiasi app, quindi attiva <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> dal menu bar. Trascina una selezione stretta attorno solo alla stringa del numero di serie. Il motore OCR legge ogni carattere e copia il testo esatto negli appunti. Incolla nel modulo di registrazione, nella chat di supporto o nei tuoi record.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic copying a serial number from an image on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che copia un numero di serie da un'immagine su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Product Registration</h3>
-<p>New hardware often requires entering a serial number during setup or warranty registration. Photo the label, open it on your Mac, and extract the string with one drag. No squinting, no guessing between O and 0.</p>
+<h3>Registrazione del prodotto</h3>
+<p>L'nuovo hardware spesso richiede l'immissione di un numero di serie durante la configurazione o la registrazione della garanzia. Fotografa l'etichetta, aprila sul tuo Mac ed estrai la stringa con un trascinamento. Nessuna necessità di strizzare gli occhi, nessuna indovina tra O e 0.</p>
 
-<h3>Support and Warranty Claims</h3>
-<p>Support agents ask for serial numbers to look up your device or product. Having the exact string on your clipboard means you can paste it into the support chat or email instantly, avoiding back-and-forth over mistyped identifiers.</p>
+<h3>Supporto e reclami di garanzia</h3>
+<p>Gli agenti di supporto chiedono i numeri di serie per cercare il tuo dispositivo o prodotto. Avere la stringa esatta negli appunti significa che puoi incollarla nella chat di supporto o nell'email istantaneamente, evitando andirivieni su identificatori digitati male.</p>
 
-<h3>Asset Tracking</h3>
-<p>IT departments photograph asset tags and serial labels on company hardware. Optic turns those photos into copyable text, making it straightforward to populate inventory spreadsheets without manual transcription of hundreds of serial numbers.</p>
+<h3>Tracciamento delle risorse</h3>
+<p>I reparti IT fotografano tag di asset e etichette seriali su hardware aziendale. Optic trasforma queste foto in testo copiabile, rendendo semplice popolare fogli di calcolo di inventario senza trascrizione manuale di centinaia di numeri di serie.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "ocr-handwriting-mac": {
     slug: "ocr-handwriting-mac",
-    title: "OCR della grafia su Mac — Converti note scritte a mano in testo",
-    description: "Hai fotografato note scritte a mano — da una lavagna, un taccuino o una nota adesiva — e hai bisogno delle parole come testo digitale modificabile.",
+    title: "OCR di Testo Scritto a Mano su Mac — Converti Note Scritte a Mano in Testo",
+    description: "Hai fotografato note scritte a mano — da una lavagna, un taccuino o un foglietto adesivo — e hai bisogno delle parole come testo digitale modificabile.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>The meeting ended twenty minutes ago and you snapped a photo of the whiteboard before someone erased it. Or you've been taking notes by hand in a notebook and now need to email those notes to your team. The words are in the photo, written clearly enough to read, but there's no way to select handwritten text from an image and paste it into a document. So you sit down and start transcribing your own handwriting, word by word.</p>
+<p>La riunione è finita venti minuti fa e hai scattato una foto della lavagna prima che qualcuno la cancellasse. O hai preso note a mano in un taccuino e ora devi inviare quelle note al tuo team. Le parole sono nella foto, scritte abbastanza chiaramente da leggere, ma non c'è modo di selezionare il testo scritto a mano da un'immagine e incollarlo in un documento. Così ti siedi e inizi a trascrivere il tuo stesso handwriting, parola per parola.</p>
 
-<h2>Handwriting Lives Outside the Digital Text World</h2>
-<p>macOS treats images of handwriting the same as any other image — as pixels with no text layer. Preview can display your whiteboard photo but won't extract words from it. Apple's Live Text can sometimes recognize neat handwriting in Photos, but performance varies wildly with handwriting style, image quality, and angle. Messy but legible handwriting often produces no results at all.</p>
-<p>Dedicated handwriting OCR apps exist, but most are iOS-focused or require uploading images to cloud services. If you want to stay on your Mac and work with a photo that's already on your screen, the options are thin.</p>
+<h2>La scrittura a mano vive fuori dal mondo del testo digitale</h2>
+<p>macOS tratta le immagini di handwriting come qualsiasi altra immagine — come pixel senza strato di testo. Preview può visualizzare la tua foto della lavagna ma non estrarrà parole da essa. Il Live Text di Apple può a volte riconoscere la scrittura manuale ordinata in Foto, ma le prestazioni variano selvaggiamente con lo stile di handwriting, la qualità dell'immagine e l'angolo. La scrittura a mano disordinata ma leggibile spesso non produce risultati affatto.</p>
+<p>Le app dedicate di OCR di handwriting esistono, ma la maggior parte sono focalizzate su iOS o richiedono il caricamento di immagini sui servizi cloud. Se vuoi stare sul tuo Mac e lavorare con una foto già sullo schermo, le opzioni sono scarse.</p>
 
-<h2>Select Handwritten Text from Any Photo</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> performs OCR on whatever is visible on your screen, including handwritten text in photos. Open the photo of your notes in any viewer, activate Optic from the menu bar, and drag a selection over the handwritten area. The recognized text is copied to your clipboard for pasting into emails, documents, or note-taking apps.</p>
+<h2>Seleziona testo scritto a mano da qualsiasi foto</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> esegue OCR su qualsiasi cosa sia visibile sullo schermo, incluso il testo scritto a mano in foto. Apri la foto delle tue note in qualsiasi visualizzatore, attiva Optic dal menu bar e trascina una selezione sull'area di handwriting. Il testo riconosciuto viene copiato negli appunti per incollarlo in email, documenti o app di presa di note.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic recognizing handwriting from a photo on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che riconosce la scrittura a mano da una foto su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Whiteboard Captures</h3>
-<p>Meeting whiteboards are temporary by nature — someone always needs the space next. Photograph the board, open the photo on your Mac, and extract the written content with Optic. Turn brainstorming sessions, diagrams with labels, and to-do lists into digital text before the whiteboard gets wiped.</p>
+<h3>Catture di lavagna</h3>
+<p>Le lavagne durante le riunioni sono temporanee per natura — qualcuno ha sempre bisogno dello spazio in seguito. Fotografa la lavagna, apri la foto sul tuo Mac ed estrai il contenuto scritto con Optic. Trasforma sessioni di brainstorming, diagrammi con etichette e elenchi di cose da fare in testo digitale prima che la lavagna venga cancellata.</p>
 
-<h3>Notebook Pages</h3>
-<p>Many people still prefer pen-and-paper for initial thinking but need digital text for sharing and searching. Photograph your notebook page and extract key sections. No need to transcribe an entire page — select just the paragraphs or bullet points you need.</p>
+<h3>Pagine di taccuino</h3>
+<p>Molte persone preferiscono ancora carta e penna per il pensiero iniziale ma hanno bisogno di testo digitale per condividere e cercare. Fotografa la pagina del tuo taccuino ed estrai sezioni chiave. Non c'è bisogno di trascrivere un'intera pagina — seleziona solo i paragrafi o gli elenchi puntati di cui hai bisogno.</p>
 
-<h3>Sticky Notes and Labels</h3>
-<p>Handwritten sticky notes on a monitor, labels on storage boxes, annotations on printed documents — photograph them and extract the text. Especially useful when someone else's handwriting is involved and you'd rather let OCR attempt it than decipher it character by character.</p>
+<h3>Foglietti adesivi ed etichette</h3>
+<p>Foglietti adesivi scritti a mano su un monitor, etichette su scatole di archiviazione, annotazioni su documenti stampati — fotografali ed estrai il testo. Particolarmente utile quando la handwriting di qualcun altro è coinvolta e preferisci lasciare che OCR la cerchi piuttosto che decifrarla carattere per carattere.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "mac-text-recognition-menu-bar": {
     slug: "mac-text-recognition-menu-bar",
-    title: "Riconoscimento del testo dalla barra dei menu di Mac",
-    description: "Hai bisogno di un riconoscimento rapido del testo senza aprire un'app completa, importare file o interrompere il tuo flusso di lavoro — solo una presa veloce da qualunque cosa sia sullo schermo.",
+    title: "Riconoscimento del testo dalla barra dei menu del Mac",
+    description: "Hai bisogno di un rapido riconoscimento del testo senza aprire un'app completa, importare file o interrompere il tuo flusso di lavoro — solo un'acquisizione veloce da qualsiasi cosa sia sullo schermo.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You're in the middle of something — writing an email, coding, browsing research — and you spot text on your screen that you need to capture. Maybe it's in an image, a video frame, or a non-selectable UI element. The last thing you want is to break your flow by opening a separate OCR application, importing a file, waiting for processing, and then copying the result. You need the text now, without leaving what you're doing.</p>
+<p>Sei nel mezzo di qualcosa — scrivere un'email, codificare, sfogliare ricerche — e noti il testo sullo schermo che devi acquisire. Forse è in un'immagine, una cornice video o un elemento UI non selezionabile. L'ultima cosa che vuoi è interrompere il tuo flusso aprendo un'applicazione OCR separata, importando un file, aspettando l'elaborazione e quindi copiando il risultato. Hai bisogno del testo adesso, senza lasciare quello che stai facendo.</p>
 
-<h2>Traditional OCR Disrupts Your Workflow</h2>
-<p>Most OCR tools are standalone applications with their own windows, file browsers, and processing pipelines. To use them, you save or screenshot the content, switch to the OCR app, import the file, wait for recognition, copy the result, switch back to your original app, and paste. That's six context switches for a task that should take one second.</p>
-<p>Even lighter-weight tools often require their own window or panel. They sit in the Dock, demand screen real estate, and pull your attention away from the task at hand. For quick, frequent text captures throughout a workday, this overhead adds up fast.</p>
+<h2>OCR tradizionale interrompe il tuo flusso di lavoro</h2>
+<p>La maggior parte degli strumenti OCR sono applicazioni autonome con le proprie finestre, browser di file e pipeline di elaborazione. Per usarli, salvi o screenshotti il contenuto, passi all'app OCR, importi il file, attendi il riconoscimento, copia il risultato, torna alla tua app originale e incolli. Sono sei cambi di contesto per un'attività che dovrebbe richiedere un secondo.</p>
+<p>Anche gli strumenti più leggeri spesso richiedono la loro finestra o pannello. Vivono nel Dock, richiedono spazio sullo schermo e tirano la tua attenzione lontano dal compito a portata di mano. Per acquisizioni di testo veloci e frequenti durante una giornata lavorativa, questo sovraccarico si aggiunge rapidamente.</p>
 
-<h2>One Click, One Drag, Back to Work</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> lives in the Mac menu bar — the least intrusive location possible. Click the menu bar icon or press a keyboard shortcut, drag a rectangle over the text you need, and the recognized characters are on your clipboard. The entire interaction takes under two seconds, and you never leave the app you're working in.</p>
+<h2>Un clic, un trascinamento, torna al lavoro</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> vive nella barra dei menu del Mac — la posizione meno intrusiva possibile. Fai clic sull'icona della barra dei menu o premi un collegamento della tastiera, trascina un rettangolo sul testo di cui hai bisogno, e i caratteri riconosciuti sono negli appunti. L'intera interazione richiede meno di due secondi e non lasci mai l'app su cui stai lavorando.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic text recognition from the Mac menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Riconoscimento del testo Optic dalla barra dei menu del Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Always Available, Never in the Way</h3>
-<p>No Dock icon, no main window, no app to manage. Optic sits quietly in the menu bar until you need it. It launches at login and stays ready without consuming your attention or screen space.</p>
+<h3>Sempre disponibile, mai di intralcio</h3>
+<p>Nessuna icona del Dock, nessuna finestra principale da gestire, nessuna app da gestire. Optic si siede silenziosamente nella barra dei menu fino a quando non ne hai bisogno. Si avvia all'accesso e rimane pronto senza consumare la tua attenzione o lo spazio dello schermo.</p>
 
-<h3>Keyboard Shortcut Access</h3>
-<p>For even faster activation, use the keyboard shortcut to trigger a capture without touching the menu bar. Your hands stay on the keyboard, you drag the selection, and the text is captured — all without a single click on the menu bar icon.</p>
+<h3>Accesso tramite collegamento della tastiera</h3>
+<p>Per un'attivazione ancora più veloce, usa il collegamento della tastiera per attivare un'acquisizione senza toccare la barra dei menu. Le tue mani rimangono sulla tastiera, trascina la selezione e il testo viene acquisito — tutto senza un singolo clic sulla barra dei menu.</p>
 
-<h3>History Without a Separate Window</h3>
-<p>Every capture is logged in the menu bar dropdown. Click the Optic icon to see your recent captures, re-copy a previous extraction, or review what you've grabbed during the session. The history lives where the tool lives — in the menu bar, out of your way until you want it.</p>
+<h3>Cronologia senza finestra separata</h3>
+<p>Ogni acquisizione viene registrata nel menu a discesa della barra dei menu. Fai clic sull'icona Optic per vedere le tue acquisizioni recenti, ricopia un'estrazione precedente o rivedi ciò che hai acquisito durante la sessione. La cronologia vive dove vive lo strumento — nella barra dei menu, fuori dai piedi fino a quando non la desideri.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-text-from-youtube-video-mac": {
     slug: "copy-text-from-youtube-video-mac",
-    title: "Come copiare il testo da un video YouTube su Mac",
-    description: "Un video YouTube visualizza un comando, un link o un'informazione di cui hai bisogno — ma il lettore video non ti permette di selezionare alcun testo dal fotogramma video.",
+    title: "Come copiare il testo da un video di YouTube su Mac",
+    description: "Un video di YouTube visualizza un comando, un collegamento o un'informazione di cui hai bisogno — ma il lettore video non ti permette di selezionare nessuno dei testi dalla cornice video.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You're following a YouTube tutorial and the instructor types a long terminal command. Or a video review briefly shows a product comparison table. Or a tech walkthrough displays settings you need to replicate. The text is perfectly visible on screen, but YouTube's video player is just rendering frames — there's nothing to click, highlight, or copy. You pause the video and start typing what you see, hoping you don't miss a flag or misspell a path.</p>
+<p>Stai seguendo un tutorial di YouTube e l'istruttore digita un lungo comando di terminal. O una revisione video mostra brevemente una tabella di confronto dei prodotti. O una procedura tecnica visualizza le impostazioni che devi replicare. Il testo è perfettamente visibile sullo schermo, ma il lettore video di YouTube sta semplicemente visualizzando cornici — non c'è niente su cui fare clic, evidenziare o copiare. Metti in pausa il video e inizi a digitare quello che vedi, sperando di non perdere un flag o di digfare male un percorso.</p>
 
-<h2>YouTube Text Is Baked Into the Video</h2>
-<p>Everything you see in a YouTube video frame is a decoded image. Whether it's a slide, a terminal session, a code editor, or on-screen graphics, the text is part of the pixel data. YouTube provides no mechanism to extract text from the video content itself. Subtitles and descriptions are separate — they cover what's being said, not what's being shown on screen.</p>
-<p>Some creators put commands and links in the video description or pinned comments, but many don't. And for content like comparison tables, settings pages, or data displayed in the video, there's typically no text equivalent provided at all.</p>
+<h2>Il testo di YouTube è incorporato nel video</h2>
+<p>Tutto ciò che vedi in una cornice video di YouTube è un'immagine decodificata. Che si tratti di una diapositiva, una sessione di terminal, un editor di codice o grafica sullo schermo, il testo è parte dei dati pixel. YouTube non fornisce alcun meccanismo per estrarre il testo dal contenuto video stesso. Sottotitoli e descrizioni sono separati — coprono quello che viene detto, non quello che viene visualizzato sullo schermo.</p>
+<p>Alcuni creatori mettono comandi e link nella descrizione del video o nei commenti fissati, ma molti non lo fanno. E per il contenuto come tabelle di confronto, pagine di impostazioni o dati visualizzati nel video, in genere non esiste alcun equivalente di testo fornito.</p>
 
-<h2>Grab Text Straight from the Video Frame</h2>
-<p>Pause the video at the right moment (or don't — it works on playing content too), activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar, and drag a selection over the text visible in the YouTube player. Optic reads the characters from the rendered frame and copies them to your clipboard. Works in any browser — Safari, Chrome, Firefox, Arc.</p>
+<h2>Afferra il testo direttamente dalla cornice video</h2>
+<p>Metti in pausa il video al momento giusto (o non farlo — funziona su contenuti in riproduzione), attiva <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> dal menu bar e trascina una selezione sul testo visibile nel lettore YouTube. Optic legge i caratteri dalla cornice visualizzata e li copia negli appunti. Funziona in qualsiasi browser — Safari, Chrome, Firefox, Arc.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic copying text from a YouTube video on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che copia il testo da un video di YouTube su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Tutorial Commands and Code</h3>
-<p>Programming tutorials constantly display terminal commands, code snippets, and configuration examples. A single drag extracts the exact text — preserving special characters, flags, and syntax that are easy to mistype manually.</p>
+<h3>Comandi e codice del tutorial</h3>
+<p>I tutorial di programmazione visualizzano costantemente comandi di terminal, frammenti di codice e esempi di configurazione. Un singolo trascinamento estrae il testo esatto — preservando caratteri speciali, flag e sintassi che sono facili da digfare male manualmente.</p>
 
-<h3>On-Screen Data and Tables</h3>
-<p>Product reviews, benchmark comparisons, and educational content often show tables or lists on screen. Select the data region and paste the extracted text into your notes or a spreadsheet. No more pausing and transcribing row by row.</p>
+<h3>Dati e tabelle sullo schermo</h3>
+<p>Le recensioni di prodotti, i confronti di benchmark e i contenuti educativi spesso mostrano tabelle o elenchi sullo schermo. Seleziona la regione di dati e incolla il testo estratto nelle tue note o in un foglio di calcolo. Non più messa in pausa e trascrizione riga per riga.</p>
 
-<h3>URLs and References</h3>
-<p>When a video flashes a URL, a book title, or a resource name, capture it before it disappears. Optic's capture history saves every extraction, so even if you grab text while the video is playing, you can retrieve it later from the menu bar dropdown.</p>
+<h3>URL e riferimenti</h3>
+<p>Quando un video lampeggia un URL, un titolo di libro o un nome di risorsa, catturalo prima che scompaia. La cronologia di acquisizione di Optic salva ogni estrazione, quindi anche se afferri il testo mentre il video è in riproduzione, puoi recuperarlo in seguito dal menu a discesa della barra dei menu.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "scan-qr-code-from-screenshot-mac": {
     slug: "scan-qr-code-from-screenshot-mac",
     title: "Come scansionare un codice QR da uno screenshot su Mac",
-    description: "Hai uno screenshot di un codice QR sul tuo Mac, ma nessun modo di scansionarlo — la fotocamera del tuo telefono non può leggere uno schermo e macOS non offre alcun decodificatore incorporato.",
+    description: "Hai uno screenshot di un codice QR sul tuo Mac, ma nessun modo per scansionarlo — la fotocamera del tuo telefono non può leggere uno schermo e macOS non offre alcun decoder integrato.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>Someone texts you a screenshot containing a QR code. Or you saved a QR code from a website for later. Or a PDF attachment includes one linking to a signup page. The QR code is sitting on your Mac screen as an image, and the natural instinct is to "scan" it — but how? Pointing your phone camera at your computer monitor is awkward, produces glare, and opens the link on the wrong device. macOS provides no built-in way to decode a QR code from an image or screenshot.</p>
+<p>Qualcuno ti invia via SMS uno screenshot contenente un codice QR. O hai salvato un codice QR da un sito web per dopo. O un allegato PDF include uno che collega a una pagina di iscrizione. Il codice QR è seduto sullo schermo del tuo Mac come un'immagine, e l'istinto naturale è "scansionare" — ma come? Puntare la fotocamera del tuo telefono verso il monitor del tuo computer è goffo, produce riflessi e apre il collegamento nel dispositivo sbagliato. macOS non fornisce alcun modo integrato di decodificare un codice QR da un'immagine o screenshot.</p>
 
-<h2>No Native QR Decoder on macOS</h2>
-<p>iPhones have QR scanning built into the Camera app. macOS has nothing equivalent. You can't right-click a QR code image in Finder and choose "Decode." Preview won't extract a URL from a QR code. Safari doesn't recognize QR codes in web pages. If the QR code is already on your Mac screen, Apple's ecosystem expects you to use a different device to read it — which makes no sense when you want the result on the same computer.</p>
-<p>Online QR decoders exist, but they require uploading your image to a third-party server. For QR codes containing sensitive information — Wi-Fi passwords, authentication tokens, private URLs — uploading to a random website is a non-starter.</p>
+<h2>Nessun decoder QR nativo su macOS</h2>
+<p>Gli iPhone hanno la scansione del codice QR integrata nell'app Fotocamera. macOS non ha nulla di equivalente. Non puoi fare clic destro su un'immagine di codice QR in Finder e scegliere "Decodifica". Preview non estrarrà un URL da un codice QR. Safari non riconosce i codici QR nelle pagine web. Se il codice QR è già sullo schermo del tuo Mac, l'ecosistema di Apple si aspetta che tu usi un dispositivo diverso per leggerlo — il che non ha senso quando vuoi il risultato sullo stesso computer.</p>
+<p>Decodificatori QR online esistono, ma richiedono il caricamento della tua immagine su un server di terze parti. Per i codici QR contenenti informazioni sensibili — password Wi-Fi, token di autenticazione, URL privati — caricare su un sito Web casuale è inaccettabile.</p>
 
-<h2>Decode QR Codes Right on Your Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> includes a QR code scanner that works on anything visible on your display. Open the screenshot or image containing the QR code, activate Optic from the menu bar, and drag a selection around the code. The decoded content — URL, text, credentials, whatever the code encodes — appears on your Mac immediately.</p>
+<h2>Decodifica i codici QR direttamente sullo schermo</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> include uno scanner di codici QR che funziona su qualsiasi cosa visibile sul tuo display. Apri lo screenshot o l'immagine contenente il codice QR, attiva Optic dal menu bar e trascina una selezione attorno al codice. Il contenuto decodificato — URL, testo, credenziali, qualunque cosa il codice codifichi — appare sul tuo Mac immediatamente.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic scanning a QR code from a screenshot on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che scansiona un codice QR da uno screenshot su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Event Tickets and Boarding Passes</h3>
-<p>QR codes on email confirmations, forwarded tickets, and saved boarding passes are common. Decode them on your Mac to verify the content, open the linked page, or save the encoded information — all without switching to your phone.</p>
+<h3>Biglietti per eventi e carte d'imbarco</h3>
+<p>I codici QR sulle conferme email, sui biglietti inoltrati e sulle carte d'imbarco salvate sono comuni. Decodificali sul tuo Mac per verificare il contenuto, aprire la pagina collegata o salvare le informazioni codificate — tutto senza passare al tuo telefono.</p>
 
-<h3>Wi-Fi and Authentication Codes</h3>
-<p>QR codes encoding Wi-Fi credentials or two-factor setup URIs contain sensitive data. Optic decodes them locally on your device — no upload to external servers, no exposure of your credentials to third-party services.</p>
-
-<h3>Saved in Capture History</h3>
-<p>Every decoded QR code is saved in Optic's menu bar history alongside your text captures. Need the Wi-Fi password from a QR code you scanned last week? Scroll back through your captures instead of finding and re-scanning the original image.</p>
-
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
-`,
+<h3>Wi-Fi e autenticazione</h3>
+<p>I codici QR per la configurazione Wi-Fi e l'autenticazione a due fattori sono spesso condivisi come screenshot. Optic decodifica queste in pochi secondi sulla tua macchina senza la goffaggine di puntare la fotocamera del tuo telefono.`,
   },
   "ocr-foreign-language-mac": {
     slug: "ocr-foreign-language-mac",
-    title: "OCR del testo in lingua straniera su Mac",
-    description: "Del testo in una lingua straniera appare sullo schermo — in un'immagine, un documento o un video — e hai bisogno di copiarlo anche se non puoi digitare quei caratteri da solo.",
+    title: "OCR testo in lingua straniera su Mac",
+    description: "Hai text o un'immagine in una lingua che non leggi facilmente — un'etichetta esteras, un articolo di notizie, un documento scansionato — e devi leggerlo e/o tradurlo.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You're looking at a Japanese product label in a photo, a French legal document someone scanned, or Chinese text in a video tutorial. You need that text — to paste into a translator, to send to a colleague, to include in a report. But you can't type those characters. You don't have the keyboard layout installed, you don't know the input method, and even if you did, looking at a character and reproducing it keystroke by keystroke would take forever. The text is right there on screen, readable by anyone who knows the language, but impossible for you to copy.</p>
+<p>Ti trovi di fronte a testo in una lingua che non leggi facilmente. Un'etichetta di un prodotto estero che stai cercando di capire. Un articolo di notizie in una lingua che stai imparando. Un documento scansionato che è stato fotografato da una fonte non inglese. Il testo è visibile sullo schermo, ma è intrappolato in un'immagine, non puoi né selezionarlo né tradurlo facilmente.</p>
 
-<h2>Foreign Characters Without the Right Keyboard Are Unreachable</h2>
-<p>macOS supports many keyboard layouts, but switching to one and learning its input method just to copy a few characters from an image is impractical. Character-by-character lookup in a Unicode table or an IME tool is painfully slow. Drawing input methods exist for some languages but are awkward for anything more than a single character.</p>
-<p>The problem compounds when the text is inside an image, a scanned document, or a video frame — contexts where you can't select text even in your own language. Foreign language text in these formats is doubly inaccessible: you can't select it because it's an image, and you couldn't type it even if you could see each character clearly.</p>
+<h2>Il testo in lingua straniera è ancora testo bloccato</h2>
+<p>Anche se leggi la lingua, se il testo è in un'immagine, una scansione, un video o dentro un elemento UI non interattivo, hai lo stesso problema: non puoi selezionarlo. E se non leggi la lingua, il problema è doppio: non solo non puoi selezionare il testo, ma anche se potessi, lo leggere richiede uno sforzo significativo.
+</p>
+<p>La traduzione è spesso il passo successivo, ma la maggior parte degli strumenti di traduzione funzionano su testo effettivamente selezionabile. Copia il testo straniero negli appunti e incollalo in Google Translate, e puoi ottener una traduzione istantanea. Ma se il testo è bloccato in un'immagine? Devi prima trascrivere, manualmente, in una lingua che non leggi facilmente.</p>
 
-<h2>Select Foreign Text Visually, Copy It Digitally</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> recognizes characters from your screen regardless of language. Activate it from the menu bar, drag over the foreign language text visible in any image, document, or video frame, and the recognized characters are copied to your clipboard — in the correct script, with the correct Unicode characters. Paste them into Google Translate, DeepL, or any application.</p>
+<h2>Estrai e traduce il testo straniero</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> estrae il testo straniero da qualsiasi fonte visibile. Apri un'immagine che contiene testo in un'altra lingua, attiva Optic dal menu bar e trascina una selezione sul testo. I caratteri vengono riconosciuti — anche da lingue non latine come cinese, arabo o cirilico — e copiati negli appunti. Da lì, puoi incollarli in Google Translate, Apple Translate o in qualsiasi servizio di traduzione tu preferisca.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic recognizing foreign language text on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che estrae testo in lingua straniera su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Translation Workflows</h3>
-<p>The fastest path from foreign text in an image to a translation is: select with Optic, paste into a translator. No manual transcription, no keyboard switching, no character lookup. Works with Latin, Cyrillic, CJK, Arabic, and other scripts.</p>
+<h3>Etichette e packaging di prodotti esteri</h3>
+<p>Stai cercando di capire un'etichetta straniera su un prodotto? Fotografala, aprila sul tuo Mac e estrai il testo con Optic. Incolla nei tuoi appunti e invia la traduzione al tuo servizio di traduzione preferito.</p>
 
-<h3>International Documents</h3>
-<p>Scanned contracts, invoices, and forms in other languages contain names, addresses, and figures you may need to extract. Drag over the relevant section and paste the characters into your own documents, preserving the original script accurately.</p>
+<h3>Apprendimento della lingua</h3>
+<p>I discenti di lingue traggono vantaggio dal leggere testi "reali" scritti per i madrelingua, non semplificati per i discenti. Quando incontri testo in una lingua che stai imparando — in un articolo, una foto di una strada, un screenshot di un sito web — usara Optic per estrarlo. Quindi leggilo nel tuo tempo, cercalo in un dizionario o incollalo in un servizio di traduzione per il supporto.</p>
 
-<h3>Language Study</h3>
-<p>Encountering new vocabulary in images or videos? Select the text and paste it into a flashcard app or dictionary. Having the exact characters — rather than a guess at romanization — ensures accurate lookups and study.</p>
+<h3>Documenti scansionati in altre lingue</h3>
+<p>Il testo OCR non è limitato all'inglese. Optic riconosce lingue in tutto il mondo — romanzo, cirillico, arabo, cinese, giapponese e altre. Che stai cercando di leggere un documento governativo francese o un articolo accademico tedesco, estrai il testo e traduci come necessario.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-text-from-slack-image-mac": {
     slug: "copy-text-from-slack-image-mac",
     title: "Come copiare il testo da un'immagine in Slack su Mac",
-    description: "Un collega condivide uno screenshot in Slack — un registro errori, una configurazione, un dashboard — e il testo al suo interno è solo pixel che non puoi copiare o cercare.",
+    description: "Qualcuno ha condiviso un'immagine in Slack contenente testo, codice o informazioni — ma l'immagine è tutto ciò che hanno inviato e non puoi selezionare il testo al suo interno.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>It happens multiple times a day. A teammate pastes a screenshot in a Slack channel: a terminal error, a dashboard showing metrics, a code snippet from their editor, or a configuration panel. You need the text in that screenshot — an error message to search for, a metric to quote in a report, or a code block to test locally. But the Slack image viewer shows you the picture and nothing else. The text inside it might as well be a watercolor painting as far as your clipboard is concerned.</p>
+<p>Un membro del team carica un'immagine in Slack — uno screenshot di una dashboard, una foto di un documento, un'acquisizione di una pagina web. L'immagine contiene informazioni che devi usare, ma è solo un'immagine. Vorresti copiare il testo, ma Slack lo visualizza come un allegato — non puoi fare clic su di esso per selezionare le parole. La tua scelta è ingrandirla, leggere il testo sullo schermo e riscrivere ciò che vedi, oppure scaricare l'immagine, aprirla in un'altra app e tentare lì.</p>
 
-<h2>Slack Treats Images as Images</h2>
-<p>When someone shares a screenshot in Slack, it's rendered as an inline image or opens in Slack's image viewer. There's no OCR layer, no text extraction option, no "copy text from image" in the right-click menu. You can download the image, but that just gives you the same pixels as a file on disk — still no selectable text.</p>
-<p>This is a daily friction point in engineering, support, and operations teams. Screenshots are the fastest way to share visual information in chat, but every screenshot containing text becomes a dead end for the recipient. The sender assumes the information is shared; the recipient has to manually transcribe it or ask the sender to paste it as text — a request that often goes unanswered for hours.</p>
+<h2>Slack non estrae il testo dalle immagini</h2>
+<p>Slack visualizza le immagini e i file inline, ma non fornisce alcuno strumento per estrarre il testo dalle immagini. Il visualizzatore di immagini Slack è compatto e leggibile, ma è interattivo solo per il ridimensionamento e lo scorrimento, non per la selezione del testo. Se desideri il testo, devi aprire l'immagine al di fuori di Slack.</p>
+<p>Anche se scarichi l'immagine e la apri in Preview o in un'altra app, rimane un'immagine — il testo all'interno non è ancora selezionabile a meno che non usi uno strumento OCR separato. Un'immagine semplice caricata da un membro del team non ha alcun equivalente di testo allegato.</p>
 
-<h2>Read Text Directly from Slack Images</h2>
-<p>When you see a screenshot in Slack that contains text you need, open it in Slack's image viewer or just look at the inline preview, then activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar and drag a selection over the text. The characters are recognized and copied to your clipboard in seconds — no downloading, no switching apps, no waiting for the sender to re-share as text.</p>
+<h2>Estrai il testo direttamente da Slack</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> legge il testo da qualsiasi immagine visibile sullo schermo, incluse le immagini visualizzate nella finestra di Slack. Visualizza l'immagine in Slack (in linea nel messaggio o nel visualizzatore di immagini a schermo intero), attiva Optic dal menu bar e trascina una selezione sul testo nell'immagine. Il testo riconosciuto va negli appunti per l'immediato utilizzo in Slack o altrove.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic extracting text from a Slack image on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che estrae il testo da un'immagine in Slack su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Error Messages and Logs</h3>
-<p>Screenshots of errors and stack traces are shared constantly in engineering channels. Extract the exact error string and paste it into your search engine or log aggregator for an instant lookup, instead of retyping a 200-character error message.</p>
+<h3>Screenshot di dashboard e dati</h3>
+<p>Un collega condivide uno screenshot di un dashboard metrica-ricco. Estrai i numeri che ti servono direttamente dall'immagine di Slack e incollali in un foglio di calcolo o in un messaggio senza dover riscrivere.</p>
 
-<h3>Code Snippets</h3>
-<p>When someone screenshots their code instead of pasting it as a snippet, Optic lets you extract it as text anyway. Copy the code, paste it into your editor, and test it locally — far faster than retyping someone else's code from an image.</p>
+<h3>Codice scherziato come immagine</h3>
+<p>Quando qualcuno (inevitabilmente) condivide un frammento di codice come screenshot in Slack, non sei bloccato a riscrivere. Estrai il codice dall'immagine e incollalo nel tuo editor o nella tua risposta di Slack.</p>
 
-<h3>Metrics and Data</h3>
-<p>Dashboard screenshots shared in Slack channels contain numbers, labels, and trends. Select the specific figures you need and paste them into your own reports or spreadsheets without manual transcription errors.</p>
+<h3>Documento e moduli fotografati</h3>
+<p>I team spesso condividono foto di documenti, moduli firmati, biglietti di ricevuta o altre carte in Slack come riferimento. Senza lasciare Slack, estrai il testo leggibile di cui hai bisogno dall'immagine e usalo dove necessario.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "mac-preview-ocr-limitations": {
     slug: "mac-preview-ocr-limitations",
-    title: "Limitazioni di OCR di Anteprima su Mac — Cosa perde",
-    description: "Anteprima gestisce immagini e PDF ma non può estrarre testo dalla maggior parte di essi. Se hai provato a copiare testo da un PDF scansionato o da una foto in Anteprima e non hai ottenuto nulla, ecco perché.",
+    title: "Limitazioni dell'OCR di Mac Preview — Cosa perde",
+    description: "Preview di macOS ha una funzionalità Live Text integrata, ma non è una vera soluzione OCR — è incoerente, limitata e spesso non funziona quando ne hai più bisogno.",
     date: "2026-09-06",
     readTime: "5 min di lettura",
     content: `
-<p>Preview is the default image and PDF viewer on macOS, and many users assume it can handle OCR — recognizing and extracting text from images and scanned documents. In limited situations it can, thanks to Live Text integration. But for many common scenarios, Preview either silently fails to recognize text or provides no extraction capability at all. If you've tried to select text from a scanned PDF or a photo of a document in Preview and your cursor just draws a selection rectangle with no text highlight, you've hit Preview's OCR wall.</p>
+<p>Preview, l'app integrata di visualizzazione di immagini di macOS, ha il supporto Live Text incorporato. Apri un'immagine in Preview e vedrai un piccolo icona che suggerisce la ricerca di testo. Fai clic e le parole nell'immagine diventano selezionabili e copabili. In teoria, questo significa che Preview è il tuo strumento OCR incorporato. In pratica, il suo supporto OCR è incostante, limitato e spesso assente esattamente quando ne hai bisogno.</p>
 
-<h2>Where Preview's Text Recognition Breaks Down</h2>
-<p><strong>Scanned PDFs with complex layouts.</strong> Preview can sometimes recognize text in clean, well-scanned single-column documents. But multi-column layouts, tables, headers and footers, and documents with mixed graphics and text often produce no selectable text at all. The Live Text engine in Preview doesn't handle complex document structures reliably.</p>
-<p><strong>Low-contrast or small text.</strong> Receipt scans, faded documents, and images with low contrast between text and background frequently defeat Preview's recognition. The text might be perfectly readable to human eyes but invisible to Preview's detection.</p>
-<p><strong>Handwritten text.</strong> Preview's text recognition is tuned for printed fonts. Handwritten notes, whiteboard photos, and annotated documents are rarely recognized, even when the handwriting is clean and legible.</p>
-<p><strong>Non-Latin scripts.</strong> Support for non-Latin languages is inconsistent. CJK, Arabic, and Cyrillic text in images may or may not be detected depending on font style, image quality, and document complexity.</p>
-<p><strong>No capture from screen.</strong> Preview only processes files you've opened. If the text you need is in a video frame, a web app interface, an error dialog, or another app's window, Preview has no way to reach it.</p>
+<h2>Preview OCR è incostante</h2>
+<p>La qualità del riconoscimento di Preview dipende da molti fattori: la qualità dell'immagine, la risoluzione, il contrasto, l'angolo del testo e il font utilizzato. Una scansione ben illuminata di un documento stampato potrebbe funzionare benissimo. Una foto leggermente sfocata di una ricevuta potrebbe non funzionare affatto. Il Live Text di Preview — quando funziona — spesso non ti dice se ha riconosciuto una porzione di testo. Selezionare un'area di testo in Preview non è visivo come altri strumenti OCR; spesso non è chiaro se il riconoscimento è avvenuto.</p>
 
-<h2>OCR That Works Across Everything on Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> bypasses Preview's limitations entirely by working at the screen level. Instead of asking a file viewer to recognize text inside a file, Optic reads characters from whatever is visible on your display. Open the problematic document in Preview — or any other app — and drag Optic's selection over the text you need.</p>
+<h2>Preview non ti dà il controllo della regione</h2>
+<p>Con Preview, il riconoscimento è un processo "tutto o niente" a livello di immagine. Puoi caricare l'intera immagine e il Live Text tenta di riconoscere tutto in essa, ma non puoi selezionare manualmente una regione specifica e dire "estrai il testo da qui". Per un'immagine con una piccola area di testo rilevante circondato da molto vuoto, il riconoscimento può rimanere bloccato su elementi non rilevanti o fallire del tutto.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic overcoming Preview OCR limitations on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<h2>Nessuna cronologia, nessun multitasking, nessun QR</h2>
+<p>Preview non salva un registro dei testi che hai estratto. Ogni sessione di riconoscimento è indipendente. Se ricarichi l'immagine, il Live Text deve rierrare il riconoscimento. Non c'è cronologia di acquisizione a cui tornare; nessun controllo versione del testo che hai estratto nel tempo.</p>
+<p>E Preview non ha alcun supporto per i codici QR. Se l'immagine contiene un codice QR insieme al testo, Preview ignora semplicemente il codice.</p>
 
-<h3>Complex Document Layouts</h3>
-<p>Tables, multi-column text, and mixed content that stumps Preview are readable by Optic because you control exactly which region to scan. Select just the column or table cell you need — no full-page parsing required.</p>
+<h2>OCR a livello di schermo con il controllo delle regioni</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> funziona diversamente. Hai il controllo: scegli esattamente quale regione dello schermo desideri analizzare. Trascinare un rettangolo è esplicito e visivo. Puoi estrarre il testo da una piccola sezione di un'immagine grande senza fare affidamento sul riconoscimento a livello di immagine intera e incoerente.
+</p>
 
-<h3>Beyond Files</h3>
-<p>Optic isn't limited to opened files. Video frames, dialogs, web apps, remote desktop sessions — anything rendered on screen is fair game. Preview can never reach these sources; Optic reads them as naturally as any image.</p>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic superando le limitazioni di OCR di Preview su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Persistent History</h3>
-<p>Preview has no memory of past text recognition attempts. Optic saves every extraction in the menu bar, building a log of captured text you can scroll through and re-copy at any time.</p>
+<h3>Cronologia persistente di acquisizione</h3>
+<p>Ogni estrazione di testo è salvata nella cronologia del menu bar. Tornare a qualcosa che hai estratto ore fa non significa rierrare il riconoscimento — è già lì nei tuoi appunti, ritratto dalla cronologia.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<h3>Gestione coerente del testo sia da immagini che da video</h3>
+<p>Preview gestisce solo le immagini statiche. Se il testo che devi estrarre è in un video, una finestra di dialogo di un'app, un elemento UI sullo schermo o qualsiasi altra cosa che non sia un file di immagine, Preview è inutile. Optic funziona su qualsiasi cosa visibile, indipendentemente da dove provenga.</p>
+
+<h3>Scansione integrata di codici QR</h3>
+<p>Se un'immagine contiene un codice QR, Optic lo decodifica anche. Un'estrazione può catturare sia il testo che il codice QR dalla stessa area, il tutto in uno strumento.</p>
+
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "batch-ocr-screenshots-mac": {
     slug: "batch-ocr-screenshots-mac",
-    title: "OCR batch di screenshot su Mac — Elabora cronologia di cattura",
-    description: "Hai una collezione di screenshot contenenti testo di cui hai bisogno — ma elaborarli uno per uno attraverso uno strumento OCR tradizionale è tedioso e lento.",
+    title: "OCR batch screenshot su Mac — Cronologia di acquisizione del processo",
+    description: "Hai una cartella piena di screenshot e hai bisogno di estrarre il testo da tutti loro — non una per una, ma tutti insieme con cronologia.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You took a dozen screenshots during a research session — pricing tables, feature comparisons, settings panels, reference material. Now you need the text from all of them. With traditional OCR tools, that means opening each file individually, running recognition, copying the output, pasting it somewhere, and repeating. Twelve screenshots means twelve cycles of file-open-process-copy-paste. It's not hard — just tediously slow.</p>
+<p>Nel corso di una settimana di ricerca, di revisione, o di raccolta di riferimenti, accumuli una cartella di screenshot. Ogni screenshot contiene pezzi di testo che hai voluto salvare — una frase da un articolo, alcuni numeri da un foglio di calcolo, un comando da un tutorial. Ora hai un cartella di 50 screenshot e hai bisogno di accedere al testo da tutti loro, ma non vuoi aprire ogni screenshot, riscrivere il testo manualmente, e organizzare tutto in maniera ordinata.</p>
 
-<h2>macOS Offers No Batch Text Extraction</h2>
-<p>There's no built-in macOS feature that lets you select multiple images and extract text from all of them. Preview can open multiple files but has no "extract all text" function. Automator and Shortcuts can chain some actions together but lack reliable OCR capabilities for screen captures. You're either processing each image manually or installing heavy-duty document processing software meant for enterprise scanning workflows.</p>
-<p>The irony is that you captured these screenshots quickly — Cmd+Shift+4, click, done — but extracting the text from them takes ten times longer than capturing them did.</p>
+<h2>I screenshot di batch sono una ricerca del testo noioso</h2>
+<p>Senza uno strumento OCR integrato, il tuo approccio è semplice ma tedioso: apri Preview, carica lo screenshot, tenta di selezionare il testo (se Live Text funziona), copia, incolla in un documento, ripeti per i prossimi 49 screenshot. Anche con uno strumento OCR dedicato, sei ancora di fronte a un flusso di lavoro di "carica, ricerca, copia, ripeti" per ogni file. Nessuno strumento ti dà un registro ricercabile di tutto il testo che hai estratto nel tempo.</p>
 
-<h2>Rapid-Fire Screen OCR with Built-In History</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> turns batch extraction into a fast, linear workflow. Open your screenshots in Quick Look or any viewer, then make rapid selections — drag over the text in one image, move to the next, drag again. Each extraction is instantly saved to Optic's capture history in the menu bar. No file management, no save dialogs, no copy-paste juggling between windows.</p>
+<h2>Costruisci una cronologia ricercabile di acquisizioni</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> trasforma il tuo flusso di lavoro di ricerca da "apri screenshot, OCR, copia, ripeti" a "apri screenshot, trascina, incolla in cronologia." Più importante, la cronologia di Optic è il tuo archivio di tutte le estrazioni. Nel corso di giorni, settimane o mesi di lavoro con screenshot, la cronologia accumula un registro completo di ogni testo che hai estratto.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic batch processing screenshots on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic elaborando cronologia di acquisizione di screenshot batch su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Research Sessions</h3>
-<p>Captured screenshots from competitor websites, pricing pages, or documentation? Open them in sequence and fire off extractions. Your capture history becomes a clean text log of everything you gathered — searchable and re-copyable without reopening any images.</p>
+<h3>Velocità attraverso la cartella di ricerca</h3>
+<p>Apri una cartella di screenshot in Finder e disponi le anteprime di fianco. Nel tuo menu bar, il menu di Optic è sempre a portata di mano. Scorrere attraverso gli screenshot, fai una selezione per ognuno in cui vedi il testo di cui hai bisogno. Ogni acquisizione si aggiunge alla cronologia senza alcun interruzione del flusso di lavoro.</p>
 
-<h3>Capture History as Your Text Archive</h3>
-<p>Every extraction is timestamped and stored in the menu bar dropdown. After processing a batch of screenshots, scroll through the history to review, re-copy, or verify individual captures. The history functions as a lightweight text archive of your extracted content.</p>
+<h3>Cronologia come indice</h3>
+<p>Nella cronologia del menu bar, gli elementi di acquisizione più recenti in alto. Scroll indietro per trovare qualcosa che hai estratto ieri o la settimana scorsa. La cronologia funge da indice ricercabile del testo che hai raccolto, molto più utile di una cartella di screenshot non etichettati.</p>
 
-<h3>Selective Extraction</h3>
-<p>Unlike automated batch OCR that processes entire images, you control exactly which portion of each screenshot to extract. Need just the price from a pricing table? Just the error code from a log screenshot? Select precisely what matters and skip the rest.</p>
+<h3>Esportazione della cronologia</h3>
+<p>Optic salva la cronologia per facile accesso, ma puoi anche copiare più acquisizioni dalla cronologia, incollarle in un documento e organizzarle come necessario. Una singola sessione di estrazione da una cartella di screenshot produce un registro ordinato di tutte le informazioni che desideri mantener.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "copy-address-from-image-mac": {
     slug: "copy-address-from-image-mac",
     title: "Come copiare un indirizzo da un'immagine su Mac",
-    description: "Un'etichetta di consegna, una foto di biglietto da visita o una lettera scansionata contiene un indirizzo di cui hai bisogno — ma è intrappolato in un'immagine senza modo di selezionarlo.",
+    description: "Un indirizzo è in una foto, una ricevuta, un modulo o una schermata di mappa — e hai bisogno come testo che puoi incollare, non come immagine che devi riscrivere.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>You need to copy an address from a photo of a business card, a scanned envelope, a screenshot of a contact page, or a delivery confirmation image. The address is clearly printed — street, city, state, ZIP — but because it's in an image, you can't click on it, can't select it, can't copy it. You have to read each line and type it into your map app, your contacts, or your shipping form. One mistyped digit in a ZIP code and the package goes to the wrong place.</p>
+<p>Hai una foto di un edificio con il numero civico visibile. O una ricevuta con un indirizzo di spedizione. O uno screenshot di una pagina di mappa con un indirizzo che desideri copiare. L'indirizzo è chiaramente leggibile nell'immagine, ma è ancora pixel, non testo. Se vuoi usare l'indirizzo — incollarla in una mappa, copiarla in un modulo di spedizione, salvarla nel tuo calendario per le indicazioni — devi prima trascrivere manualmente ogni riga, numero civico, strada, città, codice postale.</p>
 
-<h2>Addresses in Images Require Perfect Manual Transcription</h2>
-<p>Addresses are particularly risky to retype. They contain a mix of numbers, street name abbreviations, unit numbers, and postal codes — all of which must be exact. Transposing two digits in a ZIP code or misspelling an apartment number means failed delivery or misdirected mail. And unlike most text, you can't easily verify an address by reading it back — you need to compare character by character.</p>
-<p>macOS provides no built-in workflow for extracting an address from an image. Live Text might highlight addresses in some Photos images and offer to open them in Maps, but this only works in specific Apple apps, with clean images, and it extracts to Maps — not to your clipboard for pasting elsewhere.</p>
+<h2>Gli indirizzi sono particolarmente fragili da trascrivere</h2>
+<p>Gli indirizzi contengono elementi di diversa densità di informazioni. Ci sono numeri, nomi di strade, abbreviazioni (St, Ave, Blvd), nomi di città e codici postali. Un singolo errore — un numero di civico sbagliato, un'abbreviazione di stato scorretta, un codice postale di una cifra non disponibile — significa che l'indirizzo non risolve, il pacco non arriva, o le indicazioni portano nel posto sbagliato.</p>
+<p>Peggio ancora, gli indirizzi variano in formato e layout tra le fonti. Una ricevuta formattata potrebbe avere l'indirizzo su una riga singola. Una schermata di mappa potrebbe avere tutto nella stessa riga ma con spaziatura irregolare. Una foto di un edificio potrebbe avere il numero civico su una linea separata dal nome della strada. Anche "copiare e incollare" manualmente è soggetto a errori di layout.</p>
 
-<h2>Drag Over the Address, Paste It Anywhere</h2>
-<p>Open the image containing the address in any app — Preview, Mail, a browser, Slack — then activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar and drag a selection around the address. The complete text — every line, every number, every abbreviation — is copied to your clipboard. Paste it into Google Maps, a shipping form, your contacts, or an email.</p>
+<h2>Estrai l'indirizzo, incollalo dove ne hai bisogno</h2>
+<p>Apri l'immagine contenente l'indirizzo in qualsiasi visualizzatore, attiva <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> dal menu bar e trascina una selezione sull'indirizzo. I caratteri vengono riconosciuti, preservando le interruzioni di riga, la punteggiatura e i numeri esatti. Incolla negli appunti e l'indirizzo va dove ne hai bisogno — moduli di navigazione, moduli di spedizione, inviti di calendario.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic copying an address from an image on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che copia un indirizzo da un'immagine su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Business Cards</h3>
-<p>Photos of business cards from networking events are notorious for sitting in your camera roll without their addresses ever making it into your contacts. Open the photo, select the address with Optic, and paste it directly into the contact entry. Works for phone numbers and email addresses visible on the card too.</p>
+<h3>Ricevute di spedizione</h3>
+<p>Un indirizzo di spedizione è visibile su una ricevuta o una conferma di ordine — in forma di immagine, PDF scansionato o screenshot. Estrai l'indirizzo completo con una singola selezione di Optic. Nessun manualmente riscrivere numero civico, strada, città e stato.</p>
 
-<h3>Shipping and Returns</h3>
-<p>Return shipping labels, delivery confirmations, and packaging photos often contain addresses you need to reference or reuse. Extract the address from the image and paste it into your shipping platform without retyping.</p>
+<h3>Mappe e indicazioni stradali</h3>
+<p>Hai una destinazione su una mappa sullo schermo o in una foto di una pagina di mappa. Estrai l'indirizzo e incollalo nel tuo app di navigazione preferito. L'indirizzo esatto, formato in modo che la tua app di navigazione possa utilizzarlo immediatamente.</p>
 
-<h3>Real Estate and Directions</h3>
-<p>Listing photos, property flyers, and scanned documents in the real estate process are full of addresses. Grab any address from these images and paste it into your maps app for directions or into a spreadsheet for tracking.</p>
+<h3>Raccolta di contatti</h3>
+<p>Quando raccogli indirizzi da fonti diverse — foto di edifici, cartoline, annunci online — Optic ti permette di estrarre ogni indirizzo come testo selezionabile. Raccogli un elenco di indirizzi nel tuo app di contatti senza trascrizione manuale.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "ocr-code-snippets-mac": {
     slug: "ocr-code-snippets-mac",
     title: "Frammenti di codice OCR su Mac — Copia codice da tutorial e screenshot",
-    description: "Il codice appare come immagine in un tutorial, documentazione o screenshot condiviso — e riscriverlo significa introdurre bug un carattere fuori posto alla volta.",
+    description: "Stai seguendo un tutorial e il codice è mostrato in uno screenshot o immagine. Hai bisogno di copiare il codice, non riscrivere ogni riga.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>A blog post renders its code examples as styled images. A coworker pastes a screenshot of their IDE into a pull request comment. Documentation for a legacy tool only exists as terminal screenshots on a wiki. Stack Overflow answers include code embedded in images because the formatter mangled the original. In each case, the code is visible and readable, but it's an image — and copying code from an image by retyping it is how you spend thirty minutes debugging a semicolon you thought was a colon.</p>
+<p>Stai seguendo una esercitazione di codifica che mostra frammenti di codice come immagini anziché testo incollabile. Uno screenshot di una ricerca di Stack Overflow mostra una risposta rialzata come immagine. La documentazione di un framework è stata scansionata e ora gli esempi di codice esist come pagine PDF scansionate, non come testo. Il codice è esattamente quello di cui hai bisogno e rientra nella tua comprensione, ma è intrappolato dentro un'immagine.</p>
 
-<h2>Code Demands Character-Perfect Extraction</h2>
-<p>Unlike prose, code has zero tolerance for approximation. A hyphen instead of an underscore breaks an import. A single misplaced bracket makes a function invalid. A lowercase letter where uppercase was needed changes a variable reference entirely. When you retype code from an image, every character is a potential point of failure — and the bugs you introduce are invisible because they look correct at a glance.</p>
-<p>The problem is magnified with long commands, multi-line snippets, or unfamiliar syntax. A Docker run command with ten flags, a regex pattern, or a shell pipeline with pipes and redirects — these are exactly the kind of content that gets shared as images and is nearly impossible to retype accurately.</p>
+<h2>Il codice è l'ultimo cosa che vuoi riscrivere</h2>
+<p>Contrariamente a una frase di prosa o numeri da una ricevuta, il codice è completamente intollerante ai piccoli errori. Un carattere sbagliato, una spaziatura fuori, una punteggiatura errata rompe il codice o lo rende funzionalmente diverso. Riscrivere il codice da un'immagine è un esercizio di frustrazione, specialmente per codice complesso con indentazione, parentesi nidificate e vari tipi di virgolette.</p>
 
-<h2>Extract Code from Any Image on Screen</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> reads the code characters directly from your screen. Open the image, tutorial page, or screenshot containing the code, activate Optic from the menu bar, and drag a selection over the snippet. The recognized text — preserving indentation, special characters, and line structure — goes straight to your clipboard.</p>
+<p>Eppure il codice su Internet appare frequentemente come immagini. I tutorial lo mostrano per il controllo visivo e la formattazione. Gli articoli di blog lo rendono come screenshot. I post su social media renderlo come immagini stilizzate (utilizzando strumenti come Carbon.now.sh). GitHub, Stack Overflow e altri siti web talvolta si salvano come immagini prima di essere condivisi. Il testo originale è perso, rimane solo l'immagine.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic extracting code from a screenshot on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<h2>Estrai il codice esattamente come è</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> legge il codice da qualsiasi immagine sullo schermo. Visualizza la pagina del tutorial, lo screenshot di Stack Overflow o la documentazione scansionata. Attiva Optic, trascina un rettangolo sul blocco di codice e i caratteri vengono letti esattamente come appaiono — indentazione, virgolette, punteggiatura incluse.</p>
 
-<h3>Terminal Commands</h3>
-<p>Install scripts, build commands, and deployment pipelines displayed as terminal screenshots are common in documentation and tutorials. Select the command block and paste it into your terminal with confidence that the flags, paths, and arguments are exactly right.</p>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che estrae frammenti di codice dagli screenshot su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>IDE Screenshots</h3>
-<p>When a colleague shares a screenshot of their code — in Slack, in a GitHub comment, in an email — extract the code and paste it into your own editor. Test it, modify it, or review it properly instead of squinting at an image.</p>
+<h3>Codice su articoli e tutorial</h3>
+<p>Un tutorial visualizza un blocco di codice come immagine, forse per la formattazione o per catturare una screenshot di schermo. Estrai il codice blocco con una selezione, incolla nel tuo editor e continua. Nessun riscrittura riga per riga, nessun indovinare se la punteggiatura è corretta.</p>
 
-<h3>Multi-Snippet Extraction</h3>
-<p>Tutorials often show multiple code blocks across a page. Extract each one in sequence. Optic's capture history saves every extraction, so you can work through an entire tutorial and paste each snippet into your project one by one from the history dropdown.</p>
+<h3>Documentazione scansionata</h3>
+<p>La documentazione tecnica legacy è spesso disponibile solo come PDF scansionati. Apri il PDF, visualizza la pagina contente il codice di esempio che ti serve, e Optic estrae il codice. Funziona per codice Python, JavaScript, Java, SQL o qualsiasi linguaggio in cui il testo è leggibile.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<h3>Frammenti dal social media</h3>
+<p>Uno sviluppatore condivide un frammento di codice come screenshot su Twitter. Una risposta su GitHub è stata screenshotted e condivisa. Optic legge il codice dalle immagini sui social media e nel tuo browser, consentendoti di copiare esattamente ciò di cui hai bisogno.</p>
+
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
   "text-to-speech-from-screen-mac": {
     slug: "text-to-speech-from-screen-mac",
     title: "Sintesi vocale da qualsiasi contenuto dello schermo su Mac",
-    description: "Vuoi ascoltare il testo che è sullo schermo — in un'immagine, un PDF scansionato, un fotogramma video — ma gli strumenti vocali del tuo Mac funzionano solo su testo che puoi evidenziare.",
+    description: "Vuoi sentire il testo del tuo schermo letto ad alta voce — che sia da un'immagine, video, articolo web o documento — e far parlare il tuo Mac in base al contenuto.",
     date: "2026-09-06",
     readTime: "4 min di lettura",
     content: `
-<p>macOS includes a spoken content feature that reads selected text aloud. Highlight a paragraph in Safari, right-click, and your Mac speaks it. The feature works well — until you need to hear text that can't be highlighted. An infographic with key statistics. A scanned document with no text layer. Subtitles baked into a video frame. Text rendered as a graphic on a web app. In all these cases, macOS spoken content has nothing to work with because there's no selectable text to feed it.</p>
+<p>Multitasking beneficia dall'audio. Ascoltare il testo mentre lavi i piatti, guidi, fai esercizio o lavori su un'altra attività è più efficiente che fermarsi per leggere. La prova di bozze è più efficace quando leggi il testo ad alta voce invece di rileggere silenziosamente. L'accessibilità per ipovedenti o dislessici richiede una modalità alternativa oltre al testo su schermo.</p>
 
-<h2>Most Screen Text Isn't Selectable</h2>
-<p>The amount of non-selectable text on a modern Mac screen is larger than most people realize. Images with text overlays, canvas-rendered web apps, PDF scans, video frames, remote desktop sessions, dialog boxes, app interfaces with custom-rendered labels — all of these display readable text that macOS treats as part of an image. You can see it, you can read it with your eyes, but you can't select it, so you can't send it to the speech engine.</p>
-<p>For users who rely on audio output for accessibility, proofreading, multitasking, or language learning, this gap is a real barrier. The text is on screen, the speech engine is on the same machine, but there's no bridge between them for non-selectable content.</p>
+<p>Ma il testo sullo schermo che desideri ascoltare è spesso non selezionabile. In un'immagine, bloccato in un elemento canvas di una pagina web, visualizzato in un video, nascosto dietro una UI non interattiva — il testo è lì ma il sintetizzatore vocale di macOS non può raggiungerlo. "Speak Selection" funziona solo su testo selezionabile.</p>
 
-<h2>Select Anything on Screen, Hear It Aloud</h2>
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> closes this gap by combining screen-level OCR with text-to-speech. Activate it from the menu bar, drag a selection over any visible text — regardless of source — and Optic recognizes the characters. You can then have the captured text read aloud, turning any visible screen content into audio.</p>
+<h2>Estrai, quindi ascolta</h2>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> combina l'estrazione del testo con la sintesi vocale integrata. Quando estrai il testo da una sorgente non selezionabile, la stessa acquisizione può essere letta ad alta voce. Nessuna necessità di copiar-incollare in un'applicazione separata o di usare uno strumento di sintesi vocale di terze parti.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic text-to-speech from screen content on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic che legge il testo ad alta voce da qualsiasi contenuto dello schermo su Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Accessibility</h3>
-<p>Screen readers like VoiceOver work well with native UI elements and standard text, but stumble on text inside images and non-standard rendering. Optic fills this gap by making any visible text available as both clipboard text and spoken audio. Content that was previously inaccessible becomes hearable.</p>
+<h3>Articoli di notizie e blog</h3>
+<p>Un articolo web ha una formattazione che rende difficile la lettura, o semplicemente preferisci ascoltare mentre fai altro. Estrai paragrafi di testo con Optic e ascoltali letti ad alta voce. Il flusso di lavoro rimane coerente: attiva Optic, trascina, ascolta.</p>
 
-<h3>Proofreading</h3>
-<p>Hearing text read aloud catches errors that visual scanning misses. After extracting text from a scanned document or image, use text-to-speech to verify the OCR output. A garbled word or misrecognized character is immediately obvious when spoken but might pass unnoticed on screen.</p>
+<h3>Contenuti da immagini e PDF</h3>
+<p>Un PDF scansionato, una foto di un documento, uno screenshot di un articolo — qualsiasi contenuto di cui puoi leggere il testo sullo schermo può essere estratto e letto ad alta voce. Utile per revisione di bozze, accessibilità o semplicemente preferire l'udito alla lettura.</p>
 
-<h3>Multitasking and Comprehension</h3>
-<p>Extract a long passage from a document, article, or scanned page and listen to it while doing other work. Audio processing engages different cognitive channels than reading, which can aid comprehension and retention — especially for dense or unfamiliar material. Every capture stays in your menu bar history, so you can revisit and replay any previous extraction.</p>
+<h3>Cronologia di acquisizione con playback</h3>
+<p>Dalla cronologia di Optic nel menu bar, puoi rivisitare acquisizioni precedenti e fare che vengono lette ad alta voce di nuovo. Costruisce un archivio di contenuti audio estratti nel tempo — un registro di testo che hai raccolto, ora disponibile anche in forma audio.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Scarica Optic sul Mac App Store</a></p>
 `,
   },
 };

@@ -3,878 +3,814 @@ import type { ArticleSet } from "./index";
 export const nlArticles: ArticleSet = {
   "block-distracting-websites-mac": {
     slug: "block-distracting-websites-mac",
-    title: "Hoe afleidende websites op Mac te blokkeren",
-    description: "Je opent je browser om één ding te controleren en 40 minuten later zit je diep in een Reddit-thread. macOS wordt niet geleverd met een echte website-blocker — hier is hoe je dat kunt oplossen.",
+    title: "Hoe u afleidende websites op Mac kunt blokkeren",
+    description: "Je opent je browser om iets te checken en 40 minuten later zit je diep in een Reddit-draad. macOS wordt niet geleverd met een echte website blocker — hier is hoe je dat oplost.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You sit down to work, open Safari or Chrome, and before you even reach the tab you needed you've already typed "r-e-d" into the address bar out of muscle memory. Forty minutes later you surface from a thread about whether hot dogs are sandwiches. The work is still waiting.</p>
+<p>Je gaat zitten om te werken, opent Safari of Chrome, en voordat je zelfs de tab bereikt die je nodig hebt, heb je al "r-e-d" in de adresbalk getypt uit gewoonte. Veertig minuten later kom je boven water uit een draad over of hotdogs sandwiches zijn. Het werk wacht nog steeds.</p>
 
-<p>This isn't a willpower problem. It's a design problem. Browsers are built to get you to content as fast as possible — including the content you're trying to avoid.</p>
+<p>Dit is geen wilskrachtprobleem. Het is een ontwerp probleem. Browsers zijn gebouwd om je zo snel mogelijk bij inhoud te brengen — inclusief de inhoud die je probeert te vermijden.</p>
 
 <h2>Waarom macOS dit niet oplost</h2>
-<p>Apple added Screen Time website limits in macOS Catalina, but they only work in Safari. If you also use Chrome, Firefox, Arc, or any other browser, those limits do nothing. You can also dismiss Screen Time prompts with a single click — it's a speed bump, not a wall.</p>
+<p>Apple voegde beperkingen voor website-schermlijd toe in macOS Catalina, maar die werken alleen in Safari. Als je ook Chrome, Firefox, Arc of een ander browser gebruikt, doen die limieten niets. Je kunt ook waarschuwingen van Schermlijd negeren met één klik — het is een snelheidsdrempel, geen muur.</p>
 
-<p>Editing your <code>/etc/hosts</code> file works in theory, but it requires Terminal commands, sudo access, and manual cleanup when you're done. It's not practical for daily use and it doesn't run on a timer.</p>
+<p>Het bewerken van je <code>/etc/hosts</code> bestand werkt in theorie, maar het vereist Terminal-opdrachten, sudo-toegang en handmatig schoonmaken wanneer je klaar bent. Het is niet praktisch voor dagelijks gebruik en het werkt niet op timer.</p>
 
-<h2>Websites blokkeren op systeemniveau met Lock In!</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> uses a macOS system extension to block distracting websites across every browser on your Mac — Safari, Chrome, Firefox, Arc, Brave, all of them. You pick the sites, set a timer, and they're gone until the session ends.</p>
+<h2>Websites systeemwijd blokkeren met Lock In!</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> gebruikt een macOS-systeemextensie om afleidende websites in alle browsers op je Mac te blokkeren — Safari, Chrome, Firefox, Arc, Brave, allemaal. Je kiest de sites, stelt een timer in en ze zijn weg totdat de sessie eindigt.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! website blocker for Mac showing blocked sites during a focus session" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! website blocker voor Mac met geblokkeerde websites tijdens een focussessie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Vooraf ingestelde blokkeringslijsten</h3>
-<p>Lock In! ships with curated blocklists for Social Media, Entertainment, News, and Shopping. One click blocks dozens of time-sink domains. You can also add custom URLs for anything specific to your own browsing habits.</p>
+<p>Lock In! wordt geleverd met samengestelde blokkeringslijsten voor Social Media, Entertainment, Nieuws en Winkelen. Één klik blokkeert tientallen tijdroofdomein. Je kunt ook aangepaste URL's toevoegen voor iets dat specifiek is voor je eigen browsergewoonten.</p>
 
-<h3>Getimede sessies</h3>
-<p>Set a focus session for 25 minutes, an hour, or any custom duration. The blocked sites stay blocked until the timer runs out. No browser extension to disable, no hosts file to revert — it works at the system level.</p>
+<h3>Timed Sessies</h3>
+<p>Stel een focussessie in voor 25 minuten, een uur of elke aangepaste duur. De geblokkeerde sites blijven geblokkeerd totdat de timer afloopt. Geen browserextensie om uit te schakelen, geen hosts-bestand om terug te draaien — het werkt op systeemniveau.</p>
 
 <h3>Strikte modus</h3>
-<p>If you're the type to cancel a block two minutes in, enable Strict Mode. Once a session starts, there's no way to end it early. The sites stay blocked. Period.</p>
+<p>Als je het type bent dat twee minuten na het starten de blokkering annuleert, schakel dan Strikte modus in. Zodra een sessie begint, is er geen manier om die voortijdig af te breken. De sites blijven geblokkeerd. Punt.</p>
 
-<p>Blocking distracting websites shouldn't require a computer science degree. It should take two clicks from your menu bar. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Het blokkeren van afleidende websites mag geen universitaire graad vereisen. Het moet twee klikken van je menubalk zijn. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "website-blocker-focus-mac": {
     slug: "website-blocker-focus-mac",
     title: "Beste website blocker voor focus op Mac",
-    description: "Browserextensies zijn gemakkelijk uit te schakelen, Schermtijd dekt alleen Safari af en hosts-bestand trucs hebben Terminal nodig. Een blocker op systeemniveau die in elke browser werkt is het ontbrekende stuk.",
+    description: "Browserextensies kunnen gemakkelijk worden uitgeschakeld, Schermlijd dekt alleen Safari af en hosts-bestand hacks hebben Terminal nodig. Een blocker op systeemniveau die in elke browser werkt, is het ontbrekende stuk.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>Er zijn tientallen website blockers voor Mac. De meeste daarvan zijn browserextensies — en dat is het probleem. Extensies kunnen in drie seconden worden uitgeschakeld. Wanneer je brein naar afleiding verlangt, zijn drie seconden niets.</p>
+<p>Er zijn tientallen website blockers voor Mac. De meeste zijn browserextensies — en dat is het probleem. Extensies kunnen in drie seconden worden uitgeschakeld. Wanneer je hersenen naar afleiding smachten, zijn drie seconden niets.</p>
 
-<p>Een focusgericht website blocker moet onder het browserniveau werken. Het moet sites blokkeren ongeacht welke browser je opent, en het moet ontblokkering onhandig genoeg maken dat je het niet probeert.</p>
+<p>Een focus-georiënteerde website blocker moet onder het browserniveau werken. Het moet sites blokkeren ongeacht welke browser je opent, en het moet het ontblokkeren ongemakkelijk genoeg maken dat je het niet bont.</p>
 
-<h2>Waarom de meeste blockers tekort schieten</h2>
-<p>Browser extensions only control one browser. If you block Twitter in Chrome, you can open Safari and scroll freely. Screen Time website limits only apply to Safari and can be dismissed with a click. Hosts-file edits require Terminal access and leave residue if you forget to clean them up.</p>
+<h2>Waarom de meeste blockers tekortschieten</h2>
+<p>Browserextensies controleren slechts één browser. Als je Twitter in Chrome blokkeert, kun je Safari openen en vrijelijk scrollen. Beperkingen voor website-schermlijd gelden alleen voor Safari en kunnen met één klik worden genegeerd. Edits in hosts-bestanden vereisen Terminal-toegang en laten residu achter als je vergeet ze op te schonen.</p>
 
-<p>A blocker that relies on your cooperation isn't really blocking anything. It's suggesting. And suggestions don't work when dopamine is involved.</p>
+<p>Een blocker die op je medewerking vertrouwt, blokkeert eigenlijk niets. Het is een voorstel. En suggesties werken niet als dopamine betrokken is.</p>
 
-<h2>Lock In! — Systeemniveau blokkering vanuit de menu bar</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> runs as a macOS system extension. That means it intercepts requests at the network level, before any browser sees them. Blocked domains fail to load in Safari, Chrome, Firefox, Arc — every app that touches the network.</p>
+<h2>Lock In! — Blokkering op systeemniveau vanuit de menubalk</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> werkt als macOS-systeemextensie. Dit betekent dat het verzoeken op netwerkniveau onderschept, voordat een browser ze ziet. Geblokkeerde domeinen worden niet geladen in Safari, Chrome, Firefox, Arc — elke app die het netwerk aanraakt.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! menu bar focus blocker for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! menubalk focus blocker voor Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Focus-sessies met één klik</h3>
-<p>Lock In! lives in your menu bar. Click it, pick a duration, and start a session. Your blocklist activates instantly. No browser tabs to close, no settings pages to navigate — just click and focus.</p>
+<h3>Focus sessies met één klik</h3>
+<p>Lock In! zit in je menubalk. Klik erop, kies een duur en start een sessie. Je blokkeringslijst wordt onmiddellijk geactiveerd. Geen browsertabs om te sluiten, geen instellingenpagina's om te navigeren — gewoon klikken en focussen.</p>
 
-<h3>Ook app-blokkering</h3>
-<p>Websites aren't the only problem. Lock In! can also block distracting apps. When you try to open a blocked app during a session, a full-screen panel intercepts you and sends you back to work. It covers both attack vectors — browser and app.</p>
+<h3>Ook appblokkering</h3>
+<p>Websites zijn niet het enige probleem. Lock In! kan ook afleidende apps blokkeren. Wanneer je een geblokkeerde app probeert te openen tijdens een sessie, onderschept een schermvullend paneel je en stuurt je terug naar werk. Het dekt beide aanvalsvectoren af — browser en app.</p>
 
 <h3>Dagelijkse statistieken</h3>
-<p>A 7-day bar chart shows your focus history. Seeing a streak of deep-work sessions is motivating. Seeing a gap makes you want to fill it. The data keeps you honest without being preachy about it.</p>
+<p>Een staafdiagram van 7 dagen toont je focusgeschiedenis. Het zien van een reeks diepwerk sessies is motiverend. Het zien van een gat maakt je willen dit vullen. De gegevens houden je eerlijk zonder moralistisch te zijn.</p>
 
 <h3>Globale sneltoetsen</h3>
-<p>Start or check on a session without touching the mouse. Assign a global keyboard shortcut and trigger focus mode from anywhere on your Mac.</p>
+<p>Start of controleer een sessie zonder de muis aan te raken. Wijs een globale toetsenbordsneltoets toe en trigger focusmodus van overal op je Mac.</p>
 
-<p>The best website blocker is the one you can't cheat. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>De beste website blocker is degene die je niet kunt bedriegen. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-tiktok-mac": {
     slug: "block-tiktok-mac",
-    title: "Hoe u TikTok op Mac tijdens het werk blokkeert",
-    description: "TikTok's algoritme is ontworpen om je oneindig te laten scrollen. Wanneer het slechts één tabblad van je werk verwijderd is, is willekracht alleen niet genoeg.",
+    title: "Hoe je TikTok op Mac tijdens het werk kunt blokkeren",
+    description: "Het algoritme van TikTok is ontworpen om je oneindig te laten scrollen. Wanneer het één tabblad weg van je werk is, is willpower alleen niet genoeg.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>TikTok is the most effective attention trap ever built. Its algorithm learns what keeps you watching and serves an infinite stream of it. Opening TikTok "for just a second" during work is like eating one chip from a bag engineered to make you finish it.</p>
+<p>TikTok is de meest effectieve aandachtsvanger die ooit is gebouwd. Het algoritme leert wat je aan het kijken houdt en serveert een oneindige stroom ervan. TikTok openen "voor even" tijdens het werk is als één chip eten uit een zak die is ontworpen om je deze af te maken.</p>
 
-<p>On your phone, you can delete the app or use iOS Screen Time. But on your Mac, tiktok.com is always one tab away. And macOS doesn't give you a simple way to block it.</p>
+<p>Op je telefoon kun je de app verwijderen of iOS Schermlijd gebruiken. Maar op je Mac is tiktok.com altijd één tabblad weg. En macOS geeft je geen eenvoudige manier om het te blokkeren.</p>
 
-<h2>Why TikTok on Mac Is Especially Dangerous</h2>
-<p>On your phone, TikTok at least feels like a separate activity — you physically pick up a different device. On your Mac, it's the same browser you work in. You're writing a report in one tab, and TikTok is a Cmd+T away. There's no context switch, no friction, nothing to make your brain register that you've left work mode.</p>
+<h2>Waarom TikTok op Mac bijzonder gevaarlijk is</h2>
+<p>Op je telefoon voelt TikTok tenminste als een aparte activiteit — je pakt fysiek een ander apparaat. Op je Mac is het dezelfde browser waarin je werkt. Je schrijft een rapport in één tabblad en TikTok is Cmd+T weg. Er is geen contextwissel, geen wrijving, niets om je hersenen te laten registreren dat je werkwijze hebt verlaten.</p>
 
-<p>TikTok's web version is fully featured now. The For You page works identically. The algorithm is just as sticky. And unlike your phone, your Mac has a bigger screen and a keyboard — you can fall even deeper into comment sections and searches.</p>
+<p>De webversie van TikTok is nu volledig uitgerust. De For You-pagina werkt identiek. Het algoritme is net zo kleverig. En in tegenstelling tot je telefoon, heeft je Mac een groter scherm en een toetsenbord — je kunt nog dieper in opmerkingengedeelten en zoekopdrachten vallen.</p>
 
-<h2>Block TikTok System-Wide with Lock In!</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blocks tiktok.com at the system level using a macOS network extension. It doesn't matter which browser you use — Safari, Chrome, Firefox, Arc — TikTok won't load during your focus session.</p>
+<h2>TikTok systeemwijd blokkeren met Lock In!</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blokkeert tiktok.com op systeemniveau met behulp van een macOS netwerk extensie. Het maakt niet uit welke browser je gebruikt — Safari, Chrome, Firefox, Arc — TikTok wordt niet geladen tijdens je focussessie.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blocking TikTok on Mac during a focus session" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blokkeert TikTok op Mac tijdens een focussessie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Add TikTok to Your Blocklist</h3>
-<p>Lock In! includes a Social Media preset blocklist that covers TikTok, Instagram, Twitter, Facebook, and more. Enable the preset or add tiktok.com as a custom entry — either way, one click blocks it for the duration of your session.</p>
+<h3>Voeg TikTok toe aan je blokkeringslijst</h3>
+<p>Lock In! bevat een voorinstelling voor social media-blokkering die TikTok, Instagram, Twitter, Facebook en meer omvat. Schakel de preset in of voeg tiktok.com toe als een aangepast item — in beide gevallen blokkeert één klik het voor de duur van je sessie.</p>
 
-<h3>Strict Mode for Zero Exceptions</h3>
-<p>Knowing you can cancel a block and open TikTok undermines the entire point. Enable Strict Mode and the block becomes permanent until the timer runs out. There's no override, no emergency button, no "just five minutes." You set the session length, and TikTok stays blocked for all of it.</p>
+<h3>Strikte modus voor geen uitzonderingen</h3>
+<p>Weten dat je een blok kunt annuleren en TikTok kunt openen, ondermijnt het hele punt. Schakel Strikte modus in en de blokkering wordt permanent totdat de timer afloopt. Er is geen override, geen noodknop, geen "gewoon vijf minuten." Je stelt de sessilengte in en TikTok blijft voor alles geblokkeerd.</p>
 
-<h3>Pair It with App Blocking</h3>
-<p>If you have a TikTok desktop app or use a wrapper like Unite, Lock In! can block those too. Its app-blocking feature shows a full-screen interrupt panel when you try to launch a blocked app, so every path to TikTok is shut down.</p>
+<h3>Combineer het met app-blokkering</h3>
+<p>Als je een TikTok-desktop-app hebt of een wrapper zoals Unite gebruikt, kan Lock In! die ook blokkeren. De functie voor app-blokkering toont een schermvullend onderbrekingspaneel wanneer je een geblokkeerde app probeert te starten, zodat elk pad naar TikTok wordt afgesloten.</p>
 
-<p>The algorithm doesn't sleep, so your blocker shouldn't have loopholes. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Het algoritme slaapt niet, dus je blocker mag geen gaten hebben. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "cold-turkey-alternative-mac": {
     slug: "cold-turkey-alternative-mac",
     title: "Cold Turkey alternatief voor Mac",
-    description: "Cold Turkey is krachtig maar primair Windows, en de Mac-versie hinkt al lang achter. Een native macOS-alternatief dat systeemextensies gebruikt kan die kloof opvullen.",
+    description: "Cold Turkey is krachtig maar gericht op Windows, en de Mac-versie loopt lange achter. Een native macOS alternatief dat systeemextensies gebruikt, kan dat gat opvullen.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>Cold Turkey is one of the most well-known website blockers, and for good reason — its strict blocking is genuinely hard to circumvent. But Cold Turkey was built for Windows first. The Mac version has historically lagged behind in updates, and it doesn't always feel at home on macOS. If you've been looking for something that works natively on Mac and delivers the same uncompromising blocking, there's a better option now.</p>
+<p>Cold Turkey is één van de meest bekende website blockers, en om gegronde redenen — de strikte blokkering is echt moeilijk te omzeilen. Maar Cold Turkey was eerst voor Windows gebouwd. De Mac-versie is historisch achterblijvend in updates en voelt zich niet altijd thuis op macOS. Als je op zoek bent naar iets dat native op Mac werkt en dezelfde onverzoenlijke blokkering levert, is er nu een beter alternatief.</p>
 
-<h2>Where Cold Turkey Falls Short on Mac</h2>
-<p>Cold Turkey's Mac version uses a different blocking mechanism than its Windows counterpart. macOS is a more locked-down operating system, and tools that rely on workarounds rather than official Apple APIs can break with system updates. The app also lacks the visual integration Mac users expect — it doesn't feel like a native macOS app because it isn't one.</p>
+<h2>Waar Cold Turkey op Mac tekortschiet</h2>
+<p>De Mac-versie van Cold Turkey gebruikt een ander blokkeringsmechanisme dan de Windows-tegenpart. macOS is een meer vergrendeld besturingssysteem, en tools die vertrouwen op workarounds in plaats van officiële Apple API's kunnen breken met systeemupdate. De app mist ook de visuele integratie die Mac-gebruikers verwachten — het voelt niet als een native macOS-app omdat het dat niet is.</p>
 
-<p>Additionally, Cold Turkey's interface carries complexity from its Windows roots. Features like scheduled blocks, allowlists, and break timers are powerful but can feel overwrought if all you want is to block Twitter for two hours and get some work done.</p>
+<p>Bovendien draagt de interface van Cold Turkey complexiteit mee van zijn Windows-roots. Functies zoals geplande blokkering, allowlists en pauze-timers zijn krachtig maar kunnen overdreven aanvoelen als je alleen Twitter twee uur wilt blokkeren en aan het werk gaan.</p>
 
-<h2>Lock In! — Native Mac Blocking with No Workarounds</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is built exclusively for macOS and distributed through the Mac App Store. It uses Apple's official Network Extension framework to block websites at the system level — not browser hacks, not proxy tricks, not hosts-file edits. This means it works reliably across macOS updates and doesn't require disabling System Integrity Protection or granting unusual permissions.</p>
+<h2>Lock In! — Native Mac-blokkering zonder workarounds</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is uitsluitend gebouwd voor macOS en gedistribueerd via de Mac App Store. Het gebruikt Apple's officiële Network Extension-framework om websites op systeemniveau te blokkeren — geen browsertricks, geen proxytrucjes, geen hosts-bestand edits. Dit betekent dat het betrouwbaar werkt op macOS-updates en niet vereist dat System Integrity Protection wordt uitgeschakeld of ongebruikelijke machtigingen worden verleend.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! as a Cold Turkey alternative for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! als Cold Turkey alternatief voor macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Strict Mode Rivals Cold Turkey's Lockout</h3>
-<p>Cold Turkey's signature feature is its strict mode that prevents you from unblocking. Lock In! offers the same commitment device — enable Strict Mode and your session cannot be cancelled early. No uninstall trick, no quit shortcut. You chose your duration, and you live with it.</p>
+<h3>Strikte modus rivaliseeert met Cold Turkey's lockout</h3>
+<p>Cold Turkey's kenmerk is de strikte modus die voorkomt dat je ontgrendelt. Lock In! biedt hetzelfde inzet mechanisme — activeer Strikte modus en je sessie kan niet voortijdig worden geannuleerd. Geen deïnstallatiestunt, geen quit-sneltoets. Je koos je duur en je leeft ermee.</p>
 
-<h3>Website and App Blocking Combined</h3>
-<p>Cold Turkey separates website and app blocking into different products (Cold Turkey Blocker and Cold Turkey Writer). Lock In! handles both in one app. Blocked apps trigger a full-screen interrupt panel, and blocked websites fail to load in any browser.</p>
+<h3>Website- en app-blokkering gecombineerd</h3>
+<p>Cold Turkey scheidt website- en app-blokkering in verschillende producten (Cold Turkey Blocker en Cold Turkey Writer). Lock In! handelt beide af in één app. Geblokkeerde apps activeren een schermvullend onderbrekingspaneel en geblokkeerde websites kunnen niet worden geladen in een browser.</p>
 
-<h3>Menu Bar Simplicity</h3>
-<p>Lock In! lives in your menu bar. There's no main window to manage, no complex scheduling UI. Click the icon, pick a duration, start a session. Preset blocklists for Social, Entertainment, News, and Shopping mean you can go from zero to focused in two clicks.</p>
+<h3>Menubalk eenvoud</h3>
+<p>Lock In! zit in je menubalk. Er is geen hoofdvenster om te beheren, geen complexe plannings-UI. Klik op het pictogram, kies een duur, start een sessie. Voorinstelling blokkeringslijsten voor Social, Entertainment, Nieuws en Winkelen betekenen dat je van nul naar gefocust in twee klikken kunt gaan.</p>
 
-<p>Same unbreakable blocking, native Mac experience. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Dezelfde onbreekbare blokkering, native Mac-ervaring. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-apps-during-focus-mac": {
     slug: "block-apps-during-focus-mac",
-    title: "Hoe u apps blokkeert tijdens focussessies op Mac",
-    description: "Website blokkering is slechts de helft van de strijd. Slack, Discord, iMessage en games bevinden zich buiten de browser — en macOS Focus mode voorkomt niet echt dat je ze opent.",
+    title: "Hoe je apps blokkeert tijdens focussessies op Mac",
+    description: "Website blokkering is slechts half de strijd. Slack, Discord, iMessage en games leven buiten de browser — en macOS focusmodus voorkomt eigenlijk niet dat je ze opent.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You've blocked Reddit and Twitter in your browser. You're feeling disciplined. Then you click on Discord "to check one message," and 30 minutes vanish into a meme channel. Or you open Slack to reply to a thread and end up reading every channel you're in.</p>
+<p>Je hebt Reddit en Twitter in je browser geblokkeerd. Je voelt je gedisciplineerd. Dan klik je op Discord "om één bericht te checken" en 30 minuten verdwijnen in een meme-kanaal. Of je opent Slack om op een thread te antwoorden en eindigt uiteindelijk elk kanaal waar je in zit te lezen.</p>
 
-<p>Website blocking solves half the distraction problem. The other half lives in your Applications folder.</p>
+<p>Website blokkering lost half het afleidingsprobleem op. De andere helft woont in je Applications-map.</p>
 
-<h2>Why macOS Focus Mode Isn't Enough</h2>
-<p>Apple's built-in Focus mode filters notifications — it can silence pings from specific apps. But it doesn't prevent you from opening those apps. You can still launch Discord, Slack, Messages, or Steam during a "Do Not Disturb" session. Focus mode hides the alerts; it doesn't block the source.</p>
+<h2>Waarom macOS focusmodus niet genoeg is</h2>
+<p>Apple's ingebouwde focusmodus filtert meldingen — het kan pings van specifieke apps stilleggen. Maar het voorkomt niet dat je die apps opent. Je kunt nog steeds Discord, Slack, Berichten of Steam starten tijdens een "Niet storen" sessie. Focusmodus verbergt de waarschuwingen; het blokkeert de bron niet.</p>
 
-<p>This means Focus mode only helps with interruptions, not with self-inflicted distractions. If you're the one opening the app, Focus mode does nothing.</p>
+<p>Dit betekent dat focusmodus alleen helpt bij onderbrekingen, niet bij zelfveroorzaakte afleidingen. Als je de app opent, doet focusmodus niets.</p>
 
-<h2>Lock In! Blocks Apps and Websites Together</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> goes beyond website blocking. When you add an app to your blocklist and start a session, any attempt to open that app triggers a full-screen interrupt panel. It covers your screen, tells you the app is blocked, and sends you back to what you were doing.</p>
+<h2>Lock In! blokkeert apps en websites samen</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> gaat voorbij website blokkering. Wanneer je een app aan je blokkeringslijst toevoegt en een sessie start, activeert elke poging de app te openen een schermvullend onderbrekingspaneel. Het bedekt je scherm, vertelt je dat de app is geblokkeerd en stuurt je terug naar wat je aan het doen was.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blocking distracting apps during a focus session on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blokkeert afleidende apps tijdens een focussessie op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Full-Screen Interruption, Not a Gentle Nudge</h3>
-<p>Some blockers show a small notification when you open a blocked app. That's easy to dismiss. Lock In!'s interrupt panel takes over the entire screen. It's impossible to ignore and impossible to use the blocked app behind it. This is the point — if the block is easy to bypass, it's not a block.</p>
+<h3>Schermvullende onderbreking, niet een zachte nudge</h3>
+<p>Sommige blockers tonen een kleine melding wanneer je een geblokkeerde app opent. Dat is gemakkelijk weg te klikken. Het onderbrekingspaneel van Lock In! neemt je hele scherm over. Het is onmogelijk te negeren en onmogelijk de geblokkeerde app erachter te gebruiken. Dit is het punt — als de blokkeering gemakkelijk kan worden omzeild, is het geen blokkeering.</p>
 
-<h3>Combine with Website Blocking</h3>
-<p>The real power is combining both. Block social media websites in every browser via the system extension, and block messaging and entertainment apps via the app blocker. During a Lock In! session, every common distraction path is closed — browser and app.</p>
+<h3>Combineer met website blokkering</h3>
+<p>De echte kracht is het combineren van beide. Blokkeeer social media websites in elke browser via de systeemextensie en blokkeeer messaging- en entertainment-apps via de app-blocker. Tijdens een Lock In! sessie is elk veel voorkomend afleidingspad gesloten — browser en app.</p>
 
-<h3>Preset Lists Get You Started</h3>
-<p>Lock In! includes preset blocklists for common distraction categories: Social, Entertainment, News, and Shopping. These cover popular websites, and you can add specific apps alongside them. Build a blocklist once, and reuse it every session.</p>
+<h3>Voorinstellingenlijsten helpen je op weg</h3>
+<p>Lock In! bevat voorinstellingenlijsten voor veel voorkomende afleidingscategorieën: Social, Entertainment, Nieuws en Winkelen. Deze hebben veel voorkomende websites betrekking en je kunt specifieke apps erbij toevoegen. Bouw eenmaal een blokkeringslijst en hergebruik deze bij elke sessie.</p>
 
-<p>Block the apps, not just the notifications. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Blokkeeer de apps, niet alleen de meldingen. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "mac-screen-time-website-blocking-limitations": {
     slug: "mac-screen-time-website-blocking-limitations",
-    title: "Mac Schermtijd website blokkering werkt niet — hier is waarom",
-    description: "Schermtijd op Mac belooft website limieten, maar het werkt alleen in Safari, kan met één klik genegeerd worden en breekt regelmatig bij macOS-updates.",
+    title: "Mac Schermlijd website-blokkering is kapot — hier is waarom",
+    description: "Schermlijd op Mac belooft website limieten, maar werkt alleen in Safari, kan met één klik worden genegeerd en breekt regelmatig met macOS-updates.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>If you've tried to use Screen Time on your Mac to block distracting websites, you've already discovered the frustration. Apple built Screen Time primarily for parental controls on iPhones. The Mac version is an afterthought, and its website blocking features reflect that.</p>
+<p>Als je Schermlijd op je Mac hebt geprobeerd te gebruiken om afleidende websites te blokkeren, heb je de frustratie al ontdekt. Apple bouwde Schermlijd primair voor ouderlijk toezicht op iPhones. De Mac-versie is een bijzaak en de website-blokkeringsfuncties weerspiegelen dit.</p>
 
-<h2>The Problems with Screen Time Website Blocking</h2>
+<h2>De problemen met Schermlijd website-blokkering</h2>
 
-<h3>Safari Only</h3>
-<p>Screen Time's website restrictions only apply to Safari. If you use Chrome, Firefox, Arc, Brave, or any other browser — and most professionals use at least one non-Safari browser — the limits don't apply. You can block twitter.com in Screen Time and still scroll Twitter in Chrome without any restriction.</p>
+<h3>Alleen Safari</h3>
+<p>Beperkingen voor website-schermlijd gelden alleen voor Safari. Als je Chrome, Firefox, Arc, Brave of een ander browser gebruikt — en de meeste professionals gebruiken minstens één niet-Safari browser — gelden de limieten niet. Je kunt twitter.com in Schermlijd blokkeren en nog steeds Twitter in Chrome scrollen zonder beperking.</p>
 
-<h3>One-Click Dismiss</h3>
-<p>When you hit a Screen Time website limit in Safari, you see a prompt. That prompt has an "Ignore Limit" button. One click and you're back on the site. The limit resets the next day and you do it again. It's a reminder, not a block — and reminders don't work against habitual distractions.</p>
+<h3>Eenmalig negeren</h3>
+<p>Wanneer je een website-limiet voor Schermlijd raakt in Safari, zie je een prompt. Die prompt heeft een "Negeer limit" knop. Één klik en je bent terug op de site. De limiet herstelt de volgende dag en je doet het opnieuw. Het is een herinnering, geen blokkering — en herinneringen werken niet tegen gewoonteachtige afleidingen.</p>
 
-<h3>Unreliable Across Updates</h3>
-<p>Screen Time on Mac has a history of bugs. Limits that stop syncing, restrictions that silently disable themselves, categories that don't include the right websites. Each macOS update seems to fix some issues and introduce others. It's not a tool you can depend on for daily focus discipline.</p>
+<h3>Onbetrouwbaar op updates</h3>
+<p>Schermlijd op Mac heeft een geschiedenis van bugs. Limieten die stoppen met synchroniseren, beperkingen die zichzelf geluisloos uitschakelen, categorieën die niet de juiste websites bevatten. Elke macOS-update lijkt wat problemen op te lossen en anderen te introduceren. Het is geen tool waarop je kunt vertrouwen voor dagelijkse focusdiscipline.</p>
 
-<h3>No Timer-Based Sessions</h3>
-<p>Screen Time uses daily time limits — "30 minutes of social media per day." But that's not how focus work happens. You need to block sites for the next 2 hours while you finish a project, not manage a daily budget. Screen Time doesn't support timed focus sessions at all.</p>
+<h3>Geen op timer gebaseerde sessies</h3>
+<p>Schermlijd gebruikt dagelijkse tijdslimieten — "30 minuten sociale media per dag." Maar zo verloopt focuswerk niet. Je moet sites blokkeren voor de volgende 2 uur terwijl je een project afmaakt, niet een dagelijks budget beheren. Schermlijd ondersteunt op timer gebaseerde focussessies helemaal niet.</p>
 
-<h2>Lock In! Does What Screen Time Should</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> was built specifically because Screen Time fails at this job. It uses a macOS system extension to block websites across every browser — Safari, Chrome, Firefox, Arc, all of them. No browser is exempt.</p>
+<h2>Lock In! doet wat Schermlijd zou moeten doen</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is specifiek gebouwd omdat Schermlijd deze taak niet goed aanpakt. Het gebruikt een macOS systeemextensie om websites te blokkeren in elke browser — Safari, Chrome, Firefox, Arc, allemaal. Geen browser is vrijgesteld.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! replacing Screen Time for website blocking on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! vervangt Schermlijd voor website-blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>No Dismiss Button</h3>
-<p>Blocked websites simply don't load. There's no prompt to ignore, no button to click through. In Strict Mode, you can't even end the session early. The block is absolute.</p>
+<h3>Geen knop negeren</h3>
+<p>Geblokkeerde websites laden gewoon niet. Er is geen prompt om te negeren, geen knop om doorheen te klikken. In Strikte modus kun je niet eens de sessie voortijdig beëindigen. De blokkering is absoluut.</p>
 
-<h3>Session-Based, Not Budget-Based</h3>
-<p>Lock In! uses timed sessions. Block your distractions for 25 minutes, 1 hour, or 4 hours. When the session ends, everything unblocks automatically. This fits how real work sessions function — concentrated bursts, not all-day rationing.</p>
+<h3>Op sessies gebaseerd, niet op budgetten</h3>
+<p>Lock In! gebruikt timed sessies. Blokkeeer je afleidingen voor 25 minuten, 1 uur of 4 uur. Als de sessie eindigt, ontgrendelt alles automatisch. Dit past bij hoe echte werksessies functioneren — geconcentreerde bursts, geen rationing voor de hele dag.</p>
 
-<p>Stop fighting Screen Time's limitations. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Stop met tegen de beperkingen van Schermlijd. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "pomodoro-website-blocker-mac": {
     slug: "pomodoro-website-blocker-mac",
-    title: "Pomodoro timer met website blokkering voor Mac",
-    description: "De Pomodoro-techniek valt uit elkaar wanneer je 25-minuten focusspurt een 10-minuten omleiding naar Instagram bevat. Een timer alleen is niet genoeg — je hebt blokkering nodig tijdens elk interval.",
+    title: "Pomodoro timer met website-blokkering voor Mac",
+    description: "De Pomodoro-techniek valt uit elkaar wanneer je 25-minuten focusprint een 10-minuten afleiding naar Instagram bevat. Een timer alleen is niet genoeg — je hebt blokkering nodig gedurende elk interval.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>The Pomodoro Technique is simple: work for 25 minutes, break for 5 minutes, repeat. It's one of the most popular productivity methods because it's easy to start — set a timer and go. But here's the problem: a timer doesn't stop you from opening Twitter at minute 3.</p>
+<p>De Pomodoro-techniek is eenvoudig: werk 25 minuten, pauze 5 minuten, herhaal. Het is een van de populairste productiviteitsmethodes omdat het gemakkelijk is om te beginnen — stel een timer in en ga. Maar hier is het probleem: een timer stopt je niet met Twitter openen op minuut 3.</p>
 
-<p>Most Pomodoro apps are just timers with a tomato icon. They count down. They ding when the interval ends. They do nothing to protect the 25 minutes in between. If you get distracted during a Pomodoro, the timer keeps ticking and you've wasted an entire interval.</p>
+<p>De meeste Pomodoro-apps zijn gewoon timers met een tomaten pictogram. Ze tellen af. Ze piepen wanneer het interval eindigt. Ze doen niets om de 25 minuten ertussenin te beschermen. Als je afgeleid raakt tijdens een Pomodoro, blijft de timer lopen en heb je een heel interval verspild.</p>
 
-<h2>Why Timers Without Blocking Don't Work</h2>
-<p>The Pomodoro Technique assumes you'll stay focused during each sprint. In 2005 when it was popularized, that was more realistic. In 2026, with a browser full of algorithmically optimized content one tab away, pure willpower isn't enough. Studies on digital distraction show that once you context-switch to a social media site, it takes an average of 23 minutes to fully refocus. That's almost an entire Pomodoro — gone.</p>
+<h2>Waarom timers zonder blokkering niet werken</h2>
+<p>De Pomodoro-techniek veronderstelt dat je gefocust blijft gedurende elke sprint. In 2005 toen het populair werd, was dat meer realistisch. In 2026, met een browser vol algoritmisch geoptimaliseerde inhoud één tabblad weg, is pure willpower niet genoeg. Onderzoeken over digitale afleiding tonen aan dat zodra je van context wisselt naar een social media site, het gemiddeld 23 minuten duurt om volledig opnieuw focus te krijgen. Dat is bijna een hele Pomodoro — weg.</p>
 
-<p>A Pomodoro timer without website blocking is like a workout plan without a gym. The structure is there, but the environment works against you.</p>
+<p>Een Pomodoro timer zonder website blokkering is als een trainingsplan zonder gym. De structuur is er, maar de omgeving werkt tegen je.</p>
 
-<h2>Lock In! Combines Pomodoro with System-Level Blocking</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> has built-in Pomodoro support. Set your work interval length, and Lock In! blocks your chosen websites and apps for the entire duration. When the interval ends, everything unblocks for your break. When the break ends, blocking resumes for the next sprint.</p>
+<h2>Lock In! combineert Pomodoro met systeemwijd blokkering</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> heeft ingebouwde Pomodoro-ondersteuning. Stel je werkinterval in en Lock In! blokkeert je gekozen websites en apps voor de hele duur. Wanneer het interval eindigt, ontgrendelt alles voor je pauze. Wanneer de pauze eindigt, wordt blokkering hervat voor de volgende sprint.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! Pomodoro timer with website blocking on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! Pomodoro timer met website-blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Every Browser, Every App</h3>
-<p>Blocking works at the macOS system level via a network extension. It doesn't matter if you use Safari, Chrome, or Arc — distracting sites don't load. Pair it with app blocking to shut down Discord, Slack, or games during each sprint.</p>
+<h3>Elke browser, elke app</h3>
+<p>Blokkering werkt op macOS systeemniveau via een netwerk extensie. Het maakt niet uit of je Safari, Chrome of Arc gebruikt — afleidende sites laden niet. Combineer het met app-blokkering om Discord, Slack of games gedurende elke sprint uit te schakelen.</p>
 
-<h3>Strict Mode for Honest Pomodoros</h3>
-<p>Enable Strict Mode and you can't cancel a Pomodoro early. No "I'll just peek at my feed" exceptions. The interval runs its full duration with all blocks active. This is the Pomodoro Technique as it was intended — uninterrupted focus sprints.</p>
+<h3>Strikte modus voor eerlijke Pomodoros</h3>
+<p>Schakel Strikte modus in en je kunt een Pomodoro niet voortijdig annuleren. Geen "ik kijk gewoon even op mijn feed" uitzonderingen. Het interval loopt zijn volledige duur met alle blokkeringen actief. Dit is de Pomodoro-techniek zoals het was bedoeld — ononderbroken focussessies.</p>
 
-<h3>Track Your Progress</h3>
-<p>Lock In!'s daily stats with a 7-day bar chart show how many focused sessions you've completed. Over time, you'll see patterns — which days you're most productive, when you tend to skip sessions, and how your focus improves week over week.</p>
+<h3>Volg je voortgang</h3>
+<p>Lock In!'s dagelijkse statistieken met een 7-daagse staafdiagram toont hoeveel gefocuste sessies je hebt voltooid. Na verloop van tijd zie je patronen — welke dagen je het meest productief bent, wanneer je de neiging hebt sessies over te slaan, en hoe je focus week voor week verbetert.</p>
 
-<p>Give your Pomodoros actual teeth. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Geef je Pomodoros echte tanden. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "strict-mode-website-blocker-mac": {
     slug: "strict-mode-website-blocker-mac",
-    title: "Strict Mode website blocker voor Mac — geen manier om te spieken",
-    description: "Elke website blocker heeft een annuleringsknop — en je toekomstige zelf zal die gebruiken. Een strikte modus die de optie volledig verwijdert is de enige versie die op lange termijn werkt.",
+    title: "Strikte modus website blocker voor Mac — geen manier om te bedriegen",
+    description: "Elke website blocker heeft een cancel knop — en je toekomst jezelf zal het gebruiken. Een strikte modus die de optie volledig verwijdert, is de enige versie die op lange termijn werkt.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You install a website blocker. You add Reddit, Twitter, YouTube to the list. You start a 2-hour focus session. Fourteen minutes later, you think "I'll just check one thing" and hit the cancel button. The block lifts, you open Reddit, and the two hours are gone.</p>
+<p>Je installeert een website blocker. Je voegt Reddit, Twitter, YouTube toe aan de lijst. Je start een 2-uurse focussessie. Veertien minuten later denk je "ik check gewoon even iets" en klik op de cancel knop. De blokkering heft op, je opent Reddit en de twee uur zijn weg.</p>
 
-<p>This isn't a failure of the tool — it's a feature of every blocker that includes an undo button. If future-you can cancel the block, present-you is just performing a ritual, not enforcing a boundary.</p>
+<p>Dit is geen falen van het gereedschap — het is een functie van elke blocker die een undo knop bevat. Als toekomst jezelf de blokkering kunt annuleren, voert tegenwoordig jezelf gewoon een ritueel uit, niet het afdwingen van een grens.</p>
 
-<h2>The Cancel Button Problem</h2>
-<p>Most website blockers let you end a session whenever you want. Some add a short delay — wait 10 seconds before unblocking. Others make you type a phrase. These are friction techniques, and they work for mild impulses. But for strong cravings — the kind where you've been wrestling with a hard problem for 30 minutes and your brain is screaming for dopamine — a 10-second delay is nothing.</p>
+<h2>Het cancel knop probleem</h2>
+<p>De meeste website blockers laten je een sessie op elk moment beëindigen. Sommige voegen een korte vertraging toe — wacht 10 seconden voordat je ontgrendelt. Anderen laten je een zin typen. Dit zijn wrijvingstechnieken die werken voor milde impulsen. Maar voor sterke cravings — het soort waar je 30 minuten met een hardnekkig probleem worstelt en je hersenen schreeuwen om dopamine — is een 10 seconden vertraging niets.</p>
 
-<p>Research on commitment devices shows that the most effective ones remove the option entirely. You can't eat junk food that isn't in the house. You can't spend money you've already transferred to a locked savings account. And you can't browse blocked sites if there's no cancel button.</p>
+<p>Onderzoeken naar inzetmechanismen tonen aan dat de meest effectieve ervan de optie volledig verwijderen. Je kunt junkfood niet eten die niet in huis is. Je kunt geld dat je al naar een vergrendelde spaarrekening hebt overgemaakt niet uitgeven. En je kunt geblokkeerde sites niet bezoeken als er geen cancel knop is.</p>
 
-<h2>Lock In!'s Strict Mode Removes the Escape</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> offers a Strict Mode that, once enabled, makes the current session completely uncancellable. There's no button to end it early. There's no keyboard shortcut. There's no quit-and-relaunch workaround. You chose a duration when you started the session, and the blocks stay active for every second of it.</p>
+<h2>De Strikte modus van Lock In! verwijdert de ontsnapping</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> biedt een Strikte modus die, zodra ingeschakeld, de huidige sessie volledig onherroepelijk maakt. Er is geen knop om voortijdig af te breken. Er is geen toetsenbordsneltoets. Er is geen afsluit-en-herstart workaround. Je koos een duur toen je de sessie startte en de blokkeringen blijven actief voor elke seconde ervan.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! Strict Mode — uncancellable website blocking on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! Strikte modus — onherroepbare website blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>How It Works</h3>
-<p>When you start a session with Strict Mode on, Lock In! activates its system-level network extension to block websites in every browser, and its app blocker intercepts any blocked applications. The session timer counts down in the menu bar. During this time, the "End Session" control is gone. You can't access it. The only way out is to wait.</p>
+<h3>Hoe het werkt</h3>
+<p>Wanneer je een sessie met Strikte modus inschakelt, activeert Lock In! zijn systeemwijd netwerk extensie om websites in elke browser te blokkeren en onderschept zijn app-blocker alle geblokkeerde toepassingen. De sessie timer telt af in de menubalk. Gedurende deze tijd is de "Sessie beëindigen" besturing verdwenen. Je kunt het niet openen. De enige weg is wachten.</p>
 
-<h3>Start Small</h3>
-<p>If Strict Mode sounds intimidating, start with 25-minute sessions. You can survive 25 minutes without Instagram. Once that's comfortable, extend to 50 minutes, then 90. The discomfort fades quickly when you realize you actually got work done.</p>
+<h3>Begin klein</h3>
+<p>Als Strikte modus intimiderend klinkt, begin met 25-minuten sessies. Je kunt 25 minuten zonder Instagram overleven. Eenmaal dat comfortabel is, verleng tot 50 minuten, dan 90. Het ongemak verdwijnt snel wanneer je je realiseert dat je echt werk hebt afgerond.</p>
 
-<h3>Your Future Self Will Thank You</h3>
-<p>Strict Mode is a deal you make with yourself: "For the next X minutes, distractions are off the table." It turns every session into genuine deep work because there's no alternative. No negotiation, no exception, no escape hatch.</p>
+<h3>Je toekomst jezelf zal je danken</h3>
+<p>Strikte modus is een deal die je met jezelf sluit: "Voor de volgende X minuten zijn afleidingen van tafel." Het maakt elke sessie in echt diepwerk omdat er geen alternatief is. Geen onderhandeling, geen uitzondering, geen ontsnappingsluik.</p>
 
-<p>The only blocker that works is one you can't turn off. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>De enige blocker die werkt is degene die je niet kunt uitschakelen. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-youtube-mac-during-work": {
     slug: "block-youtube-mac-during-work",
-    title: "Hoe u YouTube op Mac tijdens werkuren blokkeert",
-    description: "YouTube's autoplay en aanbevelingszijbalk veranderen een snelle zoekopdracht in een uur durende omleiding. Het blokkeren tijdens het werk vereist iets sterkers dan het tabblad sluiten.",
+    title: "Hoe je YouTube op Mac blokkeert tijdens werktijden",
+    description: "YouTube's autoplay en aanbevelingenzijbalk draaien een snelle lookup in een uur lange afleiding. Het blokkeren ervan gedurende werk vereist iets sterker dan het tabblad sluiten.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>YouTube is uniquely dangerous for productivity because it feels productive. You go to look up a tutorial for a work task, and the sidebar recommends a "related" video that's actually a 40-minute documentary about black holes. Autoplay rolls into the next video before you've decided to watch it. One legitimate lookup becomes an hour of content consumption.</p>
+<p>YouTube is uniek gevaarlijk voor productiviteit omdat het zich productief voelt. Je gaat op zoek naar een tutorial voor een werktaak en de zijbalk raadt een "gerelateerde" video aan die eigenlijk een 40-minuut lange documentaire over zwarte gaten is. Autoplay speelt zich in de volgende video voordat je hebt besloten het te kijken. Eén legitieme lookup wordt een uur inhoudsconsumptie.</p>
 
-<p>Unlike pure social media, YouTube has genuine utility. That's what makes it so hard to quit — you can always justify the visit. But the platform is engineered to convert a 3-minute visit into a 30-minute session, and during work hours, that conversion rate is devastating.</p>
+<p>In tegenstelling tot pure sociale media, heeft YouTube echt nut. Dat maakt het zo moeilijk om mee te stoppen — je kunt het bezoek altijd rechtvaardigen. Maar het platform is ingenieus om een 3-minuten bezoek in een 30-minuten sessie om te zetten en gedurende werktijden is dat conversisnelheid verwoestend.</p>
 
-<h2>Why Self-Control Fails Against YouTube</h2>
-<p>YouTube's recommendation engine is powered by billions of data points about what keeps people watching. Your willpower is powered by whatever you had for breakfast. This is not a fair fight. The sidebar, autoplay, notifications, and personalized homepage all exist to maximize your time on the site. Fighting that with "I'll just watch one video" is a losing strategy.</p>
+<h2>Waarom zelfcontrole faalt tegen YouTube</h2>
+<p>YouTube's aanbevelingsmotor wordt aangedreven door miljarden gegevenspunten over wat mensen aan het kijken houdt. Je willpower wordt aangedreven door wat je had voor het ontbijt. Dit is geen eerlijke strijd. De zijbalk, autoplay, meldingen en persoonlijke startpagina bestaan allemaal om je tijd op de site te maximaliseren. Tegen dat in gaan met "ik kijk maar één video" is een verliesende strategie.</p>
 
-<p>Browser extensions that block YouTube can be disabled in seconds. Removing YouTube from your bookmarks doesn't help when the URL is burned into muscle memory.</p>
+<p>Browserextensies die YouTube blokkeren kunnen in seconden worden uitgeschakeld. YouTube uit je bladwijzers verwijderen helpt niet als de URL in je geheugen is gegrift.</p>
 
-<h2>Block YouTube System-Wide with Lock In!</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blocks youtube.com at the macOS system level. During a focus session, YouTube won't load in any browser — Safari, Chrome, Firefox, Arc, none of them. The system extension intercepts the request before it reaches the browser, so there's no page to load, no sidebar to tempt you, no autoplay to start.</p>
+<h2>YouTube systeemwijd blokkeren met Lock In!</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blokkeert youtube.com op macOS systeemniveau. Gedurende een focussessie wordt YouTube niet geladen in een browser — Safari, Chrome, Firefox, Arc, geen van deze. De systeemextensie onderschept het verzoek voordat het de browser bereikt, dus er is geen pagina om te laden, geen zijbalk om je in verleid te voeren, geen autoplay om te beginnen.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blocking YouTube on Mac during work hours" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blokkeert YouTube op Mac gedurende werktijden" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Block YouTube Without Blocking Everything</h3>
-<p>You don't have to go nuclear. Add youtube.com to your custom blocklist while keeping other sites accessible. Or use the Entertainment preset, which blocks YouTube alongside other video and streaming platforms. Customize the list to match your actual distraction patterns.</p>
+<h3>YouTube blokkeren zonder alles te blokkeren</h3>
+<p>Je hoeft niet kernachtig te gaan. Voeg youtube.com toe aan je aangepaste blokkeringslijst terwijl je andere sites toegankelijk houdt. Of gebruik de Entertainment preset, die YouTube blokkeert samen met andere video- en streamingplatforms. Pas de lijst aan om je werkelijke afleidingspatronen aan te passen.</p>
 
-<h3>Strict Mode for YouTube Addicts</h3>
-<p>If you've tried blocking YouTube before and always ended up cancelling the block to "quickly check something," enable Strict Mode. The session becomes uncancellable. YouTube stays blocked until the timer hits zero, no matter how compelling the urge to look something up.</p>
+<h3>Strikte modus voor YouTube verslaafden</h3>
+<p>Als je YouTube voorheen hebt geprobeerd te blokkeren en altijd de blokkering hebt geannuleerd om "snel iets op te zoeken," schakel dan Strikte modus in. De sessie wordt onherroepelijk. YouTube blijft geblokkeerd tot de timer nul raakt, ongeacht hoe overtuigend de drang om iets op te zoeken.</p>
 
-<h3>Save Tutorials for Break Time</h3>
-<p>With Pomodoro support, Lock In! naturally creates windows where YouTube is available — your break intervals. Need to watch a tutorial? Bookmark it and watch during your next break. This way YouTube serves you on your schedule, not the other way around.</p>
+<h3>Bewaar tutorials voor pauzetijd</h3>
+<p>Met Pomodoro-ondersteuning creëert Lock In! natuurlijk vensters waar YouTube beschikbaar is — je pauzeintervallen. Moet je een tutorial bekijken? Voeg het toe aan bladwijzers en bekijk het gedurende je volgende pauze. Op deze manier werkt YouTube voor jou op jouw schema, niet omgekeerd.</p>
 
-<p>Take YouTube off the table during work hours. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Neem YouTube van de tafel af gedurende werktijden. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "selfcontrol-alternative-mac": {
     slug: "selfcontrol-alternative-mac",
     title: "SelfControl alternatief voor Mac",
-    description: "SelfControl is een geliefde open-source blocker, maar is niet mee gegroeid met modern macOS. Geen app blokkering, geen menu bar UI en compatibiliteitsproblemen met recente systemupdates.",
+    description: "SelfControl is een geliefde open-source blocker, maar is niet meegekomen met modern macOS. Geen app-blokkering, geen menubalk-UI en compatibiliteitsproblemen met recente systeemupdate.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>SelfControl has been the go-to free website blocker for Mac since 2009. Its core promise — block websites for a set time with no way to undo it — was revolutionary. But it's 2026 now, and SelfControl is showing its age. If you've been using it and hitting limitations, you're not alone.</p>
+<p>SelfControl is sinds 2009 de go-to gratis website blocker voor Mac. Zijn kernbelofte — websites blokkeren gedurende een bepaalde tijd zonder mogelijkheid om het ongedaan te maken — was revolutionair. Maar het is nu 2026 en SelfControl toont zijn leeftijd. Als je het hebt gebruikt en tegen beperkingen aanloopt, ben je niet alleen.</p>
 
-<h2>Where SelfControl Falls Short in 2026</h2>
+<h2>Waar SelfControl in 2026 tekortschiet</h2>
 
-<h3>No App Blocking</h3>
-<p>SelfControl only blocks websites. It can't do anything about distracting desktop apps like Discord, Slack, Steam, or Messages. If your distraction problem extends beyond the browser — and for most people it does — SelfControl only covers half the problem.</p>
+<h3>Geen app-blokkering</h3>
+<p>SelfControl blokkeert alleen websites. Het kan niets doen aan afleidende desktop apps zoals Discord, Slack, Steam of Berichten. Als je afleidingsprobleem verder gaat dan de browser — en voor de meeste mensen doet het dat — dekt SelfControl slechts half het probleem af.</p>
 
-<h3>No Menu Bar Presence</h3>
-<p>SelfControl requires you to open its full application window to start a session. There's no menu bar icon, no quick-access UI. For a tool you use multiple times a day, this friction adds up. You have to find the app, open it, configure your block, and start it — every time.</p>
+<h3>Geen menubalk aanwezigheid</h3>
+<p>SelfControl vereist dat je het volledige toepassingsvenster opent om een sessie te starten. Er is geen menubalk pictogram, geen snelle toegang UI. Voor een tool die je meerdere keren per dag gebruikt, voegt deze wrijving op. Je moet de app vinden, deze openen, je blokkeering configureren en starten — elke keer.</p>
 
-<h3>Compatibility Concerns</h3>
-<p>SelfControl modifies system-level network configuration files to enforce its blocks. This approach has grown increasingly fragile as Apple tightens macOS security with each release. Users report blocks that fail silently, blocks that persist past their timer, and installation issues after macOS upgrades. The app is open-source and maintained by volunteers, so fixes can lag behind Apple's release cycle.</p>
+<h3>Compatibiliteitsproblemen</h3>
+<p>SelfControl wijzigt systeemwijd netwerk configuratie bestanden om blokkeringen af te dwingen. Deze aanpak is broos geworden naarmate Apple macOS-veiligheid aanscherpt bij elke release. Gebruikers rapporteren blokkeringen die geluisloos mislukken, blokkeringen die voorbij hun timer blijven en installatieproblemen na macOS upgrades. De app is open-source en onderhouden door vrijwilligers, dus reparaties kunnen achter Apple's release-cyclus achterblijven.</p>
 
-<h3>No Pomodoro or Session Features</h3>
-<p>SelfControl has one mode: block for X minutes. There's no Pomodoro integration, no session tracking, no daily stats. It's a single-purpose tool in a world where focus apps have evolved significantly.</p>
+<h3>Geen Pomodoro of sessiefuncties</h3>
+<p>SelfControl heeft één modus: blokkering gedurende X minuten. Er is geen Pomodoro integratie, geen sessie tracking, geen dagelijkse statistieken. Het is een single-purpose tool in een wereld waar focus apps aanzienlijk zijn geëvolueerd.</p>
 
-<h2>Lock In! — A Modern Replacement</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> takes everything people love about SelfControl — the strict, uncancellable blocking — and wraps it in a modern macOS app with features SelfControl never offered.</p>
+<h2>Lock In! — Een modern alternatief</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> neemt alles waar mensen van SelfControl houden — de strikte, onherroepbare blokkering — en wikkelt het in een moderne macOS app met functies die SelfControl nooit bood.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! as a SelfControl alternative for modern macOS" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! als SelfControl alternatief voor modern macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>System Extension, Not Hosts Hacking</h3>
-<p>Lock In! uses Apple's official Network Extension API to block websites. This is the supported, future-proof way to intercept network traffic on macOS. No fragile file modifications, no breakage after system updates, no leftover entries if something goes wrong.</p>
+<h3>Systeemextensie, niet hosts hacking</h3>
+<p>Lock In! gebruikt Apple's officiële Network Extension API om websites te blokkeren. Dit is de ondersteunde, toekomstbestendige manier om netwerk verkeer op macOS op te vangen. Geen broze bestand modificaties, geen breakage na systeemupdate, geen resterende items als iets misgaat.</p>
 
-<h3>Website + App Blocking</h3>
-<p>Block distracting websites across every browser and distracting apps via full-screen interrupt panels. One app covers both vectors. SelfControl can't block apps at all.</p>
+<h3>Website + app-blokkering</h3>
+<p>Blokkeeer afleidende websites in elke browser en afleidende apps via schermvullende onderbrekingspanelen. Eén app dekt beide vectoren af. SelfControl kan helemaal geen apps blokkeren.</p>
 
-<h3>Menu Bar First</h3>
-<p>Lock In! lives in the menu bar. Click, set duration, start. No window to find, no app to switch to. It's designed for the workflow of starting focus sessions multiple times per day.</p>
+<h3>Menubalk eerst</h3>
+<p>Lock In! zit in de menubalk. Klik, stel duur in, start. Geen venster om te vinden, geen app om naar te schakelen. Het is ontworpen voor de werkstroom van meerdere keren per dag focussessies starten.</p>
 
-<h3>Strict Mode + Stats</h3>
-<p>Strict Mode mirrors SelfControl's uncancellable philosophy. Daily stats with a 7-day chart add accountability that SelfControl never provided. Preset blocklists for Social, Entertainment, News, and Shopping mean you're blocking in seconds, not building lists from scratch.</p>
+<h3>Strikte modus + statistieken</h3>
+<p>Strikte modus weerspiegelt SelfControl's onherroepbare filosofie. Dagelijkse statistieken met een 7-daagse grafiek voegen verantwoording toe die SelfControl nooit bood. Voorinstelling blokkeringslijsten voor Social, Entertainment, Nieuws en Winkelen betekenen dat je in seconden blokkeert, niet lijsten van nul bouwt.</p>
 
-<p>Same philosophy, modern execution. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Dezelfde filosofie, moderne uitvoering. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "focus-app-blocks-websites-and-apps-mac": {
     slug: "focus-app-blocks-websites-and-apps-mac",
-    title: "Focus-app voor Mac die zowel websites als apps blokkeert",
-    description: "De meeste focustools blokkeren websites of apps, niet beide. Afleidingen respecteren die grens niet — ze bevinden zich in je browser en je dock.",
+    title: "Focus app voor Mac die websites en apps blokkeert",
+    description: "De meeste focustools blokkeren websites of apps, niet beide. Afleidingen respecteren die grens niet — ze leven in je browser en je dock.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You've installed a website blocker, so Reddit and Twitter are handled. But then you open Discord to "check one message" and lose 20 minutes. You've installed an app timer, so Discord is handled. But then you open reddit.com in Chrome and lose 20 minutes. Distractions don't care about the category line between "websites" and "apps" — they exploit whichever channel you left open.</p>
+<p>Je hebt een website blocker geïnstalleerd, dus Reddit en Twitter zijn afgehandeld. Maar dan open je Discord "om één bericht te checken" en verliest 20 minuten. Je hebt een app timer geïnstalleerd, dus Discord is afgehandeld. Maar dan open je reddit.com in Chrome en verliest 20 minuten. Afleidingen geven niet om de categoriegrens tussen "websites" en "apps" — ze exploiteren welk kanaal je open hebt gelaten.</p>
 
-<p>To actually protect a focus session, you need a single tool that blocks both. Not two tools, not a browser extension plus a separate app manager — one unified blocker that covers every distraction vector on your Mac.</p>
+<p>Om een focussessie echt te beschermen, heb je één tool nodig die beide blokkeert. Niet twee tools, niet een browserextensie plus een aparte app-manager — één geïntegreerde blocker die elk afleidingsvector op je Mac dekt.</p>
 
-<h2>The Two-Tool Problem</h2>
-<p>Running separate tools for website and app blocking creates gaps. The website blocker doesn't know about the app blocker's schedule, and vice versa. You end up managing two blocklists, two timers, two sets of settings. Inevitably, one expires before the other, or one isn't configured for a new distraction you've picked up. The complexity makes you less likely to use either tool consistently.</p>
+<h2>Het twee-tool probleem</h2>
+<p>Het uitvoeren van aparte tools voor website- en app-blokkering creëert gaten. De website blocker weet niet van de app blocker's schema en vice versa. Je eindigt met twee blokkeringslijsten, twee timers, twee reeksen instellingen beheren. Onvermijdelijk loopt er één af voordat de ander, of er is er één niet geconfigureerd voor een nieuwe afleiding die je hebt opgepikt. De complexiteit maakt je minder waarschijnlijk de tools consistent te gebruiken.</p>
 
-<p>macOS itself splits this problem too. Screen Time can limit Safari websites and set app time limits, but the website limits are Safari-only and the app limits can be dismissed. Focus mode silences notifications but doesn't prevent you from opening anything. Neither tool is designed for intentional focus sessions.</p>
+<p>macOS splitst dit probleem ook. Schermlijd kan Safari websites beperken en app-tijdlimieten instellen, maar de website limieten zijn Safari-only en de app-limieten kunnen worden genegeerd. Focusmodus dempt meldingen maar voorkomt niet dat je iets opent. Geen van beide tools is ontworpen voor opzettelijke focussessies.</p>
 
-<h2>Lock In! Blocks Both from One Menu Bar Icon</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is a unified focus app for Mac that blocks distracting websites and apps simultaneously during timed sessions.</p>
+<h2>Lock In! blokkeert beide uit één menubalk pictogram</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is een geïntegreerde focus app voor Mac die afleidende websites en apps tegelijk blokkeert gedurende timed sessies.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blocking both websites and apps on Mac for focus" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! blokkeert websites en apps op Mac voor focus" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>System-Level Website Blocking</h3>
-<p>A macOS network extension blocks websites in every browser — Safari, Chrome, Firefox, Arc, Brave, and any other app that makes web requests. Preset blocklists for Social, Entertainment, News, and Shopping cover the usual suspects. Add custom domains for anything specific to your habits.</p>
+<h3>Systeemwijd website blokkering</h3>
+<p>Een macOS netwerk extensie blokkeert websites in elke browser — Safari, Chrome, Firefox, Arc, Brave en elke andere app die webverzoeken doet. Voorinstelling blokkeringslijsten voor Social, Entertainment, Nieuws en Winkelen dekken de gebruikelijke verdachten. Voeg aangepaste domeinen toe voor iets specifiek voor je gewoonten.</p>
 
-<h3>Full-Screen App Blocking</h3>
-<p>When you try to open a blocked app during a session, Lock In! intercepts with a full-screen panel. It's not a notification you can dismiss — it's a wall. The blocked app is unusable until your session ends. This covers desktop distractions like Discord, Slack, Steam, Messages, and anything else in your Applications folder.</p>
+<h3>Schermvullende app-blokkering</h3>
+<p>Wanneer je probeert een geblokkeerde app te openen gedurende een sessie, onderschept Lock In! met een schermvullend paneel. Het is geen melding die je kunt sluiten — het is een muur. De geblokkeerde app is onbruikbaar totdat je sessie eindigt. Dit dekt desktop afleidingen af zoals Discord, Slack, Steam, Berichten en alles anders in je Applications-map.</p>
 
-<h3>One Blocklist, One Timer, One Session</h3>
-<p>Configure your website and app blocks together. Start one session from the menu bar and everything activates at once. When the session ends, everything deactivates. No separate timers to manage, no mismatched schedules, no gaps for distractions to sneak through.</p>
+<h3>Eén blokkeringslijst, één timer, één sessie</h3>
+<p>Configureer je website- en app-blokkeringen samen. Start één sessie vanuit de menubalk en alles wordt tegelijk geactiveerd. Wanneer de sessie eindigt, ontgrendelt alles automatisch. Geen aparte timers om te beheren, geen mismatched schema's, geen gaten voor afleidingen om doorheen te sluipen.</p>
 
-<h3>Pomodoro, Strict Mode, and Stats</h3>
-<p>Layer on Pomodoro intervals to structure your work sprints. Enable Strict Mode to make sessions uncancellable. Track your focus history with a 7-day bar chart. These features work across both website and app blocking — they're part of the same session, not bolted on from a separate tool.</p>
+<h3>Pomodoro, Strikte modus en statistieken</h3>
+<p>Laag Pomodoro intervals om je werksprint structuur te geven. Schakel Strikte modus in om sessies onherroepelijk te maken. Volg je focusgeschiedenis met een 7-daagse staafdiagram. Deze functies werken in beide website- en app-blokkering — ze zijn deel van dezelfde sessie, niet vastzittend aan een aparte tool.</p>
 
-<p>One app, every distraction, zero loopholes. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Eén app, elke afleiding, nul gaten. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-social-media-mac": {
     slug: "block-social-media-mac",
-    title: "Hoe u social media op Mac tijdens het werk blokkeert",
-    description: "Instagram, X en TikTok zijn ontworpen om je terug te trekken. Hier is een praktische opstelling om ze uit je werkdag te houden zonder op willekracht te vertrouwen.",
+    title: "Hoe je sociale media op Mac blokkeert gedurende werk",
+    description: "Instagram, X en TikTok zijn ontworpen om je terugtrekken. Hier is een praktische opstelling om ze uit je werkdag te houden zonder te vertrouwen op willpower.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You close the tab. Ten minutes later it's open again. Not because you decided to open it — you just did, the way you might scratch an itch. Social media apps are built by teams whose entire job is making that loop as frictionless as possible. Willpower is not a fair fight against that.</p>
+<p>Je sluit het tabblad. Tien minuten later is het opnieuw open. Niet omdat je besloot het te openen — je deed het gewoon, zoals je je misschien zou krabben. Social mediaapps worden gebouwd door teams wiens hele taak is die lus zo frictionless mogelijk te maken. Willpower is geen eerlijke strijd tegen dat.</p>
 
-<p>The fix isn't more discipline. It's removing the option during the hours it matters.</p>
+<p>De oplossing is niet meer discipline. Het is het verwijderen van de optie gedurende de uren die tellen.</p>
 
-<h2>Why "Just Don't Open It" Doesn't Work</h2>
-<p>Social platforms are designed around variable rewards — you don't know if the next scroll has something interesting, so you keep scrolling to find out. That's the same mechanism slot machines use. Deciding not to check Instagram requires you to win a tiny willpower battle dozens of times a day, and you only need to lose once for the session to be gone.</p>
+<h2>Waarom "gewoon niet openen" niet werkt</h2>
+<p>Sociale platforms zijn ontworpen rond variabele beloningen — je weet niet of de volgende scroll iets interessants bevat, dus je blijft scrollen om erachter te komen. Dat is hetzelfde mechanisme dat gokkasten gebruiken. Het besluit om Instagram niet te checken vereist dat je tientallen keren per dag een klein willpower gevecht wint en je hoeft maar één keer te verliezen voor de sessie weg te zijn.</p>
 
-<p>Bookmarking the site, logging out, or hiding the app icon all fail for the same reason: they add a few seconds of friction, but a few seconds isn't enough to stop a habitual reach. You need the option to not exist during work hours, not just be slightly harder to reach.</p>
+<p>De site bladwijzeren, uitloggen of het app-pictogram verbergen mislukken allemaal om dezelfde reden: ze voegen een paar seconden wrijving toe, maar een paar seconden is niet genoeg om een gewoontegebaar te stoppen. Je hebt nodig dat de optie niet tijdens werktijden bestaat, niet alleen iets lastiger bereikbaar is.</p>
 
-<h2>Block It at the System Level</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blocks social media domains system-wide on Mac, so Instagram, X, TikTok, Facebook, and Reddit are unreachable in every browser during a focus session — not just the one you happened to configure.</p>
+<h2>Blokkeer het op systeemniveau</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blokkeert socialemediadomeinen systeemwijd op Mac, dus Instagram, X, TikTok, Facebook en Reddit zijn onbereikbaar in elke browser gedurende een focussessie — niet alleen de browser die je toevallig hebt geconfigureerd.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Blocking social media sites on Mac during a focus session" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Sociale mediawebsites blokkeren op Mac gedurende een focussessie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>A Preset Social Blocklist</h3>
-<p>Instead of typing out every social domain by hand, a built-in Social preset covers the major platforms in one tap. Add anything niche — a specific forum, a Discord server's web client — to the same list in seconds.</p>
+<h3>Een voorinstelling sociale blokkeringslijst</h3>
+<p>In plaats van elk sociaal domein met de hand in te typen, dekt een ingebouwde sociale preset de grote platforms in één tik. Voeg alles niche toe — een specifiek forum, een Discord server's web client — in seconden toe aan dezelfde lijst.</p>
 
-<h3>Works in Every Browser</h3>
-<p>A macOS network extension enforces the block below the browser layer, so switching from Safari to Chrome to get around it does nothing. If the domain is blocked, it's blocked everywhere on the machine.</p>
+<h3>Werkt in elke browser</h3>
+<p>Een macOS netwerk extensie handhaaft de blokkering onder de browser laag, dus schakelen van Safari naar Chrome om het te omzeilen doet niets. Als het domein is geblokkeerd, is het overal op de machine geblokkeerd.</p>
 
-<h3>Strict Mode for the Days You Know You'll Cave</h3>
-<p>Some days a simple block is enough. Other days — a stressful morning, a boring task — you know you'll talk yourself into disabling it. Strict Mode removes that option until the timer runs out, so the decision is made once, at the start, when you have the most resolve.</p>
+<h3>Strikte modus voor de dagen waarvan je weet dat je zult bezwijken</h3>
+<p>Sommige dagen is een eenvoudige blokkeering genoeg. Andere dagen — een stressvol ochtend, een saaie taak — weet je dat je jezelf ertoe zult overtuigen het uit te schakelen. Strikte modus verwijdert die optie totdat de timer afloopt, dus het besluit wordt eenmaal genomen, bij het begin, wanneer je de meeste vastberadenheid hebt.</p>
 
-<h3>Pair It with a Timer, Not a Permanent Ban</h3>
-<p>Blocking social media forever isn't realistic or necessary — you just need it gone during deep work blocks. Set a session for your focused hours and let it lift automatically afterward, so checking your feed at lunch is a choice, not a slip.</p>
+<h3>Koppel het aan een timer, niet een permanent verbod</h3>
+<p>Sociale media voor altijd blokkeren is niet realistisch of nodig — je hebt het gewoon weg gedurende diepwerk blokken. Stel een sessie in voor je gefocuste uren en laat het automatisch daarna optillen, dus je feed checken bij lunch is een keuze, geen slip.</p>
 
-<p>Less scrolling, more shipped work. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Minder scrollen, meer verzonden werk. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "mac-focus-mode-doesnt-block-websites": {
     slug: "mac-focus-mode-doesnt-block-websites",
-    title: "Mac Focus Mode blokkeert websites niet — hier is wat wel werkt",
-    description: "Apple's Focus feature zet meldingen op stil maar laat je browser wagenwijd open. Als je dacht dat het afleidende sites ook blokkeert, hier is het gat en hoe je het sluit.",
+    title: "Mac focusmodus blokkeert websites niet — hier is wat doet",
+    description: "Apple's focusfunctie dempt meldingen maar laat je browser wijd open. Als je aannam dat het ook afleidende sites blokkeerde, hier is de gat en hoe je deze sluit.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Turn on Focus mode on your Mac, and notifications go quiet — Slack pings, texts, calendar alerts, all suppressed. It feels like a productivity mode. So it's a reasonable assumption that it also keeps you off distracting websites while it's active. It doesn't. Focus mode has nothing to do with what you can open in your browser.</p>
+<p>Zet focusmodus op je Mac aan en meldingen worden stil — Slack pings, berichten, agenda waarschuwingen, allemaal onderdrukt. Het voelt als een productiviteitsmodus. Dus het is een redelijke aanname dat het je ook uit afleidende websites houdt terwijl het actief is. Het doet dat niet. Focusmodus heeft niets te maken met wat je in je browser kunt openen.</p>
 
-<h2>What Focus Mode Actually Does</h2>
-<p>Focus is a notification filter. It controls which apps and people can interrupt you with banners, sounds, and badges, and it can sync across your Mac, iPhone, and iPad. That's genuinely useful for reducing interruptions from other people. But it doesn't touch outbound behavior — nothing stops you from opening Safari and typing in a URL yourself. Focus mode protects you from external interruptions, not from your own habits.</p>
+<h2>Wat focusmodus werkelijk doet</h2>
+<p>Focus is een meldingsfilter. Het bepaalt welke apps en personen je kunnen onderbreken met banners, geluiden en badges en het kan synchroniseren over je Mac, iPhone en iPad. Dat is echt nuttig voor het verminderen van onderbrekingen van andere personen. Maar het raakt geen afwaartsgedrag — niets stopt je ervan Safari te openen en een URL in te typen. Focusmodus beschermt je tegen externe onderbrekingen, niet tegen je eigen gewoonten.</p>
 
-<p>This is a common mix-up because "Focus" sounds like it should mean "distraction-free," and Apple's marketing leans into that framing. In practice it's closer to Do Not Disturb with more granular rules about who gets through.</p>
+<p>Dit is een veel voorkomende verwarring omdat "Focus" klinkt alsof het "afleidingsvrij" zou moeten betekenen en Apple's marketing leunt in dat kader. In de praktijk is het dichter bij Niet storen met granuleuze regels over wie door mag.</p>
 
-<h2>What Actually Blocks Websites</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> handles the part Focus mode skips — it blocks distracting websites and apps outright, so they're unreachable rather than just quiet.</p>
+<h2>Wat werkelijk websites blokkeert</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> handelt het deel af dat focusmodus overslaat — het blokkeert afleidende websites en apps vollediger, dus ze zijn onbereikbaar in plaats van gewoon stil.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Website blocking on Mac, unlike Apple's Focus mode" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Website-blokkering op Mac, in tegenstelling tot Apple's focusmodus" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Real Website Blocking, Not Notification Filtering</h3>
-<p>A system-level network extension blocks the domains you choose across every browser on your Mac. Typing the URL directly does nothing — the site simply won't load while a session is running.</p>
+<h3>Echt website-blokkering, geen meldingsfiltering</h3>
+<p>Een systeemwijd netwerk extensie blokkeert de domeinen die je kiest in elke browser op je Mac. De URL rechtstreeks typen doet niets — de site wordt gewoon niet geladen terwijl een sessie loopt.</p>
 
-<h3>Use Both Together</h3>
-<p>Focus mode and a real website blocker aren't competing tools — they solve different halves of the same problem. Turn on a Focus profile to quiet notifications from people, and start a session to block the sites and apps you'd otherwise open yourself. Together they cover both directions of interruption.</p>
+<h3>Gebruik beide samen</h3>
+<p>Focusmodus en een echte website blocker zijn niet concurrerende tools — ze lossen verschillende halves van hetzelfde probleem op. Zet een focusprofiel in om meldingen van personen stil te zetten en start een sessie om de sites en apps te blokkeren die je anders zelf zou openen. Samen dekken ze beide afleidingsrichtingen af.</p>
 
-<h3>Session-Based, Not All-or-Nothing</h3>
-<p>Set a duration and start it from the menu bar when you sit down to work. Add Pomodoro intervals if you want structured breaks, or Strict Mode if you don't trust yourself to stop early. When the timer ends, everything unblocks automatically.</p>
+<h3>Op sessies gebaseerd, niet alles-of-niets</h3>
+<p>Stel een duur in en start het vanuit de menubalk wanneer je naar je werk gaat. Voeg Pomodoro intervals toe als je gestructureerde pauzes wilt of Strikte modus als je jezelf niet vertrouwt. Wanneer de timer eindigt, ontgrendelt alles automatisch.</p>
 
-<p>Notifications quiet is a start. Sites actually blocked is the difference. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Meldingen stil is een begin. Sites werkelijk geblokkeerd is het verschil. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "website-blocker-all-browsers-mac": {
     slug: "website-blocker-all-browsers-mac",
     title: "Website blocker die in alle browsers op Mac werkt",
-    description: "De meeste blocker-extensies controleren slechts één browser. Als je Twitter in Chrome blokkeert, kun je Safari openen en vrij scrollen. Hier is een opstelling die alle gaten sluit.",
+    description: "De meeste blocker-extensies dekken alleen de ene browser waar zij zijn geïnstalleerd. Als je van browser wisselt om een blokkering te omzeilen, hier is een opstelling die die gat sluit.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You install a website blocker extension in Chrome. It works — for about a day, until you subconsciously open Safari instead, where the extension doesn't exist, and the site loads without friction. You didn't even mean to circumvent it; your Mac just has more than one browser, and the blocker only knew about one of them.</p>
+<p>Je installeert een website blocker-extensie in Chrome. Het werkt — voor ongeveer een dag, totdat je onbewust Safari in plaats daarvan opent, waar de extensie niet bestaat, en de site zonder wrijving geladen wordt. Je bedoelde niet om het te omzeilen; je Mac heeft gewoon meer dan één browser en de blocker kende er slechts één.</p>
 
-<p>This is the most common failure mode for browser-extension blockers. They're scoped to a single browser by design, and switching browsers takes less effort than most people realize.</p>
+<p>Dit is het meest voorkomende falen van browserextensie-blockers. Ze zijn van nature beperkt tot één browser en het wisselen van browsers kost minder moeite dan de meeste mensen beseffen.</p>
 
-<h2>Why Extension-Based Blockers Leak</h2>
-<p>A browser extension can only see and control traffic inside the browser that hosts it. If you have Chrome, Safari, Firefox, and Arc all installed — which is common on a Mac — an extension in one leaves the other three completely open. Some people don't even realize they have multiple browsers until they're actively looking for a way around a block, at which point their brain finds Safari's dock icon remarkably fast.</p>
+<h2>Waarom extensie-blockers lekken</h2>
+<p>Een browserextensie kan alleen verkeer zien en controleren binnen de browser die het herbergt. Als je Chrome, Safari, Firefox en Arc geïnstalleerd hebt — wat gebruikelijk is op een Mac — laat een extensie in de ene de andere drie compleet open. Sommigen beseffen niet eens dat ze meerdere browsers hebben totdat zij actief naar een manier zoeken een blokkering te omzeilen, op welk moment hun hersenen de Safari dock pictogram opmerkelijk snel vinden.</p>
 
-<p>Extensions are also easy to disable in a few clicks from the browser's own settings, which defeats the purpose the moment you have a bad afternoon.</p>
+<p>Extensies kunnen ook gemakkelijk worden uitgeschakeld in een paar klikken uit de instellingen van de browser zelf, wat het doel frustreert op het moment dat je een slechte middag hebt.</p>
 
-<h2>Block at the System Level Instead</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> uses a macOS network extension rather than a browser add-on, so the block applies below all browsers at once — Safari, Chrome, Firefox, Arc, Brave, and anything else installed on the machine.</p>
+<h2>Blokkeer op systeemniveau</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> gebruikt een macOS netwerk extensie in plaats van een browser add-on, dus de blokkering geldt onder alle browsers tegelijk — Safari, Chrome, Firefox, Arc, Brave en alles anders wat op de machine is geïnstalleerd.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="System-level website blocking across all Mac browsers" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Systeemwijd website-blokkering in alle Mac-browsers" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>One Block, Every Browser</h3>
-<p>Add a domain once and it's blocked everywhere on the Mac, immediately. There's no per-browser setup, no separate extension to install four times, and no browser you forgot to cover.</p>
+<h3>Eén blokkering, elke browser</h3>
+<p>Voeg eenmaal een domein toe en het is onmiddellijk overal op de Mac geblokkeerd. Er is geen per-browser-instelling, geen aparte extensie om vier keer te installeren en geen browser die je bent vergeten.</p>
 
-<h3>No Extension to Disable Mid-Session</h3>
-<p>Because the block runs at the system level rather than inside a browser, there's no extension toggle to switch off when motivation dips. Strict Mode goes a step further, making the entire session uncancellable until the timer ends.</p>
+<h3>Geen extensie om halverwege de sessie uit te schakelen</h3>
+<p>Omdat de blokkering op systeemniveau in plaats van in een browser werkt, is er geen extensie wissel om uit te schakelen wanneer motivatie daalt. Strikte modus gaat een stap verder, waardoor de gehele sessie onherroepelijk wordt totdat de timer eindigt.</p>
 
-<h3>Preset Lists for the Obvious Culprits</h3>
-<p>Social, Entertainment, News, and Shopping presets cover the most common distraction categories out of the box, so there's no need to hunt down and manually enter dozens of domains across every service you want blocked.</p>
+<h3>Voorinstellingenlijsten voor de voor de hand liggende schuldigen</h3>
+<p>Social, Entertainment, Nieuws en Winkelen presets dekken de meest gebruikelijke afleidingscategorieën uit de doos, dus hoeft niet tientallen domeinen te zoeken en handmatig in te voeren via elke service die je geblokkeerd wilt.</p>
 
-<p>Switching browsers shouldn't be a loophole. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Het wisselen van browsers mag geen gat zijn. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-reddit-mac": {
     slug: "block-reddit-mac",
-    title: "Hoe u Reddit op Mac blokkeert — stop het scrollen",
-    description: "Reddit is uniek goed in het opeten van tijd omdat het nooit opgebruikt raakt. Finish één subreddit en er is nog een. Finish de voorpagina en er is nog een commentaarthread.",
+    title: "Hoe je Reddit op Mac blokkeert — stop het scrollen",
+    description: "Reddit's oneindige scroll en eindloze subreddits maken het één van de gemakkelijkste manieren om een middag te verliezen. Hier is hoe je het uit je werkdag houdt specifiek.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Reddit is uniquely good at eating time because it never runs out. Finish one subreddit and there's another. Finish the front page and there's a comment thread. Unlike a single article or video, there's no natural stopping point built in — the scroll just keeps generating more, and "one more post" can go on for an hour without you noticing.</p>
+<p>Reddit is uniek goed in het eten van tijd omdat het nooit op raakt. Maak een subreddit af en er is een ander. Maak de voorkant af en er is een commentaardraad. In tegenstelling tot een enkel artikel of video is er geen natuurlijk stoppunt ingebouwd — de scroll genereert steeds meer en "nog één post" kan een uur duren zonder dat je het opmerkt.</p>
 
-<p>If you've opened Reddit "just to check one thing" and looked up 45 minutes later, this is why. It's not a discipline failure — it's a product built to remove stopping cues.</p>
+<p>Als je Reddit "gewoon even checken" hebt geopend en 45 minuten later opkijkt, is dit waarom. Het is niet een discipline falen — het is een product dat is gebouwd om stoppunten te verwijderen.</p>
 
-<h2>Blocking Just Reddit Isn't Always Enough</h2>
-<p>A lot of people try browser extensions that block reddit.com specifically, which works until they open a different browser without the extension, or until old.reddit.com or the mobile web version slips through a domain rule that wasn't specific enough. Reddit also has a lot of subdomains and redirect paths, so a narrow blocklist can miss edge cases.</p>
+<h2>Alleen Reddit blokkeren is niet altijd genoeg</h2>
+<p>Veel mensen proberen browserextensies die specifiek reddit.com blokkeren, wat werkt totdat ze een ander browser openen zonder de extensie of totdat old.reddit.com of de mobiele webversie slippert door een domeinregel die niet specifiek genoeg was. Reddit heeft ook veel subdomeinen en omleidingspaden, dus een smalle blokkeringslijst kan randgevallen missen.</p>
 
-<h2>A Cleaner Way to Block It</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blocks Reddit at the system level on Mac, covering the main domain and its variants across every browser you have installed, not just the one where you set up a rule.</p>
+<h2>Een schonere manier om het te blokkeren</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blokkeert Reddit op systeemniveau op Mac, waarbij het hoofd domein en zijn varianten in elke browser worden bedekt die je hebt geïnstalleerd, niet alleen degene waar je een regel hebt ingesteld.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Blocking Reddit on Mac during focus sessions" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Reddit blokkeren op Mac gedurende focussessies" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Add It Once, Blocked Everywhere</h3>
-<p>Add reddit.com to your blocklist — or use the Social or Entertainment preset, which already includes it — and it's unreachable in Safari, Chrome, Firefox, and Arc simultaneously. No per-browser setup.</p>
+<h3>Voeg het eenmaal toe, overal geblokkeerd</h3>
+<p>Voeg reddit.com toe aan je blokkeringslijst — of gebruik de Social of Entertainment preset, die het al bevat — en het is onbereikbaar in Safari, Chrome, Firefox en Arc tegelijk. Geen per-browser instelling.</p>
 
-<h3>Blocks the App Too</h3>
-<p>If you use the Reddit desktop app or a third-party client wrapped as a Mac app, Lock In! can block that directly with a full-screen interrupt, closing the gap that a website-only blocker would miss.</p>
+<h3>Blokkeert ook de app</h3>
+<p>Als je de Reddit desktop app gebruikt of een derde-party client verpakt als Mac app, kan Lock In! die rechtstreeks blokkeren met een schermvullend onderbreking, wat het gat sluit dat een website-only blocker zou missen.</p>
 
-<h3>Scoped to When You Need It</h3>
-<p>You don't have to block Reddit forever — most people don't want to. Run it during work sessions with a timer, and it opens normally again once the session ends, so browsing on your own time is unaffected.</p>
+<h3>Bereikt tot wanneer je het nodig hebt</h3>
+<p>Je hoeft Reddit niet voor altijd te blokkeren — de meeste mensen willen dat niet. Voer het uit gedurende werksessies met een timer en het opent normaal weer zodra de sessie eindigt, dus browsen in je eigen tijd wordt niet beïnvloed.</p>
 
-<h3>Strict Mode for Honest Days</h3>
-<p>If you know a five-minute Reddit break tends to become fifty, Strict Mode removes the option to end the session early. The block holds until the timer says it's over.</p>
+<h3>Strikte modus voor eerlijke dagen</h3>
+<p>Als je weet dat een vijf-minuten Reddit-pauze tends tot vijftig wordt, verwijdert Strikte modus de optie de sessie voortijdig af te breken. De blokkering houdt totdat de timer zegt dat het voorbij is.</p>
 
-<p>The scroll ends where the block starts. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Het scrollen eindigt waar de blokkering begint. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "focus-app-with-stats-mac": {
     slug: "focus-app-with-stats-mac",
-    title: "Focus-app met dagelijkse statistieken voor Mac",
-    description: "De meeste blockers blokkeren gewoon. Zonder een registratie van je focustijd is het moeilijk te weten of de gewoonte echt verbetert — hier is een opstelling die het voor je bijhoudt.",
+    title: "Focus app met dagelijkse statistieken voor Mac",
+    description: "De meeste blockers blokkeren gewoon. Zonder een record van je focustijd is het moeilijk te weten of het gewoonten werkelijk verbetert — hier is een opstelling die het voor je track.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You start using a focus tool, run a few sessions, and then a week later you're asked how it's going. You honestly don't know. Maybe you've been consistent, maybe you've skipped half the days, maybe your sessions have gotten shorter without you noticing. Without a record, "I've been more focused lately" is a feeling, not a fact.</p>
+<p>Je begint met een focustool, voert een paar sessies uit en een week later wordt je gevraagd hoe het gaat. Je weet eigenlijk niet. Misschien bent je consistent geweest, misschien heb je half de dagen overgeslagen, misschien zijn je sessies korter geworden zonder dat je het opmerkt. Zonder een record is "ik ben de laatste tijd meer gefocust" een gevoel, geen feit.</p>
 
-<p>Most website and app blockers are built to do exactly one thing — block — and stop there. That's fine for the moment you're in a session, but it leaves you with no way to see the pattern over days or weeks, which is where habits actually form or fall apart.</p>
+<p>De meeste website- en app-blockers zijn gebouwd om precies één ding te doen — blokkeren — en ermee te stoppen. Dat is prima voor het moment waarop je in een sessie bent, maar het laat je geen manier om het patroon over dagen of weken te zien, wat is waar gewoonten werkelijk vormen of uiteenvallen.</p>
 
-<h2>Why Tracking Changes the Behavior</h2>
-<p>Seeing a visible record of your focus time does something that blocking alone doesn't: it turns an invisible habit into a measurable one. A streak of consistent sessions is motivating in a way that "I think I've been focusing more" isn't. A gap in the chart is a nudge to get back on track before it becomes a two-week slide. The tracking isn't just record-keeping — it's feedback that shapes the next session.</p>
+<h2>Waarom tracking het gedrag verandert</h2>
+<p>Het zien van een zichtbare record van je focustijd doet iets wat blokkering alleen niet doet: het maakt een onzichtbare gewoonten meetbaar. Een reeks consistente sessies is motiverend op een manier waarop "ik denk dat ik me meer focus heb" niet is. Een gat in de grafiek is een nudge om terug op koers te komen voordat het een twee-weken slide wordt. De tracking is niet alleen record-keeping — het is feedback die de volgende sessie vormt.</p>
 
-<h2>A Blocker That Also Shows You the Pattern</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> pairs website and app blocking with daily stats, so every session you run adds to a visible record instead of disappearing the moment it ends.</p>
+<h2>Een blocker die ook het patroon toont</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> koppelt website- en app-blokkering met dagelijkse statistieken, dus elke sessie die je uitvoert voegt toe aan een zichtbaar record in plaats van te verdwijnen zodra het eindigt.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Daily focus stats and 7-day chart on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Dagelijkse focusstatistieken en 7-daagse grafiek op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>A 7-Day Chart, Not Just a Number</h3>
-<p>A rolling seven-day bar chart shows focus time at a glance, so you can spot trends — a strong week, a slow Monday, a slide that's starting before it becomes a full relapse into old habits.</p>
+<h3>Een 7-daagse grafiek, niet alleen een nummer</h3>
+<p>Een voortschrijdend 7-daags staafdiagram toont focustijd in één oogopslag, dus je kunt trends opvallen — een sterke week, een trage maandag, een slide die begint voordat het een volledige terugval in oude gewoonten wordt.</p>
 
-<h3>Daily Totals in the Menu Bar</h3>
-<p>Check today's focused time without opening a separate dashboard or app. It's there when you glance at the menu bar, which keeps the feedback loop tight instead of buried in a settings screen you forget to visit.</p>
+<h3>Dagelijkse totalen in de menubalk</h3>
+<p>Controleer vandaag's gefocuste tijd zonder een apart dashboard of app te openen. Het is daar als je naar de menubalk kijkt, wat de feedbacklus strak houdt in plaats van begraven in een instellingenscherm die je vergeet te bezoeken.</p>
 
-<h3>Stats Cover Both Websites and Apps</h3>
-<p>Because website and app blocking run in the same session, the stats reflect your actual focus time, not just one slice of it. There's no need to reconcile numbers from two separate tools.</p>
+<h3>Statistieken dekken websites en apps</h3>
+<p>Omdat website- en app-blokkering in dezelfde sessie werken, weerspiegelen de statistieken je werkelijke focustijd, niet alleen één plak ervan. Er is geen nodig om getallen uit twee aparte tools te reconciliëren.</p>
 
-<p>What gets measured gets repeated. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Wat gemeten wordt wordt herhaald. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "mac-parental-controls-for-yourself": {
     slug: "mac-parental-controls-for-yourself",
-    title: "Mac ouderlikecontroles voor jezelf — zelf opgelegde website blokkering",
-    description: "Er is een specifieke soort zoekopdracht zoals 'hoe stel ik ouderlikecontroles in op mijn eigen Mac.' Het is geen typfout — veel volwassenen willen dezelfde beperking als een ouder op een kindercomputer.",
+    title: "Mac ouderbeheer voor jezelf — zelf-opgelegd website-blokkering",
+    description: "Schermlijd is gebouwd voor het beheren van een kind's account, maar veel volwassenen stellen het op hun eigen Mac in hopend op hetzelfde effect. Hier is waarom dat onprettig is en een betere fit.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>There's a specific kind of search that goes something like "how to set parental controls on my own Mac." It's not a typo — plenty of adults want the same restriction a parent would put on a kid's laptop, just applied to themselves, because they know exactly which sites eat their afternoons and want a wall they can't easily talk themselves past.</p>
+<p>Er is een bepaald soort zoekopdracht die iets als "hoe stel je ouderbeheer in op mijn eigen Mac." Er is geen typfout — veel volwassenen willen dezelfde beperking die een ouder op een kind's laptop zou zetten, gewoon op jezelf toepassen, omdat je precies weet welke sites je middagen eten en een muur willen die je niet gemakkelijk voorbij kunt praten.</p>
 
-<p>The instinct makes sense. The tool doesn't quite fit.</p>
+<p>Het instinct maakt zin. Het gereedschap past niet helemaal.</p>
 
-<h2>Why Screen Time Feels Wrong for This</h2>
-<p>Screen Time's parental controls are built around a Family Sharing structure — a parent account managing a child account, with a Screen Time passcode the child doesn't know. When you try to apply that to your own single-user Mac, you're setting a passcode you obviously know, on an account you fully control, which you can just disable whenever the block becomes inconvenient. The entire security model assumes an adult is restricting someone else. Turn it inward and it stops functioning as a real barrier.</p>
+<h2>Waarom Schermlijd verkeerd voelt ervoor</h2>
+<p>De ouderlijke controles van Schermlijd zijn gebouwd rond een Family Sharing structuur — een ouderrekening die een kind account beheert, met een Schermlijd wachtwoord dat het kind niet weet. Wanneer je dat op je eigen enkele gebruikers Mac probeert toe te passen, stel je een wachtwoord in dat je duidelijk weet, op een account die je volledig beheert, wat je gewoon kunt uitschakelen wanneer de blokkering inconvenient wordt. Het hele veiligheidsmodel gaat ervan uit dat een volwassene iemand anders beperkt. Draaien het naar binnen en het stopt met functioneren als een echte barrière.</p>
 
-<p>It also only limits Safari for website restrictions, so any other browser you have installed is untouched.</p>
+<p>Het beperkt ook alleen Safari voor website beperkingen, dus elke ander browser die je hebt geïnstalleerd is ongeraakt.</p>
 
-<h2>A Tool Built for Self-Imposed Blocking</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is designed specifically for people restricting their own Mac, not a parent managing a child's account — the whole interaction model assumes you're the one setting and honoring the limit.</p>
+<h2>Een tool gebouwd voor zelf-opgelegd blokkering</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is specifiek ontworpen voor personen die hun eigen Mac beperken, niet een ouder die een kind's account beheert — het hele interactiemodel gaat ervan uit dat je de limiet instelt en eert.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Self-imposed website and app blocking on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Zelf-opgelegd website- en app-blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Session-Based, Not Account-Based</h3>
-<p>Instead of a permanent restriction tied to a managed account, you start a timed session whenever you want to focus. It blocks your chosen sites and apps for that window, then lifts automatically — no separate account structure required.</p>
+<h3>Op sessies gebaseerd, niet op accounts</h3>
+<p>In plaats van een permanente beperking gekoppeld aan een beheerde rekening, start je een timed sessie wanneer je wilt focussen. Het blokkeert je gekozen sites en apps voor dat venster, ontgrendelt dan automatisch — geen aparte accountstructuur nodig.</p>
 
-<h3>Strict Mode Instead of a Passcode You Know</h3>
-<p>Since a self-set passcode isn't a real deterrent, Strict Mode removes the ability to cancel a session early at all. The commitment is made once, at the start, rather than being one click away from undone.</p>
+<h3>Strikte modus in plaats van een wachtwoord dat je weet</h3>
+<p>Omdat een zelf ingesteld wachtwoord geen echte afschrikking is, verwijdert Strikte modus de mogelijkheid een sessie voortijdig af te breken helemaal. De inzet wordt eenmaal gemaakt, bij het begin, in plaats van één klik weg van ongepubliceerd.</p>
 
-<h3>Covers Every Browser, Not Just Safari</h3>
-<p>The block runs at the system level, so it applies whether you're in Safari, Chrome, Firefox, or Arc — no gaps left by browser-specific restrictions.</p>
+<h3>Dekt elke browser, niet alleen Safari</h3>
+<p>De blokkering werkt op systeemniveau, dus het geldt of je in Safari, Chrome, Firefox of Arc bent — geen gaten gelaten door browser-specifieke beperkingen.</p>
 
-<p>Restriction that's built for you, not for a kid's account you're borrowing. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Beperking die voor je is gebouwd, niet voor een kind's rekening die je leent. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "deep-work-app-mac": {
     slug: "deep-work-app-mac",
-    title: "Deep Work app voor Mac — alles blokkeren, focus op één ding",
-    description: "Cal Newport's concept van diepgaand werk rust op een eenvoudig maar veeleisend idee: betekenisvol cognitief output vereist lange, ononderbroken concentratie.",
+    title: "Deep work app voor Mac — blokkeer alles, focus op één ding",
+    description: "Deep work vereist ononderbroken werkstukken, maar één ping of open tabblad kan een sessie beëindigen voordat hij begint. Hier is hoe je de blokkering correct beschermt.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>Cal Newport's concept of deep work rests on a simple but demanding idea: meaningful cognitive output requires long, uninterrupted stretches of concentration, and that state takes time to enter and almost no time to break. A single Slack notification, a reflexive tab switch, or a Discord ping doesn't just cost you the thirty seconds of the interruption — it costs you the ten or fifteen minutes it takes to get back into flow afterward.</p>
+<p>Cal Newport's concept van deep work steunt op een eenvoudig maar veeleisend idee: zinvolle cognitieve output vereist lange, ononderbroken concentratiestukken en die toestand duurt lang om in te voeren en bijna geen tijd om te breken. Een enkele Slack melding, een reflexieve tabwissel of een Discord ping kost je niet alleen de dertig seconden van de onderbreking — het kost je de tien of vijftien minuten die het duurt om terug in flow te raken.</p>
 
-<p>This is why deep work is so hard to protect casually. It's not that people lack the two hours; it's that the two hours get sliced into six twenty-minute fragments by things that felt harmless in the moment.</p>
+<p>Dit is waarom deep work zo moeilijk is om terloops te beschermen. Het is niet dat mensen twee uur missen; het is dat de twee uur in zes twintig-minuten fragmenten snijden door dingen die op het moment onschadelijk voelden.</p>
 
-<h2>What a Deep Work Block Actually Requires</h2>
-<p>Protecting a deep work session means removing every plausible interruption before it starts, not reacting to interruptions as they come. That means the communication apps are unreachable, the news and social sites are unreachable, and there's no easy toggle to check "just one thing" halfway through. The barrier has to exist before the temptation does.</p>
+<h2>Wat een deep work blokkering werkelijk vereist</h2>
+<p>Het beschermen van een deep work sessie betekent elke waarschijnlijke onderbreking verwijderen voordat het begint, niet reageren op onderbrekingen als zij voorkomen. Dat betekent de communicatie apps onbereikbaar zijn, de nieuws- en socialesites onbereikbaar zijn en er's geen gemakkelijke wissel om "gewoon iets" halverwege in te checken. De barrière moet bestaan voordat de verleiding doet.</p>
 
-<h2>Building the Block on Mac</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is built for exactly this — start a session and both distracting websites and distracting apps are blocked for its duration, system-wide.</p>
+<h2>Het blokkering op Mac bouwen</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is gebouwd voor precies dit — start een sessie en zowel afleidende websites als afleidende apps zijn voor zijn duur geblokkeerd, systeemwijd.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Deep work session with websites and apps blocked on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Deep work sessie met websites en apps blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Set the Block Before You Start Working</h3>
-<p>Configure a blocklist covering communication apps, social sites, and anything else that tends to pull you out of flow. Start the session before you open your actual work, so there's no window where a distraction could slip in before the block is live.</p>
+<h3>Alles blokkeren wat afleidt</h3>
+<p>Social media websites, communicatie apps, entertainment streams, email — wat niet betrekking hebt op de taak voor handen, kan van je blocklist gaan. Met presets voor Social, Entertainment, Nieuws en Winkelen duikt je de meeste instellingen automatisch in.</p>
 
-<h3>Pomodoro for Structured Deep Work Blocks</h3>
-<p>If two unbroken hours feels daunting, Pomodoro intervals break deep work into 25-minute sprints with short breaks — long enough to enter flow, short enough to sustain across a full day without burning out.</p>
+<h3>Strikte modus voor werkstukken die nergens heen kunnen</h3>
+<p>Zodra je deep work sessie begint met Strikte modus in, is alles tot je duur af. Geen verlenging, geen "gewoon nog een email", geen noodbevoegdheden. Twee uur werk is twee uur werk zonder gaten.</p>
 
-<h3>Strict Mode for the Sessions That Matter Most</h3>
-<p>For the work that genuinely needs protection — a deadline, a hard problem — Strict Mode makes the session uncancellable. There's no click-to-disable moment when the first hard sentence of the day shows up.</p>
+<h3>Volg je beste werk</h3>
+<p>Deep work is onmerkbaar zonder feedback. Lock In!'s 7-daagse grafiek laat je zien hoeveel echte diepwerk je per week doet en patronen verschijnen — welke omgevingen je best werken, welke type blokkeringen je het efficiëntste zijn.</p>
 
-<h3>Full-Screen App Blocking Covers the Desktop, Not Just the Browser</h3>
-<p>Deep work interruptions don't only come from the browser. Slack, Discord, and Messages notifications on the desktop are just as disruptive, and Lock In! blocks those with a full-screen interrupt rather than leaving them for a website blocker to miss entirely.</p>
-
-<p>Two protected hours beat six fragmented ones. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Maak focus niet alleen een bedoeling; maak het onafwijkbaar. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-news-sites-mac": {
     slug: "block-news-sites-mac",
-    title: "Hoe u nieuwssites op Mac blokkeert tijdens werk",
-    description: "Nieuwsfeeds zijn ontworpen om je aandacht te vangen en vast te houden. Hier is hoe je ze buiten je focussessies houdt zodat je je op het echte werk kunt concentreren.",
+    title: "Hoe je nieuwssites op Mac blokkeert",
+    description: "Constant nieuws checken is een van de meest opgespoorde afleidingen. Lock In! blokkeert al je nieuwsdomein in één preset.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>News sites operate on a similar mechanism to social feeds: there's always another headline, another related story, another live-updating thread. Checking in "for a minute" during a work session routinely turns into fifteen, because the next article is one click away and the site is specifically designed to make that click frictionless.</p>
+<p>Nieuws voelt belangrijk. "Ik moet op de hoogte blijven." Dus je checkt de New York Times, BBC, je lokale station, je tech-nieuwsfeed — en plotseling is een half uur weg op het lezen van artikelen die je morgen net zo goed kunt lezen.</p>
 
-<p>It's not that the news isn't important. It's that most of it isn't time-sensitive to you personally in the middle of a focused work block, and it can wait until a designated break without anything being lost.</p>
+<p>Het snelle nieuws-check werkt niet op dezelfde manier als sociale media, maar het doel is hetzelfde: het slurpt tijd op die je voor werk wilde gebruiken en laat je voelen als dat iets was dat je "moest" doen.</p>
 
-<h2>Why This Category Sneaks Past Willpower</h2>
-<p>News-checking often masquerades as productive behavior — "I'm staying informed" feels different from "I'm scrolling Instagram," even though the time cost and the interruption to focus are similar. That framing makes it easier to justify in the moment, which is exactly why it needs a structural block rather than a mental rule you're relying on yourself to enforce.</p>
+<h2>Blokkeer het met Lock In!</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> bevat een Nieuws preset met grote nieuwssites erop. Één klik en CNN, BBC, NPR, The Guardian en andere grote outlets zijn onbereikbaar gedurende je focussessie.</p>
 
-<h2>Blocking News Sites During Work</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> includes a News preset blocklist covering major outlets and aggregators, so you can remove the temptation for the hours it matters without deciding to swear off news entirely.</p>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Nieuws sites blokkeren op Mac gedurende focussessies" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Blocking news sites on Mac during work hours" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<h3>Alle grote outlets in één preset</h3>
+<p>Voeg tientallen nieuwsdomein niet handmatig in. De Nieuws preset dekt kranten, nieuwsuitzendingen, tech-nieuwssites en meer — alles in één klik.</p>
 
-<h3>One Preset, Major Outlets Covered</h3>
-<p>The News preset saves you from manually typing out every outlet you tend to check. Add it to a session and the common destinations are handled immediately.</p>
+<h3>Voeg niche-bronnen toe naar nodig</h3>
+<p>Heb je speciale nieuwsbronnen? Voeg ze toe aan je aangepaste blokkeringslijst. Geïnternationaal nieuws, industrie berichten, niche-blogs — wat je afleid, kan blockeren.</p>
 
-<h3>Add Your Own Habitual Sites</h3>
-<p>If you have a specific aggregator, subreddit, or niche outlet that's your personal rabbit hole, add it as a custom domain alongside the preset. The block isn't limited to a fixed list.</p>
+<h3>Scoped tot werk uren</h3>
+<p>Je hoeft nieuws niet te boycotten. Blokkeer het gedurende je focussessies en bekijk het wanneer je klaar bent met je werk. De informatie is niet ergens heen gaan.</p>
 
-<h3>Scoped to Work Hours, Not All Day</h3>
-<p>Set a session for your working hours and news sites unblock automatically once it ends, so catching up over lunch or in the evening is unaffected. The goal is protecting focus time, not cutting off information entirely.</p>
-
-<h3>Works Across Every Browser</h3>
-<p>The block applies system-wide, so switching from Safari to Chrome to check a headline doesn't work — the same rule holds everywhere on the Mac.</p>
-
-<p>Stay informed on your schedule, not the news cycle's. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Blijf geïnformeerd op je eigen schema. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "freedom-app-alternative-mac": {
     slug: "freedom-app-alternative-mac",
     title: "Freedom app alternatief voor Mac",
-    description: "Freedom is populair maar kostbaar en complex. Hier is een native macOS optie die hetzelfde bereikt met meer eenvoud en snelheid.",
+    description: "Freedom is populair, maar kostbaar en complex voor wat het doet. Lock In! levert dezelfde blokkering zonder de subscription fatigue.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>Freedom has been around for years and did a lot to popularize the idea of scheduled website and app blocking across devices. For a lot of people, though, the ongoing subscription for a tool that fundamentally blocks a list of domains on a timer starts to feel like a lot, especially once the free trial ends and the recurring charge becomes real.</p>
+<p>Freedom is een beleg focusapp die websites en apps blokkeert en heel gedurende iOS, Android, Windows en Mac werkt. Maar het is ook duur — ongeveer €8/maand of €100/jaar — en het biedt meer dan je nodig hebt als je alleen je Mac focus wilt beschermen.</p>
 
-<p>If you only need this on your Mac — not synced across five devices — there's a case for something native, one-time, and lighter.</p>
+<p>Bovendien het vrijheids-interface is ingewikkeld. Plannen, whitelist, timing regels — alles is daar, maar het voelt als overkill voor "blokkeer social media for two hours."</p>
 
-<h2>What People Look For When Leaving Freedom</h2>
-<p>The common asks are consistent: blocking that actually works across every browser, an app-blocking feature that isn't an afterthought, a way to make sessions harder to cancel, and — very often — not wanting to pay monthly indefinitely for something this focused in scope. Cross-device sync is valuable for some, but plenty of Freedom users only ever used it on their Mac anyway.</p>
+<h2>Lock In! is Mac-natief en eenvoudig</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> is gebouwd exclusief voor macOS. Geen multi-platform overhead, geen subscription, slechts €10 eenmaal en je bent gedaan.</p>
 
-<h2>A Mac-Native Alternative</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> covers the core of what Freedom does for Mac users — website and app blocking, scheduled sessions, an uncancellable mode — built natively for macOS rather than as a cross-platform sync service.</p>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Lock In! als Freedom alternatief voor Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Native Mac alternative to Freedom for website and app blocking" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<h3>Eenvoudige, rechttoe-rechtaan interface</h3>
+<p>Click menu bar pictogram, kies je blokkeringslijst, stel duur in, klik begin. Geen pagina's van instellingen, geen schema-klodding, geen abonnementen-management.</p>
 
-<h3>System-Level Blocking, Not a Browser Add-On</h3>
-<p>A macOS network extension blocks websites across every browser at once, so there's no per-browser setup and no extension to disable when you're tempted mid-session.</p>
+<h3>Dezelfde strakke blokkering</h3>
+<p>Website- en app-blokkering op systeemniveau. Strikte modus voor onherroepbare sessies. Presets voor Social, Entertainment, Nieuws, Winkelen. Dagelijkse statistieken voor tracking.</p>
 
-<h3>App Blocking Built In From the Start</h3>
-<p>Full-screen app blocking is a core feature, not a bolted-on extra — try opening a blocked app during a session and you get an uncancellable full-screen interrupt instead of the app itself.</p>
+<h3>Native Mac experience</h3>
+<p>Gebouwd met Swift en system frameworks, Lock In! voelt als een macOS app. Geen Electron, geen cross-platform framework-overhead, slechts snelle app-native performance.</p>
 
-<h3>Strict Mode Instead of Locked Settings</h3>
-<p>Strict Mode makes an active session impossible to cancel early, which covers the same "protect me from myself" need Freedom's locked mode addresses.</p>
-
-<h3>Lives in the Menu Bar</h3>
-<p>Start and stop sessions from a menu bar icon rather than a separate window, keeping the friction of starting a session as low as the friction of stopping one should be high.</p>
-
-<p>The same core promise, built for the Mac you're actually using. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Stesso blokkering, minder complexiteit, geen subscription. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "mac-website-blocker-system-wide": {
     slug: "mac-website-blocker-system-wide",
-    title: "Mac website blocker op systeemniveau",
-    description: "Systeemniveau blokkering werkt in elke app die het netwerk gebruikt. Dit is sterker dan browserextensies en betrouwbaarder dan hosts-bestand bewerkingen.",
+    title: "Mac website blocker die systeemwijd werkt",
+    description: "Systeemwijd blokkering betekent elke app — browsers, email clients, chatapps — is afgeleid sites kan bereiken.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>There's a meaningful difference between "blocked in this browser" and "blocked on this Mac," and it usually only becomes obvious the first time you catch yourself opening a second browser specifically to get around a block you set in the first one. It's rarely a conscious decision to cheat — it's just how easy the gap is to fall into.</p>
+<p>Je weet al dat browserextensies onvoldoende zijn. Ze dekken slechts één browser, ze kunnen worden uitgeschakeld en ze werken alleen op dat apparaat waar je ze installeert.</p>
 
-<h2>Why Browser-Level Blocking Isn't Really Blocking</h2>
-<p>Browser extensions can only see traffic inside the browser hosting them. Most Macs have more than one browser installed — Safari comes preloaded, and many people also use Chrome, Firefox, or Arc for different purposes. A blocker scoped to just one of them leaves every other browser as an open door, and a distracted brain finds open doors fast, often without consciously planning to.</p>
+<p>Ware blokkering werkt beneden het browser laag. Het onderschept DNS-verzoeken en blokt het netwerk verkeer voor hele domeinen, ongeacht welke app het roept.</p>
 
-<p>Editing <code>/etc/hosts</code> gets closer to system-wide, since it works below the browser, but it requires Terminal access, doesn't run on a schedule, and needs manual cleanup — impractical for daily use.</p>
+<h2>Lock In! Systeemwijd blokkering</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> gebruikt een macOS Network Extension om verzoeken op netwerkniveau op te vangen. Dit betekent blokkering werkt niet alleen voor Safari, maar voor alles dat het netwerk raakt — Chrome, Firefox, Arc, email clients, chat apps, alles.</p>
 
-<h2>True System-Wide Blocking</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> uses a macOS network extension that blocks domains at the system level, below every browser, so the block holds no matter which app is making the request.</p>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Systeemwijd website blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="System-wide website blocking across every Mac browser" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<h3>Werkelijk systeemwijd</h3>
+<p>Als reddit.com is geblokkeerd, is het geblokkeerd. In welke app je het probeert te openen, op welke manier je het probeert, het antwoord is hetzelfde: de domain laden niet.</p>
 
-<h3>Every Browser, One Rule</h3>
-<p>Add a domain once and Safari, Chrome, Firefox, and Arc are all covered simultaneously. There's no per-browser configuration step to forget.</p>
+<h3>Geen dingen vergeten</h3>
+<p>Je hoeft niet elk domein handmatig op te sommen of je af te vragen of je er een hebt gemist. De presets dekken de grote afleidingen en je kunt aangepast toevoegen.</p>
 
-<h3>No Terminal Commands Required</h3>
-<p>Everything is managed from a menu bar interface — add domains, pick presets, start a session — with none of the manual file editing or cleanup that a hosts-file approach demands.</p>
-
-<h3>Covers Apps Too, Not Just Browsers</h3>
-<p>Since some distractions live outside the browser entirely — desktop apps like Discord or Steam — the same session can block those with a full-screen interrupt, closing the gap a browser-only tool would leave.</p>
-
-<p>System-wide means system-wide. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Blokkeer op het laagste niveau. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "unbypassable-website-blocker-mac": {
     slug: "unbypassable-website-blocker-mac",
-    title: "Onverglijdelijke website blocker voor Mac",
-    description: "Een blocker die je niet kunt omzeilen is de enige die echt werkt. Hier is hoe je je gebruiken tegen jezelf inzet zodat je focus kan worden afgedwongen.",
+    title: "Onontkombare website blocker voor Mac",
+    description: "De meeste blockers hebben gaten — je kunt het deïnstalleren, naar de instellingen gaan, naar een ander device overschakelen. Lock In!'s Strikte modus is werkelijk onontkombaar.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Every website blocker works fine in theory, right up until the moment you actually want to check the blocked site badly enough to disable it. That moment is the entire point of using a blocker in the first place — if you never wanted to check the site, you wouldn't need the tool. So a blocker's real test isn't whether it blocks when you're motivated; it's whether it holds when you're not.</p>
+<p>"Onontkombaar" is een groot woord. We zeggen niet letterlijk geen wetenschappelijke manier: hackers zijn altijd clever, systeembeheerders hebben altijd toegang. Maar voor normale dagelijkse omstandigheden, Lock In! Strikte modus maakt je niet onontkombaar weg uit een focussessie.</p>
 
-<p>Most tools fail this test. A settings toggle, a menu bar click, an extension you can disable — all of it is one small action away from undone, and one small action is all a distracted brain needs.</p>
+<p>Zodra Strikte modus begint, is alles verwijderd wat zou toestaan het af te zetten:</p>
 
-<h2>Why "Easy to Turn Off" Defeats the Purpose</h2>
-<p>The value of a blocker comes from removing the decision, not from making the decision slightly harder. If disabling it takes the same three seconds as opening the blocked site would have taken anyway, you haven't added a meaningful barrier — you've just added a step that a determined-in-the-moment version of you will happily take.</p>
+<ul>
+<li>Geen "Sessie beëindigen" knop in het menu</li>
+<li>Geen shortcut om blokkering uit te schakelen</li>
+<li>App deïnstalleren zou de sessie niet verhelpen</li>
+<li>De timer telt naar beneden, ongeacht wat</li>
+</ul>
 
-<h2>A Block That Holds</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> includes Strict Mode, which makes an active blocking session uncancellable until its timer runs out — there's no settings toggle, no menu bar shortcut, no way to end it early.</p>
-
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Strict Mode uncancellable website blocking on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
-
-<h3>The Decision Happens Once, Upfront</h3>
-<p>You choose Strict Mode and set the duration before the session starts, while you're motivated and clear-headed. From that point, the commitment is locked in rather than renegotiated every time temptation shows up.</p>
-
-<h3>No Password Reset or Uninstall Workaround</h3>
-<p>The block is enforced at the system level through a macOS network extension, not through a setting you can quietly flip back. It's designed specifically to survive the moment you most want to bypass it.</p>
-
-<h3>Combine with Apps for a Full Lockdown</h3>
-<p>Strict Mode applies to app blocking as well as websites, so a full-screen interrupt on a blocked app can't be dismissed early either — both halves of the block hold together.</p>
-
-<p>A block that only works when you don't need it isn't a block. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<h2>Waarom dit werkt</h2>
+<p>Commitment-apparaten werken. Als je jezelf beperkt hebt voordat je de noodzaak voelt, dan doet het ertoe. Strikte modus is een deal met jezelf: je kiezen duur zijn je dedikatie. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "block-online-shopping-mac": {
     slug: "block-online-shopping-mac",
-    title: "Hoe u online winkelen op Mac blokkeert",
-    description: "Amazon, Alibaba en andere winkelsites zijn ontworpen om je meer te laten kopen. Block ze durante focussessies om impulskopen te voorkomen.",
+    title: "Hoe je online winkelen op Mac blokkeert",
+    description: "Amazon, Target, en andere shopping sites zijn ontworpen om je terug te krijgen. Blokkeer ze gedurende focuswerk om impulsief kopen te voorkomen.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Online shopping during work hours has a specific shape: you open the site for one item, get pulled into "customers also bought," and twenty minutes later you've added three things to a cart you didn't know you needed. It's not really about the shopping — it's a browsing loop dressed up as a task, which makes it easy to justify as productive in the moment.</p>
+<p>"Ik zal gewoon even op Amazon checken." Twintig minuten later heb je drie dingen aan je winkelkar toegevoegd die je niet nodig hebt.</p>
 
-<p>It's also expensive in a way social media isn't. A wasted twenty minutes on Reddit costs you time. A wasted twenty minutes on a shopping site can cost you money on top of the time.</p>
+<p>Winkelsites zijn ontworpen om je lang te houden — gepersonaliseerde aanbevelingen, snelle checkout, prijs tracking, reviews — alles om je naar mee te voelen.</p>
 
-<h2>Why It's Hard to Resist Mid-Task</h2>
-<p>Shopping sites are optimized around the same recommendation and urgency mechanics as social feeds — limited-time offers, related items, low-stock warnings — all designed to keep you browsing past your original intent. Combined with the fact that "I'm just looking" feels harmless, it's an easy category to underestimate until you check your bank statement.</p>
+<p>De beste manier om impulsief winkelen te voorkomen is gewoon niet ervan uit te gaan.</p>
 
-<h2>Blocking Shopping Sites During Focus Time</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> includes a Shopping preset blocklist covering major retail and marketplace sites, so they're unreachable during your work sessions without you having to remember every site you tend to drift to.</p>
+<h2>Blokkeer het met Lock In!</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> bevat een Winkelen preset met grote e-commerce sites. Amazon, eBay, Etsy, Target — alles in één klik.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Blocking online shopping sites on Mac during work" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Online winkelen blokkeren op Mac gedurende focussessies" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>One Preset for Common Retailers</h3>
-<p>Add the Shopping preset to a session and major marketplaces and retail sites are covered immediately, no manual list-building required.</p>
+<h3>Geen impulsief toevoegen aan winkelkar</h3>
+<p>Je kunt niet naar Amazon gaan en "snel iets controleren" als Amazon niet laadt. De site blokkering werkt op alle browsers, dus je kunt niet naar Chrome schakelen om dit omheen te gaan.</p>
 
-<h3>Add Niche Sites You Actually Use</h3>
-<p>If your personal weak spot is a specific boutique site or resale marketplace not covered by the preset, add it as a custom domain — the blocklist isn't limited to what's built in.</p>
+<h3>Voeg niche-winkels toe</h3>
+<p>Heb je specifieke winkels waar je tijd doorbrengt? Voeg ze toe aan je blokkeringslijst. Hoe smaller je het maakt, hoe sterker de focus.</p>
 
-<h3>Strict Mode for Payday and Sale Days</h3>
-<p>If certain days are riskier than others — payday, a big sale event — Strict Mode removes the option to disable the block partway through, which matters most exactly on those days.</p>
-
-<h3>Unblocks Automatically After Work</h3>
-<p>The block is tied to your session, not a permanent restriction, so shopping on your own time in the evening is unaffected once the timer ends.</p>
-
-<p>Keep the cart empty until the workday's done. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Impulsief winkelen kan wachten. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "focus-timer-with-website-blocking-mac": {
     slug: "focus-timer-with-website-blocking-mac",
     title: "Focus timer met website blokkering voor Mac",
-    description: "Een timer zonder blokkering is slechts een reminder. Een timer met blokkering is een commitment device dat werkelijk beschermt tegen zelfveroorzaakte ableidingen.",
+    description: "Een timer zonder blokkering is gewoon een aftelling. Lock In! combineert beide in één app van menubalk.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>A lot of people run two separate tools during a work session: a Pomodoro timer to structure the time, and a website blocker to keep distractions out. It works, but it means starting two things every time you sit down to focus, and it means the timer has no idea whether the blocker is even running — they operate completely independently, with no relationship to each other.</p>
+<p>Een timer zegt je hoe lang je aan het werken bent, maar beschermt je niet tegen afleidingen. Je kunt een 2-uur Pomodoro timer hebben die tikt terwijl je scrollt.</p>
 
-<p>That gap matters more than it seems. If the timer says "focus for 25 minutes" but the blocker isn't active, the structure is just a suggestion. If the blocker is active but there's no timer, sessions tend to run indefinitely or get abandoned without a clear endpoint.</p>
+<p>Lock In! is een timer die ook blokkeert. Start het, kies je focusduur en je gekozen websites en apps zijn weg totdat de tijd voorbij is.</p>
 
-<h2>Why Combining Them Matters</h2>
-<p>A timer gives a session a defined shape — a start, an end, and ideally a rhythm of work and rest. A blocker gives that shape teeth by removing the temptation to fill the "work" portion with something else. Neither one alone solves the actual problem of staying focused for a set period; together they do.</p>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Focus timer met website blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h2>Timer and Blocking in One Session</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> combines a focus timer with website and app blocking in a single session, so starting the clock and activating the block are the same action.</p>
+<h3>Timer is slechts half het verhaal</h3>
+<p>Blokkering is het andere half. Together zij vormen een echte focus sessie.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Focus timer with website blocking built in on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
-
-<h3>Set a Duration, Everything Starts Together</h3>
-<p>Pick how long you want to focus from the menu bar, and the website and app blocks activate for exactly that window. No separate app to launch for the timer part.</p>
-
-<h3>Pomodoro Intervals Built In</h3>
-<p>For structured work-rest cycles, Pomodoro mode runs the blocking in sync with work intervals and lifts it during breaks automatically, so you're not manually re-toggling the blocker every 25 minutes.</p>
-
-<h3>Stats Tie It Together</h3>
-<p>Because the timer and the blocking are one session, the daily stats reflect real, protected focus time — not just time the timer was running with distractions still one tab-switch away.</p>
-
-<p>One session, timer and block together. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Timer + blokkering = echte focus. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "mac-productivity-apps-for-adhd": {
     slug: "mac-productivity-apps-for-adhd",
     title: "Mac productiviteitsapps voor ADHD",
-    description: "ADHD betekent dat afleidingen extra krachtig zijn. Een sterke blokkering op systeemniveau kan het verschil maken tussen een productieve dag en een verloren dag.",
+    description: "ADHD betekent dat je focus niet je sterkte is — je hebt gereedschap met structuur gebouwde randen nodig. Lock In! is duidelijk daarvoor ontworpen.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>A lot of productivity advice boils down to "just be more disciplined about not checking that site." For an ADHD brain, that advice misunderstands the problem. It's not a lack of knowing better — it's that impulse control and working memory make "remembering not to" an unreliable mechanism in the moment, no matter how clear the intention was five minutes earlier.</p>
+<p>Typische productiviteitsadvies is op normotype brein gericht: "gewoon meer discipline gebruiken." Maar ADHD-brein werk niet zo. Je hebt externe structuur nodig — letterlijk blokkades die voorkomen dat je waar je niet wilt gaan.</p>
 
-<p>What tends to work better isn't more willpower, it's structural: removing the option so there's nothing to resist in the first place. If a distracting site or app simply isn't reachable, the impulse has nowhere to go.</p>
+<p>Dat is waar Lock In! helpt. Het is niet een app die je vermogen vergroot om jezelf in bedwang te houden. Het is een app die de optie verwijdert totdat je focus klaar bent.</p>
 
-<h2>Why Removal Beats Reminders</h2>
-<p>Notification-based nudges and gentle reminders assume you'll notice them and act on them in the moment — which is exactly the mechanism that's often less reliable for ADHD. A hard block doesn't rely on that mechanism at all. There's no reminder to miss, no notification to swipe away without reading. The site is either reachable or it isn't, and that binary is much easier to work with than a system that depends on catching yourself.</p>
+<h2>Karakteristieken die voor ADHD helpen</h2>
 
-<h2>Automatic Blocking, Not Manual Willpower</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> blocks distracting websites and apps automatically once a session starts, removing the need to notice a distraction and choose not to engage with it in the moment.</p>
+<h3>Visuele feedback</h3>
+<p>Lock In!'s 7-daagse statistiekenkaart laat je zien waar je goed doet en waar niet. Voor ADHD-brein, deze feedback is waardevol — het helpt je je verandering zien.</p>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Automatic distraction blocking on Mac for ADHD focus" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<h3>Extern afgedwongen limieten</h3>
+<p>Strikte modus maakt de sessie onherroepelijk. Dit verwijdert de mentale belasting van "zelf-disciplinering" — de blokkering dwingt het af in plaats van jij jezelf ervan te overtuigen.</p>
 
-<h3>One Click to Start, Then It's Automatic</h3>
-<p>Starting a session from the menu bar is a single low-effort action. After that, the blocking runs on its own — no ongoing decisions required to keep it active, which matters when sustained decision-making is the hard part.</p>
+<h3>Presets om hersenvermoeidheid te verminderen</h3>
+<p>Geen blocklist elke keer uit te kiezen. De ingebouwde presets betekenen je kan een sessie in twee klikken starten.</p>
 
-<h3>Strict Mode Removes the Escape Hatch</h3>
-<p>Impulsivity can make "just disable it for a second" feel harmless in the moment, even when it defeats the entire point. Strict Mode removes that option until the timer ends, so there's no small action available to undo the whole session.</p>
+<h3>Pomodoro-structuur</h3>
+<p>Structuur helpt ADHD brein. Lock In! ondersteunt korte, gestruct intervallen, wat voor veel mensen wijd meer werkzaam dan lange open blokken.</p>
 
-<h3>Pomodoro for External Structure</h3>
-<p>Built-in work-rest intervals provide external time structure, which can be easier to follow than self-monitored time when internal time perception is unreliable.</p>
-
-<h3>Presets Remove Setup Friction</h3>
-<p>Social, Entertainment, News, and Shopping presets mean you don't have to build a blocklist from scratch before you can start — a task that itself can become a procrastination point.</p>
-
-<p>Remove the option, not just the reminder. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Focus is niet iets dat je hebt of niet hebt — het is iets wat je bouwt. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
   "schedule-website-blocking-mac": {
     slug: "schedule-website-blocking-mac",
-    title: "Plan website blokkering in op Mac",
-    description: "Veel focuswerk gebeurt op vaste tijden. Plan je blockeringsessies in en maak diepgaand werk een routine in plaats van een beetje willekeur.",
+    title: "Geplande website-blokkering op Mac",
+    description: "Blokkering op vaste momenten — elke ochtend, elke avond — zorgt ervoor dat focus een gewoonte wordt in plaats van iets dat je handmatig start.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>A website blocker only helps on the days you remember to turn it on. If starting a session is a manual step at the beginning of your workday, the mornings you're rushed, distracted, or already behind — exactly the mornings a blocker would help most — are also the mornings you're most likely to skip it entirely.</p>
+<p>"Ik zal focusmodus starten wanneer ik eraan ben." Maar je bent er nooit aan toe, dus het gebeurt niet. Geplande blokkering neemt dat besluit weg.</p>
 
-<p>The fix is to stop relying on remembering. A recurring schedule starts the block for you, so the habit doesn't depend on your state of mind at 9am.</p>
+<p>Stel in dat Lock In! elke ochtend van 9 tot 12 uur blokkeert. Wanneer 9 uur aankomt, gebeurt het gewoon. Geen "herinnering" — de afleiding zijn werkelijk weg.</p>
 
-<h2>Why Manual Starts Fail Quietly</h2>
-<p>Nobody decides to stop using a blocker outright — it just fades. One busy morning you skip it "just this once," and once the pattern of skipping starts, it's easy to keep skipping without a deliberate decision either way. A few weeks later you're not using it at all, without ever having chosen to stop.</p>
+<h2>Hoe het werkt</h2>
+<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> laat je focussessies plannen. Voeg een schema in, kies je blokkeringslijst, en Lock In! begint automatisch op dat moment.</p>
 
-<h2>Scheduling It So You Don't Have To</h2>
-<p><a href="https://apps.apple.com/app/lockin/id6802325423">Lock In!</a> supports recurring focus sessions on Mac, so your website and app blocking can start automatically at set times rather than depending on you remembering each morning.</p>
+<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Geplande website blokkering op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<a href="https://apps.apple.com/app/lockin/id6802325423" target="_blank" rel="noopener" style="display:block"><img src="/apps/lockin.png" alt="Scheduled website blocking sessions on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;"></img></a>
+<h3>Maak focus een gewoonte, geen ad-hoc keuze</h3>
+<p>Je brein hoeft niet elke ochtend opnieuw te onderhandelen. Het is al gepland. Kom 9 uur, blokkering begint.</p>
 
-<h3>Set It Once for Your Work Hours</h3>
-<p>Configure a recurring session for your typical work block — say, 9am to 1pm on weekdays — and the blocking activates on schedule without any daily setup on your part.</p>
+<h3>Geen ochtend procrastination</h3>
+<p>Omdat het automatisch is, is er geen uitstelling. Geen "ik zal focussessie in 10 minuten starten" wat wordt 2 uur.</p>
 
-<h3>Consistency Without Relying on Memory</h3>
-<p>Because the schedule runs independently of your morning state of mind, a rushed or distracted start to the day doesn't mean the blocking gets skipped. The system does what your memory might not.</p>
-
-<h3>Adjust Without Losing the Habit</h3>
-<p>Meetings and exceptions happen — you can still start an unscheduled session or end one early if genuinely needed, without abandoning the recurring schedule for every other day.</p>
-
-<h3>Stats Show Whether the Schedule Is Sticking</h3>
-<p>The daily stats chart makes it easy to see if scheduled sessions are actually running consistently, so you catch a slipping habit before it becomes a forgotten one.</p>
-
-<p>Set it up once, let it run every day after. <a href="https://apps.apple.com/app/lockin/id6802325423">Get Lock In! on the Mac App Store</a></p>
+<p>Voeg een keer in en het herhaalt. <a href="https://apps.apple.com/app/lockin/id6802325423">Haal Lock In! uit de Mac App Store</a></p>
 `,
   },
 };

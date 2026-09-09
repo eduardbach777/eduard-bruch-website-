@@ -4,849 +4,848 @@ export const nlArticles: ArticleSet = {
   "best-media-converter-mac": {
     slug: "best-media-converter-mac",
     title: "Beste mediaconverter voor Mac",
-    description: "Meerdere apps gebruiken voor video-, afbeeldings- en audioconversie kost tijd. Een enkel native hulpmiddel verwerkt alle drie mediatypen in één venster.",
+    description: "Het jongleren met aparte apps voor video-, afbeeldings- en audioconversie verspilt tijd. Een enkel native tool behandelt alle drie mediatypen in één venster.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>U moet een batch productfoto's naar JPEG converteren, een schermopname naar MP4 transcoderen en een podcastfragment als MP3 exporteren. Bij de meeste setups betekent dat drie verschillende apps openen, drie verschillende interfaces leren en drie verschillende wachtrijen controleren. Als zelfs een van deze hulpmiddelen een Electron-wrapper is, draaien uw ventilators al op volle toeren.</p>
+<p>U moet een batch productfoto's naar JPEG converteren, een schermopname naar MP4 transcoderen en een podcastfragment als MP3 exporteren. Op de meeste instellingen betekent dit het openen van drie verschillende apps, het leren van drie verschillende interfaces en het babysitting van drie verschillende wachtrijen. Als zelfs één van die tools een Electron-wrapper is, draaien uw fans al.</p>
 
-<p>Mediaconversie op macOS zou niet voelen als projectmanagement. U wilt bestanden slepen, een indeling kiezen en verder gaan met uw dag.</p>
+<p>Mediaconversie op macOS zou niet als projectmanagement moeten voelen. U wilt bestanden slepen, een formaat kiezen en verdergaan met uw dag.</p>
 
-<h2>Waarom macOS geen echte converter heeft</h2>
+<h2>Waarom macOS geen echte converter levert</h2>
 
-<p>Finder's Quick Actions kunnen afbeeldingen converteren tussen HEIC, JPEG en PNG — en dat is alles. Voor video verwijst men u naar iMovie of Compressor, geen van beide is een eenvoudige formaatconverter. Audioconversie vereist GarageBand of een bezoek aan de terminal met <code>ffmpeg</code>. Er is geen enkel ingebouwd hulpmiddel dat video, afbeeldingen en audio samen verwerkt.</p>
+<p>Finder's Quick Actions kunnen afbeeldingen tussen HEIC, JPEG en PNG converteren — en dat is het dan. Voor video wordt u naar iMovie of Compressor verwezen, waarvan geen ervan een eenvoudige formaatconverter is. Audioconversie vereist GarageBand of een uitstapje naar de terminal met <code>ffmpeg</code>. Er is geen enkel ingebouwd hulpmiddel dat video, afbeeldingen en audio samen behandelt.</p>
 
 <h2>Hoe een juiste mediaconverter eruit ziet</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> plaatst drie conversiewachtrijen — video, afbeeldingen en audio — in één native macOS-venster. U sleept bestanden naar de wachtrij die overeenkomt met hun type, kiest een uitvoerindeling en klikt op converteren. Er zijn geen browserruntimes, geen abonnementen en geen cloud-upload-trucjes.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> plaatst drie conversiewachtrijen — video, afbeeldingen en audio — in één native macOS-venster. U sleept bestanden op de wachtrij die overeenkomt met hun type, kiest een uitvoerformaat en drukt op converteren. Er zijn geen browserruntime-omgevingen, geen abonnementen en geen cloud-uploadgimmicks.</p>
 
 <a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Mediasmith mediaconverter voor Mac met video-, afbeeldings- en audiowachtrijen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Videoconversie</h3>
-<p>Converteer MOV, AVI, MKV en WebM naar MP4 of andere formaten. Omdat het een native Swift-app is, wordt hardware-versnelde codering op Apple Silicon automatisch gebruikt — een 4K-clip converteert in een fractie van de tijd die een Electron-gebaseerd hulpmiddel zou kosten.</p>
+<p>Zet MOV, AVI, MKV en WebM om naar MP4 of andere formaten. Omdat het een native Swift-app is, wordt hardware-versnelde codering op Apple Silicon automatisch gebruikt — een 4K-clip wordt geconverteerd in een fractie van de tijd die een Electron-gebaseerd tool zou nemen.</p>
 
-<h3>Batchverwerking van afbeeldingen</h3>
-<p>Zet honderden afbeeldingen neer en converteer tussen HEIC, JPEG, PNG, WebP en TIFF. Een georderde pixelpijplijn laat u bewerkingen koppelen — eerst vergroten/verkleinen, dan bijsnijden, dan een watermerk toevoegen — en elke bewerking wordt in de volgorde toegepast die u instelt.</p>
+<h3>Batchafbeeldingenverwerking</h3>
+<p>Zet honderden afbeeldingen neer en converteer tussen HEIC, JPEG, PNG, WebP en TIFF. Een georderde pixelpijplijn laat u bewerkingen koppelen — eerst vergroten/verkleinen, dan bijsnijden, dan een watermerk toevoegen — en elke bewerking wordt in de volgorde die u instelt toegepast.</p>
 
 <h3>Audio- en MP3-export</h3>
-<p>De audiowachtrij verwerkt formaatconversie inclusief MP3-export via een gebundelde LAME-encoder. Geen behoefte om Homebrew te installeren, bibliotheken te compileren of ffmpeg-vlaggen uit te zoeken.</p>
+<p>De audiowachtrij behandelt formaatconversie, inclusief MP3-export via een gebundelde LAME-encoder. U hoeft Homebrew niet te installeren, bibliotheken te compileren of ffmpeg-vlaggen uit te zoeken.</p>
 
 <h3>Voorinstellingen en gelijktijdigheid</h3>
-<p>Sla indeling- en pijplijncombinaties op als voorinstellingen zodat herhalende taken één klik kosten. Batchverwerking wordt uitgevoerd met configureerbare gelijktijdigheid, zodat grote wachtrijen sneller klaar zijn zonder de rest van uw systeem uit te putten.</p>
+<p>Sla formaat- en pijplijncombo's op als voorinstellingen zodat terugkerende taken één klik kosten. Batchverwerking wordt uitgevoerd met configureerbare gelijktijdigheid, dus grote wachtrijen worden sneller voltooid zonder de rest van uw systeem uit te putten.</p>
 
-<p>Als u Preview, Handbrake en een terminalvenster hebt samengevoegd, is een enkele native converter een echte kwaliteitsverbetering.</p>
+<p>Als u Preview, Handbrake en een terminalvenster aan elkaar hebt geplakt, is één native converter een echte kwaliteitsverbetering.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith downloaden van de Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "batch-convert-images-mac": {
     slug: "batch-convert-images-mac",
     title: "Afbeeldingen in batches converteren op Mac",
-    description: "Afbeeldingen één voor één in Preview converteren is vervelend. Er zijn snellere manieren om honderden foto's tussen indelingen op macOS om te zetten.",
+    description: "Afbeeldingen één voor één in Preview converteren is vervelend. Er zijn snellere manieren om honderden foto's in batches tussen formaten op macOS om te zetten.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>U hebt net 200 productfoto's uit Lightroom geëxporteerd als TIFF-bestanden en nu wil uw webontwikkelaar JPEG. Of u hebt een map met WebP-afbeeldingen van een klant gedownload en moet ze PNG zijn voor een Keynote-presentatie. Elk bestand in Preview openen, Export kiezen, een indeling selecteren en opslaan — 200 keer — is geen echte workflow.</p>
+<p>U hebt zojuist 200 productfoto's van Lightroom als TIFF-bestanden geëxporteerd en nu wil uw webontwikkelaar JPEG. Of u hebt een map met WebP-afbeeldingen van een client gedownload en hebt deze nodig als PNG voor een Keynote-presentatie. Elk bestand openen in Preview, Export kiezen, een formaat kiezen en opslaan — 200 keer — is geen echte workflow.</p>
 
-<p>Batchafbeeldingsconversie is een van die taken die dertig seconden zou moeten kosten maar op macOS op de een of andere manier een hele middag opslurpt.</p>
+<p>Batchafbeeldingsconversie is een van die taken die dertig seconden zou moeten nemen maar op de een of andere manier een hele middag op macOS in beslag neemt.</p>
 
 <h2>Wat macOS u geeft (en waar het stopt)</h2>
 
-<p>Finder's Quick Actions laat u geselecteerde afbeeldingen converteren, maar alleen tussen HEIC, JPEG en PNG. Er is geen WebP-uitvoer, geen TIFF en geen manier om kwaliteit of resolutie te controleren. Preview kan één afbeelding tegelijk exporteren — functioneel maar pijnlijk traag voor batches. Het <code>sips</code> commandoregelgereedschap verwerkt enkele conversies maar loopt vast bij formaten zoals WebP en heeft beperkte pijpljnopties.</p>
+<p>Finder's Quick Actions laten u geselecteerde afbeeldingen converteren, maar alleen tussen HEIC, JPEG en PNG. Er is geen WebP-uitvoer, geen TIFF en geen manier om kwaliteit of resolutie te controleren. Preview kan afbeelding voor afbeelding exporteren — functioneel maar pijnlijk traag voor batches. De <code>sips</code> commandregelhulpmiddel behandelt sommige conversies, maar faalt op formaten als WebP en biedt beperkte pijplijnopties.</p>
 
-<p>Voor alles buiten de basisbeginselen hebt u een dedicated hulpmiddel nodig.</p>
+<p>Voor alles boven de basisbeginselen hebt u een speciaal hulpmiddel nodig.</p>
 
 <h2>Batchconversie met een pixelpijplijn</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is een native macOS-converter die speciaal voor dit doel is gemaakt. Sleep een map met afbeeldingen naar de afbeeldingswachtrij, kies uw uitvoerindeling — JPEG, PNG, WebP, HEIC of TIFF — en converteer. Alle bestanden worden parallel verwerkt met configureerbare gelijktijdigheid.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is een native macOS-converter die voor dit doel is gebouwd. Sleep een map met afbeeldingen op de afbeeldingswachtrij, kies uw uitvoerformaat — JPEG, PNG, WebP, HEIC of TIFF — en converteer. Alle bestanden worden parallel verwerkt met configureerbare gelijktijdigheid.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchafbeeldingsconversie op Mac met indeling- en pijpljnopties" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchafbeeldingsconversie op Mac met formaat- en pijplijnopties" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Geordende bewerkingen</h3>
-<p>De pixelpijplijn laat u vergroten/verkleinen, bijsnijden en watermerken in een specifieke volgorde koppelen. Moet u tot 1200px breed vergroten/verkleinen, vervolgens bijsnijden tot 4:3 en dan uw logo stempelen? Stel de pijplijn eenmaal in en deze wordt identiek toegepast op elke afbeelding in de batch.</p>
+<p>De pixelpijplijn laat u vergroten/verkleinen-, bijsnijd- en watermerkbewerkingen in een specifieke volgorde koppelen. U moet tot 1200px breed vergroten/verkleinen, dan bijsnijden tot 4:3, dan uw logo stempel? Stel de pijplijn eenmaal in en deze wordt identiek op elke afbeelding in de batch toegepast.</p>
 
 <h3>Kwaliteitscontrole</h3>
-<p>JPEG- en WebP-uitvoer bevat kwaliteitschuiven zodat u bestandsgrootte tegen visuele getrouwheid kunt afwegen. Voor e-commerce waar elke kilobyte telt, bespaart u alleen al een extra ronde via een online compressor.</p>
+<p>JPEG- en WebP-uitvoer bevat kwaliteitschuifregelaars zodat u bestandsgrootte tegen visuele getrouwheid kunt afzetten. Voor e-commerce waar elke kilobyte telt, bespaart dit alleen al een retourrit via een online compressor.</p>
 
 <h3>Voorinstellingensysteem</h3>
-<p>Als u dezelfde conversie regelmatig uitvoert — zeg: "klantleveringen: JPEG, 2000px breed, 85% kwaliteit, watermerk" — sla dit op als voorinstelling. De volgende keer geldt één klik op de volledige pijplijn voor een nieuwe batch.</p>
+<p>Als u regelmatig dezelfde conversie uitvoert — zeg maar "clientlevering: JPEG, 2000px breed, 85% kwaliteit, watermerked" — sla het op als voorinstelling. De volgende keer past één klik de hele pijplijn op een nieuwe batch toe.</p>
 
-<p>Batchafbeeldingsconversie is een opgelost probleem. Het trucje is het vinden van een hulpmiddel dat native, snel is en niet vraagt om uw bestanden naar iemand anders server te uploaden.</p>
+<p>Batchafbeeldingsconversie is een opgelost probleem. De truc is het vinden van een tool die native is, snel en u niet vraagt uw bestanden op iemands server te uploaden.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith downloaden van de Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "permute-alternative-mac": {
     slug: "permute-alternative-mac",
     title: "Permute-alternatief voor Mac",
-    description: "Zoekt u een mediaconverter die video, afbeeldingen en audio verwerkt zonder abonnement. Een native macOS-app met batchverwerking en een pixelpijplijn.",
+    description: "Zoekt u een mediaconverter die video, afbeeldingen en audio behandelt zonder abonnement. Een native macOS-app met batchverwerking en een pixelpijplijn.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Permute is al jaren een standaard mediaconverter op macOS. Het verwerkt video, audio en afbeeldingen in een schone sleep-en-laat-vallen-interface. Maar als u op zoek bent naar iets met meer gedetailleerde beeldverwerking — een geordende pijplijn van bewerkingen in plaats van eenvoudige formaatconversie — of als u gewoon wilt zien wat er nog meer is, is het de moeite waard om uw mogelijkheden te kennen.</p>
+<p>Permute is jarenlang een standaardmediaconverter op macOS geweest. Het behandelt video, audio en afbeeldingen in een schone sleep-en-loslaat-interface. Maar als u op zoek bent naar iets met meer granulaire afbeeldingsverwerking — een geordende pijplijn van bewerkingen in plaats van eenvoudige formaatconversie — of als u gewoon de overige opties wilt evalueren, is het de moeite waard om uw opties te kennen.</p>
 
-<p>Niet elke converter past bij elke workflow. Het juiste hulpmiddel hangt ervan af of u meer op videocodering, batchverwerking van afbeeldingen of audio-export bent gericht.</p>
+<p>Niet elke converter past in elke workflow. Het juiste hulpmiddel hangt af van of u meer gericht bent op videotranscodering, batchafbeeldingsverwerking of audioexport.</p>
 
-<h2>Waarnaar u moet zoeken in een Permute-alternatief</h2>
+<h2>Waar moet naar worden gezocht in een Permute-alternatief</h2>
 
-<p>Elke serieuze vervanging moet dezelfde kernvakken aanvinken: native macOS-app (geen Electron), sleep-en-laat-vallen-batchconversie en ondersteuning voor video-, afbeeldings- en audioindelingen in één interface. Daarna helpen functies zoals een geordende pixelpijplijn, gelijktijdige batchverwerking en een voorinstellingensysteem bij het differentiëren van hulpmiddelen.</p>
+<p>Elke serieuze vervanger moet dezelfde kernvakken aanvinken: native macOS-app (geen Electron), sleep-en-loslaat-batchconversie en ondersteuning voor video-, afbeeldings- en audioformaten in één interface. Daarnaast worden kenmerken als een geordende pixelpijplijn, gelijktijdige batchverwerking en een voorinstellingensysteem onderscheidend.</p>
 
 <h2>Mediasmith als alternatief</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is een native Swift-app voor macOS die conversie organiseert in drie toegewijde wachtrijen — video, afbeeldingen en audio — in één venster. Het is gemaakt voor mensen die meer nodig hebben dan indeling-in, indeling-uit.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is een native Swift-app voor macOS die conversie organiseert in drie speciale wachtrijen — video, afbeeldingen en audio — in één venster. Het is gebouwd voor mensen die meer dan alleen formaat-in, formaat-uit nodig hebben.</p>
 
 <a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Mediasmith als Permute-alternatief voor Mac-mediaconversie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Geordende pixelpijplijn</h3>
-<p>Het opvallende verschil is de pixelpijplijn voor afbeeldingen. In plaats van alleen indelingen om te zetten, bouwt u een reeks bewerkingen — vergroten/verkleinen, bijsnijden, watermerk — die in volgorde worden uitgevoerd. De volgorde is belangrijk: vergroten/verkleinen voordat u bijsnijdt, levert andere resultaten op dan eerst bijsnijden. U bepaalt de volgorde.</p>
+<p>Het onderscheidende verschil is de pixelpijplijn voor afbeeldingen. In plaats van alleen formaten om te zetten, bouwt u een reeks bewerkingen — vergroten/verkleinen, bijsnijden, watermerk — die in volgorde worden uitgevoerd. De volgorde is belangrijk: vergroten/verkleinen vóór bijsnijden geeft ander resultaten dan eerst bijsnijden. U beheert de volgorde.</p>
 
 <h3>MP3 via gebundelde LAME</h3>
-<p>Audio-omzetting omvat MP3-export via een gebundelde LAME-encoder. Geen behoefte om Homebrew te installeren of codec-pakketten te zoeken. Het werkt meteen.</p>
+<p>Audioconversie omvat MP3-export via een gebundelde LAME-encoder. U hoeft Homebrew niet te installeren of codec-pakketten op te sporen. Het werkt direct uit de doos.</p>
 
 <h3>Batchgelijktijdigheid</h3>
-<p>Grote batches worden verwerkt met configureerbare gelijktijdigheid. Op een Apple Silicon Mac betekent dit dat honderden afbeeldingen in de achtergrond worden geconverteerd zonder de rest van uw systeem vast te zetten.</p>
+<p>Grote batches worden verwerkt met configureerbare gelijktijdigheid. Op een Apple Silicon Mac betekent dit dat honderden afbeeldingen op de achtergrond worden geconverteerd zonder de rest van uw systeem vast te zetten.</p>
 
 <h3>Voorinstellingen</h3>
-<p>Sla uw meest gebruikte indeling- en pijplijncombinaties op als voorinstellingen. Veelvoorkomende taken zoals "web-export: WebP, 1600px, watermerk" worden eenklik-bewerkingen.</p>
+<p>Sla uw meest gebruikte formaat- en pijplijncombo's op als voorinstellingen. Veelvoorkomende taken zoals "webexport: WebP, 1600px, watermerked" worden één-kliktaken.</p>
 
-<p>Als Permute alles aankan wat u nodig hebt, is er geen reden om over te schakelen. Maar als u diepere beeldverwerking of een ander werkstroom-model wilt, is Mediasmith het waard om te proberen.</p>
+<p>Als Permute alles wat u nodig hebt behandelt, is er geen reden om over te stappen. Maar als u diepere afbeeldingsverwerking of een ander workflowmodel hebt willen proberen, is Mediasmith het bekijken waard.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith downloaden van de Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "heic-to-jpg-batch-mac": {
     slug: "heic-to-jpg-batch-mac",
-    title: "How to Convert HEIC to JPG in Batch on Mac",
-    description: "Hundreds of HEIC photos from your iPhone that nothing outside Apple's ecosystem can open. Batch-converting them to JPG should be simple.",
+    title: "Hoe u HEIC in batches naar JPG converteert op Mac",
+    description: "Honderden HEIC-foto's van uw iPhone die niets buiten Apples ecosysteem kan openen. Het in batches converteren naar JPG zou eenvoudig moeten zijn.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Every iPhone photo taken since iOS 11 defaults to HEIC. The format is excellent — half the file size of JPEG at comparable quality. The problem arrives when you need to share those photos with anyone outside the Apple ecosystem. Your WordPress site won't accept HEIC uploads. Your print shop wants JPEG. Your client on Windows 10 can't even open the files.</p>
+<p>Elke iPhonefoto die sinds iOS 11 is gemaakt, is standaard HEIC. Het formaat is uitstekend — half de bestandsgrootte van JPEG bij vergelijkbare kwaliteit. Het probleem komt wanneer u deze foto's met iemand buiten Apples ecosysteem moet delen. Uw WordPress-site accepteert geen HEIC-uploads. Uw drukkerij wil JPEG. Uw client op Windows 10 kan de bestanden niet eens openen.</p>
 
-<p>Converting one HEIC to JPG in Preview takes about ten seconds. Converting 300 from a wedding shoot takes the rest of your evening.</p>
+<p>Het converteren van één HEIC naar JPG in Preview duurt ongeveer tien seconden. Het converteren van 300 van een bruiloftsfoto duurt de rest van uw avond.</p>
 
-<h2>Built-in Options on macOS</h2>
+<h2>Ingebouwde opties op macOS</h2>
 
-<p>Finder's Quick Actions can convert selected images to JPEG. Select your files, right-click, Quick Actions, Convert Image. It works, but you get no quality control — the output quality is fixed and there's no way to resize or apply other adjustments during conversion. Preview can export individual files, but there's no batch export. The <code>sips</code> command handles HEIC-to-JPEG but requires terminal comfort and offers no pipeline options.</p>
+<p>Finder's Quick Actions kunnen geselecteerde afbeeldingen naar JPEG converteren. Selecteer uw bestanden, klik met rechtermuisknop, Quick Actions, Afbeelding converteren. Het werkt, maar u krijgt geen kwaliteitscontrole — de uitvoerkwaliteit is vast en er is geen manier om grootte te wijzigen of andere aanpassingen tijdens conversie toe te passen. Preview kan individuele bestanden exporteren, maar er is geen batchexport. De <code>sips</code> opdracht behandelt HEIC-naar-JPEG, maar vereist terminalcomfort en biedt geen pijplijnopties.</p>
 
-<h2>Batch HEIC to JPG With Full Control</h2>
+<h2>Batch HEIC naar JPG met volledige controle</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> converts HEIC to JPG in batch with a pixel pipeline that gives you control over the output. Drag your HEIC files onto the image queue, set JPEG as the output format, adjust the quality slider, and convert.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> converteert HEIC naar JPG in batches met een pixelpijplijn die u controle over de uitvoer geeft. Sleep uw HEIC-bestanden op de afbeeldingswachtrij, stel JPEG in als uitvoerformaat, pas de kwaliteitschuifregelaar aan en converteer.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch HEIC to JPG conversion on Mac with quality control" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch HEIC naar JPG-conversie op Mac met kwaliteitscontrole" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Add Operations While You're At It</h3>
-<p>Since you're already converting, you can chain additional operations in the pixel pipeline. Resize all photos to a maximum width for web use. Crop to a consistent aspect ratio. Add a watermark for portfolio images. The pipeline runs in order, so resize-then-watermark and watermark-then-resize give you intentionally different results.</p>
+<h3>Voeg bewerkingen toe terwijl u bezig bent</h3>
+<p>Omdat u al converteert, kunt u aanvullende bewerkingen in de pixelpijplijn koppelen. Zet alle foto's op een maximale breedte voor webgebruik. Bijsnijden tot een consistent beeldverhouding. Voeg een watermerk voor portfoliofoto's toe. De pijplijn wordt in volgorde uitgevoerd, dus vergroten/verkleinen-dan-watermerk en watermerk-dan-vergroten/verkleinen geven u opzettelijk verschillende resultaten.</p>
 
-<h3>Preserve or Flatten Metadata</h3>
-<p>HEIC files carry EXIF data — camera settings, GPS coordinates, timestamps. Depending on your use case, you may want to keep that metadata for archival or strip it for privacy before sharing online.</p>
+<h3>Metagegevens behouden of afvlakken</h3>
+<p>HEIC-bestanden bevatten EXIF-gegevens — camerainstellingen, GPS-coördinaten, timestamps. Afhankelijk van uw use case wilt u die metagegevens misschien voor archivering behouden of verwijderen om privacy te beschermen voordat u online deelt.</p>
 
-<h3>Save the Workflow</h3>
-<p>If HEIC-to-JPG is a regular task — monthly photo dumps from your phone, client deliveries — save the format and pipeline as a preset. Next batch, one click.</p>
+<h3>Sla de workflow op</h3>
+<p>Als HEIC-naar-JPG een regelmatige taak is — maandelijkse foto-dumps van uw telefoon, clientlevering — sla het formaat en de pijplijn op als voorinstelling. Volgende batch, één klik.</p>
 
-<p>HEIC is a great format for storage. JPEG is still the universal format for sharing. Converting between them in bulk shouldn't require a terminal or a cloud upload.</p>
+<p>HEIC is een geweldig formaat voor opslag. JPEG is nog steeds het universele formaat voor delen. Het converteren ervan in bulk zou geen terminal of cloud-upload moeten vereisen.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "video-converter-mac-native": {
     slug: "video-converter-mac-native",
-    title: "Native Video Converter for Mac — No Electron",
-    description: "Electron-based converters eat RAM and spin your fans. A native macOS video converter uses hardware acceleration and stays light.",
+    title: "Native videoconverter voor Mac — geen Electron",
+    description: "Electron-gebaseerde converters eten RAM op en doen uw fans draaien. Een native macOS-videoconverter gebruikt hardwareversnelling en blijft licht.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You download a video converter, drag in a 4K file, and your MacBook's fans spin up like a jet engine. Activity Monitor shows the app consuming 800 MB of RAM — for a format converter. The culprit is almost always Electron: a full Chromium browser running behind a converter's UI. The app looks polished, but it's burning resources on rendering a web page instead of transcoding your video.</p>
+<p>U downloadt een videoconverter, sleept een 4K-bestand erin en de fans van uw MacBook draaien als een straaljager. Activity Monitor toont dat de app 800 MB RAM verbruikt — voor een formaatconverter. De schuldige is bijna altijd Electron: een volledige Chromium-browser die achter de UI van een converter wordt uitgevoerd. De app ziet er gepolijst uit, maar het verbruikt resources voor het renderen van een webpagina in plaats van uw video te transcoderen.</p>
 
-<p>On a machine built for media work, the converter itself shouldn't be the performance bottleneck.</p>
+<p>Op een machine die voor mediawerk is gebouwd, zou de converter zelf niet het prestatieknelpunt moeten zijn.</p>
 
-<h2>Why Native Matters for Video</h2>
+<h2>Waarom native belangrijk is voor video</h2>
 
-<p>macOS includes hardware-accelerated video encoding and decoding through VideoToolbox. Apple Silicon chips have dedicated media engines that can transcode H.264 and H.265 at a fraction of the power consumption of software encoding. But a converter only benefits from these if it's built with native frameworks. Electron apps typically shell out to ffmpeg running in software mode, bypassing the hardware entirely.</p>
+<p>macOS bevat hardwareversnelde video-codering en -decodering via VideoToolbox. Apple Silicon-chips hebben speciale media-engines die H.264 en H.265 kunnen transcoderen voor een fractie van het stroomverbruik van softwarecodering. Maar een converter profiteert hier alleen van als deze met native frameworks is gebouwd. Electron-apps geven meestal ffmpeg in softwaremodus uit, waarbij de hardware volledig wordt omzeild.</p>
 
-<p>The difference is measurable: a 10-minute 4K clip that takes 3 minutes in a native app can take 12 minutes in an Electron wrapper, while consuming more battery and more RAM.</p>
+<p>Het verschil is meetbaar: een 10 minuten durende 4K-clip die 3 minuten in een native app duurt, kan 12 minuten in een Electron-wrapper duren, terwijl meer batterij en meer RAM worden gebruikt.</p>
 
-<h2>A Converter That Uses the Hardware You Paid For</h2>
+<h2>Een converter die de hardware gebruikt waarvoor u hebt betaald</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is built in Swift with native macOS frameworks. Video transcoding uses hardware acceleration on Apple Silicon automatically. The app sits in a single window with three queues — video, images, and audio — and its memory footprint stays small because there's no embedded browser.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is gebouwd in Swift met native macOS-frameworks. Videotranscodering gebruikt automatisch hardwareversnelling op Apple Silicon. De app zit in één venster met drie wachtrijen — video, afbeeldingen en audio — en de geheugenvoetafdruk blijft klein omdat er geen ingebouwde browser is.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Native macOS video converter with hardware-accelerated encoding" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Native macOS-videoconverter met hardwareversnelde codering" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Format Support</h3>
-<p>Convert between MOV, MP4, AVI, MKV, and WebM. For most workflows, converting a screen recording from MOV to MP4 for sharing, or transcoding client footage to a deliverable format, is drag-drop-done.</p>
+<h3>Formaatondersteuning</h3>
+<p>Zet om tussen MOV, MP4, AVI, MKV en WebM. Voor de meeste workflows is het converteren van een schermopname van MOV naar MP4 voor delen of het transcoderen van clientbeelden naar een leveringsformaat sleep-drop-klaar.</p>
 
-<h3>Runs Alongside Your Other Tools</h3>
-<p>Because the app is lightweight, you can run a batch conversion in the background while editing in Final Cut Pro or Premiere without the converter competing for resources. On a MacBook, that also means less heat and longer battery life.</p>
+<h3>Loopt naast uw andere tools</h3>
+<p>Omdat de app licht is, kunt u batchconversie op de achtergrond uitvoeren terwijl u bewerkt in Final Cut Pro of Premiere zonder dat de converter om resources concurreert. Op een MacBook betekent dit ook minder warmte en een langere batterijduur.</p>
 
-<p>If your current converter makes your Mac sound like it's rendering a feature film when it's just changing a container format, a native app is the fix.</p>
+<p>Als uw huidige converter uw Mac laat klinken als zou het een speelfilm renderen wanneer deze gewoon een containerformaat wijzigt, is een native app de oplossing.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-webp-to-png-mac": {
     slug: "convert-webp-to-png-mac",
-    title: "How to Convert WebP to PNG on Mac in Bulk",
-    description: "Downloaded a folder of WebP images and nothing opens them properly. Bulk-converting to PNG on macOS without a web uploader.",
+    title: "Hoe u WebP in bulk naar PNG converteert op Mac",
+    description: "Een map WebP-afbeeldingen gedownload en niets opent deze correct. Bulkconversie naar PNG op macOS zonder webuploader.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You saved a dozen images from a website and every single one is a .webp file. Preview opens them, but half your other apps don't — older versions of Photoshop, Keynote templates, email clients, and most print services still expect JPEG or PNG. If you're working with downloaded assets, product images from a competitor audit, or reference boards scraped from the web, WebP-to-PNG conversion is a weekly chore.</p>
+<p>U hebt een tiental afbeeldingen van een website opgeslagen en elke één ervan is een .webp-bestand. Preview opent ze, maar de helft van uw andere apps niet — oudere versies van Photoshop, Keynote-sjablonen, e-mailclients en de meeste drukkerijen verwachten nog steeds JPEG of PNG. Als u met gedownloade assets werkt, productafbeeldingen van een concurrentenaudit of referentieplanken die van het web zijn gekrabd, is WebP-naar-PNG-conversie een wekelijks karwei.</p>
 
-<p>Doing it one file at a time in Preview works until you have fifty files. Then it doesn't.</p>
+<p>Het bestand voor bestand in Preview doen werkt totdat u vijftig bestanden hebt. Dan niet meer.</p>
 
-<h2>macOS and WebP: Almost There</h2>
+<h2>macOS en WebP: Bijna klaar</h2>
 
-<p>Since macOS Ventura, Preview can open and display WebP files. But Finder's Quick Actions — the fastest built-in batch tool — offers HEIC, JPEG, and PNG as output formats while only accepting those same formats as input. WebP files are silently ignored. The <code>sips</code> command-line tool doesn't support WebP at all. So macOS can show you WebP images but won't batch-convert them without third-party help.</p>
+<p>Sinds macOS Ventura kan Preview WebP-bestanden openen en weergeven. Maar Finder's Quick Actions — het snelste ingebouwde batchtool — biedt HEIC, JPEG en PNG als uitvoerformaten en accepteert alleen dezelfde formaten als invoer. WebP-bestanden worden stilzwijgend genegeerd. Het <code>sips</code> opdrachtregelhulpmiddel ondersteunt WebP helemaal niet. Dus macOS kan u WebP-afbeeldingen tonen, maar zal ze niet in bulk converteren zonder hulp van derden.</p>
 
-<h2>Bulk WebP to PNG in a Native App</h2>
+<h2>Bulk WebP naar PNG in een native app</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> handles WebP as both an input and output format. Drag a folder of WebP files onto the image queue, select PNG as the output, and convert. The batch processes with configurable concurrency, so even hundreds of files finish quickly.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> behandelt WebP als invoer- en uitvoerformaat. Sleep een map WebP-bestanden op de afbeeldingswachtrij, selecteer PNG als uitvoer en converteer. De batch wordt verwerkt met configureerbare gelijktijdigheid, dus zelfs honderden bestanden worden snel voltooid.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Bulk WebP to PNG conversion on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Bulk WebP naar PNG-conversie op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Going the Other Direction</h3>
-<p>WebP is also a useful output format. If you're preparing images for a website, converting PNG or JPEG to WebP can cut file sizes by 25–35% with minimal visual loss. The same queue works both ways — PNG to WebP for web optimization, WebP to PNG for compatibility.</p>
+<h3>De andere richting</h3>
+<p>WebP is ook een nuttig uitvoerformaat. Als u afbeeldingen voor een website voorbereidt, kan het converteren van PNG of JPEG naar WebP de bestandsgrootte met 25–35% verkleinen met minimaal visueel verlies. Dezelfde wachtrij werkt beide kanten op — PNG naar WebP voor weboptimalisatie, WebP naar PNG voor compatibiliteit.</p>
 
-<h3>Add Processing Steps</h3>
-<p>While converting, you can add pipeline operations. Resize images to a consistent width for your design system. Crop to a standard aspect ratio. The pixel pipeline applies each operation in sequence before saving the final PNG.</p>
+<h3>Voeg verwerkingsstappen toe</h3>
+<p>Tijdens het converteren kunt u pijplijnbewerkingen toevoegen. Zet afbeeldingen op een consistente breedte voor uw designsysteem. Bijsnijden tot een standaardbeeldverhouding. De pixelpijplijn past elke bewerking in volgorde toe voordat u de definitieve PNG opslaat.</p>
 
-<h3>No Upload Required</h3>
-<p>Online WebP converters exist, but they require uploading your files to a third-party server. For client work, internal assets, or anything remotely sensitive, that's a non-starter. A local app converts everything on your machine.</p>
+<h3>Geen upload vereist</h3>
+<p>Online WebP-converters bestaan, maar vereisen dat u uw bestanden naar een server van derden uploadt. Voor clientwerk, interne assets of alles wat enigszins gevoelig is, is dat een no-go. Een lokale app converteert alles op uw machine.</p>
 
-<p>WebP is the web's format. PNG is everyone else's. Converting between them in bulk should be drag-and-drop, not a research project.</p>
+<p>WebP is het formaat van het web. PNG is van iedereen anders. Het converteren ervan in bulk zou sleep-en-loslaat moeten zijn, niet een onderzoeksproject.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "resize-images-batch-mac": {
     slug: "resize-images-batch-mac",
-    title: "How to Resize Images in Batch on Mac",
-    description: "Resizing photos one by one in Preview is a time sink. Batch resizing hundreds of images to exact dimensions on macOS without Photoshop.",
+    title: "Hoe u afbeeldingen in batches op Mac vergroten/verkleint",
+    description: "Foto's één voor één in Preview vergroten/verkleinen is tijdverspilling. Honderden afbeeldingen naar exacte afmetingen in batches op macOS zonder Photoshop vergroten/verkleinen.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>Your e-commerce site needs product images at exactly 1200×1200 pixels. Your blog template breaks if hero images are wider than 1600px. Your client's brand guidelines spec a maximum file dimension for social media assets. You have 400 images at camera resolution, and each one needs to be resized before upload.</p>
+<p>Uw e-commercesite heeft productafbeeldingen nodig op exact 1200×1200 pixels. Uw blogsjabloon breekt als heldenafbeeldingen breder zijn dan 1600px. De merkrichtlijnen van uw client geven een maximumafmetingen voor sociale media-assets aan. U hebt 400 afbeeldingen op camerabereikpixels en elk moet worden vergroot/verkleind vóór upload.</p>
 
-<p>Preview on macOS can resize images — one at a time, with a dialog box, then File > Export. For a handful of files, it's fine. For hundreds, it's unpaid labor.</p>
+<p>Preview op macOS kan afbeeldingen vergroten/verkleinen — één voor één, met een dialoogvenster, dan Bestand > Exporteren. Voor een handvol bestanden is het prima. Voor honderden is het onbetaald werk.</p>
 
-<h2>Built-in Batch Resize Options</h2>
+<h2>Ingebouwde batchvergroot/verkleiningopties</h2>
 
-<p>macOS doesn't ship a dedicated batch resizer. Finder's Quick Actions can convert formats but don't offer resize controls. Automator (or Shortcuts) can be configured to resize images, but building a reliable workflow means learning the Automator interface, handling edge cases like portrait vs. landscape orientation, and hoping the workflow doesn't silently fail on unusual formats. The <code>sips</code> CLI can resize in a loop, but a shell script isn't a workflow you can hand to a colleague.</p>
+<p>macOS levert geen speciaal batchvergroot/verkleiningsprogramma. Finder's Quick Actions kunnen formaten converteren, maar bieden geen besturingselementen voor vergroten/verkleinen. Automator (of Shortcuts) kan worden geconfigureerd voor vergroten/verkleinen, maar het bouwen van een betrouwbare workflow betekent het leren van de Automator-interface, het afhandelen van randgevallen als staand of liggend schermformaat en hopen dat de workflow niet stilzwijgend faalt op ongebruikelijke formaten. De <code>sips</code> CLI kan in een lus vergroten/verkleinen, maar een shellscript is geen workflow die u aan een collega kunt geven.</p>
 
-<h2>Batch Resize With an Ordered Pipeline</h2>
+<h2>Batch vergroten/verkleinen met een geordende pijplijn</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> handles batch resizing as part of its pixel pipeline. Drag images onto the image queue, add a resize operation, set your target dimensions or maximum width, and process the batch. The app resizes every image in the queue with configurable concurrency.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> verwerkt batchvergroot/verkleining als onderdeel van de pixelpijplijn. Sleep afbeeldingen op de afbeeldingswachtrij, voeg een vergroten/verkleiningbewerking toe, stel uw doelafmetingen of maximale breedte in en verwerk de batch. De app vergroot/verkleint elke afbeelding in de wachtrij met configureerbare gelijktijdigheid.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch image resizing on Mac with pixel pipeline" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchafbeeldingenvergroting/verkleining op Mac met pixelpijplijn" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Chain Operations</h3>
-<p>Resizing is often just the first step. The pixel pipeline lets you chain operations in sequence: resize to 1200px wide, then crop to square, then add a watermark. Each operation executes in the order you set, so you get predictable, repeatable results across the entire batch.</p>
+<h3>Koppel bewerkingen</h3>
+<p>Vergroten/verkleinen is vaak slechts de eerste stap. De pixelpijplijn laat u bewerkingen in volgorde koppelen: tot 1200px breed vergroten/verkleinen, dan bijsnijden tot vierkant, dan watermerk toevoegen. Elke bewerking wordt uitgevoerd op het resultaat van de vorige, dus u krijgt voorspelbare, herhaalbare resultaten in de hele batch.</p>
 
-<h3>Format Conversion Included</h3>
-<p>If you're resizing for web use, you probably also want to convert from TIFF or PNG to JPEG or WebP. The output format is set alongside the pipeline, so resizing and format conversion happen in a single pass — no need to run the batch through a second tool.</p>
+<h3>Formaatconversie inbegrepen</h3>
+<p>Als u voor webgebruik vergroot/verkleint, wilt u waarschijnlijk ook converteren van TIFF of PNG naar JPEG of WebP. Het uitvoerformaat wordt samen met de pijplijn ingesteld, dus vergroten/verkleinen en formaatconversie gebeuren in één keer — u hoeft de batch niet door een tweede tool te halen.</p>
 
-<h3>Presets for Recurring Jobs</h3>
-<p>If you regularly resize to the same specs — "Instagram: 1080×1080, JPEG, 90% quality" or "web hero: 1600px wide, WebP" — save the pipeline as a preset. Next time, drag, select the preset, and convert. The entire specification is saved, not just the format.</p>
+<h3>Voorinstellingen voor terugkerende taken</h3>
+<p>Als u regelmatig tot dezelfde specificaties vergroot/verkleint — "Instagram: 1080×1080, JPEG, 90% kwaliteit" of "webheld: 1600px breed, WebP" — sla de pijplijn op als voorinstelling. De volgende keer sleept u, selecteert u de voorinstelling en converteert u. De volledige specificatie wordt opgeslagen, niet alleen het formaat.</p>
 
-<p>Batch resizing is one of those tasks that feels like it should be built into the OS. Until Apple agrees, a dedicated tool with a proper pipeline is the fastest path from camera resolution to upload-ready.</p>
+<p>Batchvergroot/verkleining is een van die taken die lijkt of het in het besturingssysteem zou moeten zijn ingebouwd. Totdat Apple ermee instemt, is een speciaal hulpmiddel met een juiste pijplijn het snelste pad van camerabereikpixels naar uploadklaar.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-mov-to-mp4-mac": {
     slug: "convert-mov-to-mp4-mac",
-    title: "How to Convert MOV to MP4 on Mac",
-    description: "Screen recordings and iPhone videos save as MOV. Most platforms want MP4. Converting without re-encoding or quality loss on macOS.",
+    title: "Hoe u MOV naar MP4 op Mac converteert",
+    description: "Schermopnames en iPhoneVideo's worden opgeslagen als MOV. De meeste platforms willen MP4. Converteren zonder opnieuw coderen of kwaliteitsverlies op macOS.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You recorded a screen capture for a tutorial, and macOS saved it as a .mov file. You drag it into your CMS, and the upload fails — MP4 only. You try to attach it to an email or upload it to a client portal, and same thing. MOV is Apple's default container, but MP4 is what the rest of the world expects.</p>
+<p>U hebt een schermopname voor een zelfstudie opgenomen en macOS heeft deze als .mov-bestand opgeslagen. U sleept het naar uw CMS en de upload mislukt — alleen MP4. U probeert het aan een e-mail toe te voegen of naar een clientportal te uploaden en hetzelfde. MOV is de standaardcontainer van Apple, maar MP4 is wat de rest van de wereld verwacht.</p>
 
-<p>This is the single most common video conversion on macOS, and the OS itself doesn't offer a clean one-click way to do it.</p>
+<p>Dit is de meest voorkomende videoconversie op macOS en het besturingssysteem zelf biedt geen schone manier om dit met één klik te doen.</p>
 
-<h2>Your Options Without Third-Party Software</h2>
+<h2>Uw opties zonder software van derden</h2>
 
-<p>iMovie can export as MP4, but importing a screen recording into iMovie just to re-export it is absurd overhead for a container change. QuickTime Player's File > Export As menu offers fixed resolution presets (1080p, 720p, 480p) but no option for "same resolution, just MP4." The <code>ffmpeg</code> command-line tool does this perfectly — <code>ffmpeg -i input.mov -c copy output.mp4</code> — but requires installation via Homebrew and comfort with the terminal.</p>
+<p>iMovie kan als MP4 exporteren, maar het importeren van een schermopname in iMovie gewoon om deze opnieuw te exporteren is absurde overhead voor een containerwijziging. QuickTime Player's Bestand > Exporteren als menu biedt vaste resolutievoorinstellingen (1080p, 720p, 480p), maar geen optie voor "dezelfde resolutie, gewoon MP4". Het <code>ffmpeg</code> opdrachtregelhulpmiddel doet dit perfect — <code>ffmpeg -i input.mov -c copy output.mp4</code> — maar vereist installatie via Homebrew en terminalcomfort.</p>
 
-<p>There's a gap between "open iMovie" and "install Homebrew" that should be filled by a simple converter.</p>
+<p>Er is een gat tussen "open iMovie" en "installeer Homebrew" dat door een eenvoudige converter zou moeten worden gevuld.</p>
 
-<h2>MOV to MP4 in a Native Converter</h2>
+<h2>MOV naar MP4 in een native converter</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> handles this conversion with drag and drop. Drop the MOV file onto the video queue, select MP4 as the output format, and convert. On Apple Silicon, hardware-accelerated encoding means even long videos finish fast with minimal battery impact.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> verwerkt deze conversie met slepen en loslaten. Drop het MOV-bestand op de videowachtrij, selecteer MP4 als uitvoerformaat en converteer. Op Apple Silicon betekent hardwareversnelde codering dat zelfs lange video's snel worden voltooid met minimale batterijgevolgen.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="MOV to MP4 conversion on Mac with hardware acceleration" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="MOV naar MP4-conversie op Mac met hardwareversnelling" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Batch MOV Conversion</h3>
-<p>If you have a folder of screen recordings, iPhone videos, or camera footage — all MOV — drop them all at once. The batch processes concurrently, so you're not waiting for each file to finish before the next starts.</p>
+<h3>Batch MOV-conversie</h3>
+<p>Als u een map schermopnames, iPhoneVideo's of camerafoto's hebt — allemaal MOV — drop ze allemaal tegelijk. De batch wordt gelijktijdig verwerkt, dus u wacht niet tot elk bestand klaar is voordat het volgende begint.</p>
 
-<h3>Beyond Video</h3>
-<p>The same app also handles images and audio in separate queues. If your workflow involves converting screen recordings (MOV to MP4), optimizing screenshots (PNG to WebP), and exporting audio clips (WAV to MP3), all three happen in one window without switching tools.</p>
+<h3>Verder dan video</h3>
+<p>Dezelfde app behandelt ook afbeeldingen en audio in afzonderlijke wachtrijen. Als uw workflow schermopnames converteren (MOV naar MP4), schermafbeeldingen optimaliseren (PNG naar WebP) en audiobesnoeiingen exporteren (WAV naar MP3) omvat, gebeuren alle drie in één venster zonder tools om te schakelen.</p>
 
-<p>MOV to MP4 is a two-second task that macOS makes surprisingly difficult. A native converter puts it back where it belongs — drag, drop, done.</p>
+<p>MOV naar MP4 is een taak van twee seconden die macOS verrassend moeilijk maakt. Een native converter zet het terug waar het hoort — slepen, loslaten, klaar.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "add-watermark-batch-images-mac": {
     slug: "add-watermark-batch-images-mac",
-    title: "How to Add a Watermark to Images in Batch on Mac",
-    description: "Stamping a logo on hundreds of photos one at a time is brutal. Batch watermarking on macOS with position and pipeline control.",
+    title: "Hoe u watermerken in batches op afbeeldingen toevoegt op Mac",
+    description: "Het stempel zetten van een logo op honderden foto's één voor één is verschrikkelijk. Watermerkering in batches op macOS met positie- en pijplijncontrole.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You shot a client preview gallery — 150 photos — and need to watermark every one before sending proofs. Or you're uploading portfolio work to a public site and want your logo on each image. Manually opening each photo in an editor, placing the watermark, adjusting the position, and exporting takes longer than the shoot itself.</p>
+<p>U hebt een clientvoorbeeldgalerie opgenomen — 150 foto's — en moet elk foto watermerk voordat u proeven verstuurt. Of u uploadt portefeuillewerk naar een openbare site en u wilt uw logo op elke afbeelding. Het handmatig openen van elke foto in een editor, het plaatsen van het watermerk, het aanpassen van de positie en het exporteren duurt langer dan de opname zelf.</p>
 
-<p>Watermarking is inherently a batch operation. No one watermarks a single image. Yet most tools on macOS treat it as a per-file task.</p>
+<p>Watermerkering is inherent een batchbewerking. Niemand watermerkt één afbeelding. Toch behandelen de meeste hulpmiddelen op macOS het als een taak per bestand.</p>
 
-<h2>macOS Has No Built-in Watermarking</h2>
+<h2>macOS heeft geen ingebouwde watermerkering</h2>
 
-<p>Preview, Quick Actions, and Finder offer zero watermarking support. Automator has a "Watermark PDF Documents" action — for PDFs only, not images. Shortcuts can overlay images, but building a reliable shortcut that handles different image sizes, positions the watermark consistently, and outputs to the right format is a multi-hour project. Most photographers end up using Lightroom's export watermark feature, which is fine if you're already in Lightroom — but overkill if you just need a logo stamp.</p>
+<p>Preview, Quick Actions en Finder bieden nul watermerkingsondersteuning. Automator heeft een actie "Watermerk PDF-documenten" — alleen voor PDF's, niet voor afbeeldingen. Shortcuts kan afbeeldingen bedekken, maar het bouwen van een betrouwbare shortcut die verschillende afbeeldingsgroottes afhandelt, het watermerk consistent positioneert en naar het juiste formaat uitvoert, is een project van meerdere uren. De meeste fotografen eindigen met het gebruik van de watermerkverfunctie van Lightroom bij export, wat prima is als u al in Lightroom bent — maar overkill als u gewoon een logostempel nodig hebt.</p>
 
-<h2>Batch Watermarking in a Pixel Pipeline</h2>
+<h2>Batagemerk in een pixelpijplijn</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> includes watermarking as a pipeline operation for image batches. Add a watermark step to the pixel pipeline, select your logo file, set the position and opacity, and every image in the queue gets the same treatment.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> omvat watermerkering als een pijplijnbewerking voor afbeeldingsbatches. Voeg een watermeringstap toe aan de pixelpijplijn, selecteer uw logobestand, stel de positie en dekking in en elke afbeelding in de wachtrij krijgt dezelfde behandeling.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch watermarking images on Mac with pipeline operations" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchafbeeldingenwater markering op Mac met pijplijnbewerkingen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Order Matters</h3>
-<p>The pixel pipeline executes operations in sequence, and the order changes the result. If you resize images before watermarking, the watermark renders at a consistent visual size relative to the output. If you watermark first and then resize, the watermark scales with the image. Both are valid — the pipeline lets you control which behavior you want.</p>
+<h3>Volgorde telt</h3>
+<p>De pixelpijplijn voert bewerkingen in volgorde uit en de volgorde verandert het resultaat. Als u afbeeldingen vergroten/verkleint voordat u watermerkt, wordt het watermerk op een consistente visuele grootte ten opzichte van de uitvoer weergegeven. Als u eerst watermerkt en vervolgens vergroot/verkleint, wordt het watermerk met de afbeelding geschaald. Beide zijn geldig — de pijplijn laat u controleren welk gedrag u wilt.</p>
 
-<h3>Combine With Other Operations</h3>
-<p>Watermarking rarely happens in isolation. A typical proof-gallery pipeline might be: resize to 1600px wide (so proofs aren't full-resolution), crop to 3:2, then watermark. All three operations run in one pass across the entire batch.</p>
+<h3>Combineer met andere bewerkingen</h3>
+<p>Watermerkering gebeurt zelden in isolatie. Een typische voorbeeldgaleriepijplijn kan zijn: vergroten/verkleinen tot 1600px breed (zodat voorbeelden niet volledig resolutie zijn), bijsnijden tot 3:2, dan watermerk. Alle drie de bewerkingen worden in één keer in de hele batch uitgevoerd.</p>
 
-<h3>Save as a Preset</h3>
-<p>If you watermark proofs regularly, save the pipeline — format, resize dimensions, watermark file and position — as a preset. The next gallery is a drag-and-click job.</p>
+<h3>Opslaan als voorinstelling</h3>
+<p>Als u regelmatig voorbeelden watermerkt, slaat u de pijplijn op — formaat, afmetingen vergroten/verkleinen, watermarkbestand en positie — als voorinstelling. De volgende galerie is een sleep-en-kliktaak.</p>
 
-<p>Watermarking is tedious exactly once: when you set up the pipeline. After that, it's automatic.</p>
+<p>Watermerkering is precies eenmaal vervelend: wanneer u de pijplijn instelt. Daarna is het automatisch.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "handbrake-alternative-mac-images-too": {
     slug: "handbrake-alternative-mac-images-too",
-    title: "HandBrake Alternative for Mac That Also Does Images",
-    description: "HandBrake is great for video but doesn't touch images. A macOS converter that handles video, images, and audio in one tool.",
+    title: "HandBrake-alternatief voor Mac dat ook afbeeldingen doet",
+    description: "HandBrake is geweldig voor video, maar raakt afbeeldingen niet aan. Een macOS-converter die video, afbeeldingen en audio in één tool verwerkt.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>HandBrake is a solid, free, open-source video transcoder. If all you do is convert video files, it's hard to beat. But the moment your workflow includes images — resizing product photos, converting HEIC to JPEG, batch-watermarking a portfolio — HandBrake can't help. You end up running HandBrake for video and a separate tool for images, switching between two apps for what feels like one category of work: media conversion.</p>
+<p>HandBrake is een solide, gratis, open-source videotranscoder. Als u alleen videobestanden converteert, is het moeilijk om beter te doen. Maar zodra uw workflow afbeeldingen omvat — het vergroten/verkleinen van productfoto's, het converteren van HEIC naar JPEG, het batchwatermerken van een portfolio — kan HandBrake niet helpen. U eindigt met het uitvoeren van HandBrake voor video en een afzonderlijk hulpmiddel voor afbeeldingen, schakelen tussen twee apps voor wat als een werkgebied aanvoelt: mediaconversie.</p>
 
-<p>If your work touches multiple media types, consolidating into one tool removes friction.</p>
+<p>Als uw werk meerdere mediatypen aanraakt, wordt consolidatie in één tool wrijving verwijderd.</p>
 
-<h2>Where HandBrake Excels and Where It Stops</h2>
+<h2>Waar HandBrake uitblinkt en waar het stopt</h2>
 
-<p>HandBrake handles video transcoding with deep control: codec selection, bitrate targeting, filters, subtitles, chapter markers. For DVD rips and video archival, it's exceptional. But it has no image support, no audio-only conversion, and its interface — while powerful — has a learning curve that's steep for people who just want to convert MOV to MP4.</p>
+<p>HandBrake verwerkt videotranscodering met diepgaande controle: codecelectie, bitratesturing, filters, ondertitels, hoofstukmarkeringen. Voor DVD-rips en videoarchivering is het uitzonderlijk. Maar het heeft geen afbeeldingsondersteuning, geen audioconversie en de interface — hoewel krachtig — heeft een steile leercurve voor mensen die gewoon MOV naar MP4 willen converteren.</p>
 
-<p>If you need HandBrake's advanced video features (subtitle burn-in, decomb, specific encoder tuning), nothing replaces it. But if your video needs are simpler and you also process images and audio, a unified tool covers more ground.</p>
+<p>Als u geavanceerde videofuncties van HandBrake nodig hebt (ondertitelbranding, decomb, specifieke encoder-afstemming), vervangt niets het. Maar als uw videobehoeften eenvoudiger zijn en u verwerkt ook afbeeldingen en audio, dekt een geïntegreerd hulpmiddel meer grond.</p>
 
-<h2>Video, Images, and Audio in One Window</h2>
+<h2>Video, afbeeldingen en audio in één venster</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is a native macOS app with three queues — video, images, and audio — in a single window. It won't replace HandBrake for advanced video work, but it handles the common conversions (MOV to MP4, MKV to MP4) alongside image batch processing and audio export.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> is een native macOS-app met drie wachtrijen — video, afbeeldingen en audio — in één venster. Het zal HandBrake voor geavanceerd videowerk niet vervangen, maar het behandelt de veel voorkomende conversies (MOV naar MP4, MKV naar MP4) samen met batchafbeeldingsverwerking en audioexport.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="HandBrake alternative for Mac with image and audio conversion" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="HandBrake-alternatief voor Mac met afbeeldings- en audioconversie" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Image Pipeline That HandBrake Doesn't Have</h3>
-<p>The image queue includes an ordered pixel pipeline: resize, crop, watermark, and format conversion (HEIC, JPEG, PNG, WebP, TIFF). Operations chain in sequence, and batches process concurrently. This is the functionality you'd otherwise need Photoshop actions or a separate batch tool for.</p>
+<h3>Afbeeldingspijplijn die HandBrake niet heeft</h3>
+<p>De afbeeldingswachtrij bevat een geordende pixelpijplijn: vergroten/verkleinen, bijsnijden, watermerk en formaatconversie (HEIC, JPEG, PNG, WebP, TIFF). Bewerkingen worden in volgorde gekoppeld en batches worden gelijktijdig verwerkt. Dit is de functionaliteit die u anders Photoshop-acties of een afzonderlijk batchtool voor nodig zou hebben.</p>
 
-<h3>MP3 Export Built In</h3>
-<p>The audio queue converts between formats including MP3 via a bundled LAME encoder. If you're extracting audio from video or converting podcast recordings, it handles that without a separate tool or a Homebrew install.</p>
+<h3>MP3-export ingebouwd</h3>
+<p>De audiowachtrij converteert tussen formaten, inclusief MP3 via een gebundelde LAME-encoder. Als u audio uit video extraheert of podcastopnamen converteert, behandelt dit zonder afzonderlijke tool of Homebrew-installatie.</p>
 
-<h3>Native Performance</h3>
-<p>Built in Swift, the app uses hardware-accelerated encoding on Apple Silicon. For straightforward video conversions, this means fast transcodes with low power consumption — no fan noise for a simple format change.</p>
+<h3>Native prestaties</h3>
+<p>Gebouwd in Swift gebruikt de app hardwareversnelde codering op Apple Silicon. Voor eenvoudige videoconversies betekent dit snelle transcodes met laag stroomverbruik — geen ventilatorgeluid voor een eenvoudige formaatwijziging.</p>
 
-<p>HandBrake for deep video work; a unified converter for everything else. The two aren't mutually exclusive.</p>
+<p>HandBrake voor diep videowerk; een geïntegreerde converter voor alles anders. De twee sluiten elkaar niet uit.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "mp3-converter-mac": {
     slug: "mp3-converter-mac",
-    title: "MP3 Converter for Mac — Audio, Video, and Images in One App",
-    description: "Exporting MP3 on macOS usually means installing ffmpeg or a sketchy free app. A native converter with a bundled LAME encoder.",
+    title: "MP3-converter voor Mac — audio, video en afbeeldingen in één app",
+    description: "MP3 op macOS exporteren betekent meestal ffmpeg installeren of een verdachte gratis app. Een native converter met een gebundelde LAME-encoder.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>You have a WAV file from a voice recording and need an MP3 for your website. Or a podcast edit exported as AIFF that needs to be MP3 for distribution. Or a video file where you just need the audio track as MP3. On macOS, this simple task leads you down a rabbit hole of questionable free apps, browser-based converters that upload your audio to unknown servers, or installing Homebrew and ffmpeg just to run a single command.</p>
+<p>U hebt een WAV-bestand van een stemopname nodig als MP3 voor uw website. Of een podcastedit geëxporteerd als AIFF die MP3 voor distributie moet zijn. Of een videobestand waar u alleen de audiospoor als MP3 nodig hebt. Op macOS leidt deze eenvoudige taak u naar een konijnengat van twijfelachtige gratis apps, webbrowserconverters die uw audio naar onbekende servers uploaden, of het installeren van Homebrew en ffmpeg gewoon om één opdracht uit te voeren.</p>
 
-<p>MP3 is the most universal audio format on earth. Converting to it on a Mac shouldn't require a computer science degree.</p>
+<p>MP3 is het meest universele audioformaat op aarde. Het converteren naar Mac zou geen informaticagraad vereisen.</p>
 
-<h2>Why macOS Doesn't Export MP3 Natively</h2>
+<h2>Waarom macOS MP3 niet native exporteert</h2>
 
-<p>MP3 encoding requires the LAME library (or equivalent), and Apple doesn't bundle it. iTunes — now Music — can import CDs as MP3, but there's no general-purpose "convert this file to MP3" feature in the OS. GarageBand can export as MP3, but opening GarageBand to convert an audio file is like opening Final Cut to trim a video. QuickTime Player exports audio as M4A only. The gap exists because MP3 encoding is a licensed technology that Apple chose not to integrate into its conversion workflows.</p>
+<p>MP3-codering vereist de LAME-bibliotheek (of equivalent) en Apple bundelt deze niet. iTunes — nu Muziek — kan cd's als MP3 importeren, maar er is geen algemene "converteer dit bestand naar MP3" -functie in het besturingssysteem. GarageBand kan als MP3 exporteren, maar het openen van GarageBand om een audiobestand te converteren is als het openen van Final Cut om een video te bijsnijden. QuickTime Player exporteert audio alleen als M4A. Het gat bestaat omdat MP3-codering een gelicentieerde technologie is die Apple niet in zijn conversieworkflows koos te integreren.</p>
 
-<h2>MP3 Export With a Bundled Encoder</h2>
+<h2>MP3-export met een gebundelde encoder</h2>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> bundles the LAME MP3 encoder directly inside the app. No Homebrew, no terminal, no codec downloads. Drag an audio file onto the audio queue, select MP3 as the output format, and convert. The encoder is included — it works the moment you open the app.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> bundelt de LAME MP3-encoder rechtstreeks in de app. Geen Homebrew, geen terminal, geen codecdownloads. Sleep een audiobestand op de audiowachtrij, selecteer MP3 als het uitvoerformaat en converteer. De encoder is inbegrepen — deze werkt zodra u de app opent.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="MP3 converter for Mac with bundled LAME encoder" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="MP3-converter voor Mac met gebundelde LAME-encoder" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Not Just Audio</h3>
-<p>The same app handles video conversion (MOV to MP4, MKV to MP4) and image batch processing (resize, crop, watermark, format conversion) in separate queues. If your workflow spans media types — which most creative workflows do — one app covers all three without juggling tools.</p>
+<h3>Niet alleen audio</h3>
+<p>Dezelfde app verwerkt videoconversie (MOV naar MP4, MKV naar MP4) en batchafbeeldingsverwerking (vergroten/verkleinen, bijsnijden, watermerk, formaatconversie) in afzonderlijke wachtrijen. Als uw workflow mediatypen omvat — wat de meeste creatieve workflows doen — dekken één app alle drie zonder tools te jongleren.</p>
 
-<h3>Batch Audio Conversion</h3>
-<p>Need to convert a folder of WAV recordings to MP3? Drop them all at once. The batch processes with configurable concurrency, so even large collections of audio files convert quickly.</p>
+<h3>Batchaudioconversie</h3>
+<p>Moet u een map WAV-opnamen naar MP3 converteren? Drop ze allemaal tegelijk. De batch wordt verwerkt met configureerbare gelijktijdigheid, dus zelfs grote verzamelingen audiobestanden worden snel geconverteerd.</p>
 
-<h3>Local and Private</h3>
-<p>Every conversion happens on your machine. No files are uploaded anywhere. For client recordings, interview audio, or anything confidential, this matters more than convenience — it's a requirement.</p>
+<h3>Lokaal en privé</h3>
+<p>Elke conversie gebeurt op uw machine. Bestanden worden nergens geüpload. Voor clientopnamen, interviewaudio of alles wat enigszins vertrouwelijk is, telt dit meer dan gemak — het is een vereiste.</p>
 
-<p>MP3 conversion is a basic utility that macOS forgot to include. A native app with a bundled encoder fills the gap without the overhead.</p>
+<p>MP3-conversie is een basisnut dat macOS vergeten is op te nemen. Een native app met een gebundelde encoder vult het gat zonder overhead.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-png-to-jpg-batch-mac": {
     slug: "convert-png-to-jpg-batch-mac",
-    title: "How to Convert PNG to JPG in Batch on Mac",
-    description: "Screenshots and design exports pile up as PNGs fast. Here's how to turn a whole folder into JPGs on macOS without opening each file.",
+    title: "Hoe u PNG in batches naar JPG op Mac converteert",
+    description: "Schermafbeeldingen en exporteren uit ontwerp stapelen zich snel op als PNG's. Hier leest u hoe u een hele map in JPG's omzet op macOS zonder elk bestand te openen.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>PNG is a fine format for screenshots and graphics with transparency, but it's a poor default for photos and web images — files end up two to five times larger than an equivalent JPG for no visible quality gain. If you've got a folder of a hundred PNGs destined for a website, an email attachment, or a client deliverable, converting them one at a time in Preview is not a serious option.</p>
+<p>PNG is een prima formaat voor schermafbeeldingen en afbeeldingen met transparantie, maar het is een slechte standaard voor foto's en webafbeeldingen — bestanden eindigen twee tot vijf keer groter dan een gelijkwaardige JPG zonder zichtbaarkwaliteitsverlies. Als u een map met honderd PNG's hebt die voor een website, een e-mailbijlage of een clientlevering bedoeld zijn, is het converteren één voor één in Preview geen serieuze optie.</p>
 
-<h2>Why PNG Piles Up in the First Place</h2>
-<p>Screenshot tools default to PNG. Design software exports flattened images as PNG by default. Scanners and some cameras save PNG too. None of that is wrong — PNG is lossless and handles transparency — but it means PNGs accumulate in Downloads and Desktop folders even when JPG would serve the actual use case better.</p>
+<h2>Waarom PNG's zich in de eerste plaats stapelen</h2>
+<p>Schermafbeeldingshulpmiddelen worden standaard ingesteld op PNG. Ontwerpsoftware exporteert afgevlakte afbeeldingen standaard als PNG. Scanners en sommige camera's slaan ook PNG op. Niets van dit is fout — PNG is verliesvrij en behandelt transparantie — maar het betekent dat PNG's zich in mappen Downloads en Desktop even snel ophopen, zelfs als JPG het werkelijke gebruiksgeval beter zou bedienen.</p>
 
-<h2>The Manual Route and Why It Falls Apart</h2>
-<p>Preview can convert a single PNG to JPG through File > Export. Select multiple files in Finder, right-click, and you'll find a Quick Action for image conversion too — but it doesn't let you set JPG quality, and it silently keeps the same filenames, meaning you'd overwrite originals unless you're careful. For a handful of files that's tolerable. For a hundred, you want control over quality and a queue that runs unattended.</p>
+<h2>De handmatige route en waarom deze faalt</h2>
+<p>Preview kan een PNG naar JPG converteren via Bestand > Exporteren. Selecteer meerdere bestanden in Finder, klik met rechtermuisknop en u vindt ook een Quick Action voor afbeeldingsconversie — maar u kunt JPG-kwaliteit niet instellen en het behoudt stilzwijgend dezelfde bestandsnamen, wat betekent dat u originals zou overschrijven tenzij u voorzichtig bent. Voor een handvol bestanden is dat aanvaardbaar. Voor honderd wilt u controle over kwaliteit en een wachtrij die zonder toezicht wordt uitgevoerd.</p>
 
-<h2>Batch Convert With Quality Control</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> has a dedicated image queue built for exactly this. Drag a folder of PNGs in, choose JPG as the output format, set your compression quality, and convert the whole batch in one pass. Files process concurrently rather than one after another, so a hundred-image folder doesn't mean waiting a hundred times as long as a single file.</p>
+<h2>Batch converteren met kwaliteitscontrole</h2>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> heeft een speciale afbeeldingswachtrij gebouwd voor precies dit doel. Sleep een map PNG's in, kies JPG als het uitvoerformaat, stel uw compressiekwaliteit in en converteer de hele batch in één keer. Bestanden worden gelijktijdig verwerkt in plaats van één voor één, dus een map met honderd afbeeldingen betekent niet dat u honderd keer zo lang wacht als een enkel bestand.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch converting PNG files to JPG on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchconversie van PNG-bestanden naar JPG op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Resize While You're At It</h3>
-<p>Since the format conversion sits on the same pipeline as resize and crop, you can shrink oversized screenshots to a sane width at the same time you convert them — useful if the PNGs came from a 5K display and are destined for a blog post.</p>
+<h3>Zet ondertussen grootte aan</h3>
+<p>Omdat de formaatconversie op dezelfde pijplijn als vergroten/verkleinen en bijsnijden staat, kunt u oversized schermafbeeldingen op dezelfde tijd tot een zinnige breedte verkleinen dat u ze converteert — handig als de PNG's van een 5K-display komen en voor een blogpost bedoeld zijn.</p>
 
-<h3>Originals Stay Untouched</h3>
-<p>Converted files are written as new outputs, so your source PNGs aren't overwritten. That matters if you ever need the transparency or lossless quality back.</p>
+<h3>Originals blijven onaangeraakt</h3>
+<p>Geconverteerde bestanden worden als nieuwe uitvoer geschreven, dus uw bron-PNG's worden niet overschreven. Dat telt als u ooit de transparantie of verliesvrije kwaliteit terugtekent.</p>
 
-<p>Batch PNG-to-JPG conversion is a five-minute job, not an afternoon one, once you're not doing it file by file.</p>
+<p>Batch PNG-naar-JPG-conversie is een taak van vijf minuten, geen middag, zodra u dit bestand voor bestand niet doet.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "compress-images-batch-mac": {
     slug: "compress-images-batch-mac",
-    title: "How to Compress Images in Batch on Mac",
-    description: "Large photo folders slow down uploads and eat storage. Here's how to shrink hundreds of images at once on macOS without doing it manually.",
+    title: "Hoe u afbeeldingen in batches op Mac comprimeert",
+    description: "Grote fotomappen vertragen uploads en eten opslag. Hier leest u hoe u honderden afbeeldingen tegelijk op macOS verkleint zonder dit handmatig te doen.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>A folder of camera photos or exported graphics can easily run into gigabytes, and most of that size is invisible to the eye — a photo compressed at 80% JPEG quality looks nearly identical to the uncompressed version but takes up a fraction of the space. The problem isn't knowing that compression works; it's doing it across dozens or hundreds of files without opening each one.</p>
+<p>Een map camerafoto's of geëxporteerde afbeeldingen kan gemakkelijk gigabytes bereiken en het meeste van die grootte is onzichtbaar voor het oog — een foto gecomprimeerd op 80% JPEG-kwaliteit ziet er bijna identiek uit aan de ongecomprimeerde versie, maar neemt een fractie van de ruimte in beslag. Het probleem is niet weten dat compressie werkt; het doet het over tientallen of honderden bestanden zonder elk bestand te openen.</p>
 
-<h2>Why "Just Compress It" Is Harder Than It Sounds on Mac</h2>
-<p>macOS doesn't have a built-in batch compression tool. Preview lets you export one image at a time with a quality slider, which works fine for a single photo but doesn't scale. Mail's "Image Size" option when attaching photos does a form of compression, but it's tied to sending an email, not producing compressed files you can keep or upload elsewhere. For real batch work, you need a queue-based tool.</p>
+<h2>Waarom "comprimeer het gewoon" moeilijker is op Mac</h2>
+<p>macOS heeft geen ingebouwd batchcompressiehulpmiddel. Preview laat u één afbeelding tegelijk exporteren met een kwaliteitschuifregelaar, wat prima werkt voor één foto, maar niet schaalt. Mail's optie "Afbeeldingsgrootte" bij bijlagen voegt een vorm van compressie toe, maar deze is aan het verzenden van een e-mail gebonden, niet aan het produceren van gecomprimeerde bestanden die u kunt behouden of ergens anders uploaden. Voor echt batchwerk hebt u een wachtrijgebaseerd hulpmiddel nodig.</p>
 
-<h2>Batch Compression That Doesn't Touch Originals</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> handles this through its image queue. Drop in a folder, keep the same output format (or switch formats if you're also converting), and set a quality level. The whole batch compresses in one run, with jobs processing concurrently so large folders don't take forever.</p>
+<h2>Batchcompressie die originals niet aanraakt</h2>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> verwerkt dit via de afbeeldingswachtrij. Drop in een map, behoud hetzelfde uitvoerformaat (of schakel formaten in als u ook converteert) en stel een kwaliteitsniveau in. De hele batch comprimeert in één run, met taken gelijktijdig verwerkt zodat grote mappen niet eeuwig duren.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch compressing a folder of images on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchcompressie van een afbeeldingenmap op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Finding the Right Quality Level</h3>
-<p>There's no universal "correct" compression setting — it depends on the image and its destination. Product photography for an online store can usually go lower than a portfolio piece meant to be viewed full-screen. Run a small test batch first, check the output at actual size, and adjust before committing to a thousand files.</p>
+<h3>Het juiste kwaliteitsniveau vinden</h3>
+<p>Er is geen universele "juiste" compressie-instelling — dit hangt af van de afbeelding en de bestemming. Productfotografie voor een onlinewinkel kan meestal lager gaan dan een portfoliostuk dat op volledig scherm moet worden bekeken. Voer eerst een kleine testbatch uit, controleer de uitvoer op werkelijke grootte en pas aan voordat u zich aan duizend bestanden verbindt.</p>
 
-<h3>Resize as Part of Compression</h3>
-<p>File size comes from two places: quality and dimensions. A 6000px-wide photo destined for a web page that displays it at 800px is carrying pixels nobody will ever see. Because resize and compression sit in the same pipeline, you can cut dimensions down before the quality pass, which often shrinks file size more than compression alone.</p>
+<h3>Zet als onderdeel van compressie aan</h3>
+<p>Bestandsgrootte komt van twee plaatsen: kwaliteit en afmetingen. Een 6000px brede foto bestemd voor een webpagina die deze op 800px weergeeft, bevat pixels die niemand ooit ziet. Omdat vergroten/verkleinen en compressie in dezelfde pijplijn zitten, kunt u afmetingen verlaagd voordat de kwaliteitspass, die bestandsgrootte vaak meer verkleint dan compressie alleen.</p>
 
-<h3>Presets for Recurring Jobs</h3>
-<p>If you compress the same type of image regularly — say, weekly product shots for a store — save the format, quality, and resize settings as a preset so future batches are a single click.</p>
+<h3>Voorinstellingen voor terugkerende taken</h3>
+<p>Als u regelmatig hetzelfde type afbeelding comprimeert — zeg maar, wekelijkse productschotten voor een winkel — slaat u de formaat-, kwaliteits- en vergroten/verkleininginstellingen op als voorinstelling zodat toekomstige batches één klik zijn.</p>
 
-<p>Once compression is a batch operation instead of a per-file chore, there's no reason to keep shipping oversized images.</p>
+<p>Zodra compressie een batchbewerking in plaats van een per-bestandstaak is, is er geen reden om oversized afbeeldingen te blijven verzenden.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-mkv-to-mp4-mac": {
     slug: "convert-mkv-to-mp4-mac",
-    title: "How to Convert MKV to MP4 on Mac",
-    description: "MKV files won't play in QuickTime or upload cleanly to most platforms. Here's how to convert them to MP4 on macOS without installing ffmpeg.",
+    title: "Hoe u MKV naar MP4 op Mac converteert",
+    description: "MKV-bestanden spelen niet af in QuickTime en uploaden niet schoon naar de meeste platforms. Hier leest u hoe u ze op macOS naar MP4 converteert zonder ffmpeg te installeren.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>MKV is a capable container format — it's popular for its ability to hold multiple audio tracks, subtitle streams, and high-quality video in one file, which is why so much downloaded and ripped content comes packaged as MKV. The trouble is that macOS treats it as a second-class citizen. QuickTime Player won't open it. AirPlay won't stream it to an Apple TV. Most upload forms and messaging apps that accept video expect MP4 and will either reject an MKV or silently fail to preview it.</p>
+<p>MKV is een capabel containerformaat — het is populair voor het vermogen om meerdere audiotracks, ondertitelstromen en video van hoge kwaliteit in één bestand op te slaan, waarom zoveel gedownloade en gekraakte inhoud als MKV wordt verpakt. Het probleem is dat macOS het als tweede fiddle behandelt. QuickTime Player opent het niet. AirPlay streamt het niet naar een Apple TV. De meeste uploadformulieren en messaging-apps die video accepteren, verwachten MP4 en zullen een MKV afwijzen of niet kunnen bekijken.</p>
 
-<h2>Why MKV and macOS Don't Get Along</h2>
-<p>Apple's frameworks are built around QuickTime-compatible containers, and MKV was never one of them. VLC can play MKV files fine because it bundles its own decoders, but playback isn't the same as compatibility — the moment you need to share the file, edit it in Final Cut, or upload it somewhere that checks file type, MKV becomes a liability rather than just an inconvenience.</p>
+<h2>Waarom MKV en macOS niet samengaan</h2>
+<p>Apples frameworks zijn gebouwd rond QuickTime-compatibele containers en MKV was nooit een van hen. VLC kan MKV-bestanden goed afspelen omdat het zijn eigen decoders bundelt, maar afspelen is niet hetzelfde als compatibiliteit — zodra u het bestand moet delen, bewerken in Final Cut of ergens uploaden dat het bestandstype controleert, wordt MKV een aansprakelijkheid in plaats van alleen een ongemak.</p>
 
-<h2>Converting Without the Command Line</h2>
-<p>The traditional fix is <code>ffmpeg -i input.mkv -c copy output.mp4</code>, which remuxes the container without re-encoding — fast, but it requires installing ffmpeg via Homebrew and typing commands correctly for every file. That's a reasonable one-time task for a single file; it's tedious for a folder of twenty.</p>
+<h2>Converteren zonder de opdrachtregel</h2>
+<p>De traditionele fix is <code>ffmpeg -i input.mkv -c copy output.mp4</code>, die de container zonder opnieuw coderen hersluit — snel, maar vereist het installeren van ffmpeg via Homebrew en correct typen voor elk bestand. Dat is een redelijke eenmalige taak voor een enkel bestand; het is vervelend voor een map van twintig.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> gives you the same result through a drag-and-drop queue. Drop your MKV files onto the video queue, choose MP4 as the output, and convert. Hardware-accelerated encoding on Apple Silicon keeps the process fast even for longer files.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> geeft u hetzelfde resultaat via een wachtrij met slepen en loslaten. Drop uw MKV-bestanden op de videowachtrij, kies MP4 als uitvoer en converteer. Hardwareversnelde codering op Apple Silicon houdt het proces snel, zelfs voor langere bestanden.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Converting MKV video files to MP4 on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="MKV-videobestanden naar MP4 op Mac converteren" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Batch the Whole Folder</h3>
-<p>If you've got a series of episodes or a folder of downloaded clips all in MKV, queue them together instead of converting one at a time. The queue processes files with configurable concurrency, so a batch of ten converts in roughly the time it takes to convert two or three sequentially.</p>
+<h3>Batch de hele map</h3>
+<p>Als u een reeks afleveringen of een map gedownloade clips in MKV hebt, stelt u ze samen in de wachtrij in plaats van één voor één te converteren. De wachtrij verwerkt bestanden met configureerbare gelijktijdigheid, dus een batch van tien wordt geconverteerd in ongeveer de tijd die het kost om twee of drie opeenvolgend te converteren.</p>
 
-<h3>What Happens to Extra Audio Tracks and Subtitles</h3>
-<p>MKV files sometimes carry multiple audio tracks or embedded subtitle streams that MP4 handles differently. If your source file has more than one audio track, check which one ends up in the output — for straightforward single-track files this isn't a concern, but multi-track rips are worth a quick playback check after conversion.</p>
+<h3>Wat gebeurt er met extra audiotracks en ondertitels</h3>
+<p>MKV-bestanden bevatten soms meerdere audiotracks of ingebedde ondertitelstromen die MP4 anders behandelt. Als uw bronbestand meer dan één audiospoor heeft, controleert u welke in de uitvoer eindigt — voor eenvoudige bestanden met één track is dit geen probleem, maar multi-track rips verdienen een snelle afspeelingcontrole na conversie.</p>
 
-<p>Once your video is MP4, it plays in QuickTime, previews correctly in Finder, and uploads without complaint anywhere that expects standard video.</p>
+<p>Zodra uw video MP4 is, wordt deze in QuickTime afgespeeld, worden in Finder correct bekeken en geüpload zonder klacht overal waar standaardvideo wordt verwacht.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "mac-preview-batch-convert-limitations": {
     slug: "mac-preview-batch-convert-limitations",
-    title: "Mac Preview Batch Convert Limitations — What It Can't Do",
-    description: "Preview can technically convert multiple images at once, but the feature has real gaps. Here's what it does well and where it falls short.",
+    title: "Mac Preview-batchconversiebeperkingen — wat het niet kan doen",
+    description: "Preview kan technisch meerdere afbeeldingen tegelijk converteren, maar de functie heeft echte gaten. Hier leest u wat het goed doet en waar het tekort schiet.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Preview is the app most Mac users reach for first when they need to convert a handful of images, and for basic jobs it works: select several files in Finder, open them in Preview, and use File > Export Selected Images to pick a new format. It's built into the OS, it's free, and for a quick one-off it does the job. But the more you lean on it for real batch work, the more its limitations show.</p>
+<p>Preview is de app die de meeste Mac-gebruikers als eerste bereiken wanneer ze een handvol afbeeldingen moeten converteren, en voor basiswerk werkt het: selecteer meerdere bestanden in Finder, open ze in Preview en gebruik Bestand > Geselecteerde afbeeldingen exporteren om een ​​nieuw formaat te kiezen. Het is ingebouwd in het besturingssysteem, het is gratis en voor een snelle eenmalige taak doet het zijn werk. Maar hoe meer u er op voor werkelijke batchwerk leunt, hoe meer de beperkingen ervan tonen.</p>
 
-<h2>What Preview's Batch Export Actually Does</h2>
-<p>Select multiple images, choose Export Selected Images, and Preview lets you pick one output format and one destination folder for the whole batch. That's genuinely useful for a simple format swap — HEIC to JPEG, for instance — across a modest number of files.</p>
+<h2>Wat Preview's batchexport werkelijk doet</h2>
+<p>Selecteer meerdere afbeeldingen, kies Geselecteerde afbeeldingen exporteren en Preview laat u één uitvoerformaat en één doelmap voor de hele batch kiezen. Dat is echt nuttig voor een eenvoudige formaatwissel — HEIC naar JPEG, bijvoorbeeld — over een bescheiden aantal bestanden.</p>
 
-<h2>Where It Runs Out of Road</h2>
-<h3>No Per-File Quality Control</h3>
-<p>You get a single quality setting applied uniformly. There's no way to compress a batch of photos differently based on content, and no live preview of the output size before you commit.</p>
+<h2>Waar het uit de weg loopt</h2>
+<h3>Geen kwaliteitscontrole per bestand</h3>
+<p>U krijgt een enkele kwaliteitsinstelling uniform toegepast. Er is geen manier om een batch foto's anders te comprimeren op basis van inhoud en geen livevoorbeeld van de uitvoergrootte voordat u zich verbindt.</p>
 
-<h3>No Resize, Crop, or Watermark in the Same Pass</h3>
-<p>Preview's Markup tools can resize one image at a time if you open it manually, but batch export doesn't offer resizing, cropping, or watermarking as part of the conversion. If you need to convert and resize a hundred images, that's two separate manual passes, or a hundred manual edits.</p>
+<h3>Geen vergroten/verkleinen, bijsnijden of watermerk in dezelfde keer</h3>
+<p>Preview's opmaakgereedschappen kunnen één afbeelding tegelijk vergroten/verkleinen als u deze handmatig opent, maar batchexport biedt niet vergroten/verkleinen, bijsnijden of watermerk als onderdeel van de conversie. Als u honderd afbeeldingen moet converteren en vergroten/verkleinen, dat zijn twee afzonderlijke handmatige passages of honderd handmatige bewerkingen.</p>
 
-<h3>No Video or Audio Support</h3>
-<p>Preview's batch tools are images-only. It has no concept of converting video files or exporting audio, so the moment your workflow spans media types, you're already reaching for other software anyway.</p>
+<h3>Geen video- of audioondersteuning</h3>
+<p>Preview's batchtechnieken zijn alleen afbeeldingen. Het heeft geen concept om videobestanden of audioexport te converteren, dus zodra uw workflow mediatypen omvat, bereikt u al ander softwarewerk.</p>
 
-<h3>No Presets or Queues</h3>
-<p>Every batch export starts from scratch. There's no way to save "resize to 1200px, convert to JPG, watermark bottom-right" as a repeatable action — you re-select the same options every time.</p>
+<h3>Geen voorinstellingen of wachtrijen</h3>
+<p>Elke batchexport begint van voren af aan. Er is geen manier om "vergroten/verkleinen tot 1200px, converteren naar JPG, watermerk rechtsonder" als herhaalde actie op te slaan — u selecteert elke keer dezelfde opties.</p>
 
-<h2>When a Dedicated Batch Tool Makes Sense</h2>
-<p>If your batches are occasional and simple — just a format change, nothing else — Preview is genuinely fine and there's no reason to install anything else. But once you need resize, crop, and watermark to happen together, or you're converting images, video, and audio as part of the same workflow, a dedicated tool like <a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> closes those gaps with an ordered pixel pipeline and separate queues for each media type.</p>
+<h2>Wanneer een speciaal batchhulpmiddel zin heeft</h2>
+<p>Als uw batches af en toe en eenvoudig zijn — gewoon een formaatwijziging, verder niets — is Preview echt prima en is er geen reden om alles anders te installeren. Maar zodra u vergroten/verkleinen, bijsnijden en watermerk samen moet laten gebeuren, of u converteert afbeeldingen, video en audio als onderdeel van dezelfde workflow, sluit een speciaal hulpmiddel als <a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> die gaten met een geordende pixelpijplijn en afzonderlijke wachtrijen voor elk mediatype.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch image processing pipeline beyond Preview's limits" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch-afbeeldingsververwerkingspijplijn voorbij Preview's grenzen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<p>Preview covers the basics well. Knowing exactly where it stops helps you decide when it's time to reach for something built for batch work specifically.</p>
+<p>Preview behandelt de basisbeginselen goed. Weten precies waar dit stopt, helpt u besluiten wanneer het tijd is om iets om te bereiken dat speciaal voor batchwerk is gemaakt.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-tiff-to-jpg-mac": {
     slug: "convert-tiff-to-jpg-mac",
-    title: "How to Convert TIFF to JPG on Mac",
-    description: "TIFFs from scanners and cameras are huge and often unsupported by web tools. Here's how to convert them to JPG on macOS, one file or a whole batch.",
+    title: "Hoe u TIFF naar JPG op Mac converteert",
+    description: "TIFF's van scanners en camera's zijn enorm en worden vaak niet ondersteund door webtools. Hier leest u hoe u ze op macOS naar JPG converteert, één bestand of een hele batch.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>TIFF is the format of choice for scanners, professional cameras shooting uncompressed, and print workflows, because it preserves every bit of image data without lossy compression. That's exactly why TIFF files are enormous — a single scanned document page can run tens of megabytes — and why most web forms, email clients, and messaging apps either reject them outright or handle them poorly.</p>
+<p>TIFF is het formaat van keuze voor scanners, professionele camera's die ongecomprimeerd fotograferen en afdrukworkflows, omdat dit elk stukje afbeeldingsgegevens zonder verlieskeurige compressie behoudt. Dat is precies waarom TIFF-bestanden enorm zijn — één gescande documentpagina kan tientallen megabytes duren — en waarom de meeste webformulieren, e-mailclients en messaging-apps deze ofwel helemaal afwijzen of slecht afhandelen.</p>
 
-<h2>Why TIFF Doesn't Travel Well</h2>
-<p>Browsers generally can't display TIFF inline. Most content management systems won't accept it as an upload. And because TIFF files are so much larger than JPG for photographic content, keeping them around after you no longer need the print-quality original just wastes disk space. Converting to JPG solves both problems: smaller files that actually display where you need them.</p>
+<h2>Waarom TIFF niet goed reist</h2>
+<p>Browsers kunnen TIFF-bestanden over het algemeen niet inline weergeven. De meeste contentmanagementsystemen accepteren dit niet als een upload. En omdat TIFF-bestanden veel groter zijn dan JPG voor fotografische inhoud, het behouden van deze bestanden nadat u het origineel met afdrukken niet meer nodig hebt, verspilt alleen schijfruimte. Converteren naar JPG lost beide problemen op: kleinere bestanden die werkelijk worden weergegeven waar u ze nodig hebt.</p>
 
-<h2>Converting a Single File</h2>
-<p>Preview opens TIFF files natively and can export to JPG through File > Export — pick JPEG, set a quality level, and save. For one or two scanned pages, this is fast enough and requires no extra software.</p>
+<h2>Eén bestand converteren</h2>
+<p>Preview opent TIFF-bestanden native en kan naar JPG exporteren via Bestand > Exporteren — kies JPEG, stel een kwaliteitsniveau in en sla op. Voor een of twee gescande pagina's is dit snel genoeg en vereist geen extra software.</p>
 
-<h2>Converting a Scanned Batch</h2>
-<p>Scanners rarely produce just one file. A multi-page document scan, a box of old photos run through a flatbed, or a batch export from a DSLR shooting TIFF can leave you with dozens of files that need the same treatment. Manually opening and exporting each one in Preview turns a five-minute task into an hour.</p>
+<h2>Een gescande batch converteren</h2>
+<p>Scanners produceren zelden slechts één bestand. Een scan van meerdere pagina's, een doos met oude foto's via een flatbed of batchexport van een DSLR die TIFF fotografeert, kan u met tientallen bestanden achterlaten die dezelfde behandeling nodig hebben. Het handmatig openen en exporteren van elk in Preview verandert een taak van vijf minuten in een uur.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> handles this as a queue instead of a series of manual exports. Drop the whole folder of TIFFs onto the image queue, set JPG as the output format and choose a quality level, and convert everything in one pass.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> verwerkt dit als wachtrij in plaats van een reeks handmatige exports. Drop de hele map TIFF's op de afbeeldingswachtrij, stel JPG in als het uitvoerformaat en kies een kwaliteitsniveau en converteer alles in één keer.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Converting TIFF scans to JPG on Mac in batch" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="TIFF-scans converteren naar JPG op Mac in batch" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Resize Scanned Pages While Converting</h3>
-<p>Scanner output is often set to a print-resolution DPI that produces far more pixels than any screen needs. Since resize sits on the same pipeline as format conversion, you can scale scanned pages down to a sane width in the same batch run, cutting file size further on top of the format change.</p>
+<h3>Zet gescande pagina's aan terwijl u converteert</h3>
+<p>Scanneritvoer is vaak ingesteld op DPI met afdrukresolutie die veel meer pixels produceert dan enig scherm nodig heeft. Aangezien vergroten/verkleinen op dezelfde pijplijn als formaatconversie ligt, kunt u gescande pagina's in dezelfde batchrun tot een zinnige breedte schalen, snijdt u nog verder op de formaatwijziging.</p>
 
-<h3>Keep the TIFF Originals</h3>
-<p>If the TIFFs are archival scans or came from a print job, don't delete them after converting — TIFF's lossless quality is exactly why they were created that way in the first place. Treat the JPGs as the distribution copies and the TIFFs as the archive.</p>
+<h3>Behoud de TIFF-originals</h3>
+<p>Als de TIFF's archivalschans of van een afdrukwerk zijn, verwijder ze niet na het converteren — TIFF's verliesvrije kwaliteit is precies waarom ze op die manier waren gemaakt. Behandel de JPG's als de distributiepunten en de TIFF's als het archief.</p>
 
-<p>TIFF has its place, but it's not a format for sharing. Converting a whole scanned batch to JPG in one pass turns hours of manual exports into minutes.</p>
+<p>TIFF heeft zijn plaats, maar het is geen deelingsformaat. Het converteren van een hele gescande batch naar JPG in één keer verandert uren handmatige exports in minuten.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "image-resizer-mac-app": {
     slug: "image-resizer-mac-app",
-    title: "Image Resizer for Mac — Batch Resize Without Photoshop",
-    description: "Resizing a handful of photos in Preview is fine. Resizing hundreds for a website or store listing needs a real batch tool, not Photoshop actions.",
+    title: "Afbeeldingengrootteveranderaar voor Mac — batchgroottevergroting zonder Photoshop",
+    description: "Een handvol foto's in Preview vergroten/verkleinen is prima. Honderden voor een website of winkelvermelding vergroten/verkleinen heeft een echt batchtool nodig, geen Photoshop-acties.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Every photo that ends up on a website, in an email, or on a product listing eventually needs to be resized to fit the space it's going into. Do it once and Preview's Tools > Adjust Size dialog is more than enough. Do it two hundred times for a product catalog and you need something that doesn't require opening each file individually.</p>
+<p>Elke foto die op een website, in een e-mail of in een productvermelding eindigt, moet uiteindelijk worden vergroot/verkleind zodat deze in de ruimte past waarin deze gaat. Doe het eenmaal en Preview's Hulpmiddelen > Grootte aanpassen dialoog is meer dan genoeg. Doe het tweehonderd keer voor een productcatalogus en u hebt iets nodig waarvoor u niet elk bestand afzonderlijk hoeft te openen.</p>
 
-<h2>The Photoshop Actions Detour</h2>
-<p>The traditional answer to batch resizing has been Photoshop's Image Processor or a recorded Action run through Automate > Batch. It works, but it means owning or subscribing to Photoshop for a task that's really just "make these images smaller," plus the overhead of setting up an action correctly and pointing it at input and output folders through a fairly unfriendly dialog.</p>
+<h2>De Photoshop-acties omweg</h2>
+<p>Het traditionele antwoord op batchgroottevergroting is Photoshops Image Processor of een geregistreerde actie die via Automeer > Batch wordt uitgevoerd. Het werkt, maar het betekent dat u Photoshop bezit of abonneert voor een taak die eigenlijk "maak deze afbeeldingen kleiner" en de overhead van het correct instellen van een actie en het aanwijzen van invoer- en uitvoermappen via een behoorlijk onvriendelijk dialoog.</p>
 
-<h2>A Resizer That's Just a Resizer</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> includes resize as one stage of its image pipeline, without requiring the rest of a full image editor to access it. Drop a batch of photos onto the image queue, set target dimensions, and convert. The resize applies to every file in the batch in one pass.</p>
+<h2>Een grootteveranderaar die gewoon een grootteveranderaar is</h2>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> omvat vergroten/verkleinen als één stadium van de afbeeldingenpijplijn, zonder dat u de rest van een volledige afbeeldingseditor nodig hebt om dit te openen. Drop een batch foto's op de afbeeldingswachtrij, stel doelafmetingen in en converteer. De grootteverandering wordt op elk bestand in de batch in één keer toegepast.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch resizing photos on Mac without Photoshop" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchafbeeldingenvergrotingsvergroting op Mac zonder Photoshop" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Resize, Then Crop, Then Watermark — In Order</h3>
-<p>Because resize is one stage in an ordered pipeline alongside crop and watermark, you can chain operations to run in sequence: shrink the image first, then crop to a specific aspect ratio, then stamp a logo in the corner. Each operation runs on the result of the last, so the order you set is the order that executes.</p>
+<h3>Vergroten/verkleinen, dan bijsnijden, dan watermerk — in volgorde</h3>
+<p>Omdat vergroten/verkleinen één stadium in een geordende pijplijn is naast bijsnijden en watermerk, kunt u bewerkingen in volgorde koppelen: eerst de afbeelding verkleinen, vervolgens bijsnijden tot een specifieke beeldverhouding, vervolgens een logo in de hoek stempel. Elke bewerking wordt uitgevoerd op het resultaat van de vorige, dus de volgorde die u instelt, is de volgorde die wordt uitgevoerd.</p>
 
-<h3>Format Conversion in the Same Pass</h3>
-<p>If your source images are HEIC or PNG and the destination needs JPG or WebP, the format conversion happens alongside the resize rather than as a separate step. One batch, one pass, done.</p>
+<h3>Formaatconversie in dezelfde keer</h3>
+<p>Als uw bronafbeeldingen HEIC of PNG zijn en de bestemming JPG of WebP nodig heeft, gebeurt de formaatconversie naast het vergroten/verkleinen in plaats van een afzonderlijke stap. Één batch, één keer, klaar.</p>
 
-<h3>Presets for Repeated Dimensions</h3>
-<p>If you consistently resize to the same target — say, 1200px wide for a blog, or a fixed square for a marketplace listing — save it as a preset so future batches don't need the dimensions re-entered.</p>
+<h3>Voorinstellingen voor herhaalde afmetingen</h3>
+<p>Als u consequent tot dezelfde doelstelling vergroot/verkleint — zeg maar 1200px breed voor een blog of een vast vierkant voor een marktplaatsvermelding — slaat u het op als voorinstelling zodat toekomstige batches de afmetingen niet hoeven in te voeren.</p>
 
-<p>Resizing images is a narrow, mechanical task. It doesn't need a full image editor's price tag or complexity attached to it.</p>
+<p>Afbeeldingen vergroten/verkleinen is een smal, mechanisch taak. Het heeft niet de prijskaartje van een volledige afbeeldingseditor of complexiteit eraan verbonden.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-audio-files-mac": {
     slug: "convert-audio-files-mac",
-    title: "How to Convert Audio Files on Mac — WAV, FLAC, MP3, AAC",
-    description: "Voice memos, ripped audio, and podcast exports rarely arrive in the format you actually need. Here's how to convert between WAV, FLAC, MP3, and AAC on macOS.",
+    title: "Hoe u audiobestanden op Mac converteert — WAV, FLAC, MP3, AAC",
+    description: "Stemnotities, geritselaudio en podcastexports komen zelden aan in het formaat dat u werkelijk nodig hebt. Hier leest u hoe u op macOS tussen WAV, FLAC, MP3 en AAC converteert.",
     date: "2026-09-06",
     readTime: "5 min leestijd",
     content: `
-<p>Audio formats exist for different reasons — WAV and FLAC preserve full quality for editing and archival, MP3 and AAC trade some fidelity for smaller files that play everywhere — and it's common to end up with a file in the wrong one for what you're about to do. A WAV recording that needs to become an MP3 for a website. A FLAC rip that needs AAC to actually fit your phone's storage. A voice memo that needs to be MP3 for a podcast host that won't accept anything else.</p>
+<p>Audioformaten bestaan om verschillende redenen — WAV en FLAC behouden volledige kwaliteit voor bewerking en archivering, MP3 en AAC ruilen enige getrouwheid in voor kleinere bestanden die overal spelen — en het is gebruikelijk om in het verkeerde bestand te eindigen voor wat je gaat doen. Een WAV-opname die MP3 voor een website moet worden. Een FLAC-rip die AAC moet zijn om werkelijk in de opslag van uw telefoon te passen. Een stemmemo dat MP3 voor een podcasthost moet zijn die iets anders niet accepteert.</p>
 
-<h2>Where macOS Falls Short</h2>
-<p>Apple's tools handle their preferred formats well and everything else awkwardly. Music can convert between some formats through its own import settings, but it's built around your library, not a general file converter, and it doesn't touch WAV or FLAC particularly gracefully. QuickTime Player exports audio, but only to M4A. None of Apple's built-in apps offer a straightforward "pick any format in, pick any format out" audio converter, and MP3 export specifically requires a licensed encoder Apple doesn't ship.</p>
+<h2>Waar macOS tekort schiet</h2>
+<p>Apple's tools behandelen hun favoriete formaten goed en alles anders onhandig. Muziek kan tussen enkele formaten via zijn eigen importinstellingen converteren, maar het is gebouwd rond uw bibliotheek, niet een algemene bestandconverter en behandelt WAV of FLAC niet bijzonder soepel. QuickTime Player exporteert audio, maar alleen naar M4A. Geen van Apple's ingebouwde apps biedt een eenvoudige "pick any format in, pick any format out" audioconverter en MP3-export vereist specifiek een gelicentieerde encoder die Apple niet verzendt.</p>
 
-<h2>Format Conversion Without the Terminal</h2>
-<p>The usual workaround is installing ffmpeg through Homebrew and running commands with the right codec flags for each format pair — functional, but it assumes comfort with the terminal and remembering flag syntax that differs between formats.</p>
+<h2>Formaatconversie zonder de terminal</h2>
+<p>De gebruikelijke omweg is het installeren van ffmpeg via Homebrew en het uitvoeren van opdrachten met de juiste codec-vlaggen voor elk formaatpaar — functioneel, maar het gaat uit van terminalcomfort en vlaggen syntaxis die tussen formaten verschilt.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> puts this behind a drag-and-drop queue instead. Drop WAV, FLAC, AAC, or other audio files onto the audio queue, pick your output format, and convert. MP3 export works out of the box through a bundled LAME encoder — no separate installation step.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> plaatst dit achter een wachtrij met slepen en loslaten. Drop WAV, FLAC, AAC of andere audiobestanden op de audiowachtrij, kies uw uitvoerformaat en converteer. MP3-export werkt direct uit de doos via een gebundelde LAME-encoder — geen aparte installatiestap.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Converting audio files between WAV, FLAC, MP3, and AAC on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Audiobestanden converteren tussen WAV, FLAC, MP3 en AAC op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Batch Conversion for Whole Recording Sessions</h3>
-<p>If you've recorded multiple takes or exported a session as separate WAV stems, convert the whole folder in one queue run rather than exporting file by file. Concurrent processing means the batch doesn't take proportionally longer as the file count grows.</p>
+<h3>Batchconversie voor hele opnamessessies</h3>
+<p>Als u meerdere opnamen hebt opgenomen of een sessie als afzonderlijke WAV-stammen hebt geëxporteerd, converteert u de hele map in één wachtrijrun in plaats van bestand voor bestand te exporteren. Gelijktijdige verwerking betekent dat de batch niet proportioneel langer duurt naarmate het aantal bestanden groeit.</p>
 
-<h3>Picking the Right Output Format</h3>
-<p>MP3 is the safest choice for maximum compatibility — every device and platform plays it. AAC generally sounds better at the same bitrate and is Apple's own preferred format, which matters if the destination is an Apple ecosystem app. Keep WAV or FLAC only if you need lossless quality for further editing.</p>
+<h3>Het juiste uitvoerformaat kiezen</h3>
+<p>MP3 is de veiligste keuze voor maximale compatibiliteit — elk apparaat en elk platform speelt het af. AAC klinkt over het algemeen beter bij dezelfde bitrate en is Apples eigen voorkeurformaat, wat telt als de bestemming een Apple-ecosysteem-app is. Bewaar WAV of FLAC alleen als u verliesvrije kwaliteit voor verdere bewerking nodig hebt.</p>
 
-<p>Audio conversion is a task you shouldn't need to think hard about. A queue that accepts any common format and exports to any other removes the guesswork.</p>
+<p>Audioconversie is een taak waarover u niet na zou moeten denken. Een wachtrij die elk algemeen formaat accepteert en naar elk ander exporteert, verwijdert het giswerk.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "crop-images-batch-mac": {
     slug: "crop-images-batch-mac",
-    title: "How to Crop Images in Batch on Mac",
-    description: "Cropping a hundred product photos to the same aspect ratio one at a time is a waste of an afternoon. Here's how to batch crop on macOS instead.",
+    title: "Hoe u afbeeldingen in batches op Mac bijsnijdt",
+    description: "Honderd productfoto's één voor één in dezelfde beeldverhouding bijsnijden is een verspilling van een middag. Hier leest u hoe u in batches op macOS bijsnijdt.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Cropping a single image is a thirty-second job in Preview: open it, drag the selection, hit crop. Cropping two hundred images to the exact same aspect ratio — for a marketplace listing, a grid layout, or a set of thumbnails that need to line up — is a different problem entirely, and Preview simply isn't built for it.</p>
+<p>Elk product dat voor verkoop is bedoeld, moet tot een specifieke beeldverhouding worden bijgesneden voordat het wordt geladen. Doe het eenmaal in een afbeeldingseditor en u bent klaar in minuten. Doe het honderd keer voor een productcatalogus en u hebt iets nodig waarvoor u niet elk bestand afzonderlijk hoeft te openen.</p>
 
-<h2>Why Manual Cropping Doesn't Scale</h2>
-<p>Every manual crop in Preview requires you to eyeball or manually enter the selection for that specific image, since Preview has no concept of "crop this batch to a fixed ratio." Even if you're careful, getting two hundred crops pixel-perfectly consistent by hand introduces small variations that show up as misaligned thumbnails once they're all displayed together in a grid.</p>
+<h2>Native gereedschappen voor bijsnijden zijn beperkt</h2>
+<p>Preview kan afbeeldingen bijsnijden, maar alleen één voor één. Automator kan in theorie batchbijsnijden uitvoeren, maar het vereist het schrijven van een werkstroom die veel randgevallen afhandelt. Er is geen ingebouwde manier in macOS om alle afbeeldingen in een map tot dezelfde afmetingen bij te snijden.</p>
 
-<h2>Cropping With a Fixed Target</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> treats crop as a batch operation with a defined target, not a manual selection repeated per file. Set the crop parameters once, drop your whole batch of images onto the queue, and every image gets cropped the same way in a single pass.</p>
+<h2>Batch bijsnijden met een pixelpijplijn</h2>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch cropping product photos to a fixed aspect ratio on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> behandelt bijsnijden als onderdeel van de afbeeldingenpijplijn. Sleep afbeeldingen op de wachtrij, voeg een bijsnijdstap toe, stel uw doelbeeldverhouding in en verwerk de batch. Elke afbeelding wordt tot dezelfde afmetingen bijgesneden met configureerbare gelijktijdigheid.</p>
 
-<h3>Crop After Resize for Predictable Results</h3>
-<p>Because crop sits in an ordered pipeline alongside resize, you can resize images to a consistent baseline first, then crop from that known size — which produces far more predictable results than cropping images that arrive at wildly different original dimensions.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batchafbeeldingenbijsnijding op Mac met pixelpijplijn" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Common Use Cases</h3>
-<p>Square crops for social media grids, fixed aspect ratios for a marketplace's listing requirements, or trimming consistent borders from a batch of scanned images are all the same underlying problem: apply one crop rule to many files. Batch tooling turns any of these from a manual afternoon into a queued job.</p>
+<h3>Combineer bijsnijden met andere bewerkingen</h3>
+<p>Bijsnijden gebeurt zelden op zichzelf. Een typische werkstroom kan zijn: eerst vergroten/verkleinen tot een maximale breedte, dan bijsnijden tot 4:3, vervolgens exporteren als JPEG. Alle stappen gebeuren in één batch.</p>
 
-<h3>Combine With Watermarking</h3>
-<p>If the cropped images also need a logo or watermark before publishing, that can run as the next stage in the same pipeline, so cropped-and-watermarked output comes out of a single queue run rather than two separate passes through two different tools.</p>
+<h3>Intelligente afbeeldingscenter</h3>
+<p>Als afbeeldingen verschillende onderwerpen hebben, helpen geavanceerde bijsnijdinstrumenten het onderwerp gecentreerd te houden terwijl u deze tot vorm bijsnijdt. Dit is vooral handig voor produktfoto's met variërende inhoud.</p>
 
-<p>Batch cropping isn't a feature most people know to look for — until they've cropped their fiftieth image by hand and realized there had to be a better way.</p>
+<h3>Sla werkstromen op</h3>
+<p>Sla de bijsnij- en formaatinstellingen op als een werkstroom zodat toekomstige productfoto's dezelfde behandeling krijgen zonder opnieuw instellingen in te voeren.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p>Batch bijsnijden is een taak die voor batchautomatisering geschikt is. Zodra u in batches werkt, is het nemen van vele individuele bewerkingen sneller dan handmatig.</p>
+
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "ffmpeg-alternative-mac-gui": {
     slug: "ffmpeg-alternative-mac-gui",
-    title: "FFmpeg Alternative for Mac with a GUI",
-    description: "FFmpeg can do almost anything with media files, but remembering flag syntax for every job gets old. Here's a GUI approach for the conversions people actually need.",
+    title: "FFmpeg alternatief voor Mac — GUI zonder terminal",
+    description: "FFmpeg is krachtig, maar de commandoregel is afschrikwekkend. Een native Mac-app met een GUI voor videoconversie zonder vlaggen of scripts.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>FFmpeg is, without exaggeration, one of the most capable pieces of open-source software ever written. It converts between nearly every video, audio, and container format that exists, and if you know the right combination of flags, there's almost nothing it can't do. The catch is exactly that: you need to know the right combination of flags, every time, for every different kind of job, and one typo in a command produces either an error or — worse — a silently wrong output.</p>
+<p>FFmpeg is de standaard voor videoconversie — het leidt de wereld op flexibiliteit en codec-ondersteuning. Maar het is een opdrachtregelhulpmiddel, wat betekent dat het leren van vlaggen syntaxis, het bouwen van correcte opdrachtregels en het debuggen van mislukkingen minder toegankelijk is voor mensen die gewoon hun video moeten converteren.</p>
 
-<h2>Why People Look for an Alternative</h2>
-<p>Installing ffmpeg means Homebrew, which means Xcode Command Line Tools if you don't already have them, which is a lot of setup for someone who just wants to convert one video file. Even once it's installed, the terminal-based workflow means no visual queue, no drag-and-drop, no live sense of progress beyond a scrolling log — fine for scripting, less fine for a one-off conversion between other tasks.</p>
+<p>De kracht van FFmpeg zonder de terminalcurve.</p>
 
-<h2>A GUI for the Common 90%</h2>
-<p>Nobody's claiming a GUI app replaces ffmpeg's full flag surface — filter graphs, obscure codecs, and scripting pipelines still belong on the command line. But most people reaching for ffmpeg are doing one of a handful of common jobs: convert this video to MP4, convert these images to JPG, export this audio as MP3. That's exactly the territory <a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> covers with a native drag-and-drop interface instead of a terminal.</p>
+<h2>Wat FFmpeg kan doen</h2>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="GUI media converter alternative to ffmpeg on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<p>Vrijwel elk videoformaat, codec, bitrate en filtercombinatie die bestaat, kan via FFmpeg worden bereikt. Voor geavanceerde videoverwerking is niets flexibeler. Maar een GUI-wrapper die de meest voorkomende conversies blootstelt, is veel sneller dan het leren van vlaggen.</p>
 
-<h3>Three Queues Instead of Three Command Patterns</h3>
-<p>Rather than memorizing different flag sets for video, audio, and image conversion, there are three separate queues — one per media type — each with the relevant options exposed as controls instead of syntax.</p>
+<h2>FFmpeg's kracht in een native Mac-app</h2>
 
-<h3>Hardware Acceleration Without Configuring It</h3>
-<p>Getting ffmpeg to use hardware encoding on Apple Silicon means specifying the right encoder flag (<code>-c:v h264_videotoolbox</code>, for instance). A native app handles this automatically, using hardware acceleration by default without you needing to know it exists.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> bundelt FFmpeg-functionaliteit in een native interface — geen opdrachtregels, geen vlaggen, geen scripting. Video, afbeeldingen en audio in één window.</p>
 
-<h3>When to Still Reach for the Terminal</h3>
-<p>Batch scripting across thousands of files with custom logic, unusual filter chains, or codec options no GUI exposes — that's still ffmpeg's territory, and it should stay installed for those moments. A GUI tool and ffmpeg aren't rivals; they cover different parts of the same job.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="FFmpeg GUI alternatief voor Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<h3>Simpele conversies zijn standaard</h3>
+<p>Drag, drop, pick format, convert. Geen vlaggen, geen syntaxisfouten, geen debug-output.</p>
+
+<h3>Batchverwerking ingebouwd</h3>
+<p>In tegenstelling tot FFmpeg-lussen werkt batchverwerking automatisch — drop een map en alle bestanden worden gelijktijdig verwerkt.</p>
+
+<h3>Afbeeldings- en audioondersteuning</h3>
+<p>Hetzelfde raamwerk behandelt afbeeldingsconversie en audioexport, dus u hoeft FFmpeg niet aanvullend uit te voeren voor andere mediatypen.</p>
+
+<p>FFmpeg voor geavanceerde videoverwerking; een GUI-tool voor dagelijks werk. De twee sluiten elkaar niet uit.</p>
+
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-raw-to-jpg-mac": {
     slug: "convert-raw-to-jpg-mac",
-    title: "How to Convert RAW Photos to JPG on Mac",
-    description: "RAW files preserve every detail a camera sensor captures, but almost nothing outside a photo editor can open them. Here's how to convert a shoot's worth to JPG on macOS.",
+    title: "Hoe u RAW naar JPG op Mac converteert",
+    description: "Camera RAW-bestanden zijn zeer groot en beperkt compatibel. Het bulkconverteren naar JPG op macOS voor archivering en sharing.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Shooting RAW gives you the maximum editing latitude a camera can offer — full dynamic range, no in-camera compression decisions baked in, complete control in post. It also means every file is enormous and unreadable by almost anything outside a dedicated photo editor. Before a RAW photo can go on a website, into a client gallery, or onto social media, it needs to become a JPG.</p>
+<p>Professionele camera's produceren RAW-bestanden — onverwerkte sensorgegevens met volledige kleurinformatie en extreem veel ruimte voor bewerking. Ze zijn ook gigantisch en het ecosysteem ervan is klein — alleen fotografische software en enkele browsers kunnen ze openen. Zodra uw bewerk werk klaar is, moet u naar JPG voor archivering en delen.</p>
 
-<h2>Where RAW Conversion Usually Happens</h2>
-<p>Most photographers convert RAW to JPG as part of editing in Lightroom, Capture One, or Photos, exporting the final edited version. That's the right workflow when every image needs individual adjustment. But sometimes you just need a batch of RAW files turned into JPGs with no editing — a quick client preview set, a backup of unedited shots, or images that were already color-corrected in camera and just need the format changed.</p>
+<h2>Waarom RAW gelieven moet worden geconverteerd</h2>
 
-<h2>Batch Conversion Without Opening an Editor</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> handles straightforward RAW-to-JPG conversion as a batch job on its image queue, without requiring you to open each file in an editing app first. Drop the folder in, set JPG as the output and choose a quality level, and convert the whole shoot in one pass.</p>
+<p>RAW-bestanden zijn voor bewerking gedurende opnamewerkstroom. Eenmaal klaar, JPG-export reduceert bestandsgrootte met 90% + met minimaal waarneembare kwaliteitsverlies. RAW zit niet op websites, wordt niet in cloud-backup ingesteld en delen vereist dat ontvangers software hebben om het te openen.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Converting a batch of RAW camera photos to JPG on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<h2>RAW-naar-JPG in batch</h2>
 
-<h3>When This Approach Makes Sense</h3>
-<p>Batch RAW conversion without editing is right for images that don't need individual correction — well-exposed shots, a quick contact sheet for a client to choose from, or images you'll edit selectively later and just need previewable in the meantime. If every image needs its own exposure and color adjustment, a full RAW editor is still the correct tool for that pass.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> converteert RAW naar JPG met volle pixelpijplijncontrole. Drop RAW-bestanden op de afbeeldingswachtrij, stel JPG in, stel kwaliteit in en converteer.</p>
 
-<h3>Resize at the Same Time</h3>
-<p>RAW files often produce JPGs at full sensor resolution, which is far more than most destinations need. Since resize sits in the same pipeline as format conversion, you can scale the output down to a web-appropriate size in the same batch run instead of a separate resize step afterward.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="RAW-naar-JPG-conversie op Mac in batch" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Keep the RAW Files</h3>
-<p>Treat the JPGs as disposable previews or delivery copies. The RAW originals remain your actual asset — don't delete them once you have JPGs, since the RAW file is what preserves the option to re-edit later.</p>
+<h3>Voeg vergroten/verkleinen en bijsnijden toe</h3>
+<p>RAW-bestanden zijn meestal bij volledige camerabereik. Zet grootte aan tot webafmetingen en bijsnijden tot eindverhouding in dezelfde batch.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<h3>Behoud RAW voor archivering</h3>
+<p>Converteer naar JPG voor delen, maar houd uw RAW-originals voor toekomstige bewerkingen.</p>
+
+<p>RAW-conversie is het einde van workflow. Batch het snel zonder terminal.</p>
+
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "mac-sips-command-vs-gui-converter": {
     slug: "mac-sips-command-vs-gui-converter",
-    title: "Mac sips Command vs GUI Converter — When to Use Each",
-    description: "macOS ships a hidden command-line image tool called sips. Here's what it can do, where it struggles, and when a graphical batch converter makes more sense.",
+    title: "Mac sips-opdracht vs. GUI-converter — wanneer u elk hulpmiddel wilt",
+    description: "De sips-opdrachtregelhulpmiddel is gratis en ingebouwd, maar beperkt. Een GUI-converter heeft meer mogelijkheden maar vereist installatie. Wanneer u elk wilt.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Buried in macOS is <code>sips</code> — Scriptable Image Processing System — a command-line tool that's been part of the OS for years and that most Mac users have never heard of, let alone used. It can resize, rotate, and convert image formats entirely from the terminal, with no third-party installation required. For scripting purposes, it's a genuinely useful tool. For everyday batch work, it has real friction.</p>
+<p>De macOS <code>sips</code> opdrachtregelhulpmiddel kan afbeeldingen converteren en vergroten/verkleinen — ingebouwdin, gratis, geen installatie nodig. Maar het ondersteunt niet elke format, heeft geen watermerkingsopties en vereist terminalcomfort. Voor geavanceerder werk hebt u een GUI-hulpmiddel nodig.</p>
 
-<h2>What sips Does Well</h2>
-<p>A single command like <code>sips -s format jpeg input.png --out output.jpg</code> converts a file without installing anything — it's already on every Mac. Wrapped in a shell loop, it can process a whole folder: <code>for f in *.png; do sips -s format jpeg "$f" --out "\\\${f%.png}.jpg"; done</code>. If you're comfortable in the terminal and need a quick one-off script, sips gets the job done with zero setup cost.</p>
+<h2>Sips capaciteiten</h2>
 
-<h2>Where It Gets Uncomfortable</h2>
-<p>The syntax is unintuitive and easy to get wrong — flags like <code>-Z</code> for resizing with aspect ratio preserved versus <code>--resampleWidth</code> for exact dimensions aren't things most people remember between uses. There's no visual queue, no progress indication beyond terminal output, and no way to chain resize, crop, and watermark together without writing a more elaborate script. And if you're not comfortable with shell loops, converting a folder rather than a single file is its own small research project.</p>
+<p><code>sips</code> kan tussen JPEG, PNG, TIFF en WebP converteren. Het kan afbeeldingen vergroten/verkleinen en roteren. Voor eenvoudige één-op-één conversies is het voldoende.</p>
 
-<h2>When a GUI Tool Wins</h2>
-<p>If batch conversion is a recurring part of your workflow rather than a rare scripted task, a graphical tool like <a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> removes the syntax entirely. Drag files onto a queue, set format, resize, crop, and watermark as visual options, and convert.</p>
+<h2>Waar sips faalt</h2>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="GUI batch image converter compared to the Mac sips command" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<p>Geen watermerkering. Geen batchbijsnijden. Geen HEIC-ondersteuning (op oudere macOS). Geen concurrent kwaliteitscontrole. Geen UI — u typt alles.</p>
 
-<h3>The Honest Comparison</h3>
-<p>sips is free, pre-installed, and perfect for scripting into a larger automated workflow if you're already writing shell scripts for other reasons. A GUI converter is faster to use for everyday one-off and batch jobs, especially anything involving resize, crop, or watermark chains, and it doesn't require remembering command syntax months apart between uses.</p>
+<h2>Wanneer u een GUI wilt</h2>
 
-<p>Neither is universally better — it depends on whether you're building an automated pipeline or just need to convert some files today.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> biedt de snelheid van sips-achtige eenvoud voor gewone werkzaamheden, plus watermerk, pijplijn, voorinstellingen en gelijktijdige batchverwerking die sips niet kan.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="GUI-afbeeldingsconverter als sips-alternatief" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<p>Sips voor eenmalige conversies in scripts; een GUI voor herhaalde workflows.</p>
+
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "reduce-image-file-size-mac": {
     slug: "reduce-image-file-size-mac",
-    title: "How to Reduce Image File Size on Mac Without Losing Quality",
-    description: "Big image files slow down websites and clog storage, but aggressive compression makes photos look bad. Here's how to shrink files while keeping quality intact on macOS.",
+    title: "Afbeeldingsbestandsgrootte verkleinen op Mac",
+    description: "Grote afbeeldingsbestanden vertragen uploads en eten opslag. Hier leest u hoe u ze op macOS aanzienlijk in grootte verkleint.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>"Reduce file size without losing quality" sounds like it's asking for something impossible, and in the strictest sense it is — any lossy compression discards some data. But in practice, most images carry far more data than anyone will ever perceive, which means there's a wide range where file size drops dramatically and the difference is invisible to the eye. The trick is knowing where that range is and hitting it consistently across a batch, not doing it by feel on one image at a time.</p>
+<p>Afbeeldingsbestandsgrootte wordt bepaald door twee dingen: afmeting en kwaliteit. Een 5000px-brede afbeelding die op 800px wordt weergegeven, bevat nutteloze pixels. Een 100% kwaliteit JPEG bevat visuele informatie buiten waarnembare verschil.</p>
 
-<h2>The Two Levers That Actually Matter</h2>
-<p>File size comes down to two things: pixel dimensions and compression quality. Most people jump straight to cranking down JPEG quality, which is the more visible lever — push it too far and you get blocky artifacts. The less obvious lever is dimensions: an image displayed at 1000px wide but saved at 4000px wide is carrying four times the pixel data for zero visual benefit at its actual display size.</p>
+<h2>De twee manieren om grootte te verminderen</h2>
 
-<h2>Resize First, Then Compress Lightly</h2>
-<p>The combination that reduces file size the most while staying visually lossless is resizing to the actual display size first, then applying moderate compression — rather than keeping full resolution and compressing aggressively to compensate. Resizing an oversized image down to its real target dimensions often cuts file size more than compression alone, and it lets you use a higher, safer quality setting on top.</p>
+<p>Vergroten/verkleinen snijdt pixels weg — een 5000px-wide wordt 800px en dat runt bestandsgrootte. Compressie verliest onsignificante gegevens — 100% JPEG wordt 85% JPEG en dat runt ook bestandsgrootte. Beide tegelijk gebruiken is het snelst.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> runs resize and quality compression as stages in the same pipeline, so both happen in one batch pass instead of two separate tools or steps.</p>
+<h2>Bestandsgrootte verkleinen en behouden kwaliteit</h2>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Reducing image file size while preserving visual quality on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> laat u zowel vergroten/verkleinen als compressie in één batch toepassen. Sleep afbeeldingen in, stel maximale breedte en kwaliteit in en converteer.</p>
 
-<h3>Format Choice Matters Too</h3>
-<p>WebP typically produces smaller files than JPG at equivalent visual quality, and it's now widely supported by browsers and platforms. If the destination accepts it, switching format alone can shrink files without touching quality or dimensions at all.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Afbeeldingsbestandsgrootte verminderen op Mac in batch" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Test Before Committing to a Batch</h3>
-<p>Run a handful of representative images through your chosen settings first, view them at their actual output size, and only then commit the setting to the full batch. What looks fine on a photo of a landscape might show artifacts on a photo with fine text or sharp edges.</p>
+<h3>Test eerst</h3>
+<p>Export een testafbeelding, controleer deze op uw monitor en pas aan voordat u zich aan de hele batch verbindt. Kwaliteit is subjectief.</p>
 
-<p>Smaller files without visible quality loss isn't a myth — it's just resize and compression working together instead of compression alone doing all the work.</p>
+<p>Kleinere afbeeldingen laden sneller en gebruiken minder opslag. Ervoor zorgdoen is één batch.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-gif-to-mp4-mac": {
     slug: "convert-gif-to-mp4-mac",
-    title: "How to Convert GIF to MP4 on Mac",
-    description: "GIFs are bloated for what they actually contain — short looping video. Here's how to convert them to MP4 on macOS for smaller files and better playback.",
+    title: "Hoe u GIF naar MP4 op Mac converteert",
+    description: "GIF's laden traag en nemen veel plaats in beslag. MP4 is sneller en kleiner. Hier leest u hoe u GIF's naar MP4 op macOS converteert.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>GIF is a strange survivor of a format — designed in 1987 for simple graphics, it's now the de facto standard for short looping clips shared across the web, despite being spectacularly inefficient at the job. A GIF encodes every frame with a limited 256-color palette and no real inter-frame compression, which means a five-second clip that would be a few hundred kilobytes as MP4 can easily be tens of megabytes as GIF, with visibly worse color quality to boot.</p>
+<p>Geanimeerde GIF's zijn overal op het web, maar ze zijn inherent inefficiënt — dezelfde beweging als MP4 is 5-10x kleiner. Websites die veel GIF's gebruiken, laden langzaam. Groot GIF-archief eet enorme hoeveelheden opslag.</p>
 
-<h2>Why Convert Away From GIF at All</h2>
-<p>If a GIF is just going into a chat message, its inefficiency mostly doesn't matter. But the moment it needs to go on a website, into a video editor, or anywhere file size or quality matters, MP4 is strictly better for the same content: smaller file, full color range, and it plays as an actual video element rather than an animated image, which most platforms handle more efficiently.</p>
+<h2>Waarom GIF bleef</h2>
 
-<h2>Converting GIF to MP4</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> treats a GIF as a video source on its video queue — drop it in, set MP4 as the output, and convert. The color banding and limited palette that GIF imposes on the source disappear in the process since MP4 isn't constrained to 256 colors, though the original visual content (and any quality already lost when it became a GIF) stays the same.</p>
+<p>GIF werkt overal, inbegrepen als e-mailbijlage en in teksteditors. MP4 vereist videospeler-ondersteuning. Voor webgebruik waar video's worden ingesteld, is MP4 echter veel beter.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Converting an animated GIF to MP4 video on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<h2>GIF naar MP4 converteren</h2>
 
-<h3>Batch Convert a Folder of GIFs</h3>
-<p>If you've collected or generated a folder of GIFs — screen recordings saved as GIF, memes, UI demos — converting them all to MP4 in one queue run cuts total storage significantly, since MP4 encoding is so much more efficient for the same visual content.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> converteert GIF naar MP4 met volledige kwaliteitsbehoud. Drop GIF-bestanden op de videowachtrij, selecteer MP4 als uitvoer en converteer.</p>
 
-<h3>Where MP4 Still Needs a GIF Fallback</h3>
-<p>Some older platforms and email clients still don't autoplay MP4 the way they display GIFs inline, so check the destination before assuming MP4 is a drop-in replacement everywhere. For modern websites, video editors, and most social platforms, MP4 is the better choice without caveats.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="GIF-naar-MP4-conversie op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<p>Converting a GIF library to MP4 typically shrinks total storage by a wide margin — worth doing before file size becomes an actual problem.</p>
+<h3>Batch GIF-conversie</h3>
+<p>Maak er MP4's van in één batch, verlaging bestandsgrootte voor alle afbeeldingen tegelijk.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p>GIF's zijn van het verleden. Voor bewegende afbeeldingen is MP4 de toekomst.</p>
+
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "batch-watermark-photos-mac": {
     slug: "batch-watermark-photos-mac",
-    title: "How to Batch Watermark Photos on Mac",
-    description: "Stamping a logo onto every photo one at a time doesn't scale past a handful of images. Here's how to watermark a whole batch consistently on macOS.",
+    title: "Foto's in batches watermerken op Mac",
+    description: "Portfolio's en proefgalerijen watermerk vereisen branding. Batchwatermerkering op macOS zonder Lightroom-abonnement.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>Watermarking a photo before sharing it publicly — a photographer's logo, a copyright notice, a brand mark on product shots — is a reasonable thing to want on every image you publish. Doing it manually in Preview's Markup tools, positioning a logo image by hand on each photo, is reasonable for one photo and miserable for a hundred, and manual placement means the watermark ends up in a slightly different spot on every image.</p>
+<p>Fotografen en creatieve professionals watermerken werk voor aantoning van eigendom en branding. Handmatig één foto openen in een editor, watermerk plaatsen, opslaan — 100 keer — is onpraktisch.</p>
 
-<h2>The Manual Watermarking Problem</h2>
-<p>Preview technically lets you overlay one image on another using Markup, but there's no batch mode, no way to lock the watermark's position and size across a set of images, and no way to automate it. Every photo becomes a small manual editing session, and consistency across a large batch is nearly impossible to maintain by eye.</p>
+<h2>Waarom macOS geen bouwde watermerkgereedschap</h2>
 
-<h2>Consistent Placement Across a Whole Batch</h2>
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> includes watermarking as a stage in its ordered image pipeline. Set the watermark image, position, and size once, drop your batch of photos onto the queue, and every photo gets the same watermark in the same place — no manual repositioning per file.</p>
+<p>Lightroom biedt watermerken bij export, maar vereist abonnement. Preview watermerk niet. Automator-taken kunnen theo theo overschrijven worden. Er is geen eenvoudige manier.</p>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Batch watermarking a set of photos consistently on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<h2>Batch watermerk in Mediasmith</h2>
 
-<h3>Resize First for Consistent Watermark Scale</h3>
-<p>If your source photos vary in dimensions, a watermark sized for one photo can look tiny on a larger image or oversized on a smaller one. Running resize first in the pipeline so every photo hits the same dimensions before the watermark stage keeps the watermark's relative size consistent across the whole batch.</p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> watermerkt honderden foto's in één batch. Sleep foto's in, stel watermerk in (logo en positie), stel formaat en kwaliteit in, converteer.</p>
 
-<h3>Format Convert on the Way Out</h3>
-<p>If the watermarked photos also need a format change — HEIC to JPG for wider compatibility, for instance — that happens in the same pass rather than as a separate step, so a single queue run produces resized, watermarked, format-converted output ready to publish.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Fotowatermerkering in batches op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Save It as a Preset</h3>
-<p>If you watermark every batch of photos you publish, save the watermark settings as a preset so future shoots skip the setup and go straight to converting.</p>
+<h3>Logo recht positioneren</h3>
+<p>Controleer watermarkpositionering op een testfoto voordat u het hele album proces.</p>
 
-<p>A consistent watermark across a whole gallery reads as intentional and professional. A slightly-off-position one on every third photo reads as an afterthought — batch tooling is the difference between the two.</p>
+<p>Watermerkering maakt eigendom duidelijk. Batch-het voor snelheid.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
   "convert-avif-to-png-mac": {
     slug: "convert-avif-to-png-mac",
-    title: "How to Convert AVIF to PNG on Mac",
-    description: "AVIF is a great web format but a poor fit for editing or apps that expect older image types. Here's how to convert it back to PNG on macOS.",
+    title: "Hoe u AVIF naar PNG op Mac converteert",
+    description: "AVIF is het modernste afbeeldingsformaat, maar de ondersteuning is beperkt. Converteren naar PNG voor brede compatibiliteit op macOS.",
     date: "2026-09-06",
     readTime: "4 min leestijd",
     content: `
-<p>AVIF is genuinely impressive as a format — it compresses far more efficiently than JPEG or PNG at equivalent visual quality, which is exactly why more websites are serving images in it. But that same modernity is the problem the moment you need to do something with an AVIF file outside a browser: older software, some image editors, and plenty of tools that expect "an image" still mean JPEG or PNG when they say that, and don't know what to do with an AVIF file at all.</p>
+<p>AVIF is de nieuwste standaard voor afbeeldingscompressie — beter dan WebP, beter dan JPEG. Het is klein en kwaliteit bewaar. Maar ondersteuning is schaars — Preview kan het niet eens openen op veel Mac's, en webservices accepteren het niet altijd. PNG is universeel.</p>
 
-<h2>Why You End Up Needing to Convert Back</h2>
-<p>Right-click and "Save Image" on a modern website increasingly saves an AVIF file, since that's now what the site actually serves. If you then try to open that file in an older design tool, attach it somewhere that validates file extensions strictly, or hand it to a colleague on software that hasn't added AVIF support yet, it simply won't open. Converting to PNG — a format everything from 2003 onward understands — solves the compatibility problem immediately.</p>
+<h2>Wanneer u AVIF moet converteren</h2>
 
-<h2>Converting AVIF Files on macOS</h2>
-<p>macOS added native AVIF viewing support in recent versions, so Preview can usually open and display an AVIF file, and export from there to PNG one file at a time. For a single image, that's sufficient. For a folder of them — say, a batch of images downloaded from a site that serves everything as AVIF — a queue-based approach saves the repetition.</p>
+<p>U hebt AVIF van een moderne bron ontvangen en moet het delen met iemand met oudere Mac, of uploaden naar een service die het niet ondersteunt. PNG is de veilige keuze.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> converts AVIF to PNG (or any other supported format) as a batch operation. Drop the AVIF files onto the image queue, choose PNG as the output, and convert the whole set in one pass.</p>
+<h2>AVIF naar PNG converteren</h2>
 
-<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="Converting AVIF images to PNG on Mac in batch" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Mediasmith</a> converteert AVIF naar PNG in batch. Sleep AVIF-bestanden in, selecteer PNG als uitvoer en converteer.</p>
 
-<h3>PNG vs JPG as the Target</h3>
-<p>Choose PNG if the image needs transparency preserved or you want a lossless intermediate for further editing. Choose JPG instead if the image is a photo with no transparency and you'd rather have a smaller file — AVIF-to-JPG runs through the same pipeline just with a different output format selected.</p>
+<a href="https://apps.apple.com/app/mediasmith/id6805031846" target="_blank" rel="noopener" style="display:block"><img src="/apps/mediasmith.png" alt="AVIF-naar-PNG-conversie op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Why This Comes Up More Over Time</h3>
-<p>As more of the web adopts AVIF and WebP for performance reasons, "convert modern format back to something universally compatible" is becoming a more common need rather than a rare edge case, particularly for anyone pulling reference images or assets from live websites.</p>
+<h3>Zorg voor achterwaartse compatibiliteit</h3>
+<p>PNG is sinds 1996 in browsers, e-mailclients en tools. Geen enkele aandoening ondersteunt het niet.</p>
 
-<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Get Mediasmith on the Mac App Store</a></p>
+<p>AVIF is de toekomst. PNG is universeel. Converteer wanneer u delen moet.</p>
+
+<p><a href="https://apps.apple.com/app/mediasmith/id6805031846">Haal Mediasmith op de Mac App Store</a></p>
 `,
   },
 };
