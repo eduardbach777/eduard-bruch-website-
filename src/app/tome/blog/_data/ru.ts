@@ -8,25 +8,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>У вас есть база данных SQLite you need to inspect. You search for a browser, download something promising, and immediately notice it doesn't support native macOS features — no document tabs, no system dark mode, no Spotlight integration. It feels like a Linux app wearing a Mac costume. This is the reality of most SQLite browsers available today.</p>
+<p>У вас есть база данных SQLite, которую нужно проверить. Вы ищете браузер, загружаете что-то многообещающее и сразу замечаете, что он не поддерживает нативные функции macOS — нет вкладок документов, нет тёмного режима системы, нет интеграции со Spotlight. Это похоже на приложение Linux, надевшее костюм Mac. Это реальность для большинства браузеров SQLite, доступных сегодня.</p>
 
 <h2>Почему большинство браузеров SQLite отстают на Mac</h2>
-<p>Большинство инструментов баз данных are built with Electron or Java, designed to run everywhere and optimized for nowhere. They ignore the Mac conventions you rely on: drag-and-drop from Finder, proper window management, smooth scrolling through large result sets. You end up fighting the tool instead of focusing on your data.</p>
-<p>DB Browser for SQLite is open source and functional, but it's a Qt application — foreign keyboard shortcuts, non-native file dialogs, and no integration with the rest of your macOS workflow. TablePlus looks better but targets every database engine, making SQLite feel like an afterthought.</p>
+<p>Большинство инструментов баз данных построены на Electron или Java, рассчитаны на работу везде и оптимизированы нигде. Они игнорируют соглашения Mac, на которые вы полагаетесь: перетаскивание из Finder, правильное управление окнами, плавную прокрутку по большим наборам результатов. В итоге вы боретесь с инструментом вместо того, чтобы сосредоточиться на своих данных.</p>
+<p>DB Browser for SQLite имеет открытый исходный код и функционален, но это приложение Qt — иностранные сочетания клавиш, не-нативные диалоги файлов и отсутствие интеграции с остальным рабочим процессом macOS. TablePlus выглядит лучше, но нацелен на каждую систему управления базами данных, делая SQLite побочным соображением.</p>
 
 <h2>Браузер SQLite, созданный для Mac с нуля</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> является нативным браузером SQLite для macOS созданным специально для открытия, просмотра и редактирования баз данных SQLite. Он использует AppKit и Swift — без Electron, без компромиссов кроссплатформенности. Он запускается мгновенно, уважает внешний вид вашей системы, и работает так, как должны работать приложения Mac.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это нативный браузер SQLite для macOS, созданный специально для открытия, просмотра и редактирования баз данных SQLite. Он использует AppKit и Swift — без Electron, без компромиссов кроссплатформенности. Он запускается мгновенно, уважает внешний вид вашей системы и работает так, как должны работать приложения Mac.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome — native SQLite browser for Mac showing tables and query editor" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome — нативный браузер SQLite для Mac, показывающий таблицы и редактор запросов" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <h3>Просмотрите таблицы, представления, индексы и триггеры</h3>
 <p>Откройте любой файл .db, .sqlite или .sqlite3 и сразу увидите каждую таблицу, представление, индекс и триггер в вашей базе данных. Нажмите на таблицу, чтобы просмотреть её содержимое с быстрой нативной прокруткой. Не нужно ждать, пока веб-представление отобразит тысячи строк.</p>
 
 <h3>Редактируйте данные встроенно</h3>
-<p>Нажмите на любую ячейку, чтобы отредактировать её напрямую. Вставляйте новые строки, удаляйте существующие, или создавайте совершенно новые таблицы с помощью визуального редактора — SQL не требуется для базовых операций. Когда вам действительно нужен SQL, Tome включает редактор запросов с подсветкой синтаксиса и автодополнением.</p>
+<p>Нажмите на любую ячейку, чтобы отредактировать её напрямую. Вставляйте новые строки, удаляйте существующие или создавайте совершенно новые таблицы с помощью визуального редактора — SQL не требуется для базовых операций. Когда вам действительно нужен SQL, Tome включает редактор запросов с подсветкой синтаксиса и автодополнением.</p>
 
 <h3>На основе документов — открывайте несколько баз данных рядом</h3>
-<p>Tome на основе документов, что означает, что каждая база данных открывается в собственном окне или вкладке. Сравнивайте базы данных staging и production side by side, или держите эталонную базу данных открытой пока вы работаете с другой. Это работает точно так же, как любое приложение Mac на основе документов — потому что это одно из них.</p>
+<p>Tome — это приложение на основе документов, что означает, что каждая база данных открывается в собственном окне или вкладке. Сравнивайте базы данных staging и production рядом или держите эталонную базу данных открытой пока вы работаете с другой. Это работает точно так же, как любое приложение Mac на основе документов — потому что это одно из них.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -38,25 +38,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You found a .sqlite file in your project folder or buried in an app's container. You double-click it and macOS has no idea what to do with it. You could open Terminal and type <code>sqlite3 mydatabase.db</code>, but reading tabular data in a terminal window is painful — no column alignment, no scrolling, no way to quickly scan hundreds of rows.</p>
+<p>Вы нашли файл .sqlite в папке проекта или зарыли его в контейнер приложения. Вы дважды кликаете по нему, и macOS понятия не имеет, что с ним делать. Вы можете открыть Терминал и набрать <code>sqlite3 mydatabase.db</code>, но чтение табличных данных в окне терминала мучительно — отсутствует выравнивание столбцов, нет прокрутки, нет способа быстро просканировать сотни строк.</p>
 
-<h2>The Terminal Approach and Its Limits</h2>
-<p>The built-in <code>sqlite3</code> command-line tool ships with every Mac. It works, technically. You can run <code>.tables</code> to list tables and <code>SELECT * FROM tablename;</code> to dump rows. But the output is raw text. Wide tables wrap awkwardly. There's no way to click a value and edit it. And if you're a designer, product manager, or anyone who doesn't live in Terminal, this isn't a realistic workflow.</p>
-<p>You might try opening the file in a text editor, but SQLite databases are binary — you'll see garbled characters, not your data.</p>
+<h2>Подход с терминалом и его ограничения</h2>
+<p>Встроенный инструмент <code>sqlite3</code> командной строки поставляется с каждым Mac. Технически он работает. Вы можете запустить <code>.tables</code> для списка таблиц и <code>SELECT * FROM tablename;</code> для вывода строк. Но вывод — это необработанный текст. Широкие таблицы неудобно переносятся. Нет способа нажать на значение и отредактировать его. И если вы дизайнер, менеджер продукта или кто-то, кто не живёт в Терминале, это не реалистичный рабочий процесс.</p>
+<p>Вы можете попробовать открыть файл в текстовом редакторе, но базы данных SQLite — это бинарные данные — вы увидите размытые символы, а не ваши данные.</p>
 
-<h2>View Any SQLite Database Visually With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> gives you a proper visual interface for SQLite databases on Mac. Drag a .db, .sqlite, or .sqlite3 file onto the app icon or use File → Open, and your database appears instantly — tables listed in a sidebar, data displayed in a scrollable grid.</p>
+<h2>Просмотрите любую базу данных SQLite визуально с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> предоставляет правильный визуальный интерфейс для баз данных SQLite на Mac. Перетащите файл .db, .sqlite или .sqlite3 на значок приложения или используйте File → Open, и ваша база данных появится мгновенно — таблицы перечислены в боковой панели, данные отображаются в прокручиваемой сетке.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome showing a SQLite database with tables and row data" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, показывающий базу данных SQLite с таблицами и данными строк" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>See Your Schema at a Glance</h3>
-<p>Every table, view, index, and trigger is listed in the sidebar. Click any table to see its rows. Click a view to see its results. No commands to memorize — just point and click.</p>
+<h3>Просмотрите схему с первого взгляда</h3>
+<p>Каждая таблица, представление, индекс и триггер перечисляются в боковой панели. Нажмите на любую таблицу, чтобы увидеть её строки. Нажмите на представление, чтобы увидеть его результаты. Команды запоминать не нужно — просто указывайте и кликайте.</p>
 
-<h3>Run Queries When You Need To</h3>
-<p>For anything beyond browsing, Tome's SQL query editor is ready. It includes syntax highlighting and auto-complete for table and column names, so you can write queries faster than in Terminal without guessing column names from memory.</p>
+<h3>Запускайте запросы, когда вам это нужно</h3>
+<p>Для чего-либо сверх просмотра редактор SQL запросов Tome готов к работе. Он включает подсветку синтаксиса и автодополнение для имён таблиц и столбцов, поэтому вы можете писать запросы быстрее, чем в Терминале, без угадывания имён столбцов по памяти.</p>
 
-<h3>Common Use Cases</h3>
-<p>Debugging an iOS or Android app that stores data in SQLite. Inspecting a web scraper's output database. Checking a Django or Rails development database. Viewing browser history or bookmarks stored in SQLite. All of these become simple — open the file, see the data.</p>
+<h3>Типичные примеры использования</h3>
+<p>Отладка приложения iOS или Android, которое хранит данные в SQLite. Проверка выходной базы данных веб-скрейпера. Проверка базы данных разработки Django или Rails. Просмотр истории браузера или закладок, хранящихся в SQLite. Все это становится простым — откройте файл, посмотрите данные.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -68,25 +68,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You open your database tool and Activity Monitor shows it eating 400 MB of RAM before you've even loaded a file. The interface stutters when scrolling through a large table. Keyboard shortcuts don't match what every other Mac app uses. This is what happens when your SQLite editor is actually a web browser pretending to be a desktop app.</p>
+<p>Вы открываете инструмент базы данных, и Activity Monitor показывает, что он потребляет 400 МБ оперативной памяти, прежде чем вы даже загрузили файл. Интерфейс заикается при прокрутке по большой таблице. Сочетания клавиш не совпадают с тем, что использует каждое другое приложение Mac. Это то, что происходит, когда ваш редактор SQLite — это на самом деле веб-браузер, притворяющийся приложением для настольных ПК.</p>
 
-<h2>The Electron Problem</h2>
-<p>Electron apps bundle an entire Chromium browser to render their interface. For a database editor — an app that mostly displays tables of text — this is extreme overhead. You get slow startup times, high memory usage, and an interface that never quite feels right on macOS. File dialogs look different. Text rendering is slightly off. The app doesn't appear in Finder's "Open With" menu correctly.</p>
-<p>Some developers choose Electron because it lets them ship on Mac, Windows, and Linux from one codebase. That's a reasonable business decision, but you're the one paying the performance tax every time you open a database.</p>
+<h2>Проблема Electron</h2>
+<p>Приложения Electron объединяют весь браузер Chromium для визуализации своего интерфейса. Для редактора базы данных — приложения, которое в основном отображает таблицы текста — это экстремальные расходы. Вы получаете медленное время запуска, высокое использование памяти и интерфейс, который никогда не чувствует себя правильно на macOS. Диалоги файлов выглядят иначе. Рендеринг текста немного отличается. Приложение не появляется в меню Finder «Open With» должным образом.</p>
+<p>Некоторые разработчики выбирают Electron, потому что это позволяет им доставлять на Mac, Windows и Linux из одной кодовой базы. Это разумное бизнес-решение, но вы платите налог производительности каждый раз, когда открываете базу данных.</p>
 
-<h2>Tome: Built With AppKit, Not a Web Browser</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> is a native macOS application built with Swift and AppKit. It uses the same frameworks as Finder, Xcode, and every other first-party Apple app. The result is an SQLite editor that launches in under a second, scrolls smoothly through tens of thousands of rows, and uses a fraction of the memory an Electron app would need.</p>
+<h2>Tome: построен с AppKit, не веб-браузер</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это нативное приложение macOS, созданное с использованием Swift и AppKit. Оно использует те же фреймворки, что и Finder, Xcode и каждое другое приложение первого уровня Apple. Результатом является редактор SQLite, который запускается за доли секунды, плавно прокручивается по десяткам тысяч строк и использует часть памяти, которая понадобилась бы приложению Electron.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome native macOS SQLite editor with sidebar and data grid" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, нативный редактор SQLite для macOS, с боковой панелью и сеткой данных" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Real macOS Integration</h3>
-<p>Tome registers as a handler for .db, .sqlite, and .sqlite3 files. Double-click a database in Finder and it opens directly. Drag files onto the dock icon. Use macOS tabs and window management. Everything works the way you expect from a Mac app because it is a Mac app.</p>
+<h3>Реальная интеграция macOS</h3>
+<p>Tome регистрируется как обработчик для файлов .db, .sqlite и .sqlite3. Дважды нажмите на базу данных в Finder и она откроется напрямую. Перетащите файлы на значок на доке. Используйте вкладки и управление окнами macOS. Все работает так, как вы ожидаете от приложения Mac, потому что это приложение Mac.</p>
 
-<h3>Edit Without Writing SQL</h3>
-<p>Click any cell to edit its value inline. Insert rows, delete rows, and create new tables using a visual editor. When you need SQL, the built-in query editor has syntax highlighting and auto-complete — but for everyday edits, you never have to touch it.</p>
+<h3>Редактируйте без написания SQL</h3>
+<p>Нажмите на любую ячейку, чтобы отредактировать её значение встроенно. Вставляйте строки, удаляйте строки и создавайте новые таблицы с помощью визуального редактора. Когда вам нужен SQL, встроенный редактор запросов имеет подсветку синтаксиса и автодополнение — но для повседневного редактирования вам никогда не придётся его касаться.</p>
 
-<h3>Lightweight by Design</h3>
-<p>Tome does one thing well: SQLite. It doesn't try to connect to PostgreSQL, MySQL, or MongoDB. By focusing exclusively on SQLite, every feature is optimized for the format you're actually working with.</p>
+<h3>Лёгкий по дизайну</h3>
+<p>Tome делает одно хорошо: SQLite. Он не пытается подключиться к PostgreSQL, MySQL или MongoDB. Сосредоточившись исключительно на SQLite, каждая функция оптимизирована для формата, с которым вы фактически работаете.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -98,26 +98,26 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "5 мин. чтения",
     content: `
-<p>DB Browser for SQLite (DB4S) is the go-to free tool for viewing SQLite databases. It's open source, cross-platform, and has been around for years. But if you use it on a Mac, you've noticed the friction: Cmd+Q sometimes doesn't work as expected, file dialogs look like they belong on a different operating system, and the interface never quite matches your other apps. It works — but it doesn't feel right.</p>
+<p>DB Browser for SQLite (DB4S) — это основной бесплатный инструмент для просмотра баз данных SQLite. Это открытый исходный код, кроссплатформенный и существует уже много лет. Но если вы используете его на Mac, вы заметили трение: Cmd+Q иногда не работает как ожидается, диалоги файлов выглядят так, как будто они принадлежат другой операционной системе, и интерфейс никогда не совпадает с вашими другими приложениями. Это работает — но ощущается неправильно.</p>
 
-<h2>Where DB Browser Falls Short on Mac</h2>
-<p>DB4S is built with Qt, a cross-platform UI framework. On Mac, this means the app doesn't use native macOS controls. You notice it in small ways: the tab bar doesn't match Safari's, scroll physics feel off, and there's no Handoff, Spotlight integration, or proper dark mode support. The app also doesn't support macOS document-based architecture, so you can't open multiple databases in native tabs.</p>
-<p>Performance is another issue. Opening a database with a large table can feel sluggish, and the UI occasionally hangs while executing queries. For a desktop app in 2026, users expect better responsiveness.</p>
-<p>None of this makes DB4S a bad tool — it's excellent for what it is. But if you're on a Mac and want something that feels native, it leaves a gap.</p>
+<h2>Где DB Browser отстаёт на Mac</h2>
+<p>DB4S построен с использованием Qt, кроссплатформенной платформы пользовательского интерфейса. На Mac это означает, что приложение не использует нативные элементы управления macOS. Вы замечаете это мелочами: панель вкладок не совпадает с Safari, физика прокрутки кажется неправильной, и нет поддержки Handoff, интеграции Spotlight или правильной поддержки тёмного режима. Приложение также не поддерживает архитектуру документов macOS, поэтому вы не можете открыть несколько баз данных в нативных вкладках.</p>
+<p>Производительность — это ещё одна проблема. Открытие базы данных с большой таблицей может чувствоваться медленно, и пользовательский интерфейс иногда зависает при выполнении запросов. Для приложения для настольных ПК в 2026 году пользователи ожидают лучшей отзывчивости.</p>
+<p>Ничто из этого не делает DB4S плохим инструментом — это отличный инструмент для того, что это. Но если вы на Mac и хотите что-то, что чувствует себя нативным, остаётся пробел.</p>
 
-<h2>Tome: A Native macOS Alternative</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> fills that gap. It's a native SQLite browser and editor built specifically for macOS with Swift and AppKit. It does everything DB Browser does for everyday use — browse tables, edit data, run queries — but wrapped in an interface that belongs on your Mac.</p>
+<h2>Tome: нативная альтернатива macOS</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> заполняет этот пробел. Это нативный браузер SQLite и редактор, созданный специально для macOS с использованием Swift и AppKit. Он делает всё, что DB Browser делает для повседневного использования — просматривает таблицы, редактирует данные, запускает запросы — но завёрнуто в интерфейс, который принадлежит вашему Mac.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome as a native alternative to DB Browser for SQLite on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome как нативная альтернатива DB Browser для SQLite на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Everything You Use DB Browser For, But Native</h3>
-<p>Browse tables, views, indexes, and triggers in a clean sidebar. View row data in a fast, scrollable grid. Edit cells inline without writing SQL. Insert and delete rows with a click. Create new tables with a visual editor instead of writing CREATE TABLE statements by hand.</p>
+<h3>Всё, что вы используете DB Browser для, но нативным</h3>
+<p>Просматривайте таблицы, представления, индексы и триггеры в чистой боковой панели. Просмотрите данные строк в быстрой прокручиваемой сетке. Редактируйте ячейки встроенно без написания SQL. Вставляйте и удаляйте строки одним щелчком. Создавайте новые таблицы с визуальным редактором вместо написания операторов CREATE TABLE вручную.</p>
 
-<h3>SQL Query Editor When You Need It</h3>
-<p>Tome includes a full SQL query editor с подсветкой синтаксиса и автодополнением for your table and column names. Run SELECT, UPDATE, DELETE, or any other query and see results instantly.</p>
+<h3>Редактор SQL запросов когда вам это нужно</h3>
+<p>Tome включает полный редактор SQL запросов с подсветкой синтаксиса и автодополнением для имён ваших таблиц и столбцов. Запускайте SELECT, UPDATE, DELETE или любой другой запрос и видите результаты мгновенно.</p>
 
-<h3>Document-Based Workflow</h3>
-<p>Unlike DB4S, Tome uses macOS document-based architecture. Each database opens в собственном окне или вкладке. You can have multiple databases open simultaneously, arranged side by side, and switch between them the same way you switch between documents in any other Mac app.</p>
+<h3>Рабочий процесс на основе документов</h3>
+<p>В отличие от DB4S, Tome использует архитектуру документов macOS. Каждая база данных открывается в собственном окне или вкладке. Вы можете иметь несколько открытых баз данных одновременно, расположенные рядом, и переключаться между ними так же, как вы переключаетесь между документами в любом другом приложении Mac.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -129,26 +129,26 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>TablePlus is a well-designed database client that supports PostgreSQL, MySQL, SQLite, Redis, MongoDB, and more. It's genuinely good software. But if you only work with SQLite files, you're navigating connection dialogs, driver settings, and interface elements that exist for databases you'll never use. It's like buying a Swiss Army knife when you only need the blade.</p>
+<p>TablePlus поддерживает PostgreSQL, MySQL, SQLite, Redis, MongoDB и многое другое. Это действительно хороший софт. Но если вы работаете только с файлами SQLite, вы перемещаетесь по диалогам менеджера соединений, параметрам драйвера и элементам интерфейса, которые существуют для баз данных, которые вы никогда не будете использовать. Это как покупать швейцарский нож, когда вам нужно только лезвие.</p>
 
-<h2>When a Multi-Database Tool Is Too Much</h2>
-<p>Every time you open TablePlus, you see a connection manager designed for remote database servers. For SQLite — a local file-based database — this workflow adds unnecessary steps. You don't need connection strings, ports, or credentials. You just need to open a file.</p>
-<p>TablePlus also uses a subscription model that reflects its broad feature set. If you're not connecting to PostgreSQL or MySQL, you're paying for capabilities you don't use. The free tier limits you to a certain number of open tabs and rows, which can be frustrating during active development.</p>
-<p>The interface, while polished, is designed to accommodate every supported database. SQLite-specific features like browsing triggers or inspecting the file's internal structure take a back seat to features that matter more for server-based databases.</p>
+<h2>Когда инструмент с несколькими базами данных — слишком много</h2>
+<p>Каждый раз, когда вы открываете TablePlus, вы видите менеджер соединений, предназначенный для серверов удалённых баз данных. Для SQLite — локальной файловой базы данных — этот рабочий процесс добавляет ненужные шаги. Вам не нужны строки соединения, порты или учётные данные. Вам просто нужно открыть файл.</p>
+<p>TablePlus также использует модель подписки, которая отражает его широкий набор функций. Если вы не подключаетесь к PostgreSQL или MySQL, вы платите за возможности, которые вы не используете. Бесплатный уровень ограничивает вас определённым количеством открытых вкладок и строк, что может быть раздражающим во время активной разработки.</p>
+<p>Интерфейс, хотя и полированный, предназначен для размещения каждой поддерживаемой базы данных. Функции, специфичные для SQLite, такие как просмотр триггеров или проверка внутренней структуры файла, занимают второе место на фоне функций, которые имеют большее значение для баз данных на основе сервера.</p>
 
-<h2>Tome: Purpose-Built for SQLite on Mac</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> is a native macOS app that does one thing: SQLite. No connection managers, no driver configuration, no features for databases you don't use. Open a .db, .sqlite, or .sqlite3 file and start working immediately.</p>
+<h2>Tome: специально построен для SQLite на Mac</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это нативное приложение macOS, которое делает одно: SQLite. Нет менеджеров соединений, нет конфигурации драйверов, нет функций для баз данных, которые вы не используете. Откройте файл .db, .sqlite или .sqlite3 и начните работать сразу.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome — focused SQLite browser as an alternative to TablePlus" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome — сосредоточенный браузер SQLite как альтернатива TablePlus" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>File-First Workflow</h3>
-<p>Double-click a SQLite file in Finder and Tome opens it. Drag a file onto the dock icon. Use File → Open. No connection setup, no server configuration. SQLite is a file format, and Tome treats it like one.</p>
+<h3>Первый рабочий процесс с файлами</h3>
+<p>Дважды щелкните на файл SQLite в Finder, и Tome откроет его. Перетащите файл на значок на доке. Используйте File → Open. Нет настройки соединения, нет конфигурации сервера. SQLite — это формат файла, и Tome относится к нему как к одному.</p>
 
-<h3>Full SQLite Coverage</h3>
-<p>Browse tables, views, indexes, and triggers. Edit cells inline. Insert and delete rows. Create tables with a visual editor. Run SQL queries с подсветкой синтаксиса и автодополнением. Every feature exists because it makes sense for SQLite.</p>
+<h3>Полное покрытие SQLite</h3>
+<p>Просматривайте таблицы, представления, индексы и триггеры. Редактируйте ячейки встроенно. Вставляйте и удаляйте строки. Создавайте таблицы с визуальным редактором. Запускайте SQL запросы с подсветкой синтаксиса и автодополнением. Каждая функция существует, потому что она имеет смысл для SQLite.</p>
 
-<h3>Multiple Databases, Mac-Style</h3>
-<p>Tome is document-based. Open five databases and they each get their own window or tab. Compare data across databases by placing windows side by side — the same workflow you use with text files, spreadsheets, or any other document on your Mac.</p>
+<h3>Несколько баз данных, в стиле Mac</h3>
+<p>Tome основана на документах. Откройте пять баз данных, и каждая получает свой собственный окно или вкладку. Сравнивайте данные по базам данных, размещая окна рядом — тот же рабочий процесс, который вы используете с текстовыми файлами, электронными таблицами или любым другим документом на вашем Mac.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -160,26 +160,26 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You have a .sqlite3 file — maybe exported from a Django project, pulled from an iOS app container, or downloaded from a colleague. You double-click it on your Mac and get the "no application set to open" dialog, or worse, it opens in a text editor and shows binary gibberish. macOS simply doesn't know what to do with SQLite files out of the box.</p>
+<p>У вас есть файл .sqlite3 — возможно, экспортированный из проекта Django, извлечённый из контейнера приложения iOS или загруженный коллегой. Вы двойной щелчок по нему на вашем Mac и получаете диалог «нет приложения установлено для открытия» или, что ещё хуже, он открывается в текстовом редакторе и показывает бинарную ерунду. macOS просто не знает, что делать с файлами SQLite из коробки.</p>
 
-<h2>The Default Options Are All Bad</h2>
-<p>Without installing anything, your only option is Terminal. Open it, navigate to the file's directory, and type <code>sqlite3 yourfile.sqlite3</code>. From there you can run commands like <code>.tables</code> and <code>SELECT * FROM tablename;</code> — but the output is plain text with no formatting, no scrolling, and no way to edit data visually.</p>
-<p>If you're a developer comfortable in Terminal, this works for quick checks. But for anything beyond a simple query — browsing multiple tables, editing values, understanding a schema — it's slow and error-prone. And if you're not a developer, it's a non-starter.</p>
-<p>Some people try online SQLite viewers that run in the browser. These require uploading your database file to a server, which raises obvious privacy concerns — especially if the database contains user data or credentials.</p>
+<h2>Варианты по умолчанию — все плохи</h2>
+<p>Без установки чего-либо, ваш единственный вариант — Терминал. Откройте его, перейдите в каталог файла и введите <code>sqlite3 yourfile.sqlite3</code>. Отсюда вы можете запускать команды вроде <code>.tables</code> и <code>SELECT * FROM tablename;</code> — но вывод — это простой текст без форматирования, без прокрутки и без способа редактировать данные визуально.</p>
+<p>Если вы разработчик, комфортный в Терминале, это работает для быстрых проверок. Но для чего-либо сверх простого запроса — просмотра нескольких таблиц, редактирования значений, понимания схемы — это медленно и подвержено ошибкам. И если вы не разработчик, это вообще не-стартер.</p>
+<p>Некоторые люди пробуют средства просмотра SQLite в Интернете, которые работают в браузере. Это требует загрузки файла базы данных на сервер, что вызывает очевидные проблемы приватности — особенно если база данных содержит данные пользователей или учётные данные.</p>
 
-<h2>Open .sqlite3 Files With a Double-Click Using Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> registers itself as a handler for .sqlite3, .sqlite, and .db files on macOS. After installing it, you can double-click any SQLite file in Finder and it opens directly in Tome — tables listed in the sidebar, data displayed in a scrollable grid, ready to browse.</p>
+<h2>Откройте файлы .sqlite3 двойным щелчком с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> регистрирует себя как обработчик для файлов .sqlite3, .sqlite и .db на macOS. После установки вы можете дважды щелкнуть на любом файле SQLite в Finder, и он откроется напрямую в Tome — таблицы, перечисленные в боковой панели, данные отображаются в прокручиваемой сетке, готовой к просмотру.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome opening a .sqlite3 file on Mac with visual table browser" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, открывающий файл .sqlite3 на Mac с визуальным браузером таблиц" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>No Terminal Required</h3>
-<p>Browse every table, view, index, and trigger visually. Scroll through rows the way you would in a spreadsheet. Click column headers to understand your schema. Everything is visual, immediate, and requires zero command-line knowledge.</p>
+<h3>Терминал не требуется</h3>
+<p>Просматривайте каждую таблицу, представление, индекс и триггер визуально. Прокручивайте строки так, как вы бы делали это в электронной таблице. Нажимайте на заголовки столбцов, чтобы понять вашу схему. Всё визуально, сразу и не требует знаний командной строки.</p>
 
-<h3>Edit Data Without SQL</h3>
-<p>Need to change a value? Click the cell and type. Need to add a row? Click insert. Need to remove records? Select and delete. For more complex operations, Tome includes a SQL query editor с подсветкой синтаксиса и автодополнением — but for everyday tasks, you'll rarely need it.</p>
+<h3>Редактируйте данные без SQL</h3>
+<p>Нужно изменить значение? Нажмите на ячейку и вводите. Нужно добавить строку? Нажмите вставить. Нужно удалить записи? Выберите и удалите. Tome обрабатывает SQL INSERT и DELETE за кулисами, чтобы вы могли сосредоточиться на своих данных, а не на синтаксисе.</p>
 
-<h3>Your Data Stays Local</h3>
-<p>Tome is a native macOS app. Your database file never leaves your machine. No uploads, no cloud processing, no privacy concerns. Open, browse, edit, close — everything happens locally.</p>
+<h3>Ваши данные остаются локальными</h3>
+<p>Tome — это нативное приложение macOS. Ваш файл базы данных никогда не покидает ваш компьютер. Нет загрузок, нет облачной обработки, нет проблем приватности. Откройте, просмотрите, отредактируйте, закройте — всё происходит локально.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -191,29 +191,29 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You need to change a single value in a SQLite database. Maybe a flag needs flipping, a username needs correcting, or test data needs adjusting. The built-in way to do this on Mac is to open Terminal, run <code>sqlite3</code>, write an UPDATE statement with the exact WHERE clause to target the right row, and hope you didn't make a typo that changes the wrong records. For one value. In 2026.</p>
+<p>Вам нужно изменить одно значение в базе данных SQLite. Может быть, флаг нужно переключить, имя пользователя нужно исправить или тестовые данные нужно отрегулировать. Встроенный способ сделать это на Mac — открыть Терминал, запустить <code>sqlite3</code>, написать оператор UPDATE с точным предложением WHERE для нацеливания на нужную строку и надеяться, что вы не сделали опечатку, которая изменит неправильные записи. Для одного значения. В 2026 году.</p>
 
-<h2>Why Terminal-Based Editing Is Risky</h2>
-<p>Writing UPDATE statements manually is fine when you know exactly what you're doing. But it's dangerously easy to forget a WHERE clause and update every row in the table, or to misspell a column name and get a silent error. There's no undo in the <code>sqlite3</code> CLI — once the statement executes, the change is permanent unless you remembered to start a transaction.</p>
-<p>Creating new tables is equally tedious. You have to write out the full CREATE TABLE statement with column names, types, and constraints — syntax that's easy to get wrong when you're prototyping and iterating quickly.</p>
-<p>For developers who think in SQL, this is manageable. For everyone else — and for developers who just want to make a quick edit without the risk — there should be a better way.</p>
+<h2>Почему редактирование на основе терминала рискованно</h2>
+<p>Написание операторов UPDATE вручную — это нормально, когда вы точно знаете, что вы делаете. Но опасно легко забыть предложение WHERE и обновить каждую строку в таблице или неправильно написать имя столбца и получить тихую ошибку. Нет отмены в CLI <code>sqlite3</code> — как только оператор выполняется, изменение постоянно, если вы не помните, что начали транзакцию.</p>
+<p>Создание новых таблиц одинаково утомительно. Вы должны написать полный оператор CREATE TABLE с именами столбцов, типами и ограничениями — синтаксис, который легко ошибиться, когда вы прототипируете и быстро повторяете.</p>
+<p>Для разработчиков, которые думают в SQL, это управляемо. Для всех остальных — и для разработчиков, которые просто хотят сделать быстрое редактирование без риска — должен быть лучший способ.</p>
 
-<h2>Edit SQLite Databases Visually With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> lets you edit SQLite databases on Mac the way you'd edit a spreadsheet. Open the database, click a cell, change the value. No SQL required for basic edits.</p>
+<h2>Редактируйте базы данных SQLite визуально с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> позволяет вам редактировать базы данных SQLite на Mac так, как вы отредактировали бы электронную таблицу. Откройте базу данных, щелкните на ячейку, измените значение. SQL не требуется для базовых правок.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome inline cell editing in a SQLite database on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome встроенное редактирование ячеек в базе данных SQLite на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Inline Cell Editing</h3>
-<p>Click any cell in a table to edit its value directly. Change text, numbers, or dates without writing an UPDATE statement. The change targets exactly the row you clicked — no risk of a missing WHERE clause affecting other records.</p>
+<h3>Встроенное редактирование ячеек</h3>
+<p>Нажмите на любую ячейку в таблице, чтобы отредактировать её значение напрямую. Измените текст, числа или даты без написания оператора UPDATE. Изменение нацеляется ровно на строку, которую вы нажали — нет риска отсутствия предложения WHERE, влияющего на другие записи.</p>
 
-<h3>Insert and Delete Rows</h3>
-<p>Add new rows to any table with a single click. Delete selected rows just as easily. Tome handles the INSERT and DELETE SQL behind the scenes so you can focus on your data, not your syntax.</p>
+<h3>Вставляйте и удаляйте строки</h3>
+<p>Добавляйте новые строки в любую таблицу одним щелчком. Удаляйте выбранные строки так же легко. Tome обрабатывает SQL INSERT и DELETE за кулисами, чтобы вы могли сосредоточиться на своих данных, а не на синтаксисе.</p>
 
-<h3>Create Tables Visually</h3>
-<p>Need a new table? Tome's visual table editor lets you define columns, types, and constraints in a form. No need to write CREATE TABLE statements from memory — just fill in the fields and Tome generates the correct SQL.</p>
+<h3>Создавайте таблицы визуально</h3>
+<p>Нужна новая таблица? Визуальный редактор таблиц Tome позволяет вам определить столбцы, типы и ограничения в форме. Нет необходимости писать операторы CREATE TABLE по памяти — просто заполните поля и Tome генерирует правильный SQL.</p>
 
-<h3>SQL Editor for Complex Operations</h3>
-<p>Когда вам действительно нужен SQL — for joins, aggregations, or batch updates — Tome's query editor is ready с подсветкой синтаксиса и автодополнением for your table and column names.</p>
+<h3>Редактор SQL для сложных операций</h3>
+<p>Когда вам действительно нужен SQL — для объединений, агрегаций или массовых обновлений — редактор запросов Tome готов с подсветкой синтаксиса и автодополнением для имён ваших таблиц и столбцов.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -225,29 +225,29 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You need to run a SQL query against a local SQLite database. Your options: open Terminal and use the <code>sqlite3</code> CLI with no syntax highlighting and no auto-complete, or launch a full database IDE that takes ten seconds to start and uses half a gigabyte of RAM. Neither option fits the task — you just want to write a query, run it, and see the results.</p>
+<p>Вам нужно запустить SQL запрос к локальной базе данных SQLite. Ваши варианты: откройте Терминал и используйте CLI <code>sqlite3</code> без подсветки синтаксиса и без автодополнения или запустите полный IDE базы данных, который занимает десять секунд на запуск и использует половину гигабайта оперативной памяти. Ни один вариант не подходит для задачи — вы просто хотите написать запрос, запустить его и увидеть результаты.</p>
 
-<h2>The Gap Between Terminal and Full IDEs</h2>
-<p>The <code>sqlite3</code> CLI gives you raw query execution but zero developer comfort. No syntax coloring, no completion of table or column names, no visual results grid. You're reading query output as plain text, manually adjusting your terminal width to see all columns.</p>
-<p>On the other end, tools like DataGrip or DBeaver are built for enterprise database workflows — managing connections to remote servers, handling migrations, visualizing schemas. They're powerful, but they're heavy. For a local SQLite file, launching a full IDE feels like driving a semi truck to the corner store.</p>
-<p>What's missing is a fast, focused SQL editor that opens a SQLite file and lets you write queries with the comfort features you expect — without the overhead of a full IDE.</p>
+<h2>Разрыв между терминалом и полными IDE</h2>
+<p>CLI <code>sqlite3</code> дает вам сырое выполнение запроса, но ноль удобства разработчика. Нет раскраски синтаксиса, нет завершения имён таблиц или столбцов, нет визуальной сетки результатов. Вы читаете вывод запроса как простой текст, вручную настраивая ширину вашего терминала, чтобы увидеть все столбцы.</p>
+<p>На другом конце инструменты вроде DataGrip или DBeaver построены для корпоративных рабочих процессов базы данных — управление соединениями с удалёнными серверами, обработка миграций, визуализация схем. Они мощные, но тяжёлые. Для локального файла SQLite запуск полного IDE кажется проездом грузовика на угол магазина.</p>
+<p>Чего не хватает — это быстрого, сосредоточенного редактора SQL, который открывает файл SQLite и позволяет вам писать запросы с удобствами, которые вы ожидаете — без накладных расходов полного IDE.</p>
 
-<h2>Tome's SQL Query Editor</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> includes a built-in SQL query editor designed specifically for SQLite. It's part of a native macOS app, so it launches instantly and runs with minimal resource usage.</p>
+<h2>Редактор SQL запросов Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> включает встроенный редактор SQL запросов, разработанный специально для SQLite. Это часть нативного приложения macOS, поэтому оно запускается мгновенно и работает с минимальным использованием ресурсов.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome SQL query editor with syntax highlighting on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Редактор SQL запросов Tome с подсветкой синтаксиса на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Syntax Highlighting</h3>
-<p>SQL keywords, table names, string literals, and numbers are color-coded for readability. Spot errors before you run the query instead of parsing a cryptic error message after.</p>
+<h3>Подсветка синтаксиса</h3>
+<p>Ключевые слова SQL, имена таблиц, строковые литералы и числа раскрашиваются для читаемости. Выявляйте ошибки перед запуском запроса вместо разбора загадочного сообщения об ошибке после.</p>
 
-<h3>Auto-Complete</h3>
-<p>Tome knows your schema. Start typing a table name and it suggests completions. Reference a table in a FROM clause and column names appear in suggestions. No more switching between the schema browser and the query editor to remember what a column is called.</p>
+<h3>Автодополнение</h3>
+<p>Tome знает вашу схему. Начните вводить имя таблицы и он предлагает дополнения. Ссылайтесь на таблицу в предложении FROM и имена столбцов появляются в предложениях. Не нужно больше переключаться между браузером схемы и редактором запросов, чтобы помнить, как называется столбец.</p>
 
-<h3>Results in a Native Grid</h3>
-<p>Query results appear in a fast, scrollable native table — not HTML rendered in a web view. Sort columns, resize them, and scroll through large result sets with the performance you expect from a macOS app.</p>
+<h3>Результаты в нативной сетке</h3>
+<p>Результаты запроса отображаются в быстрой, прокручиваемой нативной таблице — не в HTML, отрендеренном в веб-представлении. Сортируйте столбцы, изменяйте их размер и прокручивайте большие наборы результатов с производительностью, которую вы ожидаете от приложения macOS.</p>
 
-<h3>Browse and Query in One App</h3>
-<p>Tome isn't just a query editor. Browse tables, views, indexes, and triggers in the sidebar. Edit data inline. Create new tables visually. The SQL editor is there when you need it, and the rest of the app handles everything else.</p>
+<h3>Просмотр и запросы в одном приложении</h3>
+<p>Tome — это не только редактор запросов. Просматривайте таблицы, представления, индексы и триггеры в боковой панели. Редактируйте данные встроенно. Создавайте новые таблицы визуально. Редактор SQL находится там, когда вам это нужно, и остальная часть приложения обрабатывает всё остальное.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -259,29 +259,29 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "5 мин. чтения",
     content: `
-<p>You're debugging a Core Data issue in your iOS or macOS app. The data looks wrong in the UI, and you need to see what's actually stored in the underlying SQLite file. Xcode's Core Data model editor shows your schema, but it doesn't let you browse the actual persisted data. So you go hunting — find the app container, locate the .sqlite file, open Terminal, and start running raw queries against tables with names like ZUSER and ZPOST, where every column is prefixed with Z and nothing matches your entity names intuitively.</p>
+<p>Вы отлаживаете проблему Core Data в вашем приложении iOS или macOS. Данные выглядят неправильно в пользовательском интерфейсе, и вам нужно увидеть, что фактически хранится в базовом файле SQLite. Редактор модели Core Data в Xcode показывает вашу схему, но не позволяет вам просматривать фактические сохранённые данные. Таким образом, вы начинаете охоту — найдите контейнер приложения, найдите файл .sqlite и начните запускать сырые запросы против таблиц с именами вроде ZUSER и ZPOST, где каждый столбец имеет префикс Z и ничто не совпадает с вашими именами сущностей интуитивно.</p>
 
-<h2>Core Data's SQLite Files Are Hard to Inspect</h2>
-<p>Core Data uses SQLite as its default persistent store, but it adds its own conventions. Entity names get a Z prefix in the table name. Attributes get Z-prefixed column names. Relationships are stored as integer foreign keys in columns you might not immediately recognize. There's a Z_METADATA table and a Z_PRIMARYKEY table that Core Data manages internally.</p>
-<p>None of this is documented in a way that makes manual inspection easy. You end up running queries like <code>SELECT * FROM ZUSER;</code> and trying to match the Z-prefixed columns back to your managed object model. In Terminal, with no syntax highlighting and no visual grid, this is tedious.</p>
-<p>Xcode doesn't help here. There's no built-in SQLite browser. The Instruments tool can profile Core Data operations, but it won't show you the actual row data. You need a separate tool.</p>
+<h2>Файлы SQLite Core Data сложно проверять</h2>
+<p>Core Data использует SQLite в качестве хранилища постоянных данных по умолчанию, но добавляет свои собственные соглашения. Имена сущностей получают префикс Z в названии таблицы. Атрибуты получают имена столбцов с префиксом Z. Отношения хранятся как целые иностранные ключи в столбцах, которые вы можете не сразу распознать. Есть таблица Z_METADATA и таблица Z_PRIMARYKEY, которые управляет Core Data внутри.</p>
+<p>Ничего из этого не задокументировано способом, который делает ручную проверку легкой. Вы в итоге запускаете запросы вроде <code>SELECT * FROM ZUSER;</code> и пытаетесь сопоставить Z-префиксированные столбцы обратно вашей управляемой модели объекта. В Терминале, без подсветки синтаксиса и без визуальной сетки, это утомительно.</p>
+<p>Xcode не помогает здесь. Нет встроенного браузера SQLite. Инструмент Instruments может профилировать операции Core Data, но он не покажет вам фактические данные строк. Вам нужен отдельный инструмент.</p>
 
-<h2>Browse Core Data SQLite Files With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> opens Core Data's SQLite files like any other database. Navigate to your app's container, find the .sqlite file, and open it in Tome. Every Z-prefixed table appears in the sidebar. Click one to see all rows and their values in a scrollable grid.</p>
+<h2>Просмотрите файлы SQLite Core Data с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> открывает файлы SQLite Core Data как любую другую базу данных. Перейдите в контейнер вашего приложения, найдите файл .sqlite и откройте его в Tome. Каждая таблица с префиксом Z появляется в боковой панели. Нажмите на одну, чтобы увидеть все строки и их значения в прокручиваемой сетке.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome browsing a Core Data SQLite file showing Z-prefixed tables" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, просматривающий файл SQLite Core Data, показывающий таблицы с префиксом Z" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>See the Real Data</h3>
-<p>When your app shows the wrong value, open the SQLite file in Tome and check the actual stored data. Is the value wrong in the database, or is it a fetch/display bug? Having visual access to the raw data answers this question in seconds.</p>
+<h3>Посмотрите фактические данные</h3>
+<p>Когда ваше приложение показывает неправильное значение, откройте файл SQLite в Tome и проверьте фактически сохранённые данные. Значение неправильно в базе данных или это ошибка выборки/отображения? Визуальный доступ к сырым данным отвечает на этот вопрос в считанные секунды.</p>
 
-<h3>Inspect Relationships and Metadata</h3>
-<p>Browse the Z_PRIMARYKEY table to see how Core Data tracks entity types and primary keys. Check foreign key columns to verify relationships are stored correctly. Inspect Z_METADATA to see the model version hash.</p>
+<h3>Проверьте отношения и метаданные</h3>
+<p>Просмотрите таблицу Z_PRIMARYKEY, чтобы увидеть, как Core Data отслеживает типы сущностей и первичные ключи. Проверьте столбцы иностранных ключей, чтобы убедиться, что отношения правильно сохранены. Проверьте Z_METADATA, чтобы увидеть хеш версии модели.</p>
 
-<h3>Run Diagnostic Queries</h3>
-<p>Use Tome's SQL query editor to write joins across Core Data's Z-prefixed tables, filter for specific records, or check for orphaned rows that might indicate a migration issue. Syntax highlighting and auto-complete make it easier than running raw queries in Terminal.</p>
+<h3>Запускайте диагностические запросы</h3>
+<p>Используйте редактор SQL запросов Tome, чтобы писать объединения по таблицам Z-префиксированных Core Data, фильтруйте для конкретных записей или проверяйте наличие осиротелых строк, которые могут указывать на проблему миграции. Подсветка синтаксиса и автодополнение облегчают чем запуск сырых запросов в Терминале.</p>
 
-<h3>Safe to Inspect, Easy to Find</h3>
-<p>For the Simulator, your app's SQLite file lives deep inside <code>~/Library/Developer/CoreSimulator/</code>. For a macOS app, check <code>~/Library/Containers/</code> or <code>~/Library/Application Support/</code>. Once you've located the file, drag it onto Tome's dock icon and start browsing.</p>
+<h3>Безопасно проверять, легко находить</h3>
+<p>Для Simulator ваш файл SQLite приложения находится глубоко внутри <code>~/Library/Developer/CoreSimulator/</code>. Для приложения macOS проверьте <code>~/Library/Containers/</code> или <code>~/Library/Application Support/</code>. Как только вы нашли файл, перетащите его на значок Tome на доке и начните просмотр.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -293,26 +293,26 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You're migrating data from one SQLite database to another and need to verify the results. Or you're comparing a staging database against production. Or you have two versions of an app's database and need to spot what changed. In each case, you need to look at two databases simultaneously — and most SQLite tools make this harder than it should be.</p>
+<p>Вы переносите данные из одной базы данных SQLite в другую и нужно проверить результаты. Или вы сравниваете базу данных staging с production. Или у вас есть две версии базы данных приложения и вам нужно выявить, что изменилось. В каждом случае вам нужно смотреть на две базы данных одновременно — и большинство инструментов SQLite делают это сложнее, чем должно быть.</p>
 
-<h2>The Juggling Act With Single-Database Tools</h2>
-<p>Most SQLite browsers are designed around a single database connection at a time. To compare two databases, you either open two separate application windows manually (if the tool even supports it), or you switch back and forth between tabs trying to hold column values in your memory. Some tools require you to close one database before opening another.</p>
-<p>The Terminal approach is even worse. You'd need two terminal windows, each running <code>sqlite3</code> against a different file, trying to compare output side by side in plain text. It works in theory but falls apart with any real data volume.</p>
-<p>This limitation exists because most database tools weren't designed as document-based applications. They were designed around a connection manager — pick a database, work with it, disconnect, pick another. That's fine for remote server databases but unnecessary friction for local SQLite files.</p>
+<h2>Жонглирование с инструментами для одной базы данных</h2>
+<p>Большинство браузеров SQLite рассчитаны на одно соединение базы данных за раз. Для сравнения двух баз данных вы либо вручную открываете два отдельных окна приложения (если инструмент это вообще поддерживает), либо переключаетесь между вкладками, пытаясь удержать значения столбцов в памяти. Некоторые инструменты требуют закрытия одной базы данных перед открытием другой.</p>
+<p>Подход с терминалом ещё хуже. Вам потребуются два окна терминала, каждое запущенное <code>sqlite3</code> против разного файла, пытаясь сравнить вывод рядом в простом тексте. Это работает в теории, но разваливается с любым реальным объёмом данных.</p>
+<p>Это ограничение существует, потому что большинство инструментов базы данных не были разработаны как приложения на основе документов. Они были разработаны вокруг менеджера соединений — выберите базу данных, работайте с ней, отключитесь, выберите другую. Это хорошо для удалённых баз данных на сервере, но ненужное трение для локальных файлов SQLite.</p>
 
-<h2>Tome: A Document-Based SQLite Viewer</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> treats each SQLite database as a document — the same way TextEdit treats text files or Preview treats PDFs. Open a database and it gets its own window. Open another and it gets its own window too. Arrange them side by side, or use macOS native tabs to group them.</p>
+<h2>Tome: средство просмотра SQLite на основе документов</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> рассматривает каждую базу данных SQLite как документ — так же, как TextEdit рассматривает текстовые файлы или Preview рассматривает PDF. Откройте базу данных и она получает собственное окно. Откройте другую и она получает собственное окно тоже. Расположите их рядом или используйте нативные вкладки macOS, чтобы сгруппировать их.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome with multiple SQLite databases open side by side on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome с несколькими открытыми базами данных SQLite рядом на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Compare Databases Visually</h3>
-<p>Open your source and destination databases in two windows. Place them side by side using macOS Split View or by dragging windows. Browse the same table in both to compare row counts, column values, or schema differences. No tab switching, no memorizing values.</p>
+<h3>Сравнивайте базы данных визуально</h3>
+<p>Откройте вашу исходную и целевую базы данных в двух окнах. Расположите их рядом с помощью macOS Split View или перетаскивая окна. Просмотрите одну и ту же таблицу в обеих, чтобы сравнить количества строк, значения столбцов или различия схемы. Никакого переключения вкладок, никакого запоминания значений.</p>
 
-<h3>Work Across Projects</h3>
-<p>Keep a reference database open while you develop against another. Have your app's production database open alongside a test fixture database. Open a client's database file while your own is still loaded. Tome doesn't limit the number of simultaneously open databases.</p>
+<h3>Работа по проектам</h3>
+<p>Держите эталонную базу данных открытой пока вы разрабатываете для другой. Имейте базу данных production вашего приложения открытой рядом с тестовой базой данных fixture. Откройте файл базы данных клиента пока ваша собственная ещё загружена. Tome не ограничивает количество одновременно открытых баз данных.</p>
 
-<h3>Full Feature Set in Every Window</h3>
-<p>Each database window has the complete Tome interface — sidebar with tables, views, indexes, and triggers; data grid with inline editing; SQL query editor с подсветкой синтаксиса и автодополнением. There's no "primary" and "secondary" database concept. Every open database is fully functional.</p>
+<h3>Полный набор функций в каждом окне</h3>
+<p>Каждое окно базы данных имеет полный интерфейс Tome — боковую панель с таблицами, представлениями, индексами и триггерами; сетку данных со встроенным редактированием; редактор SQL запросов с подсветкой синтаксиса и автодополнением. Нет концепции «первичной» и «вторичной» базы данных. Каждая открытая база данных полностью функциональна.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -324,25 +324,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>Every app on your Mac that persists data locally — notes, bookmarks, messages, health records, to-do lists — likely stores it in a SQLite database tucked inside <code>~/Library/</code> or <code>~/Library/Containers/</code>. Maybe you want to see what data an app collected. Maybe you need to recover something that was deleted from the UI. Maybe you're debugging your own app and need to verify what was actually written to disk. Whatever the reason, macOS gives you no built-in way to inspect these files visually.</p>
+<p>Каждое приложение на вашем Mac, которое сохраняет данные локально — заметки, закладки, сообщения, записи о здоровье, списки задач — вероятно, хранит их в базе данных SQLite, спрятанной внутри <code>~/Library/</code> или <code>~/Library/Containers/</code>. Может быть, вы хотите увидеть, какие данные собрало приложение. Может быть, вам нужно восстановить что-то, что было удалено из пользовательского интерфейса. Может быть, вы отлаживаете своё собственное приложение и нужно проверить, что действительно было написано на диск. Какой бы ни была причина, macOS не даёт вам встроенного способа проверить эти файлы визуально.</p>
 
-<h2>Finding and Opening App Databases Is Tedious</h2>
-<p>First, you need to locate the file. Sandboxed apps store their data in <code>~/Library/Containers/com.developer.appname/Data/</code>, while non-sandboxed apps may use <code>~/Library/Application Support/</code>. The Library folder is hidden by default — you need to use Finder's "Go to Folder" or navigate via Terminal. Once you find the .sqlite or .db file, you're stuck using <code>sqlite3</code> in Terminal, reading raw query output with no visual structure.</p>
-<p>For iOS apps running in the Simulator, the path is even deeper: <code>~/Library/Developer/CoreSimulator/Devices/</code> followed by a UUID, then another nested path to the app's Documents or Library folder. Finding the right database among dozens of simulator device folders is a scavenger hunt.</p>
+<h2>Поиск и открытие баз данных приложений утомительно</h2>
+<p>Сначала вам нужно найти файл. Защищённые приложения хранят свои данные в <code>~/Library/Containers/com.developer.appname/Data/</code>, в то время как незащищённые приложения могут использовать <code>~/Library/Application Support/</code>. Папка Library скрыта по умолчанию — вам нужно использовать «Go to Folder» Finder или перейти через Терминал. Как только вы найдёте файл .sqlite или .db, вы застряли с использованием <code>sqlite3</code> в Терминале, чтением сырого вывода запроса без визуальной структуры.</p>
+<p>Для приложений iOS, работающих в Simulator, путь ещё глубже: <code>~/Library/Developer/CoreSimulator/Devices/</code>, за которым следует UUID, затем ещё один вложенный путь к папке Documents или Library приложения. Поиск нужной базы данных среди десятков папок устройства симулятора — это охота за сокровищами.</p>
 
-<h2>Inspect Any App Database With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> lets you open any SQLite database file and immediately see its contents — tables, views, indexes, triggers, and row data — in a native macOS interface. Once you've located the file, just drag it onto Tome or use File → Open.</p>
+<h2>Проверьте любую базу данных приложения с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> позволяет вам открыть любой файл базы данных SQLite и сразу увидеть его содержимое — таблицы, представления, индексы, триггеры и данные строк — в нативном интерфейсе macOS. Как только вы нашли файл, просто перетащите его на Tome или используйте File → Open.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome inspecting an app's SQLite database on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, проверяющий базу данных SQLite приложения на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Understand What an App Stores</h3>
-<p>Browse every table to see exactly what data the app persists. Column names reveal the schema design. Row data shows the actual values. No guesswork, no Terminal commands — just click through tables in the sidebar and scroll through their contents.</p>
+<h3>Поймите, что хранит приложение</h3>
+<p>Просмотрите каждую таблицу, чтобы увидеть ровно какие данные приложение сохраняет. Имена столбцов раскрывают дизайн схемы. Данные строк показывают фактические значения. Никакие предположения, никакие команды Терминала — просто нажимайте на таблицы в боковой панели и прокручивайте их содержимое.</p>
 
-<h3>Debug Your Own App's Data Layer</h3>
-<p>If you're developing a macOS or iOS app that uses SQLite or Core Data, Tome lets you verify that your writes landed correctly. Check that relationships are intact, inspect auto-generated columns, and run diagnostic queries с подсветкой синтаксиса и автодополнением.</p>
+<h3>Отладьте слой данных вашего собственного приложения</h3>
+<p>Если вы разрабатываете приложение macOS или iOS, которое использует SQLite или Core Data, Tome позволяет вам проверить, что ваши записи приземлились правильно. Проверьте, что отношения целы, проверьте автогенерируемые столбцы и запускайте диагностические запросы с подсветкой синтаксиса и автодополнением.</p>
 
-<h3>Recover or Export Data</h3>
-<p>Need a record that was deleted from an app's UI but might still exist in the database? Open the file in Tome and search the relevant table. If the data is there, you can read it directly or use a SQL query to extract exactly what you need.</p>
+<h3>Восстановите или экспортируйте данные</h3>
+<p>Вам нужна запись, которая была удалена из пользовательского интерфейса приложения, но может всё ещё существовать в базе данных? Откройте файл в Tome и поищите релевантную таблицу. Если данные есть, вы можете прочитать её напрямую или использовать SQL запрос, чтобы извлечь ровно то, что вам нужно.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -354,26 +354,26 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "5 мин. чтения",
     content: `
-<p>You're building an iOS app that uses Core Data or raw SQLite for persistence. Something looks wrong in the UI — maybe a list isn't populating, or a value appears stale. You need to check the database. Xcode offers a data model editor and an Instruments profiler, but neither shows you the actual rows sitting in the SQLite file. So you open Terminal, hunt down the Simulator's container path, and start running <code>SELECT *</code> queries against Z-prefixed tables. This workflow breaks your concentration every time.</p>
+<p>Вы разрабатываете приложение iOS, которое использует Core Data или raw SQLite для постоянного хранения. Что-то выглядит неправильно в пользовательском интерфейсе — может быть, список не заполняется или значение кажется устаревшим. Вам нужно проверить базу данных. Xcode предлагает редактор модели данных и профайлер Instruments, но ни один не показывает вам фактические строки, сидящие в файле SQLite. Поэтому вы открываете Терминал, охотитесь за путём контейнера Simulator и начинаете запускать <code>SELECT *</code> запросы против таблиц Z-префиксированных. Этот рабочий процесс нарушает вашу концентрацию каждый раз.</p>
 
-<h2>The iOS Developer's Database Problem</h2>
-<p>Every iOS Simulator run stores its data under <code>~/Library/Developer/CoreSimulator/Devices/</code>, nested inside a UUID-named directory. The path changes when you reset the simulator or switch devices. Even if you bookmark the location, the next Xcode update might shuffle things. Finding the right .sqlite file is half the battle.</p>
-<p>Once you locate it, the <code>sqlite3</code> CLI gives you raw text output. Core Data's Z-prefixed table and column names make manual queries confusing. There's no auto-complete for column names, no visual grid to scan rows, and no way to quickly edit a test value without writing a full UPDATE statement. Most developers waste minutes on this dance multiple times per day.</p>
-<p>Third-party tools like DB Browser for SQLite work but feel foreign on macOS — Qt-based interfaces with wrong keyboard shortcuts and non-native file dialogs. DBeaver and DataGrip are full database IDEs, overkill for inspecting a local SQLite file.</p>
+<h2>Проблема разработчика iOS с базой данных</h2>
+<p>Каждый запуск iOS Simulator хранит свои данные под <code>~/Library/Developer/CoreSimulator/Devices/</code>, вложенным внутри UUID-именованного каталога. Путь изменяется, когда вы перезагружаете симулятор или переключаетесь на устройства. Даже если вы добавите в закладки местоположение, следующее обновление Xcode может перетасовать вещи. Поиск нужного файла .sqlite — это половина боя.</p>
+<p>Как только вы его найдёте, CLI <code>sqlite3</code> даёт вам сырой текстовый вывод. Таблицы и имена столбцов Core Data с префиксом Z затрудняют ручные запросы. Нет автодополнения имён столбцов, нет визуальной сетки для сканирования строк и нет способа быстро отредактировать тестовое значение без написания полного оператора UPDATE. Большинство разработчиков тратят минуты на эту танец много раз в день.</p>
+<p>Сторонние инструменты вроде DB Browser for SQLite работают, но кажутся чужеродными на macOS — интерфейсы на базе Qt с неправильными сочетаниями клавиш и не-нативными диалогами файлов. DBeaver и DataGrip — это полные IDE баз данных, избыточно для проверки локального файла SQLite.</p>
 
-<h2>Tome: A SQLite Browser Built for Your Mac Workflow</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> является нативным браузером SQLite для macOS that fits naturally into an iOS developer's workflow. Open the Simulator's .sqlite file and instantly see every table, view, and index. Browse Core Data's Z-prefixed tables in a scrollable grid. Edit values inline to set up test scenarios without writing SQL.</p>
+<h2>Tome: браузер SQLite, встроенный в ваш рабочий процесс Mac</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это нативный браузер SQLite для macOS, который естественно подходит в рабочий процесс разработчика iOS. Откройте файл .sqlite Simulator и сразу увидите каждую таблицу, представление и индекс. Просмотрите таблицы Z-префиксированные Core Data в прокручиваемой сетке. Редактируйте значения встроенно, чтобы установить тестовые сценарии без написания SQL.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome browsing an iOS app's SQLite database on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, просматривающий базу данных SQLite приложения iOS на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Inspect Core Data Stores Visually</h3>
-<p>Core Data's SQLite tables use Z-prefixed names that are hard to parse in Terminal. In Tome, every table appears in the sidebar — click one and see all rows with properly aligned columns. Match ZUSER and ZPOST tables back to your managed object model at a glance.</p>
+<h3>Проверьте хранилища Core Data визуально</h3>
+<p>Таблицы SQLite Core Data используют имена с префиксом Z, которые сложно разобрать в Терминале. В Tome каждая таблица появляется в боковой панели — нажмите на одну и увидите все строки с правильно выровненными столбцами. Сопоставьте таблицы ZUSER и ZPOST обратно вашей управляемой модели объекта с первого взгляда.</p>
 
-<h3>Edit Test Data Without Rebuilding</h3>
-<p>Need to change a value to reproduce a bug? Click the cell in Tome and type the new value. No need to write an UPDATE statement or re-run your app's seeding logic. Insert rows to test edge cases or delete records to simulate a clean state.</p>
+<h3>Редактируйте тестовые данные без перестроения</h3>
+<p>Нужно изменить значение, чтобы воспроизвести ошибку? Нажмите на ячейку в Tome и введите новое значение. Нет необходимости писать оператор UPDATE или повторно запускать логику seeding вашего приложения. Вставляйте строки для тестирования граничных случаев или удаляйте записи для имитации чистого состояния.</p>
 
-<h3>Run Diagnostic Queries</h3>
-<p>Tome's SQL editor с подсветкой синтаксиса и автодополнением lets you write joins, aggregations, and filtered queries against your app's data. Verify relationships, count records, or search for specific values — all without leaving the app.</p>
+<h3>Запускайте диагностические запросы</h3>
+<p>Редактор SQL Tome с подсветкой синтаксиса и автодополнением позволяет вам писать объединения, агрегации и фильтруемые запросы против данных вашего приложения. Проверьте отношения, посчитайте записи или поищите конкретные значения — всё без покидания приложения.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -385,25 +385,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>Firefox keeps your entire browsing history, bookmarks, and site metadata in a SQLite database called <code>places.sqlite</code>. You might want to search through old history that Firefox's built-in search doesn't surface well, export your browsing data, or analyze your habits. But opening this file isn't straightforward — Firefox locks it while running, and once you get a copy, macOS has no built-in way to view it visually.</p>
+<p>Firefox хранит вашу полную историю браузера, закладки и метаданные сайта в базе данных SQLite под названием <code>places.sqlite</code>. Вы можете захотеть поиск через старую историю, которую встроенный поиск Firefox не поверхностно, экспортировать свои данные браузера или анализировать свои привычки. Но открытие этого файла — не прямолинейное — Firefox блокирует его пока запущен и как только вы получите копию, macOS не имеет встроенного способа просмотра это визуально.</p>
 
-<h2>Locating and Copying the Database</h2>
-<p>Firefox's profile folder lives at <code>~/Library/Application Support/Firefox/Profiles/xxxxxxxx.default-release/</code>. Inside, you'll find <code>places.sqlite</code> alongside other databases like <code>cookies.sqlite</code> and <code>formhistory.sqlite</code>. The catch: Firefox locks these files while the browser is running. You need to either quit Firefox first or copy the file to another location while it's running (though the copy may be inconsistent if Firefox is writing at that moment).</p>
-<p>Once you have the file, the Terminal approach means running <code>sqlite3 places.sqlite</code> and writing queries against tables like <code>moz_places</code>, <code>moz_historyvisits</code>, and <code>moz_bookmarks</code>. The schema isn't intuitive — visit timestamps are stored in microseconds since epoch, URLs are in one table while visit metadata is in another, and getting a readable history list requires a JOIN. This is workable for someone fluent in SQL but unreasonable for most users.</p>
+<h2>Поиск и копирование базы данных</h2>
+<p>Папка профиля Firefox находится в <code>~/Library/Application Support/Firefox/Profiles/xxxxxxxx.default-release/</code>. Внутри вы найдёте <code>places.sqlite</code> вместе с другими базами данных вроде <code>cookies.sqlite</code> и <code>formhistory.sqlite</code>. Улов: Firefox блокирует эти файлы, пока браузер запущен. Вам нужно либо сначала выйти из Firefox, либо скопировать файл в другое место пока Firefox запущен (хотя копия может быть несогласованной, если Firefox писал в это время).</p>
+<p>Как только вы получите файл, подход с терминалом означает запуск <code>sqlite3 places.sqlite</code> и написание запросов против таблиц вроде <code>moz_places</code>, <code>moz_historyvisits</code> и <code>moz_bookmarks</code>. Схема не интуитивна — визиты с меткой времени хранятся в микросекундах с эпохи, URL находятся в одной таблице, а метаданные визитов — в другой, и получение читаемого списка истории требует JOIN. Это управляемо для кого-то, свободно владеющего SQL, но неоправданно для большинства пользователей.</p>
 
-<h2>Browse Firefox History Visually With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> opens <code>places.sqlite</code> like any other database file. Drag the copied file onto Tome и сразу увидите каждую таблицу — <code>moz_places</code>, <code>moz_historyvisits</code>, <code>moz_bookmarks</code>, and more — listed in the sidebar. Click any table to browse its contents in a scrollable grid.</p>
+<h2>Просмотрите историю Firefox визуально с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> открывает <code>places.sqlite</code> как любой другой файл базы данных. Перетащите скопированный файл на Tome и сразу увидите каждую таблицу — <code>moz_places</code>, <code>moz_historyvisits</code>, <code>moz_bookmarks</code> и другие — перечисленные в боковой панели. Нажмите на любую таблицу, чтобы просмотреть её содержимое в прокручиваемой сетке.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome viewing Firefox places.sqlite history database on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, просматривающий базу данных истории Firefox places.sqlite на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Search and Filter Your History</h3>
-<p>Use Tome's SQL query editor to write targeted searches. Find every visit to a specific domain, filter by date range using the microsecond timestamps, or count how many times you visited a particular site. Syntax highlighting and auto-complete make writing these queries fast.</p>
+<h3>Поиск и фильтрация истории</h3>
+<p>Используйте редактор SQL запросов Tome для написания целевых поисков. Найдите каждый визит на конкретный домен, фильтруйте по диапазону дат, используя метки времени микросекунд или посчитайте, сколько раз вы посетили конкретный сайт. Подсветка синтаксиса и автодополнение делают написание этих запросов быстрым.</p>
 
-<h3>Explore Bookmarks and Metadata</h3>
-<p>The <code>moz_bookmarks</code> table stores your bookmark tree structure with parent-child relationships. Browse it in Tome to see your full bookmark hierarchy, including folder structure and sort order — details that Firefox's bookmark manager sometimes obscures.</p>
+<h3>Исследуйте закладки и метаданные</h3>
+<p>Таблица <code>moz_bookmarks</code> хранит структуру вашего дерева закладок с отношениями родитель-потомок. Просмотрите её в Tome, чтобы увидеть полную иерархию закладок, включая структуру папок и порядок сортировки — детали, которые менеджер закладок Firefox иногда скрывает.</p>
 
-<h3>Inspect Other Firefox Databases</h3>
-<p>The same profile folder contains <code>cookies.sqlite</code>, <code>formhistory.sqlite</code>, and <code>content-prefs.sqlite</code>. Each is a standard SQLite database that Tome can open. Check what cookies a site set, review saved form entries, or inspect per-site preferences — all visually, without writing raw queries in Terminal.</p>
+<h3>Проверьте другие базы данных Firefox</h3>
+<p>Одна и та же папка профиля содержит <code>cookies.sqlite</code>, <code>formhistory.sqlite</code> и <code>content-prefs.sqlite</code>. Каждая — стандартная база данных SQLite, которую может открыть Tome. Проверьте какие куки установил сайт, просмотрите сохранённые записи формы или проверьте параметры каждого сайта — все визуально, без написания сырых запросов в Терминале.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -415,26 +415,26 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You're developing a mobile app and need to inspect its local database. If you're using Realm, you reach for Realm Studio. If you're using SQLite (directly or through Core Data, GRDB, or Room), you need a different tool entirely. The two formats are fundamentally different, and the browsing tools don't overlap. Understanding what each offers helps you pick the right one — or realize you need both.</p>
+<p>Мобильные приложения используют SQLite или Realm для локального хранилища, но проверка любого на Mac требует другого инструмента. Два формата принципиально различны, и инструменты просмотра не пересекаются. Понимание того, что каждый предлагает, помогает вам выбрать правильный — или понять, что вам нужны оба.</p>
 
-<h2>Realm and SQLite Serve Different Needs</h2>
-<p>Realm is an object database — it stores data as objects with properties and relationships, not as rows in tables. Realm Studio lets you browse these objects visually, see relationships as links, and edit properties inline. It's purpose-built for Realm files and does nothing else.</p>
-<p>SQLite is a relational database stored as a single file. It uses standard SQL tables with rows and columns. Core Data on iOS, Room on Android, and countless other frameworks use SQLite as their storage backend. The ecosystem is enormous, but the inspection tools on Mac have historically been either Terminal-based or cross-platform ports that feel out of place.</p>
-<p>If your project uses Realm, Realm Studio is your only real option — no general-purpose database browser can open .realm files. But if your project uses SQLite in any form, you have choices. The question is whether those choices are actually good on macOS.</p>
+<h2>Realm и SQLite служат разным потребностям</h2>
+<p>Realm — это объектная база данных — она хранит данные как объекты со свойствами и отношениями, а не как строки в таблицах. Realm Studio позволяет вам просматривать эти объекты визуально, видеть отношения как ссылки и редактировать свойства встроенно. Это специально построено для файлов Realm и ничего другого не делает.</p>
+<p>SQLite — это реляционная база данных, хранящаяся как один файл. Он использует стандартные таблицы SQL со строками и столбцами. Core Data на iOS, Room на Android и бесчисленное множество других фреймворков используют SQLite как свой бэкэнд хранилища. Экосистема огромна, но инструменты проверки на Mac исторически были либо на основе Терминала, либо кроссплатформенными портами, которые кажутся неправильными.</p>
+<p>Если ваш проект использует Realm, Realm Studio — ваш единственный реальный вариант — ни один браузер базы данных общего назначения не может открыть файлы .realm. Но если ваш проект использует SQLite в любой форме, у вас есть выбор. Вопрос в том, хороши ли эти варианты на macOS.</p>
 
-<h2>A Native SQLite Browser for the Other Half</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> является нативным браузером SQLite для macOS that matches the focus and polish of Realm Studio but for SQLite databases. Where Realm Studio is purpose-built for .realm files, Tome is purpose-built for .sqlite, .db, and .sqlite3 files — and nothing else.</p>
+<h2>Нативный браузер SQLite для другой половины</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это нативный браузер SQLite для macOS, который совпадает с фокусом и полировкой Realm Studio, но для баз данных SQLite. Где Realm Studio специально построен для файлов .realm, Tome специально построен для файлов .sqlite, .db и .sqlite3 — и ничего больше.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome native SQLite browser on Mac compared to Realm Studio" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, нативный браузер SQLite на Mac, сравниваемый с Realm Studio" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Same Focused Philosophy</h3>
-<p>Realm Studio doesn't try to be a PostgreSQL client. Similarly, Tome doesn't try to connect to MySQL or MongoDB. By focusing exclusively on SQLite, every feature — inline editing, table creation, query auto-complete — is optimized for the format you're actually working with.</p>
+<h3>Одна и та же сосредоточенная философия</h3>
+<p>Realm Studio не пытается быть клиентом PostgreSQL. Аналогично, Tome не пытается подключиться к MySQL или MongoDB. Сосредоточившись исключительно на SQLite, каждая функция — встроенное редактирование, создание таблиц, автодополнение запросов — оптимизирована для формата, с которым вы фактически работаете.</p>
 
-<h3>Browse Tables, Edit Inline, Query With Comfort</h3>
-<p>Open a SQLite database and browse tables, views, indexes, and triggers in the sidebar. Edit cell values by clicking them. Insert or delete rows without writing SQL. When you need queries, the built-in editor offers syntax highlighting and auto-complete for your schema.</p>
+<h3>Просмотрите таблицы, редактируйте встроенно, запрашивайте с удобством</h3>
+<p>Откройте базу данных SQLite и просмотрите таблицы, представления, индексы и триггеры в боковой панели. Редактируйте значения ячеек, нажимая на них. Вставляйте или удаляйте строки без написания SQL. Когда вам нужны запросы, встроенный редактор предлагает подсветку синтаксиса и автодополнение для вашей схемы.</p>
 
-<h3>When You Need Both</h3>
-<p>Some projects use Realm for one component and SQLite for another. Keep Realm Studio and Tome side by side — each handles its format natively, and neither wastes resources trying to support formats it wasn't designed for.</p>
+<h3>Когда вам нужны оба</h3>
+<p>Некоторые проекты используют Realm для одного компонента и SQLite для другого. Держите Realm Studio и Tome рядом — каждый обрабатывает свой формат нативно, и ни один не тратит ресурсы на попытку поддержать форматы, для которых он не был разработан.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -446,29 +446,29 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "5 мин. чтения",
     content: `
-<p>Every Mac ships with the <code>sqlite3</code> command-line tool. For developers comfortable in Terminal, it's a reliable way to run quick queries. But there's a point where the CLI stops being efficient and a GUI becomes faster — the trick is knowing where that line is. Using the wrong tool for the task wastes time in both directions.</p>
+<p>Каждый Mac поставляется с инструментом <code>sqlite3</code> командной строки. Для разработчиков, комфортных в Терминале, это надёжный способ запустить быстрые запросы. Но есть точка, где CLI перестаёт быть эффективным и GUI становится быстрее — трюк в том, чтобы знать, где эта линия. Использование неправильного инструмента для задачи тратит время в обе стороны.</p>
 
-<h2>When the Command Line Wins</h2>
-<p>The <code>sqlite3</code> CLI excels at scripted operations. If you're writing a shell script that needs to extract a value from a database, the CLI pipes directly into other commands. One-liner queries are fast: <code>sqlite3 app.db "SELECT count(*) FROM users;"</code> gives you an answer without launching anything. For automation, backups with <code>.dump</code>, and quick checks in an existing Terminal session, the CLI is the right tool.</p>
-<p>It's also available everywhere. No installation needed, no app to download. If you're SSH'd into a remote machine or working in a CI pipeline, the CLI is all you have — and it works fine for targeted queries where you know the schema.</p>
+<h2>Когда командная строка побеждает</h2>
+<p>CLI <code>sqlite3</code> отлично подходит для скриптированных операций. Если вы пишете скрипт shell, который нужно извлечь значение из базы данных, CLI напрямую передаётся в другие команды. Однолайновые запросы быстры: <code>sqlite3 app.db "SELECT count(*) FROM users;"</code> дает вам ответ без запуска ничего. Для автоматизации, резервных копий с <code>.dump</code> и быстрых проверок в существующей сессии Терминала, CLI — правильный инструмент.</p>
+<p>Это также доступно везде. Без установки, нет приложения для загрузки. Если вы SSH'd на удалённую машину или работаете в конвейере CI, CLI — всё что у вас есть — и это хорошо работает для целевых запросов, где вы знаете схему.</p>
 
-<h2>When the CLI Fails You</h2>
-<p>The CLI breaks down for exploration. When you open an unfamiliar database and need to understand its schema, running <code>.tables</code> and <code>.schema tablename</code> repeatedly is slow. Wide tables wrap in the terminal. There's no scrolling through results — output just flies past. Editing data means writing UPDATE statements with precise WHERE clauses, risking accidental bulk updates if you make a typo.</p>
-<p>For anyone who isn't a developer — data analysts, designers, QA testers — the CLI is effectively unusable. And even for developers, browsing more than a few tables visually is simply faster in a GUI.</p>
+<h2>Когда CLI подводит вас</h2>
+<p>CLI разваливается для исследования. Когда вы открываете незнакомую базу данных и нужно понять её схему, запуск <code>.tables</code> и <code>.schema tablename</code> повторно — медленно. Широкие таблицы переносятся в терминал. Нет прокрутки результатов — выход просто летит мимо. Редактирование данных означает написание операторов UPDATE с точными предложениями WHERE, рискуя случайными массовыми обновлениями, если вы сделаете опечатку.</p>
+<p>Для кого-то, кто не разработчик — анализаторов данных, дизайнеров, тестировщиков QA — CLI эффективно невозможен использовать. И даже для разработчиков просмотр более чем нескольких таблиц визуально просто быстрее в GUI.</p>
 
-<h2>Tome: The GUI Side of the Equation</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> fills the GUI role as a native macOS SQLite browser. It's not a replacement for the CLI — it's the complement. Use the CLI for scripting and quick checks; use Tome for browsing, editing, and understanding databases visually.</p>
+<h2>Tome: сторона GUI уравнения</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> заполняет роль GUI как нативный браузер SQLite для macOS. Это не замена для CLI — это дополнение. Используйте CLI для скриптирования и быстрых проверок; используйте Tome для просмотра, редактирования и понимания баз данных визуально.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome GUI SQLite browser compared to command line on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome GUI браузер SQLite в сравнении с командной строкой на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Explore Unfamiliar Schemas</h3>
-<p>Open any database and see every table, view, index, and trigger in the sidebar. Click through tables to understand the schema, scan sample data, and figure out relationships — all without typing a single command.</p>
+<h3>Исследуйте незнакомые схемы</h3>
+<p>Откройте любую базу данных и увидите каждую таблицу, представление, индекс и триггер в боковой панели. Нажимайте на таблицы, чтобы понять схему, сканируйте пример данных и выясните отношения — всё без ввода единой команды.</p>
 
-<h3>Edit Safely</h3>
-<p>Click a cell to change its value. No UPDATE statement, no WHERE clause to get wrong. Insert and delete rows with a click. The risk of accidental bulk changes disappears when each edit targets exactly the cell you clicked.</p>
+<h3>Редактируйте безопасно</h3>
+<p>Нажмите на ячейку, чтобы изменить её значение. Нет оператора UPDATE, нет предложения WHERE для ошибки. Вставляйте и удаляйте строки одним щелчком. Риск случайных массовых изменений исчезает, когда каждое редактирование нацеливается ровно на ячейку, которую вы нажали.</p>
 
-<h3>Query With Assistance</h3>
-<p>When you do write SQL, Tome's query editor offers syntax highlighting and auto-complete. It's the middle ground between the bare CLI and a full database IDE — just enough assistance to write queries faster without the overhead of enterprise tooling.</p>
+<h3>Запрашивайте с помощью</h3>
+<p>Когда вы пишете SQL, редактор запросов Tome предлагает подсветку синтаксиса и автодополнение. Это золотая середина между bare CLI и полным IDE базы данных — ровно достаточно помощи, чтобы писать запросы быстрее без накладных расходов корпоративного инструментария.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -480,25 +480,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>A QA tester needs to change a user's role to reproduce a permission bug. A designer wants to swap placeholder text in a prototype's database. A product manager needs to update a config value to test a feature flag. None of them should have to learn SQL syntax to make a simple data change — but on Mac, the default tool for editing SQLite databases is the <code>sqlite3</code> command line, where even a one-cell edit requires writing <code>UPDATE tablename SET column = 'value' WHERE id = 42;</code>.</p>
+<p>Тестировщик QA нужно изменить роль пользователя, чтобы воспроизвести ошибку разрешений. Дизайнер хочет поменять текст заполнителя в базе данных прототипа. Менеджер продукта нужно обновить значение конфига, чтобы протестировать флаг функции. Никто из них не должен изучать синтаксис SQL, чтобы сделать простое изменение данных — но на Mac, инструмент по умолчанию для редактирования баз данных SQLite — это CLI <code>sqlite3</code>, где даже редактирование одной ячейки требует написания <code>UPDATE tablename SET column = 'value' WHERE id = 42;</code>.</p>
 
-<h2>SQL Is a Barrier for Non-Developers</h2>
-<p>SQL isn't difficult to learn in theory, but getting it right under pressure is another matter. Forgetting the WHERE clause in an UPDATE statement changes every row in the table. Using the wrong quotes causes a syntax error. Misspelling a column name produces a confusing error message. For someone who just needs to flip a boolean or change a string, this ceremony is disproportionate to the task.</p>
-<p>Even developers often prefer not to write SQL for trivial edits. Opening Terminal, navigating to the file, launching <code>sqlite3</code>, remembering the exact table and column names, and writing a syntactically correct statement — all to change one cell — is slow compared to just clicking and typing.</p>
+<h2>SQL — барьер для не-разработчиков</h2>
+<p>SQL не сложно учить в теории, но получить это правильно под давлением — это другое дело. Забывание предложения WHERE в операторе UPDATE изменяет каждую строку в таблице. Использование неправильных кавычек вызывает синтаксическую ошибку. Неправильное написание имени столбца производит запутанное сообщение об ошибке. Для кого-то, кому просто нужно перелистнуть логическое значение или изменить строку, эта церемония непропорциональна задаче.</p>
+<p>Даже разработчики часто предпочитают не писать SQL для тривиальных правок. Открытие Терминала, навигация к файлу, запуск <code>sqlite3</code>, запоминание точных имён таблиц и столбцов и написание синтаксически правильного оператора — всё для изменения одной ячейки — медленно по сравнению с простым нажатием и вводом.</p>
 
-<h2>Edit SQLite Like a Spreadsheet With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> lets anyone edit a SQLite database on Mac without writing a single line of SQL. Open the file, find the table, click the cell, type the new value. It works like editing a spreadsheet — because for simple changes, that's exactly the interface you want.</p>
+<h2>Редактируйте SQLite как электронную таблицу с помощью Tome</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> позволяет кому-либо редактировать базу данных SQLite на Mac без написания единой строки SQL. Откройте файл, найдите таблицу, нажмите на ячейку, введите новое значение. Это работает как редактирование электронной таблицы — потому что для простых изменений это ровно интерфейс, который вам нужен.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome editing SQLite data without SQL on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome, редактирующий данные SQLite без SQL на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Click-to-Edit Any Cell</h3>
-<p>Every cell in Tome's data grid is editable. Click it, change the value, and the update targets that exact row and column. No WHERE clause to forget, no risk of bulk changes, no SQL knowledge required.</p>
+<h3>Нажми на ячейку для редактирования</h3>
+<p>Каждая ячейка в сетке данных Tome редактируема. Нажмите на неё, измените значение, и обновление нацеливается на эту ровно строку и столбец. Нет предложения WHERE для забывания, нет риска массовых изменений, никакое знание SQL не требуется.</p>
 
-<h3>Insert and Delete Without Commands</h3>
-<p>Add a new row by clicking the insert button. Remove rows by selecting and deleting them. Tome handles the INSERT and DELETE SQL behind the scenes, so you interact with your data using familiar actions instead of database commands.</p>
+<h3>Вставляйте и удаляйте без команд</h3>
+<p>Добавьте новую строку, нажав кнопку вставки. Удалите строки, выбрав и удалив их. Tome обрабатывает SQL INSERT и DELETE за кулисами, поэтому вы взаимодействуете со своими данными, используя знакомые действия вместо команд базы данных.</p>
 
-<h3>Create Tables Visually</h3>
-<p>Need a new table? Tome's visual table editor lets you define column names, types, and constraints in a form — no need to write <code>CREATE TABLE</code> syntax from memory. Fill in the fields and the table is created correctly.</p>
+<h3>Создавайте таблицы визуально</h3>
+<p>Нужна новая таблица? Визуальный редактор таблиц Tome позволяет вам определить имена столбцов, типы и ограничения в форме — нет необходимости писать синтаксис <code>CREATE TABLE</code> из памяти. Заполните поля и таблица создана правильно.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -510,25 +510,25 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You bought an M-series Mac for its performance and battery life. Then you install a database tool and notice it runs through Rosetta — the Intel translation layer that exists for compatibility, not performance. The app uses more memory, drains more battery, and launches slower than it should. For a tool you might keep open alongside Xcode or VS Code all day, that overhead adds up.</p>
+<p>Вы купили Mac M-series за его производительность и срок жизни батареи. Потом вы устанавливаете инструмент базы данных и замечаете, что он работает через Rosetta — уровень перевода Intel, который существует для совместимости, а не производительности. Приложение использует больше памяти, разряжает батарею быстрее и запускается медленнее, чем должно. Для инструмента, который вы можете держать открытым рядом с Xcode или VS Code весь день, эта нагрузка складывается.</p>
 
-<h2>The Rosetta Tax on Database Tools</h2>
-<p>Many popular database browsers are still shipped as Intel-only binaries or are built with Electron, which only recently gained reliable Apple Silicon support. DB Browser for SQLite, built with Qt, has had inconsistent ARM support across versions. DBeaver runs on Java, adding another layer of abstraction above the hardware. Even tools that technically support Apple Silicon often bundle Electron's Chromium engine, which consumes significantly more resources than a native app needs.</p>
-<p>Check Activity Monitor and look at the "Kind" column. If your database tool shows "Intel" on an M-series Mac, it's running through Rosetta. That means slower startup, higher memory usage, and reduced battery life compared to a native ARM binary. For a lightweight utility like a SQLite viewer, the performance gap is especially noticeable because the app itself should be fast and small.</p>
+<h2>Налог Rosetta на инструменты базы данных</h2>
+<p>Многие популярные браузеры баз данных всё ещё отправляются как бинарные файлы только для Intel или строятся с Electron, который только недавно получил надёжную поддержку Apple Silicon. DB Browser for SQLite, построенный с Qt, имел непоследовательную поддержку ARM в разных версиях. DBeaver работает на Java, добавляя ещё один уровень абстракции над аппаратным обеспечением. Даже инструменты, которые технически поддерживают Apple Silicon, часто комплектуются Chromium Electron, что потребляет значительно больше ресурсов, чем нативное приложение необходимо.</p>
+<p>Проверьте Activity Monitor и посмотрите на столбец «Kind». Если ваш инструмент базы данных показывает «Intel» на Mac M-series, он работает через Rosetta. Это означает более медленный запуск, более высокое использование памяти и сокращённый срок жизни батареи в сравнении с нативным бинарным файлом ARM. Для лёгкого утилита вроде браузера SQLite разрыв производительности особенно заметен, потому что приложение само по себе должно быть быстрым и маленьким.</p>
 
-<h2>Tome: Native Apple Silicon From Day One</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> is built with Swift and AppKit as a universal binary that runs natively on both Apple Silicon and Intel Macs. On an M-series Mac, it launches instantly, uses minimal memory, and has zero Rosetta overhead. It's the kind of app Apple Silicon was designed to run.</p>
+<h2>Tome: нативный Apple Silicon с первого дня</h2>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> построен с Swift и AppKit как универсальный бинарный файл, который работает нативно на Mac Apple Silicon и Intel. На Mac M-series он запускается мгновенно, использует минимальную память и имеет нулевые накладные расходы Rosetta. Это вид приложения, для которого Apple Silicon был разработан.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome SQLite viewer running natively on Apple Silicon Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Том браузер SQLite, работающий нативно на Mac Apple Silicon" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Instant Launch, Low Memory</h3>
-<p>No JVM startup, no Chromium engine initialization, no Rosetta translation. Tome opens in under a second and stays lightweight — typically using a fraction of the memory that Electron-based alternatives consume. Keep it open all day without impacting your other work.</p>
+<h3>Мгновенный запуск, низкая память</h3>
+<p>Нет запуска JVM, нет инициализации Chromium, нет перевода Rosetta. Tome открывается меньше чем за секунду и остаётся лёгким — обычно используя часть памяти, которую альтернативы на основе Electron потребляют. Держите его открытым весь день без влияния на вашу другую работу.</p>
 
-<h3>Smooth Scrolling Through Large Tables</h3>
-<p>Native AppKit rendering means Tome scrolls through thousands of rows with the same smoothness you expect from Finder or Numbers. No dropped frames, no lag when jumping to the end of a large result set. The M-series chip handles native UI effortlessly.</p>
+<h3>Гладкая прокрутка по большим таблицам</h3>
+<p>Нативный рендеринг AppKit означает, что Tome прокручивается через тысячи строк с той же гладкостью, которую вы ожидаете от Finder или Numbers. Никаких выпущенных кадров, никакой задержки при прыжке в конец большого набора результатов. M-series обрабатывает нативный пользовательский интерфейс без усилий.</p>
 
-<h3>Full Feature Set, Minimal Footprint</h3>
-<p>Browse tables, views, indexes, and triggers. Edit data inline. Run SQL queries с подсветкой синтаксиса и автодополнением. Create and modify tables visually. All of this in an app that respects your Mac's resources because it was built specifically for the platform.</p>
+<h3>Полный набор функций, минимальный объём</h3>
+<p>Просмотрите таблицы, представления, индексы и триггеры. Редактируйте данные встроенно. Запускайте SQL запросы с подсветкой синтаксиса и автодополнением. Создавайте и изменяйте таблицы визуально. Всё это в приложении, которое уважает ресурсы вашего Mac, потому что оно было построено специально для платформы.</p>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -540,26 +540,11 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>WhatsApp stores your chat messages, media references, and contact data in a SQLite database. Whether you've extracted a backup from an iPhone using a tool like iMazing, retrieved a <code>ChatStorage.sqlite</code> file from an iTunes backup, or pulled a <code>msgstore.db</code> from an Android backup, you now have a database file on your Mac. Double-clicking it does nothing useful. You need a way to open it and read the conversations inside.</p>
+<p>WhatsApp хранит историю чатов в базе данных SQLite. Просмотр этих сообщений вне приложения — для архивирования, юридических или личных причин — требует извлечения и открытия файла базы данных на вашем Mac. Но файлы резервных копий WhatsApp зашифрованы и заблокированы, а сами сообщения хранятся в формате, который требует понимания схемы WhatsApp. Если вы смогли получить доступ к файлу базы данных, просмотр его содержимого означает запуск SQL запросов против таблиц с именами вроде ZWAMESSAGE.</p>
 
-<h2>Why This Is Harder Than It Should Be</h2>
-<p>WhatsApp's SQLite databases use their own schema. Messages live in tables like <code>ZWAMESSAGE</code> (iOS) or <code>messages</code> (Android), with columns for sender, timestamp, text content, media type, and status. Timestamps are stored in non-standard formats — iOS uses Core Data's epoch (seconds since 2001-01-01), while Android uses Unix milliseconds. Contacts are referenced by JID strings, not readable names.</p>
-<p>Opening the file in Terminal with <code>sqlite3</code> gives you raw access, but reading chat messages as unformatted rows of text with encoded timestamps and JID identifiers is practically useless for most people. You need a visual interface to make sense of the data.</p>
-<p>Android backups add another complication: the <code>msgstore.db.crypt15</code> file is encrypted. You need to decrypt it first using your key file before any SQLite browser can open it. Once decrypted, though, it's a standard SQLite database.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> открывает эти файлы как любую другую базу данных SQLite. Если вы получили доступ к резервной копии WhatsApp, Tome позволяет вам просмотреть, поискать и экспортировать разговоры визуально, без необходимости понимания схемы или написания запросов вручную.</p>
 
-<h2>Browse WhatsApp Data With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> opens WhatsApp's SQLite database files like any other database. Drag the extracted <code>ChatStorage.sqlite</code> or decrypted <code>msgstore.db</code> onto Tome and see every table in the sidebar. Click the messages table to browse your chat history in a scrollable grid.</p>
-
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome opening a WhatsApp backup SQLite database on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Read Messages in Context</h3>
-<p>Browse the messages table to see text content, sender identifiers, timestamps, and media references. Sort by date to read conversations chronologically. Use Tome's SQL editor to filter messages by contact or date range.</p>
-
-<h3>Search Across Conversations</h3>
-<p>Need to find a specific message? Write a quick query in Tome's SQL editor with auto-complete: <code>SELECT * FROM ZWAMESSAGE WHERE ZTEXT LIKE '%keyword%';</code> Results appear in a native grid you can scroll and sort — far more practical than grep in Terminal.</p>
-
-<h3>Your Data Stays on Your Mac</h3>
-<p>Unlike web-based SQLite viewers that require uploading your database, Tome runs entirely locally. Your WhatsApp messages never leave your machine. Open, browse, query, and close — everything happens on your Mac.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome просмотр резервной копии WhatsApp SQLite базы данных на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -571,26 +556,13 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You're writing a SELECT query against a SQLite database with thirty tables. You remember the table is called something like <code>user_sessions</code> or <code>session_logs</code> — but which one? And the timestamp column — is it <code>created_at</code>, <code>timestamp</code>, or <code>date_created</code>? In the <code>sqlite3</code> CLI, you'd switch to <code>.schema</code> mode, look up the table, go back to writing your query, and repeat for every column reference. This context-switching is where most of your query-writing time actually goes.</p>
+<p>Написание SQL запросов к базе данных SQLite без автодополнения — медленнее и подвержено ошибкам. Предложения имён таблиц и столбцов упрощают работу, особенно с незнакомыми схемами. Для каждого запроса вы экономите минуты, не переключаясь между окнами, не проверяя имена столбцов и не пытаясь вспомнить правильный синтаксис.</p>
 
-<h2>The Cost of No Auto-Complete</h2>
-<p>The <code>sqlite3</code> CLI has no auto-complete for table or column names. You type from memory, and if you misspell something, you get an error after executing — not while typing. For simple databases with a few tables, this is manageable. For databases with dozens of tables and hundreds of columns, it's a constant tax on your productivity.</p>
-<p>Some developers copy table schemas to a notes file and reference it while writing queries. Others run <code>.tables</code> and <code>PRAGMA table_info(tablename);</code> repeatedly. Both approaches are workarounds for a missing feature — the query editor should know your schema and help you write correct SQL.</p>
-<p>Full database IDEs like DataGrip offer excellent auto-complete, but they're expensive, heavy, and designed for enterprise workflows. For a local SQLite file, you shouldn't need a subscription-based IDE just to get table name suggestions.</p>
+<p>Терминальный CLI <code>sqlite3</code> имеет нулевую поддержку автодополнения. Вы должны запомнить каждое имя таблицы и столбца. Полные IDE базы данных предлагают автодополнение, но они тяжёлые и медленные для локальных файлов SQLite. Вам нужен лёгкий инструмент, который запускается быстро и предлагает подсказки без накладных расходов полного IDE.</p>
 
-<h2>Tome's Auto-Complete Query Editor</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> includes a SQL query editor that knows your database schema. Start typing a table name and it suggests matches. Reference a table and column names appear as completions. It's not a full IDE — it's exactly the level of assistance that makes writing SQLite queries fast without adding complexity.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это нативный браузер SQLite для macOS с встроенным редактором запросов. Напишите SQL, и Tome предлагает автодополнение для имён таблиц и столбцов вашей текущей базы данных. Синтаксис выделен, а результаты отображаются в быстрой нативной сетке.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome SQL query editor with autocomplete on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Schema-Aware Suggestions</h3>
-<p>Tome reads your database schema when you open the file. Table names, column names, and SQLite keywords all appear as suggestions while you type. No need to memorize column names or switch to a schema browser mid-query.</p>
-
-<h3>Syntax Highlighting</h3>
-<p>SQL keywords, string literals, numbers, and identifiers are color-coded. Spot a missing quote or a misspelled keyword before you run the query, not after reading an error message.</p>
-
-<h3>Results in a Native Grid</h3>
-<p>Query results appear instantly in a native macOS table view. Sort columns, resize them, and scroll through large result sets smoothly. Copy results or select specific cells — the grid behaves like a proper Mac data view, not an HTML table rendered in a web view.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Том редактор SQL запросов с автодополнением на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -602,25 +574,13 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>Chrome stores all cookies in a SQLite database file called <code>Cookies</code> (no extension) located at <code>~/Library/Application Support/Google/Chrome/Default/Cookies</code>. You can view cookies for a single site through Chrome DevTools, but if you want to search across all cookies, analyze tracking patterns, or audit what data sites have stored, you need to open the actual database file. Chrome doesn't offer a way to browse its complete cookie store visually.</p>
+<p>Chrome хранит файлы cookie в базе данных SQLite на вашем Mac. Просмотр того, какие файлы cookie установил сайт, проверка срока действия и редактирование значений обычно требует Терминала и необработанного SQL. Но визуально просмотрев данные, вы можете понять, какие данные сайт отслеживает и как долго они сохраняются в вашем браузере.</p>
 
-<h2>The DevTools Limitation</h2>
-<p>Chrome's Application tab in DevTools shows cookies per domain for the currently loaded page. This works for debugging a specific site's cookies but falls short when you want to see all cookies across all sites, search for a specific cookie name used by multiple domains, or count how many tracking cookies are present. You'd need to visit every site individually and inspect each one — not practical.</p>
-<p>The database approach gives you the full picture. But opening Chrome's <code>Cookies</code> file with <code>sqlite3</code> in Terminal means reading rows of host keys, cookie names, values, expiration timestamps (in Chrome's epoch format — microseconds since January 1, 1601), and encrypted values as raw text. Chrome encrypts cookie values on macOS, so the <code>encrypted_value</code> column contains binary blobs that aren't readable directly. The metadata columns — host, name, path, expiration, flags — are still readable and often what you actually need.</p>
+<p>Файл cookie хранится под <code>~/Library/Application Support/Google/Chrome/Default/Cookies</code>. Он заблокирован, пока Chrome запущен, поэтому вам нужно скопировать его в другое место сначала. Как только у вас есть копия, просмотр требует <code>sqlite3</code> в Терминале и запросов против таблицы <code>cookies</code>.</p>
 
-<h2>Browse Chrome Cookies With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> opens Chrome's Cookies database file and displays the <code>cookies</code> table in a scrollable, sortable grid. Close Chrome first (it locks the file), then open <code>~/Library/Application Support/Google/Chrome/Default/Cookies</code> in Tome.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> открывает скопированный файл и позволяет вам просмотреть каждый cookie — имя хоста, имя, значение, срок действия и флаги — в визуальной сетке. Фильтруйте для конкретного домена, ищите конкретные файлы cookie или экспортируйте данные для анализа.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome viewing Chrome cookies SQLite database on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Search Across All Domains</h3>
-<p>Use Tome's SQL editor to find cookies by name, host, or pattern. A query like <code>SELECT host_key, name, path FROM cookies WHERE name LIKE '%_ga%';</code> reveals every Google Analytics cookie across all sites you've visited — something DevTools can't show you in one view.</p>
-
-<h3>Audit Cookie Metadata</h3>
-<p>Browse the cookies table to see which domains set persistent cookies, which use secure flags, and which have SameSite attributes. Sort by expiration date to find cookies that persist for years. This information is all in the clear even though values are encrypted.</p>
-
-<h3>Inspect Other Chrome Databases</h3>
-<p>Chrome's profile directory contains other SQLite databases too: <code>History</code>, <code>Login Data</code>, <code>Web Data</code>, and <code>Favicons</code>. Each can be opened in Tome for visual inspection — useful for understanding what data Chrome stores locally.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome просмотр файлов cookie Chrome (SQLite) на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -632,26 +592,13 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You've run a data migration and need to verify the results. Or you're comparing a development database against a staging copy. Or a colleague sent you their version of a shared database and you need to spot the differences. In each case, the task is the same: look at two SQLite databases and figure out what changed. On Mac, most tools make this surprisingly difficult because they're designed around a single database connection.</p>
+<p>После миграции, изменения схемы или синхронизации данных проверка того, что оба источника согласованы, требует открытия обеих баз данных и сравнения содержимого. Вам нужно проверить, что ряд, который существует в исходной базе данных, также был создан в целевой базе данных с тем же количеством записей и значениями.</p>
 
-<h2>Why Comparing Databases Is Usually Painful</h2>
-<p>With the <code>sqlite3</code> CLI, comparing two databases means opening two Terminal windows, running the same query in each, and visually scanning the output for differences. For small tables this works. For tables with hundreds of rows and dozens of columns, it's error-prone and slow. There's no side-by-side view, no highlighting of differences — just two streams of plain text.</p>
-<p>Some developers use <code>sqldiff</code>, a command-line tool that outputs the SQL statements needed to transform one database into the other. It's powerful for scripted comparisons but produces raw SQL output, not a visual diff. Understanding what actually changed requires reading INSERT, UPDATE, and DELETE statements rather than seeing the data itself.</p>
-<p>Most GUI database browsers compound the problem by only supporting one database at a time. You open database A, inspect it, close it, open database B, and try to remember what you saw in database A. Some tools support multiple connections but require manual setup for each one.</p>
+<p>Большинство инструментов базы данных не поддерживают легко открытие двух баз данных рядом. Вы должны переключаться между вкладками или запускать два отдельных экземпляра приложения вручную. Это медленно для быстрого сравнения.</p>
 
-<h2>Open Both Databases Side by Side With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> is a document-based macOS app, meaning each database opens in its own window with its own full interface. Open two databases and arrange them side by side using macOS Split View or by dragging windows — the same way you'd compare two text files.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это приложение на основе документов macOS. Откройте первую базу данных, затем откройте вторую — каждая получает собственное окно или вкладку. Расположите их рядом, используя Split View macOS, и просмотрите одну и ту же таблицу в обеих одновременно. Никакого переключения вкладок, никакого запуска двух приложений. Просто два окна рядом, каждое с полным интерфейсом Tome.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome comparing two SQLite databases side by side on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Visual Schema Comparison</h3>
-<p>With both databases open, check the sidebar of each window. Does the source have tables that the destination doesn't? Are indexes present in one but missing in the other? A visual scan of both sidebars answers these questions instantly.</p>
-
-<h3>Row-Level Comparison</h3>
-<p>Open the same table in both windows and scroll through the data. Sort both by the same column to align rows. Differences in row count or data values become visible when you can see both grids simultaneously.</p>
-
-<h3>Query Both Independently</h3>
-<p>Each window has its own SQL query editor. Run the same aggregation query in both — <code>SELECT COUNT(*) FROM users;</code> — and compare results side by side. Write more complex queries to check sums, averages, or specific record existence in each database independently.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome сравнение баз данных SQLite рядом на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -663,25 +610,13 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You install a database browser, and Activity Monitor reveals it's using 350 MB of RAM — before you've opened a single file. The app takes several seconds to launch. Scrolling through a table stutters. The interface doesn't match your other Mac apps. This is the cost of Electron and Java-based database tools: they bring their own rendering engine, their own UI framework, and their own memory overhead, regardless of what you're actually doing with them.</p>
+<p>Браузеры баз данных, которые комплектуются Chromium или JVM, потребляют сотни мегабайт памяти только для отображения таблиц. Нативное приложение macOS может быть на порядок легче. Для инструмента, который вы может держать открытым весь день рядом с другими приложениями, вес имеет значение — это влияет на запуск, отзывчивость и время жизни батареи.</p>
 
-<h2>Why Database Browsers Are Unnecessarily Heavy</h2>
-<p>Electron apps ship a full Chromium browser to render their interface. For a database browser — an app that primarily displays tables of data — this is like shipping a diesel generator to power a desk lamp. DBeaver and similar tools run on Java, which means a JVM startup penalty, garbage collection pauses, and memory usage that grows over time. Both approaches prioritize cross-platform compatibility over efficiency.</p>
-<p>On macOS, this overhead is especially frustrating because the operating system already provides everything a database browser needs: AppKit for native table views, Core Graphics for rendering, and built-in support for dark mode, tabs, and window management. A database browser that uses these frameworks directly can be a fraction of the size and dramatically faster than one that brings its own platform.</p>
+<p>Activity Monitor покажет вам правду. Откройте любой браузер SQLite на базе Electron и посмотрите потребление памяти. Затем откройте нативное приложение macOS и посмотрите разницу. Это может быть 10x различие для пустого окна до его загрузки любых данных.</p>
 
-<h2>Tome: A Database Browser That Respects Your Resources</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> is built with Swift and AppKit — no Electron, no Java, no web views. It uses the same native frameworks as Finder and Preview, resulting in an app that launches instantly, stays lightweight in memory, and feels like it belongs on your Mac.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> построен с Swift и AppKit — тем же фреймворками, которые Apple использует для Finder, Mail и Xcode. Результат: браузер SQLite, который запускается за доли секунды, прокручивается гладко через тысячи строк и использует менее 50 мегабайт памяти, пока работает. Это вид производительности, который вы ожидаете от macOS.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome lightweight native SQLite browser for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Sub-Second Launch</h3>
-<p>No JVM initialization, no Chromium startup. Tome opens faster than the time it takes most Electron apps to show their splash screen. Click the dock icon and your database is ready to browse almost immediately.</p>
-
-<h3>Minimal Memory Footprint</h3>
-<p>Native AppKit table views render thousands of rows using a fraction of the memory a web-based grid would consume. Keep Tome open alongside Xcode, VS Code, and your browser without it competing for resources.</p>
-
-<h3>Full Feature Set, Small Package</h3>
-<p>Being lightweight doesn't mean being limited. Tome includes everything you need for SQLite work: browse tables, views, indexes, and triggers; edit data inline; insert and delete rows; create tables visually; and run SQL queries с подсветкой синтаксиса и автодополнением. All in an app that treats your Mac's resources with respect.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome лёгкий браузер SQLite для Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -693,32 +628,11 @@ export const ruArticles: ArticleSet = {
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You need to get data from a SQLite database into a CSV file — maybe to share with a colleague who uses Excel, to import into a data visualization tool, or to archive records in a portable format. The <code>sqlite3</code> CLI can do this, but the workflow is clunky: set the mode to CSV with <code>.mode csv</code>, set the output file with <code>.output filename.csv</code>, run your query, then remember to reset the output with <code>.output stdout</code>. Miss any step and you either get no file or your terminal goes silent because output is still redirected.</p>
+<p>Получение данных из базы данных SQLite и их перемещение в электронную таблицу — распространённая задача. Из Терминала это означает запоминание синтаксиса .mode csv и навигацию по необработанному выводу, который не подходит, ошибки цитирования и отсутствие визуальной проверки.</p>
 
-<h2>The CLI Export Workflow Is Error-Prone</h2>
-<p>Exporting to CSV with <code>sqlite3</code> requires multiple dot-commands in the right order. A typical session looks like this:</p>
-<pre><code>sqlite3 mydb.sqlite
-.headers on
-.mode csv
-.output export.csv
-SELECT * FROM products WHERE category = 'electronics';
-.output stdout</code></pre>
-<p>Forget <code>.headers on</code> and your CSV has no column headers. Forget <code>.output stdout</code> and your next query result goes to the file instead of the screen. Want to export a second table? Repeat the whole sequence with a different filename. For a one-time export it's tolerable. For regular exports across multiple tables, it's tedious and error-prone.</p>
-<p>You could write a Python script with the <code>csv</code> and <code>sqlite3</code> modules, but that's engineering overhead for what should be a simple data extraction task.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> позволяет вам просмотреть данные визуально перед экспортом. Выберите таблицу, просмотрите результаты в сетке, затем экспортируйте в CSV одним щелчком. Вы видите именно то, что будет экспортировано, прежде чем нажать кнопку экспорта.</p>
 
-<h2>Export With Tome's Query Editor</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> lets you run any SQL query and see the results in a native grid. From there, selecting and copying the data gives you a format you can paste directly into a spreadsheet or save as CSV. Write your query with auto-complete, run it, and get the data out — no dot-commands, no mode switching.</p>
-
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome exporting SQLite query results on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Query First, Export What You Need</h3>
-<p>Instead of exporting an entire table and filtering in Excel, write a targeted query in Tome: filter rows, join tables, aggregate values, and format columns with SQL. Export only the data you actually need, already shaped the way you want it.</p>
-
-<h3>Visual Verification Before Export</h3>
-<p>See your query results in a scrollable grid before exporting. Check that columns are correct, data looks right, and the row count matches expectations. Catching errors before export saves you from re-doing the work after opening a bad CSV in Excel.</p>
-
-<h3>Browse the Full Schema First</h3>
-<p>Not sure which table has the data you need? Browse tables, views, and their columns in Tome's sidebar. Click through sample data to understand the schema before writing your export query. This visual exploration is far faster than running <code>.schema</code> commands in Terminal.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome экспорт SQLite в CSV на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -730,25 +644,13 @@ SELECT * FROM products WHERE category = 'electronics';
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>You've received a dataset as a SQLite file — a Kaggle download, a scraped dataset, a colleague's export, or your own ETL output. Before writing Python code to process it, you need to understand what's inside: table names, column types, row counts, data distributions, and potential quality issues. Jupyter notebooks can query SQLite, but setting up the connection, writing exploratory SQL, and rendering results in notebook cells is overhead when all you want is a quick look at the data.</p>
+<p>Специалисты по данным, работающие с локальными наборами данных в SQLite, нуждаются в быстром способе просмотра, фильтрации и запроса данных. Инструменты командной строки работают, но визуальный интерфейс часто бывает быстрее для исследовательских работ. Вам нужно видеть распределение значений, выявлять выбросы и понимать зависимости между столбцами.</p>
 
-<h2>The Exploration Gap in Data Science Workflows</h2>
-<p>Data scientists typically explore SQLite files using one of three approaches: the <code>sqlite3</code> CLI (fast but no visual output), a Jupyter notebook with <code>pandas.read_sql()</code> (flexible but requires setup for each session), or a heavyweight database IDE like DBeaver (powerful but overkill for a local file). None of these hit the sweet spot of "open a file and browse the data immediately."</p>
-<p>The CLI is particularly poor for data exploration because it has no visual formatting for wide tables, no scrollable output, and no way to quickly scan data distributions. Notebooks add value for analysis but are slow for the initial "what does this data look like?" phase. You end up writing boilerplate connection code before seeing a single row.</p>
+<p>Терминал и raw SQL могут сделать это, но просмотр тысячи строк необработанного текста медленнее, чем просмотр в сетке где вы можете сортировать, фильтровать и выделять. Полные научные инструменты, такие как Jupyter или pandas, мощные, но требуют написания кода Python.</p>
 
-<h2>Explore Datasets Visually With Tome</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> lets you open a SQLite dataset and immediately understand its structure. Every table appears in the sidebar with its row count. Click a table to scroll through its data in a native grid. No setup, no connection strings, no boilerplate — just open the file and look.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> — это золотая середина: нативный браузер SQLite на Mac, который позволяет вам открыть базу данных, просмотреть таблицы в сетке, отсортировать столбцы и запустить целевые SQL запросы с автодополнением. Для быстрого исследовательского анализа это часто быстрее, чем писать Python.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome browsing a data science SQLite dataset on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Understand Schema Before Writing Code</h3>
-<p>Browse tables to see column names, types, and sample values. Identify which columns contain nulls, which tables relate to each other through foreign keys, and how the dataset is structured — all before writing a single line of Python. This context makes your analysis code more targeted from the start.</p>
-
-<h3>Test Queries Interactively</h3>
-<p>Use Tome's SQL editor with auto-complete to prototype queries. Test your WHERE clauses, JOIN conditions, and aggregations in Tome first, then copy the working SQL into your Python pipeline. Catching query errors in a visual editor is faster than debugging them in a notebook cell.</p>
-
-<h3>Inspect ETL Output</h3>
-<p>After your pipeline writes results to a SQLite database, open it in Tome to verify the output. Check row counts, spot null values, and confirm that transformations produced the expected results — all without writing additional verification code.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome браузер SQLite для науки о данных на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,
@@ -760,26 +662,13 @@ SELECT * FROM products WHERE category = 'electronics';
     date: "2026-09-06",
     readTime: "4 мин. чтения",
     content: `
-<p>If you've used Postico for PostgreSQL on Mac, you know what a native database client should feel like: instant launch, clean interface, proper macOS integration, and just enough features to be productive without clutter. It's widely regarded as one of the best database tools on the platform. The only problem is that Postico doesn't support SQLite. If your data lives in .sqlite files instead of a PostgreSQL server, you need to find something else — and the "something else" is usually an Electron or Java app that feels nothing like Postico.</p>
+<p>Postico — любимый нативный для Mac клиент базы данных — но он поддерживает только PostgreSQL. Это значит, что если вы работаете с SQLite, у вас есть выбор: используйте инструмент, который не оптимизирован для вашей базы данных, или найдите что-то другое.</p>
 
-<h2>The Gap Between Postico and SQLite Tools</h2>
-<p>Postico proved that a database client can be a great Mac app. It uses native macOS controls, respects system conventions, launches quickly, and stays out of your way. It set a standard that most SQLite browsers haven't met.</p>
-<p>DB Browser for SQLite is Qt-based — functional but visually disconnected from macOS. TablePlus supports SQLite but also supports a dozen other databases, bringing complexity that Postico deliberately avoids. DBeaver runs on Java with all the resource overhead that implies. None of these tools deliver the "built for Mac" experience that Postico users expect.</p>
-<p>The issue isn't that these are bad tools — they're not. It's that once you've experienced a truly native Mac database client, cross-platform alternatives feel like a compromise. You want the same philosophy applied to a different format.</p>
+<p>Большинство альтернатив — это кроссплатформенные инструменты, которые кажутся неправильными на macOS, или браузеры командной строки, которые требуют SQL для всего. Есть разрыв для нативного, сосредоточенного браузера SQLite, который работает как приложение Mac должно работать.</p>
 
-<h2>Tome: The Postico Experience for SQLite</h2>
-<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> brings the same native Mac quality to SQLite that Postico brings to PostgreSQL. Built with Swift and AppKit, it launches instantly, follows macOS design conventions, and focuses on doing one thing well — browsing and editing SQLite databases.</p>
+<p><a href="https://apps.apple.com/app/tome/id6806639875">Tome</a> заполняет этот разрыв. Это нативное приложение macOS, построенное с Swift и AppKit, что означает оно чувствует себя правильно на вашем Mac — запускается быстро, использует минимум ресурсов, поддерживает вкладки и Split View. Фокусируется исключительно на SQLite, каждая функция оптимизирована для работы с локальными файлами.</p>
 
-<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome as a Postico-quality SQLite browser for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-
-<h3>Same Philosophy, Different Format</h3>
-<p>Like Postico, Tome is laser-focused. No PostgreSQL, no MySQL, no MongoDB — just SQLite. Every feature is designed for the format you're working with. The interface is clean, the app is fast, and there's nothing extraneous competing for your attention.</p>
-
-<h3>Native macOS Experience</h3>
-<p>Document-based architecture with proper window and tab support. System dark mode. Drag-and-drop from Finder. Keyboard shortcuts that match macOS conventions. Tome behaves like a Mac app потому что это одно из них — built with the same frameworks Apple uses for its own applications.</p>
-
-<h3>Browse, Edit, and Query</h3>
-<p>Browse tables, views, indexes, and triggers in the sidebar. Edit cells inline. Insert and delete rows without writing SQL. When you need queries, the built-in editor provides syntax highlighting and auto-complete for your schema. It's everything a SQLite browser needs — and nothing it doesn't.</p>
+<a href="https://apps.apple.com/app/tome/id6806639875" target="_blank" rel="noopener" style="display:block"><img src="/apps/tome.png" alt="Tome альтернатива Postico для SQLite на Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
 <p><a href="https://apps.apple.com/app/tome/id6806639875">Получите Tome в Mac App Store</a></p>
 `,

@@ -4,7 +4,7 @@ export const trArticles: ArticleSet = {
   "best-media-converter-mac": {
     slug: "best-media-converter-mac",
     title: "Mac için En İyi Medya Dönüştürücü",
-    description: "Juggling separate apps for video, image, and audio conversion wastes time. A single native tool handles all three media types in one window.",
+    description: "Video, görüntü ve ses dönüştürme için ayrı uygulamalar kullanmak zaman kaybettirir. Tek bir yerel araç üç medya türünü de tek bir pencerede işler.",
     date: "2026-09-06",
     readTime: "5 dk okuma",
     content: `
@@ -42,7 +42,7 @@ export const trArticles: ArticleSet = {
   "batch-convert-images-mac": {
     slug: "batch-convert-images-mac",
     title: "Mac'te Resimleri Toplu Olarak Dönüştürme",
-    description: "Converting images one at a time in Preview is tedious. There are faster ways to batch-convert hundreds of photos between formats on macOS.",
+    description: "Resimleri bir kez Preview'da dönüştürmek sıkıcıdır. macOS'ta yüzlerce fotoğrafı biçimler arasında toplu olarak dönüştürmenin daha hızlı yolları vardır.",
     date: "2026-09-06",
     readTime: "5 dk okuma",
     content: `
@@ -79,7 +79,7 @@ export const trArticles: ArticleSet = {
   "permute-alternative-mac": {
     slug: "permute-alternative-mac",
     title: "Mac için Permute Alternatifi",
-    description: "Looking for a media converter that handles video, images, and audio without a subscription. A native macOS app with batch processing and a pixel pipeline.",
+    description: "Abonelik olmadan video, görüntü ve sesi işleyen bir medya dönüştürücü arıyorsunuz. Toplu işleme ve piksel boru hattı içeren yerel bir macOS uygulaması.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -117,7 +117,7 @@ export const trArticles: ArticleSet = {
   "heic-to-jpg-batch-mac": {
     slug: "heic-to-jpg-batch-mac",
     title: "Mac'te HEIC'yi Toplu Olarak JPG'ye Dönüştürme",
-    description: "Hundreds of HEIC photos from your iPhone that nothing outside Apple's ecosystem can open. Batch-converting them to JPG should be simple.",
+    description: "iPhone'unuzdan Apple ekosisteminin dışında hiçbir şeyin açamayacağı yüzlerce HEIC fotoğrafı. Onları toplu olarak JPG'ye dönüştürmek basit olmalıdır.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -152,7 +152,7 @@ export const trArticles: ArticleSet = {
   "video-converter-mac-native": {
     slug: "video-converter-mac-native",
     title: "Mac için Yerel Video Dönüştürücü — Electron Yok",
-    description: "Electron-based converters eat RAM and spin your fans. A native macOS video converter uses hardware acceleration and stays light.",
+    description: "Electron tabanlı dönüştürücüler RAM yer ve fanlarınızı çevirir. Yerel bir macOS video dönüştürücü donanım hızlandırmasını kullanır ve hafif kalır.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -186,7 +186,7 @@ export const trArticles: ArticleSet = {
   "convert-webp-to-png-mac": {
     slug: "convert-webp-to-png-mac",
     title: "Mac'te WebP'yi Toplu Olarak PNG'ye Dönüştürme",
-    description: "Downloaded a folder of WebP images and nothing opens them properly. Bulk-converting to PNG on macOS without a web uploader.",
+    description: "WebP görüntülerinin bir klasörünü indirdiniz ve hiçbir şey onları düzgün açmaz. macOS'ta web yükleyici olmadan toplu PNG'ye dönüştürme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -221,7 +221,7 @@ export const trArticles: ArticleSet = {
   "resize-images-batch-mac": {
     slug: "resize-images-batch-mac",
     title: "Mac'te Resimleri Toplu Olarak Yeniden Boyutlandırma",
-    description: "Resizing photos one by one in Preview is a time sink. Batch resizing hundreds of images to exact dimensions on macOS without Photoshop.",
+    description: "Fotoğrafları Preview'da bir kez yeniden boyutlandırmak zaman kaybıdır. macOS'ta yüzlerce görüntüyü Photoshop olmadan tam boyutlara toplu olarak yeniden boyutlandırma.",
     date: "2026-09-06",
     readTime: "5 dk okuma",
     content: `
@@ -256,7 +256,7 @@ export const trArticles: ArticleSet = {
   "convert-mov-to-mp4-mac": {
     slug: "convert-mov-to-mp4-mac",
     title: "Mac'te MOV'u MP4'e Dönüştürme",
-    description: "Screen recordings and iPhone videos save as MOV. Most platforms want MP4. Converting without re-encoding or quality loss on macOS.",
+    description: "Ekran kayıtları ve iPhone videoları MOV olarak kaydedilir. Çoğu platform MP4 ister. macOS'ta yeniden kodlama veya kalite kaybı olmadan dönüştürme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -290,7 +290,7 @@ export const trArticles: ArticleSet = {
   "add-watermark-batch-images-mac": {
     slug: "add-watermark-batch-images-mac",
     title: "Mac'te Resimlere Toplu Olarak Filigran Ekleme",
-    description: "Stamping a logo on hundreds of photos one at a time is brutal. Batch watermarking on macOS with position and pipeline control.",
+    description: "Yüzlerce fotoğrafa bir kez logo damgalamak acımasızdır. macOS'ta konum ve boru hattı kontrolü ile toplu filigran ekleme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -325,7 +325,7 @@ export const trArticles: ArticleSet = {
   "handbrake-alternative-mac-images-too": {
     slug: "handbrake-alternative-mac-images-too",
     title: "Resimleri de Yapan Mac için HandBrake Alternatifi",
-    description: "HandBrake is great for video but doesn't touch images. A macOS converter that handles video, images, and audio in one tool.",
+    description: "HandBrake video için harikadır ancak resimlere dokunmaz. Video, görüntü ve sesi tek bir araçta işleyen bir macOS dönüştürücü.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -362,7 +362,7 @@ export const trArticles: ArticleSet = {
   "mp3-converter-mac": {
     slug: "mp3-converter-mac",
     title: "Mac için MP3 Dönüştürücü — Ses, Video ve Görüntüler Tek Uygulamada",
-    description: "Exporting MP3 on macOS usually means installing ffmpeg or a sketchy free app. A native converter with a bundled LAME encoder.",
+    description: "macOS'ta MP3 dışa aktarmak genellikle ffmpeg veya şüpheli bir ücretsiz uygulama yüklemek anlamına gelir. Paketlenmiş bir LAME kodlayıcısı ile yerel bir dönüştürücü.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -397,7 +397,7 @@ export const trArticles: ArticleSet = {
   "convert-png-to-jpg-batch-mac": {
     slug: "convert-png-to-jpg-batch-mac",
     title: "Mac'te PNG'yi Toplu Olarak JPG'ye Dönüştürme",
-    description: "Screenshots and design exports pile up as PNGs fast. Here's how to turn a whole folder into JPGs on macOS without opening each file.",
+    description: "Ekran görüntüleri ve tasarım dışa aktarmaları hızla PNG olarak birikir. macOS'ta tüm klasörü her dosyayı açmadan JPG'ye dönüştürme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -428,7 +428,7 @@ export const trArticles: ArticleSet = {
   "compress-images-batch-mac": {
     slug: "compress-images-batch-mac",
     title: "Mac'te Görüntüleri Toplu Olarak Sıkıştırma",
-    description: "Large photo folders slow down uploads and eat storage. Here's how to shrink hundreds of images at once on macOS without doing it manually.",
+    description: "Büyük fotoğraf klasörleri yüklemeleri yavaşlatır ve depolama alanını yer. macOS'ta yüzlerce görüntüyü el ile yapmadan bir kez küçültme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -459,7 +459,7 @@ export const trArticles: ArticleSet = {
   "convert-mkv-to-mp4-mac": {
     slug: "convert-mkv-to-mp4-mac",
     title: "Mac'te MKV'yi MP4'e Dönüştürme",
-    description: "MKV files won't play in QuickTime or upload cleanly to most platforms. Here's how to convert them to MP4 on macOS without installing ffmpeg.",
+    description: "MKV dosyaları QuickTime'da oynatılmaz veya çoğu platforma temiz bir şekilde yüklenmez. ffmpeg yüklemeden macOS'ta onları MP4'e dönüştürme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -489,7 +489,7 @@ export const trArticles: ArticleSet = {
   "mac-preview-batch-convert-limitations": {
     slug: "mac-preview-batch-convert-limitations",
     title: "Mac Preview Toplu Dönüştürme Sınırlamaları — Yapamadıkları",
-    description: "Preview can technically convert multiple images at once, but the feature has real gaps. Here's what it does well and where it falls short.",
+    description: "Preview teknik olarak birden fazla görüntüyü aynı anda dönüştürebilir, ancak özellik gerçek boşluklara sahiptir. İyi yaptıkları ve eksik kaldıkları yer burada.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -524,7 +524,7 @@ export const trArticles: ArticleSet = {
   "convert-tiff-to-jpg-mac": {
     slug: "convert-tiff-to-jpg-mac",
     title: "Mac'te TIFF'i JPG'ye Dönüştürme",
-    description: "TIFFs from scanners and cameras are huge and often unsupported by web tools. Here's how to convert them to JPG on macOS, one file or a whole batch.",
+    description: "Tarayıcılardan ve kameralardan TIFF dosyaları büyüktür ve genellikle web araçları tarafından desteklenmez. macOS'ta onları JPG'ye dönüştürme, tek dosya veya toplu.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -557,7 +557,7 @@ export const trArticles: ArticleSet = {
   "image-resizer-mac-app": {
     slug: "image-resizer-mac-app",
     title: "Mac için Görüntü Yeniden Boyutlandırıcı — Photoshop Olmadan Toplu Yeniden Boyutlandırma",
-    description: "Resizing a handful of photos in Preview is fine. Resizing hundreds for a website or store listing needs a real batch tool, not Photoshop actions.",
+    description: "Preview'da bir avuç fotoğrafı yeniden boyutlandırmak iyidir. Bir web sitesi veya mağaza listesi için yüzlercesini yeniden boyutlandırmak gerçek bir toplu araç gerekir, Photoshop eylemleri değil.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -588,7 +588,7 @@ export const trArticles: ArticleSet = {
   "convert-audio-files-mac": {
     slug: "convert-audio-files-mac",
     title: "Mac'te Ses Dosyalarını Dönüştürme — WAV, FLAC, MP3, AAC",
-    description: "Voice memos, ripped audio, and podcast exports rarely arrive in the format you actually need. Here's how to convert between WAV, FLAC, MP3, and AAC on macOS.",
+    description: "Ses notları, aktarılan ses ve podcast dışa aktarmaları nadiren ihtiyaç duyduğunuz biçimde gelir. macOS'ta WAV, FLAC, MP3 ve AAC arasında dönüştürme.",
     date: "2026-09-06",
     readTime: "5 dk okuma",
     content: `
@@ -618,7 +618,7 @@ export const trArticles: ArticleSet = {
   "crop-images-batch-mac": {
     slug: "crop-images-batch-mac",
     title: "Mac'te Resimleri Toplu Olarak Kırpma",
-    description: "Cropping a hundred product photos to the same aspect ratio one at a time is a waste of an afternoon. Here's how to batch crop on macOS instead.",
+    description: "Kırpma tek fotoğraflar için sezgiseldir ancak gruplar için sıkıcıdır. macOS'ta yüzlerce görüntüyü aynı en-boy oranına Photoshop olmadan kırpma.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -648,8 +648,8 @@ export const trArticles: ArticleSet = {
   },
   "ffmpeg-alternative-mac-gui": {
     slug: "ffmpeg-alternative-mac-gui",
-    title: "FFmpeg Alternative for Mac with a GUI",
-    description: "FFmpeg can do almost anything with media files, but remembering flag syntax for every job gets old. Here's a GUI approach for the conversions people actually need.",
+    title: "Mac için FFmpeg Alternatifi — GUI ile",
+    description: "FFmpeg güçlüdür ancak terminal tabanı intimidating olabilir. Aynı medya dönüştürme yeteneklerine sahip bir GUI aracı bulunur.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -677,8 +677,8 @@ export const trArticles: ArticleSet = {
   },
   "convert-raw-to-jpg-mac": {
     slug: "convert-raw-to-jpg-mac",
-    title: "How to Convert RAW Photos to JPG on Mac",
-    description: "RAW files preserve every detail a camera sensor captures, but almost nothing outside a photo editor can open them. Here's how to convert a shoot's worth to JPG on macOS.",
+    title: "Mac'te RAW Fotoğrafları JPG'ye Dönüştürme",
+    description: "DSLR RAW dosyaları ayrıntılı ancak yalnızca özel yazılımlarla açılabilir. Bunları standart JPG'ye dönüştürün ve her yerde paylaşın.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -706,8 +706,8 @@ export const trArticles: ArticleSet = {
   },
   "mac-sips-command-vs-gui-converter": {
     slug: "mac-sips-command-vs-gui-converter",
-    title: "Mac sips Command vs GUI Converter — When to Use Each",
-    description: "macOS ships a hidden command-line image tool called sips. Here's what it can do, where it struggles, and when a graphical batch converter makes more sense.",
+    title: "Mac sips Komutu vs GUI Dönüştürücü — Ne Zaman Hangisini Kullanmalı",
+    description: "sips komut satırı aracı güçlüdür ama terminal rahat değilse, GUI dönüştürücü daha basit olabilir.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -734,8 +734,8 @@ export const trArticles: ArticleSet = {
   },
   "reduce-image-file-size-mac": {
     slug: "reduce-image-file-size-mac",
-    title: "How to Reduce Image File Size on Mac Without Losing Quality",
-    description: "Big image files slow down websites and clog storage, but aggressive compression makes photos look bad. Here's how to shrink files while keeping quality intact on macOS.",
+    title: "Mac'te Kalite Kaybı Olmadan Görüntü Dosya Boyutunu Azaltma",
+    description: "Büyük görüntüler web yüklemesini yavaşlatır. Dosya boyutunu azaltmak ancak kaliteyi korumak macOS'ta mümkündür.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -764,8 +764,8 @@ export const trArticles: ArticleSet = {
   },
   "convert-gif-to-mp4-mac": {
     slug: "convert-gif-to-mp4-mac",
-    title: "How to Convert GIF to MP4 on Mac",
-    description: "GIFs are bloated for what they actually contain — short looping video. Here's how to convert them to MP4 on macOS for smaller files and better playback.",
+    title: "Mac'te GIF'i MP4'e Dönüştürme",
+    description: "GIF'ler içerdiklerine kıyasla şişkindir — kısa döngüler için, MP4 dosya boyutunun çoğunu kaybederek daha verimlidir.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -792,8 +792,8 @@ export const trArticles: ArticleSet = {
   },
   "batch-watermark-photos-mac": {
     slug: "batch-watermark-photos-mac",
-    title: "How to Batch Watermark Photos on Mac",
-    description: "Stamping a logo onto every photo one at a time doesn't scale past a handful of images. Here's how to watermark a whole batch consistently on macOS.",
+    title: "Mac'te Resimleri Toplu Olarak Filigran Yapma",
+    description: "Bir resmi paylaşmadan önce filigran yapırsanız, bunu yüzlerce for 'da tekrar yapmak iş değildir.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
@@ -824,7 +824,7 @@ export const trArticles: ArticleSet = {
   "convert-avif-to-png-mac": {
     slug: "convert-avif-to-png-mac",
     title: "Mac'te AVIF'i PNG'ye Dönüştürme",
-    description: "AVIF is a great web format but a poor fit for editing or apps that expect older image types. Here's how to convert it back to PNG on macOS.",
+    description: "AVIF, JPEG veya WebP'den daha iyi sıkıştırma sunan yeni bir görüntü biçimidir, ancak çoğu araç henüz bunu desteklemez. macOS'ta AVIF dosyalarını dönüştürme.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
