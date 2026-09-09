@@ -381,7 +381,7 @@ export const zhArticles: ArticleSet = {
   "view-firefox-history-sqlite-mac": {
     slug: "view-firefox-history-sqlite-mac",
     title: "如何在 Mac 上查看 Firefox 历史记录 (SQLite)",
-    description: "Firefox stores your browsing history in a SQLite database called places.sqlite. Viewing it outside the browser means dealing with locked files and raw SQL output.",
+    description: "Firefox 将您的浏览历史记录存储在名为 places.sqlite 的 SQLite 数据库中。在浏览器外查看它意味着要处理锁定的文件和原始 SQL 输出。",
     date: "2026-09-06",
     readTime: "4分钟阅读",
     content: `
@@ -535,7 +535,7 @@ export const zhArticles: ArticleSet = {
   },
   "open-whatsapp-backup-sqlite-mac": {
     slug: "open-whatsapp-backup-sqlite-mac",
-    title: "How to Open WhatsApp Backup SQLite on Mac",
+    title: "如何在 Mac 上打开 WhatsApp 备份 SQLite",
     description: "WhatsApp stores chat history in a SQLite database. Viewing those messages outside the app — for archival, legal, or personal reasons — requires extracting and opening the database file on your Mac.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -566,7 +566,7 @@ export const zhArticles: ArticleSet = {
   },
   "sqlite-query-editor-autocomplete-mac": {
     slug: "sqlite-query-editor-autocomplete-mac",
-    title: "SQLite Query Editor with Autocomplete on Mac",
+    title: "Mac 上带自动完成功能的 SQLite 查询编辑器",
     description: "Writing SQL queries against a SQLite database without auto-complete means constantly switching between the schema view and the editor to check table and column names.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -597,7 +597,7 @@ export const zhArticles: ArticleSet = {
   },
   "view-chrome-cookies-sqlite-mac": {
     slug: "view-chrome-cookies-sqlite-mac",
-    title: "How to View Chrome Cookies (SQLite) on Mac",
+    title: "如何在 Mac 上查看 Chrome Cookie (SQLite)",
     description: "Chrome stores cookies in a SQLite database on your Mac. Viewing them through DevTools works for one site at a time, but inspecting the full cookie database requires a different approach.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -627,7 +627,7 @@ export const zhArticles: ArticleSet = {
   },
   "compare-sqlite-databases-mac": {
     slug: "compare-sqlite-databases-mac",
-    title: "How to Compare SQLite Databases Side by Side on Mac",
+    title: "如何在 Mac 上并行比较 SQLite 数据库",
     description: "After a migration, schema change, or data sync, verifying that two SQLite databases match is tedious without a way to view both simultaneously.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -658,7 +658,7 @@ export const zhArticles: ArticleSet = {
   },
   "lightweight-database-browser-mac": {
     slug: "lightweight-database-browser-mac",
-    title: "Lightweight Database Browser for Mac — No Electron, No Java",
+    title: "Mac 轻量级数据库浏览器 — 无 Electron、无 Java",
     description: "Database browsers that bundle Chromium or the JVM consume hundreds of megabytes before you've even loaded a file. A lightweight alternative should use what macOS already provides.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -688,7 +688,7 @@ export const zhArticles: ArticleSet = {
   },
   "export-sqlite-to-csv-mac": {
     slug: "export-sqlite-to-csv-mac",
-    title: "How to Export SQLite to CSV on Mac",
+    title: "如何在 Mac 上将 SQLite 导出为 CSV",
     description: "Getting data out of a SQLite database and into a spreadsheet means either wrestling with the sqlite3 CLI's formatting options or writing a script. A visual tool makes this a one-query task.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -725,7 +725,7 @@ SELECT * FROM products WHERE category = 'electronics';
   },
   "sqlite-for-data-science-mac": {
     slug: "sqlite-for-data-science-mac",
-    title: "SQLite Browser for Data Science on Mac",
+    title: "Mac 上用于数据科学的 SQLite 浏览器",
     description: "Data scientists working with local datasets in SQLite need a way to explore schemas, preview data, and test queries before writing pipeline code — without spinning up a full database server.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
@@ -755,7 +755,7 @@ SELECT * FROM products WHERE category = 'electronics';
   },
   "postico-alternative-sqlite-mac": {
     slug: "postico-alternative-sqlite-mac",
-    title: "Postico Alternative for SQLite on Mac",
+    title: "Mac 上 Postico 的 SQLite 替代品",
     description: "Postico is a beloved Mac-native database client — but it only supports PostgreSQL. If you work with SQLite files, you need the same native quality for a different format.",
     date: "2026-09-06",
     readTime: "4分钟阅读",
