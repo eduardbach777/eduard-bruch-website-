@@ -613,32 +613,32 @@ export const trArticles: ArticleSet = {
   },
   "copy-text-from-slack-image-mac": {
     slug: "copy-text-from-slack-image-mac",
-    title: "How to Copy Text from an Image in Slack on Mac",
-    description: "A teammate shares a screenshot in Slack — an error log, a config, a dashboard — and the text inside it is just pixels you can't copy or search.",
+    title: "Mac'te Slack'teki Bir Görüntüden Metin Nasıl Kopyalanır",
+    description: "Bir ekip arkadaşı Slack'te bir ekran görüntüsü paylaşıyor — bir hata günlüğü, bir yapılandırma, bir gösterge paneli — ve içindeki metin sadece kopyalayamayacağınız veya arayamayacağınız piksellerden ibaret.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
-<p>It happens multiple times a day. A teammate pastes a screenshot in a Slack channel: a terminal error, a dashboard showing metrics, a code snippet from their editor, or a configuration panel. You need the text in that screenshot — an error message to search for, a metric to quote in a report, or a code block to test locally. But the Slack image viewer shows you the picture and nothing else. The text inside it might as well be a watercolor painting as far as your clipboard is concerned.</p>
+<p>Bu günde birkaç kez oluyor. Bir ekip arkadaşı Slack kanalına bir ekran görüntüsü yapıştırıyor: bir terminal hatası, metrikleri gösteren bir gösterge paneli, editöründen bir kod parçası veya bir yapılandırma paneli. O ekran görüntüsündeki metne ihtiyacınız var — aramak için bir hata mesajı, bir raporda alıntılamak için bir metrik veya yerel olarak test etmek için bir kod bloğu. Ancak Slack görüntü görüntüleyicisi size sadece resmi gösterir, başka bir şey değil. İçindeki metin, panonuz açısından bir suluboya tablo kadar erişilemez.</p>
 
-<h2>Slack Treats Images as Images</h2>
-<p>When someone shares a screenshot in Slack, it's rendered as an inline image or opens in Slack's image viewer. There's no OCR layer, no text extraction option, no "copy text from image" in the right-click menu. You can download the image, but that just gives you the same pixels as a file on disk — still no selectable text.</p>
-<p>This is a daily friction point in engineering, support, and operations teams. Screenshots are the fastest way to share visual information in chat, but every screenshot containing text becomes a dead end for the recipient. The sender assumes the information is shared; the recipient has to manually transcribe it or ask the sender to paste it as text — a request that often goes unanswered for hours.</p>
+<h2>Slack Görüntüleri Görüntü Olarak Ele Alır</h2>
+<p>Biri Slack'te bir ekran görüntüsü paylaştığında, satır içi bir görüntü olarak işlenir veya Slack'in görüntü görüntüleyicisinde açılır. OCR katmanı yok, metin çıkarma seçeneği yok, sağ tık menüsünde "görüntüden metni kopyala" seçeneği yok. Görüntüyü indirebilirsiniz, ancak bu size sadece diskte bir dosya olarak aynı pikselleri verir — yine de seçilebilir metin yok.</p>
+<p>Bu, mühendislik, destek ve operasyon ekiplerinde günlük bir sürtünme noktasıdır. Ekran görüntüleri, sohbette görsel bilgi paylaşmanın en hızlı yoludur, ancak metin içeren her ekran görüntüsü alıcı için bir çıkmaz sokak haline gelir. Gönderen bilginin paylaşıldığını varsayar; alıcı bunu manuel olarak yazıya dökmek veya gönderenden metin olarak yapıştırmasını istemek zorunda kalır — bu istek genellikle saatlerce yanıtsız kalır.</p>
 
-<h2>Read Text Directly from Slack Images</h2>
-<p>When you see a screenshot in Slack that contains text you need, open it in Slack's image viewer or just look at the inline preview, then activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar and drag a selection over the text. The characters are recognized and copied to your clipboard in seconds — no downloading, no switching apps, no waiting for the sender to re-share as text.</p>
+<h2>Metni Doğrudan Slack Görüntülerinden Okuyun</h2>
+<p>Slack'te ihtiyacınız olan metni içeren bir ekran görüntüsü gördüğünüzde, Slack'in görüntü görüntüleyicisinde açın veya sadece satır içi önizlemeye bakın, ardından menü çubuğundan <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a>'i etkinleştirin ve metnin üzerine bir seçim sürükleyin. Karakterler saniyeler içinde tanınır ve panonuza kopyalanır — indirme yok, uygulama değiştirme yok, gönderenin metin olarak yeniden paylaşmasını bekleme yok.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic extracting text from a Slack image on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic, Mac'te bir Slack görüntüsünden metin çıkarıyor" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Error Messages and Logs</h3>
-<p>Screenshots of errors and stack traces are shared constantly in engineering channels. Extract the exact error string and paste it into your search engine or log aggregator for an instant lookup, instead of retyping a 200-character error message.</p>
+<h3>Hata Mesajları ve Günlükler</h3>
+<p>Hata ve yığın izlerinin ekran görüntüleri mühendislik kanallarında sürekli paylaşılır. 200 karakterlik bir hata mesajını yeniden yazmak yerine, tam hata dizesini çıkarın ve arama motorunuza veya günlük toplayıcınıza yapıştırarak anında arama yapın.</p>
 
-<h3>Code Snippets</h3>
-<p>When someone screenshots their code instead of pasting it as a snippet, Optic lets you extract it as text anyway. Copy the code, paste it into your editor, and test it locally — far faster than retyping someone else's code from an image.</p>
+<h3>Kod Parçacıkları</h3>
+<p>Biri kodunu bir parçacık olarak yapıştırmak yerine ekran görüntüsünü aldığında, Optic yine de metin olarak çıkarmanıza olanak tanır. Kodu kopyalayın, editörünüze yapıştırın ve yerel olarak test edin — bir görüntüden başkasının kodunu yeniden yazmaktan çok daha hızlı.</p>
 
-<h3>Metrics and Data</h3>
-<p>Dashboard screenshots shared in Slack channels contain numbers, labels, and trends. Select the specific figures you need and paste them into your own reports or spreadsheets without manual transcription errors.</p>
+<h3>Metrikler ve Veriler</h3>
+<p>Slack kanallarında paylaşılan gösterge paneli ekran görüntüleri sayılar, etiketler ve eğilimler içerir. İhtiyacınız olan belirli rakamları seçin ve manuel yazım hataları olmadan kendi raporlarınıza veya elektronik tablolarınıza yapıştırın.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic'i Mac App Store'dan edinin</a></p>
 `,
   },
   "mac-preview-ocr-limitations": {
@@ -706,32 +706,32 @@ export const trArticles: ArticleSet = {
   },
   "copy-address-from-image-mac": {
     slug: "copy-address-from-image-mac",
-    title: "How to Copy an Address from an Image on Mac",
-    description: "A delivery label, a business card photo, or a scanned letter contains an address you need — but it's trapped in an image with no way to select it.",
+    title: "Mac'te Bir Görüntüden Adres Nasıl Kopyalanır",
+    description: "Bir teslimat etiketi, bir kartvizit fotoğrafı veya taranmış bir mektup ihtiyacınız olan bir adres içeriyor — ancak seçme imkanı olmayan bir görüntünün içinde sıkışıp kalmış.",
     date: "2026-09-06",
     readTime: "4 dk okuma",
     content: `
-<p>You need to copy an address from a photo of a business card, a scanned envelope, a screenshot of a contact page, or a delivery confirmation image. The address is clearly printed — street, city, state, ZIP — but because it's in an image, you can't click on it, can't select it, can't copy it. You have to read each line and type it into your map app, your contacts, or your shipping form. One mistyped digit in a ZIP code and the package goes to the wrong place.</p>
+<p>Bir kartvizit fotoğrafından, taranmış bir zarftan, bir iletişim sayfası ekran görüntüsünden veya bir teslimat onay görüntüsünden bir adres kopyalamanız gerekiyor. Adres açıkça basılmış — sokak, şehir, eyalet, posta kodu — ancak bir görüntüde olduğu için tıklayamıyor, seçemiyor, kopyalayamıyorsunuz. Her satırı okuyup harita uygulamanıza, kişilerinize veya kargo formunuza yazmak zorundasınız. Posta kodundaki tek bir yanlış yazılan rakam, paketin yanlış yere gitmesine neden olur.</p>
 
-<h2>Addresses in Images Require Perfect Manual Transcription</h2>
-<p>Addresses are particularly risky to retype. They contain a mix of numbers, street name abbreviations, unit numbers, and postal codes — all of which must be exact. Transposing two digits in a ZIP code or misspelling an apartment number means failed delivery or misdirected mail. And unlike most text, you can't easily verify an address by reading it back — you need to compare character by character.</p>
-<p>macOS provides no built-in workflow for extracting an address from an image. Live Text might highlight addresses in some Photos images and offer to open them in Maps, but this only works in specific Apple apps, with clean images, and it extracts to Maps — not to your clipboard for pasting elsewhere.</p>
+<h2>Görüntülerdeki Adresler Kusursuz Manuel Transkripsiyon Gerektirir</h2>
+<p>Adresleri yeniden yazmak özellikle risklidir. Sayılar, sokak adı kısaltmaları, daire numaraları ve posta kodlarının bir karışımını içerirler — hepsi kesin olmalıdır. Bir posta kodundaki iki rakamı yer değiştirmek veya bir daire numarasını yanlış yazmak, başarısız teslimat veya yanlış yönlendirilmiş posta anlamına gelir. Ve çoğu metnin aksine, bir adresi geri okuyarak kolayca doğrulayamazsınız — karakter karakter karşılaştırmanız gerekir.</p>
+<p>macOS, bir görüntüden adres çıkarmak için yerleşik bir iş akışı sağlamaz. Live Text, bazı Fotoğraflar görüntülerinde adresleri vurgulayabilir ve Haritalar'da açmayı teklif edebilir, ancak bu sadece belirli Apple uygulamalarında, temiz görüntülerle çalışır ve Haritalar'a çıkarır — başka bir yere yapıştırmak için panonuza değil.</p>
 
-<h2>Drag Over the Address, Paste It Anywhere</h2>
-<p>Open the image containing the address in any app — Preview, Mail, a browser, Slack — then activate <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a> from the menu bar and drag a selection around the address. The complete text — every line, every number, every abbreviation — is copied to your clipboard. Paste it into Google Maps, a shipping form, your contacts, or an email.</p>
+<h2>Adresin Üzerine Sürükleyin, Her Yere Yapıştırın</h2>
+<p>Adresi içeren görüntüyü herhangi bir uygulamada açın — Önizleme, Mail, bir tarayıcı, Slack — ardından menü çubuğundan <a href="https://apps.apple.com/app/optic/id6806597766">Optic</a>'i etkinleştirin ve adresin etrafına bir seçim sürükleyin. Tam metin — her satır, her sayı, her kısaltma — panonuza kopyalanır. Google Haritalar'a, bir kargo formuna, kişilerinize veya bir e-postaya yapıştırın.</p>
 
-<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic copying an address from an image on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+<a href="https://apps.apple.com/app/optic/id6806597766" target="_blank" rel="noopener" style="display:block"><img src="/apps/optic.png" alt="Optic, Mac'te bir görüntüden adres kopyalıyor" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
 
-<h3>Business Cards</h3>
-<p>Photos of business cards from networking events are notorious for sitting in your camera roll without their addresses ever making it into your contacts. Open the photo, select the address with Optic, and paste it directly into the contact entry. Works for phone numbers and email addresses visible on the card too.</p>
+<h3>Kartvizitler</h3>
+<p>Networking etkinliklerinden kartvizit fotoğrafları, adresleri hiçbir zaman kişilerinize girmeden kamera rulonuzda oturmasıyla ünlüdür. Fotoğrafı açın, adresi Optic ile seçin ve doğrudan kişi girişine yapıştırın. Kartta görünen telefon numaraları ve e-posta adresleri için de çalışır.</p>
 
-<h3>Shipping and Returns</h3>
-<p>Return shipping labels, delivery confirmations, and packaging photos often contain addresses you need to reference or reuse. Extract the address from the image and paste it into your shipping platform without retyping.</p>
+<h3>Kargo ve İadeler</h3>
+<p>İade kargo etiketleri, teslimat onayları ve paketleme fotoğrafları genellikle başvurmanız veya yeniden kullanmanız gereken adresler içerir. Adresi görüntüden çıkarın ve yeniden yazmadan kargo platformunuza yapıştırın.</p>
 
-<h3>Real Estate and Directions</h3>
-<p>Listing photos, property flyers, and scanned documents in the real estate process are full of addresses. Grab any address from these images and paste it into your maps app for directions or into a spreadsheet for tracking.</p>
+<h3>Emlak ve Yol Tarifleri</h3>
+<p>Emlak sürecindeki ilan fotoğrafları, mülk broşürleri ve taranmış belgeler adreslerle doludur. Bu görüntülerden herhangi bir adresi alın ve yol tarifleri için harita uygulamanıza veya takip için bir elektronik tabloya yapıştırın.</p>
 
-<p><a href="https://apps.apple.com/app/optic/id6806597766">Get Optic on the Mac App Store</a></p>
+<p><a href="https://apps.apple.com/app/optic/id6806597766">Optic'i Mac App Store'dan edinin</a></p>
 `,
   },
   "ocr-code-snippets-mac": {
