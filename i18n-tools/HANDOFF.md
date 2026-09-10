@@ -1,6 +1,28 @@
 # Blog Localization — Handoff
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-10 (session 2 — resumed, agents available again)
+
+---
+
+## 0. LIVE PROGRESS LOG (session 2, 2026-09-10) — newest first
+
+- ✅ **RENYM COMPLETE — 11/11 languages** (de, fr, es, ja, ko, zh, pt, it, ru, nl, tr; 26
+  articles each). All translated by Sonnet agents, combined+validated with `combine.py`,
+  merged via `merge.py`, §5 scanner clean, `npx next build` passed. Committing + pushing now.
+- 🔄 LAUNCHED: Dayedge × 11 languages (de, fr, es, ja, ko, zh, pt, it, ru, nl, tr — 25 articles
+  each), Sonnet agents writing to `translated/dayedge_{locale}_part1-5.json`.
+- ✅ Fixed `extract.py`/`merge.py`: they hardcoded a dead scratchpad path for payload/meta
+  files (contrary to what §4 claimed). Both now read/write next to the script in `i18n-tools/`.
+- ✅ Re-extracted `renym_payload.json` (26) + `dayedge_payload.json` (25) into `i18n-tools/`.
+- ✅ Added `combine.py` — combines translated part files, validates slug set / empty fields /
+  identical-to-English fallback / English-looking titles, writes `translated/{app}_{locale}.json`.
+- 🔄 LAUNCHED (Sonnet agents, per user instruction — not Haiku): Renym DE batch3 (15 remaining
+  slugs) + Renym fr/es/ja/ko/zh/pt/it/ru/nl/tr (26 articles each). Agents write JSON parts to
+  `i18n-tools/translated/renym_{locale}_part*.json` (DE batch3 → `in-progress/`).
+- ⬜ NEXT: as agents finish → `combine.py` → `merge.py` → `verify.py` → build → commit → push.
+  Then Dayedge × 11 languages (same flow), then the ~21 remaining locales tier.
+
+---
 **Site:** eduard-bruch-website (Next.js SSG), repo root `~/Desktop/vscode/eduard-bruch-website/`
 **Deploy:** push to `main` on GitHub → Vercel auto-deploys. No manual deploy step needed.
 

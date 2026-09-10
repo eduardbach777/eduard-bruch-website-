@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Extract only translatable strings (title, description, content) from en.ts
 into compact JSON. Keeps slug/date/readTime out — those are handled deterministically."""
-import re, json, sys
+import re, json, sys, os
 
 BASE = "/Users/eduardbruch/Desktop/vscode/eduard-bruch-website/src/app"
+TOOLS = os.path.dirname(os.path.abspath(__file__))
 
 def parse_en_ts(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
@@ -48,8 +49,8 @@ if __name__ == "__main__":
     # Output compact translation payload (slug/date/readMin excluded from what needs translating)
     payload = [{"slug": a["slug"], "title": a["title"], "description": a["description"], "content": a["content"]} for a in articles]
     meta = {a["slug"]: {"date": a["date"], "readMin": a["readMin"]} for a in articles}
-    with open(f"/private/tmp/claude-501/-Users-eduardbruch/6a13c7ca-7b4a-45c8-bd24-483eec58735d/scratchpad/{app}_payload.json", "w", encoding="utf-8") as f:
+    with open(f"{TOOLS}/{app}_payload.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False)
-    with open(f"/private/tmp/claude-501/-Users-eduardbruch/6a13c7ca-7b4a-45c8-bd24-483eec58735d/scratchpad/{app}_meta.json", "w", encoding="utf-8") as f:
+    with open(f"{TOOLS}/{app}_meta.json", "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False)
     print(f"{app}: {len(articles)} articles extracted")

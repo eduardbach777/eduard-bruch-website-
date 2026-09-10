@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Merge a translated JSON payload back into a proper .ts locale file.
 Deterministic TS generation avoids the syntax bugs freehand LLM writes caused."""
-import json, sys, re
+import json, sys, re, os
 
 BASE = "/Users/eduardbruch/Desktop/vscode/eduard-bruch-website/src/app"
+TOOLS = os.path.dirname(os.path.abspath(__file__))
 
 READ_TIME = {
     "de": "{n} Min. Lesezeit", "fr": "{n} min de lecture", "es": "{n} min de lectura",
@@ -36,7 +37,7 @@ if __name__ == "__main__":
 
     with open(translated_path, "r", encoding="utf-8") as f:
         translated = json.load(f)
-    with open(f"/private/tmp/claude-501/-Users-eduardbruch/6a13c7ca-7b4a-45c8-bd24-483eec58735d/scratchpad/{app}_meta.json", "r", encoding="utf-8") as f:
+    with open(f"{TOOLS}/{app}_meta.json", "r", encoding="utf-8") as f:
         meta = json.load(f)
 
     rt_template = READ_TIME.get(locale, "{n} min read")
