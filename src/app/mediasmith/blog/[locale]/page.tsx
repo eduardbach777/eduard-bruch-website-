@@ -4,8 +4,13 @@ import BlogListClient from "@/components/BlogListClient";
 import { getAllArticles, getAvailableLocales } from "../_data";
 import { LOCALES, LOCALE_CODES, READ_MORE } from "@/lib/locales";
 import type { Metadata } from "next";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
-const APP_STORE_URL = "https://apps.apple.com/app/mediasmith/id6805031846";
+const APP_STORE_URL = buildStoreUrl({
+  appSlug: "mediasmith",
+  appId: "6805031846",
+  campaign: campaignFor.blogIndex("mediasmith"),
+});
 
 export async function generateMetadata(): Promise<Metadata> {
   return {

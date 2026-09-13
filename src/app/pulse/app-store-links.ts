@@ -1,3 +1,5 @@
+import { buildStoreUrl } from "@/lib/appstore";
+
 const APP_STORE_COUNTRIES: Record<string, string> = {
   en: "us",
   de: "de",
@@ -16,8 +18,14 @@ const APP_STORE_COUNTRIES: Record<string, string> = {
   sv: "se",
 };
 
-export function getPulseAppStoreUrl(locale = "en") {
+export function getPulseAppStoreUrl(locale = "en", campaign = "web-landing-pulse") {
   const country = APP_STORE_COUNTRIES[locale] ?? APP_STORE_COUNTRIES.en;
 
-  return `https://apps.apple.com/${country}/app/pulse-system-monitor/id6761375793?mt=12`;
+  return buildStoreUrl({
+    appSlug: "pulse-system-monitor",
+    appId: "6761375793",
+    cc: country,
+    campaign,
+    mt: 12, // preserved from the original URL
+  });
 }

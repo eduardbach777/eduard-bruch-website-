@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { Fraunces, Geist, Geist_Mono } from "next/font/google";
-import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ClientProviders from "@/components/ClientProviders";
+import SiteAnalytics from "@/components/SiteAnalytics";
 
 const fraunces = Fraunces({
   variable: "--font-fraunces",
@@ -51,7 +51,7 @@ export default function RootLayout({
           <main>{children}</main>
           <Footer />
         </ClientProviders>
-        <Analytics />
+        <SiteAnalytics />
       </body>
     </html>
   );

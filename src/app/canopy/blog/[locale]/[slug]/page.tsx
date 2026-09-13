@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getArticle, getAllArticles, getAllSlugs, getAvailableLocales } from "../../_data";
 import { LOCALE_CODES, STORE_CC, BACK_LABEL, NEXT_ARTICLE } from "@/lib/locales";
 import type { Metadata } from "next";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export async function generateMetadata({
   params,
@@ -39,7 +40,12 @@ export default async function CanopyArticlePage({
   if (!article) notFound();
 
   const cc = STORE_CC[locale] ?? "us";
-  const storeUrl = `https://apps.apple.com/${cc}/app/canopy/id6806640970`;
+  const storeUrl = buildStoreUrl({
+    appSlug: "canopy",
+    appId: "6806640970",
+    cc,
+    campaign: campaignFor.article("canopy"),
+  });
   const isRtl = locale === "ar" || locale === "he";
 
   const content = article.content.replace(

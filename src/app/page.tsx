@@ -2,19 +2,20 @@
 
 import { useEffect } from "react";
 import Link from "next/link";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 const WORK = [
-  { id: "sounddial", n: "01", name: "SoundDial", tag: "Per-App Volume Mixer", plt: "macOS", href: "https://apps.apple.com/app/id6772792641", img: "/apps/sounddial.png", rev: false,
+  { id: "sounddial", n: "01", name: "SoundDial", tag: "Per-App Volume Mixer", plt: "macOS", href: buildStoreUrl({ appId: "6772792641", campaign: campaignFor.home() }), img: "/apps/sounddial.png", rev: false,
     p: "Independent volume for every app, from the menu bar — profiles, auto-ducking, per-app mute. The mixer macOS never shipped." },
-  { id: "tome", n: "02", name: "Tome", tag: "SQLite Browser", plt: "macOS", href: "https://apps.apple.com/app/id6806639875", img: "/apps/tome.png", rev: true,
+  { id: "tome", n: "02", name: "Tome", tag: "SQLite Browser", plt: "macOS", href: buildStoreUrl({ appId: "6806639875", campaign: campaignFor.home() }), img: "/apps/tome.png", rev: true,
     p: "Open any .sqlite file — browse tables, edit data inline, run SQL with syntax highlighting, and export to CSV, JSON, or SQL." },
-  { id: "stash", n: "03", name: "Stash", tag: "Secret File Vault", plt: "iOS", href: "https://apps.apple.com/app/id6759873487", img: "/apps/stash-v2.png", rev: false,
+  { id: "stash", n: "03", name: "Stash", tag: "Secret File Vault", plt: "iOS", href: buildStoreUrl({ appId: "6759871587", campaign: campaignFor.home() }), img: "/apps/stash-v2.png", rev: false,
     p: "An encrypted vault disguised as a calculator. Hide photos, videos & files behind Face ID, with intruder detection." },
-  { id: "pulse", n: "04", name: "Pulse", tag: "System Monitor", plt: "macOS", href: "https://apps.apple.com/app/id6761375793", img: "/apps/pulse.png", rev: true,
+  { id: "pulse", n: "04", name: "Pulse", tag: "System Monitor", plt: "macOS", href: buildStoreUrl({ appId: "6761375793", campaign: campaignFor.home() }), img: "/apps/pulse.png", rev: true,
     p: "CPU, memory, GPU, network, battery & temperature — live in your menu bar, with desktop widgets and clean themes." },
-  { id: "doublecalc", n: "05", name: "Double Calculator", tag: "Tax & VAT", plt: "iOS", href: "https://apps.apple.com/app/id6760940001", img: "/apps/double-calculator.png", rev: false,
+  { id: "doublecalc", n: "05", name: "Double Calculator", tag: "Tax & VAT", plt: "iOS", href: buildStoreUrl({ appId: "6760940001", campaign: campaignFor.home() }), img: "/apps/double-calculator.png", rev: false,
     p: "Dual-screen calculator with instant VAT/tax for 40+ countries, scientific mode and pinned results." },
-  { id: "fisheye", n: "06", name: "Fisheye — WideEye", tag: "Camera", plt: "iOS", href: "https://apps.apple.com/app/id6760895260", img: "/apps/fisheye.png", rev: true,
+  { id: "fisheye", n: "06", name: "Fisheye — WideEye", tag: "Camera", plt: "iOS", href: buildStoreUrl({ appId: "6760895260", campaign: campaignFor.home() }), img: "/apps/fisheye.png", rev: true,
     p: "Wide, warped, retro fisheye photos & video, straight from your phone — the lens look without the lens." },
 ];
 

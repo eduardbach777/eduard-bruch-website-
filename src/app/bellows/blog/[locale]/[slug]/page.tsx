@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getArticle, getAllArticles, getAllSlugs, getAvailableLocales } from "../../_data";
 import { LOCALE_CODES, STORE_CC, BACK_LABEL, NEXT_ARTICLE } from "@/lib/locales";
 import type { Metadata } from "next";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export async function generateMetadata({
   params,
@@ -39,7 +40,12 @@ export default async function BellowsArticlePage({
   if (!article) notFound();
 
   const cc = STORE_CC[locale] ?? "us";
-  const storeUrl = `https://apps.apple.com/${cc}/app/bellows/id6805032839`;
+  const storeUrl = buildStoreUrl({
+    appSlug: "bellows",
+    appId: "6805032839",
+    cc,
+    campaign: campaignFor.article("bellows"),
+  });
   const isRtl = locale === "ar" || locale === "he";
 
   const content = article.content.replace(

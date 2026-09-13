@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export const metadata = {
   title: "Loupe — Quick Look Preview for Mac",
@@ -65,7 +66,7 @@ export default function LoupeLanding() {
       </div>
 
       <a
-        href="https://apps.apple.com/app/id6806599791"
+        href={buildStoreUrl({ appId: "6806599791", campaign: campaignFor.landing("loupe") })}
         target="_blank"
         rel="noopener noreferrer"
         className="mb-12 inline-block rounded-lg bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-neutral-200"

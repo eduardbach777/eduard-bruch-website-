@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getArticle, getLocaleArticle, getAllArticles, getAllSlugs, LOCALES } from "../../_data";
 import type { Locale } from "../../_data";
 import type { Metadata } from "next";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 // Blog locale -> App Store storefront country code, so each localized article
 // links to its own regional App Store page (de -> /de, cs -> /cz, ja -> /jp, ...).
@@ -155,7 +156,12 @@ export default async function ArticlePage({
   // locale's regional storefront. Rewriting at render time keeps the stored
   // article HTML and URLs untouched — only the outbound href changes.
   const cc = STORE_CC[locale] ?? "us";
-  const storeUrl = `https://apps.apple.com/${cc}/app/sounddial/id6772792641`;
+  const storeUrl = buildStoreUrl({
+    appSlug: "sounddial",
+    appId: "6772792641",
+    cc,
+    campaign: campaignFor.article("sounddial"),
+  });
   const content = article.content.replace(
     /https:\/\/apps\.apple\.com\/(?:[a-z]{2}(?:-[A-Za-z]+)?\/)?app\/(?:sounddial\/)?id6772792641/g,
     storeUrl,

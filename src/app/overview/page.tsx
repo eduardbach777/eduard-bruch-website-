@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export const metadata = {
   title: "Overview — Eduard Bruch",
@@ -16,26 +17,28 @@ interface AppEntry {
 }
 
 const MAC_APPS: AppEntry[] = [
-  { name: "SoundDial", tagline: "Per-App Volume Mixer", desc: "Independent volume sliders, profiles, auto-ducking, and per-app mute.", href: "/sounddial/blog", storeUrl: "https://apps.apple.com/app/sounddial/id6772792641", accent: "#d4ad5e", img: "/apps/sounddial.png" },
-  { name: "Jetty", tagline: "Dock Launcher", desc: "Launch any app from the menu bar — grouped panels, one click.", href: "/jetty/blog", storeUrl: "https://apps.apple.com/app/jetty/id6806639647", accent: "#4A9EFF", img: "/apps/jetty.png" },
-  { name: "Loupe", tagline: "Archive & Folder Viewer", desc: "Preview ZIP, RAR, and folder contents with Quick Look — no extracting.", href: "/loupe", storeUrl: "https://apps.apple.com/app/loupe/id6806599791", accent: "#5AC8FA", img: "/apps/loupe.png" },
-  { name: "Dayedge", tagline: "Calendar Sidebar", desc: "Pin a slim calendar timeline to your screen edge — always visible.", href: "/dayedge/blog", storeUrl: "https://apps.apple.com/app/dayedge/id6806600925", accent: "#FF9500", img: "/apps/dayedge.png" },
-  { name: "Renym", tagline: "Batch File Renamer", desc: "Rename hundreds of files with visual pipelines — regex, numbering, case changes.", href: "/renym/blog", storeUrl: "https://apps.apple.com/app/renym/id6806640534", accent: "#7C5CFC", img: "/apps/renym.png" },
-  { name: "Optic", tagline: "Screen OCR", desc: "Select any text on screen and copy it — images, PDFs, dialogs, anything.", href: "/optic", storeUrl: "https://apps.apple.com/app/optic/id6806597766", accent: "#007AFF", img: "/apps/optic.png" },
-  { name: "Lock In!", tagline: "Website Blocker", desc: "Block distracting websites and apps during focus sessions — system-wide.", href: "/lockin", storeUrl: "https://apps.apple.com/app/lockin/id6802325423", accent: "#FF3B30", img: "/apps/lockin.png" },
-  { name: "Tome", tagline: "SQLite Browser", desc: "Browse, query, and edit SQLite databases in a native Mac app.", href: "/tome", storeUrl: "https://apps.apple.com/app/tome/id6806639875", accent: "#AF52DE", img: "/apps/tome.png" },
-  { name: "Mediasmith", tagline: "Media Converter", desc: "Convert video, images, and audio in batch with a visual pipeline.", href: "/mediasmith", storeUrl: "https://apps.apple.com/app/mediasmith/id6805031846", accent: "#30D158", img: "/apps/mediasmith.png" },
-  { name: "Bellows", tagline: "Developer Tools", desc: "41 developer tools in one native Mac app — JSON, JWT, Base64, hashes, and more.", href: "/bellows", storeUrl: "https://apps.apple.com/app/bellows/id6805032839", accent: "#FF9F0A", img: "/apps/bellows.png" },
-  { name: "Tickpull", tagline: "Menu Bar Timer", desc: "Set a timer by dragging — no clicks, no typing, just one gesture.", href: "/tickpull/blog", storeUrl: "https://apps.apple.com/app/tickpull/id6806640763", accent: "#FF6B6B", img: "/apps/tickpull.png" },
-  { name: "DeskCloak", tagline: "Desktop Cover", desc: "Cover your messy desktop in one click — wallpaper, blur, or solid color.", href: "/deskcloak/blog", storeUrl: "https://apps.apple.com/app/deskcloak/id6806639170", accent: "#8E8E93", img: "/apps/deskcloak.png" },
-  { name: "Canopy", tagline: "Disk Space Visualizer", desc: "See exactly where your disk space goes with an interactive treemap.", href: "/canopy/blog", storeUrl: "https://apps.apple.com/app/canopy/id6806640970", accent: "#34C759", img: "/apps/canopy.png" },
+  { name: "SoundDial", tagline: "Per-App Volume Mixer", desc: "Independent volume sliders, profiles, auto-ducking, and per-app mute.", href: "/sounddial/blog", storeUrl: buildStoreUrl({ appSlug: "sounddial", appId: "6772792641", campaign: campaignFor.overview() }), accent: "#d4ad5e", img: "/apps/sounddial.png" },
+  { name: "Jetty", tagline: "Dock Launcher", desc: "Launch any app from the menu bar — grouped panels, one click.", href: "/jetty/blog", storeUrl: buildStoreUrl({ appSlug: "jetty", appId: "6806639647", campaign: campaignFor.overview() }), accent: "#4A9EFF", img: "/apps/jetty.png" },
+  { name: "Loupe", tagline: "Archive & Folder Viewer", desc: "Preview ZIP, RAR, and folder contents with Quick Look — no extracting.", href: "/loupe", storeUrl: buildStoreUrl({ appSlug: "loupe", appId: "6806599791", campaign: campaignFor.overview() }), accent: "#5AC8FA", img: "/apps/loupe.png" },
+  { name: "Dayedge", tagline: "Calendar Sidebar", desc: "Pin a slim calendar timeline to your screen edge — always visible.", href: "/dayedge/blog", storeUrl: buildStoreUrl({ appSlug: "dayedge", appId: "6806600925", campaign: campaignFor.overview() }), accent: "#FF9500", img: "/apps/dayedge.png" },
+  { name: "Renym", tagline: "Batch File Renamer", desc: "Rename hundreds of files with visual pipelines — regex, numbering, case changes.", href: "/renym/blog", storeUrl: buildStoreUrl({ appSlug: "renym", appId: "6806640534", campaign: campaignFor.overview() }), accent: "#7C5CFC", img: "/apps/renym.png" },
+  { name: "Optic", tagline: "Screen OCR", desc: "Select any text on screen and copy it — images, PDFs, dialogs, anything.", href: "/optic", storeUrl: buildStoreUrl({ appSlug: "optic", appId: "6806597766", campaign: campaignFor.overview() }), accent: "#007AFF", img: "/apps/optic.png" },
+  { name: "Lock In!", tagline: "Website Blocker", desc: "Block distracting websites and apps during focus sessions — system-wide.", href: "/lockin", storeUrl: buildStoreUrl({ appSlug: "lockin", appId: "6802325423", campaign: campaignFor.overview() }), accent: "#FF3B30", img: "/apps/lockin.png" },
+  { name: "Tome", tagline: "SQLite Browser", desc: "Browse, query, and edit SQLite databases in a native Mac app.", href: "/tome", storeUrl: buildStoreUrl({ appSlug: "tome", appId: "6806639875", campaign: campaignFor.overview() }), accent: "#AF52DE", img: "/apps/tome.png" },
+  { name: "Mediasmith", tagline: "Media Converter", desc: "Convert video, images, and audio in batch with a visual pipeline.", href: "/mediasmith", storeUrl: buildStoreUrl({ appSlug: "mediasmith", appId: "6805031846", campaign: campaignFor.overview() }), accent: "#30D158", img: "/apps/mediasmith.png" },
+  { name: "Bellows", tagline: "Developer Tools", desc: "41 developer tools in one native Mac app — JSON, JWT, Base64, hashes, and more.", href: "/bellows", storeUrl: buildStoreUrl({ appSlug: "bellows", appId: "6805032839", campaign: campaignFor.overview() }), accent: "#FF9F0A", img: "/apps/bellows.png" },
+  { name: "Tickpull", tagline: "Menu Bar Timer", desc: "Set a timer by dragging — no clicks, no typing, just one gesture.", href: "/tickpull/blog", storeUrl: buildStoreUrl({ appSlug: "tickpull", appId: "6806640763", campaign: campaignFor.overview() }), accent: "#FF6B6B", img: "/apps/tickpull.png" },
+  // DeskCloak and Canopy are not yet approved on the App Store — no storeUrl, so the
+  // "Coming soon" branch renders instead of a link that would 404.
+  { name: "DeskCloak", tagline: "Desktop Cover", desc: "Cover your messy desktop in one click — wallpaper, blur, or solid color.", href: "/deskcloak/blog", accent: "#8E8E93", img: "/apps/deskcloak.png" },
+  { name: "Canopy", tagline: "Disk Space Visualizer", desc: "See exactly where your disk space goes with an interactive treemap.", href: "/canopy/blog", accent: "#34C759", img: "/apps/canopy.png" },
 ];
 
 const IOS_APPS: AppEntry[] = [
-  { name: "Stash", tagline: "Secret File Vault", desc: "An encrypted vault disguised as a calculator — Face ID, intruder detection.", href: "/#stash", storeUrl: "https://apps.apple.com/app/id6759873487", accent: "#E8B33D", img: "/apps/stash-v2.png" },
+  { name: "Stash", tagline: "Secret File Vault", desc: "An encrypted vault disguised as a calculator — Face ID, intruder detection.", href: "/#stash", storeUrl: buildStoreUrl({ appId: "6759871587", campaign: campaignFor.overview() }), accent: "#E8B33D", img: "/apps/stash-v2.png" },
   { name: "Warden", tagline: "Family Location & Safety", desc: "One shared map, place alerts, check-in, and an SOS button. Privacy-first.", href: "/warden/privacy", accent: "#34C759" },
-  { name: "Double Calculator", tagline: "Tax & VAT", desc: "Dual-screen calculator with instant VAT/tax for 40+ countries.", href: "/#doublecalc", storeUrl: "https://apps.apple.com/app/id6760940001", accent: "#FF9F0A", img: "/apps/double-calculator.png" },
-  { name: "Fisheye", tagline: "Camera", desc: "Wide, warped, retro fisheye photos & video, straight from your phone.", href: "/#fisheye", storeUrl: "https://apps.apple.com/app/id6760895260", accent: "#5AC8FA", img: "/apps/fisheye.png" },
+  { name: "Double Calculator", tagline: "Tax & VAT", desc: "Dual-screen calculator with instant VAT/tax for 40+ countries.", href: "/#doublecalc", storeUrl: buildStoreUrl({ appId: "6760940001", campaign: campaignFor.overview() }), accent: "#FF9F0A", img: "/apps/double-calculator.png" },
+  { name: "Fisheye", tagline: "Camera", desc: "Wide, warped, retro fisheye photos & video, straight from your phone.", href: "/#fisheye", storeUrl: buildStoreUrl({ appId: "6760895260", campaign: campaignFor.overview() }), accent: "#5AC8FA", img: "/apps/fisheye.png" },
 ];
 
 const APPLE_PATH = "M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 80.6c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.3zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z";

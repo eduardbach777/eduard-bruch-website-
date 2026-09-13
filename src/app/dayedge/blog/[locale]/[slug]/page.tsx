@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getArticle, getAllArticles, getAllSlugs, getAvailableLocales } from "../../_data";
 import { LOCALE_CODES, STORE_CC, BACK_LABEL, NEXT_ARTICLE } from "@/lib/locales";
 import type { Metadata } from "next";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export async function generateMetadata({
   params,
@@ -39,7 +40,12 @@ export default async function DayedgeArticlePage({
   if (!article) notFound();
 
   const cc = STORE_CC[locale] ?? "us";
-  const storeUrl = `https://apps.apple.com/${cc}/app/dayedge/id6806600925`;
+  const storeUrl = buildStoreUrl({
+    appSlug: "dayedge",
+    appId: "6806600925",
+    cc,
+    campaign: campaignFor.article("dayedge"),
+  });
   const isRtl = locale === "ar" || locale === "he";
 
   const content = article.content.replace(

@@ -1,4 +1,5 @@
 import type { Locale } from "./index";
+import { buildStoreUrl } from "@/lib/appstore";
 
 const storefronts: Record<Locale, string> = {
   en: "us",
@@ -52,8 +53,13 @@ const storefronts: Record<Locale, string> = {
   "zh-Hant": "tw",
 };
 
-export function getAppStoreUrl(locale: Locale): string {
-  return `https://apps.apple.com/${storefronts[locale]}/app/stash-secret-file-vault/id6759871587`;
+export function getAppStoreUrl(locale: Locale, campaign = "web-article-stash"): string {
+  return buildStoreUrl({
+    appSlug: "stash-secret-file-vault",
+    appId: "6759871587",
+    cc: storefronts[locale],
+    campaign,
+  });
 }
 
 export function getAppScreenshot(locale: Locale): string {

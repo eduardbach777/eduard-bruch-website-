@@ -4,8 +4,13 @@ import BlogListClient from "@/components/BlogListClient";
 import { getAllArticles, LOCALES } from "../_data";
 import type { Locale } from "../_data";
 import type { Metadata } from "next";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
-const APP_STORE_URL = "https://apps.apple.com/app/sounddial/id6772792641";
+const APP_STORE_URL = buildStoreUrl({
+  appSlug: "sounddial",
+  appId: "6772792641",
+  campaign: campaignFor.blogIndex("sounddial"),
+});
 
 const labels: Record<
   string,

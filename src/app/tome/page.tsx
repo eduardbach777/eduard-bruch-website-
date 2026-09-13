@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export const metadata = {
   title: "Tome — SQLite Browser for Mac",
@@ -78,7 +79,7 @@ export default function TomeLanding() {
 
       <div className="flex flex-wrap gap-x-6 gap-y-2 border-t border-neutral-800 pt-8 text-sm">
         <a
-          href="https://apps.apple.com/app/id6806639875"
+          href={buildStoreUrl({ appId: "6806639875", campaign: campaignFor.landing("tome") })}
           className="text-indigo-400 underline"
           target="_blank"
           rel="noopener noreferrer"

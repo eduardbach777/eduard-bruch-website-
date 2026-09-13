@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { buildStoreUrl, campaignFor } from "@/lib/appstore";
 
 export const metadata = {
   title: "Optic — Screen OCR for Mac",
@@ -78,7 +79,7 @@ export default function OpticLanding() {
 
       <div className="flex flex-wrap gap-x-6 gap-y-2 border-t border-neutral-800 pt-8 text-sm">
         <a
-          href="#"
+          href={buildStoreUrl({ appSlug: "optic", appId: "6806597766", campaign: campaignFor.landing("optic") })}
           className="text-amber-400 underline"
           target="_blank"
           rel="noopener noreferrer"
