@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "mac-automator-rename-alternative",
+    "title": "Mac Automator 文件重命名太复杂——试试可视化替代方案",
+    "description": "从技术上说，Automator 确实能批量重命名文件，但搭建和调试一个工作流程所花的时间，远远超过重命名任务本身。原因如下，还有一种更直接的方法可以达到同样的效果。",
+    "content": "\n<p>Automator 有一个\"重命名 Finder 项目\"的操作，理论上你可以把它和其他操作串联起来，搭建一个自定义的批量重命名工作流程。但实际上，大多数尝试过一次的人都不会再试第二次。Automator 的界面是围绕在一个类似流程图的列表里连接通用操作而设计的，这对于自动化那些跨多个应用的重复性任务来说很强大，但用来解决\"把这 80 个文件统一重命名\"这么具体的问题，却显得笨拙。</p>\n\n<h2>Automator 让重命名变得更难的地方</h2>\n\n<ul>\n  <li>你得知道哪种操作组合才能产生你想要的重命名效果——这从界面上根本看不出来</li>\n  <li>工作流程编辑器里没有实时预览；你必须真的对实际文件运行一遍才能看到结果</li>\n  <li>出错之后需要手动撤销重命名，或者从备份中恢复，因为 Automator 不会替你追踪这些</li>\n  <li>把工作流程保存为可复用的应用或\"快速操作\"，需要额外一层大多数人都会跳过的设置，结果每次都要从头搭建工作流程</li>\n  <li>调试为什么某个重命名操作没有按预期生效，意味着要去翻 Automator 的日志，而这些日志根本不是为普通用户设计的</li>\n</ul>\n\n<p>对于大多数人每个月只会做几次的任务来说，Automator 的搭建成本很少能真正划算。</p>\n\n<h2>一种更直接的可视化替代方案</h2>\n\n<p><a href=\"https://apps.apple.com/app/renym/id6806640534\">Renym</a> 实现了 Automator 想要达成的那个理念——把重命名操作串联起来——但它专为重命名而生，没有通用工作流程带来的那些额外负担。</p>\n\n<a href=\"https://apps.apple.com/app/renym/id6806640534\" target=\"_blank\" rel=\"noopener\" style=\"display:block\"><img src=\"/apps/renym.png\" alt=\"Renym as a visual alternative to Automator for renaming files on macOS\" style=\"max-width:100%;border-radius:12px;margin:24px 0;\" /></a>\n\n<h3>专为重命名而生</h3>\n<p>每一个可用的操作都是重命名相关的——查找替换、正则表达式、编号、大小写转换、插入、删除。不需要在一堆通用操作里翻找，也不用猜哪个才是真正能重命名文件的。</p>\n\n<h3>在结果发生之前就能看到它</h3>\n<p>不同于 Automator 那种\"运行然后检查\"的方式，预览会随着你搭建流水线实时更新，所以在应用任何操作之前，你就已经知道结果会是什么样。</p>\n\n<h3>没有需要保存或维护的工作流程文件</h3>\n<p>没有什么需要导出成应用或\"快速操作\"。打开 Renym，拖入文件，搭建流水线，应用。下一次，你还是用同样的方式，花同样的时间完成同一件事。</p>\n\n<p><a href=\"https://apps.apple.com/app/renym/id6806640534\">在 Mac App Store 获取 Renym</a></p>\n"
+  }
+]
