@@ -205,31 +205,21 @@ export function getAppSections(locale: string): AppSection[] {
     });
   }
 
-  // ── macOS Productivity ──
-  const productivityApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
-    { name: "Lock In! — Website Blocker", getter: getLockInArticles, route: "lockin", accent: "border-l-red-500" },
-    { name: "Dayedge — Calendar Sidebar", getter: getDayedgeArticles, route: "dayedge", accent: "border-l-orange-500" },
-    { name: "Tickpull — Menu Bar Timer", getter: getTickpullArticles, route: "tickpull", accent: "border-l-red-400" },
+  // ── macOS apps, in nav priority order (SoundDial first, pushed above; then the rest) ──
+  const allMacApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
     { name: "Jetty — Dock Launcher", getter: getJettyArticles, route: "jetty", accent: "border-l-blue-400" },
-    { name: "DeskCloak — Desktop Cover", getter: getDeskCloakArticles, route: "deskcloak", accent: "border-l-gray-400" },
-  ];
-
-  // ── macOS Files & Media ──
-  const filesApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
-    { name: "Mediasmith — Media Converter", getter: getMediasmithArticles, route: "mediasmith", accent: "border-l-emerald-500" },
-    { name: "Canopy — Disk Space Visualizer", getter: getCanopyArticles, route: "canopy", accent: "border-l-green-500" },
-    { name: "Renym — Batch File Renamer", getter: getRenymArticles, route: "renym", accent: "border-l-violet-500" },
     { name: "Loupe — Archive & Folder Viewer", getter: getLoupeArticles, route: "loupe", accent: "border-l-cyan-400" },
+    { name: "Dayedge — Calendar Sidebar", getter: getDayedgeArticles, route: "dayedge", accent: "border-l-orange-500" },
+    { name: "Renym — Batch File Renamer", getter: getRenymArticles, route: "renym", accent: "border-l-violet-500" },
     { name: "Optic — Screen OCR", getter: getOpticArticles, route: "optic", accent: "border-l-blue-500" },
-  ];
-
-  // ── macOS Developer & Data ──
-  const devApps: { name: string; getter: () => { slug: string; title: string; description: string; date: string }[]; route: string; accent: string }[] = [
-    { name: "Bellows — Developer Tools", getter: getBellowsArticles, route: "bellows", accent: "border-l-amber-400" },
+    { name: "Lock In! — Website Blocker", getter: getLockInArticles, route: "lockin", accent: "border-l-red-500" },
     { name: "Tome — SQLite Browser", getter: getTomeArticles, route: "tome", accent: "border-l-purple-400" },
+    { name: "Mediasmith — Media Converter", getter: getMediasmithArticles, route: "mediasmith", accent: "border-l-emerald-500" },
+    { name: "Bellows — Developer Tools", getter: getBellowsArticles, route: "bellows", accent: "border-l-amber-400" },
+    { name: "Tickpull — Menu Bar Timer", getter: getTickpullArticles, route: "tickpull", accent: "border-l-red-400" },
+    { name: "DeskCloak — Desktop Cover", getter: getDeskCloakArticles, route: "deskcloak", accent: "border-l-gray-400" },
+    { name: "Canopy — Disk Space Visualizer", getter: getCanopyArticles, route: "canopy", accent: "border-l-green-500" },
   ];
-
-  const allMacApps = [...productivityApps, ...filesApps, ...devApps];
 
   for (const app of allMacApps) {
     const articles: ArticleCard[] = app.getter().map((a) => ({

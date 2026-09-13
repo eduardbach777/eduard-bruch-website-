@@ -5,13 +5,28 @@ import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLanguage } from "@/context/LanguageContext";
 
-const apps = [
-  { name: "SoundDial", href: "/#sounddial" },
-  { name: "Tome", href: "/#tome" },
+const macTop = [
+  { name: "SoundDial", href: "/sounddial/blog" },
+  { name: "Jetty", href: "/jetty/blog" },
+  { name: "Loupe", href: "/loupe" },
+  { name: "Dayedge", href: "/dayedge/blog" },
+  { name: "Renym", href: "/renym/blog" },
+  { name: "Optic", href: "/optic" },
+  { name: "Lock In!", href: "/lockin" },
+];
+const macRest = [
+  { name: "Tome", href: "/tome" },
+  { name: "Mediasmith", href: "/mediasmith" },
+  { name: "Bellows", href: "/bellows" },
+  { name: "Tickpull", href: "/tickpull/blog" },
+  { name: "DeskCloak", href: "/deskcloak/blog" },
+  { name: "Canopy", href: "/canopy/blog" },
+];
+const iosApps = [
   { name: "Stash", href: "/#stash" },
-  { name: "Double Calc", href: "/#doublecalc" },
-  { name: "Fisheye", href: "/#fisheye" },
   { name: "Warden", href: "/#warden" },
+  { name: "Double Calculator", href: "/#doublecalc" },
+  { name: "Fisheye", href: "/#fisheye" },
 ];
 const more = [
   { name: "About", href: "/about" },
@@ -38,11 +53,40 @@ export default function Navbar() {
         </Link>
 
         <div className="hidden items-center gap-4 lg:flex">
-          {apps.map((a) => (
-            <Link key={a.name} href={a.href} className="ac-nl text-[12.5px] font-medium" style={{ color: "#e7e4dc" }}>
-              {a.name}
-            </Link>
-          ))}
+          <details className="ac-dd group relative">
+            <summary className="ac-nl flex cursor-pointer list-none items-center gap-1 text-[12.5px] font-medium" style={{ color: "#e7e4dc" }}>
+              macOS
+              <svg className="h-3 w-3 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg>
+            </summary>
+            <div className="ac-panel">
+              {macTop.map((a) => (
+                <Link key={a.name} href={a.href} className="ac-pl ac-pl-top">{a.name}</Link>
+              ))}
+              <span className="ac-pdiv" />
+              {macRest.map((a) => (
+                <Link key={a.name} href={a.href} className="ac-pl">{a.name}</Link>
+              ))}
+            </div>
+          </details>
+
+          <details className="ac-dd group relative">
+            <summary className="ac-nl flex cursor-pointer list-none items-center gap-1 text-[12.5px] font-medium" style={{ color: "#e7e4dc" }}>
+              iOS &amp; Android
+              <svg className="h-3 w-3 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg>
+            </summary>
+            <div className="ac-panel">
+              {iosApps.map((a) => (
+                <Link key={a.name} href={a.href} className="ac-pl ac-pl-top">{a.name}</Link>
+              ))}
+              <span className="ac-pdiv" />
+              <Link href="/apps" className="ac-pl">All apps →</Link>
+            </div>
+          </details>
+
+          <Link href="/overview" className="ac-nl text-[12.5px] font-medium" style={{ color: "#e7e4dc" }}>
+            Overview
+          </Link>
+
           <span style={{ width: 1, height: 13, background: "var(--ac-line)" }} />
           {more.map((m) => (
             <Link key={m.name} href={m.href} className="ac-nl text-[12.5px] font-medium" style={{ color: "var(--ac-soft)" }}>
@@ -64,15 +108,36 @@ export default function Navbar() {
       <AnimatePresence>
         {open && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
-            className="fixed inset-0 top-[68px] z-40 lg:hidden" style={{ background: "var(--ac-bg)" }}>
-            <div className="flex flex-col items-center justify-center gap-6 pt-16">
-              {[...apps, ...more].map((l) => (
+            className="fixed inset-0 top-[68px] z-40 overflow-y-auto lg:hidden" style={{ background: "var(--ac-bg)" }}>
+            <div className="flex flex-col items-center gap-3 px-6 pb-16 pt-12">
+              <span className="ac-mgroup">macOS</span>
+              {[...macTop, ...macRest].map((l) => (
                 <Link key={l.name} href={l.href} onClick={() => setOpen(false)}
-                  className="font-serif text-2xl" style={{ fontFamily: "var(--font-fraunces)" }}>
+                  className="font-serif text-xl" style={{ fontFamily: "var(--font-fraunces)" }}>
                   {l.name}
                 </Link>
               ))}
-              <button onClick={toggleLang} className="text-2xl">{lang === "en" ? "🇩🇪" : "🇺🇸"}</button>
+              <span className="ac-mgroup">iOS &amp; Android</span>
+              {iosApps.map((l) => (
+                <Link key={l.name} href={l.href} onClick={() => setOpen(false)}
+                  className="font-serif text-xl" style={{ fontFamily: "var(--font-fraunces)" }}>
+                  {l.name}
+                </Link>
+              ))}
+              <Link href="/apps" onClick={() => setOpen(false)} className="font-serif text-xl" style={{ fontFamily: "var(--font-fraunces)", color: "var(--ac-soft)" }}>
+                All apps →
+              </Link>
+              <Link href="/overview" onClick={() => setOpen(false)} className="font-serif text-xl" style={{ fontFamily: "var(--font-fraunces)", color: "var(--ac-gold)" }}>
+                Overview
+              </Link>
+              <span className="ac-mgroup">&nbsp;</span>
+              {more.map((l) => (
+                <Link key={l.name} href={l.href} onClick={() => setOpen(false)}
+                  className="font-serif text-xl" style={{ fontFamily: "var(--font-fraunces)" }}>
+                  {l.name}
+                </Link>
+              ))}
+              <button onClick={toggleLang} className="mt-2 text-2xl">{lang === "en" ? "🇩🇪" : "🇺🇸"}</button>
             </div>
           </motion.div>
         )}
@@ -81,6 +146,19 @@ export default function Navbar() {
       <style jsx global>{`
         .ac-nl { transition: color 0.2s; white-space: nowrap; }
         .ac-nl:hover { color: var(--ac-gold) !important; }
+        .ac-dd summary::-webkit-details-marker { display: none; }
+        .ac-panel {
+          position: absolute; top: calc(100% + 14px); left: 50%; transform: translateX(-50%);
+          min-width: 208px; padding: 10px; border-radius: 10px; border: 1px solid var(--ac-line);
+          background: #0b0b0dee; backdrop-filter: blur(10px);
+          box-shadow: 0 24px 60px -20px rgba(0,0,0,0.8);
+          display: flex; flex-direction: column;
+        }
+        .ac-pl { padding: 7px 10px; border-radius: 6px; font-size: 13px; color: var(--ac-soft); transition: 0.15s; white-space: nowrap; }
+        .ac-pl:hover { background: rgba(255,255,255,0.06); color: var(--ac-gold); }
+        .ac-pl-top { color: #e7e4dc; font-weight: 500; }
+        .ac-pdiv { display: block; height: 1px; margin: 6px 4px; background: var(--ac-line); }
+        .ac-mgroup { margin-top: 10px; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ac-gold); font-weight: 600; }
       `}</style>
     </nav>
   );
