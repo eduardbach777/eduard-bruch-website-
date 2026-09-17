@@ -4,6 +4,30 @@
 
 ---
 
+## 0b. AUDIT CORRECTION (2026-09-17) — §2 below was materially wrong
+
+`verify.py` was **not scanning 6 of the 13 app blogs at all** — its `APPS` list omitted
+`sounddial`, `jetty`, `loupe`, `tickpull`, `deskcloak`, `canopy`. SoundDial, the largest and
+highest-traffic blog on the site (111 articles), had therefore **never been checked**. It also
+never compared article *counts* against `en.ts`, so a locale could be fully valid TS, free of
+English text, and still be missing a third of its articles. Both gaps are now fixed.
+
+What the corrected scan actually found:
+
+| App | EN | Real status |
+|---|---|---|
+| bellows, mediasmith, lockin, tome, optic, renym | 25–26 | ✅ complete across the 11-language tier |
+| dayedge | 25 | 10/11 — `ja` outstanding |
+| **sounddial** | **111** | ⚠️ **96/111 in ALL 32 locales** → 480 missing article-translations |
+| **sounddial cs / sk / hr / uk** | — | ⚠️ **20 articles left in raw English** (title *and* body), identical set in all four — classic silent-fallback |
+| jetty, loupe, tickpull | 25 ea | ❌ 0/11 — all three live on the App Store |
+| deskcloak, canopy | 25–26 | ❌ 0/11 — **still unapproved**, deferred |
+
+Lesson: the earlier "✅ 55/55 clean" claim in §2 was only ever true for the 7 apps the scanner
+happened to look at. Trust `verify.py` output, but check what it is actually scanning first.
+
+---
+
 ## 0. LIVE PROGRESS LOG (session 2, 2026-09-10) — newest first
 
 - ✅ **RENYM COMPLETE — 11/11 languages** (de, fr, es, ja, ko, zh, pt, it, ru, nl, tr; 26
