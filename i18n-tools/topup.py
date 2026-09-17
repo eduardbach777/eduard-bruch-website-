@@ -95,6 +95,17 @@ def main():
             if same:
                 errors.append(f"{slug}: {', '.join(same)} identical to English (untranslated)")
 
+            # Truncation guard. A translation should be broadly the same length as
+            # its source; anything under half signals lost content. This is how a
+            # parser bug that silently cut 59% off an article would have shipped.
+            en_len = len(en_art["content"])
+            got_len = len(incoming[slug].get("content", ""))
+            if en_len > 400 and got_len < en_len * 0.5:
+                errors.append(
+                    f"{slug}: content {got_len} chars vs English {en_len} "
+                    f"({got_len / en_len:.0%}) — truncated?"
+                )
+
     if errors:
         print(f"FAIL {app}/{locale}: {len(errors)} issue(s) — nothing written")
         for e in errors:

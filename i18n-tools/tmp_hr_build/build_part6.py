@@ -1,0 +1,203 @@
+import json
+
+items = [
+{
+"slug": "mac-audio-for-video-editing",
+"title": "Zvuk na Macu za video montažu: Premiere, DaVinci, pregled na timelineu",
+"description": "Video montaža na Macu znači pregled zvuka na timelineu dok referentni isječci, komunikacijske aplikacije i sistemski zvukovi natječu za istu glasnoću. Evo kako izolirati svoj zvuk za montažu.",
+"content": """
+<p>Montirate u DaVinci Resolveu, Premiere Pro-u ili Final Cutu. Prelistavate timeline i trebate precizno čuti razine dijaloga. No Slack neprestano zapinguje, kartica preglednika s referentnim snimkama svira, a Apple Music radi u pozadini. Ne možete procijeniti zvuk svog uratka kad se tri druge aplikacije ulijevaju u miks na nepredvidljivim glasnoćama.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kontrola zvuka za video montažu na Macu s glasnoćom po aplikaciji" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Zašto video montažerima treba izoliran zvuk</h2>
+
+<p>Miksanje zvuka u video editoru zahtijeva precizno praćenje zvuka. Ako Slackov zvuk obavijesti svira na istoj razini kao dijalog na vašem timelineu, ne možete znati je li taj dijalog zapravo pravilno miksan. Ako pozadinska glazba sa Spotifyja procuri u vaše praćenje, vaše se uši prilagođavaju i na kraju pogrešno postavite razine. Profesionalni montažeri rade u akustički obrađenim prostorijama s kontroliranim lancima za praćenje zvuka — no čak i na razini softvera, macOS vam ne daje način da odvojite zvuk svog NLE-a od svega ostalog.</p>
+
+<p>Zaobilazno rješenje koje koristi većina montažera: zatvoriti sve ostalo prije montaže. Zatvoriti Slack, pauzirati Music, ugasiti kartice preglednika. Funkcionira, ali znači da ne možete koristiti YouTube vodič kao referencu, držati otvoren chat s klijentom ili slušati referentnu pjesmu bez zagađivanja svog okruženja za praćenje zvuka.</p>
+
+<h2>Kontrola po aplikaciji za sesije montaže</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> vam omogućuje da sve ostavite otvoreno, ali kontrolirate što čujete i na kojoj razini.</p>
+
+<h3>Profil za montažu</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut:</strong> 100% — precizno praćenje timelinea</li>
+  <li><strong>Preglednik:</strong> utišan (nakratko uključite zvuk za provjeru referentnog isječka, pa opet utišajte)</li>
+  <li><strong>Slack / Messages:</strong> utišani — bez zvukova u vašem lancu za praćenje</li>
+  <li><strong>Music:</strong> utišan — bez konkurentskog zvuka</li>
+  <li><strong>Mail / Calendar:</strong> utišani</li>
+</ul>
+
+<h3>Profil za pregled</h3>
+<ul>
+  <li><strong>NLE:</strong> 80% — ugodna razina za pregled</li>
+  <li><strong>Slack:</strong> 20% — uhvatite poruke tijekom čekanja renderiranja</li>
+  <li><strong>Preglednik:</strong> 50% — dostupan referentni materijal</li>
+</ul>
+
+<p>Prebacujte se između profila prema potrebama radnog tijeka. Tijekom ključnog miksanja zvuka, sve je utišano osim vašeg timelinea. Tijekom renderiranja vratite obavijesti kako biste bili dostupni. Dva klika, dva potpuno drugačija okruženja za praćenje zvuka.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Preuzmite SoundDial na Mac App Storeu</a> — jednokratna kupnja za 14,99 €, bez pretplate, macOS 14.2+.</p>
+"""
+},
+{
+"slug": "per-app-volume-control-mac-2026",
+"title": "Kontrola glasnoće po aplikaciji na Macu u 2026. — koje su vaše opcije?",
+"description": "macOS 2026. godine i dalje nema ugrađeni mikser glasnoće. Evo svih opcija za neovisnu kontrolu glasnoće aplikacija — besplatnih, plaćenih i zaobilaznih rješenja.",
+"content": """
+<p>2026. je godina. Windows ima mikser glasnoće po aplikaciji još od Viste 2007. macOS ga i dalje nema. Ako želite stišati Spotify bez stišavanja svog Zoom poziva, Appleov odgovor i dalje je „ne možete". Pa koje su vam zapravo opcije 2026. godine?</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — opcije za kontrolu glasnoće po aplikaciji na Macu u 2026." style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Trenutno stanje</h2>
+
+<p>Evo iskrenog pregleda svakog dostupnog pristupa, sa stvarnim kompromisima.</p>
+
+<h3>Besplatne opcije</h3>
+<ul>
+  <li><strong>Background Music</strong> — otvorenog koda, nudi osnovne klizače glasnoće po aplikaciji. Kvaka: održava ga zajednica i povijesno se lomio kod većih macOS nadogradnji. Nema pojačanja iznad 100%, nema profila, nema automatskog prigušivanja. Ako vam je besplatno jedini zahtjev i spremni ste rješavati probleme nakon nadogradnji sustava, vrijedi ga isprobati.</li>
+  <li><strong>FineTune</strong> — besplatan, otvorenog koda, minimalna kontrola glasnoće u traci izbornika. Manje značajki, ali pouzdan za osnovna podešavanja.</li>
+  <li><strong>eqMac</strong> — besplatan EQ i sistemska kontrola glasnoće. Više usmjeren na ekvilizaciju nego na miksanje po aplikaciji, ali ima neke mogućnosti po aplikaciji.</li>
+</ul>
+
+<h3>Plaćene opcije</h3>
+<ul>
+  <li><strong>SoundSource</strong> (Rogue Amoeba, ~39 $) — alat profesionalne razine. Glasnoća po aplikaciji, EQ po aplikaciji, usmjeravanje izlaza, efekti. Instalira komponentu za hvatanje zvuka (nije na App Storeu). Pretjerano ako samo želite klizače glasnoće, odličan ako trebate duboko usmjeravanje zvuka.</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> (14,99 €, jednokratno) — glasnoća po aplikaciji, utišavanje, pojačanje preko 100%, profili koje možete spremiti, automatsko prigušivanje. Mac App Store, sandboxan, bez upravljačkih programa. Sredina između besplatnih alata i SoundSourcea.</li>
+  <li><strong>Audio Hijack</strong> (Rogue Amoeba, ~72 $) — hvata i usmjerava zvuk između aplikacija. Moćan za snimanje i složeno usmjeravanje, ali je profesionalan audio alat, ne jednostavan mikser glasnoće.</li>
+</ul>
+
+<h3>Ugrađena zaobilazna rješenja</h3>
+<ul>
+  <li>Neke aplikacije imaju interne klizače glasnoće (Spotify, VLC, većina igara). No podešavate unutar svake aplikacije zasebno, ništa ih ne koordinira, a mnoge aplikacije uopće ne nude kontrolu glasnoće.</li>
+  <li>Ne uznemiravaj utiša bannere obavijesti, ali ne kontrolira glasnoću aplikacija.</li>
+  <li>Klizač sistemske glasnoće je sve-ili-ništa.</li>
+</ul>
+
+<h2>Koju biste trebali odabrati?</h2>
+
+<p>Budite iskreni prema svojim potrebama. Ako želite besplatno i ne smeta vam povremeni kvar, Background Music. Ako trebate profesionalno usmjeravanje zvuka i EQ, SoundSource. Ako želite pouzdan, jednostavan mikser glasnoće s profilima i pojačanjem po pristupačnoj cijeni — uz sigurnost App Storea i bez instaliranja upravljačkih programa — <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> je slatka točka.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Preuzmite SoundDial na Mac App Storeu</a> — jednokratna kupnja za 14,99 €, bez pretplate, macOS 14.2+.</p>
+"""
+},
+{
+"slug": "mac-audio-ducking-automatic",
+"title": "Automatsko prigušivanje zvuka na Macu — stišajte glazbu kad netko govori",
+"description": "Kad poziv počne ili netko progovori, vaša glazba trebala bi se automatski stišati. macOS to ne radi izvorno. Evo kako postaviti automatsko prigušivanje zvuka na svom Macu.",
+"content": """
+<p>Slušate glazbu na svom Macu. Počinje Zoom poziv. Grozničavo pauzirate Spotify ili smanjujete glasnoću kako biste čuli sastanak. Poziv završi. Pojačate glazbu natrag. Ovo se događa pet puta dnevno, i svaki put je to ručni prekid. Prigušivanje zvuka — automatsko stišavanje pozadinskog zvuka kad svira prioritetni izvor — standard je u emitiranju i streamingu. Na macOS-u to ne postoji izvorno.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — automatsko prigušivanje zvuka na Macu, stišavanje glazbe tijekom poziva" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Što prigušivanje zvuka zapravo radi</h2>
+
+<p>Prigušivanje je jednostavno: kad se aktivira određeni prioritetni izvor zvuka, svi ostali izvori zvuka smanjuju svoju glasnoću za zadanu vrijednost. Kad prioritetni izvor prestane, sve se vraća na svoju izvornu razinu. Voditelji emisija ovo koriste kako bi glas voditelja uvijek bio iznad pozadinske glazbe. Streameri to koriste kako bi zvuk igre pao kad govore.</p>
+
+<p>Na macOS-u, najbliže ugrađeno ponašanje je postavka pristupačnosti koja može smanjiti pozadinski zvuk tijekom VoiceOver najava. No to je specifično za VoiceOver — ne postoji općenito prigušivanje za pozive, glasovni chat ili bilo koju proizvoljnu aplikaciju.</p>
+
+<h2>Postavljanje automatskog prigušivanja uz SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> uključuje automatsko prigušivanje zvuka kao ugrađenu značajku. Odredite koja aplikacija treba pokrenuti prigušivanje — obično komunikacijska aplikacija — i sve ostalo se automatski stišava kad ta aplikacija proizvodi zvuk.</p>
+
+<h3>Uobičajene postave prigušivanja</h3>
+<ul>
+  <li><strong>Zoom / Google Meet / FaceTime kao prioritet:</strong> glazba, preglednik i druge aplikacije se prigušuju kad je poziv aktivan. Vaš glas na sastanku uvijek je jasan bez ručnih promjena glasnoće.</li>
+  <li><strong>Discord kao prioritet:</strong> zvuk igre i glazba se stišavaju kad suigrači govore. Dozivi se nikad ne izgube pod eksplozijama ili glasnom glazbom.</li>
+  <li><strong>Snimanje podcasta:</strong> sve se prigušuje kad je ulaz vašeg DAW-a aktivan, čime se vaše okruženje za praćenje zvuka održava čistim.</li>
+</ul>
+
+<h3>Kako to izgleda u praksi</h3>
+
+<p>Prijelaz je gladak — pozadinski zvuk se stišava kad prioritetna aplikacija svira, pa se vraća kad prestane. Nakon prvog sata to više ne primjećujete jer radi točno ono što ste ranije radili ručno, samo bez prekida. Više nema posezanja za klizačima usred razgovora.</p>
+
+<p>U kombinaciji s glasnoćom po aplikaciji i profilima, prigušivanje upotpunjuje sliku: vaše aplikacije već kreću na ispravnim razinama, a prigušivanje se brine za dinamička podešavanja tijekom dana.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Preuzmite SoundDial na Mac App Storeu</a> — jednokratna kupnja za 14,99 €, bez pretplate, macOS 14.2+.</p>
+"""
+},
+{
+"slug": "control-browser-tab-volume-mac",
+"title": "Možete li kontrolirati glasnoću pojedinačne kartice preglednika na Macu?",
+"description": "Jedna kartica preglednika reproducira glasan zvuk dok druga ima tihi video. Možete li kontrolirati glasnoću po kartici na macOS-u? Evo što je zapravo moguće, a što nije.",
+"content": """
+<p>Imate YouTube vodič koji svira u jednoj kartici, tihi Loom video u drugoj, a treća kartica upravo je počela automatski reproducirati oglas. Želite stišati YouTube karticu, pojačati Loom karticu i utišati oglas — neovisno. Možete li kontrolirati glasnoću po kartici preglednika na macOS-u? Kratak i iskren odgovor: ne izvorno, i ne s većinom alata. No možete kontrolirati glasnoću cijelog preglednika, a to rješava većinu problema.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — kontrolirajte glasnoću zvuka preglednika na Macu" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Zašto glasnoća po kartici ne postoji</h2>
+
+<p>Preglednici miksaju zvuk svih svojih kartica u jedan izlazni tok prije nego ga predaju operacijskom sustavu. Za macOS, Chrome je jedna aplikacija koja proizvodi jedan audio tok. Safari je jedna aplikacija. Firefox je jedna aplikacija. Operacijski sustav nema uvid u to koja kartica generira koji zvuk — ta informacija živi unutar internog audio mehanizma preglednika i nije dostupna vanjskim alatima.</p>
+
+<p>Neki preglednici vam omogućuju utišavanje pojedinačnih kartica (klik na ikonu zvučnika na kartici), ali to je binarno uključeno/isključeno — nema klizača glasnoće po kartici. Možete utišati bučnu karticu, ali je ne možete stišati na 20% dok drugu držite na 80%.</p>
+
+<h2>Što stvarno možete kontrolirati</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> kontrolira glasnoću na razini aplikacije. Budući da je svaki preglednik zasebna aplikacija, dobivate neovisnu kontrolu nad:</p>
+
+<h3>Radni tijekovi s više preglednika</h3>
+<ul>
+  <li><strong>Chrome:</strong> 100% — vaš glavni video ili vodič</li>
+  <li><strong>Safari:</strong> 40% — pozadinski referentni materijal</li>
+  <li><strong>Firefox:</strong> utišan — testiranje ili razvojni alati, zvuk nije potreban</li>
+</ul>
+
+<p>Ako koristite više preglednika (mnogi programeri i istraživači to rade), svaki preglednik dobiva vlastiti klizač. To je prava kontrola po „grupi kartica", jer možete dodijeliti različiti sadržaj različitim preglednicima i miksati ih neovisno.</p>
+
+<h3>Preglednik naspram svega ostalog</h3>
+
+<p>Češći scenarij je jednostavno željeti da zvuk preglednika bude na drugačijoj razini od vaših ostalih aplikacija. Glazba preglasna preko YouTube vodiča? Stišajte Spotify na 30% dok Chrome držite na 100%. Zoom poziv dok kartica preglednika svira referentni materijal? Potpuno utišajte preglednik tijekom poziva utišavanjem po aplikaciji, pa ga nakon toga uključite.</p>
+
+<h3>Zaobilazno rješenje utišavanjem kartice</h3>
+
+<p>Za istinsku kontrolu po kartici unutar jednog preglednika, ugrađeno utišavanje kartice jedina vam je opcija. Kombinirajte ga sa SoundDialovom glasnoćom po pregledniku: utišajte bučnu karticu unutar preglednika, a zatim SoundDialom postavite ukupnu glasnoću preglednika tamo gdje je želite u odnosu na ostale aplikacije.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Preuzmite SoundDial na Mac App Storeu</a> — jednokratna kupnja za 14,99 €, bez pretplate, macOS 14.2+.</p>
+"""
+},
+{
+"slug": "mac-audio-for-language-learning",
+"title": "Zvuk na Macu za učenje jezika: odvojite Anki, podcast i video",
+"description": "Učenje jezika na Macu znači žongliranje sa zvukom kartica za učenje, podcastima, video lekcijama i pretraživanjem rječnika — sve se natječe za istu glasnoću. Evo kako ih uskladiti.",
+"content": """
+<p>Učite jezik na svom Macu. Anki reproducira zvuk izgovora za kartice za učenje. Podcast na vašem ciljanom jeziku radi u pozadini radi uranjanja. Otvorite YouTube lekciju gramatike u pregledniku. Sad tri izvora zvuka sviraju istovremeno, svi na različitim prirodnim glasnoćama, a macOS vam daje jedan klizač za kontrolu svih njih. Anki isječci izgovora su pretihi da ih uhvatite, podcast je preglasan, a YouTube video je negdje između.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — postava zvuka za učenje jezika na Macu s neovisnim glasnoćama aplikacija" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Zvučni kaos učenika jezika</h2>
+
+<p>Učenje jezika po prirodi uključuje više izvora zvuka. Aplikacije za kartice za učenje reproduciraju kratke isječke. Aplikacije za podcaste striming kontinuirani zvuk. Video lekcije miksaju govor s glazbom i zvučnim efektima. Aplikacije rječnika izgovaraju riječi na zahtjev. Svaki izvor ima vlastitu internu razinu glasnoće, a nikad nisu međusobno kalibrirani.</p>
+
+<p>Uobičajeno zaobilazno rješenje je pauzirati sve osim onoga što aktivno koristite. No to poništava pristup „pozadinskog uranjanja" na koji se mnogi učenici oslanjaju — držanje zvuka ciljanog jezika da tiho svira dok rade druge aktivnosti učenja.</p>
+
+<h2>Slojevit zvuk za učenje jezika</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> vam omogućuje da postavite svaku aplikaciju na njezinu idealnu razinu i držite više izvora aktivnima u ugodnom miksu.</p>
+
+<h3>Profil za učenje</h3>
+<ul>
+  <li><strong>Anki:</strong> 100% (pojačano ako su isječci tihi) — izgovor mora biti kristalno jasan</li>
+  <li><strong>Aplikacija za podcast:</strong> 20-30% — blago pozadinsko uranjanje, bez natjecanja s aktivnim učenjem</li>
+  <li><strong>Preglednik (YouTube lekcije):</strong> 80% — jasno kad gledate, lako sniziti kad ponavljate kartice</li>
+  <li><strong>Aplikacija rječnika:</strong> 90% — izgovori riječi čujni na zahtjev</li>
+  <li><strong>Slack / Messages:</strong> utišani — vrijeme učenja znači vrijeme učenja</li>
+</ul>
+
+<h3>Način uranjanja</h3>
+<ul>
+  <li><strong>Podcast / radijski stream:</strong> 60% — ugodna razina slušanja</li>
+  <li><strong>Sve ostalo:</strong> utišano ili vrlo tiho</li>
+</ul>
+
+<p>Prebacujte se između profila dok prelazite s aktivnog učenja na pasivno uranjanje. Vaše zvučno okruženje prilagođava se vašem načinu učenja bez ručnog podešavanja klizača svaki put.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Preuzmite SoundDial na Mac App Storeu</a> — jednokratna kupnja za 14,99 €, bez pretplate, macOS 14.2+.</p>
+"""
+},
+]
+
+with open("/Users/eduardbruch/Desktop/vscode/eduard-bruch-website/i18n-tools/translated/sounddial_hr_part6.json", "w") as f:
+    json.dump(items, f, ensure_ascii=False, indent=2)
+
+print("wrote", len(items), "items")

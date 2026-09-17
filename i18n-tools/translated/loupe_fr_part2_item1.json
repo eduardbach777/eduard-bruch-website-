@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "open-tar-gz-mac-without-terminal",
+    "title": "Ouvrir des fichiers .tar.gz sur Mac sans le Terminal",
+    "description": "Vous avez reçu un fichier .tar.gz et macOS ne sait pas quoi en faire. Le conseil habituel est de passer par le Terminal, mais il existe une méthode visuelle pour vérifier d'abord son contenu.",
+    "content": "\n<p>Un développeur vous envoie un fichier .tar.gz. Ou vous téléchargez un outil open source distribué sous forme de tarball. Vous double-cliquez dessus sur votre Mac, et macOS crée soit un fichier .tar (en retirant une couche de compression), soit ne fait rien du tout. Vous cherchez de l'aide, et chaque résultat vous dit d'ouvrir le Terminal et de taper \\`tar -tzf filename.tar.gz\\`.</p>\n\n<p>Si vous n'êtes pas à l'aise avec le Terminal, c'est une impasse. Et même si vous l'êtes, passer par un outil en ligne de commande juste pour vérifier le contenu d'une archive casse votre méthode de travail dans le Finder.</p>\n\n<h2>Le problème des fichiers .tar.gz sur macOS</h2>\n\n<p>Les fichiers TAR (tape archives) sont un incontournable d'Unix, et le .tar.gz (TAR compressé en gzip) est le format de distribution le plus courant pour les logiciels open source, les paquets de code et les sauvegardes de serveurs. macOS offre une prise en charge partielle : il peut parfois extraire les fichiers .tar.gz via l'Utilitaire d'archives, mais le comportement est incohérent.</p>\n\n<p>Plus important encore, il n'existe aucun moyen de prévisualiser le contenu d'un fichier .tar.gz avant de l'extraire. Quick Look n'affiche rien d'utile — juste le nom du fichier et sa taille. La seule méthode fiable pour lister le contenu est la commande Terminal \\`tar -tzf"
+  }
+]

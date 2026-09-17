@@ -1,3 +1,812 @@
 import type { ArticleSet } from "./index";
 
-export const ptArticles: ArticleSet = {};
+export const ptArticles: ArticleSet = {
+  "set-timer-quickly-mac": {
+    slug: "set-timer-quickly-mac",
+    title: "Como Configurar um Temporizador Rapidamente no Mac Sem Abrir um App",
+    description: "Configurar um temporizador no macOS exige passos demais. Existe uma forma mais rápida, que vive na barra de menus e começa com um único gesto de arrastar.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você precisa de um temporizador de cinco minutos. Pega o iPhone e abre o Relógio, ou abre o Spotlight e tenta digitar "temporizador 5 minutos" — só para lembrar que o macOS não tem nenhum temporizador nativo. Então você procura um timer online, espera os anúncios carregarem e torce para não fechar a aba sem querer. O desvio inteiro demorou mais do que a própria coisa que você estava cronometrando.</p>
+
+<p>Isso acontece dezenas de vezes por semana se você trabalha em um Mac. Preparar chá, esperar um build terminar, dar a si mesmo um prazo para uma tarefa — temporizadores são um dos utilitários mais básicos que existem, e o macOS simplesmente não vem com um.</p>
+
+<h2>Por que o macOS dificulta temporizadores rápidos</h2>
+<p>A Apple adicionou um app Relógio ao macOS Ventura, mas ele exige abrir o app, navegar até a aba Temporizador, girar as rodas de seleção e apertar Iniciar. São quatro passos para algo que deveria levar só um. A Siri consegue definir um temporizador por voz, mas falar em voz alta num escritório aberto nem sempre é uma opção, e o temporizador da Siri vive dentro de uma notificação — fácil de perder, impossível de checar num relance.</p>
+
+<p>Temporizadores baseados na web funcionam na emergência, mas dependem de manter uma aba do navegador aberta. Feche-a ou mude de espaço de trabalho e o alarme pode nunca chegar até você. Nenhuma dessas soluções respeita a rapidez que um temporizador deveria ter.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> fica na sua barra de menus e permite definir um temporizador arrastando. Clique no ícone, arraste para baixo para escolher a duração, solte para iniciar. Um gesto só, sem janelas, sem digitação. Um anel ao vivo se preenche ao redor do ícone, então você sempre sabe quanto tempo falta sem tirar os olhos do seu trabalho.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull menu bar timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Lembrete de pausa rápida</h3>
+<p>Arraste até 10 minutos e solte. O anel conta regressivamente em silêncio no canto da sua tela. Quando termina, você recebe uma notificação com feedback tátil. Sem app para trocar, sem aba para vigiar.</p>
+
+<h3>Cozinhando da sua mesa</h3>
+<p>Deixando o chá em infusão ou esquentando comida enquanto trabalha? Arraste até 3 ou 4 minutos e solte. O anel se enchendo é visível num relance, mesmo numa barra de menus lotada.</p>
+
+<h3>Delimitando tarefas no tempo</h3>
+<p>Dê a si mesmo 25 minutos para um relatório. A contagem regressiva fica quieta na barra de menus — presente, mas sem distrair. Quando o anel se completa, você decide se continua ou muda de tarefa.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "best-menu-bar-timer-mac": {
+    slug: "best-menu-bar-timer-mac",
+    title: "O Melhor Temporizador de Barra de Menus para Mac",
+    description: "A maioria dos apps de temporizador para Mac abre uma janela inteira só para fazer a contagem regressiva. Os melhores ficam na barra de menus, onde um temporizador pertence — pequeno, visível e fora do caminho.",
+    date: "2026-09-06",
+    readTime: "5 min de leitura",
+    content: `
+<p>Um temporizador deveria ser a ferramenta mais enxuta possível: iniciar, dar uma olhada, ser notificado quando termina. Ainda assim, a maioria dos apps de temporizador no macOS abre uma janela dedicada, exige espaço na tela e interrompe o que você estava fazendo. Se você precisa organizar janelas ao redor de uma contagem regressiva, o app já é pesado demais.</p>
+
+<p>A barra de menus é o lugar onde um temporizador pertence. Está sempre visível, nunca cobre seu trabalho e fica bem ao lado do relógio — o lugar para onde seus olhos vão naturalmente ao checar as horas.</p>
+
+<h2>O que procurar em um temporizador de barra de menus</h2>
+<p>Nem todo temporizador de barra de menus é igual. Alguns abrem um painel que você precisa configurar toda vez. Outros mostram uma contagem em texto que disputa espaço com seus outros ícones da barra de menus. O melhor temporizador de barra de menus deve permitir definir uma duração em uma única ação, mostrar o progresso visualmente e suportar mais de um temporizador rodando quando você precisar.</p>
+
+<p>Temporizadores com atalhos de teclado são rápidos, mas ainda exigem digitar um número. Temporizadores de roda de rolagem são engenhosos, mas imprecisos. A entrada ideal é aquela que parece física — algo que você faz sem pensar.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> adota uma abordagem diferente para o problema da entrada. Você arrasta a partir do ícone na barra de menus para definir a duração — arraste mais para mais tempo, solte para iniciar. Um anel se preenche ao redor do ícone enquanto o temporizador conta regressivamente, então um relance rápido já diz aproximadamente quanto tempo falta, sem precisar ler números.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull best menu bar timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Um gesto para começar</h3>
+<p>Sem rodas de seleção, sem campos de texto, sem menus suspensos. Arraste e solte. O temporizador já está rodando antes de sua mão sair do trackpad.</p>
+
+<h3>Vários temporizadores ao mesmo tempo</h3>
+<p>Precisa acompanhar um temporizador de reunião e um de pausa ao mesmo tempo? O Tickpull suporta temporizadores paralelos. Cada um preenche seu próprio anel e cada um avisa você de forma independente quando termina.</p>
+
+<h3>Feedback tátil na conclusão</h3>
+<p>Em MacBooks com trackpad Force Touch, o Tickpull entrega um toque tátil quando um temporizador termina. Mesmo com as notificações silenciadas, você sente o alerta nos pulsos — sutil o suficiente para não assustar em um ambiente silencioso.</p>
+
+<h3>Nenhum espaço na tela</h3>
+<p>O Tickpull não tem janela principal. O app inteiro vive na barra de menus. Não há nada para fechar, nada para minimizar e nada disputando espaço no seu Dock.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "cooking-timer-mac": {
+    slug: "cooking-timer-mac",
+    title: "Temporizador de Cozinha para Mac: Configure em um Único Gesto",
+    description: "Quando suas mãos estão ocupadas na cozinha, mexer em janelas de app para iniciar um temporizador desperdiça segundos preciosos. Um gesto de arrastar e soltar deveria bastar.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você está fervendo macarrão no fogão e seu MacBook está na bancada da cozinha reproduzindo um vídeo de receita. Você precisa de um temporizador de oito minutos — agora mesmo. Desbloquear o celular, abrir o app Relógio, girar a roda dos minutos e apertar Iniciar parece absurdo quando a água já está fervendo. No tempo em que você configura o temporizador, já perdeu quinze segundos e respingou molho na tela do celular.</p>
+
+<p>Quem cozinha perto de um computador — seja numa cozinha doméstica, num estúdio ou numa copa — esbarra nisso o tempo todo. O Mac está bem ali, mas o macOS torna os temporizadores desnecessariamente lentos para iniciar.</p>
+
+<h2>Por que as opções nativas ficam a desejar</h2>
+<p>O app Relógio do macOS esconde seu temporizador atrás de uma aba e um seletor de rolagem. A Siri funciona sem as mãos, mas numa cozinha barulhenta com exaustor e panela chiando, o reconhecimento de voz não é confiável. Temporizadores web exigem achar uma aba e clicar em Iniciar. Nenhuma dessas opções leva você de "preciso de um temporizador" a "temporizador rodando" em menos de um segundo.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> foi feito exatamente para esse tipo de momento. Um arrastar a partir do ícone na barra de menus define a duração. Solte para iniciar. A interação inteira leva menos de um segundo e você nunca sai da tela em que está.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull cooking timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Macarrão, arroz, ovos</h3>
+<p>Arraste até 8, 12 ou 6 minutos. O anel se preenche na barra de menus enquanto você assiste ao vídeo da receita. Quando o temporizador termina, uma notificação e um toque tátil avisam que chegou a hora — sem precisar ficar checando.</p>
+
+<h3>Vários pratos ao mesmo tempo</h3>
+<p>Assando legumes por 25 minutos enquanto o arroz precisa de 15? Inicie dois temporizadores. O Tickpull lida com contagens regressivas paralelas, cada uma com seu próprio anel e alerta. Chega de fazer conta de cabeça sobre qual prato entrou primeiro.</p>
+
+<h3>Fermentação de pão e cozimentos lentos</h3>
+<p>Arraste mais para durações mais longas. Defina um temporizador de fermentação de 45 minutos ou um cozimento lento de 90 minutos. O anel se preenche gradualmente, então um relance já diz se você está na metade ou quase terminando.</p>
+
+<p>Temporizadores de cozinha deveriam ser rápidos, visíveis e esquecíveis depois de configurados. O Tickpull entrega os três.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "multiple-timers-mac": {
+    slug: "multiple-timers-mac",
+    title: "Como Rodar Vários Temporizadores no Mac ao Mesmo Tempo",
+    description: "Rodar duas ou mais contagens regressivas simultaneamente no macOS costuma significar equilibrar apps separados ou abas do navegador. Existe uma forma mais limpa.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você define um temporizador de foco de 25 minutos e começa a trabalhar. Dez minutos depois, coloca algo no forno que precisa de 15 minutos. Agora você precisa de um segundo temporizador, mas o app que está usando só suporta um. Então você abre uma aba do navegador, procura um timer web, digita 15, aperta Iniciar e torce para lembrar qual alarme é qual quando os dois tocarem com minutos de diferença.</p>
+
+<p>Temporizadores paralelos são uma necessidade surpreendentemente comum. Cozinhar vários pratos, conduzir uma reunião enquanto acompanha uma pausa, ou cronometrar tarefas separadas — tudo isso exige mais de uma contagem regressiva por vez.</p>
+
+<h2>Por que a maioria das ferramentas de temporizador para Mac só lida com uma</h2>
+<p>O app Relógio do macOS suporta apenas um temporizador. A Siri define um temporizador de cada vez. A maioria dos apps de terceiros trata o temporizador como um widget de instância única: uma contagem regressiva, uma exibição. Se você precisa de uma segunda, abre um segundo app — o que significa o dobro de janelas, o dobro de distração e dois estilos de notificação diferentes.</p>
+
+<p>Mesmo os apps que permitem vários temporizadores geralmente os apresentam numa lista dentro de uma janela, exigindo que você abra o app para checar o progresso.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> suporta múltiplos temporizadores paralelos nativamente. Cada temporizador começa com o mesmo gesto de arrastar e cada um mostra seu próprio anel ao vivo na barra de menus. Você pode definir três, quatro ou mais contagens regressivas e vê-las se preencher de forma independente sem abrir uma única janela.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull multiple timers on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Cozinhando com várias bocas do fogão</h3>
+<p>Arroz em 12 minutos, molho em 8, legumes em 20. Três arrastadas, três soltadas, três anéis. Cada temporizador avisa você de forma independente quando termina.</p>
+
+<h3>Blocos de trabalho com pausas encaixadas</h3>
+<p>Inicie uma sessão de trabalho de 50 minutos. Vinte minutos depois, defina um temporizador de 5 minutos para deixar um download terminar. Os dois rodam lado a lado, e cada notificação chega na hora certa.</p>
+
+<h3>Segmentos de reunião</h3>
+<p>Conduzindo um standup com três itens de pauta? Defina um temporizador para cada segmento. Os anéis dão a você e à sua equipe uma pista visual de quanto tempo resta para o tópico atual.</p>
+
+<p>Vários temporizadores não deveriam exigir vários apps. O Tickpull mantém tudo em uma única fileira de anéis na barra de menus.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "pomodoro-timer-mac-menu-bar": {
+    slug: "pomodoro-timer-mac-menu-bar",
+    title: "Temporizador Pomodoro para Mac que Vive na Barra de Menus",
+    description: "Apps de Pomodoro completos adicionam recursos que você nunca pediu. Às vezes tudo que você precisa é uma contagem regressiva de 25 minutos que fique visível e fora do caminho.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>A técnica Pomodoro é simples: trabalhe por 25 minutos, faça uma pausa de 5, repita. Mas a maioria dos apps de Pomodoro no macOS não é simples. Eles rastreiam sequências, mostram gráficos da sua produtividade ao longo de semanas, abrem caixas de diálogo perguntando o que você realizou e vêm com uma lista de tarefas que você nunca vai usar. Tudo que você queria era uma contagem regressiva.</p>
+
+<p>A sobrecarga de um app de Pomodoro cheio de recursos muitas vezes derrota o próprio propósito. Você gasta tempo configurando a ferramenta em vez de fazer o trabalho que ela deveria ajudar você a focar.</p>
+
+<h2>Por que apps dedicados de Pomodoro parecem pesados</h2>
+<p>A maioria dos apps de Pomodoro abre uma janela com histórico de sessões, painéis de configuração para a proporção trabalho-pausa e integrações com gerenciadores de tarefas. Eles presumem que você quer criar um hábito em torno da técnica. Mas muita gente só quer um temporizador visível de 25 minutos — hoje, agora, sem compromisso.</p>
+
+<p>A barra de menus é o lugar ideal para isso. Não rouba o foco, não cobre seu editor e está sempre a um relance de distância. Ainda assim, a maioria dos apps de Pomodoro trata a barra de menus como uma tela secundária, deixando os controles de verdade atrás de uma janela.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> não é um app de Pomodoro — é um temporizador que por acaso é perfeito para a técnica. Arraste até 25 minutos, solte e trabalhe. O anel se preenche na barra de menus. Quando completa, arraste até 5 minutos para uma pausa. É esse o fluxo inteiro: dois gestos por ciclo, sem janelas, sem painéis de estatísticas.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull Pomodoro timer in Mac menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Ciclo padrão de 25/5</h3>
+<p>Arraste até 25 para um bloco de trabalho. Quando o anel se completa e o toque tátil chega, arraste até 5 para uma pausa. Depois de quatro ciclos, arraste até 15 ou 20 para um descanso mais longo. Sem necessidade de configuração — você decide a duração a cada vez.</p>
+
+<h3>Blocos de foco flexíveis</h3>
+<p>Nem toda tarefa cabe em 25 minutos. Em alguns dias você quer sessões de trabalho profundo de 45 minutos com pausas de 10. Como o Tickpull permite escolher qualquer duração na hora, você se ajusta a como está se sentindo em vez de ficar preso a um cronograma rígido.</p>
+
+<h3>Sem culpa, sem sequências</h3>
+<p>O Tickpull não rastreia quantos Pomodoros você completou nesta semana. Não há sequência para quebrar nem gráfico para fazer você se sentir mal por uma terça-feira mais lenta. É só um temporizador — use quando ajudar, ignore quando não ajudar.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-timer-without-siri": {
+    slug: "mac-timer-without-siri",
+    title: "Como Definir um Temporizador no Mac Sem Usar a Siri",
+    description: "Falar com o computador nem sempre é uma opção. Em escritórios compartilhados, bibliotecas ou tarde da noite, você precisa de uma forma silenciosa de iniciar um temporizador no macOS.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>A Siri consegue definir um temporizador no seu Mac com um comando de voz, e funciona — quando você está sozinho. Num escritório compartilhado, numa biblioteca ou num quarto silencioso à meia-noite, pedir em voz alta ao seu notebook para "definir um temporizador de 10 minutos" não é prático. Você precisa de uma forma de iniciar um temporizador em silêncio, sem abrir um app inteiro ou uma aba do navegador.</p>
+
+<p>Muita gente deixa a Siri completamente desativada por motivos de privacidade ou preferência pessoal. Para essas pessoas, o macOS praticamente não oferece nenhuma opção rápida de temporizador.</p>
+
+<h2>As opções sem Siri no macOS</h2>
+<p>Sem a Siri, você pode abrir o app Relógio, mudar para a aba Temporizador, girar as rodas de hora e minuto e apertar Iniciar. Funciona, mas é lento — quatro passos e uma janela que você precisa fechar depois. Você pode criar um evento de calendário com um alerta, mas isso é ainda mais passos. Temporizadores web funcionam na emergência, mas dependem de manter a aba aberta e sem mudo.</p>
+
+<p>Usuários de Terminal às vezes rodam <code>sleep 600 && say "done"</code> num shell, o que é engenhoso, mas exige digitar um número exato de segundos e manter a janela do Terminal aberta. Nenhuma dessas opções parece uma experiência de temporizador de verdade.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> define um temporizador com um único gesto de arrastar — sem voz, sem digitação, sem janelas. Clique no ícone da barra de menus, arraste para escolher a duração, solte. O temporizador inicia em silêncio e um anel se preenche ao redor do ícone enquanto conta regressivamente. Quando termina, uma notificação e um toque tátil opcional avisam você sem incomodar ninguém por perto.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull silent timer without Siri on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Bibliotecas e espaços de coworking</h3>
+<p>Sem comando de voz, sem alarme berrando de um alto-falante. Defina um bloco de foco de 30 minutos com uma arrastada e receba uma notificação discreta quando terminar. O toque tátil em trackpads Force Touch torna o alerta pessoal — você sente, ninguém mais ouve.</p>
+
+<h3>Sessões de trabalho tarde da noite</h3>
+<p>Trabalhando enquanto alguém dorme no quarto ao lado? Toda a interação do Tickpull é silenciosa. Arraste, solte, dê uma olhada no anel. Até o alerta de conclusão é uma notificação do sistema que você pode configurar para aparecer só como banner.</p>
+
+<h3>Configurações sem Siri</h3>
+<p>Se você mantém a Siri desligada por privacidade, velocidade ou preferência pessoal, o Tickpull preenche a lacuna de temporizador que o macOS deixa. Não exige assistente, conexão com a internet nem acesso ao microfone.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "focus-timer-mac-drag-to-set": {
+    slug: "focus-timer-mac-drag-to-set",
+    title: "Temporizador de Foco para Mac: Arraste para Definir, Solte para Iniciar",
+    description: "Um temporizador de foco deveria levar menos de um segundo para começar. Se você está clicando por menus para iniciar uma sessão de trabalho, a ferramenta já está quebrando seu foco.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você se senta para escrever. Diz a si mesmo "uma hora de foco total". Aí gasta dois minutos procurando um temporizador, configurando-o, escolhendo um modo e fechando uma caixa de diálogo sobre metas diárias. No momento em que a contagem regressiva começa, seu foco já está fragmentado e você está pensando na ferramenta em vez do trabalho.</p>
+
+<p>O melhor temporizador de foco é invisível. Começa rápido, fica visível mas discreto, e avisa você sem alarde quando o tempo acaba. Qualquer coisa além disso é atrito.</p>
+
+<h2>Por que a maioria dos temporizadores de foco cria atrito</h2>
+<p>Apps de foco e produtividade tendem a acumular recursos: sons ambientes, listas de tarefas, estatísticas, bloqueadores de sites, integrações com ferramentas de gestão de projetos. Cada recurso adiciona mais uma coisa para configurar ou dispensar antes que o temporizador realmente comece. Para quem só quer uma contagem regressiva — não um sistema de produtividade — esses apps são contraproducentes.</p>
+
+<p>O método de entrada também importa. Digitar "25" num campo de texto, selecionar de um menu suspenso ou girar um seletor exigem interação precisa. Tudo isso tira você da zona de concentração que está tentando alcançar.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> substitui tudo isso por um único gesto físico. Arraste a partir do ícone na barra de menus para escolher uma duração — quanto mais você arrasta, mais longo o temporizador. Solte para iniciar. A interação inteira leva menos de um segundo e parece mais girar o botão de um timer de cozinha do que operar um software.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull drag-to-set focus timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Blocos de trabalho profundo</h3>
+<p>Arraste até 60 minutos e comece a escrever. O anel se preenche lentamente na barra de menus, oferecendo uma consciência sutil da passagem do tempo sem exigir atenção. Sem pop-ups, sem check-ins, sem interrupções até o temporizador terminar.</p>
+
+<h3>Sprints curtos</h3>
+<p>Algumas tarefas respondem melhor a explosões de 10 ou 15 minutos. Arraste até uma duração curta, resolva a tarefa, repita. O baixo esforço para iniciar um temporizador significa que você realmente o usa, em vez de só estimar o tempo.</p>
+
+<h3>Nenhum app para fechar depois</h3>
+<p>Como o Tickpull não tem janela principal, não há nada para minimizar ou encerrar quando a sessão termina. O anel esvazia, a notificação chega, e o app volta a ficar quieto na barra de menus até você precisar dele de novo.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-meeting-timer-menu-bar": {
+    slug: "mac-meeting-timer-menu-bar",
+    title: "Temporizador de Reunião para a Barra de Menus do Mac — Nunca Mais Estoure o Tempo",
+    description: "As reuniões se estendem demais porque ninguém fica de olho no relógio. Uma contagem regressiva visível na barra de menus mantém tudo nos trilhos sem que ninguém precise bancar o controlador do tempo.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Toda reunião recorrente tem o mesmo problema: o primeiro tópico leva 20 minutos, o segundo fica com 5, e os últimos três são apressados ou simplesmente pulados. Alguém deveria estar de olho no tempo, mas ninguém quer ser essa pessoa — e dar uma olhada num relógio minúsculo no canto não diz quanto do seu intervalo de 30 minutos já se foi.</p>
+
+<p>Uma contagem regressiva visível muda a dinâmica. Quando todos podem ver o tempo se esgotando, as conversas se autorregulam. As pessoas concluem seus pontos mais rápido e o grupo mantém o cronograma.</p>
+
+<h2>Por que relógios de parede e temporizadores de celular não funcionam</h2>
+<p>Em reuniões remotas, não existe um relógio de parede compartilhado. Você está olhando para uma videochamada no seu Mac. Definir um temporizador no celular significa desviar o olhar da tela, e o alarme assusta todo mundo na chamada. O temporizador do app Relógio do macOS abre uma janela que acaba soterrada sob seu app de vídeo. E pedir para a Siri definir um temporizador durante uma chamada capta o microfone de todo mundo.</p>
+
+<p>O que você precisa é de um temporizador visível na sua tela — bem ao lado do relógio — sem cobrir a janela da reunião.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> coloca um anel que se preenche na barra de menus. Antes de a reunião começar, arraste até 30 minutos (ou o tempo do seu intervalo) e solte. O anel se preenche ao longo da chamada, dando a você uma visão constante de quanto tempo resta. Sem janela, sem trocar de app, sem interrupção.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull meeting timer in Mac menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Reuniões de alinhamento diário</h3>
+<p>Um alinhamento de 15 minutos com cinco pessoas significa cerca de 3 minutos cada. Defina um temporizador geral de 15 minutos e dê uma olhada no anel para avaliar o ritmo. Se o anel está pela metade e só duas pessoas falaram, você sabe que precisa acelerar as coisas.</p>
+
+<h3>Intervalos de apresentação</h3>
+<p>Apresentando numa reunião geral com um intervalo de 10 minutos? O anel se preenchendo na barra de menus dá a você uma contagem regressiva no estilo relógio de palco, sem precisar de um dispositivo extra na mesa.</p>
+
+<h3>Reuniões consecutivas</h3>
+<p>Quando uma reunião termina e a próxima começa em cinco minutos, defina um temporizador rápido de 5 minutos de intervalo. O anel lembra você de pegar água e trocar de contexto antes que a próxima chamada comece.</p>
+
+<p>Reuniões respeitam prazos quando os prazos são visíveis. Um anel na barra de menus é a forma mais sutil de impor isso.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "egg-timer-mac-app": {
+    slug: "egg-timer-mac-app",
+    title: "Temporizador de Ovo Simples para Mac — Sem Cliques, Só Arraste",
+    description: "Cozinhar um ovo não deveria exigir navegar por um app. Um temporizador que começa com um único gesto mantém as coisas tão simples quanto a própria tarefa.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Mole: 6 minutos. Ponto médio: 9 minutos. Duro: 12 minutos. Você sabe os números de cor, mas toda vez que coloca os ovos na panela, iniciar um temporizador é a parte difícil. Seu celular está no outro cômodo. O Mac está bem aqui, mas abrir um app, achar a aba do temporizador e girar rodas para definir 9 minutos parece absurdo para algo tão simples.</p>
+
+<p>O temporizador de ovo foi um dos primeiros gadgets de propósito único já criados — um giro de pulso e ele começa a marcar. Definir um temporizador num computador deveria ser, no mínimo, igualmente fácil.</p>
+
+<h2>Por que os temporizadores digitais perderam o rumo</h2>
+<p>Temporizadores de ovo físicos exigiam uma única ação: girar. Temporizadores digitais no macOS exigem achar um app, escolher um modo, inserir uma duração com controles precisos e apertar Iniciar. A interação foi de um passo para quatro ou cinco. Não é que um único passo seja difícil — é que o atrito total se acumula até virar "vou só chutar quando estiver pronto".</p>
+
+<p>E chutar significa ovos passados do ponto boa parte das vezes.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> traz de volta o temporizador de uma ação só. Arraste a partir do ícone na barra de menus para definir o tempo — uma arrastada curta para 6 minutos, uma mais longa para 12 — e solte para iniciar. É parecido com girar o mostrador de um timer físico. Um anel se preenche na barra de menus enquanto os ovos cozinham, e um toque tátil avisa quando estão prontos.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull simple egg timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Mole, no ponto ou duro</h3>
+<p>Você não precisa digitar "6" nem girar até "0 horas 6 minutos". Basta arrastar até aproximadamente 6 minutos e soltar. O gesto de arrastar é flexível — chegar perto já basta para ovos, e o retorno visual confirma a duração antes de você soltar.</p>
+
+<h3>Multitarefa no café da manhã</h3>
+<p>Ovos numa panela, mingau em outra. Inicie dois temporizadores com duas arrastadas. Cada anel se preenche de forma independente na barra de menus, então você sabe num relance qual termina primeiro.</p>
+
+<h3>Chá, café, prensa francesa</h3>
+<p>O mesmo gesto funciona para qualquer temporizador de cozinha. Quatro minutos para uma prensa francesa. Três minutos para chá verde. Arraste, solte, pronto. A simplicidade de um temporizador físico, com a confiabilidade de uma notificação que você não vai perder.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-countdown-timer-visible": {
+    slug: "mac-countdown-timer-visible",
+    title: "Temporizador de Contagem Regressiva para Mac que Fica Visível na Barra de Menus",
+    description: "Temporizadores escondidos em janelas ou abas do navegador acabam esquecidos. Uma contagem regressiva que fica na barra de menus está sempre a um relance de distância, não importa qual app você esteja usando.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você define um temporizador de 20 minutos, volta ao seu trabalho e esquece que o temporizador existe. Cinco minutos depois de ele terminar, você percebe a notificação enterrada sob outros três alertas. O temporizador fez o trabalho dele — tecnicamente — mas você perdeu o aviso porque ele ficou invisível no momento em que você trocou de app.</p>
+
+<p>Temporizadores que desaparecem atrás de janelas derrotam o próprio propósito. O ponto central de uma contagem regressiva é a consciência da passagem do tempo. Se você precisa trocar de app para checá-la, vai parar de checar.</p>
+
+<h2>Onde os temporizadores do Mac vão se esconder</h2>
+<p>O temporizador do app Relógio vive na própria janela. Minimize-a e ela some no Dock. Coloque seu editor em tela cheia e ela desaparece por completo. Temporizadores baseados na web compartilham o mesmo destino — existem numa aba do navegador que você inevitavelmente vai cobrir. Até temporizadores definidos pela Siri produzem uma única notificação no final, sem nenhuma contagem regressiva visual.</p>
+
+<p>A única parte do macOS que está sempre visível, não importa qual app esteja em primeiro plano, é a barra de menus. É ali que uma contagem regressiva pertence.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> coloca a contagem regressiva no único lugar onde você não consegue perdê-la. Um anel se preenche ao redor do ícone da barra de menus conforme o temporizador avança. Esteja você num navegador em tela cheia, num editor focado ou numa videochamada, o anel está visível no canto superior direito. Um relance já diz aproximadamente quanto tempo falta — sem trocar de app, sem caçar uma aba.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull visible countdown timer in Mac menu bar" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Fluxos de trabalho em tela cheia</h3>
+<p>Escritores, designers e desenvolvedores costumam trabalhar em tela cheia. A barra de menus ainda aparece no topo da tela, e o anel do Tickpull fica visível ali. Você nunca precisa quebrar seu layout de tela cheia para checar um temporizador.</p>
+
+<h3>Consciência passiva do tempo</h3>
+<p>O anel não é um número exigindo atenção — é uma forma que se preenche gradualmente. Sua visão periférica capta o progresso naturalmente. Você percebe que já passou de três quartos sem decidir conscientemente checar. Essa consciência ambiente é exatamente o que o torna útil.</p>
+
+<h3>Um alerta de fim de temporizador que você não vai perder</h3>
+<p>Quando o anel se completa, o Tickpull envia uma notificação e um toque tátil em trackpads compatíveis. Mesmo que você estivesse profundamente concentrado e não olhando para o anel, o retorno tátil chega até você. É discreto o suficiente para espaços compartilhados, mas distinto o bastante para você não passar batido.</p>
+
+<p>Um temporizador que você não consegue ver é um temporizador que você não vai usar. O Tickpull mantém a contagem regressiva onde seus olhos já vão naturalmente.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-timer-for-workouts": {
+    slug: "mac-timer-for-workouts",
+    title: "Temporizador de Mac para Treinos — HIIT, Alongamento, Intervalos de Descanso",
+    description: "Acompanhar um treino na tela do notebook significa que suas mãos estão ocupadas e seus olhos estão no exercício, não num cronômetro. Um temporizador de intervalos visível resolve o problema de acompanhamento.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você está acompanhando um vídeo de treino no seu Mac — 40 segundos de esforço, 20 segundos de descanso, repita. O próprio vídeo nem sempre tem uma sobreposição de temporizador embutida, ou você está fazendo sua própria rotina a partir de um plano escrito. De qualquer forma, você precisa acompanhar os intervalos com as mãos no chão ou segurando um haltere, o que descarta digitar num app ou girar um seletor entre séries.</p>
+
+<p>Temporizadores de celular ajudam, mas olhar para o celular no meio de uma prancha significa torcer o corpo ou perder a postura. Um temporizador na tela para a qual você já está olhando é muito mais prático.</p>
+
+<h2>Por que o macOS não oferece nada feito para isso</h2>
+<p>O temporizador do app Relógio foi projetado para uma única contagem regressiva avulsa, não para intervalos repetidos. Reiniciá-lo entre cada série significa reabrir o app, regirar o seletor e apertar Iniciar de novo — tudo isso respirando forte entre as repetições. Não há modo de intervalo, nem botão de repetição rápida, nada feito sob medida para exercícios.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> torna reiniciar um temporizador rápido o suficiente para fazer entre séries sem perder o ritmo. Arraste para definir uma duração, solte para iniciar, e o anel se preenche na barra de menus, onde sua tela já está. Definir o próximo intervalo leva mais uma arrastada — sem menus, sem rolagem.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull workout interval timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Intervalos de HIIT</h3>
+<p>Arraste até 40 segundos para o esforço, depois arraste rapidamente até 20 para o descanso. O anel dá uma noção visual de quanto do intervalo resta, então você consegue dosar o esforço sem ficar fixado num número de contagem regressiva.</p>
+
+<h3>Alongamentos e exercícios de mobilidade</h3>
+<p>Segurar um alongamento por 30 ou 60 segundos de cada lado é fácil de encurtar sem um temporizador. Defina uma vez, mantenha a posição e deixe o toque tátil ao terminar avisar quando trocar de lado.</p>
+
+<h3>Descanso entre séries de força</h3>
+<p>Dois ou três minutos de descanso entre séries pesadas são fáceis de perder de vista quando você está conversando ou checando o celular. Uma arrastada rápida mantém você honesto quanto ao tempo de descanso, sem precisar de um app de cronômetro aberto.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "tea-timer-mac": {
+    slug: "tea-timer-mac",
+    title: "Temporizador de Chá para Mac — Tempo de Infusão Sem Complicação",
+    description: "Chás diferentes precisam de tempos de infusão diferentes, e passar do ponto estraga a xícara. Um temporizador de um só gesto na sua mesa mantém cada preparo consistente sem precisar pegar o celular.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>O chá verde quer dois minutos, o chá preto quer quatro ou cinco, e um chá branco delicado pode ficar amargo depois de apenas três. Se você está trabalhando no seu Mac quando começa a infusão, o temporizador precisa ser rápido o suficiente para você realmente usá-lo — senão você vai "esperar mais um pouco" e acabar com uma xícara amarga e passada do ponto na maioria das vezes.</p>
+
+<p>O problema não é lembrar o tempo de infusão. É que iniciar um temporizador no macOS demora mais do que deveria, então as pessoas pulam essa etapa e ficam de olho no relógio por conta própria.</p>
+
+<h2>A lacuna nativa</h2>
+<p>O macOS não tem um temporizador que você possa iniciar direto da área de trabalho sem antes abrir um app. O app Relógio exige navegar até a aba Temporizador e girar rodas de seleção para uma duração que costuma ser de dois ou três minutos — mais tempo de configuração do que a diferença entre uma xícara boa e uma ruim. A Siri funciona, mas falar com o notebook sobre tempo de infusão de chá num escritório aberto parece desnecessário.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> fica na barra de menus e começa com uma arrastada. Despeje a água sobre as folhas, arraste até 3 minutos, solte e volte para sua tela. O anel se preenche em silêncio enquanto você trabalha, e um toque tátil avisa o momento certo de coar.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull tea timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Combinando o tempo de infusão com o tipo de chá</h3>
+<p>Arraste menos para chá verde ou branco, mais para chá preto ou blends de ervas. O gesto é flexível o suficiente para estimar uma duração aproximada em um ou dois segundos, que é tudo que um temporizador de infusão realmente precisa.</p>
+
+<h3>Várias xícaras, chás diferentes</h3>
+<p>Fazendo chá para você e um colega com preferências diferentes? Inicie dois temporizadores com duas arrastadas — cada xícara é retirada exatamente no momento certo, em vez de as duas ficarem em infusão pelo mesmo tempo genérico.</p>
+
+<h3>Segunda e terceira infusões</h3>
+<p>Chás de folhas soltas costumam passar por reinfusões com tempos ligeiramente mais longos a cada rodada. Uma nova arrastada rápida entre infusões é bem menos atrito do que reabrir um app três vezes numa mesma sessão de chá.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-clock-app-timer-missing": {
+    slug: "mac-clock-app-timer-missing",
+    title: "O Temporizador do App Relógio do macOS Está Sem Recursos Essenciais — Veja o Que Usar",
+    description: "O temporizador nativo do macOS cobre o básico, mas fica aquém no momento em que você precisa de mais de uma contagem regressiva ou de uma forma mais rápida de iniciá-la.",
+    date: "2026-09-06",
+    readTime: "5 min de leitura",
+    content: `
+<p>A Apple adicionou um app Relógio ao macOS Ventura, e com ele veio uma aba de temporizador. No papel, isso fecha uma lacuna que existia havia anos. Na prática, o recurso é limitado de formas que ficam óbvias assim que você o usa para algo além de uma única contagem regressiva ocasional.</p>
+
+<p>É um começo, mas chamá-lo de uma solução completa de temporizador exagera o que ele realmente faz.</p>
+
+<h2>O que o temporizador do app Relógio não consegue fazer</h2>
+<p>Ele suporta exatamente um temporizador ativo por vez — inicie um segundo e o primeiro é substituído. Não há como ver a contagem regressiva sem abrir o app ou checar uma janelinha, e ela some de vista no momento em que você troca de app ou entra em tela cheia. Definir uma duração significa girar as rodas de hora, minuto e segundo individualmente, o que é mais lento do que digitar um número, quanto mais arrastar um. Também não há alerta tátil ou háptico na conclusão — só um som e uma notificação, fáceis de perder se o Mac estiver mudo.</p>
+
+<p>Para um único caso de uso do tipo "me lembre em 10 minutos", tudo bem. Para qualquer coisa que envolva várias tarefas, uso frequente, ou ambientes onde você não consegue ouvir um alarme sonoro, ele fica sem opções rapidamente.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> resolve cada uma dessas lacunas diretamente. Vive na barra de menus, então está sempre visível, suporta vários temporizadores paralelos em vez de apenas um, começa com uma arrastada em vez de uma roda de seleção, e entrega feedback tátil em trackpads Force Touch quando um temporizador termina.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull alternative to macOS Clock app timer" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Contagem regressiva sempre visível</h3>
+<p>Um anel ao vivo se preenche ao redor do ícone da barra de menus, visível a partir de qualquer app, em qualquer tamanho de janela, sem precisar abrir nada.</p>
+
+<h3>Mais de um temporizador</h3>
+<p>Precisa de um temporizador de cozinha e um de trabalho rodando juntos? O Tickpull lida com os dois como anéis independentes, em vez de um sobrescrever o outro.</p>
+
+<h3>Mais rápido para iniciar</h3>
+<p>Uma arrastada a partir do ícone na barra de menus substitui três giros de roda e um toque em Iniciar. A interação inteira leva menos de um segundo.</p>
+
+<p>O temporizador do app Relógio é uma alternativa razoável quando você não tem mais nada instalado. Assim que você precisar de mais do que uma única contagem regressiva ocasional, vale a pena trocar por uma ferramenta realmente feita para essa função.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "presentation-timer-mac": {
+    slug: "presentation-timer-mac",
+    title: "Temporizador de Apresentação para Mac — Mantenha o Tempo Sem Olhar para o Celular",
+    description: "Olhar para o celular durante uma apresentação parece distração e quebra o contato visual com a plateia. Uma contagem regressiva visível na mesma tela de onde você apresenta resolve isso.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você tem 12 minutos para o seu momento na reunião geral. Na metade do tempo, não tem ideia se está no ritmo certo, atrasado ou prestes a estourar o tempo. Checar o celular no meio da apresentação passa a impressão de distração para a plateia, e virar para olhar um relógio de parede quebra completamente seu fluxo. O que você realmente precisa é de uma contagem regressiva visível na mesma tela para a qual você já está olhando enquanto apresenta.</p>
+
+<p>Isso importa ainda mais em palestras de conferência, pitches para clientes e webinars gravados, onde estourar o tempo ou invade o horário de outra pessoa ou acaba sendo cortado na edição depois.</p>
+
+<h2>Por que o compartilhamento de tela torna isso mais difícil</h2>
+<p>Quando você está compartilhando slides ou um app de apresentação em modo apresentador, a maior parte da sua tela fica ocupada com conteúdo que a plateia também vê, se você não tomar cuidado. Uma janela de temporizador separada precisa ou se esconder atrás dos slides ou correr o risco de aparecer no compartilhamento. Alguns softwares de apresentação têm temporizador embutido, mas nem todos, e isso não ajuda quando você está apresentando pelo Keynote, um PDF ou uma aba do navegador.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> mantém a contagem regressiva na barra de menus — fora da área que você está compartilhando, mas ainda no seu campo de visão. Arraste até o tempo que você tem disponível antes de começar a falar, solte e apresente. O anel se preenche em silêncio no canto, dando a você uma referência de ritmo sem uma janela para gerenciar ou esconder.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull presentation timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Palestras em conferências e reuniões gerais</h3>
+<p>Defina o temporizador com o tempo exato disponível antes de subir ao palco ou tirar o mudo. Uma olhada no anel diz se você precisa acelerar ou se tem espaço para uma pergunta.</p>
+
+<h3>Pitches para clientes</h3>
+<p>Manter-se dentro do horário agendado sinaliza respeito pela agenda do cliente. O anel mantém você ciente sem precisar anunciar "deixa eu ver as horas" no meio do pitch.</p>
+
+<h3>Webinars e demonstrações gravadas</h3>
+<p>Quando você está gravando para editar depois, manter-se perto de uma duração alvo economiza tempo de pós-produção. Uma contagem regressiva visível ajuda você a encerrar seções naturalmente, em vez de se estender demais e cortar depois.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-timer-with-haptic-feedback": {
+    slug: "mac-timer-with-haptic-feedback",
+    title: "Temporizador de Mac com Feedback Tátil — Sinta Quando o Tempo Acaba",
+    description: "Alertas sonoros passam despercebidos quando o Mac está mudo, os fones estão nos ouvidos ou as notificações estão silenciadas. Um alerta tátil pelo trackpad chega até você de qualquer forma.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você silencia o Mac durante uma chamada, coloca fones com cancelamento de ruído para focar, ou simplesmente mantém o volume baixo por hábito. Aí um temporizador termina e você nunca ouve o alarme. Dez minutos depois você percebe a notificação parada quietamente no canto, muito depois do momento em que ela deveria ter avisado você.</p>
+
+<p>Alertas sonoros e até visuais compartilham a mesma fraqueza: presumem que você está prestando atenção ao áudio ou olhando ativamente para a tela no exato segundo certo. Nenhuma das duas é uma suposição segura.</p>
+
+<h2>Por que a maioria dos temporizadores depende só de som</h2>
+<p>Toda opção nativa de temporizador no macOS — o app Relógio, a Siri, alertas de calendário — sinaliza a conclusão com um alarme sonoro e uma notificação em banner. Se o Não Perturbe estiver ativado, se o volume estiver no zero, ou se você estiver com fones tocando outra coisa, esse sinal simplesmente não chega até você. Não existe um canal alternativo.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> adiciona um canal físico ao alerta. Em MacBooks com trackpad Force Touch, a conclusão de um temporizador aciona um toque tátil que você sente nas pontas dos dedos ou nos pulsos no exato momento em que acontece — independentemente das suas configurações de volume, dos fones de ouvido ou do status do Não Perturbe.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull timer with haptic feedback for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Trabalhando com fones de ouvido</h3>
+<p>Concentrado numa chamada ou ouvindo música no volume máximo, um alarme sonoro não tem chance. O toque tátil chega independentemente do que está tocando nos seus ouvidos.</p>
+
+<h3>Espaços compartilhados e silenciosos</h3>
+<p>Bibliotecas, escritórios abertos, ou uma casa onde alguém está dormindo — todos pedem silêncio. Um alerta tátil avisa que um temporizador terminou sem que nenhum som chegue a mais ninguém no ambiente.</p>
+
+<h3>Não Perturbe durante sessões de foco</h3>
+<p>Se você silencia as notificações enquanto está imerso no trabalho, um toque tátil ainda chega até você, desde que sua mão esteja perto do trackpad — um canal que as notificações em banner simplesmente não têm.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "study-timer-mac-students": {
+    slug: "study-timer-mac-students",
+    title: "Temporizador de Estudos para Mac — Sessões Cronometradas para Estudantes",
+    description: "Estudar sem um ponto de parada claro tende a desandar em distração ou esgotamento. Uma contagem regressiva simples no notebook mantém os blocos de estudo bem definidos e a cronometragem de provas mais realista.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Sessões de estudo sem tempo definido têm uma forma de desmoronar. Sem um ponto final estabelecido, vinte minutos de leitura viram checagem de celular, e uma hora planejada de exercícios se estende para duas com retorno cada vez menor. Estrutura — um limite claro de "estudo até este temporizador terminar" — torna o tempo de estudo mais eficaz, mas a maioria dos estudantes não mantém um temporizador rodando porque configurar um no notebook parece dar mais trabalho do que vale a pena.</p>
+
+<p>A prática cronometrada também importa especificamente para a preparação de provas. Praticar sob pressão de tempo real, em vez de resolver exercícios no seu próprio ritmo indefinidamente, é o que realmente constrói a prontidão para o dia da prova.</p>
+
+<h2>Por que os temporizadores de celular jogam contra você aqui</h2>
+<p>Usar o celular como temporizador de estudos significa que o dispositivo mais capaz de distrair no ambiente fica sentado bem ao lado das suas anotações, com a tela virada para cima, pronto para roubar sua atenção no segundo em que uma notificação chega. Estudar com o temporizador do celular rodando anula metade do propósito de cronometrar a sessão, para começar.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> mantém o temporizador na mesma tela das suas anotações ou do PDF do livro didático, sem precisar de celular. Arraste para definir seu bloco de estudo, solte, e o anel conta regressivamente em silêncio na barra de menus enquanto você trabalha.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull study timer for Mac students" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Simulados cronometrados</h3>
+<p>Defina o temporizador para corresponder à duração real da sua prova e trate o anel chegando a zero como uma parada obrigatória, igual ao teste de verdade. Isso constrói o instinto de ritmo que ler no seu próprio passo nunca desenvolve.</p>
+
+<h3>Ciclos de estudo e pausa</h3>
+<p>Alterne um bloco de estudo de 40 minutos com uma pausa de 10, um atrás do outro. Cada bloco começa com uma arrastada, e o anel dá a você uma noção passiva de quanto estudo falta antes da pausa chegar.</p>
+
+<h3>Sessões de estudo em grupo</h3>
+<p>Estudando com um amigo por chamada? Combinem juntos um bloco cronometrado, iniciem o temporizador, e os dois ficam responsáveis pela mesma contagem regressiva sem que nenhum dos dois precise ficar checando as horas em voz alta.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-timer-app-no-subscription": {
+    slug: "mac-timer-app-no-subscription",
+    title: "App de Temporizador para Mac Sem Assinatura",
+    description: "Um temporizador de contagem regressiva é um utilitário básico, não um serviço que precisa de uma taxa recorrente. Vale a pena saber quais opções pedem um download único em vez de cobrança mensal.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Procure na Mac App Store por um app de temporizador e um número surpreendente de resultados pede uma assinatura mensal ou anual antes de você conseguir definir mais de uma contagem regressiva. Um temporizador não tem custo contínuo para o desenvolvedor depois de pronto — sem chamadas a servidor, sem necessidade de sincronização de dados, sem conteúdo que precise ser atualizado. Cobrar uma taxa recorrente por algo tão simples parece desconectado do que o app realmente faz.</p>
+
+<p>É razoável querer isso: um temporizador que você instala uma vez e possui, da mesma forma que um temporizador de cozinha físico não é cobrado mensalmente.</p>
+
+<h2>Por que tantos apps de temporizador optam por assinaturas</h2>
+<p>O modelo de assinatura se tornou o padrão na App Store porque gera receita mais previsível do que compras únicas, independentemente de o conjunto de recursos justificar ou não a cobrança recorrente. Para um utilitário tão pequeno quanto um temporizador, essa incompatibilidade é especialmente óbvia — muitas vezes você paga mensalmente para desbloquear um segundo temporizador simultâneo ou remover uma faixa de anúncio.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> é um app de barra de menus direto ao ponto: arraste para definir uma duração, solte para iniciar, veja o anel se preencher, receba um aviso com toque tátil quando terminar. Vários temporizadores paralelos fazem parte do app principal, não são um recurso bloqueado atrás de um plano mensal.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull timer app for Mac without a subscription" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Um utilitário que se comporta como utilitário</h3>
+<p>Você instala, ele fica na sua barra de menus e faz um trabalho bem feito. Não há conta para criar, nenhum serviço de sincronização rodando em segundo plano, e nada atrelado a um login.</p>
+
+<h3>Vários temporizadores incluídos</h3>
+<p>Rodar duas ou três contagens regressivas paralelas é uma capacidade básica, não um upsell. Se você precisa de mais de um temporizador rodando ao mesmo tempo, é simplesmente assim que o app funciona.</p>
+
+<h3>Nenhum lembrete recorrente para cancelar</h3>
+<p>Não há data de renovação para acompanhar, nenhum lembrete para cancelar antes de ser cobrado de novo por um recurso que você usa por poucos segundos de cada vez.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "reminders-vs-timer-mac": {
+    slug: "reminders-vs-timer-mac",
+    title: "Lembretes vs Temporizador no Mac — Quando Você Precisa de uma Contagem Regressiva, Não de uma Tarefa",
+    description: "Lembretes e temporizadores de contagem regressiva resolvem problemas diferentes, mas o macOS torna tentador usar um no lugar do outro. Conhecer a diferença poupa frustração.",
+    date: "2026-09-06",
+    readTime: "5 min de leitura",
+    content: `
+<p>Alguém cria um Lembrete para "daqui a 10 minutos" porque não há um temporizador mais rápido à mão, e depois se pergunta por que não existe uma contagem regressiva visível mostrando quanto desses 10 minutos já se foi. Lembretes e temporizadores parecem semelhantes à primeira vista — ambos terminam numa notificação —, mas foram feitos para funções diferentes, e usar um no lugar do outro deixa uma lacuna real.</p>
+
+<p>Um Lembrete é um alerta agendado: dispara uma vez, num ponto fixo no tempo, e não dá nenhuma noção de progresso antes disso. Um temporizador é uma contagem regressiva ao vivo: mostra continuamente quanto tempo resta, que é exatamente o que você precisa quando está ativamente esperando por algo.</p>
+
+<h2>Onde o app Lembretes fica aquém como temporizador</h2>
+<p>O Lembretes não tem anel, nem barra de progresso, nem nenhum tipo de contagem regressiva visual. Criar um para "daqui a 15 minutos" e depois checar seu progresso significa abrir o app Lembretes e fazer conta de cabeça com base no horário em que foi criado. Também exige digitar ou ditar uma nota toda vez, o que é mais configuração do que uma contagem regressiva avulsa merece.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> foi feito especificamente para o caso de uso de contagem regressiva que o Lembretes não cobre. Arraste a partir do ícone na barra de menus para definir uma duração e solte — sem digitar uma nota, sem app para abrir. Um anel se preenche continuamente, então você sempre vê o progresso ao vivo, não apenas uma única notificação no final.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull countdown timer versus Mac Reminders" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Quando você precisa de progresso, não só de um alerta</h3>
+<p>Cozinhar, preparar bebidas, trabalhar em blocos cronometrados — qualquer tarefa em que saber "quanto falta" importa mais do que "quando isso começou" pede uma contagem regressiva de verdade, não uma nota agendada.</p>
+
+<h3>Quando você precisa de um alerta agendado, não de uma contagem regressiva</h3>
+<p>"Ligar para o dentista às 15h" ou "sair para o aeroporto até meio-dia" são casos de uso genuinamente do Lembretes — pontos fixos no tempo, não durações que você está ativamente acompanhando enquanto passam. Deixe esses no Lembretes.</p>
+
+<h3>Usando os dois juntos</h3>
+<p>Lembretes para as coisas que você precisa lembrar num horário específico, Tickpull para as coisas que você está ativamente esperando agora. Eles se complementam em vez de competir.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "how-long-does-task-take-mac-timer": {
+    slug: "how-long-does-task-take-mac-timer",
+    title: "Quanto Tempo Aquela Tarefa Realmente Leva? Use um Temporizador de Mac para Descobrir",
+    description: "A maioria das estimativas de quanto tempo uma tarefa leva são só chutes. Cronometrar a si mesmo por uma semana transforma esses chutes em números reais que você pode usar para planejar de verdade.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Você diz ao seu calendário que uma tarefa vai levar 30 minutos. Ela leva 75. Isso acontece o tempo todo porque a maioria das estimativas de tempo são chutes otimistas em vez de medições, e sem realmente se cronometrar, não existe um ciclo de correção para elas. Ao longo de semanas e meses, estimativas cronicamente erradas se acumulam numa agenda que nunca fecha as contas.</p>
+
+<p>A solução não é uma técnica de estimativa melhor — é dados. Cronometre um punhado de tarefas recorrentes por uma ou duas semanas e você vai saber, não chutar, quanto tempo elas realmente levam.</p>
+
+<h2>Por que as pessoas não se cronometram</h2>
+<p>Iniciar um cronômetro ou temporizador para cada pequena tarefa parece dar mais trabalho do que a informação vale, especialmente se isso significa abrir um app e configurá-lo toda vez. Na prática, a maioria das pessoas desiste de se cronometrar depois de um ou dois dias simplesmente porque o atrito de iniciar o temporizador supera a curiosidade pelo resultado.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> reduz esse atrito a uma única arrastada. Antes de começar uma tarefa, arraste até uma estimativa aproximada e solte — o anel conta regressivamente, e se você terminar antes ou depois dele se completar, sabe imediatamente a diferença entre sua estimativa e a realidade.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull timer for tracking how long tasks take on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>E-mails e trabalho administrativo</h3>
+<p>Defina um temporizador de 15 minutos antes de abrir sua caixa de entrada. Se o anel terminar antes de você acabar, você acabou de medir que aquela "checada rápida de e-mail" na verdade precisa de 25 minutos — informação útil para planejá-la com honestidade da próxima vez.</p>
+
+<h3>Tarefas recorrentes de clientes ou freelance</h3>
+<p>Se você cobra ou planeja em torno da duração de uma tarefa, rodar um temporizador durante esse tipo de tarefa algumas vezes dá a você uma média honesta, em vez de um número que você inventou quando fez o orçamento pela primeira vez.</p>
+
+<h3>Calibrando sua agenda</h3>
+<p>Depois de uma semana cronometrando suas tarefas mais comuns, você terá números reais para inserir na forma como organiza seu calendário — transformando chute em uma agenda que realmente se sustenta.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-screen-break-timer": {
+    slug: "mac-screen-break-timer",
+    title: "Temporizador de Pausa de Tela para Mac — Um Lembrete para Você Se Levantar",
+    description: "Horas passam na mesa sem uma única pausa quando nada interrompe você. Uma contagem regressiva recorrente dá um motivo para se levantar antes que a rigidez e o cansaço visual se instalem.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>É fácil sentar às 9h e não se levantar de novo até o almoço, especialmente durante trabalho focado. Nada força uma pausa — nenhum ponto de parada natural surge por conta própria — então as horas passam, suas costas ficam rígidas, seus olhos ressecam de olhar para uma tela, e você só percebe quando o desconforto já está instalado. Um lembrete recorrente para simplesmente se levantar e desviar o olhar da tela por um minuto evita que isso se acumule.</p>
+
+<p>As orientações de saúde sobre tempo de tela recomendam consistentemente pausas curtas a cada 20 a 60 minutos, mas quase ninguém fica de olho no relógio de perto o suficiente para realmente seguir isso por conta própria.</p>
+
+<h2>Por que isso precisa de um temporizador, não de força de vontade</h2>
+<p>Confiar em lembrar de fazer pausas não funciona quando você está absorto numa tarefa — esse é exatamente o estado em que você está menos ciente da passagem do tempo. O que é preciso é um gatilho externo e de baixo esforço, que interrompa você em um intervalo definido sem exigir que você mesmo se lembre de nada.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> torna rápido o suficiente reiniciar um temporizador de pausa toda vez que você se senta de novo. Arraste até 45 minutos, solte e volte ao trabalho. Quando termina, um toque tátil e uma notificação avisam para você se levantar, e reiniciar para o próximo período é só mais uma arrastada.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull screen break timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>A regra 20-20-20 para o cansaço visual</h3>
+<p>A cada 20 minutos, olhe para algo a 6 metros de distância por 20 segundos. Defina um ciclo curto e repetitivo e deixe o anel avisar você sem precisar lembrar por conta própria.</p>
+
+<h3>Pausas para se levantar e alongar</h3>
+<p>Um temporizador de bloco de trabalho de 45 ou 60 minutos seguido de uma breve pausa para se levantar e alongar evita que a rigidez se acumule ao longo de um dia inteiro de trabalho na mesa.</p>
+
+<h3>Verificações de postura</h3>
+<p>Um lembrete suave a cada 30 minutos para checar sua postura e reajustar como você está sentado já é suficiente para pegar aquele encurvamento que surge durante o foco profundo.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "visible-countdown-mac-screen": {
+    slug: "visible-countdown-mac-screen",
+    title: "Contagem Regressiva Visível na Tela do Mac — Saiba Sempre Quanto Tempo Falta",
+    description: "Um temporizador que só avisa quando o tempo acaba não é tão útil quanto um que mostra quanto falta o tempo todo. A visibilidade constante muda a forma como você o usa.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Existe uma diferença real entre um temporizador que avisa uma vez, no final, e um temporizador que você pode olhar a qualquer momento para ver exatamente quanto tempo falta. O primeiro diz que o tempo acabou. O segundo permite que você regule seu ritmo o tempo todo — desacelere porque tem mais tempo do que pensava, ou acelere porque resta menos do que esperava.</p>
+
+<p>A maioria das ferramentas rápidas de temporizador no macOS é construída como o primeiro tipo: defina e não ouça mais nada até ele disparar. Conseguir o segundo tipo — uma contagem regressiva sempre visível e em atualização contínua — geralmente exige procurar um app dedicado.</p>
+
+<h2>Por que um alerta só no final não basta</h2>
+<p>Uma única notificação quando o tempo expira não dá nenhuma informação antecipada. Você não consegue saber se está se apressando desnecessariamente ou prestes a ficar sem tempo até o momento em que isso realmente acontece, que é exatamente o momento em que já é tarde demais para se ajustar.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> mostra um anel ao vivo que se preenche continuamente na barra de menus, visível a partir de qualquer app a qualquer momento. Não há necessidade de abrir uma janela ou esperar pelo alerta final — uma olhada a qualquer momento já diz aproximadamente que fração do tempo já se foi.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull visible countdown timer on Mac screen" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Regulando o ritmo de trabalho cronometrado</h3>
+<p>Escrevendo contra um prazo ou trabalhando num bloco fixo, ver o anel três quartos cheio diz para você concluir o pensamento atual em vez de começar um novo — informação que um único alerta final nunca oferece.</p>
+
+<h3>Cozinhando com cronometragem visual</h3>
+<p>Observar o anel esvaziar enquanto algo cozinha em fogo baixo dá uma noção passiva e rápida de conclusão, sem precisar checar o celular ou abrir um app no meio da tarefa.</p>
+
+<h3>Consciência ambiente sem distração</h3>
+<p>Um anel se preenchendo na sua visão periférica é percebido sem exigir foco, diferente de um número correndo que chama a atenção toda vez que muda. Você continua ciente da passagem do tempo sem que isso vire uma distração.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-timer-for-teachers": {
+    slug: "mac-timer-for-teachers",
+    title: "Temporizador de Mac para Professores — Atividades em Sala, Provas, Transições",
+    description: "Salas de aula funcionam em blocos de tempo, e professores lidam com uma dúzia de pequenas contagens regressivas por dia. Um temporizador rápido e visível no computador da sala mantém transições e atividades dentro do cronograma.",
+    date: "2026-09-06",
+    readTime: "5 min de leitura",
+    content: `
+<p>Um dia de aula é feito de dezenas de pequenos blocos de tempo: 8 minutos para um aquecimento, 40 minutos para uma prova, 3 minutos para arrumar tudo antes do sinal. Mexer num app de temporizador entre cada uma dessas atividades consome tempo de instrução, e o computador da sala costuma estar projetado numa tela para toda a turma ver — o que significa que o próprio temporizador vira parte do que é exibido, para o bem ou para o mal.</p>
+
+<p>Os alunos também respondem a uma contagem regressiva visível de formas que um "faltam cinco minutos" dito em voz alta não consegue sozinho. Ver o tempo se esgotando cria sua própria pressão sutil para concluir.</p>
+
+<h2>Por que as ferramentas de temporizador para sala de aula costumam errar o alvo</h2>
+<p>Muitas ferramentas web de "temporizador para sala de aula" são feitas para serem projetadas em tela cheia, o que funciona para atividades com a turma toda, mas se torna inútil no momento em que o professor precisa consultar anotações ou uma apresentação de slides na mesma tela. Outras são lentas para configurar entre atividades, custando minutos valiosos ao longo de um dia com muitas transições curtas.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> fica discreto na barra de menus em vez de tomar conta da tela, o que significa que funciona junto com slides, documentos ou um diário de classe sem disputar espaço na tela. Definir uma nova duração entre atividades é uma única arrastada.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull classroom timer for teachers on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Provas e testes cronometrados</h3>
+<p>Defina o temporizador para corresponder à duração da prova uma vez no início da aula, depois ensine ou supervisione sem precisar ficar mentalmente de olho no relógio.</p>
+
+<h3>Transições de atividades e trabalho em grupo</h3>
+<p>Uma arrastada rápida de 10 minutos para discussão em grupo, depois uma nova arrastada para o próximo segmento. Reiniciar entre atividades leva segundos, em vez dos vários passos de um temporizador de roda de rolagem.</p>
+
+<h3>Janelas de organização no fim da aula</h3>
+<p>Um temporizador curto de 3 a 5 minutos antes do sinal dá aos alunos uma pista visível para começar a guardar o material, reduzindo a correria de última hora quando o sinal realmente toca.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "one-gesture-timer-mac": {
+    slug: "one-gesture-timer-mac",
+    title: "Temporizador de Um Único Gesto para Mac — Sem Janelas, Sem Digitação",
+    description: "Cada passo extra entre decidir que você precisa de um temporizador e tê-lo rodando é atrito que se acumula. Um único gesto elimina tudo isso.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Conte os passos que a maioria dos apps de temporizador exige: abrir o app, encontrar o recurso de temporizador, clicar num campo de duração, digitar ou rolar até um número, clicar em Iniciar. São cinco ações para algo que, em teoria, deveria ser uma só. Cada passo extra é uma pequena taxa, e paga dezenas de vezes por semana, essa taxa se acumula em atrito real — atrito que silenciosamente desestimula você a usar um temporizador mesmo quando uma tarefa se beneficiaria de um.</p>
+
+<p>A versão ideal dessa interação tem exatamente um passo: uma ação que define a duração e inicia a contagem regressiva ao mesmo tempo.</p>
+
+<h2>Por que digitar e rolar ficam ambos aquém</h2>
+<p>Digitar uma duração exige clicar num campo, mudar mentalmente para entrada numérica e, muitas vezes, apertar Enter ou clicar num botão separado de Iniciar — três ações no mínimo. Rodas de rolagem são até piores, exigindo rolagem separada para horas, minutos e às vezes segundos antes que um botão de Iniciar apareça. Nenhuma das duas abordagens se resume a um único movimento.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> resume a configuração e o início num único gesto físico. Clique no ícone da barra de menus, arraste para baixo — mais longe para mais tempo — e solte. O temporizador já está rodando no instante em que sua mão solta. Sem botão separado de Iniciar, sem caixa de diálogo de confirmação, sem campo para clicar antes.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull one-gesture timer for Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Velocidade para uso repetido</h3>
+<p>Se você define temporizadores dezenas de vezes por dia — para cozinhar, blocos de trabalho, pausas curtas —, a diferença entre um processo de cinco passos e um de um único gesto se acumula em tempo real economizado e bem menos irritação.</p>
+
+<h3>Nenhuma precisão necessária</h3>
+<p>A distância da arrastada se traduz visualmente em duração conforme você move, então você pode estimar "uns 10 minutos" sem precisar acertar um número exato como um campo de texto exigiria.</p>
+
+<h3>Funciona sempre da mesma forma</h3>
+<p>Não há menu para navegar nem modo para escolher antes. O gesto é idêntico, precise você de 2 minutos ou 90, o que faz com que vire memória muscular quase imediatamente.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "mac-timer-that-doesnt-take-over-screen": {
+    slug: "mac-timer-that-doesnt-take-over-screen",
+    title: "Temporizador de Mac que Não Toma Conta da Sua Tela",
+    description: "Uma contagem regressiva exibida em tela cheia ou numa janela flutuante bloqueia o que você estava fazendo. Um temporizador que fica fora do caminho é mais útil justamente por continuar pequeno.",
+    date: "2026-09-06",
+    readTime: "4 min de leitura",
+    content: `
+<p>Alguns apps de temporizador insistem em serem vistos: uma janela flutuante sempre por cima, uma contagem regressiva em tela cheia, ou um widget que toma conta de um pedaço da sua área de trabalho. A intenção é boa — manter o temporizador visível —, mas a execução acaba atrapalhando o próprio trabalho que você está cronometrando. Você acaba redimensionando janelas ao redor do temporizador ou encolhendo-o num canto onde ele cobre metade de outra coisa.</p>
+
+<p>O trabalho de um temporizador é rodar no fundo da sua atenção, não na frente da sua tela. Se ele precisa de espaço próprio dedicado, já está pedindo mais do que deveria.</p>
+
+<h2>Onde os temporizadores flutuantes erram</h2>
+<p>Uma janela sempre por cima precisa ficar em algum lugar, e onde quer que fique, está bloqueando alguns centímetros quadrados de qualquer app que esteja embaixo. Mova-a e ela pode voltar a se deslocar. Ferramentas de contagem regressiva em tela cheia são piores ainda — tomam conta da tela inteira, o que funciona para um projetor numa sala de aula, mas em nenhum outro lugar. Nenhuma dessas opções respeita o fato de que um temporizador é uma ferramenta secundária, não a coisa principal que você está olhando.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> não tem janela alguma. A interface inteira é um pequeno anel ao redor de um ícone na barra de menus — um fiapo de espaço que já estava sem uso. Ele nunca cobre seu documento, seu editor de código ou sua videochamada, não importa como você organize suas outras janelas.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull timer that stays out of the way on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Telas pequenas e monitores únicos</h3>
+<p>Num notebook de 13 polegadas, cada pixel de espaço na tela importa. Um temporizador de barra de menus não custa nada disso — não há nada para posicionar ou redimensionar para abrir espaço.</p>
+
+<h3>Videochamadas e compartilhamento de tela</h3>
+<p>Uma janela de temporizador flutuante corre o risco de aparecer sem querer num compartilhamento de tela. Como o Tickpull vive fora da área compartilhável da janela, nunca aparece sem ser convidado numa chamada.</p>
+
+<h3>Apps em tela cheia e várias áreas de trabalho</h3>
+<p>Como a barra de menus permanece visível mesmo em apps de tela cheia e diferentes Espaços, o temporizador continua visível não importa para qual área de trabalho ou app você mude, sem precisar de uma janela dedicada seguindo você por aí.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+  "parallel-countdown-timers-mac": {
+    slug: "parallel-countdown-timers-mac",
+    title: "Temporizadores Paralelos no Mac — Rode Vários ao Mesmo Tempo",
+    description: "Alguns dias exigem mais de uma contagem regressiva rodando ao mesmo tempo, e a maioria das ferramentas de temporizador não foi pensada para isso. Veja o que realmente suporta bem essa necessidade.",
+    date: "2026-09-06",
+    readTime: "5 min de leitura",
+    content: `
+<p>Uma única contagem regressiva cobre a maioria dos dias, mas não todos. Organizar um jantar com três pratos em relógios diferentes, conduzir uma oficina com segmentos cronometrados, ou equilibrar um ciclo de lavanderia com um sprint de trabalho — tudo isso exige mais de um temporizador contando regressivamente de forma independente, cada um com seu próprio alerta ao terminar.</p>
+
+<p>O problema é que a maioria das ferramentas de temporizador, construídas e testadas em torno do caso de uma única contagem regressiva, ou não suportam um segundo temporizador de forma alguma, ou escondem os adicionais numa lista que exige abrir uma janela para checar.</p>
+
+<h2>Como as ferramentas de temporizador único falham com várias contagens regressivas</h2>
+<p>Iniciar um segundo temporizador no app Relógio substitui silenciosamente o primeiro — sem aviso, e sem forma de rodar os dois. A Siri se comporta da mesma forma, tratando cada novo pedido como o único temporizador ativo em vez de adicioná-lo a um conjunto. Apps que suportam vários temporizadores costumam empilhá-los como linhas numa lista dentro de uma janela, o que significa que checar qualquer um deles exige abrir essa janela e procurar a entrada certa.</p>
+
+<h2>A solução: Tickpull</h2>
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Tickpull</a> trata temporizadores paralelos como uma capacidade central, não um caso extremo. Cada temporizador que você inicia ganha seu próprio anel na barra de menus, se preenchendo de forma independente, então você pode acompanhar várias contagens regressivas num relance sem abrir nada.</p>
+
+<a href="https://apps.apple.com/app/tickpull/id6806640763" target="_blank" rel="noopener" style="display:block"><img src="/apps/tickpull.png" alt="Tickpull parallel countdown timers on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Recebendo convidados e cozinhando vários pratos</h3>
+<p>Entrada em 10 minutos, prato principal em 25, temporizador da sobremesa definido mais tarde assim que o forno fica livre. Três arrastadas, três anéis, três alertas independentes conforme cada um termina.</p>
+
+<h3>Conduzindo uma oficina com segmentos cronometrados</h3>
+<p>Um temporizador de segmento ao lado de um temporizador geral da sessão permite acompanhar tanto quanto tempo a atividade atual já está rodando quanto quanto tempo resta na oficina inteira, sem fazer subtração de cabeça.</p>
+
+<h3>Tarefas e afazeres domésticos</h3>
+<p>O ciclo da máquina de lavar, a lava-louças e um lembrete para checar algo no forno podem rodar todos ao mesmo tempo. Cada anel alerta de forma independente, então nada é esquecido só porque outro temporizador terminou primeiro.</p>
+
+<p><a href="https://apps.apple.com/app/tickpull/id6806640763">Baixe o Tickpull na Mac App Store</a></p>
+`,
+  },
+};
