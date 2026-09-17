@@ -4,6 +4,41 @@
 
 ---
 
+## 0a. SESSION 3 RESULTS (2026-09-17)
+
+**Pipeline is now one command per locale.** Do not hand-run combine/merge any more:
+
+```bash
+cd i18n-tools
+python3 extract.py <app>                    # payload + meta (idempotent)
+python3 apply.py <app> <locale> [locale...] # parts -> combine -> guarded topup -> merge
+cd .. && python3 i18n-tools/verify.py <app>
+```
+
+`apply.py` globs `translated/{app}_{locale}_part*.json`, so it is safe to re-run as agents
+land — incomplete locales abort with **nothing written** rather than merging a partial set.
+
+**New: `topup.py`** — adds articles to an *existing* locale file. This matters because
+`merge.py` rewrites a file wholesale; topping up naively would delete everything already
+there. It refuses to write unless: result count == `en.ts`, count never shrinks, every
+pre-existing slug survives byte-identical, no empty fields, and **no incoming article is
+byte-identical to the English source** (the silent-fallback signature).
+
+Those guards are not theoretical. Running `apply.py` against still-being-written part files
+aborted 8 locales cleanly instead of silently deleting 10 articles from each.
+
+Completed this session:
+- **Dayedge** → 11/11 (the `ja` gap from a dead agent is closed)
+- **SoundDial tier-1** → 11/11 at full **111** articles (was 96/111 in every language)
+- **SoundDial `cs`** → repaired: 20 raw-English articles replaced, 15-article gap filled
+- **Jetty** → `de`, `pt` done (was 0/11)
+
+Still outstanding: Jetty ×9, Loupe ×11, Tickpull ×11, SoundDial's 21 non-tier-1 locales at
+96/111, and `sk`/`hr`/`uk` still carrying the 20 English articles. DeskCloak and Canopy stay
+deferred — still unapproved by Apple as of 2026-09-17.
+
+---
+
 ## 0b. AUDIT CORRECTION (2026-09-17) — §2 below was materially wrong
 
 `verify.py` was **not scanning 6 of the 13 app blogs at all** — its `APPS` list omitted
