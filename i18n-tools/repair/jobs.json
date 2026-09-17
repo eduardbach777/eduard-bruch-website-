@@ -1,0 +1,114 @@
+[
+ {
+  "app": "lockin",
+  "loc": "nl",
+  "chunk": 1,
+  "count": 9,
+  "file": "repair/lockin_nl_chunk1.json"
+ },
+ {
+  "app": "lockin",
+  "loc": "tr",
+  "chunk": 1,
+  "count": 9,
+  "file": "repair/lockin_tr_chunk1.json"
+ },
+ {
+  "app": "mediasmith",
+  "loc": "nl",
+  "chunk": 1,
+  "count": 5,
+  "file": "repair/mediasmith_nl_chunk1.json"
+ },
+ {
+  "app": "optic",
+  "loc": "it",
+  "chunk": 1,
+  "count": 3,
+  "file": "repair/optic_it_chunk1.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "de",
+  "chunk": 1,
+  "count": 13,
+  "file": "repair/sounddial_de_chunk1.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "de",
+  "chunk": 2,
+  "count": 7,
+  "file": "repair/sounddial_de_chunk2.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "ja",
+  "chunk": 1,
+  "count": 13,
+  "file": "repair/sounddial_ja_chunk1.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "ja",
+  "chunk": 2,
+  "count": 13,
+  "file": "repair/sounddial_ja_chunk2.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "ja",
+  "chunk": 3,
+  "count": 13,
+  "file": "repair/sounddial_ja_chunk3.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "ko",
+  "chunk": 1,
+  "count": 13,
+  "file": "repair/sounddial_ko_chunk1.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "ko",
+  "chunk": 2,
+  "count": 13,
+  "file": "repair/sounddial_ko_chunk2.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "nl",
+  "chunk": 1,
+  "count": 13,
+  "file": "repair/sounddial_nl_chunk1.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "nl",
+  "chunk": 2,
+  "count": 13,
+  "file": "repair/sounddial_nl_chunk2.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "nl",
+  "chunk": 3,
+  "count": 13,
+  "file": "repair/sounddial_nl_chunk3.json"
+ },
+ {
+  "app": "sounddial",
+  "loc": "nl",
+  "chunk": 4,
+  "count": 13,
+  "file": "repair/sounddial_nl_chunk4.json"
+ },
+ {
+  "app": "tome",
+  "loc": "ru",
+  "chunk": 1,
+  "count": 8,
+  "file": "repair/tome_ru_chunk1.json"
+ }
+]

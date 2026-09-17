@@ -21,15 +21,48 @@ def count_articles(path):
         return len(re.findall(r'^\s{2}"[\w-]+":\s*\{', f.read(), re.M))
 
 
+def article_tag_counts(path):
+    """{slug: number of HTML tags in its content}.
+
+    Tag count is the only language-independent measure of whether a translation
+    still contains all of its content. Character length is useless here — CJK
+    renders the same article in a fraction of the characters — which is why 171
+    articles that had whole <h2> sections dropped passed every other check.
+    """
+    with open(path, encoding="utf-8") as f:
+        src = f.read()
+    counts = {}
+    for m in re.finditer(r'^\s{2}"([\w-]+)":\s*\{', src, re.M):
+        slug = m.group(1)
+        i = src.find("content: `", m.end())
+        if i < 0:
+            continue
+        p = i + len("content: `")
+        while p < len(src):
+            if src[p] == "`":
+                bs = 0
+                q = p - 1
+                while q >= 0 and src[q] == "\\":
+                    bs += 1
+                    q -= 1
+                if bs % 2 == 0:
+                    break
+            p += 1
+        counts[slug] = len(re.findall(r"</?[a-zA-Z0-9]+", src[i:p]))
+    return counts
+
+
 def main():
     apps = sys.argv[1:] if len(sys.argv) > 1 else APPS
     issues = 0
     checked = 0
     empty = 0
     short = 0
+    thin = 0
     for app in apps:
         en_path = f"src/app/{app}/blog/_data/en.ts"
         en_count = count_articles(en_path) if os.path.exists(en_path) else 0
+        en_tags = article_tag_counts(en_path) if os.path.exists(en_path) else {}
 
         for lang in LANGS:
             path = f"src/app/{app}/blog/_data/{lang}.ts"
@@ -54,6 +87,20 @@ def main():
             if en_count and n < en_count:
                 print(f"SHORT {app}/{lang}: {n}/{en_count} articles ({en_count - n} missing)")
                 short += 1
+
+            # Content dropped *within* an article — whole <h2> sections missing.
+            if en_tags:
+                loc_tags = article_tag_counts(path)
+                lost = [
+                    (s, loc_tags[s], en_tags[s])
+                    for s in loc_tags
+                    if s in en_tags and loc_tags[s] < en_tags[s] - 2
+                ]
+                if lost:
+                    print(f"THIN  {app}/{lang}: {len(lost)} article(s) missing content")
+                    for s, g, e in lost[:3]:
+                        print(f"        {s}: {g} tags vs {e}")
+                    thin += len(lost)
             # "Native" is a common false positive (legitimate loanword in many languages)
             eng = [t for t in titles if FULL_ENGLISH.match(t) and "Native" not in t]
             if eng:
@@ -64,10 +111,11 @@ def main():
 
     print(
         f"\nChecked {checked} files: {empty} not-yet-translated (stub), "
-        f"{issues} broken/partial-English, {short} short on article count."
+        f"{issues} broken/partial-English, {short} short on article count, "
+        f"{thin} articles missing content."
     )
-    if issues == 0 and short == 0:
-        print("✅ NO BROKEN, PARTIAL, OR SHORT TRANSLATIONS")
+    if issues == 0 and short == 0 and thin == 0:
+        print("✅ NO BROKEN, PARTIAL, SHORT, OR THIN TRANSLATIONS")
 
 if __name__ == "__main__":
     main()
