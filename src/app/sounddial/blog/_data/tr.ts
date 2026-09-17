@@ -4,10 +4,9 @@ export const trArticles: ArticleSet = {
   "mac-audio-podcasting-setup": {
     slug: "mac-audio-podcasting-setup",
     title: "Mac Podcasting için Ses: Kayıt Sırasında Ne Duyduğunuzu Kontrol Edin",
-    description:
-      "Podcast kaydederken seviyeleri izlemek, misafirinizi dinlemek ve bildirimleri yönetmek — hepsi tek bir ses kaydırıcısı için rekabet ediyor. İşte daha iyi bir kurulum.",
+    description: "Podcast kaydederken seviyeleri izlemek, misafirinizi dinlemek ve bildirimleri yönetmek — hepsi tek bir ses kaydırıcısı için rekabet ediyor. İşte daha iyi bir kurulum.",
     date: "2026-03-05",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Podcast'i Mac üzerinde kaydediyorsun. Konuğunuzun (Zoom, Riverside veya SquadCast aracılığıyla) net bir şekilde duymanız gerekiyor. DAW'ın kayıt seviyelerini izlemen gerekiyor. Slack mutlaka mutlaka işlem yapmamanız gerekir ki kayıtta ping çıkmasın. Ve sistem bildirimi seslerinin tamamen susturulması gerekir — mülakatın ortasındaki macOS "ding" sesi kullanılamaz bir ses olur.</p>
 
@@ -71,10 +70,9 @@ export const trArticles: ArticleSet = {
   "mac-too-loud-full-volume-tame-it": {
     slug: "mac-too-loud-full-volume-tame-it",
     title: "Neden Mac tam sesle bu kadar yüksek sesle? Daha İyi Kontrol Nasıl Alınır",
-    description:
-      "MacBook Pro hoparlörleri harika — ta ki patlamaya başlayana kadar. Orta seviyede ses ayarları bile çok yüksek geliyorsa, daha hassas ses kontrolü nasıl sağlanabileceğine şöyle bakalım.",
+    description: "MacBook Pro hoparlörleri harika — ta ki patlamaya başlayana kadar. Orta seviyede ses ayarları bile çok yüksek geliyorsa, daha hassas ses kontrolü nasıl sağlanabileceğine şöyle bakalım.",
     date: "2026-03-08",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Apple'ın daha yeni MacBook Pro modelleri (14" ve 16") dizüstü bilgisayar için şaşırtıcı derecede güçlü hoparlörlere sahip. O kadar güçlü ki, orta seviyede ses gerçekten yüksek olabilir — özellikle sessiz bir odada, gece geç saatlerde veya kulaklıkla. "Rahat" ile "fazla" arasındaki boşluk bazen sadece bir veya iki ses seviyesi adımıdır.</p>
 
@@ -116,10 +114,9 @@ export const trArticles: ArticleSet = {
   "slack-huddle-volume-issues-mac": {
     slug: "slack-huddle-volume-issues-mac",
     title: "Mac'da Slack Huddle Ses Sorunları Şunlar: Çok Sessiz, Çok Yüksek Ya Da Müziğinize Karşı Mücadele",
-    description:
-      "Slack huddle'lar aynı ses seviyesi için müzik ve bildirimlerinizle rekabet eder. İşte Mac'daki diğer her şeyden bağımsız olarak huddle sesini nasıl kontrol edeceğiniz.",
+    description: "Slack huddle'lar aynı ses seviyesi için müzik ve bildirimlerinizle rekabet eder. İşte Mac'daki diğer her şeyden bağımsız olarak huddle sesini nasıl kontrol edeceğiniz.",
     date: "2026-03-10",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Slack huddle'lar çok kullanışlıdır — bir düğmeye tıklarsınız ve toplantı planlamadan sesli görüşmeye giriyorsunuz. Ama ses tam bir karmaşa. Huddle Spotify'ınızla aynı seste oluyor. Slack bildirimi, arama seviyesiyle aynı seviyede ping sesi veriyor. Ve birisi grupta müzik ya da ekranı sesli paylaştığında, ya duyulmaz ya da kulakları sağır edici.</p>
 
@@ -173,10 +170,9 @@ export const trArticles: ArticleSet = {
   "set-default-volume-new-apps-mac": {
     slug: "set-default-volume-new-apps-mac",
     title: "Mac Üzerinde Yeni Uygulamalar İçin Varsayılan Ses Seviyesi Nasıl Ayarlanır?",
-    description:
-      "Yeni uygulamalar varsayılan olarak tam ses seviyesinde açılıyor. Her yeni uygulamayı rahat bir seviyede başlatmak için nasıl yapılır — böylece hiçbir şey sizi hazırlıksız yakalamasın.",
+    description: "Yeni uygulamalar varsayılan olarak tam ses seviyesinde açılıyor. Her yeni uygulamayı rahat bir seviyede başlatmak için nasıl yapılır — böylece hiçbir şey sizi hazırlıksız yakalamasın.",
     date: "2026-03-12",
-    readTime: "3 min read",
+    readTime: "3 dk okuma",
     content: `
 <p>Yeni bir uygulama yüklüyorsunuz. İlk kez fırlatılıyor. Hemen tam sistem sesiyle ses — bir giriş sesi, bir bildirim, bir eğitim videosu — oynatıyor. Bunu beklemiyordun. Kulaklıklarınız açık. Kulakların çınlıyor.</p>
 
@@ -216,10 +212,9 @@ export const trArticles: ArticleSet = {
   "mac-startup-sound-too-loud": {
     slug: "mac-startup-sound-too-loud",
     title: "Mac Başlangıç Sesi Çok Yüksekmi? Nasıl devre dışı bırakılır veya düşürülür",
-    description:
-      "Mac başlangıç çanı, her yeniden başlattığınızda tam sesle çalıyor — özellikle toplantılarda ve sessiz odalarda garip. İşte bunu nasıl susturmak veya kontrol etmek olur.",
+    description: "Mac başlangıç çanı, her yeniden başlattığınızda tam sesle çalıyor — özellikle toplantılarda ve sessiz odalarda garip. İşte bunu nasıl susturmak veya kontrol etmek olur.",
     date: "2026-03-15",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Sessiz bir ofiste Mac yeniden başlatıyorsun. Toplantı odası tamamen sessiz. O zaman — <em>BONG</em> — başlangıç çanı tam sesle çalar. Herkes sana bakıyor. Çan sesi ikonik, ama aynı zamanda kontrol edilemez ve çoğu zaman utanç verici derecede yüksek.</p>
 
@@ -261,10 +256,9 @@ export const trArticles: ArticleSet = {
   "webex-volume-too-low-mac": {
     slug: "webex-volume-too-low-mac",
     title: "Cisco Webex Volume Mac'da Çok Düşük Mü? Bunu Nasıl Düzeltebilirim",
-    description:
-      "Webex çağrıları Mac üzerinde zar zor duyuluyor. İşte her çözüm — Webex ses ayarlarından, uygulama başına mikser ile çağrı sesini %100'ün üzerine çıkarmaya kadar.",
+    description: "Webex çağrıları Mac üzerinde zar zor duyuluyor. İşte her çözüm — Webex ses ayarlarından, uygulama başına mikser ile çağrı sesini %100'ün üzerine çıkarmaya kadar.",
     date: "2026-03-18",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Webex, kurumsal ortamlarda en çok kullanılan video konferans araçlarından biri ve Mac'de ses kalitesi açısından en çok şikayet edilenlerden biri. Düşük çağrı sesi, boğuk sesler ve aynı sistem sesiyle Zoom veya Teams'ten daha sessiz gibi görünen ses. Webex çağrılarınızı zar zor duyabiliyorsanız, yalnız değilsiniz.</p>
 
@@ -314,10 +308,9 @@ export const trArticles: ArticleSet = {
   "mac-two-audio-sources-same-time": {
     slug: "mac-two-audio-sources-same-time",
     title: "Mac'da iki şeyi aynı anda nasıl dinlerim ve çılgınlığa düşmeden",
-    description:
-      "Müzik ve podcast. Bir ders ve notlar videosu. Bir çağrı ve arka plan müziği. macOS ikisi için de bir cilt seçmenizi sağlar — bunları nasıl dengeleyeceğiniz işte.",
+    description: "Müzik ve podcast. Bir ders ve notlar videosu. Bir çağrı ve arka plan müziği. macOS ikisi için de bir cilt seçmenizi sağlar — bunları nasıl dengeleyeceğiniz işte.",
     date: "2026-03-20",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Aynı anda iki ses kaynağını dinlemek istersiniz. Çağrı sırasında müzik. Bir eğitim izlerken bir podcast. Çalışma sırasında arka plan ortamı. İki şey, iki farklı ideal hacim. macOS ikisi için de bir kaydırıcı verir.</p>
 
@@ -374,10 +367,9 @@ export const trArticles: ArticleSet = {
   "watch-movies-mac-late-night-volume": {
     slug: "watch-movies-mac-late-night-volume",
     title: "Mac Kanalında Herkesi Uyandırmadan Filmleri Nasıl İzlerim",
-    description:
-      "Diyalog duyulmaz, sonra patlamalar duvarları sarsıyor. İşte Mac'de gece geç saatlerde izlemek için film sesini nasıl evcilleştireceğiniz — hiçbir kelimeyi kaçırmadan — anlatım.",
+    description: "Diyalog duyulmaz, sonra patlamalar duvarları sarsıyor. İşte Mac'de gece geç saatlerde izlemek için film sesini nasıl evcilleştireceğiniz — hiçbir kelimeyi kaçırmadan — anlatım.",
     date: "2026-03-22",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Saat 1 gece. Yatakta MacBook'unuzda bir film izliyorsunuz. Karakterler fısıldıyor — sesi açıyorsun. Sonra bir araba kovalamacasına başlıyor ve aniden tüm daireniz duyuluyor. Ses tuşuna dalıyorsunuz. Bu döngü iki saat boyunca tekrar ediyor.</p>
 
@@ -432,10 +424,9 @@ export const trArticles: ArticleSet = {
   "mac-volume-resets-after-sleep": {
     slug: "mac-volume-resets-after-sleep",
     title: "Mac Uykudan Sonra Ses Sıfırlanır? Ses Ayarlarınızı Nasıl Koruyabilirsiniz",
-    description:
-      "Her Mac uykudan uyandığında ses yanlış — maksimuma sıfırla, sıfıra düşür ya da yanlış çıkışa geçiyor. İşte nedenini ve nasıl düzeltilebileceğini.",
+    description: "Her Mac uykudan uyandığında ses yanlış — maksimuma sıfırla, sıfıra düşür ya da yanlış çıkışa geçiyor. İşte nedenini ve nasıl düzeltilebileceğini.",
     date: "2026-03-25",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>MacBook kapağını kapatıyorsun. Sonra açarsın. Ses seviyesi farklı. Belki de %40'ta olduğunda maksimumda. Belki kulaklıktan hoparlörlere geçti. Belki sıfırda. Uyumadan önce sorun yoktu — şimdi yanlış.</p>
 
@@ -490,10 +481,9 @@ export const trArticles: ArticleSet = {
   "mac-audio-music-production-daw": {
     slug: "mac-audio-music-production-daw",
     title: "Mac Müzik Prodüksiyonu İçin Ses: DAW ve İletişimi ayrı ayrı kontrol edin",
-    description:
-      "Discord görüşmesi sırasında Logic Pro veya Ableton kullanmak mı? İşte DAW'ınızı tam sesle duymanın ve sesli sohbeti rahat bir seviyede tutmanın yolları.",
+    description: "Discord görüşmesi sırasında Logic Pro veya Ableton kullanmak mı? İşte DAW'ınızı tam sesle duymanın ve sesli sohbeti rahat bir seviyede tutmanın yolları.",
     date: "2026-03-28",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Logic Pro'da (ya da Ableton'da, ya da FL Studio'da) müzik üretiyorsunuz. Ayrıca bir işbirlikçiyle Discord'dasın. Sorun: DAW çıkışınız ve Discord'unuz aynı ses seviyesi için mücadele ediyor. Logic'i açarak miksinizi net duyun, Discord kulaklarınızda patlıyor. Discord için kısmayı yapın, miksiniz düzgün değerlendiremeyecek kadar sessiz oluyor.</p>
 
@@ -545,10 +535,9 @@ export const trArticles: ArticleSet = {
   "apple-music-volume-too-low-mac": {
     slug: "apple-music-volume-too-low-mac",
     title: "Apple Music Sesi Mac Çok Düşük mü? Bunu nasıl tamir eder ve güçlendiririm",
-    description:
-      "Apple Music maksimum seste Mac ama yine de çok sessiz mi? Ses Kontrolü, EQ ayarlarını kontrol edin ve Apple Music'i %100'ün üzerine nasıl çıkaracağınızı öğrenin.",
+    description: "Apple Music maksimum seste Mac ama yine de çok sessiz mi? Ses Kontrolü, EQ ayarlarını kontrol edin ve Apple Music'i %100'ün üzerine nasıl çıkaracağınızı öğrenin.",
     date: "2026-03-30",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Apple Music tam sesle. Mac tam sesle. Yüksek olması gerektiğini bildiğin bir şarkı zar zor duyulabilir. Bu arada, Spotify'a geçerken — aynı şarkı, aynı ses — belirgin şekilde daha yüksek oluyor. Ne oluyor?</p>
 
@@ -596,10 +585,9 @@ export const trArticles: ArticleSet = {
   "free-volume-mixer-mac": {
     slug: "free-volume-mixer-mac",
     title: "Mac için Ücretsiz Ses Mikseri: Gerçekten Ne Alıyorsunuz (ve Ne Almadığınız)",
-    description:
-      "Mac için ücretsiz bir uygulama başına ses mikseri mi arıyorsunuz? İşte ücretsiz opsiyonların neler sunduğuna, eksiklerine ve ne zaman ödemeye değer olduğuna dair dürüst bir özet.",
+    description: "Mac için ücretsiz bir uygulama başına ses mikseri mi arıyorsunuz? İşte ücretsiz opsiyonların neler sunduğuna, eksiklerine ve ne zaman ödemeye değer olduğuna dair dürüst bir özet.",
     date: "2026-04-03",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>"Mac için ücretsiz hacim mikseri" ararsanız, ana bir sonuç bulursunuz: <strong>Arka Plan Müziği</strong>. macOS için tek kayda değer ücretsiz, açık kaynaklı uygulama ses kontrolü uygulaması. Gerçekten ne aldığınıza ve neyi vazettiğinize bakalım.</p>
 
@@ -674,10 +662,9 @@ export const trArticles: ArticleSet = {
   "balance-music-voice-chat-volume-mac": {
     slug: "balance-music-voice-chat-volume-mac",
     title: "Müzik ve Sesli Sohbet Seviyesini Mac Nasıl Dengelenir",
-    description:
-      "Discord'da müzik çok yüksek. Ya da Spotify altında arama çok sessiz. macOS onları dengelemenize izin vermiyor — mükemmel oranı nasıl ayarlayacağınızı inceleyin.",
+    description: "Discord'da müzik çok yüksek. Ya da Spotify altında arama çok sessiz. macOS onları dengelemenize izin vermiyor — mükemmel oranı nasıl ayarlayacağınızı inceleyin.",
     date: "2026-04-05",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Discord'da (veya Zoom'da, ya da FaceTime'da) arkadaşlarınızla konuşurken müzik dinlemek istersiniz. Müziğin var olması ama baskın olmaması gerekir. Sesli sohbet açık ve baskın olmalı. Basit bir istek. macOS bunu imkansız kılıyor.</p>
 
@@ -725,10 +712,9 @@ export const trArticles: ArticleSet = {
   "mac-volume-control-complete-guide": {
     slug: "mac-volume-control-complete-guide",
     title: "Mac Ses Kontrolü: Tam Rehber (2026)",
-    description:
-      "macOS sesi kontrol etme konusunda bilmeniz gereken her şey — temel klavye kısayollarından uygulama başına ses seviyesine, çıkış anahtarlamaya ve otomasyona kadar.",
+    description: "macOS sesi kontrol etme konusunda bilmeniz gereken her şey — temel klavye kısayollarından uygulama başına ses seviyesine, çıkış anahtarlamaya ve otomasyona kadar.",
     date: "2026-06-12",
-    readTime: "12 min read",
+    readTime: "12 dk okuma",
     content: `
 <p>macOS size ses kaydırıcısı ve susturma düğmesi veriyor. Apple'ın dahili ses kontrolünün sınırı bu kadar. Ama Mac aslında yüzeyin gösterdiğinden çok daha fazla ses yeteneğine sahip — gizli klavye kısayolları, uygulama başına ses araçları, çıkış cihazı yönetimi ve çoğu kullanıcının asla keşfetmediği otomasyon özellikleri.</p>
 
@@ -828,10 +814,9 @@ export const trArticles: ArticleSet = {
   "vlc-volume-too-low-mac": {
     slug: "vlc-volume-too-low-mac",
     title: "VLC Ses Çok Düşük Mac? Nasıl %200'ün üzerine çıkarılır",
-    description:
-      "VLC maksimum seste ama video hâlâ çok sessiz mi? VLC'de yerleşik %200 artış var — ayrıca uygulama başına bir ses mikseriyle daha da ileri gidebilirsiniz.",
+    description: "VLC maksimum seste ama video hâlâ çok sessiz mi? VLC'de yerleşik %200 artış var — ayrıca uygulama başına bir ses mikseriyle daha da ileri gidebilirsiniz.",
     date: "2026-04-08",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>VLC'de bir video izliyorsunuz. Diyalog sessiz. VLC'nin sesini tamamen açıyorsunuz. Mac sesini tamamen açıyorsunuz. Hâlâ düzgün duyamıyorum. Video çok sessiz kaydedildi.</p>
 
@@ -875,10 +860,9 @@ export const trArticles: ArticleSet = {
   "disable-audio-ducking-mac": {
     slug: "disable-audio-ducking-mac",
     title: "Mac Üzerinde Ses Eğilmesini Nasıl Devre Dışı Bırakılır (veya Kendin Kontrol Edebilirim)",
-    description:
-      "macOS ya da uygulamalarınız aramalar sırasında sormadan müziğinizi sürekli kısıyor. İstenmeyen ses kaçırılmasını nasıl durduracağınızın — ya da bunu gerçekten kontrol ettiğiniz eğilme ile değiştirmenizin yolları şunlar.",
+    description: "macOS ya da uygulamalarınız aramalar sırasında sormadan müziğinizi sürekli kısıyor. İstenmeyen ses kaçırılmasını nasıl durduracağınızın — ya da bunu gerçekten kontrol ettiğiniz eğilme ile değiştirmenizin yolları şunlar.",
     date: "2026-04-10",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Zoom görüşmesine katılıyorsun. Müziğin neredeyse sıfıra düşüyor. Hiçbir ses kontrolüne dokunmadın — bir şey senin için yaptı. Bu <strong>ses eğilme</strong>: bir arama veya önemli ses kaynağı aktifken arka planda sesin otomatik olarak düşürülmesi.</p>
 
@@ -934,10 +918,9 @@ export const trArticles: ArticleSet = {
   "bluetooth-headphones-too-quiet-mac": {
     slug: "bluetooth-headphones-too-quiet-mac",
     title: "Bluetooth kulaklıklar Mac çok sessiz mi? İşe Yarayan Her Çözüm",
-    description:
-      "Bluetooth kulaklıklarınız telefonda sorunsuz çalışıyor ama Mac sessiz çıkıyor. İşte her sebep — codec sorunlarından macOS ses sınırlarına kadar — ve her birinin nasıl düzeltileceği.",
+    description: "Bluetooth kulaklıklarınız telefonda sorunsuz çalışıyor ama Mac sessiz çıkıyor. İşte her sebep — codec sorunlarından macOS ses sınırlarına kadar — ve her birinin nasıl düzeltileceği.",
     date: "2026-04-12",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Bluetooth kulaklıklarınız telefonunuzda oldukça yüksek sesli. Onları Mac ile bağlıyorsunuz — ve her şey daha sessiz oluyor. Müzik boğuk geliyor. Çağrıları duymak zor. Ses seviyesini maksimuma çıkardınız ama yine de yeterli değil. Ne oluyor?</p>
 
@@ -997,10 +980,9 @@ export const trArticles: ArticleSet = {
   "mac-audio-obs-streaming-setup": {
     slug: "mac-audio-obs-streaming-setup",
     title: "Mac OBS ve Yayın İçin Ses: İzleyicinizin Ne Duyduğunu Nasıl Kontrol Edebilirsiniz",
-    description:
-      "OBS ile Mac üzerinden yayın yapmak mı? İzleyicileriniz her şeyi aynı sesle duyar — oyun, müzik, uyarılar, Discord. İşte ses kaynaklarını doğru şekilde nasıl dengelediğiniz.",
+    description: "OBS ile Mac üzerinden yayın yapmak mı? İzleyicileriniz her şeyi aynı sesle duyar — oyun, müzik, uyarılar, Discord. İşte ses kaynaklarını doğru şekilde nasıl dengelediğiniz.",
     date: "2026-04-15",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>OBS ile Mac üzerinden yayımlıyorsun. Oyun sesi çok yüksek. Discord aramanız çalışıyor. Spotify arka plan müziği çalıyor. Birisi abone olduğunda uyarı sesi ateş çıkarır. İzleyicileriniz tüm bunları aynı sesle duyuyor — Discord çağrılarının patlamalarla yarıştığı ve müziğin yorumlarınızı bastırdığı kaotik bir karmaşa.</p>
 
@@ -1058,10 +1040,9 @@ export const trArticles: ArticleSet = {
   "make-mac-remember-volume-per-app": {
     slug: "make-mac-remember-volume-per-app",
     title: "Uygulama Başına Ses Seviyesini Mac Hatırlamanızı Nasıl Sağlarsınız",
-    description:
-      "Spotify'ı yeniden başlattığınızda veya Zoom'u her kez başlattığınızda, sesi yeniden ayarlamanız gerekiyor. Her uygulamanın ses seviyesini otomatik olarak hatırlamamı sağlayan macOS şunlar şunlar.",
+    description: "Spotify'ı yeniden başlattığınızda veya Zoom'u her kez başlattığınızda, sesi yeniden ayarlamanız gerekiyor. Her uygulamanın ses seviyesini otomatik olarak hatırlamamı sağlayan macOS şunlar şunlar.",
     date: "2026-04-18",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Ses seviyelerinizi mükemmel hale getirmek için beş dakika harcıyorsunuz. Spotify %30, Zoom %100, Slack %15. Sonra Mac yeniden başlatıyorsunuz. Ya da Slack çöküp yeniden başlatılır. Ya da Spotify'ı kapatıp sonra tekrar açarsınız. Her uygulama varsayılan ses seviyesine sıfırlanıyor. Her şeyi yeniden ayarlıyorsun. Yine.</p>
 
@@ -1111,10 +1092,9 @@ export const trArticles: ArticleSet = {
   "podcast-volume-too-low-mac": {
     slug: "podcast-volume-too-low-mac",
     title: "Podcast Ses Çok Düşük Mac? Nasıl Daha Yüksek Hale Getirilir",
-    description:
-      "Bazı podcastler maksimum sesle bile Mac fısıltı gibi sessiz. İşte nedeni — ve podcast sesini diğer uygulamaları etkilemeden %100'ün üzerine nasıl yükseltildiği.",
+    description: "Bazı podcastler maksimum sesle bile Mac fısıltı gibi sessiz. İşte nedeni — ve podcast sesini diğer uygulamaları etkilemeden %100'ün üzerine nasıl yükseltildiği.",
     date: "2026-04-20",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Podcast dinliyorsunuz Mac. Sunucu iyi ses çıkarıyor, ama konuk — mutfakta dizüstü bilgisayar mikrofonundan kayıt yapan — neredeyse duyulmaz. Sesi %100'e çıkarıyorsunuz. Ev sahibi artık çok gürültülü ama misafir hâlâ sessiz. Kazanmanın bir yolu yok çünkü sorun kayıtta değil, Mac.</p>
 
@@ -1162,10 +1142,9 @@ export const trArticles: ArticleSet = {
   "mac-audio-online-classes-lectures": {
     slug: "mac-audio-online-classes-lectures",
     title: "Mac Çevrimiçi Dersler ve Dersler İçin Ses Kurulumu",
-    description:
-      "Not alırken ders izlemek, Google'da referanslar ararmak ve sınıf arkadaşlarıyla sohbet etmek — hepsi farklı seslerde. İşte Mac'de öğrenci seslerini nasıl yöneteceğiniz.",
+    description: "Not alırken ders izlemek, Google'da referanslar ararmak ve sınıf arkadaşlarıyla sohbet etmek — hepsi farklı seslerde. İşte Mac'de öğrenci seslerini nasıl yöneteceğiniz.",
     date: "2026-04-22",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Zoom'da çevrimiçi bir derse katılan bir öğrencisiniz. Referans olarak başka bir sekmede açık bir YouTube eğitiminiz var. Sınıf arkadaşların Discord'da sohbet ediyor. Spotify arka planda lo-fi ritmler çalıyor. Mac bunların hepsini tek bir cilt gibi ele alıyor. Düşük sesleri azaltırsan profesörünü duyamazsın. Dersi açtığınızda Discord işaretleri konsantrasyonunuz bozuyor.</p>
 
@@ -1225,10 +1204,9 @@ export const trArticles: ArticleSet = {
   "mac-sound-not-working-after-update": {
     slug: "mac-sound-not-working-after-update",
     title: "Mac Güncellemeden Sonra Çalışmayan Ses mi? Tam Düzeltme Rehberi",
-    description:
-      "macOS güncelledin, şimdi sesin kayboldu, çatırdatıyor ya da yanlış ses seviyesinde takılı kaldı. İşte Mac sesinizi tekrar çalıştırmak için her çözüm.",
+    description: "macOS güncelledin, şimdi sesin kayboldu, çatırdatıyor ya da yanlış ses seviyesinde takılı kaldı. İşte Mac sesinizi tekrar çalıştırmak için her çözüm.",
     date: "2026-04-25",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>macOS güncelleme yaptın. Her şey yolundaydı — ta ki ses olmadığını fark edene kadar. Ya da ses çatırdıyor. Ya da ses takılıyor. Ya da ses çıkış cihazınız kaybolmuş olabilir. Güncelleme sonrası ses sorunları neredeyse her macOS sürümünde oluyor ve bunlar hafif sinir bozucudan tamamen sessizliğe kadar değişiyor.</p>
 
@@ -1304,10 +1282,9 @@ export const trArticles: ArticleSet = {
   "mute-all-apps-keyboard-shortcut-mac": {
     slug: "mute-all-apps-keyboard-shortcut-mac",
     title: "Mac'de tüm uygulamaları aynı anda nasıl sessiz bırakılır (ve mükemmel şekilde açılır)",
-    description:
-      "Anında sessizliğe mi ihtiyacınız var? Mute tuşu her şeyi susturuyor — ama sesi açmak dikkatlice dengelenmiş ses seviyelerinizi sıfırlıyor. İşte Mac üzerinde susturup geri yüklemenin daha iyi bir yolu.",
+    description: "Anında sessizliğe mi ihtiyacınız var? Mute tuşu her şeyi susturuyor — ama sesi açmak dikkatlice dengelenmiş ses seviyelerinizi sıfırlıyor. İşte Mac üzerinde susturup geri yüklemenin daha iyi bir yolu.",
     date: "2026-04-28",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Birisi odaya giriyor. Patronunuz beklenmedik şekilde arıyor. Bir istemci bir aramada ekranını paylaşır ve müziğiniz hoparlörlerinden çalınmaya başlar. Anında sessizliğe ihtiyacın var. Şu anda.</p>
 
@@ -1362,10 +1339,9 @@ export const trArticles: ArticleSet = {
   "google-meet-volume-too-low-mac": {
     slug: "google-meet-volume-too-low-mac",
     title: "Google Meet'in Ses Seviyesi Mac Çok Düşük Mü? Bunu Nasıl Düzeltebilirim",
-    description:
-      "Google Meet'teki sesler maksimum seste bile zar zor duyuluyor. İşte Meet'in neden Chrome üzerinden çalıştığı, bunun ses için ne anlama geldiği ve nasıl güçlendirileceği.",
+    description: "Google Meet'teki sesler maksimum seste bile zar zor duyuluyor. İşte Meet'in neden Chrome üzerinden çalıştığı, bunun ses için ne anlama geldiği ve nasıl güçlendirileceği.",
     date: "2026-05-01",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Google Meet'in yerel bir Mac uygulaması yok — tarayıcınız içinde çalışıyor. Bu, Meet'in seslerinin Chrome (veya Safari'nin) ses akışının bir parçası olduğu ve ses seviyesi sorunlarının tarayıcınızın sesi nasıl işlediğiyle karmaşık olduğu anlamına gelir. Hadi çözelim.</p>
 
@@ -1413,10 +1389,9 @@ export const trArticles: ArticleSet = {
   "mac-alert-volume-separate-from-media": {
     slug: "mac-alert-volume-separate-from-media",
     title: "Medya Sesinden Ayrı Mac Uyarı Sesi Nasıl Ayarlanır",
-    description:
-      "macOS gizli bir uyarı ses kaydırıcısı var ama sadece sistem seslerini kapsar. İşte bildirim ve medya sesini gerçekten ayırmak Mac.",
+    description: "macOS gizli bir uyarı ses kaydırıcısı var ama sadece sistem seslerini kapsar. İşte bildirim ve medya sesini gerçekten ayırmak Mac.",
     date: "2026-05-02",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Müziğin mükemmel bir seviyede. Sonra macOS bir uyarı sesi çıkar — "Funk" veya "Tink" ses efekti — ve müziğinizle karşılaştırıldığında acı verici derecede yüksek olur. Ya da tam tersi: uyarılarınız duyulmaz çünkü sisteminizin sesi düşük ve sessiz arka plan müziği olur.</p>
 
@@ -1485,10 +1460,9 @@ export const trArticles: ArticleSet = {
   "facetime-volume-too-low-mac": {
     slug: "facetime-volume-too-low-mac",
     title: "FaceTime Görüşme Kaydı Çok Düşük Mac? Bunu Nasıl Düzeltebilirim",
-    description:
-      "FaceTime sesi Mac tam seste bile zar zor duyuluyor. İşte her çözüm — ses ayarlarından FaceTime'ı %100'ün üzerine çıkarmaya kadar.",
+    description: "FaceTime sesi Mac tam seste bile zar zor duyuluyor. İşte her çözüm — ses ayarlarından FaceTime'ı %100'ün üzerine çıkarmaya kadar.",
     date: "2026-05-04",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>iPhone'unuzda FaceTime aramaları sorun değil. Ama Mac senin, diğer kişi üç oda öteden fısıldayıyormuş gibi geliyor. Ses maksimumda. Aklına gelen her şeyi kontrol ettin. Hâlâ çok sessiz.</p>
 
@@ -1536,10 +1510,9 @@ export const trArticles: ArticleSet = {
   "mac-volume-keyboard-shortcuts": {
     slug: "mac-volume-keyboard-shortcuts",
     title: "Mac Muhtemelen Bilmiyorsunuz Ses Klavyesi Kısayolları",
-    description:
-      "Temel ses tuşlarının ötesine geçti — ince taneli kontrol, belirli uygulamaları susturma ve uygulama başına ses kısayolları. Her Mac ses klavyesi numarası açıklandı.",
+    description: "Temel ses tuşlarının ötesine geçti — ince taneli kontrol, belirli uygulamaları susturma ve uygulama başına ses kısayolları. Her Mac ses klavyesi numarası açıklandı.",
     date: "2026-05-06",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Her Mac kullanıcısı ses yükseltme/azaltma/sessiz tuşlarını bilir. Onlara bas ve sistem sesi değişiyor. Ama macOS, çoğu kişinin asla keşfetmediği birkaç gizli klavye numarasına sahip — ayrıca ses yönetimini dramatik şekilde hızlandıran üçüncü taraf kısayollar.</p>
 
@@ -1602,10 +1575,9 @@ export const trArticles: ArticleSet = {
   "background-music-app-not-working-mac": {
     slug: "background-music-app-not-working-mac",
     title: "Arka Plan Müziği Uygulaması macOS Çalışmıyor mu? Bu Alternatifleri Deneyin",
-    description:
-      "Ücretsiz Arka Plan Müziği uygulaması macOS güncellemesinden sonra çalışmayı mı durdurdu? İşte neden bozulduğu, ne yapılması gerektiği ve 2026'da gerçekten işe yarayan en iyi alternatifler.",
+    description: "Ücretsiz Arka Plan Müziği uygulaması macOS güncellemesinden sonra çalışmayı mı durdurdu? İşte neden bozulduğu, ne yapılması gerektiği ve 2026'da gerçekten işe yarayan en iyi alternatifler.",
     date: "2026-06-08",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Background Music, size temel uygulama başına ses kontrolü sağlayan popüler bir ücretsiz, açık kaynaklı Mac uygulamasıdır. Sanal bir ses cihazı kurup tüm sesi oradan yönlendirerek çalışıyor. Sorun: kırılır. Düzenli olarak.</p>
 
@@ -1666,10 +1638,9 @@ export const trArticles: ArticleSet = {
   "soundsource-alternative-mac": {
     slug: "soundsource-alternative-mac",
     title: "SoundSource Alternatif: Mac için Uygulama Başına Daha Hafif ve Daha Ucuz Ses Kontrolü",
-    description:
-      "SoundSource güçlü ama pahalı ve karmaşık. Eğer sadece uygulama başına ses kontrolüne ihtiyacınız varsa, ses mühendisliği araç seti olmadan şöyle bir şey kullanmanız gerekiyor.",
+    description: "SoundSource güçlü ama pahalı ve karmaşık. Eğer sadece uygulama başına ses kontrolüne ihtiyacınız varsa, ses mühendisliği araç seti olmadan şöyle bir şey kullanmanız gerekiyor.",
     date: "2026-06-06",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Rogue Amoeba'nın SoundSource'u, Mac için en uzun süre çalışan uygulama başına ses kontrol uygulamasıdır. Güçlü, iyi yapılmış ve uygulama başına EQ, ses efekt zincirleri ve uygulama başına çıkış yönlendirmesi gibi özelliklerle geliyor. Ayrıca 39 dolar, sistem ses sürücüsü (ACE) gerektiriyor ve çoğu kişinin kullanabileceğinden daha fazla özelliğe sahip.</p>
 
@@ -1783,10 +1754,9 @@ export const trArticles: ArticleSet = {
   "mac-volume-too-loud-at-lowest-setting": {
     slug: "mac-volume-too-loud-at-lowest-setting",
     title: "Mac En Düşük Ayarda Ses Çok Yüksek? Daha Sessiz Nasıl Gidilir",
-    description:
-      "En düşük ses çentiğinde bile, Mac çok yüksek — özellikle gece geç saatlerde kulaklıkla. İşte daha ince ses kontrolü elde etmek ve minimumun altına düşmek için nasıl yapılır.",
+    description: "En düşük ses çentiğinde bile, Mac çok yüksek — özellikle gece geç saatlerde kulaklıkla. İşte daha ince ses kontrolü elde etmek ve minimumun altına düşmek için nasıl yapılır.",
     date: "2026-05-08",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Saat gece yarısı. Kulaklık takıyorsun. Ses kısma tuşuna basıyorsunuz, en düşük noktaya — bir bara ulaşınca. Hâlâ çok gürültülü. Sonraki baskı sessiz oluyor. Arada hiçbir şey yok. Hacim %3 olmasını istiyorsunuz ama macOS %6'dan %0'a atlıyor.</p>
 
@@ -1831,10 +1801,9 @@ export const trArticles: ArticleSet = {
   "one-airpod-louder-than-the-other-fix": {
     slug: "one-airpod-louder-than-the-other-fix",
     title: "Bir AirPod diğerinden daha mı yüksek mi? Her Çözüm Açıklandı",
-    description:
-      "Sol AirPod sağa göre daha sessiz (ya da tam tersi). İşte her sebep — kulak kirinden macOS denge ayarlarına kadar — ve nasıl düzeltileceği.",
+    description: "Sol AirPod sağa göre daha sessiz (ya da tam tersi). İşte her sebep — kulak kirinden macOS denge ayarlarına kadar — ve nasıl düzeltileceği.",
     date: "2026-05-10",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Bir AirPod iyi ses çıkarıyor. Diğeri belirgin şekilde daha sessiz. Müzik merkezden sapmış gibi hissettiriyor. Sesler bir taraftan geliyormuş gibi geliyor. Bu, AirPods şikayetlerinin en yaygın örneklerinden biridir ve genellikle basit bir çözümü vardır.</p>
 
@@ -1913,10 +1882,9 @@ export const trArticles: ArticleSet = {
   "netflix-streaming-audio-too-quiet-mac": {
     slug: "netflix-streaming-audio-too-quiet-mac",
     title: "Netflix ve Streaming Audio Mac'da Çok Sessiz mi? Bunu Nasıl Düzeltebilirim",
-    description:
-      "Diyalog fısıltı gibi sessiz, sonra bir patlama odayı sarsıyor. İşte Mac akışında ses seviyesini nasıl düzelteceğiniz ve sessiz içeriği %100'ün üzerine çıkaracağınız şunlar.",
+    description: "Diyalog fısıltı gibi sessiz, sonra bir patlama odayı sarsıyor. İşte Mac akışında ses seviyesini nasıl düzelteceğiniz ve sessiz içeriği %100'ün üzerine çıkaracağınız şunlar.",
     date: "2026-05-17",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Netflix'te bir film izliyorsunuz. İki karakter sohbet ediyor — neredeyse duyulmayanlar. Sesi yükseltiyorsun. Bir aksiyon sahnesi başlar. Patlamalar sağır edici. Ses tuşuna koşuyor gibisin. Bu, ses akışıyla ilgili en yaygın şikayet ve Mac'ın dahili hoparlörlerinde daha da kötüleşiyor.</p>
 
@@ -1972,10 +1940,9 @@ export const trArticles: ArticleSet = {
   "mac-audio-setup-remote-work": {
     slug: "mac-audio-setup-remote-work",
     title: "Mac Uzaktan İş için Ses Kurulumu: Tam Rehber",
-    description:
-      "Aramalar, müzik, bildirimler ve odaklanma zamanı — hepsi tek bir Mac. İşte sesinizi nasıl ayarlayacağınızı ve hiçbir şeyin dikkatinizi çekmemesini sağlayacaksınız.",
+    description: "Aramalar, müzik, bildirimler ve odaklanma zamanı — hepsi tek bir Mac. İşte sesinizi nasıl ayarlayacağınızı ve hiçbir şeyin dikkatinizi çekmemesini sağlayacaksınız.",
     date: "2026-05-12",
-    readTime: "8 min read",
+    readTime: "8 dk okuma",
     content: `
 <p>Bir Mac üzerinde uzaktan çalışmak, bilgisayarınızın aynı anda ofis telefonunuz, radyonuzu, bildirim merkeziniz ve derin çalışma istasyonunuz olduğu anlamına gelir. Bunlar dört temel farklı ses modu ve macOS hepsini aynı şekilde ele alıyor: bir ses kaydırıcısı, her şey aynı seviyede, öncelik verme imkanı yok.</p>
 
@@ -2083,10 +2050,9 @@ export const trArticles: ArticleSet = {
   "stop-browser-tabs-auto-playing-audio-mac": {
     slug: "stop-browser-tabs-auto-playing-audio-mac",
     title: "Tarayıcı sekmelerinin Mac Otomatik Ses Oynatmasını Nasıl Durdururum",
-    description:
-      "Arka plan sekmesi aniden ses oynatmaya başlıyor. Reklamlar, videolar, haber siteleri — macOS'de haydut sekmeleri nasıl susturmak ve tarayıcı sesini kontrol etmek için nasıl kontrol edileceği işte.",
+    description: "Arka plan sekmesi aniden ses oynatmaya başlıyor. Reklamlar, videolar, haber siteleri — macOS'de haydut sekmeleri nasıl susturmak ve tarayıcı sesini kontrol etmek için nasıl kontrol edileceği işte.",
     date: "2026-05-14",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Yirmi sekmen açık. Onlardan birinde çalışıyorsun. Aniden — bir yerden ses çalmaya başlıyor. Bir video reklamı. Otomatik oynatılan bir haber klipi. Bir saat önce açtığınız bir sekme şimdi ses çıkarmaya başlama zamanı geldi. Hangi sekme olduğunu bulmak için telaşla bakıyorsunuz, birer teker tıklıyorsunuz.</p>
 
@@ -2142,10 +2108,9 @@ export const trArticles: ArticleSet = {
   "discord-volume-too-loud-mac": {
     slug: "discord-volume-too-loud-mac",
     title: "Discord Sesi Mac'de Çok Yüksek (veya Sessiz) mi? Bunu Nasıl Düzeltebilirim",
-    description:
-      "Discord oyununuzu gürültüyle dolduruyor ya da takım arkadaşlarınızı duyamayacak kadar sessiz. İşte Discord'un ses seviyesini macOS'daki diğer her şeyden bağımsız olarak nasıl kontrol edeceğiniz.",
+    description: "Discord oyununuzu gürültüyle dolduruyor ya da takım arkadaşlarınızı duyamayacak kadar sessiz. İşte Discord'un ses seviyesini macOS'daki diğer her şeyden bağımsız olarak nasıl kontrol edeceğiniz.",
     date: "2026-05-21",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Discord'da Mac'da iki ses seviyesi sorunu var. Ya çok yüksek — oyun ve müzik üzerinden bildirim sesleri yükseliyor — ya da çok sessiz — oyun sesi üzerinden takım arkadaşlarınızı duyamıyorsun. Sorun şu ki macOS Discord'un sesini bağımsız olarak ayarlamanıza izin vermiyor. Diğer her şeyle aynı sistem kaydırıcısına kilitlenmiş.</p>
 
@@ -2207,10 +2172,9 @@ export const trArticles: ArticleSet = {
   "switch-audio-output-quickly-mac": {
     slug: "switch-audio-output-quickly-mac",
     title: "Mac Ses Çıkışını Hızlıca Nasıl Değiştiririm (Ayarlara Girmeden)",
-    description:
-      "Mac üzerinde hoparlör, kulaklık ve monitör arasında geçiş yapmak çok fazla tıklama gerektiriyor. İşte ses çıkış cihazınızı anında değiştirmenin daha hızlı yolları.",
+    description: "Mac üzerinde hoparlör, kulaklık ve monitör arasında geçiş yapmak çok fazla tıklama gerektiriyor. İşte ses çıkış cihazınızı anında değiştirmenin daha hızlı yolları.",
     date: "2026-05-19",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Kulaklıklarınızı çıkarıyorsunuz ve sesin hoparlörlere gitmesini istiyorsunuz. Ya da AirPods takıyorsunuz ve macOS yanlış cihazı seçiyor. Ya da bir toplantı odasına girersiniz ve konferans konuşmacısına geçmeniz gerekir. Her seferinde: Sistem Ayarları → Ses → Çıkış → kaydırma → tıklama. Bir klik alması gereken bir şey için çok fazla tıklama.</p>
 
@@ -2262,10 +2226,9 @@ export const trArticles: ArticleSet = {
   "fix-audio-crackling-popping-mac": {
     slug: "fix-audio-crackling-popping-mac",
     title: "Mac'de Ses Çatırdaması ve Patlamasını Düzeltin: Tam Rehber",
-    description:
-      "Mac sesi müzik, aramalar veya video oynatma sırasında çatırda, patlar veya takılar. İşte macOS ses hatalarının bilinen tüm nedenleri ve çözümleri.",
+    description: "Mac sesi müzik, aramalar veya video oynatma sırasında çatırda, patlar veya takılar. İşte macOS ses hatalarının bilinen tüm nedenleri ve çözümleri.",
     date: "2026-05-16",
-    readTime: "8 min read",
+    readTime: "8 dk okuma",
     content: `
 <p>Müzik dinliyorsunuz ve bir patlama sesi duyuyorsunuz. Sonra bir çatırtı. Sonra sesin bir saniyenin çok kısa bir kesintisi kesilip geri dönmesi gibi bir takılma oluyor. Sorun şarkı değil — Mac. macOS üzerindeki ses çatırtısı sinir bozucu derecede yaygın ve en az altı farklı nedeni var.</p>
 
@@ -2345,10 +2308,9 @@ export const trArticles: ArticleSet = {
   "teams-volume-too-low-mac": {
     slug: "teams-volume-too-low-mac",
     title: "Microsoft Teams Volume Çok Düşük Mac? İşe Yarayan Her Çözüm",
-    description:
-      "Teams üzerinden maksimum ses seviyesinde bile insanları zar zor duyabiliyor musun? İşte her sebep — Teams ayarlarından Bluetooth kodeklerine kadar — ve çağrı sesini %100'ün üzerine nasıl çıkarabileceğiniz.",
+    description: "Teams üzerinden maksimum ses seviyesinde bile insanları zar zor duyabiliyor musun? İşte her sebep — Teams ayarlarından Bluetooth kodeklerine kadar — ve çağrı sesini %100'ün üzerine nasıl çıkarabileceğiniz.",
     date: "2026-06-04",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>Bir Teams toplantısındasın. İş arkadaşınız sunum yapıyor ama sesi üç oda öteden bir teneke kutudan geliyormuş gibi geliyor. Mac hacminiz %100'de. Takımların hacmi %100'de. Bulabildiğin her şeyi buldun. Hâlâ çok sessiz.</p>
 
@@ -2408,10 +2370,9 @@ export const trArticles: ArticleSet = {
   "how-to-control-per-app-volume-on-mac": {
     slug: "how-to-control-per-app-volume-on-mac",
     title: "Mac Uygulamaya Göre Ses Kontrolü Nasıl Yapılır",
-    description:
-      "macOS her şey için bir ses kaydırıcısı veriyor. Her uygulama için bireysel ses kontrollerini nasıl alacağınız ve bunun düşündüğünüzden daha önemli olmasının nedenleri işte.",
+    description: "macOS her şey için bir ses kaydırıcısı veriyor. Her uygulama için bireysel ses kontrollerini nasıl alacağınız ve bunun düşündüğünüzden daha önemli olmasının nedenleri işte.",
     date: "2026-05-20",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>Görüntülü görüşmedesin. Gevşeklik sürekli çalıyor. Arka planda müzik çalıyor. Ses tuşuna uzanıyorsun ve — her şey daha da sessizleşiyor. Arama, müzik, bildirimler. macOS tam olarak bir ses kaydırıcısı var ve her şeyi aynı anda kontrol ediyor.</p>
 
@@ -2484,10 +2445,9 @@ export const trArticles: ArticleSet = {
   "mute-slack-notifications-mac-without-muting-everything": {
     slug: "mute-slack-notifications-mac-without-muting-everything",
     title: "Mac Slack'i Nasıl Sessiz Edilir Ve Diğer Her Şeyi Sessizleştirmeden",
-    description:
-      "Slack bildirimleri odaklanmanızı sürekli bölüyor, ancak müziğinizi veya aramalarınızı susturmak istemezsiniz. İşte sadece Slack'i nasıl susturmak macOS.",
+    description: "Slack bildirimleri odaklanmanızı sürekli bölüyor, ancak müziğinizi veya aramalarınızı susturmak istemezsiniz. İşte sadece Slack'i nasıl susturmak macOS.",
     date: "2026-05-24",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Çalışmaya derin odaklanmışsın. Spotify mükemmel konsantrasyon çalma listesini çalıyor. O zaman — <em>Fırça Tık</em> — Gevşek sesler. Ve tekrar. Ve tekrar. Otuz saniyede üç kanal, iki DM ve bir başlık bildirimi. Slack'i sessiz bırakmak istiyorsun ama müziğini korumak istiyorsun. macOS şöyle diyor: her şeyi sessize al ya da hiçbir şeyi sustur.</p>
 
@@ -2541,10 +2501,9 @@ export const trArticles: ArticleSet = {
   "volume-profiles-for-mac": {
     slug: "volume-profiles-for-mac",
     title: "Farklı Durumlar İçin Ses Profilleri Nasıl Kurulur Mac",
-    description:
-      "Toplantılar, odaklanma çalışması, oyun ve rahatlama için farklı ses ayarları — tek tıklamayla değiştirilebiliyor. İşte macOS ses profillerinin nasıl çalıştığı.",
+    description: "Toplantılar, odaklanma çalışması, oyun ve rahatlama için farklı ses ayarları — tek tıklamayla değiştirilebiliyor. İşte macOS ses profillerinin nasıl çalıştığı.",
     date: "2026-06-02",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Saat 9'da Zoom görüşmesiniz — Zoom'un %100, Spotify sessiz ve Slack sessiz olmasını istersiniz. Saat 10'da görüşme sona eriyor — Spotify %40, Slack %15, Zoom önemli değil. Öğle vakti oyun oynuyorsunuz — oyun %60, Discord %100, diğer her şey sessiz. Saat 18:00'de YouTube izliyorsunuz — tarayıcı %80, diğer her şey sessiz.</p>
 
@@ -2624,10 +2583,9 @@ export const trArticles: ArticleSet = {
   "zoom-call-volume-too-low-mac": {
     slug: "zoom-call-volume-too-low-mac",
     title: "Zoom Çağrı Sığırı Çok Düşük Mac? Nasıl Güçlendirilir",
-    description:
-      "Zoom'da en yüksek seste bile insanları zar zor duyabiliyorsun. İşte her çözüm — Zoom ayarlarından, uygulama başına ses mikseriyle çağrı sesini %100'ün üzerine çıkarmaya kadar.",
+    description: "Zoom'da en yüksek seste bile insanları zar zor duyabiliyorsun. İşte her çözüm — Zoom ayarlarından, uygulama başına ses mikseriyle çağrı sesini %100'ün üzerine çıkarmaya kadar.",
     date: "2026-05-26",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Zoom görüşmesindesin. Diğer kişi konuşuyor ama sesi zar zor duyuluyor. Mac hacminiz maksimumda. Zoom'un hoparlör sesi maksimumda. Ekranına yaslanıyorsun, duymaya çalışıyorsun. Bu kadar zor olmamalı.</p>
 
@@ -2686,10 +2644,9 @@ export const trArticles: ArticleSet = {
   "lower-spotify-without-lowering-everything-mac": {
     slug: "lower-spotify-without-lowering-everything-mac",
     title: "Spotify'ı Diğer Her Şeyi Düşürmeden Nasıl Düşürülür Mac",
-    description:
-      "Spotify'ı arka plan müziği olarak istersiniz ama ses tuşlarıyla kısmak aramanızı ve diğer her şeyi daha sessiz hale getirir. İşte çözüm.",
+    description: "Spotify'ı arka plan müziği olarak istersiniz ama ses tuşlarıyla kısmak aramanızı ve diğer her şeyi daha sessiz hale getirir. İşte çözüm.",
     date: "2026-05-30",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Çalışıyorsun. Spotify arka plan müziği çalıyor. Biraz fazla gürültülü — podcast'le başka bir sekmede rekabet ediyor ya da odaklanmayı zorlaştırıyor. Ses düşürme tuşuna basıyorsunuz. Spotify daha sessiz hale geliyor. Ama diğer her şey de öyle — Zoom görüşmeleriniz, bildirim sesleriniz, tarayıcı sesleri. Her şey daha sessizdi. İstediğin bu değildi.</p>
 
@@ -2731,10 +2688,9 @@ export const trArticles: ArticleSet = {
   "macos-tahoe-per-app-volume-control": {
     slug: "macos-tahoe-per-app-volume-control",
     title: "macOS Tahoe'da uygulama başına ses kontrolü var mı?",
-    description:
-      "macOS Tahoe (macOS 26) büyük güncellemeler getirdi, ama Apple sonunda bir ses mikseri ekledi mi? İşte cevap — ve şimdi uygulama başına ses kontrolü nasıl sağlanır.",
+    description: "macOS Tahoe (macOS 26) büyük güncellemeler getirdi, ama Apple sonunda bir ses mikseri ekledi mi? İşte cevap — ve şimdi uygulama başına ses kontrolü nasıl sağlanır.",
     date: "2026-06-12",
-    readTime: "4 min read",
+    readTime: "4 dk okuma",
     content: `
 <p>Her yıl, Mac kullanıcısı bir sonraki macOS sürümünün nihayet bir ses mikseri içermesini umuyor. Her yıl hayal kırıklığına uğrarlar. macOS Tahoe (macOS 26) ile Apple, yeniden tasarlanmış bir arayüz, yeni sistem özellikleri ve büyük altyapı iyileştirmeleri sundu. Peki uygulama başına ses kontrolü eklediler mi?</p>
 
@@ -2787,10 +2743,9 @@ export const trArticles: ArticleSet = {
   "play-music-speakers-calls-headphones-mac": {
     slug: "play-music-speakers-calls-headphones-mac",
     title: "Kulaklıkla Çağrı Alırken Müzik Nasıl Duyulur, Hoparlörden Çalar (Mac)",
-    description:
-      "Masaüstü hoparlörlerinizde Spotify ve AirPods'unuzda Zoom mı istiyorsunuz? macOS bunu kolaylaştırmıyor — işte gerçekten işe yarayan şey.",
+    description: "Masaüstü hoparlörlerinizde Spotify ve AirPods'unuzda Zoom mı istiyorsunuz? macOS bunu kolaylaştırmıyor — işte gerçekten işe yarayan şey.",
     date: "2026-05-15",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Yapmanız gereken makul bir şey var: AirPods'unuzdan Zoom görüşmesi yaparken masanızdaki hoparlörlerden müzik çalın. Müzik odayı dolduruyor, çağrı kulaklarında özel. Tamamen mantıklı.</p>
 
@@ -2840,10 +2795,9 @@ export const trArticles: ArticleSet = {
   "mac-volume-keeps-changing-by-itself": {
     slug: "mac-volume-keeps-changing-by-itself",
     title: "Mac Volume Kendi Kendine Değişiyor: Nasıl Düzeltilir",
-    description:
-      "Mac'inizin sesi rastgele yükselir, düşer veya farklı bir seviyeye sıfırlanır. İşte bilinen tüm nedenler ve bunu nasıl durdurabileceğiniz.",
+    description: "Mac'inizin sesi rastgele yükselir, düşer veya farklı bir seviyeye sıfırlanır. İşte bilinen tüm nedenler ve bunu nasıl durdurabileceğiniz.",
     date: "2026-05-18",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Mac sesinizi rahat bir seviyeye ayarlıyorsunuz. Bakışlarını kaçırdın. Geri döndüğünde durum farklı. Daha yüksek sesle. Daha sessiz. Maksimuma sıfırla. Sürekli oluyor ve nedenini anlayamıyorsunuz.</p>
 
@@ -2906,10 +2860,9 @@ export const trArticles: ArticleSet = {
   "best-volume-mixer-apps-mac-2026": {
     slug: "best-volume-mixer-apps-mac-2026",
     title: "2026'da Mac için En İyi Ses Mikseri Uygulamaları",
-    description:
-      "Her Mac uygulamanın kesin bir karşılaştırması, uygulama başına ses kontrolü sağlıyor. Özellikler, fiyatlandırma ve hangisinin gerçekten kullanmaya değer olduğu.",
+    description: "Her Mac uygulamanın kesin bir karşılaştırması, uygulama başına ses kontrolü sağlıyor. Özellikler, fiyatlandırma ve hangisinin gerçekten kullanmaya değer olduğu.",
     date: "2026-06-12",
-    readTime: "10 min read",
+    readTime: "10 dk okuma",
     content: `
 <p>macOS dahili ses mikseri yok. Bireysel uygulamaların sesini kontrol etmek istiyorsanız — Zoom'u etkilemeden Spotify'ı kısmak, her şeyi sessize almadan Slack'i sessize almak — üçüncü taraf bir uygulamaya ihtiyacınız var.</p>
 
@@ -3088,10 +3041,9 @@ export const trArticles: ArticleSet = {
   "youtube-too-quiet-safari-chrome-mac": {
     slug: "youtube-too-quiet-safari-chrome-mac",
     title: "YouTube, Safari'de mi yoksa Chrome Mac'da çok sessiz? Anında Düzeltin",
-    description:
-      "Bazı YouTube videoları maksimum seste bile zar zor duyuluyor. İşte tarayıcı sesinin neden diğer uygulamalara göre daha sessiz olduğu ve Mac'de bunu %100'ün üzerine nasıl çıkarabileceğiniz.",
+    description: "Bazı YouTube videoları maksimum seste bile zar zor duyuluyor. İşte tarayıcı sesinin neden diğer uygulamalara göre daha sessiz olduğu ve Mac'de bunu %100'ün üzerine nasıl çıkarabileceğiniz.",
     date: "2026-05-22",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Bir YouTube videosuna tıklıyorsunuz. Yaratıcı konuşuyor ama zar zor duyulmuyor. Sistem hacmi maksimumda. YouTube'un oynatıcı sesi maksimumda. Hoparlörlerine daha da yaklaşıyorsun. Hâlâ çok sessiz. Spotify'ı açıyorsunuz — müzik tam sesle patlıyor. Yani sorun hoparlörleriniz değil. Bu YouTube. Ya da daha doğrusu, video.</p>
 
@@ -3141,10 +3093,9 @@ export const trArticles: ArticleSet = {
   "mac-notification-sounds-too-loud-headphones": {
     slug: "mac-notification-sounds-too-loud-headphones",
     title: "Mac Kulaklıkta Bildirim Çok Yüksek Geliyor? İşte çözüm",
-    description:
-      "Slack ping'leri ve macOS uyarıları kulaklıkta acı verici derecede yüksek sesle çalıyor, müziğiniz ise sorun yaşamıyor. İşte bildirim haciminin neden farklı olduğu — ve bunu nasıl kontrol edeceğiniz.",
+    description: "Slack ping'leri ve macOS uyarıları kulaklıkta acı verici derecede yüksek sesle çalıyor, müziğiniz ise sorun yaşamıyor. İşte bildirim haciminin neden farklı olduğu — ve bunu nasıl kontrol edeceğiniz.",
     date: "2026-05-25",
-    readTime: "5 min read",
+    readTime: "5 dk okuma",
     content: `
 <p>Kulaklık takıyorsun, müzik dinliyorsun ve rahat, %40 sesle dinliyorsun. Bir Slack bildirimi açılıyor. <em>DING.</em> Müziğinizle karşılaştırıldığında sağır edici derecede yüksek. Kulakların çınlıyor. Kulaklıklarını koparıyorsun.</p>
 
@@ -3197,10 +3148,9 @@ export const trArticles: ArticleSet = {
   "stop-zoom-lowering-music-mac": {
     slug: "stop-zoom-lowering-music-mac",
     title: "Zoom'un Müziğinizi Düşürmesini Nasıl Durdurursunuz Mac",
-    description:
-      "Her Zoom görüşmesine katıldığınızda, müziğiniz ya düşüyor ya da kayboluyor. İşte neden böyle olduğunu ve aramalar sırasında neyin daha sessiz olduğunu nasıl kontrol edebileceğinizi — kendi şartlarınıza göre.",
+    description: "Her Zoom görüşmesine katıldığınızda, müziğiniz ya düşüyor ya da kayboluyor. İşte neden böyle olduğunu ve aramalar sırasında neyin daha sessiz olduğunu nasıl kontrol edebileceğinizi — kendi şartlarınıza göre.",
     date: "2026-05-28",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Zoom görüşmesine katılıyorsun. Spotify rahat bir ses seviyesiyle oynuyordu. Çağrı bağlanıyor ve — müziğiniz ya kayboluyor ya da neredeyse yok oluyor. Hiçbir şeye dokunmadın. Zoom (veya macOS) senin için müziğini sormadan düşürmeye karar verdi.</p>
 
@@ -3271,10 +3221,9 @@ export const trArticles: ArticleSet = {
   "airpods-volume-too-low-mac": {
     slug: "airpods-volume-too-low-mac",
     title: "AirPods Ses Çok Düşük Mac? Her Çözüm Açıklandı",
-    description:
-      "AirPods Mac seste bile sessiz mi ses çıkarıyor? İşte kulaklık güvenlik sınırlarından Bluetooth tuhaflıklarına kadar tüm nedenleri ve bunları nasıl düzeltebileceğiniz.",
+    description: "AirPods Mac seste bile sessiz mi ses çıkarıyor? İşte kulaklık güvenlik sınırlarından Bluetooth tuhaflıklarına kadar tüm nedenleri ve bunları nasıl düzeltebileceğiniz.",
     date: "2026-06-08",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>AirPods'larınız iPhone'da sorunsuz çalışıyor. Oldukça gürültülüler. Ama onları Mac taktığınızda — tabii ki kablosuz olarak — ve aniden her şey çok sessiz oluyor. Sistem hacmi maksimumda. Spotify maksimumda. AirPods sadece... yeterince yüksek değil.</p>
 
@@ -3338,10 +3287,9 @@ export const trArticles: ArticleSet = {
   "spotify-volume-too-low-mac": {
     slug: "spotify-volume-too-low-mac",
     title: "Spotify Sesi Mac'de Çok Düşük Mü? İşte tüm çözümler",
-    description:
-      "Spotify maksimum sesle ama Mac hala çok sessiz mi? Bu rehber, Spotify'ın yerleşik sınırlayıcısından macOS ayarlarına kadar her sebepten ve bunu %100'ün üzerine nasıl yükseltileceğine kadar kapsıyor.",
+    description: "Spotify maksimum sesle ama Mac hala çok sessiz mi? Bu rehber, Spotify'ın yerleşik sınırlayıcısından macOS ayarlarına kadar her sebepten ve bunu %100'ün üzerine nasıl yükseltileceğine kadar kapsıyor.",
     date: "2026-06-11",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>Spotify tam sesle çalışıyor. Mac tam sesle. Ve hâlâ yeterince yüksek değil. Bu, Mac'de en yaygın Spotify şikayetlerinden biri ve birden fazla nedeni var — çoğu belirgin değil.</p>
 
@@ -3413,10 +3361,9 @@ export const trArticles: ArticleSet = {
   "separate-game-audio-from-discord-mac": {
     slug: "separate-game-audio-from-discord-mac",
     title: "Oyun Sesi Discord'dan Nasıl Ayırılır Mac",
-    description:
-      "Discord'da takım arkadaşlarınızı boğan oyun patlamaları mı? İşte macOS üzerinde oyun sesi ve sesli sohbet sesini bağımsız olarak nasıl kontrol edeceğiniz.",
+    description: "Discord'da takım arkadaşlarınızı boğan oyun patlamaları mı? İşte macOS üzerinde oyun sesi ve sesli sohbet sesini bağımsız olarak nasıl kontrol edeceğiniz.",
     date: "2026-06-10",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Oyun oynuyorsun Mac. Oyunda bir patlama gerçekleşiyor. Discord takım arkadaşlarınız konuşuyor ama silah seslerinin ötesine geçerken onları duymuyorsunuz. Sesi kısıyorsunuz — artık Discord da daha sessiz. Tekrar açıyorsunuz — patlamalar tekrar sağır edici.</p>
 
@@ -3479,10 +3426,9 @@ export const trArticles: ArticleSet = {
   "why-doesnt-mac-have-volume-mixer": {
     slug: "why-doesnt-mac-have-volume-mixer",
     title: "Neden Mac Windows gibi bir ses mikseri yok?",
-    description:
-      "Windows, 2006'dan beri uygulama başına ses kontrolüne sahip. 2026 yılı ve hâlâ yok macOS. İşte asıl sebep — ve yine de nasıl elde edileceği.",
+    description: "Windows, 2006'dan beri uygulama başına ses kontrolüne sahip. 2026 yılı ve hâlâ yok macOS. İşte asıl sebep — ve yine de nasıl elde edileceği.",
     date: "2026-06-09",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Vista'dan (2006) bu yana her Windows sürümünde ses mikseri bulunuyordu. Hoparlör simgesine sağ tıklayın, "Volume Mixer"e tıklayın ve her uygulamanın kendi ses kaydırıcısını görebilirsiniz. Chrome'u Spotify'ı etkilemeden sessize alabilirsiniz. Discord'u oyununuza dokunmadan düşürebilirsiniz.</p>
 
@@ -3549,10 +3495,9 @@ export const trArticles: ArticleSet = {
   "boost-mac-volume-beyond-100-percent": {
     slug: "boost-mac-volume-beyond-100-percent",
     title: "Mac Ses Çok Düşük mü? Sesi %100'ün ötesine nasıl yükseltilir",
-    description:
-      "Mac tam seste ve hâlâ çok sessiz. İşte bunun neden böyle olduğunu ve harici hoparlörler olmadan sesi %200'e kadar nasıl yükseltebileceğimiz.",
+    description: "Mac tam seste ve hâlâ çok sessiz. İşte bunun neden böyle olduğunu ve harici hoparlörler olmadan sesi %200'e kadar nasıl yükseltebileceğimiz.",
     date: "2026-06-07",
-    readTime: "8 min read",
+    readTime: "8 dk okuma",
     content: `
 <p>Mac hacminiz %100'de. Kaydırıcı tamamen sağda. Ve hâlâ yeterince yüksek değil. Podcast çok sessiz. Video görüşme katılımcısı fısıldayıyormuş gibi konuşuyor. YouTube videosu çok düşük bir şekilde kaydedildi. Maksimuma ulaştın — ve bu yeterli değil.</p>
 
@@ -3632,10 +3577,9 @@ export const trArticles: ArticleSet = {
   "auto-lower-music-during-zoom-calls-mac": {
     slug: "auto-lower-music-during-zoom-calls-mac",
     title: "Zoom Çağrıları sırasında Müziği Otomatik Olarak Düşürmek Mac",
-    description:
-      "Her Zoom görüşmesi başladığında, Spotify'ı durdurmak için acele ediyorsunuz. Daha iyi bir yol var — otomatik eğilmek, mikrofonunuz aktive olduğunda müziğinizi otomatik olarak düşürüyor.",
+    description: "Her Zoom görüşmesi başladığında, Spotify'ı durdurmak için acele ediyorsunuz. Daha iyi bir yol var — otomatik eğilmek, mikrofonunuz aktive olduğunda müziğinizi otomatik olarak düşürüyor.",
     date: "2026-06-05",
-    readTime: "7 min read",
+    readTime: "7 dk okuma",
     content: `
 <p>Çağrı başlıyor. Ekranınızı paylaşıyorsunuz. Müziğin hâlâ coşkulu. Telaşla Spotify'a geçiyorsun, duraklatmaya basıyorsun, tekrar Zoom'a dönüyorsun — ama herkes çalma listeni on saniyelik duyuyordu. Herkesin başına gelir ve bunun nedeni, "yeni başlayan bir arama" ile "belki müziği kısmal" arasında hiçbir bağlantı olmadığı macOS olur.</p>
 
@@ -3734,10 +3678,9 @@ export const trArticles: ArticleSet = {
   "how-to-mute-one-app-on-mac": {
     slug: "how-to-mute-one-app-on-mac",
     title: "Mac Bir Uygulamayı Her Şeyi Sessizleştirmeden Nasıl Sessizleştiririm",
-    description:
-      "Slack ping yapıyor. Bir çağrıdasın. Slack'i sessize almak istiyorsunuz ama çağrınızı duymaya devam ediyorsunuz. macOS izin vermiyor — zaten nasıl yapılacağını anlatıyorum.",
+    description: "Slack ping yapıyor. Bir çağrıdasın. Slack'i sessize almak istiyorsunuz ama çağrınızı duymaya devam ediyorsunuz. macOS izin vermiyor — zaten nasıl yapılacağını anlatıyorum.",
     date: "2026-06-03",
-    readTime: "6 min read",
+    readTime: "6 dk okuma",
     content: `
 <p>Zoom görüşmesindesin. Slack sürekli bildirim sesleri çıkarıyor. Unuttuğunuz bir YouTube sekmesi otomatik olarak oynatmaya başlıyor. Sessiz tuşuna bastın — ve artık çağrını da duyamıyorsun. macOS sustur <em>her şey</em>. Sadece bir uygulamayı sessizleştirmenin yerleşik bir yolu yok.</p>
 
@@ -3807,10 +3750,9 @@ export const trArticles: ArticleSet = {
   "volume-mixer-for-mac": {
     slug: "volume-mixer-for-mac",
     title: "Mac için Ses Mikseri: Eksik Özellik macOS Hâlâ Yok",
-    description:
-      "Windows'un 2006'dan beri bir ses mikseri var. İşte neden hâlâ macOS — ve 2026'da Mac uygulamaya göre ses kontrolü elde etmenin en iyi yolu.",
+    description: "Windows'un 2006'dan beri bir ses mikseri var. İşte neden hâlâ macOS — ve 2026'da Mac uygulamaya göre ses kontrolü elde etmenin en iyi yolu.",
     date: "2026-06-01",
-    readTime: "9 min read",
+    readTime: "9 dk okuma",
     content: `
 <p>Herhangi bir Windows PC'de hoparlör simgesine sağ tıklarsanız, Ses Mikseri'ni bulacaksınız — bu panel, şu anda ses üreten her uygulamanın kendi bağımsız ses kaydırıcısını gösteren bir panel. Spotify'ı %20'ye düşürürken Zoom görüşmenizi %100'e indirebilirsiniz. Chrome'u başka hiçbir şeye dokunmadan sessize alabilirsiniz. 2006'daki Windows Vista'dan beri orada.</p>
 
@@ -6249,5 +6191,635 @@ export const trArticles: ArticleSet = {
 <p>Sınırlar konusunda net olmak gerekirse: SoundDial, uygulamalarınızın çıktısını dengeler. Kötü üretilmiş bir parçanın yeniden masteringini yapamaz ve çok geniş dinamik aralıkla karıştırılmış seste ayrıntı yaratamaz. Yaptığı şey, macOS'nun dışarıda bıraktığı tek kontrolü size vermektir; sabit, uygulama başına sabit kalan seviyeler.</p>
 
 <p>Uygulamaları her değiştirdiğinizde ana kaydırıcıyı kullanmaktan bıktınız mı? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store için tek seferlik 14,99 Euro'dur (korumalı alanda, sürücü yok, DMG yok) ve sonunda her uygulamaya kendi hatırlanan hacmini veriyor.</p>`,
+  },
+  "mac-audio-for-gaming": {
+    slug: "mac-audio-for-gaming",
+    title: "Mac'te Oyun Sesi: Oyunu, Sesli Sohbeti ve Müziği Ayırma",
+    description: "Mac'te oyun oynamak; oyun sesini, Discord veya FaceTime sesli sohbetini ve arka plan müziğini tek bir ses düzeyi kaydırıcısıyla idare etmek demektir. İşte bunları bağımsız kanallara ayırmanın yolu.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Maçın tam ortasındasınız. Oyun sesi, Discord'daki takım arkadaşlarınızın sesini bastırıyor. Sistem ses düzeyini kısıyorsunuz — artık çağrıları duyabiliyorsunuz ama oyun sesleri ayak seslerine tepki verecek kadar net değil. Bu arada Spotify hâlâ her şeyin altında sonuna kadar açık çalıyor. macOS bunların hepsi için tek bir kaydırıcı sunar ve Mac'te oyun oynamak, sürekli bu kaydırıcıyla uğraşmak anlamına gelir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — separate game, voice chat, and music volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Mac'te oyun sesi neden bu kadar karmaşık?</h2>
+
+<p>Oyunlar dahili olarak birden fazla ses katmanını — diyalog, efektler, ortam sesi, müzik — birleştirir ve tek bir akış olarak verir. Discord, FaceTime veya TeamSpeak gibi sesli sohbet uygulamaları ikinci bir akış ekler. Bir müzik oynatıcı üçüncü bir akış ekler. macOS bunların hepsini, öncelik sırasına koyma veya birbirine göre dengeleme imkânı olmadan tek bir ana çıkışa besleyen eşit vatandaşlar olarak ele alır.</p>
+
+<p>Çoğu oyunun kendi ses düzeyi kaydırıcıları vardır, ancak bunları ayarlamak tam ekran bir oyundan çıkıp akışınızı bozmak anlamına gelir. Oyunun dahili müziğini kıssanız bile, ana ses düzeyini değiştirip her şeyi etkilemeden Discord'u oyunun efektlerine göre yükseltemezsiniz.</p>
+
+<h2>Oyun seansları için uygulama başına ses</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> menü çubuğundan her uygulamaya kendi bağımsız ses düzeyi kaydırıcısını vererek, oyun içi ayarlara veya sistem kaydırıcısına dokunmadan bir oyun sesi karışımı oluşturmanızı sağlar.</p>
+
+<h3>Tipik bir oyun profili</h3>
+<ul>
+  <li><strong>Oyun:</strong> %70 — mekânsal ses ipuçları için yeterince yüksek ama baskın değil</li>
+  <li><strong>Discord / FaceTime:</strong> %100 — takım arkadaşı çağrıları her zaman duyulur</li>
+  <li><strong>Spotify / Apple Music:</strong> %25 — rekabet etmeden arka plan atmosferi</li>
+  <li><strong>Tarayıcı:</strong> sessiz — sürpriz sekme sesi yok</li>
+  <li><strong>Slack / Messages:</strong> sessiz — oyun sırasında sıfır bildirim kesintisi</li>
+</ul>
+
+<p>Bunu bir "Oyun" profili olarak kaydedin. Oyunu başlatmadan önce tek tıkla her uygulama kendi oyun seviyesine oturur. İşiniz bittiğinde normal profilinize geri dönün — manuel kaydırıcı ayarına gerek yok.</p>
+
+<h3>Ses önceliği için otomatik kısma</h3>
+
+<p>SoundDial'ın otomatik kısma (auto-ducking) özelliği, Discord veya FaceTime etkinken oyun ve müzik sesini otomatik olarak kısabilir. Takım arkadaşlarınızın sesleri her zaman net şekilde duyulur ve sessiz anlarda her şey tekrar yükselir. Bu, profesyonel yayıncıların karmaşık yönlendirme araçlarıyla kurduğu davranışın aynısıdır, ama burada tek bir anahtarla hallediliyor.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-djing": {
+    slug: "mac-audio-for-djing",
+    title: "Mac'te DJ'lik İçin Ses: Monitör ve Çıkışı Bağımsız Kontrol Etme",
+    description: "Mac'te DJ'lik yapmak, izleyici mevcut miksajı dinlerken bir sonraki parçayı kulaklığınızdan önizlemek demektir — ama macOS her şeyi tek bir çıkışa yönlendirir. İşte monitör sinyalinizi nasıl ayırabileceğiniz.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Mac'inizden DJ'lik yapıyorsunuz — Traktor, Serato, rekordbox, hatta canlı bir sette Ableton bile olabilir. Bir sonraki parçayı kulaklığınızda cue'lamanız gerekirken izleyici hoparlörlerden mevcut miksajı duymalı. Ama tarayıcınızda bir set listesi açık, referans parçalar için belki Spotify çalışıyor ve Messages monitörlerinizden durmadan ping atıyor. macOS'ta ses düzeyi seviyesinde "bu uygulama buraya, şu uygulama oraya" diye bir kavram yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — DJ audio control on Mac with independent app volumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>macOS'ta DJ ses sorunu</h2>
+
+<p>Profesyonel DJ yazılımları cue'lamayı dahili olarak halleder — kendi çıkışını ana miksaj ve kulaklık monitörü arasında böler. Bu kısım sorunsuz çalışır. Sorun, Mac'inizde çalışan diğer her şeydir. Sistem bildirimleri, tarayıcı sekmeleri, iletişim uygulamaları ve referans oynatıcılar hepsi aynı ana çıkışa akar. Set sırasında PA sisteminizden gelen bir Slack pingi hiç hoş bir görüntü değildir.</p>
+
+<p>Rahatsız Etmeyin'i etkinleştirebilirsiniz, ama bu zaten çalışmakta olan uygulamaları susturmaz — yalnızca bildirim afişlerini bastırır. Otomatik oynatılan bir tarayıcı sekmesi veya bir FaceTime zil sesi, sistem ses düzeyi ne olursa olsun hoparlörlerinizden yine patlayarak çalar.</p>
+
+<h2>DJ dışı sesleri kontrol etmek</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> Mac'inizdeki her uygulama için bağımsız ses düzeyleri ayarlamanızı sağlar. Bir DJ seti için asıl kullanım, DJ yazılımınız dışındaki her şeyi susturmak veya kısmaktır.</p>
+
+<h3>DJ seti profili</h3>
+<ul>
+  <li><strong>Traktor / Serato / rekordbox:</strong> %100 — ses arayüzünüze tam çıkış</li>
+  <li><strong>Tarayıcı:</strong> sessiz — sekmelerden sürpriz ses yok</li>
+  <li><strong>Spotify:</strong> sessiz veya %10 — sadece hızlı bir sesi açmayla referans dinleme</li>
+  <li><strong>Slack / Messages / Mail:</strong> sessiz — sıfır bildirim sesi</li>
+  <li><strong>Calendar:</strong> sessiz — hatırlatma çanı yok</li>
+</ul>
+
+<p>Bunu bir "DJ Seti" profili olarak kaydedin. Başlamadan önce tek tıkla uygulayın. DJ uygulamanız tam ses düzeyinde çalışır ve başka hiçbir şey araya giremez. Set bittiğinde normal profilinize geri dönün, bildirimler tekrar başlar.</p>
+
+<h3>Hızlı referans parça kontrolleri</h3>
+
+<p>Set sırasında Spotify'da hızlıca bir referans parçayı kontrol etmeniz mi gerekiyor? Sistem genelinde sesi açmak yerine, Spotify'ın ayrı kaydırıcısını yükselterek kulaklığınızdan duyun, sonra tekrar sıfıra indirin. İzleyici bunu asla duymaz ve DJ uygulamanız hiç dokunulmamış kalır.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "control-notification-sounds-mac": {
+    slug: "control-notification-sounds-mac",
+    title: "Mac'te Bildirim Sesi Düzeyi Nasıl Kontrol Edilir",
+    description: "Mac'te bildirim sesleri, diğer her şeyle aynı ses düzeyinde çalar — ya da tamamen kapalıdır. Aradaki orta yol sistemde yerleşik olarak bulunmaz. İşte müziğinizi susturmadan uyarı ses düzeyini nasıl dizginleyebileceğiniz.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Bir Calendar hatırlatıcısı devreye girer ve uyarı sesi, keyifle dinlediğiniz müzikle aynı ses düzeyinde patlar. İrkilirsiniz. Sistem ses düzeyini kısarsınız — artık müziğiniz çok sessiz kalır. macOS, bildirim seslerini ve medya sesini tek bir ses düzeyi olarak ele alır ve tek yerleşik kaçış yolu, gerçekten ihtiyacınız olan uyarıları bile susturan Rahatsız Etmeyin modunu etkinleştirmektir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control notification sound volume independently on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Bildirim ses düzeyini kontrol etmek neden bu kadar zor?</h2>
+
+<p>macOS'ta Sistem Ayarları içinde bir "Ses efektlerini şuradan çal" ayarı ve bir uyarı ses düzeyi kaydırıcısı vardır, ama bu tüm sistem uyarı seslerini birlikte kontrol eder. "Calendar uyarıları %30, Messages pingleri %50, Mail sessiz" demenin bir yolu yoktur. Bildirim üreten her uygulama aynı sistem ses seviyesini paylaşır.</p>
+
+<p>Daha derindeki sorun şu: birçok uygulama kendi bildirim seslerini sistem uyarı çerçevesinin dışında üretir. Slack kendi sesini çalar. Discord kendi pingine sahiptir. Chrome sekmeleri bildirim sesleri çıkarabilir. Bunlar uyarı ses düzeyi kaydırıcısı tarafından hiç yönetilmez — yalnızca ana kaydırıcının kontrol ettiği, uygulamanın çıkardığı ses düzeyinde çalarlar.</p>
+
+<h2>Bildirim kaynakları üzerinde uygulama başına kontrol</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> her uygulamaya kendi ses düzeyi kaydırıcısını vererek bunu çözer. Bildirim sesleri belirli uygulamalardan geldiği için, o uygulamanın ses düzeyini kısmak bildirimlerini de kısar.</p>
+
+<h3>Pratik kurulumlar</h3>
+<ul>
+  <li><strong>Slack:</strong> %15 — ürkütücü bir kesinti değil, hafif bir ping</li>
+  <li><strong>Messages:</strong> %20 — duyulabilir ama nazik</li>
+  <li><strong>Mail:</strong> sessiz — kendi programınıza göre kontrol edin</li>
+  <li><strong>Calendar:</strong> %25 — fark edilecek kadar</li>
+  <li><strong>Discord:</strong> %10 — patlama olmadan arka plan farkındalığı</li>
+  <li><strong>Müzik / tarayıcı:</strong> %70-100 — kesintisiz, tam keyif</li>
+</ul>
+
+<p>Sonuç: medyanız istediğiniz seviyede çalar, bildirim kaynakları ise irkiltmeden bilgilendiren bir seviyede kalır. Rahatsız Etmeyin'e gerek yok — yine her şeyi duyarsınız, sadece mantıklı ses düzeylerinde.</p>
+
+<h3>Profillerle birleştirin</h3>
+
+<p>Çoğu bildirim uygulamasının sessize alındığı bir "Odaklan" profili ile hafif seviyelerin olduğu bir "Normal" profil kaydedin. Derin konsantrasyona mı yoksa pasif farkındalığa mı ihtiyacınız olduğuna göre tek tıkla geçiş yapın. Artık "her şeyi sonuna kadar açık duy" ile "hiçbir şey duyma" arasında seçim yapmak zorunda değilsiniz.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-volume-too-quiet-at-max": {
+    slug: "mac-volume-too-quiet-at-max",
+    title: "Mac Sesi Maksimumda Bile Çok Kısık — %100'ün Üzerine Nasıl Çıkarılır",
+    description: "Bazı uygulamalar, Mac sesiniz sonuna kadar açık olsa bile sinir bozucu derecede kısık kalır. Sorun hoparlörlerinizde değil — macOS, tek tek uygulamaları kendi çıkış seviyelerinin üzerine çıkaramaz.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Mac ses düzeyiniz %100'de. Duymaya çalıştığınız belirli uygulama — sessiz bir Zoom görüşmecisi, yumuşak bir podcast, bir tarayıcı videosu — hâlâ çok kısık. Sistem kaydırıcısını sonuna kadar açıyorsunuz ve yetmiyor. Bu arada Mac'inizdeki diğer her uygulama artık acı verecek kadar yüksek sesli. Sorun hoparlörleriniz ya da işitmeniz değil. Uygulama sesi dahili olarak düşük bir seviyede veriyor ve macOS'un bir uygulamayı kendi tavanının üzerine çıkarmasının bir yolu yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — boost Mac volume past 100% for quiet apps" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Maksimum ses düzeyi neden hâlâ yetmiyor?</h2>
+
+<p>Sistem ses düzeyi kaydırıcısı her şeyi orantılı olarak ölçekler. Bir uygulama sesi dahili olarak tam ölçeğin diyelim ki %40'ında veriyorsa, sistem ses düzeyi %100'de bile hoparlörlerinizin gerçekte üretebileceğinin yalnızca %40'ını duyuyorsunuzdur. Bu durum şunlarda yaygındır:</p>
+<ul>
+  <li>Uzaktaki katılımcının mikrofonu kısık olan görüntülü görüşme uygulamaları</li>
+  <li>Tutucu seviyelerde masterlanmış podcast ve sesli kitaplar</li>
+  <li>Düşük yapım kalitesine sahip eski web videoları</li>
+  <li>Sunucunun yumuşak konuştuğu ekran kayıtları ve eğitimler</li>
+</ul>
+
+<p>Ana kaydırıcı, bir uygulamayı kendi çıkış seviyesinin üzerine itemez. O bir tavandır, güçlendirici değil.</p>
+
+<h2>Uygulama başına %100'ün üzerine çıkarma</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> %100'ün üzerine çıkabilen uygulama başına ses düzeyi kaydırıcıları ekler. Bu güçlendirme, sistem ses düzeyini yükseltmeden veya başka bir uygulamayı etkilemeden tek bir uygulamanın ses akışını normal maksimumunun ötesinde yükseltir.</p>
+
+<h3>Nasıl kullanılır</h3>
+<ul>
+  <li>SoundDial'ı menü çubuğundan açın — çalışan her uygulama kendi kaydırıcısıyla görünür</li>
+  <li>Sessiz uygulamayı bulun ve kaydırıcısını %100 işaretinin ötesine sürükleyin</li>
+  <li>Güçlendirme yalnızca o uygulamanın sesini yükseltir — diğer her şey mevcut seviyesinde kalır</li>
+  <li>Sistem ses düzeyini sonuna kadar açtıysanız rahat bir seviyeye geri indirin</li>
+</ul>
+
+<h3>Kalite hakkında bir not</h3>
+
+<p>Güçlendirme gerçek bir amplifikasyondur, sihir değil. Ilımlı bir güçlendirme — sessiz bir podcast'i duyulmaz seviyeden rahat bir seviyeye çıkarmak — sorunsuz çalışır. Çok sessiz, gürültülü kaynak seste aşırı güçlendirme ise cızırtı veya bozulmaları daha belirgin hale getirebilir. Pratikte, çoğu "çok sessiz" durumu için tatlı nokta %120-150 arasıdır; bu, bozulma yaratmadan doğal ses verir ve sorunu çözer.</p>
+
+<p>Sistem ses düzeyini sonuna kadar açmaya göre asıl avantaj şu: yalnızca sessiz uygulama daha yüksek sesli olur. Müziğiniz, sistem sesleriniz ve diğer uygulamalarınız tam olarak oldukları yerde kalır. Tek bir şeyi duymak için artık her şeyi patlatmanıza gerek yok.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-meditation-focus": {
+    slug: "mac-audio-for-meditation-focus",
+    title: "Mac'te Meditasyon ve Odaklanma İçin Ses: Bir Uygulama Dışında Her Şeyi Sustur",
+    description: "Mac'inizde bir meditasyon veya ortam sesi uygulaması çalıştırırken bildirimlerin ve diğer seslerin sürekli araya girmesi, tüm amacı boşa çıkarır. İşte sakinleştirici sesinizi izole edip geri kalan her şeyi susturmanın yolu.",
+    date: "2026-09-06",
+    readTime: "4 dk okuma",
+    content: `
+<p>Mac'inizde bir meditasyon uygulaması veya bir ortam sesi üreticisi açıyorsunuz — yağmur sesleri, binaural ritimler, rehberli bir seans. Yerleşiyorsunuz. Sonra Slack ping atıyor. Mail çalıyor. Unutulmuş bir tarayıcı sekmesi video oynatmaya başlıyor. Tüm amaç sakin bir ses ortamı yaratmaktı ve macOS bunu paramparça etti, çünkü her uygulama aynı ses düzeyini paylaşıyor ve "sadece bu uygulama ses çıkarsın" demenin yerleşik bir yolu yok.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — isolate meditation audio and silence everything else on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Odaklanma sesi sorunu</h2>
+
+<p>Rahatsız Etmeyin bildirim afişlerini bastırır ama uygulamaları susturmaz. Slack kendi seslerini çalmaya devam eder. Tarayıcı sekmeleri kendi kendine oynamaya devam eder. Calendar çalmaya devam eder. Tek yerleşik seçenek, sistem sessize alma tuşuyla her şeyi susturmaktır — bu da meditasyon sesinizi susturur. macOS'ta "bu tek uygulama hariç her şeyi sustur" diye bir şey yoktur.</p>
+
+<h2>Tek bir uygulamanın sesini izole etmek</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> seçtiğiniz uygulamayı tam ses düzeyinde tutarken her uygulamayı tek tek susturmanızı sağlar. Kurulum saniyeler sürer.</p>
+
+<h3>Odaklanma / meditasyon profili</h3>
+<ul>
+  <li><strong>Meditasyon uygulaması (Calm, Headspace, Endel, ortam sesi olan bir tarayıcı sekmesi):</strong> %100</li>
+  <li><strong>Diğer her şey:</strong> sessiz</li>
+</ul>
+
+<p>Bunu bir "Odaklan" profili olarak kaydedin. Seansınızdan önce tek tıkla, yalnızca sakinleştirici sesiniz çalar. İşiniz bittiğinde normal profilinize geri dönün, her şey olağan seviyesine döner.</p>
+
+<h3>Ders çalışma ve derin odaklanma</h3>
+
+<p>Aynı yaklaşım her odaklı çalışma seansı için işe yarar. Lo-fi müziği veya beyaz gürültüyü rahat bir seviyede tutun, Slack ve e-postayı susturun ve ortam katmanının kulaklıklarınızı rekabet olmadan doldurmasına izin verin. Dikkat dağıtıcılarla savaşmıyorsunuz — ses ortamınızda zaten mevcut değiller.</p>
+
+<h3>Kademeli geri dönüş</h3>
+
+<p>Seansınız bittiğinde altı uygulamayı tek tek sesini açmanıza gerek yok. "Normal" veya "Çalışma" profilinize geçin ve her uygulamanın ses düzeyi seanstan önceki seviyesine döner. Unutulan sessize alma yok, bir şeyi tekrar etkinleştirmeyi unuttuğunuz için biriken kaçırılmış bildirim yok.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-video-editing": {
+    slug: "mac-audio-for-video-editing",
+    title: "Mac'te Video Düzenleme Sesi: Premiere, DaVinci, Zaman Çizelgesi Önizlemesi",
+    description: "Mac'te video düzenlemek, referans klipler, iletişim uygulamaları ve sistem seslerinin aynı ses düzeyi için yarıştığı sırada zaman çizelgesi sesini önizlemek demektir. İşte düzenleme sesinizi nasıl izole edebileceğiniz.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>DaVinci Resolve, Premiere Pro veya Final Cut'ta düzenleme yapıyorsunuz. Zaman çizelgesinde ilerliyor ve diyalog seviyelerini hassas bir şekilde duymanız gerekiyor. Ama Slack durmadan ping atıyor, referans görüntülerin olduğu bir tarayıcı sekmesi oynatılıyor ve Apple Music arka planda çalışıyor. Üç başka uygulama öngörülemeyen ses düzeylerinde karışıma sızarken düzenlemenizin sesini değerlendiremezsiniz.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — video editing audio control on Mac with per-app volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Video editörlerinin neden izole sese ihtiyacı var?</h2>
+
+<p>Bir video editöründe ses miksajı doğru izleme gerektirir. Slack'in bildirim sesi zaman çizelgenizdeki diyalogla aynı seviyede çalıyorsa, o diyaloğun gerçekten doğru miksajlanıp miksajlanmadığını anlayamazsınız. Spotify'dan gelen arka plan müziği izleme ortamınıza sızarsa kulaklarınız telafi eder ve seviyeleri yanlış ayarlarsınız. Profesyonel editörler kontrollü izleme zincirlerine sahip akustik olarak işlenmiş odalarda çalışır — ama yazılım düzeyinde bile macOS, NLE'nizin sesini diğer her şeyden ayırmanın bir yolunu sunmaz.</p>
+
+<p>Çoğu editörün kullandığı çözüm: düzenlemeden önce diğer her şeyden çıkmak. Slack'i kapatın, Music'i duraklatın, tarayıcı sekmelerini kapatın. İşe yarar, ama bir YouTube eğitimine referans veremez, bir müşteri sohbetini açık tutamaz veya izleme ortamınızı kirletmeden bir referans parça dinleyemezsiniz anlamına gelir.</p>
+
+<h2>Düzenleme seansları için uygulama başına kontrol</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> her şeyi açık tutmanıza rağmen neyi ve hangi seviyede duyacağınızı kontrol etmenizi sağlar.</p>
+
+<h3>Düzenleme profili</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut:</strong> %100 — doğru zaman çizelgesi izlemesi</li>
+  <li><strong>Tarayıcı:</strong> sessiz (bir referans klibi kontrol etmek için kısaca sesini açın, sonra tekrar susturun)</li>
+  <li><strong>Slack / Messages:</strong> sessiz — izleme zincirinizde ses yok</li>
+  <li><strong>Music:</strong> sessiz — rekabet eden ses yok</li>
+  <li><strong>Mail / Calendar:</strong> sessiz</li>
+</ul>
+
+<h3>İnceleme profili</h3>
+<ul>
+  <li><strong>NLE:</strong> %80 — rahat inceleme seviyesi</li>
+  <li><strong>Slack:</strong> %20 — render beklerken mesajları yakalayın</li>
+  <li><strong>Tarayıcı:</strong> %50 — referans materyaline erişilebilir</li>
+</ul>
+
+<p>İş akışınızın gerektirdiği şekilde profiller arasında geçiş yapın. Kritik ses miksajı sırasında zaman çizelgeniz dışında her şey susturulur. Bir render sırasında, ulaşılabilir olmak için bildirimleri geri getirin. İki tık, iki tamamen farklı izleme ortamı.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "per-app-volume-control-mac-2026": {
+    slug: "per-app-volume-control-mac-2026",
+    title: "2026'da Mac'te Uygulama Başına Ses Kontrolü — Seçenekleriniz Neler?",
+    description: "macOS, 2026'da hâlâ yerleşik bir ses mikseri içermiyor. İşte uygulama ses düzeyini bağımsız kontrol etmek için tüm seçenekler — ücretsiz, ücretli ve geçici çözümler.",
+    date: "2026-09-06",
+    readTime: "6 dk okuma",
+    content: `
+<p>2026 yılındayız. Windows, 2007'de Vista'dan beri uygulama başına ses mikserine sahip. macOS'ta hâlâ böyle bir şey yok. Zoom görüşmenizi kısmadan Spotify'ı kısmak istiyorsanız, Apple'ın cevabı hâlâ "yapamazsınız". Peki 2026'da gerçek seçenekleriniz neler?</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control options on Mac in 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Mevcut durum</h2>
+
+<p>İşte şu anda mevcut olan her yaklaşımın gerçek artı-eksileriyle dürüst bir özeti.</p>
+
+<h3>Ücretsiz seçenekler</h3>
+<ul>
+  <li><strong>Background Music</strong> — açık kaynak, temel uygulama başına ses kaydırıcıları sunar. Sorun şu: topluluk tarafından sürdürülüyor ve büyük macOS güncellemelerinde tarihsel olarak bozulmuştur. %100'ün üzerine güçlendirme yok, profil yok, otomatik kısma yok. Tek gereksiniminiz ücretsiz olmasıysa ve işletim sistemi güncellemelerinden sonra sorun giderme konusunda rahatsanız, denemeye değer.</li>
+  <li><strong>FineTune</strong> — ücretsiz, açık kaynak, minimal menü çubuğu ses kontrolü. Özellik açısından daha hafif, ama temel ayarlamalar için güvenilir.</li>
+  <li><strong>eqMac</strong> — ücretsiz EQ ve sistem geneli ses kontrolü. Uygulama başına miksajdan çok ekolizasyona odaklanır, ama bazı uygulama başına yetenekleri vardır.</li>
+</ul>
+
+<h3>Ücretli seçenekler</h3>
+<ul>
+  <li><strong>SoundSource</strong> (Rogue Amoeba, ~39 $) — profesyonel düzeyde araç. Uygulama başına ses, uygulama başına EQ, çıkış yönlendirme, efektler. Ses yakalama bileşeni kurar (App Store'da değil). Sadece ses kaydırıcıları istiyorsanız aşırıya kaçar, derin ses yönlendirmesine ihtiyacınız varsa mükemmeldir.</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> (14,99 €, tek seferlik) — uygulama başına ses, sessize alma, %100 üzeri güçlendirme, kaydedilebilir profiller, otomatik kısma. Mac App Store, sandbox içinde, sürücü yok. Ücretsiz araçlar ile SoundSource arasındaki orta nokta.</li>
+  <li><strong>Audio Hijack</strong> (Rogue Amoeba, ~72 $) — uygulamalar arasında sesi yakalar ve yönlendirir. Kayıt ve karmaşık yönlendirme için güçlüdür, ama basit bir ses mikseri değil, profesyonel bir ses aracıdır.</li>
+</ul>
+
+<h3>Yerleşik geçici çözümler</h3>
+<ul>
+  <li>Bazı uygulamaların dahili ses düzeyi kaydırıcıları vardır (Spotify, VLC, çoğu oyun). Ama her uygulamanın içinde ayrı ayrı ayarlama yaparsınız, hiçbir şey bunları koordine etmez ve birçok uygulama hiç ses kontrolü sunmaz.</li>
+  <li>Rahatsız Etmeyin, bildirim afişlerini susturur ama uygulama ses düzeyini kontrol etmez.</li>
+  <li>Sistem ses düzeyi kaydırıcısı ya hep ya hiç mantığıyla çalışır.</li>
+</ul>
+
+<h2>Hangisini seçmelisiniz?</h2>
+
+<p>İhtiyaçlarınız konusunda dürüst olun. Ücretsiz istiyorsanız ve ara sıra bozulmayı umursamıyorsanız, Background Music. Profesyonel ses yönlendirmesi ve EQ'ya ihtiyacınız varsa, SoundSource. Makul bir fiyata profiller ve güçlendirme sunan güvenilir, basit bir ses mikseri istiyorsanız — App Store güvenliği ve sürücü kurulumu olmadan — <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> tatlı noktadır.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-ducking-automatic": {
+    slug: "mac-audio-ducking-automatic",
+    title: "Mac'te Otomatik Ses Kısma — Biri Konuştuğunda Müziği Otomatik Kıs",
+    description: "Bir görüşme başladığında veya biri konuştuğunda, müziğinizin otomatik olarak kısılması gerekir. macOS bunu yerleşik olarak yapmaz. İşte Mac'inizde otomatik ses kısmayı nasıl kurabileceğiniz.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Mac'inizde müzik dinliyorsunuz. Bir Zoom görüşmesi başlıyor. Toplantıyı duyabilmek için Spotify'ı duraklatmaya veya ses düzeyini kısmaya koşuyorsunuz. Görüşme bitiyor. Müziği tekrar yükseltiyorsunuz. Bu günde beş kez oluyor ve her seferinde manuel bir kesinti. Ses kısma (ducking) — öncelikli bir kaynak çaldığında arka plan sesini otomatik olarak kısma — yayıncılık ve yayın akışında standarttır. macOS'ta ise doğal olarak mevcut değildir.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — automatic audio ducking on Mac, lower music during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Ses kısma tam olarak ne yapar?</h2>
+
+<p>Kısma basittir: belirlenmiş öncelikli bir ses kaynağı etkin hale geldiğinde, diğer tüm ses kaynakları belirli bir miktar ses düzeyini düşürür. Öncelikli kaynak durduğunda, her şey eski seviyesine geri yükselir. Yayıncılar bunu, sunucunun sesinin her zaman arka plan müziğinin üzerinde kalması için kullanır. Yayın yapanlar, konuştuklarında oyun sesinin düşmesi için kullanır.</p>
+
+<p>macOS'ta yerleşik olana en yakın davranış, VoiceOver duyuruları sırasında arka plan sesini azaltabilen erişilebilirlik ayarıdır. Ama bu özellikle VoiceOver içindir — görüşmeler, sesli sohbet veya herhangi bir keyfi uygulama için genel amaçlı bir kısma özelliği yoktur.</p>
+
+<h2>SoundDial ile otomatik kısma kurmak</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> yerleşik bir özellik olarak otomatik ses kısmayı içerir. Kısmayı tetiklemesi gereken uygulamayı — genellikle bir iletişim uygulaması — belirlersiniz ve o uygulama ses ürettiğinde diğer her şey otomatik olarak kısılır.</p>
+
+<h3>Yaygın kısma kurulumları</h3>
+<ul>
+  <li><strong>Öncelikli olarak Zoom / Google Meet / FaceTime:</strong> bir görüşme etkinken müzik, tarayıcı ve diğer uygulamalar kısılır. Toplantı sesiniz manuel ses değişikliği olmadan her zaman net kalır.</li>
+  <li><strong>Öncelikli olarak Discord:</strong> takım arkadaşları konuştuğunda oyun sesi ve müzik kısılır. Çağrılar patlamaların veya yüksek sesli müziğin altında asla kaybolmaz.</li>
+  <li><strong>Podcast kaydı:</strong> DAW'ınızın girişi etkin olduğunda her şey kısılır ve izleme ortamınızı temiz tutar.</li>
+</ul>
+
+<h3>Pratikte nasıl hissettirir?</h3>
+
+<p>Geçiş yumuşaktır — öncelikli uygulama çaldığında arka plan sesi kısılır, durduğunda tekrar yükselir. Bunu manuel olarak yaptığınız şeyin tam olarak aynısını, kesinti olmadan yaptığı için ilk saatten sonra fark etmemeye başlarsınız. Görüşme sırasında artık kaydırıcılara uzanmaya gerek yok.</p>
+
+<p>Uygulama başına ses ve profillerle birleştiğinde, kısma resmi tamamlar: uygulamalarınız zaten doğru seviyelerde başlar ve kısma, gün boyunca dinamik ayarlamaları halleder.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "control-browser-tab-volume-mac": {
+    slug: "control-browser-tab-volume-mac",
+    title: "Mac'te Her Bir Tarayıcı Sekmesinin Sesini Ayrı Ayrı Kontrol Edebilir misiniz?",
+    description: "Bir tarayıcı sekmesi yüksek sesli ses çalarken diğerinde sessiz bir video var. macOS'ta sekme başına ses düzeyi kontrol edebilir misiniz? İşte gerçekte mümkün olan ve olmayan.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Bir sekmede bir YouTube eğitimi, diğerinde sessiz bir Loom videosu çalıyor ve üçüncü bir sekme az önce bir reklamı otomatik oynatmaya başladı. YouTube sekmesini kısmak, Loom sekmesini güçlendirmek ve reklamı susturmak istiyorsunuz — hepsini bağımsız olarak. macOS'ta tarayıcı sekmesi başına ses düzeyini kontrol edebilir misiniz? Kısa ve dürüst cevap: doğal olarak değil ve çoğu araçla da değil. Ama tarayıcının tamamının ses düzeyini kontrol edebilirsiniz ve bu, sıkıntının çoğunu çözer.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control browser audio volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Sekme başına ses düzeyi neden yok?</h2>
+
+<p>Tarayıcılar, işletim sistemine teslim etmeden önce tüm sekme seslerini tek bir çıkış akışında birleştirir. macOS için Chrome, tek bir ses akışı üreten tek bir uygulamadır. Safari tek bir uygulamadır. Firefox tek bir uygulamadır. İşletim sisteminin hangi sekmenin hangi sesi ürettiğine dair görünürlüğü yoktur — bu bilgi tarayıcının dahili ses motorunun içinde yaşar ve harici araçlara açılmaz.</p>
+
+<p>Bazı tarayıcılar tek tek sekmeleri susturmanıza izin verir (sekmedeki hoparlör simgesine tıklayarak), ama bu ikili bir açık/kapalı seçeneğidir — sekme başına bir ses düzeyi kaydırıcısı yoktur. Gürültülü sekmeyi susturabilirsiniz, ama başka birini %80'de tutarken onu %20'ye indiremezsiniz.</p>
+
+<h2>Gerçekte neyi kontrol edebilirsiniz?</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> ses düzeyini uygulama seviyesinde kontrol eder. Her tarayıcı ayrı bir uygulama olduğu için, şunlar üzerinde bağımsız kontrol elde edersiniz:</p>
+
+<h3>Çoklu tarayıcı iş akışları</h3>
+<ul>
+  <li><strong>Chrome:</strong> %100 — ana videonuz veya eğitiminiz</li>
+  <li><strong>Safari:</strong> %40 — arka plan referans materyali</li>
+  <li><strong>Firefox:</strong> sessiz — test veya geliştirici araçları, ses gerekmiyor</li>
+</ul>
+
+<p>Birden fazla tarayıcı kullanıyorsanız (birçok geliştirici ve araştırmacı bunu yapar), her tarayıcı kendi kaydırıcısına sahip olur. Farklı içeriği farklı tarayıcılara atayıp bağımsız olarak miksleyebildiğiniz için bu gerçek anlamda "sekme grubu başına" kontroldür.</p>
+
+<h3>Tarayıcıya karşı diğer her şey</h3>
+
+<p>Daha yaygın senaryo, sadece tarayıcı sesinin diğer uygulamalarınızdan farklı bir seviyede olmasını istemektir. Bir YouTube eğitimi üzerinde müzik çok mu yüksek? Chrome'u %100'de tutarken Spotify'ı %30'a indirin. Tarayıcı sekmesi referans materyali oynatırken Zoom görüşmesi mi var? Görüşme sırasında uygulama başına sessize alma ile tarayıcıyı tamamen susturun, sonra görüşme bittiğinde tekrar açın.</p>
+
+<h3>Sekme sessize alma geçici çözümü</h3>
+
+<p>Tek bir tarayıcı içinde gerçek sekme başına kontrol için, yerleşik sekme sessize alma tek seçeneğinizdir. Bunu SoundDial'ın tarayıcı başına ses düzeyiyle birleştirin: gürültülü sekmeyi tarayıcı içinde susturun, sonra genel tarayıcı ses düzeyini SoundDial ile diğer uygulamalarınıza göre istediğiniz yere ayarlayın.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-language-learning": {
+    slug: "mac-audio-for-language-learning",
+    title: "Mac'te Dil Öğrenimi İçin Ses: Anki, Podcast ve Videoyu Ayırma",
+    description: "Mac'inizde dil öğrenmek; kelime kartı sesini, podcast'leri, video derslerini ve sözlük aramalarını dengelemek anlamına gelir — hepsi aynı ses düzeyi için yarışır. İşte bunları nasıl dengeleyebileceğiniz.",
+    date: "2026-09-06",
+    readTime: "4 dk okuma",
+    content: `
+<p>Mac'inizde bir dil çalışıyorsunuz. Anki, kelime kartları için telaffuz sesi çalıyor. Hedef dilinizde bir podcast, daldırma (immersion) için arka planda çalışıyor. Tarayıcıda bir YouTube gramer dersi açıyorsunuz. Şimdi üç ses kaynağı aynı anda, her biri farklı doğal ses düzeylerinde çalıyor ve macOS bunların hepsini kontrol etmek için tek bir kaydırıcı sunuyor. Anki telaffuz klipleri yakalanamayacak kadar sessiz, podcast çok yüksek sesli ve YouTube videosu ikisinin arasında bir yerde.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — language learning audio setup on Mac with independent app volumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Dil öğrenenin ses karmaşası</h2>
+
+<p>Dil öğrenimi, doğası gereği birden fazla ses kaynağını içerir. Kelime kartı uygulamaları kısa klipler çalar. Podcast uygulamaları sürekli ses akışı sağlar. Video dersler konuşmayı müzik ve ses efektleriyle karıştırır. Sözlük uygulamaları talep üzerine kelimeleri telaffuz eder. Her kaynağın kendi dahili ses düzeyi vardır ve bunlar birbirine hiçbir zaman kalibre edilmemiştir.</p>
+
+<p>Alışılagelmiş çözüm, aktif olarak kullandığınız dışında her şeyi duraklatmaktır. Ama bu, birçok öğrencinin dayandığı "daldırma arka planı" yaklaşımını boşa çıkarır — diğer çalışma etkinliklerini yaparken hedef dil sesini hafifçe çalmaya devam etmek.</p>
+
+<h2>Dil çalışması için katmanlı ses</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> her uygulamayı ideal seviyesine ayarlamanızı ve birden fazla kaynağı rahat bir karışımda çalışır durumda tutmanızı sağlar.</p>
+
+<h3>Çalışma profili</h3>
+<ul>
+  <li><strong>Anki:</strong> %100 (klipler sessizse güçlendirilmiş) — telaffuz kristal netliğinde olmalı</li>
+  <li><strong>Podcast uygulaması:</strong> %20-30 — aktif çalışmayla rekabet etmeyen yumuşak arka plan daldırması</li>
+  <li><strong>Tarayıcı (YouTube dersleri):</strong> %80 — izlerken net, kartları gözden geçirirken kısmak kolay</li>
+  <li><strong>Sözlük uygulaması:</strong> %90 — talep üzerine kelime telaffuzları duyulabilir</li>
+  <li><strong>Slack / Messages:</strong> sessiz — çalışma zamanı çalışma zamanı demektir</li>
+</ul>
+
+<h3>Daldırma modu</h3>
+<ul>
+  <li><strong>Podcast / radyo akışı:</strong> %60 — rahat dinleme seviyesi</li>
+  <li><strong>Diğer her şey:</strong> sessiz veya çok düşük</li>
+</ul>
+
+<p>Aktif çalışmadan pasif daldırmaya geçerken profiller arasında geçiş yapın. Ses ortamınız, her seferinde manuel kaydırıcı ayarı yapmadan öğrenme modunuza uyum sağlar.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-volume-profiles-work-vs-home": {
+    slug: "mac-volume-profiles-work-vs-home",
+    title: "Mac Ses Profilleri: İş ve Ev Ses Kurulumu Arasında Geçiş Yapın",
+    description: "İşteki ideal uygulama ses düzeyleriniz, evdeki akşam kurulumunuzdan tamamen farklıdır. Bağlam her değiştiğinde beş uygulamayı manuel olarak ayarlamak zaman kaybıdır. İşte tek tıkla alternatif.",
+    date: "2026-09-06",
+    readTime: "4 dk okuma",
+    content: `
+<p>Sabah 9'da Zoom'un yüksek sesli, Slack'in nazik bir ping seviyesinde, müziğin kısık ve tarayıcının sessiz olmasına ihtiyacınız var. Akşam 6'da iş günü bitiyor — Zoom artık önemli değil, Slack sessiz olmalı, müzik %80'e çıkmalı ve tarayıcı Netflix'i tam sesle oynatmalı. Bu, günde iki kez, her gün manuel olarak ayarlanması gereken beş altı uygulama demek. Çoğu kişi bu zahmete girmiyor ve zamanın yarısında yanlış ses düzeyleriyle yaşıyor.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — switch between work and home volume profiles on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Bağlam değiştirme vergisi</h2>
+
+<p>Ses ihtiyaçlarınız ne yaptığınıza göre tamamen değişir, ama macOS'ta ses bağlamları diye bir kavram yok. Bir "iş modu" ses kurulumu veya bir "akşam" ön ayarı yok. Bağlamınız her değiştiğinde ya her uygulamayı manuel olarak ayarlarsınız ya da bazı uygulamaların çok yüksek, bazılarının çok kısık kalacağını kabul edersiniz.</p>
+
+<p>Bu günde bir kez yaşanan bir sorun değil. Birçok kişi birden fazla kez bağlam değiştirir: sabah odaklanması, günlük toplantı, derin çalışma, öğle molası, öğleden sonra iş birliği, akşam kişisel zamanı. Her birinin ideal bir ses yapılandırması vardır ve hiçbiri birbirine benzemez.</p>
+
+<h2>Her bağlam için ses profilleri</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> uygulama başına ses yapılandırmalarınızın tamamını adlandırılmış profiller olarak kaydetmenizi ve menü çubuğundan tek tıkla aralarında geçiş yapmanızı sağlar.</p>
+
+<h3>İş profili</h3>
+<ul>
+  <li><strong>Zoom / Meet:</strong> %100</li>
+  <li><strong>Slack:</strong> %20 — hafif bildirimler</li>
+  <li><strong>Music:</strong> %25 — arka plan odaklanması</li>
+  <li><strong>Tarayıcı:</strong> sessiz</li>
+  <li><strong>Messages:</strong> sessiz</li>
+</ul>
+
+<h3>Ev profili</h3>
+<ul>
+  <li><strong>Music / Spotify:</strong> %80</li>
+  <li><strong>Tarayıcı (yayın akışı):</strong> %100</li>
+  <li><strong>Slack:</strong> sessiz</li>
+  <li><strong>Zoom:</strong> sessiz</li>
+  <li><strong>Messages:</strong> %50</li>
+</ul>
+
+<h3>Odaklanma profili</h3>
+<ul>
+  <li><strong>Music:</strong> %40 — lo-fi veya ambient</li>
+  <li><strong>Diğer her şey:</strong> sessiz</li>
+</ul>
+
+<p>Üç profil, üç tamamen farklı ses ortamı. Her geçiş tek tıkla anında uygulanır. Mac'inizin sesi, tam tersi değil, size uyum sağlar.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-twitch-streaming": {
+    slug: "mac-audio-for-twitch-streaming",
+    title: "Mac'te Twitch Yayıncılığı İçin Ses: Oyun, Uyarılar, Müzik, Mikrofon",
+    description: "Mac'ten Twitch'te yayın yapmak; oyun sesini, yayın uyarılarını, arka plan müziğini ve sohbeti — hepsini izleyicileriniz için doğru seviyelerde — yönetmek demektir. İşte bunları düzgün bir şekilde nasıl miksleyebileceğiniz.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Mac'inizden Twitch'te yayın yapıyorsunuz. OBS oyununuzu, mikrofonunuzu ve masaüstü sesinizi yakalıyor. Ama "masaüstü sesi" tek bir karışık sinyal — oyununuz, uyarı sesleri, arka plan müziği, Discord ve bildirim pingleri hepsi macOS'un karar verdiği ses düzeyinde aynı kanala düşüyor. İzleyicileriniz, uyarıların oyun sesinin üzerine patladığı, müziğin yorumunuzu bastırdığı ve bir Slack pinginin yayını rastgele kestiği dengesiz bir karmaşa duyuyor.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Twitch streaming audio mix on Mac with per-app volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Yayın sesi Mac'te neden zor?</h2>
+
+<p>OBS, "masaüstü sesini" tek bir karışık akış olarak yakalar — Mac'inizde çalan her şey birleşik halde. Windows'ta yayıncılar, OBS yakalamadan önce uygulamaları dengelemek için yerleşik ses mikserini kullanır. macOS'ta bu mikser mevcut değildir. Yakalama öncesi karışımınız, o anda çalan ve uygulamaların varsayılan olarak hangi seviyede olduğuysa odur.</p>
+
+<p>Profesyonel Mac yayıncıları genellikle her kaynak için ayrı ses kanalları oluşturmak üzere sanal ses yönlendirme araçları kullanır. Bu işe yarar, ama kurması karmaşıktır, ses sürücüleri gerektirir ve macOS güncellemeleri ses çerçevelerini değiştirdiğinde bozulur.</p>
+
+<h2>Uygulama başına sesle ön miksaj</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> OBS birleşik çıktıyı yakalamadan önce her uygulamayı dengelemenizi sağlar. OBS son karışımı yakaladığı için, SoundDial ile tek tek uygulama ses düzeylerini ayarlamak izleyicilerinizin duyduğu şeyi doğrudan etkiler.</p>
+
+<h3>Yayın profili</h3>
+<ul>
+  <li><strong>Oyun:</strong> %60 — mevcut ama baskın değil</li>
+  <li><strong>Uyarı uygulaması / Streamlabs:</strong> %40 — izleyici katılımı için duyulabilir, oyun sesinden daha yüksek değil</li>
+  <li><strong>Müzik (Spotify / Apple Music):</strong> %15-20 — arka plan atmosferi, DMCA açısından güvenli seviye</li>
+  <li><strong>Discord:</strong> %50 — birlikte yayın veya moderatör iletişimi</li>
+  <li><strong>Tarayıcı:</strong> sessiz — yayında sürpriz sekme sesi yok</li>
+  <li><strong>Slack / Mail / Messages:</strong> sessiz — kişisel bildirimler yayın dışında kalır</li>
+</ul>
+
+<h3>Yayın sırasında hızlı ayarlamalar</h3>
+
+<p>İzleyici oyunun çok yüksek sesli olduğunu mu söylüyor? Yayın sahnenizden alt-tab yapmadan menü çubuğundan yalnızca oyunun kaydırıcısını kısın. Müzik çok mu kısık? Biraz yükseltin. SoundDial'da hızlı bir kaydırıcı sürüklemesi izleyiciler için görünmezdir — ekranda ayar paneli yok, yayın kesintisi yok.</p>
+
+<h3>Yorum için otomatik kısma</h3>
+
+<p>Konuştuğunuzda oyun ve müzik sesini kısmak için otomatik kısmayı etkinleştirin. Yorumunuz her zaman net şekilde duyulur ve sessiz anlarda ses tekrar yükselir — tam olarak profesyonel yayıncıların pahalı ses yönlendirme kurulumlarıyla elde ettiği sonuç.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-music-lessons": {
+    slug: "mac-audio-for-music-lessons",
+    title: "Mac'te Çevrimiçi Müzik Dersleri İçin Ses: DAW, Görüntülü Görüşme ve Metronomu Ayırma",
+    description: "Çevrimiçi müzik dersi almak veya vermek; bir DAW, metronom ve arka plan parçalarının hepsi aynı ses düzeyi kaydırıcısı için yarışırken öğrencinizi veya öğretmeninizi net şekilde duymak demektir.",
+    date: "2026-09-06",
+    readTime: "5 dk okuma",
+    content: `
+<p>Çevrimiçi bir müzik dersindesiniz — öğretiyor ya da öğreniyorsunuz. Öğrenciniz Zoom üzerinden çalıyor ve onu net şekilde duymanız gerekiyor. GarageBand veya Logic'te bir arka plan parçası çalıyor. Bir metronom uygulaması tık tık atıyor. Belki Spotify'da bir referans kayıt kuyrukta. Bunların hepsi tek bir sistem ses düzeyi kaydırıcısı için yarışıyor. Öğrenciyi duymak için ses düzeyini yükseltin, metronom sağır edici hale gelir. Metronomu manuel olarak kısın, şimdi arka plan parçası ona eşlik edemeyecek kadar sessiz.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — online music lesson audio setup with independent app volumes on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Çevrimiçi müzik dersi zorluğu</h2>
+
+<p>Müzik dersleri, başka hiçbir kullanım durumunun talep etmediği hassas bir ses dengesi gerektirir. Uzaktaki katılımcıyı, teknik ve zamanlama sorunlarını yakalayacak kadar sadakatle duymanız gerekir. Bir metronom veya klik parçasının duyulabilir ama baskın olmayan bir seviyede olması gerekir. Arka plan parçalarının, performansın üzerinde değil altında oturması gerekir. Ve öğretmenseniz, öğrenciye referans kayıtlar çalmanız gerekebilir — doğru göreceli ses düzeylerini korurken uygulamalar arasında geçiş yaparak.</p>
+
+<p>Bu kaynakların her birinin kendi dahili ses düzeyi vardır ve hiçbiri birbiriyle koordine olmaz. macOS'ta bunları dengeleyecek bir araç yoktur.</p>
+
+<h2>Ders için bir ses karışımı oluşturmak</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> dahili uygulama ayarlarına dokunmadan her uygulamayı ideal seviyesine ayarlamanızı, ders için dengeli bir karışım oluşturmanızı sağlar.</p>
+
+<h3>Öğretme profili</h3>
+<ul>
+  <li><strong>Zoom / FaceTime:</strong> %100 — öğrenci sesi önceliklidir</li>
+  <li><strong>Metronom uygulaması:</strong> %35 — baskın olmadan duyulabilir tık</li>
+  <li><strong>GarageBand / Logic:</strong> %50 — performansın altında arka plan parçaları</li>
+  <li><strong>Spotify:</strong> sessiz (referans çalma için kısaca sesini açın)</li>
+  <li><strong>Slack / Mail:</strong> sessiz — ders sırasında sıfır kesinti</li>
+</ul>
+
+<h3>Pratik yapma profili</h3>
+<ul>
+  <li><strong>Metronom:</strong> %50 — net zamanlama referansı</li>
+  <li><strong>DAW:</strong> %80 — tam pratik seviyesinde arka plan parçaları</li>
+  <li><strong>Spotify:</strong> %70 — referans kayıtlara erişilebilir</li>
+  <li><strong>Diğer her şey:</strong> sessiz — odaklı pratik</li>
+</ul>
+
+<p>Öğretmekten kişisel pratiğe tek tıkla geçin. Ses ortamınız, her seferinde dört beş uygulamayı manuel olarak ayarlamadan etkinliğe uyum sağlar.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "mac-audio-for-online-therapy": {
+    slug: "mac-audio-for-online-therapy",
+    title: "Mac'te Çevrimiçi Terapi İçin Ses: Gizlilik, Netlik ve Sıfır Kesinti",
+    description: "Çevrimiçi bir terapi seansı, mutlak ses gizliliği ve sıfır kesinti gerektirir. Seans sırasında bir Slack pingi veya bir bildirim sesi can sıkıcı olmaktan öte, sürece zarar verir.",
+    date: "2026-09-06",
+    readTime: "4 dk okuma",
+    content: `
+<p>Mac'inizde çevrimiçi bir terapi seansındasınız. Görüşme, tam dikkatinizi ve bir gizlilik hissi gerektiriyor. Sonra Slack ping atıyor. Bir Calendar hatırlatıcısı çalıyor. Unuttuğunuz bir tarayıcı sekmesi ses çalmaya başlıyor. Her kesinti sizi o andan koparıyor ve "başka bir şey araya girecek mi?" endişesi, başka bir ses çalmadan önce bile seansı baltalayabiliyor.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — private therapy session audio setup with zero interruptions on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Rahatsız Etmeyin neden yetmez?</h2>
+
+<p>Rahatsız Etmeyin, bildirim afişlerini ve çoğu uyarı sesini bastırır, ama kapsamlı değildir. Bazı uygulamalar kendi ses bildirimlerini sistem çerçevesinin dışında çalar. Bir tarayıcı sekmesi otomatik oynatabilir. Çalıştığını unuttuğunuz bir uygulama beklenmedik bir ses üretebilir. Ve Rahatsız Etmeyin, asıl soruna yardımcı olmaz: terapi uygulamanızın (Zoom, Doxy veya tarayıcı tabanlı bir platform) mükemmel netlikte olmasını, diğer her şeyin ise garanti şekilde sessiz olmasını istiyorsunuz.</p>
+
+<h2>Kapalı bir ses ortamı</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> terapi platformunuz dışında her uygulamayı susturarak, kesintilerin yalnızca bastırılmadığı, yapısal olarak imkânsız olduğu bir ses ortamı yaratmanızı sağlar.</p>
+
+<h3>Terapi seansı profili</h3>
+<ul>
+  <li><strong>Zoom / tarayıcı (terapi platformu):</strong> %100 — net, tam ses düzeyinde iletişim</li>
+  <li><strong>Diğer her uygulama:</strong> sessiz — Slack, Mail, Messages, Calendar, Music, ikincil tarayıcılar</li>
+</ul>
+
+<p>Profili seansınız başlamadan önce uygulayın. Sonraki bir saat boyunca, Mac'inizin ürettiği tek ses terapi uygulamanızdan gelir. Hiçbir Slack pingi hoparlörlerinize ulaşamaz. Hiçbir Calendar çanı çalmaz. Unutulmuş bir tarayıcı sekmesi yoktur. Diğer uygulamalardan gelen sessizlik umut edilen değil, garanti edilendir.</p>
+
+<h3>Sonrasında normale dönmek</h3>
+
+<p>Seans bittiğinde normal profilinize geri dönün. Tüm uygulamalarınız normal ses düzeylerine döner. Kaçırdığınız bildirimler hâlâ kendi uygulamalarında sizi bekliyor — hiçbir şey kaybolmadı, sadece gizliliğe ihtiyaç duyduğunuz süre boyunca susturuldu.</p>
+
+<h3>Aynı kurulum şunlar için de işe yarar</h3>
+<ul>
+  <li>Tıbbi tele-sağlık randevuları</li>
+  <li>Gizli iş görüşmeleri</li>
+  <li>Önemli telefon mülakatları</li>
+  <li>Ses gizliliğinin ve sıfır kesintinin önemli olduğu her durum</li>
+</ul>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
+  },
+  "virtual-audio-driver-vs-sounddial-mac": {
+    slug: "virtual-audio-driver-vs-sounddial-mac",
+    title: "Sanal Ses Sürücüleri ile SoundDial Karşılaştırması — Mac'te Hangi Yaklaşım Daha İyi?",
+    description: "Sanal ses sürücüleri ve menü çubuğu ses mikserleri, Mac'te uygulama başına ses kontrolü vaat eder. Ancak arka planda tamamen farklı çalışırlar. İşte her iki yaklaşımın da dürüst bir karşılaştırması.",
+    date: "2026-09-06",
+    readTime: "6 dk okuma",
+    content: `
+<p>Mac'inizde uygulama başına ses kontrolü istiyorsunuz. İki kategori araç buldunuz: sanal ses sürücüleri (Loopback, BlackHole veya SoundSource'un sürücü bileşeni gibi) ve hafif menü çubuğu mikserleri (SoundDial veya Background Music gibi). İkisi de bağımsız uygulama ses kontrolü vaat ediyor. Ama bunu temelde farklı mekanizmalarla başarıyorlar ve ödünleşimler önemli.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial vs virtual audio drivers — comparing per-app audio approaches on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Sanal ses sürücüleri nasıl çalışır?</h2>
+
+<p>Sanal bir ses sürücüsü, macOS'ta sahte bir ses cihazı oluşturur. Uygulamalar seslerini bu sanal cihaza gönderir ve sürücü yazılımı bunu yönlendirir — akışları bu sırada bölerek, karıştırarak veya işleyerek. Bu güçlüdür: farklı uygulamaları farklı fiziksel çıkışlara gönderebilir, uygulama başına EQ uygulayabilir, tek tek uygulama akışlarını kaydedebilir ve karmaşık yönlendirme matrisleri kurabilirsiniz.</p>
+
+<p>Ödünleşimler:</p>
+<ul>
+  <li><strong>Sistem düzeyinde kurulum:</strong> sürücüler ses alt sisteminizi değiştirir. Güvenlik onayı ve bazen bir yeniden başlatma gerektirirler.</li>
+  <li><strong>macOS güncelleme kırılganlığı:</strong> Apple, ses çerçevelerini sık sık değiştirir. Sürücüler büyük bir güncellemeden sonra bozulabilir ve geliştirici yamayana kadar sizi sessiz bırakabilir.</li>
+  <li><strong>Karmaşıklık:</strong> yönlendirme matrisleri ve sanal cihazlar güçlüdür ama sadece bir uygulamayı kısmak istiyorsanız kafa karıştırıcıdır.</li>
+  <li><strong>App Store'da değil:</strong> sürücü kuran uygulamalar, sandbox kısıtlamaları nedeniyle Mac App Store üzerinden dağıtılamaz.</li>
+</ul>
+
+<h2>SoundDial nasıl çalışır?</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> farklı bir yaklaşım benimser. Herhangi bir sürücü veya sanal cihaz kurmadan, her uygulamanın ses akışının ses düzeyini kontrol etmek için macOS API'lerini kullanır. Ses ayarlarınızda hiçbir sahte ses cihazı görünmez. Hiçbir sistem değişikliği gerekmez.</p>
+
+<p>Ödünleşimler:</p>
+<ul>
+  <li><strong>Karmaşık yönlendirme yok:</strong> SoundDial uygulama başına ses düzeyini, sessize almayı ve güçlendirmeyi kontrol eder — uygulamaları farklı fiziksel çıkışlara yönlendirmez veya uygulama başına EQ uygulamaz.</li>
+  <li><strong>App Store sandbox'ı:</strong> temiz şekilde kurulur ve kaldırılır, sürücüler için güvenlik uyarısı yok, yeniden başlatma gerekmez.</li>
+  <li><strong>macOS güncelleme dayanıklılığı:</strong> ses alt sistemini değiştirmediği için işletim sistemi güncellemelerinden sonra bozulma olasılığı daha düşüktür.</li>
+  <li><strong>Basitlik:</strong> uygulama başına bir kaydırıcı, profiller, otomatik kısma. Yapılandırılacak bir yönlendirme şeması yok.</li>
+</ul>
+
+<h2>Hangisini seçmelisiniz?</h2>
+
+<p>Gerçekte neye ihtiyacınız olduğu konusunda dürüst olun:</p>
+
+<ul>
+  <li>Belirli uygulamaları belirli fiziksel çıkışlara yönlendirmeniz gerekiyorsa (örneğin oyunu kulaklığa, müziği aynı anda hoparlörlere), tek tek uygulama ses akışlarını kaydetmeniz veya uygulama başına efekt ve EQ uygulamanız gerekiyorsa <strong>sanal bir ses sürücüsü seçin</strong>. Loopback veya SoundSource burada en iyi seçeneklerdir.</li>
+  <li>Bir sürücü kurulumunun karmaşıklığı ve kırılganlığı olmadan uygulama başına ses düzeyi kontrolü, uygulama başına sessize alma, %100 üzeri güçlendirme, ses profilleri ve otomatik kısmaya ihtiyacınız varsa <strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>'ı seçin</strong>. Bu, çoğu kişinin gerçekte ihtiyaç duyduğu şeyi kapsar.</li>
+</ul>
+
+<p>"Uygulama başına ses kontrolü" arayan çoğu kişi ikinci seçeneği istiyor. Bir görüşme sırasında Spotify'ın daha sessiz olmasını ya da Discord'un oyunlarından daha yüksek olmasını istiyorlar. Bu, sanal bir ses cihazı gerektirmez — uygulama başına bir ses düzeyi kaydırıcısı gerektirir, ki bu tam olarak SoundDial'ın ses alt sisteminize dokunmadan sunduğu şeydir.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial'ı Mac App Store'dan edinin</a> — 14,99 € tek seferlik satın alma, abonelik yok, macOS 14.2+.</p>
+`,
   },
 };

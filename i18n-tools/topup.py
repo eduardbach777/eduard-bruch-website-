@@ -80,6 +80,21 @@ def main():
             if not str(art.get(k, "")).strip():
                 errors.append(f"{slug}: empty {k}")
 
+    # 6. Silent-fallback detection on the INCOMING articles: text identical to the
+    #    English source means the agent skipped it and passed the original through.
+    #    This is not hypothetical — 20 articles per locale were shipped that way in
+    #    sounddial cs/sk/hr/uk before the scanner was fixed.
+    en_path = f"{BASE}/{app}/blog/_data/en.ts"
+    if os.path.exists(en_path):
+        en_articles = {a["slug"]: a for a in parse_en_ts(en_path)}
+        for slug in incoming:
+            en_art = en_articles.get(slug)
+            if not en_art:
+                continue
+            same = [k for k in FIELDS if incoming[slug].get(k) == en_art[k]]
+            if same:
+                errors.append(f"{slug}: {', '.join(same)} identical to English (untranslated)")
+
     if errors:
         print(f"FAIL {app}/{locale}: {len(errors)} issue(s) — nothing written")
         for e in errors:

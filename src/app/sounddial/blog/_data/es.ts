@@ -4,8 +4,7 @@ export const esArticles: ArticleSet = {
   "mac-audio-podcasting-setup": {
     slug: "mac-audio-podcasting-setup",
     title: "Audio en Mac para podcasting: controla lo que escuchas mientras grabas",
-    description:
-      "Grabar un podcast mientras monitoreas niveles, escuchas a tu invitado y gestionas notificaciones, todo compitiendo por un solo control de volumen. Aquí tienes una mejor configuración.",
+    description: "Grabar un podcast mientras monitoreas niveles, escuchas a tu invitado y gestionas notificaciones, todo compitiendo por un solo control de volumen. Aquí tienes una mejor configuración.",
     date: "2026-03-05",
     readTime: "5 min de lectura",
     content: `
@@ -71,8 +70,7 @@ export const esArticles: ArticleSet = {
   "mac-too-loud-full-volume-tame-it": {
     slug: "mac-too-loud-full-volume-tame-it",
     title: "¿Por qué mi Mac suena tan fuerte a volumen máximo? Cómo obtener un control más preciso",
-    description:
-      "Los altavoces del MacBook Pro son geniales, hasta que retumban. Si incluso los niveles moderados de volumen te parecen demasiado fuertes, aquí tienes cómo obtener un control de audio más preciso.",
+    description: "Los altavoces del MacBook Pro son geniales, hasta que retumban. Si incluso los niveles moderados de volumen te parecen demasiado fuertes, aquí tienes cómo obtener un control de audio más preciso.",
     date: "2026-03-08",
     readTime: "4 min de lectura",
     content: `
@@ -116,8 +114,7 @@ export const esArticles: ArticleSet = {
   "slack-huddle-volume-issues-mac": {
     slug: "slack-huddle-volume-issues-mac",
     title: "Problemas de volumen en huddles de Slack en Mac: demasiado bajo, demasiado alto o peleando con tu música",
-    description:
-      "Los huddles de Slack compiten con tu música y notificaciones por el mismo volumen. Así puedes controlar el audio del huddle independientemente de todo lo demás en Mac.",
+    description: "Los huddles de Slack compiten con tu música y notificaciones por el mismo volumen. Así puedes controlar el audio del huddle independientemente de todo lo demás en Mac.",
     date: "2026-03-10",
     readTime: "5 min de lectura",
     content: `
@@ -173,8 +170,7 @@ export const esArticles: ArticleSet = {
   "set-default-volume-new-apps-mac": {
     slug: "set-default-volume-new-apps-mac",
     title: "Cómo establecer un volumen predeterminado para apps nuevas en Mac",
-    description:
-      "Las apps nuevas se inician a volumen máximo por defecto. Así puedes hacer que cada app nueva empiece a un nivel cómodo — para que nada te pille desprevenido.",
+    description: "Las apps nuevas se inician a volumen máximo por defecto. Así puedes hacer que cada app nueva empiece a un nivel cómodo — para que nada te pille desprevenido.",
     date: "2026-03-12",
     readTime: "3 min de lectura",
     content: `
@@ -216,8 +212,7 @@ export const esArticles: ArticleSet = {
   "mac-startup-sound-too-loud": {
     slug: "mac-startup-sound-too-loud",
     title: "¿El sonido de inicio del Mac es demasiado fuerte? Cómo desactivarlo o reducirlo",
-    description:
-      "El sonido de inicio del Mac suena a todo volumen cada vez que reinicias — especialmente incómodo en reuniones y habitaciones silenciosas. Así puedes silenciarlo o controlarlo.",
+    description: "El sonido de inicio del Mac suena a todo volumen cada vez que reinicias — especialmente incómodo en reuniones y habitaciones silenciosas. Así puedes silenciarlo o controlarlo.",
     date: "2026-03-15",
     readTime: "4 min de lectura",
     content: `
@@ -261,8 +256,7 @@ export const esArticles: ArticleSet = {
   "webex-volume-too-low-mac": {
     slug: "webex-volume-too-low-mac",
     title: "¿Volumen de Cisco Webex demasiado bajo en Mac? Cómo solucionarlo",
-    description:
-      "Las llamadas de Webex apenas se escuchan en tu Mac. Aquí tienes cada solución — desde los ajustes de audio de Webex hasta amplificar el volumen de la llamada más allá del 100% con un mezclador por app.",
+    description: "Las llamadas de Webex apenas se escuchan en tu Mac. Aquí tienes cada solución — desde los ajustes de audio de Webex hasta amplificar el volumen de la llamada más allá del 100% con un mezclador por app.",
     date: "2026-03-18",
     readTime: "5 min de lectura",
     content: `
@@ -314,8 +308,7 @@ export const esArticles: ArticleSet = {
   "mac-two-audio-sources-same-time": {
     slug: "mac-two-audio-sources-same-time",
     title: "Cómo escuchar dos cosas a la vez en Mac sin volverse loco",
-    description:
-      "Música y un podcast. Una clase y un video de notas. Una llamada y música de fondo. macOS te obliga a elegir un solo volumen para ambos — así puedes equilibrarlos.",
+    description: "Música y un podcast. Una clase y un video de notas. Una llamada y música de fondo. macOS te obliga a elegir un solo volumen para ambos — así puedes equilibrarlos.",
     date: "2026-03-20",
     readTime: "4 min de lectura",
     content: `
@@ -374,8 +367,7 @@ export const esArticles: ArticleSet = {
   "watch-movies-mac-late-night-volume": {
     slug: "watch-movies-mac-late-night-volume",
     title: "Cómo ver películas en Mac sin despertar a todos",
-    description:
-      "Los diálogos son inaudibles, luego las explosiones hacen temblar las paredes. Así puedes controlar el audio de películas para ver de noche en Mac — sin perderte una palabra.",
+    description: "Los diálogos son inaudibles, luego las explosiones hacen temblar las paredes. Así puedes controlar el audio de películas para ver de noche en Mac — sin perderte una palabra.",
     date: "2026-03-22",
     readTime: "5 min de lectura",
     content: `
@@ -432,8 +424,7 @@ export const esArticles: ArticleSet = {
   "mac-volume-resets-after-sleep": {
     slug: "mac-volume-resets-after-sleep",
     title: "¿El volumen del Mac se reinicia después de suspenderse? Cómo mantener tus ajustes de audio",
-    description:
-      "Cada vez que tu Mac se despierta de la suspensión, el volumen está mal — se reinicia al máximo, cae a cero o cambia a la salida incorrecta. Aquí está el porqué y cómo solucionarlo.",
+    description: "Cada vez que tu Mac se despierta de la suspensión, el volumen está mal — se reinicia al máximo, cae a cero o cambia a la salida incorrecta. Aquí está el porqué y cómo solucionarlo.",
     date: "2026-03-25",
     readTime: "5 min de lectura",
     content: `
@@ -490,8 +481,7 @@ export const esArticles: ArticleSet = {
   "mac-audio-music-production-daw": {
     slug: "mac-audio-music-production-daw",
     title: "Audio en Mac para producción musical: controla el DAW y la comunicación por separado",
-    description:
-      "¿Usas Logic Pro o Ableton mientras estás en una llamada de Discord? Así puedes escuchar tu DAW a plena fidelidad mientras mantienes el chat de voz a un nivel cómodo.",
+    description: "¿Usas Logic Pro o Ableton mientras estás en una llamada de Discord? Así puedes escuchar tu DAW a plena fidelidad mientras mantienes el chat de voz a un nivel cómodo.",
     date: "2026-03-28",
     readTime: "5 min de lectura",
     content: `
@@ -545,8 +535,7 @@ export const esArticles: ArticleSet = {
   "apple-music-volume-too-low-mac": {
     slug: "apple-music-volume-too-low-mac",
     title: "¿Volumen de Apple Music demasiado bajo en Mac? Cómo solucionarlo y amplificarlo",
-    description:
-      "¿Apple Music al máximo volumen en tu Mac pero aún demasiado bajo? Verifica Sound Check, ajustes de EQ y aprende cómo amplificar Apple Music más allá del 100%.",
+    description: "¿Apple Music al máximo volumen en tu Mac pero aún demasiado bajo? Verifica Sound Check, ajustes de EQ y aprende cómo amplificar Apple Music más allá del 100%.",
     date: "2026-03-30",
     readTime: "5 min de lectura",
     content: `
@@ -596,8 +585,7 @@ export const esArticles: ArticleSet = {
   "free-volume-mixer-mac": {
     slug: "free-volume-mixer-mac",
     title: "Mezclador de volumen gratuito para Mac: lo que realmente obtienes (y lo que no)",
-    description:
-      "¿Buscas un mezclador de volumen por app gratuito para Mac? Aquí tienes un análisis honesto de lo que ofrecen las opciones gratuitas, lo que les falta y cuándo vale la pena pagar.",
+    description: "¿Buscas un mezclador de volumen por app gratuito para Mac? Aquí tienes un análisis honesto de lo que ofrecen las opciones gratuitas, lo que les falta y cuándo vale la pena pagar.",
     date: "2026-04-03",
     readTime: "6 min de lectura",
     content: `
@@ -674,8 +662,7 @@ export const esArticles: ArticleSet = {
   "balance-music-voice-chat-volume-mac": {
     slug: "balance-music-voice-chat-volume-mac",
     title: "Cómo equilibrar el volumen de la música y el chat de voz en Mac",
-    description:
-      "La música está demasiado fuerte sobre Discord. O la llamada está demasiado baja bajo Spotify. macOS no te permite equilibrarlos — aquí tienes cómo establecer la proporción perfecta.",
+    description: "La música está demasiado fuerte sobre Discord. O la llamada está demasiado baja bajo Spotify. macOS no te permite equilibrarlos — aquí tienes cómo establecer la proporción perfecta.",
     date: "2026-04-05",
     readTime: "4 min de lectura",
     content: `
@@ -725,8 +712,7 @@ export const esArticles: ArticleSet = {
   "mac-volume-control-complete-guide": {
     slug: "mac-volume-control-complete-guide",
     title: "Control de volumen en Mac: la guía completa (2026)",
-    description:
-      "Todo lo que necesitas saber sobre el control de audio en macOS — desde atajos de teclado básicos hasta volumen por app, cambio de salida y automatización.",
+    description: "Todo lo que necesitas saber sobre el control de audio en macOS — desde atajos de teclado básicos hasta volumen por app, cambio de salida y automatización.",
     date: "2026-06-12",
     readTime: "12 min de lectura",
     content: `
@@ -828,8 +814,7 @@ export const esArticles: ArticleSet = {
   "vlc-volume-too-low-mac": {
     slug: "vlc-volume-too-low-mac",
     title: "¿Volumen de VLC demasiado bajo en Mac? Cómo amplificarlo más allá del 200%",
-    description:
-      "¿VLC al máximo pero un video sigue siendo demasiado bajo? VLC tiene una amplificación integrada al 200% — además puedes ir aún más lejos con un mezclador de volumen por app.",
+    description: "¿VLC al máximo pero un video sigue siendo demasiado bajo? VLC tiene una amplificación integrada al 200% — además puedes ir aún más lejos con un mezclador de volumen por app.",
     date: "2026-04-08",
     readTime: "4 min de lectura",
     content: `
@@ -875,8 +860,7 @@ export const esArticles: ArticleSet = {
   "disable-audio-ducking-mac": {
     slug: "disable-audio-ducking-mac",
     title: "Cómo desactivar el audio ducking en Mac (o controlarlo tú mismo)",
-    description:
-      "macOS o tus apps siguen bajando tu música durante las llamadas sin preguntar. Así puedes detener el audio ducking no deseado — o reemplazarlo con un ducking que realmente controles.",
+    description: "macOS o tus apps siguen bajando tu música durante las llamadas sin preguntar. Así puedes detener el audio ducking no deseado — o reemplazarlo con un ducking que realmente controles.",
     date: "2026-04-10",
     readTime: "5 min de lectura",
     content: `
@@ -934,8 +918,7 @@ export const esArticles: ArticleSet = {
   "bluetooth-headphones-too-quiet-mac": {
     slug: "bluetooth-headphones-too-quiet-mac",
     title: "¿Auriculares Bluetooth demasiado bajos en Mac? Todas las soluciones que funcionan",
-    description:
-      "Tus auriculares Bluetooth funcionan bien en el móvil pero suenan bajos en Mac. Aquí tienes cada causa — desde problemas de códec hasta límites de volumen de macOS — y cómo solucionar cada una.",
+    description: "Tus auriculares Bluetooth funcionan bien en el móvil pero suenan bajos en Mac. Aquí tienes cada causa — desde problemas de códec hasta límites de volumen de macOS — y cómo solucionar cada una.",
     date: "2026-04-12",
     readTime: "6 min de lectura",
     content: `
@@ -997,8 +980,7 @@ export const esArticles: ArticleSet = {
   "mac-audio-obs-streaming-setup": {
     slug: "mac-audio-obs-streaming-setup",
     title: "Audio en Mac para OBS y streaming: cómo controlar lo que escucha tu audiencia",
-    description:
-      "¿Haciendo streaming en Mac con OBS? Tus espectadores escuchan todo al mismo volumen — juego, música, alertas, Discord. Así puedes equilibrar las fuentes de audio correctamente.",
+    description: "¿Haciendo streaming en Mac con OBS? Tus espectadores escuchan todo al mismo volumen — juego, música, alertas, Discord. Así puedes equilibrar las fuentes de audio correctamente.",
     date: "2026-04-15",
     readTime: "7 min de lectura",
     content: `
@@ -1058,8 +1040,7 @@ export const esArticles: ArticleSet = {
   "make-mac-remember-volume-per-app": {
     slug: "make-mac-remember-volume-per-app",
     title: "Cómo hacer que tu Mac recuerde el volumen por app",
-    description:
-      "Cada vez que reinicias Spotify o relanzas Zoom, tienes que reajustar el volumen. Así puedes hacer que macOS recuerde el nivel de volumen de cada app automáticamente.",
+    description: "Cada vez que reinicias Spotify o relanzas Zoom, tienes que reajustar el volumen. Así puedes hacer que macOS recuerde el nivel de volumen de cada app automáticamente.",
     date: "2026-04-18",
     readTime: "4 min de lectura",
     content: `
@@ -1111,8 +1092,7 @@ export const esArticles: ArticleSet = {
   "podcast-volume-too-low-mac": {
     slug: "podcast-volume-too-low-mac",
     title: "¿Volumen de podcasts demasiado bajo en Mac? Cómo hacerlo más fuerte",
-    description:
-      "Algunos podcasts son casi inaudibles en Mac incluso al volumen máximo. Aquí está el porqué — y cómo amplificar el audio del podcast más allá del 100% sin afectar otras apps.",
+    description: "Algunos podcasts son casi inaudibles en Mac incluso al volumen máximo. Aquí está el porqué — y cómo amplificar el audio del podcast más allá del 100% sin afectar otras apps.",
     date: "2026-04-20",
     readTime: "5 min de lectura",
     content: `
@@ -1162,8 +1142,7 @@ export const esArticles: ArticleSet = {
   "mac-audio-online-classes-lectures": {
     slug: "mac-audio-online-classes-lectures",
     title: "Configuración de audio en Mac para clases y conferencias online",
-    description:
-      "Viendo una clase mientras tomas notas, buscas referencias en Google y chateas con compañeros — todo a diferentes volúmenes. Así puedes gestionar el audio de estudiante en Mac.",
+    description: "Viendo una clase mientras tomas notas, buscas referencias en Google y chateas con compañeros — todo a diferentes volúmenes. Así puedes gestionar el audio de estudiante en Mac.",
     date: "2026-04-22",
     readTime: "5 min de lectura",
     content: `
@@ -1225,8 +1204,7 @@ export const esArticles: ArticleSet = {
   "mac-sound-not-working-after-update": {
     slug: "mac-sound-not-working-after-update",
     title: "¿El sonido del Mac no funciona después de una actualización? Guía completa de solución",
-    description:
-      "Actualizaste macOS y ahora tu sonido no funciona, crepita o está atascado en el volumen incorrecto. Aquí tienes todas las soluciones para que tu audio del Mac vuelva a funcionar.",
+    description: "Actualizaste macOS y ahora tu sonido no funciona, crepita o está atascado en el volumen incorrecto. Aquí tienes todas las soluciones para que tu audio del Mac vuelva a funcionar.",
     date: "2026-04-25",
     readTime: "7 min de lectura",
     content: `
@@ -1304,8 +1282,7 @@ export const esArticles: ArticleSet = {
   "mute-all-apps-keyboard-shortcut-mac": {
     slug: "mute-all-apps-keyboard-shortcut-mac",
     title: "Cómo silenciar todas las apps a la vez en Mac (y restaurarlas perfectamente)",
-    description:
-      "¿Necesitas silencio instantáneo? La tecla de silencio silencia todo — pero al restaurar el sonido se pierden tus volúmenes cuidadosamente equilibrados. Aquí tienes una forma mejor de silenciar y restaurar en Mac.",
+    description: "¿Necesitas silencio instantáneo? La tecla de silencio silencia todo — pero al restaurar el sonido se pierden tus volúmenes cuidadosamente equilibrados. Aquí tienes una forma mejor de silenciar y restaurar en Mac.",
     date: "2026-04-28",
     readTime: "4 min de lectura",
     content: `
@@ -1362,8 +1339,7 @@ export const esArticles: ArticleSet = {
   "google-meet-volume-too-low-mac": {
     slug: "google-meet-volume-too-low-mac",
     title: "¿Volumen de Google Meet demasiado bajo en Mac? Cómo solucionarlo",
-    description:
-      "Las voces en Google Meet apenas se escuchan incluso al volumen máximo. Aquí tienes el porqué Meet funciona a través de Chrome, qué significa eso para el audio y cómo amplificarlo.",
+    description: "Las voces en Google Meet apenas se escuchan incluso al volumen máximo. Aquí tienes el porqué Meet funciona a través de Chrome, qué significa eso para el audio y cómo amplificarlo.",
     date: "2026-05-01",
     readTime: "5 min de lectura",
     content: `
@@ -1413,8 +1389,7 @@ export const esArticles: ArticleSet = {
   "mac-alert-volume-separate-from-media": {
     slug: "mac-alert-volume-separate-from-media",
     title: "Cómo separar el volumen de alertas del volumen multimedia en Mac",
-    description:
-      "macOS tiene un control de volumen de alertas oculto, pero solo cubre los sonidos del sistema. Así puedes separar verdaderamente el volumen de notificaciones del volumen multimedia en Mac.",
+    description: "macOS tiene un control de volumen de alertas oculto, pero solo cubre los sonidos del sistema. Así puedes separar verdaderamente el volumen de notificaciones del volumen multimedia en Mac.",
     date: "2026-05-02",
     readTime: "5 min de lectura",
     content: `
@@ -1485,8 +1460,7 @@ export const esArticles: ArticleSet = {
   "facetime-volume-too-low-mac": {
     slug: "facetime-volume-too-low-mac",
     title: "¿Volumen de llamada de FaceTime demasiado bajo en Mac? Cómo solucionarlo",
-    description:
-      "El audio de FaceTime apenas se escucha en tu Mac incluso a volumen completo. Aquí tienes cada solución — desde los ajustes de sonido hasta amplificar FaceTime más allá del 100%.",
+    description: "El audio de FaceTime apenas se escucha en tu Mac incluso a volumen completo. Aquí tienes cada solución — desde los ajustes de sonido hasta amplificar FaceTime más allá del 100%.",
     date: "2026-05-04",
     readTime: "5 min de lectura",
     content: `
@@ -1536,8 +1510,7 @@ export const esArticles: ArticleSet = {
   "mac-volume-keyboard-shortcuts": {
     slug: "mac-volume-keyboard-shortcuts",
     title: "Atajos de teclado de volumen del Mac que probablemente no conoces",
-    description:
-      "Más allá de las teclas básicas de volumen — control de precisión, silenciar apps específicas y atajos de volumen por app. Todos los trucos de audio del Mac con teclado explicados.",
+    description: "Más allá de las teclas básicas de volumen — control de precisión, silenciar apps específicas y atajos de volumen por app. Todos los trucos de audio del Mac con teclado explicados.",
     date: "2026-05-06",
     readTime: "5 min de lectura",
     content: `
@@ -1602,8 +1575,7 @@ export const esArticles: ArticleSet = {
   "background-music-app-not-working-mac": {
     slug: "background-music-app-not-working-mac",
     title: "¿La app Background Music no funciona en macOS? Prueba estas alternativas",
-    description:
-      "¿La app gratuita Background Music dejó de funcionar después de una actualización de macOS? Aquí está el porqué se rompe, qué hacer y las mejores alternativas que realmente funcionan en 2026.",
+    description: "¿La app gratuita Background Music dejó de funcionar después de una actualización de macOS? Aquí está el porqué se rompe, qué hacer y las mejores alternativas que realmente funcionan en 2026.",
     date: "2026-06-08",
     readTime: "5 min de lectura",
     content: `
@@ -1666,8 +1638,7 @@ export const esArticles: ArticleSet = {
   "soundsource-alternative-mac": {
     slug: "soundsource-alternative-mac",
     title: "Alternativa a SoundSource: control de volumen por app más ligero y económico para Mac",
-    description:
-      "SoundSource es potente pero caro y complejo. Si solo necesitas control de volumen por app sin el kit de herramientas de ingeniería de audio, aquí tienes qué usar en su lugar.",
+    description: "SoundSource es potente pero caro y complejo. Si solo necesitas control de volumen por app sin el kit de herramientas de ingeniería de audio, aquí tienes qué usar en su lugar.",
     date: "2026-06-06",
     readTime: "6 min de lectura",
     content: `
@@ -1783,8 +1754,7 @@ export const esArticles: ArticleSet = {
   "mac-volume-too-loud-at-lowest-setting": {
     slug: "mac-volume-too-loud-at-lowest-setting",
     title: "¿El Mac sigue demasiado fuerte en el nivel más bajo? Cómo bajar aún más",
-    description:
-      "Incluso en la muesca de volumen más baja, tu Mac es demasiado fuerte — especialmente de noche con auriculares. Así puedes obtener un control de volumen más fino e ir por debajo del mínimo.",
+    description: "Incluso en la muesca de volumen más baja, tu Mac es demasiado fuerte — especialmente de noche con auriculares. Así puedes obtener un control de volumen más fino e ir por debajo del mínimo.",
     date: "2026-05-08",
     readTime: "5 min de lectura",
     content: `
@@ -1831,8 +1801,7 @@ export const esArticles: ArticleSet = {
   "one-airpod-louder-than-the-other-fix": {
     slug: "one-airpod-louder-than-the-other-fix",
     title: "¿Un AirPod suena más fuerte que el otro? Todas las soluciones explicadas",
-    description:
-      "El AirPod izquierdo es más bajo que el derecho (o viceversa). Aquí tienes cada causa — desde cerumen hasta ajustes de balance de macOS — y cómo solucionarlo.",
+    description: "El AirPod izquierdo es más bajo que el derecho (o viceversa). Aquí tienes cada causa — desde cerumen hasta ajustes de balance de macOS — y cómo solucionarlo.",
     date: "2026-05-10",
     readTime: "5 min de lectura",
     content: `
@@ -1913,8 +1882,7 @@ export const esArticles: ArticleSet = {
   "netflix-streaming-audio-too-quiet-mac": {
     slug: "netflix-streaming-audio-too-quiet-mac",
     title: "¿Audio de Netflix y streaming demasiado bajo en Mac? Cómo solucionarlo",
-    description:
-      "Los diálogos son un susurro, luego una explosión sacude la habitación. Así puedes arreglar los niveles de audio de streaming en Mac — y amplificar contenido silencioso más allá del 100%.",
+    description: "Los diálogos son un susurro, luego una explosión sacude la habitación. Así puedes arreglar los niveles de audio de streaming en Mac — y amplificar contenido silencioso más allá del 100%.",
     date: "2026-05-17",
     readTime: "5 min de lectura",
     content: `
@@ -1972,8 +1940,7 @@ export const esArticles: ArticleSet = {
   "mac-audio-setup-remote-work": {
     slug: "mac-audio-setup-remote-work",
     title: "Configuración de audio en Mac para trabajo remoto: la guía completa",
-    description:
-      "Llamadas, música, notificaciones y tiempo de concentración — todo en un Mac. Así puedes configurar tu audio para que nada compita por tu atención.",
+    description: "Llamadas, música, notificaciones y tiempo de concentración — todo en un Mac. Así puedes configurar tu audio para que nada compita por tu atención.",
     date: "2026-05-12",
     readTime: "8 min de lectura",
     content: `
@@ -2083,8 +2050,7 @@ export const esArticles: ArticleSet = {
   "stop-browser-tabs-auto-playing-audio-mac": {
     slug: "stop-browser-tabs-auto-playing-audio-mac",
     title: "Cómo evitar que las pestañas del navegador reproduzcan audio automáticamente en Mac",
-    description:
-      "Una pestaña en segundo plano empieza a reproducir audio de la nada. Anuncios, videos, sitios de noticias — así puedes silenciar pestañas rebeldes y controlar el audio del navegador en macOS.",
+    description: "Una pestaña en segundo plano empieza a reproducir audio de la nada. Anuncios, videos, sitios de noticias — así puedes silenciar pestañas rebeldes y controlar el audio del navegador en macOS.",
     date: "2026-05-14",
     readTime: "5 min de lectura",
     content: `
@@ -2142,8 +2108,7 @@ export const esArticles: ArticleSet = {
   "discord-volume-too-loud-mac": {
     slug: "discord-volume-too-loud-mac",
     title: "¿Discord demasiado fuerte (o bajo) en Mac? Cómo solucionarlo",
-    description:
-      "Discord retumba sobre tu juego, o es demasiado bajo para escuchar a tus compañeros. Así puedes controlar el volumen de Discord independientemente de todo lo demás en macOS.",
+    description: "Discord retumba sobre tu juego, o es demasiado bajo para escuchar a tus compañeros. Así puedes controlar el volumen de Discord independientemente de todo lo demás en macOS.",
     date: "2026-05-21",
     readTime: "5 min de lectura",
     content: `
@@ -2207,8 +2172,7 @@ export const esArticles: ArticleSet = {
   "switch-audio-output-quickly-mac": {
     slug: "switch-audio-output-quickly-mac",
     title: "Cómo cambiar la salida de audio rápidamente en Mac (sin buscar en los ajustes)",
-    description:
-      "Cambiar entre altavoces, auriculares y monitores en Mac requiere demasiados clics. Aquí tienes formas más rápidas de cambiar tu dispositivo de salida de audio al instante.",
+    description: "Cambiar entre altavoces, auriculares y monitores en Mac requiere demasiados clics. Aquí tienes formas más rápidas de cambiar tu dispositivo de salida de audio al instante.",
     date: "2026-05-19",
     readTime: "5 min de lectura",
     content: `
@@ -2262,8 +2226,7 @@ export const esArticles: ArticleSet = {
   "fix-audio-crackling-popping-mac": {
     slug: "fix-audio-crackling-popping-mac",
     title: "Solucionar crepiteos y chasquidos de audio en Mac: guía completa",
-    description:
-      "El audio de tu Mac crepita, chasquea o tartamudea — durante la música, las llamadas o la reproducción de video. Aquí tienes cada causa conocida y solución para los fallos de audio en macOS.",
+    description: "El audio de tu Mac crepita, chasquea o tartamudea — durante la música, las llamadas o la reproducción de video. Aquí tienes cada causa conocida y solución para los fallos de audio en macOS.",
     date: "2026-05-16",
     readTime: "8 min de lectura",
     content: `
@@ -2345,8 +2308,7 @@ export const esArticles: ArticleSet = {
   "teams-volume-too-low-mac": {
     slug: "teams-volume-too-low-mac",
     title: "¿Volumen de Microsoft Teams demasiado bajo en Mac? Todas las soluciones que funcionan",
-    description:
-      "¿Apenas puedes escuchar a la gente en Teams incluso al máximo? Aquí tienes cada causa — desde ajustes de Teams hasta códecs Bluetooth — y cómo amplificar el audio de la llamada más allá del 100%.",
+    description: "¿Apenas puedes escuchar a la gente en Teams incluso al máximo? Aquí tienes cada causa — desde ajustes de Teams hasta códecs Bluetooth — y cómo amplificar el audio de la llamada más allá del 100%.",
     date: "2026-06-04",
     readTime: "7 min de lectura",
     content: `
@@ -2408,8 +2370,7 @@ export const esArticles: ArticleSet = {
   "how-to-control-per-app-volume-on-mac": {
     slug: "how-to-control-per-app-volume-on-mac",
     title: "Cómo controlar el volumen por app en Mac",
-    description:
-      "macOS te da un solo control de volumen para todo. Aquí te explicamos cómo obtener controles de volumen individuales para cada app — y por qué importa más de lo que crees.",
+    description: "macOS te da un solo control de volumen para todo. Aquí te explicamos cómo obtener controles de volumen individuales para cada app — y por qué importa más de lo que crees.",
     date: "2026-05-20",
     readTime: "7 min de lectura",
     content: `
@@ -2484,8 +2445,7 @@ export const esArticles: ArticleSet = {
   "mute-slack-notifications-mac-without-muting-everything": {
     slug: "mute-slack-notifications-mac-without-muting-everything",
     title: "Cómo silenciar Slack en Mac sin silenciar todo lo demás",
-    description:
-      "Las notificaciones de Slack siguen interrumpiendo tu concentración, pero no quieres silenciar tu música o llamadas. Aquí te explicamos cómo silenciar solo Slack en macOS.",
+    description: "Las notificaciones de Slack siguen interrumpiendo tu concentración, pero no quieres silenciar tu música o llamadas. Aquí te explicamos cómo silenciar solo Slack en macOS.",
     date: "2026-05-24",
     readTime: "5 min de lectura",
     content: `
@@ -2541,8 +2501,7 @@ export const esArticles: ArticleSet = {
   "volume-profiles-for-mac": {
     slug: "volume-profiles-for-mac",
     title: "Cómo configurar perfiles de volumen para diferentes situaciones en Mac",
-    description:
-      "Diferentes configuraciones de volumen para reuniones, trabajo concentrado, juegos y descanso — cambiables con un clic. Así funcionan los perfiles de volumen en macOS.",
+    description: "Diferentes configuraciones de volumen para reuniones, trabajo concentrado, juegos y descanso — cambiables con un clic. Así funcionan los perfiles de volumen en macOS.",
     date: "2026-06-02",
     readTime: "5 min de lectura",
     content: `
@@ -2624,8 +2583,7 @@ export const esArticles: ArticleSet = {
   "zoom-call-volume-too-low-mac": {
     slug: "zoom-call-volume-too-low-mac",
     title: "¿Volumen de llamada Zoom demasiado bajo en Mac? Cómo amplificarlo",
-    description:
-      "Apenas puedes escuchar a la gente en Zoom incluso al máximo. Aquí tienes todas las soluciones — desde los ajustes de Zoom hasta amplificar el audio de la llamada más allá del 100% con un mezclador de volumen por app.",
+    description: "Apenas puedes escuchar a la gente en Zoom incluso al máximo. Aquí tienes todas las soluciones — desde los ajustes de Zoom hasta amplificar el audio de la llamada más allá del 100% con un mezclador de volumen por app.",
     date: "2026-05-26",
     readTime: "6 min de lectura",
     content: `
@@ -2686,8 +2644,7 @@ export const esArticles: ArticleSet = {
   "lower-spotify-without-lowering-everything-mac": {
     slug: "lower-spotify-without-lowering-everything-mac",
     title: "Cómo bajar Spotify sin bajar todo lo demás en Mac",
-    description:
-      "Quieres Spotify como música de fondo, pero bajarla con las teclas de volumen también baja tu llamada y todo lo demás. Esta es la solución.",
+    description: "Quieres Spotify como música de fondo, pero bajarla con las teclas de volumen también baja tu llamada y todo lo demás. Esta es la solución.",
     date: "2026-05-30",
     readTime: "4 min de lectura",
     content: `
@@ -2731,8 +2688,7 @@ export const esArticles: ArticleSet = {
   "macos-tahoe-per-app-volume-control": {
     slug: "macos-tahoe-per-app-volume-control",
     title: "¿Tiene macOS Tahoe control de volumen por app?",
-    description:
-      "macOS Tahoe (macOS 26) trajo grandes actualizaciones, ¿pero finalmente añadió Apple un mezclador de volumen? Esta es la respuesta — y cómo obtener control de volumen por app ahora mismo.",
+    description: "macOS Tahoe (macOS 26) trajo grandes actualizaciones, ¿pero finalmente añadió Apple un mezclador de volumen? Esta es la respuesta — y cómo obtener control de volumen por app ahora mismo.",
     date: "2026-06-12",
     readTime: "4 min de lectura",
     content: `
@@ -2787,8 +2743,7 @@ export const esArticles: ArticleSet = {
   "play-music-speakers-calls-headphones-mac": {
     slug: "play-music-speakers-calls-headphones-mac",
     title: "Cómo reproducir música en altavoces mientras tomas llamadas con auriculares (Mac)",
-    description:
-      "¿Quieres Spotify en tus altavoces de escritorio y Zoom en tus AirPods al mismo tiempo? macOS no lo facilita — esto es lo que realmente funciona.",
+    description: "¿Quieres Spotify en tus altavoces de escritorio y Zoom en tus AirPods al mismo tiempo? macOS no lo facilita — esto es lo que realmente funciona.",
     date: "2026-05-15",
     readTime: "5 min de lectura",
     content: `
@@ -2840,8 +2795,7 @@ export const esArticles: ArticleSet = {
   "mac-volume-keeps-changing-by-itself": {
     slug: "mac-volume-keeps-changing-by-itself",
     title: "El volumen del Mac cambia solo: cómo solucionarlo",
-    description:
-      "El volumen de tu Mac sube, baja o se restablece aleatoriamente a un nivel diferente. Aquí tienes todas las causas conocidas y cómo detenerlo.",
+    description: "El volumen de tu Mac sube, baja o se restablece aleatoriamente a un nivel diferente. Aquí tienes todas las causas conocidas y cómo detenerlo.",
     date: "2026-05-18",
     readTime: "6 min de lectura",
     content: `
@@ -2906,8 +2860,7 @@ export const esArticles: ArticleSet = {
   "best-volume-mixer-apps-mac-2026": {
     slug: "best-volume-mixer-apps-mac-2026",
     title: "Las mejores apps de mezclador de volumen para Mac en 2026",
-    description:
-      "Una comparación directa de todas las apps de Mac que ofrecen control de volumen por app. Características, precios y cuál realmente vale la pena usar.",
+    description: "Una comparación directa de todas las apps de Mac que ofrecen control de volumen por app. Características, precios y cuál realmente vale la pena usar.",
     date: "2026-06-12",
     readTime: "10 min de lectura",
     content: `
@@ -3088,8 +3041,7 @@ export const esArticles: ArticleSet = {
   "youtube-too-quiet-safari-chrome-mac": {
     slug: "youtube-too-quiet-safari-chrome-mac",
     title: "¿YouTube demasiado silencioso en Safari o Chrome en Mac? Arréglalo al instante",
-    description:
-      "Algunos vídeos de YouTube apenas se escuchan incluso al máximo volumen. Aquí tienes por qué el audio del navegador suele ser más silencioso que otras apps — y cómo amplificarlo más allá del 100% en Mac.",
+    description: "Algunos vídeos de YouTube apenas se escuchan incluso al máximo volumen. Aquí tienes por qué el audio del navegador suele ser más silencioso que otras apps — y cómo amplificarlo más allá del 100% en Mac.",
     date: "2026-05-22",
     readTime: "5 min de lectura",
     content: `
@@ -3141,8 +3093,7 @@ export const esArticles: ArticleSet = {
   "mac-notification-sounds-too-loud-headphones": {
     slug: "mac-notification-sounds-too-loud-headphones",
     title: "¿Los sonidos de notificación del Mac son demasiado fuertes con auriculares? Esta es la solución",
-    description:
-      "Los pings de Slack y las alertas de macOS son dolorosamente fuertes en tus auriculares mientras la música está bien. Aquí tienes por qué el volumen de las notificaciones es diferente — y cómo controlarlo.",
+    description: "Los pings de Slack y las alertas de macOS son dolorosamente fuertes en tus auriculares mientras la música está bien. Aquí tienes por qué el volumen de las notificaciones es diferente — y cómo controlarlo.",
     date: "2026-05-25",
     readTime: "5 min de lectura",
     content: `
@@ -3197,8 +3148,7 @@ export const esArticles: ArticleSet = {
   "stop-zoom-lowering-music-mac": {
     slug: "stop-zoom-lowering-music-mac",
     title: "Cómo evitar que Zoom baje tu música en Mac",
-    description:
-      "Cada vez que te unes a una llamada de Zoom, tu música baja o desaparece. Aquí tienes por qué ocurre y cómo controlar lo que se silencia durante las llamadas — según tus condiciones.",
+    description: "Cada vez que te unes a una llamada de Zoom, tu música baja o desaparece. Aquí tienes por qué ocurre y cómo controlar lo que se silencia durante las llamadas — según tus condiciones.",
     date: "2026-05-28",
     readTime: "6 min de lectura",
     content: `
@@ -3271,8 +3221,7 @@ export const esArticles: ArticleSet = {
   "airpods-volume-too-low-mac": {
     slug: "airpods-volume-too-low-mac",
     title: "¿Volumen de AirPods demasiado bajo en Mac? Todas las soluciones explicadas",
-    description:
-      "¿Los AirPods suenan silenciosos en tu Mac incluso a volumen máximo? Aquí tienes todas las causas — desde límites de seguridad de auriculares hasta peculiaridades de Bluetooth — y cómo solucionarlas.",
+    description: "¿Los AirPods suenan silenciosos en tu Mac incluso a volumen máximo? Aquí tienes todas las causas — desde límites de seguridad de auriculares hasta peculiaridades de Bluetooth — y cómo solucionarlas.",
     date: "2026-06-08",
     readTime: "7 min de lectura",
     content: `
@@ -3338,8 +3287,7 @@ export const esArticles: ArticleSet = {
   "spotify-volume-too-low-mac": {
     slug: "spotify-volume-too-low-mac",
     title: "¿Volumen de Spotify demasiado bajo en Mac? Todas las soluciones",
-    description:
-      "¿Spotify al máximo volumen pero sigue siendo demasiado silencioso en tu Mac? Esta guía cubre todas las causas — desde el limitador integrado de Spotify hasta los ajustes de macOS — y cómo amplificarlo más allá del 100%.",
+    description: "¿Spotify al máximo volumen pero sigue siendo demasiado silencioso en tu Mac? Esta guía cubre todas las causas — desde el limitador integrado de Spotify hasta los ajustes de macOS — y cómo amplificarlo más allá del 100%.",
     date: "2026-06-11",
     readTime: "7 min de lectura",
     content: `
@@ -3413,8 +3361,7 @@ export const esArticles: ArticleSet = {
   "separate-game-audio-from-discord-mac": {
     slug: "separate-game-audio-from-discord-mac",
     title: "Cómo separar el audio del juego de Discord en Mac",
-    description:
-      "¿Las explosiones del juego tapan a tus compañeros en Discord? Así es como puedes controlar el volumen del audio del juego y del chat de voz de forma independiente en macOS.",
+    description: "¿Las explosiones del juego tapan a tus compañeros en Discord? Así es como puedes controlar el volumen del audio del juego y del chat de voz de forma independiente en macOS.",
     date: "2026-06-10",
     readTime: "6 min de lectura",
     content: `
@@ -3479,8 +3426,7 @@ export const esArticles: ArticleSet = {
   "why-doesnt-mac-have-volume-mixer": {
     slug: "why-doesnt-mac-have-volume-mixer",
     title: "¿Por qué Mac no tiene un mezclador de volumen como Windows?",
-    description:
-      "Windows ha tenido control de volumen por app desde 2006. Es 2026 y macOS sigue sin tenerlo. Aquí está la razón real — y cómo conseguir uno de todas formas.",
+    description: "Windows ha tenido control de volumen por app desde 2006. Es 2026 y macOS sigue sin tenerlo. Aquí está la razón real — y cómo conseguir uno de todas formas.",
     date: "2026-06-09",
     readTime: "6 min de lectura",
     content: `
@@ -3549,8 +3495,7 @@ export const esArticles: ArticleSet = {
   "boost-mac-volume-beyond-100-percent": {
     slug: "boost-mac-volume-beyond-100-percent",
     title: "¿Volumen del Mac demasiado bajo? Cómo amplificar el sonido más allá del 100%",
-    description:
-      "Tu Mac está al máximo volumen y sigue siendo demasiado silencioso. Aquí tienes por qué ocurre y cómo amplificar el audio hasta el 200% sin altavoces externos.",
+    description: "Tu Mac está al máximo volumen y sigue siendo demasiado silencioso. Aquí tienes por qué ocurre y cómo amplificar el audio hasta el 200% sin altavoces externos.",
     date: "2026-06-07",
     readTime: "8 min de lectura",
     content: `
@@ -3632,8 +3577,7 @@ export const esArticles: ArticleSet = {
   "auto-lower-music-during-zoom-calls-mac": {
     slug: "auto-lower-music-during-zoom-calls-mac",
     title: "Cómo bajar automáticamente la música durante las llamadas de Zoom en Mac",
-    description:
-      "Cada vez que empieza una llamada de Zoom, te apresuras a pausar Spotify. Hay una forma mejor — la atenuación automática baja tu música automáticamente cuando se activa el micrófono.",
+    description: "Cada vez que empieza una llamada de Zoom, te apresuras a pausar Spotify. Hay una forma mejor — la atenuación automática baja tu música automáticamente cuando se activa el micrófono.",
     date: "2026-06-05",
     readTime: "7 min de lectura",
     content: `
@@ -3734,8 +3678,7 @@ export const esArticles: ArticleSet = {
   "how-to-mute-one-app-on-mac": {
     slug: "how-to-mute-one-app-on-mac",
     title: "Cómo silenciar una app en Mac sin silenciar todo lo demás",
-    description:
-      "Slack está sonando. Estás en una llamada. Quieres silenciar Slack pero seguir escuchando la llamada. macOS no te lo permite — así es como hacerlo de todas formas.",
+    description: "Slack está sonando. Estás en una llamada. Quieres silenciar Slack pero seguir escuchando la llamada. macOS no te lo permite — así es como hacerlo de todas formas.",
     date: "2026-06-03",
     readTime: "6 min de lectura",
     content: `
@@ -3807,8 +3750,7 @@ export const esArticles: ArticleSet = {
   "volume-mixer-for-mac": {
     slug: "volume-mixer-for-mac",
     title: "Mezclador de volumen para Mac: la función que falta que macOS sigue sin tener",
-    description:
-      "Windows ha tenido un mezclador de volumen desde 2006. Aquí tienes por qué macOS sigue sin tenerlo — y la mejor forma de obtener control de volumen por app en tu Mac en 2026.",
+    description: "Windows ha tenido un mezclador de volumen desde 2006. Aquí tienes por qué macOS sigue sin tenerlo — y la mejor forma de obtener control de volumen por app en tu Mac en 2026.",
     date: "2026-06-01",
     readTime: "9 min de lectura",
     content: `
@@ -6249,5 +6191,635 @@ export const esArticles: ArticleSet = {
 <p>Para ser claro acerca de los límites: SoundDial equilibra lo que generan sus aplicaciones. No remasterizará una pista mal producida y no puede inventar detalles en el audio mezclado con un rango dinámico muy amplio. Lo que hace es brindarle el único control que macOS dejó fuera: niveles constantes por aplicación que permanecen fijos.</p>
 
 <p>¿Estás cansado de utilizar el control deslizante maestro cada vez que cambias de aplicación? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> cuesta 14,99 € por única vez en el Mac App Store (espacio aislado, sin controladores, sin DMG) y finalmente le da a cada aplicación su propio volumen recordado.</p>`,
+  },
+  "mac-audio-for-gaming": {
+    slug: "mac-audio-for-gaming",
+    title: "Audio en Mac para gaming: separa el juego, el chat de voz y la música",
+    description: "Jugar en un Mac implica hacer malabares con el audio del juego, el chat de voz de Discord o FaceTime y la música de fondo, todo a través de un único control de volumen. Así puedes separarlos en canales independientes.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Estás en plena partida. El audio del juego está tapando a tus compañeros de equipo en Discord. Bajas el volumen del sistema: ahora puedes oír los avisos, pero los sonidos del juego son demasiado tenues para reaccionar a los pasos. Mientras tanto, Spotify sigue sonando a todo volumen por debajo de todo lo demás. macOS te da un único control de volumen para todo, y jugar en un Mac significa estar constantemente ajustando ese control.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: separa el volumen del juego, el chat de voz y la música en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué el audio de los videojuegos es especialmente caótico en Mac</h2>
+
+<p>Los juegos mezclan internamente varias capas de audio (diálogos, efectos, ambiente, música) y las envían como un único flujo. Las apps de chat de voz como Discord, FaceTime o TeamSpeak añaden un segundo flujo. Un reproductor de música añade un tercero. macOS trata a todos por igual, alimentando una sola salida maestra, sin ninguna forma de priorizarlos o equilibrarlos entre sí.</p>
+
+<p>La mayoría de los juegos tienen controles de volumen internos, pero ajustarlos implica salir del juego a pantalla completa con alt+tab, rompiendo tu concentración. E incluso si bajas la música interna del juego, sigues sin poder subir Discord en relación con los efectos del juego sin cambiar el volumen maestro y afectar a todo lo demás.</p>
+
+<h2>Audio por app para tus sesiones de juego</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> le da a cada app su propio control de volumen independiente desde la barra de menú, para que puedas configurar una mezcla de audio de juego sin tocar los ajustes del juego ni el control del sistema.</p>
+
+<h3>Un perfil típico para jugar</h3>
+<ul>
+  <li><strong>Juego:</strong> 70 % — suficientemente alto para las señales de audio espacial sin resultar abrumador</li>
+  <li><strong>Discord / FaceTime:</strong> 100 % — los avisos de tus compañeros siempre audibles</li>
+  <li><strong>Spotify / Apple Music:</strong> 25 % — ambiente de fondo sin competir con lo demás</li>
+  <li><strong>Navegador:</strong> silenciado — sin sonidos sorpresa de pestañas</li>
+  <li><strong>Slack / Mensajes:</strong> silenciado — cero interrupciones por notificaciones en pleno juego</li>
+</ul>
+
+<p>Guarda esto como un perfil "Gaming". Un clic antes de lanzar el juego y cada app se ajusta a su nivel de juego. Cuando termines, vuelve a tu perfil normal, sin necesidad de ajustar manualmente ningún control.</p>
+
+<h3>Auto-ducking para priorizar la voz</h3>
+
+<p>La función de auto-ducking de SoundDial puede bajar automáticamente el audio del juego y la música cada vez que Discord o FaceTime estén activos. Las voces de tus compañeros siempre se escuchan con claridad, y todo vuelve a subir en los momentos de silencio. Es el mismo comportamiento que configuran los locutores profesionales con complejas herramientas de enrutamiento de audio, pero aquí se hace con un solo interruptor.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-djing": {
+    slug: "mac-audio-for-djing",
+    title: "Audio en Mac para DJs: controla el monitor y la salida de forma independiente",
+    description: "Hacer de DJ en un Mac implica previsualizar la siguiente pista en tus auriculares mientras el público escucha la mezcla actual, pero macOS envía todo a una sola salida. Así puedes separar tu señal de monitor.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Estás pinchando desde tu Mac (Traktor, Serato, rekordbox, o incluso Ableton en un set en vivo). Necesitas precuchar la siguiente pista en tus auriculares mientras el público escucha la mezcla actual por los altavoces. Pero tienes el navegador abierto con el setlist, puede que Spotify esté sonando para pistas de referencia, y Mensajes no deja de sonar por tus monitores. macOS no tiene ningún concepto de "esta app va aquí, esta otra va allí" a nivel de volumen.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: control de audio para DJs en Mac con volúmenes independientes por app" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>El problema del audio para DJs en macOS</h2>
+
+<p>El software profesional de DJ gestiona el precuchado internamente: divide su propia salida entre la mezcla principal y el monitor de auriculares. Esa parte funciona bien. El problema es todo lo demás que se ejecuta en tu Mac. Las notificaciones del sistema, las pestañas del navegador, las apps de comunicación y los reproductores de referencia se mezclan en la misma salida maestra. Que suene un aviso de Slack por el sistema de sonido en mitad de un set no queda nada bien.</p>
+
+<p>Puedes activar "No molestar", pero eso no silencia las apps que ya están en marcha, solo suprime los avisos en pantalla. Una pestaña del navegador que se reproduce automáticamente o un tono de FaceTime seguirán sonando a todo volumen por tus altavoces, al nivel que tengas configurado el volumen del sistema.</p>
+
+<h2>Cómo controlar el audio que no es de tu software de DJ</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite establecer niveles de volumen independientes para cada app de tu Mac. Para un set de DJ, el uso clave es silenciar o bajar todo lo que no sea tu software de DJ.</p>
+
+<h3>Perfil para un set de DJ</h3>
+<ul>
+  <li><strong>Traktor / Serato / rekordbox:</strong> 100 % — salida completa a tu interfaz de audio</li>
+  <li><strong>Navegador:</strong> silenciado — sin sonidos sorpresa de pestañas</li>
+  <li><strong>Spotify:</strong> silenciado o 10 % — solo como referencia, activando el sonido un momento</li>
+  <li><strong>Slack / Mensajes / Mail:</strong> silenciado — cero sonidos de notificación</li>
+  <li><strong>Calendario:</strong> silenciado — sin avisos de recordatorio</li>
+</ul>
+
+<p>Guarda esto como un perfil "DJ Set". Antes de empezar, aplícalo con un clic. Tu app de DJ funciona a pleno volumen y nada más puede interrumpir. Cuando termine el set, vuelve a tu perfil habitual y las notificaciones se reanudan.</p>
+
+<h3>Comprobaciones rápidas de pistas de referencia</h3>
+
+<p>¿Necesitas comprobar rápidamente una pista de referencia en Spotify en mitad del set? En lugar de activar el sonido de todo el sistema, simplemente sube el control individual de Spotify para escucharla en tus auriculares y vuelve a bajarlo a cero después. El público nunca la oye y tu app de DJ no se ve afectada.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "control-notification-sounds-mac": {
+    slug: "control-notification-sounds-mac",
+    title: "Cómo controlar el volumen de los sonidos de notificación en Mac",
+    description: "En Mac, los sonidos de notificación suenan al mismo volumen que todo lo demás, o están completamente desactivados. No existe un término medio integrado. Así puedes controlar el volumen de las alertas sin silenciar tu música.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Salta un recordatorio de Calendario y el sonido de alerta suena al mismo volumen que la música que estabas disfrutando. Te sobresaltas. Bajas el volumen del sistema y ahora tu música suena demasiado baja. macOS trata los sonidos de notificación y el audio multimedia como un único volumen, y la única salida integrada es activar "No molestar", que silencia todo, incluidas las alertas que sí necesitas.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: controla el volumen de los sonidos de notificación de forma independiente en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué es tan difícil controlar el volumen de las notificaciones</h2>
+
+<p>macOS tiene un ajuste "Reproducir efectos de sonido mediante" y un control de volumen de alertas en Ajustes del Sistema, pero controla todos los sonidos de alerta del sistema en conjunto. No hay forma de decir "las alertas de Calendario al 30 %, los avisos de Mensajes al 50 %, Mail en silencio". Todas las apps que generan alertas comparten el mismo nivel de sonido del sistema.</p>
+
+<p>El problema de fondo es que muchas apps generan sus propios sonidos de notificación fuera del sistema de alertas de macOS. Slack reproduce su propio audio. Discord tiene su propio aviso sonoro. Las pestañas de Chrome pueden emitir sonidos de notificación. Estos no dependen en absoluto del control de volumen de alertas: suenan al volumen que la app decida, controlado únicamente por el control maestro.</p>
+
+<h2>Control por app sobre las fuentes de notificaciones</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> resuelve esto dándole a cada app su propio control de volumen. Como los sonidos de notificación proceden de apps concretas, bajar el volumen de esa app también baja el de sus notificaciones.</p>
+
+<h3>Configuraciones prácticas</h3>
+<ul>
+  <li><strong>Slack:</strong> 15 % — un aviso sutil, no una interrupción que sobresalta</li>
+  <li><strong>Mensajes:</strong> 20 % — audible pero suave</li>
+  <li><strong>Mail:</strong> silenciado — revísalo cuando tú decidas</li>
+  <li><strong>Calendario:</strong> 25 % — lo justo para notarlo</li>
+  <li><strong>Discord:</strong> 10 % — conciencia de fondo sin sobresaltos</li>
+  <li><strong>Música / navegador:</strong> 70-100 % — disfrute total, sin interrupciones</li>
+</ul>
+
+<p>El resultado: tu contenido multimedia suena al nivel que quieres, y las fuentes de notificaciones se mantienen a un nivel que informa sin sobresaltar. No hace falta "No molestar": sigues escuchando todo, solo que a volúmenes que tienen sentido.</p>
+
+<h3>Combínalo con perfiles</h3>
+
+<p>Guarda un perfil "Enfoque" con la mayoría de las apps de notificaciones silenciadas y un perfil "Normal" con niveles suaves. Cambia con un clic según necesites concentración profunda o una atención más pasiva. Se acabó tener que elegir entre "escucharlo todo a todo volumen" y "no escuchar nada en absoluto".</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-volume-too-quiet-at-max": {
+    slug: "mac-volume-too-quiet-at-max",
+    title: "El volumen del Mac suena demasiado bajo incluso al máximo: cómo aumentarlo por encima del 100 %",
+    description: "Algunas apps suenan frustrantemente bajas incluso con el volumen del Mac al máximo. El problema no son tus altavoces: es que macOS no puede aumentar el volumen de una app concreta por encima de su nivel de salida.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>El volumen de tu Mac está al 100 %. La app concreta que intentas escuchar (un interlocutor de Zoom que habla bajo, un pódcast suave, un vídeo del navegador) sigue sonando demasiado flojo. Subes el control del sistema al máximo y no es suficiente. Mientras tanto, todas las demás apps de tu Mac ahora suenan dolorosamente alto. El problema no son tus altavoces ni tu oído. Es que la app emite el audio a un nivel interno bajo, y macOS no tiene forma de amplificar una sola app por encima de su propio límite.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: aumenta el volumen del Mac por encima del 100 % para apps con audio bajo" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué el volumen máximo a veces no basta</h2>
+
+<p>El control de volumen del sistema escala todo de forma proporcional. Si una app emite el audio, por ejemplo, al 40 % de su escala interna completa, entonces incluso con el volumen del sistema al 100 % solo estás escuchando el 40 % de lo que tus altavoces pueden producir realmente. Esto es habitual en:</p>
+<ul>
+  <li>Apps de videollamadas donde el interlocutor remoto tiene un micrófono con poca ganancia</li>
+  <li>Pódcast y audiolibros masterizados a niveles conservadores</li>
+  <li>Vídeos antiguos de internet con baja calidad de producción</li>
+  <li>Grabaciones de pantalla y tutoriales donde el presentador habla en voz baja</li>
+</ul>
+
+<p>El control maestro no puede llevar a una app por encima de su propio nivel de salida. Es un techo, no un amplificador.</p>
+
+<h2>Aumentar el volumen por encima del 100 % por app</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> añade controles de volumen por app que van más allá del 100 %. El aumento amplifica el flujo de audio de una sola app por encima de su máximo normal, sin subir el volumen del sistema ni afectar a ninguna otra app.</p>
+
+<h3>Cómo usarlo</h3>
+<ul>
+  <li>Abre SoundDial desde la barra de menú: cada app en ejecución aparece con su propio control</li>
+  <li>Localiza la app con poco volumen y arrastra su control más allá de la marca del 100 %</li>
+  <li>El aumento solo amplifica el audio de esa app; todo lo demás permanece en su nivel actual</li>
+  <li>Vuelve a bajar el volumen del sistema a un nivel cómodo si lo tenías al máximo</li>
+</ul>
+
+<h3>Una nota sobre la calidad</h3>
+
+<p>El aumento es amplificación real, no magia. Un aumento moderado (llevar un pódcast de inaudible a un nivel cómodo) funciona limpiamente. Un aumento extremo sobre un audio de origen muy flojo y con ruido puede hacer más perceptibles el siseo o los artefactos. En la práctica, el punto óptimo para la mayoría de las situaciones de "volumen demasiado bajo" está entre el 120 % y el 150 %, que suena natural y resuelve el problema sin introducir distorsión.</p>
+
+<p>La ventaja clave frente a subir el volumen del sistema al máximo es que solo la app con poco volumen suena más alto. Tu música, los sonidos del sistema y las demás apps se quedan exactamente donde estaban. Se acabó tener que ensordecerlo todo solo para escuchar una cosa.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-meditation-focus": {
+    slug: "mac-audio-for-meditation-focus",
+    title: "Audio en Mac para meditación y concentración: silencia todo excepto una app",
+    description: "Usar una app de meditación o sonidos ambientales en tu Mac mientras las notificaciones y otros sonidos siguen interrumpiendo anula por completo el propósito. Así puedes aislar tu audio de relajación y silenciar todo lo demás.",
+    date: "2026-09-06",
+    readTime: "4 min de lectura",
+    content: `
+<p>Abres una app de meditación o un generador de sonidos ambientales en tu Mac: lluvia, pulsos binaurales, una sesión guiada. Te acomodas. Entonces suena un aviso de Slack. Mail hace "ding". Una pestaña olvidada del navegador empieza a reproducir un vídeo. Todo el sentido era crear un entorno sonoro tranquilo, y macOS lo acaba de romper porque todas las apps comparten el mismo volumen y no hay ninguna forma integrada de decir "que solo suene esta app".</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: aísla el audio de meditación y silencia todo lo demás en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>El problema del audio para concentrarse</h2>
+
+<p>"No molestar" suprime los avisos en pantalla, pero no silencia las apps. Slack sigue reproduciendo sus propios sonidos. Las pestañas del navegador siguen reproduciéndose automáticamente. Calendario sigue sonando. La única opción integrada es silenciar todo con la tecla de silencio del sistema, lo que también silencia tu audio de meditación. macOS no tiene un "silenciar todo excepto esta app".</p>
+
+<h2>Aislar el audio de una sola app</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite silenciar cada app individualmente mientras mantienes la app que elijas a pleno volumen. La configuración lleva segundos.</p>
+
+<h3>Perfil de concentración / meditación</h3>
+<ul>
+  <li><strong>App de meditación (Calm, Headspace, Endel, una pestaña del navegador con audio ambiental):</strong> 100 %</li>
+  <li><strong>Todo lo demás:</strong> silenciado</li>
+</ul>
+
+<p>Guarda esto como un perfil "Enfoque". Un clic antes de tu sesión y solo suena tu audio de relajación. Cuando termines, vuelve a tu perfil normal y todo regresa a sus niveles habituales.</p>
+
+<h3>Estudio y trabajo profundo</h3>
+
+<p>El mismo enfoque funciona para cualquier sesión de trabajo concentrado. Mantén la música lo-fi o el ruido blanco a un nivel cómodo, silencia Slack y el correo, y deja que la capa ambiental llene tus auriculares sin competencia. No estás luchando contra las distracciones: sencillamente no existen en tu entorno sonoro.</p>
+
+<h3>Vuelta gradual</h3>
+
+<p>Cuando termine tu sesión, no necesitas reactivar el sonido de seis apps manualmente. Cambia a tu perfil "Normal" o "Trabajo" y el volumen de cada app vuelve de inmediato a su nivel previo a la sesión. Nada de silencios olvidados ni notificaciones perdidas acumulándose porque olvidaste reactivar algo.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-video-editing": {
+    slug: "mac-audio-for-video-editing",
+    title: "Audio en Mac para edición de vídeo: Premiere, DaVinci y previsualización de la línea de tiempo",
+    description: "Editar vídeo en un Mac implica previsualizar el audio de la línea de tiempo mientras los clips de referencia, las apps de comunicación y los sonidos del sistema compiten por el mismo volumen. Así puedes aislar el audio de tu edición.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Estás editando en DaVinci Resolve, Premiere Pro o Final Cut. Te desplazas por la línea de tiempo y necesitas escuchar con precisión los niveles de diálogo. Pero Slack no deja de sonar, una pestaña del navegador con metraje de referencia está reproduciéndose, y Apple Music suena de fondo. No puedes valorar el audio de tu edición cuando otras tres apps se cuelan en la mezcla a volúmenes impredecibles.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: control de audio para edición de vídeo en Mac con volumen por app" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué los editores de vídeo necesitan un audio aislado</h2>
+
+<p>Mezclar audio en un editor de vídeo requiere una monitorización precisa. Si el sonido de notificación de Slack suena al mismo nivel que el diálogo de tu línea de tiempo, no puedes saber si ese diálogo está realmente bien mezclado. Si la música de fondo de Spotify se cuela en tu monitorización, tus oídos compensan y acabas ajustando mal los niveles. Los editores profesionales trabajan en salas acondicionadas con cadenas de monitorización controladas, pero incluso a nivel de software, macOS no te da ninguna forma de separar el audio de tu editor del resto.</p>
+
+<p>La solución que usan la mayoría de los editores es cerrar todo lo demás antes de editar: cerrar Slack, pausar Música, cerrar pestañas del navegador. Funciona, pero significa que no puedes consultar un tutorial de YouTube, mantener abierto un chat con un cliente o escuchar una pista de referencia sin contaminar tu entorno de monitorización.</p>
+
+<h2>Control por app para tus sesiones de edición</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite mantenerlo todo abierto, pero controlando qué escuchas y a qué nivel.</p>
+
+<h3>Perfil de edición</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut:</strong> 100 % — monitorización precisa de la línea de tiempo</li>
+  <li><strong>Navegador:</strong> silenciado (actívalo brevemente para comprobar un clip de referencia y vuelve a silenciarlo)</li>
+  <li><strong>Slack / Mensajes:</strong> silenciado — sin sonidos en tu cadena de monitorización</li>
+  <li><strong>Música:</strong> silenciado — sin audio que compita</li>
+  <li><strong>Mail / Calendario:</strong> silenciado</li>
+</ul>
+
+<h3>Perfil de revisión</h3>
+<ul>
+  <li><strong>Editor de vídeo (NLE):</strong> 80 % — nivel cómodo para revisar</li>
+  <li><strong>Slack:</strong> 20 % — para enterarte de mensajes mientras esperas un renderizado</li>
+  <li><strong>Navegador:</strong> 50 % — material de referencia accesible</li>
+</ul>
+
+<p>Cambia entre perfiles según lo exija tu flujo de trabajo. Durante una mezcla de audio crítica, todo queda silenciado excepto tu línea de tiempo. Durante un renderizado, reactiva las notificaciones para seguir localizable. Dos clics, dos entornos de monitorización completamente distintos.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "per-app-volume-control-mac-2026": {
+    slug: "per-app-volume-control-mac-2026",
+    title: "Control de volumen por app en Mac en 2026: ¿qué opciones tienes?",
+    description: "En 2026, macOS todavía no incluye un mezclador de volumen integrado. Aquí tienes todas las opciones para controlar el volumen de cada app de forma independiente: gratuitas, de pago y soluciones alternativas.",
+    date: "2026-09-06",
+    readTime: "6 min de lectura",
+    content: `
+<p>Estamos en 2026. Windows tiene un mezclador de volumen por app desde Vista, en 2007. macOS todavía no tiene uno. Si quieres bajar el volumen de Spotify sin bajar el de tu llamada de Zoom, la respuesta de Apple sigue siendo "no puedes". Entonces, ¿qué opciones tienes realmente en 2026?</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: opciones de control de volumen por app en Mac en 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>El panorama actual</h2>
+
+<p>Aquí tienes un repaso honesto de todos los enfoques disponibles ahora mismo, con sus contrapartidas reales.</p>
+
+<h3>Opciones gratuitas</h3>
+<ul>
+  <li><strong>Background Music</strong> — de código abierto, ofrece controles de volumen básicos por app. El inconveniente: lo mantiene la comunidad y históricamente se ha roto con las actualizaciones importantes de macOS. Sin aumento por encima del 100 %, sin perfiles, sin auto-ducking. Si lo gratuito es tu único requisito y no te importa solucionar problemas tras las actualizaciones del sistema, merece la pena probarlo.</li>
+  <li><strong>FineTune</strong> — gratuito, de código abierto, control de volumen minimalista desde la barra de menú. Con menos funciones, pero fiable para ajustes básicos.</li>
+  <li><strong>eqMac</strong> — ecualizador gratuito y control de volumen de todo el sistema. Más centrado en la ecualización que en la mezcla por app, pero tiene algunas funciones por app.</li>
+</ul>
+
+<h3>Opciones de pago</h3>
+<ul>
+  <li><strong>SoundSource</strong> (Rogue Amoeba, ~39 $) — la herramienta de nivel profesional. Volumen por app, EQ por app, enrutamiento de salida, efectos. Instala un componente de captura de audio (no está en la App Store). Excesivo si solo quieres controles de volumen, excelente si necesitas un enrutamiento de audio avanzado.</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> (14,99 €, pago único) — volumen por app, silencio, aumento por encima del 100 %, perfiles guardables, auto-ducking. Mac App Store, con sandboxing, sin controladores. El término medio entre las herramientas gratuitas y SoundSource.</li>
+  <li><strong>Audio Hijack</strong> (Rogue Amoeba, ~72 $) — captura y enruta audio entre apps. Potente para grabación y enrutamiento complejo, pero es una herramienta de audio profesional, no un simple mezclador de volumen.</li>
+</ul>
+
+<h3>Soluciones alternativas integradas</h3>
+<ul>
+  <li>Algunas apps tienen controles de volumen internos (Spotify, VLC, la mayoría de los juegos). Pero ajustas cada una por separado, nada las coordina, y muchas apps ni siquiera ofrecen controles de volumen.</li>
+  <li>"No molestar" silencia los avisos de notificación, pero no controla el volumen de las apps.</li>
+  <li>El control de volumen del sistema es todo o nada.</li>
+</ul>
+
+<h2>¿Cuál deberías elegir?</h2>
+
+<p>Sé honesto sobre lo que necesitas. Si quieres algo gratuito y no te importan las roturas ocasionales, Background Music. Si necesitas enrutamiento de audio y EQ profesionales, SoundSource. Si quieres un mezclador de volumen fiable y sencillo, con perfiles y aumento de volumen a un precio justo, con la seguridad de la App Store y sin instalar controladores, <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> es el punto óptimo.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-ducking-automatic": {
+    slug: "mac-audio-ducking-automatic",
+    title: "Auto-ducking en Mac: baja la música automáticamente cuando alguien habla",
+    description: "Cuando empieza una llamada o alguien habla, tu música debería bajar automáticamente. macOS no lo hace de forma nativa. Así puedes configurar el auto-ducking en tu Mac.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Estás escuchando música en tu Mac. Empieza una llamada de Zoom. Te apresuras a pausar Spotify o a bajar el volumen para poder oír la reunión. La llamada termina. Vuelves a subir la música. Esto pasa cinco veces al día, y cada vez es una interrupción manual. El ducking de audio (bajar automáticamente el audio de fondo cuando suena una fuente prioritaria) es algo estándar en retransmisiones y streaming. En macOS, no existe de forma nativa.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: auto-ducking en Mac, baja la música durante las llamadas" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Qué hace realmente el ducking de audio</h2>
+
+<p>El ducking es sencillo: cuando se activa una fuente de audio designada como prioritaria, todas las demás fuentes de audio bajan su volumen una cantidad determinada. Cuando la fuente prioritaria deja de sonar, todo vuelve a subir a su nivel original. Los locutores lo usan para que la voz del presentador siempre destaque sobre la música de fondo. Los streamers lo usan para que el audio del juego baje cuando hablan.</p>
+
+<p>En macOS, lo más parecido de forma integrada es el ajuste de accesibilidad que puede reducir el audio de fondo durante los anuncios de VoiceOver. Pero eso es específico de VoiceOver: no existe un ducking de propósito general para llamadas, chats de voz o cualquier otra app.</p>
+
+<h2>Configurar el auto-ducking con SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> incluye el auto-ducking como función integrada. Designas qué app debe activar el ducking (normalmente una app de comunicación) y todo lo demás baja automáticamente cuando esa app produce audio.</p>
+
+<h3>Configuraciones habituales de ducking</h3>
+<ul>
+  <li><strong>Zoom / Google Meet / FaceTime como prioridad:</strong> la música, el navegador y otras apps bajan cuando hay una llamada activa. Tu voz en la reunión siempre se oye clara, sin cambios manuales de volumen.</li>
+  <li><strong>Discord como prioridad:</strong> el audio del juego y la música bajan cuando hablan tus compañeros de equipo. Los avisos nunca se pierden bajo explosiones o una banda sonora alta.</li>
+  <li><strong>Grabación de pódcast:</strong> todo baja cuando la entrada de tu DAW está activa, manteniendo limpio tu entorno de monitorización.</li>
+</ul>
+
+<h3>Cómo se siente en la práctica</h3>
+
+<p>La transición es suave: el audio de fondo se atenúa gradualmente cuando suena la app prioritaria y vuelve a subir cuando se detiene. Dejas de notarlo después de la primera hora, porque está haciendo exactamente lo que tú harías manualmente, pero sin la interrupción. Se acabó tener que ir a buscar los controles en mitad de una conversación.</p>
+
+<p>Combinado con el volumen por app y los perfiles, el ducking completa el cuadro: tus apps ya empiezan en los niveles correctos, y el ducking se encarga de los ajustes dinámicos durante todo el día.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "control-browser-tab-volume-mac": {
+    slug: "control-browser-tab-volume-mac",
+    title: "¿Se puede controlar el volumen de cada pestaña del navegador por separado en Mac?",
+    description: "Una pestaña del navegador reproduce audio muy alto mientras otra tiene un vídeo con volumen bajo. ¿Se puede controlar el volumen por pestaña en macOS? Esto es lo que realmente es posible y lo que no.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Tienes un tutorial de YouTube reproduciéndose en una pestaña, un vídeo de Loom con poco volumen en otra, y una tercera pestaña que acaba de empezar a reproducir un anuncio automáticamente. Quieres bajar la pestaña de YouTube, subir la de Loom y silenciar el anuncio, todo de forma independiente. ¿Se puede controlar el volumen por pestaña del navegador en macOS? La respuesta corta y honesta: no de forma nativa, y no con la mayoría de las herramientas. Pero sí puedes controlar el volumen de todo el navegador, y eso resuelve la mayor parte del problema.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: controla el volumen de audio del navegador en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué no existe el volumen por pestaña</h2>
+
+<p>Los navegadores mezclan el audio de todas sus pestañas en un único flujo de salida antes de entregarlo al sistema operativo. Para macOS, Chrome es una sola app que produce un único flujo de audio. Safari es una app. Firefox es una app. El sistema no tiene visibilidad de qué pestaña genera qué sonido: esa información vive dentro del motor de audio interno del navegador y no se expone a herramientas externas.</p>
+
+<p>Algunos navegadores te permiten silenciar pestañas individuales (haciendo clic en el icono de altavoz de la pestaña), pero eso es un simple encendido/apagado: no hay un control de volumen por pestaña. Puedes silenciar la pestaña ruidosa, pero no puedes bajarla al 20 % mientras mantienes otra al 80 %.</p>
+
+<h2>Lo que sí puedes controlar</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> controla el volumen a nivel de app. Como cada navegador es una app independiente, obtienes control por separado sobre:</p>
+
+<h3>Flujos de trabajo con varios navegadores</h3>
+<ul>
+  <li><strong>Chrome:</strong> 100 % — tu vídeo o tutorial principal</li>
+  <li><strong>Safari:</strong> 40 % — material de referencia de fondo</li>
+  <li><strong>Firefox:</strong> silenciado — pruebas o herramientas de desarrollo, sin necesidad de audio</li>
+</ul>
+
+<p>Si usas varios navegadores (algo habitual entre desarrolladores e investigadores), cada navegador tiene su propio control. Eso es un control genuino "por grupo de pestañas", ya que puedes asignar contenido distinto a cada navegador y mezclarlos de forma independiente.</p>
+
+<h3>El navegador frente a todo lo demás</h3>
+
+<p>El escenario más habitual es simplemente querer que el audio del navegador esté a un nivel distinto al de tus demás apps. ¿La música tapa un tutorial de YouTube? Baja Spotify al 30 % mientras mantienes Chrome al 100 %. ¿Una llamada de Zoom mientras una pestaña reproduce material de referencia? Silencia todo el navegador durante la llamada con el silencio por app, y actívalo de nuevo después.</p>
+
+<h3>La alternativa del silencio por pestaña</h3>
+
+<p>Para un verdadero control por pestaña dentro de un mismo navegador, el silencio de pestaña integrado es tu única opción. Combínalo con el volumen por navegador de SoundDial: silencia la pestaña ruidosa dentro del navegador y usa SoundDial para ajustar el volumen general del navegador en relación con tus demás apps.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-language-learning": {
+    slug: "mac-audio-for-language-learning",
+    title: "Audio en Mac para aprender idiomas: separa Anki, pódcast y vídeo",
+    description: "Aprender un idioma en tu Mac implica hacer malabares con el audio de las tarjetas de repaso, los pódcast, las lecciones en vídeo y las búsquedas en el diccionario, todos compitiendo por el mismo volumen. Así puedes equilibrarlos.",
+    date: "2026-09-06",
+    readTime: "4 min de lectura",
+    content: `
+<p>Estás estudiando un idioma en tu Mac. Anki reproduce el audio de pronunciación de las tarjetas de repaso. Un pódcast en tu idioma objetivo suena de fondo para la inmersión. Abres una lección de gramática de YouTube en el navegador. Ahora hay tres fuentes de audio sonando a la vez, cada una a un volumen natural distinto, y macOS te da un único control para todas ellas. Los clips de pronunciación de Anki suenan demasiado bajo para captarlos bien, el pódcast suena demasiado alto, y el vídeo de YouTube queda en un punto intermedio.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: configuración de audio para aprender idiomas en Mac con volúmenes independientes por app" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>El caos de audio de quien aprende un idioma</h2>
+
+<p>Aprender un idioma implica por naturaleza varias fuentes de audio. Las apps de tarjetas de repaso reproducen clips cortos. Las apps de pódcast transmiten audio continuo. Las lecciones en vídeo mezclan voz con música y efectos de sonido. Las apps de diccionario pronuncian palabras bajo demanda. Cada fuente tiene su propio nivel de volumen interno, y nunca están calibradas para coincidir entre sí.</p>
+
+<p>La solución habitual es pausar todo excepto lo que estás usando en ese momento. Pero eso anula el enfoque de "inmersión de fondo" en el que se apoyan muchos estudiantes: mantener el audio en el idioma objetivo sonando suavemente mientras se realizan otras actividades de estudio.</p>
+
+<h2>Audio en capas para el estudio de idiomas</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite ajustar cada app a su nivel ideal y mantener varias fuentes sonando a la vez en una mezcla cómoda.</p>
+
+<h3>Perfil de estudio</h3>
+<ul>
+  <li><strong>Anki:</strong> 100 % (con aumento si los clips suenan bajo) — la pronunciación debe oírse con total claridad</li>
+  <li><strong>App de pódcast:</strong> 20-30 % — inmersión suave de fondo, sin competir con el estudio activo</li>
+  <li><strong>Navegador (lecciones de YouTube):</strong> 80 % — claro mientras miras, fácil de bajar al repasar tarjetas</li>
+  <li><strong>App de diccionario:</strong> 90 % — pronunciaciones de palabras audibles bajo demanda</li>
+  <li><strong>Slack / Mensajes:</strong> silenciado — el tiempo de estudio es tiempo de estudio</li>
+</ul>
+
+<h3>Modo inmersión</h3>
+<ul>
+  <li><strong>Pódcast / emisora de radio:</strong> 60 % — nivel de escucha cómodo</li>
+  <li><strong>Todo lo demás:</strong> silenciado o muy bajo</li>
+</ul>
+
+<p>Cambia entre perfiles según pases del estudio activo a la inmersión pasiva. Tu entorno sonoro se adapta a tu modo de aprendizaje sin tener que ajustar los controles manualmente cada vez.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-volume-profiles-work-vs-home": {
+    slug: "mac-volume-profiles-work-vs-home",
+    title: "Perfiles de volumen en Mac: cambia entre la configuración de audio de trabajo y de casa",
+    description: "Los volúmenes ideales de tus apps en el trabajo son completamente distintos a los de tu configuración nocturna en casa. Ajustar manualmente cinco apps cada vez que cambias de contexto es una pérdida de tiempo. Aquí tienes una alternativa de un solo clic.",
+    date: "2026-09-06",
+    readTime: "4 min de lectura",
+    content: `
+<p>A las 9 de la mañana necesitas Zoom alto, Slack con un aviso suave, la música baja y el navegador silenciado. A las 6 de la tarde termina la jornada laboral: Zoom ya no importa, Slack debería estar en silencio, la música sube al 80 % y el navegador reproduce Netflix a todo volumen. Eso son cinco o seis apps que ajustar manualmente, dos veces al día, todos los días. La mayoría de la gente no se molesta y simplemente convive con los volúmenes equivocados la mitad del tiempo.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: cambia entre perfiles de volumen de trabajo y de casa en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>El coste de cambiar de contexto</h2>
+
+<p>Tus necesidades de audio son completamente distintas según lo que estés haciendo, pero macOS no tiene ningún concepto de "contextos de audio". No existe una configuración de volumen para "modo trabajo" ni un ajuste predefinido para "noche". Cada vez que cambia tu contexto, o ajustas cada app manualmente, o aceptas que algunas sonarán demasiado alto y otras demasiado bajo.</p>
+
+<p>Este no es un problema que ocurra una sola vez al día. Muchas personas cambian de contexto varias veces: concentración por la mañana, reunión diaria, trabajo profundo, pausa para comer, colaboración por la tarde, tiempo personal por la noche. Cada uno tiene una configuración de audio ideal, y ninguna es igual a las demás.</p>
+
+<h2>Perfiles de volumen para cada contexto</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite guardar configuraciones completas de volumen por app como perfiles con nombre, y cambiar entre ellos con un solo clic desde la barra de menú.</p>
+
+<h3>Perfil de trabajo</h3>
+<ul>
+  <li><strong>Zoom / Meet:</strong> 100 %</li>
+  <li><strong>Slack:</strong> 20 % — notificaciones sutiles</li>
+  <li><strong>Música:</strong> 25 % — concentración de fondo</li>
+  <li><strong>Navegador:</strong> silenciado</li>
+  <li><strong>Mensajes:</strong> silenciado</li>
+</ul>
+
+<h3>Perfil de casa</h3>
+<ul>
+  <li><strong>Música / Spotify:</strong> 80 %</li>
+  <li><strong>Navegador (streaming):</strong> 100 %</li>
+  <li><strong>Slack:</strong> silenciado</li>
+  <li><strong>Zoom:</strong> silenciado</li>
+  <li><strong>Mensajes:</strong> 50 %</li>
+</ul>
+
+<h3>Perfil de enfoque</h3>
+<ul>
+  <li><strong>Música:</strong> 40 % — lo-fi o ambiental</li>
+  <li><strong>Todo lo demás:</strong> silenciado</li>
+</ul>
+
+<p>Tres perfiles, tres entornos sonoros completamente distintos. Cada cambio lleva un clic y se aplica al instante. El audio de tu Mac se adapta a ti, en lugar de al revés.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-twitch-streaming": {
+    slug: "mac-audio-for-twitch-streaming",
+    title: "Audio en Mac para streaming en Twitch: juego, alertas, música y micrófono",
+    description: "Hacer streaming en Twitch desde un Mac implica gestionar el audio del juego, las alertas del stream, la música de fondo y el chat, todo a los niveles adecuados para tu audiencia. Así puedes mezclarlos correctamente.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Estás haciendo streaming en Twitch desde tu Mac. OBS captura tu juego, tu micrófono y el audio del escritorio. Pero el "audio del escritorio" es una única señal mezclada: tu juego, los sonidos de alerta, la música de fondo, Discord y los avisos de notificación acaban todos en el mismo canal, al volumen que macOS decida. Tus espectadores escuchan un caos desequilibrado en el que las alertas tapan la partida, la música ahoga tus comentarios y un aviso de Slack interrumpe el stream de forma aleatoria.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: mezcla de audio para streaming en Twitch en Mac con volumen por app" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué el audio del streaming es tan difícil en Mac</h2>
+
+<p>OBS captura el "audio del escritorio" como un único flujo mezclado: todo lo que suena en tu Mac combinado. En Windows, los streamers usan el mezclador de volumen integrado para preequilibrar las apps antes de que OBS las capture. En macOS, ese mezclador no existe. Tu mezcla previa a la captura es lo que sea que esté sonando, a los niveles predeterminados de cada app.</p>
+
+<p>Los streamers profesionales de Mac suelen usar herramientas de enrutamiento de audio virtual para crear canales de audio separados para cada fuente. Eso funciona, pero es complejo de configurar, requiere controladores de audio y se rompe cuando las actualizaciones de macOS cambian los sistemas de audio.</p>
+
+<h2>Premezclar con volumen por app</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite equilibrar cada app antes de que OBS capture la salida combinada. Como OBS recoge la mezcla final, ajustar el volumen de cada app individualmente con SoundDial afecta directamente a lo que escuchan tus espectadores.</p>
+
+<h3>Perfil de streaming</h3>
+<ul>
+  <li><strong>Juego:</strong> 60 % — presente pero sin resultar abrumador</li>
+  <li><strong>App de alertas / Streamlabs:</strong> 40 % — audible para la interacción con la audiencia, sin superar al juego</li>
+  <li><strong>Música (Spotify / Apple Music):</strong> 15-20 % — ambiente de fondo, a un volumen seguro frente a reclamaciones por derechos de autor</li>
+  <li><strong>Discord:</strong> 50 % — comunicación con co-streamers o moderadores</li>
+  <li><strong>Navegador:</strong> silenciado — sin sonidos sorpresa de pestañas en el stream</li>
+  <li><strong>Slack / Mail / Mensajes:</strong> silenciado — las notificaciones personales se quedan fuera del stream</li>
+</ul>
+
+<h3>Ajustes rápidos en pleno stream</h3>
+
+<p>¿Un espectador dice que el juego suena demasiado alto? Baja solo el control del juego desde la barra de menú sin tener que salir de tu escena de stream con alt+tab. ¿La música suena demasiado baja? Súbela un poco. Un ajuste rápido en SoundDial es invisible para los espectadores: sin paneles de ajustes en pantalla, sin interrumpir el stream.</p>
+
+<h3>Auto-ducking para tus comentarios</h3>
+
+<p>Activa el auto-ducking para bajar el audio del juego y la música cuando hablas. Tus comentarios siempre se escuchan con claridad, y el audio vuelve a subir en los momentos de silencio, exactamente lo que logran los streamers profesionales con costosas configuraciones de enrutamiento de audio.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-music-lessons": {
+    slug: "mac-audio-for-music-lessons",
+    title: "Audio en Mac para clases de música online: separa el DAW, la videollamada y el metrónomo",
+    description: "Dar o recibir clases de música online implica escuchar con claridad a tu alumno o profesor mientras un DAW, un metrónomo y pistas de acompañamiento compiten por el mismo control de volumen.",
+    date: "2026-09-06",
+    readTime: "5 min de lectura",
+    content: `
+<p>Estás en una clase de música online, dando o recibiendo clases. Tu alumno toca a través de Zoom y necesitas escucharlo con claridad. GarageBand o Logic tiene una pista de acompañamiento sonando. Una app de metrónomo está marcando el tiempo. Puede que Spotify tenga una grabación de referencia en cola. Todo esto compite por un único control de volumen del sistema. Subes el volumen para escuchar a tu alumno y el metrónomo se vuelve ensordecedor. Bajas el metrónomo manualmente y ahora la pista de acompañamiento suena demasiado baja para tocar con ella.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: configuración de audio para clases de música online con volúmenes independientes por app en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>El reto de las clases de música online</h2>
+
+<p>Las clases de música exigen un equilibrio de audio preciso que ningún otro caso de uso requiere. Necesitas escuchar al participante remoto con suficiente fidelidad para detectar problemas de técnica y de tempo. Necesitas que el metrónomo o el click se oiga, pero sin dominar la mezcla. Las pistas de acompañamiento deben quedar por debajo de la interpretación, no por encima. Y si eres el profesor, puede que necesites reproducir grabaciones de referencia para el alumno, cambiando entre apps mientras mantienes los volúmenes relativos correctos.</p>
+
+<p>Cada una de estas fuentes tiene su propio nivel de volumen interno, y ninguna se coordina con las demás. macOS no tiene herramientas para equilibrarlas.</p>
+
+<h2>Cómo montar una mezcla de audio para tus clases</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite ajustar cada app a su nivel ideal, creando una mezcla equilibrada para la clase sin tocar los ajustes internos de cada app.</p>
+
+<h3>Perfil de docencia</h3>
+<ul>
+  <li><strong>Zoom / FaceTime:</strong> 100 % — el audio del alumno es la prioridad</li>
+  <li><strong>App de metrónomo:</strong> 35 % — click audible sin resultar abrumador</li>
+  <li><strong>GarageBand / Logic:</strong> 50 % — pistas de acompañamiento por debajo de la interpretación</li>
+  <li><strong>Spotify:</strong> silenciado (actívalo brevemente para reproducciones de referencia)</li>
+  <li><strong>Slack / Mail:</strong> silenciado — cero interrupciones durante la clase</li>
+</ul>
+
+<h3>Perfil de práctica</h3>
+<ul>
+  <li><strong>Metrónomo:</strong> 50 % — referencia de tempo clara</li>
+  <li><strong>DAW:</strong> 80 % — pistas de acompañamiento a pleno volumen de práctica</li>
+  <li><strong>Spotify:</strong> 70 % — grabaciones de referencia accesibles</li>
+  <li><strong>Todo lo demás:</strong> silenciado — práctica concentrada</li>
+</ul>
+
+<p>Cambia de dar clase a practicar por tu cuenta con un solo clic. Tu entorno sonoro se adapta a la actividad sin tener que ajustar manualmente cuatro o cinco apps cada vez.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "mac-audio-for-online-therapy": {
+    slug: "mac-audio-for-online-therapy",
+    title: "Audio en Mac para terapia online: privacidad, claridad y cero interrupciones",
+    description: "Una sesión de terapia online exige privacidad sonora absoluta y cero interrupciones. Un aviso de Slack o el sonido de una notificación durante la sesión es más que molesto: interrumpe el proceso.",
+    date: "2026-09-06",
+    readTime: "4 min de lectura",
+    content: `
+<p>Estás en una sesión de terapia online en tu Mac. La conversación exige toda tu atención y una sensación de privacidad. Entonces suena un aviso de Slack. Un recordatorio de Calendario emite un sonido. Una pestaña del navegador que habías olvidado empieza a reproducir audio. Cada interrupción te saca del momento, y la ansiedad de "¿sonará algo más?" puede minar la sesión incluso antes de que vuelva a sonar algo.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial: configuración de audio privada para sesiones de terapia sin interrupciones en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Por qué "No molestar" no es suficiente</h2>
+
+<p>"No molestar" suprime los avisos en pantalla y la mayoría de los sonidos de alerta, pero no es una solución completa. Algunas apps reproducen sus propias notificaciones de audio fuera del sistema de macOS. Una pestaña del navegador puede reproducirse automáticamente. Una app que olvidaste que estaba abierta puede producir un sonido inesperado. Y "No molestar" no resuelve el problema de fondo: quieres que tu app de terapia (Zoom, Doxy o una plataforma basada en el navegador) suene con total claridad mientras todo lo demás permanece garantizadamente en silencio.</p>
+
+<h2>Un entorno sonoro completamente sellado</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> te permite silenciar todas las apps excepto tu plataforma de terapia, creando un entorno sonoro donde las interrupciones son estructuralmente imposibles, no solo suprimidas.</p>
+
+<h3>Perfil para sesiones de terapia</h3>
+<ul>
+  <li><strong>Zoom / navegador (plataforma de terapia):</strong> 100 % — comunicación clara y a pleno volumen</li>
+  <li><strong>Todas las demás apps:</strong> silenciadas — Slack, Mail, Mensajes, Calendario, Música, navegadores secundarios</li>
+</ul>
+
+<p>Aplica el perfil antes de que empiece tu sesión. Durante la siguiente hora, el único audio que produce tu Mac procede de tu app de terapia. Ningún aviso de Slack puede llegar a tus altavoces. Ningún sonido de Calendario. Ninguna pestaña olvidada del navegador. El silencio del resto de apps queda garantizado, no simplemente esperado.</p>
+
+<h3>Volver a la normalidad después</h3>
+
+<p>Cuando termine la sesión, vuelve a tu perfil habitual. Todas tus apps recuperan sus volúmenes normales. Las notificaciones que te perdiste siguen esperando en sus respectivas apps: no se ha perdido nada, solo se silenció durante el tiempo en que necesitabas privacidad.</p>
+
+<h3>La misma configuración funciona para</h3>
+<ul>
+  <li>Citas médicas de telesalud</li>
+  <li>Conversaciones de trabajo confidenciales</li>
+  <li>Entrevistas telefónicas importantes</li>
+  <li>Cualquier situación en la que importen la privacidad sonora y la ausencia total de interrupciones</li>
+</ul>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
+  },
+  "virtual-audio-driver-vs-sounddial-mac": {
+    slug: "virtual-audio-driver-vs-sounddial-mac",
+    title: "Controladores de audio virtual frente a SoundDial: ¿qué enfoque es mejor en Mac?",
+    description: "Tanto los controladores de audio virtual como los mezcladores de volumen de la barra de menú prometen control de audio por app en Mac. Por dentro funcionan de forma completamente distinta. Aquí tienes una comparación honesta de ambos enfoques.",
+    date: "2026-09-06",
+    readTime: "6 min de lectura",
+    content: `
+<p>Quieres control de volumen por app en tu Mac. Has encontrado dos categorías de herramientas: controladores de audio virtual (como Loopback, BlackHole o el componente de controlador de SoundSource) y mezcladores ligeros de la barra de menú (como SoundDial o Background Music). Ambos prometen control independiente del volumen por app. Pero lo consiguen mediante mecanismos radicalmente distintos, y las contrapartidas importan.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial frente a los controladores de audio virtual: comparando enfoques de audio por app en Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Cómo funcionan los controladores de audio virtual</h2>
+
+<p>Un controlador de audio virtual crea un dispositivo de audio falso en macOS. Las apps envían su audio a ese dispositivo virtual, y el software del controlador lo enruta a partir de ahí, pudiendo dividir, mezclar o procesar los flujos por el camino. Esto es muy potente: puedes enviar distintas apps a distintas salidas físicas, aplicar EQ por app, grabar flujos de app individuales y construir matrices de enrutamiento complejas.</p>
+
+<p>Las contrapartidas:</p>
+<ul>
+  <li><strong>Instalación a nivel de sistema:</strong> los controladores modifican tu subsistema de audio. Requieren aprobación de seguridad y, a veces, reiniciar el equipo.</li>
+  <li><strong>Fragilidad ante las actualizaciones de macOS:</strong> Apple cambia con frecuencia los sistemas de audio. Los controladores pueden romperse tras una actualización importante, dejándote sin audio hasta que el desarrollador publique una solución.</li>
+  <li><strong>Complejidad:</strong> las matrices de enrutamiento y los dispositivos virtuales son potentes, pero confusos si solo quieres bajar el volumen de una app.</li>
+  <li><strong>No están en la App Store:</strong> las apps que instalan controladores no pueden distribuirse a través de la Mac App Store debido a las restricciones de sandboxing.</li>
+</ul>
+
+<h2>Cómo funciona SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> adopta un enfoque distinto. Usa las API de macOS para controlar el volumen del flujo de audio de cada app sin instalar ningún controlador ni dispositivo virtual. No aparece ningún dispositivo de audio falso en tus ajustes de Sonido. No se requiere ninguna modificación del sistema.</p>
+
+<p>Las contrapartidas:</p>
+<ul>
+  <li><strong>Sin enrutamiento complejo:</strong> SoundDial controla el volumen, el silencio y el aumento por app; no enruta apps a distintas salidas físicas ni aplica EQ por app.</li>
+  <li><strong>Con sandboxing de la App Store:</strong> se instala y desinstala de forma limpia, sin avisos de seguridad por controladores, sin necesidad de reiniciar.</li>
+  <li><strong>Resistencia ante actualizaciones de macOS:</strong> como no modifica el subsistema de audio, es menos probable que se rompa tras las actualizaciones del sistema.</li>
+  <li><strong>Sencillez:</strong> un control por app, perfiles, auto-ducking. Sin diagramas de enrutamiento que configurar.</li>
+</ul>
+
+<h2>¿Cuál deberías elegir?</h2>
+
+<p>Sé honesto sobre lo que realmente necesitas:</p>
+
+<ul>
+  <li><strong>Elige un controlador de audio virtual</strong> si necesitas enrutar apps concretas a salidas físicas específicas (por ejemplo, el juego a los auriculares y la música a los altavoces al mismo tiempo), grabar flujos de audio de apps individuales, o aplicar efectos y EQ por app. Loopback o SoundSource son las mejores opciones aquí.</li>
+  <li><strong>Elige <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> si necesitas control de volumen por app, silencio por app, aumento por encima del 100 %, perfiles de volumen y auto-ducking, sin la complejidad y fragilidad de instalar un controlador. Esto cubre lo que realmente necesita la mayoría de la gente.</li>
+</ul>
+
+<p>La mayoría de las personas que buscan "control de volumen por app" quieren la segunda opción. Quieren que Spotify suene más bajo durante una llamada, o que Discord suene más alto que su juego. Eso no requiere un dispositivo de audio virtual: requiere un control de volumen por app, que es exactamente lo que ofrece SoundDial sin tocar tu subsistema de audio.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Consigue SoundDial en la Mac App Store</a> — 14,99 € de pago único, sin suscripción, macOS 14.2 o superior.</p>
+`,
   },
 };

@@ -4,10 +4,9 @@ export const jaArticles: ArticleSet = {
   "mac-audio-podcasting-setup": {
     slug: "mac-audio-podcasting-setup",
     title: "Macでのポッドキャスト用オーディオ設定：録音中に聴く音をコントロールする",
-    description:
-      "ポッドキャスト録音中にレベル監視、ゲスト音声、通知管理がすべて1つのボリュームスライダーで競合。もっと良い設定方法があります。",
+    description: "ポッドキャスト録音中にレベル監視、ゲスト音声、通知管理がすべて1つのボリュームスライダーで競合。もっと良い設定方法があります。",
     date: "2026-03-05",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>Macでポッドキャストを録音しているとします。ゲストの音声（Zoom、Riverside、SquadCast経由）をクリアに聴く必要があります。DAWの録音レベルをモニタリングする必要があります。Slackをミュートして通知音が録音に入らないようにする必要があります。そしてシステム通知音を完全に消す必要があります — インタビュー中にmacOSの「ディン」という音が鳴ったら使い物になりません。</p>
 
@@ -71,10 +70,9 @@ export const jaArticles: ArticleSet = {
   "mac-too-loud-full-volume-tame-it": {
     slug: "mac-too-loud-full-volume-tame-it",
     title: "フルボリュームでMacがうるさい理由と、より細かい制御を得る方法",
-    description:
-      "MacBook Proのスピーカーは素晴らしい — うるさすぎるまでは。中程度の音量設定でも大きすぎると感じる場合、より精密なオーディオ制御方法があります。",
+    description: "MacBook Proのスピーカーは素晴らしい — うるさすぎるまでは。中程度の音量設定でも大きすぎると感じる場合、より精密なオーディオ制御方法があります。",
     date: "2026-03-08",
-    readTime: "4分で読める",
+    readTime: "4分で読めます",
     content: `
 <p>Appleの新しいMacBook Proモデル（14インチと16インチ）は、ラップトップとしては驚くほどパワフルなスピーカーを搭載しています。あまりにパワフルなため、中程度の音量レベルでもかなり大きい場合があります — 特に静かな部屋、深夜、またはヘッドフォン使用時。「快適」と「大きすぎ」の差は、時にボリューム1〜2ステップだけです。</p>
 
@@ -116,10 +114,9 @@ export const jaArticles: ArticleSet = {
   "slack-huddle-volume-issues-mac": {
     slug: "slack-huddle-volume-issues-mac",
     title: "MacでのSlackハドル音量問題：小さすぎ、大きすぎ、音楽と競合",
-    description:
-      "Slackハドルが音楽や通知と同じ音量で競合します。Mac上でハドルの音声を他のすべてから独立して制御する方法。",
+    description: "Slackハドルが音楽や通知と同じ音量で競合します。Mac上でハドルの音声を他のすべてから独立して制御する方法。",
     date: "2026-03-10",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>Slackハドルは便利です — ボタンをクリックするだけで、会議をスケジュールせずに音声通話に参加できます。しかし、オーディオは混乱状態です。ハドルがSpotifyと同じ音量です。Slack通知音が通話と同じレベルで鳴ります。誰かが音楽や音声付きの画面をハドルで共有すると、聞こえないか耳をつんざくかのどちらかです。</p>
 
@@ -173,10 +170,9 @@ export const jaArticles: ArticleSet = {
   "set-default-volume-new-apps-mac": {
     slug: "set-default-volume-new-apps-mac",
     title: "Macで新しいアプリのデフォルト音量を設定する方法",
-    description:
-      "新しいアプリはデフォルトでフルボリュームで起動します。すべての新しいアプリを快適なレベルで起動させる方法 — 不意打ちされないように。",
+    description: "新しいアプリはデフォルトでフルボリュームで起動します。すべての新しいアプリを快適なレベルで起動させる方法 — 不意打ちされないように。",
     date: "2026-03-12",
-    readTime: "3分で読める",
+    readTime: "3分で読めます",
     content: `
 <p>新しいアプリをインストールします。初めて起動します。すぐに音声が再生されます — イントロ音、通知、チュートリアル動画 — フルシステム音量で。予期していませんでした。ヘッドフォンをしています。耳が鳴ります。</p>
 
@@ -216,10 +212,9 @@ export const jaArticles: ArticleSet = {
   "mac-startup-sound-too-loud": {
     slug: "mac-startup-sound-too-loud",
     title: "Macの起動音が大きすぎる？無効化または小さくする方法",
-    description:
-      "Macの起動チャイムは再起動するたびにフルボリュームで鳴ります — 会議中や静かな部屋では特に気まずい。消音または制御する方法。",
+    description: "Macの起動チャイムは再起動するたびにフルボリュームで鳴ります — 会議中や静かな部屋では特に気まずい。消音または制御する方法。",
     date: "2026-03-15",
-    readTime: "4分で読める",
+    readTime: "4分で読めます",
     content: `
 <p>静かなオフィスでMacを再起動します。会議室は静まり返っています。すると — <em>ボーン</em> — 起動チャイムがフルボリュームで鳴り響きます。全員があなたを見ます。チャイムは象徴的ですが、制御不能で、しばしば恥ずかしいほど大きいです。</p>
 
@@ -261,10 +256,9 @@ export const jaArticles: ArticleSet = {
   "webex-volume-too-low-mac": {
     slug: "webex-volume-too-low-mac",
     title: "MacでCisco Webexの音量が小さすぎる？修正方法",
-    description:
-      "MacでWebex通話がほとんど聞こえません。Webexのオーディオ設定から、アプリごとのミキサーで通話音量を100%以上にブーストする方法まですべて解説。",
+    description: "MacでWebex通話がほとんど聞こえません。Webexのオーディオ設定から、アプリごとのミキサーで通話音量を100%以上にブーストする方法まですべて解説。",
     date: "2026-03-18",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>Webexは企業環境で最も使用されるビデオ会議ツールの1つですが、Macでのオーディオ品質について最も不満が寄せられるものの1つでもあります。通話音量が低い、くぐもった声、同じシステム音量でもZoomやTeamsより静かに聞こえる音声。Webex通話がほとんど聞こえない場合、あなただけではありません。</p>
 
@@ -314,10 +308,9 @@ export const jaArticles: ArticleSet = {
   "mac-two-audio-sources-same-time": {
     slug: "mac-two-audio-sources-same-time",
     title: "Macで2つの音を同時に聴いてもおかしくならない方法",
-    description:
-      "音楽とポッドキャスト。講義とメモ動画。通話とBGM。macOSでは両方に1つの音量を選ぶしかない — バランスを取る方法がここに。",
+    description: "音楽とポッドキャスト。講義とメモ動画。通話とBGM。macOSでは両方に1つの音量を選ぶしかない — バランスを取る方法がここに。",
     date: "2026-03-20",
-    readTime: "4分で読める",
+    readTime: "4分で読めます",
     content: `
 <p>2つのオーディオソースを同時に聴きたいとします。通話中の音楽。チュートリアルを見ながらのポッドキャスト。勉強中のBGMアンビエンス。2つのもの、2つの異なる理想的な音量。macOSは両方に1つのスライダーしか提供しません。</p>
 
@@ -374,10 +367,9 @@ export const jaArticles: ArticleSet = {
   "watch-movies-mac-late-night-volume": {
     slug: "watch-movies-mac-late-night-volume",
     title: "Macで映画を観て周りを起こさない方法",
-    description:
-      "セリフが聞こえず、爆発で壁が揺れる。一言も聞き漏らさずにMacで深夜の映画鑑賞の音声を制御する方法。",
+    description: "セリフが聞こえず、爆発で壁が揺れる。一言も聞き漏らさずにMacで深夜の映画鑑賞の音声を制御する方法。",
     date: "2026-03-22",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>午前1時です。ベッドでMacBookで映画を観ています。登場人物がささやいています — 音量を上げます。するとカーチェイスが始まり、突然アパート全体に聞こえます。ボリュームキーに飛びつきます。このサイクルが2時間繰り返されます。</p>
 
@@ -432,10 +424,9 @@ export const jaArticles: ArticleSet = {
   "mac-volume-resets-after-sleep": {
     slug: "mac-volume-resets-after-sleep",
     title: "スリープ後にMacの音量がリセットされる？オーディオ設定を保持する方法",
-    description:
-      "Macがスリープから復帰するたびに音量が変わる — 最大にリセット、ゼロに低下、間違った出力に切り替わる。原因と修正方法。",
+    description: "Macがスリープから復帰するたびに音量が変わる — 最大にリセット、ゼロに低下、間違った出力に切り替わる。原因と修正方法。",
     date: "2026-03-25",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>MacBookの蓋を閉じます。後で開きます。音量が変わっています。40%だったのに最大になっているかもしれません。ヘッドフォンからスピーカーに切り替わっているかもしれません。ゼロかもしれません。スリープ前は問題なかったのに — 今は間違っています。</p>
 
@@ -490,10 +481,9 @@ export const jaArticles: ArticleSet = {
   "mac-audio-music-production-daw": {
     slug: "mac-audio-music-production-daw",
     title: "Macでの音楽制作用オーディオ：DAWとコミュニケーションを別々に制御",
-    description:
-      "Logic ProやAbletonを使いながらDiscord通話中？DAWをフル音質で聴きながらボイスチャットを快適なレベルに保つ方法。",
+    description: "Logic ProやAbletonを使いながらDiscord通話中？DAWをフル音質で聴きながらボイスチャットを快適なレベルに保つ方法。",
     date: "2026-03-28",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>Logic Pro（またはAbleton、FL Studio）で音楽を制作しています。コラボレーターとDiscordでも通話中です。問題：DAW出力とDiscordが同じ音量レベルで競合しています。ミックスをクリアに聴くためにLogicを上げるとDiscordが耳を突きます。Discord用に下げるとミックスが評価するには小さすぎます。</p>
 
@@ -545,10 +535,9 @@ export const jaArticles: ArticleSet = {
   "apple-music-volume-too-low-mac": {
     slug: "apple-music-volume-too-low-mac",
     title: "MacでApple Musicの音量が小さすぎる？修正とブースト方法",
-    description:
-      "MacでApple Musicが最大音量でもまだ小さい？サウンドチェック、EQ設定を確認し、Apple Musicを100%以上にブーストする方法。",
+    description: "MacでApple Musicが最大音量でもまだ小さい？サウンドチェック、EQ設定を確認し、Apple Musicを100%以上にブーストする方法。",
     date: "2026-03-30",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>Apple Musicがフルボリュームです。Macもフルボリュームです。大きく聞こえるはずの曲がかろうじて聞こえます。一方、Spotifyに切り替えると — 同じ曲、同じ音量 — 明らかに大きいです。何が起きているのでしょう？</p>
 
@@ -596,10 +585,9 @@ export const jaArticles: ArticleSet = {
   "free-volume-mixer-mac": {
     slug: "free-volume-mixer-mac",
     title: "Mac用無料ボリュームミキサー：実際に何が得られるか（何が得られないか）",
-    description:
-      "Mac用の無料のアプリごとのボリュームミキサーをお探しですか？無料オプションが提供するもの、不足しているもの、有料が価値あるときの正直な分析。",
+    description: "Mac用の無料のアプリごとのボリュームミキサーをお探しですか？無料オプションが提供するもの、不足しているもの、有料が価値あるときの正直な分析。",
     date: "2026-04-03",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `
 <p>「Mac用無料ボリュームミキサー」を検索すると、主に1つの結果が見つかります：<strong>Background Music</strong>。macOS用の注目すべき無料のオープンソースアプリごと音量制御アプリはこれだけです。実際に何が得られるか、そして何を諦めるか見てみましょう。</p>
 
@@ -674,10 +662,9 @@ export const jaArticles: ArticleSet = {
   "balance-music-voice-chat-volume-mac": {
     slug: "balance-music-voice-chat-volume-mac",
     title: "Macで音楽とボイスチャットの音量バランスを取る方法",
-    description:
-      "Discordで音楽が大きすぎる。またはSpotifyの下で通話が小さすぎる。macOSではバランスが取れない — 完璧な比率を設定する方法。",
+    description: "Discordで音楽が大きすぎる。またはSpotifyの下で通話が小さすぎる。macOSではバランスが取れない — 完璧な比率を設定する方法。",
     date: "2026-04-05",
-    readTime: "4分で読める",
+    readTime: "4分で読めます",
     content: `
 <p>Discord（またはZoom、FaceTime）で友達と話しながら音楽を聴きたいとします。音楽は存在感があるが圧倒しない。ボイスチャットはクリアで支配的。シンプルなリクエスト。macOSでは不可能です。</p>
 
@@ -725,10 +712,9 @@ export const jaArticles: ArticleSet = {
   "mac-volume-control-complete-guide": {
     slug: "mac-volume-control-complete-guide",
     title: "Mac音量制御：完全ガイド（2026年版）",
-    description:
-      "macOSでのオーディオ制御について知っておくべきすべて — 基本的なキーボードショートカットからアプリごとの音量、出力切り替え、自動化まで。",
+    description: "macOSでのオーディオ制御について知っておくべきすべて — 基本的なキーボードショートカットからアプリごとの音量、出力切り替え、自動化まで。",
     date: "2026-06-12",
-    readTime: "12分で読める",
+    readTime: "12分で読めます",
     content: `
 <p>macOSはボリュームスライダーとミュートボタンを提供します。それがAppleの内蔵オーディオ制御の範囲です。しかし、Macには表面に出ているよりもはるかに多くのオーディオ機能があります — 隠されたキーボードショートカット、アプリごとの音量ツール、出力デバイス管理、ほとんどのユーザーが発見しない自動化機能。</p>
 
@@ -828,10 +814,9 @@ export const jaArticles: ArticleSet = {
   "vlc-volume-too-low-mac": {
     slug: "vlc-volume-too-low-mac",
     title: "MacでVLCの音量が小さすぎる？200%以上にブーストする方法",
-    description:
-      "VLCが最大音量でも動画がまだ小さすぎる？VLCには内蔵200%ブーストがあります — さらにアプリごとのボリュームミキサーでさらに大きくできます。",
+    description: "VLCが最大音量でも動画がまだ小さすぎる？VLCには内蔵200%ブーストがあります — さらにアプリごとのボリュームミキサーでさらに大きくできます。",
     date: "2026-04-08",
-    readTime: "4分で読める",
+    readTime: "4分で読めます",
     content: `
 <p>VLCで動画を観ています。セリフが小さい。VLCの音量を最大に。Macの音量を最大に。まだちゃんと聞こえない。動画が単に小さな音で録画されていたのです。</p>
 
@@ -875,10 +860,9 @@ export const jaArticles: ArticleSet = {
   "disable-audio-ducking-mac": {
     slug: "disable-audio-ducking-mac",
     title: "Macでオーディオダッキングを無効にする方法（または自分で制御する方法）",
-    description:
-      "macOSやアプリが通話中に許可なく音楽を下げ続ける。不要なオーディオダッキングを止める方法 — または自分が制御できるダッキングに置き換える方法。",
+    description: "macOSやアプリが通話中に許可なく音楽を下げ続ける。不要なオーディオダッキングを止める方法 — または自分が制御できるダッキングに置き換える方法。",
     date: "2026-04-10",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `
 <p>Zoom通話に参加します。音楽がほとんどなくなります。ボリュームコントロールには触れていません — 何かが勝手にやりました。これが<strong>オーディオダッキング</strong>：通話や重要なオーディオソースがアクティブなときにBGMを自動的に下げることです。</p>
 
@@ -934,10 +918,9 @@ export const jaArticles: ArticleSet = {
   "bluetooth-headphones-too-quiet-mac": {
     slug: "bluetooth-headphones-too-quiet-mac",
     title: "MacでBluetoothヘッドフォンが小さすぎる？効く修正方法すべて",
-    description:
-      "Bluetoothヘッドフォンはスマホでは問題ないのにMacでは小さい。コーデックの問題からmacOSの音量制限まで、すべての原因と修正方法。",
+    description: "Bluetoothヘッドフォンはスマホでは問題ないのにMacでは小さい。コーデックの問題からmacOSの音量制限まで、すべての原因と修正方法。",
     date: "2026-04-12",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `
 <p>Bluetoothヘッドフォンはスマホでは十分な音量です。Macに接続すると、すべてが静かです。音楽がくぐもって聞こえる。通話が聞き取りにくい。音量を最大にしてもまだ足りない。どうして？</p>
 
@@ -997,10 +980,9 @@ export const jaArticles: ArticleSet = {
   "mac-audio-obs-streaming-setup": {
     slug: "mac-audio-obs-streaming-setup",
     title: "OBSとストリーミング用Macオーディオ：視聴者が聴くものを制御する方法",
-    description:
-      "MacでOBSストリーミング中？視聴者はゲーム、音楽、アラート、Discordをすべて同じ音量で聴いています。オーディオソースのバランスを適切に取る方法。",
+    description: "MacでOBSストリーミング中？視聴者はゲーム、音楽、アラート、Discordをすべて同じ音量で聴いています。オーディオソースのバランスを適切に取る方法。",
     date: "2026-04-15",
-    readTime: "7分で読める",
+    readTime: "7分で読めます",
     content: `
 <p>MacでOBSを使ってストリーミングしています。ゲーム音声が大きい。Discord通話が進行中。SpotifyがBGMを再生。誰かがサブスクライブするとアラート音が鳴ります。視聴者はこれらすべてを同じ音量で聴きます — Discordのコールアウトが爆発と競合し、音楽が実況をかき消す混沌とした状態。</p>
 
@@ -1058,10 +1040,9 @@ export const jaArticles: ArticleSet = {
   "make-mac-remember-volume-per-app": {
     slug: "make-mac-remember-volume-per-app",
     title: "Macにアプリごとの音量を記憶させる方法",
-    description:
-      "SpotifyやZoomを再起動するたびに音量を再調整する必要がある。macOSに各アプリの音量レベルを自動的に記憶させる方法。",
+    description: "SpotifyやZoomを再起動するたびに音量を再調整する必要がある。macOSに各アプリの音量レベルを自動的に記憶させる方法。",
     date: "2026-04-18",
-    readTime: "4分で読める",
+    readTime: "4分で読めます",
     content: `
 <p>5分かけてオーディオレベルを完璧に調整します。Spotify 30%、Zoom 100%、Slack 15%。そしてMacを再起動します。またはSlackがクラッシュして再起動します。またはSpotifyを閉じて後で再開します。すべてのアプリがデフォルトの音量にリセットされます。すべてを再調整します。また。</p>
 
@@ -1108,63 +1089,336 @@ export const jaArticles: ArticleSet = {
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>
 `,
   },
-  "podcast-volume-too-low-mac": { slug: "podcast-volume-too-low-mac", title: "Macでポッドキャストの音量が小さすぎる？大きくする方法", description: "一部のポッドキャストは最大音量でもMacでは極端に静か。その理由と、他のアプリに影響せずにポッドキャスト音声を100%以上にブーストする方法。", date: "2026-04-20", readTime: "5分で読める", content: `<p>Macでポッドキャストを聴いています。ホストは問題なく聞こえますが、ゲスト — キッチンでラップトップマイクから録音 — はほとんど聞こえません。音量を100%に上げます。ホストは大きすぎますが、ゲストはまだ小さい。問題は録音にあり、Macではありません。</p><h2>一部のポッドキャストがとても小さい理由</h2><ul><li><strong>ゲストのマイク品質：</strong> ホストはプロ設備、ゲストはAirPods。レベル差は15dB以上になることも。</li><li><strong>後処理なし：</strong> プロ制作のポッドキャストはレベルを圧縮・正規化。多くはしない。</li><li><strong>ポッドキャストアプリは正規化しない：</strong> Apple PodcastsとSpotifyはポッドキャストコンテンツにほとんどまたはまったく音量正規化を適用しない。</li><li><strong>ダイナミックレンジ：</strong> 一部のプロデューサーは「自然な」サウンドのために高ダイナミックレンジを維持 — 静かな部分がとても静か。</li></ul><h2>システムレベルの修正：ポッドキャストアプリを100%以上にブースト</h2><p>普遍的な修正はポッドキャストアプリをmacOSの100%制限を超えて増幅すること。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに<strong>200%</strong>までのボリュームスライダーを提供します。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 静かなポッドキャストエピソード用にMacでApple Podcasts音量を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Apple Podcastsまたはポッドキャストアプリを160〜180%に設定し、Spotify音楽は40%、Slackは15%のまま。ポッドキャストが大きくなっても他のすべてが大音量になりません。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mac-audio-online-classes-lectures": { slug: "mac-audio-online-classes-lectures", title: "オンライン授業と講義のためのMacオーディオ設定", description: "講義を見ながらメモを取り、参考資料を検索し、クラスメートとチャット — すべて異なる音量で。Mac上の学生オーディオを管理する方法。", date: "2026-04-22", readTime: "5分で読める", content: `<p>Zoomでオンライン講義に出席中の学生です。別のタブに参考用のYouTubeチュートリアルを開いています。クラスメートがDiscordでチャット中。Spotifyがローファイビートを再生。Macはこれらすべてを1つの音量として扱います。</p><h2>アプリごとのオーディオ設定で勉強</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>で各アプリに独自のボリュームスライダーを設定し、理想的な学習オーディオ環境を構築：</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial学生設定 — 講義はフルボリューム、勉強用音楽は低く、通知はミュート" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><h3>講義プロファイル</h3><ul><li><strong>Zoom / Teams / Meet：</strong> 100%</li><li><strong>Spotify：</strong> 15%</li><li><strong>Discord：</strong> 10%</li><li><strong>ブラウザ：</strong> 40%</li><li><strong>iMessage：</strong> ミュート</li></ul><p>各プロファイルをボリュームプロファイルとして保存し、1日の進行に合わせてワンクリックで切り替え。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mac-sound-not-working-after-update": { slug: "mac-sound-not-working-after-update", title: "アップデート後にMacのサウンドが動かない？完全修正ガイド", description: "macOSをアップデートしたらサウンドが消えた、クラッキング、間違った音量で止まった。Macオーディオを再び動作させるすべての修正方法。", date: "2026-04-25", readTime: "7分で読める", content: `<p>macOSをアップデートしました。すべて問題なさそうでした — サウンドがないことに気づくまで。またはサウンドがクラッキング。または音量が固まっている。またはオーディオ出力デバイスが消えている。</p>
+  "podcast-volume-too-low-mac": {
+    slug: "podcast-volume-too-low-mac",
+    title: "Macでポッドキャストの音量が小さすぎる？大きくする方法",
+    description: "一部のポッドキャストは最大音量でもMacでは極端に静か。その理由と、他のアプリに影響せずにポッドキャスト音声を100%以上にブーストする方法。",
+    date: "2026-04-20",
+    readTime: "5分で読めます",
+    content: `<p>Macでポッドキャストを聴いています。ホストは問題なく聞こえますが、ゲスト — キッチンでラップトップマイクから録音 — はほとんど聞こえません。音量を100%に上げます。ホストは大きすぎますが、ゲストはまだ小さい。問題は録音にあり、Macではありません。</p><h2>一部のポッドキャストがとても小さい理由</h2><ul><li><strong>ゲストのマイク品質：</strong> ホストはプロ設備、ゲストはAirPods。レベル差は15dB以上になることも。</li><li><strong>後処理なし：</strong> プロ制作のポッドキャストはレベルを圧縮・正規化。多くはしない。</li><li><strong>ポッドキャストアプリは正規化しない：</strong> Apple PodcastsとSpotifyはポッドキャストコンテンツにほとんどまたはまったく音量正規化を適用しない。</li><li><strong>ダイナミックレンジ：</strong> 一部のプロデューサーは「自然な」サウンドのために高ダイナミックレンジを維持 — 静かな部分がとても静か。</li></ul><h2>システムレベルの修正：ポッドキャストアプリを100%以上にブースト</h2><p>普遍的な修正はポッドキャストアプリをmacOSの100%制限を超えて増幅すること。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに<strong>200%</strong>までのボリュームスライダーを提供します。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 静かなポッドキャストエピソード用にMacでApple Podcasts音量を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Apple Podcastsまたはポッドキャストアプリを160〜180%に設定し、Spotify音楽は40%、Slackは15%のまま。ポッドキャストが大きくなっても他のすべてが大音量になりません。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mac-audio-online-classes-lectures": {
+    slug: "mac-audio-online-classes-lectures",
+    title: "オンライン授業と講義のためのMacオーディオ設定",
+    description: "講義を見ながらメモを取り、参考資料を検索し、クラスメートとチャット — すべて異なる音量で。Mac上の学生オーディオを管理する方法。",
+    date: "2026-04-22",
+    readTime: "5分で読めます",
+    content: `<p>Zoomでオンライン講義に出席中の学生です。別のタブに参考用のYouTubeチュートリアルを開いています。クラスメートがDiscordでチャット中。Spotifyがローファイビートを再生。Macはこれらすべてを1つの音量として扱います。</p><h2>アプリごとのオーディオ設定で勉強</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>で各アプリに独自のボリュームスライダーを設定し、理想的な学習オーディオ環境を構築：</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial学生設定 — 講義はフルボリューム、勉強用音楽は低く、通知はミュート" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><h3>講義プロファイル</h3><ul><li><strong>Zoom / Teams / Meet：</strong> 100%</li><li><strong>Spotify：</strong> 15%</li><li><strong>Discord：</strong> 10%</li><li><strong>ブラウザ：</strong> 40%</li><li><strong>iMessage：</strong> ミュート</li></ul><p>各プロファイルをボリュームプロファイルとして保存し、1日の進行に合わせてワンクリックで切り替え。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mac-sound-not-working-after-update": {
+    slug: "mac-sound-not-working-after-update",
+    title: "アップデート後にMacのサウンドが動かない？完全修正ガイド",
+    description: "macOSをアップデートしたらサウンドが消えた、クラッキング、間違った音量で止まった。Macオーディオを再び動作させるすべての修正方法。",
+    date: "2026-04-25",
+    readTime: "7分で読めます",
+    content: `<p>macOSをアップデートしました。すべて問題なさそうでした — サウンドがないことに気づくまで。またはサウンドがクラッキング。または音量が固まっている。またはオーディオ出力デバイスが消えている。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-<h2>ステップ1：明らかなことを確認</h2><p>ボリュームアップキーを押す。システム設定 → サウンド → 出力で正しいデバイスが選択されていることを確認。</p><h2>ステップ2：Core Audioを再起動</h2><p>ターミナルを開き実行：</p><p><code>sudo killall coreaudiod</code></p><h2>ステップ3：NVRAM/PRAMをリセット</h2><p>Intel Mac：完全にシャットダウン → Option + Command + P + Rを20秒間押しながら電源オン。</p><h2>SoundDialで将来の問題を防止</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は他のオーディオツールと違い、システムオーディオドライバーをインストールしません。AppleのネイティブCore Audio Tap APIを使用し、macOSアップデートでもクリーンに動作します。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mute-all-apps-keyboard-shortcut-mac": { slug: "mute-all-apps-keyboard-shortcut-mac", title: "Macで全アプリを一度にミュートする方法（そして完璧にミュート解除）", description: "即座の静寂が必要？ミュートキーはすべてをミュートしますが、ミュート解除すると慎重にバランスした音量がリセット。Macでのより良いミュートと復元方法。", date: "2026-04-28", readTime: "4分で読める", content: `<p>誰かが部屋に入ってくる。上司から予期しない電話。即座の静寂が必要。ミュートキーを押します。すべて静かに。危機回避。</p><p>そして瞬間が過ぎます。再度ミュートキーを押します。すべてが戻りますが、Spotifyが30%、Zoomが100%、Slackが15%だったことは記憶されていません。</p><h2>よりスマートなミュート：アプリごとのミュートオール</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>には「全ミュート」キーボードショートカット：<strong>Control + Option + M（⌃⌥M）</strong>。</p><p>押すと：すべてのアプリが個別にミュート（各アプリの音量状態を保存）。再度押すと：すべてのアプリがミュート解除、各アプリがミュート前の<strong>正確な</strong>音量に復元。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialミュートオールショートカット — Control+Option+Mで音量復元付きの全アプリミュート・ミュート解除" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "google-meet-volume-too-low-mac": { slug: "google-meet-volume-too-low-mac", title: "MacでGoogle Meetの音量が小さすぎる？修正方法", description: "Google Meetの声が最大音量でもほとんど聞こえない。MeetがChromeを通して動作する理由、オーディオへの影響、ブースト方法。", date: "2026-05-01", readTime: "5分で読める", content: `<p>Google MeetにはネイティブMacアプリがありません — ブラウザ内で動作します。つまりMeetのオーディオはChrome（またはSafari）のオーディオストリームの一部です。</p><h2>Google Meet（Chrome）を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はChromeに<strong>200%</strong>まで上がる独自のボリュームスライダーを提供。Google MeetはChrome内で動作するため、ChromeをブーストするとMeetもブースト。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでGoogle Meet（Chrome）音量を100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mac-alert-volume-separate-from-media": { slug: "mac-alert-volume-separate-from-media", title: "Macのアラート音量をメディア音量と別に設定する方法", description: "macOSには隠れたアラート音量スライダーがありますが、システムサウンドのみカバー。Mac上で通知とメディアの音量を本当に分離する方法。", date: "2026-05-02", readTime: "5分で読める", content: `<p>音楽が完璧なレベル。するとmacOSのアラート音が鳴り、音楽と比べて痛いほど大きい。2つの別々の音量コントロールが欲しい：メディア用と通知用。</p><h2>本当の修正方法：通知アプリのアプリごと音量制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに独自のボリュームスライダーを提供。通知の多いアプリをさりげないレベルに設定し、メディアアプリは快適なリスニング音量に。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで通知アプリ音量をメディアアプリ音量から分離" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "facetime-volume-too-low-mac": { slug: "facetime-volume-too-low-mac", title: "MacでFaceTime通話の音量が小さすぎる？修正方法", description: "MacでFaceTimeの音声がフルボリュームでもほとんど聞こえない。サウンド設定からFaceTimeを100%以上にブーストするまですべての修正。", date: "2026-05-04", readTime: "5分で読める", content: `<p>iPhoneでのFaceTime通話は問題ない。でもMacでは、相手が3部屋先からささやいているような音。音量は最大。</p><h2>FaceTime音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でFaceTimeの音量を<strong>200%</strong>まで上げられます。メニューバーパネルを開き、FaceTimeを見つけ、スライダーを100%以上にドラッグ。他のアプリに影響せずにリアルタイムで通話音声が増幅されます。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでFaceTime通話音量を100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、サンドボックス化、買い切り、サブスクリプションなし。</p>` },
-  "mac-volume-keyboard-shortcuts": { slug: "mac-volume-keyboard-shortcuts", title: "おそらく知らないMac音量キーボードショートカット", description: "基本のボリュームキー以上 — 細かい制御、特定アプリのミュート、アプリごとの音量ショートカット。すべてのMacオーディオキーボードテクニック解説。", date: "2026-05-06", readTime: "5分で読める", content: `<p>すべてのMacユーザーがボリュームの上下・ミュートキーを知っています。しかしmacOSにはほとんどの人が発見しないオーディオ制御の隠しキーボードテクニックがいくつかあります。</p><h2>全員が知るべき内蔵ショートカット</h2><h3>細かい音量調整</h3><p><strong>Option + Shift</strong>を押しながらボリュームキー。各プレスで通常の1/4ステップ、16の代わりに<strong>64レベル</strong>。</p><h3>サイレント音量調整</h3><p><strong>Shift</strong>を押しながらボリューム上下。音量は変わりますがフィードバック「ポップ」音なし。</p><h2>SoundDialのアプリごとの音量キーボードショートカット</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は2つのグローバルキーボードショートカットを追加：<strong>⌃⌥S</strong>でミキサー切り替え、<strong>⌃⌥M</strong>で全ミュート。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialキーボードショートカット — Control+Option+Sで切り替え、Control+Option+Mで全ミュート" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "background-music-app-not-working-mac": { slug: "background-music-app-not-working-mac", title: "macOSでBackground Musicアプリが動かない？代替を試す", description: "無料のBackground Musicアプリがmacosアップデート後に動かなくなった？壊れる理由、対処法、2026年に実際に動く最良の代替。", date: "2026-06-08", readTime: "5分で読める", content: `<p>Background Musicはmacosアップデート後に壊れることで知られています。<strong>仮想オーディオデバイスドライバー</strong>をインストールして動作し、このドライバーがmacOSアップデートで壊れます。</p><h2>仮想オーディオデバイスを使用しない代替</h2><h3>SoundDial</h3><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はモダンなAudio Tap APIを使用 — 仮想オーディオデバイス、システムドライバー、カーネル拡張なし。macOSアップデートでも壊れません。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 仮想オーディオデバイスをインストールしないBackground Music代替" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "soundsource-alternative-mac": { slug: "soundsource-alternative-mac", title: "SoundSource代替：より軽量で安価なMac用アプリごとの音量制御", description: "SoundSourceはパワフルだが高価で複雑。オーディオエンジニアリングツールキットなしでアプリごとの音量制御だけが必要なら、代わりに使うべきもの。", date: "2026-06-06", readTime: "6分で読める", content: `<p>Rogue AmoebaのSoundSourceは最も長く続いているMacのアプリごと音量制御アプリです。パワフルで$39、システムオーディオドライバー（ACE）が必要で、ほとんどの人が使わない機能が多い。</p><h2>SoundDial：ほとんどの人が実際に必要なものに焦点</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は異なるアプローチ：コアジョブを完璧に、ほとんどの人が必要としない機能はスキップし、SoundSourceにないワークフロー機能を追加。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ボリュームプロファイルとオートダッキング付きのより軽量なSoundSource代替" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>SoundDialは<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、サンドボックス化、クリーンインストール。買い切り、サブスクリプションなし。</p>` },
-  "mac-volume-too-loud-at-lowest-setting": { slug: "mac-volume-too-loud-at-lowest-setting", title: "最低設定でもMacの音量が大きすぎる？さらに静かにする方法", description: "最低のボリュームノッチでもMacが大きすぎる — 特にヘッドフォンで深夜に。より細かい音量制御と最小値以下にする方法。", date: "2026-05-08", readTime: "5分で読める", content: `<p>深夜。ヘッドフォン着用。最低ノッチまでボリュームダウン。まだ大きすぎる。次のプレスはミュート。間に何もない。3%が欲しいのにmacOSは約6%から0%にジャンプ。</p><h2>内蔵修正：1/4ステップ音量調整</h2><p><strong>Option + Shift</strong>を押しながらボリュームキー。通常ノッチ間のレベルが見つかります。</p><h2>本当の修正方法：細かい制御のためのアプリごとの音量</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はアプリごとに1%刻み、0%〜200%のボリュームスライダーを提供。Spotifyを5%、Zoomを40%に同時に設定可能。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでの1%刻みのアプリごとの細かい音量制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "one-airpod-louder-than-the-other-fix": { slug: "one-airpod-louder-than-the-other-fix", title: "片方のAirPodが大きい？すべての修正方法解説", description: "左のAirPodが右より静か（またはその逆）。耳垢からmacOSバランス設定まで、すべての原因と修正方法。", date: "2026-05-10", readTime: "5分で読める", content: `<p>片方のAirPodは問題なし。もう片方が目立って静か。音楽が偏って聞こえる。</p>
+<h2>ステップ1：明らかなことを確認</h2><p>ボリュームアップキーを押す。システム設定 → サウンド → 出力で正しいデバイスが選択されていることを確認。</p><h2>ステップ2：Core Audioを再起動</h2><p>ターミナルを開き実行：</p><p><code>sudo killall coreaudiod</code></p><h2>ステップ3：NVRAM/PRAMをリセット</h2><p>Intel Mac：完全にシャットダウン → Option + Command + P + Rを20秒間押しながら電源オン。</p><h2>SoundDialで将来の問題を防止</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は他のオーディオツールと違い、システムオーディオドライバーをインストールしません。AppleのネイティブCore Audio Tap APIを使用し、macOSアップデートでもクリーンに動作します。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mute-all-apps-keyboard-shortcut-mac": {
+    slug: "mute-all-apps-keyboard-shortcut-mac",
+    title: "Macで全アプリを一度にミュートする方法（そして完璧にミュート解除）",
+    description: "即座の静寂が必要？ミュートキーはすべてをミュートしますが、ミュート解除すると慎重にバランスした音量がリセット。Macでのより良いミュートと復元方法。",
+    date: "2026-04-28",
+    readTime: "4分で読めます",
+    content: `<p>誰かが部屋に入ってくる。上司から予期しない電話。即座の静寂が必要。ミュートキーを押します。すべて静かに。危機回避。</p><p>そして瞬間が過ぎます。再度ミュートキーを押します。すべてが戻りますが、Spotifyが30%、Zoomが100%、Slackが15%だったことは記憶されていません。</p><h2>よりスマートなミュート：アプリごとのミュートオール</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>には「全ミュート」キーボードショートカット：<strong>Control + Option + M（⌃⌥M）</strong>。</p><p>押すと：すべてのアプリが個別にミュート（各アプリの音量状態を保存）。再度押すと：すべてのアプリがミュート解除、各アプリがミュート前の<strong>正確な</strong>音量に復元。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialミュートオールショートカット — Control+Option+Mで音量復元付きの全アプリミュート・ミュート解除" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "google-meet-volume-too-low-mac": {
+    slug: "google-meet-volume-too-low-mac",
+    title: "MacでGoogle Meetの音量が小さすぎる？修正方法",
+    description: "Google Meetの声が最大音量でもほとんど聞こえない。MeetがChromeを通して動作する理由、オーディオへの影響、ブースト方法。",
+    date: "2026-05-01",
+    readTime: "5分で読めます",
+    content: `<p>Google MeetにはネイティブMacアプリがありません — ブラウザ内で動作します。つまりMeetのオーディオはChrome（またはSafari）のオーディオストリームの一部です。</p><h2>Google Meet（Chrome）を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はChromeに<strong>200%</strong>まで上がる独自のボリュームスライダーを提供。Google MeetはChrome内で動作するため、ChromeをブーストするとMeetもブースト。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでGoogle Meet（Chrome）音量を100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mac-alert-volume-separate-from-media": {
+    slug: "mac-alert-volume-separate-from-media",
+    title: "Macのアラート音量をメディア音量と別に設定する方法",
+    description: "macOSには隠れたアラート音量スライダーがありますが、システムサウンドのみカバー。Mac上で通知とメディアの音量を本当に分離する方法。",
+    date: "2026-05-02",
+    readTime: "5分で読めます",
+    content: `<p>音楽が完璧なレベル。するとmacOSのアラート音が鳴り、音楽と比べて痛いほど大きい。2つの別々の音量コントロールが欲しい：メディア用と通知用。</p><h2>本当の修正方法：通知アプリのアプリごと音量制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに独自のボリュームスライダーを提供。通知の多いアプリをさりげないレベルに設定し、メディアアプリは快適なリスニング音量に。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで通知アプリ音量をメディアアプリ音量から分離" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、€14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "facetime-volume-too-low-mac": {
+    slug: "facetime-volume-too-low-mac",
+    title: "MacでFaceTime通話の音量が小さすぎる？修正方法",
+    description: "MacでFaceTimeの音声がフルボリュームでもほとんど聞こえない。サウンド設定からFaceTimeを100%以上にブーストするまですべての修正。",
+    date: "2026-05-04",
+    readTime: "5分で読めます",
+    content: `<p>iPhoneでのFaceTime通話は問題ない。でもMacでは、相手が3部屋先からささやいているような音。音量は最大。</p><h2>FaceTime音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でFaceTimeの音量を<strong>200%</strong>まで上げられます。メニューバーパネルを開き、FaceTimeを見つけ、スライダーを100%以上にドラッグ。他のアプリに影響せずにリアルタイムで通話音声が増幅されます。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでFaceTime通話音量を100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、サンドボックス化、買い切り、サブスクリプションなし。</p>`,
+  },
+  "mac-volume-keyboard-shortcuts": {
+    slug: "mac-volume-keyboard-shortcuts",
+    title: "おそらく知らないMac音量キーボードショートカット",
+    description: "基本のボリュームキー以上 — 細かい制御、特定アプリのミュート、アプリごとの音量ショートカット。すべてのMacオーディオキーボードテクニック解説。",
+    date: "2026-05-06",
+    readTime: "5分で読めます",
+    content: `<p>すべてのMacユーザーがボリュームの上下・ミュートキーを知っています。しかしmacOSにはほとんどの人が発見しないオーディオ制御の隠しキーボードテクニックがいくつかあります。</p><h2>全員が知るべき内蔵ショートカット</h2><h3>細かい音量調整</h3><p><strong>Option + Shift</strong>を押しながらボリュームキー。各プレスで通常の1/4ステップ、16の代わりに<strong>64レベル</strong>。</p><h3>サイレント音量調整</h3><p><strong>Shift</strong>を押しながらボリューム上下。音量は変わりますがフィードバック「ポップ」音なし。</p><h2>SoundDialのアプリごとの音量キーボードショートカット</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は2つのグローバルキーボードショートカットを追加：<strong>⌃⌥S</strong>でミキサー切り替え、<strong>⌃⌥M</strong>で全ミュート。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialキーボードショートカット — Control+Option+Sで切り替え、Control+Option+Mで全ミュート" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "background-music-app-not-working-mac": {
+    slug: "background-music-app-not-working-mac",
+    title: "macOSでBackground Musicアプリが動かない？代替を試す",
+    description: "無料のBackground Musicアプリがmacosアップデート後に動かなくなった？壊れる理由、対処法、2026年に実際に動く最良の代替。",
+    date: "2026-06-08",
+    readTime: "5分で読めます",
+    content: `<p>Background Musicはmacosアップデート後に壊れることで知られています。<strong>仮想オーディオデバイスドライバー</strong>をインストールして動作し、このドライバーがmacOSアップデートで壊れます。</p><h2>仮想オーディオデバイスを使用しない代替</h2><h3>SoundDial</h3><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はモダンなAudio Tap APIを使用 — 仮想オーディオデバイス、システムドライバー、カーネル拡張なし。macOSアップデートでも壊れません。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 仮想オーディオデバイスをインストールしないBackground Music代替" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "soundsource-alternative-mac": {
+    slug: "soundsource-alternative-mac",
+    title: "SoundSource代替：より軽量で安価なMac用アプリごとの音量制御",
+    description: "SoundSourceはパワフルだが高価で複雑。オーディオエンジニアリングツールキットなしでアプリごとの音量制御だけが必要なら、代わりに使うべきもの。",
+    date: "2026-06-06",
+    readTime: "6分で読めます",
+    content: `<p>Rogue AmoebaのSoundSourceは最も長く続いているMacのアプリごと音量制御アプリです。パワフルで$39、システムオーディオドライバー（ACE）が必要で、ほとんどの人が使わない機能が多い。</p><h2>SoundDial：ほとんどの人が実際に必要なものに焦点</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は異なるアプローチ：コアジョブを完璧に、ほとんどの人が必要としない機能はスキップし、SoundSourceにないワークフロー機能を追加。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — ボリュームプロファイルとオートダッキング付きのより軽量なSoundSource代替" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>SoundDialは<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で入手可能 — Apple審査済み、サンドボックス化、クリーンインストール。買い切り、サブスクリプションなし。</p>`,
+  },
+  "mac-volume-too-loud-at-lowest-setting": {
+    slug: "mac-volume-too-loud-at-lowest-setting",
+    title: "最低設定でもMacの音量が大きすぎる？さらに静かにする方法",
+    description: "最低のボリュームノッチでもMacが大きすぎる — 特にヘッドフォンで深夜に。より細かい音量制御と最小値以下にする方法。",
+    date: "2026-05-08",
+    readTime: "5分で読めます",
+    content: `<p>深夜。ヘッドフォン着用。最低ノッチまでボリュームダウン。まだ大きすぎる。次のプレスはミュート。間に何もない。3%が欲しいのにmacOSは約6%から0%にジャンプ。</p><h2>内蔵修正：1/4ステップ音量調整</h2><p><strong>Option + Shift</strong>を押しながらボリュームキー。通常ノッチ間のレベルが見つかります。</p><h2>本当の修正方法：細かい制御のためのアプリごとの音量</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はアプリごとに1%刻み、0%〜200%のボリュームスライダーを提供。Spotifyを5%、Zoomを40%に同時に設定可能。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでの1%刻みのアプリごとの細かい音量制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "one-airpod-louder-than-the-other-fix": {
+    slug: "one-airpod-louder-than-the-other-fix",
+    title: "片方のAirPodが大きい？すべての修正方法解説",
+    description: "左のAirPodが右より静か（またはその逆）。耳垢からmacOSバランス設定まで、すべての原因と修正方法。",
+    date: "2026-05-10",
+    readTime: "5分で読めます",
+    content: `<p>片方のAirPodは問題なし。もう片方が目立って静か。音楽が偏って聞こえる。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-<h2>1. AirPodsを清掃</h2><p>最も一般的な原因は物理的なもの：片方のAirPodのスピーカーメッシュを耳垢や汚れが部分的にブロック。</p><h2>2. macOSのオーディオバランスを確認</h2><p><strong>システム設定 → アクセシビリティ → オーディオ</strong>で<strong>バランス</strong>スライダーがLとRの間で正確に中央にあることを確認。</p><h2>3. AirPodsをリセット</h2><p>両方のAirPodsをケースに入れ、蓋を閉じ30秒待ち、蓋を開け、背面のセットアップボタンを琥珀色→白に点滅するまで15秒間長押し。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "netflix-streaming-audio-too-quiet-mac": { slug: "netflix-streaming-audio-too-quiet-mac", title: "MacでNetflixとストリーミング音声が小さすぎる？修正方法", description: "セリフはささやくように静か、爆発は部屋を揺らす。Macでのストリーミング音声レベルの修正方法と、静かなコンテンツを100%以上にブースト。", date: "2026-05-17", readTime: "5分で読める", content: `<p>Netflixで映画を観ています。キャラクターが会話中 — ほとんど聞こえない。音量を上げます。アクションシーンが始まる。爆発が耳をつんざく。</p><h2>ストリーミング音声を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>で任意のアプリを<strong>200%</strong>にブースト可能。Safariやnetflixアプリが小さすぎれば、スライダーを100%以上に。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macでクリアなセリフとストリーミング音声のためにNetflix音声を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mac-audio-setup-remote-work": { slug: "mac-audio-setup-remote-work", title: "リモートワーク用Macオーディオ設定：完全ガイド", description: "通話、音楽、通知、集中時間 — すべて1台のMacで。注意を奪い合わないようにオーディオを設定する方法。", date: "2026-05-12", readTime: "8分で読める", content: `<p>Mac上でのリモートワークは、コンピュータが同時にオフィス電話、ラジオ、通知センター、ディープワークステーションであることを意味します。macOSはすべてを同じに扱います。</p><h2>各モードにプロファイルを保存</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でリモートワーク用オーディオを希望通りに設定：</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialリモートワークオーディオ設定 — macOSでZoom、Spotify、Slackに異なる音量レベル" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><strong>会議プロファイル：</strong> Zoom/Teams: 100%、Spotify: ミュート、Slack: ミュート。<strong>集中ワークプロファイル：</strong> Spotify: 30%、Slack: 10%、Zoom: 80%。ワンクリックで切り替え。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "stop-browser-tabs-auto-playing-audio-mac": { slug: "stop-browser-tabs-auto-playing-audio-mac", title: "Macでブラウザタブの音声自動再生を止める方法", description: "バックグラウンドタブが突然音声を再生。広告、動画、ニュースサイト — macOSで不正タブを消音しブラウザ音声を制御する方法。", date: "2026-05-14", readTime: "5分で読める", content: `<p>20個のタブを開いています。1つで作業中。突然 — どこかから音声が再生開始。ブラウザタブの自動再生音声は最も煩わしい体験の1つ。</p><h2>より広い問題：ブラウザ音声vs.他のすべて</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はブラウザに他のすべてのアプリとは独立した独自のボリュームスライダーを提供。Zoomを100%のままSafariを30%に。ワンクリックでChromeを完全ミュートしSpotifyは再生し続ける。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで他のアプリとは独立してブラウザ音量を制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "discord-volume-too-loud-mac": { slug: "discord-volume-too-loud-mac", title: "MacでDiscordの音量が大きすぎる（または小さすぎる）？修正方法", description: "Discordがゲームをかき消す、またはチームメイトが聞こえない。macOSで他のすべてとは独立してDiscordの音量を制御する方法。", date: "2026-05-21", readTime: "5分で読める", content: `<p>DiscordにはMacで2つの音量問題があります。大きすぎるか小さすぎるか。問題はmacOSがDiscordの音量を独立して調整させないことです。</p><h2>SoundDialで修正</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はDiscordにメニューバーで独自のボリュームスライダーを提供。ゲーム、音楽、その他に触れずに好きなレベルに設定。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでゲームと音楽とは独立してDiscord音量を制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "switch-audio-output-quickly-mac": { slug: "switch-audio-output-quickly-mac", title: "Macでオーディオ出力を素早く切り替える方法（設定を掘らずに）", description: "Macでスピーカー、ヘッドフォン、モニター間の切り替えに多くのクリックが必要。オーディオ出力デバイスを即座に変更するより速い方法。", date: "2026-05-19", readTime: "5分で読める", content: `<p>ヘッドフォンを外してスピーカーに。AirPodsを接続してmacOSが間違ったデバイスを選ぶ。毎回：システム設定 → サウンド → 出力 → スクロール → クリック。多すぎるクリック。</p><h2>方法1：Optionクリックでボリュームアイコン</h2><p><strong>Option（⌥）</strong>を押しながらメニューバーのボリュームアイコンをクリック。利用可能なすべての出力デバイスリストが表示。クリックで切り替え。</p><h2>方法5：SoundDialの内蔵デバイス切り替え</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーポップオーバーに出力デバイスピッカーを含む。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 1つのメニューバーパネルでオーディオ出力デバイス切り替えとアプリごとの音量制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "fix-audio-crackling-popping-mac": { slug: "fix-audio-crackling-popping-mac", title: "Macのオーディオクラッキングとポッピングを修正：完全ガイド", description: "Macのオーディオがクラッキング、ポッピング、スタッター — 音楽、通話、動画再生中。macOSオーディオグリッチのすべての既知の原因と修正。", date: "2026-05-16", readTime: "8分で読める", content: `<p>音楽を聴いていてポップが聞こえる。次にクラッキング。オーディオが一瞬途切れて戻るスタッター。曲ではなくMacの問題です。</p>
+<h2>1. AirPodsを清掃</h2><p>最も一般的な原因は物理的なもの：片方のAirPodのスピーカーメッシュを耳垢や汚れが部分的にブロック。</p><h2>2. macOSのオーディオバランスを確認</h2><p><strong>システム設定 → アクセシビリティ → オーディオ</strong>で<strong>バランス</strong>スライダーがLとRの間で正確に中央にあることを確認。</p><h2>3. AirPodsをリセット</h2><p>両方のAirPodsをケースに入れ、蓋を閉じ30秒待ち、蓋を開け、背面のセットアップボタンを琥珀色→白に点滅するまで15秒間長押し。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "netflix-streaming-audio-too-quiet-mac": {
+    slug: "netflix-streaming-audio-too-quiet-mac",
+    title: "MacでNetflixとストリーミング音声が小さすぎる？修正方法",
+    description: "セリフはささやくように静か、爆発は部屋を揺らす。Macでのストリーミング音声レベルの修正方法と、静かなコンテンツを100%以上にブースト。",
+    date: "2026-05-17",
+    readTime: "5分で読めます",
+    content: `<p>Netflixで映画を観ています。キャラクターが会話中 — ほとんど聞こえない。音量を上げます。アクションシーンが始まる。爆発が耳をつんざく。</p><h2>ストリーミング音声を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>で任意のアプリを<strong>200%</strong>にブースト可能。Safariやnetflixアプリが小さすぎれば、スライダーを100%以上に。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macでクリアなセリフとストリーミング音声のためにNetflix音声を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mac-audio-setup-remote-work": {
+    slug: "mac-audio-setup-remote-work",
+    title: "リモートワーク用Macオーディオ設定：完全ガイド",
+    description: "通話、音楽、通知、集中時間 — すべて1台のMacで。注意を奪い合わないようにオーディオを設定する方法。",
+    date: "2026-05-12",
+    readTime: "8分で読めます",
+    content: `<p>Mac上でのリモートワークは、コンピュータが同時にオフィス電話、ラジオ、通知センター、ディープワークステーションであることを意味します。macOSはすべてを同じに扱います。</p><h2>各モードにプロファイルを保存</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でリモートワーク用オーディオを希望通りに設定：</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialリモートワークオーディオ設定 — macOSでZoom、Spotify、Slackに異なる音量レベル" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><strong>会議プロファイル：</strong> Zoom/Teams: 100%、Spotify: ミュート、Slack: ミュート。<strong>集中ワークプロファイル：</strong> Spotify: 30%、Slack: 10%、Zoom: 80%。ワンクリックで切り替え。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "stop-browser-tabs-auto-playing-audio-mac": {
+    slug: "stop-browser-tabs-auto-playing-audio-mac",
+    title: "Macでブラウザタブの音声自動再生を止める方法",
+    description: "バックグラウンドタブが突然音声を再生。広告、動画、ニュースサイト — macOSで不正タブを消音しブラウザ音声を制御する方法。",
+    date: "2026-05-14",
+    readTime: "5分で読めます",
+    content: `<p>20個のタブを開いています。1つで作業中。突然 — どこかから音声が再生開始。ブラウザタブの自動再生音声は最も煩わしい体験の1つ。</p><h2>より広い問題：ブラウザ音声vs.他のすべて</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はブラウザに他のすべてのアプリとは独立した独自のボリュームスライダーを提供。Zoomを100%のままSafariを30%に。ワンクリックでChromeを完全ミュートしSpotifyは再生し続ける。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで他のアプリとは独立してブラウザ音量を制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "discord-volume-too-loud-mac": {
+    slug: "discord-volume-too-loud-mac",
+    title: "MacでDiscordの音量が大きすぎる（または小さすぎる）？修正方法",
+    description: "Discordがゲームをかき消す、またはチームメイトが聞こえない。macOSで他のすべてとは独立してDiscordの音量を制御する方法。",
+    date: "2026-05-21",
+    readTime: "5分で読めます",
+    content: `<p>DiscordにはMacで2つの音量問題があります。大きすぎるか小さすぎるか。問題はmacOSがDiscordの音量を独立して調整させないことです。</p><h2>SoundDialで修正</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はDiscordにメニューバーで独自のボリュームスライダーを提供。ゲーム、音楽、その他に触れずに好きなレベルに設定。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでゲームと音楽とは独立してDiscord音量を制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "switch-audio-output-quickly-mac": {
+    slug: "switch-audio-output-quickly-mac",
+    title: "Macでオーディオ出力を素早く切り替える方法（設定を掘らずに）",
+    description: "Macでスピーカー、ヘッドフォン、モニター間の切り替えに多くのクリックが必要。オーディオ出力デバイスを即座に変更するより速い方法。",
+    date: "2026-05-19",
+    readTime: "5分で読めます",
+    content: `<p>ヘッドフォンを外してスピーカーに。AirPodsを接続してmacOSが間違ったデバイスを選ぶ。毎回：システム設定 → サウンド → 出力 → スクロール → クリック。多すぎるクリック。</p><h2>方法1：Optionクリックでボリュームアイコン</h2><p><strong>Option（⌥）</strong>を押しながらメニューバーのボリュームアイコンをクリック。利用可能なすべての出力デバイスリストが表示。クリックで切り替え。</p><h2>方法5：SoundDialの内蔵デバイス切り替え</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーポップオーバーに出力デバイスピッカーを含む。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 1つのメニューバーパネルでオーディオ出力デバイス切り替えとアプリごとの音量制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "fix-audio-crackling-popping-mac": {
+    slug: "fix-audio-crackling-popping-mac",
+    title: "Macのオーディオクラッキングとポッピングを修正：完全ガイド",
+    description: "Macのオーディオがクラッキング、ポッピング、スタッター — 音楽、通話、動画再生中。macOSオーディオグリッチのすべての既知の原因と修正。",
+    date: "2026-05-16",
+    readTime: "8分で読めます",
+    content: `<p>音楽を聴いていてポップが聞こえる。次にクラッキング。オーディオが一瞬途切れて戻るスタッター。曲ではなくMacの問題です。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-<h2>1. Core Audioを再起動（クイックフィックス）</h2><p>ターミナルを開き実行：</p><p><code>sudo killall coreaudiod</code></p><p>多くの場合、クラッキングがすぐに止まります。</p><h2>SoundDialでオーディオ品質を管理</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はアクティブに使用していないアプリをミュートし、CPU負荷を軽減。特定のアプリのみ200%にブーストし、システム音量は70-80%の快適なレベルに。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "teams-volume-too-low-mac": { slug: "teams-volume-too-low-mac", title: "MacでMicrosoft Teamsの音量が小さすぎる？効くすべての修正", description: "最大音量でもTeamsで人の声がほとんど聞こえない。Teams設定からBluetoothコーデックまですべての原因と、通話音声を100%以上にブースト。", date: "2026-06-04", readTime: "7分で読める", content: `<p>Teams会議中。同僚がプレゼンしていますが、3部屋先のブリキ缶越しのような声。Mac音量100%。Teams音量100%。まだ小さすぎる。</p><h2>Teamsの音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でMicrosoft Teamsを含む任意のアプリの音量を<strong>200%</strong>にブースト。Teamsのスライダーを150%や180%にドラッグ。音楽、ブラウザ、他のアプリは現在のレベルのまま。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでMicrosoft Teams通話音量を100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "how-to-control-per-app-volume-on-mac": { slug: "how-to-control-per-app-volume-on-mac", title: "Macでアプリごとの音量を制御する方法", description: "macOSはすべてに1つのボリュームスライダー。すべてのアプリに個別の音量コントロールを得る方法と、それが思った以上に重要な理由。", date: "2026-05-20", readTime: "7分で読める", content: `<p>ビデオ通話中。Slackが鳴り続ける。BGMが流れている。ボリュームキーに手を伸ばし — すべてが静かに。macOSにはまさに1つのボリュームスライダーしかなく、すべてを一度に制御します。</p>
+<h2>1. Core Audioを再起動（クイックフィックス）</h2><p>ターミナルを開き実行：</p><p><code>sudo killall coreaudiod</code></p><p>多くの場合、クラッキングがすぐに止まります。</p><h2>SoundDialでオーディオ品質を管理</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はアクティブに使用していないアプリをミュートし、CPU負荷を軽減。特定のアプリのみ200%にブーストし、システム音量は70-80%の快適なレベルに。</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "teams-volume-too-low-mac": {
+    slug: "teams-volume-too-low-mac",
+    title: "MacでMicrosoft Teamsの音量が小さすぎる？効くすべての修正",
+    description: "最大音量でもTeamsで人の声がほとんど聞こえない。Teams設定からBluetoothコーデックまですべての原因と、通話音声を100%以上にブースト。",
+    date: "2026-06-04",
+    readTime: "7分で読めます",
+    content: `<p>Teams会議中。同僚がプレゼンしていますが、3部屋先のブリキ缶越しのような声。Mac音量100%。Teams音量100%。まだ小さすぎる。</p><h2>Teamsの音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でMicrosoft Teamsを含む任意のアプリの音量を<strong>200%</strong>にブースト。Teamsのスライダーを150%や180%にドラッグ。音楽、ブラウザ、他のアプリは現在のレベルのまま。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでMicrosoft Teams通話音量を100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "how-to-control-per-app-volume-on-mac": {
+    slug: "how-to-control-per-app-volume-on-mac",
+    title: "Macでアプリごとの音量を制御する方法",
+    description: "macOSはすべてに1つのボリュームスライダー。すべてのアプリに個別の音量コントロールを得る方法と、それが思った以上に重要な理由。",
+    date: "2026-05-20",
+    readTime: "7分で読めます",
+    content: `<p>ビデオ通話中。Slackが鳴り続ける。BGMが流れている。ボリュームキーに手を伸ばし — すべてが静かに。macOSにはまさに1つのボリュームスライダーしかなく、すべてを一度に制御します。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-<p>Windowsは2006年のVista以来、アプリごとのボリュームミキサーを持っています。20年後、macOSにはまだありません。</p><h2>SoundDial</h2><p>私は欲しかったMacボリュームミキサーが存在しなかったので<strong>SoundDial</strong>を作りました。メニューバーに常駐し、音を出しているすべてのアプリを表示し、各アプリに独自のスライダーを提供します。アプリごとのミュート、ボリュームブースト、プロファイル、通話が始まると音楽を下げるオートダッキング。買い切り、macOS 14以降、サブスクリプションなし。</p><p>macOSに内蔵されるべきだったボリュームミキサー。</p>` },
-  "mute-slack-notifications-mac-without-muting-everything": { slug: "mute-slack-notifications-mac-without-muting-everything", title: "他のすべてをミュートせずにMacでSlackをミュートする方法", description: "Slack通知が集中を妨げるが、音楽や通話は消したくない。macOSでSlackだけをミュートする方法。", date: "2026-05-24", readTime: "5分で読める", content: `<p>集中作業中。Spotifyが完璧なプレイリストを再生。すると — Slackが鳴る。繰り返し。Slackをミュートしたいが音楽は残したい。macOSは：すべてミュートか何もミュートしないか。</p><h2>オプション4：アプリごとの音量制御（本当の修正）</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はSlackに独立した独自のボリュームスライダーを提供。好きなレベルに設定 — またはワンクリックで完全ミュート。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでSlackミュートしSpotifyを通常音量で再生" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "volume-profiles-for-mac": { slug: "volume-profiles-for-mac", title: "Macで異なる状況用のボリュームプロファイルを設定する方法", description: "会議、集中作業、ゲーム、リラックス用の異なる音量設定 — ワンクリックで切り替え。macOSでのボリュームプロファイルの仕組み。", date: "2026-06-02", readTime: "5分で読める", content: `<p>午前9時、Zoom通話中 — Zoom 100%、Spotifyミュート、Slackミュート。午前10時、通話終了 — Spotify 40%、Slack 15%。状況が変わるたびに5〜6個のアプリを手動で調整する代わりに、各設定をプロファイルとして保存しワンクリックで切り替え。</p><h2>SoundDialでプロファイルを設定</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>には内蔵プロファイルシステムがあります。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialボリュームプロファイル — macOSで会議、集中、リラックスモードをワンクリック切り替え" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "zoom-call-volume-too-low-mac": { slug: "zoom-call-volume-too-low-mac", title: "MacでZoom通話の音量が小さすぎる？ブースト方法", description: "最大音量でもZoomで人がほとんど聞こえない。Zoomの設定からアプリごとのボリュームミキサーで通話音声を100%以上にブーストするまでのすべての修正。", date: "2026-05-26", readTime: "6分で読める", content: `<p>Zoom通話中。相手が話していますがほとんど聞こえない。Macの音量は最大。Zoomのスピーカー音量も最大。</p><h2>Zoomの音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でZoomを含む任意のアプリの音量を<strong>200%</strong>にブースト。参加者が小さすぎれば、Zoomのスライダーを150%や180%にドラッグ。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macでビデオ通話中のクリアな音声のためにZoom通話音量を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "lower-spotify-without-lowering-everything-mac": { slug: "lower-spotify-without-lowering-everything-mac", title: "Macで他のすべてを下げずにSpotifyだけ下げる方法", description: "SpotifyをBGMにしたいが、ボリュームキーで下げると通話もすべても静かになる。その修正方法。", date: "2026-05-30", readTime: "4分で読める", content: `<p>作業中。SpotifyがBGMを再生。少し大きすぎる。ボリュームダウンキーを押す。Spotifyが静かに。でも他のすべても — Zoom通話、通知音、ブラウザ音声。全部静か。望んだことではない。</p><h2>本当の修正方法：アプリごとの音量制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーにすべてのアプリのボリュームスライダーを配置。Spotifyのスライダーをドラッグダウン。Spotifyが静かに。Zoomは変更なし。通知も変更なし。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで他のアプリをフルボリュームに保ちながらSpotify音量を独立して下げる" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>` },
-  "macos-tahoe-per-app-volume-control": { slug: "macos-tahoe-per-app-volume-control", title: "macOS Tahoeにアプリごとの音量制御はある？", description: "macOS Tahoe（macOS 26）は大きなアップデートをもたらしましたが、Appleはついにボリュームミキサーを追加した？答えと、今すぐアプリごとの音量制御を得る方法。", date: "2026-06-12", readTime: "4分で読める", content: `<p>毎年、Macユーザーは次のmacOSリリースにボリュームミキサーが含まれることを期待します。毎年、失望します。macOS Tahoe（macOS 26）でもAppleはアプリごとの音量制御を追加しませんでした。</p><h2>macOS Tahoeでアプリごとの音量制御を得る方法</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はネイティブmacOSメニューバーアプリで、ボリュームミキサーを提供 — すべての実行中アプリに独立したボリュームスライダー。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOS Tahoeでアプリごとの音量制御を提供" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>` },
-  "play-music-speakers-calls-headphones-mac": { slug: "play-music-speakers-calls-headphones-mac", title: "Macでスピーカーで音楽を流しながらヘッドフォンで通話する方法", description: "Spotifyをデスクスピーカーで、ZoomをAirPodsで同時に？macOSではこれは簡単ではない — 実際に機能する方法。", date: "2026-05-15", readTime: "5分で読める", content: `<p>合理的にやりたいこと：デスクスピーカーで音楽を再生しながらAirPodsでZoom通話。macOSはNoと言います。出力デバイスを選択すると<em>すべての</em>アプリがそれを使用します。</p><h2>よりシンプルなアプローチ：音量ベースの分離</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに独自のボリュームスライダーを提供。通話中にZoomを100%、Spotifyを20%に設定。通話はクリスタルクリア。音楽はさりげないBGM。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでの通話中にZoomをフル音量、Spotifyを下げて表示" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mac-volume-keeps-changing-by-itself": { slug: "mac-volume-keeps-changing-by-itself", title: "Macの音量が勝手に変わる：修正方法", description: "Macの音量がランダムに上がったり下がったり、異なるレベルにリセットされる。すべての既知の原因と止める方法。", date: "2026-05-18", readTime: "6分で読める", content: `<p>Mac音量を快適なレベルに設定。目を離す。戻ると変わっている。これは最もイライラするMacオーディオ問題の1つ。</p><h2>SoundDialでアプリごとの音量をロック</h2><p>macOSがシステム音量を変更するのを防げなくても、<em>アプリごとの</em>音量バランスは保護できます。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリの音量レベルを独立して記憶し復元します。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで再起動間のアプリごとの音量レベルを記憶" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "best-volume-mixer-apps-mac-2026": { slug: "best-volume-mixer-apps-mac-2026", title: "2026年Mac用ベストボリュームミキサーアプリ", description: "アプリごとの音量制御を提供するすべてのMacアプリの率直な比較。機能、価格、どれが実際に使う価値があるか。", date: "2026-06-12", readTime: "10分で読める", content: `<p>macOSには内蔵ボリュームミキサーがありません。個々のアプリの音量を制御したい場合、サードパーティアプリが必要です。</p><h2>SoundDial</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は1つのことを上手くやることに焦点を当てたネイティブmacOSメニューバーアプリ：アプリごとの音量制御。€14.99買い切りでSoundSource（$39）の半額以下。プロファイルとオートダッキングはSoundSourceにない機能。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで個別のアプリボリュームスライダーを表示するアプリごとの音量ミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a>。</p>` },
-  "youtube-too-quiet-safari-chrome-mac": { slug: "youtube-too-quiet-safari-chrome-mac", title: "MacのSafariやChromeでYouTubeが小さすぎる？即座に修正", description: "一部のYouTube動画は最大音量でもほとんど聞こえない。ブラウザ音声が他のアプリより静かな理由と、Macで100%以上にブーストする方法。", date: "2026-05-22", readTime: "5分で読める", content: `<p>YouTube動画をクリック。クリエイターが話していますがほとんど聞こえない。システム音量最大。YouTubeプレーヤー音量最大。</p><h2>本当の修正方法：ブラウザ音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はSafariとChromeを含むすべてのアプリに0%〜<strong>200%</strong>の独立したボリュームスライダーを提供。YouTube動画が小さすぎれば、ブラウザのスライダーを150%や180%に。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macで静かなYouTube動画のためにSafariブラウザ音量を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "mac-notification-sounds-too-loud-headphones": { slug: "mac-notification-sounds-too-loud-headphones", title: "ヘッドフォンでMac通知音が大きすぎる？修正方法", description: "Slackの通知やmacOSアラートがヘッドフォンで痛いほど大きいが音楽は問題ない。通知音量が異なる理由と制御方法。", date: "2026-05-25", readTime: "5分で読める", content: `<p>ヘッドフォン着用、40%音量で音楽を聴いています。Slack通知が鳴る。<em>ディーン。</em>音楽と比べて耳をつんざく大きさ。</p><h2>本当の修正方法：通知アプリの音量を独立して制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに独自のボリュームスライダーを提供。Slackを15%、Mailを10%に設定しながらSpotifyは50%のまま。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでSlackを低音量、Spotifyを通常音量で表示 — 独立した通知制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "stop-zoom-lowering-music-mac": { slug: "stop-zoom-lowering-music-mac", title: "MacでZoomが音楽を下げるのを止める方法", description: "Zoom通話に参加するたびに音楽が落ちるか消える。原因と通話中に何が静かになるかを自分の条件で制御する方法。", date: "2026-05-28", readTime: "6分で読める", content: `<p>Zoom通話に参加。Spotifyが快適な音量で再生中。通話が接続され — 音楽が消えるかほとんどなくなる。何も触っていない。</p><h2>本当の修正方法：自分の条件でのオートダッキング</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>のオートダッキング機能はマイクを監視し、通話開始時にBGMを自動調整 — <strong>ダッキングレベルはあなたが制御</strong>。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialオートダッキング設定 — MacでZoom通話中の設定可能な音量低減" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "airpods-volume-too-low-mac": { slug: "airpods-volume-too-low-mac", title: "MacでAirPodsの音量が小さすぎる？すべての修正方法解説", description: "AirPodsがフルボリュームでもMacで静か？ヘッドフォン安全制限からBluetoothの癖まで、すべての原因と修正方法。", date: "2026-06-08", readTime: "7分で読める", content: `<p>AirPodsはiPhoneでは問題なし。十分に大きい。でもMacに接続するとすべてが小さすぎる。</p><h2>まだ小さい？AirPods音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>で任意のアプリの音量を<strong>200%</strong>まで上げられます。AirPods経由のSpotifyが小さすぎれば、Spotifyのスライダーを150%や180%にドラッグ。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macでアプリごとの200%ボリュームスライダーによるAirPods用アプリ音量ブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "spotify-volume-too-low-mac": { slug: "spotify-volume-too-low-mac", title: "MacでSpotifyの音量が小さすぎる？すべての修正方法", description: "Spotifyが最大音量でもMacでまだ小さい？Spotifyの内蔵リミッターからmacOS設定まですべての原因と100%以上にブーストする方法。", date: "2026-06-11", readTime: "7分で読める", content: `<p>Spotifyがフルボリューム。Macもフルボリューム。まだ十分に大きくない。</p><h2>SoundDialでSpotifyを100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でSpotifyを含む任意のアプリの音量を<strong>200%</strong>まで上げられます。Spotifyのオーディオストリームをインターセプトし、アプリの内蔵最大値を超えて増幅。他のアプリの音量に影響なし。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで他のアプリを通常音量に保ちながらSpotify音量を200%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "separate-game-audio-from-discord-mac": { slug: "separate-game-audio-from-discord-mac", title: "MacでゲームオーディオとDiscordを分離する方法", description: "ゲームの爆発がDiscordのチームメイトをかき消す？macOSでゲームオーディオとボイスチャットの音量を独立して制御する方法。", date: "2026-06-10", readTime: "6分で読める", content: `<p>Macでゲーム中。ゲーム内で爆発。Discordのチームメイトが話しているが、銃声の上に聞こえない。</p><h2>本当のソリューション：アプリごとの音量制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーに常駐し、すべてのアプリに独自のボリュームスライダーを提供。ゲームを35%、Discordを100%に設定。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでゲームとDiscordの独立したボリュームスライダーを表示" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "why-doesnt-mac-have-volume-mixer": { slug: "why-doesnt-mac-have-volume-mixer", title: "なぜMacにはWindowsのようなボリュームミキサーがないのか？", description: "Windowsは2006年からアプリごとの音量制御がある。2026年なのにmacOSにはまだない。本当の理由と、それでも入手する方法。", date: "2026-06-09", readTime: "6分で読める", content: `<p>Vista（2006年）以降のすべてのWindowsバージョンにはボリュームミキサーが含まれています。macOSでは？1つのスライダー。20年のMacアップデートでAppleはアプリごとの音量制御を一度も追加していません。</p><h2>今すぐMacでボリュームミキサーを得る方法</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はWindowsボリュームミキサーと同じことをするネイティブmacOSボリュームミキサー — さらにそれ以上。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — メニューバーにアプリごとのボリュームスライダーを表示するmacOS用ボリュームミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Appleが20年前に作るべきだった機能。<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>` },
-  "boost-mac-volume-beyond-100-percent": { slug: "boost-mac-volume-beyond-100-percent", title: "Macの音量が小さすぎる？サウンドを100%以上にブーストする方法", description: "Macがフルボリュームでもまだ小さすぎる。その理由と外部スピーカーなしで最大200%まで音声を増幅する方法。", date: "2026-06-07", readTime: "8分で読める", content: `<p>Mac音量100%。スライダーは一番右。まだ十分に大きくない。</p><h2>SoundDial：アプリごとの200%ボリュームブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はMac上のすべてのアプリに0%〜<strong>200%</strong>の独立したボリュームスライダーを提供。特定のアプリが小さすぎれば、そのアプリだけを100%以上にブースト。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialボリュームブースト — macOSで200%増幅のアプリごとの音量制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>` },
-  "auto-lower-music-during-zoom-calls-mac": { slug: "auto-lower-music-during-zoom-calls-mac", title: "MacでZoom通話中に自動的に音楽を下げる方法", description: "Zoom通話が始まるたびにSpotifyを一時停止しようと慌てる。オートダッキングでマイクが有効になると自動的に音楽を下げるより良い方法がある。", date: "2026-06-05", readTime: "7分で読める", content: `<p>通話開始。画面共有中。音楽がまだ大音量。慌ててSpotifyに切り替え、一時停止、Zoomに戻る — でも全員がすでに10秒間プレイリストを聴いた。</p><h2>SoundDialのオートダッキング</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>にはmacOSがネイティブにすべきことを行う内蔵オートダッキング機能があります。マイクの有効化を検出して通話を認識し、すべての非通信アプリの音量を設定レベルに自動低減 — デフォルト30%。通話が終わると復元。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialオートダッキング機能 MacでZoom通話中に自動的に音楽音量を下げる" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><h2>1分以内にセットアップ</h2><ol><li><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreからSoundDialをインストール</a></li><li>設定 → オートダッキングタブを開く</li><li>オートダッキングを有効化</li><li>ダッキングレベルスライダーを好みに調整</li><li>以上 — オートダッキングが有効</li></ol><p>次にZoom、Teams、FaceTime通話に参加すると、BGMが自動的に下がります。通話を切ると戻ります。買い切り、サブスクリプションなし。</p>` },
-  "how-to-mute-one-app-on-mac": { slug: "how-to-mute-one-app-on-mac", title: "すべてをミュートせずにMacで1つのアプリをミュートする方法", description: "Slackが鳴る。通話中。Slackをミュートしたいが通話は聴き続けたい。macOSではできない — それでもやる方法。", date: "2026-06-03", readTime: "6分で読める", content: `<p>Zoom通話中。Slackが通知音を出し続ける。ミュートキーを押す — 通話も聞こえなくなる。macOSは<em>すべて</em>をミュートします。1つのアプリだけをミュートする内蔵方法はありません。</p><h2>本当のソリューション：アプリごとのミュートボタン</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーに常駐し、すべてのアプリに独自のボリュームスライダーとミュートボタンを表示。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSメニューバーで各アプリケーションのアプリごとのミュートボタンを表示" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>` },
-  "volume-mixer-for-mac": { slug: "volume-mixer-for-mac", title: "Mac用ボリュームミキサー：macOSにまだない機能", description: "Windowsには2006年からボリュームミキサーがある。macOSにまだない理由と、2026年にMacでアプリごとの音量制御を得る最良の方法。", date: "2026-06-01", readTime: "9分で読める", content: `<p>WindowsのPCでスピーカーアイコンを右クリックするとボリュームミキサー — 音を出しているすべてのアプリが独自のボリュームスライダーで表示されるパネル。Macで同じことをすると、1つのスライダー。それだけ。</p><h2>SoundDial：macOSに内蔵されるべきだったボリュームミキサー</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はネイティブmacOSメニューバーアプリで、Appleが提供しないもの — Mac上のすべてのアプリの独立した音量制御を提供します。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — メニューバーに個別のアプリボリュームスライダーを表示するmacOS用アプリごとの音量ミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>買い切り。サブスクリプションなし。macOS 14.2以降。<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a>。</p>` },
+<p>Windowsは2006年のVista以来、アプリごとのボリュームミキサーを持っています。20年後、macOSにはまだありません。</p><h2>SoundDial</h2><p>私は欲しかったMacボリュームミキサーが存在しなかったので<strong>SoundDial</strong>を作りました。メニューバーに常駐し、音を出しているすべてのアプリを表示し、各アプリに独自のスライダーを提供します。アプリごとのミュート、ボリュームブースト、プロファイル、通話が始まると音楽を下げるオートダッキング。買い切り、macOS 14以降、サブスクリプションなし。</p><p>macOSに内蔵されるべきだったボリュームミキサー。</p>`,
+  },
+  "mute-slack-notifications-mac-without-muting-everything": {
+    slug: "mute-slack-notifications-mac-without-muting-everything",
+    title: "他のすべてをミュートせずにMacでSlackをミュートする方法",
+    description: "Slack通知が集中を妨げるが、音楽や通話は消したくない。macOSでSlackだけをミュートする方法。",
+    date: "2026-05-24",
+    readTime: "5分で読めます",
+    content: `<p>集中作業中。Spotifyが完璧なプレイリストを再生。すると — Slackが鳴る。繰り返し。Slackをミュートしたいが音楽は残したい。macOSは：すべてミュートか何もミュートしないか。</p><h2>オプション4：アプリごとの音量制御（本当の修正）</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はSlackに独立した独自のボリュームスライダーを提供。好きなレベルに設定 — またはワンクリックで完全ミュート。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでSlackミュートしSpotifyを通常音量で再生" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "volume-profiles-for-mac": {
+    slug: "volume-profiles-for-mac",
+    title: "Macで異なる状況用のボリュームプロファイルを設定する方法",
+    description: "会議、集中作業、ゲーム、リラックス用の異なる音量設定 — ワンクリックで切り替え。macOSでのボリュームプロファイルの仕組み。",
+    date: "2026-06-02",
+    readTime: "5分で読めます",
+    content: `<p>午前9時、Zoom通話中 — Zoom 100%、Spotifyミュート、Slackミュート。午前10時、通話終了 — Spotify 40%、Slack 15%。状況が変わるたびに5〜6個のアプリを手動で調整する代わりに、各設定をプロファイルとして保存しワンクリックで切り替え。</p><h2>SoundDialでプロファイルを設定</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>には内蔵プロファイルシステムがあります。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialボリュームプロファイル — macOSで会議、集中、リラックスモードをワンクリック切り替え" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "zoom-call-volume-too-low-mac": {
+    slug: "zoom-call-volume-too-low-mac",
+    title: "MacでZoom通話の音量が小さすぎる？ブースト方法",
+    description: "最大音量でもZoomで人がほとんど聞こえない。Zoomの設定からアプリごとのボリュームミキサーで通話音声を100%以上にブーストするまでのすべての修正。",
+    date: "2026-05-26",
+    readTime: "6分で読めます",
+    content: `<p>Zoom通話中。相手が話していますがほとんど聞こえない。Macの音量は最大。Zoomのスピーカー音量も最大。</p><h2>Zoomの音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でZoomを含む任意のアプリの音量を<strong>200%</strong>にブースト。参加者が小さすぎれば、Zoomのスライダーを150%や180%にドラッグ。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macでビデオ通話中のクリアな音声のためにZoom通話音量を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "lower-spotify-without-lowering-everything-mac": {
+    slug: "lower-spotify-without-lowering-everything-mac",
+    title: "Macで他のすべてを下げずにSpotifyだけ下げる方法",
+    description: "SpotifyをBGMにしたいが、ボリュームキーで下げると通話もすべても静かになる。その修正方法。",
+    date: "2026-05-30",
+    readTime: "4分で読めます",
+    content: `<p>作業中。SpotifyがBGMを再生。少し大きすぎる。ボリュームダウンキーを押す。Spotifyが静かに。でも他のすべても — Zoom通話、通知音、ブラウザ音声。全部静か。望んだことではない。</p><h2>本当の修正方法：アプリごとの音量制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーにすべてのアプリのボリュームスライダーを配置。Spotifyのスライダーをドラッグダウン。Spotifyが静かに。Zoomは変更なし。通知も変更なし。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで他のアプリをフルボリュームに保ちながらSpotify音量を独立して下げる" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>`,
+  },
+  "macos-tahoe-per-app-volume-control": {
+    slug: "macos-tahoe-per-app-volume-control",
+    title: "macOS Tahoeにアプリごとの音量制御はある？",
+    description: "macOS Tahoe（macOS 26）は大きなアップデートをもたらしましたが、Appleはついにボリュームミキサーを追加した？答えと、今すぐアプリごとの音量制御を得る方法。",
+    date: "2026-06-12",
+    readTime: "4分で読めます",
+    content: `<p>毎年、Macユーザーは次のmacOSリリースにボリュームミキサーが含まれることを期待します。毎年、失望します。macOS Tahoe（macOS 26）でもAppleはアプリごとの音量制御を追加しませんでした。</p><h2>macOS Tahoeでアプリごとの音量制御を得る方法</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はネイティブmacOSメニューバーアプリで、ボリュームミキサーを提供 — すべての実行中アプリに独立したボリュームスライダー。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOS Tahoeでアプリごとの音量制御を提供" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>`,
+  },
+  "play-music-speakers-calls-headphones-mac": {
+    slug: "play-music-speakers-calls-headphones-mac",
+    title: "Macでスピーカーで音楽を流しながらヘッドフォンで通話する方法",
+    description: "Spotifyをデスクスピーカーで、ZoomをAirPodsで同時に？macOSではこれは簡単ではない — 実際に機能する方法。",
+    date: "2026-05-15",
+    readTime: "5分で読めます",
+    content: `<p>合理的にやりたいこと：デスクスピーカーで音楽を再生しながらAirPodsでZoom通話。macOSはNoと言います。出力デバイスを選択すると<em>すべての</em>アプリがそれを使用します。</p><h2>よりシンプルなアプローチ：音量ベースの分離</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに独自のボリュームスライダーを提供。通話中にZoomを100%、Spotifyを20%に設定。通話はクリスタルクリア。音楽はさりげないBGM。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでの通話中にZoomをフル音量、Spotifyを下げて表示" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mac-volume-keeps-changing-by-itself": {
+    slug: "mac-volume-keeps-changing-by-itself",
+    title: "Macの音量が勝手に変わる：修正方法",
+    description: "Macの音量がランダムに上がったり下がったり、異なるレベルにリセットされる。すべての既知の原因と止める方法。",
+    date: "2026-05-18",
+    readTime: "6分で読めます",
+    content: `<p>Mac音量を快適なレベルに設定。目を離す。戻ると変わっている。これは最もイライラするMacオーディオ問題の1つ。</p><h2>SoundDialでアプリごとの音量をロック</h2><p>macOSがシステム音量を変更するのを防げなくても、<em>アプリごとの</em>音量バランスは保護できます。<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリの音量レベルを独立して記憶し復元します。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで再起動間のアプリごとの音量レベルを記憶" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "best-volume-mixer-apps-mac-2026": {
+    slug: "best-volume-mixer-apps-mac-2026",
+    title: "2026年Mac用ベストボリュームミキサーアプリ",
+    description: "アプリごとの音量制御を提供するすべてのMacアプリの率直な比較。機能、価格、どれが実際に使う価値があるか。",
+    date: "2026-06-12",
+    readTime: "10分で読めます",
+    content: `<p>macOSには内蔵ボリュームミキサーがありません。個々のアプリの音量を制御したい場合、サードパーティアプリが必要です。</p><h2>SoundDial</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は1つのことを上手くやることに焦点を当てたネイティブmacOSメニューバーアプリ：アプリごとの音量制御。€14.99買い切りでSoundSource（$39）の半額以下。プロファイルとオートダッキングはSoundSourceにない機能。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで個別のアプリボリュームスライダーを表示するアプリごとの音量ミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a>。</p>`,
+  },
+  "youtube-too-quiet-safari-chrome-mac": {
+    slug: "youtube-too-quiet-safari-chrome-mac",
+    title: "MacのSafariやChromeでYouTubeが小さすぎる？即座に修正",
+    description: "一部のYouTube動画は最大音量でもほとんど聞こえない。ブラウザ音声が他のアプリより静かな理由と、Macで100%以上にブーストする方法。",
+    date: "2026-05-22",
+    readTime: "5分で読めます",
+    content: `<p>YouTube動画をクリック。クリエイターが話していますがほとんど聞こえない。システム音量最大。YouTubeプレーヤー音量最大。</p><h2>本当の修正方法：ブラウザ音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はSafariとChromeを含むすべてのアプリに0%〜<strong>200%</strong>の独立したボリュームスライダーを提供。YouTube動画が小さすぎれば、ブラウザのスライダーを150%や180%に。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macで静かなYouTube動画のためにSafariブラウザ音量を180%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "mac-notification-sounds-too-loud-headphones": {
+    slug: "mac-notification-sounds-too-loud-headphones",
+    title: "ヘッドフォンでMac通知音が大きすぎる？修正方法",
+    description: "Slackの通知やmacOSアラートがヘッドフォンで痛いほど大きいが音楽は問題ない。通知音量が異なる理由と制御方法。",
+    date: "2026-05-25",
+    readTime: "5分で読めます",
+    content: `<p>ヘッドフォン着用、40%音量で音楽を聴いています。Slack通知が鳴る。<em>ディーン。</em>音楽と比べて耳をつんざく大きさ。</p><h2>本当の修正方法：通知アプリの音量を独立して制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はすべてのアプリに独自のボリュームスライダーを提供。Slackを15%、Mailを10%に設定しながらSpotifyは50%のまま。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでSlackを低音量、Spotifyを通常音量で表示 — 独立した通知制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "stop-zoom-lowering-music-mac": {
+    slug: "stop-zoom-lowering-music-mac",
+    title: "MacでZoomが音楽を下げるのを止める方法",
+    description: "Zoom通話に参加するたびに音楽が落ちるか消える。原因と通話中に何が静かになるかを自分の条件で制御する方法。",
+    date: "2026-05-28",
+    readTime: "6分で読めます",
+    content: `<p>Zoom通話に参加。Spotifyが快適な音量で再生中。通話が接続され — 音楽が消えるかほとんどなくなる。何も触っていない。</p><h2>本当の修正方法：自分の条件でのオートダッキング</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>のオートダッキング機能はマイクを監視し、通話開始時にBGMを自動調整 — <strong>ダッキングレベルはあなたが制御</strong>。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialオートダッキング設定 — MacでZoom通話中の設定可能な音量低減" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "airpods-volume-too-low-mac": {
+    slug: "airpods-volume-too-low-mac",
+    title: "MacでAirPodsの音量が小さすぎる？すべての修正方法解説",
+    description: "AirPodsがフルボリュームでもMacで静か？ヘッドフォン安全制限からBluetoothの癖まで、すべての原因と修正方法。",
+    date: "2026-06-08",
+    readTime: "7分で読めます",
+    content: `<p>AirPodsはiPhoneでは問題なし。十分に大きい。でもMacに接続するとすべてが小さすぎる。</p><h2>まだ小さい？AirPods音量を100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>で任意のアプリの音量を<strong>200%</strong>まで上げられます。AirPods経由のSpotifyが小さすぎれば、Spotifyのスライダーを150%や180%にドラッグ。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial Macでアプリごとの200%ボリュームスライダーによるAirPods用アプリ音量ブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "spotify-volume-too-low-mac": {
+    slug: "spotify-volume-too-low-mac",
+    title: "MacでSpotifyの音量が小さすぎる？すべての修正方法",
+    description: "Spotifyが最大音量でもMacでまだ小さい？Spotifyの内蔵リミッターからmacOS設定まですべての原因と100%以上にブーストする方法。",
+    date: "2026-06-11",
+    readTime: "7分で読めます",
+    content: `<p>Spotifyがフルボリューム。Macもフルボリューム。まだ十分に大きくない。</p><h2>SoundDialでSpotifyを100%以上にブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>でSpotifyを含む任意のアプリの音量を<strong>200%</strong>まで上げられます。Spotifyのオーディオストリームをインターセプトし、アプリの内蔵最大値を超えて増幅。他のアプリの音量に影響なし。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSで他のアプリを通常音量に保ちながらSpotify音量を200%にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "separate-game-audio-from-discord-mac": {
+    slug: "separate-game-audio-from-discord-mac",
+    title: "MacでゲームオーディオとDiscordを分離する方法",
+    description: "ゲームの爆発がDiscordのチームメイトをかき消す？macOSでゲームオーディオとボイスチャットの音量を独立して制御する方法。",
+    date: "2026-06-10",
+    readTime: "6分で読めます",
+    content: `<p>Macでゲーム中。ゲーム内で爆発。Discordのチームメイトが話しているが、銃声の上に聞こえない。</p><h2>本当のソリューション：アプリごとの音量制御</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーに常駐し、すべてのアプリに独自のボリュームスライダーを提供。ゲームを35%、Discordを100%に設定。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSでゲームとDiscordの独立したボリュームスライダーを表示" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "why-doesnt-mac-have-volume-mixer": {
+    slug: "why-doesnt-mac-have-volume-mixer",
+    title: "なぜMacにはWindowsのようなボリュームミキサーがないのか？",
+    description: "Windowsは2006年からアプリごとの音量制御がある。2026年なのにmacOSにはまだない。本当の理由と、それでも入手する方法。",
+    date: "2026-06-09",
+    readTime: "6分で読めます",
+    content: `<p>Vista（2006年）以降のすべてのWindowsバージョンにはボリュームミキサーが含まれています。macOSでは？1つのスライダー。20年のMacアップデートでAppleはアプリごとの音量制御を一度も追加していません。</p><h2>今すぐMacでボリュームミキサーを得る方法</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はWindowsボリュームミキサーと同じことをするネイティブmacOSボリュームミキサー — さらにそれ以上。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — メニューバーにアプリごとのボリュームスライダーを表示するmacOS用ボリュームミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Appleが20年前に作るべきだった機能。<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>`,
+  },
+  "boost-mac-volume-beyond-100-percent": {
+    slug: "boost-mac-volume-beyond-100-percent",
+    title: "Macの音量が小さすぎる？サウンドを100%以上にブーストする方法",
+    description: "Macがフルボリュームでもまだ小さすぎる。その理由と外部スピーカーなしで最大200%まで音声を増幅する方法。",
+    date: "2026-06-07",
+    readTime: "8分で読めます",
+    content: `<p>Mac音量100%。スライダーは一番右。まだ十分に大きくない。</p><h2>SoundDial：アプリごとの200%ボリュームブースト</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はMac上のすべてのアプリに0%〜<strong>200%</strong>の独立したボリュームスライダーを提供。特定のアプリが小さすぎれば、そのアプリだけを100%以上にブースト。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialボリュームブースト — macOSで200%増幅のアプリごとの音量制御" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>で買い切り。サブスクリプションなし。macOS 14.2以降対応。</p>`,
+  },
+  "auto-lower-music-during-zoom-calls-mac": {
+    slug: "auto-lower-music-during-zoom-calls-mac",
+    title: "MacでZoom通話中に自動的に音楽を下げる方法",
+    description: "Zoom通話が始まるたびにSpotifyを一時停止しようと慌てる。オートダッキングでマイクが有効になると自動的に音楽を下げるより良い方法がある。",
+    date: "2026-06-05",
+    readTime: "7分で読めます",
+    content: `<p>通話開始。画面共有中。音楽がまだ大音量。慌ててSpotifyに切り替え、一時停止、Zoomに戻る — でも全員がすでに10秒間プレイリストを聴いた。</p><h2>SoundDialのオートダッキング</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>にはmacOSがネイティブにすべきことを行う内蔵オートダッキング機能があります。マイクの有効化を検出して通話を認識し、すべての非通信アプリの音量を設定レベルに自動低減 — デフォルト30%。通話が終わると復元。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDialオートダッキング機能 MacでZoom通話中に自動的に音楽音量を下げる" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><h2>1分以内にセットアップ</h2><ol><li><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreからSoundDialをインストール</a></li><li>設定 → オートダッキングタブを開く</li><li>オートダッキングを有効化</li><li>ダッキングレベルスライダーを好みに調整</li><li>以上 — オートダッキングが有効</li></ol><p>次にZoom、Teams、FaceTime通話に参加すると、BGMが自動的に下がります。通話を切ると戻ります。買い切り、サブスクリプションなし。</p>`,
+  },
+  "how-to-mute-one-app-on-mac": {
+    slug: "how-to-mute-one-app-on-mac",
+    title: "すべてをミュートせずにMacで1つのアプリをミュートする方法",
+    description: "Slackが鳴る。通話中。Slackをミュートしたいが通話は聴き続けたい。macOSではできない — それでもやる方法。",
+    date: "2026-06-03",
+    readTime: "6分で読めます",
+    content: `<p>Zoom通話中。Slackが通知音を出し続ける。ミュートキーを押す — 通話も聞こえなくなる。macOSは<em>すべて</em>をミュートします。1つのアプリだけをミュートする内蔵方法はありません。</p><h2>本当のソリューション：アプリごとのミュートボタン</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はメニューバーに常駐し、すべてのアプリに独自のボリュームスライダーとミュートボタンを表示。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOSメニューバーで各アプリケーションのアプリごとのミュートボタンを表示" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a> — €14.99買い切り、サブスクリプションなし、macOS 14.2以降対応。</p>`,
+  },
+  "volume-mixer-for-mac": {
+    slug: "volume-mixer-for-mac",
+    title: "Mac用ボリュームミキサー：macOSにまだない機能",
+    description: "Windowsには2006年からボリュームミキサーがある。macOSにまだない理由と、2026年にMacでアプリごとの音量制御を得る最良の方法。",
+    date: "2026-06-01",
+    readTime: "9分で読めます",
+    content: `<p>WindowsのPCでスピーカーアイコンを右クリックするとボリュームミキサー — 音を出しているすべてのアプリが独自のボリュームスライダーで表示されるパネル。Macで同じことをすると、1つのスライダー。それだけ。</p><h2>SoundDial：macOSに内蔵されるべきだったボリュームミキサー</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はネイティブmacOSメニューバーアプリで、Appleが提供しないもの — Mac上のすべてのアプリの独立した音量制御を提供します。</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — メニューバーに個別のアプリボリュームスライダーを表示するmacOS用アプリごとの音量ミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>買い切り。サブスクリプションなし。macOS 14.2以降。<a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App StoreでSoundDialを入手</a>。</p>`,
+  },
   "background-music-alternative-mac": {
     slug: "background-music-alternative-mac",
     title: "Mac の最良の Background Music 代替品 (2026)",
     description: "Background Music は新しい macOS で壊れていますか?最も信頼性の高いアプリごとのボリューム ミキサーの代替品は、ブーストとプロファイルを備えたサンドボックス化された Mac App Store アプリである SoundDial です。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS アップデート後に Background Music が動作しなくなった場合、最も信頼できる代替手段は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> — Mac App Store のメニューバーのアプリごとの音量ミキサー。すべてのアプリに独自の音量スライダーを提供し、ミュート、ブースト、音量プロファイル、自動ダッキングを追加し、完全にサンドボックス化され、Apple のレビューを受けているため、次の macOS リリースで破損するオーディオ ドライバーはありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac の最良の Background Music 代替品 (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1238,7 +1492,7 @@ export const jaArticles: ArticleSet = {
     title: "SoundSource vs SoundDial: Mac ボリューム アプリはどちらが勝ちますか?",
     description: "SoundSource ($39、プログレード) 対 SoundDial (€14.99、App Store)。アプリごとのボリューム、ブースト、プロファイル、自動ダッキングを比較して、最適な Mac ミキサーを選択してください。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>クリーンにインストールされ、コストが安くなるアプリごとのボリューム コントロールだけが必要な場合は、 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> ほとんどの人にとっては、Mac App Store の 14.99 ユーロ (1 回限り、アプリごとの音量、ミュート、ブースト、プロファイル、自動ダッキング機能付き) の方が良い買い物です。特にアプリごとの EQ と高度な出力ルーティングが必要な場合にのみ、Rogue Amoeba の SoundSource (~$39) を選択してください。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource vs SoundDial: どちらの Mac ボリューム アプリが勝ちますか?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1299,7 +1553,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac のアプリごとのボリュームの安価な SoundSource 代替品",
     description: "39 ドルの価格を気にせずに、SoundSource スタイルのアプリごとのボリュームをご希望ですか? SoundDial は、ブースト、プロファイル、自動ダッキング機能を備えた 14.99 ユーロの Mac App Store メニューバー ミキサーです。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>Mac で SoundSource スタイルのアプリごとの音量コントロールが必要だが、39 ドルは高いと感じる場合、最も速く信頼できる解決策は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。これは、Mac App Store の 14.99 ユーロのワンタイム メニュー バー ミキサーで、すべてのアプリに独自の音量スライダー、ミュート、ブースト、さらにプロファイルと自動ダッキングを提供します。ダウンロードやオーディオ ドライバーのインストールは必要ありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac のアプリごとのボリュームの安価な SoundSource 代替品" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1362,7 +1616,7 @@ export const jaArticles: ArticleSet = {
     title: "FineTune Mac の代替: サポートされているアプリごとのボリューム ミキサー",
     description: "無料の FineTune メニューバー アプリを試してみましたが、メンテナンスが施され、App Store に対して安全なものが必要ですか? Macのアプリごとのボリュームに最適なFineTune代替品は次のとおりです。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>FineTune は気に入ったが、信頼できるソースから積極的にメンテナンスされ、インストールされたものを希望する場合は、 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 最も速く信頼できる修正です。これは、独立した音量、アプリごとのミュート、音量ブースト、保存されたプロファイル、および自動ダッキングを備えた Mac App Store メニューバーのアプリごとの音量ミキサーです。 Apple によってレビューされ、サンドボックス化されており、ドライバーのインストールなしで 1 回あたり €14.99 かかります。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac の FineTune 代替: サポートされているアプリごとのボリューム ミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1433,7 +1687,7 @@ export const jaArticles: ArticleSet = {
     title: "eqMac Mac のアプリごとの実際のボリュームの代替手段",
     description: "eqMac のブーストは気に入っていますが、アプリごとの適切な音量、ミュート、プロファイルが必要ですか? SoundDial は最速の Mac App Store 修正です — 14.99 ユーロ、サンドボックス、ドライバーなし。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>EQ とボリューム ブースターに eqMac を使用しているが、アプリごとに独立したボリューム、さらにミュート、ブースト、プロファイルの保存が必要な場合、最も速く信頼できる修正は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。これは Mac App Store メニューバー ミキサーです。アプリごとにレベルを設定し、静かなものをブーストし、プロファイルを瞬時に切り替えます。 14.99 ユーロのワンタイム、サンドボックス、ドライバーのインストールは不要。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac の実際のアプリごとのボリュームの eqMac 代替" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1502,7 +1756,7 @@ export const jaArticles: ArticleSet = {
     title: "2026 年の Mac 向けの最も安価な高ボリュームミキサー",
     description: "2026 年に Mac 向けの最も安価で優れたアプリごとのボリューム ミキサーをお探しですか? SoundDial、SoundSource、Background Music、FineTune、eqMacを価格、安全性、機能について比較してください。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>2026 年の Mac で最も価値のあるアプリごとのボリューム ミキサーは次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、Mac App Store のメニューバー アプリで、1 回限り €14.99 です。すべてのアプリに独自の音量スライダーを提供し、さらにミュート、ブースト、プロファイル、自動ダッキングを提供します。ドライバーもサブスクリプションも、危険なダウンロードも必要ありません。これは、実際に確実に機能する最も安価な有料オプションです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 2026 年の Mac 向けの最も安価な優れたボリュームミキサー" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1559,7 +1813,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac 用 Windows ボリューム ミキサー: アプリごとのボリューム コントロールを取得",
     description: "Mac に Windows ボリューム ミキサーがありませんか? macOS にはアプリごとの音量コントロールが組み込まれていません。最も早く入手できる方法は次のとおりです。SoundDial、14.99 ユーロのメニューバー ミキサーです。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS には、Windows のような内蔵の音量ミキサーがないため、システム設定からアプリごとの音量を設定することはできません。最速で信頼性の高い修正は、 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、Mac App Storeの14.99ユーロのメニューバーアプリ。すべてのアプリに独自の音量スライダー、ミュート、およびブーストを提供します。ドライバー、DMG、危険なインストールは必要ありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac 用 Windows ボリューム ミキサー: アプリごとのボリューム コントロールを取得" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1626,7 +1880,7 @@ export const jaArticles: ArticleSet = {
     title: "Windows と同じようにアプリの音量を設定 - Mac で",
     description: "Windows にはアプリごとの音量ミキサーがありますが、macOS にはありません。 Mac 上のすべてのアプリに独立した音量を設定する方法は次のとおりです。高速、安全、ドライバーなしで設定できます。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS には、Windows のようなアプリごとのボリューム ミキサーが組み込まれていないため、最速で信頼性の高い修正は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、Mac App Store メニューバー アプリで、すべてのアプリに独自の音量スライダー、アプリごとのミュート、音量ブーストを提供します。サンドボックス化されており、Apple のレビューを受けており、ドライバーなしでインストールでき、費用は 1 回あたり 14.99 ユーロです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Windows と同様にアプリの音量を設定します — Mac で" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1676,7 +1930,7 @@ export const jaArticles: ArticleSet = {
     title: "難聴の人のためにMacの音量を大きくする方法",
     description: "最大音量でも Mac が聞こえにくいですか? SoundDial や組み込みのヒントなど、難聴のリスニングのためにアプリごとに音声をブーストして明瞭にする方法を学びます。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>Mac が最大音量でも十分な音量にならない場合、最も速く確実な修正方法は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、Mac App Store メニューバー ミキサー。これを使用すると、任意の 1 つのアプリを 100% を超えてブーストし、他のすべてをミュートできます。つまり、システム全体を作動させることなく、FaceTime、ビデオ、または映画プレーヤーからの音声がより大きく、よりクリアに聞こえるようになります。 1 回限り、14.99 ユーロです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 難聴の人のために Mac の音を大きくする方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1730,7 +1984,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac の静かなアプリをブーストする方法 (過去の最大音量)",
     description: "100% であっても、1 つのアプリが静かすぎますか?アプリごとの音量ミキサーである SoundDial を使用して、そのアプリだけを Mac の最大値を超えてブーストします。ここでは最速の修正と代替案を示します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>1 つのアプリが最大音量でも静かすぎる場合、最も速く確実に修正できるのは次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、macOS 用のメニューバーのアプリごとの音量ミキサー。すべてのアプリに独自のスライダーとボリュームを提供します <strong>ブースト</strong> これにより、1 つのアプリが 100% を超えてしまうため、システムの音量を変更することなく、ささやき声のないビデオ通話やブラウザのタブが大きくなります。これは、Mac App Store の 14.99 ユーロの 1 回限りのアプリです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac の静かなアプリをブーストする方法 (過去の最大音量)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1779,7 +2033,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac で静かなビデオとポッドキャストを増幅する方法",
     description: "一部の YouTube ビデオ、ポッドキャスト、講義は、100% であっても静かすぎます。 SoundDial を使用して、macOS でアプリごとの音量を最大値を超えて増やす方法は次のとおりです。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>最速で信頼性の高い修正は、 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、すべてのアプリに独自の音量スライダーと実際のボリュームを提供する Mac App Store メニューバー ミキサー <strong>ブースト</strong> それは 100% を超えます。ブラウザまたはポッドキャスト プレーヤーを開き、スライダーを最大値より上にドラッグすると、静かなビデオや講義が即座に大きくなります。ドライバーも再起動も必要ありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac で静かなビデオとポッドキャストを増幅する方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1827,7 +2081,7 @@ export const jaArticles: ArticleSet = {
     title: "Macでアプリごとに異なる音量を設定する方法",
     description: "macOS にはアプリごとの音量ミキサーが組み込まれていません。ここでは、SoundDial とその代替手段を使用して、Mac 上のアプリごとに独立した永続的な音量レベルを設定する方法を説明します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS には、アプリごとに異なる音量を設定する方法が組み込まれていないため、メニューバーの音量ミキサーが必要です。最も速く、最も信頼性の高い修正は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、Mac App Store アプリは、すべてのアプリケーションに独自の音量スライダー、アプリごとのミュート、および静かなアプリを 100% を超えるブーストを提供します。レベルを一度設定すれば、そのまま残ります。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac でアプリごとに異なる音量を設定する方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1883,7 +2137,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac で 1 つのアプリを他のアプリよりも静かにする",
     description: "Mac 上の 1 つの騒々しいアプリが残りのアプリをかき消してしまっていませんか?他のアプリに影響を与えずに、1 つのアプリの音量を下げる最も速く確実な方法は次のとおりです。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>1 つのアプリを停止し、他のアプリはすべてそのままにするには、次を使用します <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、macOS 用のメニューバーのアプリごとの音量ミキサー。それを開いて、リストから大音量のアプリを見つけて、そのスライダーを下にドラッグします。音楽、通話、その他の音声は独自のレベルを維持しながら、アプリはすぐに静かになります。これは最も速く、最も信頼性の高い修正です。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac で 1 つのアプリを他のアプリよりも静かにする" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -1948,7 +2202,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac ストリーマー向けオーディオ ミキサー: バランスマイク、ゲーム、音楽",
     description: "Mac でストリーミング中にマイク、ゲーム オーディオ、音楽、アラートのバランスをとる最速の方法。 SoundDial は、プロファイルとダッキングを備えたアプリごとのボリューム ミキサーを提供します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>Mac でストリーミング中にマイク、ゲーム、音楽、アラートのバランスをとるには、最速で信頼できる修正方法は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、メニューバーのアプリごとの音量ミキサー。 macOS にはミキサーが内蔵されていないため、SoundDial を使用すると、アプリごとに独立したレベルを設定したり、静かなソースをブーストしたり、ストリーミング プロファイルを保存したり、会話時に音楽を自動ダッキングしたりできます。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac ストリーマー向けオーディオ ミキサー: バランスマイク、ゲーム、音楽" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2003,7 +2257,7 @@ export const jaArticles: ArticleSet = {
     title: "macOS Tahoe でオーディオのパチパチ音やポップノイズを修正する方法",
     description: "macOS Tahoe 26 にアップデートした後、オーディオにパチパチ音やポップ音が発生しますか?サンプル レートを一致させ、CoreAudio をリセットし、Bluetooth コーデックを確認し、プラグインの競合をクリアすることで問題を修正します。トラブルシューティングの完全な順序は次のとおりです。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>macOS Tahoe 26 にアップデートした後のパチパチ音やポップ音は、ほとんどの場合、サンプルレートの不一致、不安定な Bluetooth コーデック ネゴシエーション、またはスタックした CoreAudio プロセスが原因です。 Audio MIDIセットアップで出力サンプルレートを一致させ、リセットすることで修正します。 <code>coreaudiod</code>、Bluetoothヘッドフォンを忘れて再ペアリングし、オーディオプラグインホストを終了します。以下の順序で作業してください。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — macOS Tahoe でオーディオのパチパチ音やポップ音を修正する方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2086,7 +2340,7 @@ export const jaArticles: ArticleSet = {
     title: "AirPods Mac での途切れまたは途切れ (Tahoe 修正)",
     description: "macOS Tahoe での AirPods の途切れ、途切れ、またはドロップは、ほとんどの場合、Bluetooth の干渉または自動スイッチのチャーンです。ここでは、再ペアリングし、2.4GHz の混雑をカットし、再生を中断するハンドオフを停止する方法を説明します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>macOS Tahoe で AirPods が途切れたり途切れたりする場合は、ほとんどの場合、ヘッドセットが壊れているのではなく、Bluetooth の干渉が原因です。通常の原因は、2.4 GHz Wi-Fi とルーターの混雑、積極的な自動デバイス切り替え、古いペアリングです。 AirPods を再ペアリングし、自動スイッチをオフにし、混雑した 2.4GHz チャネルから遠ざけると、ほとんどのケースが解決します。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Mac での途切れまたは途切れ (Tahoe 修正)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2169,7 +2423,7 @@ export const jaArticles: ArticleSet = {
     title: "Tahoe アップデート後、Mac で右スピーカーが故障しましたか?修正方法",
     description: "macOS Tahoe にアップデートした後、1 つのスピーカーまたはチャンネルが動作しなくなりました?まずオーディオ バランス スライダーから始めて、Core Audio をリセットし、セーフ モードを試し、ハードウェアを除外します。わかりやすいトラブルシューティング ガイド。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>macOS Tahoe にアップデートした後に右のスピーカーが鳴らなくなった場合は、音声を確認してください <strong>バランススライダー</strong> まず、更新中に変更される可能性があります。システム設定 &gt; サウンド &gt; 出力に移動し、バランスが中心にあることを確認します。それでも問題ない場合は、Core Audio を再起動し、セーフ モードで起動して、ハードウェアを除外します。ほとんどのケースはソフトウェアです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Tahoe アップデート後、Mac の右スピーカーが故障しましたか?修正方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2252,7 +2506,7 @@ export const jaArticles: ArticleSet = {
     title: "AirPods Mac の音量が半分のままになっていますか?これが修正です",
     description: "AirPods が半分の音量で Mac に接続する理由 (通常は Bluetooth コーデックがハンズフリー マイク プロファイルに切り替わる) に加えて、再ペアリングの修正とレベルを永久に上げる方法を説明します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>AirPods は通常、Mac の音量が半分に下がります。これは、macOS が高品質の A2DP オーディオ プロファイルから、通話マイク用に構築された低品質のハンズフリー (HFP) プロファイルに切り替えたためです。このモードでは出力と品質が制限されます。 Mac を強制的にヘッドフォンのみのオーディオに戻し、レベルを上げてそこを維持することで問題を修正します。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — AirPods Mac の音量が半分のままになっていますか?これが修正です" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2314,7 +2568,7 @@ export const jaArticles: ArticleSet = {
     title: "Tahoe で Mac ボリュームが自動的にリセットされ続けますか?永久にロックする方法",
     description: "macOS Tahoe以降、多くのMacが突然音量を変更したり、勝手にリセットしたりします。ここでは、この問題が発生する理由、組み込みの原因を阻止する方法、アプリごとに固定ボリュームをロックして固定する方法を説明します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>macOS Tahoe 以降、Mac ボリュームが自動的にリセットされ続ける場合、解決策は自動調整機能を削除することです。オーディオ ダッキングと「起動時にサウンドを再生」を無効にし、サウンド設定をリセットし、Bluetooth 出力をきれいに再接続します。アプリごとのレベルが飛び回る場合は、ミキサーを使用してアプリごとに固定音量をロックし、再び変動しないようにします。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac ボリュームが Tahoe で自動的にリセットされ続けますか?永久にロックする方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2378,7 +2632,7 @@ export const jaArticles: ArticleSet = {
     title: "DAW モニターの音量を Mac のシステムオーディオとは別に制御する",
     description: "macOS にはアプリごとのボリューム ミキサーが内蔵されていないため、DAW とシステム サウンドは 1 つのレベルを共有します。 Logic、Ableton、または GarageBand モニターの音量をブラウザーや通知とは別に制御する方法は次のとおりです。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>macOS にはアプリごとのボリューム ミキサーが組み込まれていないため、DAW とその他すべてが 1 つのシステム スライダーを共有します。ブラウザ、Slack、通知から独立してモニター レベルを設定するには、アプリごとの音量コントロールが必要です。メニューバーミキサーのようなもの <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Logic、Ableton、および GarageBand に、システム オーディオとは別に独自のボリュームを与えます。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — DAW モニターの音量を Mac のシステムオーディオとは別に制御する" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2447,7 +2701,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac のアプリごとのボリュームのよりシンプルな Audio Hijack 代替案",
     description: "macOS でアプリごとに独立したボリュームのみが必要な場合、Audio Hijack は過剰です。これは、オーディオルーティングを行わずにアプリごとの音量、ミュート、ブーストを行う、より軽量で安価なメニューバーの代替手段です。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS でアプリごとに独立したボリュームだけが必要な場合、Audio Hijack は必要以上のツールです。これは、キャプチャ、エフェクト、セッション グラフ用に構築されたプロ仕様のオーディオ ルーティングおよび録音スイート (約 79 ドル) です。単純に 1 つのアプリをダウンし、別のアプリをオンにする場合は、次のような軽量のメニューバー ミキサーを使用します。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> より速く、より安く、いつでも準備ができています。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac のアプリごとのボリュームのよりシンプルな Audio Hijack の代替案" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2515,7 +2769,7 @@ export const jaArticles: ArticleSet = {
     title: "Boom 3D の代替案: 肥大化しないアプリごとのボリューム (Mac)",
     description: "主にオーディオをブーストするために Boom 3D を使用していたが、本当にアプリごとの音量コントロールが必要な場合は、SoundDial がより無駄のない Mac の代替品です。アプリごとに独立した音量、アプリごとのミュートとブースト、1 回限りの価格、システム全体の EQ やドライバーはありません。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>音量を上げるために Boom 3D に手を伸ばしたものの、実際には各アプリを個別に制御したい場合は、別のツールが必要です。 Boom 3D は、システム全体のボリュームブースターおよび EQ です。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> は、アプリごとに焦点を当てたボリューム ミキサーです。アプリごとに独立したボリューム、ミュート、ブースト、1 回限り €14.99、EQ なし、ドライバーなし。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 3D の代替: 肥大化しないアプリごとのボリューム (Mac)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2562,7 +2816,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac で 1 つのアプリを除くすべてをミュートする方法",
     description: "macOS にはアプリごとの音量ミキサーがないため、1 つを除くすべてのアプリを沈黙させるにはヘルパーが必要です。他のすべてをミュートにしたまま、通話、ストリーム、またはゲームだけを聞く方法は次のとおりです。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS には個々のアプリをミュートする方法が組み込まれていないため、1 つのアプリだけを聞くには、アプリごとの音量ミキサーが必要です。インストール <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、メニューバーミキサーを開き、聞きたいアプリ以外のすべてのアプリをミュートにすると、そのアプリは再生を続けますが、残りのアプリは即座に沈黙します。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac で 1 つのアプリを除いてすべてをミュートする方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2616,7 +2870,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac のスピーカーとヘッドフォンで異なる音量を維持する",
     description: "macOS は、スピーカーとヘッドフォンを切り替えると、アプリレベルの音量ミックスを忘れます。この問題が発生する理由、手動制限、およびアプリごとのボリューム メモリが問題を解決する方法を説明します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS は実際には出力デバイスごとに個別のシステム音量を記憶しますが、切り替えるたびにアプリレベルのバランスを忘れてしまいます。そのため、ヘッドフォンとスピーカーはそれぞれの全体的なレベルを維持しますが、プラグを外した瞬間に、1 つのアプリが起動し、別のアプリが消えてしまいます。この修正は、デバイスの切り替え後も存続するアプリごとのボリューム メモリです。macOS にはネイティブ ツールがありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac のスピーカーとヘッドフォンで異なる音量を維持する" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2677,7 +2931,7 @@ export const jaArticles: ArticleSet = {
     title: "Sound Control 生産終了?最高の Mac アプリごとのボリューム代替品 (2026)",
     description: "Static Z Software の Sound Control は廃止され、最新の macOS では動作しません。機能しなくなった理由とその影響、そして 2026 年に切り替えるのに最適なアプリごとの音量ミキサーは次のとおりです。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>Static Z Software の Sound Control は廃止され、販売も更新も行われていません。また、Apple がロックダウンしたカーネル レベルのオーディオ ドライバーに依存しているため、最新の macOS では失敗することが増えています。現在、アプリごとのボリュームが必要な場合、最もクリーンな代替手段は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、ドライバーのないサンドボックス Mac App Store ミキサー。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Sound Control 生産終了?最高の Mac アプリごとのボリューム置換 (2026)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2733,7 +2987,7 @@ export const jaArticles: ArticleSet = {
     title: "SoundBunny はなくなりました — 代わりとなる最新の Mac Per-App Volume アプリ",
     description: "Prosoft の SoundBunny は販売終了となりました。ここでは、現在アクティブにメンテナンスされている macOS アプリごとのボリューム ミキサーを置き換えて、カーネル ドライバーを使用せずにアプリごとのオーディオ設定を移行する方法を示します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>SoundBunny が動作しなくなった場合、または販売終了した場合、最新の代替品は次のとおりです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、現在のmacOS用に構築されたメニューバーのアプリごとの音量ミキサー。 14.99 ユーロの Mac App Store の 1 回限りの購入と同じコア ジョブ (アプリケーションごとの独立したボリューム、ミュート、およびブースト) が提供され、カーネル ドライバー、DMG、または管理するサブスクリプションは必要ありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundBunny はなくなりました — 代わりとなる最新の Mac Per-App Volume アプリ" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2780,7 +3034,7 @@ export const jaArticles: ArticleSet = {
     title: "Boom 2 Mac の代替: Boom 3D アップセルを使用しないアプリごとのボリューム",
     description: "Boom 2 はレガシーであり、引き続き Boom 3D に進みます。アプリごとのボリュームと最新の macOS の単純な強化だけが必要な場合は、ここに焦点を当てた代替手段とその仕組みを示します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>システム全体のブーストには Boom 2 が気に入ったが、シンプルなものが必要な場合 <strong>アプリごと</strong> 現在の Mac のボリュームについては、正直な答えは、Boom 2 はレガシーであり、適切なツールではなくなっているということです。焦点を当てた代替案は、 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>、各アプリに独自の音量スライダー、ミュート、ブーストを提供するメニューバー ミキサーで、1 回あたり €14.99 で、より大きなバンドルにプッシュする必要はありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Boom 2 Mac の代替: Boom 3D アップセルを使用しないアプリごとのボリューム" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2832,7 +3086,7 @@ export const jaArticles: ArticleSet = {
     title: "FineTune 対 SoundDial: Mac の無料オープンソースと有料アプリごとのボリューム",
     description: "FineTune は、Mac 用の無料のオープンソースのアプリごとのボリューム アプリです。 SoundDial は、ブースト、プロファイル、サポートを備えた有料のサンドボックス App Store アプリです。ここでは選択に役立つ正直な比較を示します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>FineTune は、macOS 用の無料のオープンソースのアプリごとのボリューム ミキサーです。そのため、価格だけを重視する場合は、これが本物のオプションです。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> は有料 (14.99 ユーロ、1 回限り) Mac App Store アプリで、アプリごとのボリューム ブースト、保存されたプロファイル、自動ダッキング、ベンダー サポートが追加されます。実際の選択は、無料で DIY するか、サンドボックスでサポートされるかです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — FineTune 対 SoundDial: Mac での無料のオープンソースと有料のアプリごとのボリューム" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2902,7 +3156,7 @@ export const jaArticles: ArticleSet = {
     title: "Background Music 対 SoundDial: 無料の Mac ボリューム ミキサーで十分ですか?",
     description: "無料のBackground Musicアプリと有料のSoundDialの間の公平な対決。無料の仮想ドライバーのアプローチが機能する場所、機能しない場所、そして 14.99 ユーロのネイティブ ミキサーの価値があるのはいつか。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>Background Music は無料で、基本機能は本当に優れています。各アプリに独自の音量スライダーを提供し、別のアプリの再生時に音楽を自動一時停止できます。それだけが必要な場合は、それを使用してください。ただし、仮想オーディオ ドライバーに依存しているため、macOS の更新後に機能しなくなる可能性があり、アプリごとのブースト、プロファイル、出力切り替え機能がありません。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> お金と引き換えに、ドライバー不要でサンドボックス化された、サポートされている代替手段を手に入れます。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Background Music 対 SoundDial: 無料の Mac ボリューム ミキサーで十分ですか?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -2955,7 +3209,7 @@ export const jaArticles: ArticleSet = {
     title: "SoundSource は 39 ドルの価値がありますか?安価な 1 回限りの Mac の代替品",
     description: "SoundSource は、$39 程度の強力な Mac オーディオ ツールですが、アプリごとの音量とブーストだけが必要な場合は過剰です。ここでは正直な比較と、14.99 ユーロの 1 回限りの代替案を示します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>SoundSource は、アプリごとのボリューム、アプリごとの 10 バンド EQ、デバイス間のオーディオ ルーティング、システム全体のエフェクトなどの完全なツールキットが必要な場合に価値があります。しかし、アプリごとの音量、アプリごとのミュート、音量ブーストを主に必要とする場合、約 39 ドルという価格はやりすぎです。その狭い仕事については、 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> 料金は1回14.99ユーロです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — SoundSource は 39 ドルの価値がありますか?安価な 1 回限りの Mac の代替品" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3010,7 +3264,7 @@ export const jaArticles: ArticleSet = {
     title: "Chrome Mac の音が大きすぎますか?すべてをミュートせずに 1 つのブラウザをオフにする",
     description: "Chrome は、Mac の他のアプリよりも大音量で鳴っていますか?組み込みの修正 (タブごとのミュート、サイトのサウンド設定) と、Chrome のアプリごとの実際の音量を設定して、他のすべてのものよりも静かに保つ方法を学びます。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS にはアプリごとの音量が組み込まれていないため、他のアプリを最大音量にしたまま Chrome をネイティブに下げることはできません。最速の無料修正は、うるさいタブをミュートするか、各ビデオプレーヤー内の音量を下げるか、Chrome の設定でサイトごとにサウンドをブロックすることです。実際の永続的な Chrome 専用の音量レベルを得るには、アプリごとのミキサーが必要です。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Chrome Mac の音が大きすぎますか?すべてをミュートせずに 1 つのブラウザをオフにする" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3059,7 +3313,7 @@ export const jaArticles: ArticleSet = {
     title: "WhatsApp および Telegram の通知音が Mac で大きすぎますか?断ってください",
     description: "Mac で大きすぎる WhatsApp および Telegram デスクトップ通知音を修正します。各アプリの組み込み設定から始めて、macOS でアプリごとの制御ができない場合は、アプリ全体の設定を下げるかミュートします。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>各アプリ内から開始します。WhatsApp と Telegram の両方で、独自の設定で通知音をミュートまたは変更できます。これが最もクリーンな修正です。ただし、macOS にはアプリごとの通知音量スライダーがないため、アプリ自体の音がまだ大きすぎる場合、唯一の本当の手段は、アプリごとの音量ツールを使用してアプリ全体の音声を下げるかミュートすることです。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — WhatsApp および Telegram の通知音が Mac で大きすぎますか?断ってください" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3126,7 +3380,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac のゲーム音声は Discord より大きくなりますか?ゲームと声の音量のバランスを取る方法",
     description: "あなたのゲームは Mac 上の Discord ボイスチャットをかき消してしまい、内蔵のボリューム ミキサーがありません。ここでは、macOS に Windows スタイルのアプリごとの音量がない理由と、音声を上げたままゲームを下げる方法を説明します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS にはアプリごとの音量ミキサーが組み込まれていないため、Discord の音量を維持しながらゲームをネイティブにキャップすることはできません。この問題を解決するには、アプリケーションごとに独立したボリュームを設定するメニュー バー アプリを使用します。ゲームを 40 ～ 50% に下げ、ボイスチャットを 100% のままにすると、ゲーム内のスライダーに触れずに両方のバランスが保たれます。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac のゲームオーディオは Discord より大きくなりますか?ゲームと声の音量のバランスを取る方法" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3193,7 +3447,7 @@ export const jaArticles: ArticleSet = {
     title: "外部モニタースピーカーの音量が大きすぎる、または Mac に固定されていますか? HDMI/DisplayPortボリュームを修正",
     description: "Mac のボリューム キーが HDMI または DisplayPort モニター スピーカーを制御しない理由と、モニター OSD、Audio MIDI セットアップ、およびより適切な出力ルーティングを使用して、大きすぎる、スタックする、または調整できないオーディオを修正する方法。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>Mac の音量キーがグレー表示になっている場合、または HDMI または DisplayPort 経由で接続されているモニターに対して何も動作しない場合、通常はバグではありません。デジタル ディスプレイ オーディオは多くの場合、固定レベルで送信され、モニター自体のハードウェアによって音量が制御されます。解決するには、ディスプレイを調整するか、出力のルートを変更するか、別のオーディオ デバイスを使用します。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 外部モニタースピーカーの音量が大きすぎますか、または Mac で動かなくなっていますか? HDMI/DisplayPortボリュームを修正" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3260,7 +3514,7 @@ export const jaArticles: ArticleSet = {
     title: "USB DAC の音量は Mac で調整できませんか?ソフトウェアボリュームコントロールを取り戻す",
     description: "macOS の多くの USB DAC で音量スライダーがグレー表示になる理由、その意味、および音質を損なうことなく Mac でソフトウェアの音量コントロールを正常に戻す方法。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>USB DAC の音量スライダーが Mac でグレー表示になっている場合、通常はバグではありません。 DAC が制御可能なボリュームがないことを報告すると、macOS はソフトウェア ボリュームを無効にし、DAC 独自のハードウェア ノブの使用を期待します。ソフトウェアの音量を元に戻すには、次のようなアプリレベルのアッテネータを使用します。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — USB DAC の音量は Mac では調整できませんか?ソフトウェアボリュームコントロールを取り戻す" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3323,7 +3577,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac で 1 つの大音量アプリの最大音量を制限する (聴覚を保護する)",
     description: "macOS にはアプリごとの音量制限がないため、1 つの大音量アプリでシステムの最大音量を爆発させることができます。ここでは、アプリごとのミキサーを使用して Mac の単一アプリの最大音量の上限を設定する方法と、ハードウェア制限が重要な理由を説明します。",
     date: "2026-07-23",
-    readTime: "5分で読める",
+    readTime: "5分で読めます",
     content: `<p>macOS には、1 つのアプリの最大音量を制限する方法が組み込まれていないため、大音量のプログラムはシステム スライダーの設定に関係なく再生されます。単一アプリの上限を設定するには、次のようなメニューバーのアプリごとのミキサーを使用します。 <a href="https://apps.apple.com/app/id6772792641">SoundDial</a>: そのアプリをたとえば 40% に保ち、その他のシステムの音量は高めのままにします。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac の 1 つの大音量アプリの最大音量を制限する (聴覚を保護する)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3390,7 +3644,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac でアプリごとに異なる左右のバランス — 可能ですか?",
     description: "macOS でアプリごとに異なる左右のステレオバランスを設定できますか?正直に言うと、いいえ、ネイティブではありませんし、ほとんどのツールではありません。ここでは、実際に何が可能であり、実際の限界はどこにあるのかを説明します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>正直なところ、いいえ、macOS ではアプリケーションごとに異なる左右のステレオ バランスを設定できません。また、アプリごとの真のパンニングを公開するサードパーティ ツールもほとんどありません。出力デバイスに対して 1 つのグローバル バランスを設定でき、アプリごとに制御できます。 <em>ボリューム</em>ただし、アプリごとに独立しています <em>パン</em> は、macOS が利用できる機能ではありません。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac のアプリごとに異なる左右のバランス — 可能ですか?" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3444,7 +3698,7 @@ export const jaArticles: ArticleSet = {
     title: "Mac では、一部のアプリの音が他のアプリよりもはるかに大きいのはなぜですか? (そしてそれらを均等にする方法)",
     description: "Mac では、各アプリが独自のラウドネス ターゲットにマスタリングされており、macOS にはアプリごとの音量コントロールが組み込まれていないため、アプリのサウンドは大きく異なります。この問題が発生する理由と、アプリを平準化する方法を説明します。",
     date: "2026-07-23",
-    readTime: "6分で読める",
+    readTime: "6分で読めます",
     content: `<p>アプリのサウンドは、Mac では大きく異なります。これは、各アプリが独自のラウドネス ターゲットに合わせて作成、マスタリング、正規化されており、macOS には、それらを調整するためのアプリごとの音量コントロールが組み込まれていないためです。 Spotify、YouTube、Zoom、およびシステム アラートはすべて同じマスター スライダーを通過するため、常に上下に乗り続ける必要があります。</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac では、一部のアプリの音量が他のアプリよりもはるかに大きいのはなぜですか? (そしてそれらを均等にする方法)" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
@@ -3506,5 +3760,635 @@ export const jaArticles: ArticleSet = {
 <p>制限について明確にするために、SoundDial はアプリの出力のバランスをとります。粗悪に制作されたトラックをリマスタリングすることはできませんし、非常に広いダイナミック レンジでミキシングされたオーディオのディテールを作り出すこともできません。それは、macOS が取り残された 1 つのコントロールを提供することです。安定したアプリごとのレベルが維持されます。</p>
 
 <p>アプリを切り替えるたびにマスター スライダーに乗るのにうんざりしていませんか? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> は、Mac App Store で 14.99 ユーロの 1 回限りです (サンドボックス化、ドライバーなし、DMG なし)。そして最終的にすべてのアプリに独自の記憶ボリュームを与えます。</p>`,
+  },
+  "mac-audio-for-gaming": {
+    slug: "mac-audio-for-gaming",
+    title: "Mac版ゲーミングオーディオ：ゲーム音声、ボイスチャット、音楽を個別に分ける方法",
+    description: "Macでゲームをプレイすると、ゲーム音声、DiscordやFaceTimeのボイスチャット、BGMをすべて1つの音量スライダーでやりくりすることになる。ここでは、それぞれを独立したチャンネルに分ける方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>試合の真っ最中、ゲーム音声がDiscordのチームメイトの声をかき消してしまう。システムの音量を下げれば、指示は聞こえるようになるものの、今度はゲーム音が小さすぎて足音などの反応が遅れてしまう。その間もSpotifyは全開で鳴り続けている。macOSではこれらすべてが1つのスライダーで管理されているため、Macでゲームをプレイするということは、そのスライダーを絶えず調整し続けることを意味する。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macでゲーム、ボイスチャット、音楽の音量を分ける" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜMacのゲーミングオーディオは特に扱いにくいのか</h2>
+
+<p>ゲームは内部でセリフ、効果音、環境音、音楽といった複数のオーディオレイヤーをミックスし、1つのストリームとして出力する。Discord、FaceTime、TeamSpeakのようなボイスチャットアプリが2つ目のストリームを加え、音楽プレーヤーがさらに3つ目を加える。macOSはこれらすべてを対等な存在として1つのマスター出力に流し込むだけで、優先順位をつけたりバランスを取ったりする手段は用意されていない。</p>
+
+<p>多くのゲームには内部音量スライダーが用意されているが、それを調整するにはフルスクリーンのゲームからalt-tabで抜け出す必要があり、プレイの流れが途切れてしまう。さらに、ゲーム内の音楽を下げたとしても、マスター音量を変えずにDiscordの音量をゲームの効果音に対して相対的に上げることはできず、結局は他のすべてに影響を与えてしまう。</p>
+
+<h2>ゲーミングセッションのためのアプリ別オーディオ設定</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、メニューバーから各アプリに独立した音量スライダーを設定できるため、ゲーム内の設定やシステムのスライダーに触れることなく、ゲーミング用のオーディオミックスを組み立てられる。</p>
+
+<h3>典型的なゲーミングプロファイル</h3>
+<ul>
+  <li><strong>ゲーム：</strong> 70%—立体音響の手がかりを聞き取れる十分な大きさでありながら、うるさすぎない</li>
+  <li><strong>Discord / FaceTime：</strong> 100%—チームメイトの指示が常に聞こえる</li>
+  <li><strong>Spotify / Apple Music：</strong> 25%—競合しない程度のBGM</li>
+  <li><strong>ブラウザ：</strong> ミュート—タブからの不意な音声を防ぐ</li>
+  <li><strong>Slack / Messages：</strong> ミュート—プレイ中の通知による中断をゼロに</li>
+</ul>
+
+<p>これを「ゲーミング」プロファイルとして保存しておこう。起動前にワンクリックするだけで、すべてのアプリがゲーミング用の音量に切り替わる。終わったら通常のプロファイルに戻せばよく、手動でスライダーを調整する必要はない。</p>
+
+<h3>ボイスを優先する自動ダッキング</h3>
+
+<p>SoundDialの自動ダッキング機能を使えば、DiscordやFaceTimeが使用されている間、ゲームや音楽の音量を自動的に下げることができる。チームメイトの声は常にはっきりと聞こえ、静かな場面では音量が元に戻る。これはプロの配信者が複雑なルーティングツールで構築するのと同じ仕組みだが、ここではワンタップのトグルで実現できる。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-djing": {
+    slug: "mac-audio-for-djing",
+    title: "Mac版DJオーディオ：モニターと出力を個別にコントロールする方法",
+    description: "MacでDJをする際は、観客が今流れているミックスを聞いている間、ヘッドホンで次の曲をプレビューする必要がある。しかしmacOSではすべての音声が1つの出力にまとめられてしまう。ここでは、モニター用のフィードを分離する方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>Traktor、Serato、rekordbox、あるいはライブセットのAbletonなど、Macを使ってDJをしているとする。観客がスピーカーから今のミックスを聞いている間、あなたはヘッドホンで次の曲をキューイングする必要がある。しかしブラウザにはセットリストが開いており、Spotifyでは参考曲が再生されているかもしれず、Messagesの通知音がモニターから鳴り続ける。macOSには「このアプリはここへ、あのアプリはあちらへ」という音量レベルでの振り分けという概念が存在しない。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macでアプリごとに音量を独立コントロールするDJオーディオ設定" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>macOSにおけるDJオーディオの問題</h2>
+
+<p>プロ向けのDJソフトウェアは内部でキューイングを処理しており、自身の出力をメインミックスとヘッドホンモニターに分割できる。その部分は問題ない。問題はMac上で動いている他のすべてだ。システム通知、ブラウザのタブ、コミュニケーションアプリ、参考曲用のプレーヤーは、すべて同じマスター出力に流れ込んでしまう。セットの最中にPAシステムからSlackの通知音が響くのは、あまり格好の良いものではない。</p>
+
+<p>「おやすみモード」を有効にすることもできるが、それはすでに起動しているアプリの音を消すわけではなく、バナー通知を抑制するだけだ。自動再生されるブラウザタブやFaceTimeの着信音は、システム音量の設定値のままスピーカーから鳴り響いてしまう。</p>
+
+<h2>DJアプリ以外の音声をコントロールする</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、Mac上のすべてのアプリに独立した音量レベルを設定できる。DJセットにおける主な使い方は、DJソフトウェア以外のすべてを消音、あるいは音量を下げることだ。</p>
+
+<h3>DJセット用プロファイル</h3>
+<ul>
+  <li><strong>Traktor / Serato / rekordbox：</strong> 100%—オーディオインターフェースへのフル出力</li>
+  <li><strong>ブラウザ：</strong> ミュート—タブからの不意な音声を防ぐ</li>
+  <li><strong>Spotify：</strong> ミュートまたは10%—必要な時だけ一時的にミュート解除して参考にする</li>
+  <li><strong>Slack / Messages / Mail：</strong> ミュート—通知音をゼロに</li>
+  <li><strong>Calendar：</strong> ミュート—リマインダーのチャイムを防ぐ</li>
+</ul>
+
+<p>これを「DJセット」プロファイルとして保存しておこう。開始前にワンクリックで適用すれば、DJアプリはフルボリュームで動作し、他の何もそれを邪魔できない。セットが終わったら通常のプロファイルに戻せば、通知も元通り再開される。</p>
+
+<h3>参考曲をすばやく確認する</h3>
+
+<p>セットの途中でSpotifyの参考曲をすばやく確認したい場合は、システム全体のミュートを解除するのではなく、Spotify個別のスライダーを上げてヘッドホンで聞き、確認が終わったらまたゼロに戻せばよい。観客にはその音が聞こえることはなく、DJアプリの音量にも影響しない。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "control-notification-sounds-mac": {
+    slug: "control-notification-sounds-mac",
+    title: "Macで通知音の音量をコントロールする方法",
+    description: "Macの通知音は他のすべての音と同じ音量で鳴るか、完全にオフになるかのどちらかで、標準では中間の設定が存在しない。ここでは、音楽を消音せずにアラート音量を抑える方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>Calendarのリマインダーが鳴り、聴いていた音楽と同じ音量でアラート音が響き渡る。思わずびくっとする。システム音量を下げれば、今度は音楽が小さくなりすぎる。macOSは通知音とメディア音声を1つの音量として扱っており、標準で用意された唯一の逃げ道は「おやすみモード」を有効にすることだが、それでは本当に必要なアラートまで含めてすべてが消音されてしまう。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macで通知音の音量を個別にコントロール" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜ通知音の音量はこれほど制御しにくいのか</h2>
+
+<p>macOSのシステム設定には「サウンドエフェクトの再生」の設定とアラート音量のスライダーがあるが、これはシステムのアラート音すべてをまとめて制御するものだ。「Calendarのアラートは30%、Messagesの通知音は50%、Mailは無音」といった指定はできない。アラート音を発するアプリはすべて、同じシステムサウンドレベルを共有している。</p>
+
+<p>より根本的な問題は、多くのアプリがシステムのアラートの仕組みとは別に、独自の通知音を発しているということだ。Slackは独自の音声を再生し、Discordには独自の通知音があり、Chromeのタブも通知音を発することがある。これらはアラート音量スライダーによる制御をまったく受けず、アプリが出力する音量のまま再生され、それを左右できるのはマスタースライダーだけだ。</p>
+
+<h2>通知の発生源をアプリ単位で制御する</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は、すべてのアプリに専用の音量スライダーを用意することでこの問題を解決する。通知音は特定のアプリから発生するため、そのアプリの音量を下げれば通知音も一緒に下がる。</p>
+
+<h3>実践的な設定例</h3>
+<ul>
+  <li><strong>Slack：</strong> 15%—驚かせない程度のさりげない通知音</li>
+  <li><strong>Messages：</strong> 20%—聞こえるが控えめ</li>
+  <li><strong>Mail：</strong> ミュート—自分のタイミングで確認する</li>
+  <li><strong>Calendar：</strong> 25%—気づく程度に</li>
+  <li><strong>Discord：</strong> 10%—うるさくならない程度の存在感</li>
+  <li><strong>Music / ブラウザ：</strong> 70〜100%—邪魔されずに存分に楽しむ</li>
+</ul>
+
+<p>結果として、メディアは自分の望む音量で再生され、通知音は驚かせることなく知らせてくれる程度の音量に収まる。「おやすみモード」は不要で、すべての音は聞こえたまま、それぞれが理にかなった音量に調整される。</p>
+
+<h3>プロファイルと組み合わせる</h3>
+
+<p>通知系アプリの大半をミュートした「集中」プロファイルと、控えめな音量に設定した「通常」プロファイルを保存しておこう。深い集中が必要なときと、ゆるやかに気づきたいときとで、ワンクリックで切り替えられる。「すべてを全開で聞く」か「何も聞こえない」かの二択に悩まされることはもうない。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-volume-too-quiet-at-max": {
+    slug: "mac-volume-too-quiet-at-max",
+    title: "Macの音量が最大でも小さすぎる場合の対処法：100%を超えてブーストする方法",
+    description: "Macの音量を最大にしても、一部のアプリはもどかしいほど音が小さいままのことがある。原因はスピーカーではなく、macOSが個々のアプリの音量をその出力レベル以上にブーストできないことにある。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>Macの音量は100%になっている。それでも聞き取ろうとしている特定のアプリ——声の小さいZoomの通話相手、静かなポッドキャスト、ブラウザの動画——の音はまだ小さすぎる。システムスライダーを最大まで上げても足りない。その一方で、Mac上の他のすべてのアプリは耳が痛くなるほど大きな音になってしまう。問題はスピーカーでも聴力でもない。そのアプリが内部的に低いレベルで音声を出力しており、macOSには1つのアプリだけをその上限を超えて増幅する手段がないということだ。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 音の小さいアプリをMacで100%以上にブースト" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜ最大音量でもまだ足りないのか</h2>
+
+<p>システム音量スライダーは、すべての音を比例的にスケーリングするだけだ。あるアプリが内部的にフルスケールの40%の音量で出力しているとすると、システム音量を100%にしても、実際にスピーカーが出せる音の40%しか聞こえていないことになる。これは次のような場面でよく起こる。</p>
+<ul>
+  <li>相手のマイク音量が小さいビデオ会議アプリ</li>
+  <li>控えめなレベルでマスタリングされたポッドキャストやオーディオブック</li>
+  <li>制作クオリティの低い古いウェブ動画</li>
+  <li>発表者が小声で話す画面録画やチュートリアル動画</li>
+</ul>
+
+<p>マスタースライダーは、アプリ自体の出力レベルを超えて音を押し上げることはできない。これは天井であって、ブースターではない。</p>
+
+<h2>アプリごとに100%を超えてブーストする</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>は、100%を超えて上げられるアプリ別の音量スライダーを提供する。このブースト機能は、システム音量を上げたり他のアプリに影響を与えたりすることなく、特定のアプリのオーディオストリームだけを通常の上限を超えて増幅する。</p>
+
+<h3>使い方</h3>
+<ul>
+  <li>メニューバーからSoundDialを開くと、起動中のすべてのアプリが専用スライダーとともに表示される</li>
+  <li>音の小さいアプリを見つけ、そのスライダーを100%のラインを超えてドラッグする</li>
+  <li>ブーストされるのはそのアプリの音声だけで、他のすべては現在の音量のまま維持される</li>
+  <li>システム音量を上げすぎていた場合は、快適なレベルまで下げ直す</li>
+</ul>
+
+<h3>音質についての注意</h3>
+
+<p>ブーストは魔法ではなく、実際の増幅処理だ。聞き取れなかったポッドキャストを快適なレベルまで持ち上げる程度の適度なブーストであれば、きれいに機能する。一方、非常に静かでノイズの多い音源を極端にブーストすると、ヒスノイズやアーティファクトが目立ちやすくなる。実際のところ、ほとんどの「音が小さすぎる」状況におけるスイートスポットは120〜150%で、この範囲であれば歪みを生じさせずに自然な聞こえ方で問題を解決できる。</p>
+
+<p>システム音量を上げるのに対する最大の利点は、音の小さいアプリだけが大きくなるという点だ。音楽もシステムサウンドも他のアプリも、そのままの音量を保つ。1つの音を聞くためにすべてを爆音にする必要はもうない。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-meditation-focus": {
+    slug: "mac-audio-for-meditation-focus",
+    title: "瞑想と集中のためのMacオーディオ設定：1つのアプリ以外をすべて消音する方法",
+    description: "Macで瞑想アプリやアンビエントサウンドアプリを流していても、通知や他の音が次々と割り込んでくるのでは本末転倒だ。ここでは、落ち着いた音だけを残し、それ以外のすべてをミュートする方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "4分で読めます",
+    content: `
+<p>Macで瞑想アプリやアンビエントサウンド生成アプリ——雨音、バイノーラルビート、ガイド付きセッションなど——を開き、落ち着こうとする。そこへSlackの通知音、Mailのチャイム、うっかり開いたままだったブラウザタブから動画の音が鳴り始める。本来の目的は落ち着いたオーディオ環境を作ることだったのに、macOSではすべてのアプリが同じ音量を共有し、「このアプリだけ音を出す」という指定ができないため、その目的はあっさり崩れてしまう。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macで瞑想用の音声だけを残し他をすべて消音" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>集中のためのオーディオという課題</h2>
+
+<p>「おやすみモード」は通知バナーを抑制するが、アプリの音自体はミュートしない。Slackは相変わらず独自の音を鳴らし、ブラウザタブは自動再生され、Calendarはチャイムを鳴らし続ける。標準で用意された唯一の手段は、システムのミュートキーですべてを消音することだが、それでは瞑想用の音まで消えてしまう。macOSには「このアプリ以外すべてミュート」という機能が存在しない。</p>
+
+<h2>1つのアプリの音だけを残す</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、選んだアプリだけをフルボリュームのまま残し、他のすべてのアプリを個別にミュートできる。設定は数秒で完了する。</p>
+
+<h3>集中・瞑想用プロファイル</h3>
+<ul>
+  <li><strong>瞑想アプリ（Calm、Headspace、Endel、アンビエント音声を流すブラウザタブなど）：</strong> 100%</li>
+  <li><strong>それ以外すべて：</strong> ミュート</li>
+</ul>
+
+<p>これを「集中」プロファイルとして保存しておこう。セッション前にワンクリックすれば、落ち着いた音だけが流れる状態になる。終わったら通常のプロファイルに戻せば、すべてが普段通りの音量に戻る。</p>
+
+<h3>勉強や深い集中作業</h3>
+
+<p>同じ考え方は、集中を要するあらゆる作業セッションにも応用できる。ローファイミュージックやホワイトノイズを心地よいレベルに保ちつつ、Slackやメールをミュートし、アンビエントな音だけがヘッドホンを満たすようにする。気を散らすものと戦う必要はなく、そもそもオーディオ環境の中にそれらが存在しなくなる。</p>
+
+<h3>元の状態への復帰</h3>
+
+<p>セッションが終わっても、6つものアプリを手動でミュート解除する必要はない。「通常」や「仕事」プロファイルに切り替えるだけで、すべてのアプリの音量がセッション前のレベルに一瞬で戻る。ミュートを解除し忘れることも、再有効化を忘れて通知が溜まってしまうこともない。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-video-editing": {
+    slug: "mac-audio-for-video-editing",
+    title: "動画編集のためのMacオーディオ設定：Premiere、DaVinci、タイムラインプレビュー",
+    description: "Macで動画編集を行う際は、参照用クリップ、コミュニケーションアプリ、システムサウンドが同じ音量を奪い合う中で、タイムラインの音声をプレビューする必要がある。ここでは、編集用のオーディオだけを切り分ける方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>DaVinci Resolve、Premiere Pro、あるいはFinal Cutで編集作業をしているとする。タイムラインをスクラブしながら、セリフの音量レベルを正確に聞き取る必要がある。しかしSlackは通知音を鳴らし続け、参照用映像を開いたブラウザタブは再生中で、Apple Musicもバックグラウンドで流れている。他の3つのアプリの音が予測不能な音量でミックスに混ざり込んでいては、編集の音声を正しく判断することはできない。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macでアプリ別音量による動画編集オーディオ管理" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜ動画編集者には分離されたオーディオが必要なのか</h2>
+
+<p>動画編集におけるオーディオミキシングには、正確なモニタリングが欠かせない。Slackの通知音がタイムラインのセリフと同じレベルで鳴れば、そのセリフが実際に適切にミックスされているかどうか判断できなくなる。Spotifyのバックグラウンド音楽がモニタリング環境に漏れ込むと、耳がそれを補正しようとしてしまい、結果としてレベル設定を誤ってしまう。プロの編集者は音響処理された部屋で管理されたモニタリング環境を使って作業するが、ソフトウェアのレベルにおいてさえ、macOSは編集アプリの音声を他のすべてから切り離す手段を提供していない。</p>
+
+<p>多くの編集者が使う回避策は、編集を始める前に他のすべてを終了させることだ。Slackを閉じ、Musicを一時停止し、ブラウザタブを閉じる。これはうまくいくが、YouTubeのチュートリアルを参照したり、クライアントとのチャットを開いたままにしたり、モニタリング環境を乱さずに参考曲を聴いたりすることができなくなってしまう。</p>
+
+<h2>編集セッションのためのアプリ別コントロール</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、すべてのアプリを開いたままにしつつ、何をどのレベルで聞くかをコントロールできる。</p>
+
+<h3>編集用プロファイル</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut：</strong> 100%—正確なタイムラインモニタリング</li>
+  <li><strong>ブラウザ：</strong> ミュート（参照クリップを確認する時だけ一時的にミュート解除し、また戻す）</li>
+  <li><strong>Slack / Messages：</strong> ミュート—モニタリング環境に余計な音を入れない</li>
+  <li><strong>Music：</strong> ミュート—競合する音を排除</li>
+  <li><strong>Mail / Calendar：</strong> ミュート</li>
+</ul>
+
+<h3>レビュー用プロファイル</h3>
+<ul>
+  <li><strong>編集ソフト：</strong> 80%—快適なレビュー音量</li>
+  <li><strong>Slack：</strong> 20%—レンダリング待ちの間にメッセージを見逃さない</li>
+  <li><strong>ブラウザ：</strong> 50%—参考資料にアクセスできる状態を維持</li>
+</ul>
+
+<p>ワークフローに応じてプロファイルを切り替えよう。重要なオーディオミキシングの最中はタイムライン以外のすべてを消音し、レンダリング中は通知を戻して連絡が取れる状態にする。わずか2クリックで、まったく異なる2つのモニタリング環境を使い分けられる。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "per-app-volume-control-mac-2026": {
+    slug: "per-app-volume-control-mac-2026",
+    title: "2026年版：Macでアプリごとの音量を管理する方法一覧",
+    description: "2026年になった今も、macOSには標準の音量ミキサーが搭載されていない。ここでは、無料ツール、有料ツール、そして回避策まで、アプリごとに音量を独立管理するためのあらゆる選択肢を紹介する。",
+    date: "2026-09-06",
+    readTime: "6分で読めます",
+    content: `
+<p>2026年になった。Windowsは2007年のVista以来、アプリごとの音量ミキサーを備えている。それでもmacOSには依然として存在しない。Zoomの通話音量を下げずにSpotifyだけを下げたいと思っても、Appleの答えは今も「それはできません」のままだ。では、2026年時点で実際に取りうる選択肢は何だろうか。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 2026年のMacにおけるアプリ別音量管理の選択肢" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>現在の状況</h2>
+
+<p>現時点で利用可能なあらゆるアプローチについて、実際のトレードオフを含めて正直にまとめてみよう。</p>
+
+<h3>無料の選択肢</h3>
+<ul>
+  <li><strong>Background Music</strong>—オープンソースで、基本的なアプリ別音量スライダーを備えている。ただしコミュニティによって保守されており、これまでmacOSのメジャーアップデートのたびに動作しなくなることがあった。100%以上のブーストやプロファイル、自動ダッキングもない。無料であることが唯一の条件で、OSアップデート後のトラブルシューティングも厭わないなら試す価値がある。</li>
+  <li><strong>FineTune</strong>—無料でオープンソースの、シンプルなメニューバー音量コントロール。機能は控えめだが、基本的な調整には十分に信頼できる。</li>
+  <li><strong>eqMac</strong>—無料のイコライザーとシステム全体の音量コントロール。アプリ別ミキシングよりもイコライジングに重点が置かれているが、アプリ別の機能もいくらか備えている。</li>
+</ul>
+
+<h3>有料の選択肢</h3>
+<ul>
+  <li><strong>SoundSource</strong>（Rogue Amoeba、約39ドル）—プロ向けのツール。アプリ別音量、アプリ別EQ、出力ルーティング、エフェクトを備える。オーディオキャプチャ用のコンポーネントをインストールする必要があり（App Store非対応）、単に音量スライダーが欲しいだけなら過剰な機能だが、高度なオーディオルーティングが必要なら申し分ない。</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong>（14.99ユーロ、買い切り）—アプリ別音量、ミュート、100%を超えるブースト、保存可能なプロファイル、自動ダッキングを備える。Mac App Store提供でサンドボックス化されており、ドライバー不要。無料ツールとSoundSourceの中間に位置する選択肢。</li>
+  <li><strong>Audio Hijack</strong>（Rogue Amoeba、約72ドル）—アプリ間でオーディオをキャプチャしルーティングする。録音や複雑なルーティングには強力だが、シンプルな音量ミキサーというよりはプロ向けのオーディオツールだ。</li>
+</ul>
+
+<h3>標準機能での回避策</h3>
+<ul>
+  <li>アプリによっては内部音量スライダーを備えている（Spotify、VLC、ほとんどのゲームなど）。ただし調整は各アプリの中で個別に行う必要があり、それらを横断的にまとめる仕組みはなく、そもそも音量調整機能自体を持たないアプリも多い。</li>
+  <li>「おやすみモード」は通知バナーをミュートするが、アプリの音量自体は制御しない。</li>
+  <li>システム音量スライダーは、オール・オア・ナッシングの調整しかできない。</li>
+</ul>
+
+<h2>どれを選ぶべきか</h2>
+
+<p>自分に本当に必要なものを正直に見極めよう。無料であることを優先し、時々動作しなくなっても構わないならBackground Music。プロ仕様のオーディオルーティングとEQが必要ならSoundSource。App Storeならではの安全性とドライバー不要という手軽さを保ちながら、プロファイルとブーストを備えた信頼できるシンプルな音量ミキサーを適正価格で求めるなら、<a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>がちょうどよい選択肢になる。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-ducking-automatic": {
+    slug: "mac-audio-ducking-automatic",
+    title: "Macで自動オーディオダッキングを設定する：誰かが話し始めたら音楽を自動で下げる",
+    description: "通話が始まったり誰かが話し始めたりしたら、音楽は自動的に下がってほしい。しかしmacOSには標準でこの機能が備わっていない。ここでは、Macで自動オーディオダッキングを設定する方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>Macで音楽を聴いていると、Zoomの通話が始まる。あわててSpotifyを一時停止するか音量を下げて、会議の音声を聞き取れるようにする。通話が終わったら、また音楽の音量を上げ直す。これが1日に5回も起これば、そのたびに手作業での中断が発生することになる。優先すべき音源が鳴ったときにバックグラウンドの音声を自動的に下げる「オーディオダッキング」は、放送やストリーミングの世界では標準的な機能だ。しかしmacOSには、この機能が標準では存在しない。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macでの自動オーディオダッキング、通話中は音楽を自動で下げる" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>オーディオダッキングとは実際に何をするものか</h2>
+
+<p>ダッキングの仕組みはシンプルだ。優先すべき音源として指定されたものが鳴り始めると、他のすべての音源の音量が一定量だけ自動的に下がる。優先音源が止まると、すべての音量は元のレベルに戻る。放送業界では、司会者の声が常にBGMより前面に出るようにするためにこれを利用し、配信者は自分が話すときにゲーム音声を下げるために利用している。</p>
+
+<p>macOSでこれに最も近い標準機能は、VoiceOverのアナウンス中にバックグラウンドの音声を下げるユーザ補助設定だ。しかしこれはあくまでVoiceOver専用であり、通話やボイスチャット、任意のアプリに対応した汎用的なダッキング機能は存在しない。</p>
+
+<h2>SoundDialで自動ダッキングを設定する</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>には、自動オーディオダッキング機能が標準で搭載されている。ダッキングのトリガーとなるアプリ——通常はコミュニケーション系アプリ——を指定しておけば、そのアプリが音を発するたびに他のすべてのアプリの音量が自動的に下がる。</p>
+
+<h3>よくあるダッキングの設定例</h3>
+<ul>
+  <li><strong>Zoom / Google Meet / FaceTimeを優先に設定：</strong> 通話が行われている間、音楽やブラウザなど他のアプリの音が下がる。手動で音量を変えなくても、会議の声は常にクリアに聞こえる。</li>
+  <li><strong>Discordを優先に設定：</strong> チームメイトが話すと、ゲーム音声や音楽が下がる。爆発音や大音量のサウンドトラックの下で指示を聞き逃すことがなくなる。</li>
+  <li><strong>ポッドキャスト収録：</strong> DAWの入力がアクティブになると他のすべてが下がり、モニタリング環境をクリーンに保てる。</li>
+</ul>
+
+<h3>実際に使うとどう感じるか</h3>
+
+<p>切り替わりは滑らかだ。優先アプリの音が鳴るとバックグラウンドの音がフェードダウンし、止まると再びフェードアップする。それまで手動で行っていたのとまったく同じことを、中断なしでやってくれるだけなので、使い始めて1時間もすれば意識しなくなる。会話の途中でスライダーに手を伸ばす必要はもうない。</p>
+
+<p>アプリ別音量やプロファイルと組み合わせることで、ダッキングは全体の仕上げとなる。各アプリはあらかじめ適切な音量から始まり、1日を通しての動的な調整はダッキングが引き受けてくれる。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "control-browser-tab-volume-mac": {
+    slug: "control-browser-tab-volume-mac",
+    title: "Macでブラウザのタブごとに音量をコントロールすることはできるのか",
+    description: "あるタブは大音量で音を出しているのに、別のタブの動画はとても静か。macOSでタブごとに音量をコントロールすることはできるのか。ここでは、実際に何ができて何ができないのかを解説する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>あるタブではYouTubeのチュートリアルが再生され、別のタブでは音の小さいLoomの動画が流れており、3つ目のタブでは広告が勝手に自動再生を始めた。YouTubeのタブは音量を下げ、Loomのタブはブーストし、広告はミュートしたい——それぞれ独立して。macOSでブラウザのタブごとに音量をコントロールすることはできるのだろうか。正直なところ、標準機能ではできないし、ほとんどのツールでもできない。ただしブラウザ全体の音量ならコントロールでき、それだけでも多くの悩みは解決する。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macでブラウザの音量をコントロール" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜタブごとの音量調整が存在しないのか</h2>
+
+<p>ブラウザはすべてのタブの音声を1つの出力ストリームにミックスしてから、OSに渡している。macOSから見れば、Chromeは1つの音声ストリームを生成する1つのアプリにすぎない。Safariも1つのアプリ、Firefoxも1つのアプリだ。OS側にはどのタブがどの音を出しているかを見分ける手段がなく、その情報はブラウザ内部のオーディオエンジンの中にとどまっていて、外部ツールには公開されていない。</p>
+
+<p>一部のブラウザではタブごとにミュートすることができる（タブ上のスピーカーアイコンをクリックする）が、これはオン・オフの二択であり、タブ単位の音量スライダーは存在しない。うるさいタブをミュートすることはできても、あるタブを20%に下げつつ別のタブを80%のまま維持する、といったことはできない。</p>
+
+<h2>実際にコントロールできるもの</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はアプリ単位で音量をコントロールする。それぞれのブラウザは別々のアプリなので、次のように独立してコントロールできる。</p>
+
+<h3>複数ブラウザを使ったワークフロー</h3>
+<ul>
+  <li><strong>Chrome：</strong> 100%—メインで見ている動画やチュートリアル</li>
+  <li><strong>Safari：</strong> 40%—バックグラウンドの参考資料</li>
+  <li><strong>Firefox：</strong> ミュート—テストや開発ツール用で音は不要</li>
+</ul>
+
+<p>複数のブラウザを使っている場合（多くの開発者やリサーチャーがそうしている）、ブラウザごとに専用のスライダーが割り当てられる。異なるコンテンツを異なるブラウザに振り分け、それぞれ独立してミックスできるという意味で、これは実質的な「タブグループ」単位のコントロールと言える。</p>
+
+<h3>ブラウザとそれ以外</h3>
+
+<p>より一般的なシナリオは、単にブラウザの音を他のアプリとは違うレベルにしたいというものだ。YouTubeのチュートリアルに対して音楽がうるさすぎるなら、Chromeを100%に保ちながらSpotifyを30%まで下げればよい。Zoom通話中にブラウザタブで参考資料を再生している場合は、通話中だけアプリ別ミュートでブラウザを完全にミュートし、終わったら解除すればよい。</p>
+
+<h3>タブミュートによる回避策</h3>
+
+<p>1つのブラウザの中で本当の意味でタブ単位のコントロールをしたい場合、標準搭載のタブミュートが唯一の選択肢だ。これをSoundDialのブラウザ別音量と組み合わせるとよい。うるさいタブはブラウザ内でミュートし、ブラウザ全体の音量は他のアプリとの兼ね合いでSoundDialから調整する。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-language-learning": {
+    slug: "mac-audio-for-language-learning",
+    title: "語学学習のためのMacオーディオ設定：Anki、ポッドキャスト、動画を分けて管理する",
+    description: "Macで語学学習をしていると、フラッシュカードの音声、ポッドキャスト、動画レッスン、辞書アプリの発音が、すべて同じ音量を奪い合うことになる。ここでは、それらのバランスを取る方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "4分で読めます",
+    content: `
+<p>Macで語学学習をしているとする。Ankiはフラッシュカードの発音音声を再生し、バックグラウンドでは没入学習のために目標言語のポッドキャストが流れ、ブラウザではYouTubeの文法レッスンを開いている。これで3つの音源が同時に鳴ることになり、それぞれ元々の音量が異なるにもかかわらず、macOSはそれらすべてを1つのスライダーでしか制御できない。結果として、Ankiの発音クリップは聞き取れないほど小さく、ポッドキャストは大きすぎ、YouTube動画はその中間あたりに落ち着いてしまう。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — アプリ別音量によるMacの語学学習オーディオ設定" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>語学学習者を悩ませるオーディオの混乱</h2>
+
+<p>語学学習は、その性質上、複数の音源が同時に関わってくる。フラッシュカードアプリは短いクリップを再生し、ポッドキャストアプリは連続した音声をストリーミングし、動画レッスンは音楽や効果音とセリフを混ぜて再生し、辞書アプリはリクエストに応じて単語を発音する。それぞれの音源は独自の内部音量レベルを持っており、互いに合わせて調整されることは決してない。</p>
+
+<p>通常の回避策は、今使っているもの以外をすべて一時停止することだ。しかしそれでは、多くの学習者が頼りにしている「バックグラウンド没入」というアプローチ——他の学習活動をしながら目標言語の音声を小さく流し続ける——が成り立たなくなってしまう。</p>
+
+<h2>語学学習のためのレイヤー化されたオーディオ</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、各アプリを理想的な音量に設定し、複数の音源を心地よいミックスで同時に流しておくことができる。</p>
+
+<h3>学習用プロファイル</h3>
+<ul>
+  <li><strong>Anki：</strong> 100%（クリップが小さい場合はブースト）—発音は明瞭に聞き取れる必要がある</li>
+  <li><strong>ポッドキャストアプリ：</strong> 20〜30%—能動的な学習の邪魔をしない程度の控えめな没入用BGM</li>
+  <li><strong>ブラウザ（YouTubeレッスン）：</strong> 80%—視聴中ははっきり聞こえ、カードを復習する際は下げやすい</li>
+  <li><strong>辞書アプリ：</strong> 90%—リクエストに応じた単語の発音がしっかり聞こえる</li>
+  <li><strong>Slack / Messages：</strong> ミュート—学習時間は学習に集中する</li>
+</ul>
+
+<h3>没入モード</h3>
+<ul>
+  <li><strong>ポッドキャスト / ラジオストリーム：</strong> 60%—快適なリスニング音量</li>
+  <li><strong>それ以外すべて：</strong> ミュートまたは非常に低い音量</li>
+</ul>
+
+<p>能動的な学習から受動的な没入学習へと切り替えるタイミングで、プロファイルを切り替えよう。毎回手動でスライダーを調整しなくても、オーディオ環境が学習モードに合わせて変化してくれる。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-volume-profiles-work-vs-home": {
+    slug: "mac-volume-profiles-work-vs-home",
+    title: "Macの音量プロファイル：仕事用と自宅用のオーディオ設定を切り替える",
+    description: "仕事中に理想的なアプリの音量設定は、自宅で過ごす夜の設定とはまったく異なる。状況が変わるたびに5つのアプリを手動で調整するのは時間の無駄だ。ここでは、ワンクリックで済む代替手段を紹介する。",
+    date: "2026-09-06",
+    readTime: "4分で読めます",
+    content: `
+<p>午前9時には、Zoomは大きめに、Slackは控えめな通知音に、音楽は小さく、ブラウザはミュートにしておきたい。午後6時、仕事が終われば、Zoomはもうどうでもよく、Slackは無音であるべきで、音楽は80%まで上げ、ブラウザではNetflixを全開の音量で流したい。つまり、1日2回、5つか6つのアプリを毎日手動で調整することになる。ほとんどの人はそれを面倒に感じ、結局は半分の時間を誤った音量のまま過ごしている。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Macで仕事用と自宅用の音量プロファイルを切り替える" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>コンテキストスイッチのコスト</h2>
+
+<p>何をしているかによって、求められるオーディオ設定はまったく異なる。しかしmacOSには「オーディオコンテキスト」という概念自体が存在しない。「仕事モード」の音量設定や「夜用」のプリセットは用意されていない。状況が変わるたびに、各アプリを手動で調整するか、一部のアプリが大きすぎたり小さすぎたりするのを受け入れるかのどちらかを選ぶことになる。</p>
+
+<p>これは1日1回だけの問題ではない。多くの人は、朝の集中作業、スタンドアップミーティング、深い集中作業、昼休み、午後のコラボレーション、夜のプライベートな時間と、何度もコンテキストを切り替えている。それぞれに理想的なオーディオ設定があり、どれ一つとして同じではない。</p>
+
+<h2>あらゆるコンテキストに対応する音量プロファイル</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、アプリ別の音量設定一式を名前付きのプロファイルとして保存し、メニューバーからワンクリックで切り替えられる。</p>
+
+<h3>仕事用プロファイル</h3>
+<ul>
+  <li><strong>Zoom / Meet：</strong> 100%</li>
+  <li><strong>Slack：</strong> 20%—控えめな通知</li>
+  <li><strong>Music：</strong> 25%—集中用のBGM</li>
+  <li><strong>ブラウザ：</strong> ミュート</li>
+  <li><strong>Messages：</strong> ミュート</li>
+</ul>
+
+<h3>自宅用プロファイル</h3>
+<ul>
+  <li><strong>Music / Spotify：</strong> 80%</li>
+  <li><strong>ブラウザ（ストリーミング）：</strong> 100%</li>
+  <li><strong>Slack：</strong> ミュート</li>
+  <li><strong>Zoom：</strong> ミュート</li>
+  <li><strong>Messages：</strong> 50%</li>
+</ul>
+
+<h3>集中用プロファイル</h3>
+<ul>
+  <li><strong>Music：</strong> 40%—ローファイやアンビエント系</li>
+  <li><strong>それ以外すべて：</strong> ミュート</li>
+</ul>
+
+<p>3つのプロファイルで、3つのまったく異なるオーディオ環境を実現できる。切り替えはワンクリックで即座に反映される。Macのオーディオがあなたに合わせて変化するのであって、その逆ではない。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-twitch-streaming": {
+    slug: "mac-audio-for-twitch-streaming",
+    title: "Twitch配信のためのMacオーディオ設定：ゲーム、アラート、音楽、マイク",
+    description: "MacからTwitchで配信をする際は、ゲーム音声、配信アラート、BGM、チャットの音を、それぞれ視聴者にとって適切な音量で管理する必要がある。ここでは、それらを正しくミックスする方法を紹介する。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>MacからTwitchで配信をしているとする。OBSはゲーム、マイク、デスクトップオーディオをキャプチャしている。しかし「デスクトップオーディオ」は1つにミックスされた信号にすぎず、ゲーム、アラート音、BGM、Discord、通知音のすべてが、macOSが決めるままの音量で同じチャンネルに流れ込んでしまう。視聴者側では、アラートがゲームプレイの音をかき消し、音楽が解説の声を埋もれさせ、Slackの通知音が突然配信に割り込んでくるという、バランスの取れていない状態が聞こえてしまう。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — アプリ別音量によるMacでのTwitch配信オーディオミックス" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜMacでの配信オーディオは扱いにくいのか</h2>
+
+<p>OBSは「デスクトップオーディオ」を、Mac上で再生されているすべての音がまとめられた単一のストリームとしてキャプチャする。Windowsでは、配信者は標準搭載の音量ミキサーを使い、OBSがキャプチャする前にアプリの音量をあらかじめ調整しておくことができる。macOSにはそのミキサーが存在しない。キャプチャ前のミックスは、そのとき再生されている音が、各アプリのデフォルトの音量のまま流れているだけの状態になる。</p>
+
+<p>プロのMac配信者は、通常、仮想オーディオルーティングツールを使って音源ごとに別々のオーディオチャンネルを作成している。これはうまく機能するが、設定が複雑で、オーディオドライバーが必要になり、macOSのアップデートでオーディオフレームワークが変更されると動作しなくなることがある。</p>
+
+<h2>アプリ別音量による事前ミキシング</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、OBSが統合出力をキャプチャする前に、各アプリの音量バランスを整えることができる。OBSは最終的なミックスを取り込むため、SoundDialで各アプリの音量を調整すれば、視聴者に届く音に直接反映される。</p>
+
+<h3>配信用プロファイル</h3>
+<ul>
+  <li><strong>ゲーム：</strong> 60%—存在感はあるが圧倒しすぎない程度</li>
+  <li><strong>アラートアプリ / Streamlabs：</strong> 40%—視聴者を盛り上げる程度に聞こえ、ゲームプレイより大きくならない</li>
+  <li><strong>音楽（Spotify / Apple Music）：</strong> 15〜20%—BGM程度で、DMCA的にも安全な音量</li>
+  <li><strong>Discord：</strong> 50%—コラボ配信やモデレーターとのやり取り用</li>
+  <li><strong>ブラウザ：</strong> ミュート—配信中にタブから不意の音が出ないように</li>
+  <li><strong>Slack / Mail / Messages：</strong> ミュート—個人的な通知は配信に映らないように</li>
+</ul>
+
+<h3>配信中のすばやい調整</h3>
+
+<p>視聴者からゲームの音が大きすぎると言われたら、配信シーンからalt-tabで抜けることなく、メニューバーからゲームのスライダーだけを下げればいい。音楽が小さすぎるなら、少し上げればいい。SoundDialでスライダーをさっとドラッグする操作は視聴者には見えず、画面上に設定パネルが表示されることも配信が中断されることもない。</p>
+
+<h3>解説音声のための自動ダッキング</h3>
+
+<p>自動ダッキングを有効にしておけば、自分が話すときにゲームや音楽の音量が自動的に下がる。解説の声は常にはっきりと届き、静かな場面では音量が元に戻る——これはまさに、プロの配信者が高価なオーディオルーティング機材で実現しているのと同じことだ。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-music-lessons": {
+    slug: "mac-audio-for-music-lessons",
+    title: "オンライン音楽レッスンのためのMacオーディオ設定：DAW、ビデオ通話、メトロノームを分ける",
+    description: "オンラインで音楽レッスンを受ける、あるいは教える際は、DAWやメトロノーム、バッキングトラックが同じ音量スライダーを奪い合う中で、生徒や先生の声をはっきり聞き取る必要がある。",
+    date: "2026-09-06",
+    readTime: "5分で読めます",
+    content: `
+<p>オンラインで音楽レッスンを受けている、あるいは教えているとする。生徒はZoom越しに演奏し、それをはっきりと聞き取る必要がある。GarageBandやLogicではバッキングトラックが流れ、メトロノームアプリが時を刻み、もしかするとSpotifyには参考録音がキューされているかもしれない。これらすべてが1つのシステム音量スライダーを奪い合う。生徒の音を聞き取るために音量を上げれば、メトロノームが耳をつんざくほど大きくなる。メトロノームを手動で下げれば、今度はバッキングトラックが小さすぎて一緒に演奏できなくなる。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — アプリ別音量によるMacでのオンライン音楽レッスンのオーディオ設定" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>オンライン音楽レッスンならではの難しさ</h2>
+
+<p>音楽レッスンには、他のどんな用途にもない精密なオーディオバランスが求められる。相手の演奏を、技術やタイミングの問題を聞き分けられるだけの忠実度で聞き取る必要がある。メトロノームやクリックトラックは聞こえる必要があるが、演奏より前に出てはいけない。バッキングトラックは演奏の下に収まるべきで、上に来てはいけない。さらに先生の立場であれば、生徒に参考録音を聞かせる必要があるかもしれず、アプリを切り替えながらも相対的な音量バランスを保ち続けなければならない。</p>
+
+<p>これらの音源はそれぞれ独自の内部音量レベルを持っており、互いに連携することはない。macOSにはそれらをバランスさせる手段が用意されていない。</p>
+
+<h2>レッスン用のオーディオミックスを組み立てる</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、各アプリの内部設定に触れることなく、それぞれを理想的な音量に設定し、レッスンのためのバランスの取れたミックスを作ることができる。</p>
+
+<h3>指導用プロファイル</h3>
+<ul>
+  <li><strong>Zoom / FaceTime：</strong> 100%—生徒の音声を最優先</li>
+  <li><strong>メトロノームアプリ：</strong> 35%—聞こえるが圧倒しないクリック音</li>
+  <li><strong>GarageBand / Logic：</strong> 50%—演奏の下に収まるバッキングトラック</li>
+  <li><strong>Spotify：</strong> ミュート（参考再生の時だけ一時的にミュート解除）</li>
+  <li><strong>Slack / Mail：</strong> ミュート—レッスン中の中断をゼロに</li>
+</ul>
+
+<h3>練習用プロファイル</h3>
+<ul>
+  <li><strong>メトロノーム：</strong> 50%—はっきりとしたタイミングの基準</li>
+  <li><strong>DAW：</strong> 80%—練習に適した十分な音量のバッキングトラック</li>
+  <li><strong>Spotify：</strong> 70%—参考録音にすぐアクセスできる音量</li>
+  <li><strong>それ以外すべて：</strong> ミュート—練習に集中</li>
+</ul>
+
+<p>指導から個人練習へは、ワンクリックで切り替えられる。毎回4つも5つものアプリを手動で調整することなく、オーディオ環境がそのときの活動に合わせて整う。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "mac-audio-for-online-therapy": {
+    slug: "mac-audio-for-online-therapy",
+    title: "オンラインセラピーのためのMacオーディオ設定：プライバシー、明瞭さ、中断ゼロを実現する",
+    description: "オンラインセラピーのセッションには、徹底したオーディオ上のプライバシーと、中断が一切ないことが求められる。セッション中のSlackの通知音やチャイムは、単に煩わしいだけでなく、プロセスそのものを妨げてしまう。",
+    date: "2026-09-06",
+    readTime: "4分で読めます",
+    content: `
+<p>Macでオンラインセラピーのセッションを受けているとする。この会話には、完全な集中と、プライバシーが守られているという安心感が必要だ。そこへSlackの通知音が鳴り、Calendarのリマインダーがチャイムを鳴らし、開いたままだったことを忘れていたブラウザタブから音が流れ始める。ひとつひとつの中断がその瞬間から意識を引き離してしまい、「また何か割り込んでくるのではないか」という不安そのものが、次の音が鳴る前からセッションを損なってしまうこともある。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 中断ゼロを実現するMacでのプライベートなセラピーセッションのオーディオ設定" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>なぜ「おやすみモード」だけでは不十分なのか</h2>
+
+<p>「おやすみモード」は通知バナーとほとんどのアラート音を抑制するが、完全ではない。一部のアプリは、システムの仕組みとは別に独自の通知音を鳴らす。ブラウザタブは自動再生されることがある。起動していることを忘れていたアプリが予期せぬ音を出すこともある。そして「おやすみモード」は、本質的な問題——セラピー用アプリ（Zoom、Doxy、あるいはブラウザベースのプラットフォーム）を完璧に明瞭な音で聞きたい一方で、それ以外はすべて確実に無音であってほしい——には対応してくれない。</p>
+
+<h2>完全に閉じたオーディオ環境</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を使えば、セラピー用のプラットフォーム以外のすべてのアプリをミュートし、中断が単に抑制されているのではなく、構造的に起こり得ないオーディオ環境を作ることができる。</p>
+
+<h3>セラピーセッション用プロファイル</h3>
+<ul>
+  <li><strong>Zoom / ブラウザ（セラピー用プラットフォーム）：</strong> 100%—明瞭でフルボリュームのコミュニケーション</li>
+  <li><strong>それ以外すべてのアプリ：</strong> ミュート—Slack、Mail、Messages、Calendar、Music、サブのブラウザなど</li>
+</ul>
+
+<p>セッションが始まる前にこのプロファイルを適用しておこう。その後の1時間、Macが発する音はセラピー用アプリからのものだけになる。Slackの通知音がスピーカーに届くこともなければ、Calendarのチャイムも、開きっぱなしだったブラウザタブの音もない。他のアプリの静けさは、期待するものではなく、保証されたものになる。</p>
+
+<h3>セッション後、通常の状態に戻す</h3>
+
+<p>セッションが終わったら、通常のプロファイルに戻そう。すべてのアプリが通常の音量に戻る。見逃した通知は、それぞれのアプリの中でそのまま待っている。何かが失われたわけではなく、プライバシーが必要だった時間だけ、静かにされていただけだ。</p>
+
+<h3>同じ設定は次のような場面にも応用できる</h3>
+<ul>
+  <li>医療のオンライン診療</li>
+  <li>機密性の高い仕事上の会話</li>
+  <li>重要な電話インタビュー</li>
+  <li>オーディオのプライバシーと中断ゼロが重要になるあらゆる場面</li>
+</ul>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
+  },
+  "virtual-audio-driver-vs-sounddial-mac": {
+    slug: "virtual-audio-driver-vs-sounddial-mac",
+    title: "仮想オーディオドライバー vs SoundDial：Macではどちらのアプローチが優れているのか",
+    description: "仮想オーディオドライバーとメニューバー型の音量ミキサーは、どちらもMacでアプリごとのオーディオ制御を実現すると謳っている。しかし内部の仕組みはまったく異なる。ここでは、両者のアプローチを正直に比較する。",
+    date: "2026-09-06",
+    readTime: "6分で読めます",
+    content: `
+<p>Macでアプリごとの音量をコントロールしたいとする。調べてみると、2種類のツールが見つかるはずだ。1つは仮想オーディオドライバー（Loopback、BlackHole、あるいはSoundSourceに含まれるドライバーコンポーネントなど）、もう1つは軽量なメニューバー型ミキサー（SoundDialやBackground Musicなど）だ。どちらもアプリごとの独立した音量コントロールを謳っているが、その実現方法は根本的に異なり、それぞれのトレードオフを理解しておく必要がある。</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial vs 仮想オーディオドライバー — Macにおけるアプリ別オーディオ管理手法の比較" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>仮想オーディオドライバーの仕組み</h2>
+
+<p>仮想オーディオドライバーは、macOS上に仮想のオーディオデバイスを作り出す。アプリはこの仮想デバイスに音声を送り、ドライバーソフトウェアがそれを先へとルーティングする——その過程でストリームを分割したり、ミックスしたり、加工したりすることも可能だ。これは非常に強力な仕組みで、異なるアプリを異なる物理出力に振り分けたり、アプリごとにEQをかけたり、個々のアプリのストリームを録音したり、複雑なルーティングマトリクスを組んだりすることができる。</p>
+
+<p>ただしトレードオフもある。</p>
+<ul>
+  <li><strong>システムレベルのインストール：</strong> ドライバーはオーディオサブシステムを変更する。セキュリティの許可が必要になり、再起動が求められることもある。</li>
+  <li><strong>macOSアップデートに弱い：</strong> Appleはオーディオフレームワークを頻繁に変更する。メジャーアップデートの後にドライバーが動作しなくなり、開発者が修正版を出すまで音が出ない状態になることもある。</li>
+  <li><strong>複雑さ：</strong> ルーティングマトリクスや仮想デバイスは強力だが、単に1つのアプリの音を小さくしたいだけの場合には分かりにくい。</li>
+  <li><strong>App Store非対応：</strong> ドライバーをインストールするアプリは、サンドボックスの制限によりMac App Storeでは配布できない。</li>
+</ul>
+
+<h2>SoundDialの仕組み</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>はこれとは異なるアプローチを取る。ドライバーや仮想デバイスを一切インストールすることなく、macOSのAPIを使って各アプリのオーディオストリームの音量をコントロールする。サウンド設定に見慣れない仮想デバイスが現れることもなく、システムを変更する必要もない。</p>
+
+<p>ただしトレードオフもある。</p>
+<ul>
+  <li><strong>複雑なルーティングはできない：</strong> SoundDialはアプリごとの音量、ミュート、ブーストをコントロールするが、アプリを異なる物理出力に振り分けたり、アプリごとにEQをかけたりすることはできない。</li>
+  <li><strong>App Store対応でサンドボックス化：</strong> インストールもアンインストールもクリーンに行え、ドライバーに関するセキュリティ確認や再起動も不要。</li>
+  <li><strong>macOSアップデートへの耐性：</strong> オーディオサブシステムを変更しないため、OSアップデート後に動作しなくなる可能性が低い。</li>
+  <li><strong>シンプルさ：</strong> アプリごとのスライダー、プロファイル、自動ダッキングだけで、ルーティング図を設定する必要はない。</li>
+</ul>
+
+<h2>どちらを選ぶべきか</h2>
+
+<p>自分に本当に必要なものを正直に見極めよう。</p>
+
+<ul>
+  <li><strong>仮想オーディオドライバーを選ぶべき場合：</strong> 特定のアプリを特定の物理出力に振り分けたい（たとえばゲームはヘッドホンへ、音楽は同時にスピーカーへ、といった具合に）、個々のアプリのオーディオストリームを録音したい、あるいはアプリごとにエフェクトやEQをかけたい場合。この用途にはLoopbackやSoundSourceが最良の選択肢だ。</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>を選ぶべき場合：</strong> ドライバーインストールの複雑さや不安定さを避けつつ、アプリごとの音量コントロール、アプリごとのミュート、100%を超えるブースト、音量プロファイル、自動ダッキングが必要な場合。ほとんどの人が実際に必要としているのは、まさにこちらだ。</li>
+</ul>
+
+<p>「アプリごとの音量コントロール」を求めて検索する人の多くが本当に欲しいのは、後者だ。通話中はSpotifyを静かにしたい、あるいはDiscordをゲームより大きくしたい——それだけのことなら、仮想オーディオデバイスは必要ない。必要なのはアプリごとの音量スライダーであり、それこそまさにSoundDialが、オーディオサブシステムに一切手を加えることなく提供しているものだ。</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDialをMac App Storeで入手する</a>—買い切り14.99ユーロ、サブスクリプションなし、macOS 14.2以降対応。</p>
+`,
   },
 };

@@ -3998,4 +3998,634 @@ export const nlArticles: ArticleSet = {
 
 <p>Ben je het beu om elke keer dat je van app wisselt op de hoofdschuifregelaar te rijden? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> kost eenmalig € 14,99 voor de Mac App Store — in de sandbox, geen stuurprogramma's, geen DMG — en het geeft eindelijk elke app zijn eigen onthouden volume.</p>`,
   },
+  "mac-audio-for-gaming": {
+    slug: "mac-audio-for-gaming",
+    title: "Mac-audio voor gamen: game, voicechat en muziek gescheiden",
+    description: "Gamen op een Mac betekent jongleren met game-audio, voicechat via Discord of FaceTime en achtergrondmuziek via één volumeschuif. Zo splits je ze op in onafhankelijke kanalen.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je zit midden in een potje. De game-audio overstemt je teamgenoten op Discord. Je zet de systeemvolume lager — nu hoor je de callouts wel, maar de gamegeluiden zijn te zwak om op voetstappen te reageren. Ondertussen speelt Spotify nog steeds op volle sterkte op de achtergrond. macOS geeft je maar één schuif voor dat alles, en gamen op een Mac betekent voortdurend aan die schuif zitten.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — volume van game, voicechat en muziek apart regelen op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom game-audio op de Mac zo rommelig is</h2>
+
+<p>Games mixen intern meerdere audiolagen — dialoog, effecten, ambient, muziek — en sturen die als één stream naar buiten. Voicechat-apps zoals Discord, FaceTime of TeamSpeak voegen een tweede stream toe. Een muziekspeler voegt een derde toe. macOS behandelt ze allemaal als gelijkwaardig en stuurt ze naar dezelfde hoofduitgang, zonder enige manier om ze te prioriteren of onderling te balanceren.</p>
+
+<p>De meeste games hebben interne volumeschuiven, maar die aanpassen betekent alt-tabben uit een fullscreen game, waardoor je uit je flow raakt. En zelfs als je de interne muziek van de game lager zet, kun je Discord nog steeds niet harder zetten ten opzichte van de game-effecten zonder de systeemvolume aan te passen en dus alles te beïnvloeden.</p>
+
+<h2>Audio per app voor gamesessies</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> geeft elke app zijn eigen onafhankelijke volumeschuif vanuit de menubalk, zodat je een gamemix kunt samenstellen zonder de instellingen in de game of de systeemvolume aan te raken.</p>
+
+<h3>Een typisch gameprofiel</h3>
+<ul>
+  <li><strong>Game:</strong> 70% — luid genoeg voor ruimtelijke audiosignalen, zonder te overheersen</li>
+  <li><strong>Discord / FaceTime:</strong> 100% — callouts van teamgenoten altijd hoorbaar</li>
+  <li><strong>Spotify / Apple Music:</strong> 25% — achtergrondsfeer zonder te concurreren</li>
+  <li><strong>Browser:</strong> gedempt — geen verrassende tabbladgeluiden</li>
+  <li><strong>Slack / Berichten:</strong> gedempt — geen enkele meldingsonderbreking tijdens het gamen</li>
+</ul>
+
+<p>Sla dit op als een "Gaming"-profiel. Eén klik voordat je start, en elke app springt naar zijn gameniveau. Ben je klaar, schakel dan terug naar je normale profiel — geen handmatige aanpassingen nodig.</p>
+
+<h3>Auto-ducking voor voicechatprioriteit</h3>
+
+<p>De auto-ducking-functie van SoundDial kan de game- en muziekaudio automatisch verlagen zodra Discord of FaceTime actief is. De stemmen van je teamgenoten komen altijd goed door, en alles keert terug naar het oude niveau tijdens stille momenten. Het is hetzelfde gedrag dat professionele omroepen instellen met complexe routeringstools, maar hier is het een enkele schakelaar.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-djing": {
+    slug: "mac-audio-for-djing",
+    title: "Mac-audio voor djen: monitor en output onafhankelijk regelen",
+    description: "Djen op een Mac betekent de volgende track voorluisteren in je koptelefoon terwijl het publiek de huidige mix hoort — maar macOS stuurt alles naar één uitgang. Zo scheid je je monitorsignaal.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je djt vanaf je Mac — Traktor, Serato, rekordbox, of zelfs Ableton in een liveset. Je moet de volgende track cuen in je koptelefoon terwijl het publiek de huidige mix via de speakers hoort. Maar je browser staat open met een setlist, Spotify draait misschien voor referentietracks, en Berichten blijft dingen door je monitors. macOS kent geen concept van 'deze app hier, die app daar' op volumeniveau.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — dj-audio regelen op Mac met onafhankelijke appvolumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Het dj-audioprobleem op macOS</h2>
+
+<p>Professionele dj-software regelt cuen intern — het splitst zijn eigen output tussen een hoofdmix en een koptelefoonmonitor. Dat deel werkt prima. Het probleem is alles wat verder op je Mac draait. Systeemmeldingen, browsertabbladen, communicatie-apps en referentiespelers stromen allemaal naar dezelfde hoofduitgang. Een Slack-pingetje door je PA-systeem tijdens een set staat niet best.</p>
+
+<p>Je kunt Niet storen inschakelen, maar dat maakt apps die al draaien niet stil — het onderdrukt alleen de banners. Een browsertabblad dat automatisch afspeelt of een FaceTime-beltoon schalt nog steeds door je speakers, op welk volume de systeeminstelling ook staat.</p>
+
+<h2>De niet-dj-audio onder controle houden</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je onafhankelijke volumeniveaus instellen voor elke app op je Mac. Voor een dj-set is het belangrijkste gebruik: alles dempen of verlagen wat niet je dj-software is.</p>
+
+<h3>Dj-setprofiel</h3>
+<ul>
+  <li><strong>Traktor / Serato / rekordbox:</strong> 100% — volledige output naar je audio-interface</li>
+  <li><strong>Browser:</strong> gedempt — geen verrassend geluid uit tabbladen</li>
+  <li><strong>Spotify:</strong> gedempt of 10% — alleen als referentie via een snelle demping opheffen</li>
+  <li><strong>Slack / Berichten / Mail:</strong> gedempt — geen meldingsgeluiden</li>
+  <li><strong>Agenda:</strong> gedempt — geen herinneringsgeluidjes</li>
+</ul>
+
+<p>Sla dit op als een "Dj-set"-profiel. Voordat je begint, pas je het toe met één klik. Je dj-app draait op volle sterkte en niets anders kan storen. Als de set voorbij is, schakel je terug naar je gewone profiel en hervatten de meldingen.</p>
+
+<h3>Snel referentietracks checken</h3>
+
+<p>Moet je snel een referentietrack op Spotify checken tijdens de set? In plaats van systeembreed de demping op te heffen, zet je gewoon de individuele schuif van Spotify omhoog om het in je koptelefoon te horen, en daarna weer terug naar nul. Het publiek hoort het nooit, en je dj-app blijft ongemoeid.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "control-notification-sounds-mac": {
+    slug: "control-notification-sounds-mac",
+    title: "Zo beheer je het volume van meldingsgeluiden op je Mac",
+    description: "Meldingsgeluiden op de Mac spelen op hetzelfde volume als al het andere — of ze staan helemaal uit. Een tussenweg is er standaard niet. Zo tem je het meldingsvolume zonder je muziek stil te leggen.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Een agendaherinnering gaat af en het meldingsgeluid schalt op hetzelfde volume als de muziek waar je net van zat te genieten. Je schrikt. Je zet de systeemvolume lager — en nu is je muziek te zacht. macOS behandelt meldingsgeluiden en mediageluid als één volume, en de enige ingebouwde ontsnapping is Niet storen inschakelen, wat alles dempt, inclusief meldingen die je juist wel nodig hebt.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — meldingsvolume onafhankelijk regelen op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom meldingsvolume zo lastig te regelen is</h2>
+
+<p>macOS heeft een instelling 'Geluidseffecten afspelen via' en een schuif voor meldingsvolume in Systeeminstellingen, maar die regelt alle systeemmeldingsgeluiden tegelijk. Je kunt niet zeggen: 'agendameldingen op 30%, Berichten-pingetjes op 50%, Mail stil.' Elke app die meldingen genereert deelt hetzelfde systeemgeluidsniveau.</p>
+
+<p>Het onderliggende probleem: veel apps genereren hun eigen meldingsgeluiden buiten het systeem om. Slack speelt zijn eigen geluid af. Discord heeft zijn eigen pingetje. Chrome-tabbladen kunnen meldingsgeluiden afspelen. Die worden helemaal niet geregeld door de schuif voor meldingsvolume — ze spelen af op het volume dat de app zelf produceert, wat alleen door de hoofdschuif wordt geregeld.</p>
+
+<h2>Regeling per app over meldingsbronnen</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> lost dit op door elke app zijn eigen volumeschuif te geven. Omdat meldingsgeluiden van specifieke apps komen, verlaagt het verlagen van het volume van die app ook zijn meldingen.</p>
+
+<h3>Praktische opstellingen</h3>
+<ul>
+  <li><strong>Slack:</strong> 15% — subtiel pingetje, geen schrikreactie</li>
+  <li><strong>Berichten:</strong> 20% — hoorbaar maar zacht</li>
+  <li><strong>Mail:</strong> gedempt — check op je eigen moment</li>
+  <li><strong>Agenda:</strong> 25% — net genoeg om op te merken</li>
+  <li><strong>Discord:</strong> 10% — achtergrondbewustzijn zonder de knal</li>
+  <li><strong>Muziek / browser:</strong> 70-100% — ongestoord volop genieten</li>
+</ul>
+
+<p>Het resultaat: je media speelt op het niveau dat je wilt, en meldingsbronnen zitten op een niveau dat informeert zonder te schrikken. Niet storen is niet nodig — je hoort nog steeds alles, maar dan op volumes die logisch zijn.</p>
+
+<h3>Combineer met profielen</h3>
+
+<p>Sla een "Focus"-profiel op waarin de meeste meldings-apps gedempt zijn, en een "Normaal"-profiel met zachte niveaus. Schakel met één klik tussen diepe concentratie en passieve alertheid. Geen keuze meer tussen "alles op volle sterkte horen" en "helemaal niets horen."</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-volume-too-quiet-at-max": {
+    slug: "mac-volume-too-quiet-at-max",
+    title: "Mac-volume te zacht, zelfs op maximum — zo boost je voorbij de 100%",
+    description: "Sommige apps zijn frustrerend zacht, zelfs met je Mac-volume op maximum. Het probleem zit niet bij je speakers — macOS kan individuele apps simpelweg niet boven hun eigen outputniveau versterken.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je Mac-volume staat op 100%. De specifieke app die je probeert te horen — een zachte Zoom-beller, een zachte podcast, een browservideo — is nog steeds te zwak. Je zet de systeemschuif op maximum en het is niet genoeg. Ondertussen is elke andere app op je Mac nu pijnlijk hard. Het probleem zit niet bij je speakers of je gehoor. De app produceert audio op een laag intern niveau, en macOS heeft geen manier om één app boven zijn eigen plafond te versterken.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Mac-volume boosten voorbij 100% voor zachte apps" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom maximaal volume nog steeds niet hard genoeg is</h2>
+
+<p>De systeemvolumeschuif schaalt alles proportioneel. Als een app intern audio produceert op, zeg, 40% van de volle schaal, dan hoor je zelfs bij 100% systeemvolume maar 40% van wat je speakers eigenlijk kunnen produceren. Dit komt vaak voor bij:</p>
+<ul>
+  <li>Videobelapps waarbij de andere deelnemer een zachte microfoon heeft</li>
+  <li>Podcasts en luisterboeken die op voorzichtige niveaus gemasterd zijn</li>
+  <li>Oudere webvideo's met lage productiekwaliteit</li>
+  <li>Schermopnames en tutorials waarin de presentator zacht praat</li>
+</ul>
+
+<p>De hoofdschuif kan een app niet boven zijn eigen outputniveau duwen. Het is een plafond, geen versterker.</p>
+
+<h2>Boosten voorbij 100% per app</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> voegt volumeschuiven per app toe die verder gaan dan 100%. De boost versterkt de audiostream van één app voorbij zijn normale maximum, zonder de systeemvolume te verhogen of andere apps te beïnvloeden.</p>
+
+<h3>Zo gebruik je het</h3>
+<ul>
+  <li>Open SoundDial vanuit de menubalk — elke actieve app verschijnt met zijn eigen schuif</li>
+  <li>Zoek de zachte app en sleep zijn schuif voorbij de 100%-markering</li>
+  <li>De boost versterkt alleen de audio van die app — al het andere blijft op zijn huidige niveau</li>
+  <li>Zet je systeemvolume terug naar een comfortabel niveau als je het had opgeschroefd</li>
+</ul>
+
+<h3>Een opmerking over kwaliteit</h3>
+
+<p>Boost is echte versterking, geen magie. Een gematigde boost — een zachte podcast van onhoorbaar naar comfortabel brengen — werkt netjes. Extreme boost op zeer zachte, ruizige bronaudio kan ruis of artefacten meer laten opvallen. In de praktijk ligt de sweet spot voor de meeste "te zacht"-situaties op 120-150%, wat natuurlijk klinkt en het probleem oplost zonder vervorming te introduceren.</p>
+
+<p>Het grote voordeel ten opzichte van de systeemvolume opschroeven: alleen de zachte app wordt harder. Je muziek, systeemgeluiden en andere apps blijven precies waar ze waren. Niet meer alles keihard zetten om één ding te kunnen horen.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-meditation-focus": {
+    slug: "mac-audio-for-meditation-focus",
+    title: "Mac-audio voor meditatie en focus: alles stilleggen behalve één app",
+    description: "Een meditatie- of ambient-app draaien op je Mac terwijl meldingen en andere geluiden steeds storen, ondermijnt het hele doel. Zo isoleer je je rustige audio en demp je al het andere.",
+    date: "2026-09-06",
+    readTime: "4 min leestijd",
+    content: `
+<p>Je opent een meditatie-app of een ambient-geluidsgenerator op je Mac — regengeluid, binaurale beats, een begeleide sessie. Je nestelt je erin. Dan piept Slack. Mail rinkelt. Een vergeten browsertabblad begint een video af te spelen. Het hele punt was een rustige audio-omgeving creëren, en macOS heeft dat zojuist verpest omdat elke app hetzelfde volume deelt en er geen ingebouwde manier is om te zeggen 'alleen deze app maakt geluid.'</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — meditatieaudio isoleren en al het andere stilleggen op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Het focus-audioprobleem</h2>
+
+<p>Niet storen onderdrukt meldingsbanners, maar dempt geen apps. Slack speelt nog steeds zijn eigen geluiden af. Browsertabbladen spelen nog steeds automatisch af. De agenda rinkelt nog steeds. De enige ingebouwde optie is alles dempen met de systeemdemptoets — wat ook je meditatieaudio stillegt. Er is geen 'demp alles behalve deze ene app' in macOS.</p>
+
+<h2>De audio van één app isoleren</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je elke app afzonderlijk dempen, terwijl je gekozen app op volle sterkte blijft. De instelling kost je een paar seconden.</p>
+
+<h3>Focus-/meditatieprofiel</h3>
+<ul>
+  <li><strong>Meditatie-app (Calm, Headspace, Endel, een browsertabblad met ambient-audio):</strong> 100%</li>
+  <li><strong>Al het andere:</strong> gedempt</li>
+</ul>
+
+<p>Sla dit op als een "Focus"-profiel. Eén klik voor je sessie, en alleen je rustige audio speelt af. Ben je klaar, schakel dan terug naar je normale profiel en alles keert terug naar zijn gebruikelijke niveaus.</p>
+
+<h3>Studeren en diep werk</h3>
+
+<p>Dezelfde aanpak werkt voor elke geconcentreerde werksessie. Houd lo-fi-muziek of witte ruis op een comfortabel niveau, demp Slack en e-mail, en laat de ambient-laag je koptelefoon vullen zonder concurrentie. Je vecht niet tegen afleiding — die bestaat simpelweg niet in je audio-omgeving.</p>
+
+<h3>Geleidelijke terugkeer</h3>
+
+<p>Als je sessie eindigt, hoef je niet handmatig zes apps te ontdempen. Schakel naar je "Normaal"- of "Werk"-profiel en het volume van elke app springt terug naar het niveau van voor de sessie. Geen vergeten dempingen, geen opgestapelde gemiste meldingen omdat je vergat iets weer aan te zetten.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-video-editing": {
+    slug: "mac-audio-for-video-editing",
+    title: "Mac-audio voor videomontage: Premiere, DaVinci, tijdlijn voorluisteren",
+    description: "Video monteren op een Mac betekent tijdlijnaudio voorluisteren terwijl referentieclips, communicatie-apps en systeemgeluiden om hetzelfde volume strijden. Zo isoleer je je montage-audio.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je monteert in DaVinci Resolve, Premiere Pro of Final Cut. Je scrubt door de tijdlijn en moet dialoogniveaus precies kunnen horen. Maar Slack blijft pingen, een browsertabblad met referentiebeeld speelt af, en Apple Music draait op de achtergrond. Je kunt de audio van je montage niet beoordelen als drie andere apps op onvoorspelbare volumes doorlekken in de mix.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — audioregeling voor videomontage op Mac met volume per app" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom videomonteurs geïsoleerde audio nodig hebben</h2>
+
+<p>Audiomixage in een videomontageprogramma vereist nauwkeurige monitoring. Als het meldingsgeluid van Slack op hetzelfde niveau speelt als de dialoog in je tijdlijn, kun je niet beoordelen of die dialoog eigenlijk goed gemixt is. Als achtergrondmuziek van Spotify doorlekt in je monitoring, compenseren je oren en stel je uiteindelijk verkeerde niveaus in. Professionele monteurs werken in akoestisch behandelde ruimtes met gecontroleerde monitoringketens — maar zelfs op softwareniveau geeft macOS je geen manier om de audio van je montageprogramma te scheiden van al het andere.</p>
+
+<p>De workaround die de meeste monteurs gebruiken: alles afsluiten voordat ze gaan monteren. Slack sluiten, Muziek pauzeren, browsertabbladen dichtgooien. Het werkt, maar het betekent dat je geen YouTube-tutorial kunt raadplegen, geen klantenchat open kunt houden of naar een referentietrack kunt luisteren zonder je monitoringomgeving te vervuilen.</p>
+
+<h2>Regeling per app voor montagesessies</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je alles open houden, maar bepaalt wat je hoort en op welk niveau.</p>
+
+<h3>Montageprofiel</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut:</strong> 100% — nauwkeurige tijdlijnmonitoring</li>
+  <li><strong>Browser:</strong> gedempt (kort ontdempen om een referentieclip te checken, daarna weer dempen)</li>
+  <li><strong>Slack / Berichten:</strong> gedempt — geen geluiden in je monitoringketen</li>
+  <li><strong>Muziek:</strong> gedempt — geen concurrerende audio</li>
+  <li><strong>Mail / Agenda:</strong> gedempt</li>
+</ul>
+
+<h3>Reviewprofiel</h3>
+<ul>
+  <li><strong>Montageprogramma:</strong> 80% — comfortabel reviewniveau</li>
+  <li><strong>Slack:</strong> 20% — berichten opvangen tijdens rendertijd</li>
+  <li><strong>Browser:</strong> 50% — referentiemateriaal toegankelijk</li>
+</ul>
+
+<p>Schakel tussen profielen naargelang je workflow dat vereist. Tijdens kritieke audiomixage is alles stil behalve je tijdlijn. Tijdens een render breng je meldingen terug zodat je bereikbaar bent. Twee klikken, twee volledig verschillende monitoringomgevingen.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "per-app-volume-control-mac-2026": {
+    slug: "per-app-volume-control-mac-2026",
+    title: "Volumeregeling per app op de Mac in 2026 — wat zijn je opties?",
+    description: "macOS heeft ook in 2026 nog steeds geen ingebouwde volumemixer. Hier zijn alle opties om appvolumes onafhankelijk te regelen — gratis, betaald en workarounds.",
+    date: "2026-09-06",
+    readTime: "6 min leestijd",
+    content: `
+<p>Het is 2026. Windows heeft al sinds Vista in 2007 een volumemixer per app. macOS heeft er nog steeds geen. Wil je Spotify zachter zetten zonder je Zoom-gesprek te verlagen, dan is het antwoord van Apple nog steeds 'dat kan niet.' Wat zijn dan je echte opties in 2026?</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — opties voor volumeregeling per app op Mac in 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Het huidige landschap</h2>
+
+<p>Hier is een eerlijk overzicht van elke aanpak die momenteel beschikbaar is, met de echte afwegingen.</p>
+
+<h3>Gratis opties</h3>
+<ul>
+  <li><strong>Background Music</strong> — open source, biedt basale volumeschuiven per app. Het addertje: het wordt door de community onderhouden en is in het verleden herhaaldelijk kapot gegaan bij grote macOS-updates. Geen boost boven 100%, geen profielen, geen auto-ducking. Als gratis je enige vereiste is en je het niet erg vindt om na OS-updates te sleutelen, is het het proberen waard.</li>
+  <li><strong>FineTune</strong> — gratis, open source, minimale volumeregeling vanuit de menubalk. Minder functies, maar betrouwbaar voor basale aanpassingen.</li>
+  <li><strong>eqMac</strong> — gratis EQ en systeembrede volumeregeling. Meer gericht op equalization dan op mixen per app, maar heeft wel enkele mogelijkheden per app.</li>
+</ul>
+
+<h3>Betaalde opties</h3>
+<ul>
+  <li><strong>SoundSource</strong> (Rogue Amoeba, ~$39) — de professionele tool. Volume per app, EQ per app, outputroutering, effecten. Installeert een audio-capture-component (niet via de App Store). Overkill als je alleen volumeschuiven wilt, uitstekend als je diepgaande audiorouting nodig hebt.</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> (€14,99, eenmalig) — volume per app, dempen, boost voorbij 100%, opslaanbare profielen, auto-ducking. Mac App Store, sandboxed, geen drivers. De middenweg tussen gratis tools en SoundSource.</li>
+  <li><strong>Audio Hijack</strong> (Rogue Amoeba, ~$72) — legt audio vast en routeert die tussen apps. Krachtig voor opnames en complexe routering, maar het is een professionele audiotool, geen eenvoudige volumemixer.</li>
+</ul>
+
+<h3>Ingebouwde workarounds</h3>
+<ul>
+  <li>Sommige apps hebben interne volumeschuiven (Spotify, VLC, de meeste games). Maar je past ze aan binnen elke app afzonderlijk, niets coördineert ze, en veel apps bieden helemaal geen volumeregeling.</li>
+  <li>Niet storen dempt meldingsbanners, maar regelt geen appvolume.</li>
+  <li>De systeemvolumeschuif is alles-of-niets.</li>
+</ul>
+
+<h2>Welke moet je kiezen?</h2>
+
+<p>Wees eerlijk over je behoeften. Wil je gratis en vind je het niet erg als het af en toe kapot gaat: Background Music. Heb je professionele audiorouting en EQ nodig: SoundSource. Wil je een betrouwbare, eenvoudige volumemixer met profielen en boost voor een eerlijke prijs — met App Store-veiligheid en zonder driverinstallatie: dan is <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> de sweet spot.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-ducking-automatic": {
+    slug: "mac-audio-ducking-automatic",
+    title: "Automatische audio-ducking op Mac — muziek verlagen als iemand praat",
+    description: "Als een gesprek begint of iemand praat, zou je muziek automatisch moeten dalen. macOS doet dit niet standaard. Zo stel je automatische audio-ducking in op je Mac.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je luistert naar muziek op je Mac. Een Zoom-gesprek begint. Je graait om Spotify te pauzeren of het volume te verlagen zodat je de vergadering kunt horen. Het gesprek eindigt. Je zet de muziek weer harder. Dit gebeurt vijf keer per dag, en elke keer is het een handmatige onderbreking. Audio-ducking — het automatisch verlagen van achtergrondaudio zodra een prioriteitsbron speelt — is standaard in broadcast en streaming. Op macOS bestaat het niet standaard.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — automatische audio-ducking op Mac, muziek verlagen tijdens gesprekken" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Wat audio-ducking eigenlijk doet</h2>
+
+<p>Ducking is eenvoudig: zodra een aangewezen prioriteitsbron actief wordt, verlagen alle andere audiobronnen hun volume met een vastgesteld bedrag. Stopt de prioriteitsbron, dan stijgt alles weer terug naar het oorspronkelijke niveau. Omroepen gebruiken dit zodat de stem van een presentator altijd boven de achtergrondmuziek uitkomt. Streamers gebruiken het zodat game-audio daalt zodra ze praten.</p>
+
+<p>Op macOS is het dichtstbijzijnde ingebouwde gedrag de toegankelijkheidsinstelling die achtergrondaudio kan verlagen tijdens VoiceOver-aankondigingen. Maar dat is specifiek voor VoiceOver — er is geen algemene ducking voor gesprekken, voicechat of willekeurige apps.</p>
+
+<h2>Auto-ducking instellen met SoundDial</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> heeft automatische audio-ducking als ingebouwde functie. Je wijst aan welke app ducking moet activeren — meestal een communicatie-app — en al het andere wordt automatisch verlaagd zodra die app audio produceert.</p>
+
+<h3>Veelvoorkomende ducking-opstellingen</h3>
+<ul>
+  <li><strong>Zoom / Google Meet / FaceTime als prioriteit:</strong> muziek, browser en andere apps duiken weg zodra een gesprek actief is. Je vergaderstem is altijd helder, zonder handmatige volumewijzigingen.</li>
+  <li><strong>Discord als prioriteit:</strong> game-audio en muziek dalen zodra teamgenoten praten. Callouts gaan nooit verloren onder explosies of een luide soundtrack.</li>
+  <li><strong>Podcast opnemen:</strong> alles duikt weg zodra de input van je DAW actief is, waardoor je monitoringomgeving schoon blijft.</li>
+</ul>
+
+<h3>Hoe het in de praktijk voelt</h3>
+
+<p>De overgang is soepel — achtergrondaudio vervaagt zodra de prioriteitsapp speelt, en komt weer terug zodra die stopt. Na het eerste uur merk je het niet meer op, omdat het precies doet wat je handmatig deed, maar dan zonder de onderbreking. Niet meer naar schuiven grijpen midden in een gesprek.</p>
+
+<p>Gecombineerd met volume per app en profielen maakt ducking het plaatje compleet: je apps starten al op de juiste niveaus, en ducking regelt de dynamische aanpassingen gedurende de dag.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "control-browser-tab-volume-mac": {
+    slug: "control-browser-tab-volume-mac",
+    title: "Kun je het volume van losse browsertabbladen regelen op Mac?",
+    description: "Het ene browsertabblad speelt luide audio af, terwijl een ander een zachte video heeft. Kun je volume per tabblad regelen op macOS? Dit is wat er echt mogelijk is en wat niet.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je hebt een YouTube-tutorial afspelend in het ene tabblad, een zachte Loom-video in een ander, en een derde tabblad is zojuist automatisch een advertentie begonnen af te spelen. Je wilt het YouTube-tabblad zachter zetten, het Loom-tabblad harder, en de advertentie dempen — onafhankelijk van elkaar. Kun je volume per browsertabblad regelen op macOS? Het korte eerlijke antwoord: niet standaard, en niet met de meeste tools. Maar je kunt wel het volume van de hele browser regelen, en dat lost het grootste deel van het probleem op.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — browsergeluid regelen op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom volume per tabblad niet bestaat</h2>
+
+<p>Browsers mixen alle tabbladaudio tot één outputstream voordat ze die doorgeven aan het besturingssysteem. Voor macOS is Chrome één app die één audiostream produceert. Safari is één app. Firefox is één app. Het OS heeft geen zicht op welk tabblad welk geluid genereert — die informatie zit verstopt in de interne audio-engine van de browser en wordt niet blootgesteld aan externe tools.</p>
+
+<p>Sommige browsers laten je losse tabbladen dempen (klik op het luidsprekericoontje op het tabblad), maar dat is binair aan/uit — er is geen volumeschuif per tabblad. Je kunt het luidruchtige tabblad dempen, maar je kunt het niet naar 20% verlagen terwijl een ander op 80% blijft.</p>
+
+<h2>Wat je daadwerkelijk kunt regelen</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> regelt volume op appniveau. Omdat elke browser een aparte app is, krijg je onafhankelijke controle over:</p>
+
+<h3>Workflows met meerdere browsers</h3>
+<ul>
+  <li><strong>Chrome:</strong> 100% — je hoofdvideo of tutorial</li>
+  <li><strong>Safari:</strong> 40% — referentiemateriaal op de achtergrond</li>
+  <li><strong>Firefox:</strong> gedempt — testen of devtools, geen audio nodig</li>
+</ul>
+
+<p>Als je meerdere browsers gebruikt (veel developers en onderzoekers doen dat), krijgt elke browser zijn eigen schuif. Dat is echte controle per 'tabbladgroep', omdat je verschillende content aan verschillende browsers kunt toewijzen en ze onafhankelijk kunt mixen.</p>
+
+<h3>Browser versus al het andere</h3>
+
+<p>Het meest voorkomende scenario is gewoon dat je browseraudio op een ander niveau wilt dan je andere apps. Muziek te luid over een YouTube-tutorial? Zet Spotify naar 30% terwijl Chrome op 100% blijft. Zoom-gesprek terwijl een browsertabblad referentiemateriaal afspeelt? Demp de browser volledig tijdens het gesprek met demping per app, en hef de demping daarna weer op.</p>
+
+<h3>De tabblad-demping-workaround</h3>
+
+<p>Voor echte controle per tabblad binnen één browser is de ingebouwde tabbladdemping je enige optie. Combineer die met de volume per browser van SoundDial: demp het luidruchtige tabblad in de browser zelf, en gebruik daarna SoundDial om het algehele browservolume in te stellen ten opzichte van je andere apps.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-language-learning": {
+    slug: "mac-audio-for-language-learning",
+    title: "Mac-audio voor taal leren: Anki, podcast en video gescheiden",
+    description: "Een taal leren op je Mac betekent jongleren met flashcardaudio, podcasts, videolessen en woordenboekopzoekingen — die allemaal om hetzelfde volume strijden. Zo breng je ze in balans.",
+    date: "2026-09-06",
+    readTime: "4 min leestijd",
+    content: `
+<p>Je studeert een taal op je Mac. Anki speelt uitspraakaudio af voor flashcards. Een podcast in je doeltaal draait op de achtergrond voor onderdompeling. Je opent een YouTube-grammaticales in de browser. Nu spelen drie audiobronnen tegelijk, allemaal op verschillende natuurlijke volumes, en macOS geeft je maar één schuif om ze allemaal te regelen. De uitspraakclips van Anki zijn te zacht om op te vangen, de podcast is te luid, en de YouTube-video zit er ergens tussenin.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — audio-opstelling voor taal leren op Mac met onafhankelijke appvolumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>De audiochaos van de taalstudent</h2>
+
+<p>Taal leren draait van nature om meerdere audiobronnen. Flashcard-apps spelen korte clips af. Podcast-apps streamen continue audio. Videolessen mixen spraak met muziek en geluidseffecten. Woordenboek-apps spreken woorden op aanvraag uit. Elke bron heeft zijn eigen interne volumeniveau, en die zijn nooit op elkaar afgestemd.</p>
+
+<p>De gebruikelijke workaround is alles pauzeren behalve wat je actief gebruikt. Maar dat ondermijnt de 'onderdompelingsachtergrond'-aanpak waar veel taalstudenten op vertrouwen — doeltaalaudio zachtjes laten spelen terwijl je andere studieactiviteiten doet.</p>
+
+<h2>Gelaagde audio voor taalstudie</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je elke app op zijn ideale niveau zetten en meerdere bronnen tegelijk laten draaien in een comfortabele mix.</p>
+
+<h3>Studieprofiel</h3>
+<ul>
+  <li><strong>Anki:</strong> 100% (geboost als clips zacht zijn) — uitspraak moet kristalhelder zijn</li>
+  <li><strong>Podcast-app:</strong> 20-30% — zachte achtergrondonderdompeling, geen concurrentie met actief studeren</li>
+  <li><strong>Browser (YouTube-lessen):</strong> 80% — duidelijk terwijl je kijkt, makkelijk te verlagen tijdens het overhoren van kaarten</li>
+  <li><strong>Woordenboek-app:</strong> 90% — woorduitspraken hoorbaar op aanvraag</li>
+  <li><strong>Slack / Berichten:</strong> gedempt — studietijd is studietijd</li>
+</ul>
+
+<h3>Onderdompelingsmodus</h3>
+<ul>
+  <li><strong>Podcast / radiostream:</strong> 60% — comfortabel luisterniveau</li>
+  <li><strong>Al het andere:</strong> gedempt of zeer laag</li>
+</ul>
+
+<p>Schakel tussen profielen als je van actief studeren naar passieve onderdompeling gaat. Je audio-omgeving past zich aan je leermodus aan, zonder dat je telkens handmatig schuiven hoeft aan te passen.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-volume-profiles-work-vs-home": {
+    slug: "mac-volume-profiles-work-vs-home",
+    title: "Mac-volumeprofielen: schakel tussen werk- en thuis-audio-opstelling",
+    description: "Je ideale appvolumes op werk verschillen totaal van je avondopstelling thuis. Vijf apps handmatig aanpassen elke keer dat je van context wisselt, kost tijd. Hier is een alternatief van één klik.",
+    date: "2026-09-06",
+    readTime: "4 min leestijd",
+    content: `
+<p>Om 9 uur 's ochtends moet Zoom luid staan, Slack op een zacht pingniveau, muziek zacht, en de browser gedempt. Om 18 uur eindigt de werkdag — Zoom maakt niet meer uit, Slack moet stil zijn, muziek gaat naar 80%, en de browser speelt Netflix op vol volume. Dat zijn vijf of zes apps die handmatig moeten worden aangepast, twee keer per dag, elke dag. De meeste mensen doen de moeite niet en leven de helft van de tijd gewoon met de verkeerde volumes.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — schakel tussen werk- en thuis-volumeprofielen op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>De belasting van contextwisselingen</h2>
+
+<p>Je audiobehoeften verschillen volledig afhankelijk van wat je doet, maar macOS kent geen enkel concept van audiocontexten. Er is geen 'werkmodus'-volume-opstelling of 'avond'-voorinstelling. Elke keer dat je context verandert, pas je ofwel handmatig elke app aan, of accepteer je dat sommige apps te luid zijn en andere te zacht.</p>
+
+<p>Dit is geen probleem dat één keer per dag speelt. Veel mensen wisselen meerdere keren van context: ochtendfocus, stand-up-vergadering, diep werk, lunchpauze, samenwerking in de middag, persoonlijke tijd in de avond. Elk daarvan heeft een ideale audioconfiguratie, en geen enkele is hetzelfde.</p>
+
+<h2>Volumeprofielen voor elke context</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je complete volumeconfiguraties per app opslaan als benoemde profielen en ertussen schakelen met één klik vanuit de menubalk.</p>
+
+<h3>Werkprofiel</h3>
+<ul>
+  <li><strong>Zoom / Meet:</strong> 100%</li>
+  <li><strong>Slack:</strong> 20% — subtiele meldingen</li>
+  <li><strong>Muziek:</strong> 25% — achtergrondfocus</li>
+  <li><strong>Browser:</strong> gedempt</li>
+  <li><strong>Berichten:</strong> gedempt</li>
+</ul>
+
+<h3>Thuisprofiel</h3>
+<ul>
+  <li><strong>Muziek / Spotify:</strong> 80%</li>
+  <li><strong>Browser (streamen):</strong> 100%</li>
+  <li><strong>Slack:</strong> gedempt</li>
+  <li><strong>Zoom:</strong> gedempt</li>
+  <li><strong>Berichten:</strong> 50%</li>
+</ul>
+
+<h3>Focusprofiel</h3>
+<ul>
+  <li><strong>Muziek:</strong> 40% — lo-fi of ambient</li>
+  <li><strong>Al het andere:</strong> gedempt</li>
+</ul>
+
+<p>Drie profielen, drie volledig verschillende audio-omgevingen. Elke wissel kost één klik en past zich direct toe. De audio van je Mac past zich aan jou aan, in plaats van andersom.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-twitch-streaming": {
+    slug: "mac-audio-for-twitch-streaming",
+    title: "Mac-audio voor Twitch-streaming: game, alerts, muziek, microfoon",
+    description: "Streamen op Twitch vanaf een Mac betekent game-audio, streamalerts, achtergrondmuziek en chat beheren — allemaal op het juiste niveau voor je publiek. Zo mix je ze goed.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je streamt op Twitch vanaf je Mac. OBS legt je game, je microfoon en je bureaubladaudio vast. Maar 'bureaubladaudio' is één gemixt signaal — je game, alertgeluiden, achtergrondmuziek, Discord en meldingspingetjes landen allemaal op hetzelfde kanaal, op het volume dat macOS toevallig bepaalt. Je kijkers horen een onevenwichtige chaos waarin alerts over de gameplay heen schallen, muziek je commentaar overstemt, en een Slack-pingetje willekeurig de stream onderbreekt.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Twitch-streamingaudiomix op Mac met volume per app" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom streamingaudio lastig is op Mac</h2>
+
+<p>OBS legt 'bureaubladaudio' vast als één gemixte stream — alles wat op je Mac speelt, samengevoegd. Op Windows gebruiken streamers de ingebouwde volumemixer om apps vooraf in balans te brengen voordat OBS ze vastlegt. Op macOS bestaat die mixer niet. Je mix vóór het vastleggen is gewoon wat er toevallig speelt, op de niveaus die de apps standaard hanteren.</p>
+
+<p>Professionele Mac-streamers gebruiken doorgaans virtuele audioroutingtools om aparte audiokanalen voor elke bron te maken. Dat werkt, maar het is complex om in te stellen, vereist audiodrivers, en gaat kapot wanneer macOS-updates de audioframeworks veranderen.</p>
+
+<h2>Vooraf mixen met volume per app</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je elke app in balans brengen voordat OBS de gecombineerde output vastlegt. Omdat OBS de uiteindelijke mix oppikt, heeft het aanpassen van individuele appvolumes met SoundDial direct invloed op wat je kijkers horen.</p>
+
+<h3>Streamingprofiel</h3>
+<ul>
+  <li><strong>Game:</strong> 60% — aanwezig maar niet overheersend</li>
+  <li><strong>Alert-app / Streamlabs:</strong> 40% — hoorbaar voor kijkersbetrokkenheid, niet luider dan de gameplay</li>
+  <li><strong>Muziek (Spotify / Apple Music):</strong> 15-20% — achtergrondsfeer, DMCA-veilig volume</li>
+  <li><strong>Discord:</strong> 50% — co-stream- of modcommunicatie</li>
+  <li><strong>Browser:</strong> gedempt — geen verrassend tabbladgeluid op de stream</li>
+  <li><strong>Slack / Mail / Berichten:</strong> gedempt — persoonlijke meldingen blijven buiten de stream</li>
+</ul>
+
+<h3>Snelle aanpassingen tijdens de stream</h3>
+
+<p>Kijker zegt dat de game te luid is? Verlaag alleen de schuif van de game vanuit de menubalk, zonder uit je streamscène te alt-tabben. Muziek te zacht? Duw hem iets omhoog. Een snelle sleepbeweging aan een schuif in SoundDial is onzichtbaar voor kijkers — geen instellingenpaneel in beeld, geen onderbreking van de stream.</p>
+
+<h3>Auto-ducking voor commentaar</h3>
+
+<p>Schakel auto-ducking in om game- en muziekaudio te verlagen zodra je praat. Je commentaar komt altijd goed door, en de audio stijgt weer terug tijdens stille momenten — precies wat professionele streamers bereiken met dure audioroutingopstellingen.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-music-lessons": {
+    slug: "mac-audio-for-music-lessons",
+    title: "Mac-audio voor online muzieklessen: DAW, videobellen en metronoom gescheiden",
+    description: "Online muziekles geven of volgen betekent je leerling of docent helder horen, terwijl een DAW, metronoom en backingtracks allemaal om dezelfde volumeschuif strijden.",
+    date: "2026-09-06",
+    readTime: "5 min leestijd",
+    content: `
+<p>Je zit in een online muziekles — als docent of als leerling. Je leerling speelt via Zoom en je moet diegene helder horen. GarageBand of Logic heeft een backingtrack aan staan. Een metronoom-app tikt. Misschien staat er een referentieopname klaar in Spotify. Ze strijden allemaal om één systeemvolumeschuif. Zet je het volume hoger om je leerling te horen, wordt de metronoom oorverdovend. Zet je de metronoom handmatig zachter, dan is de backingtrack te zacht om op mee te spelen.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — audio-opstelling voor online muziekles met onafhankelijke appvolumes op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>De uitdaging van online muziekles</h2>
+
+<p>Muzieklessen vereisen een precieze audiobalans die geen enkele andere toepassing vereist. Je moet de deelnemer op afstand met voldoende helderheid horen om techniek- en timingproblemen op te merken. Je hebt een metronoom of clicktrack nodig die hoorbaar is, maar niet overheersend. Backingtracks moeten onder de uitvoering zitten, niet erboven. En als docent moet je misschien referentieopnames afspelen voor de leerling — wisselend tussen apps terwijl je de juiste relatieve volumes aanhoudt.</p>
+
+<p>Elk van deze bronnen heeft zijn eigen interne volumeniveau, en geen ervan is op elkaar afgestemd. macOS heeft geen tools om ze in balans te brengen.</p>
+
+<h2>Een lesaudiomix samenstellen</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je elke app op zijn ideale niveau zetten en creëert een gebalanceerde mix voor de les, zonder de interne instellingen van apps aan te raken.</p>
+
+<h3>Lesgevenprofiel</h3>
+<ul>
+  <li><strong>Zoom / FaceTime:</strong> 100% — de audio van de leerling heeft prioriteit</li>
+  <li><strong>Metronoom-app:</strong> 35% — hoorbare tik zonder te overheersen</li>
+  <li><strong>GarageBand / Logic:</strong> 50% — backingtracks onder de uitvoering</li>
+  <li><strong>Spotify:</strong> gedempt (kort ontdempen voor referentiefragmenten)</li>
+  <li><strong>Slack / Mail:</strong> gedempt — geen enkele onderbreking tijdens de les</li>
+</ul>
+
+<h3>Oefenprofiel</h3>
+<ul>
+  <li><strong>Metronoom:</strong> 50% — duidelijke timingreferentie</li>
+  <li><strong>DAW:</strong> 80% — backingtracks op volle oefenniveau</li>
+  <li><strong>Spotify:</strong> 70% — referentieopnames toegankelijk</li>
+  <li><strong>Al het andere:</strong> gedempt — geconcentreerd oefenen</li>
+</ul>
+
+<p>Schakel met één klik van lesgeven naar persoonlijk oefenen. Je audio-omgeving past zich aan de activiteit aan, zonder dat je telkens vier of vijf apps handmatig hoeft aan te passen.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "mac-audio-for-online-therapy": {
+    slug: "mac-audio-for-online-therapy",
+    title: "Mac-audio voor online therapie: privacy, helderheid en nul onderbrekingen",
+    description: "Een online therapiesessie vraagt om absolute audioprivacy en nul onderbrekingen. Een Slack-pingetje of meldingsgeluidje tijdens een sessie is meer dan vervelend — het verstoort het proces.",
+    date: "2026-09-06",
+    readTime: "4 min leestijd",
+    content: `
+<p>Je zit in een online therapiesessie op je Mac. Het gesprek vraagt om je volle aandacht en een gevoel van privacy. Dan piept Slack. Een agendaherinnering rinkelt. Een browsertabblad dat je vergeten was begint geluid af te spelen. Elke onderbreking trekt je uit het moment, en de spanning van 'zal er nog iets storen?' kan de sessie al ondermijnen voordat er zelfs maar een volgend geluid klinkt.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — privé-audio-opstelling voor therapiesessies zonder onderbrekingen op Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Waarom Niet storen niet genoeg is</h2>
+
+<p>Niet storen onderdrukt meldingsbanners en de meeste alertgeluiden, maar het is niet allesomvattend. Sommige apps spelen hun eigen audiomeldingen af buiten het systeem om. Een browsertabblad kan automatisch afspelen. Een app waarvan je vergeten was dat die draaide, kan onverwacht geluid produceren. En Niet storen helpt niet bij het kernprobleem: je wilt je therapie-app (Zoom, Doxy, of een browsergebaseerd platform) met perfecte helderheid, terwijl al het andere gegarandeerd stil is.</p>
+
+<h2>Een verzegelde audio-omgeving</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> laat je elke app dempen behalve je therapieplatform, waardoor je een audio-omgeving creëert waarin onderbrekingen structureel onmogelijk zijn — niet alleen onderdrukt.</p>
+
+<h3>Therapiesessieprofiel</h3>
+<ul>
+  <li><strong>Zoom / browser (therapieplatform):</strong> 100% — heldere communicatie op vol volume</li>
+  <li><strong>Elke andere app:</strong> gedempt — Slack, Mail, Berichten, Agenda, Muziek, secundaire browsers</li>
+</ul>
+
+<p>Pas het profiel toe voordat je sessie begint. Het komende uur produceert je Mac alleen geluid vanuit je therapie-app. Geen enkel Slack-pingetje kan je speakers bereiken. Geen agendagerinkel. Geen vergeten browsertabblad. De stilte van andere apps is gegarandeerd, niet gehoopt.</p>
+
+<h3>Terugkeer naar normaal achteraf</h3>
+
+<p>Als de sessie eindigt, schakel je terug naar je gewone profiel. Al je apps keren terug naar hun normale volumes. Meldingen die je gemist hebt, wachten nog steeds in hun apps — er is niets verloren gegaan, alleen stilgelegd tijdens de tijd dat je privacy nodig had.</p>
+
+<h3>Dezelfde opstelling werkt ook voor</h3>
+<ul>
+  <li>Medische telehealth-afspraken</li>
+  <li>Vertrouwelijke werkgesprekken</li>
+  <li>Belangrijke telefonische sollicitatiegesprekken</li>
+  <li>Elke situatie waarin audioprivacy en nul onderbrekingen ertoe doen</li>
+</ul>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
+  "virtual-audio-driver-vs-sounddial-mac": {
+    slug: "virtual-audio-driver-vs-sounddial-mac",
+    title: "Virtuele audiodrivers versus SoundDial — welke aanpak is beter op Mac?",
+    description: "Virtuele audiodrivers en volumemixers in de menubalk beloven beide audioregeling per app op Mac. Onder de motorkap werken ze compleet anders. Hier is een eerlijke vergelijking van beide aanpakken.",
+    date: "2026-09-06",
+    readTime: "6 min leestijd",
+    content: `
+<p>Je wilt volumeregeling per app op je Mac. Je bent twee categorieën tools tegengekomen: virtuele audiodrivers (zoals Loopback, BlackHole, of de drivercomponent in SoundSource) en lichtgewicht mixers in de menubalk (zoals SoundDial of Background Music). Beide beloven onafhankelijke volumeregeling per app. Maar ze bereiken dat via fundamenteel verschillende mechanismen, en de afwegingen doen ertoe.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial versus virtuele audiodrivers — audiobenaderingen per app op Mac vergeleken" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Hoe virtuele audiodrivers werken</h2>
+
+<p>Een virtuele audiodriver creëert een nepaudioapparaat in macOS. Apps sturen hun audio naar dit virtuele apparaat, en de driversoftware routeert het verder — waarbij de streams onderweg mogelijk gesplitst, gemixt of bewerkt worden. Dit is krachtig: je kunt verschillende apps naar verschillende fysieke uitgangen sturen, EQ per app toepassen, individuele appstreams opnemen en complexe routeringsmatrices bouwen.</p>
+
+<p>De afwegingen:</p>
+<ul>
+  <li><strong>Installatie op systeemniveau:</strong> drivers wijzigen je audiosubsysteem. Ze vereisen beveiligingsgoedkeuring en soms een herstart.</li>
+  <li><strong>Kwetsbaarheid bij macOS-updates:</strong> Apple verandert regelmatig audioframeworks. Drivers kunnen kapotgaan na een grote update, waardoor je zonder audio zit tot de ontwikkelaar een patch uitbrengt.</li>
+  <li><strong>Complexiteit:</strong> routeringsmatrices en virtuele apparaten zijn krachtig, maar verwarrend als je gewoon één app zachter wilt zetten.</li>
+  <li><strong>Niet in de App Store:</strong> apps die drivers installeren kunnen door sandboxing-beperkingen niet via de Mac App Store worden verspreid.</li>
+</ul>
+
+<h2>Hoe SoundDial werkt</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a> kiest een andere aanpak. Het gebruikt macOS-API's om het volume van de audiostream van elke app te regelen, zonder een driver of virtueel apparaat te installeren. Er verschijnen geen nepaudioapparaten in je geluidsinstellingen. Er is geen systeemwijziging nodig.</p>
+
+<p>De afwegingen:</p>
+<ul>
+  <li><strong>Geen complexe routering:</strong> SoundDial regelt volume, demping en boost per app — het routeert apps niet naar verschillende fysieke uitgangen en past geen EQ per app toe.</li>
+  <li><strong>App Store sandboxed:</strong> installeert en verwijdert netjes, geen beveiligingsmeldingen voor drivers, geen herstart nodig.</li>
+  <li><strong>Weerbaarheid tegen macOS-updates:</strong> omdat het audiosubsysteem niet wordt gewijzigd, is de kans kleiner dat het kapotgaat na OS-updates.</li>
+  <li><strong>Eenvoud:</strong> een schuif per app, profielen, auto-ducking. Geen routeringsschema om te configureren.</li>
+</ul>
+
+<h2>Welke moet je kiezen?</h2>
+
+<p>Wees eerlijk over wat je echt nodig hebt:</p>
+
+<ul>
+  <li><strong>Kies een virtuele audiodriver</strong> als je specifieke apps naar specifieke fysieke uitgangen moet routeren (bijvoorbeeld game naar koptelefoon, muziek tegelijk naar speakers), individuele appaudiostreams moet opnemen, of effecten en EQ per app wilt toepassen. Loopback of SoundSource zijn hier de beste opties.</li>
+  <li><strong>Kies <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong> als je volumeregeling per app nodig hebt, demping per app, boost boven 100%, volumeprofielen en auto-ducking — zonder de complexiteit en kwetsbaarheid van een driverinstallatie. Dit dekt wat de meeste mensen daadwerkelijk nodig hebben.</li>
+</ul>
+
+<p>De meeste mensen die zoeken naar 'volumeregeling per app' willen de tweede optie. Ze willen Spotify zachter tijdens een gesprek, of Discord luider dan hun game. Dat vereist geen virtueel audioapparaat — het vereist een volumeschuif per app, en dat is precies wat SoundDial biedt zonder je audiosubsysteem aan te raken.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Haal SoundDial in de Mac App Store</a> — eenmalige aankoop van €14,99, geen abonnement, macOS 14.2 en hoger.</p>
+`,
+  },
 };

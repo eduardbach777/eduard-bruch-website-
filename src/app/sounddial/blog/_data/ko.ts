@@ -4,10 +4,9 @@ export const koArticles: ArticleSet = {
   "mac-audio-podcasting-setup": {
     slug: "mac-audio-podcasting-setup",
     title: "Mac 팟캐스트 오디오: 녹음 중 듣는 소리를 제어하는 방법",
-    description:
-      "팟캐스트를 녹음하면서 레벨을 모니터링하고, 게스트 소리를 듣고, 알림을 관리하는 것 — 모두 하나의 볼륨 슬라이더로 경쟁합니다. 더 나은 설정을 소개합니다.",
+    description: "팟캐스트를 녹음하면서 레벨을 모니터링하고, 게스트 소리를 듣고, 알림을 관리하는 것 — 모두 하나의 볼륨 슬라이더로 경쟁합니다. 더 나은 설정을 소개합니다.",
     date: "2026-03-05",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Mac에서 팟캐스트를 녹음하고 있습니다. Zoom, Riverside 또는 SquadCast를 통해 게스트의 목소리를 명확하게 들어야 합니다. DAW의 녹음 레벨을 모니터링해야 합니다. Slack은 음소거해서 알림음이 녹음에 들어가지 않도록 해야 합니다. 그리고 시스템 알림 소리는 완전히 차단해야 합니다 — 인터뷰 중간에 macOS의 "딩" 소리가 들어가면 사용할 수 없는 오디오가 됩니다.</p>
 
@@ -71,10 +70,9 @@ export const koArticles: ArticleSet = {
   "mac-too-loud-full-volume-tame-it": {
     slug: "mac-too-loud-full-volume-tame-it",
     title: "Mac 볼륨이 너무 큰가요? 더 정밀한 제어를 하는 방법",
-    description:
-      "MacBook Pro 스피커는 훌륭합니다 — 너무 시끄러워질 때까지. 적당한 볼륨 설정에서도 너무 크게 느껴진다면, 더 정밀한 오디오 제어 방법을 알려드립니다.",
+    description: "MacBook Pro 스피커는 훌륭합니다 — 너무 시끄러워질 때까지. 적당한 볼륨 설정에서도 너무 크게 느껴진다면, 더 정밀한 오디오 제어 방법을 알려드립니다.",
     date: "2026-03-08",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>Apple의 최신 MacBook Pro 모델(14" 및 16")은 노트북치고는 놀라울 정도로 강력한 스피커를 가지고 있습니다. 너무 강력해서 적당한 볼륨 레벨도 정말 시끄러울 수 있습니다 — 특히 조용한 방에서, 밤 늦게, 또는 헤드폰을 사용할 때. "편안함"과 "너무 큼" 사이의 간격이 때로는 한두 단계에 불과합니다.</p>
 
@@ -116,10 +114,9 @@ export const koArticles: ArticleSet = {
   "slack-huddle-volume-issues-mac": {
     slug: "slack-huddle-volume-issues-mac",
     title: "Mac에서 Slack 허들 볼륨 문제: 너무 작거나, 너무 크거나, 음악과 충돌하거나",
-    description:
-      "Slack 허들이 음악 및 알림과 같은 볼륨을 놓고 경쟁합니다. Mac에서 허들 오디오를 다른 모든 것과 독립적으로 제어하는 방법을 알아보세요.",
+    description: "Slack 허들이 음악 및 알림과 같은 볼륨을 놓고 경쟁합니다. Mac에서 허들 오디오를 다른 모든 것과 독립적으로 제어하는 방법을 알아보세요.",
     date: "2026-03-10",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Slack 허들은 편리합니다 — 버튼을 클릭하면 회의를 예약하지 않고도 음성 통화에 참여할 수 있습니다. 하지만 오디오는 엉망입니다. 허들이 Spotify와 같은 볼륨입니다. Slack 알림 소리가 통화와 같은 레벨로 울립니다. 누군가 허들에서 음악이나 오디오가 포함된 화면을 공유하면 들리지 않거나 귀가 멍할 정도입니다.</p>
 
@@ -173,10 +170,9 @@ export const koArticles: ArticleSet = {
   "set-default-volume-new-apps-mac": {
     slug: "set-default-volume-new-apps-mac",
     title: "Mac에서 새 앱의 기본 볼륨을 설정하는 방법",
-    description:
-      "새 앱은 기본적으로 최대 볼륨으로 실행됩니다. 모든 새 앱이 편안한 레벨로 시작하도록 하는 방법을 알아보세요 — 갑작스러운 소리에 놀라지 않도록.",
+    description: "새 앱은 기본적으로 최대 볼륨으로 실행됩니다. 모든 새 앱이 편안한 레벨로 시작하도록 하는 방법을 알아보세요 — 갑작스러운 소리에 놀라지 않도록.",
     date: "2026-03-12",
-    readTime: "3분 소요",
+    readTime: "3분 읽기",
     content: `
 <p>새 앱을 설치합니다. 처음으로 실행합니다. 즉시 오디오를 재생합니다 — 인트로 소리, 알림, 튜토리얼 비디오 — 최대 시스템 볼륨으로. 예상하지 못했습니다. 헤드폰을 쓰고 있습니다. 귀가 울립니다.</p>
 
@@ -216,10 +212,9 @@ export const koArticles: ArticleSet = {
   "mac-startup-sound-too-loud": {
     slug: "mac-startup-sound-too-loud",
     title: "Mac 시작 소리가 너무 큰가요? 비활성화하거나 줄이는 방법",
-    description:
-      "Mac 시작 차임 소리가 재시작할 때마다 최대 볼륨으로 울립니다 — 회의실이나 조용한 공간에서 특히 당혹스럽습니다. 음소거하거나 제어하는 방법을 알아보세요.",
+    description: "Mac 시작 차임 소리가 재시작할 때마다 최대 볼륨으로 울립니다 — 회의실이나 조용한 공간에서 특히 당혹스럽습니다. 음소거하거나 제어하는 방법을 알아보세요.",
     date: "2026-03-15",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>조용한 사무실에서 Mac을 재시작합니다. 회의실은 완전히 조용합니다. 그런데 — <em>봉</em> — 시작 차임이 최대 볼륨으로 울립니다. 모두가 당신을 쳐다봅니다. 차임은 상징적이지만 제어할 수 없고 종종 당혹스러울 정도로 큽니다.</p>
 
@@ -261,10 +256,9 @@ export const koArticles: ArticleSet = {
   "webex-volume-too-low-mac": {
     slug: "webex-volume-too-low-mac",
     title: "Mac에서 Cisco Webex 볼륨이 너무 작은가요? 해결 방법",
-    description:
-      "Mac에서 Webex 통화가 거의 들리지 않습니다. Webex 오디오 설정부터 앱별 믹서로 통화 볼륨을 100% 이상으로 높이는 방법까지 모든 해결책을 알려드립니다.",
+    description: "Mac에서 Webex 통화가 거의 들리지 않습니다. Webex 오디오 설정부터 앱별 믹서로 통화 볼륨을 100% 이상으로 높이는 방법까지 모든 해결책을 알려드립니다.",
     date: "2026-03-18",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Webex는 기업 환경에서 가장 많이 사용되는 화상 회의 도구 중 하나이며 — Mac에서 오디오 품질에 대한 불만이 가장 많은 도구 중 하나이기도 합니다. 낮은 통화 볼륨, 뭉개진 목소리, 같은 시스템 볼륨에서 Zoom이나 Teams보다 더 조용하게 들리는 오디오. Webex 통화가 거의 들리지 않는다면 혼자가 아닙니다.</p>
 
@@ -314,10 +308,9 @@ export const koArticles: ArticleSet = {
   "mac-two-audio-sources-same-time": {
     slug: "mac-two-audio-sources-same-time",
     title: "Mac에서 두 가지를 동시에 듣는 방법",
-    description:
-      "음악과 팟캐스트. 강의와 노트 비디오. 통화와 배경 음악. macOS는 둘 다 하나의 볼륨으로 선택하게 합니다 — 균형을 맞추는 방법을 알아보세요.",
+    description: "음악과 팟캐스트. 강의와 노트 비디오. 통화와 배경 음악. macOS는 둘 다 하나의 볼륨으로 선택하게 합니다 — 균형을 맞추는 방법을 알아보세요.",
     date: "2026-03-20",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>동시에 두 개의 오디오 소스를 듣고 싶습니다. 통화 중 음악. 팟캐스트 들으면서 튜토리얼 시청. 공부하면서 배경 분위기 음악. 두 가지, 두 가지 다른 이상적인 볼륨. macOS는 둘 다에 하나의 슬라이더만 제공합니다.</p>
 
@@ -374,10 +367,9 @@ export const koArticles: ArticleSet = {
   "watch-movies-mac-late-night-volume": {
     slug: "watch-movies-mac-late-night-volume",
     title: "Mac에서 영화 볼 때 모두를 깨우지 않는 방법",
-    description:
-      "대사가 안 들리다가 폭발 장면에서 벽이 흔들립니다. Mac에서 야간 영화 시청 시 오디오를 길들이는 방법 — 한 마디도 놓치지 않으면서.",
+    description: "대사가 안 들리다가 폭발 장면에서 벽이 흔들립니다. Mac에서 야간 영화 시청 시 오디오를 길들이는 방법 — 한 마디도 놓치지 않으면서.",
     date: "2026-03-22",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>새벽 1시입니다. 침대에서 MacBook으로 영화를 보고 있습니다. 등장인물들이 속삭이고 있어서 볼륨을 올립니다. 그런데 자동차 추격 장면이 시작되고 갑자기 아파트 전체가 들을 수 있습니다. 볼륨 키를 향해 달려갑니다. 이 순환이 두 시간 동안 반복됩니다.</p>
 
@@ -432,10 +424,9 @@ export const koArticles: ArticleSet = {
   "mac-volume-resets-after-sleep": {
     slug: "mac-volume-resets-after-sleep",
     title: "Mac 볼륨이 잠자기 후 초기화되나요? 오디오 설정을 유지하는 방법",
-    description:
-      "Mac이 잠자기에서 깨어날 때마다 볼륨이 잘못됩니다 — 최대로 재설정되거나, 0으로 떨어지거나, 잘못된 출력으로 전환됩니다. 이유와 해결 방법을 알아보세요.",
+    description: "Mac이 잠자기에서 깨어날 때마다 볼륨이 잘못됩니다 — 최대로 재설정되거나, 0으로 떨어지거나, 잘못된 출력으로 전환됩니다. 이유와 해결 방법을 알아보세요.",
     date: "2026-03-25",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>MacBook 덮개를 닫습니다. 나중에 엽니다. 볼륨이 달라져 있습니다. 40%였는데 최대일 수도 있습니다. 헤드폰에서 스피커로 전환되었을 수도 있습니다. 0이 되었을 수도 있습니다. 잠자기 전에는 괜찮았는데 — 이제 틀립니다.</p>
 
@@ -490,10 +481,9 @@ export const koArticles: ArticleSet = {
   "mac-audio-music-production-daw": {
     slug: "mac-audio-music-production-daw",
     title: "Mac 음악 제작 오디오: DAW와 커뮤니케이션을 별도로 제어하기",
-    description:
-      "Logic Pro 또는 Ableton을 사용하면서 Discord 통화를 하고 있나요? 음성 채팅은 편안한 레벨로 유지하면서 DAW를 완전한 충실도로 듣는 방법을 알아보세요.",
+    description: "Logic Pro 또는 Ableton을 사용하면서 Discord 통화를 하고 있나요? 음성 채팅은 편안한 레벨로 유지하면서 DAW를 완전한 충실도로 듣는 방법을 알아보세요.",
     date: "2026-03-28",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Logic Pro(또는 Ableton, FL Studio)에서 음악을 프로듀싱하고 있습니다. 동시에 Discord에서 협업자와 대화 중입니다. 문제: DAW 출력과 Discord가 같은 볼륨 레벨을 놓고 싸웁니다. 믹스를 명확하게 듣기 위해 Logic을 올리면 Discord가 귀에서 폭발합니다. Discord를 위해 줄이면 믹스가 제대로 평가하기에 너무 조용합니다.</p>
 
@@ -545,10 +535,9 @@ export const koArticles: ArticleSet = {
   "apple-music-volume-too-low-mac": {
     slug: "apple-music-volume-too-low-mac",
     title: "Mac에서 Apple Music 볼륨이 너무 작은가요? 해결 및 증폭 방법",
-    description:
-      "Mac에서 Apple Music이 최대 볼륨인데도 너무 조용한가요? Sound Check, EQ 설정을 확인하고, Apple Music을 100% 이상으로 증폭하는 방법을 알아보세요.",
+    description: "Mac에서 Apple Music이 최대 볼륨인데도 너무 조용한가요? Sound Check, EQ 설정을 확인하고, Apple Music을 100% 이상으로 증폭하는 방법을 알아보세요.",
     date: "2026-03-30",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Apple Music이 최대 볼륨입니다. Mac이 최대 볼륨입니다. 크게 들려야 할 곡이 거의 들리지 않습니다. 한편 Spotify로 전환하면 — 같은 곡, 같은 볼륨 — 눈에 띄게 더 큽니다. 무슨 일인가요?</p>
 
@@ -596,10 +585,9 @@ export const koArticles: ArticleSet = {
   "free-volume-mixer-mac": {
     slug: "free-volume-mixer-mac",
     title: "Mac용 무료 볼륨 믹서: 실제로 얻을 수 있는 것 (그리고 빠진 것)",
-    description:
-      "Mac용 무료 앱별 볼륨 믹서를 찾고 있나요? 무료 옵션이 제공하는 것, 빠진 것, 유료가 가치 있는 경우에 대한 솔직한 분석입니다.",
+    description: "Mac용 무료 앱별 볼륨 믹서를 찾고 있나요? 무료 옵션이 제공하는 것, 빠진 것, 유료가 가치 있는 경우에 대한 솔직한 분석입니다.",
     date: "2026-04-03",
-    readTime: "6분 소요",
+    readTime: "6분 읽기",
     content: `
 <p>"Mac용 무료 볼륨 믹서"를 검색하면 하나의 주요 결과를 찾을 수 있습니다: <strong>Background Music</strong>. macOS용 유일한 주목할 만한 무료 오픈 소스 앱별 볼륨 제어 앱입니다. 실제로 얻는 것과 포기하는 것을 살펴보겠습니다.</p>
 
@@ -674,10 +662,9 @@ export const koArticles: ArticleSet = {
   "balance-music-voice-chat-volume-mac": {
     slug: "balance-music-voice-chat-volume-mac",
     title: "Mac에서 음악과 음성 채팅 볼륨의 균형을 맞추는 방법",
-    description:
-      "Discord에서 음악이 너무 큽니다. 또는 Spotify에서 통화가 너무 조용합니다. macOS에서는 균형을 맞출 수 없습니다 — 완벽한 비율을 설정하는 방법을 알아보세요.",
+    description: "Discord에서 음악이 너무 큽니다. 또는 Spotify에서 통화가 너무 조용합니다. macOS에서는 균형을 맞출 수 없습니다 — 완벽한 비율을 설정하는 방법을 알아보세요.",
     date: "2026-04-05",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>Discord(또는 Zoom, FaceTime)에서 친구들과 대화하면서 음악을 듣고 싶습니다. 음악은 존재감이 있되 압도적이지 않아야 합니다. 음성 채팅은 명확하고 지배적이어야 합니다. 간단한 요청입니다. macOS는 이를 불가능하게 만듭니다.</p>
 
@@ -725,10 +712,9 @@ export const koArticles: ArticleSet = {
   "mac-volume-control-complete-guide": {
     slug: "mac-volume-control-complete-guide",
     title: "Mac 볼륨 제어: 완전 가이드 (2026)",
-    description:
-      "macOS에서 오디오를 제어하는 데 필요한 모든 것 — 기본 키보드 단축키부터 앱별 볼륨, 출력 전환, 자동화까지.",
+    description: "macOS에서 오디오를 제어하는 데 필요한 모든 것 — 기본 키보드 단축키부터 앱별 볼륨, 출력 전환, 자동화까지.",
     date: "2026-06-12",
-    readTime: "12분 소요",
+    readTime: "12분 읽기",
     content: `
 <p>macOS는 볼륨 슬라이더와 음소거 버튼을 제공합니다. 이것이 Apple의 내장 오디오 제어의 전부입니다. 하지만 Mac에는 실제로 표면에 드러나는 것보다 훨씬 더 많은 오디오 기능이 있습니다 — 숨겨진 키보드 단축키, 앱별 볼륨 도구, 출력 장치 관리, 대부분의 사용자가 발견하지 못하는 자동화 기능.</p>
 
@@ -828,10 +814,9 @@ export const koArticles: ArticleSet = {
   "vlc-volume-too-low-mac": {
     slug: "vlc-volume-too-low-mac",
     title: "Mac에서 VLC 볼륨이 너무 작은가요? 200% 이상으로 증폭하는 방법",
-    description:
-      "VLC가 최대 볼륨인데 비디오가 여전히 너무 조용한가요? VLC에는 내장 200% 부스트가 있으며 — 앱별 볼륨 믹서로 더 높일 수도 있습니다.",
+    description: "VLC가 최대 볼륨인데 비디오가 여전히 너무 조용한가요? VLC에는 내장 200% 부스트가 있으며 — 앱별 볼륨 믹서로 더 높일 수도 있습니다.",
     date: "2026-04-08",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>VLC에서 비디오를 보고 있습니다. 대사가 조용합니다. VLC의 볼륨을 최대로 올립니다. Mac의 볼륨을 최대로 올립니다. 여전히 제대로 들리지 않습니다. 비디오가 너무 조용하게 녹음된 것입니다.</p>
 
@@ -875,10 +860,9 @@ export const koArticles: ArticleSet = {
   "disable-audio-ducking-mac": {
     slug: "disable-audio-ducking-mac",
     title: "Mac에서 오디오 더킹을 비활성화하는 방법 (또는 직접 제어하기)",
-    description:
-      "macOS 또는 앱이 통화 중 묻지 않고 음악을 계속 낮춥니다. 원치 않는 오디오 더킹을 중지하거나 — 실제로 제어할 수 있는 더킹으로 대체하는 방법을 알아보세요.",
+    description: "macOS 또는 앱이 통화 중 묻지 않고 음악을 계속 낮춥니다. 원치 않는 오디오 더킹을 중지하거나 — 실제로 제어할 수 있는 더킹으로 대체하는 방법을 알아보세요.",
     date: "2026-04-10",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Zoom 통화에 참여합니다. 음악이 거의 아무것도 안 들리게 줄어듭니다. 볼륨 컨트롤을 건드리지 않았는데 — 무언가가 대신 해준 것입니다. 이것이 <strong>오디오 더킹</strong>입니다: 통화나 중요한 오디오 소스가 활성화될 때 배경 오디오를 자동으로 낮추는 것.</p>
 
@@ -934,10 +918,9 @@ export const koArticles: ArticleSet = {
   "bluetooth-headphones-too-quiet-mac": {
     slug: "bluetooth-headphones-too-quiet-mac",
     title: "Mac에서 Bluetooth 헤드폰이 너무 조용한가요? 효과적인 모든 해결 방법",
-    description:
-      "Bluetooth 헤드폰이 전화에서는 잘 작동하는데 Mac에서는 조용합니다. 코덱 문제에서 macOS 볼륨 제한까지 모든 원인과 해결 방법을 알아보세요.",
+    description: "Bluetooth 헤드폰이 전화에서는 잘 작동하는데 Mac에서는 조용합니다. 코덱 문제에서 macOS 볼륨 제한까지 모든 원인과 해결 방법을 알아보세요.",
     date: "2026-04-12",
-    readTime: "6분 소요",
+    readTime: "6분 읽기",
     content: `
 <p>Bluetooth 헤드폰이 전화에서는 충분히 큽니다. Mac에 연결하면 — 모든 것이 더 조용합니다. 음악이 뭉개져 들립니다. 통화가 듣기 어렵습니다. 볼륨을 최대로 해도 충분하지 않습니다. 왜 그런 걸까요?</p>
 
@@ -997,10 +980,9 @@ export const koArticles: ArticleSet = {
   "mac-audio-obs-streaming-setup": {
     slug: "mac-audio-obs-streaming-setup",
     title: "Mac에서 OBS 및 스트리밍 오디오: 시청자가 듣는 것을 제어하는 방법",
-    description:
-      "Mac에서 OBS로 스트리밍 중인가요? 시청자들이 모든 것을 같은 볼륨으로 듣습니다 — 게임, 음악, 알림, Discord. 오디오 소스의 밸런스를 맞추는 방법을 알아보세요.",
+    description: "Mac에서 OBS로 스트리밍 중인가요? 시청자들이 모든 것을 같은 볼륨으로 듣습니다 — 게임, 음악, 알림, Discord. 오디오 소스의 밸런스를 맞추는 방법을 알아보세요.",
     date: "2026-04-15",
-    readTime: "7분 소요",
+    readTime: "7분 읽기",
     content: `
 <p>Mac에서 OBS로 스트리밍 중입니다. 게임 오디오가 쿵쿵울립니다. Discord 통화가 실행 중입니다. Spotify가 배경 음악을 재생합니다. 누군가 구독하면 알림 소리가 납니다. 시청자들은 이 모든 것을 같은 볼륨으로 듣습니다 — Discord 호출이 폭발과 경쟁하고 음악이 해설을 덮는 혼란스러운 엉망.</p>
 
@@ -1058,10 +1040,9 @@ export const koArticles: ArticleSet = {
   "make-mac-remember-volume-per-app": {
     slug: "make-mac-remember-volume-per-app",
     title: "Mac이 앱별 볼륨을 기억하게 하는 방법",
-    description:
-      "Spotify를 재시작하거나 Zoom을 다시 실행할 때마다 볼륨을 재조정해야 합니다. macOS가 각 앱의 볼륨 레벨을 자동으로 기억하게 하는 방법을 알아보세요.",
+    description: "Spotify를 재시작하거나 Zoom을 다시 실행할 때마다 볼륨을 재조정해야 합니다. macOS가 각 앱의 볼륨 레벨을 자동으로 기억하게 하는 방법을 알아보세요.",
     date: "2026-04-18",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>오디오 레벨을 완벽하게 맞추는 데 5분을 보냅니다. Spotify 30%, Zoom 100%, Slack 15%. 그런데 Mac을 재시작합니다. 또는 Slack이 충돌해서 다시 실행됩니다. 또는 Spotify를 닫고 나중에 다시 엽니다. 모든 앱이 기본 볼륨으로 재설정됩니다. 모든 것을 다시 조정합니다. 또다시.</p>
 
@@ -1111,10 +1092,9 @@ export const koArticles: ArticleSet = {
   "podcast-volume-too-low-mac": {
     slug: "podcast-volume-too-low-mac",
     title: "Mac에서 팟캐스트 볼륨이 너무 작은가요? 더 크게 만드는 방법",
-    description:
-      "일부 팟캐스트는 Mac에서 최대 볼륨에서도 속삭임 수준으로 조용합니다. 이유와 — 다른 앱에 영향을 주지 않고 팟캐스트 오디오를 100% 이상으로 증폭하는 방법을 알아보세요.",
+    description: "일부 팟캐스트는 Mac에서 최대 볼륨에서도 속삭임 수준으로 조용합니다. 이유와 — 다른 앱에 영향을 주지 않고 팟캐스트 오디오를 100% 이상으로 증폭하는 방법을 알아보세요.",
     date: "2026-04-20",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Mac에서 팟캐스트를 듣고 있습니다. 호스트는 괜찮게 들리지만 게스트는 — 주방에서 노트북 마이크로 녹음한 — 거의 들리지 않습니다. 볼륨을 100%로 올립니다. 호스트는 이제 너무 크지만 게스트는 여전히 조용합니다. 문제가 녹음에 있으므로 이길 방법이 없습니다, Mac이 아니라.</p>
 
@@ -1162,10 +1142,9 @@ export const koArticles: ArticleSet = {
   "mac-audio-online-classes-lectures": {
     slug: "mac-audio-online-classes-lectures",
     title: "온라인 수업 및 강의를 위한 Mac 오디오 설정",
-    description:
-      "강의를 보면서 노트를 작성하고, 참고 자료를 검색하고, 학우들과 채팅하는 것 — 모두 다른 볼륨으로. Mac에서 학생 오디오를 관리하는 방법을 알아보세요.",
+    description: "강의를 보면서 노트를 작성하고, 참고 자료를 검색하고, 학우들과 채팅하는 것 — 모두 다른 볼륨으로. Mac에서 학생 오디오를 관리하는 방법을 알아보세요.",
     date: "2026-04-22",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Zoom에서 온라인 강의에 참석 중인 학생입니다. 다른 탭에 참고용 YouTube 튜토리얼이 열려 있습니다. 학우들이 Discord에서 채팅 중입니다. Spotify가 배경에서 로파이 비트를 재생 중입니다. Mac은 이 모든 것을 하나의 볼륨으로 처리합니다. 로파이를 줄이면 교수님 말이 안 들립니다. 강의를 올리면 Discord 알림이 집중력을 산산조각냅니다.</p>
 
@@ -1225,10 +1204,9 @@ export const koArticles: ArticleSet = {
   "mac-sound-not-working-after-update": {
     slug: "mac-sound-not-working-after-update",
     title: "업데이트 후 Mac 사운드가 작동하지 않나요? 완전 해결 가이드",
-    description:
-      "macOS를 업데이트했는데 소리가 안 나거나, 끊기거나, 잘못된 볼륨에 고정되어 있습니다. Mac 오디오를 다시 작동시키는 모든 해결 방법을 알아보세요.",
+    description: "macOS를 업데이트했는데 소리가 안 나거나, 끊기거나, 잘못된 볼륨에 고정되어 있습니다. Mac 오디오를 다시 작동시키는 모든 해결 방법을 알아보세요.",
     date: "2026-04-25",
-    readTime: "7분 소요",
+    readTime: "7분 읽기",
     content: `
 <p>macOS를 업데이트했습니다. 모든 것이 괜찮아 보였습니다 — 소리가 없다는 것을 알아차릴 때까지. 또는 소리가 끊깁니다. 또는 볼륨이 고정되어 있습니다. 또는 오디오 출력 장치가 사라졌습니다. 업데이트 후 오디오 문제는 거의 모든 macOS 릴리스에서 발생하며, 약간 짜증나는 것부터 완전히 무음까지 다양합니다.</p>
 
@@ -1304,10 +1282,9 @@ export const koArticles: ArticleSet = {
   "mute-all-apps-keyboard-shortcut-mac": {
     slug: "mute-all-apps-keyboard-shortcut-mac",
     title: "Mac에서 모든 앱을 한 번에 음소거하는 방법 (그리고 완벽하게 복원하기)",
-    description:
-      "즉각적인 정적이 필요한가요? 음소거 키는 모든 것을 음소거합니다 — 하지만 음소거 해제하면 신중하게 밸런스한 볼륨이 재설정됩니다. Mac에서 더 나은 음소거 및 복원 방법을 알아보세요.",
+    description: "즉각적인 정적이 필요한가요? 음소거 키는 모든 것을 음소거합니다 — 하지만 음소거 해제하면 신중하게 밸런스한 볼륨이 재설정됩니다. Mac에서 더 나은 음소거 및 복원 방법을 알아보세요.",
     date: "2026-04-28",
-    readTime: "4분 소요",
+    readTime: "4분 읽기",
     content: `
 <p>누군가 방에 들어옵니다. 상사가 예상치 않게 전화합니다. 클라이언트가 통화에서 화면을 공유하는데 당신의 음악이 그들의 스피커로 재생되기 시작합니다. 즉각적인 정적이 필요합니다. 지금 당장.</p>
 
@@ -1362,10 +1339,9 @@ export const koArticles: ArticleSet = {
   "google-meet-volume-too-low-mac": {
     slug: "google-meet-volume-too-low-mac",
     title: "Mac에서 Google Meet 볼륨이 너무 작은가요? 해결 방법",
-    description:
-      "최대 볼륨에서도 Google Meet의 목소리가 거의 들리지 않습니다. Meet가 Chrome을 통해 실행되는 이유, 오디오에 미치는 영향, 증폭하는 방법을 알아보세요.",
+    description: "최대 볼륨에서도 Google Meet의 목소리가 거의 들리지 않습니다. Meet가 Chrome을 통해 실행되는 이유, 오디오에 미치는 영향, 증폭하는 방법을 알아보세요.",
     date: "2026-05-01",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Google Meet에는 네이티브 Mac 앱이 없습니다 — 브라우저 안에서 실행됩니다. 이것은 Meet의 오디오가 Chrome(또는 Safari)의 오디오 스트림의 일부라는 것을 의미하며, 볼륨 문제가 브라우저가 오디오를 처리하는 방식과 얽혀 있습니다. 풀어보겠습니다.</p>
 
@@ -1413,10 +1389,9 @@ export const koArticles: ArticleSet = {
   "mac-alert-volume-separate-from-media": {
     slug: "mac-alert-volume-separate-from-media",
     title: "Mac 경고 볼륨을 미디어 볼륨과 별도로 설정하는 방법",
-    description:
-      "macOS에는 숨겨진 경고 볼륨 슬라이더가 있지만 시스템 사운드만 커버합니다. Mac에서 알림 볼륨과 미디어 볼륨을 실제로 분리하는 방법을 알아보세요.",
+    description: "macOS에는 숨겨진 경고 볼륨 슬라이더가 있지만 시스템 사운드만 커버합니다. Mac에서 알림 볼륨과 미디어 볼륨을 실제로 분리하는 방법을 알아보세요.",
     date: "2026-05-02",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>음악이 완벽한 레벨입니다. 그런데 macOS 경고 소리가 울립니다 — "Funk"이나 "Tink" 효과음 — 음악에 비해 고통스러울 정도로 큽니다. 또는 반대: 조용한 배경 음악을 위해 시스템 볼륨이 낮아서 경고가 안 들립니다.</p>
 
@@ -1485,10 +1460,9 @@ export const koArticles: ArticleSet = {
   "facetime-volume-too-low-mac": {
     slug: "facetime-volume-too-low-mac",
     title: "Mac에서 FaceTime 통화 볼륨이 너무 작은가요? 해결 방법",
-    description:
-      "최대 볼륨에서도 Mac에서 FaceTime 오디오가 거의 들리지 않습니다. 사운드 설정부터 FaceTime을 100% 이상으로 증폭하는 방법까지 모든 해결책을 알아보세요.",
+    description: "최대 볼륨에서도 Mac에서 FaceTime 오디오가 거의 들리지 않습니다. 사운드 설정부터 FaceTime을 100% 이상으로 증폭하는 방법까지 모든 해결책을 알아보세요.",
     date: "2026-05-04",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>iPhone에서의 FaceTime 통화는 괜찮습니다. 하지만 Mac에서는 상대방이 세 방 건너에서 속삭이는 것처럼 들립니다. 볼륨은 최대입니다. 생각할 수 있는 모든 것을 확인했습니다. 여전히 너무 조용합니다.</p>
 
@@ -1536,10 +1510,9 @@ export const koArticles: ArticleSet = {
   "mac-volume-keyboard-shortcuts": {
     slug: "mac-volume-keyboard-shortcuts",
     title: "아마 모르셨을 Mac 볼륨 키보드 단축키",
-    description:
-      "기본 볼륨 키 이상 — 세밀한 제어, 특정 앱 음소거, 앱별 볼륨 단축키. Mac 오디오 키보드 트릭을 모두 설명합니다.",
+    description: "기본 볼륨 키 이상 — 세밀한 제어, 특정 앱 음소거, 앱별 볼륨 단축키. Mac 오디오 키보드 트릭을 모두 설명합니다.",
     date: "2026-05-06",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>모든 Mac 사용자가 볼륨 올리기/내리기/음소거 키를 알고 있습니다. 누르면 시스템 볼륨이 변합니다. 하지만 macOS에는 대부분의 사람들이 발견하지 못하는 여러 숨겨진 오디오 제어 키보드 트릭이 있습니다 — 타사 단축키까지 포함하면 볼륨 관리가 극적으로 빨라집니다.</p>
 
@@ -1602,10 +1575,9 @@ export const koArticles: ArticleSet = {
   "background-music-app-not-working-mac": {
     slug: "background-music-app-not-working-mac",
     title: "macOS에서 Background Music 앱이 작동하지 않나요? 대안을 알아보세요",
-    description:
-      "무료 Background Music 앱이 macOS 업데이트 후 작동이 멈췄나요? 왜 고장나는지, 어떻게 해야 하는지, 2026년에 실제로 작동하는 최고의 대안을 알아보세요.",
+    description: "무료 Background Music 앱이 macOS 업데이트 후 작동이 멈췄나요? 왜 고장나는지, 어떻게 해야 하는지, 2026년에 실제로 작동하는 최고의 대안을 알아보세요.",
     date: "2026-06-08",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Background Music은 기본적인 앱별 볼륨 제어를 제공하는 인기 있는 무료 오픈 소스 Mac 앱입니다. 가상 오디오 장치를 설치하고 모든 오디오를 그것을 통해 라우팅하여 작동합니다. 문제: 고장납니다. 정기적으로.</p>
 
@@ -1666,10 +1638,9 @@ export const koArticles: ArticleSet = {
   "soundsource-alternative-mac": {
     slug: "soundsource-alternative-mac",
     title: "SoundSource 대안: Mac을 위한 더 가볍고 저렴한 앱별 볼륨 제어",
-    description:
-      "SoundSource는 강력하지만 비싸고 복잡합니다. 오디오 엔지니어링 툴킷 없이 앱별 볼륨 제어만 필요하다면 대신 사용할 것을 알아보세요.",
+    description: "SoundSource는 강력하지만 비싸고 복잡합니다. 오디오 엔지니어링 툴킷 없이 앱별 볼륨 제어만 필요하다면 대신 사용할 것을 알아보세요.",
     date: "2026-06-06",
-    readTime: "6분 소요",
+    readTime: "6분 읽기",
     content: `
 <p>Rogue Amoeba의 SoundSource는 Mac용 가장 오래된 앱별 볼륨 제어 앱입니다. 강력하고 잘 만들어졌으며 앱별 EQ, 오디오 이펙트 체인, 앱별 출력 라우팅 같은 기능이 있습니다. 또한 $39이고, 시스템 오디오 드라이버(ACE)가 필요하며, 대부분의 사람들이 사용할 것보다 더 많은 기능이 있습니다.</p>
 
@@ -1743,10 +1714,9 @@ export const koArticles: ArticleSet = {
   "mac-volume-too-loud-at-lowest-setting": {
     slug: "mac-volume-too-loud-at-lowest-setting",
     title: "Mac 볼륨이 최소 설정에서도 너무 큰가요? 더 조용하게 만드는 방법",
-    description:
-      "가장 낮은 볼륨 단계에서도 Mac이 너무 큽니다 — 특히 밤 늦게 헤드폰으로. 더 세밀한 볼륨 제어와 최소값 이하로 가는 방법을 알아보세요.",
+    description: "가장 낮은 볼륨 단계에서도 Mac이 너무 큽니다 — 특히 밤 늦게 헤드폰으로. 더 세밀한 볼륨 제어와 최소값 이하로 가는 방법을 알아보세요.",
     date: "2026-05-08",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>자정입니다. 헤드폰을 쓰고 있습니다. 볼륨 내리기 키를 가장 낮은 단계까지 누릅니다 — 한 칸. 여전히 너무 큽니다. 다음 누름은 음소거입니다. 그 사이에 아무것도 없습니다. 3%를 원하지만 macOS는 ~6%에서 0%로 점프합니다.</p>
 
@@ -1791,10 +1761,9 @@ export const koArticles: ArticleSet = {
   "one-airpod-louder-than-the-other-fix": {
     slug: "one-airpod-louder-than-the-other-fix",
     title: "AirPod 한쪽이 다른 쪽보다 큰가요? 모든 해결 방법 설명",
-    description:
-      "왼쪽 AirPod이 오른쪽보다 조용합니다(또는 반대). 귀지부터 macOS 밸런스 설정까지 모든 원인과 해결 방법을 알아보세요.",
+    description: "왼쪽 AirPod이 오른쪽보다 조용합니다(또는 반대). 귀지부터 macOS 밸런스 설정까지 모든 원인과 해결 방법을 알아보세요.",
     date: "2026-05-10",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>한쪽 AirPod은 괜찮습니다. 다른 쪽은 눈에 띄게 더 조용합니다. 음악이 중심이 벗어난 것처럼 들립니다. 목소리가 한쪽에서만 나오는 것 같습니다. 이것은 가장 흔한 AirPods 불만 중 하나이며 대개 간단한 해결책이 있습니다.</p>
 
@@ -1875,7 +1844,7 @@ export const koArticles: ArticleSet = {
     title: "Mac에서 Netflix 및 스트리밍 오디오가 너무 조용한가요? 해결 방법",
     description: "대사가 속삭임 수준으로 조용하다가 폭발 장면에서 방이 흔들립니다. Mac에서 스트리밍 오디오 레벨을 수정하고 — 조용한 콘텐츠를 100% 이상으로 증폭하는 방법을 알아보세요.",
     date: "2026-05-17",
-    readTime: "5분 소요",
+    readTime: "5분 읽기",
     content: `
 <p>Netflix에서 영화를 보고 있습니다. 두 등장인물이 대화 중 — 거의 들리지 않습니다. 볼륨을 올립니다. 액션 장면이 시작됩니다. 폭발이 귀청이 터집니다. 볼륨 키를 향해 달려갑니다. 스트리밍 오디오에 대한 가장 흔한 불만이며, Mac의 내장 스피커에서 더 심합니다.</p>
 
@@ -1928,38 +1897,220 @@ export const koArticles: ArticleSet = {
 <p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>
 `,
   },
-  "mac-audio-setup-remote-work": { slug: "mac-audio-setup-remote-work", title: "원격 근무를 위한 Mac 오디오 설정: 완전 가이드", description: "통화, 음악, 알림, 집중 시간 — 모두 하나의 Mac에서. 아무것도 관심을 놓고 싸우지 않도록 오디오를 설정하는 방법을 알아보세요.", date: "2026-05-12", readTime: "8분 소요", content: `<p>Mac에서의 원격 근무는 컴퓨터가 동시에 사무실 전화, 라디오, 알림 센터, 딥 워크 스테이션이 된다는 것을 의미합니다. 이것들은 근본적으로 다른 네 가지 오디오 모드이며, macOS는 모두 같게 취급합니다: 하나의 볼륨 슬라이더, 모든 것이 같은 레벨, 우선순위를 정할 방법 없음.</p><p>이 가이드는 통화가 명확하고, 음악은 존재하지만 산만하지 않고, 알림은 미세하고, 집중 시간은 정말 조용하도록 Mac 오디오를 설정하는 방법을 안내합니다.</p><h2>원격 근무의 네 가지 오디오 모드</h2><h3>1. 회의 모드</h3><p>Zoom 또는 Teams 통화 중입니다. 통화가 수정처럼 명확해야 합니다. 음악은 무음이거나 거의 들리지 않아야 합니다. Slack이 귀에서 울리면 안 됩니다.</p><h3>2. 집중 모드</h3><p>딥 워크 중입니다. 낮은 레벨의 배경 음악이 집중에 도움됩니다. 알림은 거의 인지할 수 없어야 합니다 — 긴급 메시지를 알아차릴 정도로 존재하되, 흐름을 깨뜨리지 않을 정도로 조용하게.</p><h3>3. 협업 모드</h3><p>메시지에 응대 가능, Slack 모니터링, 트레이닝 비디오 시청. 모든 것이 적당한 레벨. 알림은 정상 볼륨.</p><h3>4. 휴식 모드</h3><p>음악 최대 볼륨. YouTube 최대 볼륨. 알림은 기다릴 수 있음.</p><h2>소프트웨어 설정: 빠진 조각</h2><p>집중 모드는 <em>어떤</em> 알림이 통과하는지 제어하지만 <em>얼마나 큰지</em>는 제어하지 않습니다. 여전히 모든 것에 대해 하나의 볼륨 슬라이더가 있습니다. Slack을 15%, Spotify를 35%, Zoom을 100%로 원한다면 — macOS는 할 수 없습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>이 이 간격을 채워줍니다. 모든 앱에 자체 볼륨 슬라이더를 제공합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 원격 근무 오디오 설정 — macOS에서 Zoom, Spotify, Slack에 다른 볼륨 레벨" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><h3>각 모드에 대한 프로필 저장</h3><p><strong>회의 프로필:</strong> Zoom/Teams: 100%, Spotify: 음소거, Slack: 음소거, 브라우저: 음소거</p><p><strong>집중 근무 프로필:</strong> Spotify: 30%, Slack: 10%, Zoom: 80%, 브라우저: 40%</p><p><strong>협업 프로필:</strong> 모든 것 50-70%, Slack: 30%</p><p>한 번의 클릭으로 프로필 간 전환하세요. 통화가 시작되면 SoundDial의 자동 더킹이 자동으로 통화 앱을 제외한 모든 것을 낮춥니다. 끝나면 프로필 레벨로 복원됩니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "stop-browser-tabs-auto-playing-audio-mac": { slug: "stop-browser-tabs-auto-playing-audio-mac", title: "Mac에서 브라우저 탭 자동 재생 오디오를 중지하는 방법", description: "배경 탭에서 갑자기 오디오가 재생됩니다. 광고, 비디오, 뉴스 사이트 — 불량 탭을 음소거하고 macOS에서 브라우저 오디오를 제어하는 방법을 알아보세요.", date: "2026-05-14", readTime: "5분 소요", content: `<p>20개의 탭이 열려 있습니다. 하나에서 작업 중입니다. 갑자기 — 어딘가에서 오디오가 재생됩니다. 비디오 광고. 자동 재생 뉴스 클립. 한 시간 전에 열었던 탭이 지금 소리를 내기로 결정했습니다.</p><h2>Safari에서 자동 재생 비활성화</h2><p>Safari에는 최고의 내장 자동 재생 컨트롤이 있습니다: Safari → 설정(⌘,) → 웹사이트 탭 → 왼쪽 사이드바에서 "자동 재생" 선택 → 하단의 기본값을 "자동 재생 안 함" 또는 "소리가 있는 미디어 중지"로 설정.</p><h2>Chrome에서 자동 재생 비활성화</h2><p><code>chrome://settings/content/sound</code>로 이동 → "사이트에서 소리 재생 가능" 토글로 기본 동작 결정. 특정 사이트를 "음소거" 목록에 추가하여 영구적으로 음소거.</p><h2>더 넓은 문제: 브라우저 오디오 vs. 나머지</h2><p>macOS는 전체 브라우저를 하나의 볼륨의 하나의 앱으로 취급합니다. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 브라우저에 다른 모든 앱과 독립적인 자체 볼륨 슬라이더를 제공합니다. Zoom을 100%로 유지하면서 Safari를 30%로 낮추세요. Spotify를 재생하면서 Chrome을 완전히 음소거하세요. 한 번의 클릭.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 브라우저 볼륨을 다른 앱과 독립적으로 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "discord-volume-too-loud-mac": { slug: "discord-volume-too-loud-mac", title: "Mac에서 Discord 볼륨이 너무 큰 (또는 작은) 가요? 해결 방법", description: "Discord가 게임 소리를 덮거나 팀원 말이 안 들립니다. macOS에서 Discord 볼륨을 다른 모든 것과 독립적으로 제어하는 방법을 알아보세요.", date: "2026-05-21", readTime: "5분 소요", content: `<p>Discord는 Mac에서 두 가지 볼륨 문제가 있습니다. 너무 크거나 — 알림 소리가 게임과 음악 위로 폭발 — 너무 작거나 — 게임 오디오 때문에 팀원 말이 안 들립니다. macOS가 Discord의 볼륨을 독립적으로 조정할 수 없기 때문입니다.</p><h2>진짜 문제: 시스템 레벨 볼륨 밸런스</h2><p>Discord의 내부 컨트롤은 Discord의 자체 믹스를 조정합니다. 하지만 진짜 문제는 Discord와 Mac의 나머지 모든 것 사이의 밸런스입니다. macOS가 모두에 대해 하나의 슬라이더를 제공합니다.</p><h2>SoundDial로 해결</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에서 다른 모든 앱과 독립적인 Discord 자체 볼륨 슬라이더를 제공합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 게임과 음악과 독립적으로 Discord 볼륨 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><strong>게이밍 설정:</strong> Discord: 100%, 게임: 40%, Spotify: 15%. <strong>집중 근무:</strong> Discord: 음소거 또는 10%, Spotify: 50%, Slack: 15%. 각각을 <strong>볼륨 프로필</strong>로 저장하고 한 번의 클릭으로 전환하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "switch-audio-output-quickly-mac": { slug: "switch-audio-output-quickly-mac", title: "Mac에서 오디오 출력을 빠르게 전환하는 방법 (설정 뒤지기 없이)", description: "Mac에서 스피커, 헤드폰, 모니터 간 전환이 너무 많은 클릭이 필요합니다. 오디오 출력 장치를 즉시 변경하는 더 빠른 방법을 알아보세요.", date: "2026-05-19", readTime: "5분 소요", content: `<p>헤드폰을 빼고 스피커로 오디오를 보내고 싶습니다. 또는 AirPods를 연결했는데 macOS가 잘못된 장치를 선택합니다. 매번: 시스템 설정 → 사운드 → 출력 → 스크롤 → 클릭. 하나의 동작이어야 하는 것에 너무 많은 클릭입니다.</p><h2>방법 1: 볼륨 아이콘 Option 클릭</h2><p>가장 빠른 내장 방법입니다. <strong>Option(⌥)</strong>을 누른 채 메뉴 바의 볼륨/사운드 아이콘을 클릭하세요. 사용 가능한 모든 출력 장치 목록이 나타납니다. 원하는 것을 클릭하세요. 완료.</p><h2>방법 5: SoundDial의 내장 장치 전환기</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바 팝오버에 앱별 볼륨 슬라이더와 함께 출력 장치 선택기를 포함합니다. 한 번 클릭으로 SoundDial 열기, 한 번 클릭으로 장치 전환.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 하나의 메뉴 바 패널에서 오디오 출력 장치 전환과 앱별 볼륨 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "fix-audio-crackling-popping-mac": { slug: "fix-audio-crackling-popping-mac", title: "Mac 오디오 끊김 및 팝 소리 해결: 완전 가이드", description: "Mac 오디오가 끊기고, 팝 소리가 나고, 더듬거립니다 — 음악, 통화, 비디오 재생 중. macOS 오디오 글리치의 모든 알려진 원인과 해결 방법을 알아보세요.", date: "2026-05-16", readTime: "8분 소요", content: `<p>음악을 듣고 있는데 팝 소리가 들립니다. 그리고 끊김. 오디오가 잠깐 끊겼다가 돌아오는 더듬거림. 곡이 아닙니다 — Mac입니다. macOS의 오디오 끊김은 미칠 듯이 흔하며 최소 여섯 가지 다른 원인이 있습니다.</p>
+  "mac-audio-setup-remote-work": {
+    slug: "mac-audio-setup-remote-work",
+    title: "원격 근무를 위한 Mac 오디오 설정: 완전 가이드",
+    description: "통화, 음악, 알림, 집중 시간 — 모두 하나의 Mac에서. 아무것도 관심을 놓고 싸우지 않도록 오디오를 설정하는 방법을 알아보세요.",
+    date: "2026-05-12",
+    readTime: "8분 읽기",
+    content: `<p>Mac에서의 원격 근무는 컴퓨터가 동시에 사무실 전화, 라디오, 알림 센터, 딥 워크 스테이션이 된다는 것을 의미합니다. 이것들은 근본적으로 다른 네 가지 오디오 모드이며, macOS는 모두 같게 취급합니다: 하나의 볼륨 슬라이더, 모든 것이 같은 레벨, 우선순위를 정할 방법 없음.</p><p>이 가이드는 통화가 명확하고, 음악은 존재하지만 산만하지 않고, 알림은 미세하고, 집중 시간은 정말 조용하도록 Mac 오디오를 설정하는 방법을 안내합니다.</p><h2>원격 근무의 네 가지 오디오 모드</h2><h3>1. 회의 모드</h3><p>Zoom 또는 Teams 통화 중입니다. 통화가 수정처럼 명확해야 합니다. 음악은 무음이거나 거의 들리지 않아야 합니다. Slack이 귀에서 울리면 안 됩니다.</p><h3>2. 집중 모드</h3><p>딥 워크 중입니다. 낮은 레벨의 배경 음악이 집중에 도움됩니다. 알림은 거의 인지할 수 없어야 합니다 — 긴급 메시지를 알아차릴 정도로 존재하되, 흐름을 깨뜨리지 않을 정도로 조용하게.</p><h3>3. 협업 모드</h3><p>메시지에 응대 가능, Slack 모니터링, 트레이닝 비디오 시청. 모든 것이 적당한 레벨. 알림은 정상 볼륨.</p><h3>4. 휴식 모드</h3><p>음악 최대 볼륨. YouTube 최대 볼륨. 알림은 기다릴 수 있음.</p><h2>소프트웨어 설정: 빠진 조각</h2><p>집중 모드는 <em>어떤</em> 알림이 통과하는지 제어하지만 <em>얼마나 큰지</em>는 제어하지 않습니다. 여전히 모든 것에 대해 하나의 볼륨 슬라이더가 있습니다. Slack을 15%, Spotify를 35%, Zoom을 100%로 원한다면 — macOS는 할 수 없습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>이 이 간격을 채워줍니다. 모든 앱에 자체 볼륨 슬라이더를 제공합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 원격 근무 오디오 설정 — macOS에서 Zoom, Spotify, Slack에 다른 볼륨 레벨" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><h3>각 모드에 대한 프로필 저장</h3><p><strong>회의 프로필:</strong> Zoom/Teams: 100%, Spotify: 음소거, Slack: 음소거, 브라우저: 음소거</p><p><strong>집중 근무 프로필:</strong> Spotify: 30%, Slack: 10%, Zoom: 80%, 브라우저: 40%</p><p><strong>협업 프로필:</strong> 모든 것 50-70%, Slack: 30%</p><p>한 번의 클릭으로 프로필 간 전환하세요. 통화가 시작되면 SoundDial의 자동 더킹이 자동으로 통화 앱을 제외한 모든 것을 낮춥니다. 끝나면 프로필 레벨로 복원됩니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "stop-browser-tabs-auto-playing-audio-mac": {
+    slug: "stop-browser-tabs-auto-playing-audio-mac",
+    title: "Mac에서 브라우저 탭 자동 재생 오디오를 중지하는 방법",
+    description: "배경 탭에서 갑자기 오디오가 재생됩니다. 광고, 비디오, 뉴스 사이트 — 불량 탭을 음소거하고 macOS에서 브라우저 오디오를 제어하는 방법을 알아보세요.",
+    date: "2026-05-14",
+    readTime: "5분 읽기",
+    content: `<p>20개의 탭이 열려 있습니다. 하나에서 작업 중입니다. 갑자기 — 어딘가에서 오디오가 재생됩니다. 비디오 광고. 자동 재생 뉴스 클립. 한 시간 전에 열었던 탭이 지금 소리를 내기로 결정했습니다.</p><h2>Safari에서 자동 재생 비활성화</h2><p>Safari에는 최고의 내장 자동 재생 컨트롤이 있습니다: Safari → 설정(⌘,) → 웹사이트 탭 → 왼쪽 사이드바에서 "자동 재생" 선택 → 하단의 기본값을 "자동 재생 안 함" 또는 "소리가 있는 미디어 중지"로 설정.</p><h2>Chrome에서 자동 재생 비활성화</h2><p><code>chrome://settings/content/sound</code>로 이동 → "사이트에서 소리 재생 가능" 토글로 기본 동작 결정. 특정 사이트를 "음소거" 목록에 추가하여 영구적으로 음소거.</p><h2>더 넓은 문제: 브라우저 오디오 vs. 나머지</h2><p>macOS는 전체 브라우저를 하나의 볼륨의 하나의 앱으로 취급합니다. <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 브라우저에 다른 모든 앱과 독립적인 자체 볼륨 슬라이더를 제공합니다. Zoom을 100%로 유지하면서 Safari를 30%로 낮추세요. Spotify를 재생하면서 Chrome을 완전히 음소거하세요. 한 번의 클릭.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 브라우저 볼륨을 다른 앱과 독립적으로 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "discord-volume-too-loud-mac": {
+    slug: "discord-volume-too-loud-mac",
+    title: "Mac에서 Discord 볼륨이 너무 큰 (또는 작은) 가요? 해결 방법",
+    description: "Discord가 게임 소리를 덮거나 팀원 말이 안 들립니다. macOS에서 Discord 볼륨을 다른 모든 것과 독립적으로 제어하는 방법을 알아보세요.",
+    date: "2026-05-21",
+    readTime: "5분 읽기",
+    content: `<p>Discord는 Mac에서 두 가지 볼륨 문제가 있습니다. 너무 크거나 — 알림 소리가 게임과 음악 위로 폭발 — 너무 작거나 — 게임 오디오 때문에 팀원 말이 안 들립니다. macOS가 Discord의 볼륨을 독립적으로 조정할 수 없기 때문입니다.</p><h2>진짜 문제: 시스템 레벨 볼륨 밸런스</h2><p>Discord의 내부 컨트롤은 Discord의 자체 믹스를 조정합니다. 하지만 진짜 문제는 Discord와 Mac의 나머지 모든 것 사이의 밸런스입니다. macOS가 모두에 대해 하나의 슬라이더를 제공합니다.</p><h2>SoundDial로 해결</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에서 다른 모든 앱과 독립적인 Discord 자체 볼륨 슬라이더를 제공합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 게임과 음악과 독립적으로 Discord 볼륨 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><strong>게이밍 설정:</strong> Discord: 100%, 게임: 40%, Spotify: 15%. <strong>집중 근무:</strong> Discord: 음소거 또는 10%, Spotify: 50%, Slack: 15%. 각각을 <strong>볼륨 프로필</strong>로 저장하고 한 번의 클릭으로 전환하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "switch-audio-output-quickly-mac": {
+    slug: "switch-audio-output-quickly-mac",
+    title: "Mac에서 오디오 출력을 빠르게 전환하는 방법 (설정 뒤지기 없이)",
+    description: "Mac에서 스피커, 헤드폰, 모니터 간 전환이 너무 많은 클릭이 필요합니다. 오디오 출력 장치를 즉시 변경하는 더 빠른 방법을 알아보세요.",
+    date: "2026-05-19",
+    readTime: "5분 읽기",
+    content: `<p>헤드폰을 빼고 스피커로 오디오를 보내고 싶습니다. 또는 AirPods를 연결했는데 macOS가 잘못된 장치를 선택합니다. 매번: 시스템 설정 → 사운드 → 출력 → 스크롤 → 클릭. 하나의 동작이어야 하는 것에 너무 많은 클릭입니다.</p><h2>방법 1: 볼륨 아이콘 Option 클릭</h2><p>가장 빠른 내장 방법입니다. <strong>Option(⌥)</strong>을 누른 채 메뉴 바의 볼륨/사운드 아이콘을 클릭하세요. 사용 가능한 모든 출력 장치 목록이 나타납니다. 원하는 것을 클릭하세요. 완료.</p><h2>방법 5: SoundDial의 내장 장치 전환기</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바 팝오버에 앱별 볼륨 슬라이더와 함께 출력 장치 선택기를 포함합니다. 한 번 클릭으로 SoundDial 열기, 한 번 클릭으로 장치 전환.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 하나의 메뉴 바 패널에서 오디오 출력 장치 전환과 앱별 볼륨 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "fix-audio-crackling-popping-mac": {
+    slug: "fix-audio-crackling-popping-mac",
+    title: "Mac 오디오 끊김 및 팝 소리 해결: 완전 가이드",
+    description: "Mac 오디오가 끊기고, 팝 소리가 나고, 더듬거립니다 — 음악, 통화, 비디오 재생 중. macOS 오디오 글리치의 모든 알려진 원인과 해결 방법을 알아보세요.",
+    date: "2026-05-16",
+    readTime: "8분 읽기",
+    content: `<p>음악을 듣고 있는데 팝 소리가 들립니다. 그리고 끊김. 오디오가 잠깐 끊겼다가 돌아오는 더듬거림. 곡이 아닙니다 — Mac입니다. macOS의 오디오 끊김은 미칠 듯이 흔하며 최소 여섯 가지 다른 원인이 있습니다.</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-<h2>1. Core Audio 재시작 (빠른 해결)</h2><p>터미널을 열고 실행하세요: <code>sudo killall coreaudiod</code></p><p>오디오가 1초간 끊기고 재시작됩니다. 많은 경우 즉시 끊김이 멈춥니다.</p><h2>2. CPU 과부하</h2><p>Mac의 CPU가 최대이면 오디오 버퍼를 충분히 빨리 처리할 수 없어 팝과 끊김처럼 들리는 간격이 발생합니다. Activity Monitor에서 CPU 사용량을 확인하세요.</p><h2>3. Bluetooth 오디오 문제</h2><p>간섭, 코덱 전환, Bluetooth 혼잡이 끊김을 일으킬 수 있습니다. Mac에 더 가까이 이동하고 사용하지 않는 장치를 연결 해제하세요.</p><h2>SoundDial로 오디오 품질 관리</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 사용하지 않는 앱을 음소거하여 오디오 처리에 대한 CPU 압력을 줄이고, 시스템 볼륨 100% 대신 앱별 부스트를 사용하여 시스템 출력 레벨의 왜곡을 줄일 수 있습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "teams-volume-too-low-mac": { slug: "teams-volume-too-low-mac", title: "Mac에서 Microsoft Teams 볼륨이 너무 작은가요? 효과적인 모든 해결 방법", description: "최대 볼륨에서도 Teams에서 사람 목소리가 거의 들리지 않나요? Teams 설정부터 Bluetooth 코덱까지 모든 원인과 통화 오디오를 100% 이상으로 증폭하는 방법을 알아보세요.", date: "2026-06-04", readTime: "7분 소요", content: `<p>Teams 회의 중입니다. 동료가 발표하고 있지만 목소리가 세 방 건너에서 양철통을 통해 오는 것처럼 들립니다. Mac 볼륨 100%. Teams 볼륨 100%. 모든 것을 최대로 올렸습니다. 여전히 너무 조용합니다.</p><h2>Teams 오디오 설정 확인</h2><p>Teams → 설정 → 장치에서 올바른 스피커가 선택되어 있는지, "노이즈 억제"가 "높음"으로 설정되지 않았는지 확인하세요.</p><h2>Bluetooth 코덱 전환</h2><p>AirPods을 사용 중이면 Teams 통화가 AAC에서 SCO 코덱으로의 전환을 강제합니다. 별도의 마이크를 사용하여 이를 방지하세요.</p><h2>Teams 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 Teams를 <strong>200%</strong>까지 증폭할 수 있습니다. Teams만 더 커지고 음악, 브라우저, 기타 앱은 현재 레벨을 유지합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 Microsoft Teams 통화 볼륨을 100% 이상으로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "how-to-control-per-app-volume-on-mac": { slug: "how-to-control-per-app-volume-on-mac", title: "Mac에서 앱별 볼륨을 제어하는 방법", description: "macOS는 모든 것에 대해 하나의 볼륨 슬라이더를 제공합니다. 모든 앱에 대해 개별 볼륨 컨트롤을 얻는 방법과 — 왜 생각보다 중요한지 알아보세요.", date: "2026-05-20", readTime: "7분 소요", content: `<p>화상 통화 중입니다. Slack이 계속 울립니다. 배경에서 음악이 재생됩니다. 볼륨 키를 누르면 — 모든 것이 조용해집니다. macOS에는 정확히 하나의 볼륨 슬라이더가 있으며 모든 것을 한 번에 제어합니다.</p>
+<h2>1. Core Audio 재시작 (빠른 해결)</h2><p>터미널을 열고 실행하세요: <code>sudo killall coreaudiod</code></p><p>오디오가 1초간 끊기고 재시작됩니다. 많은 경우 즉시 끊김이 멈춥니다.</p><h2>2. CPU 과부하</h2><p>Mac의 CPU가 최대이면 오디오 버퍼를 충분히 빨리 처리할 수 없어 팝과 끊김처럼 들리는 간격이 발생합니다. Activity Monitor에서 CPU 사용량을 확인하세요.</p><h2>3. Bluetooth 오디오 문제</h2><p>간섭, 코덱 전환, Bluetooth 혼잡이 끊김을 일으킬 수 있습니다. Mac에 더 가까이 이동하고 사용하지 않는 장치를 연결 해제하세요.</p><h2>SoundDial로 오디오 품질 관리</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 사용하지 않는 앱을 음소거하여 오디오 처리에 대한 CPU 압력을 줄이고, 시스템 볼륨 100% 대신 앱별 부스트를 사용하여 시스템 출력 레벨의 왜곡을 줄일 수 있습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "teams-volume-too-low-mac": {
+    slug: "teams-volume-too-low-mac",
+    title: "Mac에서 Microsoft Teams 볼륨이 너무 작은가요? 효과적인 모든 해결 방법",
+    description: "최대 볼륨에서도 Teams에서 사람 목소리가 거의 들리지 않나요? Teams 설정부터 Bluetooth 코덱까지 모든 원인과 통화 오디오를 100% 이상으로 증폭하는 방법을 알아보세요.",
+    date: "2026-06-04",
+    readTime: "7분 읽기",
+    content: `<p>Teams 회의 중입니다. 동료가 발표하고 있지만 목소리가 세 방 건너에서 양철통을 통해 오는 것처럼 들립니다. Mac 볼륨 100%. Teams 볼륨 100%. 모든 것을 최대로 올렸습니다. 여전히 너무 조용합니다.</p><h2>Teams 오디오 설정 확인</h2><p>Teams → 설정 → 장치에서 올바른 스피커가 선택되어 있는지, "노이즈 억제"가 "높음"으로 설정되지 않았는지 확인하세요.</p><h2>Bluetooth 코덱 전환</h2><p>AirPods을 사용 중이면 Teams 통화가 AAC에서 SCO 코덱으로의 전환을 강제합니다. 별도의 마이크를 사용하여 이를 방지하세요.</p><h2>Teams 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 Teams를 <strong>200%</strong>까지 증폭할 수 있습니다. Teams만 더 커지고 음악, 브라우저, 기타 앱은 현재 레벨을 유지합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 Microsoft Teams 통화 볼륨을 100% 이상으로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "how-to-control-per-app-volume-on-mac": {
+    slug: "how-to-control-per-app-volume-on-mac",
+    title: "Mac에서 앱별 볼륨을 제어하는 방법",
+    description: "macOS는 모든 것에 대해 하나의 볼륨 슬라이더를 제공합니다. 모든 앱에 대해 개별 볼륨 컨트롤을 얻는 방법과 — 왜 생각보다 중요한지 알아보세요.",
+    date: "2026-05-20",
+    readTime: "7분 읽기",
+    content: `<p>화상 통화 중입니다. Slack이 계속 울립니다. 배경에서 음악이 재생됩니다. 볼륨 키를 누르면 — 모든 것이 조용해집니다. macOS에는 정확히 하나의 볼륨 슬라이더가 있으며 모든 것을 한 번에 제어합니다.</p>
 
 <a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control for macOS" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
-<p>Windows는 Vista(2006) 이후부터 앱별 볼륨 믹서를 가지고 있습니다. 20년 후에도 macOS는 여전히 없습니다.</p><h2>앱별 볼륨이 실제로 의미하는 것</h2><p>앱별 볼륨은 Mac의 모든 애플리케이션이 자체 독립적인 볼륨 슬라이더를 얻는 것을 의미합니다. Spotify를 30%로, Zoom을 100%로, Slack을 완전히 음소거하고, Safari를 50%로 — 모두 동시에 설정할 수 있습니다.</p><h2>SoundDial</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 원하는 Mac 볼륨 믹서가 존재하지 않아서 만들었습니다. 메뉴 바에 위치하고 소리를 내는 모든 앱을 표시하며 각각에 자체 슬라이더를 제공합니다. 앱별 음소거, 볼륨 부스트, 프로필, 통화 시작 시 음악을 낮추는 자동 더킹. 일회성 구매, macOS 14+, 구독 없음.</p>` },
-  "mute-slack-notifications-mac-without-muting-everything": { slug: "mute-slack-notifications-mac-without-muting-everything", title: "다른 모든 것을 음소거하지 않고 Mac에서 Slack을 음소거하는 방법", description: "Slack 알림이 집중을 방해하지만 음악이나 통화를 음소거하고 싶지 않습니다. macOS에서 Slack만 음소거하는 방법을 알아보세요.", date: "2026-05-24", readTime: "5분 소요", content: `<p>딥 워크 중입니다. Spotify가 완벽한 집중 플레이리스트를 재생 중입니다. 그런데 — Slack이 울립니다. 또 또 또. Slack을 음소거하고 싶지만 음악은 유지하고 싶습니다. macOS: 모든 것을 음소거하거나 아무것도 음소거하지 않거나.</p><h2>진짜 해결법: 앱별 볼륨 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Slack에 자체 독립적인 볼륨 슬라이더를 제공합니다. 원하는 레벨로 설정하세요 — 또는 한 번의 클릭으로 완전히 음소거하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial에서 Slack 음소거, Spotify는 macOS에서 정상 볼륨으로 재생" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><strong>집중 시간:</strong> Slack 10% 또는 음소거, Spotify 40%. <strong>회의 시간:</strong> Slack 음소거, Zoom 100%. 각각을 <strong>볼륨 프로필</strong>로 저장하고 한 번의 클릭으로 전환하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "volume-profiles-for-mac": { slug: "volume-profiles-for-mac", title: "Mac에서 다양한 상황에 맞는 볼륨 프로필을 설정하는 방법", description: "회의, 집중 근무, 게이밍, 릴랙스를 위한 다른 볼륨 설정 — 한 번의 클릭으로 전환 가능. macOS에서 볼륨 프로필이 작동하는 방법을 알아보세요.", date: "2026-06-02", readTime: "5분 소요", content: `<p>오전 9시에는 Zoom 통화 — Zoom 100%, Spotify 음소거. 오전 10시에 통화 종료 — Spotify 40%, Slack 15%. 정오에 게이밍 — 게임 60%, Discord 100%. 오후 6시에 YouTube — 브라우저 80%.</p><p>모든 상황에 다른 이상적인 볼륨 구성이 있습니다. 상황이 바뀔 때마다 5~6개 앱을 수동으로 조정하거나, 각 설정을 프로필로 저장하고 한 번의 클릭으로 전환할 수 있습니다.</p><h2>SoundDial로 프로필 설정</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>에는 내장 프로필 시스템이 있습니다. 각 앱의 볼륨을 원하는 대로 조정하고 "+" 버튼을 클릭하여 프로필을 저장하세요. 한 번의 클릭으로 적용합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 볼륨 프로필 — macOS에서 회의, 집중, 릴랙스 모드 간 한 번의 클릭으로 전환" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "zoom-call-volume-too-low-mac": { slug: "zoom-call-volume-too-low-mac", title: "Mac에서 Zoom 통화 볼륨이 너무 작은가요? 증폭하는 방법", description: "최대 볼륨에서도 Zoom에서 사람 목소리가 거의 들리지 않습니다. Zoom 설정부터 앱별 볼륨 믹서로 통화 오디오를 100% 이상으로 증폭하는 방법까지 모든 해결책을 알아보세요.", date: "2026-05-26", readTime: "6분 소요", content: `<p>Zoom 통화 중입니다. 상대방이 말하고 있지만 거의 들리지 않습니다. Mac 볼륨 최대. Zoom 스피커 볼륨 최대. 화면에 기대어 듣고 있습니다. 이렇게 어려우면 안 됩니다.</p><h2>Zoom 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 Zoom을 <strong>200%</strong>까지 증폭할 수 있습니다. 참가자가 너무 조용하면 Zoom의 슬라이더를 150% 또는 180%로 드래그하세요. Zoom의 내장 최대값을 넘어 오디오 신호가 증폭되어 가장 조용한 목소리도 들릴 수 있게 됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 화상 통화 중 더 명확한 오디오를 위해 Mac에서 Zoom 통화 볼륨을 180%로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "lower-spotify-without-lowering-everything-mac": { slug: "lower-spotify-without-lowering-everything-mac", title: "Mac에서 다른 모든 것을 낮추지 않고 Spotify만 낮추는 방법", description: "Spotify를 배경 음악으로 듣고 싶은데 볼륨 키로 줄이면 통화와 나머지도 모두 조용해집니다. 해결 방법을 알아보세요.", date: "2026-05-30", readTime: "4분 소요", content: `<p>작업 중입니다. Spotify가 배경 음악을 재생 중입니다. 좀 크네요. 볼륨 내리기 키를 탭합니다. Spotify가 조용해집니다. 하지만 Zoom 통화, 알림 소리, 브라우저 오디오도 모두 조용해집니다. 원하던 것이 아닙니다.</p><h2>진짜 해결법: 앱별 볼륨 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에 모든 앱의 볼륨 슬라이더를 넣습니다. Spotify만 낮추려면: SoundDial 아이콘 클릭, Spotify 찾기, 슬라이더 드래그. 완료. 다른 모든 것은 변하지 않습니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 다른 앱을 최대 볼륨으로 유지하면서 Spotify 볼륨만 독립적으로 낮춤" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>자동 더킹으로 통화에 참여하면 SoundDial이 자동으로 Spotify를 낮출 수 있습니다. 수동 조정이 전혀 필요 없습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>` },
-  "macos-tahoe-per-app-volume-control": { slug: "macos-tahoe-per-app-volume-control", title: "macOS Tahoe에 앱별 볼륨 제어가 있나요?", description: "macOS Tahoe(macOS 26)는 주요 업데이트를 가져왔지만 Apple이 드디어 볼륨 믹서를 추가했나요? 답과 — 지금 앱별 볼륨 제어를 얻는 방법을 알아보세요.", date: "2026-06-12", readTime: "4분 소요", content: `<p>매년 Mac 사용자들은 다음 macOS 릴리스에 볼륨 믹서가 포함되기를 바랍니다. 매년 실망합니다. macOS Tahoe(macOS 26)에서 Apple은 재설계된 인터페이스, 새로운 시스템 기능, 주요 내부 개선을 제공했습니다. 하지만 앱별 볼륨 제어를 추가했을까요?</p><h2>짧은 답: 아니오</h2><p>macOS Tahoe에는 내장 볼륨 믹서가 없습니다. 시스템 설정, 제어 센터, 메뉴 바에 앱별 볼륨 제어가 없습니다.</p><h2>macOS Tahoe에서 앱별 볼륨 제어를 얻는 방법</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 macOS Tahoe와 완전히 호환되며 Apple의 최신 Core Audio Tap API를 사용합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS Tahoe에서 앱별 볼륨 제어 제공" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>` },
-  "play-music-speakers-calls-headphones-mac": { slug: "play-music-speakers-calls-headphones-mac", title: "Mac에서 스피커로 음악을 재생하면서 헤드폰으로 통화하는 방법", description: "데스크 스피커로 Spotify를 재생하면서 AirPods로 Zoom 통화를 하고 싶나요? macOS는 이를 쉽게 만들지 않습니다 — 실제로 작동하는 것을 알아보세요.", date: "2026-05-15", readTime: "5분 소요", content: `<p>합리적인 것을 하고 싶습니다: 데스크 스피커로 음악을 재생하면서 AirPods으로 Zoom 통화. macOS: 안 됩니다. 출력 장치를 선택하면 <em>모든</em> 앱이 사용합니다.</p><h2>더 간단한 접근: 볼륨 기반 분리</h2><p>주요 목표가 음악보다 통화를 명확하게 듣는 것이라면 앱별 볼륨 제어가 더 간단하게 문제를 해결합니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱에 자체 볼륨 슬라이더를 제공합니다. 통화 중: Zoom을 <strong>100%</strong>, Spotify를 <strong>20%</strong>로 설정. 자동 더킹으로 자동 처리됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 통화 중 Zoom을 최대 볼륨으로, Spotify를 낮춘 모습" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "mac-volume-keeps-changing-by-itself": { slug: "mac-volume-keeps-changing-by-itself", title: "Mac 볼륨이 저절로 변하는 문제: 해결 방법", description: "Mac의 볼륨이 무작위로 올라가거나 내려가거나 다른 레벨로 재설정됩니다. 모든 알려진 원인과 중지하는 방법을 알아보세요.", date: "2026-05-18", readTime: "6분 소요", content: `<p>Mac 볼륨을 편안한 레벨로 설정합니다. 잠시 후 돌아보면 달라져 있습니다. 더 크거나. 더 작거나. 최대로 재설정. 계속 반복되는데 이유를 모르겠습니다.</p><h2>1. Bluetooth 장치 재연결</h2><p>가장 흔한 원인입니다. Bluetooth 장치가 연결되거나 연결 해제되면 macOS가 해당 장치와 마지막으로 사용한 레벨로 볼륨을 재설정합니다.</p><h2>SoundDial로 앱별 볼륨 잠금</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱의 볼륨 레벨을 독립적으로 기억합니다. 시스템 볼륨이 변해도 앱 레벨 밸런스는 일관됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 재시작 간 앱별 볼륨 레벨 기억" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "best-volume-mixer-apps-mac-2026": { slug: "best-volume-mixer-apps-mac-2026", title: "2026년 Mac용 최고의 볼륨 믹서 앱", description: "Mac에서 앱별 볼륨 제어를 제공하는 모든 앱의 솔직한 비교. 기능, 가격, 실제로 사용할 가치가 있는 것.", date: "2026-06-12", readTime: "10분 소요", content: `<p>macOS에는 내장 볼륨 믹서가 없습니다. 개별 앱의 볼륨을 제어하려면 타사 앱이 필요합니다. 여러 옵션이 있습니다.</p><h2>SoundDial</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>: 앱별 볼륨 0-200%, 프로필, 자동 더킹, 볼륨 메모리, 키보드 단축키. €14.99 일회성. Mac App Store. 시스템 드라이버 불필요.</p><h2>SoundSource</h2><p>앱별 EQ, 출력 라우팅 포함. $39. 시스템 드라이버(ACE) 필요. 프로필 없음, 자동 더킹 없음.</p><h2>Background Music</h2><p>무료, 오픈 소스. 기본 앱별 볼륨. 100% 이상 부스트 없음, 프로필 없음. macOS 업데이트 시 자주 고장.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOS에서 개별 앱 볼륨 슬라이더를 보여주는 앱별 볼륨 믹서" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a>.</p>` },
-  "youtube-too-quiet-safari-chrome-mac": { slug: "youtube-too-quiet-safari-chrome-mac", title: "Mac에서 Safari 또는 Chrome의 YouTube가 너무 조용한가요? 즉시 해결", description: "일부 YouTube 비디오는 최대 볼륨에서도 거의 들리지 않습니다. 브라우저 오디오가 다른 앱보다 종종 더 조용한 이유와 — Mac에서 100% 이상으로 증폭하는 방법을 알아보세요.", date: "2026-05-22", readTime: "5분 소요", content: `<p>YouTube 비디오를 클릭합니다. 크리에이터가 말하고 있지만 거의 들리지 않습니다. 시스템 볼륨 최대. YouTube 플레이어 볼륨 최대. Spotify를 열면 — 음악이 최대 볼륨으로 폭발합니다. 스피커 문제가 아닙니다. YouTube입니다.</p><h2>진짜 해결법: 브라우저 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Safari와 Chrome을 포함한 모든 앱에 0%에서 <strong>200%</strong>까지의 독립적인 볼륨 슬라이더를 제공합니다. YouTube 비디오가 너무 조용하면 브라우저 슬라이더를 150% 또는 180%로 드래그하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 Mac에서 조용한 YouTube 비디오를 위해 Safari 브라우저 볼륨을 180%로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "mac-notification-sounds-too-loud-headphones": { slug: "mac-notification-sounds-too-loud-headphones", title: "헤드폰에서 Mac 알림 소리가 너무 큰가요? 해결 방법", description: "음악은 괜찮은데 Slack 알림과 macOS 경고가 헤드폰에서 고통스러울 정도로 큽니다. 알림 볼륨이 다른 이유와 — 길들이는 방법을 알아보세요.", date: "2026-05-25", readTime: "5분 소요", content: `<p>헤드폰을 쓰고 편안한 40% 볼륨으로 음악을 듣고 있습니다. Slack 알림이 울립니다. <em>띵.</em> 음악에 비해 귀청이 터질 정도로 큽니다.</p><h2>진짜 해결법: 알림 앱 볼륨을 독립적으로 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱에 자체 볼륨 슬라이더를 제공합니다. Slack, Mail, Calendar 같은 알림 앱을 미디어 앱보다 훨씬 낮은 볼륨으로 설정하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 Slack을 낮은 볼륨, Spotify를 정상 볼륨으로 표시 — macOS에서 독립적인 알림 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>"헤드폰" 프로필로 저장하고 플러그인할 때 한 번의 클릭으로 적용하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "stop-zoom-lowering-music-mac": { slug: "stop-zoom-lowering-music-mac", title: "Mac에서 Zoom이 음악을 낮추는 것을 중지하는 방법", description: "Zoom 통화에 참여할 때마다 음악이 줄어들거나 사라집니다. 왜 그런지와 통화 중 조용해지는 것을 — 당신의 조건에 따라 제어하는 방법을 알아보세요.", date: "2026-05-28", readTime: "6분 소요", content: `<p>Zoom 통화에 참여합니다. Spotify가 편안한 볼륨으로 재생 중이었습니다. 통화가 연결되면 — 음악이 사라지거나 거의 아무것도 안 들리게 줄어듭니다. 아무것도 건드리지 않았습니다.</p><h2>진짜 해결법: 당신의 조건에 따른 자동 더킹</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>의 자동 더킹 기능은 마이크를 모니터링하고 통화가 시작되면 배경 오디오를 자동 조정합니다 — 하지만 <strong>더킹 레벨은 당신이 제어합니다</strong>.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 자동 더킹 설정 — Mac에서 Zoom 통화 중 구성 가능한 볼륨 감소" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>30%가 좋은 기본값입니다 — 음악이 들리지만 방해하지 않습니다. 10%(거의 무음)에서 80%(거의 줄지 않음)까지 어디든 조정할 수 있습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "airpods-volume-too-low-mac": { slug: "airpods-volume-too-low-mac", title: "Mac에서 AirPods 볼륨이 너무 작은가요? 모든 해결 방법 설명", description: "최대 볼륨에서도 Mac에서 AirPods가 조용하게 들리나요? 헤드폰 안전 제한부터 Bluetooth 특이점까지 모든 원인과 해결 방법을 알아보세요.", date: "2026-06-08", readTime: "7분 소요", content: `<p>AirPods가 iPhone에서는 잘 작동합니다. 충분히 큽니다. 하지만 Mac에 연결하면 — 모든 것이 너무 조용합니다. 시스템 볼륨 최대. Spotify 최대. AirPods가... 충분히 크지 않습니다.</p><h2>1. 헤드폰 안전이 볼륨을 제한 중</h2><p>시스템 설정 → 사운드 → 헤드폰 안전에서 "큰 오디오 줄이기"를 비활성화하세요.</p><h2>여전히 조용? AirPods 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 모든 앱을 <strong>200%</strong>까지 증폭할 수 있습니다. AirPods에서 Spotify가 너무 조용하면 Spotify의 슬라이더를 150% 또는 180%로 드래그하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 Mac에서 AirPods를 위한 앱별 볼륨을 200%까지 슬라이더로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "spotify-volume-too-low-mac": { slug: "spotify-volume-too-low-mac", title: "Mac에서 Spotify 볼륨이 너무 작은가요? 모든 해결 방법", description: "Mac에서 Spotify가 최대 볼륨인데도 너무 조용한가요? Spotify의 내장 리미터부터 macOS 설정까지 모든 원인과 — 100% 이상으로 증폭하는 방법을 알아보세요.", date: "2026-06-11", readTime: "7분 소요", content: `<p>Spotify 최대 볼륨. Mac 최대 볼륨. 여전히 부족합니다. Mac에서 가장 흔한 Spotify 불만 중 하나이며 여러 원인이 있습니다.</p><h2>Spotify의 볼륨 정규화 확인</h2><p>Spotify → 설정 → 재생 → <strong>볼륨 정규화</strong>. "크게"로 설정하거나 완전히 비활성화하세요. Spotify가 예상치 않게 조용한 가장 흔한 원인입니다.</p><h2>SoundDial로 Spotify를 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 Spotify를 <strong>200%</strong>까지 증폭할 수 있습니다 — 다른 앱의 볼륨에 영향을 주지 않고.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 다른 앱을 정상 볼륨으로 유지하면서 Spotify 볼륨을 200%로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "separate-game-audio-from-discord-mac": { slug: "separate-game-audio-from-discord-mac", title: "Mac에서 게임 오디오를 Discord와 분리하는 방법", description: "게임 폭발이 Discord 팀원의 말을 덮나요? macOS에서 게임 오디오와 음성 채팅 볼륨을 독립적으로 제어하는 방법을 알아보세요.", date: "2026-06-10", readTime: "6분 소요", content: `<p>Mac에서 게임 중입니다. 게임 내 폭발이 터집니다. Discord 팀원이 말하고 있지만 총소리 너머로 들리지 않습니다. 볼륨을 줄이면 Discord도 조용해집니다.</p><p>Windows에서는 볼륨 믹서를 열어 게임을 40%로 줄이고 Discord를 100%로 두면 됩니다. Mac에서는 불가능합니다.</p><h2>실제 솔루션: 앱별 볼륨 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에 위치하며 모든 앱에 자체 볼륨 슬라이더를 제공합니다. 게임을 35%, Discord를 100%로 설정하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 게임과 Discord에 독립적인 볼륨 슬라이더 표시" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>"게이밍" 프로필로 저장하고 한 번의 클릭으로 적용하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "why-doesnt-mac-have-volume-mixer": { slug: "why-doesnt-mac-have-volume-mixer", title: "왜 Mac에는 Windows처럼 볼륨 믹서가 없을까요?", description: "Windows는 2006년부터 앱별 볼륨 제어가 있었습니다. 2026년인데 macOS에는 아직 없습니다. 진짜 이유와 — 어쨌든 하나를 얻는 방법을 알아보세요.", date: "2026-06-09", readTime: "6분 소요", content: `<p>Vista(2006) 이후 모든 Windows 버전에 볼륨 믹서가 포함되어 있습니다. macOS에는? 하나의 슬라이더. 20년간의 Mac 업데이트에도 Apple은 앱별 볼륨 제어를 추가한 적이 없습니다.</p><h2>기술적 한계가 아닙니다</h2><p>macOS의 Core Audio는 API 레벨에서 프로세스별 오디오 탭핑을 절대적으로 지원합니다. Apple이 사용자용 인터페이스를 만들지 않았을 뿐입니다.</p><h2>지금 Mac에서 볼륨 믹서를 얻는 방법</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Windows 볼륨 믹서가 하는 것을 정확히 하는 네이티브 macOS 메뉴 바 앱입니다 — 더 많은 기능과 함께.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — macOS용 볼륨 믹서, 메뉴 바에서 앱별 볼륨 슬라이더 표시" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Apple이 20년 전에 만들었어야 할 기능. <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>` },
-  "boost-mac-volume-beyond-100-percent": { slug: "boost-mac-volume-beyond-100-percent", title: "Mac 볼륨이 너무 작은가요? 100% 이상으로 사운드를 증폭하는 방법", description: "Mac이 최대 볼륨인데도 너무 조용합니다. 왜 그런지와 외부 스피커 없이 오디오를 200%까지 증폭하는 방법을 알아보세요.", date: "2026-06-07", readTime: "8분 소요", content: `<p>Mac 볼륨 100%. 슬라이더가 오른쪽 끝까지 가 있습니다. 여전히 부족합니다. 팟캐스트가 너무 조용합니다. 화상 통화 참가자가 속삭이는 것 같습니다. YouTube 비디오가 너무 낮게 녹음되었습니다.</p><h2>100% 이상으로 볼륨 증폭하는 방법</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Mac의 모든 앱에 0%에서 <strong>200%</strong>까지의 독립적인 볼륨 슬라이더를 제공합니다. 특정 앱이 너무 조용하면 — 팟캐스트 플레이어, 브라우저 탭, 화상 통화 — 해당 앱만 100% 이상으로 증폭할 수 있습니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 볼륨 부스트 — macOS에서 200% 증폭의 앱별 볼륨 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>시스템 전체 볼륨 부스터에 비한 핵심 장점은 SoundDial이 <em>앱별로</em> 증폭한다는 것입니다. 다른 모든 것을 정상 레벨로 유지하면서 조용한 앱을 180%로 증폭할 수 있습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>` },
-  "auto-lower-music-during-zoom-calls-mac": { slug: "auto-lower-music-during-zoom-calls-mac", title: "Mac에서 Zoom 통화 중 자동으로 음악을 낮추는 방법", description: "Zoom 통화가 시작될 때마다 Spotify를 일시 정지하려고 허둥지둥합니다. 더 나은 방법이 있습니다 — 자동 더킹이 마이크가 활성화되면 음악을 자동으로 낮춥니다.", date: "2026-06-05", readTime: "7분 소요", content: `<p>통화가 시작됩니다. 화면을 공유 중입니다. 음악이 여전히 재생 중입니다. 황급히 Spotify로 전환, 일시 정지, 다시 Zoom으로 — 하지만 모두가 이미 플레이리스트 10초를 들었습니다.</p><h2>오디오 더킹이란?</h2><p><strong>오디오 더킹</strong>은 음성 통화 같은 더 중요한 일이 일어날 때 배경 오디오의 볼륨을 자동으로 낮추는 것입니다.</p><h2>SoundDial의 자동 더킹</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>에는 macOS가 기본적으로 해야 할 일을 정확히 하는 내장 자동 더킹 기능이 있습니다. 마이크가 활성화되면(통화 시작) 모든 비통화 앱을 구성된 레벨(기본 30%)로 자동 감소합니다. 통화가 끝나면 모든 앱이 정확히 이전 볼륨으로 복원됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 자동 더킹 기능이 Mac에서 Zoom 통화 중 음악 볼륨을 자동으로 낮춤" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Zoom, Teams, FaceTime, Discord, Slack, Google Meet, Webex, Skype 모두와 작동합니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "how-to-mute-one-app-on-mac": { slug: "how-to-mute-one-app-on-mac", title: "모든 것을 음소거하지 않고 Mac에서 하나의 앱을 음소거하는 방법", description: "Slack이 울립니다. 통화 중입니다. Slack을 음소거하고 싶지만 통화는 계속 들으려 합니다. macOS에서는 불가능합니다 — 방법을 알아보세요.", date: "2026-06-03", readTime: "6분 소요", content: `<p>Zoom 통화 중입니다. Slack이 계속 알림을 울립니다. 잊고 있던 YouTube 탭이 자동 재생을 시작합니다. 음소거 키를 누르면 — 통화도 안 들립니다. macOS는 <em>모든 것</em>을 음소거합니다. 하나의 앱만 음소거하는 내장 방법이 없습니다.</p><h2>진짜 솔루션: 앱별 음소거 버튼</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에 위치하며 실행 중인 모든 앱과 자체 볼륨 슬라이더 및 음소거 버튼을 표시합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS 메뉴 바에서 각 애플리케이션의 앱별 음소거 버튼 표시" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>하나의 앱을 음소거하려면: SoundDial 아이콘 클릭, 앱 찾기, 스피커 아이콘 클릭. 끝. 다시 클릭하면 볼륨이 이전 위치로 복원됩니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>` },
-  "volume-mixer-for-mac": { slug: "volume-mixer-for-mac", title: "Mac용 볼륨 믹서: macOS에 아직 없는 빠진 기능", description: "Windows는 2006년부터 볼륨 믹서가 있었습니다. macOS에 아직 없는 이유와 — 2026년 Mac에서 앱별 볼륨 제어를 얻는 최고의 방법을 알아보세요.", date: "2026-06-01", readTime: "9분 소요", content: `<p>Windows PC에서 스피커 아이콘을 우클릭하면 볼륨 믹서가 나옵니다 — 현재 소리를 내는 모든 애플리케이션이 각각 독립적인 볼륨 슬라이더와 함께 표시되는 패널. Spotify를 20%로 줄이면서 Zoom 통화를 100%로 유지할 수 있습니다.</p><p>Mac에서 같은 것을 해보세요. 메뉴 바의 사운드 아이콘을 클릭합니다. 슬라이더 하나. 그것뿐입니다. 모든 것을 한 번에 제어하는 하나의 슬라이더.</p><h2>SoundDial: macOS가 만들었어야 할 볼륨 믹서</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Apple이 제공하지 않는 것을 정확히 제공하는 네이티브 macOS 메뉴 바 앱입니다 — Mac의 모든 앱에 대한 독립적인 볼륨 제어.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 메뉴 바에서 앱별 볼륨 슬라이더를 보여주는 macOS용 앱별 볼륨 믹서" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>주요 기능: 앱별 볼륨 슬라이더(0-200%), 원클릭 음소거, 볼륨 프로필, 자동 더킹, 키보드 단축키, 출력 장치 전환, 볼륨 메모리.</p><p>일회성 구매. 구독 없음. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a>.</p>` },
+<p>Windows는 Vista(2006) 이후부터 앱별 볼륨 믹서를 가지고 있습니다. 20년 후에도 macOS는 여전히 없습니다.</p><h2>앱별 볼륨이 실제로 의미하는 것</h2><p>앱별 볼륨은 Mac의 모든 애플리케이션이 자체 독립적인 볼륨 슬라이더를 얻는 것을 의미합니다. Spotify를 30%로, Zoom을 100%로, Slack을 완전히 음소거하고, Safari를 50%로 — 모두 동시에 설정할 수 있습니다.</p><h2>SoundDial</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 원하는 Mac 볼륨 믹서가 존재하지 않아서 만들었습니다. 메뉴 바에 위치하고 소리를 내는 모든 앱을 표시하며 각각에 자체 슬라이더를 제공합니다. 앱별 음소거, 볼륨 부스트, 프로필, 통화 시작 시 음악을 낮추는 자동 더킹. 일회성 구매, macOS 14+, 구독 없음.</p>`,
+  },
+  "mute-slack-notifications-mac-without-muting-everything": {
+    slug: "mute-slack-notifications-mac-without-muting-everything",
+    title: "다른 모든 것을 음소거하지 않고 Mac에서 Slack을 음소거하는 방법",
+    description: "Slack 알림이 집중을 방해하지만 음악이나 통화를 음소거하고 싶지 않습니다. macOS에서 Slack만 음소거하는 방법을 알아보세요.",
+    date: "2026-05-24",
+    readTime: "5분 읽기",
+    content: `<p>딥 워크 중입니다. Spotify가 완벽한 집중 플레이리스트를 재생 중입니다. 그런데 — Slack이 울립니다. 또 또 또. Slack을 음소거하고 싶지만 음악은 유지하고 싶습니다. macOS: 모든 것을 음소거하거나 아무것도 음소거하지 않거나.</p><h2>진짜 해결법: 앱별 볼륨 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Slack에 자체 독립적인 볼륨 슬라이더를 제공합니다. 원하는 레벨로 설정하세요 — 또는 한 번의 클릭으로 완전히 음소거하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial에서 Slack 음소거, Spotify는 macOS에서 정상 볼륨으로 재생" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><strong>집중 시간:</strong> Slack 10% 또는 음소거, Spotify 40%. <strong>회의 시간:</strong> Slack 음소거, Zoom 100%. 각각을 <strong>볼륨 프로필</strong>로 저장하고 한 번의 클릭으로 전환하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "volume-profiles-for-mac": {
+    slug: "volume-profiles-for-mac",
+    title: "Mac에서 다양한 상황에 맞는 볼륨 프로필을 설정하는 방법",
+    description: "회의, 집중 근무, 게이밍, 릴랙스를 위한 다른 볼륨 설정 — 한 번의 클릭으로 전환 가능. macOS에서 볼륨 프로필이 작동하는 방법을 알아보세요.",
+    date: "2026-06-02",
+    readTime: "5분 읽기",
+    content: `<p>오전 9시에는 Zoom 통화 — Zoom 100%, Spotify 음소거. 오전 10시에 통화 종료 — Spotify 40%, Slack 15%. 정오에 게이밍 — 게임 60%, Discord 100%. 오후 6시에 YouTube — 브라우저 80%.</p><p>모든 상황에 다른 이상적인 볼륨 구성이 있습니다. 상황이 바뀔 때마다 5~6개 앱을 수동으로 조정하거나, 각 설정을 프로필로 저장하고 한 번의 클릭으로 전환할 수 있습니다.</p><h2>SoundDial로 프로필 설정</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>에는 내장 프로필 시스템이 있습니다. 각 앱의 볼륨을 원하는 대로 조정하고 "+" 버튼을 클릭하여 프로필을 저장하세요. 한 번의 클릭으로 적용합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 볼륨 프로필 — macOS에서 회의, 집중, 릴랙스 모드 간 한 번의 클릭으로 전환" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "zoom-call-volume-too-low-mac": {
+    slug: "zoom-call-volume-too-low-mac",
+    title: "Mac에서 Zoom 통화 볼륨이 너무 작은가요? 증폭하는 방법",
+    description: "최대 볼륨에서도 Zoom에서 사람 목소리가 거의 들리지 않습니다. Zoom 설정부터 앱별 볼륨 믹서로 통화 오디오를 100% 이상으로 증폭하는 방법까지 모든 해결책을 알아보세요.",
+    date: "2026-05-26",
+    readTime: "6분 읽기",
+    content: `<p>Zoom 통화 중입니다. 상대방이 말하고 있지만 거의 들리지 않습니다. Mac 볼륨 최대. Zoom 스피커 볼륨 최대. 화면에 기대어 듣고 있습니다. 이렇게 어려우면 안 됩니다.</p><h2>Zoom 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 Zoom을 <strong>200%</strong>까지 증폭할 수 있습니다. 참가자가 너무 조용하면 Zoom의 슬라이더를 150% 또는 180%로 드래그하세요. Zoom의 내장 최대값을 넘어 오디오 신호가 증폭되어 가장 조용한 목소리도 들릴 수 있게 됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 화상 통화 중 더 명확한 오디오를 위해 Mac에서 Zoom 통화 볼륨을 180%로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "lower-spotify-without-lowering-everything-mac": {
+    slug: "lower-spotify-without-lowering-everything-mac",
+    title: "Mac에서 다른 모든 것을 낮추지 않고 Spotify만 낮추는 방법",
+    description: "Spotify를 배경 음악으로 듣고 싶은데 볼륨 키로 줄이면 통화와 나머지도 모두 조용해집니다. 해결 방법을 알아보세요.",
+    date: "2026-05-30",
+    readTime: "4분 읽기",
+    content: `<p>작업 중입니다. Spotify가 배경 음악을 재생 중입니다. 좀 크네요. 볼륨 내리기 키를 탭합니다. Spotify가 조용해집니다. 하지만 Zoom 통화, 알림 소리, 브라우저 오디오도 모두 조용해집니다. 원하던 것이 아닙니다.</p><h2>진짜 해결법: 앱별 볼륨 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에 모든 앱의 볼륨 슬라이더를 넣습니다. Spotify만 낮추려면: SoundDial 아이콘 클릭, Spotify 찾기, 슬라이더 드래그. 완료. 다른 모든 것은 변하지 않습니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 다른 앱을 최대 볼륨으로 유지하면서 Spotify 볼륨만 독립적으로 낮춤" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>자동 더킹으로 통화에 참여하면 SoundDial이 자동으로 Spotify를 낮출 수 있습니다. 수동 조정이 전혀 필요 없습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>`,
+  },
+  "macos-tahoe-per-app-volume-control": {
+    slug: "macos-tahoe-per-app-volume-control",
+    title: "macOS Tahoe에 앱별 볼륨 제어가 있나요?",
+    description: "macOS Tahoe(macOS 26)는 주요 업데이트를 가져왔지만 Apple이 드디어 볼륨 믹서를 추가했나요? 답과 — 지금 앱별 볼륨 제어를 얻는 방법을 알아보세요.",
+    date: "2026-06-12",
+    readTime: "4분 읽기",
+    content: `<p>매년 Mac 사용자들은 다음 macOS 릴리스에 볼륨 믹서가 포함되기를 바랍니다. 매년 실망합니다. macOS Tahoe(macOS 26)에서 Apple은 재설계된 인터페이스, 새로운 시스템 기능, 주요 내부 개선을 제공했습니다. 하지만 앱별 볼륨 제어를 추가했을까요?</p><h2>짧은 답: 아니오</h2><p>macOS Tahoe에는 내장 볼륨 믹서가 없습니다. 시스템 설정, 제어 센터, 메뉴 바에 앱별 볼륨 제어가 없습니다.</p><h2>macOS Tahoe에서 앱별 볼륨 제어를 얻는 방법</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 macOS Tahoe와 완전히 호환되며 Apple의 최신 Core Audio Tap API를 사용합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS Tahoe에서 앱별 볼륨 제어 제공" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>`,
+  },
+  "play-music-speakers-calls-headphones-mac": {
+    slug: "play-music-speakers-calls-headphones-mac",
+    title: "Mac에서 스피커로 음악을 재생하면서 헤드폰으로 통화하는 방법",
+    description: "데스크 스피커로 Spotify를 재생하면서 AirPods로 Zoom 통화를 하고 싶나요? macOS는 이를 쉽게 만들지 않습니다 — 실제로 작동하는 것을 알아보세요.",
+    date: "2026-05-15",
+    readTime: "5분 읽기",
+    content: `<p>합리적인 것을 하고 싶습니다: 데스크 스피커로 음악을 재생하면서 AirPods으로 Zoom 통화. macOS: 안 됩니다. 출력 장치를 선택하면 <em>모든</em> 앱이 사용합니다.</p><h2>더 간단한 접근: 볼륨 기반 분리</h2><p>주요 목표가 음악보다 통화를 명확하게 듣는 것이라면 앱별 볼륨 제어가 더 간단하게 문제를 해결합니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱에 자체 볼륨 슬라이더를 제공합니다. 통화 중: Zoom을 <strong>100%</strong>, Spotify를 <strong>20%</strong>로 설정. 자동 더킹으로 자동 처리됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 통화 중 Zoom을 최대 볼륨으로, Spotify를 낮춘 모습" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "mac-volume-keeps-changing-by-itself": {
+    slug: "mac-volume-keeps-changing-by-itself",
+    title: "Mac 볼륨이 저절로 변하는 문제: 해결 방법",
+    description: "Mac의 볼륨이 무작위로 올라가거나 내려가거나 다른 레벨로 재설정됩니다. 모든 알려진 원인과 중지하는 방법을 알아보세요.",
+    date: "2026-05-18",
+    readTime: "6분 읽기",
+    content: `<p>Mac 볼륨을 편안한 레벨로 설정합니다. 잠시 후 돌아보면 달라져 있습니다. 더 크거나. 더 작거나. 최대로 재설정. 계속 반복되는데 이유를 모르겠습니다.</p><h2>1. Bluetooth 장치 재연결</h2><p>가장 흔한 원인입니다. Bluetooth 장치가 연결되거나 연결 해제되면 macOS가 해당 장치와 마지막으로 사용한 레벨로 볼륨을 재설정합니다.</p><h2>SoundDial로 앱별 볼륨 잠금</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱의 볼륨 레벨을 독립적으로 기억합니다. 시스템 볼륨이 변해도 앱 레벨 밸런스는 일관됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 재시작 간 앱별 볼륨 레벨 기억" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "best-volume-mixer-apps-mac-2026": {
+    slug: "best-volume-mixer-apps-mac-2026",
+    title: "2026년 Mac용 최고의 볼륨 믹서 앱",
+    description: "Mac에서 앱별 볼륨 제어를 제공하는 모든 앱의 솔직한 비교. 기능, 가격, 실제로 사용할 가치가 있는 것.",
+    date: "2026-06-12",
+    readTime: "10분 읽기",
+    content: `<p>macOS에는 내장 볼륨 믹서가 없습니다. 개별 앱의 볼륨을 제어하려면 타사 앱이 필요합니다. 여러 옵션이 있습니다.</p><h2>SoundDial</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>: 앱별 볼륨 0-200%, 프로필, 자동 더킹, 볼륨 메모리, 키보드 단축키. €14.99 일회성. Mac App Store. 시스템 드라이버 불필요.</p><h2>SoundSource</h2><p>앱별 EQ, 출력 라우팅 포함. $39. 시스템 드라이버(ACE) 필요. 프로필 없음, 자동 더킹 없음.</p><h2>Background Music</h2><p>무료, 오픈 소스. 기본 앱별 볼륨. 100% 이상 부스트 없음, 프로필 없음. macOS 업데이트 시 자주 고장.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial macOS에서 개별 앱 볼륨 슬라이더를 보여주는 앱별 볼륨 믹서" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a>.</p>`,
+  },
+  "youtube-too-quiet-safari-chrome-mac": {
+    slug: "youtube-too-quiet-safari-chrome-mac",
+    title: "Mac에서 Safari 또는 Chrome의 YouTube가 너무 조용한가요? 즉시 해결",
+    description: "일부 YouTube 비디오는 최대 볼륨에서도 거의 들리지 않습니다. 브라우저 오디오가 다른 앱보다 종종 더 조용한 이유와 — Mac에서 100% 이상으로 증폭하는 방법을 알아보세요.",
+    date: "2026-05-22",
+    readTime: "5분 읽기",
+    content: `<p>YouTube 비디오를 클릭합니다. 크리에이터가 말하고 있지만 거의 들리지 않습니다. 시스템 볼륨 최대. YouTube 플레이어 볼륨 최대. Spotify를 열면 — 음악이 최대 볼륨으로 폭발합니다. 스피커 문제가 아닙니다. YouTube입니다.</p><h2>진짜 해결법: 브라우저 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Safari와 Chrome을 포함한 모든 앱에 0%에서 <strong>200%</strong>까지의 독립적인 볼륨 슬라이더를 제공합니다. YouTube 비디오가 너무 조용하면 브라우저 슬라이더를 150% 또는 180%로 드래그하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 Mac에서 조용한 YouTube 비디오를 위해 Safari 브라우저 볼륨을 180%로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "mac-notification-sounds-too-loud-headphones": {
+    slug: "mac-notification-sounds-too-loud-headphones",
+    title: "헤드폰에서 Mac 알림 소리가 너무 큰가요? 해결 방법",
+    description: "음악은 괜찮은데 Slack 알림과 macOS 경고가 헤드폰에서 고통스러울 정도로 큽니다. 알림 볼륨이 다른 이유와 — 길들이는 방법을 알아보세요.",
+    date: "2026-05-25",
+    readTime: "5분 읽기",
+    content: `<p>헤드폰을 쓰고 편안한 40% 볼륨으로 음악을 듣고 있습니다. Slack 알림이 울립니다. <em>띵.</em> 음악에 비해 귀청이 터질 정도로 큽니다.</p><h2>진짜 해결법: 알림 앱 볼륨을 독립적으로 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱에 자체 볼륨 슬라이더를 제공합니다. Slack, Mail, Calendar 같은 알림 앱을 미디어 앱보다 훨씬 낮은 볼륨으로 설정하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 Slack을 낮은 볼륨, Spotify를 정상 볼륨으로 표시 — macOS에서 독립적인 알림 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>"헤드폰" 프로필로 저장하고 플러그인할 때 한 번의 클릭으로 적용하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "stop-zoom-lowering-music-mac": {
+    slug: "stop-zoom-lowering-music-mac",
+    title: "Mac에서 Zoom이 음악을 낮추는 것을 중지하는 방법",
+    description: "Zoom 통화에 참여할 때마다 음악이 줄어들거나 사라집니다. 왜 그런지와 통화 중 조용해지는 것을 — 당신의 조건에 따라 제어하는 방법을 알아보세요.",
+    date: "2026-05-28",
+    readTime: "6분 읽기",
+    content: `<p>Zoom 통화에 참여합니다. Spotify가 편안한 볼륨으로 재생 중이었습니다. 통화가 연결되면 — 음악이 사라지거나 거의 아무것도 안 들리게 줄어듭니다. 아무것도 건드리지 않았습니다.</p><h2>진짜 해결법: 당신의 조건에 따른 자동 더킹</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>의 자동 더킹 기능은 마이크를 모니터링하고 통화가 시작되면 배경 오디오를 자동 조정합니다 — 하지만 <strong>더킹 레벨은 당신이 제어합니다</strong>.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 자동 더킹 설정 — Mac에서 Zoom 통화 중 구성 가능한 볼륨 감소" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>30%가 좋은 기본값입니다 — 음악이 들리지만 방해하지 않습니다. 10%(거의 무음)에서 80%(거의 줄지 않음)까지 어디든 조정할 수 있습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "airpods-volume-too-low-mac": {
+    slug: "airpods-volume-too-low-mac",
+    title: "Mac에서 AirPods 볼륨이 너무 작은가요? 모든 해결 방법 설명",
+    description: "최대 볼륨에서도 Mac에서 AirPods가 조용하게 들리나요? 헤드폰 안전 제한부터 Bluetooth 특이점까지 모든 원인과 해결 방법을 알아보세요.",
+    date: "2026-06-08",
+    readTime: "7분 읽기",
+    content: `<p>AirPods가 iPhone에서는 잘 작동합니다. 충분히 큽니다. 하지만 Mac에 연결하면 — 모든 것이 너무 조용합니다. 시스템 볼륨 최대. Spotify 최대. AirPods가... 충분히 크지 않습니다.</p><h2>1. 헤드폰 안전이 볼륨을 제한 중</h2><p>시스템 설정 → 사운드 → 헤드폰 안전에서 "큰 오디오 줄이기"를 비활성화하세요.</p><h2>여전히 조용? AirPods 볼륨을 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 모든 앱을 <strong>200%</strong>까지 증폭할 수 있습니다. AirPods에서 Spotify가 너무 조용하면 Spotify의 슬라이더를 150% 또는 180%로 드래그하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 Mac에서 AirPods를 위한 앱별 볼륨을 200%까지 슬라이더로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "spotify-volume-too-low-mac": {
+    slug: "spotify-volume-too-low-mac",
+    title: "Mac에서 Spotify 볼륨이 너무 작은가요? 모든 해결 방법",
+    description: "Mac에서 Spotify가 최대 볼륨인데도 너무 조용한가요? Spotify의 내장 리미터부터 macOS 설정까지 모든 원인과 — 100% 이상으로 증폭하는 방법을 알아보세요.",
+    date: "2026-06-11",
+    readTime: "7분 읽기",
+    content: `<p>Spotify 최대 볼륨. Mac 최대 볼륨. 여전히 부족합니다. Mac에서 가장 흔한 Spotify 불만 중 하나이며 여러 원인이 있습니다.</p><h2>Spotify의 볼륨 정규화 확인</h2><p>Spotify → 설정 → 재생 → <strong>볼륨 정규화</strong>. "크게"로 설정하거나 완전히 비활성화하세요. Spotify가 예상치 않게 조용한 가장 흔한 원인입니다.</p><h2>SoundDial로 Spotify를 100% 이상으로 증폭</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>로 Spotify를 <strong>200%</strong>까지 증폭할 수 있습니다 — 다른 앱의 볼륨에 영향을 주지 않고.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 다른 앱을 정상 볼륨으로 유지하면서 Spotify 볼륨을 200%로 증폭" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "separate-game-audio-from-discord-mac": {
+    slug: "separate-game-audio-from-discord-mac",
+    title: "Mac에서 게임 오디오를 Discord와 분리하는 방법",
+    description: "게임 폭발이 Discord 팀원의 말을 덮나요? macOS에서 게임 오디오와 음성 채팅 볼륨을 독립적으로 제어하는 방법을 알아보세요.",
+    date: "2026-06-10",
+    readTime: "6분 읽기",
+    content: `<p>Mac에서 게임 중입니다. 게임 내 폭발이 터집니다. Discord 팀원이 말하고 있지만 총소리 너머로 들리지 않습니다. 볼륨을 줄이면 Discord도 조용해집니다.</p><p>Windows에서는 볼륨 믹서를 열어 게임을 40%로 줄이고 Discord를 100%로 두면 됩니다. Mac에서는 불가능합니다.</p><h2>실제 솔루션: 앱별 볼륨 제어</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에 위치하며 모든 앱에 자체 볼륨 슬라이더를 제공합니다. 게임을 35%, Discord를 100%로 설정하세요.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS에서 게임과 Discord에 독립적인 볼륨 슬라이더 표시" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>"게이밍" 프로필로 저장하고 한 번의 클릭으로 적용하세요.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "why-doesnt-mac-have-volume-mixer": {
+    slug: "why-doesnt-mac-have-volume-mixer",
+    title: "왜 Mac에는 Windows처럼 볼륨 믹서가 없을까요?",
+    description: "Windows는 2006년부터 앱별 볼륨 제어가 있었습니다. 2026년인데 macOS에는 아직 없습니다. 진짜 이유와 — 어쨌든 하나를 얻는 방법을 알아보세요.",
+    date: "2026-06-09",
+    readTime: "6분 읽기",
+    content: `<p>Vista(2006) 이후 모든 Windows 버전에 볼륨 믹서가 포함되어 있습니다. macOS에는? 하나의 슬라이더. 20년간의 Mac 업데이트에도 Apple은 앱별 볼륨 제어를 추가한 적이 없습니다.</p><h2>기술적 한계가 아닙니다</h2><p>macOS의 Core Audio는 API 레벨에서 프로세스별 오디오 탭핑을 절대적으로 지원합니다. Apple이 사용자용 인터페이스를 만들지 않았을 뿐입니다.</p><h2>지금 Mac에서 볼륨 믹서를 얻는 방법</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Windows 볼륨 믹서가 하는 것을 정확히 하는 네이티브 macOS 메뉴 바 앱입니다 — 더 많은 기능과 함께.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — macOS용 볼륨 믹서, 메뉴 바에서 앱별 볼륨 슬라이더 표시" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Apple이 20년 전에 만들었어야 할 기능. <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>`,
+  },
+  "boost-mac-volume-beyond-100-percent": {
+    slug: "boost-mac-volume-beyond-100-percent",
+    title: "Mac 볼륨이 너무 작은가요? 100% 이상으로 사운드를 증폭하는 방법",
+    description: "Mac이 최대 볼륨인데도 너무 조용합니다. 왜 그런지와 외부 스피커 없이 오디오를 200%까지 증폭하는 방법을 알아보세요.",
+    date: "2026-06-07",
+    readTime: "8분 읽기",
+    content: `<p>Mac 볼륨 100%. 슬라이더가 오른쪽 끝까지 가 있습니다. 여전히 부족합니다. 팟캐스트가 너무 조용합니다. 화상 통화 참가자가 속삭이는 것 같습니다. YouTube 비디오가 너무 낮게 녹음되었습니다.</p><h2>100% 이상으로 볼륨 증폭하는 방법</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Mac의 모든 앱에 0%에서 <strong>200%</strong>까지의 독립적인 볼륨 슬라이더를 제공합니다. 특정 앱이 너무 조용하면 — 팟캐스트 플레이어, 브라우저 탭, 화상 통화 — 해당 앱만 100% 이상으로 증폭할 수 있습니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 볼륨 부스트 — macOS에서 200% 증폭의 앱별 볼륨 제어" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>시스템 전체 볼륨 부스터에 비한 핵심 장점은 SoundDial이 <em>앱별로</em> 증폭한다는 것입니다. 다른 모든 것을 정상 레벨로 유지하면서 조용한 앱을 180%로 증폭할 수 있습니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store</a>에서 일회성 구매. 구독 없음. macOS 14.2+.</p>`,
+  },
+  "auto-lower-music-during-zoom-calls-mac": {
+    slug: "auto-lower-music-during-zoom-calls-mac",
+    title: "Mac에서 Zoom 통화 중 자동으로 음악을 낮추는 방법",
+    description: "Zoom 통화가 시작될 때마다 Spotify를 일시 정지하려고 허둥지둥합니다. 더 나은 방법이 있습니다 — 자동 더킹이 마이크가 활성화되면 음악을 자동으로 낮춥니다.",
+    date: "2026-06-05",
+    readTime: "7분 읽기",
+    content: `<p>통화가 시작됩니다. 화면을 공유 중입니다. 음악이 여전히 재생 중입니다. 황급히 Spotify로 전환, 일시 정지, 다시 Zoom으로 — 하지만 모두가 이미 플레이리스트 10초를 들었습니다.</p><h2>오디오 더킹이란?</h2><p><strong>오디오 더킹</strong>은 음성 통화 같은 더 중요한 일이 일어날 때 배경 오디오의 볼륨을 자동으로 낮추는 것입니다.</p><h2>SoundDial의 자동 더킹</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>에는 macOS가 기본적으로 해야 할 일을 정확히 하는 내장 자동 더킹 기능이 있습니다. 마이크가 활성화되면(통화 시작) 모든 비통화 앱을 구성된 레벨(기본 30%)로 자동 감소합니다. 통화가 끝나면 모든 앱이 정확히 이전 볼륨으로 복원됩니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial 자동 더킹 기능이 Mac에서 Zoom 통화 중 음악 볼륨을 자동으로 낮춤" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>Zoom, Teams, FaceTime, Discord, Slack, Google Meet, Webex, Skype 모두와 작동합니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "how-to-mute-one-app-on-mac": {
+    slug: "how-to-mute-one-app-on-mac",
+    title: "모든 것을 음소거하지 않고 Mac에서 하나의 앱을 음소거하는 방법",
+    description: "Slack이 울립니다. 통화 중입니다. Slack을 음소거하고 싶지만 통화는 계속 들으려 합니다. macOS에서는 불가능합니다 — 방법을 알아보세요.",
+    date: "2026-06-03",
+    readTime: "6분 읽기",
+    content: `<p>Zoom 통화 중입니다. Slack이 계속 알림을 울립니다. 잊고 있던 YouTube 탭이 자동 재생을 시작합니다. 음소거 키를 누르면 — 통화도 안 들립니다. macOS는 <em>모든 것</em>을 음소거합니다. 하나의 앱만 음소거하는 내장 방법이 없습니다.</p><h2>진짜 솔루션: 앱별 음소거 버튼</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 바에 위치하며 실행 중인 모든 앱과 자체 볼륨 슬라이더 및 음소거 버튼을 표시합니다.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial이 macOS 메뉴 바에서 각 애플리케이션의 앱별 음소거 버튼 표시" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>하나의 앱을 음소거하려면: SoundDial 아이콘 클릭, 앱 찾기, 스피커 아이콘 클릭. 끝. 다시 클릭하면 볼륨이 이전 위치로 복원됩니다.</p><p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2+.</p>`,
+  },
+  "volume-mixer-for-mac": {
+    slug: "volume-mixer-for-mac",
+    title: "Mac용 볼륨 믹서: macOS에 아직 없는 빠진 기능",
+    description: "Windows는 2006년부터 볼륨 믹서가 있었습니다. macOS에 아직 없는 이유와 — 2026년 Mac에서 앱별 볼륨 제어를 얻는 최고의 방법을 알아보세요.",
+    date: "2026-06-01",
+    readTime: "9분 읽기",
+    content: `<p>Windows PC에서 스피커 아이콘을 우클릭하면 볼륨 믹서가 나옵니다 — 현재 소리를 내는 모든 애플리케이션이 각각 독립적인 볼륨 슬라이더와 함께 표시되는 패널. Spotify를 20%로 줄이면서 Zoom 통화를 100%로 유지할 수 있습니다.</p><p>Mac에서 같은 것을 해보세요. 메뉴 바의 사운드 아이콘을 클릭합니다. 슬라이더 하나. 그것뿐입니다. 모든 것을 한 번에 제어하는 하나의 슬라이더.</p><h2>SoundDial: macOS가 만들었어야 할 볼륨 믹서</h2><p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 Apple이 제공하지 않는 것을 정확히 제공하는 네이티브 macOS 메뉴 바 앱입니다 — Mac의 모든 앱에 대한 독립적인 볼륨 제어.</p><a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — 메뉴 바에서 앱별 볼륨 슬라이더를 보여주는 macOS용 앱별 볼륨 믹서" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a><p>주요 기능: 앱별 볼륨 슬라이더(0-200%), 원클릭 음소거, 볼륨 프로필, 자동 더킹, 키보드 단축키, 출력 장치 전환, 볼륨 메모리.</p><p>일회성 구매. 구독 없음. macOS 14.2+. <a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a>.</p>`,
+  },
   "background-music-alternative-mac": {
     slug: "background-music-alternative-mac",
     title: "Mac(2026)를 위한 최고의 Background Music 대안",
@@ -4307,5 +4458,635 @@ export const koArticles: ArticleSet = {
 <p>한계를 명확히 하기 위해: SoundDial는 앱 출력의 균형을 맞춥니다. 잘못 제작된 트랙을 리마스터링하지 않으며, 매우 넓은 다이내믹 레인지로 믹싱된 오디오의 디테일을 만들어낼 수도 없습니다. 그것이 하는 일은 macOS가 제외된 하나의 컨트롤, 즉 꾸준하게 유지되는 앱별 수준을 제공하는 것입니다.</p>
 
 <p>앱을 전환할 때마다 마스터 슬라이더를 타는 데 지치셨나요? <a href="https://apps.apple.com/app/id6772792641">SoundDial</a> Mac App Store에서 일회성 €14.99(샌드박스 처리, 드라이버 없음, DMG 없음)이며 마침내 모든 앱에 고유한 기억 볼륨을 제공합니다.</p>`,
+  },
+  "mac-audio-for-gaming": {
+    slug: "mac-audio-for-gaming",
+    title: "Mac 게임 오디오: 게임, 음성 채팅, 음악 소리 분리하기",
+    description: "Mac으로 게임을 하다 보면 게임 소리, Discord나 FaceTime 음성 채팅, 배경 음악을 슬라이더 하나로 저글링하게 됩니다. 이 모든 소리를 독립된 채널로 분리하는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>한창 게임에 몰입해 있습니다. 게임 소리가 Discord 속 팀원들의 목소리를 덮어버립니다. 시스템 볼륨을 낮추면 콜아웃은 들리지만, 이번엔 게임 소리가 너무 작아져 발소리에 반응하기 어렵습니다. 그 사이 Spotify는 여전히 모든 소리 아래에서 최대 음량으로 재생되고 있습니다. macOS는 이 모든 것에 슬라이더 하나만을 제공하기 때문에, Mac으로 게임을 한다는 건 끊임없이 그 슬라이더를 조작한다는 뜻입니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — separate game, voice chat, and music volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Mac에서 게임 오디오가 유독 복잡한 이유</h2>
+
+<p>게임은 대사, 효과음, 환경음, 음악 등 여러 오디오 레이어를 내부적으로 믹싱해 하나의 스트림으로 출력합니다. Discord, FaceTime, TeamSpeak 같은 음성 채팅 앱이 두 번째 스트림을 더하고, 음악 플레이어가 세 번째 스트림을 더합니다. macOS는 이 모든 소리를 동등하게 취급해 하나의 마스터 출력으로 흘려보낼 뿐, 우선순위를 정하거나 서로 균형을 맞출 방법이 없습니다.</p>
+
+<p>대부분의 게임에는 자체 볼륨 슬라이더가 있지만, 이를 조정하려면 전체 화면 게임에서 alt-tab으로 빠져나와야 해서 흐름이 끊깁니다. 게임 내 음악 볼륨을 낮추더라도, 마스터 볼륨을 바꿔 다른 모든 소리에 영향을 주지 않고는 게임 효과음 대비 Discord 소리를 키울 수 없습니다.</p>
+
+<h2>게임 세션을 위한 앱별 오디오 제어</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 메뉴 막대에서 각 앱마다 독립적인 볼륨 슬라이더를 제공하므로, 게임 내 설정이나 시스템 슬라이더를 건드리지 않고도 게임용 오디오 믹스를 구성할 수 있습니다.</p>
+
+<h3>일반적인 게임 프로필 예시</h3>
+<ul>
+  <li><strong>게임:</strong> 70% — 공간 음향 단서를 놓치지 않을 만큼 크되 부담스럽지 않은 수준</li>
+  <li><strong>Discord / FaceTime:</strong> 100% — 팀원의 콜아웃이 항상 잘 들리도록</li>
+  <li><strong>Spotify / Apple Music:</strong> 25% — 다른 소리와 경쟁하지 않는 배경 분위기용</li>
+  <li><strong>브라우저:</strong> 음소거 — 갑작스러운 탭 소리 방지</li>
+  <li><strong>Slack / Messages:</strong> 음소거 — 게임 도중 알림 방해 완전 차단</li>
+</ul>
+
+<p>이 설정을 "게임" 프로필로 저장하세요. 게임을 켜기 전 클릭 한 번이면 모든 앱이 게임용 볼륨으로 즉시 전환됩니다. 게임이 끝나면 평소 프로필로 되돌리면 됩니다 — 슬라이더를 일일이 조정할 필요가 없습니다.</p>
+
+<h3>음성 우선순위를 위한 오토 덕킹</h3>
+
+<p>SoundDial의 오토 덕킹 기능은 Discord나 FaceTime에서 소리가 날 때마다 게임과 음악 볼륨을 자동으로 낮춰줍니다. 팀원의 목소리는 언제나 또렷하게 들리고, 조용한 순간에는 다시 원래 볼륨으로 돌아옵니다. 전문 방송인들이 복잡한 라우팅 도구로 구현하는 것과 같은 동작을, 여기서는 토글 하나로 켤 수 있습니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-djing": {
+    slug: "mac-audio-for-djing",
+    title: "Mac DJ 오디오: 모니터와 출력을 독립적으로 제어하기",
+    description: "Mac으로 DJing을 한다는 건 헤드폰으로 다음 트랙을 미리 들으면서 관객에게는 현재 믹스를 들려준다는 뜻입니다. 하지만 macOS는 모든 소리를 하나의 출력으로 보냅니다. 모니터 피드를 분리하는 방법을 알아봅니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>Mac으로 DJing을 합니다 — Traktor, Serato, rekordbox, 또는 라이브 세트로 Ableton을 쓸 수도 있습니다. 관객이 스피커로 현재 믹스를 듣는 동안 헤드폰으로는 다음 트랙을 큐잉해야 합니다. 하지만 브라우저에는 셋리스트가 열려 있고, 참고용 트랙을 재생하려고 Spotify를 켜둘 수도 있으며, Messages는 계속 모니터 스피커로 알림음을 울립니다. macOS는 볼륨 차원에서 "이 앱은 여기로, 저 앱은 저기로"라는 개념 자체가 없습니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — DJ audio control on Mac with independent app volumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>macOS에서의 DJ 오디오 문제</h2>
+
+<p>전문 DJ 소프트웨어는 큐잉을 내부적으로 처리합니다 — 자체 출력을 메인 믹스와 헤드폰 모니터로 나눕니다. 이 부분은 문제없이 작동합니다. 문제는 Mac에서 실행 중인 다른 모든 것들입니다. 시스템 알림, 브라우저 탭, 커뮤니케이션 앱, 참고용 플레이어가 모두 같은 마스터 출력으로 흘러 들어갑니다. 세트 도중 PA 시스템으로 Slack 알림음이 울린다면 결코 보기 좋은 모습이 아닙니다.</p>
+
+<p>방해 금지 모드를 켤 수는 있지만, 이미 실행 중인 앱의 소리를 막지는 못합니다 — 배너 알림만 억제할 뿐입니다. 자동 재생되는 브라우저 탭이나 FaceTime 벨소리는 시스템 볼륨이 설정된 그대로 스피커를 통해 그대로 울립니다.</p>
+
+<h2>DJ 소프트웨어 외의 소리 제어하기</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 Mac의 모든 앱에 독립적인 볼륨 레벨을 설정할 수 있습니다. DJ 세트에서 가장 중요한 활용법은 DJ 소프트웨어가 아닌 모든 것을 음소거하거나 낮추는 것입니다.</p>
+
+<h3>DJ 세트 프로필</h3>
+<ul>
+  <li><strong>Traktor / Serato / rekordbox:</strong> 100% — 오디오 인터페이스로 전체 출력</li>
+  <li><strong>브라우저:</strong> 음소거 — 탭에서 나는 예기치 않은 소리 방지</li>
+  <li><strong>Spotify:</strong> 음소거 또는 10% — 필요할 때만 잠깐 음소거 해제해 참고</li>
+  <li><strong>Slack / Messages / Mail:</strong> 음소거 — 알림음 완전 차단</li>
+  <li><strong>Calendar:</strong> 음소거 — 리마인더 알림음 방지</li>
+</ul>
+
+<p>이 설정을 "DJ Set" 프로필로 저장하세요. 시작하기 전 클릭 한 번으로 적용하면 DJ 앱은 최대 볼륨으로 재생되고, 다른 어떤 소리도 끼어들 수 없습니다. 세트가 끝나면 평소 프로필로 돌아가면 알림이 다시 재개됩니다.</p>
+
+<h3>참고 트랙 빠르게 확인하기</h3>
+
+<p>세트 도중 Spotify에서 참고 트랙을 빠르게 확인해야 하나요? 시스템 전체 음소거를 해제하는 대신, Spotify의 개별 슬라이더만 올려 헤드폰으로 들은 뒤 다시 0으로 내리면 됩니다. 관객은 전혀 듣지 못하고, DJ 앱은 그대로 유지됩니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "control-notification-sounds-mac": {
+    slug: "control-notification-sounds-mac",
+    title: "Mac 알림음 볼륨 조절하는 방법",
+    description: "Mac 알림음은 다른 모든 소리와 같은 볼륨으로 울리거나, 아예 꺼져 있거나 둘 중 하나입니다. 그 중간은 기본적으로 존재하지 않습니다. 음악은 그대로 즐기면서 알림음만 길들이는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>Calendar 리마인더가 울리고, 알림음이 지금까지 즐기던 음악과 똑같은 볼륨으로 터져 나옵니다. 깜짝 놀라 시스템 볼륨을 낮추면, 이번엔 음악이 너무 작아집니다. macOS는 알림음과 미디어 오디오를 하나의 볼륨으로 취급하며, 유일한 기본 탈출구는 방해 금지 모드뿐인데, 이는 정작 필요한 알림까지 포함해 모든 소리를 침묵시켜 버립니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control notification sound volume independently on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>알림 볼륨 조절이 이렇게 어려운 이유</h2>
+
+<p>macOS의 시스템 설정에는 "다음을 통해 효과음 재생" 설정과 알림음 볼륨 슬라이더가 있지만, 이는 모든 시스템 알림음을 한꺼번에 제어할 뿐입니다. "Calendar 알림은 30%, Messages 알림음은 50%, Mail은 무음"처럼 개별 설정할 방법이 없습니다. 알림을 내보내는 모든 앱이 같은 시스템 사운드 레벨을 공유합니다.</p>
+
+<p>더 근본적인 문제는, 많은 앱이 시스템 알림 프레임워크 밖에서 자체적으로 알림음을 재생한다는 점입니다. Slack은 자체 사운드를 재생하고, Discord는 자체 알림음을 갖고 있으며, Chrome 탭에서도 알림음이 날 수 있습니다. 이런 소리는 알림음 볼륨 슬라이더의 영향을 전혀 받지 않고, 오직 마스터 슬라이더로만 제어되는 앱 출력 볼륨 그대로 재생됩니다.</p>
+
+<h2>알림 소스별 앱별 제어</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 모든 앱에 자체 볼륨 슬라이더를 부여해 이 문제를 해결합니다. 알림음은 특정 앱에서 나오는 것이므로, 그 앱의 볼륨을 낮추면 알림음도 함께 낮아집니다.</p>
+
+<h3>실용적인 설정 예시</h3>
+<ul>
+  <li><strong>Slack:</strong> 15% — 놀라지 않을 만큼 은은한 알림음</li>
+  <li><strong>Messages:</strong> 20% — 들리지만 부드럽게</li>
+  <li><strong>Mail:</strong> 음소거 — 본인이 원할 때 확인</li>
+  <li><strong>Calendar:</strong> 25% — 알아챌 수 있을 정도로만</li>
+  <li><strong>Discord:</strong> 10% — 크게 울리지 않으면서 존재감은 유지</li>
+  <li><strong>음악 / 브라우저:</strong> 70-100% — 방해받지 않고 온전히 즐기기</li>
+</ul>
+
+<p>결과적으로 미디어는 원하는 볼륨으로 재생되고, 알림음은 놀라게 하지 않으면서도 정보를 전달할 만한 수준에 머무릅니다. 방해 금지 모드가 필요 없습니다 — 모든 소리를 여전히 들을 수 있으며, 다만 적절한 볼륨으로 들릴 뿐입니다.</p>
+
+<h3>프로필과 함께 활용하기</h3>
+
+<p>대부분의 알림 앱을 음소거한 "집중" 프로필과, 부드러운 볼륨으로 설정한 "일반" 프로필을 저장해두세요. 깊은 집중이 필요할 때와 가볍게 알림을 인지하고 싶을 때, 클릭 한 번으로 전환할 수 있습니다. 더 이상 "모든 소리를 최대로 듣기"와 "아무 소리도 듣지 않기" 사이에서 고민할 필요가 없습니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-volume-too-quiet-at-max": {
+    slug: "mac-volume-too-quiet-at-max",
+    title: "Mac 볼륨을 최대로 해도 너무 작을 때 — 100% 넘게 증폭하는 방법",
+    description: "Mac 볼륨을 최대로 올려도 답답할 만큼 작게 들리는 앱들이 있습니다. 문제는 스피커가 아니라, macOS가 개별 앱의 출력 볼륨 이상으로 증폭할 수 없다는 데 있습니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>Mac 볼륨을 100%까지 올렸습니다. 그런데도 듣고 싶은 특정 앱 — 목소리가 작은 Zoom 통화 상대, 조용한 팟캐스트, 브라우저 영상 — 은 여전히 너무 작게 들립니다. 시스템 슬라이더를 최대로 올려도 부족합니다. 그러는 사이 Mac의 다른 모든 앱은 이제 고통스러울 만큼 크게 들립니다. 문제는 스피커나 청력이 아닙니다. 해당 앱이 내부적으로 낮은 수준의 오디오를 출력하고 있고, macOS에는 한 앱만 자체 한계 이상으로 증폭할 방법이 없다는 것입니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — boost Mac volume past 100% for quiet apps" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>최대 볼륨으로도 충분히 크지 않은 이유</h2>
+
+<p>시스템 볼륨 슬라이더는 모든 소리를 비례적으로 조절합니다. 어떤 앱이 내부적으로 전체 스케일의 40% 수준으로만 오디오를 출력한다면, 시스템 볼륨이 100%여도 실제로는 스피커가 낼 수 있는 소리의 40%만 듣고 있는 셈입니다. 이런 현상은 다음과 같은 경우에 흔합니다.</p>
+<ul>
+  <li>상대방의 마이크 음량이 작은 화상 회의 앱</li>
+  <li>보수적인 레벨로 마스터링된 팟캐스트와 오디오북</li>
+  <li>제작 품질이 낮은 오래된 웹 영상</li>
+  <li>발표자가 작은 목소리로 말하는 화면 녹화나 튜토리얼</li>
+</ul>
+
+<p>마스터 슬라이더는 앱을 그 자체 출력 볼륨 이상으로 끌어올릴 수 없습니다. 이는 증폭기가 아니라 한계선일 뿐입니다.</p>
+
+<h2>앱별로 100% 이상 증폭하기</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 100%를 넘길 수 있는 앱별 볼륨 슬라이더를 제공합니다. 이 부스트 기능은 시스템 볼륨을 올리거나 다른 앱에 영향을 주지 않고, 특정 앱 하나의 오디오 스트림만 원래 최대치 이상으로 증폭합니다.</p>
+
+<h3>사용 방법</h3>
+<ul>
+  <li>메뉴 막대에서 SoundDial을 엽니다 — 실행 중인 모든 앱이 각자의 슬라이더와 함께 나타납니다</li>
+  <li>소리가 작은 앱을 찾아 슬라이더를 100% 지점 너머로 드래그합니다</li>
+  <li>부스트는 해당 앱의 오디오만 증폭하며, 다른 앱은 현재 볼륨을 그대로 유지합니다</li>
+  <li>시스템 볼륨을 최대로 올려뒀다면 다시 편안한 수준으로 내립니다</li>
+</ul>
+
+<h3>음질에 관한 참고 사항</h3>
+
+<p>부스트는 마법이 아니라 실제 증폭입니다. 잘 들리지 않던 팟캐스트를 편안하게 들리는 수준까지 끌어올리는 정도의 적절한 부스트는 깔끔하게 작동합니다. 반면 매우 작고 노이즈가 많은 원본 오디오를 극단적으로 증폭하면 히스 노이즈나 잡음이 더 두드러질 수 있습니다. 실제로 대부분의 "너무 작음" 상황에서는 120-150% 정도가 최적점으로, 왜곡 없이 자연스럽게 문제를 해결합니다.</p>
+
+<p>시스템 볼륨을 올리는 것과 비교했을 때 핵심적인 장점은, 소리가 작은 그 앱만 커진다는 것입니다. 음악, 시스템 사운드, 다른 앱들은 원래 볼륨 그대로 유지됩니다. 한 가지를 듣기 위해 모든 소리를 크게 키울 필요가 더는 없습니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-meditation-focus": {
+    slug: "mac-audio-for-meditation-focus",
+    title: "Mac 명상·집중 오디오: 앱 하나만 남기고 나머지는 모두 음소거하기",
+    description: "Mac에서 명상 앱이나 앰비언트 사운드 앱을 켜놔도 알림음과 다른 소리들이 계속 끼어든다면 본래 목적을 이룰 수 없습니다. 차분한 소리만 남기고 나머지를 모두 음소거하는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "4분 읽기",
+    content: `
+<p>Mac에서 명상 앱이나 앰비언트 사운드 생성기 — 빗소리, 바이노럴 비트, 가이드 세션 — 를 엽니다. 이제 막 자리를 잡고 앉았는데, Slack이 울리고, Mail 알림음이 나고, 깜빡 잊고 있던 브라우저 탭에서 영상이 재생되기 시작합니다. 원래 목표는 차분한 오디오 환경을 만드는 것이었지만, 모든 앱이 같은 볼륨을 공유하고 "이 앱에서만 소리가 나게" 할 기본 방법이 없는 macOS가 그 분위기를 순식간에 깨버립니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — isolate meditation audio and silence everything else on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>집중을 위한 오디오 문제</h2>
+
+<p>방해 금지 모드는 알림 배너를 막아주지만 앱 자체를 음소거하지는 않습니다. Slack은 여전히 자체 사운드를 재생하고, 브라우저 탭은 여전히 자동 재생되며, Calendar 알림음도 그대로 울립니다. 유일한 기본 옵션은 시스템 음소거 키로 모든 소리를 끄는 것인데, 이는 명상 오디오까지 함께 조용하게 만듭니다. macOS에는 "이 앱 하나만 빼고 전부 음소거"하는 기능이 없습니다.</p>
+
+<h2>앱 하나의 오디오만 분리하기</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 원하는 앱만 최대 볼륨으로 유지한 채 나머지 앱을 개별적으로 음소거할 수 있습니다. 설정은 몇 초면 끝납니다.</p>
+
+<h3>집중/명상 프로필</h3>
+<ul>
+  <li><strong>명상 앱(Calm, Headspace, Endel, 앰비언트 사운드가 재생되는 브라우저 탭 등):</strong> 100%</li>
+  <li><strong>나머지 전부:</strong> 음소거</li>
+</ul>
+
+<p>이 설정을 "집중" 프로필로 저장하세요. 세션을 시작하기 전 클릭 한 번이면 차분한 소리만 재생됩니다. 끝나면 평소 프로필로 전환해 모든 앱을 원래 볼륨으로 되돌리면 됩니다.</p>
+
+<h3>공부와 딥워크</h3>
+
+<p>같은 방식은 집중이 필요한 모든 작업 세션에 적용할 수 있습니다. 로파이 음악이나 백색소음은 편안한 볼륨으로 유지하고, Slack과 이메일은 음소거한 채, 경쟁하는 소리 없이 앰비언트 사운드만 헤드폰을 채우게 하세요. 방해 요소와 싸우는 것이 아니라, 애초에 오디오 환경에서 방해 요소 자체가 존재하지 않게 되는 것입니다.</p>
+
+<h3>원래대로 돌아가기</h3>
+
+<p>세션이 끝나도 여섯 개 앱의 음소거를 일일이 풀 필요가 없습니다. "일반" 또는 "업무" 프로필로 전환하면 모든 앱의 볼륨이 세션 이전 상태로 즉시 돌아갑니다. 음소거를 깜빡 잊거나, 다시 켜는 걸 잊어버려 알림이 쌓이는 일도 없습니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-video-editing": {
+    slug: "mac-audio-for-video-editing",
+    title: "Mac 영상 편집 오디오: Premiere, DaVinci 타임라인 미리듣기",
+    description: "Mac으로 영상을 편집한다는 건 참고 클립, 커뮤니케이션 앱, 시스템 사운드가 같은 볼륨을 두고 경쟁하는 와중에 타임라인 오디오를 미리 들어야 한다는 뜻입니다. 편집용 오디오를 분리하는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>DaVinci Resolve, Premiere Pro, 혹은 Final Cut에서 편집 중입니다. 타임라인을 스크러빙하며 대사 레벨을 정확히 들어야 하는데, Slack은 계속 알림음을 울리고, 참고 영상이 재생 중인 브라우저 탭이 있으며, Apple Music은 백그라운드에서 흘러나오고 있습니다. 예측할 수 없는 볼륨으로 세 개의 다른 앱이 믹스에 섞여 들어오면 편집한 오디오를 제대로 판단할 수 없습니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — video editing audio control on Mac with per-app volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>영상 편집자에게 분리된 오디오가 필요한 이유</h2>
+
+<p>영상 편집에서 오디오 믹싱은 정확한 모니터링을 요구합니다. Slack 알림음이 타임라인 대사와 같은 레벨로 재생되면, 그 대사가 실제로 제대로 믹싱됐는지 판단할 수 없습니다. Spotify의 배경 음악이 모니터링 환경에 새어 들어오면 귀가 이를 보정하려 하면서 결국 레벨을 잘못 설정하게 됩니다. 전문 편집자들은 음향 처리가 된 공간에서 통제된 모니터링 체인을 갖추고 작업하지만, 소프트웨어 차원에서조차 macOS는 편집 프로그램의 오디오를 다른 모든 소리로부터 분리할 방법을 제공하지 않습니다.</p>
+
+<p>대부분의 편집자가 쓰는 임시방편은 편집 전에 다른 모든 것을 종료하는 것입니다. Slack을 닫고, Music을 일시 정지하고, 브라우저 탭을 닫습니다. 효과는 있지만, 그 대신 YouTube 튜토리얼을 참고하거나 클라이언트 채팅을 열어두거나 참고 트랙을 들으면서 모니터링 환경을 깨끗하게 유지할 수는 없습니다.</p>
+
+<h2>편집 세션을 위한 앱별 제어</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 모든 앱을 열어둔 채로 무엇을, 얼마나 크게 들을지 제어할 수 있습니다.</p>
+
+<h3>편집 프로필</h3>
+<ul>
+  <li><strong>DaVinci / Premiere / Final Cut:</strong> 100% — 정확한 타임라인 모니터링</li>
+  <li><strong>브라우저:</strong> 음소거 (참고 클립을 확인할 때만 잠깐 해제 후 다시 음소거)</li>
+  <li><strong>Slack / Messages:</strong> 음소거 — 모니터링 체인에 소리가 섞이지 않도록</li>
+  <li><strong>Music:</strong> 음소거 — 경쟁하는 소리 없음</li>
+  <li><strong>Mail / Calendar:</strong> 음소거</li>
+</ul>
+
+<h3>리뷰 프로필</h3>
+<ul>
+  <li><strong>편집 프로그램(NLE):</strong> 80% — 편안하게 리뷰할 수 있는 레벨</li>
+  <li><strong>Slack:</strong> 20% — 렌더링 대기 중 메시지 확인 가능</li>
+  <li><strong>브라우저:</strong> 50% — 참고 자료 접근 가능</li>
+</ul>
+
+<p>작업 흐름에 맞춰 프로필을 전환하세요. 중요한 오디오 믹싱 작업 중에는 타임라인을 제외한 모든 소리를 차단하고, 렌더링 중에는 알림을 다시 켜서 연락 가능한 상태로 두세요. 클릭 두 번으로 완전히 다른 두 가지 모니터링 환경을 오갈 수 있습니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "per-app-volume-control-mac-2026": {
+    slug: "per-app-volume-control-mac-2026",
+    title: "2026년 Mac 앱별 볼륨 제어 — 어떤 선택지가 있을까?",
+    description: "2026년이 된 지금도 macOS에는 기본 볼륨 믹서가 없습니다. 앱 볼륨을 독립적으로 제어할 수 있는 모든 방법 — 무료, 유료, 그리고 우회 방법까지 — 을 정리했습니다.",
+    date: "2026-09-06",
+    readTime: "6분 읽기",
+    content: `
+<p>2026년입니다. Windows는 2007년 Vista 때부터 앱별 볼륨 믹서를 갖추고 있었습니다. macOS는 여전히 없습니다. Zoom 통화는 그대로 두고 Spotify만 줄이고 싶다면, Apple의 대답은 여전히 "불가능합니다"입니다. 그렇다면 2026년 현재 실제로 가능한 선택지는 무엇일까요?</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — per-app volume control options on Mac in 2026" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>현재 상황</h2>
+
+<p>지금 이용 가능한 모든 접근 방식과 그 실질적인 장단점을 솔직하게 정리했습니다.</p>
+
+<h3>무료 옵션</h3>
+<ul>
+  <li><strong>Background Music</strong> — 오픈소스이며 기본적인 앱별 볼륨 슬라이더를 제공합니다. 다만 커뮤니티가 유지 관리하다 보니 macOS 주요 업데이트 때마다 종종 작동이 멈춘 전례가 있습니다. 100% 이상 부스트, 프로필, 오토 덕킹 기능은 없습니다. 무료라는 조건이 최우선이고 OS 업데이트 후 문제 해결을 감수할 수 있다면 시도해볼 만합니다.</li>
+  <li><strong>FineTune</strong> — 무료 오픈소스로, 메뉴 막대에서 최소한의 볼륨 제어를 제공합니다. 기능은 가볍지만 기본적인 조정에는 안정적입니다.</li>
+  <li><strong>eqMac</strong> — 무료 EQ 및 시스템 전체 볼륨 제어 도구입니다. 앱별 믹싱보다는 이퀄라이징에 초점을 맞췄지만, 일부 앱별 기능도 갖추고 있습니다.</li>
+</ul>
+
+<h3>유료 옵션</h3>
+<ul>
+  <li><strong>SoundSource</strong>(Rogue Amoeba, 약 $39) — 전문가급 도구입니다. 앱별 볼륨, 앱별 EQ, 출력 라우팅, 이펙트까지 제공합니다. 오디오 캡처 컴포넌트를 설치해야 하며(App Store 미지원), 단순히 볼륨 슬라이더만 원한다면 과한 스펙이지만 정교한 오디오 라우팅이 필요하다면 탁월한 선택입니다.</li>
+  <li><strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong>(€14.99, 일회성 구매) — 앱별 볼륨, 음소거, 100% 이상 부스트, 저장 가능한 프로필, 오토 덕킹까지 제공합니다. Mac App Store에서 받을 수 있는 샌드박스 앱으로 드라이버 설치가 필요 없습니다. 무료 도구와 SoundSource 사이의 중간 지점입니다.</li>
+  <li><strong>Audio Hijack</strong>(Rogue Amoeba, 약 $72) — 앱 간 오디오를 캡처하고 라우팅합니다. 녹음이나 복잡한 라우팅에는 강력하지만, 단순한 볼륨 믹서가 아니라 전문 오디오 도구에 가깝습니다.</li>
+</ul>
+
+<h3>기본 기능으로 우회하기</h3>
+<ul>
+  <li>일부 앱(Spotify, VLC, 대부분의 게임)은 자체 볼륨 슬라이더를 갖고 있습니다. 하지만 각 앱 안에서 따로 조정해야 하고, 서로 연동되지 않으며, 많은 앱은 아예 볼륨 조절 기능을 제공하지 않습니다.</li>
+  <li>방해 금지 모드는 알림 배너를 음소거할 뿐 앱 볼륨을 제어하지 않습니다.</li>
+  <li>시스템 볼륨 슬라이더는 전부 아니면 전무 방식입니다.</li>
+</ul>
+
+<h2>어떤 것을 선택해야 할까?</h2>
+
+<p>본인에게 진짜 필요한 게 무엇인지 솔직하게 판단하세요. 무료를 원하고 가끔 발생하는 오류를 감수할 수 있다면 Background Music이 적합합니다. 전문적인 오디오 라우팅과 EQ가 필요하다면 SoundSource를 선택하세요. 합리적인 가격에 프로필과 부스트 기능을 갖춘 신뢰할 수 있고 단순한 볼륨 믹서를 원한다면 — App Store의 보안성과 드라이버 설치 없는 편의성까지 더해 — <a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>이 최적의 선택입니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-ducking-automatic": {
+    slug: "mac-audio-ducking-automatic",
+    title: "Mac 오토 오디오 덕킹 — 누군가 말할 때 음악을 자동으로 낮추기",
+    description: "통화가 시작되거나 누군가 말을 하면 음악 볼륨이 자동으로 낮아져야 합니다. macOS는 이를 기본적으로 지원하지 않습니다. Mac에서 자동 오디오 덕킹을 설정하는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>Mac에서 음악을 듣고 있습니다. Zoom 통화가 시작되면 회의를 들을 수 있도록 서둘러 Spotify를 일시정지하거나 볼륨을 낮춥니다. 통화가 끝나면 다시 음악 볼륨을 올립니다. 이런 일이 하루에도 다섯 번씩 일어나고, 그때마다 수동으로 개입해야 합니다. 우선순위가 높은 소스가 재생될 때 배경 오디오를 자동으로 낮추는 오디오 덕킹은 방송과 스트리밍 업계의 표준 기능이지만, macOS에는 기본적으로 존재하지 않습니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — automatic audio ducking on Mac, lower music during calls" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>오디오 덕킹이 실제로 하는 일</h2>
+
+<p>덕킹의 원리는 간단합니다. 지정된 우선순위 오디오 소스가 활성화되면 다른 모든 오디오 소스의 볼륨이 설정된 비율만큼 낮아지고, 우선순위 소스가 멈추면 모든 소리가 원래 레벨로 다시 올라갑니다. 방송인들은 이를 활용해 진행자의 목소리가 항상 배경 음악보다 위에 위치하도록 하고, 스트리머들은 자신이 말할 때 게임 소리가 낮아지도록 이를 활용합니다.</p>
+
+<p>macOS에서 이와 가장 가까운 기본 기능은 VoiceOver 안내 중 배경 오디오를 줄여주는 손쉬운 사용 설정입니다. 하지만 이는 오직 VoiceOver 전용이며, 통화나 음성 채팅, 혹은 임의의 앱을 위한 범용 덕킹 기능은 존재하지 않습니다.</p>
+
+<h2>SoundDial로 오토 덕킹 설정하기</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>에는 자동 오디오 덕킹 기능이 기본으로 내장되어 있습니다. 덕킹을 촉발할 앱 — 보통은 커뮤니케이션 앱 — 을 지정하면, 그 앱에서 소리가 날 때 다른 모든 앱의 볼륨이 자동으로 낮아집니다.</p>
+
+<h3>흔히 쓰는 덕킹 설정</h3>
+<ul>
+  <li><strong>Zoom / Google Meet / FaceTime를 우선순위로:</strong> 통화가 진행되는 동안 음악, 브라우저 등 다른 앱의 볼륨이 낮아집니다. 볼륨을 수동으로 조절하지 않아도 회의 음성이 항상 또렷하게 들립니다.</li>
+  <li><strong>Discord를 우선순위로:</strong> 팀원이 말할 때 게임 소리와 음악이 낮아집니다. 폭발음이나 큰 배경음 속에서도 콜아웃을 놓치지 않습니다.</li>
+  <li><strong>팟캐스트 녹음:</strong> DAW의 입력이 활성화되면 다른 모든 소리가 낮아져 모니터링 환경을 깨끗하게 유지합니다.</li>
+</ul>
+
+<h3>실제로 사용해보면</h3>
+
+<p>전환은 부드럽게 이루어집니다 — 우선순위 앱이 소리를 내면 배경 오디오가 서서히 낮아지고, 멈추면 다시 서서히 올라옵니다. 이전에 수동으로 하던 것과 똑같은 일을 방해 없이 해주기 때문에, 한 시간쯤 지나면 이 기능을 의식조차 하지 않게 됩니다. 대화 도중 슬라이더를 찾아 손을 뻗을 필요가 더 이상 없습니다.</p>
+
+<p>앱별 볼륨과 프로필 기능에 덕킹까지 더해지면 그림이 완성됩니다. 앱들은 애초에 적절한 레벨에서 시작하고, 덕킹이 하루 종일 필요한 동적 조정을 대신 처리해줍니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "control-browser-tab-volume-mac": {
+    slug: "control-browser-tab-volume-mac",
+    title: "Mac에서 브라우저 탭별로 볼륨을 조절할 수 있을까?",
+    description: "한 브라우저 탭에서는 시끄러운 소리가 나고 다른 탭에서는 영상 소리가 너무 작습니다. macOS에서 탭별로 볼륨을 조절할 수 있을까요? 실제로 가능한 것과 불가능한 것을 정리했습니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>한 탭에서는 YouTube 튜토리얼이 재생 중이고, 다른 탭에서는 소리가 작은 Loom 영상이 있으며, 세 번째 탭에서는 방금 광고가 자동 재생되기 시작했습니다. YouTube 탭은 줄이고, Loom 탭은 키우고, 광고는 음소거하고 싶습니다 — 각각 독립적으로 말이죠. macOS에서 브라우저 탭별로 볼륨을 조절할 수 있을까요? 솔직히 말하면 기본적으로는 불가능하고, 대부분의 도구로도 불가능합니다. 하지만 브라우저 전체의 볼륨은 제어할 수 있으며, 이것만으로도 대부분의 불편함은 해결됩니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — control browser audio volume on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>탭별 볼륨 제어가 존재하지 않는 이유</h2>
+
+<p>브라우저는 운영체제에 소리를 전달하기 전, 모든 탭의 오디오를 하나의 출력 스트림으로 믹싱합니다. macOS 입장에서 Chrome은 하나의 오디오 스트림을 생성하는 앱 하나일 뿐입니다. Safari도 앱 하나, Firefox도 앱 하나입니다. OS는 어떤 탭이 어떤 소리를 내는지 전혀 알 수 없습니다 — 그 정보는 브라우저 내부의 오디오 엔진 안에만 존재하며 외부 도구에는 노출되지 않습니다.</p>
+
+<p>일부 브라우저는 개별 탭을 음소거할 수 있게 해줍니다(탭의 스피커 아이콘 클릭). 하지만 이는 켜고 끄는 이진 방식일 뿐, 탭별 볼륨 슬라이더는 없습니다. 시끄러운 탭을 음소거할 수는 있어도, 다른 탭은 80%로 유지한 채 이 탭만 20%로 낮출 수는 없습니다.</p>
+
+<h2>실제로 제어할 수 있는 것</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 앱 단위로 볼륨을 제어합니다. 각 브라우저가 별개의 앱이므로, 다음과 같이 독립적으로 제어할 수 있습니다.</p>
+
+<h3>여러 브라우저를 활용한 워크플로</h3>
+<ul>
+  <li><strong>Chrome:</strong> 100% — 주로 보는 영상이나 튜토리얼</li>
+  <li><strong>Safari:</strong> 40% — 배경으로 참고하는 자료</li>
+  <li><strong>Firefox:</strong> 음소거 — 테스트나 개발자 도구용, 소리 불필요</li>
+</ul>
+
+<p>여러 브라우저를 사용한다면(많은 개발자와 연구자가 그렇게 합니다), 각 브라우저마다 자체 슬라이더를 갖게 됩니다. 서로 다른 콘텐츠를 서로 다른 브라우저에 배정해 독립적으로 믹싱할 수 있으므로, 사실상 "탭 그룹"별 제어인 셈입니다.</p>
+
+<h3>브라우저 대 나머지 모든 것</h3>
+
+<p>더 흔한 상황은 단순히 브라우저 오디오를 다른 앱들과 다른 레벨로 두고 싶은 경우입니다. YouTube 튜토리얼보다 음악이 너무 크다면? Chrome은 100%로 유지한 채 Spotify를 30%로 낮추세요. 브라우저 탭에서 참고 자료가 재생되는 동안 Zoom 통화를 해야 한다면? 앱별 음소거로 통화 중에는 브라우저를 완전히 음소거하고, 끝난 뒤 다시 켜면 됩니다.</p>
+
+<h3>탭 음소거로 우회하기</h3>
+
+<p>하나의 브라우저 안에서 진짜 탭별 제어가 필요하다면, 브라우저 내장 탭 음소거가 유일한 방법입니다. 이를 SoundDial의 브라우저별 볼륨과 함께 사용하세요. 브라우저 안에서 시끄러운 탭을 음소거하고, SoundDial로 다른 앱들과 비교해 브라우저 전체 볼륨을 원하는 수준으로 설정하면 됩니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-language-learning": {
+    slug: "mac-audio-for-language-learning",
+    title: "Mac 어학 학습 오디오: Anki, 팟캐스트, 영상 소리 분리하기",
+    description: "Mac으로 외국어를 공부한다는 건 플래시카드 오디오, 팟캐스트, 영상 강의, 사전 검색이 모두 같은 볼륨을 두고 경쟁한다는 뜻입니다. 이들의 균형을 맞추는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "4분 읽기",
+    content: `
+<p>Mac으로 외국어를 공부하고 있습니다. Anki는 플래시카드를 위한 발음 오디오를 재생하고, 몰입을 위해 목표 언어로 된 팟캐스트가 백그라운드에서 흘러나오며, 브라우저에는 YouTube 문법 강의를 열어둡니다. 이제 세 개의 오디오 소스가 동시에 재생되는데 각기 다른 자연스러운 볼륨을 갖고 있고, macOS는 이 모두를 제어할 슬라이더를 하나만 제공합니다. Anki 발음 클립은 너무 작아서 잘 들리지 않고, 팟캐스트는 너무 크며, YouTube 영상은 그 중간 어디쯤입니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — language learning audio setup on Mac with independent app volumes" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>어학 학습자의 오디오 혼란</h2>
+
+<p>어학 학습은 본질적으로 여러 오디오 소스를 동반합니다. 플래시카드 앱은 짧은 클립을 재생하고, 팟캐스트 앱은 연속적인 오디오를 스트리밍하며, 영상 강의는 말소리와 음악, 효과음을 섞어 내보내고, 사전 앱은 요청할 때마다 단어를 발음해줍니다. 각 소스는 저마다 다른 내부 볼륨 레벨을 갖고 있으며, 서로 맞춰 보정되는 일은 결코 없습니다.</p>
+
+<p>흔한 임시방편은 지금 사용 중인 것을 제외한 모든 소리를 일시정지하는 것입니다. 하지만 이는 많은 학습자가 의존하는 "배경 몰입" 방식 — 다른 학습 활동을 하면서 목표 언어 오디오를 낮게 틀어두는 것 — 자체를 무력화합니다.</p>
+
+<h2>어학 공부를 위한 레이어드 오디오</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 각 앱을 이상적인 레벨로 설정하고, 여러 소스를 편안한 믹스로 동시에 재생할 수 있습니다.</p>
+
+<h3>학습 프로필</h3>
+<ul>
+  <li><strong>Anki:</strong> 100%(클립이 작으면 부스트) — 발음은 또렷하게 들려야 합니다</li>
+  <li><strong>팟캐스트 앱:</strong> 20-30% — 적극적인 학습을 방해하지 않는 부드러운 배경 몰입용</li>
+  <li><strong>브라우저(YouTube 강의):</strong> 80% — 시청 중에는 또렷하게, 카드 복습 시에는 쉽게 낮출 수 있도록</li>
+  <li><strong>사전 앱:</strong> 90% — 필요할 때 단어 발음이 잘 들리도록</li>
+  <li><strong>Slack / Messages:</strong> 음소거 — 공부 시간은 오롯이 공부 시간으로</li>
+</ul>
+
+<h3>몰입 모드</h3>
+<ul>
+  <li><strong>팟캐스트/라디오 스트림:</strong> 60% — 편안하게 들을 수 있는 레벨</li>
+  <li><strong>나머지 전부:</strong> 음소거 또는 매우 낮게</li>
+</ul>
+
+<p>적극적인 학습에서 수동적인 몰입으로 넘어갈 때 프로필을 전환하세요. 매번 슬라이더를 수동으로 조정하지 않아도 오디오 환경이 학습 모드에 맞춰 자동으로 바뀝니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-volume-profiles-work-vs-home": {
+    slug: "mac-volume-profiles-work-vs-home",
+    title: "Mac 볼륨 프로필: 업무용과 가정용 오디오 설정 전환하기",
+    description: "업무 중 이상적인 앱 볼륨은 저녁에 집에서 쓰는 설정과 완전히 다릅니다. 상황이 바뀔 때마다 앱 다섯 개를 일일이 조정하는 건 시간 낭비입니다. 클릭 한 번으로 끝내는 대안을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "4분 읽기",
+    content: `
+<p>오전 9시에는 Zoom은 크게, Slack은 은은한 알림음 수준으로, 음악은 작게, 브라우저는 음소거로 설정해야 합니다. 오후 6시에 퇴근하면 Zoom은 더 이상 중요하지 않고, Slack은 조용해야 하며, 음악은 80%로 올라가고, 브라우저는 Netflix를 최대 볼륨으로 재생해야 합니다. 매일 하루 두 번, 앱 대여섯 개를 수동으로 조정해야 하는 셈입니다. 대부분의 사람은 이를 귀찮아해서 절반의 시간을 잘못된 볼륨인 채로 지냅니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — switch between work and home volume profiles on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>상황 전환에 드는 비용</h2>
+
+<p>무엇을 하고 있는지에 따라 필요한 오디오는 완전히 달라지지만, macOS에는 "오디오 상황"이라는 개념 자체가 없습니다. "업무 모드" 볼륨 설정이나 "저녁" 프리셋 같은 것도 없습니다. 상황이 바뀔 때마다 각 앱을 수동으로 조정하거나, 어떤 앱은 너무 크고 어떤 앱은 너무 작은 상태를 그냥 받아들여야 합니다.</p>
+
+<p>이건 하루에 한 번뿐인 문제가 아닙니다. 많은 사람이 하루에도 여러 번 상황을 전환합니다 — 아침 집중 시간, 스탠드업 미팅, 딥워크, 점심시간, 오후 협업, 저녁 개인 시간까지. 각 상황마다 이상적인 오디오 구성이 다르며, 그 어느 것도 서로 같지 않습니다.</p>
+
+<h2>모든 상황을 위한 볼륨 프로필</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 앱별 볼륨 설정 전체를 이름이 붙은 프로필로 저장해두고, 메뉴 막대에서 클릭 한 번으로 전환할 수 있습니다.</p>
+
+<h3>업무 프로필</h3>
+<ul>
+  <li><strong>Zoom / Meet:</strong> 100%</li>
+  <li><strong>Slack:</strong> 20% — 은은한 알림</li>
+  <li><strong>Music:</strong> 25% — 배경 집중용</li>
+  <li><strong>브라우저:</strong> 음소거</li>
+  <li><strong>Messages:</strong> 음소거</li>
+</ul>
+
+<h3>가정 프로필</h3>
+<ul>
+  <li><strong>Music / Spotify:</strong> 80%</li>
+  <li><strong>브라우저(스트리밍):</strong> 100%</li>
+  <li><strong>Slack:</strong> 음소거</li>
+  <li><strong>Zoom:</strong> 음소거</li>
+  <li><strong>Messages:</strong> 50%</li>
+</ul>
+
+<h3>집중 프로필</h3>
+<ul>
+  <li><strong>Music:</strong> 40% — 로파이 또는 앰비언트</li>
+  <li><strong>나머지 전부:</strong> 음소거</li>
+</ul>
+
+<p>프로필 세 개로 완전히 다른 세 가지 오디오 환경을 만들 수 있습니다. 전환은 클릭 한 번이면 즉시 적용됩니다. Mac의 오디오가 당신에게 맞춰지는 것이지, 그 반대가 아닙니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-twitch-streaming": {
+    slug: "mac-audio-for-twitch-streaming",
+    title: "Mac Twitch 스트리밍 오디오: 게임, 알림음, 음악, 마이크",
+    description: "Mac으로 Twitch 방송을 한다는 건 게임 소리, 스트림 알림음, 배경 음악, 채팅 소리를 시청자에게 적절한 레벨로 관리해야 한다는 뜻입니다. 이들을 제대로 믹싱하는 방법을 소개합니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>Mac으로 Twitch 방송을 하고 있습니다. OBS는 게임 화면, 마이크, 데스크톱 오디오를 캡처하고 있습니다. 하지만 "데스크톱 오디오"는 하나로 믹싱된 신호입니다 — 게임, 알림음, 배경 음악, Discord, 알림 핑까지 모두 macOS가 정한 볼륨 그대로 같은 채널에 실립니다. 시청자들은 알림음이 게임 플레이를 뒤덮고, 음악이 해설을 삼키며, Slack 알림이 방송 도중 불쑥 끼어드는 불균형한 소리를 듣게 됩니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — Twitch streaming audio mix on Mac with per-app volume" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>Mac에서 스트리밍 오디오가 어려운 이유</h2>
+
+<p>OBS는 "데스크톱 오디오"를 Mac에서 재생 중인 모든 소리가 합쳐진 하나의 믹스 스트림으로 캡처합니다. Windows에서는 스트리머들이 내장 볼륨 믹서를 사용해 OBS가 캡처하기 전 앱들의 밸런스를 미리 맞춥니다. macOS에는 그런 믹서가 없습니다. 캡처되기 전 믹스는 그저 앱들이 기본으로 재생하는 볼륨 그대로일 뿐입니다.</p>
+
+<p>전문 Mac 스트리머들은 보통 가상 오디오 라우팅 도구를 사용해 각 소스마다 별도의 오디오 채널을 만듭니다. 효과는 있지만 설정이 복잡하고, 오디오 드라이버가 필요하며, macOS 업데이트로 오디오 프레임워크가 바뀌면 작동이 멈추기도 합니다.</p>
+
+<h2>앱별 볼륨으로 사전 믹싱하기</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 OBS가 통합 출력을 캡처하기 전에 모든 앱의 밸런스를 맞출 수 있습니다. OBS는 최종 믹스를 그대로 캡처하므로, SoundDial로 개별 앱 볼륨을 조정하면 시청자가 듣는 소리에 직접 영향을 줍니다.</p>
+
+<h3>스트리밍 프로필</h3>
+<ul>
+  <li><strong>게임:</strong> 60% — 존재감은 있으되 압도적이지 않게</li>
+  <li><strong>알림 앱 / Streamlabs:</strong> 40% — 시청자 참여를 위해 들리되 게임 플레이보다 크지 않게</li>
+  <li><strong>음악(Spotify / Apple Music):</strong> 15-20% — 배경 분위기용, DMCA 안전 볼륨</li>
+  <li><strong>Discord:</strong> 50% — 공동 방송자나 모더레이터와의 소통용</li>
+  <li><strong>브라우저:</strong> 음소거 — 방송 중 갑작스러운 탭 소리 방지</li>
+  <li><strong>Slack / Mail / Messages:</strong> 음소거 — 개인 알림은 방송에 노출되지 않도록</li>
+</ul>
+
+<h3>방송 도중 빠르게 조정하기</h3>
+
+<p>시청자가 게임 소리가 너무 크다고 하나요? 방송 화면에서 alt-tab으로 빠져나올 필요 없이 메뉴 막대에서 게임 슬라이더만 낮추면 됩니다. 음악이 너무 작다면 살짝 올리세요. SoundDial에서 슬라이더를 살짝 조정하는 모습은 시청자에게 보이지 않습니다 — 화면에 설정 패널이 뜨지도, 방송이 중단되지도 않습니다.</p>
+
+<h3>해설을 위한 오토 덕킹</h3>
+
+<p>오토 덕킹을 켜면 말할 때 게임과 음악 볼륨이 자동으로 낮아집니다. 해설은 항상 또렷하게 들리고, 조용한 순간에는 다시 원래 볼륨으로 돌아옵니다 — 전문 스트리머들이 값비싼 오디오 라우팅 설정으로 구현하는 것과 정확히 같은 효과입니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-music-lessons": {
+    slug: "mac-audio-for-music-lessons",
+    title: "Mac 온라인 음악 레슨 오디오: DAW, 화상 통화, 메트로놈 소리 분리하기",
+    description: "온라인으로 음악 레슨을 하거나 가르친다는 건, DAW와 메트로놈, 백킹 트랙이 같은 볼륨 슬라이더를 두고 경쟁하는 와중에도 학생이나 선생님의 소리를 또렷하게 들어야 한다는 뜻입니다.",
+    date: "2026-09-06",
+    readTime: "5분 읽기",
+    content: `
+<p>온라인 음악 레슨 중입니다 — 가르치는 입장이든 배우는 입장이든 마찬가지입니다. 학생이 Zoom을 통해 연주하고, 그 소리를 또렷하게 들어야 합니다. GarageBand나 Logic에는 백킹 트랙이 재생 중이고, 메트로놈 앱은 똑딱거리며, Spotify에는 참고용 녹음이 대기 중일 수도 있습니다. 이 모든 것이 하나의 시스템 볼륨 슬라이더를 두고 경쟁합니다. 학생 소리를 듣기 위해 볼륨을 올리면 메트로놈이 귀를 찢을 듯 커지고, 메트로놈을 수동으로 낮추면 이번엔 백킹 트랙이 너무 작아서 맞춰 연주할 수 없게 됩니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — online music lesson audio setup with independent app volumes on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>온라인 음악 레슨의 과제</h2>
+
+<p>음악 레슨은 다른 어떤 용도에서도 요구되지 않는 정밀한 오디오 밸런스를 필요로 합니다. 원격 참가자의 테크닉과 타이밍 문제를 짚어낼 수 있을 만큼 충분한 음질로 소리를 들어야 하고, 메트로놈이나 클릭 트랙은 들리되 지배적이지 않아야 하며, 백킹 트랙은 연주 위가 아니라 아래에 깔려야 합니다. 그리고 선생님이라면 학생에게 참고 녹음을 들려줘야 할 때도 있는데, 이때도 적절한 상대적 볼륨을 유지하면서 앱을 전환해야 합니다.</p>
+
+<p>이 각각의 소스는 저마다 다른 내부 볼륨 레벨을 갖고 있으며, 서로 전혀 조율되지 않습니다. macOS에는 이를 조정할 도구가 없습니다.</p>
+
+<h2>레슨용 오디오 믹스 구성하기</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 각 앱의 내부 설정을 건드리지 않고도 앱마다 이상적인 레벨을 설정해 레슨에 맞는 균형 잡힌 믹스를 만들 수 있습니다.</p>
+
+<h3>강의 프로필</h3>
+<ul>
+  <li><strong>Zoom / FaceTime:</strong> 100% — 학생의 소리가 최우선</li>
+  <li><strong>메트로놈 앱:</strong> 35% — 압도적이지 않으면서 클릭음이 들리도록</li>
+  <li><strong>GarageBand / Logic:</strong> 50% — 백킹 트랙은 연주 아래에</li>
+  <li><strong>Spotify:</strong> 음소거(참고 재생 시 잠깐 해제)</li>
+  <li><strong>Slack / Mail:</strong> 음소거 — 레슨 중 방해 요소 완전 차단</li>
+</ul>
+
+<h3>연습 프로필</h3>
+<ul>
+  <li><strong>메트로놈:</strong> 50% — 명확한 타이밍 기준</li>
+  <li><strong>DAW:</strong> 80% — 연습에 적합한 백킹 트랙 볼륨</li>
+  <li><strong>Spotify:</strong> 70% — 참고 녹음 접근 가능</li>
+  <li><strong>나머지 전부:</strong> 음소거 — 집중 연습</li>
+</ul>
+
+<p>클릭 한 번으로 강의 모드에서 개인 연습 모드로 전환하세요. 매번 네다섯 개의 앱을 수동으로 조정하지 않아도 오디오 환경이 활동에 맞춰 바뀝니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "mac-audio-for-online-therapy": {
+    slug: "mac-audio-for-online-therapy",
+    title: "Mac 온라인 심리 상담 오디오: 프라이버시, 명료함, 방해 요소 제로",
+    description: "온라인 심리 상담 세션에는 철저한 오디오 프라이버시와 방해 요소 없는 환경이 필요합니다. 세션 도중 울리는 Slack 알림음이나 알림 소리는 단순히 거슬리는 수준을 넘어 상담 과정 자체를 방해합니다.",
+    date: "2026-09-06",
+    readTime: "4분 읽기",
+    content: `
+<p>Mac으로 온라인 심리 상담 세션에 참여하고 있습니다. 대화는 온전한 집중과 프라이버시에 대한 신뢰를 필요로 합니다. 그런데 Slack이 울리고, Calendar 리마인더 알림음이 나고, 깜빡 잊고 있던 브라우저 탭에서 소리가 나기 시작합니다. 하나하나의 방해가 그 순간에서 나를 끌어내고, "또 뭔가 끼어들지 않을까"라는 불안감은 다음 소리가 나기도 전에 이미 세션을 흔들어 놓을 수 있습니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial — private therapy session audio setup with zero interruptions on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>방해 금지 모드로는 충분하지 않은 이유</h2>
+
+<p>방해 금지 모드는 알림 배너와 대부분의 알림음을 막아주지만 완벽하지는 않습니다. 일부 앱은 시스템 프레임워크 밖에서 자체적으로 오디오 알림을 재생하고, 브라우저 탭은 자동 재생될 수 있으며, 실행 중인지 잊고 있던 앱에서 예상치 못한 소리가 날 수도 있습니다. 그리고 방해 금지 모드는 진짜 핵심 문제, 즉 상담 앱(Zoom, Doxy, 혹은 브라우저 기반 플랫폼)은 완벽하게 또렷하게 들리면서 나머지는 반드시 조용해야 한다는 문제는 해결해주지 못합니다.</p>
+
+<h2>완전히 밀폐된 오디오 환경</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>을 사용하면 상담 플랫폼을 제외한 모든 앱을 음소거해, 방해 요소가 단순히 억제되는 게 아니라 구조적으로 발생 자체가 불가능한 오디오 환경을 만들 수 있습니다.</p>
+
+<h3>상담 세션 프로필</h3>
+<ul>
+  <li><strong>Zoom / 브라우저(상담 플랫폼):</strong> 100% — 또렷하고 완전한 볼륨의 소통</li>
+  <li><strong>그 외 모든 앱:</strong> 음소거 — Slack, Mail, Messages, Calendar, Music, 보조 브라우저 등</li>
+</ul>
+
+<p>세션이 시작되기 전에 이 프로필을 적용하세요. 그 뒤로 한 시간 동안 Mac에서 나는 유일한 소리는 상담 앱에서 나오는 소리뿐입니다. Slack 알림음도, Calendar 알림음도, 깜빡 잊었던 브라우저 탭 소리도 스피커에 닿을 수 없습니다. 다른 앱의 침묵은 그저 바라는 것이 아니라 보장된 것입니다.</p>
+
+<h3>세션 후 원래대로 돌아가기</h3>
+
+<p>세션이 끝나면 평소 프로필로 전환하세요. 모든 앱이 원래 볼륨으로 돌아갑니다. 놓친 알림들은 여전히 각 앱 안에서 기다리고 있습니다 — 아무것도 사라지지 않았고, 프라이버시가 필요했던 시간 동안 그저 조용했을 뿐입니다.</p>
+
+<h3>이 설정이 유용한 다른 상황</h3>
+<ul>
+  <li>원격 진료 예약</li>
+  <li>기밀을 요하는 업무 대화</li>
+  <li>중요한 전화 인터뷰</li>
+  <li>오디오 프라이버시와 방해 없는 환경이 중요한 모든 상황</li>
+</ul>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
+  },
+  "virtual-audio-driver-vs-sounddial-mac": {
+    slug: "virtual-audio-driver-vs-sounddial-mac",
+    title: "가상 오디오 드라이버 vs SoundDial — Mac에서 어떤 방식이 더 나을까?",
+    description: "가상 오디오 드라이버와 메뉴 막대 볼륨 믹서 모두 Mac에서 앱별 오디오 제어를 약속합니다. 하지만 내부적으로는 완전히 다른 방식으로 작동합니다. 두 접근 방식을 솔직하게 비교해봅니다.",
+    date: "2026-09-06",
+    readTime: "6분 읽기",
+    content: `
+<p>Mac에서 앱별 볼륨 제어를 원합니다. 그러다 보면 두 종류의 도구를 발견하게 됩니다 — Loopback, BlackHole, 혹은 SoundSource의 드라이버 컴포넌트 같은 가상 오디오 드라이버와, SoundDial이나 Background Music 같은 가벼운 메뉴 막대 믹서입니다. 둘 다 독립적인 앱 볼륨 제어를 약속하지만, 이를 이루는 방식은 근본적으로 다르며 그 장단점은 무시할 수 없습니다.</p>
+
+<a href="https://apps.apple.com/app/sounddial/id6772792641" target="_blank" rel="noopener" style="display:block"><img src="/apps/sounddial.png" alt="SoundDial vs virtual audio drivers — comparing per-app audio approaches on Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h2>가상 오디오 드라이버의 작동 방식</h2>
+
+<p>가상 오디오 드라이버는 macOS 안에 가상의 오디오 장치를 만듭니다. 앱들은 오디오를 이 가상 장치로 보내고, 드라이버 소프트웨어가 이를 다시 라우팅합니다 — 그 과정에서 스트림을 분리하거나 믹싱하거나 처리할 수 있습니다. 이는 매우 강력한 방식으로, 서로 다른 앱을 서로 다른 물리적 출력 장치로 보내거나, 앱별 EQ를 적용하거나, 개별 앱의 스트림을 녹음하거나, 복잡한 라우팅 매트릭스를 구성할 수 있습니다.</p>
+
+<p>다만 다음과 같은 단점이 있습니다.</p>
+<ul>
+  <li><strong>시스템 수준 설치:</strong> 드라이버는 오디오 서브시스템을 변경합니다. 보안 승인이 필요하고 때로는 재시동이 필요합니다.</li>
+  <li><strong>macOS 업데이트에 취약:</strong> Apple은 오디오 프레임워크를 자주 변경합니다. 주요 업데이트 이후 드라이버가 작동을 멈추면 개발자가 패치를 내놓을 때까지 소리가 아예 나지 않을 수 있습니다.</li>
+  <li><strong>복잡함:</strong> 라우팅 매트릭스와 가상 장치는 강력하지만, 그저 앱 하나만 조용히 하고 싶을 때는 오히려 혼란스럽습니다.</li>
+  <li><strong>App Store 미지원:</strong> 드라이버를 설치하는 앱은 샌드박스 제약 때문에 Mac App Store를 통해 배포될 수 없습니다.</li>
+</ul>
+
+<h2>SoundDial의 작동 방식</h2>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a>은 다른 접근 방식을 택합니다. 드라이버나 가상 장치를 설치하지 않고, macOS API를 사용해 각 앱의 오디오 스트림 볼륨을 제어합니다. 사운드 설정에 가상 오디오 장치가 나타나지 않으며, 시스템을 수정할 필요도 없습니다.</p>
+
+<p>다만 다음과 같은 단점이 있습니다.</p>
+<ul>
+  <li><strong>복잡한 라우팅은 불가능:</strong> SoundDial은 앱별 볼륨, 음소거, 부스트를 제어할 뿐, 앱을 서로 다른 물리적 출력으로 라우팅하거나 앱별 EQ를 적용하지는 못합니다.</li>
+  <li><strong>App Store 샌드박스 앱:</strong> 설치와 삭제가 깔끔하며, 드라이버 관련 보안 알림이나 재시동이 필요 없습니다.</li>
+  <li><strong>macOS 업데이트에 강함:</strong> 오디오 서브시스템을 수정하지 않으므로 OS 업데이트 후 작동이 멈출 가능성이 낮습니다.</li>
+  <li><strong>단순함:</strong> 앱별 슬라이더, 프로필, 오토 덕킹만 있으면 됩니다. 라우팅 다이어그램을 구성할 필요가 없습니다.</li>
+</ul>
+
+<h2>어떤 것을 선택해야 할까?</h2>
+
+<p>본인에게 실제로 필요한 것이 무엇인지 솔직하게 따져보세요.</p>
+
+<ul>
+  <li>특정 앱을 특정 물리적 출력으로 보내야 하거나(예: 게임은 헤드폰으로, 음악은 스피커로 동시에), 개별 앱의 오디오 스트림을 녹음하거나, 앱별 이펙트와 EQ를 적용해야 한다면 <strong>가상 오디오 드라이버</strong>를 선택하세요. 이 경우 Loopback이나 SoundSource가 최선의 선택입니다.</li>
+  <li>앱별 볼륨 제어, 앱별 음소거, 100% 이상 부스트, 볼륨 프로필, 오토 덕킹이 필요하면서도 드라이버 설치의 복잡함과 불안정성은 피하고 싶다면 <strong><a href="https://apps.apple.com/app/sounddial/id6772792641">SoundDial</a></strong>을 선택하세요. 대부분의 사람들이 실제로 필요로 하는 것은 이 정도입니다.</li>
+</ul>
+
+<p>"앱별 볼륨 제어"를 검색하는 대부분의 사람들이 원하는 것은 두 번째 옵션입니다. 통화 중에는 Spotify를 조용히 하고 싶고, 게임보다 Discord를 더 크게 듣고 싶을 뿐입니다. 이런 요구에는 가상 오디오 장치가 필요하지 않습니다 — 필요한 것은 앱별 볼륨 슬라이더뿐이며, 이는 오디오 서브시스템을 건드리지 않고도 SoundDial이 정확히 제공하는 것입니다.</p>
+
+<p><a href="https://apps.apple.com/app/sounddial/id6772792641">Mac App Store에서 SoundDial 받기</a> — €14.99 일회성 구매, 구독 없음, macOS 14.2 이상.</p>
+`,
   },
 };
