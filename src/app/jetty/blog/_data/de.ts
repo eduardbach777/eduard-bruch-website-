@@ -1,3 +1,867 @@
 import type { ArticleSet } from "./index";
 
-export const deArticles: ArticleSet = {};
+export const deArticles: ArticleSet = {
+  "too-many-apps-mac-dock": {
+    slug: "too-many-apps-mac-dock",
+    title: "Zu viele Apps im Mac-Dock? So räumst du auf",
+    description: "Dein Mac-Dock ist zu einer endlosen Reihe von Symbolen angewachsen, die du kaum noch auseinanderhalten kannst. Die App zu finden, die du brauchst, dauert länger als nötig, und jedes Entfernen fühlt sich riskant an.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Es beginnt ganz harmlos. Du installierst eine neue App, und sie bleibt im Dock. Dann noch eine. Ein paar Monate später starrst du auf über 30 winzige Symbole, die sich am unteren Bildschirmrand drängen, und musst die Augen zusammenkneifen, um Slack von Discord von Nachrichten zu unterscheiden. Das Dock sollte das Starten von Apps eigentlich beschleunigen. Stattdessen ist es zu einer Krimskrams-Schublade geworden.</p>
+
+<p>Du weißt, dass du aufräumen solltest, aber jedes Mal, wenn du es versuchst, hast du Angst, etwas zu entfernen, das du später brauchst. Also ändert sich nichts.</p>
+
+<h2>Warum das Mac-Dock so unübersichtlich wird</h2>
+
+<p>Das Dock ist eine flache Liste. Jede App steht auf derselben Ebene, egal ob du sie zehnmal am Tag oder einmal im Monat benutzt. Es gibt keine Kategorien, keine Gruppierung, keinen Kontext. Ein Design-Tool steht neben einem Taschenrechner, der neben einem Spiel steht, das du einmal gespielt hast. macOS bietet keine integrierte Möglichkeit, Dock-Symbole zu sinnvollen Gruppen zusammenzufassen.</p>
+
+<p>Du kannst über Terminal-Befehle Abstandshalter einfügen, aber die sind anfällig und mühsam zu pflegen. Du kannst Apps entfernen und dich auf Spotlight verlassen, verlierst dabei aber den visuellen Schnellstart, der das Dock überhaupt erst nützlich macht. Keine der beiden Optionen löst das Problem wirklich.</p>
+
+<h2>Ein aufgeräumterer Ansatz: gruppierte Panels</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> holt deine App-Verknüpfungen aus dem Dock und bringt sie in organisierte Panels, die in der Menüleiste leben. Du erstellst benannte Panels — „Design“, „Kommunikation“, „Entwickler-Tools“ — und ziehst die Apps, die zusammengehören, per Drag-and-drop in das jeweilige Panel. Dein Dock schrumpft auf das Wesentliche (oder verschwindet ganz), während jede App trotzdem nur einen Klick entfernt bleibt.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Menüleisten-Panels ersetzen ein überfülltes Mac-Dock" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Reduzieren, ohne den Zugriff zu verlieren</h3>
+<p>Entferne Apps aus dem Dock, ohne dir Sorgen zu machen. Alles lebt in einem Jetty-Panel, kategorisiert und leicht zu finden. Dein Dock schrumpft von 30 Symbolen auf 5, und du kannst trotzdem jede App mit zwei Klicks starten.</p>
+
+<h3>Nach Zweck gruppieren, nicht nach Alphabet</h3>
+<p>Packe Figma, Sketch und Vorschau in ein „Design“-Panel. Packe Slack, Zoom und Mail in „Kommunikation“. Die Gruppierung entspricht deiner Denkweise, nicht der Sortierung von macOS.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "launch-apps-faster-mac": {
+    slug: "launch-apps-faster-mac",
+    title: "Apps auf dem Mac schneller starten – ganz ohne Spotlight",
+    description: "Die Spotlight-Suche ist mächtig, aber für den täglichen App-Start umständlich. Jedes Mal den Namen einzutippen, um etwas zu öffnen, das du sowieso jeden Tag brauchst, fühlt sich nach unnötigem Aufwand an.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Spotlight ist großartig, um obskure Dateien zu finden oder schnelle Berechnungen zu machen. Aber um dieselben 15 Apps zu starten, die du jeden Tag benutzt, ist Cmd+Leertaste drücken, einen Namen eintippen, auf Ergebnisse warten und Enter drücken langsamer, als es sein müsste. Es ist ein Suchwerkzeug, kein Launcher — und bei Routineaufgaben bremst Suchen eher aus.</p>
+
+<p>Du solltest „Figma“ nicht zum hundertsten Mal in dieser Woche eintippen müssen, nur um es zu öffnen.</p>
+
+<h2>Warum Spotlight für den täglichen App-Start nicht ideal ist</h2>
+
+<p>Spotlight indexiert dein gesamtes System. Tippst du „No“ ein, schlägt es dir vielleicht Notizen, Notion, Nova, eine Datei namens „November-Report“ oder einen Kontakt namens Noah vor — bevor es dir die App zeigt, die du eigentlich wolltest. Das Ranking ändert sich je nach Aktualität und Relevanz, sodass dieselbe Eingabe nicht immer zum gleichen Ergebnis führt. Bei Apps, die du reflexartig öffnest, bremst dich diese Unberechenbarkeit aus.</p>
+
+<p>Das Dock löst das für eine Handvoll Apps, skaliert aber, wie an anderer Stelle beschrieben, nicht gut. Launchpad zeigt alles alphabetisch ohne Gruppierung. Keines von beiden gibt dir schnellen, organisierten, visuellen Zugriff auf deine tatsächlich genutzten Apps.</p>
+
+<h2>Visueller Start aus der Menüleiste</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> bringt deine meistgenutzten Apps in organisierte Panels, die über die Menüleiste erreichbar sind. Kein Tippen, kein Suchen, kein Scrollen durch alphabetische Raster. Klick auf das Menüleisten-Symbol, sieh deine Panels, klick auf die App. Zwei Klicks, null Tastenanschläge.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty startet Apps aus organisierten Menüleisten-Panels" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Muskelgedächtnis statt Suche</h3>
+<p>Da deine Panels immer in derselben Reihenfolge bleiben und deine Apps innerhalb jedes Panels an derselben Position stehen, entwickelst du ein räumliches Gedächtnis. Nach ein, zwei Tagen wird das Starten jeder App zur Routine — du weißt genau, wo sie ist, ohne Beschriftungen lesen zu müssen.</p>
+
+<h3>Schneller als tastaturbasierte Launcher für visuelle Denker</h3>
+<p>Nicht jeder denkt in Text. Wenn du dir eine App eher am Symbol als am Namen merkst, schlägt ein visuelles Raster eine Textsuche jedes Mal. Jetty gibt dir genau dieses Raster, organisiert nach deinen Vorstellungen.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "organize-mac-apps-by-project": {
+    slug: "organize-mac-apps-by-project",
+    title: "Mac-Apps nach Projekt oder Workflow organisieren",
+    description: "Unterschiedliche Projekte brauchen unterschiedliche App-Zusammenstellungen, aber macOS wirft alles in eine große Liste. Ein Kontextwechsel bedeutet jedes Mal, die richtigen Werkzeuge neu zusammenzusuchen.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Wenn du an einem Videoprojekt arbeitest, brauchst du Final Cut, Motion, Compressor und vielleicht ein Tool zur Farbkorrektur. Wechselst du zum Schreiben, sind es Ulysses, Safari für die Recherche und eine Notiz-App. Gehst du zum Programmieren über, sind es VS Code, Terminal, ein Datenbank-Browser und ein Git-Client. Jeder Workflow hat sein eigenes Werkzeug-Set — aber macOS kennt dieses Konzept nicht.</p>
+
+<p>Jedes Mal, wenn du das Projekt wechselst, setzt du die passende Gruppe von Apps gedanklich neu aus einer flachen, undifferenzierten Liste zusammen.</p>
+
+<h2>macOS versteht Workflows nicht</h2>
+
+<p>Dock, Launchpad und Spotlight behandeln deine Apps allesamt als eine einzige Sammlung. Es gibt keine Möglichkeit zu sagen: „Diese fünf Apps gehören zu meiner Videoarbeit“ oder „Diese drei sind für die Kommunikation mit Kunden.“ Du kannst in Launchpad Ordner anlegen, aber die stecken hinter einem zusätzlichen Klick und sind auf ein Raster beschränkt, das sich zurücksetzt, sobald du etwas umsortierst.</p>
+
+<p>Manche nutzen für jedes Projekt einen eigenen Schreibtisch (Spaces), aber Spaces organisieren Fenster, keine Launcher. Ist eine App noch nicht geöffnet, hilft dir Spaces nicht dabei, sie schneller zu finden und zu starten.</p>
+
+<h2>Projektbasierte Panels</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> lässt dich benannte Panels erstellen, die genau auf deine Workflows zugeschnitten sind. Jedes Panel enthält die Apps, Ordner und Dateien, die zu einem bestimmten Projekt oder Aufgabentyp gehören. Du baust das Panel einmal auf, und es ist immer bereit, wenn du den Kontext wechselst.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels organisiert nach Projekt-Workflow auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Beispiel: freiberuflicher Designer</h3>
+<p>Erstelle ein „Kundenprojekte“-Panel mit Figma, Slack, Invoice Ninja und dem gemeinsamen Ordner deines Kunden. Ein „Privat“-Panel mit den Tools für dein Nebenprojekt. Ein „Verwaltung“-Panel mit Kalender, Mail und Buchhaltungssoftware. Jedes Panel ist nur einen Klick von der Menüleiste entfernt.</p>
+
+<h3>Beispiel: Entwickler</h3>
+<p>Ein „Backend“-Panel mit VS Code, Terminal, Postico und Docker. Ein „Frontend“-Panel mit einem Browser, DevTools-Lesezeichen und Figma zum Nachschlagen. Der Wechsel zwischen Backend- und Frontend-Arbeit ist jetzt ein Panel-Wechsel, keine App-Suche mehr.</p>
+
+<h3>Dateien und Ordner, nicht nur Apps</h3>
+<p>Jetty-Panels können auch Ordner und Dateien enthalten. Leg dein Projektverzeichnis direkt neben die Apps, die du dafür nutzt, ins Panel. Alles für einen Workflow, an einem Ort.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-dock-alternatives": {
+    slug: "mac-dock-alternatives",
+    title: "Die besten Alternativen zum Mac-Dock für den App-Start",
+    description: "Das eingebaute Dock hat sich seit Jahren kaum verändert. Wenn es nicht zu deiner Arbeitsweise passt, gibt es bessere Wege, deine Apps zu organisieren und zu starten.",
+    date: "2026-09-06",
+    readTime: "5 Min. Lesezeit",
+    content: `
+<p>Das macOS-Dock sieht seit OS X ungefähr gleich aus und funktioniert auch so. Es ist eine einzelne horizontale (oder vertikale) Symbolleiste mit begrenzten Organisationsmöglichkeiten. Für manche reicht das völlig aus. Wer aber Dutzende Apps nutzt, an mehreren Projekten gleichzeitig arbeitet oder einfach mehr Kontrolle darüber haben möchte, wie Apps gestartet werden, empfindet das Dock zunehmend als Einschränkung statt als Feature.</p>
+
+<h2>Was am Dock nicht stimmt</h2>
+
+<p>Die Kernprobleme sind struktureller Natur:</p>
+<ul>
+  <li><strong>Flache Liste</strong> — keine Gruppierung, keine Kategorien, keine Hierarchie</li>
+  <li><strong>Feste Position</strong> — entweder immer sichtbar (kostet Bildschirmplatz) oder automatisch ausgeblendet (kostet Zeit)</li>
+  <li><strong>Skaliert schlecht</strong> — mehr Apps bedeuten kleinere Symbole oder ein breiteres Dock</li>
+  <li><strong>Kein Kontext</strong> — dasselbe Dock, egal ob du programmierst, designst oder schreibst</li>
+</ul>
+
+<p>Das sind keine Fehler — das sind Design-Entscheidungen. Das Dock soll einfach sein. Aber einfach und eingeschränkt sind zwei verschiedene Dinge.</p>
+
+<h2>Gängige Alternativen</h2>
+
+<p><strong>Spotlight / Raycast / Alfred</strong> — tastaturgesteuerte Launcher. Hervorragend, wenn du in Text denkst und dir App-Namen merkst. Weniger nützlich für visuelle Denker oder wenn du deine Optionen auf einen Blick sehen willst.</p>
+
+<p><strong>Launchpad</strong> — ein Vollbild-Raster mit jeder installierten App. Gut zum Entdecken, schlecht für den täglichen Start. Zu viele Symbole, keine sinnvolle Organisation, und es nimmt den gesamten Bildschirm ein.</p>
+
+<p><strong>Stapel im Dock</strong> — du kannst der rechten Seite des Docks Ordner hinzufügen, die sich zu Rastern oder Listen aufklappen. Aber sie sind auf Ordner beschränkt, nicht auf beliebige App-Gruppierungen, und die Fächer-/Rasteransicht ist umständlich.</p>
+
+<h2>Panelbasierter Start mit Jetty</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> verfolgt einen anderen Ansatz. Statt einer Liste oder einer Suchleiste bekommst du mehrere benannte Panels in der Menüleiste. Jedes Panel enthält eine kuratierte Auswahl an Apps, Ordnern und Dateien, die du per Drag-and-drop organisierst.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty als Alternative zum Mac-Dock mit gruppierten Panels" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Visuell, aber organisiert</h3>
+<p>Anders als bei Spotlight siehst du Symbole — kein Tippen nötig. Anders als beim Dock sind sie sinnvoll gruppiert. Anders als bei Launchpad siehst du nur das, was du selbst ausgewählt hast.</p>
+
+<h3>Ergänzt, statt zu ersetzen</h3>
+<p>Du musst das Dock nicht komplett aufgeben. Viele behalten ein minimales Dock (Finder, ein Browser, vielleicht ein paar tägliche Essentials) und packen alles andere in Jetty-Panels. Die beiden ergänzen sich gut.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "hide-mac-dock-still-launch-apps": {
+    slug: "hide-mac-dock-still-launch-apps",
+    title: "Das Mac-Dock ausblenden und trotzdem Apps schnell starten",
+    description: "Das Ausblenden des Docks verschafft dir mehr Bildschirmplatz, versteckt aber auch deine App-Verknüpfungen. Um sie zurückzuholen, musst du am unteren Rand warten, bis die Animation abgeschlossen ist.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Wer schon einmal auf einem 13-Zoll-MacBook gearbeitet hat, weiß, wie viel vertikalen Platz das Dock beansprucht. Blendest du es aus (Systemeinstellungen > Schreibtisch & Dock > Dock automatisch ein-/ausblenden), bekommst du diese Pixel zurück. Aber jetzt musst du jedes Mal, wenn du eine App starten willst, den Mauszeiger an den Bildschirmrand bewegen, auf die Einblend-Animation warten, das Symbol finden und klicken. Die Verzögerung ist klein, aber ständig da, und sie summiert sich.</p>
+
+<p>Du willst den Bildschirmplatz eines ausgeblendeten Docks – aber den schnellen Zugriff eines sichtbaren.</p>
+
+<h2>Der Kompromiss beim automatischen Ausblenden</h2>
+
+<p>Das automatische Ausblenden des macOS-Docks hat eine bewusst eingebaute Verzögerung, bevor es erscheint — standardmäßig etwa 0,5 Sekunden. Mit einem Terminal-Befehl kannst du das reduzieren, aber nicht ganz eliminieren. Und selbst in der schnellsten Einstellung braucht die Animation selbst noch Zeit. Multipliziere das mit den Dutzenden Malen, die du täglich Apps startest oder wechselst, und die Reibung wird real spürbar.</p>
+
+<p>Manche akzeptieren diesen Kompromiss. Andere lassen das Dock sichtbar und verzichten auf den Bildschirmplatz. Keine der beiden Optionen ist wirklich gut.</p>
+
+<h2>Den App-Start in die Menüleiste verlagern</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> bringt deine App-Verknüpfungen in die Menüleiste, die immer sichtbar ist. Keine Warterei, keine Animation. Klick auf das Jetty-Symbol, sieh deine Panels, klick auf das, was du brauchst. Das Dock kann dauerhaft ausgeblendet bleiben, weil du es nicht mehr brauchst.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Menüleisten-Launcher bei ausgeblendetem Mac-Dock" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Voller Bildschirmplatz, keine Verzögerung</h3>
+<p>Mit ausgeblendetem Dock und Jetty in der Menüleiste bekommst du maximalen vertikalen Bildschirmplatz und sofortigen Zugriff auf jede App, die dir wichtig ist. Die Menüleiste ist immer da — sie kostet dich nichts extra.</p>
+
+<h3>Funktioniert besonders gut auf Laptops</h3>
+<p>Auf einem MacBook Air oder 14-Zoll-MacBook Pro zählt jedes Pixel. Das Dock auszublenden und Jetty zu nutzen, gibt dir einen aufgeräumteren Arbeitsbereich, ohne bei der Startgeschwindigkeit Abstriche zu machen. Auch Nutzer externer Displays profitieren — kein Dock, das zwischen Bildschirmen aufblitzt, wenn du den Mauszeiger an den unteren Rand bewegst.</p>
+
+<h3>Schrittweiser Umstieg</h3>
+<p>Du musst nicht von heute auf morgen umsteigen. Richte deine Jetty-Panels mit deinen meistgenutzten Apps ein, blende das Dock aus und probiere es einen Tag lang. Wenn dir das Dock fehlt, ist es nur einen Schalter entfernt. Die meisten kehren nicht mehr zurück.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "switch-between-app-groups-mac": {
+    slug: "switch-between-app-groups-mac",
+    title: "App-Gruppen auf dem Mac schnell wechseln",
+    description: "Du nutzt für verschiedene Aufgaben unterschiedliche Apps, aber macOS zwingt dich, alle gleichzeitig zu jonglieren. Ein Kontextwechsel bedeutet, sich gedanklich durch alles durchzufiltern.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Du steckst tief in einer Design-Session — Figma, ein Browser mit Referenzen, vielleicht ein Farbwerkzeug. Dann kommt eine Nachricht rein, und du musst zu E-Mail, Slack und einem Projektmanagement-Tool springen. Zwanzig Minuten später bist du wieder beim Design, aber dein Bildschirm ist ein Chaos aus Fenstern, und du weißt nicht mehr, welche Figma-Datei aktiv war. Kommt dir das bekannt vor?</p>
+
+<p>Das Problem sind nicht die Apps. Das Problem ist, dass macOS nicht versteht, dass bestimmte Apps zusammengehören.</p>
+
+<h2>Was macOS bietet (und warum es nicht ausreicht)</h2>
+
+<p><strong>Cmd+Tab</strong> zeigt jede geöffnete App in einer einzigen Reihe, sortiert nach Aktualität. Es unterscheidet nicht zwischen deinen Design-Tools und deinen Kommunikations-Tools. Alles ist durcheinandergemischt.</p>
+
+<p><strong>Mission Control / Spaces</strong> lässt dich Fenster über virtuelle Schreibtische verteilen. Das hilft bei der Fensterverwaltung, aber nicht beim Starten von Apps. Hast du deine Design-Apps noch nicht geöffnet, hilft dir Spaces nicht, sie zu finden.</p>
+
+<p><strong>Stage Manager</strong> gruppiert Fenster, aber die Gruppen entstehen automatisch und liegen oft daneben. Es entscheidet anhand der Aktualität, was zusammengehört, nicht anhand deiner Absicht.</p>
+
+<h2>Benannte Gruppen, die du selbst festlegst</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> gibt dir benannte Panels, die als App-Gruppen fungieren. Du legst fest, was zusammengehört, und diese Gruppen bleiben bestehen. Der Wechsel zwischen ihnen ist ein Klick in der Menüleiste — keine Suche über Cmd+Tab, kein Wischen durch Spaces.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels zum Wechseln zwischen App-Gruppen auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Kontextwechsel wird explizit</h3>
+<p>Wenn du von „Design“ zu „Kommunikation“ wechselst, siehst du genau die Apps, die zu diesem Kontext gehören. Kein Durchsuchen von 15 Cmd+Tab-Symbolen, um Slack zu finden. Kein Wischen zwischen Spaces, um sich zu erinnern, welcher Schreibtisch was enthält.</p>
+
+<h3>Ganze Workflows starten</h3>
+<p>Panels sind nicht nur für Apps gedacht, die schon geöffnet sind. Klicke auf eine App in einem Panel, und sie startet, falls sie noch nicht läuft. Ein Panel wird so zu einem Ein-Klick-Startpunkt für einen ganzen Workflow — öffne dein „Dev“-Panel und starte VS Code, Terminal und einen Browser kurz hintereinander.</p>
+
+<h3>Stabil über Neustarts hinweg</h3>
+<p>Deine Panels und ihre Inhalte bleiben erhalten. Starte deinen Mac neu, und deine Gruppen sind genau da, wo du sie verlassen hast. Keine Neukonfiguration, kein erneutes Ziehen von Symbolen.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-dock-too-small-too-big": {
+    slug: "mac-dock-too-small-too-big",
+    title: "Mac-Dock zu klein oder zu groß? Ein besserer Ansatz",
+    description: "Ein größeres Dock frisst deinen Bildschirm. Ein kleineres macht Symbole ununterscheidbar. Bei vielen Apps funktioniert keines der beiden Extreme gut.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Du hast 25 Apps in deinem Dock. In Standardgröße zieht es sich über den Großteil deines Bildschirms. Du ziehst den Größenregler runter — jetzt sind die Symbole so klein, dass du sie ohne Zusammenkneifen der Augen oder Warten auf Tooltips nicht mehr unterscheiden kannst. Du ziehst ihn wieder hoch — jetzt nimmt das Dock ein Drittel deiner Bildschirmbreite ein, und die Symbole hüpfen bei aktivierter Vergrößerung wild herum.</p>
+
+<p>Das Größenproblem des Docks liegt nicht am Regler. Es liegt an der Architektur: eine einzige Symbolreihe, die alles auf einmal zeigen muss.</p>
+
+<h2>Das Skalierungsproblem</h2>
+
+<p>Das Dock wurde für eine Handvoll Apps entworfen. Als Mac-Nutzer noch 8-10 Apps angeheftet hatten, funktionierte die Größenlogik gut. Aber moderne Workflows umfassen Dutzende Tools. Das einreihige Design erzwingt einen Kompromiss zwischen Lesbarkeit der Symbole und Bildschirmplatz, der mit jeder weiteren App schlechter wird.</p>
+
+<p>macOS bietet eine Vergrößerungsfunktion (Symbole wachsen, wenn du mit der Maus darüberfährst), aber das lässt das Dock ständig hin- und herwackeln und sich neu ausrichten, wodurch es schwerer wird, das richtige Symbol zu treffen. Es löst das „zu klein“-Problem, indem es ein „zu unruhig“-Problem schafft.</p>
+
+<h2>Nicht mehr skalieren, sondern organisieren</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> umgeht das Größenproblem komplett. Statt alles in eine Reihe zu quetschen und mit dem Größenregler zu kämpfen, verteilst du deine Apps auf mehrere Panels in der Menüleiste. Jedes Panel zeigt eine überschaubare Anzahl an Symbolen in angenehmer Größe.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels als Alternative zum Verändern der Mac-Dock-Größe" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Angenehme Symbolgrößen</h3>
+<p>Mit 6-8 Apps pro Panel statt 25 in einer Reihe ist jedes Symbol groß genug, um es sofort zu erkennen. Keine Vergrößerung nötig, kein Zusammenkneifen der Augen, kein Rätselraten.</p>
+
+<h3>Minimales Dock, maximaler Zugriff</h3>
+<p>Halte dein Dock klein mit nur den 3-4 Apps, die du ständig benutzt (Finder, ein Browser, vielleicht deine wichtigste Arbeits-App). Alles andere kommt in Jetty-Panels. Das Dock bleibt klein und aufgeräumt. Du behältst vollen Zugriff auf alles.</p>
+
+<h3>Kein verschwendeter Bildschirmplatz</h3>
+<p>Jetty-Panels erscheinen nur, wenn du auf das Menüleisten-Symbol klickst. Die restliche Zeit beanspruchen sie null Bildschirmplatz. Vergleiche das mit einem großen Dock, das dauerhaft deinen Arbeitsbereich frisst, oder einem automatisch ausgeblendeten Dock, das bei jedem Bedarf Verzögerung hinzufügt.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "launch-folders-files-from-menu-bar-mac": {
+    slug: "launch-folders-files-from-menu-bar-mac",
+    title: "Ordner und Dateien vom Mac-Menüleiste aus starten",
+    description: "Denselben Projektordner oder dasselbe Dokument jeden Tag zu öffnen, bedeutet, sich jedes Mal durch den Finder zu klicken. Es gibt keine eingebaute Möglichkeit, bestimmte Dateien an einer Schnellzugriffsstelle zu fixieren.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Jeden Morgen öffnest du den Finder, navigierst zu deinem Projektordner, öffnest dann eine bestimmte Tabelle, navigierst dann zu einem anderen Ordner für Referenzdateien. Oder du wühlst dich durch dein Dokumente-Verzeichnis nach dem einen PDF, das du jeden Tag brauchst. Der Finder eignet sich gut zum Stöbern, aber für Dinge, auf die du wiederholt zugreifst, ist der Navigationsweg verschwendete Zeit.</p>
+
+<p>macOS erlaubt es, Ordner auf der rechten Seite des Docks abzulegen, und du kannst Dateien zur Finder-Seitenleiste hinzufügen. Aber keines von beidem ist eine saubere, organisierte Schnellzugriffslösung für eine Mischung aus Apps, Ordnern und Dateien.</p>
+
+<h2>Die Grenzen von Dock-Ordnern und Finder-Seitenleiste</h2>
+
+<p><strong>Dock-Ordner</strong> klappen sich zu einer Fächer- oder Rasteransicht auf, die jedes Element im Ordner zeigt — nicht nur die, die dich interessieren. Du kannst Apps und Dateien nicht im selben Dock-Ordner mischen. Und die Rasteransicht wird unübersichtlich, sobald Ordner viele Elemente enthalten.</p>
+
+<p><strong>Die Finder-Seitenleiste</strong> funktioniert nur, wenn der Finder aktiv ist. Bist du in einer anderen App und musst einen bestimmten Ordner öffnen, musst du erst zum Finder wechseln (oder ein neues Finder-Fenster öffnen) und dann auf das Seitenleisten-Element klicken. Das ist jedes Mal ein zusätzlicher Schritt.</p>
+
+<p><strong>Desktop-Aliasse</strong> funktionieren, überladen aber deinen Schreibtisch. Und wenn du einen aufgeräumten Schreibtisch pflegst (oder Stage Manager nutzt), sind sie sowieso hinter deinen Fenstern versteckt.</p>
+
+<h2>Apps, Ordner und Dateien an einem Ort mischen</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> lässt dich Apps, Ordner und einzelne Dateien in dasselbe Panel ziehen. Ein einziges „Morgenroutine“-Panel könnte deine E-Mail-App, deinen Projektordner, die tägliche Report-Tabelle und ein Referenz-PDF enthalten. Alles, was du für den Start in den Tag brauchst, mit einem Klick aus der Menüleiste erreichbar.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panel mit Apps, Ordnern und Dateien in der Mac-Menüleiste" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Projektordner direkt neben ihren Tools</h3>
+<p>Leg deinen „Kunde X“-Ordner direkt neben Figma und Slack in ein Kunden-Panel. Arbeitest du an diesem Kundenprojekt, ist alles zusammen — die Tools und die Dateien.</p>
+
+<h3>Schneller Zugriff auf tief verschachtelte Dateien</h3>
+<p>Diese Tabelle, die fünf Ebenen tief in deinem Dokumente-Ordner vergraben ist? Zieh sie einmal in ein Jetty-Panel. Von da an ist sie nur noch einen Klick in der Menüleiste entfernt, ohne Navigation im Finder.</p>
+
+<h3>Immer verfügbar</h3>
+<p>Anders als Elemente in der Finder-Seitenleiste funktionieren Jetty-Panels aus jeder App heraus. Du musst nicht den Kontext wechseln, um auf eine Datei zuzugreifen — klick einfach auf das Menüleisten-Symbol.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-launchpad-too-slow": {
+    slug: "mac-launchpad-too-slow",
+    title: "Mac-Launchpad zu langsam? Schnellere Wege, Apps zu öffnen",
+    description: "Launchpad zeigt jede installierte App in einem Vollbild-Raster ohne sinnvolle Organisation. Das Gesuchte zu finden bedeutet, sich durch Seiten voller Symbole zu wischen, die du nie benutzt.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Launchpad sieht in Apple-Demos gut aus. In der Praxis ist es eine bildschirmfüllende Wand aus jeder App, die auf deinem Mac installiert ist — standardmäßig alphabetisch sortiert, verteilt über mehrere Seiten, mit Apps, die du nie geöffnet hast, direkt neben Apps, die du stündlich benutzt. Etwas zu finden bedeutet entweder, sich durch Seiten zu wischen, oder die Suchleiste oben zu benutzen (und dann könntest du auch gleich Spotlight verwenden).</p>
+
+<p>Für die gelegentliche App, die du sonst nirgends findest, funktioniert Launchpad. Als täglicher Launcher ist es zu langsam und zu unübersichtlich.</p>
+
+<h2>Warum sich Launchpad langsam anfühlt</h2>
+
+<p>Drei Dinge summieren sich:</p>
+<ul>
+  <li><strong>Vollbild-Übernahme</strong> — die Aktivierung von Launchpad deckt deinen gesamten Arbeitsbereich ab. Du verlierst den visuellen Kontext dessen, was du gerade gemacht hast. Nach dem Start einer App bist du kurz orientierungslos.</li>
+  <li><strong>Keine sinnvolle Organisation</strong> — alphabetische Reihenfolge spiegelt nicht wider, wie du arbeitest. Du kannst Ordner erstellen, aber die sind begrenzt: kleine Symbolraster, keine sichtbaren Namen, bis du den Ordner öffnest, und sie setzen sich zurück, wenn du etwas umsortierst.</li>
+  <li><strong>Zu viele Symbole</strong> — Launchpad zeigt Systemprogramme, Hilfs-Apps und Tools, die du vergessen hast zu installieren. Das Verhältnis von Nutzen zu Rauschen ist miserabel.</li>
+</ul>
+
+<p>Das Ergebnis: Die meisten Power-User nutzen Launchpad irgendwann gar nicht mehr und greifen stattdessen auf Spotlight oder das Dock zurück — jeweils mit ihren eigenen Einschränkungen.</p>
+
+<h2>Ein kuratierter Launcher</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> zeigt nur die Apps, die du selbst ausgewählt hast, organisiert nach deinen Vorstellungen. Es öffnet sich in einem kompakten Panel über deinem aktuellen Arbeitsbereich — keine Vollbild-Übernahme, kein Kontextverlust. Du siehst, was du brauchst, und sonst nichts.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty kompaktes Panel im Vergleich zum Vollbild-Launchpad" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Signal statt Rauschen</h3>
+<p>Nutzt du aktiv 20 Apps, solltest du 20 Apps sehen — nicht 80. Jetty-Panels enthalten genau das, was du hineingelegt hast. Keine Systemprogramme, die die Ansicht überfüllen, keine Apps, die du einmal installiert und dann vergessen hast.</p>
+
+<h3>Kein Kontextverlust</h3>
+<p>Jetty öffnet sich als Dropdown aus der Menüleiste. Dein aktueller Arbeitsbereich bleibt dahinter sichtbar. Starte eine App, und du bist sofort wieder da, wo du warst — kein Vollbildübergang, keine erneute Orientierung.</p>
+
+<h3>Von Anfang an organisiert</h3>
+<p>Zieh deine Apps in benannte Panels, und sie bleiben dort. Kein Kampf mit dem Ordnersystem von Launchpad, keine Apps, die nach einem Update auf eine andere Seite springen. Dein Layout gehört dir und bleibt so, wie du es willst.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "reduce-mac-dock-clutter-workflow": {
+    slug: "reduce-mac-dock-clutter-workflow",
+    title: "Mac-Dock-Chaos reduzieren mit workflow-basierten Panels",
+    description: "Ein überfülltes Dock bremst dich aus, aber Apps zu entfernen bedeutet, den schnellen Zugriff zu verlieren. Die eigentliche Lösung sind nicht weniger Apps — sondern bessere Organisation.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Die meisten Tipps gegen Dock-Chaos laufen auf „entferne Apps, die du nicht benutzt“ hinaus. Das hilft für eine Woche, bis du neue Apps hinzufügst und das Chaos zurückkehrt. Das Problem ist nicht, dass du zu viele Apps hast — es ist, dass das Dock keine Struktur hat. Jedes Symbol ist gleich präsent, egal ob du es gerade jetzt brauchst oder seit Tagen nicht angerührt hast.</p>
+
+<p>Was du brauchst, sind nicht weniger Verknüpfungen. Du brauchst Verknüpfungen, die im richtigen Kontext erscheinen.</p>
+
+<h2>Warum „aus dem Dock entfernen“ keine Lösung ist</h2>
+
+<p>Du entfernst 10 Apps aus dem Dock. Jetzt sind sie schwerer zu starten — du musst Spotlight, Launchpad oder den Finder benutzen, um sie zu erreichen. Eine Woche später heftest du ein paar davon wieder an, weil die zusätzlichen Schritte nerven. Einen Monat später bist du wieder bei einem überfüllten Dock. Der Kreislauf wiederholt sich.</p>
+
+<p>Das Design des Docks erzwingt eine Alles-oder-nichts-Entscheidung: Eine App ist entweder dauerhaft sichtbar oder faktisch versteckt. Es gibt keinen Mittelweg — kein „zeig mir diese App nur, wenn ich gerade Design-Arbeit mache“.</p>
+
+<h2>Workflow-basierte Panels</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> bringt genau diesen Mittelweg. Statt einer flachen Liste mit allem erstellst du Panels, die deiner tatsächlichen Arbeitsweise entsprechen. Jedes Panel ist eine kuratierte Sammlung von Apps (sowie Ordnern und Dateien) für einen bestimmten Kontext.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Workflow-Panels reduzieren das Mac-Dock-Chaos" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Beispiel-Setup</h3>
+<ul>
+  <li><strong>Kreativ</strong> — Figma, Photoshop, Illustrator, dein Assets-Ordner</li>
+  <li><strong>Dev</strong> — VS Code, Terminal, GitHub Desktop, Lesezeichen für localhost</li>
+  <li><strong>Kommunikation</strong> — Slack, Zoom, Mail, Kalender</li>
+  <li><strong>Medien</strong> — Spotify, Fotos, QuickTime, ein Downloads-Ordner</li>
+  <li><strong>Dienstprogramme</strong> — Aktivitätsanzeige, Festplattendienstprogramm, System-Tools, die du gelegentlich brauchst</li>
+</ul>
+
+<p>Fünf Panels mit je 4-6 Elementen. Das sind 20-30 organisierte und zugängliche Apps, während dein Dock bei 3-5 essenziellen Symbolen bleibt.</p>
+
+<h3>Chaossicher per Design</h3>
+<p>Installierst du eine neue App, fügst du sie dem passenden Panel hinzu — nicht einem wachsenden Streifen am unteren Bildschirmrand. Das Dock wächst nicht. Jedes Panel bleibt fokussiert. Die Organisation skaliert mit deiner App-Sammlung, statt zusammenzubrechen.</p>
+
+<h3>Einrichtung per Drag-and-drop</h3>
+<p>Panels aufzubauen dauert ein paar Minuten. Zieh Apps aus dem Finder oder deinem Programme-Ordner ins Panel. Ordne sie so, wie es für dich Sinn ergibt. Fertig. Keine Terminal-Befehle, keine plist-Bearbeitung, keine Konfigurationsdateien.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "app-launcher-mac-menu-bar": {
+    slug: "app-launcher-mac-menu-bar",
+    title: "App-Launcher für den Mac, der in der Menüleiste lebt",
+    description: "Die meisten Mac-Launcher übernehmen entweder deinen ganzen Bildschirm oder zwingen dich zum Tippen. Es gibt eine leisere Option, die in der Ecke deines Displays sitzt und dir nicht im Weg ist, bis du sie brauchst.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Jeder App-Launcher auf macOS verlangt irgendetwas. Spotlight will, dass du tippst. Launchpad will deinen ganzen Bildschirm. Das Dock verlangt dauerhaften Platz am unteren Rand deines Displays, ob du es gerade nutzt oder nicht. Keiner von ihnen bleibt einfach ruhig, bis du wirklich etwas öffnen willst.</p>
+
+<p>Die Menüleiste dagegen ist schon da. Sie verdeckt nie deine Arbeit, verändert nie ihre Größe, verlangt nie Aufmerksamkeit. Sie ist der einzige Teil von macOS, der immer sichtbar und nie im Weg ist — was sie zu einem natürlichen Zuhause für einen Launcher macht, wenn ihn nur jemand so nutzen würde.</p>
+
+<h2>Die Menüleiste wird als Startpunkt kaum genutzt</h2>
+
+<p>Apple reserviert die Menüleiste für Statussymbole — WLAN, Akku, Lautstärke, Hintergrunddienste. Fast nichts dort ist dafür gebaut, aktiv Apps zu öffnen. Das ist eine verpasste Gelegenheit, denn die Menüleiste hat genau die Eigenschaften, die ein guter Launcher braucht: immer sichtbar, immer am selben Ort, null Bildschirmplatz, bis man klickt.</p>
+
+<p>Drittanbieter-Apps für die Menüleiste gibt es, aber die meisten sind auf einen einzigen Zweck beschränkt (ein Zwischenablage-Manager, ein WLAN-Umschalter). Nur wenige sind speziell dafür gebaut, deine Alltags-Apps zu enthalten und zu starten.</p>
+
+<h2>Ein Launcher, gebaut für die Menüleiste</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> ist ein App-Launcher, der um die Menüleiste herum konzipiert ist statt um das Dock oder eine Suchleiste. Klick auf das Menüleisten-Symbol, und ein Panel klappt herunter und zeigt die Apps, die du dort organisiert hast. Klick auf eine App, sie startet, das Panel schließt sich. Kein Tippen, keine Vollbild-Übernahme, kein dauerhafter Dock-Platz.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty App-Launcher als Dropdown aus der Mac-Menüleiste" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Kein Platzverbrauch im Leerlauf</h3>
+<p>Anders als das Dock beansprucht Jetty keinen Bildschirmplatz, wenn du es nicht benutzt. Es ist ein einziges kleines Symbol in der Menüleiste. Klick darauf, bekomm deine Apps. Klick woanders hin, und es verschwindet.</p>
+
+<h3>Mehrere Panels, ein Symbol</h3>
+<p>Du bist nicht auf eine einzige flache Liste beschränkt. Richte mehrere benannte Panels ein — ein Symbol in der Menüleiste, aber dahinter ein ganzes Set organisierter Startgruppen, jede mit den Apps, Ordnern oder Dateien, die du für zusammengehörig hältst.</p>
+
+<h3>Funktioniert auf jedem Mac gleich</h3>
+<p>Ob auf einem 13-Zoll-MacBook Air oder einem 32-Zoll-externen Display — die Menüleiste sitzt immer an derselben Stelle. Dein Launcher-Setup reist mit dir, ohne dass du es für unterschiedliche Bildschirmgrößen neu einrichten musst.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "best-app-organizer-mac": {
+    slug: "best-app-organizer-mac",
+    title: "Der beste App-Organizer für den Mac",
+    description: "Wenn du schon nach einem Weg gesucht hast, die Apps auf deinem Mac zu organisieren, bist du wahrscheinlich auf Ordner, Stapel und Drittanbieter-Launcher gestoßen, die alle auf ihre Art zu kurz greifen. Hier ist, was tatsächlich funktioniert.",
+    date: "2026-09-06",
+    readTime: "5 Min. Lesezeit",
+    content: `
+<p>„App-Organizer für Mac“ liefert viele Ergebnisse, aber die meisten davon lösen ein engeres Problem, als man erwarten würde. Manche sind Datei-Organizer, die nebenbei auch Apps anfassen. Manche sind Deinstallations-Tools. Ein paar sind echte Launcher, aber um Suche statt Organisation herum gebaut. Willst du wirklich eine Möglichkeit, deine Apps in selbst definierte Kategorien zu gruppieren, wird die Auswahl schnell dünn.</p>
+
+<h2>Was „Apps organisieren“ unter macOS normalerweise bedeutet</h2>
+
+<p>Von Haus aus bietet macOS drei Wege, Apps anzuordnen: den Programme-Ordner (alphabetisch, keine Gruppierung), Launchpad (ein Raster, in das du Ordner ziehen kannst, die aber flach sind und leicht aus dem Blick geraten) und das Dock (eine flache Leiste ganz ohne Kategorien). Keines davon lässt dich eine Struktur bauen, die widerspiegelt, wie du tatsächlich über deine Arbeit denkst — nach Projekt, nach Kunde, nach Aufgabentyp.</p>
+
+<p>Ordnerbasierte Drittanbieter-Tools können deinen Programme-Ordner aufräumen, aber das ändert nichts daran, wie du im Alltag Dinge startest. Dateien zu organisieren ist nicht dasselbe wie Zugriff zu organisieren.</p>
+
+<h2>Ein Organizer, aufgebaut um Panels</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> betrachtet das als Startproblem, nicht als Ablageproblem. Du erstellst benannte Panels in der Menüleiste — so viele wie du brauchst — und ziehst Apps, Ordner und Dateien in das Panel, zu dem sie gehören. Die Organisation liegt darin, wie du Dinge gruppierst, nicht darin, wo die Dateien auf der Festplatte liegen.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty App-Organizer mit benannten Panels auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Kategorien, die du festlegst, nicht die macOS annimmt</h3>
+<p>Es gibt keine vorgegebene Struktur, gegen die du ankämpfen musst. Wenn „Schreiben“, „Kunde A“ und „Spät-Nacht-Tools“ für dich Sinn ergeben, sind das gültige Panels. Der Organizer passt sich deinem Denkmodell an, statt dich in ein generisches zu zwingen.</p>
+
+<h3>Gemischte Inhalte, nicht nur Apps</h3>
+<p>Ein echter Organizer sollte mehr als nur App-Symbole verwalten können. Jetty-Panels akzeptieren Ordner und einzelne Dateien neben Apps, sodass die Tools eines Projekts und seine Arbeitsdateien zusammen liegen können.</p>
+
+<h3>Bleibt organisiert, ohne Pflegeaufwand</h3>
+<p>Ist ein Panel einmal eingerichtet, driftet es nicht auseinander. Neue Apps kommen in das Panel, das du wählst, dann, wenn du willst. Es gibt kein automatisches Neusortieren oder Zurücksetzen auf alphabetische Reihenfolge, wie es bei Launchpad-Ordnern manchmal passiert.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-dock-keeps-rearranging": {
+    slug: "mac-dock-keeps-rearranging",
+    title: "Mac-Dock sortiert sich ständig neu? So hörst du auf, dagegen anzukämpfen",
+    description: "Du verbringst fünf Minuten damit, die Dock-Symbole in eine logische Reihenfolge zu bringen, und eine Woche später sieht die Anordnung schon wieder anders aus. Geöffnete Apps springen nach vorn, geschlossene wandern umher, und das Layout bleibt nie so, wie du es verlassen hast.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Du ordnest dein Dock sorgfältig an — die meistgenutzten Apps links, die gelegentlichen rechts. Dann öffnest du eine App, die nicht angeheftet ist, und sie erscheint mitten in deinem sorgfältig sortierten Layout, während du sie benutzt, und verschwindet wieder, sobald du sie beendest. Angeheftete Symbole bleiben an ihrem Platz, aber die Mischung aus laufenden und nicht laufenden Apps sorgt dafür, dass das Dock nie ganz so aussieht, wie du es zuletzt eingerichtet hast.</p>
+
+<p>Für sich genommen ist das nur ein kleiner Ärger, aber es bedeutet, dass du dich nie vollständig auf dein Muskelgedächtnis verlassen kannst — die Position eines Symbols hängt davon ab, was gerade sonst noch geöffnet ist.</p>
+
+<h2>Warum sich das Dock so verhält</h2>
+
+<p>Das Dock mischt zwei unterschiedliche Dinge in einer Reihe: Apps, die du bewusst angeheftet hast, und Apps, die gerade laufen, aber nicht angeheftet sind. Die zweite Gruppe erscheint und verschwindet je nachdem, was gerade geöffnet ist, und verschiebt dabei alles rechts davon. Es gibt keine Einstellung, um „meine festen Verknüpfungen“ vollständig von „was auch immer gerade läuft“ zu trennen — beide teilen sich per Design dieselbe Leiste.</p>
+
+<h2>Ein Layout, das sich nie verschiebt</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> hält deine App-Verknüpfungen in Menüleisten-Panels, die vollständig getrennt sind von dem, was gerade läuft. Die Position einer App in einem Panel ändert sich nicht danach, ob sie geöffnet, minimiert oder beendet ist. Was du wohin legst, bleibt dort.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels mit festem, nicht verschiebendem App-Layout auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Position unabhängig vom App-Status</h3>
+<p>Ob eine App läuft, geschlossen oder minimiert ist, hat keinen Einfluss darauf, wo sie in einem Jetty-Panel sitzt. Das Layout, das du baust, bleibt das Layout, das du behältst — jedes Mal, wenn du das Panel öffnest.</p>
+
+<h3>Echtes Muskelgedächtnis</h3>
+<p>Weil sich nichts verschiebt, kannst du dir die genaue Position jeder App in jedem Panel merken und klicken, ohne wirklich hinzusehen. Diese Art von verlässlichem räumlichem Gedächtnis lässt sich bei einem Dock, das sich selbst umsortiert, unmöglich aufbauen.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "quick-launch-design-apps-mac": {
+    slug: "quick-launch-design-apps-mac",
+    title: "Design-Apps auf dem Mac im Schnellzugriff — Figma, Sketch, Photoshop",
+    description: "Designer jonglieren oft mit einem bestimmten Werkzeugkasten — einer Design-App, einem Browser für Referenzen, einem Asset-Manager —, der in einem Dock voller unpassender Software untergeht, sobald andere Apps geöffnet sind.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Design-Arbeit hat ihren eigenen Werkzeugkasten: etwas wie Figma oder Sketch fürs eigentliche Design, Photoshop oder einen Bildeditor für die Asset-Vorbereitung, einen Browser-Tab voller Referenzen und Inspiration und vielleicht noch einen Schriftverwalter oder Farbwähler nebenbei. Einzeln betrachtet sind das gängige Apps, aber zusammen bilden sie ein bestimmtes Arbeitsset, das sich von dem unterscheidet, was du für E-Mails, Anrufe oder Verwaltungsaufgaben brauchst.</p>
+
+<p>Das Problem ist, dass macOS „Design-Modus“ nicht als eigenes Konzept kennt. Deine Design-Tools sitzen im selben Dock wie dein Kalender, dein Slack und alles andere, was du angeheftet hast, und du suchst dieselbe Handvoll Symbole jedes Mal neu zusammen, wenn du dich an die Arbeit setzt.</p>
+
+<h2>Kein eingebautes Konzept für einen Werkzeugkasten</h2>
+
+<p>Dock und Launchpad behandeln jede App als einzelnes, unabhängiges Element. Es gibt keine Möglichkeit zu sagen „diese vier Apps sind mein Design-Werkzeugkasten“ und sie von macOS gemeinsam präsentiert zu bekommen. Entweder heftest du sie alle dauerhaft an (und überfüllst das Dock mit Tools, die du außerhalb der Design-Arbeit nicht brauchst), oder du suchst sie jedes Mal einzeln.</p>
+
+<h2>Ein eigenes Panel für Design-Arbeit</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> lässt dich ein einzelnes Panel — nennen wir es „Design“ — mit genau deinem Design-Werkzeugkasten aufbauen: Figma, Photoshop, ein Lesezeichen für den Referenz-Browser, deinen Assets-Ordner. Ein Klick in der Menüleiste öffnet das Panel, ein weiterer Klick startet das jeweils benötigte Tool.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty Design-Panel mit Figma, Sketch und Photoshop auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Alles für eine Design-Session an einem Ort</h3>
+<p>Statt Figma separat zu starten, dann den Referenzordner zu suchen, dann Photoshop für eine schnelle Asset-Korrektur zu öffnen, öffnest du ein Panel und startest jedes Tool nacheinander. Die Einrichtungszeit für eine Design-Session sinkt auf Sekunden.</p>
+
+<h3>Assets und Dateien, nicht nur Apps</h3>
+<p>Design-Arbeit dreht sich genauso um Dateien wie um Apps — Export-Ordner, Marken-Asset-Bibliotheken, das gemeinsame Laufwerk eines Kunden. Leg diese in dasselbe Panel wie deine Design-Apps, damit der gesamte Werkzeugkasten inklusive Dateien von einer Stelle aus startet.</p>
+
+<h3>Getrennt von Kunden- oder Verwaltungs-Panels</h3>
+<p>Halte dein Design-Panel rein auf Design-Tools fokussiert und packe Kundenkommunikation oder Verwaltungs-Apps in eigene, separate Panels. So bleibt jedes schlank und genau auf die Arbeit zugeschnitten, die es unterstützt.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-dock-vs-menu-bar-launcher": {
+    slug: "mac-dock-vs-menu-bar-launcher",
+    title: "Mac-Dock vs. Menüleisten-Launcher — was ist besser?",
+    description: "Beide sitzen irgendwo auf deinem Bildschirm und können beide Apps starten, aber in der Praxis funktionieren sie sehr unterschiedlich. Hier ist ein unkomplizierter Vergleich, der dir bei der Entscheidung hilft, was zu deinem Workflow passt.",
+    date: "2026-09-06",
+    readTime: "5 Min. Lesezeit",
+    content: `
+<p>Das Dock und ein Menüleisten-Launcher lösen im Grunde dasselbe Problem — schnell zu deinen Apps zu kommen —, verfolgen aber gegensätzliche Ansätze bei Bildschirmplatz, Organisation und Skalierung, wenn deine App-Sammlung wächst. Wenn du überlegst, ob du beim Dock bleiben oder zu einem menüleistenbasierten Setup wechseln sollst, lohnt es sich, die Unterschiede klar aufzulisten.</p>
+
+<h2>Worin sie sich unterscheiden</h2>
+
+<p><strong>Bildschirmplatz.</strong> Das Dock belegt jederzeit einen festen Streifen deines Bildschirms (oder verzögert den Zugriff, wenn es automatisch ausgeblendet ist). Ein Menüleisten-Launcher nimmt nur ein kleines Symbol ein und klappt sich erst beim Klicken auf, um danach wieder komplett zu verschwinden.</p>
+
+<p><strong>Organisation.</strong> Das Dock ist eine einzige flache Reihe — keine Kategorien. Ein gut gebauter Menüleisten-Launcher kann mehrere benannte Gruppen bieten, mit denen du Apps nach Projekt, Kunde oder Aufgabentyp trennst, statt alles in eine Zeile zu stopfen.</p>
+
+<p><strong>Skalierung.</strong> Fügst du mehr Apps hinzu, verkleinert das Dock entweder die Symbole, um alles unterzubringen, oder wird breiter — beides macht einzelne Symbole schwerer unterscheidbar. Ein panelbasierter Menüleisten-Launcher skaliert, indem er weitere Panels hinzufügt, nicht indem er Bestehendes verkleinert.</p>
+
+<p><strong>Sichtbarkeit.</strong> Das Dock ist immer zumindest teilweise sichtbar, was manche als passive Erinnerung an das Installierte schätzen. Ein Menüleisten-Launcher bleibt außer Sicht, bis er gerufen wird, was andere für einen aufgeräumteren Schreibtisch bevorzugen.</p>
+
+<h2>Wo Jetty in diesen Vergleich passt</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> ist ein Menüleisten-Launcher, der speziell dafür gebaut ist, die Organisations- und Skalierungsgrenzen des Docks zu adressieren, ohne dich zu zwingen, das Dock komplett aufzugeben, wenn du das nicht willst.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Vergleich zwischen dem Mac-Dock und einem Jetty-Menüleisten-Launcher" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Kein Entweder-oder</h3>
+<p>Du kannst ein minimales Dock mit einer Handvoll Essentials behalten — Finder, ein Browser — und alles andere in Jetty-Panels verschieben. Die meisten Leute nutzen am Ende beides, jeweils dort, wo es am besten funktioniert.</p>
+
+<h3>Entscheide danach, wie viele Apps du nutzt</h3>
+<p>Nutzt du nur sechs oder sieben Apps regelmäßig, reicht das Dock allein vielleicht aus. Verwaltest du 20, 30 oder mehr über verschiedene Projekte hinweg, skaliert ein panelbasierter Menüleisten-Launcher auf eine Art, wie es das Dock strukturell nicht kann.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "developer-app-launcher-mac": {
+    slug: "developer-app-launcher-mac",
+    title: "App-Launcher für Entwickler auf dem Mac — Terminal, Xcode, VS Code in einem Panel",
+    description: "Eine typische Coding-Session braucht einen Editor, ein Terminal, einen Browser zum Testen und vielleicht ein Datenbank-Tool oder einen Versionskontroll-Client — alles jedes Mal neu gestartet, wenn du dich an die Arbeit setzt.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Eine Coding-Session zu starten bedeutet meistens, dieselbe Handvoll Apps in ungefähr derselben Reihenfolge zu öffnen: deinen Editor, ein Terminal-Fenster (vielleicht zwei — eines für den Dev-Server, eines für Git), einen Browser, der auf localhost zeigt, und möglicherweise einen Datenbank-Client oder ein API-Testtool. Nichts davon ist schwer, aber es ist repetitiv, und genau solche wiederkehrenden Einrichtungsschritte sind es, die sich über einen Arbeitstag summieren.</p>
+
+<p>All das ans Dock anzuheften funktioniert, bis du auch noch Apps für E-Mail, Kommunikation und alles andere anheftest — und dann sind deine Entwicklungs-Tools mit Apps vermischt, die nichts mit dem Programmieren zu tun haben.</p>
+
+<h2>macOS unterscheidet nicht zwischen „Dev-Modus“ und allem anderen</h2>
+
+<p>Dock, Spotlight und Launchpad behandeln VS Code genauso wie Mail oder Kalender — als eine App unter vielen, ohne jedes Gespür dafür, dass manche deiner Apps zusammen eine kohärente Entwicklungsumgebung bilden, die in derselben Kombination immer wieder genutzt wird.</p>
+
+<h2>Ein Panel für deinen Entwickler-Stack</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> lässt dich ein „Dev“-Panel mit genau deinem Entwickler-Werkzeugkasten aufbauen — VS Code oder Xcode, Terminal, ein Browser, ein Git-Client, ein Datenbank-Tool — und jedes davon mit einem einzigen Klick aus der Menüleiste starten, ohne dass diese Tools denselben Platz wie deine Nicht-Coding-Apps beanspruchen.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty Entwickler-Panel mit Terminal, Xcode und VS Code auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Projektordner direkt neben deinen Tools</h3>
+<p>Leg deinen Repository-Ordner direkt in dasselbe Panel wie deinen Editor und dein Terminal. Die Arbeit an einem Projekt zu beginnen bedeutet dann, ein Panel zu öffnen, statt separat zu einem Ordner zu navigieren und dann jedes Tool einzeln zu starten.</p>
+
+<h3>Eigene Panels pro Stack</h3>
+<p>Arbeitest du sowohl an einem Frontend- als auch an einem Backend-Stack, oder jonglierst du mit mehreren Kunden-Codebasen, baue ein Panel pro Kontext. Der Wechsel zwischen ihnen ist ein Klick in der Menüleiste, keine Cmd+Tab-Jagd durch einen gemischten Fensterhaufen.</p>
+
+<h3>Bleibt dir nicht im Weg, während du arbeitest</h3>
+<p>Sind deine Tools erst mal gestartet, schließt sich das Panel und ist nicht mehr im Weg. Es ist kein dauerhaftes Dock-Element, das auf einem Bildschirm um Aufmerksamkeit konkurriert, der oft schon voller Editor-Fenster und Terminal-Fenster ist.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-dock-hidden-cant-find-apps": {
+    slug: "mac-dock-hidden-cant-find-apps",
+    title: "Mac-Dock ausgeblendet und du findest deine Apps nicht? So löst du es",
+    description: "Du hast das automatische Ausblenden aktiviert, um mehr Bildschirmplatz zu gewinnen, aber jetzt bedeutet jeder App-Start, am Bildschirmrand zu warten, bis die Symbole erscheinen.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Irgendwann bist du in die Systemeinstellungen gegangen und hast „Dock automatisch ein-/ausblenden“ aktiviert. Es klang nach einer guten Idee — mehr vertikaler Platz, ein aufgeräumterer Bildschirm. Aber jetzt musst du jedes Mal, wenn du eine App öffnen willst, daran denken, den Mauszeiger ganz an den unteren Bildschirmrand zu bewegen, kurz innezuhalten und zu warten, bis das Dock hochgleitet, bevor du überhaupt etwas anklicken kannst. Bewegst du dich zu schnell oder klickst zu früh, passiert nichts, und du musst es erneut versuchen.</p>
+
+<p>Der gewonnene Bildschirmplatz ist schön. Die Reibung bei jedem einzelnen App-Start ist es nicht.</p>
+
+<h2>Warum dieser Kompromiss existiert</h2>
+
+<p>Automatisches Ausblenden ist eine Alles-oder-nichts-Einstellung. Es gibt keinen Mittelweg, bei dem das Dock intelligent entscheidet, wann es erscheinen soll — es ist entweder immer da und beansprucht Platz, oder immer versteckt und verlangt jedes Mal eine Hover-und-Warte-Geste, egal wie schnell du eine App brauchst. macOS bietet keine schnellere, eingebaute Zwischenlösung.</p>
+
+<h2>Dock versteckt lassen, trotzdem sofort starten</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> löst das, indem es deine App-Verknüpfungen an einen Ort verlagert, der immer sichtbar ist, ohne Bildschirmplatz zu beanspruchen: die Menüleiste. Du kannst das automatische Ausblenden des Docks dauerhaft aktiviert lassen, weil du das Dock nicht mehr zum Starten von Apps brauchst. Klick auf das Jetty-Symbol, deine Apps erscheinen sofort — kein Warten, keine Animation, kein misslungener Versuch.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Menüleisten-Launcher macht das Einblenden eines versteckten Mac-Docks überflüssig" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Kein Hover-und-Warten mehr</h3>
+<p>Die Menüleiste versteckt sich nicht und animiert nicht. Sie ist einfach da, die ganze Zeit, ohne jede Kosten für deinen Bildschirmplatz. Ein Klick darauf ist sofort — keine Verzögerung, mit der du rechnen musst.</p>
+
+<h3>Voller Bildschirmplatz, dauerhaft</h3>
+<p>Mit dauerhaft ausgeblendetem Dock und Jetty für deine App-Starts behältst du den vertikalen Platz, den das automatische Ausblenden eigentlich versprochen hat — ohne die Zeitsteuer eines langsamen Einblendens bei jedem App-Bedarf.</p>
+
+<h3>Funktioniert genauso, auch wenn das Dock sichtbar ist</h3>
+<p>Entscheidest du dich später, das Dock wieder einzuschalten, funktioniert Jetty trotzdem genauso. Es ist unabhängig von deinen Dock-Einstellungen.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "organize-creative-workflow-mac": {
+    slug: "organize-creative-workflow-mac",
+    title: "Deinen kreativen Workflow auf dem Mac mit App-Panels organisieren",
+    description: "Kreative Arbeit umfasst oft mehrere Disziplinen in einer einzigen Session — Schreiben, Bearbeiten, Design, Review — jede braucht eine andere Software-Mischung, die macOS als einen einzigen undifferenzierten Haufen behandelt.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Ein einzelnes kreatives Projekt kann an einem Tag mehrere unterschiedliche Phasen durchlaufen: Entwurf in einer Schreib-App, Sammeln von Referenzen in einem Browser, Bearbeiten von Bildern oder Video, dann Überprüfung und Teilen des Ergebnisses. Jede Phase stützt sich auf eine andere Software-Kombination, aber macOS hat überhaupt kein Gespür für „Phasen“ — jede App, die du besitzt, liegt im selben undifferenzierten Haufen, egal ob es das Werkzeug ist, das du gerade jetzt brauchst, oder eines, das du seit Monaten nicht angerührt hast.</p>
+
+<p>Das Ergebnis: Der Wechsel zwischen den Phasen eines kreativen Projekts bedeutet, jedes Mal Werkzeuge neu zu suchen, obwohl sich dieselben Kombinationen Projekt für Projekt wiederholen.</p>
+
+<h2>Kreative Arbeit passt nicht in eine flache App-Liste</h2>
+
+<p>Dock und Launchpad gehen davon aus, dass jede App entweder gleich, dauerhaft sichtbar ist oder gar nicht. Es gibt keine Möglichkeit zu sagen: „Diese drei Apps sind für den Entwurf, diese zwei für das Review“ und diese Struktur dann bei Bedarf angezeigt zu bekommen. Am Ende überfüllst du entweder dein Dock mit jedem Werkzeug aus jeder Phase, oder du durchsuchst wiederholt Spotlight nach derselben Handvoll Namen.</p>
+
+<h2>Panels, die zu deinen kreativen Phasen passen</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> lässt dich ein Panel pro Phase deines kreativen Prozesses bauen — „Entwurf“, „Bearbeitung“, „Review“ —, jedes mit genau den Apps, Ordnern und Referenzdateien, die zu dieser Phase gehören. Von einer Phase zur nächsten zu wechseln bedeutet, ein anderes Panel aus der Menüleiste zu öffnen.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels organisieren einen kreativen Workflow auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Panels für verschiedene Medien</h3>
+<p>Ein Autor hat vielleicht „Langform“, „Recherche“ und „Veröffentlichung“ als Panels. Ein Video-Editor vielleicht „Aufnahme“, „Schnitt“ und „Export“. Die Struktur passt sich an, was auch immer dein kreativer Prozess tatsächlich ist.</p>
+
+<h3>Referenzmaterial reist mit den Tools</h3>
+<p>Leg Moodboards, Styleguides oder Referenzordner in dasselbe Panel wie die Apps, mit denen du sie benutzt, damit Inspiration und Werkzeuge nie mehr als einen Klick voneinander entfernt sind.</p>
+
+<h3>Wiederverwendbar über Projekte hinweg</h3>
+<p>Sind deine phasenbasierten Panels einmal eingerichtet, funktionieren sie für jedes neue Projekt, das du startest — du baust dein Setup nicht jedes Mal von Grund auf neu, wenn du etwas Neues beginnst.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "raycast-alfred-alternative-simple-mac": {
+    slug: "raycast-alfred-alternative-simple-mac",
+    title: "Raycast und Alfred sind Overkill — probier einen einfachen App-Launcher für den Mac",
+    description: "Leistungsstarke tastaturgesteuerte Launcher kommen mit Workflows, Erweiterungen, Plugins und einer Lernkurve. Wenn du eigentlich nur schnelleren Zugriff auf deine eigenen Apps willst, ist das eine Menge Werkzeug für eine einfache Aufgabe.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Raycast und Alfred sind wirklich beeindruckende Software — Zwischenablage-Verlauf, benutzerdefinierte Workflows, Taschenrechner-Funktionen, Fensterverwaltung, Erweiterungen von Drittanbietern für Dutzende Dienste. Power-User bauen ganze Produktivitätssysteme um sie herum. Aber wenn dein eigentliches Ziel simpler ist — „Ich will meine Apps schneller öffnen, organisiert nach der Art, wie ich sie benutze“ —, ist dieser gesamte Funktionsumfang meist nur Ballast, den du nie anfassen wirst.</p>
+
+<p>Ein solches Tool zu installieren, um ein Start-Problem zu lösen, kann bedeuten, dass du mehr Zeit mit dem Konfigurieren von Workflows und dem Auswendiglernen von Tastenkombinationen verbringst, als du beim eigentlichen Starten sparst.</p>
+
+<h2>Der Komplexitäts-Preis eines Alles-in-einem-Tools</h2>
+
+<p>Tastaturgesteuerte Launcher basieren auf dem Eintippen von Befehlen und dem Merken von Syntax — ein bestimmtes Präfix für Berechnungen, ein anderes für den Zwischenablage-Verlauf, wieder ein anderes für einen benutzerdefinierten Workflow. Das ist wertvoll, wenn du das meiste davon auch nutzt. Nutzt du es nur, um Apps zu öffnen, trägst du den mentalen Ballast eines viel größeren Werkzeugs für eine viel kleinere Aufgabe mit dir herum.</p>
+
+<h2>Ein Launcher, der eine Sache tut</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> ist bewusst eng im Funktionsumfang: Es organisiert und startet deine Apps, Ordner und Dateien aus der Menüleiste. Keine Befehlssyntax, kein Erweiterungs-Marktplatz, kein Einstellungspanel, das du vorher konfigurieren musst, damit es brauchbar wird. Du ziehst Apps in Panels und klickst sie zum Öffnen an. Das ist die gesamte Lernkurve.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty als einfachere Alternative zu Raycast und Alfred auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Visuell, nicht befehlsbasiert</h3>
+<p>Statt Namen zu tippen und dir zu merken, klickst du auf Symbole, die du in Gruppen organisiert hast. Es ist ein Launcher für Menschen, die visuell denken, nicht in Abfragesyntax.</p>
+
+<h3>Kein Einrichtungs-Kaninchenbau</h3>
+<p>Es gibt keinen Workflow-Store zum Durchstöbern, keine Erweiterungen zum Bewerten, keine Plugin-Kompatibilität, um die du dir Sorgen machen musst. Öffnen, deine Apps hineinziehen, fertig.</p>
+
+<h3>Ergänzt einen tastaturgesteuerten Launcher, falls du schon einen hast</h3>
+<p>Nutzt du bereits Raycast oder Alfred für andere Dinge (Zwischenablage-Verlauf, Berechnungen), kannst du das weiterhin dafür behalten und Jetty gezielt für organisiertes, visuelles App-Starten einsetzen. Die beiden schließen sich nicht gegenseitig aus.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-dock-magnification-annoying": {
+    slug: "mac-dock-magnification-annoying",
+    title: "Mac-Dock-Vergrößerung nervt — probier etwas Besseres",
+    description: "Symbole, die sich aufblähen, sobald dein Mauszeiger darüberfährt, sehen in einer Demo vielleicht schick aus, aber im täglichen Gebrauch macht die Vergrößerung präzises Klicken eher schwerer als leichter.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Die Dock-Vergrößerung soll dir helfen, kleine Symbole besser zu erkennen, während du den Mauszeiger über ein volles Dock bewegst. In der Praxis bewirkt sie oft das Gegenteil: Symbole wachsen und schrumpfen in Echtzeit, während sich dein Mauszeiger bewegt, und verschieben dabei ihre Position bei jedem Pixel Bewegung. Du zielst auf ein Symbol, der Vergrößerungseffekt verschiebt es leicht zur Seite, und du klickst stattdessen auf das daneben.</p>
+
+<p>Die Vergrößerung auszuschalten vermeidet das Verschieben, aber dann bist du wieder bei winzigen, schwer zu unterscheidenden Symbolen, wenn dein Dock mehr als ein Dutzend Apps enthält.</p>
+
+<h2>Warum Vergrößerung mehr Fehlklicks verursacht, als sie verhindert</h2>
+
+<p>Vergrößerung ist per Design ein bewegliches Ziel — allein die Bewegung deines Mauszeigers auf ein Symbol zu verändert dessen Größe und Position. Für alle, die keine absolut ruhige Maushand haben (also die meisten Menschen, besonders auf Trackpads), entsteht dadurch ein kleines, aber reales Genauigkeitsproblem, das umso schlimmer wird, je kleiner und zahlreicher die Dock-Symbole sind.</p>
+
+<h2>Symbole, die sich nicht bewegen, wenn du dich näherst</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a>-Panels zeigen Apps in fester Größe ohne Vergrößerungseffekt an. Symbole bleiben exakt dort, wo sie sind, und exakt so groß, wie sie sind — egal ob dein Mauszeiger in der Nähe ist oder nicht. Was du siehst, ist das, was du klickst — kein verschiebendes Ziel.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels mit fest großen Symbolen und ohne Dock-typische Vergrößerung" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Weniger Apps pro Panel bedeuten ohnehin größere Symbole</h3>
+<p>Weil du nicht jede App in eine einzige Reihe quetschst, kann jedes Jetty-Panel eine überschaubare Anzahl an Symbolen in angenehmer Größe zeigen — ganz ohne Vergrößerungseffekt, der sie überhaupt erst lesbar machen müsste.</p>
+
+<h3>Vorhersehbares Klicken, jedes Mal</h3>
+<p>Da nichts wächst oder sich verschiebt, wenn sich dein Mauszeiger nähert, liegt das Klickziel genau dort, wo deine Augen es dir sagen. Diese Vorhersehbarkeit zählt umso mehr, je schneller du dich bewegen willst.</p>
+
+<h3>Dock-Vergrößerung komplett ausschalten</h3>
+<p>Sobald deine täglichen Apps in Jetty-Panels leben, gibt es kaum noch einen Grund, die Vergrößerung auf einem Dock zu behalten, das du ohnehin seltener nutzt. Sie auszuschalten entfernt eine weitere Quelle visueller Unruhe von deinem Bildschirm.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "launch-app-groups-one-click-mac": {
+    slug: "launch-app-groups-one-click-mac",
+    title: "App-Gruppen auf dem Mac mit einem Klick starten",
+    description: "Der Start in den Arbeitstag bedeutet oft, dieselben drei oder vier Apps in derselben Reihenfolge zu öffnen. Das jeden Morgen manuell zu tun, ist eine kleine Aufgabe, die es eigentlich gar nicht geben sollte.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Denk an die ersten fünf Minuten deines Arbeitstags. Wahrscheinlich öffnest du dieselben Apps in ungefähr derselben Reihenfolge — E-Mail, eine Messaging-App, dein wichtigstes Arbeitstool, vielleicht einen Kalender. Das ist keine schwere Aufgabe, aber eine, die sich wiederholt, manuell ausgeführt, jeden einzelnen Tag, ohne eine Möglichkeit zur Abkürzung außer schneller zu sein.</p>
+
+<p>macOS bietet keinen nativen Weg, eine festgelegte Gruppe von Apps gemeinsam zu starten. Entweder öffnest du jede einzeln, oder du richtest ein Shell-Skript und eine Tastenkombination ein — was mehr Aufwand ist, als die meisten für etwas so Routinemäßiges investieren wollen.</p>
+
+<h2>Kein natives Konzept für eine „Startgruppe“</h2>
+
+<p>Apples Werkzeuge sind um einzelne Apps herum gebaut, nicht um App-Sets. Dock, Spotlight und Launchpad starten alle jeweils nur eine Sache auf einmal. Automator oder Kurzbefehle können technisch mehrere Apps mit einem Auslöser öffnen, aber das aufzubauen erfordert mehr Konfiguration, als die meisten für eine tägliche Routine investieren wollen.</p>
+
+<h2>Gruppen, die gemeinsam aus der Menüleiste starten</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> organisiert Apps in benannten Panels, und jede App in einem Panel startet einzeln per Klick — aber weil alles, was du für eine Routine brauchst, in einem Panel liegt, bedeutet das Öffnen deines gesamten Morgen-Setups, dich durch drei oder vier Symbole im selben Dropdown zu klicken, statt jedes einzeln zu suchen.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panel zum gemeinsamen Starten einer App-Gruppe auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Ein eigenes „Morgen“-Panel</h3>
+<p>Packe deinen E-Mail-Client, deine Messaging-App, deinen Kalender und dein wichtigstes Arbeitstool in ein Panel. Der Start in den Tag wird zu einer kurzen Klick-Abfolge an einem Ort, statt zu einer Schnitzeljagd durch Dock und Spotlight.</p>
+
+<h3>Unterschiedliche Gruppen für unterschiedliche Routinen</h3>
+<p>Ein „Feierabend“-Panel mit Apps, die du vor dem Ausloggen prüfst, oder ein „Wochenrückblick“-Panel mit deinen Reporting-Tools — jede wiederkehrende Routine kann ihre eigene Gruppe haben, bereit, wann immer du sie brauchst.</p>
+
+<h3>Keine Skripte nötig</h3>
+<p>Eine Gruppe aufzubauen ist Drag-and-drop. Kein Automator-Workflow zu schreiben, kein Shell-Skript zu pflegen, keine Tastenkombination zu merken.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-desktop-apps-all-over": {
+    slug: "mac-desktop-apps-all-over",
+    title: "Mac-Schreibtisch voller verstreuter Apps? Organisiere von der Menüleiste aus",
+    description: "Über den Schreibtisch verstreute Aliasse und Verknüpfungen sorgen für einen unübersichtlichen Hintergrund und einen langsameren Weg zu der App, die du eigentlich suchst.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Es ist eine verbreitete Angewohnheit: Eine App passt nicht bequem ins Dock, oder du willst einfach eine schnelle Verknüpfung, also ziehst du einen Alias auf den Schreibtisch. Machst du das ein paar Dutzend Mal über ein paar Jahre, verschwindet dein Schreibtischhintergrund hinter einem Raster aus Symbolen — manche Apps, manche Ordner, manche Dateien, die du eigentlich noch bearbeiten wolltest. Etwas zu finden bedeutet, ein unübersichtliches Raster visuell zu durchsuchen, und jedes neue Fenster, das du öffnest, verdeckt einen Teil davon.</p>
+
+<p>Schreibtisch-Symbole vertragen sich außerdem schlecht mit Stage Manager oder einer aufgeräumten Schreibtisch-Gewohnheit — sie sind entweder hinter deinen Fenstern versteckt, oder du hast Schreibtisch-Symbole komplett ausgeschaltet und damit den Zugriff auf alles verloren, was dort lag.</p>
+
+<h2>Der Schreibtisch wurde nicht als Launcher gebaut</h2>
+
+<p>Schreibtisch-Symbole sind eine Restbequemlichkeit, kein organisiertes System. Es gibt keine erzwungene Ordnerstruktur, keine Gruppierung außer der, wie du Dinge herumgezogen hast, und keinen Schutz davor, dass Fenster sie verdecken, sobald du eine App öffnest. Es ist der am wenigsten strukturierte Ort auf deinem Mac, um Schnellzugriffe aufzubewahren — und trotzdem landen viele Leute standardmäßig genau dort.</p>
+
+<h2>Schreibtisch-Verknüpfungen in organisierte Panels verschieben</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> gibt diesen verstreuten Aliassen ein richtiges Zuhause. Zieh die Apps, Ordner und Dateien, die aktuell deinen Schreibtisch überfüllen, stattdessen in benannte Menüleisten-Panels. Du bekommst denselben Ein-Klick-Zugriff, minus das visuelle Chaos und das Risiko, Verknüpfungen hinter offenen Fenstern zu verlieren.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panels ersetzen verstreute Schreibtisch-Symbole auf dem Mac" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Ein aufgeräumter Schreibtisch, ohne den Zugriff zu verlieren</h3>
+<p>Sobald deine Verknüpfungen in Jetty-Panels leben, kannst du deinen Schreibtisch komplett leeren — Schreibtisch-Symbole in den Finder-Einstellungen ausschalten, ein cleanes Hintergrundbild nutzen, was immer du bevorzugst —, ohne auf schnellen Zugriff auf irgendetwas zu verzichten.</p>
+
+<h3>Nie hinter Fenstern versteckt</h3>
+<p>Menüleisten-Panels sind zugänglich, egal wie viele Fenster geöffnet sind oder wie sie angeordnet sind. Schreibtisch-Symbole hingegen verschwinden, sobald etwas sie verdeckt.</p>
+
+<h3>Gruppiert statt verstreut</h3>
+<p>Statt eines einzigen undifferenzierten Rasters sind deine Verknüpfungen in Panels sortiert, die echte Kategorien widerspiegeln — Projektordner mit ihren Apps, Referenzdateien mit den Tools, die sie nutzen.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "best-mac-productivity-tools-app-launching": {
+    slug: "best-mac-productivity-tools-app-launching",
+    title: "Die besten Mac-Produktivitäts-Tools für den App-Start",
+    description: "Die meisten Produktivitäts-Übersichten konzentrieren sich auf Notizen und Aufgabenverwaltung. Der App-Start bekommt selten eine eigene Bühne, obwohl es etwas ist, das jeder Mac-Nutzer Dutzende Male am Tag macht.",
+    date: "2026-09-06",
+    readTime: "5 Min. Lesezeit",
+    content: `
+<p>Produktivitätstipps drehen sich meist um dieselbe Handvoll Kategorien: Aufgabenmanager, Notiz-Apps, Kalender-Tools, Zeiterfassung. App-Start schafft es fast nie auf die Liste, obwohl es eine der am häufigsten wiederholten Aktionen auf jedem Mac ist — wahrscheinlich öffnest du Apps weit öfter, als du eine Aufgabe erstellst oder eine Notiz schreibst. Ein schnellerer, organisierterer Weg, Apps zu starten, ist ein Produktivitäts-Upgrade, das leicht übersehen wird, einfach weil es nicht glamourös ist.</p>
+
+<h2>Warum der App-Start Aufmerksamkeit verdient</h2>
+
+<p>Kleine, häufige Reibungen summieren sich stärker als gelegentliche große. Drei oder vier Sekunden zu verlieren, um eine App in einem überfüllten Dock zu suchen oder durch Launchpad zu scrollen, fühlt sich im Moment vielleicht unbedeutend an, aber multipliziert über 50-100 App-Starts am Tag wird daraus ein spürbarer Batzen verschwendeter Aufmerksamkeit und Zeit — ganz abgesehen vom mentalen Kontextwechsel, sich zu erinnern, wo etwas liegt.</p>
+
+<h2>Wo ein dedizierter Launcher ins Bild passt</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> adressiert genau diese Kategorie direkt. Es ist eine Menüleisten-App, die deine Apps, Ordner und Dateien in benannten Panels organisiert, sodass das Starten von irgendetwas eine schnelle, vorhersehbare Zwei-Klick-Aktion ist, statt einer Suche oder einer Jagd durch ein überfülltes Dock.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty als Mac-Produktivitäts-Tool für organisierten App-Start" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Passt gut zu Aufgaben- und Notiz-Tools</h3>
+<p>Ein Launcher konkurriert nicht mit deinem Aufgabenmanager oder deiner Notiz-App — er ergänzt sie. Packe deinen Produktivitäts-Stack (Aufgabenmanager, Notizen, Kalender) in ein Panel, damit die Tools, die deinen Tag steuern, genauso schnell erreichbar sind wie die Arbeit selbst.</p>
+
+<h3>Reduziert den Kontextwechsel-Aufwand</h3>
+<p>Jedes Mal, wenn du überlegen musst, wo eine App liegt, verbrauchst du ein Stück Aufmerksamkeit, das nicht in deine eigentliche Arbeit fließt. Organisierter, vorhersehbarer App-Start beseitigt diesen Aufwand fast vollständig.</p>
+
+<h3>Wächst mit deinem Werkzeugset</h3>
+<p>Fügst du mit der Zeit mehr Produktivitäts-Apps hinzu — einen neuen Zeittracker, ein neues Kommunikationstool — nimmt ein panelbasierter Launcher sie auf, ohne schwerer bedienbar zu werden, anders als ein Dock, das mit jeder Ergänzung unübersichtlicher wird.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "mac-stage-manager-not-enough": {
+    slug: "mac-stage-manager-not-enough",
+    title: "Mac Stage Manager reicht nicht aus? Ergänze ihn mit einem Menüleisten-Launcher",
+    description: "Stage Manager organisiert Fenster, die bereits geöffnet sind, hilft dir aber überhaupt nicht dabei, Apps zu starten, die du noch nicht geöffnet hast — eine Lücke, auf die viele nach dem Einschalten stoßen.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Stage Manager ist wirklich nützlich, um offene Fenster ordentlich zu halten — zuletzt genutzte Apps reihen sich an der Seite auf, dein aktives Fenster steht im Mittelpunkt, und der Wechsel zwischen einer Handvoll Gruppen fühlt sich sauberer an als ein Schreibtisch voller überlappender Fenster. Aber es verwaltet nur das, was bereits läuft. Sobald du eine App öffnen musst, die du noch nicht gestartet hast, hat Stage Manager nichts anzubieten, und du bist wieder bei Dock, Spotlight oder Launchpad.</p>
+
+<p>Viele schalten Stage Manager ein und erwarten, dass es ihr gesamtes „zu viele Apps“-Problem löst, merken dann aber, dass es nur die Hälfte davon löst — die Fensterverwaltungs-Hälfte, nicht die Start-Hälfte.</p>
+
+<h2>Stage Manager organisiert Zustände, nicht Zugriff</h2>
+
+<p>Die Gruppierungen von Stage Manager basieren auf Aktualität und darauf, was du zusammen geöffnet hattest, nicht auf einer Struktur, die du im Voraus festlegst. Es kann dir keine App zeigen, die du noch nicht geöffnet hast, und seine automatische Gruppierung passt nicht immer zu der Art, wie du deine eigenen Workflows kategorisieren würdest.</p>
+
+<h2>Kombiniere es mit einem dedizierten Launcher</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> schließt die Lücke, die Stage Manager offen lässt. Während Stage Manager deine offenen Fenster organisiert, organisiert Jetty deine Startpunkte — benannte Panels mit Apps, Ordnern und Dateien, die bereit sind, geöffnet zu werden, egal ob sie gerade laufen oder nicht.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Menüleisten-Launcher in Kombination mit Mac Stage Manager" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Erst starten, dann Stage Manager organisieren lassen</h3>
+<p>Nutze ein Jetty-Panel, um die Apps für eine bestimmte Aufgabe zu öffnen, und lass danach Stage Manager die entstandenen Fenster anordnen, während du arbeitest. Die beiden Tools setzen an unterschiedlichen Punkten desselben Workflows an.</p>
+
+<h3>Deine eigenen Gruppen, nicht automatische</h3>
+<p>Wo Stage Manager Gruppierungen aus der letzten Aktivität ableitet, liegen Jetty-Panels vollständig in deiner Hand. Du entscheidest, was zusammengehört, und diese Struktur ändert sich nicht danach, was du zuletzt zufällig geöffnet hast.</p>
+
+<h3>Deckt auch die Apps ab, die du noch nicht geöffnet hast</h3>
+<p>Jetty-Panels listen Apps auf, egal ob sie laufen oder nicht, sodass du immer einen Weg hast, etwas Neues zu starten — etwas, wobei Stage Manager per Design nicht helfen kann.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+  "open-recent-files-mac-menu-bar": {
+    slug: "open-recent-files-mac-menu-bar",
+    title: "Zuletzt genutzte Dateien über die Mac-Menüleiste öffnen",
+    description: "Die Dateien, die du am häufigsten anfasst, sollten nicht jedes Mal eine Finder-Navigation oder das Durchsuchen des Zuletzt-verwendet-Menüs einer App erfordern, nur um sie wieder zu öffnen.",
+    date: "2026-09-06",
+    readTime: "4 Min. Lesezeit",
+    content: `
+<p>Manche Dateien öffnest du ständig — eine laufende Projekttabelle, ein Kunden-Briefing, ein Dokument, an dem du tagelang aktiv arbeitest. Jedes Mal navigierst du entweder durch den Finder, um es zu finden, wühlst dich durch das „Zuletzt verwendet“-Menü einer einzelnen App (das nur diese eine App abdeckt), oder hoffst, dass es noch in einer kürzlich genutzten Liste steht, die noch nicht weggescrollt ist. Nichts davon ist besonders schnell, und nichts davon funktioniert zuverlässig über verschiedene Apps und Dateitypen hinweg.</p>
+
+<p>macOS hat zwar ein Menü „Apple-Menü > Letzte Objekte“, aber das mischt Apps, Dokumente und Server an einem Ort, wird schnell unübersichtlich und wirft Objekte, die du noch brauchst, aus der Liste, sobald deine jüngste Aktivität sie verdrängt.</p>
+
+<h2>Listen zuletzt verwendeter Dateien sind nicht für wiederholten Zugriff gebaut</h2>
+
+<p>Apples Letzte Objekte und das interne Zuletzt-verwendet-Menü jeder App sind beide um Aktualität herum gebaut, nicht um Absicht. Eine Datei, die du ständig öffnest, kann von einem Dutzend anderer Dinge aus der Liste verdrängt werden, die du nur einmal geöffnet hast und die dich nicht interessieren. Es gibt keine Möglichkeit, eine bestimmte Datei dauerhaft an einer Schnellzugriffsstelle zu fixieren, ohne die Datei selbst irgendwo zugänglich liegen zu lassen.</p>
+
+<h2>Dateien anheften, wo sie nicht verdrängt werden</h2>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Jetty</a> lässt dich jede Datei direkt in ein Menüleisten-Panel ziehen, wo sie bleibt, egal was du danach noch öffnest. Anders als bei einer aktualitätsbasierten Liste wird eine Datei in einem Jetty-Panel nicht durch unabhängige Aktivität verdrängt — sie bleibt, bis du sie entfernst.</p>
+
+<a href="https://apps.apple.com/app/jetty/id6806639647" target="_blank" rel="noopener" style="display:block"><img src="/apps/jetty.png" alt="Jetty-Panel mit angehefteten Dateien, erreichbar über die Mac-Menüleiste" style="max-width:100%;border-radius:12px;margin:24px 0;" /></a>
+
+<h3>Ein Klick statt eines Finder-Ausflugs</h3>
+<p>Eine Datei, für die du früher den Finder öffnen, durch Ordner navigieren und doppelklicken musstest, öffnet sich jetzt mit einem einzigen Klick aus der Menüleiste — egal, zu welcher App sie gehört.</p>
+
+<h3>Gruppiert mit den Apps, die sie nutzen</h3>
+<p>Leg eine aktiv bearbeitete Tabelle in dasselbe Panel wie die App, mit der du sie bearbeitest, oder ein Referenz-PDF neben das Design-Tool, das du dabei zurate ziehst. Dateien und die dazugehörigen Apps bleiben zusammen.</p>
+
+<h3>Nicht auf das Gedächtnis einer einzelnen App beschränkt</h3>
+<p>Da Jetty Dateien verfolgt, die du bewusst hinzugefügt hast, statt sich auf die Zuletzt-verwendet-Liste einer einzelnen App zu verlassen, funktioniert es immer gleich, egal welche Anwendung die Datei eigentlich besitzt.</p>
+
+<p><a href="https://apps.apple.com/app/jetty/id6806639647">Hol dir Jetty im Mac App Store</a></p>
+`,
+  },
+};
