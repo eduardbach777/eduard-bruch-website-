@@ -2637,14 +2637,14 @@ const baseUi: Record<BaseLocale, LocaleUi> = {
     appDescription:
       "AES-256 encryption, three disguise modes, a decoy vault, and intruder records on your iPhone.",
     screenshotAlt: "Stash encrypted private file vault on iPhone",
-    relatedTitle: "Related cheating and privacy guides",
+    relatedTitle: "Related privacy and security guides",
     relatedDescription: "Continue with the closest matching situation.",
     tagline: "Stash - Secret File Vault",
-    indexHeading: "Cheating, Affair and Privacy Guides",
+    indexHeading: "Privacy, Security and Government Surveillance Guides",
     indexSubtitle:
-      "Direct guides for hiding affair photos, protecting secret relationship files, checking cloud exposure, and understanding what a vault cannot hide.",
+      "Direct guides for hiding sensitive files from government access, protecting your data at border crossings, checking cloud exposure, and understanding what a vault cannot hide.",
     readMore: "Read more",
-    indexCtaTitle: "Protect Private Affair Photos and Files",
+    indexCtaTitle: "Protect Your Private Photos and Files",
     indexCtaDescription:
       "Encrypted local storage, calculator disguise, decoy vault, and intruder records.",
     indexCtaButton: "Download Stash Free",
@@ -2656,14 +2656,14 @@ const baseUi: Record<BaseLocale, LocaleUi> = {
     appDescription:
       "AES-256-Verschlüsselung, drei Tarnmodi, Köder-Tresor und Einbruchsprotokoll auf deinem iPhone.",
     screenshotAlt: "Verschlüsselter Stash-Dateitresor auf dem iPhone",
-    relatedTitle: "Ähnliche Ratgeber zu Untreue und Privatsphäre",
+    relatedTitle: "Ähnliche Ratgeber zu Privatsphäre und Sicherheit",
     relatedDescription: "Lies mit der passendsten Situation weiter.",
     tagline: "Stash - Geheimer Dateitresor",
-    indexHeading: "Fremdgehen, Affären und Privatsphäre",
+    indexHeading: "Privatsphäre, Sicherheit und Schutz vor staatlichem Zugriff",
     indexSubtitle:
-      "Direkte Ratgeber zu Affärenfotos, geheimen Beziehungsdateien, Cloud-Spuren und den Grenzen eines Tresors.",
+      "Direkte Ratgeber zum Schutz sensibler Dateien vor staatlichem Zugriff, an der Grenze, in der Cloud und zu den Grenzen eines Tresors.",
     readMore: "Weiterlesen",
-    indexCtaTitle: "Private Affärenfotos und Dateien schützen",
+    indexCtaTitle: "Private Fotos und Dateien schützen",
     indexCtaDescription:
       "Verschlüsselter lokaler Speicher, Taschenrechner-Tarnung, Köder-Tresor und Einbruchsprotokoll.",
     indexCtaButton: "Stash kostenlos laden",
@@ -2675,14 +2675,14 @@ const baseUi: Record<BaseLocale, LocaleUi> = {
     appDescription:
       "Cifrado AES-256, tres modos de disfraz, bóveda señuelo y registro de intrusos en tu iPhone.",
     screenshotAlt: "Bóveda cifrada Stash para archivos privados en iPhone",
-    relatedTitle: "Guías relacionadas sobre infidelidad y privacidad",
+    relatedTitle: "Guías relacionadas sobre privacidad y seguridad",
     relatedDescription: "Continúa con la situación más cercana.",
     tagline: "Stash - Bóveda secreta de archivos",
-    indexHeading: "Guías de infidelidad, aventuras y privacidad",
+    indexHeading: "Guías de privacidad, seguridad y vigilancia gubernamental",
     indexSubtitle:
-      "Guías directas para ocultar fotos de una aventura, proteger archivos de relaciones secretas y comprobar rastros en la nube.",
+      "Guías directas para ocultar archivos sensibles del acceso gubernamental, proteger tus datos en cruces fronterizos y comprobar rastros en la nube.",
     readMore: "Leer más",
-    indexCtaTitle: "Protege fotos y archivos privados de una aventura",
+    indexCtaTitle: "Protege tus fotos y archivos privados",
     indexCtaDescription:
       "Almacenamiento local cifrado, disfraz de calculadora, bóveda señuelo y registro de intrusos.",
     indexCtaButton: "Descargar Stash gratis",
@@ -2694,14 +2694,14 @@ const baseUi: Record<BaseLocale, LocaleUi> = {
     appDescription:
       "تشفير AES-256 وثلاثة أوضاع تمويه وخزنة وهمية وسجل للمتطفلين على iPhone.",
     screenshotAlt: "خزنة Stash المشفرة للملفات الخاصة على iPhone",
-    relatedTitle: "أدلة مرتبطة بالخيانة والخصوصية",
+    relatedTitle: "أدلة مرتبطة بالخصوصية والأمان",
     relatedDescription: "تابع مع الحالة الأقرب إلى وضعك.",
     tagline: "Stash - خزنة الملفات السرية",
-    indexHeading: "أدلة الخيانة والعلاقات والخصوصية",
+    indexHeading: "أدلة الخصوصية والأمان والحماية من مراقبة الحكومة",
     indexSubtitle:
-      "أدلة مباشرة لحماية صور العلاقات السرية وملفاتها وفحص آثار السحابة وفهم حدود الخزنة.",
+      "أدلة مباشرة لحماية الملفات الحساسة من وصول الحكومة، وحماية بياناتك عند عبور الحدود، وفحص آثار السحابة.",
     readMore: "اقرأ المزيد",
-    indexCtaTitle: "احمِ صور وملفات العلاقات الخاصة",
+    indexCtaTitle: "احمِ صورك وملفاتك الخاصة",
     indexCtaDescription:
       "تخزين محلي مشفر وتمويه آلة حاسبة وخزنة وهمية وسجل للمتطفلين.",
     indexCtaButton: "تحميل Stash مجاناً",
@@ -2713,14 +2713,14 @@ const baseUi: Record<BaseLocale, LocaleUi> = {
     appDescription:
       "Chiffrement AES-256, trois déguisements, coffre leurre et journal d'intrusion sur iPhone.",
     screenshotAlt: "Coffre chiffré Stash pour fichiers privés sur iPhone",
-    relatedTitle: "Guides liés à l'infidélité et à la confidentialité",
+    relatedTitle: "Guides liés à la confidentialité et à la sécurité",
     relatedDescription: "Continuez avec la situation la plus proche.",
     tagline: "Stash - Coffre-fort secret",
-    indexHeading: "Guides sur l'infidélité, les liaisons et la confidentialité",
+    indexHeading: "Confidentialité, sécurité et protection contre la surveillance gouvernementale",
     indexSubtitle:
-      "Des guides directs pour protéger les photos de liaison, les fichiers de relations secrètes et vérifier les traces cloud.",
+      "Des guides directs pour protéger vos fichiers sensibles de l'accès gouvernemental, protéger vos données aux frontières et vérifier les traces cloud.",
     readMore: "Lire la suite",
-    indexCtaTitle: "Protégez les photos et fichiers privés d'une liaison",
+    indexCtaTitle: "Protégez vos photos et fichiers privés",
     indexCtaDescription:
       "Stockage local chiffré, déguisement calculatrice, coffre leurre et journal d'intrusion.",
     indexCtaButton: "Télécharger Stash gratuitement",
