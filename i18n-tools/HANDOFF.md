@@ -4,6 +4,49 @@
 
 ---
 
+## 0c. TODO — localize when we have budget (2026-09-22)
+
+Ground truth re-verified today by counting real `slug:` occurrences per locale file
+(file *existing* is not the same as file *populated* — most are empty stubs like
+`export const xxArticles: ArticleSet = {};`):
+
+| App | Real translated locales | Still empty |
+|---|---|---|
+| sounddial | 33/33 | — fully done |
+| tome, dayedge, renym, optic, lockin, mediasmith, bellows | 12/33 | ar, ca, cs, da, el, fi, he, hi, hr, hu, id, ms, no, pl, ro, sk, sv, th, uk, vi, zh-Hant |
+| jetty | 11/33 | same list + fr |
+| tickpull | 2/33 | everything except en, de |
+| loupe | 3/33 | everything except en, de, pt |
+| canopy, deskcloak | 1/33 | everything but en (both unapproved in App Review, low priority) |
+
+Also new since 2026-09-22, **English-only, zero locales started**: `double-calculator`,
+`fisheye`, `tarot` (Aurum Tarot / Play Store) — these didn't exist before today, so they
+were never in scope for any prior localization pass.
+
+**How to actually do this when we pick it up** — same shape as the existing pipeline
+below (§4), just executed via subagents instead of Codex:
+
+1. `python3 i18n-tools/extract.py <app>` — turns the English `en.ts` into a plain JSON
+   payload (`<app>_payload.json`), one entry per article, stripped of TSX/JS syntax.
+2. Fan out one subagent per target locale (or a batch of locales), each prompted **in
+   that locale's language** — "translate this JSON payload into <language>, keep the
+   `slug` keys unchanged, keep HTML tags in `content` intact, translate only the text
+   nodes" — writing its output as `<app>_<locale>_part*.json` under
+   `i18n-tools/translated/`.
+3. `python3 i18n-tools/apply.py <app> <locale> [locale...]` — globs the part files,
+   combines, and merges into `_data/<locale>.ts`. Refuses to write on count mismatch,
+   shrinkage, or English-identical content (silent-fallback guard), so a bad subagent
+   output aborts cleanly instead of corrupting a locale file.
+4. `python3 i18n-tools/verify.py <app>` before pushing — confirm its `APPS` list
+   actually includes the app first (see §0b, it silently skipped 6 apps before).
+
+Priority order if resumed: tome first (highest revenue per Eduard, 2026-09-22), then
+the other 12/33 apps (same missing-locale list, so one prompt set covers all of them),
+then jetty/tickpull/loupe (lowest coverage, live in the App Store), then the 3 new
+English-only apps, then canopy/deskcloak last (not currently live).
+
+---
+
 ## 0a. SESSION 3 RESULTS (2026-09-17)
 
 **Pipeline is now one command per locale.** Do not hand-run combine/merge any more:
