@@ -41,16 +41,16 @@ export default function NightfallTerms() {
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        3. VIP Subscription
+        3. Eternal Vigil (One-Time Membership)
       </h2>
       <p className="mb-6">
-        VIP is an auto-renewable monthly subscription. The price shown in the
-        App is charged to your Apple ID when you confirm the purchase. VIP
-        renews automatically unless you cancel at least 24 hours before the end
-        of the current billing period. Apple charges renewal within 24 hours
-        before the period ends. Manage or cancel VIP in iOS Settings &rarr;
-        Apple ID &rarr; Subscriptions. Benefits remain available until the end
-        of the paid period after cancellation.
+        Eternal Vigil is a one-time, non-consumable purchase. The price shown in
+        the App is charged to your Apple ID once, when you confirm the purchase.
+        It is not a subscription: nothing renews, there is no recurring charge,
+        and there is nothing to cancel. The membership stays on your Apple ID
+        permanently and can be restored on any device by opening the Shop and
+        tapping Restore Purchases. Nightfall does not offer auto-renewable
+        subscriptions.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">

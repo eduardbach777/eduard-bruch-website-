@@ -27,7 +27,7 @@ export default function NightfallSupport() {
       </h2>
       <p className="mb-6">
         Open the Shop and tap Restore Purchases. Restorable purchases and an
-        active VIP membership tied to your Apple ID will be recovered. Gem
+        Eternal Vigil membership tied to your Apple ID will be recovered. Gem
         packs are consumable purchases and are protected through Nightfall&apos;s
         cloud-save system rather than Apple&apos;s restore function.
       </p>
@@ -42,12 +42,13 @@ export default function NightfallSupport() {
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        Manage VIP
+        Eternal Vigil
       </h2>
       <p className="mb-6">
-        Apple manages subscriptions. On iPhone or iPad, open Settings, tap your
-        name, then Subscriptions. Select Nightfall to view, change, or cancel
-        VIP.
+        Eternal Vigil is a one-time purchase, not a subscription. It never
+        renews and there is nothing to cancel. If it is missing after a
+        reinstall or on a new device, open the Shop and tap Restore Purchases
+        while signed in with the Apple ID that bought it.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">

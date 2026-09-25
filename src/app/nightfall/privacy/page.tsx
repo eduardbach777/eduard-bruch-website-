@@ -102,7 +102,7 @@ export default function NightfallPrivacy() {
         </li>
         <li>
           <Link href="https://www.revenuecat.com/privacy">RevenueCat</Link> for
-          purchase and subscription management
+          purchase management
         </li>
         <li>
           <Link href="https://policies.google.com/privacy">Google AdMob</Link>{" "}
