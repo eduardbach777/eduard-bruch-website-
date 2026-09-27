@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useLanguage } from "@/context/LanguageContext";
 
 const macTop = [
-  { name: "SoundDial", href: "/sounddial/blog" },
+  { name: "SoundDial", href: "/sounddial" },
   { name: "Jetty", href: "/jetty/blog" },
   { name: "Loupe", href: "/loupe" },
   { name: "Dayedge", href: "/dayedge/blog" },

@@ -1,210 +1,295 @@
+import { A, LegalPage, Provider, Ul, type LegalSection } from "../_legal";
+
 export const metadata = {
-  title: "Terms of Use — SoundDial",
+  title: "Nutzungsbedingungen / Terms of Use — SoundDial",
   description:
-    "Terms of use for the SoundDial per-app volume mixer for macOS by Eduard Bruch.",
+    "Nutzungsbedingungen für SoundDial, den Lautstärkemixer pro App für macOS. Terms of Use for SoundDial, the per-app volume mixer for macOS.",
+  alternates: { canonical: "https://www.eduardbruch.com/sounddial/terms" },
 };
+
+const EULA = "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/";
+const REFUND = "https://reportaproblem.apple.com";
+
+const de: LegalSection[] = [
+  {
+    h: "Anbieter und Geltungsbereich",
+    body: (
+      <>
+        <p>Anbieter der App SoundDial („App“) ist:</p>
+        <Provider />
+        <p>
+          Die App wird ausschließlich über den Mac App Store von Apple vertrieben. Für den Erwerb und die Nutzung gilt der
+          Lizenzvertrag für lizenzierte Apps von Apple (<A href={EULA}>Standard-EULA</A>) zwischen Ihnen und uns. Diese
+          Nutzungsbedingungen ergänzen die Standard-EULA; bei Widersprüchen hat die Standard-EULA Vorrang, soweit nicht
+          zwingendes Recht etwas anderes bestimmt.
+        </p>
+      </>
+    ),
+  },
+  {
+    h: "Leistungsbeschreibung",
+    body: (
+      <>
+        <p>SoundDial ist ein Lautstärkemixer pro App für macOS in der Menüleiste. Die App bietet insbesondere:</p>
+        <Ul>
+          <li>Lautstärke pro App von 0 % bis 200 %, Stummschaltung und Pegelanzeigen</li>
+          <li>Equalizer mit 10 Bändern und Voreinstellungen sowie Links/Rechts-Balance pro App</li>
+          <li>Ausgabe einzelner Apps auf ein eigenes Ausgabegerät</li>
+          <li>Automatisches Absenken anderer Apps während Anrufen (Auto-Ducking)</li>
+          <li>Lautstärkeprofile</li>
+          <li>Steuerung von Ausgabegeräten einschließlich Abtastrate und Software-Lautstärke</li>
+          <li>Tastenkürzel, Aktionen für die Kurzbefehle-App und sounddial://-Links</li>
+          <li>Geführte Einrichtung</li>
+        </Ul>
+        <p>
+          Voraussetzung ist macOS 14.2 oder neuer sowie die macOS-Berechtigung „Nur Aufnahme von Systemaudio“. Einzelne
+          Apps oder Geräte können sich aufgrund von Vorgaben von Apple oder Drittanbietern anders verhalten; der Funktionsumfang
+          richtet sich nach der jeweils aktuellen Version und der Beschreibung im Mac App Store.
+        </p>
+      </>
+    ),
+  },
+  {
+    h: "Nutzungsrecht",
+    body: (
+      <p>
+        Sie erhalten ein einfaches, nicht übertragbares Recht, die App im Rahmen der Standard-EULA und der Nutzungsregeln
+        des App Store auf Apple-Geräten zu nutzen, die Sie besitzen oder kontrollieren. Eine Dekompilierung oder Bearbeitung
+        ist nur zulässig, soweit das Gesetz sie zwingend erlaubt (§§ 69d, 69e UrhG).
+      </p>
+    ),
+  },
+  {
+    h: "Preis, Kauf und Rückerstattung",
+    body: (
+      <p>
+        SoundDial ist ein Einmalkauf ohne Abonnement, ohne In-App-Käufe und ohne Benutzerkonto; Updates sind enthalten. Der
+        Kauf, die Zahlung und Rückerstattungen werden ausschließlich von Apple abgewickelt. Ihr gesetzliches Widerrufsrecht
+        und Rückerstattungen richten sich nach den Bedingungen von Apple; Rückerstattungen können Sie unter{" "}
+        <A href={REFUND}>reportaproblem.apple.com</A> beantragen.
+      </p>
+    ),
+  },
+  {
+    h: "Gewährleistung und Updates",
+    body: (
+      <p>
+        Es gelten die gesetzlichen Mängelrechte, für Verbraucher insbesondere die Vorschriften über digitale Produkte
+        (§§ 327 ff. BGB), einschließlich der Pflicht, erforderliche Aktualisierungen bereitzustellen. Diese Rechte werden
+        durch diese Nutzungsbedingungen nicht eingeschränkt.
+      </p>
+    ),
+  },
+  {
+    h: "Haftung",
+    body: (
+      <>
+        <p>
+          Wir haften unbeschränkt bei Vorsatz und grober Fahrlässigkeit, bei Verletzung von Leben, Körper oder Gesundheit,
+          bei arglistig verschwiegenen Mängeln, im Rahmen einer übernommenen Garantie sowie nach dem Produkthaftungsgesetz.
+        </p>
+        <p>
+          Bei leichter Fahrlässigkeit haften wir nur bei Verletzung einer wesentlichen Vertragspflicht, deren Erfüllung die
+          ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung Sie regelmäßig
+          vertrauen dürfen (Kardinalpflicht), und nur für den vertragstypischen, vorhersehbaren Schaden. Im Übrigen ist die
+          Haftung für leichte Fahrlässigkeit ausgeschlossen.
+        </p>
+      </>
+    ),
+  },
+  {
+    h: "Apps von Drittanbietern",
+    body: (
+      <p>
+        SoundDial steuert die Audioausgabe anderer Programme. Für das Verhalten, die Kompatibilität und die Inhalte von Apps
+        und Geräten Dritter sind deren Anbieter verantwortlich.
+      </p>
+    ),
+  },
+  {
+    h: "Datenschutz",
+    body: (
+      <p>
+        Die App erhebt keine personenbezogenen Daten. Einzelheiten finden Sie in der{" "}
+        <A href="/sounddial/privacy">Datenschutzerklärung von SoundDial</A>.
+      </p>
+    ),
+  },
+  {
+    h: "Anwendbares Recht und Gerichtsstand",
+    body: (
+      <p>
+        Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Sind Sie Verbraucher mit
+        gewöhnlichem Aufenthalt in einem anderen Staat, bleibt Ihnen der Schutz durch die zwingenden Vorschriften dieses
+        Staates erhalten (Art. 6 Rom-I-VO). Ist der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder
+        öffentlich-rechtliches Sondervermögen, ist Gerichtsstand Hamburg.
+      </p>
+    ),
+  },
+  {
+    h: "Verbraucherstreitbeilegung",
+    body: (
+      <p>
+        Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle
+        teilzunehmen (§ 36 VSBG).
+      </p>
+    ),
+  },
+  {
+    h: "Änderungen und Kontakt",
+    body: (
+      <p>
+        Wir können diese Nutzungsbedingungen für künftige Versionen der App anpassen. Es gilt die jeweils unter{" "}
+        <A href="/sounddial/terms">eduardbruch.com/sounddial/terms</A> veröffentlichte Fassung. Fragen richten Sie bitte an{" "}
+        <A href="mailto:support@eduardbruch.com">support@eduardbruch.com</A>. Anbieterangaben finden Sie im{" "}
+        <A href="/impressum">Impressum</A>.
+      </p>
+    ),
+  },
+];
+
+const en: LegalSection[] = [
+  {
+    h: "Provider and scope",
+    body: (
+      <>
+        <p>The SoundDial app (“App”) is provided by:</p>
+        <Provider />
+        <p>
+          The App is distributed exclusively through Apple&apos;s Mac App Store. Purchase and use are governed by
+          Apple&apos;s Licensed Application End User License Agreement (<A href={EULA}>Standard EULA</A>) between you and
+          us. These Terms supplement the Standard EULA; if they conflict, the Standard EULA prevails unless mandatory law
+          provides otherwise.
+        </p>
+      </>
+    ),
+  },
+  {
+    h: "Description of the App",
+    body: (
+      <>
+        <p>SoundDial is a per-app volume mixer for the macOS menu bar. In particular, the App offers:</p>
+        <Ul>
+          <li>Per-app volume from 0% to 200%, mute and level meters</li>
+          <li>A 10-band equalizer with presets and left/right balance for each app</li>
+          <li>Sending individual apps to their own output device</li>
+          <li>Automatically lowering other apps during calls (auto-ducking)</li>
+          <li>Volume profiles</li>
+          <li>Output device control including sample rate and software volume</li>
+          <li>Keyboard shortcuts, Shortcuts app actions and sounddial:// links</li>
+          <li>Guided setup</li>
+        </Ul>
+        <p>
+          The App requires macOS 14.2 or later and the macOS “System Audio Recording Only” permission. Individual apps or
+          devices may behave differently due to requirements set by Apple or third parties; the features are those of the
+          current version and its Mac App Store description.
+        </p>
+      </>
+    ),
+  },
+  {
+    h: "License",
+    body: (
+      <p>
+        You receive a simple, non-transferable right to use the App on Apple devices you own or control, within the
+        Standard EULA and the App Store Usage Rules. Decompiling or modifying the App is only permitted where mandatory law
+        allows it (§§ 69d, 69e German Copyright Act).
+      </p>
+    ),
+  },
+  {
+    h: "Price, purchase and refunds",
+    body: (
+      <p>
+        SoundDial is a one-time purchase with no subscription, no in-app purchases and no account; updates are included.
+        Purchase, payment and refunds are handled exclusively by Apple. Your statutory right of withdrawal and refunds are
+        governed by Apple&apos;s terms; you can request a refund at <A href={REFUND}>reportaproblem.apple.com</A>.
+      </p>
+    ),
+  },
+  {
+    h: "Warranty and updates",
+    body: (
+      <p>
+        Statutory warranty rights apply, for consumers in particular the rules on digital products (§§ 327 et seq. German
+        Civil Code), including the obligation to provide necessary updates. These Terms do not limit those rights.
+      </p>
+    ),
+  },
+  {
+    h: "Liability",
+    body: (
+      <>
+        <p>
+          We are liable without limitation for intent and gross negligence, for injury to life, body or health, for
+          fraudulently concealed defects, under a guarantee we have given, and under the German Product Liability Act.
+        </p>
+        <p>
+          For slight negligence we are liable only for breach of an essential contractual obligation — one whose fulfilment
+          makes proper performance of the contract possible and on which you may regularly rely — and only for typical,
+          foreseeable damage. Otherwise, liability for slight negligence is excluded.
+        </p>
+      </>
+    ),
+  },
+  {
+    h: "Third-party apps",
+    body: (
+      <p>
+        SoundDial controls the audio output of other programs. The providers of third-party apps and devices are
+        responsible for their behavior, compatibility and content.
+      </p>
+    ),
+  },
+  {
+    h: "Privacy",
+    body: (
+      <p>
+        The App collects no personal data. For details, see the <A href="/sounddial/privacy">SoundDial Privacy Policy</A>.
+      </p>
+    ),
+  },
+  {
+    h: "Governing law and jurisdiction",
+    body: (
+      <p>
+        German law applies, excluding the UN Convention on Contracts for the International Sale of Goods. If you are a
+        consumer habitually resident in another country, you keep the protection of that country&apos;s mandatory
+        provisions (Art. 6 Rome I Regulation). If the user is a merchant, a legal entity under public law or a special fund
+        under public law, the place of jurisdiction is Hamburg, Germany.
+      </p>
+    ),
+  },
+  {
+    h: "Consumer dispute resolution",
+    body: (
+      <p>
+        We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration
+        board (§ 36 German Consumer Dispute Resolution Act, VSBG).
+      </p>
+    ),
+  },
+  {
+    h: "Changes and contact",
+    body: (
+      <p>
+        We may adapt these Terms for future versions of the App. The version published at{" "}
+        <A href="/sounddial/terms">eduardbruch.com/sounddial/terms</A> applies. Please send questions to{" "}
+        <A href="mailto:support@eduardbruch.com">support@eduardbruch.com</A>. Provider details are in the{" "}
+        <A href="/impressum">Impressum (legal notice)</A>.
+      </p>
+    ),
+  },
+];
 
 export default function SoundDialTerms() {
   return (
-    <main className="mx-auto max-w-3xl px-6 py-20 text-neutral-200">
-      <h1 className="mb-4 text-4xl font-bold text-white">
-        Terms of Use / Nutzungsbedingungen
-      </h1>
-      <p className="mb-2 text-lg text-neutral-300">SoundDial</p>
-      <p className="mb-10 text-sm text-neutral-500">
-        Last updated: May 24, 2026
-      </p>
-
-      <p className="mb-6">
-        These Terms of Use (&quot;Terms&quot;) govern your use of SoundDial
-        (&quot;the App&quot;), a per-app volume mixer for macOS, developed and
-        published by Eduard Bruch (&quot;Developer&quot;, &quot;we&quot;,
-        &quot;us&quot;). By downloading, installing, or using the App, you agree
-        to be bound by these Terms. If you do not agree, do not use the App.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        1. License Grant
-      </h2>
-      <p className="mb-4">
-        Subject to your compliance with these Terms, we grant you a limited,
-        non-exclusive, non-transferable, revocable license to download, install,
-        and use the App on Apple-branded devices that you own or control, as
-        permitted by the App Store Terms of Service.
-      </p>
-      <p className="mb-6">You may not:</p>
-      <ul className="mb-6 list-disc pl-6 space-y-2">
-        <li>Reverse engineer, decompile, disassemble, or attempt to derive the source code of the App;</li>
-        <li>Sublicense, rent, lease, lend, or transfer the App or any rights therein to any third party;</li>
-        <li>Modify, adapt, or create derivative works based on the App;</li>
-        <li>Remove, alter, or obscure any proprietary notices in the App.</li>
-      </ul>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        2. App Description and Intended Use
-      </h2>
-      <p className="mb-4">
-        SoundDial is a per-app volume mixer for macOS that allows you to control
-        the volume of individual applications independently. Key features include:
-      </p>
-      <ul className="mb-4 list-disc pl-6 space-y-2">
-        <li><strong>Per-App Volume:</strong> Individual volume sliders for each running application (0% to 200%)</li>
-        <li><strong>Auto-Ducking:</strong> Automatically lowers non-call app volumes when communication apps (Zoom, Teams, FaceTime, Discord, Slack) are active</li>
-        <li><strong>Volume Profiles:</strong> Save and restore named volume configurations</li>
-        <li><strong>Master Volume:</strong> System-wide volume control and output device selection</li>
-        <li><strong>Menu Bar Interface:</strong> Accessible from your Mac&apos;s menu bar</li>
-      </ul>
-      <p className="mb-6">
-        The App uses Apple&apos;s Core Audio Tap API to intercept and adjust
-        per-app audio output in real-time. The App requires the &quot;Screen &amp;
-        System Audio Recording&quot; permission to function.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        3. Purchase and Payment
-      </h2>
-      <p className="mb-6">
-        SoundDial is available as a one-time purchase through the Mac App Store.
-        Payment is processed by Apple. All purchases are subject to Apple&apos;s
-        standard App Store terms and refund policies. We do not process payments
-        directly.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        4. System Requirements
-      </h2>
-      <p className="mb-6">
-        SoundDial requires macOS 14.2 (Sonoma) or later. The App uses the Core
-        Audio Tap API introduced in macOS 14.2. The App may not function
-        correctly on unsupported macOS versions.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        5. Audio Permission and Behavior
-      </h2>
-      <p className="mb-4">
-        To control per-app volume, SoundDial intercepts audio output using
-        Apple&apos;s Core Audio Tap API. This requires the &quot;Screen &amp;
-        System Audio Recording&quot; permission. When active, macOS displays a
-        purple indicator dot in the menu bar — this is standard macOS behavior
-        for any app using this API.
-      </p>
-      <p className="mb-6">
-        The App does not record, store, or transmit any audio data. The audio
-        tap is used solely for real-time volume adjustment.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        6. Privacy
-      </h2>
-      <p className="mb-6">
-        Your privacy is important to us. SoundDial collects no personal data,
-        makes no network requests, and includes no analytics or tracking. For
-        full details, see our{" "}
-        <a
-          href="/sounddial/privacy"
-          className="text-indigo-400 underline"
-        >
-          Privacy Policy
-        </a>
-        .
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        7. Disclaimer of Warranties
-      </h2>
-      <p className="mb-6">
-        The App is provided &quot;as is&quot; and &quot;as available&quot;
-        without warranties of any kind, whether express or implied, including
-        but not limited to implied warranties of merchantability, fitness for a
-        particular purpose, and non-infringement. We do not warrant that the App
-        will be uninterrupted, error-free, or compatible with all hardware
-        configurations, audio devices, or third-party applications.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        8. Limitation of Liability
-      </h2>
-      <p className="mb-6">
-        To the maximum extent permitted by applicable law, in no event shall the
-        Developer be liable for any indirect, incidental, special, consequential,
-        or punitive damages, or any loss of profits or revenues, whether incurred
-        directly or indirectly, or any loss of data, use, goodwill, or other
-        intangible losses, resulting from (a) your use of or inability to use
-        the App; (b) any audio interruption, distortion, or loss caused by the
-        App; (c) any unauthorized access to or alteration of your system audio.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        9. Third-Party Software
-      </h2>
-      <p className="mb-6">
-        SoundDial interacts with audio output from third-party applications
-        installed on your Mac. We are not responsible for the behavior,
-        compatibility, or audio output of third-party applications. Some
-        applications (e.g., FaceTime, certain VoIP clients) may restrict audio
-        interception due to Apple privacy policies.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        10. Updates
-      </h2>
-      <p className="mb-6">
-        We may release updates to the App from time to time through the Mac App
-        Store. Updates may include bug fixes, new features, or compatibility
-        improvements. We are not obligated to provide updates or continued
-        support for any specific version.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        11. Termination
-      </h2>
-      <p className="mb-6">
-        You may stop using the App at any time by uninstalling it. We reserve
-        the right to terminate or suspend your access to the App if you violate
-        these Terms. Upon termination, all rights granted to you under these
-        Terms will immediately cease.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        12. Governing Law
-      </h2>
-      <p className="mb-6">
-        These Terms shall be governed by and construed in accordance with the
-        laws of the Federal Republic of Germany, without regard to its conflict
-        of law provisions. The exclusive place of jurisdiction is Hamburg,
-        Germany, to the extent permitted by law.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        13. Changes to These Terms
-      </h2>
-      <p className="mb-6">
-        We may update these Terms from time to time. The latest version will
-        always be available at{" "}
-        <a
-          href="https://eduardbruch.com/sounddial/terms"
-          className="text-indigo-400 underline"
-        >
-          eduardbruch.com/sounddial/terms
-        </a>
-        . Continued use of the App after changes constitutes acceptance of the
-        new Terms.
-      </p>
-
-      <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
-        14. Contact
-      </h2>
-      <p className="mb-2">
-        If you have questions about these Terms, contact us at:
-      </p>
-      <p className="mb-1">Eduard Bruch</p>
-      <p className="mb-1">Kleinfeld 28c, 21149 Hamburg, Deutschland</p>
-      <p className="mb-6">
-        <a href="mailto:support@eduardbruch.com" className="text-indigo-400 underline">
-          support@eduardbruch.com
-        </a>
-      </p>
-    </main>
+    <LegalPage
+      title="Nutzungsbedingungen / Terms of Use"
+      updatedDe="Stand: 27. September 2026"
+      updatedEn="Last updated: September 27, 2026"
+      de={de}
+      en={en}
+    />
   );
 }

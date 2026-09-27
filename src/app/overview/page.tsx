@@ -17,7 +17,7 @@ interface AppEntry {
 }
 
 const MAC_APPS: AppEntry[] = [
-  { name: "SoundDial", tagline: "Per-App Volume Mixer", desc: "Independent volume sliders, profiles, auto-ducking, and per-app mute.", href: "/sounddial/blog", storeUrl: buildStoreUrl({ appSlug: "sounddial", appId: "6772792641", campaign: campaignFor.overview() }), accent: "#d4ad5e", img: "/apps/sounddial.png" },
+  { name: "SoundDial", tagline: "Per-App Volume Mixer", desc: "Independent volume sliders, profiles, auto-ducking, and per-app mute.", href: "/sounddial", storeUrl: buildStoreUrl({ appSlug: "sounddial", appId: "6772792641", campaign: campaignFor.overview() }), accent: "#d4ad5e", img: "/apps/sounddial.png" },
   { name: "Jetty", tagline: "Dock Launcher", desc: "Launch any app from the menu bar — grouped panels, one click.", href: "/jetty/blog", storeUrl: buildStoreUrl({ appSlug: "jetty", appId: "6806639647", campaign: campaignFor.overview() }), accent: "#4A9EFF", img: "/apps/jetty.png" },
   { name: "Loupe", tagline: "Archive & Folder Viewer", desc: "Preview ZIP, RAR, and folder contents with Quick Look — no extracting.", href: "/loupe", storeUrl: buildStoreUrl({ appSlug: "loupe", appId: "6806599791", campaign: campaignFor.overview() }), accent: "#5AC8FA", img: "/apps/loupe.png" },
   { name: "Dayedge", tagline: "Calendar Sidebar", desc: "Pin a slim calendar timeline to your screen edge — always visible.", href: "/dayedge/blog", storeUrl: buildStoreUrl({ appSlug: "dayedge", appId: "6806600925", campaign: campaignFor.overview() }), accent: "#FF9500", img: "/apps/dayedge.png" },

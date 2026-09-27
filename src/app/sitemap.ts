@@ -77,6 +77,9 @@ const STATIC_PAGES = [
   { path: "lockin", priority: 0.8 },
   { path: "tome", priority: 0.8 },
   { path: "mediasmith", priority: 0.8 },
+  { path: "sounddial", priority: 0.9 },
+  { path: "sounddial/privacy", priority: 0.3 },
+  { path: "sounddial/terms", priority: 0.3 },
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
