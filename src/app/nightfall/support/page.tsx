@@ -17,7 +17,7 @@ export default function NightfallSupport() {
         <a href="mailto:support@eduardbruch.com" className="text-indigo-400 underline">
           support@eduardbruch.com
         </a>{" "}
-        with your device model, iOS version, Nightfall version, and a short
+        with your device model, iOS or Android version, Nightfall version, and a short
         description of the problem. We normally respond within two business
         days.
       </p>
@@ -27,9 +27,10 @@ export default function NightfallSupport() {
       </h2>
       <p className="mb-6">
         Open the Shop and tap Restore Purchases. Restorable purchases and an
-        Eternal Vigil membership tied to your Apple ID will be recovered. Gem
-        packs are consumable purchases and are protected through Nightfall&apos;s
-        cloud-save system rather than Apple&apos;s restore function.
+        Eternal Vigil membership tied to your Apple ID (iPhone, iPad) or Google
+        account (Android) will be recovered. Gem packs are consumable purchases
+        and are protected through Nightfall&apos;s cloud-save system rather than
+        the store&apos;s restore function.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -37,8 +38,11 @@ export default function NightfallSupport() {
       </h2>
       <p className="mb-6">
         On the original device, open the Shop and choose Back up account
-        (Apple). On the new device, use the same option with the same Apple ID.
-        Keep iCloud enabled for an additional device backup.
+        (Apple on iPhone and iPad, Google on Android). On the new device, use
+        the same option with the same account. Reinstalling on the same phone
+        restores your save automatically: on iPhone and iPad through the
+        Keychain and iCloud, on Android through your Google account&apos;s
+        backup.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -48,7 +52,7 @@ export default function NightfallSupport() {
         Eternal Vigil is a one-time purchase, not a subscription. It never
         renews and there is nothing to cancel. If it is missing after a
         reinstall or on a new device, open the Shop and tap Restore Purchases
-        while signed in with the Apple ID that bought it.
+        while signed in with the Apple ID or Google account that bought it.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -56,9 +60,10 @@ export default function NightfallSupport() {
       </h2>
       <p className="mb-6">
         Uninstalling removes local data, but cloud backups and purchase records
-        may remain so progress and paid items can be recovered. To request
-        deletion of Nightfall server data, email support with your player name
-        and player ID if available.
+        may remain so progress and paid items can be recovered. To delete your
+        Nightfall server data, open the Shop and tap Delete Account &amp; Cloud
+        Data, or email support with your player name and player ID if
+        available.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">Legal</h2>

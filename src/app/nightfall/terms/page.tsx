@@ -15,8 +15,9 @@ export default function NightfallTerms() {
       </p>
 
       <p className="mb-6">
-        By downloading or using Nightfall, you agree to these terms and
-        Apple&apos;s Standard End User License Agreement. If you do not agree,
+        By downloading or using Nightfall, you agree to these terms and, on
+        iPhone and iPad, Apple&apos;s Standard End User License Agreement, or on
+        Android, the Google Play Terms of Service. If you do not agree,
         do not use the App.
       </p>
 
@@ -26,18 +27,18 @@ export default function NightfallTerms() {
       <p className="mb-6">
         Nightfall is a fictional entertainment game. You may use it for
         personal, non-commercial purposes in accordance with these terms and
-        the rules of the App Store.
+        the rules of the App Store or Google Play.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
         2. Purchases and Virtual Items
       </h2>
       <p className="mb-6">
-        Purchases are processed by Apple and are subject to Apple&apos;s payment
-        terms. Gems, gold, gear, and other virtual items have no cash value,
+        Purchases are processed by Apple (App Store) or Google (Google Play)
+        and are subject to that store&apos;s payment terms. Gems, gold, gear, and other virtual items have no cash value,
         cannot be exchanged for money, and may be used only inside Nightfall.
         Purchased in-game currency does not expire. Consumable purchases are
-        not restored by Apple; Nightfall uses cloud save to protect them.
+        not restored by the store; Nightfall uses cloud save to protect them.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -45,9 +46,10 @@ export default function NightfallTerms() {
       </h2>
       <p className="mb-6">
         Eternal Vigil is a one-time, non-consumable purchase. The price shown in
-        the App is charged to your Apple ID once, when you confirm the purchase.
+        the App is charged once to your Apple ID or Google account, when you
+        confirm the purchase.
         It is not a subscription: nothing renews, there is no recurring charge,
-        and there is nothing to cancel. The membership stays on your Apple ID
+        and there is nothing to cancel. The membership stays on that account
         permanently and can be restored on any device by opening the Shop and
         tapping Restore Purchases. Nightfall does not offer auto-renewable
         subscriptions.

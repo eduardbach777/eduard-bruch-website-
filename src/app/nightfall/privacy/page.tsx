@@ -29,7 +29,7 @@ export default function NightfallPrivacy() {
       <p className="mb-6">
         This policy explains how Nightfall (&quot;the App&quot;), published by
         Eduard Bruch, handles information when you play, use cloud save or
-        leaderboards, view ads, sign in with Apple, or make a purchase.
+        leaderboards, view ads, sign in with Apple or Google, or make a purchase.
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">
@@ -48,22 +48,26 @@ export default function NightfallPrivacy() {
         <li>
           <strong>Game progress and cloud saves:</strong> inventory, currency,
           unlocks, settings, and progress are stored on your device and backed
-          up using a randomly generated player ID. Apple iCloud key-value
-          storage may also hold a copy when iCloud is available.
+          up using a randomly generated player ID. On iPhone and iPad, Apple
+          iCloud key-value storage may also hold a copy, and the player ID is
+          kept in the Keychain. On Android, the player ID is kept with Google
+          Block Store and Android backup so a reinstall can find your save.
         </li>
         <li>
           <strong>Leaderboards:</strong> your chosen player name, score, title,
           and pseudonymous player ID are sent when you use leaderboard features.
         </li>
         <li>
-          <strong>Optional Sign in with Apple:</strong> if you choose account
-          backup, the App receives Apple&apos;s stable user identifier. It does
-          not request your name or email address.
+          <strong>Optional Sign in with Apple or Google:</strong> if you choose
+          account backup, the App receives the provider&apos;s stable user
+          identifier. It does not request your name or email address.
         </li>
         <li>
-          <strong>Purchases:</strong> Apple processes payment. RevenueCat
-          receives purchase receipts, transaction information, product IDs,
-          and a pseudonymous app-user ID to unlock and restore purchases.
+          <strong>Purchases:</strong> Apple (App Store) or Google (Google Play)
+          processes payment. RevenueCat receives purchase receipts, transaction
+          information, product IDs, and a pseudonymous app-user ID to unlock and
+          restore purchases. Our server stores transaction IDs with your player
+          ID so a purchase is delivered exactly once across your devices.
         </li>
         <li>
           <strong>Advertising:</strong> Google AdMob may process device and
@@ -101,12 +105,19 @@ export default function NightfallPrivacy() {
           Apple for App Store payments, iCloud, and optional Sign in with Apple
         </li>
         <li>
+          Google for Google Play payments, Android backup, and optional Sign in
+          with Google
+        </li>
+        <li>
           <Link href="https://www.revenuecat.com/privacy">RevenueCat</Link> for
           purchase management
         </li>
         <li>
           <Link href="https://policies.google.com/privacy">Google AdMob</Link>{" "}
-          for advertising
+          for advertising, with{" "}
+          <Link href="https://www.applovin.com/privacy/">AppLovin</Link> and{" "}
+          <Link href="https://unity.com/legal/game-player-and-app-user-privacy-policy">Unity Ads</Link>{" "}
+          as additional ad networks through AdMob mediation
         </li>
         <li>
           <Link href="https://www.cloudflare.com/privacypolicy/">Cloudflare</Link>{" "}
@@ -124,7 +135,9 @@ export default function NightfallPrivacy() {
       <p className="mb-6">
         On iOS, the App asks for permission before allowing cross-app tracking.
         You can change this later in iOS Settings &rarr; Privacy &amp; Security
-        &rarr; Tracking. Where required, the App also presents Google&apos;s
+        &rarr; Tracking. On Android, you can reset or delete your advertising ID
+        in Settings &rarr; Privacy &rarr; Ads (or Settings &rarr; Google &rarr;
+        Ads). Where required, the App also presents Google&apos;s
         consent choices and a way to revisit them. Refusing consent may result
         in non-personalized or limited ads.
       </p>
@@ -134,7 +147,7 @@ export default function NightfallPrivacy() {
       </h2>
       <p className="mb-6">
         Local data remains until you delete the App or clear its data. Cloud
-        save, leaderboard, Apple-link, and purchase records are retained while
+        save, leaderboard, account-link, and purchase records are retained while
         needed to operate and secure those features, meet legal obligations,
         and preserve purchased currency and entitlements. To request deletion
         of server-side data, email support with your Nightfall player name and,
