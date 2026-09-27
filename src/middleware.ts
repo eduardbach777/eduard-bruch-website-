@@ -72,7 +72,7 @@ export const config = {
    * were ever misconfigured.
    */
   matcher: [
-    "/((?!api|_next/static|_next/image|favicon.ico|icon.png|apple-icon.png|robots.txt|sitemap.xml|.*\\.(?:png|jpg|jpeg|gif|webp|svg|ico|css|js|woff|woff2|ttf|mp4)$).*)",
+    "/((?!api|_next/static|_next/image|favicon.ico|icon.png|apple-icon.png|robots.txt|llms.txt|sitemap.xml|.*\\.(?:png|jpg|jpeg|gif|webp|svg|ico|css|js|txt|woff|woff2|ttf|mp4)$).*)",
   ],
 };
 

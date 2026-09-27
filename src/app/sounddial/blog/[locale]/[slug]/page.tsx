@@ -89,6 +89,27 @@ const labels: Record<string, { back: string; download: string; nextArticle: stri
 };
 
 const VALID_LOCALES = LOCALES.map((l) => l.code);
+const SITE = "https://www.eduardbruch.com";
+
+// The article's own screenshot (first image in its HTML) as the share/preview image; the 2.0 hero otherwise.
+function articleImage(html: string): string {
+  const src = html.match(/<img[^>]+src="(\/apps\/[^"]+)"/)?.[1] ?? "/apps/sounddial.png";
+  return `${SITE}${src}`;
+}
+
+const stripTags = (html: string) => html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+
+// Visible question headings (h3 ending in "?") and the paragraph(s) under them → FAQPage structured data.
+function faqFromContent(html: string): { q: string; a: string }[] {
+  const out: { q: string; a: string }[] = [];
+  const re = /<h3[^>]*>([\s\S]*?)<\/h3>([\s\S]*?)(?=<h[23][\s>]|$)/g;
+  for (const m of html.matchAll(re)) {
+    const q = stripTags(m[1]);
+    const a = [...m[2].matchAll(/<p[^>]*>([\s\S]*?)<\/p>/g)].map((p) => stripTags(p[1])).join(" ");
+    if (/[?？؟]$/.test(q) && a) out.push({ q, a });
+  }
+  return out;
+}
 
 export async function generateMetadata({
   params,
@@ -111,8 +132,22 @@ export async function generateMetadata({
   return {
     title: `${article.title} — SoundDial Blog`,
     description: article.description,
-    openGraph: { title: article.title, description: article.description, type: "article", publishedTime: article.date },
-    alternates: { canonical: `/sounddial/blog/${locale}/${slug}`, languages: alternates },
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      type: "article",
+      publishedTime: article.date,
+      modifiedTime: article.date,
+      authors: ["Eduard Bruch"],
+      images: [{ url: articleImage(article.content), width: 1600, height: 1000, alt: article.title }],
+    },
+    twitter: { card: "summary_large_image", title: article.title, description: article.description, images: [articleImage(article.content)] },
+    // Not translated yet: this URL shows the English text, so point to the English original and keep it out of the index.
+    ...(getLocaleArticle(locale as Locale, slug) ? {} : { robots: { index: false, follow: true } }),
+    alternates: {
+      canonical: getLocaleArticle(locale as Locale, slug) ? `/sounddial/blog/${locale}/${slug}` : `/sounddial/blog/en/${slug}`,
+      languages: { ...alternates, ...(alternates.en ? { "x-default": alternates.en } : {}) },
+    },
   };
 }
 
@@ -174,8 +209,57 @@ export default async function ArticlePage({
     .filter((a, i, arr) => a && a.slug !== slug && arr.findIndex((x) => x.slug === a.slug) === i);
   const nextArticle = related[0];
 
+  const url = `${SITE}/sounddial/blog/${locale}/${slug}`;
+  const faqs = faqFromContent(article.content);
+  const schemas: object[] = [
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      headline: article.title,
+      description: article.description,
+      datePublished: article.date,
+      dateModified: article.date,
+      inLanguage: locale,
+      mainEntityOfPage: url,
+      image: articleImage(article.content),
+      author: { "@type": "Person", name: "Eduard Bruch", url: SITE },
+      publisher: { "@type": "Person", name: "Eduard Bruch", url: SITE },
+      about: { "@type": "SoftwareApplication", name: "SoundDial" },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      name: "SoundDial",
+      applicationCategory: "UtilitiesApplication",
+      operatingSystem: "macOS 14.2 or later",
+      offers: { "@type": "Offer", price: "14.99", priceCurrency: "EUR" },
+      downloadUrl: storeUrl,
+      url: `${SITE}/sounddial`,
+      author: { "@type": "Person", name: "Eduard Bruch", url: SITE },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "SoundDial", item: `${SITE}/sounddial` },
+        { "@type": "ListItem", position: 2, name: "SoundDial Blog", item: `${SITE}/sounddial/blog/${locale}` },
+        { "@type": "ListItem", position: 3, name: article.title, item: url },
+      ],
+    },
+    ...(faqs.length
+      ? [{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+        }]
+      : []),
+  ];
+
   return (
-    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined}>
+    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined} lang={locale}>
+      {schemas.map((schema, i) => (
+        <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />
+      ))}
       <div className="px-6 pt-36 max-w-4xl mx-auto">
         <Link
           href={`/sounddial/blog/${locale}`}
@@ -213,7 +297,9 @@ export default async function ArticlePage({
 
       <header className="px-6 pt-12 pb-10 sm:pt-16 sm:pb-14 max-w-4xl mx-auto">
         <div className="flex items-center gap-3 text-sm font-medium uppercase tracking-wider text-[#d4ad5e]">
-          <time>{article.date}</time>
+          <time dateTime={article.date}>{article.date}</time>
+          <span className="text-neutral-700">·</span>
+          <span className="text-neutral-500 normal-case tracking-normal">Eduard Bruch</span>
           {article.readTime && (
             <>
               <span className="text-neutral-700">·</span>

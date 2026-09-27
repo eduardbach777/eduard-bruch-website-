@@ -75,6 +75,10 @@ const AI_CRAWLERS_ALLOWED = [
   "Google-Extended",
   "Applebot-Extended",
   "meta-externalagent",
+  "Meta-WebIndexer",     // Meta AI search
+  "Meta-ExternalFetcher",
+  "Amzn-SearchBot",      // Amazon/Alexa answers (Amazonbot stays blocked below)
+  "DuckAssistBot",       // DuckDuckGo AI answers
   "FacebookBot",
   "CCBot",
   "cohere-ai",

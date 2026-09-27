@@ -6,6 +6,13 @@ export const metadata = {
   description:
     "Give every app on your Mac its own volume slider: 0–200% per app, per-app EQ and output device, auto-ducking during calls, profiles and DAC control. A native menu bar app.",
   alternates: { canonical: "https://www.eduardbruch.com/sounddial" },
+  openGraph: {
+    title: "SoundDial — Per-App Volume Mixer for Mac",
+    description: "Every app gets its own volume slider, EQ and output device. Mac App Store, €14.99 one-time.",
+    type: "website",
+    images: [{ url: "https://www.eduardbruch.com/apps/sounddial.png", width: 2880, height: 1800, alt: "SoundDial on macOS" }],
+  },
+  twitter: { card: "summary_large_image", images: ["https://www.eduardbruch.com/apps/sounddial.png"] },
 };
 
 const STORE_URL = buildStoreUrl({ appSlug: "sounddial", appId: "6772792641", campaign: campaignFor.landing("sounddial") });
@@ -45,9 +52,23 @@ const FEATURES = [
   },
 ];
 
+const APP_SCHEMA = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  name: "SoundDial",
+  applicationCategory: "UtilitiesApplication",
+  operatingSystem: "macOS 14.2 or later",
+  offers: { "@type": "Offer", price: "14.99", priceCurrency: "EUR" },
+  downloadUrl: STORE_URL,
+  url: "https://www.eduardbruch.com/sounddial",
+  image: "https://www.eduardbruch.com/apps/sounddial.png",
+  author: { "@type": "Person", name: "Eduard Bruch", url: "https://www.eduardbruch.com" },
+};
+
 export default function SoundDialLanding() {
   return (
     <main className="mx-auto max-w-3xl px-6 py-16 text-neutral-200">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(APP_SCHEMA) }} />
       <p className="mb-3 text-sm font-medium uppercase tracking-wider text-indigo-400">macOS</p>
       <h1 className="mb-4 text-4xl font-bold text-white">SoundDial</h1>
       <p className="mb-8 text-xl text-neutral-300">A volume slider for every app on your Mac.</p>

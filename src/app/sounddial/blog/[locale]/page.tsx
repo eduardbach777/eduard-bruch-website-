@@ -105,7 +105,7 @@ export default async function LocaleBlogPage({
   const isRtl = locale === "ar" || locale === "he";
 
   return (
-    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined}>
+    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined} lang={locale}>
       <section className="px-6 pt-36 pb-14 sm:pb-16 max-w-6xl mx-auto">
         <p className="font-mono text-xs sm:text-sm font-medium uppercase tracking-[0.22em] text-[#d4ad5e] mb-5">
           {l.tagline}
