@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getArticle, getLocaleArticle, getAllArticles, getAllSlugs, LOCALES } from "../../_data";
+import { getArticle, getLocaleArticle, getAllArticles, getAllSlugs, isEnglishCopy, LOCALES } from "../../_data";
 import type { Locale } from "../../_data";
 import type { Metadata } from "next";
 import { buildStoreUrl, campaignFor } from "@/lib/appstore";
@@ -124,7 +124,7 @@ export async function generateMetadata({
   const alternates: Record<string, string> = {};
   for (const loc of LOCALES) {
     const locArticle = getLocaleArticle(loc.code, slug);
-    if (locArticle) {
+    if (locArticle && !isEnglishCopy(loc.code, slug)) {
       alternates[loc.code] = `/sounddial/blog/${loc.code}/${slug}`;
     }
   }
@@ -145,7 +145,11 @@ export async function generateMetadata({
     // Not translated yet: this URL shows the English text, so point to the English original and keep it out of the index.
     ...(getLocaleArticle(locale as Locale, slug) ? {} : { robots: { index: false, follow: true } }),
     alternates: {
-      canonical: getLocaleArticle(locale as Locale, slug) ? `/sounddial/blog/${locale}/${slug}` : `/sounddial/blog/en/${slug}`,
+      // Untranslated (fallback or an English copy): the English original is the canonical page.
+      canonical:
+        getLocaleArticle(locale as Locale, slug) && !isEnglishCopy(locale as Locale, slug)
+          ? `/sounddial/blog/${locale}/${slug}`
+          : `/sounddial/blog/en/${slug}`,
       languages: { ...alternates, ...(alternates.en ? { "x-default": alternates.en } : {}) },
     },
   };
@@ -182,7 +186,9 @@ export default async function ArticlePage({
   const l = labels[locale] ?? labels.en;
   const isRtl = locale === "ar" || locale === "he";
 
-  const availableLocales = LOCALES.filter((loc) => getLocaleArticle(loc.code, slug));
+  const availableLocales = LOCALES.filter((loc) => getLocaleArticle(loc.code, slug) && !isEnglishCopy(loc.code, slug));
+  // Text language of this page: English for fallbacks and English copies.
+  const textLang = getLocaleArticle(locale as Locale, slug) && !isEnglishCopy(locale as Locale, slug) ? locale : "en";
 
   const allArticles = getAllArticles(locale as Locale);
   const currentIndex = allArticles.findIndex((a) => a.slug === slug);
@@ -209,7 +215,7 @@ export default async function ArticlePage({
     .filter((a, i, arr) => a && a.slug !== slug && arr.findIndex((x) => x.slug === a.slug) === i);
   const nextArticle = related[0];
 
-  const url = `${SITE}/sounddial/blog/${locale}/${slug}`;
+  const url = `${SITE}/sounddial/blog/${textLang === "en" ? "en" : locale}/${slug}`;
   const faqs = faqFromContent(article.content);
   const schemas: object[] = [
     {
@@ -219,7 +225,7 @@ export default async function ArticlePage({
       description: article.description,
       datePublished: article.date,
       dateModified: article.date,
-      inLanguage: locale,
+      inLanguage: textLang,
       mainEntityOfPage: url,
       image: articleImage(article.content),
       author: { "@type": "Person", name: "Eduard Bruch", url: SITE },
@@ -256,7 +262,7 @@ export default async function ArticlePage({
   ];
 
   return (
-    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined} lang={locale}>
+    <main className="min-h-screen bg-[#050506] text-white" dir={isRtl ? "rtl" : undefined} lang={textLang}>
       {schemas.map((schema, i) => (
         <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />
       ))}

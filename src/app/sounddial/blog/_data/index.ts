@@ -132,6 +132,16 @@ export function getLocaleArticle(locale: Locale, slug: string): Article | undefi
   return articles[locale]?.[slug];
 }
 
+/**
+ * A locale article that is still the untranslated English original (identical title).
+ * It canonicalizes to /en/ and stays out of hreflang and the sitemap; once translated, this turns false by itself.
+ */
+export function isEnglishCopy(locale: Locale, slug: string): boolean {
+  if (locale === "en") return false;
+  const article = articles[locale]?.[slug];
+  return !!article && article.title === articles.en?.[slug]?.title;
+}
+
 export function getAllArticles(locale: Locale): Article[] {
   const localeArticles = articles[locale];
   if (localeArticles && Object.keys(localeArticles).length > 0) {

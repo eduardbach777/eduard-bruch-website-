@@ -48,8 +48,11 @@ const APP_BLOGS: AppBlog[] = [
       sounddialData.LOCALES.map((l) => l.code).filter(
         (code) => sounddialData.getAllArticles(code).length > 0,
       ),
+    // English copies in other locales point to /en/ (canonical) — list only real translations.
     articles: (locale) =>
-      sounddialData.getAllArticles(locale as sounddialData.Locale),
+      sounddialData
+        .getAllArticles(locale as sounddialData.Locale)
+        .filter((a) => !sounddialData.isEnglishCopy(locale as sounddialData.Locale, a.slug)),
   },
   standardBlog("jetty", jettyData),
   standardBlog("loupe", loupeData),
