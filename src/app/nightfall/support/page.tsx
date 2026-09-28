@@ -63,7 +63,11 @@ export default function NightfallSupport() {
         may remain so progress and paid items can be recovered. To delete your
         Nightfall server data, open the Shop and tap Delete Account &amp; Cloud
         Data, or email support with your player name and player ID if
-        available.
+        available. Details:{" "}
+        <a href="/nightfall/delete-data" className="text-indigo-400 underline">
+          what is deleted and what is kept
+        </a>
+        .
       </p>
 
       <h2 className="mb-3 mt-10 text-xl font-semibold text-white">Legal</h2>
