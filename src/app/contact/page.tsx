@@ -113,6 +113,15 @@ export default function ContactPage() {
                   >
                     {t.contact.send[lang]}
                   </button>
+                  <p className="mx-auto mt-6 max-w-md text-xs leading-relaxed text-white/40">
+                    {lang === "de"
+                      ? "Ihre Angaben werden in Ihrem E-Mail-Programm geöffnet und erst beim Absenden dort an uns übermittelt. Mehr in der "
+                      : "Your details open in your own mail program and only reach us when you send the message there. More in the "}
+                    <a href="/datenschutz" className="underline underline-offset-2 hover:text-white/70">
+                      {lang === "de" ? "Datenschutzerklärung" : "privacy policy"}
+                    </a>
+                    .
+                  </p>
                 </div>
               </form>
             )}

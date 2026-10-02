@@ -87,23 +87,6 @@ export default function Impressum() {
         </ul>
 
         <h3 className="text-sm font-light tracking-[0.1em] text-white mb-6 uppercase">
-          EU-Streitschlichtung
-        </h3>
-        <p className="mb-10 text-sm leading-relaxed text-white/60">
-          Die Europäische Kommission stellt eine Plattform zur
-          Online-Streitbeilegung (OS) bereit:{" "}
-          <a
-            href="https://ec.europa.eu/consumers/odr/"
-            className="text-white/60 underline underline-offset-4 decoration-white/20 hover:text-white transition-colors"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            https://ec.europa.eu/consumers/odr/
-          </a>
-          . Unsere E-Mail-Adresse finden Sie oben im Impressum.
-        </p>
-
-        <h3 className="text-sm font-light tracking-[0.1em] text-white mb-6 uppercase">
           Verbraucherstreitbeilegung / Universalschlichtungsstelle
         </h3>
         <p className="text-sm leading-relaxed text-white/60">
@@ -161,23 +144,6 @@ export default function Impressum() {
           This legal notice applies to the website eduardbruch.com and all
           mobile applications published by Eduard Bruch across all app stores.
           See the German section above for the full list of covered apps.
-        </p>
-
-        <h3 className="text-sm font-light tracking-[0.1em] text-white mb-6 uppercase">
-          EU Dispute Resolution
-        </h3>
-        <p className="mb-10 text-sm leading-relaxed text-white/60">
-          The European Commission provides a platform for online dispute
-          resolution (ODR):{" "}
-          <a
-            href="https://ec.europa.eu/consumers/odr/"
-            className="text-white/60 underline underline-offset-4 decoration-white/20 hover:text-white transition-colors"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            https://ec.europa.eu/consumers/odr/
-          </a>
-          . Our email address can be found above.
         </p>
 
         <h3 className="text-sm font-light tracking-[0.1em] text-white mb-6 uppercase">

@@ -20,6 +20,55 @@ const videos: Video[] = [
   { youtubeId: "Xv8LJVgs4iU", name: "Casting Demons 2" },
 ];
 
+/**
+ * YouTube is only loaded after an explicit click (two-click embed): until then no request goes to
+ * Google and nothing is stored on the device. The click is the consent (§ 25(1) TDDDG, Art. 6(1)(a)
+ * GDPR); see the privacy policy, section 4a.
+ */
+function VideoEmbed({ video, lang }: { video: Video; lang: "en" | "de" }) {
+  const [loaded, setLoaded] = useState(false);
+  const text =
+    lang === "de"
+      ? {
+          note: "Dieses Video wird von YouTube (Google) eingebunden. Erst nach dem Klick werden Daten, u. a. Ihre IP-Adresse, an Google übertragen und Informationen auf Ihrem Gerät gespeichert.",
+          button: "Video laden",
+          privacy: "Datenschutzerklärung",
+        }
+      : {
+          note: "This video is embedded from YouTube (Google). Only after you click are data, including your IP address, sent to Google and information stored on your device.",
+          button: "Load video",
+          privacy: "Privacy policy",
+        };
+  if (loaded) {
+    return (
+      <iframe
+        src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}?rel=0&modestbranding=1&autoplay=1`}
+        title={video.name}
+        className="absolute inset-0 w-full h-full border-0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+      />
+    );
+  }
+  return (
+    <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 p-6 text-center">
+      <p className="max-w-md text-xs leading-relaxed text-white/60">
+        {text.note}{" "}
+        <a href="/datenschutz" className="underline underline-offset-2 hover:text-white">
+          {text.privacy}
+        </a>
+      </p>
+      <button
+        type="button"
+        onClick={() => setLoaded(true)}
+        className="rounded-full border border-white/30 px-5 py-2.5 text-xs font-medium uppercase tracking-[0.1em] text-white transition-colors hover:border-white hover:bg-white/10"
+      >
+        {text.button}
+      </button>
+    </div>
+  );
+}
+
 export default function ReelPage() {
   const [authenticated, setAuthenticated] = useState(false);
   const [checking, setChecking] = useState(true);
@@ -166,14 +215,7 @@ export default function ReelPage() {
                 className="space-y-6"
               >
                 <div className="relative aspect-video bg-white/5 overflow-hidden rounded-sm">
-                  <iframe
-                    src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}?rel=0&modestbranding=1`}
-                    title={video.name}
-                    className="absolute inset-0 w-full h-full border-0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowFullScreen
-                    loading="lazy"
-                  />
+                  <VideoEmbed video={video} lang={lang} />
                 </div>
                 <p className="text-center text-white/50 text-sm tracking-wider uppercase">
                   {video.name}
