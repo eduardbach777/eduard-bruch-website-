@@ -13,7 +13,7 @@
  */
 
 export const CONSENT_KEY = "eb-consent-ga";
-export const CONSENT_VERSION = 1;
+export const CONSENT_VERSION = 2;
 export const CONSENT_MAX_AGE_MS = 365 * 24 * 60 * 60 * 1000; // 12 months
 export const CONSENT_CHANGE_EVENT = "eb-consent-change";
 export const CONSENT_OPEN_EVENT = "eb-consent-open";

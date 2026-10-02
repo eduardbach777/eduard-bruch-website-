@@ -14,7 +14,7 @@ import { CONSENT_OPEN_EVENT, getConsent, setConsent, subscribeConsent } from "@/
 const copy = {
   en: {
     title: "Consent to Google Analytics",
-    body: "With your consent we use Google Analytics 4 by Google Ireland Limited to analyse, in statistical form, which pages and articles are visited. For this, cookies (_ga, _ga_9M6ZSF925S; kept for up to 2 years) are stored on your device and usage data is sent to Google, where Google LLC in the USA may have access (EU-US Data Privacy Framework). Without your consent Google Analytics is not loaded and the site works exactly the same. You can change your choice at any time via “Cookie settings” at the bottom of every page; withdrawing only affects the future.",
+    body: "With your consent we use Google Analytics 4 by Google Ireland Limited to analyse, in statistical form, which pages and articles are visited. For this, cookies are stored on your device (kept for up to 2 years) and usage data is sent to Google, where Google LLC in the USA may have access (EU-US Data Privacy Framework). Without your consent Google Analytics is not loaded and the site works exactly the same. You can change your choice at any time via “Cookie settings” at the bottom of every page; withdrawing only affects the future.",
     accept: "Accept",
     decline: "Decline",
     privacy: "Privacy policy",
@@ -22,7 +22,7 @@ const copy = {
   },
   de: {
     title: "Einwilligung in Google Analytics",
-    body: "Mit Ihrer Einwilligung setzen wir Google Analytics 4 der Google Ireland Limited ein, um statistisch auszuwerten, welche Seiten und Artikel besucht werden. Dazu werden Cookies (_ga, _ga_9M6ZSF925S; Speicherdauer bis zu 2 Jahre) auf Ihrem Gerät gespeichert und Nutzungsdaten an Google übermittelt. Dabei ist ein Zugriff durch Google LLC in den USA möglich (EU-US Data Privacy Framework). Ohne Einwilligung wird Google Analytics nicht geladen; die Website funktioniert unverändert. Sie können Ihre Entscheidung jederzeit über „Cookie-Einstellungen“ unten auf jeder Seite ändern; ein Widerruf wirkt nur für die Zukunft.",
+    body: "Mit Ihrer Einwilligung setzen wir Google Analytics 4 der Google Ireland Limited ein, um statistisch auszuwerten, welche Seiten und Artikel besucht werden. Dazu werden Cookies auf Ihrem Gerät gespeichert (Speicherdauer bis zu 2 Jahre) und Nutzungsdaten an Google übermittelt. Dabei ist ein Zugriff durch Google LLC in den USA möglich (EU-US Data Privacy Framework). Ohne Einwilligung wird Google Analytics nicht geladen; die Website funktioniert unverändert. Sie können Ihre Entscheidung jederzeit über „Cookie-Einstellungen“ unten auf jeder Seite ändern; ein Widerruf wirkt nur für die Zukunft.",
     accept: "Akzeptieren",
     decline: "Ablehnen",
     privacy: "Datenschutzerklärung",
