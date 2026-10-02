@@ -90,7 +90,7 @@ A photo and file vault disguised as a working calculator. Entering a passcode
 in the calculator opens the hidden vault. Everything stays on device, end-to-end
 encrypted, with Face ID, intruder detection, and decoy passwords.
 
-App Store: https://apps.apple.com/app/id6759873487
+App Store: https://apps.apple.com/app/id6759871587
 Website: https://stashphotovault.com
 Guides: https://stashphotovault.com/blog
 
