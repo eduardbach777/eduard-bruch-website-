@@ -1,0 +1,67 @@
+[
+  {
+    "source": "/vault",
+    "destination": "https://stashphotovault.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/privacy",
+    "destination": "https://stashphotovault.com/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/terms",
+    "destination": "https://stashphotovault.com/terms",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/imprint",
+    "destination": "https://stashphotovault.com/imprint",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog",
+    "destination": "https://stashphotovault.com/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)",
+    "destination": "https://stashphotovault.com/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(securely-store-private-files-iphone|how-to-hide-photos-from-icloud|how-to-password-protect-photos-iphone|how-to-hide-photos-on-iphone|what-is-a-decoy-password)",
+    "destination": "https://stashphotovault.com/blog/:slug",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(best-secret-photo-vault-apps-iphone|best-apps-to-hide-photos-2026|best-offline-vault-app-iphone)",
+    "destination": "https://stashphotovault.com/blog/best-photo-vault-apps-iphone",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(how-to-hide-apps-on-iphone)",
+    "destination": "https://stashphotovault.com/blog/hide-apps-iphone",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(keepsafe-vs-stash)",
+    "destination": "https://stashphotovault.com/alternatives/keepsafe",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(calculator-vault-apps-explained|best-disguised-app-iphone)",
+    "destination": "https://stashphotovault.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(iphone-hidden-album-not-secure)",
+    "destination": "https://stashphotovault.com/blog/hidden-photos-iphone",
+    "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(hide-photos-videos-any-file-iphone)",
+    "destination": "https://stashphotovault.com/blog/securely-store-private-files-iphone",
+    "statusCode": 301
+  }
+]

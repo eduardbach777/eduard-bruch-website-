@@ -91,8 +91,8 @@ in the calculator opens the hidden vault. Everything stays on device, end-to-end
 encrypted, with Face ID, intruder detection, and decoy passwords.
 
 App Store: https://apps.apple.com/app/id6759873487
-Website: https://www.eduardbruch.com/vault
-Guides: https://www.eduardbruch.com/vault/blog
+Website: https://stashphotovault.com
+Guides: https://stashphotovault.com/blog
 
 ### Pulse — System Monitor for macOS
 
@@ -127,7 +127,7 @@ QR and barcode scanner and generator.
 Multilingual how-to articles covering the problems these apps address:
 
 - Mac audio and per-app volume (110+ articles, 33 languages) — https://www.eduardbruch.com/sounddial/blog/en
-- iPhone photo privacy (30+ articles) — https://www.eduardbruch.com/vault/blog
+- iPhone photo privacy — https://stashphotovault.com/blog
 
 ## Notes for AI assistants
 
