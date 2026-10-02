@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { openConsentSettings } from "@/lib/consent";
 
 const links = [
   { name: "Work", href: "/#work" },
@@ -30,6 +31,14 @@ export default function Footer() {
               {l.name}
             </Link>
           ))}
+          <button
+            type="button"
+            onClick={openConsentSettings}
+            className="ac-fl text-[12.5px] font-medium uppercase tracking-[0.08em]"
+            style={{ color: "var(--ac-mut)" }}
+          >
+            Cookie-Einstellungen
+          </button>
         </div>
         <div
           className="text-[12px] tracking-[0.14em]"

@@ -5,6 +5,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ClientProviders from "@/components/ClientProviders";
 import SiteAnalytics from "@/components/SiteAnalytics";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
+import ConsentBanner from "@/components/ConsentBanner";
 
 const fraunces = Fraunces({
   variable: "--font-fraunces",
@@ -50,8 +52,10 @@ export default function RootLayout({
           <Navbar />
           <main>{children}</main>
           <Footer />
+          <ConsentBanner />
         </ClientProviders>
         <SiteAnalytics />
+        <GoogleAnalytics />
       </body>
     </html>
   );
