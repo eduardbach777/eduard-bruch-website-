@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllArticles, LOCALES } from "./vault/blog/_data";
 import { TOOL_PAGES } from "./bellows/tools/_data";
 import stashRedirects from "../../stash-redirects.json";
+import sounddialRedirects from "../../sounddial-redirects.json";
 
 import * as sounddialData from "./sounddial/blog/_data";
 import * as jettyData from "./jetty/blog/_data";
@@ -19,13 +20,13 @@ import * as canopyData from "./canopy/blog/_data";
 
 const SITE_URL = "https://www.eduardbruch.com";
 
-// /vault URLs that 301 to stashphotovault.com must not be listed here.
+// URLs that 301 to stashphotovault.com (/vault) or sounddial.eu (/sounddial) must not be listed here.
 // Rule sources only use `:name(a|b)` params, so each becomes a plain regex.
-const STASH_REDIRECT_PATTERNS = stashRedirects.map(
+const REDIRECT_PATTERNS = [...stashRedirects, ...sounddialRedirects].map(
   (rule) => new RegExp(`^${rule.source.replace(/:\w+\(([^)]*)\)/g, "($1)")}$`),
 );
-const isStashRedirected = (path: string) =>
-  STASH_REDIRECT_PATTERNS.some((re) => re.test(path));
+const isRedirected = (path: string) =>
+  REDIRECT_PATTERNS.some((re) => re.test(path));
 
 /**
  * The 13 per-app blogs. Locales come from each app's own getAvailableLocales(),
@@ -171,10 +172,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     ...staticPages,
-    ...[...blogIndexes, ...articlePages].filter(
-      (entry) => !isStashRedirected(entry.url.slice(SITE_URL.length)),
-    ),
+    ...blogIndexes,
+    ...articlePages,
     ...bellowsPages,
     ...appBlogPages,
-  ];
+  ].filter((entry) => !isRedirected(entry.url.slice(SITE_URL.length)));
 }

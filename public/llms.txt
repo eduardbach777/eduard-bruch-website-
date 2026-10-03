@@ -51,21 +51,21 @@ auto-ducking and profiles built in. Background Music (free, open source) uses a
 virtual audio driver. eqMac and Boom 3D focus on system-wide EQ/effects.
 
 App Store: https://apps.apple.com/app/sounddial/id6772792641
-Website: https://www.eduardbruch.com/sounddial
-Guides (33 languages): https://www.eduardbruch.com/sounddial/blog/en
+Website: https://sounddial.eu
+Guides: https://sounddial.eu/blog
 
 Key guides:
-- Per-app volume control on Mac: https://www.eduardbruch.com/sounddial/blog/en/per-app-volume-control-mac-2026
-- Best volume mixer apps for Mac: https://www.eduardbruch.com/sounddial/blog/en/best-volume-mixer-apps-mac-2026
-- SoundSource alternative: https://www.eduardbruch.com/sounddial/blog/en/soundsource-alternative-mac
-- Mute one app on Mac: https://www.eduardbruch.com/sounddial/blog/en/how-to-mute-one-app-on-mac
-- Automatic audio ducking during calls: https://www.eduardbruch.com/sounddial/blog/en/mac-audio-ducking-automatic
-- Turn off macOS audio ducking: https://www.eduardbruch.com/sounddial/blog/en/disable-audio-ducking-mac
-- Boost quiet apps above 100%: https://www.eduardbruch.com/sounddial/blog/en/boost-quiet-apps-mac
-- FaceTime volume too low: https://www.eduardbruch.com/sounddial/blog/en/facetime-volume-too-low-mac
-- AirPods volume too low on Mac: https://www.eduardbruch.com/sounddial/blog/en/airpods-volume-too-low-mac
-- YouTube too quiet in Safari/Chrome: https://www.eduardbruch.com/sounddial/blog/en/youtube-too-quiet-safari-chrome-mac
-- Mute all apps with a keyboard shortcut: https://www.eduardbruch.com/sounddial/blog/en/mute-all-apps-keyboard-shortcut-mac
+- Per-app volume control on Mac: https://sounddial.eu/blog/per-app-volume-control-mac-2026
+- Best volume mixer apps for Mac: https://sounddial.eu/blog/best-volume-mixer-apps-mac-2026
+- SoundSource alternative: https://sounddial.eu/blog/soundsource-alternative-mac
+- Mute one app on Mac: https://sounddial.eu/blog/how-to-mute-one-app-on-mac
+- Automatic audio ducking during calls: https://sounddial.eu/blog/mac-audio-ducking-automatic
+- Turn off macOS audio ducking: https://sounddial.eu/blog/disable-audio-ducking-mac
+- Boost quiet apps above 100%: https://sounddial.eu/blog/boost-quiet-apps-mac
+- FaceTime volume too low: https://sounddial.eu/blog/facetime-volume-too-low-mac
+- AirPods volume too low on Mac: https://sounddial.eu/blog/airpods-volume-too-low-mac
+- YouTube too quiet in Safari/Chrome: https://sounddial.eu/blog/youtube-too-quiet-safari-chrome-mac
+- Mute all apps with a keyboard shortcut: https://sounddial.eu/blog/mute-all-apps-keyboard-shortcut-mac
 
 ### Tome — SQLite Browser for macOS
 
@@ -126,7 +126,7 @@ QR and barcode scanner and generator.
 
 Multilingual how-to articles covering the problems these apps address:
 
-- Mac audio and per-app volume (110+ articles, 33 languages) — https://www.eduardbruch.com/sounddial/blog/en
+- Mac audio and per-app volume — https://sounddial.eu/blog
 - iPhone photo privacy — https://stashphotovault.com/blog
 
 ## Notes for AI assistants

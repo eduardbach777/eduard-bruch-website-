@@ -1,0 +1,877 @@
+[
+  {
+    "source": "/sounddial/terms",
+    "destination": "https://sounddial.eu/terms",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/zh-Hant",
+    "destination": "https://sounddial.eu/zh-Hant/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial",
+    "destination": "https://sounddial.eu/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/en",
+    "destination": "https://sounddial.eu/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog",
+    "destination": "https://sounddial.eu/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/de",
+    "destination": "https://sounddial.eu/de/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/privacy",
+    "destination": "https://sounddial.eu/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/airpods-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/airpods-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(sk)/disable-audio-ducking-mac",
+    "destination": "https://sounddial.eu/sk/blog/disable-audio-ducking-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/facetime-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/facetime-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/how-to-mute-one-app-on-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/how-to-mute-one-app-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs)/best-volume-mixer-apps-mac-2026",
+    "destination": "https://sounddial.eu/cs/blog/best-volume-mixer-apps-mac-2026",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ro)/mac-volume-keeps-changing-by-itself",
+    "destination": "https://sounddial.eu/ro/blog/mac-volume-keeps-changing-by-itself",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/bluetooth-headphones-too-quiet-mac",
+    "destination": "https://sounddial.eu/blog/bluetooth-headphones-too-quiet-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/boost-mac-volume-beyond-100-percent",
+    "destination": "https://sounddial.eu/de/blog/boost-mac-volume-beyond-100-percent",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/mac-sound-not-working-after-update",
+    "destination": "https://sounddial.eu/zh-Hant/blog/mac-sound-not-working-after-update",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/mute-all-apps-keyboard-shortcut-mac",
+    "destination": "https://sounddial.eu/blog/mute-all-apps-keyboard-shortcut-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-volume-keyboard-shortcuts",
+    "destination": "https://sounddial.eu/blog/mac-volume-keyboard-shortcuts",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/soundsource-alternative-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/soundsource-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-sound-not-working-after-update",
+    "destination": "https://sounddial.eu/blog/mac-sound-not-working-after-update",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-notification-sounds-too-loud-headphones",
+    "destination": "https://sounddial.eu/blog/mac-notification-sounds-too-loud-headphones",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/boost-mac-volume-beyond-100-percent",
+    "destination": "https://sounddial.eu/blog/boost-mac-volume-beyond-100-percent",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-volume-resets-after-sleep",
+    "destination": "https://sounddial.eu/blog/mac-volume-resets-after-sleep",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(sk)/switch-audio-output-quickly-mac",
+    "destination": "https://sounddial.eu/sk/blog/switch-audio-output-quickly-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs)/disable-audio-ducking-mac",
+    "destination": "https://sounddial.eu/cs/blog/disable-audio-ducking-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/best-volume-mixer-apps-mac-2026",
+    "destination": "https://sounddial.eu/zh-Hant/blog/best-volume-mixer-apps-mac-2026",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ro)/how-to-mute-one-app-on-mac",
+    "destination": "https://sounddial.eu/ro/blog/how-to-mute-one-app-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/volume-mixer-for-mac",
+    "destination": "https://sounddial.eu/blog/volume-mixer-for-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/airpods-stuck-at-half-volume-mac-fix",
+    "destination": "https://sounddial.eu/blog/airpods-stuck-at-half-volume-mac-fix",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/youtube-too-quiet-safari-chrome-mac",
+    "destination": "https://sounddial.eu/blog/youtube-too-quiet-safari-chrome-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/youtube-too-quiet-safari-chrome-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/youtube-too-quiet-safari-chrome-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/apple-music-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/apple-music-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/discord-volume-too-loud-mac",
+    "destination": "https://sounddial.eu/blog/discord-volume-too-loud-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/soundsource-alternative-mac",
+    "destination": "https://sounddial.eu/blog/soundsource-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/how-to-mute-one-app-on-mac",
+    "destination": "https://sounddial.eu/de/blog/how-to-mute-one-app-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-too-loud-full-volume-tame-it",
+    "destination": "https://sounddial.eu/blog/mac-too-loud-full-volume-tame-it",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/cap-max-volume-of-one-app-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/cap-max-volume-of-one-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/different-volume-per-output-device-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/different-volume-per-output-device-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/one-airpod-louder-than-the-other-fix",
+    "destination": "https://sounddial.eu/blog/one-airpod-louder-than-the-other-fix",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/free-volume-mixer-mac",
+    "destination": "https://sounddial.eu/blog/free-volume-mixer-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/teams-volume-too-low-mac",
+    "destination": "https://sounddial.eu/de/blog/teams-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/mac-startup-sound-too-loud",
+    "destination": "https://sounddial.eu/zh-Hant/blog/mac-startup-sound-too-loud",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/eqmac-alternative-per-app-volume-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/eqmac-alternative-per-app-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/streaming-audio-mixer-mac-mic-game-music",
+    "destination": "https://sounddial.eu/zh-Hant/blog/streaming-audio-mixer-mac-mic-game-music",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/netflix-streaming-audio-too-quiet-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/netflix-streaming-audio-too-quiet-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/best-volume-mixer-apps-mac-2026",
+    "destination": "https://sounddial.eu/de/blog/best-volume-mixer-apps-mac-2026",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/teams-volume-too-low-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/teams-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/mute-everything-except-one-app-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/mute-everything-except-one-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/spotify-volume-too-low-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/spotify-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/podcast-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/podcast-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/external-monitor-speaker-volume-too-loud-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/external-monitor-speaker-volume-too-loud-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/how-to-control-per-app-volume-on-mac",
+    "destination": "https://sounddial.eu/blog/how-to-control-per-app-volume-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/google-meet-volume-too-low-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/google-meet-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/sound-control-alternative-mac",
+    "destination": "https://sounddial.eu/blog/sound-control-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/airpods-volume-too-low-mac",
+    "destination": "https://sounddial.eu/de/blog/airpods-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/fix-audio-crackling-popping-mac",
+    "destination": "https://sounddial.eu/de/blog/fix-audio-crackling-popping-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/disable-audio-ducking-mac",
+    "destination": "https://sounddial.eu/de/blog/disable-audio-ducking-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/background-music-vs-sounddial-mac",
+    "destination": "https://sounddial.eu/de/blog/background-music-vs-sounddial-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/mac-two-audio-sources-same-time",
+    "destination": "https://sounddial.eu/de/blog/mac-two-audio-sources-same-time",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/macos-tahoe-per-app-volume-control",
+    "destination": "https://sounddial.eu/blog/macos-tahoe-per-app-volume-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-volume-too-loud-at-lowest-setting",
+    "destination": "https://sounddial.eu/blog/mac-volume-too-loud-at-lowest-setting",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/slack-huddle-volume-issues-mac",
+    "destination": "https://sounddial.eu/blog/slack-huddle-volume-issues-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/different-volume-per-output-device-mac",
+    "destination": "https://sounddial.eu/blog/different-volume-per-output-device-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/webex-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/webex-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/game-too-loud-vs-voice-chat-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/game-too-loud-vs-voice-chat-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/webex-volume-too-low-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/webex-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/zoom-call-volume-too-low-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/zoom-call-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/google-meet-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/google-meet-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(zh-Hant)/stop-browser-tabs-auto-playing-audio-mac",
+    "destination": "https://sounddial.eu/zh-Hant/blog/stop-browser-tabs-auto-playing-audio-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/cheapest-volume-mixer-mac-2026",
+    "destination": "https://sounddial.eu/blog/cheapest-volume-mixer-mac-2026",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/mac-startup-sound-too-loud",
+    "destination": "https://sounddial.eu/de/blog/mac-startup-sound-too-loud",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ro)/stop-browser-tabs-auto-playing-audio-mac",
+    "destination": "https://sounddial.eu/ro/blog/stop-browser-tabs-auto-playing-audio-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/boom-3d-alternative-per-app-volume-mac",
+    "destination": "https://sounddial.eu/blog/boom-3d-alternative-per-app-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/why-are-some-apps-louder-than-others-mac",
+    "destination": "https://sounddial.eu/blog/why-are-some-apps-louder-than-others-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(sk)/mac-alert-volume-separate-from-media",
+    "destination": "https://sounddial.eu/sk/blog/mac-alert-volume-separate-from-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-audio-setup-remote-work",
+    "destination": "https://sounddial.eu/blog/mac-audio-setup-remote-work",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/how-to-control-per-app-volume-on-mac",
+    "destination": "https://sounddial.eu/de/blog/how-to-control-per-app-volume-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/different-volume-per-output-device-mac",
+    "destination": "https://sounddial.eu/de/blog/different-volume-per-output-device-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs)/background-music-vs-sounddial-mac",
+    "destination": "https://sounddial.eu/cs/blog/background-music-vs-sounddial-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs)/cap-max-volume-of-one-app-mac",
+    "destination": "https://sounddial.eu/cs/blog/cap-max-volume-of-one-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(de)/why-doesnt-mac-have-volume-mixer",
+    "destination": "https://sounddial.eu/de/blog/why-doesnt-mac-have-volume-mixer",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(sk)/control-notification-sounds-mac",
+    "destination": "https://sounddial.eu/sk/blog/control-notification-sounds-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/auto-lower-music-during-zoom-calls-mac",
+    "destination": "https://sounddial.eu/blog/auto-lower-music-during-zoom-calls-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/audio-hijack-alternative-simple-volume-mac",
+    "destination": "https://sounddial.eu/blog/audio-hijack-alternative-simple-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/zoom-call-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/zoom-call-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/switch-audio-output-quickly-mac",
+    "destination": "https://sounddial.eu/blog/switch-audio-output-quickly-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/chrome-too-loud-mac",
+    "destination": "https://sounddial.eu/blog/chrome-too-loud-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/vlc-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/vlc-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/stop-zoom-lowering-music-mac",
+    "destination": "https://sounddial.eu/blog/stop-zoom-lowering-music-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/mac-alert-volume-separate-from-media",
+    "destination": "https://sounddial.eu/blog/mac-alert-volume-separate-from-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/background-music-vs-sounddial-mac",
+    "destination": "https://sounddial.eu/blog/background-music-vs-sounddial-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/control-browser-tab-volume-mac",
+    "destination": "https://sounddial.eu/blog/control-browser-tab-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/stop-browser-tabs-auto-playing-audio-mac",
+    "destination": "https://sounddial.eu/blog/stop-browser-tabs-auto-playing-audio-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/set-default-volume-new-apps-mac",
+    "destination": "https://sounddial.eu/blog/set-default-volume-new-apps-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-audio-online-classes-lectures",
+    "destination": "https://sounddial.eu/blog/mac-audio-online-classes-lectures",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-volume-too-quiet-at-max",
+    "destination": "https://sounddial.eu/blog/mac-volume-too-quiet-at-max",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/cap-max-volume-of-one-app-mac",
+    "destination": "https://sounddial.eu/blog/cap-max-volume-of-one-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-audio-podcasting-setup",
+    "destination": "https://sounddial.eu/blog/mac-audio-podcasting-setup",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-audio-music-production-daw",
+    "destination": "https://sounddial.eu/blog/mac-audio-music-production-daw",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/control-notification-sounds-mac",
+    "destination": "https://sounddial.eu/blog/control-notification-sounds-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-ducking-automatic",
+    "destination": "https://sounddial.eu/blog/mac-audio-ducking-automatic",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-djing",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-djing",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-gaming",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-gaming",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-language-learning",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-language-learning",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-meditation-focus",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-meditation-focus",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-music-lessons",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-music-lessons",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-online-therapy",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-online-therapy",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-twitch-streaming",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-twitch-streaming",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-audio-for-video-editing",
+    "destination": "https://sounddial.eu/blog/mac-audio-for-video-editing",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/mac-volume-profiles-work-vs-home",
+    "destination": "https://sounddial.eu/blog/volume-profiles-for-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/per-app-volume-control-mac-2026",
+    "destination": "https://sounddial.eu/blog/per-app-volume-control-mac-2026",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ar|ca|da|el|en|fi|he|hi|hr|hu|id|ms|no|pl|ro|sv|th|vi|zh-Hant)/virtual-audio-driver-vs-sounddial-mac",
+    "destination": "https://sounddial.eu/blog/virtual-audio-driver-vs-sounddial-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/background-music-app-not-working-mac",
+    "destination": "https://sounddial.eu/blog/background-music-app-not-working-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/fix-audio-crackling-popping-mac",
+    "destination": "https://sounddial.eu/blog/fix-audio-crackling-popping-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-audio-obs-streaming-setup",
+    "destination": "https://sounddial.eu/blog/mac-audio-obs-streaming-setup",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-startup-sound-too-loud",
+    "destination": "https://sounddial.eu/blog/mac-startup-sound-too-loud",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-volume-control-complete-guide",
+    "destination": "https://sounddial.eu/blog/mac-volume-control-complete-guide",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-volume-keeps-changing-by-itself",
+    "destination": "https://sounddial.eu/blog/mac-volume-keeps-changing-by-itself",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/netflix-streaming-audio-too-quiet-mac",
+    "destination": "https://sounddial.eu/blog/netflix-streaming-audio-too-quiet-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/spotify-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/spotify-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/teams-volume-too-low-mac",
+    "destination": "https://sounddial.eu/blog/teams-volume-too-low-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/why-doesnt-mac-have-volume-mixer",
+    "destination": "https://sounddial.eu/blog/why-doesnt-mac-have-volume-mixer",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/airpods-stuttering-cutting-out-mac-tahoe",
+    "destination": "https://sounddial.eu/blog/airpods-stuttering-cutting-out-mac-tahoe",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/amplify-quiet-video-podcast-audio-mac",
+    "destination": "https://sounddial.eu/blog/amplify-quiet-video-podcast-audio-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/app-volume-like-windows-on-mac",
+    "destination": "https://sounddial.eu/blog/app-volume-like-windows-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/automate-mac-volume-shortcuts-app",
+    "destination": "https://sounddial.eu/blog/automate-mac-volume-shortcuts-app",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/background-music-alternative-mac",
+    "destination": "https://sounddial.eu/blog/background-music-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/balance-music-voice-chat-volume-mac",
+    "destination": "https://sounddial.eu/blog/balance-music-voice-chat-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/bass-boost-one-app-mac",
+    "destination": "https://sounddial.eu/blog/bass-boost-one-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/best-volume-mixer-apps-mac-2026",
+    "destination": "https://sounddial.eu/blog/best-volume-mixer-apps-mac-2026",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/boom-2-alternative-per-app-volume-mac",
+    "destination": "https://sounddial.eu/blog/boom-2-alternative-per-app-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/boost-quiet-apps-mac",
+    "destination": "https://sounddial.eu/blog/boost-quiet-apps-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/change-sample-rate-mac-without-audio-midi-setup",
+    "destination": "https://sounddial.eu/blog/change-sample-rate-mac-without-audio-midi-setup",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/cheaper-soundsource-alternative-mac",
+    "destination": "https://sounddial.eu/blog/cheaper-soundsource-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/control-daw-and-system-volume-separately-mac",
+    "destination": "https://sounddial.eu/blog/control-daw-and-system-volume-separately-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/disable-audio-ducking-mac",
+    "destination": "https://sounddial.eu/blog/disable-audio-ducking-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/eqmac-alternative-per-app-volume-mac",
+    "destination": "https://sounddial.eu/blog/eqmac-alternative-per-app-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/external-monitor-speaker-volume-too-loud-mac",
+    "destination": "https://sounddial.eu/blog/external-monitor-speaker-volume-too-loud-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/find-which-app-is-making-sound-mac",
+    "destination": "https://sounddial.eu/blog/find-which-app-is-making-sound-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/finetune-alternative-mac",
+    "destination": "https://sounddial.eu/blog/finetune-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/finetune-vs-sounddial-mac",
+    "destination": "https://sounddial.eu/blog/finetune-vs-sounddial-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/game-too-loud-vs-voice-chat-mac",
+    "destination": "https://sounddial.eu/blog/game-too-loud-vs-voice-chat-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/how-to-mute-one-app-on-mac",
+    "destination": "https://sounddial.eu/blog/how-to-mute-one-app-on-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/is-soundsource-worth-it-mac",
+    "destination": "https://sounddial.eu/blog/is-soundsource-worth-it-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/lower-spotify-without-lowering-everything-mac",
+    "destination": "https://sounddial.eu/blog/lower-spotify-without-lowering-everything-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/mac-audio-meters-menu-bar",
+    "destination": "https://sounddial.eu/blog/mac-audio-meters-menu-bar",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/mac-right-speaker-not-working-after-tahoe",
+    "destination": "https://sounddial.eu/blog/mac-right-speaker-not-working-after-tahoe",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/mac-two-audio-sources-same-time",
+    "destination": "https://sounddial.eu/blog/mac-two-audio-sources-same-time",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/mac-volume-resets-itself-tahoe-bug",
+    "destination": "https://sounddial.eu/blog/mac-volume-resets-itself-tahoe-bug",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/macos-tahoe-audio-crackling-popping-fix",
+    "destination": "https://sounddial.eu/blog/macos-tahoe-audio-crackling-popping-fix",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/make-mac-louder-for-hard-of-hearing",
+    "destination": "https://sounddial.eu/blog/make-mac-louder-for-hard-of-hearing",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/make-mac-remember-volume-per-app",
+    "destination": "https://sounddial.eu/blog/make-mac-remember-volume-per-app",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/make-one-app-quieter-than-the-rest-mac",
+    "destination": "https://sounddial.eu/blog/make-one-app-quieter-than-the-rest-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/mute-everything-except-one-app-mac",
+    "destination": "https://sounddial.eu/blog/mute-everything-except-one-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/mute-slack-notifications-mac-without-muting-everything",
+    "destination": "https://sounddial.eu/blog/mute-slack-notifications-mac-without-muting-everything",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/per-app-equalizer-mac",
+    "destination": "https://sounddial.eu/blog/per-app-equalizer-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/play-music-speakers-calls-headphones-mac",
+    "destination": "https://sounddial.eu/blog/play-music-speakers-calls-headphones-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/route-one-app-to-headphones-mac",
+    "destination": "https://sounddial.eu/blog/route-one-app-to-headphones-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/safari-volume-per-tab-mac",
+    "destination": "https://sounddial.eu/blog/safari-volume-per-tab-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/send-spotify-to-usb-dac-mac",
+    "destination": "https://sounddial.eu/blog/send-spotify-to-usb-dac-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/separate-game-audio-from-discord-mac",
+    "destination": "https://sounddial.eu/blog/separate-game-audio-from-discord-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/set-different-volume-for-each-app-mac",
+    "destination": "https://sounddial.eu/blog/set-different-volume-for-each-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/set-left-right-balance-per-app-mac",
+    "destination": "https://sounddial.eu/blog/set-left-right-balance-per-app-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/soundbunny-alternative-mac",
+    "destination": "https://sounddial.eu/blog/soundbunny-alternative-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/sounddial-2-whats-new",
+    "destination": "https://sounddial.eu/blog/sounddial-2-whats-new",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/sounddial-setup-guide",
+    "destination": "https://sounddial.eu/blog/sounddial-setup-guide",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/soundsource-vs-sounddial-mac",
+    "destination": "https://sounddial.eu/blog/soundsource-vs-sounddial-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/streaming-audio-mixer-mac-mic-game-music",
+    "destination": "https://sounddial.eu/blog/streaming-audio-mixer-mac-mic-game-music",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/system-audio-recording-permission-mac-explained",
+    "destination": "https://sounddial.eu/blog/system-audio-recording-permission-mac-explained",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/usb-dac-software-volume-mac",
+    "destination": "https://sounddial.eu/blog/usb-dac-software-volume-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/usb-dac-volume-control-not-working-mac",
+    "destination": "https://sounddial.eu/blog/usb-dac-volume-control-not-working-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/volume-profiles-for-mac",
+    "destination": "https://sounddial.eu/blog/volume-profiles-for-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en|hr)/watch-movies-mac-late-night-volume",
+    "destination": "https://sounddial.eu/blog/watch-movies-mac-late-night-volume",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/whatsapp-telegram-notifications-too-loud-mac",
+    "destination": "https://sounddial.eu/blog/whatsapp-telegram-notifications-too-loud-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(en)/windows-volume-mixer-for-mac",
+    "destination": "https://sounddial.eu/blog/windows-volume-mixer-for-mac",
+    "statusCode": 301
+  }
+]
