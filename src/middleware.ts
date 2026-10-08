@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
-import gone410Slugs from "../stash-410-slugs.json";
+import infidelity301 from "../stash-infidelity-301.json";
 
 /**
  * Edge-level block for crawlers that ignore robots.txt.
@@ -46,10 +46,27 @@ const BLOCKED_UA = [
   "diffbot",
 ];
 
-// stash-410-slugs.json: the infidelity articles of the old Stash blog (every locale).
-// Brand / App Review risk, never migrated to stashphotovault.com, so they answer 410 Gone.
-// Next.js redirects() cannot emit 410; 301 rules in next.config.ts do not overlap these slugs.
-const GONE_RE = new RegExp(`^/vault/blog/[^/]+/(${(gone410Slugs as string[]).join("|")})/?$`);
+// stash-infidelity-301.json: the relationship articles of the old Stash blog (every locale) moved to
+// stashphotovault.com (owner decision 2026-10-08). 301 to the same or closest kept article; to the language page only
+// when that translation is listed in `translated` (data-driven: going live in a language is a json change), else the
+// English page. Next.js redirects() in next.config.ts do not overlap these slugs and run before this middleware.
+const STASH_301 = infidelity301 as {
+  target: string;
+  localeToLang: Record<string, string>;
+  translated: Record<string, string[]>;
+  slugs: Record<string, string>;
+};
+const STASH_301_RE = /^\/vault\/blog\/([^/]+)\/([^/]+)\/?$/;
+
+/** Target URL for an old /vault/blog/<locale>/<slug> path, or null when it is not one of these articles. */
+function stashInfidelityTarget(pathname: string): string | null {
+  const m = STASH_301_RE.exec(pathname);
+  if (!m || !Object.hasOwn(STASH_301.slugs, m[2])) return null;
+  const slug = STASH_301.slugs[m[2]];
+  const lang = STASH_301.localeToLang[m[1]] ?? m[1];
+  const localized = lang !== "en" && STASH_301.translated[lang]?.includes(slug);
+  return `${STASH_301.target}${localized ? `/${lang}` : ""}/blog/${slug}`;
+}
 
 export function middleware(request: NextRequest) {
   const ua = request.headers.get("user-agent")?.toLowerCase() ?? "";
@@ -67,12 +84,8 @@ export function middleware(request: NextRequest) {
     });
   }
 
-  if (GONE_RE.test(request.nextUrl.pathname)) {
-    return new NextResponse("Gone", {
-      status: 410,
-      headers: { "content-type": "text/plain", "cache-control": "public, max-age=86400" },
-    });
-  }
+  const stashTarget = stashInfidelityTarget(request.nextUrl.pathname);
+  if (stashTarget) return NextResponse.redirect(stashTarget, 301);
 
   return NextResponse.next();
 }
@@ -85,7 +98,7 @@ export const config = {
    * were ever misconfigured.
    */
   matcher: [
-    // explicit so the 410 check always runs for blog articles (the .txt/.png-style exclusions below cannot match a slug anyway)
+    // explicit so the Stash 301 check always runs for blog articles (the .txt/.png-style exclusions below cannot match a slug anyway)
     "/vault/blog/:path*",
     "/((?!api|_next/static|_next/image|favicon.ico|icon.png|apple-icon.png|robots.txt|llms.txt|sitemap.xml|.*\\.(?:png|jpg|jpeg|gif|webp|svg|ico|css|js|txt|woff|woff2|ttf|mp4)$).*)",
   ],
