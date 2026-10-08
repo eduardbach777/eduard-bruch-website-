@@ -1,3 +1,4 @@
+import gone410Slugs from "../../../../../stash-410-slugs.json";
 import { newEnArticles } from "./new-en";
 import { newDeArticles } from "./new-de";
 import { newEsArticles } from "./new-es";
@@ -2743,7 +2744,13 @@ export function getLocaleUi(locale: Locale): LocaleUi {
   return generated && "ui" in generated ? generated.ui : baseUi.en;
 }
 
-const REDIRECTED_SLUGS = new Set(["best-apps-to-hide-photos-2026"]);
+// stash-410-slugs.json: infidelity articles that return 410 Gone (src/middleware.ts) and must never be listed.
+// Brand / App Review risk; they are not migrated to the new Stash site. Content files are kept on purpose.
+// Dropping them here also removes them from the sitemap, the blog indexes and generateStaticParams.
+const REDIRECTED_SLUGS = new Set([
+  "best-apps-to-hide-photos-2026",
+  ...(gone410Slugs as string[]),
+]);
 
 export function getArticle(
   locale: Locale,

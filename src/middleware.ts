@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
+import gone410Slugs from "../stash-410-slugs.json";
 
 /**
  * Edge-level block for crawlers that ignore robots.txt.
@@ -45,6 +46,11 @@ const BLOCKED_UA = [
   "diffbot",
 ];
 
+// stash-410-slugs.json: the infidelity articles of the old Stash blog (every locale).
+// Brand / App Review risk, never migrated to stashphotovault.com, so they answer 410 Gone.
+// Next.js redirects() cannot emit 410; 301 rules in next.config.ts do not overlap these slugs.
+const GONE_RE = new RegExp(`^/vault/blog/[^/]+/(${(gone410Slugs as string[]).join("|")})/?$`);
+
 export function middleware(request: NextRequest) {
   const ua = request.headers.get("user-agent")?.toLowerCase() ?? "";
 
@@ -61,6 +67,13 @@ export function middleware(request: NextRequest) {
     });
   }
 
+  if (GONE_RE.test(request.nextUrl.pathname)) {
+    return new NextResponse("Gone", {
+      status: 410,
+      headers: { "content-type": "text/plain", "cache-control": "public, max-age=86400" },
+    });
+  }
+
   return NextResponse.next();
 }
 
@@ -72,6 +85,8 @@ export const config = {
    * were ever misconfigured.
    */
   matcher: [
+    // explicit so the 410 check always runs for blog articles (the .txt/.png-style exclusions below cannot match a slug anyway)
+    "/vault/blog/:path*",
     "/((?!api|_next/static|_next/image|favicon.ico|icon.png|apple-icon.png|robots.txt|llms.txt|sitemap.xml|.*\\.(?:png|jpg|jpeg|gif|webp|svg|ico|css|js|txt|woff|woff2|ttf|mp4)$).*)",
   ],
 };
