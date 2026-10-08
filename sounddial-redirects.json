@@ -75,6 +75,16 @@
     "statusCode": 301
   },
   {
+    "source": "/sounddial/blog/:locale(es)/boost-mac-volume-beyond-100-percent",
+    "destination": "https://sounddial.eu/es/blog/boost-mac-volume-beyond-100-percent",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(uk)/how-to-mute-one-app-on-mac",
+    "destination": "https://sounddial.eu/uk/blog/how-to-mute-one-app-on-mac",
+    "statusCode": 301
+  },
+  {
     "source": "/sounddial/blog/:locale(zh-Hant)/mac-sound-not-working-after-update",
     "destination": "https://sounddial.eu/zh-Hant/blog/mac-sound-not-working-after-update",
     "statusCode": 301
@@ -95,6 +105,11 @@
     "statusCode": 301
   },
   {
+    "source": "/sounddial/blog/:locale(it)/mac-volume-keeps-changing-by-itself",
+    "destination": "https://sounddial.eu/it/blog/mac-volume-keeps-changing-by-itself",
+    "statusCode": 301
+  },
+  {
     "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-sound-not-working-after-update",
     "destination": "https://sounddial.eu/blog/mac-sound-not-working-after-update",
     "statusCode": 301
@@ -110,8 +125,18 @@
     "statusCode": 301
   },
   {
+    "source": "/sounddial/blog/:locale(pt)/boost-mac-volume-beyond-100-percent",
+    "destination": "https://sounddial.eu/pt/blog/boost-mac-volume-beyond-100-percent",
+    "statusCode": 301
+  },
+  {
     "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-volume-resets-after-sleep",
     "destination": "https://sounddial.eu/blog/mac-volume-resets-after-sleep",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(es)/best-volume-mixer-apps-mac-2026",
+    "destination": "https://sounddial.eu/es/blog/best-volume-mixer-apps-mac-2026",
     "statusCode": 301
   },
   {
@@ -122,6 +147,11 @@
   {
     "source": "/sounddial/blog/:locale(cs)/disable-audio-ducking-mac",
     "destination": "https://sounddial.eu/cs/blog/disable-audio-ducking-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ru)/volume-mixer-for-mac",
+    "destination": "https://sounddial.eu/ru/blog/volume-mixer-for-mac",
     "statusCode": 301
   },
   {
@@ -150,6 +180,16 @@
     "statusCode": 301
   },
   {
+    "source": "/sounddial/blog/:locale(ko)/bluetooth-headphones-too-quiet-mac",
+    "destination": "https://sounddial.eu/ko/blog/bluetooth-headphones-too-quiet-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(ja)/free-volume-mixer-mac",
+    "destination": "https://sounddial.eu/ja/blog/free-volume-mixer-mac",
+    "statusCode": 301
+  },
+  {
     "source": "/sounddial/blog/:locale(zh-Hant)/youtube-too-quiet-safari-chrome-mac",
     "destination": "https://sounddial.eu/zh-Hant/blog/youtube-too-quiet-safari-chrome-mac",
     "statusCode": 301
@@ -175,8 +215,28 @@
     "statusCode": 301
   },
   {
+    "source": "/sounddial/blog/:locale(ja)/mac-volume-resets-after-sleep",
+    "destination": "https://sounddial.eu/ja/blog/mac-volume-resets-after-sleep",
+    "statusCode": 301
+  },
+  {
     "source": "/sounddial/blog/:locale(cs|en|hr|sk|uk)/mac-too-loud-full-volume-tame-it",
     "destination": "https://sounddial.eu/blog/mac-too-loud-full-volume-tame-it",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(th)/mac-startup-sound-too-loud",
+    "destination": "https://sounddial.eu/th/blog/mac-startup-sound-too-loud",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(vi)/mac-too-loud-full-volume-tame-it",
+    "destination": "https://sounddial.eu/vi/blog/mac-too-loud-full-volume-tame-it",
+    "statusCode": 301
+  },
+  {
+    "source": "/sounddial/blog/:locale(th)/set-default-volume-new-apps-mac",
+    "destination": "https://sounddial.eu/th/blog/set-default-volume-new-apps-mac",
     "statusCode": 301
   },
   {
