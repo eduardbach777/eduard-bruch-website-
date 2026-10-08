@@ -3,6 +3,7 @@
 import { useEffect } from "react";
 import Link from "next/link";
 import { buildStoreUrl, campaignFor } from "@/lib/appstore";
+import EntityGraph from "@/components/EntityGraph";
 
 const WORK = [
   { id: "sounddial", n: "01", name: "SoundDial", tag: "Per-App Volume Mixer", plt: "macOS", href: buildStoreUrl({ appId: "6772792641", campaign: campaignFor.home() }), img: "/apps/sounddial.png", rev: false,
@@ -20,8 +21,8 @@ const WORK = [
 ];
 
 const GUIDES = [
-  { k: "sounddial", h: "Mac audio, fixed", href: "/sounddial/blog", p: "FaceTime too quiet, per-app volume, late-night movie audio — the top traffic driver.", c: "50+ articles" },
-  { k: "stash", h: "iPhone privacy", href: "/vault/blog", p: "Hiding photos, secret vaults, Face ID vs passcode — practical, ranking guides.", c: "30+ articles" },
+  { k: "sounddial", h: "Mac audio, fixed", href: "https://sounddial.eu/blog", p: "FaceTime too quiet, per-app volume, late-night movie audio — the top traffic driver.", c: "50+ articles" },
+  { k: "stash", h: "iPhone privacy", href: "https://stashphotovault.com/blog", p: "Hiding photos, secret vaults, Face ID vs passcode — practical, ranking guides.", c: "30+ articles" },
 ];
 
 export default function Home() {
@@ -47,6 +48,7 @@ export default function Home() {
 
   return (
     <div className="achome">
+      <EntityGraph />
       {/* HERO */}
       <header className="ac-hero">
         <div className="ac-portal">

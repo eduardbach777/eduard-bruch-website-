@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import EntityGraph from "@/components/EntityGraph";
 
 export const metadata: Metadata = {
   title: "About — Eduard Bruch (Angel Company)",
@@ -11,5 +12,10 @@ export default function AboutLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return (
+    <>
+      <EntityGraph />
+      {children}
+    </>
+  );
 }

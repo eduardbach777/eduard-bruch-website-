@@ -12,6 +12,8 @@ Website: https://www.eduardbruch.com
 
 ### SoundDial — Per-App Volume Mixer, EQ & Output per App for macOS
 
+SoundDial is a menu-bar volume mixer for Mac that gives every app its own volume, mute, EQ and output device, as a one-time purchase on the Mac App Store.
+
 Menu-bar app that gives every app on a Mac its own volume slider, equalizer and
 output device. Version 2.0 (2026). Mac App Store, €14.99 one-time purchase, no
 subscription, no in-app purchases. Requires macOS 14.2 or later (built on
@@ -84,7 +86,9 @@ and export to CSV, JSON, or SQL.
 App Store: https://apps.apple.com/app/id6806639875
 Website: https://www.eduardbruch.com/tome
 
-### Stash — Secret Photo & File Vault for iOS
+### Stash: Calculator Photo Vault — Secret Photo & File Vault for iOS
+
+Stash: Calculator Photo Vault is an iPhone app that hides photos, videos and files behind a working calculator and encrypts them on the device.
 
 A photo and file vault disguised as a working calculator. Entering a passcode
 in the calculator opens the hidden vault. Everything stays on device, end-to-end
@@ -93,6 +97,19 @@ encrypted, with Face ID, intruder detection, and decoy passwords.
 App Store: https://apps.apple.com/app/id6759871587
 Website: https://stashphotovault.com
 Guides: https://stashphotovault.com/blog
+
+### Gazecue: Teleprompter (iOS + iPadOS)
+
+Gazecue: Teleprompter is a teleprompter and camera app for iPhone and iPad that scrolls your script close to the lens while you record, so you can read every line and still look at your viewer.
+
+App Store: https://apps.apple.com/app/id6771087312
+Website: https://gazecue.com
+
+### PDF Opus (macOS + iOS, in development)
+
+PDF Opus is a PDF editor for Mac, iPhone and iPad that is being built by Eduard Bruch; it is not available yet and has a waitlist.
+
+Website: https://pdfopus.com
 
 ### Pulse — System Monitor for macOS
 
