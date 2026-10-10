@@ -1,0 +1,52 @@
+[
+  {
+    "source": "/optic",
+    "destination": "https://opticocr.eu/",
+    "statusCode": 301
+  },
+  {
+    "source": "/optic/privacy",
+    "destination": "https://opticocr.eu/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/optic/blog",
+    "destination": "https://opticocr.eu/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/optic/blog/:locale([a-z]{2}(?:-[A-Za-z]{2,4})?)",
+    "destination": "https://opticocr.eu/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/optic/blog/:locale([a-z]{2}(?:-[A-Za-z]{2,4})?)/:slug",
+    "destination": "https://opticocr.eu/blog/:slug",
+    "statusCode": 301
+  },
+  {
+    "source": "/jetty/privacy",
+    "destination": "https://jettydock.eu/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/jetty/terms",
+    "destination": "https://jettydock.eu/terms",
+    "statusCode": 301
+  },
+  {
+    "source": "/jetty/blog",
+    "destination": "https://jettydock.eu/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/jetty/blog/:locale([a-z]{2}(?:-[A-Za-z]{2,4})?)",
+    "destination": "https://jettydock.eu/blog",
+    "statusCode": 301
+  },
+  {
+    "source": "/jetty/blog/:locale([a-z]{2}(?:-[A-Za-z]{2,4})?)/:slug",
+    "destination": "https://jettydock.eu/blog/:slug",
+    "statusCode": 301
+  }
+]
