@@ -63,5 +63,10 @@
     "source": "/vault/blog/:locale(en|en-AU|en-CA|en-GB)/:slug(hide-photos-videos-any-file-iphone)",
     "destination": "https://stashphotovault.com/blog/securely-store-private-files-iphone",
     "statusCode": 301
+  },
+  {
+    "source": "/vault/blog/de/how-to-hide-photos-on-iphone",
+    "destination": "https://stashphotovault.com/de/blog/how-to-hide-photos-on-iphone",
+    "statusCode": 301
   }
 ]
