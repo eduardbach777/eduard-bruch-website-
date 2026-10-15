@@ -86,7 +86,7 @@
   },
   {
     "source": "/sounddial/blog/:locale(sk)/disable-audio-ducking-mac",
-    "destination": "https://sounddial.eu/sk/blog/disable-audio-ducking-mac",
+    "destination": "https://sounddial.eu/blog/disable-audio-ducking-mac",
     "statusCode": 301
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "source": "/sounddial/blog/:locale(cs)/disable-audio-ducking-mac",
-    "destination": "https://sounddial.eu/cs/blog/disable-audio-ducking-mac",
+    "destination": "https://sounddial.eu/blog/disable-audio-ducking-mac",
     "statusCode": 301
   },
   {
